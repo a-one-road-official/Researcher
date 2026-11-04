@@ -1,0 +1,1913 @@
+{
+ "name": "製造業向けの取材記事・オウンドメディア制作",
+ "en": "content marketing interview articles for manufacturers Japan",
+ "aliases": [
+  "製造業 取材記事 制作",
+  "BtoB 取材記事 料金",
+  "製造業 オウンドメディア 制作会社"
+ ],
+ "context": "入口候補・メディア",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:53:52.535803+00:00",
+ "evidence": {
+  "顧客獲得単価": [
+   {
+    "quote": "リスティング広告などのWeb広告は、お金を払えばすぐにアクセスが集まるため、「1件の問い合わせを獲得するのにいくらかかったか（CPA）」という",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "一度上位表示されれば、その後は広告費をかけずに24時間365日、自動でお客様を集め続けてくれます",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果（ROI）＝(リード単価 – 運用費用総額) /運用費用総額 * 100",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   }
+  ],
+  "顧客が払う単価": [
+   {
+    "quote": "30万円以下",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "31~50万円",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "51~100万円",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "101~150万円",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "151~200万円",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "201~300万円",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "301~500万円",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "501万円以上",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアの構築費用は、自社制作で50万円〜、Web制作会社への外注で100万円〜が目安です",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "50万円〜200万円",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "100万〜300万円／1か月〜3か月",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "300万円〜1,000万／3か月〜",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "たとえばデザイン費やシステム開発費などでオウンドメディア構築に300万円かかる場合、ディレクション費が30万円〜90万円となり、プロジェクト全体の制作費用は「300万円＋30万円〜90万円＝330万円〜390万円」です",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "レンタルサーバーを利用する場合は数千円〜1万円ほど、クラウドサーバーを使う場合は3〜5万円ほどが目安です",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "ドメインは数百円〜10万円／年と費用の幅が大きく、「.com」や「.co.jp」などのトップレベルドメインは高めになる傾向があります",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "保守管理にかかる費用は1万円〜10万円／月と任せる範囲によって変わってきます",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "SEOコンテンツ（5万円〜15万円／本）",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "取材・インタビューコンテンツ（10万円〜15万円／本）",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "制作費用：100万円〜300万円",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "30~300万円",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "50~300万円",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "数千円~20万円 / 1記事",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "数千円~5万円 / 1記事",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "数千円~5万円",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "5万円~20万円 / 月",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "10~50万円 / 月",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "5~30万円",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "月額50~400万円ほど",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "300~1000万円以上",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "記事リライト代行会社10選！料金相場や選ぶ基準・作業範囲も解説",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "「客単価が2.5倍に上がった」「契約までのリードタイムが3分の1に短縮できた」「アポ率が3倍以上になった」",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "pass": 3
+   },
+   {
+    "quote": "自社コンセプトにマッチした見込み顧客が増え、契約単価が1000万円向上した",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "pass": 3
+   },
+   {
+    "quote": "商材の強みや特徴を理解した上で反響に至るため、価格競争から脱却し受注単価が2.5倍に",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "pass": 3
+   },
+   {
+    "quote": "AI類似図面検索システム17選を比較！料金・機能・選び方",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "pass": 3
+   },
+   {
+    "quote": "形状検索、AI-OCR、2D・3D CAD対応、クラウド・オンプレミス、料金を整理し、設計流用・見積...",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "pass": 3
+   },
+   {
+    "quote": "記事の監修やアドバイス、簡単なリライトのみのスモールスタート（月額3万円〜）から、戦略設計を含めたフルサポートまで柔軟に対応が可能ですので、まずは",
+    "url": "https://www.w-star.com/media.htm",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、「年間で2000万円以上の売上を計上する」といった定量的な目標です",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "上記の例でいえば、月間売上目標は約170万円で、そのためにはセッションが月間3万PV程度まで必要で、そのためには毎月10〜15本の記事更新が必要、というイメージです",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "「初期費用が安いかどうか」だけでなく、記事1本あたりの単価や、どこまでサポートが含まれるかを確認することが重要",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "実行支援のみ 月額30万円〜（最低3ヶ月）／実行＋コンサル 月額50万円〜（最低6ヶ月）／コンサルのみ 月額25万円〜（最低3ヶ月） ※費用は予算・目標に応じて個別にお見積り（税抜の目安）",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "制作：100万円～（目安） ※要お問い合わせ",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "月額30万円〜（税別） ※内容により変動",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアを0から立ち上げ、3年で売上106億円につなげた事例や、月4,400件以上の問い合わせを獲得した事例など、アクセスだけでなく事業成果につなげた実績を持ちます",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "0から3年で売上106億円、月4,400件以上の問い合わせ、月間3.8万PVから19ヶ月で50万PVなど",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "数万円〜100万円以下",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円以上",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "価格帯は数万円〜300万円程度と幅がありますが、ミニマムだと、WordPressのテーマ（テンプレート）を購入してサイトを立ち上げるような形です",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "オリジナルデザインで制作したり、SEOのコンサルティングも込みで外部の制作会社に依頼をするとなると、100万円〜200万円以上の初期費用が必要となります",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "3～5万円/記事",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000円～20万円/月",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "0円～10万円/月",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "20～40万円/月",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "500,000円~",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果（ROI）＝(リード単価 – 運用費用総額) /運用費用総額 * 100",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえ月間の検索数が少なくても、ユーザーの一人が「設計上の悩ましい課題」に直面していれば、1件のCVが数千万円、数億円のビジネスにも直結することは珍しくありません",
+    "url": "https://www.hp-senka.jp/essay/5859/",
+    "pass": 3
+   },
+   {
+    "quote": "フレームワークを用いて分析しないの？という疑問もあるかもしれませんが、膨大な工数と必要人員が必要なため3C分析だけで数十万円の値段をつけなくてはいけなくなってしまいます",
+    "url": "https://valueagent.co.jp/blog/27065",
+    "pass": 3
+   },
+   {
+    "quote": "更に細かくなると、「外壁塗装 ㎡2500円 業者」「外壁塗装 吹付けが上手な業者」「戸建て 外壁 耐久年数」「外壁 白い粉みたいな汚れ」などと検索ユーザーもでてくるでしょう",
+    "url": "https://valueagent.co.jp/blog/27065",
+    "pass": 3
+   },
+   {
+    "quote": "「SEO対策」「SEO料金」「SEOキーワード」等のSEO関連キーワードや「Webコンサルティング」で1ページ目表示",
+    "url": "https://valueagent.co.jp/blog/27065",
+    "pass": 3
+   },
+   {
+    "quote": "【最新版】オウンドメディア制作・構築の費用相場｜価格を公開するおすすめ業者10社",
+    "url": "https://valueagent.co.jp/blog/27065",
+    "pass": 3
+   },
+   {
+    "quote": "基本的なコーポレートサイト型のオウンドメディアでは50万円から200万円程度、本格的なメディアサイトでは200万円から500万円程度が一般的な相場となります",
+    "url": "https://by-independent.com/column2/manufacturing-owned-media-production-companies-mrktx/",
+    "pass": 3
+   }
+  ],
+  "成約率・継続率": [
+   {
+    "quote": "営業資料やPDFからコンテンツを作成したり、成果の出る記事をLP化して成約率を高めるなど、「Webマーケティングの代行」として成果にコミットする姿勢が特徴",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタントの指名・変更可能で継続率90%以上",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "18年以上のSEO事業歴・継続率95.3%",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "「クライアントのやりたいこと」ではなく「本質的にあるべき姿」から逆算した提案スタイルが特徴で、継続率は90%以上",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "継続率95.3%を誇るSEOコンサルティングをベースに、オウンドメディアの戦略設計から記事制作・効果検証まで一貫して支援します",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "問い合わせ件数・資料ダウンロード数・ページビュー数・商談化率など、目的に合った指標を選ぶことが大切です",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "のため、他の施策よりも成約率が高いのが特徴です",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "pass": 3
+   },
+   {
+    "quote": "商談時の自社アピールの手間も省け、その後の検討スピードが大幅に短縮されるとともに、成約率が上がった",
+    "url": "https://www.w-star.com/media.htm",
+    "pass": 3
+   },
+   {
+    "quote": "契約率や継続率の高いユーザーを集客できれば、LTV（顧客生涯価値）の向上にも貢献してくれるでしょう",
+    "url": "https://www.freestyle-entertainment.co.jp/blog/owned-media-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、営業担当者は質の高い見込み客に集中して対応できるようになり、成約率の向上も期待できます",
+    "url": "https://goleadgrid.com/blog/manufacturing-attracting-customers",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のニーズを的確に捉え、最適なアプローチを行うことで、見込み客の獲得と成約率の向上につなげることができるでしょう",
+    "url": "https://goleadgrid.com/blog/manufacturing-attracting-customers",
+    "pass": 3
+   },
+   {
+    "quote": "商談前の段階で強固な信頼感が醸成され、成約率の向上や商談の単価アップにも直結します",
+    "url": "https://www.directorbank.co.jp/blog/ownedmedia-casestudy/",
+    "pass": 3
+   }
+  ],
+  "許可・資格の要否": [
+   {
+    "quote": "Web幹事にご相談いただければ、簡単に要件をお伺いした上で費用の目安をお伝えできます！",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "コンプライアンス要件が厳しい上場企業や、大規模なメディアサイトの構築によく選ばれています",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "テンプレートを使わず、企業の戦略に合わせて企画・設計から行う「フルオーダーメイド」の制作スタイルのため、費用や期間は要件によって変動します",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "一緒にオウンドメディアの要件について考えて欲しい",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "要件やスケジュールに合わせて相談しましょう",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "400社以上の支援実績があり、バズ部認定ライターによる記事作成で月に120万PVを達成した実績あり",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "上位1%認定パートナーのみ対応",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "専門的な知識を必要とする場合にも、その分野における資格者や実務経験者をアサインし、独自性のあるコンテンツを作成することが可能です",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "バズ部認定ライターと編集者によるチーム体制",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "4,000名の登録者から厳選した上位1%のハイクラスなフリーランスコンサルタント",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "上位1%認定パートナーのみ対応・品質競争原理の導入",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "slide libは、比較記事の中でサービス資料を登録なしで全ページ読める、資料閲覧型のBtoBサービス比較サイトです",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ無料登録",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "pass": 3
+   },
+   {
+    "quote": "審査倍率100倍の認定パートナーから担当者を選べる",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "StockSun株式会社は、審査倍率100倍の認定パートナーが在籍するWebマーケティング支援会社です",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "また、コンセプト設計から要件定義、構築、保守まで一気通貫で依頼可能で、自社運用がスムーズに進められるようアナリティクス設定やCMSカスタマイズも行っています",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "クロール済み – インデックス未登録の原因と解決方法を解説！",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "掲載されているロゴ、システム名、製品名は弊社及び商標権者の登録商標あるいは商標です",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアの具体的な要件や仕様を定義する",
+    "url": "https://techport.co.jp/archives/45056",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録",
+    "url": "https://techport.co.jp/archives/45056",
+    "pass": 3
+   },
+   {
+    "quote": "メールマガジンへの登録を促す導線を設ける",
+    "url": "https://www.freestyle-entertainment.co.jp/blog/owned-media-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "【オウンドメディア構築】オウンドメディアに必要な機能の整理と要件定義を実施する",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "9. 【オウンドメディア構築】オウンドメディアに必要な機能の整理と要件定義を実施する",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、オウンドメディアに必要な機能や要件を洗い出し、要件定義を実施します",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、要件定義とは、Webサイト制作のプロジェクトにおいて、必要な機能や性能、デザインなどの要望を明確にする作業のことです",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、要件定義の段階ではそのような条件を満たせるように機能やデザインを考える必要があります",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "その他、以下のような視点も持って要件定義を進めましょう",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "の力を借りながら要件定義",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "要件定義と同時に、オウンドメディアに必要なドメイン・サーバー・CMSを決定しましょう",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、オウンドメディアようにWebサイトを新たに構築する場合は、ドメイン登録サービス業者から取得する必要があります",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "要件定義と並行して、オウンドメディアの目的やコンセプト、ターゲット層に即したデザインを決定しましょう",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "アカウントを登録するだけで、記事の作成・更新ができるため手軽に始められるオウンドメディアだと言えるでしょう",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "WordPressであれば、レンタルサーバーの利用登録をしてWordpressをCMSに設定しテーマを選べば、すぐにある程度の機能が揃った状態でWebメディアが始められます",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "アカウント登録だけでWebメディアを始められます",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "競合が真似できない「成果・ベネフィット」や「スペックの概略」を公開し、核心的な「ノウハウ」は会員登録の問い合わせ後のみ開示するというステップを踏みます",
+    "url": "https://www.hp-senka.jp/essay/5859/",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録（無料）はこちらから",
+    "url": "https://www.directorbank.co.jp/blog/ownedmedia-casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "に同意のうえ登録",
+    "url": "https://www.directorbank.co.jp/blog/ownedmedia-casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録",
+    "url": "https://valueagent.co.jp/blog/27065",
+    "pass": 3
+   },
+   {
+    "quote": "Googleから検索エンジンサービスの支援や保証を受けている認定ではありません",
+    "url": "https://valueagent.co.jp/blog/27065",
+    "pass": 3
+   },
+   {
+    "quote": "高機能なCMSの導入や独自システムの開発、多言語対応などの要件が加わる場合は、500万円を超える投資が必要になることもあります",
+    "url": "https://by-independent.com/column2/manufacturing-owned-media-production-companies-mrktx/",
+    "pass": 3
+   },
+   {
+    "quote": "完全無料かつ会員登録不要でご利用いただけます",
+    "url": "https://by-independent.com/column2/manufacturing-owned-media-production-companies-mrktx/",
+    "pass": 3
+   }
+  ],
+  "最初の売上までの期間": [
+   {
+    "quote": "ホームページ制作の流れ・期間",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "以下の表にて、価格帯別に「目的」「発注先」「制作期間」などをまとめました",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "1週間〜1ヶ月",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "1ヶ月〜2ヶ月",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "立ち上げたい",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "2ヶ月〜4ヶ月",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "3ヶ月〜6ヶ月",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "制作期間：1週間〜1ヶ月",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "制作期間：1ヶ月〜2ヶ月",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "目的：集客のために本格的なオウンドメディアを立ち上げたい",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "制作期間：2ヶ月〜4ヶ月",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "制作期間：3ヶ月〜6ヶ月",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "記事や動画など立ち上げ当初から掲載するコンテンツの制作費用",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "コンテンツ制作費とは、オウンドメディア立ち上げ時に掲載する記事・動画などの制作費用のことです",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "制作期間：要問い合わせ",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアの構築費は、コンセプト設計費やデザイン費などオウンドメディアの立ち上げに際してかかってくる費用",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "運営費は、ツール利用料やコンテンツの制作費などオウンドメディアの立ち上げ後に継続してかかってくる費用",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "構築費用／期間の目安",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "100万〜300万円／1か月〜3か月",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "300万円〜1,000万／3か月〜",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "サーバーとドメインは契約期間が終わるごとに更新費用がかかります",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーの共感を生むコンテンツを軸とし、リリースから約5か月でPV数を9倍まで伸ばすことに成功",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "「SEO集客の強化でPV数がリリースから約5ヶ月で9倍に」ギグワークのブランディングを目指したオウンドメディア制作事例｜コンテンツマーケケティング・コンテンツ制作会社ならコンマルク",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディア立ち上げ後はエージェントからの紹介数や採用決定数が増加し、採用活動の課題解決に成功",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のオウンドメディア成功事例10選｜立ち上げから運用のポイントまで解説",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "【法人リード年465件獲得の編集長が実例つき解説】メディア立ち上げから成果が出るまでの運用戦略",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "また、オウンドメディアからリードが安定して生まれるまでには、一般的に半年から1年程度かかります",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "その立ち上げ期をどう乗り切るかが成否を分けるため、短期で件数を確保できる施策と並行させるのが現実的です",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "新規立ち上げからインハウス化支援、リモート対応による全国対応と、",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "・運用及び施策代行支援：年間1,000万円〜（税抜）※最低1年契約",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のオウンドメディア成功事例10選｜立ち上げから運用のポイントまで解説｜コンテンツマーケティング・コンテンツ制作会社ならコンマルク",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のオウンドメディア成功事例10選｜立ち上げから運用のポイントまで解説",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、製造業がオウンドメディアを運営するメリットから、成功事例10選、立ち上げ手順、運用のポイントまで網羅的に解説します",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアを立ち上げることで、検索エンジンからの流入を独占的に獲得できる可能性があります",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "広告とは異なり、オウンドメディアのコンテンツは一度作成すれば長期間にわたって集客効果を発揮します",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "製品カテゴリごとに専門サイトを立ち上げ、ターゲットを明確に絞り込む戦略は、多角化した製造業にとって参考になるアプローチです",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "コクヨが運営する「WORKSIGHT［ワークサイト］」は2011年に「働くしくみ」と「ワークプレイス」を扱うオウンドメディアとしてスタートし、2022年7月のリニューアル以降は「自律協働社会のゆくえ」を考えるメディアとして再定義され、働き方のみならず循環型経済・Web3・ローカリティなど、これからの社会を捉え直すテーマへと対象領域を広げています",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "事例を参考にしても、自社で立ち上げるには工数とノウハウが必要です",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のオウンドメディア立ち上げ手順6ステップ",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "製造業がオウンドメディアを立ち上げる際の具体的な手順を6つのステップで解説します",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "ドメインについては、コーポレートサイトのサブディレクトリ（例：company.jp/media/）として構築するか、独立したサブドメイン（例：media.company.jp）として立ち上げるかを検討します",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアの立ち上げ手順｜サイト・記事制作の観点から解説",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、立ち上げ当初は更新されていたものの、徐々に更新頻度が落ち、最終的に放置されてしまうケースが少なくありません",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアは即効性のある施策ではなく、成果が出るまでに半年〜1年以上かかることも珍しくありません",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "事前に経営層へ成果が出るまでの期間を説明し、理解を得る",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】製造業のオウンドメディア成功事例10選！立ち上げから運用の手順も解説 -",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】製造業のオウンドメディア成功事例10選！立ち上げから運用の手順も解説",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "業界特有の事情も踏まえ、製造業がオウンドメディアを運用するメリットと立ち上げ手順、成功事例10選、運用を成功させるポイントを解説します",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアの立ち上げや改善を検討している製造業の方は、ぜひ参考にしてください",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業がオウンドメディアを立ち上げる際の手順",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のオウンドメディアの立ち上げ・運用ならXINOBIX（シノビクス）へ",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "特にBtoBの製造業では、購買プロセスにおいて「導入までの検討期間が長い」「複数の意思決定者が関与する」といった特徴があります",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアを立ち上げる際は、目的の設定から運用体制の構築まで、段階的に準備を進める必要があります",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアを立ち上げる際の主な手順は、以下のとおりです",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアを立ち上げただけでは、期待している成果は出ません",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "ニッチなキーワードほど競合も少ないため、比較的短期間で検索上位を狙いやすい",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の場合はターゲットとなる読者層が限られるため、短期間で大きなアクセス数の増加を狙うのは現実的ではありません",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "数ヶ月で成果が出なかったから撤退するのではなく、少なくとも1〜2年を見据えた継続運用を前提に設計しましょう",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のオウンドメディアで効果が出始めるまでには、一般的に半年から1年程度の期間が必要です",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "通常、記事が公開されてから検索結果の上位に表示されるには、記事の質や競合サイトにもよりますが、3ヶ月から半年程度かかります",
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "営業のやり方": [
+   {
+    "quote": "発注事例のご紹介",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "SEO対策に強い",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "SNS運用代行",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "Web幹事 サービスご紹介資料",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "SEO対策チェックシート",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "&「理想のページ構成」紹介",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "Web幹事では、「100万円程度でオウンドメディアを作りたいので制作会社を紹介して欲しい」というご依頼を非常に多くいただいております",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "Web幹事は、あなたに最適な制作会社をプロが「人力で」マッチング・ご紹介するサービス",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの予算にあった制作会社をご紹介します",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "SEOに最適なサイト構造にカスタマイズして欲しい",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "SEOなどの知識がない場合は制作会社に任せるのが良いでしょう",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで、オウンドメディアの費用の相場をご紹介してきました",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは実際にオウンドメディアで使われているツールや制作会社の料金の事例をご紹介します",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "無料のものから、サポートが充実した有料のものまで、代表的なツールの料金プランをご紹介します",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "SEO対策や問い合わせフォームの設置など、必要な機能を低コストで自由にカスタマイズできる点が魅力です",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアの費用相場｜構築と運営にかかる費用の内訳や事例も紹介｜コンテンツマーケティング・コンテンツ制作会社ならコンマルク",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "SEOコンテンツ制作",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "SEOリライト支援",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "SEOキーワード設計",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "Web広告・SNS広告運用",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "AI SEO最適化",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアの費用相場｜構築と運営にかかる費用の内訳や事例も紹介",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "制作事例も紹介しますので、オウンドメディア制作を検討している企業担当者の方はぜひご一読ください",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "広義の意味ではパンフレットや広報誌のような紙媒体、ホワイトペーパー、SNSアカウントなども含みますが、",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、オウンドメディアの構築と運営にかかる費用の中身について、詳しく紹介します",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "SEOコンテンツ（5万円〜15万円／本）",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは株式会社GIGが制作したオウンドメディアの事例を紹介します",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "スキマバイトという新たな働き方の認知を拡大すべく、SEO記事やインタビュー記事を積極的に公開しています",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "「SEO集客の強化でPV数がリリースから約5ヶ月で9倍に」ギグワークのブランディングを目指したオウンドメディア制作事例｜コンテンツマーケケティング・コンテンツ制作会社ならコンマルク",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "GIGではサイト制作、ロゴ制作、SEOキーワード調査・設計、ヒートマップツールなどの解析基盤設定、コンテンツ制作を担当",
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれのニーズに合ったおすすめのオウンドメディア運用代行会社を紹介",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "【SEO特化タイプ】のオウンドメディア運用代行",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "SEO記事コンテンツ作成 / リライト",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "SEOコンサルティング費",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "SEO戦略の策定・改善提案や内部設計、トラフィックの分析等が含まれます",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "SEOコンテンツの作成のみ",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "これには、コンテンツ制作やSEO対策、アクセス解析などのノウハウ共有と社内チームのスキルアップが含まれまれますので、",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "将来的に内製で運用したい場合は、SEOツールを併用すると順位計測や競合分析を社内で効率化できます",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "SEOツールおすすめ19選比較",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアに掲載する記事はSEOを目的としたコンテンツ意外にも、自社ブランディング向上を目的とした、",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのコンテンツはSEO目的ではなく、",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "SEO記事だけでなく、リード獲得用のホワイトペーパーまで依頼したい場合は、制作代行の専門会社もあわせて検討するとよいでしょう",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "外注で失敗するケースまで紹介",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "SEO特化タイプ",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "1. SEO特化タイプ",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "SEOコンテンツ制作",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "SEOリライト支援",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "SEOキーワード設計",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "Web広告・SNS広告運用",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "AI SEO最適化",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "展示会や対面営業が中心だった従来の手法に加え、WebサイトやSNSを通じた情報発信が新規顧客獲得の重要な手段となっているのです",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "近年、購買担当者や技術者がWeb検索で情報収集を行うケースが増加しており、展示会や対面営業だけでは届かない層へのアプローチ手段としてオウンドメディアの重要性が高まっています",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、製造業でオウンドメディアを効果的に活用している企業の成功事例を紹介します",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "製品紹介に偏らず、業界全体に役立つ技術ノウハウを提供することで、電子部品選定時の第一想起を獲得することに成功しています",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "ニッチな分野に特化することで、SEOでの上位表示を獲得し、検索からの安定した流入を実現しています",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "FAQ形式のコンテンツは、検索エンジンでの露出機会を増やすSEO効果も期待できる手法です",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "特殊バネメーカーの東海バネ工業が運営する「ばね探訪」は、バネの基礎知識から応用事例まで幅広く紹介するオウンドメディアです",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "製品紹介ではなく、業界や技術に関する専門知識を惜しみなく公開している",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "SEOにおけるキーワード選定とは？役立つツールやポイントを徹底解説",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   },
+   {
+    "quote": "SEOの観点からは、既存サイトのドメインパワーを活用できるサブディレクトリが有利とされています",
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "pass": 3
+   }
+  ],
+  "小さく始めた実例": [
+   {
+    "quote": "「記事を書くだけでなく、売上やリード獲得に貢献するメディアに育てたい」というBtoB企業に最適です",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の教育が追いつかず、質の低いコンテンツが納品される",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "また、目先の売上だけでなく、以下のような「長期的な価値（LTV：顧客生涯価値の向上）」も期待できます",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアへの予算は、単なるコストではなく、将来の売上の土台を作るための「投資」と捉え、長い目で見て評価することをおすすめします",
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "pass": 3
+   },
+   {
+    "quote": "その立ち上げ期をどう乗り切るかが成否を分けるため、短期で件数を確保できる施策と並行させるのが現実的です",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社グランネットは、創業14年・300業種以上のSEO実績を持つデジタルマーケティング会社で、オウンドメディアの検索流入増加に特化した運用代行を提供します",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "運用シートとマニュアルも引き渡すので、少人数のマーケティング部や、担当者の退職で更新が止まったメディアでも、まず任せてから段階的に内製化できます",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "で、創業以来3,000社以のマーケティング支援とクリエイティブ支援を行ってきた実績を持ち、オウンドメディア運用代行を含む",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社GIGは、LIG創業者が設立したWeb制作・コンテンツマーケティング会社で、メディア事業部が運営するコンテンツマーケティング総合パートナーサービス「",
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "集客だけでない「売上」まで繋げるオウンドメディアもご案内します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "pass": 3
+   },
+   {
+    "quote": "サイトへ流入するユーザーが、正に自社が得意としているものを求めているのであれば、たとえアクセスが少なくとも安定して売上に繋げられます",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、製造業がオウンドメディアで集客・売上拡大を実現するために必要な具体的な取り組みを解説します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果の良い道を選び、オウンドメディアの運用を売上拡大へ繋げましょう",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "pass": 3
+   },
+   {
+    "quote": "認知度・売上アップも両立させるオウンドメディア施策",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員15～20名",
+    "url": "https://www.w-star.com/media.htm",
+    "pass": 3
+   },
+   {
+    "quote": "従業員5～10名",
+    "url": "https://www.w-star.com/media.htm",
+    "pass": 3
+   },
+   {
+    "quote": "従業員30～50名",
+    "url": "https://www.w-star.com/media.htm",
+    "pass": 3
+   },
+   {
+    "quote": "「頑張って書いているのに反応がない」「外注業者に頼むと自社の強みが伝わらない」などの、かけた手間が成果に結びつかない「もったいない」状況を打開して、Webサイトを本当の意味で企業の売上を作る武器に変えたいという想いから、本サービスは誕生しました",
+    "url": "https://www.w-star.com/media.htm",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアを運用する目的は「オンラインからの売上をあげる」ということが第一ですが、それ以外にも以下のような目標があります",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、「年間で2000万円以上の売上を計上する」といった定量的な目標です",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "上記の例でいえば、月間売上目標は約170万円で、そのためにはセッションが月間3万PV程度まで必要で、そのためには毎月10〜15本の記事更新が必要、というイメージです",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "PVは伸びても売上につながらない企業／制作会社に任せても成果が出ず、支援先を見直したい企業",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "累計300社以上の支援実績を持ち、売上の約8割は長期継続クライアント",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "CV増加や売上拡大を狙うBtoB・BtoC企業／戦略〜実行まで一貫支援を求める企業／独自性あるコンテンツ発信をしたい企業",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "「作って終わり」ではなく、集客や売上につながる運用体制を構築するパートナー",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアを0から立ち上げ、3年で売上106億円につなげた事例や、月4,400件以上の問い合わせを獲得した事例など、アクセスだけでなく事業成果につなげた実績を持ちます",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "0から3年で売上106億円、月4,400件以上の問い合わせ、月間3.8万PVから19ヶ月で50万PVなど",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "ネットショップのSEO対策で売上を最大化する５つの具体策！最新の戦略を徹底解説",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "少ないPVにも関わらず、驚くほど売上がよく、SEOの評価も伸びていました",
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアのメリットを徹底解剖！集客・売上UPを加速する6つの効果 | Web制作会社 フリースタイルエンターテイメント",
+    "url": "https://www.freestyle-entertainment.co.jp/blog/owned-media-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "社員数6名の会社に",
+    "url": "https://www.freestyle-entertainment.co.jp/blog/owned-media-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアのメリットを徹底解剖！集客・売上UPを加速する6つの効果",
+    "url": "https://www.freestyle-entertainment.co.jp/blog/owned-media-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、オウンドメディア運営がもたらす集客や売上向上に繋がる6つのメリットや、メリットを最大限に生かすポイントを徹底的に解説します",
+    "url": "https://www.freestyle-entertainment.co.jp/blog/owned-media-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "将来の従業員に向けても自社の魅力を発信できる場となります",
+    "url": "https://www.freestyle-entertainment.co.jp/blog/owned-media-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "実際、弊社の過去の支援先では担当者1人でしたが弊社のリソースを有効に活用することで、月間50万PV・200リード越えのオウンドメディア立ち上げに成功しました",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "デザインは、オウンドメディアの信頼度の他、売上やPV数などにも影響を与える大切な要素です",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "反対に「リード数○○件、売上〇〇円につながります」というように事業に直結する定量的な成果の話をする会社は高いノウハウを持っている場合が多いでしょう",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "Web業界で有名な「LIGブログ」を運営する株式会社LIGの創業者が立ち上げた会社でもあります",
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "同社のこの分野の売上基盤づくりに貢献している",
+    "url": "https://www.hp-senka.jp/essay/5859/",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場における売上基盤の強化に大きく貢献した",
+    "url": "https://www.hp-senka.jp/essay/5859/",
+    "pass": 3
+   },
+   {
+    "quote": "〜設立1999年、創業27年目を迎える〜",
+    "url": "https://www.hp-senka.jp/essay/5859/",
+    "pass": 3
+   },
+   {
+    "quote": "創業30年に向け、AI新時代のオウンドメディア運用を代表自ら先導する",
+    "url": "https://www.hp-senka.jp/essay/5859/",
+    "pass": 3
+   },
+   {
+    "quote": "運営元は、1974年創業、大阪に本社を置くねじ・ナットの専業メーカー「",
+    "url": "https://www.directorbank.co.jp/blog/ownedmedia-casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "運営元は、1927年創業の冷却ファン・サーボモータ・UPS（無停電電源装置）などの精密機器メーカー「",
+    "url": "https://www.directorbank.co.jp/blog/ownedmedia-casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "運営元は、1897年創業の大手総合印刷会社「",
+    "url": "https://www.directorbank.co.jp/blog/ownedmedia-casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "会社サイトとしても機能しているオウンドメディア「コマースピック」では、EC事業の責任者や各種業務担当者向けに、以下のようにEC運営や売上拡大に役立つ情報を発信しています",
+    "url": "https://www.directorbank.co.jp/blog/ownedmedia-casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアを立ち上げれば「集客UP」「売上UP」が期待できそう！と考え、実際に立ち上げるとなると以下の様な悩みがでてくるもの",
+    "url": "https://valueagent.co.jp/blog/27065",
+    "pass": 3
+   },
+   {
+    "quote": "目的は企業によって、「ブランディング」「問い合わせ数の増加」「売上増加」「リーチ数の増加」など色々あり、全て狙いたいと考えるかもしれませんが、先ずは一つを明確にきめましょう",
+    "url": "https://valueagent.co.jp/blog/27065",
+    "pass": 3
+   },
+   {
+    "quote": "KGI（最終目標）として売上UPだとすると、KPI（短期目標）は「潜在客のオウンドメディア利用者を増やすこと」だったり、「潜在客に自社サービスを知ってもらうこと」だったり、「比較をする際に自社もいれてもらえるようにする」等、あらゆるものがあります",
+    "url": "https://valueagent.co.jp/blog/27065",
+    "pass": 3
+   },
+   {
+    "quote": "そして、業界の抱える問題や業界における顧客が起こしやすい勘違い、売上増減に関わる外的要因などから、担当者は俯瞰的に捉えつつもその業界について詳しくなるよう勉強します",
+    "url": "https://valueagent.co.jp/blog/27065",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のオウンドメディア運用により、営業効率の向上と売上拡大を同時に実現",
+    "url": "https://by-independent.com/column2/manufacturing-owned-media-production-companies-mrktx/",
+    "pass": 3
+   },
+   {
+    "quote": "XINOBIXNote2016年創業の同社は、大手から中堅企業様を中心にCV獲得・売上貢献にコミットするオウンドメディア・コンテンツSEO支援を行っており、戦略設計、コンテンツ制作、運用改善をパッケージでご提供することで、オウンドメディアを成果につなげるための総合的なサポートを実現しています",
+    "url": "https://by-independent.com/column2/manufacturing-owned-media-production-companies-mrktx/",
+    "pass": 3
+   },
+   {
+    "quote": "成熟段階では、ビジネス成果により直結した指標を重視し、売上貢献度や顧客獲得コストの改善を目標とします",
+    "url": "https://by-independent.com/column2/manufacturing-owned-media-production-companies-mrktx/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://web-kanji.com/posts/owned-media-price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://depart-inc.com/blog/owned-media-cost-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.conmark.jp/column/cost-ownedmedia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xinobix.jp/blog/owned-media-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tmcdigital.jp/column/web-design/owned-media-launch-steps/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.conmark.jp/column/manufacturing-owned-media",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search-engine-pirates.co.jp/column/content-seo/owned-media-cost-effectiveness/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tmcdigital.jp/column/web-marketing/b2b-manufacturing-owned-media/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.com/magazine/owned-media-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hatena.ne.jp/ownedmedia/article/ownedmedia-roi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sairu.co.jp/method/12000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moltsinc.co.jp/media/knowledge/11068/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.w-star.com/media.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pascaljp.com/blog/?p=2200",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ferret-one.com/blog/owned-media",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shwat.jp/ultra/owned-media-cost-effectiveness/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techport.co.jp/archives/45056",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freestyle-entertainment.co.jp/blog/owned-media-merit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shwat.jp/ultra/owned-media-launch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mieru-ca.com/blog/ownedmedia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plea-mm.com/officialblog/marketing/why-smes-need-owndmedia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketing.contenna.jp/blog/btob-manufacturing-ownedmedia-know-how",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media-partners.techsuite.co.jp/906/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media-partners.techsuite.co.jp/884/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/161221/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://giginc.co.jp/blog/giglab/ownedmedia-casestudy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goleadgrid.com/blog/ownedmedia-success",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plan-b.co.jp/blog/seo/15219/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goleadgrid.com/blog/manufacturing-attracting-customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techport.co.jp/archives/45056",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hp-senka.jp/essay/5859/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.bizboost.co.jp/successful-on-demand-media-case-studies-and-reference-sites",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_exhibition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.directorbank.co.jp/blog/ownedmedia-casestudy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.branding-t.co.jp/case/branding/19817/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://valueagent.co.jp/blog/27065",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mieru-ca.com/blog/ownedmedia_interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://by-independent.com/column2/manufacturing-owned-media-production-companies-mrktx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markenote.jp/article/1286",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業向けの取材記事・オウンドメディア制作 料金 相場",
+   "results": [
+    "https://web-kanji.com/posts/owned-media-price",
+    "https://depart-inc.com/blog/owned-media-cost-guide/",
+    "https://www.conmark.jp/column/cost-ownedmedia",
+    "https://cone-c-slide.com/liblog/ownedmedia-agency/",
+    "https://xinobix.jp/blog/owned-media-cost/",
+    "https://www.tmcdigital.jp/column/web-design/owned-media-launch-steps/",
+    "https://giginc.co.jp/blog/giglab/ownedmedia_cost",
+    "https://goleadgrid.com/blog/cost-of-owned-media",
+    "https://n-works.link/blog/seo/ownmedia-outsourcing",
+    "https://weblead.jp/blog/owned-media-production"
+   ]
+  },
+  {
+   "query": "製造業向けの取材記事・オウンドメディア制作 顧客獲得単価 OR CPA",
+   "results": [
+    "https://www.conmark.jp/column/manufacturing-owned-media",
+    "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "https://search-engine-pirates.co.jp/column/content-seo/owned-media-cost-effectiveness/",
+    "https://www.tmcdigital.jp/column/web-marketing/b2b-manufacturing-owned-media/",
+    "https://prtimes.com/magazine/owned-media-case-studies/",
+    "https://www.hatena.ne.jp/ownedmedia/article/ownedmedia-roi",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "https://shwat.jp/ultra/owned-media-cost-effectiveness/",
+    "https://carryme.jp/agent/owned-media-for-btob/"
+   ]
+  },
+  {
+   "query": "製造業向けの取材記事・オウンドメディア制作 成約率 OR 受注率 OR 継続率",
+   "results": [
+    "https://www.conmark.jp/column/manufacturing-owned-media",
+    "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "https://sairu.co.jp/method/12000/",
+    "https://depart-inc.com/blog/owned-media-cost-guide/",
+    "https://moltsinc.co.jp/media/knowledge/11068/",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "https://www.w-star.com/media.htm",
+    "https://www.pascaljp.com/blog/?p=2200",
+    "https://ferret-one.com/blog/owned-media"
+   ]
+  },
+  {
+   "query": "製造業向けの取材記事・オウンドメディア制作 粗利率 利益率",
+   "results": [
+    "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "https://www.conmark.jp/column/manufacturing-owned-media",
+    "https://shwat.jp/ultra/owned-media-cost-effectiveness/",
+    "https://www.tmcdigital.jp/column/web-marketing/b2b-manufacturing-owned-media/",
+    "https://depart-inc.com/blog/owned-media-cost-guide/",
+    "https://techport.co.jp/archives/45056",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "https://www.freestyle-entertainment.co.jp/blog/owned-media-merit/",
+    "https://search-engine-pirates.co.jp/column/content-seo/owned-media-cost-effectiveness/"
+   ]
+  },
+  {
+   "query": "製造業向けの取材記事・オウンドメディア制作 許可 必要",
+   "results": [
+    "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "https://www.conmark.jp/column/manufacturing-owned-media",
+    "https://techport.co.jp/archives/45056",
+    "https://shwat.jp/ultra/owned-media-launch/",
+    "https://mieru-ca.com/blog/ownedmedia/",
+    "https://plea-mm.com/officialblog/marketing/why-smes-need-owndmedia/",
+    "https://www.youtube.com/watch?v=ClS9hrbnIU8",
+    "https://marketing.contenna.jp/blog/btob-manufacturing-ownedmedia-know-how",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "https://media-partners.techsuite.co.jp/906/"
+   ]
+  },
+  {
+   "query": "製造業向けの取材記事・オウンドメディア制作 起業 立ち上げ 初受注",
+   "results": [
+    "https://www.conmark.jp/column/manufacturing-owned-media",
+    "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "https://shwat.jp/ultra/owned-media-launch/",
+    "https://www.youtube.com/watch?v=ClS9hrbnIU8",
+    "https://hnavi.co.jp/knowledge/blog/161221/",
+    "https://www.pascaljp.com/blog/?p=2200",
+    "https://giginc.co.jp/blog/giglab/ownedmedia-casestudy",
+    "https://goleadgrid.com/blog/ownedmedia-success",
+    "https://www.plan-b.co.jp/blog/seo/15219/"
+   ]
+  },
+  {
+   "query": "製造業向けの取材記事・オウンドメディア制作 営業方法 紹介 展示会",
+   "results": [
+    "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "https://www.conmark.jp/column/manufacturing-owned-media",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "https://marketing.contenna.jp/blog/btob-manufacturing-ownedmedia-know-how",
+    "https://goleadgrid.com/blog/manufacturing-attracting-customers",
+    "https://writing.techport.co.jp/archives/32048/",
+    "https://www.hp-senka.jp/essay/5859/",
+    "https://blog.bizboost.co.jp/successful-on-demand-media-case-studies-and-reference-sites",
+    "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_exhibition"
+   ]
+  },
+  {
+   "query": "製造業向けの取材記事・オウンドメディア制作 会社 売上 従業員 創業",
+   "results": [
+    "https://www.conmark.jp/column/manufacturing-owned-media",
+    "https://prtimes.com/magazine/owned-media-case-studies/",
+    "https://www.youtube.com/watch?v=giErv91HIIA",
+    "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "https://www.directorbank.co.jp/blog/ownedmedia-casestudy/",
+    "https://www.branding-t.co.jp/case/branding/19817/",
+    "https://valueagent.co.jp/blog/27065",
+    "https://www.freestyle-entertainment.co.jp/blog/owned-media-merit/",
+    "https://mieru-ca.com/blog/ownedmedia_interview/",
+    "https://by-independent.com/column2/manufacturing-owned-media-production-companies-mrktx/"
+   ]
+  },
+  {
+   "query": "site:note.com 製造業向けの取材記事・オウンドメディア制作",
+   "results": [
+    "https://note.com/gkt/n/n620b6e30d2dc",
+    "https://note.com/topsalesnet/n/n17ae727a4939",
+    "https://note.com/myon77/n/ne84bd2ea76cd",
+    "https://note.com/gkt/n/nbfdc14664846",
+    "https://note.com/nishiryu_jp/n/n17c9638fdf1b",
+    "https://note.com/diisuket/n/n7e58bf27a213",
+    "https://note.com/mexce/n/nc9a79389ff63",
+    "https://note.com/someyumi8888/n/n0cacf66acfcf",
+    "https://note.com/infobahn/n/n814383b358bd",
+    "https://biz.note.com/magazines"
+   ]
+  },
+  {
+   "query": "site:x.com 製造業向けの取材記事・オウンドメディア制作",
+   "results": [
+    "https://x.com/curiver",
+    "https://x.com/keiko_writer",
+    "https://x.com/notepro_staff",
+    "https://x.com/PRTIMESMAG",
+    "https://x.com/word_inc",
+    "https://x.com/Tsuzuki95",
+    "https://x.com/carryme_tw",
+    "https://x.com/penq_inc",
+    "https://x.com/shapewin",
+    "https://x.com/tech_comi/status/2040398599314448395"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 製造業向けの取材記事・オウンドメディア制作",
+   "results": [
+    "https://jp.linkedin.com/in/keiko-writer",
+    "https://jp.linkedin.com/jobs/view/%E3%80%901331%E3%80%91-h-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%BC%81%E7%94%BB%EF%BC%88%E3%82%AA%E3%82%A6%E3%83%B3%E3%83%89%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E9%81%8B%E5%96%B6%E3%83%BB%E4%BC%81%E7%94%BB%E3%80%81%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%EF%BC%89-at-honda-4278031002",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E6%A1%88%E4%BB%B6no-1699%EF%BC%9E%E3%80%90%E5%B9%B4%E5%8F%8E%E5%BF%9C%E7%9B%B8%E8%AB%87%E3%80%91%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%88pr%EF%BC%89%EF%BD%9C%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E6%A7%8B%E7%AF%89%EF%BD%9C%E5%BA%83%E5%A0%B1%E6%88%A6%E7%95%A5%E3%82%92%E6%8B%85%E3%81%86-at-linkard-inc-4486106716",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E6%A1%88%E4%BB%B6no-1699%EF%BC%9E%E3%80%90%E5%BF%9C%E7%9B%B8%E8%AB%87%E3%80%91%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%88pr%EF%BC%89%EF%BD%9C%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E6%A7%8B%E7%AF%89%EF%BD%9C%E5%BA%83%E5%A0%B1%E6%88%A6%E7%95%A5%E3%82%92%E6%8B%85%E3%81%86-at-linkard-inc-4486106716?position=48&pageNum=0&refId=mfGkDwyy8G%2B%2FSgsZiIi79g%3D%3D&trackingId=MHICPbk%2B%2FnmqaJCT4evfog%3D%3D",
+    "https://jp.linkedin.com/in/kamadadaiki",
+    "https://jp.linkedin.com/in/kohei-sasaki-723829169",
+    "https://jp.linkedin.com/in/kobayashiyumiko",
+    "https://uk.linkedin.com/in/chiemarks/ja",
+    "https://jp.linkedin.com/in/maaya-ochiai",
+    "https://jp.linkedin.com/in/yukariminai371"
+   ]
+  },
+  {
+   "query": "site:facebook.com 製造業向けの取材記事・オウンドメディア制作",
+   "results": [
+    "https://www.facebook.com/upset.zero/",
+    "https://www.facebook.com/DandYPlanning/",
+    "https://www.facebook.com/p/%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100063552193051/",
+    "https://www.facebook.com/funlead/?locale=ja_JP",
+    "https://www.facebook.com/konnekt.inc/",
+    "https://www.facebook.com/laboroai/?locale=ja_JP",
+    "https://www.facebook.com/seigo.yada/",
+    "https://www.facebook.com/mayumi.matsuura.52/",
+    "https://www.facebook.com/yujiro.ichioka/",
+    "https://www.facebook.com/okinawagrit.llc/"
+   ]
+  },
+  {
+   "query": "製造業向けの取材記事・オウンドメディア制作 note 社長",
+   "results": [
+    "https://biz.note.com/n/n20bd16b4a7d6",
+    "https://shwat.jp/ultra/note-ownedmedia/",
+    "https://counter-digital.jp/counter-media/owned-media-note/",
+    "https://biz.note.com/n/n668de3b1c04a",
+    "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "https://wehubworks.com/colum-knowledge/owned-media-note/",
+    "https://markenote.jp/article/1286",
+    "https://note.jp/n/na581a44e02c4",
+    "https://www.conmark.jp/column/manufacturing-owned-media",
+    "https://biz.note.com/n/n043644c9c8b5"
+   ]
+  },
+  {
+   "query": "製造業向けの取材記事・オウンドメディア制作 X 投稿",
+   "results": [
+    "https://www.conmark.jp/column/manufacturing-owned-media",
+    "https://xinobix.jp/blog/ownedmedia-manufacturing/",
+    "https://writing.techport.co.jp/archives/30786/",
+    "https://www.hatena.ne.jp/ownedmedia/article/2024/01/25/110000",
+    "https://webtan.impress.co.jp/corner/9902",
+    "https://www.siteengine.co.jp/blog/owned-media-important-points/",
+    "https://hnavi.co.jp/knowledge/blog/161221/",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/",
+    "https://counter-digital.jp/counter-media/owned-media-x/",
+    "https://www.tmcdigital.jp/column/web-marketing/b2b-manufacturing-owned-media/"
+   ]
+  },
+  {
+   "query": "content marketing interview articles for manufacturers Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/cris-mostplacements-2020_differenceyoumade-japan-recruitment-activity-7513748548430192641--nuB",
+    "https://www.linkedin.com/pulse/how-us-tech-companies-can-interview-saas-sales-customer-zttac",
+    "https://www.linkedin.com/pulse/top-digital-marketing-interview-questions-answers-oju3c",
+    "https://www.linkedin.com/pulse/user-interview-japanese-customers-partners-rena-yu-ning-wang",
+    "https://www.linkedin.com/business/marketing/blog/content-marketing/7-questions-every-b2b-content-marketing-strategy-should-answer",
+    "https://www.linkedin.com/pulse/riki-japan-mates-partner-spotlight-interview-mygiving-a4brc",
+    "https://www.linkedin.com/posts/kristincrosier_dear-hiring-managers-please-stop-including-activity-7374485784374124545-iNHa",
+    "https://www.linkedin.com/pulse/interview-prep-how-much-should-i-know-product-emily-you-2f2ze",
+    "https://www.linkedin.com/in/jonathansantiago",
+    "https://www.linkedin.com/pulse/evolution-japans-label-printing-industry-insights-from-adrian-buratta-obk9e"
+   ]
+  }
+ ],
+ "missing": {
+  "利幅": "記載なし（読んだ42頁・検索15回）"
+ }
+}

@@ -1,0 +1,2504 @@
+{
+ "name": "求人広告代理店（製造業向け）",
+ "en": "job advertising agency manufacturers Japan",
+ "aliases": [
+  "求人広告代理店 製造業",
+  "求人媒体 販売 代理店",
+  "Indeed 運用代行 製造業"
+ ],
+ "context": "入口候補・採用支援（許可不要）",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:53:39.436722+00:00",
+ "evidence": {
+  "顧客獲得単価": [
+   {
+    "quote": "1人当たりにかかる求人広告費(採用単価)",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは求人広告の費用相場と、求人広告費にかける年間コストの推移、また1人あたりにかかる求人広告費(採用単価)の平均などを解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用における求人広告費の年間平均は、125.1万円です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "アルバイト採用における求人広告費平均は全体で23.5万円と、2022年の平均費用と比較すると1.4万円増加しています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりにかかる求人広告費(採用単価)の平均を職種ごとにご紹介します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用における1人当たりの転職サイト求人広告費は、全職種平均で36.7万円*でした",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店に払う費用は、求人媒体の広告費に運用代行手数料（広告費の15〜20%が目安）を加えた合計で決まります",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "手数料は広告費の15〜20%が目安で、少額予算では最低手数料により実質割高になりやすいです",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店に払う費用は、媒体の広告費に運用代行手数料（広告費の15〜20%が目安）を加えた合計で決まります",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "広告費の15〜20%が目安です",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "「月5万円」などの最低額を設けている代理店では、広告費が少額だと最低額が効いて、実質の手数料率が25〜30%相当まで上がることがあります",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店は複数媒体を横断して1つの窓口で提案・運用できるのが強みで、運用型の媒体では広告費とは別に運用代行手数料がかかるのが一般的です",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店の費用は「媒体の広告費」と「運用代行手数料」の合算で決まり、手数料は広告費の15〜20%が目安です",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "運用代行手数料は広告費の15〜20%が一般的な相場です",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし最低手数料（例：月5万円）を設けている代理店では、広告費が少額だと実質の手数料率が25〜30%相当まで上がる場合があります",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告のROIを正しく評価するには、1人あたりの採用単価（CPA）を指標にするのが効果的です",
+    "url": "https://allhero.co.jp/blog/recruitment-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "だれと会うか（採用と広告費を決める人か、その人が同席するか）、何を話すか（採用の困りごとと、媒体を検討しているか）、いつ・どこで（日時と、訪問かオンラインか）、取り消しの扱い（前日・当日の取り消しを1件と数えるか）の4つです",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/maker-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "月額にかけられる広告費が「10万円」とした場合、10万円を超えた請求が発生することはありません",
+    "url": "https://platform.zcareer.com/media/kyujinadentre",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な手数料率は、広告費の10%〜20%程度が目安とされており、顧客数が増えれば増えるほど強固なキャッシュフローを築くことが可能です",
+    "url": "https://remind-gr.co.jp/article/%E6%B1%82%E4%BA%BA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%A7%E6%8E%A1%E7%94%A8%E3%82%92%E5%8A%A0%E9%80%9F%EF%BC%81%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な手数料体系は、広告費の10%〜20%程度が目安とされていますが、契約内容や代理店の規模によって変動する場合があります",
+    "url": "https://remind-gr.co.jp/article/%E6%B1%82%E4%BA%BA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%A7%E6%8E%A1%E7%94%A8%E3%82%92%E5%8A%A0%E9%80%9F%EF%BC%81%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックス正規代理店は広告費ベースの収益モデルのため、比較的キャッシュフローは安定しやすいですが、事業全体の安定性を考える上では、株式会社Remindが製造業・軽作業に特化しているビジネスモデルの「入社から入金まで中央値51日（90日以内に96%・2026年9月23日時点）」という入金実績も、参考にすべき点と言えるでしょう",
+    "url": "https://remind-gr.co.jp/article/%E6%B1%82%E4%BA%BA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%A7%E6%8E%A1%E7%94%A8%E3%82%92%E5%8A%A0%E9%80%9F%EF%BC%81%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、加盟店は泥臭いテレアポ開拓や、広告費を垂れ流す集客から解放され、最も利益を生み出す「キャリアアドバイザー（CA）としての業務」だけに100%集中できるため、圧倒的な事業の再現性を実現しているのです",
+    "url": "https://remind-gr.co.jp/article/%E6%B1%82%E4%BA%BA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%A7%E6%8E%A1%E7%94%A8%E3%82%92%E5%8A%A0%E9%80%9F%EF%BC%81%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "正直、ONEさんのパートナー契約内容を聞いて、求人広告の業界経験者としては”穴場な会社だな～”と思いました（笑）その後ONEさんとの契約に切り替えましたが、顧客や営業先もそのまま、営業コストもそのまま、やる事も変わりませんが、収入だけは20％もUPしました",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、特定技能歓迎求人では、1件あたり3万円の成果報酬が得られるなど、代理店としての収益性が非常に高い点が魅力です",
+    "url": "https://b-seeds.com/expo/recruit-2024au",
+    "pass": 3
+   }
+  ],
+  "顧客が払う単価": [
+   {
+    "quote": "【最新版】求人広告の費用相場と掲載料金比較25選・効果改善解説付き",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "1社あたり年間平均125.1万円です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "1社あたり平均約326.8万円",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "・おすすめ25サービスの料金・特徴比較",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たりにかかる求人広告費(採用単価)",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "2．求人広告の料金形態",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "3．求人広告の「掲載料金」以外にかかる費用と3つの運用ポイント",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "4．【比較表付き】求人広告25サービスの料金比較",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは求人広告の費用相場と、求人広告費にかける年間コストの推移、また1人あたりにかかる求人広告費(採用単価)の平均などを解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒：80～300万円/1シーズン",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "中途：20～150万円/4週間",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "アルバイト：2～40万円/4週間",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店に払う費用は、求人媒体の広告費に運用代行手数料（広告費の15〜20%が目安）を加えた合計で決まります",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "料金体系は掲載課金型・成果報酬型・運用型（クリック課金）・完全無料型の4つに大別され、中途採用は1媒体20〜100万円、求人検索エンジンの運用型は月10〜40万円が費用の目安です",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、費用の相場と料金体系の全体像を採用区分別・形態別に整理し、そのうえで「金額の大小」ではなく「採用単価（1人あたりコスト）」で見極める視点まで、判断材料としてお伝えしますね",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "「手数料15%のA社と20%のB社なら、安いA社でいいのでは？」と考えがちですが、率だけで決めた結果、原稿改善の頻度が落ちて採用単価がかえって上がる、ということも起こりえます",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "手数料は広告費の15〜20%が目安で、少額予算では最低手数料により実質割高になりやすいです",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "：中途は1媒体20〜100万円、運用型は月10〜40万円、新卒は年間100〜500万円規模",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ調査では中途の年間平均が約134.6万円です",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "：比べるべきは手数料率ではなく「1人あたりの採用単価」",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店に払う費用の相場は、中途採用で1媒体あたり20〜100万円、求人検索エンジンの運用型で月10〜40万円が目安です",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "4週間掲載でエントリー20〜35万円、上位・オプション込みで80〜150万円",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "クリック課金や応募型課金などが挙げられ、1クリックにつき15～1000円、1応募につき5500～8000円が相場",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "大体4週間から6週間の掲載で、20万～180万円くらいが相場",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "3万～7万円が相場であるところから、30万～90万円が費用相場というところもあります",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用の目安は30万〜100万円程度です",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "費用の目安は5万〜15万円程度です",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "費用の目安は80万〜150万円程度です",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告にかかる費用は大きく分けて「媒体への広告掲載費」と「代理店の手数料・サービス費」の2つで構成されています",
+    "url": "https://allhero.co.jp/blog/recruitment-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用向けの転職サイトであれば、4週間の掲載で20万円から120万円程度が一般的な相場です",
+    "url": "https://allhero.co.jp/blog/recruitment-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "アルバイト・パート向けの媒体では、1週間1万円程度から出稿できるものもあるでしょう",
+    "url": "https://allhero.co.jp/blog/recruitment-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告のROIを正しく評価するには、1人あたりの採用単価（CPA）を指標にするのが効果的です",
+    "url": "https://allhero.co.jp/blog/recruitment-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ２.掲載媒体と料金の決定",
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、スカウト代行サービスの基本から、具体的な業務内容、料金相場、選定基準、そしておすすめの企業30社を徹底解説します",
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】採用代行（RPO）サービス比較45選！料金や特徴を徹底比較",
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "pass": 3
+   },
+   {
+    "quote": "6つの主要転職サイトの会員データやサイトデータ、掲載料金、各サイトの特徴をまとめた比較資料です",
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "pass": 3
+   },
+   {
+    "quote": "同社について載せている数字は、テレアポ代行の料金（税抜・2026年10月時点）だけです",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "料金は1受注あたりで比べる",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "39,300円",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "電話の相手が会社のアポ1件39,300円（税抜）",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る営業代行の比べ方（料金は2026年10月時点・ほかは計算の例）",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "39,300円は、当社のほかの業種向けテレアポ代行の料金で、電話の相手が会社・お店・施設の場合のアポ1件の税抜の額です（2026年10月時点）",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "196,500円は、39,300円×10件÷受注2件の計算の例で、10件と2件は仮の数字です（当社の実績ではありません）",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "年商1億円・契約数2.5倍・求人票5社",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "成果の定義→料金の方式→記録→契約の前の質問の順に確かめ、1受注あたりで比べる",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年以降の円安・資源価格上昇は、製造業の製造原価を直撃しました",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "原因4: 受注単価の下落（価格競争・値引き）",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "改善方法8: 受注選別と価格転嫁の実行",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新比較】アルバイト求人広告代理おすすめ10社！採用単価を下げた事例も公開",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "地域密着型×派遣募集で応募単価30％削減｜RPAサービスの導入で応募者対応を自動化【ワールドプランニング株式会社様】",
+    "url": "https://www.tracom.co.jp/tralog/recruitment-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "単価を抑えつつ応募数は3倍以上に！ギガバイトとIndeed PLUSで挑んだ採用改革【株式会社安楽亭様】",
+    "url": "https://www.tracom.co.jp/tralog/recruitment-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/maker-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "採用管理システム（ATS）おすすめ24選を比較！料金・特徴を一覧で紹介",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/maker-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載課金型では、メーカー（直販）と同じく採用が0名でも掲載料金は全額かかります",
+    "url": "https://rpm.zeku.co.jp/column/Recruitment-Advertising-Agency",
+    "pass": 3
+   },
+   {
+    "quote": "求人情報提供サービス市場の2020年度の市場規模は4,150億円",
+    "url": "https://platform.zcareer.com/media/kyujinadentre",
+    "pass": 3
+   },
+   {
+    "quote": "なお前年度はコロナ前ということもあり、7,000億円越えの市場規模",
+    "url": "https://platform.zcareer.com/media/kyujinadentre",
+    "pass": 3
+   },
+   {
+    "quote": "目安としては1か月で数十万円～数百万円前後です",
+    "url": "https://platform.zcareer.com/media/kyujinadentre",
+    "pass": 3
+   },
+   {
+    "quote": "クリック単価の相場は25円～1000円程度",
+    "url": "https://platform.zcareer.com/media/kyujinadentre",
+    "pass": 3
+   },
+   {
+    "quote": "月額にかけられる広告費が「10万円」とした場合、10万円を超えた請求が発生することはありません",
+    "url": "https://platform.zcareer.com/media/kyujinadentre",
+    "pass": 3
+   }
+  ],
+  "許可・資格の要否": [
+   {
+    "quote": "・登録者数409万人",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "・20代から30代が約73％、学生の登録者数は10.5万人",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "・登録学生約80万人",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "・年間利用学生約10万人、「ベンチャー企業へ就職したい」という意欲の高い学生が多く登録",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "・登録学生のうち約55％がGMARCH・関関同立以上",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣の求人媒体一覧！人材派遣の集客・登録者獲得のための媒体をご紹介",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "一般労働者派遣許可 許可番号 13-070366",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介事業許可 許可番号 13-ユ-070309",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "プライバシーマーク認定 10860758(10)",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "会員登録はこちら",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "みんなの採用部があなたの許可なく投稿することはありません",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "簡単10秒！無料会員登録",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "他サービスIDで登録",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "執筆｜林田 結衣／公正比較メディア監修者認定",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "公正比較メディア監修者認定（VANGUARD TALENT PARTNERS株式会社 発行）",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "インターン生や新卒が多く登録している",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "登録者数は業界最大級とされており、幅広い職種・業種の求職者へのリーチが見込めます",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年要領改正対応】採用代行は違法？資格・許可の要否と委託先の確認ポイントを解説",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、求める人材像や職種ごとの要件を具体的に伝えることで、代理店が最適な媒体選定や戦略提案を行いやすくなります",
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "pass": 3
+   },
+   {
+    "quote": "登録支援機関のゼロイチ立ち上げ専門のジャーナリスト",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "執筆と監修は、登録支援機関のゼロイチ立ち上げを専門に取材するジャーナリストの佐藤 美咲が担当しています",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川の登録支援機関（社員8名・T営業部長）",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川の登録支援機関（社員8名）の営業部長 T氏の会社は、当社の営業代行（川嶋メソッド）を使い始めた最初の月から前向きな商談が入り、10件の商談のうち5社から求人票を受け取りました（取材で同社から伺った数字・同社の集計）",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "取材：神奈川の登録支援機関（社員8名） 営業部長 T氏（2024年10月に公開した取材記事から再掲",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "登録支援機関の立ち上げに関わってきた",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能/外国人人材紹介(登録支援機関含む)",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "川嶋メソッド（スキマグループ合同会社）は、特定技能の外国人材を紹介する登録支援機関・人材紹介会社のための、特定技能専門の営業代行です",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "＊警告＊ スキマグループ（同）へ コピーの許可連絡はお済ですか？",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの運用管理も認定パートナーの代理店に一括して任せることが可能です",
+    "url": "https://www.halle-a.jp/ad/difference.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、事務職については経験者が登録していることも多く、即戦力採用ができる可能性も高いです",
+    "url": "https://www.halle-a.jp/ad/difference.html",
+    "pass": 3
+   },
+   {
+    "quote": "媒体の取扱数ではなく、要件整理・原稿・運用・選考改善まで支援できる代理店を選ぶことが重要です",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "媒体の取扱数ではなく、要件整理・原稿・運用・選考改善まで支援できる代理店を選ぶことが、この施策の中心です",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "媒体の取扱数ではなく、要件整理・原稿・運用・選考改善まで支援できる代理店を選ぶ",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "複数社の提案が媒体と割引中心で、成果の違いを判断できないときは、候補者の比較行動、社内の要件、応募後の対応、計測のいずれかが分断されています",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "採用側の要件が曖昧だと配信も原稿も広がりすぎる",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "採用現場と集客担当で人材要件がずれていると、反応は増えても次の選考へ進みません",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "最初に整えるのは媒体ではなく、要件と成果地点です",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "要件と選考も整える",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コンサル型は要件と選考も整えるために使う",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "対象、要件、訴求、計測、初回対応を整える",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "四半期ごとに要件を更新",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "予算配分と要件",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "複数社の提案が媒体と割引中心で、成果の違いを判断できない状態には、要件・訴求・受け皿・追客のいずれかに修正余地があります",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "競合比較中のユーザーへ接点を作り、応募・登録・商談につなげる人材業界向けLPです",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "媒体やツールを先に契約すると、要件と訴求が合わず、応募・商談後の歩留まりが悪化しやすいためです",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "登録メールアドレスへ即時お届け",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "Excel形式・登録メールアドレスへ即時お届け",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "一般労働者派遣許可 許可番号 13-070366",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介事業許可 許可番号 13-ユ-070309",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "プライバシーマーク認定 10860758(10)",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "会員登録はこちら",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "みんなの採用部があなたの許可なく投稿することはありません",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "簡単10秒！無料会員登録",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "他サービスIDで登録",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "プライバシーマーク付与認定事業者です",
+    "url": "https://p-partners.co.jp/preshiki/school/article/post-15655/",
+    "pass": 3
+   },
+   {
+    "quote": "企業様から伺った募集要件をふまえて、採用ターゲットとなる求職者に魅力に感じてもらえるような原稿を作成します",
+    "url": "https://www.tracom.co.jp/tralog/recruitment-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "採用したい人物像（資格・スキル・実務経験の有無・適性など）",
+    "url": "https://www.tracom.co.jp/tralog/recruitment-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告の代理店である「トラコム」は、Indeedプラチナムパートナー認定企業です",
+    "url": "https://www.tracom.co.jp/tralog/recruitment-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "トラコムは、Indeedの認定パートナー制度における最高ランクである「プラチナムパートナー」に認定されています",
+    "url": "https://www.tracom.co.jp/tralog/recruitment-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "・採用要件の整理",
+    "url": "https://www.tracom.co.jp/tralog/recruitment-advertising-agency/",
+    "pass": 3
+   }
+  ],
+  "最初の売上までの期間": [
+   {
+    "quote": "求人広告の掲載を始める際は、サービスの掲載期間や成果報酬、採用職種などによって採用コストが大きく異なるため、導入前に十分なリサーチが重要です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "審査期間と掲載スピード：即日掲載の可否",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用費用の総額（1社あたり平均）も、前年の650.6万円から609.9万円へ40.7万円減少し、2021年から続いていた増加傾向は一服しました",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載時に費用を支払うスタイルで、一定期間に求人を掲載することに対して料金が発生します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "・掲載期間に定めがあるため、期間中に採用できない場合は追加費用がかかる可能性もある",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "・掲載期間や求人掲載数に制限がないため、採用が必要なときに必要な採用人数分利用できる",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "・掲載期間の制限がないため、予算をかけるタイミングを細かく調整できる",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "・中小企業や新規事業立ち上げ時など、予算に制限がある場合でも気軽に掲載できる",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "審査期間と掲載スピード（即日掲載の可否）",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載期間中に内容を書き換える際、",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "IT/Web系職種、掲載期間・求人数無制限",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "即日掲載や短期間での公開がしやすく、急ぎの募集におすすめ",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "・掲載期間、掲載件数無制限なので複数職種や複数拠点の同時募集をおこないやすい",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "・インターンシップ期間から採用後半期まで年間を通して求人情報の掲載ができる",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載期間はサービスごとに異なるため、表記の期間でご確認ください",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ企画・同じ掲載期間で、見積書の掲載料金が公式料金より高ければ、その差額が代理店の上乗せです",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店名義で作られると、解約時に運用データを引き継げず、再スタートに数か月かかることがあります",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "（最低◯か月）と解約の通知期限",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載費と手数料の内訳（グロスかネットか）、最低手数料、初期費用や原稿制作費が別料金か、広告アカウントの所有権、契約期間と解約条件を同じ条件に揃えて比較します",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "写真や文字数などの掲載内容や、掲載期間によって費用が異なってくるのが特徴で、",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告の費用は、雇用形態・媒体・掲載期間によって大きく異なります",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載媒体・掲載期間・オプションの有無によって幅があります",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし広告費を抑えすぎると応募が集まらず、結果的に採用期間が延びてコストが増大するケースもあるでしょう",
+    "url": "https://allhero.co.jp/blog/recruitment-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載までに一定のリードタイムが必要になる",
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店を利用する際、広告掲載までに一定のリードタイムが必要になることがあります",
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "pass": 3
+   },
+   {
+    "quote": "また、リードタイムを短縮するためには、企業が事前に求める人材像や募集内容を具体的に整理しておくことが効果的です",
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "pass": 3
+   },
+   {
+    "quote": "また、求人広告の掲載には準備期間が必要なため、採用目標から逆算してスケジュールを組むと効果的です",
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年4月2日",
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年4月",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "登録支援機関のゼロイチ立ち上げ専門のジャーナリスト",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "執筆と監修は、登録支援機関のゼロイチ立ち上げを専門に取材するジャーナリストの佐藤 美咲が担当しています",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "案内に並ぶ「成約率」や「実績」の数字も、分母と期間が書かれていなければ比べられません",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "3社の取材から：年商1億円の突破、3か月で月の契約数2.5倍、初月の10商談中5社から求人票（各社の集計）",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用支援サービスを立ち上げた会社の代表 N氏は、当社の営業代行（川嶋メソッド）を導入した後、アポからの成約率37%を保てるようになりました",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "導入から3か月で、月の契約数が2.5倍になったそうです（取材で同社から伺った数字・同社の集計）",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "「導入3ヶ月で月間契約数が2.5倍になりました",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "月の架電の数や時間、受け取る記録、最低契約期間",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用や固定費と最低契約期間があれば、受注が出ない月も払い続けることになるため、「受注が0件だった月にいくら払うか」も出しておきます",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用、リストの作成費、トーク（台本）の作成費、月額の固定費、最低件数と最低契約期間、途中でやめるときの違約金、取り消しや条件に合わないアポの扱いです",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "単価が安くても、固定費と最低契約期間があれば、受注が出ない月も払い続けることになります",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "5 初期費用・最低件数・最低契約期間・違約金はありますか",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークは、無料の掲載をうたう勧誘の後に請求書が届くトラブルにも注意を呼びかけているため、料金・掲載期間・解約の方法を最初の電話で伝えるかどうかも聞いておきます",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "「成約率」や「導入実績」の数字は、分母・期間・数えた人を聞けば、ほかの会社と比べられる数字かどうかが分かります",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "その際、複数媒体を利用することで、短期間で大勢のターゲットに募集をかけることができます",
+    "url": "https://www.halle-a.jp/ad/difference.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりは媒体費、制作費、運用費、オプション、最低契約期間を分けます",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "公式料金表と申込画面を基準にし、最低利用期間、更新、オプション、運用支援の有無を正式見積もりで確かめます",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "①月別・製品別の売上高、売上原価、粗利率を同じ期間で集計する、②売上原価を材料費・労務費・製造経費に分ける、③製造経費のうち修理費、不良・手直し費、停止に伴う追加工数を抽出する、④前年差が大きい項目について単価・数量・稼働時間のどれが変化したかを確認する、という流れです",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "よくある誤りは、売上高と原価の対象期間がずれている状態や、在庫増減の影響を設備改善の成果と誤認することです",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に計算するときは、損益計算書の売上高と売上原価を同じ期間でそろえてください",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "改善前後は、生産量などの条件をそろえたうえで、停止時間・不良費・緊急修理費を同じ期間で比較します",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "料金プランと導入までの流れをまとめてご紹介します",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "保全投資は、自社の故障履歴と費用記録から回収期間を見積もります",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "簡易的な計算式は「投資回収期間＝初期投資額÷年間の正味削減額」で、年間の正味削減額は、修理費・廃棄費・残業費などの削減見込みから、追加の点検・部品交換・運用費を差し引いて求めます",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では在庫の増減によって製造原価と売上原価が異なるため、計算には対象期間の売上原価を使います",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "効果を確認する際は、改善前後の停止時間だけでなく、停止損失額、不良費、緊急修理費、保全に追加投入した工数を同じ期間で比較してください",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "多職種採用成功事例｜採用職種ごとに戦略を変え、1ヶ月半という短期間で3職種3名の採用に成功！",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "151名/ DAC グループ総数 678 名（2021年1月現在）",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年6月",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "事業の拡大にともない、3職種を一ヶ月半という短期間で募集する必要がありました",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "目標を達成するために何が必要か細かく提案してくれたため、短期間でも効果的に動くことができ、無事目標を達成しました",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   }
+  ],
+  "営業のやり方": [
+   {
+    "quote": "プランナーのご紹介",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスごとの料金比較も後ほどご紹介しますので、ぜひご覧ください",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事で紹介する各サービスの基本企画の料金をもとに算出",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用・中途採用における求人広告費の年間コストをご紹介します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりにかかる求人広告費(採用単価)の平均を職種ごとにご紹介します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに本記事では「求人広告」の中でも活用率の高い「求人サイト」や「求人検索エンジン」などのWeb媒体に絞って紹介します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用は運用次第で調整可能のため、ここではクリック単価の相場をご紹介します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "企業ホームページや求人検索エンジンの一部無料枠、行政・自治体の職業紹介サービスなどで利用できます",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに雇用形態ごとに分けてサービスを紹介しているため、自社の採用ターゲットに合わせて情報を活用できます",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは求人広告の費用対効果を高めるための3つのポイントをご紹介します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "求人サイト、SNS、企業ホームページ、業界専門のメディアなど、選択肢は多岐にわたります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の求人広告サービスのうち、どのサービスを利用すればよいかわからないときや、どの掲載プランを選べばよいか迷っているときは、求人広告代理店に相談するのもいいでしょう",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店は無料で求人広告サービス資料の配布や見積もりの算出をおこなってくれます",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "採用の費用対効果を高める方法の1つとして、ぜひ求人広告代理店の活用も視野に入れてみてはいかがでしょうか",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣の求人媒体一覧！人材派遣の集客・登録者獲得のための媒体をご紹介",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店の費用・料金相場は？体系別の目安と見極め方【首都圏】",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "全国のIndeed代理店を制度から徹底比較｜姉妹メディア「Indeed代理店ラボ」はこちら",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトは広告メディアとして運営されており、掲載する求人広告代理店には当サイトのクライアント企業が含まれます",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店に払う費用は、求人媒体の広告費に運用代行手数料（広告費の15〜20%が目安）を加えた合計で決まります",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "「代理店に頼むと、結局いくらかかるんですか？」——代理店への依頼を考えたとき、まず知りたいのはこの点ではないでしょうか",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "：代理店費用は「媒体の広告費＋運用代行手数料」",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店の費用相場はいくら？",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店に払う費用の相場は、中途採用で1媒体あたり20〜100万円、求人検索エンジンの運用型で月10〜40万円が目安です",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "この表の金額の大半は「媒体に払う広告費」で、代理店に運用を任せると、これに手数料が乗ります",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店手数料が上乗せされる",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店に払う費用の内訳と手数料の仕組み",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店に払う費用は、媒体の広告費に運用代行手数料（広告費の15〜20%が目安）を加えた合計で決まります",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "：代理店の運用・改善の対価",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "「月5万円」などの最低額を設けている代理店では、広告費が少額だと最低額が効いて、実質の手数料率が25〜30%相当まで上がることがあります",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店のマージン（取り分）は見積書のどこにあるか",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪の求人広告代理店の費用相場は？わかりやすく解説！",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪対応の求人広告代理店ガイド",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪の求人広告代理店一覧",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪の求人広告代理店一覧_top",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "媒体別に探す大阪の求人広告代理店",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "媒体別に探す大阪の求人広告代理店_top",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "「Re就活」を取り扱う大阪の求人広告代理店",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "「キャリオク」を取り扱う大阪の求人広告代理店",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "「マイナビ」を取り扱う大阪の求人広告代理店",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "「リクナビ」を取り扱う大阪の求人広告代理店",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "「doda」を取り扱う大阪の求人広告代理店",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "「type」を取り扱う大阪の求人広告代理店",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "「タウンワーク」を取り扱う大阪の求人広告代理店",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "「イーキャリア」を取り扱う大阪の求人広告代理店",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "対応サービス別に探す大阪の求人広告代理店",
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告会社おすすめ6選｜代理店の選び方・費用相場・失敗しないポイントを解説 ｜ 採用クリエイティブ×採用代行なら株式会社NOVEL（ノーベル）",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "スタッフ紹介",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "採用SNS運用代行",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告会社おすすめ6選｜代理店の選び方・費用相場・失敗しないポイントを解説",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、求人広告会社の種類・選び方・費用相場を整理したうえで、おすすめの会社を5社紹介します",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店とは？",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "まずはメーカー（直販）か代理店かを判断",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店の選び方",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告の依頼先を探すとき、まず理解しておきたいのが「メーカー（直販）」と「代理店」の違いです",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店は、複数のメーカーの媒体を横断して取り扱う会社です",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "採用ノウハウを持つ担当者がついてくれる代理店であれば、媒体選定だけでなく、採用課題の整理やエントリー後の歩留改善などの細やかな提案も期待できます",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "この項では、おすすめの求人広告会社をいくつかご紹介します",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店を介さず直接契約となるため、媒体担当者と直接やり取りできる点が特徴です",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告・人材紹介・派遣など複数の人材サービスを展開する会社です",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の求人媒体を取り扱う独立系代理店です",
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "pass": 3
+   }
+  ],
+  "小さく始めた実例": [
+   {
+    "quote": "・中小企業の新卒採用もおこないやすく、従業員数300名未満の企業の割合が57％",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "pass": 3
+   },
+   {
+    "quote": "：掲載課金型（大量・短期向き）、成果報酬型（少人数・お試し向き）、運用型＝クリック課金（予算調整しながら継続運用）、完全無料型に分かれます",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数が少ない中小企業ほど、募集をピンポイントに絞れるため費用を抑えやすい傾向です",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "少人数採用・まず試したい",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "大量・短期なら掲載課金型、少人数やお試しなら成果報酬型、予算を見ながら継続運用したいなら運用型が向いています",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "大量・短期採用は掲載課金型、少人数やお試しは成果報酬型、予算を調整しながらの継続運用は運用型が向いています",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アルフォース・ワンは、従業員100名以下の中小企業に特化した採用支援をおこなう求人広告代理店です",
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "pass": 3
+   },
+   {
+    "quote": "年商1億円・契約数2.5倍・求人票5社",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "3社の取材から：年商1億円の突破、3か月で月の契約数2.5倍、初月の10商談中5社から求人票（各社の集計）",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "売上は月1,000万円を超え、年商は1億円を突破しています（いずれも取材で同社から伺った数字・同社の集計）",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "創業の直後は営業の壁にぶつかり、以前に試した代行会社では成果が出なかったといいます",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "「年商はついに1億円を突破しました",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "」（令和8年6月一部改正）2-1——法人そのものの情報と、役員・従業員等の情報の扱い",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率とは、売上高のうち、売上原価を差し引いた後に何％が残るかを示す指標です",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "①月別・製品別の売上高、売上原価、粗利率を同じ期間で集計する、②売上原価を材料費・労務費・製造経費に分ける、③製造経費のうち修理費、不良・手直し費、停止に伴う追加工数を抽出する、④前年差が大きい項目について単価・数量・稼働時間のどれが変化したかを確認する、という流れです",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "よくある誤りは、売上高と原価の対象期間がずれている状態や、在庫増減の影響を設備改善の成果と誤認することです",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率（売上総利益率）は、以下の式で求められます",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、粗利率の計算に使う売上原価は、製造原価を基礎に期首・期末の製品在庫などを反映した金額であり、両者が常に同額になるとは限りません",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に計算するときは、損益計算書の売上高と売上原価を同じ期間でそろえてください",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利（売上総利益）",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 – 製造原価",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "の公表統計に基づく業種別の売上総利益率（粗利率）の目安です",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "比較するときは、同調査の対象年度・業種分類・企業規模・売上総利益と売上高の定義を確認し、自社と条件が近い区分を選びます",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "※数値は中小企業（従業員300名未満）の売上総利益率の参考値",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "売上単価への転嫁が追いつかない場合に粗利率が圧縮されます",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "売上の取り消し・値引き対応が粗利を削る",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "受注の見直しでは、変更前後の「売上高×粗利率」で粗利額を比較します",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "停止時間に売上単価を掛けた金額を、そのまま費用削減額に加えるのは避けてください",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "設立年月日や従業員規模などからある程度の採用支援実績は予想できるため、確認するようにしましょう",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数：300名",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数：20名",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告の掲載と採用までだけではなく、採用活動全体やその後の従業員定着・育成まで視野に入れた戦略をともに考えられる代理店を選びましょう",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/maker-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "入社後の従業員のフォローは重要",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/maker-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "研修の実施やスキルアップ支援などを行うことで、従業員が職場に馴染みやすくなり、長期的な活躍につながります",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/maker-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "1974年創業で、1987年からリクルートのトップパートナーを務める老舗の代理店です",
+    "url": "https://rpm.zeku.co.jp/column/Recruitment-Advertising-Agency",
+    "pass": 3
+   },
+   {
+    "quote": "1984年創業の求人広告代理店で、Indeedのゴールドパートナーやリクルートの正規代理店の認定を受けています",
+    "url": "https://rpm.zeku.co.jp/column/Recruitment-Advertising-Agency",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数100名以下の中小企業に特化し、顧客の8割以上を従業員数50名以下の企業が占めます",
+    "url": "https://rpm.zeku.co.jp/column/Recruitment-Advertising-Agency",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店が人材紹介業の許認可も取得し、多角化によって売上を増大していくというシナリオは十分に考えられるでしょう",
+    "url": "https://platform.zcareer.com/media/kyujinadentre",
+    "pass": 3
+   },
+   {
+    "quote": "[PR] Zキャリア プラットフォーム（旧agent bank） は人材紹介会社の売上を伸ばす求人プラットフォームです",
+    "url": "https://platform.zcareer.com/media/kyujinadentre",
+    "pass": 3
+   },
+   {
+    "quote": "弊社はグループ会社の方で長年にわたり、業界トップクラスの売上をキープしているため、パートナー様や個人代理店のみなさまに、",
+    "url": "https://lucent-p.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "これには、目標売上、マーケティング戦略、人員計画、資金計画などが含まれます",
+    "url": "https://remind-gr.co.jp/article/%E6%B1%82%E4%BA%BA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%A7%E6%8E%A1%E7%94%A8%E3%82%92%E5%8A%A0%E9%80%9F%EF%BC%81%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "販売いただく求人媒体にもよりますが、大体売上げた金額の50％が仕入れ値となり、残りの50％が粗利で支給されます",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "ONEは求人総合代理店売上1位！",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ転職・type（タイプ）を始めとした国内大手の求人メディアに、売上実績や獲得社数の実績が認められて数多くの賞を受賞",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "友人から「ONEさんは取扱いのメディアも多く、実際に売上実績も代理店の中ではかなり良いので、直接問合せてみたら？」とアドバイスをもらったのが始まりです",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数10名以下の法人様が20％",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "法人パートナー様の企業規模はベンチャー・中小企業様がほとんどで、従業員1名の法人様でも活動頂けます",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "バイトル・しゅふJOB・体入ショコラ等の代理店運営は創業20年トレンドイノベーションへ",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "本業を持つ方が求人商材を取り入れて売上アップにつながった例も多くあります",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "売上・販売グランプリも開催！",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "創業20年のノウハウで新規事業をサポート",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "マンパワー不足を補い売上も重視したい",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年設立／東京都 従業員数：16名 代理店歴：2年目",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年設立／大阪府 従業員数：4名 代理店歴：3年目",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "2008年設立／福岡県 従業員数：36名 代理店歴：11年目",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店ビジネスについて、創業20年のトレンドイノベーションと契約することのメリットや魅力をご紹介します！",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "少人数で運営している企業様に対しては運営支援・運用アウトソーシングも対応しています",
+    "url": "https://request-agent.co.jp/service/consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "競合サービスの特徴、商品設計、顧客ニーズ、売上計画を検討する際の注意点など、",
+    "url": "https://request-agent.co.jp/service/consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "まずはターゲットとなる業種・地域・企業規模を明確にし、少人数で営業活動をおこないながら、SEOやコンテンツ制作などのインバウンド施策を組み合わせる方法が現実的です",
+    "url": "https://request-agent.co.jp/service/consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため媒体社と直接契約する場合と、売上上位のトップパートナーと呼ばれる求人広告代理店と契約し、間接的に契約するパターンがあります",
+    "url": "https://request-agent.co.jp/recruit/agency/",
+    "pass": 3
+   }
+  ],
+  "利幅": [
+   {
+    "quote": "代理店のマージン（取り分）は見積書のどこにあるか",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店のマージン、つまり代理店の取り分が見積書のどこに表れるかは、料金体系によって変わります",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "手数料の行がない見積書でマージンを確かめるには、媒体が公式に公開している掲載料金と見比べます",
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店が、自社の扱いやすい媒体や利益率の高いプランを優先して提案するケースもゼロではありません",
+    "url": "https://allhero.co.jp/blog/recruitment-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "判断の基準は、1件の受注で得られる粗利から決めます",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば受注1件の粗利が30万円なら、1受注あたりの費用が30万円を超えた時点で、続けても赤字です（仮の数字）",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "払う総額を受注の数で割り、受注1件の粗利と比べます",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "第二に、代理店は販売手数料（マージン）を収益源としています",
+    "url": "https://www.halle-a.jp/ad/difference.html",
+    "pass": 3
+   },
+   {
+    "quote": "工務店経営の改善方法｜粗利・集客・営業・人材を仕組み化",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率とは？製造業で改善する方法を解説",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の粗利改善に設備保全が直結する理由【2026年版・実例付き】",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率は会社の収益性を示す重要な指標です",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、製造業における粗利率の基本知識や業種別の基準、改善するための方法をわかりやすく解説します",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率とは、売上高のうち、売上原価を差し引いた後に何％が残るかを示す指標です",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、複数の設備や生産ラインを管理し、原価低減を求められている製造業の保全・生産技術担当者を想定し、粗利率の計算方法と現場で確認すべき改善ポイントを解説します",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "業界平均は参考値にとどめ、自社の業種・生産方式・会計上の原価範囲をそろえて比較することが重要です",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "「粗利率とは何か」「自社の粗利率は業界平均と比べてどうなのか」「どうすれば粗利率を改善できるか」——",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、粗利率の基本計算式から、中小企業庁の最新データに基づく業種別平均、",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率低下の主因分析、そして設備保全・原価管理と連動した実践的な改善方法まで、",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率低下の原因は、次の順で確認します",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "①月別・製品別の売上高、売上原価、粗利率を同じ期間で集計する、②売上原価を材料費・労務費・製造経費に分ける、③製造経費のうち修理費、不良・手直し費、停止に伴う追加工数を抽出する、④前年差が大きい項目について単価・数量・稼働時間のどれが変化したかを確認する、という流れです",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "よくある誤りは、売上高と原価の対象期間がずれている状態や、在庫増減の影響を設備改善の成果と誤認することです",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率とは——計算式と製造業での定義",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率の計算式",
+    "url": "https://mentena.biz/insight/gp/",
+    "pass": 3
+   },
+   {
+    "quote": "高率マージン",
+    "url": "https://lucent-p.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告業界最高水準の高率マージンでしっかり収入が入る仕組み",
+    "url": "https://lucent-p.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "ルーセント・パートナーズでは、独立・開業・起業したいと思う方を全力で応援するため、初期投資額を大幅に軽減した状態で開始できる環境を整え、収入がしっかり入るよう、高率マージンの粗利全額支給を実現！非常に有利な条件・環境で独立をすることができ、個人でもしっかり稼げます",
+    "url": "https://lucent-p.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "マージン率の良い商材",
+    "url": "https://lucent-p.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "業界最高水準の高率マージン",
+    "url": "https://lucent-p.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "もし、このような顧客を5社獲得できれば、月間の粗利益は50万円となります",
+    "url": "https://remind-gr.co.jp/article/%E6%B1%82%E4%BA%BA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%A7%E6%8E%A1%E7%94%A8%E3%82%92%E5%8A%A0%E9%80%9F%EF%BC%81%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "マージン率！",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "高率のマージン率設定と、アポイント提供もあり！",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "高率のマージン率設定と、",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "当社はすべてのパートナー様に粗利全額支給という、業界最高水準の報酬をお支払いしています",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "販売いただく求人媒体にもよりますが、大体売上げた金額の50％が仕入れ値となり、残りの50％が粗利で支給されます",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円を売り上げたら粗利50万円の報酬、200万円を売り上げたら粗利100万円の報酬です",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "正直、ONEさんがこんなに粗利が",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "以前は他社パートナーで活動してましたが、ONEの方がマージンが良いという風の噂を耳にし、話を聞いてみたのがキッカケでした",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "専任の営業担当をおいたので初期投資といえば人件費くらいですが、粗利全額をいただけるインパクトは大きく、すぐに黒字化することに成功しました",
+    "url": "https://one-group.jp/partnersupport/",
+    "pass": 3
+   },
+   {
+    "quote": "全工程を担当するため、マージン率が高く設定されています",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "現在のマージン率に不満がある方にもオススメのコースです",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "マージン率は、契約時の内容・体制に応じてご相談の上決定します",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店商材のマージンが低すぎて収益があがらない",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "販売開始から業界TOPクラスの高マージンが可能です",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店ビジネスにおいてはマージン率の高い商材は新規開拓難易度が高く、売りやすい商材は利益が少ない…というのが業界の常識です",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "【高マージンでスタート可能！】",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "マージン（販売手数料）は３０％程度が一般的です",
+    "url": "https://request-agent.co.jp/recruit/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり月の売上１００万円の場合、３０万円が営業利益になります",
+    "url": "https://request-agent.co.jp/recruit/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー企業様には継続的に掲載料の一定パーセントを手数料（マージン）としてお支払いさせていただきます",
+    "url": "https://request-agent.co.jp/recruit/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "当社取り扱い媒体の特徴やマージンについて詳しくはお問い合わせください",
+    "url": "https://request-agent.co.jp/recruit/agency/",
+    "pass": 3
+   }
+  ],
+  "成約率・継続率": [
+   {
+    "quote": "さらに、応募者の質や採用決定率も重要な指標となります",
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "pass": 3
+   },
+   {
+    "quote": "案内に並ぶ「成約率」や「実績」の数字も、分母と期間が書かれていなければ比べられません",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用支援サービスを立ち上げた会社の代表 N氏は、当社の営業代行（川嶋メソッド）を導入した後、アポからの成約率37%を保てるようになりました",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "「成約率」や「導入実績」の数字は、分母・期間・数えた人を聞けば、ほかの会社と比べられる数字かどうかが分かります",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば「成約率」なら、アポのうちの受注か、商談のうちの受注か、どの業界の、いつからいつまでの数字かで意味が変わります",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "アポからの成約率が上がらない(成約20%以下)",
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "pass": 3
+   },
+   {
+    "quote": "面談・採用・成約率",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "チャネル別に対象者率、面談化率、採用・成約率を掛け合わせ、最終成果一件当たりの費用を出します",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "修正するときは、まず「採用課題を媒体選定前に共有する」を実施し、変更前後で対象者率、初回対応、面談・商談化率を比較します",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "修正するときは、まず「提案の前提と試算根拠を確認する」を実施し、変更前後で対象者率、初回対応、面談・商談化率を比較します",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "修正するときは、まず「原稿改善と応募後支援の範囲を見る」を実施し、変更前後で対象者率、初回対応、面談・商談化率を比較します",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "修正するときは、まず「定例会の意思決定項目を決める」を実施し、変更前後で対象者率、初回対応、面談・商談化率を比較します",
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "入社決定率改善",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客リピート率は98.3%です",
+    "url": "https://rpm.zeku.co.jp/column/Recruitment-Advertising-Agency",
+    "pass": 3
+   },
+   {
+    "quote": "高いリピート率",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "他媒体にはない“写真13枚＋動画”で魅力が伝わるから、成約率が上がりやすい！",
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "社風にあわせた広告掲載でマッチング率の高い採用を実現",
+    "url": "https://one-group.jp/humanresource/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果として、継続率95％以上という高いリピート率を実現しています",
+    "url": "https://crosslink.jp.net/kyujinnavi/blog/job-ads-agency/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【2026年版】 求人広告代理店 おすすめ10選！失敗しない ... — 【2026年版】 求人広告代理店 おすすめ10選！失敗しない ... 株式会社カケハシスカイ https://www.kakehashi-skysol.co.jp > careerad10",
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店 とメーカー（直販）の違いとは？代理店8社の ... — 求人広告代理店 とメーカー（直販）の違いとは？代理店8社の ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告代理店 10選！代理店選びの5つのポイント — 求人広告代理店 10選！代理店選びの5つのポイント crosslink.jp.net https://crosslink.jp.net > kyujinnavi > blog > job-ads-agency",
+    "url": "https://crosslink.jp.net/kyujinnavi/blog/job-ads-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "Qジェネ: 求人広告代理店 83社を徹底比較｜おすすめの企業を ... — Qジェネ: 求人広告代理店 83社を徹底比較｜おすすめの企業を ... jobad-agency.com https://www.jobad-agency.com",
+    "url": "https://www.jobad-agency.com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "総合 求人広告代理店 株式会社ケイエスソリューションズ ... 総合 求人広告代理店 株式会社ケイエスソリューションズ ... Facebook https://www.facebook.com > ... > Recruiter",
+    "url": "https://www.facebook.com/chibakssolutions/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "求人広告代理店 の人気・新着記事まとめ - note 求人広告代理店 の人気・新着記事まとめ - note note https://note.com > hashtag > 求人広告代理店",
+    "url": "https://note.com/hashtag/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A%E4%BB%A3%E7%90%86%E5%BA%97",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "求人広告代理店の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A%E4%BB%A3%E7%90%86%E5%BA%97",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyujin-dairiten-navi.com/ryokin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakadtan.com/explanation/cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://novel-group.co.jp/20260427/4224/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://allhero.co.jp/blog/recruitment-advertising-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lreach.jp/media/article007",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lead-lab.jp/unit-cpa-cp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyusyokusyasokyaku-no-madoguchi.com/column/recruitment-cpa-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dgtrends.com/blogs/human-resources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://altenas.jp/blog/how-to-calculate-the-target-cpa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grill.co.jp/marketing-log/13668/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fukuoka-ecsite.co.jp/blog/agency/agent-recruitment-conversion-partner-training/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.halle-a.jp/ad/difference.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crosslink.jp.net/kyujinnavi/kyujin-sales-lp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usen.com/portal/partner/column/outstanding-contractrate-agents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/226046",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/zac/blog/ad-agency-cost-accounting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6412/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monozukuri-career.com/column/industry-news/manufacturing-profit-margin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mentena.biz/insight/gp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.biznet.co.jp/column/1495/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://p-partners.co.jp/preshiki/school/article/post-15655/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracom.co.jp/tralog/recruitment-advertising-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/maker-agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rpm.zeku.co.jp/column/Recruitment-Advertising-Agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platform.zcareer.com/media/kyujinadentre",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lucent-p.jp/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remind-gr.co.jp/article/%E6%B1%82%E4%BA%BA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%A7%E6%8E%A1%E7%94%A8%E3%82%92%E5%8A%A0%E9%80%9F%EF%BC%81%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://one-group.jp/partnersupport/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trend-inn.co.jp/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://request-agent.co.jp/service/consulting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://request-agent.co.jp/recruit/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://com-story.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/blog/1163/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/expo/recruit-2024au",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media-radar.jp/ad_list_amp100_amm_amb_agp_agm_pc_tc_ic1_p1.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_exhibition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/job_search/kw/%E5%96%B6%E6%A5%AD%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%20%E5%B1%95%E7%A4%BA%E4%BC%9A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://one-group.jp/humanresource/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enworld.com/candidates/career-advices/useful-column/industry/media-agency-ranking.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crosslink.jp.net/kyujinnavi/blog/job-ads-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/chibakssolutions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "求人広告代理店（製造業向け） 料金 相場",
+   "results": [
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/",
+    "https://kyujin-dairiten-navi.com/ryokin/",
+    "https://www.osakadtan.com/explanation/cost.html",
+    "https://novel-group.co.jp/20260427/4224/",
+    "https://allhero.co.jp/blog/recruitment-advertising-agency/",
+    "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "https://service.circus-group.jp/circus/forrecruiting/column/recruitment-ad-cost-market-price/",
+    "https://www.saiyo-doda.jp/service/careers/column/recruitment-price",
+    "https://www.tracom.co.jp/tralog/recruitment-advertising-agency/",
+    "https://samurai-ent.com/media/category-14/kyujin-agency-pricing-guide/"
+   ]
+  },
+  {
+   "query": "求人広告代理店（製造業向け） 顧客獲得単価 OR CPA",
+   "results": [
+    "https://lreach.jp/media/article007",
+    "https://lead-lab.jp/unit-cpa-cp/",
+    "https://kyusyokusyasokyaku-no-madoguchi.com/column/recruitment-cpa-rising/",
+    "https://dgtrends.com/blogs/human-resources/",
+    "https://altenas.jp/blog/how-to-calculate-the-target-cpa",
+    "https://grill.co.jp/marketing-log/13668/",
+    "https://www.tracom.co.jp/tralog/cpa/",
+    "https://webma.xscore.co.jp/study/industry-average-cpa/",
+    "https://seo-best.jp/topics/web/cpa_deteriorated/",
+    "https://www.cpacanada.ca/"
+   ]
+  },
+  {
+   "query": "求人広告代理店（製造業向け） 成約率 OR 受注率 OR 継続率",
+   "results": [
+    "https://fukuoka-ecsite.co.jp/blog/agency/agent-recruitment-conversion-partner-training/",
+    "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "https://www.halle-a.jp/ad/difference.html",
+    "https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/",
+    "https://crosslink.jp.net/kyujinnavi/kyujin-sales-lp/",
+    "https://allhero.co.jp/blog/recruitment-advertising-agency/",
+    "https://usen.com/portal/partner/column/outstanding-contractrate-agents/",
+    "https://taw-digital.com/column/factory-recruitment-agency/",
+    "https://novel-group.co.jp/20260427/4219/"
+   ]
+  },
+  {
+   "query": "求人広告代理店（製造業向け） 粗利率 利益率",
+   "results": [
+    "https://diamond.jp/articles/-/226046",
+    "https://www.oro.com/zac/blog/ad-agency-cost-accounting/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6412/",
+    "https://monozukuri-career.com/column/industry-news/manufacturing-profit-margin/",
+    "https://mentena.biz/insight/gp/",
+    "https://www2.biznet.co.jp/column/1495/",
+    "https://www.canon-its.co.jp/solution/industry/cross-industry/superstream/column/article/trend-profit-rate",
+    "https://hr.jobseeker-navi.com/media/agent/fee/shokai-arari/",
+    "https://remind-gr.co.jp/article/%E4%BA%BA%E6%9D%90%E7%B4%B9%E4%BB%8B%E6%A5%AD%E3%81%AE%E5%88%A9%E7%9B%8A%E7%8E%87%E3%81%AF%E5%B9%B3%E5%9D%87%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%EF%BC%9F%E9%AB%98%E5%88%A9%E7%9B%8A%E3%82%92/"
+   ]
+  },
+  {
+   "query": "求人広告代理店（製造業向け） 許可 必要",
+   "results": [
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "https://www.halle-a.jp/ad/difference.html",
+    "https://allhero.co.jp/blog/recruitment-advertising-agency/",
+    "https://p-partners.co.jp/preshiki/school/article/post-15655/",
+    "https://www.tracom.co.jp/tralog/recruitment-advertising-agency/",
+    "https://service.r-4.co.jp/knowhow/recruiting/maker-agent/",
+    "https://rpm.zeku.co.jp/column/Recruitment-Advertising-Agency",
+    "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "https://platform.zcareer.com/media/kyujinadentre",
+    "https://request-agent.co.jp/blog/shikaku-kyoka/"
+   ]
+  },
+  {
+   "query": "求人広告代理店（製造業向け） 起業 立ち上げ 初受注",
+   "results": [
+    "https://platform.zcareer.com/media/kyujinadentre",
+    "https://lucent-p.jp/agency/",
+    "https://remind-gr.co.jp/article/%E6%B1%82%E4%BA%BA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%A7%E6%8E%A1%E7%94%A8%E3%82%92%E5%8A%A0%E9%80%9F%EF%BC%81%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/",
+    "https://one-group.jp/partnersupport/",
+    "https://www.trend-inn.co.jp/agency",
+    "https://p-partners.co.jp/preshiki/school/article/post-15655/",
+    "https://sukimagroup.jp/jobadvertisement_teleappointment02/",
+    "https://request-agent.co.jp/service/consulting/"
+   ]
+  },
+  {
+   "query": "求人広告代理店（製造業向け） 営業方法 紹介 展示会",
+   "results": [
+    "https://com-story.com/",
+    "https://eigyo-mfg.com/blog/1163/",
+    "https://b-seeds.com/expo/recruit-2024au",
+    "https://media-radar.jp/ad_list_amp100_amm_amb_agp_agm_pc_tc_ic1_p1.html",
+    "https://www.hakuten.co.jp/tex/knowledge/knowledge_seizou_exhibition",
+    "https://www.r-agent.com/job_search/kw/%E5%96%B6%E6%A5%AD%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%20%E5%B1%95%E7%A4%BA%E4%BC%9A/",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-advertising-agency/",
+    "https://jp.sansan.com/media/exhibition-sales/",
+    "https://sw2.jp/news/industry-manufacturing-sales-outsourcing/",
+    "http://grill.co.jp/marketing-log/16128/"
+   ]
+  },
+  {
+   "query": "求人広告代理店（製造業向け） 会社 売上 従業員 創業",
+   "results": [
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "https://one-group.jp/humanresource/",
+    "https://www.enworld.com/candidates/career-advices/useful-column/industry/media-agency-ranking.html",
+    "https://platform.zcareer.com/media/kyujinadentre",
+    "https://crosslink.jp.net/kyujinnavi/blog/job-ads-agency/",
+    "https://www.jobad-agency.com/",
+    "https://remedy-tokyo.co.jp/media/9900/",
+    "https://jp.indeed.com/q-%E5%89%B5%E6%A5%AD30%E5%B9%B4%E4%BB%A5%E4%B8%8A%E3%81%AE%E8%80%81%E8%88%97%E7%B7%8F%E5%90%88%E5%BA%83%E5%91%8A%E4%BB%A3%E7%90%86%E5%BA%97-l-%E6%9D%B1%E4%BA%AC%E9%83%BD-%E6%B8%AF%E5%8C%BA-%E8%B5%A4%E5%9D%82-%E6%B1%82%E4%BA%BA.html",
+    "https://www.three-count.jp/advice/industry_recruitment_hp/",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-advertising-agency/"
+   ]
+  },
+  {
+   "query": "site:note.com 求人広告代理店（製造業向け）",
+   "results": [
+    "https://note.com/welcome2hr/n/n32c4aea702a1",
+    "https://note.com/kurashiru_jp/n/n9d8b132b6793",
+    "https://note.com/pagemaker1985/n/na8e48a80340f",
+    "https://note.com/dokuritukaigyou/n/na93f5f225d34",
+    "https://note.com/e_p/n/nf0346da5276c",
+    "https://note.com/vinc_note/n/n1fd9802b20bb",
+    "https://note.com/prd_jinji/n/n2a2f21476600",
+    "https://note.com/nexta_smartf/n/nefe8cdc6c14b",
+    "https://note.com/r_kasai32/n/ncf3f1172edef",
+    "https://note.com/gkt/n/nbfdc14664846"
+   ]
+  },
+  {
+   "query": "site:x.com 求人広告代理店（製造業向け）",
+   "results": [
+    "https://x.com/mproducts_",
+    "https://x.com/kssolutions_com",
+    "https://x.com/HRognet",
+    "https://x.com/osaka_s_and_e",
+    "https://x.com/asaka_haf",
+    "https://x.com/kyoeiad_in/status/1749661723790107041",
+    "https://x.com/ebagency",
+    "https://x.com/ascope_Gvalue",
+    "https://x.com/nishima_pharma/status/1862722768938442768",
+    "https://x.com/it_marketing_jp"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 求人広告代理店（製造業向け）",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-%E5%96%B6%E6%A5%AD-pr-%E3%83%AA%E3%83%BC%E3%83%89%E3%80%91ai%C3%97%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E5%8B%9F%E9%9B%86-at-setare-ai-4478411357",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E6%A1%88%E4%BB%B6no-1769%EF%BC%9E%E3%80%90%EF%BD%9E700%E4%B8%87%E5%86%86%E3%80%91%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%B1%E3%82%BF%E3%83%BC%EF%BC%88%E8%A3%BD%E9%80%A0%EF%BC%89%EF%BD%9C%E7%8F%BE%E5%A0%B4%E3%81%AE%E6%A5%AD%E5%8B%99%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%8B%E3%82%89%E5%AE%9A%E7%9D%80%E3%81%BE%E3%81%A7%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8Bsaas-at-linkard-inc-4486803365",
+    "https://jp.linkedin.com/jobs/head-of-marketing-jobs",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%BA%83%E5%91%8A%E4%BB%A3%E7%90%86%E5%BA%97%E3%80%91%E5%96%B6%E6%A5%AD%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%EF%BC%88%E7%B5%8C%E9%A8%93%E4%B8%8D%E5%95%8F%E3%83%BB%E6%97%A2%E5%8D%92%E8%80%85%E6%8E%A1%E7%94%A8%EF%BC%89-at-subete-co-ltd-4475728694",
+    "https://jp.linkedin.com/jobs/view/%E5%A4%A7%E9%98%AA%E2%97%86%E5%A4%A7%E6%89%8B%E5%90%91%E3%81%91%E5%96%B6%E6%A5%AD%E3%80%8A%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5%E3%81%AE%E4%B8%8A%E6%B5%81%EF%BC%8F%E8%AA%B2%E9%A1%8C%E6%8A%BD%E5%87%BA%E3%83%BB%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E3%81%8B%E3%82%89%E6%8B%85%E3%81%86%EF%BC%8F%E4%BA%88%E7%AE%9710%EF%BD%9E100%E5%84%84%E8%A6%8F%E6%A8%A1%E3%80%8B-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4474364270",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%B8%AF%E5%8C%BA%E3%80%91%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E2%97%86%E5%8F%A3%E3%82%B3%E3%83%9F%E3%82%B9%E3%82%B3%E3%82%A2%E4%B8%8A%E4%BD%8D%E3%81%AE%E5%BA%83%E5%91%8A%E4%BB%A3%E7%90%86%E5%BA%97%EF%BC%8F20%E4%BB%A3%E6%B4%BB%E8%BA%8D%E4%B8%AD%EF%BC%8F%E5%9B%BD%E5%86%85%E3%83%88%E3%83%83%E3%83%97%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%AE%E5%AE%9F%E7%B8%BE%E2%97%8E-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4480112365",
+    "https://jp.linkedin.com/jobs/view/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%B3%95%E4%BA%BA%E5%96%B6%E6%A5%AD-at-advantech-4486308971",
+    "https://jp.linkedin.com/jobs/%E8%B0%B7%E6%AD%8C%E4%BC%98%E5%8C%96%E2%98%BEg%CD%87g%CD%87t%CD%87g%CD%87s%CD%87e%CD%87o%CD%87.%CD%87c%CD%87o%CD%87m%CD%87%E2%98%BD%E8%B0%B7%E6%AD%8C%E9%9C%B8%E5%B1%8F,%E5%85%8D%E8%B4%B9%E6%B5%8B%E8%AF%95.edg-jobs",
+    "https://jp.linkedin.com/jobs/view/%E5%A4%96%E8%B3%87%E7%B3%BB%E9%A3%9F%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%EF%BD%9C%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC-at-michael-page-4482849363",
+    "https://jp.linkedin.com/jobs/view/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88%E3%80%80%E3%80%80%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E3%81%AB%E6%9C%AC%E7%A4%BE%E3%82%92%E7%BD%AE%E3%81%8F%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%88%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%EF%BC%81%E5%85%A8%E5%9B%BD%E3%81%AE%E5%84%AA%E8%89%AF%E5%A1%97%E8%A3%85%E5%BA%97%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A7web%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B-aq-24774-at-aquent-4483967705"
+   ]
+  },
+  {
+   "query": "site:facebook.com 求人広告代理店（製造業向け）",
+   "results": [
+    "https://www.facebook.com/chibakssolutions/",
+    "https://www.facebook.com/graemcorp/",
+    "https://www.facebook.com/chibakssolutions/posts/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%B1%82%E4%BA%BA%E4%BB%95%E4%BA%8B%E5%86%85%E5%AE%B9%E3%81%8C%E3%81%8D%E3%81%A1%E3%82%93%E3%81%A8%E4%BC%9D%E3%82%8F%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%81%A7%E3%81%AF%E4%BA%BA%E6%9D%90%E7%A2%BA%E4%BF%9D%E3%81%8C%E8%AA%B2%E9%A1%8C%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E4%BC%81%E6%A5%AD%E6%A7%98%E3%82%82%E5%B0%91%E3%81%AA%E3%81%8F%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%AE2026%E5%B9%B47%E6%9C%88%E5%88%86%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A7%E3%81%AF%E7%94%9F%E7%94%A3%E5%B7%A5%E7%A8%8B/1613574024100783/",
+    "https://www.facebook.com/chibakssolutions/posts/11%E6%9C%88%E3%81%8B%E3%82%89%E8%80%83%E3%81%88%E3%82%8B%E4%B8%BB%E5%A9%A6%E5%A4%AB%E6%8E%A1%E7%94%A8%E3%81%A8%E6%98%A5%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%B1%82%E4%BA%BA%E6%BA%96%E5%82%9911%E6%9C%88%E3%81%AF%E4%B8%BB%E5%A9%A6%E5%A4%AB%E3%81%AE%E6%96%B9%E3%81%8C%E3%81%9D%E3%82%8D%E3%81%9D%E3%82%8D%E4%BB%95%E4%BA%8B%E3%82%92%E5%A7%8B%E3%82%81%E3%82%88%E3%81%86%E3%81%8B%E3%81%AA%E3%81%A8%E5%B0%91%E3%81%97%E3%81%9A%E3%81%A4%E5%83%8D%E3%81%8D%E6%96%B9%E3%82%92%E8%80%83%E3%81%88%E5%A7%8B%E3%82%81%E3%82%8B%E6%99%82%E6%9C%9F%E3%81%A7%E3%81%99%E5%B9%B4%E6%9C%AB%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6%E5%AE%B6%E8%A8%88%E3%82%92%E8%A6%8B%E7%9B%B4%E3%81%97%E3%81%9F%E3%81%84%E5%B9%B4%E5%86%85/1618933540231498/",
+    "https://www.facebook.com/chibakssolutions/posts/10%E6%9C%88%E5%AD%A6%E7%94%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88%E6%8E%A1%E7%94%A8%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9%E3%81%8C%E5%BA%83%E3%81%8C%E3%82%8B%E6%99%82%E6%9C%9F%E3%81%A7%E3%81%99%E5%A4%8F%E4%BC%91%E3%81%BF%E3%81%8C%E7%B5%82%E3%82%8F%E3%82%8A%E6%96%B0%E5%AD%A6%E6%9C%9F%E3%81%AE%E7%94%9F%E6%B4%BB%E3%81%AB%E3%82%82%E5%B0%91%E3%81%97%E3%81%9A%E3%81%A4%E6%85%A3%E3%82%8C%E3%81%A6%E3%81%8F%E3%82%8B10%E6%9C%88%E5%B1%A5%E4%BF%AE%E7%99%BB%E9%8C%B2%E3%82%82%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%8D%E3%81%93%E3%81%AE%E6%99%82%E9%96%93%E3%81%AA%E3%82%89%E3%83%90%E3%82%A4%E3%83%88%E3%81%A7%E3%81%8D%E3%81%9D%E3%81%86%E3%81%A8%E8%87%AA%E5%88%86%E3%81%AE%E4%BA%88%E5%AE%9A/1596340132490839/",
+    "https://www.facebook.com/bsearch12/",
+    "https://www.facebook.com/chibakssolutions/posts/%E7%89%B9%E3%81%AB%E9%A3%B2%E9%A3%9F%E5%BA%97%E3%81%AF%E5%8B%95%E7%94%BB%E3%81%A8%E3%81%AE%E7%9B%B8%E6%80%A7%E3%81%8C%E3%81%A8%E3%81%A6%E3%82%82%E3%81%84%E3%81%84%E6%A5%AD%E7%A8%AE%E3%81%A7%E3%81%99%E9%A3%B2%E9%A3%9F%E5%BA%97%E3%81%AE%E6%8E%A1%E7%94%A8%E3%81%A7%E3%81%AF%E6%96%87%E7%AB%A0%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E4%BC%9D%E3%81%88%E3%81%8D%E3%82%8C%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%8C%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%9F%E3%81%A8%E3%81%88%E3%81%B0%E9%96%8B%E5%BA%97%E5%89%8D%E5%8E%A8%E6%88%BF%E3%81%A7%E4%BB%95%E8%BE%BC%E3%81%BF%E3%82%92%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%AE%E6%89%8B%E5%85%83%E4%BB%8A%E6%97%A5%E3%82%82%E3%82%88/1381029977355190/",
+    "https://www.facebook.com/requestagent/",
+    "https://www.facebook.com/chibakssolutions/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%A3%E8%A1%A8%E3%81%AE%E6%B2%B3%E7%AB%AF%E3%81%A7%E3%81%99%E3%81%93%E3%81%AE%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E3%82%82%E4%BD%95%E5%BA%A6%E3%81%8B%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8C%E7%A7%81%E3%81%AF%E5%B9%B4%E3%81%AB%E6%95%B0%E5%9B%9E%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A7%E7%A6%8F%E5%B3%B6%E7%9C%8C%E5%8F%8C%E8%91%89%E9%83%A1%E3%81%AE%E6%A5%A2%E8%91%89%E7%94%BA%E3%82%92%E8%A8%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E9%9D%99%E3%81%8B%E3%81%AA%E7%92%B0%E5%A2%83%E3%81%A7%E4%BB%95%E4%BA%8B%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%A6%E6%B5%B7%E3%81%AE%E5%B9%B8%E3%81%8C%E3%81%8A%E3%81%84/1625500619574790/",
+    "https://www.facebook.com/aoa.co.jp/posts/-aoa-10%E6%9C%88%E5%BA%A6-%E6%8F%90%E6%A1%88%E4%BC%9A%E8%AD%B0%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AFaoa%E5%BA%83%E5%A0%B1%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A7%E3%81%9910%E6%9C%88%E3%81%AB%E5%85%A5%E3%82%8A%E7%A7%8B%E3%82%82%E6%B7%B1%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%ADaoa%E3%81%A7%E3%81%AF%E4%BB%8A%E6%9C%88%E3%82%82%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E7%A4%BE%E5%86%85%E3%81%A7%E3%81%AE%E6%83%85%E5%A0%B1/1754910613309868/"
+   ]
+  },
+  {
+   "query": "求人広告代理店（製造業向け） note 社長",
+   "results": [
+    "https://note.com/hashtag/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://note.com/royal_dill4604/n/naf8a46ee9141",
+    "https://arwrk.net/recruit/pagemaker/",
+    "https://note.com/drix_note/n/nd528efc42ebb",
+    "https://note.fa-japan.jp/n/neb817b21d722",
+    "https://note.com/pagemaker1985/n/na8e48a80340f",
+    "https://hrog.net/interview/136893/",
+    "https://allhero.co.jp/blog/recruitment-advertising-agency/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "https://note.com/hikoprs2025/n/nf892cb93a46d"
+   ]
+  },
+  {
+   "query": "求人広告代理店（製造業向け） X 投稿",
+   "results": [
+    "https://stock-sun.com/column/twitter-advertising-agency/",
+    "https://one-group.jp/humanresource/use/sns_recurit_example.html",
+    "https://blog.x.com/ja_jp/topics/marketing/2024/certified-agencies-2024",
+    "https://rc-group.co.jp/blog/blog_recruitment_management_techniques",
+    "https://snsdaikou-hikaku.com/x/",
+    "https://media-radar.jp/ad_list_amp56_amm_amb_agp_agm_pc_tc_ic10_p1.html",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/",
+    "https://www.youtube.com/watch?v=18XMGM0Gg0w",
+    "https://www.bsearch.co.jp/recruit/2462/",
+    "https://rpm.zeku.co.jp/column/Recruitment-Advertising-Agency"
+   ]
+  },
+  {
+   "query": "job advertising agency manufacturers Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/top-japanese-recruiting-agency",
+    "https://www.linkedin.com/posts/alvinfsc_steve-jobs-explained-why-japanese-companies-activity-7508405532832002048-TlKK",
+    "https://jp.linkedin.com/in/chrisfrostcogs",
+    "https://www.linkedin.com/company/robert-half-international",
+    "https://www.linkedin.com/pulse/employer-branding-trends-among-japanese-companies-v4vsc",
+    "https://www.linkedin.com/company/grey",
+    "https://www.linkedin.com/company/ipg",
+    "https://www.linkedin.com/company/mccann",
+    "https://jp.linkedin.com/company/japan-international-cooperation-agency-jica-",
+    "https://www.linkedin.com/company/33usa"
+   ]
+  }
+ ],
+ "missing": {}
+}

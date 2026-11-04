@@ -1,0 +1,2759 @@
+{
+ "name": "非鉄金属製造業",
+ "en": "non-ferrous metal manufacturing Japan",
+ "aliases": [
+  "非鉄金属",
+  "アルミ 製造",
+  "銅 製造",
+  "チタン 製造"
+ ],
+ "context": "製造業・素材",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:53:45.648595+00:00",
+ "evidence": {
+  "事業所数・従業者数（経済センサス等）": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 地域編 7 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 製造業に関する集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "令和3経済センサス－活動調査 製造業（産業分類別・事業所数・従業者数・出荷額等）",
+    "url": "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※従業者４人以上の事業所",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年は、個人経営の事業所は含まない",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６－１ 産業中分類別、従業者数等 (従業者４人以上の事業所)",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６－２ 従業者規模別事業所数等 (従業者４人以上の事業所)",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）・令和元年及び令和２年は工業統計調査、令和３年は経済センサス‐活動調査",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・令和３年は、経済センサス‐活動調査の調査票情報を綾瀬市が独自に集計したものです",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（調査基準日：各年６月１日・工業統計調査、経済センサス‐活動調査）",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６－３ 産業中分類、産業別総括表 (従業者４人以上の事業所)",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「現金給与額」の「常用労働者」には、２９人以下の事業所の「その他」の金額が含まれています",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）従業者規模別事業所数及び従業者数",
+    "url": "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）平成１３年以降は，３人以下の事業所は調査対象外となった",
+    "url": "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「平成２７年宮城県の工業」は平成２８年経済センサス-活動調査（基準日：平成２８年６月１日）より集計",
+    "url": "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「平成２８年宮城県の工業」は平成２９年工業統計（基準日：平成２９年６月１日）より集計",
+    "url": "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「平成２９年宮城県の工業」は平成３０年工業統計（基準日：平成３０年６月１日）より集計",
+    "url": "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「平成３０年宮城県の工業」は２０１９年工業統計（基準日：令和元年６月１日）より集計",
+    "url": "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「令和元年宮城県の工業」は２０２０年工業統計（基準日：令和２年６月１日）より集計",
+    "url": "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「令和２年宮城県の工業」は令和３年経済センサス-活動調査（基準日：令和３年６月１日）より集計",
+    "url": "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「令和２年宮城県の工業」以降，工業統計調査が経済構造実態調査に包摂されたことにより，宮城県による独自集計・公表は終了",
+    "url": "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１：製造業事業所調査",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "※「工業統計調査」は2020年調査（2019年実績）で廃止",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の調査（2021年実績）からは「製造業事業所調査」として実施されている",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "ですから産業別に集計されている金型事業所とは、金型専業100％の事業所か金型以外の製造品を扱っていても金型が主力である事業所の数値となります",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、品目別は総ての調査対象事業所の製造品及び加工品を品目別に集計したものであり、主力が金型以外の製造品であっても金型の生産がおこなわれていれば金型の生産額は金型の1事業所の生産額として集計されます",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサスサービス業など製造業以外も含めた全ての産業を5年ごとに調査・集計・発表されているものです",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "（2011年、2015年、2020年は旧工業統計調査が実施されなかった為、経済センサスを使用",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業の事業所規模５人以上の事業所におけ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・常用労働者 5 人以上の事業所が対象",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数が 1998 年には 373,713 事業所あったが、企業の",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "倒産や廃業等により 2017 年には 188,249 事業所と",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 215-１ 製造業に関する事業所数",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・資料：2011 年、2015 年は総務省・経済産業省「経済センサス‐活動調査」 、他は経済産業省「工業統計調査」",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "215-１でみたように事業所数が半減していること",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数・従業者数は、その年の 12 月末の数",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "令和 2 年（2020 年）までは従業者 4 人以上の事業所、令和 3 年（2021 年）からは全事業所（個人経営を除く",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "1985 年: 昭和 60 年から事業所の範囲が従業者 4 人以上にそろい、「飲料・たばこ・飼料」が食料品から分かれた",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "2021 年: 令和 3 年から経済構造実態調査（全事業所・個人経営を除く）",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省統計局「日本の長期統計系列」表 8-6（原資料: 経済産業省「工業統計調査（産業編）」）",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 4 人以上（1963〜1976 年は全事業所",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "単位: 金額は億円、従業者数は千人にそろえた（原表は 1984 年以前が億円・人、1985 年以降が 10 億円・千人）",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "「比較biz」は、15年の運用実績と会員企業数約42,000社・発注確定度85%を誇る",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "30年以上の調達実績があるエージェンシーアシストでは1000社を超える協力企業数で、多品種部品を一括手配していただけます",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業数31社",
+    "url": "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "pass": 3
+   },
+   {
+    "quote": "非上場企業数3,288社",
+    "url": "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "pass": 3
+   },
+   {
+    "quote": "総務省統計局：「平成28年経済センサス-基礎調査」",
+    "url": "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業数 31社",
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "pass": 3
+   },
+   {
+    "quote": "非上場企業数 2,594社",
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省発表の工業統計調査（2021年）によると、2019年の非鉄金属製造業の出荷額は、9.6兆円となっており、近年はほぼ横ばいで推移している",
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省：「工業統計調査」",
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "pass": 3
+   },
+   {
+    "quote": "どこも元々鉱山が発祥であり、昔鉱山があった所在地に事業所があることが多いと感じます",
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "pass": 3
+   },
+   {
+    "quote": "さて、銅製錬を行っている事業所としては香川県の直島製錬所と福島の小名浜製錬があります",
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "pass": 3
+   },
+   {
+    "quote": "前身となった同和鉱業の主要な鉱山が秋田の小坂鉱山と花岡鉱山であったことから、閉山後も製錬所など事業所は秋田県に多いです",
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "pass": 3
+   },
+   {
+    "quote": "閉山後の雇用維持のため小規模な事業所での生産が可能な電子材料の子会社を設置する例はDOWAホールディングスに限らず他社でもあり、住友金属鉱山などでも過去鉱山のあった北海道に工場を置いていたりします",
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "pass": 3
+   },
+   {
+    "quote": "掲載企業数＆情報量日本一🥇",
+    "url": "https://note.com/shyuukatu_gy/n/n66c85f149e7c",
+    "pass": 3
+   }
+  ],
+  "需要が増えるか": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 地域編 7 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等【万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "令和3経済センサス－活動調査 製造業（産業分類別・事業所数・従業者数・出荷額等）",
+    "url": "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "計 製造品出荷額 加工賃収入額 くず・廃物の出荷額 その他の収入額",
+    "url": "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等",
+    "url": "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 従業者数 現金給与総 額 原材料使用額等 製造品出荷額等 付 加価値額 事業所数",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 現金給与総 額 原材料使用額等 製造品出荷額等 付 加価値額 事業所数 従業者数 現金給与総 額 原材料使用額等 製造品出荷額等 付 加価値額",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品 半製品仕掛品 原材料燃料 総額 製造品出荷額 加工賃収入額 その他収入額",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産額 付加価値額 粗付加価値額",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "すなわち、金型の製造を営んでいる事業所であっても、金型以外の製造品が主力であれば、金型以外の製造業として分類、集計されてしまい、実際に金型の生産額が存在していてもその分は金型以外の主力製品として集計されます",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、品目別は総ての調査対象事業所の製造品及び加工品を品目別に集計したものであり、主力が金型以外の製造品であっても金型の生産がおこなわれていれば金型の生産額は金型の1事業所の生産額として集計されます",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "金型生産額推移表",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "世界各国では今、新型コロナウイルスの感染拡大に",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、感染拡大防",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "チェーンの寸断を受けての国内回帰や感染拡大から生",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウイルスの感染拡大がつきつける課題にどの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "え、我が国の経済成長を支える原動力は「人」で",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の経済が成長していくためには、女性、高齢者など、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新型コロナウイルス感染症拡大など不確実性が高",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１ 成長戦略実行計画（2019 年６月 21 日閣議決定）では、経済成長を支える原動力は「人」であるとの考えの下、数多くの施策を実行",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月に続き増加している（図 211-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を、需要不足失業率と均衡失業率に分けてそれぞれの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動向をみると、需要不足失業率については、2009 年",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "需要不足失業率",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "半導体関連の需要を背景に電気機械器具や非鉄金属の製造業で求人が増加し、労働者派遣業でも製造業向けの求人が拡大した",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の発表によると、6月の有効求人数（季節調整値）は前月比で0.9％増加した",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "特に半導体関連製品の需要が堅調に推移していることを背景に、電気機械器具や非鉄金属系の製造業で人材確保の動きが活発化している",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "また、労働者派遣業においても、製造業向けの求人が増加したことが全体の数字を押し上げた",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "一方、完全失業者数（同）は175万人で、前月から1万人の増加となった",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "半導体需要が雇用を下支え",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "今回の雇用統計で特徴的なのは、半導体関連の需要が製造業の求人意欲を明確に刺激している点だ",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なデジタル化の進展や生成AI（人工知能）向けのデータセンター投資の拡大を背景に、電気機械器具や非鉄金属といった分野では生産活動が活発化しており、それに伴う人手不足が求人数の増加につながっている",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業における半導体関連の求人需要は、今後も世界的な投資拡大の流れを受けて底堅く推移するとみられる",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 国内総出荷額は、１０兆円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総出荷額：１０兆円、従業員数：１４万人",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業の熱・燃料需要のエネルギー消費",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 非鉄金属業の熱・燃料需要のエネルギー消費は電力が約４割を占める",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜製造業の熱・燃料（原料含む）需要のエネルギー消費（2019）＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 日本のアルミ地金製錬業は、戦後復興とともに成長を遂げるも、二度にわたる石油危機",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 日本のアルミニウム産業は、製錬業よりも先に圧延業から始まり、戦後の高度経済成長",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期に、「軽い」等のアルミの特性を武器に需要を獲得し、成長してきた",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンニュートラルの進展と銅需要の増加",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後も銅需要の増加が見込まれる",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜洋上風力発電市場、送電線整備需要の予測＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜ハイブリッド車、電気自動車の銅需要比較＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上成長性予測値SP",
+    "url": "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、加工分野では、生成AIの普及にともなう伴うデータセンター投資、半導体需要、自動車の電動化、再生可能エネルギー設備の拡大などが需要を下支えしている",
+    "url": "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "pass": 3
+   },
+   {
+    "quote": "また、製錬加工費の縮小や国内需要の伸び悩み、自動車の電動化に伴う既存部品需要の減少も収益上のリスクとなる",
+    "url": "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界の市場規模の推移 | 1948〜2024年",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "業界別市場規模",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界の市場規模の推移",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属の市場規模は、1960年の0.7兆円から高度成長とともに膨らみ、1974年に5.1兆円、1980年に8.1兆円まで伸びた",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "その後は1986年に5.5兆円、2003年に5.6兆円と落ち込んだのち、2007年に10.8兆円へ伸びた",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 | 製造品出荷額等",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "品目別の市場規模",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入鉱で亜鉛製錬を広げた高度成長期",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   }
+  ],
+  "大手プラットフォームの有無": [
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "企業マッチング",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "ある製品・サービス分野で国際的に高いシェアを持っている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "狭い市場で高いシェアを誇っている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主に大手空調機器メーカーから、部品などの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、押谷社長はこうした問題を解決しようと、受発注と連携して現場に情報を流す「進捗管理シス",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、暖房機器や加湿器は、季節商品であるため冬季に需要が高くなり、天候によっても受発注が",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ス部門は国内トップシェアを誇る",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受発注から製造ラインの稼働状況、機械トラブルや保全状況などを一元的に管理するこ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "続きにおいてもデジタル化したことで、受発注の管理や経理処理などのデータ入力作業や確認作業などが",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 我が国企業の世界シェアが低下した分野（例：電気機器）であっても、それを構成する部",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "No. 企業名 生産能力※ シェア",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 半導体素材であるポリシリコン、シリコンウェーハについては日本企業が高い市場シェア",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜ポリシリコン・シリコンウェーハの日本企業シェア＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンウェーハのシェア",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ポリシリコンのシェア",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取引シェア推計データ",
+    "url": "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "pass": 3
+   },
+   {
+    "quote": "で、製錬・電線・アルミ圧延のそれぞれの大手が名を連ねる",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界の動向や現状、ランキング＆シェアなどを分析しています",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界 ランキング&シェア（2022-2023年）",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界 売上高&シェアランキング",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手非鉄金属メーカー5社中3社が大幅増収",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ニッケル酸リチウム」の分野で、世界トップシェアを確立",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、こうした需要は鉱山権益を持つ一部大手企業のみで、製錬事業を本流としている企業は製錬マージンの低下が課題として残っています",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界 ランキング＆シェア",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界の売上高ランキング＆シェアをはじめ、純利益、利益率、総資産、従業員数、勤続年数、平均年収などをランキング形式でまとめました",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "各種ランキングを比較することで非鉄金属市場のシェアや現状、動向を知ることができます",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界 売上高&シェアランキング（2022年-2023年）",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "シェアとは非鉄金属業界全体に対する各企業の売上高が占める割合です",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "シェアを比較することで非鉄金属市場における各企業の占有率を知ることができます",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属市場の規模、シェア、動向および予測：種類、用途、地域別、2026年～2034年",
+    "url": "https://www.gii.co.jp/report/imarc1987527-non-ferrous-metals-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、アジア太平洋地域が市場を独占しており、2025年には40％の市場シェアを占めています",
+    "url": "https://www.gii.co.jp/report/imarc1987527-non-ferrous-metals-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "同地域の優位性は、中国の広大な製造拠点、新興国における急速な産業革新、電気自動車（EV）の普及拡大、そして政府主導の堅調なインフラ投資によって支えられており、これらすべてが非鉄金属市場のシェアを強力に拡大させています",
+    "url": "https://www.gii.co.jp/report/imarc1987527-non-ferrous-metals-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、ルネサスは独自の技術プラットフォームを含むGFの技術へのアクセスを強化することになります",
+    "url": "https://www.gii.co.jp/report/imarc1987527-non-ferrous-metals-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】製造業マッチングサイトおすすめ9選",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "加工先探し・相見積り・技術マッチングを比較",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイト開発/構築で失敗しない方法",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイトをAIで低コスト・高品質に構築!!／",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングとは",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングとは、部品加工、試作、量産、OEM、共同開発、技術相談などを依頼したい企業と、対応できる製造会社・工場・技術企業をつなぐ仕組みです",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングサイトを使うと、発注側は加工先、試作先、量産先、OEM先、共同開発先を探しやすくなります",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングが注目される背景には、BtoB取引のオンライン化があります",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングサイトは、こうした流れの中で、発注先探しや受注獲得、技術連携を効率化する手段として注目されています",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングサイトを選ぶときは、サービス名だけで判断しないことが重要です",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "加工先を探したいのか、技術パートナーを探したいのか、案件を獲得したいのか、自社で受発注マッチングサイトを作りたいのか",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB・受発注型のマッチングサイト構築を検討している方はこちら",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版/比較表つき】ものづくり企業とのマッチングサイト22選を比較！選び方も紹介 | LISKUL",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版/比較表つき】ものづくり企業とのマッチングサイト22選を比較！選び方も紹介",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "商品を作る上での生産力に課題を感じていたり、逆に製造業に向けてソリューションを提供したいと考えている場合は、製造業とのビジネスマッチングがおすすめです",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の企業を探す際は「ものづくり」に特化したマッチングサイトを利用しましょう",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "今回はおすすめのものづくり企業とのマッチングサイトを紹介しております",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり企業とのマッチングサイトおすすめ15選",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングそのものに課題を感じている方は、ぜひ読んでみてください",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめサイトのピックアップ方法としては、既存のまとめサイト16個分の情報から、紹介されているマッチングサイトをスコアリングしました",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "各サイトで紹介頻度の高いものを登場回数順にまとめなおしているので、この記事を読めば効率良くるマッチングサイトの情報を入手できるはずです",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "＜比較表＞ものづくり企業とのマッチングサイトおすすめ15選",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり企業とマッチングをする目的は3つ",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "2.部品の受発注",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工業のマッチングサイト10選を徹底比較！受注拡大とWeb集客戦略 - 集客・広告戦略メディア「キャククル」",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工業のマッチングサイト10選を徹底比較！受注拡大とWeb集客戦略",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   }
+  ],
+  "取引のやり方・不便": [
+   {
+    "quote": "2020000000_2020_01_北海道_1421_洋紙・機械すき和紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_01_北海道_1422_板紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_01_北海道_1441_事務用・学用紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_01_北海道_1442_日用紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_01_北海道_1449_その他の紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_01_北海道_1451_重包装紙袋製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_01_北海道_1452_角底紙袋製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_01_北海道_1454_紙器製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_01_北海道_1499_その他のパルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_01_北海道_1511_オフセット印刷業（紙に対するもの）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_01_北海道_1512_オフセット印刷以外の印刷業（紙に対するもの）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_01_北海道_1513_紙以外の印刷業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 6 572 2,598 15,067 18,657 2,658 6",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 4 225 157 29 19 15 1 -",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 154 77 1,227 254 112 19 123 258",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年 総数 食料品 パルプ・紙 印 刷飲料・たばこ 繊 維 衣 服 化 学 石油・石炭 プラスチック木材・木製品 家具・装備品",
+    "url": "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック木材・木製品 家具・装備品 パルプ・紙 印 刷 化 学 石油・石炭年 総数 食料品 飲料・たばこ 繊 維 衣 服",
+    "url": "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その他の5種類統計分類は「化学工業統計」、「資源・窯業・建材統計」、「繊維・生活用品統計」「紙・印刷・プラスチック製品・ゴム製品統計」、「鉄鋼・非鉄金属・金属製品統計」となります",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：03-5816-5911 FAX：03-5816-5913",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "育成の取組を紹介する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コミュニティカレッジのあるランシング市には職業訓練のあっせんと職業紹介を行う組織、ミシガ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業訓練と職業紹介を実施するにあたり、地元企業のニーズを頻繁に、そして徹底",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "優秀な外注先企業群を育成している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の取組などについて紹介する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また納品書や作業指示は、 紙面のやりとりで行っていたため、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組立ラインの検査には、従来紙のチェックシートを用いて品質チェックを行っていたが、現在ではタブ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（できる限りSNSへの投稿ではなく、飲み会や、社内 Slack・Teams など、リアルな口コミでご紹介いただけますと大変嬉しく存じます",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "お電話でのお問い合わせ",
+    "url": "https://www.gii.co.jp/report/imarc1987527-non-ferrous-metals-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "加工先探し・相見積り・技術マッチングを比較",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "調達、相見積り、図面共有、技術探索、販路開拓をオンラインで進める流れ",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "図面をアップロードして相見積りを取りたい場合",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "見積比較・外注先探し",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造会社への相談、複数社見積、外注先比較",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "部品加工、試作、量産、外注先探し",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、製造業マッチングに使えるサービスを紹介します",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工の外注先を探したい企業、複数工場から相見積りを取りたい企業、短納期で対応先を探したい企業",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "発注者は相見積り・発注先選定、受注者は",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "調達市場は、発注企業にとっては相見積りや発注先選定のツール、受注企業にとっては新規案件を見つける営業ツールとして使えます",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "図面をもとに発注先を探したい企業、相見積りを取りたい企業、全国の案件に見積りを出したい製造会社",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "図面をもとに製造業の相見積りを取りたい発注企業、自社に合う案件へ見積りを出したい受注企業",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版/比較表つき】ものづくり企業とのマッチングサイト22選を比較！選び方も紹介 | LISKUL",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版/比較表つき】ものづくり企業とのマッチングサイト22選を比較！選び方も紹介",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "今回はおすすめのものづくり企業とのマッチングサイトを紹介しております",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめサイトのピックアップ方法としては、既存のまとめサイト16個分の情報から、紹介されているマッチングサイトをスコアリングしました",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "各サイトで紹介頻度の高いものを登場回数順にまとめなおしているので、この記事を読めば効率良くるマッチングサイトの情報を入手できるはずです",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "本記事で紹介している15社の違いがひと目でわかる一覧表をご用意しました",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "ハウス食品グループ本社株式会社と山伝製紙株式会社",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "金属系の加工、樹脂やゴムの加工、部品の制作・加工などに特化した、技術と対応できる加工会社を紹介するサイト",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級の外注先探しサービス「比較ビズ」複数業者に無料で一括見積もりで徹底比較",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "発注者側は完全無料で利用でき、電話サポートも受けられる",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "受注成約の場合、受注金額の10％前後が紹介料",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "相談しながら企業を探したい研究開発者は電話問い合わせが可能",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "を紹介します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "を構築するWeb戦略もあわせて紹介します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "オープンイノベーション支援・大手企業への紹介実績",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介型・共同開発",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイト内のフォームまたは電話連絡で連携パートナー希望の旨を伝え、電話相談（ヒアリング）の後に審査と見積もり金額の調整を行い、正式なパートナーとして登録されます",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "ほか、自社の技術や製品を大手企業などに紹介したり、融資先情報の一元管理が行えます",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイトへの登録は受注拡大の有効な手段ですが、案件の母数だけを重視すると相見積もりによる価格競争に陥りやすくなります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "特に一括見積もり型のサービスでは、複数社が同一案件に見積もりを提出するため、発注者にとっては比較が容易になる一方、受注側には相見積もりによる価格競争が発生します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   }
+  ],
+  "払う単価の手がかり": [
+   {
+    "quote": "事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額【万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等【万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等【万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額（従業者29人以下は粗付加価値額）【万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "pass": 3
+   },
+   {
+    "quote": "（従業員4人以上の事務所）（単位：所，人，万円）",
+    "url": "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人 百万円 百万円 百万円 百万円",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人 百万円 百万円 百万円 百万円 人 百万円 百万円 百万円 百万円",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "百万円 百万円 百万円 百万円 百万円 百万円 百万円 百万円",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「委託生産費」「製造等に関連する外注費」「転売した商品の仕入額」の金額が含まれています",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人 人 人 人 百万円 百万円 百万円 百万円 百万円 百万円 百万円",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "百万円 百万円 百万円 百万円 百万円 百万円 百万円 百万円 百万円 百万円 百万円",
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間で 11.6％減少しており、全産業に占める製造",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と、５年間で約 1.6 倍となっており、産業全体にお",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本の平均年間総実労働時間（就業者）を",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 214-４ 一人当たり平均年間総実労働時間推移の国際比較（全就業者）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20 年間で約 50％減少している（図 215-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "について、過去 20 年間の推移をみていくと、非製造",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "く、2018 年においては、全産業 794.3 万円、非製",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造業 740.9 万円に対し、製造業は 1,094 万円となっ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（万円/人）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AI やデジタル化は同じような作業を膨大に繰り返すようなものでなければ、費用対効果",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "かかる予算の不足」 と回答した企業割合が高い",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "果たすことのできる人材の確保・育成のための予算の不足",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代に年間120万トンを記録した後、徐々に減少し、最近は60～80万ト",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模＝国内の非鉄金属の工場が 1 年間（1〜12 月）に出荷した製品の金額の合計",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数,従業者数及び製造品在庫額は12月31日現在，その他は年間",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "費用はかかりません",
+    "url": "https://www.gii.co.jp/report/imarc1987527-non-ferrous-metals-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "同計画では、産業付加価値の年間約5％の成長と、2,000万トンを超えるリサイクル金属の生産を目標としており、非鉄金属市場の予測における同セクターの戦略的重要性を反映しています",
+    "url": "https://www.gii.co.jp/report/imarc1987527-non-ferrous-metals-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間契約型情報サービス",
+    "url": "https://www.gii.co.jp/report/imarc1987527-non-ferrous-metals-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "作り方・費用相場・必要機能まで徹底解説",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "加工内容、図面、数量、納期、予算、希望条件を登録する",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイト構築費用の相場や内訳を詳しく知りたい方はこちら",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】マッチングサイトの開発費用はいくら？構築方法・機能別の相場を徹底解説！",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイトを作りたいとき、多くの方が最初に気になるのが「構築費用はいくらかかるのか」という点です",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、マッチングサイト構築におすすめの開発会社、会社選びのポイント、費用相場、必要機能、開発方法の違いまでわかりやすく解説します",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊な部品を利用すると、希少性が高く費用面や納品スピードといった面でリスクがあります",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "国内の大手企業から中小企業27,000社と海外企業8,000社が集まり、年間10,000件のビジネスマッチングが行われている",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "定額制のサービスで、受発注に関する手数料がかからないため、件数や予算に縛られることなく最大限活用できる",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": "採用：雇用者の1年間の報酬の最大15.3％",
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "pass": 3
+   },
+   {
+    "quote": ": 受注件数にかかわらず費用が一定",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "案件数が多い月ほど費用対効果が高まります（例: 比較biz 月額15,180円、CCNET 月額10,000円）",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": ": 初期費用・月額費用を抑えられますが、受注単価が高い案件では手数料負担が大きくなる場合があります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "固定費・変動費それぞれのリスクを把握した上で、自社の受注単価や月間案件数の見込みと照らし合わせて選定してください",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の比較表と各サービスの詳細解説を参考に、自社の加工領域・予算・営業スタイルに合ったサービスを選定してください",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "比較bizの初期費用は無料、案件を受注したい企業は月額15,180円（税込）がかかります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "成果報酬等は一切かからず、月額費用のみの良心的な料金設定が魅力です",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイトへの登録は新規取引先を開拓する有効な手段ですが、プラットフォームに依存し続けると手数料・月額費用の負担が増えるほか、サービス運営側のルール変更の影響を受けやすいという課題もあります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "契約単価が1000万円向上",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "価格競争から脱却し受注単価が2.5倍",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、自社が競合と違ってどんなことが提供できるのか、どんなお客様であれば最大貢献ができるのかを具体化できなければ、広告費や対応する人件費の費用対効果が悪くなるばかりです",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼/非鉄金属業界のシステムの開発費用/コスト/値段や見積相場について｜株式会社ripla",
+    "url": "https://note.com/ripla_business/n/n9f5ced1dc489",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼/非鉄金属業界のシステムの開発費用/コスト/値段や見積相場について",
+    "url": "https://note.com/ripla_business/n/n9f5ced1dc489",
+    "pass": 3
+   },
+   {
+    "quote": "●鉄鋼/非鉄金属業界向けシステムの開発費用は、対応する鋼種・サイズの品目数や、相場連動の価格改定ロジックの複雑さによって大きく変動します",
+    "url": "https://note.com/ripla_business/n/n9f5ced1dc489",
+    "pass": 3
+   },
+   {
+    "quote": "●費用の内訳は要件定義費・設計費・開発費・保守運用費で構成され、対象範囲によって700万円台〜数千万円台まで幅があります",
+    "url": "https://note.com/ripla_business/n/n9f5ced1dc489",
+    "pass": 3
+   },
+   {
+    "quote": "●鉄鋼/非鉄金属業界向けシステムの開発費用の内訳と相場",
+    "url": "https://note.com/ripla_business/n/n9f5ced1dc489",
+    "pass": 3
+   },
+   {
+    "quote": "●費用が変動する業界特有の要因",
+    "url": "https://note.com/ripla_business/n/n9f5ced1dc489",
+    "pass": 3
+   },
+   {
+    "quote": "●費用を抑えるための実践的な考え方",
+    "url": "https://note.com/ripla_business/n/n9f5ced1dc489",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、いざ見積もりを取ろうとしても、費用相場のイメージが持てず、予算化の段階でつまずいてしまう担当者は少なくありません",
+    "url": "https://note.com/ripla_business/n/n9f5ced1dc489",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、鉄鋼/非鉄金属業界向けシステムの開発費用の内訳・相場・費用が変動する要因について、実務目線で解説します",
+    "url": "https://note.com/ripla_business/n/n9f5ced1dc489",
+    "pass": 3
+   },
+   {
+    "quote": "これから予算感を整理したい方の参考になれば幸いです",
+    "url": "https://note.com/ripla_business/n/n9f5ced1dc489",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "型種別生産金額推移表",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "金型生産額推移表",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "貿易統計（主要国別輸出入 月間金額推移）",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "伴い、休業や生産の減少に伴う人員調整や経営の悪化",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後、人口減少や高齢化が進む中で、日本",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、 2019年は2.2％～2.5％で推移し、 年平均で2.4％",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "364 万人を記録した後、以降は次第に減少し、2019",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年 12 月には 152 万人となり減少傾向で推移してい",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月に続き増加している（図 211-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-２ 構造的・摩擦的失業率、需要不足失業率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-１ 完全失業率（季節調整値）及び完全失業者数（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-３ 有効求人倍率（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-４ 職業別の有効求人倍率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たことから、求人数の減少を通じて有効求人倍率が低",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前月につづいて減少している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "半導体関連の需要を背景に電気機械器具や非鉄金属の製造業で求人が増加し、労働者派遣業でも製造業向けの求人が拡大した",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の発表によると、6月の有効求人数（季節調整値）は前月比で0.9％増加した",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "特に半導体関連製品の需要が堅調に推移していることを背景に、電気機械器具や非鉄金属系の製造業で人材確保の動きが活発化している",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "また、労働者派遣業においても、製造業向けの求人が増加したことが全体の数字を押し上げた",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "有効求職者数（同）は前月比0.1％減少した",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "全体としては求職者数が減少しているものの、その内訳をみると、賃金確保のために仕事の掛け持ちや副業を希望して新たに求職登録をする動きや、より良い条件を求めた転職活動が行われているという",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "就業者数と完全失業者数の増減",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "総務省が同時に発表した詳細なデータによると、6月の就業者数（季節調整値）は6846万人と、前月から36万人減少した",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "一方、完全失業者数（同）は175万人で、前月から1万人の増加となった",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "就業者数が減少する一方で失業者数が微増したことになるが、失業率自体は2.5％で横ばいを維持しており、労働市場全体としては底堅さを保っている",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "主要指標の推移",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人数と求職者数の増減は原数値ではなく季節調整値の前月比",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "＜日本の地金生産量推移＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜アルミ圧延品出荷量推移＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム圧延品出荷量の推移",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ アルミ圧延品の出荷量は、1996年にピークとなり、リーマンショック時に大きく減少し",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "後、横ばい～減少傾向となっている",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンニュートラルの進展と銅需要の増加",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後も銅需要の増加が見込まれる",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電線出荷量の推移",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "普及等に伴い、1990年をピークに減少に転じ、2009年以降は60万トン台で推移",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "からの出荷実績も合算すると、2016年以降、ピーク時に匹敵する水準で推移",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "銅電線 部門別出荷実績推移万トン",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電線製造業の海外進出状況推移",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "倒産や休廃業に関する情報を集めたい",
+    "url": "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "pass": 3
+   },
+   {
+    "quote": "新設企業データ ENTRY",
+    "url": "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "pass": 3
+   },
+   {
+    "quote": "設備新設拡充計画データ",
+    "url": "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "pass": 3
+   },
+   {
+    "quote": "休廃業予測モデル QP",
+    "url": "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "pass": 3
+   },
+   {
+    "quote": "倒産・休廃業",
+    "url": "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "pass": 3
+   },
+   {
+    "quote": "最近では、原料不足や買鉱条件の悪化を背景に、国内の製錬量は弱含みで推移している",
+    "url": "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "pass": 3
+   },
+   {
+    "quote": "また、製錬加工費の縮小や国内需要の伸び悩み、自動車の電動化に伴う既存部品需要の減少も収益上のリスクとなる",
+    "url": "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界の市場規模の推移 | 1948〜2024年",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界の市場規模の推移",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界の過去の市場規模の推移をはじめ、非鉄金属製造業の出荷額の推移、売上高ランキング、新素材への各社の対応などを解説しています",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界の推移と基本情報",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界の過去の業界規模の推移を見ますと、2021年、2022年と増加傾向にあります",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の非鉄金属の販売金額は、前年比24.4％増の2兆8,421億円",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属の販売額の推移（出所：",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属の販売額の推移グラフを見ますと、2017年から2020年にかけては横ばいで推移していましたが、2021年は増加に転じ、",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年も大幅な増加",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の項目別では、電気銅が前年比20.3％増、電気金が35.0％増、亜鉛が24.3％増、電気銀が3.8％の増加となり、全項目プラスでした",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属工業の生産指数の推移（出所：",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "上のグラフは、経済産業省の鉱工業指数の非鉄金属工業の生産指数の推移を示したものです",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "で推移しています",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "、横ばいと減少が各1社となっています",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   }
+  ],
+  "働き手が減るか（人手不足）": [
+   {
+    "quote": "今後、人口減少や高齢化が進む中で、日本",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "鈍いことから、欠員と失業が併存する不均衡が続いて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-３ 有効求人倍率（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-４ 職業別の有効求人倍率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（季節調整値）は上昇し 2018 年８",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たことから、求人数の減少を通じて有効求人倍率が低",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別に有効求人倍率",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "をみると、生産工程の職業の有効求人倍率は、職業計",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業で、人手不足感がみられる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年第３四半期にマイナス 1.8 と人手不足感に転じて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）就業者数及び雇用者の動向",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業就業者数については、2002年の",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6月の有効求人倍率1.18倍に上昇、完全失業率は2.5％で横ばい―半導体関連の製造業で求人堅調 — BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "6月の有効求人倍率1.18倍に上昇、完全失業率は2.5％で横ばい―半導体関連の製造業で求人堅調",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省と総務省が31日に発表した6月の雇用統計で、有効求人倍率（季節調整値）は1.18倍と前月から0.01ポイント上昇した",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "就業者数は36万人減の6846万人、完全失業者数は1万人増の175万人となった",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省と総務省が31日に発表した6月の雇用関連指標によると、仕事を求める人1人あたりの求人数を示す有効求人倍率（季節調整値）は1.18倍となり、前月から0.01ポイント上昇した",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "ロイターの事前予測調査では、有効求人倍率は1.17倍、完全失業率は2.5％と見込まれており、有効求人倍率は市場予想をわずかに上回る結果となった",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "今回の有効求人倍率の改善は、製造業を中心とした人手不足感の強まりを反映している",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "就業者数と完全失業者数の増減",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "総務省が同時に発表した詳細なデータによると、6月の就業者数（季節調整値）は6846万人と、前月から36万人減少した",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "就業者数が減少する一方で失業者数が微増したことになるが、失業率自体は2.5％で横ばいを維持しており、労働市場全体としては底堅さを保っている",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（倍）",
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "pass": 3
+   },
+   {
+    "quote": "また、中小企業・小規模事業者においても、DXは人手不足への対応や生産性向上、新規事業創出による需要獲得につながる可能性があります",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "熟練技術者の高齢化が進み、若手技術者の育成が課題となっています",
+    "url": "https://note.com/proper_lion9370/n/n54baef75f7ca",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "非鉄金属業界 の 市場規模 の 推移 | 1948〜2024年 — 非鉄金属業界 の 市場規模 の 推移 | 1948〜2024年 The社史 https://the-shashi.com > 業界別市場規模",
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界 の動向や現状、ランキングなど — 非鉄金属業界 の動向や現状、ランキングなど 業界動向サーチ https://gyokai-search.com > 3-hitetu",
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属 市場 | 市場規模 成長性 産業動向 予測 2026-2034年 ... — 非鉄金属 市場 | 市場規模 成長性 産業動向 予測 2026-2034年 ... グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > 金属",
+    "url": "https://www.gii.co.jp/report/imarc1987527-non-ferrous-metals-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属 の加工エキスパート 株式会社 松井製作所原価計算と ... — 非鉄金属 の加工エキスパート 株式会社 松井製作所原価計算と ... matsui-ss.com https://matsui-ss.com > blog003",
+    "url": "https://matsui-ss.com/blog003",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "業界分析レポート 非鉄金属製造業 ｜佐々木正人 - note 業界分析レポート 非鉄金属製造業 ｜佐々木正人 - note note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポート 非鉄金属製造業 ｜佐々木正人 - note 業界レポート 非鉄金属製造業 ｜佐々木正人 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "pass": 3
+   },
+   {
+    "quote": "日本の 非鉄金属製造業 の現状と課題(日本語・英語) 日本の 非鉄金属製造業 の現状と課題(日本語・英語) note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/proper_lion9370/n/n54baef75f7ca",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属業界 研究メモ - note 非鉄金属業界 研究メモ - note note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼/ 非鉄金属業界 のシステム開発のおすすめの開発会社 ... - note 鉄鋼/ 非鉄金属業界 のシステム開発のおすすめの開発会社 ... - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/ripla_business/n/n94619cf2a0ef",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底企業分析㉛三菱マテリアル】“ 非鉄金属 メーカー”で ... 【徹底企業分析㉛三菱マテリアル】“ 非鉄金属 メーカー”で ... note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/shyuukatu_gy/n/n66c85f149e7c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "業界分析レポート非鉄金属製造業｜佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "pass": 3
+   },
+   {
+    "quote": "今回はあまり馴染みのない非鉄金属製造業の業界について学んでいってみましょう( ´艸｀)",
+    "url": "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "pass": 3
+   },
+   {
+    "quote": "特に記事についてのコメント頂けると、今後の記事作成の励みになります。",
+    "url": "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属とは鉄を除く全ての金属を指し、大きく３つに分類されます。",
+    "url": "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "pass": 3
+   },
+   {
+    "quote": "主な用途は、アルミニウム(アルミ缶、自動車の車体など)、銅(10円玉など)、亜鉛(乾電池など)銀(写真の感光剤など)、ステンレス(やかん、厨房設備など)",
+    "url": "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレスの添加剤など、素材として利用されるもの（ニッケルなど）、電子部品や電池などの原料に使われるもの（チタン、リチウムなど）に大別できます。",
+    "url": "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "pass": 3
+   },
+   {
+    "quote": "金（指輪などの装飾品、コンピュータの回路など）",
+    "url": "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポート 非鉄金属製造業｜佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "pass": 3
+   },
+   {
+    "quote": "の心臓部であり、格付などの与信指標を生産・保守を行う「データ工場」が集計・分析しており、業界ごとの市場概要や業界動向、与信管理のポイントなどをまとめたレポートです。",
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "pass": 3
+   },
+   {
+    "quote": "特に記事についてのコメント頂けると、今後の記事作成の励みになります。",
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "pass": 3
+   },
+   {
+    "quote": "◉仕事に役立つセミナー情報を発信◉メルマガのご案内",
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属とは、鉄を除く全ての金属を指し、大きく３つに分類される。",
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "pass": 3
+   },
+   {
+    "quote": "‣ ベースメタル（銅、鉛、アルミニウム等）",
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "pass": 3
+   },
+   {
+    "quote": "主な用途は、アルミニウム(アルミ缶、自動車の車体など)、銅(10円玉など)、亜鉛(乾電池など)",
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "pass": 3
+   },
+   {
+    "quote": "🇯🇵日本の非鉄金属製造業の現状と課題(日本語・英語)｜アメリカ経済論",
+    "url": "https://note.com/proper_lion9370/n/n54baef75f7ca",
+    "pass": 3
+   },
+   {
+    "quote": "🇯🇵日本の非鉄金属製造業の現状と課題(日本語・英語)",
+    "url": "https://note.com/proper_lion9370/n/n54baef75f7ca",
+    "pass": 3
+   },
+   {
+    "quote": "🇯🇵日本の非鉄金属製造業 ― 歴史、現状と課題 ―",
+    "url": "https://note.com/proper_lion9370/n/n54baef75f7ca",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属とは、鉄（Fe）を主成分としない金属の総称です。代表的なものとして、アルミニウム、銅、鉛、亜鉛、ニッケル、チタン、マグネシウム、金、銀などが挙げられます。これらの金属は軽量性、耐食性、導電性、熱伝導性など、それぞれ異なる優れた特性を持ち、現代社会のあらゆる産業を支える重要な素材となっています。",
+    "url": "https://note.com/proper_lion9370/n/n54baef75f7ca",
+    "pass": 3
+   },
+   {
+    "quote": "日本の非鉄金属製造業は、自動車、電気・電子機器、半導体、建設、航空宇宙、防衛、再生可能エネルギーなど幅広い分野へ高品質な材料を供給し、日本のものづくりを支える基幹産業として発展してきました。一方で、資源の海外依存や脱炭素への対応など、多くの課題にも直面しています。",
+    "url": "https://note.com/proper_lion9370/n/n54baef75f7ca",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、日本の非鉄金属製造業の歴史、現状、そして今後の課題について考察します。",
+    "url": "https://note.com/proper_lion9370/n/n54baef75f7ca",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属は鉄以外の金属を指し、それぞれ用途が異なります。",
+    "url": "https://note.com/proper_lion9370/n/n54baef75f7ca",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、電気自動車（EV）や風力発電設備などの普及により、銅やニッケルなどの需要が急速に拡大しています。",
+    "url": "https://note.com/proper_lion9370/n/n54baef75f7ca",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteでは私が就活するにあたってまとめた業界研究と各企業の個人的な印象を載せています。化学メーカーについての記事は多く見かけますが、あまり見かけないように思う非鉄金属、土石セラミックの企業を書いています。ここ間違ってるよなど指摘があればtwitterのアカウントに送ってください。",
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "pass": 3
+   },
+   {
+    "quote": "今回は非鉄金属業界でも銅に関わるメーカーをまとめています。",
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "pass": 3
+   },
+   {
+    "quote": "まず、非鉄金属とは鉄以外のすべての金属のことであり、大まかに分けるとベースメタルとレアメタルに分かれています。ベースメタルは銅、亜鉛、鉛、アルミニウムなどを含み、レアメタルはニッケル、コバルト、チタンなどです。他にも色々あるのですが今回は割愛します。",
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "pass": 3
+   },
+   {
+    "quote": "基本的にメーカーは海外の鉱山から鉱石を輸入して、不純物を取り除いて金属を精錬し、それを加工することで市場に出る商品が完成します。 日本では例外はありますがほとんど鉱石がとれず、基本的には輸入して生産しています。",
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "pass": 3
+   },
+   {
+    "quote": "海外の優良鉱山は資源メジャーが抑えているところが多いのですが、今後の鉱石の低品位化を見据えて、現在、いくつかのメーカーは海外鉱山の権益へ投資をしており、調べてみると非常に面白いです。",
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "pass": 3
+   },
+   {
+    "quote": "実際にお話を聞いたところ、その部門はどちらかというと商社に近い業務である印象を受けました。ここら辺の話はまた別に書こうと思います。",
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "pass": 3
+   },
+   {
+    "quote": "銅における精錬メーカーとは、鉄における高炉メーカーと同じ立ち位置だと考えられます。",
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "pass": 3
+   },
+   {
+    "quote": "国内で鉱石から精錬をおこなっているのは東邦亜鉛を除く非鉄大手7社と、そこから出資された受託製錬所です。",
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼/非鉄金属業界のシステム開発のおすすめの開発会社/ベンダー6選と選び方｜株式会社ripla",
+    "url": "https://note.com/ripla_business/n/n94619cf2a0ef",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼/非鉄金属業界のシステム開発のおすすめの開発会社/ベンダー6選と選び方",
+    "url": "https://note.com/ripla_business/n/n94619cf2a0ef",
+    "pass": 3
+   },
+   {
+    "quote": "●鉄鋼/非鉄金属業界向けシステム開発では、連続生産プロセスへの理解やエネルギー原単位管理、圧延計画への対応力を持つ会社選びが重要です。",
+    "url": "https://note.com/ripla_business/n/n94619cf2a0ef",
+    "pass": 3
+   },
+   {
+    "quote": "●おすすめの開発会社・ベンダーは、株式会社riplaを含む6社で、生産方式や設備規模に応じて選べます。",
+    "url": "https://note.com/ripla_business/n/n94619cf2a0ef",
+    "pass": 3
+   },
+   {
+    "quote": "●鉄鋼/非鉄金属業界向けシステムは、生産計画、圧延計画、歩留まり管理、エネルギー管理、出荷管理を支えます。",
+    "url": "https://note.com/ripla_business/n/n94619cf2a0ef",
+    "pass": 3
+   },
+   {
+    "quote": "脱炭素規制の強化やエネルギーコストの高騰、設備の老朽化などを背景に、鉄鋼/非鉄金属業界におけるシステム刷新は多くの企業にとって重要な経営テーマとなっています。特に、圧延計画や歩留まり管理、エネルギー原単位の把握をExcelや老朽化した基幹システムで運用してきた企業では、連続生産プロセスの状況把握の遅れや、設備間のデータ分断といった課題が顕在化しています。また、電炉シフトやリサイクル原料の活用拡大に伴い、原料受け入れから出荷までの一気通貫の管理も求められるようになっています。",
+    "url": "https://note.com/ripla_business/n/n94619cf2a0ef",
+    "pass": 3
+   },
+   {
+    "quote": "こうした背景から、生産管理システムやエネルギー管理システムの新規開発・刷新を検討する鉄鋼・非鉄金属メーカーが増加しています。一方で、鉄鋼/非鉄金属業界は高炉・電炉・圧延といった連続生産の装置産業特有の工程構造を持つため、汎用パッケージの導入だけでは十分にフィットせず、開発ベンダー選定に悩むケースも少なくありません。特に、既存の制御システムとの接続実績があるかどうかで、導入後の稼働安定性が大きく変わります。",
+    "url": "https://note.com/ripla_business/n/n94619cf2a0ef",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、鉄鋼/非鉄金属業界向けシステム開発を発注・外注・委託する際におすすめのシステム会社・開発ベンダーを6社厳選して紹介します。これから生産管理システムやエネルギー管理基盤の刷新を検討している方は、ぜひ参考にしてください。",
+    "url": "https://note.com/ripla_business/n/n94619cf2a0ef",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底企業分析㉛三菱マテリアル】“非鉄金属メーカー”で終わらせるな。銅・電子材料・超硬工具・リサイクルで産業の血流を握る資源循環企業の本質｜プロ企業分析家の就活note",
+    "url": "https://note.com/shyuukatu_gy/n/n66c85f149e7c",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底企業分析㉛三菱マテリアル】“非鉄金属メーカー”で終わらせるな。銅・電子材料・超硬工具・リサイクルで産業の血流を握る資源循環企業の本質",
+    "url": "https://note.com/shyuukatu_gy/n/n66c85f149e7c",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、銅を中心とした金属事業は三菱マテリアルの大きな柱である。",
+    "url": "https://note.com/shyuukatu_gy/n/n66c85f149e7c",
+    "pass": 3
+   },
+   {
+    "quote": "でも、今の三菱マテリアルを就活で語るなら、それだけでは足りない。",
+    "url": "https://note.com/shyuukatu_gy/n/n66c85f149e7c",
+    "pass": 3
+   },
+   {
+    "quote": "三菱マテリアルは、単なる素材メーカーではない。",
+    "url": "https://note.com/shyuukatu_gy/n/n66c85f149e7c",
+    "pass": 3
+   },
+   {
+    "quote": "**資源を掘り、素材にし、加工し、産業に届け、使い終わった製品から再び金属を取り出す“資源循環型の素材メーカー”**である。",
+    "url": "https://note.com/shyuukatu_gy/n/n66c85f149e7c",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼メーカーが「社会インフラを支える素材企業」だとすれば、三菱マテリアルは、",
+    "url": "https://note.com/shyuukatu_gy/n/n66c85f149e7c",
+    "pass": 3
+   },
+   {
+    "quote": "銅や高機能材料を通じて、電動化・半導体・再エネ・リサイクル社会の根っこを支える企業",
+    "url": "https://note.com/shyuukatu_gy/n/n66c85f149e7c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "日本の関連銘柄を再整理   ① 製錬・ 非鉄金属 （銅価格の ... - X 日本の関連銘柄を再整理   ① 製錬・ 非鉄金属 （銅価格の ... - X X https://x.com > @t_ryoma1985",
+    "url": "https://x.com/t_ryoma1985/status/2018607255504257529",
+    "pass": 3
+   },
+   {
+    "quote": "PR TIMESスタートアップ on X : \"戦略17分野『 非鉄金属 資源 ... PR TIMESスタートアップ on X : \"戦略17分野『 非鉄金属 資源 ... X https://x.com > @PRTIMES_STUP",
+    "url": "https://x.com/PRTIMES_STUP/status/2115256519482913224",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "産業で使用される 非鉄金属 トップ13:特性と応用 - LinkedIn 産業で使用される 非鉄金属 トップ13:特性と応用 - LinkedIn LinkedIn https://jp.linkedin.com > pulse",
+    "url": "https://jp.linkedin.com/pulse/top-13-non-ferrous-metals-used-industry-properties-applications-eh2yf?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属 メーカーランキング - LinkedIn 非鉄金属 メーカーランキング - LinkedIn LinkedIn https://jp.linkedin.com > pulse > 非鉄金属メーカーランキ...",
+    "url": "https://jp.linkedin.com/pulse/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-steer-house-collective-aoblf",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属 製品市場の急成長を牽引する要因とは？主 ... - LinkedIn 非鉄金属 製品市場の急成長を牽引する要因とは？主 ... - LinkedIn LinkedIn https://jp.linkedin.com > pulse > 非鉄金属製品市場の急...",
+    "url": "https://jp.linkedin.com/pulse/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E5%B8%82%E5%A0%B4%E3%81%AE%E6%80%A5%E6%88%90%E9%95%B7%E3%82%92%E7%89%BD%E5%BC%95%E3%81%99%E3%82%8B%E8%A6%81%E5%9B%A0%E3%81%A8%E3%81%AF%E4%B8%BB%E3%81%AA%E6%88%90%E9%95%B7%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%81%A82026%E5%B9%B42033%E5%B9%B4%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr51-7513952389012410368-hxrre",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "非鉄金属 製品メーカー勤務 - Página inicial | Facebook 非鉄金属 製品メーカー勤務 - Página inicial | Facebook Facebook https://pt-pt.facebook.com > 非鉄金属製品メーカー勤務",
+    "url": "https://pt-pt.facebook.com/pages/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%8B%A4%E5%8B%99/114068146679436",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属 製品メーカー勤務 - Halaman Utama | Facebook 非鉄金属 製品メーカー勤務 - Halaman Utama | Facebook Facebook https://ms-my.facebook.com > 非鉄金属製品メーカー勤務",
+    "url": "https://ms-my.facebook.com/pages/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%8B%A4%E5%8B%99/114068146679436",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属 製品メーカー勤務 - Strona główna | Facebook 非鉄金属 製品メーカー勤務 - Strona główna | Facebook Facebook https://pl-pl.facebook.com > 非鉄金属製品メーカー勤務",
+    "url": "https://pl-pl.facebook.com/pages/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%8B%A4%E5%8B%99/114068146679436",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmam.co.jp/hrm/column/0136-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/market/nonferrous/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gyokai-search.com/3-hitetu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/imarc1987527-non-ferrous-metals-market-size-share-trends.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000001006.000043465.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stream-data.co.jp/media/industry-closure-rates/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metal-matching.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platto.technoa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usknet.com/jirei/takayama/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kktisc.co.jp/column/7201/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casio-human-sys.co.jp/bc-order/column/019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/recerqa/n/n984940c704ad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecbeing.net/b2b/contents/detail/22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gifu-keiri.com/news/news-13043/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ripla_business/n/n9f5ced1dc489",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesdock.jp/blog/manufacturing-cost-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsui-ss.com/blog003",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/proper_lion9370/n/n54baef75f7ca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/t_ryoma1985/status/2018607255504257529",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/top-13-non-ferrous-metals-used-industry-properties-applications-eh2yf?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-steer-house-collective-aoblf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E5%B8%82%E5%A0%B4%E3%81%AE%E6%80%A5%E6%88%90%E9%95%B7%E3%82%92%E7%89%BD%E5%BC%95%E3%81%99%E3%82%8B%E8%A6%81%E5%9B%A0%E3%81%A8%E3%81%AF%E4%B8%BB%E3%81%AA%E6%88%90%E9%95%B7%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%81%A82026%E5%B9%B42033%E5%B9%B4%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr51-7513952389012410368-hxrre",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pt-pt.facebook.com/pages/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%8B%A4%E5%8B%99/114068146679436",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ms-my.facebook.com/pages/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%8B%A4%E5%8B%99/114068146679436",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pl-pl.facebook.com/pages/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%8B%A4%E5%8B%99/114068146679436",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ripla_business/n/n94619cf2a0ef",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shyuukatu_gy/n/n66c85f149e7c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PRTIMES_STUP/status/2115256519482913224",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "非鉄金属製造業 事業所数 従業者数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011",
+    "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2016gaiyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200552&tstat=000001072573&toukei_kind=6&tclass1=000001074946&result_page=1&second2=1&tclass2val=0&statdisp_id=0003111131",
+    "https://www.sokeizai.or.jp/pages/58/",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966"
+   ]
+  },
+  {
+   "query": "非鉄金属製造業 人手不足 有効求人倍率",
+   "results": [
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.jmam.co.jp/hrm/column/0136-manufacturing.html",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://danbo-ru.ntp-k.co.jp/column/improve/detail54",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://hitokuru.atimes.co.jp/list/397",
+    "https://www.monoscope.jp/data/reports/metal-job-ratio-gap-2026/"
+   ]
+  },
+  {
+   "query": "非鉄金属製造業 市場規模 推移",
+   "results": [
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf",
+    "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "https://the-shashi.com/market/nonferrous/",
+    "https://gyokai-search.com/3-hitetu.html",
+    "https://www.gii.co.jp/report/imarc1987527-non-ferrous-metals-market-size-share-trends.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102662",
+    "https://www.imarcgroup.com/report/ja/japan-non-ferrous-metals-market",
+    "https://www.peaks-media.com/5165/",
+    "https://service.xenobrain.jp/forecastresults/market-size/metal",
+    "https://monoscope-media.com/steel-nonferrous-market/"
+   ]
+  },
+  {
+   "query": "非鉄金属製造業 休廃業 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "https://prtimes.jp/main/html/rd/p/000001006.000043465.html",
+    "https://stream-data.co.jp/media/industry-closure-rates/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "https://ecnomikata.com/ecnews/marketing/48265/",
+    "https://restart-style.com/knowledge/manufacturing_bankruptcy/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/20/backdata/1-1-10.html",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/a537ae9febfa44218a54df8bc5034f43/20260109_全国企業「休廃業・解散」動向調査（2025年）.pdf"
+   ]
+  },
+  {
+   "query": "非鉄金属製造業 マッチング プラットフォーム",
+   "results": [
+    "https://mallento.com/recommend/manufacturing-matching-services/",
+    "https://liskul.com/manufacturing-matching-site-37343",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "https://metal-matching.net/",
+    "https://platto.technoa.co.jp/",
+    "https://techport.co.jp/archives/40636",
+    "https://mitsu-ri.net/",
+    "https://monotown-kadoma.jp/matching-site",
+    "https://www.chotatsu-ichiba.com/",
+    "https://ts-taisei.co.jp/jigmatch/blog/parts_machining_matching_platform/"
+   ]
+  },
+  {
+   "query": "非鉄金属製造業 受発注 課題 電話 FAX",
+   "results": [
+    "https://www.usknet.com/jirei/takayama/",
+    "https://www.kktisc.co.jp/column/7201/",
+    "https://www.casio-human-sys.co.jp/bc-order/column/019.html",
+    "https://note.com/recerqa/n/n984940c704ad",
+    "https://www.ecbeing.net/b2b/contents/detail/22",
+    "https://www.totec-sangyo.jp/blog/fax-order-blackbox4/",
+    "https://digital-salvage.co.jp/column/manufacturing-order-ec-transition/",
+    "https://www.umsaascloud.jp/blog/fax/",
+    "https://sekai-c.jp/column/3959/",
+    "https://www.salesdock.jp/blog/manufacturing-ordering-management"
+   ]
+  },
+  {
+   "query": "非鉄金属製造業 外注 費用 相場",
+   "results": [
+    "https://gifu-keiri.com/news/news-13043/",
+    "https://note.com/ripla_business/n/n9f5ced1dc489",
+    "https://www.salesdock.jp/blog/manufacturing-cost-ratio",
+    "https://www.agency-assist.co.jp/column/13768/",
+    "https://matsui-ss.com/blog003",
+    "https://www.sapporotax.com/insights-mfg-metal/",
+    "https://go.taxita.com/column/accounting072/",
+    "https://www.shinpo-e.co.jp/media/uncategorized/control-outsourcing-cost",
+    "https://fukakachi-lab.com/category/cost-management/1017",
+    "https://kyoto-kikai-shoji.com/column/金属加工見積依頼の完全ガイド｜費用相場・内訳/"
+   ]
+  },
+  {
+   "query": "site:note.com 非鉄金属製造業",
+   "results": [
+    "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "https://note.com/proper_lion9370/n/n54baef75f7ca",
+    "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "https://note.com/ripla_business/n/n94619cf2a0ef",
+    "https://note.com/lucid_lotus6287/n/nde59afb9beae",
+    "https://note.com/shyuukatu_gy/n/n66c85f149e7c",
+    "https://note.com/gmf_plus/n/n95e96e35a2d6",
+    "https://note.com/good_dill292/n/n28ac553482ba",
+    "https://note.com/clipcorporation/n/ncd20722ba651"
+   ]
+  },
+  {
+   "query": "site:x.com 非鉄金属製造業",
+   "results": [
+    "https://x.com/masashi_i/status/2054773698700419449",
+    "https://x.com/ito_city/status/1993228196255612985",
+    "https://x.com/IBADAI_official/status/1957984511800799281",
+    "https://x.com/t_ryoma1985/status/2018607255504257529",
+    "https://x.com/logmi_finance/status/2091511103700238481",
+    "https://x.com/myokoi1962/status/2112329437568241739",
+    "https://x.com/sangyo_web/status/2115989035948941329",
+    "https://x.com/ghana_recipe/status/1625315137245663232",
+    "https://x.com/t_ryoma1985/status/2021787928784252974",
+    "https://x.com/i/status/2056525244710420651"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 非鉄金属製造業",
+   "results": [
+    "https://jp.linkedin.com/pulse/top-13-non-ferrous-metals-used-industry-properties-applications-eh2yf?tl=ja",
+    "https://jp.linkedin.com/pulse/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-steer-house-collective-aoblf",
+    "https://jp.linkedin.com/pulse/how-non-ferrous-forging-supports-modern-pwbof?tl=ja",
+    "https://jp.linkedin.com/pulse/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E5%B8%82%E5%A0%B4%E3%81%AE%E6%80%A5%E6%88%90%E9%95%B7%E3%82%92%E7%89%BD%E5%BC%95%E3%81%99%E3%82%8B%E8%A6%81%E5%9B%A0%E3%81%A8%E3%81%AF%E4%B8%BB%E3%81%AA%E6%88%90%E9%95%B7%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%81%A82026%E5%B9%B42033%E5%B9%B4%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr51-7513952389012410368-hxrre",
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E9%8B%B3%E7%89%A9%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91-biostrive-analytics-group-9hqye",
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%80%90%E7%81%AB%E7%89%A9%E9%9C%80%E8%A6%81%E3%81%A8%E4%B8%BB%E3%81%AA%E7%94%A8%E9%80%94-coralyxx-ertee",
+    "https://jp.linkedin.com/pulse/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%8A%E4%BD%8D%E4%BC%81%E6%A5%AD2026-ameper-focus-rlg0e",
+    "https://jp.linkedin.com/pulse/%E9%AB%98%E7%B4%94%E5%BA%A6%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E-%E5%B8%82%E5%A0%B4%E3%81%AE%E5%A4%89%E9%81%B7%E3%81%A813%E3%81%AEcagr%E6%88%90%E9%95%B7%E7%8E%872026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%81%99%E3%81%B9%E3%81%8D%E4%B8%BB%E8%A6%81%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89-corvexacx-2yy0e",
+    "https://jp.linkedin.com/company/tokkin",
+    "https://jp.linkedin.com/pulse/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%81%AE%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%A8%E3%82%B7%E3%82%A7%E3%82%A2-akadama-aim-hpgae"
+   ]
+  },
+  {
+   "query": "site:facebook.com 非鉄金属製造業",
+   "results": [
+    "https://www.facebook.com/ZhuShiHuiShesatokin/videos/%E7%AC%AC29%E5%9B%9E%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%A4%A7%E9%98%AA%E3%81%AB%E5%87%BA%E5%B1%95%E4%B8%AD%E3%81%8A%E6%99%82%E9%96%93%E3%81%82%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%82%89%E3%81%94%E6%9D%A5%E7%A4%BE%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%82%B5%E3%83%88%E3%82%AD%E3%83%B3-%E9%8B%B3%E7%89%A9-%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E-%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A-%E5%B1%95%E7%A4%BA%E4%BC%9A/1140290298429957/",
+    "https://pt-pt.facebook.com/pages/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%8B%A4%E5%8B%99/114068146679436",
+    "https://ms-my.facebook.com/pages/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%8B%A4%E5%8B%99/114068146679436",
+    "https://pl-pl.facebook.com/pages/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%8B%A4%E5%8B%99/114068146679436",
+    "https://ur-pk.facebook.com/pages/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%8B%A4%E5%8B%99/114068146679436",
+    "https://ms-my.facebook.com/pages/%E6%9F%90%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC/401201539980520",
+    "https://sw-ke.facebook.com/pages/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%8B%A4%E5%8B%99/114068146679436",
+    "https://www.facebook.com/sokacity.anshin/posts/%E7%89%B9%E5%AE%9A%E7%94%A3%E6%A5%AD%E5%88%A5%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E3%81%8C%E6%94%B9%E6%AD%A3%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%A4%E5%92%8C6%E5%B9%B412%E6%9C%881%E6%97%A5%E3%81%8B%E3%82%89%EF%BC%95%E6%A5%AD%E7%A8%AE%E3%81%AE%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%89%B9%E5%AE%9A%E7%94%A3%E6%A5%AD%E5%88%A5%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E3%81%AE%E6%99%82%E9%96%93%E9%A1%8D%E3%81%8C%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AF1098%E5%86%86%E5%85%89%E5%AD%A6%E6%A9%9F%E6%A2%B0%E5%99%A8%E5%85%B7%E7%AD%89%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AF111/597015016003735/",
+    "https://www.facebook.com/hishinumamachineryranzanjapan/",
+    "https://business.facebook.com/groups/495212804276545/"
+   ]
+  },
+  {
+   "query": "非鉄金属製造業 note 社長",
+   "results": [
+    "https://note.com/gmf_plus/n/n95e96e35a2d6",
+    "https://note.com/ripla_business/n/n94619cf2a0ef",
+    "https://note.com/shyuukatu_gy/n/n66c85f149e7c",
+    "https://fmniigata-works.com/company/481/",
+    "https://note.com/tatsuya_sabato/n/ndc118767b74d",
+    "https://www.kotora.jp/c/59211/",
+    "https://note.com/choooo17one/n/nd638ad8e5208",
+    "https://www.youtube.com/watch?v=3v077AWKaq4",
+    "https://note.com/eiei_backito/n/nfd1ab788aada",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "非鉄金属製造業 X 投稿",
+   "results": [
+    "https://tofu.misosil.com/influencers/Non-ferrous-metal-manufacturing-industry/mixi2/",
+    "https://journal.meti.go.jp/60sec/40462/",
+    "https://x.com/PRTIMES_STUP/status/2115256519482913224",
+    "https://www.japanmetal.com/sns_k",
+    "https://www.youtube.com/watch?v=Kdztr1egCaU",
+    "https://www.tdb.co.jp/report/industry/1dpz9hwzz6k7/",
+    "https://syukatsu-kaigi.jp/companies/108596/screening_experiences/company_study/59233",
+    "https://www.tsr-net.co.jp/data/detail/1191251_1527.html",
+    "https://crexgroup.com/ja/manufacturing/management/non-ferrous-metal-manufacturing-guide/",
+    "https://news.j-blocks.com/gyokai/seizou-tekko"
+   ]
+  },
+  {
+   "query": "non-ferrous metal manufacturing Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/non-ferrous-metal-sorting-equipment-market-xzrhf",
+    "https://www.linkedin.com/pulse/non-ferrous-metal-balls-market-us-japan-korea-europe-k6cgf",
+    "https://www.linkedin.com/pulse/how-automotive-industry-benefits-from-non-ferrous-metals-cgu6c",
+    "https://www.linkedin.com/company/non-ferrous-extrusions",
+    "https://www.linkedin.com/pulse/ferrous-vs-non-ferrous-metals-what-every-metal-dealer-msme-ymzkc",
+    "https://www.linkedin.com/posts/recykaldotcom_recykal-managedmarketplace-metalscrap-activity-7376851799749615616-7oGg",
+    "https://zm.linkedin.com/company/non-ferrous-metal-works-z-ltd",
+    "https://za.linkedin.com/company/non-ferrous-metals",
+    "https://www.linkedin.com/pulse/top-13-non-ferrous-metals-used-industry-properties-applications-eh2yf",
+    "https://www.linkedin.com/company/non-ferrous-founders-society"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,2003 @@
+{
+ "name": "製造業向けオンプレAI・社内文書AIの導入",
+ "en": "on-premise AI knowledge search for manufacturers Japan",
+ "aliases": [
+  "オンプレ 生成AI 製造業 導入",
+  "社内ナレッジ AI 製造業 料金",
+  "過去メール 検索 AI"
+ ],
+ "context": "入口候補・オンプレAI（Yomi）",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:58:26.184683+00:00",
+ "evidence": {
+  "顧客が払う単価": [
+   {
+    "quote": "⇒120,000円～（月額）",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "⇒500,000円～",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "PoC：360万円〜／本開発：要件により個別見積",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用（システム導入費用）：100,000円",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用（システム利用料）1/ID 〜 39/ID：19,800円",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用（システム利用料）1/ID 〜 39/ID：39,800円",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "100,000円",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "月額10万円～",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "中規模プロジェクト（1,000万円前後）の費用内訳",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "最低でも月額10万円程度の運用費用",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "50万円～200万円",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "50万円～300万円",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "40万円～500万円",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円～2,000万円以上",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "200万円～1,500万円以上",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "料金も公開、無料相談は60分、準備物は不要です",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "研修は、1名40万円(税込)となります",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "スポットは、約12,000円/時〜",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "無料～10万円",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "50万～300万円",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "100万～400万円",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "300万～1,000万円以上",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "月額50万～200万円程度",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "規模により50万～300万円前後が主流",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月時点のAI導入費用は、SaaS型なら1人あたり月額20ドル程度から、個別開発では数百万円以上が目安です",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり月額20ドル程度から",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模PoCの参考相場は50万〜250万円",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、WEELのプロトタイプ開発プランは月額120万〜160万円で、業務連携を含む本番開発は別途見積もり",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "本格的なシステム開発は300万〜800万円、大規模案件は1,000万円以上がWEEL公開例",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりは初期費用だけでなく、1年間の継続費用を含めて比べてください",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "【DirectCloud利用企業調査】生成AI利用は約8割、半数が予算100万円未満 現場の効果と課題 - DirectCloud",
+    "url": "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "pass": 3
+   },
+   {
+    "quote": "【DirectCloud利用企業調査】生成AI利用は約8割、半数が予算100万円未満 現場の効果と課題",
+    "url": "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI関連の年間予算について、最も多かった回答は「100万円未満」で52.9％、次いで「予算は未定・検討中」が35.3％でした",
+    "url": "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の選択肢は「100〜300万円」と「1,000〜3,000万円」がそれぞれ5.9％で、「300〜500万円」などの価格帯は回答がなく、現時点では多くの企業が小規模な予算で導入を進めていることが分かります",
+    "url": "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "pass": 3
+   },
+   {
+    "quote": "また、予算面では100万円未満の小規模投資が主流であり、導入状況でも「試験導入・PoC実施中」が32.4％で最も多い結果でした",
+    "url": "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "pass": 3
+   },
+   {
+    "quote": "料金プランは、利用人数の目安に応じてFree（1〜10名）からElite+（301名以上）まで用意しています",
+    "url": "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "pass": 3
+   },
+   {
+    "quote": "高価なシステムを買わなくても、無料または月数千円のプランでパソコン1台から試せます",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用ほぼゼロ・低い月額で、パソコン1台から始められる",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "仮に5名で有料版を使っても月1〜2万円程度で、削減できる人件費・外注費を考えれば十分に見合うケースがほとんどです",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "時給換算2,000円なら月4万円分の効果",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 学習・評価（Feedback & Learning）： 実行結果を観測し、目標との乖離があれば計画を修正する",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円増・電力使用 42%削減な",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国の企業数の 99.7%を占める中小企業・小規模事業者は、長引く円安や原材料価格の高騰、エネルギーコストの",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金を活用して最大150万円得するCRM／SFA導入",
+    "url": "https://www.hammock.jp/hpr/media/ai-sales-merit-example.html",
+    "pass": 3
+   },
+   {
+    "quote": "Web問い合わせ後の対応の遅延により、3社に1社が受注損失金額を「1000万円以上」と想定〜営業窓口の実態調査〜",
+    "url": "https://www.hammock.jp/hpr/media/ai-sales-merit-example.html",
+    "pass": 3
+   },
+   {
+    "quote": "月額３万円からはじめるAI-OCRで",
+    "url": "https://www.hammock.jp/hpr/media/ai-sales-merit-example.html",
+    "pass": 3
+   }
+  ],
+  "成約率・継続率": [
+   {
+    "quote": "製造業実績100件・案件継続率82%の信頼",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "受注率・満足度の変化",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、提案の精度が高まり、成約率が導入前と比べて約1.4倍に向上",
+    "url": "https://www.hammock.jp/hpr/media/ai-sales-merit-example.html",
+    "pass": 3
+   }
+  ],
+  "許可・資格の要否": [
+   {
+    "quote": "株式会社Atlas Intelligenceが提供する「AIエージェント開発支援」は、経営課題から逆算して自動化すべき業務を特定し、要件定義・設計・開発・導入から運用・改善までを一気通貫で行うサービスです",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "要件定義から実装、運用保守までを一貫して伴走するため、「導入したが現場で使われない」というAI投資の失敗を回避できます",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "PoC：360万円〜／本開発：要件により個別見積",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "AI資格を保有した編集部がDX推進の事例や人工知能ソリューションの活用方法、ニュース、トレンド情報を発信しています",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "・Youtubeのチャンネル登録もお願いいたします",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガに登録する",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "メールマガジン登録",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "メールマガジンの配信をご希望の方は、下記フォームよりご登録ください",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "登録無料です",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "登録後すぐに視聴できます",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用には、企画・要件定義といった上流工程の人件費、AIモデル開発費、システム連携費用などが含まれます",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "企画・要件定義",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ要件が厳しい場合は、オンプレミス環境での構築や独自モデルの開発が必要となり、費用は大幅に増加します",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "高い機密性・セキュリティ要件",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ要件高",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "2ステップの登録後、すぐに視聴できます（無料）",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "無料講義に登録して視聴する →",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "登録特典：初めてのエージェント安全導入マニュアル",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "曖昧な目的設定と要件不足",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的なKPIと要件の明確化",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ要件でも、複数のベンダーから見積もりを取ることで市場相場を把握することが可能",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "71分／無料／登録後すぐ視聴",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "参加無料・登録後すぐ視聴",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "新規会員登録",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "ブックマーク登録",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "・Dify環境構築：AWS、Azure、GCP、オンプレミスなど御社要件に沿った最適構成でセキュアな専用環境を整備",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、自然言語処理(NLP)、画像生成、音声合成、ドキュメント要約、マルチモーダル処理など、それぞれで求められる技術要件や学習手法が異なります",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、以下のような観点で要件を定義しておくと比較がしやすくなります",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "開発要件が高度になるほど費用は増大するため、まずはスモールスタートで検証するのが現実的な選択肢",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "会員登録でもっと便利に",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "会員登録をする",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "検証は1〜3か月、本開発は要件次第",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "企画・要件定義",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "要件検討・人件費",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社に依頼する場合の導入費用相場（※要件によって変わることがあります",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "単純計算では総額240万〜640万円になりますが、個別の要件によって見積もりは異なります",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ・コンプライアンス要件",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "要件定義から開発まで時間と費用がかかる",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "最低賃金に関する要件を満たす場合は3分の2以内",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "事務局に登録されたITツールの導入による業務効率化",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "要件を満たす新製品開発、新事業への進出に伴うシステム構築",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "新しい事業に向けたシステム開発などが対象になり得ますが、単なるAIツールの契約だけでは要件を満たさない場合があります",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "へ名称が変わり、事務局に登録されたITツールの導入を支援する制度です",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "導入前に「どの業務を、どう効率化したいのか」「何を自動化したいのか」など、社内で目的と要件を具体化しておきましょう",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIは機密性の高い情報を扱うケースも多いため、セキュリティ要件に応じたクラウド環境やアクセス制御の整備が不可欠です",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "要件の整理や設計、セキュリティ対策など、見落としがちなポイントも多く、結果として",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "また、記載の会社名および製品名・サービス名は、それぞれ各社の商標または登録商標です",
+    "url": "https://biz.kccs.co.jp/column/dx05/",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録はこちら",
+    "url": "https://www.argo-graph.co.jp/media/knowledge/wp_ai_manufacturing-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "また、データセンターGPUのコンピテンシーにおいて、最高ランクのNVIDIA Compute Eliteパートナーに認定されています",
+    "url": "https://www.argo-graph.co.jp/media/knowledge/wp_ai_manufacturing-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば生産計画作成は製造部全員に許可するが、設計図要約は設計部門リーダーのみなど、役割ごとに権限を分離し、承認フローをワークフローシステムで自動化すると管理しやすくなります",
+    "url": "https://www.techs-s.com/media/show/300",
+    "pass": 3
+   },
+   {
+    "quote": "自社内でデータを完結させるオンプレミス型や、専用クラウドで運用するハイブリッド型を選べば、セキュリティやコンプライアンスの要件をより厳格に満たせます",
+    "url": "https://www.techs-s.com/media/show/300",
+    "pass": 3
+   },
+   {
+    "quote": "受賞・認定・パートナーシップ",
+    "url": "https://www.techs-s.com/media/show/300",
+    "pass": 3
+   },
+   {
+    "quote": "無許可の個人アカウント",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "会社が許可したツールとアカウントに限定して使う",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "要件・対象・締切は年度ごとに変わるため、最新の公式情報で必ず確認する",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "申請要件や締切、対象経費が細かく決まっている",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "要件や締切は年度ごとに変わるため、最新の公募要領を必ず確認してください",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "メールマガジン登録",
+    "url": "https://aismiley.co.jp/product/rustic_implementation-support/",
+    "pass": 3
+   },
+   {
+    "quote": "体的要件（要件定義、検証、妥当性確認の手法）を定める",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人の役割が見えてくると、人材の要件も変わってくる",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   }
+  ],
+  "最初の売上までの期間": [
+   {
+    "quote": "申請から決裁までのリードタイムを短縮し、経営の意思決定スピードを引き上げます",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な機能をモジュール単位で組み合わせるため、スクラッチ開発と比べて開発コストと期間を大幅に削減できます",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "PoCからシステムの導入まで、オーダーメイドによる画像認識AIソリューションをご提供いたします",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "※費用相場、期間目安はプロジェクトの規模により異なります",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "開発期間も1〜2年と長期になる傾向",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS型AIは、専門的な開発知識がなくても比較的短期間で導入できるのが利点のひとつです",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "2週間～1ヶ月",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS型の導入は、一般的には約2週間〜1ヶ月で本格運用を開始できます",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "短期的ROI重視（半年～1年）",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "開発期間に余裕がある",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば小売業の事例では、SaaS型の需要予測AIを6ヶ月間実施",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "API連携による開発コスト削減効果は非常に大きく、自社開発と比較して開発期間を1/3に短縮できるケースも珍しくありません",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "数多くの導入支援で培ったノウハウをもとに、クラウド・オンプレミスを問わずセキュリティを担保した専用環境を短期間で構築します",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "開発期間の短縮、高品質なAIの開発を可能にする",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "中には1ヶ月程度の伴走支援を試験的に提供している企業もあり、本格導入前に期待値をすり合わせることができます",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "期間：1～2ヶ月が主流",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクト期間3ヶ月～6ヶ月以上、費用は500万～1,000万円超になることもあります",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタントの支援があれば、データ整備・プロンプト設計・検証の流れが短期間で整い、早期に実行フェーズに移行できます",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "工程別の導入費用と期間",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月時点の主な費用目安を、導入期間や向いている企業と併せて比較します",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "導入までの目安",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "検証は1〜3か月、本開発は要件次第",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "2〜3か月程度",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模案件は4か月以上",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "導入形態別の生成AI費用と期間の比較例",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりは初期費用だけでなく、1年間の継続費用を含めて比べてください",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "WEELのコンサルティングプランは月80万円からで、契約期間は3か月以上",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "数週間〜3か月",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI導入の工程別費用と所要期間の一例",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは比較的低価格・短期間で達成できるプロトタイプ開発から、費用相場と内容をみていきましょう",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "月額120万〜160万円、期間は2〜4か月",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "このように短期間で完結するプロトタイプ開発の代表的な工程は、次のとおりです",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション開発の費用と期間は下記のとおり、開発期間に応じて変動します",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用プロジェクト立ち上げの背景と課題",
+    "url": "https://biz.kccs.co.jp/column/dx05/",
+    "pass": 3
+   },
+   {
+    "quote": "品質分析や工程管理など、競争力を高めるIT基盤の構築を短期間で実現します",
+    "url": "https://biz.kccs.co.jp/column/dx05/",
+    "pass": 3
+   },
+   {
+    "quote": "キーの無期限利用は避け、一定期間ごとにローテーションを実施",
+    "url": "https://www.techs-s.com/media/show/300",
+    "pass": 3
+   },
+   {
+    "quote": "導入までの流れ",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "1年前に作ったルールを固定したままにすると、現場の実態と乖離し、ルールが守られなくなる形骸化の要因となります",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "技術進化や法整備が非常に速いため、半年から1年単位の見直しを推奨します",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "従来のシステム導入やRPAのシナリオ作成には、設計・設定・テストといった準備期間が必要でした",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "GPU搭載サーバーの構築から、ローカルLLM・Dify・AIアプリの導入まで一社で対応",
+    "url": "https://aismiley.co.jp/product/rustic_implementation-support/",
+    "pass": 3
+   },
+   {
+    "quote": "日々の「探す・確認する・記録する」を効率化する仕組みを、ご相談から開発・導入まで支援します",
+    "url": "https://aismiley.co.jp/product/rustic_implementation-support/",
+    "pass": 3
+   },
+   {
+    "quote": "人手では数日かかるような影響範囲の特定と対策立案を短期間で完了させる",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "時にはログ保存範囲やデータ保持期間の設定を最小化し、不要な履歴が残らないよう制御する",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "能習得に要する期間の短縮や技能の平準化につなげ、技術伝承を支援する手段として注目されている",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "試作回数削減、開発期間短縮",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "装置チューニング 過去稼働ログから設定値を生成 AI が調整提案 立ち上げ時間短縮、安定稼働",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【4】生産準備・立ち上げ支援分野",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工程立上げ支援 AI が過去の立ち上げ記録をもとに注意点や条件を生成 初期不良率低下",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "導入にあたっては、短期間で大きな成果を求",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この期間中は原則として制裁金が免除される",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用を広げるために「AI 戦略プロジェクト」を立ち上げ、各部門の幹部から AI 利活用アイデアを募り、プロジェクトチームが",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "修で技能習得期間を短縮する試みも登場してい る",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用したいが「何に使えば良いかわからない」「どう実現すれば良いかわからない」という課題を抱えている企業様に向け、方針策定から導入まで、一気通貫でAI導入をサポート",
+    "url": "https://www.fiweek.jp/autumn/ja-jp/conference/aiworld.html",
+    "pass": 3
+   },
+   {
+    "quote": "育成期間の短縮や「同じ議論の繰り返し」の解消など、知識継承とAI活用に活かせる具体的なヒントをお届けします",
+    "url": "https://www.fiweek.jp/autumn/ja-jp/conference/aiworld.html",
+    "pass": 3
+   },
+   {
+    "quote": "すでに窓口をお持ちの企業には応対の質と生産性を高める進め方を、これから体制を整える企業には窓口を立ち上げる考え方を、それぞれお持ち帰りいただけます",
+    "url": "https://www.fiweek.jp/autumn/ja-jp/conference/aiworld.html",
+    "pass": 3
+   },
+   {
+    "quote": "ある情報システム企業では、Microsoft 365 Copilotの活用率が1年で30%→85%に",
+    "url": "https://www.fiweek.jp/autumn/ja-jp/conference/aiworld.html",
+    "pass": 3
+   },
+   {
+    "quote": "1年間で5回の段階的セミナー ＋ 10ヶ月の継続サポートを実施",
+    "url": "https://www.fiweek.jp/autumn/ja-jp/conference/aiworld.html",
+    "pass": 3
+   },
+   {
+    "quote": "プログラミング教育サービス「Aidemy」の立ち上げに携わる",
+    "url": "https://www.fiweek.jp/autumn/ja-jp/conference/aiworld.html",
+    "pass": 3
+   }
+  ],
+  "営業のやり方": [
+   {
+    "quote": "ライティング支援・SEO",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "インバウンド対策",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイスマイリーが運営するAIポータルメディア「AIsmiley」は、AIの専門家によるコンテンツ配信とプロダクト紹介を行うWebメディアです",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業でのAI導入メリットや課題は? 活用事例やおすすめサービスも紹介",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業に画像認識AIを導入！工場でのAIカメラ活用事例を紹介",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "SNSツール（LINE等）を用いた顧客問合せ対応",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "訪日外国人・インバウンド対策",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "特別講義・セミナー",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "どちらを選ぶべき？選定ポイントを紹介",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "以下に目的別おすすめのSaaS型AIサービスを紹介します",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "以下にそれぞれのAI種類におけるROIを紹介します",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "SEOディレクター兼ライターです",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "SEO記事から取材記事、専門性の高いコラムまで幅広く執筆しています",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-OCRの導入事例8選｜金融・医療・製造・自治体などで成果を上げた事例を紹介",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "AI業務効率化ツール15選！選び方や導入時のポイントを紹介",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Claude Codeセミナー（無料）はこちら",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "単なる技術紹介ではなく、導入後のROIまで見据えた実行性ある設計提案",
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIセミナー・講演・研修会",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー実績",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIセミナー・勉強・研修会",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、導入形態別の費用相場と内訳、ROIの計算方法、補助金や費用削減策を紹介します",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社WEEL代表取締役 / 累計25社以上のAIアドバイザリーを担当 / 企業向けセミナー・大学講義でのべ10,000人超に登壇 / 日本HP・インテルなど、大手企業主催カンファレンスへの登壇実績多数",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "【生成AIの知見を一気に追える！】WEELメディアの発信内容や実績、携わった導入事例を紹介 | WEEL",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで費用対効果の考え方や算出方法をご紹介するので、生成AIを導入する際に取り入れてみてください",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "コストとリターンの詳細を理解したところで、次の項目では生成AI導入における費用対効果を数値で算出する方法をご紹介します",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAIのファインチューニング機能の概要や導入方法、そして実際に触ってみた感想を紹介します",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "を5つ紹介します",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月公開のAWSのブログでは、社外への提供も計画されていると紹介されています",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIを法人利用する方法や企業における活用事例をご紹介します",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の生成AIツール開発事例2つの紹介",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "代表事例として以下2つを紹介していきます",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://biz.kccs.co.jp/column/dx05/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、製造業における主な4つのメリットを紹介します",
+    "url": "https://biz.kccs.co.jp/column/dx05/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、多くの企業が直面する4つの課題と、それを乗り越えるための対策を紹介します",
+    "url": "https://biz.kccs.co.jp/column/dx05/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、大手製造業のインクジェット事業部で実際に取り組まれた、AIを活用した生産性向上・品質改善の事例をご紹介します",
+    "url": "https://biz.kccs.co.jp/column/dx05/",
+    "pass": 3
+   },
+   {
+    "quote": "この方法論での生成AI活用の具体的なユースケースを、2つご紹介します",
+    "url": "https://www.argo-graph.co.jp/media/knowledge/wp_ai_manufacturing-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "3DEXPERIENCE CATIA Knowledge CATIA V5との違い｜MES主要アプリケーションのご紹介",
+    "url": "https://www.argo-graph.co.jp/media/knowledge/wp_ai_manufacturing-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIDWORKS Hints & Tips3 すぐ見つかる！すぐ使える！標準品のストックルーム「デザインライブラリ」のご紹介",
+    "url": "https://www.argo-graph.co.jp/media/knowledge/wp_ai_manufacturing-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIDWORKS Hints & Tips1 穴作成のマジックボックス「穴ウィザード」のご紹介",
+    "url": "https://www.argo-graph.co.jp/media/knowledge/wp_ai_manufacturing-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "pass": 3
+   },
+   {
+    "quote": "・サービス紹介ページ",
+    "url": "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "pass": 3
+   },
+   {
+    "quote": "【完全ガイド】オンプレミス型グループウェア導入方法、お勧め製品を紹介",
+    "url": "https://chat-messenger.com/blog/ai/onpremise-ai-benefits-and-points",
+    "pass": 3
+   },
+   {
+    "quote": "【完全ガイド】オンプレミス型ビジネスチャット導入方法、お勧め製品を紹介",
+    "url": "https://chat-messenger.com/blog/ai/onpremise-ai-benefits-and-points",
+    "pass": 3
+   },
+   {
+    "quote": "【完全ガイド】オンプレミス型Web会議導入方法、お勧め製品を紹介",
+    "url": "https://chat-messenger.com/blog/ai/onpremise-ai-benefits-and-points",
+    "pass": 3
+   },
+   {
+    "quote": "セミナーアーカイブ",
+    "url": "https://www.techs-s.com/media/show/300",
+    "pass": 3
+   },
+   {
+    "quote": "まずは本稿で紹介する注意点を押さえたうえで、自社でのPoC（概念検証）を少人数で試し、効果とリスクを同時に検証するフェーズからスタートするのが得策です",
+    "url": "https://www.techs-s.com/media/show/300",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、各フェーズで押さえるべきチェックリストを改めてご紹介します",
+    "url": "https://www.techs-s.com/media/show/300",
+    "pass": 3
+   },
+   {
+    "quote": "MESとは？製造実行システムとしての機能や業務のIT化による改善例をご紹介！",
+    "url": "https://www.techs-s.com/media/show/300",
+    "pass": 3
+   },
+   {
+    "quote": "製品・ソリューション紹介",
+    "url": "https://www.techs-s.com/media/show/300",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、生成AI導入時に社内ルールが求められる理由からその具体的な内容、作り方、社内ルール策定のポイントをご紹介します",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップをご紹介します",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、多くの企業が生成AIの社内ルールを活用する際に陥りがちな「落とし穴」を3つ紹介します",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "続いて、社内ルール策定のポイントをご紹介します",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "RICOH Chatbot Service紹介資料はこちら",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー/イベント",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介資料",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "エンタープライズプラン紹介",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   }
+  ],
+  "小さく始めた実例": [
+   {
+    "quote": "人の判断でしか実施できないからこそ、売上が増えると働き方が悪化する",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員からの問合せ業務効率化",
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "【高利益化】外注費・ツール費を下げながら売上を伸ばす設計",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "年間3億円の売上増加",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "6,000万円(売上増加)",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS型は少人数から試しやすく、利用者が増えると契約料金も増えます",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度の支出は1,240万円、金銭的効果は400万円です",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度だけでは投資額を回収できていません",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "【WEEL独自】従業員50名の企業でAI導入費用を試算してみた",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は2026年10月時点の公式料金をもとに、従業員50名がAIを導入した場合の初年度費用を試算しました",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度の利用月数",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員50名の企業におけるAI導入費用の初年度試算",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が社内ルールや手続きに関する疑問を自分で解決できるようになり、事業支援部への電話問い合わせが大幅に減少しています",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員向けの説明会や実務研修、運用中の検証",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員に操作を教える費用がどれほど必要か",
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "安全管理をシステム任せにするのではなく、AIが「もう一つの目」となって見守ることで、従業員が安心して働ける環境を作ることができます",
+    "url": "https://biz.kccs.co.jp/column/dx05/",
+    "pass": 3
+   },
+   {
+    "quote": "食品メーカーのように賞味期限が短く、天候によって売上が左右されやすい業種では、AIによる需要予測が効果を発揮しています",
+    "url": "https://biz.kccs.co.jp/column/dx05/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模別では、「101〜300人」の企業が32.4％で最多、次いで「51〜100人」が23.5％、「1〜50人」が14.7％でした",
+    "url": "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Q2 従業員数はどのくらいですか？",
+    "url": "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "pass": 3
+   },
+   {
+    "quote": "回答企業の業種は製造業とサービス業（その他）が多く、従業員規模では101〜300人が32.4％で最も多い結果となりました",
+    "url": "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、過去の売上データを学習させることで、将来の需要予測が可能になります",
+    "url": "https://chat-messenger.com/blog/ai/onpremise-ai-benefits-and-points",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、業務効率化だけでなく、売上向上やコスト削減にも直結するのです",
+    "url": "https://chat-messenger.com/blog/ai/onpremise-ai-benefits-and-points",
+    "pass": 3
+   },
+   {
+    "quote": "まずは本稿で紹介する注意点を押さえたうえで、自社でのPoC（概念検証）を少人数で試し、効果とリスクを同時に検証するフェーズからスタートするのが得策です",
+    "url": "https://www.techs-s.com/media/show/300",
+    "pass": 3
+   },
+   {
+    "quote": "社内の売上データ、顧客情報、個人情報、未公開の技術資料などは絶対に入力しないようにしましょう",
+    "url": "https://www.techs-s.com/media/show/300",
+    "pass": 3
+   },
+   {
+    "quote": "利用目的、入力制限、保存方法などを明文化し、従業員全体でルールを共有することが重要です",
+    "url": "https://www.techs-s.com/media/show/300",
+    "pass": 3
+   },
+   {
+    "quote": "・従業員のリテラシー向上",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "社内ルールを通じて従業員が生成AIを安全に使いこなせるようになれば、従業員のITリテラシーや生成AIに関する活用スキルが向上するものと考えられます",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "社内ルールを策定することで、従業員が安心して生成AIを使えるようになる環境が整い利活用が促進されるため、生産性向上につながると考えられます",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIをルールなくただ導入すると、一部の層だけの利用にとどまってしまったり、従業員や部署・部門ごとに活用ルールがバラバラになってしまうことがあります",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "リスクを恐れるあまり「原則利用禁止」や「過度な申請手続き」を設けると、業務効率を求める従業員が会社の管理外で個人アカウントのAIを利用するシャドーAIを誘発します",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "禁止事項を定めるだけでなく、「どのようなケースなら積極的に使ってよいか」という推奨活用例をセットで明示することが、従業員の安心感と利活用促進につながります",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "社内ルールを策定した後は、ただ従業員向けに配布するだけでなく、同時に周知のアナウンスや研修を行うことで、よりルールが浸透すると考えられます",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "情報漏洩や著作権侵害のリスクを抑えつつ、従業員が安心してAIを活用できる環境を整えられる点です",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "過度な制限は、従業員が管理外でAIを使う「シャドーAI」を招きます",
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "pass": 3
+   },
+   {
+    "quote": "空いた時間を、判断・対人・企画といった人にしかできない仕事に振り向けることで、少人数でも大きな成果を生めるようになります",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIは、その「足りない手」を補い、少人数でも幅広い業務をこなせるようにします",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "相談相手がいない一人社長や少人数チームでも、思考を整理し、視野を広げる壁打ち役として頼れます",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "時間が空けば新しい施策に挑戦でき、その企画づくりもAIが助けてくれる——こうした好循環が回り始めると、少人数でも大企業に引けを取らない生産性が実現できます",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "少人数で営業を回す中小企業ほど、この時間の再配分が売上に直結します",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "少人数店舗でも",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "1業務・少人数で小さく試す",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業にとっては、少人数では手が回らなかった一連の業務を任せられる可能性が広がります",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "今まで大企業にしかできなかったことの一部が、少人数の会社でも手が届くようになりつつあるのです",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "自社だけで抱え込まず、頼れるところは頼るのも、少人数の会社が着実に前進するコツです",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "少人数でも成果を出せる仕組み",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "創業27年の​システム開発会社が、​自社サーバー内で​動く​生成AI環境と​Difyを​構築します",
+    "url": "https://aismiley.co.jp/product/rustic_implementation-support/",
+    "pass": 3
+   },
+   {
+    "quote": "SME Small and Medium Enterprises 中小企業： 従業員数が 100 人から 500 人程度の企業を指す",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（総数では 1,500～1,600 社、従業員数 300 人未満の中小規模企業も多数存在する）",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員（約 4,500 人）の生産性",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "創業 2019 年の小",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "開発企業（従業員",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 従業員教育： エンジニアに対し、生成 AI 利用時の情報漏洩リスクや社内ポリシーを定期的に教育する",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 制裁金の考慮: 違反時の制裁金（最大売上高 7%等）についても、中小企業の経済力が考慮される",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生成 AI の導入を企業で推進するためには、まず「生成 AI リテラシー」を全従業員で底上げすることが不可欠である",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "多くの現場従業員は生成 AI に対して興味や期待はあるものの、「過度に信頼",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ずは全従業員に向けて基礎知識習得の場を提供し、生成 AI の原理・用途・制約を学ぶ機会を設ける",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取り組みを活用し、全産業界で従業員の生成 AI リテラシーを底上げすることで、安全で持続可能な",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上予測やパイプライン管理の高度化",
+    "url": "https://www.hammock.jp/hpr/media/ai-sales-merit-example.html",
+    "pass": 3
+   },
+   {
+    "quote": "案件ごとの進捗状況や過去のデータを参照して、AIが受注確度を数値化したり、今後の売上予測を立てたりすることもできます",
+    "url": "https://www.hammock.jp/hpr/media/ai-sales-merit-example.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、売上予測やリードのスコアリング結果を鵜呑みにしてしまい、本来フォローすべき重要顧客を見落とすといったケースも起こり得ます",
+    "url": "https://www.hammock.jp/hpr/media/ai-sales-merit-example.html",
+    "pass": 3
+   }
+  ],
+  "顧客獲得単価": [
+   {
+    "quote": "1件あたり約100円",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "1件あたり約100円から数百円のコスト",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "1件あたり10円～100円",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "1件あたり100円～300円",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "画像のセグメンテーションでは1件あたり約100円、医療画像のような専門知識が必要な場合は1件300円以上のコスト",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "のほうが圧倒的に短く、1件あたり数十分〜1時間規模の削減も珍しくありません",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "1件あたり30〜60分削減",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、ある業務が1件あたり30分短縮でき、月に40件あるなら、月20時間の削減です",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "対象業務の「1件あたり削減時間」を計測する",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "1件あたり削減",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "1件あたりの時短と月間件数を記録すれば、続ける価値が数字で分かります",
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "pass": 3
+   }
+  ],
+  "利幅": [
+   {
+    "quote": "さらに予測精度が向上したことで、製造ロス（廃棄）を削減し、利益率の改善にも寄与しています",
+    "url": "https://biz.kccs.co.jp/column/dx05/",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業様が利益率を改善するための3STEP",
+    "url": "https://www.techs-s.com/media/show/300",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値の伸び悩み 下請構造におけるマージン率の低下 大企業との生産性格差の拡大、賃上げ余力",
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図面、仕様書、原価表、取引先との契約条件",
+    "url": "https://www.fiweek.jp/autumn/ja-jp/conference/aiworld.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.aidma-hd.jp/ai/generative-ai-hiyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/category_page/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/ai-system-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategyand.pwc.com/jp/ja/publications/report/genai-in-industrial-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.kccs.co.jp/column/dx05/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.argo-graph.co.jp/media/knowledge/wp_ai_manufacturing-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudpack.jp/column/generative-ai/generative-ai-business-efficiency-manual.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nocode-sol.co.jp/blog/ai-implementation-cost-effectiveness-executives/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/column/article/ai-cases-of-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chat-messenger.com/blog/ai/onpremise-ai-benefits-and-points",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/generative-ai.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite-x.co.jp/blog/manufacturing-ai-flow-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsj.or.jp/dp/contents/publication/61/DP61-S03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liber-craft.co.jp/column/manufacturing-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-it-mgt.com/is-conversational-ai-the-key-to-gross-profit-improvement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fiweek.jp/hub/ja-jp/blog/article05-ai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weforum.org/stories/manufacturing-and-value-chains/protecting-jobs-and-boosting-productivity-when-deploying-ai-in-manufacturing-91d9e9c299",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mmdlabo.jp/investigation/detail_2442.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/534/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wp.techtarget.itmedia.co.jp/contents/101305",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://admina.moneyforward.com/jp/blog/ai-usage-guideline-template",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techs-s.com/media/show/300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2024/f55m8k0000003spo-att/f55m8k0000003svn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://bc.at-s.com/kiji/feature_se19",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.semiconportal.com/archive/blog/insiders/kamoshida/230613-manufacturinggenai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://losta.co.jp/labo/ai-business-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/product/rustic_implementation-support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nisseicom.co.jp/growone-production/column/02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itccorp.co.jp/blog/%E7%94%9F%E6%88%90ai-%E5%B0%8E%E5%85%A5-%E5%A7%8B%E3%82%81%E6%96%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-ai.co.jp/media/1401/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hammock.jp/hpr/media/ai-sales-merit-example.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dxpo.jp/real/box/osaka/manufacturing/ex-mfgai.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aismiley.co.jp/ai_news/sales-ai-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fiweek.jp/autumn/ja-jp/conference/aiworld.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geniee.co.jp/media/sfa/manufacturing-ai-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coplus-one.jp/chusho-ai-jirei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextech-week.jp/hub/ja-jp/blog/article_18.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eques.co.jp/column/sme-manufacturing-ai-cases/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業向けオンプレAI・社内文書AIの導入 料金 相場",
+   "results": [
+    "https://www.aidma-hd.jp/ai/generative-ai-hiyo/",
+    "https://aismiley.co.jp/category_page/manufacturing/",
+    "https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/",
+    "https://hnavi.co.jp/knowledge/blog/ai-system-cost/",
+    "https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant",
+    "https://weel.co.jp/media/gen-ai-intoruction-cost/",
+    "https://neural-opt.com/generative-ai-support-company/",
+    "https://usknet.com/dxgo/contents/dx-trend/thorough-comparison-of-16-generative-ai-services/",
+    "https://biz.moneyforward.com/ai/basic/6920/",
+    "https://www.ai-souken.com/article/manufacturing-ai-implementation-steps"
+   ]
+  },
+  {
+   "query": "製造業向けオンプレAI・社内文書AIの導入 顧客獲得単価 OR CPA",
+   "results": [
+    "https://www.strategyand.pwc.com/jp/ja/publications/report/genai-in-industrial-manufacturing.html",
+    "https://biz.kccs.co.jp/column/dx05/",
+    "https://www.argo-graph.co.jp/media/knowledge/wp_ai_manufacturing-ai/",
+    "https://cloudpack.jp/column/generative-ai/generative-ai-business-efficiency-manual.html",
+    "https://nocode-sol.co.jp/blog/ai-implementation-cost-effectiveness-executives/",
+    "https://exawizards.com/column/article/ai-cases-of-manufacturing/",
+    "https://genai-ai.co.jp/ai-kanri/blog/cc-japan-genai-companies/",
+    "https://www.kikagaku.co.jp/business/training/blog/r8v9_x4gj",
+    "https://www.unite-x.co.jp/blog/manufacturing-ai-flow-2026"
+   ]
+  },
+  {
+   "query": "製造業向けオンプレAI・社内文書AIの導入 成約率 OR 受注率 OR 継続率",
+   "results": [
+    "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "https://chat-messenger.com/blog/ai/onpremise-ai-benefits-and-points",
+    "https://www.keyence.co.jp/ss/general/manufacture-tips/generative-ai.jsp",
+    "https://www.unite-x.co.jp/blog/manufacturing-ai-flow-2026",
+    "https://www.strategyand.pwc.com/jp/ja/publications/report/genai-in-industrial-manufacturing.html",
+    "https://www.ipsj.or.jp/dp/contents/publication/61/DP61-S03.html",
+    "https://liber-craft.co.jp/column/manufacturing-ai",
+    "https://aismiley.co.jp/category_page/manufacturing/",
+    "https://www.aidma-hd.jp/ai/manufacturing-industry/",
+    "https://aikurabe.com/stats/ai-adoption-japan/"
+   ]
+  },
+  {
+   "query": "製造業向けオンプレAI・社内文書AIの導入 粗利率 利益率",
+   "results": [
+    "https://www.strategyand.pwc.com/jp/ja/publications/report/genai-in-industrial-manufacturing.html",
+    "https://f-it-mgt.com/is-conversational-ai-the-key-to-gross-profit-improvement/",
+    "https://www.fiweek.jp/hub/ja-jp/blog/article05-ai.html",
+    "https://jp.weforum.org/stories/manufacturing-and-value-chains/protecting-jobs-and-boosting-productivity-when-deploying-ai-in-manufacturing-91d9e9c299",
+    "https://mmdlabo.jp/investigation/detail_2442.html",
+    "https://factoryadvance.jp/blog/534/",
+    "https://wp.techtarget.itmedia.co.jp/contents/101305",
+    "https://promo.digital.ricoh.com/ai/column/detail026/",
+    "https://www.comdec.jp/comdeclab/kintone-ai-26/"
+   ]
+  },
+  {
+   "query": "製造業向けオンプレAI・社内文書AIの導入 許可 必要",
+   "results": [
+    "https://admina.moneyforward.com/jp/blog/ai-usage-guideline-template",
+    "https://www.argo-graph.co.jp/media/knowledge/wp_ai_manufacturing-ai/",
+    "https://www.techs-s.com/media/show/300",
+    "https://promo.digital.ricoh.com/chatbot/column/detail232/",
+    "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2024/f55m8k0000003spo-att/f55m8k0000003svn.pdf",
+    "https://bc.at-s.com/kiji/feature_se19",
+    "https://www.semiconportal.com/archive/blog/insiders/kamoshida/230613-manufacturinggenai.html",
+    "https://kaizen-navi.biz/featured-it-trends/how-can-generative-ai-be-used-in-manufacturing",
+    "https://www.lanscope.jp/blogs/it_asset_management_emcloud_blog/20241129_23727/",
+    "https://no1s.biz/blog/9980/"
+   ]
+  },
+  {
+   "query": "製造業向けオンプレAI・社内文書AIの導入 起業 立ち上げ 初受注",
+   "results": [
+    "https://www.strategyand.pwc.com/jp/ja/publications/report/genai-in-industrial-manufacturing.html",
+    "https://losta.co.jp/labo/ai-business-guide/",
+    "https://aismiley.co.jp/product/rustic_implementation-support/",
+    "https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf",
+    "https://www.nisseicom.co.jp/growone-production/column/02.html",
+    "https://www.itccorp.co.jp/blog/%E7%94%9F%E6%88%90ai-%E5%B0%8E%E5%85%A5-%E5%A7%8B%E3%82%81%E6%96%B9/",
+    "https://japan-ai.co.jp/media/1401/",
+    "https://biz.kccs.co.jp/column/dx05/",
+    "https://oproduct.ai/articles/5673228"
+   ]
+  },
+  {
+   "query": "製造業向けオンプレAI・社内文書AIの導入 営業方法 紹介 展示会",
+   "results": [
+    "https://www.hammock.jp/hpr/media/ai-sales-merit-example.html",
+    "https://dxpo.jp/real/box/osaka/manufacturing/ex-mfgai.html",
+    "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/",
+    "https://aismiley.co.jp/ai_news/sales-ai-guide/",
+    "https://www.fiweek.jp/autumn/ja-jp/conference/aiworld.html",
+    "https://geniee.co.jp/media/sfa/manufacturing-ai-solution/",
+    "https://catorce.jp/st/knowledge-sales-genai",
+    "https://www.japan-it.jp/dx/ja-jp/visit/ai.html",
+    "https://genai-ai.co.jp/ai-kanri/blog/cc-ai-exhibition-guide/"
+   ]
+  },
+  {
+   "query": "製造業向けオンプレAI・社内文書AIの導入 会社 売上 従業員 創業",
+   "results": [
+    "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/",
+    "https://www.strategyand.pwc.com/jp/ja/publications/report/genai-in-industrial-manufacturing.html",
+    "https://coplus-one.jp/chusho-ai-jirei/",
+    "https://www.nisseicom.co.jp/growone-production/column/02.html",
+    "https://aismiley.co.jp/product/rustic_implementation-support/",
+    "https://directcloud.jp/contents/survey_of_generated_ai/",
+    "https://exawizards.com/column/article/ai-cases-of-manufacturing/",
+    "https://www.nextech-week.jp/hub/ja-jp/blog/article_18.html",
+    "https://eques.co.jp/column/sme-manufacturing-ai-cases/"
+   ]
+  },
+  {
+   "query": "site:note.com 製造業向けオンプレAI・社内文書AIの導入",
+   "results": [
+    "https://note.com/selvanakayama/n/nb98248d3483a",
+    "https://note.com/gabc/n/na96807ac7bf7",
+    "https://note.com/ai__worker/n/n1d0656e25a67",
+    "https://note.com/light_arnica2159/n/n8d2ca6944140",
+    "https://note.com/majisemi/n/ncb59b46155e4",
+    "https://note.com/advantech_id/n/n677e39d6b6b0",
+    "https://note.com/ai__worker/n/n61fab7478f2a",
+    "https://note.com/wanderlust_hq/n/nef16e803ce5d",
+    "https://note.com/daigo_miyoshi/n/n3fc0aef7b8d2",
+    "https://note.com/daikidomon/n/n96d57845b192"
+   ]
+  },
+  {
+   "query": "site:x.com 製造業向けオンプレAI・社内文書AIの導入",
+   "results": [
+    "https://x.com/AIMarket_jp",
+    "https://x.com/Stockmark_japan",
+    "https://x.com/Irwin_and_Co",
+    "https://x.com/A_I_News",
+    "https://x.com/ymorishita",
+    "https://x.com/Snowflake_Japan/all",
+    "https://x.com/libercraft1202",
+    "https://x.com/1edec/status/2028771558056226851",
+    "https://x.com/furiousgreenco",
+    "https://x.com/IizukaSeita/status/2045818568881934826"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 製造業向けオンプレAI・社内文書AIの導入",
+   "results": [
+    "https://jp.linkedin.com/showcase/datarobot-japan/",
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/jobs/view/%E3%80%901500%E3%80%91-hg-%E3%80%90%E6%9D%B1%E4%BA%AC%E5%8B%A4%E5%8B%99%E3%80%91honda-sdv%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%94%9F%E6%88%90ai%E6%B4%BB%E7%94%A8%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2-at-honda-4317589187",
+    "https://id.linkedin.com/jobs/view/ai%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2-python-%EF%BD%9C%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%C3%97ai-at-ridge-i-%E3%83%AA%E3%83%83%E3%82%B8%E3%82%A2%E3%82%A4-4451630482",
+    "https://jp.linkedin.com/in/yuisomemiya",
+    "https://www.linkedin.com/posts/co-sol-canada-inc_%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEsankyo-%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%9C%AC%E9%83%A8%E6%A7%98-activity-7407315802124713984-mYFb",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%88%E6%A1%82%E5%B7%9D%EF%BC%89%E7%94%9F%E6%88%90ai%E3%83%BB%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E6%8A%80%E8%A1%93%E6%88%A6%E7%95%A5%E3%81%A8%E5%85%A8%E4%BD%93%E8%A8%AD%E8%A8%88%E3%82%92%E6%8B%85%E3%81%86%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88-at-omron-group-4472537163",
+    "https://jp.linkedin.com/company/forgers-inc",
+    "https://jp.linkedin.com/in/s-nishida",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90ai%E4%BA%8B%E6%A5%AD%E6%9C%AC%E9%83%A8%E3%80%91%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2-%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C%E3%81%AE%E6%9C%80%E5%A4%A7%E5%8C%96%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0-at-cyberagent-inc-4228401095"
+   ]
+  },
+  {
+   "query": "site:facebook.com 製造業向けオンプレAI・社内文書AIの導入",
+   "results": [
+    "https://www.facebook.com/no1solutions/posts/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%ABllm%E5%B0%8E%E5%85%A5%E3%81%AE%E6%88%90%E5%8A%9F%E4%BA%8B%E4%BE%8B%E3%81%A8%E3%81%9D%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E8%A3%BD%E9%80%A0%E6%A5%AD%E7%95%8C%E3%81%A7%E3%81%AEai%E6%8A%80%E8%A1%93%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AB%E3%82%88%E3%82%8A%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%ABllm%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%8C%E6%B3%A8%E7%9B%AE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99makinarocks%E3%82%84symph/1089701436181512/",
+    "https://www.facebook.com/no1solutions/",
+    "https://www.facebook.com/datarobotjp/?locale=ja_JP",
+    "https://www.facebook.com/TeradataJapan/",
+    "https://www.facebook.com/directcloudbox/?locale=ja_JP",
+    "https://www.facebook.com/TeradataJapan/posts/%E6%96%B0%E8%A6%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%82%92ai%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E4%BC%81%E6%A5%AD%E3%81%AB%E9%80%B2%E5%8C%96%E3%81%95%E3%81%9B%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%A4%89%E9%9D%A9%E7%A7%98%E4%BC%9D%E3%81%AE%E3%82%BF%E3%83%AC%E3%83%8A%E3%83%AC%E3%83%83%E3%82%B8%E5%9F%BA%E7%9B%A4%E3%83%87%E3%83%BC%E3%82%BF%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%8E%A8%E9%80%B2%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97%E5%A4%9A%E3%81%8F%E3%81%AE%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%8C%E3%81%84%E3%81%BE%E3%83%99%E3%83%86%E3%83%A9%E3%83%B3%E7%A4%BE%E5%93%A1%E3%81%AE%E4%B8%80%E6%96%89/1538682201607380/",
+    "https://www.facebook.com/synnexjp/posts/10%E4%BB%A5%E4%B8%8A%E3%81%AE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%92%E9%96%8B%E5%82%AC1119%E6%9C%A8%E9%96%8B%E5%82%AC%E4%BA%88%E5%AE%9A%E3%81%AEtd-synnex-inspire-japan-2026-%E3%81%A7%E3%81%AFai%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3it%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%81%AA%E3%81%A9%E6%B3%A8%E7%9B%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AE%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/1571848888290959/",
+    "https://www.facebook.com/directcloudbox/posts/%E7%A4%BE%E5%A4%96%E3%81%AE%E4%BA%BA%E3%81%A8%E3%82%82%E5%AE%89%E5%85%A8%E3%81%AB%E5%85%B1%E5%90%8C%E4%BD%9C%E6%A5%AD%E3%81%97%E3%81%9F%E3%81%84%E3%81%9D%E3%81%AE%E3%81%8A%E6%82%A9%E3%81%BFdirectcloud-%E3%81%AE%E3%82%B2%E3%82%B9%E3%83%88%E6%8B%9B%E5%BE%85%E3%81%8C%E8%A7%A3%E6%B1%BA%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E5%A4%96%E9%83%A8%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%A8%E5%85%B1%E5%90%8C%E4%BD%9C%E6%A5%AD%E3%81%8C%E5%8F%AF%E8%83%BD%E4%B8%8A%E9%95%B7%E6%89%BF%E8%AA%8D%E3%82%92%E5%BE%97%E3%81%9F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%81%BF%E3%81%8C%E9%80%81/1253184759938345/",
+    "https://www.facebook.com/solxyzsales/",
+    "https://www.facebook.com/macnicanetworks/?locale=ja_JP"
+   ]
+  },
+  {
+   "query": "製造業向けオンプレAI・社内文書AIの導入 note 社長",
+   "results": [
+    "https://note.com/ai__worker/m/m6282cbf66de7",
+    "https://note.com/prime_strategy/n/n44722b83f314",
+    "https://biz.moneyforward.com/ai/basic/6920/",
+    "https://note.com/proper_stork2598/n/n9cfb8224e452",
+    "https://ai-keiei.shift-ai.co.jp/manufacturing-ai-document-creation/",
+    "https://neural-opt.com/manufacturing-gpt-cases/",
+    "https://note.com/kento_iida/n/n40eac15aedbb",
+    "https://factoryadvance.jp/blog/534/",
+    "https://www.keyence.co.jp/ss/general/manufacture-tips/generative-ai.jsp",
+    "https://note.com/ai__worker/n/n45cfde242299"
+   ]
+  },
+  {
+   "query": "製造業向けオンプレAI・社内文書AIの導入 X 投稿",
+   "results": [
+    "https://hutzper.com/genba-dx/manufacturing-generative-ai/",
+    "https://boostx-inc.com/industry/manufacturing/",
+    "https://mono-prism.jp/news-johotsusintokei/",
+    "https://aismiley.co.jp/product/rustic_implementation-support/",
+    "https://www.unite-x.co.jp/blog/manufacturing-ai-flow-2026",
+    "https://jp.weforum.org/stories/manufacturing-and-value-chains/protecting-jobs-and-boosting-productivity-when-deploying-ai-in-manufacturing-91d9e9c299",
+    "https://www.ai-souken.com/article/manufacturing-industry-ai-application-cases",
+    "https://www.uchida.co.jp/system/report/20250050.html",
+    "https://ai-prime-strategy.gmo/rag_column/manufacturing-ai-agent/",
+    "https://no1s.biz/blog/9980/"
+   ]
+  },
+  {
+   "query": "on-premise AI knowledge search for manufacturers Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japan-enterprise-artificial-intelligence-market-analysis-qualitative-twnte",
+    "https://www.linkedin.com/posts/mdell_in-japan-were-putting-the-ai-factory-next-activity-7511805495368658947-4HWK",
+    "https://www.linkedin.com/pulse/market-dynamics-ai-based-document-search-projected-65-cagr-o6ybe",
+    "https://www.linkedin.com/posts/ryosukek_kddi-and-google-ai-futures-fund-launch-a-activity-7504707102481743872-YqX4",
+    "https://www.linkedin.com/pulse/who-makes-on-premises-conversational-ai-platforms-key-manufacturers-ts6we",
+    "https://www.linkedin.com/pulse/6-minute-guide-on-premises-ai-trustco-d6xee",
+    "https://jp.linkedin.com/company/aist",
+    "https://www.linkedin.com/pulse/knowledge-graph-vs-vector-database-when-enterprise-ai-needs-6oi3f",
+    "https://www.linkedin.com/posts/upstageai_enterpriseai-secureai-onpremiseai-activity-7480503426733268992-0Dtc",
+    "https://uk.linkedin.com/company/talks-talks"
+   ]
+  }
+ ],
+ "missing": {}
+}

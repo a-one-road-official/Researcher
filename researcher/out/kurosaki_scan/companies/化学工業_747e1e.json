@@ -1,0 +1,2472 @@
+{
+ "name": "化学工業",
+ "en": "chemical industry Japan",
+ "aliases": [
+  "化学工業",
+  "化学メーカー",
+  "素材メーカー"
+ ],
+ "context": "製造業・素材",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:56:23.136595+00:00",
+ "evidence": {
+  "事業所数・従業者数（経済センサス等）": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数14 産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業別の状況（全事業所） .............................................. 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 産業中分類別事業所数及び従業者数 .................................... 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．品目別の状況（全事業所） .............................................. 4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 品目別産出事業所数 .................................................. 4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査の概要 ...................................... 6",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．「令和3年経済センサス‐活動調査 産業別集計（製造業に関する集計）」（以下「産業",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は、製造業について「令和3年経済センサス‐活動調査」",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年経済構造実態調査 製造業事業所調査（産業別統計表データ）※（従業者30人以上の事業所）",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 製造業全体の従業者数内訳",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本化学工業協会が経済構造実態調査をもとに公表している2023年データでは、化学工業（狭義）の全国の事業所数は5,641事業所、従業者数は39万8,040人、出荷額は33兆3,840億円にのぼります",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本化学工業協会「化学工業の主要指標とその構成比（2023年）」（資料：経済構造実態調査 製造業事業所調査、全事業所・個人経営除く）",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "基本要件として、労働生産性の年平均成長率+4.0%以上、1人当たり給与支給総額の年平均成長率+3.5%以上、事業所内最低賃金が都道府県最低賃金+30円以上の水準であることなどが必要です（従業員21名以上の場合は次世代育成支援対策推進法に基づく行動計画の公表も要件）",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "」（資料：経済構造実態調査、2023年、2026年9月10日確認）",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "」（資料：経済構造実態調査 製造業事業所調査、2023年、2026年9月10日確認）",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業数 185 社",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "非上場企業数 13,659 社",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   }
+  ],
+  "需要が増えるか": [
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等の都道府県別順位",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・製造品目別に出荷額が得られた事業所であること",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よる調査分を含んだ集計結果であるのに対し、製造品出荷額等、品目別出荷金額、付加",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果のうち、製造品出荷額等、品目別出荷金額、付加価値額については、表示年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（製造品出荷額等、品⽬別出荷⾦額、 付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "－ 製造品出荷額等と付加価値額が最も多いのは共に輸送用機械器具製造業 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（60 兆 2308",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 表 産業中分類別製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・有効求人倍率は求人数の回復により徐々に増加していたが、直近はやや落ち着いている",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求職者は192.5万人で、前月比0.9万人増、前年同月比で6.1万人増と、ともに増加",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化学工業の2021年出荷額は29兆6,291億円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額割合は輸送用機械器具（20.9%）に次ぐ10.0%",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の出荷額は29兆6,291億円で、製造業",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額の推移は2020年の26兆8,191億円か",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら増加しており、製造業における割合は9.9％から10.0%と増加",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員推移も出荷額と同様に",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の34.3万人から増加",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における割合も5.8％から5.9%と増加している",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 製造業全体の製造品出荷額内訳",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業出荷額",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "山形県の1～3月期の地域経済について、モニターである山形銀行やまぎん情報開発研究所は、認証不正問題による自動車の出荷・生産停止の影響や、暖冬による季節需要の減少から【やや悪化】と判断した",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "4～6月期の見通しは、半導体関連の需要に持ち直しの兆しなどがあることなどから【やや好転】とした",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "記録的な暖冬で季節需要が減少",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "県内の販売統計は前年比プラス2.8％増で、3年以上にわたって前年比プラスの状況が続いている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "モニターは「不正認証問題による自動車の出荷・生産停止の影響や、記録的な暖冬による季節需要の減退などが業況を下押しした様子がうかがえる」として、1～3月期の地域経済を【やや悪化】と判断した",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "半導体関連の需要で持ち直しの兆しがみられる",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "4～6月期について、生産活動は、半導体関連需要に持ち直しの兆しがみられることなどから、電子部品・デバイスや汎用・生産用・業務用機械は比較的底堅く推移する見込み",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "内訳をみると、製造業では自動車の不正認証問題の影響減退や、半導体関連受注に持ち直しの兆しがみられることなどで、鉄鋼・金属、電気機械、一般機械、輸送機械など、外需の影響をうけやすい機械工業関連が総じて上昇している",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規求職の増加で有効求人倍率が低下",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種横断的に新規求人数の減少基調が続くなかで、新規求職者数は増加傾向にあり、有効求人倍率の低下につながっている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "また工場閉鎖の動きなどもみられ、新規求職者のなかでも事業主都合離職者の増加が目立っている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の新規求人数が前年比プラスに転じる動きもみられるものの、全体としては有効求人数の減少傾向に変化がない",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する総合化学メーカー ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する総合化学メーカー ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "AIによる\"2030年\"の市場規模予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車やハイブリッド車の需要増加を背景に、市場は今後概ね横ばいが予想されます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "当ページでは、主要企業ランキング、成長要因、競合動向、関連製品の成長可能性など、戦略立案に役立つ詳細なAI予測を無料でご確認いただけます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "総合化学メーカー 2030年市場規模 +0.4%増で14.7兆円と予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "総合化学メーカー AI注目トレンド 電気自動車需要増加・ハイブリッド車普及が成長のカギに",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "図：総合化学メーカーにおける2030年までの市場規模推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "総合化学メーカーの国内市場規模は、現在の14兆6,405億円 と推計",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で0.4%成長し14兆6,995億円に達すると予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "受発注システム、受注、発注、受発注業務などの受発注に関する情報発信",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "老若男女問わず誰でも使えるシンプルなUI設計で操作指導やマニュアルがなくても発注、受注がおこなえます",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "MOSは受注データを基幹システムと連携することができます",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "注文書の読み取り作業の軽減、受注作業時間の短縮、今後の受注受付増加への対応",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "紙による注文のデータ化、入寮項目簡易化による受注作業の短縮、他システムとの連携による業務改善",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "紙媒体をデータへと移行することで煩雑になっている受注作業を軽減",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "受注時の入力ミスや漏れ、FAX受注からWEB受注への移行、受発注業務の作業時間",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "シンプルで直感的に利用できる、カスタマイズで業界独自の仕組みに対応、受注データと社内システムの連携",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "FAX受注からWEB受注への移行により入力ミスや作業時間を大幅に削減",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "【そもそも受発注業務って？】BtoBで受注・発注をおこなう受...",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   }
+  ],
+  "大手プラットフォームの有無": [
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "総合化学メーカー 主要企業シェアランキング 旭化成・信越化学工業等",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "図：総合化学メーカーにおける国内マーケットシェアのグラフ及び主要企業8社の状況",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "→マーケットシェアの計算方法は",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、経済予測プラットフォーム「xenoBrain」によるAI予測の一部を抜粋し、同プラットフォームを運営する株式会社xenodata lab.のマーケティングチームが作成・編集したものです",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "- 国内マーケットシェア",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "経済予測プラットフォーム『xenoBrain』を提供するAIスタートアップです",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "xenodata lab.は、独自の言語生成モデルや予測モデルを基に、経済予測プラットフォーム『xenoBrain』を提供するAIスタートアップです",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大手金融機関や、大学系ベンチャーキャピタル等から出資を受ける、AIスタートアップ企業です",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "本ページの予測の提供元サービスである、経済予測プラットフォーム『xenoBrain』について詳細な資料をダウンロードできます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "素材マッチングプラットフォーム",
+    "url": "https://www.material-matching.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Material Matching Platform（MMP）は、材料を探している研究開発者と、材料を開発する化学メーカーをつなぐマッチングサービスです",
+    "url": "https://www.material-matching.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "【業界・分野別】製造業マッチングサイト・検索データベース13選 | テクノポート株式会社",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "【業界・分野別】製造業マッチングサイト・検索データベース13選",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における新規顧客開拓の手段として、SEO・AIO、広告などの施策以外に、「企業向けマッチングサイト」や「検索データベース」への登録という方法があります",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "イプロスものづくり",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、特定の業界・分野に特化された製造業マッチングサイト・検索データベースの事例をご紹介します",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "受託加工（機械加工、板金、溶接など）でのマッチング・データベース",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "部品供給でのマッチング・データベース",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "化学業界でのマッチング・データベース",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界でのマッチング・データベース",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "【番外編】地域別でのマッチング",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "図面（PDF・手書き対応）をもとに全国1000社以上に一括見積り",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "KAMAMESHI（部品管理&シェアサービス）",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "FAX・電話からの脱却！受発注システムMOSが受発注業務を変える | BtoBモバイルWeb受発注システム「MOS」",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "受発注システム、受注、発注、受発注業務などの受発注に関する情報発信",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "【PR特集】FAX・電話からの脱却！受発注システムMOSが受発注業務を変える",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "受発注システム",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業がいまだにFAXや電話での受発注業務を続けています",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、受発注システムのパイオニアとして注目を集めているのが",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB モバイルWeb受発注システム「MOS」",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "受発注業務の効率を大幅に改善でき発注者にどうすれば使ってもらえるのか？",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "受発注システム「MOS」について、今回は詳しくご紹介します",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "BtoBモバイル Web受発注システム「MOS」とは？",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "受発注システムMOSの主な特徴",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "受発注の未来は、MOSが変える",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月10日時点の補助率・補助上限額・公募スケジュール（公式ポータルの数値）",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業省力化投資補助事業公式ポータル「カタログ注文型とは」「2026年3月19日制度改定」（2026年9月10日確認）",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業省力化投資補助事業公式ポータル「一般型とは」（2026年9月10日確認）",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業省力化投資補助事業公式ポータル トップページおよび「スケジュール（一般型）」（2026年9月10日確認）",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "参考として一般型第6回は申請1,841件に対し採択1,176件でした（出典：同ポータル「採択結果」、2026年9月10日確認）",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、公式ポータルの補助率・補助上限額と、製品カタログに記載された価格目安を組み合わせた試算例です",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "GビズIDの取得やJグランツでの申請自体は事業者自身で行うことができ、公式ポータルや中小機構が特定の代行業者を紹介することはありません",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業省力化投資補助事業公式ポータル「申請・手続きの流れ（カタログ注文型）」（2026年9月10日確認）",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業省力化投資補助事業公式ポータル「応募申請・交付申請の流れ（一般型）」（2026年9月10日確認）",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "公式ポータルでは、応募・交付申請時の要件として「補助金の重複に該当しないこと」を満たす必要があると明記されています",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助事業公式ポータル「",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、カタログ注文型で申請する場合は製品カタログに掲載された設備を選ぶ必要があるため、まず自社が導入したい設備に近い製品カテゴリがあるかを公式ポータルで確認してください",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "クロム塩やリン製品といった無機化学の分野で、国内トップクラスのシェアを誇る、まさに「隠れたる実力派」です",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": ": 同社の顧客は、各業界を代表する大手メーカーが中心です",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": ": 国内で圧倒的なシェアを誇り、品質・供給安定性の面で他社の追随を許しません",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": "特に機能品事業で競合するのは、専業の高機能材料メーカーや、大手総合化学メーカーの機能材料部門です",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": "同社が製造する亜酸化銅は、この船底防汚塗料の主成分として世界トップクラスのシェアを誇ります",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": "‣ 化学工業製品においては、有機化学工業製品が全体の出荷額の４割超を占めており、大手企業では、石油化学製品の売上高が５割以上を占める",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業がメイン",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカーに部品を提供する中小企業も少なくないです",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "国内の大手川上企業は川中、川下も一貫して手掛けるため、一般的に",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "販売先において、自社との取引シェアが高くなり過ぎると、自社が取引から撤退することが困難となる恐れがあります",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、取引先の信用力（格付）に応じて取引シェアに上限を設けるべく、取引先が抱える買掛債務額の一定割合を売込限度額として設定する方法が考えられます",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "そして、その多くの分野で世界トップシェアを誇っているのが信越化学のすごいところです",
+    "url": "https://note.com/joyous_sayyou/n/n297303c55ec5",
+    "pass": 3
+   }
+  ],
+  "取引のやり方・不便": [
+   {
+    "quote": "パルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介・労働者派遣業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "1421 洋紙・機械すき和紙製造業 1421 洋紙製造業",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1423 機械すき和紙製造業",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 紙パ 26 生産用機械器具製造業 生産",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 5,927 2.7 181,090 2.4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 71,245 2.3 22,455 2.3",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "－ 産出事業所数が最も多い品目は「オフセット印刷物（紙に対するもの）」 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 151111 オフセット印刷物（紙に対するもの) 8,414 東京 大阪 愛知",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "22 151311 紙以外のものに対する印刷物 1,673 東京 大阪 埼玉",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・石炭製品の「ガソリン」（4 兆 1638 億円）、印刷・同関連品の「オフセット印刷物（紙に対",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 151111 オフセット印刷物（紙に対するもの) 2,602,796 東京 埼玉 大阪",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 名称及び電話番号",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」産業・事業所規模別新規求人数 パート含む（実数）より作成厚生労働省「一般職業紹介」有効求人倍率、新規求人数、有効求職者数 パート含む（季節調整値）より作成",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パルプ・紙・紙加工品製造業",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本ページでご紹介している分析結果は、有料版レポートのダイジェスト版です",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "部署別の事例紹介",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "技術系ライターの紹介",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "【執筆者紹介】廣常 絵梨奈 執筆者詳細を開く",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、特定の業界・分野に特化された製造業マッチングサイト・検索データベースの事例をご紹介します",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "電話対応:平日9:00~18:00",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "※営業電話は致しませんのでご安心ください",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "FAX・電話からの脱却！受発注システムMOSが受発注業務を変える | BtoBモバイルWeb受発注システム「MOS」",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "MOS紹介サイト",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "【PR特集】FAX・電話からの脱却！受発注システムMOSが受発注業務を変える",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "まだFAXで発注していませんか？",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業がいまだにFAXや電話での受発注業務を続けています",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "受発注システム「MOS」について、今回は詳しくご紹介します",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "導入企業の事例紹介",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "紙の注文書やFAX送信にかかるコスト、電話対応の人件費などを削減",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "今回は3件の実績をご紹介します",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "紙による注文のデータ化、入寮項目簡易化による受注作業の短縮、他システムとの連携による業務改善",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "紙媒体をデータへと移行することで煩雑になっている受注作業を軽減",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "受注時の入力ミスや漏れ、FAX受注からWEB受注への移行、受発注業務の作業時間",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "当メディアでは、温度管理や溶剤の再生、脱酸・脱臭処理など蒸留精製の目的や蒸留したい材料の特性に合わせて選べる受託蒸留会社3社を紹介しています",
+    "url": "https://www.pureryu.com/industry-company/chemical.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国精油に電話で",
+    "url": "https://www.pureryu.com/industry-company/chemical.html",
+    "pass": 3
+   },
+   {
+    "quote": "新菱に電話で",
+    "url": "https://www.pureryu.com/industry-company/chemical.html",
+    "pass": 3
+   },
+   {
+    "quote": "八代に電話で",
+    "url": "https://www.pureryu.com/industry-company/chemical.html",
+    "pass": 3
+   },
+   {
+    "quote": "FAX: 047-450-9822",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "FAX: 029-847-0910",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "工場・設備紹介",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発本部紹介",
+    "url": "https://www.sakai-chem.co.jp/jp/trust/",
+    "pass": 3
+   },
+   {
+    "quote": "原料や製品のロット管理・トレーサビリティが必要な化学製品では、「RFIDによる一括読み取りシステム」も製造業における資材のロット管理・部品トレーサビリティの活用例として公式に紹介されています",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "GビズIDの取得やJグランツでの申請自体は事業者自身で行うことができ、公式ポータルや中小機構が特定の代行業者を紹介することはありません",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "採択後、原則2者以上から相見積もりを取得し、発注先を選定する",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "認定支援機関の紹介",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "知人・取引先からの紹介",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の化学メーカーは、液晶テレビ向け高機能フィルムなどの電子材料や紙おむつ向けの高分子吸収材など",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人の自己紹介は固定記事から🔍",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "(2) 建設仮勘定の増加額及び減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 年末現在高＝年初現在高＋取得額－除却・売却による減少額－減価償却額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 建設仮勘定の年間増減＝増加額－減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウ 投資総額＝取得額＋建設仮勘定の年間増減",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "先行きについても概ねプラスで推移",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・有効求人倍率は求人数の回復により徐々に増加していたが、直近はやや落ち着いている",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月の数値をみると、有効求人倍率は1.27倍と、前年同月比0.09pt減と、微減で推移している",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人数は245.3万人で、前年同月比で8.7万人ほど減少",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求職者は192.5万人で、前月比0.9万人増、前年同月比で6.1万人増と、ともに増加",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求人、求職および求人倍率の推移 化学工業 新規求人数推移",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後は人手不足感は依然高いままだが、有効求人倍率が緩やかに減少している事もあり、完全失業率は横ばいで推移すると予想される",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額の推移は2020年の26兆8,191億円か",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら増加しており、製造業における割合は9.9％から10.0%と増加",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員推移も出荷額と同様に",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の34.3万人から増加",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における割合も5.8％から5.9%と増加している",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "山形県の1～3月期の地域経済について、モニターである山形銀行やまぎん情報開発研究所は、認証不正問題による自動車の出荷・生産停止の影響や、暖冬による季節需要の減少から【やや悪化】と判断した",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "記録的な暖冬で季節需要が減少",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "県内の販売統計は前年比プラス2.8％増で、3年以上にわたって前年比プラスの状況が続いている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "4～6月期について、生産活動は、半導体関連需要に持ち直しの兆しがみられることなどから、電子部品・デバイスや汎用・生産用・業務用機械は比較的底堅く推移する見込み",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "化学工業は、4月以降に医薬品の新設工場の稼働が見込まれることなどから、全体では徐々に持ち直しの動きに転じていくとモニターはみている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規求職の増加で有効求人倍率が低下",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種横断的に新規求人数の減少基調が続くなかで、新規求職者数は増加傾向にあり、有効求人倍率の低下につながっている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "また工場閉鎖の動きなどもみられ、新規求職者のなかでも事業主都合離職者の増加が目立っている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "全体としては有効求人数の減少傾向は変わらず",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の新規求人数が前年比プラスに転じる動きもみられるものの、全体としては有効求人数の減少傾向に変化がない",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "モニターは、4～6月期の見通しを「おおむね【横ばい】で推移する」とみている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "モニターが実施した調査によると、夏季賞与の1人あたり支給額は、前年に比べ「増加する」が22.2％(前年調査17.2％)、「前年並」が56.4％(同61.8％)、「減少する」が11.5％(同11.6％)、「支給なし」が9.9％(同9.5％)となった",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する総合化学メーカー ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する総合化学メーカー ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車やハイブリッド車の需要増加を背景に、市場は今後概ね横ばいが予想されます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "総合化学メーカー AI注目トレンド 電気自動車需要増加・ハイブリッド車普及が成長のカギに",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "図：総合化学メーカーにおける2030年までの市場規模推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "プラス要因である環境問題・SDGsの具体的な要因は、電気自動車需要増加やハイブリッド車需要増加、燃料電池自動車需要増加と予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "ナフサ価格 月次推移予測（1年先まで）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "アクリロニトリル価格 月次推移予測（1年先まで）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "尿素価格 月次推移予測（1年先まで）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニア価格 月次推移予測（1年先まで）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "エチレンプラント稼働率 月次推移予測（1年先まで）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "注文書の読み取り作業の軽減、受注作業時間の短縮、今後の受注受付増加への対応",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "受発注業務の電子化でヒューマンエラーの減少に成功",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "また、化学プロセスで使用された溶剤をそのまま廃棄することは、環境負荷の増大とコスト増加の原因になります",
+    "url": "https://www.pureryu.com/industry-company/chemical.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場又は設備を新設/増設するには莫大な費用がかかり工面できない（採算がとれる見込みができるまでの期間だけ外部委託したい）",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "商品の売れ行き好調に伴い生産量が大幅に増加したが現存設備ではキャパオーバー",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "また、設備や建屋の新設が必要となると高額な費用がかかることもあるためそのイニシャルコストを回避したい",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "その他、工場の立地条件や近隣の環境によっては、いくら認可を得たくても新設が難しく認可を得ることができないケースもあります",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "製造拠点を新設には費用が莫大にかかる又は希望通りの土地を確保できないなどの問題があるため、製造拠点の新設は難しい",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な賃上げの目標は「事業場内最低賃金を3.0%（日本銀行の物価安定の目標2%＋1.0%）以上増加」かつ「給与支給総額を6%以上増加」",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、指定数量以上の危険物を貯蔵・取り扱う施設で設備を新設・変更する場合、消防法にもとづき所轄の消防署への届出・相談が必要になることがあります",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "EV化や5Gの普及に伴い、MLCCの需要は今後も爆発的に増加すると見られており、同社の成長を牽引するエース製品です",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": "2010 年代前半は原油価格の高騰により、仕入コストが増大し、利益率は低調に推移していたが、2014 年から2015 年のシェール革命による原油価格の急落により、",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "化学製品出荷指数は、足元では100 を超えて比較的堅調に推移しているものの、中国景気減速や米中貿易摩擦を背景とした世界的な",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "原油価格や為替の変動、中国の需要減少や北米・中東の安価な製品の台頭などの影響を大きく受けるため、",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、その「踊り場」こそが、長期的視点に立つ賢明な投資家にとっての**「千載一遇の好機」**であったことが、足元の業績回復と株価推移から明らかになりつつあります",
+    "url": "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "pass": 3
+   },
+   {
+    "quote": "金利高止まりによる住宅着工件数の減少は、塩ビ需要に直結します",
+    "url": "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "pass": 3
+   }
+  ],
+  "払う単価の手がかり": [
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：出荷金額の調査期間については、令和2年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） 第１位 第２位 第３位",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査は、全産業分野の売上（収入）金額や費用などの経理項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コ 企業全体の売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コ 売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 年間商品販売額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 物品賃貸業のレンタル年間売上高及びリース年間契約高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キ 企業全体の売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "100.0万円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "200.0万円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300.0万円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "400.0万円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500.0万円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "600.0万円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化学の正社員の平均初年度年収は2022年は前年を下回る結果となったが、2023年は417.1万円と回復した",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で0.4%成長し14兆6,995億円に達すると予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で総合化学メーカーに影響する市場環境の変化を8つのカテゴリーに分類すると、プラス要因としては環境問題・SDGs、一方マイナス要因としては国際情勢の影響が大きいと予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果(5)",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "初期＆月額費用",
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資費用の削減 - 化学工業薬品の受託製造｜富士化学工業株式会社",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資費用の削減",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "設備の増強、新規拠点の開設などの設備投資には多大な費用が必要となります",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資費用の削減または回避をお考えの際は、富士化学工業にお任せください",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "工場又は設備を新設/増設するには莫大な費用がかかり工面できない（採算がとれる見込みができるまでの期間だけ外部委託したい）",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "また、設備や建屋の新設が必要となると高額な費用がかかることもあるためそのイニシャルコストを回避したい",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "製造拠点を新設には費用が莫大にかかる又は希望通りの土地を確保できないなどの問題があるため、製造拠点の新設は難しい",
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の研究開発部門の開発費用負担を軽減します",
+    "url": "https://www.sakai-chem.co.jp/jp/trust/",
+    "pass": 3
+   },
+   {
+    "quote": "化学工業の省力化補助金｜上限500万〜8,000万円・対象設備・申請2026",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "導入費用と補助額のシミュレーション（モデルケース）",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金は、こうした工程を自動化する設備の導入費用を補助する制度で、化学工業",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "は、こうした工程を自動化する設備の導入費用を補助する制度で、化学工業（日本標準産業分類上は製造業に区分される業種）の中小企業も対象になります",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "（補助率1/2以下、補助上限は従業員規模に応じて500万〜1,000万円、大幅な賃上げを達成した場合は750万〜1,500万円）が最短ルートです",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "（補助率は中小企業1/2〜2/3、小規模企業者等2/3、補助上限は従業員規模に応じて750万〜8,000万円、大幅な賃上げ達成時は最大1億円）を検討します",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "改定前（2026年3月16日17:00までに不備なく受理された申請のみ適用）は5人以下200万円（賃上げ時300万円）、6〜20人500万円（同750万円）、21人以上1,000万円（同1,500万円）でした",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性については、補助事業終了後3年間、年平均成長率3.0%以上の向上目標を定めた事業計画が必要です",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "AIサーバーやデータセンター向けの最先端ウエハは、従来品よりもさらに高い品質が求められ、単価も上昇します",
+    "url": "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "pass": 3
+   }
+  ],
+  "働き手が減るか（人手不足）": [
+   {
+    "quote": "有効求人倍率は1.27倍と、前年同月比で0.09pt減の微減傾向",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・有効求人倍率は求人数の回復により徐々に増加していたが、直近はやや落ち着いている",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月の数値をみると、有効求人倍率は1.27倍と、前年同月比0.09pt減と、微減で推移している",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」産業・事業所規模別新規求人数 パート含む（実数）より作成厚生労働省「一般職業紹介」有効求人倍率、新規求人数、有効求職者数 パート含む（季節調整値）より作成",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人数 有効求職者数 有効求人倍率",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後は人手不足感は依然高いままだが、有効求人倍率が緩やかに減少している事もあり、完全失業率は横ばいで推移すると予想される",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率が全国平均を上回るものの低下傾向",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、相変わらずの人手不足感",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "> 有効求人倍率が全国平均を上回るものの低下傾向",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "1～3月期の雇用動向は、有効求人倍率が全国平均は上回るものの低下傾向にあり【やや悪化】と判断",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "4～6月期の雇用見通しは、人手不足感の変化が小幅にとどまっていることから【横ばい】としている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規求職の増加で有効求人倍率が低下",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働統計をみると、1～3月の有効求人倍率は1.31倍",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種横断的に新規求人数の減少基調が続くなかで、新規求職者数は増加傾向にあり、有効求人倍率の低下につながっている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "また工場閉鎖の動きなどもみられ、新規求職者のなかでも事業主都合離職者の増加が目立っている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別にみると、製造業は2期連続の上昇、非製造業は1年ぶりの上昇で、「このところの業況弱含みをうけて、人手不足感が緩和し、求人減につながっていると考えられる」",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "モニターは1～3月期の雇用状況を「強い人手不足感が続いているものの、【やや悪化】する動き」と判断した",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "4月の労働統計をみると、有効求人倍率は1.33倍で、全国平均を上回り東北では最も高い水準となっている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "pass": 3
+   },
+   {
+    "quote": "塗料・接着剤・化粧品原料・樹脂加工・工業薬品の小分けなど、化学製品を扱う中小企業の現場では、原材料の計量や混合、ボトルや容器への充填・包装、工場内の搬送、製品検査といった工程に人手がかかり、人手不足への対応が課題になっています",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "いずれも中小企業庁・中小機構が実施する制度で、対象は人手不足に悩む中小企業等です",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "提出書類は従業員名簿・貸借対照表・損益計算書のほか、法人・個人事業主の別、人手不足要件、賃上げ要件などに応じて追加書類が必要です",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": ": 少子高齢化が進む日本において、優秀な理系人材の確保は年々難しくなっています",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "マイナビキャリアリサーチLab 化学工業 レポート（2024年2月） — マイナビキャリアリサーチLab 化学工業 レポート（2024年2月） マイナビキャリアリサーチLab PDF https://career-research.mynavi.jp > uploads > 2024/05",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する総合 化学 メーカー ｜2030年 市場規模推移 と主要 ... — AIが予測する総合 化学 メーカー ｜2030年 市場規模推移 と主要 ... xenoBrain https://service.xenobrain.jp > market-size > chemistry",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "pass": 3
+   },
+   {
+    "quote": "我が国における 化学工業 生産の長期的 推移 - 内閣府 — 我が国における 化学工業 生産の長期的 推移 - 内閣府 内閣府ホームページ PDF https://www5.cao.go.jp > keizai3 > topics_084",
+    "url": "https://www5.cao.go.jp/keizai3/monthly_topics/2026/0410/topics_084.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化学工業 の省力化補助金｜対象設備・補助額・申請2026 — 化学工業 の省力化補助金｜対象設備・補助額・申請2026 shouryokuka-hojokin.jp https://shouryokuka-hojokin.jp > 記事一覧 > 業種別",
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "日本 化学工業 (4092)を徹底解剖！130年の歴史が紡ぐ - note 日本 化学工業 (4092)を徹底解剖！130年の歴史が紡ぐ - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポート 化学工業 ｜佐々木正人 - note 業界レポート 化学工業 ｜佐々木正人 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "【 化学 メーカー】素材の王者と、住宅をつくる 化学 屋 - note 【 化学 メーカー】素材の王者と、住宅をつくる 化学 屋 - note note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/joyous_sayyou/n/n297303c55ec5",
+    "pass": 3
+   },
+   {
+    "quote": "信越 化学工業 の人気・新着記事まとめ - note 信越 化学工業 の人気・新着記事まとめ - note note https://note.com > hashtag > 信越化学工業",
+    "url": "https://note.com/hashtag/%E4%BF%A1%E8%B6%8A%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェアNo.1の底力！調整局面を抜けた「信越 化学工業 」に ... 世界シェアNo.1の底力！調整局面を抜けた「信越 化学工業 」に ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "pass": 3
+   },
+   {
+    "quote": "「数字だけじゃない。信越 化学工業 の「揺るがぬ哲学」が示す 「数字だけじゃない。信越 化学工業 の「揺るがぬ哲学」が示す note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/biz_organized/n/n8c8151159f2e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "隠れたる「無機化学の雄」、日本化学工業(4092)を徹底解剖！130年の歴史が紡ぐ、未来への成長ストーリー｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": "隠れたる「無機化学の雄」、日本化学工業(4092)を徹底解剖！130年の歴史が紡ぐ、未来への成長ストーリー",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": "日本の化学業界に、130年以上の長きにわたり、社会の基盤を静かに支え続けてきた企業が存在することをご存知でしょうか。その名は、",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": "。クロム塩やリン製品といった無機化学の分野で、国内トップクラスのシェアを誇る、まさに「隠れたる実力派」です。",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": "派手さはないかもしれません。しかし、その製品は自動車、スマートフォン、インフラ、食品、医療といった、私たちの生活に不可欠なあらゆる場面で活躍しています。同社の歴史は、日本の産業発展の歴史そのものであり、そこで培われた技術力と安定した事業基盤は、他の追随を許さない強固な競争優位性を築いています。",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": "近年、世界は脱炭素、DX（デジタルトランスフォーメーション）、そしてEV（電気自動車）シフトといった大きな変革の時代を迎えています。このような環境変化は、伝統的な化学メーカーにとって逆風と捉えられがちです。しかし、日本化学工業は、これを大きな成長機会と捉え、長年培った技術を応用し、積層セラミックコンデンサ（MLCC）材料や全固体電池材料といった最先端分野へ果敢に挑戦しています。",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、老舗企業の安定感と、未来を切り拓く成長性を併せ持つ日本化学工業の真の姿を、事業の深層から経営者のビジョン、そして潜在的なリスクに至るまで、あらゆる角度から徹底的にデュー・デリジェンス（詳細調査）していきます。この記事を読み終える頃には、あなたがこれまで抱いていた「化学メーカー」のイメージは一新され、同社が秘める真の投資価値を深く理解できるはずです。",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要：130年を超える歴史と革新のDNA",
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポート 化学工業｜佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "今回は化学工業について学んでいってみましょう( ´艸｀)",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "特に記事についてのコメント頂けると、今後の記事作成の励みになります。",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "‣ 無機化学工業製品製造業 ‣ その他の化学工業",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "‣ 有機化学工業製品製造業 ‣ 化粧品・歯磨・その他の化粧用調整品製造業",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "‣ 油脂加工製品・石けん・合成洗剤・界面活性剤・塗料製造業",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "化学工業は、石油や天然ガスなどの原料に化学反応を加えて、より価値の高い素材や製品を製造する業界です。",
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "pass": 3
+   },
+   {
+    "quote": "【化学メーカー】素材の王者と、住宅をつくる化学屋｜キギョケン 世界の企業研究",
+    "url": "https://note.com/joyous_sayyou/n/n297303c55ec5",
+    "pass": 3
+   },
+   {
+    "quote": "【化学メーカー】素材の王者と、住宅をつくる化学屋",
+    "url": "https://note.com/joyous_sayyou/n/n297303c55ec5",
+    "pass": 3
+   },
+   {
+    "quote": "冷蔵庫からペットボトルを取り出して、スマホで天気をチェックしてから出勤。",
+    "url": "https://note.com/joyous_sayyou/n/n297303c55ec5",
+    "pass": 3
+   },
+   {
+    "quote": "あなたのまわりにあるこれらすべてに、“化学メーカー”が関わっていることをご存じでしょうか？",
+    "url": "https://note.com/joyous_sayyou/n/n297303c55ec5",
+    "pass": 3
+   },
+   {
+    "quote": "冷蔵庫の内側の断熱材も、ペットボトルも、スマホの心臓部である半導体チップも、実は化学素材のかたまりです。",
+    "url": "https://note.com/joyous_sayyou/n/n297303c55ec5",
+    "pass": 3
+   },
+   {
+    "quote": "でも、「それを作っている会社の名前、パッと思いつく？」と聞かれると、首をかしげる人も多いのではないでしょうか。",
+    "url": "https://note.com/joyous_sayyou/n/n297303c55ec5",
+    "pass": 3
+   },
+   {
+    "quote": "じつは日本には、世界中の産業や暮らしを支える",
+    "url": "https://note.com/joyous_sayyou/n/n297303c55ec5",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、その中でも代表的な2社を取り上げながら、「化学業界？川上とか川下って何？」ということについて書いていきたいと思います。",
+    "url": "https://note.com/joyous_sayyou/n/n297303c55ec5",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学工業の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E4%BF%A1%E8%B6%8A%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "半導体シリコンウエハーや塩化ビニル樹脂で世界トップシェアを誇る化学メーカーです。",
+    "url": "https://note.com/tag/%E4%BF%A1%E8%B6%8A%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "投資分析や決算解説、採用対策など、ビジネスや投資の視点から様々な記事が集まっています。",
+    "url": "https://note.com/tag/%E4%BF%A1%E8%B6%8A%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "半導体シリコンウエハーや塩化ビニル樹脂で世界トップシェアを誇る化学メーカーで…",
+    "url": "https://note.com/tag/%E4%BF%A1%E8%B6%8A%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学工業 中興の祖 小田切新太郎 社長の器",
+    "url": "https://note.com/tag/%E4%BF%A1%E8%B6%8A%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェアNo.1の底力！調整局面を抜けた「信越化学工業」に今こそ注目すべき理由｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェアNo.1の底力！調整局面を抜けた「信越化学工業」に今こそ注目すべき理由",
+    "url": "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "pass": 3
+   },
+   {
+    "quote": "日本株市場において、**「実力伯仲」**という言葉がこれほど似合わない企業も珍しいでしょう。世界シェアNo.1製品を複数持ち、圧倒的な収益性と鉄壁の財務基盤を誇る「信越化学工業」。",
+    "url": "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "pass": 3
+   },
+   {
+    "quote": "2023年から2024年にかけて、半導体市場の在庫調整や米国住宅市場の減速懸念から、株価は一時的な調整局面を迎えました。しかし、その「踊り場」こそが、長期的視点に立つ賢明な投資家にとっての**「千載一遇の好機」**であったことが、足元の業績回復と株価推移から明らかになりつつあります。",
+    "url": "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "pass": 3
+   },
+   {
+    "quote": "多くの投資家がAI半導体やハイテク株の短期的な値動きに目を奪われる中、信越化学は静かに、しかし着実に**「次の成長フェーズ」**への準備を整えてきました。",
+    "url": "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ信越化学はこれほどまでに強いのか。 なぜ不況期にこそ、その真価が発揮されるのか。 そして、なぜ「今」が投資のタイミングなのか。",
+    "url": "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、財務諸表の数字を表面的になぞるだけでは見えてこない、信越化学工業の**「強さの源泉（Moat）」**を徹底的に解剖します。ファンダメンタルズ分析に基づき、機関投資家レベルのデュー・デリジェンス（詳細分析）をお届けします。",
+    "url": "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデルの詳細分析】世界を制する「4つの柱」",
+    "url": "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "pass": 3
+   },
+   {
+    "quote": "「数字だけじゃない。信越化学工業の「揺るがぬ哲学」が示す、本質的な強さとは」｜ビジネス・マン",
+    "url": "https://note.com/biz_organized/n/n8c8151159f2e",
+    "pass": 3
+   },
+   {
+    "quote": "「数字だけじゃない。信越化学工業の「揺るがぬ哲学」が示す、本質的な強さとは」",
+    "url": "https://note.com/biz_organized/n/n8c8151159f2e",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに：なぜ「隠れた巨人」信越化学工業から目を離せないのか",
+    "url": "https://note.com/biz_organized/n/n8c8151159f2e",
+    "pass": 3
+   },
+   {
+    "quote": "皆さんは「信越化学工業」という社名を聞いて、どんなイメージを抱くでしょうか？ もしかしたら、その実態を深く知る人は少ないかもしれません。しかし、この会社こそ、日本経済の「隠れた巨人」であり、製造業の世界で異彩を放つ存在です。売上高は兆円規模、営業利益率は他の追随を許さない約30%（時にはそれ以上）、自己資本比率は80%を超える盤石な財務基盤。そして、塩化ビニル樹脂、半導体シリコンウエハ、合成石英、合成性フェロモンなど、多くの製品で世界トップシェアを誇っています。",
+    "url": "https://note.com/biz_organized/n/n8c8151159f2e",
+    "pass": 3
+   },
+   {
+    "quote": "VUCA（Volatility, Uncertainty, Complexity, Ambiguity：変動性・不確実性・複雑性・曖昧性）の時代と呼ばれる現代において、多くの企業が変化の波に揉まれ、時には方向性を見失うこともあります。そんな中、なぜ信越化学工業はこれほどまでに安定した高収益を上げ続け、成長を維持できるのでしょうか。その秘密は、単なる数字の羅列や最新技術の導入だけでは語り尽くせない、「揺るがぬ経営哲学」と、それを愚直に実行し続ける「現場の力」にあると私たちは考えます。",
+    "url": "https://note.com/biz_organized/n/n8c8151159f2e",
+    "pass": 3
+   },
+   {
+    "quote": "このノートでは、信越化学工業の異常とも言える強さの根源を深く掘り下げ、現代のビジネスパーソンが学ぶべき本質的な教訓を探っていきましょう。",
+    "url": "https://note.com/biz_organized/n/n8c8151159f2e",
+    "pass": 3
+   },
+   {
+    "quote": "業界の現状と信越化学工業の核心的なポイント",
+    "url": "https://note.com/biz_organized/n/n8c8151159f2e",
+    "pass": 3
+   },
+   {
+    "quote": "化学業界は、一般的に「川中」産業に位置し、原油価格や世界経済の市況に大きく左右されやすいビジネスモデルです。多くの化学メーカーが、こうした外部環境の変動に翻弄され、薄利多売の構造から抜け出せずにいます。しかし、信越化学工業は「別格」です。一般的な大手化学メーカーの営業利益率が10%以下であるのに対し、信越化学工業は常にその3倍近い収益性を維持しています。この「異質さ」はどこから来るのでしょうか。",
+    "url": "https://note.com/biz_organized/n/n8c8151159f2e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "化学工業 日報社 (@chemicaldailyad) / X 化学工業 日報社 (@chemicaldailyad) / X X https://x.com > chemicaldailyad",
+    "url": "https://x.com/chemicaldailyad",
+    "pass": 3
+   },
+   {
+    "quote": "Highlights by 化学工業 日報社 (@chemicaldailyad) / X Highlights by 化学工業 日報社 (@chemicaldailyad) / X X https://x.com > chemicaldailyad > highlights",
+    "url": "https://x.com/chemicaldailyad/highlights",
+    "pass": 3
+   },
+   {
+    "quote": "積水 化学工業 株式会社【公式】 (@SEKISUI_jp) / X 積水 化学工業 株式会社【公式】 (@SEKISUI_jp) / X X https://x.com > SEKISUI_jp",
+    "url": "https://x.com/SEKISUI_jp",
+    "pass": 3
+   },
+   {
+    "quote": "化学工業 日報社 on X: \"【休刊のお知らせ】 令和8年10月13日 ... 化学工業 日報社 on X: \"【休刊のお知らせ】 令和8年10月13日 ... X https://x.com > @chemicaldailyad",
+    "url": "https://x.com/chemicaldailyad/status/2108361658125222022",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 化学工業 日報社 - LinkedIn 株式会社 化学工業 日報社 - LinkedIn LinkedIn https://jp.linkedin.com > company > the-chemical-daily",
+    "url": "https://jp.linkedin.com/company/the-chemical-daily",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 化学工業 日報社 - LinkedIn 株式会社 化学工業 日報社 - LinkedIn LinkedIn https://jp.linkedin.com > company > chemicaldaily",
+    "url": "https://jp.linkedin.com/company/chemicaldaily",
+    "pass": 3
+   },
+   {
+    "quote": "昭栄 化学工業 （株） - LinkedIn 昭栄 化学工業 （株） - LinkedIn LinkedIn https://www.linkedin.com > 昭栄化学工業（株）",
+    "url": "https://www.linkedin.com/company/%E6%98%AD%E6%A0%84%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "信越 化学工業 （株） - LinkedIn 信越 化学工業 （株） - LinkedIn LinkedIn https://jp.linkedin.com > company > 信越化学工業（株）",
+    "url": "https://jp.linkedin.com/company/%E4%BF%A1%E8%B6%8A%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "How Japan's Chemical Industry can overtake the World How Japan's Chemical Industry can overtake the World LinkedIn https://www.linkedin.com > pulse > h...",
+    "url": "https://www.linkedin.com/pulse/how-japans-chemical-industry-can-overtake-world-pawan-bhandari",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Chemical Industry Association | LinkedIn Japan Chemical Industry Association | LinkedIn LinkedIn https://jp.linkedin.com > company > japan-chemical-indus...",
+    "url": "https://jp.linkedin.com/company/japan-chemical-industry-association",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "クミアイ 化学工業 株式会社 | Taito-ku Tokyo - Facebook クミアイ 化学工業 株式会社 | Taito-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Chemical Company",
+    "url": "https://www.facebook.com/kumiai.chemical/",
+    "pass": 3
+   },
+   {
+    "quote": "クミアイ 化学工業 株式会社 (@kumiai.chemical) - Photos クミアイ 化学工業 株式会社 (@kumiai.chemical) - Photos Facebook https://www.facebook.com > kumiai.chemical > photos",
+    "url": "https://www.facebook.com/kumiai.chemical/photos/",
+    "pass": 3
+   },
+   {
+    "quote": "讃岐 化学工業 株式会社 | Takamatsu-shi Kagawa - Facebook 讃岐 化学工業 株式会社 | Takamatsu-shi Kagawa - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/p/%E8%AE%83%E5%B2%90%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100032359551120/",
+    "pass": 3
+   },
+   {
+    "quote": "丸三 化学工業 株式会社 (@03kagaku) - Facebook 丸三 化学工業 株式会社 (@03kagaku) - Facebook Facebook https://www.facebook.com > ... > 商業・工業 > 製造業",
+    "url": "https://www.facebook.com/03kagaku/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://1049.co.jp/column/column_20260114/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://owls-group.com/2026/07/11/%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E3%81%8C2%E3%82%AB%E6%9C%88%E3%81%B6%E3%82%8A%E3%81%AB%E4%BD%8E%E4%B8%8B-%E4%BA%BA%E6%9D%90%E7%A2%BA%E4%BF%9D%E3%81%AF%E9%87%8F%E3%81%8B%E3%82%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/iida_yasuyuki/n/n627a844b8f7c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkakyo.org/system/files/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%95%E3%81%A6%E3%82%99%E8%A6%8B%E3%82%8B%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/003_00_05_04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1023_01.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/monthly_topics/2026/0410/topics_084.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ryutsuu.biz/strategy/n011912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/48064",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sii.or.jp/datashare29r/uploads/2jikoubo_jigyougaiyo_12.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.material-matching.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techport.co.jp/archives/40636",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagase.com/jp/ja/products/chemaimatch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usknet.com/jirei/takayama/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casio-human-sys.co.jp/bc-order/column/019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecbeing.net/b2b/contents/detail/22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kktisc.co.jp/column/7201/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pureryu.com/industry-company/chemical.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuji-chem.jp/case/capital_investment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakai-chem.co.jp/jp/trust/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyorikagaku.co.jp/column/efficient-cost-assembly-costs/",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/joyous_sayyou/n/n297303c55ec5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/chemicaldailyad",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/chemicaldailyad/highlights",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SEKISUI_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/chemicaldailyad/status/2108361658125222022",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/the-chemical-daily",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/chemicaldaily",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E6%98%AD%E6%A0%84%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E4%BF%A1%E8%B6%8A%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kumiai.chemical/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kumiai.chemical/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E8%AE%83%E5%B2%90%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100032359551120/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/03kagaku/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E4%BF%A1%E8%B6%8A%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/biz_organized/n/n8c8151159f2e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/chemicaldailyad",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/how-japans-chemical-industry-can-overtake-world-pawan-bhandari",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/japan-chemical-industry-association",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "化学工業 事業所数 従業者数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "https://www.nikkakyo.org/system/files/files%20%287%29_1.pdf",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://totonoe.tech/shikuchoson-sangyo/gyoushu/16/"
+   ]
+  },
+  {
+   "query": "化学工業 人手不足 有効求人倍率",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html",
+    "https://1049.co.jp/column/column_20260114/",
+    "https://owls-group.com/2026/07/11/%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E3%81%8C2%E3%82%AB%E6%9C%88%E3%81%B6%E3%82%8A%E3%81%AB%E4%BD%8E%E4%B8%8B-%E4%BA%BA%E6%9D%90%E7%A2%BA%E4%BF%9D%E3%81%AF%E9%87%8F%E3%81%8B%E3%82%89/",
+    "https://note.com/iida_yasuyuki/n/n627a844b8f7c",
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://hrog.net/news/135927/",
+    "https://www.nikkan.co.jp/articles/view/793476",
+    "https://nextengineer.com/blog/know-how001/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2024/05/2023-11-kagakukogyo.pdf"
+   ]
+  },
+  {
+   "query": "化学工業 市場規模 推移",
+   "results": [
+    "https://www.nikkakyo.org/system/files/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%95%E3%81%A6%E3%82%99%E8%A6%8B%E3%82%8B%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD2024.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/003_00_05_04.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1023_01.pdf",
+    "https://service.xenobrain.jp/forecastresults/market-size/chemistry",
+    "https://www5.cao.go.jp/keizai3/monthly_topics/2026/0410/topics_084.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102235",
+    "https://www.fortunebusinessinsights.com/jp/%E7%89%B9%E6%AE%8A%E5%8C%96%E5%AD%A6%E5%93%81%E5%B8%82%E5%A0%B4-105517",
+    "https://www.databridgemarketresearch.com/jp/reports/global-chemicals-market",
+    "https://monoscope-media.com/chemical-resin-market/",
+    "https://the-shashi.com/market/chemical/"
+   ]
+  },
+  {
+   "query": "化学工業 休廃業 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "https://www.ryutsuu.biz/strategy/n011912.html",
+    "https://newswitch.jp/p/48064",
+    "https://www.nikoukei.co.jp/news/detail/280493",
+    "https://ecnomikata.com/ecnews/marketing/48265/",
+    "https://biz.chunichi.co.jp/news/article/10/122271/",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/b4854f60d7ff44378ebcdc3ca15375af/20250922_全国企業「休廃業・解散」動向調査（2025年1-8月）.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2023/pdf/honbun_1_1_5.pdf"
+   ]
+  },
+  {
+   "query": "化学工業 マッチング プラットフォーム",
+   "results": [
+    "https://sii.or.jp/datashare29r/uploads/2jikoubo_jigyougaiyo_12.pdf",
+    "https://www.material-matching.com/about",
+    "https://techport.co.jp/archives/40636",
+    "https://www.nagase.com/jp/ja/products/chemaimatch",
+    "https://mallento.com/recommend/manufacturing-matching-services/",
+    "https://material-connect.com/",
+    "https://platto.technoa.co.jp/",
+    "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "https://service.nc-net.com/tenkai/fbc/",
+    "https://chemabout.com/ja"
+   ]
+  },
+  {
+   "query": "化学工業 受発注 課題 電話 FAX",
+   "results": [
+    "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "https://www.usknet.com/jirei/takayama/",
+    "https://www.casio-human-sys.co.jp/bc-order/column/019.html",
+    "https://www.ecbeing.net/b2b/contents/detail/22",
+    "https://www.kktisc.co.jp/column/7201/",
+    "https://aladdin-ec.jp/useful/48/",
+    "https://ec.smaregi.jp/column/b2b/fax-order/",
+    "https://note.com/recerqa/n/n984940c704ad",
+    "https://wheat-biz.com/ai-dx/order-system-fax-elimination-dx/",
+    "https://www.mosjapan.jp/"
+   ]
+  },
+  {
+   "query": "化学工業 外注 費用 相場",
+   "results": [
+    "https://www.pureryu.com/industry-company/chemical.html",
+    "https://fuji-chem.jp/case/capital_investment",
+    "https://www.sakai-chem.co.jp/jp/trust/",
+    "https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/",
+    "https://www.toyorikagaku.co.jp/column/efficient-cost-assembly-costs/",
+    "https://robokaru.jp/useful/791/",
+    "https://murayama-chem.co.jp/manufacturing/",
+    "https://www.synthesis-navi.net/compounds/organic-compounds.html",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/13_chemistry.pdf",
+    "https://gaichubase.com/2026/05/04/外注-費用-相場を徹底解説！業種別料金と成功のポ/"
+   ]
+  },
+  {
+   "query": "site:note.com 化学工業",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "https://note.com/tv_satoma/n/n5741c9195f79",
+    "https://note.com/joyous_sayyou/n/n297303c55ec5",
+    "https://note.com/shakaikakoneta/n/nb8b8f1e3e339",
+    "https://note.com/tag/%E7%A9%8D%E6%B0%B4%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD",
+    "https://note.com/goriochem/n/n43f15cd94b65",
+    "https://note.com/goriochem/n/n25658854da48",
+    "https://note.com/tatsuya_sabato/n/nb7665f66ab2b",
+    "https://note.com/pharmms/n/n7f82d45fdc7c"
+   ]
+  },
+  {
+   "query": "site:x.com 化学工業",
+   "results": [
+    "https://x.com/chemicaldailyad",
+    "https://x.com/chemicaldailyad/highlights",
+    "https://x.com/SEKISUI_jp",
+    "https://x.com/chemicaldailyad/status/2108361658125222022",
+    "https://x.com/USAmbJapan/status/1970746361789526388",
+    "https://x.com/Shinsei_Shiga",
+    "https://x.com/cbs_chemical",
+    "https://x.com/chemicaldailyad/status/1829280742721126788",
+    "https://x.com/chemicaldailyad/status/2074278482386030977",
+    "https://x.com/chemicaldailyad/status/2117753249914929367"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 化学工業",
+   "results": [
+    "https://jp.linkedin.com/company/the-chemical-daily",
+    "https://jp.linkedin.com/company/chemicaldaily",
+    "https://www.linkedin.com/company/%E6%98%AD%E6%A0%84%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/%E4%BF%A1%E8%B6%8A%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://www.linkedin.com/company/%E6%97%A5%E6%9C%AC%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "https://jp.linkedin.com/in/kazuko-yamada-181814301",
+    "https://www.linkedin.com/company/%E8%8D%92%E5%B7%9D%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://www.linkedin.com/company/%E7%89%87%E5%B1%B1%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "https://jp.linkedin.com/company/%E6%97%A5%E6%9C%AC%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/信越化学工業（株）"
+   ]
+  },
+  {
+   "query": "site:facebook.com 化学工業",
+   "results": [
+    "https://www.facebook.com/kumiai.chemical/",
+    "https://www.facebook.com/kumiai.chemical/photos/",
+    "https://www.facebook.com/p/%E8%AE%83%E5%B2%90%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100032359551120/",
+    "https://www.facebook.com/03kagaku/?locale=ja_JP",
+    "https://www.facebook.com/miekagaku/?locale=ja_JP",
+    "https://www.facebook.com/kyotocci/videos/%E4%BC%9A%E5%93%A1%E4%BC%81%E6%A5%AD%E9%87%8E%E9%96%93%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%95%E3%81%BE%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E9%87%8E%E9%96%93%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEhttpsnoma-colourcojp1960%E5%B9%B4%E4%BB%A3%E5%89%B5%E6%A5%AD%E3%81%8B%E3%82%89%E8%89%B2%E3%81%AE%E6%9D%90%E6%96%99%E3%81%A7%E3%81%82%E3%82%8B%E9%A1%94%E6%96%99%E3%82%92%E4%BD%9C%E3%82%8A%E7%B6%9A%E3%81%91%E3%82%8B%E9%87%8E%E9%96%93%E5%8C%96%E5%AD%A6%E5%B7%A5/4220423158273481/",
+    "https://www.facebook.com/ShinseiHeadOffice/",
+    "https://www.facebook.com/kumiai.chemical/mentions/",
+    "https://www.facebook.com/kumiai.chemical/posts/%E5%AE%AE%E5%9F%8E%E7%9C%8C%E3%81%AB%E3%81%82%E3%82%8B%E3%82%AF%E3%83%9F%E3%82%A2%E3%82%A4%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%E5%B0%8F%E7%89%9B%E7%94%B0%E3%81%93%E3%81%94%E3%81%9F%E5%B7%A5%E5%A0%B4%E3%81%AB%E7%A7%8B%E7%94%B0%E7%9C%8C%E3%81%AE%E7%A8%B2%E4%BD%9C%E9%83%A8%E4%BC%9A%E3%81%AE%E6%96%B9%E3%80%85%E3%82%92%E3%81%8A%E6%8B%9B%E3%81%8D%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%A1%E3%82%89%E3%81%AE%E5%B7%A5%E5%A0%B4%E3%81%A7%E3%81%AF%E4%B8%BB%E3%81%AB%E3%82%AF%E3%83%9F%E3%82%AB%E3%81%AE%E6%B0%B4%E7%A8%B2%E3%81%8A%E3%82%88%E3%81%B3%E7%95%91%E4%BD%9C%E7%94%A8%E9%99%A4%E8%8D%89%E5%89%A4%E3%81%AE%E7%B2%92%E5%89%A4%E3%82%84%E8%B1%86%E3%81%A4%E3%81%B6%E5%89%A4%E3%82%92%E8%A3%BD%E9%80%A0%E3%81%97%E3%81%A6/641919115255745/",
+    "https://www.facebook.com/NichiaCorporation/"
+   ]
+  },
+  {
+   "query": "化学工業 note 社長",
+   "results": [
+    "https://note.com/hashtag/%E4%BF%A1%E8%B6%8A%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD",
+    "https://note.com/goriochem/m/ma03ee9615e0c",
+    "https://note.com/tatsuya_sabato/n/nffba4059a722",
+    "https://note.com/biz_organized/n/n8c8151159f2e",
+    "https://note.com/tag/vm/investment_money/company-4063",
+    "https://note.com/keirimanx/m/m8114d520ec25",
+    "https://note.com/tatsuya_sabato/n/n334dd0df6c5d",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.guitar-mg.co.jp/products/10483",
+    "https://ja.wikipedia.org/wiki/斉藤恭彦"
+   ]
+  },
+  {
+   "query": "化学工業 X 投稿",
+   "results": [
+    "https://x.com/chemicaldailyad",
+    "https://shinsei-shiga.co.jp/uncategorized/twitterx%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/",
+    "https://tofu.misosil.com/influencers/Chemical-industry/",
+    "https://www.kumiai-chem.co.jp/social_media/",
+    "https://x.com/SEKISUI_jp",
+    "https://chemicalx.sotas.co.jp/",
+    "https://www.sekisui.co.jp/socialmedia_policy/",
+    "https://www.chemmate.jp/",
+    "https://x.com/SEKISUI_jp/status/2103363945704890522",
+    "https://www.chemistry.or.jp/journal/kakou-1/keijiban.html"
+   ]
+  },
+  {
+   "query": "chemical industry Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/tci-tokyo-chemical-industry",
+    "https://www.linkedin.com/pulse/how-japans-chemical-industry-can-overtake-world-pawan-bhandari",
+    "https://jp.linkedin.com/company/japan-chemical-industry-association",
+    "https://www.linkedin.com/pulse/japan-performance-chemicals-market-us-korea-europe-analysis-0patf",
+    "https://www.linkedin.com/company/fuji-chemical-industries-co.-ltd.",
+    "https://www.linkedin.com/pulse/chemical-industry-robots-market-global-outlook-us-30hpf",
+    "https://sg.linkedin.com/jobs/chemical-industry-jobs",
+    "https://www.linkedin.com/company/arakawa-chemical-usa-inc.",
+    "https://www.linkedin.com/pulse/japan-chemical-transfer-pumps-market-us-korea-europe-qoqmf",
+    "https://jp.linkedin.com/company/tci-tokyo-chemical-industry"
+   ]
+  }
+ ],
+ "missing": {}
+}

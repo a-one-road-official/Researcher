@@ -1,0 +1,1828 @@
+# 黒崎式・第1段 — 産業ごとの需給の差×大手プラットフォームの不在（A1の売る先の産業）（事実のみ・16品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 鉄鋼業（iron and steel industry Japan）
+- 文脈：製造業・素材
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 製造業に関する集計」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「. 本概況は、令和２（2020）年６月１日現在で実施した工業統計調査（以下「工業統計」という」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「おける 「工業調査票甲」 及び 「工業調査票乙」 の従業者４人以上の事業所について集計、 分析したも」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「. 平成２９年工業統計において、 調査日を６月１日 （従前は１２月３１日） に変更したため、 事業所数、」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「従業者数については平成２９年以降は同じ年の６月１日現在、 現金給与総額、 製造品出荷額等、 付加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「1) 「平成２３年」 、「平成２４年」 、「平成２７年」及 び「平成２８年」 の数値は経済センサス‐活動」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「2) 工業統計結果の事業所数及び従業者数の 「平成２９年」以降の数値は、 表示年次の６月１日現在、」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「X」 は、 集計対象となる事業所が１又は２であるため、 これをそのまま掲げると個々の報告者の秘」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「また、 集計対象が３以上の事業所に関する数値で」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「■工業の業種別実態（従業者4人以上の事業所） (各年12月31日現在 単位：万円・人）」（https://www.city.takeo.lg.jp/toukei/h30/09kougyou.pdf）
+  - 「経済センサス産業分類(平成26年経済センサス－基礎調査) 製造業 鉄鋼業 その他の鉄鋼業 | 詳細情報 | 政府統計の総合窓口」（https://www.e-stat.go.jp/classifications/terms/80/03/229）
+- 増減・推移：
+  - 「有形固定資産額_建設仮勘定_Ｃ増加額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_建設仮勘定_Ｄ減少額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_Ｅ除却・売却による減少額_土地【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_Ｅ除却・売却による減少額_土地以外のもの【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「更に令和元年が秘匿する必要がない箇所でも、増減 比較をする対象年次が秘匿であった場」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「合、前年比を「X」とした」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「第１図 従業者数 、製造品出荷額等の推移」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「第１表 主要項目の推移」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「前年比 前年比 前年比 前年比」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「② 構成比の前年からの変化は、金属製品製造業が 0.2％ポイント増加、食料品製造業が 0.2％ポ」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「イントの減少、 生産用機械器具製造業が0.0％ポイントの横ばい、 プラスチック製品製造業が0.1」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「％ポイント増加、繊維工業が 0.2％ポイント減少（第２図、統計表 第２表）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「第２図 事業所数 の上位産業の 推移」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「が 0.3％ポイント減少、生産用機械器具製造業が 0.1％ポイント増加、金属製品製造業が 0.0％」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「第３図 従業者数 の上位産業の 推移」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+- 需要が増えるか：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_製造品出荷額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_加工賃収入額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_くず廃物の出荷額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_その他収入額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「生産額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_建設仮勘定_Ｃ増加額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「従業者数については平成２９年以降は同じ年の６月１日現在、 現金給与総額、 製造品出荷額等、 付加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「) 製造品出荷額等 ＝ 製造品出荷額 ＋ 製造工程から出たくず及び廃物の出荷額＋ 加工賃収入」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「) 付加価値額 ＝ 製造品出荷額等 ＋（製造品年末在庫額 － 製造品年初在庫額）＋（半製品及び」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「) 粗付加価値額 ＝ 製造品 出荷額等－ （ 推計酒税、 たばこ税、 揮発油税及び地方揮発油税額 ＋ 推」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「. 製造品出荷額等などの経理事項については、 原則消費税込みで把握しているが、 一部の消費税抜きの」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+- 働き手が減るか（人手不足）：
+  - 「採用担当者必見！有効求人倍率の見方と実践的な活用法 | 協和工業株式会社」（https://kyouwakougyou.jp/?p=758）
+  - 「採用担当者必見！有効求人倍率の見方と実践的な活用法」（https://kyouwakougyou.jp/?p=758）
+  - 「はじめに：なぜ「有効求人倍率」を知ることが大切なのか」（https://kyouwakougyou.jp/?p=758）
+  - 「有効求人倍率」（https://kyouwakougyou.jp/?p=758）
+  - 「有効求人倍率は厚生労働省が毎月発表するデータで、」（https://kyouwakougyou.jp/?p=758）
+  - 「「労働市場における人手不足・余剰の状況」」（https://kyouwakougyou.jp/?p=758）
+  - 「本記事では、有効求人倍率の意味や見方、中小企業の採用戦略にどう役立つのかを、体験談や具体例を交えながら解説していきます」（https://kyouwakougyou.jp/?p=758）
+  - 「有効求人倍率とは？」（https://kyouwakougyou.jp/?p=758）
+  - 「まず、釈迦に説法かとは思いますが改めて有効求人倍率がどのようなものか整理しておきましょう」（https://kyouwakougyou.jp/?p=758）
+  - 「有効求人倍率とは、」（https://kyouwakougyou.jp/?p=758）
+  - 「有効求人数÷有効求職者数＝「有効求人倍率」」（https://kyouwakougyou.jp/?p=758）
+  - 「1.0倍以上 → 求人が多く、人手不足」（https://kyouwakougyou.jp/?p=758）
+  - 「今後、人口減少や高齢化が進む中で、日本」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「鈍いことから、欠員と失業が併存する不均衡が続いて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-３ 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/classifications/terms/80/03/229）
+  - 「信頼度が高く、マッチング精度も良い」（https://kyouwakougyou.jp/?p=758）
+  - 「専任の担当者がご相談から契約・人材マッチング・就業後のフォローまで丁寧にサポートいたします」（https://kyouwakougyou.jp/?p=758）
+  - 「ある製品・サービス分野で国際的に高いシェアを持っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「狭い市場で高いシェアを誇っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「主に大手空調機器メーカーから、部品などの」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「そこで、押谷社長はこうした問題を解決しようと、受発注と連携して現場に情報を流す「進捗管理シス」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「一般的に、暖房機器や加湿器は、季節商品であるため冬季に需要が高くなり、天候によっても受発注が」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「ス部門は国内トップシェアを誇る」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「受発注から製造ラインの稼働状況、機械トラブルや保全状況などを一元的に管理するこ」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「続きにおいてもデジタル化したことで、受発注の管理や経理処理などのデータ入力作業や確認作業などが」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「鉄鋼市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/steel-market）
+  - 「鉄鋼市場規模、シェア、トレンド分析レポート：製品タイプ別（平鋼、長尺鋼）、製法別（転炉（BOF）、電気炉（EAF））、鋼種別（炭素鋼、ステンレス鋼、合金鋼、工具鋼）、エンドユーザー別（建築・建設、自動車、エネルギー、機械・設備、造船、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/steel-market）
+  - 「鉄鋼市場の規模、シェア、成長分析」（https://straitsresearch.com/jp/report/steel-market）
+- 取引のやり方・不便：
+  - 「2020000000_2020_1400_パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1420_紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1421_洋紙・機械すき和紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1422_板紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1424_手すき和紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1430_加工紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1431_塗工紙製造業（印刷用紙を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1433_壁紙・ふすま紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1440_紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1441_事務用・学用紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1442_日用紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1449_その他の紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「14 パルプ・紙・紙加工品製造業 パルプ紙 26 生産用機械器具製造業 生産用機械」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 5,365 ▲ 2.8 2.9 5,338 ▲ 0.5 2.9」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 187,035 0.2 2.4 187,842 0.4 2.4」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+- 払う単価の手がかり：
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する基本給、諸手当と特別に支払われた給与（期末賞与等）の額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する退職金又は解雇予告手当、出向受入者に係る支払額、臨時雇用者給与、送出者負担額など【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_派遣受入者に係る人材派遣会社への支払額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_原材料使用額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_燃料使用額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_電力使用額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_委託生産費（外注加工費）【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_製造等に関連する外注費【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_転売した商品の仕入額 【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「関連する外注費 ＋ 転売した商品の仕入額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「（百万円） （％） （百万円） （％） （百万円） （％）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「産 業 （百万円） （％） （％） （百万円） （％） （％）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+- 検索結果の抜粋：
+  - 「日本 鉄鋼業 の概要と動向～21世紀の動向を中心に - 日本機械学会 — 日本 鉄鋼業 の概要と動向～21世紀の動向を中心に - 日本機械学会 一般社団法人 日本機械学会 https://www.jsme.or.jp > kaisi」（https://www.jsme.or.jp/kaisi/1239-06/）
+
+## 非鉄金属製造業（non-ferrous metal manufacturing Japan）
+- 文脈：製造業・素材
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 地域編 7 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 製造業に関する集計」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「令和3経済センサス－活動調査 製造業（産業分類別・事業所数・従業者数・出荷額等）」（https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf）
+  - 「※従業者４人以上の事業所」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「令和３年は、個人経営の事業所は含まない」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「６－１ 産業中分類別、従業者数等 (従業者４人以上の事業所)」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「６－２ 従業者規模別事業所数等 (従業者４人以上の事業所)」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「（注）・令和元年及び令和２年は工業統計調査、令和３年は経済センサス‐活動調査」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「・令和３年は、経済センサス‐活動調査の調査票情報を綾瀬市が独自に集計したものです」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「（調査基準日：各年６月１日・工業統計調査、経済センサス‐活動調査）」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「６－３ 産業中分類、産業別総括表 (従業者４人以上の事業所)」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「・「現金給与額」の「常用労働者」には、２９人以下の事業所の「その他」の金額が含まれています」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+- 増減・推移：
+  - 「型種別生産金額推移表」（https://www.jdmia.or.jp/toukei/）
+  - 「金型生産額推移表」（https://www.jdmia.or.jp/toukei/）
+  - 「貿易統計（主要国別輸出入 月間金額推移）」（https://www.jdmia.or.jp/toukei/）
+  - 「伴い、休業や生産の減少に伴う人員調整や経営の悪化」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「今後、人口減少や高齢化が進む中で、日本」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「り、 2019年は2.2％～2.5％で推移し、 年平均で2.4％」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「364 万人を記録した後、以降は次第に減少し、2019」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「年 12 月には 152 万人となり減少傾向で推移してい」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「月に続き増加している（図 211-１）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-２ 構造的・摩擦的失業率、需要不足失業率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-１ 完全失業率（季節調整値）及び完全失業者数（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-３ 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-４ 職業別の有効求人倍率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「たことから、求人数の減少を通じて有効求人倍率が低」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「前月につづいて減少している」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+- 需要が増えるか：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 地域編 7 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等及び付加価値額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「製造品出荷額等【万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「令和3経済センサス－活動調査 製造業（産業分類別・事業所数・従業者数・出荷額等）」（https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf）
+  - 「計 製造品出荷額 加工賃収入額 くず・廃物の出荷額 その他の収入額」（https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf）
+  - 「製造品出荷額等」（https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf）
+  - 「事業所数 従業者数 現金給与総 額 原材料使用額等 製造品出荷額等 付 加価値額 事業所数」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「従業者数 現金給与総 額 原材料使用額等 製造品出荷額等 付 加価値額 事業所数 従業者数 現金給与総 額 原材料使用額等 製造品出荷額等 付 加価値額」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「製造品 半製品仕掛品 原材料燃料 総額 製造品出荷額 加工賃収入額 その他収入額」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「製造品出荷額等」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「生産額 付加価値額 粗付加価値額」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「すなわち、金型の製造を営んでいる事業所であっても、金型以外の製造品が主力であれば、金型以外の製造業として分類、集計されてしまい、実際に金型の生産額が存在していてもその分は金型以外の主力製品として集計されます」（https://www.jdmia.or.jp/toukei/）
+  - 「一方、品目別は総ての調査対象事業所の製造品及び加工品を品目別に集計したものであり、主力が金型以外の製造品であっても金型の生産がおこなわれていれば金型の生産額は金型の1事業所の生産額として集計されます」（https://www.jdmia.or.jp/toukei/）
+  - 「金型生産額推移表」（https://www.jdmia.or.jp/toukei/）
+- 働き手が減るか（人手不足）：
+  - 「今後、人口減少や高齢化が進む中で、日本」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「鈍いことから、欠員と失業が併存する不均衡が続いて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-３ 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-４ 職業別の有効求人倍率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「有効求人倍率（季節調整値）は上昇し 2018 年８」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「たことから、求人数の減少を通じて有効求人倍率が低」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「職業別に有効求人倍率」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「をみると、生産工程の職業の有効求人倍率は、職業計」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「産業で、人手不足感がみられる」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「年第３四半期にマイナス 1.8 と人手不足感に転じて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「（２）就業者数及び雇用者の動向」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「国内の製造業就業者数については、2002年の」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「6月の有効求人倍率1.18倍に上昇、完全失業率は2.5％で横ばい―半導体関連の製造業で求人堅調 — BigGo ファイナンス」（https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735）
+  - 「6月の有効求人倍率1.18倍に上昇、完全失業率は2.5％で横ばい―半導体関連の製造業で求人堅調」（https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735）
+  - 「厚生労働省と総務省が31日に発表した6月の雇用統計で、有効求人倍率（季節調整値）は1.18倍と前月から0.01ポイント上昇した」（https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「企業マッチング」（https://www.jdmia.or.jp/toukei/）
+  - 「ある製品・サービス分野で国際的に高いシェアを持っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「狭い市場で高いシェアを誇っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「主に大手空調機器メーカーから、部品などの」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「そこで、押谷社長はこうした問題を解決しようと、受発注と連携して現場に情報を流す「進捗管理シス」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「一般的に、暖房機器や加湿器は、季節商品であるため冬季に需要が高くなり、天候によっても受発注が」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「ス部門は国内トップシェアを誇る」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「受発注から製造ラインの稼働状況、機械トラブルや保全状況などを一元的に管理するこ」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「続きにおいてもデジタル化したことで、受発注の管理や経理処理などのデータ入力作業や確認作業などが」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「⚫ 我が国企業の世界シェアが低下した分野（例：電気機器）であっても、それを構成する部」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf）
+  - 「No. 企業名 生産能力※ シェア」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf）
+  - 「⚫ 半導体素材であるポリシリコン、シリコンウェーハについては日本企業が高い市場シェア」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf）
+  - 「＜ポリシリコン・シリコンウェーハの日本企業シェア＞」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf）
+  - 「シリコンウェーハのシェア」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/012_s01_00.pdf）
+- 取引のやり方・不便：
+  - 「2020000000_2020_01_北海道_1421_洋紙・機械すき和紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「2020000000_2020_01_北海道_1422_板紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「2020000000_2020_01_北海道_1441_事務用・学用紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「2020000000_2020_01_北海道_1442_日用紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「2020000000_2020_01_北海道_1449_その他の紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「2020000000_2020_01_北海道_1451_重包装紙袋製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「2020000000_2020_01_北海道_1452_角底紙袋製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「2020000000_2020_01_北海道_1454_紙器製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「2020000000_2020_01_北海道_1499_その他のパルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「2020000000_2020_01_北海道_1511_オフセット印刷業（紙に対するもの）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「2020000000_2020_01_北海道_1512_オフセット印刷以外の印刷業（紙に対するもの）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「2020000000_2020_01_北海道_1513_紙以外の印刷業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「14 パルプ・紙・紙加工品製造業 6 572 2,598 15,067 18,657 2,658 6」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 4 225 157 29 19 15 1 -」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 154 77 1,227 254 112 19 123 258」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+- 払う単価の手がかり：
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額【万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「原材料・燃料・電力の使用額等【万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「製造品出荷額等【万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「付加価値額（従業者29人以下は粗付加価値額）【万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&iroha=9&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&result_page=1&tclass4val=0&statdisp_id=0004004011）
+  - 「（従業員4人以上の事務所）（単位：所，人，万円）」（https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf）
+  - 「人 百万円 百万円 百万円 百万円」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「人 百万円 百万円 百万円 百万円 人 百万円 百万円 百万円 百万円」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「百万円 百万円 百万円 百万円 百万円 百万円 百万円 百万円」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「「委託生産費」「製造等に関連する外注費」「転売した商品の仕入額」の金額が含まれています」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「人 人 人 人 百万円 百万円 百万円 百万円 百万円 百万円 百万円」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「百万円 百万円 百万円 百万円 百万円 百万円 百万円 百万円 百万円 百万円 百万円」（https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf）
+  - 「年間で 11.6％減少しており、全産業に占める製造」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「と、５年間で約 1.6 倍となっており、産業全体にお」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「また、日本の平均年間総実労働時間（就業者）を」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 214-４ 一人当たり平均年間総実労働時間推移の国際比較（全就業者）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+- 検索結果の抜粋：
+  - 「非鉄金属業界 の 市場規模 の 推移 | 1948〜2024年 — 非鉄金属業界 の 市場規模 の 推移 | 1948〜2024年 The社史 https://the-shashi.com > 業界別市場規模」（https://the-shashi.com/market/nonferrous/）
+  - 「非鉄金属業界 の動向や現状、ランキングなど — 非鉄金属業界 の動向や現状、ランキングなど 業界動向サーチ https://gyokai-search.com > 3-hitetu」（https://gyokai-search.com/3-hitetu.html）
+  - 「非鉄金属 市場 | 市場規模 成長性 産業動向 予測 2026-2034年 ... — 非鉄金属 市場 | 市場規模 成長性 産業動向 予測 2026-2034年 ... グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > 金属」（https://www.gii.co.jp/report/imarc1987527-non-ferrous-metals-market-size-share-trends.html）
+  - 「非鉄金属 の加工エキスパート 株式会社 松井製作所原価計算と ... — 非鉄金属 の加工エキスパート 株式会社 松井製作所原価計算と ... matsui-ss.com https://matsui-ss.com > blog003」（https://matsui-ss.com/blog003）
+
+## 金属製品製造業（fabricated metal products manufacturing Japan）
+- 文脈：製造業・素材
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数14 産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「2022年経済構造実態調査の製造業に関する結果を取りまとめました（METI/経済産業省）」（https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html）
+  - 「2022年経済構造実態調査の製造業に関する結果を取りまとめました」（https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html）
+  - 「この度、2022年6月に実施した「経済構造実態調査製造業事業所調査」の結果を取りまとめました」（https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html）
+  - 「1．経済構造実態調査製造業事業所調査に関する結果について」（https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html）
+  - 「製造業に関する結果は、「2022年経済構造実態調査」の調査結果のうち、製造業事業所について集計したものです」（https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html）
+  - 「（1）事業所数及び従業者数」（https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html）
+  - 「2022年6月1日時点の事業所数は22万2770事業所、従業者数は771万4495人となっています」（https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html）
+  - 「このうち、事業所数を産業中分類別にみると、「金属製品製造業」が製造業計の13.8%と最も多く、次いで「食料品製造業」が11.1%、「生産用機械器具製造業」が10.5%などとなっています」（https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html）
+  - 「一方、従業者数を産業中分類別にみると、「食料品製造業」が製造業計の14.3%と最も多く、次いで「輸送用機械器具製造業」が13.4%、「生産用機械器具製造業」が8.6%などとなっています」（https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html）
+  - 「１：製造業事業所調査」（https://www.jdmia.or.jp/toukei/）
+- 増減・推移：
+  - 「型種別生産金額推移表」（https://www.jdmia.or.jp/toukei/）
+  - 「金型生産額推移表」（https://www.jdmia.or.jp/toukei/）
+  - 「貿易統計（主要国別輸出入 月間金額推移）」（https://www.jdmia.or.jp/toukei/）
+  - 「しかし、少子高齢化による労働人口の減少や熟練者の退職などで人手不足問題が深刻化しており、残業時間の増加や生産性の低下などの問題を引き起こしています」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「労働力の減少による生産性低下が進めば、業績も不安定になり、さらに人手不足を加速させる可能性があります」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「製造業の就業者数が20年間で123万人減少」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「少子高齢化による生産年齢人口の減少」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「一方、企業は自社に適した人材を見つけにくくなり、採用数も減少するのが特徴です」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「経済産業省の「2024年版ものづくり白書」によると、非製造業の就業者数は2003年から2023年の20年間で554万人増加している一方、製造業の就業者数は123万人減少しています」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「直近の2022年から2023年にかけては、製造業の就業者数が11万人増加し、全産業に占める製造業の就業者数の割合も0.1%上昇してます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「しかし、20年間にわたり低下傾向で推移していることを踏まえると、今後も数値が減少する可能性は十分にあるといえます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「製造業における就業者数を詳しく見ると、若年就業者（34歳以下）数の減少と、高齢就業者（65歳以上）数の増加が同時に進行していることがわかります」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「経済産業省の「2024年版ものづくり白書」では、若年就業者数が2003年から2023年の20年間で102万人減少しており、高齢就業者数が30万人増加していることが明らかになりました」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「高齢就業者数は減少傾向を示しており、熟練者の退職による技術伝承の不足が懸念されます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「上記から、製造業では減少傾向にある若年層の人材確保はもちろん、若手のスキルアップに向けた教育体制の整備にも力を入れる必要があるといえます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+- 需要が増えるか：
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「製造品出荷額等の都道府県別順位」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「（2）製造品出荷額等及び付加価値額」（https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html）
+  - 「2021年の製造品出荷額等は330兆2200億円、付加価値額は106兆6140億円となっています」（https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html）
+  - 「このうち、製造品出荷額等を産業中分類別にみると、「輸送用機械器具製造業」が製造業計の19.1%と最も多く、次いで「化学工業」が9.6%、「食料品製造業」が9.1%などとなっています」（https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html）
+  - 「すなわち、金型の製造を営んでいる事業所であっても、金型以外の製造品が主力であれば、金型以外の製造業として分類、集計されてしまい、実際に金型の生産額が存在していてもその分は金型以外の主力製品として集計されます」（https://www.jdmia.or.jp/toukei/）
+  - 「一方、品目別は総ての調査対象事業所の製造品及び加工品を品目別に集計したものであり、主力が金型以外の製造品であっても金型の生産がおこなわれていれば金型の生産額は金型の1事業所の生産額として集計されます」（https://www.jdmia.or.jp/toukei/）
+  - 「金型生産額推移表」（https://www.jdmia.or.jp/toukei/）
+  - 「令和3経済センサス－活動調査 製造業（産業分類別・事業所数・従業者数・出荷額等）」（https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf）
+  - 「計 製造品出荷額 加工賃収入額 くず・廃物の出荷額 その他の収入額」（https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf）
+  - 「製造品出荷額等」（https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf）
+  - 「製造業は我々の生活に欠かせない製品を数多く生み出し、日本の経済成長を支える重要な役割を果たす産業です」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「しかし、少子高齢化による労働人口の減少や熟練者の退職などで人手不足問題が深刻化しており、残業時間の増加や生産性の低下などの問題を引き起こしています」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「採用枠の拡大で人材を増やす」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「経済産業省の「2024年版ものづくり白書」によると、非製造業の就業者数は2003年から2023年の20年間で554万人増加している一方、製造業の就業者数は123万人減少しています」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+- 働き手が減るか（人手不足）：
+  - 「なぜ製造業で人手不足が起きるのか？データを基に原因と解決策を紹介 ｜現場と人」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「なぜ製造業で人手不足が起きるのか？データを基に原因と解決策を紹介」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「しかし、少子高齢化による労働人口の減少や熟練者の退職などで人手不足問題が深刻化しており、残業時間の増加や生産性の低下などの問題を引き起こしています」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「労働力の減少による生産性低下が進めば、業績も不安定になり、さらに人手不足を加速させる可能性があります」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「製造業における人手不足の問題を解消するには、従業員にとって働きやすい環境を整えつつ、採用の幅を広げて新たな人材を確保することが重要です」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「そこで本記事では、製造業における人手不足の実態や原因、解決策、デジタルツールの活用で人手不足の解消に成功した企業の事例を解説します」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「【データ別】製造業における人手不足の実態」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「有効求人倍率は平均よりも高い傾向」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「製造業の就業者数が20年間で123万人減少」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「若者離れと高齢化が同時に進行」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「製造業で人手不足が起きる原因」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「少子高齢化による生産年齢人口の減少」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説 | ウィルオブ採用ジャーナル」（https://willof-work.co.jp/journal/14513/）
+  - 「【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説」（https://willof-work.co.jp/journal/14513/）
+  - 「最新データからみる製造業の人手不足の現状」（https://willof-work.co.jp/journal/14513/）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「企業マッチング」（https://www.jdmia.or.jp/toukei/）
+  - 「この記事をシェア」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「EV（電気自動車）シフトやCASE（コネクテッド・自動運転・シェアリング・電動化）の波により、従来の内燃機関関連の技術から電子制御・ソフトウェアを組み合わせた新たな技術へのシフトが急務となっています」（https://willof-work.co.jp/journal/14513/）
+  - 「中小企業の割合が高く、大手企業に比べて給与水準や福利厚生で劣後することも多いため、採用競争力が低くなりやすい構造的な問題があります」（https://willof-work.co.jp/journal/14513/）
+  - 「製造業特化の求人サイト、地域の無料媒体であるハローワーク、SNSを使った採用広報（採用インスタグラム・Xなど）、動画での工場見学コンテンツの発信など、ターゲット層に合わせた多様なチャネルを組み合わせることが人材確保につながります」（https://willof-work.co.jp/journal/14513/）
+  - 「購買管理プラットフォーム」（https://www2.biznet.co.jp/column/1538/）
+  - 「今回は、購買管理システムの概要を紹介した上で、購買管理システムの世界的なシェアや種類についても解説します」（https://www2.biznet.co.jp/column/1538/）
+  - 「購買管理プラットフォーム導入事例 小田急電鉄株式会社様」（https://www2.biznet.co.jp/column/1538/）
+  - 「製造業の人手不足対策に！間接材の購買業務を効率化できる「購買管理プラットフォーム」」（https://www2.biznet.co.jp/column/1538/）
+  - 「間接材の購買業務の効率化を図るなら、間接材購買に特化した購買管理システム「購買管理プラットフォーム」の導入を検討してみてはいかがでしょうか」（https://www2.biznet.co.jp/column/1538/）
+  - 「「購買管理プラットフォーム」には、以下のような特徴があります」（https://www2.biznet.co.jp/column/1538/）
+  - 「上記のとおり、「購買管理プラットフォーム」では、最安値商品のスムーズな検索や自社ルールに合わせた設定などが可能です」（https://www2.biznet.co.jp/column/1538/）
+  - 「ビズネットの「購買管理プラットフォーム」で製造業の業務効率化を実現！」（https://www2.biznet.co.jp/column/1538/）
+  - 「社内DXの一環として、バックオフィス業務の改善に注力したいという方は、ビズネットの購買管理システム「購買管理プラットフォーム」の導入をご検討ください」（https://www2.biznet.co.jp/column/1538/）
+- 取引のやり方・不便：
+  - 「パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「職業紹介・労働者派遣業」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「電話：03-3501-1511（内線 2894）」（https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html）
+  - 「その他の5種類統計分類は「化学工業統計」、「資源・窯業・建材統計」、「繊維・生活用品統計」「紙・印刷・プラスチック製品・ゴム製品統計」、「鉄鋼・非鉄金属・金属製品統計」となります」（https://www.jdmia.or.jp/toukei/）
+  - 「TEL：03-5816-5911 FAX：03-5816-5913」（https://www.jdmia.or.jp/toukei/）
+  - 「なぜ製造業で人手不足が起きるのか？データを基に原因と解決策を紹介 ｜現場と人」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「なぜ製造業で人手不足が起きるのか？データを基に原因と解決策を紹介」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「紙帳票のデジタル化で毎月の業務時間を約100時間カット」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「厚生労働省の「一般職業紹介状況(令和6年11月分)」によると、」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「一般職業紹介状況（令和6年11月分）参考統計表｜厚生労働省」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「デジタル化の具体的な方法には、紙の帳票やマニュアルのペーパーレス化、IoT機器の導入によるデータの見える化、ロボットの導入による製造工程の自動化などが挙げられます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「そこで、比較的短期間での成果が見込めるデジタルツールを導入した企業の成功事例を紹介します」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「では、現場にアナログな業務が根強く残っており、水産加工食品の製造部門では、品質管理におけるほぼすべての業務が紙の帳票で行われていました」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「現場には「管理は紙を使うもの」という固定概念があったため、はじめは導入に苦労しました」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「今後は紙の帳票のデジタル化だけでなく、カミナシに搭載されている集計・報告機能の活用で、さらに現場の業務効率化を進める予定です」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+- 払う単価の手がかり：
+  - 「（従業員4人以上の事務所）（単位：所，人，万円）」（https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf）
+  - 「製造業の就業者数が20年間で123万人減少」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「経済産業省の「2024年版ものづくり白書」によると、非製造業の就業者数は2003年から2023年の20年間で554万人増加している一方、製造業の就業者数は123万人減少しています」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「しかし、20年間にわたり低下傾向で推移していることを踏まえると、今後も数値が減少する可能性は十分にあるといえます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「経済産業省の「2024年版ものづくり白書」では、若年就業者数が2003年から2023年の20年間で102万人減少しており、高齢就業者数が30万人増加していることが明らかになりました」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「特に現場での活躍が期待される25〜44歳の人口は、10年間で574万人減少しています」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「デジタル化を推進するにあたり、ツールやシステムの導入・運用コストはかかるものの、ムダなコストの削減や品質の安定化による顧客満足度の向上など、長期的に見ると高い費用対効果が期待できます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「厚生労働省・経済産業省・文部科学省が共同発表する「ものづくり白書」によれば、製造業の就業者数は2002年から約20年間で157万人減少しています」（https://willof-work.co.jp/journal/14513/）
+  - 「求人媒体の掲載費用、人材紹介会社へのフィー（成功報酬型では年収の30〜35%程度）、内定辞退を見越した多めの採用活動費——これらのコストは製造業、特に体力の限られた中小企業にとって大きな負担となっています」（https://willof-work.co.jp/journal/14513/）
+  - 「製造業の人手不足解消において、職場環境の改善への投資は最も費用対効果の高い施策の一つといえます」（https://willof-work.co.jp/journal/14513/）
+  - 「2003年時点では就業者数が1,178万人であったため、20年間で123万人減少していることになります」（https://www2.biznet.co.jp/column/1538/）
+  - 「導入にかかる費用は基本無料」（https://www2.biznet.co.jp/column/1538/）
+  - 「導入費用は基本無料で、自社のニーズに合わせたさまざまな機能をご活用いただけます」（https://www2.biznet.co.jp/column/1538/）
+  - 「購買管理システムの費用相場は?初期費用・月額・内訳を解説」（https://www2.biznet.co.jp/column/1538/）
+  - 「エネルギーコストもまた重要な投入費用であり、電力や天然ガスの価格は、熱処理、溶接、表面仕上げ作業を含む製造プロセス全体の運営経済性に影響を及ぼしている」（https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market）
+- 検索結果の抜粋：
+  - 「加工 金属製品市場 成長レポート2031 - Mordor Intelligence — 加工 金属製品市場 成長レポート2031 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/global-fabricated-metal-products-market）
+  - 「金属 加工業の マッチング サイト10選を徹底比較！受注拡大と ... — 金属 加工業の マッチング サイト10選を徹底比較！受注拡大と ... キャククル https://www.shopowner-support.net > metalprocessing」（https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/）
+
+## はん用機械器具製造業（general-purpose machinery manufacturing Japan）
+- 文脈：製造業・機械
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数14 産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「令和 3 年経済センサス‐活動調査」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「１．産業別の状況（全事業所） .............................................. 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 産業中分類別事業所数及び従業者数 .................................... 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「２．品目別の状況（全事業所） .............................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 品目別産出事業所数 .................................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和 3 年経済センサス‐活動調査の概要 ...................................... 6」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「１．「令和3年経済センサス‐活動調査 産業別集計（製造業に関する集計）」（以下「産業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「）は、製造業について「令和3年経済センサス‐活動調査」」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「経済センサス‐活動調査 平成24年経済センサス‐活動調査 産業編 3-19 産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「平成24年経済センサス‐活動調査」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+- 増減・推移：
+  - 「(2) 建設仮勘定の増加額及び減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(3) 有形固定資産の除却・売却による減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 年末現在高＝年初現在高＋取得額－除却・売却による減少額－減価償却額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 建設仮勘定の年間増減＝増加額－減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ウ 投資総額＝取得額＋建設仮勘定の年間増減」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「世界各国では今、新型コロナウイルスの感染拡大に伴い、休業や生産の減少に伴う人員調整や経営の悪化に伴う労働者の解雇が生じている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「今後、人口減少や高齢化が進む中で、日本の経済が成長していくためには、女性、高齢者など、多様な人材が就労に参加し、その能力を発揮して活躍できるようにするとともに、グローバル化の流れの中で、外国人労働力も活用しつつも、国内人材の確保と育成に取り組む必要がある」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「完全失業率（季節調整値）は、2009年７月に過去最高に並ぶ5.5％を記録した後、徐々に低下しており、2019年は2.2％～2.5％で推移し、年平均で2.4％と、前年と同水準にとどまった」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「また、完全失業者数（季節調整値）も、2009年７月に過去最高水準の364万人を記録した後、以降は次第に減少し、2019年12月には152万人となり減少傾向で推移しているが、2020年２月には166万人となっており、前月に続き増加している（図211-１）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「図211-１ 完全失業率（季節調整値）及び完全失業者数（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「図211-２ 構造的・摩擦的失業率、需要不足失業率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「加えて、2020年からは、ハローワークの求人票の記載項目が拡充され、一部に求人の提出を見送る動きがあったことから、求人数の減少を通じて有効求人倍率が低下したこともあり、同年２月は1.45倍となっており、前月につづいて減少している」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「図211-３ 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+- 需要が増えるか：
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「製造品出荷額等の都道府県別順位」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「・製造品目別に出荷額が得られた事業所であること」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「６．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「よる調査分を含んだ集計結果であるのに対し、製造品出荷額等、品目別出荷金額、付加」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「調査結果のうち、製造品出荷額等、品目別出荷金額、付加価値額については、表示年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（製造品出荷額等、品⽬別出荷⾦額、 付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「－ 製造品出荷額等と付加価値額が最も多いのは共に輸送用機械器具製造業 －」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（60 兆 2308」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「第 2 表 産業中分類別製造品出荷額等及び付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「経済センサス‐活動調査 平成24年経済センサス‐活動調査 産業編 3-19 産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+- 働き手が減るか（人手不足）：
+  - 「今後、人口減少や高齢化が進む中で、日本の経済が成長していくためには、女性、高齢者など、多様な人材が就労に参加し、その能力を発揮して活躍できるようにするとともに、グローバル化の流れの中で、外国人労働力も活用しつつも、国内人材の確保と育成に取り組む必要がある」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「これは労働市場の効率性が改善し、均衡失業率そのものが低下したと考えられる一方で、均衡失業率の低下が鈍いことから、欠員と失業が併存する不均衡が続いていることが示唆される（図211-２）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「有効求人倍率（季節調整値）は上昇し2018年８月には1.63倍となり、平成において過去最高値となっていたが、2019年後半からは米中貿易摩擦に伴う中国経済の減速の結果、製造業の生産活動が弱まったことなどの影響を受け、低下傾向となっている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「加えて、2020年からは、ハローワークの求人票の記載項目が拡充され、一部に求人の提出を見送る動きがあったことから、求人数の減少を通じて有効求人倍率が低下したこともあり、同年２月は1.45倍となっており、前月につづいて減少している」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「職業別に有効求人倍率をみると、生産工程の職業の有効求人倍率は、職業計に比べ2020年２月において0.17ポイント高くなっているが、その差は前月と比較して大きくなっている（図211-３）（図211-４）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「図211-３ 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「図211-４ 職業別の有効求人倍率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「産業別の従業員数における過不足状況では、幅広い産業で、人手不足感がみられる」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「中小製造業も2013年第３四半期にマイナス1.8と人手不足感に転じて以降、マイナス幅の拡大を続け、2019年第１四半期にはマイナス21.4となっており、人材不足感が続いていた（図211-５）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「（２）就業者数及び雇用者の動向」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「国内の製造業就業者数については、2002年の1,202万人から2019年には1,063万人と、20年間で11.6％減少しており、全産業に占める製造就業者の割合も2002年の19.0％から2019年の15.8％に減少している（図212-１）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「さらに、製造業の若年就業者数についても、減少が続いているが、近年の好景気に伴い、2015年からやや増加傾向である（図212-２）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「既存の設備についても稼働率を確認し、生産性の向上や人手不足解消が図られているかなど、投資の「量」だ」（https://www.riskmonster.co.jp/study/report/pdf/industryreport202411_2.pdf）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「販売先において、自社との取引シェアが高くなり過ぎると、自社が取引から撤退することが困難となる恐れ」（https://www.riskmonster.co.jp/study/report/pdf/industryreport202411_2.pdf）
+  - 「そのため、取引先の信用力（格付）に応じて取引シェアに上限を設けるべく、取引先が抱える買掛債」（https://www.riskmonster.co.jp/study/report/pdf/industryreport202411_2.pdf）
+  - 「小規模企業が多い斯業種に対して、販売先は大手自動車関連企業や機械器具製造業者、建設業者などである」（https://www.riskmonster.co.jp/study/report/pdf/industryreport202411_2.pdf）
+  - 「産業機械市場の規模・シェアレポート、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market）
+  - 「産業機械市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market）
+  - 「レポート形式: PDF/エクセル/ダッシュボード/プラットフォーム」（https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market）
+  - 「Deere & Companyは2025年に5%を超える市場シェアを獲得し、市場をリードしました」（https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market）
+  - 「これらの企業は、2025年に合計16%の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market）
+  - 「電子機器、食品加工、医薬品、自動車の各製造分野で自動化能力が増強され、ハードウェアとソフトウェアを統合したプラットフォームを提供する産業機械OEMへの安定した需要を生み出します」（https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market）
+  - 「これを受け、OEMには接続機能をオプションとして追加するのではなく、プラットフォームの段階で統合することが求められています」（https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market）
+  - 「これにより、設備の平均仕様が向上するとともに、物理的な機械と併せて統合運用データプラットフォームを提供できるOEMにとって、獲得可能な売上機会が拡大しています」（https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market）
+  - 「既存の大手サプライヤーは、この対応力を認定取得における優位性に変えられる一方、小規模メーカーが規制対象の高価格帯セグメントに参入するには、より長い期間と多額の費用を要する可能性がある」（https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market）
+  - 「世界の産業機械市場における稼働方式別売上高シェア（%）、2025年」（https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market）
+- 取引のやり方・不便：
+  - 「パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「職業紹介・労働者派遣業」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「1421 洋紙・機械すき和紙製造業 1421 洋紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「1423 機械すき和紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 紙パ 26 生産用機械器具製造業 生産」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 5,927 2.7 181,090 2.4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 71,245 2.3 22,455 2.3」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「－ 産出事業所数が最も多い品目は「オフセット印刷物（紙に対するもの）」 －」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「1 151111 オフセット印刷物（紙に対するもの) 8,414 東京 大阪 愛知」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「22 151311 紙以外のものに対する印刷物 1,673 東京 大阪 埼玉」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「・石炭製品の「ガソリン」（4 兆 1638 億円）、印刷・同関連品の「オフセット印刷物（紙に対」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「9 151111 オフセット印刷物（紙に対するもの) 2,602,796 東京 埼玉 大阪」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 名称及び電話番号」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+- 払う単価の手がかり：
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「次における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：出荷金額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（百万円） 第１位 第２位 第３位」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和 3 年経済センサス‐活動調査は、全産業分野の売上（収入）金額や費用などの経理項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「コ 企業全体の売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「コ 売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 年間商品販売額等」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 物品賃貸業のレンタル年間売上高及びリース年間契約高」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「キ 企業全体の売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「国内の製造業就業者数については、2002年の1,202万人から2019年には1,063万人と、20年間で11.6％減少しており、全産業に占める製造就業者の割合も2002年の19.0％から2019年の15.8％に減少している（図212-１）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「製造業における外国人労働者数は、平成27年には295,761人であったが、令和元年では483,278人と、５年間で約1.6倍となっており、産業全体においても、同様に増加傾向となっている（図212-３）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「また、日本の平均年間総実労働時間（就業者）を中期的にみると、1988年の改正労働基準法の施行を契機に労働時間は着実に減少を続け、1988年時点の2092時間から、2018年には1,680時間となっている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+
+## 生産用機械器具製造業（production machinery manufacturing Japan）
+- 文脈：製造業・機械
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 製造業に関する集計」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「令和3年 経済センサス-活動調査（確報）産業別集計「製造業」｜名古屋市公式ウェブサイト」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「令和3年 経済センサス‐活動調査結果」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「令和3年 経済センサス-活動調査（確報）産業別集計「製造業」」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「令和3年6月1日現在で実施された「令和3年 経済センサス-活動調査」の調査結果（確報）について、名古屋市の製造業にかかる集計がまとまりましたので、紹介します」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「令和4年12月26日国公表の「令和3年経済センサス-活動調査産業別集計（製造業）」の数値に一部誤りがあり、令和5年12月15日（金曜日）に再公表されました」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「令和3年経済センサス‐活動調査 正誤情報（総務省統計局へのリンク）」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「令和3年経済センサス‐活動調査 正誤情報（経済産業省へのリンク）」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「ここに掲載する統計表は、総務省・経済産業省「令和3年経済センサス-活動調査」の調査結果において、製造業に格付けされた事業所のうち以下の全てに該当する事業所について、経済産業省から提供を受けた調査票情報に基づき、「産業別集計（製造業）」として名古屋市が独自に集計したものです」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「令和3年経済センサス‐活動調査 産業別集計（製造業・詳細版） - 愛知県」（https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html）
+  - 「令和3年経済センサス‐活動調査 産業別集計（製造業・詳細版）」（https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html）
+- 増減・推移：
+  - 「有形固定資産額_建設仮勘定_Ｃ増加額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_建設仮勘定_Ｄ減少額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_Ｅ除却・売却による減少額_土地【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_Ｅ除却・売却による減少額_土地以外のもの【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「（参考）増減」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「前年比8.2％減少）で、1977」（https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html）
+  - 「利用上の注意、愛知県工業の位置及び推移、事業所数、従業者数、製造品出荷額等、付加価値額、現金給与額、原材料使用額等、市町村別の状況」（https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html）
+  - 「世界各国では今、新型コロナウイルスの感染拡大に伴い、休業や生産の減少に伴う人員調整や経営の悪化に伴う労働者の解雇が生じている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「今後、人口減少や高齢化が進む中で、日本の経済が成長していくためには、女性、高齢者など、多様な人材が就労に参加し、その能力を発揮して活躍できるようにするとともに、グローバル化の流れの中で、外国人労働力も活用しつつも、国内人材の確保と育成に取り組む必要がある」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「完全失業率（季節調整値）は、2009年７月に過去最高に並ぶ5.5％を記録した後、徐々に低下しており、2019年は2.2％～2.5％で推移し、年平均で2.4％と、前年と同水準にとどまった」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「また、完全失業者数（季節調整値）も、2009年７月に過去最高水準の364万人を記録した後、以降は次第に減少し、2019年12月には152万人となり減少傾向で推移しているが、2020年２月には166万人となっており、前月に続き増加している（図211-１）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「図211-１ 完全失業率（季節調整値）及び完全失業者数（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「図211-２ 構造的・摩擦的失業率、需要不足失業率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「加えて、2020年からは、ハローワークの求人票の記載項目が拡充され、一部に求人の提出を見送る動きがあったことから、求人数の減少を通じて有効求人倍率が低下したこともあり、同年２月は1.45倍となっており、前月につづいて減少している」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「図211-３ 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+- 需要が増えるか：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_製造品出荷額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_加工賃収入額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_くず廃物の出荷額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_その他収入額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「生産額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_建設仮勘定_Ｃ増加額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「区別の事業所数、従業者数、製造品出荷額等、付加価値額」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「製造品目別に出荷額が得られた事業所であること」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「また、令和2年1年間の製造品出荷額等は2兆9932億円、付加価値額は1兆915億円となっています」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「製造品出荷額等」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「（注2） 製造品出荷額等及び付加価値額は、令和3年は令和2年1年間、平成28年は平成27年1年間の数値である」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+- 働き手が減るか（人手不足）：
+  - 「就職・転職・離職」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「今後、人口減少や高齢化が進む中で、日本の経済が成長していくためには、女性、高齢者など、多様な人材が就労に参加し、その能力を発揮して活躍できるようにするとともに、グローバル化の流れの中で、外国人労働力も活用しつつも、国内人材の確保と育成に取り組む必要がある」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「これは労働市場の効率性が改善し、均衡失業率そのものが低下したと考えられる一方で、均衡失業率の低下が鈍いことから、欠員と失業が併存する不均衡が続いていることが示唆される（図211-２）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「有効求人倍率（季節調整値）は上昇し2018年８月には1.63倍となり、平成において過去最高値となっていたが、2019年後半からは米中貿易摩擦に伴う中国経済の減速の結果、製造業の生産活動が弱まったことなどの影響を受け、低下傾向となっている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「加えて、2020年からは、ハローワークの求人票の記載項目が拡充され、一部に求人の提出を見送る動きがあったことから、求人数の減少を通じて有効求人倍率が低下したこともあり、同年２月は1.45倍となっており、前月につづいて減少している」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「職業別に有効求人倍率をみると、生産工程の職業の有効求人倍率は、職業計に比べ2020年２月において0.17ポイント高くなっているが、その差は前月と比較して大きくなっている（図211-３）（図211-４）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「図211-３ 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「図211-４ 職業別の有効求人倍率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「産業別の従業員数における過不足状況では、幅広い産業で、人手不足感がみられる」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「中小製造業も2013年第３四半期にマイナス1.8と人手不足感に転じて以降、マイナス幅の拡大を続け、2019年第１四半期にはマイナス21.4となっており、人材不足感が続いていた（図211-５）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「（２）就業者数及び雇用者の動向」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「国内の製造業就業者数については、2002年の1,202万人から2019年には1,063万人と、20年間で11.6％減少しており、全産業に占める製造就業者の割合も2002年の19.0％から2019年の15.8％に減少している（図212-１）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「さらに、製造業の若年就業者数についても、減少が続いているが、近年の好景気に伴い、2015年からやや増加傾向である（図212-２）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html）
+  - 「製造現場の人手不足が慢性化し、いわゆる【2026年問題】として労働環境の大変革が目前に迫っています」（https://non-mainte.com/blog/1764）
+  - 「産業機械製造業界は、人手不足や働き方改革といった社会的要請に直面しています」（https://non-mainte.com/blog/1764）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「防災ポータル」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365）
+  - 「生産用機械器具製造業者の製品生産までの構造は、どの製品も概ね同様であり、大手機械器具製」（https://www.riskmonster.co.jp/study/report/pdf/industryreport201703.pdf）
+  - 「大手メーカーは、部」（https://www.riskmonster.co.jp/study/report/pdf/industryreport201703.pdf）
+  - 「品ごとに下請協力企業を有しており、下請けとなる中小企業においては、大手メーカー か らの受注に業」（https://www.riskmonster.co.jp/study/report/pdf/industryreport201703.pdf）
+  - 「かか る中で、一部の大手メーカーでは、工場を多 地域 に展開し製造を行う こ とで、」（https://www.riskmonster.co.jp/study/report/pdf/industryreport201703.pdf）
+  - 「大手企業では事業再編や合併が、中小企業で廃」（https://www.riskmonster.co.jp/study/report/pdf/industryreport201703.pdf）
+  - 「ザーの業 況悪 化に伴い、大手メーカーの受注が減少 し、下請け企業の業 績悪 化に繋がる」（https://www.riskmonster.co.jp/study/report/pdf/industryreport201703.pdf）
+  - 「特に、下請けの中小企業においては、大手メーカーの生産 状況 に影響を受けやす く 、受注が減」（https://www.riskmonster.co.jp/study/report/pdf/industryreport201703.pdf）
+  - 「大手企業は、AIやIoTを搭載した次世代装置の開発に注力し、業績も堅調です」（https://non-mainte.com/blog/1764）
+  - 「大手企業はグローバル展開と新技術開発でリード」（https://non-mainte.com/blog/1764）
+  - 「市場シェアや業績動向は、業界動向や株価銘柄としても注目されている」（https://non-mainte.com/blog/1764）
+  - 「産業機械市場の規模・シェアレポート、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market）
+  - 「産業機械市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market）
+- 取引のやり方・不便：
+  - 「2020000000_2020_1400_パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1420_紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1421_洋紙・機械すき和紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1422_板紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1424_手すき和紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1430_加工紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1431_塗工紙製造業（印刷用紙を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1433_壁紙・ふすま紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1440_紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1441_事務用・学用紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1442_日用紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1449_その他の紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「令和3年6月1日現在で実施された「令和3年 経済センサス-活動調査」の調査結果（確報）について、名古屋市の製造業にかかる集計がまとまりましたので、紹介します」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「パルプ・紙・紙加工品」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「電話番号：052-972-2254 ファクス番号：052-972-4114」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+- 払う単価の手がかり：
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する基本給、諸手当と特別に支払われた給与（期末賞与等）の額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する退職金又は解雇予告手当、出向受入者に係る支払額、臨時雇用者給与、送出者負担額など【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_派遣受入者に係る人材派遣会社への支払額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_原材料使用額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_燃料使用額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_電力使用額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_委託生産費（外注加工費）【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_製造等に関連する外注費【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_転売した商品の仕入額 【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「また、令和2年1年間の製造品出荷額等は2兆9932億円、付加価値額は1兆915億円となっています」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「（注2） 製造品出荷額等及び付加価値額は、令和3年は令和2年1年間、平成28年は平成27年1年間の数値である」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+  - 「産業中分類別事業所数、従業者数、製造品出荷額等、付加価値額（単位人数：人、金額：万円）」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003905.html）
+- 検索結果の抜粋：
+  - 「業界レポート 生産用機械器具製造業 - リスクモンスター — 業界レポート 生産用機械器具製造業 - リスクモンスター リスクモンスター株式会社 PDF https://www.riskmonster.co.jp > industryreport201703」（https://www.riskmonster.co.jp/study/report/pdf/industryreport201703.pdf）
+
+## 業務用機械器具製造業（business-use machinery manufacturing Japan）
+- 文脈：製造業・機械
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数14 産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「令和 3 年経済センサス‐活動調査」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「１．産業別の状況（全事業所） .............................................. 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 産業中分類別事業所数及び従業者数 .................................... 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「２．品目別の状況（全事業所） .............................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 品目別産出事業所数 .................................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和 3 年経済センサス‐活動調査の概要 ...................................... 6」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「１．「令和3年経済センサス‐活動調査 産業別集計（製造業に関する集計）」（以下「産業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「）は、製造業について「令和3年経済センサス‐活動調査」」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「経済センサス‐活動調査 19 産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+  - 「経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+- 増減・推移：
+  - 「(2) 建設仮勘定の増加額及び減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(3) 有形固定資産の除却・売却による減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 年末現在高＝年初現在高＋取得額－除却・売却による減少額－減価償却額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 建設仮勘定の年間増減＝増加額－減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ウ 投資総額＝取得額＋建設仮勘定の年間増減」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「伴い、休業や生産の減少に伴う人員調整や経営の悪化」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「今後、人口減少や高齢化が進む中で、日本」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「り、 2019年は2.2％～2.5％で推移し、 年平均で2.4％」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「364 万人を記録した後、以降は次第に減少し、2019」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「年 12 月には 152 万人となり減少傾向で推移してい」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「月に続き増加している（図 211-１）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-２ 構造的・摩擦的失業率、需要不足失業率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-１ 完全失業率（季節調整値）及び完全失業者数（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+- 需要が増えるか：
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「製造品出荷額等の都道府県別順位」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「・製造品目別に出荷額が得られた事業所であること」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「６．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「よる調査分を含んだ集計結果であるのに対し、製造品出荷額等、品目別出荷金額、付加」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「調査結果のうち、製造品出荷額等、品目別出荷金額、付加価値額については、表示年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（製造品出荷額等、品⽬別出荷⾦額、 付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「－ 製造品出荷額等と付加価値額が最も多いのは共に輸送用機械器具製造業 －」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（60 兆 2308」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「第 2 表 産業中分類別製造品出荷額等及び付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+- 働き手が減るか（人手不足）：
+  - 「今後、人口減少や高齢化が進む中で、日本」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「鈍いことから、欠員と失業が併存する不均衡が続いて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-３ 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-４ 職業別の有効求人倍率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「有効求人倍率（季節調整値）は上昇し 2018 年８」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「たことから、求人数の減少を通じて有効求人倍率が低」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「職業別に有効求人倍率」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「をみると、生産工程の職業の有効求人倍率は、職業計」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「産業で、人手不足感がみられる」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「年第３四半期にマイナス 1.8 と人手不足感に転じて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「（２）就業者数及び雇用者の動向」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「国内の製造業就業者数については、2002年の」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「一方で、国内生産の空洞化や人手不足、エネルギーコスト上昇などの課題も存在します」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「高齢化により熟練技能者が減少」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「高齢化社会の進行に伴い、医療用機械器具の需要が高まっているほか、近年はAIやIoT技術を活用した高性能化によって、単価が上昇していることが一因であると考えられる」（https://note.com/rm_sasaki/n/n519c0a54329d）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+  - 「ある製品・サービス分野で国際的に高いシェアを持っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「狭い市場で高いシェアを誇っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「主に大手空調機器メーカーから、部品などの」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「そこで、押谷社長はこうした問題を解決しようと、受発注と連携して現場に情報を流す「進捗管理シス」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「一般的に、暖房機器や加湿器は、季節商品であるため冬季に需要が高くなり、天候によっても受発注が」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「ス部門は国内トップシェアを誇る」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「受発注から製造ラインの稼働状況、機械トラブルや保全状況などを一元的に管理するこ」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「続きにおいてもデジタル化したことで、受発注の管理や経理処理などのデータ入力作業や確認作業などが」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「【都道府県別】工業出荷額と全国シェア（2024年度 統計データ）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「主要分野別シェア（2023年）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「以下の表は、最新の統計に基づく都道府県別の工業出荷額とその全国シェアを示したものである」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「全国シェア（％）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「一方、大企業（従業員300人以上）は全体の1％に満たないものの、出荷額ベースでは全体の約55％を占める寡占的構造です」（https://ai.netoco.jp/manufacturing-market-size/）
+- 取引のやり方・不便：
+  - 「パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「職業紹介・労働者派遣業」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「1421 洋紙・機械すき和紙製造業 1421 洋紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「1423 機械すき和紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 紙パ 26 生産用機械器具製造業 生産」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 5,927 2.7 181,090 2.4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 71,245 2.3 22,455 2.3」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「－ 産出事業所数が最も多い品目は「オフセット印刷物（紙に対するもの）」 －」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「1 151111 オフセット印刷物（紙に対するもの) 8,414 東京 大阪 愛知」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「22 151311 紙以外のものに対する印刷物 1,673 東京 大阪 埼玉」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「・石炭製品の「ガソリン」（4 兆 1638 億円）、印刷・同関連品の「オフセット印刷物（紙に対」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「9 151111 オフセット印刷物（紙に対するもの) 2,602,796 東京 埼玉 大阪」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 名称及び電話番号」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+- 払う単価の手がかり：
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「次における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：出荷金額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（百万円） 第１位 第２位 第３位」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和 3 年経済センサス‐活動調査は、全産業分野の売上（収入）金額や費用などの経理項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「コ 企業全体の売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「コ 売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 年間商品販売額等」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 物品賃貸業のレンタル年間売上高及びリース年間契約高」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「キ 企業全体の売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「年間で 11.6％減少しており、全産業に占める製造」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「と、５年間で約 1.6 倍となっており、産業全体にお」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「また、日本の平均年間総実労働時間（就業者）を」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+
+## 電子部品・デバイス・電子回路製造業（electronic components devices manufacturing Japan）
+- 文脈：製造業・電子
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 製造業に関する集計」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「. 本概況は、令和２（2020）年６月１日現在で実施した工業統計調査（以下「工業統計」という」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「おける 「工業調査票甲」 及び 「工業調査票乙」 の従業者４人以上の事業所について集計、 分析したも」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「. 平成２９年工業統計において、 調査日を６月１日 （従前は１２月３１日） に変更したため、 事業所数、」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「従業者数については平成２９年以降は同じ年の６月１日現在、 現金給与総額、 製造品出荷額等、 付加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「1) 「平成２３年」 、「平成２４年」 、「平成２７年」及 び「平成２８年」 の数値は経済センサス‐活動」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「2) 工業統計結果の事業所数及び従業者数の 「平成２９年」以降の数値は、 表示年次の６月１日現在、」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「X」 は、 集計対象となる事業所が１又は２であるため、 これをそのまま掲げると個々の報告者の秘」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「また、 集計対象が３以上の事業所に関する数値で」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「工業統計調査（経済センサス－活動調査は５年に一度）は、我が国の工業（製造業）の実態を明らかにすること」（https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf）
+  - 「令和４年からは経済構造実態調査に包摂されて、経済構造」（https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf）
+- 増減・推移：
+  - 「有形固定資産額_建設仮勘定_Ｃ増加額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_建設仮勘定_Ｄ減少額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_Ｅ除却・売却による減少額_土地【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_Ｅ除却・売却による減少額_土地以外のもの【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「更に令和元年が秘匿する必要がない箇所でも、増減 比較をする対象年次が秘匿であった場」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「合、前年比を「X」とした」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「第１図 従業者数 、製造品出荷額等の推移」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「第１表 主要項目の推移」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「前年比 前年比 前年比 前年比」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「② 構成比の前年からの変化は、金属製品製造業が 0.2％ポイント増加、食料品製造業が 0.2％ポ」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「イントの減少、 生産用機械器具製造業が0.0％ポイントの横ばい、 プラスチック製品製造業が0.1」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「％ポイント増加、繊維工業が 0.2％ポイント減少（第２図、統計表 第２表）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「第２図 事業所数 の上位産業の 推移」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「が 0.3％ポイント減少、生産用機械器具製造業が 0.1％ポイント増加、金属製品製造業が 0.0％」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「第３図 従業者数 の上位産業の 推移」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+- 需要が増えるか：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_製造品出荷額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_加工賃収入額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_くず廃物の出荷額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_その他収入額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「生産額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_建設仮勘定_Ｃ増加額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「従業者数については平成２９年以降は同じ年の６月１日現在、 現金給与総額、 製造品出荷額等、 付加」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「) 製造品出荷額等 ＝ 製造品出荷額 ＋ 製造工程から出たくず及び廃物の出荷額＋ 加工賃収入」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「) 付加価値額 ＝ 製造品出荷額等 ＋（製造品年末在庫額 － 製造品年初在庫額）＋（半製品及び」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「) 粗付加価値額 ＝ 製造品 出荷額等－ （ 推計酒税、 たばこ税、 揮発油税及び地方揮発油税額 ＋ 推」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「. 製造品出荷額等などの経理事項については、 原則消費税込みで把握しているが、 一部の消費税抜きの」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+- 働き手が減るか（人手不足）：
+  - 「今後、人口減少や高齢化が進む中で、日本」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「鈍いことから、欠員と失業が併存する不均衡が続いて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-３ 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-４ 職業別の有効求人倍率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「有効求人倍率（季節調整値）は上昇し 2018 年８」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「たことから、求人数の減少を通じて有効求人倍率が低」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「職業別に有効求人倍率」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「をみると、生産工程の職業の有効求人倍率は、職業計」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「産業で、人手不足感がみられる」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「年第３四半期にマイナス 1.8 と人手不足感に転じて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「（２）就業者数及び雇用者の動向」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「国内の製造業就業者数については、2002年の」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説 | ウィルオブ採用ジャーナル」（https://willof-work.co.jp/journal/14513/）
+  - 「【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説」（https://willof-work.co.jp/journal/14513/）
+  - 「最新データからみる製造業の人手不足の現状」（https://willof-work.co.jp/journal/14513/）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「ある製品・サービス分野で国際的に高いシェアを持っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「狭い市場で高いシェアを誇っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「主に大手空調機器メーカーから、部品などの」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「そこで、押谷社長はこうした問題を解決しようと、受発注と連携して現場に情報を流す「進捗管理シス」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「一般的に、暖房機器や加湿器は、季節商品であるため冬季に需要が高くなり、天候によっても受発注が」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「ス部門は国内トップシェアを誇る」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「受発注から製造ラインの稼働状況、機械トラブルや保全状況などを一元的に管理するこ」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「続きにおいてもデジタル化したことで、受発注の管理や経理処理などのデータ入力作業や確認作業などが」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「EV（電気自動車）シフトやCASE（コネクテッド・自動運転・シェアリング・電動化）の波により、従来の内燃機関関連の技術から電子制御・ソフトウェアを組み合わせた新たな技術へのシフトが急務となっています」（https://willof-work.co.jp/journal/14513/）
+  - 「中小企業の割合が高く、大手企業に比べて給与水準や福利厚生で劣後することも多いため、採用競争力が低くなりやすい構造的な問題があります」（https://willof-work.co.jp/journal/14513/）
+  - 「製造業特化の求人サイト、地域の無料媒体であるハローワーク、SNSを使った採用広報（採用インスタグラム・Xなど）、動画での工場見学コンテンツの発信など、ターゲット層に合わせた多様なチャネルを組み合わせることが人材確保につながります」（https://willof-work.co.jp/journal/14513/）
+  - 「正社員型派遣エンジニアの転職・求人サイト」（https://nextengineer.com/blog/know-how001/）
+  - 「電子部品市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/electronic-components-market）
+  - 「電子部品市場の規模、シェア、トレンド分析レポート：タイプ別（受動部品、能動部品、電気機械部品）、用途別（通信、家電、産業用電子機器、防衛・航空宇宙、自動車、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/electronic-components-market）
+- 取引のやり方・不便：
+  - 「2020000000_2020_1400_パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1420_紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1421_洋紙・機械すき和紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1422_板紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1424_手すき和紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1430_加工紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1431_塗工紙製造業（印刷用紙を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1433_壁紙・ふすま紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1440_紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1441_事務用・学用紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1442_日用紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1449_その他の紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「14 パルプ・紙・紙加工品製造業 パルプ紙 26 生産用機械器具製造業 生産用機械」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 5,365 ▲ 2.8 2.9 5,338 ▲ 0.5 2.9」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 187,035 0.2 2.4 187,842 0.4 2.4」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+- 払う単価の手がかり：
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する基本給、諸手当と特別に支払われた給与（期末賞与等）の額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する退職金又は解雇予告手当、出向受入者に係る支払額、臨時雇用者給与、送出者負担額など【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_派遣受入者に係る人材派遣会社への支払額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_原材料使用額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_燃料使用額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_電力使用額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_委託生産費（外注加工費）【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_製造等に関連する外注費【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_転売した商品の仕入額 【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「関連する外注費 ＋ 転売した商品の仕入額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「（百万円） （％） （百万円） （％） （百万円） （％）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+  - 「産 業 （百万円） （％） （％） （百万円） （％） （％）」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf）
+
+## 電気機械器具製造業（electrical machinery manufacturing Japan）
+- 文脈：製造業・電機
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 平成24年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計工業地区編 2-1 都道府県別、産業中分類別統計表（従業者４人以上の事業所） | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「経済センサス‐活動調査 平成24年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「都道府県別、産業中分類別統計表（従業者４人以上の事業所）」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「平成24年経済センサス‐活動調査」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「令和 3 年経済センサス‐活動調査」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「１．産業別の状況（全事業所） .............................................. 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 産業中分類別事業所数及び従業者数 .................................... 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「２．品目別の状況（全事業所） .............................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 品目別産出事業所数 .................................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和 3 年経済センサス‐活動調査の概要 ...................................... 6」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「１．「令和3年経済センサス‐活動調査 産業別集計（製造業に関する集計）」（以下「産業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「）は、製造業について「令和3年経済センサス‐活動調査」」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「【その他の留意点】 従業員数4人以上の事業所が対象」（https://kibichuo.jp/files/resas/kakuron2_seizou.pdf）
+  - 「国内の製造業の事業所規模５人以上の事業所におけ」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+- 増減・推移：
+  - 「(2) 建設仮勘定の増加額及び減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(3) 有形固定資産の除却・売却による減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 年末現在高＝年初現在高＋取得額－除却・売却による減少額－減価償却額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 建設仮勘定の年間増減＝増加額－減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ウ 投資総額＝取得額＋建設仮勘定の年間増減」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「①事業所数・従業者数・製造品出荷額等の推移 産業構造マップ>製造業>製造業の比較 → ☝「時系列グラフで分析」 ②産業別製造品出荷額等の変化 産業構造マップ>製造業>製造業の構造 → ☝「産業構造変化を分析（特定年間）」」（https://kibichuo.jp/files/resas/kakuron2_seizou.pdf）
+  - 「・産業中分類別の製造品出荷額等の推移を示しています」（https://kibichuo.jp/files/resas/kakuron2_seizou.pdf）
+  - 「・出荷額の大きな産業の把握や各産業における製造品出荷額等の増加・減少傾向を概観できます」（https://kibichuo.jp/files/resas/kakuron2_seizou.pdf）
+  - 「・製造業全体の事業所数、従業者数、製造品出荷額等の推移を概観します」（https://kibichuo.jp/files/resas/kakuron2_seizou.pdf）
+  - 「伴い、休業や生産の減少に伴う人員調整や経営の悪化」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「今後、人口減少や高齢化が進む中で、日本」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「り、 2019年は2.2％～2.5％で推移し、 年平均で2.4％」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「364 万人を記録した後、以降は次第に減少し、2019」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+- 需要が増えるか：
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「製造品出荷額等」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「製造品出荷額等 構成比」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「製造品出荷額等 従業者1人当たり金額」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「製造品出荷額等 産業別特化係数」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「製造品出荷額等の都道府県別順位」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「・製造品目別に出荷額が得られた事業所であること」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「６．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「よる調査分を含んだ集計結果であるのに対し、製造品出荷額等、品目別出荷金額、付加」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「調査結果のうち、製造品出荷額等、品目別出荷金額、付加価値額については、表示年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（製造品出荷額等、品⽬別出荷⾦額、 付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 働き手が減るか（人手不足）：
+  - 「今後、人口減少や高齢化が進む中で、日本」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「鈍いことから、欠員と失業が併存する不均衡が続いて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-３ 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-４ 職業別の有効求人倍率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「有効求人倍率（季節調整値）は上昇し 2018 年８」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「たことから、求人数の減少を通じて有効求人倍率が低」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「職業別に有効求人倍率」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「をみると、生産工程の職業の有効求人倍率は、職業計」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「産業で、人手不足感がみられる」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「年第３四半期にマイナス 1.8 と人手不足感に転じて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「（２）就業者数及び雇用者の動向」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「国内の製造業就業者数については、2002年の」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「ある製品・サービス分野で国際的に高いシェアを持っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「狭い市場で高いシェアを誇っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「主に大手空調機器メーカーから、部品などの」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「そこで、押谷社長はこうした問題を解決しようと、受発注と連携して現場に情報を流す「進捗管理シス」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「一般的に、暖房機器や加湿器は、季節商品であるため冬季に需要が高くなり、天候によっても受発注が」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「ス部門は国内トップシェアを誇る」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「受発注から製造ラインの稼働状況、機械トラブルや保全状況などを一元的に管理するこ」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「続きにおいてもデジタル化したことで、受発注の管理や経理処理などのデータ入力作業や確認作業などが」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「は、大手企業、調査機関、その他の組織のニーズに応える市場調査会社です」（https://mrctechforum.inkrich.com/posts/%E9%9B%BB%E6%B0%97%E6%A9%9F%E5%99%A8%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1）
+  - 「この記事をシェア」（https://mrctechforum.inkrich.com/posts/%E9%9B%BB%E6%B0%97%E6%A9%9F%E5%99%A8%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1）
+  - 「設計受託会社／技術者派遣会社／業務委託マッチング／作業代行（トレース・CAD化）」（https://robokaru.jp/useful/813/）
+  - 「C. 業務委託マッチング」（https://robokaru.jp/useful/813/）
+  - 「C（業務委託マッチング）」（https://robokaru.jp/useful/813/）
+  - 「— 設計受託会社（請負）／技術者派遣（3年ルールあり）／業務委託マッチング（準委任）／作業代行（CAD化）」（https://robokaru.jp/useful/813/）
+- 取引のやり方・不便：
+  - 「14パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「1421 洋紙・機械すき和紙製造業 1421 洋紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「1423 機械すき和紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 紙パ 26 生産用機械器具製造業 生産」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 5,927 2.7 181,090 2.4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 71,245 2.3 22,455 2.3」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「－ 産出事業所数が最も多い品目は「オフセット印刷物（紙に対するもの）」 －」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「1 151111 オフセット印刷物（紙に対するもの) 8,414 東京 大阪 愛知」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「22 151311 紙以外のものに対する印刷物 1,673 東京 大阪 埼玉」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「・石炭製品の「ガソリン」（4 兆 1638 億円）、印刷・同関連品の「オフセット印刷物（紙に対」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「9 151111 オフセット印刷物（紙に対するもの) 2,602,796 東京 埼玉 大阪」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 名称及び電話番号」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「育成の取組を紹介する」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「コミュニティカレッジのあるランシング市には職業訓練のあっせんと職業紹介を行う組織、ミシガ」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+- 払う単価の手がかり：
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「次における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：出荷金額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（百万円） 第１位 第２位 第３位」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和 3 年経済センサス‐活動調査は、全産業分野の売上（収入）金額や費用などの経理項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「コ 企業全体の売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「コ 売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 年間商品販売額等」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 物品賃貸業のレンタル年間売上高及びリース年間契約高」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「キ 企業全体の売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「①事業所数・従業者数・製造品出荷額等の推移 産業構造マップ>製造業>製造業の比較 → ☝「時系列グラフで分析」 ②産業別製造品出荷額等の変化 産業構造マップ>製造業>製造業の構造 → ☝「産業構造変化を分析（特定年間）」」（https://kibichuo.jp/files/resas/kakuron2_seizou.pdf）
+  - 「（百万円） （特化係数）」（https://kibichuo.jp/files/resas/kakuron2_seizou.pdf）
+  - 「(5,065.79百万円)」（https://kibichuo.jp/files/resas/kakuron2_seizou.pdf）
+
+## 輸送用機械器具製造業（transportation equipment manufacturing Japan）
+- 文脈：製造業・輸送
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数6-2 産業(中分類)、従業上の地位(6区分)、男女別従業者数（民営事業所）－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「産業(中分類)、従業上の地位(6区分)、男女別従業者数（民営事業所）－全国、都道府県、市区町村」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「令和 3 年経済センサス‐活動調査」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「１．産業別の状況（全事業所） .............................................. 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 産業中分類別事業所数及び従業者数 .................................... 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「２．品目別の状況（全事業所） .............................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 品目別産出事業所数 .................................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和 3 年経済センサス‐活動調査の概要 ...................................... 6」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「１．「令和3年経済センサス‐活動調査 産業別集計（製造業に関する集計）」（以下「産業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「）は、製造業について「令和3年経済センサス‐活動調査」」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「経済センサス‐活動調査 平成28年経済センサス‐活動調査 産業編 3-4 産業細分類別原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386）
+  - 「平成28年経済センサス‐活動調査」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386）
+- 増減・推移：
+  - 「(2) 建設仮勘定の増加額及び減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(3) 有形固定資産の除却・売却による減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 年末現在高＝年初現在高＋取得額－除却・売却による減少額－減価償却額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 建設仮勘定の年間増減＝増加額－減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ウ 投資総額＝取得額＋建設仮勘定の年間増減」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「伴い、休業や生産の減少に伴う人員調整や経営の悪化」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「今後、人口減少や高齢化が進む中で、日本」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「り、 2019年は2.2％～2.5％で推移し、 年平均で2.4％」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「364 万人を記録した後、以降は次第に減少し、2019」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「年 12 月には 152 万人となり減少傾向で推移してい」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「月に続き増加している（図 211-１）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-２ 構造的・摩擦的失業率、需要不足失業率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-１ 完全失業率（季節調整値）及び完全失業者数（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+- 需要が増えるか：
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「製造品出荷額等の都道府県別順位」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「・製造品目別に出荷額が得られた事業所であること」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「６．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「よる調査分を含んだ集計結果であるのに対し、製造品出荷額等、品目別出荷金額、付加」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「調査結果のうち、製造品出荷額等、品目別出荷金額、付加価値額については、表示年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（製造品出荷額等、品⽬別出荷⾦額、 付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「－ 製造品出荷額等と付加価値額が最も多いのは共に輸送用機械器具製造業 －」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（60 兆 2308」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「第 2 表 産業中分類別製造品出荷額等及び付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「経済センサス‐活動調査 平成28年経済センサス‐活動調査 産業編 3-4 産業細分類別原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386）
+- 働き手が減るか（人手不足）：
+  - 「今後、人口減少や高齢化が進む中で、日本」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「鈍いことから、欠員と失業が併存する不均衡が続いて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-３ 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-４ 職業別の有効求人倍率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「有効求人倍率（季節調整値）は上昇し 2018 年８」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「たことから、求人数の減少を通じて有効求人倍率が低」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「職業別に有効求人倍率」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「をみると、生産工程の職業の有効求人倍率は、職業計」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「産業で、人手不足感がみられる」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「年第３四半期にマイナス 1.8 と人手不足感に転じて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「（２）就業者数及び雇用者の動向」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「国内の製造業就業者数については、2002年の」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説 | ウィルオブ採用ジャーナル」（https://willof-work.co.jp/journal/14513/）
+  - 「【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説」（https://willof-work.co.jp/journal/14513/）
+  - 「最新データからみる製造業の人手不足の現状」（https://willof-work.co.jp/journal/14513/）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386）
+  - 「ある製品・サービス分野で国際的に高いシェアを持っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「狭い市場で高いシェアを誇っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「主に大手空調機器メーカーから、部品などの」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「そこで、押谷社長はこうした問題を解決しようと、受発注と連携して現場に情報を流す「進捗管理シス」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「一般的に、暖房機器や加湿器は、季節商品であるため冬季に需要が高くなり、天候によっても受発注が」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「ス部門は国内トップシェアを誇る」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「受発注から製造ラインの稼働状況、機械トラブルや保全状況などを一元的に管理するこ」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「続きにおいてもデジタル化したことで、受発注の管理や経理処理などのデータ入力作業や確認作業などが」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「EV（電気自動車）シフトやCASE（コネクテッド・自動運転・シェアリング・電動化）の波により、従来の内燃機関関連の技術から電子制御・ソフトウェアを組み合わせた新たな技術へのシフトが急務となっています」（https://willof-work.co.jp/journal/14513/）
+  - 「中小企業の割合が高く、大手企業に比べて給与水準や福利厚生で劣後することも多いため、採用競争力が低くなりやすい構造的な問題があります」（https://willof-work.co.jp/journal/14513/）
+  - 「製造業特化の求人サイト、地域の無料媒体であるハローワーク、SNSを使った採用広報（採用インスタグラム・Xなど）、動画での工場見学コンテンツの発信など、ターゲット層に合わせた多様なチャネルを組み合わせることが人材確保につながります」（https://willof-work.co.jp/journal/14513/）
+  - 「CRDデータによる取引市場シェア分析～戦略的な出店アプローチへ～」（https://www.crd-office.net/blog/decarbonization/）
+  - 「の文化から、カーシェアリングなど必要な時に利用する文化への移行が予想されることから、2030 年頃をめ」（https://www.riskmonster.co.jp/study/report/pdf/industryreport202501_1.pdf）
+- 取引のやり方・不便：
+  - 「パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「職業紹介・労働者派遣業」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「1421 洋紙・機械すき和紙製造業 1421 洋紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「1423 機械すき和紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 紙パ 26 生産用機械器具製造業 生産」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 5,927 2.7 181,090 2.4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 71,245 2.3 22,455 2.3」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「－ 産出事業所数が最も多い品目は「オフセット印刷物（紙に対するもの）」 －」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「1 151111 オフセット印刷物（紙に対するもの) 8,414 東京 大阪 愛知」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「22 151311 紙以外のものに対する印刷物 1,673 東京 大阪 埼玉」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「・石炭製品の「ガソリン」（4 兆 1638 億円）、印刷・同関連品の「オフセット印刷物（紙に対」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「9 151111 オフセット印刷物（紙に対するもの) 2,602,796 東京 埼玉 大阪」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 名称及び電話番号」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386）
+- 払う単価の手がかり：
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「次における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：出荷金額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（百万円） 第１位 第２位 第３位」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和 3 年経済センサス‐活動調査は、全産業分野の売上（収入）金額や費用などの経理項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「コ 企業全体の売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「コ 売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 年間商品販売額等」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 物品賃貸業のレンタル年間売上高及びリース年間契約高」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「キ 企業全体の売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「原材料、燃料、電力の使用額等 製造等に関連する外注費」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386）
+  - 「年間で 11.6％減少しており、全産業に占める製造」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「と、５年間で約 1.6 倍となっており、産業全体にお」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+
+## 窯業・土石製品製造業（ceramic stone clay products manufacturing Japan）
+- 文脈：製造業・素材
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 平成24年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計工業地区編 2-1 都道府県別、産業中分類別統計表（従業者４人以上の事業所） | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「経済センサス‐活動調査 平成24年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「都道府県別、産業中分類別統計表（従業者４人以上の事業所）」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「平成24年経済センサス‐活動調査」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「（従業者 4 人以上 の事業所 ）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「産業分類別事業所数 ・従業者数 ・製造品出荷額等 ・付加価値額 （従業者 4人以上 の事業所 ）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「１ 概要 （従業者 4人以上 の事業所 ）（表1・2）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「(1) 事業所数 は9658 事業所 で、前年 に比べ1.1 ％の増加 となりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「(2) 従業者数 は35 万732 人で、前年 に比べ2.4％減と3年連続 の減少 となりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「表１ 年次別事業所数 、従業者数 （従業者 4人以上 の事業所 ）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「２ 平成 19年調査 において 、脱漏事業所及 び構内請負事業所 の捕捉作業 を行ったため 、平成 19年の」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「表２ 年次別製造品出荷額等 、付加価値額 （従業者 4人以上 の事業所 ）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「２ 平成 19年調査 から 、調査項目 を追加 する 等、事業所全体 の経済活動 を対象 とした 調査 に変更 したため 、」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「(5 )全国 における 兵庫県 の工業 （従業者 4人以上 の事業所 ）（表3、図1・2）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+- 増減・推移：
+  - 「(1) 事業所数 は9658 事業所 で、前年 に比べ1.1 ％の増加 となりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「(2) 従業者数 は35 万732 人で、前年 に比べ2.4％減と3年連続 の減少 となりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「(3) 製造品出荷額 等は14 兆3574 億円 で、前年 に比べ1.2 ％増と２年連続 の増加 なりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「(4) 付加 価値額 は4兆5766 億円 で、前年 に比べ1.9 ％の減少 となりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「「事業所数 」及び「従業者数 」の対前年増減率 は、当該捕捉事業所 を除いて 算出 してい ます」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「る全国 の集計結果 は、事業所数 23 万3186 事業所 （対前年増減率 3.9 ％増） 、 従業者数」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「イ 各都道府県 の状況 をみ ると 、事業所数 は兵庫県 を含む39 都道府県 で増加 し、８県」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「で減少 しています」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「従業者数 は12 県で増加 し、兵庫県 を含む35 道府県 で減少 してい」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「製造品出荷額等 は兵庫県 を含む22 都道府県 で増加 し、それ 以外 は減少 してい」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「付加価値額 は28 都府県 で増加 し、兵庫県 を含む19 道県 で減少 しています」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「事業所数 は9658 事業所 で、前年 に比べ103 事業所 、1.1％増加 しました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「(2) 建設仮勘定の増加額及び減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(3) 有形固定資産の除却・売却による減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 需要が増えるか：
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「製造品出荷額等」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「製造品出荷額等 構成比」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「製造品出荷額等 従業者1人当たり金額」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「製造品出荷額等 産業別特化係数」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「製造品出荷額等の都道府県別順位」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「産業分類別事業所数 ・従業者数 ・製造品出荷額等 ・付加価値額 （従業者 4人以上 の事業所 ）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「(1) 事業所数 は9658 事業所 で、前年 に比べ1.1 ％の増加 となりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「(3) 製造品出荷額 等は14 兆3574 億円 で、前年 に比べ1.2 ％増と２年連続 の増加 なりました」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「表２ 年次別製造品出荷額等 、付加価値額 （従業者 4人以上 の事業所 ）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「「製造品出荷額等 」及び「付加 価値額 」は、平成 18年以前 の数値 とは 接続 しません」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「747 万2111 人（▲2.6 ％） 、 製造品出荷額等 284 兆968 8億円 （▲1.4 ％） 、付加価値額 91」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「イ 各都道府県 の状況 をみ ると 、事業所数 は兵庫県 を含む39 都道府県 で増加 し、８県」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「従業者数 は12 県で増加 し、兵庫県 を含む35 道府県 で減少 してい」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「製造品出荷額等 は兵庫県 を含む22 都道府県 で増加 し、それ 以外 は減少 してい」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+- 働き手が減るか（人手不足）：
+  - 「今後、人口減少や高齢化が進む中で、日本」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「鈍いことから、欠員と失業が併存する不均衡が続いて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-３ 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 211-４ 職業別の有効求人倍率の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「有効求人倍率（季節調整値）は上昇し 2018 年８」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「たことから、求人数の減少を通じて有効求人倍率が低」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「職業別に有効求人倍率」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「をみると、生産工程の職業の有効求人倍率は、職業計」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「産業で、人手不足感がみられる」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「年第３四半期にマイナス 1.8 と人手不足感に転じて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「（２）就業者数及び雇用者の動向」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「国内の製造業就業者数については、2002年の」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「今後5年間で窯業・土石製品卸に影響する市場環境の変化を8つのカテゴリーに分類すると、プラス要因としては社会・その他、一方マイナス要因としては少子高齢化の影響が大きいと予測する」（https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale）
+  - 「マイナス要因である少子高齢化の具体的な要因は、生産年齢人口減少（日本）や少子化（日本）、出産件数減少と予測する」（https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale）
+  - 「地域経済の景気動向に依存しがちであり、人手不足もあって厳しい状況が続いている」（https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「ある製品・サービス分野で国際的に高いシェアを持っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「狭い市場で高いシェアを誇っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「主に大手空調機器メーカーから、部品などの」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「そこで、押谷社長はこうした問題を解決しようと、受発注と連携して現場に情報を流す「進捗管理シス」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「一般的に、暖房機器や加湿器は、季節商品であるため冬季に需要が高くなり、天候によっても受発注が」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「ス部門は国内トップシェアを誇る」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「受発注から製造ラインの稼働状況、機械トラブルや保全状況などを一元的に管理するこ」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「続きにおいてもデジタル化したことで、受発注の管理や経理処理などのデータ入力作業や確認作業などが」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「窯業・土石製品卸 主要企業シェアランキング 大阪広域生コンクリート協同組合・太平洋セメント販売株式会社・三谷商事株式会社等」（https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale）
+  - 「本記事は、経済予測プラットフォーム「xenoBrain」によるAI予測の一部を抜粋し、同プラットフォームを運営する株式会社xenodata lab.のマーケティングチームが作成・編集したものです」（https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale）
+  - 「- 国内マーケットシェア」（https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale）
+  - 「経済予測プラットフォーム『xenoBrain』を提供するAIスタートアップです」（https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale）
+  - 「xenodata lab.は、独自の言語生成モデルや予測モデルを基に、経済予測プラットフォーム『xenoBrain』を提供するAIスタートアップです」（https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale）
+  - 「国内最大手金融機関や、大学系ベンチャーキャピタル等から出資を受ける、AIスタートアップ企業です」（https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale）
+- 取引のやり方・不便：
+  - 「14パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/dbview?sid=0003389791）
+  - 「前年 に比べ増加 したのは 情報通信機器 （7.5 ％増） 、 その 他（6.6 ％増）、パルプ ・紙（4.4 ％」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「減少率 の大きい 順に、なめし 革・同製品 （▲9.9％） 、 印刷 （▲8.2 ％） 、 ﾊﾟﾙﾌ ﾟ ・ 紙 （▲5.8％）」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「1421 洋紙・機械すき和紙製造業 1421 洋紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「1423 機械すき和紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 紙パ 26 生産用機械器具製造業 生産」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 5,927 2.7 181,090 2.4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 71,245 2.3 22,455 2.3」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「－ 産出事業所数が最も多い品目は「オフセット印刷物（紙に対するもの）」 －」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「1 151111 オフセット印刷物（紙に対するもの) 8,414 東京 大阪 愛知」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「22 151311 紙以外のものに対する印刷物 1,673 東京 大阪 埼玉」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「・石炭製品の「ガソリン」（4 兆 1638 億円）、印刷・同関連品の「オフセット印刷物（紙に対」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「9 151111 オフセット印刷物（紙に対するもの) 2,602,796 東京 埼玉 大阪」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 名称及び電話番号」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 払う単価の手がかり：
+  - 「(2) 従業者 1人当 たりの 現金給与総額 をみると 、製造業 の平均 は470 万円 で、前年 に比べ2.4％」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「産業分類別 では 、 最も多いのは 鉄鋼 で654 万円 、次いで はん 用機械 634 万円 、情報通信機」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「械621 万円 、石油 ・石炭製品 570 万円 の順となり 、平均 を上回 ったのは 12 産業 です」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「(1) 産業分類別 の年間増減比 をみると 、増加 したのは 、石油 ・石炭製品 （47 .4％増） 、 情報」（https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「次における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：出荷金額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（百万円） 第１位 第２位 第３位」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和 3 年経済センサス‐活動調査は、全産業分野の売上（収入）金額や費用などの経理項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「コ 企業全体の売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「コ 売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 年間商品販売額等」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 物品賃貸業のレンタル年間売上高及びリース年間契約高」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 検索結果の抜粋：
+  - 「AIが予測する 窯業 ・ 土石製品 卸 ｜2030年 市場規模推移 と主要 ... — AIが予測する 窯業 ・ 土石製品 卸 ｜2030年 市場規模推移 と主要 ... xenoBrain https://service.xenobrain.jp > forecastresults > market-size」（https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale）
+  - 「業界レポート 窯業 ・ 土石製品製造業 - リスクモンスター — 業界レポート 窯業 ・ 土石製品製造業 - リスクモンスター リスクモンスター株式会社 PDF https://www.riskmonster.co.jp > industryreport201802」（https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf）
+  - 「窯業 ・ 土石業界 の 市場規模 の 推移 | 1948〜2024年 - The社史 — 窯業 ・ 土石業界 の 市場規模 の 推移 | 1948〜2024年 - The社史 The社史 https://the-shashi.com > 業界別市場規模」（https://the-shashi.com/market/ceramics/）
+  - 「日本標準産業分類(令和5年[2023年]7月改定) 製造業 窯業 ... — 日本標準産業分類(令和5年[2023年]7月改定) 製造業 窯業 ... 政府統計の総合窓口 https://www.e-stat.go.jp > classifications > terms」（https://www.e-stat.go.jp/classifications/terms/10/04/2199）
+
+## 化学工業（chemical industry Japan）
+- 文脈：製造業・素材
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数14 産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「令和 3 年経済センサス‐活動調査」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「１．産業別の状況（全事業所） .............................................. 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 産業中分類別事業所数及び従業者数 .................................... 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「２．品目別の状況（全事業所） .............................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 品目別産出事業所数 .................................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和 3 年経済センサス‐活動調査の概要 ...................................... 6」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「１．「令和3年経済センサス‐活動調査 産業別集計（製造業に関する集計）」（以下「産業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「）は、製造業について「令和3年経済センサス‐活動調査」」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「2022年経済構造実態調査 製造業事業所調査（産業別統計表データ）※（従業者30人以上の事業所）」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「2021年 製造業全体の従業者数内訳」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+- 増減・推移：
+  - 「(2) 建設仮勘定の増加額及び減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(3) 有形固定資産の除却・売却による減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 年末現在高＝年初現在高＋取得額－除却・売却による減少額－減価償却額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 建設仮勘定の年間増減＝増加額－減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ウ 投資総額＝取得額＋建設仮勘定の年間増減」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「先行きについても概ねプラスで推移」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「・有効求人倍率は求人数の回復により徐々に増加していたが、直近はやや落ち着いている」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「2023年12月の数値をみると、有効求人倍率は1.27倍と、前年同月比0.09pt減と、微減で推移している」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「有効求人数は245.3万人で、前年同月比で8.7万人ほど減少」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「有効求職者は192.5万人で、前月比0.9万人増、前年同月比で6.1万人増と、ともに増加」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「求人、求職および求人倍率の推移 化学工業 新規求人数推移」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「今後は人手不足感は依然高いままだが、有効求人倍率が緩やかに減少している事もあり、完全失業率は横ばいで推移すると予想される」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「出荷額の推移は2020年の26兆8,191億円か」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+- 需要が増えるか：
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「製造品出荷額等の都道府県別順位」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「・製造品目別に出荷額が得られた事業所であること」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「６．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「よる調査分を含んだ集計結果であるのに対し、製造品出荷額等、品目別出荷金額、付加」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「調査結果のうち、製造品出荷額等、品目別出荷金額、付加価値額については、表示年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（製造品出荷額等、品⽬別出荷⾦額、 付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「－ 製造品出荷額等と付加価値額が最も多いのは共に輸送用機械器具製造業 －」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（60 兆 2308」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「第 2 表 産業中分類別製造品出荷額等及び付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「・有効求人倍率は求人数の回復により徐々に増加していたが、直近はやや落ち着いている」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+- 働き手が減るか（人手不足）：
+  - 「有効求人倍率は1.27倍と、前年同月比で0.09pt減の微減傾向」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「・有効求人倍率は求人数の回復により徐々に増加していたが、直近はやや落ち着いている」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「2023年12月の数値をみると、有効求人倍率は1.27倍と、前年同月比0.09pt減と、微減で推移している」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「厚生労働省「一般職業紹介状況」産業・事業所規模別新規求人数 パート含む（実数）より作成厚生労働省「一般職業紹介」有効求人倍率、新規求人数、有効求職者数 パート含む（季節調整値）より作成」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「有効求人数 有効求職者数 有効求人倍率」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「今後は人手不足感は依然高いままだが、有効求人倍率が緩やかに減少している事もあり、完全失業率は横ばいで推移すると予想される」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「有効求人倍率が全国平均を上回るものの低下傾向」（https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html）
+  - 「ただ、相変わらずの人手不足感」（https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html）
+  - 「> 有効求人倍率が全国平均を上回るものの低下傾向」（https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html）
+  - 「1～3月期の雇用動向は、有効求人倍率が全国平均は上回るものの低下傾向にあり【やや悪化】と判断」（https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html）
+  - 「4～6月期の雇用見通しは、人手不足感の変化が小幅にとどまっていることから【横ばい】としている」（https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html）
+  - 「新規求職の増加で有効求人倍率が低下」（https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html）
+  - 「労働統計をみると、1～3月の有効求人倍率は1.31倍」（https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html）
+  - 「業種横断的に新規求人数の減少基調が続くなかで、新規求職者数は増加傾向にあり、有効求人倍率の低下につながっている」（https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html）
+  - 「また工場閉鎖の動きなどもみられ、新規求職者のなかでも事業主都合離職者の増加が目立っている」（https://www.jil.go.jp/kokunai/blt/backnumber/2024/08_09/yamagata.html）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「総合化学メーカー 主要企業シェアランキング 旭化成・信越化学工業等」（https://service.xenobrain.jp/forecastresults/market-size/chemistry）
+  - 「図：総合化学メーカーにおける国内マーケットシェアのグラフ及び主要企業8社の状況」（https://service.xenobrain.jp/forecastresults/market-size/chemistry）
+  - 「→マーケットシェアの計算方法は」（https://service.xenobrain.jp/forecastresults/market-size/chemistry）
+  - 「本記事は、経済予測プラットフォーム「xenoBrain」によるAI予測の一部を抜粋し、同プラットフォームを運営する株式会社xenodata lab.のマーケティングチームが作成・編集したものです」（https://service.xenobrain.jp/forecastresults/market-size/chemistry）
+  - 「- 国内マーケットシェア」（https://service.xenobrain.jp/forecastresults/market-size/chemistry）
+  - 「経済予測プラットフォーム『xenoBrain』を提供するAIスタートアップです」（https://service.xenobrain.jp/forecastresults/market-size/chemistry）
+  - 「xenodata lab.は、独自の言語生成モデルや予測モデルを基に、経済予測プラットフォーム『xenoBrain』を提供するAIスタートアップです」（https://service.xenobrain.jp/forecastresults/market-size/chemistry）
+  - 「国内最大手金融機関や、大学系ベンチャーキャピタル等から出資を受ける、AIスタートアップ企業です」（https://service.xenobrain.jp/forecastresults/market-size/chemistry）
+  - 「本ページの予測の提供元サービスである、経済予測プラットフォーム『xenoBrain』について詳細な資料をダウンロードできます」（https://service.xenobrain.jp/forecastresults/market-size/chemistry）
+  - 「素材マッチングプラットフォーム」（https://www.material-matching.com/about）
+  - 「Material Matching Platform（MMP）は、材料を探している研究開発者と、材料を開発する化学メーカーをつなぐマッチングサービスです」（https://www.material-matching.com/about）
+  - 「【業界・分野別】製造業マッチングサイト・検索データベース13選 | テクノポート株式会社」（https://techport.co.jp/archives/40636）
+  - 「【業界・分野別】製造業マッチングサイト・検索データベース13選」（https://techport.co.jp/archives/40636）
+  - 「製造業における新規顧客開拓の手段として、SEO・AIO、広告などの施策以外に、「企業向けマッチングサイト」や「検索データベース」への登録という方法があります」（https://techport.co.jp/archives/40636）
+- 取引のやり方・不便：
+  - 「パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「職業紹介・労働者派遣業」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「1421 洋紙・機械すき和紙製造業 1421 洋紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「1423 機械すき和紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 紙パ 26 生産用機械器具製造業 生産」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 5,927 2.7 181,090 2.4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 71,245 2.3 22,455 2.3」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「－ 産出事業所数が最も多い品目は「オフセット印刷物（紙に対するもの）」 －」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「1 151111 オフセット印刷物（紙に対するもの) 8,414 東京 大阪 愛知」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「22 151311 紙以外のものに対する印刷物 1,673 東京 大阪 埼玉」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「・石炭製品の「ガソリン」（4 兆 1638 億円）、印刷・同関連品の「オフセット印刷物（紙に対」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「9 151111 オフセット印刷物（紙に対するもの) 2,602,796 東京 埼玉 大阪」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 名称及び電話番号」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「厚生労働省「一般職業紹介状況」産業・事業所規模別新規求人数 パート含む（実数）より作成厚生労働省「一般職業紹介」有効求人倍率、新規求人数、有効求職者数 パート含む（季節調整値）より作成」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+- 払う単価の手がかり：
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「次における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：出荷金額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（百万円） 第１位 第２位 第３位」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和 3 年経済センサス‐活動調査は、全産業分野の売上（収入）金額や費用などの経理項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「コ 企業全体の売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「コ 売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 年間商品販売額等」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 物品賃貸業のレンタル年間売上高及びリース年間契約高」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「キ 企業全体の売上（収入）金額、費用総額及び費用項目」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「100.0万円」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「200.0万円」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「300.0万円」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+- 検索結果の抜粋：
+  - 「マイナビキャリアリサーチLab 化学工業 レポート（2024年2月） — マイナビキャリアリサーチLab 化学工業 レポート（2024年2月） マイナビキャリアリサーチLab PDF https://career-research.mynavi.jp > uploads > 2024/05」（https://career-research.mynavi.jp/wp-content/uploads/2024/05/2024-2-kagakukogyo.pdf）
+  - 「AIが予測する総合 化学 メーカー ｜2030年 市場規模推移 と主要 ... — AIが予測する総合 化学 メーカー ｜2030年 市場規模推移 と主要 ... xenoBrain https://service.xenobrain.jp > market-size > chemistry」（https://service.xenobrain.jp/forecastresults/market-size/chemistry）
+  - 「我が国における 化学工業 生産の長期的 推移 - 内閣府 — 我が国における 化学工業 生産の長期的 推移 - 内閣府 内閣府ホームページ PDF https://www5.cao.go.jp > keizai3 > topics_084」（https://www5.cao.go.jp/keizai3/monthly_topics/2026/0410/topics_084.pdf）
+  - 「化学工業 の省力化補助金｜対象設備・補助額・申請2026 — 化学工業 の省力化補助金｜対象設備・補助額・申請2026 shouryokuka-hojokin.jp https://shouryokuka-hojokin.jp > 記事一覧 > 業種別」（https://shouryokuka-hojokin.jp/articles/kagaku-kogyo-shouryokuka-hojokin/）
+
+## ゴム製品製造業（rubber products manufacturing Japan）
+- 文脈：製造業・素材
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 製造業に関する集計」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「令和 3 年経済センサス‐活動調査」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「１．産業別の状況（全事業所） .............................................. 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 産業中分類別事業所数及び従業者数 .................................... 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「２．品目別の状況（全事業所） .............................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 品目別産出事業所数 .................................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和 3 年経済センサス‐活動調査の概要 ...................................... 6」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「１．「令和3年経済センサス‐活動調査 産業別集計（製造業に関する集計）」（以下「産業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「）は、製造業について「令和3年経済センサス‐活動調査」」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「経済センサス‐活動調査 19 産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+  - 「経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+- 増減・推移：
+  - 「有形固定資産額_建設仮勘定_Ｃ増加額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_建設仮勘定_Ｄ減少額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_Ｅ除却・売却による減少額_土地【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_Ｅ除却・売却による減少額_土地以外のもの【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「(2) 建設仮勘定の増加額及び減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(3) 有形固定資産の除却・売却による減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 年末現在高＝年初現在高＋取得額－除却・売却による減少額－減価償却額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 建設仮勘定の年間増減＝増加額－減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ウ 投資総額＝取得額＋建設仮勘定の年間増減」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「市場規模とシェアの推移」（https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/）
+  - 「本記事では、最新の市場動向や需要の推移、主要企業の戦略に加え、地域ごとの特徴や今後の展望について詳しくご紹介します」（https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/）
+  - 「工業用ゴム製品と自動車分野における需要の増減」（https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/）
+  - 「日本国内では、出荷額・生産量ともに安定した推移を示していますが、人口減少や自動車需要の鈍化などから、一定の制約も見られます」（https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/）
+- 需要が増えるか：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_製造品出荷額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_加工賃収入額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_くず廃物の出荷額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_その他収入額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「生産額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「有形固定資産額_建設仮勘定_Ｃ増加額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「・製造品目別に出荷額が得られた事業所であること」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「６．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 働き手が減るか（人手不足）：
+  - 「各種コストの上昇を販売価格に転嫁できずに廃業・倒産に追い込まれたり、後継者が不在のために廃業に至るケースもあります」（https://kyodo-rub.co.jp/archives/1873）
+  - 「なお、売りに出ている案件の譲渡理由としては「後継者不在」が最も多くなっています」（https://ma-succeed.jp/content/knowledge/post-12589）
+  - 「◎ 技術者の高齢化・離職が進み、体制が維持される見込みが弱い」（https://ma-succeed.jp/content/knowledge/post-12589）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649）
+  - 「市場規模とシェアの推移」（https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/）
+  - 「近年注目されているのが、地域別の市場シェア構造の変化です」（https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/）
+  - 「特に住友ゴム工業やブリヂストンなどの日本の大手メーカーは、世界市場における強固な地位を維持しており、グローバル展開にも積極的です」（https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/）
+  - 「このように、地域ごとの用途傾向を正確に読み解き、適切な製品と提案を行うことで、市場シェアの拡大が期待できます」（https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/）
+  - 「住友など大手メーカーが積極的に研究開発を進めている領域でもあります」（https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/）
+  - 「販売先において、自社との取引シェアが高くなり過ぎると、自社が取引から撤退することが困難とな」（https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf）
+  - 「そのため、取引先の信用力（格付）に応じて取引シェアに上限を設けるべく、取引先」（https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf）
+  - 「日本においては、世界のトップシェアに君臨するまでの企業もあり、特に、自動車メーカーなどは高い技術力を世界にアピールしてきました」（https://www.peaks-media.com/210/）
+  - 「ゴム業界の主要メーカーランキングとシェア」（https://www.peaks-media.com/210/）
+  - 「ゴム消費量やシェア率を国別に見てみると、1位中国2位インド3位米国と人口が多い、もしくは増加のいちじるしいエリアが上位であるとわかります」（https://www.peaks-media.com/210/）
+  - 「この要因として、シェア1位の中国を筆頭に新興国のインフラ整備やモータリゼーションなどの影響が大きいとされています」（https://www.peaks-media.com/210/）
+  - 「ゴム製品のシェアは前述のとおり「タイヤ製品」の製造がもっとも多く、全体の半分以上を占めます」（https://www.peaks-media.com/210/）
+  - 「このように、ゴム製品の種目は幅広いものの、自動車製品がシェアの中心であることから、大手企業などは特に自動車事業を幅広く展開するケースが一般的です」（https://www.peaks-media.com/210/）
+- 取引のやり方・不便：
+  - 「2020000000_2020_1400_パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1420_紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1421_洋紙・機械すき和紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1422_板紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1424_手すき和紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1430_加工紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1431_塗工紙製造業（印刷用紙を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1433_壁紙・ふすま紙製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1440_紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1441_事務用・学用紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1442_日用紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「2020000000_2020_1449_その他の紙製品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「1421 洋紙・機械すき和紙製造業 1421 洋紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「1423 機械すき和紙製造業」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「14 パルプ・紙・紙加工品製造業 紙パ 26 生産用機械器具製造業 生産」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 払う単価の手がかり：
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する基本給、諸手当と特別に支払われた給与（期末賞与等）の額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する退職金又は解雇予告手当、出向受入者に係る支払額、臨時雇用者給与、送出者負担額など【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_派遣受入者に係る人材派遣会社への支払額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_原材料使用額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_燃料使用額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_電力使用額【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_委託生産費（外注加工費）【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_製造等に関連する外注費【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「原材料・燃料・電力の使用額等_転売した商品の仕入額 【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「製造品出荷額等_合計【百万円】」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「次における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 検索結果の抜粋：
+  - 「業界レポート ゴム製品製造業 - リスクモンスター — 業界レポート ゴム製品製造業 - リスクモンスター リスクモンスター株式会社 PDF https://www.riskmonster.co.jp > industryreport201901」（https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf）
+  - 「業界レポート ゴム製品製造業 - リスクモンスター — 業界レポート ゴム製品製造業 - リスクモンスター リスクモンスター株式会社 PDF https://www.riskmonster.co.jp > industryreport202607」（https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf）
+
+## 繊維工業（textile industry Japan）
+- 文脈：製造業・素材
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数14 産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「福井県繊維産業の推移と全国比較(20110年～2020年）(4人以上事業所のみ）」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「（工業統計調査 4人以上の事業所）※2011年、2015年、2020年は経済センサス調査」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「事業所数 676 611 594 577 564 550 529 509 488 488」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「従業者数 16,942 15,338 15,668 15,540 15,442 15,567 15,391 15,137 14,611 14,053」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「福井の事業所数 676 611 594 577 564 550 529 509 488 488」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「全国の事業所数 16,850 15,010 14,048 13,430 14,745 12,171 11,582 11,087 10,586 9,448」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「福井の従業者数 16,942 15,338 15,668 15,540 15,442 15,567 15,391 15,137 14,611 14,053」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「全国の従業者数 293,983 286,148 276,854 268,135 268,299 258,823 251,923 247,591 239,139 219,843」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「経済産業省の資料によれば、繊維工業の事業所数は2005年には約23,000あったものが、2020年には約9,400まで減少し、過去15年で半分以下となっています」（https://www.peaks-media.com/8844/）
+  - 「事業所数 2.8万（2019年） 従業者数 27.3万⼈（2019年） 出荷額 3.9兆円（2019年）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf）
+- 増減・推移：
+  - 「福井県繊維産業の推移と全国比較(20110年～2020年）(4人以上事業所のみ）」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「単位：所 事業所数の推移」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「単位：人 従業者数の推移」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「製造品出荷額等の推移」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「４．整数値の増減における「0.0」「▲0.0」は、小数点第２位を四捨五入したものである」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「基調判断「県内の雇用情勢は、求人が求職を上回って推移しており、一部」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「（１）有効求人数（季節調整値）は 68,670 人で、前月と比べ 0.8％増加し、３か月ぶりに増加した」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「（１）新規求人数（季節調整値）は 25,400 人で、前月と比べ 5.6％増加し２か月連続で増加した」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「（２）新規求職者数（同）は 8,634 人で、前月と比べ 0.9％増加し、２か月連続で増加した」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「業（＋64人、20.9％増）で増加し、製造業（▲604人、19.1％減）、サービス業（▲393 人、8.3％減）、」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「（▲32人、0.6％減）、学術研究，専門・技術サービス業（▲30人、6.0％減）で減少した」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「５ 新規求職者数（常用、原数値）は、在職者が 1,821人で、前年同月と比べ 0.6％減少し、離職者は 3,785」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「人で 4.9％増加した」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「６ 12 月末現在の雇用保険被保険者数は 1,016,798 人で、前年同月比で 0.8％減少した」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「給資格決定件数は 1,934件で、前年同月比で 0.2％減少した」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+- 需要が増えるか：
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「製造品出荷額等の都道府県別順位」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「出荷額等 2,687 2,386 2,347 2,399 2,510 2,426 2,396 2,422 2,306 1,959」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「製造品出荷額等の推移」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「福井の製造品出荷額等 268,708 238,578 234,708 239,927 251,021 242,618 239,594 242,229 230,561 195,880」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「全国の製造品出荷額」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「（１）有効求人数（季節調整値）は 68,670 人で、前月と比べ 0.8％増加し、３か月ぶりに増加した」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「（１）新規求人数（季節調整値）は 25,400 人で、前月と比べ 5.6％増加し２か月連続で増加した」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「（２）新規求職者数（同）は 8,634 人で、前月と比べ 0.9％増加し、２か月連続で増加した」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「業（＋64人、20.9％増）で増加し、製造業（▲604人、19.1％減）、サービス業（▲393 人、8.3％減）、」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「人で 4.9％増加した」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「この結果、有効求人倍率（受理地別）は、1.55 倍で、前年比 0.01ポイント上昇」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「前年比 前年比」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「前年差前年比前年比」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+- 働き手が減るか（人手不足）：
+  - 「有効求人倍率 1.53倍」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「１ 有効求人倍率（受理地別・季節調整値）は 1.53 倍となり、前月から 0.01 ポイント上昇となった」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「（３）就業地別有効求人倍率（同）は 1.40 倍で、前月と同水準となった」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「また、受理地別有効求人倍率を 0.13」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「３ 正社員有効求人倍率（原数値）は 1.31 倍で、前年同月と比べて 0.02 ポイント低下した」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「５ 新規求職者数（常用、原数値）は、在職者が 1,821人で、前年同月と比べ 0.6％減少し、離職者は 3,785」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「この結果、有効求人倍率（受理地別）は、1.55 倍で、前年比 0.01ポイント上昇」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「① 有効求人・求職、有効求人倍率の推移（原数値）」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「④ パートタイム有効求人・求職、有効求人倍率の推移（原数値）」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「③ 正社員有効求人・求職、有効求人倍率の推移（原数値）」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「求人数の差 有効求人倍率 有効求人倍率 求人数の差」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「離職者 雇用者」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「さらに深刻な問題として、繊維工業における事業所数と就業者数の減少が挙げられます」（https://www.peaks-media.com/8844/）
+  - 「就業者数も同様に減少傾向にあり、2007年に68万人いた就業者が、2022年には35万人まで減少しています」（https://www.peaks-media.com/8844/）
+  - 「同時に高齢化も進んでおり、従事者の過半数が50歳以上という産地も少なくないようです」（https://www.peaks-media.com/8844/）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「全国シェア 4.0% 4.1% 4.2% 4.3% 3.8% 4.5% 4.6% 4.6% 4.6% 5.2%」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「全国シェア 5.8% 5.4% 5.7% 5.8% 5.8% 6.0% 6.1% 6.1% 6.1% 6.4%」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「全国シェア 6.8% 6.1% 6.2% 6.3% 6.3% 6.4% 6.4% 6.4% 6.2% 5.7%」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「12 ハローワークのマッチング機能に関する業務の主要指標についての数値目標及び実績＜その２＞（令和５年10月末現在）」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「11 ハローワークのマッチング機能に関する業務の主要指標についての数値目標及び実績＜その１＞（令和５年12月末現在）」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「本記事では、繊維業界の現在の市場規模や動向、企業シェアランキングを通して、業界の現状を詳しく解説します」（https://www.peaks-media.com/8844/）
+  - 「繊維業界の企業シェアランキング」（https://www.peaks-media.com/8844/）
+  - 「繊維業界において大きなシェアを占めている企業の動向は、業界全体の方向性を示す重要な指標となります」（https://www.peaks-media.com/8844/）
+  - 「このランキングから明らかなように、「三菱ケミカルグループ」と「東レ」が業界内で特に高いシェアを占めています」（https://www.peaks-media.com/8844/）
+  - 「両社が高いシェアを維持できている背景には、長年培ってきた技術力と幅広い製品ラインナップがあります」（https://www.peaks-media.com/8844/）
+  - 「愛知県と岐阜県にまたがる尾州地域は国内最大の毛織物の産地として知られており、国内シェア70％という高い数字を誇っています」（https://www.peaks-media.com/8844/）
+  - 「そのシェアは、国内タオルの50％以上を誇ります」（https://www.peaks-media.com/8844/）
+  - 「アラミド繊維は世界シェア50％もの高い数値を誇っており、さらにポリアリレート繊維は世界で唯一、日本企業だけが生産している繊維になります」（https://www.peaks-media.com/8844/）
+  - 「この記事をシェアする」（https://www.peaks-media.com/8844/）
+- 取引のやり方・不便：
+  - 「パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「職業紹介・労働者派遣業」（https://www.e-stat.go.jp/dbview?sid=0004005661）
+  - 「（電話） 082（502）7831」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「１ 職業紹介関係指標（原数値） ２ 雇用保険関係指標」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「以下に、繊維業界の売上高ランキングを紹介します」（https://www.peaks-media.com/8844/）
+  - 「1.2. 主要企業（東レなど有名企業）の紹介とDXへの取り組み」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701）
+  - 「ここでは、日本を代表する繊維メーカーである東レ株式会社についてご紹介します」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701）
+  - 「IoT導入による工場の見える化とは？成功事例と現場改革におけるメリット・注意点を紹介」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701）
+  - 「センター紹介」（https://www.aichi-inst.jp/mikawa/analytical/request/list/post_2.html）
+  - 「動画による研究紹介」（https://www.aichi-inst.jp/mikawa/analytical/request/list/post_2.html）
+  - 「電話: 0533-59-7146 FAX: 0533-59-7176」（https://www.aichi-inst.jp/mikawa/analytical/request/list/post_2.html）
+  - 「群馬産業技術センターの実験室紹介」（https://www.tec-lab.pref.gunma.jp/textile/p20210019/）
+  - 「東毛産業技術センターの各部屋紹介」（https://www.tec-lab.pref.gunma.jp/textile/p20210019/）
+  - 「センターの研究紹介」（https://www.tec-lab.pref.gunma.jp/textile/p20210019/）
+  - 「電話 027-290-3030/FAX 027-290-3040」（https://www.tec-lab.pref.gunma.jp/textile/p20210019/）
+- 払う単価の手がかり：
+  - 「（単位:所、人、百万円）」（https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf）
+  - 「［⑧÷（②＋⑧）］ ［十万円］」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「（注）１ 数値目標は令和５年度における年間目標値で、実績は当月までの累計である」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「（注）１ 数値目標は令和５年度における年間目標値で、実績は２か月後の集計となるため、前月又は前々月までの累計となる」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「新規求職申込件数、就職件数及び就職率の推移（10年間）」（https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf）
+  - 「住友商事とハードウェアスタートアップが歩んだ共創の5年間｜住友商…」（https://www.peaks-media.com/8844/）
+  - 「単位︓1930年まで1,000円、1935年以降100万円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf）
+  - 「事業所当たり、従業員当たり出荷額に⾒る⽣産性の推移（単位︓万円）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf）
+  - 「（万円 左軸）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf）
+  - 「（万円 右軸）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf）
+  - 「●⾐料品の購⼊単価および輸⼊単価は、1991年を基準に６割前後の⽔準に下落」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf）
+  - 「⾐料品購⼊単価・輸⼊単価の推移国内アパレル供給量・市場規模の推移」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf）
+  - 「出典︓購⼊単価=総務省「家計調査」，」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf）
+  - 「輸⼊単価=財務省「貿易統計」よりそれぞれ算出」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf）
+  - 「購⼊単価指数 輸⼊単価指数」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf）
+- 検索結果の抜粋：
+  - 「試験・分析・測定業務｜依頼試験の項目・料金｜ 繊維工業 ... — 試験・分析・測定業務｜依頼試験の項目・料金｜ 繊維工業 ... あいち産業科学技術総合センター https://www.aichi-inst.jp > mikawa > request > list > post_2」（https://www.aichi-inst.jp/mikawa/analytical/request/list/post_2.html）
+
+## その他の製造業（other manufacturing Japan）
+- 文脈：製造業
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数6-2 産業(中分類)、従業上の地位(6区分)、男女別従業者数（民営事業所）－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「産業(中分類)、従業上の地位(6区分)、男女別従業者数（民営事業所）－全国、都道府県、市区町村」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「経済センサス‐活動調査 平成24年経済センサス‐活動調査 産業編 3-19 産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「平成24年経済センサス‐活動調査」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「経済センサス‐活動調査 / 平成24年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 製造業に関する集計」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「1事業所当たり 従業者数」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「1事業所当たり 製造品出荷額等(消費税を除く内国消費税額及び推計消費税額を控除したもの)」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「に達しており、前年比約2.4％増となりました（出典：経済産業省「工業統計調査」）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「約38万事業所（うち中小企業が約99％）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「事業所数・従業者数は、その年の 12 月末の数」（https://the-shashi.com/market/other-manufacturing/）
+- 増減・推移：
+  - 「過去5年間の市場規模推移」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「に達しており、前年比約2.4％増となりました（出典：経済産業省「工業統計調査」）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「約358兆円（前年比+2.4％）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「約333兆円（コロナ禍による減少）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「為替の円安効果や輸出需要の回復により、生産活動は堅調に推移していますが、一方で人件費・エネルギーコストの上昇が収益を圧迫しています」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「高齢化により熟練技能者が減少」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「過去の推移や今後の予測、企業法務・個人法務・刑事事件など分野別動向、他の士業やサービス産業との規模比較について解説します」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「その他の製造業の市場規模の推移 | 1948〜2024年」（https://the-shashi.com/market/other-manufacturing/）
+  - 「その他の製造業の市場規模の推移」（https://the-shashi.com/market/other-manufacturing/）
+  - 「また、登録のある全国の製造業から新規顧客を開拓でき、販路拡大、受注機会の増加を支援します」（https://platto.technoa.co.jp/）
+  - 「日本は少子高齢化の影響によって人材不足が深刻化しており、特に製造業においては技能のある人材が減少しています」（https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/）
+- 需要が増えるか：
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「製造品出荷額等の都道府県別順位」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「経済センサス‐活動調査 平成24年経済センサス‐活動調査 産業編 3-19 産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「1事業所当たり 製造品出荷額等(消費税を除く内国消費税額及び推計消費税額を控除したもの)」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「1事業所当たり 生産額(消費税を除く内国消費税額及び推計消費税額を控除したもの)」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「従業者1人当たり 製造品出荷額等(消費税を除く内国消費税額及び推計消費税額を控除したもの)」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「製造業の市場規模2026｜出荷額358兆円と将来性 | AITSolutionsNet」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「製造業の市場規模2026｜出荷額358兆円と将来性」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「製造業の市場規模と将来性【2026年版】（業界全体像）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「過去5年間の市場規模推移」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「【都道府県別】工業出荷額と全国シェア（2024年度 統計データ）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「製造品出荷額等は約358兆円」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「に達しており、前年比約2.4％増となりました（出典：経済産業省「工業統計調査」）」（https://ai.netoco.jp/manufacturing-market-size/）
+- 働き手が減るか（人手不足）：
+  - 「一方で、国内生産の空洞化や人手不足、エネルギーコスト上昇などの課題も存在します」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「高齢化により熟練技能者が減少」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「日本は少子高齢化の影響によって人材不足が深刻化しており、特に製造業においては技能のある人材が減少しています」（https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/）
+  - 「また、中小企業・小規模事業者においても、DXは人手不足への対応や生産性向上、新規事業創出による需要獲得につながる可能性があります」（https://mallento.com/recommend/manufacturing-matching-services/）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「【都道府県別】工業出荷額と全国シェア（2024年度 統計データ）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「主要分野別シェア（2023年）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「以下の表は、最新の統計に基づく都道府県別の工業出荷額とその全国シェアを示したものである」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「全国シェア（％）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「一方、大企業（従業員300人以上）は全体の1％に満たないものの、出荷額ベースでは全体の約55％を占める寡占的構造です」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「＼ 厳しい市場で生き残る！ポータルサイト依存からの脱却 ／」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「プラッとものづくり｜設計製造・試作開発のビジネスマッチングプラットフォーム｜図面不要で相談｜DXソリューションのテクノア」（https://platto.technoa.co.jp/）
+  - 「受発注マッチングプラットフォームです」（https://platto.technoa.co.jp/）
+  - 「【取引先開拓と案件管理を行えるものづくりマッチングプラットフォーム】」（https://platto.technoa.co.jp/）
+  - 「BtoBプラットフォーム 受発注 for 製造業」（https://platto.technoa.co.jp/）
+  - 「製造業におすすめのビジネスマッチング10選｜メリットと選び方 - 決裁者同士が繋がる審査制プラットフォーム｜ONLYSTORY（オンリーストーリー）」（https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/）
+  - 「大手企業へのプレゼン会」（https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/）
+  - 「ビジネスマッチング」（https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/）
+- 取引のやり方・不便：
+  - 「パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「職業紹介・労働者派遣業」（https://www.e-stat.go.jp/dbview?sid=0004005672）
+  - 「14パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773）
+  - 「着衣・脱衣施術の内訳、価格競争と高付加価値化の二極化、業界課題まで紹介します」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「ホームページの扱いや罰則も紹介します」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「マットレスや介護用寝具を厳選して紹介」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「（できる限りSNSへの投稿ではなく、飲み会や、社内 Slack・Teams など、リアルな口コミでご紹介いただけますと大変嬉しく存じます」（https://the-shashi.com/market/other-manufacturing/）
+  - 「サービス紹介」（https://platto.technoa.co.jp/）
+  - 「グループの紹介」（https://platto.technoa.co.jp/）
+  - 「今までものづくり事業者と電話やFAXで行っていた見積依頼や見積回答を、クラウドサービス上で行うことができます」（https://platto.technoa.co.jp/）
+  - 「紹介グループ代表として利用をご希望される方は、別途」（https://platto.technoa.co.jp/）
+  - 「※※紹介グループ代表の料金プランは、別途」（https://platto.technoa.co.jp/）
+  - 「製造業におすすめのビジネスマッチング10選を、チラCEOやLinkers、J-GoodTechなど各サービスの特徴と料金とあわせて紹介します」（https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/）
+  - 「ここからは、製造業におすすめのビジネスマッチングを紹介します」（https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/）
+  - 「他にも決裁者に直接プレゼンできるイベントに参加したり、CS（カスタマーサクセス）が自社に合う決裁者を紹介してくれたりと、さまざまな形で決裁者と出会うことが可能です」（https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/）
+- 払う単価の手がかり：
+  - 「過去5年間の市場規模推移」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「顧客単価・雇用規模の動向」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「工業出荷額（百万円）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「1,000万円/年」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「平均賃金も上昇傾向にあり、2023年の平均年収は約540万円（出典：厚生労働省）」（https://ai.netoco.jp/manufacturing-market-size/）
+  - 「市場規模＝国内のその他の工場が 1 年間（1〜12 月）に出荷した製品の金額の合計」（https://the-shashi.com/market/other-manufacturing/）
+  - 「事業所数,従業者数及び製造品在庫額は12月31日現在，その他は年間」（https://the-shashi.com/market/other-manufacturing/）
+  - 「資金に余裕のない企業であれば、費用を捻出できない可能性もあるでしょう」（https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/）
+  - 「特に長期間利用する可能性があるときは、長期的にいくらかかるのか試算し、予算と照らし合わせた上で利用の可否を決めるといいでしょう」（https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/）
+  - 「BtoB営業と決裁者マッチングの領域に12年間携わり、決裁者同士をつなぐマッチングサービスを運営」（https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/）
+  - 「作り方・費用相場・必要機能まで徹底解説」（https://mallento.com/recommend/manufacturing-matching-services/）
+  - 「加工内容、図面、数量、納期、予算、希望条件を登録する」（https://mallento.com/recommend/manufacturing-matching-services/）
+  - 「マッチングサイト構築費用の相場や内訳を詳しく知りたい方はこちら」（https://mallento.com/recommend/manufacturing-matching-services/）
+  - 「【2026年版】マッチングサイトの開発費用はいくら？構築方法・機能別の相場を徹底解説！」（https://mallento.com/recommend/manufacturing-matching-services/）
+  - 「マッチングサイトを作りたいとき、多くの方が最初に気になるのが「構築費用はいくらかかるのか」という点です」（https://mallento.com/recommend/manufacturing-matching-services/）
+- 検索結果の抜粋：
+  - 「その他の製造業 の 市場規模 の 推移 | 1948〜2024年 — その他の製造業 の 市場規模 の 推移 | 1948〜2024年 The社史 https://the-shashi.com > 業界別市場規模」（https://the-shashi.com/market/other-manufacturing/）
+
+## 建築設計業（建築設計事務所）（architectural design offices Japan）
+- 文脈：建築事務所
+- 事業所数・従業者数（経済センサス等）：
+  - 「経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業別集計 サービス関連産業Ｂに関する集計5 サービス関連産業Ｂ（細分類），経営組織（３区分）別民営事業所数，従業者数及び売上（収入）金額―全国 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003215400）
+  - 「経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業別集計 サービス関連産業Ｂに関する集計」（https://www.e-stat.go.jp/dbview?sid=0003215400）
+  - 「サービス関連産業Ｂ（細分類），経営組織（３区分）別民営事業所数，従業者数及び売上（収入）金額―全国」（https://www.e-stat.go.jp/dbview?sid=0003215400）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/dbview?sid=0003215400）
+  - 「平成28年経済センサス‐活動調査」（https://www.e-stat.go.jp/dbview?sid=0003215400）
+  - 「日本の建築設計事務所業界の事業者数は非常に多く、国土交通省の登録データでは建築士事務所は全国で9万事業所を超える」（https://altvega.com/architectural-design-office-analysis-20250907/）
+- 増減・推移：
+  - 「建築・土木・測量といった分野では、有効求人倍率が他業界と比べて極めて高い水準で推移しており、慢性的な人手不足状態にあります」（https://legacy-jp.com/posts/551）
+  - 「また、建設技術者数は長期的に減少傾向にある一方で、建設投資額は大きく落ち込んでおらず、業務量と人材数のバランスが大きく崩れています」（https://legacy-jp.com/posts/551）
+  - 「設計技術者（意匠・構造・設備）の採用ニーズ増加とヘッドハンティング」（https://legacy-jp.com/posts/551）
+  - 「公共事業や民間開発の活発化によりプロジェクト数は増加していますが、それに比例して設計業務を担う人材が確保できているとは言えません」（https://legacy-jp.com/posts/551）
+  - 「特に、設計人材を含む、建設技術者の減少は著しく、2001年には約432万人の建設技術者が従事していましたが、2020年時点では約321万人まで減少しています」（https://legacy-jp.com/posts/551）
+  - 「つまり、建設投資額は変わらないが、建設技術者は100万人以上減少している状況です」（https://legacy-jp.com/posts/551）
+  - 「ある中堅規模の建築設計事務所では、公共建築案件の受注が増加する一方で、設計者不足が深刻化していました」（https://legacy-jp.com/posts/551）
+  - 「施工管理や設計、積算といった専門職を中心に、経験豊富なフリーランスが即戦力として現場を支えるケースが増加しています」（https://legacy-jp.com/posts/551）
+  - 「本記事では、データをもとに建設業界におけるフリーランス増加の実態と、その背景、活用事例、注意点について解説します」（https://legacy-jp.com/posts/551）
+  - 「トップ設計事務所の売上高や所員数は増加、設計・監理以外に事業拡大も | 日経クロステック（xTECH）」（https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/）
+  - 「トップ設計事務所の売上高や所員数は増加、設計・監理以外に事業拡大も」（https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/）
+  - 「今回のランキング表には昨年順位も併記しているため、前年からの推移を確認する際にご活用ください」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「また、設計・監理収入が100億円を超えた設計事務所は、前年の7社から今期は9社に増加しました」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「2025年決算で設計・監理収入が伸びた主な要因は、設計・監理部門の大幅な増員（前年比11.8％増）と、JFEスチールグループをはじめとする産業インフラ（工場・プラント設備）分野の堅調な需要です」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「日経アーキテクチュアの独自アンケートでは、2026年度の設計・監理業務収入について、増加を見込む企業が46％、横ばいが48％、減少が6％となり、全体として堅調な見方が優勢です」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+- 需要が増えるか：
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/dbview?sid=0003215400）
+  - 「製造品出荷額等の都道府県別順位」（https://www.e-stat.go.jp/dbview?sid=0003215400）
+  - 「設計技術者（意匠・構造・設備）の採用ニーズ増加とヘッドハンティング」（https://legacy-jp.com/posts/551）
+  - 「公共事業や民間開発の活発化によりプロジェクト数は増加していますが、それに比例して設計業務を担う人材が確保できているとは言えません」（https://legacy-jp.com/posts/551）
+  - 「その結果、長時間労働が常態化したり、受注案件を制限せざるを得ない状況に追い込まれる企業も少なくありません」（https://legacy-jp.com/posts/551）
+  - 「ある中堅規模の建築設計事務所では、公共建築案件の受注が増加する一方で、設計者不足が深刻化していました」（https://legacy-jp.com/posts/551）
+  - 「求人広告や人材紹介サービスを利用しても十分な応募が集まらず、事業拡大の足かせとなっていたため、ヘッドハンティングの導入を決断しました」（https://legacy-jp.com/posts/551）
+  - 「施工管理や設計、積算といった専門職を中心に、経験豊富なフリーランスが即戦力として現場を支えるケースが増加しています」（https://legacy-jp.com/posts/551）
+  - 「本記事では、データをもとに建設業界におけるフリーランス増加の実態と、その背景、活用事例、注意点について解説します」（https://legacy-jp.com/posts/551）
+  - 「トップ設計事務所の売上高や所員数は増加、設計・監理以外に事業拡大も | 日経クロステック（xTECH）」（https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/）
+  - 「トップ設計事務所の売上高や所員数は増加、設計・監理以外に事業拡大も」（https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/）
+  - 「ランキングで見る建設会社の稼ぎ頭、用途別の建築売上高・受注高トップ10」（https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/）
+  - 「レノボとニデックが水冷サーバー販売で連携、狙うは企業内AIサーバー需要」（https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/）
+  - 「ヤンマー建機、図面検索の「品番か品名しばり」を解消し情報利用を拡大」（https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/）
+  - 「韓国勢のチェコ原発受注に亀裂…工事費とリスク負担で施工交渉決裂」（https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/）
+- 働き手が減るか（人手不足）：
+  - 「建築・内装施工における施工管理や不動産デベロッパーにおける用地仕入れ営業職など、採用難易度が非常に高いポジションのヘッドハンティングを得意としている」（https://legacy-jp.com/posts/551）
+  - 「少子高齢化の影響により、日本の労働市場では人材不足が深刻化していますが、建設業界における設計人材の不足は特に顕著です」（https://legacy-jp.com/posts/551）
+  - 「「案件はあるが設計者が足りない」「主力設計者の高齢化が進んでいる」といった課題を抱える企業は少なくありません」（https://legacy-jp.com/posts/551）
+  - 「日本の労働市場は少子高齢化の影響により、あらゆる業界で人材不足が深刻化しています」（https://legacy-jp.com/posts/551）
+  - 「その中でも、建設業界の人手不足は特に顕著です」（https://legacy-jp.com/posts/551）
+  - 「現場では「現場監督や施工管理技術者が足りない」「社員の高齢化が進んでいる」といった声が多く聞かれ、人材獲得競争は年々激しさを増しています」（https://legacy-jp.com/posts/551）
+  - 「建築・土木・測量といった分野では、有効求人倍率が他業界と比べて極めて高い水準で推移しており、慢性的な人手不足状態にあります」（https://legacy-jp.com/posts/551）
+  - 「実際、多くの建築設計事務所が慢性的な人材不足を感じており、特に設備設計分野では人手不足が深刻です」（https://legacy-jp.com/posts/551）
+  - 「建設業界における構造的な人手不足」（https://legacy-jp.com/posts/551）
+  - 「ハローワークにおける建築・土木・測量技術者（常用・除くパート）の有効求人倍率は7倍（2024年3月時点）を記録しており、他業界（平均0.96倍）と比べても、極めて有効求人倍率が高い状態であるといえます」（https://legacy-jp.com/posts/551）
+  - 「採用難に直面している企業の採用担当者や経営者の方は、ぜひ一度、建設業界特化型のヘッドハンティング活用を検討してみてはいかがでしょうか」（https://legacy-jp.com/posts/551）
+  - 「建設業界で存在感を増すフリーランス―人手不足は外部人材で補うべき」（https://legacy-jp.com/posts/551）
+  - 「船井総合研究所などのシンクタンクは、DX（BIM・AI対応）や人材確保に積極投資できる大手・中堅組織設計事務所と、価格競争や人手不足に直面する小規模事務所の二極化が進むと指摘しています」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「少子高齢化で都市の縮退やコンパクトシティ化が課題となる中、住民合意形成、社会受容性、事業スキーム設計（PPP/PFI）など、都市計画の専門家によるプランニング需要はむしろ増加傾向にある」（https://altvega.com/architectural-design-office-analysis-20250907/）
+  - 「：一級建築士の高齢化が進むなか、事業承継、M&A、アライアンスの巧拙が、中長期の競争力を左右する」（https://altvega.com/architectural-design-office-analysis-20250907/）
+- 大手プラットフォームの有無：
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/dbview?sid=0003215400）
+  - 「4011ポータルサイト・サーバ運営業」（https://www.e-stat.go.jp/dbview?sid=0003215400）
+  - 「大手不動産デベロッパーや建設会社等のクライアントを担当するヘッドハンターとして、技術職・専門職のヘッドハンティング業務に従事」（https://legacy-jp.com/posts/551）
+  - 「そのため、求人サイトや転職エージェントを通じた「待ち」の採用では、こうした優秀層にアプローチすることができません」（https://legacy-jp.com/posts/551）
+  - 「このような状況では、知名度や待遇面で優位に立つ大手企業であっても採用に苦戦しがちです」（https://legacy-jp.com/posts/551）
+  - 「ヘッドハンターはこうした本音を丁寧に引き出し、企業と候補者双方にとって納得感のあるマッチングを実現します」（https://legacy-jp.com/posts/551）
+  - 「その結果、準大手設計事務所で15年の実務経験を持つ、30代後半の一級建築士との面談が実現しました」（https://legacy-jp.com/posts/551）
+  - 「Facebookでシェア」（https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/）
+  - 「LinkedInでシェア」（https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/）
+  - 「この記事をシェア」（https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/）
+  - 「NVIDIAの直流800V給電構想 参画企業2倍、電力インフラ大手も加勢」（https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/）
+  - 「設計事務所の直近の決算報告では、大手・中堅事務所を中心に、多くの企業が増収増益を達成し、業界全体の活況が続いています」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「スポーツ施設の設計で業界トップシェアを誇る梓設計では、大型案件が順調に進んだことが業績に寄与しました」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「大手設計事務所は、こうした将来予測に備え、人材採用・育成への投資を強化しています」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「船井総合研究所などのシンクタンクは、DX（BIM・AI対応）や人材確保に積極投資できる大手・中堅組織設計事務所と、価格競争や人手不足に直面する小規模事務所の二極化が進むと指摘しています」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+- 取引のやり方・不便：
+  - 「7992結婚相談業，結婚式場紹介業」（https://www.e-stat.go.jp/dbview?sid=0003215400）
+  - 「91職業紹介・労働者派遣業」（https://www.e-stat.go.jp/dbview?sid=0003215400）
+  - 「911職業紹介業」（https://www.e-stat.go.jp/dbview?sid=0003215400）
+  - 「9111職業紹介業」（https://www.e-stat.go.jp/dbview?sid=0003215400）
+  - 「しかし、こうした設計技術者を求人広告や人材紹介会社経由で採用しようとしても、なかなか成果につながらないケースが多く見られます」（https://legacy-jp.com/posts/551）
+  - 「ここで、設計技術者のヘッドハンティングに成功した具体的な事例をご紹介します」（https://legacy-jp.com/posts/551）
+  - 「求人広告や人材紹介サービスを利用しても十分な応募が集まらず、事業拡大の足かせとなっていたため、ヘッドハンティングの導入を決断しました」（https://legacy-jp.com/posts/551）
+  - 「サーチ型ヘッドハンティングと通常の人材紹介の違い【現役ヘッドハンターが解説】」（https://legacy-jp.com/posts/551）
+  - 「本記事では、現役ヘッドハンターの視点から、サーチ型ヘッドハンティングと通常の人材紹介の違いについて解説します」（https://legacy-jp.com/posts/551）
+  - 「学生団体紹介」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「そこで本記事では、最新の調査データをもとに、「設計・監理収入（本業売上）上位30社」のランキングを紹介します」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「設計事務所の経営動向を把握するもう1つの方法は、業界紙の購読です」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「業界紙の紙面やWeb記事には、各事務所の売上高や最新プロジェクト情報が随時掲載されます」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「一方で、業界紙を発行する新聞社では、1年間のデータを体系的にまとめた定期刊行物（年鑑などの書籍）も発行しています」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「実売は同年10月7日頃）に掲載された「設計事務所の設計・監理収入」をもとに、ランキング形式で紹介します」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+- 払う単価の手がかり：
+  - 「【優勝50万円】教科書を超えた実戦へ」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「創業104年/プライム市場上場のKAWADAグループ/年間休日125日/有給休暇20日/福利厚生・研修制度充実/」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「日本ハウズインググループ企業✨完全週休2日制・初任給27万円～ / 支え合う職場で、未経験からプロへ」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「■設計事務所 設計・監理収入ランキング上位30社（単位：百万円）」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「一方で、業界紙を発行する新聞社では、1年間のデータを体系的にまとめた定期刊行物（年鑑などの書籍）も発行しています」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「・1位 JFE設計：26億1,200万円（前期比26.6％増）」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「・2位 綜企画設計：74億8,600万円（前期比20.0％増）」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「・3位 プランテック：52億6,300万円（前期比18.7％増）」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「・4位 内藤建築事務所：60億8,100万円（前期比18.6％増）」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「・5位 梓設計：177億9,500万円（前期比18.3％増）」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「文教施設（教育・研究施設）や官公庁案件の設計・監理を得意とし、近年の決算では、2023年9月期の50億4,000万円から、2024年9月期は64億400万円、2025年9月期は76億6,800万円へと、3期連続で大幅な増収を達成しています」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「事務所ビルの上位5社は前年と同じ顔ぶれですが、三菱地所設計（1位、195億3,700万円）と日建設計（2位、148億5,100万円）の順位が入れ替わりました」（https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207）
+  - 「（ ）内数値は、売上高（百万円）」（https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices）
+  - 「2025年度の住宅部門では、日建設計が4,530百万円で1位となった」（https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices）
+  - 「2018年度から2024年度まで首位を維持していた日企設計は4,186百万円で2位に後退した」（https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices）
+
+## デザイン業（工業デザイン・プロダクトデザイン）（industrial design firms Japan）
+- 文脈：デザイン会社
+- 事業所数・従業者数（経済センサス等）：
+  - 「１．デザインに関する事業所」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「１）事業所数の推移：デザイン業の事業所数は近年減少傾向」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 2014 年のデザイン業の事業所数は9,010 となっています」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 2009 年から 2014 年の 5 年間に 15%の事業所数減少が見られ、厳しい業界環境がうかがえます」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「資料：総務省「事業所・企業統計調査」(’06)、総務省「経済センサス」(’09,’12,’14) ※全産業からは民営事業所のみ」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「資料：総務省「事業所・企業統計調査」(‘06)、総務省「経済センサス」(’09,’12,’14)※全産業からは民営事業所のみ」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「２）事業所の構成：従業者数 10 人未満、売上高 1 億円未満の小規模事業所が 9 割に」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 事業所数を従業者規模別にみると、｢4 人以下｣が 78％を占めます」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「と、9 割超が 10 人未満の小規模事業所となっています」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「上 1 億円未満｣が 22％と、売上高 1 億円未満の事業所が 9 割を超えています」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数9-3 産業(小分類)、経営組織(5区分)、従業者規模(8区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「産業(小分類)、経営組織(5区分)、従業者規模(8区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+- 増減・推移：
+  - 「１）事業所数の推移：デザイン業の事業所数は近年減少傾向」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「過去の推移をみると、2009 年には 10,000」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「超となりましたが、その後は減少が続いています」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 2009 年から 2014 年の 5 年間に 15%の事業所数減少が見られ、厳しい業界環境がうかがえます」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「デザイン業の事業所数の推移（単位：件）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「増加率 - +6.8% -14.2% -0.8%」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「１）売上高の推移：売上高は横ばいないしは減少基調」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 対前年比で 2013 年には 11％、2014 年には 7％のマイナスとなっており、デザイン業を取り巻く経営環」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「デザイン業の年間売上高の推移（単位：百万円）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「５）営業利益率の推移：景気停滞期を経て、産業のコスト削減等の対応力が向上」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 2009～10 年にかけては、営業費用圧縮が売上減少に追いつかず営業利益率の低下が見られました」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 一方、2013 年から 14 年にかけての売上高減少期には、売上減少幅を上回る営業費用削減により営」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「この傾向は環境問題に対処するだけでなく、環境意識の高い消費者の層の増加にも共感を呼びます」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+  - 「この傾向は、国際的なデザイン会社と地元の職人との間の協力の増加に反映されており、革新と創造性を促進しています」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+  - 「この分野は継続的な技術進歩の恩恵を受けており、家庭用電化製品、通信デバイス、スマート テクノロジーに対応する革新的な設計ソリューションに対する需要の増加につながっています」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+- 需要が増えるか：
+  - 「増加率 - +6.8% -14.2% -0.8%」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 対前年比で 2013 年には 11％、2014 年には 7％のマイナスとなっており、デザイン業を取り巻く経営環」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「１）デザイナー数の推移：デザイナー数は堅調に増加」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 2000 年に 16.1 万人、05 年に 16.5 万人、10 年には 18.0 万人と、堅調に増加しています」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 年代別にみると、男女とも 40 代半ばまではほぼ同じですが、45 代後半で男性の労働時間数が増加す」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「その後男性が漸減するのに対し、女性は増加をたどっています」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 年齢層別には、30 代半ばくらいまでは収入が順調に増加し、その後増加率は次第に低くなるものの、40」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「代までは増加基調が続きます」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 一方、役員はこの間徐々に増加し、フリーランスも 2005 年から 10 年にかけて急速に増加しています」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「（1）人々はクリエイティビティが経済成長の鍵だと考えている」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「どの国も回答者の 80%前後の人々が経済成長にはクリエイティビティが重要と考えています」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「クリエイティビティは経済成長の鍵だと思うか？」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「製造品出荷額等の都道府県別順位」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「産業デザイン市場規模、トレンド分析 | 予測 - 2035」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+- 働き手が減るか（人手不足）：
+  - 「２）デザイナーの構成：20 代～30 代が多く、平均年齢は 39.6 歳」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「東京商工リサーチは7月17日、コスト高や人手不足、住宅ローン金利の上昇などを背景に、26年上半期のハウスメーカーの倒産が25年同期比87.3％増加したと発表している」（https://www.itmedia.co.jp/news/article/2608/04/2000000377/）
+- 大手プラットフォームの有無：
+  - 「ソフトウェア大手の米国アドビシステムズ社が主要先進国のクリエイティビティをベンチマークするために実施した」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「・ デザインサービスミッション：各国の英国大使館によるイギリスのデザイン事務所と現地企業とのマッチングイ」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「・ 公認デザイン事務所：KIDP が公認したデザイン事務所をデータベースに登録と企業とのマッチングを狙い、」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「・ 国内外のデザイン情報を一元的に収集・管理・配信するポータルサイト(global.designdb.com)運営」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「●ポータルサイト(http://www.kultur-kreativ-wirtschaft.de/) の運営」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「●クリエイティブ産業プラットフォームの設置」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「・ 連邦政府レベルの文化・クリエイティブ産業のためのプラットフォームとして、CoE が情報提供、助言、ネット」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「2024 年に最大の地域市場シェアを獲得」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+  - 「工業デザイン市場では、ユーザー エクスペリエンスを向上させ、製品とのシームレスなインタラクションを確保することに重点を置いているため、ユーザー干渉およびインタラクション デザインが最大のシェアを占めています」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+  - 「工業デザイン市場には多様なアプリケーションが展示されており、この分野ではエレクトロニクスが大きなシェアを占めています」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+  - 「北米は依然として工業デザインの最大の市場であり、世界シェアの約 45% を占めています」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+  - 「ヨーロッパは工業デザインの第 2 位の市場であり、世界市場シェアの約 30% を占めています」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+  - 「アジア太平洋地域では工業デザイン市場が急速に成長しており、世界シェアの約20％を占めています」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+  - 「中東およびアフリカ地域は工業デザイン市場の重要なプレーヤーとして台頭しており、世界シェアの約 5% を占めています」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+- 取引のやり方・不便：
+  - 「を収集・調査したものを紹介します」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「海外の企業や団体が実施したデザインやクリエイティビティに関する調査やランキングの中から主要なものを紹介」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「以下調査の中から主要な結果をご紹介します」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「デザインに関する評価レポートから主要な結果をご紹介します」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「国のデザイン政策をご紹介します」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「これは、①失業者を減らすための職業紹介機能や職業訓練の強化、②モラル」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「・ デザインコリア：韓国のデザインを紹介する「デザインコリア」を中国とソウルで開催」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「ラムの紹介なども実施」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「選定商品には「グッドデザインぐんまシンボルマーク」の使用を許可すると共に、県 HP 上での紹介や選定商品カ」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「選定商品は、制定したシンボルマークを使用できるほか、選定商品カタログ作成、展示会開催 HP 上での紹介」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「パルプ・紙・紙加工品製造業」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「管理，補助的経済活動を行う事業所（14_パルプ・紙・紙加工品製造業）」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「加工紙製造業」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「紙製品製造業」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+  - 「紙製容器製造業」（https://www.e-stat.go.jp/dbview?sid=0004005673）
+- 払う単価の手がかり：
+  - 「 2009 年から 2014 年の 5 年間に 15%の事業所数減少が見られ、厳しい業界環境がうかがえます」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 売上高規模別には｢1 千万円未満｣が 41％、｢1 千万円以上 3 千万円未満｣が 28％、｢3 千万円以」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「1 千万円未満 3,321 40.7%」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「1 千万円以上 3 千万円未満 2,292 28.1%」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「3 千万円以上 1 億円未満 1,829 22.4%」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「 2014 年のデザイン業の年間売上高は 3,240 億円となっています」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「デザイン業の年間売上高の推移（単位：百万円）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「従業者規模別 年間売上高（2014 年、単位：百万円）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「従業者規模 年間売上高 比率」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「業務別 年間売上高（2014 年、単位：百万円）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「業務 年間売上高 比率」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「業務種類別 年間売上高（事業従業者数 5 人以上、単位：百万円）」（https://www.meti.go.jp/policy/mono_info_service/mono/human-design/file/2016handbook/04_toukei.pdf）
+  - 「工業デザイン業界は2025年の480億1,000万米ドルから2035年までに798億6,000万米ドルに成長すると予測されており、2025年から2035年の予測期間中に5.22%の年間平均成長率(CAGR)を示します」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+  - 「たとえば、3Dプリンティングの採用は、今後5年間で年平均成長率25%で成長すると予測されており、業界内の生産能力に大きな影響を与えます」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+  - 「レポートには包括的な要約が含まれており、今後数年間に業界リーダーが直面するすべての機会、トレンド、および脅威を探ります」（https://www.marketresearchfuture.com/ja/reports/industrial-design-market-6936）
+- 検索結果の抜粋：
+  - 「AIの広がりも影響、「 デザイン業 」倒産が14年ぶり高水準 ... — AIの広がりも影響、「 デザイン業 」倒産が14年ぶり高水準 ... 東京商工リサーチ https://www.tsr-net.co.jp > data > detail」（https://www.tsr-net.co.jp/data/detail/1203096_1527.html）
+  - 「hiromi maeo on X: " デザイン業 の倒産が2026年上半期で40件 ... — hiromi maeo on X: " デザイン業 の倒産が2026年上半期で40件 ... X https://x.com > @enhanced_jp」（https://x.com/enhanced_jp/status/2084522864762593688）
+  - 「デザイン業 の倒産は40件・前年同期比2.7倍：生成AIの「内製 ... — デザイン業 の倒産は40件・前年同期比2.7倍：生成AIの「内製 ... note https://note.com > ビジネス > 経営・マネジメント」（https://note.com/jolly_lotus681/n/nc017d6629cc1）
+  - 「デザイン業 の倒産166.6％増、ホームセンターは4期連続減益 — デザイン業 の倒産166.6％増、ホームセンターは4期連続減益 rad-st.jp https://rad-st.jp > 最新情報」（https://rad-st.jp/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%A5%AD%E3%81%AE%E5%80%92%E7%94%A3166-6%EF%BC%85%E5%A2%97%E3%80%81%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AF4%E6%9C%9F%E9%80%A3/）
+  - 「AI普及で デザイン業 の倒産が前年比2.7倍に 「独自性 ... - ITmedia — AI普及で デザイン業 の倒産が前年比2.7倍に 「独自性 ... - ITmedia ITmedia https://www.itmedia.co.jp > news > article」（https://www.itmedia.co.jp/news/article/2608/04/2000000377/）
+  - 「「 デザイン業 」の倒産が14年ぶり高水準、生成AI普及も影響か ... — 「 デザイン業 」の倒産が14年ぶり高水準、生成AI普及も影響か ... ビジネス+IT https://www.sbbit.jp > IT戦略 > AI・生成AI」（https://www.sbbit.jp/article/cont1/186387）
+  - 「[ 工業デザイン 事務所]7.インダストリアル デザイン の依頼 — [ 工業デザイン 事務所]7.インダストリアル デザイン の依頼 CMF Design Lab https://www.cmfdesignlab.com > productdesignphilosoph...」（https://www.cmfdesignlab.com/productdesignphilosophy07.html）
+  - 「プロダクトデザイン の料金の 相場 は？内訳や事例 - 株式会社346 — プロダクトデザイン の料金の 相場 は？内訳や事例 - 株式会社346 株式会社346 https://346design.com > blog > qypJVcoA」（https://346design.com/blog/qypJVcoA）
+  - 「プロダクトデザイン 会社比較14選。料金 相場 やタイプ別の選び方 — プロダクトデザイン 会社比較14選。料金 相場 やタイプ別の選び方 boater.jp https://boater.jp > article」（https://boater.jp/article/5428）

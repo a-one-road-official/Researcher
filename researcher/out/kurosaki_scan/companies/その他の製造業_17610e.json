@@ -1,0 +1,1504 @@
+{
+ "name": "その他の製造業",
+ "en": "other manufacturing Japan",
+ "aliases": [
+  "その他の製造業",
+  "試作 製造"
+ ],
+ "context": "製造業",
+ "kind": "market",
+ "researched_at": "2026-11-04T13:00:02.093249+00:00",
+ "evidence": {
+  "事業所数・従業者数（経済センサス等）": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数6-2 産業(中分類)、従業上の地位(6区分)、男女別従業者数（民営事業所）－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、従業上の地位(6区分)、男女別従業者数（民営事業所）－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 産業編 3-19 産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 平成24年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 製造業に関する集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 製造品出荷額等(消費税を除く内国消費税額及び推計消費税額を控除したもの)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "に達しており、前年比約2.4％増となりました（出典：経済産業省「工業統計調査」）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "約38万事業所（うち中小企業が約99％）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数・従業者数は、その年の 12 月末の数",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "令和 2 年（2020 年）までは従業者 4 人以上の事業所、令和 3 年（2021 年）からは全事業所（個人経営を除く",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "1985 年: 昭和 60 年から事業所の範囲が従業者 4 人以上にそろい、「飲料・たばこ・飼料」が食料品から分かれた",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "2021 年: 令和 3 年から経済構造実態調査（全事業所・個人経営を除く）",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省統計局「日本の長期統計系列」表 8-6（原資料: 経済産業省「工業統計調査（産業編）」）",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 4 人以上（1963〜1976 年は全事業所",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "単位: 金額は億円、従業者数は千人にそろえた（原表は 1984 年以前が億円・人、1985 年以降が 10 億円・千人）",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "登録企業数は約17,000事業所であることから、多くの出会いのチャンスがあるでしょう",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   }
+  ],
+  "需要が増えるか": [
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等の都道府県別順位",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 産業編 3-19 産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別、従業者規模別、１事業所当たり及び従業者１人当たりの統計表、製造品出荷額等及び付加価値額等（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 製造品出荷額等(消費税を除く内国消費税額及び推計消費税額を控除したもの)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり 生産額(消費税を除く内国消費税額及び推計消費税額を控除したもの)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人当たり 製造品出荷額等(消費税を除く内国消費税額及び推計消費税額を控除したもの)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の市場規模2026｜出荷額358兆円と将来性 | AITSolutionsNet",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の市場規模2026｜出荷額358兆円と将来性",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の市場規模と将来性【2026年版】（業界全体像）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "過去5年間の市場規模推移",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "【都道府県別】工業出荷額と全国シェア（2024年度 統計データ）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は約358兆円",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "に達しており、前年比約2.4％増となりました（出典：経済産業省「工業統計調査」）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額（2023年）：",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "約358兆円（前年比+2.4％）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "為替の円安効果や輸出需要の回復により、生産活動は堅調に推移していますが、一方で人件費・エネルギーコストの上昇が収益を圧迫しています",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の工業出荷額における上位県の顔ぶれは、いわゆる「太平洋ベルト地帯」に集中しており、港湾設備や高速道路網といった物流インフラの集積度と正の相関を示している",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の表は、最新の統計に基づく都道府県別の工業出荷額とその全国シェアを示したものである",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の製造業の市場規模の推移 | 1948〜2024年",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "業界別市場規模",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の製造業の市場規模の推移",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の製造業は楽器・文具・玩具などをまとめた業界で、市場規模は1960年の0.4兆円から1984年に11.3兆円まで伸びた",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 | 製造品出荷額等",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "品目別の市場規模",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽教室で弾き手を育てピアノ需要をつくる",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模＝国内のその他の工場が 1 年間（1〜12 月）に出荷した製品の金額の合計",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "国の工業統計で「製造品出荷額等」と呼ぶ数字",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし，生産額及び製造品在庫額については，昭和38，39年は従業者10人以上の製造業の事業所，40～50年は従業者20人以上の製造業の事業所，昭和51年～59年までは従業者30人以上の製造業の事業所，昭和60年以降は4人以上の製造業の事業所",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等（市場規模）",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "企業間連携による共同受注で",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "共に挑戦・成長していくサービスです",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "受注したい・取引先を探したい！",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "グループで共同受注したい！",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・加工・組立といった各社の技術や強みを持ち寄り、共同受注体制で設計から製造までワンストップで対応します",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "受注したい・取引先を探したい",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "また、登録のある全国の製造業から新規顧客を開拓でき、販路拡大、受注機会の増加を支援します",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【共同受注でお客様からの依頼を断らない体制を構築】",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業同士が協力してグループを作ると、企業間連携による共同受注で設計から製造までワンストップでものづくりを受注できるようになります",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "新規取引先の開拓、見積業務の効率化、受注拡大を目指す製造業を支援します",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外のものづくり相談者からの依頼を受注できます",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業による共同受注体である「I-OTA」との連携により、日本全国の製造業が直面している本質的な課題を解決できるITソリューションパートナーとなる事を目指しています",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "営業コストの削減や人材不足の補完に加え、新規販路の拡大や資金調達、OEMの実現まで幅広い効果が見込める",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "新規販路の拡大につながる",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "流通ノウハウのある企業とマッチし協業すれば、さらなる販路拡大も見込めるでしょう",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "効率よく新規販路を拡大したい場合は、ビジネスマッチングの利用が大いに役立つでしょう",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業にとっては新規の仕事を受注できるだけではなく、自社の技術力を他社にアピールする機会を得られます",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "質問は受注側の企業へ渡され、受注側が回答します",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "Linkersが発注側の望む要件をまとめ、受注側に適切な質問をしてくれるため、お互いのニーズが合う企業と効率よく出会えるでしょう",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "販路拡大やPRも効率的に行えるため、今後の事業展開に大きく役立てられます",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "無料であれば技術・製品情報を最大8点まで掲載でき、有料プランであれば最大3,000点まで拡大できます",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "お互いのニーズを満たせる企業と出会うことにより、自社の成長も見込めるでしょう",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業とのつながりも生まれるため、これからビジネスを拡大していきたい企業におすすめです",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "販路拡大につながるアライアンスパートナー",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業マッチングサービス」とは、装置開発、部品製造などのものづくりに関する案件について、「発注したい（依頼したい）企業」と「受注したい（依頼を受けたい）企業」を結ぶビジネスマッチングサービスです",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "対して受注側（例：製造業、町工場など）は、自社の設備・得意分野・実績を掲載し、案件を受けられます",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインの製造業マッチングサービスは、インターネット上で発注側と受注側をつなぎ、最適な取引先を簡単に探せます",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "受注側（仕事を受ける側）のメリット",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   }
+  ],
+  "大手プラットフォームの有無": [
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "【都道府県別】工業出荷額と全国シェア（2024年度 統計データ）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "主要分野別シェア（2023年）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の表は、最新の統計に基づく都道府県別の工業出荷額とその全国シェアを示したものである",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "全国シェア（％）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、大企業（従業員300人以上）は全体の1％に満たないものの、出荷額ベースでは全体の約55％を占める寡占的構造です",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "＼ 厳しい市場で生き残る！ポータルサイト依存からの脱却 ／",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "プラッとものづくり｜設計製造・試作開発のビジネスマッチングプラットフォーム｜図面不要で相談｜DXソリューションのテクノア",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "受発注マッチングプラットフォームです",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【取引先開拓と案件管理を行えるものづくりマッチングプラットフォーム】",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoBプラットフォーム 受発注 for 製造業",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におすすめのビジネスマッチング10選｜メリットと選び方 - 決裁者同士が繋がる審査制プラットフォーム｜ONLYSTORY（オンリーストーリー）",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業へのプレゼン会",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスマッチング",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におすすめのビジネスマッチング10選｜メリットと選び方",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におすすめのビジネスマッチング10選を、チラCEOやLinkers、J-GoodTechなど各サービスの特徴と料金とあわせて紹介します",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスマッチングは接点を広げる手段ですが、サービスごとに得意な領域が異なります",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のビジネスマッチングは、製造を依頼したい企業と技術やノウハウを提供したい企業が効率よく出会える仕組みである",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におけるビジネスマッチングとは？",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におけるビジネスマッチングとは、製品の製造を依頼したい企業と、技術やノウハウを提供したい企業が出会えるサービスのことです",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、ビジネスマッチングを利用すると効率よく営業活動を行えるため、従来の方法よりも契約を獲得しやすくなります",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "海外で製品の販売先や部品製作の委託先を探す場合も、ビジネスマッチングが有効です",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "海外企業とつながりを持ちたい場合は、海外企業とマッチングできるビジネスマッチングを利用すると、ニーズに合った取引先が見つかります",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングサービスとは？仕組みと利用メリットを解説｜ものづくりコラム Techno WA!｜中小製造業様向け DXソリューション・生産管理システムのテクノア",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングサービスとは？仕組みと利用メリットを解説",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "1. 製造業マッチングサービスとは？",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "2. 製造業マッチングサービスを使うメリット",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "4. 従来の方法と製造業マッチングサービスの比較",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "5. 製造業マッチングサービスの活用ポイント",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォーム事業部",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "現在はプラットフォーム事業部にて様々な業務に従事しております",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業マッチングサービス」",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業マッチングサービス」とは、装置開発、部品製造などのものづくりに関する案件について、「発注したい（依頼したい）企業」と「受注したい（依頼を受けたい）企業」を結ぶビジネスマッチングサービスです",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインの製造業マッチングサービスは、インターネット上で発注側と受注側をつなぎ、最適な取引先を簡単に探せます",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "』も、こうしたオンライン型の製造業マッチングサービスの一つです",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】製造業マッチングサイトおすすめ9選",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "加工先探し・相見積り・技術マッチングを比較",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイト開発/構築で失敗しない方法",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイトをAIで低コスト・高品質に構築!!／",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングとは",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングとは、部品加工、試作、量産、OEM、共同開発、技術相談などを依頼したい企業と、対応できる製造会社・工場・技術企業をつなぐ仕組みです",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングサイトを使うと、発注側は加工先、試作先、量産先、OEM先、共同開発先を探しやすくなります",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングが注目される背景には、BtoB取引のオンライン化があります",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングサイトは、こうした流れの中で、発注先探しや受注獲得、技術連携を効率化する手段として注目されています",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングサイトを選ぶときは、サービス名だけで判断しないことが重要です",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "加工先を探したいのか、技術パートナーを探したいのか、案件を獲得したいのか、自社で受発注マッチングサイトを作りたいのか",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB・受発注型のマッチングサイト構築を検討している方はこちら",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   }
+  ],
+  "取引のやり方・不便": [
+   {
+    "quote": "パルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介・労働者派遣業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "14パルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "pass": 3
+   },
+   {
+    "quote": "着衣・脱衣施術の内訳、価格競争と高付加価値化の二極化、業界課題まで紹介します",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページの扱いや罰則も紹介します",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "マットレスや介護用寝具を厳選して紹介",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "（できる限りSNSへの投稿ではなく、飲み会や、社内 Slack・Teams など、リアルな口コミでご紹介いただけますと大変嬉しく存じます",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "グループの紹介",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "今までものづくり事業者と電話やFAXで行っていた見積依頼や見積回答を、クラウドサービス上で行うことができます",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介グループ代表として利用をご希望される方は、別途",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "※※紹介グループ代表の料金プランは、別途",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におすすめのビジネスマッチング10選を、チラCEOやLinkers、J-GoodTechなど各サービスの特徴と料金とあわせて紹介します",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、製造業におすすめのビジネスマッチングを紹介します",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "他にも決裁者に直接プレゼンできるイベントに参加したり、CS（カスタマーサクセス）が自社に合う決裁者を紹介してくれたりと、さまざまな形で決裁者と出会うことが可能です",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "自社のニーズに合う加工業者を、専門家が探索して紹介してくれます",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の企業とマッチングできるので、外注先を見つけたい企業にもおすすめです",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 本記事で紹介した10選のうち、J-GoodTech、モノマド、Bentenは無料で利用できます",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "想いを届ける手書きの手紙など、独自の形で支援を続けています",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "お電話でのお問い合わせ",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "「新しい取引先を探したいけれど、知り合いの紹介や展示会頼みだと限界がある…」そんな悩みを抱えるスタートアップ企業の経営者や製造業の設計・調達担当者は少なくありません",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、従来の「展示会」「商工会議所」「知人の紹介」といったオフラインの手段に比べて、時間やコストを大幅に短縮できることが大きな特長です",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "商工会/業界団体の紹介",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "紹介できる地域が限られることが多い",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "知人・取引先からの紹介",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングサービスは、従来の「紹介や展示会」に加わる新しい取引先開拓の手段です",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "MESとは？製造実行システムとしての機能や業務のIT化による改善例をご紹介！",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "製造業でペーパーレスは実現できるのか？～紙との共存で進めるDX戦略～",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "FAX：058-273-9562",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "製品・ソリューション紹介",
+    "url": "https://www.techs-s.com/media/show/331",
+    "pass": 3
+   },
+   {
+    "quote": "加工先探し・相見積り・技術マッチングを比較",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "調達、相見積り、図面共有、技術探索、販路開拓をオンラインで進める流れ",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "図面をアップロードして相見積りを取りたい場合",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "見積比較・外注先探し",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造会社への相談、複数社見積、外注先比較",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "部品加工、試作、量産、外注先探し",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、製造業マッチングに使えるサービスを紹介します",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工の外注先を探したい企業、複数工場から相見積りを取りたい企業、短納期で対応先を探したい企業",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "発注者は相見積り・発注先選定、受注者は",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "調達市場は、発注企業にとっては相見積りや発注先選定のツール、受注企業にとっては新規案件を見つける営業ツールとして使えます",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "図面をもとに発注先を探したい企業、相見積りを取りたい企業、全国の案件に見積りを出したい製造会社",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "図面をもとに製造業の相見積りを取りたい発注企業、自社に合う案件へ見積りを出したい受注企業",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "技術系ライターの紹介",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "【執筆者紹介】渡部 仁志 執筆者詳細を開く",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "電話対応:平日9:00~18:00",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "※営業電話は致しませんのでご安心ください",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "過去5年間の市場規模推移",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "に達しており、前年比約2.4％増となりました（出典：経済産業省「工業統計調査」）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "約358兆円（前年比+2.4％）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "約333兆円（コロナ禍による減少）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "為替の円安効果や輸出需要の回復により、生産活動は堅調に推移していますが、一方で人件費・エネルギーコストの上昇が収益を圧迫しています",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化により熟練技能者が減少",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の推移や今後の予測、企業法務・個人法務・刑事事件など分野別動向、他の士業やサービス産業との規模比較について解説します",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の製造業の市場規模の推移 | 1948〜2024年",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の製造業の市場規模の推移",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "また、登録のある全国の製造業から新規顧客を開拓でき、販路拡大、受注機会の増加を支援します",
+    "url": "https://platto.technoa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は少子高齢化の影響によって人材不足が深刻化しており、特に製造業においては技能のある人材が減少しています",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   }
+  ],
+  "働き手が減るか（人手不足）": [
+   {
+    "quote": "一方で、国内生産の空洞化や人手不足、エネルギーコスト上昇などの課題も存在します",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化により熟練技能者が減少",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は少子高齢化の影響によって人材不足が深刻化しており、特に製造業においては技能のある人材が減少しています",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "また、中小企業・小規模事業者においても、DXは人手不足への対応や生産性向上、新規事業創出による需要獲得につながる可能性があります",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   }
+  ],
+  "払う単価の手がかり": [
+   {
+    "quote": "過去5年間の市場規模推移",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客単価・雇用規模の動向",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "工業出荷額（百万円）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円/年",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "平均賃金も上昇傾向にあり、2023年の平均年収は約540万円（出典：厚生労働省）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模＝国内のその他の工場が 1 年間（1〜12 月）に出荷した製品の金額の合計",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数,従業者数及び製造品在庫額は12月31日現在，その他は年間",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "資金に余裕のない企業であれば、費用を捻出できない可能性もあるでしょう",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "特に長期間利用する可能性があるときは、長期的にいくらかかるのか試算し、予算と照らし合わせた上で利用の可否を決めるといいでしょう",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB営業と決裁者マッチングの領域に12年間携わり、決裁者同士をつなぐマッチングサービスを運営",
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "作り方・費用相場・必要機能まで徹底解説",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "加工内容、図面、数量、納期、予算、希望条件を登録する",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイト構築費用の相場や内訳を詳しく知りたい方はこちら",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】マッチングサイトの開発費用はいくら？構築方法・機能別の相場を徹底解説！",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイトを作りたいとき、多くの方が最初に気になるのが「構築費用はいくらかかるのか」という点です",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、マッチングサイト構築におすすめの開発会社、会社選びのポイント、費用相場、必要機能、開発方法の違いまでわかりやすく解説します",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のホームページ制作にかかる費用と相場（外注時） | テクノポート株式会社",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のホームページ制作にかかる費用と相場（外注時）",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページの制作の見積もりを依頼した際に、「なんでこんなに見積もりの金額が違うの？」と思ったことはありませんか？今日はホームページ制作にかかる費用についてです",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "まず最初に制作費用には決められた金額はありません",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "基本金額：数万円から10万円程度",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "費用プラス要因１：図面がない",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "概算プラス金額：30万円～",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "費用プラス要因２：外観や精度にこだわりたい",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "概算プラス金額：10万円～",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "費用プラス要因３：さまざまな2次加工もお願いしたい",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "費用プラス要因４：納期がない（短い）",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   },
+   {
+    "quote": "費用変動要因５：手直し、修正、やり直し",
+    "url": "https://techport.co.jp/archives/11748",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "その他の製造業 の 市場規模 の 推移 | 1948〜2024年 — その他の製造業 の 市場規模 の 推移 | 1948〜2024年 The社史 https://the-shashi.com > 業界別市場規模",
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005672",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t40000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://danbo-ru.ntp-k.co.jp/column/improve/detail54",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/014_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sellwell.jp/datahub/industry/manufacturing-total/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/manufacturing-systems",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://the-shashi.com/market/other-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/20/backdata/1-1-10.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000001006.000043465.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platto.technoa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techs-s.com/media/show/331",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monotown-kadoma.jp/matching-site",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kktisc.co.jp/product/wholesale/fax/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aladdin-ec.jp/seminar/20220907/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecbeing.net/b2b/contents/detail/22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/240422.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://batton.co.jp/column/fax-juhacchu-gyomu-kaizen/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://techport.co.jp/archives/11748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hajime-i.com/2016/01/20/blog24outsourcing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/accounting/basic/73672/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ilink-corp.co.jp/9552.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je13/pdf/p02012_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "その他の製造業 事業所数 従業者数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0004005672",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuskasz/2021/sz21t40000.htm",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.pref.saitama.lg.jp/documents/216149/r3kcensus_seizo_gaiyo.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0004005688"
+   ]
+  },
+  {
+   "query": "その他の製造業 人手不足 有効求人倍率",
+   "results": [
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://danbo-ru.ntp-k.co.jp/column/improve/detail54",
+    "https://www.jinzaiplus.jp/posts/230",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://www.jmam.co.jp/hrm/column/0136-manufacturing.html",
+    "https://freejob.work/content/b0016/",
+    "https://job.goo.to/occupations/ratio"
+   ]
+  },
+  {
+   "query": "その他の製造業 市場規模 推移",
+   "results": [
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/014_04_00.pdf",
+    "https://ai.netoco.jp/manufacturing-market-size/",
+    "https://sellwell.jp/datahub/industry/manufacturing-total/",
+    "https://service.xenobrain.jp/forecastresults/market-size/manufacturing-systems",
+    "https://the-shashi.com/market/other-manufacturing/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jetro.go.jp/invest/attractive_sectors/manufacturing/attractive_markets.html",
+    "https://www.atpress.ne.jp/news/8808867",
+    "https://kpmg.com/jp/ja/insights/2025/06/analysis-global-industrial-manufacturing.html",
+    "https://the-shashi.com/market/"
+   ]
+  },
+  {
+   "query": "その他の製造業 休廃業 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/20/backdata/1-1-10.html",
+    "https://prtimes.jp/main/html/rd/p/000001006.000043465.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "https://ecnomikata.com/ecnews/marketing/48265/",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/894819cbdb13457a8a5216333d05fda1/20260204_%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%83%BB%E3%80%8C%E4%BC%91%E5%BB%83%E6%A5%AD%E3%83%BB%E8%A7%A3%E6%95%A3%E3%80%8D%E5%8B%95%E5%90%91%E8%AA%BF%E6%9F%BB%EF%BC%882025%E5%B9%B4%EF%BC%89.pdf",
+    "https://restart-style.com/knowledge/manufacturing_bankruptcy/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_8.html"
+   ]
+  },
+  {
+   "query": "その他の製造業 マッチング プラットフォーム",
+   "results": [
+    "https://platto.technoa.co.jp/",
+    "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "https://www.techs-s.com/media/show/331",
+    "https://monotown-kadoma.jp/matching-site",
+    "https://mallento.com/recommend/manufacturing-matching-services/",
+    "https://mtame.jp/column/matching_service/",
+    "https://www.smrj.go.jp/sme/overseas/jgoodtech/index.html",
+    "https://chushokigyo-support.or.jp/column/business-matching/business-matching-manufacturing-industry/",
+    "https://mono.ipros.com/cg1/%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://liskul.com/manufacturing-matching-site-37343"
+   ]
+  },
+  {
+   "query": "その他の製造業 受発注 課題 電話 FAX",
+   "results": [
+    "https://www.kktisc.co.jp/product/wholesale/fax/",
+    "https://aladdin-ec.jp/seminar/20220907/",
+    "https://www.ecbeing.net/b2b/contents/detail/22",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/240422.html",
+    "https://batton.co.jp/column/fax-juhacchu-gyomu-kaizen/",
+    "https://prtimes.jp/main/html/rd/p/000000039.000153035.html",
+    "https://pr.mono.ipros.com/otsukashokai/news/detail/154378/",
+    "https://japan.zdnet.com/article/35223367/",
+    "https://www.infomart.co.jp/tanomu/case/seller/22.asp",
+    "https://www.salesdock.jp/blog/manufacturing-ordering-management"
+   ]
+  },
+  {
+   "query": "その他の製造業 外注 費用 相場",
+   "results": [
+    "https://marketing.techport.co.jp/archives/11748/",
+    "https://hajime-i.com/2016/01/20/blog24outsourcing-cost/",
+    "https://biz.moneyforward.com/accounting/basic/73672/",
+    "https://ilink-corp.co.jp/9552.html",
+    "https://www5.cao.go.jp/j-j/wp/wp-je13/pdf/p02012_2.pdf",
+    "https://www.kaikei-tisiki.net/304",
+    "http://wingconsul.com/word0035.html",
+    "https://freeway-keiri.com/blog/view/1064",
+    "https://www.stat.go.jp/data/kkj/form/2022/pdf/22odan_howto_2.pdf",
+    "https://business.yamadadenshi.com/2026/10/12/manufacturing-outsourcing-cost/"
+   ]
+  },
+  {
+   "query": "site:note.com その他の製造業",
+   "results": [
+    "https://note.com/hashtag/%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E7%94%9F%E7%94%A3%E7%94%A8%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%90%8C%E9%83%A8%E5%88%86%E5%93%81%E8%A3%BD%E9%80%A0%E6%A5%AD?f=new",
+    "https://note.com/lawcontents/n/nd2d7ac2c6a4a",
+    "https://note.com/resas_data/n/nbe8329992cb6",
+    "https://note.com/shirase_kankyo/n/n4349a50c412c",
+    "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "https://note.com/hashtag/%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E7%B9%8A%E7%B6%AD%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E6%A5%AD?f=new",
+    "https://note.com/akiyoshitakumori/n/nd89d4387cfdc",
+    "https://note.com/ruizi54/n/n7b6d7da8999c",
+    "https://note.com/shin_tigerjet/n/n09d120720eba",
+    "https://note.com/clipcorporation/n/na7cd958c831e"
+   ]
+  },
+  {
+   "query": "site:x.com その他の製造業",
+   "results": [
+    "https://x.com/i/status/2052733777328341047",
+    "https://x.com/masashi_i/status/2115760567583723540",
+    "https://x.com/OgawaSeisakusho",
+    "https://x.com/OgawaSeisakusho/status/2114166296531304923",
+    "https://x.com/OgawaSeisakusho/status/2114827307454238733",
+    "https://x.com/masashi_i/status/2117822359457665258",
+    "https://x.com/masashi_i/status/2117821855310791049"
+   ]
+  },
+  {
+   "query": "site:linkedin.com その他の製造業",
+   "results": [
+    "https://jp.linkedin.com/in/sibucho",
+    "https://jp.linkedin.com/company/sintokogio-ltd-",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7516677261828423681/",
+    "https://vn.linkedin.com/in/ryo-kanazawa-b491b440b",
+    "https://www.linkedin.com/posts/光彦-小田-559b73375_myvnhcjzb-hozlmqkarnhcjerorv-lssifyjpklfx-share-7521714733104758784-vkZr",
+    "https://ee.linkedin.com/in/876-49/ja",
+    "https://lt.linkedin.com/in/hiroko-harada-8045911ab/ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com その他の製造業",
+   "results": [
+    "https://www.facebook.com/hirachi.resin/",
+    "https://www.facebook.com/nihonkeitem/",
+    "https://business.facebook.com/groups/326448934546562/",
+    "https://business.facebook.com/groups/495212804276545/",
+    "https://www.facebook.com/Iwasaki.kigata/",
+    "https://www.facebook.com/nihondento/",
+    "https://www.facebook.com/yamamotokinzoku/"
+   ]
+  },
+  {
+   "query": "その他の製造業 note 社長",
+   "results": [
+    "https://note.com/genba_shacho/n/n81874f54efbe",
+    "https://note.com/holy_ibis6548/n/n5fdb10e12439",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://shachomeikan.jp/industry_article/5902",
+    "https://www.facebook.com/sanyoukougyou/posts/本日の社長のnoteはこちら754球目志2024年3月1日4月1日と立て続けにmaを実施しました1件は京都と滋賀もう1件は神奈川にあるものづくり企業です今日はそ/869261901878801/",
+    "https://keiei-note.wizbiz.jp/",
+    "https://shachomeikan.jp/industry_article/3863"
+   ]
+  },
+  {
+   "query": "その他の製造業 X 投稿",
+   "results": [
+    "https://x.com/seizou_daily",
+    "https://x.com/hashtag/製造業",
+    "https://search.yahoo.co.jp/realtime/search/製造業/",
+    "https://www.ajsa.or.jp/kentei/sns/x/x-templates-for-business.html",
+    "https://monoist.itmedia.co.jp/mn/series/43723/",
+    "https://zgeneration.co.jp/2026/10/10/manufacturing-sns-examples/",
+    "https://note.com/freelife_creator/n/nb461cc665419"
+   ]
+  },
+  {
+   "query": "other manufacturing Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/beyond-china-exploring-manufacturing-powerhouses-asia-omer-sasson-o5ref",
+    "https://www.linkedin.com/pulse/japanese-regional-manufacturers-turn-always-on-portals-labor-shortages-x3u4c",
+    "https://jp.linkedin.com/in/hyonjucho/en",
+    "https://in.linkedin.com/company/japan-automobile-manufacturers-association-inc-",
+    "https://jp.linkedin.com/in/yuki-takemura-43976120b/en",
+    "https://th.linkedin.com/in/panit-j",
+    "https://ca.linkedin.com/in/tourajmanifar"
+   ]
+  }
+ ],
+ "missing": {}
+}

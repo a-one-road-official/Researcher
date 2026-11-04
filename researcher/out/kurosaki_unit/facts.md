@@ -1,0 +1,1107 @@
+# 黒崎式・第2段 — 入口候補ごとの3つの数字（獲得単価・払う単価・成約率）と許可・立ち上がり期間（事実のみ・10品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 製造業向けの取材記事・オウンドメディア制作（content marketing interview articles for manufacturers Japan）
+- 文脈：入口候補・メディア
+- 顧客獲得単価：
+  - 「リスティング広告などのWeb広告は、お金を払えばすぐにアクセスが集まるため、「1件の問い合わせを獲得するのにいくらかかったか（CPA）」という」（https://web-kanji.com/posts/owned-media-price）
+  - 「一度上位表示されれば、その後は広告費をかけずに24時間365日、自動でお客様を集め続けてくれます」（https://web-kanji.com/posts/owned-media-price）
+  - 「費用対効果（ROI）＝(リード単価 – 運用費用総額) /運用費用総額 * 100」（https://shwat.jp/ultra/owned-media-launch/）
+- 顧客が払う単価：
+  - 「30万円以下」（https://web-kanji.com/posts/owned-media-price）
+  - 「31~50万円」（https://web-kanji.com/posts/owned-media-price）
+  - 「51~100万円」（https://web-kanji.com/posts/owned-media-price）
+  - 「101~150万円」（https://web-kanji.com/posts/owned-media-price）
+  - 「151~200万円」（https://web-kanji.com/posts/owned-media-price）
+  - 「201~300万円」（https://web-kanji.com/posts/owned-media-price）
+  - 「301~500万円」（https://web-kanji.com/posts/owned-media-price）
+  - 「501万円以上」（https://web-kanji.com/posts/owned-media-price）
+  - 「オウンドメディアの構築費用は、自社制作で50万円〜、Web制作会社への外注で100万円〜が目安です」（https://www.conmark.jp/column/cost-ownedmedia）
+  - 「50万円〜200万円」（https://www.conmark.jp/column/cost-ownedmedia）
+  - 「100万〜300万円／1か月〜3か月」（https://www.conmark.jp/column/cost-ownedmedia）
+  - 「300万円〜1,000万／3か月〜」（https://www.conmark.jp/column/cost-ownedmedia）
+  - 「たとえばデザイン費やシステム開発費などでオウンドメディア構築に300万円かかる場合、ディレクション費が30万円〜90万円となり、プロジェクト全体の制作費用は「300万円＋30万円〜90万円＝330万円〜390万円」です」（https://www.conmark.jp/column/cost-ownedmedia）
+  - 「レンタルサーバーを利用する場合は数千円〜1万円ほど、クラウドサーバーを使う場合は3〜5万円ほどが目安です」（https://www.conmark.jp/column/cost-ownedmedia）
+  - 「ドメインは数百円〜10万円／年と費用の幅が大きく、「.com」や「.co.jp」などのトップレベルドメインは高めになる傾向があります」（https://www.conmark.jp/column/cost-ownedmedia）
+- 成約率・継続率：
+  - 「営業資料やPDFからコンテンツを作成したり、成果の出る記事をLP化して成約率を高めるなど、「Webマーケティングの代行」として成果にコミットする姿勢が特徴」（https://web-kanji.com/posts/owned-media-price）
+  - 「コンサルタントの指名・変更可能で継続率90%以上」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「18年以上のSEO事業歴・継続率95.3%」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「「クライアントのやりたいこと」ではなく「本質的にあるべき姿」から逆算した提案スタイルが特徴で、継続率は90%以上」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「継続率95.3%を誇るSEOコンサルティングをベースに、オウンドメディアの戦略設計から記事制作・効果検証まで一貫して支援します」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「問い合わせ件数・資料ダウンロード数・ページビュー数・商談化率など、目的に合った指標を選ぶことが大切です」（https://xinobix.jp/blog/ownedmedia-manufacturing/）
+  - 「のため、他の施策よりも成約率が高いのが特徴です」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/）
+  - 「商談時の自社アピールの手間も省け、その後の検討スピードが大幅に短縮されるとともに、成約率が上がった」（https://www.w-star.com/media.htm）
+  - 「契約率や継続率の高いユーザーを集客できれば、LTV（顧客生涯価値）の向上にも貢献してくれるでしょう」（https://www.freestyle-entertainment.co.jp/blog/owned-media-merit/）
+  - 「これにより、営業担当者は質の高い見込み客に集中して対応できるようになり、成約率の向上も期待できます」（https://goleadgrid.com/blog/manufacturing-attracting-customers）
+  - 「顧客のニーズを的確に捉え、最適なアプローチを行うことで、見込み客の獲得と成約率の向上につなげることができるでしょう」（https://goleadgrid.com/blog/manufacturing-attracting-customers）
+  - 「商談前の段階で強固な信頼感が醸成され、成約率の向上や商談の単価アップにも直結します」（https://www.directorbank.co.jp/blog/ownedmedia-casestudy/）
+- 許可・資格の要否：
+  - 「Web幹事にご相談いただければ、簡単に要件をお伺いした上で費用の目安をお伝えできます！」（https://web-kanji.com/posts/owned-media-price）
+  - 「コンプライアンス要件が厳しい上場企業や、大規模なメディアサイトの構築によく選ばれています」（https://web-kanji.com/posts/owned-media-price）
+  - 「テンプレートを使わず、企業の戦略に合わせて企画・設計から行う「フルオーダーメイド」の制作スタイルのため、費用や期間は要件によって変動します」（https://web-kanji.com/posts/owned-media-price）
+  - 「一緒にオウンドメディアの要件について考えて欲しい」（https://web-kanji.com/posts/owned-media-price）
+  - 「要件やスケジュールに合わせて相談しましょう」（https://web-kanji.com/posts/owned-media-price）
+  - 「400社以上の支援実績があり、バズ部認定ライターによる記事作成で月に120万PVを達成した実績あり」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「上位1%認定パートナーのみ対応」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「専門的な知識を必要とする場合にも、その分野における資格者や実務経験者をアサインし、独自性のあるコンテンツを作成することが可能です」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「バズ部認定ライターと編集者によるチーム体制」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「4,000名の登録者から厳選した上位1%のハイクラスなフリーランスコンサルタント」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「上位1%認定パートナーのみ対応・品質競争原理の導入」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「slide libは、比較記事の中でサービス資料を登録なしで全ページ読める、資料閲覧型のBtoBサービス比較サイトです」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「メルマガ無料登録」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/）
+  - 「審査倍率100倍の認定パートナーから担当者を選べる」（https://www.pascaljp.com/blog/?p=2200）
+  - 「StockSun株式会社は、審査倍率100倍の認定パートナーが在籍するWebマーケティング支援会社です」（https://www.pascaljp.com/blog/?p=2200）
+- 最初の売上までの期間：
+  - 「ホームページ制作の流れ・期間」（https://web-kanji.com/posts/owned-media-price）
+  - 「以下の表にて、価格帯別に「目的」「発注先」「制作期間」などをまとめました」（https://web-kanji.com/posts/owned-media-price）
+  - 「1週間〜1ヶ月」（https://web-kanji.com/posts/owned-media-price）
+  - 「1ヶ月〜2ヶ月」（https://web-kanji.com/posts/owned-media-price）
+  - 「立ち上げたい」（https://web-kanji.com/posts/owned-media-price）
+  - 「2ヶ月〜4ヶ月」（https://web-kanji.com/posts/owned-media-price）
+  - 「3ヶ月〜6ヶ月」（https://web-kanji.com/posts/owned-media-price）
+  - 「制作期間：1週間〜1ヶ月」（https://web-kanji.com/posts/owned-media-price）
+  - 「制作期間：1ヶ月〜2ヶ月」（https://web-kanji.com/posts/owned-media-price）
+  - 「目的：集客のために本格的なオウンドメディアを立ち上げたい」（https://web-kanji.com/posts/owned-media-price）
+  - 「制作期間：2ヶ月〜4ヶ月」（https://web-kanji.com/posts/owned-media-price）
+  - 「制作期間：3ヶ月〜6ヶ月」（https://web-kanji.com/posts/owned-media-price）
+  - 「記事や動画など立ち上げ当初から掲載するコンテンツの制作費用」（https://web-kanji.com/posts/owned-media-price）
+  - 「コンテンツ制作費とは、オウンドメディア立ち上げ時に掲載する記事・動画などの制作費用のことです」（https://web-kanji.com/posts/owned-media-price）
+  - 「制作期間：要問い合わせ」（https://web-kanji.com/posts/owned-media-price）
+- 営業のやり方：
+  - 「発注事例のご紹介」（https://web-kanji.com/posts/owned-media-price）
+  - 「SEO対策に強い」（https://web-kanji.com/posts/owned-media-price）
+  - 「SNS運用代行」（https://web-kanji.com/posts/owned-media-price）
+  - 「Web幹事 サービスご紹介資料」（https://web-kanji.com/posts/owned-media-price）
+  - 「SEO対策チェックシート」（https://web-kanji.com/posts/owned-media-price）
+  - 「&「理想のページ構成」紹介」（https://web-kanji.com/posts/owned-media-price）
+  - 「Web幹事では、「100万円程度でオウンドメディアを作りたいので制作会社を紹介して欲しい」というご依頼を非常に多くいただいております」（https://web-kanji.com/posts/owned-media-price）
+  - 「Web幹事は、あなたに最適な制作会社をプロが「人力で」マッチング・ご紹介するサービス」（https://web-kanji.com/posts/owned-media-price）
+  - 「あなたの予算にあった制作会社をご紹介します」（https://web-kanji.com/posts/owned-media-price）
+  - 「SEOに最適なサイト構造にカスタマイズして欲しい」（https://web-kanji.com/posts/owned-media-price）
+  - 「SEOなどの知識がない場合は制作会社に任せるのが良いでしょう」（https://web-kanji.com/posts/owned-media-price）
+  - 「ここまで、オウンドメディアの費用の相場をご紹介してきました」（https://web-kanji.com/posts/owned-media-price）
+  - 「ここでは実際にオウンドメディアで使われているツールや制作会社の料金の事例をご紹介します」（https://web-kanji.com/posts/owned-media-price）
+  - 「無料のものから、サポートが充実した有料のものまで、代表的なツールの料金プランをご紹介します」（https://web-kanji.com/posts/owned-media-price）
+  - 「SEO対策や問い合わせフォームの設置など、必要な機能を低コストで自由にカスタマイズできる点が魅力です」（https://web-kanji.com/posts/owned-media-price）
+- 小さく始めた実例：
+  - 「「記事を書くだけでなく、売上やリード獲得に貢献するメディアに育てたい」というBtoB企業に最適です」（https://web-kanji.com/posts/owned-media-price）
+  - 「従業員の教育が追いつかず、質の低いコンテンツが納品される」（https://web-kanji.com/posts/owned-media-price）
+  - 「また、目先の売上だけでなく、以下のような「長期的な価値（LTV：顧客生涯価値の向上）」も期待できます」（https://web-kanji.com/posts/owned-media-price）
+  - 「オウンドメディアへの予算は、単なるコストではなく、将来の売上の土台を作るための「投資」と捉え、長い目で見て評価することをおすすめします」（https://web-kanji.com/posts/owned-media-price）
+  - 「その立ち上げ期をどう乗り切るかが成否を分けるため、短期で件数を確保できる施策と並行させるのが現実的です」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「株式会社グランネットは、創業14年・300業種以上のSEO実績を持つデジタルマーケティング会社で、オウンドメディアの検索流入増加に特化した運用代行を提供します」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「運用シートとマニュアルも引き渡すので、少人数のマーケティング部や、担当者の退職で更新が止まったメディアでも、まず任せてから段階的に内製化できます」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「で、創業以来3,000社以のマーケティング支援とクリエイティブ支援を行ってきた実績を持ち、オウンドメディア運用代行を含む」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「株式会社GIGは、LIG創業者が設立したWeb制作・コンテンツマーケティング会社で、メディア事業部が運営するコンテンツマーケティング総合パートナーサービス「」（https://cone-c-slide.com/liblog/ownedmedia-agency/）
+  - 「集客だけでない「売上」まで繋げるオウンドメディアもご案内します」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/）
+  - 「サイトへ流入するユーザーが、正に自社が得意としているものを求めているのであれば、たとえアクセスが少なくとも安定して売上に繋げられます」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/）
+  - 「ここでは、製造業がオウンドメディアで集客・売上拡大を実現するために必要な具体的な取り組みを解説します」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/）
+  - 「費用対効果の良い道を選び、オウンドメディアの運用を売上拡大へ繋げましょう」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/）
+  - 「認知度・売上アップも両立させるオウンドメディア施策」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/manufacturing-industry-oundomedia/）
+  - 「従業員15～20名」（https://www.w-star.com/media.htm）
+- 利幅：記載なし（読んだ42頁・検索15回）
+
+## 製造業の採用広報（社員・技術者インタビュー記事・採用サイト）（recruitment branding manufacturers interview articles）
+- 文脈：入口候補・採用支援（許可不要）
+- 顧客獲得単価：
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruit-media-manufacturing/）
+  - 「製造業で扱う製品やサービスは、一件あたりの取引額が高額になるケースが多いため、たとえ少ないクリック数であっても、1件の受注が決めれば広告費用を大幅に上回るリターンが期待できます」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「2-2. CPA信仰からの脱却：製造業が本当に追うべきKPIとは？」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「Web広告の世界では、CPA（Cost Per Acquisition/Action）、つまり1件のコンバージョン（問い合わせや資料請求など）を獲得するためにかかった広告費用が重要視されがちです」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「マーケティング活動によって創出された、有望な見込み客（例：特定の部署からの問い合わせ、具体的な課題が記載された問い合わせ）1件あたりの獲得単価」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「営業部門がフォローする価値があると判断した見込み客1件あたりの獲得単価」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「このように、少額予算からでも「月に1件の受注を獲得するために、CPA 5,000円で20件のリードを目指す」といった具体的な目標を立てることが可能です」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「問い合わせ数：7件/月（CPA：約15,000円）」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「この結果に対し、お客様からは「1件あたり15,000円で問い合わせが獲得できるのは、展示会に出展するよりもはるかに費用対効果が高いです」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+- 顧客が払う単価：
+  - 「採用サイト制作の料金相場は？採用担当者110名へ実態調査！価格別のサイト制作概要も」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「本記事では、採用サイト制作に携わったことのある採用担当者110名にアンケートを実施した結果を基に採用サイト制作の料金相場をご紹介しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「・110名の採用担当者に聞いた、採用サイト制作の料金相場」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「採用サイト制作の料金相場｜「100～150万円未満」「200～300万円未満」が多い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「採用サイトのリニューアルの料金相場｜「100～150万円未満」「200～300万円未満」が多い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「無料〜10万円以下の場合」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「10万円〜50万円以下の場合」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「50〜100万円以下の場合」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「100～300万円以下の場合」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「■ページ数と費用の目安：全10ページ以内で、約25～40万円程度」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+  - 「■ページ数と費用の目安：全15～20ページで、費用相場は50～80万円程度」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+  - 「■ページ数と費用の目安：全20ページ以上で、費用相場は100万円～150万円程度」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+  - 「費用も30万円～とスタートしやすい価格でご提供しています」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+  - 「地域密着型×派遣募集で応募単価30％削減｜RPAサービスの導入で応募者対応を自動化【ワールドプランニング株式会社様】」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+  - 「単価を抑えつつ応募数は3倍以上に！ギガバイトとIndeed PLUSで挑んだ採用改革【株式会社安楽亭様】」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+- 成約率・継続率：
+  - 「なぜなら、問い合わせから実際の受注に至るまでのセールスサイクルが長く、受注率も案件によって大きく異なるからです」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「広告経由の受注率：」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「単純にCPAだけ見るのではなく、獲得数とCPAを見つつ、その後の商談率や受注率もKPIとしてみていきましょう」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「自社の平均的な「受注率」を基に、最終的な受注件数を予測する」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「（例：受注率が5%なら、20件 × 5% = 1件の受注が見込める）」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「CPAだけでなく、MQL単価や受注率といったKPIを設定しているか？」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「リピート率95%!!料金やお得な活用方法、企業の声や事例、導入までの流れを無料でご紹介！」（https://marugotoinc.jp/blog/smaller_shuhou/）
+  - 「」は、650社以上の支援実績と契約継続率95%以上を誇る成長企業向けの採用代行サービスです」（https://marugotoinc.jp/blog/smaller_shuhou/）
+  - 「契約継続率は90％以上」（https://www.hanano-ya.jp/blog/web/17650）
+  - 「商談化率、提案通過率」（https://www.asakonet.co.jp/column/detail-6384/manufacturing-brand-marketing-complete-guide/）
+  - 「再接触率、商談化率」（https://www.asakonet.co.jp/column/detail-6384/manufacturing-brand-marketing-complete-guide/）
+  - 「指名相談数、商談化率、既存顧客からの紹介数、導入事例の閲覧数、技術記事の読了率、展示会後の再接触率、広告接触後の検索数、採用応募時の志望理由などを確認します」（https://www.asakonet.co.jp/column/detail-6384/manufacturing-brand-marketing-complete-guide/）
+- 許可・資格の要否：
+  - 「【無料】1分で登録完了！採用サイト制作のお見積りはこちら」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「採用サイト経由で登録した求職者への対応を見落とさないことも大切」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「一般労働者派遣許可 許可番号 13-070366」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「有料職業紹介事業許可 許可番号 13-ユ-070309」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「プライバシーマーク認定 10860758(10)」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「会員登録はこちら」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「みんなの採用部があなたの許可なく投稿することはありません」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「簡単10秒！無料会員登録」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「他サービスIDで登録」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「一方、中途向けの場合、求職者にとって重要なのは「経験や資格をどう活かせるか」という点です」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+  - 「そのため、必要な資格やスキルなどの情報を具体的に掲載しておく必要があります」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+  - 「制作目的：お取引企業の増加、派遣登録者の増加」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+  - 「お取引企業の方、派遣登録者の方の2パターンのユーザーからアクセスされることを想定して、ファーストビューでそれぞれに向けた動線を用意」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+  - 「メルマガ登録」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+  - 「ご登録いただく前に」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+- 最初の売上までの期間：
+  - 「料金別｜採用サイト制作の概要と制作期間」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「制作期間の目安」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「・調査期間：2025年2月5日〜同年2月6日」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「制作期間は1週間から1ヵ月程度でできるケースが多いです」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「・短期間での作成が可能」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「制作期間は1ヵ月程度ですので、早急に採用に特化をしたWebページを作りたい場合におすすめです」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「短期間で制作できる」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「制作期間も1ヵ月程度と短期間な点もメリットといえます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「制作期間については、制作会社のパッケージプランによって異なりますが、1～2ヵ月程度が一般的です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「そのため制作期間は2～3ヵ月程度かかるケースが一般的です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「・制作期間を事前にしっかりと見積もる必要がある」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「制作期間は長くなりますが、その分コンセプトの整ったオリジナリテイの高い採用サイトを制作することができるので、自社の魅力を求職者に伝えやすくなるでしょう」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「・制作期間が長めにかかる」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「採用戦略といった上流工程からスタートし、フルオリジナルデザインで作成するため、デザインテンプレートから選ぶ場合と比べると制作期間が長くかかります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「有料プランは、4種類あり契約期間により月額料金がお得になります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+- 営業のやり方：
+  - 「プランナーのご紹介」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「採用サイト制作の料金と相場｜作成ポイント・管理ツールの特徴を紹介」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「本記事では、採用サイト制作に携わったことのある採用担当者110名にアンケートを実施した結果を基に採用サイト制作の料金相場をご紹介しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「また、価格帯別の採用サイト制作の概要やおすすめの制作会社もご紹介していきますので、ぜひチェックしてみてください」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「＜本記事で紹介する3つのポイント＞」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「この価格帯では、社員紹介やインタビュー記事、オリジナルの写真を使って、採用サイトから会社の雰囲気をわかってもらいたいと考える企業におすすめです」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「採用成功のためにはどのような採用ブランディングで求職者に自社を紹介するかは非常に重要です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「料金例1：メッセージや社員紹介など7コンテンツの構成に各ページの作成で500～800万円ほどです」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「無料で作成でき、エン転職や各種SNSとの連携、IndeedやGoogleしごと検索への求人転載が可能です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「新卒採用の採用基準とは？良い人材を獲得する選考基準のつくり方や見極めのポイントをご紹介」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「求人広告代理店ネオキャリアは、厳選された100以上の求人媒体やその他採用サービスを取り扱い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「求人募集のことなら求人広告代理店ネオキャリア（東京・大阪・愛知）にお気軽にご相談ください」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「人材紹介事業者様向け求人データベースBee（ビー）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「有料職業紹介事業許可 許可番号 13-ユ-070309」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「採用サイトの制作費用は？料金相場や注意すべきポイントを徹底解説 | トラコム株式会社 Indeed代理店」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+- 小さく始めた実例：
+  - 「会社が創業以来どんな道を歩んできたのか、どんな事業を展開しているのかがわかる内容にします」（https://www.tracom.co.jp/tralog/saiyo-site-2/）
+  - 「初期費用がほぼゼロで採用サイトを立ち上げられるため、創業間もないスタートアップや小規模企業に向いています」（https://web-kanji.com/posts/recruit-site-price）
+  - 「検討のリードタイムが短いものから長いものまで多々あるため、リード獲得後の営業によるフォローもセットですし、一件あたりの単価も大小、一度取引を開始すると継続的に売上げが発生するような案件もあります」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「顧客獲得を目的としたWEB制作も行っており、クライアントの売上拡大に貢献しています」（https://www.aily-lab.co.jp/column/manufacturing-ads-guide/）
+  - 「この記事の監修者：今 啓亮（創業者）」（https://marugotoinc.jp/blog/smaller_shuhou/）
+  - 「大企業（従業員1,000人以上）」（https://marugotoinc.jp/blog/smaller_shuhou/）
+  - 「元社員・従業員（即戦力）」（https://marugotoinc.jp/blog/smaller_shuhou/）
+  - 「1912年創業の小平には専任の人事がおらず、採用ニーズが出るたびに各部署が媒体を選んで募集していました」（https://marugotoinc.jp/blog/smaller_shuhou/）
+  - 「住宅設備のECサービスを運営するブロンズゴールドは、導入当時創業3年目で社員7名でした」（https://marugotoinc.jp/blog/smaller_shuhou/）
+  - 「全員が売上に直結する業務を抱え、採用に時間を割けない状態です」（https://marugotoinc.jp/blog/smaller_shuhou/）
+  - 「（旧社名：株式会社ビーグローバル）を創業」（https://marugotoinc.jp/blog/smaller_shuhou/）
+  - 「『売上か 集客か 採用か』」（https://www.hanano-ya.jp/blog/web/17650）
+  - 「花のやは2014年の創業以来、700社以上の制作実績があり、公開後の運用・改善まで伴走するため」（https://www.hanano-ya.jp/blog/web/17650）
+  - 「拠点は名古屋市中区栄、2014年の創業以来700社以上の制作実績があります」（https://www.hanano-ya.jp/blog/web/17650）
+  - 「2014年の創業以来、700社以上のホームページ・採用サイト制作に携わる」（https://www.hanano-ya.jp/blog/web/17650）
+- 利幅：記載なし（読んだ45頁・検索15回）
+
+## 製造業の採用代行（RPO）（recruitment process outsourcing manufacturers Japan）
+- 文脈：入口候補・採用支援（許可不要）
+- 顧客獲得単価：
+  - 「1件あたりの単価が明確な場合が多い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「費用相場は、内定を承諾した求職者の「年収の○%」といった形式や、求人票から応募された件数「1件あたり○万円」などの条件によって決定される傾向にあります」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/）
+  - 「indeedのような運用型求人広告の運用代行を依頼するには別途広告費の15％~20％程度発生します」（https://www.ssen.co.jp/blog/149）
+  - 「年間10名以上採用する場合、RPOの方が1人あたりの採用単価（CPA）を大幅に抑えられる傾向にあります」（https://www.ssen.co.jp/blog/149）
+  - 「1件あたり1,000～5,000円」（https://marugotoinc.jp/blog/rpomarketprice/）
+  - 「1件あたり5,000～10,000円」（https://marugotoinc.jp/blog/rpomarketprice/）
+  - 「1件あたり25〜80万円」（https://marugotoinc.jp/blog/rpomarketprice/）
+  - 「• 従量課金型：業務内容や工数によって大きく異なり、スカウト送信1件あたり数百円、面接調整1件あたり数千円、あるいは人月単価で数十万円〜など、多岐にわたります」（https://marunagekanri.com/roumu/info_hr_1028/）
+  - 「従量課金型は、「スカウトメール送信1通あたり〇円」「面接設定1件あたり〇円」といったように、実際に依頼した作業量に応じて費用が発生する料金体系です」（https://www.strengthening-recruitment.com/rpo/）
+  - 「大規模・通年採用を行っている場合、採用人数が増えても1名あたりの採用単価（CPA）を抑えやすい」（https://tsuginote.co.jp/column/13317）
+  - 「費用は依頼する内容によって大きく異なりますが、例としては、求人媒体の管理が5～10万円程度、面接の実施サポートは1件あたり8,000～15,000円が相場とされています」（https://marugotoinc.jp/blog/rpo/）
+  - 「1件あたりは数分でも、件数が増えると膨大な工数になります」（https://timebirth.co.jp/useful/rpo-operation/）
+  - 「面接日程調整：1件あたり数千円〜」（https://vollect.net/hrpedia/manufacturing-rpo/）
+  - 「約1年半、広告費を累計250万円ほど投じても、求める「施工管理 兼 営業」人材になかなか出会えなかった」（https://r09.jp/columns/23420/）
+  - 「若手の離職と採用難に悩み、毎年1,500万円もの求人広告費・紹介手数料を垂れ流す負のスパイラルに陥っていました」（https://note.com/foredge/n/n3d6eac9026f3）
+- 顧客が払う単価：
+  - 「採用代行（RPO）おすすめ45社を比較！料金相場・選び方【2026年版】」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「総合支援型・オペレーション特化型・コンサルティング型・サービス特化型に分類した45社について、特徴・料金・契約期間を一覧表で比較ができます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「本記事で紹介している45社を、タイプ別に料金・契約期間で比較できる50ページ超の資料です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「5. 【比較の軸】料金体系・契約期間で見る違い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「6. 料金や知名度だけで選ぶと失敗する？採用代行選びの「3つの注意点」」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「成功報酬型（年収の30%前後が相場）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「月額14万円～（ニーズに合わせてお見積り）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「12万5,400円」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・ベーシックプラン（月額税込10万8,900円）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「月額固定制の費用相場は、月額5万～100万円です」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/）
+  - 「費用相場は、内定を承諾した求職者の「年収の○%」といった形式や、求人票から応募された件数「1件あたり○万円」などの条件によって決定される傾向にあります」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/）
+  - 「1回2万円～」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/）
+  - 「1回2,500円～」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/）
+  - 「月15万円～」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/）
+  - 「1回1,000円～」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/）
+- 成約率・継続率：
+  - 「・支援実績800社以上、リピート率90％以上」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・75％以上が社員で対応し、契約継続率は」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・継続率90%」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・リピート率90％以上」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「お客様に寄り添った質の高いサービスを提供し、リピート率96％の実績」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「75％以上が社員で対応しているため、クオリティや知見にばらつきがなく、契約継続率は95％以上」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「振り返りミーティングの実施で、返信率や採用決定率の向上を図る」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「そのほか、採用データ分析・採用代行・スカウト代行・組織開発支援・人事評価制度設計・面接代行・人事ERP導入支援まで、横断的なサービスを提供しており、サービスの継続率は80%超え」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「継続率は90%」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「サポート継続率は80％以上」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「リピート率は90％以上と高い信頼性」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「契約継続率95％以上」（https://marugotoinc.jp/blog/rpomarketprice/）
+  - 「企業の継続率9割以上の高い満足度」（https://marugotoinc.jp/blog/rpo/）
+  - 「リピート率95%!!料金やお得な活用方法、企業の声や事例、導入までの流れを無料でご紹介！」（https://marugotoinc.jp/blog/rpo/）
+  - 「継続率は90％以上」（https://marugotoinc.jp/blog/rpo/）
+- 利幅：
+  - 「採用とAIで、地方企業の「人」と「粗利」を守り育てる」（https://refactar.net/blog/2026-06-02-rpo-cost-effectiveness）
+  - 「人件費を抑えて利益率を上げるための思考法」（https://timebirth.co.jp/useful/rpo-operation/）
+  - 「時価純資産 ＋ 営業利益の3〜5年分（のれん）」（https://ma-succeed.jp/content/knowledge/post-12716）
+  - 「資産価値に、のれん（営業利益の数年分）を加える方法」（https://ma-succeed.jp/content/knowledge/post-12716）
+- 許可・資格の要否：
+  - 「一般労働者派遣許可 許可番号 13-070366」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「有料職業紹介事業許可 許可番号 13-ユ-070309」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「プライバシーマーク認定 10860758(10)」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「会員登録はこちら」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「みんなの採用部があなたの許可なく投稿することはありません」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「簡単10秒！無料会員登録」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「他サービスIDで登録」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用代行サービスには、人事経験者はもちろん、キャリアカウンセラー経験者やCDA等のキャリアカウンセラー資格の保有者など、専門性の高い人材が多く在籍しているため、面接業務そのものを委託することが可能なのです」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/）
+  - 「また、報告体制の明確化により、双方の期待や要件を共有し、円滑なコミュニケーションを図ることができます」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/）
+  - 「採用代行会社には専門知識やノウハウがありますが、会社の採用ニーズや要件を適切に伝えることができないと代行会社のノウハウを最大限に利用することは難しくなるでしょう」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/）
+  - 「doda人材紹介サービスは、採用代行とはサービスの形態に違いがありますが、企業の採用要件に合わせた人材採用のお手伝いをする、という点においては変わりありません」（https://www.saiyo-doda.jp/guide/kihon/rpo-price）
+  - 「専門知識をもつプロのサポートにより、採用要件に合う転職希望者のみに絞って対応できるため、工数の大幅な削減が実現できます」（https://www.saiyo-doda.jp/guide/kihon/rpo-price）
+  - 「専門的な知識をもつ採用のプロが、採用要件にマッチした転職希望者を厳選し、ご紹介いたします」（https://www.saiyo-doda.jp/guide/kihon/rpo-price）
+  - 「有料職業紹介事業 許可番号：13-ユ-304785」（https://www.saiyo-doda.jp/guide/kihon/rpo-price）
+  - 「職業紹介優良事業者に認定されています」（https://www.saiyo-doda.jp/guide/kihon/rpo-price）
+- 最初の売上までの期間：
+  - 「総合支援型・オペレーション特化型・コンサルティング型・サービス特化型に分類した45社について、特徴・料金・契約期間を一覧表で比較ができます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「本記事で紹介している45社を、タイプ別に料金・契約期間で比較できる50ページ超の資料です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「5. 【比較の軸】料金体系・契約期間で見る違い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「契約期間の柔軟性」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「成約ベース（期間の概念が薄い）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「【比較表の見方】料金・契約期間で確認すべきポイント」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「「1カ月から」「3カ月から」など、最低契約期間が短いほどスポット利用に向いている」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「たとえば「まずは1業務だけ試したい」という企業は、契約期間が短く従量課金型の会社が候補になりやすく、「複数業務をまとめて任せたい」という企業は、月額固定型で契約期間の長い総合支援型が候補になりやすい傾向があります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「比較検討時に混乱しないよう、まずは料金体系の分類と、契約期間が意味することを整理しておきましょう」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「契約期間の違いが意味すること」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「比較表を見ると、契約期間は「1カ月から」「3カ月から」「6カ月から」など会社によって幅があります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「契約期間が短い（1カ月〜）会社」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「契約期間が長い（6カ月〜）会社」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「2011年創立以来、業種・職種問わず累計12,000社以上の採用支援実績を誇る」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「契約期間に関しては非常に柔軟で、1日単位や時間単位での相談も可能」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+- 営業のやり方：
+  - 「プランナーのご紹介」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用代行（RPO）とは？導入メリットや人材派遣・人材紹介との違いを解説」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「本記事で紹介している45社を、タイプ別に料金・契約期間で比較できる50ページ超の資料です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用代行（RPO）と人材紹介・人材派遣の違い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用代行は採用業務を委託できるのに対し、人材紹介と人材派遣はあくまで人材不足を解消する一助となるサービスです」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用代行と人材紹介、人材派遣には、「業務範囲」において明確な違いがあります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「求職者の紹介〜面接設定まで」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・採用代行以外にも、コンサルティングや採用サイトの制作、ブログ・SNSの運用代行などさまざまなサービスを展開」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「特定の職種・業界に特化した会社を「新卒採用」「エンジニア採用」「その他の専門領域」の3つに分けて紹介します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用戦略の立案から実務代行まで幅広く対応する、総合支援型の会社を紹介します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「実際の支援領域も、新卒採用・中途採用・エンジニア採用はもちろん、人材紹介会社向けの高度な採用代行まで幅広く網羅しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「ネオキャリアは、求人媒体・人材紹介・採用イベントを自社で網羅しているため、ただの事務代行に留まらず、どうすれば応募者が集まり、どうすれば辞退を防げるかのノウハウを実務に100%注入します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「ネオキャリアの採用代行を実際に導入・活用し、採用活動の大幅な効率化や選考数値の改善を達成した中途・新卒の成功事例をご紹介します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「と考えている方へ、中途採用代行の詳細をご紹介しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「と考えている方へ、新卒採用代行サービスの詳細をご紹介しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+- 小さく始めた実例：
+  - 「1973年創業と業界内でも老舗企業で、採用に関するノウハウが豊富」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「2004年創業以来、パートや契約社員など有期雇用スタッフ採用において、年間900名規模の採用実績を持つ」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「従業員数：100～499人」（https://www.saiyo-doda.jp/guide/kihon/rpo-price）
+  - 「従業員数：1000～4999人」（https://www.saiyo-doda.jp/guide/kihon/rpo-price）
+  - 「従業員数：5000人以上」（https://www.saiyo-doda.jp/guide/kihon/rpo-price）
+  - 「かつては大量採用をする一部の大手企業が導入している事が多かったですが、最近では社員数が少なく採用に大きなリソースを割けない中小企業や最新の採用ノウハウの導入を求める企業など様々な企業で導入が進んでいます」（https://www.ssen.co.jp/blog/149）
+  - 「この記事の監修者：今 啓亮（創業者）」（https://marugotoinc.jp/blog/rpomarketprice/）
+  - 「理論年収500万円の中途採用で、人材紹介の手数料を理論年収の35%として初年度の費用を比べると、次のようになります」（https://marugotoinc.jp/blog/rpomarketprice/）
+  - 「月額30万円のサービスなら初年度370万円となり、逆転するのは年3名からです」（https://marugotoinc.jp/blog/rpomarketprice/）
+  - 「（旧社名：株式会社ビーグローバル）を創業」（https://marugotoinc.jp/blog/rpomarketprice/）
+  - 「こう話すのは、従業員数63名（2025年3月時点）、鉄道車両の整備・点検を手がける堀江車輌電装株式会社の代表、堀江様」（https://r09.jp/columns/23601/）
+  - 「特に、一人で採用業務の全てを担う「一人人事」や、少人数で採用チームを運営している企業では、RPOは即戦力となるリソースとして機能します」（https://marunagekanri.com/roumu/info_hr_1028/）
+  - 「次に、RPO導入時の年間費用と、RPOによって削減できる内製コストや、採用成功による事業貢献効果（例：エンジニア1名早期採用による売上貢献額）を数値化し、比較します」（https://marunagekanri.com/roumu/info_hr_1028/）
+  - 「少人数のピンポイント採用や、採用リスクを低くしたい場合は、成果報酬型が適しているかもしれません」（https://marunagekanri.com/roumu/info_hr_1028/）
+  - 「採用の長期化：ポジションが埋まらない間、既存社員の負担増や売上機会の損失が続く」（https://innovel.jp/rpo-cost-comparison/）
+- 検索結果の抜粋：
+  - 「採用代行 （ RPO ）おすすめ45社を比較！ 料金相場 ・選び方 ... — 採用代行 （ RPO ）おすすめ45社を比較！ 料金相場 ・選び方 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「料金 公開されている 採用代行 （ RPO ）10社比較！の費用 相場 ... — 料金 公開されている 採用代行 （ RPO ）10社比較！の費用 相場 ... まるごと人事 https://marugotoinc.jp > ... > 採用代行」（https://marugotoinc.jp/blog/rpomarketprice/）
+  - 「採用代行 （ RPO ）の費用 相場 は？ 料金 体系・業務別の 料金 と ... — 採用代行 （ RPO ）の費用 相場 は？ 料金 体系・業務別の 料金 と ... 株式会社アールナイン https://r09.jp > 人事ノウハウ」（https://r09.jp/columns/23601/）
+  - 「RPO （ 採用代行 ）導入の教科書｜メリット・費用・成功事例を ... — RPO （ 採用代行 ）導入の教科書｜メリット・費用・成功事例を ... マルナゲカンリ https://marunagekanri.com > roumu > info_hr_1028」（https://marunagekanri.com/roumu/info_hr_1028/）
+  - 「採用代行 ( RPO )のおすすめ30選！失敗しないサービスの選び方 ... — 採用代行 ( RPO )のおすすめ30選！失敗しないサービスの選び方 ... 株式会社グロップ https://www.grop.co.jp > ホーム > 人材」（https://www.grop.co.jp/outsourcingpro/recruitment-agency/）
+  - 「【2025年版】 採用代行 （ RPO ）とは？導入メリットと選び方 ... — 【2025年版】 採用代行 （ RPO ）とは？導入メリットと選び方 ... 体験入社 https://media.taikennyusha.com > ... > 採用ノウハウ」（https://media.taikennyusha.com/movie/column/recruit-tips/6-2/）
+  - 「採用代行 （ RPO ）おすすめ45社を比較！料金相場・選び方 ... — 採用代行 （ RPO ）おすすめ45社を比較！料金相場・選び方 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「【2026年最新】 採用代行 （ RPO ）47社タイプ別で比較！料金 ... — 【2026年最新】 採用代行 （ RPO ）47社タイプ別で比較！料金 ... まるごと人事 https://marugotoinc.jp > ... > 採用代行」（https://marugotoinc.jp/blog/rpo/）
+  - 「採用代行 （ RPO ）の費用対効果をどう見るか — 採用代行 （ RPO ）の費用対効果をどう見るか 株式会社リファクタ https://refactar.net > 2026-06-02-rpo-cost-effectiveness」（https://refactar.net/blog/2026-06-02-rpo-cost-effectiveness）
+  - 「AI等を活用した 採用代行 （ RPO ）の職業安定法上の課題と明 ... — AI等を活用した 採用代行 （ RPO ）の職業安定法上の課題と明 ... 内閣府ホームページ PDF https://www8.cao.go.jp > kisei > meeting」（https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/wg/2501_06ai/260213/ai07_0203.pdf）
+  - 「#1 採用難時代を勝ち抜く戦略！ RPO （ 採用代行 ）の基礎知識 ... — #1 採用難時代を勝ち抜く戦略！ RPO （ 採用代行 ）の基礎知識 ... 株式会社ホワイトコート https://www.w-court.com > 最新情報」（https://www.w-court.com/news/column/325/）
+  - 「RPO とは？ 採用代行 との違い・依頼できる業務・導入メリット ... — RPO とは？ 採用代行 との違い・依頼できる業務・導入メリット ... carraria-jp.com https://carraria-jp.com > 2026/06/19 > rpo-towa」（https://carraria-jp.com/2026/06/19/rpo-towa/）
+  - 「採用代行 ・ RPO - バックオフィス DXPO — 採用代行 ・ RPO - バックオフィス DXPO DXPO https://dxpo.jp > fukuoka26 > manufacturing > product」（https://dxpo.jp/real/box/fukuoka26/manufacturing/product.html?cate_3=2263356&category_name=%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%E3%83%BBRPO）
+  - 「採用代行 （ RPO ）38サービスを比較！どのサービス 会社 が ... — 採用代行 （ RPO ）38サービスを比較！どのサービス 会社 が ... ナンバーズ株式会社 https://numberz.jp > column > 採用代行（rpo）38サービ...」（https://numberz.jp/column/%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88rpo%EF%BC%8938%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%AF%94%E8%BC%83%EF%BC%81%E3%81%A9%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%9A/）
+  - 「採用代行 ・採用アウトソーシング( RPO )の市場シェア 342人 ... — 採用代行 ・採用アウトソーシング( RPO )の市場シェア 342人 ... BOXIL https://boxil.jp > mag」（https://boxil.jp/mag/a9922/）
+
+## 求人広告代理店（製造業向け）（job advertising agency manufacturers Japan）
+- 文脈：入口候補・採用支援（許可不要）
+- 顧客獲得単価：
+  - 「1人当たりにかかる求人広告費(採用単価)」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「ここでは求人広告の費用相場と、求人広告費にかける年間コストの推移、また1人あたりにかかる求人広告費(採用単価)の平均などを解説します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「中途採用における求人広告費の年間平均は、125.1万円です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「アルバイト採用における求人広告費平均は全体で23.5万円と、2022年の平均費用と比較すると1.4万円増加しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「1人あたりにかかる求人広告費(採用単価)の平均を職種ごとにご紹介します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「中途採用における1人当たりの転職サイト求人広告費は、全職種平均で36.7万円*でした」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「求人広告代理店に払う費用は、求人媒体の広告費に運用代行手数料（広告費の15〜20%が目安）を加えた合計で決まります」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「手数料は広告費の15〜20%が目安で、少額予算では最低手数料により実質割高になりやすいです」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「求人広告代理店に払う費用は、媒体の広告費に運用代行手数料（広告費の15〜20%が目安）を加えた合計で決まります」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「広告費の15〜20%が目安です」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「「月5万円」などの最低額を設けている代理店では、広告費が少額だと最低額が効いて、実質の手数料率が25〜30%相当まで上がることがあります」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「代理店は複数媒体を横断して1つの窓口で提案・運用できるのが強みで、運用型の媒体では広告費とは別に運用代行手数料がかかるのが一般的です」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「求人広告代理店の費用は「媒体の広告費」と「運用代行手数料」の合算で決まり、手数料は広告費の15〜20%が目安です」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「運用代行手数料は広告費の15〜20%が一般的な相場です」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「ただし最低手数料（例：月5万円）を設けている代理店では、広告費が少額だと実質の手数料率が25〜30%相当まで上がる場合があります」（https://kyujin-dairiten-navi.com/ryokin/）
+- 顧客が払う単価：
+  - 「【最新版】求人広告の費用相場と掲載料金比較25選・効果改善解説付き」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「1社あたり年間平均125.1万円です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「1社あたり平均約326.8万円」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「・おすすめ25サービスの料金・特徴比較」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「1人当たりにかかる求人広告費(採用単価)」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「2．求人広告の料金形態」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「3．求人広告の「掲載料金」以外にかかる費用と3つの運用ポイント」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「4．【比較表付き】求人広告25サービスの料金比較」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「ここでは求人広告の費用相場と、求人広告費にかける年間コストの推移、また1人あたりにかかる求人広告費(採用単価)の平均などを解説します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「新卒：80～300万円/1シーズン」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「中途：20～150万円/4週間」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「アルバイト：2～40万円/4週間」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「求人広告代理店に払う費用は、求人媒体の広告費に運用代行手数料（広告費の15〜20%が目安）を加えた合計で決まります」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「料金体系は掲載課金型・成果報酬型・運用型（クリック課金）・完全無料型の4つに大別され、中途採用は1媒体20〜100万円、求人検索エンジンの運用型は月10〜40万円が費用の目安です」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「この記事では、費用の相場と料金体系の全体像を採用区分別・形態別に整理し、そのうえで「金額の大小」ではなく「採用単価（1人あたりコスト）」で見極める視点まで、判断材料としてお伝えしますね」（https://kyujin-dairiten-navi.com/ryokin/）
+- 成約率・継続率：
+  - 「さらに、応募者の質や採用決定率も重要な指標となります」（https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/）
+  - 「案内に並ぶ「成約率」や「実績」の数字も、分母と期間が書かれていなければ比べられません」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「中途採用支援サービスを立ち上げた会社の代表 N氏は、当社の営業代行（川嶋メソッド）を導入した後、アポからの成約率37%を保てるようになりました」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「「成約率」や「導入実績」の数字は、分母・期間・数えた人を聞けば、ほかの会社と比べられる数字かどうかが分かります」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「たとえば「成約率」なら、アポのうちの受注か、商談のうちの受注か、どの業界の、いつからいつまでの数字かで意味が変わります」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「アポからの成約率が上がらない(成約20%以下)」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「面談・採用・成約率」（https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/）
+  - 「チャネル別に対象者率、面談化率、採用・成約率を掛け合わせ、最終成果一件当たりの費用を出します」（https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/）
+  - 「修正するときは、まず「採用課題を媒体選定前に共有する」を実施し、変更前後で対象者率、初回対応、面談・商談化率を比較します」（https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/）
+  - 「修正するときは、まず「提案の前提と試算根拠を確認する」を実施し、変更前後で対象者率、初回対応、面談・商談化率を比較します」（https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/）
+  - 「修正するときは、まず「原稿改善と応募後支援の範囲を見る」を実施し、変更前後で対象者率、初回対応、面談・商談化率を比較します」（https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/）
+  - 「修正するときは、まず「定例会の意思決定項目を決める」を実施し、変更前後で対象者率、初回対応、面談・商談化率を比較します」（https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/）
+  - 「入社決定率改善」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/）
+  - 「顧客リピート率は98.3%です」（https://rpm.zeku.co.jp/column/Recruitment-Advertising-Agency）
+  - 「高いリピート率」（https://www.trend-inn.co.jp/agency/）
+- 利幅：
+  - 「代理店のマージン（取り分）は見積書のどこにあるか」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「代理店のマージン、つまり代理店の取り分が見積書のどこに表れるかは、料金体系によって変わります」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「手数料の行がない見積書でマージンを確かめるには、媒体が公式に公開している掲載料金と見比べます」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「代理店が、自社の扱いやすい媒体や利益率の高いプランを優先して提案するケースもゼロではありません」（https://allhero.co.jp/blog/recruitment-advertising-agency/）
+  - 「判断の基準は、1件の受注で得られる粗利から決めます」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「たとえば受注1件の粗利が30万円なら、1受注あたりの費用が30万円を超えた時点で、続けても赤字です（仮の数字）」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「払う総額を受注の数で割り、受注1件の粗利と比べます」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「第二に、代理店は販売手数料（マージン）を収益源としています」（https://www.halle-a.jp/ad/difference.html）
+  - 「工務店経営の改善方法｜粗利・集客・営業・人材を仕組み化」（https://www.delight-solutions.co.jp/column/web%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/job-advertising-agency/）
+  - 「粗利率とは？製造業で改善する方法を解説」（https://mentena.biz/insight/gp/）
+  - 「製造業の粗利改善に設備保全が直結する理由【2026年版・実例付き】」（https://mentena.biz/insight/gp/）
+  - 「粗利率は会社の収益性を示す重要な指標です」（https://mentena.biz/insight/gp/）
+  - 「この記事では、製造業における粗利率の基本知識や業種別の基準、改善するための方法をわかりやすく解説します」（https://mentena.biz/insight/gp/）
+  - 「粗利率とは、売上高のうち、売上原価を差し引いた後に何％が残るかを示す指標です」（https://mentena.biz/insight/gp/）
+  - 「本記事は、複数の設備や生産ラインを管理し、原価低減を求められている製造業の保全・生産技術担当者を想定し、粗利率の計算方法と現場で確認すべき改善ポイントを解説します」（https://mentena.biz/insight/gp/）
+- 許可・資格の要否：
+  - 「・登録者数409万人」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「・20代から30代が約73％、学生の登録者数は10.5万人」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「・登録学生約80万人」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「・年間利用学生約10万人、「ベンチャー企業へ就職したい」という意欲の高い学生が多く登録」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「・登録学生のうち約55％がGMARCH・関関同立以上」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「派遣の求人媒体一覧！人材派遣の集客・登録者獲得のための媒体をご紹介」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「一般労働者派遣許可 許可番号 13-070366」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「有料職業紹介事業許可 許可番号 13-ユ-070309」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「プライバシーマーク認定 10860758(10)」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「会員登録はこちら」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「みんなの採用部があなたの許可なく投稿することはありません」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「簡単10秒！無料会員登録」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「他サービスIDで登録」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「執筆｜林田 結衣／公正比較メディア監修者認定」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「公正比較メディア監修者認定（VANGUARD TALENT PARTNERS株式会社 発行）」（https://kyujin-dairiten-navi.com/ryokin/）
+- 最初の売上までの期間：
+  - 「求人広告の掲載を始める際は、サービスの掲載期間や成果報酬、採用職種などによって採用コストが大きく異なるため、導入前に十分なリサーチが重要です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「審査期間と掲載スピード：即日掲載の可否」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「中途採用費用の総額（1社あたり平均）も、前年の650.6万円から609.9万円へ40.7万円減少し、2021年から続いていた増加傾向は一服しました」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「掲載時に費用を支払うスタイルで、一定期間に求人を掲載することに対して料金が発生します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「・掲載期間に定めがあるため、期間中に採用できない場合は追加費用がかかる可能性もある」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「・掲載期間や求人掲載数に制限がないため、採用が必要なときに必要な採用人数分利用できる」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「・掲載期間の制限がないため、予算をかけるタイミングを細かく調整できる」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「・中小企業や新規事業立ち上げ時など、予算に制限がある場合でも気軽に掲載できる」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「審査期間と掲載スピード（即日掲載の可否）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「掲載期間中に内容を書き換える際、」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「IT/Web系職種、掲載期間・求人数無制限」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「即日掲載や短期間での公開がしやすく、急ぎの募集におすすめ」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「・掲載期間、掲載件数無制限なので複数職種や複数拠点の同時募集をおこないやすい」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「・インターンシップ期間から採用後半期まで年間を通して求人情報の掲載ができる」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「掲載期間はサービスごとに異なるため、表記の期間でご確認ください」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+- 営業のやり方：
+  - 「プランナーのご紹介」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「サービスごとの料金比較も後ほどご紹介しますので、ぜひご覧ください」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「※本記事で紹介する各サービスの基本企画の料金をもとに算出」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「新卒採用・中途採用における求人広告費の年間コストをご紹介します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「1人あたりにかかる求人広告費(採用単価)の平均を職種ごとにご紹介します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「さらに本記事では「求人広告」の中でも活用率の高い「求人サイト」や「求人検索エンジン」などのWeb媒体に絞って紹介します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「月額費用は運用次第で調整可能のため、ここではクリック単価の相場をご紹介します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「企業ホームページや求人検索エンジンの一部無料枠、行政・自治体の職業紹介サービスなどで利用できます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「さらに雇用形態ごとに分けてサービスを紹介しているため、自社の採用ターゲットに合わせて情報を活用できます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「ここでは求人広告の費用対効果を高めるための3つのポイントをご紹介します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「求人サイト、SNS、企業ホームページ、業界専門のメディアなど、選択肢は多岐にわたります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「複数の求人広告サービスのうち、どのサービスを利用すればよいかわからないときや、どの掲載プランを選べばよいか迷っているときは、求人広告代理店に相談するのもいいでしょう」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「求人広告代理店は無料で求人広告サービス資料の配布や見積もりの算出をおこなってくれます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「採用の費用対効果を高める方法の1つとして、ぜひ求人広告代理店の活用も視野に入れてみてはいかがでしょうか」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「派遣の求人媒体一覧！人材派遣の集客・登録者獲得のための媒体をご紹介」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+- 小さく始めた実例：
+  - 「・中小企業の新卒採用もおこないやすく、従業員数300名未満の企業の割合が57％」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-kyuzinkokokuhiyo-230915/）
+  - 「：掲載課金型（大量・短期向き）、成果報酬型（少人数・お試し向き）、運用型＝クリック課金（予算調整しながら継続運用）、完全無料型に分かれます」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「従業員数が少ない中小企業ほど、募集をピンポイントに絞れるため費用を抑えやすい傾向です」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「少人数採用・まず試したい」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「大量・短期なら掲載課金型、少人数やお試しなら成果報酬型、予算を見ながら継続運用したいなら運用型が向いています」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「大量・短期採用は掲載課金型、少人数やお試しは成果報酬型、予算を調整しながらの継続運用は運用型が向いています」（https://kyujin-dairiten-navi.com/ryokin/）
+  - 「株式会社アルフォース・ワンは、従業員100名以下の中小企業に特化した採用支援をおこなう求人広告代理店です」（https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/）
+  - 「年商1億円・契約数2.5倍・求人票5社」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「3社の取材から：年商1億円の突破、3か月で月の契約数2.5倍、初月の10商談中5社から求人票（各社の集計）」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「売上は月1,000万円を超え、年商は1億円を突破しています（いずれも取材で同社から伺った数字・同社の集計）」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「創業の直後は営業の壁にぶつかり、以前に試した代行会社では成果が出なかったといいます」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「「年商はついに1億円を突破しました」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「」（令和8年6月一部改正）2-1——法人そのものの情報と、役員・従業員等の情報の扱い」（https://sukimagroup.jp/jobadvertisement_teleappointment02/）
+  - 「粗利率とは、売上高のうち、売上原価を差し引いた後に何％が残るかを示す指標です」（https://mentena.biz/insight/gp/）
+  - 「①月別・製品別の売上高、売上原価、粗利率を同じ期間で集計する、②売上原価を材料費・労務費・製造経費に分ける、③製造経費のうち修理費、不良・手直し費、停止に伴う追加工数を抽出する、④前年差が大きい項目について単価・数量・稼働時間のどれが変化したかを確認する、という流れです」（https://mentena.biz/insight/gp/）
+- 検索結果の抜粋：
+  - 「【2026年版】 求人広告代理店 おすすめ10選！失敗しない ... — 【2026年版】 求人広告代理店 おすすめ10選！失敗しない ... 株式会社カケハシスカイ https://www.kakehashi-skysol.co.jp > careerad10」（https://www.kakehashi-skysol.co.jp/career-chiebukuro/careerad10/）
+  - 「求人広告代理店 とメーカー（直販）の違いとは？代理店8社の ... — 求人広告代理店 とメーカー（直販）の違いとは？代理店8社の ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-dairitenn-maker_220210/）
+  - 「求人広告代理店 10選！代理店選びの5つのポイント — 求人広告代理店 10選！代理店選びの5つのポイント crosslink.jp.net https://crosslink.jp.net > kyujinnavi > blog > job-ads-agency」（https://crosslink.jp.net/kyujinnavi/blog/job-ads-agency/）
+  - 「Qジェネ: 求人広告代理店 83社を徹底比較｜おすすめの企業を ... — Qジェネ: 求人広告代理店 83社を徹底比較｜おすすめの企業を ... jobad-agency.com https://www.jobad-agency.com」（https://www.jobad-agency.com/）
+
+## 製造業の人材紹介（エンジニア・技能者）（recruitment agency manufacturing engineers Japan）
+- 文脈：入口候補・人材紹介（許可が要る）
+- 顧客獲得単価：
+  - 「安定的に20%を実現している会社もあれば、規模や広告費の効率によっては10%を下回る会社もあります」（https://aizeal-job.com/column/hr-gyoukai-riekiritsu）
+  - 「売上の70%前後が原価として消えた残り30%（マージン率）から、さらに採用広告費・オフィス費・人件費などを差し引くと、最終的な営業利益率は1〜5%程度にとどまります」（https://aizeal-job.com/column/hr-gyoukai-riekiritsu）
+  - 「そこから人件費・広告費・オフィス費用を差し引いた営業利益率は、理想的な稼働状態で20〜33%程度とされています」（https://aizeal-job.com/column/hr-gyoukai-riekiritsu）
+  - 「1件あたりの収益が大きいため、成約件数が少なくても一定の売上規模を確保しやすい構造です」（https://aizeal-job.com/column/hr-gyoukai-riekiritsu）
+  - 「| 広告宣伝費 | 150万円 | 求職者集客・求人獲得にかかる広告費 |」（https://aizeal-job.com/column/hr-gyoukai-riekiritsu）
+  - 「毎月安定してこの水準を維持するには、チャネル別のCPA（1件の成約にいくらかかるかの広告費）管理が欠かせません」（https://aizeal-job.com/column/hr-gyoukai-riekiritsu）
+  - 「特にエグゼクティブ・ハイクラス人材（年収800万円以上）を対象にした会社では、1件あたりの手数料が300〜500万円以上になることもあります」（https://aizeal-job.com/column/hr-gyoukai-riekiritsu）
+- 顧客が払う単価：
+  - 「スタッフ満足は、紹介料30万円〜・登録支援は月額1.6万円～で採用から育成をトータルサポート」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「紹介料：30万円～」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「登録支援機関業務委託料：月額16,000円～（各種支援込）」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「スタッフ満足は、紹介料30万円〜・月額1.6万円～の登録支援」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「理論年収の30％」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「10～30万円」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「初期費用：38万円～（日本語能力によって変動）」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「支援委託費用：2万円～（委託人数によって変動）」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「紹介手数料は30万円〜60万円程度が相場になるでしょう」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「費用の目安は理論年収の25〜35%が目安です」（https://www.plex-job.com/ewri/columns/manufacturing-recruitment/）
+  - 「理論年収×25〜35%（成功報酬）」（https://www.plex-job.com/ewri/columns/manufacturing-recruitment/）
+  - 「料率・返金規定・フォロー体制を契約前に確認する：標準料率は理論年収の25〜35%が目安です」（https://www.plex-job.com/ewri/columns/manufacturing-recruitment/）
+  - 「プレックスジョブは製造業特化・成功報酬型・全国対応という3軸をカバーしており、まず相談先の一つとして検討してみてください」（https://www.plex-job.com/ewri/columns/manufacturing-recruitment/）
+  - 「Q1: 製造業の人材紹介の手数料（料率）はいくらですか？」（https://www.plex-job.com/ewri/columns/manufacturing-recruitment/）
+  - 「A: 一般的に理論年収の25〜35%が目安です」（https://www.plex-job.com/ewri/columns/manufacturing-recruitment/）
+- 成約率・継続率：
+  - 「：求職者の集客力、マッチング精度、企業の採用決定率などによって大きく左右されます」（https://remind-gr.co.jp/article/%E4%BA%BA%E6%9D%90%E7%B4%B9%E4%BB%8B%E6%A5%AD%E3%81%AE%E5%88%A9%E7%9B%8A%E7%8E%87%E3%81%AF%E5%B9%B3%E5%9D%87%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%EF%BC%9F%E9%AB%98%E5%88%A9%E7%9B%8A%E3%82%92/）
+  - 「採用難・競争激化による成約率の低下」（https://remind-gr.co.jp/article/%E4%BA%BA%E6%9D%90%E7%B4%B9%E4%BB%8B%E6%A5%AD%E3%81%AE%E5%88%A9%E7%9B%8A%E7%8E%87%E3%81%AF%E5%B9%B3%E5%9D%87%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%EF%BC%9F%E9%AB%98%E5%88%A9%E7%9B%8A%E3%82%92/）
+  - 「成約率の低下」（https://remind-gr.co.jp/article/%E4%BA%BA%E6%9D%90%E7%B4%B9%E4%BB%8B%E6%A5%AD%E3%81%AE%E5%88%A9%E7%9B%8A%E7%8E%87%E3%81%AF%E5%B9%B3%E5%9D%87%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%EF%BC%9F%E9%AB%98%E5%88%A9%E7%9B%8A%E3%82%92/）
+  - 「成約率が低下すれば、どれだけ多くの求職者や求人案件を抱えていても、実際の売上として結びつきにくくなります」（https://remind-gr.co.jp/article/%E4%BA%BA%E6%9D%90%E7%B4%B9%E4%BB%8B%E6%A5%AD%E3%81%AE%E5%88%A9%E7%9B%8A%E7%8E%87%E3%81%AF%E5%B9%B3%E5%9D%87%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%EF%BC%9F%E9%AB%98%E5%88%A9%E7%9B%8A%E3%82%92/）
+  - 「結果として、成約率の向上や、高単価案件の獲得にも繋がり、人材紹介業の利益率を大きく引き上げることが期待できます」（https://remind-gr.co.jp/article/%E4%BA%BA%E6%9D%90%E7%B4%B9%E4%BB%8B%E6%A5%AD%E3%81%AE%E5%88%A9%E7%9B%8A%E7%8E%87%E3%81%AF%E5%B9%B3%E5%9D%87%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%EF%BC%9F%E9%AB%98%E5%88%A9%E7%9B%8A%E3%82%92/）
+- 利幅：
+  - 「時給×稼働時間（マージン込）」（https://www.plex-job.com/ewri/columns/manufacturing-recruitment/）
+  - 「、粗利率50〜55%」（https://un-limit.jp/article/foreign-talent-recruitment-sales）
+  - 「、粗利率60〜65%」（https://un-limit.jp/article/foreign-talent-recruitment-sales）
+  - 「、粗利率35〜40%」（https://un-limit.jp/article/foreign-talent-recruitment-sales）
+  - 「人材紹介事業は儲かりやすい？費用と利益率をわかりやすく解説！【PORTERS】人材紹介・人材派遣管理システム」（https://hrbc.porters.jp/success/detail/id=642）
+  - 「人材紹介事業は儲かりやすい？費用と利益率をわかりやすく解説！」（https://hrbc.porters.jp/success/detail/id=642）
+  - 「> 人材紹介事業は儲かりやすい？費用と利益率をわかりやすく解説！」（https://hrbc.porters.jp/success/detail/id=642）
+  - 「人材紹介事業の利益率は高い？」（https://hrbc.porters.jp/success/detail/id=642）
+  - 「人材紹介業で利益率を上げるには」（https://hrbc.porters.jp/success/detail/id=642）
+  - 「人材紹介と人材派遣では利益率が異なる」（https://hrbc.porters.jp/success/detail/id=642）
+  - 「人材紹介はマッチングサービスを提供しているため、商品の仕入れや製造に直接的に関わった費用である売上原価が発生しません」（https://hrbc.porters.jp/success/detail/id=642）
+  - 「一方で人材派遣事業は、労働者を派遣するサービスを提供しているため、売上原価の中に派遣労働者の賃金や社会保険などが売上原価として計上されます」（https://hrbc.porters.jp/success/detail/id=642）
+  - 「人材派遣事業の利益=売上高-売上原価（派遣労働者の賃金＋社会保険）-（人件費＋広告費＋その他販管費）」（https://hrbc.porters.jp/success/detail/id=642）
+  - 「上記のコスト・利益構造の違いから、一般的には人材紹介事業の方が利益率が高いと言われています」（https://hrbc.porters.jp/success/detail/id=642）
+  - 「一方でシステムによる業務効率化を進め、最低限の人数だけを雇いながら高い利益率を保つ企業も出てきています」（https://hrbc.porters.jp/success/detail/id=642）
+- 許可・資格の要否：
+  - 「登録支援機関 業務委託」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「在留資格-ビザ」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「スタッフ満足は、紹介料30万円〜・登録支援は月額1.6万円～で採用から育成をトータルサポート」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「対応職種・在留資格の実績があるか確認する」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「また、早期に就労してもらうためには、スムーズに在留資格を取得してもらう必要があります」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「在留資格は必ず取得できるものではありませんが、実績豊富な人材紹介会社なら、申請が下りるための要点を押さえている可能性が高いです」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「登録支援機関としてのサポート体制が充実しているか」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「特定技能外国人を雇用する場合は、登録支援機関としてのサポート体制が充実している人材紹介会社に依頼することも重要です」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「先述したとおり、特定技能外国人を雇用する企業に義務付けられているサポート業務は、登録支援機関の資格を持っている企業にしか委託できません」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「母国語と日本語の両方を扱える外国人スタッフが仲介してくれる登録支援機関なら、コミュニケーション不足による退職を防ぐ効果が期待できるでしょう」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「特定技能外国人を雇用する際に必要な支援業務（登録支援機関業務）も、ワンストップで依頼できます」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「スタッフの定着支援（登録支援機関業務委託）」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「登録支援機関業務委託料：月額16,000円～（各種支援込）」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「スタッフ満足は、紹介料30万円〜・月額1.6万円～の登録支援」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「（登録支援）」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+- 最初の売上までの期間：
+  - 「スタッフ満足ではこのようなリスクを減らすため、採用後1年以内に離職したケースを対象に、「退職補償制度」を用意しています」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「（1年以内の退職の場合、追加人材を無料でご紹介）」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「返金規定（3ヶ月以内）」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「返金規定（1ヶ月以内）」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「返金規定（6ヶ月以内）」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「また、入社後6か月未満で自己都合退職した場合の、返金制度を設けていることも特徴です」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「国内在住者を対象に人材を探す場合、最短1か月で就労が開始できるよう紹介してもらえます」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「特定技能内定者を対象に、インドネシア現地法人が、6か月間の日本語集中教育を実施していることも強みといえるでしょう」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「約1〜3ヶ月」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「おおよそ6ヶ月」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「おおよそ3〜4ヶ月」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「※JAIMの行はJAIMの案内、在留資格の申請の行は出入国在留管理庁の標準処理期間によるもので、ほかはスタッフ満足での目安です」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「申請内容に不備があると、名簿掲載までの期間はさらに延びます」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「届出は年1回、面談は本人と監督者それぞれに3ヶ月に1回以上」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「製造業で就労開始までの期間が変わる条件」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+- 営業のやり方：
+  - 「製造業に強い外国人人材紹介会社16社を紹介！おすすめポイントも | 株式会社スタッフ満足」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「在日外国人の人材紹介・人材派遣」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「製造業に強い外国人人材紹介会社16社を紹介！おすすめポイントも」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「今回は、製造業の中でも、工業製品製造業に強い外国人人材紹介会社を16社紹介します」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「外国人人材の採用を成功させるポイントも紹介するので、ぜひ参考にしてみてください」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「スタッフ満足は、紹介料30万円〜・登録支援は月額1.6万円～で採用から育成をトータルサポート」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「製造業に強い外国人人材紹介会社の選び方」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「製造業に強い外国人人材紹介会社16社を比較」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「製造業の外国人人材紹介会社に依頼できるサービス内容」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「製造業の外国人人材紹介会社の費用相場」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「ここまで、工業製品製造業に強い外国人人材紹介会社を16社紹介しましたが、どのような基準で相談先を選べばいいのか迷っている方もいるでしょう」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「ここからは、外国人人材紹介会を選ぶときに意識すべき5つのポイントについて紹介します」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「即戦力を確保するには、求める職種・工程に対応できる外国人人材を実際に紹介した実績があるかどうかを確認してみてください」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「在留資格は必ず取得できるものではありませんが、実績豊富な人材紹介会社なら、申請が下りるための要点を押さえている可能性が高いです」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+  - 「特定技能外国人を雇用する場合は、登録支援機関としてのサポート体制が充実している人材紹介会社に依頼することも重要です」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-foreigner-recruitmentagencies）
+- 小さく始めた実例：
+  - 「従業員の高齢化が進み、若手の即戦力が急ぎ必要なケース」（https://www.plex-job.com/ewri/columns/manufacturing-recruitment/）
+  - 「金属加工メーカー・従業員110名・設備保全の経験者1名（作例：中部）」（https://www.saiyou-erabi.com/shoukai/guide/seizo/）
+  - 「・高木工業株式会社は、1929年の創業以来、100年近くにわたり日本のモノづくりを支え続けてきた製造請負・人材サービスの老舗企業」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「・創業100年近くの歴史を持つ製造請負・派遣のパイオニア・特定技能外国人の採用・支援に圧倒的な強み」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「は、1929年の創業以来、100年近くにわたり日本のモノづくりを支え続けてきた製造請負・人材サービスの老舗企業です」（https://service.circus-group.jp/circus/forrecruiting/column/manufacturing-recruitment-agency/）
+  - 「5. 事業モデル別・売上シミュレーション」（https://un-limit.jp/article/foreign-talent-recruitment-sales）
+  - 「軸3：エリア×従業員規模」（https://un-limit.jp/article/foreign-talent-recruitment-sales）
+  - 「フェーズ1：立ち上げ（年商0〜5,000万円）」（https://un-limit.jp/article/foreign-talent-recruitment-sales）
+  - 「フェーズ2：成長初期（年商5,000万〜1.5億円）」（https://un-limit.jp/article/foreign-talent-recruitment-sales）
+  - 「フェーズ3：成長期（年商1.5〜5億円）」（https://un-limit.jp/article/foreign-talent-recruitment-sales）
+  - 「フェーズ4：拡大期（年商5億円超）」（https://un-limit.jp/article/foreign-talent-recruitment-sales）
+  - 「年商合計2.2億円」（https://un-limit.jp/article/foreign-talent-recruitment-sales）
+  - 「年商合計1.9億円」（https://un-limit.jp/article/foreign-talent-recruitment-sales）
+  - 「年商合計6.5億円」（https://un-limit.jp/article/foreign-talent-recruitment-sales）
+  - 「年商3〜5億円フェーズではストック比率50%超が安定経営の条件です」（https://un-limit.jp/article/foreign-talent-recruitment-sales）
+
+## ホワイトラベルSaaSの再販（日本の中小企業向け）（white label SaaS reseller Japan SMB）
+- 文脈：入口候補・ホワイトラベル
+- 顧客獲得単価：
+  - 「1件あたり1,180円の粗利」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「顧客獲得単価：平均1万2000円（広告費+制作費）」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「●SaaSのパートナー販売は、直販でMRR1,000万円超・CAC回収期間12か月以内を目安に開始し、売れる型を整えてから展開する設計が重要です」（https://note.com/ripla_business/n/n124ad2f92434）
+  - 「目安として「直販でMRRが1,000万円を超え、CAC回収期間が12ヶ月以内に収まっている状態」を目標にしてください」（https://note.com/ripla_business/n/n124ad2f92434）
+- 顧客が払う単価：
+  - 「月額固定金額のS3互換ストレージ」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「国内クラウド市場は2028年に16兆円超への成長が予測され、ビジネスチャンスは拡大中」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「自社ブランド化後の価格設定・販売形態は自由に設定でき、OEM提供開始まで最短約1ヵ月」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「IDC Japanが2024年6月に発表した報告によると、2023年の国内クラウド市場は売上額ベースで前年比29.6％増の7兆8,250億円でした」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「また、2023～2028年のCAGR（年間平均成長率）は16.3％で推移し、2028年の市場規模は2023年の約2.1倍の16兆6,285億円になると予測しています」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「例えば、ホワイトラベルの代表例である「セブンプレミアム」でいえば、その商品数はすでに多岐にわたり（2024年2月末時点で約3,400アイテム、累計売上は15兆円超）、ユーザの生活の隅々に浸透しています」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「さらにユーザ数無制限のため、100人でも1,000人でも料金が一律です」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「顧客の大半は従業員10名以下の企業で、難しい設定などもワンストップで任せたいという顧客ニーズにしっかり応えられる安心感に加え、圧倒的な価格差がパートナー契約締結の決め手になったといいます」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「2018年に発表した「DXレポート」では、「2025年の崖」という言葉を使い、このまま課題が解決されなければ2025年以降、毎年最大12兆円の経済損失が生じる可能性があると指摘しました」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「AIでの作成は月額$20から」（https://we.inc/ja/blog/saas-web-design-agency）
+  - 「We.Incなら、ビルダーは自社ブランドで自社ドメイン上で動き、取引手数料は0%、料金はご利用規模に合わせて決まります」（https://we.inc/ja/blog/saas-web-design-agency）
+  - 「正確な料金は https://calendly.com/hey-we/30min でデモを予約してご確認ください」（https://we.inc/ja/blog/saas-web-design-agency）
+  - 「2026年9月時点で、成果を出している制作会社はニッチを意図的に絞り込み、プロジェクト費用に加えて月額リテーナーを販売し、クライアントのマーケティングチームが自分たちだけで編集できるサイトを引き渡しています」（https://we.inc/ja/blog/saas-web-design-agency）
+  - 「【2026年最新】White-Label SaaS / Reseller Platform：月85万円で月3-5万円稼ぐ完全ガイド｜AI×テック活用術｜ぬるぽん」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「【2026年最新】White-Label SaaS / Reseller Platform：月85万円で月3-5万円稼ぐ完全ガイド」（https://note.com/pocketstudio/n/nbece063f444f）
+- 成約率・継続率：
+  - 「世界中で支払いを受け付け、課金を自動化し、未回収取引を回収し、チャーンを削減する — これらすべてを一つの完全なプラットフォームで実現します」（https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/）
+  - 「解約率が低いストレージ・セキュリティ系サービスはその典型で、営業効率の面でも優れています」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「また、ストレージソリューションは解約率が低い製品のため、営業の効率化を実現することも可能です」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「定期レビュー会：四半期ごとにKPI（稼働率、ユーザー満足度、チャーン率）を共有し改善策を協議」（https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/）
+  - 「驚いたことに、成約率はほとんど変わらなかった」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「④ 解約率を下げる運用ノウハウが身につく」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「私の解約率は年間で約8%」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「解約率：年間約8%」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「基準5：顧客の継続率（チャーンレート）」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「第5章：解約率を下げる運用術」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「収益は成長し、顧客の継続率も堅調で、チームには才能がありました」（https://we.inc/ja/blog/agency-saas-consolidation-case-study）
+  - 「顧客継続率：22%上昇」（https://we.inc/ja/blog/agency-saas-consolidation-case-study）
+  - 「移行前の12か月間、Bright Digitalの顧客解約率は18%でした」（https://we.inc/ja/blog/agency-saas-consolidation-case-study）
+  - 「顧客継続率は最初の2か月で22%改善し、対応の高速化とクライアントによるセルフサービス編集がその要因とされています」（https://we.inc/ja/blog/agency-saas-consolidation-case-study）
+  - 「新規営業より成約率が高く、フィードバックも得やすいです」（https://gambit.icu/blog/whitelabel-saas-guide）
+- 利幅：
+  - 「1件あたり1,180円の粗利」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「月の粗利は8,260円」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「粗利は約1万5000円」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「月の粗利は約10万円」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「維持費を引いた粗利は約42万円」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「月間売上：約47万円（粗利約42万円）」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「だからこそ、競合が少なく、利益率を確保しやすい」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「粗利率が高い（50-80%も可能）」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「粗利率が低い（10-30%程度）」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「その制作工程を、自社ブランドで再販できるAIビルダーに移行したことで、10人のチームがはるかに大きなチームのように出荷でき、なおかつ利益率を保つことができました」（https://we.inc/ja/blog/agency-saas-consolidation-case-study）
+  - 「一定のマージンを上乗せして小売り（再販）することにより差益を得ます」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「再販型契約は、収益の幅を広げる可能性があり、利益率の改善が期待できます」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「FinTechを埋め込むことで（単なる再販ではなく）マージンが改善され、商品が粘り強くなる」（https://foundx.jp/review/fintech-scales-vertical-saas）
+  - 「しかし組み込みを行うと、マージンが高くなり、製品全体として粘り強いものになります」（https://foundx.jp/review/fintech-scales-vertical-saas）
+  - 「最終的には、これによってFinTech製品のマージンが向上し、新たな市場参入の選択肢が生まれます」（https://foundx.jp/review/fintech-scales-vertical-saas）
+- 許可・資格の要否：
+  - 「次に、カスタマイズオプションを確認し、ソフトウェアがビジネス要件とブランディングに合わせて調整できるかどうかを判断します」（https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/）
+  - 「使えるデータプロテクトで★3要件クリア」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「ホワイトラベル対応の機能をどこまで作るか迷う場合は、ノーコード総合研究所で要件整理から相談できます」（https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/）
+  - 「仕事の目的は、訪問者をトライアル登録やデモ依頼へ転換させることと、クライアントのマーケティングチームがサイトを自分たちで簡単に変更できるようにすることです」（https://we.inc/ja/blog/saas-web-design-agency）
+  - 「ユースケースとは？意味・書き方と要件定義での使い方」（https://otsumu.co.jp/knowledge/glossary/terms/white-label.html）
+  - 「書き方の要素、ユースケース図との関係、要件定…」（https://otsumu.co.jp/knowledge/glossary/terms/white-label.html）
+  - 「新規登録[無料]」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「無料で新規会員登録」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「【非機能要件とは？】アプリケーション・Webサービス開発に必須の項目を解説｜弁護士監修」（https://www.collabotips.com/guide/saas-distribution-agreement/）
+  - 「AIは、メモ、要件、製品情報を構造化された下書きへと変換するのを助けます」（https://1min.ai/ja/white-label-ai-for-small-businesses）
+  - 「強いエンジニアリングチームと、非常に特殊な要件を持つ企業なら、カスタム開発が理にかなう場合もあります」（https://1min.ai/ja/white-label-ai-for-small-businesses）
+  - 「提供元のホワイトラベルライセンスとカスタマイズオプションが許可していれば可能です」（https://1min.ai/ja/white-label-ai-for-small-businesses）
+  - 「この記事は原著者の許可を得て翻訳・公開するものです」（https://foundx.jp/review/fintech-scales-vertical-saas）
+  - 「すべての企業は労災保険などの保険に加入することを義務付けられていますが、職場の危険性、雇用や法的要件の厳格化、高額な実物資産の保護など、リスク評価がより複雑な業界（建設、製造、ヘルスケア、メディア、ホスピタリティなど）では、バーティカルSaaSソリューションを最も高く評価している可能性が高いでしょう」（https://foundx.jp/review/fintech-scales-vertical-saas）
+  - 「これは、頻繁に雇用される業界（小売業、レストラン、健康/ウェルネス/美容、建設業など）や、定期的な資格確認が必要な代理店（保険業など）に適していると考えられます」（https://foundx.jp/review/fintech-scales-vertical-saas）
+- 最初の売上までの期間：
+  - 「お引渡し後、自社ブランド化された「使えるファイル箱」をどのように販売するか、つまり価格設定や契約期間は御社の販売計画やブランド戦略に合わせて決めていただくことができます」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「前述したようにストック型ビジネスとは契約したら終了までその期間は継続して対価を得られるビジネスモデルです」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「システム開発やアプリ開発を短期間でコストを抑えて作りたい」（https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/）
+  - 「立ち上げ、成長、自動化のすべてを1つのプラットフォームで行う15,000+社がWe.Incを利用しています」（https://we.inc/ja/blog/saas-web-design-agency）
+  - 「月3万円から始まった収益は、1年半で月47万円まで伸びた」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「半年かけて、獲得できたのは7件」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「半年で7件の顧客を獲得した」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「最初の1年は赤字だった」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「運用期間：2年3ヶ月」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「投資回収期間の計算方法」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「私が最初の1年で147万円を失ったのは、「やり方」を知らなかったからだ」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「小さなSaaSでも、開発に半年、費用に500万円以上かかることは珍しくない」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「移行後の状態：2か月後」（https://we.inc/ja/blog/agency-saas-consolidation-case-study）
+  - 「2026年2月までに、Bright Digitalはサイト制作を We.Inc で完全に運用してから2か月余りが経過していました」（https://we.inc/ja/blog/agency-saas-consolidation-case-study）
+  - 「移行前の12か月間、Bright Digitalの顧客解約率は18%でした」（https://we.inc/ja/blog/agency-saas-consolidation-case-study）
+- 営業のやり方：
+  - 「代理店向けマーケティングツール：」（https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/）
+  - 「代理店は、ホワイトラベルのEメールマーケティング、SEO、レポート作成ツールを自社ブランドで顧客に再販しています」（https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/）
+  - 「再販業者、代理店、起業家」（https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/）
+  - 「例えば、「使えるファイル箱」のOEM（販売代理店）化をお申込みいただきますと、約1ヵ月から1ヵ月半くらいで御社にお引渡しが可能です」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「販売代理店パートナーもエンドユーザもはじめてでも安心」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「それに替わるクラウドストレージサービスを比較検討していたところ、お取引様から使えるねっとの製品を紹介されたといいます」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「クラウドサービスを自社開発するには高コストで利益が見込めなかった場合などのリスクが高いですし、取次代理店だと手数料率が高く利益が少なくなる可能性もあります」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「それに対して、OEM販売代理店は、開発コストは不要ですし、自由な価格設定で利益を出しやすいのです」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「クラウドサービスの販売代理店パートナー募集中！」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「販売代理店パートナー」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「共同プロモーションプラン：ウェビナー共催、ホワイトペーパーダウンロード、展示会出展など共有施策を設計」（https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/）
+  - 「マーケティングオートメーション：広告代理店が自社提供ツールとして展開し、代理店手数料＋利用料で収益化を目指すモデル」（https://nocoderi.co.jp/2025/05/01/microsaas-white-label-expansion-guide/）
+  - 「：あなたの代理店専用のAIウェブサイトビルダーを自社ブランドで」（https://we.inc/ja/blog/saas-web-design-agency）
+  - 「紹介が広がりやすい」（https://we.inc/ja/blog/saas-web-design-agency）
+  - 「で回答方法を紹介しています」（https://we.inc/ja/blog/saas-web-design-agency）
+- 小さく始めた実例：
+  - 「グローバルSaaS売上税」（https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/）
+  - 「グローバルな売上税規制に関する洞察から、詳細なSaaSハウツーガイド、ブログ記事、厳選された回答集まで、当社の情報ハブは御社の成長を促進します」（https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/）
+  - 「SaaS売上税」（https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/）
+  - 「「ストック型ビジネス」とは、顧客との信頼関係を基盤として売上を継続的に積み上げていくビジネスモデルです」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「IDC Japanが2024年6月に発表した報告によると、2023年の国内クラウド市場は売上額ベースで前年比29.6％増の7兆8,250億円でした」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「例えば、ホワイトラベルの代表例である「セブンプレミアム」でいえば、その商品数はすでに多岐にわたり（2024年2月末時点で約3,400アイテム、累計売上は15兆円超）、ユーザの生活の隅々に浸透しています」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「顧客の大半は従業員10名以下の企業で、難しい設定などもワンストップで任せたいという顧客ニーズにしっかり応えられる安心感に加え、圧倒的な価格差がパートナー契約締結の決め手になったといいます」（https://www.tsukaeru.net/blog/whitelabel-ja/）
+  - 「SaaSの創業者やマーケティング責任者は、トライアル、料金ページ、オンボーディング、プロダクト主導型成長をすでに理解している制作会社を求めています」（https://we.inc/ja/blog/saas-web-design-agency）
+  - 「創業者やマーケターは企業間を移動し、互いに情報交換します」（https://we.inc/ja/blog/saas-web-design-agency）
+  - 「We.Inc創業者」（https://we.inc/ja/blog/saas-web-design-agency）
+  - 「UmairはWe.Incの創業者です」（https://we.inc/ja/blog/saas-web-design-agency）
+  - 「月の売上は4万7000円」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「月の売上は約47万円」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「月間売上：約47万円（粗利約42万円）」（https://note.com/pocketstudio/n/nbece063f444f）
+  - 「累計売上：約680万円」（https://note.com/pocketstudio/n/nbece063f444f）
+
+## 製造業向けオンプレAI・社内文書AIの導入（on-premise AI knowledge search for manufacturers Japan）
+- 文脈：入口候補・オンプレAI（Yomi）
+- 顧客獲得単価：
+  - 「1件あたり約100円」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「1件あたり約100円から数百円のコスト」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「1件あたり10円～100円」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「1件あたり100円～300円」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「画像のセグメンテーションでは1件あたり約100円、医療画像のような専門知識が必要な場合は1件300円以上のコスト」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「のほうが圧倒的に短く、1件あたり数十分〜1時間規模の削減も珍しくありません」（https://losta.co.jp/labo/ai-business-guide/）
+  - 「1件あたり30〜60分削減」（https://losta.co.jp/labo/ai-business-guide/）
+  - 「たとえば、ある業務が1件あたり30分短縮でき、月に40件あるなら、月20時間の削減です」（https://losta.co.jp/labo/ai-business-guide/）
+  - 「対象業務の「1件あたり削減時間」を計測する」（https://losta.co.jp/labo/ai-business-guide/）
+  - 「1件あたり削減」（https://losta.co.jp/labo/ai-business-guide/）
+  - 「1件あたりの時短と月間件数を記録すれば、続ける価値が数字で分かります」（https://losta.co.jp/labo/ai-business-guide/）
+- 顧客が払う単価：
+  - 「⇒120,000円～（月額）」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「⇒500,000円～」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「PoC：360万円〜／本開発：要件により個別見積」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「初期費用（システム導入費用）：100,000円」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「月額費用（システム利用料）1/ID 〜 39/ID：19,800円」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「月額費用（システム利用料）1/ID 〜 39/ID：39,800円」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「100,000円」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「月額10万円～」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「中規模プロジェクト（1,000万円前後）の費用内訳」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「最低でも月額10万円程度の運用費用」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「50万円～200万円」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「50万円～300万円」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「40万円～500万円」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「100万円～2,000万円以上」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「200万円～1,500万円以上」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+- 成約率・継続率：
+  - 「製造業実績100件・案件継続率82%の信頼」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「受注率・満足度の変化」（https://losta.co.jp/labo/ai-business-guide/）
+  - 「結果として、提案の精度が高まり、成約率が導入前と比べて約1.4倍に向上」（https://www.hammock.jp/hpr/media/ai-sales-merit-example.html）
+- 利幅：
+  - 「さらに予測精度が向上したことで、製造ロス（廃棄）を削減し、利益率の改善にも寄与しています」（https://biz.kccs.co.jp/column/dx05/）
+  - 「中小製造業様が利益率を改善するための3STEP」（https://www.techs-s.com/media/show/300）
+  - 「付加価値の伸び悩み 下請構造におけるマージン率の低下 大企業との生産性格差の拡大、賃上げ余力」（https://iv-i.org/wp-content/uploads/2026/08/IVI_ASG-025_White-paper.pdf）
+  - 「図面、仕様書、原価表、取引先との契約条件」（https://www.fiweek.jp/autumn/ja-jp/conference/aiworld.html）
+- 許可・資格の要否：
+  - 「株式会社Atlas Intelligenceが提供する「AIエージェント開発支援」は、経営課題から逆算して自動化すべき業務を特定し、要件定義・設計・開発・導入から運用・改善までを一気通貫で行うサービスです」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「要件定義から実装、運用保守までを一貫して伴走するため、「導入したが現場で使われない」というAI投資の失敗を回避できます」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「PoC：360万円〜／本開発：要件により個別見積」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「AI資格を保有した編集部がDX推進の事例や人工知能ソリューションの活用方法、ニュース、トレンド情報を発信しています」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「・Youtubeのチャンネル登録もお願いいたします」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「メルマガに登録する」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「メールマガジン登録」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「メールマガジンの配信をご希望の方は、下記フォームよりご登録ください」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「登録無料です」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「登録後すぐに視聴できます」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「初期費用には、企画・要件定義といった上流工程の人件費、AIモデル開発費、システム連携費用などが含まれます」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「企画・要件定義」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「セキュリティ要件が厳しい場合は、オンプレミス環境での構築や独自モデルの開発が必要となり、費用は大幅に増加します」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「高い機密性・セキュリティ要件」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「セキュリティ要件高」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+- 最初の売上までの期間：
+  - 「申請から決裁までのリードタイムを短縮し、経営の意思決定スピードを引き上げます」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「必要な機能をモジュール単位で組み合わせるため、スクラッチ開発と比べて開発コストと期間を大幅に削減できます」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「PoCからシステムの導入まで、オーダーメイドによる画像認識AIソリューションをご提供いたします」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「※費用相場、期間目安はプロジェクトの規模により異なります」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「開発期間も1〜2年と長期になる傾向」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「SaaS型AIは、専門的な開発知識がなくても比較的短期間で導入できるのが利点のひとつです」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「2週間～1ヶ月」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「SaaS型の導入は、一般的には約2週間〜1ヶ月で本格運用を開始できます」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「投資回収期間」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「短期的ROI重視（半年～1年）」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「開発期間に余裕がある」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「例えば小売業の事例では、SaaS型の需要予測AIを6ヶ月間実施」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「API連携による開発コスト削減効果は非常に大きく、自社開発と比較して開発期間を1/3に短縮できるケースも珍しくありません」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「数多くの導入支援で培ったノウハウをもとに、クラウド・オンプレミスを問わずセキュリティを担保した専用環境を短期間で構築します」（https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant）
+  - 「開発期間の短縮、高品質なAIの開発を可能にする」（https://www.itreview.jp/categories/generative-ai-introduction-and-development-consultant）
+- 営業のやり方：
+  - 「ライティング支援・SEO」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「インバウンド対策」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「株式会社アイスマイリーが運営するAIポータルメディア「AIsmiley」は、AIの専門家によるコンテンツ配信とプロダクト紹介を行うWebメディアです」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「製造業でのAI導入メリットや課題は? 活用事例やおすすめサービスも紹介」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「製造業に画像認識AIを導入！工場でのAIカメラ活用事例を紹介」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「SNSツール（LINE等）を用いた顧客問合せ対応」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「訪日外国人・インバウンド対策」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「特別講義・セミナー」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「どちらを選ぶべき？選定ポイントを紹介」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「以下に目的別おすすめのSaaS型AIサービスを紹介します」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「以下にそれぞれのAI種類におけるROIを紹介します」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「SEOディレクター兼ライターです」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「SEO記事から取材記事、専門性の高いコラムまで幅広く執筆しています」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「AI-OCRの導入事例8選｜金融・医療・製造・自治体などで成果を上げた事例を紹介」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「AI業務効率化ツール15選！選び方や導入時のポイントを紹介」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+- 小さく始めた実例：
+  - 「人の判断でしか実施できないからこそ、売上が増えると働き方が悪化する」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「従業員からの問合せ業務効率化」（https://aismiley.co.jp/category_page/manufacturing/）
+  - 「【高利益化】外注費・ツール費を下げながら売上を伸ばす設計」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「年間3億円の売上増加」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「6,000万円(売上増加)」（https://ai-keiei.shift-ai.co.jp/ai-implementation-cost/）
+  - 「SaaS型は少人数から試しやすく、利用者が増えると契約料金も増えます」（https://weel.co.jp/media/gen-ai-intoruction-cost/）
+  - 「初年度の支出は1,240万円、金銭的効果は400万円です」（https://weel.co.jp/media/gen-ai-intoruction-cost/）
+  - 「初年度だけでは投資額を回収できていません」（https://weel.co.jp/media/gen-ai-intoruction-cost/）
+  - 「【WEEL独自】従業員50名の企業でAI導入費用を試算してみた」（https://weel.co.jp/media/gen-ai-intoruction-cost/）
+  - 「今回は2026年10月時点の公式料金をもとに、従業員50名がAIを導入した場合の初年度費用を試算しました」（https://weel.co.jp/media/gen-ai-intoruction-cost/）
+  - 「初年度の利用月数」（https://weel.co.jp/media/gen-ai-intoruction-cost/）
+  - 「従業員50名の企業におけるAI導入費用の初年度試算」（https://weel.co.jp/media/gen-ai-intoruction-cost/）
+  - 「従業員が社内ルールや手続きに関する疑問を自分で解決できるようになり、事業支援部への電話問い合わせが大幅に減少しています」（https://weel.co.jp/media/gen-ai-intoruction-cost/）
+  - 「従業員向けの説明会や実務研修、運用中の検証」（https://weel.co.jp/media/gen-ai-intoruction-cost/）
+  - 「従業員に操作を教える費用がどれほど必要か」（https://weel.co.jp/media/gen-ai-intoruction-cost/）
+
+## 海外メーカーの日本窓口（販売代理人・手数料制）（sales agent for foreign manufacturers Japan commission）
+- 文脈：入口候補・海外メーカーの日本窓口
+- 顧客が払う単価：
+  - 「代理店契約はコミッション（売上の5〜15%程度）を支払いますが、販売価格をメーカーがコントロールできます」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「月10万円〜海外進出！商社機能を月額定額代行」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「2. 価格維持や顧客分配につながるかを確認します：固定価格、最低価格、制裁、将来価格の共有が含まれるかを見ます」（https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/）
+  - 「3. 法務確認まで回答を保留します：価格維持の合意形成に見える発言や文書を避けます」（https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/）
+  - 「(2) ディストリビューターはメーカーからの仕入れ値をもとに自社で価格設定を行います」（https://joto-smeca.com/member-news/20241106kokusai/）
+- 利幅：
+  - 「適切な契約形態を選ばなかった場合、利益率の低下、ブランドコントロールの喪失、契約解除時の高額な補償金支払いなど、深刻な問題に発展するリスクがあります」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「：販売店＝仕入値と販売価格の差額（マージン） / 代理店＝コミッション（手数料）」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「：販売店契約はメーカーの直接コストが低い（販売店が在庫・物流を負担）一方、マージンが大きくなるため製品の最終価格が高くなりがちです」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「販売店の場合はコミッションではなくマージン（仕入価格と販売価格の差額）となります」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「マージン率は業種や製品によって異なりますが、一般的に20〜40%程度です」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「原価管理の手順と効果を教えて下さい」（https://ebis.obda.or.jp/faq/1143）
+  - 「粗利益を改善したい」（https://ebis.obda.or.jp/faq/1143）
+  - 「仕入価格と再販売価格のマージンです」（https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/）
+  - 「代理店マージン・リベート」（https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/）
+  - 「販売店のマージン」（https://www.businesslawyers.jp/practices/990）
+- 許可・資格の要否：
+  - 「専門家登録について」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「販売店が独自に商標登録してしまうトラブルを防ぐため、商標の所有権がメーカーに帰属することを明記します」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「：商業代理店法（Federal Law No. 18 of 1981、改正を含む）により、登録された代理店の契約解除には「正当な理由」が必要で、経済省の委員会の判断を要する場合があります」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「：商業代理店規制（Commercial Agencies Regulations）に基づき、代理店の登録が義務付けられています」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「一度登録された代理店の変更は極めて困難で、裁判所の判断が必要になるケースもあります」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「タイでは外国人事業法により一部の業種で外資規制があり、インドネシアでは代理店登録制度があります」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「また、商標の先行登録（抜け駆け登録）リスクが高いため、契約前に中国での商標登録を済ませておくことが重要です」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「UAE、サウジアラビアなど中東諸国では代理店保護法が非常に強く、一度代理店を登録すると解除が極めて困難です」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「「Digima〜出島〜」には、厳正な審査を通過した優良な海外進出サポート企業が多数登録しています」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「エージェント登録」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「日本で登録していても、進出先の国で自動的に有効になるわけではありません」（https://trst.bz/kaigai-dairiten-kaitaku/）
+  - 「自社ブランドが現地で未登録のままだと、その状態を利用して第三者（ときには交渉中の代理店自身）に先に出願されることが実際に起きています」（https://trst.bz/kaigai-dairiten-kaitaku/）
+  - 「海外の登録状況はWIPOのGlobal Brand Databaseで調べられます」（https://trst.bz/kaigai-dairiten-kaitaku/）
+  - 「費用対効果を見ながら、進出予定国での商標登録を交渉と並行して検討すべきです」（https://trst.bz/kaigai-dairiten-kaitaku/）
+  - 「ブランドイメージを損なう使い方をされないよう、許可する使用形態をガイドラインで明確にしておきます」（https://trst.bz/kaigai-dairiten-kaitaku/）
+- 最初の売上までの期間：
+  - 「・販売店の販売努力が不十分でも、契約期間中は容易に変更できない」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「契約期間と更新条件」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「：初回の契約期間（1〜3年が一般的）と、更新の条件・方法を明記します」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「契約終了後も一定期間（通常3〜5年）継続する旨を規定します」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「：販売店契約では、契約終了時に販売店が保有する在庫の取り扱い（メーカーが買い戻すか、一定期間の販売を認めるか）を事前に規定しておきます」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「この指令では、代理店契約の終了時に、代理店が契約期間中に獲得した新規顧客や取引拡大に対する」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「補償金の上限は年間コミッションの1年分相当ですが、契約期間が長ければ長いほど補償額が大きくなる傾向があります」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「日本企業がEUで代理店を起用する場合は、この補償金リスクを事前に認識し、契約期間やコミッション率の設定に反映させることが重要です」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「独占販売権を付与したものの、販売店がほとんど販売努力をせず、市場が開拓されないまま契約期間だけが過ぎていくケースは非常に多いです」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「契約期間を短く設定する、コミッション率を適正に保つ、代理店に過度に依存しない販売体制を構築するなどの予防策が重要です」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「テリトリー（販売地域）の範囲、独占/非独占の区分、最低購入数量（販売店の場合）、契約期間と更新条件、競合品取扱いの制限、知的財産権の取り扱い、秘密保持義務、紛争解決条項（仲裁・準拠法）が最低限必要です」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「代理店契約の終了時に、代理店が契約期間中に築いた顧客基盤に対する補償金（最大で年間報酬の1年分相当）の支払いが義務付けられています」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「海外進出の方法を徹底比較｜費用・期間・リスク別に自社に合ったアプローチを解説【2026年最新版】」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「契約から2年経って解除し、そこから新しい代理店を探し直すと、その市場での立ち上げが実質ゼロに戻ります」（https://trst.bz/kaigai-dairiten-kaitaku/）
+  - 「生産キャパシティ、リードタイム、品質保証体制」（https://trst.bz/kaigai-dairiten-kaitaku/）
+- 営業のやり方：
+  - 「販売店契約と代理店契約の違いとは？海外ビジネスの契約形態を比較表付きで解説 | 海外進出ノウハウ | Digima〜出島〜」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「無料で参加できるセミナーや最新の海外動向を知れる「海外ビジネスEXPO」など、専門家と直接話せる機会も提供しています」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「海外ビジネスに関するお悩みを専門コンシェルジュがヒアリングし、課題解決に最適な支援専門家をご紹介します」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「「自社サイトからの問い合わせが増えない」「広告やSEO効果が実感できない」などの課題を解決します」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「販路拡大（営業代行・販売代理店探し）」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「海外展示会出展」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「海外人材採用・紹介」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「訪日観光ニーズが切り拓く、日本企業の海外展開戦略「インバウンドビジネス」特集」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「スモールスタートで海外展開！「販売代理店・バイヤー開拓」特集」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「販売店契約と代理店契約の違いとは？海外ビジネスの契約形態を比較表付きで解説」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「「グローバル市場で成功する日本企業を10,000社作る」をミッションとして、海外ビジネスに関するニュースやノウハウ記事、海外進出サポート企業情報、海外ビジネス関連セミナーの掲載等を行っています」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「海外で自社製品を販売する際、現地パートナーとの契約形態を「販売店契約」にするか「代理店契約」にするかは、事業の収益性やリスクに直結する重要な判断です」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「本記事では、販売店契約と代理店契約の違いを比較表付きで解説し、契約時に必ず確認すべきチェックポイントや国・地域別の注意点、トラブル事例と対策までを網羅します」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「・販売店契約と代理店契約の違い（比較表付き）」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「▼販売店契約と代理店契約 完全ガイド」（https://www.digima-japan.com/knowhow/world/19787.php）
+- 小さく始めた実例：
+  - 「代理店契約はコミッション（売上の5〜15%程度）を支払いますが、販売価格をメーカーがコントロールできます」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「：契約書に最低購入数量（販売店の場合）または最低売上目標（代理店の場合）を必ず規定し、未達の場合は独占権を解除できる条項を入れます」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「数値目標は年ごとに設定し、契約初年度は低く、段階的に引き上げるのが現実的です」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「代理店のコミッション率は売上の5〜15%が一般的で、業種や取引規模によって変動します」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「【2026年最新】ブリヂストンの海外進出戦略｜世界シェア13.6%・海外売上比率86%を支える3つの戦略を解説」（https://www.digima-japan.com/knowhow/world/19787.php）
+  - 「数百品目を扱う商社にとって、新規に加わった日本の中小メーカーの製品は売上構成比で数%にすぎません」（https://trst.bz/kaigai-dairiten-kaitaku/）
+  - 「逆に避けるべきは、「弊社は創業〇〇年の総合メーカーです」から始まる自己紹介中心の文面です」（https://trst.bz/kaigai-dairiten-kaitaku/）
+  - 「海外営業とは？仕事内容・国内営業との違いと、少人数で始める新規開拓の進め方」（https://cospalinks.com/column/overseas-distributor-agreement）
+  - 「少人数私募債について教えて下さい」（https://ebis.obda.or.jp/faq/1143）
+  - 「製造業などのBtoB（法人向け営業）でもホームページは売上アップにつながりますか？」（https://ebis.obda.or.jp/faq/1143）
+  - 「従業員を関連会社に出向させる時の注意点は？」（https://ebis.obda.or.jp/faq/1143）
+  - 「創業をしたいが、何から手をつけたらいいの？」（https://ebis.obda.or.jp/faq/1143）
+  - 「試用期間中の従業員を解雇する場合の注意点を教えて下さい」（https://ebis.obda.or.jp/faq/1143）
+  - 「従業員が会社の金銭を横領した場合の対応」（https://ebis.obda.or.jp/faq/1143）
+  - 「ホームページからの売上を上げるには？」（https://ebis.obda.or.jp/faq/1143）
+- 顧客獲得単価：記載なし（読んだ45頁・検索15回）
+- 成約率・継続率：記載なし（読んだ45頁・検索15回）
+
+## 金属AM原料（金属粉）の輸入販売（metal powder import distribution Japan）
+- 文脈：入口候補・原料
+- 顧客が払う単価：
+  - 「金属3Dプリントのコスト：部品単価を左右する要因とは？」（https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/）
+  - 「金属製の3Dプリント部品の価格は、およそ」（https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/）
+  - 「500ドルという価格差は、含まれる金属の量とはほとんど関係がありません」（https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/）
+  - 「同じ質量の2つの部品でも、一方は製造が容易であるのに対し、もう一方はレーザーの長い移動距離、高密度のサポート材、そして重厚な仕上げ加工が必要となるため、価格が数倍も異なる場合があります」（https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/）
+  - 「工業用金属AMシステム自体の価格は何十万ドルから100万ドル以上にもなり、最初の層をスキャンする前の基本的なコストが決まります」（https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/）
+  - 「アルミニウム合金は一般的に$80-150/kgで、特殊な組成やナノ強化粉末は$250-500/kgのプレミアム価格となっている」（https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/）
+  - 「工具鋼粉末の価格は、硬度、合金組成、粒子の特性により、$80～250/kgの範囲である」（https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/）
+  - 「金属3Dプリンタの市場価格」（https://monoken.yamazen.co.jp/blog/article/metal-printer/whats-metal-printer）
+  - 「しかし、金属3Dプリンタと比べて低価格な製品が多く、導入コストが大幅に抑えられます」（https://monoken.yamazen.co.jp/blog/article/metal-printer/whats-metal-printer）
+  - 「対して、金属3Dプリンタは初期費用・ランニングコストともに高額です」（https://monoken.yamazen.co.jp/blog/article/metal-printer/whats-metal-printer）
+  - 「金属3Dプリンタの市場価格は、3000万円から2億円が相場です」（https://monoken.yamazen.co.jp/blog/article/metal-printer/whats-metal-printer）
+  - 「加工方式と機能などで価格に違いがあり、パウダーベッド方式が3000万円～2億円、パウダーノズル方式が1億円～3億円となっています」（https://monoken.yamazen.co.jp/blog/article/metal-printer/whats-metal-printer）
+  - 「見積価格の内訳について | 金属3Dプリンターでの造形依頼 | 日本積層造形株式会社」（https://jampt.jp/column/column_488/）
+  - 「見積価格の内訳について | 金属3Dプリンターでの造形依頼」（https://jampt.jp/column/column_488/）
+  - 「を金属3Dプリンターで造形することを検討する場合、価格や寸法精度、面粗度など、デメリットばかりに目が行ってしまう傾向があります」（https://jampt.jp/column/column_488/）
+- 利幅：
+  - 「形状、合金、積層密度によって500以上になる場合もあり、小型プロトタイプでも、製造原価をはるかに上回る最低加工コストがかかることがあります」（https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/）
+  - 「加えて、製造原価の圧縮で金型にか」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+- 許可・資格の要否：
+  - 「35種類以上の合金と100種類以上の認定プロセスを擁する当社の製品ラインナップには、アルミニウム、チタン、コバルトクロム、ニッケル合金に加え、ステンレス鋼、工具鋼、高融点金属などが含まれます」（https://www.eos.info/ja/metal-solutions/metal-materials）
+  - 「特定の要件を満たすよう設計された、オーダーメイドの積層造形ソリューション」（https://www.eos.info/ja/metal-solutions/metal-materials）
+  - 「動画を視聴するには、マーケティングCookieを許可してください」（https://www.eos.info/ja/metal-solutions/metal-materials）
+  - 「認定資格と法的記述」（https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/）
+  - 「弊社は、この高度に技術的な分野でお客様の今後の3Dプリンティングの様々な要件に最適な金属粉技術を開発するためのノウハウと経験を持ち合わせています」（https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/）
+  - 「まず要件に合わせたカスタム金属粉を開発し、その化学および物理的性質を完全に整合させてから、生産量を拡大します」（https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/）
+  - 「ヘガネスには多くの難度の高い用途向けに独自の金属粉末の大量生産を行ってきた長い歴史があります - 品質と価格要件の両方が重要となる自動車部品の製造に加え、ハイエンドの製造業にも対応しています」（https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/）
+  - 「航空宇宙および医療需要は、承認要件が適格フィードストックの代替を困難にするため、市場の最も持続可能な基盤を提供します」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「ASTM F2924 などのチタン合金仕様は、粉床溶融金属管理に対する認識された根拠を提供しており、植込みのパフォーマンスとトレーサビリティが中心的な要件となるアプリケーションでの使用をサポートしています」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「規制認定期間と複雑性」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「世界規模で、認定航空宇宙粉末需要が集約化している地域で深刻」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「原料変更はプロセスチェーン全体を通じて再認定作業を引き起こす可能性があるからです」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「規制対象アプリケーションの長い認定サイクル」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「確立されたサプライヤーを保護するのと同じ認定要件が、新しい材料と参入者の導入を遅延させることができます」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「FAA規制は材料管理とプロセス仕様を結び付けており、EASAのCM-S-008は積層造形の認定に関する考慮事項に対応しています」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+- 最初の売上までの期間：
+  - 「その価値はしばしば設置済み資産の寿命延長、交換リードタイムの回避、または高価値表面の再構築にあります」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「中期（2026～2031年）」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「規制認定期間と複雑性」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「<li>自動車産業でのプロトタイピング期間短縮</li>」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「<th>予測期間CAGR</th>」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「2025年から2029年にかけて、複数の企業が新規拠点の開設と技術革新プログラムの立ち上げを計画しています」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「<li><strong>予測期間：</strong>2025年～2034年</li>」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「<dt>予測期間中の市場成長率はどの程度ですか？</dt>」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「<dd>アジア太平洋地域は2024年に__NUMVAL_17__の市場規模を記録し、予測期間中に__NUMVAL_18__のCAGRで成長すると予測されており、世界で最も高い成長率が見込まれています」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「小さな部品でも、ビルドプレートと機械時間は製造期間にわたって償却されるため、実際のコストがかかります」（https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/）
+  - 「リードタイムは隠れたコスト」（https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/）
+  - 「2021年06月14日」（https://jampt.jp/column/column_488/）
+  - 「世界の3Dプリンティング金属市場規模は、2025年には12億米ドルと評価され、2026年の14億2000万米ドルから2034年には53億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は18%となる見込みです」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「業界全体の標準規格が限られているため、検証期間が長くなり、メーカーは安全性が重視される用途に金属3Dプリンティングを使用することに慎重になる場合があります」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「粉末材料セグメントは2025年に86.7%のシェアを占め、高い材料精度、効率的な堆積、複雑な金属部品の製造への適性といった利点に支えられ、2026年から2034年の予測期間中に年平均成長率（CAGR）24.9%で成長すると予想されています」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+- 営業のやり方：
+  - 「展示会・イベント」（https://www.eos.info/ja/metal-solutions/metal-materials）
+  - 「エンドユーザー セミナー」（https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/）
+  - 「Höganäsを3分で紹介」（https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/）
+  - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「この記事では、積層造形用の金属粉末の包括的な概要を紹介する」（https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/）
+  - 「セミナー動画」（https://www.sinto.co.jp/promotion/metal-am/）
+  - 「紹介ページはこちら」（https://www.sinto.co.jp/promotion/metal-am/）
+  - 「セミナールーム」（https://www.sinto.co.jp/promotion/metal-am/）
+  - 「この記事では、金属3Dプリンタの基礎知識をご紹介します」（https://monoken.yamazen.co.jp/blog/article/metal-printer/whats-metal-printer）
+  - 「ここでは、主に使われている代表的な2つの造形方式をご紹介します」（https://monoken.yamazen.co.jp/blog/article/metal-printer/whats-metal-printer）
+  - 「展示会・セミナー」（https://monoken.yamazen.co.jp/blog/article/metal-printer/whats-metal-printer）
+  - 「サービス紹介」（https://jampt.jp/column/column_488/）
+  - 「金属3Dプリンティング技術紹介」（https://jampt.jp/column/column_488/）
+  - 「技術紹介 - 金属3Dプリンティング技術コラム」（https://jampt.jp/column/column_488/）
+  - 「サービス紹介」（https://jampt.jp/service/am-material/）
+- 小さく始めた実例：
+  - 「粉末床融解は航空宇宙、医療、高性能産業ワークフローに深く組み込まれているため、最大の売上基盤を保持しています」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「グラフ：金属粉末を用いた積層造形市場の売上高シェア（%）、用途別（2025年）」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「ラテンアメリカと中東・アフリカは小規模な売上基盤を有していますが、その修理、エネルギー、および輸入耐性ユースケースは商業的に有意義なローカルクラスターを生成できます」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「2025年の貴金属セグメントはどの程度の売上高を生み出しましたか」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「一次インタビューで直接収集した企業の売上高データに加え、メーカーの生産量、設置件数または導入件数に関する統計を出発点とします」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「同社は金属3Dプリンタの導入後、複雑な形状にも素早く柔軟に対応できる技術力が評価され、前年対比150％の売上を予測しています」（https://monoken.yamazen.co.jp/blog/article/metal-printer/whats-metal-printer）
+  - 「カナダのイノベーション・科学・経済開発省は、2030年までに製造業の売上高を50%増の1兆ドルに、製造業の輸出を5,400億ドルにすることを目標としており、カナダ国立研究評議会は引き続き金属積層造形と高度な製造技術を支援している」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「の総売上額は前年比8.9％増の308億円で、2017～」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「比成長率＋27.1％の 1,900 台、売上額は＋5.9％の」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「ンタ本体の売上はマイナス成長だったが、2017年は」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「果、2030 年の装置売上は、次世代型産業用3Dプリ」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「末材料売上は180億円（1,000万円/台×1,800台）」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「ヘガネス社は220年以上前の1797年にスウェーデン南部のヘガネス村で創業した、世界有数の金属粉末専門メーカーです」（https://pr.mono.ipros.com/hoganas/product/detail/2000894054/）
+  - 「1910（明治43）年の創業以来、100年以上にわたって産業ガス事業を手掛けてきた日本酸素」（https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945）
+- 検索結果の抜粋：
+  - 「金属粉 メーカー18社 - Metoree — 金属粉 メーカー18社 - Metoree Metoree https://metoree.com > 化学物質」（https://metoree.com/categories/8525/）
+  - 「3Dプリンティング用 金属粉末 - EOS GmbH — 3Dプリンティング用 金属粉末 - EOS GmbH EOS GmbH https://www.eos.info > metal-solutions > metal-materials」（https://www.eos.info/ja/metal-solutions/metal-materials）
+  - 「カスタム化した3Dプリンティング(積層造形)用 金属粉末 — カスタム化した3Dプリンティング(積層造形)用 金属粉末 Hoganas https://www.hoganas.com > custom-AM-metal-powder」（https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/）
+  - 「金属粉末 を用いた付加製造市場 サイズとシェア 2026-2035 — 金属粉末 を用いた付加製造市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > additive...」（https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「積層造形用 金属粉末 の選び方 - Met3DP — 積層造形用 金属粉末 の選び方 - Met3DP Met3DP https://met3dp.com > ニュース」（https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/）
+  - 「金属 3Dプリンター向け 金属粉末 材料＜紹介資料進呈 - イプロス — 金属 3Dプリンター向け 金属粉末 材料＜紹介資料進呈 - イプロス 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ... > 3Dメタルプリンティング」（https://pr.mono.ipros.com/hoganas/product/detail/2000894054/）
+  - 「3Dプリンタ用 金属粉末 ADMUSTER®シリーズ | PROTERIAL — 3Dプリンタ用 金属粉末 ADMUSTER®シリーズ | PROTERIAL 株式会社プロテリアル https://www.proterial.com > 製品・ソリューション」（https://www.proterial.com/products/3d_printer/admuster.html）
+  - 「世界的な添加物の製造の 金属粉 の市場の上の20企業 — 世界的な添加物の製造の 金属粉 の市場の上の20企業 Spherical Insights https://www.sphericalinsights.com > blogs > top-20-comp...」（https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-additive-manufacturing-metal-powders-market-2026-2035-expert-view-by-spherical-insights）
+- 顧客獲得単価：記載なし（読んだ45頁・検索15回）
+- 成約率・継続率：記載なし（読んだ45頁・検索15回）
+
+## 製造業向け展示会・商談会の企画運営（trade show organizer manufacturing Japan small）
+- 文脈：入口候補・メディア（関係づくり）
+- 顧客獲得単価：
+  - 「1件あたり単価が高く、リード品質にばらつきが出やすい」（https://strarts-event.com/column/7607/）
+  - 「成果報酬型の相場は、リード1件あたり5,000〜15,000円、商談アポ1件あたり3万〜5万円、事後の商談化1件あたり10万円前後が目安です」（https://strarts-event.com/column/7607/）
+  - 「質の高いリードをリード単価2,000円から獲得できる媒体となっております」（https://tebiki.jp/genba/useful/manufacturing-online-exhibitions/）
+- 顧客が払う単価：
+  - 「50万〜150万円」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「100万〜300万円」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「200万円〜」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「300万円〜」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「1小間の施工費相場は50万〜100万円程度ですが、小間数が増えるほど比例して費用が上がります」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「大型ブース（6小間以上）では500万円を超えるケースも珍しくありません」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「展示会ディレクターが1日3万〜4万円、運営スタッフが1日1.5万〜2万円、MC・司会が1日2.5万〜4万円が相場です」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「3〜5日間の展示会では人件費だけで数十万円規模になることも多く、事前に見積もりを取ることが大切です」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「なお、展示会で獲得したリードの単価は、一般的に5,000〜15,000円程度が目安とされています」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「150万円〜」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「50万円〜（1小間）」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「150万円〜（規模・内容による）」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「システムブース制作：50万円〜」（https://strarts-event.com/column/7607/）
+  - 「システムブース制作＋各種制作（チラシ・動画・ノベルティ等）：80万円〜」（https://strarts-event.com/column/7607/）
+  - 「木工ブース制作（オリジナル設計・高級感重視）：150万円〜」（https://strarts-event.com/column/7607/）
+- 成約率・継続率：
+  - 「直販率89%・指名受注率67%・リピート受注率76%という高い顧客信頼度を持ち、年間440社以上のクライアントの展示会をサポートしています」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「営業のプロ・架電のプロが現場に入り、名刺獲得から事後フォローまで代行できるため、展示会からの商談化率を高めたい企業に選ばれています」（https://strarts-event.com/column/7607/）
+  - 「展示会の商談化率を劇的に高めたいBtoBサービス提供企業に適した運営代行サービスです」（https://strarts-event.com/column/7607/）
+  - 「実績を具体的な数値（獲得リード数、商談化率など）で示せるか」（https://strarts-event.com/column/7607/）
+  - 「商談化率を重視したい場合は、営業代行の機能を持つかどうか問い合わせの時点で確認すると良いでしょう」（https://strarts-event.com/column/7607/）
+  - 「一方で、名刺枚数を稼いでも商談化率が低迷するケースが少なくありません」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+  - 「商談化率を高めるためには、出展前のターゲットICP定義から、会期中のヒアリング設計、会期後のフォロー導線までを連続したフローとして設計することが必要となります」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+  - 「出展者・来場者ともに該当領域の専門性が高く、商談化率の高さで知られる展示会群といえます」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+  - 「自社のICPと重なりが大きい展示会から優先的に検討することで、商談化率の見込みを高められます」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+  - 「製造業のブースでは、説明員配置と接客スクリプトの質が、商談化率を左右する大きな要素となります」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+  - 「製造業の専門性が高い領域ほど、説明の品質ばらつきが商談化率に直結するため、リハーサルへの投資は十分に見合うリターンがあります」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+  - 「漫然と名刺を集めるだけでは会期後のフォロー工数が膨大になり、商談化率の低下を招きます」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+  - 「会期後48時間以内のフォローが、商談化率を大きく左右する分水嶺です」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+  - 「展示会で獲得したリードに対して翌日以降に電話やメールでアプローチすることが望ましく、フォローが遅れるほど競合との比較や記憶の薄れにより商談化率が低下します」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+  - 「過去出展時の商談化率と受注率」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+- 許可・資格の要否：
+  - 「slide libは、比較記事の中でサービス資料を登録なしで全ページ読める、資料閲覧型のBtoBサービス比較サイトです」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「名刺受け取り後の差別化：その場でタブレットでQRコードを読み取り、CRMへ即時登録するフローでリードを管理」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+  - 「タブレット・スマートフォンでQRコードを読み取り、CRMへリアルタイム登録する仕組みで会期後の入力工数を圧縮」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+  - 「メルマガ登録」（https://techport.co.jp/archives/41819）
+  - 「: ブース施工の最終プランを確定させ、主催者提出物（電気工事申請や備品レンタル申請、来場者への配布資料登録など）を全て完了させます」（https://blog.w-creative.tv/preparations-companies-should-make-when-exhibiting-at-a-trade-show-for-the-first-time/）
+  - 「パートナー登録」（https://blog.w-creative.tv/preparations-companies-should-make-when-exhibiting-at-a-trade-show-for-the-first-time/）
+  - 「新規ユーザー登録」（https://myevent.tokyo-cci.or.jp/detail.php?event_kanri_id=204627）
+  - 「ユーザー登録のメリット」（https://myevent.tokyo-cci.or.jp/detail.php?event_kanri_id=204627）
+  - 「開催後は、参加登録情報、ブース訪問履歴、セミナー視聴履歴、資料ダウンロード、アンケート回答、商談予約状況などの行動データを整理しましょう」（https://r-management.jp/media/marketing/manufacturing-industry-event/）
+  - 「リバイバル・マネジメント・フォーラム事務局では、参加者の事前登録情報や行動履歴を活用できるため、関心度の高い見込み顧客を把握しやすい点が特徴です」（https://r-management.jp/media/marketing/manufacturing-industry-event/）
+  - 「メルマガ登録」（https://tebiki.jp/genba/useful/manufacturing-online-exhibitions/）
+  - 「「メルマガ登録」受付中！」（https://tebiki.jp/genba/useful/manufacturing-online-exhibitions/）
+  - 「無料のメルマガ会員登録を行うことで、企業の現場課題を解決する実践的な情報やセミナーをご案内いたします」（https://tebiki.jp/genba/useful/manufacturing-online-exhibitions/）
+  - 「DX認定企業として、効率と効果を両立する空間演出を実現しています」（https://strarts-event.com/column/6928/）
+  - 「・参加登録システムやオンライン配信、SNS連携など、リアルとデジタルを融合したソリューションに強い」（https://strarts-event.com/column/6928/）
+- 最初の売上までの期間：
+  - 「展示会 運営会社には、ブースのデザイン・施工を専門とする会社から、企画・集客・当日運営まで全工程をワンストップで支援する会社、さらには自社で展示会を立ち上げたい企業向けに事務局を代行する会社まで、タイプが大きく異なります」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「準備期間中の相談対応はどのような形か」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「主催・事務局代行型（自社で展示会・業界イベントを立ち上げたい場合）」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「主催・立ち上げたい」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「主催・事務局代行型 ｜ 自社で展示会・業界イベントを立ち上げたい場合」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「主催・事務局代行型の会社は、既存の展示会に「出展する」のではなく、自社で展示会や業界イベントを「主催・立ち上げたい」企業・団体向けに、開催企画から出展者募集、集客・広報、当日の会場運営まで一気通貫で代行するサービスです」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「業界団体が主催するBtoBマッチングイベントや、年1回開催するカスタマーイベントの立ち上げに適しています」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「自社で業界向け展示会・カスタマーイベントを初めて立ち上げたい」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「主催者側の支援では最短6ヶ月から、出展者側の支援では最短2ヶ月からと、短期間でのスタートにも対応しています」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「要問い合わせ（出展者支援は最短2ヶ月〜）」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「展示会の主催・企画・事務局代行を専門とし、スポーツビジネスやドローン産業など最先端テーマの展示会を自社で立ち上げた実績を持つ専門会社です」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「2016年に日本初の本格的な民間ドローン展示会「Japan Drone」を立ち上げた実績に代表されるように、新興テーマの展示会を0から立ち上げるノウハウに強みがあります」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「展示会の企画立案から開催まで通常約1年半のプロジェクトを、出展者・来場者双方の満足度を高めながらプロデュースします」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「イベント・展示会の会場選定に始まり、機材・司会者・飲食手配まで「ワンストップ」で引き受ける事業モデルが特徴で、企業主催の展示会・展覧会・カスタマーイベントを立ち上げたい場合や、既存イベントの事務局運営を外部委託したい場合に強みを発揮します」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「年間2,000件を超えるイベントを手がけるノウハウを持ち、全国規模の事務局を迅速に立ち上げる実行力と運営力が特徴です」（https://strarts-event.com/column/7607/）
+- 営業のやり方：
+  - 「展示会運営会社おすすめ11選！タイプ別の選び方と費用相場を解説 | slide lib（スライドリブ）｜資料閲覧型のBtoBサービス比較サイト」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「展示会運営会社おすすめ11選！タイプ別の選び方と費用相場を解説」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「展示会への出展・主催を検討しているが、」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「展示会 運営会社には、ブースのデザイン・施工を専門とする会社から、企画・集客・当日運営まで全工程をワンストップで支援する会社、さらには自社で展示会を立ち上げたい企業向けに事務局を代行する会社まで、タイプが大きく異なります」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「展示会 運営会社をタイプ別に3つに分類し、各タイプにおすすめの会社12選」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「を厳選してご紹介します」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「そもそも展示会運営会社とは？依頼できる業務範囲」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「展示会運営会社に依頼する費用相場」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「展示会運営会社を選ぶ際に確認すべき4つの比較ポイント」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「展示会 運営会社の選び方」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「展示会運営会社一覧比較表」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「【ワンストップ支援型】の展示会運営会社」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「【ブース制作・デザイン特化型】の展示会運営会社」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「【主催・事務局代行型】の展示会運営会社」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「展示会 運営会社とは、展示会・見本市への出展や、展示会の主催・開催に関わる業務を専門的に支援する会社のことです」（https://cone-c-slide.com/liblog/exhibition-management/）
+- 小さく始めた実例：
+  - 「創業55年超」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「1970年の創業以来、展示会・イベントのブース装飾・施工を中心に事業を拡大し、現在は出展支援からショールーム、デジタル施策まで幅広いサービスを展開しています」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「創業55年超の歴史を持ち、東京・名古屋・大阪の3拠点から全国の展示会出展をワンストップで支援する老舗の運営会社です」（https://cone-c-slide.com/liblog/exhibition-management/）
+  - 「単に「参加者リストを渡す」だけで終わる会社と、商談化までを設計してくれる会社では、同じ100件のリードでも最終的な売上成果は大きく変わります」（https://strarts-event.com/column/7607/）
+  - 「初年度は出展ノウハウの蓄積期、2〜3年目は運用最適化期、4〜5年目はROI最大化期という段階的な成長を想定することで、初年度の数値が伸び悩んでも継続判断ができる土台を作れます」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+  - 「創業以来培ったノウハウとデータをもとにまとめたハンドブックです」（https://www.freshtown.co.jp/useful_info/manufacturing-exhibition-strategy/）
+  - 「従業員1,000名以上の企業」（https://r-management.jp/media/marketing/manufacturing-industry-event/）
+  - 「参加者の約7割が従業員1,000名以上の企業で構成されており、協賛企業は質の高いリード獲得や商談創出を効率的に行えます」（https://r-management.jp/media/marketing/manufacturing-industry-event/）
+  - 「株式会社ボックス・ワンは、1989年創業、展示会・見本市・商業施設イベントに特化した装飾・設計・施工会社です」（https://strarts-event.com/column/6928/）
+  - 「株式会社ビジネス・アートは、1961年創業・東京都江東区拠点のディスプレイ＆イベント総合プロダクションです」（https://strarts-event.com/column/6928/）
+  - 「株式会社フジヤは、1928年創業の展示会・イベント・商業施設・公共施設などの集客空間に特化した総合ディスプレイ企業です」（https://strarts-event.com/column/6928/）
+  - 「株式会社タックは創業から30年超、展示会ブースの企画・設計・木工造作・システムユニット・グラフィックサインなどの施工を全国対応で行う空間デザイン企業です」（https://strarts-event.com/column/6928/）
+  - 「株式会社トーガシは1965年創業、イベント空間の総合プロデュース企業です」（https://strarts-event.com/column/6928/）
+  - 「廣目屋は明治初期に創業以来の長い歴史と経験を持つ、展示会のディスプレイ、イベント、催事を手掛ける会社です」（https://strarts-event.com/column/6928/）
+  - 「・明治初期の創業以来培われてきた経験と信頼に基づく高い品質と技術が強み」（https://strarts-event.com/column/6928/）
+- 利幅：記載なし（読んだ45頁・検索15回）

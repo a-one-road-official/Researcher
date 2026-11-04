@@ -1,0 +1,1896 @@
+{
+ "name": "ゴム製品製造業",
+ "en": "rubber products manufacturing Japan",
+ "aliases": [
+  "ゴム製品 製造"
+ ],
+ "context": "製造業・素材",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:56:48.255373+00:00",
+ "evidence": {
+  "事業所数・従業者数（経済センサス等）": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 製造業に関する集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業別の状況（全事業所） .............................................. 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 産業中分類別事業所数及び従業者数 .................................... 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．品目別の状況（全事業所） .............................................. 4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 品目別産出事業所数 .................................................. 4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査の概要 ...................................... 6",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．「令和3年経済センサス‐活動調査 産業別集計（製造業に関する集計）」（以下「産業",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は、製造業について「令和3年経済センサス‐活動調査」",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 19 産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業数 18社",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "非上場企業数 3,056社",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業数 19 社",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "非上場企業数 2,651 社",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省：「令和２年度商業動態統計」、「工業統計調査（産業編）」、「生産動態統計年報」",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総務省統計局：「令和２年経済センサス」",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業数1 9 社",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "非上場企業数3,195 社",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省：「工業統計調査（産業編）」",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "有形固定資産額_建設仮勘定_Ｃ増加額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_建設仮勘定_Ｄ減少額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_Ｅ除却・売却による減少額_土地【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_Ｅ除却・売却による減少額_土地以外のもの【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 建設仮勘定の増加額及び減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 年末現在高＝年初現在高＋取得額－除却・売却による減少額－減価償却額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 建設仮勘定の年間増減＝増加額－減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウ 投資総額＝取得額＋建設仮勘定の年間増減",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模とシェアの推移",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、最新の市場動向や需要の推移、主要企業の戦略に加え、地域ごとの特徴や今後の展望について詳しくご紹介します",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "工業用ゴム製品と自動車分野における需要の増減",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、出荷額・生産量ともに安定した推移を示していますが、人口減少や自動車需要の鈍化などから、一定の制約も見られます",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "特にアジア市場は、世界全体の中でも最も急速に拡大している地域であり、インフラ整備や自動車需要の増加が顕著です",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、インド、東南アジア諸国では、都市化や工業化の進展に伴い、タイヤや工業用ゴム製品の需要が年々増加しています",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "とくに中国市場では、大量消費型モデルに加えて、中価格帯・高品質製品の需要も着実に増加しています",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "天然ゴムや合成ゴムの価格上昇は、製造コストの増加を招き、企業の利益率を圧迫しています",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "性・弾性の減少を防",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "興国における資源バブル以降は、低下推移しているものの、近年底打ち感が出ていることから、今",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "天然ゴムの価格推移",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム消費量やシェア率を国別に見てみると、1位中国2位インド3位米国と人口が多い、もしくは増加のいちじるしいエリアが上位であるとわかります",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム業界の需要の推移は、自動車販売台数と比例していることが多く、新型コロナウイルスのまん延などによって、一時的に落ち込みが発生したものの、基本的には堅調な経済成長を進めているのです",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年にオランダのタイヤメーカーを買収したことで、売上推移が上昇傾向にあります",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "ところが近年は、中国をはじめとした新興国の台頭や、国内におけるタイヤ産業が減少傾向にあります",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車生産台数の減少に伴いタイヤの需要が落ち込み、2019年・2020年のゴム製品出荷額は減少を記録しました",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年には再び増加傾向に転じたものの、半導体の不足、原材料費の高騰、世界情勢の悪化などが要因となり不安定な状況が続いています",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム金型の移管 製造メーカーの急な廃業などでお困りの方に | 共同ゴム株式会社",
+    "url": "https://kyodo-rub.co.jp/archives/1873",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム金型の移管 製造メーカーの急な廃業などでお困りの方に",
+    "url": "https://kyodo-rub.co.jp/archives/1873",
+    "pass": 3
+   },
+   {
+    "quote": "小規模なゴム製造メーカーが廃業する事案がここ最近増えています",
+    "url": "https://kyodo-rub.co.jp/archives/1873",
+    "pass": 3
+   },
+   {
+    "quote": "各種コストの上昇を販売価格に転嫁できずに廃業・倒産に追い込まれたり、後継者が不在のために廃業に至るケースもあります",
+    "url": "https://kyodo-rub.co.jp/archives/1873",
+    "pass": 3
+   },
+   {
+    "quote": "その製造メーカーで金型を保管しながら製造していたゴム製品については、廃業に伴って製作ができなくなります",
+    "url": "https://kyodo-rub.co.jp/archives/1873",
+    "pass": 3
+   },
+   {
+    "quote": "ト高騰の影響を受け、 上昇基調で推移している",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "天然ゴムの価格推移（円/kg）",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "短期間で採算や資金繰りを悪化させるケースが少なくないため、 原価率の推移や回収 ・ 支払サイトの変化を確",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "天然ゴムの最大生産国であるタイの洪水災害を契機に2017年初めに価格が高騰したものの、その後は下落し、横ばいで推移している",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "世界の主要国で自動車の需要が軒並み激減し、日本の自動車産業も同様に減少している",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   }
+  ],
+  "需要が増えるか": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_合計【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_製造品出荷額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_加工賃収入額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_くず廃物の出荷額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_その他収入額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "生産額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_建設仮勘定_Ｃ増加額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・製造品目別に出荷額が得られた事業所であること",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よる調査分を含んだ集計結果であるのに対し、製造品出荷額等、品目別出荷金額、付加",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果のうち、製造品出荷額等、品目別出荷金額、付加価値額については、表示年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（製造品出荷額等、品⽬別出荷⾦額、 付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "－ 製造品出荷額等と付加価値額が最も多いのは共に輸送用機械器具製造業 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（60 兆 2308",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 表 産業中分類別製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム業界の動向と今後の展望：市場規模・企業戦略・用途別分析｜ゴム練り加工の太成ゴム工業｜試作・小ロット対応",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム業界の動向と今後の展望：市場規模・企業戦略・用途別分析",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模とシェアの推移",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "今後の課題と成長可能性",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "タイヤやホースなどのゴム製品は、自動車産業をはじめとする多様な分野で広く利用されており、製品の用途は日々拡大しています",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、最新の市場動向や需要の推移、主要企業の戦略に加え、地域ごとの特徴や今後の展望について詳しくご紹介します",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "今後の成長には、ビジネスモデルの再構築と素材開発力が不可欠です",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "工業用ゴム製品と自動車分野における需要の増減",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "中でも、ホースやベルトといった製品は、自動車や建設機械、産業機器に多く使用され、需要の安定性が高いとされています",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品市場は、世界全体で着実に成長を遂げており、その市場規模は年間で数十兆円規模に達しています",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、出荷額・生産量ともに安定した推移を示していますが、人口減少や自動車需要の鈍化などから、一定の制約も見られます",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、中国・インドなどのアジア新興国では、インフラ整備の進展や工業化の加速により、需要の急拡大が見られます",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品別出荷額（2017年）",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特注品は受注生産となっている",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自動車の生産が世界的に行われるようになると、タイヤをはじめとしたゴム製品の需要が高まり、世界各国で生産されるようになりました",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "天然ゴムの市場は拡大を続けており、1983年に500万トンを突破すると2000年代には700万トンに、2018年には30年前の3倍以上である1,388万トンを記録しています",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム消費量やシェア率を国別に見てみると、1位中国2位インド3位米国と人口が多い、もしくは増加のいちじるしいエリアが上位であるとわかります",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム業界の需要の推移は、自動車販売台数と比例していることが多く、新型コロナウイルスのまん延などによって、一時的に落ち込みが発生したものの、基本的には堅調な経済成長を進めているのです",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "使用用途は、タイヤや靴底、ベルトなどさまざまな製品に用いられるほか、加工が容易なため需要が拡大しつつあります",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品の需要は、シェア率が高いタイヤ（自動車メーカー）の動向に左右される傾向です",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "また食品業界では、衛生面に優れたベルトコンベアの需要が高まるなど、需要が安定傾向にあります",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車生産台数の減少に伴いタイヤの需要が落ち込み、2019年・2020年のゴム製品出荷額は減少を記録しました",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年には再び増加傾向に転じたものの、半導体の不足、原材料費の高騰、世界情勢の悪化などが要因となり不安定な状況が続いています",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "チック製履物・同付属品製造業」に大別され、出荷額では「自動車タイヤ製造」と「工業用ゴム製品製造」の",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特に「自動車タイヤ製造」 は出荷額の半数以上を占める中核分野であり、 自動車",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品別出荷額割合",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、仕様が細分化された機器用部品や医療用途向けゴム製品では受注生産が基本となるなど、製品分野",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産は、受注生産の比率が高く、受注から納品までのリードタイムは比較的短い一方で、販売先の業界慣",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て、 受注生産の比率が高く在庫が滞留しにくい体質である点や、 生産のリードタイムが短い点がその要因とし",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品製造業の出荷額の約６割を占める自動車タイヤ分野は、 自動車産業の生産動向と極めて強い相関関",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、2009 年のリーマンショック期および2020 年の新型コロナウイルス感染症拡大期に",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、 自動車生産の急減と同時に自動車タイヤの出荷額も大きく落ち込んでおり、 当該分野が外部景気変動の影",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自動車タイヤ出荷額も回復基調に転じている",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "原材料価格の上昇分を即座に販売価格へ転嫁することが難しく、 出荷額が回復 ・ 維持している局面においても、",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 大口販売先の存在は、 受注の安定性に",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用途先からの反復受注や採用実績の蓄積は、翌期以降の受注見通しを立てやすくし、評価を支える",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "汎用品と差別化された配合・用途の技術資産を持ち、代表が抜けても開発・品質管理・受注が回る体制は評価されやすい",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   }
+  ],
+  "大手プラットフォームの有無": [
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模とシェアの推移",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "近年注目されているのが、地域別の市場シェア構造の変化です",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "特に住友ゴム工業やブリヂストンなどの日本の大手メーカーは、世界市場における強固な地位を維持しており、グローバル展開にも積極的です",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、地域ごとの用途傾向を正確に読み解き、適切な製品と提案を行うことで、市場シェアの拡大が期待できます",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "住友など大手メーカーが積極的に研究開発を進めている領域でもあります",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "販売先において、自社との取引シェアが高くなり過ぎると、自社が取引から撤退することが困難とな",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、取引先の信用力（格付）に応じて取引シェアに上限を設けるべく、取引先",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本においては、世界のトップシェアに君臨するまでの企業もあり、特に、自動車メーカーなどは高い技術力を世界にアピールしてきました",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム業界の主要メーカーランキングとシェア",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム消費量やシェア率を国別に見てみると、1位中国2位インド3位米国と人口が多い、もしくは増加のいちじるしいエリアが上位であるとわかります",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "この要因として、シェア1位の中国を筆頭に新興国のインフラ整備やモータリゼーションなどの影響が大きいとされています",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品のシェアは前述のとおり「タイヤ製品」の製造がもっとも多く、全体の半分以上を占めます",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、ゴム製品の種目は幅広いものの、自動車製品がシェアの中心であることから、大手企業などは特に自動車事業を幅広く展開するケースが一般的です",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "実際にゴム製品業界は、現在リアルタイムで課題となっている原材料高騰・輸送運賃の上昇などの影響を非常に大きく受けており、大手企業においても価格転嫁が難しい状況に陥っています",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品の需要は、シェア率が高いタイヤ（自動車メーカー）の動向に左右される傾向です",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "その一方で、各工業用ゴムメーカーは、特定の業界へのシェアに依存するリスクを回避するため、医療用現場への進出など、多角的な製品開発を進める動きが活発化しています",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "国内のみならず世界でもトップシェアを誇る、タイヤをはじめとしたゴム製品メーカーです",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "「ダンロップ」や「ファルケン」などを製造する国内シェア2位の企業です",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "特に「ダンロップ」はスポーツブランドで大きなシェアを占めています",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "斯業種を代表する企業として、ブリヂストンや住友ゴム工業などの大手メーカーは、 原材料調達から製品製",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 大手による寡占傾向",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自動車タイヤは、ブリヂストンや住友ゴム工業などの大手メーカーが市場の大半を占める寡占的な構造に",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小・零細企業が多い当該分野における原材料調達では、大手メーカーのような長期契約による大量調達",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "販売先において、 自社との取引シェアが高くなり過ぎると、 自社が取引から撤退することが困難となる恐れ",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、取引先の信用力（格付）に応じて取引シェアに上限を設けるべく、取引先が抱える買掛債",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカー主体の業界構造において、 販売先も完成車メーカーが主体となるが、 それぞれの販路については",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品加工会社・工業用ゴムメーカーはいくらで売れる？売却相場・成約価格・買い手の顔をデータで解説 - M&Aサクシード｜法人限定M&Aプラットフォーム（旧ビズリーチ・サクシード）",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "公開されているM&A成約事例と、M&Aサクシードのプラットフォームに届いた実際のオファーデータをもとに、その見方を解説します",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "母集団の大きいプラットフォームで幅広く買い手候補に情報を届けることが、良い出会いの確率を上げる近道です",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォームを使えば、複数の買い手が同じ期間に案件を検討するため、条件を見比べられるオファーがまとまって集まりやすくなります",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "一方で100億円以上の大手も約2割強を占め、規模の幅は広い",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aサクシードでは、相場を見たあと、気が向いたら試しにプラットフォームの会員企業からオファーを受け取ってみることができます",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aなら日本最大級のM&Aプラットフォーム「M&Aサクシード」",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "大手・優良企業を含む多数の買い手が登録",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】M&Aマッチングサイトのおすすめ16選【徹底比較】",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "人財活用プラットフォーム「HRMOS」シリーズ",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "物流DXプラットフォーム「トラボックス」",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティの信用評価プラットフォーム「Assured（アシュアード）」",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "販売先において、自社との取引シェアが高くなり過ぎると、自社が取引から撤退することが困難となる恐れがある",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、取引先の信用力（格付）に応じて取引シェアに上限を設けるべく、取引先が抱える買掛債務額の一定割合を売込限度額として設定する方法が考えられる",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リアルセーフティー | 広島県広島市中区大手町３丁目６番３号４０１",
+    "url": "https://note.com/clipcorporation/n/na10fa0c54203",
+    "pass": 3
+   }
+  ],
+  "取引のやり方・不便": [
+   {
+    "quote": "2020000000_2020_1400_パルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1420_紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1421_洋紙・機械すき和紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1422_板紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1424_手すき和紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1430_加工紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1431_塗工紙製造業（印刷用紙を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1433_壁紙・ふすま紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1440_紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1441_事務用・学用紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1442_日用紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1449_その他の紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "1421 洋紙・機械すき和紙製造業 1421 洋紙製造業",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1423 機械すき和紙製造業",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 紙パ 26 生産用機械器具製造業 生産",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 5,927 2.7 181,090 2.4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 71,245 2.3 22,455 2.3",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "－ 産出事業所数が最も多い品目は「オフセット印刷物（紙に対するもの）」 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 151111 オフセット印刷物（紙に対するもの) 8,414 東京 大阪 愛知",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "22 151311 紙以外のものに対する印刷物 1,673 東京 大阪 埼玉",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・石炭製品の「ガソリン」（4 兆 1638 億円）、印刷・同関連品の「オフセット印刷物（紙に対",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 151111 オフセット印刷物（紙に対するもの) 2,602,796 東京 埼玉 大阪",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 名称及び電話番号",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "管理，補助的経済活動を行う事業所（14_パルプ・紙・紙加工品製造業）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "加工紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "紙製容器製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "その他のパルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "紙・紙製品卸売業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介・労働者派遣業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "管理，補助的経済活動を行う事業所（91_職業紹介・労働者派遣業）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、最新の市場動向や需要の推移、主要企業の戦略に加え、地域ごとの特徴や今後の展望について詳しくご紹介します",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "[ 東京営業所 ] 〒270-0006 千葉県松戸市大金平4-251-1-102 TEL：047-710-5097 FAX：047-710-5098",
+    "url": "https://kyodo-rub.co.jp/archives/1873",
+    "pass": 3
+   },
+   {
+    "quote": "業界最速ゴム試作 TPMカンパニー紹介PR動画",
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "タイヤや工業用ゴム製品では、品質保証と安定供給を前提とした取引慣行が業界全体に浸透しており、一",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンゴム成形メーカーをお探しの企業に向けて、作りたい部品別におすすめのメーカーをご紹介します",
+    "url": "https://www.rubber-soko.com/problem/material-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "電話で問い合わせる",
+    "url": "https://www.rubber-soko.com/problem/material-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aの手紙やDMは毎日届くが、どこに相談すればいいかわからない",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "M&A成功事例をご紹介",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "課題解決「IPOに向けてリスク管理体制を整備したい」についてご紹介します",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人の自己紹介は固定記事から🔍",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "🔸電話番号・HP付きですぐ営業",
+    "url": "https://note.com/clipcorporation/n/na10fa0c54203",
+    "pass": 3
+   }
+  ],
+  "払う単価の手がかり": [
+   {
+    "quote": "事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_合計【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する基本給、諸手当と特別に支払われた給与（期末賞与等）の額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する退職金又は解雇予告手当、出向受入者に係る支払額、臨時雇用者給与、送出者負担額など【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_派遣受入者に係る人材派遣会社への支払額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_合計【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_原材料使用額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_燃料使用額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_電力使用額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_委託生産費（外注加工費）【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_製造等に関連する外注費【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_転売した商品の仕入額 【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_合計【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：出荷金額の調査期間については、令和2年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） 第１位 第２位 第３位",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査は、全産業分野の売上（収入）金額や費用などの経理項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コ 企業全体の売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コ 売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 年間商品販売額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 物品賃貸業のレンタル年間売上高及びリース年間契約高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キ 企業全体の売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品市場は、世界全体で着実に成長を遂げており、その市場規模は年間で数十兆円規模に達しています",
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事とハードウェアスタートアップが歩んだ共創の5年間｜住友商…",
+    "url": "https://www.peaks-media.com/210/",
+    "pass": 3
+   },
+   {
+    "quote": "イニシャルコスト：何かを始めるにあたり、最初にかかる費用",
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム成形におけるイニシャルコストは、金型費用もしくは簡易型費用／製品データ作成費（不要な場合もある）／各種治具費（不要な場合もある）／新規色配合設計費（不要な場合もある）／特殊材料調達費（不要な場合もある）",
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "これらは初期費用のため最初のみ発生し2回目の注文からは発生しないのが特徴です",
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、保証生産数を過ぎて使用する金型費用や簡易型費用はメンテ費用や再作成費用が発生したり、特殊材料調達費用は材料を全て使用してしまった場合に追加で発生する場合もあります",
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ランニングコスト：製品製造費用を指します",
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "段取費用／材料費用／材料練り費用／成形（プレス）費用／加工費用／検査費用／梱包・出荷費用／運送費用などがかかります",
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "金型費用／簡易型費用",
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ゴムのプレス成型品を製造するうえで必ず発生する費用でありながら、費用が高額になりがちなのが特徴です",
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "型費用の構成は「型設計費」「型材料費」「型加工費」に大きく分けられ、高額になる一番大きい要因は加工費です",
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "また、硬い材料を加工するため専用工具も高額となり摩耗も早く、これも金型費用を高額にさせる要因です",
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "なお、金型費用と製品費用には密接な関係があり、これは金型に何個彫るか、いわゆる「取数」との関係によります",
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "製品データ作成費用",
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "汎用品に比べ単価は高いものの、 生産効率や技術の独自性によって粗",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "つながる一方で、 特定の大口先に取引を依存している場合には、 発注調整や単価引き下げ要請が発生した際に",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業用ゴム製品では、 顧客仕様に応じた設計対応力や素材選定力が製品単価と粗利率を左右する",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金型費用の課題",
+    "url": "https://www.rubber-soko.com/problem/material-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品の製造において、金型の製造から必要なゴム素材の選択、量産体制に入るまでにかかる費用はケースバイケースであることが多いのが実状です",
+    "url": "https://www.rubber-soko.com/problem/material-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作品の製作やプレス費用、段取費用、加工費用",
+    "url": "https://www.rubber-soko.com/problem/material-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "など様々な費用が発生します",
+    "url": "https://www.rubber-soko.com/problem/material-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした費用にはそれぞれ相場がありますが、提示された価格の安さだけで業者を選定すると、",
+    "url": "https://www.rubber-soko.com/problem/material-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造に関する費用の内訳を詳細に提示してもらい、信頼できるゴム成形メーカーであることを確認して依頼するのが望ましいと言えます",
+    "url": "https://www.rubber-soko.com/problem/material-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDAが5,000万円なら、3〜5倍で1.5億〜2.5億円が初期レンジの土台になります",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "業界レポート ゴム製品製造業 - リスクモンスター — 業界レポート ゴム製品製造業 - リスクモンスター リスクモンスター株式会社 PDF https://www.riskmonster.co.jp > industryreport201901",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポート ゴム製品製造業 - リスクモンスター — 業界レポート ゴム製品製造業 - リスクモンスター リスクモンスター株式会社 PDF https://www.riskmonster.co.jp > industryreport202607",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "pass": 3
+   }
+  ],
+  "働き手が減るか（人手不足）": [
+   {
+    "quote": "各種コストの上昇を販売価格に転嫁できずに廃業・倒産に追い込まれたり、後継者が不在のために廃業に至るケースもあります",
+    "url": "https://kyodo-rub.co.jp/archives/1873",
+    "pass": 3
+   },
+   {
+    "quote": "なお、売りに出ている案件の譲渡理由としては「後継者不在」が最も多くなっています",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   },
+   {
+    "quote": "◎ 技術者の高齢化・離職が進み、体制が維持される見込みが弱い",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "業界レポート ゴム製品製造業 ｜佐々木正人 - note 業界レポート ゴム製品製造業 ｜佐々木正人 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "日本全国の主要な ゴム製品製造業 関連企業一覧 - note 日本全国の主要な ゴム製品製造業 関連企業一覧 - note note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/clipcorporation/n/na10fa0c54203",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "業界レポート ゴム製品製造業 ｜佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "の心臓部であり、格付などの与信指標を生産・保守を行う「データ工場」が集計・分析しており、業界ごとの市場概要や業界動向、与信管理のポイントなどをまとめたレポートです。",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "特に記事についてのコメント頂けると、今後の記事作成の励みになります。",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "◉仕事に役立つセミナー情報を発信◉メルマガのご案内",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "‣ゴムベルト・ゴムホース・工業用ゴム製品製造業",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "‣ゴム製・プラスチック製履物・同付属品製造業",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品製造業は、「タイヤ・チューブ製造業」、「ゴムベルト・ゴムホース・工業用ゴム製品製造業」、「ゴム製・プラスチック製履物・同付属品製造業」に大別されるが、生産量から「タイヤ・チューブ製造業」と「ゴムベルト・ゴムホース・工業用ゴム製品製造業」が中心となる。それぞれの分野で扱う出荷割合・販売先・製品は以下の とおりである。",
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "pass": 3
+   },
+   {
+    "quote": "日本全国の主要なゴム製品製造業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/na10fa0c54203",
+    "pass": 3
+   },
+   {
+    "quote": "日本全国の主要なゴム製品製造業関連企業一覧",
+    "url": "https://note.com/clipcorporation/n/na10fa0c54203",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品製造業界の代表企業ゴム製品製造業界の代表企業 - 企業クリップ",
+    "url": "https://note.com/clipcorporation/n/na10fa0c54203",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品製造業の特色や未来展望などはこちらから横浜ゴム株式会社横浜ゴム株式会社は、1917年創業の老舗タイヤメーカーで、自",
+    "url": "https://note.com/clipcorporation/n/na10fa0c54203",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品製造業の特色や代表する企業｜タイヤは世界一ゴム製品製造業の特色や代表する企業｜タイヤは世界一 - 企業クリップ",
+    "url": "https://note.com/clipcorporation/n/na10fa0c54203",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品製造業は、天然ゴムや合成ゴムを原材料に、文字通りゴム製品を製造する産業です。その特性である弾力性、耐熱性、耐油性を",
+    "url": "https://note.com/clipcorporation/n/na10fa0c54203",
+    "pass": 3
+   },
+   {
+    "quote": "ツインスターテクノロジー株式会社 | 埼玉県入間市大字野田２３３番地８",
+    "url": "https://note.com/clipcorporation/n/na10fa0c54203",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社台製作所 | 茨城県坂東市神田山１５３８番地の２０",
+    "url": "https://note.com/clipcorporation/n/na10fa0c54203",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ゴム 金型・ ゴム製品製造 の株式会社石井精工 - Facebook ゴム 金型・ ゴム製品製造 の株式会社石井精工 - Facebook Facebook https://www.facebook.com > ishiiseikou",
+    "url": "https://www.facebook.com/ishiiseikou/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム 金型・ ゴム製品製造 の株式会社石井精工 - Facebook ゴム 金型・ ゴム製品製造 の株式会社石井精工 - Facebook Facebook https://www.facebook.com > ishiiseikou > photos",
+    "url": "https://www.facebook.com/ishiiseikou/photos/1140828334514974/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品製造 職種仕事を探しっています。 - Facebook ゴム製品製造 職種仕事を探しっています。 - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1848736462219482/posts/2640652086361245/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品製造 職種仕事を探しっています。 - Facebook ゴム製品製造 職種仕事を探しっています。 - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/569253743820290/posts/2448293965916249/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://danbo-ru.ntp-k.co.jp/column/improve/detail54",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/rubber-product",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%82%B4%E3%83%A0%E5%B8%82%E5%A0%B4-101612",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.peaks-media.com/210/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20251007-mold25y1-9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyodo-rub.co.jp/archives/1873",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkinonline.com/article/329758",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://techport.co.jp/archives/40636",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aikata-matching.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platto.technoa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekai-c.jp/column/3959/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bcart.jp/post/235",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kktisc.co.jp/column/7201/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecbeing.net/b2b/contents/detail/22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://akitsu-inc.com/gomubuhin-kanagata-hiyou/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rubber-soko.com/problem/material-cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ma-succeed.jp/content/knowledge/post-12589",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/na10fa0c54203",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/ishiiseikou/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ishiiseikou/photos/1140828334514974/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1848736462219482/posts/2640652086361245/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/569253743820290/posts/2448293965916249/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ゴム製品製造業 事業所数 従業者数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.soumu.go.jp/main_content/000744045.pdf",
+    "https://www.shiokawa-tetsuya.jp/modules/spaw2/uploads/files/150204-11.pdf",
+    "https://www.city.hanno.lg.jp/material/files/group/6/189633ec7b2b0.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966"
+   ]
+  },
+  {
+   "query": "ゴム製品製造業 人手不足 有効求人倍率",
+   "results": [
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://danbo-ru.ntp-k.co.jp/column/improve/detail54",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://www2.biznet.co.jp/column/1538/",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "https://www.jmam.co.jp/hrm/column/0136-manufacturing.html"
+   ]
+  },
+  {
+   "query": "ゴム製品製造業 市場規模 推移",
+   "results": [
+    "https://taiseigomu.co.jp/blog/%E3%82%B4%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%83%BB%E4%BC%81%E6%A5%AD%E6%88%A6/",
+    "https://service.xenobrain.jp/forecastresults/market-size/rubber-product",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport201901.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%82%B4%E3%83%A0%E5%B8%82%E5%A0%B4-101612",
+    "https://www.peaks-media.com/210/",
+    "https://www.fujigom.co.jp/manufacturing/20250323-4311/",
+    "https://www.sdki.jp/reports/industrial-rubber-products-market/110779",
+    "https://www.imarcgroup.com/report/ja/japan-rubber-market",
+    "https://www.databridgemarketresearch.com/jp/reports/global-industrial-rubber-market",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/ゴム市場-101612"
+   ]
+  },
+  {
+   "query": "ゴム製品製造業 休廃業 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/industry/20251007-mold25y1-9/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "https://kyodo-rub.co.jp/archives/1873",
+    "https://www.nikkinonline.com/article/329758",
+    "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "https://www.ryutsuu.biz/strategy/n011912.html",
+    "https://stream-data.co.jp/media/industry-closure-rates/",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/a537ae9febfa44218a54df8bc5034f43/20260109_全国企業「休廃業・解散」動向調査（2025年）.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_8.html"
+   ]
+  },
+  {
+   "query": "ゴム製品製造業 マッチング プラットフォーム",
+   "results": [
+    "https://techport.co.jp/archives/40636",
+    "https://aikata-matching.com/",
+    "https://platto.technoa.co.jp/",
+    "https://liskul.com/manufacturing-matching-site-37343",
+    "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "https://mallento.com/recommend/manufacturing-matching-services/",
+    "https://monotown-kadoma.jp/matching-site",
+    "https://sys.kadoma-platform.com/",
+    "https://www.techs-s.com/media/show/331",
+    "https://marketing.techport.co.jp/archives/40636/"
+   ]
+  },
+  {
+   "query": "ゴム製品製造業 受発注 課題 電話 FAX",
+   "results": [
+    "https://sekai-c.jp/column/3959/",
+    "https://bcart.jp/post/detail/235/",
+    "https://www.kktisc.co.jp/column/7201/",
+    "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "https://www.ecbeing.net/b2b/contents/detail/22",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/240422.html",
+    "https://boxil.jp/mag/a8834/",
+    "https://prtimes.jp/main/html/rd/p/000000039.000153035.html",
+    "https://digital-salvage.co.jp/column/manufacturing-order-ec-transition/",
+    "https://www.salesdock.jp/blog/manufacturing-ordering-management"
+   ]
+  },
+  {
+   "query": "ゴム製品製造業 外注 費用 相場",
+   "results": [
+    "https://tpm.co.jp/knowledge/article-4?lang=ja",
+    "https://akitsu-inc.com/gomubuhin-kanagata-hiyou/",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202607.pdf",
+    "https://www.rubber-soko.com/problem/material-cost.html",
+    "https://ma-succeed.jp/content/knowledge/post-12589",
+    "https://gomuhouchi.com/series/25711/",
+    "https://msgroup.co.jp/blog/mold-cost/",
+    "https://www.fujigom.co.jp/manufacturing/manufacturinggomu-kanagata-mitsumori/",
+    "https://www.shinpo-e.co.jp/media/uncategorized/control-outsourcing-cost",
+    "http://www.nakasei.co.jp/guide-rubber-products.html"
+   ]
+  },
+  {
+   "query": "site:note.com ゴム製品製造業",
+   "results": [
+    "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "https://note.com/clipcorporation/n/na10fa0c54203",
+    "https://note.com/3n7no_tech_pr/n/n8266e8a3dc54",
+    "https://note.com/xborder/n/nb60aa9645f01",
+    "https://note.com/e_p/n/n407fbdb7f63a",
+    "https://note.com/3n7no_tech_pr/n/n3f2f8673d5cc",
+    "https://note.com/3n7no_tech_pr/n/n006cd33c9d9f",
+    "https://note.com/aigx/n/ndcbc375c8766",
+    "https://note.com/andy868/n/n89801f2476ef",
+    "https://note.com/ma_mado/n/n09ba3eb28ad9"
+   ]
+  },
+  {
+   "query": "site:x.com ゴム製品製造業",
+   "results": [
+    "https://x.com/WASABI1404/status/1945687541908475969",
+    "https://x.com/gomuhouchi",
+    "https://x.com/gomuhouchi/status/1988833646602510520",
+    "https://x.com/kyowagomu",
+    "https://x.com/mizuuchi_rubber",
+    "https://x.com/f_turn_jyohou/status/2105165435276808237",
+    "https://x.com/f_Tatsu_ya/status/2102607890033049633?lang=ar",
+    "https://x.com/Top_Gomu",
+    "https://x.com/kinjojapan/status/1926192731497312596",
+    "https://x.com/kinjogomu"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ゴム製品製造業",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%82%B4%E3%83%A0%E8%A3%BD%E5%93%81%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%AA%E6%9D%A52026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AE%E9%96%93%E3%81%AB%E4%BA%88%E6%83%B3%E3%81%95%E3%82%8C%E3%82%8Bcagr-116%E3%81%AE%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%A8%E5%8F%8E%E7%9B%8A%E4%BA%88%E6%B8%AC-stellarworkss-hvnue",
+    "https://jp.linkedin.com/posts/rockwell-automation_%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%82%92%E3%81%91%E3%82%93%E5%BC%95%E3%81%99%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%A4%E3%82%B4%E3%83%A0%E8%A3%BD%E5%93%81%E3%81%AE%E7%B7%8F%E5%90%88%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E3%81%82%E3%82%8B%E4%BD%8F%E5%8F%8B%E3%82%B4%E3%83%A0%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-activity-7272483527210803201-zA2F",
+    "https://jp.linkedin.com/company/asahi-rubber",
+    "https://jp.linkedin.com/showcase/wuhan-sacred-rubber",
+    "https://jp.linkedin.com/pulse/engineering-future-rubber-processing-where-precision-dimkf?tl=ja",
+    "https://jp.linkedin.com/company/%E4%BD%8F%E5%8F%8B%E3%82%B4%E3%83%A0%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/roxtec-group",
+    "https://jp.linkedin.com/company/dalian-yida-precision-rubber-products-co.-ltd",
+    "https://jp.linkedin.com/jobs/view/%E2%97%8E3%E4%BA%A4%E6%9B%BF%C3%975%E5%8B%A42%E4%BC%91%E4%BC%91%E3%81%BF%E3%80%90%E3%82%B4%E3%83%A0%E8%A3%BD%E5%93%81%E3%82%92%E8%BB%8A%E3%81%A7%E9%81%8B%E6%90%AC%E3%83%BB%E8%A3%BD%E9%80%A0%E3%80%91%E6%9C%88%E5%8F%8E28-4%E4%B8%87%E5%86%86%E4%BB%A5%E4%B8%8A%E5%8F%AF-at-%EF%BC%88%E6%A0%AA%EF%BC%89%E6%97%A5%E6%9C%AC%E3%82%B1%E3%82%A4%E3%83%86%E3%83%A0-4486822937",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E5%A4%AA%E7%94%B0%E5%B8%82%EF%BC%9E%E3%82%B4%E3%83%A0%E8%A3%BD%E5%93%81%E3%81%AE%E8%A3%81%E6%96%AD%E3%83%BB%E7%B5%84%E7%AB%8B%E3%83%BB%E6%A4%9C%E6%9F%BB-%E6%97%A5%E6%89%95%E3%81%84ok%E3%80%90%E7%B5%8C%E9%A8%93%E4%B8%8D%E5%95%8F%EF%BC%81%E6%9C%AA%E7%B5%8C%E9%A8%93%E2%97%8E%E3%80%91%E5%A5%B3%E6%80%A7%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%95%E3%82%93%E3%82%82%E6%B4%BB%E8%BA%8D%E4%B8%AD%E2%99%AA%E3%82%AC%E3%83%83%E3%83%84%E3%83%AA%E7%A8%BC%E3%81%92%E3%82%8B%E6%AE%8B%E6%A5%AD%E6%9C%8820h%E4%BB%A5%E4%B8%8A%EF%BC%81-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%B6%9C%E5%90%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-4480919793"
+   ]
+  },
+  {
+   "query": "site:facebook.com ゴム製品製造業",
+   "results": [
+    "https://www.facebook.com/ishiiseikou/?locale=ja_JP",
+    "https://www.facebook.com/ishiiseikou/photos/1140828334514974/",
+    "https://www.facebook.com/groups/1848736462219482/posts/2640652086361245/",
+    "https://www.facebook.com/groups/569253743820290/posts/2448293965916249/",
+    "https://www.facebook.com/PhilippinePrimer/posts/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3%E3%81%A7%E3%82%B4%E3%83%A0%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E3%81%AA%E3%82%89covac-philippines-inc%E3%81%AB%E3%81%8A%E4%BB%BB%E3%81%9B2018%E5%B9%B4%E3%81%ABlima-technology-center%E5%B7%A5%E6%A5%AD%E5%9B%A3%E5%9C%B0%E5%86%85%E3%81%AB%E8%A8%AD%E7%AB%8B%E3%81%95%E3%82%8C%E3%81%9Fco/979678550858134/",
+    "https://www.facebook.com/ishiiseikou/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%B8%8F%E3%81%93%E3%81%A1%E3%82%89%E3%81%AF%E5%85%88%E6%97%A5%E7%A6%8F%E5%B2%A1%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%9F%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%95%E3%82%A7%E3%82%A2%E3%81%A7%E5%B1%95%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%9F%E3%83%96%E3%83%AA%E3%83%82%E3%82%B9%E3%83%88%E3%83%B3%E3%81%AEsoftrobotics-ventures-%E4%BA%BA%E9%96%93%E3%81%AE%E6%8C%87%E5%85%88%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E7%89%A9%E3%82%92%E3%81%A4%E3%81%8B%E3%82%93%E3%81%A7/1629993815598421/",
+    "https://www.facebook.com/unaginonedoko/posts/%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%A6%E7%B4%B9%E4%BB%8Bsing-%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%B3%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%B8%82%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%A0%E3%81%AE%E8%89%AF%E3%81%95%E3%82%92%E7%94%9F%E6%B4%BB%E7%94%A8%E5%93%81%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%99%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%A0%E3%81%AE%E8%A3%BD%E5%93%81%E3%82%84%E9%83%A8%E5%93%81%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%8B%E3%82%89%E8%A3%BD%E9%80%A0%E8%B2%A9%E5%A3%B2%E3%82%92%E8%A1%8C%E3%81%86sing/1332289132277525/",
+    "https://www.facebook.com/kouhoku.rubber/videos/%E7%94%9F%E3%82%B4%E3%83%A0%E3%82%B4%E3%83%A0%E3%81%8C%E8%A3%BD%E5%93%81%E3%81%AB%E3%81%AA%E3%82%8B%E5%89%8D%E3%81%AE%E7%94%9F%E3%82%B4%E3%83%A0%E3%81%AE%E7%8A%B6%E6%85%8B%E3%81%A3%E3%81%A6%E3%81%94%E5%AD%98%E3%81%98%E3%81%A7%E3%81%99%E3%81%8B_%E5%8B%95%E7%94%BB%E3%81%AF%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%82%B4%E3%83%A020%E3%81%AE%E7%94%9F%E3%82%B4%E3%83%A0%E3%81%A7%E5%BC%BE%E5%8A%9B%E3%81%AE%E3%81%82%E3%82%8B%E7%B2%98%E5%9C%9F%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A7%A6%E6%84%9F%E3%81%A7%E3%81%99%E5%8B%95%E7%94%BB%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%84%E3%81%9F%E3%82%89%E3%82%A4%E3%82%AB%E3%81%9D%E3%81%86%E3%82%81%E3%82%93%E3%81%AB%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97/495753288140138/?locale=ms_MY",
+    "https://www.facebook.com/sankoukagaku/",
+    "https://www.facebook.com/groups/751172075890952/posts/1946641223010692/"
+   ]
+  },
+  {
+   "query": "ゴム製品製造業 note 社長",
+   "results": [
+    "https://note.com/rm_sasaki/n/nf2f7c3a325d3",
+    "https://note.com/sagami_rubber/n/nde7682a6ca81",
+    "https://shacho.osakazine.net/e790648.html",
+    "https://www.gyakubiki.net/readings/corporate/3977/",
+    "https://www.youtube.com/watch?v=7VDqyvdqngc",
+    "https://note.com/tokyo_harbor/n/nd2d7c6d5ebfc",
+    "https://www.kin-sei.co.jp/interview/",
+    "https://www.shinoda-gomu.co.jp/company/greeting/",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinsei-gomu/",
+    "https://nozokuru.jp/suzuki-latex-suzuki/"
+   ]
+  },
+  {
+   "query": "ゴム製品製造業 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=25qkJgW64ho",
+    "https://web-management-academy.net/article/rubber-product-manufacturing-industry/",
+    "https://www.shinoda-gomu.co.jp/",
+    "https://x.com/gomuhouchi",
+    "https://hachioji.or.jp/kogyo/category/11-rubber.shtml",
+    "https://www.youtube.com/watch?v=-BU9kBR5b4s",
+    "https://metoree.com/categories/2464/",
+    "https://www.kimoto-gomu.co.jp/",
+    "https://www.platinumpartners.jp/column-trend-gomu.html",
+    "https://x.com/industryJapan/status/2117549935050854702"
+   ]
+  },
+  {
+   "query": "rubber products manufacturing Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/industrial-rubber-parts-market-us-japan-korea-europe-n4yhf",
+    "https://www.linkedin.com/pulse/japan-ground-rubber-market-strategic-analysis-business-ollyc/",
+    "https://www.linkedin.com/company/association-for-rubber-products-manufacturers",
+    "https://www.linkedin.com/pulse/japan-silicone-rubber-sheet-market-key-players-trends-jxrlc",
+    "https://in.linkedin.com/company/pallavi-rubber-products",
+    "https://www.linkedin.com/company/the-yokohama-rubber-company-limited/",
+    "https://www.linkedin.com/company/aero-rubber-company",
+    "https://in.linkedin.com/company/crown-rubber-products",
+    "https://www.linkedin.com/company/coi-rubber-products",
+    "https://www.linkedin.com/company/universal-rubber-products-inc"
+   ]
+  }
+ ],
+ "missing": {}
+}

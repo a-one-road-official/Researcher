@@ -1,0 +1,2281 @@
+{
+ "name": "鉄鋼業",
+ "en": "iron and steel industry Japan",
+ "aliases": [
+  "鉄鋼 製造業",
+  "製鉄",
+  "鋳鉄"
+ ],
+ "context": "製造業・素材",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:53:44.978065+00:00",
+ "evidence": {
+  "事業所数・従業者数（経済センサス等）": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 製造業に関する集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": ". 本概況は、令和２（2020）年６月１日現在で実施した工業統計調査（以下「工業統計」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "おける 「工業調査票甲」 及び 「工業調査票乙」 の従業者４人以上の事業所について集計、 分析したも",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ". 平成２９年工業統計において、 調査日を６月１日 （従前は１２月３１日） に変更したため、 事業所数、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数については平成２９年以降は同じ年の６月１日現在、 現金給与総額、 製造品出荷額等、 付加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1) 「平成２３年」 、「平成２４年」 、「平成２７年」及 び「平成２８年」 の数値は経済センサス‐活動",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2) 工業統計結果の事業所数及び従業者数の 「平成２９年」以降の数値は、 表示年次の６月１日現在、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "X」 は、 集計対象となる事業所が１又は２であるため、 これをそのまま掲げると個々の報告者の秘",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 集計対象が３以上の事業所に関する数値で",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■工業の業種別実態（従業者4人以上の事業所） (各年12月31日現在 単位：万円・人）",
+    "url": "https://www.city.takeo.lg.jp/toukei/h30/09kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス産業分類(平成26年経済センサス－基礎調査) 製造業 鉄鋼業 その他の鉄鋼業 | 詳細情報 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80/03/229",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス産業分類(平成26年経済センサス－基礎調査)",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80/03/229",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業の事業所規模５人以上の事業所におけ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・常用労働者 5 人以上の事業所が対象",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数が 1998 年には 373,713 事業所あったが、企業の",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "倒産や廃業等により 2017 年には 188,249 事業所と",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 215-１ 製造業に関する事業所数",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・資料：2011 年、2015 年は総務省・経済産業省「経済センサス‐活動調査」 、他は経済産業省「工業統計調査」",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "215-１でみたように事業所数が半減していること",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "掲載企業数＆情報量日本一🥇",
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "pass": 3
+   },
+   {
+    "quote": "総売上高 86 兆 5,626 億円 上場企業数 43 社 非上場企業数 3,029 社",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   },
+   {
+    "quote": "総務省：「平成 28 年経済センサス」",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "有形固定資産額_建設仮勘定_Ｃ増加額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_建設仮勘定_Ｄ減少額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_Ｅ除却・売却による減少額_土地【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_Ｅ除却・売却による減少額_土地以外のもの【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "更に令和元年が秘匿する必要がない箇所でも、増減 比較をする対象年次が秘匿であった場",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合、前年比を「X」とした",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１図 従業者数 、製造品出荷額等の推移",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 主要項目の推移",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 前年比 前年比 前年比",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 構成比の前年からの変化は、金属製品製造業が 0.2％ポイント増加、食料品製造業が 0.2％ポ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イントの減少、 生産用機械器具製造業が0.0％ポイントの横ばい、 プラスチック製品製造業が0.1",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "％ポイント増加、繊維工業が 0.2％ポイント減少（第２図、統計表 第２表）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２図 事業所数 の上位産業の 推移",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 0.3％ポイント減少、生産用機械器具製造業が 0.1％ポイント増加、金属製品製造業が 0.0％",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３図 従業者数 の上位産業の 推移",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 0.3％ポイント増加、化学工業が 0.1％ポイント増加、生産用機械器具製造業が 0.1％ポイント",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率の推移と社会的背景",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "次に有効求人倍率の推移と社会的背景について触れていきます",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "雇用調整助成金などの制度で失業率は抑えられたが、新規求人は大幅に減少",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "労働人口の減少",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "伴い、休業や生産の減少に伴う人員調整や経営の悪化",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後、人口減少や高齢化が進む中で、日本",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、 2019年は2.2％～2.5％で推移し、 年平均で2.4％",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "364 万人を記録した後、以降は次第に減少し、2019",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年 12 月には 152 万人となり減少傾向で推移してい",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月に続き増加している（図 211-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-２ 構造的・摩擦的失業率、需要不足失業率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-１ 完全失業率（季節調整値）及び完全失業者数（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-３ 有効求人倍率（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-４ 職業別の有効求人倍率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たことから、求人数の減少を通じて有効求人倍率が低",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前月につづいて減少している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自動車およびインフラ用途向け高強度鋼への投資増加",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼市場は、電気自動車、最新のインフラ、重工業機器などに使用される高強度鋼（AHSS）の需要増加からも恩恵を受けている",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "同社はまた、2025年の世界の鉄鋼需要（中国を除く）が2.5%～3.5%増加すると予測している",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼市場は、世界的なインフラ開発、都市化、産業拡大への投資増加に伴い、着実に成長を続けています",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "OECD鉄鋼展望2025によると、需要の伸びが比較的鈍化しているにもかかわらず、世界の鉄鋼生産能力は増加し続けると予想されており、その結果、設備稼働率が低下し、競争圧力が強まる",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレス鋼セグメントは、建設、食品加工、ヘルスケア、再生可能エネルギー、輸送業界からの需要増加に支えられ、2026年から2034年にかけて年平均成長率（CAGR）5.34%で最も速い成長を遂げると予測されています",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "持続可能なインフラへの投資拡大と耐腐食性材料の採用増加により、ステンレス鋼の需要はさらに高まると予想される一方、合金鋼、構造用鋼、工具鋼、プレストレス鋼は、産業用途全体で着実な成長を続けています",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "急速な都市化、インフラの近代化、住宅および商業建設プロジェクトへの投資増加を背景に、建築・建設分野は2025年に世界の鉄鋼市場において38.7%のシェアを占め、市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野は、電気自動車の生産増加、軽量車両設計、高強度鋼の需要増に支えられ、2026年から2034年にかけて年平均成長率（CAGR）5.21%で最も速い成長を遂げると予測されている",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "薄板鋼板セグメントは、自動車製造、再生可能エネルギープロジェクト、インフラ開発における高強度鋼の需要増加に支えられ、2026年から2034年にかけて年平均成長率（CAGR）4.97%で最も速い成長を記録すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は、インフラ投資の増加、製造業活動の拡大、自動車生産の増加、エネルギー部門からの需要増加によって支えられています",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "運輸、エネルギーインフラ、製造業の国内回帰、商業建設への政府投資は、鉄鋼消費量の増加を継続的に促進している",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する鉄鋼メーカー ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する鉄鋼メーカー ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "図：鉄鋼メーカーにおける2030年までの市場規模推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で0.89%縮小し14兆2,567億円に減少すると予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "また、時系列で見ると、1年後、2年後の減少が比較的大きいと予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で鉄鋼メーカーに影響する市場環境の変化を8つのカテゴリーに分類すると、拡大、減少共に環境問題・SDGsの影響が大きいと予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "具体的なプラス要因は、燃料電池自動車需要増加や電気自動車需要増加、水力発電需要増加と予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼需要 月次推移予測（1年先まで）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "鋼材価格 月次推移予測（1年先まで）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "需要減少の見通しを反映した調達方針の見直しに",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "中国の生産者物価指数、3月は前年比-2.5% 下落幅拡大でデフレ圧力続く",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "• 鉄鋼材料は社会インフラに必要不可欠であるため、GDP増加と鉄鋼蓄積にはこれまで正の相",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に近づいているが、途上国においては飽和しておらず、人口も増加が見込まれることから、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界全体では今後も鉄鋼蓄積量の増加が予想される",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりGDPと鉄鋼蓄積との関係 一人当たり鉄鋼蓄積の推移",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/001_04_00.pdf",
+    "pass": 3
+   }
+  ],
+  "需要が増えるか": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_合計【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_製造品出荷額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_加工賃収入額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_くず廃物の出荷額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_その他収入額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "生産額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_建設仮勘定_Ｃ増加額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数については平成２９年以降は同じ年の６月１日現在、 現金給与総額、 製造品出荷額等、 付加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ") 製造品出荷額等 ＝ 製造品出荷額 ＋ 製造工程から出たくず及び廃物の出荷額＋ 加工賃収入",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ") 付加価値額 ＝ 製造品出荷額等 ＋（製造品年末在庫額 － 製造品年初在庫額）＋（半製品及び",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ") 粗付加価値額 ＝ 製造品 出荷額等－ （ 推計酒税、 たばこ税、 揮発油税及び地方揮発油税額 ＋ 推",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ". 製造品出荷額等などの経理事項については、 原則消費税込みで把握しているが、 一部の消費税抜きの",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合、前年比を「X」とした",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "目別に出荷額が得られた事業所であること",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和元 年の製造品出荷額等は 322 兆 5334 億円 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和元年の製造品出荷額等は 322 兆 5334 億円、付加価値額は 100 兆 2348 億円（第１表、第",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１図 従業者数 、製造品出荷額等の推移",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 前年比 前年比 前年比",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 従業者数 製造品出荷額等",
+    "url": "https://www.city.takeo.lg.jp/toukei/h30/09kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "長戦後から高度経済成長期（1950〜70年代前半）",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "：戦後復興とともに産業が急速に拡大し、自動車・電機・鉄鋼など製造業が大量の労働力を必要としました",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "大規模工場・インフラ投資による雇用の拡大",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "正社員採用の抑制と非正規雇用の拡大",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "：外出自粛や観光・飲食業の需要蒸発",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "IT・物流・医療など一部業種では人材需要が急増",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "：経済活動の再開とインフラ需要の拡大",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "このように、有効求人倍率は「景気の動き」や「産業ごとの人材需要」を反映する鏡ともいえる存在です",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "「人材需要に対して供給が不足している」",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "成長機会 → 資格取得支援、キャリアパスの明示",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "📌 例：「地元に戻ってきた30代社員が、製造業でリーダーに成長した」というストーリーを紹介すれば、Uターン希望者の共感を得やすいです",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "世界各国では今、新型コロナウイルスの感染拡大に",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、感染拡大防",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "チェーンの寸断を受けての国内回帰や感染拡大から生",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウイルスの感染拡大がつきつける課題にどの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "え、我が国の経済成長を支える原動力は「人」で",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の経済が成長していくためには、女性、高齢者など、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新型コロナウイルス感染症拡大など不確実性が高",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１ 成長戦略実行計画（2019 年６月 21 日閣議決定）では、経済成長を支える原動力は「人」であるとの考えの下、数多くの施策を実行",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月に続き増加している（図 211-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を、需要不足失業率と均衡失業率に分けてそれぞれの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動向をみると、需要不足失業率については、2009 年",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "需要不足失業率",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼市場規模、シェア、トレンド分析レポート：製品タイプ別（平鋼、長尺鋼）、製法別（転炉（BOF）、電気炉（EAF））、鋼種別（炭素鋼、ステンレス鋼、合金鋼、工具鋼）、エンドユーザー別（建築・建設、自動車、エネルギー、機械・設備、造船、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼市場の規模、シェア、成長分析",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の鉄鋼市場規模は、2025年には176億2000万米ドルと評価され、2026年の191億2000万米ドルから2034年には367億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は8.5%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナノサテライトとマイクロサテライトの市場は、衛星製造、打ち上げサービス、および関連技術を含み、宇宙探査、商用衛星コンステレーション、小型衛星システムの進歩への投資拡大によって成長しています",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場規模と成長",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "最も成長率の高い地域",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "最も成長率の高い分野",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する鉄鋼メーカー ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する鉄鋼メーカー ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   }
+  ],
+  "大手プラットフォームの有無": [
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/classifications/terms/80/03/229",
+    "pass": 3
+   },
+   {
+    "quote": "信頼度が高く、マッチング精度も良い",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "専任の担当者がご相談から契約・人材マッチング・就業後のフォローまで丁寧にサポートいたします",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "ある製品・サービス分野で国際的に高いシェアを持っている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "狭い市場で高いシェアを誇っている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主に大手空調機器メーカーから、部品などの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、押谷社長はこうした問題を解決しようと、受発注と連携して現場に情報を流す「進捗管理シス",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、暖房機器や加湿器は、季節商品であるため冬季に需要が高くなり、天候によっても受発注が",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ス部門は国内トップシェアを誇る",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受発注から製造ラインの稼働状況、機械トラブルや保全状況などを一元的に管理するこ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "続きにおいてもデジタル化したことで、受発注の管理や経理処理などのデータ入力作業や確認作業などが",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼市場規模、シェア、トレンド分析レポート：製品タイプ別（平鋼、長尺鋼）、製法別（転炉（BOF）、電気炉（EAF））、鋼種別（炭素鋼、ステンレス鋼、合金鋼、工具鋼）、エンドユーザー別（建築・建設、自動車、エネルギー、機械・設備、造船、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼市場の規模、シェア、成長分析",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に47.6%の市場シェアを占め、鉄鋼市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "炭素鋼セグメントは2025年に34.8%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントは、優れた強度、コスト効率、建設、自動車、製造、インフラストラクチャ用途における汎用性により、2025年には世界の鉄鋼市場で34.8%のシェアを占め、支配的な地位を占めました",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "建築・建設分野は2025年に38.7%のシェアを占め、市場を牽引するだろう",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "急速な都市化、インフラの近代化、住宅および商業建設プロジェクトへの投資増加を背景に、建築・建設分野は2025年に世界の鉄鋼市場において38.7%のシェアを占め、市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界鉄鋼協会によると、鉄鋼は強度、耐久性、リサイクル性の高さから、建物、橋梁、輸送インフラ、産業施設などで幅広く使用されており、建設部門が世界の鉄鋼消費量の最大シェアを占めています",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、フラット鋼板セグメントが市場シェア61.8%を占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼メーカー 主要企業シェアランキング 日本製鉄・JFEスチール等",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "図：鉄鋼メーカーにおける国内マーケットシェアのグラフ及び主要企業8社の状況",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "→マーケットシェアの計算方法は",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、経済予測プラットフォーム「xenoBrain」によるAI予測の一部を抜粋し、同プラットフォームを運営する株式会社xenodata lab.のマーケティングチームが作成・編集したものです",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "- 国内マーケットシェア",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "経済予測プラットフォーム『xenoBrain』を提供するAIスタートアップです",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "xenodata lab.は、独自の言語生成モデルや予測モデルを基に、経済予測プラットフォーム『xenoBrain』を提供するAIスタートアップです",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大手金融機関や、大学系ベンチャーキャピタル等から出資を受ける、AIスタートアップ企業です",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "本ページの予測の提供元サービスである、経済予測プラットフォーム『xenoBrain』について詳細な資料をダウンロードできます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "は自動車用、建設用向けが高いシェアとなっており、需要側のニーズに合わせて様々な製品",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 鉄鉱石を基にした高炉法と、スクラップを基にした電炉法では鋼材品種によってシェアが異",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗鋼生産シェア 72% 21% 7%",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取引シェア推計データ",
+    "url": "https://www.tdb.co.jp/report/industry/m01-tekkou/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼市場規模、業界シェア、成長率およびトレンド（2034年）",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼市場規模レポート、業界シェア、分析、成長、予測、2034年",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、 2024年に世界市場シェアの約59%を占めた",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2024年に世界の業界収益で大きなシェアを獲得した建築・建設分野は、今後数年間、この分野の成長を牽引すると予測されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄急便（鋼材マッチングサービス） | steelnavi",
+    "url": "https://steelnavi.jp/tekkyubin",
+    "pass": 3
+   },
+   {
+    "quote": "鉄急便（鋼材マッチングサービス）",
+    "url": "https://steelnavi.jp/tekkyubin",
+    "pass": 3
+   },
+   {
+    "quote": "鉄急便（鋼材マッチングサービス）へ",
+    "url": "https://steelnavi.jp/tekkyubin",
+    "pass": 3
+   },
+   {
+    "quote": "鋼材マッチングで",
+    "url": "https://steelnavi.jp/tekkyubin",
+    "pass": 3
+   },
+   {
+    "quote": "ファブリケータ―、鋼材問屋、シャーリング業者が長期保有する在庫を、独自ネットワークで販売先をマッチング",
+    "url": "https://steelnavi.jp/tekkyubin",
+    "pass": 3
+   },
+   {
+    "quote": "『鉄急便』は、鋼材マッチングを目的としており、契約当事者としてサプライヤー/バイヤー間に入る機能はございません",
+    "url": "https://steelnavi.jp/tekkyubin",
+    "pass": 3
+   },
+   {
+    "quote": "マッチング・成約後は、",
+    "url": "https://steelnavi.jp/tekkyubin",
+    "pass": 3
+   },
+   {
+    "quote": "マッチング・ご成約後の決済の流れ",
+    "url": "https://steelnavi.jp/tekkyubin",
+    "pass": 3
+   },
+   {
+    "quote": "『鉄急便』は、マッチング・ご成約までお手伝いいたします",
+    "url": "https://steelnavi.jp/tekkyubin",
+    "pass": 3
+   },
+   {
+    "quote": "『鉄急便』でマッチング・成約後、",
+    "url": "https://steelnavi.jp/tekkyubin",
+    "pass": 3
+   },
+   {
+    "quote": "大手輸送業者が取り扱わない",
+    "url": "https://steelnavi.jp/tekkyubin",
+    "pass": 3
+   },
+   {
+    "quote": "マッチング後の支払いはどのようになりますか？",
+    "url": "https://steelnavi.jp/tekkyubin",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングプラットフォームの提供によって、同業者間の「いる」「いらない」をマッチングします",
+    "url": "https://tenteco.jp/pages/about",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングで企業間を繋げる「縁（en）」と、資源を無駄にしない「エコ（eco）」を大切にし、「鉄鋼加工流通業全体へプラス」なサービスとなることを目指してこのサービス名にしました",
+    "url": "https://tenteco.jp/pages/about",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月には、米国鉄鋼大手USスチールの買収を完了し、完全子会社化した",
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "pass": 3
+   },
+   {
+    "quote": "学歴❌ガクチカ❌でも超大手10社以上内定の筆者による「5分で即内定レベルの神企業分析📒」を毎日公開",
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "pass": 3
+   },
+   {
+    "quote": "メンバー限定で業界内の大手数社を一度に比較的視点で理解できる「徹底企業比較」も公開中",
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "pass": 3
+   },
+   {
+    "quote": "大手鉄鋼メーカー（高炉・電炉）の子会社が多い",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   },
+   {
+    "quote": "販売先において、自社との取引シェアが高くなり過ぎると、自社が取引から撤退することが困難となる恐れがあります",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   }
+  ],
+  "取引のやり方・不便": [
+   {
+    "quote": "2020000000_2020_1400_パルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1420_紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1421_洋紙・機械すき和紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1422_板紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1424_手すき和紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1430_加工紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1431_塗工紙製造業（印刷用紙を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1433_壁紙・ふすま紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1440_紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1441_事務用・学用紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1442_日用紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1449_その他の紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 パルプ紙 26 生産用機械器具製造業 生産用機械",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 5,365 ▲ 2.8 2.9 5,338 ▲ 0.5 2.9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 187,035 0.2 2.4 187,842 0.4 2.4",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 776,354 0.8 2.2 789,751 1.7 2.2",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 4,829,697 4.1 2.3 4,848,585 0.4 2.4",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 7,548,422 2.2 2.3 7,687,869 1.8 2.4",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 2,265,206 ▲ 1.3 2.2 2,394,693 5.7 2.4",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 598,935 7.7 1.8 630,353 5.2 1.9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 294,388 2.1 3.1 322,062 9.4 3.3",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 83,550 9.7 0.6 86,386 3.4 0.6",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 220,998 15.4 2.2 221,906 0.4 2.1",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 315,456 9.0 2.3 348,174 10.4 2.5",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "倍率が高い職種ほど、求人広告費や人材紹介手数料が高騰する傾向があります",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "：社員の知人・友人を紹介してもらう仕組みを整える",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "SNSを活用して日常の雰囲気を発信（Instagramで職場の雰囲気、Xで制度や取り組みを紹介など）",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "📌 例：「子育てしながら働く社員の1日の流れ」や「未経験から活躍できるまでのストーリー」を紹介すると効果的です",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "- リファラル採用：社員の紹介で新しい人材を呼び込む（紹介制度に報酬をつけると効果大）",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "📌 例：「地元に戻ってきた30代社員が、製造業でリーダーに成長した」というストーリーを紹介すれば、Uターン希望者の共感を得やすいです",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "経験だけでなく、意欲や人柄、職場との相性を重視したご紹介を行っています",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "ご希望の条件をヒアリングのうえ、即戦力となる人材をスピーディーにご紹介・派遣します",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "育成の取組を紹介する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コミュニティカレッジのあるランシング市には職業訓練のあっせんと職業紹介を行う組織、ミシガ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業訓練と職業紹介を実施するにあたり、地元企業のニーズを頻繁に、そして徹底",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "優秀な外注先企業群を育成している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の取組などについて紹介する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また納品書や作業指示は、 紙面のやりとりで行っていたため、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組立ラインの検査には、従来紙のチェックシートを用いて品質チェックを行っていたが、現在ではタブ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本ページでご紹介している分析結果は、有料版レポートのダイジェスト版です",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "部署別の事例紹介",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "パルプ・紙・紙加工業",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/001_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "直通電話番号：+1-855-465-4651",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "steelnaviが展開する3サービス、鉄急便（鋼材マッチングサービス）、鋼材明細作成サービス、BIMモデルチェックシステムも紹介しています",
+    "url": "https://steelnavi.jp/tekkyubin",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人の自己紹介は固定記事から🔍",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   }
+  ],
+  "払う単価の手がかり": [
+   {
+    "quote": "事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_合計【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する基本給、諸手当と特別に支払われた給与（期末賞与等）の額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する退職金又は解雇予告手当、出向受入者に係る支払額、臨時雇用者給与、送出者負担額など【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_派遣受入者に係る人材派遣会社への支払額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_合計【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_原材料使用額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_燃料使用額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_電力使用額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_委託生産費（外注加工費）【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_製造等に関連する外注費【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_転売した商品の仕入額 【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_合計【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "関連する外注費 ＋ 転売した商品の仕入額",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） （％） （百万円） （％） （百万円） （％）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産 業 （百万円） （％） （％） （百万円） （％） （％）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） （％） （％） （百万円） （％） （％）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（単位:百万円、％）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■工業の業種別実態（従業者4人以上の事業所） (各年12月31日現在 単位：万円・人）",
+    "url": "https://www.city.takeo.lg.jp/toukei/h30/09kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "手法を変える際は「コスト」と「採用単価」を意識するようにしましょう",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "年間で 11.6％減少しており、全産業に占める製造",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と、５年間で約 1.6 倍となっており、産業全体にお",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本の平均年間総実労働時間（就業者）を",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 214-４ 一人当たり平均年間総実労働時間推移の国際比較（全就業者）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20 年間で約 50％減少している（図 215-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "について、過去 20 年間の推移をみていくと、非製造",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "く、2018 年においては、全産業 794.3 万円、非製",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造業 740.9 万円に対し、製造業は 1,094 万円となっ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（万円/人）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AI やデジタル化は同じような作業を膨大に繰り返すようなものでなければ、費用対効果",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "かかる予算の不足」 と回答した企業割合が高い",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "果たすことのできる人材の確保・育成のための予算の不足",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この施設は、石炭の代わりにグリーン水素を使用し、年間250万トンの化石燃料フリーの鉄鋼を生産するように設計されており、従来の製鉄と比較してCO₂排出量を最大95%削減できる可能性があります",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、アルセロールミタルは2025年2月、自動車および製造業からの需要増に対応するため、ブラジル、インド、米国における鉄鋼生産能力の拡大に重点を置き、年間45億～50億米ドルの投資を継続する計画を発表した",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "先進国経済の回復も、今後数年間における日本の鉄鋼需要を押し上げると予想されます",
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で0.89%縮小し14兆2,567億円に減少すると予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で鉄鋼メーカーに影響する市場環境の変化を8つのカテゴリーに分類すると、拡大、減少共に環境問題・SDGsの影響が大きいと予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストによる分析によると、世界の鉄鋼市場は予測期間（2025年～2034年）において、年間約3.9%の成長率で拡大すると予測されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "製品コストの変動や原材料の入手困難は、今後数年間における世界の鉄鋼産業の成長にブレーキをかける可能性がある",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "今後数年間、新製品の開発は、世界市場の成長をさらに促進するでしょう",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントは、予測期間において最も高い年間成長率を記録すると予測されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、今後8年間のセグメント拡大は、溶融鋼を圧延・成形して平鋼板を製造することによる平鋼製品の製造増加が要因と考えられます",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2024年に世界の業界収益で大きなシェアを獲得した建築・建設分野は、今後数年間、この分野の成長を牽引すると予測されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、今後10年間で世界の鉄鋼市場において確固たる地位を築くと予測されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には世界の鉄鋼市場収益の約34.7.5%を占めたアジア太平洋地域は、今後8年間も市場を牽引する地域となるでしょう",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要企業が多数存在することも、今後数年間における欧州鉄鋼業界の急成長​​を促すでしょう",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要企業が欧州に拠点を置いていることも、今後数年間における欧州の鉄鋼産業の急成長を促すでしょう",
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "下位シナリオ：パンデミック期間を除いた過去10年間の粗鋼生産の年平均減少率が今後も継続することを想定",
+    "url": "https://transitionasia.org/%E6%97%A5%E6%9C%AC%E9%89%84%E9%8B%BC%E6%A5%AD%E7%95%8C%E3%81%AE%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%81%E9%9A%9C%E5%A3%81%E3%81%AF%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、この 12 年間で 120 百万トンから 104 百万トンに緩やかな減少傾向で推移しています",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   },
+   {
+    "quote": "特殊鋼などの高水準の技術力により高い付加価値と競争力を保持している企業の場合、営業秘密の技術流出が、販売単価下落や競争力の低下につながり、業績への影響も懸念されることから、",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   }
+  ],
+  "働き手が減るか（人手不足）": [
+   {
+    "quote": "採用担当者必見！有効求人倍率の見方と実践的な活用法 | 協和工業株式会社",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "採用担当者必見！有効求人倍率の見方と実践的な活用法",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに：なぜ「有効求人倍率」を知ることが大切なのか",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は厚生労働省が毎月発表するデータで、",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "「労働市場における人手不足・余剰の状況」",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、有効求人倍率の意味や見方、中小企業の採用戦略にどう役立つのかを、体験談や具体例を交えながら解説していきます",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは？",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "まず、釈迦に説法かとは思いますが改めて有効求人倍率がどのようなものか整理しておきましょう",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人数÷有効求職者数＝「有効求人倍率」",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "1.0倍以上 → 求人が多く、人手不足",
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "pass": 3
+   },
+   {
+    "quote": "今後、人口減少や高齢化が進む中で、日本",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "鈍いことから、欠員と失業が併存する不均衡が続いて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-３ 有効求人倍率（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-４ 職業別の有効求人倍率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（季節調整値）は上昇し 2018 年８",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たことから、求人数の減少を通じて有効求人倍率が低",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別に有効求人倍率",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "をみると、生産工程の職業の有効求人倍率は、職業計",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業で、人手不足感がみられる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年第３四半期にマイナス 1.8 と人手不足感に転じて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）就業者数及び雇用者の動向",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業就業者数については、2002年の",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本 鉄鋼業 の概要と動向～21世紀の動向を中心に - 日本機械学会 — 日本 鉄鋼業 の概要と動向～21世紀の動向を中心に - 日本機械学会 一般社団法人 日本機械学会 https://www.jsme.or.jp > kaisi",
+    "url": "https://www.jsme.or.jp/kaisi/1239-06/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【業界・銘柄分析・転職・投資】 鉄鋼業界 の巨頭「日本製鉄 ... 【業界・銘柄分析・転職・投資】 鉄鋼業界 の巨頭「日本製鉄 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/keisoumainte/n/n8a5a82e0422f",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底企業分析㉙日本製鉄】“ 鉄鋼 メーカー”で終わらせるな ... 【徹底企業分析㉙日本製鉄】“ 鉄鋼 メーカー”で終わらせるな ... note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポート 鉄鋼業 ｜佐々木正人 - note 業界レポート 鉄鋼業 ｜佐々木正人 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼業界 の人気・新着記事まとめ - note 鉄鋼業界 の人気・新着記事まとめ - note note https://note.com > tag > 鉄鋼業界",
+    "url": "https://note.com/tag/%E9%89%84%E9%8B%BC%E6%A5%AD%E7%95%8C",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【業界・銘柄分析・転職・投資】鉄鋼業界の巨頭「日本製鉄・JFE・神戸製鋼」を徹底比較！歴史と強みから読み解く企業戦略と将来性｜解析現場猫",
+    "url": "https://note.com/keisoumainte/n/n8a5a82e0422f",
+    "pass": 3
+   },
+   {
+    "quote": "【業界・銘柄分析・転職・投資】鉄鋼業界の巨頭「日本製鉄・JFE・神戸製鋼」を徹底比較！歴史と強みから読み解く企業戦略と将来性",
+    "url": "https://note.com/keisoumainte/n/n8a5a82e0422f",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、解析現場猫です。 私はプラントや工場、データセンターなど転々としながら設備関連の仕事をしてきた技術者です。趣味で経済や歴史、株式投資や技術等の知識を得ることも好きですので、そこで得た実体験や知識を皆さんにお届けしようかと思ってます。",
+    "url": "https://note.com/keisoumainte/n/n8a5a82e0422f",
+    "pass": 3
+   },
+   {
+    "quote": "今回は業界分析です。鉄鋼業界の巨頭「日本製鉄・JFE・神戸製鋼」を転職目線、および投資家目線で徹底比較したいと思います。",
+    "url": "https://note.com/keisoumainte/n/n8a5a82e0422f",
+    "pass": 3
+   },
+   {
+    "quote": "「鉄は国家なり」―。19世紀のドイツ帝国宰相ビスマルクが残したこの言葉は、現代の日本においても色褪せることはありません。 スマートフォン、パソコン、家電、自動車、鉄道、そして高層ビルから橋梁に至るまで、私たちの身の回りにあるあらゆるインフラや製品の「生みの親」は鉄です。",
+    "url": "https://note.com/keisoumainte/n/n8a5a82e0422f",
+    "pass": 3
+   },
+   {
+    "quote": "日本の鉄鋼業界は出荷額にして約23兆円、製造業全体でも第5位の規模を誇る巨大装置産業です。しかし「鉄鋼業界」とひとくくりにしてしまうのは非常に危険です。特に国内トップ3である「日本製鉄」「JFE」「神戸製鋼所（コベルコ）」の3社は、それぞれ全く異なる歴史的背景を持ち現在の収益構造や描いている未来像も大きく異なります。",
+    "url": "https://note.com/keisoumainte/n/n8a5a82e0422f",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、これら鉄鋼3社の違いを「歴史」「事業構造」「技術の強み」という観点から徹底的に解剖します。就職や転職活動において「なぜ他社ではなく、御社なのか？」という決定的な志望動機を作るための材料として、また株式投資における中長期的な銘柄選びの羅針盤としてぜひご活用ください。",
+    "url": "https://note.com/keisoumainte/n/n8a5a82e0422f",
+    "pass": 3
+   },
+   {
+    "quote": "1. 鉄鋼ビジネスの基礎：鉄はどうやって作られるのか？",
+    "url": "https://note.com/keisoumainte/n/n8a5a82e0422f",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底企業分析㉙日本製鉄】“鉄鋼メーカー”で終わらせるな。日本の産業とインフラを根っこから支える国家級メーカーの本質｜プロ企業分析家の就活note",
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底企業分析㉙日本製鉄】“鉄鋼メーカー”で終わらせるな。日本の産業とインフラを根っこから支える国家級メーカーの本質",
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鉄を「鉄の会社」と一言で語ってよいのだろうか。",
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "pass": 3
+   },
+   {
+    "quote": "就活で日本製鉄を語るなら、「鉄」という素材の奥にある産業構造まで見ないと勝てない。",
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鉄は、単に鉄を大量生産している会社ではない。",
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業と社会インフラに必要な高品質な素材を、技術力と供給力で支える会社",
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月には、米国鉄鋼大手USスチールの買収を完了し、完全子会社化した。買収は2023年12月の合意から米国当局・政治判断を経て成立したもので、日本製鉄にとって北米事業を大きく拡大する歴史的ディールである。",
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、今の日本製鉄は「国内高炉メーカー」ではない。",
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポート 鉄鋼業｜佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   },
+   {
+    "quote": "の心臓部であり、格付などの与信指標を生産・保守を行う「データ工場」が集計・分析しており、業界ごとの市場概要や業界動向、与信管理のポイントなどをまとめたレポートです。",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   },
+   {
+    "quote": "特に記事についてのコメント頂けると、今後の記事作成の励みになります。",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   },
+   {
+    "quote": "◉仕事に役立つセミナー情報を発信◉メルマガのご案内",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   },
+   {
+    "quote": "‣ 製鉄業 ‣ 製鋼・製鋼圧延業 ‣ 製鋼を行わない鋼材製造業 ‣ 表面処理鋼材製造業 ‣ その他の鉄鋼業 他",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   },
+   {
+    "quote": "総売上高 86 兆 5,626 億円 上場企業数 43 社 非上場企業数 3,029 社",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼業には、「製鉄業」や「製鋼・製鋼圧延業」、「製鋼を行わない鋼材製造業」、「表面処理鋼材製造業」などがあるが、業界規模・影響力から「製鉄業」が中心となる。",
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "pass": 3
+   },
+   {
+    "quote": "脱炭素化やデジタル化、海外市場への進出といった構造変化の渦中にある産業です。",
+    "url": "https://note.com/tag/%E9%89%84%E9%8B%BC%E6%A5%AD%E7%95%8C",
+    "pass": 3
+   },
+   {
+    "quote": "企業の投資戦略や決算分析、就職・転職に役立つ実務的な情報が集まっています。",
+    "url": "https://note.com/tag/%E9%89%84%E9%8B%BC%E6%A5%AD%E7%95%8C",
+    "pass": 3
+   },
+   {
+    "quote": "脱炭素化やデジタル化、海外市場への進出といった構造変化の渦中にある産業です。…",
+    "url": "https://note.com/tag/%E9%89%84%E9%8B%BC%E6%A5%AD%E7%95%8C",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "日本製鉄株式会社 - X 日本製鉄株式会社 - X X https://x.com > @nippon_steel_",
+    "url": "https://x.com/nippon_steel_/status/2113444601189265583",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省 on X: \" 鉄鋼業 の #カーボンニュートラル 実現への ... 経済産業省 on X: \" 鉄鋼業 の #カーボンニュートラル 実現への ... X https://x.com > @meti_NIPPON",
+    "url": "https://x.com/meti_NIPPON/status/1437717898932281346",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by 日本製鉄株式会社 (@nippon_steel_) / X Replies by 日本製鉄株式会社 (@nippon_steel_) / X X https://x.com > nippon_steel_ > with_replies",
+    "url": "https://x.com/nippon_steel_/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "shigeki ueta - 大同特殊鋼（株） - 鉄鋼業 | LinkedIn shigeki ueta - 大同特殊鋼（株） - 鉄鋼業 | LinkedIn LinkedIn https://jp.linkedin.com > shigeki-ueta-919725278",
+    "url": "https://jp.linkedin.com/in/shigeki-ueta-919725278",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.takeo.lg.jp/toukei/h30/09kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/80/03/229",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/001_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/m01-tekkou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikoukei.co.jp/news/detail/280493",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://transitionasia.org/%E6%97%A5%E6%9C%AC%E9%89%84%E9%8B%BC%E6%A5%AD%E7%95%8C%E3%81%AE%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%81%E9%9A%9C%E5%A3%81%E3%81%AF%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83/?lang=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monotown-kadoma.jp/matching-site",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platto.technoa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelnavi.jp/tekkyubin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenteco.jp/pages/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usknet.com/jirei/takayama/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kktisc.co.jp/column/7201/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casio-human-sys.co.jp/bc-order/column/019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecbeing.net/b2b/solution/case13",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totec-sangyo.jp/blog/fax-order-blackbox4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.taxita.com/column/accounting072/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinpo-e.co.jp/media/uncategorized/control-outsourcing-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robokaru.jp/useful/791/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=49713",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keisoumainte/n/n8a5a82e0422f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/nippon_steel_/status/2113444601189265583",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/meti_NIPPON/status/1437717898932281346",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/shigeki-ueta-919725278",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E9%89%84%E9%8B%BC%E6%A5%AD%E7%95%8C",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keisoumainte/n/n8a5a82e0422f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/nippon_steel_/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "鉄鋼業 事業所数 従業者数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.city.takeo.lg.jp/toukei/h30/09kougyou.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/80/03/229",
+    "https://uub.jp/pdr/id/steel.html",
+    "https://www.pref.kanagawa.jp/documents/1090/h26kogyokekkagaiyo.pdf",
+    "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "http://www.city.marugame.lg.jp/uploaded/attachment/22693.pdf",
+    "https://www.stat.go.jp/data/e-census/"
+   ]
+  },
+  {
+   "query": "鉄鋼業 人手不足 有効求人倍率",
+   "results": [
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://kyouwakougyou.jp/?p=758",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://www.beingcorp.co.jp/column/genba/20250929/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://nextengineer.com/blog/know-how001/",
+    "https://www.ductnet.com/news/209/",
+    "https://topics.type.jp/womantype-all/market-trends/"
+   ]
+  },
+  {
+   "query": "鉄鋼業 市場規模 推移",
+   "results": [
+    "https://straitsresearch.com/jp/report/steel-market",
+    "https://service.xenobrain.jp/forecastresults/market-size/steel",
+    "https://www.meti.go.jp/shingikai/mono_info_service/green_steel/pdf/001_04_00.pdf",
+    "https://www.tdb.co.jp/report/industry/m01-tekkou/",
+    "https://www.zionmarketresearch.com/ja/report/iron-and-steel-market",
+    "https://www.jsme.or.jp/kaisi/1239-06/",
+    "https://the-shashi.com/market/steel/",
+    "https://www.jisf.or.jp/data/jyukyu/index.html",
+    "https://honkawa2.sakura.ne.jp/5500.html",
+    "https://monoscope-media.com/steel-nonferrous-market/"
+   ]
+  },
+  {
+   "query": "鉄鋼業 休廃業 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "https://www.nikoukei.co.jp/news/detail/280493",
+    "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "https://transitionasia.org/%E6%97%A5%E6%9C%AC%E9%89%84%E9%8B%BC%E6%A5%AD%E7%95%8C%E3%81%AE%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%81%E9%9A%9C%E5%A3%81%E3%81%AF%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83/?lang=ja",
+    "https://www.niikei.jp/2035474/",
+    "https://www.tdb.co.jp/report/industry/20251007-mold25y1-9/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "https://pppt.jp/charts/%E7%AC%AC1-1-62%E5%9B%B3-%E4%BC%91%E5%BB%83%E6%A5%AD-%E8%A7%A3%E6%95%A3%E4%BB%B6%E6%95%B0%E3%81%AE%E6%8E%A8%E7%A7%BB-bd262637-4d71-4a99-b0cb-f1d0bac72ff4",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/a537ae9febfa44218a54df8bc5034f43/20260109_全国企業「休廃業・解散」動向調査（2025年）.pdf"
+   ]
+  },
+  {
+   "query": "鉄鋼業 マッチング プラットフォーム",
+   "results": [
+    "https://mallento.com/recommend/manufacturing-matching-services/",
+    "https://monotown-kadoma.jp/matching-site",
+    "https://platto.technoa.co.jp/",
+    "https://steelnavi.jp/tekkyubin",
+    "https://tenteco.jp/pages/about",
+    "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "https://tekkokai.jp/matching/",
+    "https://www.japanmetaldaily.com/articles/-/139181",
+    "https://aikata-matching.com/",
+    "https://tenteco.jp/"
+   ]
+  },
+  {
+   "query": "鉄鋼業 受発注 課題 電話 FAX",
+   "results": [
+    "https://www.usknet.com/jirei/takayama/",
+    "https://www.kktisc.co.jp/column/7201/",
+    "https://www.casio-human-sys.co.jp/bc-order/column/019.html",
+    "https://www.ecbeing.net/b2b/solution/case13",
+    "https://www.totec-sangyo.jp/blog/fax-order-blackbox4/",
+    "https://www.mosjapan.jp/blog/start-dx-with-mos-fax",
+    "https://note.com/recerqa/n/n984940c704ad",
+    "https://aladdin-ec.jp/seminar/20240626/",
+    "https://ec.smaregi.jp/column/b2b/fax-order/",
+    "https://it-trend.jp/receiving_orders/article/374-7253"
+   ]
+  },
+  {
+   "query": "鉄鋼業 外注 費用 相場",
+   "results": [
+    "https://go.taxita.com/column/accounting072/",
+    "https://www.shinpo-e.co.jp/media/uncategorized/control-outsourcing-cost",
+    "https://robokaru.jp/useful/791/",
+    "https://catalog.monex.co.jp/article/?p=49713",
+    "https://www.agency-assist.co.jp/column/13768/",
+    "https://accounting.cast-er.com/tips/accounting-outsourcing-costs/",
+    "https://pps-net.org/industryenergy/71439",
+    "https://go.chatwork.com/ja/column/labor/post-134.html",
+    "https://fukakachi-lab.com/category/cost-management/1017",
+    "https://kyoto-kikai-shoji.com/column/金属加工見積依頼の完全ガイド｜費用相場・内訳/"
+   ]
+  },
+  {
+   "query": "site:note.com 鉄鋼業",
+   "results": [
+    "https://note.com/keisoumainte/n/n8a5a82e0422f",
+    "https://note.com/yohei_kijima/n/nd46455f4d5f6",
+    "https://note.com/shyuukatu_gy/n/n1ef5f3b1c9b4",
+    "https://note.com/rm_sasaki/n/ndc80ae4e4eeb",
+    "https://note.com/research_k/n/n838181883e4d",
+    "https://note.com/__rikamania/n/n4be3731fe2e5",
+    "https://note.com/tag/%E9%89%84%E9%8B%BC%E6%A5%AD",
+    "https://note.com/6keen1_11246/n/n77314160e691",
+    "https://note.com/rm_sasaki/n/n3f2e980c6e35",
+    "https://note.com/holy_viper7334/n/n2500ca63c685"
+   ]
+  },
+  {
+   "query": "site:x.com 鉄鋼業",
+   "results": [
+    "https://x.com/meti_NIPPON/status/2037481100147298557",
+    "https://x.com/nippon_steel_/status/2113444601189265583",
+    "https://x.com/meti_NIPPON/status/1437717898932281346",
+    "https://x.com/KS_1013/status/1875458282091127235?lang=en",
+    "https://x.com/sangyo_web",
+    "https://x.com/meti_NIPPON/status/2116130218410950809",
+    "https://x.com/uehara_sato4/status/1284523714097278978",
+    "https://x.com/JFE_shoji/status/2087353001954701505",
+    "https://x.com/rockfish31/status/1879022246863556829",
+    "https://x.com/cao_keizai/status/2043611687442624682"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 鉄鋼業",
+   "results": [
+    "https://jp.linkedin.com/pulse/from-steel-boom-transformation-how-global-industry-changed-gupta-mvwhc?tl=ja",
+    "https://jp.linkedin.com/pulse/steel-industry-net-zero-charting-practical-pathway-prof-ujjal-xxhuc?tl=ja",
+    "https://jp.linkedin.com/in/shigeki-ueta-919725278",
+    "https://jp.linkedin.com/company/primetals?trk=products_details_guest_organization_image",
+    "https://aq.linkedin.com/jobs/view/%E6%9C%AC%E7%A4%BE-%E8%B3%87%E6%9D%90%E8%B3%BC%E8%B2%B7-at-jfe-steel-corporation-4079273086",
+    "https://www.linkedin.com/posts/kazutakakuroda_%E7%9F%B3%E7%82%AD%E4%BE%9D%E5%AD%98%E3%81%AE%E9%89%84%E9%8B%BC%E6%A5%AD%E3%82%92%E6%95%91%E3%81%86%E3%81%8B%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E6%96%BD%E8%A8%AD%E3%81%AE%E5%BB%BA%E8%A8%AD%E9%80%B2%E3%82%80%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3-activity-7211491336636522499-CJw5",
+    "https://jp.linkedin.com/pulse/holding-steel-higher-standard-what-responsiblesteel-gvbif?tl=ja",
+    "https://jp.linkedin.com/company/eversteel-official",
+    "https://jp.linkedin.com/pulse/top-6-steel-companies-adopting-ai-automation-2025-mohsen-hamidinejad-9sylf?tl=ja",
+    "https://jp.linkedin.com/pulse/role-performance-engineering-enhancing-product-quality-steel-rdwmc?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 鉄鋼業",
+   "results": [
+    "https://www.facebook.com/jetroinnovation/posts/%E9%89%84%E9%8B%BC%E6%A5%AD%E3%81%8B%E3%82%89%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%A1%97%E3%81%AB%E5%A4%89%E8%B2%8C%E3%81%97%E3%81%9F%E3%83%94%E3%83%83%E3%83%84%E3%83%90%E3%83%BC%E3%82%B0%E7%AC%AC6%E5%8F%B7%E3%81%A7%E3%81%AF%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AEai%E6%8A%80%E8%A1%93%E3%81%AB%E5%8A%AA%E3%82%81%E3%82%8B%E3%83%8B%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%88%E3%83%8E%E3%83%9F%E3%83%BC%E7%A4%BE%E3%81%8C%E7%B1%B3%E4%BC%81%E6%A5%AD%E3%82%AB%E3%83%9E%E3%83%B3%E7%A4%BE%E3%81%A8%E6%96%B0%E4%BA%8B%E6%A5%AD%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%BE%E3%81%9F%E5%88%A5/4460640200641895/",
+    "https://www.facebook.com/100063458799698/posts/%E3%82%B9%E3%83%A9%E3%83%96%E3%83%A6%E3%83%BC%E3%83%A9%E3%82%B7%E3%82%A2%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%85%AC%E9%96%8B%E8%AC%9B%E6%BC%94%E4%BC%9A%E3%81%AE%E7%AC%AC59%E5%9B%9E%E3%81%AF%E6%9C%8D%E9%83%A8%E5%80%AB%E5%8D%93%E9%89%84%E3%81%AF%E5%9B%BD%E5%AE%B6%E3%81%AA%E3%82%8A%E6%88%A6%E4%BA%89%E3%81%8C%E8%A9%A6%E3%81%99%E3%83%AD%E3%82%B7%E3%82%A2%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E9%89%84%E9%8B%BC%E6%A5%AD%E3%81%AE%E5%BA%95%E5%8A%9B%E3%81%A8%E9%A1%8C%E3%81%979%E6%9C%889%E6%97%A5%E9%96%8B%E5%82%AC%E3%81%A7%E3%81%99%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E9%96%8B%E5%82%AC%E3%81%A7%E3%81%99%E3%81%AE%E3%81%A7%E3%81%8A%E6%B0%97%E8%BB%BD%E3%81%AB/1678044467654164/",
+    "https://www.facebook.com/61552288934642/posts/%E9%89%84%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%84%E3%81%BE%E3%82%82%E7%8F%BE%E5%A0%B4%E3%81%A7%E6%94%AF%E3%81%88%E3%82%8B%E4%BA%BA%E3%81%9F%E3%81%A1jfe%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E4%BA%AC%E6%B5%9C%E5%8A%B4%E5%83%8D%E7%B5%84%E5%90%88-%E7%AC%AC68%E5%9B%9E%E5%AE%9A%E6%9C%9F%E5%A4%A7%E4%BC%9A%E3%81%AB%E3%81%A6%E3%81%94%E6%8C%A8%E6%8B%B6%E3%81%97%E7%B1%B3%E5%A1%9A%E5%A7%94%E5%93%A1%E9%95%B7%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%81%A8%E3%81%99%E3%82%8B%E7%9A%86%E3%81%95%E3%81%BE%E3%81%AB%E6%98%A8%E5%B9%B4%E3%81%AE%E5%BE%A1%E7%A4%BC%E3%82%92%E3%81%8A%E4%BC%9D%E3%81%88%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E9%89%84%E9%8B%BC%E6%A5%AD%E3%82%92%E5%8F%96%E3%82%8A/122298451574076297/",
+    "https://www.facebook.com/IndiaInJapan/posts/%E5%95%86%E5%B7%A5%E5%A4%A7%E8%87%A3%E3%81%AE%E8%A8%AA%E6%97%A5%E5%8D%B0%E6%97%A5%E7%B5%8C%E6%B8%88%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%83%94%E3%83%A6%E3%83%BC%E3%82%B7%E3%83%A5%E3%82%B4%E3%83%A4%E3%83%AB-piyush-goyal-%E5%95%86%E5%B7%A5%E5%A4%A7%E8%87%A3%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E3%81%AE%E6%A9%8B%E6%9C%AC%E8%8B%B1%E4%BA%8C%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E4%BC%9A%E9%95%B7%E5%85%BCceo%E3%81%8A%E3%82%88%E3%81%B3%E5%90%8C%E7%A4%BE%E5%B9%B9%E9%83%A8%E3%81%A8%E4%BC%9A%E8%AB%87%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E9%89%84/1499516708887117/",
+    "https://www.facebook.com/shinjiro.koizumi/posts/%E4%BB%8A%E6%97%A5%E3%81%AF%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E3%81%AE%E5%90%9B%E6%B4%A5%E8%A3%BD%E9%89%84%E6%89%80%E3%82%92%E8%A6%96%E5%AF%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E8%AD%B0%E5%93%A1%E3%81%AF%E8%8F%85%E5%89%8D%E7%B7%8F%E7%90%86%E3%81%A8%E5%A4%A7%E5%B2%A1%E8%A1%86%E8%AD%B0%E9%99%A2%E8%AD%B0%E5%93%A1%E3%81%A8%E7%A7%81%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%A9%E3%83%AB%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6%E9%89%84%E9%8B%BC%E6%A5%AD%E3%81%AF%E4%BB%96%E7%94%A3%E6%A5%AD%E3%81%A8%E6%AF%94%E3%81%B9%E3%81%A6%E3%82%82%E5%A4%A7%E5%A4%89%E3%81%AA%E5%8A%AA%E5%8A%9B%E3%82%92%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E4%B8%AD%E3%81%A7%E7%8F%BE%E5%A0%B4/899996328161867/",
+    "https://www.facebook.com/ochadai/posts/%E5%AD%A6%E5%86%85%E5%90%91%E3%81%91info%E6%97%A5%E9%89%84%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA%E6%A0%AA%E5%AF%84%E9%99%84%E8%AC%9B%E5%BA%A7it%E3%81%A8%E7%94%A3%E6%A5%AD%E7%95%8C%E3%82%B3%E3%82%A2%E7%A7%91%E7%9B%AE%E6%83%85%E5%A0%B1%E3%81%A7%E3%81%AF%E7%94%A3%E6%A5%AD%E7%95%8C%E3%81%A7%E5%88%A9%E6%B4%BB%E7%94%A8%E3%81%95%E3%82%8C%E3%82%8B%E6%A5%AD%E5%8B%99%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E7%89%B9%E5%BE%B4%E3%82%84iotai%E3%81%AA%E3%81%A9%E6%9C%80%E6%96%B0%E3%81%AEit%E4%BA%8B%E4%BE%8B%E3%82%92%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB%E6%B2%BF%E3%81%A3%E3%81%A6%E7%B4%B9/1438889771414041/",
+    "https://www.facebook.com/100008876683753/videos/80%E5%B9%B4%E4%BB%A3%E3%81%AE%E9%89%84%E9%8B%BC%E6%A5%AD%E5%9C%B0%E5%B8%AF%E3%81%8C%E8%88%9E%E5%8F%B0-%E3%83%93%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%A7%E3%82%A8%E3%83%AB%E3%81%AE-allentown-allentown-billy-joel80%E5%B9%B4%E4%BB%A3%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A6%E3%83%B3-%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E6%9D%B1%E9%83%A8%E3%81%AB%E4%BD%8D%E7%BD%AE%E3%81%99%E3%82%8B%E9%83%BD/1388039166565061/",
+    "https://www.facebook.com/murata.kyoko.jp/posts/%E5%9B%BD%E4%BC%9A%E8%A6%8B%E5%AD%A6jfe%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E4%BA%AC%E6%B5%9C%E5%8A%B4%E7%B5%84%E7%94%A3%E6%A5%AD%E5%88%A5%E3%81%A7%E3%81%AF%E9%89%84%E9%8B%BC%E6%A5%AD%E3%81%8C%E6%9C%80%E3%82%82%E5%A4%9A%E3%81%8Fco2%E3%82%92%E6%8E%92%E5%87%BA%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%B0%B4%E7%B4%A0%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E9%89%84%E3%82%92%E4%BD%9C%E3%82%8B%E7%A0%94%E7%A9%B6ccusco2%E3%81%AE%E6%B4%BB%E7%94%A8%E8%B2%AF%E7%95%99%E7%AD%89%E3%81%8C%E8%84%B1%E7%82%AD%E7%B4%A0%E3%81%AE%E9%8D%B5%E3%81%A7%E3%81%99%E6%B0%B4%E7%B4%A0%E7%A4%BE%E4%BC%9A%E6%8E%A8%E9%80%B2%E6%B3%95%E3%82%84/1072414801591220/",
+    "https://www.facebook.com/100063458799698/posts/9%E6%9C%889%E6%97%A5%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%97%E3%81%9F%E7%AC%AC59%E5%9B%9E%E3%82%B9%E3%83%A9%E3%83%96%E3%83%A6%E3%83%BC%E3%83%A9%E3%82%B7%E3%82%A2%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%85%AC%E9%96%8B%E8%AC%9B%E6%BC%94%E4%BC%9A%E3%81%A7%E3%81%AE%E8%AC%9B%E6%BC%94%E9%89%84%E3%81%AF%E5%9B%BD%E5%AE%B6%E3%81%AA%E3%82%8A%E6%88%A6%E4%BA%89%E3%81%8C%E8%A9%A6%E3%81%99%E3%83%AD%E3%82%B7%E3%82%A2%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E9%89%84%E9%8B%BC%E6%A5%AD%E3%81%AE%E5%BA%95%E5%8A%9B%E3%81%AE%E8%AC%9B%E6%BC%94%E5%8B%95%E7%94%BB%E3%82%92youtube%E9%85%8D%E4%BF%A1%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/1707243188067625/",
+    "https://www.facebook.com/hagebon.net/"
+   ]
+  },
+  {
+   "query": "鉄鋼業 note 社長",
+   "results": [
+    "https://note.com/tag/%E9%89%84%E9%8B%BC%E6%A5%AD%E7%95%8C",
+    "https://note.com/keisoumainte/n/n8a5a82e0422f",
+    "https://note.com/steelwatch",
+    "https://note.com/steel_san/n/nfcd26662eabe",
+    "https://note.com/tag/%E9%89%84%E9%8B%BC%E6%A5%AD",
+    "https://note.com/enishi_tumugu/n/n48010084d4cc",
+    "https://diamond.jp/articles/-/288693",
+    "https://note.com/manakamura307/n/n68260e0b546c",
+    "https://note.kotora.jp/n/nec6a1dc97d94",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "鉄鋼業 X 投稿",
+   "results": [
+    "https://x.com/nippon_steel_/with_replies",
+    "https://www.nikkei.com/article/DGXZQOGN17BXP0X10C23A8000000/",
+    "https://www.japanmetal.com/sns_k",
+    "https://www.nipponsteel.com/company/sns/",
+    "https://x.com/KS_1013/status/1875458282091127235?lang=en",
+    "https://www.jisf.or.jp/info/book/pr.html",
+    "https://www.instagram.com/p/C0tEofktUM5/?hl=bg",
+    "https://syukatsu-kaigi.jp/companies/109706/screening_experiences/company_study/168088",
+    "https://tetsutohagane.net/submission/guide_to_authors/instructions_to_authors",
+    "https://x.com/TEKKOSHIMBUN/status/2115566276404019685"
+   ]
+  },
+  {
+   "query": "iron and steel industry Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/green-steel-future-japanaustralia-resource-hj90e",
+    "https://www.linkedin.com/pulse/chinese-steel-turning-japanese-neal-brewster",
+    "https://www.linkedin.com/pulse/steel-production-electric-power-japan-dan-shulman",
+    "https://www.linkedin.com/pulse/iron-steel-mills-ferroalloy-market-us-japan-korea-europe-jp9vf",
+    "https://www.linkedin.com/pulse/nippon-steel-choosing-state-4-billion-mill-harborwright-ltqhe",
+    "https://ca.linkedin.com/jobs/steel-industry-jobs",
+    "https://www.linkedin.com/pulse/japan-steel-market-landscape-industry-forecast-qr-pro-trend-lab-ilxnf/",
+    "https://www.linkedin.com/pulse/6-major-problem-faced-iron-steel-industry-ca-vivek-agrawal",
+    "https://www.linkedin.com/posts/andrew-wylegala_nippons-us-steel-plans-to-build-19b-facility-activity-7455381220529659905-m5uQ",
+    "https://www.linkedin.com/posts/aziz-rahman-a28a58237_the-technology-behind-japans-steel-rebar-activity-7310996440816779264-NVvd"
+   ]
+  }
+ ],
+ "missing": {}
+}

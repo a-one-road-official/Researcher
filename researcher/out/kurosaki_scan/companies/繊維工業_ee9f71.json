@@ -1,0 +1,1735 @@
+{
+ "name": "繊維工業",
+ "en": "textile industry Japan",
+ "aliases": [
+  "繊維 製造",
+  "炭素繊維",
+  "CFRP 製造"
+ ],
+ "context": "製造業・素材",
+ "kind": "market",
+ "researched_at": "2026-11-04T13:01:36.747550+00:00",
+ "evidence": {
+  "事業所数・従業者数（経済センサス等）": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数14 産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "福井県繊維産業の推移と全国比較(20110年～2020年）(4人以上事業所のみ）",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（工業統計調査 4人以上の事業所）※2011年、2015年、2020年は経済センサス調査",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 676 611 594 577 564 550 529 509 488 488",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 16,942 15,338 15,668 15,540 15,442 15,567 15,391 15,137 14,611 14,053",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "福井の事業所数 676 611 594 577 564 550 529 509 488 488",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国の事業所数 16,850 15,010 14,048 13,430 14,745 12,171 11,582 11,087 10,586 9,448",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "福井の従業者数 16,942 15,338 15,668 15,540 15,442 15,567 15,391 15,137 14,611 14,053",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国の従業者数 293,983 286,148 276,854 268,135 268,299 258,823 251,923 247,591 239,139 219,843",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の資料によれば、繊維工業の事業所数は2005年には約23,000あったものが、2020年には約9,400まで減少し、過去15年で半分以下となっています",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 2.8万（2019年） 従業者数 27.3万⼈（2019年） 出荷額 3.9兆円（2019年）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●繊維産業は全製造業のうち8.4%の事業所数、3.4%の従業員数を占める産業",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数1985年",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●従業者数のピークは６０年代、事業所数のピークは７０年代と出荷額より先にピークアウト",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●2010年以降出荷額横ばい＋事業所数・従業員減少続く＝再び⽣産性が上昇",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の繊維工業製品の出荷額は緩やかな減少基調にあり、市場規模は2021年度は3兆6,526億円（2017年比：92％、工業統計）となっています",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   }
+  ],
+  "需要が増えるか": [
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等の都道府県別順位",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額等 2,687 2,386 2,347 2,399 2,510 2,426 2,396 2,422 2,306 1,959",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等の推移",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "福井の製造品出荷額等 268,708 238,578 234,708 239,927 251,021 242,618 239,594 242,229 230,561 195,880",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国の製造品出荷額",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）有効求人数（季節調整値）は 68,670 人で、前月と比べ 0.8％増加し、３か月ぶりに増加した",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）新規求人数（季節調整値）は 25,400 人で、前月と比べ 5.6％増加し２か月連続で増加した",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）新規求職者数（同）は 8,634 人で、前月と比べ 0.9％増加し、２か月連続で増加した",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業（＋64人、20.9％増）で増加し、製造業（▲604人、19.1％減）、サービス業（▲393 人、8.3％減）、",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人で 4.9％増加した",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、有効求人倍率（受理地別）は、1.55 倍で、前年比 0.01ポイント上昇",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 前年比",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年差前年比前年比",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１、２の指標については、下段は対前年比（％）、ただし（ ）内は差",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、繊維業界の現在の市場規模や動向、企業シェアランキングを通して、業界の現状を詳しく解説します",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "繊維業界における市場規模と動向",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "繊維業界の市場規模と動向は、国内市場の成熟化や海外生産シフトの影響を受けて変化しています",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場規模は長期的に減少傾向で、近年は横ばい状態が続いていました",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場規模・生産量の推移",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "繊維業界の国内市場規模や生産量の推移を示すデータを見てみましょう",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのデータから、繊維業界の国内市場規模と生産量の推移について、以下のことがわかります",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "衣料品等の国内市場規模は、1990年代に入り減少傾向を示していましたが、2000年以降は横ばいの状況が続いていました",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2020年以降は新型コロナウイルス感染拡大の影響を大きく受け、再び減少傾向に転じています",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年には11.0兆円だった市場規模が、2021年には8.7兆円まで縮小しており、コロナ禍による外出自粛や消費行動の変化が市場に大きな影響を与えたことがわかります",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、アジア地域に多くの縫製工場が集中していることや、日本の高品質な生地に対する需要が高いことを表していると考えられます",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの課題は、業界の長期的な成長と存続に大きな影響を及ぼす可能性があり、早急な対応が求められます",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "繊維業界の動向と将来性は？市場規模・成長分野・最新技術を解説",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模、成長分野、最新技術、主要企業、ビジネスモデルなど、繊維業界の今後を理解するための情報を網羅的に掲載しています",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. 繊維業界の市場規模",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の日本の繊維業界の市場規模は約9兆円でした",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "近年は、産業資材用繊維の市場規模が拡大傾向にあります",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、繊維業界には、以下のような成長機会も存在します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "高機能繊維の需要拡大",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツウェアや医療分野など、高機能繊維の需要が拡大しています",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "環境負荷の低いリサイクル繊維やオーガニックコットンなどの需要が高まっています",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "これらの課題を克服し、成長機会を捉えることで、繊維業界は今後も発展していくと考えられます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツウェアや医療分野、航空機など、高い機能性が求められる分野での需要増加が見込まれます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "炭素繊維やアラミド繊維といった高機能素材は、軽量化や強度向上に貢献し、航空機や自動車などの輸送機器分野で需要が拡大しています",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "新素材開発・用途拡大、非化石原料由来の素材開発等",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 2.8万（2019年） 従業者数 27.3万⼈（2019年） 出荷額 3.9兆円（2019年）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額（兆円）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⽇本の繊維製造品出荷額",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⽇本の繊維産業の推移（出荷額）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●従業者数のピークは６０年代、事業所数のピークは７０年代と出荷額より先にピークアウト",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●バブル経済崩壊までは、出荷額の拡⼤とともに⽣産性も上昇（規模の経済︖）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●2010年以降出荷額横ばい＋事業所数・従業員減少続く＝再び⽣産性が上昇",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所当たり、従業員当たり出荷額に⾒る⽣産性の推移（単位︓万円）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所当たり出荷額",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員当たり出荷額",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●国内のアパレル市場規模は、バブル期の約15兆円から10兆円程度に減少する⼀⽅、供給量は",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルでは今後も市場が成長すると予測されています",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で海外市場は拡大傾向にある",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の繊維工業製品の出荷額は緩やかな減少基調にあり、市場規模は2021年度は3兆6,526億円（2017年比：92％、工業統計）となっています",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "繊維市場はグローバルではCAGR4.4％で拡大するとの予測がみられ、2028年には1兆4千億米ドルに到達する見込みです",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、国内市場では海外の安価な輸入品の増加、輸出品の減少（輸出負け）、加えて国内の人口減少による需要減や担い手不足の影響を受けて逆風下にあります",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、炭素繊維やアラミド繊維などの高機能繊維では国内企業が強みを持ち、東レや帝人は特定製品で世界トップシェアを誇り、海外企業との提携による販路拡大を推し進めています",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "ECによるマーケット拡大",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   }
+  ],
+  "大手プラットフォームの有無": [
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "全国シェア 4.0% 4.1% 4.2% 4.3% 3.8% 4.5% 4.6% 4.6% 4.6% 5.2%",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国シェア 5.8% 5.4% 5.7% 5.8% 5.8% 6.0% 6.1% 6.1% 6.1% 6.4%",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国シェア 6.8% 6.1% 6.2% 6.3% 6.3% 6.4% 6.4% 6.4% 6.2% 5.7%",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12 ハローワークのマッチング機能に関する業務の主要指標についての数値目標及び実績＜その２＞（令和５年10月末現在）",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11 ハローワークのマッチング機能に関する業務の主要指標についての数値目標及び実績＜その１＞（令和５年12月末現在）",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、繊維業界の現在の市場規模や動向、企業シェアランキングを通して、業界の現状を詳しく解説します",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "繊維業界の企業シェアランキング",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "繊維業界において大きなシェアを占めている企業の動向は、業界全体の方向性を示す重要な指標となります",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "このランキングから明らかなように、「三菱ケミカルグループ」と「東レ」が業界内で特に高いシェアを占めています",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "両社が高いシェアを維持できている背景には、長年培ってきた技術力と幅広い製品ラインナップがあります",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県と岐阜県にまたがる尾州地域は国内最大の毛織物の産地として知られており、国内シェア70％という高い数字を誇っています",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "そのシェアは、国内タオルの50％以上を誇ります",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "アラミド繊維は世界シェア50％もの高い数値を誇っており、さらにポリアリレート繊維は世界で唯一、日本企業だけが生産している繊維になります",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "【6/26開催】世界シェアNo.1を生んだ「Mr.電子コンパス」…",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "炭素繊維やアラミド繊維などの高機能繊維で世界トップクラスのシェアを誇り、航空機や自動車などの分野で高い評価を得ています",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "消費者同士が繊維製品を売買できるプラットフォームサービスです",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "（大手アパレルは",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "安価な製品製造を得意とする海外勢では模倣が困難な炭素繊維素材やアラミド繊維などの高付加価値製品を開発し、海外企業との提携、そして世界シェアトップの地位を獲得するなどの成果を挙げています",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ、帝人の２強は高機能繊維で世界シェアNo.1",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、炭素繊維やアラミド繊維などの高機能繊維では国内企業が強みを持ち、東レや帝人は特定製品で世界トップシェアを誇り、海外企業との提携による販路拡大を推し進めています",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "両社ともに、炭素繊維、アラミド繊維では世界シェアトップクラスの製品を有しており、革新的な製品を武器に海外市場の開拓を進めていることが増収に寄与していると考えられます",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ：炭素繊維（ポリアクリロニトリル系中心）、世界シェアNo.1",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "帝人：アラミド繊維（パラ系）、世界シェアNo.1",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員一人あたり売上高では大手企業を抑えて、総合化学企業の三菱ケミカルがトップなっており、2.9億円/人と他社を大きく引き離しています",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "# ライドシェア",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "JETRO e-Venue 国際ビジネスマッチングサイト | ジェトロのサービス - ジェトロ",
+    "url": "https://www.jetro.go.jp/services/e-venue/",
+    "pass": 3
+   },
+   {
+    "quote": "e-Venue（国際ビジネスマッチングサイト)",
+    "url": "https://www.jetro.go.jp/services/e-venue/",
+    "pass": 3
+   },
+   {
+    "quote": "JETRO e-Venue 国際ビジネスマッチングサイト",
+    "url": "https://www.jetro.go.jp/services/e-venue/",
+    "pass": 3
+   },
+   {
+    "quote": "国際ビジネスマッチングサイト",
+    "url": "https://www.jetro.go.jp/services/e-venue/",
+    "pass": 3
+   },
+   {
+    "quote": "JETRO e-Venueは、独立法人日本貿易振興機構（ジェトロ）が運営する国際ビジネスマッチングサイトです",
+    "url": "https://www.jetro.go.jp/services/e-venue/",
+    "pass": 3
+   },
+   {
+    "quote": "ご希望の条件に自動マッチングした新規登録案件（パートナー候補）を「おすすめ案件」としてメールでお知らせします",
+    "url": "https://www.jetro.go.jp/services/e-venue/",
+    "pass": 3
+   },
+   {
+    "quote": "中国バイヤーとのオンラインマッチングプラットフォーム（",
+    "url": "https://www.jetro.go.jp/services/e-venue/",
+    "pass": 3
+   },
+   {
+    "quote": "e-Venue（国際ビジネスマッチングサイト）",
+    "url": "https://www.jetro.go.jp/services/e-venue/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向け海外展開現地支援プラットフォーム",
+    "url": "https://www.jetro.go.jp/services/e-venue/",
+    "pass": 3
+   },
+   {
+    "quote": "コンピュータカラーマッチング測色試験",
+    "url": "https://www.tec-lab.pref.gunma.jp/textile/p20210019/",
+    "pass": 3
+   },
+   {
+    "quote": "ではそれぞれの工程ごとに、世界シェアを見ていきます",
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "pass": 3
+   },
+   {
+    "quote": "1990年以降、各国からの技術導入を進め、今ではあらゆる分野でのシェアを獲得し世界の工場となり、アメリカと並ぶ大国となっています",
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "pass": 3
+   }
+  ],
+  "取引のやり方・不便": [
+   {
+    "quote": "パルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介・労働者派遣業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "（電話） 082（502）7831",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 職業紹介関係指標（原数値） ２ 雇用保険関係指標",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以下に、繊維業界の売上高ランキングを紹介します",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "1.2. 主要企業（東レなど有名企業）の紹介とDXへの取り組み",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、日本を代表する繊維メーカーである東レ株式会社についてご紹介します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "IoT導入による工場の見える化とは？成功事例と現場改革におけるメリット・注意点を紹介",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "センター紹介",
+    "url": "https://www.aichi-inst.jp/mikawa/analytical/request/list/post_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "動画による研究紹介",
+    "url": "https://www.aichi-inst.jp/mikawa/analytical/request/list/post_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "電話: 0533-59-7146 FAX: 0533-59-7176",
+    "url": "https://www.aichi-inst.jp/mikawa/analytical/request/list/post_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "群馬産業技術センターの実験室紹介",
+    "url": "https://www.tec-lab.pref.gunma.jp/textile/p20210019/",
+    "pass": 3
+   },
+   {
+    "quote": "東毛産業技術センターの各部屋紹介",
+    "url": "https://www.tec-lab.pref.gunma.jp/textile/p20210019/",
+    "pass": 3
+   },
+   {
+    "quote": "センターの研究紹介",
+    "url": "https://www.tec-lab.pref.gunma.jp/textile/p20210019/",
+    "pass": 3
+   },
+   {
+    "quote": "電話 027-290-3030/FAX 027-290-3040",
+    "url": "https://www.tec-lab.pref.gunma.jp/textile/p20210019/",
+    "pass": 3
+   },
+   {
+    "quote": "電話 0276-40-5090/FAX 0276-40-5091",
+    "url": "https://www.tec-lab.pref.gunma.jp/textile/p20210019/",
+    "pass": 3
+   },
+   {
+    "quote": "電話 0277-52-9950/FAX 0277-52-3890",
+    "url": "https://www.tec-lab.pref.gunma.jp/textile/p20210019/",
+    "pass": 3
+   },
+   {
+    "quote": "にくわしく紹介されています",
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "福井県繊維産業の推移と全国比較(20110年～2020年）(4人以上事業所のみ）",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "単位：所 事業所数の推移",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "単位：人 従業者数の推移",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等の推移",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．整数値の増減における「0.0」「▲0.0」は、小数点第２位を四捨五入したものである",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "基調判断「県内の雇用情勢は、求人が求職を上回って推移しており、一部",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）有効求人数（季節調整値）は 68,670 人で、前月と比べ 0.8％増加し、３か月ぶりに増加した",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）新規求人数（季節調整値）は 25,400 人で、前月と比べ 5.6％増加し２か月連続で増加した",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）新規求職者数（同）は 8,634 人で、前月と比べ 0.9％増加し、２か月連続で増加した",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業（＋64人、20.9％増）で増加し、製造業（▲604人、19.1％減）、サービス業（▲393 人、8.3％減）、",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（▲32人、0.6％減）、学術研究，専門・技術サービス業（▲30人、6.0％減）で減少した",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 新規求職者数（常用、原数値）は、在職者が 1,821人で、前年同月と比べ 0.6％減少し、離職者は 3,785",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人で 4.9％増加した",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６ 12 月末現在の雇用保険被保険者数は 1,016,798 人で、前年同月比で 0.8％減少した",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "給資格決定件数は 1,934件で、前年同月比で 0.2％減少した",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和５年における月の平均の有効求人数は、68,648 人で、前年に比べ 0.1％減少",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場規模は長期的に減少傾向で、近年は横ばい状態が続いていました",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、生産量は減少が続いており、特に2020年以降はコロナ禍の影響で減少傾向が継続しています",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場規模・生産量の推移",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "繊維業界の国内市場規模や生産量の推移を示すデータを見てみましょう",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのデータから、繊維業界の国内市場規模と生産量の推移について、以下のことがわかります",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "衣料品等の国内市場規模は、1990年代に入り減少傾向を示していましたが、2000年以降は横ばいの状況が続いていました",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2020年以降は新型コロナウイルス感染拡大の影響を大きく受け、再び減少傾向に転じています",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の繊維関連品目の輸出推移",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の繊維関連品目の輸出推移を示すデータを見てみましょう",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "今治タオルの歴史は決して平坦ではなく、バブル崩壊後、海外から安価な製品が大量に入ってくると生産量はピーク時の半分まで減少し、企業や従事者も激減しました",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに深刻な問題として、繊維工業における事業所数と就業者数の減少が挙げられます",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の資料によれば、繊維工業の事業所数は2005年には約23,000あったものが、2020年には約9,400まで減少し、過去15年で半分以下となっています",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツウェアや医療分野、航空機など、高い機能性が求められる分野での需要増加が見込まれます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "２．我が国繊維産業の推移",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．⽇本の繊維産業の推移",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⽇本の繊維産業の推移（出荷額）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⾜元(2010以降)は横ばいで推移",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国の輸出総額と繊維品輸出額の推移",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減少傾向は継続中",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⽇本の繊維産業の推移（事業所数、従業者数）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⽇本の繊維産業の推移（⽣産性）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●2010年以降出荷額横ばい＋事業所数・従業員減少続く＝再び⽣産性が上昇",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所当たり、従業員当たり出荷額に⾒る⽣産性の推移（単位︓万円）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●国内のアパレル市場規模は、バブル期の約15兆円から10兆円程度に減少する⼀⽅、供給量は",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⾐料品購⼊単価・輸⼊単価の推移国内アパレル供給量・市場規模の推移",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、国内の繊維産業の売上高は海外トレンドとは逆行し、緩やかな減少基調にあります",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "国内繊維業界は減少基調",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の繊維工業製品の出荷額は緩やかな減少基調にあり、市場規模は2021年度は3兆6,526億円（2017年比：92％、工業統計）となっています",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、国内市場では海外の安価な輸入品の増加、輸出品の減少（輸出負け）、加えて国内の人口減少による需要減や担い手不足の影響を受けて逆風下にあります",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の繊維市場は減少基調であるものの、両社の売上は堅調に伸長を続けています（東レ、帝人ともに21年度比：110％超）",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "・市場規模、推移",
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "pass": 3
+   },
+   {
+    "quote": "前処理及び増加処理",
+    "url": "https://www.tec-lab.pref.gunma.jp/textile/p20210019/",
+    "pass": 3
+   },
+   {
+    "quote": "国が工業化する過程として、軽工業→重工業への推移があります",
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "pass": 3
+   }
+  ],
+  "払う単価の手がかり": [
+   {
+    "quote": "（単位:所、人、百万円）",
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "［⑧÷（②＋⑧）］ ［十万円］",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１ 数値目標は令和５年度における年間目標値で、実績は当月までの累計である",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１ 数値目標は令和５年度における年間目標値で、実績は２か月後の集計となるため、前月又は前々月までの累計となる",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新規求職申込件数、就職件数及び就職率の推移（10年間）",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事とハードウェアスタートアップが歩んだ共創の5年間｜住友商…",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "単位︓1930年まで1,000円、1935年以降100万円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所当たり、従業員当たり出荷額に⾒る⽣産性の推移（単位︓万円）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（万円 左軸）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（万円 右軸）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●⾐料品の購⼊単価および輸⼊単価は、1991年を基準に６割前後の⽔準に下落",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⾐料品購⼊単価・輸⼊単価の推移国内アパレル供給量・市場規模の推移",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典︓購⼊単価=総務省「家計調査」，",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "輸⼊単価=財務省「貿易統計」よりそれぞれ算出",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "購⼊単価指数 輸⼊単価指数",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "単価（円/点）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⾐料品の輸出⼊単価",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "pass": 3
+   }
+  ],
+  "働き手が減るか（人手不足）": [
+   {
+    "quote": "有効求人倍率 1.53倍",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 有効求人倍率（受理地別・季節調整値）は 1.53 倍となり、前月から 0.01 ポイント上昇となった",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）就業地別有効求人倍率（同）は 1.40 倍で、前月と同水準となった",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、受理地別有効求人倍率を 0.13",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 正社員有効求人倍率（原数値）は 1.31 倍で、前年同月と比べて 0.02 ポイント低下した",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 新規求職者数（常用、原数値）は、在職者が 1,821人で、前年同月と比べ 0.6％減少し、離職者は 3,785",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、有効求人倍率（受理地別）は、1.55 倍で、前年比 0.01ポイント上昇",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 有効求人・求職、有効求人倍率の推移（原数値）",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④ パートタイム有効求人・求職、有効求人倍率の推移（原数値）",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 正社員有効求人・求職、有効求人倍率の推移（原数値）",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求人数の差 有効求人倍率 有効求人倍率 求人数の差",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "離職者 雇用者",
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに深刻な問題として、繊維工業における事業所数と就業者数の減少が挙げられます",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "就業者数も同様に減少傾向にあり、2007年に68万人いた就業者が、2022年には35万人まで減少しています",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "同時に高齢化も進んでおり、従事者の過半数が50歳以上という産地も少なくないようです",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、企業の後継者不足も深刻化しています",
+    "url": "https://www.peaks-media.com/8844/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の繊維業界は、少子高齢化やライフスタイルの変化に伴い、国内市場は縮小傾向にあります",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "後継者不足: 繊維業界は中小企業が多く、後継者不足が深刻化しています",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足の原因と効果的な対策法：人材不足解消のための実践的解説",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   },
+   {
+    "quote": "現場で培った「利益を生む自動化」の成功モデルを軸に、IoT活用、ロボット導入、基幹システム刷新など、生産性向上から人手不足解消まで幅広く対応",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "試験・分析・測定業務｜依頼試験の項目・料金｜ 繊維工業 ... — 試験・分析・測定業務｜依頼試験の項目・料金｜ 繊維工業 ... あいち産業科学技術総合センター https://www.aichi-inst.jp > mikawa > request > list > post_2",
+    "url": "https://www.aichi-inst.jp/mikawa/analytical/request/list/post_2.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "世界の工業3( 繊維工業 )｜かわだ - note 世界の工業3( 繊維工業 )｜かわだ - note note https://note.com > ファッション > ファッション全般",
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "pass": 3
+   },
+   {
+    "quote": "「#その他の 繊維 製品製造業」の人気タグ記事一覧 - note 「#その他の 繊維 製品製造業」の人気タグ記事一覧 - note note https://note.com > hashtag > その他の繊維製品製造業",
+    "url": "https://note.com/hashtag/%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E7%B9%8A%E7%B6%AD%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E6%A5%AD?f=new",
+    "pass": 3
+   },
+   {
+    "quote": "繊維工業 の人気・新着記事まとめ - note 繊維工業 の人気・新着記事まとめ - note note https://note.com > tag > 繊維工業",
+    "url": "https://note.com/tag/%E7%B9%8A%E7%B6%AD%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "国が工業化する過程として、軽工業→重工業への推移があります。",
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "pass": 3
+   },
+   {
+    "quote": "イギリスで200年前に興った産業革命も、マンチェスターの綿工業から始まっています。かつての植民地だったインドから綿花を輸入していました。アメリカも同様に、アフリカから黒人奴隷を南部に連れてきて綿花を栽培させ、それをボストンまで運んで綿工業が発展しました。",
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "pass": 3
+   },
+   {
+    "quote": "繊維工業は、労働集約的なので、安価な人件費(＝1人当たりGNIが低い)国で盛んになります。そのため工業化が進み人件費が上がると、その国の軽工業は廃れ、重工業に移行していきます。",
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも、かつては綿工業を中心とした阪神工業地帯が栄えましたが、高度経済成長とともに機械類(自動車産業)を中心とした中京工業地帯が中心となりました。",
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "pass": 3
+   },
+   {
+    "quote": "繊維工業は、紡績(糸を作る工程)、織物(布を作る工程)、縫製(衣服を作る工程)の3つに分かれます。ではそれぞれの工程ごとに、世界シェアを見ていきます。",
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "pass": 3
+   },
+   {
+    "quote": "糸の原料には天然繊維と合成繊維とがあります。天然繊維は農産物、合成繊維は石油を原料とした工業製品です。",
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "pass": 3
+   },
+   {
+    "quote": "天然繊維：綿花、羊毛、麻、絹(シルク)など",
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "pass": 3
+   },
+   {
+    "quote": "合成繊維：ポリエステル、アクリル、ナイロンなど",
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "pass": 3
+   },
+   {
+    "quote": "「#その他の繊維製品製造業」の人気タグ記事一覧｜note",
+    "url": "https://note.com/hashtag/%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E7%B9%8A%E7%B6%AD%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E6%A5%AD?f=new",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "久米繊維工業【KUME.JP】 (@kume_tokyo1935) / X 1935年創業 日本製Tシャツ&スウェットメーカー久米繊維工業の公式Xです。 製品のご紹介や再入荷のお知らせ、コラボレーション、イベント情報をお届けいたします。 本社・ファクトリーショップ (東京）、縫製工場 (千葉）、プリント工場 (埼玉) 。",
+    "url": "https://x.com/kume_tokyo1935",
+    "pass": 3
+   },
+   {
+    "quote": "京都パイル繊維工業 (@KYOTOPILE) / Posts / X 京都パイル繊維工業 (@KYOTOPILE) - Posts - 京都パイルは1972年設立から一貫してパイルの製造からフロック加工を行なってきました。 決して器用な会社ではありませんが、 不器用なりに経験を積み重ねてきました。",
+    "url": "https://x.com/KYOTOPILE",
+    "pass": 3
+   },
+   {
+    "quote": "群馬県繊維工業試験場 (@gun_senkoushi01) / X この度当場では、情報発信を群馬県繊維工業技術振興会のインスタグラムに一本化することになりました。 本Xは7月末をもって閉鎖いたします。 つきましては、今後は関連Webサイトに登録したインスタグラムをご覧いただきたく、よろしくお願いいたします。",
+    "url": "https://x.com/gun_senkoushi01",
+    "pass": 3
+   },
+   {
+    "quote": "Gallery éf Asakusa on X: \"久米繊維工業製作の 色、着心地、耐久性に... ダンサー 鈴木一琥と アーティスト カワチキララは 東京大空襲の体験者のことばをデザインしたTシャツを 世界情勢の緊張が増す今、 「二度と人間の頭上に爆弾が降ることのない世界であってほしい」という 東京大空襲体験者からのリクエストにより 久米繊維工業 (墨田区)の協力を得て再販を決めました↓",
+    "url": "https://x.com/iz_gin/status/2086982375217762781",
+    "pass": 3
+   },
+   {
+    "quote": "群馬県繊維工業試験場 (@gun_senkoushi01) / X Jun 18, 2020 · いつも本Xをご覧いただきありがとうございます。 この度当場では、情報発信を群馬県繊維工業技術振興会のインスタグラムに一本化することになりました。 本Xは7月末をもって閉鎖いたします。",
+    "url": "https://x.com/gun_senkoushi01",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "帝人（株） | LinkedIn 帝人（株） 繊維工業 千代田区、東京都 246人のフォロワー",
+    "url": "https://jp.linkedin.com/company/帝人（株）",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Polyester Textiles Market Size, Industry Drivers and ... Oct 10, 2026 · The demand for high-performance textiles, especially in sports and industrial sectors, is propelling regional growth, with Japanese companies leading in automation and smart textile...",
+    "url": "https://www.linkedin.com/pulse/japan-polyester-textiles-market-size-industry-drivers-rjvxf",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Coated Textiles Market 2026: Size Grows with AI, Key ... Jun 23, 2025 · The study evaluates regional demand trends, distribution networks, consumer behavior, and regulatory environments that influence the Coated Textiles industry within Japan.",
+    "url": "https://pe.linkedin.com/pulse/japan-coated-textiles-market-2026-size-grows-ai-key-trends-bzq5e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "島根県繊維工業協同組合 | Izumo-shi Shimane - Facebook Jan 3, 2026 · 島根県繊維工業協同組合, Izumo-shi. 9 followers. コンプライアンスの徹底を目指します。監理団体許可番号 許1709001845",
+    "url": "https://www.facebook.com/people/島根県繊維工業協同組合/61554722068263/",
+    "pass": 3
+   },
+   {
+    "quote": "アサヒ繊維工業（株） - Facebook浅尾繊維工業株式会社 | Izumo-shi Shimane - Facebook紀州繊維工業協同組合 | Hashimoto Wakayama - Facebook丸編み ニット生地 和紙生地 ローゲージニット生地山崎繊維工業株式会...神戸早川繊維工業 | Kobe-shi Hyogo - Facebook浅尾繊維工業株式会社 - 浅尾繊維工業の2025年版カタログです。 皆さ... 植物培地用途向けに、生分解繊維製ファイバーロッド を始め、弊社全製品を出展させて頂きました。 多数のお客様に弊社ブースへお越しいただき、弊社の 取り組みや製品に関心を寄せていただき、誠に有難う ございました。 浅尾繊維工業株式会社, Izumo-shi. 281 followers · 25 talking about this · 53 were here. 創",
+    "url": "https://www.facebook.com/ASAHI.FIBER.industry/",
+    "pass": 3
+   },
+   {
+    "quote": "浅尾繊維工業株式会社 | Izumo-shi Shimane - Facebook紀州繊維工業協同組合 | Hashimoto Wakayama - Facebook丸編み ニット生地 和紙生地 ローゲージニット生地山崎繊維工業株式会...神戸早川繊維工業 | Kobe-shi Hyogo - Facebook浅尾繊維工業株式会社 - 浅尾繊維工業の2025年版カタログです。 皆さ... 浅尾繊維工業株式会社, Izumo-shi. 281 followers · 25 talking about this · 53 were here. 創業明治10年 (1877年)、出雲市にある寝具メーカーです。 良い眠りで、すばらしい人生を！ 詳しくは下記リンクより Sep 9, 2026 · 紀州繊維工業協同組合, Hashimoto. 249 followers · 8 talking abou",
+    "url": "https://www.facebook.com/izumo.asaoseni/",
+    "pass": 3
+   },
+   {
+    "quote": "紀州繊維工業協同組合 | Hashimoto Wakayama - Facebook丸編み ニット生地 和紙生地 ローゲージニット生地山崎繊維工業株式会...神戸早川繊維工業 | Kobe-shi Hyogo - Facebook浅尾繊維工業株式会社 - 浅尾繊維工業の2025年版カタログです。 皆さ... Sep 9, 2026 · 紀州繊維工業協同組合, Hashimoto. 249 followers · 8 talking about this · 12 were here. 世界で唯一の総合パイルファブリック産地です。 Feb 20, 2024 · かなり久しぶりの投稿になりました 少し前に仲間入りしてきた編機達です 綺麗に磨きあげてあげるからね😃 #丸編み #ヴィンテージ #もはやアンティーク 丸編み ニット生地 和紙生地 ローゲージニット生地山崎繊維工業株式会社 神戸早川繊維",
+    "url": "https://www.facebook.com/koyaguchipilefabric/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.c-online.net/data/enterprisecensus/e-census.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/iida_yasuyuki/n/n627a844b8f7c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyouwakougyou.jp/?p=758",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.peaks-media.com/8844/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/fiber",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1203057_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ryutsuu.biz/strategy/n011912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikoukei.co.jp/news/detail/280493",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/302156",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/services/e-venue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platto.technoa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%95%E3%82%A1%E3%83%B3%E5%B8%82%E9%87%91%E8%9E%8D%E6%94%AF%E6%8F%B4%E3%81%AB%E3%82%88%E3%82%8B%E7%B9%8A%E7%B6%AD%E3%82%A2%E3%83%91%E3%83%AC%E3%83%AB%E7%94%A3%E6%A5%AD%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E7%99%BA%E5%B1%95%E7%89%B9%E5%88%A5%E9%8A%80%E8%A1%8C%E3%83%BB%E4%BC%81%E6%A5%AD%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E4%BC%9A/6652414",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ecbeing.net/b2b/contents/detail/22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kktisc.co.jp/column/7201/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ec.smaregi.jp/column/b2b/fax-order/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mosjapan.jp/blog/start-dx-with-mos-fax",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casio-human-sys.co.jp/bc-order/column/019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mametto.nutte.jp/posts/20250124-7",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aichi-inst.jp/mikawa/analytical/request/list/post_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/fiber/pdf/240516.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://media.cropozaki.com/solution/apparel-brand-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tec-lab.pref.gunma.jp/textile/p20210019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kwd55/n/n4adb9b3c8429",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hashtag/%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E7%B9%8A%E7%B6%AD%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E6%A5%AD?f=new",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E7%B9%8A%E7%B6%AD%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kume_tokyo1935",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KYOTOPILE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gun_senkoushi01",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/iz_gin/status/2086982375217762781",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/帝人（株）",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/島根県繊維工業協同組合/61554722068263/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ASAHI.FIBER.industry/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/izumo.asaoseni/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/koyaguchipilefabric/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gun_senkoushi01",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kume_tokyo1935",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/japan-polyester-textiles-market-size-industry-drivers-rjvxf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/pulse/japan-coated-textiles-market-2026-size-grows-ai-key-trends-bzq5e",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "繊維工業 事業所数 従業者数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.pref.fukui.lg.jp/doc/chisangi/sangyou-gaiyou_d/fil/001.pdf",
+    "http://www.c-online.net/data/enterprisecensus/e-census.html",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://www.city.takeo.lg.jp/toukei/h30/09kougyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://ceis.jp/wp-content/uploads/2023/11/F3_2023.pdf",
+    "http://www.nissenkyo.or.jp/top_links.html",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0004025781"
+   ]
+  },
+  {
+   "query": "繊維工業 人手不足 有効求人倍率",
+   "results": [
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001713425.pdf",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://note.com/iida_yasuyuki/n/n627a844b8f7c",
+    "https://kyouwakougyou.jp/?p=758",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://1049.co.jp/column/column_20260114/",
+    "https://www.transtructure.com/hr-data-analysys/labor/p17764/",
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://hara-international.com/【図解でわかる】繊維業界の人手不足の現状と課/"
+   ]
+  },
+  {
+   "query": "繊維工業 市場規模 推移",
+   "results": [
+    "https://www.peaks-media.com/8844/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5701",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/textile_industry/pdf/001_07_00.pdf",
+    "https://service.xenobrain.jp/forecastresults/market-size/fiber",
+    "https://www.d4dr.jp/topics/marketing/report_fiber/",
+    "https://the-shashi.com/market/textile/",
+    "https://www.fortunebusinessinsights.com/jp/%E5%A4%A9%E7%84%B6%E7%B9%8A%E7%B6%AD%E5%B8%82%E5%A0%B4-113957",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102250",
+    "https://www.k-fc.com/okayama-textile/common/pdf/231030/03.pdf",
+    "https://straitsresearch.com/jp/report/textile-market"
+   ]
+  },
+  {
+   "query": "繊維工業 休廃業 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "https://www.tsr-net.co.jp/data/detail/1203057_1527.html",
+    "https://www.ryutsuu.biz/strategy/n011912.html",
+    "https://www.nikoukei.co.jp/news/detail/280493",
+    "https://ecnomikata.com/ecnews/marketing/48265/",
+    "https://prtimes.jp/main/html/rd/p/000000025.000126976.html",
+    "https://www5.cao.go.jp/keizai3/2020/0331nk/n20_3_2.html",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/a537ae9febfa44218a54df8bc5034f43/20260109_全国企業「休廃業・解散」動向調査（2025年）.pdf",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/20/backdata/1-1-10.html"
+   ]
+  },
+  {
+   "query": "繊維工業 マッチング プラットフォーム",
+   "results": [
+    "https://www.atpress.ne.jp/news/302156",
+    "https://www.jetro.go.jp/services/e-venue/",
+    "https://platto.technoa.co.jp/",
+    "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "https://baike.baidu.com/ja/item/%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%95%E3%82%A1%E3%83%B3%E5%B8%82%E9%87%91%E8%9E%8D%E6%94%AF%E6%8F%B4%E3%81%AB%E3%82%88%E3%82%8B%E7%B9%8A%E7%B6%AD%E3%82%A2%E3%83%91%E3%83%AC%E3%83%AB%E7%94%A3%E6%A5%AD%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E7%99%BA%E5%B1%95%E7%89%B9%E5%88%A5%E9%8A%80%E8%A1%8C%E3%83%BB%E4%BC%81%E6%A5%AD%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E4%BC%9A/6652414",
+    "https://monotown-kadoma.jp/matching-site",
+    "https://mallento.com/recommend/manufacturing-matching-services/",
+    "https://mtame.jp/column/matching_service/",
+    "https://www.kanapla.jp/",
+    "https://www.jaficplatform.com/"
+   ]
+  },
+  {
+   "query": "繊維工業 受発注 課題 電話 FAX",
+   "results": [
+    "https://www.ecbeing.net/b2b/contents/detail/22",
+    "https://www.kktisc.co.jp/column/7201/",
+    "https://ec.smaregi.jp/column/b2b/fax-order/",
+    "https://www.mosjapan.jp/blog/start-dx-with-mos-fax",
+    "https://www.casio-human-sys.co.jp/bc-order/column/019.html",
+    "https://note.com/recerqa/n/n984940c704ad",
+    "https://aladdin-ec.jp/useful/48/",
+    "https://www.totec-sangyo.jp/blog/fax-order-blackbox4/",
+    "https://wheat-biz.com/ai-dx/order-system-fax-elimination-dx/",
+    "https://it-trend.jp/receiving_orders/article/374-7253"
+   ]
+  },
+  {
+   "query": "繊維工業 外注 費用 相場",
+   "results": [
+    "https://mametto.nutte.jp/posts/20250124-7",
+    "https://www.aichi-inst.jp/mikawa/analytical/request/list/post_2.html",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/fiber/pdf/240516.pdf",
+    "https://media.cropozaki.com/solution/apparel-brand-cost/",
+    "https://www.tec-lab.pref.gunma.jp/textile/p20210019/",
+    "https://masouken.com/%E7%B9%8A%E7%B6%AD%E3%82%84%E8%A1%A3%E6%9C%8D%E8%A3%85%E9%A3%BE%E5%93%81%E8%A3%BD%E9%80%A0%E3%81%AEM&A",
+    "https://www.gpc-gifu.or.jp/chousa/jiba/2024/apparel.pdf",
+    "https://ceis.jp/wp-content/uploads/2023/11/F3_2023.pdf",
+    "https://www.logimopro.jp/lmp_academy/logistics-outsourcing-costs/",
+    "https://gaichubase.com/2026/05/04/外注-費用-相場を徹底解説！業種別料金と成功のポ/"
+   ]
+  },
+  {
+   "query": "site:note.com 繊維工業",
+   "results": [
+    "https://note.com/kwd55/n/n4adb9b3c8429",
+    "https://note.com/acies_consulting/n/naf2acc8cfb81",
+    "https://note.com/hashtag/%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E7%B9%8A%E7%B6%AD%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E6%A5%AD?f=new",
+    "https://note.com/tag/%E7%B9%8A%E7%B6%AD%E5%B7%A5%E6%A5%AD",
+    "https://note.com/rm_sasaki/n/n2b68a26159a3",
+    "https://note.com/hashtag/%E5%8C%96%E5%AD%A6%E7%B9%8A%E7%B6%AD%E3%83%BB%E3%81%AD%E3%82%93%E7%B3%B8%E7%AD%89%E8%A3%BD%E9%80%A0%E6%A5%AD?f=new",
+    "https://note.com/mokosamurai/n/n739eed871ff5",
+    "https://note.com/worldofwool/n/ncccef9984709",
+    "https://note.com/dainagoyatours/n/n7ff60d2d6bc4",
+    "https://note.com/clipcorporation/n/n1b4e8800a74f"
+   ]
+  },
+  {
+   "query": "site:x.com 繊維工業",
+   "results": [
+    "https://x.com/kume_tokyo1935",
+    "https://x.com/KYOTOPILE",
+    "https://x.com/gun_senkoushi01",
+    "https://x.com/iz_gin/status/2086982375217762781",
+    "https://x.com/HARUKUNI_Y",
+    "https://x.com/pr_kit",
+    "https://x.com/daisen_ltd"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 繊維工業",
+   "results": [
+    "https://jp.linkedin.com/company/帝人（株）",
+    "https://www.linkedin.com/company/gsi-creos-corporation",
+    "https://www.linkedin.com/",
+    "https://cd.linkedin.com/in/corneille-masheka-bb01b1133",
+    "https://ir.linkedin.com/in/shirin-mafi-6b5b1136a",
+    "https://jp.linkedin.com/pulse/日本の繊維市場における機会の解き放つ洞察と予測2025-2033年-gourav-singh-yl9sc",
+    "https://cn.linkedin.com/in/達也-尼田-ba1525232"
+   ]
+  },
+  {
+   "query": "site:facebook.com 繊維工業",
+   "results": [
+    "https://www.facebook.com/people/島根県繊維工業協同組合/61554722068263/",
+    "https://www.facebook.com/ASAHI.FIBER.industry/",
+    "https://www.facebook.com/izumo.asaoseni/",
+    "https://www.facebook.com/koyaguchipilefabric/",
+    "https://www.facebook.com/p/丸編み-ニット生地-和紙生地-ローゲージニット生地山崎繊維工業株式会社-100042238705646/",
+    "https://www.facebook.com/people/神戸早川繊維工業/100057412241737/",
+    "https://www.facebook.com/izumo.asaoseni/posts/浅尾繊維工業の2025年版カタログです皆さんの睡眠を支える新しい商品も増えました-浅尾繊維工業-出雲-自社工場寝具メーカー-快眠-明治創業-2025年版-カタロ/1340956100734621/"
+   ]
+  },
+  {
+   "query": "繊維工業 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.chiyodaseni.com/chiyodaseni/message.html",
+    "https://maruwa-tex-ind.co.jp/company/greeting/",
+    "https://jmapps.ne.jp/kyuseikoko/det.html?data_id=14625",
+    "https://www.asahi-fiber.co.jp/info/?p=1688",
+    "https://shachomeikan.jp/industry_article/5262",
+    "https://shachomeikan.jp/industry_article/2121"
+   ]
+  },
+  {
+   "query": "繊維工業 X 投稿",
+   "results": [
+    "https://x.com/gun_senkoushi01",
+    "https://x.com/kume_tokyo1935",
+    "https://www.tec-lab.pref.gunma.jp/textile/",
+    "https://www.tec-lab.pref.gunma.jp/textile/p20210036/",
+    "https://www.fiber.or.jp/jpn/publication/contribution.html",
+    "https://www.fiber.or.jp/jpn/publication/index.html",
+    "https://fantia.jp/fanclubs/216833/posts"
+   ]
+  },
+  {
+   "query": "textile industry Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japan-textile-market-size-trends-growth-analysis-2026-2034-singh-lhkbc",
+    "https://www.linkedin.com/pulse/japan-polyester-textiles-market-size-industry-drivers-rjvxf",
+    "https://pe.linkedin.com/pulse/japan-coated-textiles-market-2026-size-grows-ai-key-trends-bzq5e",
+    "https://pe.linkedin.com/posts/textiles-intelligence_japan-technicaltextiles-textiles-activity-7219323921991434240-6Z5F",
+    "https://jp.linkedin.com/posts/idfl-japan_idfl-aroundtheglobe-globaltextileindustry-activity-7521920973139423232-8KGZ",
+    "https://hk.linkedin.com/in/stefan-koebrich-13927679",
+    "https://jp.linkedin.com/pulse/染色糸市場の包括的分析主要企業プロファイル財務洞察2026年から2033年までの動向-infynexvc-cxwhe"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,2266 @@
+{
+ "name": "電子部品・デバイス・電子回路製造業",
+ "en": "electronic components devices manufacturing Japan",
+ "aliases": [
+  "電子部品 製造",
+  "半導体 製造",
+  "電子回路"
+ ],
+ "context": "製造業・電子",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:56:45.441055+00:00",
+ "evidence": {
+  "事業所数・従業者数（経済センサス等）": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 製造業に関する集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": ". 本概況は、令和２（2020）年６月１日現在で実施した工業統計調査（以下「工業統計」という",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "おける 「工業調査票甲」 及び 「工業調査票乙」 の従業者４人以上の事業所について集計、 分析したも",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ". 平成２９年工業統計において、 調査日を６月１日 （従前は１２月３１日） に変更したため、 事業所数、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数については平成２９年以降は同じ年の６月１日現在、 現金給与総額、 製造品出荷額等、 付加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1) 「平成２３年」 、「平成２４年」 、「平成２７年」及 び「平成２８年」 の数値は経済センサス‐活動",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2) 工業統計結果の事業所数及び従業者数の 「平成２９年」以降の数値は、 表示年次の６月１日現在、",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "X」 は、 集計対象となる事業所が１又は２であるため、 これをそのまま掲げると個々の報告者の秘",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 集計対象が３以上の事業所に関する数値で",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査（経済センサス－活動調査は５年に一度）は、我が国の工業（製造業）の実態を明らかにすること",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和４年からは経済構造実態調査に包摂されて、経済構造",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 と製造品出荷額等 の推移 （平成 23 年～令和 ３年調査 ）",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者4人以上の製造事業所の",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・従業者数は、平成23年は平成24年2",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成23年（H24.2.1現在）、令和３年（R3.6.1現在）で産業中分類別従業者数を比較すると、両年 ともに大きい順に「食料品」・「電子部",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数、現金給与総額、製品出荷額等、原材料使用額等のデータに加え、現金給与総額を従業者数で割った1人あたり給与と、製造品出荷額等から原材料使用額等を差し引いた差額（利益の目安として）を参考データとして計算しました",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数：従業員4人以上の一般的に工場、製作所、製造所あるいは加工所などと呼ばれているもの",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数：1か月以内の期間を定めて雇用されている者や日々雇用されている者を除いた毎月給与の支払を受けている者",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "「X」は、1または2の事業所に関する数値で、これをそのまま掲げると個々の申告者の秘密が漏れるおそれがあるため秘匿した箇所であり、3以上の事業所に関する数値であっても、1または2の事業所の数値が前後の関係から判明する箇所も秘匿とした",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "注 ： 平成２１年以降は従業者数４人以上の事業所を調査対象としている",
+    "url": "https://www.city.higashiyamato.lg.jp/_res/projects/default_project/_page_/001/004/148/20170818-095427.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注 ： 経済センサス－活動調査との輻輳のため平成２３、２７、２８年調査は中止",
+    "url": "https://www.city.higashiyamato.lg.jp/_res/projects/default_project/_page_/001/004/148/20170818-095427.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業の事業所規模５人以上の事業所におけ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・常用労働者 5 人以上の事業所が対象",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数が 1998 年には 373,713 事業所あったが、企業の",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "倒産や廃業等により 2017 年には 188,249 事業所と",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 215-１ 製造業に関する事業所数",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・資料：2011 年、2015 年は総務省・経済産業省「経済センサス‐活動調査」 、他は経済産業省「工業統計調査」",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "215-１でみたように事業所数が半減していること",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書によれば、製造業における人材育成の問題として「指導する人材が不足している」と回答した事業所は6割以上にのぼります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業数 61 社",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   },
+   {
+    "quote": "非上場企業数 7,676 社",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "有形固定資産額_建設仮勘定_Ｃ増加額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_建設仮勘定_Ｄ減少額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_Ｅ除却・売却による減少額_土地【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_Ｅ除却・売却による減少額_土地以外のもの【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "更に令和元年が秘匿する必要がない箇所でも、増減 比較をする対象年次が秘匿であった場",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合、前年比を「X」とした",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１図 従業者数 、製造品出荷額等の推移",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 主要項目の推移",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 前年比 前年比 前年比",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 構成比の前年からの変化は、金属製品製造業が 0.2％ポイント増加、食料品製造業が 0.2％ポ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イントの減少、 生産用機械器具製造業が0.0％ポイントの横ばい、 プラスチック製品製造業が0.1",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "％ポイント増加、繊維工業が 0.2％ポイント減少（第２図、統計表 第２表）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２図 事業所数 の上位産業の 推移",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 0.3％ポイント減少、生産用機械器具製造業が 0.1％ポイント増加、金属製品製造業が 0.0％",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３図 従業者数 の上位産業の 推移",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 0.3％ポイント増加、化学工業が 0.1％ポイント増加、生産用機械器具製造業が 0.1％ポイント",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 と製造品出荷額等 の推移 （平成 23 年～令和 ３年調査 ）",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "推移をみると、いずれも、平成23",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年以降は減少していましたが、従",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の後は増加に転じました",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "べて減少しています",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成23年と令和２年で産業中分類別製造品出荷額等を比較すると、「電子部品・デバイス」・「情報通信機械」の 構成比が大きく減少",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "していますが、「電気機械」・「飲料・たばこ・飼料」などそのほかの産業の構成比は増加しています",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１） 工場数の推移(従業者４人以上）",
+    "url": "https://www.city.higashiyamato.lg.jp/_res/projects/default_project/_page_/001/004/148/20170818-095427.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "伴い、休業や生産の減少に伴う人員調整や経営の悪化",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後、人口減少や高齢化が進む中で、日本",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、 2019年は2.2％～2.5％で推移し、 年平均で2.4％",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "364 万人を記録した後、以降は次第に減少し、2019",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年 12 月には 152 万人となり減少傾向で推移してい",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月に続き増加している（図 211-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-２ 構造的・摩擦的失業率、需要不足失業率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-１ 完全失業率（季節調整値）及び完全失業者数（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-３ 有効求人倍率（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-４ 職業別の有効求人倍率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たことから、求人数の減少を通じて有効求人倍率が低",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前月につづいて減少している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が発表した令和6年（2024年）の職業別有効求人倍率（原数値、パート除く）を見ると、製造業が該当する「生産工程の職業」は1.67倍前後で推移し、全産業平均の1.25倍を大きく上回っています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の就業者数推移（過去20年で157万人減）",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "就業者数の長期推移もまた、製造業の人手不足の深刻さを物語っています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省・経済産業省・文部科学省が共同発表する「ものづくり白書」によれば、製造業の就業者数は2002年から約20年間で157万人減少しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書の最新データでは、2024年の製造業就業者数は1,046万人と2023年の1,055万人からさらに減少し、減少傾向が継続していることが確認されています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "この就業者数の減少は単なる人口動態の結果ではなく、製造業の人材不足が他産業との人材獲得競争においても劣勢に立たされていることを示しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "若年就業者（34歳以下）の減少と高齢化の深刻化",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足問題の中でも特に深刻なのが、次世代を担う若年層の減少です",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版ものづくり白書のデータによると、2002年に32.6万人いた34歳以下の若年就業者は2023年には25.9万人にまで減少し、製造業の全就業者に占める若年就業者の割合は2002年比で6.9ポイント低下しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で高齢就業者（65歳以上）は2002年の58万人から約90万人へと増加しており、現場の高齢化が急速に進んでいます",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "若年就業者の大幅な減少と高齢就業者の増加という二極化の構図は、近い将来に技術承継が途絶えるリスクを現実のものとしています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な半導体需要の増大や国内製造拠点の復活・新設（TSMC熊本工場など）を背景に、即戦力となる技術者・エンジニアの人材不足が加速しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "AIインフラ投資に支えられ、前年比23％増となった",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体生産能力への投資増加が部品需要を支える",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制の強化は、コンプライアンス要件を増加させ、製造業者に代替サプライヤーの認定または調達戦略の再設計を迫る可能性があります",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの変更は、先端電子機器のコスト増加と調達期間の延長につながる可能性があります",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "コンピューティング能力の向上に伴い電力消費量も増加するため、データセンターのアーキテクチャにおいて、エネルギー効率の高い電力管理の重要性が高まっています",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子廃棄物の増加により、循環型部品設計への圧力が高まる",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "技術サイクルの短縮化は、廃棄物量の増加をさらに招きます",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォン、コネクテッドデバイス、産業オートメーション、電気自動車、通信インフラ、高度なコンピューティングシステムの普及拡大に伴い、需要は増加し続けています",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "民生機器、産業機器、自動車、通信システムにおける電子部品の搭載量の増加は、これら両部品カテゴリーの需要を支え続けています",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車、再生可能エネルギーシステム、小型電子機器、高度なパワーエレクトロニクスに対する需要の高まりにより、高性能コンデンサの需要が増加しています",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "その優位性は、広範な電子機器製造活動、強力な半導体生産能力、そして家電、自動車、通信、産業用途からの需要増加によって支えられています",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車、ファクトリーオートメーション、インテリジェントエネルギーシステム、およびデジタル製造の普及拡大に伴い、部品需要も増加しています",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   }
+  ],
+  "需要が増えるか": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計 産業編 3 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_合計【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_製造品出荷額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_加工賃収入額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_くず廃物の出荷額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_その他収入額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "生産額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_建設仮勘定_Ｃ増加額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数については平成２９年以降は同じ年の６月１日現在、 現金給与総額、 製造品出荷額等、 付加",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ") 製造品出荷額等 ＝ 製造品出荷額 ＋ 製造工程から出たくず及び廃物の出荷額＋ 加工賃収入",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ") 付加価値額 ＝ 製造品出荷額等 ＋（製造品年末在庫額 － 製造品年初在庫額）＋（半製品及び",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ") 粗付加価値額 ＝ 製造品 出荷額等－ （ 推計酒税、 たばこ税、 揮発油税及び地方揮発油税額 ＋ 推",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ". 製造品出荷額等などの経理事項については、 原則消費税込みで把握しているが、 一部の消費税抜きの",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合、前年比を「X」とした",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "目別に出荷額が得られた事業所であること",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和元 年の製造品出荷額等は 322 兆 5334 億円 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和元年の製造品出荷額等は 322 兆 5334 億円、付加価値額は 100 兆 2348 億円（第１表、第",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１図 従業者数 、製造品出荷額等の推移",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 前年比 前年比 前年比",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 と製造品出荷額等 の推移 （平成 23 年～令和 ３年調査 ）",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数と製造品出荷額等につ",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の後は増加に転じました",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等ともに、前年に比",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・製造品出荷額等は、各年1年間の数",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成23年と令和２年で産業中分類別製造品出荷額等を比較すると、「電子部品・デバイス」・「情報通信機械」の 構成比が大きく減少",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "していますが、「電気機械」・「飲料・たばこ・飼料」などそのほかの産業の構成比は増加しています",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別製造品出荷額等 の構成比",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 (左目盛 ) 従業者数 (右目盛 )",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数、現金給与総額、製品出荷額等、原材料使用額等のデータに加え、現金給与総額を従業者数で割った1人あたり給与と、製造品出荷額等から原材料使用額等を差し引いた差額（利益の目安として）を参考データとして計算しました",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等：1年間（1-12月）における製造品出荷額、加工賃収入額等の出荷額の合計で消費税額を含んだ額",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品・デバイス・電子回路製造業【出荷額／2014年】",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品・デバイス・電子回路製造業【出荷額／2012年】",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品・デバイス・電子回路製造業【出荷額／2010年】",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品・デバイス・電子回路製造業【出荷額／2008年】",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品・デバイス・電子回路製造業【出荷額／2006年】",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品・デバイス・電子回路製造業【出荷額／2004年】",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品・デバイス・電子回路製造業【出荷額／2002年】",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等",
+    "url": "https://www.city.higashiyamato.lg.jp/_res/projects/default_project/_page_/001/004/148/20170818-095427.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界各国では今、新型コロナウイルスの感染拡大に",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、感染拡大防",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "チェーンの寸断を受けての国内回帰や感染拡大から生",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウイルスの感染拡大がつきつける課題にどの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "え、我が国の経済成長を支える原動力は「人」で",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の経済が成長していくためには、女性、高齢者など、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新型コロナウイルス感染症拡大など不確実性が高",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１ 成長戦略実行計画（2019 年６月 21 日閣議決定）では、経済成長を支える原動力は「人」であるとの考えの下、数多くの施策を実行",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月に続き増加している（図 211-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を、需要不足失業率と均衡失業率に分けてそれぞれの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動向をみると、需要不足失業率については、2009 年",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "需要不足失業率",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方で高齢就業者（65歳以上）は2002年の58万人から約90万人へと増加しており、現場の高齢化が急速に進んでいます",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "若年就業者の大幅な減少と高齢就業者の増加という二極化の構図は、近い将来に技術承継が途絶えるリスクを現実のものとしています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・電子部品・デバイスの製造業は、高精度な作業と品質管理が求められるため、専門的な知識と技術を持つ人材への需要が高い分野です",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な半導体需要の増大や国内製造拠点の復活・新設（TSMC熊本工場など）を背景に、即戦力となる技術者・エンジニアの人材不足が加速しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の根底には、経済成長ではなく人口動態という不可逆な変化があることを製造業の経営者は直視する必要があります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "熟練者が不足した現場では、経験の浅い人材が複数工程を兼任させられるため、品質チェックが甘くなりやすく、不良品・クレームの増加につながります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "技術継承が果たせなかった企業は、高品質な製品を安定的に生産する能力を失い、価格競争に巻き込まれるか、受注量の縮小を余儀なくされます",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   }
+  ],
+  "大手プラットフォームの有無": [
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "ある製品・サービス分野で国際的に高いシェアを持っている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "狭い市場で高いシェアを誇っている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主に大手空調機器メーカーから、部品などの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、押谷社長はこうした問題を解決しようと、受発注と連携して現場に情報を流す「進捗管理シス",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、暖房機器や加湿器は、季節商品であるため冬季に需要が高くなり、天候によっても受発注が",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ス部門は国内トップシェアを誇る",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受発注から製造ラインの稼働状況、機械トラブルや保全状況などを一元的に管理するこ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "続きにおいてもデジタル化したことで、受発注の管理や経理処理などのデータ入力作業や確認作業などが",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EV（電気自動車）シフトやCASE（コネクテッド・自動運転・シェアリング・電動化）の波により、従来の内燃機関関連の技術から電子制御・ソフトウェアを組み合わせた新たな技術へのシフトが急務となっています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の割合が高く、大手企業に比べて給与水準や福利厚生で劣後することも多いため、採用競争力が低くなりやすい構造的な問題があります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の求人サイト、地域の無料媒体であるハローワーク、SNSを使った採用広報（採用インスタグラム・Xなど）、動画での工場見学コンテンツの発信など、ターゲット層に合わせた多様なチャネルを組み合わせることが人材確保につながります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員型派遣エンジニアの転職・求人サイト",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品市場の規模、シェア、トレンド分析レポート：タイプ別（受動部品、能動部品、電気機械部品）、用途別（通信、家電、産業用電子機器、防衛・航空宇宙、自動車、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に46.5%の市場シェアを占め、電子部品市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "アクティブコンポーネント分野は、2025年に電子部品市場で52.8%のシェアを占め、市場を席巻するだろう",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "アクティブコンポーネント分野は、2025年には世界の電子部品市場において52.8%のシェアを占め、市場規模は3,801億6,000万米ドルに達し、予測期間中の年平均成長率（CAGR）は7.3%と予測されています",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "集積回路セグメントは、2025年にアクティブ電子部品市場で56.7%のシェアを占め、市場を席巻する見込みです",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "集積回路は、2025年には56.7%のシェアを占め、4,082億4,000万米ドルの市場規模となり、予測期間中に年平均成長率（CAGR）7.7%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に電子部品市場で最大の46.5%の市場シェアを獲得し、市場規模は3,348億米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に46.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム（GaN）半導体デバイス市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "【業界・分野別】製造業マッチングサイト・検索データベース13選 | テクノポート株式会社",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "【業界・分野別】製造業マッチングサイト・検索データベース13選",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における新規顧客開拓の手段として、SEO・AIO、広告などの施策以外に、「企業向けマッチングサイト」や「検索データベース」への登録という方法があります",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "イプロスものづくり",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、特定の業界・分野に特化された製造業マッチングサイト・検索データベースの事例をご紹介します",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "受託加工（機械加工、板金、溶接など）でのマッチング・データベース",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "部品供給でのマッチング・データベース",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "化学業界でのマッチング・データベース",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界でのマッチング・データベース",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "【番外編】地域別でのマッチング",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "図面（PDF・手書き対応）をもとに全国1000社以上に一括見積り",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "KAMAMESHI（部品管理&シェアサービス）",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "専門家マッチング",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、1990年代頃は、大手企業は10,000円/時間、中堅企業・一次請けで8,000円/時間、末端の加工業者5,000円/時間といった相場があったようです",
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミmeviy:",
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は、少量多品種生産を得意とし、自社設備で設計から製造まで行う垂直統合モデルで成長してきたが、投資規模の増大や国際的に水平分業環境が整ったため、設計力に強みのあるアメリカ勢や、水平分業モデルのファウンドリ（工場）を中心に成長したアジア勢のシェアが増加しています",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   },
+   {
+    "quote": "特に、自動車業界への影響は深刻であり、トヨタ自動車や日産自動車などの国内大手自動車メーカーが、半導体不足に伴う自動車部品の調達難を理由に、自動車の減産や工場の稼働停止を行う事態になっており、多額の機会損失が生じています",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   },
+   {
+    "quote": "販売先において、自社との取引シェアが高くなり過ぎると、自社が取引から撤退することが困難となる恐れがあります",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、取引先の信用力（格付）に応じて取引シェアに上限を設けるべく、取引先が抱える買掛債務額の一定割合を売込限度額として設定する方法が考えられます",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   }
+  ],
+  "取引のやり方・不便": [
+   {
+    "quote": "2020000000_2020_1400_パルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1420_紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1421_洋紙・機械すき和紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1422_板紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1424_手すき和紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1430_加工紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1431_塗工紙製造業（印刷用紙を除く）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1433_壁紙・ふすま紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1440_紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1441_事務用・学用紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1442_日用紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "2020000000_2020_1449_その他の紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 パルプ紙 26 生産用機械器具製造業 生産用機械",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 5,365 ▲ 2.8 2.9 5,338 ▲ 0.5 2.9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 187,035 0.2 2.4 187,842 0.4 2.4",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 776,354 0.8 2.2 789,751 1.7 2.2",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 4,829,697 4.1 2.3 4,848,585 0.4 2.4",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 7,548,422 2.2 2.3 7,687,869 1.8 2.4",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 2,265,206 ▲ 1.3 2.2 2,394,693 5.7 2.4",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 598,935 7.7 1.8 630,353 5.2 1.9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 294,388 2.1 3.1 322,062 9.4 3.3",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 83,550 9.7 0.6 86,386 3.4 0.6",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 220,998 15.4 2.2 221,906 0.4 2.1",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 315,456 9.0 2.3 348,174 10.4 2.5",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品・デバイス 食料品 金属製品 その他電気機械 繊 維 パルプ・紙",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "食料品 電子部品・デバイス 電気機械 金属製品 繊 維 パルプ・紙 その他",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電気機械 食料品 情報通信機械 パルプ・紙",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品・デバイス パルプ・紙 電気機械 金属製品 飲料・たばこ・飼料 その他",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県市区町村の人気メニューのご紹介",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "パ ル プ ・ 紙 ・ 紙 加 工 品",
+    "url": "https://www.city.higashiyamato.lg.jp/_res/projects/default_project/_page_/001/004/148/20170818-095427.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "育成の取組を紹介する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コミュニティカレッジのあるランシング市には職業訓練のあっせんと職業紹介を行う組織、ミシガ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業訓練と職業紹介を実施するにあたり、地元企業のニーズを頻繁に、そして徹底",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "優秀な外注先企業群を育成している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の取組などについて紹介する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また納品書や作業指示は、 紙面のやりとりで行っていたため、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組立ラインの検査には、従来紙のチェックシートを用いて品質チェックを行っていたが、現在ではタブ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（令和6年12月分及び令和6年分）について」",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの製造業の現場では、「先輩の仕事を見て覚える」「長年の経験で体得する」といった属人的なOJT教育が中心を担ってきました",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体の掲載費用、人材紹介会社へのフィー（成功報酬型では年収の30〜35%程度）、内定辞退を見越した多めの採用活動費——これらのコストは製造業、特に体力の限られた中小企業にとって大きな負担となっています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "職人の動作をモーションキャプチャで記録する、作業標準書・手順書を動画で整備する、AIを活用して熟練技術を解析・言語化する——こうした取り組みにより、属人的な技術を組織の知的財産として保存・継承することが可能になります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版ものづくり白書でも、熟練技能者の動作をモーションキャプチャで可視化し、教育訓練に活用することで技能継承を実現した事例が紹介されています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人材定着のためには、OJTを属人的な「見て覚える」方式から、体系化されたトレーニングプログラムへと転換することが重要です",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは「採用」と「定着」という2つのアプローチにおける成功事例を紹介します",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況(令和7年3月分及び令和6年度分)について",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況（職業安定業務統計） 一般職業紹介状況 ～令和8年5月 長期時系列表 21 職業別労働市場関係指標（実数）（平成21年改定）（令和4年4月～） 月次 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "未経験から目指せる！技術職の仕事って？種類・内容・向いている人を紹介",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアの転職活動をサポートするNext Engineerの会員サービスとは？実際の相談内容もご紹介！",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "技術系ライターの紹介",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "【執筆者紹介】廣常 絵梨奈 執筆者詳細を開く",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、特定の業界・分野に特化された製造業マッチングサイト・検索データベースの事例をご紹介します",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "電話対応:平日9:00~18:00",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "※営業電話は致しませんのでご安心ください",
+    "url": "https://techport.co.jp/archives/40636",
+    "pass": 3
+   },
+   {
+    "quote": "ご相談内容に適した士業・経営者の講師をご紹介",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金や事業再生、専門家のご紹介にご興味がある方は、",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "受託製造業の単価の決まり方についてご紹介します",
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、受託製造業に外注する際の受託金額(特に単価)がどのように決まるのかをご紹介します",
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "pass": 3
+   },
+   {
+    "quote": "もう少し具体的な取引における受託金額をご紹介していきましょう",
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "pass": 3
+   },
+   {
+    "quote": "先に紹介した工数と時間単価が基本となりますが、もう少し詳しく書くと次のような受託金額として表現できます",
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "pass": 3
+   },
+   {
+    "quote": "＜ 筆者紹介 ＞",
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "pass": 3
+   }
+  ],
+  "払う単価の手がかり": [
+   {
+    "quote": "事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_合計【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する基本給、諸手当と特別に支払われた給与（期末賞与等）の額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_常用雇用者及び有給役員に対する退職金又は解雇予告手当、出向受入者に係る支払額、臨時雇用者給与、送出者負担額など【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額_派遣受入者に係る人材派遣会社への支払額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_合計【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_原材料使用額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_燃料使用額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_電力使用額【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_委託生産費（外注加工費）【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_製造等に関連する外注費【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_転売した商品の仕入額 【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等_合計【百万円】",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "pass": 3
+   },
+   {
+    "quote": "関連する外注費 ＋ 転売した商品の仕入額",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） （％） （百万円） （％） （百万円） （％）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産 業 （百万円） （％） （％） （百万円） （％） （％）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） （％） （％） （百万円） （％） （％）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（単位:百万円、％）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～最近10年間の本県製造業の状況～",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いて、平成23年調査から10年間の",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・製造品出荷額等は、各年1年間の数",
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現金給与総額：1年間（1-12月）に上記従業者に支給された給与等の合計額",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "原材料使用額等：1年間（1-12月）における原材料使用額、燃料使用額、電力使用額、委託生産費等で消費税額を含んだ額",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等：1年間（1-12月）における製造品出荷額、加工賃収入額等の出荷額の合計で消費税額を含んだ額",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "降順（百万円）",
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間で 11.6％減少しており、全産業に占める製造",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と、５年間で約 1.6 倍となっており、産業全体にお",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本の平均年間総実労働時間（就業者）を",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 214-４ 一人当たり平均年間総実労働時間推移の国際比較（全就業者）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20 年間で約 50％減少している（図 215-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "について、過去 20 年間の推移をみていくと、非製造",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "く、2018 年においては、全産業 794.3 万円、非製",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造業 740.9 万円に対し、製造業は 1,094 万円となっ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（万円/人）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AI やデジタル化は同じような作業を膨大に繰り返すようなものでなければ、費用対効果",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "かかる予算の不足」 と回答した企業割合が高い",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "果たすことのできる人材の確保・育成のための予算の不足",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省・経済産業省・文部科学省が共同発表する「ものづくり白書」によれば、製造業の就業者数は2002年から約20年間で157万人減少しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体の掲載費用、人材紹介会社へのフィー（成功報酬型では年収の30〜35%程度）、内定辞退を見越した多めの採用活動費——これらのコストは製造業、特に体力の限られた中小企業にとって大きな負担となっています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足解消において、職場環境の改善への投資は最も費用対効果の高い施策の一つといえます",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円以上の求人を見てみる",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円以上",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "まず、製造直接費を製品別に費用を積み上げて求めます",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "これを販売単価と比べて、営業利益がどのようになっているかを算出します",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ある製品の製造原価の内訳が上図の通り、材料費が100、外注加工費が80、それ以下の費用も複数あり、合計が570だったとします",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "ここで最初にやらなければいけないことが、費用ごとに直接費と間接費を分けていくという作業です",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "前編で説明した通り、直接費とは製品別に分けられる費用、すなわち積み上げて原価計算が行える部分です",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "販管費は一般的に積み上げが可能で製品別に分けられる費用ではないため、全部が間接費となり、その合計が140だったとします",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、荷作運賃費は費用として大きくないため、振り分け作業に時間をかけるのは無駄かもしれません",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "製造直接費は製品別に費用を積み上げて求めます",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "それに対して、その費用でいくつ良品が完成したかを調査します",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "チャージとは、一定時間あたりの原価の単価となります",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "この単価を算出して繰り返し使用することで、原価計算を容易にすることができます",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "これがなぜ必要かと言うと、不良品を生産することにかかった費用も、1つあたりの原価に算入する必要があるからです",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   },
+   {
+    "quote": "調達：受託製造の単価の決まり方 | 小川製作所 医療機器・半導体製造装置・理化学装置・食品加工機械 東京都葛飾区",
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "pass": 3
+   },
+   {
+    "quote": "調達：受託製造の単価の決まり方",
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "pass": 3
+   },
+   {
+    "quote": "受託製造業の単価の決まり方についてご紹介します",
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 工数と時間単価",
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、受託製造業に外注する際の受託金額(特に単価)がどのように決まるのかをご紹介します",
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "pass": 3
+   },
+   {
+    "quote": "結論から言えば、多くの場合、受託製造業における受託金額とは次のように時間単価と工数を基本として計算されます",
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "pass": 3
+   }
+  ],
+  "働き手が減るか（人手不足）": [
+   {
+    "quote": "今後、人口減少や高齢化が進む中で、日本",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "鈍いことから、欠員と失業が併存する不均衡が続いて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-３ 有効求人倍率（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-４ 職業別の有効求人倍率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（季節調整値）は上昇し 2018 年８",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たことから、求人数の減少を通じて有効求人倍率が低",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別に有効求人倍率",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "をみると、生産工程の職業の有効求人倍率は、職業計",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業で、人手不足感がみられる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年第３四半期にマイナス 1.8 と人手不足感に転じて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）就業者数及び雇用者の動向",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業就業者数については、2002年の",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説 | ウィルオブ採用ジャーナル",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "最新データからみる製造業の人手不足の現状",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が人手不足に陥る5つの根本原因",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足を解消するアプローチ方法と実際の成功事例",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業は今、深刻な人手不足という構造的な危機に直面しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化の加速、若者の製造業離れ、熟練技術者の大量退職",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が解消されなければ、生産能力の低下、納期遅延、技術継承の断絶、そして最悪の場合は事業縮小・撤退というシナリオも現実のものとなりかねません",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、製造業の人手不足の実態を最新の公的データを基に徹底分析し、その根本原因を整理した上で、工場が今すぐ取り組むべき具体的な解消策を「採用×DX×定着」の3軸で解説します",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足に悩む製造業の経営者・人事担当者の方々に、実践的なヒントを提供することを目的としています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "1 製造業の人手不足の現状",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2 業種別に見る製造業の人手不足の傾向",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系エンジニアは、全職業平均と比べて有効求人倍率が高い傾向にあります",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、設備保全エンジニアや組込みエンジニア、生産技術エンジニアは求人需要が高く、人手不足が目立つ職種です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、厚生労働省のデータをもとに、機械・電気系職種別の人手不足状況をランキング形式で整理します",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系エンジニアの有効求人倍率は全職業平均を上回る職種が多い",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の職種ほど経験やスキルの市場価値を整理しやすい",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【職種別】機械・電気系エンジニアの有効求人倍率・人手不足マップ",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系職種の人手不足ランキングTOP8",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化により技能承継の必要性が高まっている",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の機械・電気系職種が安定して働きやすい理由",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系職種の有効求人倍率に関するよくある質問",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "業界レポート 電子部品 ・ デバイス ・ 電子回路製造業 - note 業界レポート 電子部品 ・ デバイス ・ 電子回路製造業 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "業界レポート 電子部品・デバイス・電子回路製造業｜佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポート 電子部品・デバイス・電子回路製造業",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポート「電子部品・デバイス・電子回路製造業」",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   },
+   {
+    "quote": "の心臓部であり、格付などの与信指標を生産・保守を行う「データ工場」が集計・分析しており、業界ごとの市場概要や業界動向、与信管理のポイントなどをまとめたレポートです。",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   },
+   {
+    "quote": "特に記事についてのコメント頂けると、今後の記事作成の励みになります。",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   },
+   {
+    "quote": "◉仕事に役立つセミナー情報を発信◉メルマガのご案内",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   },
+   {
+    "quote": "電子デバイス製造業、電子部品製造業、記録メディア製造業、電子回路製造業、ユニット部品製造業、その他の電子部品・デバイス・電子回路製造業",
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "総括 半導体およびその他の 電子部品製造 Market Report 総括 半導体およびその他の 電子部品製造 Market Report LinkedIn https://jp.linkedin.com > pulse > 総括-半導体およびその...",
+    "url": "https://jp.linkedin.com/pulse/%E7%B7%8F%E6%8B%AC-%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%81%8A%E3%82%88%E3%81%B3%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E8%A3%BD%E9%80%A0-market-report-size-trends-projected-124-cagr-l0u1f",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://uub.jp/pdr/id/electronic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.higashiyamato.lg.jp/_res/projects/default_project/_page_/001/004/148/20170818-095427.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E5%B8%82%E5%A0%B4-109245",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/electronic-components-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeita.or.jp/japanese/stat/pdf/executive_summary_2024_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.crex-data.com/industry/machinery/electronic-parts",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/electronic-components-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikoukei.co.jp/news/detail/280493",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ecnomikata.com/ecnews/marketing/48265/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mimasa.co.jp/mos/matching.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platto.technoa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aikata-matching.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techport.co.jp/archives/40636",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekai-c.jp/column/3959/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bcart.jp/post/235",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecbeing.net/b2b/solution/case13",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/mag/a8834/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agency-assist.co.jp/column/13821/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/r08/2606/pdf/list_05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://smartf-nexta.com/archives/10737",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E7%B7%8F%E6%8B%AC-%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%81%8A%E3%82%88%E3%81%B3%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E8%A3%BD%E9%80%A0-market-report-size-trends-projected-124-cagr-l0u1f",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電子部品・デバイス・電子回路製造業 事業所数 従業者数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145668&tclass3=000001169888&lid=000001173844&result_page=1&tclass4val=0&statdisp_id=0004003995",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "https://www.pref.tottori.lg.jp/secure/1237016/keizaisensasuR5kousin.pdf",
+    "https://uub.jp/pdr/id/electronic.html",
+    "https://www.city.higashiyamato.lg.jp/_res/projects/default_project/_page_/001/004/148/20170818-095427.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr24-2/pdf/zentai.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001069811&result_page=1&statdisp_id=0003389414",
+    "https://www.jeita.or.jp/japanese/stat/pdf/executive_summary_2024_2025.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002098274.pdf"
+   ]
+  },
+  {
+   "query": "電子部品・デバイス・電子回路製造業 人手不足 有効求人倍率",
+   "results": [
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://nextengineer.com/blog/know-how001/",
+    "https://www.nikkan.co.jp/articles/view/793476",
+    "https://kjtimes.jp/recruit/technical-intern-training/0016/",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://finance.biggo.jp/news/a324827e-fad8-4800-948e-0833a1916735",
+    "https://monoscope-media.com/people-labor-shortage/"
+   ]
+  },
+  {
+   "query": "電子部品・デバイス・電子回路製造業 市場規模 推移",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E5%B8%82%E5%A0%B4-109245",
+    "https://straitsresearch.com/jp/report/electronic-components-market",
+    "https://www.jeita.or.jp/japanese/stat/pdf/executive_summary_2024_2025.pdf",
+    "https://www.crex-data.com/industry/machinery/electronic-parts",
+    "https://www.mordorintelligence.com/ja/industry-reports/electronic-components-market",
+    "https://www.researchnester.jp/industry-reports/japan-electronic-components-market/170",
+    "https://baike.baidu.com/ja/item/%E9%9B%BB%E5%AD%90%E5%9B%9E%E8%B7%AF%E8%A3%BD%E9%80%A0/3165406",
+    "https://www.databridgemarketresearch.com/jp/reports/global-electronic-components-market",
+    "https://ndlsearch.ndl.go.jp/en/rnavi/business/post_102266",
+    "https://the-shashi.com/market/electronic-parts/"
+   ]
+  },
+  {
+   "query": "電子部品・デバイス・電子回路製造業 休廃業 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "https://www.nikoukei.co.jp/news/detail/280493",
+    "https://ecnomikata.com/ecnews/marketing/48265/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/20/backdata/1-1-10.html",
+    "https://www.date-systems.com/%E8%B3%87%E6%96%99%E5%AE%A4/%E7%B5%B1%E8%A8%88/",
+    "https://www.neri.or.jp/050/research/member/column/iida_kaoru/200/20251210memori.pdf",
+    "https://www.tdb.co.jp/report/economic/20250919-closedown25y1-8/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2023/pdf/honbun_1_1_5.pdf"
+   ]
+  },
+  {
+   "query": "電子部品・デバイス・電子回路製造業 マッチング プラットフォーム",
+   "results": [
+    "https://www.mimasa.co.jp/mos/matching.html",
+    "https://mallento.com/recommend/manufacturing-matching-services/",
+    "https://platto.technoa.co.jp/",
+    "https://aikata-matching.com/",
+    "https://techport.co.jp/archives/40636",
+    "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "https://sankak.jp/fukugyo/7658",
+    "https://www.techs-s.com/media/show/331",
+    "https://monoist.itmedia.co.jp/mn/articles/2008/12/news004.html",
+    "https://www.dafs.or.jp/business-matching/"
+   ]
+  },
+  {
+   "query": "電子部品・デバイス・電子回路製造業 受発注 課題 電話 FAX",
+   "results": [
+    "https://sekai-c.jp/column/3959/",
+    "https://bcart.jp/post/detail/235/",
+    "https://www.ecbeing.net/b2b/solution/case13",
+    "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "https://boxil.jp/mag/a8834/",
+    "https://digital-salvage.co.jp/column/manufacturing-order-ec-transition/",
+    "https://www.casio-human-sys.co.jp/bc-order/column/019.html",
+    "https://www.umsaascloud.jp/blog/fax/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/240422.html",
+    "https://aladdin-ec.jp/product/machine/"
+   ]
+  },
+  {
+   "query": "電子部品・デバイス・電子回路製造業 外注 費用 相場",
+   "results": [
+    "https://www.agency-assist.co.jp/column/13821/",
+    "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/r08/2606/pdf/list_05.pdf",
+    "https://smartf-nexta.com/archives/10737",
+    "https://biz-recipe.jp/column/susumu_ueda2/",
+    "https://ogawa-tech.jp/outsourcing-manufacturing-price/",
+    "https://gemba-c.co.jp/cost-management-1/",
+    "https://mirror-polish.com/blog/cost/",
+    "https://jsite.mhlw.go.jp/tottori-roudoukyoku/content/contents/002086365.pdf",
+    "https://ilink-corp.co.jp/9552.html",
+    "https://www.microtechnology.co.jp/column/ハードウェア開発の外注完全ガイド｜費用相場・/"
+   ]
+  },
+  {
+   "query": "site:note.com 電子部品・デバイス・電子回路製造業",
+   "results": [
+    "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "https://note.com/syuukatu_support/n/n91bb9017ab52",
+    "https://note.com/osaru_toyama/n/n0fc0ec6db4db",
+    "https://note.com/resas_data/n/nbe8329992cb6",
+    "https://note.com/sangyotimes/n/n539bbbbaecf1",
+    "https://note.com/e_p/n/nc7f75b13f407",
+    "https://note.com/taguchi_yasutomo/n/ne96b7d8b4443",
+    "https://note.com/hax/n/n62f5dbfb3d7b",
+    "https://note.com/willtec_ir/n/nabd23d4d3ddb",
+    "https://note.com/5252yyg/n/na077a1e6a918"
+   ]
+  },
+  {
+   "query": "site:x.com 電子部品・デバイス・電子回路製造業",
+   "results": [
+    "https://x.com/OgawaSeisakusho/status/1872487509135110642",
+    "https://x.com/ReportOcean_JP/status/2109856887583940734",
+    "https://x.com/JPCAShow",
+    "https://x.com/ym_flexpcb",
+    "https://x.com/ROHM_JP",
+    "https://x.com/Naga_Kyoto/status/1354763388841193475",
+    "https://x.com/meti_NIPPON/status/1437717898932281346",
+    "https://x.com/katsuo0910",
+    "https://x.com/21GIFU_hwgifu/status/1942901545932378147",
+    "https://x.com/hw_akita/status/2112355505691828345"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 電子部品・デバイス・電子回路製造業",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E4%BA%8B%E6%A5%AD%E3%80%91aratas%E8%A3%BD%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%81%A8%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E9%9B%BB%E6%BA%90%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E8%A8%AD%E8%A8%88-at-omron-group-4426283969",
+    "https://jp.linkedin.com/pulse/%E7%B7%8F%E6%8B%AC-%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%81%8A%E3%82%88%E3%81%B3%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E8%A3%BD%E9%80%A0-market-report-size-trends-projected-124-cagr-l0u1f",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%88%E4%BA%AC%E9%83%BDor%E6%9D%B1%E4%BA%AC-%E9%96%8B%E7%99%BA%E8%B3%BC%E8%B2%B7%EF%BC%89%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2-at-omron-group-4479965971",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%88%B6%E5%BE%A1%E6%A9%9F%E5%99%A8%E4%BA%8B%E6%A5%AD%E3%80%91%E5%AE%89%E5%AE%9A%E4%BE%9B%E7%B5%A6%E3%81%AE%E6%9C%80%E5%89%8D%E7%B7%9A%E3%81%A7%E6%B4%BB%E8%BA%8D%E3%81%99%E3%82%8B%E8%B3%87%E6%9D%90%E8%AA%BF%E9%81%94%E5%B0%82%E9%96%80%E4%BA%BA%E8%B2%A1%EF%BC%88%E5%8D%8A%E5%B0%8E%E4%BD%93%E7%AD%89%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%81%A8%E3%81%99%E3%82%8B%E4%B8%80%E8%88%AC%E5%B8%82%E8%B2%A9%E5%93%81%EF%BC%89%EF%BC%88%E7%94%9F%E7%94%A3scm%E6%9C%AC%E9%83%A8%EF%BC%8F%E8%8D%89%E6%B4%A5%E4%BA%8B%E6%A5%AD%E6%89%80%EF%BC%89-at-omron-group-4476254329",
+    "https://jp.linkedin.com/in/%E4%BF%AE%E5%B9%B3-%E7%B6%BF-8947a5232",
+    "https://jp.linkedin.com/jobs/view/%E3%80%8A%E7%A6%8F%E5%B2%A1%E3%80%8B%E3%80%8A%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E3%80%8B%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E5%AE%9F%E8%A3%85%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%95%E3%83%88%E9%96%8B%E7%99%BA%E3%80%90pco-%E5%9B%9E%E8%B7%AF%E5%BD%A2%E6%88%90%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%80%91-at-panasonic-4481895130",
+    "https://jp.linkedin.com/jobs/view/%E2%97%8E2%E4%BA%A4%E6%9B%BF%C3%97%E5%9C%9F%E6%97%A5%E4%BC%91%E3%81%BF%E3%80%90%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%92%E3%83%A1%E3%83%83%E3%82%AD%E5%8A%A0%E5%B7%A5%E3%81%99%E3%82%8B%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%93%8D%E4%BD%9C%E3%80%91%E6%9C%88%E5%8F%8E36-7%E4%B8%87%E5%86%86%E4%BB%A5%E4%B8%8A%E5%8F%AF-at-%EF%BC%88%E6%A0%AA%EF%BC%89%E6%97%A5%E6%9C%AC%E3%82%B1%E3%82%A4%E3%83%86%E3%83%A0-4485924769",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E6%96%B0%E6%BD%9F%E5%B8%82%E7%A7%8B%E8%91%89%E5%8C%BA%EF%BC%9E%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%81%AE%E5%AE%9F%E8%A3%85%E3%83%9E%E3%82%B7%E3%83%B3%E6%93%8D%E4%BD%9C-%E6%97%A5%E6%89%95%E3%81%84ok%E3%80%90%E6%9C%AA%E7%B5%8C%E9%A8%93ok%EF%BC%81%E3%80%91%E3%82%AC%E3%83%83%E3%83%84%E3%83%AA%E7%A8%BC%E3%81%92%E3%82%8B%E6%AE%8B%E6%A5%AD%E6%9C%8820h%E4%BB%A5%E4%B8%8A%EF%BC%81%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%96%87%E6%9B%B8%E3%81%AE%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%E2%98%86-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%B6%9C%E5%90%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-4454859387",
+    "https://jp.linkedin.com/jobs/view/%E3%80%8A%E7%A6%8F%E5%B2%A1%E3%80%8B%E3%80%8Aqa%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%80%8B%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E5%AE%9F%E8%A3%85%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A9%95%E4%BE%A1%EF%BC%86%E5%93%81%E8%B3%AA%E6%94%B9%E5%96%84%E3%80%90pco-%E5%9B%9E%E8%B7%AF%E5%BD%A2%E6%88%90%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%80%91-at-panasonic-4481889342",
+    "https://jp.linkedin.com/company/rapidus-corporation"
+   ]
+  },
+  {
+   "query": "site:facebook.com 電子部品・デバイス・電子回路製造業",
+   "results": [
+    "https://www.facebook.com/OkayamawineFes/posts/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%8A%E3%81%8B%E3%82%84%E3%81%BE%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B1%95otex2026-%E7%B2%BE%E9%8B%AD%E4%BC%81%E6%A5%AD%E3%81%A8%E5%87%BA%E4%BC%9A%E3%81%86%E6%8A%80%E8%A1%93%E5%B1%95%E7%A4%BA%E5%95%86%E8%AB%87%E4%BC%9A%E6%97%A5%E6%99%822026%E5%B9%B411%E6%9C%8811%E6%97%A5%E6%B0%B412%E6%97%A5%E6%9C%A8-10%E6%99%8217%E6%99%82-%E6%9C%80%E7%B5%82%E6%97%A5%E3%81%AF-16%E6%99%8230%E5%88%86-/1940432317294631/",
+    "https://www.facebook.com/p/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%E5%AE%9F%E8%A3%85%E6%8A%80%E8%A1%93-100063808622919/",
+    "https://www.facebook.com/rengo.tochigi/posts/%E7%89%B9%E5%AE%9A%E6%9C%80%E8%B3%8315%E5%86%8650%E5%86%86%E3%82%A2%E3%83%83%E3%83%9712%E6%9C%8831%E6%97%A5%E3%81%AB%E7%9C%8C%E5%86%855%E6%A5%AD%E7%A8%AE%E3%81%AE%E7%89%B9%E5%AE%9A%E7%94%A3%E6%A5%AD%E5%88%A5%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E3%81%8C%E6%94%B9%E6%AD%A3%E7%99%BA%E5%8A%B9%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E6%94%B9%E6%AD%A3%E9%A1%8D%E3%82%92%E5%8A%B4%E4%BD%BF%E3%81%A7%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E7%A2%BA%E8%AA%8D%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%81%8B%E3%82%89%E6%9C%AC%E6%97%A5%E7%9C%8C%E5%BA%81%E8%A8%98%E8%80%85%E3%82%AF%E3%83%A9%E3%83%96%E3%81%A7%E4%B8%AD/1461627035962859/",
+    "https://www.facebook.com/onagawasyokokai/posts/%E5%AE%AE%E5%9F%8E%E7%9C%8C%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E6%94%B9%E6%AD%A3%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E5%AE%AE%E5%9F%8E%E7%9C%8C%E5%86%85%E3%81%AE%E4%BA%8B%E6%A5%AD%E5%A0%B4%E3%81%A7%E5%83%8D%E3%81%8F%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E5%8A%B4%E5%83%8D%E8%80%85%E8%87%A8%E6%99%82%E3%83%91%E3%83%BC%E3%83%88%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88%E7%AD%89%E3%82%92%E5%90%AB%E3%82%80%E3%81%AB%E9%81%A9%E7%94%A8%E3%81%95%E3%82%8C%E3%82%8B%E5%AE%AE%E5%9F%8E%E7%9C%8C%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E3%81%AF%E5%B9%B3%E6%88%90%EF%BC%93%EF%BC%90%E5%B9%B4%EF%BC%91%EF%BC%90%E6%9C%88%EF%BC%91%E6%97%A5%E6%9C%88%E3%81%8B%E3%82%89%E6%99%82%E9%96%93%E9%A1%8D%EF%BC%97%EF%BC%99%EF%BC%98%E5%86%86/1849512928472825/",
+    "https://www.facebook.com/artdenshirecruit/videos/%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%8A%E5%9B%9E%E3%81%AF%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%81%AE%E5%AE%9F%E8%A3%85%E5%B7%A5%E7%A8%8B%E3%81%AE%E6%A4%9C%E6%9F%BB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99-httpsyoutubekllstjozszc-%E8%A3%BD%E9%80%A0%E5%A5%B3%E5%AD%90%E9%9B%BB%E5%AD%90%E7%B3%BB%E8%A3%BD%E9%80%A0%E5%A5%B3%E5%AD%90%E9%89%9B%E3%83%95%E3%83%AA%E3%83%BC/310615190883373/",
+    "https://www.facebook.com/auba.eiicon.net/posts/auba%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%BC%9A-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%EF%B8%8F%E3%83%AA%E3%83%A7%E3%83%BC%E3%82%B5%E3%83%B3-%E6%A7%98%E3%81%AB%E3%82%88%E3%82%8B%E5%85%B1%E5%89%B5%E4%BA%8B%E4%BE%8B%E3%82%92%E7%B4%B9%E4%BB%8B%E4%B8%AD%E9%9B%BB%E5%AD%90%E6%A9%9F%E5%99%A8%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A8%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E9%96%93%E3%81%AB%E7%AB%8B%E3%81%A1%E9%83%A8%E5%93%81%E3%81%AE%E8%AA%BF%E9%81%94%E7%B4%8D%E5%85%A5%E9%96%8B%E7%99%BA%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%8F%90%E4%BE%9B%E3%82%92%E8%A1%8C%E3%81%86/1252981073534477/",
+    "https://www.facebook.com/labicSR/posts/%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6%E7%9F%B3%E5%B7%9D%E7%9C%8C%E7%89%B9%E5%AE%9A%E7%94%A3%E6%A5%AD%E5%88%A5%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91-%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6%E7%9F%B3%E5%B7%9D%E7%9C%8C%E7%89%B9%E5%AE%9A%E7%94%A3%E6%A5%AD%E5%88%A5%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E3%81%AE%E6%94%B9%E5%AE%9A%E6%B1%BA%E5%AE%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%9F%B3%E5%B7%9D%E7%9C%8C%E7%89%B9%E5%B7%9D%E5%9C%B0%E6%96%B9%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E5%AF%A9%E8%AD%B0%E4%BC%9A%E3%81%AF%E7%9F%B3%E5%B7%9D%E5%8A%B4%E5%83%8D%E5%B1%80%E9%95%B7%E3%81%8B%E3%82%89%E8%AB%AE%E5%95%8F%E3%82%92%E5%8F%97%E3%81%91%E7%AD%94%E7%94%B3%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/1447213597593797/",
+    "https://www.facebook.com/mhlw.hokkaido/posts/%E8%B3%83%E9%87%91%E5%AE%A4%E3%81%8B%E3%82%89%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E5%8C%97%E6%B5%B7%E9%81%93%E7%89%B9%E5%AE%9A%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E5%BC%95%E4%B8%8A%E3%81%92%E3%81%AE%E7%AD%94%E7%94%B3%E3%81%8C%E3%81%BE%E3%81%A8%E3%81%BE%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E5%8C%97%E6%B5%B7%E9%81%93%E5%9C%B0%E6%96%B9%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E5%AF%A9%E8%AD%B0%E4%BC%9A%E3%81%AF9%E6%9C%8829%E6%97%A5%E3%81%BE%E3%81%A7%E3%81%AB4%E6%A5%AD%E7%A8%AE%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E7%89%B9%E5%AE%9A%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%8C%97%E6%B5%B7%E9%81%93%E5%8A%B4%E5%83%8D%E5%B1%80%E9%95%B7%E3%81%AB%E7%AD%94/1402102235443548/",
+    "https://www.facebook.com/Engineering.OsakaUniversity/videos/%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6%E5%B7%A5%E5%AD%A6%E9%83%A8%E3%81%AE%E5%90%84%E5%AD%A6%E7%A7%91%E3%81%AE%E7%B4%B9%E4%BB%8B%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%99-%E5%B7%A5%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91hp%E3%81%AB%E3%81%A6%E7%89%B9%E8%A8%AD%E3%82%B5%E3%82%A4%E3%83%88%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E9%98%AA%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%83%A8%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B92025%E3%82%92%E5%85%AC%E9%96%8B-httpswwwengosaka-uacj/1168382151985228/",
+    "https://www.facebook.com/jetroinnovation/posts/%E9%89%84%E9%8B%BC%E6%A5%AD%E3%81%8B%E3%82%89%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%A1%97%E3%81%AB%E5%A4%89%E8%B2%8C%E3%81%97%E3%81%9F%E3%83%94%E3%83%83%E3%83%84%E3%83%90%E3%83%BC%E3%82%B0%E7%AC%AC6%E5%8F%B7%E3%81%A7%E3%81%AF%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AEai%E6%8A%80%E8%A1%93%E3%81%AB%E5%8A%AA%E3%82%81%E3%82%8B%E3%83%8B%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%88%E3%83%8E%E3%83%9F%E3%83%BC%E7%A4%BE%E3%81%8C%E7%B1%B3%E4%BC%81%E6%A5%AD%E3%82%AB%E3%83%9E%E3%83%B3%E7%A4%BE%E3%81%A8%E6%96%B0%E4%BA%8B%E6%A5%AD%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%BE%E3%81%9F%E5%88%A5/4460640200641895/"
+   ]
+  },
+  {
+   "query": "電子部品・デバイス・電子回路製造業 note 社長",
+   "results": [
+    "https://note.com/rm_sasaki/n/n0cc9ac6236a1",
+    "https://note.com/syuukatu_support/n/n91bb9017ab52",
+    "https://note.com/otaro_semi/n/n0df322705c2e",
+    "https://jsite.mhlw.go.jp/mie-roudoukyoku/var/rev0/0115/8953/20161115151334.pdf",
+    "https://note.com/e_p/n/nc7f75b13f407",
+    "https://www.youtube.com/watch?v=X0tLLNC9Cw4",
+    "https://monosaga.jp/database/%E3%80%90%E3%81%95%E3%81%8C%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E4%BC%81%E6%A5%AD%E3%81%A0%E3%82%88%E3%82%8A%E3%80%80web%E8%A8%98%E4%BA%8B%E3%80%91jsr%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD/",
+    "https://shachomeikan.jp/industry_article/3152",
+    "https://ps.nikkei.com/analogdevices2201/",
+    "https://note.com/clipcorporation/n/n289d58e3f74a"
+   ]
+  },
+  {
+   "query": "電子部品・デバイス・電子回路製造業 X 投稿",
+   "results": [
+    "https://jsite.mhlw.go.jp/mie-roudoukyoku/var/rev0/0115/8953/20161115151334.pdf",
+    "https://tofu.misosil.com/influencers/Electronic-parts-and-devices-and-electronic-circuit-manufacturing-industry/",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2842",
+    "https://x.com/semicon_news",
+    "https://www.sangyo-times.jp/article.aspx?ID=700",
+    "https://jiep.or.jp/tech-committees/embedded.html",
+    "https://pcbandassembly.com/ja/blog/a-complete-guide-to-electronic-devices-and-circuits/",
+    "https://baike.baidu.com/ja/item/%E9%9B%BB%E5%AD%90%E5%9B%9E%E8%B7%AF%E8%A3%BD%E9%80%A0/3165406",
+    "https://www.wonderfulpcb.com/ja/blog/a-comprehensive-guide-to-electronic-devices-and-circuits/",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2814"
+   ]
+  },
+  {
+   "query": "electronic components devices manufacturing Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japan-passive-electronic-components-market-research-report-ngkte",
+    "https://www.linkedin.com/posts/themachinemaker_manufacturing-investment-electronicsmanufacturing-activity-7437476163490566144-soi9",
+    "https://www.linkedin.com/pulse/straight-from-source-new-trends-us-electronic-components-fdbwc",
+    "https://zm.linkedin.com/company/murata-electronics?trk=public_profile_experience-item_profile-section-card_image-click",
+    "https://hk.linkedin.com/company/shinko-device-co-ltd?trk=ppro_cprof",
+    "https://www.linkedin.com/posts/andrewyhchan_japan-is-a-global-leader-in-semiconductor-activity-7502546320734175232-XFoJ",
+    "https://www.linkedin.com/pulse/trending-report-electronic-component-testers-market-us-japan-hg7nf",
+    "https://www.linkedin.com/company/japan-semiconductor-manufacturing-equipment-group",
+    "https://www.linkedin.com/posts/shivraj-dharne-345398b_japan-dominates-silicon-wafer-manufacturing-activity-7419835635873669121-KEZ5",
+    "https://www.linkedin.com/pulse/kenya-africas-next-hub-semiconductors-electronics-tanui-mbs-kbjzc"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,2701 @@
+{
+ "name": "製造業の採用代行（RPO）",
+ "en": "recruitment process outsourcing manufacturers Japan",
+ "aliases": [
+  "採用代行 製造業",
+  "RPO 料金 製造業"
+ ],
+ "context": "入口候補・採用支援（許可不要）",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:53:50.263492+00:00",
+ "evidence": {
+  "顧客獲得単価": [
+   {
+    "quote": "1件あたりの単価が明確な場合が多い",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "費用相場は、内定を承諾した求職者の「年収の○%」といった形式や、求人票から応募された件数「1件あたり○万円」などの条件によって決定される傾向にあります",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "indeedのような運用型求人広告の運用代行を依頼するには別途広告費の15％~20％程度発生します",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "年間10名以上採用する場合、RPOの方が1人あたりの採用単価（CPA）を大幅に抑えられる傾向にあります",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "1件あたり1,000～5,000円",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "1件あたり5,000～10,000円",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "1件あたり25〜80万円",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "• 従量課金型：業務内容や工数によって大きく異なり、スカウト送信1件あたり数百円、面接調整1件あたり数千円、あるいは人月単価で数十万円〜など、多岐にわたります",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "従量課金型は、「スカウトメール送信1通あたり〇円」「面接設定1件あたり〇円」といったように、実際に依頼した作業量に応じて費用が発生する料金体系です",
+    "url": "https://www.strengthening-recruitment.com/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模・通年採用を行っている場合、採用人数が増えても1名あたりの採用単価（CPA）を抑えやすい",
+    "url": "https://tsuginote.co.jp/column/13317",
+    "pass": 3
+   },
+   {
+    "quote": "費用は依頼する内容によって大きく異なりますが、例としては、求人媒体の管理が5～10万円程度、面接の実施サポートは1件あたり8,000～15,000円が相場とされています",
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "1件あたりは数分でも、件数が増えると膨大な工数になります",
+    "url": "https://timebirth.co.jp/useful/rpo-operation/",
+    "pass": 3
+   },
+   {
+    "quote": "面接日程調整：1件あたり数千円〜",
+    "url": "https://vollect.net/hrpedia/manufacturing-rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "約1年半、広告費を累計250万円ほど投じても、求める「施工管理 兼 営業」人材になかなか出会えなかった",
+    "url": "https://r09.jp/columns/23420/",
+    "pass": 3
+   },
+   {
+    "quote": "若手の離職と採用難に悩み、毎年1,500万円もの求人広告費・紹介手数料を垂れ流す負のスパイラルに陥っていました",
+    "url": "https://note.com/foredge/n/n3d6eac9026f3",
+    "pass": 3
+   }
+  ],
+  "顧客が払う単価": [
+   {
+    "quote": "採用代行（RPO）おすすめ45社を比較！料金相場・選び方【2026年版】",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "総合支援型・オペレーション特化型・コンサルティング型・サービス特化型に分類した45社について、特徴・料金・契約期間を一覧表で比較ができます",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事で紹介している45社を、タイプ別に料金・契約期間で比較できる50ページ超の資料です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 【比較の軸】料金体系・契約期間で見る違い",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "6. 料金や知名度だけで選ぶと失敗する？採用代行選びの「3つの注意点」",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "成功報酬型（年収の30%前後が相場）",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "月額14万円～（ニーズに合わせてお見積り）",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "12万5,400円",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "・ベーシックプラン（月額税込10万8,900円）",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "月額固定制の費用相場は、月額5万～100万円です",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "費用相場は、内定を承諾した求職者の「年収の○%」といった形式や、求人票から応募された件数「1件あたり○万円」などの条件によって決定される傾向にあります",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "1回2万円～",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "1回2,500円～",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "月15万円～",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "1回1,000円～",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用での採用代行費用相場……月額5万円〜70万円",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の料金体系は、月額固定型・成果報酬型・従量課金制の3種類があります",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "10万～70万円",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "20万～80万円",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "10万～50万円",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "10万～60万円",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "：採用代行（RPO）の月額費用は、新卒・中途ともに10万〜40万円が一般的で、業務範囲や採用人数により変動します",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（アウトソーシング/RPO）料金と注目の会社厳選5社紹介",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "10万円~100万円／年間",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "特にインターンシップや説明会のコンテンツ設計などは100万円単位で発生します",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "5万円~30万円／月",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "管理するメディアの数、内容、応募者数、インターンシップ説明会の開催数によって変わりますが、数名~20名程度採用規模であれは5万円~10万円程度が多いです",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "これにスカウトの代行まで依頼すると20万円~30万円程度になります",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "100名以上の大量採用でなどになると30万円を超える金額になってきます",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "説明会代行、インターンシップ代行は1開催5万円~20万円程度、別途費用が発生します",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "10万円~40万円／月",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "採用数、応募者数や面接回数などで変わりますが、数名~20名程度の採用規模であれば10万円~20万円程度が一般的です",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "これに採用専用ダイヤル回線を引いたり、面接回数が4回以上になるなどボリュームが増えると20~40万円程度になります",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "面接代行や面接官トレーニングなどは1開催5万円~20万円程度、別途費用が発生します",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "内定者の人数や内定者向けのイベントの開催数によって違うので費用感を出すのは難しいですが、1回の内定者向け研修は10万円程度から対応してくれます",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "料金公開されている採用代行（RPO）10社比較！の費用相場を料金体系・雇用形態・運用形態別に解説 | まるごと人事｜成長企業向けの採用代行｜マルゴト株式会社",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "料金公開されている採用代行（RPO）10社比較！の費用相場を料金体系・雇用形態・運用形態別に解説",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "料金体系・依頼する業務範囲・採用ターゲットの3つの要素で大きく変わります",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "料金を公開している10社の比較と、費用対効果で判断するための試算までまとめているので採用代行導入のご判断にお役立てください",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "【早見表】採用代行（RPO）の費用相場は月10万円台〜80万円が目安",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "1.月額一律料金型",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "料金が公開されている採用代行サービス10社の料金比較",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "採用業務の一部だけを任せるなら月10万円台から、採用活動を一式まるごと委託する場合は月40万円前後からが中心です",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用を丸ごと外注するケースでは、月10〜80万円程度に収まることが多くなっています",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】採用代行（RPO）比較46選｜料金・対応範囲・選び方を解説",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "月額20万円から必要な採用業務を依頼できる",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、主な料金体系としては「月額固定型」「成果報酬型」「従量課金型」の3種類があり、それぞれの特徴を理解することで、自社に最適なプランを見つけることが可能です",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の費用相場【2026年】｜月額型・成果報酬型・従量型の料金目安",
+    "url": "https://innovel.jp/rpo-cost-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）の費用相場と3つの料金体系",
+    "url": "https://www.strengthening-recruitment.com/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "費用相場は依頼する業務範囲や想定される稼働時間によって変動しますが、一般的には月額10万円〜50万円程度が目安となります",
+    "url": "https://www.strengthening-recruitment.com/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "専任のコンサルタントが付き、採用戦略の立案から日々の運用改善、データ分析まで伴走してくれるような手厚いプランの場合は、月額50万円を超えるケースも少なくありません",
+    "url": "https://www.strengthening-recruitment.com/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "従量課金型は、「スカウトメール送信1通あたり〇円」「面接設定1件あたり〇円」といったように、実際に依頼した作業量に応じて費用が発生する料金体系です",
+    "url": "https://www.strengthening-recruitment.com/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "費用相場は作業内容によって細かく分かれており、例えばスカウト代行であれば1通あたり数百円〜1,000円程度、求人票の作成であれば1件数万円〜といった価格設定が一般的です",
+    "url": "https://www.strengthening-recruitment.com/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "成果報酬型は、人材紹介サービスと同様に「採用が1名決定した時点」や「応募が〇件集まった時点」で初めて費用が発生する料金体系です",
+    "url": "https://www.strengthening-recruitment.com/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "費用相場は、採用決定を成果とする場合、候補者の想定年収の一定割合（30%〜35%程度）や、1名につき数十万円〜100万円といった設定が多く見られます",
+    "url": "https://www.strengthening-recruitment.com/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "書類作成代行の料金相場はいくら？おすすめ代行サービス5選",
+    "url": "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "小中規模のRPOであれば月額30万円〜80万円、フルRPO(包括支援)の場合月額80万円〜300万円以上と、対応範囲や期間によって金額が異なります",
+    "url": "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "職種や年収レンジによりますが採用1名当たり30万円〜60万円、役職者や専門職になると年収の15％〜30％程度の費用がかかります",
+    "url": "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "時間単価×稼働時間、またはFTE(フルタイム等価)ベースで請求され、1時間辺り8,000円〜30,000円、1人分のFTEは月額50万円〜150万円程度かかります",
+    "url": "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模：月額10〜30万円（スカウト・日程調整中心）",
+    "url": "https://media.taikennyusha.com/movie/column/recruit-tips/6-2/",
+    "pass": 3
+   }
+  ],
+  "成約率・継続率": [
+   {
+    "quote": "・支援実績800社以上、リピート率90％以上",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "・75％以上が社員で対応し、契約継続率は",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "・継続率90%",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "・リピート率90％以上",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に寄り添った質の高いサービスを提供し、リピート率96％の実績",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "75％以上が社員で対応しているため、クオリティや知見にばらつきがなく、契約継続率は95％以上",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "振り返りミーティングの実施で、返信率や採用決定率の向上を図る",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "そのほか、採用データ分析・採用代行・スカウト代行・組織開発支援・人事評価制度設計・面接代行・人事ERP導入支援まで、横断的なサービスを提供しており、サービスの継続率は80%超え",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "継続率は90%",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート継続率は80％以上",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "リピート率は90％以上と高い信頼性",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "契約継続率95％以上",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の継続率9割以上の高い満足度",
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "リピート率95%!!料金やお得な活用方法、企業の声や事例、導入までの流れを無料でご紹介！",
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "継続率は90％以上",
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "低価格で質の高い、お客様に寄り添ったサービスを提供し、リピート率96％の実績",
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "リピート率95%",
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "リピート率95%!!料金やお得な活用方法、企業の声や事例、導入までの流れを無料でご紹介！",
+    "url": "https://marugotoinc.jp/blog/saiyodaiko-ihou/",
+    "pass": 3
+   },
+   {
+    "quote": "Indeedの調査では、選考状況の更新率が50%を超える企業は、50%以下の企業より有効応募率が2.7倍でした",
+    "url": "https://nicop.jp/blog/recruitment-outsourcing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "60社以上の企業への支援実績があり、継続率は90％を超える",
+    "url": "https://numberz.jp/column/%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88rpo%EF%BC%8938%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%AF%94%E8%BC%83%EF%BC%81%E3%81%A9%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、累計60社以上の企業への支援実績と90％以上の継続率は、そのサービスの高い効果と顧客満足度を示しています",
+    "url": "https://numberz.jp/column/%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88rpo%EF%BC%8938%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%AF%94%E8%BC%83%EF%BC%81%E3%81%A9%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "過去2年間で「承認後決定率No.1」の実績",
+    "url": "https://numberz.jp/column/%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88rpo%EF%BC%8938%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%AF%94%E8%BC%83%EF%BC%81%E3%81%A9%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "また、このアプローチが評価され、過去2年連続でOfferBoxの「承認後決定率No.1」を受賞するなど、その成果も実証されています",
+    "url": "https://numberz.jp/column/%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88rpo%EF%BC%8938%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%AF%94%E8%BC%83%EF%BC%81%E3%81%A9%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "また、企業の人材採用における具体的な課題を解決するための戦略的な提案も行っており、リピート率は90％以上と非常に高い実績を保持しています",
+    "url": "https://numberz.jp/column/%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88rpo%EF%BC%8938%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%AF%94%E8%BC%83%EF%BC%81%E3%81%A9%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "高い顧客満足度と継続率",
+    "url": "https://numberz.jp/column/%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88rpo%EF%BC%8938%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%AF%94%E8%BC%83%EF%BC%81%E3%81%A9%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の継続率が9割以上に達しているのは、その効果的なサポート体制とアウトソーシングサービスの質の高さによるものです",
+    "url": "https://numberz.jp/column/%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88rpo%EF%BC%8938%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%AF%94%E8%BC%83%EF%BC%81%E3%81%A9%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、お客様に寄り添ったサポートを行い、リピート率96％という高い実績を誇っています",
+    "url": "https://numberz.jp/column/%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88rpo%EF%BC%8938%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%AF%94%E8%BC%83%EF%BC%81%E3%81%A9%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "リピート率90％",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "社 リピート率",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "リピート率90％以上",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "支援顧客数300社以上、リピート率90％、プロジェクト数400件以上",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "TARGETのサービス継続率は94.1％",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "提供しているサービスである『TARGET』の継続率は94.1%を誇り、累計50,000通以上のスカウト実績の経験とノウハウによる支援を期待できます",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "リピート率96％の実績",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "また、採用後のサポートも重点的に行っているため業務の質も非常に高く、リピート率も96%を誇っています",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート継続率80％超",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "・デジタル領域の採用60%以上、契約継続率は90%超",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客継続率90％以上",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "企業満足度92.1％、継続率93.8％",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "企業満足度や継続率はともに90%を超えており、ほとんどの企業が依頼して満足していることがわかります",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "リピート率98.6％",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   },
+   {
+    "quote": "支援実績800社以上・リピート率90％以上を誇る「レジェンダ・コーポレーション」の採用代行サービスをぜひご覧ください",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   }
+  ],
+  "許可・資格の要否": [
+   {
+    "quote": "一般労働者派遣許可 許可番号 13-070366",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介事業許可 許可番号 13-ユ-070309",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "プライバシーマーク認定 10860758(10)",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "会員登録はこちら",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "みんなの採用部があなたの許可なく投稿することはありません",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "簡単10秒！無料会員登録",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "他サービスIDで登録",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行サービスには、人事経験者はもちろん、キャリアカウンセラー経験者やCDA等のキャリアカウンセラー資格の保有者など、専門性の高い人材が多く在籍しているため、面接業務そのものを委託することが可能なのです",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "また、報告体制の明確化により、双方の期待や要件を共有し、円滑なコミュニケーションを図ることができます",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行会社には専門知識やノウハウがありますが、会社の採用ニーズや要件を適切に伝えることができないと代行会社のノウハウを最大限に利用することは難しくなるでしょう",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "doda人材紹介サービスは、採用代行とはサービスの形態に違いがありますが、企業の採用要件に合わせた人材採用のお手伝いをする、という点においては変わりありません",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "専門知識をもつプロのサポートにより、採用要件に合う転職希望者のみに絞って対応できるため、工数の大幅な削減が実現できます",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "専門的な知識をもつ採用のプロが、採用要件にマッチした転職希望者を厳選し、ご紹介いたします",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介事業 許可番号：13-ユ-304785",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介優良事業者に認定されています",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "採用ターゲットの明確化（人物要件定義）、採用戦略の立案、予算設定、KPI設定などの詳細なコンサルティングを行います",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "1. 採用戦略の立案・採用要件の策定",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "採用計画の立案＋要件定義",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "あくまでも目安ですが、中途採用は採用要件を把握して、ターゲットの経歴に合った採用活動を進める必要があるため、新卒採用よりも高めの相場となっています",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "市場動向や競合の採用状況を分析したうえで、事業計画に合致した採用ターゲットやペルソナを設定し、現場ヒアリングをもとに詳細な採用要件を定義します",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用では、職種や経験、保有スキルなど採用要件に合った人材へアプローチする必要があります",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒・中途採用と比べると採用要件が限定されにくく、比較的安価に利用できる傾向があります",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、採用戦略の立案や採用要件の設計など、専門性の高い業務には対応していない場合があります",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、採用市場や競合の調査、採用ターゲットの設定、採用要件の整理、利用する求人媒体や採用手法の選定などを依頼できます",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "単純な事務作業の代行にとどまらず、採用要件の定義や採用設計といった上流工程から支援できる点が特徴です",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "そこでアールナインが採用要件の定義や評価基準の整備などを支援し、属人的だった採用活動を仕組み化",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "要件定義・評価シート作成など、採用の仕組みづくり…",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "人材要件とは？設定する項目例や作り方・フレームワークを解説",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "「人事ライト」は、株式会社アールナインの登録商標です（登録商標第6880480号）",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介事業者許可番号 13-ユ-305732",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "【完全無料・メアド登録も不要：ここをクリック】規定や契約書作成・届出ひな形・節税シミュレーション・会社設立時チェックリストなどの自動ツールを無料公開中！",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "複数のエージェントとの窓口となり、貴社の採用要件を正確に伝え、候補者の推薦を促します",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "また、採用要件が極めてニッチで、ターゲットとなる候補者が非常に少ない場合も、RPOベンダーが工数を要するため費用が高くなる傾向にあります",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、採用要件の微妙なニュアンスがRPO担当者に伝わらず、ミスマッチな候補者が多く選考に乗ってしまうケースや、候補者からの問い合わせに対する回答が遅れることで、選考辞退につながってしまうケースなどが考えられます",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "最も解決したい課題を明確にすることで、RPOベンダーに伝えるべき要件が整理され、自社の状況に合致した提案を受けやすくなります",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "申告・届出をしたい",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介は、紹介会社が保有するデータベースの中から自社の要件に合う候補者を推薦してもらうサービスであり、採用が決定した際に年収の一定割合を支払う成功報酬型が基本です",
+    "url": "https://www.strengthening-recruitment.com/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、現場部門が求める細かなスキル要件や企業カルチャーのニュアンスは言語化しにくく、RPO担当者との間で認識のズレが生じやすい部分です",
+    "url": "https://www.strengthening-recruitment.com/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品・医薬部外品のアッセンブリ｜許可が必要な流通加工の委託先",
+    "url": "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "採用要件の整理や母集団形成に課題を感じている企業",
+    "url": "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "・即戦力採用を前提とした要件整理",
+    "url": "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "・丁寧な要件定義と候補者対応",
+    "url": "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "採用要件の整理から候補者対応までを丁寧に設計し、ミスマッチの発生を抑えます",
+    "url": "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "採用要件と課題を明確化する",
+    "url": "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行は、採用戦略や要件整理から支援可能なため安心して利用できます",
+    "url": "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "上流工程：要件設計・求人設計・採用戦略",
+    "url": "https://media.taikennyusha.com/movie/column/recruit-tips/6-2/",
+    "pass": 3
+   },
+   {
+    "quote": "業務委託・パートナー登録",
+    "url": "https://tsuginote.co.jp/column/13317",
+    "pass": 3
+   },
+   {
+    "quote": "事業者が有料職業紹介許可（職安法第30条）を保持しているかの確認",
+    "url": "https://tsuginote.co.jp/column/13317",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】採用力を爆発させる「企業認定制度」活用ガイド｜求職者に選ばれるホワイト企業の証明書",
+    "url": "https://tsuginote.co.jp/column/13317",
+    "pass": 3
+   },
+   {
+    "quote": "メールマガジン登録",
+    "url": "https://tsuginote.co.jp/column/13317",
+    "pass": 3
+   },
+   {
+    "quote": "メールマガジン登録はコチラ",
+    "url": "https://tsuginote.co.jp/column/13317",
+    "pass": 3
+   },
+   {
+    "quote": "メールマガジン登録へ",
+    "url": "https://tsuginote.co.jp/column/13317",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録",
+    "url": "https://tsuginote.co.jp/column/13317",
+    "pass": 3
+   },
+   {
+    "quote": "評価において15年連続グローバルリーダーに認定されました",
+    "url": "https://www.randstadenterprise.com/solutions/talent-acquisition/rpo/what-is-rpo-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "採用要件の整理から求人原稿の制作、Indeed・求人ボックス・エンゲージ・Airワーク等への掲載と掲載後の運用改善、週次レポートまで",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "採用要件の整理から求人原稿の制作、媒体掲載・運用改善まで",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "採用要件の整理から媒体の設定・運用までを引き受けます",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "フォークリフト有資格者",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "採用要件の整理・求人原稿の制作・媒体への掲載・掲載後の運用改善",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "物流職は免許・勤務時間・担当業務を別に確認する",
+    "url": "https://torutorukun.co.jp/column/manufacturing-recruitment-outsourcing/",
+    "pass": 3
+   }
+  ],
+  "最初の売上までの期間": [
+   {
+    "quote": "総合支援型・オペレーション特化型・コンサルティング型・サービス特化型に分類した45社について、特徴・料金・契約期間を一覧表で比較ができます",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事で紹介している45社を、タイプ別に料金・契約期間で比較できる50ページ超の資料です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 【比較の軸】料金体系・契約期間で見る違い",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間の柔軟性",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "成約ベース（期間の概念が薄い）",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "【比較表の見方】料金・契約期間で確認すべきポイント",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "「1カ月から」「3カ月から」など、最低契約期間が短いほどスポット利用に向いている",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば「まずは1業務だけ試したい」という企業は、契約期間が短く従量課金型の会社が候補になりやすく、「複数業務をまとめて任せたい」という企業は、月額固定型で契約期間の長い総合支援型が候補になりやすい傾向があります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "比較検討時に混乱しないよう、まずは料金体系の分類と、契約期間が意味することを整理しておきましょう",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間の違いが意味すること",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "比較表を見ると、契約期間は「1カ月から」「3カ月から」「6カ月から」など会社によって幅があります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間が短い（1カ月〜）会社",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間が長い（6カ月〜）会社",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年創立以来、業種・職種問わず累計12,000社以上の採用支援実績を誇る",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間に関しては非常に柔軟で、1日単位や時間単位での相談も可能",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "求める人材や採用期間、採用人数などの希望を伝えておくことで、しっかりとした計画の立案を期待することができるはずです",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "どれだけ優秀なスキルセットを有している人物であっても、社風と合わない、既存社員と相性が良くないなどの問題を抱えていると、短期間で退職してしまうケースもあります",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "期間と契約更新条件：採用代行の契約期間や契約更新の可否、更新条件などを明確化しましょう",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の業務にぴったりな経歴をもつ人材であっても、社風と合わなかったり既存社員との相性がよくなかったりすると、短期間で離職してしまう可能性があります",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行サービスの費用は採用規模や依頼業務の量や範囲によって違いますのであくまで参考となりますが、その内容量と規模によって1ヶ月ごとに設定されている場合が多いです",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "1ヶ月単位で発生する事が多いです",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "アルバイト、パートの採用メディアの場合、掲載期間も短いので運用というより出稿管理が主になります",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "特に、昨今、採用メディアもツールも複雑化し、操作方法など覚えないといけない事が多岐に渡るため、派遣社員の短い採用期間でこれらをしっかり使いこなすのは難しいと言えます",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "実務のスピード感はすぐに上がりますが、採用プロセスの改善やブランディングの効果が数値として安定するのは、導入から3ヶ月〜半年程度が目安です",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "得意領域: ベンチャーの新卒採用立ち上げ、サービス系企業の100名規模採用、大手製造業の理系上位校採用",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "累計200社以上の支援実績に基づき、現在は株式会社採用総研の常務取締役として、東京オフィスの設立やWebマーケティング部門の立ち上げを牽引",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の最低契約期間はどのくらいですか？",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "実施期間の目安",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間は1〜3か月からとするサービスが多く、短期のスポット依頼にも対応できます",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "月25万円×36ヶ月＋初期10万円",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "募集の立ち上げが1か月遅れれば、その分だけ現場の残業や機会損失が積み上がり、採用単価には表れない負担として残ります",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行なら、媒体選定・求人原稿・スカウト運用の初動をすぐに立ち上げ可能です",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "「空席が埋まらない期間のコスト」まで含めて計算すると、採用代行の月額は決して高い支出ではありません",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "依頼して終わりではなく、最初の1か月で認識をそろえましょう",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間：1ヶ月〜",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間：3ヶ月〜",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間：非公開",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間：3ヶ月～",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間：1ヶ月～",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "1ヶ月から契約できるサービスもあれば、3ヶ月以上を条件とするサービスもあります",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "短期間で試してから判断したい場合は、契約期間の縛りが短いサービスを選ぶと始めやすくなります",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行は何か月から利用できますか？",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、採用代行は契約期間中の費用が発生するため、採用予定が1名のみの場合などは、人材紹介のほうが適しているケースもあります",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "「どちらが安いか」だけで判断するのではなく、採用人数や採用期間、自社で対応できる業務範囲を踏まえて選ぶことが重要です",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりを依頼する際は、採用人数や職種、依頼したい業務、希望する契約期間などをできるだけ具体的に伝えておきましょう",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "また、同程度の月額料金であっても、対応できる業務範囲や稼働時間、最低契約期間などには違いがあります",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な業務だけを依頼でき、採用状況に応じて1か月単位でプランを変更できます",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "契約は1か月から可能なため、採用担当者のリソースが不足している期間や、一時的に採用活動を強化したい場合にも利用しやすいサービスです",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "いずれも契約期間は3か月からです",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な業務だけを選んで依頼できるほか、1か月単位でプランを変更できるのが特徴です",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行の最低契約期間はサービスによって異なり、1か月から利用できるものもあれば、3か月以上の契約が必要なものもあります",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "短期間だけ採用活動を強化したい場合や、繁忙期のみ外部リソースを活用したい場合は、最低契約期間を確認しておくことが重要です",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "また、契約期間だけでなく、途中でプランや業務量を変更できるかどうかも確認しておくとよいでしょう",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "どちらがお得かは、採用予定人数や採用期間によって異なります",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "「何名採用したいのか」「どの程度の期間利用するのか」を整理し、想定される総額で比較しましょう",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、月額固定型の採用代行では、契約期間中に複数名を採用しても、採用人数に比例して料金が増えないサービスもあります",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "内定から入社までの期間は、候補者の入社意欲を維持し、スムーズな入社を実現するための非常に重要なフェーズです",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "RPOサービスは、この期間における内定辞退の防止と入社者の定着支援を目的とした、きめ細やかなフォローアップ業務を代行します",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "事業の成長フェーズにある企業や、新規事業の立ち上げ、あるいは急な欠員補充など、短期間での採用が求められる状況において、採用スピードの向上は極めて重要な要素となります",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "RPOを活用することで、母集団形成から内定出しまでのリードタイムを大幅に短縮できる可能性があります",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   }
+  ],
+  "営業のやり方": [
+   {
+    "quote": "プランナーのご紹介",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）とは？導入メリットや人材派遣・人材紹介との違いを解説",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事で紹介している45社を、タイプ別に料金・契約期間で比較できる50ページ超の資料です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）と人材紹介・人材派遣の違い",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行は採用業務を委託できるのに対し、人材紹介と人材派遣はあくまで人材不足を解消する一助となるサービスです",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行と人材紹介、人材派遣には、「業務範囲」において明確な違いがあります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "求職者の紹介〜面接設定まで",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "・採用代行以外にも、コンサルティングや採用サイトの制作、ブログ・SNSの運用代行などさまざまなサービスを展開",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "特定の職種・業界に特化した会社を「新卒採用」「エンジニア採用」「その他の専門領域」の3つに分けて紹介します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "採用戦略の立案から実務代行まで幅広く対応する、総合支援型の会社を紹介します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "実際の支援領域も、新卒採用・中途採用・エンジニア採用はもちろん、人材紹介会社向けの高度な採用代行まで幅広く網羅しています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "ネオキャリアは、求人媒体・人材紹介・採用イベントを自社で網羅しているため、ただの事務代行に留まらず、どうすれば応募者が集まり、どうすれば辞退を防げるかのノウハウを実務に100%注入します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "ネオキャリアの採用代行を実際に導入・活用し、採用活動の大幅な効率化や選考数値の改善を達成した中途・新卒の成功事例をご紹介します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "と考えている方へ、中途採用代行の詳細をご紹介しています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "と考えている方へ、新卒採用代行サービスの詳細をご紹介しています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、採用代行の費用相場や期待できるメリット、採用代行を有効活用するために知っておきたいポイントについてご紹介してきました",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "doda人材紹介サービス",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "マッチする即戦力となる人材の採用ならdoda人材紹介サービス",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "応募者を募る手段は、求人誌や新聞広告、求人サイト、SNS広告などさまざまです",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "採用活動とは？企業側における成功ポイントや採用トレンドをご紹介",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "そのような方に向けて、ここからは、採用代行を有効に活用するための方法を2つご紹介します",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "doda人材紹介サービスは、採用代行とはサービスの形態に違いがありますが、企業の採用要件に合わせた人材採用のお手伝いをする、という点においては変わりありません",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "また、doda人材紹介サービスの他にも、求人掲載ができる『",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "「自社の課題がわからずプランを決めかねている…」「人材紹介サービスも気になる」という企業は、",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "専門的な知識をもつ採用のプロが、採用要件にマッチした転職希望者を厳選し、ご紹介いたします",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "実施セミナー一覧",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "doda人材紹介",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介サービス",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "代理店を希望される",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介事業 許可番号：13-ユ-304785",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "このコラムでは、採用代行の費用相場について採用人数や委託する内容別に公開し、わかりやすく採用代行サービスの相場、費用感についてご紹介します",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（アウトソーシング/RPO）料金と注目の会社厳選5社紹介",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "ここではRPO導入を検討する際の費用感とポイントについて紹介します",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "複数の求人メディアやエージェントとのやりとりが発生し、比較検討や価格交渉など採用担当者に大きな負担がかかりがちな、求人媒体や人材紹介会社の選定・発注・出稿管理を採用代行サービスに頼ることができます",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "また、就職・転職フェアや単独説明会において、採用担当者としてセミナー登壇や説明を行うこともできます",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "以下、参考として各選考フローごとに一般的な費用相場をご紹介します",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "スカウト送信、レジュメ選考、面接調整といった「オペレーション」だけでなく、求人票の作成や紹介会社（エージェント）対応、さらには採用戦略の立案まで幅広く依頼できます",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 紹介会社（エージェント）を使うより安くなりますか？",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "採用総研の採用代行・アウトソーシング（RPO）の紹介ページです",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "現場と人事が連携しやすくなる仕組み化のポイントをわかりやすく紹介します",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "💡 この記事でわかること RPO（採用代行）の意味と、人材紹介・人材派遣・BPOとの違い RPOに任せられる業務と、自社に残すべき判断の線引き 費用相場・メリット・デメリットと、自社に向いているかの判...",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行と人材紹介はどちらが安い？逆転ラインは年2名",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行と人材紹介（エージェント）では、どちらが費用を抑えられますか？",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "エージェントからの紹介数を増やしたい企業",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "を紹介します",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "「まるごと人事」が培ってきた、採用戦略の立案手順・採用戦略で必要なフレームワークをご紹介！採用を成功させるポイントを今すぐチェック!!",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行と人材紹介のどちらが安いかは、年間の採用人数で逆転します",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "年1名の採用なら人材紹介、年2名以上なら採用代行のほうが安くなります",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "理論年収500万円の中途採用で、人材紹介の手数料を理論年収の35%として初年度の費用を比べると、次のようになります",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介は1人採用するたびに175万円がかかり続けますが、月額制の採用代行は何名採用しても総額が変わりません",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりを比べるときは、月額そのものではなく「自社の採用予定人数で割った1人あたりの採用単価」に直すと、人材紹介と同じ土俵で比較できます",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "「人材紹介」や「採用担当を1名雇う場合」と3年スパンで比べると、総額の違いが見えてきます",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、採用が1名だけ・不定期であれば、成果が出るまで費用が発生しない人材紹介が割安になる場合もあります",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは主要な5つの業務を紹介します",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、人材紹介との費用の違いや、採用代行の費用を抑えるポイント、料金が公開されているサービスについても紹介します",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行と人材紹介の費用を比較",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行と人材紹介はどちらが安いですか？",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）と人材紹介では、料金の発生方法が大きく異なります",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   }
+  ],
+  "小さく始めた実例": [
+   {
+    "quote": "1973年創業と業界内でも老舗企業で、採用に関するノウハウが豊富",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "2004年創業以来、パートや契約社員など有期雇用スタッフ採用において、年間900名規模の採用実績を持つ",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数：100～499人",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数：1000～4999人",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数：5000人以上",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "pass": 3
+   },
+   {
+    "quote": "かつては大量採用をする一部の大手企業が導入している事が多かったですが、最近では社員数が少なく採用に大きなリソースを割けない中小企業や最新の採用ノウハウの導入を求める企業など様々な企業で導入が進んでいます",
+    "url": "https://www.ssen.co.jp/blog/149",
+    "pass": 3
+   },
+   {
+    "quote": "この記事の監修者：今 啓亮（創業者）",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "理論年収500万円の中途採用で、人材紹介の手数料を理論年収の35%として初年度の費用を比べると、次のようになります",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "月額30万円のサービスなら初年度370万円となり、逆転するのは年3名からです",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "（旧社名：株式会社ビーグローバル）を創業",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "こう話すのは、従業員数63名（2025年3月時点）、鉄道車両の整備・点検を手がける堀江車輌電装株式会社の代表、堀江様",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、一人で採用業務の全てを担う「一人人事」や、少人数で採用チームを運営している企業では、RPOは即戦力となるリソースとして機能します",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "次に、RPO導入時の年間費用と、RPOによって削減できる内製コストや、採用成功による事業貢献効果（例：エンジニア1名早期採用による売上貢献額）を数値化し、比較します",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "少人数のピンポイント採用や、採用リスクを低くしたい場合は、成果報酬型が適しているかもしれません",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "採用の長期化：ポジションが埋まらない間、既存社員の負担増や売上機会の損失が続く",
+    "url": "https://innovel.jp/rpo-cost-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "良い人材が1人早く入ることで生まれる売上や生産性の向上を天秤にかければ、代行費用は十分に回収できる範囲に収まることが多いのです",
+    "url": "https://innovel.jp/rpo-cost-comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度から完璧な運用は難しいため、",
+    "url": "https://media.taikennyusha.com/movie/column/recruit-tips/6-2/",
+    "pass": 3
+   },
+   {
+    "quote": "創業初期で、採用が未達となった際の固定費リスクを負えないフェーズである場合",
+    "url": "https://tsuginote.co.jp/column/13317",
+    "pass": 3
+   },
+   {
+    "quote": "工場内で物流を担当する職種でも、生産ラインの従業員とは仕事内容や勤務時間が異なる場合があります",
+    "url": "https://torutorukun.co.jp/column/manufacturing-recruitment-outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事の監修者：今 啓亮（創業者）",
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】採用代行（RPO）の導入事例16選｜業種・従業員規模別に課題と成果を紹介",
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "（旧社名：株式会社ビーグローバル）を創業",
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "ジョブローテーション制度や社内FA制度などの制度が未熟であったり、従業員が入社前と入社後で就業に対するギャップが生まれている場合は、従業員の離職の原因となりえます",
+    "url": "https://mytalent.jp/lab/s_rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "失っているのは人件費だけではなく、その時間が生むはずだった売上でもあります",
+    "url": "https://refactar.net/blog/2026-06-02-rpo-cost-effectiveness",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介・採用代行の売上が伸び止まる「オペレーションの壁」とは？人を増やさず利益を最大化する仕組みの作り方 | 株式会社タイムバース",
+    "url": "https://timebirth.co.jp/useful/rpo-operation/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介・採用代行の売上が伸び止まる「オペレーションの壁」とは？人を増やさず利益を最大化する仕組みの作り方",
+    "url": "https://timebirth.co.jp/useful/rpo-operation/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 売上が増えるほど「経営が苦しくなる」矛盾の正体",
+    "url": "https://timebirth.co.jp/useful/rpo-operation/",
+    "pass": 3
+   },
+   {
+    "quote": "「売上を伸ばすためには、先に人を採らないといけない",
+    "url": "https://timebirth.co.jp/useful/rpo-operation/",
+    "pass": 3
+   },
+   {
+    "quote": "労働集約型モデルでは、売上を伸ばすために人を増やす必要があります",
+    "url": "https://timebirth.co.jp/useful/rpo-operation/",
+    "pass": 3
+   },
+   {
+    "quote": "売上は伸びているのに、手元にお金が残らない",
+    "url": "https://timebirth.co.jp/useful/rpo-operation/",
+    "pass": 3
+   },
+   {
+    "quote": "この作業は売上を1円も生みませんが、確実に時間を奪います",
+    "url": "https://timebirth.co.jp/useful/rpo-operation/",
+    "pass": 3
+   },
+   {
+    "quote": "売上が伸びた瞬間、会社が止まる？スプレッドシート管理の危険性",
+    "url": "https://timebirth.co.jp/useful/rpo-operation/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行（RPO）会社の評価は、売上高だけでは決まりません",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "同じ売上規模でも、評価が数倍違うことは珍しくありません",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "売上規模別に見る採用代行（RPO）会社の成約価格（公開成約事例ベース）",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "結論：採用代行（RPO）会社の価格を決める最大の要素は、売上規模ではなく「法人顧客が継続して発注しているか」と「採用支援ノウハウとリクルーターが定着しているか」です",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "売上が数社・特定業界に集中していないか",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "売上の大きさ（単体）",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "売上が大きくても、スポット中心・利益が薄いと評価は伸びない",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "売上規模を追うのはその後です",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "実名の例（売上規模）",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "買い手（売上規模）",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "同じ年商でも、評価には差が出ます",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "○ 特定数社・特定業界に売上が集中している",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "「人材が残るか」「顧客が続くか」この2つを整えるだけで、同じ売上規模でも評価は変わってきます",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "• 従業員はどうなるか（雇用の継続）",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 / 従業員",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "簡潔に説明すると、労働者を募集する者（募集主）が自社の従業員ではない第三者（外部パートナー）に対価を支払い、労働者の募集を行わせることです",
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-illegality/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事の監修者：今 啓亮（創業者）",
+    "url": "https://marugotoinc.jp/blog/saiyodaiko-ihou/",
+    "pass": 3
+   },
+   {
+    "quote": "直接募集: 企業が自社の従業員を通して直接行う募集方法",
+    "url": "https://marugotoinc.jp/blog/saiyodaiko-ihou/",
+    "pass": 3
+   },
+   {
+    "quote": "委託募集: 企業が従業員以外の第三者に募集を委託する方法",
+    "url": "https://marugotoinc.jp/blog/saiyodaiko-ihou/",
+    "pass": 3
+   },
+   {
+    "quote": "（旧社名：株式会社ビーグローバル）を創業",
+    "url": "https://marugotoinc.jp/blog/saiyodaiko-ihou/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数：100～499人",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-agency-illegal",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数：5000人以上",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-agency-illegal",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどの第36条と一緒に照らし合わせると、もし雇い主(企業・委託主)が労働者を雇用する際に、被用者(自社の従業員：人事)を使わず",
+    "url": "https://saiyou-daikou.com/saiyoudaikou-ihou/",
+    "pass": 3
+   },
+   {
+    "quote": "創業60年の老舗が挑む、次世代の若手と創る心温まるサービスへの挑戦",
+    "url": "https://vollect.net/hrpedia/rpo_illegal/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業における従業員の採用・定着に関する調査",
+    "url": "https://nicop.jp/blog/recruitment-outsourcing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "：株式会社アイ・ステーション様は、IT・テクノロジー領域の企業です（従業員303名）",
+    "url": "https://nicop.jp/blog/recruitment-outsourcing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "：株式会社日本エム・ディ・エム様は、医療機器メーカーです（従業員312名、連結539名",
+    "url": "https://nicop.jp/blog/recruitment-outsourcing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "リクルート出身で、在籍時は中途採用を中心に200社以上の採用支援を担当し、組織内の売上MVP（約300名中）を複数回受賞",
+    "url": "https://nicop.jp/blog/recruitment-outsourcing-guide/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "採用代行 （ RPO ）おすすめ45社を比較！ 料金相場 ・選び方 ... — 採用代行 （ RPO ）おすすめ45社を比較！ 料金相場 ・選び方 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "料金 公開されている 採用代行 （ RPO ）10社比較！の費用 相場 ... — 料金 公開されている 採用代行 （ RPO ）10社比較！の費用 相場 ... まるごと人事 https://marugotoinc.jp > ... > 採用代行",
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 （ RPO ）の費用 相場 は？ 料金 体系・業務別の 料金 と ... — 採用代行 （ RPO ）の費用 相場 は？ 料金 体系・業務別の 料金 と ... 株式会社アールナイン https://r09.jp > 人事ノウハウ",
+    "url": "https://r09.jp/columns/23601/",
+    "pass": 3
+   },
+   {
+    "quote": "RPO （ 採用代行 ）導入の教科書｜メリット・費用・成功事例を ... — RPO （ 採用代行 ）導入の教科書｜メリット・費用・成功事例を ... マルナゲカンリ https://marunagekanri.com > roumu > info_hr_1028",
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 ( RPO )のおすすめ30選！失敗しないサービスの選び方 ... — 採用代行 ( RPO )のおすすめ30選！失敗しないサービスの選び方 ... 株式会社グロップ https://www.grop.co.jp > ホーム > 人材",
+    "url": "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年版】 採用代行 （ RPO ）とは？導入メリットと選び方 ... — 【2025年版】 採用代行 （ RPO ）とは？導入メリットと選び方 ... 体験入社 https://media.taikennyusha.com > ... > 採用ノウハウ",
+    "url": "https://media.taikennyusha.com/movie/column/recruit-tips/6-2/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 （ RPO ）おすすめ45社を比較！料金相場・選び方 ... — 採用代行 （ RPO ）おすすめ45社を比較！料金相場・選び方 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】 採用代行 （ RPO ）47社タイプ別で比較！料金 ... — 【2026年最新】 採用代行 （ RPO ）47社タイプ別で比較！料金 ... まるごと人事 https://marugotoinc.jp > ... > 採用代行",
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 （ RPO ）の費用対効果をどう見るか — 採用代行 （ RPO ）の費用対効果をどう見るか 株式会社リファクタ https://refactar.net > 2026-06-02-rpo-cost-effectiveness",
+    "url": "https://refactar.net/blog/2026-06-02-rpo-cost-effectiveness",
+    "pass": 3
+   },
+   {
+    "quote": "AI等を活用した 採用代行 （ RPO ）の職業安定法上の課題と明 ... — AI等を活用した 採用代行 （ RPO ）の職業安定法上の課題と明 ... 内閣府ホームページ PDF https://www8.cao.go.jp > kisei > meeting",
+    "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/wg/2501_06ai/260213/ai07_0203.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "#1 採用難時代を勝ち抜く戦略！ RPO （ 採用代行 ）の基礎知識 ... — #1 採用難時代を勝ち抜く戦略！ RPO （ 採用代行 ）の基礎知識 ... 株式会社ホワイトコート https://www.w-court.com > 最新情報",
+    "url": "https://www.w-court.com/news/column/325/",
+    "pass": 3
+   },
+   {
+    "quote": "RPO とは？ 採用代行 との違い・依頼できる業務・導入メリット ... — RPO とは？ 採用代行 との違い・依頼できる業務・導入メリット ... carraria-jp.com https://carraria-jp.com > 2026/06/19 > rpo-towa",
+    "url": "https://carraria-jp.com/2026/06/19/rpo-towa/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 ・ RPO - バックオフィス DXPO — 採用代行 ・ RPO - バックオフィス DXPO DXPO https://dxpo.jp > fukuoka26 > manufacturing > product",
+    "url": "https://dxpo.jp/real/box/fukuoka26/manufacturing/product.html?cate_3=2263356&category_name=%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%E3%83%BBRPO",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 （ RPO ）38サービスを比較！どのサービス 会社 が ... — 採用代行 （ RPO ）38サービスを比較！どのサービス 会社 が ... ナンバーズ株式会社 https://numberz.jp > column > 採用代行（rpo）38サービ...",
+    "url": "https://numberz.jp/column/%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88rpo%EF%BC%8938%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%AF%94%E8%BC%83%EF%BC%81%E3%81%A9%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%9A/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行 ・採用アウトソーシング( RPO )の市場シェア 342人 ... — 採用代行 ・採用アウトソーシング( RPO )の市場シェア 342人 ... BOXIL https://boxil.jp > mag",
+    "url": "https://boxil.jp/mag/a9922/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】 採用代行 （ RPO ）おすすめ56選！料金 ... — 【2026年最新版】 採用代行 （ RPO ）おすすめ56選！料金 ... レジェンダ・コーポレーション https://www.leggenda.co.jp > コラム",
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "pass": 3
+   }
+  ],
+  "利幅": [
+   {
+    "quote": "採用とAIで、地方企業の「人」と「粗利」を守り育てる",
+    "url": "https://refactar.net/blog/2026-06-02-rpo-cost-effectiveness",
+    "pass": 3
+   },
+   {
+    "quote": "人件費を抑えて利益率を上げるための思考法",
+    "url": "https://timebirth.co.jp/useful/rpo-operation/",
+    "pass": 3
+   },
+   {
+    "quote": "時価純資産 ＋ 営業利益の3〜5年分（のれん）",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   },
+   {
+    "quote": "資産価値に、のれん（営業利益の数年分）を加える方法",
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "製造業 特化のAI 採用代行 が現れた。しかも代表は元リクルート ... 製造業 特化のAI 採用代行 が現れた。しかも代表は元リクルート ... note https://note.com > ビジネス > 人事・労務・採用",
+    "url": "https://note.com/woody_oh/n/n77f273740b6d",
+    "pass": 3
+   },
+   {
+    "quote": "新潟県で採用に困ったら？ 採用代行 （ RPO ）おすすめ比較と ... 新潟県で採用に困ったら？ 採用代行 （ RPO ）おすすめ比較と ... note https://note.com > ビジネス > 人事・労務・採用",
+    "url": "https://note.com/leadstar/n/n1f63bfb441f3",
+    "pass": 3
+   },
+   {
+    "quote": "岡山県で採用に困ったら？ 採用代行 （ RPO ）おすすめ比較と ... 岡山県で採用に困ったら？ 採用代行 （ RPO ）おすすめ比較と ... note https://note.com > ビジネス > 人事・労務・採用",
+    "url": "https://note.com/leadstar/n/na131f3af3d58",
+    "pass": 3
+   },
+   {
+    "quote": "なぜあなたの会社の 採用代行 （ RPO ）は失敗するのか？作業 ... なぜあなたの会社の 採用代行 （ RPO ）は失敗するのか？作業 ... note https://note.com > ビジネス > 人事・労務・採用",
+    "url": "https://note.com/foredge/n/n3d6eac9026f3",
+    "pass": 3
+   },
+   {
+    "quote": "人材エージェントから RPO 独立して5年。今振り返る正直な ... 人材エージェントから RPO 独立して5年。今振り返る正直な ... note https://note.com > キャリア > 起業・独立",
+    "url": "https://note.com/woody_oh/n/n64bcbfd2a9e9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "製造業特化のAI採用代行が現れた。しかも代表は元リクルートの製造業RPOの人らしい｜木原 泰樹",
+    "url": "https://note.com/woody_oh/n/n77f273740b6d",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化のAI採用代行が現れた。しかも代表は元リクルートの製造業RPOの人らしい",
+    "url": "https://note.com/woody_oh/n/n77f273740b6d",
+    "pass": 3
+   },
+   {
+    "quote": "自分と同じ土俵に競合が現れる、というのは事業をやっていれば当然起きることです。でも、経歴まで似ていると、さすがに他人事ではありません。",
+    "url": "https://note.com/woody_oh/n/n77f273740b6d",
+    "pass": 3
+   },
+   {
+    "quote": "ということで、今回は珍しくド競合に関するお話をしてみます。",
+    "url": "https://note.com/woody_oh/n/n77f273740b6d",
+    "pass": 3
+   },
+   {
+    "quote": "9月17日、Sei San Sei（滋賀）が製造業に特化したAI採用代行サービス「RPaaS（Recruitment Process as a Service）」の本格展開を発表しました。",
+    "url": "https://note.com/woody_oh/n/n77f273740b6d",
+    "pass": 3
+   },
+   {
+    "quote": "https://prtimes.jp/main/html/rd/p/000000003.000183412.html",
+    "url": "https://note.com/woody_oh/n/n77f273740b6d",
+    "pass": 3
+   },
+   {
+    "quote": "私は製造業のエンジニア採用に絞ってRPOをやっています。つまり、",
+    "url": "https://note.com/woody_oh/n/n77f273740b6d",
+    "pass": 3
+   },
+   {
+    "quote": "です。今日はこのニュースを、自分の商売の話として書きます。",
+    "url": "https://note.com/woody_oh/n/n77f273740b6d",
+    "pass": 3
+   },
+   {
+    "quote": "新潟県で採用に困ったら？採用代行（RPO）おすすめ比較と“失敗しない外注”のポイント｜スポット人事 / (株)LeadSTAR",
+    "url": "https://note.com/leadstar/n/n1f63bfb441f3",
+    "pass": 3
+   },
+   {
+    "quote": "新潟県で採用に困ったら？採用代行（RPO）おすすめ比較と“失敗しない外注”のポイント",
+    "url": "https://note.com/leadstar/n/n1f63bfb441f3",
+    "pass": 3
+   },
+   {
+    "quote": "「採用担当が兼務で、応募者対応まで手が回らない」",
+    "url": "https://note.com/leadstar/n/n1f63bfb441f3",
+    "pass": 3
+   },
+   {
+    "quote": "「製造・物流・建設・観光・宿泊・医療介護などの採用が難しい」",
+    "url": "https://note.com/leadstar/n/n1f63bfb441f3",
+    "pass": 3
+   },
+   {
+    "quote": "このようなお悩みを抱えている企業は少なくありません。",
+    "url": "https://note.com/leadstar/n/n1f63bfb441f3",
+    "pass": 3
+   },
+   {
+    "quote": "新潟県は、食品製造、地場製造、農業、観光、宿泊、医療・介護など、幅広い産業を抱える地域です。",
+    "url": "https://note.com/leadstar/n/n1f63bfb441f3",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、人口減少や若年層の県外流出もあり、企業側が「採りたくても採れない」状況が続いています。",
+    "url": "https://note.com/leadstar/n/n1f63bfb441f3",
+    "pass": 3
+   },
+   {
+    "quote": "特に地方採用では、都内企業と同じやり方をそのまま真似しても、うまくいかないことがあります。",
+    "url": "https://note.com/leadstar/n/n1f63bfb441f3",
+    "pass": 3
+   },
+   {
+    "quote": "岡山県で採用に困ったら？採用代行（RPO）おすすめ比較と“失敗しない外注”のポイント｜スポット人事 / (株)LeadSTAR",
+    "url": "https://note.com/leadstar/n/na131f3af3d58",
+    "pass": 3
+   },
+   {
+    "quote": "岡山県で採用に困ったら？採用代行（RPO）おすすめ比較と“失敗しない外注”のポイント",
+    "url": "https://note.com/leadstar/n/na131f3af3d58",
+    "pass": 3
+   },
+   {
+    "quote": "岡山県で採用活動を進める企業の中には、次のような悩みを抱えている方も多いのではないでしょうか。",
+    "url": "https://note.com/leadstar/n/na131f3af3d58",
+    "pass": 3
+   },
+   {
+    "quote": "採用担当者が兼務で、応募者対応まで手が回らない",
+    "url": "https://note.com/leadstar/n/na131f3af3d58",
+    "pass": 3
+   },
+   {
+    "quote": "建設・介護・製造・物流などの現場職が採れない",
+    "url": "https://note.com/leadstar/n/na131f3af3d58",
+    "pass": 3
+   },
+   {
+    "quote": "新卒・高卒採用で地元の大手企業に負けてしまう",
+    "url": "https://note.com/leadstar/n/na131f3af3d58",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行やRPOを使いたいが、どの会社を選べばよいかわからない",
+    "url": "https://note.com/leadstar/n/na131f3af3d58",
+    "pass": 3
+   },
+   {
+    "quote": "結論、岡山県で採用代行・RPOを検討するなら、まずは「求人票改善」「媒体運用」「応募者対応」などの部分委託から始めるのがおすすめです。",
+    "url": "https://note.com/leadstar/n/na131f3af3d58",
+    "pass": 3
+   },
+   {
+    "quote": "なぜあなたの会社の採用代行（RPO）は失敗するのか？作業対応で終わらせない「勝てる採用」の作り方｜株式会社foredge",
+    "url": "https://note.com/foredge/n/n3d6eac9026f3",
+    "pass": 3
+   },
+   {
+    "quote": "なぜあなたの会社の採用代行（RPO）は失敗するのか？作業対応で終わらせない「勝てる採用」の作り方",
+    "url": "https://note.com/foredge/n/n3d6eac9026f3",
+    "pass": 3
+   },
+   {
+    "quote": "「求人媒体に載せても、狙った層からの応募が来ない」",
+    "url": "https://note.com/foredge/n/n3d6eac9026f3",
+    "pass": 3
+   },
+   {
+    "quote": "「採用代行（RPO）を導入してみたが、型通りの作業対応ばかりで成果に繋がらない」",
+    "url": "https://note.com/foredge/n/n3d6eac9026f3",
+    "pass": 3
+   },
+   {
+    "quote": "「スカウトツールで大量送信しても返信が来ず、工数だけが奪われる」",
+    "url": "https://note.com/foredge/n/n3d6eac9026f3",
+    "pass": 3
+   },
+   {
+    "quote": "そして結局、「高額な成功報酬を払ってでも人材紹介に頼るしかない……」と途方に暮れてはいませんか？",
+    "url": "https://note.com/foredge/n/n3d6eac9026f3",
+    "pass": 3
+   },
+   {
+    "quote": "年収の30〜40%という莫大な手数料を払い続け、毎年やってくる採用目標に怯える――今、多くの経営者様や人事責任者様がこのような「採用の負のスパイラル」に陥っています。",
+    "url": "https://note.com/foredge/n/n3d6eac9026f3",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、知っていただきたいのは、貴社の採用の進め方が悪いわけでも、マッチする求職者が市場にいないわけでもないということです。",
+    "url": "https://note.com/foredge/n/n3d6eac9026f3",
+    "pass": 3
+   },
+   {
+    "quote": "人材エージェントからRPO独立して5年。今振り返る正直なところを書いてみる。｜木原 泰樹",
+    "url": "https://note.com/woody_oh/n/n64bcbfd2a9e9",
+    "pass": 3
+   },
+   {
+    "quote": "人材エージェントからRPO独立して5年。今振り返る正直なところを書いてみる。",
+    "url": "https://note.com/woody_oh/n/n64bcbfd2a9e9",
+    "pass": 3
+   },
+   {
+    "quote": "これから独立を考えているRPO・人事界隈の方に向けて。",
+    "url": "https://note.com/woody_oh/n/n64bcbfd2a9e9",
+    "pass": 3
+   },
+   {
+    "quote": "タイトルのまんまですが、節目の5年ということもありRPOで独立した人間が徒然なるままに書いてみます。",
+    "url": "https://note.com/woody_oh/n/n64bcbfd2a9e9",
+    "pass": 3
+   },
+   {
+    "quote": "個人的には新卒で就職して半年くらい経過したくらいからずっと独立したいという気持ちがありました。ただ、それが具体的にどんな仕事になるかについては「アレをやりたい！」「コレをやらねば！」といった熱い思いを持つような対象もなく、長い間何で独立するかはフワフワしたままでした。",
+    "url": "https://note.com/woody_oh/n/n64bcbfd2a9e9",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、ひょんなことからメーカーエンジニアからリクルートキャリアへ転職します。リクルートは起業文化があるというのも有名なお話ですし、そこへの興味がぶっちゃけ一番の転職理由でした。",
+    "url": "https://note.com/woody_oh/n/n64bcbfd2a9e9",
+    "pass": 3
+   },
+   {
+    "quote": "RPOというビジネスモデルを知ったのはリクルートキャリアに入ってから。入社後3か月という割と無茶振りで某化学系メーカーのRPO案件を担当したことで認識しました。",
+    "url": "https://note.com/woody_oh/n/n64bcbfd2a9e9",
+    "pass": 3
+   },
+   {
+    "quote": "残念ながらリクルートとは全然水が合わずに2年ちょっとで辞めて友人のスタートアップに転職しました。そのスタートアップで何でも屋さんをやっていた時にたまたま知り合った人材系事業の社長から「採用に困っているお客さんがいるけど、手伝ってもらえる？」とお話をいただき、副業としてのRPO需要を初めて認識することになります。",
+    "url": "https://note.com/woody_oh/n/n64bcbfd2a9e9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "酒井貴文／人材紹介会社の伴走役 on X: \" RPO （ 採用代行 ... 酒井貴文／人材紹介会社の伴走役 on X: \" RPO （ 採用代行 ... X https://x.com > @stakafumi1986",
+    "url": "https://x.com/stakafumi1986/status/2103613518889308439",
+    "pass": 3
+   },
+   {
+    "quote": "張ヶ谷拓実|中途 採用代行 ( RPO )の「スグリク」を運営してい ... 張ヶ谷拓実|中途 採用代行 ( RPO )の「スグリク」を運営してい ... X https://x.com > takumihari",
+    "url": "https://x.com/takumihari",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "RPO （ 採用代行 ）サービスを提供する企業が急増し、群雄割拠 ... RPO （ 採用代行 ）サービスを提供する企業が急増し、群雄割拠 ... LinkedIn https://jp.linkedin.com > posts > 貴文-酒井-663b422b7_r...",
+    "url": "https://jp.linkedin.com/posts/%E8%B2%B4%E6%96%87-%E9%85%92%E4%BA%95-663b422b7_rpo%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%8C%E6%80%A5%E5%A2%97%E3%81%97%E7%BE%A4%E9%9B%84%E5%89%B2%E6%8B%A0%E3%81%AE%E6%A7%98%E7%9B%B8%E3%82%92%E5%91%88%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%97%E3%81%8B%E3%81%97-activity-7509399456753176577-aI6z",
+    "pass": 3
+   },
+   {
+    "quote": "中澤 健志 - 製造業 向け RPO （ 採用代行 ） - LinkedIn 中澤 健志 - 製造業 向け RPO （ 採用代行 ） - LinkedIn LinkedIn https://jp.linkedin.com > kenjinakazawa",
+    "url": "https://jp.linkedin.com/in/kenjinakazawa",
+    "pass": 3
+   },
+   {
+    "quote": "What Does RPO Mean in Recruiting - LinkedIn What Does RPO Mean in Recruiting - LinkedIn LinkedIn https://www.linkedin.com > posts > su...",
+    "url": "https://www.linkedin.com/posts/suzanneschmidt_recruiting-rpo-talentacquisition-activity-7401380254512267264-HDso",
+    "pass": 3
+   },
+   {
+    "quote": "Recruitment Process Outsourcing (RPO) Trends - LinkedIn Recruitment Process Outsourcing (RPO) Trends - LinkedIn LinkedIn https://www.linkedin.com > innovation",
+    "url": "https://www.linkedin.com/top-content/innovation/innovation-talent-acquisition/recruitment-process-outsourcing-rpo-trends/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ssen.co.jp/blog/149",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/rpomarketprice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://r09.jp/columns/23601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marunagekanri.com/roumu/info_hr_1028/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovel.jp/rpo-cost-comparison/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strengthening-recruitment.com/rpo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.taikennyusha.com/movie/column/recruit-tips/6-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsuginote.co.jp/column/13317",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.randstadenterprise.com/solutions/talent-acquisition/rpo/what-is-rpo-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo-commit.com/seizou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torutorukun.co.jp/column/manufacturing-recruitment-outsourcing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/rpo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.w-court.com/column/recruitment-outsourcing-rpo-difference/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mytalent.jp/lab/s_rpo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flaise.co.jp/blog/article-98/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://refactar.net/blog/2026-06-02-rpo-cost-effectiveness",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6412/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timebirth.co.jp/useful/rpo-operation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carraria-jp.com/2026/06/19/rpo-towa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ma-succeed.jp/content/knowledge/post-12716",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-illegality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/saiyodaiko-ihou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-agency-illegal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyou-daikou.com/saiyoudaikou-ihou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/wg/2501_06ai/260213/ai07_0203.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://vollect.net/hrpedia/rpo_illegal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flaise.co.jp/service/rpo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.w-court.com/news/column/325/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nicop.jp/blog/recruitment-outsourcing-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/b-contents-rpo-saiyodaikozirei-181115/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vollect.net/hrpedia/manufacturing-rpo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hokiraon.jp/column/rpo-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dxpo.jp/real/box/fukuoka26/manufacturing/product.html?cate_3=2263356&category_name=%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%E3%83%BBRPO",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://machikoba.fixense.co.jp/column/saiyo-daikou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://threegood.net/content/hr/rpo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsukuteam.com/guide/what-is-rpo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nicop.jp/blog/ses-rpo-outsourcing-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://r09.jp/columns/23420/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://numberz.jp/column/%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88rpo%EF%BC%8938%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%AF%94%E8%BC%83%EF%BC%81%E3%81%A9%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%9A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/mag/a9922/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/woody_oh/n/n77f273740b6d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/leadstar/n/n1f63bfb441f3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/leadstar/n/na131f3af3d58",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/foredge/n/n3d6eac9026f3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/stakafumi1986/status/2103613518889308439",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/takumihari",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/%E8%B2%B4%E6%96%87-%E9%85%92%E4%BA%95-663b422b7_rpo%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%8C%E6%80%A5%E5%A2%97%E3%81%97%E7%BE%A4%E9%9B%84%E5%89%B2%E6%8B%A0%E3%81%AE%E6%A7%98%E7%9B%B8%E3%82%92%E5%91%88%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%97%E3%81%8B%E3%81%97-activity-7509399456753176577-aI6z",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kenjinakazawa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/woody_oh/n/n64bcbfd2a9e9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/woody_oh/n/n77f273740b6d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/leadstar/n/na131f3af3d58",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/suzanneschmidt_recruiting-rpo-talentacquisition-activity-7401380254512267264-HDso",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/top-content/innovation/innovation-talent-acquisition/recruitment-process-outsourcing-rpo-trends/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業の採用代行（RPO） 料金 相場",
+   "results": [
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-cost/",
+    "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "https://www.ssen.co.jp/blog/149",
+    "https://marugotoinc.jp/blog/rpomarketprice/",
+    "https://r09.jp/columns/23601/",
+    "https://www.jmsc.co.jp/corporate/recruit/160/",
+    "https://azu-rite.co.jp/clumn/rpo-cost",
+    "https://boxil.jp/mag/a8409/",
+    "https://lp.acejob.jp/article/rpo-cost"
+   ]
+  },
+  {
+   "query": "製造業の採用代行（RPO） 顧客獲得単価 OR CPA",
+   "results": [
+    "https://www.ssen.co.jp/blog/149",
+    "https://marunagekanri.com/roumu/info_hr_1028/",
+    "https://innovel.jp/rpo-cost-comparison/",
+    "https://www.strengthening-recruitment.com/rpo/",
+    "https://www.grop.co.jp/outsourcingpro/recruitment-agency/",
+    "https://media.taikennyusha.com/movie/column/recruit-tips/6-2/",
+    "https://tsuginote.co.jp/column/13317",
+    "https://www.saiyo-doda.jp/guide/kihon/rpo-price",
+    "https://note.com/drix_note/n/n08b2fb249c55",
+    "https://cpa.moe/"
+   ]
+  },
+  {
+   "query": "製造業の採用代行（RPO） 成約率 OR 受注率 OR 継続率",
+   "results": [
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "https://www.randstadenterprise.com/solutions/talent-acquisition/rpo/what-is-rpo-ja/",
+    "https://saiyo-commit.com/seizou/",
+    "https://torutorukun.co.jp/column/manufacturing-recruitment-outsourcing/",
+    "https://marugotoinc.jp/blog/rpo/",
+    "https://www.w-court.com/column/recruitment-outsourcing-rpo-difference/",
+    "https://mytalent.jp/lab/s_rpo/",
+    "https://www.ssen.co.jp/blog/149",
+    "https://azu-rite.co.jp/clumn/rpo",
+    "https://vollect.net/hrpedia/manufacturing-rpo/"
+   ]
+  },
+  {
+   "query": "製造業の採用代行（RPO） 粗利率 利益率",
+   "results": [
+    "https://saiyo-commit.com/seizou/",
+    "https://flaise.co.jp/blog/article-98/",
+    "https://refactar.net/blog/2026-06-02-rpo-cost-effectiveness",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6412/",
+    "https://timebirth.co.jp/useful/rpo-operation/",
+    "https://innovel.jp/rpo-cost-comparison/",
+    "https://carraria-jp.com/2026/06/19/rpo-towa/",
+    "https://ma-succeed.jp/content/knowledge/post-12716",
+    "https://marunagekanri.com/roumu/info_hr_1028/",
+    "https://vollect.net/hrpedia/manufacturing-rpo/"
+   ]
+  },
+  {
+   "query": "製造業の採用代行（RPO） 許可 必要",
+   "results": [
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo-illegality/",
+    "https://marugotoinc.jp/blog/saiyodaiko-ihou/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-agency-illegal",
+    "https://saiyou-daikou.com/saiyoudaikou-ihou/",
+    "https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/wg/2501_06ai/260213/ai07_0203.pdf",
+    "https://vollect.net/hrpedia/rpo_illegal/",
+    "https://timers-inc.com/blog/recruitment_outsourcing_illegal",
+    "https://one-group.jp/humanresource/use/recruitment_agency_md.html",
+    "https://hitokuru.atimes.co.jp/list/502",
+    "https://corp.coachee-hr.com/blog/rpo-legality1/"
+   ]
+  },
+  {
+   "query": "製造業の採用代行（RPO） 起業 立ち上げ 初受注",
+   "results": [
+    "https://www.randstadenterprise.com/solutions/talent-acquisition/rpo/what-is-rpo-ja/",
+    "https://flaise.co.jp/service/rpo/",
+    "https://www.w-court.com/news/column/325/",
+    "https://carraria-jp.com/2026/06/19/rpo-towa/",
+    "https://marugotoinc.jp/blog/rpo/",
+    "https://www.youtube.com/watch?v=02RIqiF2nX0",
+    "https://nicop.jp/blog/recruitment-outsourcing-guide/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/b-contents-rpo-saiyodaikozirei-181115/",
+    "https://mytalent.jp/lab/s_rpo/",
+    "https://vollect.net/hrpedia/manufacturing-rpo/"
+   ]
+  },
+  {
+   "query": "製造業の採用代行（RPO） 営業方法 紹介 展示会",
+   "results": [
+    "https://www.randstadenterprise.com/solutions/talent-acquisition/rpo/what-is-rpo-ja/",
+    "https://dxpo.jp/real/box/fukuoka26/manufacturing/product.html?cate_3=2263356&category_name=%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%E3%83%BBRPO",
+    "https://machikoba.fixense.co.jp/column/saiyo-daikou/",
+    "https://threegood.net/content/hr/rpo/",
+    "https://carraria-jp.com/2026/06/19/rpo-towa/",
+    "https://tsukuteam.com/guide/what-is-rpo",
+    "https://nicop.jp/blog/ses-rpo-outsourcing-guide/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "https://r09.jp/columns/23420/",
+    "https://vollect.net/hrpedia/manufacturing-rpo/"
+   ]
+  },
+  {
+   "query": "製造業の採用代行（RPO） 会社 売上 従業員 創業",
+   "results": [
+    "https://marugotoinc.jp/blog/rpo/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/",
+    "https://numberz.jp/column/%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88rpo%EF%BC%8938%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%AF%94%E8%BC%83%EF%BC%81%E3%81%A9%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%9A/",
+    "https://boxil.jp/mag/a9922/",
+    "https://www.leggenda.co.jp/article/column_recruit_20240906/",
+    "https://r09.jp/columns/2297/",
+    "https://projinji.com/data",
+    "https://directsourcing-lab.com/blog/comaparison/rpo/",
+    "https://uloqo.net/service/recruitment/",
+    "https://www.flaise.co.jp/service/rpo/"
+   ]
+  },
+  {
+   "query": "site:note.com 製造業の採用代行（RPO）",
+   "results": [
+    "https://note.com/woody_oh/n/n77f273740b6d",
+    "https://note.com/leadstar/n/n1f63bfb441f3",
+    "https://note.com/leadstar/n/na131f3af3d58",
+    "https://note.com/foredge/n/n3d6eac9026f3",
+    "https://note.com/leadstar/n/n299770fcbd2f",
+    "https://note.com/leadstar/n/n2f62c9ca7212",
+    "https://note.com/leadstar/n/n50d6da82a21e",
+    "https://note.com/woody_oh/n/ne4f25640ccaf",
+    "https://note.com/leadstar/n/nc4ccecfb8401",
+    "https://note.com/leadstar/n/nff529c32e97c"
+   ]
+  },
+  {
+   "query": "site:x.com 製造業の採用代行（RPO）",
+   "results": [
+    "https://x.com/stakafumi1986/status/2103613518889308439",
+    "https://x.com/takumihari",
+    "https://x.com/kyosukesaiha",
+    "https://x.com/matsumoto_koke",
+    "https://x.com/Fumio_Moriuchi",
+    "https://x.com/asaka_haf",
+    "https://x.com/sasaki_talenco",
+    "https://x.com/maco_partner/article/2087156723073372380",
+    "https://x.com/hire_base_rpo",
+    "https://x.com/comment111ok"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 製造業の採用代行（RPO）",
+   "results": [
+    "https://jp.linkedin.com/posts/%E8%B2%B4%E6%96%87-%E9%85%92%E4%BA%95-663b422b7_rpo%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%8C%E6%80%A5%E5%A2%97%E3%81%97%E7%BE%A4%E9%9B%84%E5%89%B2%E6%8B%A0%E3%81%AE%E6%A7%98%E7%9B%B8%E3%82%92%E5%91%88%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%97%E3%81%8B%E3%81%97-activity-7509399456753176577-aI6z",
+    "https://jp.linkedin.com/in/kenjinakazawa",
+    "https://jp.linkedin.com/in/taiki-kihara-744b571ab",
+    "https://jp.linkedin.com/in/kazumainoue",
+    "https://jp.linkedin.com/jobs/view/rpo-talent-advisor-at-randstad-enterprise-4472198372",
+    "https://jp.linkedin.com/posts/masashi-sugiura_%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B-%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4-%E8%A3%BD%E9%80%A0%E6%A5%ADdx-activity-7408742713988145152-xUaf",
+    "https://jp.linkedin.com/in/%E9%A6%99%E8%8B%97-%E6%B0%B4%E4%B8%8A-01022a390",
+    "https://jp.linkedin.com/posts/choihojin_%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B%E6%8A%95%E7%A8%BF%E3%81%A7%E3%81%99%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E6%9C%AC%E6%A0%BC%E7%9A%84%E3%81%ABlinkedin%E3%81%A7%E7%99%BA%E4%BF%A1%E3%81%97%E3%81%A6%E3%81%84%E3%81%93%E3%81%86%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-activity-7393413265076371456-TEVt",
+    "https://jp.linkedin.com/in/eiji-inaoka-aa71a275"
+   ]
+  },
+  {
+   "query": "site:facebook.com 製造業の採用代行（RPO）",
+   "results": [
+    "https://www.facebook.com/hackazoukjapan/posts/%E5%A4%A7%E6%89%8B%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%BA%BA%E4%BA%8B%E6%8E%A1%E7%94%A8%E6%8B%85%E5%BD%93%E8%80%85%E5%BF%85%E8%A6%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2dx%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E7%AB%B6%E4%BA%89%E3%82%92%E5%8B%9D%E3%81%A1%E6%8A%9C%E3%81%8F%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%BA%BA%E4%BA%8B%E3%81%A8%E7%8F%BE%E5%A0%B4%E3%82%92%E7%B9%8B%E3%81%90%E9%AD%85%E5%8A%9B%E8%A8%80%E8%AA%9E%E5%8C%96%E3%81%A8%E9%81%B8%E8%80%83%E8%A8%AD%E8%A8%88%E4%BA%BA%E4%BA%8B%E3%81%A8%E7%8F%BE%E5%A0%B4%E3%81%AE%E8%A7%A3%E5%83%8F%E5%BA%A6%E3%81%AE%E3%82%BA%E3%83%AC%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%97/1497485662389305/",
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEHR%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88-100083165959073/",
+    "https://www.facebook.com/kyousuke.saiha/",
+    "https://www.facebook.com/intercrossmiyazaki/posts/%E6%9C%AA%E7%B5%8C%E9%A8%93%E3%81%8B%E3%82%89%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E8%BA%AB%E3%81%AB%E4%BB%98%E3%81%91%E3%82%89%E3%82%8C%E3%82%8B%E6%B1%82%E4%BA%BA%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8Bbpo%E3%83%98%E3%83%AB%E3%83%97%E3%83%87%E3%82%B9%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AA%E3%81%A9%E6%A7%98%E3%80%85%E3%81%AA%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%89%8B%E6%8E%9B%E3%81%91%E3%82%8B%E3%83%91%E3%83%BC%E3%82%BD%E3%83%AB%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/717141927085794/",
+    "https://www.facebook.com/careerflybusiness/",
+    "https://www.facebook.com/100083165959073/posts/%E6%9C%AC%E6%97%A5%E3%82%A2%E3%82%A4%E3%82%AA%E3%83%BC%E3%81%97%E3%82%93%E3%81%8D%E3%82%93%E4%BC%8A%E5%8B%A2%E5%B4%8E%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E3%81%A7%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A02026%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%83%96%E3%83%BC%E3%82%B9%E3%81%A7%E3%81%AF-%E7%84%A1%E6%96%99%E6%8E%A1%E7%94%A8%E5%8A%9B%E8%A8%BA%E6%96%AD-rpo%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C-%E6%95%99%E8%82%B2%E7%A0%94%E4%BF%AE%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%80%8B/911759764939547/",
+    "https://www.facebook.com/wamii1006/?locale=ja_JP",
+    "https://www.facebook.com/61554719541418/posts/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%AE%E5%8F%97%E6%B3%A8%E7%A4%BE%E9%95%B7%E4%B8%80%E4%BA%BA%E3%81%A7%E6%8F%90%E6%A1%88%E3%81%8B%E3%82%89pm%E3%81%BE%E3%81%A7%E5%9B%9E%E3%81%97%E3%81%A6%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E4%BA%BA%E4%BB%B6%E8%B2%BB0%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC0%E3%81%A7%E3%83%92%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%8F%90%E6%A1%88%E6%9B%B8%E4%BD%9C%E6%88%90%E6%8F%90%E6%A1%88%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%81%BE%E3%81%A7%E4%BB%A3%E8%A1%8C%E3%81%97%E3%81%A6%E3%82%82%E3%82%89%E3%81%88%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E8%A6%8B%E3%81%A4%E3%81%91%E3%81%BE%E3%81%97%E3%81%9F%E5%AE%9F%E7%B8%BE%E3%82%92/122294550860157318/",
+    "https://www.facebook.com/spunto.758/",
+    "https://www.facebook.com/satoki.takuma/"
+   ]
+  },
+  {
+   "query": "製造業の採用代行（RPO） note 社長",
+   "results": [
+    "https://note.com/woody_oh/n/n64bcbfd2a9e9",
+    "https://note.com/woody_oh/n/n77f273740b6d",
+    "https://note.com/leadstar/n/na131f3af3d58",
+    "https://hrnote.jp/contents/contents-1607/",
+    "https://note.com/foredge/n/n3d6eac9026f3",
+    "https://marugotoinc.jp/blog/rpo-usage/",
+    "https://note.com/woody_oh/n/n85e0949ca7d2",
+    "https://flaise.co.jp/blog/article-98/",
+    "https://note.com/leadstar/n/n2f62c9ca7212",
+    "https://vollect.net/hrpedia/manufacturing-rpo/"
+   ]
+  },
+  {
+   "query": "製造業の採用代行（RPO） X 投稿",
+   "results": [
+    "https://team-x.co.jp/service/rpo/",
+    "https://www.randstadenterprise.com/solutions/talent-acquisition/rpo/what-is-rpo-ja/",
+    "https://flaise.co.jp/blog/article-98/",
+    "https://marugotoinc.jp/blog/rpo-usage/",
+    "https://www.itreview.jp/categories/rpo",
+    "https://www.youtube.com/watch?v=02RIqiF2nX0",
+    "https://r09.jp/columns/25530/",
+    "https://mytalent.jp/lab/s_rpo/",
+    "https://service.r-4.co.jp/knowhow/recruiting/rpo-merit-demerit/",
+    "https://vollect.net/hrpedia/manufacturing-rpo/"
+   ]
+  },
+  {
+   "query": "recruitment process outsourcing manufacturers Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/next-generation-recruitment-process-outsourcing-cz2cf",
+    "https://www.linkedin.com/pulse/hiring-talent-japanese-companies-2026-guide-alp-consulting-ltd--dyfgc",
+    "https://www.linkedin.com/posts/suzanneschmidt_recruiting-rpo-talentacquisition-activity-7401380254512267264-HDso",
+    "https://www.linkedin.com/top-content/innovation/innovation-talent-acquisition/recruitment-process-outsourcing-rpo-trends/",
+    "https://www.linkedin.com/pulse/what-recruitment-process-outsourcing-rpo-theprinciplegrp-4f",
+    "https://www.linkedin.com/posts/smartfox-llc_organization-smartfox-hiring-activity-7387100261862797312-NS6j",
+    "https://www.linkedin.com/pulse/list-top-10-rpo-companies-world-2024-comprehensive-guide-kingtechiz-atmmc",
+    "https://www.linkedin.com/pulse/everything-you-need-know-recruitment-process-outsourcing--3f",
+    "https://www.linkedin.com/pulse/manufacturing-rpo-high-volume-multi-site-hiring-n77ze",
+    "https://www.linkedin.com/pulse/why-recruitment-process-outsourcing-rpo-becoming-smartest-hiring-sl79f"
+   ]
+  }
+ ],
+ "missing": {}
+}

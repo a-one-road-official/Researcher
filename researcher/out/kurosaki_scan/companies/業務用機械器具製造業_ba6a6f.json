@@ -1,0 +1,1529 @@
+{
+ "name": "業務用機械器具製造業",
+ "en": "business-use machinery manufacturing Japan",
+ "aliases": [
+  "業務用機械",
+  "計測機器 製造",
+  "光学機器 製造"
+ ],
+ "context": "製造業・機械",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:54:00.766419+00:00",
+ "evidence": {
+  "事業所数・従業者数（経済センサス等）": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数14 産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業別の状況（全事業所） .............................................. 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 産業中分類別事業所数及び従業者数 .................................... 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．品目別の状況（全事業所） .............................................. 4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 品目別産出事業所数 .................................................. 4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査の概要 ...................................... 6",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．「令和3年経済センサス‐活動調査 産業別集計（製造業に関する集計）」（以下「産業",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は、製造業について「令和3年経済センサス‐活動調査」",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 19 産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、企業産業(中分類)、経営組織(3区分)、単独・本所・支所別民営事業所数、男女別従業者数及び常用雇用者数（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業の事業所規模５人以上の事業所におけ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・常用労働者 5 人以上の事業所が対象",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数が 1998 年には 373,713 事業所あったが、企業の",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "倒産や廃業等により 2017 年には 188,249 事業所と",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 215-１ 製造業に関する事業所数",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・資料：2011 年、2015 年は総務省・経済産業省「経済センサス‐活動調査」 、他は経済産業省「工業統計調査」",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "215-１でみたように事業所数が半減していること",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に達しており、前年比約2.4％増となりました（出典：経済産業省「工業統計調査」）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "約38万事業所（うち中小企業が約99％）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業数 56社",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "非上場企業数 9,692社",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   }
+  ],
+  "需要が増えるか": [
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等の都道府県別順位",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・製造品目別に出荷額が得られた事業所であること",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よる調査分を含んだ集計結果であるのに対し、製造品出荷額等、品目別出荷金額、付加",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果のうち、製造品出荷額等、品目別出荷金額、付加価値額については、表示年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（製造品出荷額等、品⽬別出荷⾦額、 付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "－ 製造品出荷額等と付加価値額が最も多いのは共に輸送用機械器具製造業 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（60 兆 2308",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 表 産業中分類別製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "世界各国では今、新型コロナウイルスの感染拡大に",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、感染拡大防",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "チェーンの寸断を受けての国内回帰や感染拡大から生",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウイルスの感染拡大がつきつける課題にどの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "え、我が国の経済成長を支える原動力は「人」で",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の経済が成長していくためには、女性、高齢者など、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新型コロナウイルス感染症拡大など不確実性が高",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１ 成長戦略実行計画（2019 年６月 21 日閣議決定）では、経済成長を支える原動力は「人」であるとの考えの下、数多くの施策を実行",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月に続き増加している（図 211-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を、需要不足失業率と均衡失業率に分けてそれぞれの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動向をみると、需要不足失業率については、2009 年",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "需要不足失業率",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の市場規模2026｜出荷額358兆円と将来性 | AITSolutionsNet",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の市場規模2026｜出荷額358兆円と将来性",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の市場規模と将来性【2026年版】（業界全体像）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "過去5年間の市場規模推移",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "【都道府県別】工業出荷額と全国シェア（2024年度 統計データ）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は約358兆円",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "に達しており、前年比約2.4％増となりました（出典：経済産業省「工業統計調査」）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額（2023年）：",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "約358兆円（前年比+2.4％）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "為替の円安効果や輸出需要の回復により、生産活動は堅調に推移していますが、一方で人件費・エネルギーコストの上昇が収益を圧迫しています",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の工業出荷額における上位県の顔ぶれは、いわゆる「太平洋ベルト地帯」に集中しており、港湾設備や高速道路網といった物流インフラの集積度と正の相関を示している",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の表は、最新の統計に基づく都道府県別の工業出荷額とその全国シェアを示したものである",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "‣ 受注生産型 ： エンドユーザーの用途に適した製品を製造するため、受注生産型が一般的である",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "‣ 商品の受注から納品までの期間が長い",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "業務用機械器具製造業の生産額は、2009年にリーマンショックの影響により落ち込み、以降は横ばいで推移している",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "一方、医療用機械器具の生産額は、同じく2009年に減少したものの、以降は徐々に増加し続け、特に2019年度には前年度比131.8％増と大きく増加している",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化社会の進行に伴い、医療用機械器具の需要が高まっているほか、近年はAIやIoT技術を活用した高性能化によって、単価が上昇していることが一因であると考えられる",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "新型コロナウイルス感染拡大を契機に在宅医療へのニーズも高まっており、今後も生産額は増加基調が続くと見込まれる",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "また、近年の画像処理技術の発達やビッグデータ解析の高度化などにより、医療機器の性能は飛躍的に高まっており、自動問診システム、生体データ測定、遠隔診断など、全国の医療機関でAIやIoT技術を利用した医療機器の利用事例が増加している",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "医療用機械器具は人体に与える影響を考慮し、製品品質の安全基準が設けられており、法制度の改正によって安全基準が変更された場合には、自社製品が規格外となる恐れがある、また、保険制度の変更により保険適用を受けていた医療機器が、適用外になることで、製品の需要が落ち込んでしまう可能性があることから、法制度や政策方針の変更を注視しておきたい",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "特に医療用機械器具の製造においては、高度な生産設備を備える必要があるため、多額の設備投資が必要であり、借入金が増加しやすいことが要因であると推察される",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "斯業界の製品は、直接依頼を受けて製造設計を行う受注生産が多く、高付加価値製品が多いことから、収益性が高くなる傾向にあると推察される",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "斯業種は、受注生産が多く、高額な商品を取り扱う場合が多いため、製品の受注から納品までの期間が長く、仕掛品の計上が他企業と比較して大きくなる傾向があることが要因であると思料される",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "法改正の動向を常にチェックし、手元資金や借入余力などの資金需要に対応できる財務余力を有しているかについても確認すべきであろう",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   }
+  ],
+  "大手プラットフォームの有無": [
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "ある製品・サービス分野で国際的に高いシェアを持っている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "狭い市場で高いシェアを誇っている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主に大手空調機器メーカーから、部品などの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、押谷社長はこうした問題を解決しようと、受発注と連携して現場に情報を流す「進捗管理シス",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、暖房機器や加湿器は、季節商品であるため冬季に需要が高くなり、天候によっても受発注が",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ス部門は国内トップシェアを誇る",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受発注から製造ラインの稼働状況、機械トラブルや保全状況などを一元的に管理するこ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "続きにおいてもデジタル化したことで、受発注の管理や経理処理などのデータ入力作業や確認作業などが",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【都道府県別】工業出荷額と全国シェア（2024年度 統計データ）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "主要分野別シェア（2023年）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の表は、最新の統計に基づく都道府県別の工業出荷額とその全国シェアを示したものである",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "全国シェア（％）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、大企業（従業員300人以上）は全体の1％に満たないものの、出荷額ベースでは全体の約55％を占める寡占的構造です",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "＼ 厳しい市場で生き残る！ポータルサイト依存からの脱却 ／",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用機械の性能向上は日進月歩であり、エンドユーザーにとっては、購入よりもリース契約の方がメリットを得やすいことから、斯業種の販売先としてはリース会社が多いが、大手企業においては全国に直販営業網を持ち、直接エンドユーザーに販売を行っているケースもみられる",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "販売先において、自社との取引シェアが高くなり過ぎると、自社が取引から撤退することが困難となる恐れがある",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、取引先の信用力（格付）に応じて取引シェアに上限を設けるべく、取引先が抱える買掛債務額の一定割合を売込限度額として設定する方法が考えられる",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業においては、新製品の開発など研究開発費の割合が大きく、設備投資資金需要が発生することが多い",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業においては資金繰りの状況、大手企業においては投資金額のバランスや投資効果にも注意を向ける必要がある",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   }
+  ],
+  "取引のやり方・不便": [
+   {
+    "quote": "パルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介・労働者派遣業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "1421 洋紙・機械すき和紙製造業 1421 洋紙製造業",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1423 機械すき和紙製造業",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 紙パ 26 生産用機械器具製造業 生産",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 5,927 2.7 181,090 2.4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 71,245 2.3 22,455 2.3",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "－ 産出事業所数が最も多い品目は「オフセット印刷物（紙に対するもの）」 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 151111 オフセット印刷物（紙に対するもの) 8,414 東京 大阪 愛知",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "22 151311 紙以外のものに対する印刷物 1,673 東京 大阪 埼玉",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・石炭製品の「ガソリン」（4 兆 1638 億円）、印刷・同関連品の「オフセット印刷物（紙に対",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 151111 オフセット印刷物（紙に対するもの) 2,602,796 東京 埼玉 大阪",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 名称及び電話番号",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "管理，補助的経済活動を行う事業所（14_パルプ・紙・紙加工品製造業）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "加工紙製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "紙製品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "紙製容器製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "その他のパルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "紙・紙製品卸売業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介・労働者派遣業",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "管理，補助的経済活動を行う事業所（91_職業紹介・労働者派遣業）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "pass": 3
+   },
+   {
+    "quote": "育成の取組を紹介する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コミュニティカレッジのあるランシング市には職業訓練のあっせんと職業紹介を行う組織、ミシガ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業訓練と職業紹介を実施するにあたり、地元企業のニーズを頻繁に、そして徹底",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "優秀な外注先企業群を育成している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の取組などについて紹介する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また納品書や作業指示は、 紙面のやりとりで行っていたため、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組立ラインの検査には、従来紙のチェックシートを用いて品質チェックを行っていたが、現在ではタブ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "着衣・脱衣施術の内訳、価格競争と高付加価値化の二極化、業界課題まで紹介します",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページの扱いや罰則も紹介します",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "マットレスや介護用寝具を厳選して紹介",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人の自己紹介は固定記事から🔍",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "(2) 建設仮勘定の増加額及び減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 年末現在高＝年初現在高＋取得額－除却・売却による減少額－減価償却額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 建設仮勘定の年間増減＝増加額－減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウ 投資総額＝取得額＋建設仮勘定の年間増減",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "伴い、休業や生産の減少に伴う人員調整や経営の悪化",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後、人口減少や高齢化が進む中で、日本",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、 2019年は2.2％～2.5％で推移し、 年平均で2.4％",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "364 万人を記録した後、以降は次第に減少し、2019",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年 12 月には 152 万人となり減少傾向で推移してい",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月に続き増加している（図 211-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-２ 構造的・摩擦的失業率、需要不足失業率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-１ 完全失業率（季節調整値）及び完全失業者数（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-３ 有効求人倍率（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-４ 職業別の有効求人倍率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たことから、求人数の減少を通じて有効求人倍率が低",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前月につづいて減少している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "過去5年間の市場規模推移",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "に達しており、前年比約2.4％増となりました（出典：経済産業省「工業統計調査」）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "約358兆円（前年比+2.4％）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "約333兆円（コロナ禍による減少）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "為替の円安効果や輸出需要の回復により、生産活動は堅調に推移していますが、一方で人件費・エネルギーコストの上昇が収益を圧迫しています",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化により熟練技能者が減少",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の推移や今後の予測、企業法務・個人法務・刑事事件など分野別動向、他の士業やサービス産業との規模比較について解説します",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用機械器具製造業の生産額は、2009年にリーマンショックの影響により落ち込み、以降は横ばいで推移している",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "一方、医療用機械器具の生産額は、同じく2009年に減少したものの、以降は徐々に増加し続け、特に2019年度には前年度比131.8％増と大きく増加している",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "新型コロナウイルス感染拡大を契機に在宅医療へのニーズも高まっており、今後も生産額は増加基調が続くと見込まれる",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "また、近年の画像処理技術の発達やビッグデータ解析の高度化などにより、医療機器の性能は飛躍的に高まっており、自動問診システム、生体データ測定、遠隔診断など、全国の医療機関でAIやIoT技術を利用した医療機器の利用事例が増加している",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "特に医療用機械器具の製造においては、高度な生産設備を備える必要があるため、多額の設備投資が必要であり、借入金が増加しやすいことが要因であると推察される",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   }
+  ],
+  "払う単価の手がかり": [
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：出荷金額の調査期間については、令和2年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） 第１位 第２位 第３位",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査は、全産業分野の売上（収入）金額や費用などの経理項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コ 企業全体の売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コ 売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 年間商品販売額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 物品賃貸業のレンタル年間売上高及びリース年間契約高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キ 企業全体の売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間で 11.6％減少しており、全産業に占める製造",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と、５年間で約 1.6 倍となっており、産業全体にお",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本の平均年間総実労働時間（就業者）を",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 214-４ 一人当たり平均年間総実労働時間推移の国際比較（全就業者）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20 年間で約 50％減少している（図 215-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "について、過去 20 年間の推移をみていくと、非製造",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "く、2018 年においては、全産業 794.3 万円、非製",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造業 740.9 万円に対し、製造業は 1,094 万円となっ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（万円/人）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AI やデジタル化は同じような作業を膨大に繰り返すようなものでなければ、費用対効果",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "かかる予算の不足」 と回答した企業割合が高い",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "果たすことのできる人材の確保・育成のための予算の不足",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "過去5年間の市場規模推移",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客単価・雇用規模の動向",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "工業出荷額（百万円）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円/年",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "平均賃金も上昇傾向にあり、2023年の平均年収は約540万円（出典：厚生労働省）",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化社会の進行に伴い、医療用機械器具の需要が高まっているほか、近年はAIやIoT技術を活用した高性能化によって、単価が上昇していることが一因であると考えられる",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   }
+  ],
+  "働き手が減るか（人手不足）": [
+   {
+    "quote": "今後、人口減少や高齢化が進む中で、日本",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "鈍いことから、欠員と失業が併存する不均衡が続いて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-３ 有効求人倍率（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-４ 職業別の有効求人倍率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（季節調整値）は上昇し 2018 年８",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たことから、求人数の減少を通じて有効求人倍率が低",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別に有効求人倍率",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "をみると、生産工程の職業の有効求人倍率は、職業計",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業で、人手不足感がみられる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年第３四半期にマイナス 1.8 と人手不足感に転じて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）就業者数及び雇用者の動向",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業就業者数については、2002年の",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、国内生産の空洞化や人手不足、エネルギーコスト上昇などの課題も存在します",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化により熟練技能者が減少",
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化社会の進行に伴い、医療用機械器具の需要が高まっているほか、近年はAIやIoT技術を活用した高性能化によって、単価が上昇していることが一因であると考えられる",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "業界レポート 業務用機械器具製造業 ｜佐々木正人 - note 業界レポート 業務用機械器具製造業 ｜佐々木正人 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "業界レポート 業務用機械器具製造業｜佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "の心臓部であり、格付などの与信指標を生産・保守を行う「データ工場」が集計・分析しており、業界ごとの市場概要や業界動向、与信管理のポイントなどをまとめたレポートです。",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "特に記事についてのコメント頂けると、今後の記事作成の励みになります。",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "業務用機械器具製造業には、業務用及びサービス提供のために使用される機械器具を製造する事業者が分類されている。営業種目は多岐にわたり、事業規模においては、医療用機械器具・医療用品が最も大きい。",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "以下に、営業種目と主な生産製品をまとめた。",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "‣ 取扱い商品の特性上、エンドユーザーは企業もしくは研究機関、医療機関が中心である。",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   },
+   {
+    "quote": "‣ 受注生産型 ： エンドユーザーの用途に適した製品を製造するため、受注生産型が一般的である。",
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kibichuo.jp/files/resas/kakuron2_seizou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/service/remote-field/column/article-manufacturing-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202411_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://non-mainte.com/blog/1764",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai.netoco.jp/manufacturing-market-size/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/ja/market-analysis/machine-tools-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.date-systems.com/%E8%B3%87%E6%96%99%E5%AE%A4/%E7%B5%B1%E8%A8%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techs-s.com/media/show/331",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monotown-kadoma.jp/matching-site",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platto.technoa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casio-human-sys.co.jp/bc-order/column/075.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekai-c.jp/column/3959/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bcart.jp/post/235",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/240422.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gifu-keiri.com/news/news-13043/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robokaru.jp/useful/813/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/1252/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/form/2022/pdf/22odan_howto_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "業務用機械器具製造業 事業所数 従業者数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://kibichuo.jp/files/resas/kakuron2_seizou.pdf",
+    "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/003/905/r03_census_seizougyou_riyou_chuui.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&result_page=1&statdisp_id=0003389365",
+    "https://www.e-census-st.go.jp/bunrui/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0004005688"
+   ]
+  },
+  {
+   "query": "業務用機械器具製造業 人手不足 有効求人倍率",
+   "results": [
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://www.ricoh.co.jp/service/remote-field/column/article-manufacturing-industry",
+    "https://jsite.mhlw.go.jp/miyazaki-roudoukyoku/content/contents/002633678.pdf",
+    "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%BB%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E3%81%A8%E5%AF%BE/",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://nextengineer.com/blog/know-how001/"
+   ]
+  },
+  {
+   "query": "業務用機械器具製造業 市場規模 推移",
+   "results": [
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202411_2.pdf",
+    "https://non-mainte.com/blog/1764",
+    "https://www.gminsights.com/ja/industry-analysis/industrial-machinery-market",
+    "https://ai.netoco.jp/manufacturing-market-size/",
+    "https://www.psmarketresearch.com/ja/market-analysis/machine-tools-market",
+    "https://www.tasuki.pro/ma-news/industrial-machinery/",
+    "https://sellwell.jp/datahub/industry/industrial-machinery/",
+    "https://www.tdb.co.jp/report/industry/n1k3amukq/",
+    "https://market-size.org/msd-t/2150000000000000765",
+    "https://the-shashi.com/market/machinery/"
+   ]
+  },
+  {
+   "query": "業務用機械器具製造業 休廃業 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "https://www.date-systems.com/%E8%B3%87%E6%96%99%E5%AE%A4/%E7%B5%B1%E8%A8%88/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "https://ecnomikata.com/ecnews/marketing/48265/",
+    "https://restart-style.com/knowledge/manufacturing_bankruptcy/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/20/backdata/1-1-10.html",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/57781938b4914fa282ba69967be6182b/20251007_%E3%80%8C%E9%87%91%E5%9E%8B%E8%A3%BD%E9%80%A0%E3%80%8D%E3%81%AE%E5%80%92%E7%94%A3%E3%83%BB%E4%BC%91%E5%BB%83%E6%A5%AD%E8%A7%A3%E6%95%A3%E5%8B%95%E5%90%91%EF%BC%882025%E5%B9%B41-9%E6%9C%88%EF%BC%89.pdf",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/84e8f3bf88cc40cf91eaf003dc984202/20260109_全国企業「休廃業・解散」動向調査（2026年）.pdf"
+   ]
+  },
+  {
+   "query": "業務用機械器具製造業 マッチング プラットフォーム",
+   "results": [
+    "https://mallento.com/recommend/manufacturing-matching-services/",
+    "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "https://www.techs-s.com/media/show/331",
+    "https://monotown-kadoma.jp/matching-site",
+    "https://platto.technoa.co.jp/",
+    "https://chushokigyo-support.or.jp/column/business-matching/business-matching-manufacturing-industry/",
+    "https://rms.restargp.com/column/business-matching-site-manufacturing/",
+    "https://mono.ipros.com/cg1/%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.jetro.go.jp/services/e-venue/",
+    "https://mitsu-ri.net/articles/manufacturing-matching-platform"
+   ]
+  },
+  {
+   "query": "業務用機械器具製造業 受発注 課題 電話 FAX",
+   "results": [
+    "https://www.casio-human-sys.co.jp/bc-order/column/075.html",
+    "https://sekai-c.jp/column/3959/",
+    "https://bcart.jp/post/detail/235/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/240422.html",
+    "https://www.mosjapan.jp/blog/away-from-fax-and-telephone-order",
+    "https://note.com/recerqa/n/n984940c704ad",
+    "https://www.umsaascloud.jp/blog/fax/",
+    "https://hnavi.co.jp/knowledge/blog/manufacturing-order-system/",
+    "https://www.ecbeing.net/b2b/contents/detail/22",
+    "https://www.infomart.co.jp/manufacturer/index.asp"
+   ]
+  },
+  {
+   "query": "業務用機械器具製造業 外注 費用 相場",
+   "results": [
+    "https://gifu-keiri.com/news/news-13043/",
+    "https://robokaru.jp/useful/813/",
+    "https://factoryadvance.jp/blog/1252/",
+    "https://www.stat.go.jp/data/kkj/form/2022/pdf/22odan_howto_2.pdf",
+    "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "https://www.salesdock.jp/blog/manufacturing-cost-ratio",
+    "https://www.shinpo-e.co.jp/media/uncategorized/control-outsourcing-cost",
+    "https://go.taxita.com/column/accounting072/",
+    "https://www.agency-assist.co.jp/column/13821/",
+    "https://gaichubase.com/2026/05/04/業務委託費用相場を徹底解説：実際の料金はどれ/"
+   ]
+  },
+  {
+   "query": "site:note.com 業務用機械器具製造業",
+   "results": [
+    "https://note.com/rm_sasaki/n/n596ba8f3f3e5",
+    "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "https://note.com/hashtag/%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E7%94%9F%E7%94%A3%E7%94%A8%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%90%8C%E9%83%A8%E5%88%86%E5%93%81%E8%A3%BD%E9%80%A0%E6%A5%AD?f=new",
+    "https://note.com/rm_sasaki/n/n1ddd6a44382f",
+    "https://note.com/hashtag/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0%E3%83%BB%E9%89%B1%E5%B1%B1%E6%A9%9F%E6%A2%B0%E8%A3%BD%E9%80%A0%E6%A5%AD?f=new",
+    "https://note.com/resas_data/n/n4931d2a23504",
+    "https://note.com/shin_tigerjet/n/n09d120720eba",
+    "https://note.com/ideafruits/n/ndb62b147fc78",
+    "https://note.com/ulcons/n/n9705d97132fc",
+    "https://note.com/esuhai_japan/n/n90189dfc2a94"
+   ]
+  },
+  {
+   "query": "site:x.com 業務用機械器具製造業",
+   "results": [
+    "https://x.com/OgawaSeisakusho/status/1872487509135110642",
+    "https://x.com/21GIFU_hwgifu/status/1942901545932378147",
+    "https://x.com/hw_akita/status/2112355505691828345",
+    "https://x.com/araioppa/status/2054326418679705771",
+    "https://x.com/vega_official_/status/1626401047722983427",
+    "https://x.com/RMIRI/status/1905085936981209483",
+    "https://x.com/press_yamashin/status/1917031002427515042",
+    "https://x.com/jrathlete/status/1931184349334192506",
+    "https://x.com/en124141454"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 業務用機械器具製造業",
+   "results": [
+    "https://jp.linkedin.com/company/sankyo-machine-tools",
+    "https://jp.linkedin.com/company/clampco-products-inc-",
+    "https://jp.linkedin.com/company/lifehub-inc",
+    "https://jp.linkedin.com/company/trescal?trk=public_profile_experience-item_profile-section-card_image-click",
+    "https://jp.linkedin.com/company/kanto-tekko-co-ltd",
+    "https://jp.linkedin.com/company/hattori-kogyo-k-k",
+    "https://jp.linkedin.com/company/james-walker",
+    "https://jp.linkedin.com/company/yamazencorporation",
+    "https://jp.linkedin.com/company/bombardier/jobs",
+    "https://jp.linkedin.com/company/hoshizaki-europe-b-v-"
+   ]
+  },
+  {
+   "query": "site:facebook.com 業務用機械器具製造業",
+   "results": [
+    "https://www.facebook.com/fujishi.s/posts/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E3%81%AE%E9%9D%99%E5%B2%A1%E7%9C%8C%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E5%9C%B0%E5%9F%9F%E5%88%A5%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E3%81%AE%E6%94%B9%E6%AD%A3%E6%97%A5%E4%BB%A4%E5%92%8C8%E5%B9%B410%E6%9C%8815%E6%97%A5%E3%81%8C%E8%BF%AB%E3%82%8A%E6%94%B9%E6%AD%A3%E3%81%AB%E3%82%88%E3%82%8A%E6%99%82%E9%96%93%E9%A1%8D%E3%81%8C1154%E5%86%86%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E6%94%B9%E5%AE%9A%E5%89%8D%E3%81%AE1097%E5%86%86%E3%82%88%E3%82%8A57%E5%86%86%E3%81%AE%E5%A2%97%E9%A1%8D%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE/1599869778833842/",
+    "https://www.facebook.com/OkayamawineFes/posts/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%8A%E3%81%8B%E3%82%84%E3%81%BE%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B1%95otex2026-%E7%B2%BE%E9%8B%AD%E4%BC%81%E6%A5%AD%E3%81%A8%E5%87%BA%E4%BC%9A%E3%81%86%E6%8A%80%E8%A1%93%E5%B1%95%E7%A4%BA%E5%95%86%E8%AB%87%E4%BC%9A%E6%97%A5%E6%99%822026%E5%B9%B411%E6%9C%8811%E6%97%A5%E6%B0%B412%E6%97%A5%E6%9C%A8-10%E6%99%8217%E6%99%82-%E6%9C%80%E7%B5%82%E6%97%A5%E3%81%AF-16%E6%99%8230%E5%88%86-/1940432317294631/",
+    "https://www.facebook.com/HokkaidoKogyokai/",
+    "https://www.facebook.com/sokacity.anshin/posts/%E7%89%B9%E5%AE%9A%E7%94%A3%E6%A5%AD%E5%88%A5%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E3%81%8C%E6%94%B9%E6%AD%A3%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%A4%E5%92%8C6%E5%B9%B412%E6%9C%881%E6%97%A5%E3%81%8B%E3%82%89%EF%BC%95%E6%A5%AD%E7%A8%AE%E3%81%AE%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%89%B9%E5%AE%9A%E7%94%A3%E6%A5%AD%E5%88%A5%E6%9C%80%E4%BD%8E%E8%B3%83%E9%87%91%E3%81%AE%E6%99%82%E9%96%93%E9%A1%8D%E3%81%8C%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AF1098%E5%86%86%E5%85%89%E5%AD%A6%E6%A9%9F%E6%A2%B0%E5%99%A8%E5%85%B7%E7%AD%89%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AF111/597015016003735/",
+    "https://www.facebook.com/okayamaEats/posts/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%8A%E3%81%8B%E3%82%84%E3%81%BE%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B1%95otex2025-%E7%B2%BE%E9%8B%AD%E4%BC%81%E6%A5%AD%E3%81%A8%E5%87%BA%E4%BC%9A%E3%81%86%E6%8A%80%E8%A1%93%E5%B1%95%E7%A4%BA%E5%95%86%E8%AB%87%E4%BC%9A%E6%97%A5%E6%99%822025%E5%B9%B411%E6%9C%8812%E6%97%A5%E6%B0%B413%E6%97%A5%E6%9C%A8-10%E6%99%8217%E6%99%82-%E6%9C%80%E7%B5%82%E6%97%A5%E3%81%AF-16%E6%99%8230%E5%88%86-/1969959157054476/",
+    "https://www.facebook.com/unibird.biz/posts/-%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A7%E5%83%8D%E3%81%8D%E3%81%9F%E3%81%84%E7%9A%86%E3%81%95%E3%82%93%E3%81%B8-%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E5%8B%9F%E9%9B%86-%E5%8B%A4%E5%8B%99%E5%9C%B0%E5%AE%AE%E5%9F%8E%E7%9C%8C%E5%A4%A7%E5%B4%8E%E5%B8%82-%E9%9B%87%E7%94%A8%E5%BD%A2%E6%85%8B%E5%A5%91%E7%B4%84%E7%A4%BE%E5%93%A1%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E7%B5%8C%E9%A8%93%E3%82%84%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%A6%E5%83%8D/1759535176175760/",
+    "https://www.facebook.com/ambk0117/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEmark1%E6%A7%98%E3%81%8Csdgs%E5%AE%A3%E8%A8%80%E6%9B%B8%E3%82%92%E7%AD%96%E5%AE%9A%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E9%9D%92%E6%A3%AE%E3%81%BF%E3%81%A1%E3%81%AE%E3%81%8F%E9%8A%80%E8%A1%8C%E3%81%A7%E3%81%992026%E5%B9%B41%E6%9C%88%E9%9D%92%E6%A3%AE%E3%81%BF%E3%81%A1%E3%81%AE%E3%81%8Fsdgs%E5%8F%96%E7%B5%84%E8%A9%95%E4%BE%A1%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E3%81%94%E5%88%A9%E7%94%A8%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEma/122156997728673656/",
+    "https://www.facebook.com/tec.naga.niigata/",
+    "https://www.facebook.com/sankyomachinery/",
+    "https://m.facebook.com/HokkaidoKogyokai/photos/a.139595533303069/151674635428492/"
+   ]
+  },
+  {
+   "query": "業務用機械器具製造業 note 社長",
+   "results": [
+    "https://note.com/ulcons/n/n9705d97132fc",
+    "https://note.com/rm_sasaki/n/n596ba8f3f3e5",
+    "https://note.com/tag/%E8%A3%BD%E9%80%A0%E6%A5%AD",
+    "https://note.com/ideafruits/n/ndb62b147fc78",
+    "https://note.com/sheep_ceosyatyo/m/m3b1b25ff3e7e",
+    "https://www.youtube.com/watch?v=fKyTNYR08sI",
+    "https://www.riskmonster.co.jp/pressrelease/post-12433/",
+    "https://zenn.dev/h_nocode_ai_lab/articles/note-00-intro",
+    "https://note.com/rm_sasaki/n/n519c0a54329d",
+    "https://alarmbox.jp/companyinfo/middle-industries27"
+   ]
+  },
+  {
+   "query": "業務用機械器具製造業 X 投稿",
+   "results": [
+    "https://jsite.mhlw.go.jp/kagawa-roudoukyoku/content/contents/002510552.pdf",
+    "https://journal.meti.go.jp/60sec/40462/",
+    "https://factoryadvance.jp/blog/565/",
+    "https://www.youtube.com/shorts/a1esJ-2E7hM",
+    "https://tofu.misosil.com/influencers/Information-and-communication-electronics-equipment-manufacturing-industry/",
+    "https://x.com/industryJapan",
+    "https://industrial-x.jp/manufacturing/",
+    "https://jamta.com/%E8%87%AA%E6%A9%9F%E5%B7%A5%E5%85%AC%E5%BC%8Fx%E6%97%A7twitter%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E9%96%8B%E8%A8%AD",
+    "https://www.kyougikai.info/report/_x/",
+    "https://news.j-blocks.com/gyokai/seizou-kikaikigu"
+   ]
+  },
+  {
+   "query": "business-use machinery manufacturing Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/examining-japan-heavy-machinery-market-manufacturing-segments-er8we",
+    "https://www.linkedin.com/company/rockwell-automation",
+    "https://www.linkedin.com/company/shibaura-machine-company-america",
+    "https://www.linkedin.com/company/emerson",
+    "https://www.linkedin.com/company/kawasaki-heavy-industries/",
+    "https://www.linkedin.com/company/3m",
+    "https://www.linkedin.com/company/caterpillar-inc",
+    "https://www.linkedin.com/pulse/japan-egg-handling-pachaging-machines-market-business-1jjjf",
+    "https://www.linkedin.com/posts/ketan-thakkar-9145793a_mahindra-to-exit-japan-agri-equipment-business-activity-7434263743242543105-3g4I",
+    "https://www.linkedin.com/company/schneider-electric"
+   ]
+  }
+ ],
+ "missing": {}
+}

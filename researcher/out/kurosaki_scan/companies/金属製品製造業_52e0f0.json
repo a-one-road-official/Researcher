@@ -1,0 +1,2507 @@
+{
+ "name": "金属製品製造業",
+ "en": "fabricated metal products manufacturing Japan",
+ "aliases": [
+  "金属製品",
+  "板金",
+  "機械加工 町工場",
+  "金属加工業"
+ ],
+ "context": "製造業・素材",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:53:49.289911+00:00",
+ "evidence": {
+  "事業所数・従業者数（経済センサス等）": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数14 産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(2区分)、常用雇用者規模(10区分)別全事業所数、男女別従業者数及び常用雇用者数－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "2022年経済構造実態調査の製造業に関する結果を取りまとめました（METI/経済産業省）",
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年経済構造実態調査の製造業に関する結果を取りまとめました",
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "pass": 3
+   },
+   {
+    "quote": "この度、2022年6月に実施した「経済構造実態調査製造業事業所調査」の結果を取りまとめました",
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "pass": 3
+   },
+   {
+    "quote": "1．経済構造実態調査製造業事業所調査に関する結果について",
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業に関する結果は、「2022年経済構造実態調査」の調査結果のうち、製造業事業所について集計したものです",
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）事業所数及び従業者数",
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年6月1日時点の事業所数は22万2770事業所、従業者数は771万4495人となっています",
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、事業所数を産業中分類別にみると、「金属製品製造業」が製造業計の13.8%と最も多く、次いで「食料品製造業」が11.1%、「生産用機械器具製造業」が10.5%などとなっています",
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、従業者数を産業中分類別にみると、「食料品製造業」が製造業計の14.3%と最も多く、次いで「輸送用機械器具製造業」が13.4%、「生産用機械器具製造業」が8.6%などとなっています",
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "pass": 3
+   },
+   {
+    "quote": "１：製造業事業所調査",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "※「工業統計調査」は2020年調査（2019年実績）で廃止",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の調査（2021年実績）からは「製造業事業所調査」として実施されている",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "ですから産業別に集計されている金型事業所とは、金型専業100％の事業所か金型以外の製造品を扱っていても金型が主力である事業所の数値となります",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、品目別は総ての調査対象事業所の製造品及び加工品を品目別に集計したものであり、主力が金型以外の製造品であっても金型の生産がおこなわれていれば金型の生産額は金型の1事業所の生産額として集計されます",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサスサービス業など製造業以外も含めた全ての産業を5年ごとに調査・集計・発表されているものです",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "（2011年、2015年、2020年は旧工業統計調査が実施されなかった為、経済センサスを使用",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "令和3経済センサス－活動調査 製造業（産業分類別・事業所数・従業者数・出荷額等）",
+    "url": "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、製造業（事業所）の85.3%が能力開発や人手不足に関する課題を抱えていることが明らかになっています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち、65.9%の事業所が指導を行う人材不足を具体的な問題点として回答しています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "」では、技術伝承の取り組みを行っている事業所のうち70.5%が、シニア世代の再雇用・雇用延長によって指導者を確保していると明らかになりました",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書によれば、製造業における人材育成の問題として「指導する人材が不足している」と回答した事業所は6割以上にのぼります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "画像出典：2023 年経済構造実態調査二次集計結果 ＜製造業事業所調査＞ 結果の概要",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "「2023年経済構造実態調査二次集計結果」によると、金属製品業界の市場規模（2022年の製造品出荷額）は16兆9,199億円となっています",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は3万589箇所で製造業のなかでは最多となっており、従業員数は60万7992人です",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "[注] Ｘ年の休廃業・解散率＝X年の休廃業・解散件数/（X-1）年12月時点企業数",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "「比較biz」は、15年の運用実績と会員企業数約42,000社・発注確定度85%を誇る",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "日本全国の470団体超の商工会議所・商工会（登録団体）が会員事業所の経営支援を目的に共同で運営されています",
+    "url": "https://monotown-kadoma.jp/matching-site",
+    "pass": 3
+   },
+   {
+    "quote": "30年以上の調達実績があるエージェンシーアシストでは1000社を超える協力企業数で、多品種部品を一括手配していただけます",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業数 73 社",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   },
+   {
+    "quote": "非上場企業数 41,477 社",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   },
+   {
+    "quote": "類似業種との規模を比較すると、事業所数が最も多く、平均従業員数が最も少ないことが分かる",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   },
+   {
+    "quote": "従業員10 人未満の事業所割合が70％を超えており、中小・零細企業の割合が高いことが分かる",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省：「工業統計調査」",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   },
+   {
+    "quote": "総務省統計局：「平成28 年経済センサス」",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   }
+  ],
+  "需要が増えるか": [
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等の都道府県別順位",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "（2）製造品出荷額等及び付加価値額",
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の製造品出荷額等は330兆2200億円、付加価値額は106兆6140億円となっています",
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、製造品出荷額等を産業中分類別にみると、「輸送用機械器具製造業」が製造業計の19.1%と最も多く、次いで「化学工業」が9.6%、「食料品製造業」が9.1%などとなっています",
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "pass": 3
+   },
+   {
+    "quote": "すなわち、金型の製造を営んでいる事業所であっても、金型以外の製造品が主力であれば、金型以外の製造業として分類、集計されてしまい、実際に金型の生産額が存在していてもその分は金型以外の主力製品として集計されます",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、品目別は総ての調査対象事業所の製造品及び加工品を品目別に集計したものであり、主力が金型以外の製造品であっても金型の生産がおこなわれていれば金型の生産額は金型の1事業所の生産額として集計されます",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "金型生産額推移表",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "令和3経済センサス－活動調査 製造業（産業分類別・事業所数・従業者数・出荷額等）",
+    "url": "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "計 製造品出荷額 加工賃収入額 くず・廃物の出荷額 その他の収入額",
+    "url": "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等",
+    "url": "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業は我々の生活に欠かせない製品を数多く生み出し、日本の経済成長を支える重要な役割を果たす産業です",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、少子高齢化による労働人口の減少や熟練者の退職などで人手不足問題が深刻化しており、残業時間の増加や生産性の低下などの問題を引き起こしています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "採用枠の拡大で人材を増やす",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「2024年版ものづくり白書」によると、非製造業の就業者数は2003年から2023年の20年間で554万人増加している一方、製造業の就業者数は123万人減少しています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "直近の2022年から2023年にかけては、製造業の就業者数が11万人増加し、全産業に占める製造業の就業者数の割合も0.1%上昇してます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における就業者数を詳しく見ると、若年就業者（34歳以下）数の減少と、高齢就業者（65歳以上）数の増加が同時に進行していることがわかります",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「2024年版ものづくり白書」では、若年就業者数が2003年から2023年の20年間で102万人減少しており、高齢就業者数が30万人増加していることが明らかになりました",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "実際、総務省統計局が行った「労働力調査」では、2021年から2024年にかけて転職者数が増加傾向にあることがわかります",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "転職希望者数については、2016年から2023年まで7年連続で増加しており、2024年時点で1,000万人が「現在の仕事を辞めて他の仕事に変わりたい」と考えています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足による従業員教育の不徹底、その結果離職者数が増加するという悪循環を防ぐためには、",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、今まで積極的に雇用してこなかった人材にも視野を広げる採用枠の拡大を検討しましょう",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "単純に採用枠を広げるだけでは企業の魅力が伝わらず、応募者数の増加も見込めません",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "一方で高齢就業者（65歳以上）は2002年の58万人から約90万人へと増加しており、現場の高齢化が急速に進んでいます",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "若年就業者の大幅な減少と高齢就業者の増加という二極化の構図は、近い将来に技術承継が途絶えるリスクを現実のものとしています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・電子部品・デバイスの製造業は、高精度な作業と品質管理が求められるため、専門的な知識と技術を持つ人材への需要が高い分野です",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な半導体需要の増大や国内製造拠点の復活・新設（TSMC熊本工場など）を背景に、即戦力となる技術者・エンジニアの人材不足が加速しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の根底には、経済成長ではなく人口動態という不可逆な変化があることを製造業の経営者は直視する必要があります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "熟練者が不足した現場では、経験の浅い人材が複数工程を兼任させられるため、品質チェックが甘くなりやすく、不良品・クレームの増加につながります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "技術継承が果たせなかった企業は、高品質な製品を安定的に生産する能力を失い、価格競争に巻き込まれるか、受注量の縮小を余儀なくされます",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "特に後継者不足と人材不足が重なる中小製造業においては、廃業・事業売却という選択を迫られるケースも増加しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人技能実習生・特定技能人材に関する手続きやトラブル対応による工数増加",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、非製造業の就業者数は増加傾向にあります",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属加工市場の成長と動向 2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "成長すると見込まれています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属加工市場は、同国の先進的な製造エコシステムと継続的なインフラ開発イニシアチブに牽引され、堅調な成長を続けています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "交通インフラ、都市再開発プロジェクト、および再生可能エネルギー設備の拡大に向けた投資の増加により、全国で高品質な金属加工部品に対する持続的な需要が生まれています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "これは、電子機器、半導体製造装置、自動車部品製造における精密加工部品の需要拡大によるものである",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "これは前年比11％増であり、2020年以来の最高導入台数を記録したもので、業界の着実な自動化の進展を反映しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "伝統的な精密工学の専門知識とデジタル製造技術の融合により、日本の金属加工セクターは予測期間を通じて持続的な成長が見込まれています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクスおよび半導体製造における精密部品への需要の高まり",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本における活況を呈する電子機器および半導体産業は、超精密金属加工サービスに対する大きな需要を牽引している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体製造装置市場規模は2025年に70億米ドルに達した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "今後、同市場は2034年までに152億米ドルに達すると予想されており、2026年から2034年にかけて年平均成長率（CAGR）8.93％で成長すると見込まれている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品業界のM&A動向や市場規模について知りたい方は、ぜひ参考にしてください",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品（金属加工）業界のM&A動向・市場規模",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品（金属加工）業界の市場規模とM&A動向を解説",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品製造業は、販売先である自動車・建設・住宅メーカー等大規模事業者であるユーザー企業のニーズに合った製品を製造する受注生産型主体の製造業です",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品業界のM&A動向・市場規模",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "「2023年経済構造実態調査二次集計結果」によると、金属製品業界の市場規模（2022年の製造品出荷額）は16兆9,199億円となっています",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "特にプレス部品やサッシ・シャッターは、自動車業界や住宅業界の影響を強く受けるため、需要の波が大きくなりやすいです",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、2022年の出荷額は前年比1.07%増と微増にとどまり、2017年以降の年平均4～5%の増加率と比べても伸び悩みが見られます",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品業界では、技術力強化や事業拡大を目的としたM&Aが活発に行われています",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "このM&Aにより、フジオーゼックスの事業拡大につながるだけでなく、グループとのシナジーの創出により、同事業が拡大される見込みです",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品から電池関連部材へと事業領域を拡大する、戦略的なM&Aといえるでしょう",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "このM&Aにより、「インサート成形品」の国際競争力を高め、事業の拡大が図られました",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "SDGsの視点を取り入れた自社事業について、事業価値を拡大するためにどうしたらよいでしょうか？",
+    "url": "https://j-net21.smrj.go.jp/solution/qa/marketanalysis/Q1078.html",
+    "pass": 3
+   },
+   {
+    "quote": "またユーザー企業からの一括発注の動きもあり、ネットワークの強化による複数工程分野の受注が増加すると思われます",
+    "url": "https://j-net21.smrj.go.jp/solution/qa/marketanalysis/Q1078.html",
+    "pass": 3
+   },
+   {
+    "quote": "【市場規模】",
+    "url": "https://j-net21.smrj.go.jp/solution/qa/marketanalysis/Q1078.html",
+    "pass": 3
+   }
+  ],
+  "大手プラットフォームの有無": [
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "企業マッチング",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェア",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "EV（電気自動車）シフトやCASE（コネクテッド・自動運転・シェアリング・電動化）の波により、従来の内燃機関関連の技術から電子制御・ソフトウェアを組み合わせた新たな技術へのシフトが急務となっています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の割合が高く、大手企業に比べて給与水準や福利厚生で劣後することも多いため、採用競争力が低くなりやすい構造的な問題があります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の求人サイト、地域の無料媒体であるハローワーク、SNSを使った採用広報（採用インスタグラム・Xなど）、動画での工場見学コンテンツの発信など、ターゲット層に合わせた多様なチャネルを組み合わせることが人材確保につながります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "購買管理プラットフォーム",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、購買管理システムの概要を紹介した上で、購買管理システムの世界的なシェアや種類についても解説します",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "購買管理プラットフォーム導入事例 小田急電鉄株式会社様",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足対策に！間接材の購買業務を効率化できる「購買管理プラットフォーム」",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "間接材の購買業務の効率化を図るなら、間接材購買に特化した購買管理システム「購買管理プラットフォーム」の導入を検討してみてはいかがでしょうか",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "「購買管理プラットフォーム」には、以下のような特徴があります",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "上記のとおり、「購買管理プラットフォーム」では、最安値商品のスムーズな検索や自社ルールに合わせた設定などが可能です",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "ビズネットの「購買管理プラットフォーム」で製造業の業務効率化を実現！",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "社内DXの一環として、バックオフィス業務の改善に注力したいという方は、ビズネットの購買管理システム「購買管理プラットフォーム」の導入をご検討ください",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "受発注の業務改善によって顧客サービス向上と新たなビジネスの展開を支援する「購買管理プラットフォーム」を14,000社以上の企業に提供しています",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "購買管理プラットフォーム資料",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "購買管理システムのシェアまとめ！シェアに惑わされない比較ポイントも",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属加工市場の規模、シェア、動向、予測 素材タイプ、サービスタイプ、最終用途産業、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "鋼材が63％のシェアを占め、市場を",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "サービス種別：2025年には機械加工が29％のシェアで市場をリードすると予測される",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "最終用途産業別：2025年には製造業が45％の市場シェアを占め最大のセグメントとなる",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "、2025年には34％の市場シェアを占め、明確な優位性を示している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本の金属加工市場全体において、鋼材セグメントは63%の市場シェアを占め、圧倒的な地位を確立しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本の金属加工市場全体において、機械加工セグメントが29%のシェアを占め、トップとなっています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "機械加工サービスは、日本の精密製造および高付加価値部品の生産への強い志向を反映し、金属加工サービスの種類の中で最大のシェアを占めています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "製造業セグメントは、2025年の日本の金属加工市場全体において45%のシェアを占め、圧倒的な優位性を示しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "製造セグメントは、企業が従来の内燃機関車種の生産ラインを維持しつつ、電気自動車（EV）およびハイブリッド車（HV）プラットフォーム向けに生産システムを適応させる中で、変革の過程にあります",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本の金属加工市場全体において、関東圏は34%のシェアを占め、圧倒的な優位性を示しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド車およびプラグインハイブリッド車には、両方のパワートレイン技術の統合が必要であり、各車両プラットフォームに必要な加工部品の種類が増えています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "2007年立教大学経済学部経済学科卒業後、国内大手調査機関へ入社し、国内法人約1,500社の企業査定を行うとともに国内・海外データベースソリューション営業を経て、Web戦略室、広報部にて責任者を歴任",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年大手M&A支援機関へ入社し、広報責任者として広報業務に従事、厚生労働省「職業情報提供サイト（日本版O-NET）」M&Aアドバイザー担当",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングを成功させる方法",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aマッチングサイト",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "取引シェア推計データ",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "足元では、中小企業支援の軸足が「資金繰り」から、抜本的な「事業再生」へと変化するなかで、M&Aなどを活用して事業を第三者に引き継ぐ「前向きな廃業」の考え方が広まり、業界大手の企業が自主廃業を決断するといった事例も出始めている",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】製造業マッチングサイトおすすめ9選",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "加工先探し・相見積り・技術マッチングを比較",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイト開発/構築で失敗しない方法",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイトをAIで低コスト・高品質に構築!!／",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングとは",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングとは、部品加工、試作、量産、OEM、共同開発、技術相談などを依頼したい企業と、対応できる製造会社・工場・技術企業をつなぐ仕組みです",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングサイトを使うと、発注側は加工先、試作先、量産先、OEM先、共同開発先を探しやすくなります",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングが注目される背景には、BtoB取引のオンライン化があります",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングサイトは、こうした流れの中で、発注先探しや受注獲得、技術連携を効率化する手段として注目されています",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングサイトを選ぶときは、サービス名だけで判断しないことが重要です",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "加工先を探したいのか、技術パートナーを探したいのか、案件を獲得したいのか、自社で受発注マッチングサイトを作りたいのか",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB・受発注型のマッチングサイト構築を検討している方はこちら",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工業のマッチングサイト10選を徹底比較！受注拡大とWeb集客戦略 - 集客・広告戦略メディア「キャククル」",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工業のマッチングサイト10選を徹底比較！受注拡大とWeb集客戦略",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工業に特化したビジネスマッチングサイト",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工業で新規受注を増やすには、どのマッチングサイトに登録すれば良いのか——",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、受注獲得に活用できるマッチングサイト10選を比較表つきで解説します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、マッチングサイト依存から脱却し、",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工業向けマッチングサイトの選び方と比較ポイント",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工業がマッチングサイトを選ぶ際は、「対応加工の種類が自社の得意領域と合っているか」「料金体系がコスト構造に合うか」「図面情報を守るセキュリティ体制が整っているか」の3点を最初に確認することが重要です",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイトによって流通する案件の傾向は大きく異なります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工業向けマッチングサイトの主な料金体系は、月額固定型、成約課金型（手数料型）、完全無料型の3種類に分けられます",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工業の集客に活用できるマッチングサイト10選",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "受注拡大に活用できる金属加工業向けマッチングサイトは、日本最大級の総合型から金属加工に特化したニッチ型まで多岐にわたります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   }
+  ],
+  "取引のやり方・不便": [
+   {
+    "quote": "パルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介・労働者派遣業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "pass": 3
+   },
+   {
+    "quote": "電話：03-3501-1511（内線 2894）",
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他の5種類統計分類は「化学工業統計」、「資源・窯業・建材統計」、「繊維・生活用品統計」「紙・印刷・プラスチック製品・ゴム製品統計」、「鉄鋼・非鉄金属・金属製品統計」となります",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：03-5816-5911 FAX：03-5816-5913",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ製造業で人手不足が起きるのか？データを基に原因と解決策を紹介 ｜現場と人",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ製造業で人手不足が起きるのか？データを基に原因と解決策を紹介",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "紙帳票のデジタル化で毎月の業務時間を約100時間カット",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の「一般職業紹介状況(令和6年11月分)」によると、",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況（令和6年11月分）参考統計表｜厚生労働省",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化の具体的な方法には、紙の帳票やマニュアルのペーパーレス化、IoT機器の導入によるデータの見える化、ロボットの導入による製造工程の自動化などが挙げられます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、比較的短期間での成果が見込めるデジタルツールを導入した企業の成功事例を紹介します",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "では、現場にアナログな業務が根強く残っており、水産加工食品の製造部門では、品質管理におけるほぼすべての業務が紙の帳票で行われていました",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "現場には「管理は紙を使うもの」という固定概念があったため、はじめは導入に苦労しました",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "今後は紙の帳票のデジタル化だけでなく、カミナシに搭載されている集計・報告機能の活用で、さらに現場の業務効率化を進める予定です",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "【調査データつき】外国人労働者とのコミュニケーション問題、原因と解決策を場面別にわかりやすく紹介",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "ミスを無くす具体例も併せて紹介",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（令和6年12月分及び令和6年分）について」",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの製造業の現場では、「先輩の仕事を見て覚える」「長年の経験で体得する」といった属人的なOJT教育が中心を担ってきました",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体の掲載費用、人材紹介会社へのフィー（成功報酬型では年収の30〜35%程度）、内定辞退を見越した多めの採用活動費——これらのコストは製造業、特に体力の限られた中小企業にとって大きな負担となっています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "職人の動作をモーションキャプチャで記録する、作業標準書・手順書を動画で整備する、AIを活用して熟練技術を解析・言語化する——こうした取り組みにより、属人的な技術を組織の知的財産として保存・継承することが可能になります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版ものづくり白書でも、熟練技能者の動作をモーションキャプチャで可視化し、教育訓練に活用することで技能継承を実現した事例が紹介されています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人材定着のためには、OJTを属人的な「見て覚える」方式から、体系化されたトレーニングプログラムへと転換することが重要です",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは「採用」と「定着」という2つのアプローチにおける成功事例を紹介します",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足の原因とは？人手不足の現状や懸念される影響、解決策も紹介 ｜ コラム ｜ ビズネット株式会社 ｜ 大企業・中堅企業向け 調達・購買管理システム",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足の原因とは？人手不足の現状や懸念される影響、解決策も紹介",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、製造業における人手不足の解決策を5つ紹介するので、ぜひご覧ください",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況(令和6年12月分及び令和6年分)について」",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "次に、製造業における人手不足の原因を3つ紹介します",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のコスト削減を実現するには？削減できるコストの種類やコスト削減の流れについて紹介",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、製造業のコスト削減の概要や種類を紹介した上で、削減しやすいコスト・削減が難しいコストを解説します",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、購買管理システムの概要を紹介した上で、購買管理システムの世界的なシェアや種類についても解説します",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、購買管理システムの主な機能や導入するメリット・デメリット、選定時のポイント、導入・運用の流れなども紹介するので、ぜひ最後までご覧ください",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "お役立ち資料 調達・購買担当者なら知っておきたいDX化の価値を紹介",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "購買プロセスにおける内部統制の必要性｜購買業務における不正リスクも紹介",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品（金属加工）業界のM&A動向 昨今の事業買収・売却の事情やM&A事例を紹介｜M&Aキャピタルパートナーズ",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバイザー紹介",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "昨今の事業買収・売却の事情やM&A事例を紹介",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "事例を通して各社の戦略と成果を紹介",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品業界は、熟練職人の技能に支えられた属人的な技術体系が多く、事業承継や技術継承が長年の課題となってきました",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "買い手にとっては、属人的な技術資産の見極めと、ソフトウェアによる平準化余地の有無が大きな判断材料となるでしょう",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "ITツール・アプリ紹介",
+    "url": "https://j-net21.smrj.go.jp/solution/qa/marketanalysis/Q1078.html",
+    "pass": 3
+   },
+   {
+    "quote": "加工先探し・相見積り・技術マッチングを比較",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "調達、相見積り、図面共有、技術探索、販路開拓をオンラインで進める流れ",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "図面をアップロードして相見積りを取りたい場合",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "見積比較・外注先探し",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "製造会社への相談、複数社見積、外注先比較",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "部品加工、試作、量産、外注先探し",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、製造業マッチングに使えるサービスを紹介します",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工の外注先を探したい企業、複数工場から相見積りを取りたい企業、短納期で対応先を探したい企業",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "発注者は相見積り・発注先選定、受注者は",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "調達市場は、発注企業にとっては相見積りや発注先選定のツール、受注企業にとっては新規案件を見つける営業ツールとして使えます",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "図面をもとに発注先を探したい企業、相見積りを取りたい企業、全国の案件に見積りを出したい製造会社",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "図面をもとに製造業の相見積りを取りたい発注企業、自社に合う案件へ見積りを出したい受注企業",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "を紹介します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "を構築するWeb戦略もあわせて紹介します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "オープンイノベーション支援・大手企業への紹介実績",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介型・共同開発",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイト内のフォームまたは電話連絡で連携パートナー希望の旨を伝え、電話相談（ヒアリング）の後に審査と見積もり金額の調整を行い、正式なパートナーとして登録されます",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "ほか、自社の技術や製品を大手企業などに紹介したり、融資先情報の一元管理が行えます",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "型種別生産金額推移表",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "金型生産額推移表",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "貿易統計（主要国別輸出入 月間金額推移）",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、少子高齢化による労働人口の減少や熟練者の退職などで人手不足問題が深刻化しており、残業時間の増加や生産性の低下などの問題を引き起こしています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "労働力の減少による生産性低下が進めば、業績も不安定になり、さらに人手不足を加速させる可能性があります",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の就業者数が20年間で123万人減少",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化による生産年齢人口の減少",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "一方、企業は自社に適した人材を見つけにくくなり、採用数も減少するのが特徴です",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「2024年版ものづくり白書」によると、非製造業の就業者数は2003年から2023年の20年間で554万人増加している一方、製造業の就業者数は123万人減少しています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "直近の2022年から2023年にかけては、製造業の就業者数が11万人増加し、全産業に占める製造業の就業者数の割合も0.1%上昇してます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、20年間にわたり低下傾向で推移していることを踏まえると、今後も数値が減少する可能性は十分にあるといえます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における就業者数を詳しく見ると、若年就業者（34歳以下）数の減少と、高齢就業者（65歳以上）数の増加が同時に進行していることがわかります",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「2024年版ものづくり白書」では、若年就業者数が2003年から2023年の20年間で102万人減少しており、高齢就業者数が30万人増加していることが明らかになりました",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "高齢就業者数は減少傾向を示しており、熟練者の退職による技術伝承の不足が懸念されます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "上記から、製造業では減少傾向にある若年層の人材確保はもちろん、若手のスキルアップに向けた教育体制の整備にも力を入れる必要があるといえます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が発表した令和6年（2024年）の職業別有効求人倍率（原数値、パート除く）を見ると、製造業が該当する「生産工程の職業」は1.67倍前後で推移し、全産業平均の1.25倍を大きく上回っています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の就業者数推移（過去20年で157万人減）",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "就業者数の長期推移もまた、製造業の人手不足の深刻さを物語っています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省・経済産業省・文部科学省が共同発表する「ものづくり白書」によれば、製造業の就業者数は2002年から約20年間で157万人減少しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書の最新データでは、2024年の製造業就業者数は1,046万人と2023年の1,055万人からさらに減少し、減少傾向が継続していることが確認されています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "この就業者数の減少は単なる人口動態の結果ではなく、製造業の人材不足が他産業との人材獲得競争においても劣勢に立たされていることを示しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "若年就業者（34歳以下）の減少と高齢化の深刻化",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足問題の中でも特に深刻なのが、次世代を担う若年層の減少です",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版ものづくり白書のデータによると、2002年に32.6万人いた34歳以下の若年就業者は2023年には25.9万人にまで減少し、製造業の全就業者に占める若年就業者の割合は2002年比で6.9ポイント低下しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で高齢就業者（65歳以上）は2002年の58万人から約90万人へと増加しており、現場の高齢化が急速に進んでいます",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "若年就業者の大幅な減少と高齢就業者の増加という二極化の構図は、近い将来に技術承継が途絶えるリスクを現実のものとしています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な半導体需要の増大や国内製造拠点の復活・新設（TSMC熊本工場など）を背景に、即戦力となる技術者・エンジニアの人材不足が加速しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "就業者数の推移",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "2003年時点では就業者数が1,178万人であったため、20年間で123万人減少していることになります",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "また、全産業に占める割合に関しても、2003年時点は18.7％のため、3.1％減少しています",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、非製造業の就業者数は増加傾向にあります",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "労働人口が減少している",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が人手不足に陥っている原因として、日本の労働人口の減少が挙げられます",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "内閣府の資料によると、生産活動を主に支える「生産年齢人口（15～64歳の人口）」は、1995年の8,716万人をピークに減少しており、2023年には7,395万人となっています",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も生産年齢人口は減少し、高齢化率が上昇する見通しとなっており、製造業の人手不足に拍車がかかるおそれもあります",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が人手不足に陥っている原因として、労働人口の減少や、教育体制の構築・整備の遅れなどが挙げられます",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "交通インフラ、都市再開発プロジェクト、および再生可能エネルギー設備の拡大に向けた投資の増加により、全国で高品質な金属加工部品に対する持続的な需要が生まれています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "これは前年比11％増であり、2020年以来の最高導入台数を記録したもので、業界の着実な自動化の進展を反映しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器製造分野では、コンピューティング機器や通信機器向けの精密板金筐体、熱管理部品、構造フレームに対する需要が引き続き堅調に推移しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本自動車販売業協会連合会および日本軽自動車工業会のデータによると、EVの販売台数は計59,736台で、2023年比32.5％の減少となりました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な半導体サプライチェーンの再編により、国内製造への投資が増加しており、クリーンルーム対応の加工部品、装置フレーム、および特殊な加工治具に対する需要が生まれている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、2022年の出荷額は前年比1.07%増と微増にとどまり、2017年以降の年平均4～5%の増加率と比べても伸び悩みが見られます",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "廃業する会社を買う",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "新設分割とは？",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "新設分割の手続き",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "会社の廃業手続き",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内におけるM&Aの件数は近年増加傾向にあります",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "またユーザー企業からの一括発注の動きもあり、ネットワークの強化による複数工程分野の受注が増加すると思われます",
+    "url": "https://j-net21.smrj.go.jp/solution/qa/marketanalysis/Q1078.html",
+    "pass": 3
+   },
+   {
+    "quote": "図1 金属製品の製品出荷額の推移",
+    "url": "https://j-net21.smrj.go.jp/solution/qa/marketanalysis/Q1078.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国企業「休廃業・解散」動向調査（2025年）｜株式会社 帝国データバンク[TDB]",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "倒産や休廃業に関する情報を集めたい",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "新設企業データ ENTRY",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "設備新設拡充計画データ",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "休廃業予測モデル QP",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "倒産・休廃業",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "全国企業「休廃業・解散」動向調査（2025年）",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の休廃業・解散、6万7949件 過去10年で2番目の多さ",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社帝国データバンクは、2025年に発生した企業の休廃業・解散動向について調査・分析を行った",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に全国で休業・廃業、解散した企業は6万7949件となった",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "年間で最多だった前年（6万9019件）から1.6％減少し、3年ぶりに前年を下回ったものの、過去10年では2024年に次いで2番目に多い水準となった",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   }
+  ],
+  "払う単価の手がかり": [
+   {
+    "quote": "（従業員4人以上の事務所）（単位：所，人，万円）",
+    "url": "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の就業者数が20年間で123万人減少",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「2024年版ものづくり白書」によると、非製造業の就業者数は2003年から2023年の20年間で554万人増加している一方、製造業の就業者数は123万人減少しています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、20年間にわたり低下傾向で推移していることを踏まえると、今後も数値が減少する可能性は十分にあるといえます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「2024年版ものづくり白書」では、若年就業者数が2003年から2023年の20年間で102万人減少しており、高齢就業者数が30万人増加していることが明らかになりました",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "特に現場での活躍が期待される25〜44歳の人口は、10年間で574万人減少しています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化を推進するにあたり、ツールやシステムの導入・運用コストはかかるものの、ムダなコストの削減や品質の安定化による顧客満足度の向上など、長期的に見ると高い費用対効果が期待できます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省・経済産業省・文部科学省が共同発表する「ものづくり白書」によれば、製造業の就業者数は2002年から約20年間で157万人減少しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体の掲載費用、人材紹介会社へのフィー（成功報酬型では年収の30〜35%程度）、内定辞退を見越した多めの採用活動費——これらのコストは製造業、特に体力の限られた中小企業にとって大きな負担となっています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足解消において、職場環境の改善への投資は最も費用対効果の高い施策の一つといえます",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2003年時点では就業者数が1,178万人であったため、20年間で123万人減少していることになります",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "導入にかかる費用は基本無料",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "導入費用は基本無料で、自社のニーズに合わせたさまざまな機能をご活用いただけます",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "購買管理システムの費用相場は?初期費用・月額・内訳を解説",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギーコストもまた重要な投入費用であり、電力や天然ガスの価格は、熱処理、溶接、表面仕上げ作業を含む製造プロセス全体の運営経済性に影響を及ぼしている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "三陽工業は2018年から、後継者不足に悩む中小製造業や派遣会社M&Aに積極的で、太田工業所を含め、4年間で5件のM&Aを行っています",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "ご納得いただくまで費用はいただきません",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aの企業価値算定費用",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "事業譲渡でかかる費用",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "買収にかかる費用",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "株式取得でかかる費用",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "埋没費用（サンクコスト）",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "年間で最多だった前年（6万9019件）から1.6％減少し、3年ぶりに前年を下回ったものの、過去10年では2024年に次いで2番目に多い水準となった",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金別では資本金「100-1000万円未満」の割合が最も高く（44.7％）、コロナ禍前を上回る水準で推移するなど、中小零細企業の「静かな退場」が水面下で進行している",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金が判明した休廃業・解散企業（個人事業主を含む）をみると、2025年は資本金「100-1000万円未満」が最も多く、44.7％を占めた",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金「100万円未満」（8.8％）も年々上昇傾向が続き、2025年は資本金1000万円未満の企業による休廃業・解散が半数を超えた",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "金や銀、プラチナなどの地金が安全資産として取引され、仕入れ価格が短期間で高騰したことに加え、業界をけん引してきた中国人観光客向けの販売が停滞し、売上単価が上がっても数量が伸びず、結果的に利益が残らない状況に直面している",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "また、特にアニメ制作やCM制作では人手不足が深刻で外注依存度が高く、制作単価の低下とコスト増の板挟みに直面しているケースが多いことも、経営体力の乏しい中小映像制作業者の休廃業・解散が増加した要因とみられる",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の休廃業・解散動向は3年ぶりに前年から減少したものの、年間では過去10年で2番目に多い高水準で推移した",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "年間で1万件を超える見通しとなる企業倒産（2025年11月末時点の見込み）を合わせると、年間8万社に迫る企業が市場から退出した計算となる",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "作り方・費用相場・必要機能まで徹底解説",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "加工内容、図面、数量、納期、予算、希望条件を登録する",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイト構築費用の相場や内訳を詳しく知りたい方はこちら",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】マッチングサイトの開発費用はいくら？構築方法・機能別の相場を徹底解説！",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイトを作りたいとき、多くの方が最初に気になるのが「構築費用はいくらかかるのか」という点です",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、マッチングサイト構築におすすめの開発会社、会社選びのポイント、費用相場、必要機能、開発方法の違いまでわかりやすく解説します",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": ": 受注件数にかかわらず費用が一定",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "案件数が多い月ほど費用対効果が高まります（例: 比較biz 月額15,180円、CCNET 月額10,000円）",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": ": 初期費用・月額費用を抑えられますが、受注単価が高い案件では手数料負担が大きくなる場合があります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "固定費・変動費それぞれのリスクを把握した上で、自社の受注単価や月間案件数の見込みと照らし合わせて選定してください",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の比較表と各サービスの詳細解説を参考に、自社の加工領域・予算・営業スタイルに合ったサービスを選定してください",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "比較bizの初期費用は無料、案件を受注したい企業は月額15,180円（税込）がかかります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "成果報酬等は一切かからず、月額費用のみの良心的な料金設定が魅力です",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングサイトへの登録は新規取引先を開拓する有効な手段ですが、プラットフォームに依存し続けると手数料・月額費用の負担が増えるほか、サービス運営側のルール変更の影響を受けやすいという課題もあります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "契約単価が1000万円向上",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "価格競争から脱却し受注単価が2.5倍",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、自社が競合と違ってどんなことが提供できるのか、どんなお客様であれば最大貢献ができるのかを具体化できなければ、広告費や対応する人件費の費用対効果が悪くなるばかりです",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工費の相場はいくら？費用相場の考え方やコスト削減方法も解説 | 加工部品調達、装置製作、計測サービス｜株式会社エージェンシーアシスト",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工費の相場はいくら？費用相場の考え方やコスト削減方法も解説",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "当記事では、「金属加工の基礎（種類・選び方）」をおさらいしたうえで、金属加工費の相場や費用を左右する要素、コスト削減のポイントを説明します",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "・3Dデータや図面などの初期費用を抑える",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "複雑形状や厳しい公差は加工時間が伸びやすく、費用が上がる傾向",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "鍛造や転造は、量産に向いており、初期費用（型など）がかかる代わりに量が増えるほど単価が下がりやすいのが特徴",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作などの初期費用が必要",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "厳しい幾何公差*¹を指定すると、加工そのものだけでなく、検査時間も伸びて費用とリードタイムが上がりやすい点に注意してください",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "加工費は、加工チャージ（時間単価）×加工工数",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、材料費・加工費・特殊加工費の詳細と、各費用が変動する要因について解説します",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "「金属素材のキロ単価×重量＝金属加工における材料費」",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "金属素材1キログラムあたりの単価は素材によって異なり、たとえば鉄鋼のキロ単価は約120円前後、アルミニウムは約500円、ステンレスは約700円程度と言われています",
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "pass": 3
+   },
+   {
+    "quote": "まず、製造直接費を製品別に費用を積み上げて求めます",
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "pass": 3
+   }
+  ],
+  "働き手が減るか（人手不足）": [
+   {
+    "quote": "なぜ製造業で人手不足が起きるのか？データを基に原因と解決策を紹介 ｜現場と人",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ製造業で人手不足が起きるのか？データを基に原因と解決策を紹介",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、少子高齢化による労働人口の減少や熟練者の退職などで人手不足問題が深刻化しており、残業時間の増加や生産性の低下などの問題を引き起こしています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "労働力の減少による生産性低下が進めば、業績も不安定になり、さらに人手不足を加速させる可能性があります",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足の問題を解消するには、従業員にとって働きやすい環境を整えつつ、採用の幅を広げて新たな人材を確保することが重要です",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、製造業における人手不足の実態や原因、解決策、デジタルツールの活用で人手不足の解消に成功した企業の事例を解説します",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "【データ別】製造業における人手不足の実態",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は平均よりも高い傾向",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の就業者数が20年間で123万人減少",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "若者離れと高齢化が同時に進行",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業で人手不足が起きる原因",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化による生産年齢人口の減少",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説 | ウィルオブ採用ジャーナル",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】製造業の人手不足の実態と原因｜工場が取り組むべき解消策を徹底解説",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "最新データからみる製造業の人手不足の現状",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が人手不足に陥る5つの根本原因",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足を解消するアプローチ方法と実際の成功事例",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業は今、深刻な人手不足という構造的な危機に直面しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化の加速、若者の製造業離れ、熟練技術者の大量退職",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が解消されなければ、生産能力の低下、納期遅延、技術継承の断絶、そして最悪の場合は事業縮小・撤退というシナリオも現実のものとなりかねません",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、製造業の人手不足の実態を最新の公的データを基に徹底分析し、その根本原因を整理した上で、工場が今すぐ取り組むべき具体的な解消策を「採用×DX×定着」の3軸で解説します",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足に悩む製造業の経営者・人事担当者の方々に、実践的なヒントを提供することを目的としています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "1 製造業の人手不足の現状",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2 業種別に見る製造業の人手不足の傾向",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足の原因とは？人手不足の現状や懸念される影響、解決策も紹介 ｜ コラム ｜ ビズネット株式会社 ｜ 大企業・中堅企業向け 調達・購買管理システム",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足の原因とは？人手不足の現状や懸念される影響、解決策も紹介",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "近年は、製造業の人手不足が深刻化しているとも言われています",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、製造業における人手不足の現状や原因などを詳しく解説します",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、製造業における人手不足の解決策を5つ紹介するので、ぜひご覧ください",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足の現状",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、製造業における人手不足の現状について、公的なデータも参考にしながら解説していきます",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "就業者数の推移",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の資料によると、2023年の製造業における就業者数は1,055万人で、全産業に占める割合は15.6％となっています",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "2003年時点では就業者数が1,178万人であったため、20年間で123万人減少していることになります",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、非製造業の就業者数は増加傾向にあります",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "2003年には5,138万人だった非製造業の就業者数が、2023年には554万人増の5,692万人となっています",
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "pass": 3
+   },
+   {
+    "quote": "慢性的な労働力不足と労働力の高齢化",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属加工業界は、高齢化と少子化に起因する深刻な労働力不足に直面している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "加工施設における従業員の平均年齢は上昇し続けており、知識の継承や後継者育成への懸念が高まっている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "pass": 3
+   },
+   {
+    "quote": "その一方で、技術者の高齢化や後継者不足、原材料価格の高騰といった、さまざまな課題に直面しているのが現状です",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "三陽工業は2018年から、後継者不足に悩む中小製造業や派遣会社M&Aに積極的で、太田工業所を含め、4年間で5件のM&Aを行っています",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "技術者高齢化と後継者不足、原材料高騰への対応策として、熟練技術や生産設備を一括で承継できるM&Aが有効だからです",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "後継者不足の実態",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "事業承継における後継者選定",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "事業承継における後継者育成",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "後継者のいない会社を買う",
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "pass": 3
+   },
+   {
+    "quote": "人材・人手不足・働き方",
+    "url": "https://j-net21.smrj.go.jp/solution/qa/marketanalysis/Q1078.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2023年以降はこれらの支援策が徐々に縮小されたほか、電気代などエネルギー価格をはじめとした物価高、代表者の高齢化や後継者問題、人手不足など四重・五重の経営課題が押し寄せた",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "「80代以上」の割合、過去最高 休廃業企業の「高齢化」加速",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、70代以上が占める割合は63.7％、60代以上では84.1％を占めるなど、休廃業・解散を決断する経営者の高齢化が加速した",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "体力面からも後継者への事業承継活動が困難となり、休廃業・解散を余儀なくされた可能性がある",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "販売先となる宝飾店など小売でも、ネット販売の普及に加え、メーカー直販体制や、特にリユース市場では消費者からの買取販売が浸透、宝飾店の後継者不在による廃業などから受注が減少しているケースもあり、先行き不安から廃業などで事業を畳んだ宝石卸売業者が多かったとみられる",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "また、特にアニメ制作やCM制作では人手不足が深刻で外注依存度が高く、制作単価の低下とコスト増の板挟みに直面しているケースが多いことも、経営体力の乏しい中小映像制作業者の休廃業・解散が増加した要因とみられる",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "急速に進む物価高や人手不足によるコスト増に加え、設備の老朽化や後継者難といった経営面での課題も背景に、ひっそりと事業を畳む中小零細規模の企業が増加している",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、2026年は、人手不足の解消や後継者の選定といった既存課題に加え、利上げによる借入金の利払い負担増といった局面に直面するなど、経営環境は一層厳しさを増していく",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "業績回復や「筋肉質」な収益基盤への再構築が遅れた企業や、後継者問題や事業改革などビジネスモデルに課題を多く抱えたままの零細企業を中心に、退職金の支払いなど企業体力に余力があるうちに、周囲に悟られることなくひっそり会社をたたむ「静かな退場」が2025年以上に増加する可能性がある",
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "pass": 3
+   },
+   {
+    "quote": "また、中小企業・小規模事業者においても、DXは人手不足への対応や生産性向上、新規事業創出による需要獲得につながる可能性があります",
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "pass": 3
+   },
+   {
+    "quote": "また、金属製品製造業に限らず、近年の中小企業の倒産要因として、「人手不足」や「後継者難」が目立っている",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の比率が高い斯業種においては、技術の継承や後継者が十分に育っているかといった定性分析も重要となろう",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "加工 金属製品市場 成長レポート2031 - Mordor Intelligence — 加工 金属製品市場 成長レポート2031 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/global-fabricated-metal-products-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属 加工業の マッチング サイト10選を徹底比較！受注拡大と ... — 金属 加工業の マッチング サイト10選を徹底比較！受注拡大と ... キャククル https://www.shopowner-support.net > metalprocessing",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "業界レポート 金属製品製造業 ｜佐々木正人 - note 業界レポート 金属製品製造業 ｜佐々木正人 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "業界レポート 金属製品製造業｜佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   },
+   {
+    "quote": "の心臓部であり、格付などの与信指標を生産・保守を行う「データ工場」が集計・分析しており、業界ごとの市場概要や業界動向、与信管理のポイントなどをまとめたレポートです。",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   },
+   {
+    "quote": "特に記事についてのコメント頂けると、今後の記事作成の励みになります。",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   },
+   {
+    "quote": "◉仕事に役立つセミナー情報を発信◉メルマガのご案内",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   },
+   {
+    "quote": "‣ ブリキ缶、その他のめっき板等製品 ‣ 金属素形材製品",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   },
+   {
+    "quote": "‣ 洋食器、刃物、手道具、金物類 ‣ 金属線製品（ねじ類を除く）",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   },
+   {
+    "quote": "‣ 暖房装置、配管工事用附属品 ‣ ボルト、ナット、リベット、小ねじ、木ねじ等",
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "PR TIMESスポーツ on X: \" 金属製品製造業 「株式会社ヤマナカ ... PR TIMESスポーツ on X: \" 金属製品製造業 「株式会社ヤマナカ ... X https://x.com > @PRTIMES_SPORTS",
+    "url": "https://x.com/PRTIMES_SPORTS/status/1915226504235274261",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "特定技能人材募集！ 金属製品製造業 *** 中国人限定 - Facebook 特定技能人材募集！ 金属製品製造業 *** 中国人限定 - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/569253743820290/posts/2455073355238310/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://danbo-ru.ntp-k.co.jp/column/improve/detail54",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/solution/qa/marketanalysis/Q1078.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E5%93%81%E5%B8%82%E5%A0%B4-119166",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20251007-mold25y1-9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkinonline.com/article/329758",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monotown-kadoma.jp/matching-site",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techport.co.jp/archives/40636",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techs-s.com/media/show/331",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usknet.com/jirei/takayama/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casio-human-sys.co.jp/bc-order/column/013.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bcart.jp/post/235",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekai-c.jp/column/3959/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kktisc.co.jp/column/7201/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agency-assist.co.jp/column/13768/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoto-kikai-shoji.com/column/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E8%A6%8B%E7%A9%8D%E4%BE%9D%E9%A0%BC%E3%81%AE%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BD%9C%E8%B2%BB%E7%94%A8%E7%9B%B8%E5%A0%B4%E3%83%BB%E5%86%85%E8%A8%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz-recipe.jp/column/susumu_ueda2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mirror-polish.com/blog/cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kakou-consul.com/faq/mold-cost-control/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PRTIMES_SPORTS/status/1915226504235274261",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/569253743820290/posts/2455073355238310/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属製品製造業 事業所数 従業者数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/16124.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.town.taiwa.miyagi.jp/material/files/group/7/toukei5-8-2-3.pdf",
+    "https://www.pref.saitama.lg.jp/documents/216149/r3kcensus_seizo_gaiyo.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/seizou-3.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_outline_gaiyo.pdf"
+   ]
+  },
+  {
+   "query": "金属製品製造業 人手不足 有効求人倍率",
+   "results": [
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://danbo-ru.ntp-k.co.jp/column/improve/detail54",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://www2.biznet.co.jp/column/1538/",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_html/honbun/102011_1.html",
+    "https://www.jmam.co.jp/hrm/column/0136-manufacturing.html",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.monoscope.jp/data/reports/metal-job-ratio-gap-2026/"
+   ]
+  },
+  {
+   "query": "金属製品製造業 市場規模 推移",
+   "results": [
+    "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "https://www.ma-cp.com/about-ma/industry/metals-plastics/5/",
+    "https://j-net21.smrj.go.jp/solution/qa/marketanalysis/Q1078.html",
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E5%93%81%E5%B8%82%E5%A0%B4-119166",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.mordorintelligence.com/ja/industry-reports/global-fabricated-metal-products-market",
+    "https://mabp.co.jp/magazine/5954/",
+    "https://service.xenobrain.jp/forecastresults/market-size/metal-industrial-parts",
+    "https://just-c.net/column/4703/",
+    "https://the-shashi.com/market/metal-products/"
+   ]
+  },
+  {
+   "query": "金属製品製造業 休廃業 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/industry/20251007-mold25y1-9/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "https://www.nikkinonline.com/article/329758",
+    "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "https://kanagata-shimbun.com/202511_databank/",
+    "https://ecnomikata.com/ecnews/marketing/48265/",
+    "https://kikaikaitori-center.com/2023/11/15/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E4%BC%9A%E7%A4%BE%E3%82%92%E8%B3%87%E6%BA%90%E9%AB%98%E3%81%A8%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E3%81%8C%E7%9B%B4%E6%92%83%E3%80%81%E7%94%9F%E3%81%8D%E6%AE%8B/",
+    "https://www.logi-today.com/898858",
+    "https://www.meti.go.jp/report/whitepaper/mono/2023/pdf/honbun_1_1_5.pdf"
+   ]
+  },
+  {
+   "query": "金属製品製造業 マッチング プラットフォーム",
+   "results": [
+    "https://mallento.com/recommend/manufacturing-matching-services/",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "https://monotown-kadoma.jp/matching-site",
+    "https://techport.co.jp/archives/40636",
+    "https://www.techs-s.com/media/show/331",
+    "https://ts-taisei.co.jp/jigmatch/blog/metal-processing-order-rate/",
+    "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "https://platto.technoa.co.jp/",
+    "https://mitsu-ri.net/",
+    "https://ts-taisei.co.jp/jigmatch/blog/parts_machining_matching_platform/"
+   ]
+  },
+  {
+   "query": "金属製品製造業 受発注 課題 電話 FAX",
+   "results": [
+    "https://www.usknet.com/jirei/takayama/",
+    "https://www.casio-human-sys.co.jp/bc-order/column/013.html",
+    "https://bcart.jp/post/detail/235/",
+    "https://sekai-c.jp/column/3959/",
+    "https://www.kktisc.co.jp/column/7201/",
+    "https://www.ecbeing.net/b2b/contents/detail/22",
+    "https://www.totec-sangyo.jp/blog/fax-order-blackbox4/",
+    "https://digital-salvage.co.jp/column/manufacturing-order-ec-transition/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/240422.html",
+    "https://www.salesdock.jp/blog/manufacturing-ordering-management"
+   ]
+  },
+  {
+   "query": "金属製品製造業 外注 費用 相場",
+   "results": [
+    "https://www.agency-assist.co.jp/column/13768/",
+    "https://kyoto-kikai-shoji.com/column/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E8%A6%8B%E7%A9%8D%E4%BE%9D%E9%A0%BC%E3%81%AE%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BD%9C%E8%B2%BB%E7%94%A8%E7%9B%B8%E5%A0%B4%E3%83%BB%E5%86%85%E8%A8%B3/",
+    "https://biz-recipe.jp/column/susumu_ueda2/",
+    "https://mirror-polish.com/blog/cost/",
+    "https://kakou-consul.com/faq/mold-cost-control/",
+    "https://ilink-corp.co.jp/9552.html",
+    "https://biz.moneyforward.com/accounting/basic/73672/",
+    "https://zenshoren.or.jp/gyoshu/seizou/100510-01/100510.html",
+    "https://news.aperza.jp/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96%E3%80%80%E5%A4%96%E6%B3%A8%E8%B2%BB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B/",
+    "https://kyoto-kikai-shoji.com/column/金属加工見積依頼の完全ガイド｜費用相場・内訳/"
+   ]
+  },
+  {
+   "query": "site:note.com 金属製品製造業",
+   "results": [
+    "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "https://note.com/wikidaruma/n/n7ca20daef453",
+    "https://note.com/proper_lion9370/n/n54baef75f7ca",
+    "https://note.com/happy_happy_work/n/n0fe54a68ef1b",
+    "https://note.com/kanametanote/n/ne1cd025ba9ac",
+    "https://note.com/rm_sasaki/n/n07fca71c2062",
+    "https://note.com/fancy_camel1678/n/n509351d17b90",
+    "https://note.com/niven/n/n2458ba301d3a",
+    "https://note.com/e_p/n/n2cc0761e5cac",
+    "https://note.com/shoubaihanjou/n/nc5de928b55dd"
+   ]
+  },
+  {
+   "query": "site:x.com 金属製品製造業",
+   "results": [
+    "https://x.com/PRTIMES_SPORTS/status/1915226504235274261",
+    "https://x.com/shin_matsu1979/status/2110918666078535837",
+    "https://x.com/w_city_sangyo/status/834553636260700160",
+    "https://x.com/mitsuri_net",
+    "https://x.com/kyowa_me",
+    "https://x.com/koubafes/status/2100033174638039131",
+    "https://x.com/yshin23shindan/status/2107599298255094223",
+    "https://x.com/koubafes/status/2101481468211945616",
+    "https://x.com/koyacoat/status/1913572788688081092",
+    "https://x.com/takahara_inc"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属製品製造業",
+   "results": [
+    "https://jp.linkedin.com/company/aurubis/life",
+    "https://jp.linkedin.com/company/tokkin",
+    "https://jp.linkedin.com/company/constellium?trk=public_profile_experience-item_profile-section-card_image-click",
+    "https://jp.linkedin.com/company/proterial-ltd",
+    "https://jp.linkedin.com/company/senju-metal-industry-co-ltd-",
+    "https://jp.linkedin.com/company/wielandgroup/jobs",
+    "https://jp.linkedin.com/company/whitehall-industries?trk=public_profile_experience-item_profile-section-card_image-click",
+    "https://jp.linkedin.com/company/weber-metals-inc-?trk=public_profile_experience-item_result-card_subtitle-click",
+    "https://jp.linkedin.com/company/voestalpine-roll-forming-corporation/?trk=organization-update_share-update_actor-text",
+    "https://www.linkedin.com/company/metal-technology-corporation-ltd."
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属製品製造業",
+   "results": [
+    "https://www.facebook.com/groups/569253743820290/posts/2455073355238310/",
+    "https://www.facebook.com/groups/1498732524255638/posts/2285559322239617/",
+    "https://www.facebook.com/100022581457004/videos/%E1%9E%96%E1%9E%9B%E1%9E%80%E1%9E%9A%E1%9E%87%E1%9F%86%E1%9E%93%E1%9E%B6%E1%9E%89%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%BB%E1%9E%9F%E1%9F%97-%E5%B7%A5%E6%A5%AD%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E6%A5%AD-%E6%A9%9F%E6%A2%B0%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5-%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5-%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5-%E6%A9%9F%E6%A2%B0%E6%A4%9C%E6%9F%BB-%E5%A1%97%E8%A3%85/2268918173885319/",
+    "https://www.facebook.com/groups/305543700405223/posts/2030337034592539/",
+    "https://www.facebook.com/vietnamtechnicalinterntrainee/posts/2024725%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E5%B7%A5%E6%A5%AD%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A07%E6%9C%8819%E6%97%A5%E4%BB%98%E3%81%A7%E3%83%91%E3%83%96%E3%82%B3%E3%83%A1%E3%81%8C%E5%87%BA%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E7%B4%A0%E5%BD%A2%E6%9D%90%E7%94%A3%E6%A5%AD%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E9%9B%BB%E5%AD%90%E6%83%85%E5%A0%B1%E9%96%A2%E9%80%A3%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%88%86%E9%87%8E%E5%B7%A5%E6%A5%AD%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%88%86%E9%87%8E%E3%81%B8%E6%A5%AD%E5%8B%99%E5%8C%BA%E5%88%86%E8%BF%BD%E5%8A%A0%E7%B4%99%E5%99%A8%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB%E7%AE%B1%E8%A3%BD%E9%80%A0%E3%82%B3/1011798340953457/",
+    "https://www.facebook.com/GBNIINDONESIA/posts/%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E6%B1%82%E4%BA%BA1045_%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD_%E5%B7%A5%E6%A5%AD%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E7%94%B7%E6%80%A7%E5%8B%9F%E9%9B%86%E4%B8%AD%E4%BB%95%E4%BA%8B%E3%81%97%E3%81%94%E3%81%A8%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8A%E6%A7%98%E3%80%85%E3%81%AA%E5%8A%A0%E5%B7%A5%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%99%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97/1143930414808866/",
+    "https://www.facebook.com/shin.matsumoto.ama/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%8A%E3%83%9F%E3%83%86%E3%83%83%E3%82%AF%E3%81%AF%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E5%93%81%E3%82%92%E4%BD%9C%E3%82%8B%E5%B0%BC%E5%B4%8E%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A7%E3%81%99%E5%A4%9A%E5%93%81%E7%A8%AE%E5%B0%91%E9%87%8F%E7%94%9F%E7%94%A3%E3%81%AA%E3%81%AE%E3%81%A7%E6%8A%80%E8%A1%93%E5%8A%9B%E3%81%A8%E6%AE%B5%E5%8F%96%E3%82%8A%E3%81%8C%E9%87%8D%E8%A6%81%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E5%B0%BC%E5%B4%8E%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E9%81%94%E4%BA%BA%E8%A1%A8%E5%BD%B0%E3%82%84%E6%9C%AA%E6%9D%A5%E3%81%AE%E5%8C%A0%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A%E3%81%AA%E3%81%A9%E3%81%AB%E3%82%82%E7%A9%8D%E6%A5%B5/2208050810067471/",
+    "https://www.facebook.com/OkayamawineFes/posts/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%8A%E3%81%8B%E3%82%84%E3%81%BE%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B1%95otex2026-%E7%B2%BE%E9%8B%AD%E4%BC%81%E6%A5%AD%E3%81%A8%E5%87%BA%E4%BC%9A%E3%81%86%E6%8A%80%E8%A1%93%E5%B1%95%E7%A4%BA%E5%95%86%E8%AB%87%E4%BC%9A%E6%97%A5%E6%99%822026%E5%B9%B411%E6%9C%8811%E6%97%A5%E6%B0%B412%E6%97%A5%E6%9C%A8-10%E6%99%8217%E6%99%82-%E6%9C%80%E7%B5%82%E6%97%A5%E3%81%AF-16%E6%99%8230%E5%88%86-/1940432317294631/",
+    "https://www.facebook.com/groups/497543336106885/posts/1143493151511897/",
+    "https://www.facebook.com/kunokinzoku/"
+   ]
+  },
+  {
+   "query": "金属製品製造業 note 社長",
+   "results": [
+    "https://note.com/sugimoto_seiki/n/n0b5213ee0120",
+    "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "https://note.com/minetaki9/n/nc800b67253a1",
+    "https://www.tamakiss.co.jp/%E3%80%90%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%91%E5%85%AC%E5%BC%8Fnote%E3%82%92%E9%96%8B%E8%A8%AD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "https://fmniigata-works.com/company/481/",
+    "https://shachomeikan.jp/industry_article/2860",
+    "https://note.com/kitatoku_/n/n7c2b328dbd71",
+    "https://smepprd-kansai-meti-gov.note.jp/n/n782820b55bb2",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/sanyo_industry"
+   ]
+  },
+  {
+   "query": "金属製品製造業 X 投稿",
+   "results": [
+    "https://journal.meti.go.jp/60sec/40462/",
+    "https://takumi-senpai.com/blog/cutting-industry-x-usage/",
+    "https://ims.evidentscientific.com/ja/insights/mill-test-reports-in-metal-manufacturing-a-comprehensive-guide",
+    "https://tofu.misosil.com/influencers/Non-ferrous-metal-manufacturing-industry/mixi2/",
+    "https://www.youtube.com/watch?v=Kdztr1egCaU",
+    "https://markforged.com/jp/3d-printers/metal-x",
+    "https://x.com/monozukuritarou",
+    "https://industrial-x.jp/manufacturing/",
+    "https://www.hypertherm.com/Download?fileId=HYP230738&zip=False",
+    "https://x.com/seizou_daily"
+   ]
+  },
+  {
+   "query": "fabricated metal products manufacturing Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/fabricatedmetalproducts",
+    "https://www.linkedin.com/pulse/sustainability-trends-fabricated-metal-product-manufacturing-fcvbc",
+    "https://www.linkedin.com/company/jones-metal-inc",
+    "https://www.linkedin.com/company/fabricated-metals",
+    "https://www.linkedin.com/company/creative-metal-products",
+    "https://www.linkedin.com/company/midland-metal-products",
+    "https://www.linkedin.com/company/chicagometal",
+    "https://www.linkedin.com/company/superior-metal-products-co-inc",
+    "https://www.linkedin.com/company/northern-manufacturing",
+    "https://www.linkedin.com/company/jensen-metal-products-inc"
+   ]
+  }
+ ],
+ "missing": {}
+}

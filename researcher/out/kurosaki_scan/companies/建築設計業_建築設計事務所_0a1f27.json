@@ -1,0 +1,1748 @@
+{
+ "name": "建築設計業（建築設計事務所）",
+ "en": "architectural design offices Japan",
+ "aliases": [
+  "建築設計事務所",
+  "一級建築士事務所",
+  "建築設計業"
+ ],
+ "context": "建築事務所",
+ "kind": "market",
+ "researched_at": "2026-11-04T13:00:03.544120+00:00",
+ "evidence": {
+  "事業所数・従業者数（経済センサス等）": [
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業別集計 サービス関連産業Ｂに関する集計5 サービス関連産業Ｂ（細分類），経営組織（３区分）別民営事業所数，従業者数及び売上（収入）金額―全国 | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成28年経済センサス‐活動調査 事業所に関する集計 産業別集計 サービス関連産業Ｂに関する集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "pass": 3
+   },
+   {
+    "quote": "サービス関連産業Ｂ（細分類），経営組織（３区分）別民営事業所数，従業者数及び売上（収入）金額―全国",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "pass": 3
+   },
+   {
+    "quote": "日本の建築設計事務所業界の事業者数は非常に多く、国土交通省の登録データでは建築士事務所は全国で9万事業所を超える",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   }
+  ],
+  "需要が増えるか": [
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等の都道府県別順位",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "pass": 3
+   },
+   {
+    "quote": "設計技術者（意匠・構造・設備）の採用ニーズ増加とヘッドハンティング",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "公共事業や民間開発の活発化によりプロジェクト数は増加していますが、それに比例して設計業務を担う人材が確保できているとは言えません",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、長時間労働が常態化したり、受注案件を制限せざるを得ない状況に追い込まれる企業も少なくありません",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "ある中堅規模の建築設計事務所では、公共建築案件の受注が増加する一方で、設計者不足が深刻化していました",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告や人材紹介サービスを利用しても十分な応募が集まらず、事業拡大の足かせとなっていたため、ヘッドハンティングの導入を決断しました",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "施工管理や設計、積算といった専門職を中心に、経験豊富なフリーランスが即戦力として現場を支えるケースが増加しています",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、データをもとに建設業界におけるフリーランス増加の実態と、その背景、活用事例、注意点について解説します",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "トップ設計事務所の売上高や所員数は増加、設計・監理以外に事業拡大も | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ設計事務所の売上高や所員数は増加、設計・監理以外に事業拡大も",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "pass": 3
+   },
+   {
+    "quote": "ランキングで見る建設会社の稼ぎ頭、用途別の建築売上高・受注高トップ10",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "pass": 3
+   },
+   {
+    "quote": "レノボとニデックが水冷サーバー販売で連携、狙うは企業内AIサーバー需要",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤンマー建機、図面検索の「品番か品名しばり」を解消し情報利用を拡大",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "pass": 3
+   },
+   {
+    "quote": "韓国勢のチェコ原発受注に亀裂…工事費とリスク負担で施工交渉決裂",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、「集合住宅」「事務所」「医療福祉」「生産系」など6つの建物用途別上位10社に加え、前期比で2桁成長を遂げた注目事務所の急伸要因も詳しく解説します",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "■前期比伸び率順ランキング（1位～5位）",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "■前期比伸び率順ランキング上位事務所が業績を伸ばした要因",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "また、設計・監理収入が100億円を超えた設計事務所は、前年の7社から今期は9社に増加しました",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "伸び率の高い上位5社は、次のとおりです",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "前期比伸び率の上位5社について、業績が伸びた要因を独自に解説します",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "1.JFE設計：グループ案件と外部需要が堅調",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "2025年決算で設計・監理収入が伸びた主な要因は、設計・監理部門の大幅な増員（前年比11.8％増）と、JFEスチールグループをはじめとする産業インフラ（工場・プラント設備）分野の堅調な需要です",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の国内回帰や、生産設備の維持・更新、耐震診断・改修設計、カーボンニュートラル（GX）に向けた設備投資などの需要を取り込み、近年は総収入の約5割をグループ外からの受注案件が占めていることも、成長を支えています",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "大阪・関西万博ではハンガリーパビリオンの設計・監理を手掛けるなど、民間施設の需要も着実に取り込んだことが業績拡大につながりました",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "3.プランテック：リニューアル分野が急成長",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "2025年決算で設計・監理収入が大幅に伸びた最大の要因は、リニューアル業務（改修・改築分野）の急成長です",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "建築設計事務所業界の戦略的M&A「経営規模拡大が必須」",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "M&A巧者成長戦略",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画成長可能性",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の新築需要が伸び悩む中で、成長を続ける設計事務所の共通項は「組織力」にある",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の建築設計事務所業界は、建築市場全体（約46兆円）のうちの数％を占め、市場規模は数千億〜1兆円程度と推定される",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "成長の要は、非住宅分野（再開発、医療福祉、教育、物流など）での案件ポートフォリオの厚みである",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化で都市の縮退やコンパクトシティ化が課題となる中、住民合意形成、社会受容性、事業スキーム設計（PPP/PFI）など、都市計画の専門家によるプランニング需要はむしろ増加傾向にある",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "住宅や小規模建築を中心に地域密着で活動するも、限られた人員体制ゆえに人材確保や受注の安定化に課題を抱えやすい",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "今後の成長ドライバー",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "他方で、維持修繕・改修市場は建築ストックの老朽化を背景に拡大が続く",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "：首都圏および地方中核都市においては、再開発、公共施設の更新需要は厚く、PM/CM、事業協議、ステークホルダーマネジメントまで統合的に対応できる組織力を有する建築設計事務所が機会を取り込みやすい",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "組織力を強化することで、標準化、脱炭素とDXを核に、改修・再生と再開発の厚い需要を取り込むと共に、単発受託からリカーリングへと収益モデルを転換することが肝要である",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "① 新規の受注を取り止め、既存の契約関係を順次終了させる（顧客や取引先との契約、従業員との雇用契約、事務所の賃貸借契約、リース契約など）",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "建築の規模は設計料に大きな影響を与えますが、単純に規模に比例して増加するわけではありません",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "形状の難易度：全体を曲線で構成し、直線的な建築に比べ設計検討量が増加",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "通常の建築に比べ、形状検討・詳細図作成の工数が増加",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模な事務所の方が、早く担当を持ち、より成長できるのではないか",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   },
+   {
+    "quote": "会社を選ぶときに、「自分が成長できる環境かどうか」",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   },
+   {
+    "quote": "これは確かに成長のチャンスではありますが、",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   },
+   {
+    "quote": "わからないことを丁寧に教えてくれるか、困ったときにフォローしてくれるか、成長を見守る姿勢があるか",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   },
+   {
+    "quote": "相談しやすい先輩や、成長を支えてくれる代表がいる環境",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   }
+  ],
+  "大手プラットフォームの有無": [
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "pass": 3
+   },
+   {
+    "quote": "4011ポータルサイト・サーバ運営業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "pass": 3
+   },
+   {
+    "quote": "大手不動産デベロッパーや建設会社等のクライアントを担当するヘッドハンターとして、技術職・専門職のヘッドハンティング業務に従事",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、求人サイトや転職エージェントを通じた「待ち」の採用では、こうした優秀層にアプローチすることができません",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "このような状況では、知名度や待遇面で優位に立つ大手企業であっても採用に苦戦しがちです",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "ヘッドハンターはこうした本音を丁寧に引き出し、企業と候補者双方にとって納得感のあるマッチングを実現します",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、準大手設計事務所で15年の実務経験を持つ、30代後半の一級建築士との面談が実現しました",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "Facebookでシェア",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedInでシェア",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェア",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAの直流800V給電構想 参画企業2倍、電力インフラ大手も加勢",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "pass": 3
+   },
+   {
+    "quote": "設計事務所の直近の決算報告では、大手・中堅事務所を中心に、多くの企業が増収増益を達成し、業界全体の活況が続いています",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツ施設の設計で業界トップシェアを誇る梓設計では、大型案件が順調に進んだことが業績に寄与しました",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "大手設計事務所は、こうした将来予測に備え、人材採用・育成への投資を強化しています",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "船井総合研究所などのシンクタンクは、DX（BIM・AI対応）や人材確保に積極投資できる大手・中堅組織設計事務所と、価格競争や人手不足に直面する小規模事務所の二極化が進むと指摘しています",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "大手の設計事務所はどこか",
+    "url": "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "pass": 3
+   },
+   {
+    "quote": "1位の日建設計は、役員・職員数2,831名（2026年4月1日現在）を擁する大手設計事務所である",
+    "url": "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "pass": 3
+   },
+   {
+    "quote": "一方、売上規模100億円超の大手は7社に限られる（2023年の日経アーキテクチュア調査）",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "環境分野の専門チームを備える動きは、大手建築設計事務所のみならず中堅建築設計事務所にも波及しつつある",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "協力事務所・設計パートナーが見つかる新しい建築プラットフォーム｜アーキタッグ",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "見つかるプラットフォーム",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・大手企業の",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクト型は、設計料全体の 20〜50% をパートナーにシェアすることが多い",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 同じ相手と 2 回目以降の契約・受発注をしたい時の決まりはありますか？",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "大手の会社であれば、丁寧な説明会があり、就職口コミサイトやOBOGの話から企業情報や待遇面の情報も集めやすいですが、小規模な事務所にはそもそも公に出ている情報がほとんどありません",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   }
+  ],
+  "取引のやり方・不便": [
+   {
+    "quote": "7992結婚相談業，結婚式場紹介業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "pass": 3
+   },
+   {
+    "quote": "91職業紹介・労働者派遣業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "pass": 3
+   },
+   {
+    "quote": "911職業紹介業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "pass": 3
+   },
+   {
+    "quote": "9111職業紹介業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、こうした設計技術者を求人広告や人材紹介会社経由で採用しようとしても、なかなか成果につながらないケースが多く見られます",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "ここで、設計技術者のヘッドハンティングに成功した具体的な事例をご紹介します",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告や人材紹介サービスを利用しても十分な応募が集まらず、事業拡大の足かせとなっていたため、ヘッドハンティングの導入を決断しました",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "サーチ型ヘッドハンティングと通常の人材紹介の違い【現役ヘッドハンターが解説】",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、現役ヘッドハンターの視点から、サーチ型ヘッドハンティングと通常の人材紹介の違いについて解説します",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "学生団体紹介",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、最新の調査データをもとに、「設計・監理収入（本業売上）上位30社」のランキングを紹介します",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "設計事務所の経営動向を把握するもう1つの方法は、業界紙の購読です",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "業界紙の紙面やWeb記事には、各事務所の売上高や最新プロジェクト情報が随時掲載されます",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、業界紙を発行する新聞社では、1年間のデータを体系的にまとめた定期刊行物（年鑑などの書籍）も発行しています",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "実売は同年10月7日頃）に掲載された「設計事務所の設計・監理収入」をもとに、ランキング形式で紹介します",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、2025年1月から12月までの決算実績をもとに、建築設計・監理収入の上位30社をランキング形式で紹介します",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、設計事務所の設計・監理収入ランキングを紹介しました",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "建築系業界紙",
+    "url": "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "pass": 3
+   },
+   {
+    "quote": "「紹介していただいた依頼者の方も",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【 2 分で紹介 】",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介されます",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "が紹介されて、",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "案件を紹介する際に、経歴・資格・スキルなどが条件として見られることはありますが、アーキタッグへの登録の条件ではありません",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "」の依頼をいただいた方には、その条件を満たすパートナー候補に事前に運営スタッフが確認した上で、社名も含めた具体的な情報をご紹介しています",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 依頼を申し込んでからパートナーの候補者が紹介されるまで、どのくらいの時間がかかりますか？",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "1〜2 週間でパートナー候補者をご紹介",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "にパートナーをご紹介できる事例もあります",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "運営スタッフが、パートナー候補の方にまずおすすめの案件を個別に・非公開で・メールでご紹介します",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー候補が「やりたい」と答えた案件のみ、その後の依頼者へのプロフィール紹介とオンライン面談に進みます",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ご紹介した日から",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "記事の後半では、建築設計事務所アーネストアーキテクツが手掛けた設計事例もご紹介",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、設計事務所へ依頼する際にかかる主な費用の内容や役割を分かりやすくご紹介します",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、注文住宅における代表的な算出方法をご紹介します",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、テイスト別にアーネストアーキテクツが手掛けた、事例をご紹介します",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "工事費を基準とした場合、設計監理料の目安として工事費の10％前後から15％程度と紹介されることがあります",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "意匠設計における基本設計の費用は、建築規模や用途、求められる設計水準によって幅がありますが、商業建築を想定した場合、概算の目安として延床面積1平方メートルあたり2,000円〜5,000円程度と紹介されることがあります",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "事例紹介：CLOUD OF LUSTER CHAPEL（エル・ブランシュ 雲のチャペル）",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "建築設計会社の選び方については、こちらの記事でも詳しく紹介しています",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "お電話は東京オフィスへ",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "普段の業務を紹介！",
+    "url": "https://note.com/archi_realestate/n/n94b5d31620a0",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "建築・土木・測量といった分野では、有効求人倍率が他業界と比べて極めて高い水準で推移しており、慢性的な人手不足状態にあります",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "また、建設技術者数は長期的に減少傾向にある一方で、建設投資額は大きく落ち込んでおらず、業務量と人材数のバランスが大きく崩れています",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "設計技術者（意匠・構造・設備）の採用ニーズ増加とヘッドハンティング",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "公共事業や民間開発の活発化によりプロジェクト数は増加していますが、それに比例して設計業務を担う人材が確保できているとは言えません",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "特に、設計人材を含む、建設技術者の減少は著しく、2001年には約432万人の建設技術者が従事していましたが、2020年時点では約321万人まで減少しています",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、建設投資額は変わらないが、建設技術者は100万人以上減少している状況です",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "ある中堅規模の建築設計事務所では、公共建築案件の受注が増加する一方で、設計者不足が深刻化していました",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "施工管理や設計、積算といった専門職を中心に、経験豊富なフリーランスが即戦力として現場を支えるケースが増加しています",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、データをもとに建設業界におけるフリーランス増加の実態と、その背景、活用事例、注意点について解説します",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "トップ設計事務所の売上高や所員数は増加、設計・監理以外に事業拡大も | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ設計事務所の売上高や所員数は増加、設計・監理以外に事業拡大も",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "pass": 3
+   },
+   {
+    "quote": "今回のランキング表には昨年順位も併記しているため、前年からの推移を確認する際にご活用ください",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "また、設計・監理収入が100億円を超えた設計事務所は、前年の7社から今期は9社に増加しました",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "2025年決算で設計・監理収入が伸びた主な要因は、設計・監理部門の大幅な増員（前年比11.8％増）と、JFEスチールグループをはじめとする産業インフラ（工場・プラント設備）分野の堅調な需要です",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "日経アーキテクチュアの独自アンケートでは、2026年度の設計・監理業務収入について、増加を見込む企業が46％、横ばいが48％、減少が6％となり、全体として堅調な見方が優勢です",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "既存建物の増加に伴うリニューアル・改修業務（約25％増）も、市場全体を牽引しています",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "一方、中長期的には人口減少による需要減を背景に、「10年後には建築設計需要が減少する」と予測されています",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "設計・監理業務の総合ランキングTOP50に加え、住宅部門のTOP10と過去の推移を整理した",
+    "url": "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "pass": 3
+   },
+   {
+    "quote": "売上高の推移",
+    "url": "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "pass": 3
+   },
+   {
+    "quote": "設計事務所の設計・監理業務に係る売上高の上位15社（2025年度）の推移を可視化したのが次図",
+    "url": "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "pass": 3
+   },
+   {
+    "quote": "NTTファシリティーズの売上高の減少が目立つ",
+    "url": "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化で都市の縮退やコンパクトシティ化が課題となる中、住民合意形成、社会受容性、事業スキーム設計（PPP/PFI）など、都市計画の専門家によるプランニング需要はむしろ増加傾向にある",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "住宅新設の逓減と改修・再生の台頭",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "：人口減に伴い新設住宅市場の先細りは避けがたく、近年の着工は80万戸前後で推移するなか、中長期では50万戸台への縮小が見込まれる",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "建築士事務所の廃業手続きについて",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "廃業とは、その理由や原因を問わず、事業者がその事業を廃止することをいう",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "廃業の理由はさまざまで、債務超過や資金繰りの悪化により法的整理を余儀なくされることもあれば、資産超過であるにもかかわらず経営者が自主的に事業を廃止する場合もある",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチの2021年1月の発表資料によると、わが国における2020年の休廃業・解散企業の件数は2000年以降の集計では最多の49,698件であった*1",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "一級建築士事務所の数も近年減少を続けている",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "廃業の手続き",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "廃業の手法は、廃業時の資産状況や法人格の有無によっていくつかの選択肢に分かれる",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "（1）個人経営で資産超過の場合（自主廃業）",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "個人経営の事務所で資産超過の場合、廃業のために行うべきことは、概ね次の通りである",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 廃業時までの確定申告を行う",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "⑥ 廃業届（建築士法第23条の7）を提出する",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "上記の廃業のための事務処理は、経営者（建築士事務所の開設者）が自ら行うことが予定されている",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "建築の規模は設計料に大きな影響を与えますが、単純に規模に比例して増加するわけではありません",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、大規模建築では同じ設計内容を繰り返すフロアが多くなるため、面積あたりの設計労力が相対的に減少するためです",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "形状の難易度：全体を曲線で構成し、直線的な建築に比べ設計検討量が増加",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "通常の建築に比べ、形状検討・詳細図作成の工数が増加",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "オフィスレイアウトの失敗例とは？後悔しないための注意点と解決策 オフィスのレイアウト変更や新設は、働き方そのものを左右する大きな投資です",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   }
+  ],
+  "働き手が減るか（人手不足）": [
+   {
+    "quote": "建築・内装施工における施工管理や不動産デベロッパーにおける用地仕入れ営業職など、採用難易度が非常に高いポジションのヘッドハンティングを得意としている",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化の影響により、日本の労働市場では人材不足が深刻化していますが、建設業界における設計人材の不足は特に顕著です",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "「案件はあるが設計者が足りない」「主力設計者の高齢化が進んでいる」といった課題を抱える企業は少なくありません",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "日本の労働市場は少子高齢化の影響により、あらゆる業界で人材不足が深刻化しています",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "その中でも、建設業界の人手不足は特に顕著です",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "現場では「現場監督や施工管理技術者が足りない」「社員の高齢化が進んでいる」といった声が多く聞かれ、人材獲得競争は年々激しさを増しています",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "建築・土木・測量といった分野では、有効求人倍率が他業界と比べて極めて高い水準で推移しており、慢性的な人手不足状態にあります",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "実際、多くの建築設計事務所が慢性的な人材不足を感じており、特に設備設計分野では人手不足が深刻です",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界における構造的な人手不足",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークにおける建築・土木・測量技術者（常用・除くパート）の有効求人倍率は7倍（2024年3月時点）を記録しており、他業界（平均0.96倍）と比べても、極めて有効求人倍率が高い状態であるといえます",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "採用難に直面している企業の採用担当者や経営者の方は、ぜひ一度、建設業界特化型のヘッドハンティング活用を検討してみてはいかがでしょうか",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界で存在感を増すフリーランス―人手不足は外部人材で補うべき",
+    "url": "https://legacy-jp.com/posts/551",
+    "pass": 3
+   },
+   {
+    "quote": "船井総合研究所などのシンクタンクは、DX（BIM・AI対応）や人材確保に積極投資できる大手・中堅組織設計事務所と、価格競争や人手不足に直面する小規模事務所の二極化が進むと指摘しています",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化で都市の縮退やコンパクトシティ化が課題となる中、住民合意形成、社会受容性、事業スキーム設計（PPP/PFI）など、都市計画の専門家によるプランニング需要はむしろ増加傾向にある",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "：一級建築士の高齢化が進むなか、事業承継、M&A、アライアンスの巧拙が、中長期の競争力を左右する",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   }
+  ],
+  "払う単価の手がかり": [
+   {
+    "quote": "【優勝50万円】教科書を超えた実戦へ",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "創業104年/プライム市場上場のKAWADAグループ/年間休日125日/有給休暇20日/福利厚生・研修制度充実/",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "日本ハウズインググループ企業✨完全週休2日制・初任給27万円～ / 支え合う職場で、未経験からプロへ",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "■設計事務所 設計・監理収入ランキング上位30社（単位：百万円）",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、業界紙を発行する新聞社では、1年間のデータを体系的にまとめた定期刊行物（年鑑などの書籍）も発行しています",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "・1位 JFE設計：26億1,200万円（前期比26.6％増）",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "・2位 綜企画設計：74億8,600万円（前期比20.0％増）",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "・3位 プランテック：52億6,300万円（前期比18.7％増）",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "・4位 内藤建築事務所：60億8,100万円（前期比18.6％増）",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "・5位 梓設計：177億9,500万円（前期比18.3％増）",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "文教施設（教育・研究施設）や官公庁案件の設計・監理を得意とし、近年の決算では、2023年9月期の50億4,000万円から、2024年9月期は64億400万円、2025年9月期は76億6,800万円へと、3期連続で大幅な増収を達成しています",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "事務所ビルの上位5社は前年と同じ顔ぶれですが、三菱地所設計（1位、195億3,700万円）と日建設計（2位、148億5,100万円）の順位が入れ替わりました",
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "pass": 3
+   },
+   {
+    "quote": "（ ）内数値は、売上高（百万円）",
+    "url": "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の住宅部門では、日建設計が4,530百万円で1位となった",
+    "url": "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度から2024年度まで首位を維持していた日企設計は4,186百万円で2位に後退した",
+    "url": "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の上位20社を見ると、4社（日建設計、日本設計、NTTファシリティーズ、三菱地所設計）が上位定位置にあることが確認できる（次表）",
+    "url": "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "pass": 3
+   },
+   {
+    "quote": "住宅部門の売上高に着目した過去6年間の上位10社を次表に示す",
+    "url": "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "pass": 3
+   },
+   {
+    "quote": "建物本体や設備に莫大な費用がかかる中で、設計のみでこれだけの市場が形成されている点は、注目に値する",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "：算定費用は一切かかりません",
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "pass": 3
+   },
+   {
+    "quote": "令和9年度東京都への予算等に対する要望を提出",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "これらの専門家の費用や裁判所に納付する予納金には100万円を超える費用がかかることもある（負債の額や債権者数、拠点の数など事案による）",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "この場合、日本商工会議所と全国銀行協会連合会（全銀協）が定めた「経営者保証ガイドライン」を利用することで、破産したときに保有できる財産（現預金99万円までといった制限がある）よりも多くの資産を保有しながら、経営者の弁済能力を超える債務について免除を受けられる可能性がある",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "建築士事務所の開設者には帳簿の備付け及び保存義務（各事業年度の末日の帳簿閉鎖から15年間）と、図書の保存義務（図書の作成日から15年間）が課せられている",
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "pass": 3
+   },
+   {
+    "quote": "依頼者が「この金額で依頼したい」という予算をまず設定し",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "、予算に合うパートナーを運営スタッフがお探しするパターンと、",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "：300~500 万円の小規模案件（プロダクト・リノベなど）から、3,000 万円〜 3 億円の新築戸建て住宅、50~100 億円以上の案件（商業施設・公共施設・再開発など）まで幅広い",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "スポット型は、業務内容に応じて 5 万円 〜 1 億円以上の業務など大小さまざま",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省 設計業務委託等技術者単価",
+    "url": "https://architag.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "設計事務所の費用とは？ 設計料の算出方法と理想の家を実現する選び方のポイント｜はじめての注文住宅｜高級住宅コラム｜高級注文住宅専門の建築設計事務所アーネストアーキテクツ",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "設計事務所の費用とは？ 設計料の算出方法と理想の家を実現する選び方のポイント",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "「設計事務所に依頼をした場合、どの程度の費用がかかるのか」",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "設計事務所に支払う費用には、建物のデザインや構造を考えるための設計料だけでなく、建築工事を適切に進めるための監理費用なども含まれます",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、設計事務所に依頼する際の費用の相場や内訳、算出方法、注意点などを分かりやすく解説します",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "設計事務所の費用感を理解し、理想の住まいづくりを進めるための参考にしていただけます",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "設計事務所へ依頼する際にかかる費用とは？",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "注文住宅における設計料の算出方法・費用の目安",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "設計事務所とハウスメーカーの費用の違いとメリット・デメリット",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "住宅の設計を設計事務所へ依頼する場合に発生する費用は、一般的に",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "設計事務所によって費用体系は異なりますが、いずれも建築計画を立案し、工事の品質を確保するために必要な専門的な業務に対する対価です",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、設計事務所へ依頼する際にかかる主な費用の内容や役割を分かりやすくご紹介します",
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "pass": 3
+   },
+   {
+    "quote": "予算はどのくらい必要？",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "費用と進め方をまとめて知りたい方へ：店舗・クリニックの費用ガイド（総合）",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "設計料は建築費用全体の中でも見えにくい部分であり、相場を把握しないまま進めてしまうと、予算オーバーや期待した品質が得られないといったリスクを抱えることになります",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "松本は現場監督としてキャリアをスタートし、工事費の積算や現場経費の管理を経験してきたことで、費用の仕組みに精通しています",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "この場合、業務に関わるスタッフの役割や経験値によって想定される単価が異なることもあり、プロジェクト全体の難易度や求められる専門性が設計料に反映されます",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "設計監理費用の内訳と各工程の役割",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "基本設計の費用は設計監理費用全体の約20%〜30%を占めるのが一般的です",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "実施設計の費用は設計監理費用全体の約40%〜50%を占め、特に労力がかかる工程となります",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "設計監理業務の工程別費用配分目安",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "工事監理の費用は設計監理費用全体の約30%〜40%を占めます",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "建築設計の費用を正確に把握するには、各専門分野の業務内容とその相場を理解することが重要です",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に「設計料」と一括りにされがちですが、実際には意匠設計、構造設計、設備設計など複数の専門家が関わり、それぞれに費用が発生します",
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "建築設計事務所 に就職したい方に伝えたい！「良い会社の探し ... 建築設計事務所 に就職したい方に伝えたい！「良い会社の探し ... note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   },
+   {
+    "quote": "建築設計事務所 だけど 何してる？ - note 建築設計事務所 だけど 何してる？ - note note https://note.com > デザイン > デザイン全般",
+    "url": "https://note.com/archi_realestate/n/n94b5d31620a0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "建築設計事務所に就職したい方に伝えたい！「良い会社の探し方」｜architect.pt｜建築家",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   },
+   {
+    "quote": "建築設計事務所に就職したい方に伝えたい！「良い会社の探し方」",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   },
+   {
+    "quote": "これから建築設計事務所に就職したいと考えている方、あるいは就職活動を始めようとしている方に向けて、私自身の実体験をもとに「良い会社の見つけ方」についてお話ししたいと思います。",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   },
+   {
+    "quote": "私は、建築系の国公立大学と大学院を卒業し、新卒で東京都内の建築設計事務所に就職しました。その後、約4-5年勤務した後、地元に戻って独立して現在は、大学時代に出会った妻とともに、夫婦で小さな建築設計事務所を営んでいます。",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   },
+   {
+    "quote": "新卒で就職活動をしていた当時は、「自分に合った会社」を見つけるのにとても苦労しました。ただ、今振り返ってみると私が入社した事務所は「本当に良い会社だった」と感じています。",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   },
+   {
+    "quote": "1つは、多くの貴重な実務経験を積ませてもらえたこと。",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   },
+   {
+    "quote": "そしてもう1つは、独立後も関係が続き、現在でも仕事をいただけていることです。",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、そんな現在の私が思う「良い会社の探し方」をお伝えしたいと思います。もし良ければ最後まで読んで下さい。",
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "pass": 3
+   },
+   {
+    "quote": "建築設計事務所だけど 何してる？｜一級建築事務所が不動産屋も目指す奮闘記",
+    "url": "https://note.com/archi_realestate/n/n94b5d31620a0",
+    "pass": 3
+   },
+   {
+    "quote": "設計事務所というと、「建物の図面を描く仕事」というイメージを持たれることが多いですが、実際の業務はかなり幅広いです。",
+    "url": "https://note.com/archi_realestate/n/n94b5d31620a0",
+    "pass": 3
+   },
+   {
+    "quote": "・ゼネコンの設計協力（最近はRevit案件がかなり増えました）",
+    "url": "https://note.com/archi_realestate/n/n94b5d31620a0",
+    "pass": 3
+   },
+   {
+    "quote": "改めて並べてみると、自分でも「こんなに色々やっていたのか」と感じます。",
+    "url": "https://note.com/archi_realestate/n/n94b5d31620a0",
+    "pass": 3
+   },
+   {
+    "quote": "最近は特に、建築業界全体が大きく変化しています。",
+    "url": "https://note.com/archi_realestate/n/n94b5d31620a0",
+    "pass": 3
+   },
+   {
+    "quote": "建築費の高騰、職人不足、法改正、省エネ基準の強化、そしてBIM化。",
+    "url": "https://note.com/archi_realestate/n/n94b5d31620a0",
+    "pass": 3
+   },
+   {
+    "quote": "以前のように「とりあえず図面を描けば進む」という時代ではなくなり、設計の初期段階から、コスト・施工性・運営・将来の維持管理まで含めて考える必要が出てきました。",
+    "url": "https://note.com/archi_realestate/n/n94b5d31620a0",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ、設計事務所の役割も少しずつ変わってきているように感じます。",
+    "url": "https://note.com/archi_realestate/n/n94b5d31620a0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "左巴建築設計事務所 S_A_O (@sawa_atsuko) / X 大阪で主に住宅を設計している女性建築士です。 家づくりをされている方の参考になるような記事や、同業の方に共感してもらえるような記事をnoteで書いています。 よろしくお願いいたします。",
+    "url": "https://x.com/sawa_atsuko",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 ゼロ総建 / ZERO建築設計事務所 on X: \"長野県小諸市の会社... 長野県小諸市の会社です｡小諸城址懐古園の東信菊花展と石垣･弊社伐採工事を載せて｡(小諸市伐採補助金5万円使用) #建設業 #長野県 #小諸市 #懐古園 #菊 #土木 #外構 #設計 #建築",
+    "url": "https://x.com/zerosoken/status/2117549147914125701",
+    "pass": 3
+   },
+   {
+    "quote": "Hiroshi Nakamura&NAP (@naparchitects) / X 建築から人について考え、人について考えることで建築を考えます。 また、NAP建築設計事務所で進行中の様々な現場情報やオープンハウス日時など、ここだけの情報もUPします。",
+    "url": "https://x.com/naparchitects",
+    "pass": 3
+   },
+   {
+    "quote": "小笠原 正豊 Masatoyo Ogasawara (@masatoyo_san) / X この建築設計事務所は、スタッフ約20名の規模をもつ。 かつては教職と事務所運営を並行していたが、数年前から事務所に専念。 事務所内にはしっかりとしたワークショップが整備されており、模型用材料の加工も可能。",
+    "url": "https://x.com/masatoyo_san",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 ゼロ総建 / ZERO建築設計事務所 on X: \"長野県小諸市の会社... 1 day ago · 長野県小諸市の会社です｡小諸城址懐古園の東信菊花展と石垣･弊社伐採工事を載せて｡ (小諸市伐採補助金5万円使用) #建設業 #長野県 #小諸市 #懐古園 #菊 #土木 #外構 #設計 #建築",
+    "url": "https://x.com/zerosoken/status/2117549147914125701",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "大森 正次 - 建築設計事務所の自営業 | LinkedIn建築設計事務所 藤本壮介 | LinkedIn10 \"Tatsuo Nakajima\" profiles | LinkedInNikken Sekkei Ltd - LinkedIn全台日照中心設計建築師推薦｜日間照顧中心建築規劃、長照機構設立、...#2027第三屆台灣建築永續獎熱烈徵件中 | Taiwan Institute for Sustai...Shih-Kung Huang - Yankey Engineering | LinkedIn 建築設計事務所の自営業 · 職歴: 建築設計事務所 · 場所: 1540024。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで大森 正次さんのプロフィールを閲覧しましょう。 建築設計事務所 藤本壮介 | LinkedInのフォロワー数22,066人。",
+    "url": "https://jp.linkedin.com/in/正次-大森-51b882292",
+    "pass": 3
+   },
+   {
+    "quote": "建築設計事務所 藤本壮介 | LinkedIn 建築設計事務所 藤本壮介 | LinkedInのフォロワー数22,066人。 藤本壮介建築設計事務所 | 〒135-0044 東京都江東区越中島2丁目1－38 千住倉庫5号棟",
+    "url": "https://jp.linkedin.com/company/sou-fujimoto-atelier-paris",
+    "pass": 3
+   },
+   {
+    "quote": "10 \"Tatsuo Nakajima\" profiles | LinkedIn Tatsuo Nakajima ㈱アルファ建築設計事務所 - 部長 Osaka, Japan ㈱アルファ建築設計事務所 近畿大学 / Kinki University, +1 more",
+    "url": "https://www.linkedin.com/pub/dir/Tatsuo/Nakajima",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "中西正佳 建築設計事務所 MASA Architects - Facebook株式会社 別当設計 建築設計事務所 建築設備設計事務所 | Miyazaki-sh...建築、設計、環保資訊共享平台 | Facebook免費市集擺攤丶多元化市集資訊 | Facebook西 建築設計事務所 - FacebookEA Research and Design Office | Niigata-shi Niigata - Facebook成瀬・猪熊建築設計事務所 | Suginami-ku Tokyo Oct 17, 2026 · 中西正佳 建築設計事務所 MASA Architects 兵庫県 宝塚市 仁川を拠点に、全国の各地の住宅 から施設まで幅広く設計を行なっています。 まるで 自然の中にいるかのような”おおらかな建築” を設計コンセプトとし、永く愛される建築を目指し ています。 Dec 28,",
+    "url": "https://www.facebook.com/MASAoArchitects/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 別当設計 建築設計事務所 建築設備設計事務所 | Miyazaki-sh...建築、設計、環保資訊共享平台 | Facebook免費市集擺攤丶多元化市集資訊 | Facebook西 建築設計事務所 - FacebookEA Research and Design Office | Niigata-shi Niigata - Facebook成瀬・猪熊建築設計事務所 | Suginami-ku Tokyo Dec 28, 2024 · 建築設計と建築設備設計を行う設計会社です。 公共工事の設計委託を業としており、経営は安定しています。 社会福祉法人等の公益法人からの依頼もお受けしております。 建築設計を共に行う仲間も募集しています。 Jul 30, 2026 · 4y · Public Kinsion Design & Engineering Ltd 基信設計工程有限公司 4y ·",
+    "url": "https://www.facebook.com/bettohsekkei/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=321&category=2098&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/toukei/keizai_sensas/r3census.files/r3census.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/index-2.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://and-pro.jp/content/article-w4q_i1zrg1/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/20",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://beavers.co.jp/splash/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://legacy-jp.com/posts/551",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kensetsu-hr.resocia.jp/article/dx08",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/architectural-services-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20260714-kensetsu26y1-6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=6692",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://built.itmedia.co.jp/bt/articles/2607/14/news102.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretokyoweb.jp/?page=article&id=1090",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://architag.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/igarchitects/n/nfcd861270799",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hnaa.jp/faq/architect-searchsite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smt.fukuicompu.co.jp/fad/products/sekkei-tenshoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taaf.or.jp/news_architect/detail/1640.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://internetfax-it.com/kensetsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/construction-order-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecbeing.net/b2b/contents/detail/109",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=53905",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kensetsu.gemba-tech.jp/list/order-management-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bucchake-housing.co.jp/house-design-fee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuriken.com/column/%E8%A8%AD%E8%A8%88%E4%BA%8B%E5%8B%99%E6%89%80%E3%81%AB%E9%A0%BC%E3%82%80%E3%81%A8%E9%AB%98%E3%81%84%EF%BC%9F%E8%B2%BB%E7%94%A8%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E6%AD%A3%E7%9B%B4%E3%81%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kost-office.com/building-estimation-outsourcing-costs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/archi_realestate/n/n94b5d31620a0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sawa_atsuko",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zerosoken/status/2117549147914125701",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/naparchitects",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/masatoyo_san",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/正次-大森-51b882292",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/sou-fujimoto-atelier-paris",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/Tatsuo/Nakajima",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MASAoArchitects/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/bettohsekkei/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zerosoken/status/2117549147914125701",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "建築設計業（建築設計事務所） 事業所数 従業者数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003215400",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=321&category=2098&page=1000",
+    "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "https://www.city.ota.tokyo.jp/sangyo/sangyou_suuji_jittai/toukei/keizai_sensas/r3census.files/r3census.pdf",
+    "https://www.e-census2026.go.jp/document/pdf/howto_12.pdf",
+    "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000135/135228/2012-2-2.pdf",
+    "https://built.itmedia.co.jp/bt/articles/2012/01/news019.html",
+    "https://www.city.iwaki.lg.jp/www/contents/1001000004151/simple/h28iwakishinojigyousyo.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://www.stat.go.jp/data/e-census/"
+   ]
+  },
+  {
+   "query": "建築設計業（建築設計事務所） 人手不足 有効求人倍率",
+   "results": [
+    "https://and-pro.jp/content/article-w4q_i1zrg1/",
+    "https://shigoto.mhlw.go.jp/User/Occupation/Detail/20",
+    "https://beavers.co.jp/blog/6416/",
+    "https://legacy-jp.com/posts/551",
+    "https://kensetsu-hr.resocia.jp/article/dx08",
+    "https://x.com/gknkmr100/status/2023013130826321935",
+    "https://www.aoyamaseizu.ac.jp/contents/copy-285",
+    "https://www.hear.co.jp/recruit/architect-recruit",
+    "https://media.conoc-dx.co.jp/posts/construction-labor-shortage-data",
+    "https://sekokan-base.com/articles/detail/949/"
+   ]
+  },
+  {
+   "query": "建築設計業（建築設計事務所） 市場規模 推移",
+   "results": [
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500006/",
+    "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=7207",
+    "https://1manken.hatenablog.com/entry/2025-ranking-of-design-offices",
+    "https://altvega.com/architectural-design-office-analysis-20250907/",
+    "https://www.mordorintelligence.com/ja/industry-reports/architectural-services-market",
+    "https://www.fddi.jp/7178",
+    "https://www.yokomatsu.info/blog/2024/08/25/011-kyuusha-sekkeijimusho/",
+    "https://www.funaisoken.co.jp/dl-contents/jy-design_S062",
+    "https://mdb.jmar.co.jp/contents/00345939_sample.pdf",
+    "https://mdb.jmar.co.jp/contents/00318254_sample.pdf"
+   ]
+  },
+  {
+   "query": "建築設計業（建築設計事務所） 休廃業 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/industry/20260714-kensetsu26y1-6/",
+    "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=6692",
+    "https://built.itmedia.co.jp/bt/articles/2607/14/news102.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b1_1_7.html",
+    "https://coretokyoweb.jp/?page=article&id=1090",
+    "https://www.youtube.com/watch?v=muCkt9qaaIA",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02877/",
+    "https://process.uchida-it.co.jp/itnavi/column/20220520/",
+    "https://www.genba-media.jp/data/bankruptcy",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/dd5fd8c39fb34f2ea6824d289a5a1d2f/20260714_「建設業」の倒産・休廃業解散動向.pdf"
+   ]
+  },
+  {
+   "query": "建築設計業（建築設計事務所） マッチング プラットフォーム",
+   "results": [
+    "https://architag.jp/",
+    "https://note.com/igarchitects/n/nfcd861270799",
+    "https://www.hnaa.jp/faq/architect-searchsite/",
+    "https://smt.fukuicompu.co.jp/fad/products/sekkei-tenshoku/",
+    "https://www.taaf.or.jp/news_architect/detail/1640.html",
+    "https://x.com/archi_tag",
+    "https://aoyama-art.com/release-2024-04-23",
+    "http://archi-partner.com/",
+    "https://rise-g.co.jp/dx/matching-site/",
+    "https://archilink.jp/matching"
+   ]
+  },
+  {
+   "query": "建築設計業（建築設計事務所） 受発注 課題 電話 FAX",
+   "results": [
+    "https://internetfax-it.com/kensetsu.html",
+    "https://hnavi.co.jp/knowledge/blog/construction-order-system/",
+    "https://www.ecbeing.net/b2b/contents/detail/109",
+    "https://catalog.monex.co.jp/article/?p=53905",
+    "https://kensetsu.gemba-tech.jp/list/order-management-systems/",
+    "https://www.casio-human-sys.co.jp/bc-order/column/019.html",
+    "https://www.kktisc.co.jp/column/7201/",
+    "https://www.tisi.jp/service_solution/paperoid/fax_order_dx/",
+    "https://ec.smaregi.jp/column/b2b/fax-order/",
+    "https://www.mlit.go.jp/common/001195422.pdf"
+   ]
+  },
+  {
+   "query": "建築設計業（建築設計事務所） 外注 費用 相場",
+   "results": [
+    "https://bucchake-housing.co.jp/house-design-fee/",
+    "https://earnest-arch.jp/column/first-custom-house/designofficefee/",
+    "https://www.yuriken.com/column/%E8%A8%AD%E8%A8%88%E4%BA%8B%E5%8B%99%E6%89%80%E3%81%AB%E9%A0%BC%E3%82%80%E3%81%A8%E9%AB%98%E3%81%84%EF%BC%9F%E8%B2%BB%E7%94%A8%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E6%AD%A3%E7%9B%B4%E3%81%AB/",
+    "https://ktx.space/2026/01/17/architectural-design-fee-guide/",
+    "https://kost-office.com/building-estimation-outsourcing-costs/",
+    "https://titel.jp/articles/design-fee",
+    "https://kaneko-archi.com/magazine/house-building-003/",
+    "https://www.tsuchida-sekkei.co.jp/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F/%E8%A8%AD%E8%A8%88%E8%B2%BB%E7%94%A8/",
+    "https://www.yokomatsu.info/blog/2025/07/03/202507-02-architecturaldesignoffice-estimate/",
+    "https://www.mitsumori-bank.com/post/what-is-an-architectural-firm-5-key-things-to-know"
+   ]
+  },
+  {
+   "query": "site:note.com 建築設計業（建築設計事務所）",
+   "results": [
+    "https://note.com/aulora/n/n6299057ec3aa",
+    "https://note.com/moral_zebra9392/n/n17bb6d94a32f",
+    "https://note.com/archi_realestate/n/n94b5d31620a0",
+    "https://note.com/kurainkyo/n/n397a320bad1e",
+    "https://note.com/masa_arc/n/nf3a15cb2b43f",
+    "https://note.com/norinorisa/n/n90fa986a9aca",
+    "https://note.com/kenchiku_career0/n/nca1e7a73c10c",
+    "https://note.com/hr_dorikeri_35/n/n3a0751d21880",
+    "https://note.com/staylocal0/n/n36e676e219be",
+    "https://note.com/mizutanikosuke/n/ncdb101802f9e"
+   ]
+  },
+  {
+   "query": "site:x.com 建築設計業（建築設計事務所）",
+   "results": [
+    "https://x.com/sawa_atsuko",
+    "https://x.com/zerosoken/status/2117549147914125701",
+    "https://x.com/naparchitects",
+    "https://x.com/masatoyo_san",
+    "https://x.com/a_worker",
+    "https://x.com/ren_office_",
+    "https://x.com/matsushimajp"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 建築設計業（建築設計事務所）",
+   "results": [
+    "https://jp.linkedin.com/in/正次-大森-51b882292",
+    "https://jp.linkedin.com/company/sou-fujimoto-atelier-paris",
+    "https://www.linkedin.com/pub/dir/Tatsuo/Nakajima",
+    "https://www.linkedin.com/company/nikken-sekkei-ltd",
+    "https://tw.linkedin.com/in/shih-kung-huang-522a234a",
+    "https://cn.linkedin.com/pulse/全台日照中心設計建築師推薦日間照顧中心建築規劃長照機構設立土地評估與建築許可完整指南周嘉源建築師事務所-周-ageyc",
+    "https://cn.linkedin.com/posts/taise_2027第三屆台灣建築永續獎熱烈徵件中-activity-7523661009476255744-mk-x"
+   ]
+  },
+  {
+   "query": "site:facebook.com 建築設計業（建築設計事務所）",
+   "results": [
+    "https://www.facebook.com/MASAoArchitects/",
+    "https://www.facebook.com/bettohsekkei/",
+    "https://business.facebook.com/groups/983133608407056/",
+    "https://business.facebook.com/groups/936904967047322/",
+    "https://www.facebook.com/p/西-建築設計事務所-100065290728641/",
+    "https://www.facebook.com/takerushoji.architects/",
+    "https://www.facebook.com/naruseinokuma/"
+   ]
+  },
+  {
+   "query": "建築設計業（建築設計事務所） note 社長",
+   "results": [
+    "https://note-arch.com/",
+    "https://shachomeikan.jp/industry_article/5902",
+    "http://www.homeliving.co.jp/20250313/note-architects",
+    "https://note-arch.com/about/",
+    "http://www.homeliving.co.jp/20250106/note-architects",
+    "https://residenceonline.jp/113610/",
+    "https://note.com/archiconcierge/n/n2320339fd903"
+   ]
+  },
+  {
+   "query": "建築設計業（建築設計事務所） X 投稿",
+   "results": [
+    "https://x.com/zerosoken/status/2117549147914125701",
+    "https://onemove.co.jp/posts/X54pdUGt",
+    "https://x.com/kenchiku_zyoho",
+    "https://kurashi-marke.com/kenchikugyo-x-marketing/",
+    "https://kikushiru.jp/sekkeijimusyo-innsuta/",
+    "https://marklis.com/koumuten-instagram-neta/",
+    "https://mirai-style.net/column/27851/"
+   ]
+  },
+  {
+   "query": "architectural design offices Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/furihata-architecture",
+    "https://www.linkedin.com/company/yasui-archi",
+    "https://jp.linkedin.com/in/ayami-takada-ab20551a7",
+    "https://tw.linkedin.com/company/yasui-archi",
+    "https://tw.linkedin.com/company/yasui-archi/life",
+    "https://au.linkedin.com/in/ryo-iwano",
+    "https://jp.linkedin.com/in/shogo-onodera-a3721564"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1514 @@
+{
+ "name": "海外メーカーの日本窓口（販売代理人・手数料制）",
+ "en": "sales agent for foreign manufacturers Japan commission",
+ "aliases": [
+  "海外メーカー 日本 販売代理 手数料",
+  "輸入 代理店 コミッション",
+  "日本市場参入支援 料金"
+ ],
+ "context": "入口候補・海外メーカーの日本窓口",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:57:15.589019+00:00",
+ "evidence": {
+  "顧客が払う単価": [
+   {
+    "quote": "代理店契約はコミッション（売上の5〜15%程度）を支払いますが、販売価格をメーカーがコントロールできます",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "月10万円〜海外進出！商社機能を月額定額代行",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "2. 価格維持や顧客分配につながるかを確認します：固定価格、最低価格、制裁、将来価格の共有が含まれるかを見ます",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 法務確認まで回答を保留します：価格維持の合意形成に見える発言や文書を避けます",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "(2) ディストリビューターはメーカーからの仕入れ値をもとに自社で価格設定を行います",
+    "url": "https://joto-smeca.com/member-news/20241106kokusai/",
+    "pass": 3
+   }
+  ],
+  "利幅": [
+   {
+    "quote": "適切な契約形態を選ばなかった場合、利益率の低下、ブランドコントロールの喪失、契約解除時の高額な補償金支払いなど、深刻な問題に発展するリスクがあります",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "：販売店＝仕入値と販売価格の差額（マージン） / 代理店＝コミッション（手数料）",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "：販売店契約はメーカーの直接コストが低い（販売店が在庫・物流を負担）一方、マージンが大きくなるため製品の最終価格が高くなりがちです",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "販売店の場合はコミッションではなくマージン（仕入価格と販売価格の差額）となります",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "マージン率は業種や製品によって異なりますが、一般的に20〜40%程度です",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理の手順と効果を教えて下さい",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "粗利益を改善したい",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "仕入価格と再販売価格のマージンです",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店マージン・リベート",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "販売店のマージン",
+    "url": "https://www.businesslawyers.jp/practices/990",
+    "pass": 3
+   }
+  ],
+  "許可・資格の要否": [
+   {
+    "quote": "専門家登録について",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "販売店が独自に商標登録してしまうトラブルを防ぐため、商標の所有権がメーカーに帰属することを明記します",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "：商業代理店法（Federal Law No. 18 of 1981、改正を含む）により、登録された代理店の契約解除には「正当な理由」が必要で、経済省の委員会の判断を要する場合があります",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "：商業代理店規制（Commercial Agencies Regulations）に基づき、代理店の登録が義務付けられています",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "一度登録された代理店の変更は極めて困難で、裁判所の判断が必要になるケースもあります",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "タイでは外国人事業法により一部の業種で外資規制があり、インドネシアでは代理店登録制度があります",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "また、商標の先行登録（抜け駆け登録）リスクが高いため、契約前に中国での商標登録を済ませておくことが重要です",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "UAE、サウジアラビアなど中東諸国では代理店保護法が非常に強く、一度代理店を登録すると解除が極めて困難です",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "「Digima〜出島〜」には、厳正な審査を通過した優良な海外進出サポート企業が多数登録しています",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "エージェント登録",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "日本で登録していても、進出先の国で自動的に有効になるわけではありません",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "自社ブランドが現地で未登録のままだと、その状態を利用して第三者（ときには交渉中の代理店自身）に先に出願されることが実際に起きています",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "海外の登録状況はWIPOのGlobal Brand Databaseで調べられます",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果を見ながら、進出予定国での商標登録を交渉と並行して検討すべきです",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "ブランドイメージを損なう使い方をされないよう、許可する使用形態をガイドラインで明確にしておきます",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "販売店に同じような決まりを置く国や、中東の一部の国のように代理店や販売店を登録させ、契約を終えにくくしている国もあります",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "商標（会社名や製品名のマーク）は、貴社の名前で現地に登録しておきます",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "相手の名前で登録されると、契約が終わったあとに取り戻すのが難しくなります",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "輸出の許可が要る技術が含まれていないかも確かめます",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "国際取引の契約にくわしい弁護士に、相手の国の法律で問題がないか、終わり方と補償、競争法、登録の要否を見てもらいます",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "国によっては代理店の登録や商標の手続きも要ります",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedInは仕事のためのSNSで、200以上の国と地域で14億人以上が登録しています（",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "相手の国に、補償や登録の決まりがないかを確かめた",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "商標を貴社の名前で現地に登録した（または手続きを始めた）",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "代理店を守る法律や競争法、登録の決まりは国ごとに違います",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "登録すると、",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "YouTubeでチャンネル登録",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "労災認定の要件はどのようなものでしょうか",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品を製造販売する際の許可基準等について教えて下さい",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "「インバウンド事業開始時の、来日客向け免税販売店許可の取得方法を知りたい",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "どういった許可が必要でしょうか",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "外国人が日本で起業する場合、在留資格はどうなるのでしょうか？",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "実用新案登録は特許と何が違いますか？",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "わが社の商品名について他人が商標登録を受けてしまいました",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "他人の登録商標と類似する商標でも登録できる場合があるって本当？",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "商標・ドメインの過去登録、模倣品対応、販促物管理を確認します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "ブランドや登録名義の要求",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "商標、ドメイン、製品登録を販売店名義にしたいという主張は、解除時の切替えリスクにつながります",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出許可、制裁確認、最終需要者確認が完了するまで出荷義務を負わないようにします",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の経済産業大臣の許可、米国BIS許可、その他当局許可を確認します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入許可、製品登録、認証取得を早める名目の支払いは、法令上認められる費用かを確認します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "次の表は、品質保証・法務・現地販売店が共有する確認事項で、読者は登録名義や事故報告の責任者が曖昧になっていないかを確認します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器、化粧品、食品、化学品、通信機器、電気用品、建材などでは、現地販売に製品登録や認証が必要になることがあります",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "販売店が登録名義人になると、解除後の切替え、資料返還、当局対応、競合品への転用が問題になります",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "商標、類似商標、ドメイン、SNSアカウントの登録を禁止し、既に登録した場合の移転義務を定めます",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報では、見込み顧客、購入者、担当者、問い合わせ、保証登録、修理履歴、苦情、展示会名刺、メールマーケティング、CRMデータが対象になります",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店型では、現地で本人のために契約を締結する、または契約締結のための主要な役割を反復して果たす場合、本人に恒久的施設があると認定されるリスクがあります",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "解除時には、解除通知期間、解除理由、未払コミッション、解除補償または顧客開拓補償、在庫買戻し、既存注文、顧客引継ぎ、商標使用停止、製品登録名義、データ返還・削除、サブ販売店への通知、未回収債権、競業避止、秘密保持が同時に問題になります",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "商標使用、商標・ドメイン登録禁止、販促物・翻訳の権利帰属、模倣品通知、秘密保持、技術資料、終了後の使用停止を確認します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "製品登録名義、薬事承認、広告規制、医療従事者への利益提供、不具合報告、有害事象報告、回収、保守、校正、研修記録を確認します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、アラブ中東諸国や中南米の代理店保護法においては、該当国において代理店（販売店）を選任する場合にはその代理店（販売店）を当局に対して登録する必要があり、また、登録を変更する場合には代理店（販売店）の関与が必要とされる場合があります",
+    "url": "https://www.businesslawyers.jp/practices/990",
+    "pass": 3
+   },
+   {
+    "quote": "2005年弁護士登録",
+    "url": "https://www.businesslawyers.jp/practices/990",
+    "pass": 3
+   },
+   {
+    "quote": "2019年1月施行の中国越境EC制度の適用要件",
+    "url": "https://www.businesslawyers.jp/practices/990",
+    "pass": 3
+   },
+   {
+    "quote": "無料会員登録で",
+    "url": "https://www.businesslawyers.jp/practices/990",
+    "pass": 3
+   },
+   {
+    "quote": "無料で会員登録する",
+    "url": "https://www.businesslawyers.jp/practices/990",
+    "pass": 3
+   }
+  ],
+  "最初の売上までの期間": [
+   {
+    "quote": "・販売店の販売努力が不十分でも、契約期間中は容易に変更できない",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間と更新条件",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "：初回の契約期間（1〜3年が一般的）と、更新の条件・方法を明記します",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "契約終了後も一定期間（通常3〜5年）継続する旨を規定します",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "：販売店契約では、契約終了時に販売店が保有する在庫の取り扱い（メーカーが買い戻すか、一定期間の販売を認めるか）を事前に規定しておきます",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "この指令では、代理店契約の終了時に、代理店が契約期間中に獲得した新規顧客や取引拡大に対する",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "補償金の上限は年間コミッションの1年分相当ですが、契約期間が長ければ長いほど補償額が大きくなる傾向があります",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業がEUで代理店を起用する場合は、この補償金リスクを事前に認識し、契約期間やコミッション率の設定に反映させることが重要です",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "独占販売権を付与したものの、販売店がほとんど販売努力をせず、市場が開拓されないまま契約期間だけが過ぎていくケースは非常に多いです",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間を短く設定する、コミッション率を適正に保つ、代理店に過度に依存しない販売体制を構築するなどの予防策が重要です",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "テリトリー（販売地域）の範囲、独占/非独占の区分、最低購入数量（販売店の場合）、契約期間と更新条件、競合品取扱いの制限、知的財産権の取り扱い、秘密保持義務、紛争解決条項（仲裁・準拠法）が最低限必要です",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "代理店契約の終了時に、代理店が契約期間中に築いた顧客基盤に対する補償金（最大で年間報酬の1年分相当）の支払いが義務付けられています",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "海外進出の方法を徹底比較｜費用・期間・リスク別に自社に合ったアプローチを解説【2026年最新版】",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "契約から2年経って解除し、そこから新しい代理店を探し直すと、その市場での立ち上げが実質ゼロに戻ります",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "生産キャパシティ、リードタイム、品質保証体制",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "独占権を与える場合は、対象製品・対象地域・契約期間、そして",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "年間合計4万個という条件でも、「1年間で4万個」なのか「四半期ごとに1万個」なのかで代理店の負担はまったく違います",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "競合製品の取扱いを認めるかを判断し、禁止するなら対象と期間を具体的に明記します",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "費用と3か月の判断",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "数字は支援実績の一例（1か月）",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "数字は支援実績の一例（2か月目）",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "地域・最低購入量・価格と支払い・期間と終わり方・商標・顧客情報で決めること",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "期間を区切り、更新のたびに見直す",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "最初の期間と、更新のしかた（自動で更新するか、毎回話し合うか）",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "期間の途中でやめられる場合（目標に届かない、支払いが遅れる、競合品を扱い始めた、相手の会社が倒産したなど）",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "やめるときの予告の期間",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "販売店か代理店か、独占かどうか、地域、製品、目標、期間を、まず短い書面（タームシート）で合わせます",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "期間と終わり方",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "最初の期間、更新のしかた、途中でやめられる場合と予告の期間を決めた",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "独占は、地域・製品・目標・期間の条件とセットで渡す",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "契約書では、地域、最低購入量、価格と支払い、期間と終わり方、商標、顧客の情報を具体的に書く",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "期間も区切り、更新のたびに見直します",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "試用期間中の従業員を解雇する場合の注意点を教えて下さい",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業を立ち上げたいのですが、周りから反対され迷っています",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "記載の数値・金額・期間は目安です",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "範囲、期間、市場影響、正当化理由を専門家と確認します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "解除時には、解除通知期間、解除理由、未払コミッション、解除補償または顧客開拓補償、在庫買戻し、既存注文、顧客引継ぎ、商標使用停止、製品登録名義、データ返還・削除、サブ販売店への通知、未回収債権、競業避止、秘密保持が同時に問題になります",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "契約類型、定義、任命、権限、契約期間、販売目標、注文、支払、Incoterms、所有権を確認します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "通常解除、債務不履行解除、治癒期間、即時解除、在庫処理、売切り、顧客引継ぎ、未払金、補償、データ返還、調査協力を確認します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "海外販売代理店リスクは、契約締結時だけでなく契約期間全体で管理します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "契約前は候補先審査、契約期間中は制裁・輸出管理・販売実績・苦情・販促費の監視、終了時は在庫・商標・データ・登録名義の処理が中心になります",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "次の時系列は、契約前、契約期間中、契約終了時の順番に読めるようにしており、社内承認会議や年次レビューの確認項目として使えます",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "契約終了時の処理は、契約期間中から準備しておくほど実行しやすくなります",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "短い初期期間、最低購入義務、非独占化を設計します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "準拠法、裁判管轄、仲裁地、言語、解除補償、通知期間、解除後の在庫・商標・顧客データ・製品登録を確認します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "期間満了・不更新・最低購入義務の不達成等により本人から代理店契約を終了しようとする場合に、補償や損害賠償を求められる地域もあります",
+    "url": "https://www.businesslawyers.jp/practices/990",
+    "pass": 3
+   },
+   {
+    "quote": "当該指令に示されたEUのモデル法においては、代理店との間の契約期間に応じて解除のための通知期間が延長されており、また契約の終了にあたり本人に対して一定の補償を求めることができることとなっています",
+    "url": "https://www.businesslawyers.jp/practices/990",
+    "pass": 3
+   }
+  ],
+  "営業のやり方": [
+   {
+    "quote": "販売店契約と代理店契約の違いとは？海外ビジネスの契約形態を比較表付きで解説 | 海外進出ノウハウ | Digima〜出島〜",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "無料で参加できるセミナーや最新の海外動向を知れる「海外ビジネスEXPO」など、専門家と直接話せる機会も提供しています",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "海外ビジネスに関するお悩みを専門コンシェルジュがヒアリングし、課題解決に最適な支援専門家をご紹介します",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "「自社サイトからの問い合わせが増えない」「広告やSEO効果が実感できない」などの課題を解決します",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "販路拡大（営業代行・販売代理店探し）",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "海外展示会出展",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "海外人材採用・紹介",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "訪日観光ニーズが切り拓く、日本企業の海外展開戦略「インバウンドビジネス」特集",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "スモールスタートで海外展開！「販売代理店・バイヤー開拓」特集",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "販売店契約と代理店契約の違いとは？海外ビジネスの契約形態を比較表付きで解説",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "「グローバル市場で成功する日本企業を10,000社作る」をミッションとして、海外ビジネスに関するニュースやノウハウ記事、海外進出サポート企業情報、海外ビジネス関連セミナーの掲載等を行っています",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "海外で自社製品を販売する際、現地パートナーとの契約形態を「販売店契約」にするか「代理店契約」にするかは、事業の収益性やリスクに直結する重要な判断です",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、販売店契約と代理店契約の違いを比較表付きで解説し、契約時に必ず確認すべきチェックポイントや国・地域別の注意点、トラブル事例と対策までを網羅します",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "・販売店契約と代理店契約の違い（比較表付き）",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "▼販売店契約と代理店契約 完全ガイド",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "海外代理店開拓とは？選定基準と契約の勘所 | Trst",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "海外代理店開拓",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "海外代理店開拓とは？パートナー選定の基準と契約の勘所",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "海外代理店開拓とは、現地市場で自社製品を販売・普及させてくれるパートナー企業を見つけ、長期的な協力関係を築くプロセスです",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "販売先を直接開拓する方法とは異なり、現地に根付いた代理店を活用することで、自社が現地に拠点を持たなくても継続的な販売活動が可能になります",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "「代理店」には2つの異なる形がある",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で「代理店」と呼ばれるものは、法的性質の異なる2つの方式に分かれます",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "自社 → 代理店 → 最終顧客",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "自社 → 最終顧客（代理店は仲介）",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店が負う",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店が決める",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店の収益",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "軽い（代理店が売り切る）",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店選定で失敗しやすいポイント",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店開拓では、「見つける」よりも「選ぶ」ことが難しいとよく言われます",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "海外代理店契約の基本｜販売店と代理店の違い、独占・地域・終わり方の決め方とチェックリスト｜COSPALinks",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "展示会の前から、キーマンと接点をつくる",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "セミナーを見る",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "最新のセミナー",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "セミナーの録画",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "次回のセミナー（企画中）",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "海外代理店契約の基本｜販売店と代理店の違い、独占・地域・終わり方の決め方とチェックリスト",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "海外代理店契約の",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "海外代理店契約は、",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "「代理店」かを",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "販売店契約と代理店契約の違いと、独占・非独占の考え方",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "海外代理店契約とは：販売店契約と代理店契約の2つがある",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "海外代理店契約とは",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "代理店契約の",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "海外代理店契約とは、海外の会社に、ある国や地域での自社製品の販売を任せるときに結ぶ契約です",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "海外取引における代理店契約をする際の適切な方法と注意点を教えて欲しい",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "代理店契約をして日本のマーケットで販売したいと考えています",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "代理店契約の方法や契約実施時のどのような点に注意すれば良いでしょうか",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "代理店契約は大きなビジネスチャンスですが、交渉・実施には知識と粘り強さが必要です",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "海外の面白い商材を発見しその商品の販売代理店となるには、販売計画や目標、契約地域や年間の予定成約数などを相手側に提示することが必要です",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "貿易の場合、海外（特にアメリカ）では販売代理店に①エージェント（代理店）②ディストリビューター（販売店）に機能の区別があります",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店には一般的にこのような区別があるため、個別に契約をされる際は契約書の文言（及びその定義）や合意の内容に注意が必要です",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "当該地域での販売権を一手に与えるという独占的代理権・販売権の交渉は代理店契約における重要なポイントです",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "海外の面白い商材を発見しても、既に代理店があったり他社と交渉中の場合があります",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "この場合でも既存代理店の販売量に不満や販売、展開能力に問題を感じていたりする場合があるのであきらめずに交渉をすることをお薦めしします",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "ただしその場合には既存代理店とのトラブルを避けるために海外メーカーとの事前協議が必要となります",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "既に代理店をされている場合でもこのような新規業者などへ突如契約を変更される場合があるので、海外メーカーとの信頼関係構築が代理店契約ではきわめて重要です",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "「インバウンド事業開始時の、来日客向け免税販売店許可の取得方法を知りたい",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "新規開拓をするのに、商談会や展示会で成功するポイントは？",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページとSNS、どちらの運用を優先すべきですか？",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   }
+  ],
+  "小さく始めた実例": [
+   {
+    "quote": "代理店契約はコミッション（売上の5〜15%程度）を支払いますが、販売価格をメーカーがコントロールできます",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "：契約書に最低購入数量（販売店の場合）または最低売上目標（代理店の場合）を必ず規定し、未達の場合は独占権を解除できる条項を入れます",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "数値目標は年ごとに設定し、契約初年度は低く、段階的に引き上げるのが現実的です",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "代理店のコミッション率は売上の5〜15%が一般的で、業種や取引規模によって変動します",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】ブリヂストンの海外進出戦略｜世界シェア13.6%・海外売上比率86%を支える3つの戦略を解説",
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "pass": 3
+   },
+   {
+    "quote": "数百品目を扱う商社にとって、新規に加わった日本の中小メーカーの製品は売上構成比で数%にすぎません",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "逆に避けるべきは、「弊社は創業〇〇年の総合メーカーです」から始まる自己紹介中心の文面です",
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "pass": 3
+   },
+   {
+    "quote": "海外営業とは？仕事内容・国内営業との違いと、少人数で始める新規開拓の進め方",
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "pass": 3
+   },
+   {
+    "quote": "少人数私募債について教えて下さい",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "製造業などのBtoB（法人向け営業）でもホームページは売上アップにつながりますか？",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "従業員を関連会社に出向させる時の注意点は？",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "創業をしたいが、何から手をつけたらいいの？",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "試用期間中の従業員を解雇する場合の注意点を教えて下さい",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が会社の金銭を横領した場合の対応",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページからの売上を上げるには？",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "店舗の売上を上げるために押さえるべきポイントを教えてください",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "BtoCビジネスで売上を伸ばすにはどうすればいいですか？",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "売上が低迷しています",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "従業員を雇う際の労働・社会保険の手続きについて教えて下さい",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "頻繁に割引サービスを行っても売上アップにつながらない場合は？",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "創業のために必要な準備について教えてください",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "「常時使用する従業員」について、中小企業基本法と労働安全衛生法との違いはありますか？",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の労働時間把握・管理の必要性",
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "pass": 3
+   },
+   {
+    "quote": "契約の形だけでなく、現地での活動実態、売上計上、解除時の執行可能性まで見ます",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "税務・会計では、販売チャネルの設計が税負担、売上計上、内部統制に直結します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "売上計上、リベート、販促費、棚卸資産です",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "独占権を与える場合は、最低購入数量または最低売上目標、年度ごとの販売計画、目標未達時の独占権喪失または非独占化、政府機関・大口国際顧客・既存顧客・オンライン販売の留保、サブ販売店の事前承認、コンプライアンス違反時の即時解除を置きます",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "海外売上比率と法務体制",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "PE、源泉税、VAT/GST、関税評価、リベート、返品、在庫買戻し、売上計上を確認します",
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.bgent.net/plus/article/5901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnersuccess.jp/media/partner-insentive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.english-contract.jp/commentary/detail/post_4551/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://utsunomiya-law.com/column/detail.php?id=0003",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://curumi.co.jp/blog/listing-ads-agency-5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.nb-a.jp/online-advertising/ad-agency-roi-verification-guide-cpa-roi-5-steps-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leango.co.jp/dejam/blog/article0271/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.data-be.at/magazine/listing-ads-cpa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.members.co.jp/results/case36",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ad-lp.news.mynavi.jp/blog/cac",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fukuoka-ecsite.co.jp/blog/agency/sales-deal-design-closing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.hiway.app/blog/agent-commission/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ppmj.com/column/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/agency-commission-rate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_system_column/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/6870",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://a-zeim.jp/trade-company-agent-commission.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E7%89%B9%E7%B4%84%E5%BA%97%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%82%A4%E3%82%BA%E5%A5%91%E7%B4%84/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E5%A5%91%E7%B4%84/%E4%BB%A3%E7%90%86%E5%BA%97%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%B3%E3%83%BB%E3%83%AA%E3%83%99%E3%83%BC%E3%83%88%E3%81%AE%E8%A8%AD%E8%A8%88%E6%96%B9%E6%B3%95/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/law/jimu-unei/hojin/010601/pdf/bessatsu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mitsukijapan.com/ma/column/professional-hair-cosmetics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pm-lawyer.com/20210825/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebis.obda.or.jp/faq/1143",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesslawyers.jp/practices/990",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsa.go.jp/frtc/seika/discussion/2025/DP2025-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://solxia.co.jp/import-agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sogyotecho.jp/dairiten-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/establish/basic/75669/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://joto-smeca.com/member-news/20241106kokusai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eifer.group/ja/column/japan-market-entry-support-tokyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digima-japan.com/knowhow/world/expert-ycp-group-00005.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales.dmsjp.co.jp/column/46",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://glocal-solutions.org/post-2049/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.vcube.com/eventdx/blog/exhibition-sales-agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://league-jp.com/service/international_exhibitions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biznavi.smrj.go.jp/8877/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://glohai.com/sales-channel-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sogyotecho.jp/asiro/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-itax.com/%E6%B6%88%E8%B2%BB%E7%A8%8E/7676/itakuhanbai-jyungaku",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "海外メーカーの日本窓口（販売代理人・手数料制） 料金 相場",
+   "results": [
+    "https://www.bgent.net/plus/article/5901",
+    "https://partnersuccess.jp/media/partner-insentive",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://www.english-contract.jp/commentary/detail/post_4551/",
+    "https://utsunomiya-law.com/column/detail.php?id=0003",
+    "https://www.higuchi-law.jp/columns/columns21/",
+    "https://www.tenso.com/jp/usage_fee",
+    "https://www.tensojapan.com/ja/guide/fees",
+    "https://little-link.jp/海外メーカーの日本代理店になる方法｜契約から/"
+   ]
+  },
+  {
+   "query": "海外メーカーの日本窓口（販売代理人・手数料制） 顧客獲得単価 OR CPA",
+   "results": [
+    "https://curumi.co.jp/blog/listing-ads-agency-5",
+    "https://blog.nb-a.jp/online-advertising/ad-agency-roi-verification-guide-cpa-roi-5-steps-2026/",
+    "https://leango.co.jp/dejam/blog/article0271/",
+    "https://www.data-be.at/magazine/listing-ads-cpa/",
+    "https://www.members.co.jp/results/case36",
+    "https://ad-lp.news.mynavi.jp/blog/cac",
+    "https://www.seedinc.jp/column/listing-ads/listing-ads-costaverage/",
+    "https://www.intage.co.jp/service/glossary/1850/",
+    "https://www.kwm.co.jp/blog/cpa/"
+   ]
+  },
+  {
+   "query": "海外メーカーの日本窓口（販売代理人・手数料制） 成約率 OR 受注率 OR 継続率",
+   "results": [
+    "https://fukuoka-ecsite.co.jp/blog/agency/sales-deal-design-closing/",
+    "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "https://product.hiway.app/blog/agent-commission/",
+    "https://www.ppmj.com/column/",
+    "https://partnersuccess.jp/media/partner-insentive",
+    "https://b-seeds.com/column/agency-commission-rate",
+    "https://growth-dx.com/column/agency_system_column/",
+    "https://www.english-contract.jp/commentary/detail/post_4551/",
+    "https://www.bgent.net/plus/article/7044"
+   ]
+  },
+  {
+   "query": "海外メーカーの日本窓口（販売代理人・手数料制） 粗利率 利益率",
+   "results": [
+    "https://www.bgent.net/plus/article/6870",
+    "https://partnersuccess.jp/media/partner-insentive",
+    "https://www.english-contract.jp/commentary/detail/post_4551/",
+    "https://a-zeim.jp/trade-company-agent-commission.html",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E7%89%B9%E7%B4%84%E5%BA%97%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%82%A4%E3%82%BA%E5%A5%91%E7%B4%84/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E5%A5%91%E7%B4%84/%E4%BB%A3%E7%90%86%E5%BA%97%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%B3%E3%83%BB%E3%83%AA%E3%83%99%E3%83%BC%E3%83%88%E3%81%AE%E8%A8%AD%E8%A8%88%E6%96%B9%E6%B3%95/",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://www.nta.go.jp/law/jimu-unei/hojin/010601/pdf/bessatsu.pdf",
+    "https://mitsukijapan.com/ma/column/professional-hair-cosmetics/",
+    "https://www.jetro.go.jp/ext_images/jetro/overseas/us_newyork/platform/report_202203.pdf",
+    "https://trade-king.biz/manufacuturer-profit-calc/"
+   ]
+  },
+  {
+   "query": "海外メーカーの日本窓口（販売代理人・手数料制） 許可 必要",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://cospalinks.com/column/overseas-distributor-agreement",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://pm-lawyer.com/20210825/",
+    "https://ebis.obda.or.jp/faq/1143",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "https://www.businesslawyers.jp/practices/990",
+    "https://www.fsa.go.jp/frtc/seika/discussion/2025/DP2025-1.pdf",
+    "https://a-zeim.jp/trade-company-agent-commission.html",
+    "https://little-link.jp/海外メーカーの日本代理店になる方法｜契約から/"
+   ]
+  },
+  {
+   "query": "海外メーカーの日本窓口（販売代理人・手数料制） 起業 立ち上げ 初受注",
+   "results": [
+    "https://ebis.obda.or.jp/faq/1143",
+    "https://solxia.co.jp/import-agency",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://sogyotecho.jp/dairiten-business/",
+    "https://biz.moneyforward.com/establish/basic/75669/",
+    "https://pm-lawyer.com/20210825/",
+    "https://joto-smeca.com/member-news/20241106kokusai/",
+    "https://utsunomiya-law.com/column/detail.php?id=0003",
+    "https://eifer.group/ja/column/japan-market-entry-support-tokyo"
+   ]
+  },
+  {
+   "query": "海外メーカーの日本窓口（販売代理人・手数料制） 営業方法 紹介 展示会",
+   "results": [
+    "https://www.digima-japan.com/knowhow/world/expert-ycp-group-00005.php",
+    "https://www.ppmj.com/column/",
+    "https://sales.dmsjp.co.jp/column/46",
+    "https://glocal-solutions.org/post-2049/",
+    "https://growth-dx.com/column/agency_system_column/",
+    "https://jp.vcube.com/eventdx/blog/exhibition-sales-agency",
+    "https://league-jp.com/service/international_exhibitions/",
+    "https://biznavi.smrj.go.jp/8877/",
+    "https://www.hakuten.co.jp/tex/knowledge/overseas-exhibition-guide",
+    "https://solxia.co.jp/blog/dokusen-hanbaiken-shutoku"
+   ]
+  },
+  {
+   "query": "海外メーカーの日本窓口（販売代理人・手数料制） 会社 売上 従業員 創業",
+   "results": [
+    "https://biz.moneyforward.com/establish/basic/75669/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://glohai.com/sales-channel-development",
+    "https://sogyotecho.jp/asiro/",
+    "https://www.y-itax.com/%E6%B6%88%E8%B2%BB%E7%A8%8E/7676/itakuhanbai-jyungaku",
+    "https://partnersuccess.jp/media/partner-insentive",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://note.com/8click/n/n2830b16a8056"
+   ]
+  },
+  {
+   "query": "site:note.com 海外メーカーの日本窓口（販売代理人・手数料制）",
+   "results": [
+    "https://note.com/8click/n/n2830b16a8056",
+    "https://note.com/threeplussix/n/n336f840813d0",
+    "https://note.com/soma_kaigai/n/ndd3a6e7a8a48",
+    "https://note.com/8maki/n/n703832607bd8",
+    "https://note.com/t_numano/n/ndf7f763f9787",
+    "https://note.com/nekota_toure/n/n3dc51e2f8b9b",
+    "https://note.com/obashige/n/na873daef1008",
+    "https://note.com/trans_n_ai/n/n5dc0fc053628",
+    "https://note.com/motohiro0215/n/nc921e116a4c8",
+    "https://note.com/mii_consul/n/nc2ecc848b625"
+   ]
+  },
+  {
+   "query": "site:x.com 海外メーカーの日本窓口（販売代理人・手数料制）",
+   "results": [
+    "https://x.com/morihiroaki/article/2113758236071645311",
+    "https://legal.x.com/content/dam/legal-twitter/twitter-purchaser-terms-of-service/x-purchaser-terms-2025-10-07/ja/x-purchaser-terms-2025-10-07.pdf",
+    "https://x.com/luigi_jpn/status/2115347987530678592",
+    "https://x.com/luigi_jpn/article/2091082601054523816",
+    "https://x.com/sinfo_insurance",
+    "https://x.com/official_nikkin",
+    "https://x.com/luigi_jpn/article/2058877178339791115",
+    "https://legal.x.com/ja/subscriptions-creator-terms.html",
+    "https://x.com/enspire_co_jp/status/2116204762723168661",
+    "https://legal.x.com/ja/purchaser-terms.html"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 海外メーカーの日本窓口（販売代理人・手数料制）",
+   "results": [
+    "https://jp.linkedin.com/in/glosperitydaisukekato",
+    "https://jp.linkedin.com/company/glosperity",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%B5%B7%E5%A4%96ec%E4%BA%8B%E6%A5%AD%E6%8B%85%E5%BD%93-%E5%A4%9A%E5%9B%BD%E7%B1%8D%E3%83%81%E3%83%BC%E3%83%A0-%E8%A1%A8%E5%8F%82%E9%81%93%E5%8B%A4%E5%8B%99%E3%80%91%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC%E3%81%A7%E6%B5%B7%E5%A4%96ec%E4%BA%8B%E6%A5%AD%E4%BD%9C%E3%82%8A-at-ci-flavors%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-4462911462",
+    "https://jp.linkedin.com/in/yuri-mizuyama-hays",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%B3%95%E4%BA%BA%E5%96%B6%E6%A5%AD%E7%B5%8C%E9%A8%93%E6%AD%93%E8%BF%8E%E3%80%91%E5%96%B6%E6%A5%AD%E4%BC%81%E7%94%BB%E2%97%86%E6%AE%8B%E6%A5%AD%E3%81%BB%E3%81%BC%E3%81%AA%E3%81%97%EF%BC%8F%E6%9C%89%E7%B5%A6%E5%8F%96%E5%BE%97%E7%8E%87%E3%81%BB%E3%81%BC100%25%EF%BC%8F%E5%B9%B4%E4%BC%91122%E6%97%A5%EF%BC%8F%E7%BE%8E%E5%AE%B9%E6%A5%AD%E7%95%8C%E5%A4%A7%E6%89%8B%E2%97%86-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4482724702",
+    "https://jp.linkedin.com/in/hideyuki-kojima-15a3a91a5",
+    "https://jp.linkedin.com/pulse/%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E5%B8%82%E5%A0%B4%E3%81%AE%E7%8F%BE%E7%8A%B6cagr-7520360637164666880-7nkse",
+    "https://jp.linkedin.com/in/%E5%AE%B6%E7%A6%8E-%E8%A8%B1-734326159",
+    "https://jp.linkedin.com/in/sugiharg",
+    "https://jp.linkedin.com/in/%E6%99%BA%E6%81%B5%E7%BE%8E-%E5%A2%97%E7%94%B0-935246189"
+   ]
+  },
+  {
+   "query": "site:facebook.com 海外メーカーの日本窓口（販売代理人・手数料制）",
+   "results": [
+    "https://www.facebook.com/fator.adv.br/",
+    "https://www.facebook.com/groups/542213632794283/posts/2921940381488251/",
+    "https://www.facebook.com/groups/1711236055771580/posts/4384370575124768/",
+    "https://www.facebook.com/a2network/",
+    "https://www.facebook.com/groups/jobmate/",
+    "https://www.facebook.com/groups/2331380300417020/posts/4674264282795265/",
+    "https://www.facebook.com/groups/941799485937364/posts/6355819051202020/",
+    "https://www.facebook.com/AkibajayaKL/photos/rm155/321783218501344/",
+    "https://www.facebook.com/oita.gyoseishoshi/posts/10%E6%9C%88%E3%81%AF%E8%A1%8C%E6%94%BF%E6%9B%B8%E5%A3%AB%E5%88%B6%E5%BA%A6%E5%BA%83%E5%A0%B1%E6%9C%88%E9%96%93%E5%A4%A7%E5%88%86%E7%9C%8C%E5%86%85%E5%90%84%E5%9C%B0%E3%81%A7%E8%A1%8C%E6%94%BF%E6%9B%B8%E5%A3%AB%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8F%E6%B4%BB%E5%8B%95%E3%82%92%E5%B1%95%E9%96%8B%E4%B8%AD%E3%81%A7%E3%81%99%E5%90%84%E5%9C%B0%E5%9F%9F%E3%81%A7%E5%AE%9A%E4%BE%8B%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E7%84%A1%E6%96%99%E7%9B%B8%E8%AB%87%E4%BC%9A%E3%81%AB%E5%8A%A0%E3%81%88%E5%A5%B3%E6%80%A7%E8%A1%8C%E6%94%BF%E6%9B%B8%E5%A3%AB%E3%81%AB%E3%82%88%E3%82%8B%E7%9B%B8%E8%AB%87%E4%BC%9A%E7%AD%89%E3%82%82%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE/122211326120446902/",
+    "https://www.facebook.com/AkibajayaKL/posts/notice-of-relocationhievery-onedue-to-whole-floor-of-it-centre-will-close-at-the/356464581699874/"
+   ]
+  },
+  {
+   "query": "海外メーカーの日本窓口（販売代理人・手数料制） note 社長",
+   "results": [
+    "https://note.com/8click/n/n2830b16a8056",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://note.com/kynovus/n/n44fa9f690e26",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://pm-lawyer.com/20210825/",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://www.businesslawyers.jp/practices/990",
+    "https://utsunomiya-law.com/column/detail.php?id=0003",
+    "https://x.com/i/status/1892848876299964644"
+   ]
+  },
+  {
+   "query": "海外メーカーの日本窓口（販売代理人・手数料制） X 投稿",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://pm-lawyer.com/20210825/",
+    "https://ebis.obda.or.jp/faq/1143",
+    "https://utsunomiya-law.com/column/detail.php?id=0003",
+    "https://joto-smeca.com/member-news/20241106kokusai/",
+    "https://www.higuchi-law.jp/columns/columns21/",
+    "https://a-zeim.jp/trade-company-agent-commission.html",
+    "https://drama.co.jp/news/column/5559/",
+    "https://x.com/narita_ko_/status/2116862833837343008"
+   ]
+  },
+  {
+   "query": "sales agent for foreign manufacturers Japan commission site:linkedin.com",
+   "results": [
+    "https://jp.linkedin.com/in/japanesedistributors",
+    "https://www.linkedin.com/in/japanbusiness",
+    "https://uk.linkedin.com/in/ryanmattock",
+    "https://www.linkedin.com/jobs/view/largest-sauce-company-in-japan-b2boutside-sales-rep-mandarin-language-needed-at-nippon-shokken-u-s-a-inc-4444231686",
+    "https://www.linkedin.com/company/manufacturersrepresentatives",
+    "https://www.linkedin.com/posts/kyoko_when-hq-says-find-a-pr-agency-in-japan-activity-7518103519749357568-gZH_",
+    "https://uk.linkedin.com/company/commission-only-sales-jobs",
+    "https://www.linkedin.com/pulse/differentiating-indenting-agent-vs-buyer-trader-uae-vat-corporate-ff4tf",
+    "https://ca.linkedin.com/jobs/commission-only-sales-jobs-greater-calgary-metropolitan-area",
+    "https://www.linkedin.com/posts/michael-rajesh-christie_hiring-from-overseas-for-roles-in-japan-activity-7403606881773981696-nUyH"
+   ]
+  }
+ ],
+ "missing": {
+  "顧客獲得単価": "記載なし（読んだ45頁・検索15回）",
+  "成約率・継続率": "記載なし（読んだ45頁・検索15回）"
+ }
+}

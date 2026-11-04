@@ -1,0 +1,2166 @@
+{
+ "name": "窯業・土石製品製造業",
+ "en": "ceramic stone clay products manufacturing Japan",
+ "aliases": [
+  "窯業",
+  "セラミックス 製造",
+  "ガラス 製造"
+ ],
+ "context": "製造業・素材",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:56:29.744913+00:00",
+ "evidence": {
+  "事業所数・従業者数（経済センサス等）": [
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計工業地区編 2-1 都道府県別、産業中分類別統計表（従業者４人以上の事業所） | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 平成24年経済センサス‐活動調査 事業所に関する集計 産業別集計 製造業に関する集計",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別、産業中分類別統計表（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者 4 人以上 の事業所 ）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業分類別事業所数 ・従業者数 ・製造品出荷額等 ・付加価値額 （従業者 4人以上 の事業所 ）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 概要 （従業者 4人以上 の事業所 ）（表1・2）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数 は9658 事業所 で、前年 に比べ1.1 ％の増加 となりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者数 は35 万732 人で、前年 に比べ2.4％減と3年連続 の減少 となりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１ 年次別事業所数 、従業者数 （従業者 4人以上 の事業所 ）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 平成 19年調査 において 、脱漏事業所及 び構内請負事業所 の捕捉作業 を行ったため 、平成 19年の",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 年次別製造品出荷額等 、付加価値額 （従業者 4人以上 の事業所 ）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 平成 19年調査 から 、調査項目 を追加 する 等、事業所全体 の経済活動 を対象 とした 調査 に変更 したため 、",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5 )全国 における 兵庫県 の工業 （従業者 4人以上 の事業所 ）（表3、図1・2）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る全国 の集計結果 は、事業所数 23 万3186 事業所 （対前年増減率 3.9 ％増） 、 従業者数",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．産業別の状況（全事業所） .............................................. 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 産業中分類別事業所数及び従業者数 .................................... 1",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．品目別の状況（全事業所） .............................................. 4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 品目別産出事業所数 .................................................. 4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査の概要 ...................................... 6",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．「令和3年経済センサス‐活動調査 産業別集計（製造業に関する集計）」（以下「産業",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は、製造業について「令和3年経済センサス‐活動調査」",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■E-1 産業（中分類）別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所）",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注）・令和6年の数値は総務省・経済産業省『２０２４年経済構造実態調査（製造業事業所調査）』の調査票情報を船橋市が独自で集計したものである",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・令和5年の数値は総務省・経済産業省『２０２３年経済構造実態調査（製造業事業所調査）』の調査票情報を船橋市が独自で集計したものである",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・令和4年の数値は総務省・経済産業省『２０２２年経済構造実態調査（製造業事業所調査）』の調査票情報を船橋市が独自で集計したものである",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９割を達成する範囲に含まれる事業所からの報告を基に全体を推計したものである",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・令和3年の数値は総務省・経済産業省『令和３年経済センサス‐活動調査』の製造業確報結果の調査票情報を船橋市が独自に集計したものである",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・令和2年以前は国に属する事業所以外の全ての事業所が対象である",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・生産額は、従業者29人以下の事業所については製造品出荷額+加工賃収入額の数値を生産額としている",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、令和3年分は従業者10人以上の事業所のみ集計している",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業の事業所規模５人以上の事業所におけ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・常用労働者 5 人以上の事業所が対象",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数が 1998 年には 373,713 事業所あったが、企業の",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "倒産や廃業等により 2017 年には 188,249 事業所と",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 215-１ 製造業に関する事業所数",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・資料：2011 年、2015 年は総務省・経済産業省「経済センサス‐活動調査」 、他は経済産業省「工業統計調査」",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "215-１でみたように事業所数が半減していること",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※従業者３人以下の事業所は含まない",
+    "url": "https://www.city.mizunami.lg.jp/_res/projects/default_project/_page_/001/003/279/201702_toukei4-3yougyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（平成20年は従業者３人以下の事業所も含む",
+    "url": "https://www.city.mizunami.lg.jp/_res/projects/default_project/_page_/001/003/279/201702_toukei4-3yougyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業数 42社",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "非上場企業数 11,881社",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総務省：「平成26年経済センサス-基礎調査」",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２４年の強化ガラス出荷額は９０６億円（経済構造実態調査）",
+    "url": "https://www.nikkei.com/nkd/industry/trend/?n_m_code=025",
+    "pass": 3
+   },
+   {
+    "quote": "２４年の特殊炭素製品出荷額は７２０億円、人造黒鉛電極４６０億円、カーボンブラック１４６９億円（経済構造実態調査）",
+    "url": "https://www.nikkei.com/nkd/industry/trend/?n_m_code=025",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数・従業者数は、その年の 12 月末の数",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "令和 2 年（2020 年）までは従業者 4 人以上の事業所、令和 3 年（2021 年）からは全事業所（個人経営を除く",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "1985 年: 昭和 60 年から事業所の範囲が従業者 4 人以上にそろい、「飲料・たばこ・飼料」が食料品から分かれた",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "2021 年: 令和 3 年から経済構造実態調査（全事業所・個人経営を除く）",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省統計局「日本の長期統計系列」表 8-6（原資料: 経済産業省「工業統計調査（産業編）」）",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 4 人以上（1963〜1976 年は全事業所",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "単位: 金額は億円、従業者数は千人にそろえた（原表は 1984 年以前が億円・人、1985 年以降が 10 億円・千人）",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "１事業所当たり電力利用額/年",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "１事業所当たり都市ガス利用額/年",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "総売上高 16 兆 7,641 億円 上場企業数 54 社 非上場企業数 13,140 社",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "総務省統計局：「平成 30 年経済センサス」",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   }
+  ],
+  "需要が増えるか": [
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 構成比",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 従業者1人当たり金額",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 産業別特化係数",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等の都道府県別順位",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "pass": 3
+   },
+   {
+    "quote": "産業分類別事業所数 ・従業者数 ・製造品出荷額等 ・付加価値額 （従業者 4人以上 の事業所 ）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数 は9658 事業所 で、前年 に比べ1.1 ％の増加 となりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 製造品出荷額 等は14 兆3574 億円 で、前年 に比べ1.2 ％増と２年連続 の増加 なりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 年次別製造品出荷額等 、付加価値額 （従業者 4人以上 の事業所 ）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「製造品出荷額等 」及び「付加 価値額 」は、平成 18年以前 の数値 とは 接続 しません",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "747 万2111 人（▲2.6 ％） 、 製造品出荷額等 284 兆968 8億円 （▲1.4 ％） 、付加価値額 91",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 各都道府県 の状況 をみ ると 、事業所数 は兵庫県 を含む39 都道府県 で増加 し、８県",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 は12 県で増加 し、兵庫県 を含む35 道府県 で減少 してい",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 は兵庫県 を含む22 都道府県 で増加 し、それ 以外 は減少 してい",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額 は28 都府県 で増加 し、兵庫県 を含む19 道県 で減少 しています",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で第6位、製造品出荷額等 が5.0 ％で第5位、付加価値額 が5. 0％で第5位となっていま",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エ 兵庫県 の産業構成 を製造品出荷額等 の特化係数 でみると 、最も高い産業 は、なめ",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・製造品目別に出荷額が得られた事業所であること",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よる調査分を含んだ集計結果であるのに対し、製造品出荷額等、品目別出荷金額、付加",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果のうち、製造品出荷額等、品目別出荷金額、付加価値額については、表示年",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（製造品出荷額等、品⽬別出荷⾦額、 付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "－ 製造品出荷額等と付加価値額が最も多いのは共に輸送用機械器具製造業 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（60 兆 2308",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 表 産業中分類別製造品出荷額等及び付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■E-1 産業（中分類）別事業所数、従業者数、製造品出荷額等（従業者4人以上の事業所）",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産額 減価 償却額 投資総額合計 製造品出荷額 加工賃収入額 その他収入額 付加価値額",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・調査票情報は各分類ごとに売上高（製造品出荷額等）を上位から累積し、当該分類に係る売上高（製造品出荷額等）総額の",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・現金給与総額、製造品出荷額等などの経理事項については前年1月～12月の実績により調査している",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・生産額は、従業者29人以下の事業所については製造品出荷額+加工賃収入額の数値を生産額としている",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■E-2 産業3類型別及び重化学工業・軽工業別事業所数、従業者数及び製造品出荷額等（従業者4人以上の事業所）",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "和暦 事業所数・従業者数・製造品出荷額等 総数A 基礎素材型産業 加工組立型産業 生活関連・その他型産業 総数B 重化学工業 軽工業",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和2年 製造品 出荷額等 67,788,623 X X 40,632,319 67,788,623 X X",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年 製造品 出荷額等 69,626,789 X X 42,082,295 69,626,789 X X",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和4年 製造品 出荷額等 73,306,136 X X 43,253,366 73,306,136 X X",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和5年 製造品 出荷額等 79,022,135 X X 49,072,286 79,022,135 X X",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界各国では今、新型コロナウイルスの感染拡大に",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、感染拡大防",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "チェーンの寸断を受けての国内回帰や感染拡大から生",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウイルスの感染拡大がつきつける課題にどの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "え、我が国の経済成長を支える原動力は「人」で",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の経済が成長していくためには、女性、高齢者など、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新型コロナウイルス感染症拡大など不確実性が高",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１ 成長戦略実行計画（2019 年６月 21 日閣議決定）では、経済成長を支える原動力は「人」であるとの考えの下、数多くの施策を実行",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月に続き増加している（図 211-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を、需要不足失業率と均衡失業率に分けてそれぞれの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動向をみると、需要不足失業率については、2009 年",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "需要不足失業率",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する窯業・土石製品卸 ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する窯業・土石製品卸 ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "AIによる\"2030年\"の市場規模予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "堅調な成長 3.89兆円（現在）→3.98兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   }
+  ],
+  "大手プラットフォームの有無": [
+   {
+    "quote": "e-Statは、日本の統計が閲覧できる政府統計ポータルサイトです",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "pass": 3
+   },
+   {
+    "quote": "ある製品・サービス分野で国際的に高いシェアを持っている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "狭い市場で高いシェアを誇っている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主に大手空調機器メーカーから、部品などの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、押谷社長はこうした問題を解決しようと、受発注と連携して現場に情報を流す「進捗管理シス",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、暖房機器や加湿器は、季節商品であるため冬季に需要が高くなり、天候によっても受発注が",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ス部門は国内トップシェアを誇る",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受発注から製造ラインの稼働状況、機械トラブルや保全状況などを一元的に管理するこ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "続きにおいてもデジタル化したことで、受発注の管理や経理処理などのデータ入力作業や確認作業などが",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "窯業・土石製品卸 主要企業シェアランキング 大阪広域生コンクリート協同組合・太平洋セメント販売株式会社・三谷商事株式会社等",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、経済予測プラットフォーム「xenoBrain」によるAI予測の一部を抜粋し、同プラットフォームを運営する株式会社xenodata lab.のマーケティングチームが作成・編集したものです",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "- 国内マーケットシェア",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "経済予測プラットフォーム『xenoBrain』を提供するAIスタートアップです",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "xenodata lab.は、独自の言語生成モデルや予測モデルを基に、経済予測プラットフォーム『xenoBrain』を提供するAIスタートアップです",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大手金融機関や、大学系ベンチャーキャピタル等から出資を受ける、AIスタートアップ企業です",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "本ページの予測の提供元サービスである、経済予測プラットフォーム『xenoBrain』について詳細な資料をダウンロードできます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "国内においては大手企業の寡占状態となっており、上位",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大規模なプラントが必要となるため、国内においては大手企業のみが生産を行っている",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業用品では、大手メーカーも供給者となっており、特に衛生陶器製造業では、ＴＯＴＯとＬＩＸＩＬの大",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "手２社による寡占化が進んでいる",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大手のセメント会社が生産したセメントは、全国に約1,500社ある販売会社（専門商社など）を経由し",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、最終製品の販売先は、大手ゼネコンなどの工事業者であり、自社よりも規",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大手ゼネコン",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業 全国約 1 ,500社",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こうした状況の中、大手のセメント各社は製造コストの削減や、物流の合理化、合",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス製品製造業においては、大手メーカー系列下での下請け受注生産か、自社製品主体の見",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカーの系列であれば、受注は比較的安定しており、グループとしての信用力も考慮すること",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業中心のセメント製造業者に比べ、生コンやコンクリート製品製造業者は、中小零細企業が",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で、ガラス・セメント・衛生陶器の各分野の大手が名を連ねる",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向け電力の一括見積",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス製品製造業は、製品別に「板ガラス製造業」、「ガラス製品製造業」、「ガラス繊維製造業」の３つに区分され、板ガラス製造業のシェアが最も大きい",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "国内においては大手企業の寡占状態となっており、上位５社（ＡＧＣ、日本板硝子、ＨＯＹＡ、日本電気硝子、セントラル硝子）で業界売上高全体の約９割を占めている",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "セメント製造には、大規模なプラントが必要となるため、国内においては大手企業のみが生産を行っている",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "産業用品では、大手メーカーも供給者となっており、特に衛生陶器製造業では、ＴＯＴＯとＬＩＸＩＬの大手２社による寡占化が進んでいる",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "大手のセメント会社が生産したセメントは、全国に約 1,500 社ある販売会社（専門商社など）を経由して、 生コン製造会社やコンクリート製品製造会社に販売される",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "また、最終製品の販売先は、大手ゼネコンなどの建設会社であり、自社よりも規模の大きいケースが多いことから、条件交渉の面で不利になりやすい",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス業界全体でみると、国内市場は減少傾向にある中、大手企業は生き残りのため、世界的な規模でのＭ＆Ａを活発化させている",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "セメントの出荷先は 70％以上が国内向けであり、大手のセメント製造会社各社は製造コストの削減や物流の合理化、合併などの業界再編によって、生き残りを図っている",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "販売先において、自社との取引シェアが高くなり過ぎると、自社が取引から撤退することが困難となる恐れがある",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、取引先の信用力（格付）に応じて取引シェアに上限を設けるべく、取引先が抱える買掛債務額の一定割合を売込限度額として設定する方法が考えられる",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス製品製造業においては、大手メーカー系列下での下請受注生産か、自社製品主体の見込生産であるかの把握が必要である",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカーの系列であれば、受注は比較的安定しており、グループとしての信用力も考慮することができ る",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向けAIプラットフォーム「ArchAIve」",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   },
+   {
+    "quote": "ARCHAIVE｜製造業DXを実現するAI図面検索・見積プラットフォーム",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   },
+   {
+    "quote": "ARCHAIVEは製造業DXを加速させるAIプラットフォームです",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   },
+   {
+    "quote": "現在、ArchAIveはデータ管理の基盤として、生産管理や顧客管理機能への拡張も進めており、将来的には窯業の業務フロー全体をArchAIve上で一貫して管理できるプラットフォームとなることを目指しています",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   }
+  ],
+  "取引のやり方・不便": [
+   {
+    "quote": "14パルプ・紙・紙加工品製造業",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "pass": 3
+   },
+   {
+    "quote": "前年 に比べ増加 したのは 情報通信機器 （7.5 ％増） 、 その 他（6.6 ％増）、パルプ ・紙（4.4 ％",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減少率 の大きい 順に、なめし 革・同製品 （▲9.9％） 、 印刷 （▲8.2 ％） 、 ﾊﾟﾙﾌ ﾟ ・ 紙 （▲5.8％）",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1421 洋紙・機械すき和紙製造業 1421 洋紙製造業",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1423 機械すき和紙製造業",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 紙パ 26 生産用機械器具製造業 生産",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 5,927 2.7 181,090 2.4",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 パルプ・紙・紙加工品製造業 71,245 2.3 22,455 2.3",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "－ 産出事業所数が最も多い品目は「オフセット印刷物（紙に対するもの）」 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 151111 オフセット印刷物（紙に対するもの) 8,414 東京 大阪 愛知",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "22 151311 紙以外のものに対する印刷物 1,673 東京 大阪 埼玉",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・石炭製品の「ガソリン」（4 兆 1638 億円）、印刷・同関連品の「オフセット印刷物（紙に対",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 151111 オフセット印刷物（紙に対するもの) 2,602,796 東京 埼玉 大阪",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 名称及び電話番号",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年 14パルプ・紙 3 1 2 - 172 141 31 - - 86,348",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年 14パルプ・紙 686,172 951,699 873,066 - 78,633 874,045 170,581 X X",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・基礎素材型産業： 木材・木製品、パルプ・紙、化学、石油・石炭、プラスチック、ゴム、窯業・土石、鉄鋼、非鉄、金属製品",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "軽工業： 食料品、飲料・たばこ、繊維、木材・木製品、家具・装備品、パルプ・紙、印刷、プラスチック、",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年 14パルプ・紙 2 X X X X X - -",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "和暦 事業所数・従業者数・製造品出荷額等 計 09 食料品 10 飲料・たばこ 11 繊維 12 木材・木製品 13 家具・装備品 14 パルプ・紙",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "育成の取組を紹介する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コミュニティカレッジのあるランシング市には職業訓練のあっせんと職業紹介を行う組織、ミシガ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業訓練と職業紹介を実施するにあたり、地元企業のニーズを頻繁に、そして徹底",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "優秀な外注先企業群を育成している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の取組などについて紹介する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また納品書や作業指示は、 紙面のやりとりで行っていたため、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組立ラインの検査には、従来紙のチェックシートを用いて品質チェックを行っていたが、現在ではタブ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本ページでご紹介している分析結果は、有料版レポートのダイジェスト版です",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "部署別の事例紹介",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "製紙・紙製品",
+    "url": "https://www.nikkei.com/nkd/industry/trend/?n_m_code=025",
+    "pass": 3
+   },
+   {
+    "quote": "繊維・化学・製紙卸",
+    "url": "https://www.nikkei.com/nkd/industry/trend/?n_m_code=025",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介・人材派遣",
+    "url": "https://www.nikkei.com/nkd/industry/trend/?n_m_code=025",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/industry/trend/?n_m_code=025",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/industry/trend/?n_m_code=025",
+    "pass": 3
+   },
+   {
+    "quote": "（できる限りSNSへの投稿ではなく、飲み会や、社内 Slack・Teams など、リアルな口コミでご紹介いただけますと大変嬉しく存じます",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "【個人/ご家庭】おススメ電力会社ご紹介：",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "主任技術者の紹介",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人の自己紹介は固定記事から🔍",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "ノウハウの属人化：",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、属人化を解消し、若手技術者の育成を加速します",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   }
+  ],
+  "増減・推移": [
+   {
+    "quote": "(1) 事業所数 は9658 事業所 で、前年 に比べ1.1 ％の増加 となりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者数 は35 万732 人で、前年 に比べ2.4％減と3年連続 の減少 となりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 製造品出荷額 等は14 兆3574 億円 で、前年 に比べ1.2 ％増と２年連続 の増加 なりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 付加 価値額 は4兆5766 億円 で、前年 に比べ1.9 ％の減少 となりました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「事業所数 」及び「従業者数 」の対前年増減率 は、当該捕捉事業所 を除いて 算出 してい ます",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る全国 の集計結果 は、事業所数 23 万3186 事業所 （対前年増減率 3.9 ％増） 、 従業者数",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 各都道府県 の状況 をみ ると 、事業所数 は兵庫県 を含む39 都道府県 で増加 し、８県",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で減少 しています",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数 は12 県で増加 し、兵庫県 を含む35 道府県 で減少 してい",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 は兵庫県 を含む22 都道府県 で増加 し、それ 以外 は減少 してい",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額 は28 都府県 で増加 し、兵庫県 を含む19 道県 で減少 しています",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 は9658 事業所 で、前年 に比べ103 事業所 、1.1％増加 しました",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 建設仮勘定の増加額及び減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増加額とは、この勘定の借方に加えられた額をいい、減少額とは、この勘定から他の勘定に",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 有形固定資産の除却・売却による減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 年末現在高＝年初現在高＋取得額－除却・売却による減少額－減価償却額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 建設仮勘定の年間増減＝増加額－減少額",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウ 投資総額＝取得額＋建設仮勘定の年間増減",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "和暦 減価償却額Ｄ 建設仮勘定の増減Ｆ 投資総額（Ｂ＋Ｆ）Ｇ 純投資額（Ｇ－Ｃ）Ｈ 有形固定資産年末現在高",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■E-6 産業（中分類）別事業所数、従業者数及び製造品出荷額等の推移（従業者4人以上の事業所）",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "伴い、休業や生産の減少に伴う人員調整や経営の悪化",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後、人口減少や高齢化が進む中で、日本",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、 2019年は2.2％～2.5％で推移し、 年平均で2.4％",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "364 万人を記録した後、以降は次第に減少し、2019",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年 12 月には 152 万人となり減少傾向で推移してい",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月に続き増加している（図 211-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-２ 構造的・摩擦的失業率、需要不足失業率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-１ 完全失業率（季節調整値）及び完全失業者数（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-３ 有効求人倍率（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-４ 職業別の有効求人倍率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たことから、求人数の減少を通じて有効求人倍率が低",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前月につづいて減少している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する窯業・土石製品卸 ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する窯業・土石製品卸 ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "インフラ老朽化や地震対策需要の増加を背景にを背景に、市場は今後堅調な成長が予想されます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "プラス要因である社会・その他の具体的な要因は、インフラ・建築物老朽化進行や地震対策需要増加、インバウンド需要増加と予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "マイナス要因である少子高齢化の具体的な要因は、生産年齢人口減少（日本）や少子化（日本）、出産件数減少と予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "中国の生産者物価指数、3月は前年比-2.5% 下落幅拡大でデフレ圧力続く",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "中国の消費者物価、3月は前年比-0.1％ 下落幅は縮小もデフレ基調継続",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "窯業・土石製品製造業の推移",
+    "url": "https://www.city.mizunami.lg.jp/_res/projects/default_project/_page_/001/003/279/201702_toukei4-3yougyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス業界全体で見ると、国内市場は減少傾向にある",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セメント需要の推移",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、装置産業であることから設備投資を継続して行う必要があり、金融機関からの借入が増加し",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "窯業・土石業界の市場規模の推移 | 1948〜2024年",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "窯業・土石業界の市場規模の推移",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "滋賀高月にCRT工場新設",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "電力購入量の推移",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "都市ガス購入量の推移",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "販売量増加率ランキング(前年比)",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "系統用蓄電池、接続検討が3年で約42倍 2022年度約600件→2025年度約2万5,000件、低圧にも増加抑制対策の可能性",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス業界全体でみると、国内市場は減少傾向にある中、大手企業は生き残りのため、世界的な規模でのＭ＆Ａを活発化させている",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "また、装置産業であることから設備投資を継続して行う必要があり、金融機関からの借入が増加しやすいため、借入依存度は製造業全体よりもやや高い水準にある",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   }
+  ],
+  "払う単価の手がかり": [
+   {
+    "quote": "(2) 従業者 1人当 たりの 現金給与総額 をみると 、製造業 の平均 は470 万円 で、前年 に比べ2.4％",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業分類別 では 、 最も多いのは 鉄鋼 で654 万円 、次いで はん 用機械 634 万円 、情報通信機",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "械621 万円 、石油 ・石炭製品 570 万円 の順となり 、平均 を上回 ったのは 12 産業 です",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 産業分類別 の年間増減比 をみると 、増加 したのは 、石油 ・石炭製品 （47 .4％増） 、 情報",
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：出荷金額の調査期間については、令和2年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（百万円） 第１位 第２位 第３位",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 3 年経済センサス‐活動調査は、全産業分野の売上（収入）金額や費用などの経理項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コ 企業全体の売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コ 売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 年間商品販売額等",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 物品賃貸業のレンタル年間売上高及びリース年間契約高",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キ 企業全体の売上（収入）金額、費用総額及び費用項目",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "単位：金額万円 各年6月1日現在",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "計 原材料使用額 燃料使用額 電力使用額 委託生産費 関連外注費 転売仕入額 計 製造品 半製品及び仕掛品",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "和暦 事業所数 有形固定資産年初現在高 有形固定資産取得額（年間）",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・淡水の1日当たりの水源別用水量とは、1年間に事業所で使用した工業用水の総量を",
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間で 11.6％減少しており、全産業に占める製造",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と、５年間で約 1.6 倍となっており、産業全体にお",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本の平均年間総実労働時間（就業者）を",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 214-４ 一人当たり平均年間総実労働時間推移の国際比較（全就業者）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20 年間で約 50％減少している（図 215-１）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "について、過去 20 年間の推移をみていくと、非製造",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "く、2018 年においては、全産業 794.3 万円、非製",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造業 740.9 万円に対し、製造業は 1,094 万円となっ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（万円/人）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AI やデジタル化は同じような作業を膨大に繰り返すようなものでなければ、費用対効果",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "かかる予算の不足」 と回答した企業割合が高い",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "果たすことのできる人材の確保・育成のための予算の不足",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "窯業・土石製品卸 AIによる市場規模予測 5年間で2.36%の成長",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "今後 5年間で2.36% 成長し3兆9,821億円に達すると予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で窯業・土石製品卸に影響する市場環境の変化を8つのカテゴリーに分類すると、プラス要因としては社会・その他、一方マイナス要因としては少子高齢化の影響が大きいと予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "人 万円 人 万円 人 万円 人 万円 人 万円",
+    "url": "https://www.city.mizunami.lg.jp/_res/projects/default_project/_page_/001/003/279/201702_toukei4-3yougyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模＝国内の窯業・土石製品の工場が 1 年間（1〜12 月）に出荷した製品の金額の合計",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数,従業者数及び製造品在庫額は12月31日現在，その他は年間",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "各国の電気/ガス料金単価",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "回避可能費用",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "燃料費調整単価",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "年会費・登録費は無料で、ご利用にあたって費用はかかりません",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "売上高100万円当たり電力利用額",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "売上高100万円当たり都市ガス利用額",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "電力平均販売単価",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "回避可能単価",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   },
+   {
+    "quote": "ガス平均販売単価",
+    "url": "https://pps-net.org/industryenergy/71438",
+    "pass": 3
+   }
+  ],
+  "働き手が減るか（人手不足）": [
+   {
+    "quote": "今後、人口減少や高齢化が進む中で、日本",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "鈍いことから、欠員と失業が併存する不均衡が続いて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-３ 有効求人倍率（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-４ 職業別の有効求人倍率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（季節調整値）は上昇し 2018 年８",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たことから、求人数の減少を通じて有効求人倍率が低",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別に有効求人倍率",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "をみると、生産工程の職業の有効求人倍率は、職業計",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業で、人手不足感がみられる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年第３四半期にマイナス 1.8 と人手不足感に転じて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）就業者数及び雇用者の動向",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業就業者数については、2002年の",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で窯業・土石製品卸に影響する市場環境の変化を8つのカテゴリーに分類すると、プラス要因としては社会・その他、一方マイナス要因としては少子高齢化の影響が大きいと予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "マイナス要因である少子高齢化の具体的な要因は、生産年齢人口減少（日本）や少子化（日本）、出産件数減少と予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "地域経済の景気動向に依存しがちであり、人手不足もあって厳しい状況が続いている",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、財務体力に乏しいコンクリート製品製造会社は、地域経済の景気動向に依存しがちであり、人手不足もあって厳しい状況が続いている",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AIが予測する 窯業 ・ 土石製品 卸 ｜2030年 市場規模推移 と主要 ... — AIが予測する 窯業 ・ 土石製品 卸 ｜2030年 市場規模推移 と主要 ... xenoBrain https://service.xenobrain.jp > forecastresults > market-size",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポート 窯業 ・ 土石製品製造業 - リスクモンスター — 業界レポート 窯業 ・ 土石製品製造業 - リスクモンスター リスクモンスター株式会社 PDF https://www.riskmonster.co.jp > industryreport201802",
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "窯業 ・ 土石業界 の 市場規模 の 推移 | 1948〜2024年 - The社史 — 窯業 ・ 土石業界 の 市場規模 の 推移 | 1948〜2024年 - The社史 The社史 https://the-shashi.com > 業界別市場規模",
+    "url": "https://the-shashi.com/market/ceramics/",
+    "pass": 3
+   },
+   {
+    "quote": "日本標準産業分類(令和5年[2023年]7月改定) 製造業 窯業 ... — 日本標準産業分類(令和5年[2023年]7月改定) 製造業 窯業 ... 政府統計の総合窓口 https://www.e-stat.go.jp > classifications > terms",
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/2199",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "業界レポート 窯業 ・ 土石製品製造業 ｜佐々木正人 - note 業界レポート 窯業 ・ 土石製品製造業 ｜佐々木正人 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "【 窯業 ・ 土石製品製造業 必見】燃焼効率20%向上も夢じゃない ... 【 窯業 ・ 土石製品製造業 必見】燃焼効率20%向上も夢じゃない ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "業界レポート 窯業・土石製品製造業｜佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木正人｜企業リスクのコンサルタント【ビジネスコラム書いてます】",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "の心臓部であり、格付などの与信指標を生産・保守を行う「データ工場」が集計・分析しており、業界ごとの市場概要や業界動向、与信管理のポイントなどをまとめたレポートです。",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "特に記事についてのコメント頂けると、今後の記事作成の励みになります。",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "◉仕事に役立つセミナー情報を発信◉メルマガのご案内",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "‣ 板ガラス、ガラス容器、理化学用・医療用ガラス器具等",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "‣ セメント、生コンクリート（生コン）、コンクリート製品等",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "‣ 陶磁器・同関連製品、建設用粘土製品、耐火物、炭素・黒鉛製品、研磨材等",
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "pass": 3
+   },
+   {
+    "quote": "【窯業・土石製品製造業必見】燃焼効率20%向上も夢じゃない！窯業の「エネルギー問題」を解決するスマート化戦略｜製造DXの教科書 | ARCHAIVE",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   },
+   {
+    "quote": "【窯業・土石製品製造業必見】燃焼効率20%向上も夢じゃない！窯業の「エネルギー問題」を解決するスマート化戦略",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   },
+   {
+    "quote": "1. 窯業・土石製品製造業が直面する「エネルギー問題」と「品質の壁」",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   },
+   {
+    "quote": "2. 「エネルギー問題」を解決するスマート化戦略",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   },
+   {
+    "quote": "3. スマート化を支えるデータマネジメント：図面・仕様情報の役割",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向けAIプラットフォーム「ArchAIve」",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   },
+   {
+    "quote": "4. 窯業のスマート化を成功させるためのポイント",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   },
+   {
+    "quote": "燃焼効率向上と品質安定化、AIで実現しませんか？",
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.biznet.co.jp/column/1538/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.city.mizunami.lg.jp/_res/projects/default_project/_page_/001/003/279/201702_toukei4-3yougyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/industry/trend/?n_m_code=025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/market/ceramics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkinonline.com/article/329758",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ecnomikata.com/ecnews/marketing/48265/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mallento.com/recommend/manufacturing-matching-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monotown-kadoma.jp/matching-site",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platto.technoa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liskul.com/manufacturing-matching-site-37343",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usknet.com/jirei/takayama/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekai-c.jp/column/3959/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.birds.co.jp/wp-content/themes/birds/pdf/improvement_case01.pdf?20240125",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/240422.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.umsaascloud.jp/blog/fax/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pps-net.org/industryenergy/71438",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/1906xx/kaisei/1906/pdf/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gifu-keiri.com/news/news-13043/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesdock.jp/blog/manufacturing-cost-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/877/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rm_sasaki/n/n42019d99724f",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "窯業・土石製品製造業 事業所数 従業者数 経済センサス",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003389791",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/23chosa-gaiyo1.pdf",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf",
+    "https://www.city.funabashi.lg.jp/shisei/toukei/002/p146613_d/fil/14E.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://prdurbanosichapp1.blob.core.windows.net/common-article/602377bbece4651c88c187a5/2019toukeisho_069-073.pdf",
+    "https://uub.jp/pdr/id/ceramics.html",
+    "https://www.city.oyama.tochigi.jp/data/doc/1695628836_doc_14_0.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200553&lid=000001176893&result_page=1&statdisp_id=0004005649",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "窯業・土石製品製造業 人手不足 有効求人倍率",
+   "results": [
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://www2.biznet.co.jp/column/1538/",
+    "https://www.jinzaiplus.jp/posts/230",
+    "https://www.jmam.co.jp/hrm/column/0136-manufacturing.html",
+    "https://danbo-ru.ntp-k.co.jp/column/improve/detail54",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio"
+   ]
+  },
+  {
+   "query": "窯業・土石製品製造業 市場規模 推移",
+   "results": [
+    "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "https://www.city.mizunami.lg.jp/_res/projects/default_project/_page_/001/003/279/201702_toukei4-3yougyo.pdf",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport201802.pdf",
+    "https://www.nikkei.com/nkd/industry/trend/?n_m_code=025",
+    "https://the-shashi.com/market/ceramics/",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2199",
+    "https://uub.jp/pdr/id/ceramics.html",
+    "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-manufacturer",
+    "https://monoscope-media.com/ceramics-market/",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport2024_1.pdf"
+   ]
+  },
+  {
+   "query": "窯業・土石製品製造業 休廃業 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/industry/20260109-kyuhaigyo25y/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b1_2_1_3.html",
+    "https://www.tsr-net.co.jp/data/detail/1202284_1527.html",
+    "https://www.nikkinonline.com/article/329758",
+    "https://www.city.mizunami.lg.jp/_res/projects/default_project/_page_/001/003/279/201702_toukei4-3yougyo.pdf",
+    "https://ecnomikata.com/ecnews/marketing/48265/",
+    "https://www.ryutsuu.biz/strategy/n011912.html",
+    "https://process.uchida-it.co.jp/itnavi/column/20220520/",
+    "https://www.nikoukei.co.jp/news/detail/280493",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/shokibo/b1_1_7.html"
+   ]
+  },
+  {
+   "query": "窯業・土石製品製造業 マッチング プラットフォーム",
+   "results": [
+    "https://mallento.com/recommend/manufacturing-matching-services/",
+    "https://monotown-kadoma.jp/matching-site",
+    "https://platto.technoa.co.jp/",
+    "https://liskul.com/manufacturing-matching-site-37343",
+    "https://onlystory.co.jp/service/column/buz-matching-manufacturing-industry/",
+    "https://techport.co.jp/archives/40636",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/metal-processing/metalprocessing/",
+    "https://www.techs-s.com/media/show/331",
+    "https://mitsu-ri.net/"
+   ]
+  },
+  {
+   "query": "窯業・土石製品製造業 受発注 課題 電話 FAX",
+   "results": [
+    "https://www.usknet.com/jirei/takayama/",
+    "https://sekai-c.jp/column/3959/",
+    "https://www.birds.co.jp/wp-content/themes/birds/pdf/improvement_case01.pdf?20240125",
+    "https://www.otsuka-shokai.co.jp/erpnavi/category/manufacturing/sp/solving-problems/archive/240422.html",
+    "https://www.umsaascloud.jp/blog/fax/",
+    "https://boxil.jp/mag/a8834/",
+    "https://digital-salvage.co.jp/column/manufacturing-order-ec-transition/",
+    "https://prtimes.jp/main/html/rd/p/000000039.000153035.html",
+    "https://www.kktisc.co.jp/column/7201/",
+    "https://www.ecbeing.net/b2b/solution/"
+   ]
+  },
+  {
+   "query": "窯業・土石製品製造業 外注 費用 相場",
+   "results": [
+    "https://pps-net.org/industryenergy/71438",
+    "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/1906xx/kaisei/1906/pdf/04.pdf",
+    "https://gifu-keiri.com/news/news-13043/",
+    "https://www.salesdock.jp/blog/manufacturing-cost-ratio",
+    "https://factoryadvance.jp/blog/877/",
+    "https://ilink-corp.co.jp/9552.html",
+    "https://www.agency-assist.co.jp/column/13821/",
+    "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "https://smartf-nexta.com/archives/10737",
+    "https://gaichubase.com/2026/05/04/【2026版】外注単価一覧で最適価格を選ぶ！業種別/"
+   ]
+  },
+  {
+   "query": "site:note.com 窯業・土石製品製造業",
+   "results": [
+    "https://note.com/rm_sasaki/n/n42019d99724f",
+    "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "https://note.com/kokonoe_cluture/n/n8fb5a5e1df84",
+    "https://note.com/happy_happy_work/n/n0fe54a68ef1b",
+    "https://note.com/wikidaruma/n/n7ca20daef453",
+    "https://note.com/resas_data/n/nbe8329992cb6",
+    "https://note.com/iceman_23/n/n92286ebca2cf",
+    "https://note.com/fancy_camel1678/n/n509351d17b90",
+    "https://note.com/rm_sasaki/n/n07fca71c2062"
+   ]
+  },
+  {
+   "query": "site:x.com 窯業・土石製品製造業",
+   "results": [
+    "https://x.com/PRTIMES_SPORTS/status/1915226504235274261",
+    "https://x.com/w_city_sangyo/status/834553636260700160",
+    "https://x.com/industryJapan/status/2057222202240725053",
+    "https://x.com/kyowa_me",
+    "https://x.com/koubafes/status/2100033174638039131",
+    "https://x.com/yshin23shindan/status/2107599298255094223",
+    "https://x.com/PRTIMES_BIZ/status/2056934900830515336",
+    "https://x.com/koubafes/status/2101481468211945616",
+    "https://x.com/koubafes/status/2097862622372675998",
+    "https://x.com/koubafes/status/2096769167596618002"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 窯業・土石製品製造業",
+   "results": [
+    "https://jp.linkedin.com/company/senju-metal-industry-co-ltd-",
+    "https://jp.linkedin.com/company/jx-advanced-metals",
+    "https://jp.linkedin.com/company/proterial-ltd",
+    "https://jp.linkedin.com/company/aurubis/life",
+    "https://jp.linkedin.com/company/constellium?trk=public_profile_experience-item_profile-section-card_image-click",
+    "https://jp.linkedin.com/company/wielandgroup/jobs",
+    "https://jp.linkedin.com/company/vacuumschmelze",
+    "https://www.linkedin.com/help/recruiter/answer/a1421501/recruiter-talent-insights-?lang=ja",
+    "https://jp.linkedin.com/company/voestalpine-roll-forming-corporation/?trk=organization-update_share-update_actor-text",
+    "https://jp.linkedin.com/in/智久-長島-920678309"
+   ]
+  },
+  {
+   "query": "site:facebook.com 窯業・土石製品製造業",
+   "results": [
+    "https://www.facebook.com/groups/569253743820290/posts/2455073355238310/",
+    "https://www.facebook.com/vietnamtechnicalinterntrainee/posts/2024725%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E5%B7%A5%E6%A5%AD%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A07%E6%9C%8819%E6%97%A5%E4%BB%98%E3%81%A7%E3%83%91%E3%83%96%E3%82%B3%E3%83%A1%E3%81%8C%E5%87%BA%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E7%B4%A0%E5%BD%A2%E6%9D%90%E7%94%A3%E6%A5%AD%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E9%9B%BB%E5%AD%90%E6%83%85%E5%A0%B1%E9%96%A2%E9%80%A3%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%88%86%E9%87%8E%E5%B7%A5%E6%A5%AD%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%88%86%E9%87%8E%E3%81%B8%E6%A5%AD%E5%8B%99%E5%8C%BA%E5%88%86%E8%BF%BD%E5%8A%A0%E7%B4%99%E5%99%A8%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB%E7%AE%B1%E8%A3%BD%E9%80%A0%E3%82%B3/1011798340953457/",
+    "https://www.facebook.com/groups/1498732524255638/posts/2285559322239617/",
+    "https://www.facebook.com/groups/305543700405223/posts/2030337034592539/",
+    "https://www.facebook.com/oita.toukei/posts/%E5%A4%A7%E5%88%86%E7%9C%8C%E9%89%B1%E5%B7%A5%E6%A5%AD%E6%8C%87%E6%95%B02024%E5%B9%B46%E6%9C%88%E5%88%86%E3%82%92%E5%85%AC%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E7%94%9F%E7%94%A3%E6%8C%87%E6%95%B0%E5%AD%A3%E7%AF%80%E8%AA%BF%E6%95%B4%E6%B8%88%E6%8C%87%E6%95%B0%E3%81%AF%EF%BC%99%EF%BC%97%EF%BC%96%E5%89%8D%E6%9C%88%E6%AF%94%EF%BC%98%EF%BC%94%E3%81%A8%E3%81%AA%E3%82%8A%EF%BC%92%E3%83%B6%E6%9C%88%E9%80%A3%E7%B6%9A%E3%81%A7%E4%BD%8E%E4%B8%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E6%A5%AD%E7%A8%AE%E5%88%A5%E3%81%AB%E7%94%9F%E7%94%A3%E5%8B%95%E3%82%92%E3%81%BF%E3%82%8B%E3%81%A8%E4%B8%8A%E6%98%87%E3%81%AB%E4%B8%BB%E3%81%AB%E5%AF%84%E4%B8%8E%E3%81%97%E3%81%9F/937254988445855/",
+    "https://www.facebook.com/OkayamawineFes/posts/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%8A%E3%81%8B%E3%82%84%E3%81%BE%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B1%95otex2026-%E7%B2%BE%E9%8B%AD%E4%BC%81%E6%A5%AD%E3%81%A8%E5%87%BA%E4%BC%9A%E3%81%86%E6%8A%80%E8%A1%93%E5%B1%95%E7%A4%BA%E5%95%86%E8%AB%87%E4%BC%9A%E6%97%A5%E6%99%822026%E5%B9%B411%E6%9C%8811%E6%97%A5%E6%B0%B412%E6%97%A5%E6%9C%A8-10%E6%99%8217%E6%99%82-%E6%9C%80%E7%B5%82%E6%97%A5%E3%81%AF-16%E6%99%8230%E5%88%86-/1940432317294631/",
+    "https://www.facebook.com/groups/569253743820290/posts/2455110415234604/",
+    "https://www.facebook.com/dosoken/posts/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E5%BA%A6%E7%A7%BB%E5%8B%95%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4in%E6%97%AD%E5%B7%9D%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99-%E6%97%A5%E6%99%82%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%EF%BC%92%E6%9C%8825%E6%97%A5%E7%81%AB-13301630%E5%A0%B4%E6%89%80%E6%97%AD%E5%B7%9D%E5%B8%82%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E8%A6%96%E8%81%B4%E8%A6%9A%E5%AE%A4%E6%97%AD%E5%B7%9D%E5%B8%82%E5%8F%82%E5%8A%A0%E8%B2%BB%E7%84%A1%E6%96%99%E5%AE%9A%E5%93%A120%E5%90%8D%E7%94%B3%E8%BE%BC%E7%B7%A0%E5%88%87%E4%BB%A4/1080521180543280/",
+    "https://www.facebook.com/dosoken/posts/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%96%8B%E5%82%AC%E6%A1%88%E5%86%853d%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E9%80%A0%E5%BD%A2%E7%A0%94%E4%BF%AE%E7%AC%AC2%E5%9B%9E-%E9%87%91%E5%B1%9Eam%E8%A3%BD%E5%93%81%E5%AE%9F%E7%94%A8%E5%8C%96%E3%81%AE%E6%9C%80%E5%89%8D%E7%B7%9A%E7%94%B3%E8%BE%BC%E7%B7%A0%E5%88%871028%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8Bdx%E5%8C%96-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96%E3%81%8C%E9%80%B2%E3%82%80%E4%B8%AD%E3%81%A73d%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%843d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AF/1572563418005718/",
+    "https://www.facebook.com/people/土岐商工会議所/100064862313524/"
+   ]
+  },
+  {
+   "query": "窯業・土石製品製造業 note 社長",
+   "results": [
+    "https://note.com/rm_sasaki/n/n42019d99724f",
+    "https://moritaka-cpa.jp/message/670.html",
+    "https://www.youtube.com/watch?v=fKyTNYR08sI",
+    "https://shachomeikan.jp/industry_article/2860",
+    "https://service.xenobrain.jp/forecastresults/market-size/ceramics-and-earth-and-stone-products-wholesale",
+    "https://www.mlit.go.jp/seisakutokatsu/census/sangyo-hinmoku-bunrui.pdf",
+    "https://note.aktio.co.jp/business/20200915-1400.html",
+    "https://www.nikkei.com/nkd/industry/complist/?n_m_code=025",
+    "https://www.riskmonster.co.jp/study/sinsa-note/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "窯業・土石製品製造業 X 投稿",
+   "results": [
+    "https://tofu.misosil.com/influencers/Ceramic-stone-and-clay-products-manufacturing-industry/bluesky/",
+    "https://clip-corporation.com/column/ceramics/",
+    "https://moritaka-cpa.jp/message/670.html",
+    "https://www.ogale-ace.jp/category/type/ceramicsstone/",
+    "https://note.com/starup_ogata/n/n27ff3f4539cd",
+    "https://leadhub-intrix.net/ceramic-manufacturer/nara/oji/",
+    "https://koriyama-monodukuri.jp/companylist.php?cg=%E7%AA%AF%E6%A5%AD%E3%83%BB%E5%9C%9F%E7%9F%B3%E8%A3%BD%E5%93%81",
+    "https://monoist.itmedia.co.jp/mn/articles/2609/14/news002.html",
+    "https://p-compass.com/category/14-%E7%9F%B3%E7%81%B0%E3%83%BB%E7%AA%AF%E6%A5%AD%E5%9C%9F%E7%9F%B3/",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/21"
+   ]
+  },
+  {
+   "query": "ceramic stone clay products manufacturing Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/architectural-clay-products",
+    "https://www.linkedin.com/pulse/japan-ceramic-tiles-market-analysis-2026-2033-competitive-landscape-pirfe",
+    "https://www.linkedin.com/company/queen-ceramic-inc-",
+    "https://www.linkedin.com/pulse/clay-tableware-sanitary-ware-properties-applications-kaushik--lxm0c",
+    "https://de.linkedin.com/company/european-ceramic-technology-suppliers-ects",
+    "https://www.linkedin.com/company/wesun-building-material-co-ltd",
+    "https://www.linkedin.com/company/vietnamese-ceramic-company",
+    "https://www.linkedin.com/company/ann-sacks-tile-&-stone",
+    "https://www.linkedin.com/pulse/production-process-ceramic-vases-skye-liu-jclec",
+    "https://www.linkedin.com/pulse/japan-clay-product-refractory-market-10cgc"
+   ]
+  }
+ ],
+ "missing": {}
+}
