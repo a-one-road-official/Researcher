@@ -1,4 +1,4 @@
-# 業界の3C＋PEST（海外→日本・輸入）対象6分野33小区分（事実のみ・32品目）
+# 業界の3C＋PEST（海外→日本・輸入）対象6分野33小区分（事実のみ・33品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4507,3 +4507,142 @@
   - 「バイオ プラスチックを取り巻く 国内外の状況 - 環境省 — バイオ プラスチックを取り巻く 国内外の状況 - 環境省 環境省 PDF https://www.env.go.jp > recycle > mat052214」（https://www.env.go.jp/recycle/mat052214.pdf）
   - 「Bio - based Chemicals - IEA Bioenergy — Bio - based Chemicals - IEA Bioenergy IEA Bioenergy PDF https://www.ieabioenergy.com > uploads > 2013/10」（https://www.ieabioenergy.com/wp-content/uploads/2013/10/Task-42-Biobased-Chemicals-value-added-products-from-biorefineries.pdf）
   - 「Bio - based Chemicals Market Size, Share | Global Report, 2034 — Bio - based Chemicals Market Size, Share | Global Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586）
+
+## バーティカルAI（vertical AI）
+- 文脈：1 AI・半導体 ③バーティカルAI
+- 顧客（金を払う側）：
+  - 「AIがある操作を実行できることと、その操作を企業として実行してよいことは同じではない」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％でした」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「さらに、AI利用企業の57％は利用範囲が3つ以下の業務機能にとどまり、66％はAIをタスクそのものの代替ではなく、既存業務の補助として利用していました」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「EUでも2025年の企業AI利用率は19.95％、大企業では55.03％まで上昇しています」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「一方、AI利用企業のうち物流用途で利用していた企業は6.08％でした」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「AIは企業システムへ着実に入り始めているが、企業業務全体がAIによって自律運転されているわけではない」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「AIが文章を生成するだけなら、最終的に人間が読んで採用しなければ状態は変わりません」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「配送計画を正式採用する」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「、より広く言えば「そのActionを企業行為として成立させてよいか」という問題になります」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「AIが発注APIを呼べることと、その数量・価格・取引先で発注してよいことは違います」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「配送ルートを生成できることと、その車両、荷量、受入能力、時間条件で正式な輸送計画として採用してよいことも違います」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「企業行為としての成立条件の問題」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「業務上の採用条件が別に存在する」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「「正しいと思われる回答」と「企業がこの状況で正式に採用できる回答」は異なります」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「今回の行為を、この対象・時点・証拠・権限で正式に採用・実行してよいか」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+- 顧客の顧客（発注元が求めること）：
+  - 「し、重要なコンポーネントの開発・製造能力やOEM機能を強化」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・AIロボットのOEMや重要コンポーネントの開発・製造機能」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「スタートアップからの発展を念頭に、多用途ロボットOEMの育成を推進」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・ティーチングカスタマーやOEM等と協働し、工場、物流、小売、防災、介護、家庭、廃炉等への導入を念頭にモックアップ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「性認証制度や安全規制の在り方をAISIと連携しながら検討」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「グカスタマー、OEM、ユー」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「ロボットOEMの育成や、」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「や技術標準・認証の整備を一体的に推進」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「対策、AIガバナンスや安全性認証制度の整備、意思決定に係るAIのルール形成）」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「• 国内のデータ連携のためのトラストサービスを体系化するとともに、国が整備する法人トラスト認証の仕組」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「みを活用して、データの信頼性を高め、他国との関係でも相互認証されるよう検討を進める」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「連携や認証の基盤等）は、行政運営や国民生活に不可欠」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・データプラットフォームについては、安全な認証基盤、データ連携・システム間連携によ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・データプラットフォーム：安全な認証基盤、データ連携により、より」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「 国・地方のAX/DX基盤（GSS、ネットワーク、クラウドやAIの基盤、データ連携基盤・認証基盤、外国人政策のDX基盤等）は行政運営や」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+- 顧客の競合（奪いに来る側）：
+  - 「X（Twitter）でシェアする」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「Facebookでシェアする」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％でした」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「Responsibility Layerは、これらの既存技術と競合するものではありません」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「米国NISTは、AIエージェントへデータ、ツール、アプリケーションへのアクセスを与えることを前提に、識別、認可、監査、否認防止などを検討対象にしています」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「並ぶ第三極として世界シェア3割超の獲得を通じて、2040年に」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「シェア約7割を有し、モーター、減速機等の主要コンポーネントでも高い競争力を持」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「一方、サービスロボット市場（約2.8兆円）での世界シェアは１割強にとどまる」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「 現状、我が国は、産業用ロボット市場で世界シェア約7割を有し、モーター、減速機、センサー、蓄電池等の主要部品でも高い」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「して、世界シェア3割超の獲得」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・かつて我が国半導体産業は世界シェアの約50％を誇ったが、日米貿易摩擦、日の丸」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・半導体設計は米国、製造は台湾、製造装置は日本・米国・欧州、部素材は日本に強」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・市場：中国企業の競争力向」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「上に伴う中国向け市場の縮」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「 かつて我が国半導体産業は世界シェア約50％を誇ったが、日米貿易摩擦や国内のデジタル化低迷等を背景に凋落し、現在は10％」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+- 自社の競合（商社・代理店・仲介）：
+  - 「AI Agent Standards Initiative」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「European Commission,」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「・近年、エージェント型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「 エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されて」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されている」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・近年、エージェント型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の機運が高まり、 AI投資で出遅れている我が国でもようやく市場の急成長が期待されている」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「エージェント型AI（Agentic AI）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「改めて注目される背景にあるのが「エージェント型AI（Agentic AI）」の進展だ」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「米ビッグテックが集結する「Agentic AI Foundation」、ルールづくり推進」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「AI Agent Camp」（https://harch.jp/ai/glossary/vertical-ai）
+  - 「「現物株手数料」で選ぶ！」（https://diamond.jp/zai/articles/-/1070254）
+  - 「「株式売買手数料」で選ぶ！」（https://diamond.jp/zai/articles/-/1070254）
+  - 「「コンビニATM＆振込手数料」で選ぶ！」（https://diamond.jp/zai/articles/-/1070254）
+  - 「大手不動産仲介は「囲い込み」が蔓延?!」（https://diamond.jp/zai/articles/-/1070254）
+- 政治（法・予算・規制）：
+  - 「日本政府の第Ⅱ期人工知能基本計画でも、AIが「業務を支援するツール」から「意思決定・実行を担う主体」へ進化していることを前提に、Vertical AIやPhysical AIを重点領域として位置づけています」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「日本政府の第Ⅱ期人工知能基本計画は、バーティカルAIとフィジカルAIを日本の重点領域に位置づける一方、「信頼できるAI」を柱に据え、AIと協働する社会において」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「もちろん、これらの政府・標準化機関が「Responsibility Layer」や「責任OS」という方式を提唱しているわけではありません」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「規制対象業務における正式な処置」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「そして何より、責任OSは法律上・経営上の責任をAIやソフトウェアへ移転する仕組みではありません」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「：Responsibility Layerおよび責任OSは、上記の政府機関・標準化団体・研究機関が提唱または認定している名称ではありません」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「②セキュリティの確保された政府・地方公共団体のAX/DX基盤 ・・・p.24」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「その上で官民投資ロードマップ案を前提として、原則、政府担当部局が主要企業や団」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「当該官民投資額は、官民投資ロードマップ策定後も、１）予算編成の過程を通じて、新たな発想や視点に基づく真に効果」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「また、フィジカルAIのサプライチェーンを国内で確保することは経済安全保障上の」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「性認証制度や安全規制の在り方をAISIと連携しながら検討」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「経済安全保障上極めて重要な物資」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「各国政府は積極的に大規模な政策支援を展開」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「不可欠であり、経済安全保障上極めて重要な物資」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・政府調達や制度改革により初期需要を積極的に喚起し、開発投資支援で事業拡大を加」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+- 経済（規模・価格・為替）：
+  - 「（２）官民投資の具体像 ①投資内容、②投資額（注１）、③定量的インパクト：投資による経済波及効果（注２）」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「（注１）官民投資額については、当該分野に見識のある学者、シンクタンク、企業関係者などにより構成される戦略17分野の各WGでの議論を踏まえ、「主要な製品・技」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「当該官民投資額は、官民投資ロードマップ策定後も、１）予算編成の過程を通じて、新たな発想や視点に基づく真に効果」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「（注２）経済波及効果については、各「主要な製品・技術等」の官民投資額及び当該官民投資による生産増加額をインプットとして、産業連関分析を実施して算出」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「的には、産業連関表を用いて、（１）当該製品・技術等に係る最終需要額（投資額・生産額）の増加が、生産工程の川上産業（部品、部素材、原料といった関連」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「20兆円の市場獲得を目指す」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「市場規模として50兆ドルが見込まれるとの見方（NVIDIA社）もある」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「し、2040年に約60兆円規模へ成長すると見込まれる」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・現状、我が国は、ロボット分野のうち、産業用ロボット市場（約0.8兆円）で世界」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「一方、サービスロボット市場（約2.8兆円）での世界シェアは１割強にとどまる」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「2040年度までで10.5兆円と想定」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「2040年度までで144.4兆円と想定」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「今後、AIロボットは多様な現場へ実装されることが期待され、市場規模は2040年に約60兆円規模へ成長すると見込」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「バーティカルAIとは｜官民投資ロードマップの目標5兆円・投資額23.1兆円・領域特化型AIの政策をやさしく解説｜官民投資ロードマップをやさしく読む」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「バーティカルAIとは｜領域特化型AIで2030年に内外5兆円の市場獲得とAXを目指す」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+- 社会（人・担い手）：
+  - 「・構造的な人手不足を背景とする潜在的な導入需要を顕在化させ、」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「人手不足の解消・生産性向上により、産業競争力の強化」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・戦略的重要性：フィジカルAI導入による省力化を通じ構造的人手不足の解決に貢献」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「検証・試験設備を活用しながら、ロボットを導入してデータ収集、検証、標準化、人材育成を同時に進める社会実装のハブ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「となる環境を構築することで、世界から優秀な人材が集まるAIロボティクスのCenter of Excellenceやテストベットを創設」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・産学官が連携したハッカソンやコンペティション等の人材育成の取組を検討」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・人材：AIとロボット双方の」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・加えて、規模拡大や産業集積に向けて必要となるインフラや人材育」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・人材：研究開発人材・現場」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「に関する人材の不足は喫緊」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・グローバルに活躍できる高度人材の育成の観点から、国内外企業や大学等との産学官連携の下、最先端環」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・産官学連携で創設した各地域のコンソーシアムを通じて、現場人材も含めた人材育成を強化するとともに」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「半導体分野におけるキャリアパスやロールモデルの提示により、女性も含めた半導体人材の活躍促進を図」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・研究開発人材・現場人材」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「設計に関する人材不足は」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+- 技術（新しい技術・実証）：
+  - 「AIが「実行できる」と「実行してよい」は違う――2026年のVertical AIを3層で整理する #AIガバナンス - Qiita」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「AI x Dev x Team」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「AIが「実行できる」と「実行してよい」は違う――2026年のVertical AIを3層で整理する」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「バーティカルAI」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「AIアシュアランス」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「AIガバナンス」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「Intelligence / Action / Responsibility から見る、バーティカルAIの達成点・限界点・次の設計領域」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「2026年、Vertical AI（バーティカルAI）はどこまで来たのでしょうか」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「この記事では、現在のVertical AIを単なる「業界特化型LLM」としてではなく、」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「結論を先に書くと、2026年の大きな変化は、AIが」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「AIがある操作を実行できることと、その操作を企業として実行してよいことは同じではない」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「として整理し、既存のRAG、Guardrail、IAM、Workflow、Policy Engineなどとの違いも含めて考えます」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「https://prtimes.jp/main/html/rd/p/000000004.000182721.html」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「バーティカルAIの達成点・限界点・突破点」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「2026年のVertical AIは、まだ「全面自律化」ではない」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+- 検索結果の抜粋：
+  - 「2026 年のVertical AI を3層で整理する - Qiita — 2026 年のVertical AI を3層で整理する - Qiita Qiita https://qiita.com > AIガバナンス」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... — バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (1) AI・半導体」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「バーティカルAI 領域別戦略 中間とりまとめ — バーティカルAI 領域別戦略 中間とりまとめ 内閣府ホームページ PDF https://www8.cao.go.jp > ai > ai_hq > shiryo2_2」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
+  - 「領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... — 領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... 日経クロステック https://xtech.nikkei.com > 3分でわかる必修ワード IT」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「社会実装から見る バーティカル AI の可能性 - 大和総研 — 社会実装から見る バーティカル AI の可能性 - 大和総研 大和総研 PDF https://www.dir.co.jp > japan > 20260930_026094」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf）
+  - 「10 Vertical AI Startup Ideas for 2026 - Preuve AI — 10 Vertical AI Startup Ideas for 2026 - Preuve AI Preuve AI https://preuve.ai > Blog」（https://preuve.ai/blog/vertical-ai-startup-ideas-2026）
+  - 「Top 25 Vertical AI software companies based in Japan — Top 25 Vertical AI software companies based in Japan RevenueBase https://revenuebase.ai > japan」（https://revenuebase.ai/companies/vertical-ai-software-companies/japan）

@@ -1,4 +1,4 @@
-# 業界の3C＋PEST（日本→海外・輸出）対象6分野33小区分（事実のみ・32品目）
+# 業界の3C＋PEST（日本→海外・輸出）対象6分野33小区分（事実のみ・33品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4554,3 +4554,148 @@
   - 「UK Top Bio - based Chemicals Opportunities - BBNet — UK Top Bio - based Chemicals Opportunities - BBNet Biomass Biorefinery Network PDF https://www.bbnet-nibb.co.uk > uploads > 2019/08」（https://www.bbnet-nibb.co.uk/wp-content/uploads/2019/08/LBNet-UKBioChem10_UK-Top-Bio-based-Chemicals-Opportunities_Dec2017.pdf）
   - 「Bio - based Chemicals Market Size , Share | Global Report, 2034 — Bio - based Chemicals Market Size , Share | Global Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586）
   - 「asia pacific bio - based chemicals market forecast 2019-2028 — asia pacific bio - based chemicals market forecast 2019-2028 Inkwood Research https://www.inkwoodresearch.com > ...」（https://www.inkwoodresearch.com/reports/asia-pacific-bio-based-chemicals-market/?srsltid=AYCX9vKwOPR5_4IOYJKQrvhhqMHX0Sy1CM45gGQ3sFMWchGQYCCUMSjC）
+
+## バーティカルAI（vertical AI）
+- 文脈：1 AI・半導体 ③バーティカルAI
+- 顧客（金を払う側）：
+  - 「課題は、AI実装人材や中小企業への伴走支援の不足、現場固有データの活用不足、計算資源の不足、AXへの理解不足とAIリスクへの懸念です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「政策パッケージには、中小企業を含めたバーティカルAIの導入支援と「地域AX」の推進、政府による率先導入、AISIの機能強化などが入っています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「自治体は、行政の現場でのバーティカルAIの導入と、地域の中小企業のAXの支援で、この流れに直接参加できます」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「データ・モデル・アプリを垂直統合した「現場で使えるAI」であるバーティカルAIを、重点領域ごとの戦略で産業や行政に広げ、AIの導入で人手不足を解消し日本社会全体のAXを実現する計画です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・AI研究開発人材、現場とAIの双方を理解して、AXを推進できる実装人材や中小企業伴走支援の不足」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・中小企業を含めた産業や行政でのAXの促進」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・政府による率先導入と制度改革による初期需要創出」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・AIの導入で人手不足を解消」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「中小企業を含めた産業や行政でのAXの促進」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「つまり、自治体の業務そのものが、バーティカルAIの導入先として国の戦略に位置づけられているのです」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「地域未来戦略では、①庁内の業務のうちAIで支援・自動化できるもの、②医療・介護・福祉、農林水産、建設、教育、防災、消防など自治体が関わる重点領域、③地域の中小企業のAI導入の状況、の3点を書き出すと、このロードマップの流れと一致します」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「重点領域を設定して領域別戦略を策定し、中小企業を含めた産業や行政でのAXを促進することが勝ち筋です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「2030年までにバーティカルAIの企業での利用が汎用的AIを上回る見込みで、暗黙知を含めた各現場の経験や知識をデータとして生かせる日本との相性が良いとされています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・2030年までにバーティカルAIの企業での利用が汎用的AIを上回る見込み」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「一方で、エージェント型AIを含めて、過度な海外サービス依存はデータの海外流出、デジタル赤字拡大の恐れがあり、国内市場を日本のAI企業が獲得し、自律性の向上が不可欠」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+- 顧客の顧客（発注元が求めること）：
+  - 「・エージェント型AIを含めた、政府によるバーティカルAIの率先導入、所要の制度改革や技術標準・認証の整備を一体的に推進」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・AIのリスクへの包括的対応（AISI※の機能強化、サイバー攻撃対応を含めたAI安全性・セキュリティや信頼性に係る評価手法・基盤の開発・提供、サイバー関連データの集約、セキュアなAI利用環境の検討・具体化、偽・誤情報対策、AIガバナンスや安全性認証制度の整備、意思決定に係るAIのルール形成）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「し、重要なコンポーネントの開発・製造能力やOEM機能を強化」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・AIロボットのOEMや重要コンポーネントの開発・製造機能」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「スタートアップからの発展を念頭に、多用途ロボットOEMの育成を推進」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・ティーチングカスタマーやOEM等と協働し、工場、物流、小売、防災、介護、家庭、廃炉等への導入を念頭にモックアップ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「性認証制度や安全規制の在り方をAISIと連携しながら検討」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「グカスタマー、OEM、ユー」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「ロボットOEMの育成や、」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「や技術標準・認証の整備を一体的に推進」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「対策、AIガバナンスや安全性認証制度の整備、意思決定に係るAIのルール形成）」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「• 国内のデータ連携のためのトラストサービスを体系化するとともに、国が整備する法人トラスト認証の仕組」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「みを活用して、データの信頼性を高め、他国との関係でも相互認証されるよう検討を進める」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「連携や認証の基盤等）は、行政運営や国民生活に不可欠」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・データプラットフォームについては、安全な認証基盤、データ連携・システム間連携によ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+- 顧客の競合（奪いに来る側）：
+  - 「並ぶ第三極として世界シェア3割超の獲得を通じて、2040年に」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「シェア約7割を有し、モーター、減速機等の主要コンポーネントでも高い競争力を持」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「一方、サービスロボット市場（約2.8兆円）での世界シェアは１割強にとどまる」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「 現状、我が国は、産業用ロボット市場で世界シェア約7割を有し、モーター、減速機、センサー、蓄電池等の主要部品でも高い」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「して、世界シェア3割超の獲得」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・かつて我が国半導体産業は世界シェアの約50％を誇ったが、日米貿易摩擦、日の丸」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・半導体設計は米国、製造は台湾、製造装置は日本・米国・欧州、部素材は日本に強」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・市場：中国企業の競争力向」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「上に伴う中国向け市場の縮」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「 かつて我が国半導体産業は世界シェア約50％を誇ったが、日米貿易摩擦や国内のデジタル化低迷等を背景に凋落し、現在は10％」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・海外市場開拓支援（ASEANをはじめとするインド太平洋地域における我が国政策の普及展開と一体となっ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・海外では自動運転関連の巨額投資が進み、米国Waymo社等、多数のプレイヤーがモジュール型」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「・米国Tesla社、英国Wayve社、中国Momenta社ではE2E(*3）開発が加速」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「における我が国企業のシェアは約25％(*5)、日本の輸出額の約16 ％(*5)(*6) 、日本の全就労人口の約」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「自動運転車両販売台数のシェア約25％を確保し、」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+- 自社の競合（商社・代理店・仲介）：
+  - 「・エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されている」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・近年、エージェント型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の機運が高まり、 AI投資で出遅れている我が国でもようやく市場の急成長が期待されている」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「エージェント型AI（Agentic AI）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・近年、エージェント型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「 エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されて」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「AI Agent Standards Initiative」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「European Commission,」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「改めて注目される背景にあるのが「エージェント型AI（Agentic AI）」の進展だ」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「米ビッグテックが集結する「Agentic AI Foundation」、ルールづくり推進」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/vertical-ai-market）
+  - 「商社・卸売り」（https://www.nikkei.com/article/DGXZQOUC199V70Z11C26A0000000/）
+  - 「加えて、Agentic AIやグラフニューラルネットワークを最適に演算可能なプロセッサの技術開発を実」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf）
+  - 「Put the Ava Claims Agent to work on your own deductions and see what it recovers.」（https://aforza.com/what-to-expect-from-vertical-ai-in-2026/）
+  - 「Distributor Management」（https://aforza.com/what-to-expect-from-vertical-ai-in-2026/）
+- 政治（法・予算・規制）：
+  - 「セキュリティの確保された政府・地方公共団体のAX/…」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「政策パッケージには、中小企業を含めたバーティカルAIの導入支援と「地域AX」の推進、政府による率先導入、AISIの機能強化などが入っています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「（政府の文章そのまま）」→「」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・政府による率先導入と制度改革による初期需要創出」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「市場性・公共性・戦略性の観点から重点領域を定めて領域別戦略を策定し、官民で集中投資すること、政府調達や制度改革で初期需要を喚起すること、そして領域別の取組を横連携で高度化・大規模化することです」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・政府調達や制度改革により初期需要を積極的に喚起し、開発投資支援で事業拡大を加速」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・規制緩和、中小企業補助金、AI実装人材創出等による導入促進の円滑化」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・エージェント型AIを含めた、政府によるバーティカルAIの率先導入、所要の制度改革や技術標準・認証の整備を一体的に推進」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「政府調達や制度改革で」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「構築すべき機能には、規制緩和・」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「中小企業補助金」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「政府によるバーティカルAIの率先導入」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「政府調達や制度改革で初期需要を喚起し、戦略性を持つ分野では官需で開発事業者を育成し、市場性の高い分野では海外展開も促進します」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「規制緩和・中小企業補助金・AI実装人材創出による導入促進、政府による率先導入、AISI等を通じた安全性・セキュリティ評価機能を構築すべき機能としています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「政府による率先導入」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+- 経済（規模・価格・為替）：
+  - 「バーティカルAIとは｜官民投資ロードマップの目標5兆円・投資額23.1兆円・領域特化型AIの政策をやさしく解説｜官民投資ロードマップをやさしく読む」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「バーティカルAIとは｜領域特化型AIで2030年に内外5兆円の市場獲得とAXを目指す」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「官民投資ロードマップは、2030年に世界のバーティカルAI市場33兆円のうち内外で少なくとも5兆円を獲得し、産業や行政の現場でAIを軸とした経営改革（AX）を進めるとしました」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「2030年に内外で少なくとも5兆円」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「2040年度までに23.1兆円」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「2040年度までに222.0兆円」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「国内のバーティカルAI市場は2024年に約1兆円で、2030年には約3兆円になる見通しです」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「目標は、2030年に世界のバーティカルAI市場33兆円のうち、内外で少なくとも5兆円を獲得することです」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「官民投資額は2040年度までに23.1兆円、経済波及効果は222.0兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「目標 ― バーティカルAIで2030年に内外で少なくとも5兆円」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「官民投資の具体像 ― 投資額23.1兆円・経済波及効果222.0兆円」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「2030年に世界のバーティカルAI市場33兆円のうち内外で少なくとも5兆円の市場を獲得し、エコシステム全体でAI主権を戦略的に確保することを目指します」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「注：2024年の国内バーティカルAI市場は約1兆円、2030年には約3兆円と見通し」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・2030年に世界のバーティカル市場は33兆円、内外で少なくとも5兆円の市場を獲得」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「2030年に世界市場33兆円のうち、内外で」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+- 社会（人・担い手）：
+  - 「課題は、AI実装人材や中小企業への伴走支援の不足、現場固有データの活用不足、計算資源の不足、AXへの理解不足とAIリスクへの懸念です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「投資促進に向けた課題 ― AI実装人材・データ・計算資源とAIリスク」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「データ・モデル・アプリを垂直統合した「現場で使えるAI」であるバーティカルAIを、重点領域ごとの戦略で産業や行政に広げ、AIの導入で人手不足を解消し日本社会全体のAXを実現する計画です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・AI研究開発人材、現場とAIの双方を理解して、AXを推進できる実装人材や中小企業伴走支援の不足」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「人材、データを含めたAI基盤への官民投資を促進」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・研究開発の担い手の育成・確保、世界から優秀な「知」が集まる機能の創設」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・AIの導入で人手不足を解消」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・経済的重要性：バーティカルAIそのものへの直接投資に加え、計算基盤やネットワーク、人材等への誘発効果、更にユーザー産業において、省人化のみならず、生産性の向上や新事業創出、GDPの押上げに寄与」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・人手不足に直面する我が国の供給力を維持し、力強い成長につなげるために、中小企業を含めて、あらゆる産業や行政の現場でのバーティカルAIの導入を促進」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・産業や行政の現場とAIの双方を理解してAXを推進できるAI実装人材を大規模に育成」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「AI実装人材」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「これができると、AIに学ばせることができ、技能の継承にも役立ちます」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「地域未来戦略のKPIとしては、たとえば「AIを導入した庁内業務の数と削減時間」「AIを導入した地元中小企業の数」「AI実装人材として育成した職員・地元企業社員の数」「暗黙知をデータ化した業務（技能継承）の数」などが、このロードマップと方向をそろえやすい指標です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「AXの促進、AI実装人材の大規模な育成、国内での計算資源・データインフラ・基盤モデルの開発能力の確保、AI主権の確保が戦略的な目標です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「バーティカルAI主導で、日本のAI基盤（データ、人材、クラウド、データセンター、計算資源）も強化」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+- 技術（新しい技術・実証）：
+  - 「バーティカルAIとは｜官民投資ロードマップの目標5兆円・投資額23.1兆円・領域特化型AIの政策をやさしく解説｜官民投資ロードマップをやさしく読む」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「(1) AI・半導体」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「フィジカルAI（特にAIロボット）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「バーティカルAI（領域特化型AI）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「AI時代に対応した先進的サイバーセキュリティ製品・…」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「次世代ワイヤレス（非地上系ネットワーク、5G/Be…」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「民間航空機（次期単通路機・次世代航空機）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「革新的海底開発技術・システム」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「AI等を活用した複合新素材」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「革新的デバイス（AI、ロボティクス等）を活用した先…」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「次世代型太陽電池（ペロブスカイト太陽電池等）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「次世代型地熱」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「次世代革新炉」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「次世代型倉庫」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「分野(1) AI・半導体」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+- 検索結果の抜粋：
+  - 「バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... — バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (1) AI・半導体」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「2026 年のVertical AI を3層で整理する - Qiita — 2026 年のVertical AI を3層で整理する - Qiita Qiita https://qiita.com > AIガバナンス」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「バーティカルAI 領域別戦略 中間とりまとめ — バーティカルAI 領域別戦略 中間とりまとめ 内閣府ホームページ PDF https://www8.cao.go.jp > ai > ai_hq > shiryo2_2」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
+  - 「領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... — 領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... 日経クロステック https://xtech.nikkei.com > 3分でわかる必修ワード IT」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「日本 成長戦略を支える2つのAI！「 バーティカルAI 」と ... — 日本 成長戦略を支える2つのAI！「 バーティカルAI 」と ... 東証マネ部！ https://money-bu-jpx.com > news > article071262」（https://money-bu-jpx.com/news/article071262/）
+  - 「業界特化型 AI市場 の規模と シェア 、成長予測（2025〜2034年） — 業界特化型 AI市場 の規模と シェア 、成長予測（2025〜2034年） Global Market Insights Inc. https://www.gminsights.com > vertical-ai-market」（https://www.gminsights.com/ja/industry-analysis/vertical-ai-market）
+  - 「バーティカルAI 領域別戦略 中間とりまとめ案（概要） — バーティカルAI 領域別戦略 中間とりまとめ案（概要） 内閣官房 PDF https://www.cas.go.jp > axkaigi > dai1 > shiryo5-1」（https://www.cas.go.jp/jp/seisaku/axkaigi/dai1/shiryo5-1.pdf）
+  - 「What to expect from Vertical AI in 2026 - Aforza — What to expect from Vertical AI in 2026 - Aforza Aforza https://aforza.com > what-to-expect-fr...」（https://aforza.com/what-to-expect-from-vertical-ai-in-2026/）
+  - 「Vertical AI Market Size, Share, Trends | CAGR of 24.5% — Vertical AI Market Size, Share, Trends | CAGR of 24.5% Market.us https://market.us > vertical-ai-market」（https://market.us/report/vertical-ai-market/）
+  - 「Vertical AI Market Analysis, Size , and Forecast 2025-2029 — Vertical AI Market Analysis, Size , and Forecast 2025-2029 Technavio https://www.technavio.com > report」（https://www.technavio.com/report/vertical-ai-market-industry-analysis）
+  - 「Vertical AI Market Size , Share, Trends | CAGR of 24.5% — Vertical AI Market Size , Share, Trends | CAGR of 24.5% Market.us https://market.us > vertical-ai-market」（https://market.us/report/vertical-ai-market/）
+  - 「Vertical AI Market Size , Growth Report, 2026-2033 — Vertical AI Market Size , Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report）
+  - 「Vertical AI Market Size , Share & Growth Report 2033 — Vertical AI Market Size , Share & Growth Report 2033 Kings Research https://www.kingsresearch.com > report」（https://www.kingsresearch.com/report/global-vertical-ai-market-3174）
