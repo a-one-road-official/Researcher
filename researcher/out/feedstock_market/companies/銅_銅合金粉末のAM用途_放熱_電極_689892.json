@@ -1,4 +1,2382 @@
 {
  "name": "銅・銅合金粉末のAM用途（放熱・電極）",
- "error": "ValueError: netloc '＃' contains invalid characters under NFKC normalization"
+ "en": "copper powder additive manufacturing heat exchanger electrical",
+ "aliases": [
+  "純銅 粉末 3Dプリンター",
+  "銅合金粉末 積層造形",
+  "銅 AM 放熱"
+ ],
+ "context": "パワー半導体（放熱）・マテリアル",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:05:51.434746+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "銅粉市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "銅粉市場規模、シェア、トレンド分析レポート：製造方法別（アトマイズ銅粉、電解銅粉、還元銅粉、その他製造方法）、製品形態別（球状銅粉、フレーク状銅粉、不規則形状銅粉、樹枝状銅粉）、用途別（粉末冶金、積層造形、溶射、導電性コーティングおよびインク）、最終用途産業別（電子機器および電気機器、自動車、航空宇宙および防衛、産業機械）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の銅粉市場規模は、2025年には115万米ドルと評価され、2026年の119万米ドルから2034年には158万米ドルに成長すると予測されており、予測期間（2026年～2034年）中の年平均成長率（CAGR）は3.6%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の銅粉市場は、2025年には地域別シェア42.0%を占め、市場規模は4億7460万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "この文書は、2047年までに銅需要を6倍に増やすことを目標とし、2030年までに年間500万トンの製錬・精製能力を追加することで、銅の下流エコシステムを強化する計画だ",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、電化、再生可能エネルギー、電気自動車、インフラ開発に支えられ、国内の銅需要は2030年までに330万トンに達すると予測されており、産業用途や先端材料用途で使用される銅粉にとって新たな機会が生まれる",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CNPCパウダーは、年間8,000トン以上の金属粉末生産能力を追加する予定の製造拠点拡張計画を発表した",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の銅粉市場規模は、2025年には115万米ドルと評価され、2034年までに158万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンチモン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "ルビジウム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "LPI世界酸化アルミニウム銅分析レポートによると、世界酸化アルミニウム銅市場規模は194.85百万ドルであり、将来的には335.88百万ドルに達し、CAGRは9.50%です",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、酸化アルミニウム銅の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、酸化アルミニウム銅の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域における酸化アルミニウム銅市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、酸化アルミニウム銅の世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "銅合金製の放熱材料市場規模マップ＋シェア＋フレームワーク、CAGR 6.6%の安定成長 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "銅合金製の放熱材料市場規模マップ＋シェア＋フレームワーク、CAGR 6.6%の安定成長",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": ") )によると、世界の銅合金製の放熱材料市場規模は2025年に約18億米ドルと推定され、2026年の19億2,340万米ドルから2032年には約28億2,236万米ドルへ拡大し、2026年から2032年までの年平均成長率は約6.6%になると予測される",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、銅合金製の放熱材料の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、銅合金製の放熱材料の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域における銅合金製の放熱材料市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、銅合金製の放熱材料の世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": ": 1kg規模の研究開発用バッチから、量産用の1トン以上まで",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都荒川区東日暮里2-14-8 | 従業員 46人 | 資本金 1億円 | 昭和26年10月20日",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都大田区東蒲田1-2-2 | 従業員 250人 | 資本金 4億円 | 1951",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "長野県茅野市宮川小早川7377 | 従業員 248人 | 資本金 22億円 | 2004年4月1日",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都台東区台東4-13-21 ユニゾ仲御徒町ビル３階（東日本営業部 東京支店） | 従業員 80人 | 資本金 1億円 | 1958年6月",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区千代田区大手町2-6-4 TOKYO TORCH 常盤橋タワー915区 | 従業員 36人 | 資本金 3億円 | 1985年4月1日",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区丸の内2-5-2 三菱ビル11階 | 従業員 862人 | 資本金 10億円 | 1949年11月",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売実績累積30万トン以上！様々な金属材料からの代替が可能！高強度・快削・高耐食・耐摩耗性を有する高性能鉛フリー銅合金",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "According to MarketsandMarkets, the global metal powder market is projected to reach $6.5 billion by 2026, with copper powder being one of the fastest growing segments.",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "銅粉市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の銅粉市場規模は、2025年には115万米ドルと評価され、2026年の119万米ドルから2034年には158万米ドルに成長すると予測されており、予測期間（2026年～2034年）中の年平均成長率（CAGR）は3.6%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月、新川新材料は、太陽光発電用銅粉の研究開発、生産能力の拡大、および市場開拓を支援するため、約1億人民元のIPO前資金調達ラウンドを完了した",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "電解銅粉末は、電気、電子機器、摩擦材、特殊粉末冶金用途における高純度粉末の需要に牽引され、予測期間中に年平均成長率（CAGR）5.6%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "フレーク状銅粉末セグメントは、導電性コーティング、インク、塗料、電磁シールド、装飾製品、印刷用途での使用に牽引され、予測期間中に年平均成長率（CAGR）5.4%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形分野は、熱交換器、冷却システム、電気部品、その他の熱管理用途で使用される複雑な銅部品の需要に牽引され、予測期間中に年平均成長率（CAGR）10.8%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野は、銅をベースとした部品、電気システム、摩擦材、および熱管理技術の使用に牽引され、予測期間中に年平均成長率（CAGR）7.0%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の銅粉市場は、先進製造業、エレクトロニクス、自動車用途、積層造形、および高性能導電性材料への需要に支えられ、予測期間中に年平均成長率（CAGR）4.1%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "LPI世界酸化アルミニウム銅分析レポートによると、世界酸化アルミニウム銅市場規模は194.85百万ドルであり、将来的には335.88百万ドルに達し、CAGRは9.50%です",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "世界の酸化アルミニウム銅市場は、2025年の177.14百万米ドルから2026年には194.85百万米ドルへ拡大し、2032年には335.88百万米ドルに達すると予測されており、2026～2032年の年平均成長率（CAGR）は約9.50％と見込まれています",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、酸化アルミニウム銅の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、酸化アルミニウム銅の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "銅合金製の放熱材料市場規模マップ＋シェア＋フレームワーク、CAGR 6.6%の安定成長 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "銅合金製の放熱材料市場規模マップ＋シェア＋フレームワーク、CAGR 6.6%の安定成長",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "市場需要は、半導体の高集積化と高性能化、電気自動車の普及、インバータや急速充電器を含むパワーエレクトロニクス市場の拡大、データセンターおよびAIサーバーの高発熱化、高性能コンピューティング設備の増設、5G・次世代通信機器の高密度化、航空宇宙・防衛電子機器の高出力化によって拡大している",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": ") )によると、世界の銅合金製の放熱材料市場規模は2025年に約18億米ドルと推定され、2026年の19億2,340万米ドルから2032年には約28億2,236万米ドルへ拡大し、2026年から2032年までの年平均成長率は約6.6%になると予測される",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長は、半導体・パワーエレクトロニクスの高発熱化、電気自動車の普及、データセンターおよび高性能コンピューティング設備の増設、5G通信機器の拡大、航空宇宙・産業電子機器における熱管理要求の高度化によって支えられている",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、銅合金製の放熱材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、銅合金製の放熱材料の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "高性能銅合金粉末市場分析レポート：2026年74.14百万米ドル規模、成長率8.7%推移｜QYResearch",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "高性能銅合金粉末市場分析レポート：2026年74.14百万米ドル規模、成長率8.7%推移",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2026年から2032年にかけて年平均成長率（CAGR）8.7%で推移し、2032年には122百万米ドルに拡大すると見込まれています",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "OEM の生産ラインを拡大する場合でも、画期的な技術のプロトタイプを開発する場合でも、上海トルーアは B2B のバイヤーが求める技術的な深さ、カスタマイズ、信頼性を提供します",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "銅開発協会によると、粒状銅粉の使用量の約70%は自己潤滑ベアリングに用いられており、金属フィルターもまた、同じ制御多孔性技術の確立された応用例である",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "この文書は、2047年までに銅需要を6倍に増やすことを目標とし、2030年までに年間500万トンの製錬・精製能力を追加することで、銅の下流エコシステムを強化する計画だ",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CNPCパウダーは、年間8,000トン以上の金属粉末生産能力を追加する予定の製造拠点拡張計画を発表した",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、製造コストの高さ、加工・接合の難しさ、顧客による評価・認定に要する期間は、用途拡大を制約する要因となります",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "酸化アルミニウム銅は適切な使用条件において選択肢となりますが、その普及には加工コスト、表面処理、顧客認定なども影響します",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "競争軸は熱伝導率、熱膨張係数、電気伝導率、機械強度、材料純度、平坦度、寸法精度、表面品質、製品均一性および顧客認定能力に移行しており、従来型銅材から高熱伝導特殊合金、CuW・CuMo複合材料、高精度加工材および用途別熱管理ソリューションへの高付加価値化が進んでいる",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値は高熱伝導率、低く制御可能な熱膨張係数、機械強度、寸法安定性、高純度、精密公差、表面品質、量産均一性および厳格な顧客認定対応力に集中している",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "大量注文や長期契約に対する柔軟な価格設定",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ買い割引や長期契約もご利用いただけます",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "社外からの評価・認定等",
+    "url": "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "pass": 3
+   },
+   {
+    "quote": "JIS規格 JIS H3250 JIS H4100認定工場",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "13年間調達してきた筆者が経験談を交えながらご紹介いたします",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copper powder sinters at relatively low temperatures, reducing energy consumption.",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "Absolutely. Shanghai Truer provides ongoing technical consultation, application support, and powder performance optimization services.",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "Get Free Consultations For Additive Manufacturing Solution !",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   }
+  ],
+  "上位シェア・主要企業": [
+   {
+    "quote": "銅粉市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "銅粉市場規模、シェア、トレンド分析レポート：製造方法別（アトマイズ銅粉、電解銅粉、還元銅粉、その他製造方法）、製品形態別（球状銅粉、フレーク状銅粉、不規則形状銅粉、樹枝状銅粉）、用途別（粉末冶金、積層造形、溶射、導電性コーティングおよびインク）、最終用途産業別（電子機器および電気機器、自動車、航空宇宙および防衛、産業機械）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に42.0%の市場シェアを占め、銅粉市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "微粒化された銅粉末は、粉末冶金、溶射、積層造形、その他の産業用途において、粒子サイズ、形態、流動特性を制御できることから、2025年には45.2%のシェアを占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "球状銅粉末セグメントは、その良好な流動性、充填性、および高度な製造プロセスへの適合性により、2025年には44.8%のシェアを占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "粉末冶金分野は、ベアリング、フィルター、構造部品、摩擦材、電気部品における銅粉末の確立された使用に支えられ、2025年には36.8%のシェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器・電気機器分野は、効率的な放熱に対する需要により、2025年には35.6%のシェアを占め、導電性材料は引き続き銅粉の消費を支えている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の銅粉市場は、2025年には地域別シェア42.0%を占め、市場規模は4億7460万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の銅粉市場は、同国の大手電子機器、自動車、電気機器、粉末冶金産業によって牽引されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、粉体の純度、粒度と形態、生産能力、用途性能、グローバルな流通ネットワークを駆使して競争している",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に42.0%という圧倒的な市場シェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンチモン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "ルビジウム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "酸化アルミニウム銅市場規模マップ＋シェア＋フレームワーク | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "酸化アルミニウム銅市場規模マップ＋シェア＋フレームワーク",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、酸化アルミニウム銅の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、酸化アルミニウム銅の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "第13章では、酸化アルミニウム銅市場の主要メーカーについて、基本情報、製品仕様と用途、販売量、収益、価格設定、粗利益率、主力事業、最近の動向などの詳細情報を紹介します",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "銅合金製の放熱材料市場規模マップ＋シェア＋フレームワーク、CAGR 6.6%の安定成長 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "銅合金製の放熱材料市場規模マップ＋シェア＋フレームワーク、CAGR 6.6%の安定成長",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "図：世界の銅合金製の放熱材料の競争環境と主要企業",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業には住友電気工業、三菱マテリアル、三菱伸銅、神戸製鋼所、JX金属、プロテリアル、古河電気工業、Materion、Wieland Group、KME、AMPCO METAL、Luvata、Ningbo Boway Alloy Material、Jiangxi Copper、Chinalco Luoyang Copperなどが含まれる",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、銅合金製の放熱材料の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、銅合金製の放熱材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "第13章では、銅合金製の放熱材料市場の主要メーカーについて、基本情報、製品仕様と用途、販売量、収益、価格設定、粗利益率、主力事業、最近の動向などの詳細情報を紹介します",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan Top Story",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "C18150粉末の主要メーカーおよび販売業者",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "高性能銅合金粉末―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「高性能銅合金粉末―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区千代田区大手町2-6-4 TOKYO TORCH 常盤橋タワー915区 | 従業員 36人 | 資本金 3億円 | 1985年4月1日",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区大手町２丁目6番4号 常盤橋タワー17F",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "・主要企業の状況",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国大手ミッションメーカーにPTFEブッシュ（TOA）を納入",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ODEC TOP",
+    "url": "http://3d.kinzoku-kakou-odec.com/example/example-603/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "TOPページ",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "シェアリング",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.waseda.jp/top/news/84340",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal社",
+    "url": "https://jampt.jp/column/column_388/",
+    "pass": 3
+   },
+   {
+    "quote": "Renishaw has been in collaboration with engineering design software developer nTopology to demonstrate to manufacturers that, by using the right software and system together, they can reliably additively manufacture intricate structures from copper.",
+    "url": "https://www.renishaw.com/en/additive-manufacturing-of-intricate-structures-in-commercially-pure-copper--46900?srsltid=AYCX9vIyXhaabHlCAerPuNSRByxPflAwR7VmcWuxlYjio2JbTBRJOKaJ",
+    "pass": 3
+   },
+   {
+    "quote": "Designing triply periodic minimal surfaces in nTopology's nTop Platform",
+    "url": "https://www.renishaw.com/en/additive-manufacturing-of-intricate-structures-in-commercially-pure-copper--46900?srsltid=AYCX9vIyXhaabHlCAerPuNSRByxPflAwR7VmcWuxlYjio2JbTBRJOKaJ",
+    "pass": 3
+   },
+   {
+    "quote": "“We are very encouraged by the initial work and results provided by Renishaw and nTopology,” commented Ian Campbell, Industrial AM Program Manager at Cooksongold. “We look forward to using the machine to work on new customer applications for copper.”",
+    "url": "https://www.renishaw.com/en/additive-manufacturing-of-intricate-structures-in-commercially-pure-copper--46900?srsltid=AYCX9vIyXhaabHlCAerPuNSRByxPflAwR7VmcWuxlYjio2JbTBRJOKaJ",
+    "pass": 3
+   },
+   {
+    "quote": "Copper Heatsink – Designed using nTopology. Made in a RenAM500S",
+    "url": "https://www.renishaw.com/en/additive-manufacturing-of-intricate-structures-in-commercially-pure-copper--46900?srsltid=AYCX9vIyXhaabHlCAerPuNSRByxPflAwR7VmcWuxlYjio2JbTBRJOKaJ",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 Global Suppliers of Copper Powder",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "Technical collaboration with top labs and universities.",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "Shanghai Truer has established a joint innovation center for metal 3D printing and partners with top-tier research institutions. Their innovations continually push the envelope on copper and other metal powders.",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   }
+  ],
+  "日本の買い手と供給元": [
+   {
+    "quote": "中国の広範な製造エコシステムと巨大な国内需要基盤は、特に電子機器および産業用途における銅粉の継続的な消費を支えている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本銅粉市場分析",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の銅粉市場は、半導体、データセンター、電化技術における銅需要の高まりから恩恵を受けると予想されており、経済産業省は銅を2040年までに需要が大幅に増加すると見込まれる重要鉱物として位置付けている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本はまた、JOGMECが支援する銅材料のリサイクルおよび加工技術を通じて銅資源の安全保障を強化し、銅粉用途向けの銅原料の長期的な供給を支えている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、電化、再生可能エネルギー、電気自動車、インフラ開発に支えられ、国内の銅需要は2030年までに330万トンに達すると予測されており、産業用途や先端材料用途で使用される銅粉にとって新たな機会が生まれる",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米：堅調な国内供給エコシステムと精製能力の拡大により、最も速い成長を遂げている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "銅が2025年の米国重要鉱物リストに掲載されたことで、国内の銅供給と加工に対する政策的関心が高まり、米国の銅粉市場は恩恵を受けると予想される",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの銅粉市場は、銅を優先鉱物として位置づけ、2030年までに国内の採掘、加工、先端製造、リサイクルのバリューチェーンを強化することを目指す「カナダ重要鉱物戦略」によって支えられています",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsui Mining & Smelting Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Metal Mining Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fukuda Metal Foil & Powder Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kymera International (US) · GGP Metalpowder AG (Switzerland) · Pometon S.p.A. (Italy) · Mitsui Mining & Smelting Co., Ltd. (Japan) · Sumitomo Metal Mining Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト：",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "銅合金製の放熱材料市場規模マップ＋シェア＋フレームワーク、CAGR 6.6%の安定成長 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は高純度銅、特殊銅合金、難融金属複合材料、先端電子材料に強みを持ち、半導体や産業電子用途向けの成熟した供給企業を有する",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト： (",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan Top Story",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で話せば「自分の声」のまま外国語に DeepLが新音声翻訳を提供開始",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド インフラ最新動向--国内 1000 社以上の最優先課題は「サイバー攻撃と AI 対応」",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、CIOとITマネージャーを対象に、ビジネス課題の解決とITを活用した新たな価値創造を支援します",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "PDF Report at ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、Ziff Davisからのライセンスに基づき株式会社4Xが運営しています",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan is operated by 4X Corp under license from Ziff Davis.",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "中国を含むアジア市場では、電子機器の大規模生産や積層造形産業の発展を背景に、粉末製造能力と国内供給網の高度化が進んでいる",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "高級粉末の製造技術や航空宇宙分野での認証実績を持つ国際企業に対し、中国メーカーも国内の積層造形需要と材料供給網の発展を背景に競争力を高めている",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）；0081-5058936232（グローバル）",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "japan@qyresearch.com",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "特に、競合分析、市場規模予測、業界構造分析、カスタマイズ調査分野において、多くの日本企業から高い信頼と評価を獲得しています",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "MAIL：japan@qyresearch.com",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "イプロスは、製造業・BtoBにおける情報を集めた国内最大級の技術データベースサイトです",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "特にリン青銅丸棒の専門問屋では品ぞろえは日本でも随一",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型材株式会社",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本青銅株式会社",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都台東区台東4-13-21 ユニゾ仲御徒町ビル３階（東日本営業部 東京支店） | 従業員 80人 | 資本金 1億円 | 1958年6月",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "協育歯車工業は、日本のスタンダードストックギヤのパイオニアとして、お客様に歯車をいつでも・すぐに・便利に使って頂きたいという思いの下、品質の高いKG規格歯車『KG STOCK GEARS』を豊富にラインアップしております",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■非鉄金属原料の販売（国内向け・海外向け）",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "HEF DURFERRIT JAPAN株式会社",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本ケミカルスクリュー株式会社",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型産業株式会社",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区日本橋室町4-6-2 菱華ビルディング 12階 | 従業員 100人 | 資本金 9880万円 | 2003年10月",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本ベルパーツ株式会社",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "幅広いサイズを在庫しているのは国内で当社だけです",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "○国際特許出願中(日本国特許査定済み)",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "の製造及び販売を行っている日本青銅株式会社の銅合金連続鋳造品を掲載した",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "4.福田金属箔粉（日本(福田金属箔粉（日本）",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターによる銅の造形：技術的課題と解決アプローチ | コラム | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子ニュース｜技術情報誌",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内関係会社",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る日本電子",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子について",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "銅合金ではなく純銅にこだわり、電子ビーム方式の金属3Dプリンターを導入した日本電子工業様の事例をご紹介します",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子工業株式会社様～高周波焼入れ技術の進化を支える金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   }
+  ],
+  "日本の顧客が買うか（需要の証拠）": [
+   {
+    "quote": "銅粉市場は、精製銅、銅精鉱、電力、加工設備、特殊な生産資材など、世界中から調達される資源に依存しているため、サプライチェーンの混乱に非常に脆弱です",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "プリントエレクトロニクスにおける銅粉末の採用",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "銅粉市場への投資と資金調達の分析",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "銅粉市場は、積層造形、プリントエレクトロニクス、電気部品、および高度な産業用途における銅系材料の需要増加に牽引され、投資および資金調達活動が継続すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "銅粉市場における主要な投資および資金調達活動、2025年～2026年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達／投資額（米ドル）",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月、新川新材料は、太陽光発電用銅粉の研究開発、生産能力の拡大、および市場開拓を支援するため、約1億人民元のIPO前資金調達ラウンドを完了した",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "多孔質金属フィルターおよび流体管理コンポーネントの採用と、保護・装飾コーティング用途の拡大が市場を牽引する",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの要件は設備および運用コストを増加させるため、用途によっては微細な銅粉末の採用を阻害する可能性があります",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、供給の安定性が損なわれ、コストが増加する可能性があり、先進的な製造用途への採用が遅れる要因となる",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の広範な製造エコシステムと巨大な国内需要基盤は、特に電子機器および産業用途における銅粉の継続的な消費を支えている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、積層造形技術の採用と、高性能な銅系部品に対する継続的な需要によって牽引されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "使用条件が厳しく、電極交換に伴う設備停止コストが高い生産ラインでは、酸化アルミニウム銅の採用に魅力があります",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "調達側は通常、他の高性能銅合金と比較検討するため、材料の先進性を広く訴求するよりも、適用条件と限界を明確に示すことが事業上重要です",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "こうした変化は、顧客の加工費用や調達に伴う調整コストの削減に役立つ一方、供給企業には、より高い加工歩留まり、検査能力、納入管理能力が求められます",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "主な用途には抵抗溶接、導電部品・電気接点、熱管理・放熱部品などがあり、繰り返しの加熱や荷重に耐える部品の長寿命化と性能安定化が、その採用を検討する重要な要素となります",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "また、実際の採用では、材料単価だけでなく、電極や部品の寿命、交換頻度、設備停止時間を含む総使用コストが重要な判断基準となります",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "新着PDF：Googleが航空会社の業務データを購入した理由",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "CuCrZr、CuNiSi、CuW、CuMoなどの高性能材料の採用拡大も市場成長を後押ししている",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "B2Bおよび産業用調達という文脈において、GRCop-42は以下の分野において戦略的素材となっています：",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "次のセクションでは、世界有数のサプライヤーや代替調達先、そして上海トゥルーアー・テクノロジー社がGRCop-42粉末の信頼できるパートナーである理由について解説していますので、ぜひ続きをお読みください",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "B2Bのバイヤーにとって、調達効率は極めて重要です",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "上海トゥルーアー・テクノロジーは、OEM、製造業者、研究機関、および積層造形サービスプロバイダー向けに、それぞれのニーズに合わせたサポートを提供することで、卸売購入プロセスを簡素化しています",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "よくある質問：GRCop-42パウダーの購入に関するよくある質問",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "Truer社では、粉末の品質を維持するために防湿包装を採用しています",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "価格は購入数量によって異なります",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の導入事例や、技術に関するご相談など、お気軽にお問い合わせください",
+    "url": "https://em.mitsui-kinzoku.com/engineered-powders/products/additive-manufacturing-copper/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのキーワードは、大規模生産向けの信頼性の高い高導電性材料を探している調達担当者、OEMエンジニア、および産業用バイヤーによって頻繁に検索されています",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "購買担当者、エンジニア、調達担当者がC18150の価値をより深く理解できるよう、その機械的・物理的特性について以下に詳しく解説します：",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用や積層造形用途向けのC18150粉末を調達する際には、信頼性が高く高品質なサプライヤーを選ぶことが極めて重要です",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": ", 、より多くのバイヤーが、専門の積層造形サプライヤーやハイブリッドソリューションプロバイダーといった、代替的な調達先を検討し始めている",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "購入者には、単に粉末だけでなく、プロセスとの互換性、プリンターの設定、および後処理に関する専門知識も求められます",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "購入希望者は、以下の方法を通じて手軽に連絡を取ることができます",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "多国籍OEM企業の調達マネージャーであっても、製品カタログに高性能粉末を追加しようとしている販売代理店であっても、上海トゥルーアー・テクノロジー社への発注は、効率的でプロフェッショナルなプロセスです",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "正式購入前に性能を確認する",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "購入者は、さらに多くのパウダーの選択肢を確認し、直接",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "よくある質問：C18150粉末の卸売り購入に関する一般的な質問",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、産業分野のバイヤー、エンジニア、調達担当者から寄せられるよくある質問に対する回答です",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "原料の純度や合金元素の組成安定性も最終性能を左右するため、上流の原料調達から粉末製造、品質検査、用途別の工程検証まで、一貫した品質管理が重要である",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "●KG規格歯車の購入方法",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "用途・導入事例",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "材料にプラスチック材の定番であるポリアセタールを採用しました",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜採用のメリット＞",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "広く採用されております",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "人工衛星、航空機、新幹線のコネクター用として採用されております",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "コネクタ・放電加工用電極線・トーチ火口用として広く採用されて",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ボールジョイント構造を採用し、",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "不要になった材料の処分、ニッケル銅合金材料の購入をご検討の際は、",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用実績紹介： CCTY自動車部品",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "CCTY採用実績［自動車・二輪・ＡＴＶ］ 動力部・駆動部・足周り・シート・ワイパー",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ご希望のサイズに切断して素材として購入いただくことも可能",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ワイヤーテンションアニーリング(W.TA)法」を採用しております",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "この他に、加工法としてタークスヘッド法を採用した",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社よりご購入いただいた製品は熱処理行います",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "高温環境下でも強度を維持しやすいため、過酷な環境で使用されるロケットのエンジンノズル部品や、海洋環境で使用される耐食性部品などに広く採用されています",
+    "url": "https://azuma-metal3dp.com/column/814",
+    "pass": 3
+   },
+   {
+    "quote": "これらの課題への対策としては、①光反射の影響を受けない電子ビーム方式へ変更する、②銅の高い熱伝導率を踏まえ、熱伝導率の低いステンレス製ベースプレートを使用して熱拡散を抑える、③純銅ではなくクロム銅やジルコニウム銅などの銅合金を採用しレーザー吸収率や熱特性を改善する、といった方法が有効です",
+    "url": "https://azuma-metal3dp.com/column/814",
+    "pass": 3
+   },
+   {
+    "quote": "本製品は、一般に造形が難しいとされる銅合金を採用している点が特徴で….",
+    "url": "https://azuma-metal3dp.com/column/814",
+    "pass": 3
+   },
+   {
+    "quote": "サービス・プロバイダーにとって、高純度の銅粉を大量に調達することは、長期的な技術革新と生産効率のための戦略的投資です",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "OEMやエンジニアリング企業による金属3Dプリンティングの採用増加",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "B2Bバイヤーは、様々な種類を理解することで、十分な情報に基づいた調達決定を行うことができます",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   }
+  ],
+  "再生・循環": [
+   {
+    "quote": "再生可能エネルギー",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "電力インフラ、再生可能エネルギー、先端製造業への投資も、銅粉市場の成長に貢献しています",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本はまた、JOGMECが支援する銅材料のリサイクルおよび加工技術を通じて銅資源の安全保障を強化し、銅粉用途向けの銅原料の長期的な供給を支えている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、電化、再生可能エネルギー、電気自動車、インフラ開発に支えられ、国内の銅需要は2030年までに330万トンに達すると予測されており、産業用途や先端材料用途で使用される銅粉にとって新たな機会が生まれる",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの銅粉市場は、銅を優先鉱物として位置づけ、2030年までに国内の採掘、加工、先端製造、リサイクルのバリューチェーンを強化することを目指す「カナダ重要鉱物戦略」によって支えられています",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "これまでのキャリアを通じて、イスマイルは特殊化学品、先端材料、産業技術、製造設備、再生可能エネルギー、持続可能な包装などを網羅する数多くの業界調査を主導し、貢献してきました",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、先端半導体パッケージ向けの熱応力低減、複数材料を組み合わせた高機能構造、リサイクル性向上、製造工程の低炭素化なども重要性を増し、銅合金製の放熱材料は単なる熱伝導材から、電子システム全体の熱信頼性、性能安定性および長寿命化を支える重要な機能材料へと進化していくと考えられる",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州では自動車電動化、産業用パワーエレクトロニクス、再生可能エネルギーおよび精密機械分野が主要需要源となる",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "100%リサイクル電気銅",
+    "url": "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "pass": 3
+   },
+   {
+    "quote": "100%リサイクル高機能伸銅品",
+    "url": "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "pass": 3
+   },
+   {
+    "quote": "地球環境の保全・再生への貢献",
+    "url": "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル、コバルト、チタン、タンタル、タングステンなどのレアメタル回収及び再生リサイクルとフェロアロイ、非鉄金属地金、スクラップ品、セカンダリー品の販売・貿易業務",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "真鍮（水道メーター）の買取・販売（リサイクル）サービス",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、真鍮（水道メーター）の買取・販売（リサイクル）サービス",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■リサイクル・再溶解可能",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■リサイクル性に富みコンタミ問題が無い",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "●優れた環境調和性：リサイクル時に問題となるような環境負荷物質を含みません",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "『ELEMETAL』は、リサイクル時に問題となるような環境負荷物質を含まず、",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "真鍮（砲金コロ）の買取・販売（リサイクル）サービス",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、真鍮（砲金コロ）の買取・販売（リサイクル）サービス",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "第2章では、酸化アルミニウム銅の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、酸化アルミニウム銅の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "第13章では、酸化アルミニウム銅市場の主要メーカーについて、基本情報、製品仕様と用途、販売量、収益、価格設定、粗利益率、主力事業、最近の動向などの詳細情報を紹介します",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、銅合金製の放熱材料の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、銅合金製の放熱材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "第13章では、銅合金製の放熱材料市場の主要メーカーについて、基本情報、製品仕様と用途、販売量、収益、価格設定、粗利益率、主力事業、最近の動向などの詳細情報を紹介します",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 競争力のある価格設定",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "上海Truer社からGRCop-42粉末を卸売価格で注文するための、簡潔なガイドをご紹介します：",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発（R&D）向けの最小注文数量は、通常1kgです",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "Q6: 1キログラムあたりの価格はいくらですか？",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": ": 1kg規模の研究開発用バッチから、量産用の1トン以上まで",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "1kg、5kg、10kg、25kgの密閉容器",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都台東区三筋2-10-8 | 資本金 2500万円 | 1964年（昭和39年）",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "埼玉県戸田市新曽2002-12 市ヶ谷ビル4F | 従業員 170人 | 資本金 9900万円 | 1969年4月",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都目黒区柿の木坂3-3-2 | 従業員 13人 | 資本金 1000万円 | 1946年12月",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "岡山県岡山市東区古都宿267-1 | 従業員 27人 | 資本金 2100万円 | 1962年7月10日",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区新橋4-22-8 野本ビル 4F | 資本金 2000万円 | 2010年9月1日",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県神戸市北区山田町小部惣六畑山5-3 | 従業員 100人 | 資本金 3000万円 | 昭和１８年１月",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府大阪市大正区小林東３丁目１番９号 | 従業員 10人 | 資本金 1000万円 | 平成4年1月10日",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府東大阪市西堤本通西1丁目3−43 | 従業員 48人 | 資本金 1250万円 | 1950年10月30日",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "京都府亀岡市大井町並河３丁目１０番１号 | 従業員 130人 | 資本金 9000万円 | 1952年11月",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府東大阪市西堤本通西1-8-20 | 従業員 79人 | 資本金 1000万円 | 1935年2月",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府東大阪市本庄西１丁目９番２２号 | 従業員 37人 | 資本金 3900万円 | 1945年10月",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都国分寺市本町2-22-7 | 従業員 18人 | 資本金 3000万円 | 1957年6月",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府大阪市浪速区湊町2丁目2番45号 オンテックス難波ビル11階 | 従業員 70人 | 資本金 9800万円 | 昭和54年8月",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県川崎市宮前区馬絹6-1-28 | 資本金 5000万円 | 1980年12月",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "B2B のバイヤーにとって、高品質の銅粉を大量に調達するには、単に価格を比較するだけではなく、技術的な専門知識、カスタマイズ可能な製品、信頼できる物流を備えたサプライヤーが必要です",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "見積価格の内訳について | 金属3Dプリンターでの造形依頼",
+    "url": "https://jampt.jp/column/column_388/",
+    "pass": 3
+   }
+  ],
+  "ニッチ度（供給元の数・寡占）": [
+   {
+    "quote": "第3章では、酸化アルミニウム銅の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "pass": 3
+   },
+   {
+    "quote": "また、電子機器の小型化と高機能化が同時に進行することで、限られた実装空間内で効率的に熱を拡散する能力が一段と重要になっている",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、銅合金製の放熱材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "従来のサプライヤーには、リードタイムが長い、MOQ（最小注文数量）が高い、粉末のカスタマイズにおける柔軟性が限られているといった制約がしばしばあります",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "上海トゥルーアー・テクノロジーのような代替供給元",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "パウダーの選択肢が限られている",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "サイズは限られておりますがSUS316・316L・430もございます",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Customizable particle sizes and shapes for niche applications.",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "下流ユーザーには半導体デバイスメーカー、パワーモジュール企業、電気自動車・充電システムメーカー、データセンター機器企業、通信装置メーカー、航空宇宙・防衛電子企業および産業設備メーカーが含まれる",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "pass": 3
+   },
+   {
+    "quote": "その優れた機械的特性と、粉末床溶融法や指向性エネルギー堆積法といった先進的な製造手法との親和性により、OEM、航空宇宙関連の請負業者、および高温部品メーカーにとって理想的な選択肢となっています",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "GRCop-42が業界全体で普及するにつれ、OEM、航空宇宙関連の請負業者、および積層造形サービスプロバイダーの間で、信頼性が高く高品質なサプライヤーへの需要が高まっています",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM供給、研究開発パートナーシップ",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業者、航空宇宙分野のOEM、および産業分野のバイヤーが、繰り返しトゥルーアーを選ぶ理由は以下の通りです：",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "上海トゥルーアー・テクノロジーは、OEM、製造業者、研究機関、および積層造形サービスプロバイダー向けに、それぞれのニーズに合わせたサポートを提供することで、卸売購入プロセスを簡素化しています",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマイズおよびOEMサービス",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "OEMブランド製品およびホワイトラベル粉末の供給",
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "pass": 3
+   },
+   {
+    "quote": "また、産業用販売代理店においても、C18150パウダーはその汎用性と過酷な環境下での性能が評価され、現在、バルクでの在庫が確保されています",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのキーワードは、大規模生産向けの信頼性の高い高導電性材料を探している調達担当者、OEMエンジニア、および産業用バイヤーによって頻繁に検索されています",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "多国籍OEM企業の調達マネージャーであっても、製品カタログに高性能粉末を追加しようとしている販売代理店であっても、上海トゥルーアー・テクノロジー社への発注は、効率的でプロフェッショナルなプロセスです",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "OEMサポート",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": ": 販売代理店向けのカスタム合金の開発およびプライベートブランド製品",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "OEMバイヤー",
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工を行う製造業、仲間問屋、商社、メーカー、個人のお客様など、幅広い層に顧客を持っております",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種：商社・卸売り",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪市浪速区に所在のレアメタル専門商社",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "○歯車増減速機の設計製作・OEM・オーバーホール",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料の専門商社として、銅（Cu）系合金を中心に取り扱っております",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "●元々材料商社でありますので材料調達ネットワークが充実",
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "OEMやエンジニアリング企業による金属3Dプリンティングの採用増加",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "同社のPREPとSEBMシステムは、OEMや研究開発機関の厳しい要求に応え、粒子の形態と純度を正確にコントロールします",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM、R&Dラボ、添加剤メーカー向けの専用サポート",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "より多くのバイヤーがOEMベースのサプライチェーンに注目する理由",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルなサプライチェーンが複雑化するにつれ、多くの B2B バイヤーは従来の流通業者から OEM ベースの供給モデルへと調達戦略をシフトしています",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM調達のメリット",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": ":上海トゥルアーのようなOEMは生産工程全体を管理し、一貫性を確保している",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM銅粉ソリューション.",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "先端エレクトロニクスOEM",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM の生産ラインを拡大する場合でも、画期的な技術のプロトタイプを開発する場合でも、上海トルーアは B2B のバイヤーが求める技術的な深さ、カスタマイズ、信頼性を提供します",
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "Increasing adoption of metal 3D printing by OEMs and engineering firms.",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": ", including copper-based alloys customized for high-performance industrial applications. Their PREP and SEBM systems ensure precise control over particle morphology and purity, meeting the rigorous demands of OEMs and R&D institutions.",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated support for OEMs, R&D labs, and additive manufacturers.",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "Why More Buyers Are Turning to OEM-Based Supply Chains",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "As global supply chains grow more complex, many B2B buyers are shifting their sourcing strategies from traditional distributors to OEM-based supply models. This trend is especially evident in the copper powder market, where consistency, purity, and technical performance are paramount.",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of OEM-Based Sourcing",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": ": OEMs like Shanghai Truer control the entire production process, ensuring consistency.",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "for OEM copper powder solutions.",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced electronics OEMs",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   },
+   {
+    "quote": "By partnering with Shanghai Truer, industrial buyers gain access to a vertically integrated, innovation-driven supplier of high-performance copper powders. Whether you’re scaling up an OEM production line or developing prototypes for breakthrough technologies, Shanghai Truer offers the technical depth, customization, and reliability that B2B buyers demand.",
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "3.6",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "世界の銅粉市場規模は、2025年には115万米ドルと評価され、2026年の119万米ドルから2034年には158万米ドルに成長すると予測されており、予測期間（2026年～2034年）中の年平均成長率（CAGR）は3.6%となる見込みです"
+   },
+   {
+    "value": "5.6",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "電解銅粉末は、電気、電子機器、摩擦材、特殊粉末冶金用途における高純度粉末の需要に牽引され、予測期間中に年平均成長率（CAGR）5.6%で成長すると予想されている"
+   },
+   {
+    "value": "5.4",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "フレーク状銅粉末セグメントは、導電性コーティング、インク、塗料、電磁シールド、装飾製品、印刷用途での使用に牽引され、予測期間中に年平均成長率（CAGR）5.4%で成長すると予想されています"
+   },
+   {
+    "value": "10.8",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "積層造形分野は、熱交換器、冷却システム、電気部品、その他の熱管理用途で使用される複雑な銅部品の需要に牽引され、予測期間中に年平均成長率（CAGR）10.8%で成長すると予想されている"
+   },
+   {
+    "value": "7.0",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "自動車分野は、銅をベースとした部品、電気システム、摩擦材、および熱管理技術の使用に牽引され、予測期間中に年平均成長率（CAGR）7.0%で成長すると予想されている"
+   },
+   {
+    "value": "4.1",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "北米の銅粉市場は、先進製造業、エレクトロニクス、自動車用途、積層造形、および高性能導電性材料への需要に支えられ、予測期間中に年平均成長率（CAGR）4.1%で成長すると予想されている"
+   },
+   {
+    "value": "9.50",
+    "url": "https://newscast.jp/smart/news/3331170",
+    "quote": "LPI世界酸化アルミニウム銅分析レポートによると、世界酸化アルミニウム銅市場規模は194.85百万ドルであり、将来的には335.88百万ドルに達し、CAGRは9.50%です"
+   },
+   {
+    "value": "6.6",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "quote": "銅合金製の放熱材料市場規模マップ＋シェア＋フレームワーク、CAGR 6.6%の安定成長 - ZDNET Japan"
+   },
+   {
+    "value": "8.7",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "quote": "その後、2026年から2032年にかけて年平均成長率（CAGR）8.7%で推移し、2032年には122百万米ドルに拡大すると見込まれています"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "42.0",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "アジア太平洋地域は、2025年に42.0%の市場シェアを占め、銅粉市場を牽引しました"
+   },
+   {
+    "value": "45.2",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "微粒化された銅粉末は、粉末冶金、溶射、積層造形、その他の産業用途において、粒子サイズ、形態、流動特性を制御できることから、2025年には45.2%のシェアを占める見込みである"
+   },
+   {
+    "value": "44.8",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "球状銅粉末セグメントは、その良好な流動性、充填性、および高度な製造プロセスへの適合性により、2025年には44.8%のシェアを占める見込みである"
+   },
+   {
+    "value": "36.8",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "粉末冶金分野は、ベアリング、フィルター、構造部品、摩擦材、電気部品における銅粉末の確立された使用に支えられ、2025年には36.8%のシェアを占めた"
+   },
+   {
+    "value": "35.6",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "電子機器・電気機器分野は、効率的な放熱に対する需要により、2025年には35.6%のシェアを占め、導電性材料は引き続き銅粉の消費を支えている"
+   },
+   {
+    "value": "6.6",
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "quote": "銅合金製の放熱材料市場規模マップ＋シェア＋フレームワーク、CAGR 6.6%の安定成長 - ZDNET Japan"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1113920.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/ja/report/copper-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/3331170",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3331170",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/release/31209248/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/metal-powders-for-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crossmining.smm.co.jp/co-creation/fine_copper_powder_01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda-kyoto.co.jp/product/detail/14",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20200824.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://em.mitsui-kinzoku.com/engineered-powders/products/additive-manufacturing-copper/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/ja/c18150-powder20260119/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-ultra-fine-copper-powder-market-2026-2035-expert-view-by-spherical-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azuma-metal3dp.com/column/814",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/example/example-603/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shouketsu.com/%E7%84%BC%E7%B5%90%E5%87%A6%E7%90%86%E5%8F%AF%E8%83%BD%E6%9D%90%E8%B3%AA/%E9%8A%85cu%E5%A4%9A%E5%AD%94%E8%B3%AA%E9%87%91%E5%B1%9E/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Microsoft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/ja/copper-powder20250922/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_388/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mwinns.com/blog/award-winning-midwest-restaurants/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tastingtable.com/2290167/small-town-midwest-restaurants-feeding-generations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midwestliving.com/best-midwest-restaurants-national-lists-11827007",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newsbreak.com/travel-pug-307649113/4756188146835-29-under-the-radar-midwest-towns-with-surprisingly-great-food-scenes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midwestliving.com/date-nights-worth-the-drive-11967410",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mta-tokyo.jp/metal-info/863/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/JQuery_UI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://query-u.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jquery.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geeksforgeeks.org/jquery/jquery-ui/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/jquery/jquery-ui",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/driving-innovation-manufacturing-japans-cgcwc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/mim-metal-am-powder-demand-scaling-rapidly-supply-chain-vivian-song-mzw5c",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/carpenteradditive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/japanesedistributors",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/pmgsinter",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/matthias-schmidt-lehr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-of-intricate-structures-in-commercially-pure-copper--46900?srsltid=AYCX9vIyXhaabHlCAerPuNSRByxPflAwR7VmcWuxlYjio2JbTBRJOKaJ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/copper-powder20250922/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2079-6412/11/6/740",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "銅・銅合金粉末のAM用途（放熱・電極） 市場規模 CAGR",
+   "results": [
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1113920.html",
+    "https://straitsresearch.com/jp/report/copper-powder-market",
+    "https://www.factmr.com/ja/report/copper-metal-powder-market",
+    "https://newscast.jp/smart/news/3331170",
+    "https://www.atpress.ne.jp/news/3331170",
+    "https://japan.zdnet.com/release/31209248/",
+    "https://note.com/qy_research/n/n366973a51371",
+    "https://news.nicovideo.jp/watch/nw19800526",
+    "https://jp.linkedin.com/pulse/%E9%8A%85%E7%B3%BB%E7%B2%89%E6%9C%AB-market-insights-revenue-forecast-%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A714%E3%81%AEcagr%E3%81%A7%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-wgwee"
+   ]
+  },
+  {
+   "query": "銅・銅合金粉末のAM用途（放熱・電極） 価格 kg",
+   "results": [
+    "https://am-printing.com/ja/grcop-42-powder20250826/",
+    "https://met3dp.com/ja/metal-powders-for-3d-printing/",
+    "https://crossmining.smm.co.jp/co-creation/fine_copper_powder_01/",
+    "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "https://www.fukuda-kyoto.co.jp/product/detail/14",
+    "https://www.sanyo-steel.co.jp/system/upload/news/20200824.pdf",
+    "https://www.shouketsu.com/%E7%84%BC%E7%B5%90%E5%87%A6%E7%90%86%E5%8F%AF%E8%83%BD%E6%9D%90%E8%B3%AA/%E9%8A%85cu%E5%A4%9A%E5%AD%94%E8%B3%AA%E9%87%91%E5%B1%9E/",
+    "https://jampt.jp/column/column_388/",
+    "https://www.hata-cu.com/blog/post-232/",
+    "https://msmagazine.com/2026/10/29/senate-republicans-supreme-court-vacancy-lame-duck-alito-thomas-trump/"
+   ]
+  },
+  {
+   "query": "銅・銅合金粉末のAM用途（放熱・電極） シェア 主要企業",
+   "results": [
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1113920.html",
+    "https://straitsresearch.com/jp/report/copper-powder-market",
+    "https://newscast.jp/smart/news/3331170",
+    "https://www.atpress.ne.jp/news/3331170",
+    "https://em.mitsui-kinzoku.com/engineered-powders/products/additive-manufacturing-copper/",
+    "https://am-printing.com/ja/c18150-powder20260119/",
+    "https://japan.zdnet.com/release/31209248/",
+    "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-ultra-fine-copper-powder-market-2026-2035-expert-view-by-spherical-insights",
+    "https://note.com/qy_research/n/n366973a51371"
+   ]
+  },
+  {
+   "query": "銅・銅合金粉末のAM用途（放熱・電極） 主要メーカー 一覧",
+   "results": [
+    "https://em.mitsui-kinzoku.com/engineered-powders/products/additive-manufacturing-copper/",
+    "https://am-printing.com/ja/c18150-powder20260119/",
+    "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1113920.html",
+    "https://azuma-metal3dp.com/column/814",
+    "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "http://3d.kinzoku-kakou-odec.com/example/example-603/",
+    "https://crossmining.smm.co.jp/co-creation/fine_copper_powder_01/",
+    "https://www.shouketsu.com/%E7%84%BC%E7%B5%90%E5%87%A6%E7%90%86%E5%8F%AF%E8%83%BD%E6%9D%90%E8%B3%AA/%E9%8A%85cu%E5%A4%9A%E5%AD%94%E8%B3%AA%E9%87%91%E5%B1%9E/",
+    "https://en.wikipedia.org/wiki/Microsoft"
+   ]
+  },
+  {
+   "query": "銅・銅合金粉末のAM用途（放熱・電極） 参入企業 数",
+   "results": [
+    "https://em.mitsui-kinzoku.com/engineered-powders/products/additive-manufacturing-copper/",
+    "https://azuma-metal3dp.com/column/814",
+    "https://am-printing.com/ja/copper-powder20250922/",
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1113920.html",
+    "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "https://www.sanyo-steel.co.jp/system/upload/news/20200824.pdf",
+    "https://crossmining.smm.co.jp/co-creation/fine_copper_powder_01/",
+    "https://straitsresearch.com/jp/report/copper-powder-market",
+    "https://www.jeol.co.jp/column/detail003.html"
+   ]
+  },
+  {
+   "query": "銅・銅合金粉末のAM用途（放熱・電極） 日本 需要",
+   "results": [
+    "https://em.mitsui-kinzoku.com/engineered-powders/products/additive-manufacturing-copper/",
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1113920.html",
+    "https://azuma-metal3dp.com/column/814",
+    "https://am-printing.com/ja/copper-powder20250922/",
+    "http://3d.kinzoku-kakou-odec.com/example/example-603/",
+    "https://www.jeol.co.jp/column/detail003.html",
+    "https://note.com/qy_research/n/n366973a51371",
+    "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "https://jampt.jp/column/column_388/",
+    "https://mwinns.com/blog/award-winning-midwest-restaurants/"
+   ]
+  },
+  {
+   "query": "銅・銅合金粉末のAM用途（放熱・電極） 国内 導入台数 OR 輸入量",
+   "results": [
+    "https://em.mitsui-kinzoku.com/engineered-powders/products/additive-manufacturing-copper/",
+    "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "https://azuma-metal3dp.com/column/814",
+    "https://www.sanyo-steel.co.jp/system/upload/news/20200824.pdf",
+    "https://crossmining.smm.co.jp/co-creation/fine_copper_powder_01/",
+    "https://am-printing.com/ja/copper-powder20250922/",
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1113920.html",
+    "https://www.jeol.co.jp/column/detail003.html",
+    "https://mta-tokyo.jp/metal-info/863/",
+    "https://en.wikipedia.org/wiki/JQuery_UI"
+   ]
+  },
+  {
+   "query": "銅・銅合金粉末のAM用途（放熱・電極） 日本企業 採用 調達 事例",
+   "results": [
+    "https://azuma-metal3dp.com/column/814",
+    "https://www.jeol.co.jp/column/detail003.html",
+    "https://em.mitsui-kinzoku.com/engineered-powders/products/additive-manufacturing-copper/",
+    "https://am-printing.com/ja/copper-powder20250922/",
+    "https://crossmining.smm.co.jp/co-creation/fine_copper_powder_01/",
+    "https://jampt.jp/column/column_388/",
+    "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "https://mono.ipros.com/category/afa0e48394976365/index.html",
+    "http://3d.kinzoku-kakou-odec.com/example/example-603/",
+    "https://www.linkedin.com/pulse/driving-innovation-manufacturing-japans-cgcwc"
+   ]
+  },
+  {
+   "query": "copper powder additive manufacturing heat exchanger electrical Japan customers demand imports",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-of-intricate-structures-in-commercially-pure-copper--46900?srsltid=AYCX9vIyXhaabHlCAerPuNSRByxPflAwR7VmcWuxlYjio2JbTBRJOKaJ",
+    "https://am-printing.com/copper-powder20250922/",
+    "https://www.mdpi.com/2079-6412/11/6/740",
+    "https://insidemetaladditivemanufacturing.com/2025/03/03/copper-pbf-are-we-ready-for-high-performance-large-scale-manufacturing/",
+    "https://www.elementum3d.com/copper/",
+    "https://iifiir.org/en/encyclopedia-of-refrigeration/additive-manufacturing-of-heat-exchangers",
+    "https://ampower.eu/studies/copper-additive-manufacturing/",
+    "https://www.intechopen.com/chapters/83547",
+    "https://www.linkedin.com/pulse/key-regional-trends-shaping-additive-manufacturing-copper-xrvdf",
+    "https://en.wikipedia.org/wiki/Copper"
+   ]
+  },
+  {
+   "query": "銅・銅合金粉末のAM用途（放熱・電極） 供給契約 長期",
+   "results": [
+    "https://am-printing.com/ja/copper-powder20250922/",
+    "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "https://www.jeol.co.jp/column/detail003.html",
+    "https://crossmining.smm.co.jp/co-creation/fine_copper_powder_01/",
+    "https://www.sanyo-steel.co.jp/system/upload/news/20200824.pdf",
+    "https://jampt.jp/column/column_388/",
+    "https://www.mitsui-kinzoku.com/purpose/reports/20240201-03.html",
+    "https://patents.google.com/patent/JP2016023348A/ja",
+    "https://www.shouketsu.com/%E7%84%BC%E7%B5%90%E5%87%A6%E7%90%86%E5%8F%AF%E8%83%BD%E6%9D%90%E8%B3%AA/%E9%8A%85cu%E5%A4%9A%E5%AD%94%E8%B3%AA%E9%87%91%E5%B1%9E/"
+   ]
+  },
+  {
+   "query": "copper powder additive manufacturing heat exchanger electrical market size CAGR 2030",
+   "results": [
+    "https://market.us/report/global-ultrafine-copper-powder-market/",
+    "https://www.grandviewresearch.com/industry-analysis/copper-powder-market-report",
+    "https://www.factmr.com/report/copper-metal-powder-market",
+    "https://www.linkedin.com/pulse/copper-powder-3d-printing-market-research-report-industry-ksi6e",
+    "https://straitsresearch.com/report/copper-powder-market",
+    "https://www.marketsandmarkets.com/PressReleases/heat-exchanger.asp",
+    "https://ampower.eu/studies/copper-additive-manufacturing/",
+    "https://www.mdpi.com/2504-4494/9/4/109",
+    "https://www.fortunebusinessinsights.com/industry-reports/heat-exchangers-market-100919",
+    "https://en.wikipedia.org/wiki/Copper"
+   ]
+  },
+  {
+   "query": "copper powder additive manufacturing heat exchanger electrical price per kg",
+   "results": [
+    "https://qualloy.com/materials/copper/PureCu-15-53",
+    "https://www.sciencedirect.com/science/article/pii/S2949822826003382",
+    "https://insidemetaladditivemanufacturing.com/2025/03/03/copper-pbf-are-we-ready-for-high-performance-large-scale-manufacturing/",
+    "https://dataintelo.com/report/atomizing-copper-powder-market",
+    "https://www.elementum3d.com/copper/",
+    "https://www.youtube.com/watch?v=7t2Rp91CEiY",
+    "https://ampower.eu/studies/copper-additive-manufacturing/",
+    "https://www.metalpowderworks.com/ofhc-cu",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9267578/"
+   ]
+  },
+  {
+   "query": "copper powder additive manufacturing heat exchanger electrical key players market share percent",
+   "results": [
+    "https://market.us/report/global-ultrafine-copper-powder-market/",
+    "https://www.grandviewresearch.com/industry-analysis/copper-powder-market-report",
+    "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-ultra-fine-copper-powder-market-2026-2035-expert-view-by-spherical-insights",
+    "https://ampower.eu/studies/copper-additive-manufacturing/",
+    "https://straitsresearch.com/report/copper-powder-market",
+    "https://www.linkedin.com/pulse/key-regional-trends-shaping-additive-manufacturing-copper-xrvdf",
+    "https://insidemetaladditivemanufacturing.com/2025/03/03/copper-pbf-are-we-ready-for-high-performance-large-scale-manufacturing/",
+    "https://www.intechopen.com/chapters/83547",
+    "https://www.datamarketanalysis.com/reports/copper-tin-alloy-powder-market-size-growth-forecast",
+    "https://en.wikipedia.org/wiki/Copper"
+   ]
+  },
+  {
+   "query": "copper powder additive manufacturing heat exchanger electrical number of suppliers concentrated OR fragmented",
+   "results": [
+    "https://addupsolutions.com/am-heat-exchangers/",
+    "https://insidemetaladditivemanufacturing.com/2025/03/03/copper-pbf-are-we-ready-for-high-performance-large-scale-manufacturing/",
+    "https://www.sciencedirect.com/science/article/pii/S2214993723002348",
+    "https://iifiir.org/en/encyclopedia-of-refrigeration/additive-manufacturing-of-heat-exchangers",
+    "https://blog.sintef.com/energy/additive-manufacturing-of-heat-exchangers/",
+    "https://ampower.eu/studies/copper-additive-manufacturing/",
+    "https://www.elementum3d.com/copper/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9267578/",
+    "https://dataintelo.com/report/atomizing-copper-powder-market",
+    "https://en.wikipedia.org/wiki/Copper"
+   ]
+  },
+  {
+   "query": "copper powder additive manufacturing heat exchanger electrical consumption per machine per year",
+   "results": [
+    "https://www.sciencedirect.com/science/article/abs/pii/S1526612521007702",
+    "https://insidemetaladditivemanufacturing.com/2025/03/03/copper-pbf-are-we-ready-for-high-performance-large-scale-manufacturing/",
+    "https://dspace.mit.edu/entities/publication/f9d3e909-32a7-4835-8635-044ab4fa5b50",
+    "https://www.mdpi.com/1996-1944/18/13/3035",
+    "https://www.jeol.com/column/detail003.php",
+    "https://www.metal-am.com/articles/the-additive-manufacturing-of-record-breaking-pure-copper-heatsinks-for-high-performance-computing-applications/",
+    "https://dataintelo.com/report/atomizing-copper-powder-market",
+    "https://link.springer.com/article/10.1007/s40684-026-00928-z",
+    "https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=3309&context=iracc",
+    "https://en.wikipedia.org/wiki/Copper"
+   ]
+  },
+  {
+   "query": "copper powder additive manufacturing heat exchanger electrical qualification long-term supply agreement",
+   "results": [
+    "https://www.continuumpowders.com/expanding-the-cuni-toolbox-for-harsh-environment-additive-manufacturing/",
+    "https://ampower.eu/studies/copper-additive-manufacturing/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9267578/",
+    "https://insidemetaladditivemanufacturing.com/2025/03/03/copper-pbf-are-we-ready-for-high-performance-large-scale-manufacturing/",
+    "https://am-printing.com/copper-powder20250922/",
+    "https://www.youtube.com/watch?v=epqdPTfxVsM",
+    "https://iifiir.org/en/encyclopedia-of-refrigeration/additive-manufacturing-of-heat-exchangers",
+    "https://www.renishaw.com/en/additive-manufacturing-of-intricate-structures-in-commercially-pure-copper--46900?srsltid=AYCX9vJbz29w6byrZ5knWG_Xv9KLWbyQMcdmRUTLZSxjm0iPWyyb1o2f",
+    "https://www.mdpi.com/2071-1050/18/3/1356",
+    "https://en.wikipedia.org/wiki/Copper"
+   ]
+  },
+  {
+   "query": "copper powder additive manufacturing heat exchanger electrical distributor direct sales OEM approved materials",
+   "results": [
+    "https://cunova.com/en/copperpowder",
+    "https://www.elementum3d.com/copper/",
+    "https://academy.ampcometal.com/how-copper-alloys-are-transforming-metal-additive-manufacturing?hsLang=en",
+    "https://ampower.eu/studies/copper-additive-manufacturing/",
+    "https://www.intechopen.com/chapters/83547",
+    "https://www.hoganas.com/en/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/copper-alloy-am-powders/",
+    "https://www.rapiddirect.com/materials/3d-printing/copper/",
+    "https://www.youtube.com/watch?v=7t2Rp91CEiY",
+    "https://insidemetaladditivemanufacturing.com/2025/03/03/copper-pbf-are-we-ready-for-high-performance-large-scale-manufacturing/"
+   ]
+  },
+  {
+   "query": "site:note.com 銅・銅合金粉末のAM用途（放熱・電極）",
+   "results": [
+    "https://note.com/daikensha_iplas7/n/ne81242075a08"
+   ]
+  },
+  {
+   "query": "site:x.com 銅・銅合金粉末のAM用途（放熱・電極）",
+   "results": [
+    "https://www.goodrx.com/ozempic/ozempic-sex-drive",
+    "https://www.plannedparenthood.org/blog/ozempic-and-your-sex-drive-what-you-need-to-know-about-glp-1-medications-and-your-sexual-health",
+    "https://theglpjournal.com/glp-1-libido-sexual-function",
+    "https://www.allohealth.com/blog/sexual-health/sex-drive/ozempic-sex-drive",
+    "https://www.doctronic.ai/blog/does-ozempic-affect-mens-sexual-health/",
+    "https://www.nutritionnc.com/ozempic-and-sex-drive/",
+    "https://www.allohealth.com/blog/sexual-health/sex-drive/semaglutide-sex-drive",
+    "https://www.weightlossrankings.org/research/glp1-libido-sex-drive-evidence",
+    "https://hard.health/blog/ozempic-and-sex-drive-what-men-are-actually-reporting/",
+    "https://yuniquemedical.com/ozempic-and-sex-drive/"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 銅・銅合金粉末のAM用途（放熱・電極）",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E7%AA%92%E7%B4%A0%E9%9C%A7%E5%8C%96%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E6%A5%AD%E7%95%8C%E5%88%86%E6%9E%90%E3%81%A8%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC%E4%BA%88%E6%B8%AC107%E3%81%AEcagr-vyronixz-qjcie",
+    "https://jp.linkedin.com/in/%E5%A4%A7%E8%BC%9D-%E5%8A%A0%E8%97%A4-22126617b",
+    "https://media.usafacts.org/m/53baf4d70e94990d/original/2022_10k.pdf",
+    "https://usafacts.org/articles/how-do-runoff-elections-work/",
+    "https://usafacts.org/articles/how-do-non-english-speaking-americans-vote/",
+    "https://usafacts.org/articles/general-election-definition/",
+    "https://media.usafacts.org/m/701c2b40c51178b5/original/USAFacts_AR26_Federal_Reserve_v4.pdf",
+    "https://usafacts.org/articles/split-ticket-voting-definition/",
+    "https://usafacts.org/articles/who-shows-up-to-the-midterms/",
+    "https://usafacts.org/articles/is-midterm-voter-turnout-really-that-much-lower-than-presidential-years/"
+   ]
+  },
+  {
+   "query": "site:facebook.com 銅・銅合金粉末のAM用途（放熱・電極）",
+   "results": [
+    "https://en.wikipedia.org/wiki/Lion",
+    "https://www.bbcearth.com/factfiles/animals/mammals/lion",
+    "https://www.britannica.com/animal/lion",
+    "https://www.worldatlas.com/animals/lion.html",
+    "https://a-z-animals.com/animals/lion/",
+    "https://www.worldwildlife.org/species/lion/",
+    "https://kids.nationalgeographic.com/animals/mammals/facts/lion",
+    "https://www.pbs.org/wnet/nature/group/mammals/lion/",
+    "https://www.merriam-webster.com/dictionary/lion",
+    "https://www.youtube.com/watch?v=8-6YqxYAkd0"
+   ]
+  },
+  {
+   "query": "銅・銅合金粉末のAM用途（放熱・電極） note 社長",
+   "results": [
+    "https://em.mitsui-kinzoku.com/engineered-powders/products/additive-manufacturing-copper/",
+    "https://azuma-metal3dp.com/column/814",
+    "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-452/",
+    "https://www.jeol.co.jp/column/detail003.html",
+    "https://www.sanyo-steel.co.jp/system/upload/news/20200824.pdf",
+    "https://crossmining.smm.co.jp/co-creation/fine_copper_powder_01/",
+    "https://am-printing.com/ja/copper-powder20250922/",
+    "https://jampt.jp/column/column_388/",
+    "https://www.bankbranchlocator.com/banks-in-boston-ma.html"
+   ]
+  },
+  {
+   "query": "銅・銅合金粉末のAM用途（放熱・電極） X 投稿",
+   "results": [
+    "https://em.mitsui-kinzoku.com/engineered-powders/products/additive-manufacturing-copper/",
+    "https://azuma-metal3dp.com/column/814",
+    "http://3d.kinzoku-kakou-odec.com/example/example-603/",
+    "https://crossmining.smm.co.jp/co-creation/fine_copper_powder_01/",
+    "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "https://www.sanyo-steel.co.jp/system/upload/news/20200824.pdf",
+    "https://www.jeol.co.jp/column/detail003.html",
+    "https://am-printing.com/ja/additive-manufacturing-of-cucrzr-copper-alloy-powder/",
+    "https://jampt.jp/column/column_388/",
+    "https://www.merriam-webster.com/dictionary/vindicate"
+   ]
+  },
+  {
+   "query": "copper powder additive manufacturing heat exchanger electrical site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/processing-copper-alloys-dmls-technology-mahemaa-rajasekaran",
+    "https://www.linkedin.com/pulse/atomized-copper-based-powder-market-growth-analysis-gqhme",
+    "https://www.linkedin.com/pulse/3d-printed-liquid-cold-plates-flow-channel-nskic",
+    "https://www.linkedin.com/pulse/market-growth-drivers-behind-increasing-demand-fine-water-ufdkf",
+    "https://www.linkedin.com/pulse/copper-powder-999999-99999-purity-lewesmetals-cwryf",
+    "https://www.linkedin.com/posts/larklin-scientific_larklinscientific-copperalloypowders-copperpowder-activity-7516497792568262656-7R0h",
+    "https://www.linkedin.com/pulse/aerospace-industry-semi-finished-copper-materials-6t9ff",
+    "https://www.linkedin.com/pulse/electrical-alloy-powder-market-insights-20252034-0inzf",
+    "https://uk.linkedin.com/company/phoenixscientificindustriesltd",
+    "https://www.linkedin.com/company/conflux-technology"
+   ]
+  }
+ ],
+ "missing": {}
 }

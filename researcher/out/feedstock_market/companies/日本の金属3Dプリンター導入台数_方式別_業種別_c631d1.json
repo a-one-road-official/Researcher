@@ -1,0 +1,1804 @@
+{
+ "name": "日本の金属3Dプリンター導入台数（方式別・業種別）",
+ "en": "metal 3D printer installed base Japan by technology industry",
+ "aliases": [
+  "金属3Dプリンター 国内 導入台数",
+  "金属積層造形装置 国内 稼働台数",
+  "日本 金属AM 装置 保有"
+ ],
+ "context": "日本の需要",
+ "kind": "market",
+ "researched_at": "2026-11-04T12:06:05.364822+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "金属3Dプリンティング市場規模、シェア、トレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、技術別（選択的レーザー焼結、直接金属レーザー焼結、電子ビーム溶解、選択的レーザー溶解、その他）、ソフトウェア別（設計ソフトウェア、検査ソフトウェア、プリンターソフトウェア、スキャンソフトウェア）、用途別（プロトタイピング、ツーリング、機能部品）、業種別（自動車、航空宇宙・防衛、ヘルスケア、家電、電力・エネルギー、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンティング市場規模は、2025年には75億米ドルと評価され、2026年の92億1000万米ドルから2034年には476億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は22.8%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2033年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品市場におけるクラウドコンピューティングの市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用IoT市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "IoTヘルスケア市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ブロックチェーンIoT市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円*1",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円の装置投資、粉末材料の在庫リスク、専用オペレーターの人件費が一切かからず、必要な時に必要な分だけ発注できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "量産できる3Dプリンターを中心に市場規模拡大の見通し",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "の総売上額は前年比8.9％増の308億円で、2017～",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模を476億円と予測する」と発表した",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を含めて一式で約1 億円、ArcamQ20に至っては一",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "式約2 億円の価格である",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ンタは900億円（1,800台×5,000万円/台）、金属粉",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "末材料売上は180億円（1,000万円/台×1,800台）",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Has that time really come? If it has, it’s not that clear-cut yet. The Nikkei estimates the Japanese 3D printing market compound annual growth rate (CAGR) to be 9.1% between 2017 and 2022, when the market is expected to be worth about $430 million. This is, however, just a tiny percentage (0.1%) of the overall Japanese manufacturing industry, which generates about $400 billion yearly.",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "金属3Dプリンティング市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンティング市場規模は、2025年には75億米ドルと評価され、2026年の92億1000万米ドルから2034年には476億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は22.8%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2025年～2033年）",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアセグメントは市場への貢献度が最も高く、予測期間中に年平均成長率（CAGR）24.20%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム溶解（EBM）セグメントは最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）23.95%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "設計ソフトウェアセグメントは市場への貢献度が最も高く、予測期間中に年平均成長率（CAGR）22.60%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "試作セグメントは市場シェアが最も高く、予測期間中に年平均成長率（CAGR）23.55%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野は市場への貢献度が最も高く、予測期間中に年平均成長率（CAGR）22.45%で拡大すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界の金属3Dプリンティング市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）23.00%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンティング市場は北米地域で最も急速に拡大しており、長期的な投資計画を持つ企業にとって、さらなる成長の可能性を秘めています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）27.10%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "この投資により、Incodema3DのEOS金属プリンター保有台数は50台以上に増加し、航空宇宙、防衛、宇宙、エネルギー、産業生産といった分野への事業拡大が促進されます",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "この投資は、同社の生産能力を拡大し、ミッションクリティカルな金属3Dプリンティング分野における地位を強化することを目的としています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンティング市場の規模は、2026年には92億1000万米ドルと評価され、2026年から2034年の予測期間において年平均成長率（CAGR）22.8%で成長し、2034年には476億3000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMの技術は日々進化しており、2026年以降はBJT方式の量産受託や難加工材対応の拡大など、選択肢はさらに広がっていくはずです",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "市場拡大の背景には、装置性能や材料、後処理、設計ソフトの進化に加え、2000年代後半から2010年代前半にかけて主要方式の基本特許が順次失効し、装置価格の低下と参入増が進んだことも挙げられます",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター市場の拡大に伴い、当然ながらメーカーによる開発競争は激化しています",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "量産できる3Dプリンターを中心に市場規模拡大の見通し",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターは「設計自由度」と「段取り短縮」を両立しやすく、用途拡大の余地があります",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "の総売上額は前年比8.9％増の308億円で、2017～",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の年間平均成長率を＋9.1％、2022年の市場",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "比成長率＋27.1％の 1,900 台、売上額は＋5.9％の",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Has that time really come? If it has, it’s not that clear-cut yet. The Nikkei estimates the Japanese 3D printing market compound annual growth rate (CAGR) to be 9.1% between 2017 and 2022, when the market is expected to be worth about $430 million. This is, however, just a tiny percentage (0.1%) of the overall Japanese manufacturing industry, which generates about $400 billion yearly.",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "インドでは、金属AM分野の技術進歩に伴い、今後数年間で3Dプリント金属の需要が増加すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "過去数年間、この地域は家電製品を製造する企業にとっての拠点となり、自動車生産の重要な拠点となることでその存在感を高めてきました",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパは、豊富な技術ノウハウと原材料のおかげで、積層造形に関する大規模な研究開発を定期的に実施している地域の一つです",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "コスト分岐点は、年間造形量と用途によって変わります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "目安として、年間造形量が500cm³以下、かつ多品種少量の試作が中心であれば受託造形が圧倒的に優位です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "一方、年間造形量が数千cm³を超え、同一素材で継続的に生産する場合は自社導入が視野に入ります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "5 年間常駐させレーザの特性を学び、レーザ加工技術の習得",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の年間平均成長率を＋9.1％、2022年の市場",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "域における、イ. 指定期間での、 ウ. 全検索回数に対する指定",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「LUMEX Avance-25」）を使用して3 年間で180",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ". The company driven by CEO Alexander De Vore, is the prototype of the modern 3D printing firm, offering DfAM consultancy, machine sales (with Markforged alongside AON3D) and manufacturing services (including robotic extrusion of CFRP materials).",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   }
+  ],
+  "上位シェア・主要企業": [
+   {
+    "quote": "金属3Dプリンティング市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンティング市場規模、シェア、トレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、技術別（選択的レーザー焼結、直接金属レーザー焼結、電子ビーム溶解、選択的レーザー溶解、その他）、ソフトウェア別（設計ソフトウェア、検査ソフトウェア、プリンターソフトウェア、スキャンソフトウェア）、用途別（プロトタイピング、ツーリング、機能部品）、業種別（自動車、航空宇宙・防衛、ヘルスケア、家電、電力・エネルギー、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に市場シェア36.8%を占め、金属3Dプリンティング市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は金属3Dプリンティング業界を牽引し、2024年には43.5%のシェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "技術面では、電子ビーム溶解（EBM）分野が2024年の金属3Dプリンティング市場で約26%の最大のシェアを占め、高強度で複雑な金属部品を優れた精度で製造できる能力によって市場を支配しており、航空宇宙産業や医療産業における重要な用途に最適となっている",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム溶解（EBM）セグメントは最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）23.95%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "試作セグメントは市場シェアが最も高く、予測期間中に年平均成長率（CAGR）23.55%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界の金属3Dプリンティング市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）23.00%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で36.8%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収益化市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品市場におけるクラウドコンピューティングの市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用IoT市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ビデオ監視市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "IoTヘルスケア市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ブロックチェーンIoT市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、大手専門事業者（東レ・プレシジョン、J・3D、JAMPT、SOLIZE）は認証取得や特殊素材対応に強く、オンライン特化型（DMM.make、Kabuku Connect）は即時見積もりとスピードに強みがあり、用途と要件によって最適な選択が異なります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "大手製造業向け",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZEは大手製造業向けのエンジニアリング支援に強く、リバースエンジニアリングや設計最適化と組み合わせた受託が可能です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "JAMPTや東レ・プレシジョンなど大手専門事業者は対応実績を公表しています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの市場動向と世界シェアが高いメーカー4社",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【用途別】おすすめ3Dプリンター_TOP",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】おすすめの3Dプリンター_TOP",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】おすすめの3Dプリンター_TOP",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務用3Dプリンター＆メーカー一覧",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務用3Dプリンター＆メーカー一覧_TOP",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "Shop System［Desktop Metal］",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "CHECK！3Dプリンターの選び方ガイド_TOP",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "知っておくべし！3Dプリンターの基礎知識_TOP",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの世界シェア",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの種類と特徴まとめ_TOP",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【業種別】3Dプリンターの導入事例と今後の展望_TOP",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入したらこんなことも！？3Dプリンターでできること_TOP",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格帯や用途別で細分化する3Dプリンター市場の最新動向と世界シェアの捉え方",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "量産・内製化へシフトする市場展望と、業界再編（M&A）に伴う今後のシェア推移",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在でも本工法においてシェアが最も高い",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DeskTopMetal 〇",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の試算は大手企業を中心とした参画メンバーへの意",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大手自動車メーカーではかなり進んでおり、日本メ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術の採用を決定するなど大手自動車メーカーが積極的に本",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[for the manufacturing of a 22N rocket thruster utilizing hydrazine]” is what prompted us to connect some dots. Until recently all these industries did not seem to see Japanese additive manufacturing companies as capable of offering truly practical production solutions. Companies like Solize, 3DCeram, IHI, Mitsubishi and nTopology are proving otherwise.",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "photopolymer resin materials markets",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "recently became a distributor of nTopology software in Japan",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology is making a big push for the Japanese market.",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "US-based generative design software company nTopology recently signed another distribution deal for Japan with NTT DATA’s new",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "top news",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Back to top button",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   }
+  ],
+  "日本の買い手と供給元": [
+   {
+    "quote": "さらに、日本、中国、韓国などの主要国の科学者や研究者による医療分野の研究開発によって、3Dプリンティング技術の進歩が促進されています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパの高度な研究者、技術者、科学者たちは、3Dプリンティングの未来を切り拓くために尽力しており、これは米国、日本、ロシアといった世界有数の経済大国にも受け入れられています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内でも東レ・プレシジョン、J・3D、JAMPTなど専門事業者のサービスラインナップが充実しつつあります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "このセクションでは、国内で金属3Dプリンタ受託造形を提供する主要9社を横断比較します",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "JAMPT（日本積層造形）",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンタ",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "JAMPT（日本積層造形）は",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "ODECや日本3Dプリンタは装置販売と受託造形の両方を展開しているため、将来的な自社導入を視野に入れた企業にとってワンストップの相談先になります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "JAMPT、東レ・プレシジョン、SOLIZE、日本3Dプリンタなどが対応実績を公表しています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンは放射線遮蔽や高温電極用途で需要があり、こちらも国内対応事業者は数社に限られるため、事前の問い合わせが不可欠です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "国内受託造形の主流はこのPBF方式で、東レ・プレシジョン、J・3D、JAMPTなどほぼすべての専門事業者が対応しています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "国内でもBJT対応の受託サービスが少しずつ登場しており、今後の選択肢拡大が期待されます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "JAM-5200EBM[日本電子株式会社]",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "LAMDAシリーズ［日本電産マシンツール］",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、世界的に存在感が大きく、かつ日本での導入・サポート体制（日本法人・代理店網など）が整っているメーカーを中心に紹介します",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカーの参入動向・3Dプリンター事業への取り組み",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙や自動車、金型、医療、宝飾などさまざまな業種・分野で導入が進む中、日本国内でも参入・提携が増えています",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売規模が大きくても、自社が使う材料の国内供給や技術相談が十分とは限りません",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーの順位に加え、材料と交換部品の供給、ソフトウェアの更新、国内の修理窓口、データの持ち出しやすさを確認します",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の産業界において産業用金属 3Dプリンタが普及するには何が必要なのか",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これら普及に向けた課題を解決すべく、日本国内で既存の産業用金属",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、日本独",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の中で、日本において販売台数が多いのは、「6 粉末",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イツの EOS 社が古くから日本で販売実績を有し、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、IDC Japanは 2018年 7月 11日のプレ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スリリースで、国内3Dプリンティング市場の2017",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）IDC Japanプレスリリース、2018年 7月 11日",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月に保護期間が終了、日本国内においても主要工法",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の特許が期限切れになることから、日本のみならず",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内における「3D プリンタ 金属」、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "間：2004年 1月 1日~現在、集計地域：日本、集計ジャン",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3-2 国内で販売される産業用金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内では、図表4のように国内・海外メーカーの",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表４ 日本国内での産業用金属3Dプリンタ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese additive manufacturing is rising | 3dpbm",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising.md",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese additive manufacturing is rising",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "The Great Wave off Kanagawa, also known as The Great Wave or simply The Wave. The original work is a woodblock print by the Japanese ukiyo-e artist Hokusai. It was published sometime between 1829 and 1833 in the late Edo period in Hokusai's series Thirty-six Views of Mount Fuji.",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "[for the manufacturing of a 22N rocket thruster utilizing hydrazine]” is what prompted us to connect some dots. Until recently all these industries did not seem to see Japanese additive manufacturing companies as capable of offering truly practical production solutions. Companies like Solize, 3DCeram, IHI, Mitsubishi and nTopology are proving otherwise.",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Has that time really come? If it has, it’s not that clear-cut yet. The Nikkei estimates the Japanese 3D printing market compound annual growth rate (CAGR) to be 9.1% between 2017 and 2022, when the market is expected to be worth about $430 million. This is, however, just a tiny percentage (0.1%) of the overall Japanese manufacturing industry, which generates about $400 billion yearly.",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "First, let’s be clear. Japan was and still is one of the first adopters of AM for prototyping purposes. Italian stereolithography hardware manufacturer",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Two more Japanese machine tool firms,",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "For many years, it almost seemed as if the only company to do additive manufacturing in Japan was Matsuura. The consumer AM craze only marginally touched Japan, with a number of FabLabs emerging and online AM service provider",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "More recently, certain new initiatives and companies seemed to indicate that Japanese companies were more seriously looking at AM for manufacturing. Not every one of them met with success.",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "The company then began looking into metal binder jetting materials (mainly aluminum) and hardware but these projects remain very much developmental at this time. Another Japanese printing technology giant and early 3D printing patent holder, Canon, announced plans to enter the market with internally developed 3D printing hardware—first with a polymer and subsequently with a",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": ", and—although it took a ridiculous amount of research to find it—by introducing into the market the first EBM system developed in Japan by its fully owned-company",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": ". Japan’s first Electron Beam metal 3D Printer, the EZ300, is also one of the very first real competitor’s to GE Arcam’s current segment dominance. According to TADA, it provides an industry-leading modeling speed of 250cc/h* and a proprietary rod-shaped cathode producing the industry’s longest heating time of 1,000 hours.",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": ". Combining the French firm’s advanced capabilities for innovation with the Japanese group’s financial power is enabling a significant scaling up of activities within the ceramic AM market (although it is not yet fully clear how much of that is relative to the Japanese market).",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "Now a new wave of AM seems to be emerging. At least two AM shows now take place in Japan yearly:",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   }
+  ],
+  "日本の顧客が買うか（需要の証拠）": [
+   {
+    "quote": "自動車および航空宇宙産業は、試作と設計が生産の完璧さを達成するための研究開発に不可欠であるため、より多くの機会を創出し、3Dプリンティングをより迅速に採用しています",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "この投資により、Incodema3DのEOS金属プリンター保有台数は50台以上に増加し、航空宇宙、防衛、宇宙、エネルギー、産業生産といった分野への事業拡大が促進されます",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場動向としては、航空宇宙・医療・金型・自動車分野を中心に採用が急速に広がっています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型のコンフォーマルクーリングを採用すると、樹脂成形の冷却時間を20〜40%短縮できる事例も報告されており、量産金型分野でも活用が広がっています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野ではAlSi10Mgによる軽量化部品、SUS製の耐熱排気系部品などが採用されています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "認証（JIS Q 9100等）を持つ事業者は航空宇宙用途で信頼性が高く、量産採用を目指すなら認証取得事業者を選ぶべきです",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "エンジンブラケット、燃料系部品、衛星部品などで採用が広がっています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品、家電、日用品のプラスチック成形金型で採用が広がっており、ROIが明確に数値化できる代表的な用途です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野では、モータースポーツ用の軽量化部品や、EV向けのバッテリー冷却プレート、モーターハウジングなどでAlSi10Mgや純銅の採用が進んでいます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "ラティス構造を採用する場合は、格子のセルサイズと梁の太さを事業者と相談しながら決めることをおすすめします",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "【番外】どの代理店から購入するか",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【業種別】3Dプリンターの導入事例と今後の展望",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【業種別】3Dプリンターの導入事例と今後の展望_TOP",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "材料押出（FDM/FFF）や材料噴射（PolyJet）などの方式を中心に、試作から治具、少量生産まで幅広い用途で採用されています",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・医療・エネルギーなど、高い品質要求がある領域で採用されるケースが多く、金属3Dプリンターの代表格として挙げられます",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用候補は社内の課題から選び、変動する市場の数字とは分けて判断します",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属造形機の実績を比べる際、導入台数以外に何を確認しますか？",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "水溶性サポート材を採用しており、複雑な内部構造でもサポート除去が簡単",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "ナイロンにマイクロカーボンを混合した独自素材を採用し、高い靭性と耐摩耗性・耐薬品性を両立",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "粉末焼結方式（SLS）を採用しており、サポート材を使わずに内部構造を含む複雑形状を一括造形",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "を採用した3Dプリンタが選ばれやすい理由として、",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "分野で採用されているものの、AM技術で造形する",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ネスモデルを採用し、指定金属粉末材料以外の使用",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ド・スポーツカーや高級車での採用から始め、その",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AM技術を積極的に採用する動きは、ヨーロッパの",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "タ「HP Metal Jet」を独Volkswagenが採用することが報道",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術の採用を決定するなど大手自動車メーカーが積極的に本",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   }
+  ],
+  "再生・循環": [
+   {
+    "quote": "再生可能エネルギー",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "). Perhaps one of the most interesting projects undertaken by Canon in the 3D printing area just emerged recently through it fully owned subsidiary Canon Ecology Industry as the company—which specializes in recycling and upcycling used Canon 2D printing equipment such as toner cartridges and copier parts—began producing",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "金属素材商社の強み",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "【番外】どの代理店から購入するか",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、世界的に存在感が大きく、かつ日本での導入・サポート体制（日本法人・代理店網など）が整っているメーカーを中心に紹介します",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、参入には自社の既存技術を応用する・他社との共同開発や買収を行う・海外の3Dプリンターメーカーの代理店事業などからノウハウを蓄積して参入するなどの方法があります",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後は①各装置メーカーの価格の引下げ努力、②唯一無二な機能部",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "in Osaka. Although very few Japan-based AM hardware or AM materials manufacturers are listed among exhibitors, these shows are offering a window for distributors or divisions of foreign AM companies to target the Japanese industrial firms attending the larger manufacturing fairs surrounding both events.",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "recently became a distributor of nTopology software in Japan",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   },
+   {
+    "quote": "(also a distributor of high-temperature filament extrusion hardware from Italian manufacturer",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "「金属3Dプリンタで試作品を作りたいけれど、装置導入には数千万円もかかる」「小ロットだけ外注したいが、どの業者に頼めばいいのか分からない」——こうした悩みを抱える製造業の担当者は少なくありません",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円*1",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "装置導入には本体だけでなく粉末材料の初期在庫、造形室の環境整備、オペレーター育成が必要で、初年度の総投資額は装置本体価格の1.5〜2倍に達するケースもあります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円の装置投資、粉末材料の在庫リスク、専用オペレーターの人件費が一切かからず、必要な時に必要な分だけ発注できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型を作らず1個から製造できるため、金型製作費（一般的に数十万〜数百万円）が不要になります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "DMM.makeやKabuku Connectなどのオンライン見積もりサービスは、STLデータをアップロードするだけで数秒〜1分程度で概算価格を提示してくれます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "インコネル718やTi64は多くの受託事業者が対応していますが、粉末価格が高く造形難易度も高いため、単価はSUSの2〜3倍になるのが一般的です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンタ完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】おすすめの3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】おすすめの3Dプリンター_TOP",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】精度重視の3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】造形方式別3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】造形サイズ別3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】おすすめの3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】おすすめの3Dプリンター_TOP",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】精度重視の3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】造形方式別3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】造形サイズ別3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの価格帯について",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "500万円以上の業務用3Dプリンター特集",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格帯や用途別で細分化する3Dプリンター市場の最新動向と世界シェアの捉え方",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場拡大の背景には、装置性能や材料、後処理、設計ソフトの進化に加え、2000年代後半から2010年代前半にかけて主要方式の基本特許が順次失効し、装置価格の低下と参入増が進んだことも挙げられます",
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "５．性能と価格",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "体の価格が約1000万円以上であり、かつメーカー",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "114億 3,000万円となっている",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5-3 材料や装置本体の価格",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "属粉末材料12の価格であるが、総じて一般に販売さ",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "併せて、3Dプリンタ装置本体価格も高額である",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "式約2 億円の価格である",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "mm）の販売価格は一式約8,000 万円、一方、小物",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売価格は一式約3,000 万円と相当の価格差がある",
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "pass": 3
+   }
+  ],
+  "ニッチ度（供給元の数・寡占）": [
+   {
+    "quote": "実発注時は必ず複数社から相見積もりを取ることをおすすめします",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "※各社の対応素材、造形サイズ、認証状況、標準納期の詳細は公開情報が限られるため「要確認」としています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "純銅やタングステンなど反射率・融点の面で扱いが難しい素材は、対応事業者が限られます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンは放射線遮蔽や高温電極用途で需要があり、こちらも国内対応事業者は数社に限られるため、事前の問い合わせが不可欠です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "ただし純銅・タングステンなどの難加工材は対応事業者が限られるため、事前に問い合わせが必要です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "まずは複数社に相見積もりを取り、自社の用途に最適なパートナーを見つけることから始めてみましょう",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "22.8",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "世界の金属3Dプリンティング市場規模は、2025年には75億米ドルと評価され、2026年の92億1000万米ドルから2034年には476億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は22.8%となる見込みです"
+   },
+   {
+    "value": "24.20",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "ハードウェアセグメントは市場への貢献度が最も高く、予測期間中に年平均成長率（CAGR）24.20%で成長すると予想されています"
+   },
+   {
+    "value": "23.95",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "電子ビーム溶解（EBM）セグメントは最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）23.95%で成長すると予想されています"
+   },
+   {
+    "value": "22.60",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "設計ソフトウェアセグメントは市場への貢献度が最も高く、予測期間中に年平均成長率（CAGR）22.60%で成長すると予想されています"
+   },
+   {
+    "value": "23.55",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "試作セグメントは市場シェアが最も高く、予測期間中に年平均成長率（CAGR）23.55%で成長すると予想されています"
+   },
+   {
+    "value": "22.45",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "自動車分野は市場への貢献度が最も高く、予測期間中に年平均成長率（CAGR）22.45%で拡大すると見込まれています"
+   },
+   {
+    "value": "23.00",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "北米は世界の金属3Dプリンティング市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）23.00%で成長すると予想されています"
+   },
+   {
+    "value": "27.10",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）27.10%で成長すると予想されています"
+   },
+   {
+    "value": "9.1",
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "quote": "Has that time really come? If it has, it’s not that clear-cut yet. The Nikkei estimates the Japanese 3D printing market compound annual growth rate (CAGR) to be 9.1% between 2017 and 2022, when the market is expected to be worth about $430 million. This is, however, just a tiny percentage (0.1%) of "
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "36.8",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "北米は、2025年に市場シェア36.8%を占め、金属3Dプリンティング市場を牽引しました"
+   },
+   {
+    "value": "43.5",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "北米は金属3Dプリンティング業界を牽引し、2024年には43.5%のシェアを占めた"
+   },
+   {
+    "value": "26",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "技術面では、電子ビーム溶解（EBM）分野が2024年の金属3Dプリンティング市場で約26%の最大のシェアを占め、高強度で複雑な金属部品を優れた精度で製造できる能力によって市場を支配しており、航空宇宙産業や医療産業における重要な用途に最適となっている"
+   },
+   {
+    "value": "23.95",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "電子ビーム溶解（EBM）セグメントは最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）23.95%で成長すると予想されています"
+   },
+   {
+    "value": "23.55",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "試作セグメントは市場シェアが最も高く、予測期間中に年平均成長率（CAGR）23.55%で成長すると予想されています"
+   },
+   {
+    "value": "23.00",
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "quote": "北米は世界の金属3Dプリンティング市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）23.00%で成長すると予想されています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/personal-3d-printers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/metal/what",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5523/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/column/metal-3d-printer-maker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.copyki-gmen.com/ink/7491",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/media/kanagata/a28",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chunichisha.co.jp/3d-printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2406/20/news006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2406/10/news043.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/metal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIZjXJeWI9gNN0QxgjCABvpM6DTyh2w8C98YBUd27i8WjI3VHZn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bantec2022.com/archives/1584",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/metal-3d-printer-market-127547",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://deskmin.net/2026/08/14/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%80%812026%E5%B9%B4%E3%81%AF%E9%87%8F%E7%94%A3%E3%81%AE%E5%B8%B8%E8%AD%98%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2304/17/news046.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globalmarketmonitor.jp/reports/686248-metal-3d-printers--market-report.html",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://wp.techfactory.itmedia.co.jp/contents/85364",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreport.jp/insight/metal-3d-printing-market-gvr/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vJp_3kioaZxGNH87maVubfDBEoILS95liZIKJSkTMypZOfotx3X",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifukuseimitsu.com/3d-top/knowledge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recmbus-3dprint.com/example/make.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/%E8%A3%BD%E4%BD%9C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deskmin.net/2026/07/26/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%B0%8E%E5%85%A5%E3%82%92%E6%88%90%E5%8A%9F%E3%81%95%E3%81%9B%E3%82%8B%E3%81%AB%E3%81%AF%EF%BC%9F%E6%96%B9%E5%BC%8F%E5%88%A5%E3%81%AE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/articles/metal-3dprinter-use-cases-shipbuilding-medical-automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-with.com/business/3d-printing-examples",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本の金属3Dプリンター導入台数（方式別・業種別） 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://news.sharelab.jp/category/3dp-news/report/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.gminsights.com/ja/industry-analysis/personal-3d-printers-market",
+    "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf",
+    "https://www.businessresearchinsights.com/jp/market-reports/metal-3d-printer-market-127547",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.industrial-3d-printer.com/basic-knowledge/sharerate.html",
+    "https://www.gii.co.jp/report/sky1900468-metal-3d-printing-market-size-share-growth.html"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター導入台数（方式別・業種別） 価格 kg",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://metoree.com/categories/5523/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://blog.rflocus.com/3dprinter-metal/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://monoist.itmedia.co.jp/mn/articles/2406/20/news006.html"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター導入台数（方式別・業種別） シェア 主要企業",
+   "results": [
+    "https://www.techno-producer.com/column/metal-3d-printer-maker/",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://metoree.com/categories/5523/",
+    "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "https://www.copyki-gmen.com/ink/7491",
+    "https://www.fuji-mold.co.jp/media/kanagata/a28",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.industrial-3d-printer.com/basic-knowledge/sharerate.html"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター導入台数（方式別・業種別） 主要メーカー 一覧",
+   "results": [
+    "https://www.techno-producer.com/column/metal-3d-printer-maker/",
+    "https://metoree.com/categories/5523/",
+    "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "https://tasuichi.jp/2026/04/10/国内の金属3dプリンター受託造形企業まとめ：pbf・ded/"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター導入台数（方式別・業種別） 参入企業 数",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://skhonpo.com/blogs/blog/metal",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIZjXJeWI9gNN0QxgjCABvpM6DTyh2w8C98YBUd27i8WjI3VHZn",
+    "https://metoree.com/categories/5523/",
+    "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "https://www.bantec2022.com/archives/1584",
+    "https://www.businessresearchinsights.com/jp/market-reports/metal-3d-printer-market-127547",
+    "https://deskmin.net/2026/08/14/金属3dプリンター、2026年は量産の常識が変わる/"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター導入台数（方式別・業種別） 日本 需要",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://skhonpo.com/blogs/blog/metal",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://metoree.com/categories/5523/",
+    "https://monoist.itmedia.co.jp/mn/articles/2406/20/news006.html"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター導入台数（方式別・業種別） 国内 導入台数 OR 輸入量",
+   "results": [
+    "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vJp_3kioaZxGNH87maVubfDBEoILS95liZIKJSkTMypZOfotx3X",
+    "https://skhonpo.com/blogs/blog/metal",
+    "https://metoree.com/categories/5523/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.ifukuseimitsu.com/3d-top/knowledge/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "https://steelsale.jp/casestudy/3dp/a113"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター導入台数（方式別・業種別） 日本企業 採用 調達 事例",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://metoree.com/categories/5523/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.recmbus-3dprint.com/example/make.html",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.youtube.com/watch?v=snJAXXU1cSk",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/%E8%A3%BD%E4%BD%9C/",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://deskmin.net/2026/07/26/金属3dプリンター導入を成功させるには？方式別の/"
+   ]
+  },
+  {
+   "query": "metal 3D printer installed base Japan by technology industry Japan customers demand imports",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "https://3dprint.com/8835/japan-huge-delta-3d-printer/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.facebook.com/NewsContent.CCTVPLUS/videos/chinese-metal-3d-printing-devices-accelerate-overseas-expansion-chinaeconroadmap/4618695768362674/",
+    "https://en.wikipedia.org/wiki/3D_printing",
+    "https://mtdcnc.com/news/mtdcnc/japan-installs-its-largest-class-metal-pbf-industrial-3d-printer-to-scale-advanced-manufacturing/"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター導入台数（方式別・業種別） 供給契約 長期",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "https://skhonpo.com/blogs/blog/metal",
+    "https://metoree.com/categories/5523/",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://jampt.jp/",
+    "https://deskmin.net/2026/08/14/金属3dプリンター、2026年は量産の常識が変わる/"
+   ]
+  },
+  {
+   "query": "metal 3D printer installed base Japan by technology industry market size CAGR 2030",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://www.grandviewresearch.com/industry-analysis/metal-3d-printing-market",
+    "https://www.custommarketinsights.com/report/3d-printer-market/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.linkedin.com/pulse/metal-3d-printer-market-key-drivers-iclof/",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.marketresearchfuture.com/reports/3d-printing-market-1031",
+    "https://www.researchgate.net/figure/The-global-market-for-3D-printing-and-the-estimation-for-the-current-decade-The-market_fig1_376690677",
+    "https://www.imarcgroup.com/japan-3d-printing-materials-market",
+    "https://www.grandviewresearch.com/horizon/outlook/metal-3d-printing-market/japan"
+   ]
+  },
+  {
+   "query": "metal 3D printer installed base Japan by technology industry price per kg",
+   "results": [
+    "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.linkedin.com/pulse/metal-jet-3d-printing-technology-market-us-japan-korea-europe-giuif",
+    "https://www.ipros.com/en/cg3/Metal%203D%20Printer/",
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://www.lyafs.com/blog/metal-3d-printer-cost/",
+    "https://www.youtube.com/watch?v=TXl6UFUeD4Q",
+    "https://www.protolabs.com/resources/blog/metal-3d-printing-cost/",
+    "https://currentcost.org/metal-3d-printer-cost/"
+   ]
+  },
+  {
+   "query": "metal 3D printer installed base Japan by technology industry key players market share percent",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.marketdataforecast.com/market-reports/3d-printer-market",
+    "https://www.linkedin.com/pulse/metal-3d-printer-market-key-drivers-iclof/",
+    "https://www.grandviewresearch.com/industry-analysis/metal-3d-printing-market",
+    "https://additive-manufacturing-report.com/general/3d-printing-market-size/",
+    "https://www.custommarketinsights.com/report/3d-printer-market/",
+    "https://www.researchgate.net/publication/366821853_Large-Scale_3D_Printing_--_Market_Analysis",
+    "https://www.precedenceresearch.com/japan-3d-printing-market"
+   ]
+  },
+  {
+   "query": "metal 3D printer installed base Japan by technology industry number of suppliers concentrated OR fragmented",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.trade.gov/market-intelligence/japan-3d-printing-market",
+    "https://www.ipros.com/en/cg3/Metal%203D%20Printer/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.facebook.com/NewsContent.CCTVPLUS/videos/chinese-metal-3d-printing-devices-accelerate-overseas-expansion-chinaeconroadmap/4618695768362674/",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://dictionary.cambridge.org/dictionary/english/fragmented"
+   ]
+  },
+  {
+   "query": "metal 3D printer installed base Japan by technology industry consumption per machine per year",
+   "results": [
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://additive-manufacturing-report.com/general/3d-printing-market-size/",
+    "https://en.wikipedia.org/wiki/3D_printing",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "https://www.linkedin.com/pulse/metal-jet-3d-printing-technology-market-us-japan-korea-europe-giuif",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.precedenceresearch.com/japan-3d-printing-market"
+   ]
+  },
+  {
+   "query": "metal 3D printer installed base Japan by technology industry qualification long-term supply agreement",
+   "results": [
+    "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "https://formalloy.com/blog/3d-metal-printing/metal-3d-printer/",
+    "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "https://www.youtube.com/watch?v=Lu7c74EMuZ4",
+    "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "https://www.navsea.navy.mil/Media/News/Article-View/Article/4384611/navy-expands-3d-printing-to-frontline-fleet-operations-in-2025/",
+    "https://www.hycmoop.com/news/precision-machining-benchmarks/industrial-3d-printing/Japan-Tightens-Safety-Certification-for-Imported-Industrial-3D-Printers.html"
+   ]
+  },
+  {
+   "query": "metal 3D printer installed base Japan by technology industry distributor direct sales OEM approved materials",
+   "results": [
+    "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "https://www.desktopmetal.com/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.ipros.com/en/cg3/Metal%203D%20Printer/",
+    "https://www.3dsystems.com/3d-printers/metal",
+    "https://www.i3dmfg.com/",
+    "https://www.materialise.com/en/industrial/3d-printing-technologies/metal-3d-printing",
+    "https://www.youtube.com/watch?v=YKFgFfUF6zg",
+    "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "https://www.3dprintingindustry.com/news/nihon-chuzo-to-install-japans-largest-metal-3d-printer-from-bright-laser-technologies-247351/"
+   ]
+  },
+  {
+   "query": "site:note.com 日本の金属3Dプリンター導入台数（方式別・業種別）",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/good_dill292/n/n66656c597063",
+    "https://note.com/hirokimiyano/n/n1f372ac76c50",
+    "https://note.com/major_stilt6057/n/n1ae38583192b",
+    "https://note.com/0101_engineer/n/n224e8ee4233c",
+    "https://note.com/hmjrd/n/n629f01c61897",
+    "https://note.com/okappiki3/n/nf12f53fbfc7f",
+    "https://note.com/kagawatomo/n/nfe51c4f0f92a",
+    "https://note.com/kabuya66/n/n9c1ec919c301",
+    "https://note.com/kagawatomo/n/nb26b8c9b3768"
+   ]
+  },
+  {
+   "query": "site:x.com 日本の金属3Dプリンター導入台数（方式別・業種別）",
+   "results": [
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/PongKozz/with_replies",
+    "https://x.com/jpShareLab",
+    "https://x.com/nikkeikansai/status/2071730550411243568",
+    "https://x.com/jampt_official/status/2084074032690041054",
+    "https://x.com/TEKKOSHIMBUN/status/2041274933754708408",
+    "https://x.com/jpShareLab/status/2074409007910109508",
+    "https://x.com/hashtag/金属3dプリンター",
+    "https://x.com/box_3d"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日本の金属3Dプリンター導入台数（方式別・業種別）",
+   "results": [
+    "https://www.linkedin.com/posts/tsuyoshi-kobayashi_honda-technology金属3dプリンター紹介-activity-7300351807099129857-SLxp",
+    "https://jp.linkedin.com/company/3dprinterjp/",
+    "https://jp.linkedin.com/pulse/日本の3dプリンティングデジタルシステム市場2026年版-ledger-loop-fzerf",
+    "https://jp.linkedin.com/posts/yoichi-ito-77825928b_金属3dプリンターブーム再来の兆し日本で量産品に活用広がる-日本経済新聞-activity-7394852918044102656-sjmt",
+    "https://www.linkedin.com/posts/jgc_金属3dプリンタの本格的導入に向けた適用検証で成果-2023年ニュースリリース-activity-7130726917703405569-rSJF",
+    "https://jp.linkedin.com/posts/sharelab-jp_プラント建設分野で金属3dプリンター導入検証-日揮グローバル-activity-7151010551270129664-dOAI",
+    "https://jp.linkedin.com/posts/sakihagimori_金属３dプリンターが普及しない理由をメーカー４社が語るnewsmono-que-activity-7438029176445575168-sEdN"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日本の金属3Dプリンター導入台数（方式別・業種別）",
+   "results": [
+    "https://www.facebook.com/fabcrossjp/posts/3dプリンターを多く使用している業種は国内製造業者を対象とした3dプリンティング市場におけるユーザー調査分析結果を発表/820291781505130/",
+    "https://www.facebook.com/people/日本3Dプリンティング産業技術協会/100069007704033/",
+    "https://www.facebook.com/MarkforgedJapan/posts/金属3dプリンターmetal-x-system導入事例-株式会社si-コントロールズ様軽量化やフレキシブルな形状の製作コスト削減や短納期に対応事業再構築補助金を/627777362692126/",
+    "https://www.facebook.com/nidec.machinetool/posts/導入事例紹介大丸鐵興株式会社様金属3dプリンターlamda200を導入導入の経緯やamadditive-manufacturing事業参入への思いについてお話を/3237543019859121/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/今さら聞けない金属3dプリンタ-とは樹脂3dプリンタとの違いはpbf方式とded方式って特徴や主な方式造形事例を徹底解説最近では造形精度速度の向上など技術革新が/825161419769730/",
+    "https://www.facebook.com/jpShareLab/posts/611249471002549/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/ダイカスト金型積層造形-日本精機３ｄプリンター導入/4646390505393350/"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター導入台数（方式別・業種別） note 社長",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://skhonpo.com/blogs/blog/metal",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://deskmin.net/2026/08/14/金属3dプリンター、2026年は量産の常識が変わる/"
+   ]
+  },
+  {
+   "query": "日本の金属3Dプリンター導入台数（方式別・業種別） X 投稿",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://metoree.com/categories/5523/",
+    "https://3dprinter.co.jp/cms3d/wp-content/themes/3dprinter-wp_new/images/product/markforged/metal-x/Metal-3dprinter.pdf",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://www.youtube.com/watch?v=snJAXXU1cSk",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2304/17/news046.html"
+   ]
+  },
+  {
+   "query": "metal 3D printer installed base Japan by technology industry site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/comprehensive-overview-non-metal-3d-printer-market-mqtie",
+    "https://www.linkedin.com/company/zrapid-europe",
+    "https://www.linkedin.com/pulse/industrial-metal-plastic-3d-printers-market-us-lwpkf",
+    "https://www.linkedin.com/posts/ampulse-daily_serendix-to-launch-sales-of-3d-printed-homes-activity-7439493015037001728-UPKh",
+    "https://www.linkedin.com/company/3d-systems",
+    "https://www.linkedin.com/company/3d-architech",
+    "https://www.linkedin.com/in/josephcrabtree",
+    "https://www.linkedin.com/in/mv2woods",
+    "https://www.linkedin.com/in/ashkhen-ovsepyan",
+    "https://www.linkedin.com/pulse/3d-printing-technology-us-army-dharani-dharan-y9pbc"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,4 +1,4 @@
-# 金属AM原料（粉・ワイヤ・フィラメント）— 市場規模・売り方・繰り返し性・価格・シェア（3分野向け）（事実のみ・14品目）
+# 金属AM原料（粉・ワイヤ・フィラメント）— 市場規模・売り方・繰り返し性・価格・シェア（3分野向け）（事実のみ・17品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -822,9 +822,161 @@
   - 「日本の 高融点金属粉末 市場：規模、動向、2035年までの予測 — 日本の 高融点金属粉末 市場：規模、動向、2035年までの予測 IndexBox https://www.indexbox.io > ... > 市場 > 高融点金属粉末」（https://www.indexbox.io/ja/store/japan-refractory-metal-powder-market-analysis-forecast-size-trends-and-insights/）
   - 「窒化 タンタル粉末 の世界市場（2026年～2032 ... - アットプレス — 窒化 タンタル粉末 の世界市場（2026年～2032 ... - アットプレス アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/8841081）
 
-## 銅・銅合金粉末のAM用途（放熱・電極）
-- 文脈：
-- エラー：ValueError: netloc '＃' contains invalid characters under NFKC normalization
+## 銅・銅合金粉末のAM用途（放熱・電極）（copper powder additive manufacturing heat exchanger electrical）
+- 文脈：パワー半導体（放熱）・マテリアル
+- 市場規模：
+  - 「銅粉市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「銅粉市場規模、シェア、トレンド分析レポート：製造方法別（アトマイズ銅粉、電解銅粉、還元銅粉、その他製造方法）、製品形態別（球状銅粉、フレーク状銅粉、不規則形状銅粉、樹枝状銅粉）、用途別（粉末冶金、積層造形、溶射、導電性コーティングおよびインク）、最終用途産業別（電子機器および電気機器、自動車、航空宇宙および防衛、産業機械）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「世界の銅粉市場規模は、2025年には115万米ドルと評価され、2026年の119万米ドルから2034年には158万米ドルに成長すると予測されており、予測期間（2026年～2034年）中の年平均成長率（CAGR）は3.6%となる見込みです」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「アジア太平洋地域の銅粉市場は、2025年には地域別シェア42.0%を占め、市場規模は4億7460万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「この文書は、2047年までに銅需要を6倍に増やすことを目標とし、2030年までに年間500万トンの製錬・精製能力を追加することで、銅の下流エコシステムを強化する計画だ」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「また、電化、再生可能エネルギー、電気自動車、インフラ開発に支えられ、国内の銅需要は2030年までに330万トンに達すると予測されており、産業用途や先端材料用途で使用される銅粉にとって新たな機会が生まれる」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「CNPCパウダーは、年間8,000トン以上の金属粉末生産能力を追加する予定の製造拠点拡張計画を発表した」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「世界の銅粉市場規模は、2025年には115万米ドルと評価され、2034年までに158万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「アンチモン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「ルビジウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「LPI世界酸化アルミニウム銅分析レポートによると、世界酸化アルミニウム銅市場規模は194.85百万ドルであり、将来的には335.88百万ドルに達し、CAGRは9.50%です」（https://newscast.jp/smart/news/3331170）
+  - 「第2章では、酸化アルミニウム銅の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://newscast.jp/smart/news/3331170）
+  - 「第4章では、酸化アルミニウム銅の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://newscast.jp/smart/news/3331170）
+- 成長率：
+  - 「銅粉市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「世界の銅粉市場規模は、2025年には115万米ドルと評価され、2026年の119万米ドルから2034年には158万米ドルに成長すると予測されており、予測期間（2026年～2034年）中の年平均成長率（CAGR）は3.6%となる見込みです」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「2026年2月、新川新材料は、太陽光発電用銅粉の研究開発、生産能力の拡大、および市場開拓を支援するため、約1億人民元のIPO前資金調達ラウンドを完了した」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「電解銅粉末は、電気、電子機器、摩擦材、特殊粉末冶金用途における高純度粉末の需要に牽引され、予測期間中に年平均成長率（CAGR）5.6%で成長すると予想されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「フレーク状銅粉末セグメントは、導電性コーティング、インク、塗料、電磁シールド、装飾製品、印刷用途での使用に牽引され、予測期間中に年平均成長率（CAGR）5.4%で成長すると予想されています」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「積層造形分野は、熱交換器、冷却システム、電気部品、その他の熱管理用途で使用される複雑な銅部品の需要に牽引され、予測期間中に年平均成長率（CAGR）10.8%で成長すると予想されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「自動車分野は、銅をベースとした部品、電気システム、摩擦材、および熱管理技術の使用に牽引され、予測期間中に年平均成長率（CAGR）7.0%で成長すると予想されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「北米の銅粉市場は、先進製造業、エレクトロニクス、自動車用途、積層造形、および高性能導電性材料への需要に支えられ、予測期間中に年平均成長率（CAGR）4.1%で成長すると予想されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「LPI世界酸化アルミニウム銅分析レポートによると、世界酸化アルミニウム銅市場規模は194.85百万ドルであり、将来的には335.88百万ドルに達し、CAGRは9.50%です」（https://newscast.jp/smart/news/3331170）
+  - 「世界の酸化アルミニウム銅市場は、2025年の177.14百万米ドルから2026年には194.85百万米ドルへ拡大し、2032年には335.88百万米ドルに達すると予測されており、2026～2032年の年平均成長率（CAGR）は約9.50％と見込まれています」（https://newscast.jp/smart/news/3331170）
+  - 「第3章では、酸化アルミニウム銅の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://newscast.jp/smart/news/3331170）
+  - 「第4章では、酸化アルミニウム銅の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://newscast.jp/smart/news/3331170）
+  - 「銅合金製の放熱材料市場規模マップ＋シェア＋フレームワーク、CAGR 6.6%の安定成長 - ZDNET Japan」（https://japan.zdnet.com/release/31209248/）
+  - 「銅合金製の放熱材料市場規模マップ＋シェア＋フレームワーク、CAGR 6.6%の安定成長」（https://japan.zdnet.com/release/31209248/）
+  - 「市場需要は、半導体の高集積化と高性能化、電気自動車の普及、インバータや急速充電器を含むパワーエレクトロニクス市場の拡大、データセンターおよびAIサーバーの高発熱化、高性能コンピューティング設備の増設、5G・次世代通信機器の高密度化、航空宇宙・防衛電子機器の高出力化によって拡大している」（https://japan.zdnet.com/release/31209248/）
+- 売り方・商流：
+  - 「下流ユーザーには半導体デバイスメーカー、パワーモジュール企業、電気自動車・充電システムメーカー、データセンター機器企業、通信装置メーカー、航空宇宙・防衛電子企業および産業設備メーカーが含まれる」（https://japan.zdnet.com/release/31209248/）
+  - 「その優れた機械的特性と、粉末床溶融法や指向性エネルギー堆積法といった先進的な製造手法との親和性により、OEM、航空宇宙関連の請負業者、および高温部品メーカーにとって理想的な選択肢となっています」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「GRCop-42が業界全体で普及するにつれ、OEM、航空宇宙関連の請負業者、および積層造形サービスプロバイダーの間で、信頼性が高く高品質なサプライヤーへの需要が高まっています」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「OEM供給、研究開発パートナーシップ」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「製造業者、航空宇宙分野のOEM、および産業分野のバイヤーが、繰り返しトゥルーアーを選ぶ理由は以下の通りです：」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「上海トゥルーアー・テクノロジーは、OEM、製造業者、研究機関、および積層造形サービスプロバイダー向けに、それぞれのニーズに合わせたサポートを提供することで、卸売購入プロセスを簡素化しています」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「カスタマイズおよびOEMサービス」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「OEMブランド製品およびホワイトラベル粉末の供給」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「また、産業用販売代理店においても、C18150パウダーはその汎用性と過酷な環境下での性能が評価され、現在、バルクでの在庫が確保されています」（https://am-printing.com/ja/c18150-powder20260119/）
+  - 「これらのキーワードは、大規模生産向けの信頼性の高い高導電性材料を探している調達担当者、OEMエンジニア、および産業用バイヤーによって頻繁に検索されています」（https://am-printing.com/ja/c18150-powder20260119/）
+  - 「多国籍OEM企業の調達マネージャーであっても、製品カタログに高性能粉末を追加しようとしている販売代理店であっても、上海トゥルーアー・テクノロジー社への発注は、効率的でプロフェッショナルなプロセスです」（https://am-printing.com/ja/c18150-powder20260119/）
+  - 「OEMサポート」（https://am-printing.com/ja/c18150-powder20260119/）
+  - 「: 販売代理店向けのカスタム合金の開発およびプライベートブランド製品」（https://am-printing.com/ja/c18150-powder20260119/）
+  - 「OEMバイヤー」（https://am-printing.com/ja/c18150-powder20260119/）
+  - 「金属加工を行う製造業、仲間問屋、商社、メーカー、個人のお客様など、幅広い層に顧客を持っております」（https://mono.ipros.com/category/afa0e48394976365/index.html）
+- 繰り返し性：
+  - 「銅開発協会によると、粒状銅粉の使用量の約70%は自己潤滑ベアリングに用いられており、金属フィルターもまた、同じ制御多孔性技術の確立された応用例である」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「この文書は、2047年までに銅需要を6倍に増やすことを目標とし、2030年までに年間500万トンの製錬・精製能力を追加することで、銅の下流エコシステムを強化する計画だ」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「CNPCパウダーは、年間8,000トン以上の金属粉末生産能力を追加する予定の製造拠点拡張計画を発表した」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「一方、製造コストの高さ、加工・接合の難しさ、顧客による評価・認定に要する期間は、用途拡大を制約する要因となります」（https://newscast.jp/smart/news/3331170）
+  - 「酸化アルミニウム銅は適切な使用条件において選択肢となりますが、その普及には加工コスト、表面処理、顧客認定なども影響します」（https://newscast.jp/smart/news/3331170）
+  - 「競争軸は熱伝導率、熱膨張係数、電気伝導率、機械強度、材料純度、平坦度、寸法精度、表面品質、製品均一性および顧客認定能力に移行しており、従来型銅材から高熱伝導特殊合金、CuW・CuMo複合材料、高精度加工材および用途別熱管理ソリューションへの高付加価値化が進んでいる」（https://japan.zdnet.com/release/31209248/）
+  - 「付加価値は高熱伝導率、低く制御可能な熱膨張係数、機械強度、寸法安定性、高純度、精密公差、表面品質、量産均一性および厳格な顧客認定対応力に集中している」（https://japan.zdnet.com/release/31209248/）
+  - 「大量注文や長期契約に対する柔軟な価格設定」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「まとめ買い割引や長期契約もご利用いただけます」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「社外からの評価・認定等」（https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/）
+  - 「JIS規格 JIS H3250 JIS H4100認定工場」（https://mono.ipros.com/category/afa0e48394976365/index.html）
+  - 「13年間調達してきた筆者が経験談を交えながらご紹介いたします」（https://mono.ipros.com/category/afa0e48394976365/index.html）
+  - 「Copper powder sinters at relatively low temperatures, reducing energy consumption.」（https://am-printing.com/copper-powder20250922/）
+  - 「Absolutely. Shanghai Truer provides ongoing technical consultation, application support, and powder performance optimization services.」（https://am-printing.com/copper-powder20250922/）
+  - 「Get Free Consultations For Additive Manufacturing Solution !」（https://am-printing.com/copper-powder20250922/）
+- 価格：
+  - 「第2章では、酸化アルミニウム銅の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://newscast.jp/smart/news/3331170）
+  - 「第3章では、酸化アルミニウム銅の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://newscast.jp/smart/news/3331170）
+  - 「第13章では、酸化アルミニウム銅市場の主要メーカーについて、基本情報、製品仕様と用途、販売量、収益、価格設定、粗利益率、主力事業、最近の動向などの詳細情報を紹介します」（https://newscast.jp/smart/news/3331170）
+  - 「第2章では、銅合金製の放熱材料の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://japan.zdnet.com/release/31209248/）
+  - 「第3章では、銅合金製の放熱材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://japan.zdnet.com/release/31209248/）
+  - 「第13章では、銅合金製の放熱材料市場の主要メーカーについて、基本情報、製品仕様と用途、販売量、収益、価格設定、粗利益率、主力事業、最近の動向などの詳細情報を紹介します」（https://japan.zdnet.com/release/31209248/）
+  - 「3. 競争力のある価格設定」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「上海Truer社からGRCop-42粉末を卸売価格で注文するための、簡潔なガイドをご紹介します：」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「研究開発（R&D）向けの最小注文数量は、通常1kgです」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「Q6: 1キログラムあたりの価格はいくらですか？」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「: 1kg規模の研究開発用バッチから、量産用の1トン以上まで」（https://am-printing.com/ja/c18150-powder20260119/）
+  - 「1kg、5kg、10kg、25kgの密閉容器」（https://am-printing.com/ja/c18150-powder20260119/）
+  - 「東京都台東区三筋2-10-8 | 資本金 2500万円 | 1964年（昭和39年）」（https://mono.ipros.com/category/afa0e48394976365/index.html）
+  - 「埼玉県戸田市新曽2002-12 市ヶ谷ビル4F | 従業員 170人 | 資本金 9900万円 | 1969年4月」（https://mono.ipros.com/category/afa0e48394976365/index.html）
+  - 「東京都目黒区柿の木坂3-3-2 | 従業員 13人 | 資本金 1000万円 | 1946年12月」（https://mono.ipros.com/category/afa0e48394976365/index.html）
+- 上位シェア・主要企業：
+  - 「銅粉市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「銅粉市場規模、シェア、トレンド分析レポート：製造方法別（アトマイズ銅粉、電解銅粉、還元銅粉、その他製造方法）、製品形態別（球状銅粉、フレーク状銅粉、不規則形状銅粉、樹枝状銅粉）、用途別（粉末冶金、積層造形、溶射、導電性コーティングおよびインク）、最終用途産業別（電子機器および電気機器、自動車、航空宇宙および防衛、産業機械）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「アジア太平洋地域は、2025年に42.0%の市場シェアを占め、銅粉市場を牽引しました」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「微粒化された銅粉末は、粉末冶金、溶射、積層造形、その他の産業用途において、粒子サイズ、形態、流動特性を制御できることから、2025年には45.2%のシェアを占める見込みである」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「球状銅粉末セグメントは、その良好な流動性、充填性、および高度な製造プロセスへの適合性により、2025年には44.8%のシェアを占める見込みである」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「粉末冶金分野は、ベアリング、フィルター、構造部品、摩擦材、電気部品における銅粉末の確立された使用に支えられ、2025年には36.8%のシェアを占めた」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「電子機器・電気機器分野は、効率的な放熱に対する需要により、2025年には35.6%のシェアを占め、導電性材料は引き続き銅粉の消費を支えている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「アジア太平洋地域の銅粉市場は、2025年には地域別シェア42.0%を占め、市場規模は4億7460万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「中国の銅粉市場は、同国の大手電子機器、自動車、電気機器、粉末冶金産業によって牽引されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「主要企業は、粉体の純度、粒度と形態、生産能力、用途性能、グローバルな流通ネットワークを駆使して競争している」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「アジア太平洋地域は2025年に42.0%という圧倒的な市場シェアを占めた」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「アンチモン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「ルビジウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/copper-powder-market）
+- ニッチ度（供給元の数・寡占）：
+  - 「第3章では、酸化アルミニウム銅の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://newscast.jp/smart/news/3331170）
+  - 「また、電子機器の小型化と高機能化が同時に進行することで、限られた実装空間内で効率的に熱を拡散する能力が一段と重要になっている」（https://japan.zdnet.com/release/31209248/）
+  - 「第3章では、銅合金製の放熱材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://japan.zdnet.com/release/31209248/）
+  - 「従来のサプライヤーには、リードタイムが長い、MOQ（最小注文数量）が高い、粉末のカスタマイズにおける柔軟性が限られているといった制約がしばしばあります」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「上海トゥルーアー・テクノロジーのような代替供給元」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「パウダーの選択肢が限られている」（https://am-printing.com/ja/grcop-42-powder20250826/）
+  - 「サイズは限られておりますがSUS316・316L・430もございます」（https://mono.ipros.com/category/afa0e48394976365/index.html）
+  - 「Customizable particle sizes and shapes for niche applications.」（https://am-printing.com/copper-powder20250922/）
+- 日本の買い手と供給元：
+  - 「中国の広範な製造エコシステムと巨大な国内需要基盤は、特に電子機器および産業用途における銅粉の継続的な消費を支えている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「日本銅粉市場分析」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「日本の銅粉市場は、半導体、データセンター、電化技術における銅需要の高まりから恩恵を受けると予想されており、経済産業省は銅を2040年までに需要が大幅に増加すると見込まれる重要鉱物として位置付けている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「日本はまた、JOGMECが支援する銅材料のリサイクルおよび加工技術を通じて銅資源の安全保障を強化し、銅粉用途向けの銅原料の長期的な供給を支えている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「また、電化、再生可能エネルギー、電気自動車、インフラ開発に支えられ、国内の銅需要は2030年までに330万トンに達すると予測されており、産業用途や先端材料用途で使用される銅粉にとって新たな機会が生まれる」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「北米：堅調な国内供給エコシステムと精製能力の拡大により、最も速い成長を遂げている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「銅が2025年の米国重要鉱物リストに掲載されたことで、国内の銅供給と加工に対する政策的関心が高まり、米国の銅粉市場は恩恵を受けると予想される」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「カナダの銅粉市場は、銅を優先鉱物として位置づけ、2030年までに国内の採掘、加工、先端製造、リサイクルのバリューチェーンを強化することを目指す「カナダ重要鉱物戦略」によって支えられています」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「Mitsui Mining & Smelting Co., Ltd. (Japan)」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「Sumitomo Metal Mining Co., Ltd. (Japan)」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「Fukuda Metal Foil & Powder Co., Ltd. (Japan)」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「Kymera International (US) · GGP Metalpowder AG (Switzerland) · Pometon S.p.A. (Italy) · Mitsui Mining & Smelting Co., Ltd. (Japan) · Sumitomo Metal Mining Co., Ltd. (Japan)」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「日本語サイト：」（https://newscast.jp/smart/news/3331170）
+  - 「銅合金製の放熱材料市場規模マップ＋シェア＋フレームワーク、CAGR 6.6%の安定成長 - ZDNET Japan」（https://japan.zdnet.com/release/31209248/）
+  - 「Continue to ZDNET Japan」（https://japan.zdnet.com/release/31209248/）
+- 日本の顧客が買うか（需要の証拠）：
+  - 「銅粉市場は、精製銅、銅精鉱、電力、加工設備、特殊な生産資材など、世界中から調達される資源に依存しているため、サプライチェーンの混乱に非常に脆弱です」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「プリントエレクトロニクスにおける銅粉末の採用」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「銅粉市場への投資と資金調達の分析」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「銅粉市場は、積層造形、プリントエレクトロニクス、電気部品、および高度な産業用途における銅系材料の需要増加に牽引され、投資および資金調達活動が継続すると予測されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「銅粉市場における主要な投資および資金調達活動、2025年～2026年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「資金調達／投資額（米ドル）」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「2026年2月、新川新材料は、太陽光発電用銅粉の研究開発、生産能力の拡大、および市場開拓を支援するため、約1億人民元のIPO前資金調達ラウンドを完了した」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「多孔質金属フィルターおよび流体管理コンポーネントの採用と、保護・装飾コーティング用途の拡大が市場を牽引する」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「これらの要件は設備および運用コストを増加させるため、用途によっては微細な銅粉末の採用を阻害する可能性があります」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「そのため、供給の安定性が損なわれ、コストが増加する可能性があり、先進的な製造用途への採用が遅れる要因となる」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「中国の広範な製造エコシステムと巨大な国内需要基盤は、特に電子機器および産業用途における銅粉の継続的な消費を支えている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「市場は、積層造形技術の採用と、高性能な銅系部品に対する継続的な需要によって牽引されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「使用条件が厳しく、電極交換に伴う設備停止コストが高い生産ラインでは、酸化アルミニウム銅の採用に魅力があります」（https://newscast.jp/smart/news/3331170）
+  - 「調達側は通常、他の高性能銅合金と比較検討するため、材料の先進性を広く訴求するよりも、適用条件と限界を明確に示すことが事業上重要です」（https://newscast.jp/smart/news/3331170）
+  - 「こうした変化は、顧客の加工費用や調達に伴う調整コストの削減に役立つ一方、供給企業には、より高い加工歩留まり、検査能力、納入管理能力が求められます」（https://newscast.jp/smart/news/3331170）
+- 再生・循環：
+  - 「再生可能エネルギー」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「電力インフラ、再生可能エネルギー、先端製造業への投資も、銅粉市場の成長に貢献しています」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「日本はまた、JOGMECが支援する銅材料のリサイクルおよび加工技術を通じて銅資源の安全保障を強化し、銅粉用途向けの銅原料の長期的な供給を支えている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「また、電化、再生可能エネルギー、電気自動車、インフラ開発に支えられ、国内の銅需要は2030年までに330万トンに達すると予測されており、産業用途や先端材料用途で使用される銅粉にとって新たな機会が生まれる」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「カナダの銅粉市場は、銅を優先鉱物として位置づけ、2030年までに国内の採掘、加工、先端製造、リサイクルのバリューチェーンを強化することを目指す「カナダ重要鉱物戦略」によって支えられています」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「これまでのキャリアを通じて、イスマイルは特殊化学品、先端材料、産業技術、製造設備、再生可能エネルギー、持続可能な包装などを網羅する数多くの業界調査を主導し、貢献してきました」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「さらに、先端半導体パッケージ向けの熱応力低減、複数材料を組み合わせた高機能構造、リサイクル性向上、製造工程の低炭素化なども重要性を増し、銅合金製の放熱材料は単なる熱伝導材から、電子システム全体の熱信頼性、性能安定性および長寿命化を支える重要な機能材料へと進化していくと考えられる」（https://japan.zdnet.com/release/31209248/）
+  - 「欧州では自動車電動化、産業用パワーエレクトロニクス、再生可能エネルギーおよび精密機械分野が主要需要源となる」（https://japan.zdnet.com/release/31209248/）
+  - 「100%リサイクル電気銅」（https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/）
+  - 「100%リサイクル高機能伸銅品」（https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/）
+  - 「地球環境の保全・再生への貢献」（https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/）
+  - 「ニッケル、コバルト、チタン、タンタル、タングステンなどのレアメタル回収及び再生リサイクルとフェロアロイ、非鉄金属地金、スクラップ品、セカンダリー品の販売・貿易業務」（https://mono.ipros.com/category/afa0e48394976365/index.html）
+  - 「真鍮（水道メーター）の買取・販売（リサイクル）サービス」（https://mono.ipros.com/category/afa0e48394976365/index.html）
+  - 「当社では、真鍮（水道メーター）の買取・販売（リサイクル）サービス」（https://mono.ipros.com/category/afa0e48394976365/index.html）
+  - 「■リサイクル・再溶解可能」（https://mono.ipros.com/category/afa0e48394976365/index.html）
 
 ## アルミ合金粉末のAM用途（aluminum alloy powder additive manufacturing market）
 - 文脈：マテリアル・航空・宇宙
@@ -1943,3 +2095,265 @@
   - 「リサイクル技術の向上や、使用する原材料の選定により、持続可能な製造プロセスが求められています」（https://www.atpress.ne.jp/news/6101282）
   - 「SNSで466万回再生！北海道で大人気のベーカリー」（https://www.atpress.ne.jp/news/6101282）
   - 「クリーンエネルギーインフラにおいて、金属粉末は、その優れた特性により、クリーン技術全体の性能向上、持続可能性の確保、そしてリサイクル性の強化に不可欠な基盤材料として、ますますその重要性を高めています」（https://www.globalresearch.jp/data/japan-metal-powder-market-imarc/）
+
+## 日本の金属3Dプリンター導入台数（方式別・業種別）（metal 3D printer installed base Japan by technology industry）
+- 文脈：日本の需要
+- 市場規模：
+  - 「金属3Dプリンティング市場規模、シェア、トレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、技術別（選択的レーザー焼結、直接金属レーザー焼結、電子ビーム溶解、選択的レーザー溶解、その他）、ソフトウェア別（設計ソフトウェア、検査ソフトウェア、プリンターソフトウェア、スキャンソフトウェア）、用途別（プロトタイピング、ツーリング、機能部品）、業種別（自動車、航空宇宙・防衛、ヘルスケア、家電、電力・エネルギー、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026年～2034年」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「世界の金属3Dプリンティング市場規模は、2025年には75億米ドルと評価され、2026年の92億1000万米ドルから2034年には476億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は22.8%となる見込みです」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「2024年の市場規模」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「2033年予測市場規模」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「医薬品市場におけるクラウドコンピューティングの市場規模、シェア、成長率（2034年）」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「産業用IoT市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「IoTヘルスケア市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「ブロックチェーンIoT市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「500万円〜3億円*1」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「500万円〜3億円の装置投資、粉末材料の在庫リスク、専用オペレーターの人件費が一切かからず、必要な時に必要な分だけ発注できます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「量産できる3Dプリンターを中心に市場規模拡大の見通し」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「の総売上額は前年比8.9％増の308億円で、2017～」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「規模を476億円と予測する」と発表した」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「を含めて一式で約1 億円、ArcamQ20に至っては一」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「式約2 億円の価格である」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+- 成長率：
+  - 「金属3Dプリンティング市場の規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「世界の金属3Dプリンティング市場規模は、2025年には75億米ドルと評価され、2026年の92億1000万米ドルから2034年には476億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は22.8%となる見込みです」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「年平均成長率（2025年～2033年）」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「ハードウェアセグメントは市場への貢献度が最も高く、予測期間中に年平均成長率（CAGR）24.20%で成長すると予想されています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「電子ビーム溶解（EBM）セグメントは最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）23.95%で成長すると予想されています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「設計ソフトウェアセグメントは市場への貢献度が最も高く、予測期間中に年平均成長率（CAGR）22.60%で成長すると予想されています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「試作セグメントは市場シェアが最も高く、予測期間中に年平均成長率（CAGR）23.55%で成長すると予想されています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「自動車分野は市場への貢献度が最も高く、予測期間中に年平均成長率（CAGR）22.45%で拡大すると見込まれています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「北米は世界の金属3Dプリンティング市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）23.00%で成長すると予想されています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「金属3Dプリンティング市場は北米地域で最も急速に拡大しており、長期的な投資計画を持つ企業にとって、さらなる成長の可能性を秘めています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「アジア太平洋地域は、予測期間中に年平均成長率（CAGR）27.10%で成長すると予想されています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「この投資により、Incodema3DのEOS金属プリンター保有台数は50台以上に増加し、航空宇宙、防衛、宇宙、エネルギー、産業生産といった分野への事業拡大が促進されます」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「この投資は、同社の生産能力を拡大し、ミッションクリティカルな金属3Dプリンティング分野における地位を強化することを目的としています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「金属3Dプリンティング市場の規模は、2026年には92億1000万米ドルと評価され、2026年から2034年の予測期間において年平均成長率（CAGR）22.8%で成長し、2034年には476億3000万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「金属AMの技術は日々進化しており、2026年以降はBJT方式の量産受託や難加工材対応の拡大など、選択肢はさらに広がっていくはずです」（https://steelsale.jp/casestudy/3dp/a113）
+- 売り方・商流：
+  - 「金属素材商社の強み」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「【番外】どの代理店から購入するか」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「ここでは、世界的に存在感が大きく、かつ日本での導入・サポート体制（日本法人・代理店網など）が整っているメーカーを中心に紹介します」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「また、参入には自社の既存技術を応用する・他社との共同開発や買収を行う・海外の3Dプリンターメーカーの代理店事業などからノウハウを蓄積して参入するなどの方法があります」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「今後は①各装置メーカーの価格の引下げ努力、②唯一無二な機能部」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「in Osaka. Although very few Japan-based AM hardware or AM materials manufacturers are listed among exhibitors, these shows are offering a window for distributors or divisions of foreign AM companies to target the Japanese industrial firms attending the larger manufacturing fairs surrounding both events.」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/）
+  - 「recently became a distributor of nTopology software in Japan」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/）
+  - 「(also a distributor of high-temperature filament extrusion hardware from Italian manufacturer」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/）
+- 繰り返し性：
+  - 「インドでは、金属AM分野の技術進歩に伴い、今後数年間で3Dプリント金属の需要が増加すると予想されています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「過去数年間、この地域は家電製品を製造する企業にとっての拠点となり、自動車生産の重要な拠点となることでその存在感を高めてきました」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「ヨーロッパは、豊富な技術ノウハウと原材料のおかげで、積層造形に関する大規模な研究開発を定期的に実施している地域の一つです」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「コスト分岐点は、年間造形量と用途によって変わります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「目安として、年間造形量が500cm³以下、かつ多品種少量の試作が中心であれば受託造形が圧倒的に優位です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「一方、年間造形量が数千cm³を超え、同一素材で継続的に生産する場合は自社導入が視野に入ります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「5 年間常駐させレーザの特性を学び、レーザ加工技術の習得」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「2022年の年間平均成長率を＋9.1％、2022年の市場」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「域における、イ. 指定期間での、 ウ. 全検索回数に対する指定」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「「LUMEX Avance-25」）を使用して3 年間で180」（https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf）
+  - 「. The company driven by CEO Alexander De Vore, is the prototype of the modern 3D printing firm, offering DfAM consultancy, machine sales (with Markforged alongside AON3D) and manufacturing services (including robotic extrusion of CFRP materials).」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/）
+- 価格：
+  - 「「金属3Dプリンタで試作品を作りたいけれど、装置導入には数千万円もかかる」「小ロットだけ外注したいが、どの業者に頼めばいいのか分からない」——こうした悩みを抱える製造業の担当者は少なくありません」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「500万円〜3億円*1」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「装置導入には本体だけでなく粉末材料の初期在庫、造形室の環境整備、オペレーター育成が必要で、初年度の総投資額は装置本体価格の1.5〜2倍に達するケースもあります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「500万円〜3億円の装置投資、粉末材料の在庫リスク、専用オペレーターの人件費が一切かからず、必要な時に必要な分だけ発注できます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金型を作らず1個から製造できるため、金型製作費（一般的に数十万〜数百万円）が不要になります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「DMM.makeやKabuku Connectなどのオンライン見積もりサービスは、STLデータをアップロードするだけで数秒〜1分程度で概算価格を提示してくれます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「インコネル718やTi64は多くの受託事業者が対応していますが、粉末価格が高く造形難易度も高いため、単価はSUSの2〜3倍になるのが一般的です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「【2026年版】金属3Dプリンタ完全ガイド｜価格・造形方式・メーカー比較」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「【500万円未満】おすすめの3Dプリンター」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「【500万円未満】おすすめの3Dプリンター_TOP」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「【500万円未満】精度重視の3Dプリンター」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「【500万円未満】造形方式別3Dプリンター」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「【500万円未満】造形サイズ別3Dプリンター」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「【500万円以上】おすすめの3Dプリンター」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「【500万円以上】おすすめの3Dプリンター_TOP」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+- 上位シェア・主要企業：
+  - 「金属3Dプリンティング市場の規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「金属3Dプリンティング市場規模、シェア、トレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、技術別（選択的レーザー焼結、直接金属レーザー焼結、電子ビーム溶解、選択的レーザー溶解、その他）、ソフトウェア別（設計ソフトウェア、検査ソフトウェア、プリンターソフトウェア、スキャンソフトウェア）、用途別（プロトタイピング、ツーリング、機能部品）、業種別（自動車、航空宇宙・防衛、ヘルスケア、家電、電力・エネルギー、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026年～2034年」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「北米は、2025年に市場シェア36.8%を占め、金属3Dプリンティング市場を牽引しました」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「北米は金属3Dプリンティング業界を牽引し、2024年には43.5%のシェアを占めた」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「技術面では、電子ビーム溶解（EBM）分野が2024年の金属3Dプリンティング市場で約26%の最大のシェアを占め、高強度で複雑な金属部品を優れた精度で製造できる能力によって市場を支配しており、航空宇宙産業や医療産業における重要な用途に最適となっている」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「電子ビーム溶解（EBM）セグメントは最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）23.95%で成長すると予想されています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「試作セグメントは市場シェアが最も高く、予測期間中に年平均成長率（CAGR）23.55%で成長すると予想されています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「北米は世界の金属3Dプリンティング市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）23.00%で成長すると予想されています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「北米は2025年時点で36.8%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「データ収益化市場の規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「医薬品市場におけるクラウドコンピューティングの市場規模、シェア、成長率（2034年）」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「産業用IoT市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「ビデオ監視市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「IoTヘルスケア市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「ブロックチェーンIoT市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+- ニッチ度（供給元の数・寡占）：
+  - 「実発注時は必ず複数社から相見積もりを取ることをおすすめします」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「※各社の対応素材、造形サイズ、認証状況、標準納期の詳細は公開情報が限られるため「要確認」としています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「純銅やタングステンなど反射率・融点の面で扱いが難しい素材は、対応事業者が限られます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「タングステンは放射線遮蔽や高温電極用途で需要があり、こちらも国内対応事業者は数社に限られるため、事前の問い合わせが不可欠です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「ただし純銅・タングステンなどの難加工材は対応事業者が限られるため、事前に問い合わせが必要です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「まずは複数社に相見積もりを取り、自社の用途に最適なパートナーを見つけることから始めてみましょう」（https://steelsale.jp/casestudy/3dp/a113）
+- 日本の買い手と供給元：
+  - 「さらに、日本、中国、韓国などの主要国の科学者や研究者による医療分野の研究開発によって、3Dプリンティング技術の進歩が促進されています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「ヨーロッパの高度な研究者、技術者、科学者たちは、3Dプリンティングの未来を切り拓くために尽力しており、これは米国、日本、ロシアといった世界有数の経済大国にも受け入れられています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「国内でも東レ・プレシジョン、J・3D、JAMPTなど専門事業者のサービスラインナップが充実しつつあります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「このセクションでは、国内で金属3Dプリンタ受託造形を提供する主要9社を横断比較します」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「JAMPT（日本積層造形）」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「日本3Dプリンタ」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「JAMPT（日本積層造形）は」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「ODECや日本3Dプリンタは装置販売と受託造形の両方を展開しているため、将来的な自社導入を視野に入れた企業にとってワンストップの相談先になります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「JAMPT、東レ・プレシジョン、SOLIZE、日本3Dプリンタなどが対応実績を公表しています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「タングステンは放射線遮蔽や高温電極用途で需要があり、こちらも国内対応事業者は数社に限られるため、事前の問い合わせが不可欠です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「国内受託造形の主流はこのPBF方式で、東レ・プレシジョン、J・3D、JAMPTなどほぼすべての専門事業者が対応しています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「国内でもBJT対応の受託サービスが少しずつ登場しており、今後の選択肢拡大が期待されます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「JAM-5200EBM[日本電子株式会社]」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「LAMDAシリーズ［日本電産マシンツール］」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「ここでは、世界的に存在感が大きく、かつ日本での導入・サポート体制（日本法人・代理店網など）が整っているメーカーを中心に紹介します」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+- 日本の顧客が買うか（需要の証拠）：
+  - 「自動車および航空宇宙産業は、試作と設計が生産の完璧さを達成するための研究開発に不可欠であるため、より多くの機会を創出し、3Dプリンティングをより迅速に採用しています」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「この投資により、Incodema3DのEOS金属プリンター保有台数は50台以上に増加し、航空宇宙、防衛、宇宙、エネルギー、産業生産といった分野への事業拡大が促進されます」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「市場動向としては、航空宇宙・医療・金型・自動車分野を中心に採用が急速に広がっています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金型のコンフォーマルクーリングを採用すると、樹脂成形の冷却時間を20〜40%短縮できる事例も報告されており、量産金型分野でも活用が広がっています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「自動車分野ではAlSi10Mgによる軽量化部品、SUS製の耐熱排気系部品などが採用されています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「認証（JIS Q 9100等）を持つ事業者は航空宇宙用途で信頼性が高く、量産採用を目指すなら認証取得事業者を選ぶべきです」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「エンジンブラケット、燃料系部品、衛星部品などで採用が広がっています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「自動車部品、家電、日用品のプラスチック成形金型で採用が広がっており、ROIが明確に数値化できる代表的な用途です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「自動車分野では、モータースポーツ用の軽量化部品や、EV向けのバッテリー冷却プレート、モーターハウジングなどでAlSi10Mgや純銅の採用が進んでいます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「ラティス構造を採用する場合は、格子のセルサイズと梁の太さを事業者と相談しながら決めることをおすすめします」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「【番外】どの代理店から購入するか」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「【業種別】3Dプリンターの導入事例と今後の展望」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「【業種別】3Dプリンターの導入事例と今後の展望_TOP」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「材料押出（FDM/FFF）や材料噴射（PolyJet）などの方式を中心に、試作から治具、少量生産まで幅広い用途で採用されています」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+  - 「航空宇宙・医療・エネルギーなど、高い品質要求がある領域で採用されるケースが多く、金属3Dプリンターの代表格として挙げられます」（https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html）
+- 再生・循環：
+  - 「再生可能エネルギー」（https://straitsresearch.com/jp/report/metal-3d-printing-market）
+  - 「). Perhaps one of the most interesting projects undertaken by Canon in the 3D printing area just emerged recently through it fully owned subsidiary Canon Ecology Industry as the company—which specializes in recycling and upcycling used Canon 2D printing equipment such as toner cartridges and copier parts—began producing」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/）
+
+## 日本の金属粉末・AM用粉末の輸入量と輸入元（Japan imports of metal powder for additive manufacturing）
+- 文脈：日本の需要
+- 市場規模：
+  - 「金属粉末を用いた積層造形（AM）の世界市場規模は、予測期間中に年平均成長率（CAGR）14.9%で拡大し、2035年には1,617億米ドルに達すると予測されています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「金属粉末の日本市場（～2031年）、市場規模（鉄、非鉄、自動車）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/6101282）
+  - 「金属粉末の日本市場（～2031年）、市場規模（鉄、非鉄、自動車）・分析レポートを発表」（https://www.atpress.ne.jp/news/6101282）
+  - 「6.1. 金額別市場規模」（https://www.atpress.ne.jp/news/6101282）
+  - 「6.2. 材料別市場規模と予測」（https://www.atpress.ne.jp/news/6101282）
+  - 「6.3. 用途別市場規模と予測」（https://www.atpress.ne.jp/news/6101282）
+  - 「6.4. 技術別市場規模と予測」（https://www.atpress.ne.jp/news/6101282）
+  - 「6.5. 地域別市場規模と予測」（https://www.atpress.ne.jp/news/6101282）
+  - 「7.1.1. 日本の金属粉末市場規模：鉄系材料別、2019-2030年」（https://www.atpress.ne.jp/news/6101282）
+  - 「7.1.2. 日本の金属粉末市場規模：非鉄系材料別、2019-2030年」（https://www.atpress.ne.jp/news/6101282）
+  - 「7.2.1. 日本の金属粉末市場規模：自動車用途別、2019-2030年」（https://www.atpress.ne.jp/news/6101282）
+  - 「7.2.2. 日本の金属粉末市場規模：航空宇宙・防衛用途別、2019-2030年」（https://www.atpress.ne.jp/news/6101282）
+  - 「7.2.3. 日本の金属粉末市場規模：ヘルスケア用途別、2019-2030年」（https://www.atpress.ne.jp/news/6101282）
+  - 「7.2.4. 日本の金属粉末市場規模：エレクトロニクス用途別、2019-2030年」（https://www.atpress.ne.jp/news/6101282）
+  - 「【調査レポート】日本の金属粉末市場規模（～2030）」（https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/）
+- 成長率：
+  - 「Additive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)に関する当社の調査レポートによると、同市場は予測期間である2026―2035年にかけ、年平均成長率（CAGR）」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「2026-2035年の CAGR」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「SDKI Analyticsによる調査でも言及されている通り、2023年にはアディティブ・マニュファクチャリング関連機器の出荷台数が前年比24.2%増加しており、市場需要の堅調な高まりが示されています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「当社のSDKI市場調査アナリストは、アジア太平洋地域の「金属粉末を用いた積層造形」市場が、予測期間を通じて年平均成長率（CAGR）22%以上を記録し、世界市場において最も急速な成長を遂げると予測しています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「当調査会社が発表した調査レポート「Japan Metal Powder Market Overview, 2030」によると、日本の金属粉末市場は2025年から2030年にかけて年平均成長率（CAGR）7.71％以上で成長すると予測されています」（https://www.atpress.ne.jp/news/6101282）
+  - 「ボナファイド・リサーチの調査報告書「日本金属粉末市場概況2030」によると、日本金属粉末市場は2025年から2030年にかけて年平均成長率（CAGR）7.71％超で拡大すると予測される」（https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/）
+  - 「内視鏡処置具、歯科器具、小型手術器具の需要増により、316L粉末の需要も緩やかに拡大する傾向が見込まれます」（https://blog.met3dp.com/ja/blog/316l-mim-powder-for-metal-injection-molded-medical-parts/）
+  - 「韓国は「製造革新3.0」イニシアチブの一環として、AM能力を急速に拡大している」（https://met3dp.com/ja/metal-am-2/）
+- 売り方・商流：
+  - 「本機の納入は、BLT社の国内におけるリースおよび販売代理店パートナーであるOrix Rentec Corporationによって行われることとなりました」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「この技術エコシステムは、政府の産業近代化プログラムに支えられた、金属粉末メーカー、装置メーカー、研究開発機関間の緊密な連携によって恩恵を受けています」（https://www.atpress.ne.jp/news/6101282）
+  - 「この変化は、強力な研究開発ネットワーク、OEM企業の参画、および産業変革に焦点を当てた政府プログラムによって推進されている」（https://www.atpress.ne.jp/news/6101282）
+  - 「また、最終ユーザー、代理店、販売店、ブランドオーナー、個人開発者まで対応できるOEM、ODM、卸売、小口調達、地域販売協業といった柔軟な協業モデルを取り、海外案件を多数手がけてきた運用経験を基盤に、日本向けにも事前技術相談、オンラインとオフライン双方の導入支援、継続的なアフター対応を提供しやすい体制を整えています」（https://blog.met3dp.com/ja/blog/mim-powder-for-small-precision-metal-component-production/）
+  - 「この技術エコシステムは、金属粉末メーカー、装置メーカー、研究開発機関が政府の産業近代化プログラムに支えられ緊密に連携することで恩恵を受けている」（https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/）
+  - 「この変革は、強力な研究開発ネットワーク、OEMの参画、産業変革に焦点を当てた政府プログラムによって推進されている」（https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/）
+  - 「特に東京の医療機器設計拠点、埼玉や神奈川の精密加工ネットワーク、愛知の量産部品供給網、大阪・神戸の材料商社と輸出入機能は、医療MIM調達の重要な接点です」（https://blog.met3dp.com/ja/blog/316l-mim-powder-for-metal-injection-molded-medical-parts/）
+  - 「中部地方の装置メーカーでは、滅菌環境下で使う固定部品に316L MIMを採用し、鍛造＋切削よりも形状自由度を高めつつ材料歩留まりを改善しました」（https://blog.met3dp.com/ja/blog/316l-mim-powder-for-metal-injection-molded-medical-parts/）
+  - 「日本の顧客に対しては、最終ユーザー、商社、販売代理店、ブランドオーナー、個人開発者までを対象に、OEM、ODM、卸売、小口対応、地域代理店協業といった柔軟な協力モデルを用意し、材料選定、試作評価、工程条件調整、量産切替まで支援できます」（https://blog.met3dp.com/ja/blog/316l-mim-powder-for-metal-injection-molded-medical-parts/）
+  - 「国内のMIM加工企業や材料商社に加え、日本向け対応を進める国際サプライヤーも比較対象に入れることで、品質とコストの両立がしやすくなります」（https://blog.met3dp.com/ja/blog/316l-mim-powder-for-metal-injection-molded-medical-parts/）
+  - 「B2Bバイヤー、OEMメーカー、産業用サプライヤ、グローバルディストリビュータにとって、東アジアからの金属3Dプリンティングシステムとパウダーの調達は、最先端技術、コスト効率、製造規模の強力な組み合わせを提供します」（https://met3dp.com/ja/metal-am-2/）
+  - 「トヨタやホンダなどのOEMが牽引」（https://met3dp.com/ja/metal-am-2/）
+  - 「グローバルOEM向け」（https://met3dp.com/ja/metal-am-2/）
+  - 「各地域のOEMおよび再販業者」（https://met3dp.com/ja/metal-am-2/）
+  - 「以下は、信頼できる東アジアのAMパートナーを求める産業界のバイヤーやOEMのためのトップ・サプライヤーのリストです：」（https://met3dp.com/ja/metal-am-2/）
+- 繰り返し性：
+  - 「一方、アジア太平洋市場は、今後数年間にわたり、有望な成長機会を示す態勢が整っています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「米国エネルギー省の調査報告書によると、アディティブ・マニュファクチャリングは従来の製造手法と比較して、エネルギー消費量を約25%削減できるほか、廃棄物および材料費を最大で約90%削減できる可能性があります」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「過去5年間から2024年まで」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「2035年までの今後10年間」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「この市場成長の主要な牽引役となっているのは、航空宇宙およびヘルスケア分野における材料認定の適用拡大です」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「防衛、航空宇宙、エネルギー、医療、その他、極めて高い信頼性が求められる重要用途（ミッションクリティカルアプリケーション）向けに、高品質かつ実用認定（クオリフィケーション）に耐えうる部品を製造できるよう設計されています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「部品図面、要求特性、想定材質、目標公差、成形法、脱脂・焼結条件、年間使用量、試作時期があると、精度の高い提案を受けやすくなります」（https://blog.met3dp.com/ja/blog/mim-powder-for-small-precision-metal-component-production/）
+  - 「横浜港、神戸港、名古屋港を使った定期輸入も一般的で、輸送中の防湿・酸化対策も品質に直結します」（https://blog.met3dp.com/ja/blog/316l-mim-powder-for-metal-injection-molded-medical-parts/）
+  - 「安全在庫と年間契約を設定」（https://blog.met3dp.com/ja/blog/316l-mim-powder-for-metal-injection-molded-medical-parts/）
+  - 「過去10年間で、東アジアは金属積層造形（金属AM）の世界的な大国として台頭し、日本、韓国、中国は産業用3Dプリンティングの未来を形作る上で極めて重要な役割を果たしています」（https://met3dp.com/ja/metal-am-2/）
+  - 「をクリックして、その能力、認定、グローバル・パートナーシップの詳細をご覧ください」（https://met3dp.com/ja/metal-am-2/）
+  - 「過去5年間で、中国は産業用メタルAMソリューションの調達先を探す企業にとって急成長を遂げた」（https://met3dp.com/ja/metal-am-2/）
+  - 「大量注文や長期契約のための柔軟な価格設定」（https://met3dp.com/ja/metal-am-2/）
+- 価格：
+  - 「初回調達では、価格だけで一括発注せず、サンプルロット、試作ロット、量産前ロットの3段階で評価するのが安全です」（https://blog.met3dp.com/ja/blog/mim-powder-for-small-precision-metal-component-production/）
+  - 「この比較表のポイントは、医療部品向け316L MIM粉末の選定が、単なる原料価格比較では成立しないことです」（https://blog.met3dp.com/ja/blog/316l-mim-powder-for-metal-injection-molded-medical-parts/）
+  - 「💡 B2Bバイヤーのためのヒント：中国が最も競争力のある価格設定と粉体調達オプションを提供する一方、日本と韓国は精密でニッチな用途を提供する」（https://met3dp.com/ja/metal-am-2/）
+  - 「小規模の研究開発ラボから多国籍OEMに至るまで、B2Bバイヤーは革新性、手頃な価格、拡張性を兼ね備えた中国のサプライヤーをますます支持するようになっている」（https://met3dp.com/ja/metal-am-2/）
+  - 「3Dプリンターとパウダーの競争力のある価格設定」（https://met3dp.com/ja/metal-am-2/）
+  - 「B2Bバイヤーにとって、東アジア、特に中国、韓国、日本から金属積層造形装置や消耗品を調達することは、価格、性能、製品の多様性において大きなメリットを引き出すことができる」（https://met3dp.com/ja/metal-am-2/）
+- 上位シェア・主要企業：
+  - 「金属粉末を用いた積層造形市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析―製造技術別、素材タイプ別、アプリケーション別、及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「市場シェアの観点から、」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「金属粉末を用いた積層造形に関する当社の市場調査によれば、予測期間において、北米市場が約38.5%という圧倒的な市場シェアを維持すると見込まれます」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「会社の収益シェアモデル」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「SDKI Analyticsの専門家によると、Additive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)の世界シェアに関するレポートのインサイトは、以下の通りです:」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「したがって、当社の分析によれば、粉末床溶融結合技術が市場シェアの46%を占め、今後も主導的な地位を維持すると予測されます」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「分野における金属粉末を用いた積層造形のアプリケーションが最大のサブセグメントとなり、市場全体の44%のシェアを占めると予測されています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「北米のAdditive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)は、予測期間において38.5%という圧倒的な収益シェアを確保し、世界市場において主導的な地位を確立すると見込まれています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「において事業を展開する、世界の主要企業はどれですか」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「当社の調査レポートによれば、世界のAdditive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)の成長において重要な役割を果たしている主要企業には、Sandvik AB、Höganäs AB、Carpenter Technology Corporation、GKN Powder Metallurgy、Oerlikon AMなどが挙げられます」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「ガス検知器市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― 技術別、ガスタイプ別、エンドユーザー産業別、及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「メカニカルシール市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析―製品タイプ別、用途別、素材別、デザイン別、及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「Sandvik AB、Höganäs AB、Carpenter Technology Corporation、GKN Powder Metallurgy、Oerlikon AMなどは、世界のAdditive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)において事業を展開する主要企業の例です」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「当社の調査レポートによれば、Morimura Bros., Inc.、Matsuura Machinery Ltd.、 Nippon Steel Corporation、Hitachi Metals、Mitsubishi Heavy Industriesなどが、Additive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)において、日本国内で事業を展開する主要企業として挙げられます」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「世界の 金属粉末を用いた積層造形市場 で最大のシェアを誇る地域はどこですか?」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+- ニッチ度（供給元の数・寡占）：
+  - 「が、日本の市場参入企業にもたらす恩恵は何ですか」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「短く言えば、国内サポートを重視するなら日本拠点や日本法人のある供給元、コスト性能を重視するなら国際調達を含めた二段構えが有効です」（https://blog.met3dp.com/ja/blog/mim-powder-for-small-precision-metal-component-production/）
+  - 「そのため、海外供給元でも、日本市場向けに仕様固定、文書整備、サンプル履歴管理、ロット追跡を行えることが重要です」（https://blog.met3dp.com/ja/blog/mim-powder-for-small-precision-metal-component-production/）
+  - 「6.Metal3DPとの提携高性能メタルAMソリューションの信頼できる供給元」（https://met3dp.com/ja/metal-am-2/）
+- 日本の買い手と供給元：
+  - 「必要に応じて日本語レポートが入手可能」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「が、日本の市場参入企業にもたらす恩恵は何ですか」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「当社のSDKI市場予測によると、日本のAdditive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)は、国内の強固な自動車産業基盤を背景に、世界市場において力強い成長を遂げると予測されています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「日本自動車工業会による報告書によれば、2023年の日本の自動車生産台数は8.99百万台に達しており、これが軽量かつ高耐久性、さらにはカスタマイズ可能な部品に対する旺盛な需要を牽引しています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「こうした技術的優位性に加え、増加傾向にある海外からの直接投資や政府主導の研究開発（R&D）プログラムが相乗効果をもたらすことで、日本企業はサプライチェーンを強化し、輸入への依存度を低減させるとともに、国際競争力を一層拡大させることが可能となります」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「自動車生産の拡大、支援的な政策、そして先進的な製造技術が三位一体となって連携することで、アディティブマニュファクチャリングは、日本の産業の未来を根本から変革する原動力として、その地位を確立しつつあります」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「、デンマーク）、アイルランド、スイス、オーストリア、ポーランド、トルコ、ロシア、その他のヨーロッパ）、ポーランド、トルコ、ロシア、その他のヨーロッパ）、アジア太平洋（中国、インド、日本、韓国、シンガポール、インドネシア、マレーシア）」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「において、競合している主要な日本企業はどれですか」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「2025年12月、Nihon Chuzo Co., Ltdは、Bright Laser Technologies（BLT）社が開発した国内最大級の金属粉末床溶融結合（PBF-LB/M）方式3Dプリンターを、2026年初頭に導入することを決定しました」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「本機の納入は、BLT社の国内におけるリースおよび販売代理店パートナーであるOrix Rentec Corporationによって行われることとなりました」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「日本市場のトップ 5 プレーヤー」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「金属粉末を用いた積層造形市場 における日本のキープレーヤートップ5は誰ですか?」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「当社の調査レポートによれば、Morimura Bros., Inc.、Matsuura Machinery Ltd.、 Nippon Steel Corporation、Hitachi Metals、Mitsubishi Heavy Industriesなどが、Additive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)において、日本国内で事業を展開する主要企業として挙げられます」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「Analyticsは、日本を代表するリサーチと戦略コンサルティング会社です」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「日本のニュース」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+- 日本の顧客が買うか（需要の証拠）：
+  - 「また、最近の調査報告書では、迅速な試作（ラピッドプロトタイピング）やカスタマイズ部品の製造において、金属粉末を用いた積層造形の採用が広がりを見せている点も指摘されています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「国際ロボット連盟（IFR）の報告によると、中国では2023年に276,288台の産業用ロボットが導入され、これは世界の導入台数全体の51%を占めています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「本システムは、レーザー粉末床溶融結合（LPBF）方式を採用したプリンターです」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「また、地政学的な変化により国内調達戦略が加速しており、輸入高純度粉末への依存度を低減させると同時に、国内の合金原料におけるイノベーションを促進している」（https://www.atpress.ne.jp/news/6101282）
+  - 「自動車分野に比べれば規模は依然として小さいものの、国際的な航空機メーカー（ボーイングなど）との提携や、国内の防衛調達プログラムの拡大により、航空宇宙セグメントは成長を続けています」（https://www.atpress.ne.jp/news/6101282）
+  - 「積層造形（AM）は、超高純度金属粉末を活用し、複雑な形状の製造にますます採用されている」（https://www.atpress.ne.jp/news/6101282）
+  - 「日本のエレクトロニクス製品の小型化トレンドや、複雑な形状を持つ高精度部品への需要が、ステンレス鋼、チタン、銅合金におけるMIMの採用を後押ししている」（https://www.atpress.ne.jp/news/6101282）
+  - 「特に軽量化と高強度を追求する動きが進む中で、金属粉末の採用は増加しています」（https://www.atpress.ne.jp/news/6101282）
+  - 「短く言えば、国内サポートを重視するなら日本拠点や日本法人のある供給元、コスト性能を重視するなら国際調達を含めた二段構えが有効です」（https://blog.met3dp.com/ja/blog/mim-powder-for-small-precision-metal-component-production/）
+  - 「特に中国系でも、日本向け品質要求に対応できる認証体制、粒度管理、前後工程支援、安定供給、事前評価サポート、導入後フォローが整った企業は十分に検討対象になります」（https://blog.met3dp.com/ja/blog/mim-powder-for-small-precision-metal-component-production/）
+  - 「日本のMIM市場は、単なる粉末販売ではなく、精密加工代替、部品一体化、微細形状化、軽量化、磁気特性最適化を同時に求める調達市場として進化しています」（https://blog.met3dp.com/ja/blog/mim-powder-for-small-precision-metal-component-production/）
+  - 「物流面では、横浜港、名古屋港、神戸港、博多港を通じた輸入粉末の流れが安定しており、輸入MIM粉末の調達リードタイムは比較的読みやすくなっています」（https://blog.met3dp.com/ja/blog/mim-powder-for-small-precision-metal-component-production/）
+  - 「日本向け輸出、東アジア、グローバル」（https://blog.met3dp.com/ja/blog/mim-powder-for-small-precision-metal-component-production/）
+  - 「調達時の注意点」（https://blog.met3dp.com/ja/blog/mim-powder-for-small-precision-metal-component-production/）
+  - 「調達判断に使える比較表」（https://blog.met3dp.com/ja/blog/mim-powder-for-small-precision-metal-component-production/）
+- 再生・循環：
+  - 「並行して、エネルギー価格の高騰やリサイクル規制の強化といった規制や資源動向により、日本のメーカーは噴霧化、粉末回収、およびプロセス効率の最適化を迫られている」（https://www.atpress.ne.jp/news/6101282）
+  - 「エプソンアトミックスの新たな金属リサイクル施設のような大規模な投資も、循環型材料利用や持続可能な粉末原料への優先順位の変化を強調している」（https://www.atpress.ne.jp/news/6101282）
+  - 「持続可能性に対する規制上の重視も、リサイクル非鉄粉末への関心を高めており、これは日本のより広範な環境目標とも合致している」（https://www.atpress.ne.jp/news/6101282）
+  - 「リサイクル技術の向上や、使用する原材料の選定により、持続可能な製造プロセスが求められています」（https://www.atpress.ne.jp/news/6101282）
+  - 「SNSで466万回再生！北海道で大人気のベーカリー」（https://www.atpress.ne.jp/news/6101282）
+  - 「並行して、エネルギー価格の上昇やリサイクル規制の強化といった規制・資源動向が、日本の生産者に微粉化、粉末回収、プロセス効率の最適化を迫っている」（https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/）
+  - 「エプソンアトミックスの新金属リサイクル施設など大規模投資は、循環型材料利用と持続可能な粉末原料への優先度転換を浮き彫りにしている」（https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/）
+  - 「持続可能性への規制重視も、日本の広範な環境目標に沿った再生非鉄金属粉末への関心を後押ししている」（https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/）
+  - 「特に持続可能な製造工程やリサイクル技術の開発が求められる中、金属粉末はますます重要な要素となるでしょう」（https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/）
+
+## 日本企業が海外製のAM粉末を採用・調達した事例
+- 文脈：
+- エラー：ValueError: netloc '＃' contains invalid characters under NFKC normalization

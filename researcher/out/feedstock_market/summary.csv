@@ -4,7 +4,7 @@
 ニッケル基超合金粉末（Inconel 718・625）,nickel superalloy powder 718 625 additive manufacturing,航空・宇宙,,60(1) / 20(1),25,5,17,37,14,29,11,37,37,16,45,,
 航空宇宙向けAM粉末の認定と長期供給契約,aerospace qualified AM powder supply agreement,航空・宇宙,3.8(1) / 4.70(1) / 5.1(1) / 5.19(1) / 20(1) / 24.1(1) / 25.7(1) / 25.1(1),51.6(1) / 51.63(1) / 75(1) / 60(1) / 51(1) / 17(1) / 13(1) / 38.5(1),60,60,39,60,15,60,18,60,60,39,45,,
 高融点金属粉末（タングステン・タンタル・モリブデン・ニオブ）,refractory metal powder additive manufacturing tungsten tantalum,航空・宇宙・マテリアル,11.0(2) / 14.1(1) / 7.11(1) / 7.4(1),99.5(2) / 99.9(2) / 99.99(2) / 999(2),38,17,9,46,29,43,14,39,44,21,45,,
-銅・銅合金粉末のAM用途（放熱・電極）,,,,,0,0,0,0,0,0,0,0,0,0,0,,ValueError: netloc '＃' contains invalid characters under NFKC normalization
+銅・銅合金粉末のAM用途（放熱・電極）,copper powder additive manufacturing heat exchanger electrical,パワー半導体（放熱）・マテリアル,3.6(1) / 5.6(1) / 5.4(1) / 10.8(1) / 7.0(1) / 4.1(1) / 9.50(1) / 6.6(1),42.0(1) / 45.2(1) / 44.8(1) / 36.8(1) / 35.6(1) / 6.6(1),33,23,40,15,28,51,8,60,60,20,45,,
 アルミ合金粉末のAM用途,aluminum alloy powder additive manufacturing market,マテリアル・航空・宇宙,,,1,6,22,13,13,16,1,60,51,37,45,,
 半導体製造装置部品向けのAM材料,additive manufacturing materials semiconductor equipment parts,AI・半導体,9.1(3) / 8.93(2) / 5.5(1) / 6.7(1) / 6.8(1) / 8.3(1) / 8.9(1) / 7.3(1),8(1) / 20.2(1) / 14(1) / 19(1) / 5.5(1) / 6.6(1) / 8.0(1) / 6.2(1),60,60,60,41,19,60,27,60,58,21,48,,
 パワー半導体の放熱部材と材料,power semiconductor thermal management materials heat sink copper,パワー半導体,5.80(1) / 18.8(1) / 8.0(1) / 5.9(1) / 4.5(1) / 10(1) / 6.42(1) / 6.2(1),19.5(1) / 51.5(1) / 10.5(1) / 9.5(1) / 42.5(1) / 39.2(1) / 34.7(1) / 50(1),47,28,11,28,9,60,12,60,60,59,51,,
@@ -13,3 +13,6 @@ WAAM・DED用の金属ワイヤ,wire for wire arc additive manufacturing market,
 金属粉末の再生・リサイクル（使用済み粉）,metal AM powder recycling reuse market,循環,4.06(1),,11,6,1,3,0,15,1,17,8,5,45,価格,
 1台あたりの年間粉末消費量,annual powder consumption per metal 3D printer,繰り返し性,8.5(1) / 16.9(1) / 5.6(1) / 6.6(1) / 6.94(1) / 5.9(1),9.8(1) / 41.2(1) / 40.44(1),27,25,6,19,6,37,4,21,23,12,45,,
 日本の金属AM用粉末メーカーと商流,Japan metal AM powder suppliers distribution,日本,7.71(4) / 4.06(2) / 21.4(1) / 22(1) / 5.8(1),44.3(1) / 68.5(1) / 38.5(1) / 46(1) / 44(1) / 25(1),60,32,29,30,40,60,7,60,60,33,45,,
+日本の金属3Dプリンター導入台数（方式別・業種別）,metal 3D printer installed base Japan by technology industry,日本の需要,22.8(1) / 24.20(1) / 23.95(1) / 22.60(1) / 23.55(1) / 22.45(1) / 23.00(1) / 27.10(1),36.8(1) / 43.5(1) / 26(1) / 23.95(1) / 23.55(1) / 23.00(1),18,23,8,11,31,46,6,49,27,2,45,,
+日本の金属粉末・AM用粉末の輸入量と輸入元,Japan imports of metal powder for additive manufacturing,日本の需要,7.71(2) / 22(1),38.5(1) / 46(1) / 44(1),28,8,23,13,6,26,4,60,60,9,45,,
+日本企業が海外製のAM粉末を採用・調達した事例,,,,,0,0,0,0,0,0,0,0,0,0,0,,ValueError: netloc '＃' contains invalid characters under NFKC normalization
