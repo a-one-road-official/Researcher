@@ -1,0 +1,33 @@
+# 本人の指示（2026-11-04）：対象3分野（航空・宇宙／AI・半導体のパワー半導体／マテリアル）に絞り、金属AMの原料（粉・ワイヤ・金属フィラメント）特化の市場を客観数値で決める。
+# 取る数字：市場規模・成長率、どう売られているか（直販・商社・装置メーカーの純正縛り）、繰り返し買われる度合い（1台あたりの年間消費量・認定で原料が固定されるか・買い替え頻度）、価格（1kgあたり）、上位シェア、日本の買い手と供給元。
+# 引用のまま取る。要約・解釈・順位づけはしない。日本と世界の両方。
+kind: market
+title: 金属AM原料（粉・ワイヤ・フィラメント）— 市場規模・売り方・繰り返し性・価格・シェア（3分野向け）
+input: researcher/inputs/feedstock_market.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  市場規模: [市場規模, 億円, 兆円, 億ドル, market size, valued at, billion, million, tonnes, トン]
+  成長率: [CAGR, 年平均成長率, 成長率, 前年比, 拡大, compound annual, growing at, YoY]
+  売り方・商流: [直販, 代理店, 商社, 販売店, 純正, 指定材料, 装置メーカー, OEM, 認定材料, open material, closed system, locked, distributor, direct sales, approved materials, qualified powder]
+  繰り返し性: [消費量, 使用量, 年間, 毎月, 定期, 補充, リピート, 長期契約, 供給契約, 認定, 変更できない, 再認定, consumption, per year, per machine, recurring, long-term supply agreement, LTA, requalification, qualification, switching cost]
+  価格: [円/kg, 万円, 1kg, kg当たり, 1キロ, per kg, /kg, USD/kg, price per kilogram, 価格]
+  上位シェア・主要企業: [シェア, 首位, 主要企業, 大手, market share, key players, leading, top]
+  日本の買い手と供給元: [日本, 国内, 日本企業, Japan, Japanese]
+  再生・循環: [リサイクル, 再生, 買い戻し, 使用済み粉, recycl, reuse, buyback, circular]
+
+numeric: [市場規模, 成長率, 価格]
+
+external_queries:
+  - "{name} 市場規模 CAGR"
+  - "{name} 価格 kg"
+  - "{name} シェア 主要企業"
+  - "{name} 日本 需要"
+  - "{name} 供給契約 長期"
+  - "{en} market size CAGR 2030"
+  - "{en} price per kg"
+  - "{en} consumption per machine per year"
+  - "{en} qualification long-term supply agreement"
+  - "{en} distributor direct sales OEM approved materials"
+
+limits: {pages: 45, external_per_query: 6, per_cat: 15}
