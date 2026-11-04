@@ -1,0 +1,19 @@
+# 本人の指示（2026-11-05）：note・ブログなど外部の情報から、リサーチ手法（複数の情報を突き合わせて書かれていない事実を推し量るやり方）を集め続ける。集めた引用をもとに、Claude が1時間おきに METHOD.md（リサーチャーの挙動の決まり）を書き換える。
+kind: market
+title: リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）
+input: researcher/inputs/research_method.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+refresh_hours: 3
+evidence:
+  手順・やり方: [手順, ステップ, やり方, 方法, 型, フレーム, 進め方, コツ, 使い方, how to, step, method, framework]
+  突き合わせ・推定: [推定, 推計, 逆算, 割り算, 掛け算, 仮説, 検証, 突き合わせ, 照合, 三角測量, クロスチェック, 矛盾, 食い違い, 裏取り, estimate, triangulation, cross-check, back-of-the-envelope]
+  一次情報の探し方: [一次情報, 統計, e-Stat, 有価証券報告書, 決算, 官報, 登記, 求人, 採用, 特許, 工業会, 業界団体, PDF, 公的, primary source, filing]
+  失敗・落とし穴: [失敗, 落とし穴, 注意, 誤り, 間違い, バイアス, 罠, 鵜呑み, ダメ, pitfall, mistake, bias]
+  実例: [事例, 実例, やってみた, 例えば, ケース, 結果, example, case]
+external_queries:
+  - "{name} site:note.com"
+  - "{name} note"
+  - "{name} やり方"
+  - "{name} 事例"
+  - "{en}"
+limits: {pages: 40, pdfs: 4, external_per_query: 6, per_cat: 15}
