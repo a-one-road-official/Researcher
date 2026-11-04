@@ -2354,6 +2354,119 @@
   - 「持続可能性への規制重視も、日本の広範な環境目標に沿った再生非鉄金属粉末への関心を後押ししている」（https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/）
   - 「特に持続可能な製造工程やリサイクル技術の開発が求められる中、金属粉末はますます重要な要素となるでしょう」（https://www.marketresearch.co.jp/mrc-bf09j11-japan-metal-powder-market-overview/）
 
-## 日本企業が海外製のAM粉末を採用・調達した事例
-- 文脈：
-- エラー：ValueError: netloc '＃' contains invalid characters under NFKC normalization
+## 日本企業が海外製のAM粉末を採用・調達した事例（Japanese companies adopting overseas AM powder supplier）
+- 文脈：日本の需要
+- 市場規模：
+  - 「金属粉末を用いた積層造形（AM）の世界市場規模は、予測期間中に年平均成長率（CAGR）14.9%で拡大し、2035年には1,617億米ドルに達すると予測されています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+- 成長率：
+  - 「Additive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)に関する当社の調査レポートによると、同市場は予測期間である2026―2035年にかけ、年平均成長率（CAGR）」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「2026-2035年の CAGR」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「SDKI Analyticsによる調査でも言及されている通り、2023年にはアディティブ・マニュファクチャリング関連機器の出荷台数が前年比24.2%増加しており、市場需要の堅調な高まりが示されています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「当社のSDKI市場調査アナリストは、アジア太平洋地域の「金属粉末を用いた積層造形」市場が、予測期間を通じて年平均成長率（CAGR）22%以上を記録し、世界市場において最も急速な成長を遂げると予測しています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「韓国は「製造革新3.0」イニシアチブの一環として、AM能力を急速に拡大している」（https://met3dp.com/ja/metal-am-2/）
+- 売り方・商流：
+  - 「本機の納入は、BLT社の国内におけるリースおよび販売代理店パートナーであるOrix Rentec Corporationによって行われることとなりました」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「金属3Dプリンターをよく利用する製造現場の方、販売店の方、金属材料を扱うメーカーさまや商社さまとの協業は大歓迎です」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「3Dプリンター 国内代理店一覧」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「■航空機エンジン、発電用ガスタービン認定材料各種」（https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/）
+  - 「OEM 認証仕様」（https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/）
+  - 「B2Bバイヤー、OEMメーカー、産業用サプライヤ、グローバルディストリビュータにとって、東アジアからの金属3Dプリンティングシステムとパウダーの調達は、最先端技術、コスト効率、製造規模の強力な組み合わせを提供します」（https://met3dp.com/ja/metal-am-2/）
+  - 「トヨタやホンダなどのOEMが牽引」（https://met3dp.com/ja/metal-am-2/）
+  - 「グローバルOEM向け」（https://met3dp.com/ja/metal-am-2/）
+  - 「各地域のOEMおよび再販業者」（https://met3dp.com/ja/metal-am-2/）
+  - 「以下は、信頼できる東アジアのAMパートナーを求める産業界のバイヤーやOEMのためのトップ・サプライヤーのリストです：」（https://met3dp.com/ja/metal-am-2/）
+  - 「:OEM、代理店、研究開発機関」（https://met3dp.com/ja/metal-am-2/）
+  - 「:OEMや大学との共同開発」（https://met3dp.com/ja/metal-am-2/）
+  - 「OEM、ディストリビューター」（https://met3dp.com/ja/metal-am-2/）
+  - 「小規模の研究開発ラボから多国籍OEMに至るまで、B2Bバイヤーは革新性、手頃な価格、拡張性を兼ね備えた中国のサプライヤーをますます支持するようになっている」（https://met3dp.com/ja/metal-am-2/）
+  - 「OEMおよびODM施設の全国ネットワーク」（https://met3dp.com/ja/metal-am-2/）
+- 繰り返し性：
+  - 「一方、アジア太平洋市場は、今後数年間にわたり、有望な成長機会を示す態勢が整っています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「米国エネルギー省の調査報告書によると、アディティブ・マニュファクチャリングは従来の製造手法と比較して、エネルギー消費量を約25%削減できるほか、廃棄物および材料費を最大で約90%削減できる可能性があります」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「過去5年間から2024年まで」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「2035年までの今後10年間」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「この市場成長の主要な牽引役となっているのは、航空宇宙およびヘルスケア分野における材料認定の適用拡大です」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「防衛、航空宇宙、エネルギー、医療、その他、極めて高い信頼性が求められる重要用途（ミッションクリティカルアプリケーション）向けに、高品質かつ実用認定（クオリフィケーション）に耐えうる部品を製造できるよう設計されています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「複合コーティング製品はダイヤモンド砥粒の使用量と摩耗を減らし、ツールの使用寿命を延長させます」（https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/）
+  - 「■航空機エンジン、発電用ガスタービン認定材料各種」（https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/）
+  - 「認定資格と法的記述」（https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/）
+  - 「過去10年間で、東アジアは金属積層造形（金属AM）の世界的な大国として台頭し、日本、韓国、中国は産業用3Dプリンティングの未来を形作る上で極めて重要な役割を果たしています」（https://met3dp.com/ja/metal-am-2/）
+  - 「をクリックして、その能力、認定、グローバル・パートナーシップの詳細をご覧ください」（https://met3dp.com/ja/metal-am-2/）
+  - 「過去5年間で、中国は産業用メタルAMソリューションの調達先を探す企業にとって急成長を遂げた」（https://met3dp.com/ja/metal-am-2/）
+  - 「大量注文や長期契約のための柔軟な価格設定」（https://met3dp.com/ja/metal-am-2/）
+- 価格：
+  - 「仮に大きな造形物をチタンで作って失敗すると100万円レベルの損失になります」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「💡 B2Bバイヤーのためのヒント：中国が最も競争力のある価格設定と粉体調達オプションを提供する一方、日本と韓国は精密でニッチな用途を提供する」（https://met3dp.com/ja/metal-am-2/）
+  - 「小規模の研究開発ラボから多国籍OEMに至るまで、B2Bバイヤーは革新性、手頃な価格、拡張性を兼ね備えた中国のサプライヤーをますます支持するようになっている」（https://met3dp.com/ja/metal-am-2/）
+  - 「3Dプリンターとパウダーの競争力のある価格設定」（https://met3dp.com/ja/metal-am-2/）
+  - 「B2Bバイヤーにとって、東アジア、特に中国、韓国、日本から金属積層造形装置や消耗品を調達することは、価格、性能、製品の多様性において大きなメリットを引き出すことができる」（https://met3dp.com/ja/metal-am-2/）
+- 上位シェア・主要企業：
+  - 「金属粉末を用いた積層造形市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析―製造技術別、素材タイプ別、アプリケーション別、及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「市場シェアの観点から、」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「金属粉末を用いた積層造形に関する当社の市場調査によれば、予測期間において、北米市場が約38.5%という圧倒的な市場シェアを維持すると見込まれます」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「会社の収益シェアモデル」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「SDKI Analyticsの専門家によると、Additive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)の世界シェアに関するレポートのインサイトは、以下の通りです:」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「したがって、当社の分析によれば、粉末床溶融結合技術が市場シェアの46%を占め、今後も主導的な地位を維持すると予測されます」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「分野における金属粉末を用いた積層造形のアプリケーションが最大のサブセグメントとなり、市場全体の44%のシェアを占めると予測されています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「北米のAdditive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)は、予測期間において38.5%という圧倒的な収益シェアを確保し、世界市場において主導的な地位を確立すると見込まれています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「において事業を展開する、世界の主要企業はどれですか」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「当社の調査レポートによれば、世界のAdditive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)の成長において重要な役割を果たしている主要企業には、Sandvik AB、Höganäs AB、Carpenter Technology Corporation、GKN Powder Metallurgy、Oerlikon AMなどが挙げられます」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「ガス検知器市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― 技術別、ガスタイプ別、エンドユーザー産業別、及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「メカニカルシール市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析―製品タイプ別、用途別、素材別、デザイン別、及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「Sandvik AB、Höganäs AB、Carpenter Technology Corporation、GKN Powder Metallurgy、Oerlikon AMなどは、世界のAdditive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)において事業を展開する主要企業の例です」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「当社の調査レポートによれば、Morimura Bros., Inc.、Matsuura Machinery Ltd.、 Nippon Steel Corporation、Hitachi Metals、Mitsubishi Heavy Industriesなどが、Additive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)において、日本国内で事業を展開する主要企業として挙げられます」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「世界の 金属粉末を用いた積層造形市場 で最大のシェアを誇る地域はどこですか?」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+- ニッチ度（供給元の数・寡占）：
+  - 「が、日本の市場参入企業にもたらす恩恵は何ですか」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「6.Metal3DPとの提携高性能メタルAMソリューションの信頼できる供給元」（https://met3dp.com/ja/metal-am-2/）
+- 日本の買い手と供給元：
+  - 「必要に応じて日本語レポートが入手可能」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「が、日本の市場参入企業にもたらす恩恵は何ですか」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「当社のSDKI市場予測によると、日本のAdditive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)は、国内の強固な自動車産業基盤を背景に、世界市場において力強い成長を遂げると予測されています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「日本自動車工業会による報告書によれば、2023年の日本の自動車生産台数は8.99百万台に達しており、これが軽量かつ高耐久性、さらにはカスタマイズ可能な部品に対する旺盛な需要を牽引しています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「こうした技術的優位性に加え、増加傾向にある海外からの直接投資や政府主導の研究開発（R&D）プログラムが相乗効果をもたらすことで、日本企業はサプライチェーンを強化し、輸入への依存度を低減させるとともに、国際競争力を一層拡大させることが可能となります」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「自動車生産の拡大、支援的な政策、そして先進的な製造技術が三位一体となって連携することで、アディティブマニュファクチャリングは、日本の産業の未来を根本から変革する原動力として、その地位を確立しつつあります」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「、デンマーク）、アイルランド、スイス、オーストリア、ポーランド、トルコ、ロシア、その他のヨーロッパ）、ポーランド、トルコ、ロシア、その他のヨーロッパ）、アジア太平洋（中国、インド、日本、韓国、シンガポール、インドネシア、マレーシア）」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「において、競合している主要な日本企業はどれですか」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「2025年12月、Nihon Chuzo Co., Ltdは、Bright Laser Technologies（BLT）社が開発した国内最大級の金属粉末床溶融結合（PBF-LB/M）方式3Dプリンターを、2026年初頭に導入することを決定しました」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「本機の納入は、BLT社の国内におけるリースおよび販売代理店パートナーであるOrix Rentec Corporationによって行われることとなりました」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「日本市場のトップ 5 プレーヤー」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「金属粉末を用いた積層造形市場 における日本のキープレーヤートップ5は誰ですか?」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「当社の調査レポートによれば、Morimura Bros., Inc.、Matsuura Machinery Ltd.、 Nippon Steel Corporation、Hitachi Metals、Mitsubishi Heavy Industriesなどが、Additive Manufacturing with Metal Powder Market(金属粉末を用いた積層造形市場)において、日本国内で事業を展開する主要企業として挙げられます」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「Analyticsは、日本を代表するリサーチと戦略コンサルティング会社です」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「日本のニュース」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+- 日本の顧客が買うか（需要の証拠）：
+  - 「また、最近の調査報告書では、迅速な試作（ラピッドプロトタイピング）やカスタマイズ部品の製造において、金属粉末を用いた積層造形の採用が広がりを見せている点も指摘されています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「国際ロボット連盟（IFR）の報告によると、中国では2023年に276,288台の産業用ロボットが導入され、これは世界の導入台数全体の51%を占めています」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「本システムは、レーザー粉末床溶融結合（LPBF）方式を採用したプリンターです」（https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367）
+  - 「米軍にも採用された金属粉末のリサイクル装置」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「また、サステナブルなメリットだけでなく、昨今問題になっているサプライチェーンの輸送や調達の問題も解決できると考えています」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「世界中がここ数年でコロナ禍や国際紛争で物流が停滞し、材料が調達できないという事態を経験しました」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「スペックシートは用意していますが、米軍も認める品質を確認するために、当社のパウダーのサンプルを購入していただきたいと考えています」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「3Dプリンター購入のための助成金・補助金の制度」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「3Dプリンター購入時に使える税制優遇措置」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「購入前にお試し！業務用3Dプリンターが利用できる公共施設」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「3Dプリンタ材料や金属射出成形材料としても採用！球状のアモルファス合金粉末」（https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/）
+  - 「合金粉末の海外調達により、コスト削減を実現致します！」（https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/）
+  - 「調達における社会的責任」（https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/）
+  - 「一般的な採用応募フォーム」（https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/）
+- 再生・循環：
+  - 「製造業にとって、エコやリサイクルという言葉は過去10年を振り返っても重要視されていたし、取り組みは多種行われていたが、より踏み込んだ対応を求められているとも言える」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「今回は米国とシンガポールに拠点を持ち、数々のビジネスアワードに輝いた金属材料リサイクルの取り組みを行っている企業であるContinuumを紹介する」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「シンガポールで旗揚げし世界中に拠点を伸ばそうとしている同社は、AM用金属材料のリサイクルで世界の企業からの注目を集めている」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「米軍にも採用された金属粉末のリサイクル装置」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「金属リサイクル粉末の分野における皆さんのご活動は以前から噂に聞いていました」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「私たちは100％リサイクル素材を利用した金属用の粉末の製造と販売を行っています」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「Marc氏：こうした金属リサイクルは、従来であれば、廃棄するために他国に輸送され、他の合金と混ぜ合わされ、より低付加価値なリサイクル処理をうけることが多かったと思います」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「リサイクルした金属粉末の方がより手間がかかっているはずですので、コストが高くなっているのではと思うのですが、何故安価に提供できるのでしょうか？」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「しかし、失敗した造形物がリサイクル可能であれば、そのコストも軽減されます」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「大手の自動車会社などが自社製品に関して利用するなどのケースはあるかもしれませんが、日本国内でリサイクルした金属粉末材料を日本国内向けに提供していきたいと考えています」（https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/）
+  - 「使用済粉末のリサイクルにも取り組んでいます」（https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/）
