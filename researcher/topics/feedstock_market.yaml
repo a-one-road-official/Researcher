@@ -1,5 +1,5 @@
 # 本人の指示（2026-11-04）：対象3分野（航空・宇宙／AI・半導体のパワー半導体／マテリアル）に絞り、金属AMの原料（粉・ワイヤ・金属フィラメント）特化の市場を客観数値で決める。
-# 取る数字：ニッチ度（供給元の数・寡占）、CAGR、主要プレイヤー複数社、市場規模・成長率、どう売られているか（直販・商社・装置メーカーの純正縛り）、繰り返し買われる度合い（1台あたりの年間消費量・認定で原料が固定されるか・買い替え頻度）、価格（1kgあたり）、上位シェア、日本の買い手と供給元。
+# 取る数字：日本の顧客が実際に買うか（導入台数・輸入量・調達事例・採用・認定取得）、ニッチ度（供給元の数・寡占）、CAGR、主要プレイヤー複数社、市場規模・成長率、どう売られているか（直販・商社・装置メーカーの純正縛り）、繰り返し買われる度合い（1台あたりの年間消費量・認定で原料が固定されるか・買い替え頻度）、価格（1kgあたり）、上位シェア、日本の買い手と供給元。
 # 引用のまま取る。要約・解釈・順位づけはしない。日本と世界の両方。
 kind: market
 title: 金属AM原料（粉・ワイヤ・フィラメント）— 市場規模・売り方・繰り返し性・価格・シェア（3分野向け）
@@ -15,6 +15,7 @@ evidence:
   上位シェア・主要企業: [シェア, 首位, 主要企業, 大手, 主要メーカー, メーカー一覧, 主なメーカー, market share, key players, major players, leading players, key companies, companies profiled, prominent players, manufacturers include, suppliers include, top]
   ニッチ度（供給元の数・寡占）: [社のみ, 数社, 限られ, 寡占, 独占, 供給元, 参入企業, 社が参入, メーカー数, 新規参入, 参入障壁, few suppliers, only a handful, limited number of suppliers, number of suppliers, concentrated, consolidated, fragmented, niche, barrier to entry, HHI]
   日本の買い手と供給元: [日本, 国内, 日本企業, Japan, Japanese]
+  日本の顧客が買うか（需要の証拠）: [導入台数, 保有台数, 稼働台数, 国内需要, 国内出荷, 輸入量, 輸入額, 輸入元, 調達, 採用, 購入, 導入事例, 量産採用, 認定取得, 国産品, 海外製, 購入先, 調達先, 日本向け, 日本の顧客, Japanese customers, installed base Japan, imports to Japan, sold in Japan, Japan demand]
   再生・循環: [リサイクル, 再生, 買い戻し, 使用済み粉, recycl, reuse, buyback, circular]
 
 numeric: [市場規模, 成長率, 価格]
@@ -31,6 +32,9 @@ external_queries:
   - "{name} 主要メーカー 一覧"
   - "{name} 参入企業 数"
   - "{name} 日本 需要"
+  - "{name} 国内 導入台数 OR 輸入量"
+  - "{name} 日本企業 採用 調達 事例"
+  - "{en} Japan customers demand imports"
   - "{name} 供給契約 長期"
   - "{en} market size CAGR 2030"
   - "{en} price per kg"
