@@ -21,14 +21,25 @@ def slug(name: str) -> str:
     return f"{s}_{hashlib.md5(name.encode()).hexdigest()[:6]}"
 
 
-def done(d: Path, c: dict) -> bool:
+def done(d: Path, c: dict, max_age_hours: float | None = None) -> bool:
+    """Done = researched without error, and (for refreshing topics) not older than max_age_hours."""
     p = d / f"{slug(c['name'])}.json"
     if not p.exists():
         return False
     try:
-        return "error" not in json.loads(p.read_text(encoding="utf-8"))
+        rec = json.loads(p.read_text(encoding="utf-8"))
     except Exception:
         return False
+    if "error" in rec:
+        return False
+    if max_age_hours:
+        from datetime import datetime, timezone
+        try:
+            t = datetime.fromisoformat(rec.get("researched_at", ""))
+        except ValueError:
+            return False
+        return (datetime.now(timezone.utc) - t).total_seconds() < float(max_age_hours) * 3600
+    return True
 
 
 def load_topic(name: str) -> dict:

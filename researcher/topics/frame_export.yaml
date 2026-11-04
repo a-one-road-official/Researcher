@@ -1,0 +1,33 @@
+# 本人の指示（2026-11-04）：顧客起点の3C（顧客の顧客・顧客の競合・顧客・自社・自社の競合）＋PEST を、まず業界ごとに、日本→海外（輸出）の向きで。
+# 目的は本人が読むことではなく、Claude と Muse が質問に答える前に必ず通る最新の事実の土台にすること。3時間おきに回り、1品目は24時間ごとに取り直して足していく（消さない）。
+kind: market
+title: 業界の3C＋PEST（日本→海外・輸出）対象6分野33小区分
+input: researcher/inputs/field6_gap.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+refresh_hours: 24
+evidence:
+  顧客（金を払う側）: [メーカー, 企業, 導入, 採用, 発注, 受注, 調達, 設備投資, 量産, 工場, 納入, 顧客, customers, manufacturers, adopted, orders]
+  顧客の顧客（発注元が求めること）: [発注元, 元請, 防衛省, 官公庁, 調達方針, サプライヤー, 要求, 認証, 品質要求, 納期, 脱炭素, BCP, OEM, prime contractor, procurement, supplier requirements, qualification]
+  顧客の競合（奪いに来る側）: [競合, 中国, 韓国, 台湾, インド, 欧州, 米国, シェア, 海外勢, 価格競争, 安価, 追い上げ, competitor, Chinese, Korean, market share, low-cost]
+  自社の競合（商社・代理店・仲介）: [商社, 代理店, 総代理店, 販売代理, 輸入元, 輸入販売, 輸出商社, 仲介, 手数料, マージン, ディストリビューター, distributor, reseller, agent, commission]
+  政治（法・予算・規制）: [補助金, 基金, 予算, 法改正, 法律, 規制, 規制緩和, 輸出管理, 外為法, 関税, 経済安全保障, 認定, 閣議決定, 政府, subsidy, regulation, export control, tariff, government]
+  経済（規模・価格・為替）: [市場規模, 億円, 兆円, 万円, 成長率, CAGR, 年平均, 前年比, 価格, 単価, 為替, 円安, 投資額, 売上, market size, billion, million, growth]
+  社会（人・担い手）: [人手不足, 人材不足, 人材, 高齢化, 技能, 担い手, 雇用, 後継者, 採用難, labor shortage, workforce, skilled]
+  技術（新しい技術・実証）: [新技術, 開発, 実証, 特許, 量産化, 次世代, 試作, 3Dプリンタ, 積層造形, AI, 自動化, ロボット, technology, prototype, additive manufacturing, patent]
+numeric: [経済（規模・価格・為替）]
+external_queries:
+  - "{name} 輸出 {y}"
+  - "{name} 海外 受注 日本企業"
+  - "{name} 海外市場 日本企業 シェア"
+  - "{name} 中国 韓国 競合 日本"
+  - "{name} 輸出管理 規制"
+  - "{name} 海外展開 商社 代理店"
+  - "{name} 調達 サプライヤー 要求"
+  - "{name} 市場規模 {y}"
+  - "{name} 補助金 予算 {y}"
+  - "{name} 人手不足 担い手"
+  - "{name} 新技術 実証 {y}"
+  - "{en} Japan export {y}"
+  - "{en} Japanese suppliers overseas customers"
+  - "{en} market share China Japan Korea"
+limits: {pages: 60, external_per_query: 4, per_cat: 15, social_per_query: 4}

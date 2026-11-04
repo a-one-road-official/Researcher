@@ -1,0 +1,31 @@
+# 本人の指示（2026-11-04）：毎日、業界ニュースを取る。対象6分野33小区分。見出し・日付・数字の入った行をそのまま、5箱＋PESTに振り分けて足していく（消さない）。
+kind: market
+title: 業界ニュース（毎日）対象6分野33小区分
+input: researcher/inputs/field6_gap.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+refresh_hours: 24
+evidence:
+  顧客（金を払う側）: [メーカー, 企業, 導入, 採用, 発注, 受注, 調達, 設備投資, 量産, 工場, 納入, 顧客, customers, manufacturers, adopted, orders]
+  顧客の顧客（発注元が求めること）: [発注元, 元請, 防衛省, 官公庁, 調達方針, サプライヤー, 要求, 認証, 品質要求, 納期, 脱炭素, BCP, OEM, prime contractor, procurement, supplier requirements, qualification]
+  顧客の競合（奪いに来る側）: [競合, 中国, 韓国, 台湾, インド, 欧州, 米国, シェア, 海外勢, 価格競争, 安価, 追い上げ, competitor, Chinese, Korean, market share, low-cost]
+  自社の競合（商社・代理店・仲介）: [商社, 代理店, 総代理店, 販売代理, 輸入元, 輸入販売, 輸出商社, 仲介, 手数料, マージン, ディストリビューター, distributor, reseller, agent, commission]
+  政治（法・予算・規制）: [補助金, 基金, 予算, 法改正, 法律, 規制, 規制緩和, 輸出管理, 外為法, 関税, 経済安全保障, 認定, 閣議決定, 政府, subsidy, regulation, export control, tariff, government]
+  経済（規模・価格・為替）: [市場規模, 億円, 兆円, 万円, 成長率, CAGR, 年平均, 前年比, 価格, 単価, 為替, 円安, 投資額, 売上, market size, billion, million, growth]
+  社会（人・担い手）: [人手不足, 人材不足, 人材, 高齢化, 技能, 担い手, 雇用, 後継者, 採用難, labor shortage, workforce, skilled]
+  技術（新しい技術・実証）: [新技術, 開発, 実証, 特許, 量産化, 次世代, 試作, 3Dプリンタ, 積層造形, AI, 自動化, ロボット, technology, prototype, additive manufacturing, patent]
+numeric: [経済（規模・価格・為替）]
+external_queries:
+  - "{name} ニュース {ym}"
+  - "{name} 発表 {ym}"
+  - "{name} 受注 {ym}"
+  - "{name} 提携 {ym}"
+  - "{name} 設備投資 {ym}"
+  - "{name} 補助金 採択 {ym}"
+  - "{name} 日刊工業新聞 {ym}"
+  - "{en} news {ym}"
+  - "{en} Japan {ym}"
+limits: {pages: 40, external_per_query: 4, per_cat: 10, social_per_query: 3}
+social_queries:
+  - "site:note.com {name} {y}"
+  - "site:x.com {name}"
+  - "site:linkedin.com {en}"

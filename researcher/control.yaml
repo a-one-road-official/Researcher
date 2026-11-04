@@ -33,3 +33,7 @@ topics:
   tenm_bench: {run: true, shards: 7, per_run: 2}  # 2026-11-04 ものづくり企業が年1,000万円以上を払う外部サービス14品目：価格帯・提供企業・導入期間・不満（大野式4軸の材料）
   value_process: {run: true, shards: 5, per_run: 2}  # 2026-11-04 キーエンスの高付加価値の作り方・大型ディールの型・ものづくり企業の工程ごとの置き換え余地（キャディは公開情報のみ）
   recruit_media_cos: {run: true, shards: 7, per_run: 2}  # 2026-11-03 採用媒体づくりの競合14社（売上・規模・創業年度・株主・料金・稼ぎ方）
+  frame_export: {run: true, shards: 8, per_run: 2}  # 2026-11-04 業界の3C＋PEST（日本→海外）33小区分。3時間おきに回り、1品目24時間ごとに取り直して足す。note・X・LinkedIn・Facebookも読む
+  frame_import: {run: true, shards: 8, per_run: 2}  # 2026-11-04 業界の3C＋PEST（海外→日本）33小区分。同上
+  industry_news: {run: true, shards: 6, per_run: 3}  # 2026-11-04 業界ニュース（毎日）33小区分
+  customer_3c: {run: true, shards: 3, per_run: 1}  # 2026-11-04 顧客1社ごとの3C＋PEST（一次情報）。inputs/customer_3c.csv に足せば回る

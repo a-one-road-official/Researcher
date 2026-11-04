@@ -11,6 +11,9 @@ on:
     paths:
       - "researcher/control.yaml"
   workflow_dispatch: {}
+  schedule:
+    # 3時間おき（JST 0,3,6,9,12,15,18,21時台）。取り直しの期限が来た品目・顧客だけを回す
+    - cron: "17 */3 * * *"
 
 permissions:
   contents: write
@@ -109,7 +112,8 @@ jobs:
         run: |
           shopt -s nullglob
           for d in dl/research-*/*/; do t=$(basename "$d"); mkdir -p "researcher/out/$t/companies"; cp "$d"companies/*.json "researcher/out/$t/companies/" 2>/dev/null || true; done
-          for t in researcher/out/*/; do python -m researcher.merge "$(basename "$t")"; done
+          for t in researcher/out/*/; do [ "$(basename "$t")" = brief ] || python -m researcher.merge "$(basename "$t")"; done
+          python -m researcher.brief
       - name: Commit
         run: |
           git config user.name "a1-researcher"

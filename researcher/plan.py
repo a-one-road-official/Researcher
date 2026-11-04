@@ -14,7 +14,8 @@ from researcher.targets import ROOT, done as _done, load_targets as load_compani
 
 def remaining(topic_name: str) -> int:
     done = ROOT / "out" / topic_name / "companies"
-    return sum(1 for c in load_companies(load_topic(topic_name)) if not _done(done, c))
+    t = load_topic(topic_name)
+    return sum(1 for c in load_companies(t) if not _done(done, c, t.get("refresh_hours")))
 
 
 def main() -> int:

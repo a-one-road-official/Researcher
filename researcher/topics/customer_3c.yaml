@@ -1,0 +1,62 @@
+# 本人の指示（2026-11-04）：顧客1社ごとに顧客起点の3C＋PEST。業界（frame_export／frame_import）の上に重ねる。
+# 1社につき、本人の会社情報に加えて、顧客の顧客（主要取引先・発注元）・顧客の競合・顧客が力を入れていること・課題を一次情報（有報・中計・決算資料・調達方針・採用・社長発言）から引用。
+# 新しい顧客は inputs/customer_3c.csv に1行足すだけで回り始める。24時間ごとに取り直して足していく（消さない）。
+title: 顧客1社ごとの3C＋PEST（一次情報）
+input: researcher/inputs/customer_3c.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+refresh_hours: 24
+profile_keys:
+  創業年度: [設立, 創業, 創立, 設立年, 創業年, Founded, Established, founded in, year founded]
+  株主: [株主, 主要株主, 大株主, 株主構成, 出資者, 親会社, Shareholders, Ownership, Owner, Parent company, Investors]
+  資本金: [資本金]
+  従業員数: [従業員, 社員数, 従業者, 人員]
+  設立: [設立, 創業, 創立]
+  代表者: [代表者, 代表取締役, 社長, 代表]
+  役員: [役員, 取締役, 監査役]
+  所在地: [所在地, 本社, 住所]
+  売上高: [売上高, 売上, 年商]
+  事業内容: [事業内容, 事業概要, 営業品目, 業務内容, 取扱品目, 事業]
+  拠点: [拠点, 事業所, 営業所, 支店, 工場, 海外拠点, 関連会社, グループ会社]
+  取引先: [主要取引先, 取引先, 仕入先, 販売先, 納入先]
+  取引銀行: [取引銀行]
+  許認可: [許可, 認証, 登録, ISO, JIS Q]
+
+evidence:
+  株主構成: [株主, 大株主, 主要株主, 株主構成, 出資比率, 持株比率, 親会社, 筆頭株主, shareholder, ownership, parent company]
+  創業年度: [設立, 創業, 創立, 年に設立, founded in, established in]
+  目標（中計・経営方針）: [中期経営計画, 中計, 経営方針, 経営計画, ビジョン, 目標, 2030, 長期, 重点施策, 成長戦略, strategy, mid-term plan]
+  課題・障壁: [対処すべき課題, 事業等のリスク, 課題, リスク, 懸念, 不足, 遅れ, 低下, 減少, 改善, 解決, challenge, risk]
+  これから関心を持つこと: [新規事業, 新事業, 研究開発, 開発中, 実証, 投資, 設備投資, 参入, 提携, 協業, 出資, オープンイノベーション, 募集, new business, R&D, partnership]
+  顧客の顧客（主要取引先・発注元）: [主要取引先, 取引先, 販売先, 納入先, 主要顧客, 売上高の, 依存, 顧客, customers include, major customers]
+  顧客の顧客が求めること（調達方針・要求）: [調達方針, 購買方針, サプライヤー, 取引先様へのお願い, 品質, 納期, グリーン調達, 脱炭素, BCP, 認証, supplier code, procurement policy]
+  顧客の競合: [競合, 競争, 同業, 他社, シェア, 価格競争, 海外勢, 中国, competitor, competition, market share]
+  自社の競合（すでに入っている売り手）: [導入事例, 採用事例, 協業, 提携, 共同開発, 委託, 外注, 調達先, 仕入先, パートナー, partner]
+  採用（足りない人・職種）: [採用実績, 採用人数, 新卒採用, 中途採用, 募集職種, 名採用, キャリア採用, 募集要項]
+  発言（社長・役員）: [社長, 代表取締役, CEO, インタビュー, 語る, メッセージ, 想い, 方針を示]
+  政治（法・補助・規制）: [補助金, 助成, 採択, 法改正, 規制, 輸出管理, 経済安全保障, 認定]
+  経済（売上・利益・投資額）: [売上高, 営業利益, 経常利益, 純利益, 億円, 前年比, 増収, 減収, 投資額]
+  技術（特許・開発）: [特許, 新技術, 開発, 試作, 3Dプリンタ, 積層造形, AI, 自動化, DX]
+subpage_keywords: [会社概要, 会社案内, 企業情報, 企業概要, 沿革, 歴史, 組織, 事業, 製品, 取扱, サービス, 採用, リクルート,
+  募集, 拠点, アクセス, IR, 決算, 有価証券, 社長, メッセージ, ごあいさつ, 挨拶, 保守, メンテナンス, サポート, 海外,
+  company, about, profile, corporate, outline, gaiyo, gaiyou, history, enkaku, organization, soshiki, recruit, career,
+  saiyo, business, product, service, support, ir, message, global, overseas, pdf]
+image_keywords: [組織, soshiki, organization, organisation, chart, 採用, recruit, saiyo, 沿革, history, 数字, number,
+  data, 概要, gaiyo, outline, 拠点, map, global]
+
+external_queries:
+  - "{name} 有価証券報告書 対処すべき課題"
+  - "{name} 中期経営計画"
+  - "{name} 決算説明資料"
+  - "{name} 主要取引先 販売先"
+  - "{name} 調達方針 サプライヤー"
+  - "{name} 競合 シェア"
+  - "{name} 社長 インタビュー"
+  - "{name} 日刊工業新聞"
+  - "{name} 新規事業 オープンイノベーション"
+  - "{name} 設備投資 {y}"
+  - "{name} 採用 募集職種 キャリア採用"
+  - "{name} 特許 出願"
+  - "{name} 補助金 採択"
+  - "{name} 株主 大株主"
+  - "{name} ニュース {ym}"
+limits: {pages: 40, subpages: 30, pdfs: 12, images: 12, external_per_query: 4, social_per_query: 4}
