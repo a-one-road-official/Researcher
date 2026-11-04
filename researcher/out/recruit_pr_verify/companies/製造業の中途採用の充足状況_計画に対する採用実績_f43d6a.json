@@ -1,0 +1,583 @@
+{
+ "name": "製造業の中途採用の充足状況（計画に対する採用実績）",
+ "en": "mid-career hiring fulfillment manufacturing Japan survey",
+ "aliases": [
+  "中途採用状況調査 製造業 充足",
+  "就職みらい研究所 中途採用 製造業",
+  "マイナビ 中途採用状況調査 製造"
+ ],
+ "context": "②採用難",
+ "kind": "market",
+ "researched_at": "2026-11-04T14:48:21.915504+00:00",
+ "evidence": {
+  "社数（規模別）": [
+   {
+    "quote": "企業数 498 344 130 62 50",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "区分 対象者 対象者企業数 取得者 取得者企業数 取得率 1ヶ月未満 1ヶ月以上 1ヶ月以上",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 回答企業数(ｎ) 対象者 取得者 取得率 1ヶ月未満 1ヶ月以上 1ヶ月以上",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20人未満 20人以上50人未満 50人以上100人未満 100人以上200人未満 200人以上",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "常用雇用者数 回答企業数(ｎ) 対象者 取得者 取得率 1ヶ月未満 1ヶ月以上 1ヶ月以上",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "100人以上200人未満 54 54 35 64.81% 19 16 45.71%",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "100人以上200人未満 61 128 127 99.22% 0 127 100.00%",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   }
+  ],
+  "採用難（公的統計）": [
+   {
+    "quote": "充足率（採用計画人数に対する採用人数）は、新卒（大卒）57.67％、既卒 77.37％となっており、前年と同",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昨年度（新卒 40.98％、既卒 68.64％）と比較して、充足率は回復しているが、新",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "【事業内容別事業規模】（平均雇用者数と男女比） ............................................................................ - 4 -",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "問 12．徳島県内の事業所の、過去 1 年間の育児休業の対象",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "の開催や学校とのマッチング支援など、地域ぐるみの採用活動を後押しする取り組みを継続・強化いただきたいです",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊賃上げに対する企業側への継続的な支援",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「徳島で働く」魅力の県外への情報発信(U ターン希望者との継続的接点の創出)",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業では難しい県外大学生への継続的な情報提供と出会いの機会づくりを支援していただきたい",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後もぜひ継続",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "施策はあるものの情報の更新頻度が不十分であり、網羅性も低く、県外在住者にとってはアクセスしにくい実態があ",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "自社や地元企",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "や地元企業の魅力、ブランドなどの認知・訴求」を課題と挙げている割合が高い",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自社や地元企業の魅力、ブランドなどの認知・訴求",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "移住者向けの住宅紹介",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業説明動画・PR コンテンツ作成支援 会社紹介動画や SNS、採用パンフレットなどのコンテンツ制作に対する補助",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊地元人材の確保が困難になってきており、企業単独での採用活動には限界があります",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊大学進学を機に徳島県を離れた学生が、卒業後に地元に戻ってくるためには、高校時点での地元企業への認知形",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、高校の部活動や文化祭・課外活動に地元企業がスポンサーとして",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "行政には、こうした連携の仕組みを制度化し、学校と企業のマッチング支援やガイドライン整備、事例紹介などを",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "徳島県をはじめとする地方においても、若者の地元就職率を高めるためには、行政による積極的な支",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対して就職祝金を支給するなど、若者が地元に根付いて働けるような施策の導入を望みます",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "帰省時インターンやマッチングイベント、「地元企業だより」の配信など、単体",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地元企業で活躍する社員インタビューや体験談を SNS・動画・パンフレット等で発信し「徳島でもやりがいあるキャリ",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "福利厚生、環境、魅力、職種など様々だと思いますが、結局は地元にある企業や魅力を知らない、理解されていない",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外に出てもやっぱり戻ってきたいと思える地元づくりを官民双方でつくることかと思います",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "本調査の対象者は従業員数が 10 人以上の徳島県内の企業（以下「対象者」という）とする",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別の男性の育休取得率は、概ね従業員規模と相関関係にあるが、取得期間に関して「20 人以上 50 人",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別の女性の育休取得率も、概ね従業員規模と相関関係にある",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取得期間としては従業員規模の小さい",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.works-i.com/surveys/item/250617_midcareer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sarfic.or.jp/wordpress/wp-content/uploads/2024/12/shinsotu42.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokai-gunma.or.jp/wp-content/uploads/2024/02/roudoujijojitaichosa2023-12.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nanto-consulting.co.jp/nantoeri/pdf/kekka02/201302.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.shimane.lg.jp/industry/employ/koyo_syugyo/shien/saiyoukeikaku.data/2026chosakekka.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.career-tasu.co.jp/research_archive/research_archive_category/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2026/01/pdf/064-073.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001474492.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001244081.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/tp120903-1_00001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/research/report/item/recruitment-decade-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC141BJ0U6A410C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuokai-gifu.or.jp/chuokai/report/kakusyu/r5roudou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.career-tasu.co.jp/wp/wp-content/uploads/2024/10/2025_kigyouchousa_kakuho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hrzine.jp/news/detail/3581",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/seizou_saiyousenryaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/leadstar/n/ne849b7ed0af6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unicell.co.jp/case/case_firstsystem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail282.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20251107_104128/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.career-tasu.co.jp/wp/wp-content/uploads/2025/10/202510_kigyochosa.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article114577/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dodadsj.com/content/2026market-prediction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://umai-jinji.jp/column/other-76/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業の中途採用の充足状況（計画に対する採用実績）",
+   "results": [
+    "https://www.works-i.com/surveys/item/250617_midcareer.pdf",
+    "https://www.sarfic.or.jp/wordpress/wp-content/uploads/2024/12/shinsotu42.pdf",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://chuokai-gunma.or.jp/wp-content/uploads/2024/02/roudoujijojitaichosa2023-12.pdf",
+    "https://nanto-consulting.co.jp/nantoeri/pdf/kekka02/201302.pdf",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.pref.shimane.lg.jp/industry/employ/koyo_syugyo/shien/saiyoukeikaku.data/2026chosakekka.pdf",
+    "https://www.nikkei.com/article/DGXZQOUC141BJ0U6A410C2000000/",
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://career-research.mynavi.jp/reserch/20250326_93514/"
+   ]
+  },
+  {
+   "query": "製造業の中途採用の充足状況（計画に対する採用実績） 調査 PDF",
+   "results": [
+    "https://www.works-i.com/surveys/item/250617_midcareer.pdf",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf",
+    "https://www.pref.shimane.lg.jp/industry/employ/koyo_syugyo/shien/saiyoukeikaku.data/2026chosakekka.pdf",
+    "https://www.career-tasu.co.jp/research_archive/research_archive_category/company/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://nanto-consulting.co.jp/nantoeri/pdf/kekka02/201302.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2026/01/pdf/064-073.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.works-i.com/surveys/item/240118_midcareer.pdf"
+   ]
+  },
+  {
+   "query": "製造業の中途採用の充足状況（計画に対する採用実績） 厚生労働省",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.mhlw.go.jp/content/001474492.pdf",
+    "https://www.mhlw.go.jp/content/11600000/001244081.pdf",
+    "https://www.works-i.com/surveys/item/250617_midcareer.pdf",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/tp120903-1_00001.html",
+    "https://marugotoinc.jp/blog/seizou_shotage/",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf"
+   ]
+  },
+  {
+   "query": "製造業の中途採用の充足状況（計画に対する採用実績） 規模別 万円",
+   "results": [
+    "https://www.works-i.com/research/report/item/recruitment-decade-report.pdf",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.nikkei.com/article/DGXZQOUC141BJ0U6A410C2000000/",
+    "https://www.chuokai-gifu.or.jp/chuokai/report/kakusyu/r5roudou.pdf",
+    "https://www.career-tasu.co.jp/wp/wp-content/uploads/2024/10/2025_kigyouchousa_kakuho.pdf",
+    "https://hrzine.jp/news/detail/3581",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://piic.co.jp/magazine/%E6%8E%A1%E7%94%A8%E4%BA%BA%E6%95%B0%E3%81%AE%E9%81%A9%E5%88%87%E3%81%AA%E6%B1%BA%E3%82%81%E6%96%B9%E3%81%A8%E3%81%AF%EF%BD%9C%E6%96%B0%E5%8D%92%E3%83%BB%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8%E3%81%AE/",
+    "https://www.works-i.com/surveys/adoption/mid-career.html"
+   ]
+  },
+  {
+   "query": "製造業の中途採用の充足状況（計画に対する採用実績） 製造業 事例",
+   "results": [
+    "https://www.mhlw.go.jp/content/001474492.pdf",
+    "https://marugotoinc.jp/blog/seizou_saiyousenryaku/",
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "https://note.com/leadstar/n/ne849b7ed0af6",
+    "https://unicell.co.jp/case/case_firstsystem",
+    "https://www.tanabeconsulting.co.jp/vision/column/detail282.html",
+    "https://www.branding-t.co.jp/case/recruitment/16588/",
+    "https://www.japancreate.net/column/column-1963/",
+    "https://www.funaisoken.co.jp/dl-contents/jy-manufacturing-hr_S047"
+   ]
+  },
+  {
+   "query": "製造業の中途採用の充足状況（計画に対する採用実績） 2025 OR 2026",
+   "results": [
+    "https://www.works-i.com/research/report/item/recruitment-decade-report.pdf",
+    "https://www.pref.shimane.lg.jp/industry/employ/koyo_syugyo/shien/saiyoukeikaku.data/2026chosakekka.pdf",
+    "https://career-research.mynavi.jp/reserch/20251107_104128/",
+    "https://www.career-tasu.co.jp/wp/wp-content/uploads/2025/10/202510_kigyochosa.pdf",
+    "https://adv.tokyo-np.co.jp/prtimes/article114577/",
+    "https://www.dodadsj.com/content/2026market-prediction/",
+    "https://www.nikkei.com/article/DGXZQOUC141BJ0U6A410C2000000/",
+    "https://hrzine.jp/news/detail/3581",
+    "https://umai-jinji.jp/column/other-76/"
+   ]
+  },
+  {
+   "query": "site:note.com 製造業の中途採用の充足状況（計画に対する採用実績）",
+   "results": [
+    "https://note.com/sei_tamai/n/n6af1fbbf469f",
+    "https://note.com/nikkei_r_bizdata/n/nd9d66fb920c3",
+    "https://note.com/sei_tamai/n/n269032332e6d",
+    "https://note.com/stepoutmarketing/n/n4b0491bbd507",
+    "https://note.com/shiny_bonobo3389/n/n693ac7de971c",
+    "https://note.com/jafcogroup8595/n/nd482e1d6f51b",
+    "https://note.com/sei_tamai/n/n313b6f1daa93",
+    "https://note.com/ishikura3/n/nda7566bbe481",
+    "https://note.com/sei_tamai/n/ndd0d50a904de",
+    "https://note.com/rikeimatch/n/n6552f91e1f94"
+   ]
+  },
+  {
+   "query": "site:x.com 製造業の中途採用の充足状況（計画に対する採用実績）",
+   "results": [
+    "https://x.com/mktrepreneur",
+    "https://x.com/MHLW_saitama",
+    "https://x.com/jun_0718_",
+    "https://x.com/clack_hirai",
+    "https://x.com/hituji_1234/status/2032684598724063322",
+    "https://x.com/i/trending/2049091256341369043",
+    "https://x.com/i/trending/2049322119503523850",
+    "https://x.com/Recruit_works/status/2020698349415080286",
+    "https://x.com/yutaro_ishii/status/1807368170065588362",
+    "https://x.com/info_vcareer/status/2079378291522469893"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 製造業の中途採用の充足状況（計画に対する採用実績）",
+   "results": [
+    "https://jp.linkedin.com/in/satoru-tatsuzawa-8ab446164",
+    "https://jp.linkedin.com/in/mitsuyoshi-sakata-b9518243",
+    "https://jp.linkedin.com/company/global-career-incubator",
+    "https://jp.linkedin.com/in/sotarokawachi",
+    "https://jp.linkedin.com/jobs/view/people-talent-acquisition-manager-at-%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E5%90%88%E5%90%8C%E4%BC%9A%E7%A4%BE-lush-japan-g-k-4480439403",
+    "https://jp.linkedin.com/in/daisuke-nakamura",
+    "https://jp.linkedin.com/in/tomohiro-yasuno-9b38b735",
+    "https://jp.linkedin.com/in/yasuyuki-fukaya",
+    "https://jp.linkedin.com/in/hayato-ueno/en",
+    "https://jp.linkedin.com/in/headhunter-tomoyuki-natsume/ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 製造業の中途採用の充足状況（計画に対する採用実績）",
+   "results": [
+    "https://www.facebook.com/nikkei/posts/中途採用が初の5割超え即戦力を重視-採用計画調査-新卒だけでは必要な人数を確保できないといった理由も目立ちましたaiによる業務代替で新卒採用数を減らす企業も20/1499796261491771/",
+    "https://www.facebook.com/worksinstitute/posts/民間企業の正規社員の中途採用の見通しと実績を調査しました2026年度の中途採用数が前年より増える197が減る59を上回り中途採用diは5年連続のプラスとなりまし/1479524270626425/",
+    "https://www.facebook.com/nikkeiresearchJPN/posts/2023年度採用状況調査大卒内定者４年ぶり増加採用計画に対する内定者の充足率は過去10年で最低24年度の新卒採用数も増える見通し-httpsnikkeicoma/549520833845770/",
+    "https://www.facebook.com/worksinstitute/posts/民間企業の正規社員の中途採用について実績と見通しを調査しました2024年度上半期は前年度比では改善したものの依然として人材確保は厳しい状況です2025年度の見通/1165118872066968/",
+    "https://www.facebook.com/viewpointware/posts/採用計画に対する内定者の充足率は9181で過去17年間で一番高かった17年春より52ポイント低い最低だったのは23年春の902で24年春に9183に上昇したが2/1099000755560648/",
+    "https://www.facebook.com/katsuya.koseki/posts/日本経済新聞社が28日まとめた採用計画調査で2026年度の採用計画に占める中途採用比率は503と調査開始以来初めて過半となった長期間の育成を前提とした新卒採用が/10236494629163613/",
+    "https://www.facebook.com/office.oshima/posts/中途採用実態調査2024年度実績正規社員pdfを表示-3472kbhttpswwwworks-icomsurveysitem250617_midcareerpd/1128093886025954/"
+   ]
+  },
+  {
+   "query": "製造業の中途採用の充足状況（計画に対する採用実績） note 社長",
+   "results": [
+    "https://note.com/sei_tamai/n/n6af1fbbf469f",
+    "https://note.com/sei_tamai/n/n18579b8c3173",
+    "https://hrnote.jp/contents/b-contents-saiyo-tyutonayami-180730/",
+    "https://note.com/sei_tamai/n/n269032332e6d",
+    "https://www.nikkei.com/article/DGKKZO84449090Z21C24A0TB3000/",
+    "https://biz.note.com/n/n465ec36f2361",
+    "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "https://www.works-i.com/surveys/item/250617_midcareer.pdf",
+    "https://note.com/leadstar/n/ne849b7ed0af6"
+   ]
+  },
+  {
+   "query": "製造業の中途採用の充足状況（計画に対する採用実績） X 投稿",
+   "results": [
+    "https://www.works-i.com/surveys/item/250617_midcareer.pdf",
+    "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "https://www.wantedly.com/hiringeek/recruit/twitter/",
+    "https://marugotoinc.jp/blog/seizou_saiyousenryaku/",
+    "https://azu-rite.co.jp/clumn/x-recruitment",
+    "https://mag.smarthr.jp/hr-management/employment/saiyoukeikaku/",
+    "https://www.nikkei.com/article/DGXZQOUC141BJ0U6A410C2000000/",
+    "https://www.mhlw.go.jp/content/11600000/001319267.pdf",
+    "https://www.branding-t.co.jp/case/recruitment/16588/",
+    "https://www.works-i.com/surveys/adoption/mid-career.html"
+   ]
+  },
+  {
+   "query": "mid-career hiring fulfillment manufacturing Japan survey site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/jobs-career-paths-supply-chain-logistics-rob-o-byrne",
+    "https://www.linkedin.com/posts/ronlhetrick_there-is-something-odd-that-happens-every-activity-7510782015269679104-1OXU",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/company/michael-page",
+    "https://www.linkedin.com/company/jabil",
+    "https://www.linkedin.com/pulse/ai-driven-agentification-work-impact-jobs-20242030-poweredbywiti-zbyfc",
+    "https://www.linkedin.com/pulse/older-adults-employment-global-trends-outlook-dr-kieth-deats-ilcje",
+    "https://www.linkedin.com/top-content/workplace-trends/job-market-trends-insights/trends-in-the-entry-level-job-market/",
+    "https://www.linkedin.com/jobs/view/automation-systems-sme-at-impact-fulfillment-services-4485954958",
+    "https://www.linkedin.com/jobs/view/survey-party-chiefs-and-survey-managers-central-us-locations-at-kiewit-4445408845"
+   ]
+  }
+ ],
+ "missing": {
+  "採用広報・採用サイトの単価": "記載なし（読んだ35頁・検索13回）",
+  "作る側の原価": "記載なし（読んだ35頁・検索13回）",
+  "営業と採用のどちらに困っているか": "記載なし（読んだ35頁・検索13回）"
+ }
+}

@@ -1,0 +1,2194 @@
+{
+ "name": "職業別の有効求人倍率（生産工程・機械技術者・製造技術者）",
+ "en": "job openings to applicants ratio by occupation manufacturing Japan",
+ "aliases": [
+  "一般職業紹介状況 職業別 有効求人倍率 生産工程",
+  "機械技術者 有効求人倍率",
+  "製造技術者 有効求人倍率 2026"
+ ],
+ "context": "②採用難",
+ "kind": "market",
+ "researched_at": "2026-11-04T14:47:57.856039+00:00",
+ "evidence": {
+  "採用難（公的統計）": [
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系職種の人手不足ランキングTOP8",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、仕事を探している人1人に対して、何件の求人があるかを示す数値です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【2024年11月】職種別の有効求人倍率と採用市場の動向を解説 | エン株式会社",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "【2024年11月】職種別の有効求人倍率と採用市場の動向を解説",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "最新の有効求人倍率（2024年10月29日発表）",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の有効求人倍率（2024年10月29日発表）",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（2025年度・ハローワーク・パートを含む常用）",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年2月の生産工程の有効求人倍率は1.94倍で、前月に比べて0.04ポイント増加",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年2月の有効求人倍率は1.21倍で、前月に比べて0.01ポイント増加",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年8月版】工場・製造業の有効求人倍率とは？見方や仕事探しへの活かし方を解説",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年10月版】工場・製造業の有効求人倍率とは？見方や仕事探しへの活かし方を解説",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年10月版】工場・製造業の有効求人倍率とは？都道府県別データから見る仕事探しのポイント",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-３ 有効求人倍率（季節調整値）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-４ 職業別の有効求人倍率の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（季節調整値）は上昇し 2018 年８",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年第３四半期にマイナス 1.8 と人手不足感に転じて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業割合が最も高く、次いで「人手不足」 （41.9%） 、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 222-３ ものづくり人材の確保などの人手不足解消策（企業規模別）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別有効求人倍率（常用除パート：2015年計）",
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "pass": 3
+   },
+   {
+    "quote": "（3）製造業の人手不足を解消する4つの対策",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "～有効求人倍率（季節調整値）は１．７３倍と、前月より０．０２ P 上昇～",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 有効求人倍率・求人・求職の状況 〔P.4 参照〕",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 有効求人倍率（季節調整値）は1.73 倍で、前月より0.02 ポイント上昇した",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "別の有効求人倍率（常用）は、P.6 を参照",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 有効求人倍率（季節調整値）は１．７３倍で、前月より０．０２P 上昇した",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 新規求人倍率・求人・求職の状況〔P.4 参照〕",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 新規求人倍率（季節調整値）は3.37 倍で、前月より0.08 ポイント低下した",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、求人倍率の「季節調整値」とは、１年を周期として繰り返す季節的変動要因を一定の方法により取り除いて計算した数値をいう",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "正社員有効求人倍率（原数値）は1.19 倍で、前年同月より 0.02 ポイント低下した",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊主な職業別常用有効求人求職状況〔P.9〕",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊主な職業別常用新規求人状況〔P.10〕",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率が「1」を超えている時は、求職者数を上回る求人数があることを意味し、売り手市場と言えます",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、有効求人倍率が「1」を下回っている時は、求職者数よりも求人数が少ないことを意味し、買い手市場となります",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、有効求人数が200件、有効求職者数が100人の場合、有効求人倍率は「2.0倍」になります",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の求人倍率は職種でどれだけ違う？【2026年10月公表】 | 現場の転職データ室",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の求人倍率は職種でどれだけ違う？【2026年10月公表】",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、厚生労働省の「一般職業紹介状況」から、2026年9月の製造の仕事の求人倍率を職種ごとに並べます",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率は「仕事を探している人1人に対して、求人がいくつあるか」です",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省「一般職業紹介状況（令和8年9月分）」参考統計表（職業別・常用・パートを含む）",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月の有効求人倍率は、ニュースでは",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月、製造の仕事全体の求人倍率（1.65倍）は、すべての仕事の平均（1.08倍）より高い",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（令和8年9月分）」参考統計表 表7-1（職業別 常用・パートを含む）",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率データブック｜都道府県・職業別の有効求人倍率（2025年度）",
+    "url": "https://kyujinbairitsu.shigotodb.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（2025年度）",
+    "url": "https://kyujinbairitsu.shigotodb.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "職業別にみた有効求人倍率、平均求人賃金（ちょっと気になるデータ：ビジネス・レーバー・トレンド 2026年7月号）｜労働政策研究・研修機構（JILPT）",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の職業計の有効求人倍率",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表1：職業別の有効求人倍率",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度について、職業（中分類）別で有効求人倍率が2倍以上となっている職業をみると、「建設躯体工事従事者」が7.72倍、「土木作業従事者」が6.21倍、「建築・土木・測量技術者」が5.58倍、「その他の技術者」が4.88倍、「建設従事者（建設躯体工事従事者を除く）」が4.37倍、「機械整備・修理従事者」が4.04倍などと高くなっている（",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表2：職業別の有効求人倍率（中分類、2025年度）",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：e-Statの表番号21（職業別労働市場関係指標）に表章されている職業（中分類）のうち有効求人倍率が2倍以上の職業を掲載した",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表3：職業別の平均求人賃金（パートタイムを除く常用労働者、月給）",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表4：職業別の平均求人賃金（常用的パートタイム、時給）",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の有効求人倍率とは？人手不足を改善する5つの方法 | ニッケンつなぐ",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の有効求人倍率とは？人手不足を改善する5つの方法",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化による労働人口の減少や3Kイメージ、若年層・女性の製造業離れなど有効求人倍率が低下している背景を現場視点で整理",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の有効求人倍率は1.52倍",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "：厚生労働省の一般職業紹介状況（2026年8月、常用、パートを含む）では、生産工程の職業の有効求人倍率は1.60倍、機械整備・修理は3.87倍です",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は、ハローワークで仕事を探している人1人に対して、求人が何件あるかを示す数字です",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "厚生労働省によると、令和6年度平均の有効求人倍率は全職業で1.25倍でした",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、今回取り上げた職種のなかでは求人倍率が低い傾向にあり、、全職業平均の1.25倍も下回ります",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、参考値は全職業平均の1.25倍を下回るため、設備投資や市場への注目度だけで人手不足とは断定しないことも大切です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円以上の求人を見てみる",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円以上",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "製造技術職や医療関係職などの専門的・技術的職業従事者の有効求人倍率は、平均値が1.97倍とやや高めになっています",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "一般事務職や営業事務職などの事務従事者の有効求人倍率は、平均値が0.42倍とやや低めになっています",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "商品販売職や営業職などの販売従事者の有効求人倍率は、平均値が2.20倍とやや高めです",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "介護サービス職や飲食サービス職など、サービス職業従事者の有効求人倍率も、平均値が2.68倍と高めになっています",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "製品製造や加工、検査などにかかわる生産工程従事者の有効求人倍率は、平均値が1.65倍となっています",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道運転や自動車運転、航空機運転などにかかわる輸送・機械運転従事者の有効求人倍率は、平均値が2.30倍とやや高めになっています",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "建設現場や土木作業、採掘などにかかわる建設・採掘従事者の有効求人倍率は、平均値が5.79倍と非常に高くなっています",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "運搬・清掃・包装等従事者の有効求人倍率は、平均値が0.69とやや低めになっています",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "職業計 1.10倍 ／ 全職種計 約546万円（出典は本文）",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "年齢別の年収換算は、機械技術者で25〜29歳 約505万円、55〜59歳 約842万円",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "年収換算は、きまって支給する現金給与額×12＋年間賞与で当サイトが計算した推計値です",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "工場ワークス 「エリア別2月度平均賃金」より引用",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別有効求人倍率の比較（全国平均：1.18倍）",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "り、 2019年は2.2％～2.5％で推移し、 年平均で2.4％",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間で 11.6％減少しており、全産業に占める製造",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と、５年間で約 1.6 倍となっており、産業全体にお",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は 4.5％であり、全産業平均（7.5％）を下回ってい",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業平均と製造業との差は、2000 年の３ポイントから",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "おいて製造業は 24.8％であり、 全産業平均 （25.1％）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "みると、2019 年は月平均で 167.4 時間となってお",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ると、所定内労働時間が月平均 150.7 時間で、前年",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "間が月平均 16.7 時間で、2019 年４月に施行された",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2005 2014（万円）",
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "pass": 3
+   },
+   {
+    "quote": "は1.59倍に上昇、全体の平均を大きく上回る数値になっている",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "６ 年度計の①②③④及び⑦⑧の数値は、平均値である",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．年度計の値は平均値である",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※２ 年度の数値は、平均数値である",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．新規求人数、有効求人数及び就職件数の年度計は、平均値である",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークにおける有効求人数を有効求職者数で割って算出される指標で、求職者1人あたりにどれだけの求人があるか",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、1人あたり2件の求人があるということを指します",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "この場合、1人あたり1件にも満たない求人しかないため、仕事を探す人が多く、求人が少ない状況です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "前年の同月と比較すると、全国平均の有効求人倍率は1.35倍で横ばいとなっており、大きな変化は見られませんでした",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "製造の仕事全体は1.65倍で、すべての仕事の平均（1.08倍）より高くなっています",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月、製造の仕事全体の求人倍率（1.65倍）は、すべての仕事の平均（1.08倍）より高い",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "機械設計の年収はいくら？機械技術者は約659万円、会社の規模・男女別と電気・輸送用機器の技術者との比較【2026年3月公表】",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "機械技術者の年収の目安は約659万円（平均42.3歳、残業代込みの月の給与421,400円＋年間賞与1,533,600円）",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "会社の規模で差が大きく、1,000人以上は約746万円、10〜99人は約525万円で、約220万円の差",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車工場の年収は？組立工は国の統計で約592万円、大企業約661万円・小さな会社約343万円【2026年3月公表】",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「令和7年賃金構造基本統計調査」から、自動車工場の組立工（自動車組立従事者）の年収の目安約592万円を、会社の規模別・年齢別に整理",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上と10〜99人の会社で約318万円の差があることを国の数字で説明します",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "工場を辞めたいときに見る数字｜残業月13.4時間・年間休日119.3日、転職で給料が上がった人は41.4%【統計で比べる】",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の残業は月13.4時間、年間休日は平均119.3日、離職率は9.8%、製造業に転職した人で給料が上がったのは41.4%",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "職業別にみた有効求人倍率、平均求人賃金（ちょっと気になるデータ：ビジネス・レーバー・トレンド 2026年7月号）｜労働政策研究・研修機構（JILPT）",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "をみると、パートタイムを除く常用労働者の平均求人賃金（月給）は、「管理的職業従事者」で32万1千円と最も高く、次いで「専門的・技術的職業従事者」で28万8千円、「建設・採掘従事者」で28万5千円などとなっている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年度と比較すると、すべての職業で平均求人賃金（月給）は増加しており、「農林漁業従事者」、「保安職業従事者」などで増加の幅が大きくなっている（",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表3：職業別の平均求人賃金（パートタイムを除く常用労働者、月給）",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "の平均求人賃金（時給）は、「専門的・技術的職業従事者」で1,523円と最も高く、次いで「建設・採掘従事者」で1,473円、「管理的職業従事者」で1,376円などとなっている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表4：職業別の平均求人賃金（常用的パートタイム、時給）",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "常用的パートタイムの平均求人賃金は2020年度分以降が掲載されている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の発表によると、2025年10月時点の全国平均の有効求人倍率は、1倍台で推移しています",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "：繁忙期と閑散期で労働時間を変える1年単位の変形労働時間制は、同法第32条の4により、労使協定で対象期間（1か月を超え1年以内）を定め、平均して1週間40時間を超えない範囲で使えます",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "を月額15万円〜（税別）の固定制で提供しています",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "スカウト配信から選考プロセスまで、月額15万円〜（税別）で伴走支援",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円以上の求人を見てみる",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系エンジニアの年収相場｜7職種の年代別年収カーブと経験年数別の給与を比較",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円以上",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "職業計 1.10倍 ／ 全職種計 約546万円（出典は本文）",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "年齢別の年収換算は、機械技術者で25〜29歳 約505万円、55〜59歳 約842万円",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "く、2018 年においては、全産業 794.3 万円、非製",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造業 740.9 万円に対し、製造業は 1,094 万円となっ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2005 2014（万円）",
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "pass": 3
+   },
+   {
+    "quote": "機械設計の年収はいくら？機械技術者は約659万円、会社の規模・男女別と電気・輸送用機器の技術者との比較【2026年3月公表】",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "機械技術者の年収の目安は約659万円（平均42.3歳、残業代込みの月の給与421,400円＋年間賞与1,533,600円）",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "会社の規模で差が大きく、1,000人以上は約746万円、10〜99人は約525万円で、約220万円の差",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車工場の年収は？組立工は国の統計で約592万円、大企業約661万円・小さな会社約343万円【2026年3月公表】",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「令和7年賃金構造基本統計調査」から、自動車工場の組立工（自動車組立従事者）の年収の目安約592万円を、会社の規模別・年齢別に整理",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上と10〜99人の会社で約318万円の差があることを国の数字で説明します",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "機械保全の年収は？国の統計の機械の整備・修理の仕事は約571万円、55〜59歳で約695万円【2026年3月公表】",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「令和7年賃金構造基本統計調査」から、工場の機械保全が入る「機械器具の整備・修理の仕事」の年収の目安（約571万円）を、ほかの工場の仕事との比較・年齢別（55〜59歳 約695万円）・会社の規模別・男女別に整理しました",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "大工の単価はいくら？都道府県別1位は宮城34,800円、国の統計の年収は約485万円【2026年3月時点】",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "工場の検査の仕事の年収は？機械検査は約523万円・製品検査は約421万〜460万円、年齢別・規模別【2026年3月公表】",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "とび工（鳶職）の単価はいくら？都道府県別1位は沖縄35,100円、国の統計の年収は約415万円【2026年3月時点】",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "を月額15万円〜（税別）の固定制で提供しています",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "スカウト配信から選考プロセスまで、月額15万円〜（税別）で伴走支援",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "機械・電気系職種の求人需要は、製造業における設備更新や技術変化と深く関係しています",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "設計対象が幅広いうえ、製品開発や設備更新には専門的な設計知識が欠かせません",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "注意として、この数値は物流設備の管理・点検・保守を中心とした職業分類であり、工場設備全般の保全職と完全には一致しません",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、若手人材を確保するとともに、教育体制や働きやすい職場環境を整え、継続的に技術を磨ける仕組みづくりが重要です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、設備の高度化に対応するには、機械だけでなく、電気や制御に関する知識も継続して学ぶ必要があります",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "工場・製造業では、組立・加工・検査・機械オペレーターなどの職種で継続的な採用が行われています",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "接触、密集を避けつつ、事業を継続するためには、デ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "訓練がいったん終了した後でも、新しい技術や知識を習得するために訓練を継続しな",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なく、刻々と変化する環境にも継続的に対応することが求められるのである",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "やかな地域ニーズに応え、継続的な変化に即した技術と知識を習得すること",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "土台だけでなく新しい技術や環境に対応するために努力し続けること、地域のニーズを継続",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設備の更新ができない",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産設備の保守・管理技術",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ルタイムにやり取りしながら保守・メンテナンス作業の適切な指示や問題解決が出来るようになる",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の仕組み改善を通じて、継続的な精度向上を図っている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この取組で、継続的に技能伝",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で外注し運用していたが、トップダウン方式で上手く浸透しなかったと大野社長は語る",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このように、特定の技能や知識を必要とする職種ほど深刻な人手不足に直面しており、事業継続に大きな影響を及ぼしている",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入・運用コストを抑えつつ、利便性や業務効率を損なわない人事労務管理システムの導入を実現します",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版の中小企業白書やものづくり白書でも、経営者の高齢化と承継問題が事業継続に直結するリスクとして指摘されている",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように、いずれの施策も一過性のものではなく、継続的な改善と実践が求められる",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "毎週火・金更新であなたの希望の職種や勤務地、業種などの条件から検索することができます",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "テクニカルサポート・監視・運用・保守",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "銀行員・金融系専門職（営業・投資銀行・運用・分析）",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ転職では、サイトの継続的な改善や、ユーザーのみなさまに最適化された広告を配信すること等を目的に、Cookie等の「インフォマティブデータ」を利用しています",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "継続的な情報発信は、若年層からの応募促進にも効果的です",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣先は、同じ組織単位の同じ業務で1年以上継続して同じ特定有期雇用派遣労働者を受け入れた場合に、その期間が過ぎた後もその業務のために労働者を雇い入れようとするときは、派遣元から直接雇用の依頼があった本人（継続して働くことを希望する人）を、遅滞なく雇い入れるよう努めなければならない",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣先は、同じ事業所などで1年以上継続して同じ派遣労働者を受け入れている場合に、その事業所などで通常の労働者を募集するときは、募集の内容をその派遣労働者に周知しなければならない",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "技能継承を進める取組では、再雇用や勤務延長などにより高年齢の従業員に継続勤務してもらうものが最も多く、54.8%でした",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "職種ごとの求人票の作成と更新（ハローワーク、求人サイト）",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体やIndeedの運用、掲載内容の見直し",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "職種ごとの求人票の作成と更新、ハローワークや求人サイトの運用、応募者への返信と工場見学・面接の日程調整、一次面接の実施や同席、人材紹介会社への求人の説明などは任せられます",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "を月額15万円〜（税別）の固定制で提供しています",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "スカウト運用だけ、応募者対応と日程調整だけといった部分的な依頼から、求人作成・応募対応・面接日程調整までのまとめての依頼まで、任せる範囲を選べます",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行(RPO)の費用相場｜月額・成果報酬の目安と業務別単価、人材紹介との年間比較",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "Indeed運用代行の費用と、自社運用に切り替える判断基準",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "採用の内製化｜採用代行から自社運用へ移る時期と引き継ぎ方",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "SNS採用とは｜中小企業が始める前に決めることと運用の手間",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "採用代行(RPO)｜ホキラオンの月額固定制サービス",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "スカウト配信から選考プロセスまで、月額15万円〜（税別）で伴走支援",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "一般職業紹介状況(令和7年3月分及び令和6年度分)について",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況（職業安定業務統計） 一般職業紹介状況 ～令和8年5月 長期時系列表 21 職業別労働市場関係指標（実数）（平成21年改定）（令和4年4月～） 月次 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "未経験から目指せる！技術職の仕事って？種類・内容・向いている人を紹介",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアの転職活動をサポートするNext Engineerの会員サービスとは？実際の相談内容もご紹介！",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは厚生労働省の資料をもとに、最新の有効求人倍率を紹介します",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年11月時点の最新データは、10月29日に発表された「一般職業紹介状況（令和6年9月分）」です",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（令和6年9月分）について」",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "求人情報や面接で求職者を惹きつけ、志望度を高める方法を紹介していますので、ぜひご覧ください",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは厚生労働省の資料をもとに、職種別の有効求人倍率を紹介します",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで紹介した数値を見るとわかる通り、有効求人倍率は1倍を上回る職種が多くなっています",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の資料をもとに、職種別の有効求人倍率などを紹介しました",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "採用活動にお悩みの方は、以下のお問い合わせ窓口より、ぜひお気軽にご相談ください",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "エン転職の掲載料金、サービス詳細、特徴、評判、採用事例、媒体資料、お問い合わせ方法などをご案内しています",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "技術職は民間の紹介会社・求人サイト経由の採用が多く、ハローワークの倍率だけでは全体は見えません",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況（長期時系列表 第21表）・雇用関係指標（年度）",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "民間の求人サイト・紹介会社の求人は含まない",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省 一般職業紹介状況【季節調整値】（含パート） の数値を使用",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省 職業別一般職業紹介状況【実数】（含パート） の数値を使用",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 紹介予定派遣",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せフォームにてお問い合わせください",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（職業安定業務統計）」職業別労働市場関係指標（パート除く常用）より作成",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで紹介したように、有効求人倍率は仕事探しの参考になる指標のひとつです",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "お気軽にお問い合わせください",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "派遣・紹介予定派遣のお仕事探しは",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "許可番号（人材派遣等）：有料職業紹介事業 23-ユ-301086",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "育成の取組を紹介する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コミュニティカレッジのあるランシング市には職業訓練のあっせんと職業紹介を行う組織、ミシガ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業訓練と職業紹介を実施するにあたり、地元企業のニーズを頻繁に、そして徹底",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の取組などについて紹介する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、顧客から進捗に関する問い合わせを受けた際には、工",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、押谷社長はこうした問題を解決しようと、受発注と連携して現場に情報を流す「進捗管理シス",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "押谷社長は「生産性が上がって残業が減ったこ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "講師は山内社長自ら行うほか、 入社２～３年目の若手社員に行わせることで、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "」と山内社長は話す",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同社におけるデジタル化の取組は、山内社長が約 35 年前から独学で IT 技術を勉強しながら導入して",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "タに行わせ、これからはクリエイティブな人材を育成していけるように」と山内社長は話す",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全社の人材育成の方針は、社長をはじめとする経営層が出席する",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "山田忠明常務執行役員人事部長は「技術を使いこなすだけでなく、技術を用いて新しいも",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この委員会はシステム開発関連会社での業務経験のある上田社長をリーダーとし、デジタル機",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上田社長は、中小企業の IoT の導入を成功させるためには、製造企業と IoT システム開発会社の双方",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「一般職業紹介状況（職業安定業務統計）」より、求人数30万人の職業について作成",
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "[厚生労働省]一般職業紹介状況（令和7年3月分及び令和6年度分）について",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場で働き方改革を実現するための3つのポイントを紹介！（2025/10/22）",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業はなぜ残業が多いのか？ 労働時間が多くなる理由と対策を紹介（2025/10/8）",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場のDXが重要な理由とは？ メリットとおすすめツールも紹介（2025/9/24）",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場の勤怠管理における課題とは？ システム導入のメリットや選定方法も紹介（2025/8/6）",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせへ進む",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京の一般職業紹介状況 を公表します",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京労働局では、令和７年11 月分の「一般職業紹介状況」を取りまとめましたので公表します",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「一般職業紹介状況」は、ハローワークにおける求人、求職、就職などの状況をとりまとめた",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊就職件数・・・・・・・・・ 都内のハローワークにおいて求職申込を受け付けた求職者に対して、全国のハロ―ワークで受理した求人を紹介、就職が",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊充足数・・・・・・・・・・・ 都内のハローワークにおいて受け付けた求人に対して、全国のハローワークで紹介、就職が確認された件数と、オンライン",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 正社員の職業紹介状況〔P.12 参照〕",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊正社員の職業紹介状況〔P.12〕",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介取扱状況",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "正社員の職業紹介状況",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの転職を成功に導くためのノウハウを紹介！",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "最新の有効求人倍率を紹介すると共に、その計算方法や読み解き方について解説します",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気系職種の人手不足ランキングTOP8",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、参考値は全職業平均の1.25倍を下回るため、設備投資や市場への注目度だけで人手不足とは断定しないことも大切です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "特に高い職種は建築・土木・測量技術者の6.67倍で、人手不足感が強いと予想されます",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "全体的に2倍を上回る数値となっており、人材確保の難易度が上がっている状況と予想されます",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "全体的に3倍を超える倍率となっており、人手不足感が強い職種であることがうかがえます",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "エン転職はオリコンヒットチャートでお馴染み、「オリコン顧客満足度調査」の転職サイト部門において、8年連続で総合満足度第1位を獲得しました（2018年～2025年）",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "現在も求職者1人に対して1件以上の求人があり、企業側の人材不足が続いていることが分かります",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "年第３四半期にマイナス 1.8 と人手不足感に転じて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "にはマイナス 21.4 となっており、人材不足感が続い",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）ものづくり現場が直面している経営課題",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業割合が最も高く、次いで「人手不足」 （41.9%） 、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 221-１ ものづくり企業の経営課題（企業規模別）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（57.6%） 、 「営業力の強化」 （51.5%） 、 「従来の製",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）人材確保の状況とその対応策",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "における人材不足の実態とその原因を整理した上で、現場が取るべき4つの具体的な解決策について詳しく解説する",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）製造業における人材確保の実態",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）製造業で人材確保が難しくなる5つの理由",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、「保安職業従事者」（5.72倍）や「建設・採掘従事者」（4.81倍）は、深刻な人手不足のため未経験者でも積極的に採用されるチャンスが広がっています",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "「2024年問題」による労働時間規制への対応のために即戦力を求める一方、慢性的な人手不足を解消するために、未経験者にも門戸を広げています",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "大工の単価はいくら？都道府県別1位は宮城34,800円、国の統計の年収は約485万円【2026年3月時点】",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "とび工（鳶職）の単価はいくら？都道府県別1位は沖縄35,100円、国の統計の年収は約415万円【2026年3月時点】",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の有効求人倍率とは？人手不足を改善する5つの方法 | ニッケンつなぐ",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の有効求人倍率とは？人手不足を改善する5つの方法",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "「2025年版ものづくり白書 第2章 就業動向と人材確保・育成」（経済産業省）",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "工場の自動化やDXが進むと、新しい設備の設計・導入だけでなく、既存設備との連携や安定稼働を支える技術者も必要です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "工場設備全般の保全職と完全に一致する数値ではありません",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "注意として、この数値は物流設備の管理・点検・保守を中心とした職業分類であり、工場設備全般の保全職と完全には一致しません",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車の電動化や工場の自動化、製品のIoT化が進むなか、機械とソフトウェアをつなぐ技術者の役割が広がっています",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全エンジニアは、工場設備の安定稼働を支える役割があり、将来性を見込みやすい職種です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【2024年11月】職種別の有効求人倍率と採用市場の動向を解説 | エン株式会社",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "エン株式会社",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "エン株式会社が運営する中途採用サービス「エン転職」の企業・法人様向けサイトです",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "※「エン転職 採用ノウハウ」はエン株式会社が運営している情報サイトです",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © en Inc. All Rights Reserved.｜エン株式会社（旧：エン・ジャパン株式会社）",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   },
+   {
+    "quote": "工場・企業の方へ",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術なら、担当する工場・ラインの数と、海外工場の立ち上げ（出張）の有無",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "このサイトでは、工場・製造の仕事をクーラで探すときの使い方と、職種ごとの基礎データをまとめています",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "工場・企業の採用担当の方へ",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "工場・メーカーの採用担当の方へ",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ株式会社",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工場ワークス 「エリア別2月度平均賃金」より引用",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その他製造・工場系 ¥1,254",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 期間従業員",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年8月版】工場・製造業の有効求人倍率とは？見方や仕事探しへの活かし方を解説",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年10月版】工場・製造業の有効求人倍率とは？見方や仕事探しへの活かし方を解説",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年10月版】工場・製造業の有効求人倍率とは？都道府県別データから見る仕事探しのポイント",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "工場・製造業の求人を探していると、",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "「工場派遣はどの地域がおすすめ？」",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "特に工場・製造業では人手不足が続いており、地域や職種によって求人状況に大きな差があります",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、有効求人倍率の意味や見方、都道府県別の最新データ、工場求人を探す際の活用方法までわかりやすく解説します",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "工場・製造業に関連する有効求人倍率",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "東海エリアの有効求人倍率と工場求人の特徴",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "工場・製造業に関連する職種の求人需要",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "人材派遣会社の視点（自動車工場系）",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "東海エリアは自動車・輸送機器・機械製造など日本を代表する製造業が集積しており、工場・製造業の求人が豊富な地域です",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "生産工程従事者の有効求人倍率は1倍を超えており、工場・製造業では求人ニーズがあることが分かります",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県・岐阜県・三重県・静岡県には、自動車メーカーや自動車部品メーカーをはじめ、機械・電子部品・食品などさまざまな工場が立地しており、多くの工場求人・製造業求人が募集されています",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "東海エリアの工場求人の特徴",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "子部品・デバイス・電子回路製造業〕 〔電気機械器具製造業〕 〔情報通信機械器具製造業〕 〔輸送用機械器具製造業〕の従業員数 30 人以",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、 従業員数 （正",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上・利益の向上や組織力の向上などに結びつく、生産工程の効率化や製品の高付加価値など",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業別の従業員数における過不足状況では、幅広い",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 211-５ 産業別従業員数過不足 DI（今期の水準）の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "備考：従業員数過不足 DI は、今期の従業員数が「過剰」と答えた企業の割合（％）から、 「不足」と答えた企業の割合（％）を引いたもの",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ランシング・コミュニティカレッジには学生だけでなく企業の従業員も所属している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（42.6%）とつづき、売上向上に寄与する取組につ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "別すると、売上向上に繋がる取組を重視する回答の",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海外に工場の積極的な展開を行っている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "効率化施策 高付加価値施策 売上向上施策",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工場長クラス・製造部門の責任者",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大企業では、 「工場長やデジタル技術を利",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "では、 「工場長やデジタル技術を利用・活用した部門",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工場長やデジタル技術を利用・活用した部門のトップ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、設備の状態監視や遠隔操作といった仕組みにより、従業員の負担を軽減できる点もメリットである",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場の勤怠管理における課題とは？ システム導入のメリットや選定方法も紹介（2025/8/6）",
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、工場の仕事といっても、機械を組み立てる人、機械を直す人、検査をする人と、中身はさまざまです",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "工場の正社員とそれ以外、給料はいくら違う？",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "工場の給料は残業代込みでいくら？",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "工場の離職率はどれくらい？",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "工場の労災はどんな事故が多い？",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "工場に未経験で転職できる？",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ工場で働いていても、組立の仕事と整備の仕事では、求人の状況がまったく違います",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車工場の年収は？組立工は国の統計で約592万円、大企業約661万円・小さな会社約343万円【2026年3月公表】",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「令和7年賃金構造基本統計調査」から、自動車工場の組立工（自動車組立従事者）の年収の目安約592万円を、会社の規模別・年齢別に整理",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "pass": 3
+   }
+  ],
+  "作る側の原価": [
+   {
+    "quote": "構成メンバーは、現役の人事労務、1000社以上の企業を支援してきた採用コンサルタント、10年以上の経験を持つ求人専門のコピーライターなど",
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "pass": 3
+   }
+  ],
+  "社数（規模別）": [
+   {
+    "quote": "企業規模 1,000人以上 300～999人 100～299人 30～99人 5～29人 新規学卒者のうち",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 215-１ 製造業に関する事業所数",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・資料：2011 年、2015 年は総務省・経済産業省「経済センサス‐活動調査」 、他は経済産業省「工業統計調査」",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "215-１でみたように事業所数が半減していること",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "有効求人倍率": [
+   {
+    "value": "1.94",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "quote": "2022年2月の生産工程の有効求人倍率は1.94倍で、前月に比べて0.04ポイント増加"
+   },
+   {
+    "value": "1.21",
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "quote": "2022年2月の有効求人倍率は1.21倍で、前月に比べて0.01ポイント増加"
+   },
+   {
+    "value": "1.73",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "quote": "○ 有効求人倍率（季節調整値）は1.73 倍で、前月より0.02 ポイント上昇した"
+   },
+   {
+    "value": "1.19",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "quote": "正社員有効求人倍率（原数値）は1.19 倍で、前年同月より 0.02 ポイント低下した"
+   },
+   {
+    "value": "2.0",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "quote": "例えば、有効求人数が200件、有効求職者数が100人の場合、有効求人倍率は「2.0倍」になります"
+   },
+   {
+    "value": "1.52",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "quote": "製造業の有効求人倍率は1.52倍"
+   },
+   {
+    "value": "1.60",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "quote": "：厚生労働省の一般職業紹介状況（2026年8月、常用、パートを含む）では、生産工程の職業の有効求人倍率は1.60倍、機械整備・修理は3.87倍です"
+   }
+  ],
+  "万円": [
+   {
+    "value": "30",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "quote": "では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です"
+   },
+   {
+    "value": "546",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "quote": "職業計 1.10倍 ／ 全職種計 約546万円（出典は本文）"
+   },
+   {
+    "value": "505",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "quote": "年齢別の年収換算は、機械技術者で25〜29歳 約505万円、55〜59歳 約842万円"
+   },
+   {
+    "value": "842",
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "quote": "年齢別の年収換算は、機械技術者で25〜29歳 約505万円、55〜59歳 約842万円"
+   },
+   {
+    "value": "794.3",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "quote": "く、2018 年においては、全産業 794.3 万円、非製"
+   },
+   {
+    "value": "740.9",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "quote": "造業 740.9 万円に対し、製造業は 1,094 万円となっ"
+   },
+   {
+    "value": "1,094",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "quote": "造業 740.9 万円に対し、製造業は 1,094 万円となっ"
+   },
+   {
+    "value": "659",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "機械設計の年収はいくら？機械技術者は約659万円、会社の規模・男女別と電気・輸送用機器の技術者との比較【2026年3月公表】"
+   },
+   {
+    "value": "746",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "会社の規模で差が大きく、1,000人以上は約746万円、10〜99人は約525万円で、約220万円の差"
+   },
+   {
+    "value": "525",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "会社の規模で差が大きく、1,000人以上は約746万円、10〜99人は約525万円で、約220万円の差"
+   },
+   {
+    "value": "220",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "会社の規模で差が大きく、1,000人以上は約746万円、10〜99人は約525万円で、約220万円の差"
+   },
+   {
+    "value": "592",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "自動車工場の年収は？組立工は国の統計で約592万円、大企業約661万円・小さな会社約343万円【2026年3月公表】"
+   },
+   {
+    "value": "661",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "自動車工場の年収は？組立工は国の統計で約592万円、大企業約661万円・小さな会社約343万円【2026年3月公表】"
+   },
+   {
+    "value": "343",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "自動車工場の年収は？組立工は国の統計で約592万円、大企業約661万円・小さな会社約343万円【2026年3月公表】"
+   },
+   {
+    "value": "318",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "1,000人以上と10〜99人の会社で約318万円の差があることを国の数字で説明します"
+   },
+   {
+    "value": "571",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "機械保全の年収は？国の統計の機械の整備・修理の仕事は約571万円、55〜59歳で約695万円【2026年3月公表】"
+   },
+   {
+    "value": "695",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "機械保全の年収は？国の統計の機械の整備・修理の仕事は約571万円、55〜59歳で約695万円【2026年3月公表】"
+   },
+   {
+    "value": "485",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "大工の単価はいくら？都道府県別1位は宮城34,800円、国の統計の年収は約485万円【2026年3月時点】"
+   },
+   {
+    "value": "523",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "工場の検査の仕事の年収は？機械検査は約523万円・製品検査は約421万〜460万円、年齢別・規模別【2026年3月公表】"
+   },
+   {
+    "value": "460",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "工場の検査の仕事の年収は？機械検査は約523万円・製品検査は約421万〜460万円、年齢別・規模別【2026年3月公表】"
+   },
+   {
+    "value": "415",
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "quote": "とび工（鳶職）の単価はいくら？都道府県別1位は沖縄35,100円、国の統計の年収は約415万円【2026年3月時点】"
+   },
+   {
+    "value": "15",
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "quote": "を月額15万円〜（税別）の固定制で提供しています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cura-factory.com/jobs/engineer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hrr.mlit.go.jp/kensei/sangyo/kensetsu/ninaite/ccus/1811shiryou3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001835705.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002284671.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/114-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002834125.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyujinbairitsu.shigotodb.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002196515.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002470629.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/miyazaki-roudoukyoku/content/contents/002633678.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202601.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?layout=dataset&query=%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "職業別の有効求人倍率（生産工程・機械技術者・製造技術者）",
+   "results": [
+    "https://nextengineer.com/blog/know-how001/",
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "https://cura-factory.com/jobs/engineer/",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "https://hyobanlab.com/data/kyujin-bairitsu/"
+   ]
+  },
+  {
+   "query": "職業別の有効求人倍率（生産工程・機械技術者・製造技術者） 調査 PDF",
+   "results": [
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://www.hrr.mlit.go.jp/kensei/sangyo/kensetsu/ninaite/ccus/1811shiryou3.pdf",
+    "https://www.dir.co.jp/report/research/economics/japan/20250709_025196.pdf",
+    "https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002196515.pdf"
+   ]
+  },
+  {
+   "query": "職業別の有効求人倍率（生産工程・機械技術者・製造技術者） 厚生労働省",
+   "results": [
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001835705.pdf",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "https://nextengineer.com/blog/know-how001/",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002284671.pdf",
+    "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "https://www.mhlw.go.jp/toukei/list/114-1.html"
+   ]
+  },
+  {
+   "query": "職業別の有効求人倍率（生産工程・機械技術者・製造技術者） 規模別 万円",
+   "results": [
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002834125.pdf",
+    "https://nextengineer.com/blog/know-how001/",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://kyujinbairitsu.shigotodb.jp/"
+   ]
+  },
+  {
+   "query": "職業別の有効求人倍率（生産工程・機械技術者・製造技術者） 製造業 事例",
+   "results": [
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://jsite.mhlw.go.jp/miyazaki-roudoukyoku/content/contents/002633678.pdf",
+    "https://nextengineer.com/blog/know-how001/",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202601.pdf"
+   ]
+  },
+  {
+   "query": "職業別の有効求人倍率（生産工程・機械技術者・製造技術者） 2025 OR 2026",
+   "results": [
+    "https://nextengineer.com/blog/know-how001/",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://genba-data.com/manufacturing-job-ratio-by-occupation/",
+    "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 職業別の有効求人倍率（生産工程・機械技術者・製造技術者）",
+   "results": [
+    "https://note.com/jazzy_mole4471/n/n64cfb0ee529a",
+    "https://note.com/hiranokaoru/n/n97e8b42c3c8a",
+    "https://note.com/ghrs/n/n7e4d560e0dc6",
+    "https://note.com/kyuzin_yomikaki/n/nf470156a925d",
+    "https://note.com/noble_badger3393/n/n2373499fdc30",
+    "https://note.com/leadstar/n/na54b0254fc05",
+    "https://note.com/kotatsu_ai_jadc/n/nfe449c1d5161",
+    "https://note.com/career_bible/n/n245b12fc203b",
+    "https://note.com/katuzimn/n/n077f1695cf55",
+    "https://note.com/career_bible/n/ne5bf7d4c18cb"
+   ]
+  },
+  {
+   "query": "site:x.com 職業別の有効求人倍率（生産工程・機械技術者・製造技術者）",
+   "results": [
+    "https://x.com/global_astra_1/status/2112536439363911772",
+    "https://x.com/KagawaTomo/status/2110692193677787567",
+    "https://x.com/shinwa_construc",
+    "https://x.com/mirai_ai_growth",
+    "https://x.com/NextEngineer_NE/status/2092773642883227985",
+    "https://x.com/amc_corporation/status/2106670329888399591",
+    "https://x.com/takoidet/status/2077961314971025434",
+    "https://x.com/i/trending/2079500433479933988",
+    "https://x.com/otaru_work/status/2053663634291560880",
+    "https://x.com/i/trending/2079145432018559004"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 職業別の有効求人倍率（生産工程・機械技術者・製造技術者）",
+   "results": [
+    "https://jp.linkedin.com/in/%E7%A0%94%E4%BA%8C-%E8%97%A4%E5%B2%A1-944924359",
+    "https://jp.linkedin.com/in/%E8%A3%95%E4%BB%8B-%E5%80%AD-489164271",
+    "https://www.linkedin.com/pulse/%E8%A8%98%E4%BA%8B%E6%8A%9C%E7%B2%8B433-toru-hara-yc7oc",
+    "https://www.linkedin.com/pulse/あらためて求人倍率について26卒-サトル-カナイワ-18yvc",
+    "https://jp.linkedin.com/jobs/工程開発補佐-jobs",
+    "https://jp.linkedin.com/posts/pasona-business_2026年4月最新版採用市場はどう動いた転職動向と求人倍率を業界職種別に解説-activity-7452555538288263168-9KXU",
+    "https://jp.linkedin.com/posts/宗大-宅間-41b61838a_開拓を増やしたいのに打ち手が採用しかない-②人材サービス製造業特化プライム-activity-7498663380132560897-6NDO",
+    "https://jp.linkedin.com/posts/y-ishii_リクルートワークス研究所-2027卒大卒求人倍率調査-27卒求人倍率は162-activity-7453702561473224704-As1Z",
+    "https://jp.linkedin.com/posts/道也-今中-377550421_カーゴニュース厚労省発表データによると2026年6月のトラックドライバーを含-activity-7490918926797721600-fp1I",
+    "https://jp.linkedin.com/jobs/機械設計エンジニア-jobs"
+   ]
+  },
+  {
+   "query": "site:facebook.com 職業別の有効求人倍率（生産工程・機械技術者・製造技術者）",
+   "results": [
+    "https://www.facebook.com/chibakssolutions/",
+    "https://www.facebook.com/takaichisanae/?locale=nb_NO",
+    "https://www.facebook.com/chibakssolutions/posts/%E7%89%B9%E3%81%AB%E9%A3%B2%E9%A3%9F%E5%BA%97%E3%81%AF%E5%8B%95%E7%94%BB%E3%81%A8%E3%81%AE%E7%9B%B8%E6%80%A7%E3%81%8C%E3%81%A8%E3%81%A6%E3%82%82%E3%81%84%E3%81%84%E6%A5%AD%E7%A8%AE%E3%81%A7%E3%81%99%E9%A3%B2%E9%A3%9F%E5%BA%97%E3%81%AE%E6%8E%A1%E7%94%A8%E3%81%A7%E3%81%AF%E6%96%87%E7%AB%A0%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E4%BC%9D%E3%81%88%E3%81%8D%E3%82%8C%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%8C%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%9F%E3%81%A8%E3%81%88%E3%81%B0%E9%96%8B%E5%BA%97%E5%89%8D%E5%8E%A8%E6%88%BF%E3%81%A7%E4%BB%95%E8%BE%BC%E3%81%BF%E3%82%92%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%AE%E6%89%8B%E5%85%83%E4%BB%8A%E6%97%A5%E3%82%82%E3%82%88/1381029977355190/",
+    "https://www.facebook.com/groups/aiacademy.jp/",
+    "https://www.facebook.com/mitsuru.yamagishi.1/videos/福井県が99ヶ月連続全国1位を記録している数値何か知っていますか正解は有効求人倍率実は福井は日本一の人手不足県なんです経産省の2040年推計でも医療や介護農業物/1773833070634157/",
+    "https://www.facebook.com/regional.career.shizuoka/posts/静岡県の最新雇用情勢についてエリア別西部中部東部の有効求人倍率産業別の新規求人など詳しくお伝えしますhttpsrs-shizuokanet20250120251/1117833373479302/",
+    "https://www.facebook.com/ishimotoryozo/posts/狭山工業の求人倍率35倍所沢市は技術職員を確保できるのか工業高校の求人倍率が35倍この数字が答弁された瞬間議場がどよめいた道路や公共施設を支える土木建築電気など/1675539517910806/",
+    "https://www.facebook.com/aichi.roudoukyoku/photos/令和７年９月における雇用情勢をお伝えします-基調判断-雇用情勢は求人が求職を上回って推移しているものの物価上昇等が雇用に与える影響に注意する必要がある-有効求人/1273250158178053/",
+    "https://www.facebook.com/kentsumedia/photos/ｕｔコンストラクション代表取締役社長-保苅浩史ほかりひろしさん-建設技術者は近年有効求人倍率が高い数値で推移しており最も人材を確保することが難しい職種といわれて/2235761183138678/",
+    "https://www.facebook.com/katsushika.shigoto/posts/墨田葛飾エリアの職種別有効求人倍率情報ハローワーク墨田より職種別有効求人求職状況と求人賃金状況の7月分が公開されております墨田エリアの求人倍率は073倍令和4年/4985847114848907/"
+   ]
+  },
+  {
+   "query": "職業別の有効求人倍率（生産工程・機械技術者・製造技術者） note 社長",
+   "results": [
+    "https://nextengineer.com/blog/know-how001/",
+    "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "https://hokiraon.jp/column/seizougyou-saiyou/",
+    "https://jsite.mhlw.go.jp/hyogo-roudoukyoku/var/rev0/0115/2687/201542105654.pdf",
+    "https://note.com/iida_yasuyuki/n/n627a844b8f7c",
+    "https://lassic.co.jp/media/person/engineer-job-market-data/",
+    "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "https://www5.cao.go.jp/j-j/wp/wp-je10/pdf/10p03013_1.pdf",
+    "https://note.com/alert_hyssop1862/n/nfc7f27a3d851",
+    "https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002196515.pdf"
+   ]
+  },
+  {
+   "query": "職業別の有効求人倍率（生産工程・機械技術者・製造技術者） X 投稿",
+   "results": [
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002118678.pdf",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf",
+    "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "https://www.manegy.com/news/detail/7223/",
+    "https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002196515.pdf"
+   ]
+  },
+  {
+   "query": "job openings to applicants ratio by occupation manufacturing Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/jobs-never-arrived-gad-levanon-cpquc",
+    "https://news.linkedin.com/2026/2026-Davos-Press-Release",
+    "https://www.linkedin.com/news/story/us-gained-more-than-3-times-as-many-jobs-as-expected-in-august-7572116/",
+    "https://www.linkedin.com/posts/navaneethakrishnan-ramanathan_workinjapan-japanitjobs-indianprofessionals-activity-7407245726235365376-ATZA",
+    "https://www.linkedin.com/top-content/recruitment-hr/understanding-job-market-competitiveness/understanding-japan-s-competitive-talent-market/",
+    "https://www.linkedin.com/jobs/view/production-operator-iii-at-curia-4466232488",
+    "https://in.linkedin.com/company/the-job-factory108",
+    "https://www.linkedin.com/jobs/view/production-machine-operator-at-mccain-foods-4456113535",
+    "https://www.linkedin.com/top-content/recruitment-hr/global-workforce-trends/changes-in-workforce-trends-in-japan/",
+    "https://www.linkedin.com/jobs/recipharm-advanced-bio-jobs"
+   ]
+  }
+ ],
+ "missing": {}
+}

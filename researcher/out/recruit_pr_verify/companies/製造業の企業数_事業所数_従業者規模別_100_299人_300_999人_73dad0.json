@@ -1,0 +1,1558 @@
+{
+ "name": "製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人）",
+ "en": "number of manufacturers by employee size Japan",
+ "aliases": [
+  "製造業 従業者規模別 事業所数 経済センサス",
+  "製造業 中堅企業 社数",
+  "製造業 企業数 規模別 2021"
+ ],
+ "context": "①社数",
+ "kind": "market",
+ "researched_at": "2026-11-04T14:47:55.354897+00:00",
+ "evidence": {
+  "社数（規模別）": [
+   {
+    "quote": "従業者規模別事業所数，製造品出荷額等の推移 - 従業者規模別事業所数の推移（令和3年6月1日現在） - 宇都宮市オープンデータカタログ",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別事業所数の推移（令和3年6月1日現在）",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "資料：経済産業省(工業統計調査)，総務省・経済産業省(経済センサス－活動調査(製造業)(H28,R3))，(経済センサス－基礎調査(製造業)(H26))",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "(注1) 2016年は、2016年経済センサスー活動調査(製造業)結果",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "(注3) 2021年は2021年経済センサス-活動調査(製造業)結果",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別製造品出荷額等の推移（令和元年6月1日現在）",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模4~9人事業所数[事業所]",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模10~19人事業所数[事業所]",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模20~29人事業所数[事業所]",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模30~99人事業所数[事業所]",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模100~299人事業所数[事業所]",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模300~499人事業所数[事業所]",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模500~999人事業所数[事業所]",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模1,000人以上事業所数[事業所]",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "総務省及び経済産業省から「平成24年経済センサス－活動調査（確報）産業横断的集",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成24年経済センサス－活動調査（確報）",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 従業者規模別",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に売上（収入）金額をみると、「製造業」では従業者規模「50人以上」が5",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別に付加価値額をみると、「製造業」では従業者規模「50人以上」が5,713億",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「卸売業、小売業」では従業者規模「5～9人」",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１ 従業者規模別産業大（中）分類別売上（収入）金額",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 従業者規模別売上（収入）金額 【製造業】【卸売業、小売業】",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図２ 従業者規模別付加価値額 【製造業】【卸売業、小売業】",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 従業者規模別産業大（中）分類別付加価値額",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30～49人 50人以上 出向・派遣従業者のみ総数(従業者規模) 1～4人 5～9人",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図３ 従業者規模別事業所数【H21･H24比較】",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別に事業所数をみると、「1～4人」が37,685事業所（事業所全体の59.5％）と",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 概要 7 従業者規模別 事業所数（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業別集計 製造業に関する集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査は、全産業分野の経済活動を同一時点で把握するため、日本国内に所在する全ての事業所・企業を対象として、５年ごとに実施されます",
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス‐活動調査",
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別 事業所数（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁では、令和5年6月27日に総務省と経済産業省が公表した、「令和3年経済センサス-活動調査」のデータを分析し、中小企業・小規模事業者数の集計作業をとりまとめました",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の企業数については、2021年6月時点で336万者となりました",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "資料：総務省「平成26年経済センサス-基礎調査」、総務省・経済産業省「平成28年、令和３年経済センサス-活動調査」再編加工",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、建設業、運輸業その他の業種：資本金3億円以下又は従業者規模300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "※ゴム製品製造業は、資本金3億円以下または従業者規模900人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業：資本金1億円以下又は従業者規模100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業：資本金5000万円以下又は従業者規模100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "※ソフトウェア業、情報処理サービス業は、資本金3億円以下又は従業者規模300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "※旅館業は、資本金5千万円以下または従業者規模200人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売業：資本金5000万円以下又は従業者規模50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、建設業、運輸業その他の業種：従業者規模20人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業、小売業、サービス業：従業者規模5人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "※宿泊業・娯楽業は、従業者規模20人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県・大都市別企業数、常用雇用者数、従業者総数(PDF形式：315KB)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年 経済センサス-活動調査（確報）産業別集計「製造業」｜名古屋市公式ウェブサイト",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年 経済センサス‐活動調査結果",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年 経済センサス-活動調査（確報）産業別集計「製造業」",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年6月1日現在で実施された「平成28年 経済センサス-活動調査」の調査結果（確報）について、名古屋市の製造業にかかる集計がまとまりましたので、紹介します",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年6月1日現在の、本市の製造業の事業所数は4,221事業所、従業者数は98,359人となっており、前回、平成24年の調査と比較して、事業所数は857事業所（16.9%）の減少、従業者数は7,138人（6.8％）の減少となっています",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "2 業種別の事業所数、従業者数、出荷額等",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "附表2 産業中分類別事業所数、従業者数、製造品出荷額等、付加価値額（単位：金額万円）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "3 区別の事業所数、従業者数、出荷額等",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "附表3 区別事業所数、従業者数、製造品出荷額等、付加価値額（単位：金額 万円）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1表 産業中分類別事業所数・従業者数・製造品出荷額等・生産額等（従業者4人以上の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 区別、産業中分類別事業所数・従業者数・生産額等（従業者4人以上の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "第4表 区別、従業者規模別事業所数・従業者数・生産額等（従業者4人以上の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年 経済センサス-活動調査（確報）産業横断的集計 結果の概要",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年 経済センサス-活動調査（確報）産業別集計「卸売業,小売業」",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "メタデータ最終更新日時",
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者と設備を有して、物の生産や販売、サービスの提供が継続的に行われていること",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "掲載日：2018年3月1日更新",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "資本金階級別に企業数をみると、最も多いのは資本金階級「300万円～500万円未満」",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の6,410企業（企業数全体の38.9％）で、次いで「1,000万円～3,000万円未満」が5,025企業",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（同30.5％）、「500万円～1,000万円」が2,486企業（同15.1％）などとなっている",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に常用雇用者数をみると、最も多いのは資本金階級「1,000万円～3,000",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円未満」の85,066人（常用雇用者数全体の30.1％）で、次いで「10億円～50億円未満」",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が46,440人（同16.4％）、「300万円～500万円未満」が35,448人（同12.5％）などとなってい",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300万円未満 651 4.0 3,574 1.3 3,574 100.0 - -",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300万円～500万円未満 6,410 38.9 35,448 12.5 35,438 100.0 10 0.0",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500万円～1 ,000万円未満 2,486 15.1 16,746 5.9 16,727 99.9 19 0.1",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円～3 ,000万円未満 5,025 30.5 85,066 30.1 84,434 99.3 632 0.7",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円～5 ,000万円未満 667 4.1 28,249 10.0 28,245 100.0 4 0.0",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円～1億円未満 393 2.4 30,155 10.7 29,956 99.3 199 0.7",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(再掲)1,000万円以下 13,025 79.1 108,041 38.2 107,401 99.4 640 0.6",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(再掲)5,000万円以下 15,376 93.4 179,527 63.5 178,859 99.6 668 0.4",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業：資本金5000万円以下又は従業者規模100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "※旅館業は、資本金5千万円以下または従業者規模200人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売業：資本金5000万円以下又は従業者規模50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、平成27年1年間の製造品出荷額等は3兆5479億円、付加価値額は1兆2142億円となっています",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "附表2 産業中分類別事業所数、従業者数、製造品出荷額等、付加価値額（単位：金額万円）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "附表3 区別事業所数、従業者数、製造品出荷額等、付加価値額（単位：金額 万円）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "第5表 産業中分類別現金給与総額・原材料・燃料使用額等（従業者30人以上の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "第6表 区別現金給与総額・原材料・燃料使用額等（従業者30人以上の事業所）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "理項目は平成27年1年間の数値",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "理項目は平成23年1年間の数値",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "それ以外の経理項目は当該年次1年間の数値",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)別に対前年増減数をみると、増加したのは 「食料品製造業」が 736,596 万円（対",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 8.5％増）、「化学工業」が 360,903 万円（同 156.6％増）、 「飲料・たばこ・飼料製造業」",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 315,111 万円（同 14.9％増） などの 15 産業で、減少したのは 「ゴム製品製造業」が 159,126",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円（同 42.1％減）、 「金属製品製造業」が 96,588 万円（同 7.3％減） 、 「生産用機械器具製造",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業」が 42,294 万円（同 19.8％減）などの 7 産業となっている",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表9 産業(中分類)別製造品出荷額等 （金額単位：万円）",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各規模の全体に占める割合は、「50～99 人規模」が 5,211,793万円（構成比27.7％）と最も",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "多く、以下、「100 人以上規模」が5,017,530 万円（同26.6％）、「10～19 人規模」が3,503,618",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円（同 18.6％）となっており、30 人以上規模の事業所が全体の 62.1％を占めている",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表10 従業者規模別製造品出荷額等 （金額単位：万円）",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付表B 産業中分類別事業所数、従業者数、製造品出荷額等、現金給与総額、原材料使用額等、付加価値額（従業者4人以上の事業所） [Excelファイル／19KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "付表C 従業者規模別事業所数、従業者数、製造品出荷額等、現金給与総額、原材料使用額等、付加価値額（従業者4人以上の事業所） [Excelファイル／16KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "付表G 産業中分類別労働分配率、生産額、労働生産性、有形固定資産投資総額（従業者30人以上の事業所） [Excelファイル／19KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "付表H 産業中分類別在庫総額、製造品及び半製品在庫額、原材料及び燃料在庫額（従業者30人以上の事業所） [Excelファイル／20KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "付表L 市町村別事業所数、従業者数、製造品出荷額等、現金給与総額、原材料使用額等、付加価値額（従業者4人以上の事業所） [Excelファイル／34KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "１ 産業中分類別、従業者規模別事業所数、従業者数、製造品出荷額等、現金給与総額、原材料使用額等、付加価値額（従業者4人以上の事業所） [Excelファイル／28KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "２ 産業細分類別事業所数、従業者数、製造品出荷額等、現金給与総額、原材料使用額等、生産額、付加価値額（従業者4人以上の事業所） [Excelファイル／53KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "５ 産業中分類別、従業者規模別有形固定資産の取得額、投資総額（従業者30人以上の事業所） [Excelファイル／16KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "６ 産業中分類別事業所数、従業者数、製造品出荷額等、現金給与総額、原材料使用額等、原材料率、生産額、付加価値額、付加価値率（従業者30人以上の事業所） [Excelファイル／27KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "９ 産業中分類別1事業所当たり製造品出荷額等、現金給与総額、原材料使用額等、有形固定資産投資総額、生産額、付加価値額（従業者30人以上の事業所） [Excelファイル／17KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "10 産業中分類別従業者1人当たり製造品出荷額等、現金給与総額、原材料使用額等、有形固定資産投資総額、生産額、付加価値額（従業者30人以上の事業所） [Excelファイル／18KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "12 産業中分類別製造品出荷額等、現金給与総額、原材料使用額等、原材料率、粗付加価値額、粗付加価値率（従業者4人以上29人以下の事業所） [Excelファイル／21KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "13 地区別、産業中分類別事業所数、従業者数、製造品出荷額等、現金給与総額、原材料使用額等、有形固定資産、リース契約額及び支払額、生産額、付加価値額（従業者4人以上の事業所） [Excelファイル／81KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "14 市町村別、産業中分類別事業所数、従業者数、製造品出荷額等、現金給与総額、原材料使用額等、有形固定資産、生産額、付加価値額（従業者4人以上の事業所） [Excelファイル／123KB]",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "都内製造業の１事業所当たりの従業者数は14.5人、売上（収入）金額は410百万円、付加価値額は110",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "売上（収入）金額 410百万円 829百万円 49.5％",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額 110百万円 140百万円 78.2％",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "都内製造業の従業者１人当たりの売上（収入）金額は2,760万円、付加価値額は714万円である",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "売上（収入）金額 2,760万円 3,809万円 72.5％",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額 714万円 602万円 118.6％",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "（注）2020年平均を100.0とした比率",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "都内中小企業の設備投資の実施割合の推移を後方４四半期移動平均でみると、全体では2015年以降16％か",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "等の経理事項は平成２７年１月から１２月までの１年間の活動の結果を、 工業統計調",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "理又は改造、航空機のオーバーホールを行う事業所については、過去１年間に製造行為",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 「現金給与総額」 とは、 雇用者に対する 「基本給」 、 「諸手当」 、 「期末賞与」 、 「退職金」 、",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "資本金階級別に企業数をみると、最も多いのは資本金階級「300万円～500万円未満」",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の6,410企業（企業数全体の38.9％）で、次いで「1,000万円～3,000万円未満」が5,025企業",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（同30.5％）、「500万円～1,000万円」が2,486企業（同15.1％）などとなっている",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金階級別に常用雇用者数をみると、最も多いのは資本金階級「1,000万円～3,000",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円未満」の85,066人（常用雇用者数全体の30.1％）で、次いで「10億円～50億円未満」",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が46,440人（同16.4％）、「300万円～500万円未満」が35,448人（同12.5％）などとなってい",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300万円未満 651 4.0 3,574 1.3 3,574 100.0 - -",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300万円～500万円未満 6,410 38.9 35,448 12.5 35,438 100.0 10 0.0",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500万円～1 ,000万円未満 2,486 15.1 16,746 5.9 16,727 99.9 19 0.1",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円～3 ,000万円未満 5,025 30.5 85,066 30.1 84,434 99.3 632 0.7",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円～5 ,000万円未満 667 4.1 28,249 10.0 28,245 100.0 4 0.0",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円～1億円未満 393 2.4 30,155 10.7 29,956 99.3 199 0.7",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(再掲)1,000万円以下 13,025 79.1 108,041 38.2 107,401 99.4 640 0.6",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(再掲)5,000万円以下 15,376 93.4 179,527 63.5 178,859 99.6 668 0.4",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業：資本金5000万円以下又は従業者規模100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "※旅館業は、資本金5千万円以下または従業者規模200人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売業：資本金5000万円以下又は従業者規模50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "附表2 産業中分類別事業所数、従業者数、製造品出荷額等、付加価値額（単位：金額万円）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "附表3 区別事業所数、従業者数、製造品出荷額等、付加価値額（単位：金額 万円）",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)別に対前年増減数をみると、増加したのは 「食料品製造業」が 736,596 万円（対",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 8.5％増）、「化学工業」が 360,903 万円（同 156.6％増）、 「飲料・たばこ・飼料製造業」",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が 315,111 万円（同 14.9％増） などの 15 産業で、減少したのは 「ゴム製品製造業」が 159,126",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円（同 42.1％減）、 「金属製品製造業」が 96,588 万円（同 7.3％減） 、 「生産用機械器具製造",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業」が 42,294 万円（同 19.8％減）などの 7 産業となっている",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表9 産業(中分類)別製造品出荷額等 （金額単位：万円）",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各規模の全体に占める割合は、「50～99 人規模」が 5,211,793万円（構成比27.7％）と最も",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "多く、以下、「100 人以上規模」が5,017,530 万円（同26.6％）、「10～19 人規模」が3,503,618",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円（同 18.6％）となっており、30 人以上規模の事業所が全体の 62.1％を占めている",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表10 従業者規模別製造品出荷額等 （金額単位：万円）",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都内製造業の１事業所当たりの従業者数は14.5人、売上（収入）金額は410百万円、付加価値額は110",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "売上（収入）金額 410百万円 829百万円 49.5％",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額 110百万円 140百万円 78.2％",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "都内製造業の従業者１人当たりの売上（収入）金額は2,760万円、付加価値額は714万円である",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "売上（収入）金額 2,760万円 3,809万円 72.5％",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額 714万円 602万円 118.6％",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "１事業所あたり製造品出荷額等（万円）",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者１人あたり現金給与総額（万円）",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1～999万円 44 425 283 142 123,626 291",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000～1,999万円 51 939 501 438 280,257 298",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2,000～2,999万円 19 437 263 174 143,096 327",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3,000～4,999万円 27 793 355 438 195,241 246",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5,000～9,999万円 21 1,168 697 471 393,580 337",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "産業大分類別に売上（収入）金額をみると、「製造業」では従業者規模「50人以上」が5",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１） 売上（収入）金額、付加価値額",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上(収入)",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１ 従業者規模別産業大（中）分類別売上（収入）金額",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 従業者規模別売上（収入）金額 【製造業】【卸売業、小売業】",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方「出向・派遣従業員のみ」は40.2％の増加と",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出向・派遣従業員のみ 251 0.4 6 1.5 - - 5 0.1 13 0.3 1 2.1 9 1.8 14 0.9 32 0.2",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出向・派遣従業員のみ 10 0.8 18 0.5 4 0.2 11 0.1 46 0.8 9 0.5 12 0.3 3 0.4 58 1.1",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出向・派遣従業員のみ - - - - - - - - - - - - - - - - - -",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています",
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "pass": 3
+   },
+   {
+    "quote": "全産業分野の売上（収入）金額や費用などの経理項目を同一時点で網羅的に把握し、我が国",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "抜きの回答については、「統計調査における売上高等の集計に係る消費税の取扱いに関するガ",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上（収入）金額は202１年は約１４兆9千億円で全国6位、付加価値額は約3兆９千億円",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "売上（収入）金額は「50人以上」が６",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "・１事業所当たりの従業者数、売上（収入）金額、付加価値額はいずれも全国よりも低い",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "たりの売上（収入）金額は全国より低い一方、付加価値額は全国より高い",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "・売上（収入）金額は「生産用機械器具」が最多",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "都内製造業の事業所数は38,766所、従業者数は561,902人、売上（収入）金額は14兆8,801億円、付加",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "が6.4％、売上（収入）金額が4.5％、付加価値額が7.1％である",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "売上（収入）金額 14兆8,801億円 330兆1,267億円 4.5％",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "売上（収入）金額は全国６位、付加価値額は全国２位となっている",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県 売上（収入）金額 順位 都道府県 付加価値額 順位",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "（３）従業者規模別事業所数・売上（収入）金額、付加価値額",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別売上",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅰ-２-３ 製造業の従業者規模別事業所数、売上（収入）金額、付加価値額（東京都）",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "売上（収入）金額 付加価値額",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "売上（収入）金額",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "(4)「平成 28 年経済センサス‐活動調査」においては、 「統計調査における売上高等の集計",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イ 産業用使用者（工場、鉱山、建設業者、官公庁、学校、病院、ホテルなど）に大量",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エ 同一企業に属する他の事業所 （同一企業の他の工場、 販売所など） に製品を引き渡",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 機械修理工場であっても、金属工作機械又は金属加工機械を据え付け、多種多様な機",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工場、作業所とみられるものがあり、その製造活動に専従の常用従業者がいるときは製",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "お問い合わせ",
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "pass": 3
+   },
+   {
+    "quote": "各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております",
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "pass": 3
+   },
+   {
+    "quote": "(本発表のお問い合わせ先)",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年6月1日現在で実施された「平成28年 経済センサス-活動調査」の調査結果（確報）について、名古屋市の製造業にかかる集計がまとまりましたので、紹介します",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "総務局 企画部 統計課 解析活用担当へのお問い合わせ",
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "pass": 3
+   },
+   {
+    "quote": "（本書に関する問い合わせ先）",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このページに関するお問い合わせ先",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子メールでのお問い合わせはこちらから",
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "図表Ⅰ-２-２ 全国における都内製造業の位置付け（東京都・全国上位道府県）",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "pass": 3
+   },
+   {
+    "quote": "（１）製造品出荷額（上位50品目） （従業者４人以上の事業所）",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）加工賃出荷額（上位20品目） （従業者４人以上の事業所）",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "300",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "quote": "資本金階級別に企業数をみると、最も多いのは資本金階級「300万円～500万円未満」"
+   },
+   {
+    "value": "500",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "quote": "資本金階級別に企業数をみると、最も多いのは資本金階級「300万円～500万円未満」"
+   },
+   {
+    "value": "1,000",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "quote": "の6,410企業（企業数全体の38.9％）で、次いで「1,000万円～3,000万円未満」が5,025企業"
+   },
+   {
+    "value": "3,000",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "quote": "の6,410企業（企業数全体の38.9％）で、次いで「1,000万円～3,000万円未満」が5,025企業"
+   },
+   {
+    "value": "000",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "quote": "500万円～1 ,000万円未満 2,486 15.1 16,746 5.9 16,727 99.9 19 0.1"
+   },
+   {
+    "value": "5,000",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "quote": "5,000万円～1億円未満 393 2.4 30,155 10.7 29,956 99.3 199 0.7"
+   },
+   {
+    "value": "5000",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "quote": "サービス業：資本金5000万円以下又は従業者規模100人以下"
+   },
+   {
+    "value": "736,596",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "quote": "産業(中分類)別に対前年増減数をみると、増加したのは 「食料品製造業」が 736,596 万円（対"
+   },
+   {
+    "value": "360,903",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "quote": "前年比 8.5％増）、「化学工業」が 360,903 万円（同 156.6％増）、 「飲料・たばこ・飼料製造業」"
+   },
+   {
+    "value": "315,111",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "quote": "が 315,111 万円（同 14.9％増） などの 15 産業で、減少したのは 「ゴム製品製造業」が 159,126"
+   },
+   {
+    "value": "96,588",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "quote": "万円（同 42.1％減）、 「金属製品製造業」が 96,588 万円（同 7.3％減） 、 「生産用機械器具製造"
+   },
+   {
+    "value": "42,294",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "quote": "業」が 42,294 万円（同 19.8％減）などの 7 産業となっている"
+   },
+   {
+    "value": "211,793",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "quote": "各規模の全体に占める割合は、「50～99 人規模」が 5,211,793万円（構成比27.7％）と最も"
+   },
+   {
+    "value": "017,530",
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "quote": "多く、以下、「100 人以上規模」が5,017,530 万円（同26.6％）、「10～19 人規模」が3,503,618"
+   },
+   {
+    "value": "2,760",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "quote": "都内製造業の従業者１人当たりの売上（収入）金額は2,760万円、付加価値額は714万円である"
+   },
+   {
+    "value": "714",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "quote": "都内製造業の従業者１人当たりの売上（収入）金額は2,760万円、付加価値額は714万円である"
+   },
+   {
+    "value": "3,809",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "quote": "売上（収入）金額 2,760万円 3,809万円 72.5％"
+   },
+   {
+    "value": "602",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "quote": "付加価値額 714万円 602万円 118.6％"
+   },
+   {
+    "value": "999",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "quote": "1～999万円 44 425 283 142 123,626 291"
+   },
+   {
+    "value": "1,999",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "quote": "1,000～1,999万円 51 939 501 438 280,257 298"
+   },
+   {
+    "value": "2,999",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "quote": "2,000～2,999万円 19 437 263 174 143,096 327"
+   },
+   {
+    "value": "4,999",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "quote": "3,000～4,999万円 27 793 355 438 195,241 246"
+   },
+   {
+    "value": "9,999",
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "quote": "5,000～9,999万円 21 1,168 697 471 393,580 337"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003085538",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.net-bizs.jp/dataguide/19007/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamagata.jp/documents/1616/h28kakuho_kigyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/31973.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n79684d75a109",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/ee4ca90851f3aa9bc80048786af269a8",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/uploaded/attachment/255568.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12292/h27_seiougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2009/kakuho/gaiyou/pdf/o_gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n6299bd0a6539",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gender.go.jp/kaigi/senmon/kihon/kihon_eikyou/pdf/02_2_chosakai_todoufuken.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/nihon/07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://open-g.itlibra.com/industries/E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_youyaku2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://resas.go.jp/industry-all/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.gifu.lg.jp/page/265384.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/economies/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人）",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003085538",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.net-bizs.jp/dataguide/19007/",
+    "https://www.pref.yamagata.jp/documents/1616/h28kakuho_kigyo.pdf",
+    "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/31973.pdf",
+    "https://note.com/ogawa_tech/n/n79684d75a109",
+    "https://www.stat.go.jp/data/e-census/2009/kakuho/gaiyou/pdf/o_gaiyou.pdf",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/ee4ca90851f3aa9bc80048786af269a8.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人） 調査 PDF",
+   "results": [
+    "https://www.pref.yamagata.jp/documents/1616/h28kakuho_kigyo.pdf",
+    "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/ee4ca90851f3aa9bc80048786af269a8.pdf",
+    "https://www.pref.aichi.jp/uploaded/attachment/255568.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.pref.osaka.lg.jp/documents/12292/h27_seiougyou.pdf",
+    "https://www.net-bizs.jp/dataguide/19007/",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人） 厚生労働省",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003085538",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/ee4ca90851f3aa9bc80048786af269a8.pdf",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.net-bizs.jp/dataguide/19007/",
+    "https://www.stat.go.jp/data/e-census/2009/kakuho/gaiyou/pdf/o_gaiyou.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539",
+    "https://www.gender.go.jp/kaigi/senmon/kihon/kihon_eikyou/pdf/02_2_chosakai_todoufuken.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人） 規模別 万円",
+   "results": [
+    "https://www.pref.yamagata.jp/documents/1616/h28kakuho_kigyo.pdf",
+    "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人） 製造業 事例",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2009/kakuho/gaiyou/pdf/o_gaiyou.pdf",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1",
+    "https://note.com/ogawa_tech/n/n79684d75a109",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001223942&collect_area=200&result_page=1&statdisp_id=0004040096",
+    "https://www.net-bizs.jp/dataguide/19007/",
+    "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人） 2025 OR 2026",
+   "results": [
+    "https://www.e-stat.go.jp/dbview?sid=0003085538",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.net-bizs.jp/dataguide/19007/",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "https://www.pref.gifu.lg.jp/page/265384.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/economies/detail001.html",
+    "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf",
+    "https://www.jpc-net.jp/research/rd/db/"
+   ]
+  },
+  {
+   "query": "site:note.com 製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人）",
+   "results": [
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/ogawa_tech/n/n79684d75a109",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539",
+    "https://note.com/gp__info/n/na04a4ec5fe6e",
+    "https://note.com/kakizakisr/n/n0346ba069079",
+    "https://note.com/gp__info/n/nb555d27ec9c2",
+    "https://note.com/ogawa_tech/n/n39578e92fa72",
+    "https://note.com/machi_hito1507/n/ne83b8f7c7ceb",
+    "https://note.com/career_adviser_k/n/nd11619bf212e",
+    "https://note.com/kakizakisr/n/n4fcdfaafb248"
+   ]
+  },
+  {
+   "query": "site:x.com 製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人）",
+   "results": [
+    "https://x.com/Care_news",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/tokei_ibaraki/status/2082712347798577159",
+    "https://x.com/OgawaSeisakusho/status/2065942199326650437",
+    "https://x.com/PD_Takayama/status/2110526123335672192",
+    "https://x.com/OgawaSeisakusho",
+    "https://x.com/OgawaSeisakusho/status/2101838401943323059",
+    "https://x.com/OgawaSeisakusho/status/2100329360326811983"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人）",
+   "results": [
+    "https://www.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%8D%92%E6%A5%AD%E7%94%9F%E3%81%AE%E5%B0%B1%E8%81%B7%E7%8F%BE%E7%8A%B6-allizcareer-jchwc",
+    "https://jp.linkedin.com/in/masaru-oguma",
+    "https://in.linkedin.com/company/qualitykiosk-technologies",
+    "https://jp.linkedin.com/posts/satoshi-miyamoto-宮本智史-0a11b022_人材紹介2023年度の有料民間職業紹介事業所数は30113件前年度から-activity-7257277845725421571-Ajho",
+    "https://www.linkedin.com/posts/satoru-yoshida_限られた時間の中で統計データをうまく使うにはその数字が確かなのかを瞬時に見極めたい-activity-7205688869260808192-VOtv",
+    "https://jp.linkedin.com/posts/workx0901_workx本社オフィスの増床が決定-2026年5月1日より現在本社を構える-activity-7389579318521176065-KJnH",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本の製造業は本業以外で儲けてるって本当-企業規模別の営業外収益費用損益-activity-7443388930839945216-QVdF",
+    "https://jp.linkedin.com/posts/清悟-中村-6952563ba_従業員38人で売上73億円の衝撃世界初製造aiで常識を覆す金沢の町工場の-activity-7497826220953202689-j7r4",
+    "https://jp.linkedin.com/pulse/製造業の企業価値社会貢献と持続性をどう両立させるか-美徳-鈴木-2rbuc"
+   ]
+  },
+  {
+   "query": "site:facebook.com 製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人）",
+   "results": [
+    "https://www.facebook.com/usukicci/posts/%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6%E4%B8%8A%E6%9C%9F%E3%81%AE%E8%83%BD%E5%8A%9B%E9%96%8B%E7%99%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%81%8C%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E8%A9%B3%E7%B4%B0%E3%81%AF%E4%B8%8B%E8%A8%98%E3%82%88%E3%82%8A%E3%81%94%E7%A2%BA%E8%AA%8D%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-%E3%83%9D%E3%83%AA%E3%83%86%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%A4%A7%E5%88%86/1236347318634008/",
+    "https://www.facebook.com/keiriotasuke/",
+    "https://www.facebook.com/groups/497952177070330/",
+    "https://www.facebook.com/office.oshima/posts/令和６年労働災害動向調査事業所調査事業所規模100人以上及び総合工事業調査の概況-概況の全体を見たい場合は印刷用資料をご覧ください-httpswwwmhlwgo/1131963042305705/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/hashimotosr/posts/厚生労働省は令和３年６月１日令和２年労働災害動向調査事業所調査事業所規模100人以上及び総合工事業調査の結果を公表しました-その概要は次のとおり全産業では労働災/323735025782448/",
+    "https://www.facebook.com/nomura.jp/posts/ノムラプラスで読む産業の過去とこれから-100年史とその近未来を作った理由野村證券のフロンティアリサーチ部が野村グループ創立100周年に合わせて12業種の100/1276480847848590/",
+    "https://www.facebook.com/motokokuzei/posts/混乱しがちな従業者の数の判定法人住民税法人事業税の分割基準と法人住民税の均等割の計算で細かいところが変わりますこの点先日の月刊税務ｑａ２０２０年５月号にまとめら/2803356233125330/"
+   ]
+  },
+  {
+   "query": "製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人） note 社長",
+   "results": [
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://www.net-bizs.jp/dataguide/19007/",
+    "https://www.gender.go.jp/kaigi/senmon/kihon/kihon_eikyou/pdf/02_2_chosakai_todoufuken.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003902.html",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "https://www.pref.shiga.lg.jp/documents/11062/5380986.pdf",
+    "https://newspicks.com/news/10611234/body/",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966"
+   ]
+  },
+  {
+   "query": "製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "https://www.e-stat.go.jp/dbview?sid=0004005661",
+    "https://www.net-bizs.jp/dataguide/19007/",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "https://note.com/ogawa_tech/n/n79684d75a109",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034263/1003902.html",
+    "https://www.toukei.metro.tokyo.lg.jp/ecensus/kzsensuska/2021/ka21t10000.htm",
+    "https://www.automation-news.jp/2022/07/63700/",
+    "https://www.jsest.jp/wp-content/uploads/2017/06/murata-itoh110.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966"
+   ]
+  },
+  {
+   "query": "number of manufacturers by employee size Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/cnbc_unwelcome-and-unsafe-why-japanese-companies-activity-7512698096548622336-RlHX",
+    "https://www.linkedin.com/posts/hardmaru_why-japanese-companies-do-so-many-different-activity-7468113369556799488-DVY8",
+    "https://www.linkedin.com/pulse/copy-japan-targets-5000-companies-india-2029-yashasvi-rathore-gxlrc",
+    "https://www.linkedin.com/pulse/japanese-companies-who-want-global-need-globally-strong-rudlin",
+    "https://www.linkedin.com/posts/neil-brown-62848115_why-japanese-companies-do-so-many-different-activity-7464548397128134658-9xfw",
+    "https://www.linkedin.com/company/ford-motor-company",
+    "https://www.linkedin.com/pulse/why-so-many-companies-fail-japan-leon-van-houwelingen-8m07c",
+    "https://www.linkedin.com/company/japan-automobile-manufacturers-association-inc-",
+    "https://www.linkedin.com/company/flexintl",
+    "https://www.linkedin.com/posts/edmund-ho-1277b2125_more-profit-making-companies-cutting-jobs-activity-7430164315120365568-zK7I"
+   ]
+  }
+ ],
+ "missing": {
+  "採用難（公的統計）": "記載なし（読んだ33頁・検索13回）",
+  "作る側の原価": "記載なし（読んだ33頁・検索13回）"
+ }
+}

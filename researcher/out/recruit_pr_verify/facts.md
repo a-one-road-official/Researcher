@@ -1,0 +1,984 @@
+# 仮説の検証 — 中堅製造業向け採用広報：社数・採用難・採用費・採用広報の単価・継続・原価・買い方・前例（事実のみ・12品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 製造業の企業数・事業所数（従業者規模別：100〜299人・300〜999人）（number of manufacturers by employee size Japan）
+- 文脈：①社数
+- 社数（規模別）：
+  - 「従業者規模別事業所数，製造品出荷額等の推移 - 従業者規模別事業所数の推移（令和3年6月1日現在） - 宇都宮市オープンデータカタログ」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「従業者規模別事業所数の推移（令和3年6月1日現在）」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「資料：経済産業省(工業統計調査)，総務省・経済産業省(経済センサス－活動調査(製造業)(H28,R3))，(経済センサス－基礎調査(製造業)(H26))」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「(注1) 2016年は、2016年経済センサスー活動調査(製造業)結果」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「(注3) 2021年は2021年経済センサス-活動調査(製造業)結果」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「従業者規模別製造品出荷額等の推移（令和元年6月1日現在）」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「従業者規模4~9人事業所数[事業所]」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「従業者規模10~19人事業所数[事業所]」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「従業者規模20~29人事業所数[事業所]」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「従業者規模30~99人事業所数[事業所]」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「従業者規模100~299人事業所数[事業所]」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「従業者規模300~499人事業所数[事業所]」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「従業者規模500~999人事業所数[事業所]」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「従業者規模1,000人以上事業所数[事業所]」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「総務省及び経済産業省から「平成24年経済センサス－活動調査（確報）産業横断的集」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+- 採用にいくら払うか：
+  - 「資本金階級別に企業数をみると、最も多いのは資本金階級「300万円～500万円未満」」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「の6,410企業（企業数全体の38.9％）で、次いで「1,000万円～3,000万円未満」が5,025企業」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「（同30.5％）、「500万円～1,000万円」が2,486企業（同15.1％）などとなっている」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「資本金階級別に常用雇用者数をみると、最も多いのは資本金階級「1,000万円～3,000」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「万円未満」の85,066人（常用雇用者数全体の30.1％）で、次いで「10億円～50億円未満」」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「が46,440人（同16.4％）、「300万円～500万円未満」が35,448人（同12.5％）などとなってい」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「300万円未満 651 4.0 3,574 1.3 3,574 100.0 - -」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「300万円～500万円未満 6,410 38.9 35,448 12.5 35,438 100.0 10 0.0」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「500万円～1 ,000万円未満 2,486 15.1 16,746 5.9 16,727 99.9 19 0.1」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「1,000万円～3 ,000万円未満 5,025 30.5 85,066 30.1 84,434 99.3 632 0.7」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「3,000万円～5 ,000万円未満 667 4.1 28,249 10.0 28,245 100.0 4 0.0」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「5,000万円～1億円未満 393 2.4 30,155 10.7 29,956 99.3 199 0.7」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「(再掲)1,000万円以下 13,025 79.1 108,041 38.2 107,401 99.4 640 0.6」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「(再掲)5,000万円以下 15,376 93.4 179,527 63.5 178,859 99.6 668 0.4」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「サービス業：資本金5000万円以下又は従業者規模100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html）
+- 採用広報・採用サイトの単価：
+  - 「資本金階級別に企業数をみると、最も多いのは資本金階級「300万円～500万円未満」」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「の6,410企業（企業数全体の38.9％）で、次いで「1,000万円～3,000万円未満」が5,025企業」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「（同30.5％）、「500万円～1,000万円」が2,486企業（同15.1％）などとなっている」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「資本金階級別に常用雇用者数をみると、最も多いのは資本金階級「1,000万円～3,000」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「万円未満」の85,066人（常用雇用者数全体の30.1％）で、次いで「10億円～50億円未満」」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「が46,440人（同16.4％）、「300万円～500万円未満」が35,448人（同12.5％）などとなってい」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「300万円未満 651 4.0 3,574 1.3 3,574 100.0 - -」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「300万円～500万円未満 6,410 38.9 35,448 12.5 35,438 100.0 10 0.0」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「500万円～1 ,000万円未満 2,486 15.1 16,746 5.9 16,727 99.9 19 0.1」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「1,000万円～3 ,000万円未満 5,025 30.5 85,066 30.1 84,434 99.3 632 0.7」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「3,000万円～5 ,000万円未満 667 4.1 28,249 10.0 28,245 100.0 4 0.0」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「5,000万円～1億円未満 393 2.4 30,155 10.7 29,956 99.3 199 0.7」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「(再掲)1,000万円以下 13,025 79.1 108,041 38.2 107,401 99.4 640 0.6」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「(再掲)5,000万円以下 15,376 93.4 179,527 63.5 178,859 99.6 668 0.4」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「サービス業：資本金5000万円以下又は従業者規模100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html）
+- 継続して払うか：
+  - 「メタデータ最終更新日時」（https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860）
+  - 「(2) 従業者と設備を有して、物の生産や販売、サービスの提供が継続的に行われていること」（https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf）
+  - 「掲載日：2018年3月1日更新」（https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html）
+- どう買われるか：
+  - 「お問い合わせ」（https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966）
+  - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966）
+  - 「(本発表のお問い合わせ先)」（https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html）
+  - 「平成28年6月1日現在で実施された「平成28年 経済センサス-活動調査」の調査結果（確報）について、名古屋市の製造業にかかる集計がまとまりましたので、紹介します」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html）
+  - 「お問い合わせ」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html）
+  - 「総務局 企画部 統計課 解析活用担当へのお問い合わせ」（https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003900/1034265/1003911.html）
+  - 「（本書に関する問い合わせ先）」（https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf）
+  - 「このページに関するお問い合わせ先」（https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html）
+  - 「電子メールでのお問い合わせはこちらから」（https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html）
+- 前例の会社（製造業特化）：
+  - 「産業大分類別に売上（収入）金額をみると、「製造業」では従業者規模「50人以上」が5」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「（１） 売上（収入）金額、付加価値額」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「売上(収入)」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「表１ 従業者規模別産業大（中）分類別売上（収入）金額」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「図１ 従業者規模別売上（収入）金額 【製造業】【卸売業、小売業】」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「一方「出向・派遣従業員のみ」は40.2％の増加と」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「出向・派遣従業員のみ 251 0.4 6 1.5 - - 5 0.1 13 0.3 1 2.1 9 1.8 14 0.9 32 0.2」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「出向・派遣従業員のみ 10 0.8 18 0.5 4 0.2 11 0.1 46 0.8 9 0.5 12 0.3 3 0.4 58 1.1」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「出向・派遣従業員のみ - - - - - - - - - - - - - - - - - -」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966）
+  - 「全産業分野の売上（収入）金額や費用などの経理項目を同一時点で網羅的に把握し、我が国」（https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf）
+  - 「抜きの回答については、「統計調査における売上高等の集計に係る消費税の取扱いに関するガ」（https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf）
+  - 「売上（収入）金額は202１年は約１４兆9千億円で全国6位、付加価値額は約3兆９千億円」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1）
+  - 「売上（収入）金額は「50人以上」が６」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1）
+  - 「・１事業所当たりの従業者数、売上（収入）金額、付加価値額はいずれも全国よりも低い」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1）
+- 採用難（公的統計）：記載なし（読んだ33頁・検索13回）
+- 作る側の原価：記載なし（読んだ33頁・検索13回）
+
+## 職業別の有効求人倍率（生産工程・機械技術者・製造技術者）（job openings to applicants ratio by occupation manufacturing Japan）
+- 文脈：②採用難
+- 社数（規模別）：
+  - 「企業規模 1,000人以上 300～999人 100～299人 30～99人 5～29人 新規学卒者のうち」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 215-１ 製造業に関する事業所数」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「・資料：2011 年、2015 年は総務省・経済産業省「経済センサス‐活動調査」 、他は経済産業省「工業統計調査」」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「215-１でみたように事業所数が半減していること」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+- 採用難（公的統計）：
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）」（https://nextengineer.com/blog/know-how001/）
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系職種の人手不足ランキングTOP8」（https://nextengineer.com/blog/know-how001/）
+  - 「有効求人倍率とは、仕事を探している人1人に対して、何件の求人があるかを示す数値です」（https://nextengineer.com/blog/know-how001/）
+  - 「【2024年11月】職種別の有効求人倍率と採用市場の動向を解説 | エン株式会社」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「【2024年11月】職種別の有効求人倍率と採用市場の動向を解説」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「最新の有効求人倍率（2024年10月29日発表）」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「職種別の有効求人倍率（2024年10月29日発表）」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「有効求人倍率（2025年度・ハローワーク・パートを含む常用）」（https://cura-factory.com/jobs/engineer/）
+  - 「2022年2月の生産工程の有効求人倍率は1.94倍で、前月に比べて0.04ポイント増加」（https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf）
+  - 「2022年2月の有効求人倍率は1.21倍で、前月に比べて0.01ポイント増加」（https://fujiarte.co.jp/contents/dl/jobmarket_202204.pdf）
+  - 「【2026年8月版】工場・製造業の有効求人倍率とは？見方や仕事探しへの活かし方を解説」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「【2026年10月版】工場・製造業の有効求人倍率とは？見方や仕事探しへの活かし方を解説」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「【2026年10月版】工場・製造業の有効求人倍率とは？都道府県別データから見る仕事探しのポイント」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「図 211-３ 有効求人倍率（季節調整値）の推移」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+- 採用にいくら払うか：
+  - 「厚生労働省によると、令和6年度平均の有効求人倍率は全職業で1.25倍でした」（https://nextengineer.com/blog/know-how001/）
+  - 「一方、今回取り上げた職種のなかでは求人倍率が低い傾向にあり、、全職業平均の1.25倍も下回ります」（https://nextengineer.com/blog/know-how001/）
+  - 「ただし、参考値は全職業平均の1.25倍を下回るため、設備投資や市場への注目度だけで人手不足とは断定しないことも大切です」（https://nextengineer.com/blog/know-how001/）
+  - 「では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です」（https://nextengineer.com/blog/know-how001/）
+  - 「月給30万円以上の求人を見てみる」（https://nextengineer.com/blog/know-how001/）
+  - 「月給30万円以上」（https://nextengineer.com/blog/know-how001/）
+  - 「製造技術職や医療関係職などの専門的・技術的職業従事者の有効求人倍率は、平均値が1.97倍とやや高めになっています」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「一般事務職や営業事務職などの事務従事者の有効求人倍率は、平均値が0.42倍とやや低めになっています」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「商品販売職や営業職などの販売従事者の有効求人倍率は、平均値が2.20倍とやや高めです」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「介護サービス職や飲食サービス職など、サービス職業従事者の有効求人倍率も、平均値が2.68倍と高めになっています」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「製品製造や加工、検査などにかかわる生産工程従事者の有効求人倍率は、平均値が1.65倍となっています」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「鉄道運転や自動車運転、航空機運転などにかかわる輸送・機械運転従事者の有効求人倍率は、平均値が2.30倍とやや高めになっています」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「建設現場や土木作業、採掘などにかかわる建設・採掘従事者の有効求人倍率は、平均値が5.79倍と非常に高くなっています」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「運搬・清掃・包装等従事者の有効求人倍率は、平均値が0.69とやや低めになっています」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「職業計 1.10倍 ／ 全職種計 約546万円（出典は本文）」（https://cura-factory.com/jobs/engineer/）
+- 採用広報・採用サイトの単価：
+  - 「では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です」（https://nextengineer.com/blog/know-how001/）
+  - 「月給30万円以上の求人を見てみる」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系エンジニアの年収相場｜7職種の年代別年収カーブと経験年数別の給与を比較」（https://nextengineer.com/blog/know-how001/）
+  - 「月給30万円以上」（https://nextengineer.com/blog/know-how001/）
+  - 「職業計 1.10倍 ／ 全職種計 約546万円（出典は本文）」（https://cura-factory.com/jobs/engineer/）
+  - 「年齢別の年収換算は、機械技術者で25〜29歳 約505万円、55〜59歳 約842万円」（https://cura-factory.com/jobs/engineer/）
+  - 「く、2018 年においては、全産業 794.3 万円、非製」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「造業 740.9 万円に対し、製造業は 1,094 万円となっ」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「2005 2014（万円）」（https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8）
+  - 「機械設計の年収はいくら？機械技術者は約659万円、会社の規模・男女別と電気・輸送用機器の技術者との比較【2026年3月公表】」（https://genba-data.com/manufacturing-job-ratio-by-occupation/）
+  - 「機械技術者の年収の目安は約659万円（平均42.3歳、残業代込みの月の給与421,400円＋年間賞与1,533,600円）」（https://genba-data.com/manufacturing-job-ratio-by-occupation/）
+  - 「会社の規模で差が大きく、1,000人以上は約746万円、10〜99人は約525万円で、約220万円の差」（https://genba-data.com/manufacturing-job-ratio-by-occupation/）
+  - 「自動車工場の年収は？組立工は国の統計で約592万円、大企業約661万円・小さな会社約343万円【2026年3月公表】」（https://genba-data.com/manufacturing-job-ratio-by-occupation/）
+  - 「厚生労働省「令和7年賃金構造基本統計調査」から、自動車工場の組立工（自動車組立従事者）の年収の目安約592万円を、会社の規模別・年齢別に整理」（https://genba-data.com/manufacturing-job-ratio-by-occupation/）
+  - 「1,000人以上と10〜99人の会社で約318万円の差があることを国の数字で説明します」（https://genba-data.com/manufacturing-job-ratio-by-occupation/）
+- 継続して払うか：
+  - 「機械・電気系職種の求人需要は、製造業における設備更新や技術変化と深く関係しています」（https://nextengineer.com/blog/know-how001/）
+  - 「設計対象が幅広いうえ、製品開発や設備更新には専門的な設計知識が欠かせません」（https://nextengineer.com/blog/know-how001/）
+  - 「注意として、この数値は物流設備の管理・点検・保守を中心とした職業分類であり、工場設備全般の保全職と完全には一致しません」（https://nextengineer.com/blog/know-how001/）
+  - 「そのため、若手人材を確保するとともに、教育体制や働きやすい職場環境を整え、継続的に技術を磨ける仕組みづくりが重要です」（https://nextengineer.com/blog/know-how001/）
+  - 「ただし、設備の高度化に対応するには、機械だけでなく、電気や制御に関する知識も継続して学ぶ必要があります」（https://nextengineer.com/blog/know-how001/）
+  - 「工場・製造業では、組立・加工・検査・機械オペレーターなどの職種で継続的な採用が行われています」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「接触、密集を避けつつ、事業を継続するためには、デ」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「訓練がいったん終了した後でも、新しい技術や知識を習得するために訓練を継続しな」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「なく、刻々と変化する環境にも継続的に対応することが求められるのである」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「やかな地域ニーズに応え、継続的な変化に即した技術と知識を習得すること」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「土台だけでなく新しい技術や環境に対応するために努力し続けること、地域のニーズを継続」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「設備の更新ができない」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「生産設備の保守・管理技術」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「ルタイムにやり取りしながら保守・メンテナンス作業の適切な指示や問題解決が出来るようになる」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「の仕組み改善を通じて、継続的な精度向上を図っている」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+- 作る側の原価：
+  - 「構成メンバーは、現役の人事労務、1000社以上の企業を支援してきた採用コンサルタント、10年以上の経験を持つ求人専門のコピーライターなど」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+- どう買われるか：
+  - 「一般職業紹介状況(令和7年3月分及び令和6年度分)について」（https://nextengineer.com/blog/know-how001/）
+  - 「一般職業紹介状況（職業安定業務統計） 一般職業紹介状況 ～令和8年5月 長期時系列表 21 職業別労働市場関係指標（実数）（平成21年改定）（令和4年4月～） 月次 | ファイル | 統計データを探す | 政府統計の総合窓口」（https://nextengineer.com/blog/know-how001/）
+  - 「未経験から目指せる！技術職の仕事って？種類・内容・向いている人を紹介」（https://nextengineer.com/blog/know-how001/）
+  - 「エンジニアの転職活動をサポートするNext Engineerの会員サービスとは？実際の相談内容もご紹介！」（https://nextengineer.com/blog/know-how001/）
+  - 「お問い合わせ」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「ここからは厚生労働省の資料をもとに、最新の有効求人倍率を紹介します」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「令和6年11月時点の最新データは、10月29日に発表された「一般職業紹介状況（令和6年9月分）」です」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「厚生労働省「一般職業紹介状況（令和6年9月分）について」」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「求人情報や面接で求職者を惹きつけ、志望度を高める方法を紹介していますので、ぜひご覧ください」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「ここからは厚生労働省の資料をもとに、職種別の有効求人倍率を紹介します」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「ここまで紹介した数値を見るとわかる通り、有効求人倍率は1倍を上回る職種が多くなっています」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「厚生労働省の資料をもとに、職種別の有効求人倍率などを紹介しました」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「採用活動にお悩みの方は、以下のお問い合わせ窓口より、ぜひお気軽にご相談ください」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「エン転職の掲載料金、サービス詳細、特徴、評判、採用事例、媒体資料、お問い合わせ方法などをご案内しています」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「技術職は民間の紹介会社・求人サイト経由の採用が多く、ハローワークの倍率だけでは全体は見えません」（https://cura-factory.com/jobs/engineer/）
+- 前例の会社（製造業特化）：
+  - 「工場の自動化やDXが進むと、新しい設備の設計・導入だけでなく、既存設備との連携や安定稼働を支える技術者も必要です」（https://nextengineer.com/blog/know-how001/）
+  - 「工場設備全般の保全職と完全に一致する数値ではありません」（https://nextengineer.com/blog/know-how001/）
+  - 「注意として、この数値は物流設備の管理・点検・保守を中心とした職業分類であり、工場設備全般の保全職と完全には一致しません」（https://nextengineer.com/blog/know-how001/）
+  - 「自動車の電動化や工場の自動化、製品のIoT化が進むなか、機械とソフトウェアをつなぐ技術者の役割が広がっています」（https://nextengineer.com/blog/know-how001/）
+  - 「設備保全エンジニアは、工場設備の安定稼働を支える役割があり、将来性を見込みやすい職種です」（https://nextengineer.com/blog/know-how001/）
+  - 「【2024年11月】職種別の有効求人倍率と採用市場の動向を解説 | エン株式会社」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「エン株式会社」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「エン株式会社が運営する中途採用サービス「エン転職」の企業・法人様向けサイトです」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「※「エン転職 採用ノウハウ」はエン株式会社が運営している情報サイトです」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「Copyright © en Inc. All Rights Reserved.｜エン株式会社（旧：エン・ジャパン株式会社）」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「工場・企業の方へ」（https://cura-factory.com/jobs/engineer/）
+  - 「生産技術なら、担当する工場・ラインの数と、海外工場の立ち上げ（出張）の有無」（https://cura-factory.com/jobs/engineer/）
+  - 「このサイトでは、工場・製造の仕事をクーラで探すときの使い方と、職種ごとの基礎データをまとめています」（https://cura-factory.com/jobs/engineer/）
+  - 「工場・企業の採用担当の方へ」（https://cura-factory.com/jobs/engineer/）
+  - 「工場・メーカーの採用担当の方へ」（https://cura-factory.com/jobs/engineer/）
+
+## 製造業の中途採用の充足状況（計画に対する採用実績）（mid-career hiring fulfillment manufacturing Japan survey）
+- 文脈：②採用難
+- 社数（規模別）：
+  - 「企業数 498 344 130 62 50」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「区分 対象者 対象者企業数 取得者 取得者企業数 取得率 1ヶ月未満 1ヶ月以上 1ヶ月以上」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「事業内容 回答企業数(ｎ) 対象者 取得者 取得率 1ヶ月未満 1ヶ月以上 1ヶ月以上」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「20人未満 20人以上50人未満 50人以上100人未満 100人以上200人未満 200人以上」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「常用雇用者数 回答企業数(ｎ) 対象者 取得者 取得率 1ヶ月未満 1ヶ月以上 1ヶ月以上」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「100人以上200人未満 54 54 35 64.81% 19 16 45.71%」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「100人以上200人未満 61 128 127 99.22% 0 127 100.00%」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+- 採用難（公的統計）：
+  - 「充足率（採用計画人数に対する採用人数）は、新卒（大卒）57.67％、既卒 77.37％となっており、前年と同」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「昨年度（新卒 40.98％、既卒 68.64％）と比較して、充足率は回復しているが、新」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+- 採用にいくら払うか：
+  - 「【事業内容別事業規模】（平均雇用者数と男女比） ............................................................................ - 4 -」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「問 12．徳島県内の事業所の、過去 1 年間の育児休業の対象」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+- 継続して払うか：
+  - 「の開催や学校とのマッチング支援など、地域ぐるみの採用活動を後押しする取り組みを継続・強化いただきたいです」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「＊賃上げに対する企業側への継続的な支援」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「・「徳島で働く」魅力の県外への情報発信(U ターン希望者との継続的接点の創出)」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「企業では難しい県外大学生への継続的な情報提供と出会いの機会づくりを支援していただきたい」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「今後もぜひ継続」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「施策はあるものの情報の更新頻度が不十分であり、網羅性も低く、県外在住者にとってはアクセスしにくい実態があ」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+- どう買われるか：
+  - 「自社や地元企」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「や地元企業の魅力、ブランドなどの認知・訴求」を課題と挙げている割合が高い」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「自社や地元企業の魅力、ブランドなどの認知・訴求」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「移住者向けの住宅紹介」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「業説明動画・PR コンテンツ作成支援 会社紹介動画や SNS、採用パンフレットなどのコンテンツ制作に対する補助」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「＊地元人材の確保が困難になってきており、企業単独での採用活動には限界があります」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「＊大学進学を機に徳島県を離れた学生が、卒業後に地元に戻ってくるためには、高校時点での地元企業への認知形」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「そのため、高校の部活動や文化祭・課外活動に地元企業がスポンサーとして」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「行政には、こうした連携の仕組みを制度化し、学校と企業のマッチング支援やガイドライン整備、事例紹介などを」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「徳島県をはじめとする地方においても、若者の地元就職率を高めるためには、行政による積極的な支」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「対して就職祝金を支給するなど、若者が地元に根付いて働けるような施策の導入を望みます」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「帰省時インターンやマッチングイベント、「地元企業だより」の配信など、単体」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「地元企業で活躍する社員インタビューや体験談を SNS・動画・パンフレット等で発信し「徳島でもやりがいあるキャリ」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「福利厚生、環境、魅力、職種など様々だと思いますが、結局は地元にある企業や魅力を知らない、理解されていない」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「外に出てもやっぱり戻ってきたいと思える地元づくりを官民双方でつくることかと思います」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+- 前例の会社（製造業特化）：
+  - 「本調査の対象者は従業員数が 10 人以上の徳島県内の企業（以下「対象者」という）とする」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「企業規模別の男性の育休取得率は、概ね従業員規模と相関関係にあるが、取得期間に関して「20 人以上 50 人」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「企業規模別の女性の育休取得率も、概ね従業員規模と相関関係にある」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+  - 「取得期間としては従業員規模の小さい」（https://www.pref.tokushima.lg.jp/file/attachment/1029866.pdf）
+- 採用広報・採用サイトの単価：記載なし（読んだ35頁・検索13回）
+- 作る側の原価：記載なし（読んだ35頁・検索13回）
+- 営業と採用のどちらに困っているか：記載なし（読んだ35頁・検索13回）
+
+## 企業規模別・業種別の中途採用費用（1社あたり年間・1人あたり）（mid-career recruitment cost by company size industry Japan）
+- 文脈：③採用費
+- 社数（規模別）：
+  - 「正社員数100～299人：7.2万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「3人から300人規模の中小・中堅企業では、30万円台前半で横ばいとなっています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/）
+- 採用難（公的統計）：
+  - 「パーソルキャリア（doda）の「転職求人倍率レポート（2026年6月）」などのデータを見ても、IT・技術系の専門職は求人倍率が高止まりしており、こうした採用競合の多さが単価を押し上げる直接的な要因となっています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［5］転職求人倍率レポート（2026年6月）」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「地方企業の採用が難しい理由と採用方法【2026年10月更新】｜都道府県別の求人倍率・Uターン候補者への届き方・採用手法の比較」（https://www.hear.co.jp/recruit/recruit-cost）
+  - 「保育士の人手不足は深刻のため今後は増加すると思われましたが、2022年度以降採用コストは減少傾向になっています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「2025年1月のアルバイト求人倍率は」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「株式会社帝国データバンク「人手不足に対する企業の動向調査（2026年4月）」2026年」（https://omakasehr.jp/%E6%8E%A1%E7%94%A8%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AE%E8%B2%BB%E7%94%A8%E7%9B%B8%E5%A0%B4%E3%81%A8%E5%B9%B4%E9%96%93%E4%BA%88%E7%AE%97%E3%81%AE%E7%B5%84/）
+- 採用にいくら払うか：
+  - 「採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用コストを構成する2つの要素」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「手順3：総額を「採用人数」で割る」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用コストは一人当たりいくら？平均相場と内訳をわかりやすく解説 | 採用支援なら【R4】」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用コストを最適化するための5つの施策」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用コストの平均は一人当たりいくら？新卒・中途の最新相場と算出方法・職種別の広告費・削減の手順【2026年9月更新】｜HeaR株式会社」（https://www.hear.co.jp/recruit/recruit-cost）
+  - 「採用コストの平均は一人当たりいくら？新卒・中途の最新相場と算出方法・職種別の広告費・削減の手順【2026年9月更新】」（https://www.hear.co.jp/recruit/recruit-cost）
+  - 「一人当たりの平均は新卒93.6万円・中途103.3万円（就職白書2020）、2025年の中途採用費用は1社あたり年間609.9万円（マイナビ調査）」（https://www.hear.co.jp/recruit/recruit-cost）
+  - 「算出式と計算例、職種別の求人広告費、3名採用のシミュレーション、削減の8つの方法と適正化の5ステップ、AIで下がる内部コストまで解説します」（https://www.hear.co.jp/recruit/recruit-cost）
+  - 「採用コストとは、企業が人材を1人採用するまでにかかる費用の合計で、求人広告費や紹介手数料などの「外部コスト」と、面接官の人件費などの「内部コスト」に分かれます」（https://www.hear.co.jp/recruit/recruit-cost）
+  - 「中途の転職サイトは採用者1人あたり平均36.7万円（マイナビ2026年版）」（https://www.hear.co.jp/recruit/recruit-cost）
+  - 「年収500万円なら150〜175万円」（https://www.hear.co.jp/recruit/recruit-cost）
+- 採用広報・採用サイトの単価：
+  - 「採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用コストは一人当たりいくら？平均相場と内訳をわかりやすく解説 | 採用支援なら【R4】」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「求人広告費無料キャンペーン！最大10万円の広告費をR4が負担」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用単価5万円で2名採用を実現したコスト最適化事例」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「たとえば、外部コストが800万円、内部コストが400万円で10人採用した場合、一人当たり採用コストは120万円になります」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「人材紹介会社への成功報酬（採用者の年収の20〜35％が相場）」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「一人当たり平均採用コスト（採用単価）はおおむね80万〜110万円台」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「約90万〜110万円」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「約80万〜100万円」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「例えば、採用コストの総額が1000万円で、10人を採用した場合、一人当たりの採用コストは100万円となります」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「19年度の新卒採用（20年卒）：93.6万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「中途採用のコスト：103.3万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「18年度の平均採用コスト （新卒採用71.5万円、 中途採用83.0万円）」（https://www.rshd.co.jp/news/saiyou-cost.html）
+- 継続して払うか：
+  - 「ただし、これらのWebサービスは有料広告（応札型）を利用しないと十分な露出が得られないケースも多いため、運用のバランスを見極める必要があります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「構築や運用に時間はかかりますが、中長期的に媒体費へ依存しない採用基盤を作ることができます」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「まずは無料枠で試してみて、母集団形成が不十分な場合は、予算を決めて有料広告（応札型）をスポットで組み合わせるなど、運用のバランスを見極めることが大切です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「/ 最終更新日 :」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用サイト制作・運用費」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用動画制作、SNS運用代行、採用管理ツール導入費など」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用ツール運用費」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「費用をどれだけ効率的に運用出来るか」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「そこには運用ノウハウが必要不可欠です」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「「経験や感覚」ではなく、チャネルごとの実データに基づいた検証を継続」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「ATSを導入すると応募者情報の一元管理が可能になり、面接スケジュール調整やステータス更新も自動化可能」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「理由は明確で、求人媒体が成果報酬型中心に移行し、広告掲載費や紹介料が高騰している一方、ダイレクトリクルーティングはデータベース利用料＋送信費のみで運用できるため、固定費を抑えやすい構造にあるためです」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「また、採用ノウハウを持つ専門チームが運用を代行するため、工数削減と採用精度の両立も期待できます」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用コストを継続的に最適化するには、」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「リクナビNEXTとIndeed PLUSの違いとは？掲載型と運用型の違いや運用ポイントを解説」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+- どう買われるか：
+  - 「お問い合わせ」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「外部のサービスへ支払う求人広告費・人材紹介手数料など 「社外」のコスト」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「・人材紹介会社への成功報酬（手数料）」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「人材紹介（転職エージェント）の一般的な料金体系：理論年収の30〜35％」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「中途採用で最も多く利用される人材紹介サービスの場合、成果報酬は「理論年収の30〜35%」が市場の共通相場です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「特に人材紹介（転職エージェント）を利用する場合、一般的な成果報酬は理論年収の30〜35%ですが、エンジニアや専門職など市場価値の高い職種では35〜40%に引き上げられるケースが増えています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「ITエンジニア・専門職（紹介会社経由）」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「加えて、人材紹介手数料の上昇も影響しています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「自社の社員から友人や知人を紹介してもらう手法です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「社員へのインセンティブ（数万〜数十万円）は発生しますが、人材紹介の手数料と比べて大幅に外部コストを削減できます」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「スカウト枠の利用料などはかかりますが、人材紹介より費用を抑えやすく、ピンポイントでの獲得が可能です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「まずは直近の採用活動において「どの手法（媒体や人材紹介）にいくら使い、何人入社したか」という費用対効果の棚卸しを行ってください」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「プロ人材紹介サービスの選び方｜3タイプ別の特徴と比較ポイント7つを解説」（https://professional.mynavi.jp/magazine/magazine_402）
+- 前例の会社（製造業特化）：
+  - 「マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「従業員3〜50名：」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「従業員51〜300名：」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「従業員301〜1,000名：」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「従業員1,001名以上：」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［1］株式会社マイナビ「2024年卒 企業新卒内定状況調査」」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［2］株式会社 マイナビ 中途採用状況調査2025年版（2024年実績）」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［4］株式会社マイナビ「中途採用状況調査2024年版（2023年実績）」」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［6］株式会社マイナビ「中途採用状況調査2022年版（2021年実績）」」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［7］株式会社マイナビ「中途採用状況調査2023年版（2022年実績）」」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「株式会社マイナビ プロ人材事業部」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「株式会社マイナビが公表した」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「一方、株式会社マイナビが発表した」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「株式会社リクルート 就職みらい研究所が発表した」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「名古屋のIndeed代理店【株式会社R4】」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+- 作る側の原価：記載なし（読んだ30頁・検索13回）
+
+## 企業規模別・業種別の新卒採用費用
+- 文脈：
+- エラー：ValueError: netloc '関連記事：採用ピッチ資料とは？25社の成功事例と効果・メリットを徹底解説｜応募者の共感を生む採用戦略の新定番' contains invalid characters under NFKC normalization
+
+## 採用サイト制作の費用（企業規模別・製造業の事例）（recruitment website production cost manufacturers）
+- 文脈：④単価
+- 社数（規模別）：
+  - 「・累計取引社数300社以上・製造業支援10年以上の豊富な実績」（https://web-kanji.com/posts/manufacturing）
+  - 「累計取引社数300社以上・製造業支援10年以上の実績」（https://web-kanji.com/posts/manufacturing）
+  - 「Web制作・マーケティング支援での累計取引社数は300社以上」（https://web-kanji.com/posts/manufacturing）
+- 採用難（公的統計）：
+  - 「建設会社の採用サイト事例15選｜人手不足を解消する応募導線設計」（https://cresai.nashplan.jp/blog/?p=4205）
+- 採用にいくら払うか：
+  - 「30万円以下」（https://web-kanji.com/posts/recruit-site-price）
+  - 「31~50万円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「51~100万円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「101~150万円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「151~200万円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「201~300万円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「301~500万円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「501万円以上」（https://web-kanji.com/posts/recruit-site-price）
+  - 「無料〜10万円以下の相場の特徴」（https://web-kanji.com/posts/recruit-site-price）
+  - 「10万円〜50万円以下の相場の特徴」（https://web-kanji.com/posts/recruit-site-price）
+  - 「50万円〜150万円以下の相場の特徴」（https://web-kanji.com/posts/recruit-site-price）
+  - 「150万円以上の相場」（https://web-kanji.com/posts/recruit-site-price）
+  - 「〜50万円以下の相場の採用サイト事例」（https://web-kanji.com/posts/recruit-site-price）
+  - 「50〜150万円相場の採用サイト事例」（https://web-kanji.com/posts/recruit-site-price）
+  - 「150万円以上相場の採用サイト事例」（https://web-kanji.com/posts/recruit-site-price）
+- 採用広報・採用サイトの単価：
+  - 「30万円以下」（https://web-kanji.com/posts/recruit-site-price）
+  - 「31~50万円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「51~100万円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「101~150万円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「151~200万円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「201~300万円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「301~500万円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「採用サイトに強いおすすめの制作会社20選｜依頼先を決めるポイントや費用相場も｜Webサイト制作 / CMS・MAツール｜LeadGrid（リードグリッド）」（https://goleadgrid.com/blog/recruitment-site-production）
+  - 「採用サイトに強いおすすめの制作会社20選｜依頼先を決めるポイントや費用相場も」（https://goleadgrid.com/blog/recruitment-site-production）
+  - 「採用サイトを制作会社へ外注する際には、作成方式が大きく分けて次の2方式があります」（https://goleadgrid.com/blog/recruitment-site-production）
+  - 「採用サイトを制作会社に依頼するメリット3つ」（https://goleadgrid.com/blog/recruitment-site-production）
+  - 「2. 成果の出やすい採用サイトが制作できる」（https://goleadgrid.com/blog/recruitment-site-production）
+  - 「製造業のホームページ制作ガイド｜費用相場・事例10選・失敗しないポイント｜ブラボーウェブ」（https://bravo-web.com/news/works-manufacturing）
+  - 「製造業のホームページ制作ガイド｜費用相場・事例10選・失敗しないポイント｜ホームページ制作 コラム」（https://bravo-web.com/news/works-manufacturing）
+  - 「製造業のホームページ制作ガイド｜費用相場・事例10選・失敗しないポイント」（https://bravo-web.com/news/works-manufacturing）
+- 継続して払うか：
+  - 「管理運用の相場・料金」（https://web-kanji.com/posts/recruit-site-price）
+  - 「ホームページの管理・保守」（https://web-kanji.com/posts/recruit-site-price）
+  - 「リスティング広告運用代行」（https://web-kanji.com/posts/recruit-site-price）
+  - 「SNS運用代行」（https://web-kanji.com/posts/recruit-site-price）
+  - 「調査レポート&ECサイト運用の心得」（https://web-kanji.com/posts/recruit-site-price）
+  - 「運用・保守（公開後の維持管理）」（https://web-kanji.com/posts/recruit-site-price）
+  - 「採用サイトの見積もりは、大きく分けて「企画・ディレクション」「デザイン・システム構築」「コンテンツ制作」「運用・保守」の4つの項目で構成されます」（https://web-kanji.com/posts/recruit-site-price）
+  - 「システム構築では、スマホ対応（レスポンシブデザイン）、応募フォームの設置、CMS（自分で更新できる仕組み）の導入などが該当し、機能を追加するほど開発工数が積み上がっていきます」（https://web-kanji.com/posts/recruit-site-price）
+  - 「採用サイトは公開して終わりではなく、その後の維持管理にも継続的なコストが発生します」（https://web-kanji.com/posts/recruit-site-price）
+  - 「サーバー代は月額数百円〜数千円、ドメイン代は年間1,000円〜数千円が一般的な水準で、SSL証明書（通信を暗号化する仕組み）の費用が別途かかる場合もあります」（https://web-kanji.com/posts/recruit-site-price）
+  - 「加えて、募集要項の更新や社員インタビューの追加といった運用作業も発生し、制作会社に運用代行を依頼する場合は月額数万円〜の保守契約を結ぶケースが目立ちます」（https://web-kanji.com/posts/recruit-site-price）
+  - 「それぞれ初期費用・クオリティ・運用負荷・採用戦略への踏み込み度合いが異なるため、自社の予算と目的を整理したうえで選ぶ必要があります」（https://web-kanji.com/posts/recruit-site-price）
+  - 「月額0円〜数千円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「無料〜月額数万円」（https://web-kanji.com/posts/recruit-site-price）
+  - 「費用を最優先するなら自作、ブランディングや採用戦略まで含めて取り組むなら外注、運用効率を重視するなら構築ツール、というのが基本的な選び方の軸になります」（https://web-kanji.com/posts/recruit-site-price）
+- 作る側の原価：
+  - 「プロのカメラマンによる撮影を依頼すると、1日あたり5万円〜10万円の追加費用が発生します」（https://web-kanji.com/posts/recruit-site-price）
+  - 「目安ですが、カメラマンに1日撮影を行なってもらうと5万円〜10万円の追加費用が発生します」（https://web-kanji.com/posts/recruit-site-price）
+  - 「取材は1本あたり10～15万円が目安となります」（https://goleadgrid.com/blog/recruitment-site-production）
+  - 「社員インタビュー取材は1本あたり10〜15万円の追加費用がかかります」（https://goleadgrid.com/blog/recruitment-site-production）
+  - 「ノーコードツールで内製化したことで、更新にかかる期間は1〜2日へ短縮され、修正ごとの見積もり・決裁・外注費が不要になっています」（https://studio.design/ja/blog/recruitment-site-production-cost）
+  - 「1本あたり5万円～35万円」（https://imitsu.jp/cost/hp-design/article/recruit）
+  - 「先輩社員の声は1本あたりの文量を短くまとめ、高校生でも負担なく読み進められる情報設計が徹底されています」（https://cresai.nashplan.jp/blog/?p=4205）
+  - 「そのためコンテンツ企画によって費用も異なりますが、1本あたり10〜50万円が相場となります」（https://liskul.com/recruitment-site-production-99711）
+  - 「採用動画1本あたり30〜150万円が相場です」（https://shikari.co.jp/blog/recruitment-site-cost/）
+  - 「コンテンツ1本あたり5〜35万円」（https://n-works.link/blog/webdesign/recruitment-website-cost-price）
+- どう買われるか：
+  - 「発注事例のご紹介」（https://web-kanji.com/posts/recruit-site-price）
+  - 「Web幹事 サービスご紹介資料」（https://web-kanji.com/posts/recruit-site-price）
+  - 「&「理想のページ構成」紹介」（https://web-kanji.com/posts/recruit-site-price）
+  - 「参考として、実際のデータも紹介しましょう」（https://web-kanji.com/posts/recruit-site-price）
+  - 「採用サイトの相場と費用別の特徴について、以下に詳しく紹介しましょう」（https://web-kanji.com/posts/recruit-site-price）
+  - 「代表的なツールとして「engage」「リクオプ」「採用係長」の3つを紹介します」（https://web-kanji.com/posts/recruit-site-price）
+  - 「利用料：要お問い合わせ」（https://web-kanji.com/posts/recruit-site-price）
+  - 「利用料は要お問い合わせです」（https://web-kanji.com/posts/recruit-site-price）
+  - 「採用サイトを無料・格安で作成できるツールを一挙紹介！」（https://web-kanji.com/posts/recruit-site-price）
+  - 「採用サイト制作に関して3社の相見積もりを依頼する」（https://web-kanji.com/posts/recruit-site-price）
+  - 「ここでは実際に採用サイトの料金表を公開している制作会社の事例をご紹介します」（https://web-kanji.com/posts/recruit-site-price）
+  - 「このような採用サイトをつくれる制作会社の相見積もりを依頼する」（https://web-kanji.com/posts/recruit-site-price）
+  - 「30万円以下で採用サイトをつくれる制作会社の相見積もりを依頼する」（https://web-kanji.com/posts/recruit-site-price）
+  - 「51～100万円で採用サイトをつくれる制作会社の相見積もりを依頼する」（https://web-kanji.com/posts/recruit-site-price）
+  - 「101～151万円で採用サイトをつくれる制作会社の相見積もりを依頼する」（https://web-kanji.com/posts/recruit-site-price）
+- 前例の会社（製造業特化）：
+  - 「初期費用がほぼゼロで採用サイトを立ち上げられるため、創業間もないスタートアップや小規模企業に向いています」（https://web-kanji.com/posts/recruit-site-price）
+  - 「株式会社TIDO」（https://web-kanji.com/posts/recruit-site-price）
+  - 「コダワリビジネスコンサルティング 株式会社 採用サイト」（https://web-kanji.com/posts/recruit-site-price）
+  - 「Who I 株式会社」（https://web-kanji.com/posts/recruit-site-price）
+  - 「株式会社ウッディパーツ採用サイト」（https://web-kanji.com/posts/recruit-site-price）
+  - 「株式会社ウエブル」（https://web-kanji.com/posts/recruit-site-price）
+  - 「静鉄タクシー株式会社 採用サイト」（https://web-kanji.com/posts/recruit-site-price）
+  - 「穂の国エンジニアリング株式会社」（https://web-kanji.com/posts/recruit-site-price）
+  - 「株式会社セレブリックス様 採用サイト」（https://web-kanji.com/posts/recruit-site-price）
+  - 「株式会社NOBU」（https://web-kanji.com/posts/recruit-site-price）
+  - 「インフォグラフィック（データで見る〇〇株式会社のようなコンテンツ）」（https://web-kanji.com/posts/recruit-site-price）
+  - 「crage株式会社」（https://web-kanji.com/posts/recruit-site-price）
+  - 「株式会社できるくん代表取締役」（https://web-kanji.com/posts/recruit-site-price）
+  - 「2015年にWeb制作会社として株式会社ユーティルを設立」（https://web-kanji.com/posts/recruit-site-price）
+  - 「- エキサイト株式会社 -」（https://goleadgrid.com/blog/recruitment-site-production）
+
+## 社員インタビュー・技術者取材記事の制作費用（employee interview article production cost recruitment）
+- 文脈：④単価
+- 採用にいくら払うか：
+  - 「取材、写真撮影、記事執筆までを一括で依頼する場合、記事1本あたり5万円〜15万円程度が目安となります」（https://note.com/mftk/n/nff0c21572be2）
+  - 「年間契約の場合は、10％の割引を行っております(経費は別途実費請求)」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「クラウドソーシングを利用すれば1万円～/本、記事作成代行会社なら2～5万円/本、マーケティング支援会社なら5～10万円/本が記事作成の相場」（https://www.conmark.jp/column/interview-production-agency）
+  - 「採用広報戦略の全体像｜年間応募数1,000件・Wantedlyフォロワーランキング7位のGIGが解説」（https://www.conmark.jp/column/interview-production-agency）
+  - 「２. 【コスパが良い】業界平均の6-7割の時間単価でのご提供を実現」（https://zeroxeed.co.jp/online-assistant/5596/）
+  - 「フリーライター（3〜8万円）」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「記事制作代行会社（5〜20万円）」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「マーケティング支援会社（5〜10万円）」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「撮影が入る場合（+3〜5万円が目安）」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「1,000円～1万円」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「5,000円〜3万円」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「2万円～5万円」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「5万円～10万円」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「2万～5万円」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「5万～10万円」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+- 採用広報・採用サイトの単価：
+  - 「社員インタビューを依頼する2つの方法」（https://note.com/mftk/n/nff0c21572be2）
+  - 「【社内編】社員インタビューの依頼から記事公開までの5ステップ」（https://note.com/mftk/n/nff0c21572be2）
+  - 「ブランディングや採用広報など、継続的な取材記事の効果を高めるためには、半年や1年以上の更新(制作)をおすすめしております」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「インタビュー記事の外注費用の相場は？9社の料金を比較して解説」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「執筆料金の1/3」（https://yosca.jp/writing/interview/）
+  - 「執筆料金の2/3」（https://yosca.jp/writing/interview/）
+  - 「クラウドソーシングを利用すれば1万円～/本、記事作成代行会社なら2～5万円/本、マーケティング支援会社なら5～10万円/本が記事作成の相場」（https://www.conmark.jp/column/interview-production-agency）
+  - 「株式会社センターグローブが提供する取材記事代行サービス「ミキタス」は、25,000円～と低価格の取材費用が魅力」（https://www.conmark.jp/column/interview-production-agency）
+  - 「採用広報戦略の全体像｜年間応募数1,000件・Wantedlyフォロワーランキング7位のGIGが解説」（https://www.conmark.jp/column/interview-production-agency）
+  - 「企業に外注する場合と、個人に外注する場合でも相場は変わりますが、個人に外注する場合は、企業に外注する6〜8割程度が相場でしょう」（https://zeroxeed.co.jp/online-assistant/5596/）
+  - 「クラウドソーシングを利用してインタビュー記事を作成する場合、基本的に料金は1記事あたり10,000円からとなりますが、価格には幅があります」（https://zeroxeed.co.jp/online-assistant/5596/）
+  - 「代行会社にインタビュー記事の作成を依頼する場合、一般的な料金相場は1記事あたり20,000円から50,000円です」（https://zeroxeed.co.jp/online-assistant/5596/）
+  - 「料金に幅がある理由は、記事の文字数、インタビューに要する時間、作成する記事の数量によって1記事あたりの費用が異なるためです」（https://zeroxeed.co.jp/online-assistant/5596/）
+  - 「インタビュー記事の外注費用の相場は？9社の料金を比較して解説 | ライター仕事のお悩み解決屋」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「インタビュー記事の外注費用の相場は？9社の料金を比較して解説」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+- 継続して払うか：
+  - 「コンテンツマーケティング支援に強みを持ち、採用オウンドメディアの運用実績が豊富」（https://note.com/mftk/n/nff0c21572be2）
+  - 「コンテンツマーケティングのプロが、採用広報の戦略設計からコンテンツ制作、SNS運用までを一気通貫で支援します」（https://note.com/mftk/n/nff0c21572be2）
+  - 「SEOや広告運用、CVR改善、コンテンツ設計など、現場で試したことを記録します」（https://note.com/mftk/n/nff0c21572be2）
+  - 「年間契約の場合は、10％の割引を行っております(経費は別途実費請求)」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「年間契約とチケット制はいずれか片方のみの適用となります」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「ブランディングや採用広報など、継続的な取材記事の効果を高めるためには、半年や1年以上の更新(制作)をおすすめしております」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「下請代金支払遅延等防止法の運用基準」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「取材が必要な記事を継続的に作りたい」（https://yosca.jp/writing/interview/）
+  - 「→ 顧客事例・社員インタビュー・社内報など、取材ベースのコンテンツを安定して継続納品することが可能です」（https://yosca.jp/writing/interview/）
+  - 「SNSコンテンツ制作・運用」（https://yosca.jp/writing/interview/）
+  - 「Web広告・SNS広告運用」（https://www.conmark.jp/column/interview-production-agency）
+  - 「LINE運用」（https://www.conmark.jp/column/interview-production-agency）
+  - 「また継続的に依頼する場合は割引が適用される場合もあるので、事前に相談してみましょう」（https://www.conmark.jp/column/interview-production-agency）
+  - 「を持ち、オウンドメディア構築のための制作はもちろん、予算策定、体制構築、KPI設定、マーケティング戦略、さらには企画・運用含めたプロジェクト全体の戦略構築を行い、オウンドメディアが成長曲線を描くためのマーケティング支援を行っています」（https://www.conmark.jp/column/interview-production-agency）
+  - 「航空会社や決済サービス企業など多種多様なクライアントのメディア運用やグロースを支援してきた実績があります」（https://www.conmark.jp/column/interview-production-agency）
+- 作る側の原価：
+  - 「取材、写真撮影、記事執筆までを一括で依頼する場合、記事1本あたり5万円〜15万円程度が目安となります」（https://note.com/mftk/n/nff0c21572be2）
+  - 「100名以上のライターが在籍しており、地方の取材や専門分野のインタビューにも柔軟に対応できます」（https://note.com/mftk/n/nff0c21572be2）
+  - 「採用率8%という厳選されたライターと、満足度96%を誇る専属ディレクターによる手厚いサポートが魅力です」（https://note.com/mftk/n/nff0c21572be2）
+  - 「2013年にキャスティングディレクターやライターとしてフリーでの活動を開始」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「エキスパートは、YMYL(健康・金融・法律など、ユーザーのお金や人生に大きな影響を与える)領域に特化した専門ライターをアサインする場合や、文字おこしから10〜20分の1程度まで要約するなど高度な文章力が求められる場合などの費用です」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「インタビュー記事の外注費用の相場は？9社の料金を比較して解説」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「株式会社センターグローブが提供する取材記事代行サービス「ミキタス」は、25,000円～と低価格の取材費用が魅力」（https://www.conmark.jp/column/interview-production-agency）
+  - 「インタビュー記事の外注費用の相場は？9社の料金を比較して解説 | ライター仕事のお悩み解決屋」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「インタビュー記事の外注費用の相場は？9社の料金を比較して解説」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「本記事では、主な会社9社の料金を比較しながら、インタビュー記事制作の外注費用の相場を考察します」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「フリーライター（3〜8万円）」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「インタビュー記事制作の外注費用が上がる3つのケース」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「ライターエージェント：15,000円〜」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「文字単価 4.5円〜」（https://shwat.jp/ultra/introduction-example-interview/）
+  - 「ライター2,000名登録の厚み！」（https://www.four-class.jp/service/interview-service/）
+- どう買われるか：
+  - 「例えば、単に社員を紹介するだけでなく、「採用ブランディングの観点から、こんな切り口の記事はいかがでしょうか」といった、より効果的な見せ方を提案してくれるかどうかが一つの指標です」（https://note.com/mftk/n/nff0c21572be2）
+  - 「問い合わせに対する返信の速さや丁寧さ、こちらの質問に的確に答えてくれるかなど、実際のやり取りの中に担当者の姿勢は表れます」（https://note.com/mftk/n/nff0c21572be2）
+  - 「ここからは、前述した選び方のポイントを踏まえ、社員インタビュー代行で実績が豊富な会社やサービスを5社に絞ってご紹介します」（https://note.com/mftk/n/nff0c21572be2）
+  - 「求職者からの問い合わせ率を最大化することを目標に掲げ、採用に直結するコンテンツ企画・制作を得意としています」（https://note.com/mftk/n/nff0c21572be2）
+  - 「社員インタビューだけでなく、カルチャー紹介記事や働き方紹介記事など、様々な切り口のコンテンツ制作実績が豊富です」（https://note.com/mftk/n/nff0c21572be2）
+  - 「クリエイターへのお問い合わせ」（https://note.com/mftk/n/nff0c21572be2）
+  - 「お問い合わせはこちらから」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「お問い合わせ」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「〇取引先や自社の社長のインタビューで、」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「問い合わせにつながらない」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「【テレビ局さま】自社のマーケティングをするための事例紹介記事を制作」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「■取材記事(街歩き記事・展示会取材・セミナーレポートなど)」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「【生活雑貨メーカーさま】展示会での記録写真と、配布資料用でレポート作成」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「問い合わせを精査し、依頼内容を詳しく確認いたします」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「東京商工会議所(」（https://www.navy-p.com/service/service_contents_interview.html）
+- 前例の会社（製造業特化）：
+  - 「株式会社エムフロ(クラウディア取材代行サービス)」（https://note.com/mftk/n/nff0c21572be2）
+  - 「未知株式会社」（https://note.com/mftk/n/nff0c21572be2）
+  - 「サムライト株式会社」（https://note.com/mftk/n/nff0c21572be2）
+  - 「株式会社センターグローブ (ミキタス)」（https://note.com/mftk/n/nff0c21572be2）
+  - 「株式会社ストル」（https://note.com/mftk/n/nff0c21572be2）
+  - 「株式会社ネイビープロジェクト」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「売上向上が図れる(コンテンツ制作の提案ができる)」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「断っていた案件も自社の業績・売上に」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「2015年に当社を設立」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「iRobot Corporation、株式会社イトーヨーカ堂、eBay Japan合同会社、大塚食品株式会社、大塚製薬株式会社、株式会社学研プラス、カドカワ株式会社、KDDI株式会社、株式会社講談社、株式会社サイバーエージェント、サッポロビール株式会社、株式会社セブン‐イレブン・ジャパン、株式会社ダスキン、株式会社テレビ東京コミュニケーションズ、東急リバブル株式会社、株式会社東洋経済新報社、凸版印刷株式会社、株式会社日本経済新聞社、パーソルキャリア株式会社、白鶴酒造株式会社、株式会社博報堂、HARIO株式会社、ブラザー工業株式会社、株式会社メニコン、株式会社ヨークベニマル、株式会社リクルートホールディングス など」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「株式会社ネイビープロジェクト navy project Inc.」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「株式会社GIG」（https://www.conmark.jp/column/interview-production-agency）
+  - 「▲出典：株式会社GIG」（https://www.conmark.jp/column/interview-production-agency）
+  - 「株式会社GIGの事例インタビュー、社員インタビュー記事作成サービスの詳細は以下からご覧いただけます」（https://www.conmark.jp/column/interview-production-agency）
+  - 「株式会社アナザーパス」（https://www.conmark.jp/column/interview-production-agency）
+- 社数（規模別）：記載なし（読んだ31頁・検索13回）
+- 採用難（公的統計）：記載なし（読んだ31頁・検索13回）
+
+## 採用動画・採用パンフレットの制作費用（製造業）（recruitment video brochure cost manufacturers）
+- 文脈：④単価
+- 社数（規模別）：
+  - 「厳選100人以上とのデザイナーネットワークを活用し、お客様にふさわしいパンフレットをコンペで提案」（https://100pamphlet.jp/pamphlet/pamph-recruit/）
+- 採用難（公的統計）：
+  - 「建設会社の採用サイト事例15選｜人手不足を解消する応募導線設計」（https://cresai.nashplan.jp/blog/?p=2488）
+  - 「中小企業における製造業の従業員数過不足DIも2025年はマイナス17.9で、新型コロナウイルス感染症の拡大前(2019年)に近い人手不足の水準に戻っています(※1)」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+- 採用にいくら払うか：
+  - 「比較的多いレンジは「150万円」～「300万円」ですが、もちろんこれ以下もこれ以上も存在します」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「20万円～50万円（撮影1日の場合）」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「50万円～100万円（撮影1日の場合）」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「100万円～150万円（撮影1日の場合）」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「150万円～200万円（撮影1日の場合）」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「20万円～50万円」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「50万円～100万円」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「100万円～150万円」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「150万円～200万円」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「▼弊社では、28万円から制作可能な、社員インタビュー動画制作パッケージをご用意しています」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「50万円から100万円の予算では、ナレーションや特殊な演出がないオーダーメイドの動画が制作できます」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「100万円から150万円の予算では、プロのナレーターを起用したり、ハイクオリティな撮影機材を用いたりすることができます」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「150万円から200万円の予算範囲では、ハイクオリティな撮影機材や特殊な演出を駆使し、視覚的にインパクトのあるコンセプトムービーやブランドムービーなどを制作できます」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「平均すると修正は2回程度が一般的で、ほとんどの場合はテロップや明るさについてです」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-saiyo-dougaseisaku-ryokin-191011/）
+  - 「30万円以下の相場」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-saiyo-dougaseisaku-ryokin-191011/）
+- 採用広報・採用サイトの単価：
+  - 「【事例11選】製造業に最適な採用動画とは？成功事例11選と制作のポイントを解説」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「採用動画制作の費用の相場は？（撮影1日の場合）」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「20万円～50万円（撮影1日の場合）」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「50万円～100万円（撮影1日の場合）」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「100万円～150万円（撮影1日の場合）」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「150万円～200万円（撮影1日の場合）」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「採用動画の費用には、主に下記6つの要素がかかわってきます」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「1．採用動画とは？」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-saiyo-dougaseisaku-ryokin-191011/）
+  - 「2．採用動画制作の相場と料金」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-saiyo-dougaseisaku-ryokin-191011/）
+  - 「3．採用動画制作会社」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-saiyo-dougaseisaku-ryokin-191011/）
+  - 「4．採用動画の制作事例」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-saiyo-dougaseisaku-ryokin-191011/）
+  - 「採用動画の作り方と制作会社の選び方｜費用相場と効果【2026年版】」（https://anima.tokyo/saiyo-douga-seisaku/）
+  - 「1本20〜80万円が中心相場」（https://anima.tokyo/saiyo-douga-seisaku/）
+  - 「1本20〜80万円」（https://anima.tokyo/saiyo-douga-seisaku/）
+  - 「10〜30万円」（https://anima.tokyo/saiyo-douga-seisaku/）
+- 継続して払うか：
+  - 「YouTube開設・運用支援」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「更新日：2025年5月13日」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「イベントやウェブサイト上でも初見のユーザーの関心をひき、短時間で内容が理解でき、次年度以降の更新がしやすいコンテンツとなりました」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「採用サイトにはショートバージョンを掲載し、説明会ではフルバージョンを流すなど、用途に応じて動画を分けて運用されるケースも多く存在します」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「社員インタビュー（先輩インタビュー）を質問ごとに区切り、1本あたりを短くまとめることでショート動画としての運用が可能」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「東京の採用に強いIndeed運用代行【株式会社ネオキャリア】給与...」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-saiyo-dougaseisaku-ryokin-191011/）
+  - 「Web制作歴9年・SNS運用歴4年｜最終更新」（https://anima.tokyo/saiyo-douga-seisaku/）
+  - 「ショートを継続的に出し続ける」（https://anima.tokyo/saiyo-douga-seisaku/）
+  - 「会社紹介ムービーのように長く使う1本なら制作会社、TikTokやリールで継続発信するなら定額制のほうが1本あたりは下がります」（https://anima.tokyo/saiyo-douga-seisaku/）
+  - 「「更新し続けられる状態」」（https://anima.tokyo/saiyo-douga-seisaku/）
+  - 「継続的に更新できる体制」（https://anima.tokyo/saiyo-douga-seisaku/）
+  - 「“採用の目的”に沿った構成と継続性が応募数を分ける」（https://anima.tokyo/saiyo-douga-seisaku/）
+  - 「現場・技術・働く人を短尺で見せる採用向けTikTokショート動画を企画・制作し、継続発信」（https://anima.tokyo/saiyo-douga-seisaku/）
+  - 「縦型ショートで発信を継続した実績」（https://anima.tokyo/saiyo-douga-seisaku/）
+  - 「採用文脈以外でも、縦型ショートの運用設計から投稿までを継続支援しています」（https://anima.tokyo/saiyo-douga-seisaku/）
+- 作る側の原価：
+  - 「社員インタビュー（先輩インタビュー）を質問ごとに区切り、1本あたりを短くまとめることでショート動画としての運用が可能」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「会社紹介ムービーのように長く使う1本なら制作会社、TikTokやリールで継続発信するなら定額制のほうが1本あたりは下がります」（https://anima.tokyo/saiyo-douga-seisaku/）
+  - 「「採用動画の制作にかかった予算は1本あたりどれくらいですか？」（n=500）と質問したところ、「5万円未満」が13.6%、「5万円～10万円未満」が17.4%、「10万円～30万円未満」が25.0%、「30万円～50万円未満」が19.4%、「50万円～100万円未満」が13.0%、「100万円～300万円未満」が7.2%、「300万円以上」が4.4%という回答となりました」（https://mvsk.jp/column/110148）
+  - 「ページ構成と原稿料は、1ページ単位で1〜2万円ほど、自社で原稿を準備する場合と、制作会社に依頼する場合で増減します」（https://cresai.nashplan.jp/blog/?p=2488）
+  - 「1本あたりの制作費が最も低く、複数本作りやすいのが特徴です」（https://stokedbase.jp/column/recruit-video-price/）
+  - 「: 半日〜1日(1本あたり)」（https://stokedbase.jp/column/recruit-video-price/）
+  - 「3〜5本をまとめて依頼すれば、1本あたりの単価はさらに下がります」（https://stokedbase.jp/column/recruit-video-price/）
+  - 「1本あたりの費用が安い」（https://stokedbase.jp/column/recruit-video-price/）
+  - 「複数の動画を作る場合も、同じロケ地で撮影できる企画をまとめて1日に集約すると、1本あたりの単価が下がります」（https://stokedbase.jp/column/recruit-video-price/）
+  - 「3〜5本をまとめて発注すると、1本あたりの企画・ディレクション費が下がります」（https://stokedbase.jp/column/recruit-video-price/）
+  - 「複数本をまとめて制作することで1本あたりの単価を下げられます」（https://stokedbase.jp/column/recruit-video-price/）
+- どう買われるか：
+  - 「企業・会社紹介動画」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「工場紹介動画」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「製品・サービス紹介動画」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「展示会・イベント動画」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「製造業・製薬、医療機器メーカーに特化した動画制作会社の株式会社エルモがご紹介します」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「採用イベントでの企業紹介やオンラインの説明会など、自社を説明しなければいけない機会は多くなりますので、」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「採用動画の制作における成功事例をご紹介します」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「新卒採用向けに、技術職の業務内容を紹介する採用動画」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「でもご紹介しています」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「高機能ボルトメーカーの企業紹介動画」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「ニッチ分野でトップシェアを誇る企業の紹介動画」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「冒頭パートはビジョン・メッセージを表現、また事業部紹介ではアニメーションを採用、表現内容に応じて表現手法変えるなど変化にとんだ構成としました」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「自社製品の立旋盤ができるまでの流れを追いかけ、製造プロセスやその中でどのような業務があるのかをわかりやすく紹介しています」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「求職者の学生向けに、自社の事業領域やその特長、強み、グローバル拠点などのポイントを具体的なデータや数字を交えながら紹介」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「また、この採用動画は「会社概要」のほかに「業務紹介」「オフィスツアー」「先輩社員の質疑応答」「部門長のメッセージ」の5つの要素から構成されており、採用プロセスに合わせて使い分けられています」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+- 前例の会社（製造業特化）：
+  - 「工場紹介動画」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「製造業・製薬、医療機器メーカーに特化した動画制作会社の株式会社エルモがご紹介します」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「化学工場の共沸塔(タワー)製造のプロジェクトを取り上げ、設計や工事監理にかかわる3名の社員に密着」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「ターゲットである学生に端的に伝えるため、カジュアルなグラフィックも多用し、会社説明会や工場見学会、WEBサイトなどさまざまなシチュエーションでご活用いただいています」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「その過程で工場や事業所でイメージ撮影も実施し、ドローン空撮も交えて2分ほどのコンセプトムービーもあわせて制作しました」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「また、5つのパートに分け、組みかえることで営業、採用、工場見学など多用途に活用できるよう設計しました」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「創業100年を超える化学メーカーの採用動画」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「特に工場はそのイメージから「単純作業だと思ったのに複雑な作業が多い」「思ったよりも仕事がキツい」といった悪い意味でのギャップが生まれやすいため、先輩インタビューの中で大変な部分にも触れてもらう、リアルな現場を映し出すなど、見る人にイメージだけが先行しないように配慮する必要があります」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「動画制作サービス「伝わる動画制作」を運営する株式会社エルモ 代表取締役社長」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「株式会社エルモについて」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「株式会社エルモは、BtoB製造業や医療機器・医薬メーカーに特化した大阪の動画制作会社で、鉄鋼や非鉄金属、機械、電力、製薬、医療など幅広い分野で500社以上の実績があります」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「株式会社ネットワークバリューコンポネンツ様」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「株式会社サークフィット様」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「株式会社三和製作所様」（https://www.funnypro.net/knowhow/recruit-movie-price）
+  - 「株式会社アクティス様」（https://www.funnypro.net/knowhow/recruit-movie-price）
+- 検索結果の抜粋：
+  - 「【事例11選】 製造業 に最適な 採用動画 とは？成功事例11選と ... — 【事例11選】 製造業 に最適な 採用動画 とは？成功事例11選と ... 株式会社エルモ https://www.elmo-c.jp > ホーム > ブログ > お役立ち情報」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「【 製造業 7社を比較】 採用パンフレット の構成例｜掲載内容 ... — 【 製造業 7社を比較】 採用パンフレット の構成例｜掲載内容 ... 株式会社ゼンリンプリンテックス https://zpx.co.jp > お役立ち記事集 > 紙媒体(印刷物)」（https://zpx.co.jp/article/recruit-pamphlet-comparison/?srsltid=AYCX9vK6qvgKUaZGDqbym0l5AG_TEC19M1jpjWvR0G8LcG5TPjVYpZpJ）
+  - 「【 事例 11選】 製造業 に最適な 採用動画 とは？成功 事例 11選と ... — 【 事例 11選】 製造業 に最適な 採用動画 とは？成功 事例 11選と ... 株式会社エルモ https://www.elmo-c.jp > ホーム > ブログ > お役立ち情報」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+  - 「製造業 の 採用動画事例 5選！応募数を伸ばした成功 事例 と 制作 ... — 製造業 の 採用動画事例 5選！応募数を伸ばした成功 事例 と 制作 ... 株式会社moovy https://company.moovy.jp > ホーム > 採用動画」（https://company.moovy.jp/column/2249/）
+  - 「製造業 での 採用動画 成功 事例 ｜応募者を惹きつけるポイント5選 — 製造業 での 採用動画 成功 事例 ｜応募者を惹きつけるポイント5選 有限会社北麓 https://hoku6.co.jp > コラム」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+
+## 採用広報・採用ブランディングの月額運用と継続契約（recruitment branding retainer monthly fee）
+- 文脈：⑤継続
+- 社数（規模別）：
+  - 「累計支援社数90社、採用広報コンテンツ制作2,500本超えの実績がある採用広報支援サービスです」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「実績社数：90社以上」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+- 採用難（公的統計）：
+  - 「厚生労働省「一般職業紹介状況」でも有効求人倍率は1倍を超える売り手市場が続いており、待ちの採用では応募が集まりにくい状況です」（https://seisyunkouken.com/recruitment-branding-companies/）
+  - 「参考データ出典：厚生労働省「令和4年雇用動向調査」、HR総研「採用活動実態調査2023」、帝国データバンク「人手不足に対する企業の動向調査（2023年）」」（https://infinity-agent.co.jp/lab/web-marketing/recruitment-mktg/marketing-cost/）
+  - 「リクルートワークス研究所「第42回 ワークス大卒求人倍率調査（2026年卒）」」（https://digitaland.co.jp/yobikomu/column/recruitment-branding-companies/）
+  - 「によると、従業員300人未満企業の大卒求人倍率は8.98倍と、5,000人以上企業の0.34倍を大きく上回っています」（https://digitaland.co.jp/yobikomu/column/recruitment-branding-companies/）
+- 採用にいくら払うか：
+  - 「月額25万円」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「費用：月額25万円（資料に詳細記載あり）」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「採用ブランディングの費用相場は、一般的に50万〜500万円程度の幅があるとされています」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「採用ブランディングを小規模に始める場合、50万〜100万円程度が目安となるでしょう」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「採用コンセプトの設計から採用サイトや動画の制作までを一貫して依頼するケースでは、200万〜300万円程度の予算が必要になります」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「企業全体の採用イメージを刷新する大規模リブランディングでは、300万〜500万円以上の予算を見込む必要があるでしょう」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「採用コンセプトの設計にかかる費用は、30万〜100万円程度が目安でしょう」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「採用キャッチコピーやブランドメッセージの開発は、20万〜50万円程度が相場です」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「採用サイトの制作費は、80万〜300万円程度が相場となっています」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「テンプレートを活用したシンプルなサイトであれば30万〜50万円程度で対応できる場合もあるでしょう」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「一方でオリジナルデザインにこだわり、インタビューコンテンツを充実させる場合は100万円以上の予算が必要です」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「その場合は合計で200万〜500万円程度の予算が見込まれるでしょう」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「採用動画の制作費は、30万〜300万円程度が一般的な価格帯です」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「企業紹介動画であれば50万円前後から制作可能ですが、社員密着型のドキュメンタリー形式にすると100万円を超えることが多い傾向にあります」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「SNSを活用した採用広報の運用を外部に委託する場合、月額10万〜50万円程度が目安でしょう」（https://allhero.co.jp/blog/hr-branding-cost/）
+- 採用広報・採用サイトの単価：
+  - 「【採用ブランディングに悩む人事へ】課題から選ぶ、採用広報支援サービス5選 | 人事のプロを支援するHRプロ」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「【採用ブランディングに悩む人事へ】課題から選ぶ、採用広報支援サービス5選」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「そこで本記事では、採用ブランディングや採用広報を支援する5つのサービスをHRプロ編集部が厳選」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「・応募数2倍の実績有！その先の成果にこだわる、採用広報支援サービス（株式会社OTOGI）」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「応募数2倍の実績有！その先の成果にこだわる、採用広報支援サービス」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「月額25万円」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「採用ブランディングの費用相場は、一般的に50万〜500万円程度の幅があるとされています」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「採用ブランディングを小規模に始める場合、50万〜100万円程度が目安となるでしょう」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「採用広報代行おすすめ12選｜メリットや注意点・会社の選び方を解説」（https://mizusaki-inc.com/knowledge/article94）
+  - 「採用広報代行のメリットと"5つの注意点"」（https://mizusaki-inc.com/knowledge/article94）
+  - 「採用広報代行を導入する3つのメリット」（https://mizusaki-inc.com/knowledge/article94）
+  - 「【要注意】採用広報代行の導入前に知るべき"5つの注意点"」（https://mizusaki-inc.com/knowledge/article94）
+  - 「4. 株式会社ベイジ（採用サイト制作に強い）」（https://seisyunkouken.com/recruitment-branding-companies/）
+  - 「7. 株式会社プルークス（採用動画・映像）」（https://seisyunkouken.com/recruitment-branding-companies/）
+  - 「8. Wantedly（ビジョン共感型の採用広報）」（https://seisyunkouken.com/recruitment-branding-companies/）
+- 継続して払うか：
+  - 「採用ブランディングの必要性を感じながらも、自社の魅力をどう言語化すべきかわからない、発信はしているが応募や歩留まりの改善に繋がらない、そもそも運用に割くリソースがないなど、抱える課題は企業によって様々です」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「広報戦略の立案からコンテンツ制作、継続的な発信を、限られた社内体制ですべて行うのは決して容易ではありません」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「魅力の整理・言語化から相談したい、候補者の歩留まりを改善したい、SNSやオウンドメディアの運用を任せたいなど、各課題に沿ったサービスを紹介します」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「自社の課題や目的に照らして、気になったサービスがあれば、詳細な料金プランや運用イメージ・事例などを記載している資料をその場でダウンロードが可能です」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「・‟初期費用0円＆丸投げOK”の採用特化型メディア運用サービス（株式会社ワク・ワク・ワークス）」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「⇒こんな課題に：SNSを運用しているものの応募につながらない」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「”初期費用0円＆丸投げOK”の採用特化型メディア運用サービス」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「月額25万円」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「プロジェクト開始後もデータを基にした伴走型の改善提案があるため、社内に専門の広報ノウハウがなくても、戦略から制作、運用改善まで一貫して任せることが可能」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「ダイレクトリクルーティングの運用やエージェントとの連携など、工数のかかる採用実務の伴走も可能なため、「戦略は立てたが実行する人手がない」という企業にも最適」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「・スカウトやエージェントの運用まで手が回らず、十分に活用できていない」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「・質の高い採用記事を継続発信したいが、取材・執筆・制作の人手が足りない」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「費用：月額25万円（資料に詳細記載あり）」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「最大の魅力は、社内のシステム部門やデザイン担当のリソースを割かずに、本格的な採用オウンドメディアを構築・運用できる点」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「・採用オウンドメディアを立ち上げたいが、構築や運用に手間をかけられない」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+- どう買われるか：
+  - 「魅力の整理・言語化から相談したい、候補者の歩留まりを改善したい、SNSやオウンドメディアの運用を任せたいなど、各課題に沿ったサービスを紹介します」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「詳細はお問い合わせください」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「各サービスの特徴や資料の内容を具体的に紹介」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「費用：要問い合わせ」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「▶ 提供企業に問い合わせる」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「＼このページで紹介しているサービス資料はまとめてダウンロードできます！／」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「・採用ブランディングの事例紹介」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「HR/人事関連の資料請求・お問い合わせ」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「お問い合わせ」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「お問い合わせ」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「人材紹介サービス (関連会社運営)」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「人材紹介費との比較」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「企業紹介動画であれば50万円前後から制作可能ですが、社員密着型のドキュメンタリー形式にすると100万円を超えることが多い傾向にあります」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「人材紹介会社を利用する場合、採用した人材の年収の30〜35%が手数料として発生するのが一般的です」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「たとえば年収500万円の人材を1名採用すると、150万〜175万円の紹介手数料がかかる計算になり、10名を採用すれば総額は1,500万円以上に上ります」（https://allhero.co.jp/blog/hr-branding-cost/）
+- 前例の会社（製造業特化）：
+  - 「・「選ばれる会社」になるための採用ブランディング（株式会社カケハシスカイ）」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「・採用候補者の体験をベースにした「採用ブランディング+RPOサービス」（Beyondge株式会社）」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「・応募数2倍の実績有！その先の成果にこだわる、採用広報支援サービス（株式会社OTOGI）」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「・採用ブランディングサービス「MyTalent Brand」（株式会社TalentX）」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「・‟初期費用0円＆丸投げOK”の採用特化型メディア運用サービス（株式会社ワク・ワク・ワークス）」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「株式会社カケハシスカイ」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「Beyondge株式会社」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「株式会社OTOGI」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「株式会社TalentX」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「株式会社ワク・ワク・ワークス」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「SMBCコンサルティング株式会社」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「ProFuture株式会社」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
+  - 「採用ブランディングの費用相場はいくら？料金内訳と失敗しない発注方法を徹底解説｜オールイン株式会社」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「オールイン株式会社の採用コンサルサービス「」（https://allhero.co.jp/blog/hr-branding-cost/）
+  - 「HRブランド戦略・HR戦略コンサルティングを中心に500社以上を支援するオールイン株式会社の代表取締役」（https://allhero.co.jp/blog/hr-branding-cost/）
+- 作る側の原価：記載なし（読んだ33頁・検索13回）
+
+## 取材ライター・撮影の外注単価（freelance interview writer photographer rates Japan）
+- 文脈：⑥原価
+- 社数（規模別）：
+  - 「記事制作数1億本以上、取引社数5,300社超の実績」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+- 採用にいくら払うか：
+  - 「1万〜5万円」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「2万〜5万円」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「5万〜10万円」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「1万〜3万円」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「60分1.2万〜1.8万円」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「半日 約5万円」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「1日 7〜15万円」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「（一般的には5,000〜3万円）」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「0〜1万円（一般）」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「1〜10万円（専門家・著名人）」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「3万〜6万円」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「1万〜2万円」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「2万〜4万円」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「5万〜8万円」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「1,500～5万円」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+- 採用広報・採用サイトの単価：
+  - 「業務に「インタビュー・取材記事」を含むライター1,841名を、「対応可能なテーマ」でクロス集計しました」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「※ 集計元：業務に「インタビュー・取材記事」を含む1,841名を母集団とし、「対応可能テーマ」（全30テーマ・複数選択）を集計」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「※ 集計元：業務に「インタビュー・取材記事」を含む1,841名を母集団とし、「対応可能な業務」（複数選択）の併用申告を集計」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「1記事あたりいくらで取材記事を発注できる？」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「DATA 08 ／ 取材歴別の単価相場」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「1記事相場（2,500字）」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「1記事相場は「文字単価中央値 × 2,500字」で算出」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「1,500～5万円」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+  - 「ホームページ・ブログ記事の文字単価相場：0.8～2円程度」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「インタビュー記事の文字単価相場：10円以上」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「専門的なコラム記事の文字単価相場：1〜5円以上」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「SEO記事の文字単価相場：3～6円以上」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「短編記事の文字単価相場：1～5円」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「中編記事の文字単価相場： 1〜10円」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「長編記事の文字単価相場： 2〜20円以上」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+- 継続して払うか：
+  - 「お金・資産運用」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「一方でIT・通信（790名）、教育・学術（784名）、お金・資産運用（664名）などBtoB・専門領域も各600名以上を確保しており、BtoB／BtoCいずれの取材にも対応できます」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「取材内容をブログ記事として継続発信」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「オウンドメディアの定期更新に」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「取材記事の切り出しでX／Instagram投稿まで運用代行」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「社内インタビューでスタッフ教育、専門メディアの安定運用など、用途は多岐にわたります」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「継続公開ペース」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「出版経験者を含む取材ライター3名を採用し、安定運用体制を構築」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「マッチング率／継続率」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「初期費用・月額費用」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「記事制作のみならず戦略設計から運用支援まで、ワンストップで対応します」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+  - 「Webメディア・Webマガジン定期更新の撮影・取材代行」（https://www.cameraman-mart.jp/interview/）
+  - 「Webメディア・マガジンの更新負担を低減することで、スムーズなメディア運営が可能となります」（https://www.cameraman-mart.jp/interview/）
+  - 「制作・運用はこちら」（https://www.cameraman-mart.jp/interview/）
+  - 「更新日：2026.01.20」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+- 作る側の原価：
+  - 「SUMMARY ／ ミライトマッチの取材ライター3つの数字」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「5年以上のベテラン取材ライター」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「取材歴5年以上のライターが在籍（10年以上は307名）」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「1記事¥10,000〜で対応できる取材ライター」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「0人のライターが見つかりました」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「取材ライター1,841名のプロフィール登録情報から集計した独自統計です（2026年7月時点）」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「録音された音源をもとに記事を制作する場合、ライターに直接依頼すると10,000円～30,000円、制作代行会社に依頼すると30,000円～50,000円が一般的な相場です」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+  - 「取材と記事制作をセットで依頼する場合は費用が高くなり、ライターへの直接依頼で10,000円～50,000円、制作代行会社では30,000円～100,000円程度となります」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+  - 「特に専門性の高いテーマや業界の記事では、専門知識を持つライターが必要となるため、15万円以上かかることもあります」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+  - 「編集費用は校正・校閲・修正などの作業にかかる費用で、1～3万円程度が相場となっています」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+  - 「ホームページ・ブログ記事の文字単価相場：0.8～2円程度」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「インタビュー記事の文字単価相場：10円以上」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「専門的なコラム記事の文字単価相場：1〜5円以上」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「SEO記事の文字単価相場：3～6円以上」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「約1,200名の取材ライター」（https://miwrite-match.jp/media/articles/column/article-production/onsite-interview-outsourcing/）
+- どう買われるか：
+  - 「ご希望の方はこちらよりお問い合わせ下さい」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「人材紹介・人材派遣」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「取材・インタビュー記事作成の費用相場を解説！外注費用の相場も紹介 - コンマケTIMES」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+  - 「問い合わせフォーム」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+  - 「取材・インタビュー記事作成の費用相場を解説！外注費用の相場も紹介」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+  - 「クラウドソーシングサイト、フリーランスライター、制作会社など外注先ごとの費用相場や、謝礼金の支払い方についても紹介していますので、これから取材記事の作成を検討している方はぜひ参考にしてください」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+  - 「導入事例の制作方法を解説！取材・記事構成・費用と活用のコツを紹介」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+  - 「展示会・イベントブース」（https://www.cameraman-mart.jp/interview/）
+  - 「展示会・学会」（https://www.cameraman-mart.jp/interview/）
+  - 「お問い合わせフォーム」（https://www.cameraman-mart.jp/interview/）
+  - 「撮影・取材代行依頼のメリットについてご紹介します」（https://www.cameraman-mart.jp/interview/）
+  - 「また、イベントやセミナー、展示会、新商品発表会等の撮影・取材そして記事作成も定期的にご発注頂いています」（https://www.cameraman-mart.jp/interview/）
+  - 「カメラマンとライターのセットプランをご紹介します」（https://www.cameraman-mart.jp/interview/）
+  - 「お問い合わせ」（https://www.cameraman-mart.jp/interview/）
+  - 「Webライターの費用相場！記事のボリュームや種類ごとに文字単価を紹介 | C-NAPS（シナプス）｜LLMO時代のコンテンツマーケティングの課題解決に役立つ情報メディア」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+- 前例の会社（製造業特化）：
+  - 「株式会社JR西日本ヴィアイン」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「メディアエンジン株式会社」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「CROCO株式会社」（https://cro-co.co.jp/media/contents-marketing/interview-fee/）
+  - 「社屋・工場・施設」（https://www.cameraman-mart.jp/interview/）
+  - 「株式会社ファングリーは、企業のコンテンツマーケティングをお手伝いするプロ集団としてさまざまなソリューションを提供しています」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「当メディア「C-NAPS」を運営する株式会社ファングリーでは、」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「ハンセドリームジャパン株式会社」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「「約400億円の売上を10年で倍にする」Francfrancの勝ち筋約90％の高い認知率を、価値につなげる新たな成長戦略」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「株式会社アインファーマシーズ」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「三菱地所・サイモン株式会社」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「UCCジャパン株式会社」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「株式会社 ワークマン」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「株式会社ファングリー」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+  - 「レバレジーズ株式会社が提供する「レバテックフリーランス」にてミライトマッチのブログを紹介いただきました」（https://miwrite-match.jp/media/articles/column/article-production/onsite-interview-outsourcing/）
+  - 「株式会社IT&Plucktice」（https://miwrite-match.jp/media/articles/column/article-production/onsite-interview-outsourcing/）
+- 採用難（公的統計）：記載なし（読んだ36頁・検索13回）
+
+## 中堅製造業が採用支援会社を選ぶ経路（紹介・展示会・比較サイト）（how manufacturers choose recruitment vendors）
+- 文脈：⑦買い方
+- 採用にいくら払うか：
+  - 「エージェントの手数料が想定より高かった、派遣の単価が思ったより上がった、媒体を3社並走したら月50万円を超えた、といった事例はよくあります」（https://robokaru.jp/useful/655/）
+  - 「製造業では特に、派遣の3年ルールや、業務委託での指示の出し方(偽装請負)が問題になりやすく、誤った使い方をすると行政指導や罰則(労働者派遣法違反は1年以下の懲役または100万円以下の罰金)につながることもあります」（https://robokaru.jp/useful/655/）
+  - 「最も低コストなのはリファラル(40〜120万円/名)」（https://robokaru.jp/useful/655/）
+  - 「最も高コスト帯はエージェント経由の中途採用(年収600万円なら成功報酬180〜210万円)」（https://robokaru.jp/useful/655/）
+  - 「ランニングコストでは派遣が最も高く、年間700〜1,200万円」（https://robokaru.jp/useful/655/）
+  - 「最も低コストなのはリファラル(社員紹介)で、1名あたり40〜120万円程度」（https://robokaru.jp/useful/655/）
+  - 「インセンティブを30万円払っても、エージェント経由(200〜350万円)の半額以下です」（https://robokaru.jp/useful/655/）
+  - 「リクルート就職みらい研究所の「就職白書2025」や人材紹介各社の調査でも、リファラル採用1件あたりの平均コストは数万円〜10万円台というデータが出ています」（https://robokaru.jp/useful/655/）
+  - 「年収600万円の機械設計者を1名採用すれば、約180〜210万円が成功報酬として発生します」（https://robokaru.jp/useful/655/）
+  - 「製造業のマーケティングを依頼する費用相場は、月額20万〜50万円が一般的です」（https://www.biz.ne.jp/matome/2003280/）
+  - 「顧客管理システム「かんたん顧客カルテ」月額3万円」（https://www.biz.ne.jp/matome/2003280/）
+  - 「顧問契約料：10万円」（https://www.biz.ne.jp/matome/2003280/）
+  - 「展示会出店支援パック：38万円」（https://www.biz.ne.jp/matome/2003280/）
+  - 「コンサル費用15〜20万円／1日（旅費・経費込み）」（https://www.biz.ne.jp/matome/2003280/）
+  - 「契約料は月額10万円、3カ月集中で展示会出展業務の支援を行うパックも用意しており、展示会出展支援パックは38万円です」（https://www.biz.ne.jp/matome/2003280/）
+- 採用広報・採用サイトの単価：
+  - 「採用チャネル徹底比較｜製造業の8チャネルを料金・スピード・リスクで丸ごと比べる【2026年5月更新】 | 半導体業界の即戦力人材ならロボカル」（https://robokaru.jp/useful/655/）
+  - 「採用チャネル徹底比較｜製造業の8チャネルを料金・スピード・リスクで丸ごと比べる【2026年5月更新】」（https://robokaru.jp/useful/655/）
+  - 「料金・スピード・採用の難しさ・出会える人材・法的なリスク・定着率の6つで比べると、どのチャネルにも得意なことと苦手なことがあります」（https://robokaru.jp/useful/655/）
+  - 「エージェントの手数料が想定より高かった、派遣の単価が思ったより上がった、媒体を3社並走したら月50万円を超えた、といった事例はよくあります」（https://robokaru.jp/useful/655/）
+  - 「「料金・スピード・人材の質・法的リスク・定着率」のうち自社が最も重視する項目を1つ決める」（https://robokaru.jp/useful/655/）
+  - 「採用チャネルを比べるときの判断項目は、料金・スピード・採用の難しさ・出会える人材・法的なリスク・定着率の6つです」（https://robokaru.jp/useful/655/）
+  - 「判断項目1:料金・コスト」（https://robokaru.jp/useful/655/）
+  - 「製造業に強いマーケティング会社30選！選び方や費用相場を解説【2026年度版】 | 比較ビズまとめ」（https://www.biz.ne.jp/matome/2003280/）
+  - 「製造業に強いマーケティング会社30選！選び方や費用相場を解説」（https://www.biz.ne.jp/matome/2003280/）
+  - 「コンサルタントマーケティングに強いおすすめの会社37選！選ぶポイントや費用相場を解説」（https://www.biz.ne.jp/matome/2003280/）
+  - 「製造業のマーケティングを依頼する費用相場は、月額20万〜50万円が一般的です」（https://www.biz.ne.jp/matome/2003280/）
+  - 「短期間のみの依頼や単発のプロジェクトの場合、時間単位での料金設定が適用されることがあり、1時間あたり5,000円〜が相場です」（https://www.biz.ne.jp/matome/2003280/）
+  - 「顧客管理システム「かんたん顧客カルテ」月額3万円」（https://www.biz.ne.jp/matome/2003280/）
+  - 「顧問契約料：10万円」（https://www.biz.ne.jp/matome/2003280/）
+  - 「展示会出店支援パック：38万円」（https://www.biz.ne.jp/matome/2003280/）
+- 継続して払うか：
+  - 「採用チャネル徹底比較｜製造業の8チャネルを料金・スピード・リスクで丸ごと比べる【2026年5月更新】 | 半導体業界の即戦力人材ならロボカル」（https://robokaru.jp/useful/655/）
+  - 「採用チャネル徹底比較｜製造業の8チャネルを料金・スピード・リスクで丸ごと比べる【2026年5月更新】」（https://robokaru.jp/useful/655/）
+  - 「料金とスピードは数字で確認できますが、人材像・法的リスク・定着率は職種や運用の仕方によって変わるため、実態を見ながら判断することが大切です」（https://robokaru.jp/useful/655/）
+  - 「料金とスピードは数字で測れる定量評価軸、人材像・法的リスク・定着率は職種や運用の質に左右される定性評価軸」（https://robokaru.jp/useful/655/）
+  - 「・エン転職など)で、月額の掲載費に対して原稿の質と運用次第で当たり外れが大きい」（https://robokaru.jp/useful/655/）
+  - 「月額単価60〜90万円が継続的に発生するため、年間で換算すると正社員中途の総コストを上回るケースが多くあります」（https://robokaru.jp/useful/655/）
+  - 「などの媒体・エージェント運用 + メイテック・テクノプロといった製造業特化派遣の併用が現実解」（https://robokaru.jp/useful/655/）
+  - 「逆に「半年〜1年スパンで腰を据えて採りたい」状況なら、新卒・第二新卒・媒体運用といった長期視点のチャネルが選択肢に入ります」（https://robokaru.jp/useful/655/）
+  - 「新卒・媒体運用を強化したい場合は採用専任者の配置を先に検討する」（https://robokaru.jp/useful/655/）
+  - 「各チャネルで採用を成功させるために、自社側でどれだけの準備・運用工数が必要かを比較します」（https://robokaru.jp/useful/655/）
+  - 「「採用が難しい」という言葉には、母集団が集まりにくい「外的難しさ」と、自社の運用に手がかかる「内的難しさ」の両面があります」（https://robokaru.jp/useful/655/）
+  - 「制度設計、社内告知、インセンティブ運用」（https://robokaru.jp/useful/655/）
+  - 「求人原稿(継続改善)、応募者選考、面接調整」（https://robokaru.jp/useful/655/）
+  - 「専任の採用担当者が1名以上いない企業では運用が困難です」（https://robokaru.jp/useful/655/）
+  - 「媒体・プラットフォームは中〜高で、特に求人原稿の運用品質が成果を大きく左右します」（https://robokaru.jp/useful/655/）
+- どう買われるか：
+  - 「お問い合わせ」（https://robokaru.jp/useful/655/）
+  - 「求人媒体に掲載する、人材紹介エージェントに依頼する、派遣会社に頼む、業務委託で外部のエンジニアに入ってもらう、社員の知人を紹介してもらう(リファラル)、学校や合同説明会に足を運ぶ」（https://robokaru.jp/useful/655/）
+  - 「紹介手数料・媒体掲載料・派遣料金といった外部への支払いだけでなく、社内の担当者が動く時間や手間も含めて考えることが大切です」（https://robokaru.jp/useful/655/）
+  - 「たとえばリファラル(社員紹介)は社員のネットワーク経由で入ってくるためミスマッチが起きにくく定着しやすい一方、短期間で転職を繰り返す層が応募しやすいチャネルもあります」（https://robokaru.jp/useful/655/）
+  - 「最も低コストなのはリファラル(社員紹介)で、1名あたり40〜120万円程度」（https://robokaru.jp/useful/655/）
+  - 「リクルート就職みらい研究所の「就職白書2025」や人材紹介各社の調査でも、リファラル採用1件あたりの平均コストは数万円〜10万円台というデータが出ています」（https://robokaru.jp/useful/655/）
+  - 「マイナビキャリアリサーチLabや人材紹介各社の公開資料でも、製造業エンジニア領域では30%が標準、ハイクラス領域では35%以上というのが業界相場として定着しています」（https://robokaru.jp/useful/655/）
+  - 「紹介者と候補者の現職退職時期次第で、最短2週間〜最長3ヶ月以上と変動します」（https://robokaru.jp/useful/655/）
+  - 「エージェント大手の公開資料でも「初回紹介から内定まで1.5〜2ヶ月、入社まで2.5〜3.5ヶ月」というのが業界平均です」（https://robokaru.jp/useful/655/）
+  - 「自社に専任の採用担当者がいない(社長や管理部長が兼務している)場合、適合するチャネルは」（https://robokaru.jp/useful/655/）
+  - 「(紹介手数料規制)」（https://robokaru.jp/useful/655/）
+  - 「リファラル採用で社員にインセンティブを払う場合、職業安定法上の「報酬を得て紹介を行う」=有料職業紹介に該当しないかという論点があります」（https://robokaru.jp/useful/655/）
+  - 「一般的には、リファラル採用のインセンティブは「自社採用に貢献した社員への報奨金」として給与扱いにすることで適法に運用できますが、外部の知人を仲介して報酬を取る形になると有料職業紹介となり許可が必要になります」（https://robokaru.jp/useful/655/）
+  - 「第一推奨チャネルに今週中に問い合わせる」（https://robokaru.jp/useful/655/）
+  - 「求人票の内容を丁寧に作る・面接のフィードバックを早めに返す・選考のスピードを落とさない・担当者と定期的にコミュニケーションをとる ── こうした姿勢が、担当者が「この会社に良い人を紹介したい」と思うきっかけになります」（https://robokaru.jp/useful/655/）
+- 前例の会社（製造業特化）：
+  - 「工場エンジニア求人のロボカルTOP」（https://robokaru.jp/useful/655/）
+  - 「岩本 敏紀(株式会社」（https://robokaru.jp/useful/655/）
+  - 「工場転職ナビ」（https://robokaru.jp/useful/655/）
+  - 「などの媒体・エージェント運用 + メイテック・テクノプロといった製造業特化派遣の併用が現実解」（https://robokaru.jp/useful/655/）
+  - 「製造業特化の派遣会社(メイテック、テクノプロ、スタッフサービスエンジニアリング)は機械設計・制御設計のプールを抱えているため、職種マッチング精度も高い傾向にあります」（https://robokaru.jp/useful/655/）
+  - 「製造業の中堅メーカー(売上10〜30億円)で多いのは「採用専任者を置くタイミングを判断しかねている」状況」（https://robokaru.jp/useful/655/）
+  - 「メイテック、テクノプロ、スタッフサービスエンジニアリングなど製造業特化派遣の主流は無期雇用派遣であり、長期活用が可能」（https://robokaru.jp/useful/655/）
+  - 「実務的には、規程に「自社採用に協力した従業員への手当」として明記し、給与処理することで問題は回避できます」（https://robokaru.jp/useful/655/）
+  - 「売上10億円未満で初の採用」（https://robokaru.jp/useful/655/）
+  - 「売上10〜30億で専任者を作りたい」（https://robokaru.jp/useful/655/）
+  - 「売上30〜100億で複数名採用」（https://robokaru.jp/useful/655/）
+  - 「海外工場立ち上げ要員」（https://robokaru.jp/useful/655/）
+  - 「業務委託チャネルを使う場合は製造業特化（ロボカル）と汎用（クラウドワークス等）の使い分けを意識する」（https://robokaru.jp/useful/655/）
+  - 「リクナビNEXT、Indeed、エン転職、マイナビ転職、工場転職ナビなどは、いずれも「中途採用チャネル」を運用するための媒体」（https://robokaru.jp/useful/655/）
+  - 「業務委託チャネル(製造業特化)」（https://robokaru.jp/useful/655/）
+- 社数（規模別）：記載なし（読んだ33頁・検索13回）
+- 採用難（公的統計）：記載なし（読んだ33頁・検索13回）
+- 作る側の原価：記載なし（読んだ33頁・検索13回）
+
+## 製造業特化の採用広報・採用ブランディング会社（recruitment branding agency specialized in manufacturers Japan）
+- 文脈：⑧前例
+- 社数（規模別）：
+  - 「本記事では、社内に知識やリソースが不足している中堅企業に向けて、課題解決に向けた採用ブランディング会社の選び方と、実績豊富な主要企業13社の特徴を分かりやすく解説します」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+- 採用にいくら払うか：
+  - 「月額30万円〜のコンサル」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「月額30万円〜のコンサルティング型支援」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「製造業専門求人サイトとして国内トップクラスのシェアを誇る「工場ワークス」にて7年間にわたり、東名阪・九州の拠点で営業・採用支援に従事」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「月間2,000万円超の広告運用を統括した知見を活かし、地方の中小工場から大手メーカーまで、データと現場感覚を融合させた「勝てる採用マーケティング」を支援」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+- 採用広報・採用サイトの単価：
+  - 「月額30万円〜のコンサル」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「月額30万円〜のコンサルティング型支援」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+- 継続して払うか：
+  - 「SNS運用開始」（https://hypex.jp/solution/maker-branding）
+  - 「採用ブランディング会社が提供するサービスは、インナーブランディング（理念浸透）からアウターブランディング（外部発信）、さらには採用プロセスの実務運用まで多岐にわたります」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「各採用ブランディング会社が持つ特有の手法（内製化支援、LinkedInやSNSの運用など）が、自社の求めるアプローチや解決したい課題と合致しているかを見極めることが重要です」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「月額30万円〜のコンサル」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「SNS（X、YouTube等）の運用・コンサルティング」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「実務運用、特定の業種（製造業・中小企業）、または特定のプラットフォーム運用やデジタル施策に強みを持つ企業を紹介します」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「レジェンダ・コーポレーションは、創業30年の歴史を誇るRPO（採用代行）のパイオニアであり、独自のフレームワークを用いたブランディングから実行運用までを一気通貫で支援する大手採用支援会社です」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「魅力の言語化（コンセプト策定・ツール制作）と大規模・高品質なRPO運用を掛け合わせ、組織に強固な採用基盤を構築する」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「社内の採用ノウハウやマンパワーが完全に不足しており、戦略立案だけでなく選考運用までプロにまるごと任せたい企業」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「サイト・コンテンツ制作などのツール制作、運用・改善サポートまでをワンストップで提供する」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「日本初のLinkedIn公式パートナーとしての信頼性と、60万件超のスカウト運用データに基づくダイレクトリクルーティング支援の強みを、統一されたフォーマット（表形式・アドバイス）で整理します」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「60万件超のスカウト運用データ」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「月額30万円〜のコンサルティング型支援」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「や、フルリモート体制による無駄を削ぎ落とした運用でコストを抑えつつ最大の成果を生み出す」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「採用サイト制作、オウンドメディア運用、動画・SNS活用など、ターゲットが求職に至るフェーズに合わせた多角的なマーケティング施策を展開」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+- どう買われるか：
+  - 「お問い合わせ」（https://hypex.jp/solution/maker-branding）
+  - 「お問い合わせはこちら」（https://hypex.jp/solution/maker-branding）
+  - 「問い合わせ内容」（https://hypex.jp/solution/maker-branding）
+  - 「拠点紹介による魅力訴求」（https://hypex.jp/solution/maker-branding）
+  - 「職種紹介による理解促進」（https://hypex.jp/solution/maker-branding）
+  - 「お問い合わせ」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「企業の根幹である理念やパーパスの策定から、一貫したストーリーとしての採用コミュニケーション設計までをトータルで支援する企業を紹介します」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「実務運用、特定の業種（製造業・中小企業）、または特定のプラットフォーム運用やデジタル施策に強みを持つ企業を紹介します」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「「何から手をつければいいか分からない」「自社サイトの課題を知りたい」という採用責任者様は、ぜひお気軽にお問い合わせください」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「まずはお気軽にお問い合わせください」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「人手不足の中で、選ばれる企業になるための戦略・ノウハウ・事例を厳選してご紹介」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+- 前例の会社（製造業特化）：
+  - 「製造業向け採用ブランディング | 株式会社hypex」（https://hypex.jp/solution/maker-branding）
+  - 「製造業特化の採用」（https://hypex.jp/solution/maker-branding）
+  - 「【2026年最新】採用ブランディング会社13社を徹底比較！自社に最適な採用支援サービスの選び方 | マーケティングメディア｜株式会社コンテナ：CONTENNA.co.ltd」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「株式会社パラドックス」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「株式会社揚羽」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「トゥモローゲート株式会社」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「むすび株式会社」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「株式会社セブンデックス」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「株式会社コンテナ」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「創業30年の大手RPO」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「株式会社uloqo」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「HeaR株式会社」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「株式会社ダイレクトソーシング」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「株式会社hypex」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「株式会社フレイバーズ」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+- 採用難（公的統計）：記載なし（読んだ29頁・検索13回）
+- 作る側の原価：記載なし（読んだ29頁・検索13回）
