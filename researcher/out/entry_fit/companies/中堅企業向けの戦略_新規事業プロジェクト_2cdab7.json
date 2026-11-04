@@ -1,0 +1,2811 @@
+{
+ "name": "中堅企業向けの戦略・新規事業プロジェクト",
+ "en": "strategy consulting for mid-size companies Japan",
+ "aliases": [
+  "中堅企業 戦略コンサル 費用",
+  "新規事業 コンサル 中堅",
+  "事業計画 策定支援"
+ ],
+ "context": "コンサル",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:15:17.933383+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "新規事業とは、企業がこれまで手掛けていなかった市場・顧客・製品・サービスの領域で、新たに事業を立ち上げる取り組みを指します",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "完全に新しい市場を切り拓く場合もあれば、既存の技術やノウハウを活かして新しい製品を開発する場合、既存の顧客基盤に新しいサービスを提供する場合など、その形態は幅広いです",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "これは「市場（既存・新規）」と「製品・サービス（既存・新規）」の2軸で事業展開のパターンを4つに分類する考え方で、既存市場への新製品投入や、既存製品での新市場開拓なども新規事業の一形態として位置づけられます",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "PMF（プロダクトマーケットフィット）は、提供する製品・サービスが市場のニーズに合致し、顧客に受け入れられている状態を指します",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「中堅・中小企業等向けDX推進の手引き2025」（2025年3月）では、既存の業務データを活用して新たなサービスを開発した事例や、蓄積したデータをもとに新規のシステム開発につなげた事例が紹介されており、デジタル化への取り組みが新規事業のヒントになり得ることが示されています",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "競合分析を行い、既に同様のサービスが存在するか、どのような差別化が可能かを確認します",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "実際の運営データや顧客の反応をもとに、KPIの達成状況を確認し、必要に応じて商品・サービスや戦略を改善していくサイクルを繰り返します",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップスタジオ等の伴走型支援を活用する",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "出資と実務支援を組み合わせるモデルなど、支援事業者が継続的に伴走する",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロから体制を作る余裕がなく、資金と実務の両面で支援を受けたい場合",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "「スタートアップスタジオ」と呼ばれる支援モデルには、事業創出そのものを担うもの、共同創業に近い形で関わるもの、出資と実務支援を組み合わせて継続的に伴走するものなど、複数の形態があります",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "TechHouse.Worksのように、出資（資金提供）と実務支援を組み合わせて、事業の立ち上げから運営までを継続的に伴走するモデルもその一例です",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "単発のコンサルティングと異なり、資金面と実務面の両方を長期にわたって支援してもらえる点が特徴で、社内に新規事業の専任チームを一からつくる余裕がない中堅企業にとって、選択肢の一つになり得ます",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "支援モデルによって重視する軸（思想的な相性を重視するか、規模やスピードを重視するかなど）は異なるため、自社の考え方に合う支援先を見極めることが大切です",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "TechHouse.Worksでは、出資と実務支援を組み合わせた伴走型の支援モデルを軸に、中堅企業が推進する新規事業の相談にも応じています",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業の成功事例8選",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手・中堅企業の具体例と共通ポイント｜タナベコンサルティングの長期ビジョン策定支援",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス案内",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "将来の持続的成長を実現させる戦略設計を「中期3ヵ年経営計画」を構築することでご支援いたします",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内外のネットワークと専門的な知見を持つグループ企業の力を結集し、戦略立案から海外進出まで一貫してご支援します",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "建設業支援実績2,000社以上の経営ノウハウで建設業特有の課題を解決するコンサルティングサービスを提供しています",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "2,300社以上の確かな支援実績で、製造業の経営課題を解決に導くチームを組み多角的な視点から課題解決をご支援します",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業69年で2,100社以上の食品業支援実績と、全国の食品企業の未来を見据えた戦略的なアプローチを実行します",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のサプライチェーンを支える商社・卸売ビジネスの変革を並走支援",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "単なる「モノ流し」から脱却し、高付加価値を提供する持続可能なビジネスモデルを共に創ります",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングサービス",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業立ち上げのセオリーは理解しているものの、事例がないとイメージしにくいと感じている経営者やリーダーは多いでしょう",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、大手企業と中堅企業の新規事業で成功した事例を紹介するとともに、成功事例に共通するポイントを解説します",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社の戦略を照らし合わせる事例としても参考になるでしょう",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "【大手企業】新規事業の成功事例4選",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "専門家 | 中堅・中核企業支援プラットフォーム｜経済産業省",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "本事業で支援実績のある専門家について、",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな分野で中堅企業を支援する",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "各専門家の専門領域や支援実績、",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タレント・エンパワーメント 代表取締役",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "人材サービス",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "その他、産業系車両ディーラーの採用データ分析、技術系専門商社の経営層向け生成AI勉強会、運輸企業の採用ブランディング調査等、多業種の中堅企業支援を遂行",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャー支援",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "①茨城県の機械製造業で世界ニッチを達成した企業が、産業分類を越えてサービス業・テーマパークに挑戦を決定した",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルも、BtoBからBtoCへと変換するが、未経験のため支援の依頼があった",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "②栃木県の障害者支援企業が開業後２年で経営不振となった",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "すぐ支援に入り、経営者、従業員と話し合いの結果改善が始まり、1年で黒字化、4年後には債務を全額返済した",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "③栃木県の建設業で、経営不振の打開策として、遊休地でのホテル開業の支援依頼が県庁を通じて来た",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "ＦＢＰ株式会社/代表取締役",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中核企業に対する支援の特徴は、経営者の「WHY（なぜ？）」を起点に、理念・戦略・組織・ブランドを一体的に設計する「協奏経営」アプローチによる、企業の転換点における本質的な変革の伴走",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、中堅・中小企業の新規事業開発を支援する実績豊富なコンサルティング会社5社を厳選して紹介します",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "各社の特徴や支援内容、具体的な成功事例を交えながら、新規事業開発を成功に導くためのフレームワークや進め方についても詳しく解説していきます",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "少数精鋭で高品質なサービスを提供するコンサル・システム会社を中心として、",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "6. 各社の特徴と支援実績の詳細比較",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "8. 成功事例から学ぶポイント",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "・専門的なフレームワークと手法の活用 ・客観的な市場分析と事業性評価 ・豊富な支援実績に基づくアドバイス ・プロジェクト推進の効率化",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1.3. 新規事業開発支援の具体的なサービス内容",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業開発のコンサルティングでは、以下のような包括的なサービスが提供されています",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 市場調査・分析フェーズ ・市場規模の算出 ・競合分析 ・顧客ニーズの深掘り 2. 戦略立案フェーズ ・事業コンセプトの策定 ・ビジネスモデルの設計 ・収益モデルの構築 3. 実行支援フェーズ ・アクションプランの策定 ・KPIの設定 ・進捗管理とモニタリング",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "企業・サービス概要",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コネクタブルーは、大手・中堅企業の新規事業創出を中核に、構想策定から実行、立ち上げに至るまでを一気通貫で支援するコンサルティング会社です",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、工業・建設分野における豊富な支援実績を有し、高い専門性や中長期的視点が求められる事業特性を踏まえた支援を強みとしています",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "化学・素材・ハイテク分野を中心とした工業領域における豊富な新規事業支援実績と高度な業界知見",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "テーマ探索および戦略立案から事業化までを一貫して支援する伴走型コンサルティング",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "素材メーカー：新素材を対象とした新規業界における用途探索および市場参入支援",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "TechHouse.Worksでは、シード〜アーリー期のスタートアップ向けに、最大500万円のマイクロ出資と3か月の伴走トライアルを組み合わせた「Boot Up!」を、アーリー期からEXITまでのスタートアップ向けにスケール支援を行う「Listing On!」を提供しています",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 新規事業開発コンサルティングの費用と効果",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "3.1. コンサルティング費用の相場観",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "・戦略コンサル系：月額300万円〜500万円 ・独立系コンサル：月額100万円〜300万円 ・地域密着型コンサル：月額50万円〜100万円",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング費用の支払い方式には、主に2つのタイプがあります",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4. 料金体系の比較",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "A社： ・プロジェクト規模に応じた段階的料金設定 ・月額50万円〜300万円の範囲 ・成功報酬型オプションあり B社： ・地域企業向けの柔軟な料金設定 ・月額30万円〜150万円の範囲 ・補助金活用支援込みのパッケージ提供 C社： ・規模に応じた従量制料金 ・月額100万円〜400万円の範囲 ・システム開発込みの総合支援プラン D社： ・フェーズ別の明確な料金体系 ・月額80万円〜350万円の範囲 ・戦略立案と実行支援の組み合わせ型 E社： ・成果連動型の料金体系 ・月額40万円〜200万円の範囲 ・長期支援割引制度あり",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "大手ファームなら月100万円以上も普通、独立系や専門特化型の会社なら月20万〜100万円、スキル販売サイトの個人なら1万円を切ることもあります",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサル料金に差が出る5つの要素",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業向けの新規事業コンサルの場合、年間300万円から1,000万円程度が一般的な相場とされています",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、大手コンサルティングファームに依頼する場合は、年間1,000万円から1億円程度の費用がかかることもあります",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "時間単価型では1時間あたり1万円から3万円程度、固定報酬型では月額30万円から200万円程度が目安となります",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサル会社の規模や支援内容により異なりますが、月額数十万円から数百万円、年間では300万円〜1,000万円程度が一般的です",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界のDXに強いシステム会社10選【2026年最新】成功事例・選び方・費用相場まで徹底解説",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "月給33万円〜50万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 【雇用形態】 正社員 【給与】 月給 330,630円～500,000円 【勤務地】 山口県下関市小月小島１丁目４−７ 募集情報 ・日払いあり・社宅あり ・未経験スタート多数！安心の研修制度あり ・シンプル作業で覚えやすい ・コツコツ作業が好きな方に最適 ・安定した収入＆長期勤務可能 【仕事内容】 日払い・社宅あり 工場内にて製品の製造・加工・検品・梱包などをお任せします",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "時給1,414円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給35万円〜38.8万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給23万円〜34万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収550万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給32万円〜53万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 【雇用形態】 正社員 【給与】 月給 320,000円～530,000円 【勤務地】 兵庫県姫路市別所町佐土１１１８ 募集情報 ・日払いあり・社宅あり ・未経験スタート多数！安心の研修制度あり ・シンプル作業で覚えやすい ・コツコツ作業が好きな方に最適 ・安定した収入＆長期勤務可能 【仕事内容】 日払い・社宅あり 工場内にて製品の製造・加工・検品・梱包などをお任せします",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収900万円〜2,499万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "時給1,320円〜 / 交通費支給",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給33.2万円〜36万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給27万円〜50万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 【雇用形態】 正社員 【給与】 月給 270,000円～500,000円 【勤務地】 神奈川県茅ヶ崎市本村2-8-1 募集情報 ・日払いあり・社宅あり ・未経験スタート多数！安心の研修制度あり ・シンプル作業で覚えやすい ・コツコツ作業が好きな方に最適 ・安定した収入＆長期勤務可能 【仕事内容】 日払い・社宅あり 工場内にて製品の製造・加工・検品・梱包などをお任せします",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "時給1,200円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円〜30万円",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "30,000円 （税込 33,000円）/ 一名様",
+    "url": "https://www.funaisoken.co.jp/seminar/146269",
+    "pass": 3
+   },
+   {
+    "quote": "24,000円 （税込 26,400円）/ 一名様",
+    "url": "https://www.funaisoken.co.jp/seminar/146269",
+    "pass": 3
+   },
+   {
+    "quote": "※参加料金が無料のセミナーは、開催日4日前まで",
+    "url": "https://www.funaisoken.co.jp/seminar/146269",
+    "pass": 3
+   },
+   {
+    "quote": "キャンセル期日以降の有料セミナーのお取り消しの場合はご参加料金の50％を、当日の欠席は100％をキャンセル料として申し受けますのでご注意ください",
+    "url": "https://www.funaisoken.co.jp/seminar/146269",
+    "pass": 3
+   },
+   {
+    "quote": "10億円企業を目指すための 明日から始めるスマートファクトリー",
+    "url": "https://www.funaisoken.co.jp/seminar/146269",
+    "pass": 3
+   },
+   {
+    "quote": "1、労働供給制約下における「10億円の壁」の正体/2、現場は回っているのに、なぜ…",
+    "url": "https://www.funaisoken.co.jp/seminar/146269",
+    "pass": 3
+   },
+   {
+    "quote": "の推移は、全産業平均がほぼ横ばいであるのに対し、製造業は上昇傾向にあり、2022年は全産業平均の1.2倍に当たる1031万円となっている",
+    "url": "https://review.tanabeconsulting.co.jp/consultingmethod/53067/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業全体の営業利益の推移を見ると、2022年は製造業全体で約19兆円と過去10年で金額が最も大きく、2023年も製造業全体で約17.9兆円と高水準にある",
+    "url": "https://review.tanabeconsulting.co.jp/consultingmethod/53067/",
+    "pass": 3
+   },
+   {
+    "quote": "③資本金3億円以下201社のうち、業種毎に中堅企業に該",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当する企業を抽出し、資本金3億円以上の企業群に追加",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 3億円以上:1592(上場:1488、非上 場：104)",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 3億円以下：201",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 3億円以下の201社のうち、114社が中堅企業に該当",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 売上高1000億円より大きい企業を除外：1238社（上場1217社、非上場21社）",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "脚注）みなし大企業は売上高1000億円より大きく、発行済株式の総数の2分の1以上を同一の大企業が所有している企業と定義",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50億円未満 50～100億円未満 100～500億円未満 500～1000億円未満",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平均的な中堅企業像は、従業員数が500～1000人の範疇にある企業群かつ売上高100億円の壁を越え",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 売上高別では、100億円以上の企業が9割弱を占め、中小企業の鬼門と言われる「100億円の壁」を超えた企業が多いことが",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "基本指標 売上高 329億円営業利益 25億円",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "時価総額 277億円 上場企業のみ",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産性 一人当たりの売上高 4305万円 一部データ欠損一人当たりの営業利益 318万円 一部データ欠損",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業全体の平均値としては、売上高329億円、営業利益25億円といった水準となっている",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造 339億円 26億円 291億円 15.6倍 0.9倍 6.9% 4.0% 7.0% 4.9% 0.8回 4102万円 302万円 2.0倍",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300万円未満",
+    "url": "https://systeminvest-lab.com/14566/",
+    "pass": 3
+   },
+   {
+    "quote": "300万〜399万円",
+    "url": "https://systeminvest-lab.com/14566/",
+    "pass": 3
+   },
+   {
+    "quote": "400万〜499万円",
+    "url": "https://systeminvest-lab.com/14566/",
+    "pass": 3
+   },
+   {
+    "quote": "500万〜599万円",
+    "url": "https://systeminvest-lab.com/14566/",
+    "pass": 3
+   },
+   {
+    "quote": "600万〜699万円",
+    "url": "https://systeminvest-lab.com/14566/",
+    "pass": 3
+   },
+   {
+    "quote": "700万〜799万円",
+    "url": "https://systeminvest-lab.com/14566/",
+    "pass": 3
+   },
+   {
+    "quote": "800万～1000万円",
+    "url": "https://systeminvest-lab.com/14566/",
+    "pass": 3
+   },
+   {
+    "quote": "1000万～1200万円",
+    "url": "https://systeminvest-lab.com/14566/",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "そのため、既存事業では精度の高い予算管理やKPI管理が重視されますが、新規事業では「小さく試して検証し、方向転換しながら前進する」という進め方が求められます",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "検証を経て仮説の精度が高まったら、事業計画として具体化します",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画の初期段階では、複数のシナリオ（最小構成での検証から本格展開まで）で投資規模を幅を持って見積もっておくと、資金計画の精度が上がります",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "成功報酬型のメリット： ・初期投資を抑えられる ・成果に応じた適正な費用負担 ・コンサルタントの責任感が高まる 固定報酬型のメリット： ・予算管理がしやすい ・長期的な視点での支援が受けられる ・客観的な提案が期待できる",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1. プロジェクトチームの組成 ・社内外の適切な人材配置 ・役割と責任の明確化 ・意思決定プロセスの確立 2. 目標設定とスケジュール策定 ・具体的なKGIとKPIの設定 ・マイルストーンの設定 ・リソース配分計画の策定",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "自己責任で利用を",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "費用は大手コンサル会社と比べれば控えめで、ある程度の規模のある中小企業であれば検討しやすく、一定レベルのサポートが保証されているのは大きなメリットと言えるでしょう",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "M&A 事業者（仲介会社や助言業務を行う会社）、PE ファンド、金融機関といった伴走支援者に、手数料の透明化、利益相反の禁止、経営者保証の解除等、健全な市場環境整備のために必要な事項に留意の上、M&A 後の成長を実現するようなサービスを期待する",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査や競合分析を通じてターゲット市場の規模や成長性、競合動向を分析し、事業の実現可能性を判断することで、投資判断の精度を高めることができます",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "独自のAIツール／ノウハウを活用して仮説検証の精度と速度を高め、さらに独自のWebマーケティング手法を活かしたニーズ探索・顧客開拓により、初期の見込み顧客獲得から学習サイクルの高速化を実現します",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "成果に対する責任範囲の明示",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "プライバシーポリシー/免責事項",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "個人保証ゼロ化",
+    "url": "https://www.funaisoken.co.jp/seminar/146269",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告を出しても応募が集まらず、採用単価だけが上がっている製造業の経営者・人事責任者の方",
+    "url": "https://www.funaisoken.co.jp/seminar/146269",
+    "pass": 3
+   },
+   {
+    "quote": "低コスト調達と国内品質保証の両立、現地でのISO9001取得まで～",
+    "url": "https://www.funaisoken.co.jp/seminar/146269",
+    "pass": 3
+   },
+   {
+    "quote": "・生産計画立案の自動化・脱属人化～AI搭載の生産スケジューラで、納期・設備稼働・人員スキル等の制約条件を考慮し「誰が立案しても同じ精度」を実現～",
+    "url": "https://www.funaisoken.co.jp/seminar/146269",
+    "pass": 3
+   },
+   {
+    "quote": "プレス事業部の事業部長を経て 2021 年より現職となり全社の改善活動の活性化や資材調達の責任者としてリーマンショックでの資材不足と高騰への対応を行う",
+    "url": "https://www.funaisoken.co.jp/seminar/146269",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 設計・開発、購買、製造、品質保証、アフターサービスまでの全プロセ",
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "判断プロセスには、事業責任者だけでなく、経営層や財務部門、必要に応じて外部の専門家も交え、多角的な視点から事業の継続可否を協議する場を設けるべきです",
+    "url": "https://systeminvest-lab.com/14566/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的な評価会議には、事業に直接関与しない第三者（例えば、他部門の責任者や外部アドバイザー）を招き、客観的な視点を取り入れることも有効です",
+    "url": "https://systeminvest-lab.com/14566/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのデータをリアルタイムに近い形でダッシュボード化し、定期的に経営層や事業責任者がレビューする場を設けます",
+    "url": "https://systeminvest-lab.com/14566/",
+    "pass": 3
+   },
+   {
+    "quote": "投資額だけでなく、撤退判断の精度向上も含めたリターンで検討しましょう",
+    "url": "https://growth-marketing-lab.com/marketing/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタント任せにせず、社内の事業開発の責任者・実行メンバーを明確にしましょう",
+    "url": "https://growth-marketing-lab.com/marketing/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "プライバシーポリシー/免責事項",
+    "url": "https://growth-marketing-lab.com/marketing/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "は、「高年収・高待遇で給与が高い」「仕事の難易度が高く成長率が早い」「若いうちから責任ある仕事ができる」などがあります",
+    "url": "https://consulfree.com/blog/new-business-consultingfirm/",
+    "pass": 3
+   },
+   {
+    "quote": "を主としており、業務委託契約には「委任」「準委任」「請負」など様々な契約種類があり、法律行為の有無や業務責任において違いを知っておかないと違反行為にもなってしまうため注意が必要です",
+    "url": "https://consulfree.com/blog/new-business-consultingfirm/",
+    "pass": 3
+   },
+   {
+    "quote": "独自のAIツール・ノウハウを用いた高速な仮説検証により、リソース配分と経営判断の精度を向上",
+    "url": "https://open-insight.net/intersect/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし責任の所在が曖昧にならないよう、全体PMを誰が担うか決めておきましょう",
+    "url": "https://open-insight.net/intersect/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "成果を保証するものではありません",
+    "url": "https://radineer.asia/media/guides/new-business-services",
+    "pass": 3
+   },
+   {
+    "quote": "独自のAIツール・ノウハウを活用して仮説検証の精度と速度を高め、さらに独自のWebマーケティング手法によりニーズ探索から顧客開拓までを連動させ、事業化スピードの最大化に貢献します",
+    "url": "https://erp-lab.net/erp/post3/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "データ分析やテスト設計の実践的スキルにより、仮説検証の精度を高め、市場導入のタイミングを見極めます",
+    "url": "https://erp-lab.net/erp/post3/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業立ち上げには、意思決定権を持つ責任者、専任メンバー、既存事業との橋渡し役が必要です",
+    "url": "https://erp-lab.net/erp/post3/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業開発コンサルティングの初期段階では、学びの量と仮説精度向上も重要な指標です",
+    "url": "https://erp-lab.net/erp/post3/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "プライバシーポリシー/免責事項",
+    "url": "https://erp-lab.net/erp/post3/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "「既存事業だけでは、この先の成長が見込めないかもしれない」「新規事業に挑戦したいが、何から手をつければいいのかわからない」——中堅企業で事業企画や経営企画を担う方から、こうした声を聞く機会が増えています",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、既存事業では精度の高い予算管理やKPI管理が重視されますが、新規事業では「小さく試して検証し、方向転換しながら前進する」という進め方が求められます",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業への取り組みは、多くの企業にとって選択肢の一つから必須の経営課題へと位置づけが変わってきています",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "売上規模が数十億円以上の中堅企業では、既存事業で一定の経営基盤があるからこそ、新規事業に投じられるリソース（資金・人材・既存の顧客基盤やブランド力）を一定程度確保しやすいという強みがあります",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、意思決定のスピードや、失敗を許容する組織文化の醸成が課題になりやすいことも実務上よく指摘される点です",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "社内の人材・予算のみで推進する",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業が軌道に乗れば、事業ポートフォリオを多角化することで、経営上のリスクを分散させることにつながります",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、専任のチームを設ける、あるいは既存組織から一定の距離を置いた「出島組織」（本体組織のルールを一部緩和しつつ、新規事業に適した意思決定権限とガバナンスを別途設計する組織形態）を設置する企業も増えています",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "社内予算だけで進める場合と、外部からの出資や融資を組み合わせる場合とで、必要な自己資金の規模も変わってきます",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業の推進には、専任メンバーだけでなく、既存事業部門からの協力や経営層の意思決定への関与も必要になります",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "特に立ち上げの初期段階では、経営層が定期的に進捗を確認し、必要な判断を素早く行える体制を整えておくことが、事業のスピード感を保つうえで重要です",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "推進体制（専任者・チーム）と、経営層が意思決定に関与するタイミングが明確になっているか",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "長期ビジョン・中期経営計画戦略サイト",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビジョン・中期経営計画",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画策定・推進コンサルティング",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "将来の持続的成長を実現させる戦略設計を「中期3ヵ年経営計画」を構築することでご支援いたします",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "長期ビジョン構築・中期経営計画に必要な個別施策のコンサルティング",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "長期ビジョン構築・中期経営計画策定に必要な個別施策のコンサルティングオプションです",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "建設業支援実績2,000社以上の経営ノウハウで建設業特有の課題を解決するコンサルティングサービスを提供しています",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "2,300社以上の確かな支援実績で、製造業の経営課題を解決に導くチームを組み多角的な視点から課題解決をご支援します",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業立ち上げのセオリーは理解しているものの、事例がないとイメージしにくいと感じている経営者やリーダーは多いでしょう",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社が持つ技術を展開したり、経営理念を受け継いで新たな事業に参入したりなど、企業の特徴・強みを活かした成功例であるといえるでしょう",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な経験をもとに、マーケティングを軸とした経営戦略の立案、ビジネスモデルの再設計、組織風土改革など、攻守のバランスを重視したコンサルティングを数多く手掛けている",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営企画の役割とは？中長期の成長戦略を実現する機能とポイント",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビジョン・中期経営計画策定キーポイント",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "パーパス経営完全ガイド",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "ESG経営完全ガイド",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略、人材、デジタル化、",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "その他、産業系車両ディーラーの採用データ分析、技術系専門商社の経営層向け生成AI勉強会、運輸企業の採用ブランディング調査等、多業種の中堅企業支援を遂行",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "②栃木県の障害者支援企業が開業後２年で経営不振となった",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "すぐ支援に入り、経営者、従業員と話し合いの結果改善が始まり、1年で黒字化、4年後には債務を全額返済した",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "③栃木県の建設業で、経営不振の打開策として、遊休地でのホテル開業の支援依頼が県庁を通じて来た",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中核企業に対する支援の特徴は、経営者の「WHY（なぜ？）」を起点に、理念・戦略・組織・ブランドを一体的に設計する「協奏経営」アプローチによる、企業の転換点における本質的な変革の伴走",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "単なるアドバイスにとどまらず、構想から実行まで経営者の隣に立ち、共に動くスタイルが特徴",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "社長交代を機に経営理念体系の刷新・中期経営計画策定・幹部人材育成プログラムの開発・運営まで、新規事業開発・経営企画・教育研修部門を横断した約7年間の支援実績あり",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本知財学会 経営デザイン分科会 代表幹事",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "デザイン経営",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中核企業に対してデザイン経営のアプローチで新規事業構想支援を実施",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "幹部社員と未来構想セッションを行い、中期経営計画の方向性を導き出す支援を実施",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "規模の大きなワイナリーから小さなワイナリー、地方公共団体に対して、ぶどうやワインを起点にしたまちづくり、産業の発展支援、経営の安定化、新商品の開発、ツーリズムの開発等を行い、新たな取り組みの支援を実施",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "・Ｂ社：予算立案、予算管理の効率化支援",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "「地域の中堅・中核企業支援事業補助金(中堅・中核企業の経営力強化支援事業)」は、経済産業省により採択された",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業開発は、企業の持続的な成長に欠かせない重要な経営戦略です",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Independentはお客様の経営課題の解決に最適な発注先企業を完全無料でご紹介しています",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "課題の内容やご予算に合わせて「高品質×適正価格」なビジネスパートナーをご紹介いたします",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Independentはお客様の経営課題の解決に最適な発注先を完全無料でご紹介しています",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中小企業にとって、新規事業開発は持続的な成長を実現するための重要な経営戦略です",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、クライアント企業と密接に連携しながら、アジャイルなプロジェクト推進を行い、迅速な意思決定をサポートします",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LASINVA（ラシンバ）は、2021年に設立されたコンサルティングファームで、経営・戦略からITプロジェクトまで、上流から下流のフェーズにおいて幅広い支援を提供しています",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "・経営陣のコミットメント ・適切な社内リソースの確保 ・明確な目標設定 ・実行力の担保",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "成功報酬型のメリット： ・初期投資を抑えられる ・成果に応じた適正な費用負担 ・コンサルタントの責任感が高まる 固定報酬型のメリット： ・予算管理がしやすい ・長期的な視点での支援が受けられる ・客観的な提案が期待できる",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4. 予算設定のポイント",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業開発のコンサルティング予算は、以下の要素を考慮して設定します",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "予算の目安として、新規事業の想定売上高の5〜10%程度を投資額として見込むことが推奨されます",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "・戦略立案から実行支援までのワンストップサービス ・業界特化型の専門的支援プログラム ・経営者向けメンタリングプログラム ・定額制の継続的支援サービス ・成果報酬型のプロジェクト支援",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "各社とも、クライアント企業の規模や予算に応じて柔軟な料金設定を行っており、",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1. プロジェクトチームの組成 ・社内外の適切な人材配置 ・役割と責任の明確化 ・意思決定プロセスの確立 2. 目標設定とスケジュール策定 ・具体的なKGIとKPIの設定 ・マイルストーンの設定 ・リソース配分計画の策定",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルタントの料金の相場は？中小企業向けに比較して徹底解説します",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "経営全般のサポート",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルタントの料金相場は、月額の継続支援でおおむね次のとおり",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "競合分析を行い、既に同様のサービスが存在するか、どのような差別化が可能かを確認します",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "大手・中堅企業の具体例と共通ポイント｜タナベコンサルティングの長期ビジョン策定支援",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手・中堅企業の具体例と共通ポイント",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、大手企業と中堅企業の新規事業で成功した事例を紹介するとともに、成功事例に共通するポイントを解説します",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "【大手企業】新規事業の成功事例4選",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、大手企業が手がける新規事業の成功事例を紹介します",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "購入しやすい価格と、専用アプリで大手各社の配送状況を確認できるシステムにより、置き配の普及を後押ししています",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後、ボイスタートの事業は株式会社NTTデータに引き継がれ、現在も多くのメディアで紹介されています",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、大手企業や中堅企業による新規事業の成功事例を紹介しました",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "ブルーオーシャン戦略で競合ゼロの市場を創る",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内大手水産メーカーや地元企業と連携し、外部資金の申請を通じて研究費を確保するとともに、北海道内大学とのネットワークを活用して産・学・官連携による研究体制を構築",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "・その他：非正規人材の採用/活用、シェアード会社の機能整備、半導体/太陽電池/機能性フィルムなど各種事業戦略/技術戦略に関するコンサルティング、情報セキュリティーなどに関する支援を実施",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "合同会社デロイトトーマツ シニアコンサルタント",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社JTB及び株式会社JTBから委託を受けたPwCコンサルティング合同会社が運営しています",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 市場調査・分析フェーズ ・市場規模の算出 ・競合分析 ・顧客ニーズの深掘り 2. 戦略立案フェーズ ・事業コンセプトの策定 ・ビジネスモデルの設計 ・収益モデルの構築 3. 実行支援フェーズ ・アクションプランの策定 ・KPIの設定 ・進捗管理とモニタリング",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "CONNECTABLUE / コネクタブルー",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コネクタブルーは、大手・中堅企業の新規事業創出を中核に、構想策定から実行、立ち上げに至るまでを一気通貫で支援するコンサルティング会社です",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "https://connectablue.com/consulting/new-business/",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "PwCコンサルティング合同会社",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "PwCコンサルティング合同会社は、世界的なプロフェッショナルサービスファームであるPwC（PricewaterhouseCoopers）の日本法人であり、新規事業の立ち上げ支援にも強みを持っています",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.pwc.com/jp/ja/about-us/member/consulting.html",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "・PEST分析：マクロ環境分析 ・5Forces：競争環境分析 ・STP分析：市場セグメンテーション ・3C分析：自社・競合・顧客分析",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "・市場規模の算出と成長性予測 ・競合分析と差別化要因の特定 ・顧客ニーズの深堀り調査 ・規制環境や参入障壁の確認",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "大手ファームなら月100万円以上も普通、独立系や専門特化型の会社なら月20万〜100万円、スキル販売サイトの個人なら1万円を切ることもあります",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルティングファームの料金",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルティングファームの特徴",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルティングファームの料金相場",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な大手コンサルティング会社",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサル",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルティングファーム",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルファームというのは、コンサルティング業界でもトップクラスの会社を指す総称です",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "中でも総合系の大手コンサルティングファームは、経営戦略から実行まで一貫してサポートし、その名のとおり総合的に何でも解決できる体制を整えているため、中小企業経営の幅広い領域を任せることができます",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルティングファームの",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "大手のコンサル会社を活用する最大のメリットは、何と言っても業界トップクラスのハイレベルな支援が受けられる点にあります",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "業界トップの大手コンサルの場合、以下のような価格帯が相場となっています",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "以上のような点から、中小企業の中でもかなり規模が大きいか、潤沢な資金力があるところでなければ、大手コンサル会社の検討は事実上難しいと言えるでしょう",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "PwCコンサルティング",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "デロイトトーマツコンサルティング",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "大手精密機器メーカーL社",
+    "url": "https://www.layers.co.jp/solution/counter/",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査や競合分析を通じてターゲット市場の規模や成長性、競合動向を分析し、事業の実現可能性を判断することで、投資判断の精度を高めることができます",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断に必要な市場分析と競合調査を通じて、具体的な目標設定や実行スケジュールの策定を支援します",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "大手、中堅企業向けに幅広い実績があることも特長で、現場の失敗許容文化づくりと、経営判断に必要な材料の可視化を両立しながら、限られたリソース配分の中でも事業化スピードを最大化します",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "野村総合研究所",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "野村総合研究所（NRI）は、コンサルティングからシステム開発・運用までを一体で提供する総合的なプロフェッショナルファームとして、企業の新規事業創出・事業変革を支援しています",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区大手町1-9-2 大手町フィナンシャルシティ グランキューブ",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、大手コンサルティングファームに依頼する場合は、年間1,000万円から1億円程度の費用がかかることもあります",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査や競合分析を通じて、ターゲット市場の規模や成長性、競合動向を分析し、事業の実現可能性を判断します",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "競合分析と差別化ポイントを明確化し、自社の強みを活かした事業コンセプトの設計を行います",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "大手・中堅企業の具体例と共通ポイント｜タナベコンサルティングの長期ビジョン策定支援",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "pass": 3
+   },
+   {
+    "quote": "大手・中堅企業の具体例と共通ポイント",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、大手企業と中堅企業の新規事業で成功した事例を紹介するとともに、成功事例に共通するポイントを解説します",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "pass": 3
+   },
+   {
+    "quote": "【大手企業】新規事業の成功事例4選",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、大手企業が手がける新規事業の成功事例を紹介します",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "pass": 3
+   },
+   {
+    "quote": "購入しやすい価格と、専用アプリで大手各社の配送状況を確認できるシステムにより、置き配の普及を後押ししています",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "pass": 3
+   },
+   {
+    "quote": "その後、ボイスタートの事業は株式会社NTTデータに引き継がれ、現在も多くのメディアで紹介されています",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、大手企業や中堅企業による新規事業の成功事例を紹介しました",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "pass": 3
+   },
+   {
+    "quote": "ブルーオーシャン戦略で競合ゼロの市場を創る",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "pass": 3
+   },
+   {
+    "quote": "※包装加工は終日立ち仕事となります ※荷受け",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "異常がある商品を弾いていくだけの簡単業務です！ ラインの速度はゆっくりなので、焦る必要はありません！ 未経験スタートから活躍し続けているスタッフが多数在籍しています♪ ◯以下のような方にオススメです！ ・賞与ありの仕事でシッカリ稼ぎたい方 ・フリーターから正社員を目指したい方 ・一人で黙々と作業を進めたい方 ・人間関係で悩まない職場で働きたい方 ・大手企業で安心安定で働きたい方 まずはお気軽にご応募く",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "JMACの最新情報をシェアします",
+    "url": "https://www.jmac.co.jp/column/detail/sbus_03.html",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "新規事業専任の人材や過去の経験がすでに社内にある場合",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "不確実性の高い環境で仮説を立て、検証し、判断していく経験は、既存事業の運営だけでは得られにくいスキルです",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "不足する部分を補う選択肢としては、外部コンサルティングの活用に加えて、越境人材（所属組織や業界の枠を越えて他社・他領域で経験を積み、その知見を持ち込む人材）を受け入れる方法もあります",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "もともと資格取得支援のeラーニングサービスが主業務でしたが、そのノウハウを社員教育の分野に活かした形です",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に新規事業のような未経験の分野に対応できる人材は、通常の評価では見つけられないこともあるでしょう",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャーキャピタルにおいて投資先企業の戦略立案、マーケティング、フィージビリティ・スタディなど多角的な業務を経験後、当社に入社",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な経験をもとに、マーケティングを軸とした経営戦略の立案、ビジネスモデルの再設計、組織風土改革など、攻守のバランスを重視したコンサルティングを数多く手掛けている",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は生成AIやノーコードツール・SaaS等を活用し、大規模なシステム投資や専門人材を前提としない地に足が着いたDX化を重視",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルも、BtoBからBtoCへと変換するが、未経験のため支援の依頼があった",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "■支援実績（経験業務より）",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "多様な現場経験を活かし、課題に応じた柔軟な対応と実行性の高い支援を強みとする",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "と言われており、特に経験やノウハウが不足する中堅・中小企業にとっては、独力での新規事業立ち上げは困難を伴います",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "・対象業界での支援実績数 ・コンサルタントの業界経験 ・専門分野における研究や出版実績 ・業界特有の課題解決能力",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "・担当コンサルタントの経験と実績 ・バックアップ体制の充実度 ・外部専門家とのネットワーク ・品質管理体制",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "技術者出身のコンサルタントが在籍し、製造業特有の課題に対応できる体制が整っています",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "完全無料かつ会員登録不要でご利用いただけます",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業支援の現場に立つ経済産業省登録の中小企業診断士が、業界の実情を隠さずご案内します",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "国家資格所有",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "「経験の浅い担当者」",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "国家資格を持つ各分野のプロフェッショナルが、幅広い経営の悩みに解決策を提供します",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルの国家資格である中小企業診断士監修",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なコンサルタントが月に一定の日数を使って支援すれば、その人件費が費用の中心になり、ここにレポート作成やシステム・ツールの導入費用が加わることもあります",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "：経験や実績の裏づけは単価に反映されます",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "十分な実績や経験を持たない新人コンサルタントや、自社の課題にミスマッチなコンサルタントが担当者になる可能性もあるため、契約前に「どんな人が担当してくれるのか」をよく確認しておくようにしましょう",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルタントの国家資格保有者が、新規事業開発に専門家のサポートが必要な理由と、得られるメリットについて解説します",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "なお人事系コンサルタントの中には、社労士資格を持っている方も見かけます",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年に中小企業が直面する7つの経営課題とは？サイバー対策、金利、価格転嫁、販売不振、AI・DX、人手不足、事業承継への具体的な対応策を、経営コンサルタントの国家資格である中小企業診断士が徹底解説します",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "会社の資金繰り、改善しませんか？キャッシュフローを健全化するための具体的な手法や、金融機関との交渉術について、経営コンサルの国家資格である中小企業診断士がわかりやすく解説します",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "また経験が浅かったり、実力の無いコンサルタントに任せてしまうと、一般論で杓子定規な合理化を進められ、最悪の場合は企業の大切な強みを失いかねません",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "特にスキル販売サイトやクラウドソーシングサービスで、格安サポートを提供しているようなコンサルタントは、評価が良くても経験や実績をしっかりと確認した方がよいでしょう",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタントは誰でも名乗ることができる上に、本名ではなくニックネームで登録できるため、正直なところ得体の知れない人たちも数多く集まってしまいます",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関や人材仲介会社等の仲介機能向上により、経営人材及び専門人材が中堅企業へ継続的に流入する仕組みが定着すること",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業等の経営・専門人材の獲得を後押しする事業を推進",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "また、大企業ではポテンシャル を十分に発揮し切れていない経営人材及び専門人材が中堅企業に移動して活躍できる余地は大きい",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関や人材仲介会社等の仲介機能向上により、経営人材及び専門人材が中堅企業へ継続的に流入する仕組みの定着が期待される",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "❶中堅企業等の経営人材及び専門人材の獲得を後押しする事業を推進",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "一定規模の実績が蓄積されるまでの間、金融機関や人材仲介会社の、中堅企業等の経営人材及び専門人材の獲得を後押しする事業を推進",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "専門人材の不足",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "企業の意識向上が途上であることや、専門人材が不足している",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録",
+    "url": "https://www.layers.co.jp/solution/counter/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー開催予定など最新ニュースをご希望の方はメルマガ登録をお願いいたします",
+    "url": "https://www.layers.co.jp/solution/counter/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業向けの支援実績が豊富でも、中堅企業特有のリソース制約や意思決定プロセスに対応した経験がなければ、期待する成果を得られない可能性があります",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "もともと資格取得支援のeラーニングサービスが主業務でしたが、そのノウハウを社員教育の分野に活かした形です",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "pass": 3
+   },
+   {
+    "quote": "特に新規事業のような未経験の分野に対応できる人材は、通常の評価では見つけられないこともあるでしょう",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャーキャピタルにおいて投資先企業の戦略立案、マーケティング、フィージビリティ・スタディなど多角的な業務を経験後、当社に入社",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な経験をもとに、マーケティングを軸とした経営戦略の立案、ビジネスモデルの再設計、組織風土改革など、攻守のバランスを重視したコンサルティングを数多く手掛けている",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "pass": 3
+   },
+   {
+    "quote": "日払いあり・社宅あり／未経験スタート多数！安心の研修制度あり／安定した収入＆長期勤務可能 難しい作業はなく、マニュアルに沿って進めるだけなので未経験の方でもすぐに慣れていただけます",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 【雇用形態】 正社員 【給与】 月給 330,630円～500,000円 【勤務地】 山口県下関市小月小島１丁目４−７ 募集情報 ・日払いあり・社宅あり ・未経験スタート多数！安心の研修制度あり ・シンプル作業で覚えやすい ・コツコツ作業が好きな方に最適 ・安定した収入＆長期勤務可能 【仕事内容】 日払い・社宅あり 工場内にて製品の製造・加工・検品・梱包などをお任せします",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "フラワーアレンジメントの工場・指示書をもとに作るだけ・未経験活躍中",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "資格取得支援制度",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "有資格者歓迎",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "未経験の男女活躍中！もくもくと一人で働ける軽作業のお仕事！ 異業種から転職されてくる方が急増中！ 初めての工場ワークにピッタリのお仕事です！ 「このお仕事に向いている方」 ↓ ・軽作業がいい ・人間関係で悩みたくない ・早く入寮したい ・週払いを希望している ・未経験でも稼ぎたい 仕事内容 お花をカタチにする♪ フラワーアレンジメントの製造スタッフ！ 工場内で、ギフトやインテリアとして使われるフラワーアレンジメントを作るお仕事です",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 【雇用形態】 正社員 【給与】 月給 320,000円～530,000円 【勤務地】 兵庫県姫路市別所町佐土１１１８ 募集情報 ・日払いあり・社宅あり ・未経験スタート多数！安心の研修制度あり ・シンプル作業で覚えやすい ・コツコツ作業が好きな方に最適 ・安定した収入＆長期勤務可能 【仕事内容】 日払い・社宅あり 工場内にて製品の製造・加工・検品・梱包などをお任せします",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【応募資格】 [必須] ＜必須スキル＞ 以下いずれかの経験、または知見をお持ちの方 (1)製造業バリューチェーン ‐製造業でのエンジニア経験（開発・設計・生産技術等、3年以上） ‐業務コンサルタントとして製造業向け業務改革・IT改革支援の経験 ‐ITコンサルタントとしてデジタルツイン・デジタルマニュファクチャリング・MBSEの改革支援経験 (2)PLM／BOM 導入 ‐コンサルタントとしてPLM/BOM導入のビジョン策定・企画構想・業務要件定義の経験 ‐製造業にてPLM/BOM導入活動の推進リード経験 (3)各種デジタルツール導入 ‐SFA・3DCAD・シミュレータ（CAE/生産Simな",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "高収入の工場ワーク 一人集中作業のもくもく業務 未経験歓迎！ ＜お仕事の業務内容一例＞ ◯100均グッズ商品の製造業務 ラインに流れてくる商品の形や色に問題がないかチェックする業務です",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "異常がある商品を弾いていくだけの簡単業務です！ ラインの速度はゆっくりなので、焦る必要はありません！ 未経験スタートから活躍し続けているスタッフが多数在籍しています♪ ◯以下のような方にオススメです！ ・賞与ありの仕事でシッカリ稼ぎたい方 ・フリーターから正社員を目指したい方 ・一人で黙々と作業を進めたい方 ・人間関係で悩まない職場で働きたい方 ・大手企業で安心安定で働きたい方 まずはお気軽にご応募く",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 【雇用形態】 正社員 【給与】 月給 270,000円～500,000円 【勤務地】 神奈川県茅ヶ崎市本村2-8-1 募集情報 ・日払いあり・社宅あり ・未経験スタート多数！安心の研修制度あり ・シンプル作業で覚えやすい ・コツコツ作業が好きな方に最適 ・安定した収入＆長期勤務可能 【仕事内容】 日払い・社宅あり 工場内にて製品の製造・加工・検品・梱包などをお任せします",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "・塗装前の部品の脱脂処理やマスキング作業 ・塗装後の検査や梱包 ・その他片付け等 未経験でも丁寧にサポートいたします",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "未経験からの方も活躍中！ 【変更範囲：変更なし】 業務では塗装に従事しませんが、工業用機械の部品（鉄、アルミ、 鋳物）等に対して、スプレー塗装や浸漬塗装を行っています",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "★特にカッター、断裁機の経験者は優遇いたします",
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "スタートアップスタジオ等の伴走型支援を活用する",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "出資と実務支援を組み合わせるモデルなど、支援事業者が継続的に伴走する",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "「スタートアップスタジオ」と呼ばれる支援モデルには、事業創出そのものを担うもの、共同創業に近い形で関わるもの、出資と実務支援を組み合わせて継続的に伴走するものなど、複数の形態があります",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "TechHouse.Worksのように、出資（資金提供）と実務支援を組み合わせて、事業の立ち上げから運営までを継続的に伴走するモデルもその一例です",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "TechHouse.Worksでは、出資と実務支援を組み合わせた伴走型の支援モデルを軸に、中堅企業が推進する新規事業の相談にも応じています",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業は、市場調査のやり直しや追加の技術検証、業態によっては想定していなかった営業活動や導入支援の発生など、当初の計画にない工数・コストが検証段階で生じやすく、想定していたよりも時間とコストがかかることが少なくありません",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "目安として、初期検証は数週間から数ヶ月程度で進むケースもあれば、本格展開まで含めると事業の複雑さによっては半年から1〜2年程度かかることもあります",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "社内工数の目安",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "一般に、短期の初期検証（PoCまで）と長期の事業化（本格展開まで）とでは必要な期間が大きく異なり、初期検証は数週間から数ヶ月程度で進むケースもあれば、本格展開まで含めると事業の複雑さによっては半年から1〜2年程度かかることもあります",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "TechHouse.Worksでは、シード〜アーリー期のスタートアップ向けに、最大500万円のマイクロ出資と3か月の伴走トライアルを組み合わせた「Boot Up!」を、アーリー期からEXITまでのスタートアップ向けにスケール支援を行う「Listing On!」を提供しています",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "これらはスタートアップ向けの制度であり、中堅企業がそのままBoot Up!やListing On!の対象になるわけではありませんが、出資と実務の両面から継続的に伴走するという同じ考え方に基づき、中堅企業の新規事業についても個別にご相談をお受けしています",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、挑戦する人や組織に伴走するという考え方や、組織変革に関するより深い発信については、",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "建築系中堅企業に対し、営業プロセスへの生成AI導入（資料作成効率化・議事録自動化等）と伴走コンサルティングを同時実施",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "北海道全域で定期的に対面の打ち合わせを重ねながら、現場が確実に使いこなせる状態になるまで伴走します",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中核企業に対する支援の特徴は、経営者の「WHY（なぜ？）」を起点に、理念・戦略・組織・ブランドを一体的に設計する「協奏経営」アプローチによる、企業の転換点における本質的な変革の伴走",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "MVV策定による企業価値の明確化、求人媒体の最適運用、採用ブランディングを通じ、人材獲得の課題に対する支援",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の「ヒト（採用）」と「売上（集客・営業）」の課題に対し、上流の戦略から現場の導入・運用まで一気通貫で伴走できます",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "例：対象設備の統廃合を含めた検証を実施して最適化を検証、補助金導入対応等を含め、提案だけではなく、伴走型により連携して対応した",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "3〜6ヶ月程度の期間",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "テーマ探索および戦略立案から事業化までを一貫して支援する伴走型コンサルティング",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な支援期間は3〜6ヶ月程度",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "（3～6か月）",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングの費用は、多くの場合「コンサルタントの単価 × かかる工数（時間）」という考え方で積み上げられています",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "関わる人数：",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "依頼する内容に工数がかかる場合、結局何百万円という金額になることもあります",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに状況が全く同じというケースは存在しないことから、企業ごとに適した支援をカスタマイズする必要もあり、どうしても多くの工数が発生する傾向にあります",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "一点注意しなければいけないのは、自社内でのIT関連のノウハウ蓄積が進まず、将来的に自立したIT運用が難しくなるというリスクがある点です",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "保守や監視のみといった場合はかなり安く済みますが、現状分析からのIT戦略策定、DX実行支援や自社開発といった分野になると、工数がかかるため料金は跳ね上がってくるはずです",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "相談できる内容も多岐にわたり、1時間単位でのスポット相談がメインであるものの、中にはプロジェクト単位での伴走支援に対応している場合もあるようです",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "自社にとって本当に手助けが必要な、最も効果の大きい課題解決だけをコンサルタントに任せることで、工数が減るため費用も下がります",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "実際の作業が伴うと、工数次第で月30万〜100万円、大手ファームは月100万円以上といった金額も珍しくありません",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの場合「コンサルタントの単価 × かかる工数」で積み上げられます",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "差が出る要素は、課題の難易度・実力・関わる人数・会社のビジネスモデル・契約形態の5つ",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "①支援範囲を絞る：本当に効果の大きい課題だけを任せれば工数が減り、費用も下がります",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者に伴走する支援を重視",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "構想から実行まで伴走",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、外部環境課題を述べている（２）中堅企業を取り巻く伴走支援者のノウハウやマッチング制度を高度化・普遍化する仕組みに記載の、各種ノウハウやマッチング制度の活用方法を自社の経営戦略に落とし込む",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、（２）中堅企業を取り巻く伴走支援者のノウハウやマッチング制度を高度化・普遍化する仕組みに記載の政府が考える7つの外部環境課題を、政府の考える課題・原因・伴走支援者への期待・政府対応、に整理したうえで、そこから得られる示唆を検討していきます",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "伴走支援者への期待",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "＜伴走支援者への期待＞",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "※EMPとは、Emerging Managers Program の略称であり、新興資産運用業者への運用資金拠出促進を図ることを目的としたプログラムを指します",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "M&A 事業者（仲介会社や助言業務を行う会社）、PE ファンド、金融機関といった伴走支援者に、手数料の透明化、利益相反の禁止、経営者保証の解除等、健全な市場環境整備のために必要な事項に留意の上、M&A 後の成長を実現するようなサービスを期待する",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関や商社といった伴走支援者は、中堅企業の現地での円滑な事業展開と資金調達",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "③ 中堅企業の“自律的成長”環境実現には外部の資金・人材・伴走支援等とのミスマッチの解消が必要であり、そのために中堅企業の内部施策として「①長期の成長ビジョン」と「②それを支えるコーポレート・ファミリー双方のガバナンス」整備が重要であると考えていること",
+    "url": "https://afos.co.jp/topics/88",
+    "pass": 3
+   },
+   {
+    "quote": "｜30,001名以上",
+    "url": "https://www.layers.co.jp/solution/counter/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、伴走型支援に強く、テーマ探索から事業計画、PoC実施まで一気通貫でサポートするコンサルティング会社5社を厳選",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コネクタブルーは、新規事業の「テーマ探索」からPoC、事業計画の策定、事業化までを一気通貫で伴走する新規事業支援会社です",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "工業分野での豊富な実績を活かし、技術価値を市場ニーズへ翻訳しながらテーマ探索〜PoC〜事業計画まで伴走",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "製造メーカーの保有技術を活かした新規事業で市場参入から12ヶ月で黒字化を達成",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "IT企業のAI活用型新規サービス開発で市場投入から6ヶ月で想定を上回る引合を獲得",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "野村総合研究所（NRI）は、コンサルティングからシステム開発・運用までを一体で提供する総合的なプロフェッショナルファームとして、企業の新規事業創出・事業変革を支援しています",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "金融、流通、通信、製造、公共など幅広い業界知見と、先端テクノロジー（AI/データ分析、クラウド、セキュリティ等）の実装力を掛け合わせ、企業内の新規事業組織や既存事業部門と伴走しながら、企画の確度向上とスピーディな検証を推進します",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "また、PoCで終わらせず、事業計画・収益モデル、オペレーション設計、ガバナンス・リスク対応、組織・人材/パートナー戦略までを統合的に設計し、ローンチ後のスケール・運用定着まで見据えた支援を提供します",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "市場分析〜事業構想〜PoC〜開発・運用まで一気通貫で伴走し、立ち上げとスケールを実現",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "市場・顧客ニーズの探索から事業コンセプト設計、収益モデルの検証、PoC（概念実証）の設計・実行、サービス立ち上げ後の運用・改善までを一気通貫で伴走し、構想止まりにしない「実装・推進力」を重視した支援を提供します",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "調査・構想策定からPoC、プロダクト実装、運用改善までを一気通貫で伴走",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業領域では、構想策定にとどまらず、市場・顧客起点での機会探索から、事業性検証、事業計画策定、実行体制づくりまでを一気通貫で伴走します",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "市場・顧客起点の機会探索から事業計画・立ち上げまで一気通貫で伴走",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業支援においては、構想策定や市場・顧客分析、事業性評価といった上流工程から、サービス設計、PoC（実証）・MVP開発、プロダクト運用・グロースまでを一気通貫で伴走し、アイデアを実装可能な事業へと落とし込む実行力に強みを持ちます",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "構想・戦略からPoC/MVP開発、運用・グロースまで一気通貫で伴走",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "新規事業とは？中堅企業が取り組む進め方と成功のポイントをわかりやすく解説 | TechHouse.Works",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業とは？中堅企業が取り組む進め方と成功のポイントをわかりやすく解説",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "「既存事業だけでは、この先の成長が見込めないかもしれない」「新規事業に挑戦したいが、何から手をつければいいのかわからない」——中堅企業で事業企画や経営企画を担う方から、こうした声を聞く機会が増えています",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "市場環境の変化が速くなるなか、次の一手として新規事業を検討する企業は年々増えており、それは決して大企業だけの話ではありません",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、新規事業の基礎知識から、立ち上げの具体的なプロセス、進め方の選択肢、失敗しやすいパターン、業種別の論点まで、中堅企業の担当者が実務で使える情報を体系的に整理します",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、中堅企業に新規事業が求められるのか",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "POC（概念実証）は、アイデアや技術が実現可能かどうかを小規模に検証する取り組みです",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "特に地域に根ざした事業を展開する中堅企業にとっては、既存の商圏・顧客層だけに依存し続けることのリスクが徐々に大きくなっています",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁「中小企業白書（2017年版）」では、2016年度時点で実施された調査をもとに、新事業展開に取り組んだ中小企業のうち「成功した」と自己評価した割合が3割程度にとどまるという分析が示されています（出典：中小企業庁「中小企業白書2017年版」第2部第3章「新事業展開の成否の実態」）",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「中堅・中小企業等向けDX推進の手引き2025」（2025年3月）では、既存の業務データを活用して新たなサービスを開発した事例や、蓄積したデータをもとに新規のシステム開発につなげた事例が紹介されており、デジタル化への取り組みが新規事業のヒントになり得ることが示されています",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業ならではの新規事業への期待",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "売上規模が数十億円以上の中堅企業では、既存事業で一定の経営基盤があるからこそ、新規事業に投じられるリソース（資金・人材・既存の顧客基盤やブランド力）を一定程度確保しやすいという強みがあります",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "単発のコンサルティングと異なり、資金面と実務面の両方を長期にわたって支援してもらえる点が特徴で、社内に新規事業の専任チームを一からつくる余裕がない中堅企業にとって、選択肢の一つになり得ます",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "支援モデルによって重視する軸（思想的な相性を重視するか、規模やスピードを重視するかなど）は異なるため、自社の考え方に合う支援先を見極めることが大切です",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "TechHouse.Worksでは、出資と実務支援を組み合わせた伴走型の支援モデルを軸に、中堅企業が推進する新規事業の相談にも応じています",
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "pass": 3
+   },
+   {
+    "quote": "大手・中堅企業の具体例と共通ポイント｜タナベコンサルティングの長期ビジョン策定支援",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手・中堅企業の具体例と共通ポイント",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、大手企業と中堅企業の新規事業で成功した事例を紹介するとともに、成功事例に共通するポイントを解説します",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "【中堅企業】新規事業の成功事例4選",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、中堅企業が手がける新規事業の成功事例を紹介します",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来分野で優秀だと評価される従業員が、新分野で力を発揮できるかどうかは不明です",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、最初から大規模に展開しても十分にマネジメントできないおそれがあります",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "小規模な投資で小さな組織から始める、「リーンスタートアップ」が基本となるでしょう",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、大手企業や中堅企業による新規事業の成功事例を紹介しました",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年は社内ベンチャーを立ち上げる動きや、従業員の起業意識を高める組織体制を持った企業が見られます",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が自社の価値を自覚し、新しい局面に活かせるような組織風土の醸成を図る必要があるでしょう",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間で大企業から中堅企業まで約200業種、",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業の成長を支える専門家",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな分野で中堅企業を支援する",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "建築系中堅企業に対し、営業プロセスへの生成AI導入（資料作成効率化・議事録自動化等）と伴走コンサルティングを同時実施",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "その他、産業系車両ディーラーの採用データ分析、技術系専門商社の経営層向け生成AI勉強会、運輸企業の採用ブランディング調査等、多業種の中堅企業支援を遂行",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は生成AIやノーコードツール・SaaS等を活用し、大規模なシステム投資や専門人材を前提としない地に足が着いたDX化を重視",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "すぐ支援に入り、経営者、従業員と話し合いの結果改善が始まり、1年で黒字化、4年後には債務を全額返済した",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "支援実績として、創業100年超の地方中堅企業（非上場）では、新規事業開発顧問として国内外の複数の新規事業立ち上げに参画",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の「ヒト（採用）」と「売上（集客・営業）」の課題に対し、上流の戦略から現場の導入・運用まで一気通貫で伴走できます",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年度 中堅・中核企業支援プラットフォーム事業（一般枠）で繊維関連中堅企業11社とネットワークを組織し、サステナビリティ・国際化をテーマにワークショップを開催した",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業向けの実践的な新規事業立ち上げ初期のリサーチから、ユーザーニーズとチームごとのゴール定義、コンセプト策定とプロトタイピングを用いた事業検証までを課題当事者や外部メンターを巻き込んで人材開発ワークショップとして提供",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "規模の大きなワイナリーから小さなワイナリー、地方公共団体に対して、ぶどうやワインを起点にしたまちづくり、産業の発展支援、経営の安定化、新商品の開発、ツーリズムの開発等を行い、新たな取り組みの支援を実施",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは国の補助金を活用し、中堅企業へ次世代インフラ構築のロードマップを提示することが効果的であり、特に「DC廃熱×農業」「DC×AI拠点×防災拠点」「ベンチャー企業誘致」など地域価値を生む案件で強みを発揮できます",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "財務や会計の専門性をいかし、中小中堅企業の幅広い業種・企業をご支援",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業者での管理会計制度の導入・見える化に基づいた事業戦略の策定実行、運送業や製造業でのM&A戦略策定やPMI支援、卸売業・福祉事業等での営業戦略策定/実行支援（内外環境分析～ターゲティング～実行支援）、宿泊業での再生計画策定/実行支援、などに従事 また中央省庁・官公庁等と連携し、公共セクターの企業支援仕組構築の支援や、全国での100億企業ネットワークの創出支援、 東北などでの中核・中堅企業プラットフォーム事業などに従事",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレート×パブリックの掛け合わせを強みとし、企業支援に留まらず、自治体や官公庁、様々な地域の中堅中小企業を巻き込んだ支援を展開",
+    "url": "https://chiiki-platform.jp/expert/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中小企業に強い新規事業開発コンサル会社5選 - Independent",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中小企業に強い新規事業開発コンサル会社5選",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、中堅・中小企業にとって、限られたリソースの中で新規事業を成功させることは容易ではありません",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、中堅・中小企業の新規事業開発を支援する実績豊富なコンサルティング会社5社を厳選して紹介します",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 中堅・中小企業向け新規事業開発コンサル会社5選",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中小企業にとって、新規事業開発は持続的な成長を実現するための重要な経営戦略です",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "と言われており、特に経験やノウハウが不足する中堅・中小企業にとっては、独力での新規事業立ち上げは困難を伴います",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 市場調査・分析フェーズ ・市場規模の算出 ・競合分析 ・顧客ニーズの深掘り 2. 戦略立案フェーズ ・事業コンセプトの策定 ・ビジネスモデルの設計 ・収益モデルの構築 3. 実行支援フェーズ ・アクションプランの策定 ・KPIの設定 ・進捗管理とモニタリング",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コネクタブルーは、大手・中堅企業の新規事業創出を中核に、構想策定から実行、立ち上げに至るまでを一気通貫で支援するコンサルティング会社です",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業開発のコンサルティング費用は、プロジェクトの規模や期間によって大きく異なります",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "・プロジェクトの規模と期間 ・期待する成果の水準 ・自社のリソース状況 ・市場の成長性",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "予算の目安として、新規事業の想定売上高の5〜10%程度を投資額として見込むことが推奨されます",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "・類似規模の企業支援実績 ・新規事業開発の成功率 ・具体的な成果指標 ・クライアント企業からの評価",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "A社： ・プロジェクト規模に応じた段階的料金設定 ・月額50万円〜300万円の範囲 ・成功報酬型オプションあり B社： ・地域企業向けの柔軟な料金設定 ・月額30万円〜150万円の範囲 ・補助金活用支援込みのパッケージ提供 C社： ・規模に応じた従量制料金 ・月額100万円〜400万円の範囲 ・システム開発込みの総合支援プラン D社： ・フェーズ別の明確な料金体系 ・月額80万円〜350万円の範囲 ・戦略立案と実行支援の組み合わせ型 E社： ・成果連動型の料金体系 ・月額40万円〜200万円の範囲 ・長期支援割引制度あり",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "各社とも、クライアント企業の規模や予算に応じて柔軟な料金設定を行っており、",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルタントの料金の相場は？中小企業向けに比較して徹底解説します",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業支援の現場に立つ経済産業省登録の中小企業診断士が、業界の実情を隠さずご案内します",
+    "url": "https://ecto-con.com/consultingfee/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "新規事業 の成功事例8選。大手・ 中堅企業 の具体例と共通 ... — 新規事業 の成功事例8選。大手・ 中堅企業 の具体例と共通 ... タナベコンサルティング https://www.tanabeconsulting.co.jp > TOP > コラム",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "中堅 ・中小 企業 に強い 新規事業 開発コンサル会社5選 — 中堅 ・中小 企業 に強い 新規事業 開発コンサル会社5選 by-independent.com https://by-independent.com > コラム",
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業 の成功 事例 8選。大手・ 中堅企業 の具体例と共通 ... — 新規事業 の成功 事例 8選。大手・ 中堅企業 の具体例と共通 ... タナベコンサルティング https://www.tanabeconsulting.co.jp > TOP > コラム",
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業 の 新規事業 に強いコンサルティング会社5選【2026年 ... — 中堅企業 の 新規事業 に強いコンサルティング会社5選【2026年 ... 株式会社リレ https://lire.co.jp > ホーム > コラム",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業の投資判断から撤退基準まで：成功への評価軸と見極め方 - シ... — Jun 22, 2026 · 出典：アビームコンサルティング、パーソル総合研究所 【ケース】データに基づかない投資判断が招いた事業停滞と改善策 架空ケース：感情論で始まった新規事業の末路 ここでは架空のケースとして、データに基づかない投資判断が招いた事業停滞の事例をご紹介します。中堅IT企業であるY社 ...",
+    "url": "https://systeminvest-lab.com/14566/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業の新規事業に強いコンサルティング会社5選【2026年最新】 - I... — Feb 10, 2026 · 中堅企業の新規事業に強いコンサルティング会社5社を厳選紹介。PoCや仮説検証を重視した選び方、費用相場、リソース配分の最適化まで2026年最新情報で解説。事業化スピードを高める実践的なノウハウを提供します。",
+    "url": "https://by-independent.com/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業の新規事業に強いコンサルティング会社5選【2026年最新】 - ... — Mar 8, 2026 · 中堅企業の新規事業開発に強いコンサル会社5社を厳選比較。費用相場300万〜1,000万円、伴走型支援の選び方、PoC実施から事業化までの進め方を解説。リソース配分と仮説検証で成功確率を高める方法とは。",
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業の新規事業に強いコンサルティング会社5選【2026年最新】 — Feb 25, 2026 · 中堅企業が新規事業を成功させるには、限られたリソースを最適配分し、事業化スピードを高める専門支援が不可欠です。本記事では、2026年最新のトレンドを踏まえ、テーマ探索から事業計画、PoC実施まで伴走する中堅企業向けコンサルティング会社5社を厳選。投資規模・支援フェーズ・業界 ...",
+    "url": "https://growth-marketing-lab.com/marketing/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業の新規事業に強いコンサルティング会社5選【2026年最新】 — Feb 23, 2026 · 中堅企業が新規事業を成功させるには、限られたリソース配分と既存事業とのバランスが重要です。本記事では、2026年最新の情報をもとに、中堅企業の新規事業開発に特化したコンサルティング会社5選を厳選。テーマ探索から事業計画、PoC、事業化まで一気通貫で支援してくれるコンサル会社 ...",
+    "url": "https://open-insight.net/intersect/column4/cs-businessdevelopment-smb-top5/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Business Strategy Consulting Firms in Japan - ClutchTop Consulting Firms in Japan - Nov 2026 Rankings | Clutch.coSHARK CONSULTING - Tokyo-based Enterprise Management ...The Best Strategy Development Companies in Japan - Nov 2026 ...Top 87 Strategy Consulting Companies in Japan (2026) | ensunSmall and Medium Enterprise Consultant | Our supports ...Funai Research Institute Group expands its cons",
+    "url": "https://clutch.co/jp/consulting/strategy-development",
+    "pass": 3
+   },
+   {
+    "quote": "Top Consulting Firms in Japan - Nov 2026 Rankings | Clutch.coSHARK CONSULTING - Tokyo-based Enterprise Management ...The Best Strategy Development Companies in Japan - Nov 2026 ...Top 87 Strategy Consulting Companies in Japan (2026) | ensunSmall and Medium Enterprise Consultant | Our supports ...Funai Research Institute Group expands its consulting ... — Midsize Business Consulting and Corporate T",
+    "url": "https://clutch.co/jp/consulting",
+    "pass": 3
+   },
+   {
+    "quote": "The Best Strategy Development Companies in Japan - Nov 2026 ...Top 87 Strategy Consulting Companies in Japan (2026) | ensunSmall and Medium Enterprise Consultant | Our supports ...Funai Research Institute Group expands its consulting ... — Midsize Business Consulting and Corporate Training & Coaching company Wilson Learning, is based in Minato City, Japan. The team focuses on Business Consulting a",
+    "url": "https://themanifest.com/jp/business-consulting/strategy-development/firms",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "重松 理貴 - 公益財団法人日本生産性本部の経営コンサルタントとして...餅崎 晃大 - Buff Lush 代表｜中堅・中小企業の営業戦略・業務改善・...「一強多敗時代における中堅・中小企業の戦略：弱者の生き残り方」生成AIの新規事業で、市場そのものをつくるBtoBマーケターChristoph Hobo – Berlin, Berlin, Deutschland | Berufliches ...中堅企業向けのエージェントAIによるビジネス潜在力の解き放ち 重松 理貴 公益財団法人日本生産性本部の経営コンサルタントとして、大企業から中堅・中小企業向けの経営コンサルティングを行っています。政府系金融機関の職員として15年超勤務し、融資担当者の立場から中堅・中小企業の再生・新規事業創出等に打ち込んだ経験があります。その他 ... Buff Lush 代表｜中堅・中小企業の営業戦略・業務改善",
+    "url": "https://jp.linkedin.com/in/ｍshigematsu",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mirasapo-plus.go.jp/hint/20303/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.miraic.jp/online/8tips/category/tip02/12160.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://chiiki-platform.jp/expert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/economy/chuuken/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consultancy-newbusiness.com/cousul_worries/consulting-fee.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-think.co.jp/columns/column-004/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ecto-con.com/consultingfee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/PDF/chusho/04Hakusyo_part2_chap3_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://goodpatch.com/blog/new-business-consulting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://afos.co.jp/topics/88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.layers.co.jp/solution/counter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/blog/jp-regional-revitalization-midsize-enterprise/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sony-acceleration-platform.com/article448.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmac.co.jp/column/detail/sbus_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/seminar/146269",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://review.tanabeconsulting.co.jp/consultingmethod/53067/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/zaimu/kannai/202303/tokubetsu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.kotora.jp/n/naf28b0fd0d17?gs=311e8a37e6f66a5822540ffd7f295598",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suits_ceo/n/na26b7d712eb9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ylo-corporatelaw.com/corporate/director/article04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skill-up-station.net/purojiekutomanejimentotoyakuwaribuntannojuuyoupointotetteigaido/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nakamuraaaaaaa/n/n4b8c7e820b70",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gce.globis.co.jp/create-the-future-and-the-organization/knowledge/business-manager/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://koujitsu.co.jp/blogs/new-business-withdrawal-criteria/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crexgroup.com/ja/data/column/research-design/new-business-exit-criteria/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systeminvest-lab.com/14572/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genee.jp/contents/what-is-new-business-evaluation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2022FY/000281.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://systeminvest-lab.com/14566/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://by-independent.com/column4/cs-businessdevelopment-smb-top5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-marketing-lab.com/marketing/column4/cs-businessdevelopment-smb-top5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consulfree.com/blog/new-business-consultingfirm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://open-insight.net/intersect/column4/cs-businessdevelopment-smb-top5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://radineer.asia/media/guides/new-business-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://erp-lab.net/erp/post3/cs-businessdevelopment-smb-top5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clutch.co/jp/consulting/strategy-development",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://clutch.co/jp/consulting",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://shark-consulting.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/ｍshigematsu",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中堅企業向けの戦略・新規事業プロジェクト",
+   "results": [
+    "https://techhouse.works/insights/new-business/what-is-new-business/",
+    "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "https://mirasapo-plus.go.jp/hint/20303/",
+    "https://www.miraic.jp/online/8tips/category/tip02/12160.html",
+    "https://chiiki-platform.jp/expert/",
+    "https://www.meti.go.jp/policy/economy/chuuken/index.html",
+    "https://www.glcl.co.jp/lp-new-business/",
+    "https://growth-marketing-lab.com/marketing/column4/cs-businessdevelopment-smb-top5/",
+    "https://prtimes.jp/main/html/rd/p/000000011.000125460.html",
+    "https://by-independent.com/column4/cs-businessdevelopment-smb-top5/"
+   ]
+  },
+  {
+   "query": "中堅企業向けの戦略・新規事業プロジェクト 費用 相場",
+   "results": [
+    "https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/",
+    "https://www.consultancy-newbusiness.com/cousul_worries/consulting-fee.html",
+    "https://www.i-think.co.jp/columns/column-004/",
+    "https://ecto-con.com/consultingfee/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/PDF/chusho/04Hakusyo_part2_chap3_web.pdf",
+    "https://goodpatch.com/blog/new-business-consulting",
+    "https://www.strategyand.pwc.com/jp/ja/publications/report/si-model-transformation.html",
+    "https://www.biz.ne.jp/matome/2003272/",
+    "https://sevendex.com/post/34351/",
+    "https://crex-consulting.com/column/strategy/new-business-cost-guide/"
+   ]
+  },
+  {
+   "query": "中堅企業向けの戦略・新規事業プロジェクト 事例 中堅企業",
+   "results": [
+    "https://www.tanabeconsulting.co.jp/vision/column/detail189.html",
+    "https://mirasapo-plus.go.jp/hint/20303/",
+    "https://afos.co.jp/topics/88",
+    "https://www.layers.co.jp/solution/counter/",
+    "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "https://www.salesforce.com/jp/blog/jp-regional-revitalization-midsize-enterprise/",
+    "https://sony-acceleration-platform.com/article448.html",
+    "https://www.meti.go.jp/policy/economy/chuuken/index.html",
+    "https://chiiki-platform.jp/expert/",
+    "https://www.tanabeconsulting.co.jp/vision/column/detail189.html?categoryName=new"
+   ]
+  },
+  {
+   "query": "中堅企業向けの戦略・新規事業プロジェクト 工場 製造業",
+   "results": [
+    "https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.jmac.co.jp/column/detail/sbus_03.html",
+    "https://www.funaisoken.co.jp/seminar/146269",
+    "https://review.tanabeconsulting.co.jp/consultingmethod/53067/",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "https://www.mof.go.jp/about_mof/zaimu/kannai/202303/tokubetsu.pdf",
+    "https://mirasapo-plus.go.jp/hint/20303/",
+    "https://www.nikkoss.jp/columns/post-641",
+    "https://incubation-base.com/column/manufacturer-new-business/",
+    "https://unlk.jp/column/manufacturing-new-business-process/"
+   ]
+  },
+  {
+   "query": "中堅企業向けの戦略・新規事業プロジェクト 責任 範囲 免責",
+   "results": [
+    "https://note.kotora.jp/n/naf28b0fd0d17",
+    "https://note.com/suits_ceo/n/na26b7d712eb9",
+    "https://ylo-corporatelaw.com/corporate/director/article04/",
+    "https://skill-up-station.net/purojiekutomanejimentotoyakuwaribuntannojuuyoupointotetteigaido/",
+    "https://note.com/nakamuraaaaaaa/n/n4b8c7e820b70",
+    "https://gce.globis.co.jp/create-the-future-and-the-organization/knowledge/business-manager/",
+    "https://www.meti.go.jp/meti_lib/report/2022FY/000281.pdf"
+   ]
+  },
+  {
+   "query": "中堅企業向けの戦略・新規事業プロジェクト 経営判断 損失額",
+   "results": [
+    "https://koujitsu.co.jp/blogs/new-business-withdrawal-criteria/",
+    "https://crexgroup.com/ja/data/column/research-design/new-business-exit-criteria/",
+    "https://systeminvest-lab.com/14572/",
+    "https://genee.jp/contents/what-is-new-business-evaluation/",
+    "https://www.meti.go.jp/meti_lib/report/2022FY/000281.pdf",
+    "https://systeminvest-lab.com/14566/",
+    "https://kpmg.com/jp/ja/insights/2026/10/newbusiness-validation-02.html"
+   ]
+  },
+  {
+   "query": "中堅企業向けの戦略・新規事業プロジェクト スタートアップ",
+   "results": [
+    "https://by-independent.com/column4/cs-businessdevelopment-smb-top5/",
+    "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "https://growth-marketing-lab.com/marketing/column4/cs-businessdevelopment-smb-top5/",
+    "https://consulfree.com/blog/new-business-consultingfirm/",
+    "https://open-insight.net/intersect/column4/cs-businessdevelopment-smb-top5/",
+    "https://radineer.asia/media/guides/new-business-services",
+    "https://erp-lab.net/erp/post3/cs-businessdevelopment-smb-top5/"
+   ]
+  },
+  {
+   "query": "strategy consulting for mid-size companies Japan",
+   "results": [
+    "https://clutch.co/jp/consulting/strategy-development",
+    "https://clutch.co/jp/consulting",
+    "https://shark-consulting.jp/en/",
+    "https://themanifest.com/jp/business-consulting/strategy-development/firms",
+    "https://ensun.io/search/strategy-consulting/japan",
+    "https://hd.funaisoken.co.jp/en/blogs/news/船井総研-g-中堅企業-化-コンサルを拡大",
+    "https://startup-support.metro.tokyo.lg.jp/onestop/en/consultant.php"
+   ]
+  },
+  {
+   "query": "strategy consulting for mid-size companies Japan startup pricing",
+   "results": [
+    "https://clutch.co/jp/consulting",
+    "https://clutch.co/jp/consulting/strategy-development",
+    "https://ensun.io/search/pricing-consulting/japan",
+    "https://japanstartupadvisory.com/pricing/",
+    "https://japanconsult.com/strategy-consulting/",
+    "https://ycp.com/lp/japan-pricing-strategy-consulting",
+    "https://www.consultancy.asia/firms/japan/pricing"
+   ]
+  },
+  {
+   "query": "site:note.com 中堅企業向けの戦略・新規事業プロジェクト",
+   "results": [
+    "https://note.com/komuin_tenshoku/n/n2d392f17266a",
+    "https://note.com/kandoinspirefact/n/n0fa4efbb808d",
+    "https://note.com/newbizcreate_777/n/n2a9cc8a2aaab",
+    "https://note.com/keiei_lab_note/n/n5acbd4481471",
+    "https://note.com/papapapapa_llc/n/n5b09a8f90faa",
+    "https://note.com/e_p/n/n77e18dc350fd",
+    "https://note.com/qol_inc/n/ne33fd63aa8fb"
+   ]
+  },
+  {
+   "query": "site:x.com 中堅企業向けの戦略・新規事業プロジェクト",
+   "results": [
+    "https://jf.x.com/images/media-preview/2107218633671737826",
+    "https://jf.x.com/images/media-preview/2093643544477254047",
+    "https://x.com/columuni/status/2051486453826531832",
+    "https://x.com/powerpoint_jp/status/2054703234082643989",
+    "https://x.com/TCG_IR/status/2004462190028578867",
+    "https://x.com/techhouse_works/status/2086671399943549311",
+    "https://x.com/funai_koho/status/2077317252605444536"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 中堅企業向けの戦略・新規事業プロジェクト",
+   "results": [
+    "https://jp.linkedin.com/in/ｍshigematsu",
+    "https://de.linkedin.com/in/christoph-hobo-302227",
+    "https://www.linkedin.com/jobs/view/東京：中堅企業戦略・新規事業コンサルタントー未経験者歓迎ー-at-rgf-professional-recruitment-japan-4215846247",
+    "https://jp.linkedin.com/in/晃大-餅崎-8b3aa432b",
+    "https://www.linkedin.com/pulse/一強多敗時代における中堅中小企業の戦略弱者の生き残り方-michio-okazaki-untlc",
+    "https://aq.linkedin.com/jobs/view/生成aiの新規事業で、市場そのものをつくるbtobマーケター-at-株式会社マツリカ-mazrica-inc-4482707186",
+    "https://jp.linkedin.com/pulse/unlocking-business-potential-agentic-ai-mid-market-companies-lf36e?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 中堅企業向けの戦略・新規事業プロジェクト",
+   "results": [
+    "https://www.facebook.com/tomokyun85/",
+    "https://www.facebook.com/tanabeconsulting/photos/中堅企業白書2026を発行いたしました-日本経済を支える中堅企業の実態と未来に向けた成長戦略を総合的にまとめた中堅企業白書2026を発刊いたしました-当社は創業/1304288095054228/",
+    "https://www.facebook.com/tanabeconsulting/posts/中堅企業白書2026を発刊いたしました日本経済を支える中堅企業の実態と未来に向けた成長戦略を総合的にまとめた中堅企業白書2026を発刊いたしました当社は創業以来/1325528216263549/",
+    "https://www.facebook.com/michinaru.co.jp/posts/中堅大手企業向け-新規事業人材育成プログラム事例本資料では新規事業に取り組む企業が抱える課題や新規事業人材の成長を阻む要因について抑えた上で新規事業人材の育成に/1204443658357273/",
+    "https://www.facebook.com/p/あおもり創生パートナーズ株式会社-61583802697170/",
+    "https://www.facebook.com/people/滋賀県-中堅中小企業スタートアップ-共創チャレンジ事業/61577743919477/",
+    "https://www.facebook.com/p/滋賀県-中堅中小企業スタートアップによるオープンイノベーション事業-61577743919477/"
+   ]
+  },
+  {
+   "query": "中堅企業向けの戦略・新規事業プロジェクト note 社長",
+   "results": [
+    "https://note.com/kandoinspirefact/n/n2819e12796e4",
+    "https://note.com/papapapapa_llc/n/n5b09a8f90faa",
+    "https://review.tanabeconsulting.co.jp/column/pick-up-topics/20260722131411/",
+    "https://media.funaisoken.co.jp/blogs/column/executive-new-business-strategy",
+    "https://media.funaisoken.co.jp/blogs/column/smb-new-business-success",
+    "https://bizdev-note.com/",
+    "https://www.funaisoken.co.jp/dl-contents/keieikikaku-shitsu_keieikikaku-shitsu_00000602_S001"
+   ]
+  },
+  {
+   "query": "中堅企業向けの戦略・新規事業プロジェクト X 投稿",
+   "results": [
+    "https://s--line.co.jp/x-twitter-business-2026/",
+    "https://tatap.jp/knowledge/x-twitter-corporate-operation-guide/",
+    "https://www.sharecoto.co.jp/twitterlab/operation/post-example/",
+    "https://by-independent.com/column4/cs-businessdevelopment-smb-top5/",
+    "https://media.boosttech.jp/sns/x-corporate-operation-guide/",
+    "https://growth-marketing-lab.com/marketing/column4/cs-businessdevelopment-smb-top5/",
+    "https://sevendex.com/post/35517/"
+   ]
+  },
+  {
+   "query": "strategy consulting for mid-size companies Japan site:linkedin.com",
+   "results": [
+    "https://jp.linkedin.com/in/taki-fujii2b8baa162/ja",
+    "https://www.linkedin.com/pulse/strategy-consulting-mid-market-companies-kyewe",
+    "https://jp.linkedin.com/company/strategic-consulting-japan",
+    "https://www.linkedin.com/pulse/japanese-business-consultant-comprehensive-guide-navigating-00dce",
+    "https://gp.linkedin.com/company/yamada-consulting-group-co-ltd",
+    "https://in.linkedin.com/in/tokyoconsultinggroup",
+    "https://sg.linkedin.com/company/yamada-consulting-group-co-ltd-singapore-branch"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,2064 @@
+{
+ "name": "保険・リース向けの工場設備リスク評価",
+ "en": "equipment risk assessment for insurers factory shop floor manufacturer",
+ "aliases": [
+  "設備リスク評価 保険 工場",
+  "機械保険 リスク診断 工場",
+  "リース 設備 劣化評価 工場",
+  "製造業 保険"
+ ],
+ "context": "予知保全（工場設備のみ。プラント・インフラは除外）",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:08:20.202189+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "労災の概要や判断基準、発生時の対応のほか、どのようなケースが労災に認定されるのか、具体的な事例をもとに解説しています",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "安全配慮義務違反とは？具体的な事例と防ぐための取組を解説",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、実施時には、作業手順書や機械の取扱説明書、ヒヤリハットや労災の事例を持ち寄るとスムーズに調査が行えます",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒヤリハットとは？意味から原因、事例まで徹底解説",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒヤリハットの概要や事例、防止策等について解説しています",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "普段の安全活動やヒヤリハット事例を集めながら洗い出しましょう",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "（出典：株式会社インターリスク総研 厚生労働省委託事業『リスクアセスメント実施事例集』）",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省等では、リスクアセスメントの実施に関するさまざまな情報提供を行っています",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "というページにおいては、建設業向けのリスクアセスメント実施支援システム等を紹介しています",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "安全で安心できる職場環境を提供し、従業員の労働災害へのリスクを低減するために、ぜひ活用してみましょう",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年付 株式会社インターリスク総研 厚生労働省委託事業 「中小零細規模事業場集団リスクアセスメント研修事業 リスクアセスメント実施事例集」",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月12日付 東京都労働局登録教習機関 一般社団法人中小建設業特別教育協会 「リスクアセスメントの進め方、書き方、そして事例まで」",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "10億宣言とは？中小企業経営者が知っておきたい対象・支援策と今からの準備",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "※各ニュースの内容やサービス名称等は、すべて公開日現在の情報です",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "その後の法改正や制度改定、サービス名称の変更等は反映しておりませんので、ご注意ください",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "事故には至らなかったが危険だった事例を収集・分析し、潜在的な危険を先行して対策する",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "八千代ソリューションズ株式会社によるオンライン調査（2025年10月実施、n=500）によると、マネジメント層で「安全性・法規制リスク」を設備更新の主な理由に挙げる割合は",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "八千代ソリューションズ株式会社によるオンライン調査（2025年4月実施、n=500）によると、専用システム（CMMS等）利用者で保全記録を「定期的に記録」している割合は",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "八千代ソリューションズ株式会社によるオンライン調査（2024年5月実施、n=500）によると、専用システム非利用の工場で保全部品点数が「わからない」と回答した割合は",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "資料請求（導入事例集）",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "AI型予兆予測サービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI関連サービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIによる営業DXサービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク機器/サービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク関連サービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "IT運用自動化サービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "データ活用・統合サービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店向けアプリサービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "モビリティ/テレマティクスサービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "決済関連製品/サービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "クレジット･電子マネー決済サービス/端末",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "決済系ソフトウエア/サービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "データ中継サービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "金融/流通関連製品＆サービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先の売上実績の悪化や、倒産により売掛金の回収ができず、資金繰り悪化に繋がらないよう備えておく必要があります",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "病気やケガによる入院・手術など、従業員が身近に直面するリスクに対する保障を提供する保険です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "セゾンの法人保険は、企業の多様なリスクをカバーする法人保険サービスです",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "損害賠償とは？企業の事例と法人保険の必要性",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "改善できるサービス",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめサービス",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "主な商品・サービス",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業向け事故防止サポートサービス",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "数多くの「PL訴訟対応実績」と広がる「海外ネットワーク」で貴社の海外展開をサポートします",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な「契約実績」と「訴訟対応」のノウハウで皆さまの経営をサポートします",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "の皆様が安心して経営に専念いただくための補償を包括的にご提供します",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内に所在するお取引先が商品の販売やサービスの提供にかかわる代金支払債務を履行しないことで、お客様が被る損害を補償します",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "初めてでも失敗しない！リースで産業機械を活用する際の選び方と注意点 ｜ 関西・大阪で建築や産業機械のことなら【NONメンテナンス株式会社】",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "関西で機器メンテナンス・建築のことならNONメンテナンス株式会社｜ホーム",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "著者：NONメンテナンス株式会社",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械メンテナンスと建築サービスで安心をお届けします — NONメンテナンス株式会社",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "NONメンテナンス株式会社は、産業機械のメンテナンスや建築関連のサービスを提供しています",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "また、建築工事やリフォームにも対応しており、信頼と品質を提供することをモットーにしています",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "NONメンテナンス株式会社",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "リース契約にはメンテナンスサービスが付帯している場合も多く、機械の故障やトラブルに迅速に対応できる体制が整っている点も魅力のひとつです",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "重要なのは、総合的なサービス品質と長期利用時のリスクを含めて総合判断することです",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "保険・保証サービス",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "保守サービスが充実していないリース契約では、万一故障した場合に修理費が別途発生し、結果的にコストが高騰するリスクがあります",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルトランスフォーメーション（DX）や脱炭素化対応のための設備導入において、リースを活用する企業が急増しており、リース会社各社もこれに対応した新しいサービスモデルを次々に打ち出しています",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業は、市場ニーズを的確に捉えた上で、新たなサービス開発やビジネスモデルの革新を進めています",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "安全配慮義務違反に当てはまるケースや防止策、企業のリスクと責任、等について解説しています",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "また、現場をよく知る作業者や化学物質等の専門知識を持った責任者にも声を掛け、多様な階層の意見を集められるような体制を築きましょう",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "職場における熱中症対策、業務災害と企業としての責任等について解説しています",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が業務中に熱中症になったら会社の責任はどうなるか？～判例から考える企業の安全配慮義務～",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "Q5. 設備保全の不備が労働災害につながった場合、会社の法的責任はどうなりますか？",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全の不備が原因で労働災害が発生した場合の会社の法的責任は①労働安全衛生法違反：設備の点検・安全装置の維持管理を怠った場合、労働安全衛生法違反として送検・罰則（罰金・懲役）の対象になる可能性がある②民事賠償責任：被災した労働者・家族から損害賠償請求を受ける可能性がある",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "安全配慮義務違反が認められると、高額の損害賠償が認定されるケースがある③行政処分：労働基準監督署による使用停止命令・改善命令が発令される可能性がある④労災保険の保険料増加：事故件数・重篤度に応じてメリット制により保険料が増加する⑤社会的信用・風評リスク：重大事故は報道・SNSで拡散し、採用・取引先・顧客への影響が生じる",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全の日常的な管理（点検記録・修理記録・安全確認の記録）は、法的責任を問われた際の「安全管理を適切に行っていた証拠」としても機能します",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "損害保険業界向け事故状況推定システム",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "リース車両であっても、安全運転管理者には全車両の整備状況を把握する責任があります",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、重大なトラブルを未然に防ぐと同時に、事故発生時の説明責任や社内監査にも対応できる、安全性と信頼性の高い管理体制を構築できます",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、設備の故障や労働災害、製品の欠陥による賠償など、経営に影響を与える可能性があるリスクは数多く存在します",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では建物/設備の損害や情報漏えい、貸倒、労災など多様なリスクがあり、場合によっては巨額の損失が発生することもあります",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備・機械の損傷や火災・爆発などにより、工場や倉庫、事務所、設備などに損害が発生した場合、設備修理や入れ替えが終了するまで生産ラインが停止することになるでしょう",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "火災や風災、水災、地震などの災害による建物や設備、機械の損害、または災害による休業損失に備える保険です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "不測かつ突発的な事故や災害により建物が損害を受けたり、休業による損失や第三者への損害賠償責任が発生した場合に備える保険です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "動産（設備、商品、製品など）を保管中、運送中、展示中に発生する事故による損害に備える保険です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場や事業所における機械装置や設備が事故や故障で破損した際の損害に備える保険です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客および自社の機密情報が漏えいし、顧客や社会から信用を失い、売上減少や資産減失の甚大な損害が生じないように備えておくことが大切です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、訴訟になった際の対策としての弁護士費用や損害賠償責任も備えておく必要があります",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "・使用者賠償責任保険",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が労働災害に遭い、企業が法律上の損害賠償責任を負う場合に備える保険です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "被害者への賠償金や製品のリコール費用、訴訟になった場合の訴訟費用などへの備えをしておくことが重要です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造物の欠陥により第三者に損害を与えた際の賠償責任に備える保険です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "搬送中や保管中の原材料や部品、製品などの損傷、搬送中に操作を誤り他人の財物を損壊した場合など、法律上の損害賠償責任を負担することになるかもしれません",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "リース機材や原材料、部品、製品、半製品などが保管中、輸送中、または加工中に被る事故による損害に備える保険です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "賠償責任の保険",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "信用・保証の商品",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業活動を取り巻く、「財物損害」、「休業損失」、「賠償責任」、「事故に伴う費用の負担」などの各種のリスクをまとめて補償するタイプの保険です",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "火災をはじめとする様々な偶然な事故による事業財産の損害を補償",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "火災、落雷、破裂・爆発、風災等の損害に加え、水災、盗難、電気的・機械的事故、偶然な破損事故等による損害までニーズに応じて補償します",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "火災、落雷、破裂・爆発をはじめ、様々な偶然な事故を原因とした休業による利益の損失や家賃の損失といった間接損害を補償します",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業総合保険(財産補償条項)など直接損害を補償する保険と組み合わせることでさらに安心なビジネスライフを実現します",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに「利益の減少」や「営業継続費用」といった間接損害も補償可能です",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "地震または噴火、津波などの災害によって財物に生じる損害を補償します",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の操作ミス、ショート・アーク等の過電流、他物の衝突等の不測かつ突発的な事故により、機械設備・装置に生じた損害を補償します",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "施設賠償責任保険",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "映画館の火災の際の誘導ミスにより観客にケガを負わせた、飲食店で給仕中にお客様に熱いコーヒーをこぼして火傷を負わせた等、第三者に対して負担する法律上の賠償責任を補償します",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "被害者への賠償金に加え、訴訟費用等の各種費用も補償します",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産物賠償責任保険",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店での食中毒事故や、補修工事を行ったタイル壁が落下し、歩行者の頭を直撃した等、第三者に対して負担する法律上の賠償責任を補償します",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "保険・保証サービス",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "盗難・火災・自然災害などに対する保証範囲",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "保守・保証一体型リース拡充",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "企業リスクとは？業種別の事故事例とリスクマネジメントの考え方を解説 | 企業のための保険ナビ | 日本損害保険協会",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "賠償責任のリスク",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "」に分類し、それぞれの具体的な損害事例とリスクに対する備えを解説します",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "企業が所有・使用する資産に対する損害",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "事故等を起因とする売上減少・操業停止による損害",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客・取引先などの第三者への損害賠償",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "社用車の事故等による損害",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の交通事故による損害賠償、車両破損など",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "建物・設備・商品・在庫など、企業が保有・使用する資産に損害が生じるリスク",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの損害は、修繕費用や設備の買い替え費用といった直接的な損失にとどまらず、生産ラインの停止や営業休止による売上減少など、利益損失へ波及する可能性が高い点にも注意が必要です",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "違反した場合、損害賠償請求や訴訟に発展する可能性",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "法令に違反した場合、役員個人の責任が追及される可能性があります",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "賠償責任のリスクとは、",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "契約上のトラブルや法令違反などにより、法的責任を問われるリスク",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先との契約不履行、知的財産の侵害、コンプライアンス違反、顧客情報の漏えい・サイバー攻撃による損害賠償リスク",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "労災、設備の事故、サイバー攻撃による生産停止、取引先への賠償",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "経営課題から探す",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "健康経営・メンタルヘルス",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "人的資本経営",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "経営に関する全般",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "物流2030年問題とは？経営に与える影響と取り組むべき対策を解説",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "10億宣言とは？中小企業経営者が知っておきたい対象・支援策と今からの準備",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "経営に活用できる有効な情報を",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "「経営リスク対策」に経験豊富な",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "経営リスクに対応する",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "Q4. 安全文化を高めるために経営層・管理職が果たすべき役割は何ですか？",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "老朽設備のリスクを可視化し、更新計画の根拠とする",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "経営・管理層ほど設備の安全性リスクを設備更新の判断基準として重視しており、安全管理と設備保全投資の連携が重要な経営課題として認識されています",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "安全文化の構築において経営層・管理職が果たすべき役割は①「安全はコストより優先する」というメッセージを明確に発信する：「安全のためなら生産を止めても良い」という意思表示が、現場担当者が安全を優先する行動を生む②安全パトロールに経営層・管理職が参加する：「経営層が現場を見ている」という姿勢が現場の安全意識を高める③安全投資（設備の安全機能改善・教育・保護具）を承認する：現場から安全改善の提案が出た時に、コストを理由に却下しない姿勢を示す④安全成果を評価・賞賛する：無災害記録・ヒヤリハット件数・安全改善提案数をKPIとして管理し、良い取り組みを表彰する⑤事故発生時に「なぜ起きたか」ではなく「何を変えるか」に焦点を当てる：事故後に犯人探しをする文化では、問題が隠蔽されるようになる",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "突発的な修理費の発生も避けられるため、予算管理の面でも安心です",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "月々のコストを一定にし、予算管理をシンプルにしたい企業",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "リース料の支払いは毎月一定なので、予算管理もしやすくなります",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、設備の故障や労働災害、製品の欠陥による賠償など、経営に影響を与える可能性があるリスクは数多く存在します",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "自分の会社は大丈夫と過信することなく、万全の対策を講じておくことで、取引先を含めて安心した事業経営を行っていけるでしょう",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "⑨ 経営者に万一があった時のリスク",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営者に万一があった時、高額な設備などの借入金が残っていると、ご家族へ借入金が残り負担になる場合や、事業継続できない場合があります",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "⑩ 経営者・役員退職金",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営者、役員の方の豊かなセカンドライフのために、退職金を生命保険で準備しておくことができます",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "直近の利益が黒字でも、理事長退職金を支払うことによる当期赤字決算リスクを回避できるだけでなく、経営者・役員報酬として受け取るよりも、退職金として受け取る方が税制上のメリットがあります",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、運転資金などの経営資金と退職金原資を別々に管理できるので、退職金に使おうと思っていた資金を運転資金や設備投資に使ってしまう、という事態を避けることができます",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場や倉庫の火災や自然災害による設備被害、従業員の作業中のケガ、製造した製品に欠陥があった場合の賠償、経営者に万一の事態が発生した際の不安はありませんか？",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な「契約実績」と「訴訟対応」のノウハウで皆さまの経営をサポートします",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "の皆様が安心して経営に専念いただくための補償を包括的にご提供します",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "リースには、契約期間終了後に機械を返却するオペレーティングリースと、契約満了後に機械を買取可能なファイナンスリースの2種類があり、企業の経営方針や資金計画に応じて選択されています",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "市場環境の変化に柔軟に対応できる経営体制を築くうえでも、リース活用は大きなメリットをもたらします",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "その背景には、購入に比べて資金負担が軽減される点や、経営の柔軟性を高める効果があるためです",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "経営の柔軟性向上",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "短期間で最新機器に入れ替えたい、柔軟な経営を目指す企業",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "企業がリースを積極的に選択する背景には、経営環境の不確実性に備えた「柔軟な資産運用ニーズ」があります",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "リースという選択肢を、単なるコストダウン手段にとどめず、経営力を高める武器として賢く活用していきましょう",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "経営者・役員のリスク",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "このような「企業リスク」は、ひとたび発生すれば金銭的損失だけでなく、信用低下や事業停止など、経営そのものに深刻な影響を及ぼす可能性",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "適切なリスクマネジメントで持続可能な経営を実現しよう",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、企業経営において代表的なリスクを整理し、全体像を把握しておくことが重要です",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者や役員に関わるトラブル",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者の経営判断ミスによって生じる事業停止・損失発生による訴訟・信用問題など",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの損害は、修繕費用や設備の買い替え費用といった直接的な損失にとどまらず、生産ラインの停止や営業休止による売上減少など、利益損失へ波及する可能性が高い点にも注意が必要です",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者・役員のリスクは、",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断や経営体制そのものに関わるリスク",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者の病気や死亡、重大な経営判断ミス、法令違反、雇用トラブルなどが該当します",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "賠償責任のリスクにかかるトラブルは、金銭面だけでなく、営業停止、信用・イメージの低下など、企業経営全体に長期的な影響を及ぼす恐れがあります",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "企業経営においてはリスク発生時の損害を最小限に抑える「備え」が重要",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "経営環境の変化や法改正、事業拡大などに応じてリスク構造は変化するため、策定したリスク対策は、定期的に見直すことが重要",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、工場火災や機械故障によって生産ラインが停止すると、修繕費用だけでなく、操業停止による売上減少や取引先への影響など、甚大な損害につながる可能性があります",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、サプライチェーン上の取引先トラブルや納期遅延など、「事業中断・利益減少のリスク」が経営に影響を及ぼすケースもあります",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "止められない工場の経営を、",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業の経営リスクに、保険とリスクマネジメントの実務者が公的データに基づいてお答えします",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "経営リスクの6領域",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "義務化された対策と、労災が経営に与える実費を整理します",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者の目で読み解く",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "国の白書は分厚く、現場の経営にどう関わるのかが見えにくいもの",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "全8回で、中小製造業の意思決定に必要な箇所だけを抜き出して解説します",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "公的データと制度にもとづいて、中小製造業の経営判断に必要な情報をお伝えします",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "保険の見直しに限らず、BCPの作成や取引先との契約条項など、製造業の経営リスクに関するご相談を無料でお受けしています",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "（神奈川県大和市・法人専門保険代理店）が運営する、中小製造業の経営者向け情報ページです",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "防災経営（神奈川の法人向け）",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業だけでなく、中小企業を中心としたサプライチェーン先へのサイバー攻撃も増加傾向にあります",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業の動向から読み解く将来性",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "リース市場の今後を考える上で、業界をリードする大手企業の動きは参考になります",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業は、市場ニーズを的確に捉えた上で、新たなサービス開発やビジネスモデルの革新を進めています",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業が導入を進めるオペレーティングリースや短期リースプランの拡大傾向からも、リース市場が今後ますます重要な役割を担っていくことが読み取れます",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "労災の概要や判断基準、発生時の対応のほか、どのようなケースが労災に認定されるのか、具体的な事例をもとに解説しています",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月12日付 東京都労働局登録教習機関 一般社団法人中小建設業特別教育協会 「リスクアセスメントの進め方、書き方、そして事例まで」",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "「経営リスク対策」に経験豊富な",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "経験・勘だけに頼った安全管理から「データ・リスク評価」に基づく安全管理へ転換する②安全教育の徹底：採用時・配置転換時の基本安全教育と、日常のKYT・TBMの継続実施",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "安全配慮義務違反が認められると、高額の損害賠償が認定されるケースがある③行政処分：労働基準監督署による使用停止命令・改善命令が発令される可能性がある④労災保険の保険料増加：事故件数・重篤度に応じてメリット制により保険料が増加する⑤社会的信用・風評リスク：重大事故は報道・SNSで拡散し、採用・取引先・顧客への影響が生じる",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "登録メールアドレスへ即時お届け",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "リースでは車両購入時のような多額の頭金や登録諸費用が不要です",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用として、車両本体の購入費に加え、登録費用や自動車税、保険料などまとまった資金が必要になります",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "車両を購入した場合は、固定資産として登録し、減価償却などの煩雑な会計処理が必要になりますが、リースであれば毎月のリース料をそのまま経費として計上できるため、処理が非常にシンプルです",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業には幅広い種類があり、何を製造しているかによってリスクが異なるため、法人保険の取扱経験が豊富なコンサルタントに任せるのが良いでしょう",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富な専任コンサルタントが会社のリスクの洗い出しからご相談に乗り、豊富な選択肢から貴社に最適な保険をご提案します",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "貸金業者登録番号",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なスタッフが迅速かつ丁寧な対応を心掛けており、機械トラブルの早期解決を目指しています",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "経験者はもちろん、未経験者の方も安心して働ける環境を提供し、技術を身に付けながらキャリアアップが可能です",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "健康経営優良法人認定セルフチェック",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "受賞・認定等",
+    "url": "https://www.aig.co.jp/sonpo/global/solution/case-study/electronic-risk_engineering",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富な担当者が、企業を取り巻くさまざまなリスクへのアドバイスから",
+    "url": "https://www.aig.co.jp/sonpo/global/solution/case-study/electronic-risk_engineering",
+    "pass": 3
+   },
+   {
+    "quote": "設備の老朽化が進む中、これまでに見られなかった新たな不具合の発生や、ベテラン技術者の知見に依存した属人的な判断体制、人手不足による点検頻度の制約なども、予期せぬ故障のリスクを高める要因となっています",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "熟練技術者の退職リスクを解決！暗黙知を見える化する実践的デジタル化手法 【人材不...",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "メールマガジン配信登録",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "もし、過去に事業として事故を起こした、あるいは保険金を請求した経験がある場合、保険会社からはリスクが高いと判断され、保険料が高くなることがあります",
+    "url": "https://www.acciyo.com/ja/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E4%BA%8B%E6%A5%AD%E4%BF%9D%E9%99%BA%E3%80%81%E3%81%84%E3%81%8F%E3%82%89%E3%81%8B%E3%81%8B%E3%82%8B%EF%BC%9F%E8%B2%BB%E7%94%A8/",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "リスクアセスメントとは？意味や手順、実施例も紹介 | 中小企業の未来をサポート MSコンパス ❘ 三井住友海上",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の未来をサポート",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "安全で安心できる職場環境を提供し、従業員の労働災害へのリスクを低減するために、ぜひ活用してみましょう",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省 「プレス事業場における リスクアセスメントのすすめ方 中小規模事業場への導入を目指して」",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年付 株式会社インターリスク総研 厚生労働省委託事業 「中小零細規模事業場集団リスクアセスメント研修事業 リスクアセスメント実施事例集」",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が業務中に熱中症になったら会社の責任はどうなるか？～判例から考える企業の安全配慮義務～",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "障害者の法定雇用率が2.7％に引上げ｜中小企業への影響と対応ポイントを解説",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIで業務効率化する方法とは？中小企業の活用例・導入手順・注意点を解説",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "同一労働同一賃金とは？2026年10月の改正内容と中小企業が対応すべきポイントを解説",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "10億宣言とは？中小企業経営者が知っておきたい対象・支援策と今からの準備",
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "pass": 3
+   },
+   {
+    "quote": "特に会計処理を外部に委託している企業や、小規模な経理体制の会社には大きな利点です",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "人的リソースが限られる中小企業には特に有効です",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が抱えるリスクとは？法人保険に入る目的、保険の種類を紹介 | Credictionary for Business | 中小企業様・個人事業主様向けお役立ちビジネスコラム",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業様・個人事業主様向けお役立ちビジネスコラム",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業だけでなく、中小企業を中心としたサプライチェーン先へのサイバー攻撃も増加傾向にあります",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、従業員が持ち出したノートパソコンが盗難され情報漏えいに繋がるケースもあります",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客および自社の機密情報が漏えいし、顧客や社会から信用を失い、売上減少や資産減失の甚大な損害が生じないように備えておくことが大切です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "取引先の売上実績の悪化や、倒産により売掛金の回収ができず、資金繰り悪化に繋がらないよう備えておく必要があります",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場の従業員が機械に巻き込まれたり、高所から転落したりして死傷する事故が発生した場合、従業員への見舞金や入院補償・死亡補償などへの備えが必要です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務中や通勤中に従業員が事故で傷病や傷害を負ったり、死亡してしまった場合に備える保険です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が労働災害に遭い、企業が法律上の損害賠償責任を負う場合に備える保険です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、業務で新たな発明をした従業員が対価が不十分であるとして提訴することがあるかもしれません",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "そうならないように、当面の金融機関などへの返済や、従業員の給与、固定費などの運転資金がいくら必要かを考え、生命保険の加入による備えをしておくと良いでしょう",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "短期債務の返済資金や従業員給与など、当面の資金を生命保険の解約返戻金で備えることができます",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "⑪ 従業員の福利厚生",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "生命保険で確保することにより、従業員遺族に対する死亡退職金や弔慰金の原資として利用したり、計画的に準備しておくことにより資金準備が平準化でき、将来のキャッシュフローが安定します",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職金原資を計画的に準備することができる保険です",
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の労災の保険",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "主に商店や事務所、小規模の工場を営まれるお客様が対象です",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の操作ミス、ショート・アーク等の過電流、他物の衝突等の不測かつ突発的な事故により、機械設備・装置に生じた損害を補償します",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の方の労災事故に関して、「政府労災保険」の上乗せ給付や損害賠償責任を補償する保険",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の方が被った業務上の災害について、企業・個人事業主の皆さまに負担が生じる様々な損害をカバーする保険",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "「超Ｔプロテクション(業務災害総合保険)」は、従業員の方の業務上の災害を中心とした各種補償や損害賠償責任のリスクを補償する保険です",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間やリース料、対象機器の種類も多様化しており、事業規模や用途に応じた柔軟なプラン選びが重要になっています",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "対象機器も工事用機器やイベント機材など比較的小規模なものが多く、資産計上をせず経費処理できるため、資金管理の自由度が高いです",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な資金準備が不要になり、キャッシュフローを維持できる",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "市場変化に素早く対応したいスタートアップ企業や中小企業",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "資金繰りに慎重な中小企業や、急速な市場変化に対応したいスタートアップ企業にとって、リースはリスク管理上有効な手段となっています",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "成長市場への参入による売上拡大",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "従業員のリスク",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "企業活動には、従業員の労災事故や取引先とのトラブル、自然災害等による事業への影響など、日々さまざまなリスクが潜んでいます",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "企業活動には、業種や規模を問わず多様なリスクが存在します",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員に関わるトラブル",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "事故等を起因とする売上減少・操業停止による損害",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の交通事故による損害賠償、車両破損など",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "火災や落雷・風水害などの自然災害、盗難など、突発的に発生するケースが多く、被害規模が大きくなりやすい点が特徴",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの損害は、修繕費用や設備の買い替え費用といった直接的な損失にとどまらず、生産ラインの停止や営業休止による売上減少など、利益損失へ波及する可能性が高い点にも注意が必要です",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ハラスメントについても法整備が進んでおり、パワハラ防止措置（労働施策総合推進法）は2022年4月から全企業が対象に、さらにセクハラ防止措置も企業規模を問わず義務化されています",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員に関わるトラブルから生じるのが、従業員のリスクです",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先の倒産やサプライチェーンの断絶により操業が停止するケースや、感染症拡大による売上減なども含まれます",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバー攻撃の発生件数は 増加しており、いまや大企業だけでなく中小企業が標的となるケースもあるため、企業規模に関わらず注意が必要",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "次に、洗い出したリスクを「発生頻度」と「損害規模」の観点から整理し、優先順位をつけます",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "洗い出したリスクへの対処法は、損害規模と発生頻度の観点から、次の4つに分類できます",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "損害規模は小さいものの発生頻度が高いリスク",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業白書（2026年版） 中小製造業の財務・開廃業指標",
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模災害に備える",
+    "url": "https://www.aig.co.jp/sonpo/global/solution/case-study/electronic-risk_engineering",
+    "pass": 3
+   },
+   {
+    "quote": "従業員のリスク",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article03/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員や役員のケガなどの保険",
+    "url": "https://www.ms-ins.com/business/indemnity/biz-protector/compensation/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の所有自動車による事故",
+    "url": "https://www.ms-ins.com/business/indemnity/biz-protector/compensation/",
+    "pass": 3
+   },
+   {
+    "quote": "貴社またはその従業員等の営業活動・行事等での不注意によって発生した偶然な事故を補償します",
+    "url": "https://www.ms-ins.com/business/indemnity/biz-protector/compensation/",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "法定検査をCMMSで管理するメリットは①期限切れ・漏れの防止：法定検査の期限前にアラートを自動通知し、「気づかないまま検査期限切れで稼働させていた」という法令違反リスクを防ぐ②記録・証跡の一元管理：法定検査の実施記録・検査証・合否結果をCMMSで一元管理し、行政監査・顧客監査への対応を迅速化する③担当者変更時の継続性確保：担当者の退職・異動があっても、CMMSで管理された検査記録が引き継がれ、法定管理が途絶しない④コストの見える化：法定検査費用をCMMSで設備別・年次で集計し、設備更新判断の材料とする⑤設備の安全状態の履歴把握：過去の法定検査結果・指摘事項の推移をCMMSで管理し、設備劣化の傾向を安全管理に活用する、の5点です",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "(支払限度額は1,000万円／3,000万円／5,000万円の三種類)",
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "1億円（商品：1,500万円、設備什器：8,500万円）",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "約300万円",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "約640万円",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "500万円（休業損害保険金：400万円、営業継続費用：100万円）",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "管理財物損壊補償で対象となる損害のうち現金・貴重品の損壊については、1回の事故および保険期間中につき1,000万円の支払限度額が適用されます",
+    "url": "https://www.ms-ins.com/business/indemnity/biz-protector/compensation/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://www.ms-ins.com/business/indemnity/biz-protector/compensation/",
+    "pass": 3
+   },
+   {
+    "quote": "1名につき 10万円",
+    "url": "https://www.ms-ins.com/business/indemnity/biz-protector/compensation/",
+    "pass": 3
+   },
+   {
+    "quote": "1事故につき 100万円",
+    "url": "https://www.ms-ins.com/business/indemnity/biz-protector/compensation/",
+    "pass": 3
+   },
+   {
+    "quote": "保険期間中につき 1,000万円",
+    "url": "https://www.ms-ins.com/business/indemnity/biz-protector/compensation/",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外：10万円",
+    "url": "https://www.ms-ins.com/business/indemnity/biz-protector/compensation/",
+    "pass": 3
+   },
+   {
+    "quote": "設備故障で223億円の損失？製造業が知るべきリスクの現実と対策 ｜株式会社エクサ",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備故障で223億円の損失？",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備故障で223億円の損失？製造業が知るべきリスクの現実と対策",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、旭化成株式会社の2021年3月期決算説明会によると、本火災による2020年度の損失額は合計223億円とされており、特別損失として一部が処理されています",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "N3棟の生産停止による売上影響：月当たり約130億円の売上減少（当初発表では170億円とされていたが、後に130億円に修正）",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "旭化成エレクトロニクスの223億円やルネサス セミコンダクタ マニュファクチュアリングの月130億円の売上減少という数字が示すように、設備故障による損失は企業経営に致命的な影響を与える可能性があります",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップの事業保険、いくらかかる？費用と選び方を徹底解説【2025年最新】",
+    "url": "https://www.acciyo.com/ja/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E4%BA%8B%E6%A5%AD%E4%BF%9D%E9%99%BA%E3%80%81%E3%81%84%E3%81%8F%E3%82%89%E3%81%8B%E3%81%8B%E3%82%8B%EF%BC%9F%E8%B2%BB%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "「給与総額 × 災害率 × 1,000円」",
+    "url": "https://www.acciyo.com/ja/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E4%BA%8B%E6%A5%AD%E4%BF%9D%E9%99%BA%E3%80%81%E3%81%84%E3%81%8F%E3%82%89%E3%81%8B%E3%81%8B%E3%82%8B%EF%BC%9F%E8%B2%BB%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 代替調達・外注費用",
+    "url": "https://nayuta-hoken.co.jp/article/kojo-kasai-hoken/",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "工場の安全管理の方法について検討する際は、自社の運用実態を踏まえた情報整理が出発点になります",
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク運用管理",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "ITシステム運用",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "IT運用自動化サービス",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、契約後の車両管理という課題にも焦点を当て、効率的な管理・運用方法までご紹介します",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "「社用車管理」不備のリスクと運用方法の最適解とは」資料無料ダウンロード",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "車両を購入して「所有」するのではなく、「使用する権利」を得る形で社用車を導入できるため、初期費用を抑えながら運用できるのが大きな特徴です",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりの際は、車両の利用目的や運用方針に応じて確認することが大切です",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "社用車リースの導入にあたり、自社の運用実態や管理体制に適した契約内容を見極めることが重要です",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の社用車を異なるリース会社・契約条件で運用している場合、各車両の契約満了日や更新期限を正確に把握するのが困難になります",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "複数台の車両を運用していても、契約状況を一覧で把握できるため、更新忘れや管理漏れのリスクを大幅に軽減",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした課題を効率的に管理・運用できるサービスが車両管理システム 『Mobility＋』 です",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "社用車リースを導入する企業にとって、リース後の運用管理こそが本質的な課題です",
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、レンタルは短期（数日から数か月単位）利用を前提とした契約であり、自由に返却できる柔軟性があります",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "故障リスク軽減、運用コストの削減が可能",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "保守・点検がリース料に組み込まれているため、追加コストを気にせずに機械を運用できるメリットがあります",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "企業がリースを積極的に選択する背景には、経営環境の不確実性に備えた「柔軟な資産運用ニーズ」があります",
+    "url": "https://non-mainte.com/blog/1398",
+    "pass": 3
+   },
+   {
+    "quote": "客室で火災が発生し、延焼した客室は約2か月半にわたり休業となった",
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "pass": 3
+   },
+   {
+    "quote": "1名につき 10万円",
+    "url": "https://www.ms-ins.com/business/indemnity/biz-protector/compensation/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、統合管理により全設備の故障履歴と保全記録を横断的に分析することで、「この設備でこの症状が出ると、数ヶ月後に故障する可能性が高い」といった予兆パターンを発見し、突発的な故障を未然に防ぐことが期待できます",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "エクサはEAM（統合資産管理）の構想策定からクイックアセスメント、システム導入、運用・保守まで一貫して支援します",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・大規模法人のリスクマネジメント支援、エンベデッド保険の組成・運用、興行中止保険の手配、事業継続力強化計画の策定、各種生命保険を担当",
+    "url": "https://nayuta-hoken.co.jp/article/kojo-kasai-hoken/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/content/11300000/001403315.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mentena.biz/insight/riskassesment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/koatsu_gas/pdf/012_04_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jisha.or.jp/info/field/ra/about01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smfl.co.jp/lease/knowledge/knowledge02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://non-mainte.com/blog/1398",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f-sfc.co.jp/product/lease/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei14/dl/130425-0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monozukuri-career.com/column/industry-news/kojo-risk-assessment-jirei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jisha.or.jp/info/field/ra/about07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpma.or.jp/information/quality/jirei/pdf/pdf_151016_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei14/dl/ks01-03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fsmdirect.com/ja/staying-safe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trinity4e.com/contents/factory/column-02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aig.co.jp/sonpo/global/solution/case-study/electronic-risk_engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://risk-ms.co.jp/column/manufacturing-insurance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ms-ins.com/news/fy2026/pdf/0827_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sonpo.or.jp/sme_insurance/explanation/article03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smfl.co.jp/lease/knowledge/movables-insurance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://koujihoken-hikaku.jp/knowledge/property/p6543/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/baiseki/auto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sompo-japan.co.jp/hinsurance/risk/property/order/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ms-ins.com/business/indemnity/biz-protector/compensation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissay-biz-site.com/article/sb5ddlvk1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fsa.go.jp/common/law/guide/ins/02c.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yachiyo-sol.com/library/risk-based-maintenance-rbm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonposoken.or.jp/media/reports/sonposokenreport096_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/safety/41/6/41_430/_pdf/-char/ja",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tandemsprint.com/article/495/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mstrc.co.jp/result/07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-lease.co.jp/sustainability/governance/risk_management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.acciyo.com/ja/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E4%BA%8B%E6%A5%AD%E4%BF%9D%E9%99%BA%E3%80%81%E3%81%84%E3%81%8F%E3%82%89%E3%81%8B%E3%81%8B%E3%82%8B%EF%BC%9F%E8%B2%BB%E7%94%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokiomarine-nichido.co.jp/hojin/zaisan/kikai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nayuta-hoken.co.jp/article/kojo-kasai-hoken/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitti.com/topics/risk-assessment/manufacturing-risk-assessment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.westfieldinsurance.com/about-us/articles/your-quick-guide-to-a-manufacturing-risk-assessment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flexwareinnovation.com/insights/when-is-a-risk-assessment-required-a-guide-to-ensuring-machine-safety-in-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "保険・リース向けの工場設備リスク評価",
+   "results": [
+    "https://www.mhlw.go.jp/content/11300000/001403315.pdf",
+    "https://mentena.biz/insight/riskassesment/",
+    "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/koatsu_gas/pdf/012_04_02.pdf",
+    "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "https://www.jisha.or.jp/info/field/ra/about01.html",
+    "https://www.trinity4e.com/contents/factory/column-02.html",
+    "https://fsmdirect.com/ja/staying-safe/",
+    "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "https://risk-ms.co.jp/column/manufacturing-insurance/"
+   ]
+  },
+  {
+   "query": "保険・リース向けの工場設備リスク評価 費用 相場",
+   "results": [
+    "https://www.mhlw.go.jp/content/11300000/001403315.pdf",
+    "https://www.seiko-sol.co.jp/mobility/list/no-005/",
+    "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html",
+    "https://www.smfl.co.jp/lease/knowledge/knowledge02/",
+    "https://non-mainte.com/blog/1398",
+    "https://www.f-sfc.co.jp/product/lease/",
+    "https://www.trinity4e.com/contents/factory/column-02.html",
+    "https://mentena.biz/insight/riskassesment/",
+    "https://www.ripla.co.jp/blog/dx-consulting/factory-consulting-costs/"
+   ]
+  },
+  {
+   "query": "保険・リース向けの工場設備リスク評価 事例 中堅企業",
+   "results": [
+    "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/koatsu_gas/pdf/012_04_02.pdf",
+    "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei14/dl/130425-0.pdf",
+    "https://mentena.biz/insight/riskassesment/",
+    "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "https://monozukuri-career.com/column/industry-news/kojo-risk-assessment-jirei/",
+    "https://www.jisha.or.jp/info/field/ra/about07.html",
+    "https://www.jpma.or.jp/information/quality/jirei/pdf/pdf_151016_03.pdf",
+    "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei14/dl/ks01-03.pdf",
+    "https://www.aig.co.jp/sonpo/global/solution/case-study/electronic-risk_engineering"
+   ]
+  },
+  {
+   "query": "保険・リース向けの工場設備リスク評価 工場 製造業",
+   "results": [
+    "https://www.mhlw.go.jp/content/11300000/001403315.pdf",
+    "https://mentena.biz/insight/riskassesment/",
+    "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "https://fsmdirect.com/ja/staying-safe/",
+    "https://www.trinity4e.com/contents/factory/column-02.html",
+    "https://mscompass.ms-ins.com/business-news/risk-assessment/",
+    "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/koatsu_gas/pdf/012_04_02.pdf",
+    "https://monozukuri-career.com/column/industry-news/kojo-risk-assessment-jirei/",
+    "https://keel-ins.co.jp/industries/manufacturing-risk/",
+    "https://www.aig.co.jp/sonpo/global/solution/case-study/electronic-risk_engineering"
+   ]
+  },
+  {
+   "query": "保険・リース向けの工場設備リスク評価 責任 範囲 免責",
+   "results": [
+    "https://www.sonpo.or.jp/sme_insurance/explanation/article03/",
+    "https://www.mhlw.go.jp/content/11300000/001403315.pdf",
+    "https://www.smfl.co.jp/lease/knowledge/movables-insurance/",
+    "https://koujihoken-hikaku.jp/knowledge/liability/p6543/",
+    "https://www.tokiomarine-nichido.co.jp/hojin/baiseki/auto/",
+    "https://www.sompo-japan.co.jp/hinsurance/risk/property/order/",
+    "https://www.ms-ins.com/business/indemnity/biz-protector/compensation/",
+    "https://jaf-training.jp/column/commercial-vehicle/lease-accident/",
+    "https://www.aig.co.jp/content/dam/aig/sonpo/jp/ja/documents/products/pamphlets/3A1-11H.pdf",
+    "https://www.jstage.jst.go.jp/article/giiij/78/3/78_1/_pdf/-char/ja"
+   ]
+  },
+  {
+   "query": "保険・リース向けの工場設備リスク評価 経営判断 損失額",
+   "results": [
+    "https://www.sonpo.or.jp/sme_insurance/explanation/article05/",
+    "https://www.mhlw.go.jp/content/11300000/001403315.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/koatsu_gas/pdf/012_04_02.pdf",
+    "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "https://www.nissay-biz-site.com/article/sb5ddlvk1",
+    "https://www.fsa.go.jp/common/law/guide/ins/02c.html",
+    "https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html",
+    "https://yachiyo-sol.com/library/risk-based-maintenance-rbm/",
+    "https://www.sonposoken.or.jp/media/reports/sonposokenreport096_2.pdf",
+    "https://www.jstage.jst.go.jp/article/safety/41/6/41_430/_pdf/-char/ja"
+   ]
+  },
+  {
+   "query": "保険・リース向けの工場設備リスク評価 スタートアップ",
+   "results": [
+    "https://www.mhlw.go.jp/content/11300000/001403315.pdf",
+    "https://tandemsprint.com/article/495/",
+    "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/koatsu_gas/pdf/012_04_02.pdf",
+    "http://mstrc.co.jp/result/07.html",
+    "https://www.jpma.or.jp/information/quality/jirei/pdf/pdf_151016_03.pdf",
+    "https://www.r-lease.co.jp/sustainability/governance/risk_management/",
+    "https://fsmdirect.com/ja/staying-safe/",
+    "https://mentena.biz/insight/riskassesment/",
+    "https://yachiyo-sol.com/library/risk-based-maintenance-rbm/",
+    "https://www.acciyo.com/ja/スタートアップの事業保険、いくらかかる？費用/"
+   ]
+  },
+  {
+   "query": "equipment risk assessment for insurers factory shop floor manufacturer",
+   "results": [
+    "https://mitti.com/topics/risk-assessment/manufacturing-risk-assessment",
+    "https://www.westfieldinsurance.com/about-us/articles/your-quick-guide-to-a-manufacturing-risk-assessment",
+    "https://www.flexwareinnovation.com/insights/when-is-a-risk-assessment-required-a-guide-to-ensuring-machine-safety-in-manufacturing/",
+    "https://occupationalsafetyacademy.com/blogs/news/risk-assessment-in-manufacturing-plants-common-mistakes-and-how-to-fix-them",
+    "https://www.fldata.com/blog/manufacturing-risk-assessment-template/",
+    "https://www.deltek.com/resources/articles/risk-management-in-manufacturing/",
+    "https://stcsafetyconsultants.com/blog/manufacturing-risk-assessment/",
+    "https://www.youtube.com/watch?v=dgCfjvfZE7M",
+    "https://www.andrews-cooper.com/tech-talks/safety-engineering-guide-risk-analysis-approaches-for-new-or-existing-equipment",
+    "https://riskasm.com/us/en/manufacturing-machinery-and-equipment/risk-assessment-for-factory"
+   ]
+  },
+  {
+   "query": "equipment risk assessment for insurers factory shop floor manufacturer startup pricing",
+   "results": [
+    "https://thecoylegroup.com/best-insurance-for-small-manufacturing-business/",
+    "https://www.primeis.com/education-center/articles/6-risk-management-tips-for-manufacturers/",
+    "https://mitti.com/topics/risk-assessment/manufacturing-risk-assessment",
+    "https://winter-dent.com/industry-spotlight-risk-insurance-considerations-for-manufacturing-firms/",
+    "https://joinalliancerisk.com/manufacturing-insurance/",
+    "https://www.flexwareinnovation.com/insights/when-is-a-risk-assessment-required-a-guide-to-ensuring-machine-safety-in-manufacturing/",
+    "https://www.westfieldinsurance.com/about-us/articles/your-quick-guide-to-a-manufacturing-risk-assessment",
+    "https://www.aclaimant.com/industries/manufacturing-risk-management-software",
+    "https://www.andrews-cooper.com/tech-talks/safety-engineering-guide-risk-analysis-approaches-for-new-or-existing-equipment",
+    "https://www.chubb.com/us-en/business-insurance/manufacturers-risk-consulting.html"
+   ]
+  },
+  {
+   "query": "site:note.com 保険・リース向けの工場設備リスク評価",
+   "results": [
+    "https://note.com/joyous_sayyou/n/nf9fa7c0f5615",
+    "https://note.com/kotora_careerup/n/ndd258b39196c",
+    "https://note.com/nainaiteinote/n/n864f7f7e32d8",
+    "https://note.com/seizou_dx_ai/n/nd8689f3a4592",
+    "https://note.com/yo4shi80/n/n5e8e8e4cf295",
+    "https://note.com/seibii_official/n/n86d66e94beeb",
+    "https://note.com/shyuukatu_gy/n/n011aef670579",
+    "https://note.com/kagawatomo/n/n277d126070b2",
+    "https://note.com/nekota_toure/n/nd0c24db8a8cd",
+    "https://note.com/id_yoshino/n/n8ffef8692781"
+   ]
+  },
+  {
+   "query": "site:x.com 保険・リース向けの工場設備リスク評価",
+   "results": [
+    "https://x.com/KagawaTomo/status/2111375676578423089",
+    "https://x.com/FukuroStocks/article/2094013712030220294",
+    "https://x.com/KagawaTomo/status/2113971606410436811",
+    "https://x.com/KagawaTomo/status/2112310812031504701",
+    "https://x.com/syukatsurisu",
+    "https://x.com/meidensha_pr",
+    "https://x.com/KagawaTomo/status/2115207581384011796",
+    "https://x.com/KagawaTomo/article/2103040848074269047",
+    "https://x.com/newenergy_news",
+    "https://x.com/KagawaTomo/article/2063160879756226901"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 保険・リース向けの工場設備リスク評価",
+   "results": [
+    "https://jp.linkedin.com/pulse/why-plant-equipment-valuation-far-more-than-pricing-roberto-riva-klyce?tl=ja",
+    "https://jp.linkedin.com/pulse/real-cost-machine-invoice-akif-baykaldi--6kq1f?tl=ja",
+    "https://jp.linkedin.com/pulse/demystifying-real-options-supply-chain-network-design-daniel-gxkme?tl=ja",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90it%E3%80%91%E8%B3%87%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88-%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF-%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%8B%85%E5%BD%93-asset-management-specialist-for-network-data-center-facility-at-olympus-corporation-4482044677",
+    "https://jp.linkedin.com/in/%E7%BE%8E%E6%99%BA%E9%9B%84-%E4%B8%AD%E5%B7%9D-3414711b0",
+    "https://jp.linkedin.com/pulse/mergers-acquisitions-across-business-life-cycle-muhammad-izhar-ul-haq-emqsf?tl=ja",
+    "https://jp.linkedin.com/pulse/%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%BB%BA%E8%A8%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-market-report-projected-114-from-2026-2033-achte",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E4%B8%89%E5%AE%AE%EF%BC%8F%E7%99%BA%E6%B3%A8%E8%80%85%E5%81%B4%E3%80%91%E6%97%A5%E5%B8%B8%E4%BF%AE%E7%B9%95%E5%B7%A5%E4%BA%8B%E3%81%AE%E6%89%8B%E9%85%8D%E3%83%BB%E7%9B%A3%E7%90%86%E2%97%86%E7%8F%BE%E5%A0%B4%E5%B8%B8%E9%A7%90%E3%81%AA%E3%81%97%EF%BC%8F%E5%9C%9F%E6%97%A5%E7%A5%9D%E4%BC%91%EF%BC%8F%E6%AE%8B%E6%A5%AD20h%E7%A8%8B%EF%BC%8F%E5%86%85%E5%8B%A4%E5%A4%96%E5%8B%A4%E5%8D%8A%E3%80%85-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4468118441?refId=GD%2F60mI%2FbJcXcP6gUgJVOQ%3D%3D&trackingId=ue160oeWbSIc%2Bs6yz5Ruhg%3D%3D",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%A4%A7%E9%98%AA-%E6%9C%AC%E7%94%BA%E3%80%91%E7%B7%8F%E5%8B%99%EF%BC%88%E6%A5%AD%E5%8B%99%E6%94%B9%E5%96%84%E6%8F%90%E6%A1%88%E3%83%BB%E7%A4%BE%E5%86%85%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E4%BC%81%E7%94%BB%E7%AD%89%EF%BC%89%E2%97%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%AC%A1%E6%9C%9F%E5%B9%B9%E9%83%A8%EF%BC%8F%E6%9D%B1%E8%A8%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E4%B8%8A%E5%A0%B4g-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4480110258",
+    "https://jp.linkedin.com/pulse/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%AF%E6%A4%9C%E5%87%BA%E5%99%A8-market-forecast-key-players-analysis-from-uuzve"
+   ]
+  },
+  {
+   "query": "site:facebook.com 保険・リース向けの工場設備リスク評価",
+   "results": [
+    "https://www.facebook.com/JapanMaritimeDaily/posts/-%E6%97%A5%E6%9C%AC%E6%B5%B7%E4%BA%8B%E6%96%B0%E8%81%9E-%E9%9B%BB%E5%AD%90%E7%89%88-2020_04_08-2020%E5%B9%B44%E6%9C%888%E6%97%A5%E4%BB%98%E3%81%AE%E3%83%98%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B31%E9%9D%A2%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E7%B7%8A%E6%80%A5%E4%BA%8B%E6%85%8B%E5%AE%A3%E8%A8%80%E6%B5%B7%E9%99%B8%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E7%B6%AD%E6%8C%81%E6%B8%AF%E6%B9%BE%E3%82%82%E6%A9%9F%E8%83%BD%E7%A2%BA%E4%BF%9D%E6%8C%87%E5%AE%9A%E5%85%AC%E5%85%B1%E6%A9%9F%E9%96%A2%E6%B5%B7%E9%81%8B%E7%89%A9%E6%B5%81/2861952627214116/",
+    "https://www.facebook.com/JapanMaritimeDaily/posts/2025%E5%B9%B409%E6%9C%8811%E6%97%A5%E4%BB%98%E3%81%AE%E3%83%98%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%88%E3%82%B7%E3%83%83%E3%83%97%E6%A4%9C%E8%88%B9%E7%B0%A1%E7%B4%A0%E5%8C%96%E8%A6%81%E6%B1%82-%E9%AB%98%E3%81%BE%E3%82%8B%E5%9B%BD%E5%86%85%E8%88%B9%E4%B8%BB%E4%BB%8A%E5%B9%B4%E3%81%8B%E3%82%89%E5%AF%BE%E8%B1%A1%E8%88%B9%E6%8B%A1%E5%A4%A727%E5%B9%B4%E4%BB%A5%E9%99%8D%E8%88%B9%E9%BD%A210%E6%AD%B3%E4%BB%A5%E4%B8%8A%E6%96%B0%E3%83%88%E3%83%83%E3%83%97%E3%81%AE%E8%88%B5%E5%8F%96%E3%82%8A%E5%B7%9D%E5%B4%8E%E8%BF%91%E6%B5%B7%E6%B1%BD%E8%88%B9%E7%A4%BE%E9%95%B7%E5%B1%B1%E9%B9%BF%E5%BE%B3/1379776954156188/",
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/okayamaanzengas/",
+    "https://www.facebook.com/100065216761322/?locale=ro_RO",
+    "https://www.facebook.com/shinetsudenkibousai/?locale=ja_JP",
+    "https://www.facebook.com/sakamotokentaro/?locale=ja_JP",
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
+    "https://www.facebook.com/kabushiki104/posts/%E5%B7%9D%E5%B4%8E%E5%B8%82%E3%81%AE%E4%BA%8B%E5%8B%99%E6%89%80%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%8B%A0%E7%82%B9%E3%82%92%E5%A3%B2%E5%8D%B4%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%A9%9F%E8%83%BD%E3%82%92%E8%97%A4%E6%B2%A2%E3%81%B8%E7%A7%BB%E8%BB%A2-%E6%B1%A0%E4%B8%8A%E9%80%9A%E4%BF%A1%E6%A9%9F%EF%BC%96%EF%BC%97%EF%BC%97%EF%BC%91%E6%9D%B1%E8%A8%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AF%EF%BC%99%E6%9C%88%EF%BC%91%EF%BC%97%E6%97%A5%E5%9B%BA%E5%AE%9A%E8%B3%87%E7%94%A3%E3%81%AE%E5%A3%B2%E5%8D%B4%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9F%E5%A3%B2%E5%8D%B4%E5%AF%BE%E8%B1%A1%E3%81%AF%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E3%81%AB%E6%89%80%E5%9C%A8%E3%81%99/1253024119958226/",
+    "https://www.facebook.com/plazaoita.since.1982/"
+   ]
+  },
+  {
+   "query": "保険・リース向けの工場設備リスク評価 note 社長",
+   "results": [
+    "https://note.com/yachiyo_sol/n/nb58262b8b013",
+    "https://www.mhlw.go.jp/content/11300000/001403315.pdf",
+    "https://note.com/lucky_moraea6560/n/nfc6ef2b577b6",
+    "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/koatsu_gas/pdf/012_04_02.pdf",
+    "https://yachiyo-sol.com/library/risk-based-maintenance-rbm/",
+    "https://www.r-lease.co.jp/sustainability/governance/risk_management/",
+    "https://note.com/mannu_bot/n/n2f55a5d3a60c",
+    "https://www.jpma.or.jp/information/quality/jirei/pdf/pdf_151016_03.pdf",
+    "https://mentena.biz/insight/riskassesment/",
+    "https://note.com/gifted_crocus671/n/n86850902503b"
+   ]
+  },
+  {
+   "query": "保険・リース向けの工場設備リスク評価 X 投稿",
+   "results": [
+    "https://www.mhlw.go.jp/content/11300000/001403315.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/koatsu_gas/pdf/012_04_02.pdf",
+    "https://mentena.biz/insight/riskassesment/",
+    "https://dcross.impress.co.jp/docs/usecase/001548.html",
+    "https://www.jmf.or.jp/jmf/wp-content/uploads/2024/03/hyojun_guideline.pdf",
+    "https://www.r-lease.co.jp/sustainability/governance/risk_management/",
+    "https://www.youtube.com/watch?v=bznB_28k0r4",
+    "https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/",
+    "https://atomitech.jp/vendortrustlink/vendorblog/risk-assessment-in-manufacturing/",
+    "https://risk-ms.co.jp/column/manufacturing-insurance/"
+   ]
+  },
+  {
+   "query": "equipment risk assessment for insurers factory shop floor manufacturer site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/inside-aipcon-8-demos-transforming-manufacturing-pafze",
+    "https://www.linkedin.com/in/jonathan-furdui-355789a7",
+    "https://www.linkedin.com/in/twm22",
+    "https://www.linkedin.com/company/perceptive-io",
+    "https://www.linkedin.com/top-content/engineering/engineering-risk-assessment-strategies/consequence-analysis-in-engineering/",
+    "https://www.linkedin.com/in/randy-hussey-07747435",
+    "https://www.linkedin.com/in/saeed-davar",
+    "https://www.linkedin.com/company/arise-boiler-inspection-&-insurance-company",
+    "https://www.linkedin.com/posts/jamesrossinsurance_these-are-the-best-terms-available-that-activity-7517864876417998848-Zp1G",
+    "https://www.linkedin.com/company/cna-insurance"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,2732 @@
+{
+ "name": "セキュリティ評価制度の取得支援",
+ "en": "security certification support SME Japan",
+ "aliases": [
+  "セキュリティ評価制度 取得支援",
+  "ISMS 取得支援 中堅",
+  "SCS評価制度 対応"
+ ],
+ "context": "セキュリティ",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:15:30.295737+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "なお、一般的にIT基盤に該当しないと考えられる製造環境等の制御（OT）システムや委託元等に提供する製品等については、サプライチェーン全体での共通化が難しいことから直接の対象とはせず、他の制度・ガイドライン等に基づき対策を行うことを想定しています",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "（5）中小企業向け支援策",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省及び独立行政法人情報処理推進機構（IPA）では、中小企業による本制度の★3・★4取得に向けた支援策として以下の取組を進めています",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティお助け隊サービス（新類型）",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業がSCS評価制度の★3及び★4を安価かつ簡便に取得できるよう、新たな支援策として「サイバーセキュリティお助け隊サービス」（新類型）を創設します",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティお助け隊サービス（新類型）実証事業",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月から、「サイバーセキュリティお助け隊サービス」（新類型）の制度設計を行うための実証事業を開始しています",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "この実証事業では、サービス提供事業者と連携して、実際に中小企業に対してSCS評価制度★3又は★4取得のためのサービスを試行的に提供します",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "その活用状況や結果を踏まえて、中小企業にとって導入しやすいサービスであること等を担保するための品質要件や価格要件などについて検討を行います",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "「サイバーセキュリティお助け隊サービス」（新類型）特設ページ",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ対策評価制度対応支援コンサルティング｜日立ソリューションズ",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 日立ソリューションズ",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ対策評価制度対応支援コンサルティング",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ設計支援コンサルティング",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "取引先セキュリティ評価支援サービス",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "法対応支援コンサルティング",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "適合支援コンサルティング",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "IEC 62443適合支援",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの利用に関するセキュリティコンサルティングサービス",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報セキュリティ監査サービス",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "対応演習サービス",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "教育サービス",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "訓練サービス",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "脆弱性・脅威情報提供",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ戦略策定支援サービス",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】SCS評価制度とは？★1〜★5のレベル定義・スケジュールと企業の準備ステップ | セキュマガ | LRM株式会社が発信する情報セキュリティの専門マガジン",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "LRM株式会社が発信する",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、LRMでは様々なセキュリティ規格・認証に精通したコンサルタントが、SCS評価制度の★3・★4取得に向けたギャップ分析から実装までをトータルで支援します",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "システムへの具体的な対策実装については、実績のある外部基準（例：自工会・部工会サイバーセキュリティガイドライン レベル3等）との整合や選定を想定し、第三者による評価スキームとする予定です",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "【Step3】対策の実装・運用定着と外部支援の活用",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティお助け隊サービス（新類型）」や、専門のコンサルティングサービスを賢く活用することが推奨されます",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "※外部支援の活用検討",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "国の支援策や民間の専門サービスを賢く活用しましょう",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "「サイバーセキュリティお助け隊サービス（新類型）」",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "主に中小企業を対象に、★3・★4の取得に必要な「現状把握（評価）」と「対策支援（ツール提供等）」をワンパッケージにした新サービスが創設される予定です",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "コストを抑えつつ認証取得を目指したい企業にとって、本サービスは有力な選択肢となります",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティお助け隊サービス（新類型）",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "「診断・コンサルティングサービス」",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "LRMでは、様々なセキュリティ規格・認証に精通したコンサルタントが、SCS評価制度の★3・★4取得に向けたギャップ分析から実装までをトータルで支援します",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "LRMが提供する「",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "情報セキュリティサービス基準適合サービスリスト",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報処理安全確保支援士（登録セキスぺ）",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域における取組みの支援",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "本制度に基づくマークの取得を通じて、ビジネス・ITサービスサプライチェーンにおける、委託先へのサイバー攻撃等を起因とした自社事業・サービスの提供途絶／機密情報の漏えい、改ざんや委託先等を踏み台とした不正侵入等のリスクに対する適切なセキュリティ対策の実施を促し、サプライチェーン全体でのセキュリティ対策水準の向上を図ることを目的としています",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（登録フォームは外部サービス「WEBCAS」を利用しています）",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティお助け隊サービス（新類型）実証事業の紹介ページを公開しました",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティお助け隊サービス（新類型）実証事業に係るサービス提供事業者の公募を開始しました",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ注意喚起サービス「icat for JSON」",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスメール詐欺の事例集を見る",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティお助け隊サービス制度",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "登録申請について（ITベンダー・サービス提供事業者向け）",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "再販協力会社登録について（ITベンダー・IT導入支援事業者向け）",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "「サイバーセキュリティお助け隊サービス」登録一覧",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "「サイバーセキュリティお助け隊サービス2類」について",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "「サイバーセキュリティお助け隊サービス」制度に関するFAQ",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "評価シートの記入支援：5〜10万円",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けのセキュリティサービスを活用すれば、同等の品質を1/3以下のコストで実現可能です",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "1. クラウドサービスの標準機能を活用する",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "ワンストップで対応できるサービスを選べばトータルコストを抑えられます",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": ": 株式会社BTNコンサルティング 亀田 英佑",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "本制度は、サプライチェーンを構成する企業等のIT基盤（クラウド環境で運用するものも含む",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "（4）制度の運用体制案",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI推進体制・運用ルールの整備",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "【最新スケジュール】2026年度末の本格運用に向けたスケジュール",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "目指すべき要求事項や大枠の評価基準はすでに公表されているため、制度開始と同時にスムーズに運用できるよう、自社の現状把握や準備に早めに着手することが推奨されます",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度末より本格運用が始まる「SCS評価制度（セキュリティ対策評価制度）」",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度末の本格運用に向け、企業は以下の4ステップで計画的に準備を進めることが推奨されます",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "単に「セキュリティツールが入っているか」だけでなく、アカウント管理のルール化やインシデント体制の有無など、【技術面】と【運用・規程面】の網羅的なチェックを行う必要があります",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "【Step3】対策の実装・運用定着と外部支援の活用",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "本制度の評価のポイントは、単に形だけのルールやツールを用意することではなく、日常的にセキュリティが正しく運用されていることを客観的に証明できる「証跡（アクセスログ、資産台帳、教育実施記録など）」を漏れなく蓄積・管理する体制を定着させることにあります",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "自社だけでこれらの基準を正確に解釈し、実効性のある体制を構築・運用するのは容易ではありません",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度末（2027年3月頃）より★3および★4の本格運用が開始される予定となっており、直前になって慌てることのないよう、早い段階からの現状把握と準備が求められます",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "失敗しないISMS運用【コンサルティング会社の選び方】",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "安全なウェブサイトの運用管理に向けての20ヶ条 〜セキュリティ対策のチェックポイント〜",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "CISAが公開した制御システムの脆弱性情報（直近1ヶ月）",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ECサイト構築・運用セキュリティガイドライン",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "暗号鍵設定ガイダンス〜暗号鍵の鍵長選択方法と運用方法〜",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "悩み(6) 自前でのシステム運用の負担が大きく、セキュリティ対策に不安を感じる",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ウェブサイトの安全な運用について(運営・管理者向け)セミナー開催のお知らせ",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "期間は1〜2ヶ月で完了します",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "期間は2〜4ヶ月が目安です",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "期間は3〜6ヶ月",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ運用の代行を外部に依頼する場合は月額18〜45万円が目安です",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティポリシーやインシデント対応手順書はIPAのテンプレートを活用すれば、ゼロから書くより大幅に工数を削減できます",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "別々の業者に依頼するとヒアリング工数が二重に発生します",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "経産省「サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）」対応ガイド｜2026年度の運用開始に向けて実施すべき事項とタイミング｜ブログ｜NRIセキュア",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "OA・ワークプレイス環境 運用監視",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "Web・アプリケーション運用監視",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "経産省「サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）」対応ガイド｜2026年度の運用開始に向けて実施すべき事項とタイミング",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "経産省は「サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）」について、2026年下期（10月以降）にその一部について運用を開始するべく検討を進めている",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "（一部）制度の運用開始は2026年10月以降が想定されている",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "このうち★5のスキームや運用開始時期などについては、ISMS適合性評価制度や海外の制度との整合性も含め、2025年度の下期（10月以降）に検討開始予定とのことであり、★3と★4については、2026年下期（10-3月）に運用開始が予定されています",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "各対策段階で想定されている脅威や運用開始時期",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "★3と★4の運用開始が予定されている2026年下期（10月以降）までに、発注者と受注者がいつ何をすべきかを次の表にまとめました",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "A:コンサルティングサービスを活用することで、回答や自己評価の作成を効率的に行えるだけでなく、準拠に向けた伴走やロードマップの作成、教育や訓練などの支援が受けられます",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "これに先立ち、2026年上期には実証事業の成果を踏まえた詳細な運用規程の整備が進められる見通しです",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "★5（高度水準）については、まずは★3・★4の運用を先行させる形をとっており、導入時期の詳細は未定ですが、今後の検討課題として継続的に議論される予定です",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）は、2025年末に制度構築方針案が公表され、2026年度（令和8年度）末の運用開始に向けた具体的なロードマップが示されました",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社のWebサイトでは、サイト閲覧時の利便性やサイト運用および分析のため、Cookieを使用しています",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度末から運用が開始される「SCS評価制度（サプライチェーン・サイバーセキュリティ評価制度）」は、企業のセキュリティ対策レベルを「★（星）」の数で段階的に評価し、可視化する共通の仕組みです",
+    "url": "https://efude.jp/blog/8461/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度末の本格運用を見据えて事前に準備を進めることは、自社の事業成長にとって大きな意味を持ちます",
+    "url": "https://efude.jp/blog/8461/",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報を適切に取り扱う仕組み・運用",
+    "url": "https://efude.jp/blog/8461/",
+    "pass": 3
+   },
+   {
+    "quote": "情報セキュリティリスクを管理する仕組み・運用",
+    "url": "https://efude.jp/blog/8461/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティソフトなどのIT対策にとどまらず、社内ルールや運用の徹底、オフィスの物理的な環境まで含めた、実効性のある対策が評価されます",
+    "url": "https://efude.jp/blog/8461/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度末の運用開始に向け、今から自社の環境に関心を持ち、準備を進めることは、既存の取引を守るだけでなく、未来の営業機会を広げるための「価値ある投資」となります",
+    "url": "https://efude.jp/blog/8461/",
+    "pass": 3
+   },
+   {
+    "quote": "オフィス運用",
+    "url": "https://efude.jp/blog/8461/",
+    "pass": 3
+   },
+   {
+    "quote": "情シス運用代行・ヘルプデスク",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ運用・SOCライト",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "プライバシーマーク運用支援",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Security365 — セキュリティ運用",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "情シスのセキュリティ運用とは？日常業務の全体像と中小企業での実践方法",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティは導入で終わりではなく、運用が止まればレベルは静かに劣化していきます",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 導入・運用支援",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Google Workspace 導入・運用支援",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "物流業向けIT運用",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の改訂で診断項目も見直され、新たに「外部から内部ネットワークへの不要な通信を遮断する」や「ウェブサイトを安全に運用する」（公開すべきでない情報の削除など）といった対策が追加されました",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=9124",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度の運用目指し「サイバーセキュリティ・サービス認定制度」中間とりまとめを公表 経産省",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=9124",
+    "pass": 3
+   },
+   {
+    "quote": "当社のWebサイトでは、サイト閲覧時の利便性やサイト運用および分析のため、Cookieを使用しています",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=9124",
+    "pass": 3
+   },
+   {
+    "quote": "3ヶ月でSCS★3対応を進める実践スケジュール",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "SCS評価制度（経済産業省主導・IPA運用、2026年度末ごろ開始予定）の中心的なターゲットは、サプライチェーンを構成する",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "（5）中小企業向け支援策",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省及び独立行政法人情報処理推進機構（IPA）では、中小企業による本制度の★3・★4取得に向けた支援策として以下の取組を進めています",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業がSCS評価制度の★3及び★4を安価かつ簡便に取得できるよう、新たな支援策として「サイバーセキュリティお助け隊サービス」（新類型）を創設します",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "この実証事業では、サービス提供事業者と連携して、実際に中小企業に対してSCS評価制度★3又は★4取得のためのサービスを試行的に提供します",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "その活用状況や結果を踏まえて、中小企業にとって導入しやすいサービスであること等を担保するための品質要件や価格要件などについて検討を行います",
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客さまの組織規模やセキュリティ対応状況などにより異なります",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年、セキュリティ対策が強固な大手企業を直接狙うのではなく、セキュリティの不備があるサプライチェーン内の受託企業や取引先（中小企業等）を「踏み台」として侵入するサイバー攻撃が増加しています",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "【★1・★2】中小企業の第一歩（自己宣言）",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の情報セキュリティ対策ガイドライン",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "★2：中小企業の情報セキュリティ対策ガイドライン付録の",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "洗い出したギャップに対して、セキュリティ管理規程の改定・策定、必要なITツールの導入、および全従業員へのセキュリティ教育といった網羅的な対策を実行します",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "自社単独でのリソースやノウハウの不足が課題となる場合は、IPAが推進する中小企業向けの",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "主に中小企業を対象に、★3・★4の取得に必要な「現状把握（評価）」と「対策支援（ツール提供等）」をワンパッケージにした新サービスが創設される予定です",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "プライバシーマーク（以下、Pマーク）取得の費用は、企業の業態や、規模などによって異なります",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "防犯カメラで個人情報が漏えいする場面防犯カメラは、今では街中のいたるところに設置されていますが、犯罪の防止であったり、従業員の監視であったりという目的で設置され...",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の情報セキュリティ",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業投資促進税制における認証製品リスト",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "全てのサプライチェーン企業が対象となりますが、特にサプライチェーンを構成する中小企業は、セキュリティ対策におけるリソースが限られていること、また自社のリスクを踏まえてセキュリティ対策を行うことはハードルが高いことから、活用による効果が大きいと想定しています",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向け情報セキュリティ対策",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けサイバーセキュリティ対策支援者リスト及び活用事例の紹介",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けサイバーセキュリティ対策支援者リストの紹介",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域団体等との連携による中小企業のサイバーセキュリティ対策普及促進のためのセミナー開催支援",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策事例",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向け情報セキュリティ対策バナー画像のご案内",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けガイド",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の情報セキュリティ対策ガイドライン",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "プラクティス7-2 従業員の初動対応の規定",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "悩み(4) 従業員に対してセキュリティ教育を実施しているが効果が感じられない",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向け報告書",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "「2024年度 中小企業における情報セキュリティ対策に関する実態調査」報告書について",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "SCS評価制度の対応費用はいくらかかる？中小企業の予算感 #中小企業 - Qiita",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "SCS評価制度の対応費用はいくらかかる？中小企業の予算感",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "多くの中小企業がこのパターンに該当します",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けのセキュリティサービスを活用すれば、同等の品質を1/3以下のコストで実現可能です",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "「大手に頼んだ方が安心」と思われがちですが、中小企業のIT環境は大企業と根本的に異なります",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の実態を理解した専門家に依頼する方が、実効性の高い対策が期待できます",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "ランサムウェア被害の防止 → 中小企業の被害平均額は数千万円",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "SCS対応に50〜150万円を投資することで、数千万円規模のリスクを低減できると考えれば、十分に合理的な投資です",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業に特化した情シスアウトソーシング「情シス365」を運営",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "（時期は組織の規模などによる）",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "その結果によれば、金融、クレジット、半導体、主要製造業、保険、建設、BPO事業者、製品・部品製造事業者、中小企業のほぼすべてが、★3と★4の両方について、活用を期待できると回答していました",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "対応が必要なタイミングは組織の規模などにもよりますが、評価段階への到達や認定が遅れると機会損失などに繋がりうることが懸念されるため、組織の規模が大きい企業などにおいては、特に早く（現時点など）から、現状把握や予算確保を行うことを推奨します",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "A:サプライチェーンを構成する企業であれば規模を問わず制度の対象であり、★3以上の評価段階の対策実施などが期待されます（前述の「制度の対象となるシステム」を有さない場合は除く）",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "A:費用は企業規模、現状のセキュリティレベル、目標とする段階などによって大きく異なります",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "大規模情報漏えいで注意喚起、来春見直しの「技術的安全管理措置」を先行して公表 個情委",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向け「サイバーセキュリティお助け隊サービス（新類型）」実証事業を開始します",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "実証への参加を希望する中小企業等は、",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業における取組例をご紹介しています",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省は、中小企業のセキュリティ対策支援を強化するため「サイバーセキュリティお助け隊サービス（新類型）」を創設します",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティお助け隊サービス（新類型）は、SCS評価制度の★3・★4取得を目指す中小企業に対し、現状診断から必要な対策の実施までをワンパッケージで支援するサービスです",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "診断・助言、ITツール導入、教育や規程整備等の支援を通じて、中小企業の継続的なセキュ活を後押しします",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、中小企業に対するサイバー攻撃を起点として、その取引先企業にまで影響を及ぼすケースが増加しており、独立行政法人情報処理推進機構（IPA）が令和6年度に実施した中小企業実態調査においても、サイバー攻撃の被害に遭った中小企業の約7割が「取引先にまで影響が及んだ」と回答しています",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、「対応したいけれど、何をすればよいかわからない」という中小企業も多いのが現状です",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、SCS評価制度に基づくセキュリティ対策を中小企業の皆様がスムーズに実施できるよう、SCS評価制度の制度創設に合わせて、その支援策としてのセキュリティサービスである、「サイバーセキュリティお助け隊サービス」（※）の新類型の創設を検討しています",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "※「サイバーセキュリティお助け隊サービス」は、セキュリティ対策に対して「何をしたらよいか分からない」 「セキュリティにコストをかけられない」という悩みを抱える中小企業に対する支援策として、国が認定した民間事業者のサービスです",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "SCS評価制度への対応方法は、企業の規模や体制、対策状況によって様々です",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、中小企業における取組の一例です",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "この実証事業では、IPAが認定したサービス提供事業者様が、中小企業の皆様にセキュリティサービスを提供し、「サイバーセキュリティお助け隊サービス」（新類型）として必要な要件の検証を行います",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "その活用状況や結果を踏まえ、中小企業の皆様にとって導入しやすいサービスであることを担保するため、品質要件や価格要件などについて検討を行います",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、中小企業の皆様には、サービス提供事業者様から★取得のための支援サービスを受けていただくことで、サイバーセキュリティお助け隊サービス（新類型）の制度創設に向けた検討にご協力いただきます",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "役割、責任、権限",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "保証継続（認証維持・再評定）",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報漏洩リスクの低減 → 賠償金と信用失墜の回避",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "責任者の配置など情報管理の強化",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織内の役割と責任が定義されている",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "2. 役割/責任/権限",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "（セキュリティ責任者の設置、体制構築、対応方針の策定）、",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "責任者を明確化",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "本チェックは公式の評価ではなく、★3の取得を保証するものでもありません",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "情報セキュリティの責任者・担当者を文書で指定",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス範囲と責任分界を明確にする：",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、生成AIを使った機械翻訳が圧倒的な精度で世界中から簡単に利用できるようになったことが一因です",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月には税理士法人および監査法人がランサムウェアによるサイバー攻撃を受け、同事務所に業務委託していた損害保険会社や銀行などが顧客の個人情報（約6.3万件以上）の漏えいのおそれを公表する事例がありました",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "・組織内の役割と責任が定まっている",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 管理部署 情報資産の管理責任がある部署等を記入します",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "⑥ 管理者名 情報資産に対して情報セキュリティ上の管理責任がある管理者名を記入してください",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "被害企業は身代金支払いや事業停止での経済損失に加え、対外的な信用失墜や関係各所への損害拡大を招き、事業継続の危機に陥るリスクが非常に高いものです",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "情報資産管理台帳の内容は持続的に更新し、実態と一致した資料として維持していくことで、管理の精度向上やセキュリティ対策の適切な運用につながります",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "※本サービスは、SCS評価制度の★取得を保証するものではありません",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "PLC・SCADA・工場制御端末は、ベンダーサポートなしにパッチを適用すると動作保証が失われる場合があり、一般的なパッチ管理が難しい状況があります",
+    "url": "https://netpeace.co.jp/blog/scs/scs-manufacturing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "停止できない／ベンダー検証待ち／保証対象外になる",
+    "url": "https://www.josis365.com/blog/scs-ot-factory-security/",
+    "pass": 3
+   },
+   {
+    "quote": "本チェックは公式の評価ではなく、★3の取得を保証するものでもありません",
+    "url": "https://www.josis365.com/blog/scs-ot-factory-security/",
+    "pass": 3
+   },
+   {
+    "quote": "投資情報の免責事項",
+    "url": "https://note.com/deep_worm9975/n/n6d36c62a71bb",
+    "pass": 3
+   },
+   {
+    "quote": "投資情報の免責事項",
+    "url": "https://note.com/wish11_11/n/n26e7a30f86dc",
+    "pass": 3
+   },
+   {
+    "quote": "「★3・★4 自己評価等ガイド」は、★3または★4の取得を目指す登録希望組織や、★3確認責任者などを対象としている",
+    "url": "https://japansecuritysummit.org/2026/11/15151/",
+    "pass": 3
+   },
+   {
+    "quote": "ガイドでは、取得単位や適用範囲の決定方法、自己評価の進め方、★3確認責任者などが実施する確認手続きについて解説している",
+    "url": "https://japansecuritysummit.org/2026/11/15151/",
+    "pass": 3
+   },
+   {
+    "quote": "登録希望組織は、★3要求事項・評価基準に基づき自己評価を記入します(必要に応じて社内外の★3確認責任者からの支援を得ることも可)",
+    "url": "https://www.ipa.go.jp/security/scs/details.html",
+    "pass": 3
+   },
+   {
+    "quote": "社内外の★3確認責任者は、登録希望組織が記入した内容を確認するとともに、必要に応じて評価結果の修正を含む助言を行い、最終的に事務局へ提出する内容に関して了承した場合に署名を実施します",
+    "url": "https://www.ipa.go.jp/security/scs/details.html",
+    "pass": 3
+   },
+   {
+    "quote": "★3は、★3確認責任者が、登録希望組織による自己評価の結果に係る文書の確認を行います",
+    "url": "https://www.ipa.go.jp/security/scs/details.html",
+    "pass": 3
+   },
+   {
+    "quote": "SCS評価制度のSCSセキュリティ専門家は、★3における自己評価結果の確認・助言や★4における評価責任者を担います",
+    "url": "https://www.ipa.go.jp/security/scs/details.html",
+    "pass": 3
+   },
+   {
+    "quote": "保証継続（認証維持・再評定）",
+    "url": "https://www.ipa.go.jp/security/scs/details.html",
+    "pass": 3
+   },
+   {
+    "quote": "社内または社外の「★3確認責任者」が自己評価内容を確認する",
+    "url": "https://kreuz-corp.co.jp/2026/08/31/scs-evaluation-system-basic-regulations-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "★3確認責任者が確認したことを署名する",
+    "url": "https://kreuz-corp.co.jp/2026/08/31/scs-evaluation-system-basic-regulations-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "「社内外の★3確認責任者」",
+    "url": "https://kreuz-corp.co.jp/2026/08/31/scs-evaluation-system-basic-regulations-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "★3確認責任者による確認・助言を受ける",
+    "url": "https://kreuz-corp.co.jp/2026/08/31/scs-evaluation-system-basic-regulations-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "★3確認責任者",
+    "url": "https://kreuz-corp.co.jp/2026/08/31/scs-evaluation-system-basic-regulations-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "基本規程でも、★3確認責任者・確認従事者の具体的要件については「別途定める」とされています",
+    "url": "https://kreuz-corp.co.jp/2026/08/31/scs-evaluation-system-basic-regulations-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "外部の★3確認責任者による支援も可能",
+    "url": "https://kreuz-corp.co.jp/2026/08/31/scs-evaluation-system-basic-regulations-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "(※3) ★の取得はあくまで取得又は更新の時点において★ごとに定められた水準を満たしていることを示すものであり、セキュリティインシデントに対して完全なセキュリティが確保されていることを保証するものではない",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• ★取得希望企業のIT基盤を構成するが、他社との間で対策に係る責任を共有するもの(例：クラウドサービス、親会社の提供するグループ共通のネットワーク等)",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[註] これらのサービス等においては、責任共有モデル(※)に基づき、自社における対策実装又はサービス提供者等における対策状況の確認等(例:ISMAP登録の有無やSOC2レポー",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(※) 責任共有モデルとは、サービスを提供する事業者とサービス利用者との間で、サービスのセキュリティに関する責任を共有し合うための考え方のことを指す",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 評価取得の申請主体は、自社IT基盤を中心とした自社のセキュリティ対策の向上に責任を有する単位(原則として法人又は個人事",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 組織内の役割と責任が定義されている",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※１ 当該情報を漏洩した場合における、社会的信用低下や損害賠償等の訴訟リスクなどビジネスへの影響が大きいもの",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取引先の管理・把握及び取引先との役割・責任の明確化",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1-2-1-1 セキュリティを統括する役員(例えば、CISOを設置する会社の場合は、当該CISO)及びセキュリティ担当部署の役割・責任を定めること",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1-2-1 セキュリティ推進活動を担当する部署、役員及び従業員を決定し、責任及び権限を割り当てること",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 面談：「CISO 等やセキュリティ担当部署の役割・責任」",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 評価・検証手続に重大な瑕疵(虚偽の評",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上で、自らの責任",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 技術検証に従事する者(技術検証における責任者以外の従事者を含む)には制度が定める研修を受講させること",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 前頁に示すセキュリティ専門家を1名以上雇用し、当該セキュリティ専門家を自社が行う第三者評価における責任者とし",
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "監査・保証業務",
+    "url": "https://kpmg.com/jp/ja/insights/2026/04/security-assessment-framework-update.html",
+    "pass": 3
+   },
+   {
+    "quote": "仮にある取引先がレベル4を取得していたとしても、その安全性が保証されるものではなく、当該取引先を信頼できるか否かの最終的な判断は、発注元自身が行うことが想定されています",
+    "url": "https://kpmg.com/jp/ja/insights/2026/04/security-assessment-framework-update.html",
+    "pass": 3
+   },
+   {
+    "quote": "保険：簡易的サイバー保険（損害保険会社が連携して提供）",
+    "url": "https://kpmg.com/jp/ja/insights/2026/04/security-assessment-framework-update.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、年商規模が一定以上の企業において、サイバー攻撃による事業停止が3日間続いた場合、売上逸失額と復旧費用、さらには取引先への損害賠償を合わせると、数千万円から1億円を超える特別損失が発生する可能性があります",
+    "url": "https://takahashi-cpa-v2.vercel.app/blog/scs-security-evaluation-system-2026-0308",
+    "pass": 3
+   },
+   {
+    "quote": "★3又は★4の登録希望組織、★3確認責任者等",
+    "url": "https://www.ipa.go.jp/pressrelease/2026/press20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "★3又は★4の登録希望組織が行う取得単位及び適用範囲の決定、同組織が行う自己評価、並びに★3確認責任者等が行う確認に関する手続きを示すものです",
+    "url": "https://www.ipa.go.jp/pressrelease/2026/press20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "制度が求める水準を理解したうえで、自己評価の精度そのものを高める支援が可能です",
+    "url": "https://www.lrm.jp/consulting/lp/scs_evaluation_system/",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "セキュリティ対策評価制度対応支援コンサルティング｜日立ソリューションズ",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 日立ソリューションズ",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズの強み",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズのセキュリティ対策評価制度対応支援コンサルティング",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズの",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな資格を有したセキュリティエキスパートやインテグレーターとしての経験など、日立ソリューションズの強みをご紹介します",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズ",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "日立グループTOP",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年、セキュリティ対策が強固な大手企業を直接狙うのではなく、セキュリティの不備があるサプライチェーン内の受託企業や取引先（中小企業等）を「踏み台」として侵入するサイバー攻撃が増加しています",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "制度開始に伴い、大手企業や自治体・公共調達において、調達要件や取引条件として「★3」や「★4」の登録を求める動きが順次広がると予想されます",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "IPAとNTT東日本による「シン・テレワークシステム」のHTML5版の開発と提供について",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "IPAとNTT東日本による「シン・テレワークシステム」無償開放の期間延長について",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "X（Twitter）でシェアする",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "Facebookでシェアする",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルとの比較",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルティングファームにSCS対応をフル依頼すると300〜500万円以上が相場です",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "「大手に頼んだ方が安心」と思われがちですが、中小企業のIT環境は大企業と根本的に異なります",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "大手製造業のIT/セキュリティ部門、監査法人系コンサルティングファームを経て、2018年に野村総合研究所に入社",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "IPAの解説によると、「セキュリティ対策が堅牢な大手企業へ直接侵入するのは困難なため、ネットワークや業務でつながっている取引先や協力会社を経由して侵入する手口が悪用されている」という構造的な背景があります",
+    "url": "https://efude.jp/blog/8461/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、大手企業や官公庁が取引先の安全性を強く求めるようになった今、セキュリティ対策は単にトラブルを防ぐだけでなく「自社の信頼を高める取り組み」へと変化しています",
+    "url": "https://efude.jp/blog/8461/",
+    "pass": 3
+   },
+   {
+    "quote": "【メリット2】競合他社との差別化・取引チャンスの拡大",
+    "url": "https://efude.jp/blog/8461/",
+    "pass": 3
+   },
+   {
+    "quote": "・早期の取り組みが、競合他社との差別化や新たな取引チャンスの獲得につながる可能性がある",
+    "url": "https://efude.jp/blog/8461/",
+    "pass": 3
+   },
+   {
+    "quote": "攻撃者の視点から見れば、大手企業は高度なセキュリティ対策を整備しています",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした背景から、大手発注企業・重要インフラ事業者が取引先にSCS★3以上の取得を求める動きが広がることが予想されます",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月には、大手クラウド会計ソフトが不正アクセスを受け、銀行口座との連携機能が停止するなど、サービス利用で影響を受ける事態となりました",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、誠文堂新光社やインプレスで出版編集を支援、富士通グループ で SE（富士通 BSC）・コンサルタント（富士通総研）・マーケター（富士通本社）を歴任",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカーが取引先に",
+    "url": "https://www.btncon.com/blog/scs-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "IPAとNTT東日本による「シン・テレワークシステム」のHTML5版の開発と提供について",
+    "url": "https://www.ipa.go.jp/security/scs/details.html",
+    "pass": 3
+   },
+   {
+    "quote": "IPAとNTT東日本による「シン・テレワークシステム」無償開放の期間延長について",
+    "url": "https://www.ipa.go.jp/security/scs/details.html",
+    "pass": 3
+   },
+   {
+    "quote": "どの程度の企業（とりわけ、発注者となる大手企業）が、取引先に対してどの水準を要求するかは重要な論点です",
+    "url": "https://kpmg.com/jp/ja/insights/2026/04/security-assessment-framework-update.html",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェア",
+    "url": "https://takahashi-cpa-v2.vercel.app/blog/scs-security-evaluation-system-2026-0308",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業との取引継続には、従来の「アンケート回答」ではなく、公的な「★（星）の取得」が必須条件となります",
+    "url": "https://takahashi-cpa-v2.vercel.app/blog/scs-security-evaluation-system-2026-0308",
+    "pass": 3
+   },
+   {
+    "quote": "「最近、大手企業からのセキュリティチェックシートが、以前より細かくなっていないか？」――年商10億、30億と事業を成長させてこられたオーナー経営者の皆様から、このような切実なご相談をいただく機会が急増しています",
+    "url": "https://takahashi-cpa-v2.vercel.app/blog/scs-security-evaluation-system-2026-0308",
+    "pass": 3
+   },
+   {
+    "quote": "これが本格始動すると、大手企業は取引先に対し、「★3を取得していること」を契約更新の絶対条件として突きつけてくるようになります",
+    "url": "https://takahashi-cpa-v2.vercel.app/blog/scs-security-evaluation-system-2026-0308",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業本体のガードが固くなった分、攻撃者はその取引先である中小企業を踏み台にして、本丸の情報を盗み出したり、供給網をストップさせたりする手法を強めています",
+    "url": "https://takahashi-cpa-v2.vercel.app/blog/scs-security-evaluation-system-2026-0308",
+    "pass": 3
+   },
+   {
+    "quote": "でも触れている通り、初期段階での対応の遅れは、そのまま競合他社へのシェア流出を招くリスクを孕んでいます",
+    "url": "https://takahashi-cpa-v2.vercel.app/blog/scs-security-evaluation-system-2026-0308",
+    "pass": 3
+   },
+   {
+    "quote": "この企業は、長年大手メーカーの一次サプライヤーとして信頼を築いてきました",
+    "url": "https://takahashi-cpa-v2.vercel.app/blog/scs-security-evaluation-system-2026-0308",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、私たちが詳細に分析したところ、もし認証を取得できなければ、来期の売上の約30%を占める主力ラインの契約が、既に認証準備を進めている競合他社に切り替えられるリスクがあることが判明しました",
+    "url": "https://takahashi-cpa-v2.vercel.app/blog/scs-security-evaluation-system-2026-0308",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズ SCS対応支援コンサルティング",
+    "url": "https://catalog.monex.co.jp/article/?p=51116",
+    "pass": 3
+   },
+   {
+    "quote": "4. セキュリティ対策評価制度対応支援コンサルティング（株式会社日立ソリューションズ）",
+    "url": "https://catalog.monex.co.jp/article/?p=51116",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日立ソリューションズが、自社のセキュリティコンサルティングメニューの一つとして提供する対応支援サービスです",
+    "url": "https://catalog.monex.co.jp/article/?p=51116",
+    "pass": 3
+   },
+   {
+    "quote": "「大手企業からセキュリティ対策の強化や評価取得を求められている中小・中堅企業」や、セキュリティの専門家が社内にいない企業を想定顧客に掲げています",
+    "url": "https://catalog.monex.co.jp/article/?p=51116",
+    "pass": 3
+   },
+   {
+    "quote": "さくら情報システム株式会社が、ITインフラ全般のシェアードサービス「S-COART」ブランドの一部として提供するSCS評価制度対応支援サービスです",
+    "url": "https://catalog.monex.co.jp/article/?p=51116",
+    "pass": 3
+   },
+   {
+    "quote": "ITベンダー・物流・小売など、大手企業のサプライチェーンに組み込まれている企業であれば、発注側・受注側のどちらの立場でも関わります",
+    "url": "https://catalog.monex.co.jp/article/?p=51116",
+    "pass": 3
+   },
+   {
+    "quote": "口座振替代行サービスおすすめ33選を比較｜独自調査による市場シェアと選び方、手数料を徹底解説",
+    "url": "https://catalog.monex.co.jp/article/?p=51116",
+    "pass": 3
+   },
+   {
+    "quote": "コワーキングスペース・シェアオフィス STAYUP",
+    "url": "https://ithelper.ripple-call.co.jp/scspartner/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ専業ベンダーとしての圧倒的な実績をもとに、SOC監視から評価まで幅広い領域で大手企業・金融機関・公的機関の安全を強固に支えます",
+    "url": "https://www.sandj.co.jp/services/scs-evaluation/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NTTデータ",
+    "url": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTTデータは、全国の地域金融機関や商工会議所等のネットワークを活用し、中小企業の皆様が主体的に取り組めるSCS評価制度対応支援を行います",
+    "url": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモビジネス株式会社",
+    "url": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモビジネスは、全国8支社の営業網と豊富な中小企業支援実績を活用し、SCS評価制度★3取得を支援します",
+    "url": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NTT Risk Manager",
+    "url": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NTT Risk Managerは、NTT東日本グループのセキュリティコンサルティング会社です",
+    "url": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "IPAとNTT東日本による「シン・テレワークシステム」のHTML5版の開発と提供について",
+    "url": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "IPAとNTT東日本による「シン・テレワークシステム」無償開放の期間延長について",
+    "url": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業から業務委託・開発委託・データ処理などを受注している中小企業",
+    "url": "https://jtrustc.co.jp/lp-scs-support/",
+    "pass": 3
+   },
+   {
+    "quote": "is to ensure the security of an organization's data and information by conducting a thorough Risk Assessment to identify potential problems, and then implementing the necessary controls and measures to mitigate these risks.",
+    "url": "https://www.iso-certification-japan.com/iso-27001-certification.html",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "サプライチェーンのセキュリティを含めたさまざまな業種でのコンサルティング経験で培った知見やノウハウを生かして支援します",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "認定取得スコープ定義支援",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "「サプライチェーン強化に向けたセキュリティ対策評価制度に関する制度構築方針」および「★3・★4要求事項・評価基準」をもとに、どの範囲でどの認定レベルを取得したいかをヒアリング",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "要件一覧作成、認定取得レベル決定",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒアリング内容を踏まえて「認定取得における要件一覧」を作成し、適用範囲および取得をめざす認定レベルを決定",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "認定取得定義とのギャップ分析",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "認定取得準備作業支援",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな資格を有したセキュリティエキスパートやインテグレーターとしての経験など、日立ソリューションズの強みをご紹介します",
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "pass": 3
+   },
+   {
+    "quote": "制度開始に伴い、大手企業や自治体・公共調達において、調達要件や取引条件として「★3」や「★4」の登録を求める動きが順次広がると予想されます",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "有効期間は3年で、有効期間内は1年ごとに自己評価を実施し結果を認定評価機関に提出、3年ごとの更新の際は「第三者評価」を受け、実地審査や脆弱性診断等の技術検証をクリアする必要があります",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "」が登録の必須条件となるため、対応漏れが許されません",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの経験",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "情報処理技術者試験制度の見直し",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報処理技術者試験のアジアにおける国際協調",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "情報処理安全確保支援士（登録セキスぺ）",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "DX認定制度",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "SCS評価制度 メールニュース 登録フォーム",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "最新情報の入手をご希望の方は、ぜひご登録ください",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "登録フォーム",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（登録フォームは外部サービス「WEBCAS」を利用しています）",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "メールニュースの登録を開始しました",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "メールニュースの登録フォームを公開しました",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "登録申請について（ITベンダー・サービス提供事業者向け）",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "再販協力会社登録について（ITベンダー・IT導入支援事業者向け）",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "「サイバーセキュリティお助け隊サービス」登録一覧",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティプレゼンター登録",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "コモンクライテリア登録制度",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規登録して、もっと便利にQiitaを使ってみよう",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "メールマガジン登録",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "2-2.★3/★4として登録・公開されるまでの流れ",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "次の図の上部の表が示すように、受注者のうち★3や★4の取得を希望する組織がそれを認定され、公開されるまでには7つのプロセスが必要です",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "なお、評価主体である社内資格者、社外資格者、評価機関、技術検証事業者や政府機関についての詳細は、これから明らかにされるようです",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "★3/★4の認定・公開に至る評価プロセス",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "対応が必要なタイミングは組織の規模などにもよりますが、評価段階への到達や認定が遅れると機会損失などに繋がりうることが懸念されるため、組織の規模が大きい企業などにおいては、特に早く（現時点など）から、現状把握や予算確保を行うことを推奨します",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "また、認定結果の公開方法の検討結果次第では、ブランドイメージの向上に繋げられる可能性もあると考えられます",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "サプライチェーン強化を目的とするもので、代表格は米国のCMMC（Cybersecurity Maturity Model Certification、サイバーセキュリティ成熟度モデル認証）や英国のCyber Essentials制度です",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "認証認定方法は低いレベルでは自己宣言、高いレベルでは第三者認証を求めるなど柔軟な対応を目指していることが見て取れます",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在の構想では政府調達に関して、サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）で4つ星以上の認定を受けた企業のみが取引できる仕組みが検討されています",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録変更",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "※「サイバーセキュリティお助け隊サービス」は、セキュリティ対策に対して「何をしたらよいか分からない」 「セキュリティにコストをかけられない」という悩みを抱える中小企業に対する支援策として、国が認定した民間事業者のサービスです",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "この実証事業では、IPAが認定したサービス提供事業者様が、中小企業の皆様にセキュリティサービスを提供し、「サイバーセキュリティお助け隊サービス」（新類型）として必要な要件の検証を行います",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営層が適合宣言を行い、登録機関に提出",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "登録に関する規則",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "★5の要求事項・評価基準・評価スキーム・開始時期（検討中）／申請・登録に係る費用",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "制度構築方針と★3・★4の要求事項・評価基準は公表済みですが、制度規程・登録規則は2026年8月頃、申請方法・解説書・取得ガイドは2026年10月頃に公表予定です",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "SCS評価制度は、米国の**CMMC（Cybersecurity Maturity Model Certification）**を参考にしていると言われています",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "無料ツール・登録不要",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=9124",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティの成熟度モデル認定(CMMC)を読み解く (前編) ～CMMC1.0とは～",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=9124",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティの成熟度モデル認定(CMMC)を読み解く (後編) ～CMMC2.0とは～",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=9124",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度の運用目指し「サイバーセキュリティ・サービス認定制度」中間とりまとめを公表 経産省",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=9124",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録変更",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=9124",
+    "pass": 3
+   },
+   {
+    "quote": "申請には事前登録（gBizIDプライム取得）が必要で、取得に数週間かかる場合があります",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IPA・経済産業省の公式資料を参考に、実務経験から記事を作成しています",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "税理士開業道場｜第五回：資⾦・登録編 - 費⽤の全体像と登録⼿続きの進め⽅",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のサイバー被害経験率（IPA調査）",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "⑪ 登録日 登録した日付を記入します",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでいうセキュリティ専門家とは、情報処理安全確保支援士などの資格保持者のうち、所定の研修を受講した者が想定され、2027年1月頃にIPAから詳細が公表される予定です",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "早期の意思決定が極めて重要となるのは、選択によって必要となるリソースが大きく異なるためです",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "★4は「取引先から選ばれ続けるための強力な競争力」となる一方、外部機関による「第三者評価」や「脆弱性診断」が必須となるため、相応の予算と準備期間を要します",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の立ち位置を明確にし、予算・スケジュールに余裕を持った計画を策定することが、SCS制度対応の重要なポイントとなります",
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "pass": 3
+   },
+   {
+    "quote": "ランサムウェア被害から学ぶ教訓集 ～ 経営者のためのランサムウェア対策ハンドブック ～",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ経営ガイドライン Ver 3.0実践のためのプラクティス集",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ経営可視化ツール",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "解説2 なぜサイバーセキュリティ対策は経営課題か",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "解説3 経営者が認識すべき3原則と指示すべき重要10項目",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "プラクティス1-1 経営者がサイバーセキュリティリスクを認識するための、他社被害事例の報告",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "指示3 サイバーセキュリティ対策のための資源（予算、人材等）確保",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "プラクティス3-1 サイバーセキュリティ対策のための、予算の確保",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "プラクティス3-2 経営層やスタッフ部門等の役割に応じた、リテラシーにとどまらないセキュリティ教育実践",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "プラクティス4-1 経営への重要度や脅威の可能性を踏まえたサイバーセキュリティリスクの把握と対応",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "プラクティス4-2 『サイバーセキュリティ経営可視化ツール』を用いたリスク対策状況の把握と報告",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "悩み(1) IT部門のみで経営層のセキュリティ意識を向上させることに限界を感じている",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "悩み(11) 経営層にセキュリティ対策の事業遂行上の重要性を理解してもらえない",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "「2020年度サイバーセキュリティ経営ガイドライン実践のためのプラクティスの在り方に関する調査」報告書",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営者向けインシデント対応机上演習",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "SCS評価制度の対応費用はいくらかかる？中小企業の予算感 #中小企業 - Qiita",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "SCS評価制度の対応費用はいくらかかる？中小企業の予算感",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "まずは本記事のパターンA〜Cのどれに自社が該当するかを確認し、概算予算を把握しましょう",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "「いくらかかるかわからないから手が出せない」のではなく、現状を把握すれば具体的な予算が見えてきます",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "対応が必要なタイミングは組織の規模などにもよりますが、評価段階への到達や認定が遅れると機会損失などに繋がりうることが懸念されるため、組織の規模が大きい企業などにおいては、特に早く（現時点など）から、現状把握や予算確保を行うことを推奨します",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "その後、優先順位を明確にし、予算や人員などの計画を立案することが推奨されます",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "経営層およびセキュリティ担当者は、既に示されている「セキュリティ要求事項」を参照し、制度開始を見据えた現状把握と、不足しているセキュリティ対策の計画的な改善・強化に着手することを推奨します",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーレジリエンスが反映される市場を目指して、「サイバーセキュリティの戦略的転換点：2027年に向けた経営陣のアジェンダ」公表 WEF",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "pass": 3
+   },
+   {
+    "quote": "事例２ 経営層を巻き込み自社課題として進めた事例",
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのように感じている経営者や総務・情報システム担当者の方もいらっしゃるのではないでしょうか",
+    "url": "https://efude.jp/blog/8461/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層が適合宣言を行い、登録機関に提出",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "する（CISOの設置、または経営層が兼任）",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が最低限やるべきセキュリティ対策10選 ― 予算ゼロから始める方法",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "経産省「サイバーセキュリティ経営ガイドライン」を中小企業向けに読み解く ― 経営者がやるべき10項目",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者向けに、①認識すべき3原則 ②指示すべき10項目の中小企業版 ③具体的なアクションに翻訳して解説します",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者編・実践編の2部構成、情報セキュリティ5か条、自社診断25項目、SECURITY ACTIONとの関係をわかりやすくまとめました",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ガイドラインは、中小企業の経営者や実務担当者が情報セキュリティ対策の必要性を理解し、情報を安全に管理するための具体的な手順等を示したもので、本編2部（第1部経営者編、第2部実践編）と付録により構成されています",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=9124",
+    "pass": 3
+   },
+   {
+    "quote": "「SCS評価制度は大企業向けの制度だろう」と思っている中小企業経営者・担当者は少なくありません",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "課題2：セキュリティ予算が限られている",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のIT予算は全体の数%程度であることが多く、そのほとんどは業務システムの維持・更新に費やされます",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ専用の予算が設けられていないケースも多く、新たなセキュリティツール・サービスへの投資判断が難しい状況があります",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "限られた予算・リソースを最大限に活用するため、対策を「0円でできること」「月数千円でできること」「月数万円必要なこと」の3段階に整理します",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "経営・管理体制要件",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁が設置する無料の経営相談機関で、IT・セキュリティに関する相談も対応しています",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業向け専門のMSSPは、中小企業の予算・体制に適したサービスを提供できない場合があります",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者・IT担当者（兼務可）",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "・整備した規程・手順書の最終確認・経営者承認",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者がセキュリティリスクを自社のリスクとして認識する",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "担当者の指定・現状把握・予算の確保",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Q2. SCS★3取得のための予算の目安はどのくらいですか？",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断（セキュリティポリシーの承認）・日常運用（MFA設定確認・アカウント管理）は内製し、ギャップ分析・文書整備・評価申請サポート・従業員教育は外部専門家を活用することで、コストと品質のバランスを取れます",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Net Peaceの専門チームが、予算・リソースが限られた中小企業のSCS評価制度★3取得を無料診断からサポートします",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "サステナビリティ経営",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "顧問先の経営支援プラットフォーム",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "経営センスチェック",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "受注企業においては、自社に必要なセキュリティ対策が明確化され、意思決定がしやすくなります",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "重要なのは、社内の情報セキュリティ委員会などに経営層が参加し、予算・人員計画や事故対応など経営判断が必要な場面に備えた体制を作ることです",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "特に個人情報や経営秘密情報の流出はどの企業においても大きなリスクになり得ます",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "企業内で適切なセキュリティ対策を施すことは、コストとともに人員時間も費やすことになるので、経営者がセキュリティ対策を「戦略的先行投資」だと意識改革していくことも大切です",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "レジリエンスは際限なく強くすれば良いのではなく、費用対効果から導かれる最適な施策が求められます",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "★3の段階で全社を一気に整えようとすると、設備更新の予算と工期に引きずられて計画全体が止まります",
+    "url": "https://www.josis365.com/blog/scs-ot-factory-security/",
+    "pass": 3
+   },
+   {
+    "quote": "更改計画（時期・予算）を策定し、それまでの間の隔離措置を実施",
+    "url": "https://www.josis365.com/blog/scs-ot-factory-security/",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "実はSCS★3の対応費用は、自社のセキュリティ対策の現状によって20万円から300万円まで大きく幅があります",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、3つのパターン別に費用をシミュレーションし、コストを抑えるためのポイントも紹介します",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "パターンA：セキュリティ対策がほぼ整っている企業（20〜50万円）",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "パターンB：一部の対策は実施しているが不足がある企業（50〜150万円）",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "パターンC：セキュリティ対策がほぼゼロの企業（150〜300万円）",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "MFA全社導入：10〜30万円（設定作業費",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "アクセス制御設計（条件付きアクセス等）：20〜50万円",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "EDR導入設定：10〜20万円（ライセンス費用は月額500〜1,000円/台が別途）",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "パッチ管理体制構築：10〜20万円",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "ログ取得・保存設定：10〜30万円",
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "pass": 3
+   },
+   {
+    "quote": "4-2.費用と効果",
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "★5の要求事項・評価基準・評価スキーム・開始時期（検討中）／申請・登録に係る費用",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "月額12万円〜のサポートプランで、専任のIT担当者がいない企業でも制度対応を進めることができます",
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "限られた予算・リソースを最大限に活用するため、対策を「0円でできること」「月数千円でできること」「月数万円必要なこと」の3段階に整理します",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "0円でできること（今すぐ始められる対策）",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "既存のMicrosoft 365プランでMicrosoft Authenticatorを全ユーザーに設定（追加費用ほぼなし）",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "1台あたり月数百〜千円程度",
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに警察庁の「令和7年上半期におけるサイバー空間をめぐる脅威の情勢等について」によれば、ランサムウェアに限定すれば被害を受けた企業の約66%が中小企業であり、調査・復旧に要した費用の総額は1,000万～5,000万円に及んだケースが被害企業の約41%に及び、1億円以上に達した企業も約8%ありました",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "復旧費用が1,000万～5,000万円に達したケースの割合",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "現行のサービスでは、24時間の異常監視、緊急時の駆け付け支援、相談窓口の設置、簡易サイバー保険などの基本的なセキュリティサービスがワンパッケージで、かつ、安価（例としては月額1万円以内）で提供されています",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "独立行政法人中小企業基盤整備機構により採択されるデジタル・AI導入補助金「セキュリティ対策推進枠」では、所定の要件を満たし採択された事業者を対象として、最大150万円まで、中小企業は導入費用の1/2（小規模事業者は2/3）の補助を受けられます",
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "pass": 3
+   },
+   {
+    "quote": "これらは今礼からでも、1円もかけずに始められます",
+    "url": "https://note.com/deep_worm9975/n/n6d36c62a71bb",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365とIntuneでカバーできるIT側を先に固め、OT固有の部分を個別に設計する二段構えが、現実的かつ費用を抑えられる進め方です",
+    "url": "https://www.btncon.com/blog/scs-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "なお2026年9月18日に公表された登録料では、2028年3月31日まで、★3は1年10,000円、★4は3年60,000円とされています",
+    "url": "https://note.com/wish11_11/n/n26e7a30f86dc",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、年商規模が一定以上の企業において、サイバー攻撃による事業停止が3日間続いた場合、売上逸失額と復旧費用、さらには取引先への損害賠償を合わせると、数千万円から1億円を超える特別損失が発生する可能性があります",
+    "url": "https://takahashi-cpa-v2.vercel.app/blog/scs-security-evaluation-system-2026-0308",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、★3の取得・維持コストを年間数百万円程度と見積もれば、それは",
+    "url": "https://takahashi-cpa-v2.vercel.app/blog/scs-security-evaluation-system-2026-0308",
+    "pass": 3
+   },
+   {
+    "quote": "1億円(資本準備金除く)",
+    "url": "https://www.lrm.jp/consulting/lp/scs_evaluation_system/",
+    "pass": 3
+   },
+   {
+    "quote": "SCS評価制度の対応支援サービス14選｜★3・★4の要件と選び方・費用を比較 - MCB FinTechカタログ",
+    "url": "https://catalog.monex.co.jp/article/?p=51116",
+    "pass": 3
+   },
+   {
+    "quote": "> SCS評価制度の対応支援サービス14選｜★3・★4の要件と選び方・費用を比較",
+    "url": "https://catalog.monex.co.jp/article/?p=51116",
+    "pass": 3
+   },
+   {
+    "quote": "SCS評価制度の対応支援サービス14選｜★3・★4の要件と選び方・費用を比較",
+    "url": "https://catalog.monex.co.jp/article/?p=51116",
+    "pass": 3
+   },
+   {
+    "quote": "2028年3月31日までの申請に適用される料金です（2028年4月1日以降は★3が20,000円／1年分）",
+    "url": "https://jtrustc.co.jp/lp-scs-support/",
+    "pass": 3
+   },
+   {
+    "quote": "IPA「SCS評価制度 料金設定のお知らせ」（2026年9月18日）",
+    "url": "https://jtrustc.co.jp/lp-scs-support/",
+    "pass": 3
+   },
+   {
+    "quote": "★4の技術的検証（脆弱性検査等）は費用に含まれますか？",
+    "url": "https://jtrustc.co.jp/lp-scs-support/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製造業 のSCS 評価制度 3対応実践ガイド - Net Peace株式会社 — 製造業 のSCS 評価制度 3対応実践ガイド - Net Peace株式会社 Net Peace株式会社 https://netpeace.co.jp > セキュリティメディア > SCS評価制度",
+    "url": "https://netpeace.co.jp/blog/scs/scs-manufacturing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "SCS評価制度の対応支援サービス14選｜★3・★4の要件と選び方・費用を比... — Sep 30, 2026 · 制度の★3・★4の要求事項や申請時期といった前提を整理したうえで、 対応支援サービスに頼める範囲・自社の状況に合う選び方・費用の実際 まで、資料請求や問い合わせの判断に使える形でまとめました。",
+    "url": "https://catalog.monex.co.jp/article/?p=51116",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://canon.jp/biz/solution/smb/makasete-it/bx-support/security/institution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lanscope.jp/error_res.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntt.com/bizon/scs-2026.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/products/security/consulting-education/situation-plan/supplychain-security-consulting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lanscope.jp/error_res.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://efude.jp/blog/8461/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=9124",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mjs.co.jp/topics/lp/scs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netpeace.co.jp/blog/scs/scs-manufacturing-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.josis365.com/blog/scs-ot-factory-security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/deep_worm9975/n/n6d36c62a71bb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.btncon.com/blog/scs-manufacturing-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/magazines/smb/column/007031/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wish11_11/n/n26e7a30f86dc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japansecuritysummit.org/2026/11/15151/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipa.go.jp/security/scs/details.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kreuz-corp.co.jp/2026/08/31/scs-evaluation-system-basic-regulations-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yamanaka-bengoshi.jp/2026/10/30/scs-security-evaluation-contract/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kpmg.com/jp/ja/insights/2026/04/security-assessment-framework-update.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takahashi-cpa-v2.vercel.app/blog/scs-security-evaluation-system-2026-0308",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipa.go.jp/pressrelease/2026/press20261028.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbcc.co.jp/blog/column/meti-security-evaluation-2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lrm.jp/consulting/lp/scs_evaluation_system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=51116",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ithelper.ripple-call.co.jp/scspartner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sandj.co.jp/services/scs-evaluation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jtrustc.co.jp/lp-scs-support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp-reports.com/en/articles/01KK0VJGXC47MJCJ13BWVM7FPD/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rsm.global/japan/shiodome/en/services/business-applications/cyber-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cogley.jp/articles/japan-ipa-security-action-sme",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomarkglobal.com/iso-27001-certification-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iso-certification-japan.com/iso-27001-certification.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vertexcertifiers.com/iso-27001-certification-in-japan/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "セキュリティ評価制度の取得支援",
+   "results": [
+    "https://canon.jp/biz/solution/smb/makasete-it/bx-support/security/institution",
+    "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "https://www.hitachi-solutions.co.jp/security_consul/scs.html",
+    "https://www.lanscope.jp/professional-service/lp/sapoaka-security-measures-assessment/",
+    "https://www.lrm.jp/security_magazine/scs-evaluation-system/",
+    "https://www.ipa.go.jp/security/scs/index.html",
+    "https://service.cec-ltd.co.jp/security/scs-evaluation-solution",
+    "https://www.armstandard.com/blog/supply-chain-security",
+    "https://www.jbcc.co.jp/blog/column/meti-security-evaluation-2026.html",
+    "https://kreuz-corp.co.jp/2026/08/31/scs-evaluation-system-basic-regulations-2026/"
+   ]
+  },
+  {
+   "query": "セキュリティ評価制度の取得支援 費用 相場",
+   "results": [
+    "https://www.ntt.com/bizon/scs-2026.html",
+    "https://www.otsuka-shokai.co.jp/products/security/consulting-education/situation-plan/supplychain-security-consulting.html",
+    "https://qiita.com/btncon/items/cf13c3d8f1976a778cee",
+    "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "https://www.lanscope.jp/blogs/cyber_attack_pfs_blog/20250325_25987/",
+    "https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html",
+    "https://www.elecom.co.jp/biz/solution/column/00285/",
+    "https://synplanning.com/column/cycle-security-risk-evaluation-pdca/",
+    "https://www.btncon.com/blog/scs-cost-guide"
+   ]
+  },
+  {
+   "query": "セキュリティ評価制度の取得支援 事例 中堅企業",
+   "results": [
+    "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html",
+    "https://efude.jp/blog/8461/",
+    "https://www.josis365.com/blog/scs-evaluation-system-guide/",
+    "https://www.newton-consulting.co.jp/itilnavi/flash/id=9124",
+    "https://netpeace.co.jp/blog/scs/scs-small-business-guide/",
+    "https://www.mjs.co.jp/topics/lp/scs/",
+    "https://www.pwc.com/jp/ja/knowledge/column/awareness-cyber-security/security-measures-assessment-system-concreteization.html",
+    "https://www.ipa.go.jp/security/scs/index.html",
+    "https://canon.jp/biz/trend/securityaction",
+    "https://leo-cd01.nttdata.com/global/ja/news/release/2026/100100/"
+   ]
+  },
+  {
+   "query": "セキュリティ評価制度の取得支援 工場 製造業",
+   "results": [
+    "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "https://www.ntt.com/bizon/scs-2026.html",
+    "https://netpeace.co.jp/blog/scs/scs-manufacturing-guide/",
+    "https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain",
+    "https://www.josis365.com/blog/scs-ot-factory-security/",
+    "https://www.ipa.go.jp/security/scs/index.html",
+    "https://note.com/deep_worm9975/n/n6d36c62a71bb",
+    "https://www.btncon.com/blog/scs-manufacturing-guide",
+    "https://www.ricoh.co.jp/magazines/smb/column/007031/",
+    "https://note.com/wish11_11/n/n26e7a30f86dc"
+   ]
+  },
+  {
+   "query": "セキュリティ評価制度の取得支援 責任 範囲 免責",
+   "results": [
+    "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "https://www.ipa.go.jp/security/scs/index.html",
+    "https://japansecuritysummit.org/2026/11/15151/",
+    "https://www.ipa.go.jp/security/scs/details.html",
+    "https://kreuz-corp.co.jp/2026/08/31/scs-evaluation-system-basic-regulations-2026/",
+    "https://www.meti.go.jp/policy/netsecurity/docs/scs/scs_2.pdf",
+    "https://yamanaka-bengoshi.jp/2026/10/30/scs-security-evaluation-contract/"
+   ]
+  },
+  {
+   "query": "セキュリティ評価制度の取得支援 経営判断 損失額",
+   "results": [
+    "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "https://kpmg.com/jp/ja/insights/2026/04/security-assessment-framework-update.html",
+    "https://takahashi-cpa-v2.vercel.app/blog/scs-security-evaluation-system-2026-0308",
+    "https://www.ipa.go.jp/pressrelease/2026/press20261028.html",
+    "https://www.jbcc.co.jp/blog/column/meti-security-evaluation-2026.html",
+    "https://japansecuritysummit.org/2026/11/15151/",
+    "https://www.lrm.jp/consulting/lp/scs_evaluation_system/"
+   ]
+  },
+  {
+   "query": "セキュリティ評価制度の取得支援 スタートアップ",
+   "results": [
+    "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "https://catalog.monex.co.jp/article/?p=51116",
+    "https://ithelper.ripple-call.co.jp/scspartner/",
+    "https://www.ipa.go.jp/security/scs/index.html",
+    "https://www.sandj.co.jp/services/scs-evaluation/",
+    "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
+    "https://jtrustc.co.jp/lp-scs-support/"
+   ]
+  },
+  {
+   "query": "security certification support SME Japan",
+   "results": [
+    "https://jp-reports.com/en/articles/01KK0VJGXC47MJCJ13BWVM7FPD/",
+    "https://www.rsm.global/japan/shiodome/en/services/business-applications/cyber-security",
+    "https://cogley.jp/articles/japan-ipa-security-action-sme",
+    "https://isomarkglobal.com/iso-27001-certification-japan/",
+    "https://www.iso-certification-japan.com/iso-27001-certification.html",
+    "https://vertexcertifiers.com/iso-27001-certification-in-japan/",
+    "https://isms.jp/english/"
+   ]
+  },
+  {
+   "query": "security certification support SME Japan startup pricing",
+   "results": [
+    "https://cogley.jp/articles/japan-ipa-security-action-sme",
+    "https://governancedocs.com/iso-27001-for-startups/",
+    "https://securityboulevard.com/2026/09/how-much-does-iso-27001-certification-cost-for-a-startup/",
+    "https://www.novelvista.com/blogs/quality-management/what-is-cost-ISO-27001-certification",
+    "https://cyberexperts.com/cybersecurity-certification-cost-calculator/",
+    "https://japanlivinglife.com/articles/japan-startup-visa-program-guide",
+    "https://www.josis365.com/blog/security-outsourcing-cost-guide/",
+    "https://www.oflight.co.jp/en/columns/pmark-isms-cost-guide-2026",
+    "https://chillcompliance.com/blogs/our-blog/iso-27001-certification-costs-smes-2026",
+    "https://gxo.co.jp/column/isms-iso27001-certification-guide-sme-2026"
+   ]
+  },
+  {
+   "query": "site:note.com セキュリティ評価制度の取得支援",
+   "results": [
+    "https://note.com/btncon/n/nfdd8d54fe718",
+    "https://note.com/btncon/n/n6e576eeab58d",
+    "https://note.com/mirutane/n/n78c41db43c52",
+    "https://note.com/cyber_gov_lab/n/nd3b828bd82c3",
+    "https://note.com/btncon/n/n6246374c964a",
+    "https://note.com/bansou_security/m/ma21d83a9ee26",
+    "https://note.com/kei_scs1129/n/n7d9750642f7f"
+   ]
+  },
+  {
+   "query": "site:x.com セキュリティ評価制度の取得支援",
+   "results": [
+    "https://x.com/rexcross_sc",
+    "https://x.com/rexcross_sc/status/2103318987400790020",
+    "https://x.com/NDISolutions_dx/status/2074335097206022444",
+    "https://x.com/Sky_corporate/status/2041682437022085530",
+    "https://x.com/source_pod/status/2008725499976314908",
+    "https://x.com/meti_NIPPON/status/2026961634149937553",
+    "https://x.com/SchooSwing/status/2036578814495519079"
+   ]
+  },
+  {
+   "query": "site:linkedin.com セキュリティ評価制度の取得支援",
+   "results": [
+    "https://mh.linkedin.com/company/classmethod",
+    "https://ro.linkedin.com/in/silvia-maican-0989a117",
+    "https://jp.linkedin.com/pulse/2026年度日本企業の格付け開始-セキュリティは品質から取引免許へ-和宏-高島-fqyzc",
+    "https://jp.linkedin.com/posts/義憲-齋藤-b1a6581aa_当社の次世代ファイアウォールpaシリーズが日本独自のサイバーセキュリティ適合性評価制度-activity-7523509990192734208-LqHI",
+    "https://www.linkedin.com/posts/hiroshidee69_アクロニスと共に提案を丸ごと経産省セキュリティ対策評価制度への最速対応ウェビナー-activity-7440369849916325889-sL5C",
+    "https://www.linkedin.com/posts/koto-ito-9151733b1_専門家監修-iot製品のセキュリティ評価ラベリング制度-jc-star活用-activity-7444998079872921600-nncm",
+    "https://id.linkedin.com/jobs/view/d1-【渋谷】セキュリティエンジニア-ai・クラウド領域-at-ａｒアドバンストテクノロジ株式会社-4440945913"
+   ]
+  },
+  {
+   "query": "site:facebook.com セキュリティ評価制度の取得支援",
+   "results": [
+    "https://www.facebook.com/synnexjp/",
+    "https://www.facebook.com/optimjpn/posts/optim-情報漏洩サイバーセキュリティ対策ナビにscs評価制度の評価用ガイドが公開3取得に向けて企業が確認すべき5つのポイントを公開しました2026年10月2/1825318768987268/",
+    "https://www.facebook.com/hiramekilabo/posts/このたびアサヒ商会では経済産業省-セキュリティ評価制度-対策勉強会を開催いたします経済産業省が推進しているサプライチェーン強化に向けたセキュリティ対策評価制度は/1911001239852705/",
+    "https://www.facebook.com/HokurikuBank/photos/新制度開始にむけて事前準備をセミナー開催のお知らせセキュリティ対策評価制度セミナー取引先から選ばれる企業へ経済産業省及び内閣官房国家サイバー統括室の主導するサプ/1614004820731535/",
+    "https://www.facebook.com/hamakita.sci/posts/中小企業庁よりお知らせです中小企業及び小規模事業者のサイバーセキュリティ対策についてガイドラインや相談窓口各種支援制度の情報をご紹介します①-まずは自社の対策状/1443581924583373/",
+    "https://www.facebook.com/optimjpn/posts/️-取引先からセキュリティ対策は大丈夫ですかと聞かれたらすぐに答えられますかこんにちは広報チームですサイバー攻撃の手口は巧妙化しており近年はサプライチェーンを狙/1821828019336343/",
+    "https://www.facebook.com/motex.jp/photos/セミナー情報motexは2026年1月16日金経済産業省が推進するscs評価制度セキュリティ対策評価制度の最新情報を解説する無料オンラインセミナーを開催します-/1266641378822540/"
+   ]
+  },
+  {
+   "query": "セキュリティ評価制度の取得支援 note 社長",
+   "results": [
+    "https://note.com/cyber_gov_lab/n/nd3b828bd82c3",
+    "https://security-choice.com/guide/893/",
+    "https://japansecuritysummit.org/2026/11/15151/",
+    "https://note.com/bansou_security/m/ma21d83a9ee26",
+    "https://profectus-note.com/blog/security-policy-sme-2026",
+    "https://www.dir.co.jp/release/2026/2026052901.html",
+    "https://www.ags.co.jp/topics/20250929.html"
+   ]
+  },
+  {
+   "query": "セキュリティ評価制度の取得支援 X 投稿",
+   "results": [
+    "https://www.meti.go.jp/policy/netsecurity/scs.html",
+    "https://japansecuritysummit.org/2026/11/15151/",
+    "https://x.com/27001zyx27017/status/2116747703204135400",
+    "https://jtrustc.co.jp/lp-scs-support/",
+    "https://www.ipa.go.jp/pressrelease/2026/press20261028.html",
+    "https://www.tisi.jp/news/2026/tis_news/20260525_1.html",
+    "https://www.meti.go.jp/policy/netsecurity/otasuketai_jissho.html"
+   ]
+  },
+  {
+   "query": "security certification support SME Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/asean-bac_aseanjapan-cybersecurity-digitaltrust-activity-7506857553625210880-A1Ak",
+    "https://www.linkedin.com/posts/asean-japan-centre_aseanjapan-cybersecurity-digitaltrust-activity-7506638615070920704-Ui9o",
+    "https://jp.linkedin.com/company/tokyosmetraininginstitute",
+    "https://jp.linkedin.com/in/rajatyadav2594",
+    "https://my.linkedin.com/jobs/view/subject-matter-expert-sme-bilingual-japanese-korean-cloud-engineer-security-specialization-at-accenture-southeast-asia-4135555877?position=53&pageNum=0",
+    "https://sg.linkedin.com/jobs/view/information-technology-help-desk-4408968104",
+    "https://in.linkedin.com/in/rahulguptahacker"
+   ]
+  }
+ ],
+ "missing": {}
+}

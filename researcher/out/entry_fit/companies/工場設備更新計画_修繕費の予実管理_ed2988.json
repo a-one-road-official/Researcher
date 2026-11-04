@@ -1,0 +1,1675 @@
+{
+ "name": "工場設備更新計画・修繕費の予実管理",
+ "en": "asset renewal planning maintenance cost budgeting factory shop floor manufacturer",
+ "aliases": [
+  "設備更新計画 策定支援 工場",
+  "修繕費 予実管理 工場",
+  "長期修繕計画 工場",
+  "製造業 工場設備更新計画"
+ ],
+ "context": "予知保全（工場設備のみ。プラント・インフラは除外）",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:07:57.234269+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "製造業における修繕計画の重要性（株式会社ナックス 鈴木宏康） | 「創×造」",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における修繕計画の重要性（株式会社ナックス 鈴木宏康）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ナックス コンサルティング営業部門長",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルティング会社勤務を経て、建設工事に専門特化した工事発注コンサルティング業務をおこなう株式会社ナックスにジョイン",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における工場移転・建替え・改修工事等のプロジェクト推進や大幅な工事コスト削減から、大手飲食・物販チェーン展開企業の新規出店・改装・原状回復工事等の工事発注体制構築、不動産オーナー向け投資利回り向上支援など、幅広い分野における工事発注コンサルティングに強みを発揮する",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業が建設工事発注時に気をつける5つの基本ポイント（株式会社ナックス 鈴木宏康）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "開発型製造業の開発力の共有･継承のポイント(アットマーク・コンサルティング合同会社 清水弘幸）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "偏心軸クランクシャフト（株式会社極東精機）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "現場の声から生まれたLED照明『PanoShot R』（株式会社和興計測）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "和興計測が受け継ぐ町工場の未来（株式会社和興計測インタビュー③）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "和興計測の現場対応力と職人技（株式会社和興計測インタビュー②）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "現場の困りごとを技術で解決する、和興計測の事業とは（株式会社和興計測インタビュー①）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "技術と信頼で切り拓く未来—東洋研磨材工業と「SMAP」の革新 （東洋研磨材工業株式会社①）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "一人一人が支える、大雄塗装の職人技（株式会社大雄塗装）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "つながりを大切に、みんなの幸せを実現する（株式会社昭和製作所 舟久保利和 社長インタビュー第3回（最終回））",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "サービスと費用",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "中長期修繕計画を元にした施設の維持管理・ファシリティマネジメントの支援を必要とされている方は、",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "実際の資料や成果物から具体的な支援内容をご覧になりたい場合は「",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "既存建物のCM・FMサービスのご案内",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "中長期修繕計画策定業務・FMの事例紹介",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "中長期修繕計画に関する事例・リンク",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "建設プロジェクトの予算立案や概算工事費算出、品質・スケジュール管理などでお困りの方は、株式会社アクアにご相談ください",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "設備機器の仕様の見直しを行った事例",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "今後のホテルのあり方を含めたデザインの方向性の検証を行い、内装や設備など経年劣化した客室を改修し、販売単価の向上と稼働率の改善を実現した事例",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "アクアは、建物を所有・運用する方々の立場に立ち、中長期修繕計画の策定に関する多様なサービスを提供しています",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、中長期修繕計画の立案、既存計画の検証、改修工事の発注支援、修繕・更新工事の見積精査など、幅広い支援を行っています",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、アクアが提供する中長期修繕計画関連のサービスの概要やポイントを紹介します",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "事例1：東京都港区の中規模オフィスビルにおける中長期修繕計画策定業務",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区にある中規模オフィスビルの中長期修繕計画を検証した事例です",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "現地調査による劣化診断のほか、類似の建物の運用段階におけるさまざまなデータや事例を元に既存の中長期修繕計画の検証を行い、高コスト要因を可視化しつつ過剰と思われる項目の見直しや金額の精査を実施しました",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "長期修繕計画の作成支援",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "建設費とランニングコストを一体で最適化する発注者目線のCMサービスをご提案します",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のCMサービスで効率的な工場建設を実現しませんか？",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "トゥインクルワールド株式会社",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "実績と技術力:",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "工場・倉庫の大規模修繕に関する豊富な実績があるか、専門的な技術力を持っているかを確認します",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "適切な修繕を行うことで、建物の寿命を延ばし、資産価値を向上させるだけでなく、従業員にとって安全で快適な作業環境を提供し、生産性の向上にも寄与します",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模修繕会社の選び方｜種類・費用・実績で失敗しない業者選定のコツ",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 1：実績入力シートの初期設定",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "予算vs実績の対比設計",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "業者別実績金額の集計・見積比較の参照に使用",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "見積と実績の差額理由・特記事項",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "実績入力シート",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "実績入力シートの設備名プルダウンはこのマスタを参照させる",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "修繕が発生したら、実績入力シートに1行追加します",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "見積段階で先行入力しても問題ありませんが、「見積金額のみ入力・実績は受領後」の運用では支払状況列を使って未確定データを管理します",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "集計ダッシュボードシートは実績入力シートの変更が自動反映されます",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "修繕予算を精度よく設定するには、過去2〜3年分の実績データが必要です",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "テンプレートを使い始めた初年度は実績がないため、以下の方法で概算予算を設定します",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "前年度実績をベースに、更新予定設備・新規導入設備の変動分を加減算して設定する",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "：設備別の年度累計実績が予算の80%を超えた設備を抽出する",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 内製修繕は部品・材料費を実績金額として記録し、備考欄に内製作業であることを注記する方法が実用的です",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "内製と外注を同一の実績金額列で管理するか分離するかは、経理部門の費用計上方針に合わせてください",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "ITトレンドがおすすめする製品・サービス",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資の計画・実績管理：",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "案件別に予算と実績、残額を一覧で確認できれば、予算超過のおそれがある案件に早めに気づけます",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "ITトレンドでは、最新の製品・サービスを多数比較・掲載しています",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の予算管理では、会計の実績だけでなく、生産量や作業時間などの現場の実績も必要です",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "工場の生産実績データを集める",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "＊長期修繕計画は、20～30年先までの推定修繕工事の内容、時期、費用等を概算で求めますが、策定後の技術の発展や経済・社会情勢等の変動要因はカバーしていません",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "以来約６年にわたって、手掛けた建設工事プロジェクトは延べ１５０件（６５億円）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "「坪単価を1万円下げる」という判断が、20〜30年後のメンテナンスコストを大きく増加させるリスクがあります",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "建設費（坪100万円×900坪）",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "約8〜12億円",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "約5〜8億円",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "約2〜4億円",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "約24〜33億円",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "建設費9億円に対して、30年間の運用・維持管理コストは15〜24億円にのぼる計算",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "設計段階でメンテナンスコストを5%削減できれば、30年間で750万〜1,200万円の削減になります",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "+500万〜2,000万円",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "110万 〜 210万円",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "250万 〜 430万円",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "720万 〜 1,300万円",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "1,200万 〜 2,100万円",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000 〜 5,000円",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円(定期保全中心)",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "建築の専門家もしくは建物診断の専門会社に依頼をして、見直し時に建物の状況や実態に沿った工事範囲・工事内容の選定を行い、より精度の高い修繕計画を立てましょう",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "長期修繕計画の作成タイミングや精度に違いがあります",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "分譲マンションでは、区分所有者が「修繕積立金」を定期的に積み立て、修繕費用を賄う仕組みがあるため、販売時点で管理組合や事業者が精度の高い長期修繕計画を作成する場合が多いです",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "また、新築時点で中長期修繕計画を作成する場合でも、積立修繕金の算出を行う分譲マンションに比べると、精度が高くない場合もありますが、",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "企業不動産でも早期に精度の高い中長期修繕計画を作成することで、将来の修繕・更新費用の見通しを立てられ、予算計画や資産価値の維持に役立ちます",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "老朽化によってこれらの基準を満たせなくなる前に、修繕を行うことで法令遵守を徹底し、企業としての社会的責任を果たします",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "工事後の保証内容や定期点検の有無なども確認しておきましょう",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "契約書には、工期、支払い条件、保証期間、瑕疵担保責任など、重要な事項が明記されているかを入念に確認し、納得した上で署名・捺印を行いましょう",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "引き渡し時には、保証書やメンテナンスに関する書類を受け取り、内容をしっかりと把握しておくことが重要です",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "分析精度を上げる追加項目（6項目）",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "修繕予算を精度よく設定するには、過去2〜3年分の実績データが必要です",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "故障・精度低下・部品供給終了",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "精度低下による不良率増加とクレームリスク",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "10～20年（ただし精度劣化に注意）",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "加工精度・不良率が新台導入時より明らかに悪化していないか",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "であり、「そこまでは安心して使える保証」ではありません",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "故障回数や精度低下、部品供給終了でわかる機械設備の寿命サイン",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "月次・年次点検項目(精度確認、消耗部品交換)",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "生産性・精度",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "高精度・サイクル短縮",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "軸受焼き付き、振動増加、精度低下",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "工事後の洗浄・フラッシング・試運転の責任分担",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "工場や倉庫等の場合でも、建設時に長期の修繕計画を立てることで 、毎年の企業の予算取りもできます",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "ドラム缶部品製造で培った品質を強みにゴム製造へ挑戦！～人を大切にする経営を貫く～（みずほ金属インタビュー①）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "ドラム缶部品製造で培った品質を強みにゴム製造へ挑戦！～人を大切にする経営を貫く～（みずほ金属インタビュー③）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "分譲マンションでは、区分所有者が「修繕積立金」を定期的に積み立て、修繕費用を賄う仕組みがあるため、販売時点で管理組合や事業者が精度の高い長期修繕計画を作成する場合が多いです",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "企業不動産でも早期に精度の高い中長期修繕計画を作成することで、将来の修繕・更新費用の見通しを立てられ、予算計画や資産価値の維持に役立ちます",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "建築であれば部位ごと、設備であれば各設備ごとに、「仕様」「設置場所」「数量」「最終更新年」「推奨更新周期」「劣化度」「調査結果コメント」「修繕費」「更新費」などが記載され、建物の状況を具体的に把握できます",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "建設プロジェクトの予算立案や概算工事費算出、品質・スケジュール管理などでお困りの方は、株式会社アクアにご相談ください",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "修繕費や更新費はランニングコストに含まれ、全体の約3割を占めるため、建物の長期的な運用を見据えて修繕・更新を最適化することで、過剰な支出を抑えることができます",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "建物の寿命を延ばすには、適切な修繕・更新計画が欠かせません",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、計画的に修繕費を見通すことで、費用と品質のバランスを取りやすくなります",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "竣工から数年経過し、年間の修繕費用として大きな金額が発生するような時期に来ていました",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "建物診断、中長期修繕計画の立案、改修工事の予算策定、修繕・更新工事の見積精査などについて、アクアの具体的なサポート内容をご覧いただけます",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "CAPEX（資本的支出）とは？ 意味、OPEX・修繕費との違い、減価償却、改修コスト削減方法を紹介",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "CAPEXの意味、OPEX（オペックス）や修繕費との違い、CAPEXマネジメントの導入事例などを紹介しています",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "「建設費が安い工場を選んだが、10年後に修繕費が膨大にかかった」",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "30年間のメンテナンス・修繕費",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "修繕費が2〜3倍",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "年間修繕費が増大",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模修繕は、単に建物の見た目を良くするだけでなく、工場や倉庫の経営において不可欠な役割を担っています",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "屋根材の選定や修繕方法は、現在の劣化状況、予算、将来的な建物の使用計画などを考慮して専門業者と相談し、最適なものを選ぶことが重要です",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "次に、これらの情報をもとに、具体的な修繕内容、想定される予算、工事期間を設定します",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "修繕コスト管理表の作り方｜設備別・年度別の予算対比",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "修繕コスト管理表の作り方｜設備別・年度別の予算対比をExcelで可視化する方法",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "修繕コストが「感覚値」のままでは経営判断できない",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "予算vs実績の対比設計",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "年間予算の積み上げ方",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "月次の予算差異確認フロー",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "修繕費率で老朽設備を特定する",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 予算を設備ごとに設定するのが難しい場合はどうすればよいですか？",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "「今年の修繕費は増えた気がする」「緊急修理にかかったコストが大きいのはわかっているが数字で説明できない」——これは多くの保全部門が抱える課題です",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "修繕コストを設備別・年度別に管理できていないと、「どの設備が最もコストを食っているか」「緊急修理と計画保全でコスト構造がどう違うか」「来年の修繕予算はいくらが妥当か」という経営レベルの問いに答えられません",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "修繕費は経営目線では「削りやすい」対象として扱われがちです",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "設備別・年度別に修繕コストを可視化し、「損失削減の根拠」として数字で示せる状態にしておくことが、予算獲得の説得力を高めます",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、修繕コスト管理表のExcelテンプレートを使った作成手順を、必要項目の設計から予算対比の可視化、コスト分析による設備更新判断まで具体的に解説します",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "予算策定の参考・予実差の分子",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "予算対比の基礎",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の予算管理システムは何が違う？製造原価と設備投資の計画 | ITトレンド",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "予算管理システム",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "予算管理システムの関連記事一覧",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の予算管理システムは何が違う？製造原価と設備投資の計画",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の予算管理システムでは、販売計画から生産量、材料費や労務費といった製造原価までを連動させて計算できるか、設備投資と減価償却を管理できるかが重要です",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、製造業ならではの予算の組み方と、生産管理・原価管理とのつなぎ方を解説します",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "【入力１分】予算管理の製品を",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "■予算の組み方別",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "NetSuite Planning and Budgeting",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "SAP Analytics Cloud 予算管理",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の予算管理が複雑になる理由",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の予算は、売上や経費を部門ごとに積み上げるだけでは組み立てられません",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "販売計画から生産量と原価予算へ連鎖する",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "売上の前提が1つ変わると、原価予算の多くの項目を計算し直す必要があります",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "予算管理システムで計算の流れを定義しておくと、前提の変更を全体に反映させやすくなります",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "機械設備の更新と減価償却のタイミングで工場利益や停止リスクを守る実務ガイド〜賢い経営者のための最新ノウハウ",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "帳簿上は減価償却が終わり利益が増えたように見えても、実際には修繕費、停止リスク、品質低下で手元の現金と生産性が静かに削られています",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "法定耐用年数と実際の寿命のギャップを、故障回数や修繕費、部品供給終了、生産ライン停止リスクという現場の数字でどう評価し、修繕と更新をどこで切り替えるか",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、機械設備や建物付帯設備の耐用年数一覧を整理しつつ、減価償却終了前後の税務と資金繰り、設備更新計画表や長期修繕計画の作り方、設備更新提案書や稟議書で通る説明の筋道まで、工場現場の段取りと結び付けて具体的に解説します",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "修繕費と停止時間が毎年じわじわ増加",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "このとき、過去3年分の修繕費と停止時間を集計すると、",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "年間修繕費合計",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "年間修繕費 ÷ 新設備償却費",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー通達が出た時点で更新計画に着手",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "大手コンサルティング会社勤務を経て、建設工事に専門特化した工事発注コンサルティング業務をおこなう株式会社ナックスにジョイン",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における工場移転・建替え・改修工事等のプロジェクト推進や大幅な工事コスト削減から、大手飲食・物販チェーン展開企業の新規出店・改装・原状回復工事等の工事発注体制構築、不動産オーナー向け投資利回り向上支援など、幅広い分野における工事発注コンサルティングに強みを発揮する",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "コンストラクションマネジメントとは？費用、契約、大手CM会社の特徴・選び方を紹介",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "このページの内容をシェアする",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "例えば小さなクラック（ひび割れ）や鉄部のサビを放置したことで、躯体（鉄骨や鉄筋・コンクリート）の腐食に繋がり、経年によらない大規模な修繕や建替え（莫大な費用発生）の可能性が高まることも考えられます",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "修繕工事について、従業員や近隣住人・取引先等にあらかじめ周知・合意を獲得しておくことは円滑な工事を実施する上で重要です",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "自社製品を構想に終わらせない3つのポイント（中小企業診断士 富田裕之）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "事業承継における後継者の育て方（中小企業診断士 和田純子）",
+    "url": "https://mono-sozo.com/archives/1288",
+    "pass": 3
+   },
+   {
+    "quote": "計画作成に必要な費用や期間は、建物規模や保存されている資料によって大きく異なります",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "事例1：東京都港区の中規模オフィスビルにおける中長期修繕計画策定業務",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区にある中規模オフィスビルの中長期修繕計画を検証した事例です",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区の中規模オフィスビルにおける中長期修繕計画策定業務のポイント",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区の中規模オフィスビルにおける中長期修繕計画策定業務のポイント・効果は以下の通りです",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "10年ごとに大規模修繕",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模塗装改修の周期が伸びる",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "防水・排水設計を徹底することで、築10〜15年での大規模修繕を回避できるケースが多くあります",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "建設から20〜25年後に大規模な設備更新が集中するケースが多く、この時期の資金計画を建設時から織り込んでおくことが重要",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "屋根・外壁の大規模修繕時期",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "建設時から30年スパンの長期修繕計画を作成し、設備更新・大規模修繕の時期と費用を事前に整理します",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "30年スパンの設備更新・大規模修繕計画が整備されているか",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事に記載している費用・削減効果はあくまで一般的な目安であり、工場の規模・構造・用途・立地・設備仕様によって大きく異なります",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "工場・倉庫の大規模修繕工事、進め方と費用、成功の秘訣を徹底解説！ | 東京・大阪で大規模修繕ならトゥインクルワールド",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪のマンション・大規模修繕・ベランダ防水工事",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "工場・倉庫の大規模修繕工事、進め方と費用、成功の秘訣を徹底解説！",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "工場や倉庫を長期的に安全かつ効率的に運用していく上で、避けて通れないのが「大規模修繕工事」です",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、工場・倉庫の大規模修繕工事を成功させるための知識を、分かりやすく解説します",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事を読めば、大規模修繕工事に対する不安が自信に変わり、最適な選択ができるはずです",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模修繕工事とは？目的と重要性を解説",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ大規模修繕が必要なのか？",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模修繕と小規模修繕の違い",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模修繕工事の主な内容",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模修繕にかかる費用相場",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模修繕工事の進め方",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ：大規模修繕工事を成功させるために",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模修繕は、単に建物の見た目を良くするだけでなく、工場や倉庫の経営において不可欠な役割を担っています",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "経年劣化は避けられませんが、定期的な大規模修繕によって、建物の寿命を延ばし、資産としての価値を維持・向上させることができます",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の予算は、売上や経費を部門ごとに積み上げるだけでは組み立てられません",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "売上の前提が1つ変わると、原価予算の多くの項目を計算し直す必要があります",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "販売面でも、販売数量と販売単価、製品構成の違いに分けて売上の差を見る方法があります",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "売上を数量×単価で組むドライバーベース計画に対応",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "売上を「数量×単価」、人件費を「人員数×給与」のようなドライバーで組み立てるドライバーベース計画に対応しており、仮定を変えるだけで計画全体を見直せます",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "売上数量や単価などの前提をもとに、予算を組み立てたい製造業にも向いています",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なｺﾝｻﾙﾀﾝﾄによる企業規模に合わせたｻﾎﾟｰﾄを実現",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "大規模修繕周期と耐震性をセットで確認",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "建屋本体は長期修繕計画に沿った大規模修繕",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "過去の大規模修繕履歴と主要部品の交換状況",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "将来の売上機会損失",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "そのうちの新築に要する費用をイニシャルコスト、運用段階で要する費用をランニングコストと呼びます",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "修繕費や更新費はランニングコストに含まれ、全体の約3割を占めるため、建物の長期的な運用を見据えて修繕・更新を最適化することで、過剰な支出を抑えることができます",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、中長期修繕計画を活用することで、修繕更新費の最適化と建物の長期的な安定運用の両立が可能となります",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的なバリューアップ｜建物の長期運用を見据えた効率的な改修計画を策定できる",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、中長期修繕計画は建物の長期運用を支えるだけでなく、戦略的なバリューアップを効率的に実施するための土台として活用できるのです",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な修繕を適切なタイミングで実施できるため、建物の安全性や運用効率も確保されます",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、中長期修繕計画を活用することで、適切な予防保全・更新・劣化対策・費用管理を実施することが可能となり、建物の長寿命化と安全な運用を両立する基盤を整えることができます",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "アクアは、建物を所有・運用する方々の立場に立ち、中長期修繕計画の策定に関する多様なサービスを提供しています",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "現地調査による劣化診断のほか、類似の建物の運用段階におけるさまざまなデータや事例を元に既存の中長期修繕計画の検証を行い、高コスト要因を可視化しつつ過剰と思われる項目の見直しや金額の精査を実施しました",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "有効に活用することで、ポイントをおさえた設備投資と適切な施設運用が実現できます",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "アクアは、建物の修繕・改修・ファシリティマネジメントのプロとして、お客さまの建物・施設の運用コストを最適化し、リスク低減をサポートいたします",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "企業が保有・運用している建物の修繕・更新・改修に関するファシリティマネジメントについて、実際の作成資料や成果物を交えてサポート内容を紹介しているページです",
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "建物の企画・設計から建設・運用・修繕・解体までの全期間にかかる総費用",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "建設費9億円に対して、30年間の運用・維持管理コストは15〜24億円にのぼる計算",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "工場や倉庫を長期的に安全かつ効率的に運用していく上で、避けて通れないのが「大規模修繕工事」です",
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "pass": 3
+   },
+   {
+    "quote": "工数（時間）",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "見積段階で先行入力しても問題ありませんが、「見積金額のみ入力・実績は受領後」の運用では支払状況列を使って未確定データを管理します",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "：残月数×直近3ヶ月平均コストで年度末着地を試算し、予算不足が見込まれる場合は追加申請を行う",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "人件費まで含める場合は工数（時間）列に作業時間を入力し、時間単価を掛けた金額を別途試算します",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "1年分の実績が蓄積したら、上位コスト設備に個別予算を設定し、残りをグループ予算で管理する段階的な運用に移行してください",
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "京セラコミュニケーションシステム株式会社が提供する「Amoeba Pro 管理会計クラウド」は、管理会計の実現と運用を支えるクラウドサービスです",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "最短3ヵ月で運用でき、すぐに業績管理が可能",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "AI機能搭載の予算管理システムを比較！AIの活用方法や運用のコツも紹介",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "経験豊富な専門家が最適なプランをご提案いたします",
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "認知度・利用経験率No.1",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "予算管理システムにこの計算式を登録しておけば、生産数量や単価を入力するだけで材料費の予算が算出されます",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なｺﾝｻﾙﾀﾝﾄによる企業規模に合わせたｻﾎﾟｰﾄを実現",
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "pass": 3
+   },
+   {
+    "quote": "私の現場経験では、「修繕費＋停止損失」が新設備の年間償却費を2〜3年続けて上回り始めたら、更新を真剣に検討するラインだと感じます",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   },
+   {
+    "quote": "この記事の内容は、弊社が工場設備工事の現場で積み重ねてきた経験と知見をもとに、担当者が自ら整理したものです",
+    "url": "https://shinseiplantec.com/archives/1622",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://mono-sozo.com/archives/1288",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yachiyo-sol.com/library/rokyuka-setsubi-koshin-seizogyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wise-with-work.com/2487",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fa-products.jp/column/factory-equipment-renewal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takebi.net/column/uncategorized/12165/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://astec-factory.com/info/2026/04/07/budget-consumption/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etic.co.jp/feature/importance-of-large-scale-warehouse-repairs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yuukisougyou-sendai.com/blog/large-scale-repairs/p7768/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.twinkle-world.co.jp/column/7826/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinseiplantec.com/archives/1786",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mentena.biz/insight/deterioration-measures/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monovate.co.jp/blog/blog/b-column-equipment-aging/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-eg.co.jp/case/89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihonzaitaku.co.jp/mailmag/category03/2026-03-19.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yachiyo-sol.com/library/setsubi-koshin-keikaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yachiyo-sol.com/library/shuzen-cost-kanri/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bimstok.com/blog/20261029/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eqptmainte-base.com/solution/aging.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/budgetary-control/article/260-10488",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gyakusan.co.jp/blog/644/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiko-xtech.co.jp/daiko-plus/production-control/plan-actual/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/1167/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/07/07_08.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5402.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zeimu-wiki.jp/2026/05/24/%E4%BF%AE%E7%B9%95%E8%B2%BB%E3%81%A8%E8%B3%87%E6%9C%AC%E7%9A%84%E6%94%AF%E5%87%BA%E3%81%AE%E5%8C%BA%E5%88%86%EF%BD%9C%E5%88%A4%E6%96%AD%E5%9F%BA%E6%BA%96%E3%81%A8%E3%83%95%E3%83%AD%E3%83%BC%E3%83%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinseiplantec.com/archives/1622",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yachiyo-sol.com/library/hozen-cost-mieruka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hatas-g.net/news/8554/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mentena.biz/news/20260210-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gyakusan.co.jp/blog/619/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkoyama-cpa.jp/10117/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loglass.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oxmaint.com/industries/manufacturing-plant/maintenance-budgeting-cost-analysis-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ifactoryapp.com/blog/maintenance-budget-planning-manufacturing-annual-capital",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tractian.com/en/glossary/maintenance-budget",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eptura.com/discover-more/blog/maintenance-budget/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabrico.io/blog/creating-a-maintenance-budget-for-2025-essential-tips-for-plant-managers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appa.org/deferred-capital-renewal-and-deferred-maintenance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prometheusgroup.com/resources/posts/6-keys-to-creating-new-maintenance-budgets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://servicechannel.com/blog/balance-replacement-asset-value-maintenance-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/haseeb-ali-965010214_an-effective-maintenance-budget-is-one-that-activity-7422181238783959040-6-A1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://clsfacilityservices.com/blog/a-guide-to-cost-planning-and-estimating-in-facilities-maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://umbrex.com/services/operations/asset-lifecycle-management/asset-replacement-and-renewal-planning/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工場設備更新計画・修繕費の予実管理",
+   "results": [
+    "https://mono-sozo.com/archives/1288",
+    "https://yachiyo-sol.com/library/rokyuka-setsubi-koshin-seizogyo/",
+    "https://wise-with-work.com/2487",
+    "https://fa-products.jp/column/factory-equipment-renewal/",
+    "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "https://takebi.net/column/uncategorized/12165/",
+    "https://www.bimstok.com/blog/20261029/",
+    "https://mentena.biz/insight/deterioration-measures/",
+    "https://astec-factory.com/info/2026/04/07/budget-consumption/",
+    "https://yachiyo-sol.com/library/setsubi-koshin-keikaku/"
+   ]
+  },
+  {
+   "query": "工場設備更新計画・修繕費の予実管理 費用 相場",
+   "results": [
+    "https://wise-with-work.com/2487",
+    "https://fa-products.jp/column/factory-equipment-renewal/",
+    "https://takebi.net/column/uncategorized/12165/",
+    "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "https://astec-factory.com/info/2026/04/07/budget-consumption/",
+    "https://www.etic.co.jp/feature/importance-of-large-scale-warehouse-repairs/",
+    "https://yuukisougyou-sendai.com/blog/large-scale-repairs/p7768/",
+    "https://www.twinkle-world.co.jp/column/7826/",
+    "https://shinseiplantec.com/archives/1786",
+    "https://yachiyo-sol.com/library/setsubi-koshin-keikaku/"
+   ]
+  },
+  {
+   "query": "工場設備更新計画・修繕費の予実管理 事例 中堅企業",
+   "results": [
+    "https://mentena.biz/insight/deterioration-measures/",
+    "https://yachiyo-sol.com/library/rokyuka-setsubi-koshin-seizogyo/",
+    "https://www.monovate.co.jp/blog/blog/b-column-equipment-aging/",
+    "https://fa-products.jp/column/factory-equipment-renewal/",
+    "https://www.n-eg.co.jp/case/89/",
+    "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "https://www.nihonzaitaku.co.jp/mailmag/category03/2026-03-19.html",
+    "https://mono-sozo.com/archives/1288",
+    "https://yuukisougyou-sendai.com/blog/large-scale-repairs/p7768/",
+    "https://yachiyo-sol.com/library/setsubi-koshin-keikaku/"
+   ]
+  },
+  {
+   "query": "工場設備更新計画・修繕費の予実管理 工場 製造業",
+   "results": [
+    "https://mono-sozo.com/archives/1288",
+    "https://yachiyo-sol.com/library/rokyuka-setsubi-koshin-seizogyo/",
+    "https://fa-products.jp/column/factory-equipment-renewal/",
+    "https://mentena.biz/insight/deterioration-measures/",
+    "https://www.bimstok.com/blog/20261029/",
+    "https://wise-with-work.com/2487",
+    "https://www.eqptmainte-base.com/solution/aging.html",
+    "https://www.etic.co.jp/feature/importance-of-large-scale-warehouse-repairs/",
+    "https://it-trend.jp/budgetary-control/article/260-10488",
+    "https://gyakusan.co.jp/blog/644/"
+   ]
+  },
+  {
+   "query": "工場設備更新計画・修繕費の予実管理 責任 範囲 免責",
+   "results": [
+    "https://takebi.net/column/uncategorized/12165/",
+    "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/07/07_08.htm",
+    "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "https://yachiyo-sol.com/library/rokyuka-setsubi-koshin-seizogyo/",
+    "https://fa-products.jp/column/factory-equipment-renewal/",
+    "https://mentena.biz/insight/deterioration-measures/",
+    "https://yuukisougyou-sendai.com/blog/large-scale-repairs/p7768/",
+    "https://mono-sozo.com/archives/1288",
+    "https://www.etic.co.jp/feature/importance-of-large-scale-warehouse-repairs/",
+    "https://yachiyo-sol.com/library/setsubi-koshin-keikaku/"
+   ]
+  },
+  {
+   "query": "工場設備更新計画・修繕費の予実管理 経営判断 損失額",
+   "results": [
+    "https://www.bimstok.com/blog/20261029/",
+    "https://yachiyo-sol.com/library/hozen-cost-mieruka/",
+    "https://hatas-g.net/news/8554/",
+    "https://mentena.biz/insight/deterioration-measures/",
+    "https://www.eqptmainte-base.com/solution/aging.html",
+    "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "https://astec-factory.com/info/2026/04/07/budget-consumption/",
+    "https://fa-products.jp/column/factory-equipment-renewal/",
+    "https://wise-with-work.com/2487"
+   ]
+  },
+  {
+   "query": "工場設備更新計画・修繕費の予実管理 スタートアップ",
+   "results": [
+    "https://fa-products.jp/column/factory-equipment-renewal/",
+    "https://yachiyo-sol.com/library/rokyuka-setsubi-koshin-seizogyo/",
+    "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "https://hatas-g.net/news/8554/",
+    "https://astec-factory.com/info/2026/04/07/budget-consumption/",
+    "https://mentena.biz/news/20260210-2/",
+    "https://www.n-eg.co.jp/case/89/",
+    "https://www.eqptmainte-base.com/solution/aging.html",
+    "https://mono-sozo.com/archives/1288",
+    "https://gyakusan.co.jp/blog/619/"
+   ]
+  },
+  {
+   "query": "asset renewal planning maintenance cost budgeting factory shop floor manufacturer",
+   "results": [
+    "https://oxmaint.com/industries/manufacturing-plant/maintenance-budgeting-cost-analysis-manufacturing",
+    "https://ifactoryapp.com/blog/maintenance-budget-planning-manufacturing-annual-capital",
+    "https://tractian.com/en/glossary/maintenance-budget",
+    "https://eptura.com/discover-more/blog/maintenance-budget/",
+    "https://www.fabrico.io/blog/creating-a-maintenance-budget-for-2025-essential-tips-for-plant-managers/",
+    "https://www.appa.org/deferred-capital-renewal-and-deferred-maintenance",
+    "https://www.youtube.com/watch?v=QOEc2U_4wAs",
+    "https://www.infodeck.io/resources/blog/maintenance-budget-planning-guide/",
+    "https://clsfacilityservices.com/blog/a-guide-to-cost-planning-and-estimating-in-facilities-maintenance/",
+    "https://slm.mba/mmpo-007/prepare-manage-effective-maintenance-budget/"
+   ]
+  },
+  {
+   "query": "asset renewal planning maintenance cost budgeting factory shop floor manufacturer startup pricing",
+   "results": [
+    "https://oxmaint.com/industries/manufacturing-plant/maintenance-budgeting-cost-analysis-manufacturing",
+    "https://ifactoryapp.com/blog/maintenance-budget-planning-manufacturing-annual-capital",
+    "https://tractian.com/en/glossary/maintenance-budget",
+    "https://eptura.com/discover-more/blog/maintenance-budget/",
+    "https://www.appa.org/deferred-capital-renewal-and-deferred-maintenance",
+    "https://www.prometheusgroup.com/resources/posts/6-keys-to-creating-new-maintenance-budgets",
+    "https://servicechannel.com/blog/balance-replacement-asset-value-maintenance-cost/",
+    "https://www.linkedin.com/posts/haseeb-ali-965010214_an-effective-maintenance-budget-is-one-that-activity-7422181238783959040-6-A1",
+    "https://clsfacilityservices.com/blog/a-guide-to-cost-planning-and-estimating-in-facilities-maintenance/",
+    "https://umbrex.com/services/operations/asset-lifecycle-management/asset-replacement-and-renewal-planning/"
+   ]
+  },
+  {
+   "query": "site:note.com 工場設備更新計画・修繕費の予実管理",
+   "results": [
+    "https://note.com/junshi_networth/n/n718d13bf53c4",
+    "https://note.com/ibsolutions/n/n671a43729315",
+    "https://note.com/aa30192/n/nd7d497b0ebe7",
+    "https://note.com/planplusone/n/n9c214960910c",
+    "https://note.com/anomaly_inc/n/nfa2360712920",
+    "https://note.com/dx_papa/n/n6ecafcd87d48",
+    "https://note.com/diggle/n/n05e9207369ef",
+    "https://note.com/aki_moonfuyusun/n/n2ab292bfd8a2",
+    "https://note.com/daisuke2203/n/nb8515452c30a",
+    "https://note.com/magic_donkey5591/n/n345b6b9ac480"
+   ]
+  },
+  {
+   "query": "site:x.com 工場設備更新計画・修繕費の予実管理",
+   "results": [
+    "https://x.com/asa_remoeng/status/2083462802677608505",
+    "https://x.com/AVANT_Corp/status/2077905829374955824",
+    "https://x.com/hirose_yoshi/status/2097159551833514482",
+    "https://x.com/jinseiiroiro202/status/2076204914158821748",
+    "https://x.com/koibuchicpa/status/2021691468549890288",
+    "https://x.com/Expat_Engineer/status/2091083368377254263",
+    "https://x.com/yoshikbiz/status/2082400763985395904"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工場設備更新計画・修繕費の予実管理",
+   "results": [
+    "https://jp.linkedin.com/in/takahiroarai19870613",
+    "https://www.linkedin.com/jobs/view/民間航空機エンジン整備事業拡大に伴う工場の生産計画・予実管理-at-（株）ｉｈｉ-4379724974",
+    "https://jp.linkedin.com/jobs/view/【東京】民間航空機エンジン整備事業拡大に伴う工場の生産計画・予実管理担当-at-（株）ｉｈｉ-4387485676",
+    "https://jp.linkedin.com/jobs/view/【瑞穂】民間航空機エンジン整備事業拡大に伴う工場の生産計画・予実管理担当◆年間休日125日-at-doda-デューダ-4411022538",
+    "https://www.linkedin.com/jobs/view/【いわき工場-勤務地限定-】工場経理スタッフ（工場予実算管理）（一般層-総括職-担当職）-at-日産自動車株式会社-3621266748",
+    "https://jp.linkedin.com/in/ryouheib",
+    "https://jp.linkedin.com/posts/reki-suzuki-a013146b_15-20m生活関連サービス業でのfpaマネジャー-主な職務-事業戦略-activity-7518494130268901376-CsJz",
+    "https://jp.linkedin.com/posts/workday-japan_excelでの予実管理そろそろ限界を感じていませんか-312木に三井情報株式会社-activity-7430068886609326080-FEy8"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工場設備更新計画・修繕費の予実管理",
+   "results": [
+    "https://www.facebook.com/SY2CPMS/",
+    "https://www.facebook.com/SY2CPMS/posts/工程管理數位化交流啟動桃園市政府新建工程處於330舉辦sy-cpms數位化工程管理系統說明會並與翔予資訊科技股份有限公司簽署合作備忘錄mou本次合作以理解趨勢不/122174989622910397/",
+    "https://www.facebook.com/reel/9978749608906355/",
+    "https://www.facebook.com/freee.co.jp/posts/成長企業におけるデータドリブンな予実管理の実践について株式会社scale-cloud代表取締役公認会計士の広瀬好伸氏をお迎えして本セミナーにてお届けします予実管/1198004465689725/",
+    "https://www.facebook.com/freiheit.drone/videos/工場の点検巡回保守保全にドローンを広い工場やプラントでは屋根外壁高所設備配管など人が確認しにくい場所が数多くありますドローンを活用することで屋根外壁高所設備の目/1447689583924621/",
+    "https://www.facebook.com/10to1/videos/この工事修繕費で落としていい経営者の方から実はとても多いご相談ですポイントは金額の大小だけではなく何のための工事か工事後に価値や性能が上がったかを見ることたとえ/1086532093890558/",
+    "https://www.facebook.com/KPMG.JP/photos/ニュースリリースkpmgコンサルティングはjr九州が進める脱炭素社会実現への取組みとしてghg削減に向けた保有施設の設備更新計画の策定からロードマップ作成実行態/1248062894007572/"
+   ]
+  },
+  {
+   "query": "工場設備更新計画・修繕費の予実管理 note 社長",
+   "results": [
+    "https://note.com/sainokunimansion/n/nb9e0520d8c4a",
+    "https://note.com/legit_sorrel1078/n/n23c7d5df1382",
+    "https://yachiyo-sol.com/library/rokyuka-setsubi-koshin-seizogyo/",
+    "https://note.com/dx_papa/n/n6ecafcd87d48",
+    "https://www.nihonzaitaku.co.jp/mailmag/category03/2026-03-19.html",
+    "https://takebi.net/column/uncategorized/12165/",
+    "https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/",
+    "https://www.n-eg.co.jp/case/89/",
+    "https://mentena.biz/insight/deterioration-measures/",
+    "https://yachiyo-sol.com/library/setsubi-koshin-keikaku/"
+   ]
+  },
+  {
+   "query": "工場設備更新計画・修繕費の予実管理 X 投稿",
+   "results": [
+    "https://yachiyo-sol.com/library/rokyuka-setsubi-koshin-seizogyo/",
+    "https://mentena.biz/news/20260210-2/",
+    "https://fa-products.jp/column/factory-equipment-renewal/",
+    "https://www.monovate.co.jp/blog/blog/b-column-equipment-aging/",
+    "https://www.eqptmainte-base.com/solution/aging.html",
+    "https://www.n-eg.co.jp/case/89/",
+    "https://pro.www.ipros.com/pro-site/3501/purpose/35010116",
+    "https://www.aqa-pm.co.jp/knowledge/maintenance-plan/",
+    "https://hatas-g.net/news/8554/",
+    "https://yachiyo-sol.com/library/setsubi-koshin-keikaku/"
+   ]
+  },
+  {
+   "query": "asset renewal planning maintenance cost budgeting factory shop floor manufacturer site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/what-machine-maintenance-why-key-successful-business-pius-asiimwe-jyyke",
+    "https://www.linkedin.com/posts/michael-branco-fmp-60b34351_facilitymanagement-capitalplanning-assetmanagement-activity-7518269227045150720-st_r",
+    "https://www.linkedin.com/posts/comrades-technologies-sap_sapco-costcenter-sapcontrolling-activity-7388033491478958081-LrZm",
+    "https://www.linkedin.com/posts/erik-taveras-chtm-60b018154_so-what-does-planning-actually-look-like-activity-7520480220617830401-cZ40",
+    "https://nz.linkedin.com/in/jamie-lorton-78122349",
+    "https://ca.linkedin.com/in/dskaftfeld",
+    "https://www.linkedin.com/posts/baseinvestments_a-win-win-win-houten-this-is-what-makes-activity-7513874077225308160-5iU1",
+    "https://uk.linkedin.com/in/jamescubbin",
+    "https://www.linkedin.com/top-content/engineering/civil-engineering-project-management/infrastructure-maintenance-planning/",
+    "https://www.linkedin.com/pulse/finance-accounting-primer-part-ii-income-statement-eemaan-khan-2ya0c"
+   ]
+  }
+ ],
+ "missing": {}
+}

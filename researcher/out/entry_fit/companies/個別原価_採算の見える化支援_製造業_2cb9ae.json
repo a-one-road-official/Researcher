@@ -1,0 +1,2996 @@
+{
+ "name": "個別原価・採算の見える化支援（製造業）",
+ "en": "job costing profitability visibility manufacturers",
+ "aliases": [
+  "個別原価計算 導入支援",
+  "製造原価 見える化",
+  "受注採算 分析 製造業"
+ ],
+ "context": "生産管理",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:07:50.929545+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "情報サービス業",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス提供方法",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システム刷新 簡易診断サービス",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "5.見積から実績まで、一気通貫で管理する製番別原価の仕組み",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "6.導入事例に学ぶ！現場が変わり、経営が変わった中堅製造業の実践例",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "本コラムでは、こうした「利益が見えない」状況から脱却するために、中堅製造業が取り組むべき“個別原価管理”の考え方と、その実践方法について、ERPを活用した事例も交えながら詳しく解説していきます",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "見積精度の向上 ：過去案件の実績に基づいた根拠ある積算",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "生産形態や拠点ごとの業務特性に柔軟に対応し、製造業の業務効率化と原価管理を強力に支援するERPモデルを学びませんか？",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "「利益は出ているはずなのに、なぜか資金繰りが苦しい」「見積もりと実績が大きくズレているが、理由がわからない」こうした悩みは、多くの中堅・中小製造業が抱える共通の課題です",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "管理部門が手作業で集計し、月末に実績を確認",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "原価実績の把握が月末〜翌月になるため、即時対応が困難",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "受注 → 製番発行 → 購買（部品・外注） → 作業実績（工数・仕掛品） → 出荷・売上 → 製番別損益",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "購買実績／仕入価格",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "材料費の実績反映",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "作業実績（工数）",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル生産支援システム「digicell」",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "モダナイゼーションサービス",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "計画業務と実績記録の効率化で生産プロセスを改善",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "とくに稼働データの見える化は、生産現場の問題点を浮き彫りにし、効率化への第一歩を支援します",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場での進捗記録が紙の台帳などアナログで行われる場合、実績が正確に記録されないことがあります",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "このシステムは、手作業やアナログ記録に頼った従来の管理方法をデジタル化し、リアルタイムでの情報共有や正確な実績記録を可能にします",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "計画変更と実績登録",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産計画の修正や実績データの登録を行えます",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "問題の早期発見と適切な対応策の実施を支援します",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場でのリアルな声をもとに開発され、シンプルな画面構成、習熟度を必要としない直感的な操作感により、生産予定・実績を簡単に共有することが可能となっています",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産状況を一目で把握できるダッシュボードを提供します",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "計画と実績の効率化で生産プロセスを改善",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「Sikake」はPDCAサイクルを通じて生産プロセスの改善を支援します",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "）、実績入力（",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "や在庫管理システムといった包括的なソリューションを提供しています",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "SCS評価制度対応支援サービス",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "自社の製品やサービスの原価構成を正確に把握できている事業者ほど、市場環境の変化に応じた適切な価格交渉や、自社の強みを踏まえた適正な価格設定を行うことができ、収益向上や設備投資、ひいては賃上げの原資創出にもつなげやすくなります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "一つは、過去の実績や作業時間、材料単価、配賦率などをもとに設定する「標準原価」です",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、現場の生産実績データや購買データ、日報データから手作業で数値を転記・集計する必要があるため、計算結果が出るまでに膨大な時間がかかってしまうという課題もあります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "多くの製造業では、ERPや販売管理システムといった基幹システムが導入されている一方で、現場の生産実績や稼働情報は紙・Excel・担当者の記憶に依存しているケースが少なくありません",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理を機能させるためには、現場で発生した実績データを、正確かつタイムリーに基幹システムへ連携できる仕組みが必要となります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "急に高度な管理を目指すのではなく、まずは基準を作り、実績を集め、その差異を分析するというPDCAのサイクルを現場に定着させることが成功の要となります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "材料の出庫実績や外注費に加え、「作業時間」の正確な把握が求められます",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "手書き日報は集計の遅れや転記ミスの恐れがあるため、バーコードリーダーやタブレットを用いた入力の自動化・簡略化など、現場に過度な負担をかけずに正確な実績データを集める体制を整えることが重要です",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "基準（ステップ1）と実績（ステップ2）が揃ったら、両者を突き合わせて「原価差異分析」を行います",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "mcframeは、繊維、化学、医薬、食品、機械、電機など、日本の幅広い製造業の現場において生産管理・販売管理・原価管理などを支援するソリューションとして展開しています",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "現場で発生する購買実績、在庫動向、工程進捗、作業員ごとの労務実績などの分散しがちなデータを、一つの基盤上に集約し、ブラックボックス化しがちだった「実際原価」の可視化をサポートします",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "正確な原価構成をグラフやレポートに落とし込むことで、戦略的な価格設定を支え、取引先との対等で適切な価格交渉・転嫁をバックアップするDXソリューションを提供します",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サンネット",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "大阪市の税理士なら稲田光浩税理士事務所｜財務コンサル・経営支援・CFO支援",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪・西中島で税理士事務所をやりながら、認定経営革新等支援機関として金融機関に事業計画や改善計画を通す側に立ち、複数社の経営会議・取締役会にも入っています",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "安値で受けた実績は取引先の「基準価格」になり、次回から正規価格に戻せなくなる",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "システムは、現場が工数や実績を入力して初めて動きます",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の見積・実績工数・日報——つまり、ここまで書いてきたExcel期・システム期に貯めたデータです",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "——過去の類似案件の仕様と実績工数を渡して、見積の叩き台を作らせる",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "入力データが学習に使われない設定・サービスかを確認してから",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "：個別受注生産なら、案件ごとに集計している投入実績（材料出庫・作業時間）をそのまま期末仕掛品の金額にする",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "最低賃金の改定率・自社の賃上げ実績と、それが加工時間あたりコストに与えた影響",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "借りたあとが本番——計画対実績の報告が、次の融資を楽にする",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "設備稼働後、半年か1年のタイミングで、投資計画に対する実績を1枚にまとめて銀行に持っていく",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "計画：加工時間1個18分 → 実績：19分（ほぼ計画通り）",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "計画：月間原価低減60万円 → 実績：◯万円",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "そしてこの計画対実績の管理も、結局は原価データの継続測定に他なりません",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "見積工数と実績工数の差を案件ごとに記録し、次の見積に反映するループ",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "120,000円",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "50,000円",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "80,000円",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "30,000円",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "350,000円",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "+70,000円",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "200,000円",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "100,000円",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "150,000円",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "40,000円",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "450,000円",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "-40,000円",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "個別原価の前に「変動損益計算書」——費用を2つに分けるだけで、値決めと受注判断が変わる",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 個別原価の前に「変動損益計算書」——費用を2つに分けるだけで、値決めと受注判断が変わる",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "費用を「変動費」と「固定費」の2つに分けるだけ",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理というと、製品ごとの原価を1円単位で追いかける話を想像する社長が多い",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業なら、材料費・外注費・労務費・減価償却費・家賃の上位5科目で費用総額の7〜8割を占めるのが普通です",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社で売上が100万円増えれば、固定費が変わらない限り、利益は50万円増える",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "逆に売上が100万円減れば、利益は50万円減る",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "工場の家賃も、社員さんの給与も、機械の減価償却も、断ったところで1円も減らない",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "限界利益30万円でも10時間かかる仕事（時間あたり3万円）より、限界利益20万円で4時間の仕事（時間あたり5万円）を優先する",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "人の1時間あたりの費用です",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "機械の1時間あたりの費用です",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "環境構築50万円＋月額3万円（スモールプラン）から始められます",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "～J-CCOREsを導入して、保守費用を50％以上削減～",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   },
+   {
+    "quote": "1. 材料費：製造のために使用する原材料や部品などの調達にかかる費用",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "3. 経費：工場の水道・電気・ガス料金といった光熱費や設備の減価償却費など、製造活動に付随するさまざまな支出",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "この３つの費用を、製品ごとに直接割り振ることができるかどうかで「直接費」と「間接費」に分類します",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "0円〜100,000円程度",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "30,000円〜160,000円程度",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "１IDあたり4,000円前後〜／月（※最低利用料金が設定されるケースあり）",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクト管理や工数管理を含むタイプでは月額30,000円前後から利用できるケースもあります",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、ERP機能まで含む統合型の場合は、月額100,000円以上になることもあります",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "が、製造業向け8製品の比較表と費用の見方、失敗しない選び方を解説します",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用は50万円〜、月額は5万円〜で、価格は機能数とライセンス数によって変わります",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "アクロスは、クラウド利用時のサーバー費用の例（月額1万円〜）を公開していますが、製品価格の記載はありません",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、製造業向け原価管理システムおすすめ10選を一覧表付きで比較し、主な機能やタイプ、選び方、費用相場、導入を成功させるポイントまで解説します",
+    "url": "https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/",
+    "pass": 3
+   },
+   {
+    "quote": "主要16サービスの料金・機能を無料で一覧比較",
+    "url": "https://catalog.monex.co.jp/article/?p=70914",
+    "pass": 3
+   },
+   {
+    "quote": "掲載内容は2026年10月時点の各社公式情報に基づき、公開されていない料金は「要お問い合わせ」としています",
+    "url": "https://catalog.monex.co.jp/article/?p=70914",
+    "pass": 3
+   },
+   {
+    "quote": "150,000円（税込165,000円）〜",
+    "url": "https://catalog.monex.co.jp/article/?p=70914",
+    "pass": 3
+   },
+   {
+    "quote": "0円〜2,100円／ユーザー（税別",
+    "url": "https://catalog.monex.co.jp/article/?p=70914",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理機能はプレミアム1,400円／ユーザー〜）",
+    "url": "https://catalog.monex.co.jp/article/?p=70914",
+    "pass": 3
+   },
+   {
+    "quote": "30,000円（税抜）〜（ライセンス従量制）",
+    "url": "https://catalog.monex.co.jp/article/?p=70914",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 1 億円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 3,000万円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 800万円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 6,000万円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 5,000万円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 3,036万円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、2023 年度の賃上げに伴う人件費増加に加え、電気や重油などエネルギー費用も高騰するなどコストも",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 7,000万円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ある製品の売上が100万円で原価が80万円だとします",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/it-management/sales-profit/cost/column-sadohara.html",
+    "pass": 3
+   },
+   {
+    "quote": "利益率を2倍にするためには、売上据え置きの場合は原価を60万円にする必要があります",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/it-management/sales-profit/cost/column-sadohara.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、例えば、1時間あたりの加工費を表すレートの計算（費用÷総作業時間）において、保有時間（生産能力）を分母とするか、計画時間（予定稼働）を分母とするかといった方針も異なっていると、コスト競争力の比較が適切にできなくなってしまう",
+    "url": "https://www.fortience.com/insight/column/210222-00/",
+    "pass": 3
+   },
+   {
+    "quote": "時としてその意見は妥当であるが、冒頭の自動車メーカーでは、小数点第2位（円単位）の世界で原価が管理統制されているのである",
+    "url": "https://www.fortience.com/insight/column/210222-00/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、目的は1円単位まで正確な原価を計算することではありません",
+    "url": "https://desimu.com/column/finance/seihinbetsu-genka/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、材料費3,000円の製品を10,000円で販売しているからといって、7,000円儲かっているとは限りません",
+    "url": "https://desimu.com/column/finance/seihinbetsu-genka/",
+    "pass": 3
+   },
+   {
+    "quote": "原価表を作り、「A製品の原価は8,420円でした」と確認するだけでは、会社の利益は変わりません",
+    "url": "https://desimu.com/column/finance/seihinbetsu-genka/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://desimu.com/column/finance/seihinbetsu-genka/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://desimu.com/column/finance/seihinbetsu-genka/",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "見積精度の向上 ：過去案件の実績に基づいた根拠ある積算",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "また、手元のExcelで管理している限り、リアルタイムでの原価の進捗確認や見積精度の検証、PDCAの高速回転は不可能です",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "予実管理の精緻化：見積と実績を突き合わせ、次の案件での見積精度を向上できる",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "１）「見積もり精度」が利益を左右する",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の実績データが整備されておらず、精度検証ができない",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "ERPによって過去の製番別実績（材料費、工数、外注費など）を見積もりに活用することで、見積精度を飛躍的に高めることが可能になります",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、見積精度の向上 → 利益率の安定化 → 経営の強化という好循環が築かれていきます",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断の精度",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "ERPの導入だけで原価管理の精度が向上するわけではありません",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "原価を詳細に管理することは、コスト削減や無駄の排除といった狭い意味だけでなく、経営判断の精度を高める羅針盤の役割を果たします",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "新規案件の見積精度向上",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのシステムを組み合わせることで、製造現場はさらなる効率化と精度向上を図ることができます",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "この間接費をどのように各製品へ配賦するかは、原価計算の精度に大きく影響します",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "現場と基幹システムのデータが分断されていると、原価の集計が遅れたり、標準原価との差異要因を特定できなかったりと、原価管理の精度に大きな影響を与えます",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "過去の類似製番の見積りと実際原価を比較し、設計変更や急な仕様追加によるコストのブレをいち早く察知して、次回の見積もり精度の向上や、顧客への追加費用交渉の根拠として活用します",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "月次が締まるのを待つことなく、「今走っている案件の採算状況」や「急激な材料高騰が今月の利益に及ぼす影響」を即座に予測・可視化でき、経営者や現場責任者が迅速に適切な対策を打てるようになります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "属人化していた複雑な配賦計算や集計ロジックがシステム上で透明化され、誰が操作しても一貫した精度の原価データが算出される環境が整います",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理の精度向上や、基幹システムとの連携、Excel管理からの脱却を検討している場合は、mcframeの活用も選択肢の一つとしてご検討ください",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "これだけで、値決めと受注判断の精度が一段変わります",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "精度は後から上げればいい",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "ズレの原因（計上漏れ・レートの甘さ・棚卸）を潰していく作業そのものが、原価精度を上げる訓練になります",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "仕掛品の金額の説得力は、日々の原価集計の精度に依存する",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "ラインと検査場には「場所ごとの棚卸担当」を決めて、工場のすべての床に責任者を置く",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "年に1回だけ数える会社は、期末に必ずバタつき、精度も上がりません",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "実地棚卸そのものにも、精度を分けるコツがあります",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "差異の原因調査こそが、翌期の精度を上げる一番の教材です",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "私の体感では、社長が月次で在庫の数字を口にするようになった会社は、それだけで棚卸の精度が目に見えて上がります",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "在庫を数える仕事を「決算前の面倒な作業」として現場に丸投げしている限り、精度は絶対に上がらない",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "過剰な精度指定、必要以上のグレードの材料、昔の名残で残っている特注仕様",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "借入コストという意味では、保証協会付き融資の保証料も含めた総コストで比べる視点が欠かせません",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "信用保証料を最小化する考え方の記事",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "でも、資金の設計は、決算書と資金繰りの全体を見ている人間と一緒に決めたほうが、確実に精度が上がります",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "レートの精度と工数の読みの精度が、そのまま会社の利益率になる",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の予実管理の仕組み作り｜計画と実績の乖離を放置せず見積精度を上げ続けるPDCA",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "～費用内訳を精緻に「見える化」することで、予測・分析精度を向上～",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   },
+   {
+    "quote": "原材料価格の変動や景気動向など経済環境変化に対応するため、精度の高い製品原価の把握、事業採算管理の重要性がますます高まってきています",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   },
+   {
+    "quote": "「原価計算の精度を高めたい」「製品ごとの原価や利益をもっと見える化したい」という方は、ぜひ、",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理の精度向上で利益体質を強化するための総合ガイド",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年はクラウド型システムを導入して効率化を図る企業が増えており、精度の高い原価管理と迅速な経営判断を同時に実現しているケースも見受けられます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "商談時の価格提示や契約内容の調整に用いられる場合が多く、実際原価と比較して差異が大きい場合には、見積の精度や生産工程に課題があることが明らかになります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "この差異を定期的に検証することで、見積の精度向上はもちろん、現場の作業時間や材料費の無駄を発見でき、今後のコスト低減につなげることが可能です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "【保存版】製造業の見積方法を理解し、精度と効率を高める",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社の生産形態に合わせて複数の手法を組み合わせることで、より精度の高い原価管理が可能となります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "原価データを一元管理することで、在庫管理や販売データとの連動もスムーズになり、経営判断の精度が向上します",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "精度の高い原価情報を基に販売価格の適正化や利益率の向上を支援します",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "■原価計算の精度を向上させたい",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "原価シミュレーションの精度や対応範囲は製品によって異なります",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "原価情報の一元管理と自動計算により、手間やミスを抑えて精度の高い収支管理を支援します",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "コスト削減施策の精度向上",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "現場の入力負荷とデータ精度",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理システムを導入すると、業務効率の改善だけでなく、収益改善のための意思決定の精度も高まります",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "現場の実績入力が精度を左右する",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "：実績が月1回しか集まらないと原価の把握が遅れ、入力精度が低いと信頼性も下がる",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理システムの精度は、現場の実績入力で決まります",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "現場のデータ入力精度が低く、出力される原価データの信頼性が上がらない",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "製造業で原価管理の精度を高めるには、自社の生産形態や課題に合う原価管理システムを選ぶことが重要です",
+    "url": "https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/",
+    "pass": 3
+   },
+   {
+    "quote": "【業界特化型】生産管理と原価管理を一元化し、採算管理の精度を高めたい製造業向け",
+    "url": "https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型で導入しやすく、部門間の情報共有を進めやすい構成のため、原価管理の精度向上と採算管理の強化を同時に進めたい中堅・中小製造業に適しています",
+    "url": "https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/",
+    "pass": 3
+   },
+   {
+    "quote": "案件型ビジネスで原価や利益をリアルタイムに把握し、経営管理の精度向上につなげたい企業に適しています",
+    "url": "https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業で原価管理システムが必要な理由は、製品別・工程別の採算を正確に把握し、利益管理の精度を高めるためです",
+    "url": "https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "6.導入事例に学ぶ！現場が変わり、経営が変わった中堅製造業の実践例",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした環境下で、製造業の経営者や管理部門が共通して抱える悩みがあります",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "これでは経営判断に必要な“粒度”の情報にはなりません",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "２）“見える化”がもたらす経営的な意義",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、以下のような重要な意思決定が可能になります",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "製番別の利益管理：営業・製造・経営陣が共通の原価意識を持つ基盤に",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層や管理部門がリアルタイムに案件ごとのコスト構造を把握し、“利益が出る仕組み”を全社で共有することが求められています",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "案件ごとの予算原価設定",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、製番ごとの原価推移や進捗を見ながら、「今、どこでコストが膨らんでいるのか」「赤字案件をどうカバーするか」など、経営に直結する判断が可能になります",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "３）経営者・管理者にとっての“見える化”の価値",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "ERPによって原価情報が「見える化」されると、現場だけでなく経営層にも大きなメリットがあります",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断の迅速化：案件ごとの収益状況を即座に把握し、投資・値引き判断に活用できる",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "予実管理の精緻化：見積と実績を突き合わせ、次の案件での見積精度を向上できる",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "２）「予算」と「実績」をリアルタイムで比較",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "このように「予算 vs 実績」の構造を案件ごとに可視化することで、",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "進捗管理の課題と意思決定に与える影響",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場における進捗管理は、効率的な生産活動を支える重要な要素ですが、現場で広く使われている管理方法にはいくつか課題があり、最終的には意思決定に影響を及ぼします",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、現場における主な課題と、それらが生産性や意思決定に与える影響について検討します",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "このため、現場での意思決定が遅れ、ムダやボトルネックを見逃すリスクが高まります",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、非稼働時間の不明瞭さが進捗管理の課題となり、加えて重要な情報を見逃す原因にもなるため、適切な意思決定を行えなくなります",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "進捗管理が「見える化」されていない現状は、製造現場だけでなく、企業全体の意思決定や競争力に深刻な影響を及ぼしています",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、迅速かつ適切な意思決定に繋がり、製造現場全体の最適化を期待できます",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場の状態を正確に把握し、迅速な意思決定をサポートします",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダッシュボードによる迅速な意思決定",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "進捗の遅れや問題点を即座に確認できるため、的確な意思決定が可能です",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の経営において、自社の製造コストを正確に把握しコントロールすることは経営を安定させるうえで非常に重要な取り組みです",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "経済環境が激しく変化する現代において、経験や勘に依存した経営から脱却し、持続的な企業成長を支える経営基盤といえます",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "一方で原価管理は、原価計算によって導き出された「実際原価」を、あらかじめ設定した「標準原価（目標値）」と比較し、なぜ差額が発生したのかという要因を分析して現場の改善や経営判断に活かす",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "原価はその発生源や、計算を行うタイミングによっていくつかの種類に分類され、経営において果たす役割も異なります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断に必要な原価情報の把握が遅れると、意思決定のスピードも遅れる要因となります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "また、現場データを後からまとめて基幹システムに入力する運用では、タイムラグや入力ミスが発生しやすく、原価差異分析や経営判断のスピードを下げる要因にもなります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "全体で予算内に収まっているかという視点だけでなく、製品別、あるいは工程別に出た差額をチェックし、「なぜ差が出たのか」という事実を特定します",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "原価の見える化を成功させ、経営の武器とするためには、従来の紙やExcelによる手作業から脱却し、デジタルテクノロジーやDXを導入することが効果的です",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "月次が締まるのを待つことなく、「今走っている案件の採算状況」や「急激な材料高騰が今月の利益に及ぼす影響」を即座に予測・可視化でき、経営者や現場責任者が迅速に適切な対策を打てるようになります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "企業の持続的な成長のためには、経営の透明性を高め、データに基づいたガバナンス体制を敷くことが重要視されています",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "紙やExcelによる管理ではデータの改ざんや入力ミスの発見が困難ですが、デジタルシステムを導入すれば変更履歴が残り、誰もが正しいデータに基づいて議論できるオープンな経営の実現に寄与します",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "これまでのやり方である「徹底したコストカットや生産数量の確保」だけに頼る手法は限界を迎えており、今後は労働生産性を向上させ、適切な利益を確保した価格設定を実現できる経営へと転換することが求められています",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "また、長期的な経営計画に基づいて情報を従業員へ開示し、属人化を排除していくオープンな経営は、組織のガバナンス体制を強化し、最終的な付加価値の向上につながります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "Excel管理の限界やブラックボックス化による経営判断の遅れを打破するためには、デジタルツールや生産管理システムの導入による「一元化」が有効な手段です",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "データに基づいたスマートな原価管理体制を敷くことで、変動する市場環境のなかでも自社の利益と付加価値を守り、持続的な成長につながる経営基盤を築いていきましょう",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "成長を求める前向きな経営者さまを",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "経営改善の提案",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪市の税理士なら稲田光浩税理士事務所｜財務コンサル・経営支援・CFO支援",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪・西中島で税理士事務所をやりながら、認定経営革新等支援機関として金融機関に事業計画や改善計画を通す側に立ち、複数社の経営会議・取締役会にも入っています",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "決算書より先に、この1枚を見ながら話したほうが、社長の意思決定は速くなります",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断のための分類ではありません",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "水道光熱費を固定と変動に厳密に分解するのに1か月かける会社より、「工場の電力は変動、あとは固定」とざっくり決めて今月から表を作り始める会社のほうが、経営は確実に良くなります",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "楽観的な数字で意思決定するより、固めの数字で判断して上振れするほうが、経営は安全です",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "私が経営会議で使っている見方は、シンプルに3点です",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "第二に、社長の意思決定の8割は「会社全体」の判断だからです",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "私の体感では、製品別の精緻な原価が本当に必要になる意思決定は、社長の判断全体の2割程度です",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "決算書から経営の数字を読み取る基本は",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者のための決算書の読み方",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "分子に入れるのは、減価償却費、リース料、電力費、保守・修繕費、消耗工具、機械にかけている保険料",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "私は経営会議で何度もその瞬間を見てきました",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "収益予実レポート",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ工番で予実を並べて表示",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "予実を確認する",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の予実管理の仕組み作り｜計画と実績の乖離を放置せず見積精度を上げ続けるPDCA",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "－ 生産管理と原価管理の連携強化により、現場業務の効率化と経営管理の迅速化を実現 －",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "「感覚」や「経験」に頼らない精緻な収支管理は、将来にわたって企業を支える大きな武器になります",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理を現場の経験や勘に頼る時代は、終わりを迎えつつあります",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "製番別に「見積原価」と「実績原価」を登録・比較できる仕組みを構築",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "経験と勘が中心",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、誰が・いつ・どの項目を登録するのかを明文化しなければ、入力漏れや不整合が生じやすくなります",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "材料費 → 購買担当者が発注時に単価を登録",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "また、記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "計画変更と実績登録",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産計画の修正や実績データの登録を行えます",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、大日程を登録する手間が削減され、すぐに大日程の計画修正に取り掛かることが可能となります",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトに記載されている商品・サービス名は、各社の商標または登録商標です",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済環境が激しく変化する現代において、経験や勘に依存した経営から脱却し、持続的な企業成長を支える経営基盤といえます",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "過去の経験や勘だけに頼るのではなく、製品の構成部品（BOM：部品表）を整理し、各工程の「標準作業」に基づく標準作業時間（正味時間＋余裕時間）と、そこに適用する時間当たりのコスト（賃率・配賦率）の算定ルールを明確に定義します",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "大阪・西中島で税理士事務所をやりながら、認定経営革新等支援機関として金融機関に事業計画や改善計画を通す側に立ち、複数社の経営会議・取締役会にも入っています",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、私の経験上、製造業でいちばん多い「見えない出血」です",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "これは経験上、間違いない",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、経験上、間違いない",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "仮に意図的な在庫外しと認定されれば、重加算税というさらに重いペナルティの対象になり得ます",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "調査で在庫外しと認定されれば重加算税の対象になり得ますし、一度その認定を受けると、以後の調査は毎回在庫から徹底的に見られます",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "これは経験上、間違いないです",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "気持ちは分かりますが、経験上、全部いっぺんには動きません",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "私が製造業の社長の隣で価格の話を詰めてきた経験上、これは間違いない",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "私は複数の会社の経営会議に出て、銀行との設備資金の折衝を隣で見てきましたが、これは経験上、間違いない",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "年商1〜10億の成長企業オーナー専門・認定経営革新等支援機関・freee認定アドバイザー",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "経営会議・取締役会への参加経験：複数社",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "freee認定アドバイザー☆４つになりました",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "認定パートナー",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化・AI導入補助金 登録済",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "工番単位で材料費・外注費・工数の実績を登録する",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先・製品・工程・機械を登録します",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化・AI導入補助金の対象ツールとして登録済みです",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のものづくりを担っている職人や工場の魅力を伝えるため、登録企業様のストーリーをものづくりの専門家がインタビューし、専属の写真家が撮影した",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "長年に渡る経験を生かし、標準モデルを拡張してきたJ-CCOREsは、全て自社で開発、商品改良を行っています",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なシステムエンジニアが、確実なシステム稼働をご支援します",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   },
+   {
+    "quote": "※「J-CCOREs」「J-CCOREs Basic」は、ＪＦＥシステムズ株式会社の登録商標または商標です",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   },
+   {
+    "quote": "※「SIDEROS」は、ＪＦＥシステムズ株式会社の登録商標です",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   },
+   {
+    "quote": "このサイトに記載されている社名・商品名は各社の商標または登録商標です",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は、一般財団法人日本情報経済社会推進協会(JIPDEC)より、プライバシーマーク付与認定を受けています",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "認知度・利用経験率No.1",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "ASP・SaaSの安全・信頼性に係る情報開示認定取得",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "以前は楽観的な予測や属人的な経験則による採用が主でしたが、しっかりとした売上・利益予測に基づいて決定が出来るようになりましたね",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "月単位の工数を一括登録できる仕様もあり、入力作業をまとめて行いやすい構成になっています",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップから大企業まで、さまざまな組織での勤務を経験",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "エキスパートバンク登録専門家",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "このアンケート結果からも、エクセルや担当者の経験に頼った管理で、原価や進捗をリアルタイムに把握できていない実態がうかがえます",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "バーコードやQRコードで実績を登録できるか、タブレットで入力できるかも確認します",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "「SmartFを導入し、マスタをきちんと統一・登録するという意識がついて良かったと感じています",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "発注も、担当者の経験に頼っていました",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "品番マスタに発注単価を登録し、積み上げ原価を算出できるようにしています",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "そこで同社は、SmartFの工程管理と原価管理を導入し、タブレットで作業実績を登録できるようにしました",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "現場でタブレットやハンディ端末を使って作業実績を登録できるようにすると、システム上で自動で工数集計が可能となります",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "転記作業や現場確認を減らし月70時間の工数削減！タブレット活用で進捗確認・実績登録もリアルタイム化",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "【生産管理システム】転記作業や現場確認を減らし月70時間の工数削減！タブレット活用で進捗確認・実績登録もリアルタイム化",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "特に、設計・試作・開発を含む製造業では、案件ごとに作業内容やコスト構造が変わりやすく、担当者の経験だけで採算を判断すると納品後に利益不足が判明するリスクがあります",
+    "url": "https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理システムを活用すれば、勘や経験だけではなく数値をもとに判断できるため、継続的な利益改善や経営精度の向上にも役立ちます",
+    "url": "https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業の経営経験者が集うコミュニティ ／ C.R.E.S. PARTNERS",
+    "url": "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E5%8E%9F%E4%BE%A1%E3%81%A8%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%81%AE%E5%9F%BA%E7%A4%8E%EF%BD%9C%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "この振り返りを行っていない企業では、見積が担当者の経験則に依存し続け、担当が替わると精度が落ちます",
+    "url": "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E5%8E%9F%E4%BE%A1%E3%81%A8%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%81%AE%E5%9F%BA%E7%A4%8E%EF%BD%9C%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "社内にこの設計経験がない場合、財務と製造の両方を見た経験を持つ外部の視点を、設計の段階から入れる選択肢があります",
+    "url": "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E5%8E%9F%E4%BE%A1%E3%81%A8%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%81%AE%E5%9F%BA%E7%A4%8E%EF%BD%9C%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "決める側を経験してきた人を",
+    "url": "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E5%8E%9F%E4%BE%A1%E3%81%A8%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%81%AE%E5%9F%BA%E7%A4%8E%EF%BD%9C%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "多くは上場企業の役員経験者",
+    "url": "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E5%8E%9F%E4%BE%A1%E3%81%A8%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%81%AE%E5%9F%BA%E7%A4%8E%EF%BD%9C%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E3%81%A8/",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "中堅製造業、とくに受注ごとに製品仕様が異なるような企業では、「個別原価計算」を導入することで、案件別に発生した材料費、工数、外注費、間接費などのコストを詳細に把握し、収支を精密に管理することが可能になります",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "労務費（作業者の工数・時間）",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "原価改善の着眼点：材料ロスや外注コスト、工数超過などの要因特定",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば次のような運用がよく見られます",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "現場担当者が材料使用量や工数を個別に記録",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "工数記録が曖昧だったり、間接費の配賦が適当になりやすい",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "個別原価管理の必要性を理解していても、実際の導入や運用となると「手間がかかるのでは？」「現場が対応できないのでは？」という不安の声が聞かれます",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "受注 → 製番発行 → 購買（部品・外注） → 作業実績（工数・仕掛品） → 出荷・売上 → 製番別損益",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "作業実績（工数）",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "ERPでは、受注ごとに発行する「製番（製造番号）」を軸に、材料費・工数・外注費・間接費を紐づけて集計できます",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "工数の見積もり不足",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "ERPによって過去の製番別実績（材料費、工数、外注費など）を見積もりに活用することで、見積精度を飛躍的に高めることが可能になります",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ工数が多くかかったのか",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "個別原価管理の必要性やERPによる実現手段を理解しても、実際に「うまく運用できるのか？」と不安を抱く企業は少なくありません",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "工数（作業時間） → 製造現場が実績入力端末で入力",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "マスター項目が少なく、初期設定が簡単で、現場運用を速やかに開始できます",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "原材料高騰や人手不足のなかで収益を確保する主軸となりますが、現場での正確なデータ把握やExcel運用のブラックボックス化といった課題も伴います",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、実際の現場では「正確なコストや労務費の把握が難しい」「担当者ごとのExcel運用でブラックボックス化している」といった悩みが根強く存在します",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "それは、原材料価格やエネルギー費の変動といった外部要因に加え、現場の運用面にも構造的な課題が残っているためです",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "それにもかかわらず、手書き日報や曖昧な標準時間に頼った運用では、実際に投入された工数やコストが見えづらく、実際にどれだけの労務コストがかかっているのか把握しづらくなります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "手軽に導入できる反面、生産量や製品数が増加するにつれて、Excelでの運用は限界を迎える傾向にあります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "また、現場データを後からまとめて基幹システムに入力する運用では、タイムラグや入力ミスが発生しやすく、原価差異分析や経営判断のスピードを下げる要因にもなります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "データ基盤の構築から業務システムの開発、導入後の運用改善まで一貫してサポートし、中堅・中小製造業の皆さまのDX推進やAIを活用した業務改善、経営課題の解決などを行っています",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "製造日報の書き方と必須項目を紹介！現場に定着させる運用のポイント",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "水道光熱費を固定と変動に厳密に分解するのに1か月かける会社より、「工場の電力は変動、あとは固定」とざっくり決めて今月から表を作り始める会社のほうが、経営は確実に良くなります",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "手順1：直近12か月の試算表（月次推移）を出す",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "単月ではなく12か月並べるのがコツです",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "変動損益計算書を「作って終わり」にしないための月次運用",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "個別原価計算には作業時間の記録や配賦基準の設計が必要で、現場を巻き込む準備に数か月かかります",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "そして外れた見積は、納品が終わって数か月後の試算表で「なぜか利益が残っていない」という形で、静かに社長を殴ってきます",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "1名1,900時間 × 10名 ＝ 19,000時間",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "この差を知らずに「時給の倍もかからないだろう」という感覚で工数を見積もると、受けるたびに削られていきます",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし年商5〜10億・社員10〜50名の規模で、いきなり機械別レートを運用しようとすると、集計の手間が先に膨らんで、見積の現場が使わなくなります",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "受注ごとに図面も工数も違う、多品種少量の製造業",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "私が財務で伴走してきた中で見ているのは、個別原価が見えるようになると、社長が銀行に対してこう言えるようになる、という変化です",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "③選んだ案件に、実際の工数を掛けて乗せる",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "「利益が出ていると思っていた看板案件が、実はトントンだった」「安値だと思っていた案件のほうが、工数が軽くて優秀だった」——こういう発見が、必ず出てきます",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "——工数が重い案件の作り方（内製／外注、段取り）を見直す",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "私が財務の伴走で入るときは、まさにこの",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "作業指示書のQRコードを読めば案件と工程が自動で表示され、スマホで開始と停止を押すだけで工数が記録されます",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "その工数が単価と掛け合わされ、材料費・外注費とともに工番に積み上がります",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "作業指示書のQRコードをスマホで読み取り、開始と停止を押すだけで工数が記録されます",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "材料・外注・工数の各段階で比較できる構造が必要です",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "個別受注の原価管理では、費目を細かく分けすぎても運用が続きません",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "工番単位で材料費・外注費・工数の実績を登録する",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "ここは当社が伴走します",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "運用の詰まりどころをここで洗い出します",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "作業指示書のQRで工数を記録する運用を開始します",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "稼働までの期間は、マスタの整備状況によりますが2〜3か月が目安です",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "J-CCOREsは、原価計算・損益計算の運用実現にとどまらず、新製品原価、原料単価変動に伴う高速なシミュレーションや様々な視点での差異分析機能まで対応しています",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の現行システムやExcel管理されている各種データを連携し、J-CCOREs内で完結した原価計算運用を実現することができます",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   },
+   {
+    "quote": "ループ品、副産物、屑、発生品、格下げなど原価計算における難しい運用課題にも、シンプルに対応することができます",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   },
+   {
+    "quote": "初期段階から完成イメージをお客様と共有することで、最短5ヶ月での導入が可能です",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   },
+   {
+    "quote": "MESTENとJ-CCOREsの導入により、製造実績データの収集工数の大幅削減と決算業務の所要日数の半減を実現",
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業では原価計算の概念は理解されているものの、実際の運用で苦労するケースも少なくありません",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品単位で厳密にコスト管理ができるというメリットがありますが、管理が煩雑になるため、システムや運用ルールの整備が求められます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "レガシー運用が生む \"見えない負担\"",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産形態は大きく「繰り返し生産」と「個別受注生産」に分類され、それぞれで原価計算の運用方法や重視すべきポイントが変わります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、個別受注生産の場合は、案件ごとに変動する工数や原材料費の管理が必要となります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期投資を抑えつつ、実際の運用上の課題を洗い出してから本格的な導入へ移行するアプローチです",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "3.現場任せでは利益が守れない──中堅企業における原価管理の課題",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中小規模の製造業を取り巻く経済環境は、今、かつてないスピードで変化しています",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "実際、従来のように総額ベースの売上や費用を部門単位で把握しているだけでは、どの仕事が収益を生んでいるのか、逆に損失を生んでいるのかまでは見えません",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中小製造業でよく見られるのが、月次の試算表レベルで売上と仕入・経費の差を見て利益を判断しているケースです",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "３．現場任せでは利益が守れない──中堅企業における原価管理の課題",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業では、案件ごとの原価をExcelや紙の台帳で手作業集計しているケースが珍しくありません",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "原価と売上の突合は、請求書処理ベースで実施",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "受注 → 製番発行 → 購買（部品・外注） → 作業実績（工数・仕掛品） → 出荷・売上 → 製番別損益",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "１）電気機械器具製造業メーカー（従業員1,000名）",
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "pass": 3
+   },
+   {
+    "quote": "：製造ラインで働く従業員の給与、賞与、手当、法定福利費など、ものづくりの「ヒト」にかかる費用",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "また、長期的な経営計画に基づいて情報を従業員へ開示し、属人化を排除していくオープンな経営は、組織のガバナンス体制を強化し、最終的な付加価値の向上につながります",
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "pass": 3
+   },
+   {
+    "quote": "売上は伸びている",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "売上5億を超えた製造業のオーナーに向けて、",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "総合原価計算と個別原価計算、売上5億の製造業はどちらを選ぶべきか？",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率（粗利率）とその安定性",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "社長は「もっと売上を」と考えるけれど、売上を増やすほど傷が深くなる構造になっている",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "税務署に出す損益計算書（P/L）は、費用を「売上原価」と「販管費」に分けます",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "売上原価の中には、売上に比例して増える材料費もあれば、売上がゼロでも発生する工場の家賃も混ざっています",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "だから「売上が1割増えたら利益はいくら増えるのか」という一番大事な問いに、普通のP/Lは答えられないのです",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "売上原価／販管費（申告用の分類）",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益（粗利）",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "売上が増減したら利益がどう動くか",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 − 変動費 ＝ 限界利益",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "でも、この組み替えをした瞬間に、会社の利益構造が「売上に連動して動く部分」と「毎月固定でのしかかる部分」に分解されて見えてきます",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "売上ゼロならゼロになる",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "出荷量・売上高に比例する",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "工程の滞留や、売上構成の偏りを可視化します",
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 製造原価と売上原価の違い",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "7.2. 中小企業の導入事例と成功のポイント",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "原価を正確に把握するためには、製造原価と売上原価を区別することが重要です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、売上原価は製品が販売される時点での原価であり、実際に販売された製品分のみを抽出して計上します",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造原価と売上原価を明確に区別すると、在庫評価や月次・年次ごとの収益把握が円滑に進みます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "2. 労務費：製品の製造現場で働く従業員の給与や各種手当といった人件費",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、決算書の作成時には売上原価を正しく表示する必要があり、製品在庫の評価や間接費の配分方法が大きく影響します",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、企業規模が小さい場合でも、基本的な原価計算のルールと手順に則って財務会計に活用することが重要です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "次に、間接費を適切に配賦し、期末仕掛品棚卸高を差し引いて「当期製造原価」を算出し、最終的に売上原価と関連付けて損益計算書に反映されます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終的には、売上と利益率の向上につなげる視点が求められます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、企業規模や取り扱う製品の特性によって、導入するシステムや分析ツールも異なります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の中には、まず簡易的なエクセルテンプレートを使ってコスト管理を行い、徐々にシステムを導入する事例が多く見られます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年ではクラウド型やオンプレミス型など、多様な原価計算システムやERPが提供されており、企業規模や生産形態にマッチしたツールを選択することが重要です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、売上情報と連動させることで、部門別やライン別の損益を常時更新することができます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "原価・工数・売上を案件ごとに収支管理",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて導入事例や実績も確認すれば、自社の業種や規模、課題にあった製品を見つける助けになります",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "これを実現するために、現場の従業員に負担をかけず、正しく原材料費や作業時間を入力できるシステムの導入が望ましいでしょう",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "中小〜中堅企業向けの製品では、以下の価格帯が一つの目安となります",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "数百万円規模になるケースが一般的（要件により変動）",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "全ての規模に対応",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "販売管理システム 売上シェアNo.1",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "●中小企業でも導入しやすい製品が増加しており、初期費用無料・低コストなクラウド型の提供が目立つ",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "●中小企業向けのシンプルな製品は、ユーザー単位での料金体系を採用する傾向",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "●プロジェクト管理や工数管理機能を含む製品は、月額数万円から提供されているが、大企業向けの統合型製品では月額100,000円〜300,000円程度になる場合もある",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "対象企業規模",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "従業員100名以上",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "売上100億円以上",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理システムは、大企業だけでなく中小企業でも導入されています",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模・業種別の選定パターン例",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業（従業員50名以下・品目数が少ない）",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業（従業員50〜300名・多品種少量生産）",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書2026を中小企業向けに解説した記事はこちら",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "逆に言えば、ここを固めるだけで競合より一歩先に出られます",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "市場が求める品質や価格と自社の製造コストとのバランスを適切に調整できなければ、競合他社との価格競争に巻き込まれ、利益が圧迫されるおそれがあります",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売管理システム 売上シェアNo.1",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "千葉大学を卒業後、ITベンチャー企業や大手事務機器メーカーのシステム提案営業を経て、2018年より独立",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "このページの内容をシェアする",
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "pass": 3
+   },
+   {
+    "quote": "大手・グループ企業（複数拠点・基幹システム連携が必要）",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "業界特化型は機能が充実している一方で、要件定義や運用設計が必要になりやすいため、中堅〜大手企業や、原価管理を本格的に高度化したい製造業に向いています",
+    "url": "https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業・大手企業",
+    "url": "https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/",
+    "pass": 3
+   },
+   {
+    "quote": "価格を決める根拠は前例と競合の相場になり、値上げの交渉をしようにも、どれだけ必要なのかを説明できない",
+    "url": "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E5%8E%9F%E4%BE%A1%E3%81%A8%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%81%AE%E5%9F%BA%E7%A4%8E%EF%BD%9C%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "その状態で価格を決めると、根拠は前例と競合の相場になります",
+    "url": "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E5%8E%9F%E4%BE%A1%E3%81%A8%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%81%AE%E5%9F%BA%E7%A4%8E%EF%BD%9C%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "大手部品メーカーで購買統括を10年務めた経歴を持つ社長が",
+    "url": "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E5%8E%9F%E4%BE%A1%E3%81%A8%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%81%AE%E5%9F%BA%E7%A4%8E%EF%BD%9C%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業（大手〜中堅グループ企業）",
+    "url": "https://catalog.monex.co.jp/article/?p=70914",
+    "pass": 3
+   },
+   {
+    "quote": "口座振替代行サービスおすすめ33選を比較｜独自調査による市場シェアと選び方、手数料を徹底解説",
+    "url": "https://catalog.monex.co.jp/article/?p=70914",
+    "pass": 3
+   },
+   {
+    "quote": "多いが、値上げ幅が大きいと他社への切り替えを検討するため、顧客や競合他社、市場の動向を考慮しなが",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 秩父市が、メディアでの露出が増えたことに伴い、ホテルが進出するなど競合が増加",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "官公庁や大手セミナー会社での講師も務める",
+    "url": "https://www.tokyo-kosha.or.jp/topics/2606/0010.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERPの起源やシェア、失敗例などいろいろな視点でERPをご紹介しています",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/it-management/sales-profit/cost/column-sadohara.html",
+    "pass": 3
+   },
+   {
+    "quote": "競合が○○円値上げしているから、当社も同じくらいにしておこうかなというパターンがあるあるなのですが、収益構造は企業それぞれで違います",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/it-management/sales-profit/cost/column-sadohara.html",
+    "pass": 3
+   },
+   {
+    "quote": "ERPのシェア",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/it-management/sales-profit/cost/column-sadohara.html",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル製造業における原価管理の高度化 | フォーティエンスコンサルティング株式会社｜NTTデータグループ",
+    "url": "https://www.fortience.com/insight/column/210222-00/",
+    "pass": 3
+   },
+   {
+    "quote": "NTT DATA Code of Business Ethics",
+    "url": "https://www.fortience.com/insight/column/210222-00/",
+    "pass": 3
+   },
+   {
+    "quote": "「以前もこの価格だったから」「競合がこのくらいだから」という決め方ではなく、現在の原価と必要利益から価格を考えます",
+    "url": "https://desimu.com/column/finance/seihinbetsu-genka/",
+    "pass": 3
+   },
+   {
+    "quote": "この装備は従来、大規模なパッケージや大手SIerによる構築でしか手が届きにくかった領域です",
+    "url": "https://whitebell-sec.com/cosmil",
+    "pass": 3
+   },
+   {
+    "quote": "シェアードサービス",
+    "url": "https://www.funaisoken.co.jp/solution/maker_lot_808_S047",
+    "pass": 3
+   },
+   {
+    "quote": "大企業・大手企業",
+    "url": "https://saas.imitsu.jp/cate-cost-management/article/l-2732",
+    "pass": 3
+   },
+   {
+    "quote": "松村 祐土 氏（株式会社日立製作所 代表執行役執行役常務）",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日立製作所が「aPriori」を導入 日立グループ内への普及を推進",
+    "url": "https://www.scsk.jp/product/common/apriori/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日立製作所",
+    "url": "https://www.scsk.jp/product/common/apriori/",
+    "pass": 3
+   },
+   {
+    "quote": "日立グループが扱う部品には、さまざまなものがある",
+    "url": "https://www.scsk.jp/product/common/apriori/",
+    "pass": 3
+   },
+   {
+    "quote": "TE Connectivity",
+    "url": "https://www.scsk.jp/product/common/apriori/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2015年度～2023年度の9年連続で建設業向け原価管理パッケージ市場シェア第1位（累積導入社数）を記録しています",
+    "url": "https://realight.co.jp/blog/39_cost-accounting-system/",
+    "pass": 3
+   },
+   {
+    "quote": "関西最大手の業務用パンメーカーであるオリエンタルベーカリー様の事例をご紹介します",
+    "url": "https://catalog.monex.co.jp/article/?p=52093",
+    "pass": 3
+   },
+   {
+    "quote": "口座振替代行サービスおすすめ33選を比較｜独自調査による市場シェアと選び方、手数料を徹底解説",
+    "url": "https://catalog.monex.co.jp/article/?p=52093",
+    "pass": 3
+   },
+   {
+    "quote": "Job costing works best when fully integrated with purchasing, inventory, production, quality, and financials. Disconnected systems create gaps in cost tracking and manual reconciliation work.",
+    "url": "https://bizowie.com/job-costing-in-manufacturing-erp-tracking-true-product-profitability",
+    "pass": 3
+   },
+   {
+    "quote": "Bizowie Cloud ERP replaces the patchwork of disconnected systems holding you back with a single, modern platform built for mid-market manufacturers and distributors.",
+    "url": "https://bizowie.com/job-costing-in-manufacturing-erp-tracking-true-product-profitability",
+    "pass": 3
+   },
+   {
+    "quote": "Bizowie Cloud ERP replaces the patchwork of disconnected systems holding you back with a single, modern platform built for mid-market manufacturers.",
+    "url": "https://bizowie.com/job-costing-in-manufacturing-erp-tracking-true-product-profitability",
+    "pass": 3
+   },
+   {
+    "quote": "Bizowie Cloud ERP replaces the patchwork of disconnected systems holding you back with a single, modern platform built for the mid-market.",
+    "url": "https://bizowie.com/job-costing-in-manufacturing-erp-tracking-true-product-profitability",
+    "pass": 3
+   },
+   {
+    "quote": "Our manufacturing professionals work closely with producers to design reporting that delivers meaningful insight without unnecessary complexity. Contact one of our",
+    "url": "https://sensiba.com/resources/insights/job-cost-reporting/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect Is Almost Here",
+    "url": "https://www.ecisolutions.com/industries/manufacturing/accurate-job-costing-for-mfg/",
+    "pass": 3
+   },
+   {
+    "quote": "Connected workflows for more profitable operations.",
+    "url": "https://www.ecisolutions.com/industries/manufacturing/accurate-job-costing-for-mfg/",
+    "pass": 3
+   },
+   {
+    "quote": "Reduce errors, accelerate service, boost productivity, and connect operations from back office to warehouse to field.",
+    "url": "https://www.ecisolutions.com/industries/manufacturing/accurate-job-costing-for-mfg/",
+    "pass": 3
+   },
+   {
+    "quote": "Build trust and exceed customer expectations with self-service portals, automated service agreements, and connected field technicians.",
+    "url": "https://www.ecisolutions.com/industries/manufacturing/accurate-job-costing-for-mfg/",
+    "pass": 3
+   },
+   {
+    "quote": "All-in-one field service management software that connects scheduling, dispatch, mobile techs, parts, and billing in a single platform.",
+    "url": "https://www.ecisolutions.com/industries/manufacturing/accurate-job-costing-for-mfg/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect 2026",
+    "url": "https://www.ecisolutions.com/industries/manufacturing/accurate-job-costing-for-mfg/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn, network, and grow at our 2026 ECI Connect Customer Conference",
+    "url": "https://www.ecisolutions.com/industries/manufacturing/accurate-job-costing-for-mfg/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect with us today!",
+    "url": "https://www.ecisolutions.com/industries/manufacturing/accurate-job-costing-for-mfg/",
+    "pass": 3
+   },
+   {
+    "quote": "So now, let’s take a quick look through the ten essential reasons why job costing is essential to success in today’s global, connected and highly competitive market.",
+    "url": "https://www.ecisolutions.com/industries/manufacturing/accurate-job-costing-for-mfg/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect with G&A Partners to learn how our HR technology and workforce management solutions can help you gain better insight into labor costs, streamline time tracking, and support more accurate job costing as your business grows.",
+    "url": "https://www.gnapartners.com/resources/articles/what-is-job-costing",
+    "pass": 3
+   },
+   {
+    "quote": "Connect With an Expert",
+    "url": "https://www.gnapartners.com/resources/articles/what-is-job-costing",
+    "pass": 3
+   },
+   {
+    "quote": "How to Calculate Time to Hire and Reduce Your Recruiting Bottlenecks",
+    "url": "https://www.gnapartners.com/resources/articles/what-is-job-costing",
+    "pass": 3
+   },
+   {
+    "quote": "Connect your stack and push real-time events to any system.",
+    "url": "https://qoblex.com/blog/job-costing-for-manufacturing-complete-guide-to-optimize-project-profitability/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers should track labor hours using time-tracking systems that connect employee activities to specific jobs or production orders. Modern manufacturing software automates this process by integrating time clocks with production scheduling systems.",
+    "url": "https://qoblex.com/blog/job-costing-for-manufacturing-complete-guide-to-optimize-project-profitability/",
+    "pass": 3
+   },
+   {
+    "quote": "Accurate material costing requires real-time inventory tracking that connects material usage to specific production jobs. Advanced inventory management systems automatically deduct materials from stock levels and assign costs to appropriate job orders.",
+    "url": "https://qoblex.com/blog/job-costing-for-manufacturing-complete-guide-to-optimize-project-profitability/",
+    "pass": 3
+   },
+   {
+    "quote": "Modern manufacturing software addresses many traditional job costing challenges through automation and integration. Comprehensive systems connect time tracking, inventory management, and financial reporting to provide real-time job cost visibility.",
+    "url": "https://qoblex.com/blog/job-costing-for-manufacturing-complete-guide-to-optimize-project-profitability/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect job costing directly to product BOMs for accurate material planning and costing",
+    "url": "https://qoblex.com/blog/job-costing-for-manufacturing-complete-guide-to-optimize-project-profitability/",
+    "pass": 3
+   },
+   {
+    "quote": "NAVINECT 金型管理DX",
+    "url": "https://note.com/ripla_business/n/nfadeba286c69",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製造原価 の改善をリードする「 見える化 」の重要性 — 製造原価 の改善をリードする「 見える化 」の重要性 nsw-manufacturing.jp https://nsw-manufacturing.jp > note > mfg_note_08",
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "pass": 3
+   },
+   {
+    "quote": "原価 管理システム比較8選 製造業 向けの選び方を解説 ... - SmartF — 原価 管理システム比較8選 製造業 向けの選び方を解説 ... - SmartF SmartF https://smartf-nexta.com > 原価管理",
+    "url": "https://smartf-nexta.com/archives/10737",
+    "pass": 3
+   },
+   {
+    "quote": "製造物 責任 の 免責 事由－部品、原材料 製造業者 等の 免責 事由 — 製造物 責任 の 免責 事由－部品、原材料 製造業者 等の 免責 事由 弁護士法人朝日中央綜合法律事務所 https://www.ac-law.jp > manual > pdf12 > pdf12-page017",
+    "url": "https://www.ac-law.jp/manual/pdf12/pdf12-page017/",
+    "pass": 3
+   },
+   {
+    "quote": "利益率を2倍に！ 製造業 の「 見え ない利益」を掘り起こす 原価 ... — 利益率を2倍に！ 製造業 の「 見え ない利益」を掘り起こす 原価 ... 大塚商会 https://www.otsuka-shokai.co.jp > cost > column-sadohara",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/it-management/sales-profit/cost/column-sadohara.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小 製造業 こそ取り組むべき！ 個別原価 管理のススメ — 中小 製造業 こそ取り組むべき！ 個別原価 管理のススメ 船井総合研究所 https://smart-factory.funaisoken.co.jp > factorydx-2089",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-2089",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "金型 製造業 向け生産管理システム開発のおすすめの開発会社 ... 金型 製造業 向け生産管理システム開発のおすすめの開発会社 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/ripla_business/n/nfadeba286c69",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "金型製造業向け生産管理システム開発のおすすめの開発会社/ベンダー6選と選び方｜株式会社ripla",
+    "url": "https://note.com/ripla_business/n/nfadeba286c69",
+    "pass": 3
+   },
+   {
+    "quote": "金型製造業向け生産管理システム開発のおすすめの開発会社/ベンダー6選と選び方",
+    "url": "https://note.com/ripla_business/n/nfadeba286c69",
+    "pass": 3
+   },
+   {
+    "quote": "●金型製造業向け生産管理システム開発では、個別受注生産・仕様変更への柔軟性や工程別進捗の可視化精度を確認し、自社の業務に合う会社を選ぶことが重要です。",
+    "url": "https://note.com/ripla_business/n/nfadeba286c69",
+    "pass": 3
+   },
+   {
+    "quote": "●おすすめの開発会社・ベンダーは、株式会社riplaを含む6社で、納期遵守率の把握や見積・原価管理との連携に応じて選べます。",
+    "url": "https://note.com/ripla_business/n/nfadeba286c69",
+    "pass": 3
+   },
+   {
+    "quote": "●金型製造業向け生産管理システムは、個別受注型の生産計画、工程別の進捗・実績管理、納期・仕様変更への対応などを支え、経営と現場の判断をつなぎます。",
+    "url": "https://note.com/ripla_business/n/nfadeba286c69",
+    "pass": 3
+   },
+   {
+    "quote": "業務の複雑化や顧客ニーズの変化、データ活用の広がりを背景に、金型製造業向け生産管理システムの整備を検討する企業が増えています。Excelや部門ごとに分かれたツールで管理してきた企業では、情報の重複や更新遅れ、担当者に依存した判断が課題になりやすい領域です。",
+    "url": "https://note.com/ripla_business/n/nfadeba286c69",
+    "pass": 3
+   },
+   {
+    "quote": "こうした課題を解決するには、単に機能を追加するだけでは足りません。個別受注生産特有の仕様変更や納期変動に柔軟に対応するためには、現行業務の棚卸しとデータの流れの整理を行い、標準機能と個別開発の境界をあらかじめ決める必要があります。運用開始後に現場が入力を続けられるかも、開発会社を選ぶときの大切な判断材料です。",
+    "url": "https://note.com/ripla_business/n/nfadeba286c69",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、金型製造業向け生産管理システム開発を発注・外注・委託する際におすすめのシステム会社・開発ベンダーを6社厳選して紹介します。これから導入や刷新を検討している方は、ぜひ参考にしてください。",
+    "url": "https://note.com/ripla_business/n/nfadeba286c69",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "小田 光彦 - 製造業 の利益構造改革パートナー - LinkedIn 小田 光彦 - 製造業 の利益構造改革パートナー - LinkedIn LinkedIn https://jp.linkedin.com > 光彦-小田-559b73375",
+    "url": "https://jp.linkedin.com/in/%E5%85%89%E5%BD%A6-%E5%B0%8F%E7%94%B0-559b73375",
+    "pass": 3
+   },
+   {
+    "quote": "中尾 貴光 - 中国 × 製造業 × AI・DX｜SCM・生産管理・物流 ... 中尾 貴光 - 中国 × 製造業 × AI・DX｜SCM・生産管理・物流 ... LinkedIn https://jp.linkedin.com > anhuioss",
+    "url": "https://jp.linkedin.com/in/anhuioss",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "オセロコネクトって、何ができるの？ オセロコネクトは、製造業向けの... Aug 19, 2026 · 🏭 オセロコネクトって、何ができるの？ オセロコネクトは、製造業向けの生産管理システムです💻 見積・受注・製番・在庫・原価・購買など、 製造業に必要なさまざまな業務をデジタルで管理。",
+    "url": "https://www.facebook.com/OthelloConnect/videos/-オセロコネクトって何ができるの-オセロコネクトは製造業向けの生産管理システムです-見積受注製番在庫原価購買など-製造業に必要なさまざまな業務をデジタル/1665604517868575/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/function-analytics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.jfe-systems.com/products/jcores",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/cost_control/article/system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartf-nexta.com/archives/10737",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E5%8E%9F%E4%BE%A1%E3%81%A8%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%81%AE%E5%9F%BA%E7%A4%8E%EF%BD%9C%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E3%81%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=70914",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ripla_business/n/n643eb9ce0d0d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-kosha.or.jp/topics/2606/0010.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/it-management/sales-profit/cost/column-sadohara.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atstreampartners.co.jp/services/sp/case/ex002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortience.com/insight/column/210222-00/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://desimu.com/column/finance/seihinbetsu-genka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitebell-sec.com/cosmil",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/solution/maker_lot_808_S047",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saas.imitsu.jp/cate-cost-management/article/l-2732",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hitachi-systems.com/ind/fs/function/cost-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caa.go.jp/policies/policy/consumer_safety/other/product_liability_act_annotations/pdf/annotations_180907_0005.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ac-law.jp/manual/pdf12/pdf12-page017/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesslawyers.jp/practices/454",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://office-tree.jp/blog/legal-documents/product-liability-pl-disclaimer-clause/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://api.lib.kyushu-u.ac.jp/opac_download_md/2022/KJ00000726911-00001.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/1058/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-3276",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pwc.com/jp/ja/knowledge/column/finance-accounting/assets/pdf/finance-accounting.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.obc.co.jp/bugyo-cloud/kanjo-kobetsu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-2089",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scsk.jp/product/common/apriori/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sankak.jp/fukugyo/1837",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://realight.co.jp/blog/39_cost-accounting-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=52093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizowie.com/job-costing-in-manufacturing-erp-tracking-true-product-profitability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sensiba.com/resources/insights/job-cost-reporting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecisolutions.com/industries/manufacturing/accurate-job-costing-for-mfg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gnapartners.com/resources/articles/what-is-job-costing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roofr.com/product-blog/job-costing-how-to-unlock-profitability-for-your-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qoblex.com/blog/job-costing-for-manufacturing-complete-guide-to-optimize-project-profitability/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gsquaredcfo.com/blog/job-costing-vs-process-costing-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ripla_business/n/nfadeba286c69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%85%89%E5%BD%A6-%E5%B0%8F%E7%94%B0-559b73375",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/anhuioss",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OthelloConnect/videos/-オセロコネクトって何ができるの-オセロコネクトは製造業向けの生産管理システムです-見積受注製番在庫原価購買など-製造業に必要なさまざまな業務をデジタル/1665604517868575/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "個別原価・採算の見える化支援（製造業）",
+   "results": [
+    "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "https://factoryadvance.jp/function-analytics/",
+    "https://biz.jfe-systems.com/products/jcores",
+    "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "https://it-trend.jp/cost_control/article/system",
+    "https://managerial.heygood.jp/industries/manufacturing",
+    "https://whitebell-sec.com/cosmil"
+   ]
+  },
+  {
+   "query": "個別原価・採算の見える化支援（製造業） 費用 相場",
+   "results": [
+    "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "https://it-trend.jp/cost_control/article/system",
+    "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "https://smartf-nexta.com/archives/10737",
+    "https://factoryadvance.jp/function-analytics/",
+    "https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/",
+    "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E5%8E%9F%E4%BE%A1%E3%81%A8%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%81%AE%E5%9F%BA%E7%A4%8E%EF%BD%9C%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E3%81%A8/",
+    "https://catalog.monex.co.jp/article/?p=70914",
+    "https://whitebell-sec.com/cosmil"
+   ]
+  },
+  {
+   "query": "個別原価・採算の見える化支援（製造業） 事例 中堅企業",
+   "results": [
+    "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "https://note.com/ripla_business/n/n643eb9ce0d0d",
+    "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "https://www.tokyo-kosha.or.jp/topics/2606/0010.html",
+    "https://smartf-nexta.com/archives/10737",
+    "https://www.otsuka-shokai.co.jp/erpnavi/it-management/sales-profit/cost/column-sadohara.html",
+    "https://atstreampartners.co.jp/services/sp/case/ex002.html"
+   ]
+  },
+  {
+   "query": "個別原価・採算の見える化支援（製造業） 工場 製造業",
+   "results": [
+    "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "https://industry.csunnet.co.jp/column/column/manufacturing-cost-management",
+    "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "https://www.fortience.com/insight/column/210222-00/",
+    "https://factoryadvance.jp/function-analytics/",
+    "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "https://desimu.com/column/finance/seihinbetsu-genka/",
+    "https://it-trend.jp/cost_control/article/system",
+    "https://whitebell-sec.com/cosmil"
+   ]
+  },
+  {
+   "query": "個別原価・採算の見える化支援（製造業） 責任 範囲 免責",
+   "results": [
+    "https://www.caa.go.jp/policies/policy/consumer_safety/other/product_liability_act_annotations/pdf/annotations_180907_0005.pdf",
+    "https://www.ac-law.jp/manual/pdf12/pdf12-page017/",
+    "https://www.businesslawyers.jp/practices/454",
+    "https://office-tree.jp/blog/legal-documents/product-liability-pl-disclaimer-clause/",
+    "https://api.lib.kyushu-u.ac.jp/opac_download_md/2022/KJ00000726911-00001.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.tkc.jp/consolidate/webcolumn/column202606_1_col01",
+    "https://lassic.co.jp/media/column/cost-management-system-outsourcing/",
+    "https://food.uchida-it.co.jp/column/20190720/",
+    "https://www.tokyo-kosha.or.jp/topics/2507/0014.html"
+   ]
+  },
+  {
+   "query": "個別原価・採算の見える化支援（製造業） 経営判断 損失額",
+   "results": [
+    "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "https://www.nisseicom.co.jp/growone-production/column/26.html",
+    "https://desimu.com/column/finance/seihinbetsu-genka/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/it-management/sales-profit/cost/column-sadohara.html",
+    "https://factoryadvance.jp/blog/1058/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-3276",
+    "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "https://www.pwc.com/jp/ja/knowledge/column/finance-accounting/assets/pdf/finance-accounting.pdf"
+   ]
+  },
+  {
+   "query": "個別原価・採算の見える化支援（製造業） スタートアップ",
+   "results": [
+    "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "https://desimu.com/column/finance/seihinbetsu-genka/",
+    "https://it-trend.jp/cost_control/article/system",
+    "https://www.obc.co.jp/bugyo-cloud/kanjo-kobetsu",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-2089",
+    "https://www.scsk.jp/product/common/apriori/",
+    "https://sankak.jp/fukugyo/1837",
+    "https://realight.co.jp/blog/39_cost-accounting-system/",
+    "https://catalog.monex.co.jp/article/?p=52093",
+    "https://factoryadvance.jp/function-analytics/"
+   ]
+  },
+  {
+   "query": "job costing profitability visibility manufacturers",
+   "results": [
+    "https://bizowie.com/job-costing-in-manufacturing-erp-tracking-true-product-profitability",
+    "https://sensiba.com/resources/insights/job-cost-reporting/",
+    "https://www.ecisolutions.com/industries/manufacturing/accurate-job-costing-for-mfg/",
+    "https://www.gnapartners.com/resources/articles/what-is-job-costing",
+    "https://roofr.com/product-blog/job-costing-how-to-unlock-profitability-for-your-business",
+    "https://qoblex.com/blog/job-costing-for-manufacturing-complete-guide-to-optimize-project-profitability/",
+    "https://www.growthforce.com/blog/why-job-costing-is-essential-for-small-business-owners-0",
+    "https://www.zuper.co/job-costing-and-profitability",
+    "https://www.geniuserp.com/resources/blog/job-costing-101/",
+    "https://www.ianaierp.com/resources/blog/job-costing-for-manufacturers-a-guide-to-true-profitability"
+   ]
+  },
+  {
+   "query": "job costing profitability visibility manufacturers startup pricing",
+   "results": [
+    "https://sensiba.com/resources/insights/job-cost-reporting/",
+    "https://bizowie.com/job-costing-in-manufacturing-erp-tracking-true-product-profitability",
+    "https://www.ecisolutions.com/industries/manufacturing/accurate-job-costing-for-mfg/",
+    "https://www.gsquaredcfo.com/blog/job-costing-vs-process-costing-manufacturing",
+    "https://www.gnapartners.com/resources/articles/what-is-job-costing",
+    "https://www.fishbowlinventory.com/blog/job-costing",
+    "https://www.growthforce.com/blog/why-job-costing-is-essential-for-small-business-owners-0",
+    "https://www.chortek.com/blog/manufacturing-cfos-guide-job-costing/",
+    "https://usersolutions.com/blog/job-costing-manufacturing",
+    "https://www.ianaierp.com/resources/blog/job-costing-for-manufacturers-a-guide-to-true-profitability"
+   ]
+  },
+  {
+   "query": "site:note.com 個別原価・採算の見える化支援（製造業）",
+   "results": [
+    "https://note.com/ripla_business/n/n643eb9ce0d0d",
+    "https://note.com/ripla_business/n/n335b0fb62904",
+    "https://note.com/ripla_business/n/nfadeba286c69",
+    "https://note.com/chic_deer1160/n/n50606370dbcf",
+    "https://note.com/kosuke_39/n/n142ff0bff6da",
+    "https://note.com/chic_deer1160/n/n74f5af987f52",
+    "https://note.com/nakajima_smemc/n/nd8f53ae02ef0",
+    "https://note.com/kosuke_39/n/n63ead827e6cd",
+    "https://note.com/ripla_business/n/n69edf0a9d4fe",
+    "https://note.com/ripla_business/n/n2c11827533f8"
+   ]
+  },
+  {
+   "query": "site:x.com 個別原価・採算の見える化支援（製造業）",
+   "results": [
+    "https://x.com/zaimo_ai_jp/status/2024751002143117773",
+    "https://x.com/KagawaTomo/status/2110277493752205781",
+    "https://x.com/nextr1212/status/2115220154636472624",
+    "https://x.com/KagawaTomo/status/2115052588332884288",
+    "https://x.com/KagawaTomo/status/2111363928802656637",
+    "https://x.com/luigi_jpn/status/2056874954986307624",
+    "https://x.com/FukuroStocks/status/2090752497027793099",
+    "https://x.com/KagawaTomo/article/2084485783516332520",
+    "https://x.com/yanagi_shiftai/article/2111419700420776206?lang=bg",
+    "https://x.com/o6dGNX6GYD2m5Dh"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 個別原価・採算の見える化支援（製造業）",
+   "results": [
+    "https://jp.linkedin.com/in/keieikanrikaikei",
+    "https://jp.linkedin.com/in/%E5%85%89%E5%BD%A6-%E5%B0%8F%E7%94%B0-559b73375",
+    "https://jp.linkedin.com/in/anhuioss",
+    "https://jp.linkedin.com/in/toshiyuki-ohtahara",
+    "https://jp.linkedin.com/in/%E9%80%8F-%E4%B8%AD%E5%B3%B6-b2a180130",
+    "https://jp.linkedin.com/in/kenjimatsui1111",
+    "https://jp.linkedin.com/in/matsuri-tomisaka",
+    "https://jp.linkedin.com/in/shinjiro-yamaguchi-0a9746178",
+    "https://jp.linkedin.com/in/keishi-oi-trancom",
+    "https://jp.linkedin.com/pulse/製造業の経営-17標準原価管理の本質実際原価との対比算出プロセス差異分析による経営改善-美徳-鈴木-7jwgc"
+   ]
+  },
+  {
+   "query": "site:facebook.com 個別原価・採算の見える化支援（製造業）",
+   "results": [
+    "https://www.facebook.com/akita.yorozu/posts/%E7%A7%8B%E7%94%B0%E7%9C%8C%E3%82%88%E3%82%8D%E3%81%9A%E6%94%AF%E6%8F%B4%E6%8B%A0%E7%82%B9%E3%81%A7%E3%81%AF%E6%AF%8E%E6%9C%88%E7%84%A1%E6%96%99%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%81%94%E8%88%88%E5%91%B3%E3%81%8C%E3%81%82%E3%82%8B%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%81%AB%E3%81%8A%E6%B0%97%E8%BB%BD%E3%81%AB%E3%81%94%E5%8F%82%E5%8A%A0%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E7%A7%8B%E7%94%B0%E7%9C%8C%E3%82%88%E3%82%8D%E3%81%9A%E6%94%AF%E6%8F%B4%E6%8B%A0%E7%82%B99%E6%9C%88%E3%81%AE%E7%84%A1%E6%96%99%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/1034923775096023/",
+    "https://www.facebook.com/TeDingFeiYingLiHuoDongFaRenreimeiliMingJuLeBu/posts/%E5%A4%8F%E5%AD%A3%E7%89%B9%E5%88%A5%E7%B5%8C%E5%96%B6%E6%94%B9%E9%9D%A9%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%E7%B5%8C%E5%96%B6%E3%81%AE%E5%8F%B3%E8%84%B3%E3%82%92%E7%A3%A8%E3%81%8F%E6%88%A6%E7%95%A5%E7%9A%84%E7%B5%8C%E5%96%B6%E4%BC%9A%E8%A8%88%E3%81%AE%E5%8A%9B%E3%81%A7%E7%B5%8C%E5%96%B6%E3%82%92%E6%94%B9%E9%9D%A9%E3%81%99%E3%82%8B%E5%BE%93%E6%9D%A5%E3%81%AE%E8%B2%A1%E5%8B%99%E4%BC%9A%E8%A8%88%E4%B8%BB%E7%BE%A9%E3%81%AE%E7%A9%B4%E3%81%AE%E4%B8%AD%E3%81%A7%E4%BC%81%E6%A5%AD%E3%81%AF%E3%81%A4%E3%81%B6%E3%82%8C%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AE%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%82%E5%8F%88%E5%A4%B1%E6%95%97%E3%81%99%E3%82%8B/1551715301527494/",
+    "https://www.facebook.com/groups/713390697225371/",
+    "https://www.facebook.com/OthelloConnect/videos/-オセロコネクトって何ができるの-オセロコネクトは製造業向けの生産管理システムです-見積受注製番在庫原価購買など-製造業に必要なさまざまな業務をデジタル/1665604517868575/",
+    "https://www.facebook.com/mcframe/videos/製造業原価管理のすべてが分かる完全版資料/1005022433683199/",
+    "https://www.facebook.com/ykichijo/posts/製造業での時間当たり採算表の組み込みで大事故/28440681675584914/",
+    "https://www.facebook.com/kawaguchicci/posts/1月26日開催中小小規模事業者の財務体質強化-製造業の経営を見える化する-決算書原価財務分析と収支計画の基本-セミナー参加無料本セミナーでは製造業に特化し経営の/1163921232574270/",
+    "https://www.facebook.com/yorozu.yamanashi/photos/製造現場の数字なんとなくで判断していませんか-原価の計算方法が複雑で分からない-製造単価が何年も見直せていない-価格交渉の根拠を数字で示せないそんな小規模製造業/867224292723233/",
+    "https://www.facebook.com/OthelloConnect/videos/思ったより利益が出ていない-その原因原価を正確に把握できていないからかもしれません-オセロコネクトなら-実際原価の計算-原価グラフでの確認-製番別受注/1060341293026613/",
+    "https://www.facebook.com/imorove/photos/製造現場の見える化を実現サクスマのwebガントチャート中小製造業の皆さま現場の工程計画や進捗管理にexcelを使っていませんかサクスマのwebガントチャートなら/1203564355126412/"
+   ]
+  },
+  {
+   "query": "個別原価・採算の見える化支援（製造業） note 社長",
+   "results": [
+    "https://note.com/ripla_business/n/n643eb9ce0d0d",
+    "https://nsw-manufacturing.jp/note/mfg_note_08.html",
+    "https://note.com/ripla_business/n/n335b0fb62904",
+    "https://note.com/matsubzym/n/n59b9d65a5832",
+    "https://www.grandit.jp/erp/column/manufacturing_cost_management/",
+    "https://www.kk-osk.co.jp/promotion/utilize/manufacturing_cost.html",
+    "https://fukakachi-lab.com/category/cost-management/325",
+    "https://note.com/mbaai/n/n85aff01f2baa",
+    "https://it-trend.jp/cost_control/article/system",
+    "https://newpeakjp.com/blog/manufacturing-cost-management-erp-visualization/"
+   ]
+  },
+  {
+   "query": "個別原価・採算の見える化支援（製造業） X 投稿",
+   "results": [
+    "https://factoryadvance.jp/blog/565/",
+    "https://note.com/ripla_business/n/n643eb9ce0d0d",
+    "https://journal.meti.go.jp/60sec/40462/",
+    "https://catalog.monex.co.jp/article/?p=72856",
+    "https://www.crowdlog.jp/blog/128192/",
+    "https://metoree.com/categories/4955/",
+    "https://www.kick-konsulting.com/product-revenue-analysis-manufacturing-profitability/",
+    "https://www.youtube.com/watch?v=HTEe6PtQ_YU",
+    "https://www.zaico.co.jp/zaico_blog/cost-management-in-manufacturing/",
+    "https://factoryadvance.jp/function-analytics/"
+   ]
+  },
+  {
+   "query": "job costing profitability visibility manufacturers site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/julian-tenison-woods_constructionmanagement-jobcosting-costcontrol-activity-7518053639735746560-GkTi",
+    "https://www.linkedin.com/posts/kimhiemstra_jobcosting-smallbusinessbookkeeping-quickbooksonline-activity-7516562406920278017-ixjE",
+    "https://www.linkedin.com/posts/theconstructioncpa_constructioncpa-constructionaccounting-activity-7482803995703447552-o0N8",
+    "https://www.linkedin.com/top-content/finance/cost-accounting-techniques/standard-costing-systems/",
+    "https://www.linkedin.com/company/blueprintjc",
+    "https://www.linkedin.com/posts/field-pm_how-to-read-a-construction-job-cost-report-activity-7472322463432097793-uT5-",
+    "https://www.linkedin.com/posts/sherif-muhamed_costing-methods-the-right-method-matters-activity-7485513328644153346-7MtY",
+    "https://www.linkedin.com/posts/brian-difilippo-cpa-abv-80908b15_constructionaccounting-yourworldworthmore-activity-7516196996962156544-2jr_",
+    "https://www.linkedin.com/pulse/how-calculate-true-product-profitability-accurately-leibfried-cpa-efl0c",
+    "https://www.linkedin.com/posts/james-cliame_tacotuesday-cashflow-jobcosting-activity-7515743967116804098-MWUp"
+   ]
+  }
+ ],
+ "missing": {}
+}

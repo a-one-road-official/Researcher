@@ -1,0 +1,2366 @@
+{
+ "name": "生産管理システム導入前の業務整理・要件定義",
+ "en": "requirements definition before production system implementation",
+ "aliases": [
+  "生産管理 要件定義 支援",
+  "システム導入 業務整理 製造業",
+  "生産管理 RFP 作成支援"
+ ],
+ "context": "生産管理",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:07:54.910972+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "当社では、具体的に以下のような手順で要件整理を支援します",
+    "url": "https://www.tonops.net/tips/requirements.html",
+    "pass": 3
+   },
+   {
+    "quote": "東レグループ各社をはじめ、製造業を中心にさまざまな業種のお客様への導入実績があります",
+    "url": "https://www.tonops.net/tips/requirements.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI・データ分析などの多様な要素技術を組み合わせ、さらなる効率化の実現を支援します",
+    "url": "https://www.tonops.net/tips/requirements.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品・事例のご紹介",
+    "url": "https://www.tonops.net/tips/requirements.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社が提供するTONOPS",
+    "url": "https://www.tonops.net/tips/requirements.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのうえで、お客様の課題を踏まえ、最適なソリューションや過去事例をご紹介します",
+    "url": "https://www.tonops.net/tips/requirements.html",
+    "pass": 3
+   },
+   {
+    "quote": "工番ごとに見積・受注・工程実績・原価が紐づくため、月次決算を待たずに案件単位の利益が把握できます",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "工程別の実績データから、リードタイムを阻害している工程を特定できます",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 6: スモールスタート展開（1ラインで成功事例を作る）",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "3〜6ヶ月で成功事例ができれば、他部門への展開時の説得力が増します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "②受注・工程実績登録",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "③差異分析(見積vs実績)",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の実績データを参照して、根拠ある見積を作成します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "受注・工程実績登録",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "受注した案件の工程実績をタブレット・スマホで継続的に記録します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "見積と実績の差異を案件単位で確認します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "で、7ステップ導入プロセスを伴走支援する設計になっています",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "工番ごとに見積・受注・工程実績・外注発注・請求を紐づけ、案件別の真の利益を可視化",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "ITコーディネーター・中小企業診断士との3層協業モデルで、Step 1〜7の伴走支援に対応",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "3〜6か月で成功事例ができれば、他部門へ展開するときの説得力が増します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イーポート 代表取締役",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 日立ソリューションズ西日本",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムには、生産計画の立案を支援する機能をはじめ、見積り・受注・出荷・売上・在庫を管理して製品の過不足を抑制する販売管理機能や、仕入業務を管理する購買管理機能、さらに製造管理・在庫管理・原価管理など、製造に関わる機能が網羅されており、製造業の複数部門における生産性向上や業務効率化を実現するソリューションとして注目されています",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "1995年に販売が開始され、製造業を中心に豊富な導入実績があり、直感的なインターフェースや、現場ユーザーがメニュー項目を編集できる使いやすさなどが高く評価されています",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なシステムエンジニアの支援により、スムーズな導入、安定的な運用が可能です",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズ西日本の導入事例",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、日立ソリューションズ西日本の自動車部品製造業における導入実績が豊富な点、業務内容やシステム要件への理解度が高かった点も評価のポイントでした",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "また確定・内示、受入実績といった情報もリアルタイムで反映されるようになり、計画精度も向上しました",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズ西日本では要件定義から作業支援することができます",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "流通・サービス業",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "その他製品サービス",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "導入からサポートまで、安心してお任せ〜システムのご提案から、現場ヒアリング、要件定義、初期設定、操作教育、導入後の運用サポートに至るまで、すべてのプロセスを一貫してご支援〜",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムを導入することで、各工程の進捗状況や担当者、作業実績が可視化され、誰でも生産状況を把握できる仕組みが整います",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "余剰在庫・欠品を防止してコストを削減できたり、過去の生産実績をもとに現実的な納期計画を作成したりなどが可能",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "また、仕掛品や在庫の状況をリアルタイムで把握できるため、現場の混乱を防ぎ、効率的な生産管理を支援します",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "不具合対応や情報集計にかかる時間を大幅に削減し、経営層に対しても正確かつ迅速な現場情報の提供が可能になる",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "多種多様な製品の中から、他社の導入事例や機能紹介などを参考に、自社の業種・業務課題にマッチしそうな製品をリストアップしていきます",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "各ベンダーに資料請求を行い、より詳細な機能一覧や価格帯、導入事例などを見て比較検討しましょう",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "また、今すぐ決められない事項も、課題として資料に明確に記載し、経営層の判断と支援を早期に得ることが重要です",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "稼働初期のサポート体制（問い合わせ窓口や訪問支援など）",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "稼働後の一定期間は、ベンダーに伴走支援を依頼したり社内にサポート役を設置したりすることも効果的",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "システムの機能説明はもちろんのこと、現場に対する深い調査や課題の整理、要件定義から現場教育、導入後のサポートに至るまで、一貫してご支援が可能です",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "実務に寄り添った丁寧な導入支援と教育",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "資料請求やデモの実施によって、業務フローとの相性およびベンダーの支援体制などを確認し、社内で検討を重ねていきましょう",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "情シス・社内IT支援",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "実績から選ぶ",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "2.提供形態で考える生産管理システムの費用相場",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "提供形態で考える生産管理システムの費用相場",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "生産実績収集",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "それから、作業指示・生産実績収集・生産状況照会・作業日報といった、生産する際の各工程の状況を管理する機能があるか見ていきましょう",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、計画管理・実績管理・原価管理の3つに特化したシステムや、受発注のような販売管理ができるシステムなど、生産管理システムによって対応できる業務は異なります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "会社のサービス内容によって、どの生産方式を取っているか変わってきます",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社と同じ業界・業種での開発実績が多いか",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "●自社と同じ業界・業種での開発実績が多いか",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "同業界・業種での開発実績が多いシステム開発会社に依頼したほうが、失敗するリスクが低いです",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "餅は餅屋といいますから、同じ業界や業種で開発実績があるかを公式サイトや口コミを参考に、確認しましょう",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、既存のパッケージソフトを利用する場合は提供形態やユーザー規模によって導入コストが大きく変動します",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "下請けを使わず自社開発を行っているか、中長期の保守に対応できる安定した経営状況か、同業界での実績が豊富か、そして窓口のコミュニケーション能力が高いかの4点です",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに同業種での豊富な実績は開発の失敗を防ぎ、的確なコミュニケーションは要件の齟齬をなくします",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社サービスの掲載をご希望の方へ",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "このとき、現場へのヒアリングを行ってから経営トップへのヒアリングを行うのではなく、経営トップから現場という順番でヒアリングを行うとよいでしょう",
+    "url": "https://www.tonops.net/tips/requirements.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断の一大プロジェクト",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断の質と速度を変える経営インフラ整備",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断の高速化",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者がスマホで会社の状況をいつでも把握でき、月次会議ではなく週次・日次の経営判断が可能になります",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "経営課題と導入目的の明確化",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "「赤字案件を減らしたい」「事務工数を削減したい」「見積精度を上げたい」など、具体的な経営課題から逆算して導入目的を決めます",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者の覚悟と関与",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システム導入は経営変革であり、IT担当者や工場長に丸投げするのではなく、経営者自身がプロジェクトオーナーになる必要があります",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "①経営課題と目的の明確化",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 1: 経営課題と導入目的の明確化",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "最初の最重要ステップは、自社の経営課題を",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "展開と同時に、月次経営レビュー会の運用も立ち上げ、システムから得たデータで議論する文化を定着させます",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "今のやり方に経営上の必然性がない",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "Step1の経営課題定義に時間をかける",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者が決めたが現場が使わない",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "このほかにも、在庫管理・製造管理・原価管理・予算管理・購買管理といった機能を備え、それぞれが密接にリンクすることで、生産性向上や業務荷軽減を実現できます",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "そのためには経営層から現場までを巻き込んだ全社プロジェクトにすることが重要です",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "経営トップの意向と現場の課題をヒアリングし、目的の明確化に加えて優先順位を定めることで、全体最適化を見据えたシステム導入が可能となります",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "また、プロジェクト責任者に経営者を置き、プロジェクトリーダーや各部門の推進担当に現場のキーマンをアサインすることも欠かせません",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "現場の業務を知り尽くしたキーマンが参画し、経営層にも定期的な状況共有とレビューをもらうことで、全社横断型の組織で生産管理システムの導入を進められるようになります",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "全社横断型のプロジェクトとして、経営層や現場のキーマンをアサインしたチームにより、目的の明確化と業務フローの整理、課題の抽出を実施します",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "測定結果から見えてきた成果を経営層や現場にフィードバックしていくことで、全社的に生産管理システムを活用するためのモチベーションが高まっていくはずです",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "また、「電脳工場」のフィット＆ギャップを実施し、パッケージへの適合性を見極め、ご予算に合わせて適切に提案をさせていただきます",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断に役立つ「使える原価数値」を可視化する方法",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "シンプルで分かりやすく、現場の負荷を増やさずに、経営判断に役立つ“使える原価数値”を可視化する方法を紹介しよう",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "3.社内検討と意思決定",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "経営と現場の温度差を埋める導入体制",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "十分な予算と開発リソースがある企業",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの導入は、単なる業務のIT化にとどまらず、現場の生産性向上や経営判断の質の向上にも大きく貢献します",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層は、収益構造が数値によって可視化されることで、より精度の高い経営判断を行える",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "不具合対応や情報集計にかかる時間を大幅に削減し、経営層に対しても正確かつ迅速な現場情報の提供が可能になる",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "そのためには、初期の段階から製造部門・経営層・IT部門など関係部署を巻き込み、社内での検討を進めていかなければなりません",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "RFPやROI（費用対効果）の簡易試算を準備しておくと、稟議をスムーズに通しやすくなります",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "また、「一部の業務から段階的に導入する」「効果を数値で示す」などの工夫によって、現場の納得感と経営層の理解が同時に得られやすくすることも効果的です",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "また、今すぐ決められない事項も、課題として資料に明確に記載し、経営層の判断と支援を早期に得ることが重要です",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "このフェーズでいかに現場と経営、そしてベンダーが同じ方向を向けるかが、システム導入の成否を分けます",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの導入は、経営層と現場がそれぞれ納得できなければ成功しません",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "コスト管理や生産性の向上に焦点を当てる経営と、業務の簡略化や負担の軽減に関心を持つ現場との温度差を埋めるためには、",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層がトップダウンで推進しつつ、現場の声を拾い上げるボトムアップの仕組みを両立させることが、円滑な導入・定着のカギとなります",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層と現場との温度差を埋めつつ、伴走支援のあるベンダーとの関係を築きながら生産管理システムを導入していくことが、成功のためのカギとなります",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層などが現場の状況を把握できていない",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 予算に合わせてシステムを導入する場合、どのように選べばよいですか？",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "下請けを使わず自社開発を行っているか、中長期の保守に対応できる安定した経営状況か、同業界での実績が豊富か、そして窓口のコミュニケーション能力が高いかの4点です",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "予算などを踏まえながら、自社のスケールにあった生産管理システムを導入することが大事です",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの価格相場とは？価格を決める要素と費用対効果を高めるポイント",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめの生産管理システムを価格帯別で紹介し、システムの費用対効果を高める方法もわかりやすく解説しています",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの費用対効果を高めるポイント",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "自社にとって費用対効果の高いシステムを選ぼう",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "企業は自社のニーズと予算を慎重に検討し、最適なシステムを選択することが重要です",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システム導入時、初期費用と月額利用料だけで予算を組んでしまうと、予想外の追加コストが発生して驚くことがあります",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "GLOVIA iZは、生産、販売、会計、人事などの主要な業務をすべて統合し、経営情報をリアルタイムで可視化するERPパッケージです",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "は、SCSK株式会社のAIネイティブな次世代型ERPとして、経営判断と業務の効率化・自動化を実現するデジタルオファリングサービスです",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "会計、人事給与、販売、生産管理を一元管理し、AIで高度な経営判断と業務自動化を実現します",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムを導入する際は、費用対効果を意識しましょう",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "単に安いシステムを選ぶのではなく、投資に見合う効果を得られるシステムを選ぶことで、費用対効果を高められます",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "使いづらい点を改善することで、業務効率が向上し、費用対効果の向上も期待できます",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "複数のシステムを比較検討し、自社にとって本当に費用対効果の高いシステムを見つけてください",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "kintone 導入事例 意思決定が大幅に迅速化、1日1〜2時間の工数削減",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "販売管理システムをただの請求書発行システムで終わらせることなく、売上、仕入、在庫システムの連動による素早い経営分析を行えるように御社に合わせたオーダーメイドシステムとして構築いたします",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "システムが現場で使いこなせず運用されない",
+    "url": "https://www.tonops.net/tips/requirements.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場が適応できないシステムを導入すると、かえって作業者の負荷が高くなってしまい、システムの有効性や導入効果が理解されず運用されなくなる恐れがあります",
+    "url": "https://www.tonops.net/tips/requirements.html",
+    "pass": 3
+   },
+   {
+    "quote": "改善後の業務モデルをイメージしながら、運用に最適な機能、処理フローを定義します",
+    "url": "https://www.tonops.net/tips/requirements.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場での運用なども加味しながら、お客様の目指す姿を実現するためのシステム構成やカスタマイズ内容を整理し、提案します",
+    "url": "https://www.tonops.net/tips/requirements.html",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、要件定義からシステム選定、Fit/GAP分析、現場展開、運用定着までの全7ステップを実務目線で解説します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "事務工数の削減",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-OCRやタブレット入力により、紙の注文書・作業日報・請求書の処理工数が大きく減ります",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "「赤字案件を減らしたい」「事務工数を削減したい」「見積精度を上げたい」など、具体的な経営課題から逆算して導入目的を決めます",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "⑦全社展開と運用定着",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "「赤字案件比率を20%→5%に削減」「リードタイムを30日→20日に短縮」「事務工数を月50時間削減」のように、",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業では機能を絞ることが運用定着の鍵で、欲張ると現場が使いこなせません",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "で論じた適合プロファイル軸（規模・事業特性・運用習熟度）でベンダーを評価します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "1ライン・1部門で先行運用",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "3〜6ヶ月で成功事例ができれば、他部門への展開時の説得力が増します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 7: 全社展開と運用定着",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "展開と同時に、月次経営レビュー会の運用も立ち上げ、システムから得たデータで議論する文化を定着させます",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "標準機能で運用",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業では、カスタマイズが膨らむほど初期投資と保守費が増え、運用負担も大きくなります",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "Fit率が80%以上なら標準機能で運用し、業務フロー側を寄せていくのが現実解です",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "その名のとおり、製品の生産に携わる業務をトータルで管理するシステムであり、適切に運用すれば生産性向上や業務効率化を実現できます",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "目的を定めず導入すること自体を目的としてしまうと、要件の抽出やシステム選定に多くの工数がかかり、コストの増加や導入期間の長期化を招きかねません",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "課題解決に必要となる機能を洗い出すと同時に、業務フローに合わせて運用するために必須となる機能もピックアップしていきます",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージを選定し、生産管理システムを導入したあとは、運用を続けながらシステムの改善を進めていくことになります",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "課題が生じている業務に関しては迅速に解決をはかり、業務に必要な機能を順次アップデートすることで安定した運用をめざしていきます",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "スモールスタートで段階的にシステムの拡充を進めていくという場合は、運用の安定化と併行してシステムの適用範囲を拡大していきましょう",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "導入前にシミュレーションを重ねておくことで、生産管理システムに最適化した業務フローの構築や、運用マニュアルの作成などを行った状態で運用をスタートが可能となります",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に運用を開始すると、シミュレーションどおりにいかない箇所も出てくるでしょう",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "このため、運用開始後は、継続的な業務フローの改善や運用マニュアルの更新などを行い、システムの運用をブラッシュアップしていく必要があります",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なシステムエンジニアの支援により、スムーズな導入、安定的な運用が可能です",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "これまで内製システムで行っていた請求書作成業務も基幹システムからダイレクトに出力が可能となり、業務工数の削減にも成功されました",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発・運用",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "ところが、システム選定やDXを任された担当者からは「何から始めればいいのか分からない」「導入後の運用や定着に不安がある」という声も多く聞かれます",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "導入からサポートまで、安心してお任せ〜システムのご提案から、現場ヒアリング、要件定義、初期設定、操作教育、導入後の運用サポートに至るまで、すべてのプロセスを一貫してご支援〜",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "特長としては、業種・業態に合わせた柔軟な設計が可能だったり、現場の運用を変えずにシステムをフィットさせやすかったりします",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "加工・組立・修理など、複雑で現場ごとに異なる運用がある企業",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "「トライアル稼働（試験運用）」",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "を行い、実際の運用に近い状態で使い勝手やトラブルを事前にチェックしておきます",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "現場が迷わず新しいシステムを使える状態をつくることが、定着から運用までの成否を分けます",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "本稼働後の定着・運用を成功させるためには、下記のような環境づくりを行うと良いでしょう",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "社内の混乱を最小限に抑えつつ、少しずつ運用を安定させていきましょう",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "稼働後の一定期間は、ベンダーに伴走支援を依頼したり社内にサポート役を設置したりすることも効果的",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "システムは導入して終わりではなく、運用・改善していくことこそが本番です",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "二人三脚で伴走",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層と現場との温度差を埋めつつ、伴走支援のあるベンダーとの関係を築きながら生産管理システムを導入していくことが、成功のためのカギとなります",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、月100万円で受けてくれるエンジニアが2人で2ヶ月かけて開発に着手した場合、「100万円×2人×2ヶ月＝400万円」が人件費となります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "コストがかかる一方、開発後に運用・保守のサポートが受けられたり、カスタマイズを請け負ってくれたりするところが多いです",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、ハードウェアの運用を自社で行う必要があるため、ITスキルに長けた人材が求められます",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミス型は一定の初期費用が必要ですが、オーソドックスな運用と自社向けの適度なカスタマイズを両立できます",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "また、初期費用だけでなく、運用コストや保守費用なども考慮に入れる必要があります",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージ／オンプレミス型生産管理システムは、自社サーバーにシステムを導入して運用するタイプで、大規模な製造業でも利用できる拡張性の高さが特徴です",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "サーバー保守やアップデートを自社で行う必要がないため、運用負荷を軽減したい企業におすすめです",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート内容の範囲や、導入後の追加開発の有無によっても費用が増減するため、事前に必要な機能や運用体制を整理しておきましょう",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に運用を始めてから「こんな費用も必要なのか」と困ることがないよう、見落としやすい追加オプションについても事前に確認しておきましょう",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "初期設定、マスタ整備支援、コンサルティング、運用サポート",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "料金プランは業務モジュールの利用人数により変動するため、費用の無駄が出にくく、中小製造業におすすめのサービスです",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクト管理や生産進捗管理、工数管理、評価管理などの製造現場に即した業務アプリを、サンプルアプリをベースに作成可能です",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "部品マスタの事前登録なしで運用できるほか、データ取り込み機能により、入力ミスや発注漏れ、手配ミスを削減できるほか、資材調達の入力工数も大幅に削減できます",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "導入時には専門チームが業務フローの検討からカスタマイズ、インフラ構築までを一貫して担当し、稼働後も専用の保守窓口が運用を支えます",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "既存のExcelやAccessデータとの連携も可能で、柔軟な運用体制を構築できます",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "専門チームが導入から運用定着まで支援しシステムの実稼働を保証",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "工場規模の大小に関わらず、計画、製造工程、出荷まで、製造業で必要とされる生産管理の機能を網羅しています",
+    "url": "https://www.tonops.net/tips/requirements.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の中小企業に専任IT担当者はいないことが多く、現場の作業者が日々入力する仕組みは",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "で論じた適合プロファイル軸（規模・事業特性・運用習熟度）でベンダーを評価します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムを製造業の中小企業で導入するとき、判断材料になるのは費用の総額ではなく、",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "ITコーディネーター・中小企業診断士との3層協業モデルで、Step 1〜7の伴走支援に対応",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版 中小企業白書",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "（中小企業庁、2024年）",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "中小規模製造業者の製造分野におけるDX推進のためのガイド",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "■ 東京都中小企業向け",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "■ 中小企業庁「みらデジ」デジタル化支援者",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業X」とは？中小企業が直面する変化と勝機",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムには、生産計画の立案を支援する機能をはじめ、見積り・受注・出荷・売上・在庫を管理して製品の過不足を抑制する販売管理機能や、仕入業務を管理する購買管理機能、さらに製造管理・在庫管理・原価管理など、製造に関わる機能が網羅されており、製造業の複数部門における生産性向上や業務効率化を実現するソリューションとして注目されています",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "また、見積り・受注・出荷・売上などを管理する販売管理機能は、余剰在庫を防止でき、所要量計算機能では生産に必要な原材料・資材の数量や調達時期の自動計算が可能です",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向け（特定の業種や生産方式に対応）",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、特定の業種にしか対応していない中小企業向けのシステムを中堅以上の企業に導入すると、複雑な業務に対応できません",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模から中規模向け生産管理システム",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の規模や業務の複雑さ、導入目的に合わせて「中小企業向け」「中堅以上の企業向け」「ERP対応型」の3つのタイプから選ぶ必要があります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "特定の業種や生産方式に特化した中小企業向けのタイプから、複数の業種・生産方式に対応できる中堅企業向け、 tender、そして全社的な基幹システムをカバーするERP対応型の中堅以上向けタイプが存在します",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、既存のパッケージソフトを利用する場合は提供形態やユーザー規模によって導入コストが大きく変動します",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの企業規模別の価格目安",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模企業におすすめの生産管理システム",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業におすすめの生産管理システム",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業におすすめの生産管理システム",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの価格相場は、企業規模や必要な機能によって大きく異なります",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "次の表は、企業規模別の一般的な価格帯をまとめたものです",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模企業",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "高機能、大規模カスタマイズ可能、複数拠点対応",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、クラウド型サービスの発展により、中小企業でも比較的低コストで高機能なシステムを導入できるケースが増えています",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージ／オンプレミス型生産管理システムは、自社サーバーにシステムを導入して運用するタイプで、大規模な製造業でも利用できる拡張性の高さが特徴です",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用は数十万円〜数百万円以上と高額になることが多いですが、その分カスタマイズ性が高く、大規模な製造業や複雑な管理プロセスが必要な企業に適しています",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "料金は、導入範囲、システム規模、カスタマイズ量、必要なモジュール数、保守サポートの内容などによって大きく変動します",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模企業におすすめの、100万円以内で導入できる生産管理システムを紹介します",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業におすすめの生産管理システムを紹介します",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "専任サポートスタッフによる電話サポートのほかに、訪問・オンラインサポートや無料講習会も実施しており、中小・中堅企業におすすめのサービスです",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "販売管理システムをただの請求書発行システムで終わらせることなく、売上、仕入、在庫システムの連動による素早い経営分析を行えるように御社に合わせたオーダーメイドシステムとして構築いたします",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "受注・在庫・出荷・売上などを管理するシステム",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "勤怠・給与・従業員情報などを管理するシステム",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマイズの規模にもよりますが、目安として100万円以上の予算は計上しておいたほうがよいでしょう",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発のプロジェクトには、規模の大きさに関わらず管理者はつきものです",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発の規模が大きくなると、それに比例して進捗管理のコストも大きくなります",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "大規模システムの開発であれば、設計の工数をきちんと確保し、ユーザーレビューの完了後にプログラミングと進んでいくことが多いです",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、中小規模のシステムやWebシステムなどでは、設計に工数をかけるよりも、細かな単位で実装とテストを繰り返して開発を行う「アジャイル開発」が主流になりつつあります",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発の規模感や目的にもよりますが、利用できる補助金はおもに4種類存在します",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "コロナの影響で売上が減少して事業転換を計画している",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "小規模事業者持続化補助金",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "関西・神戸市の中小企業に寄り添うパートナーコンサルティング",
+    "url": "https://n-pe.jp/blog-category/production-management-system/column127/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の外部CIOとは何か？導入のメリットと、実際に求められている役割",
+    "url": "https://n-pe.jp/blog-category/production-management-system/column127/",
+    "pass": 3
+   },
+   {
+    "quote": "神戸市を拠点に中小企業のIT活用・業務改善・事業推進を支援",
+    "url": "https://n-pe.jp/blog-category/production-management-system/column127/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムは、大企業だけのものではありません",
+    "url": "https://note.com/ripla_business/n/n39e81514b0ad",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、業務効率の向上と売上増加を両立しています",
+    "url": "https://note.com/ripla_business/n/n39e81514b0ad",
+    "pass": 3
+   },
+   {
+    "quote": "売上計上のタイミングと締め処理はどうしますか",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業向けの手順書にある「業務フロー図を全工程分作成する」といった進め方は、そのままでは現実的ではありません",
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "pass": 3
+   },
+   {
+    "quote": "中小規模製造業者の製造分野におけるデジタルトランスフォーメーション(DX)推進のためのガイド(IPA)",
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "pass": 3
+   },
+   {
+    "quote": "■ 東京都中小企業向け",
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "pass": 3
+   },
+   {
+    "quote": "■ 中小企業庁「みらデジ」デジタル化支援者",
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "pass": 3
+   },
+   {
+    "quote": "すべてをシステムに反映しようとすると、開発規模が膨らみすぎる",
+    "url": "https://note.com/ripla_business/n/n1328fc6f3069",
+    "pass": 3
+   },
+   {
+    "quote": "受注生産か見込み生産か、品目数の規模、工程数の概算、BOM構造の概要（階層数・品目点数）を記載します",
+    "url": "https://note.com/ripla_business/n/n1328fc6f3069",
+    "pass": 3
+   },
+   {
+    "quote": "この情報がないと、ベンダーは「どの程度の規模・複雑度のシステムが必要か」を判断できず、見積金額がバラバラになります",
+    "url": "https://note.com/ripla_business/n/n1328fc6f3069",
+    "pass": 3
+   },
+   {
+    "quote": "伝わるRFPには、業務要件だけでなく規模・連携・数値目標の整理が必要です",
+    "url": "https://note.com/ripla_business/n/n1328fc6f3069",
+    "pass": 3
+   },
+   {
+    "quote": "売上・仕入・在庫管理",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "あわせて、標準機能と自社業務のギャップをどう埋めるか、費用と回収をどう見積もるか、導入で陥りがちな5つの失敗パターンと回避策、クラウド型が中小製造業に向く理由まで網羅的に整理します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "「カスタマイズに50万円かかる」という金額の絶対値ではなく、",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば手作業が月5時間残るのを50万円で解消するなら、時給2,000円換算で年12万円の削減に対して50万円の支出です",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型なら環境構築費20万円・月額3万円のスモールプランから始められ、運用負担もベンダー側が引き受けてくれます",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "スモールプラン20万円／スタンダードプラン40万円",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "スモールプラン3万円／スタンダードプラン5万円",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "図面のAI-OCRはスタンダード以上の有料オプション（月額1万円）です",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "は環境構築費20万円と月額3万円×12ヶ月＝36万円で、合計56万円",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "事務工数の削減：注文書と請求書の転記が月20時間減り、時給2,000円換算で月4万円、年48万円",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "赤字案件の早期発見：年間受注100件のうち10件が1件あたり平均10万円の赤字（年100万円の損失）で、その半分を着手前・仕掛中に検知して手を打てれば年50万円",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "合計で年98万円",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "2.提供形態で考える生産管理システムの費用相場",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "3.費用を基準にしたシステムの選び方",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "4.費用のほかに押さえておきたいこと",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "233万円～",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000円～100万円",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "10～1,000万円",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、月100万円で受けてくれるエンジニアが2人で2ヶ月かけて開発に着手した場合、「100万円×2人×2ヶ月＝400万円」が人件費となります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "【調査】生産管理システム23サービスの費用・料金比較表",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型7サービスの料金表",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージ／オンプレミス型16サービスの料金表",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "〜100万円程度",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 製造業での生産管理システム導入の価格相場",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "1-2. システムの相場は？",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "2. 製造業での生産管理システム導入の初期費用・選び方",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "複数人で使うことが多い場合、最低でも月額10万円程度は必要だと考えておくとよいでしょう",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマイズの規模にもよりますが、目安として100万円以上の予算は計上しておいたほうがよいでしょう",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システム開発のおおまかな見積金額は、1,000万〜数億円と大きく開きがあります",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "年間で回収できる効果が仮に月20万円だとすると、導入が6か月遅れることの機会損失は120万円です",
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "pass": 3
+   },
+   {
+    "quote": "料金は環境構築費がスモールプラン20万円・スタンダードプラン40万円、月額費がスモールプラン3万円・スタンダードプラン5万円（いずれも税抜、2026年8月時点）です",
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 【提供形態別】生産管理システムの費用相場",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "3. 生産管理システムの費用内訳を正しく理解する",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "4. 生産管理システムの費用が高額になる原因と抑えるためのポイント",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "6. 費用面で失敗しないための選定チェックリスト",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "「赤字案件を減らしたい」「事務工数を削減したい」「見積精度を上げたい」など、具体的な経営課題から逆算して導入目的を決めます",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "特注品見積精度",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "次回見積の精度向上、値上げ交渉、業務改善に反映します",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "このサイクルを6ヶ月〜1年継続すると、見積精度・案件採算・利益体質が改善に向かいます",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "また、プロジェクト責任者に経営者を置き、プロジェクトリーダーや各部門の推進担当に現場のキーマンをアサインすることも欠かせません",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "また確定・内示、受入実績といった情報もリアルタイムで反映されるようになり、計画精度も向上しました",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層は、収益構造が数値によって可視化されることで、より精度の高い経営判断を行える",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "マスタデータの精度が低いと、システムの性能を十分に引き出せません",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "専門チームが導入から運用定着まで支援しシステムの実稼働を保証",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、在庫管理の効率化、生産計画の精度向上、原価管理の徹底など、具体的な課題を洗い出します",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムは、製造業における「モノの流れ」と「情報の流れ」を統合的かつ総合的に管理するシステムで、効率的かつ精度の高い生産管理を実現し、生産における業務フローを最適化します",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "工程実績の反映が遅く、生産計画の運用精度が上がらない",
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般的なケースですと、納品から一定の期間は開発元の会社が「瑕疵担保責任」 を負うケースが多く、期間内は開発元の会社が不具合の修正を行います",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、責任期間を過ぎると基本的には別途費用が発生します",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "営業が持ってくる情報の精度が不明",
+    "url": "https://n-pe.jp/blog-category/production-management-system/column127/",
+    "pass": 3
+   },
+   {
+    "quote": "計画の責任者",
+    "url": "https://n-pe.jp/blog-category/production-management-system/column127/",
+    "pass": 3
+   },
+   {
+    "quote": "ITの要求の精度が低いと、見積りのブレ幅がどんどん大きくなる！！",
+    "url": "https://n-pe.jp/blog-category/production-management-system/column127/",
+    "pass": 3
+   },
+   {
+    "quote": "これまで月次でしか見えなかった原価が、案件ごと・工程ごとに見えるようになると、赤字案件の早期発見や見積精度の改善につながります",
+    "url": "https://note.com/ripla_business/n/n39e81514b0ad",
+    "pass": 3
+   },
+   {
+    "quote": "ある企業では、需要予測の精度向上によりリードタイムを50%短縮し、納期遅延によるクレームが激減して顧客満足度が大幅に向上したと報告されています",
+    "url": "https://note.com/ripla_business/n/n39e81514b0ad",
+    "pass": 3
+   },
+   {
+    "quote": "投資情報の免責事項",
+    "url": "https://note.com/ripla_business/n/n39e81514b0ad",
+    "pass": 3
+   },
+   {
+    "quote": "運用が未確定のままでは見積精度が上がらず、導入後に追加費用・追加期間が発生しやすくなります",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "可能であれば、実際の運用モデル（成功事例）を確認しながら固めることで、見積精度と導入の確度が大きく高まります",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "導入の最優先目的は何ですか（納期遵守／在庫削減／原価精度／負荷平準化など）",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "導入後の運用責任者（業務オーナー）は誰ですか",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理の目的は何ですか（見積精度／実績原価／利益管理など）",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "このような手順で進めると、比較の精度と導入の確度が大きく高まります",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の実績が一定期間貯まってからでないと精度が出ません",
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "pass": 3
+   },
+   {
+    "quote": "連携範囲が曖昧なRFPが多く、これがベンダー提案の精度を下げる最大の原因の一つです",
+    "url": "https://note.com/ripla_business/n/n1328fc6f3069",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場を直接見たベンダーは、提案の精度が格段に上がります",
+    "url": "https://note.com/ripla_business/n/n1328fc6f3069",
+    "pass": 3
+   },
+   {
+    "quote": "「提案提出前に工場見学を実施します」と書くだけで、ベンダーの提案精度が格段に上がります",
+    "url": "https://note.com/ripla_business/n/n1328fc6f3069",
+    "pass": 3
+   },
+   {
+    "quote": "投資情報の免責事項",
+    "url": "https://note.com/ripla_business/n/n1328fc6f3069",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりの精度を高めるには、実際の業務データを活用して事前にシステムを検証することが有効です",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらを金額に換算した上でROI計算に組み込むと、投資判断の精度が高まるでしょう",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば樹脂成形業では、金型や材料ロットの管理、原価把握の精度向上が効果の中心になります",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/seisan-kanri-system-hiyou",
+    "pass": 3
+   },
+   {
+    "quote": "相場観と同じく、制度の勘所を押さえておくこと自体が、投資判断の精度を高めてくれます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/seisan-kanri-system-hiyou",
+    "pass": 3
+   },
+   {
+    "quote": "そのぶん、生産計画エンジンの精度や、他システムとの連携に費用が向かいます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/seisan-kanri-system-hiyou",
+    "pass": 3
+   },
+   {
+    "quote": "枚の紙にまとめておけば、営業担当との初回打ち合わせで話が早く進み、精度の高い見積もりが返ってきます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/seisan-kanri-system-hiyou",
+    "pass": 3
+   },
+   {
+    "quote": "費用の話は単体で完結させず、機能・効果とセットで見ることで投資判断の精度が上がります",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/seisan-kanri-system-hiyou",
+    "pass": 3
+   },
+   {
+    "quote": "一般的にプロジェクトの責任者、プロジェクトリーダー、ERPのモジュールの担当者に役割が分かれます",
+    "url": "https://www.oro.com/zac/blog/requirement-definition/",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "中小製造業では大手ERPは過剰機能になることが多く、",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "選定方法や注意点も解説｜生産管理システムコラム｜生産管理システム「Factory-ONE 電脳工場」｜日立ソリューションズ西日本",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 日立ソリューションズ西日本",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "加えてDXが声高に叫ばれる現代においては、競合他社に後れをとらないためにも、データを活用して顧客動向を的確に捉えつつ、効率的に生産・・・",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズ西日本 製品担当者からのオススメ！",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズ西日本の導入事例",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、日立ソリューションズ西日本の自動車部品製造業における導入実績が豊富な点、業務内容やシステム要件への理解度が高かった点も評価のポイントでした",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズ西日本 製品担当者からコメント",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "日立ソリューションズ西日本では要件定義から作業支援することができます",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理の導入で悩まれているのであればぜひ日立ソリューションズ西日本へお声がけください",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "日立グループTOP",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "Necessary",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "cookielawinfo-checkbox-necessary",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category \"Necessary\".",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "記事をシェア",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "競合優位性に優れたサービス開発を計画している",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "スキルシェア",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "よかったらシェアしてね！",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "競合優位性に直結する業務プロセスは維持・強化し、業界標準に合わせられる業務はシステムのベストプラクティスに寄せる、というメリハリが必要です",
+    "url": "https://note.com/ripla_business/n/n1328fc6f3069",
+    "pass": 3
+   },
+   {
+    "quote": "大手グループ子会社にも適したERP",
+    "url": "https://www.oro.com/zac/blog/requirement-definition/",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "認定パートナー",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "②受注・工程実績登録",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "受注・工程実績登録",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "■ JRCA認定ISMS審査員補",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のものづくりを担っている職人や工場の魅力を伝えるため、登録企業様のストーリーをものづくりの専門家がインタビューし、専属の写真家が撮影した",
+    "url": "https://factoryadvance.jp/blog/422/",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なシステムエンジニアの支援により、スムーズな導入、安定的な運用が可能です",
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "pass": 3
+   },
+   {
+    "quote": "登録〜処理〜出力までの動作を一連で確認する「結合テスト」実施",
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "pass": 3
+   },
+   {
+    "quote": "生産計画登録",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは生産計画登録や資材調達、原価計算といった生産計画にあたる機能が備わっているか確認してください",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級9000社以上のシステム開発・WEB制作会社が登録",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "会員登録には、",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムでは、導入前の要件整理やマスタ登録、帳票設定など、",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "バーコード対応のタブレットを活用することで簡単に登録ができるため、業務ミスや漏れ防止に役立つほか、現場に合わせたシステム連携に対応し、ノーコードで自社に合ったシステムを構築できます",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "部品マスタの事前登録なしで運用できるほか、データ取り込み機能により、入力ミスや発注漏れ、手配ミスを削減できるほか、資材調達の入力工数も大幅に削減できます",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "マスタごと・受注ごとに関連資料を登録・管理できるため、情報の社内共有に役立つほか、社内の状況を可視化することで、業務改善と作業効率の向上を図ります",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "記載されている会社名および商品・サービス名（ロゴマーク等を含む）は、各社の商標または各権利者の登録商標です",
+    "url": "https://boxil.jp/mag/a9525/",
+    "pass": 3
+   },
+   {
+    "quote": "筆者の経験から判断すると、おおよその人月単価の目安は下記の通りです",
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "pass": 3
+   },
+   {
+    "quote": "事業会社でIT・DXを経験したプロフェッショナルが、お客様の事業・ユーザー・業務に最適化したシステム/プロダクト開発、デー",
+    "url": "https://note.com/ripla_business/n/n39e81514b0ad",
+    "pass": 3
+   },
+   {
+    "quote": "事業会社でIT・DXを経験したプロフェッショナルが、お客様の事業・ユーザー・業務に最適化した「高品質」な「オーダーメイド型システム」を開発",
+    "url": "https://note.com/ripla_business/n/n39e81514b0ad",
+    "pass": 3
+   },
+   {
+    "quote": "登録情報・パスワード変更",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "認定パートナー",
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "pass": 3
+   },
+   {
+    "quote": "受注を登録する",
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "pass": 3
+   },
+   {
+    "quote": "受注内容の登録と工番発行",
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "pass": 3
+   },
+   {
+    "quote": "受注登録と工番の自動発行",
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "pass": 3
+   },
+   {
+    "quote": "■ JRCA認定ISMS審査員補",
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のものづくりを担っている職人や工場の魅力を伝えるため、登録企業様のストーリーをものづくりの専門家がインタビューし、専属の写真家が撮影した",
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "pass": 3
+   },
+   {
+    "quote": "「要件定義って何から始めればいい？」「現場の業務を整理したいけど、どこまで書けばベンダーに伝わるの？」——このような不安を抱えながら、気づけばプロジェクトが止まってしまった経験はないでしょうか",
+    "url": "https://note.com/ripla_business/n/n1328fc6f3069",
+    "pass": 3
+   },
+   {
+    "quote": "「なんとなく分かる」「長年の経験で判断している」——製造現場には、熟練者の頭の中にしか存在しない業務ルールが大量に潜んでいます",
+    "url": "https://note.com/ripla_business/n/n1328fc6f3069",
+    "pass": 3
+   },
+   {
+    "quote": "事業会社でIT・DXを経験したプロフェッショナルが、お客様の事業・ユーザー・業務に最適化した「高品質」な「オーダーメイド型システム」を開発",
+    "url": "https://note.com/ripla_business/n/n1328fc6f3069",
+    "pass": 3
+   },
+   {
+    "quote": "マスターデータの登録（CSVで取り込み）",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、マスターデータの登録など専門知識が不要なものは社内で対応できる場合があります",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期設定やマスター登録の支援は含まれるか",
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入補助金は、あらかじめ事務局に登録された「登録ツール」を導入する際に、その費用の一部を補助する制度です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/seisan-kanri-system-hiyou",
+    "pass": 3
+   },
+   {
+    "quote": "や、登録済みのパッケージソフトが対象になりやすいという性格があります",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/seisan-kanri-system-hiyou",
+    "pass": 3
+   },
+   {
+    "quote": "逆に、自社専用のスクラッチ開発や、登録ツールに含まれない大幅なカスタマイズ費用は対象外になりやすい点に注意が必要です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/seisan-kanri-system-hiyou",
+    "pass": 3
+   },
+   {
+    "quote": "つまり「登録された標準的な仕組みを、なるべくそのまま使う」ほど、制度と噛み合うわけです",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/seisan-kanri-system-hiyou",
+    "pass": 3
+   },
+   {
+    "quote": "導入を検討しているシステムが登録ツールに入っているか、そして御社が組もうとしている構成（月額プラン・オプション）が補助対象の範囲に収まっているか",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/seisan-kanri-system-hiyou",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドERP開発・導入の経験から蓄積された知見に基づき、業務効率化・管理会計・原価計算・ERPに関するテーマを中心に、生産性向上に役立つ情報をお届けします",
+    "url": "https://www.oro.com/zac/blog/requirement-definition/",
+    "pass": 3
+   },
+   {
+    "quote": "無料メルマガ登録",
+    "url": "https://www.oro.com/zac/blog/requirement-definition/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.techs-s.com/media/show/131",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tonops.net/tips/requirements.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/422/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaizen-navi.biz/featured-it-trends/what-is-requirements-definition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boxil.jp/mag/a9525/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meetsmore.com/product-services/production-management-system/media/250579",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biz.ne.jp/matome/2005167/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digi-mado.jp/articles/f1d7f56b-7599-48f2-bfc6-95fc18c0b9e1/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodcontrol-manufacturing.com/case-study/large-companies.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n-pe.jp/blog-category/production-management-system/column127/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ripla_business/n/n39e81514b0ad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/casestudies/service/production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartcraft.jp/blog/production-management-system-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/point/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seisan-navi.com/seisan-kanri-system-requirements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/2688/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ripla_business/n/n1328fc6f3069",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onamae.com/business/article/33667/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/it_policy/keiyaku/model_keiyakusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://home.jeita.or.jp/upload_file/20190416165841_IrRVTQ3y0s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.startchg.com/whitepaper/business-requirements-before-system-implementation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seisan-navi.com/erp-system-requirements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/seisan-kanri-system-hiyou",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/production_management/article/failure_case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/zac/blog/requirement-definition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://linktach.com/system-dev/business-system-introduction-flow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atsindustrialautomation.com/blog-posts/before-the-build-how-to-define-requirements-that-deliver-results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/7f2bc41156a04ecb94a6c04546f122af_MIT16_842F15_Ses2_Req.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sebokwiki.org/wiki/System_Requirements_Definition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ops.fhwa.dot.gov/seits/sections/section3/3_3_6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/blogs/alm/types-of-requirements?srsltid=AYCX9vJHeE9jQFBpOq_5UGaTJMt4r8muWuW233tGdxujqyxmBiMhAELH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nasa.gov/reference/4-2-technical-requirements-definition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pmi.org/learning/library/product-requirements-definition-process-foundation-1894",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/blogs/alm/types-of-requirements?srsltid=AYCX9vIu4AsBqAhmhYMgxuFJyJBKYQ6ogB6ZGVfnrYDGHTjG20J3X1lJ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/merry_lupine226/n/nb118db6c8ac6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlassian.com/agile/product-management/requirements",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openbom.com/blog/how-to-define-product-requirements-for-your-supplier",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "生産管理システム導入前の業務整理・要件定義",
+   "results": [
+    "https://www.techs-s.com/media/show/131",
+    "https://www.tonops.net/tips/requirements.html",
+    "https://factoryadvance.jp/blog/422/",
+    "https://kaizen-navi.biz/featured-it-trends/what-is-requirements-definition",
+    "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "https://www.onamae.com/business/article/33667/",
+    "https://smartcraft.jp/blog/production-management-system-guide/",
+    "https://seisan-navi.com/seisan-kanri-system-requirements/",
+    "https://note.com/ripla_business/n/n1328fc6f3069"
+   ]
+  },
+  {
+   "query": "生産管理システム導入前の業務整理・要件定義 費用 相場",
+   "results": [
+    "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "https://boxil.jp/mag/a9525/",
+    "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "https://factoryadvance.jp/blog/422/",
+    "https://meetsmore.com/product-services/production-management-system/media/250579",
+    "https://www.biz.ne.jp/matome/2005167/",
+    "https://giginc.co.jp/blog/giglab/coresystem-cost",
+    "https://www.nttdata-kansai.co.jp/media/061/",
+    "https://www.prodcontrol-manufacturing.com/basic-knowledge/price-market.html",
+    "https://blog.xincere.jp/articles/yoken-teigi-cost"
+   ]
+  },
+  {
+   "query": "生産管理システム導入前の業務整理・要件定義 事例 中堅企業",
+   "results": [
+    "https://digi-mado.jp/articles/f1d7f56b-7599-48f2-bfc6-95fc18c0b9e1/",
+    "https://www.prodcontrol-manufacturing.com/case-study/large-companies.html",
+    "https://n-pe.jp/blog-category/production-management-system/column127/",
+    "https://note.com/ripla_business/n/n39e81514b0ad",
+    "https://www.otsuka-shokai.co.jp/erpnavi/casestudies/service/production/",
+    "https://www.techs-s.com/media/show/131",
+    "https://factoryadvance.jp/blog/422/",
+    "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "https://seisan-navi.com/seisan-kanri-system-requirements/",
+    "https://factoryadvance.jp/blog/2688/"
+   ]
+  },
+  {
+   "query": "生産管理システム導入前の業務整理・要件定義 工場 製造業",
+   "results": [
+    "https://factoryadvance.jp/blog/422/",
+    "https://www.techs-s.com/media/show/131",
+    "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "https://www.tonops.net/tips/requirements.html",
+    "https://smartcraft.jp/blog/production-management-system-guide/",
+    "https://kaizen-navi.biz/featured-it-trends/what-is-requirements-definition",
+    "https://www.prodcontrol-manufacturing.com/basic-knowledge/point/",
+    "https://seisan-navi.com/seisan-kanri-system-requirements/",
+    "https://factoryadvance.jp/blog/2688/"
+   ]
+  },
+  {
+   "query": "生産管理システム導入前の業務整理・要件定義 責任 範囲 免責",
+   "results": [
+    "https://www.techs-s.com/media/show/131",
+    "https://www.tonops.net/tips/requirements.html",
+    "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "https://www.onamae.com/business/article/33667/",
+    "https://kaizen-navi.biz/featured-it-trends/what-is-requirements-definition",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.meti.go.jp/policy/it_policy/keiyaku/model_keiyakusyo.pdf",
+    "https://home.jeita.or.jp/upload_file/20190416165841_IrRVTQ3y0s.pdf",
+    "https://seisan-navi.com/seisan-kanri-system-requirements/",
+    "https://factoryadvance.jp/blog/2688/"
+   ]
+  },
+  {
+   "query": "生産管理システム導入前の業務整理・要件定義 経営判断 損失額",
+   "results": [
+    "https://factoryadvance.jp/blog/422/",
+    "https://www.onamae.com/business/article/33667/",
+    "https://www.techs-s.com/media/show/131",
+    "https://n-pe.jp/blog-category/production-management-system/column127/",
+    "https://note.com/ripla_business/n/n1328fc6f3069",
+    "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/seisan-kanri-system-hiyou",
+    "https://it-trend.jp/production_management/article/failure_case"
+   ]
+  },
+  {
+   "query": "生産管理システム導入前の業務整理・要件定義 スタートアップ",
+   "results": [
+    "https://www.techs-s.com/media/show/131",
+    "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "https://factoryadvance.jp/blog/422/",
+    "https://kaizen-navi.biz/featured-it-trends/what-is-requirements-definition",
+    "https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/",
+    "https://www.onamae.com/business/article/33667/",
+    "https://smartcraft.jp/blog/production-management-system-guide/",
+    "https://www.tonops.net/tips/requirements.html",
+    "https://www.oro.com/zac/blog/requirement-definition/",
+    "https://seisan-navi.com/seisan-kanri-system-requirements/"
+   ]
+  },
+  {
+   "query": "requirements definition before production system implementation",
+   "results": [
+    "https://atsindustrialautomation.com/blog-posts/before-the-build-how-to-define-requirements-that-deliver-results/",
+    "https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/7f2bc41156a04ecb94a6c04546f122af_MIT16_842F15_Ses2_Req.pdf",
+    "https://sebokwiki.org/wiki/System_Requirements_Definition",
+    "https://ops.fhwa.dot.gov/seits/sections/section3/3_3_6.html",
+    "https://www.ptc.com/en/blogs/alm/types-of-requirements?srsltid=AYCX9vJHeE9jQFBpOq_5UGaTJMt4r8muWuW233tGdxujqyxmBiMhAELH",
+    "https://www.nasa.gov/reference/4-2-technical-requirements-definition/",
+    "https://visuresolutions.com/alm-guide/requirements-definition/",
+    "https://www.jamasoftware.com/requirements-management-guide/writing-requirements/types-of-requirements/",
+    "https://acqnotes.com/acqnote/tasks/requirement-types",
+    "https://sebokwiki.org/wiki/System_Implementation"
+   ]
+  },
+  {
+   "query": "requirements definition before production system implementation startup pricing",
+   "results": [
+    "https://atsindustrialautomation.com/blog-posts/before-the-build-how-to-define-requirements-that-deliver-results/",
+    "https://www.pmi.org/learning/library/product-requirements-definition-process-foundation-1894",
+    "https://www.ptc.com/en/blogs/alm/types-of-requirements?srsltid=AYCX9vIu4AsBqAhmhYMgxuFJyJBKYQ6ogB6ZGVfnrYDGHTjG20J3X1lJ",
+    "https://note.com/merry_lupine226/n/nb118db6c8ac6?hl=en",
+    "https://www.atlassian.com/agile/product-management/requirements",
+    "https://www.openbom.com/blog/how-to-define-product-requirements-for-your-supplier",
+    "https://os-system.com/blog/how-to-write-a-specification-for-a-product-full-guide/",
+    "https://embrox.com/blog/Creating-requirements-startup",
+    "https://digitalcommons.morris.umn.edu/cgi/viewcontent.cgi?article=1068&context=horizons",
+    "https://www.long-intl.com/articles/defining-project-requirements/"
+   ]
+  },
+  {
+   "query": "site:note.com 生産管理システム導入前の業務整理・要件定義",
+   "results": [
+    "https://note.com/ripla_business/n/n1328fc6f3069",
+    "https://note.com/ripla_business/n/n2a9abdb5ed42",
+    "https://note.com/masauchi/n/n96468a38fd23",
+    "https://note.com/ripla_business/n/n36d90e923a3e",
+    "https://note.com/tsysk/n/n5773fc6b8f53",
+    "https://note.com/ripla_business/n/n0bcb9dd5dd49",
+    "https://note.com/ripla_business/n/n4950a927ec46",
+    "https://note.com/ripla_business/n/ne67207ebf333",
+    "https://note.com/ripla_business/n/n13a3c0d18de0",
+    "https://note.com/ripla_business/n/n43e848cb311f"
+   ]
+  },
+  {
+   "query": "site:x.com 生産管理システム導入前の業務整理・要件定義",
+   "results": [
+    "https://x.com/KUROKAWA_KKk/status/2081892588517490843",
+    "https://x.com/i/article/2113410029303091698",
+    "https://x.com/shota7180/article/2072899412892995931",
+    "https://x.com/KagawaTomo/status/2117512280791527638",
+    "https://x.com/gura105/status/2077153028982133080",
+    "https://x.com/shin_sasaki19/status/2034461397644607925",
+    "https://x.com/resocia_rpa",
+    "https://x.com/luigi_jpn/status/2112692683017949491",
+    "https://x.com/anytutorai/status/2113179556404404442"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 生産管理システム導入前の業務整理・要件定義",
+   "results": [
+    "https://uz.linkedin.com/jobs/view/%E3%80%90s110%E3%80%91dx%E4%BC%81%E7%94%BB%E3%83%BB%E6%A5%AD%E5%8B%99%E6%94%B9%E9%9D%A9%E6%8E%A8%E9%80%B2%E6%8B%85%E5%BD%93-%E6%A5%AD%E5%8B%99%E6%94%B9%E9%9D%A9%E6%8E%A8%E9%80%B2%E9%83%A8-%E9%AB%98%E7%A0%82%EF%BC%89-at-kobe-steel-ltd-4393448799",
+    "https://jp.linkedin.com/jobs/view/%E2%98%86%E3%80%90%E6%9D%B1%E4%BA%AC%E9%83%BD-%E8%99%8E%E3%83%8E%E9%96%80-%E3%80%91%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E8%A3%BD%E9%80%A0dx%E3%83%BB%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E6%8E%A8%E9%80%B2%E3%80%90pid-%E9%9B%BB%E5%AD%90%E6%9D%90%E6%96%99%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%80%91-at-panasonic-4393795643",
+    "https://jp.linkedin.com/jobs/view/vct-manufacturing-erp-consultant-%E2%80%BB%E6%96%B0%E8%A6%8F%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%83%81%E3%83%BC%E3%83%A0-at-kpmg%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%EF%BC%8Fkpmg-japan-4475800413",
+    "https://jp.linkedin.com/jobs/view/%E8%88%AA%E7%A9%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%EF%BC%8F%E3%80%90%E6%84%9B%E7%9F%A5%E3%80%91%E9%96%8B%E7%99%BA%E5%9F%BA%E7%9B%A4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%EF%BC%88plm%EF%BC%89%E6%94%B9%E5%96%84%E5%8F%8A%E3%81%B3%E6%8A%80%E8%A1%93%E6%83%85%E5%A0%B1%E7%AE%A1%E7%90%86-at-mitsubishi-heavy-industries-4486142646",
+    "https://jp.linkedin.com/jobs/view/%E8%AA%BF%E9%81%94%E9%83%A8%E9%96%80dx%E6%8E%A8%E9%80%B2%E3%83%BB%E6%A5%AD%E5%8B%99%E6%94%B9%E9%9D%A9%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88-%EF%BD%9E%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E8%AA%BF%E9%81%94%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E5%89%B5%E3%82%8Bit%E4%BA%BA%E8%B2%A1%E5%8B%9F%E9%9B%86%EF%BD%9E-at-hitachi-high-tech-corporation-4464748875",
+    "https://jp.linkedin.com/in/miyoko-yamada",
+    "https://jp.linkedin.com/in/keisuke-sato-956938366",
+    "https://jp.linkedin.com/jobs/view/wes%E9%96%8B%E7%99%BA%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%E5%80%99%E8%A3%9C%EF%BC%88%E7%AC%AC%E4%BA%8C%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8%EF%BC%89-at-mujin-4481743604",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E6%A1%88%E4%BB%B6no-1834%EF%BC%9E%E3%80%90%EF%BD%9E1500%E4%B8%87%E5%86%86%E3%80%91%E7%A4%BE%E9%95%B7%E5%AE%A4-%238211-%E7%A4%BE%E5%86%85ai%E6%88%A6%E7%95%A5%E6%8E%A8%E9%80%B2%E8%B2%AC%E4%BB%BB%E8%80%85%EF%BD%9C%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%81%AEdx%E3%82%92%E6%94%AF%E3%81%88%E3%82%8Bai%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88-at-linkard-inc-4486195066",
+    "https://jp.linkedin.com/pulse/日本のsap導入の要件定義のポイント-敏敬-冨田-lwyvc"
+   ]
+  },
+  {
+   "query": "site:facebook.com 生産管理システム導入前の業務整理・要件定義",
+   "results": [
+    "https://www.facebook.com/p/Operix-100092290275875/",
+    "https://www.facebook.com/amelajapan/posts/dx%E3%81%8C%E3%81%86%E3%81%BE%E3%81%8F%E3%81%84%E3%81%8B%E3%81%AA%E3%81%84%E5%8E%9F%E5%9B%A0%E3%81%AF%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%81%B8%E5%AE%9A%E3%81%AE%E5%89%8D%E3%81%AB%E3%81%82%E3%82%8B%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A9%E3%81%AE%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%99%E3%82%8B%E3%81%8B%E3%81%8B%E3%82%89%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9Fdx%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%8C%E7%8F%BE%E5%A0%B4%E3%81%A7%E5%8D%81%E5%88%86%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84%E3%81%BE%E3%81%BE%E7%B5%82%E3%82%8F%E3%81%A3%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%9D%E3%81%AE/122310464750220139/",
+    "https://www.facebook.com/matchingood/?locale=ga_IE",
+    "https://www.facebook.com/resocia.rpa/",
+    "https://www.facebook.com/p/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BEManPlus-61573028767395/",
+    "https://www.facebook.com/amelajapan/?locale=vi_VN",
+    "https://www.facebook.com/TDRI.Japan/posts/-apecai%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%9B%BD%E9%9A%9B%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E5%A0%B1%E5%91%8A-ai%E6%99%82%E4%BB%A3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E5%BD%B9%E5%89%B2%E3%81%AF%E3%81%A9%E3%81%86%E5%A4%89%E3%82%8F%E3%82%8B%E3%81%AE%E3%81%8B-ai%E3%81%AB%E3%82%88%E3%82%8B%E7%94%A3%E6%A5%AD%E3%82%84%E4%BC%81%E6%A5%AD%E6%B4%BB%E5%8B%95%E3%81%AE%E5%A4%89%E5%8C%96%E3%81%8C%E6%80%A5%E9%80%9F%E3%81%AB%E9%80%B2%E3%82%80%E4%B8%AD%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E5%BD%B9%E5%89%B2%E3%82%82%E8%A3%BD%E5%93%81%E3%82%84%E3%83%93/1599622271958837/",
+    "https://www.facebook.com/p/Tomorrowfuture-100050888899289/",
+    "https://www.facebook.com/groups/903670287751336/posts/1290496449068716/",
+    "https://www.facebook.com/JapanITWeek/photos/組込み技術者システム開発者向け止まりがちな上流要件定義と難航しがちなレガシー刷新生成aiで要件定義を前に進める話と脱ホスト脱jabolのモダナイゼーションをまと/1420167360145407/"
+   ]
+  },
+  {
+   "query": "生産管理システム導入前の業務整理・要件定義 note 社長",
+   "results": [
+    "https://note.com/ripla_business/n/n1328fc6f3069",
+    "https://note.com/ripla_business/n/nd62d96a8d84d",
+    "https://note.com/ripla_business/n/n36d90e923a3e",
+    "https://note.com/ripla_business/n/n8432955480b5",
+    "https://note.com/tsysk/n/n5773fc6b8f53",
+    "https://note.com/ripla_business/n/n0bcb9dd5dd49",
+    "https://note.com/ripla_business/n/n610bc8b54fe7",
+    "https://www.techs-s.com/media/show/131",
+    "https://note.com/ripla_business/n/necccb730e4e1",
+    "https://seisan-navi.com/seisan-kanri-system-requirements/"
+   ]
+  },
+  {
+   "query": "生産管理システム導入前の業務整理・要件定義 X 投稿",
+   "results": [
+    "https://www.techs-s.com/media/show/131",
+    "https://factoryadvance.jp/blog/422/",
+    "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "https://www.onamae.com/business/article/33667/",
+    "https://kaizen-navi.biz/featured-it-trends/what-is-requirements-definition",
+    "https://www.tonops.net/tips/requirements.html",
+    "https://boxil.jp/mag/a9517/",
+    "https://system-kanji.com/posts/production-management-system-introduction",
+    "https://seisan-navi.com/seisan-kanri-system-requirements/",
+    "https://factoryadvance.jp/blog/2688/"
+   ]
+  },
+  {
+   "query": "requirements definition before production system implementation site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/concept-operations-first-capabilities-requirements-glen-alleman-rvfnc",
+    "https://www.linkedin.com/pulse/first-production-ready-prompts-guide-henry-wang-s6wdc",
+    "https://www.linkedin.com/pulse/internal-discovery-process-mapping-critical-step-v5nlf",
+    "https://www.linkedin.com/pulse/what-prerequisites-should-consultant-have-before-erp-ali-zahid-p6irf",
+    "https://www.linkedin.com/pulse/decomposed-vs-derived-requirements-simplified-saban-safak-hjb6f",
+    "https://www.linkedin.com/posts/sudarshanam-srinivas-41674a10b_here-is-a-comprehensive-erp-implementation-activity-7299717003127222273-bWA_",
+    "https://www.linkedin.com/posts/tps-learning-hub_qualitymanagement-manufacturingexcellence-activity-7520167304144445441-qk7W",
+    "https://www.linkedin.com/pulse/implementing-core-business-systems-manufacturing-key-success-s5tue",
+    "https://www.linkedin.com/top-content/productivity/manufacturing-improvement-techniques/guide-to-implementing-mes-in-manufacturing/",
+    "https://www.linkedin.com/advice/0/whats-best-way-define-document-system-requirements"
+   ]
+  }
+ ],
+ "missing": {}
+}

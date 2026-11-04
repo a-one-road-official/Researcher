@@ -1,0 +1,267 @@
+# 手本の会社 — 精度でなく経営判断支援で稼ぐ売り方（事実のみ・2社）
+
+## AIVALIX株式会社
+- 公式URL：https://www.aivalix.co.jp/（search:yahoo_jp:AIVALIX）
+- 創業年度：2024年4月23日（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+- 創業年度：2024/04（https://initial.inc/companies/A-MJSFB・3回目）
+- 創業年度：2024年4月23日（https://prtimes.jp/main/html/rd/p/000000019.000163075.html・3回目）
+- 株主：VC不明, 事業会社あり（https://initial.inc/companies/A-MJSFB・3回目）
+- 資本金：1億5100万円（https://prtimes.jp/main/html/rd/p/000000019.000163075.html・3回目）
+- 資本金：1億5100万円（https://prtimes.jp/main/html/rd/p/000000016.000163075.html・3回目）
+- 資本金：公開資料間の記載に差異があり、最新の正確な金額は確認できず（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+- 売上高：公開情報では確認できず（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+- 代表者：代表取締役社長 CEO 中山 太洋（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+- 代表者：中山　太洋（https://initial.inc/companies/A-MJSFB・3回目）
+- 代表者：代表取締役社長 CEO　中山 太洋（https://prtimes.jp/main/html/rd/p/000000019.000163075.html・3回目）
+- 事業内容：人工知能等の先端デジタル技術および現場の専門知を活用したインフラ業界における課題解決を支援するAIプロダクトおよびAIソリューションの研究・開発・提供（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+- 事業内容：人工知能等の先端デジタル技術および現場の専門知を活用したインフラ業界における課題解決を支援するAIプロダクトおよびAIソリューションの研究・開発・提供（https://prtimes.jp/main/html/rd/p/000000019.000163075.html・3回目）
+- 事業内容：人工知能等の先端デジタル技術および現場の専門知を活用したインフラ業界における課題解決を支援するAIプロダクトおよびAIソリューションの研究・開発・提供（https://prtimes.jp/main/html/rd/p/000000016.000163075.html・3回目）
+- 株主構成：
+  - 「インフラメンテナンスAIスタートアップ「AIVALIX株式会社」への出資について | ニュース | 東京ガス」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「株主・投資家情報」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「株主・投資家情報トップ」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「インフラメンテナンスAIスタートアップ「AIVALIX株式会社」への出資について」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「東京ガス株式会社（取締役 代表執行役社長 CEO：笹山 晋一、以下「東京ガス」）は、このたびAIを活用したインフラメンテナンスの高度化に取り組むAIVALIX（アイヴァリックス）株式会社（代表取締役社長 CEO：中山 太洋、以下「AIVALIX」）へ出資（以下「本出資」）しました」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「AIVALIXが持つAI技術および事業開発力と、東京ガスグループがエネルギー・インフラ事業を通じて培ってきた設備管理の知見や顧客基盤を組み合わせることで、インフラ設備の維持管理のさらなる高度化が可能になると考え、本出資を決定しました」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「なお、AIVALIXにとって初となる事業会社からの出資です」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「本出資を機に、東京ガスグループが有するインフラ設備の管理・運用に関する知見と、AIVALIXのAI技術を組み合わせた取り組みを進めます」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「明治の創業以来、日本のエネルギー・インフラを支え続け、創立140周年を迎えられた東京ガスと資本業務提携させていただけたことを、大変光栄に思います」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「今回、AIVALIXへの出資を通じて、同社との連携を本格的に開始できることを嬉しく思います」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「今回の出資を機に、東京ガスグループの設備管理の知見とAIVALIXのAI技術を掛け合わせ、インフラ分野における新たなソリューションの創出と社会実装を進めていきます」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「（過去の株主を含む）」（https://initial.inc/companies/A-MJSFB・3回目）
+- 創業年度：
+  - 「同年、コロナ禍でオンライン家庭教師事業を創業」（https://www.aivalix.co.jp/company・1回目）
+  - 「2024年、AIVALIXを創業」（https://www.aivalix.co.jp/company・1回目）
+  - 「インディゴでのインターン経験を経て、2024年にAIVALIXを共同創業」（https://www.aivalix.co.jp/company・1回目）
+  - 「その後、松尾研究所やベンチャーキャピタルファンドにおいて、LLM研究開発のインターンを経験し、2024年にAIVALIXを共同創業」（https://www.aivalix.co.jp/company・1回目）
+  - 「2024年にNECを退職後、株式会社Argopilotを創業、スマート保安に特化した事業開発を推進」（https://www.aivalix.co.jp/company・1回目）
+  - 「AIVALIX株式会社を創業」（https://www.aivalix.co.jp/company・1回目）
+  - 「明治の創業以来、日本のエネルギー・インフラを支え続け、創立140周年を迎えられた東京ガスと資本業務提携させていただけたことを、大変光栄に思います」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「明治の創業以来、日本のエネルギー・インフラを支え続け、創立140周年を迎えられた東京ガスと資本業務提携させていただけたことを、大変光栄に思います」（https://prtimes.jp/main/html/rd/p/000000019.000163075.html・3回目）
+  - 「東京ガス株式会社は、1885年の創立以来、日本最大級の都市ガス事業者として首都圏を中心にガス・電力の安定供給を担ってきました」（https://prtimes.jp/main/html/rd/p/000000019.000163075.html・3回目）
+  - 「水みらい小諸は、長野県小諸市が35％、水ingAMが55％、第一環境が10％出資して設立された民間主体の水道事業運営会社です」（https://prtimes.jp/main/html/rd/p/000000016.000163075.html・3回目）
+  - 「設立：2024年4月23日」（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+  - 「AIVALIXは2024年4月設立のスタートアップです」（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+- 売り方：
+  - 「AIVALIXと水みらい小諸が、日本初の水道インフラ事業経営におけるAI高度化を実現」（https://www.aivalix.co.jp/posts・1回目）
+  - 「優先度付けが手作業で戦略的な意思決定が難しい」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「優先順位マップにより、限られた人員・予算を最も効果的に配分」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「事故対応費・早期更新損失・漏水調査工数などの経済インパクトも定量化します」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「経済インパクト分析レポート＆試算シート（事故対応費回避額・更新最適化による損失削減額・漏水調査効率化など）」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「東京ガスグループ経営ビジョン」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「理念・ビジョン・経営計画」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「グループ経営理念」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「マテリアリティ（経営課題）」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「経営ビジョン・中期経営計画」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「サステナビリティ経営」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「中期経営計画 (PDF)」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+- 責任の範囲：
+  - 「現場からのデータをAIが学習して、使うほど精度が向上する仕組みを実現します」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「診断精度はどのように検証していますか？」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「設備の更新にとどまらず、熟練技術者の経験や判断をデータとして受け継ぐ技能伝承にも協業テーマを広げ、インフラ設備の診断から計画、投資判断、説明責任までを一体で支える、次世代のインフラマネジメント基盤の共同構築を目指します」（https://prtimes.jp/main/html/rd/p/000000019.000163075.html・3回目）
+  - 「AIVALIXでは現在、INFRAIのさらなる精度向上と実証導入に向けて、インフラ設備に関する実データをご提供いただける自治体・事業者様を広く募集しております」（https://prtimes.jp/main/html/rd/p/000000019.000163075.html・3回目）
+  - 「だからこそ、次世代を担う私たちが責任を持ち、現場の知見と最先端AI技術を結びつけ、意思決定の在り方そのものを再設計していく必要があると考えています」（https://prtimes.jp/main/html/rd/p/000000016.000163075.html・3回目）
+  - 「AIVALIXでは現在、INFRAIのさらなる精度向上と実証導入に向けて、インフラ設備に関する実データをご提供いただける自治体・事業者様を広く募集しております」（https://prtimes.jp/main/html/rd/p/000000016.000163075.html・3回目）
+  - 「今後は、予測精度、実際の計画策定工数、導入費用、既存システムとの連携などが比較のポイントになります」（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+  - 「今回の調査で重要だと考えたのは、AIの分析精度だけでなく、その結果を実際の意思決定に使えるかという点です」（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+  - 「② AIの予測精度と説明可能性」（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+  - 「投資情報の免責事項」（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+  - 「NSIは、多様な衛星データを統合し、地上の状況変化を高頻度かつ高精度に把握する独自の自動化システム「衛星データパイプライン®」によりさまざまなアプリケーションの開発・提供を行っています」（https://www.newspaceint.com/ja/post/nsi-aivalix-mou・3回目）
+  - 「事業者様が保有する点検・管理データ、AIVALIXが独自に取得した各種データに加え、NSIの衛星データを活用することで、AIVALIXのAI解析の精度をさらに高めます」（https://www.newspaceint.com/ja/post/nsi-aivalix-mou・3回目）
+- 料金・契約：
+  - 「契約前の段階でも、必要に応じて何度でもご説明・打ち合わせを実施いたします」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「契約形態については、これまでの導入実績を踏まえ、事業体様のご事情に応じた柔軟な形式で対応可能です」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「契約形態はどのようなものがありますか？」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「随意契約・一般競争入札・プロポーザル方式など、お客様のご事情や手続きに合わせて柔軟に対応しています」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「料金体系はどのようになっていますか？」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「百万円（推測）」（https://initial.inc/companies/A-MJSFB・3回目）
+  - 「百万円（推定）」（https://initial.inc/companies/A-MJSFB・3回目）
+  - 「有料契約限定のコンテンツです」（https://initial.inc/companies/A-MJSFB・3回目）
+  - 「契約済みの方はログインしてください」（https://initial.inc/companies/A-MJSFB・3回目）
+  - 「1億5100万円」（https://prtimes.jp/main/html/rd/p/000000019.000163075.html・3回目）
+  - 「料金・プラン」（https://prtimes.jp/main/html/rd/p/000000019.000163075.html・3回目）
+  - 「国内の水道事業は、施設老朽化の進行、人口減少に伴う料金収入の縮小、そして技術職員の不足という三重苦に直面しています」（https://prtimes.jp/main/html/rd/p/000000016.000163075.html・3回目）
+- 顧客：
+  - 「オンプレミス環境にも対応し、セキュアな現場導入が可能です」（https://www.aivalix.co.jp/・1回目）
+  - 「採用情報はこちら →」（https://www.aivalix.co.jp/・1回目）
+  - 「一部執筆を担当した技術情報協会の「既存工場、製造現場への生成AI／AI導入と活用の仕方」が発刊」（https://www.aivalix.co.jp/company・1回目）
+  - 「適格請求書発行事業者登録番号」（https://www.aivalix.co.jp/company・1回目）
+  - 「オンプレミス環境にも対応し、セキュアな現場導入が可能です」（https://www.aivalix.co.jp/service・1回目）
+  - 「AIVALIX株式会社（本社：東京都文京区、代表取締役社長：中山太洋、以下「AIVALIX」）は、長野県小諸市において水道事業の包括委託を担う株式会社水みらい小諸（本社：長野県小諸市、代表取締役社長：東郷友裕、以下「水みらい小諸」）との実証実験において、AIVALIXが開発するインフラAI基盤モデル...」（https://www.aivalix.co.jp/posts・1回目）
+  - 「AIVALIX株式会社（本社：東京都文京区、代表取締役社長：中山太洋、以下「AIVALIX」）は、2026年5月11日（月）、衆議院第一議員会館にて、前デジタル大臣・衆議院議員の平将明氏と、社会インフラの老朽化を背景とする維持管理高度化や、自治体におけるAI活用について意見交換を行いました」（https://www.aivalix.co.jp/posts・1回目）
+  - 「契約形態については、これまでの導入実績を踏まえ、事業体様のご事情に応じた柔軟な形式で対応可能です」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「事業者様から『INFRAI』プラットフォームへデータをアップロードいただきます」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「水道管に限らず、ガス管・プラント配管・ビル配管など、他のインフラ設備向けの実証実験事例もございます」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「PoC（実証）段階からのご相談も可能です」（https://www.aivalix.co.jp/service-1・1回目）
+  - 「タイムシフトスタディ（過去データの時系列分割検証）を採用しています」（https://www.aivalix.co.jp/service-1・1回目）
+- 売上・規模：
+  - 「AIVALIX（アイヴァリックス） という社名には、「AIの力で社会インフラの価値を最大化したい」という私たちの強い想いが込められています」（https://www.aivalix.co.jp/company・1回目）
+  - 「会社名：東京ガス株式会社（東京瓦斯株式会社）」（https://prtimes.jp/main/html/rd/p/000000019.000163075.html・3回目）
+  - 「AIを事業の中核に据える有力企業やスタートアップ、投資家など約200名が参加し、生成AIによる産業変革の現在地を共有しました」（https://anobaka.jp/news/10591/・3回目）
+  - 「イベント名：Generative AI Conference TOKYO & Startup Pitch」（https://anobaka.jp/news/10591/・3回目）
+  - 「参加者数：約200名（スタートアップ・VC/CVC・事業会社など）」（https://anobaka.jp/news/10591/・3回目）
+  - 「社名：株式会社ANOBAKA」（https://anobaka.jp/news/10591/・3回目）
+  - 「会社名：AIVALIX（アイヴァリックス）株式会社」（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+  - 「売上高：公開情報では確認できず」（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+  - 「ただし、具体的な料金体系や月額課金の有無、継続課金売上の割合は確認できていません」（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+  - 「売上規模と企業規模」（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+  - 「2026年9月時点で、最新の売上高、営業利益、従業員数などの定量的な経営指標は十分に公表されていません」（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+  - 「現段階では、実証実験の成果や事業会社との提携など、事業面での進展を確認できますが、売上規模や収益性については追加の情報開示が必要です」（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+- 発言：
+  - 「一般社団法人 日本高圧力技術協会（HPI）にて、当社代表の中山太洋が基調講演を実施しました」（https://www.aivalix.co.jp/・1回目）
+  - 「Founder / CEO」（https://www.aivalix.co.jp/company・1回目）
+  - 「代表取締役社長 兼 CEO」（https://www.aivalix.co.jp/company・1回目）
+  - 「株式会社Argopilot 代表取締役社長」（https://www.aivalix.co.jp/company・1回目）
+  - 「弊社CEOの中山がAIVALIXの前身となる学生AIサークルを創設」（https://www.aivalix.co.jp/company・1回目）
+  - 「弊社CEOの中山が米国カリフォルニア大学バークレー校に留学、ビジネススクールにて英語で事業ピッチを実施」（https://www.aivalix.co.jp/company・1回目）
+  - 「代表取締役社長 兼 CEO 中山 太洋」（https://www.aivalix.co.jp/company・1回目）
+  - 「一般社団法人 日本高圧力技術協会（HPI）にて、当社代表の中山太洋が基調講演を実施しました」（https://www.aivalix.co.jp/posts・1回目）
+  - 「AIVALIX株式会社（本社：東京都文京区、代表取締役社長：中山太洋、以下「当社」）は、2026年5月26日（火）に開催された一般社団法人 日本高圧力技術協会（以下「HPI」）「保全分野へのAI適用に関する専門研究委員会（以下「AIM委員会」）」第21回委員会において、当社代表の中山太洋が基調講演を...」（https://www.aivalix.co.jp/posts・1回目）
+  - 「AIVALIX株式会社（本社：東京都文京区、代表取締役社長：中山太洋、以下「AIVALIX」）は、長野県小諸市において水道事業の包括委託を担う株式会社水みらい小諸（本社：長野県小諸市、代表取締役社長：東郷友裕、以下「水みらい小諸」）との実証実験において、AIVALIXが開発するインフラAI基盤モデル...」（https://www.aivalix.co.jp/posts・1回目）
+  - 「AIVALIX株式会社（本社：東京都文京区、代表取締役社長：中山太洋、以下「AIVALIX」）は、2026年5月11日（月）、衆議院第一議員会館にて、前デジタル大臣・衆議院議員の平将明氏と、社会インフラの老朽化を背景とする維持管理高度化や、自治体におけるAI活用について意見交換を行いました」（https://www.aivalix.co.jp/posts・1回目）
+  - 「東京ガス株式会社（取締役 代表執行役社長 CEO：笹山 晋一、以下「東京ガス」）は、このたびAIを活用したインフラメンテナンスの高度化に取り組むAIVALIX（アイヴァリックス）株式会社（代表取締役社長 CEO：中山 太洋、以下「AIVALIX」）へ出資（以下「本出資」）しました」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+- 検索結果の抜粋：
+  - 「インフラメンテナンスAIスタートアップ「 AIVALIX 株式会社 ... — インフラメンテナンスAIスタートアップ「 AIVALIX 株式会社 ... 東京ガス https://www.tokyo-gas.co.jp > ... > ニュース」（https://www.tokyo-gas.co.jp/news/press/20260828-01.html・3回目）
+  - 「AIVALIX 株式会社 - スピーダ スタートアップ情報リサーチ — AIVALIX 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-MJSFB」（https://initial.inc/companies/A-MJSFB・3回目）
+  - 「AIVALIX と東京ガスが 資本業務提携 - PR TIMES — AIVALIX と東京ガスが 資本業務提携 - PR TIMES PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000019.000163075.html・3回目）
+  - 「COMPANY - AIVALIX株式会社 — COMPANY - AIVALIX株式会社 AIVALIX株式会社 https://www.aivalix.co.jp > company」（https://www.aivalix.co.jp/company・3回目）
+  - 「東京ガスとインフラAI開発の AIVALIX が 資本業務提携 — 東京ガスとインフラAI開発の AIVALIX が 資本業務提携 月刊「事業構想」オンライン https://www.projectdesign.jp > ニュース」（https://www.projectdesign.jp/articles/news/d9a35f69-724a-43ee-8706-e58ea17b49c2・3回目）
+  - 「【公式】 AIVALIX （アイヴァリックス）株式会社｜国土強靭化 ... — 【公式】 AIVALIX （アイヴァリックス）株式会社｜国土強靭化 ... X https://x.com > AIVALIX」（https://x.com/AIVALIX・3回目）
+  - 「AIVALIX とは？水道管の更新計画をAIで最適化 - note — AIVALIX とは？水道管の更新計画をAIで最適化 - note note https://note.com > ビジネス > スタートアップ・VC」（https://note.com/kigyo_navi/n/n09376bf01c9f・3回目）
+  - 「AIVALIX と東京ガスが資本業務提携 - PR TIMES — AIVALIX と東京ガスが資本業務提携 - PR TIMES PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000019.000163075.html・3回目）
+  - 「中山 太洋｜ AIVALIX CEO on X: "「5年で1000億行くからつい ... — 中山 太洋｜ AIVALIX CEO on X: "「5年で1000億行くからつい ... X https://x.com > @taiyo_nakayama」（https://x.com/taiyo_nakayama/status/2016684231561531872・3回目）
+  - 「老朽インフラの予知保全をAIで実現する AIVALIX - PR TIMES — 老朽インフラの予知保全をAIで実現する AIVALIX - PR TIMES PR TIMES https://prtimes.jp > イベント」（https://prtimes.jp/main/html/rd/p/000000001.000163075.html・3回目）
+  - 「AIVALIX 株式会社 — AIVALIX 株式会社 AIVALIX株式会社 https://www.aivalix.co.jp」（https://www.aivalix.co.jp/・3回目）
+  - 「スタートアップピッチ最優秀賞は AIVALIX | ANOBAKA — スタートアップピッチ最優秀賞は AIVALIX | ANOBAKA ANOBAKA https://anobaka.jp > NEWS」（https://anobaka.jp/news/10591/・3回目）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部38頁・検索15回）
+
+## Fracta
+- 公式URL：https://fracta.ai（given）
+- 創業年度：2019年9月（https://fracta-jp.com/corporate/・3回目）
+- 創業年度：2017/04（https://initial.inc/companies/A-30667・3回目）
+- 創業年度：2013年11月18日（https://feedforcegroup.jp/news/956/・3回目）
+- 株主：VCあり, 事業会社あり（https://initial.inc/companies/A-30667・3回目）
+- 代表者：的場　雄介（https://fracta-jp.com/corporate/・3回目）
+- 代表者：加藤　崇（https://initial.inc/companies/A-30667・3回目）
+- 代表者：代表取締役 塚田 耕司（https://feedforcegroup.jp/news/956/・3回目）
+- 事業内容：AI/機械学習に基づく水道管等のインフラ劣化予測のソフトウェア開発 〈配管損傷予測　特許 第7585041号〉（https://fracta-jp.com/corporate/・3回目）
+- 事業内容：データフィード関連事業 / デジタル広告関連事業 / デジタルマーケティング関連事業 / その他事業（https://feedforcegroup.jp/news/956/・3回目）
+- 事業内容：ブランド戦略設計、ブランド戦略に沿ったECサイト構築支援およびクリエイティブ制作、Shopifyコンサルティング、インターネットサービス事業（https://feedforcegroup.jp/news/956/・3回目）
+- 株主構成：
+  - 「Fracta（米国本社）栗田工業株式会社による100％出資子会社化」（https://fracta-jp.com/corporate/・3回目）
+  - 「2018年5月31日、Fracta, Inc.（”Fracta”）による栗田工業株式会社（“栗田工業”）を引受先とするSeries A資金調達、並びに創業株主らが保有するSeries Seed株式の栗田工業への譲渡により、栗田工業がFractaの持分50.1%を取得」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「シリコンバレー発スタートアップ企業の資金調達」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「Put/Callオプションを入れることで、経営株主が売却後も、これまでと変わらず一生懸命仕事に取り組むようなインセンティブを最大限働かせた」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「（過去の株主を含む）」（https://initial.inc/companies/A-30667・3回目）
+  - 「資金調達・提携ニュース」（https://initial.inc/companies/A-30667・3回目）
+  - 「過去の株主を含む」（https://initial.inc/companies/A-30667・3回目）
+  - 「株式会社フジテレビジョンを引受先とする第三者割当増資の実施および初期メンバー募集開始のお知らせ」（https://fractal-voice.jp/news/20260423_2823.html・3回目）
+  - 「株式会社FRACTALは、株式会社フジテレビジョンを引受先とする第三者割当増資を実施いたしました」（https://fractal-voice.jp/news/20260423_2823.html・3回目）
+  - 「本資金調達を通じて音声AI事業の成長を加速し、「AIと表現者の共創」による新たなクリエイティブの実現を目指してまいります」（https://fractal-voice.jp/news/20260423_2823.html・3回目）
+  - 「株主情報 Index」（https://www.kurita-water.com/news/20250121-01/・3回目）
+  - 「栗田工業株式会社（本社：東京都中野区、社長：江尻 裕彦、以下「クリタ」または「当社」）は、当社100％出資子会社のFracta Inc.（本社：米国カリフォルニア州シリコンバレー）の日本法人であるFracta Japan株式会社（本社：東京都中野区、代表取締役CEO：的場 雄介）の、「上下水道事業のDX：ビッグデータ×AIによる管路リスクの予測診断」が、インフラメンテナンスのベストプラクティスを表彰する「第8回インフラメンテナンス大賞」において、水道分野で初の内閣総理大臣賞を受賞しましたので、お知らせいたします」（https://www.kurita-water.com/news/20250121-01/・3回目）
+- 創業年度：
+  - 「Founded in Silicon Valley in 2015. Part of Kurita Water Industries since 2023.」（https://www.fracta.ai/・1回目）
+  - 「Fracta was founded to help water utilities predict pipe failures before they happen. Today our machine learning platform shows crews where to look for leaks first and tells capital planners which mains to replace, for utilities in the United States, Japan and beyond.」（https://www.fracta.ai/about・1回目）
+  - 「founded in Silicon Valley」（https://www.fracta.ai/about・1回目）
+  - 「Fracta established in Silicon Valley as the world’s first AI-powered risk analysis platform for water infrastructure」（https://www.fracta.ai/about・1回目）
+  - 「Fracta Japan Co., Ltd. established」（https://www.fracta.ai/about・1回目）
+  - 「9月 / Fracta Japan株式会社を設立」（https://fracta-jp.com/corporate/・3回目）
+  - 「加藤崇（Fracta創業者）が、米国カリフォルニア州」（https://fracta-jp.com/corporate/・3回目）
+  - 「2018年5月31日、Fracta, Inc.（”Fracta”）による栗田工業株式会社（“栗田工業”）を引受先とするSeries A資金調達、並びに創業株主らが保有するSeries Seed株式の栗田工業への譲渡により、栗田工業がFractaの持分50.1%を取得」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「元SchaftのCFO加藤氏が同社をGoogleに売却した後、新しく創業したスタートアップ企業として著名」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「Fracta創業者の加藤さんはクロージング時点では、自分の持ち株はほとんど売却していない」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「Fracta創業者をどのように、誰がメンターをするのか」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「以前、加藤氏はSCHAFT Inc.の共同創業者兼CFOであり、同社は2013年の米国DARPA（国防高等研究計画局）ロボティクス・チャレンジ・トライアルで最優秀賞を受賞したヒューマノイド・ロボティクス・スタートアップでした」（https://posiusa.com/ja/2024/03/01/fracta-inc-2/・3回目）
+- 売り方：
+  - 「経営者インタビュー」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「Put/Callオプションを入れることで、経営株主が売却後も、これまでと変わらず一生懸命仕事に取り組むようなインセンティブを最大限働かせた」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「サムライ経営者、アメリカを行く！」（https://ja.wikipedia.org/wiki/Fracta・3回目）
+  - 「サムライ経営者、アメリカを行く！「米国の水道」の次は「日本の鉄道」も守る！」（https://ja.wikipedia.org/wiki/Fracta・3回目）
+  - 「経営計画・組織」（https://jim.kalep.net/posts/30427・3回目）
+  - 「年間1000人以上の経営者と会い、人と人とのご縁をつなぐ代表世話人 杉浦佳浩氏」（https://jim.kalep.net/posts/30427・3回目）
+  - 「1)日本の水道の年間予算について」（https://jim.kalep.net/posts/30427・3回目）
+  - 「将来30年間の更新費は年平均約1兆6千億円、修繕費は同約2.3千億円との試算」（https://jim.kalep.net/posts/30427・3回目）
+  - 「地方の水道局から経営は逼迫」（https://jim.kalep.net/posts/30427・3回目）
+  - 「実際に同社を導入する際の予算感について、これがすごく簡単」（https://jim.kalep.net/posts/30427・3回目）
+  - 「東京大学工学部卒、スタンフォード大学院経営工学修士（MS）」（https://jim.kalep.net/posts/30427・3回目）
+  - 「専門はオペレーションズリサーチ、意思決定分析」（https://jim.kalep.net/posts/30427・3回目）
+- 責任の範囲：
+  - 「見えない誰かの真摯な努力と使命感、また大いなる責任感の上に成り立っているということを、決して忘れてはいけません」（https://fracta-jp.com/・3回目）
+  - 「日本における事業開発責任者として事業統括にあたる」（https://jim.kalep.net/posts/30427・3回目）
+  - 「加えて、今年度からストックマネジメント計画が開始し、整備路線の選定は市民などから注目される可能性が高く、優先順位付けの根拠を定めておく必要があるなかで、過去の漏水箇所と行った客観的な要因と土壌環境などの事実に基づいて破損確率を高精度に解析するAIを活用した水道管劣化予測に注目しました』さらに今回の取り組みが持続可能な水道経営につながることを期待し、『市民の皆さんに対して将来にわたって安全・安心な水道水を供給できるよう、今回の結果を上手く活用して効率的に管路の更新を進めていきたいと思います』と結んでいます」（https://jim.kalep.net/posts/30427・3回目）
+  - 「世界で初めて開発したAIと環境ビッグデータを活用した水道管の劣化診断技術（特許第7585041号）は、水道管の物理的・化学的劣化に関わる埋設環境データおよび管路情報、漏水情報を使用するだけで、掘削して管体を直接確認することなどせずに、将来の劣化リスクを高精度に把握することが可能であり、現在までに日本で約60、世界で約150以上の事業体に採用されています」（https://www.kurita-water.com/news/20250121-01/・3回目）
+  - 「このたび受賞したFractaの「上下水道事業のDX：ビッグデータ×AIによる管路リスクの予測診断」は、AIを用いて効率的かつ高精度に水道管等の劣化度を評価できる仕組みを実現したもので、上下水道、ガス管等においても実績があり、分野横断的な活用が期待されています」（https://www.kurita-water.com/news/20250121-01/・3回目）
+  - 「執行役員 人事責任者 半田 頼敬 氏」（https://www.kandc.com/interview/communication/5776/・3回目）
+  - 「FRACTAは、水道管の老朽化が社会問題になっている米国で、全米27州60社を超える水道事業者に、AI/機械学習を用いた高精度の破損・漏水予測によって、水道管の更新投資を最適化するソリューションを提供しています」（https://www.quintbridge.jp/event/detail/202401101841.html・3回目）
+  - 「西日本エリアマネージャーおよびメディアPR責任者を担当、10月より現職」（https://www.quintbridge.jp/event/detail/202401101841.html・3回目）
+  - 「遷移先サイトの内容について、QUINTBRIDGEおよび運営母体であるNTT西日本は責任を負いません」（https://www.quintbridge.jp/event/detail/202401101841.html・3回目）
+  - 「投資情報の免責事項」（https://note.com/fracta・3回目）
+  - 「投資情報の免責事項」（https://note.com/fracta/n/n5029574be7e9・3回目）
+  - 「投資情報の免責事項」（https://note.com/fractaleap・3回目）
+- 料金・契約：
+  - 「5月 / 栗田工業株式会社と資本・業務提携契約を締結」（https://fracta-jp.com/corporate/・3回目）
+  - 「有料契約限定のコンテンツです」（https://initial.inc/companies/A-30667・3回目）
+  - 「契約済みの方はログインしてください」（https://initial.inc/companies/A-30667・3回目）
+  - 「2018年3月 米国での初の契約」（https://ja.wikipedia.org/wiki/Fracta・3回目）
+  - 「3兆2,450億円の水道料金収入は、2兆2,200億円へ」（https://jim.kalep.net/posts/30427・3回目）
+  - 「水道資産をこのまま維持しようとすれば、水道料金は47%もの引き上げが必要」（https://jim.kalep.net/posts/30427・3回目）
+  - 「人口密集度の違いが水道料金の総量の大小に直結」（https://jim.kalep.net/posts/30427・3回目）
+  - 「人口減は地方においてこそ顕著であり、半減すらあり得る (水道料金は2倍に)」（https://jim.kalep.net/posts/30427・3回目）
+  - 「→1キロ10,000円程度（初期費用を除いて）」（https://jim.kalep.net/posts/30427・3回目）
+  - 「FRACTAへ依頼した場合のコストは500〜800万円となります」（https://jim.kalep.net/posts/30427・3回目）
+- 顧客：
+  - 「我々の取り組みは「新しい試み」の域を脱し、全国各地の上下水道事業体、ガス事業者、そしてパートナーの皆様と共に、実効性のある「社会の基盤」としての価値を提供し続ける重責を担っていくときが来たのだと感じています」（https://fracta-jp.com/corporate/・3回目）
+  - 「米国では、28州で70社以上の事業体にて導入済 (2022年7月末現在)」（https://fracta-jp.com/corporate/・3回目）
+  - 「2月 / AIを用いたガス導管劣化予測アルゴリズムの実証を完了、同年4月よりサービス開始」（https://fracta-jp.com/corporate/・3回目）
+  - 「8月 / 日本でのPoC（実証検証）を開始」（https://fracta-jp.com/corporate/・3回目）
+  - 「5月 / 栗田工業株式会社と資本・業務提携契約を締結」（https://fracta-jp.com/corporate/・3回目）
+  - 「革新的技術と評価を受けアメリカの水道事業体に採用」（https://fracta-jp.com/corporate/・3回目）
+  - 「新卒採用エントリー・募集要項」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「採用イベント」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「中途採用エントリー・募集要項」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「資金調達・提携ニュース」（https://initial.inc/companies/A-30667・3回目）
+  - 「顧客企業分析」（https://initial.inc/companies/A-30667・3回目）
+  - 「日本経済新聞「丸紅、老朽水道管AI診断 英で米技術使い実証」」（https://ja.wikipedia.org/wiki/Fracta・3回目）
+- 売上・規模：
+  - 「元SchaftのCFO加藤氏が同社をGoogleに売却した後、新しく創業したスタートアップ企業として著名」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「3兆2,450億円の水道料金収入は、2兆2,200億円へ」（https://jim.kalep.net/posts/30427・3回目）
+  - 「将来30年間の更新費は年平均約1兆6千億円、修繕費は同約2.3千億円との試算」（https://jim.kalep.net/posts/30427・3回目）
+  - 「最大40％のコスト削減、すなわち年間20億円の削減を期待できます」（https://jim.kalep.net/posts/30427・3回目）
+  - 「つまり50年で単純に計算すると最大20億円×50年で1,000億円のコストを下げていくこと、財務インパクトは莫大ですね」（https://jim.kalep.net/posts/30427・3回目）
+  - 「・サンフランシスコ（SFPUC）の給水収益は、500億円（2017年度）」（https://jim.kalep.net/posts/30427・3回目）
+  - 「→仮に管路更新費を40％**コスト削減できれば、最大20億円の削減となる」（https://jim.kalep.net/posts/30427・3回目）
+  - 「→1キロの水道管交換費用1億円」（https://jim.kalep.net/posts/30427・3回目）
+  - 「なぜか社員が辞めてしまう…… 社労士が教える「10の落とし穴」」（https://jim.kalep.net/posts/30427・3回目）
+  - 「会社名：株式会社フィードフォース」（https://feedforcegroup.jp/news/956/・3回目）
+  - 「会社名：株式会社フラクタ（英語表記：FRACTA Inc.）」（https://feedforcegroup.jp/news/956/・3回目）
+  - 「※ご来場の50名に、FRACTA創業者 加藤崇さんの著書『」（https://www.quintbridge.jp/event/detail/202401101841.html・3回目）
+- 発言：
+  - 「代表取締役 CEO 的場雄介」（https://fracta-jp.com/corporate/・3回目）
+  - 「ファンドインタビュー」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「経営者インタビュー」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「「Dooo「グーグルに会社を売った日本人が語る“クレイジーな人たちが世界を変える”」」（https://ja.wikipedia.org/wiki/Fracta・3回目）
+  - 「年間1000人以上の経営者と会い、人と人とのご縁をつなぐ代表世話人 杉浦佳浩氏」（https://jim.kalep.net/posts/30427・3回目）
+  - 「日本法人代表）です」（https://jim.kalep.net/posts/30427・3回目）
+  - 「、その日本法人の代表である樋口さんにお話を伺いました」（https://jim.kalep.net/posts/30427・3回目）
+  - 「【Fracta 日本法人代表 樋口 宣人さん】」（https://jim.kalep.net/posts/30427・3回目）
+  - 「Fracta 日本法人代表」（https://jim.kalep.net/posts/30427・3回目）
+  - 「その後、2000年ケンコーコム（株）を共同創業し常務取締役COO、2015年（株）ウォーターダイレクト代表取締役などベンチャー企業経営者を歴任」（https://jim.kalep.net/posts/30427・3回目）
+  - 「インタビュー時点の9月初旬は2021年度の予算組が始まっているところにアプローチをしている状況だそうです」（https://jim.kalep.net/posts/30427・3回目）
+  - 「執筆：杉浦佳浩 （すぎうら・よしひろ） 代表世話人株式会社代表」（https://jim.kalep.net/posts/30427・3回目）
+- 検索結果の抜粋：
+  - 「米国ベンチャー企業 Fracta , Inc.の株式取得（子会社化 ... — 米国ベンチャー企業 Fracta , Inc.の株式取得（子会社化 ... 栗田工業 PDF https://www.kurita-water.com > press_180530_01」（https://www.kurita-water.com/assets/files/pdf/press_180530_01.pdf・3回目）
+  - 「CORPORATE - FRACTA — CORPORATE - FRACTA フラクタジャパン株式会社 https://fracta-jp.com > corporate」（https://fracta-jp.com/corporate/・3回目）
+  - 「Fracta の栗田工業への売却｜ケーススタディ — Fracta の栗田工業への売却｜ケーススタディ フーリハン・ローキー株式会社 https://japan.hl.com > insight > case-studies」（https://japan.hl.com/insight/case-studies/47717・3回目）
+  - 「Fracta , Inc. - スピーダ スタートアップ情報リサーチ — Fracta , Inc. - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-30667・3回目）
+  - 「ABOUT US｜ Fracta Leap - 水を。つぎへ。 — ABOUT US｜ Fracta Leap - 水を。つぎへ。 Fracta Leap https://fracta-leap.com > about」（https://fracta-leap.com/about・3回目）
+  - 「Fracta , Inc. - POSI — Fracta , Inc. - POSI POSI - Professional Outsourcing Solutions, Inc. https://posiusa.com > お客様の声」（https://posiusa.com/ja/2024/03/01/fracta-inc-2/・3回目）
+  - 「Fracta - Wikipedia — Fracta - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > Fracta」（https://ja.wikipedia.org/wiki/Fracta・3回目）
+  - 「水道インフラの危機をAIで救う FRACTA の挑戦。 — 水道インフラの危機をAIで救う FRACTA の挑戦。 QUINTBRIDGE https://www.quintbridge.jp > event > detail」（https://www.quintbridge.jp/event/detail/202401101841.html・3回目）
+  - 「株式会社フジテレビジョンを引受先とする第三者割当増資の ... — 株式会社フジテレビジョンを引受先とする第三者割当増資の ... fractal-voice.jp https://fractal-voice.jp > news」（https://fractal-voice.jp/news/20260423_2823.html・3回目）
+  - 「Fracta Japanが「第8回インフラメンテナンス大賞」内閣総理 ... — Fracta Japanが「第8回インフラメンテナンス大賞」内閣総理 ... 栗田工業 https://www.kurita-water.com > news」（https://www.kurita-water.com/news/20250121-01/・3回目）
+  - 「FRACTA – フラクタジャパン株式会社 — FRACTA – フラクタジャパン株式会社 フラクタジャパン株式会社 https://fracta-jp.com」（https://fracta-jp.com/・3回目）
+  - 「Fracta : Water Main Break Prediction Software for Utilities — Fracta : Water Main Break Prediction Software for Utilities Fracta https://www.fracta.ai」（https://www.fracta.ai/・3回目）
+- 資本金：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）

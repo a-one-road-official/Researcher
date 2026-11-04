@@ -1,0 +1,2902 @@
+{
+ "name": "製造業の生成AI社内展開（研修と運用定着）",
+ "en": "generative AI rollout and training for manufacturers",
+ "aliases": [
+  "生成AI 社内展開 製造業",
+  "生成AI 研修 定着",
+  "生成AI 活用支援 中堅"
+ ],
+ "context": "AI",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:11:31.414541+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "製造業が生成AIで成果を出す8ステップ 導入5つの手順と定着3要素で読み解く実践プロセス ～現場活用の好事例から知る、AI導入の壁を乗り越えるヒント～ | コラム | 株式会社ディジタルグロースアカデミア",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が生成AIで成果を出す8ステップ 導入5つの手順と定着3要素で読み解く実践プロセス ～現場活用の好事例から知る、AI導入の壁を乗り越えるヒント～ | 株式会社ディジタルグロースアカデミア",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "DX方針策定支援",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "DX伴走支援",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "金融業界の事例",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "IT・通信業界の事例",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "建築・土木業界の事例",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業界の事例",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "自治体の事例",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の事例",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "運輸・物流の事例",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が生成AIで成果を出す8ステップ 導入5つの手順と定着3要素で読み解く実践プロセス ～現場活用の好事例から知る、AI導入の壁を乗り越えるヒント～",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "～現場活用の好事例から知る、AI導入の壁を乗り越えるヒント～",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "実際の好事例と、導入時に立ちはだかる“6つの壁”を乗り越えるヒントを交えながら、生成AIを「使える仕組み」に変えるための実践プロセスを解説します",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "【工程別】製造業における生成AIの活用事例7選",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI企業研修 | 株式会社F.E.F",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、AIと共に働く時代のリスキリングを支援しています",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "資料作成･自動応答など、活用事例を知る",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "社内全体導入支援特価",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "F.E.Fの企業研修は、単なる知識の提供にとどまりません",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "実業務に基づいたプロンプト設計、定着支援、制度設計の伴走により「現場が動く･変わる･自走できる」",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用事例",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社F.E.F",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け生成AI活用研修｜株式会社ファースト・オートメーション",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け生成AI活用研修｜株式会社ファースト・オートメーション 読み込まれました",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "サービス全体像",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "発・運用まで一気通貫で伴走支援します",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "自社業務に合わせたAIエージェントを内製できる人材と体制づくりを、環境準備・業務整理・検証・開発・運用まで一気通貫で伴走支援します",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "＃常駐・伴走支援",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "入口の研修から、内製化・常駐支援まで",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "4つのステップで支援します",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "自社専用AIエージェントの内製化・現場への定着（発展形）までを一連の流れで提供します",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "内製化・常駐支援まで",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "研修単体ではなく、社員のAIリテラシー底上げ（入口）から、自社専用AIエージェントの内製化・現場への定着（発展形）までを一連の流れで提供します",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェント内製化支援",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "常駐・伴走支援",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "社員全体のAIリテラシーを底上げし、その後の実践ワークショップ・内製化支援につなげます",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI活用を“勉強”で終わらせず、実務テーマに落とし込むための支援として位置づけます",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のAI活用事例10選｜企業の現状や導入メリット・デメリットを解説 - Salesforceブログ",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のAI活用事例10選｜企業の現状や導入メリット・デメリットを解説",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業における生成AIの活用と課題」に関するアンケート結果と製造業のAI導入事例などについて紹介します",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のAI活用事例には、検品の自動化、需要予測、生産計画の最適化、設備の異常検知、熟練技術者のノウハウ継承などがあります",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足や品質のばらつき、属人化といった製造業の課題に対して、AI（人工知能）は業務効率化やコスト削減、生産性向上を支援する手段として活用されています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、AIの専門家でない方にも理解しやすいように、製造業におけるAI活用の現状、導入メリット・デメリット、具体的な活用事例を解説します",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におけるAI導入・活用事例10選",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では主にドキュメントの作成支援や要約で生成AIを活用・検討しています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "ドキュメントの作成支援：64%",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "回答で多かったのが「ドキュメントの作成支援」と「ドキュメントの要約」です",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "AIモデル開発・購入費：課題に合わせて独自のAIモデルを開発する場合の費用、または既存のAIツールやサービスを購入する場合のライセンス費用です",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド利用料・サーバー代：AIを稼働させるためのクラウドサービスやサーバーの利用料です",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "自社で一から開発するのではなく、月額利用料などで提供されるクラウドベースのAIサービス（SaaS）を活用することで、初期費用を抑えられます",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "国や自治体は、中小企業のITツール導入や生産性向上を支援するための補助金制度を設けています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におけるAI導入・活用事例10選を紹介します",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入事例",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "人材開発支援助成金の「実訓練時間10時間以上」要件に適合した",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の「AI経営実装メソッド」に基づき、診断から定着支援までを一気通貫で行います",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "当研究所は、どのITベンダーとも提携しない完全中立の立場で、200社以上の中小企業のAI導入を支援してきました",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "どんな業種で研修実績があるのか",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "人材開発支援助成金（事業展開等リスキリング支援コース）は、",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "人材開発支援助成金では、",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "結論：AIの精度は、入力データの「質」と「一貫性」で決まる",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "DX担当者の役割は、技術導入の責任者ではなく、このサイクルを回す“文化の編集者”です",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "精度・使いやすさの改善",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "図面バンク 事業開発責任者",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証部門",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "保守・メンテナンス費用：システムの安定稼働や、AIの精度を維持・向上させるための継続的な費用です",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "富士通は回答の精度向上のために、ナレッジの修正や加筆をして何度も検証を行い、運用しています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "精度の高い年間計画も短時間で作成でき、将来を予測して安定的な供給を実現できるようになっています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "社内システムからのデータのみで学習させたところ、AIツールの予測値が従来の手法より高精度で、業務に即した予測結果が得られるようになりました",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "また、AIの搭載されていないロボットよりも芯抜きの精度が向上し、可食部の廃棄量の削減に成功しています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "このように課題を特定したうえで、「AIによる画像検査を導入し、不良品の見逃しをゼロにする」「AIで需要予測精度を上げ、過剰在庫を5%まで削減する」といった、具体的で測定可能なゴールを設定することが成功の鍵です",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "責任ある開示",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "当研究所は、事業外訓練の要件（商品化されたカリキュラム・公開された受講料・タイムテーブル）を満たす資料の提供と、要件に適合するカリキュラム設計を行いますが、区分の判定および支給可否について責任を負いかねます",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "当研究所は要件に適合するカリキュラム設計と必要書類の提供を行いますが、支給結果および不支給となった場合の研修費負担について責任を負いかねます",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "総務・管理部門・情報管理責任者 ｜",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "見積書作成の効率化、工程管理、物件情報の自動分析、顧客マッチングの精度向上など、業界特有の課題をAIで解決するアプローチを研修でご紹介します",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "当研究所は要件に適合するカリキュラム設計と、申請に必要なカリキュラム情報・講師経歴・タイムテーブル・修了証・価格設定根拠の提供を行いますが、支給結果および不支給となった場合の研修費負担について責任を負いかねます",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "営業や損害調査など幅広い部門からデータサイエンスに関心の強い社員を発掘できた",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、営業部門では、顧客の行動データを活用した提案の高度化が期待され、事業企画部門ではAIによる市場予測が意思決定の精度向上につながります",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "従来は人的リソースの制約から難しかったスピードと精度を両立したパーソナライズ施策が実現します",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "また、AI研修によってデータに基づいた仮説構築やA/Bテスト設計の手法を習得することで、属人的な感覚に頼らない施策立案が可能となり、マーケティングの精度と再現性が飛躍的に向上します",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "教育責任者向けには、現場課題に応じたカスタマイズ研修も可能となっています",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "を学び、より精度の高い出力を得られるように",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "AIの回答精度を上げたいならJKK Technologies",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "AIの回答精度を上げたい",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "近畿税理士会岸和田支部での税理士向けAI研修のように、業種特有の精度やセキュリティへの配慮を踏まえた事例もあります",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "件数の多さではなく、自社の状況にどれだけ近いかで見ると判断の精度が上がるでしょう",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "助成の可否は所轄の労働局が判断するもので、必ず受給できると保証されるものではありません",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "日立は2026年4月から品質保証AIエージェント「品質ナレッジシステム」をHMAX Industryとして提供開始し、検索時間を約9割・対応レポート作成時間を8割以上削減、ダイキン×日立の設備故障診断AIエージェントは10秒以内・90%以上の精度で原因と対策を提示、2025年12月には三菱ケミカルとの化学プラント向け共同検証も始まりました",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "2.業務特化AIエージェント——図面照合・品質保証・設備故障診断",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証・検査・故障診断の高度化",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "本記事で扱う18事例を見ても、製造業でも設計・品質保証・知識管理・現場オペレーションなどで生成AI活用の応用が広がりつつあることが分かります",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "（2-5倍高速・80%精度向上・50%効率化）、",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "、品質保証業務を大幅に効率化するAIエージェント「品質ナレッジシステム」を",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "熟練者の暗黙知を形式知化することで、担当者の経験値に左右されず迅速かつ的確な判断が可能となる仕組みで、Lumada 3.0を体現するデジタルサービスとして製造業の品質保証業務の標準化を狙う事例です",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証業務を大幅に効率化するAIエージェントの概念図（出典：",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "PepsiCoとの先行展開では、Digital Twin Composer（CES 2026発表・2026年中頃Siemens Xcelerator Marketplaceで提供開始）とNVIDIA Omniverseを使い、米国製造・倉庫拠点を高精度3Dデジタルツイン化",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "LLMアシスタント（ConnectAI型）・業務特化エージェント（Manufacturing AIエージェント型）・品質保証AI（HMAX Industry型）の3形態いずれも、人手では到達できなかった作業時間圧縮を実現しています",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "精度と速度を同時に底上げ",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "日立 HMAX Industryの品質ナレッジシステム、ダイキン×日立の設備故障診断、日立×三菱ケミカルの化学プラント展開、Inforの製造業向けQuality Management Agentが示すように、熟練者でないと判断できなかった領域に、生成AIが「人と同等以上の判断速度＋一定の精度」を持ち込みつつあります",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "外観検査AIとは？製造現場の品質保証を変える基本能力と選び方を解説",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "責任者が確認役を決め、原資料と照合して共有するまでの流れを試す",
+    "url": "https://career-survival.com/columns/ai-training-adoption-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "業務責任者がDの確認役を指定",
+    "url": "https://career-survival.com/columns/ai-training-adoption-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造物責任（PL）法",
+    "url": "https://www.ejinzai.jp/maker/manuf-opeffimp/generative-ai-utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "ルールは作っただけで安全や定着を保証するものではありません",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-rule-smallbusiness/",
+    "pass": 3
+   },
+   {
+    "quote": "一枚を配るだけで同じ扱いになるとは保証しません",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-rule-smallbusiness/",
+    "pass": 3
+   },
+   {
+    "quote": "同様の成果を保証するものではありません",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-rule-smallbusiness/",
+    "pass": 3
+   },
+   {
+    "quote": "面接評価のバラつきはAIで解決！ChatGPTのプロンプトで、採用の“見極め”精度を劇的に上げる方法",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   },
+   {
+    "quote": "7. 説明責任",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   },
+   {
+    "quote": "前述の「AI事業者ガイドライン」の8原則を踏まえつつ、自社の経営理念や業界特性（例：金融業なら「説明責任」、製造業なら「安全性」）に合わせた重点原則を明記する",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   },
+   {
+    "quote": "3. 責任体制の整備",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   },
+   {
+    "quote": "最終責任者（役員など）と、日常的な運用・審査を担当する部門（法務、情報システム、AI推進室など）を明確にする",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   },
+   {
+    "quote": "情報を入力する場合は、法人契約の専用AIサービス（学習データとして利用されないことが契約で保証されているもの）や、社内環境に構築されたセキュアなAIシステムのみを利用すること",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   },
+   {
+    "quote": "【責任と対策の明確化】",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   },
+   {
+    "quote": "最終責任の所在：",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   },
+   {
+    "quote": "AIが生成したコンテンツに関する著作権侵害の責任は、最終的にその利用を行った従業員と会社にあることを明記",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   },
+   {
+    "quote": "「免責文」の添付：",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   },
+   {
+    "quote": "内容の正確性については、最終的に人間が確認しています」といった免責文を添付することを検討",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   },
+   {
+    "quote": "責任体制と報告フロー",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   },
+   {
+    "quote": "AI利用に関する最終責任者、ガイドラインの所管部門、従業員からの相談窓口、インシデント発生時の緊急連絡先と報告手順を明記する",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "サステナビリティ経営",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 先行投資とROIの壁",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "ROIを数字で示せれば、社内合意もスムーズに進みます",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "経営は「AIを入れる」ではなく、「AIと共に成長する」と語ること",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "成果を測れるKPIを設定し、結果を定量化して共有します",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "経営、福祉、デジタルの分野で",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入の費用対効果は、単純なコスト削減だけでは測れません",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "企業の競争力強化：DXを推進し、データに基づいた意思決定が可能になることで、市場の変化に迅速に対応できるようになります",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "これらの多角的な視点から費用対効果を評価し、社内での合意形成を進めていくことが、AI導入プロジェクトを成功に導く鍵となります",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "【事例】「やりたいことが見えない経営者ほど、怖いものはない」福井の法面工事会社が、“価格競争” を捨てた日",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業AI研修教育研究所の生成AI研修は、従業員50名以下の中小企業を対象に、経営者・管理職・一般社員の階層別で実施する法人向け社員教育プログラムです",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の「AI経営実装メソッド」に基づき、診断から定着支援までを一気通貫で行います",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "「AI経営実装メソッド」とは何か",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "「AI経営実装メソッド」とは何か？",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者視点・業務視点——技術論ではなく経営課題から入る",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "代わりに、「御社の売上をAIでどう伸ばすか」「毎月40時間かかっている請求書処理をAIで8時間にする方法」といった、経営課題・業務課題を起点に組み立てます",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者・役員",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "AI経営戦略研修",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "AI投資の判断基準とROI試算ができる",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば10時間パッケージであれば「経営者・役員向け3時間 → 管理職向け3時間 → 一般社員向け3時間 → 全社フォロー1時間」といった設計が可能です",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者のAI投資判断・ROI算定実務",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者・役員 ｜",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の業務3件を対象にROI試算表を作成",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "AI投資の判断基準、費用対効果の計算方法、同業他社の投資水準、失敗する投資パターンの見分け方、補助金・助成金を含めた資金計画",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "大手IT企業に勤務していた頃、中小企業の経営者から「IT会社に勧められてシステムを導入したが、高額な費用をかけたのに使いこなせていない」という相談を何度も受けました",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "管理職・経営層向け講座",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "管理職や経営層を対象に、AI活用の判断や組織への展開を扱う講座です",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "年間100回以上の実績を持ち、エンタープライズ企業専用に設計された実践研修で、経営層から現場まで、その日から使える生成AIスキルを提供する",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "経営層・管理職向け",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "管理職・経営層向け",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "導入1年で利用率が25%から50%に向上し、開発部門のコーディング高速化や人事・生産部門での活用、マネジメント層の意思決定支援など全社的に浸透が進んだ",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "経営層から「で、何ができるようになったのか」と問われて答えに詰まります",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "到達度で語れる状態にしておくと、次年度の予算の話にもつながります",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画で人的資本やDX/ITを含む非財務価値の向上が重点戦略となった",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "AIが実装を支援することで、より本質的な意思決定に注力できるようになった",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "経営層の承認が早くなります",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "新入社員向けのDX研修、若手向けの自走型AI人材育成研修、経営者向け・管理職向けの演習というように、",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "動画の視聴状況だけでは、経営層に「何ができるようになったのか」を説明できません",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレートガバナンスとは、企業が適切に意思決定し、健全に経営されるための仕組みやルールです",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "予算内で最大の効果を引き出すため、総合的な費用対効果で判断する必要があります",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "無料体験や相談会も積極的に活用し、自社の予算と求める成果に合った研修を検討しましょう",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "研修ノウハウだけでなく、人的資本経営やDXなど幅広いテーマを取り扱う",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "経営者・役員研修",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "経営企画・事業企画職研修",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "アプリエンジニア(iOS/Android)研修",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、営業部門では、顧客の行動データを活用した提案の高度化が期待され、事業企画部門ではAIによる市場予測が意思決定の精度向上につながります",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを業務に取り入れることで、単なるツール活用にとどまらず、DXの第一歩として、企業全体の業務スピードや意思決定の質を引き上げるきっかけとなります",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、戦略的な意思決定に貢献できるようになります",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、ビジネスの現場ではAIの導入が急速に進展しており、業務効率化や意思決定の高度化といった分野でその活用が広がりを見せています",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、AI導入の企画を担う企画職や、業務改善を推進するマネージャーなど、現場の意思決定に関与する職種にこそ、AIに関する一定のリテラシーが求められます",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "とくに経営層や管理職においては、「AIで何が可能か」「導入に伴うリスクは何か」といった観点での判断が求められる場面が増えており、表面的な理解では対応しきれません",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "AI研修によって現場で即座に応用可能な知識や手法を手に入れ、業務改善や意思決定の質を高める具体的な力として活かせます",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "経営可視化研修（Power BI・Query）",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "料金体系が明確で費用対効果が高いか",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "3. 料金体系が明確で費用対効果が高いか",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "料金体系が明確であり、費用対効果が高いかも重要な判断基準です",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "「予算内で効果的な社員研修を実施したい…」",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "経営層・管理職の理解をそろえたいならカナン",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI研修の対象は、全社員のリテラシー底上げ、管理職・経営層の判断力、部門ごとの実務適用、社内推進を担う専門人材の育成という4つの層に分かれます",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "管理職・経営層",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "トヨタシステムズ × 富士通 ─",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "NTT DATA collaborates with NVIDIA and FANUC Germany to create a digital twin of robotic arms for industrial digitalization use cases",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンス ─",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIのオルツとキーエンスが資本業務提携、AI技術と生産性向上ノウハウを融合",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業の社内勉強会",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "記事をシェアする",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "富士通株式会社",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの活用でサポートデスクの工数を8割減｜富士通株式会社",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforceのパートナー企業「富士通」はSalesforceの生成AI「Einstein for Service」を活用し、製品に関するお問い合わせにかかる工数を8割以上減らしました",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "富士通ではEinstein for Serviceの以下の2つの機能を使用したことで、オペレーターの工数を減らしています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "富士通は回答の精度向上のために、ナレッジの修正や加筆をして何度も検証を行い、運用しています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "富士通では得られた知見を活かし、顧客企業のコンタクトセンターの課題解決を支援するサービスも用意しています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "【生成AIで約8割工数削減】富士通のSalesforceサポートデスクが挑む顧客体験と生産性の向上",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "【日立建機】グローバルビジネスを支えるシステム基盤にMuleSoftあり",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "Sverige (Svenska)",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "明治大学政治経済学部卒業後、大手IT企業での勤務を経て独立",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "大手IT企業に勤務していた頃、中小企業の経営者から「IT会社に勧められてシステムを導入したが、高額な費用をかけたのに使いこなせていない」という相談を何度も受けました",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェア",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "NTT HumanEX、全社員向け「DX＆AI ビギンズパス」を提供開始",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "2024年にデロイト トーマツが行った調査によると、プライム上場企業の約9割が生成AIを導入しており、「活用しないと競争力で劣る」という認識が広がっています",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "デロイト トーマツ、プライム上場企業における生成AI活用の意識調査～社内の利用割合が高いほど成果を感じる",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "本講座では、「AIを導入するだけで競争に勝てるのか？」という視点から、そもそもAIを使うメリットは何か、AIを使わないと今後どうなっていくのかを、日本IBM、デロイトトーマツコンサルティングにてデザイン思考の専門家として活躍してきたBeth合同会社の河上泰之社長に解説いただいています",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "・株式会社富士通ラーニングメディア",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、広告チームで、AIが競合にはない切り口のバナー文やキャッチコピーを瞬時に生成し、即日配信するといった使用方法も可能です",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社富士通ラーニングメディア",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "富士通ラーニングメディアは、AIやクラウド、データサイエンスといった最新テーマに対応しており、多彩な研修メニューを提供しています",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "対面・オンライン両対応で導入しやすく、すでに大手企業にも多数導入実績があります",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区大手町一丁目2番1号 Otemachi Oneタワー6F",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "すでに830社以上が導入しており、大鵬薬品や三井住友海上火災保険など大手企業の実績も豊富だといえます",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "大手化学業界｜少人数ワークショップで社内展開の土台構築",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "大手住宅業界｜1人当たり月間1.5時間の文書作成業務を削減",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "大手飲料メーカーにて法人営業・営業企画を歴任し、数多くの営業戦略を展開",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "自社に合う活用法がわからないなら富士通ラーニングメディア",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "富士通ラーニングメディア",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "知識の習得だけでなく、自社の業務にどう当てはめるかまで考えたい場合に向くのが富士通ラーニングメディアです",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "【集合】生成AIを活用した価値創出ワークショップ｜富士通ラーニングメディア",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "公開されている実績には、大手建設会社での6か月間の実践型AI研修があります",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、以前紹介されていた「講師全員が現役の大手IT企業AIエンジニア」「プロンプトエンジニアリング講座」は、",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "富士通ラーニングメディア（UAI91L）",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "実例としては、富士通ラーニングメディアの2日間の集合研修が受講者1名あたり121,000円（税込）、ユースフルの集合研修が1時間あたり30万円（税別）、同社のeラーニングが月額350円/IDから（税別）、SHIFT AI for BizのSHIFT AIリスキリングコースが1名あたり300,000円（税抜）と公表されています",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "競合調査のやり方！マーケターが確認すべき項目と手順…",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "国内ではパナコネConnectAI＋Manufacturing AIエージェント・日立HMAX Industry・ダイキン×日立・日立×三菱ケミカル・横河電機×UptimeAIが業務エージェント本格運用の主軸",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "海外大手はGE Appliances 800超エージェント・Schneider×Microsoft・Infor×AWS・Honeywell・Rockwellなど大手OT/ERP/クラウド各社がAgentic Manufacturing基盤を相次ぎ発表",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "パナソニックコネクトのConnectAIは2024年に年間44.8万時間を削減し、図面照合向けのManufacturing AIエージェントは作業時間を最大97%短縮しています",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "日立は2026年4月から品質保証AIエージェント「品質ナレッジシステム」をHMAX Industryとして提供開始し、検索時間を約9割・対応レポート作成時間を8割以上削減、ダイキン×日立の設備故障診断AIエージェントは10秒以内・90%以上の精度で原因と対策を提示、2025年12月には三菱ケミカルとの化学プラント向け共同検証も始まりました",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "1. パナソニックコネクト：ConnectAIで年44.8万時間削減（2025年7月発表）",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "3. 日立：品質ナレッジシステムをHMAX Industryとして提供開始（2026年4月提供開始）",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "4. 日立システムズ：製造業向けアシスタントAIで業務効率約32%向上（2025年8月発表）",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "5. 日立×三菱ケミカル：HMAX Industryで化学プラントへ横展開（2025年12月発表）",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "6. 栗本鐵工所×日立ハイテク：電池スラリー混練プロセス最適化AIでフィジカルAI活用（2026年5月発表）",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "7. 三菱電機：エッジデバイス向け製造業特化LLMを開発（2025年6月発表）",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "パナソニックコネクトが2025年7月に発表した「ConnectAI」の活用実績",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "への活用が目立つと示されています(なお、同調査はAI活用全般を対象としており、生成AI限定のシェアを直接示すものではない点には注意が必要です)",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "日立と三菱ケミカルは2025年12月24日",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "栗本鐵工所と日立ハイテクは2026年5月11日",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "日立のHMAX IndustryやフィジカルAIが、化学プラント・電池製造などのプロセス・素材産業へ横展開する流れが2025-2026年に顕在化しました",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "ConnectAIの2025年度活用実績を読む｜2026年発表と中小製造業の判断表",
+    "url": "https://career-survival.com/columns/ai-training-adoption-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI導入後の活用促進策：社員研修と運用ガイド｜コラム｜NTT東日本の自治体クラウドソリューション｜クラウドソリューション｜サービス｜法人のお客さま｜NTT東日本",
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/municipality/column-37.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTT東日本の選ばれる理由",
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/municipality/column-37.html",
+    "pass": 3
+   },
+   {
+    "quote": "Writer：NTT東日本 アベ",
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/municipality/column-37.html",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "熟練技術者のノウハウ継承問題の解決",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "長年現場を支えた熟練技術者の退任は、企業にとって大きな痛手です",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "若手技術者は、AIを“24時間の師匠”として学ぶことができます",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIは、人が考える時間を取り戻し、「思考と経験の掛け算」で成長する現場をつくります",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "熟練者の頭の中にある“経験の文脈”をAIが対話で引き出し、「なぜ」「どうして」を言葉に変える",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、次世代技術者はマニュアルだけでなく、“語りかけてくれる教材”で学べるようになります",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "この往復が“経験”を生み、AIも人も育っていきます",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "思考と経験、その掛け算が現場の成長力になります",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの思考を拡張し、経験を次へつなぐ相棒です",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "多くのDX担当者が経験するのは、導入から数ヶ月後の停滞です",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "AIは、人の経験と感性を映し出し、「考える力」を再び人の手に取り戻させる存在です",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "「成長とは、思考と経験の掛け算である」",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "上場コンサルティング会社で製造業のDX支援を経験し、現在は「図面バンク × AIエージェント」を掛け合わせた事業開発を統括している",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のAI活用事例には、検品の自動化、需要予測、生産計画の最適化、設備の異常検知、熟練技術者のノウハウ継承などがあります",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "専門人材の獲得：38%",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "技術継承：熟練技術者のノウハウをAIに学習させ、形式知として残すことができます",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "同社ではエンジニアと連携し、3Dプリンターに関する熟練暗黙知（個人の経験則にもとづくノウハウ）をAIに学習させ、自動化しました",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "AI資格検定",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "認定番号の照会",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "「AI研修を受けたが、結局何も変わらなかった」——そんな経験はありませんか",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "登録不要でダウンロードできます",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "専門用語を使わず、IT未経験者を前提に設計しています",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "を全文無料で公開しています（PDFあり・登録不要）",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "AI資格検定「ビジネスAI実務検定」を新設しました",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "全社のリテラシー教育から部署ごとの実践、専門人材の育成まで",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "スキル別認定プログラム",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "資格取得支援講座",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "G検定・E資格・生成AIパスポートなどの資格取得を目標に据えた講座です",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "専門人材の育成",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "G検定・E資格・生成AIパスポート",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "などの資格取得を目標に据えた講座も選べます",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "【実例公開】総合ディスカウントストア ミスターマックスが語る生成AI活用術〜ECサイトへの商品登録から物流センターでの活用まで〜",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "導入前は、メールの文面チェックに時間がかかり冗長であったり、物流センターでの破損状況の確認に曖昧さが残る、ECサイトへの商品登録に1商品あたり約10分かかる、HTML修正に1～2時間かかるといった課題があった",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "導入後は、メールが簡潔で明確になり、破損分析の調査時間が短縮、EC商品登録が2分に短縮、HTML修正が10分に短縮されるなど、業務効率化が実現した",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "ECサイトへの商品登録に1商品あたり約10分かかっていた",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "EC商品登録の時間が1商品あたり約10分から2分に短縮",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "約70%にあたる901名が3つのテストで合格点を獲得し多くがSIGNATE CertificationsでGrade1以上を取得した",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "AIやデータサイエンスの専門人材は",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "全社のAIリテラシーを底上げしたいのか、特定部門の実務にAIを組み込みたいのか、専門人材を育てたいのか",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "現場経験のある講師で選ぶ",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "単に知識だけでなく、実際の業務で生成AIを活用し、成果を出した経験を持つ「実践のプロ」であるかを重視しましょう",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "本講座では、話題の著者・大塚あみ氏が、ChatGPTを活用した「100日チャレンジ」の経験を語っています",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "研修会社を選ぶ際は、明確な目的設定と成果指標、実務に即した実践的カリキュラム、現場経験豊富な講師、充実した研修後支援体制が重要です",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "AIエンジニアとは｜仕事内容や未経験からなる方法を解説",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "電気・電子・機械技術者研修",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "素材・食品・メディカル技術者研修",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "現場経験が豊富なITコンサルタントが講師を務め、実際のDXプロジェクトで得た知見をベースに、ワークショップ形式でスキルを身につけられる設計",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "情報処理技術者試験対策／エンジニア向け",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "民間企業として初めて情報処理技術者試験対策を手がけた実績があり、AIやクラウド、セキュリティ分野まで幅広い研修を展開",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "現場経験が豊富なITコンサルタントが講師を務め、実際のDXプロジェクトで得た知見をベースに、ワークショップ形式でスキルを身につけられる設",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "資格取得も視野に入れる場合は、G検定やITパスポートの対策講座もセットで受講できます",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "AI研修の対象者を検討する際に、技術者向けの教育だ、と決めつけていないでしょうか？",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "また、個人で広告出稿した経験も生かし、リスティング広告、SNS広告等の運用にも従事",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "たくさんの組織DX推進を支援してきた私たちの経験をもとに、「本当に効果的なIT研修ベンダーの選び方」をご紹介します",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "は、数多くの企業様へのAI導入のコンサルティング・開発支援で培った経験や知見を活かし、",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "講師の専門性と実務経験",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI研修の対象は、全社員のリテラシー底上げ、管理職・経営層の判断力、部門ごとの実務適用、社内推進を担う専門人材の育成という4つの層に分かれます",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "推進担当・専門人材",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "専門人材・エンジニア",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "DX伴走支援",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIによる「仕様書自動生成」PoCを実施し、開発工数を半減",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "むしろ、“人が考える時間”を取り戻すためのあたたかい伴走者です",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の文脈を理解し、現場の言語で伴走できるパートナーを選ぶことです",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "多くのDX担当者が経験するのは、導入から数ヶ月後の停滞です",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "結論：生成AIは、現場の小さな挑戦を支える伴走者である",
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "pass": 3
+   },
+   {
+    "quote": "情報漏洩対策･社内運用ルール作成･安全な導入法",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "実業務に基づいたプロンプト設計、定着支援、制度設計の伴走により「現場が動く･変わる･自走できる」",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "発・運用まで一気通貫で伴走支援します",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "自社業務に合わせたAIエージェントを内製できる人材と体制づくりを、環境準備・業務整理・検証・開発・運用まで一気通貫で伴走支援します",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "＃常駐・伴走支援",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "業務フロー組み込み・運用設計",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "常駐・伴走支援",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "3か月程度の常駐・伴走",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "必要データ・入力情報・出力形式・運用フローの整理",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "一緒に、実際の業務テーマで設計〜運用設計まで進めます",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "期間は3か月程度を想定します",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "社内のDX担当・情報システム担当・現場担当と一緒に、実際の業務テーマで設計〜運用設計まで進めます",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "実業務での試験運用",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "運用ルール整備",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "3か月 常駐・伴走支援",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "→ 常駐・伴走支援",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "常駐・伴走支援について",
+    "url": "https://first-automation.jp/school",
+    "pass": 3
+   },
+   {
+    "quote": "生産工程でも、異常検知を行うためにAIを搭載したカメラやセンサーを設置することで、生産スタッフが工数をかけてチェックしなくても済むようになります",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "設計にかかる工数を削減する",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "また、担当者がうまく活用できるようにするためにも、研修の整備や運用開始後のフォローアップなども積極的に実施しましょう",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "運用費用（ランニングコスト）",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの活用でサポートデスクの工数を8割減",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "生産計画の最適化システムで工数を10分の1に削減",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの活用でサポートデスクの工数を8割減｜富士通株式会社",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforceのパートナー企業「富士通」はSalesforceの生成AI「Einstein for Service」を活用し、製品に関するお問い合わせにかかる工数を8割以上減らしました",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "富士通ではEinstein for Serviceの以下の2つの機能を使用したことで、オペレーターの工数を減らしています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "富士通は回答の精度向上のために、ナレッジの修正や加筆をして何度も検証を行い、運用しています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "【生成AIで約8割工数削減】富士通のSalesforceサポートデスクが挑む顧客体験と生産性の向上",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "生産計画の最適化システムで工数を10分の1に削減｜株式会社日本触媒",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本触媒は、高吸水性樹脂（SAP）の生産計画の最適化を図るシステムを開発し、運用しています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、日本触媒のノウハウを組み込んだAIアルゴリズムの構築に成功し、2022年10月に姫路製造所で運用を開始しました",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車株式会社は、製造現場が自らAIモデルを開発できる「AIプラットフォーム」を開発し、運用しています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "人数による追加料金はありません",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の人数で実質負担を計算する →",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年（2026年）8月3日以降に提出する訓練計画届から、人材開発支援助成金の運用が変更されました",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "訓練開始日の6か月前から1か月前まで",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "訓練計画届の提出期限（開始1か月前）",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "助成金の支給申請は訓練終了から2か月以内が期限のため、必要書類の提供もこの段階で行います",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "業務棚卸し表（処理時間・頻度・担当者付き）と、6か月分のAI適用計画書を作成します",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "自社のAI利用規程を作成し、社員に運用ルールを説明できる",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "各料金の内訳・人数別の実質負担早見表は",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 人数による追加料金はありません",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "講師派遣型は人数が増えても料金が変わらないため、大人数を出せる会社ほど割安になります",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "少人数の会社向けに、同じカリキュラムを",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "1名150,000円（税別）から受講できる公開講座",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "助成金を活用した場合の実質負担は1名あたり27,500円が目安です",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "1名110,000円（税別）",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入研修から活用支援まで一気通貫で伴走する法人向けサービス",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "「人材育成の先」を見据えてプロフェッショナルが伴走支援",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "一気通貫伴走サポート",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "学習状況の管理やスキルの可視化を備えるものがあり、全社への大人数展開に向いています",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "伴走支援型(実装・定着まで支援)",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "自社の実際の業務課題を題材に、専門家がプロジェクトに伴走する形式です",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "研修後の実装・運用・定着まで踏み込みます",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "360,000円",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "324,000円",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "306,000円",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "282,000円",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "研修時間は10〜20時間を想定しており、料金は10時間程度の研修料金となります",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "助成金対応パッケージ（10時間1,000,000円／20時間1,800,000円／30時間2,400,000円・いずれも税別）",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "と、単発の90分研修250,000円・半日研修400,000円・1日研修700,000円（税別）をご用意しています",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000,000円",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "▲750,000円",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "▲100,000円",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "150,000円",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "15,000円",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "1,800,000円",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "▲1,350,000円",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "▲200,000円",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "250,000円",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けAI研修の人気比較10選！費用感・選び方などを解説【2026年最新】 | O!Product AI",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "動画を配信するeラーニングなら1人あたり年に数万円、講師が出向くハンズオン研修なら1日で数十万円、自社の業務に合わせて作り込む伴走型なら月に数十万円から数百万円です",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり年1万〜10万円程度",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "1回10万〜60万円程度",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "短期集中型や団体割引を活用するほか、厚生労働省の助成金を利用することで最大75%OFFと費用を抑えられる場合もあります",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、厚生労働省が提供する「人材開発支援助成金」などを活用することで、研修費用が最大75%OFFとなるケースもあります",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新】ChatGPT研修の費用・メリット・選び方をわかりやすく解説",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、世界のAI市場は2022年時点で前年比78.4％増という驚異的な伸びを見せ、約18兆7,000億円規模に達しています）",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年には約10倍である1,847億ドル（約27兆円）超の市場になるという予測も出ており、今後の市場拡大は予想しやすい",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "国内でもAIシステムへの投資が活発になっており、2023年には6,858億円を超える支出が見込まれています",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "2028年には2兆5,000億円を突破する見通しです",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "月額制の1on1メンタリングスタイルであり、AIやデータサイエンスに関する悩みに対してピンポイントに対応",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "DX研修：55,000円～",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTの活用研修：528,000円",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば「生成AI研修（55,000円）」では、具体的なプロンプトの設計方法やビジネス活用例を学ぶことができ、社内提案資料の自動生成などにも応用可能です",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "・AIリテラシー研修：55,000円",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "月額制の1on1メンタリングスタイルであり、AIやデータサイエンスに関する悩みに対してピンポイントに対",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Plan A（80,000円/月4回）では週1ペースで専門家とじっくり対話でき、都度課題に合わせたアドバイスがもらえます",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 料金体系が明確で費用対効果が高いか",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "ウズカレBiz「AI人材育成コース」｜助成金活用で実質1,000円から受講可能",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "1つの形式で全社に対応しようとすると、費用も負担も膨らみます",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "1IDあたりの月額または年額",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "121,000円（税込・税別110,000円）",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "料金ページでは、eラーニング（27コース）が月額350円/IDから、集合研修が1時間30万円、コンサルティングが応相談と示されています",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "簡易トライアルは初期20万円前後・通常PoCは100〜500万円目安で単一業務→全社展開の3段階で進めるのが最短",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "PoC段階のコスト目安（簡易トライアル20万円前後〜通常PoC500万円）",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "本格運用段階のコスト目安（概算年間500万〜数億円）",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "を実現するとされ、3つの導入支援パック（スターターパック19.8万円〜・アセスメントパック400万円〜・アドバンスパック300万円〜）でPoCから本番展開まで段階的にカバーします",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "日立システムズが提供するスターターパック（19.8万円〜）・アセスメントパック・アドバンスパックの3段階構成も、PoC→本番展開の連続性を意識した典型例です",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "予算規模は100〜500万円、対象人数は5〜30名、期間は1-3ヶ月が目安です",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "日立システムズのスターターパック（19.8万円〜）のように、トライアル環境＋ベンダー支援パッケージを利用するのも現実的な選択肢です",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": ": 月10〜50万円程度（高性能モデルを中心に利用する想定）",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": ": 50〜200万円（Azure OpenAI・Bedrock基盤設計）",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": ": 50〜250万円（社外パートナー利用時）",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "通常PoCの合計は100〜500万円が一般的なレンジで、日立システムズのスターターパック（初期費用19.8万円・月額10万円〜）のような簡易トライアル型なら20万円前後から始められます",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": ": 月50〜500万円（利用者100〜1,000人規模）",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": ": 月30〜200万円（Azure/AWS環境・監視・セキュリティ）",
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "pass": 3
+   },
+   {
+    "quote": "外注費を3.6億円削減したSHIFT AIの実例をもとに、AIエージェントに業務を任せる「AI経営」の3ステップ（自動化・組織化・高利益化）を公開しています",
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-rule-smallbusiness/",
+    "pass": 3
+   },
+   {
+    "quote": "ディープフェイク上司の指示に従い38億円を詐欺師に送金してしまう事態が発生、ディープフェイクを見分ける方法はあるのか？",
+    "url": "https://pronaviai.com/jinji/article/64",
+    "pass": 3
+   },
+   {
+    "quote": "個別コンサルティングについては1時間あたり5万円",
+    "url": "https://storialaw.jp/generative-ai",
+    "pass": 3
+   },
+   {
+    "quote": "リスク診断簡易レポートについては10万円～（内容に応じて御見積いたします）",
+    "url": "https://storialaw.jp/generative-ai",
+    "pass": 3
+   },
+   {
+    "quote": "社内生成AIガイドライン策定支援：30～100万円（内容の複雑性に応じて御見積）",
+    "url": "https://storialaw.jp/generative-ai",
+    "pass": 3
+   },
+   {
+    "quote": "社内研修：15万円～（2時間）",
+    "url": "https://storialaw.jp/generative-ai",
+    "pass": 3
+   },
+   {
+    "quote": "新規サービスの適法性調査・ビジネススキーム立案：10～30万円（目安）",
+    "url": "https://storialaw.jp/generative-ai",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "〜AIは中小企業の",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模チーム向け",
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "pass": 3
+   },
+   {
+    "quote": "売上向上：生産量アップ、製品品質向上によるブランド価値向上など",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "従業員満足度の向上：危険作業や単調な繰り返し作業から従業員を解放し、より創造的な業務に集中させることができます",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "国や自治体は、中小企業のITツール導入や生産性向上を支援するための補助金制度を設けています",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "PoCとは、限定的な環境でAIを実際に動かしてみて、「技術的に実現可能か」「期待する効果は得られそうか」を検証する小規模なトライアルのことです",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "【事例】「売上が伸びるほど、会社は苦しくなる」",
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業AI研修教育研究所",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向け生成AI研修・社員教育｜助成金対応10時間コース｜中小企業のAI人材育成",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業AI研修教育研究所の生成AI研修は、従業員50名以下の中小企業を対象に、経営者・管理職・一般社員の階層別で実施する法人向け社員教育プログラムです",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "当研究所は、どのITベンダーとも提携しない完全中立の立場で、200社以上の中小企業のAI導入を支援してきました",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ中小企業に特化しているのか",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "・中小企業が「事業展開等リスキリング支援コース」を活用し、受講者10名で実施した場合の試算です",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "経費助成率は中小企業75%（大企業60%）、賃金助成は1人1時間あたり1,000円（中小企業）です",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けAI研修会社の比較｜選び方の7ポイント",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "代わりに、「御社の売上をAIでどう伸ばすか」「毎月40時間かかっている請求書処理をAIで8時間にする方法」といった、経営課題・業務課題を起点に組み立てます",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "事例1：製造業（従業員28名）",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "事例2：サービス業（従業員15名）",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "事例3：小売業（従業員40名）",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員50名以下の中小企業のAI導入事例（全21業種）",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ中小企業に特化しているのか？",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "／中小企業AI研修教育研究所 所長 兼 日本クラウドコンピューティング株式会社 代表執行役社長",
+    "url": "https://cloud-cc.com/lecture/",
+    "pass": 3
+   },
+   {
+    "quote": "経費助成は中小企業75%・大企業60%",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "45%（大企業30%）、賃金要件などを満たすと+15%",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "（賃金助成は対象外）で、限度額も中小15万円・大企業10万円と別に定められています",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "売上や利益といった事業の数字ではなく、",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足や労働コスト上昇を背景に、従業員の生産性向上を目的として生成AIの導入を決定",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "従業員に生成AIを使いこなせるか不安があった",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "多くの社員を対象とした大規模な研修の実施が求められた",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "自社と近い業種・規模での導入実績",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "例のように数千人規模で一斉に展開することもあれば、数名の事務所がまとめて受けることもあります",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "大企業の全社展開とは別に、",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "数名規模の事務所がまとめて受講します",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業75%・大企業60%",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "1名から数百名規模まで対応する",
+    "url": "https://oproduct.ai/categories/9067842",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI研修は、従業員一人ひとりがAIの基礎知識や仕組み、倫理的側面を正しく理解する機会を提供します",
+    "url": "https://schoo.jp/biz/column/1857",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、世界のAI市場は2022年時点で前年比78.4％増という驚異的な伸びを見せ、約18兆7,000億円規模に達しています）",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "AI研修を通じてデータ分析の基本的な知識と実践力を身につけた人材は、売上データや顧客の行動履歴をスムーズに読み解くことが可能",
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "同業種や企業規模に応じた実績があるか",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "5. 同業種や企業規模に応じた実績があるか",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "自社と同じ業種や企業規模の導入実績や事例があるかを確認することが重要です",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "理由は、業務フローや企業の規模によって、生成AIの最適な活用方法が異なるためです",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "研修会社が多くの企業に研修を提供していても、自社の業種や規模に適したノウハウがあるとは限りません",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "業界特有の業務や企業規模ごとの課題を理解していない研修では、実践的な内容にならず、業務に活かしにくい可能性があります",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数： 10,000人以上",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数： 5,000人以上",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "企画職では自社基幹ブランドの分析を通じて常に前年度を上回る売上を実現させた、企画・セールス実務のスペシャリスト",
+    "url": "https://business.youseful.jp/blog/c242",
+    "pass": 3
+   },
+   {
+    "quote": "助成率は規模やコースで変わるため、金額の見立ては後述する厚生労働省の資料で確認してください",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "自社と近い業種・規模での実績があるか、公開されているか",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "見落とせないのは、自社と近い業種や規模での支援実績があるかどうかです",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "正規雇用労働者等（中小企業）",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "正規雇用労働者等（中小企業以外）",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "+200円（中小企業以外は+100円）",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "経費助成の限度額は受講者1人1訓練あたりで、実訓練時間数が10時間以上100時間未満なら中小企業15万円・大企業10万円、100時間以上200時間未満なら中小企業30万円・大企業20万円、200時間以上なら中小企業50万円・大企業30万円です",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "経費助成率（中小企業／大企業）",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "45%（大企業の記載なし）",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "同リーフレットの活用例では、年間利用料200万円に対して経費助成60%（大企業は45%）で120万円（大企業は90万円）という計算が示されています",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "経費助成の限度額は受講者1人あたりで、訓練時間が10時間以上100時間未満なら中小企業30万円・大企業20万円、100時間以上200時間未満なら中小企業40万円・大企業25万円、200時間以上なら中小企業50万円・大企業30万円です",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "eラーニングと通信制の限度額は中小企業15万円・大企業10万円、定額制サービスは1人1か月2万円と注記されています",
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向け",
+    "url": "https://www.insource.co.jp/maker/ai_utilization.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.dga.co.jp/column/20251029-03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-in-house-training-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-everyones-f.jp/aitraining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://first-automation.jp/school",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud-cc.com/lecture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oproduct.ai/categories/9067842",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/manufacturing-ai-training/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://schoo.jp/biz/column/1857",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seedinc.jp/column/ai/ai-training/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.youseful.jp/blog/c242",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://malna.co.jp/blog/generation_ai_training/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/sme-ai-deployment-guide/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://trickle-ai.com/service/category/aitraining",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.insource.co.jp/maker/ai_utilization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shibuya-smeca.com/column/%e4%b8%ad%e5%b0%8f%e4%bc%81%e6%a5%ad%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e7%94%9f%e6%88%90ai%e3%82%92%e6%b4%bb%e7%94%a8%e3%81%97%e3%81%9f%e6%95%99%e8%82%b2%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spikestudio.jp/blog/dx-support-basics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-systems.com/dx/column/ai-webinar2025-01-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brains-tech.co.jp/impulse/blog/generation-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-623.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/ss/general/manufacture-tips/generative-ai.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-survival.com/columns/ai-training-adoption-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ejinzai.jp/maker/manuf-opeffimp/generative-ai-utilization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/municipality/column-37.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/ai-rule-smallbusiness/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pronaviai.com/jinji/article/64",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toma.co.jp/blog/software_it/gai-4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.masudafunai.com/articles/12985",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storialaw.jp/generative-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategyand.pwc.com/jp/ja/publications/report/genai-in-industrial-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/sme-ai-training/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service-innovation.co.jp/s-ai-training/point-topics/2554/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/ai/basic/6953/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://smbiz.asahi.com/article/16436441",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei.shift-ai.co.jp/manufacturing-ai-employee-training/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dstrategyinc.com/2025/09/04/%E4%B8%AD%E5%A0%85%E3%83%BB%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%EF%BC%88%EF%BD%9E%E5%A4%A7%E4%BC%81%E6%A5%AD%EF%BC%89%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E7%94%9F%E6%88%90ai%E6%B4%BB%E7%94%A8%E3%82%92/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catorce.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aidma-hd.jp/ai/generative-ai-kensyu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skillupai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-ai.co.jp/media/7847/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kearney.com/service/digital-analytics/article/generative-ai-for-training-the-future-is-here-for-manufacturers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmfgalliance.org/events/generative-ai-certification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gao.gov/products/gao-25-107651",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.l2l.com/blog/generative-ai-manufacturing",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業の生成AI社内展開（研修と運用定着）",
+   "results": [
+    "https://www.dga.co.jp/column/20251029-03/",
+    "https://ai-keiei.shift-ai.co.jp/ai-in-house-training-guide/",
+    "https://f-everyones-f.jp/aitraining",
+    "https://first-automation.jp/school",
+    "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/",
+    "https://cloud-cc.com/lecture/",
+    "https://www.finchjapan.co.jp/technology/8097/",
+    "https://www.brains-tech.co.jp/impulse/blog/generation-ai/",
+    "https://www.aidma-hd.jp/ai/generative-ai-kensyu/",
+    "https://career-survival.com/columns/ai-training-adoption-manufacturing/"
+   ]
+  },
+  {
+   "query": "製造業の生成AI社内展開（研修と運用定着） 費用 相場",
+   "results": [
+    "https://oproduct.ai/categories/9067842",
+    "https://ai-keiei.shift-ai.co.jp/manufacturing-ai-training/",
+    "https://cloud-cc.com/lecture/",
+    "https://schoo.jp/biz/column/1857",
+    "https://www.seedinc.jp/column/ai/ai-training/",
+    "https://business.youseful.jp/blog/c242",
+    "https://malna.co.jp/blog/generation_ai_training/",
+    "https://soken.signate.jp/column/ai-training",
+    "https://uzuz-college.jp/biz/blog/31770/",
+    "https://campnet.co.jp/blog/ai-cost-guide.html"
+   ]
+  },
+  {
+   "query": "製造業の生成AI社内展開（研修と運用定着） 事例 中堅企業",
+   "results": [
+    "https://www.dga.co.jp/column/20251029-03/",
+    "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/",
+    "https://ai-keiei.shift-ai.co.jp/sme-ai-deployment-guide/",
+    "https://trickle-ai.com/service/category/aitraining",
+    "https://www.insource.co.jp/maker/ai_utilization.html",
+    "https://shibuya-smeca.com/7193/",
+    "https://cloud-cc.com/lecture/",
+    "https://spikestudio.jp/blog/dx-support-basics",
+    "https://www.youtube.com/watch?v=2QHiY1JROAU",
+    "https://www.ai-souken.com/article/manufacturing-ai-generation-application-cases"
+   ]
+  },
+  {
+   "query": "製造業の生成AI社内展開（研修と運用定着） 工場 製造業",
+   "results": [
+    "https://www.dga.co.jp/column/20251029-03/",
+    "https://www.salesforce.com/jp/blog/jp-manufacturing-ai/",
+    "https://www.hitachi-systems.com/dx/column/ai-webinar2025-01-01/",
+    "https://www.brains-tech.co.jp/impulse/blog/generation-ai/",
+    "https://www.insource.co.jp/maker/ai_utilization.html",
+    "https://business.ntt-east.co.jp/content/cloudsolution/column-623.html",
+    "https://www.keyence.co.jp/ss/general/manufacture-tips/generative-ai.jsp",
+    "https://www.youtube.com/watch?v=KcBs6_4P1AA",
+    "https://first-automation.jp/school",
+    "https://career-survival.com/columns/ai-training-adoption-manufacturing/"
+   ]
+  },
+  {
+   "query": "製造業の生成AI社内展開（研修と運用定着） 責任 範囲 免責",
+   "results": [
+    "https://business.ntt-east.co.jp/content/cloudsolution/municipality/column-37.html",
+    "https://ai-keiei.shift-ai.co.jp/ai-rule-smallbusiness/",
+    "https://pronaviai.com/jinji/article/64",
+    "https://toma.co.jp/blog/software_it/gai-4/",
+    "https://www.masudafunai.com/articles/12985",
+    "https://storialaw.jp/generative-ai",
+    "https://bc.at-s.com/kiji/feature_se19",
+    "https://biz.moneyforward.com/ai/basic/6953/",
+    "https://www.ohebashi.com/jp/newsletter/04_202401_Hirose.pdf",
+    "https://hojin-ai-kenshu.com/guide/generative-ai-training-internal-rollout"
+   ]
+  },
+  {
+   "query": "製造業の生成AI社内展開（研修と運用定着） 経営判断 損失額",
+   "results": [
+    "https://www.dga.co.jp/column/20251029-03/",
+    "https://www.strategyand.pwc.com/jp/ja/publications/report/genai-in-industrial-manufacturing.html",
+    "https://ai-keiei.shift-ai.co.jp/sme-ai-training/",
+    "https://service-innovation.co.jp/s-ai-training/point-topics/2554/",
+    "https://trickle-ai.com/service/category/aitraining",
+    "https://biz.moneyforward.com/ai/basic/6953/",
+    "https://schoo.jp/biz/column/1857",
+    "https://smbiz.asahi.com/article/16436441",
+    "https://first-automation.jp/school"
+   ]
+  },
+  {
+   "query": "製造業の生成AI社内展開（研修と運用定着） スタートアップ",
+   "results": [
+    "https://www.dga.co.jp/column/20251029-03/",
+    "https://first-automation.jp/school",
+    "https://ai-keiei.shift-ai.co.jp/manufacturing-ai-employee-training/",
+    "https://dstrategyinc.com/2025/09/04/%E4%B8%AD%E5%A0%85%E3%83%BB%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%EF%BC%88%EF%BD%9E%E5%A4%A7%E4%BC%81%E6%A5%AD%EF%BC%89%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E7%94%9F%E6%88%90ai%E6%B4%BB%E7%94%A8%E3%82%92/",
+    "https://catorce.jp/",
+    "https://www.aidma-hd.jp/ai/generative-ai-kensyu/",
+    "https://www.insource.co.jp/maker/ai_utilization.html",
+    "https://trickle-ai.com/service/category/aitraining",
+    "https://www.skillupai.com/",
+    "https://career-survival.com/columns/ai-training-adoption-manufacturing/"
+   ]
+  },
+  {
+   "query": "generative AI rollout and training for manufacturers",
+   "results": [
+    "https://www.kearney.com/service/digital-analytics/article/generative-ai-for-training-the-future-is-here-for-manufacturers",
+    "https://newmfgalliance.org/events/generative-ai-certification/",
+    "https://www.gao.gov/products/gao-25-107651",
+    "https://www.l2l.com/blog/generative-ai-manufacturing",
+    "https://onward.partners/learning/open-trainings-for-manufacturing/industrial-ai-training/",
+    "https://www.vinsys.com/blog/generative-ai-for-manufacturing",
+    "https://www.greatplacetowork.com/resources/blog/100-best-training-workforce-ai",
+    "https://www.facebook.com/deephowknowhow/posts/generative-ai-is-transforming-how-manufacturers-approach-trainingdelivering-fast/580522427920194/",
+    "https://tulip.co/blog/generative-ai-manufacturing/",
+    "https://www.classicinformatics.com/blog/generative-ai-for-manufacturing"
+   ]
+  },
+  {
+   "query": "generative AI rollout and training for manufacturers startup pricing",
+   "results": [
+    "https://www.leewayhertz.com/generative-ai-for-startups/",
+    "https://www.sciencedirect.com/science/article/pii/S0148296325001432",
+    "https://iternal.ai/generative-ai-consulting",
+    "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders",
+    "https://every.to/p/how-to-price-generative-ai-products",
+    "https://www.codegeeks.solutions/blog/generative-ai-for-business-transformation-practical-roadmap",
+    "https://www.reddit.com/r/startups/comments/1ivz54v/for_those_who_bootstrapped_ai_startup_how_much/",
+    "https://www.alphabold.com/cost-analysis-implementing-generative-ai-in-your-organization/",
+    "https://masterofcode.com/blog/cost-of-generative-ai",
+    "https://codewave.com/feeds/blog/enterprise-generative-ai-pricing-models"
+   ]
+  },
+  {
+   "query": "site:note.com 製造業の生成AI社内展開（研修と運用定着）",
+   "results": [
+    "https://note.com/hiro_seki/n/n8dc5bd89b0ca",
+    "https://note.com/atmark_solution/n/n3f6ea3eff552",
+    "https://note.com/proper_stork2598/n/n9cfb8224e452",
+    "https://note.com/ai__worker/n/nf045c3f26411",
+    "https://note.com/ai__worker/n/n02c3e37e9dc9",
+    "https://note.com/ripla_business/n/n1bcbc5fbb97f",
+    "https://note.com/atmark_solution/n/n8a68c26293ca",
+    "https://note.com/sotry/n/nedfa06ca556f",
+    "https://note.com/zebrax/n/n146c34fd2fc5",
+    "https://note.com/marketing_axis/n/ncd0924a95776"
+   ]
+  },
+  {
+   "query": "site:x.com 製造業の生成AI社内展開（研修と運用定着）",
+   "results": [
+    "https://x.com/MakeAI_CEO/article/2080166594915742012",
+    "https://x.com/g0932185",
+    "https://x.com/Taskhub_JP",
+    "https://x.com/unikoukokun/status/2037714197690417636",
+    "https://x.com/luigi_jpn/article/2095766103033282864",
+    "https://x.com/A_I_News",
+    "https://x.com/furiousgreenco",
+    "https://x.com/MetaHeroes_100",
+    "https://x.com/classmethod/all",
+    "https://x.com/monozukuri_dx"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 製造業の生成AI社内展開（研修と運用定着）",
+   "results": [
+    "https://jp.linkedin.com/learning/risk-management-and-system-design-when-introducing-generative-ai/6156033",
+    "https://jp.linkedin.com/jobs/view/%E8%B1%8A%E6%B4%B2%EF%BC%9Aihi%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%85%A8%E4%BD%93%E6%A8%AA%E6%96%AD%E3%81%AEai%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E4%BC%81%E7%94%BB%E3%83%BB%E9%81%8B%E7%94%A8%E6%8E%A8%E9%80%B2%E2%97%86%E5%AE%89%E5%BF%83%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%88%E3%82%8Bai%E7%92%B0%E5%A2%83%E3%82%92%E6%95%B4%E5%82%99%E2%97%86%E5%9C%A8%E5%AE%85%E5%8B%A4%E5%8B%99%E5%8F%AF-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4480111092",
+    "https://jp.linkedin.com/in/hidetoshi-i-2473ba17b",
+    "https://jp.linkedin.com/in/%E5%B0%86%E8%87%A3-%E5%8E%9F%E7%94%B0-1a167530a",
+    "https://jp.linkedin.com/jobs/view/project-manager-ai-value-engineering-manager-ai-machine-learning-ai%E6%88%A6%E7%95%A5%E3%83%BB%E6%8E%A8%E9%80%B2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC-salary-up-to-jpy-14m-at-skillhouse-staffing-solutions-k-k-4479317921",
+    "https://jp.linkedin.com/in/mustardman",
+    "https://jp.linkedin.com/in/fdx-sato",
+    "https://ca.linkedin.com/in/takuma-imamura-05b7411b8",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%E9%9B%BB%E5%8A%9Bg%EF%BC%8F%E8%B1%8A%E6%B4%B2%E3%80%91ai%E4%BC%81%E7%94%BB%E6%8E%A8%E9%80%B2%E2%80%BB%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%8F%E5%9C%A8%E5%AE%85%E5%8F%AF%EF%BC%8F%E8%BB%A2%E5%8B%A4%E7%84%A1%E3%81%97%EF%BC%8F%E5%9C%9F%E6%97%A5%E7%A5%9D%E4%BC%91%E3%81%BF%EF%BC%8F%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5124%E6%97%A5-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4478571164",
+    "https://jp.linkedin.com/directory/articles"
+   ]
+  },
+  {
+   "query": "site:facebook.com 製造業の生成AI社内展開（研修と運用定着）",
+   "results": [
+    "https://www.facebook.com/61572526796542/posts/109%E9%87%91%E9%96%8B%E5%82%AC%E5%8F%82%E5%8A%A0%E7%84%A1%E6%96%99%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AEai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E5%AE%9F%E8%A3%85%E3%82%92%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E6%9D%91%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80%E5%AF%8C%E5%A3%AB%E9%80%9A%E3%81%AA%E3%81%A910%E7%A4%BE%E3%81%8C%E7%99%BB%E5%A3%87%E3%81%99%E3%82%8Bax-summit-for-%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E7%86%9F/122201123456750893/",
+    "https://www.facebook.com/100064361617860/?locale=bs_BA",
+    "https://www.facebook.com/AIsmiley.inc/posts/sionic-ai%E3%81%AF%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E7%94%9F%E6%88%90ai%E9%81%8B%E7%94%A8%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0storm%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8Bai%E4%BC%81%E6%A5%AD%E3%81%A7%E3%81%99%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7ai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%A7%E3%81%8Drag%E3%82%84%E3%83%87%E3%83%BC%E3%82%BF%E8%87%AA%E5%8B%95%E8%A7%A3%E6%9E%90%E3%81%AA%E3%81%A9%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%AB/1542398937893134/",
+    "https://www.facebook.com/Memberscorp/posts/-%E3%83%87%E3%83%BC%E3%82%BF%E6%B4%BB%E7%94%A8%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%A1%88%E5%86%85ai-world-2025-%E5%A4%8F-%E6%9D%B1%E4%BA%AC%E6%9C%AC%E6%97%A5%E9%96%8B%E5%B9%95%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E5%A4%89%E9%9D%A9%E6%A5%AD%E5%8B%99%E5%8A%B9%E7%8E%87%E5%8C%96%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%95%E3%81%9B%E3%82%8B%E6%9C%80%E6%96%B0ai%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E9%9B%86%E3%81%86%E6%9C%AC%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%81%AB%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%81%8C%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE/1208048094668971/",
+    "https://www.facebook.com/Defide.inc/",
+    "https://www.facebook.com/skillshift/posts/%EF%B8%8F-%E6%8A%80%E8%A1%93%E8%81%B7%E3%81%AE%E5%A4%9A%E6%A7%98%E3%81%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%92%E6%8F%8F%E3%81%8F%E4%BA%BA%E4%BA%8B%E8%A9%95%E4%BE%A1%E5%88%B6%E5%BA%A6%E3%81%AE%E5%86%8D%E6%A7%8B%E7%AF%89%E6%94%AF%E6%8F%B4%E7%A7%8B%E7%94%B0%E7%9C%8C%E6%A8%AA%E6%89%8B%E5%B8%82%E3%82%92%E6%8B%A0%E7%82%B9%E3%81%AB%E9%87%91%E5%B1%9E%E9%83%A8%E5%93%81%E3%81%AE%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E3%81%A8%E7%94%A3%E6%A5%AD%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E9%96%8B%E7%99%BA%E3%81%AE2%E6%9C%AC%E6%9F%B1%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E3%82%AF%E3%83%84%E3%82%B6%E3%83%AF%E6%A7%98%E3%81%AB%E3%81%A6%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E5%B1%A4/1506059874663710/",
+    "https://www.facebook.com/groups/aiacademy.jp/",
+    "https://www.facebook.com/aichi.projinzai/",
+    "https://www.facebook.com/liddell.dp/",
+    "https://www.facebook.com/hephaist/"
+   ]
+  },
+  {
+   "query": "製造業の生成AI社内展開（研修と運用定着） note 社長",
+   "results": [
+    "https://note.com/ai__worker/n/ned9ddd9407ac",
+    "https://note.com/snowflake_note/n/n26fe1cd791cc",
+    "https://ai-keiei.shift-ai.co.jp/sme-ai-deployment-guide/",
+    "https://note.com/hiro_seki/n/n8dc5bd89b0ca",
+    "https://note.com/ai__worker/n/nf045c3f26411",
+    "https://pronaviai.com/jinji/article/85",
+    "https://note.com/atmark_solution/n/nb679b8159ec5",
+    "https://toma.co.jp/blog/software_it/gai-4/",
+    "https://www.gen-r.co.jp/courses/elearning04",
+    "https://note.com/ai__worker/n/nda9247e7a075"
+   ]
+  },
+  {
+   "query": "製造業の生成AI社内展開（研修と運用定着） X 投稿",
+   "results": [
+    "https://x.com/MakeAI_CEO/article/2080166594915742012",
+    "https://www.hitachi-systems.com/dx/column/ai-webinar2025-01-01/",
+    "https://www.dga.co.jp/column/20251029-03/",
+    "https://ai-keiei.shift-ai.co.jp/manufacturing-ai-employee-training/",
+    "https://business.ntt-east.co.jp/content/cloudsolution/municipality/column-37.html",
+    "https://note.com/ai__worker/n/ned9ddd9407ac",
+    "https://first-automation.jp/school",
+    "https://prtimes.jp/main/html/rd/p/000000282.000002500.html",
+    "https://www.ai-souken.com/article/generative-ai-introduction-methods",
+    "https://career-survival.com/columns/ai-training-adoption-manufacturing/"
+   ]
+  },
+  {
+   "query": "generative AI rollout and training for manufacturers site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/carolynhealey_most-companies-didnt-skip-ai-training-activity-7519396479724343296-xs9J",
+    "https://www.linkedin.com/pulse/step-by-step-guide-implementing-generative-ai-your-manipal-dhariwal-fsnec",
+    "https://www.linkedin.com/posts/robertarthurmarshall_i-believe-the-companies-that-get-the-most-activity-7514229800455094273-g7cB",
+    "https://www.linkedin.com/posts/andresnaranjo_industrialai-manufacturing-digitaltransformation-activity-7518379549324386304-LTKl",
+    "https://www.linkedin.com/posts/patrick-lee-12a91690_companies-rushed-in-on-ai-now-some-are-pulling-activity-7516332806570930176-cdrK",
+    "https://www.linkedin.com/business/talent/blog/learning-and-development/generative-ai-impact-on-learning-and-development",
+    "https://www.linkedin.com/posts/a-banks_companies-should-stop-being-scared-of-letting-activity-7503423903080476675-SX3v",
+    "https://www.linkedin.com/pulse/business-value-ai-manufacturing-ai-for-industry-aonwe",
+    "https://www.linkedin.com/top-content/future-of-work/digital-skills-gap-solutions/solutions-for-ai-workforce-training-gap/",
+    "https://www.linkedin.com/pulse/how-leading-businesses-using-generative-ai-vinove-wrmve"
+   ]
+  }
+ ],
+ "missing": {}
+}

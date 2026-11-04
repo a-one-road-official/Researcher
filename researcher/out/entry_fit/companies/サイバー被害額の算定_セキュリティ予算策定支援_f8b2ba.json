@@ -1,0 +1,2456 @@
+{
+ "name": "サイバー被害額の算定・セキュリティ予算策定支援",
+ "en": "cyber risk quantification budget planning",
+ "aliases": [
+  "サイバーリスク 定量化",
+  "サイバー被害額 試算",
+  "セキュリティ予算 策定 支援"
+ ],
+ "context": "セキュリティ",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:10:59.294209+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "AIが変革を加速させる時代において、サイバーセキュリティ事業を通じて組織の持続的な成長と変革を支援",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "サステナビリティ・倫理・グローバルな社会貢献を支援するプログラムと取り組み",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "安全なAIインフラ、アプリケーション、サービスのアドバイス、構築、統合、および運用を支援",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティリスク診断サービス",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、11月度の単月売上高が前年同月度対比4.9%となったことを発表しました",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年8月14日、株式会社KADOKAWAはサイバー攻撃の影響により2025年3月期に36億円の特別損失を計上する見通しだと",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回のKADOKAWAにおける事案は日本国内においても同様の大きな被害が起きうる可能性があることを示した事例の一つです",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回のようなサイバー攻撃を起因とした特別損失が発生した事例は他にも国内で複数公表されています",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オリエンタルコンサルタンツホールディングス",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エムケイシステム",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "日東製網株式会社",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イズミ",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社KADOKAWA",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社関通",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス・製品",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "サービス・製品 一覧",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "PCI準拠支援",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクト実行支援",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ組織支援",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "設計開発支援",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "マネージドセキュリティサービス・SOC",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、セキュリティの専門家が提供するコンサルティングやアセスメントツールを利用し、外部専門家による意見を引用しながら、経営層に訴求することも有効な一手です",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "【ニュースリリース】サプライチェーンマネジメント領域のコンサルティングサービスを共同で強化",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "昨今の脅威事例をふまえて、サイバー攻撃の狙いや潮目が変わりつつあることを共有し、ステークホルダーとの信頼関係の構築および事業継続性の観点からも、セキュリティ対策を戦略的に推進していくことが大事です",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、セキュリティ対策の必要性を、単なるリスクだけではなく、関連の他社事例を踏まえつつ様々な角度で伝えて経営目線で必要性を実感してもらい、対応優先度を高めてもらうよう訴求するとことが、今後とても有効になります",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "同時に導入実績を確認し、自社と同レベル企業が利用しているかも含めて情報収集をするとよいです",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "Secure SketCHのコンセプト「セキュリティ担当者を笑顔にする」を軸に、各業務の中でいただくお客様からのニーズについて企画・開発メンバーと密に連携行い、顧客課題に寄り沿ったサービスにすべく、日々奮闘中",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "アントラス株式会社所属",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "支援の進み方",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS利用拡大に伴い、クラウドサービスの設定ミス（アクセス権限の過剰付与、公開設定の誤り）による情報漏洩が増加",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "EDR、UTM、SOCサービス等",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティお助け隊サービス",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "IPAが認定したサービス",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "サービスによる",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "各都道府県の独自支援",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金は「IT導入支援事業者」経由での申請が必要",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ対策推進枠は比較的採択率が高い（2025年実績: 約70%）",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "導入済みのセキュリティ製品・サービスの一覧",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間費用の実績値",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "IPAが認定した、中小企業向けの低コストなセキュリティサービス",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "月額数千円〜数万円で、UTM、EDR、SOC監視をパッケージ化したサービスを利用できる",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "福岡のAI・DX支援会社",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "サービスから探す",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "サービス比較の記事一覧",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "ファクタリングサービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "社債・CP発行支援の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "税理士・会計事務所（財務・資金調達支援）の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "IEO・INO支援の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "IPO支援の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "売掛金・債権保証サービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "BtoC送金・デジタルギフトサービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "給与前払いサービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "収納・集金代行（法人向けサービス用）の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "振込・送金代行サービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "掛け払いサービス（後払い・請求書払い）の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "法人向け海外送金サービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "自動送金サービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "2024年8月14日、株式会社KADOKAWAはサイバー攻撃の影響により2025年3月期に36億円の特別損失を計上する見通しだと",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "また2024年11月7日に特別損失の計上を約23億円に修正したことを",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月にはサイバー攻撃による全世界での被害が年間147兆円であることが",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "約7億5千万円",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "約30億円(21年9月期)",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "約2億3千万円",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "約△1.8億円(24年3月期)",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "約1千960万円",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "991百万円",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策費用｜年間予算の目安と優先順位の付け方【2026年版】",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "IT予算に占める適正比率、50名規模の具体的な年間予算例、優先順位マトリクス、補助金活用で費用を半額に抑える方法まで、2026年最新の情報でまとめます",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、2026年の最新脅威動向を踏まえ、中小企業がセキュリティ対策にかけるべき費用の目安、カテゴリ別のコスト内訳、限られた予算での優先順位の付け方、そして補助金を活用して実質負担を半額に抑える方法を解説する",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "200万〜500万円",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "20万〜75万円",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "500万〜1,000万円",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "50万〜150万円",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "800万〜2,000万円",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "80万〜300万円",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": " サイバーセキュリティ対策は「投資」（将来の事業活動・成長に必須な費用）4と",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大規模なマルウェア感染 3億7,600万円",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・事故原因・被害範囲調査費用：1億円",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・従業員端末・サーバー等の入れ替え費用：1.42億円",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・再発防止費用：5,000万円",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・利益損害：8,400万円（休止中に得られたはずの売上）",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "カード情報等の漏えい 9,490万円",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・事故対応費用：2,890万円（再発防止策導入含む）",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・利益損害：3,000万円（休止中に得られたはずの売上）",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・賠償損害：3,600万円（損害賠償請求額）",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "軽微なマルウェア感染 600万円 ・事故原因・被害範囲調査費用：500万円 ・再発防止策：100万円",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "USP4 初期0円 月額2千円～完全サブスク",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "GAMP ARSENAL × ARSENAL DOCK（8兆円市場のリスト提供サービス）",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報保護法では「安全管理措置」の一環としてサイバーセキュリティ対策が求められ、対策不備は最大1億円の課徴金リスクがあります",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "最大1億円の課徴金",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "3年以下の懲役または200万円以下の罰金",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "集団訴訟では、一人当たり500円〜3,000円の慰謝料が認定されました",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "被害者への慰謝料として一人500円、商品券500円相当の支払いで和解しました",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "年間保険料目安（売上10億円企業）",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円〜500万円",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "250万円〜450万円",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "200万円〜400万円",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "150万円〜350万円",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜800万円",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "A budget ask feels completely different when it turns up with a return attached. Most requests just name a price. This one names what the money buys you… in risk removed. If a $150k tool takes $4 million of exposure off the table, that is a return any CFO respects. You are not begging for spend anymore. You are offering a trade they would be daft to turn down.",
+    "url": "https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets",
+    "pass": 3
+   },
+   {
+    "quote": "Burkhard Berger is the founder of Novum™. He helps innovative B2B companies implement modern SEO strategies to scale their organic traffic to 1,000,000+ visitors per month.",
+    "url": "https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "サイバー攻撃被害を受けた備品類の除却、対策強化、損害賠償、システム共同開発計画の中止に伴う損失",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "攻撃を受けてからの調査・封じ込めなどの対応、システム復旧などに必要な、主には人的コストにあたる損害が想定されます",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "影響があったと答えた企業のうち、「取引先にサービスの停止や遅延による影響が出た（36.1%）」、「個人顧客への賠償や法人取引先への補償負担の影響が出た（32.4%）」、「原因調査・復旧に関わる人件費等の経費負担があった（23.2%）」といった影響が出ています",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバー攻撃の被害企業は情報の管理責任等が問われるものの、基本的には被害者です",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "観点1 Internal Control：責任は経営層個人にもおよびうる",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "昨今のセキュリティインシデントは、企業への責任追及だけでなく、経営層個人の責任にもなりえる時代です",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、インシデント発生時の損害額を考えれば、適切な投資は「保険」ではなく「経営基盤」そのものだ",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "インシデント発生時の想定被害額（JNSAの統計: 中小企業の情報漏洩1件あたり平均損害額は約6,000万円）",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "「インシデント発生時の想定損害額」と比較するのが最も説得力がある",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "JNSAによれば、情報漏洩1件あたりの平均損害額は約6,000万円",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間180万円のセキュリティ投資は、この損害を防ぐための「保険料」として説明できる",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "特に個人情報を大量に扱う企業、取引先からセキュリティ要件を求められている企業は、年間10万〜30万円の保険料で万一の損害に備えられる",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "要件、見積、責任分界、運用条件を実装前に整理し、必要な範囲の実行まで伴走します",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "売掛金・債権保証サービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "法人向け損害保険の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "個別の費用項目では、同協会のインシデント損害額調査レポートをもとにIPAがまとめた損害額のイメージ（参考値）が参考になります",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "事故原因・被害範囲調査費用 300～400 万円／コールセンター費用 3 ヶ月の対応で 700～1,000 万円／システム復旧費用 対応規模等によって大きく異なるが、数百～数千万円のケースも／再発防止費用 対応規模等によって大きく異なるが、数百～数千万円のケースも／行政損害 個人情報保護法上の罰金は最大 1 億円",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度 中小企業における情報セキュリティ対策に関する実態調査 報告書（表2-5、JNSA「インシデント損害額調査レポート 第2版」より）｜IPA",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "フリーWi-Fiの情報漏洩事例｜実際に起きた手口と企業の対策・会社の責任",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "【専門家コラム】口座振替で引き落とせなかったとき、顧客に手数料や遅延損害金をいくらまで請求できるか｜消費者契約法の上限と規約の書き方",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "により会社や第三者に損害が生じた場合、 善管注意義務違反や任務懈怠 （けたい）",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に基づく損害賠償責任を問われ得るなどの会社法・民法等の規定する法的責任や",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ステークホルダーへの説明責任を負う",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "容可能とする水準まで低減する 5ことは、企業として果たすべき社会的責任であ",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "原則」、及び経営者がサイバーセキュリティ対策を実施する上での責任者となる",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業担当責任者等）に事業継続に加えてサイバーセキュリティ対策に関する情報開示を行うことな",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の責任を担う経営者が自らの役割として リスク対策に関する 実施方針の検討、予算 や人材",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "担当者に丸投げしてしまうことではなく、実践の結果を確認する責任を負う",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 インシデント損害額の試算例9",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インシデント種類 損害額 損害額内訳",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・利益損害：8,400万円（休止中に得られたはずの売上）",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・利益損害：3,000万円（休止中に得られたはずの売上）",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・賠償損害：3,600万円（損害賠償請求額）",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 『インシデント損害額調査レポート 2021』（特定非営利活動法人日本ネットワークセキュリティ協会）より引用",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 本ガイドラインの対象者と責任",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DDoS攻撃の法的責任と対策｜サイバー保険・契約・報告義務",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "USP7 覚悟の品質保証",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "また、サービス停止による取引先への損害賠償、上場企業の適時開示義務など、多岐にわたる法的責任が発生します",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、DDoS攻撃に関連する法的責任を体系的に整理し、主要サイバー保険5社の補償内容比較、効果的な契約条項の設計方法まで解説",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "被害企業の法的責任",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報保護法での責任",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先への契約責任",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "免責事項の注意点",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "責任分界点の明確化",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "損害賠償条項",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "また、個人データ漏洩が発生した場合、被害者への損害賠償責任も発生します",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "ベネッセ個人情報漏洩事件（2014年）- 管理責任の範囲",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "直接的な原因は委託先従業員による不正行為でしたが、ベネッセの管理責任が問われました",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "においても、「予見可能な脅威への対策不備」として管理責任が問われる可能性を示唆しています",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "として契約上の責任を問われる可能性があります",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the regulatory fine or liability cost per record if this database is breached?",
+    "url": "https://www.cybersaint.io/blog/cyber-resilience-as-capital-planning-quantifying-risk",
+    "pass": 3
+   },
+   {
+    "quote": "This approach shifts the liability. The Board is no longer blindly accepting technical risks they don't understand. They are making financial decisions based on their appetite for loss.",
+    "url": "https://www.cybersaint.io/blog/cyber-resilience-as-capital-planning-quantifying-risk",
+    "pass": 3
+   },
+   {
+    "quote": "Member firm disclaimer",
+    "url": "https://www.cohnreznick.com/insights/cybersecurity-risk-quantification-understand-financial-impact-of-risks",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "サイバー攻撃の被害額から考えるセキュリティ | トレンドマイクロ (JP)",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "戦略・イノベーション・グローバル展開まで、経営を牽引するエグゼクティブチーム",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバー攻撃の被害額から考えるセキュリティ",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバー攻撃被害額から考えるセキュリティ予算",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバー攻撃は経営リスクの一つ",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "また同時に、ランサムウェア攻撃の被害額算定に時間を要するため、2026年5月期第 2 四半期決算発表の延期することを",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ランサムウェアの被害と言えば、業務停止による売り上げの停止や身代金の支払いなどについて想像が及びやすいですが、再発防止などを含めて検討する場合、損失額はより大きくなります",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "いつサイバー攻撃被害が発生するかわからない現状において、組織のセキュリティリーダーはこうした企業経営に影響を及ぼしかねないコストが複数発生することを事前に想定・見積の上、サイバーリスク分析を行う必要があります",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記に挙げたサイバー攻撃による直接的な被害以外にも、中長期的に経営に悪影響がおよぶ危険性もあることを改めて認識ておくことが重要です",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "その際の判断軸の一つが総売上高の占めるセキュリティ予算の割合です",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "質問「セキュリティ予算が連結売上高に占める割合は何％ですか？」に対する回答の割合(N=300)",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社のセキュリティ予算の妥当性に疑問を感じる担当者は、",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社売り上げに占めるセキュリティ予算の割合の把握を行い、0.5%に届いているかを確認することも1つの判断基準となる",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、サイバー攻撃被害が発生した際の損失を想定し、そのリスクに応じた予算を配分することも1つの手段となります",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社におけるランサムウェア被害が発生した場合に、こうした大規模の被害が発生することを前提として事前に予算を組んでおく、といった戦略も有効と言えるでしょう",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ予算を獲得する方法 | 経営層の納得を引き出す4つのポイント｜ブログ｜NRIセキュア",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ予算を獲得する方法 | 経営層の納得を引き出す4つのポイント",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの会社・組織のセキュリティ予算は、毎年いつ頃作成していますか？",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の多くは毎年秋から冬にかけて、来年度のセキュリティ予算を獲得するべく、セキュリティの戦略・計画・施策を検討しています",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、情報セキュリティやサイバーセキュリティへの投資は、企業の売上・利益に直結せず、経営層の方には投資対効果が見えづらいことから、セキュリティ予算取りを上申する際に、どのように説明・調整すべきかを悩んでいるセキュリティ担当者が多いのも事実です",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本ブログでは、セキュリティ予算の獲得に関して、経営層と対話するための「ポイント」と「具体的なセキュリティ予算取りの流れ」を解説します",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "えない」日本企業のセキュリティ予算",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "備え・対応の前提となるセキュリティの予算策定に、苦しんでいるのではないでしょうか",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の大半は、セキュリティ予算が「少ない」「増加しない」",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "関連予算に占めるセキュリティ関連予算の割合で、日本の約",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセキュリティ予算は海外（米国・豪州）と比較して少なく、10%未満が大半を占めるという傾向は過去調査から変わっていません",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ関連予算の割合には、10%の壁があります",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "新規セキュリティ対策に投資する予算では、日本企業の大半は「変化なし」と回答しています",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "DXが進展している一方で、新規セキュリティ対策の費用感に変化がないことの一因には、セキュリティ予算獲得の難しさが影響していると考えられます",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "ではなぜ、日本企業のセキュリティ予算は「少ない」「増加しない」のでしょうか？",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策費用｜年間予算の目安と優先順位の付け方 | GXO",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策費用｜年間予算の目安と優先順位の付け方【2026年版】",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "IT予算に占める適正比率、50名規模の具体的な年間予算例、優先順位マトリクス、補助金活用で費用を半額に抑える方法まで、2026年最新の情報でまとめます",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "一方、JNSA（日本ネットワークセキュリティ協会）の調査では、中小企業の約60%が「セキュリティ予算が不十分」と認識しているにもかかわらず、具体的な予算策定ができていない実態が浮き彫りになっている",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "「何にいくら使えばいいのかわからない」——これは経営者やIT管理者から最もよく聞く声だ",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ対策は目に見える売上増をもたらさないため、予算確保のハードルが高い",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、インシデント発生時の損害額を考えれば、適切な投資は「保険」ではなく「経営基盤」そのものだ",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、2026年の最新脅威動向を踏まえ、中小企業がセキュリティ対策にかけるべき費用の目安、カテゴリ別のコスト内訳、限られた予算での優先順位の付け方、そして補助金を活用して実質負担を半額に抑える方法を解説する",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "IT予算に占めるセキュリティ比率の目安",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "50名規模の中小企業：年間予算モデル",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間セキュリティ予算テンプレート",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版の予算策定に際して、直近の脅威動向を押さえておく必要がある",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": ": 2026年はランサムウェアの高度化、生成AI悪用、クラウド設定ミス、法改正の4つが中小企業のセキュリティ予算策定に影響する",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "「去年と同じ予算」では不十分な可能性がある",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "IPA推奨：IT予算の10〜15%",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ対策の費用はいくら？種類別の相場と中小企業の予算の目安・補助金を解説 - MCB FinTechカタログ",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "経営管理システムの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "予算管理システムの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "> サイバーセキュリティ対策の費用はいくら？種類別の相場と中小企業の予算の目安・補助金を解説",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ対策の費用はいくら？種類別の相場と中小企業の予算の目安・補助金を解説",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、いざ対策を始めようとすると「自社はいくらかければよいのか」という費用の相場が分からず、予算化が進まないという声は少なくありません",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、サイバーセキュリティ対策にかかる費用を対策の種類別の相場から整理し、中小企業の年間予算の目安、限られた予算で何から始めるべきかの優先順位、負担を下げる補助金、そして対策をしない場合の被害額までを解説します",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "自社の状況に合った対策予算を具体的に見積もるための材料としてご活用ください",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の年間のセキュリティ予算の目安と公的調査のデータ",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "限られた予算で優先的に取り組むべき対策の順序",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "対策をしない場合の被害額・復旧費用との比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "限られた予算で何から始める？対策の優先順位",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "費用をかけないとどうなる？被害額との比較と「投資」としての考え方",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "Webサービスや社内システムの脆弱性診断を検討する際、「専門家による手動診断とツールによる自動診断のどちらが自社に必要なのか」「費用が数十万円から数百万円までと幅が広く、妥当な予算が読めない」といった壁に突き当たる担当者は少なくありません",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "個々の単価がわかったところで、次は年間でどの程度の予算を見込めばよいのかを、公的な調査のデータから見ていきます",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "トレンドマイクロと競合他社の比較",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、11月度の単月売上高が前年同月度対比4.9%となったことを発表しました",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "口座振替代行サービスおすすめ33選を比較｜独自調査による市場シェアと選び方、手数料を徹底解説",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "昨今、大手企業を標的としたランサムウェア攻撃が相次いで発生し、事業継続に深刻な影響を及ぼす事例が増加しています",
+    "url": "https://assured.jp/column/security-budget-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "そこでこの度、企業のセキュリティ投資の実態と経営層の意識変化について、従業員数1,000名以上の大手企業に所属する情報システム・セキュリティ担当者を対象に調査を実施し、500名から回答を得ました",
+    "url": "https://assured.jp/column/security-budget-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "また、「競合他社や業界平均と比較するためのデータがない」（28.0%）という声もあり、セキュリティ投資がどれだけリスク低減に寄与したかを客観的・定量的に示せないという課題が浮き彫りになりました",
+    "url": "https://assured.jp/column/security-budget-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "岩井 博樹 デロイト トーマツ リスクサービス株式会社 シニアマネジャー",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "丸山 満彦 デロイト トーマツ リスクサービス株式会社 代表取締役社長",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "丸山 満彦 PwCコンサルティング合同会社 テクノロジーコンサルティング パートナー",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大手ECサイトが",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、恐喝や脅迫が伴う場合、競合他社による攻撃が疑われる場合などは、積極的に警察に相談すべきです",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "大手ECで15億円、地銀で8億円の被害が発生",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect with cybersecurity decision-makers in an intimate setting",
+    "url": "https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets",
+    "pass": 3
+   },
+   {
+    "quote": "Cyber risk quantification and cyber risk management are closely connected, but they answer different questions. Let’s take a look.",
+    "url": "https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets",
+    "pass": 3
+   },
+   {
+    "quote": ", for example. The platform connects people looking to buy businesses with owners who want to sell them. That means its systems can hold information from both groups.",
+    "url": "https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets",
+    "pass": 3
+   },
+   {
+    "quote": "Integrations & Connectors",
+    "url": "https://cymulate.com/cybersecurity-glossary/cyber-risk-quantification/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect with our teams for sales inquiries, technical support, partnerships, or general questions",
+    "url": "https://cymulate.com/cybersecurity-glossary/cyber-risk-quantification/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect your stack seamlessly and see ROI from day one—starting with the integrations that drive the most automation",
+    "url": "https://www.cybersaint.io/blog/cyber-resilience-as-capital-planning-quantifying-risk",
+    "pass": 3
+   },
+   {
+    "quote": "has been treated as part of Operational Expenditure (OpEx), a necessary \"tax\" on doing business, much like insurance or electricity. Security leaders have traditionally fought for budgets based on fear, uncertainty, and doubt, often struggling to justify the return on investment for tools that ideally result in \"no change\".",
+    "url": "https://www.cybersaint.io/blog/cyber-resilience-as-capital-planning-quantifying-risk",
+    "pass": 3
+   },
+   {
+    "quote": "Connect with Us",
+    "url": "https://www.cybersaint.io/blog/cyber-resilience-as-capital-planning-quantifying-risk",
+    "pass": 3
+   },
+   {
+    "quote": "Why Cyber Risk Quantification is Necessary",
+    "url": "https://cyesec.com/blog/the-complete-guide-to-cyber-risk-quantification",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "メルマガ登録する",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバー攻撃によって生じる再発防止コストは、インシデントを経験することで、",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "メールマガジン登録",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "企業のセキュリティ担当者が、高度な知識・経験を活かし、リスク分析結果を踏まえた上で、セキュリティ予算を申請した場合でも「それは担当者による主観的な判断では？」という質問を受けるケースがあります",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "IPAが認定したサービス",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "IPAが認定した、中小企業向けの低コストなセキュリティサービス",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "メール登録なしでこのページから記事を保存できます",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "あとからメールアドレスを登録すると、保存した記事のリストをまとめて受け取れます",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "登録だけで営業電話はしません",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "新規会員登録",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "補助の対象になるのは、IPAが認定・公表する「サイバーセキュリティお助け隊サービスリスト」に掲載されたサービスの利用料（最大2年分）です",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業自身のデータでも、同じIPAの実態調査で11.4%の中小企業がサイバー被害を経験したと回答しています",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "都市銀行にて金融実務を経験後、暗号資産関連スタートアップの創業期に参画し、市場分析・業界調査に従事",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "監査法人にてSOC1, SOC2レポート業務を経験後、インターネット企業にて内部統制構築業務を推進",
+    "url": "https://assured.jp/column/security-budget-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "主な資格：CISA、システム監査技術者、CIA",
+    "url": "https://assured.jp/column/security-budget-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "インシデント経験企業の経済的損失 実態調査",
+    "url": "https://assured.jp/column/security-budget-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "15 (参考)セキュリティ人材が有するスキルを測る指標の一つとして、民間企業が提供する専門資格や IPA が実施し",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 情報セキュリティサービス審査登録制度（経済産業省）",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページ制作 実績76,325サイト（※2026年10月時点）の​​​真価（「BIG DATA」こそが経験や勘を凌駕する）",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "勝てる資格を持ったホームページとは？",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "がどの程度認定されるかは、過去の判例から推測することができます",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "集団訴訟では、一人当たり500円〜3,000円の慰謝料が認定されました",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "「当時の技術水準で実装可能かつ費用対効果が合理的な対策」を怠った場合に過失が認定されます",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "裁判所は、SQLインジェクションが「広く知られた攻撃手法」であり、対策を怠ったことに重大な過失があると認定しました",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの判例から、企業の過失認定には",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "DDoS攻撃は十分予見可能であり、技術的・経済的に実現可能な対策が存在するため、対策不備は過失と認定される可能性が高いです",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "業務改善命令、認定取消",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "With optional Examination and Certification",
+    "url": "https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets",
+    "pass": 3
+   },
+   {
+    "quote": "Every proposed control with a verified cost attached, including license, implementation and the people to run it.",
+    "url": "https://www.kovrr.com/blog-post/cybersecurity-budget-planning-for-2027",
+    "pass": 3
+   },
+   {
+    "quote": "A current exposure baseline, because the sequence cannot start without it and producing one takes longer than the budget cycle allows if left until the cycle begins. A cost per candidate control that includes the people to operate it, since license-only costs make every ratio look better than it is. Then last year's starting figure, which either exists or does not and cannot be reconstructed.",
+    "url": "https://www.kovrr.com/blog-post/cybersecurity-budget-planning-for-2027",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "安全なAIインフラ、アプリケーション、サービスのアドバイス、構築、統合、および運用を支援",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "OA・ワークプレイス環境 運用監視",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "Web・アプリケーション運用監視",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "某食品会社では、サイバーセキュリティ攻撃によって、ファイルサーバーや財務会計のシステムが侵害され、経営者および企業にとっても大変に重要な決算報告を3ヶ月延期するという事態になりました",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "人数・時給・業務時間・削減率から年間削減規模を概算します",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "システム種別・規模・連携先を選ぶだけで、開発費用・期間・月額運用費の概算をその場で表示します",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "5. 監視・運用",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の脆弱性対応 月次運用テンプレ",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "この場合、初年度は250万〜350万円を見込み、2年目以降を150万〜200万円の維持費用で運用する計画が現実的",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "月次チェックリストを運用することで、投資した対策を確実に機能させ続ける",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "企画・開発・運用まで一括",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "追加費用と運用費の境界",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入前に確認すべき業務範囲、データ、セキュリティ、PoC判断、運用体制を整理するチェックリストです",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "要件、見積、責任分界、運用条件を実装前に整理し、必要な範囲の実行まで伴走します",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "運用・保守プラン",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "余剰資金を有効活用したい（預金・投資・運用）",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "資産運用サービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "ECサイト運用代行サービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "自社のECサイトを構築・運用したい",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "自社のSNSを開設・運用したい",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "SNS運用代行サービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "海外SNS運用の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "自社運用の訓練キット型は年額15万〜40万円規模",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "EDRは製品ごとに検知の方式や運用を任せられる範囲が異なり、NDR（ネットワーク側で脅威を検知するしくみ）との役割分担も踏まえて選ぶ必要があります",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "自社で運用する訓練キット型では、Securiax（旧・標的型攻撃メール対応訓練実施キット）が、訓練対象のID数に応じてMini年額15万円からLarge年額40万円（いずれも税別）で提供されており、無料プランも用意されています",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "外部に委託するeラーニングや訓練の多くは、内容や対象人数で費用が変わるため、公式サイトでは要お問い合わせとしています",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "：クラウド型を1人月449円で30人分とすると、年間約16万円",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "：自社運用の訓練キットで、年間15万円〜",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "自社の人数で見積もるときは、課金のしかたの違いを踏まえると当てはめやすくなります",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ネットワーク監視やメール訓練のように人数への依存が小さい対策は、規模が変わっても費用の振れ幅が比較的小さく収まります",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "キュリティの観点から企業内に構築・運用すること」を「情報セキュリティガバナンス」と定義している",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・取締役、監査役はサイバーセキュリティリスク 管理体制が適切に構築、運用されてい",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ィ対策を考慮した開発・運用体制を構築する",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よう、適切な運用が行われていなければ、サ イバー攻撃の状況を正確かつ適時に把",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "のポリシーで運用する",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "め、サイバーセキュリティリスクの特徴を踏まえた PDCA サイクルを運用させる",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "能なサイクルの周期と変化に対応できる体制で運用 しないと、有効な対策を講じるこ",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "－緊急連絡網（システム運用、セキュリティベンダなどの連絡先）、社外を含む情報",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "等の対応を行う PSIRT24の構築及び運用を行う",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象とするもの）等があり、自組織の事業内容に応じたサイバーセキュリティインシデント対応組織の構築・運用を",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よう、国内外の拠点、ビジネスパートナーやシステム管理の運用委託先等を含",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "□ サイバーセキュリティ運用管理に関する KPI を定めている (ID.RM-1)",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（CSIRT の構築に際し、構築初心者／経営者向け説明時／構築担当者の企画・構築・運用の各段階にお",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "運用の計画及び管理",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "備え、保険で損失をカバーすることや、組織内の IT システムの運用を他社に委託し、契",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高度セキュリティ運用サービス",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "実践！WEB運用ノウハウ（WEB成果を上げるためのノウハウ集）",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "失敗しないホームページの運用方法",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "SCSC BRIEFING（「ヒアリング」工数をゼロにして、顧客満足度を上げる）",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "SCAN DOG正規版（高度セキュリティ運用サービス）",
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "pass": 3
+   },
+   {
+    "quote": "Most people wildly lowball what a data breach really costs. They picture the ransom and stop right there. But the ransom is usually the smallest piece of it. Downtime alone can dwarf whatever you handed the attacker. Then the legal bills and the fines come. Lost customers and months of cleanup show up long after.",
+    "url": "https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets",
+    "pass": 3
+   },
+   {
+    "quote": "for the long months after an incident.",
+    "url": "https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets",
+    "pass": 3
+   },
+   {
+    "quote": "Waiting around for flawless risk data is how these projects die a slow death. There is never enough clean history to feel sure. So teams keep polishing and never present anything. Meanwhile, the budget cycle sails past, and nothing gets funded. A rough, honest estimate today beats a perfect one that turns up after the decision is already made.",
+    "url": "https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets",
+    "pass": 3
+   },
+   {
+    "quote": "The ranking comes from one calculation per candidate control. Expected loss before, minus expected loss after, divided by cost. Order the list by that ratio and the budget builds itself, including the part that says stop.",
+    "url": "https://www.kovrr.com/blog-post/cybersecurity-budget-planning-for-2027",
+    "pass": 3
+   },
+   {
+    "quote": "Measures reducing how often an event occurs, covering access restriction, patching cadence and phishing resistance. They lower the number of draws and leave the severity of any event that still happens unchanged.",
+    "url": "https://www.kovrr.com/blog-post/cybersecurity-budget-planning-for-2027",
+    "pass": 3
+   },
+   {
+    "quote": "Expected loss after the control is in place, assessed individually rather than as a bundle.",
+    "url": "https://www.kovrr.com/blog-post/cybersecurity-budget-planning-for-2027",
+    "pass": 3
+   },
+   {
+    "quote": "Nothing after the first step works without the first step. An organization with no current exposure figure in September cannot produce a ranked list by November, which makes baselining the task to start before budget season rather than during it.",
+    "url": "https://www.kovrr.com/blog-post/cybersecurity-budget-planning-for-2027",
+    "pass": 3
+   },
+   {
+    "quote": "An exposure figure from before the spend and one from after, produced by the same method with the differences between them attributable to specific changes. A figure recalculated on a revised model proves nothing about the controls.",
+    "url": "https://www.kovrr.com/blog-post/cybersecurity-budget-planning-for-2027",
+    "pass": 3
+   },
+   {
+    "quote": "The ranked list, the do-nothing baseline, and last year's before and after.",
+    "url": "https://www.kovrr.com/blog-post/cybersecurity-budget-planning-for-2027",
+    "pass": 3
+   },
+   {
+    "quote": "Cyber risk quantification (CRQ) is the process of measuring and assigning numerical values to cybersecurity risks. It often translates technical risks into financial terms. This helpssecurity teams understand how cyber threats could impact business operations.",
+    "url": "https://cymulate.com/cybersecurity-glossary/cyber-risk-quantification/",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "【ホワイトペーパー】緊急解説：相次ぐ不正アクセスによる大規模情報漏洩",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、11月度の単月売上高が前年同月度対比4.9%となったことを発表しました",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "システム停止期間の売上と再発防止を含めた復旧費用",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれの組織によってその規模は異なるものの、",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "またランサムウェアなどによって可用性が侵害される場合、業務停止期間中の本来あったはずの売上損失、サービス利用顧客に対する補償金なども発生する可能性があります",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度中小企業等実態調査結果",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "その際の判断軸の一つが総売上高の占めるセキュリティ予算の割合です",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業のセキュリティ投資額は連結売上高の「0.5％以上」を投資すべき",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "質問「セキュリティ予算が連結売上高に占める割合は何％ですか？」に対する回答の割合(N=300)",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社におけるランサムウェア被害が発生した場合に、こうした大規模の被害が発生することを前提として事前に予算を組んでおく、といった戦略も有効と言えるでしょう",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、情報セキュリティやサイバーセキュリティへの投資は、企業の売上・利益に直結せず、経営層の方には投資対効果が見えづらいことから、セキュリティ予算取りを上申する際に、どのように説明・調整すべきかを悩んでいるセキュリティ担当者が多いのも事実です",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ施策は売上に直結しないがゆえ、コストととらえる経営層が一定数いることは事実です",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "経営者の関心事の大半は、売上・利益を高めることにあるため、コストを最小限に留めようという力が働くことになります",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "某教育会社で発生した大規模な情報漏えい事案で、最終的には取締役2人が辞任することになったケースがあります",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "実際にある企業様では、売上向上とブランディング向上施策に、セキュリティ対策情報の公開を実施している企業も存在します",
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策費用｜年間予算の目安と優先順位の付け方 | GXO",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策費用｜年間予算の目安と優先順位の付け方【2026年版】",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のセキュリティ対策にかかる費用をカテゴリ別に解説",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "IT予算に占める適正比率、50名規模の具体的な年間予算例、優先順位マトリクス、補助金活用で費用を半額に抑える方法まで、2026年最新の情報でまとめます",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "IPAの「情報セキュリティ白書2026」によると、2025年に中小企業を標的としたサイバー攻撃の報告件数は前年比32%増加した",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "一方、JNSA（日本ネットワークセキュリティ協会）の調査では、中小企業の約60%が「セキュリティ予算が不十分」と認識しているにもかかわらず、具体的な予算策定ができていない実態が浮き彫りになっている",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ対策は目に見える売上増をもたらさないため、予算確保のハードルが高い",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、2026年の最新脅威動向を踏まえ、中小企業がセキュリティ対策にかけるべき費用の目安、カテゴリ別のコスト内訳、限られた予算での優先順位の付け方、そして補助金を活用して実質負担を半額に抑える方法を解説する",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "50名規模の中小企業：年間予算モデル",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業がサプライチェーン攻撃の踏み台にされるケースが急増している",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": ": 2026年はランサムウェアの高度化、生成AI悪用、クラウド設定ミス、法改正の4つが中小企業のセキュリティ予算策定に影響する",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "人数・時給・業務時間・削減率から年間削減規模を概算します",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "システム種別・規模・連携先を選ぶだけで、開発費用・期間・月額運用費の概算をその場で表示します",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "IPAは中小企業に対し、IT予算全体の10〜15%をセキュリティ対策に充てることを推奨している",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "従業員10名",
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ対策の費用はいくら？種類別の相場と中小企業の予算の目安・補助金を解説 - MCB FinTechカタログ",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の福利厚生・教育を充実させたい",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "> サイバーセキュリティ対策の費用はいくら？種類別の相場と中小企業の予算の目安・補助金を解説",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ対策の費用はいくら？種類別の相場と中小企業の予算の目安・補助金を解説",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "サイバー攻撃の被害は、もはや大企業だけの問題ではありません",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "IPA（独立行政法人情報処理推進機構）が公表する「情報セキュリティ10大脅威 2025」では、組織に対する脅威の1位に「ランサム攻撃による被害」が10年連続で選ばれており、中小企業も取引先を踏み台にする攻撃などで標的になっています",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、サイバーセキュリティ対策にかかる費用を対策の種類別の相場から整理し、中小企業の年間予算の目安、限られた予算で何から始めるべきかの優先順位、負担を下げる補助金、そして対策をしない場合の被害額までを解説します",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の年間のセキュリティ予算の目安と公的調査のデータ",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が導入しやすい対策サービスの比較",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のサイバーセキュリティ対策費用は年間いくらが相場か",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が導入しやすいサイバーセキュリティ対策サービス",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "月額6,000〜10,000円程度＋初期費用 数万〜数十万円（10台規模のマネージド型の公表例）",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "従量課金型は小規模サイトで月額数十ドル（数千円）規模から",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "自動診断ツール型は月額2万〜10万円規模",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "自社運用の訓練キット型は年額15万〜40万円規模",
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティの信用評価プラットフォーム「Assured（アシュアード）」は、従業員1,000名以上の企業に所属する情報システム・セキュリティ担当者500名を対象に、「企業のセキュリティ予算と経営層のリスク認識に関する調査」を実施しました",
+    "url": "https://assured.jp/column/security-budget-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "そこでこの度、企業のセキュリティ投資の実態と経営層の意識変化について、従業員数1,000名以上の大手企業に所属する情報システム・セキュリティ担当者を対象に調査を実施し、500名から回答を得ました",
+    "url": "https://assured.jp/column/security-budget-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象: 全国、従業員数1,000名以上の企業に勤める情報システム・セキュリティ担当者",
+    "url": "https://assured.jp/column/security-budget-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "本調査により、大企業の経営層がセキュリティを「経営リスク」として認識し、予算措置を講じている実態を確認することができました",
+    "url": "https://assured.jp/column/security-budget-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "求めるものが増えており、本ガイドラインは「中小企業の情報セキュリティ対策ガイドライン」1",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 「中小企業の情報セキュリティ対策ガイドライン」の詳細については、付録 B（サイバーセキュリティ対策に関する参考情",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業等と直接の取引がない中小企業であっても、サプライチェーンを通じた間接的",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の規模業務内容に鑑みて適切でなかったため、組織が保有する情報の漏えいなど",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 本ガイドラインは、大企業及び中小企業（小規模事業者を除く）の経営者を対象",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 本書では、特定地域における紛争、武力行使、政情不安又は大規模災害等により、企業の事業活動におけるサプライチ",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（自社のサイバーセキュリティ対策にとどまらず、在来形の部品調達などの形態や規模にとどまらな",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業等と直接の取引がない中小企業であってもサプライチェーン 8を通じた間接的なつ",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大規模なマルウェア感染 3億7,600万円",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・従業員端末・サーバー等の入れ替え費用：1.42億円",
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.cyber.go.jp/pdf/council/cs/dai43/43shiryou6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gsx.co.jp/securityknowledge/column/202410.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2022/visualization-costs.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=69547",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://listing-partners.com/gbiz/gbiz_column/sme-security-budget-calculation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitalpr.jp/r/144031",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://assured.jp/column/security-budget-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kobesoft.co.jp/mikata/words/security/security-budget-allocation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://guardian.jpn.com/security/devices/malware-infection/column/organization/budget-allocation/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipa.go.jp/security/reports/sme/rcu1hd0000009k82-att/sme-jirei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sqat.jp/tamatebako/41157/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybereason.co.jp/blog/security_information_explanation/cyberattack/7622/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2025/03/20260327002/20260327002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hagiwara-ts.co.jp/column/39",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_uchu_sangyo/pdf/005_05_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gxo.co.jp/column/mfg-mid-ciso-ot-security-annual-budget-2026q2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nayuta-hoken.co.jp/article/manufacturing-cyber-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2021FY/000645.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jpn.nec.com/cybersecurity/service/professional/consulting/factory-cyber-bcp/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unitis.jp/articles/23484/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sri-net.co.jp/column/contract-cyber-defense-liability-clause/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ushijima-law.gr.jp/topics/20250402security/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntt.com/business/services/xmanaged/lp/column/cyber-risk-insurance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sqat.jp/tamatebako/41589/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cscloud.co.jp/news/report/202610149371/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cyber.go.jp/pdf/council/cs/n06/06document17.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cyber.go.jp/pdf/policy/kihon-s/budget/20251226budget.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://min-taxes.com/column/cybersecurity-hojokin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-shien.smrj.go.jp/applicant/subsidy/security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001055761.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kovrr.com/blog-post/cybersecurity-budget-planning-for-2027",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cymulate.com/cybersecurity-glossary/cyber-risk-quantification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/how-budget-cybersecurity-relation-risk-management-shalom-bublil-8ctee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cybersaint.io/blog/cyber-resilience-as-capital-planning-quantifying-risk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cohnreznick.com/insights/cybersecurity-risk-quantification-understand-financial-impact-of-risks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kovrr.com/pricing-crq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cyesec.com/blog/the-complete-guide-to-cyber-risk-quantification",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://frameworksecurity.com/post/how-much-does-cybersecurity-really-cost",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サイバー被害額の算定・セキュリティ予算策定支援",
+   "results": [
+    "https://www.cyber.go.jp/pdf/council/cs/dai43/43shiryou6.pdf",
+    "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "https://www.gsx.co.jp/securityknowledge/column/202410.html",
+    "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2022/visualization-costs.html",
+    "https://assured.jp/column/security-budget-analysis",
+    "https://listing-partners.com/gbiz/gbiz_column/sme-security-budget-calculation/",
+    "https://www.sqat.jp/tamatebako/41157/",
+    "https://www.cyber.go.jp/pdf/policy/kihon-s/budget/20251226budget.pdf"
+   ]
+  },
+  {
+   "query": "サイバー被害額の算定・セキュリティ予算策定支援 費用 相場",
+   "results": [
+    "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "https://catalog.monex.co.jp/article/?p=69547",
+    "https://listing-partners.com/gbiz/gbiz_column/sme-security-budget-calculation/",
+    "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2022/visualization-costs.html",
+    "https://digitalpr.jp/r/144031",
+    "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "https://assured.jp/column/security-budget-analysis",
+    "https://kobesoft.co.jp/mikata/words/security/security-budget-allocation/",
+    "https://guardian.jpn.com/security/devices/malware-infection/column/organization/budget-allocation/",
+    "https://cvmax.jp/cyber-attack-defense-costs/"
+   ]
+  },
+  {
+   "query": "サイバー被害額の算定・セキュリティ予算策定支援 事例 中堅企業",
+   "results": [
+    "https://www.ipa.go.jp/security/reports/sme/rcu1hd0000009k82-att/sme-jirei.pdf",
+    "https://www.gsx.co.jp/securityknowledge/column/202410.html",
+    "https://assured.jp/column/security-budget-analysis",
+    "https://www.sqat.jp/tamatebako/41157/",
+    "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "https://www.cybereason.co.jp/blog/security_information_explanation/cyberattack/7622/",
+    "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "https://listing-partners.com/gbiz/gbiz_column/sme-security-budget-calculation/",
+    "https://www.meti.go.jp/press/2025/03/20260327002/20260327002.html"
+   ]
+  },
+  {
+   "query": "サイバー被害額の算定・セキュリティ予算策定支援 工場 製造業",
+   "results": [
+    "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "https://www.gsx.co.jp/securityknowledge/column/202410.html",
+    "https://assured.jp/column/security-budget-analysis",
+    "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "https://listing-partners.com/gbiz/gbiz_column/sme-security-budget-calculation/",
+    "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "https://www.hagiwara-ts.co.jp/column/39",
+    "https://www.sqat.jp/tamatebako/41157/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_uchu_sangyo/pdf/005_05_01.pdf",
+    "https://gxo.co.jp/column/mfg-mid-ciso-ot-security-annual-budget-2026q2"
+   ]
+  },
+  {
+   "query": "サイバー被害額の算定・セキュリティ予算策定支援 責任 範囲 免責",
+   "results": [
+    "https://unitis.jp/articles/23484/",
+    "https://www.sri-net.co.jp/column/contract-cyber-defense-liability-clause/",
+    "https://www.ushijima-law.gr.jp/topics/20250402security/",
+    "https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf",
+    "https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/",
+    "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "https://www.ntt.com/business/services/xmanaged/lp/column/cyber-risk-insurance.html",
+    "https://chishin-law.jp/blog/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E3%81%AB%E3%82%88%E3%82%8B%E8%A2%AB%E5%AE%B3%E3%81%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E3%81%AE%E4%BB%BB%E5%8B%99%E6%87%88%E6%80%A0%E8%B2%AC%E4%BB%BB/",
+    "https://www.sqat.jp/tamatebako/41157/",
+    "https://nayuta-hoken.co.jp/article/cyber-hoken-hosho-hani/"
+   ]
+  },
+  {
+   "query": "サイバー被害額の算定・セキュリティ予算策定支援 経営判断 損失額",
+   "results": [
+    "https://listing-partners.com/gbiz/gbiz_column/sme-security-budget-calculation/",
+    "https://www.sqat.jp/tamatebako/41589/",
+    "https://assured.jp/column/security-budget-analysis",
+    "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "https://gxo.co.jp/column/smb-security-cost-budget-plan",
+    "https://guardian.jpn.com/security/devices/malware-infection/column/organization/budget-allocation/",
+    "https://digitalpr.jp/r/144031",
+    "https://www.gsx.co.jp/securityknowledge/column/202410.html",
+    "https://www.nri-secure.co.jp/blog/getting-security-budget-approved"
+   ]
+  },
+  {
+   "query": "サイバー被害額の算定・セキュリティ予算策定支援 スタートアップ",
+   "results": [
+    "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "https://listing-partners.com/gbiz/gbiz_column/sme-security-budget-calculation/",
+    "https://www.cscloud.co.jp/news/report/202610149371/",
+    "https://assured.jp/column/security-budget-analysis",
+    "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "https://guardian.jpn.com/security/devices/malware-infection/column/organization/budget-allocation/",
+    "https://www.cyber.go.jp/pdf/council/cs/dai43/43shiryou6.pdf",
+    "https://www.gsx.co.jp/securityknowledge/column/202410.html",
+    "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2022/visualization-costs.html",
+    "https://www.cyber.go.jp/pdf/council/cs/n06/06document17.pdf"
+   ]
+  },
+  {
+   "query": "cyber risk quantification budget planning",
+   "results": [
+    "https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets",
+    "https://www.kovrr.com/blog-post/cybersecurity-budget-planning-for-2027",
+    "https://cymulate.com/cybersecurity-glossary/cyber-risk-quantification/",
+    "https://www.linkedin.com/pulse/how-budget-cybersecurity-relation-risk-management-shalom-bublil-8ctee",
+    "https://www.cybersaint.io/blog/cyber-resilience-as-capital-planning-quantifying-risk",
+    "https://www.cohnreznick.com/insights/cybersecurity-risk-quantification-understand-financial-impact-of-risks/",
+    "https://www.huntress.com/blog/cybersecurity-budget",
+    "https://www.facebook.com/groups/thefintechsociety/posts/3889682104627933/",
+    "https://www.threatfusionai.com/blogs/how-cyber-risk-quantification-supports-better-cybersecurity-budgeting/",
+    "https://nhimg.org/articles/cyber-risk-quantification-is-becoming-a-budget-planning-discipline/"
+   ]
+  },
+  {
+   "query": "cyber risk quantification budget planning startup pricing",
+   "results": [
+    "https://www.kovrr.com/pricing-crq",
+    "https://cyesec.com/blog/the-complete-guide-to-cyber-risk-quantification",
+    "https://frameworksecurity.com/post/how-much-does-cybersecurity-really-cost",
+    "https://safe.security/continuous-threat-exposure-management/cybersecurity-budget-justification/",
+    "https://cymulate.com/cybersecurity-glossary/cyber-risk-quantification/",
+    "https://www.huntress.com/blog/cybersecurity-budget",
+    "https://www.linkedin.com/pulse/how-budget-cybersecurity-relation-risk-management-shalom-bublil-8ctee",
+    "https://www.cybersaint.io/blog/your-cybersecurity-budget-playbook-4-trends-for-ciso",
+    "https://www.threatfusionai.com/blogs/how-cyber-risk-quantification-supports-better-cybersecurity-budgeting/",
+    "https://www.cyberstackhub.ai/resources/cybersecurity-budget-planning"
+   ]
+  },
+  {
+   "query": "site:note.com サイバー被害額の算定・セキュリティ予算策定支援",
+   "results": [
+    "https://note.com/security_cybozu/n/na4ceb718691a",
+    "https://note.com/iceman_23/n/n816d2614ed5d",
+    "https://note.com/roadmapinc/n/n011e11adad4c",
+    "https://note.com/domonjo01/n/n77ee4ae36297",
+    "https://note.com/itlawyer/n/n897bbe2142ce",
+    "https://note.com/kohei_takachi/n/n10862d624656",
+    "https://note.com/noted_jacana411/n/na588f24fe24e",
+    "https://note.com/mhamadajp/n/nf41fe2aeae28",
+    "https://note.com/ishima_med/n/naf415d657af0",
+    "https://note.com/nabe_creater/n/n83d47d5e235c"
+   ]
+  },
+  {
+   "query": "site:x.com サイバー被害額の算定・セキュリティ予算策定支援",
+   "results": [
+    "https://x.com/M_Miho_JPN/status/2064704267337031973",
+    "https://x.com/_mayumayu13/status/2117027312340447672",
+    "https://x.com/M_Miho_JPN/status/2066526263637086227",
+    "https://x.com/M_Miho_JPN/status/2057719798801596459",
+    "https://x.com/M_Miho_JPN/status/2066870150184468701",
+    "https://x.com/M_Miho_JPN/status/2064704620585505196",
+    "https://x.com/M_Miho_JPN/status/2062503692960665793",
+    "https://x.com/M_Miho_JPN/status/2067870689294717043",
+    "https://x.com/Applippli_Staff",
+    "https://x.com/KagawaTomo/article/2112667220111401391"
+   ]
+  },
+  {
+   "query": "site:linkedin.com サイバー被害額の算定・セキュリティ予算策定支援",
+   "results": [
+    "https://jp.linkedin.com/pulse/beyond-ransom-what-cyber-incident-actually-costs-growing-adeyemo-dsd4e?tl=ja",
+    "https://jp.linkedin.com/pulse/unseen-costs-calculating-true-total-cost-ownership-in-house-topham-9hqvc?tl=ja",
+    "https://jp.linkedin.com/pulse/cyber-risk-governance-insights-april-13-2026-stanley-li-hzcic?tl=ja",
+    "https://jp.linkedin.com/in/kenji-k-6670b214b",
+    "https://jp.linkedin.com/pulse/outsourced-soc-cost-2025-totalassure-u9une?tl=ja",
+    "https://jp.linkedin.com/pulse/20vc-x-saastr-anthropics-10-trillion-parameter-leak-openai-lemkin-fgcrc?tl=ja",
+    "https://jp.linkedin.com/pulse/founder-insights-weekend-edition-issue-41-navin-chaddha-alkpc?tl=ja",
+    "https://jp.linkedin.com/pulse/8-signs-your-business-needs-ibm-cloud-managed-services-berbc?tl=ja",
+    "https://jp.linkedin.com/pulse/how-we-built-multilingual-cyber-threat-intelligence-platform-ke%C3%A7eci%CC%87-sqsef?tl=ja",
+    "https://jp.linkedin.com/pulse/how-proactive-support-saves-small-businesses-dmitriy-teplinskiy-vtgye?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com サイバー被害額の算定・セキュリティ予算策定支援",
+   "results": [
+    "https://www.facebook.com/takaichisanae/posts/%E6%9C%AC%E6%97%A5%E7%B5%8C%E6%B8%88%E8%B2%A1%E6%94%BF%E8%AB%AE%E5%95%8F%E4%BC%9A%E8%AD%B0%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E4%BA%88%E7%AE%97%E7%B7%A8%E6%88%90%E3%81%AE%E6%8A%9C%E6%9C%AC%E8%A6%8B%E7%9B%B4%E3%81%97%E3%81%AE%E5%85%B7%E4%BD%93%E5%8C%96%E3%82%84ai%E3%81%AB%E3%82%88%E3%82%8B%E7%B5%8C%E6%B8%88%E7%A4%BE%E4%BC%9A%E3%81%AE%E5%A4%89%E9%9D%A9%E3%82%92%E8%A6%8B%E6%8D%AE%E3%81%88%E3%81%9F%E6%94%BF%E7%AD%96%E5%BD%A2%E6%88%90%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AD%B0%E8%AB%96%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%BE%E3%81%9A%E4%BA%88%E7%AE%97%E7%B7%A8%E6%88%90%E3%81%AE%E6%8A%9C%E6%9C%AC%E8%A6%8B%E7%9B%B4%E3%81%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%B0%91%E9%96%93/1485997006959281/",
+    "https://www.facebook.com/fujishi.s/posts/%E4%BB%A4%E5%92%8C6%E5%B9%B4%E5%BA%A6%E8%A3%9C%E6%AD%A3%E4%BA%88%E7%AE%97%E3%81%AE%E5%8F%AF%E6%B1%BA%E6%88%90%E7%AB%8B%E3%82%92%E5%8F%97%E3%81%91%E8%A3%9C%E6%AD%A3%E4%BA%88%E7%AE%97%E3%81%AB%E3%82%88%E3%82%8A%E5%AE%9F%E6%96%BD%E3%81%95%E3%82%8C%E3%82%8B%E4%BA%8B%E6%A5%AD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%83%85%E5%A0%B1%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%8C%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%BA%81-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AF%BE%E7%AD%96%E9%96%A2%E9%80%A3%E4%BA%88%E7%AE%97-%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E5%95%86%E6%A5%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A/1032583408895818/?locale=tl_PH",
+    "https://www.facebook.com/p/N-Nets-NPO%E7%B5%8C%E5%96%B6%E6%94%AF%E6%8F%B4%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF-100091244977613/",
+    "https://www.facebook.com/100009847231858/posts/%E6%98%A8%E6%97%A5%E3%81%AE%E4%B8%80%E8%88%AC%E8%B3%AA%E5%95%8F%E3%81%AE%E5%86%85%E5%AE%B9%E3%81%A8%E7%AD%94%E5%BC%81%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E5%89%8D%E5%8D%8A%E6%88%A6%E3%81%94%E8%A6%A7%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E6%96%B9%E3%81%AF%E3%81%9C%E3%81%B2%E3%81%94%E7%A2%BA%E8%AA%8D%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-%E4%BF%AE%E5%AD%A6%E6%97%85%E8%A1%8C%E7%AD%89%E3%81%AB%E5%BC%95%E7%8E%87%E3%81%99%E3%82%8B%E6%95%99%E5%93%A1%E3%81%AE%E5%85%A5%E5%A0%B4%E6%96%99%E8%87%AA%E5%B7%B1%E8%B2%A0%E6%8B%85q-%E5%BC%95%E7%8E%87%E3%81%AB%E3%81%8B%E3%81%8B%E3%82%8B%E5%85%A5%E5%A0%B4%E6%96%99%E3%81%8C/2993326487672230/",
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/groups/aiacademy.jp/",
+    "https://www.facebook.com/groups/aiacademy.jp/posts/4629685353954295/",
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
+    "https://www.facebook.com/groups/713390697225371/",
+    "https://www.facebook.com/groups/276362369397854/"
+   ]
+  },
+  {
+   "query": "サイバー被害額の算定・セキュリティ予算策定支援 note 社長",
+   "results": [
+    "https://note.com/super_pipit2444/n/na76031f706c2",
+    "https://note.com/connectone/n/ncef1aa4226d3",
+    "https://www.uchida.co.jp/system/report/20190029.html",
+    "https://listing-partners.com/gbiz/gbiz_column/sme-security-budget-calculation/",
+    "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "https://note.com/takahiroanno/n/n27e77cc9bb80",
+    "https://japan.zdnet.com/article/35176438/",
+    "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "https://note.com/security_cybozu/n/na4ceb718691a"
+   ]
+  },
+  {
+   "query": "サイバー被害額の算定・セキュリティ予算策定支援 X 投稿",
+   "results": [
+    "https://x.com/joshisuman_usen/status/2105856433954931086",
+    "https://www.nri-secure.co.jp/blog/getting-security-budget-approved",
+    "https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html",
+    "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2022/visualization-costs.html",
+    "https://www.cyber.go.jp/pdf/council/cs/dai43/43shiryou6.pdf",
+    "https://www.cscloud.co.jp/news/report/202610149371/",
+    "https://gxo.co.jp/column/security-measures-cost-budget-sme-2026",
+    "https://www.sqat.jp/tamatebako/41157/",
+    "https://www.gsx.co.jp/securityknowledge/column/202410.html",
+    "https://www.soumu.go.jp/main_content/001055761.pdf"
+   ]
+  },
+  {
+   "query": "cyber risk quantification budget planning site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/how-budget-cybersecurity-relation-risk-management-shalom-bublil-8ctee",
+    "https://www.linkedin.com/products/safe-ccrm-cyber-risk-quantification-crq/",
+    "https://www.linkedin.com/pulse/cyber-risk-quantification-brief-overview-ibrahim-mohammed-qxkgc",
+    "https://www.linkedin.com/posts/yusufhashmi_cyberrisk-cro-ciso-activity-7345383151046676480-OCzO",
+    "https://www.linkedin.com/top-content/finance/cybersecurity-in-financial-services/cybersecurity-budgeting-for-banks/",
+    "https://www.linkedin.com/posts/yusufhashmi_cyberrisk-riskquantification-crq-activity-7511643986810437633-sSuD",
+    "https://www.linkedin.com/top-content/business-strategy/understanding-business-risks/how-to-understand-cyber-risk-quantification/",
+    "https://www.linkedin.com/posts/rivial-data-security_cybersecurity-cyberriskquantificaiton-activity-7519447551369191425-da1z",
+    "https://www.linkedin.com/top-content/technology/cybersecurity-risks/cybersecurity-risk-planning-for-financial-services/",
+    "https://www.linkedin.com/pulse/roping-risk-what-your-cyber-planning-cadence-chris-cpat-patteson--0vehe"
+   ]
+  }
+ ],
+ "missing": {}
+}

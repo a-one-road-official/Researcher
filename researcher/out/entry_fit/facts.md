@@ -1,0 +1,2418 @@
+# 5品目の細分化 — A1が入れるか・回せるか（精度に責任を持たない経営判断支援の層）（事実のみ・19品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 工場設備故障の損失額算定・保全予算の経営判断支援（equipment failure cost quantification maintenance budget decision support factory shop floor manufacturer）
+- 文脈：予知保全（工場設備のみ。プラント・インフラは除外）
+- 前例・提供企業：
+  - 「設備故障で223億円の損失？製造業が知るべきリスクの現実と対策 ｜株式会社エクサ」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「ソリューション・サービス」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「マネージドサービスSRE」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「設備故障による損失がどれほど大きな影響を与えるかを、実際に発生した2つの事例から見ていきます」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「事例1：設備火災による甚大な損失」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「なお、旭化成株式会社の2021年3月期決算説明会によると、本火災による2020年度の損失額は合計223億円とされており、特別損失として一部が処理されています」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「旭化成エレクトロニクス株式会社「生産センター第二製造部 半導体製造工場 火災事故調査報告書」（2021年9月公表）」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「旭化成株式会社「2021年3月期 決算説明会 要旨」（2021年5月13日開催）」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「事例2：過電流による火災で業界全体に波及」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「2021年3月にルネサス セミコンダクタ マニュファクチュアリング株式会社の那珂工場で発生した火災事故です」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「これらの事例では、設備に起因する火災により甚大な損失が発生しました」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「旭化成の事例では定期点検を実施していたにも関わらず20年間の使用による経年劣化で火災を防げず、ルネサスの事例では突発的な過電流により火災が発生しており、従来の保全手法だけでは対応しきれないリスクの存在を示しています」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「これらの深刻な事例を踏まえると、従来の壊れてから直す事後保全や、定期的な点検だけに頼った保全では、企業を取り巻くリスクに対応しきれないことが明らかです」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「しかし、先の事例で示したように、設備故障による損失は数百億円規模に達する可能性があります」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「収集された膨大なデータをAIが分析し、故障の予兆や異常パターンを自動検知することで、「あと〇日で故障する可能性が高い」といった具体的な予測を提供できます」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+- 価格・単価：
+  - 「設備故障で223億円の損失？製造業が知るべきリスクの現実と対策 ｜株式会社エクサ」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「設備故障で223億円の損失？」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「設備故障で223億円の損失？製造業が知るべきリスクの現実と対策」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「なお、旭化成株式会社の2021年3月期決算説明会によると、本火災による2020年度の損失額は合計223億円とされており、特別損失として一部が処理されています」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「N3棟の生産停止による売上影響：月当たり約130億円の売上減少（当初発表では170億円とされていたが、後に130億円に修正）」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「旭化成エレクトロニクスの223億円やルネサス セミコンダクタ マニュファクチュアリングの月130億円の売上減少という数字が示すように、設備故障による損失は企業経営に致命的な影響を与える可能性があります」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「年商：12億円」（https://lab.scisoken.com/a-00040/）
+  - 「12億円 × 3日 ÷ 240日 ＝ 1,500万円」（https://lab.scisoken.com/a-00040/）
+  - 「つまり、「年間売上を稼働日数へ均等に割り当てた場合、3日間は約1,500万円分の売上規模に相当する」と捉えられます」（https://lab.scisoken.com/a-00040/）
+  - 「1,500万円をそのまま『設備停止によって失った利益』と表現してはいけません」（https://lab.scisoken.com/a-00040/）
+  - 「対象ライン年間売上：3億円」（https://lab.scisoken.com/a-00040/）
+  - 「3億円 × 50時間 ÷ 4,000時間 ＝ 375万円」（https://lab.scisoken.com/a-00040/）
+  - 「先ほどの売上換算停止影響額375万円に対し、限界利益率を40%と仮定すると、」（https://lab.scisoken.com/a-00040/）
+  - 「375万円 × 40% ＝ 150万円」（https://lab.scisoken.com/a-00040/）
+  - 「ただし、これも「必ず150万円失った」という意味ではありません」（https://lab.scisoken.com/a-00040/）
+- 責任の範囲：
+  - 「市販のスマートデバイスと独自センサーの組み合わせにより熱中症の症状を検知し、健康管理システムとの連携により、「高精度な熱...」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「高精度カメラと画像処理から構成される溶鋼の漏洩検知システムにより、即座に鋳造を止めることで、鋳造設備への損傷を軽減し生産...」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「環境要因に左右されやすい手法に依存せず、数理的なアプローチを用いることで、高精度な予測モデルの構築や確実な異常検知を実現します」（https://lab.scisoken.com/a-00040/）
+- 経営判断への置き方：
+  - 「製造現場における設備故障は、予兆の有無に関わらず企業経営に深刻な影響を与えるリスクです」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「なお、旭化成株式会社の2021年3月期決算説明会によると、本火災による2020年度の損失額は合計223億円とされており、特別損失として一部が処理されています」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「予知保全は止めない経営のための戦略投資へ」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「旭化成エレクトロニクスの223億円やルネサス セミコンダクタ マニュファクチュアリングの月130億円の売上減少という数字が示すように、設備故障による損失は企業経営に致命的な影響を与える可能性があります」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「保全を"コスト"から"経営判断"へ転換する必要性」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「経営戦略としての保全投資の価値」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「現場の保全活動の中長期計画・予算化を実施することで経営層が設備保全の価値を正しく理解し、適切なリソースを配分し、止めない現場を実現することで、持続可能な企業成長を支える基盤を構築できます」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「設備保全は、企業の未来を支える経営判断の中核として見直されつつあります」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「保全への投資を"経営判断"と位置づけるなら、適切なシステムの選定も重要な観点です」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「設備保全を経営戦略に位置付ける」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「そのため、設備保全は単なる現場任せの対応ではなく、経営層が戦略的に意思決定すべき領域となりつつあります」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「設備保全を経営戦略の一環として明確に位置づけることで、突発的な停止の抑制、納期遵守の向上、品質の安定化といった成果を中長期的に実現することが可能になります」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「EAM（統合資産管理）導入プロジェクトを成功に導く体制構築とは？経営層・現場・I...」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「～経営とITの融合～」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「製造業各社の経営課題である「予防保全から予知保全（状態基準保全）への転換」を、IoTインテリジェントセンサーとIBM M...」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+- 参入障壁：
+  - 「設備の老朽化が進む中、これまでに見られなかった新たな不具合の発生や、ベテラン技術者の知見に依存した属人的な判断体制、人手不足による点検頻度の制約なども、予期せぬ故障のリスクを高める要因となっています」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「熟練技術者の退職リスクを解決！暗黙知を見える化する実践的デジタル化手法 【人材不...」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「メールマガジン配信登録」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「メーカー技術者の派遣費」（https://lab.scisoken.com/a-00040/）
+- 回す体制：
+  - 「しかし、統合管理により全設備の故障履歴と保全記録を横断的に分析することで、「この設備でこの症状が出ると、数ヶ月後に故障する可能性が高い」といった予兆パターンを発見し、突発的な故障を未然に防ぐことが期待できます」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「エクサはEAM（統合資産管理）の構想策定からクイックアセスメント、システム導入、運用・保守まで一貫して支援します」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「修理工数、部品費、緊急外注費」（https://lab.scisoken.com/a-00040/）
+  - 「修理担当者の作業工数」（https://lab.scisoken.com/a-00040/）
+  - 「年間運用費：50万円」（https://lab.scisoken.com/a-00040/）
+  - 「検出可能な故障なのか、停止原因のうちどの割合を対象にできるのか、運用体制を構築できるのかを確認する必要があります」（https://lab.scisoken.com/a-00040/）
+- 買い手の規模：
+  - 「2020年10月、旭化成エレクトロニクス延岡事業所の半導体製造工場で大規模火災が発生しました」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「被害規模：FAB棟4階・5階の広範囲焼損、屋根一部崩落」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「建屋・インフラ被害：FAB棟の大規模改修・再建が必要」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「被害規模：焼損面積約600㎡（クリーンルーム面積の約5%）、製造装置23台焼損」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「N3棟の生産停止による売上影響：月当たり約130億円の売上減少（当初発表では170億円とされていたが、後に130億円に修正）」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「旭化成エレクトロニクスの223億円やルネサス セミコンダクタ マニュファクチュアリングの月130億円の売上減少という数字が示すように、設備故障による損失は企業経営に致命的な影響を与える可能性があります」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「しかし、先の事例で示したように、設備故障による損失は数百億円規模に達する可能性があります」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「大規模設備の保全や公共設備の保守メンテナンス向けソリューション」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「測定サービスにおける大規模構造物の3Dドキュメント化に威力を発揮」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「年間数百件規模の法令申請業務をシステム化｜属人化解消とコンプライアンス強化を実現」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「そこで本記事では、最初から精密な原価計算を行うのではなく、まず年商と年間稼働日数から設備停止の影響規模を簡易試算し、その後、対象ラインの売上、停止時間、限界利益、修理費などを使って精緻化する方法を解説します」（https://lab.scisoken.com/a-00040/）
+  - 「まずは年商と年間稼働日数から簡易試算する」（https://lab.scisoken.com/a-00040/）
+  - 「売上ではなく限界利益で考える」（https://lab.scisoken.com/a-00040/）
+  - 「最も簡単な方法の一つが、年間売上を年間稼働日数で按分する方法です」（https://lab.scisoken.com/a-00040/）
+  - 「売上換算停止影響額 ＝ 年商 × 停止日数 ÷ 年間稼働日数」（https://lab.scisoken.com/a-00040/）
+- 大手・競合：記載なし（読んだ45頁・検索16回）
+
+## 工場設備更新計画・修繕費の予実管理（asset renewal planning maintenance cost budgeting factory shop floor manufacturer）
+- 文脈：予知保全（工場設備のみ。プラント・インフラは除外）
+- 前例・提供企業：
+  - 「製造業における修繕計画の重要性（株式会社ナックス 鈴木宏康） | 「創×造」」（https://mono-sozo.com/archives/1288）
+  - 「製造業における修繕計画の重要性（株式会社ナックス 鈴木宏康）」（https://mono-sozo.com/archives/1288）
+  - 「株式会社ナックス コンサルティング営業部門長」（https://mono-sozo.com/archives/1288）
+  - 「大手コンサルティング会社勤務を経て、建設工事に専門特化した工事発注コンサルティング業務をおこなう株式会社ナックスにジョイン」（https://mono-sozo.com/archives/1288）
+  - 「製造業における工場移転・建替え・改修工事等のプロジェクト推進や大幅な工事コスト削減から、大手飲食・物販チェーン展開企業の新規出店・改装・原状回復工事等の工事発注体制構築、不動産オーナー向け投資利回り向上支援など、幅広い分野における工事発注コンサルティングに強みを発揮する」（https://mono-sozo.com/archives/1288）
+  - 「中小製造業が建設工事発注時に気をつける5つの基本ポイント（株式会社ナックス 鈴木宏康）」（https://mono-sozo.com/archives/1288）
+  - 「開発型製造業の開発力の共有･継承のポイント(アットマーク・コンサルティング合同会社 清水弘幸）」（https://mono-sozo.com/archives/1288）
+  - 「偏心軸クランクシャフト（株式会社極東精機）」（https://mono-sozo.com/archives/1288）
+  - 「現場の声から生まれたLED照明『PanoShot R』（株式会社和興計測）」（https://mono-sozo.com/archives/1288）
+  - 「和興計測が受け継ぐ町工場の未来（株式会社和興計測インタビュー③）」（https://mono-sozo.com/archives/1288）
+  - 「和興計測の現場対応力と職人技（株式会社和興計測インタビュー②）」（https://mono-sozo.com/archives/1288）
+  - 「現場の困りごとを技術で解決する、和興計測の事業とは（株式会社和興計測インタビュー①）」（https://mono-sozo.com/archives/1288）
+  - 「技術と信頼で切り拓く未来—東洋研磨材工業と「SMAP」の革新 （東洋研磨材工業株式会社①）」（https://mono-sozo.com/archives/1288）
+  - 「一人一人が支える、大雄塗装の職人技（株式会社大雄塗装）」（https://mono-sozo.com/archives/1288）
+  - 「つながりを大切に、みんなの幸せを実現する（株式会社昭和製作所 舟久保利和 社長インタビュー第3回（最終回））」（https://mono-sozo.com/archives/1288）
+- 価格・単価：
+  - 「＊長期修繕計画は、20～30年先までの推定修繕工事の内容、時期、費用等を概算で求めますが、策定後の技術の発展や経済・社会情勢等の変動要因はカバーしていません」（https://mono-sozo.com/archives/1288）
+  - 「以来約６年にわたって、手掛けた建設工事プロジェクトは延べ１５０件（６５億円）」（https://mono-sozo.com/archives/1288）
+  - 「「坪単価を1万円下げる」という判断が、20〜30年後のメンテナンスコストを大きく増加させるリスクがあります」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「建設費（坪100万円×900坪）」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「約8〜12億円」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「約5〜8億円」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「約2〜4億円」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「約24〜33億円」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「建設費9億円に対して、30年間の運用・維持管理コストは15〜24億円にのぼる計算」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「設計段階でメンテナンスコストを5%削減できれば、30年間で750万〜1,200万円の削減になります」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「+500万〜2,000万円」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「110万 〜 210万円」（https://www.twinkle-world.co.jp/column/7826/）
+  - 「250万 〜 430万円」（https://www.twinkle-world.co.jp/column/7826/）
+  - 「720万 〜 1,300万円」（https://www.twinkle-world.co.jp/column/7826/）
+  - 「1,200万 〜 2,100万円」（https://www.twinkle-world.co.jp/column/7826/）
+- 責任の範囲：
+  - 「建築の専門家もしくは建物診断の専門会社に依頼をして、見直し時に建物の状況や実態に沿った工事範囲・工事内容の選定を行い、より精度の高い修繕計画を立てましょう」（https://mono-sozo.com/archives/1288）
+  - 「長期修繕計画の作成タイミングや精度に違いがあります」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「分譲マンションでは、区分所有者が「修繕積立金」を定期的に積み立て、修繕費用を賄う仕組みがあるため、販売時点で管理組合や事業者が精度の高い長期修繕計画を作成する場合が多いです」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「また、新築時点で中長期修繕計画を作成する場合でも、積立修繕金の算出を行う分譲マンションに比べると、精度が高くない場合もありますが、」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「企業不動産でも早期に精度の高い中長期修繕計画を作成することで、将来の修繕・更新費用の見通しを立てられ、予算計画や資産価値の維持に役立ちます」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「老朽化によってこれらの基準を満たせなくなる前に、修繕を行うことで法令遵守を徹底し、企業としての社会的責任を果たします」（https://www.twinkle-world.co.jp/column/7826/）
+  - 「工事後の保証内容や定期点検の有無なども確認しておきましょう」（https://www.twinkle-world.co.jp/column/7826/）
+  - 「契約書には、工期、支払い条件、保証期間、瑕疵担保責任など、重要な事項が明記されているかを入念に確認し、納得した上で署名・捺印を行いましょう」（https://www.twinkle-world.co.jp/column/7826/）
+  - 「引き渡し時には、保証書やメンテナンスに関する書類を受け取り、内容をしっかりと把握しておくことが重要です」（https://www.twinkle-world.co.jp/column/7826/）
+  - 「分析精度を上げる追加項目（6項目）」（https://yachiyo-sol.com/library/shuzen-cost-kanri/）
+  - 「修繕予算を精度よく設定するには、過去2〜3年分の実績データが必要です」（https://yachiyo-sol.com/library/shuzen-cost-kanri/）
+  - 「故障・精度低下・部品供給終了」（https://shinseiplantec.com/archives/1622）
+  - 「精度低下による不良率増加とクレームリスク」（https://shinseiplantec.com/archives/1622）
+  - 「10～20年（ただし精度劣化に注意）」（https://shinseiplantec.com/archives/1622）
+  - 「加工精度・不良率が新台導入時より明らかに悪化していないか」（https://shinseiplantec.com/archives/1622）
+- 経営判断への置き方：
+  - 「工場や倉庫等の場合でも、建設時に長期の修繕計画を立てることで 、毎年の企業の予算取りもできます」（https://mono-sozo.com/archives/1288）
+  - 「ドラム缶部品製造で培った品質を強みにゴム製造へ挑戦！～人を大切にする経営を貫く～（みずほ金属インタビュー①）」（https://mono-sozo.com/archives/1288）
+  - 「ドラム缶部品製造で培った品質を強みにゴム製造へ挑戦！～人を大切にする経営を貫く～（みずほ金属インタビュー③）」（https://mono-sozo.com/archives/1288）
+  - 「分譲マンションでは、区分所有者が「修繕積立金」を定期的に積み立て、修繕費用を賄う仕組みがあるため、販売時点で管理組合や事業者が精度の高い長期修繕計画を作成する場合が多いです」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「企業不動産でも早期に精度の高い中長期修繕計画を作成することで、将来の修繕・更新費用の見通しを立てられ、予算計画や資産価値の維持に役立ちます」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「建築であれば部位ごと、設備であれば各設備ごとに、「仕様」「設置場所」「数量」「最終更新年」「推奨更新周期」「劣化度」「調査結果コメント」「修繕費」「更新費」などが記載され、建物の状況を具体的に把握できます」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「建設プロジェクトの予算立案や概算工事費算出、品質・スケジュール管理などでお困りの方は、株式会社アクアにご相談ください」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「修繕費や更新費はランニングコストに含まれ、全体の約3割を占めるため、建物の長期的な運用を見据えて修繕・更新を最適化することで、過剰な支出を抑えることができます」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「建物の寿命を延ばすには、適切な修繕・更新計画が欠かせません」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「さらに、計画的に修繕費を見通すことで、費用と品質のバランスを取りやすくなります」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「竣工から数年経過し、年間の修繕費用として大きな金額が発生するような時期に来ていました」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「建物診断、中長期修繕計画の立案、改修工事の予算策定、修繕・更新工事の見積精査などについて、アクアの具体的なサポート内容をご覧いただけます」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「CAPEX（資本的支出）とは？ 意味、OPEX・修繕費との違い、減価償却、改修コスト削減方法を紹介」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「CAPEXの意味、OPEX（オペックス）や修繕費との違い、CAPEXマネジメントの導入事例などを紹介しています」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「「建設費が安い工場を選んだが、10年後に修繕費が膨大にかかった」」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+- 大手・競合：
+  - 「大手コンサルティング会社勤務を経て、建設工事に専門特化した工事発注コンサルティング業務をおこなう株式会社ナックスにジョイン」（https://mono-sozo.com/archives/1288）
+  - 「製造業における工場移転・建替え・改修工事等のプロジェクト推進や大幅な工事コスト削減から、大手飲食・物販チェーン展開企業の新規出店・改装・原状回復工事等の工事発注体制構築、不動産オーナー向け投資利回り向上支援など、幅広い分野における工事発注コンサルティングに強みを発揮する」（https://mono-sozo.com/archives/1288）
+  - 「コンストラクションマネジメントとは？費用、契約、大手CM会社の特徴・選び方を紹介」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「この記事をシェアする」（https://yachiyo-sol.com/library/shuzen-cost-kanri/）
+  - 「このページの内容をシェアする」（https://it-trend.jp/budgetary-control/article/260-10488）
+- 参入障壁：
+  - 「経験豊富な専門家が最適なプランをご提案いたします」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「認知度・利用経験率No.1」（https://it-trend.jp/budgetary-control/article/260-10488）
+  - 「予算管理システムにこの計算式を登録しておけば、生産数量や単価を入力するだけで材料費の予算が算出されます」（https://it-trend.jp/budgetary-control/article/260-10488）
+  - 「経験豊富なｺﾝｻﾙﾀﾝﾄによる企業規模に合わせたｻﾎﾟｰﾄを実現」（https://it-trend.jp/budgetary-control/article/260-10488）
+  - 「私の現場経験では、「修繕費＋停止損失」が新設備の年間償却費を2〜3年続けて上回り始めたら、更新を真剣に検討するラインだと感じます」（https://shinseiplantec.com/archives/1622）
+  - 「この記事の内容は、弊社が工場設備工事の現場で積み重ねてきた経験と知見をもとに、担当者が自ら整理したものです」（https://shinseiplantec.com/archives/1622）
+- 回す体制：
+  - 「そのうちの新築に要する費用をイニシャルコスト、運用段階で要する費用をランニングコストと呼びます」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「修繕費や更新費はランニングコストに含まれ、全体の約3割を占めるため、建物の長期的な運用を見据えて修繕・更新を最適化することで、過剰な支出を抑えることができます」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「このように、中長期修繕計画を活用することで、修繕更新費の最適化と建物の長期的な安定運用の両立が可能となります」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「戦略的なバリューアップ｜建物の長期運用を見据えた効率的な改修計画を策定できる」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「このように、中長期修繕計画は建物の長期運用を支えるだけでなく、戦略的なバリューアップを効率的に実施するための土台として活用できるのです」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「必要な修繕を適切なタイミングで実施できるため、建物の安全性や運用効率も確保されます」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「このように、中長期修繕計画を活用することで、適切な予防保全・更新・劣化対策・費用管理を実施することが可能となり、建物の長寿命化と安全な運用を両立する基盤を整えることができます」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「アクアは、建物を所有・運用する方々の立場に立ち、中長期修繕計画の策定に関する多様なサービスを提供しています」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「現地調査による劣化診断のほか、類似の建物の運用段階におけるさまざまなデータや事例を元に既存の中長期修繕計画の検証を行い、高コスト要因を可視化しつつ過剰と思われる項目の見直しや金額の精査を実施しました」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「有効に活用することで、ポイントをおさえた設備投資と適切な施設運用が実現できます」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「アクアは、建物の修繕・改修・ファシリティマネジメントのプロとして、お客さまの建物・施設の運用コストを最適化し、リスク低減をサポートいたします」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「企業が保有・運用している建物の修繕・更新・改修に関するファシリティマネジメントについて、実際の作成資料や成果物を交えてサポート内容を紹介しているページです」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「建物の企画・設計から建設・運用・修繕・解体までの全期間にかかる総費用」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「建設費9億円に対して、30年間の運用・維持管理コストは15〜24億円にのぼる計算」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「工場や倉庫を長期的に安全かつ効率的に運用していく上で、避けて通れないのが「大規模修繕工事」です」（https://www.twinkle-world.co.jp/column/7826/）
+- 買い手の規模：
+  - 「例えば小さなクラック（ひび割れ）や鉄部のサビを放置したことで、躯体（鉄骨や鉄筋・コンクリート）の腐食に繋がり、経年によらない大規模な修繕や建替え（莫大な費用発生）の可能性が高まることも考えられます」（https://mono-sozo.com/archives/1288）
+  - 「修繕工事について、従業員や近隣住人・取引先等にあらかじめ周知・合意を獲得しておくことは円滑な工事を実施する上で重要です」（https://mono-sozo.com/archives/1288）
+  - 「自社製品を構想に終わらせない3つのポイント（中小企業診断士 富田裕之）」（https://mono-sozo.com/archives/1288）
+  - 「事業承継における後継者の育て方（中小企業診断士 和田純子）」（https://mono-sozo.com/archives/1288）
+  - 「計画作成に必要な費用や期間は、建物規模や保存されている資料によって大きく異なります」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「事例1：東京都港区の中規模オフィスビルにおける中長期修繕計画策定業務」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「東京都港区にある中規模オフィスビルの中長期修繕計画を検証した事例です」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「東京都港区の中規模オフィスビルにおける中長期修繕計画策定業務のポイント」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「東京都港区の中規模オフィスビルにおける中長期修繕計画策定業務のポイント・効果は以下の通りです」（https://www.aqa-pm.co.jp/knowledge/maintenance-plan/）
+  - 「10年ごとに大規模修繕」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「大規模塗装改修の周期が伸びる」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「防水・排水設計を徹底することで、築10〜15年での大規模修繕を回避できるケースが多くあります」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「建設から20〜25年後に大規模な設備更新が集中するケースが多く、この時期の資金計画を建設時から織り込んでおくことが重要」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「屋根・外壁の大規模修繕時期」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+  - 「建設時から30年スパンの長期修繕計画を作成し、設備更新・大規模修繕の時期と費用を事前に整理します」（https://hilant.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%81%A8/）
+
+## 保全データの経営報告（ダッシュボード化）（maintenance KPI reporting for management factory shop floor manufacturer）
+- 文脈：予知保全（工場設備のみ。プラント・インフラは除外）
+- 前例・提供企業：
+  - 「CMMSのレポート機能またはExcelダッシュボードで月次のKPI推移グラフ・設備別ランキング・改善目標vs実績を視覚化する」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「八千代ソリューションズ株式会社によるオンライン調査（2025年4月実施、n=500）によると、専用システム（CMMS等）を利用している工場で損失の「詳細把握」ができている割合は」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「八千代ソリューションズ株式会社によるオンライン調査（2025年10月実施、n=500）によると、保全非担当者で不良率KPIが「わからない」と回答した割合は」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「八千代ソリューションズ株式会社によるオンライン調査（2024年12月実施、n=500）によると、部長層で「予知保全をTop3の保全投資に位置づける」割合は」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「資料請求（導入事例集）」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「サービス一覧」（https://kaminashi.jp/news/detail/pr_20250723）
+  - 「株式会社カミナシ（本社：東京都千代田区、代表取締役CEO：諸岡 裕人、以下「カミナシ」）は、設備の保全業務をデジタル化するクラウドサービス『カミナシ 設備保全』において、日々の保全活動をグラフや指標で見える化する新機能「ダッシュボード機能」を提供開始したことをお知らせします」（https://kaminashi.jp/news/detail/pr_20250723）
+  - 「現場の「変化に気づく」ための強力なツールとして、お客様の継続的な改善活動を支援してまいります」（https://kaminashi.jp/news/detail/pr_20250723）
+  - 「佐藤水産様の事例を公開しました」（https://kaminashi.jp/news/detail/pr_20250723）
+  - 「生産実績管理」（https://kaminashi.jp/news/detail/pr_20250723）
+  - 「導入事例一覧」（https://kaminashi.jp/news/detail/pr_20250723）
+  - 「サービス内容」（https://www.ksw.co.jp/media/column/a97）
+  - 「クラウドサービス」（https://www.ksw.co.jp/media/column/a97）
+  - 「お役立ち情報・事例」（https://www.ksw.co.jp/media/column/a97）
+  - 「DX支援サービス」（https://www.ksw.co.jp/media/column/a97）
+- 価格・単価：
+  - 「社長の直感と経験（ドンブリ勘定）で会社が回るのは、せいぜい年商3億円、社員20名規模までです」（https://bbank.jp/blog/president/management-dashboard/）
+  - 「1,300円〜/月」（https://bbank.jp/blog/president/management-dashboard/）
+  - 「月900円～!」（https://pandora-climber.jp/article/category_dx/managementdashboard.html）
+  - 「その後、売上高1,300億円規模の経営企画・予算管理業務に従事」（https://pandora-climber.jp/article/category_dx/managementdashboard.html）
+- 責任の範囲：
+  - 「MTBF・MTTR・OEE・計画保全比率・保全費率などのKPIを設定・管理することで、保全の現状把握・改善の方向性の決定・経営への説明責任の遂行が可能になります」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「判断スピード・精度・組織の一体感」（https://www.ksw.co.jp/media/column/a97）
+  - 「起業家インタビューEntrepreneur事業部 事業責任者」（https://bbank.jp/blog/president/management-dashboard/）
+  - 「「各拠点の責任者は自店舗のデータのみ入力できる」「過去の確定した月のデータは、経理管理者以外は修正できない設定にする」といった権限を定める」（https://pandora-climber.jp/article/category_dx/managementdashboard.html）
+- 経営判断への置き方：
+  - 「保全KPIダッシュボードの見せ方：経営報告・現場管理に使える指標設計」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「MTBF・MTTR・OEE・計画保全比率・保全費率などのKPIを設定・管理することで、保全の現状把握・改善の方向性の決定・経営への説明責任の遂行が可能になります」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「KPIを経営報告に活用する」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「ベースラインなしの目標は根拠が弱く経営承認を得にくい」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「月次：経営層への保全KPIダッシュボード報告（突発停止・保全費・OEEのサマリー）」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「経営報告は1枚のサマリー形式が効果的」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「KPIが改善活動に結びつく仕組みとして①月次のKPIレビュー会議（現場担当者・工場長が参加し・悪化した指標の原因を分析）②設備別の故障原因ランキング（突発停止件数上位の設備に集中的な改善投資）③改善目標と対策の立案・進捗確認（対策の実施→KPIへの効果検証）④成果の見える化（突発停止削減・OEE向上の金額換算での可視化）のPDCAを月次で回すことが、KPIを「経営ツール」として機能させる核心です」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「保全KPIを経営層に報告する際のポイントは①停止損失の金額換算（突発停止時間×時間あたり生産損失額）②保全費と停止損失の対比（保全投資がいかに停止損失を上回る価値を生んでいるか）③改善トレンドの可視化（前年比・計画比でのKPI推移グラフ）④次年度の保全投資計画との連動（KPIデータを根拠にした設備更新・CMMS導入の提案）です」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「「保全は費用センター」ではなく「停止損失を防ぐ投資センター」として経営に位置づけるためのコミュニケーションが重要です」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「停止損失をKPIで可視化し「保全投資の効果」を経営言語で伝えることが、設備保全への経営投資を引き出すカギです」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「この3指標は①データが比較的収集しやすい②改善策と直結している③経営層にも説明しやすい、という特性があります」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「①故障頻度が高い設備（MTBFが短い）：予防保全強化・根本原因対策でMTBFを延ばすことを優先②故障は少ないが一度停止すると復旧に時間がかかる設備（MTTRが長い）：部品在庫の整備・手順書作成・技能向上でMTTRを短縮することを優先③両方が課題の場合：停止時間（MTBF×頻度）で損失額を試算し、損失が大きい方を優先」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「【食品製造業 経営層向け】EXECUTIVE FORUM 「現場と経営をつなぐDX」を開催」（https://kaminashi.jp/news/detail/pr_20250723）
+  - 「中長期の工場経営を支える 食品製造業 ...」（https://kaminashi.jp/news/detail/pr_20250723）
+  - 「業務データの見える化で変わる経営判断：ダッシュボード活用のすすめ」（https://www.ksw.co.jp/media/column/a97）
+- 大手・競合：
+  - 「この記事をシェアする」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「世界シェアNo.1クラスのBIツールですが、中小企業にとっては「オーバースペック」になりがちです」（https://bbank.jp/blog/president/management-dashboard/）
+  - 「通信事業会社・大手IT企業で16年間、BPR（業務プロセス改革）や予算管理業務に携わる」（https://pandora-climber.jp/article/category_dx/managementdashboard.html）
+  - 「現在は、大手上場企業から中小企業まで、IT全般のコンサルティングを行っているかたわらWebマーケティングに関するeラーニングの講師、コラム執筆なども実施」（https://pandora-climber.jp/article/category_dx/managementdashboard.html）
+  - 「株式会社NTTデータビジネスブレインズ」（https://pandora-climber.jp/article/category_dx/managementdashboard.html）
+  - 「ClimberCloud®は、株式会社NTTデータビジネスブレインズの登録商標です」（https://pandora-climber.jp/article/category_dx/managementdashboard.html）
+  - 「Copyright © NTT DATA Business Brains Corporation.」（https://pandora-climber.jp/article/category_dx/managementdashboard.html）
+- 参入障壁：
+  - 「登録メールアドレスへ即時お届け」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「① 勘と経験に頼った経営判断の限界」（https://www.ksw.co.jp/media/column/a97）
+  - 「その結果、「数字はあるのに、見たいときに見られない」「会議のたびに資料づくりで残業になる」「結局、判断は勘と経験に戻ってしまう」といった状況が起こりがちです」（https://www.ksw.co.jp/media/column/a97）
+  - 「勘と経験が役立つ場面は確かにありますが、頼り切ると次のようなリスクが出ます」（https://www.ksw.co.jp/media/column/a97）
+  - 「ダッシュボードは、経営に必要な数字を“いつでも見られる状態”にし、勘と経験を活かす土台を作ります」（https://www.ksw.co.jp/media/column/a97）
+  - 「経験を否定するのではなく、経験が正しく働く環境を整える」（https://www.ksw.co.jp/media/column/a97）
+  - 「ダッシュボードによって「見たい数字がすぐ見られる」状態を作れば、会議は報告の場から意思決定の場へ変わり、勘と経験に頼った判断から、根拠ある判断へとシフトできます」（https://www.ksw.co.jp/media/column/a97）
+  - 「これは、計器を見ずに勘と経験だけで空を飛ぶ」（https://bbank.jp/blog/president/management-dashboard/）
+  - 「社長の直感と経験（ドンブリ勘定）で会社が回るのは、せいぜい年商3億円、社員20名規模までです」（https://bbank.jp/blog/president/management-dashboard/）
+  - 「アカウント登録から初回ダッシュボード作成まで最短1時間で完了します」（https://bbank.jp/blog/president/management-dashboard/）
+  - 「それが、経験と勘に頼る経営から抜け出し、会社の未来をコントロールするための最も確実な道です」（https://bbank.jp/blog/president/management-dashboard/）
+  - 「経済産業大臣登録 中小企業診断士」（https://bbank.jp/blog/president/management-dashboard/）
+  - 「日本証券アナリスト協会認定アナリスト(CMA)」（https://bbank.jp/blog/president/management-dashboard/）
+  - 「日本証券アナリスト協会認定CMA」（https://bbank.jp/blog/president/management-dashboard/）
+  - 「日本ディープラーニング協会認定 AIジェネラリスト/AIエンジニア」（https://bbank.jp/blog/president/management-dashboard/）
+- 回す体制：
+  - 「計画保全工数 ÷ 保全工数合計×100（%）」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「KPI改善目標を設定する前に、現状値（ベースライン）を3〜6ヶ月分測定する」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「保全KPIの目標値設定は①ベースライン測定（現状値を3〜6ヶ月計測）②業界・他工場の参考値との比較（ベンチマーク）③改善余地の推定（現状値と理想値のギャップ）④達成可能な年間改善率（例：突発停止を前年比20%削減）の4ステップで行います」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「Excelを使った保全KPI管理は現実的に可能ですが、①データ入力・集計の工数が大きい②記録の抜け・転記ミスが発生しやすい③設備数が増えると管理が破綻する④グラフ作成・報告書作成に時間がかかる、という限界があります」（https://yachiyo-sol.com/library/setsubi-hozen-kpi/）
+  - 「しかし、従来は紙やExcelでの管理が主流であり、集計や分析に多くの工数がかかることが現場の大きな課題となっていました」（https://kaminashi.jp/news/detail/pr_20250723）
+  - 「データ活用文化を定着させる運用方法」（https://www.ksw.co.jp/media/column/a97）
+  - 「① 作って終わりにしないための運用ルール」（https://www.ksw.co.jp/media/column/a97）
+  - 「本記事では「業務データの見える化」を切り口に、ダッシュボードで経営判断がどう変わるのか、そして中小企業が無理なく導入・運用するための現実的なステップを、専門用語をかみ砕きながら解説します」（https://www.ksw.co.jp/media/column/a97）
+  - 「特に中小企業では、少人数で多くの業務を回しているため、情報の遅れや偏りがそのまま機会損失につながりやすいのが実情です」（https://www.ksw.co.jp/media/column/a97）
+  - 「：少人数なので効果がすぐ数字に出る」（https://www.ksw.co.jp/media/column/a97）
+  - 「たとえば、毎月3日かかっていた集計作業が数時間に短縮されるだけでも、年間で大きな工数削減になります」（https://www.ksw.co.jp/media/column/a97）
+  - 「“運用できる範囲”から作る」（https://www.ksw.co.jp/media/column/a97）
+  - 「IT担当者が少なく、運用負担を増やしたくない」（https://www.ksw.co.jp/media/column/a97）
+  - 「たとえば売上は会計ソフト、原価は購買管理、稼働率は勤怠や工数入力から取る、といった具合に、」（https://www.ksw.co.jp/media/column/a97）
+  - 「ここでは、形骸化を防ぎ、文化として定着させるための運用ポイントを解説します」（https://www.ksw.co.jp/media/column/a97）
+- 買い手の規模：
+  - 「④ 中小企業だからこそ効果が出やすい理由」（https://www.ksw.co.jp/media/column/a97）
+  - 「② BIツールとは何か？中小企業向けにやさしく解説」（https://www.ksw.co.jp/media/column/a97）
+  - 「② 売上・原価・稼働率を自動で集める仕組み」（https://www.ksw.co.jp/media/column/a97）
+  - 「多くの中小企業では、売上や在庫、稼働状況、見積・受注、案件進捗などの「日々の業務データ」が、Excel・会計ソフト・販売管理・現場の紙帳票など、さまざまな場所に分散しています」（https://www.ksw.co.jp/media/column/a97）
+  - 「たとえば「売上の推移」「利益率」「案件の進捗」「在庫の滞留」「クレーム件数」などが、最新に近い形で確認できるようになります」（https://www.ksw.co.jp/media/column/a97）
+  - 「本記事では「業務データの見える化」を切り口に、ダッシュボードで経営判断がどう変わるのか、そして中小企業が無理なく導入・運用するための現実的なステップを、専門用語をかみ砕きながら解説します」（https://www.ksw.co.jp/media/column/a97）
+  - 「特に中小企業では、少人数で多くの業務を回しているため、情報の遅れや偏りがそのまま機会損失につながりやすいのが実情です」（https://www.ksw.co.jp/media/column/a97）
+  - 「売上や稼働状況を「肌感」で判断していると、問題の発見が遅れます」（https://www.ksw.co.jp/media/column/a97）
+  - 「たとえば「今月は忙しいから売上も良いはず」と思っていても、実際には粗利が低い案件が多く利益が出ていない、ということはよくあります」（https://www.ksw.co.jp/media/column/a97）
+  - 「逆に「売上が落ちそう」と焦って値引きを増やした結果、利益率をさらに悪化させるケースもあります」（https://www.ksw.co.jp/media/column/a97）
+  - 「中小企業にとって会議の質はそのまま経営スピードです」（https://www.ksw.co.jp/media/column/a97）
+  - 「中小企業でよくあるのが、部門ごとに「正しい数字」が違う問題です」（https://www.ksw.co.jp/media/column/a97）
+  - 「営業は受注ベース、経理は売上計上ベース、製造は出荷ベースで見ていて、会議で数字が噛み合わない」（https://www.ksw.co.jp/media/column/a97）
+  - 「たとえば売上ひとつでも、目的によって指標は変わります」（https://www.ksw.co.jp/media/column/a97）
+  - 「将来の売上見込みを見る」（https://www.ksw.co.jp/media/column/a97）
+
+## 保険・リース向けの工場設備リスク評価（equipment risk assessment for insurers factory shop floor manufacturer）
+- 文脈：予知保全（工場設備のみ。プラント・インフラは除外）
+- 前例・提供企業：
+  - 「労災の概要や判断基準、発生時の対応のほか、どのようなケースが労災に認定されるのか、具体的な事例をもとに解説しています」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「安全配慮義務違反とは？具体的な事例と防ぐための取組を解説」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「なお、実施時には、作業手順書や機械の取扱説明書、ヒヤリハットや労災の事例を持ち寄るとスムーズに調査が行えます」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「ヒヤリハットとは？意味から原因、事例まで徹底解説」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「ヒヤリハットの概要や事例、防止策等について解説しています」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「普段の安全活動やヒヤリハット事例を集めながら洗い出しましょう」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「（出典：株式会社インターリスク総研 厚生労働省委託事業『リスクアセスメント実施事例集』）」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「厚生労働省等では、リスクアセスメントの実施に関するさまざまな情報提供を行っています」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「というページにおいては、建設業向けのリスクアセスメント実施支援システム等を紹介しています」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「安全で安心できる職場環境を提供し、従業員の労働災害へのリスクを低減するために、ぜひ活用してみましょう」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「2011年付 株式会社インターリスク総研 厚生労働省委託事業 「中小零細規模事業場集団リスクアセスメント研修事業 リスクアセスメント実施事例集」」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「2024年11月12日付 東京都労働局登録教習機関 一般社団法人中小建設業特別教育協会 「リスクアセスメントの進め方、書き方、そして事例まで」」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「10億宣言とは？中小企業経営者が知っておきたい対象・支援策と今からの準備」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「※各ニュースの内容やサービス名称等は、すべて公開日現在の情報です」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「その後の法改正や制度改定、サービス名称の変更等は反映しておりませんので、ご注意ください」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+- 価格・単価：
+  - 「法定検査をCMMSで管理するメリットは①期限切れ・漏れの防止：法定検査の期限前にアラートを自動通知し、「気づかないまま検査期限切れで稼働させていた」という法令違反リスクを防ぐ②記録・証跡の一元管理：法定検査の実施記録・検査証・合否結果をCMMSで一元管理し、行政監査・顧客監査への対応を迅速化する③担当者変更時の継続性確保：担当者の退職・異動があっても、CMMSで管理された検査記録が引き継がれ、法定管理が途絶しない④コストの見える化：法定検査費用をCMMSで設備別・年次で集計し、設備更新判断の材料とする⑤設備の安全状態の履歴把握：過去の法定検査結果・指摘事項の推移をCMMSで管理し、設備劣化の傾向を安全管理に活用する、の5点です」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「(支払限度額は1,000万円／3,000万円／5,000万円の三種類)」（https://www.tokiomarine-nichido.co.jp/hojin/gyoshu_manufacture.html）
+  - 「2,000万円」（https://www.sonpo.or.jp/sme_insurance/explanation/article05/）
+  - 「1億円（商品：1,500万円、設備什器：8,500万円）」（https://www.sonpo.or.jp/sme_insurance/explanation/article05/）
+  - 「約300万円」（https://www.sonpo.or.jp/sme_insurance/explanation/article05/）
+  - 「約640万円」（https://www.sonpo.or.jp/sme_insurance/explanation/article05/）
+  - 「500万円（休業損害保険金：400万円、営業継続費用：100万円）」（https://www.sonpo.or.jp/sme_insurance/explanation/article05/）
+  - 「管理財物損壊補償で対象となる損害のうち現金・貴重品の損壊については、1回の事故および保険期間中につき1,000万円の支払限度額が適用されます」（https://www.ms-ins.com/business/indemnity/biz-protector/compensation/）
+  - 「1,000万円」（https://www.ms-ins.com/business/indemnity/biz-protector/compensation/）
+  - 「1名につき 10万円」（https://www.ms-ins.com/business/indemnity/biz-protector/compensation/）
+  - 「1事故につき 100万円」（https://www.ms-ins.com/business/indemnity/biz-protector/compensation/）
+  - 「保険期間中につき 1,000万円」（https://www.ms-ins.com/business/indemnity/biz-protector/compensation/）
+  - 「上記以外：10万円」（https://www.ms-ins.com/business/indemnity/biz-protector/compensation/）
+  - 「設備故障で223億円の損失？製造業が知るべきリスクの現実と対策 ｜株式会社エクサ」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+  - 「設備故障で223億円の損失？」（https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html）
+- 責任の範囲：
+  - 「安全配慮義務違反に当てはまるケースや防止策、企業のリスクと責任、等について解説しています」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「また、現場をよく知る作業者や化学物質等の専門知識を持った責任者にも声を掛け、多様な階層の意見を集められるような体制を築きましょう」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「職場における熱中症対策、業務災害と企業としての責任等について解説しています」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「従業員が業務中に熱中症になったら会社の責任はどうなるか？～判例から考える企業の安全配慮義務～」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「Q5. 設備保全の不備が労働災害につながった場合、会社の法的責任はどうなりますか？」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「設備保全の不備が原因で労働災害が発生した場合の会社の法的責任は①労働安全衛生法違反：設備の点検・安全装置の維持管理を怠った場合、労働安全衛生法違反として送検・罰則（罰金・懲役）の対象になる可能性がある②民事賠償責任：被災した労働者・家族から損害賠償請求を受ける可能性がある」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「安全配慮義務違反が認められると、高額の損害賠償が認定されるケースがある③行政処分：労働基準監督署による使用停止命令・改善命令が発令される可能性がある④労災保険の保険料増加：事故件数・重篤度に応じてメリット制により保険料が増加する⑤社会的信用・風評リスク：重大事故は報道・SNSで拡散し、採用・取引先・顧客への影響が生じる」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「設備保全の日常的な管理（点検記録・修理記録・安全確認の記録）は、法的責任を問われた際の「安全管理を適切に行っていた証拠」としても機能します」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「損害保険業界向け事故状況推定システム」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「リース車両であっても、安全運転管理者には全車両の整備状況を把握する責任があります」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「これにより、重大なトラブルを未然に防ぐと同時に、事故発生時の説明責任や社内監査にも対応できる、安全性と信頼性の高い管理体制を構築できます」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「例えば、設備の故障や労働災害、製品の欠陥による賠償など、経営に影響を与える可能性があるリスクは数多く存在します」（https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html）
+  - 「製造業では建物/設備の損害や情報漏えい、貸倒、労災など多様なリスクがあり、場合によっては巨額の損失が発生することもあります」（https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html）
+  - 「設備・機械の損傷や火災・爆発などにより、工場や倉庫、事務所、設備などに損害が発生した場合、設備修理や入れ替えが終了するまで生産ラインが停止することになるでしょう」（https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html）
+  - 「火災や風災、水災、地震などの災害による建物や設備、機械の損害、または災害による休業損失に備える保険です」（https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html）
+- 経営判断への置き方：
+  - 「経営課題から探す」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「健康経営・メンタルヘルス」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「人的資本経営」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「経営に関する全般」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「物流2030年問題とは？経営に与える影響と取り組むべき対策を解説」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「10億宣言とは？中小企業経営者が知っておきたい対象・支援策と今からの準備」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「経営に活用できる有効な情報を」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「「経営リスク対策」に経験豊富な」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「経営リスクに対応する」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「Q4. 安全文化を高めるために経営層・管理職が果たすべき役割は何ですか？」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「老朽設備のリスクを可視化し、更新計画の根拠とする」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「経営・管理層ほど設備の安全性リスクを設備更新の判断基準として重視しており、安全管理と設備保全投資の連携が重要な経営課題として認識されています」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「安全文化の構築において経営層・管理職が果たすべき役割は①「安全はコストより優先する」というメッセージを明確に発信する：「安全のためなら生産を止めても良い」という意思表示が、現場担当者が安全を優先する行動を生む②安全パトロールに経営層・管理職が参加する：「経営層が現場を見ている」という姿勢が現場の安全意識を高める③安全投資（設備の安全機能改善・教育・保護具）を承認する：現場から安全改善の提案が出た時に、コストを理由に却下しない姿勢を示す④安全成果を評価・賞賛する：無災害記録・ヒヤリハット件数・安全改善提案数をKPIとして管理し、良い取り組みを表彰する⑤事故発生時に「なぜ起きたか」ではなく「何を変えるか」に焦点を当てる：事故後に犯人探しをする文化では、問題が隠蔽されるようになる」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「突発的な修理費の発生も避けられるため、予算管理の面でも安心です」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「月々のコストを一定にし、予算管理をシンプルにしたい企業」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+- 大手・競合：
+  - 「この記事をシェアする」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「この記事をシェアする」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「大手企業だけでなく、中小企業を中心としたサプライチェーン先へのサイバー攻撃も増加傾向にあります」（https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html）
+  - 「大手企業の動向から読み解く将来性」（https://non-mainte.com/blog/1398）
+  - 「リース市場の今後を考える上で、業界をリードする大手企業の動きは参考になります」（https://non-mainte.com/blog/1398）
+  - 「大手企業は、市場ニーズを的確に捉えた上で、新たなサービス開発やビジネスモデルの革新を進めています」（https://non-mainte.com/blog/1398）
+  - 「大手企業が導入を進めるオペレーティングリースや短期リースプランの拡大傾向からも、リース市場が今後ますます重要な役割を担っていくことが読み取れます」（https://non-mainte.com/blog/1398）
+- 参入障壁：
+  - 「労災の概要や判断基準、発生時の対応のほか、どのようなケースが労災に認定されるのか、具体的な事例をもとに解説しています」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「2024年11月12日付 東京都労働局登録教習機関 一般社団法人中小建設業特別教育協会 「リスクアセスメントの進め方、書き方、そして事例まで」」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「「経営リスク対策」に経験豊富な」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「経験・勘だけに頼った安全管理から「データ・リスク評価」に基づく安全管理へ転換する②安全教育の徹底：採用時・配置転換時の基本安全教育と、日常のKYT・TBMの継続実施」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「安全配慮義務違反が認められると、高額の損害賠償が認定されるケースがある③行政処分：労働基準監督署による使用停止命令・改善命令が発令される可能性がある④労災保険の保険料増加：事故件数・重篤度に応じてメリット制により保険料が増加する⑤社会的信用・風評リスク：重大事故は報道・SNSで拡散し、採用・取引先・顧客への影響が生じる」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「登録メールアドレスへ即時お届け」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「リースでは車両購入時のような多額の頭金や登録諸費用が不要です」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「初期費用として、車両本体の購入費に加え、登録費用や自動車税、保険料などまとまった資金が必要になります」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「車両を購入した場合は、固定資産として登録し、減価償却などの煩雑な会計処理が必要になりますが、リースであれば毎月のリース料をそのまま経費として計上できるため、処理が非常にシンプルです」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「製造業には幅広い種類があり、何を製造しているかによってリスクが異なるため、法人保険の取扱経験が豊富なコンサルタントに任せるのが良いでしょう」（https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html）
+  - 「経験豊富な専任コンサルタントが会社のリスクの洗い出しからご相談に乗り、豊富な選択肢から貴社に最適な保険をご提案します」（https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html）
+  - 「貸金業者登録番号」（https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html）
+  - 「経験豊富なスタッフが迅速かつ丁寧な対応を心掛けており、機械トラブルの早期解決を目指しています」（https://non-mainte.com/blog/1398）
+  - 「経験者はもちろん、未経験者の方も安心して働ける環境を提供し、技術を身に付けながらキャリアアップが可能です」（https://non-mainte.com/blog/1398）
+  - 「健康経営優良法人認定セルフチェック」（https://keel-ins.co.jp/industries/manufacturing-risk/）
+- 回す体制：
+  - 「工場の安全管理の方法について検討する際は、自社の運用実態を踏まえた情報整理が出発点になります」（https://yachiyo-sol.com/library/koujou-anzen-kanri-houhou/）
+  - 「ネットワーク運用管理」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「ITシステム運用」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「IT運用自動化サービス」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「さらに、契約後の車両管理という課題にも焦点を当て、効率的な管理・運用方法までご紹介します」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「「社用車管理」不備のリスクと運用方法の最適解とは」資料無料ダウンロード」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「車両を購入して「所有」するのではなく、「使用する権利」を得る形で社用車を導入できるため、初期費用を抑えながら運用できるのが大きな特徴です」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「見積もりの際は、車両の利用目的や運用方針に応じて確認することが大切です」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「社用車リースの導入にあたり、自社の運用実態や管理体制に適した契約内容を見極めることが重要です」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「複数の社用車を異なるリース会社・契約条件で運用している場合、各車両の契約満了日や更新期限を正確に把握するのが困難になります」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「複数台の車両を運用していても、契約状況を一覧で把握できるため、更新忘れや管理漏れのリスクを大幅に軽減」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「こうした課題を効率的に管理・運用できるサービスが車両管理システム 『Mobility＋』 です」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「社用車リースを導入する企業にとって、リース後の運用管理こそが本質的な課題です」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「一方、レンタルは短期（数日から数か月単位）利用を前提とした契約であり、自由に返却できる柔軟性があります」（https://non-mainte.com/blog/1398）
+  - 「故障リスク軽減、運用コストの削減が可能」（https://non-mainte.com/blog/1398）
+- 買い手の規模：
+  - 「リスクアセスメントとは？意味や手順、実施例も紹介 | 中小企業の未来をサポート MSコンパス ❘ 三井住友海上」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「中小企業の未来をサポート」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「安全で安心できる職場環境を提供し、従業員の労働災害へのリスクを低減するために、ぜひ活用してみましょう」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「厚生労働省 「プレス事業場における リスクアセスメントのすすめ方 中小規模事業場への導入を目指して」」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「2011年付 株式会社インターリスク総研 厚生労働省委託事業 「中小零細規模事業場集団リスクアセスメント研修事業 リスクアセスメント実施事例集」」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「従業員が業務中に熱中症になったら会社の責任はどうなるか？～判例から考える企業の安全配慮義務～」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「障害者の法定雇用率が2.7％に引上げ｜中小企業への影響と対応ポイントを解説」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「生成AIで業務効率化する方法とは？中小企業の活用例・導入手順・注意点を解説」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「同一労働同一賃金とは？2026年10月の改正内容と中小企業が対応すべきポイントを解説」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「10億宣言とは？中小企業経営者が知っておきたい対象・支援策と今からの準備」（https://mscompass.ms-ins.com/business-news/risk-assessment/）
+  - 「特に会計処理を外部に委託している企業や、小規模な経理体制の会社には大きな利点です」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「人的リソースが限られる中小企業には特に有効です」（https://www.seiko-sol.co.jp/mobility/list/no-005/）
+  - 「製造業が抱えるリスクとは？法人保険に入る目的、保険の種類を紹介 | Credictionary for Business | 中小企業様・個人事業主様向けお役立ちビジネスコラム」（https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html）
+  - 「中小企業様・個人事業主様向けお役立ちビジネスコラム」（https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html）
+  - 「大手企業だけでなく、中小企業を中心としたサプライチェーン先へのサイバー攻撃も増加傾向にあります」（https://www.saisoncard.co.jp/credictionary/hoken/industry_risk_manufacturing.html）
+
+## 保全投資の補助金申請支援（subsidy application for maintenance investment Japan factory shop floor manufacturer）
+- 文脈：予知保全（工場設備のみ。プラント・インフラは除外）
+- 前例・提供企業：
+  - 「省力化投資補助金（一般型）申請支援コンサルティング｜船井総合研究所」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「小売・サービス・飲食」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「新規上場支援」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「シェアードサービス」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「小売・サービス業海外出店コンサルティング」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「Zoho導入・運用支援」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「PMO・システム／ベンダー選定支援」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「SFA（営業支援）・MA（マーケティング・オートメーション）」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「DX推進室アドバイザリー支援」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「大規模成長投資補助金 申請支援」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「中小企業成長加速化補助金 申請支援」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「省エネ補助金 申請支援」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「省力化投資補助金（一般型）申請支援」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「新事業進出・ものづくり商業サービス補助金 申請支援」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「船井総合研究所のコンサルティング関連サービス」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+- 価格・単価：
+  - 「補助上限額：最大1億円（従業員数および賃上げ要件により変動）」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「実績あるコンサルと組み、最大1億円の」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「従業員100名超で、数千万〜1億円規模の」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「最大1億円の投資原資確保:」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「中堅企業・売上高100億円超企業向けの補助金」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「最大50億円（補助率1/4〜1/3）」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「売上高100億円を目指す企業向けの補助金」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「売上高10億円以上100億円未満の、「100億宣言」企業が対象」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「最大5億円（補助率1/2）」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「300億円超」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「40億6千万円」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「28億8千万円」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「21億5千万円」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「750万〜1,250万円（類型による）」（https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/）
+  - 「450万円（類型による）」（https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/）
+- 責任の範囲：
+  - 「個人保証ゼロ化」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「「設備が古いから更新する」では採択されにくく、「〇〇工程の加工精度を向上させ、新規受注に対応できる体制を構築する」という形で新規性を示す必要があります」（https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/）
+  - 「中野裕哲は、大企業人事部、人材紹介会社の採用エージェント、中小企業の財務責任者、大手不動産会社での営業、出版・Web制作による集客導線構築など、幅広い実務経験をもとに、経営者の意思決定を支援します」（https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide）
+  - 「着手金＋成功報酬の構成で、双方の信頼関係と責任感を確保できる」（https://oogata-hojokin.jp/syoryokuka/p1761）
+  - 「成果への責任範囲」（https://oogata-hojokin.jp/syoryokuka/p1761）
+  - 「定額型は金額が明確でリスクが少ない一方、成果に対する責任が薄れる傾向もあります」（https://oogata-hojokin.jp/syoryokuka/p1761）
+  - 「専門家活用枠では、M&A時にかかる仲介費用や表面保証保険料などをカバーします」（https://www.sme-support.co.jp/column/p1242/）
+  - 「●５軸加工機：高い加工精度と生産性向上のために活用」（https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe）
+  - 「●高精度測定器：高精度測定を実現するために活用」（https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe）
+  - 「採択時は交付決定までを責任を持ってサポート致します」（https://procon-hojyokin.com/manufacturing/）
+  - 「補助金・助成金の採択、交付、支給を保証するものではありません」（https://pmconsulting1221.com/subsidy/）
+  - 「サプライヤーが買取保証（※）を付したリース取引も対象となりますか」（https://seichotoushi-hojo.jp/faq/）
+  - 「ファイナンス・リース取引に該当していれば、サプライヤーの買取保証の有無は問いません」（https://seichotoushi-hojo.jp/faq/）
+  - 「また、大手ITベンチャー企業にてエンジニア経験を有するコンサルタントが責任者を務めており、AIをはじめとする最新のIT技術やDXに関する知見を活かしたご提案を強みとしております」（https://xn--tfr2a0z293jcxsejm.biz/）
+  - 「◼ 事務所等にかかる家賃、保証金、敷金、仲介手数料、光熱水費」（https://xn--tfr2a0z293jcxsejm.biz/）
+- 経営判断への置き方：
+  - 「経営レポート」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「経営戦略・グループ経営・ホールディングス化」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「HR（人的資本経営）」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「地域コングロマリット経営」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「事業戦略・中期経営計画策定」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「次世代経営者育成」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「パーパス・経営ビジョン」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「グループ経営コンサルティング」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「グループ経営人材育成」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「経営管理体制構築・ガバナンス強化（内部管理体制診断）」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「人的資本経営ロードマップ」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「経営課題別・業種別コンサルティング」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「経営レポートダウンロード」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「経営研究会に関する」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「経営コンサルティングの船井総研TOP」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+- 大手・競合：
+  - 「シェアードサービス」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「この記事をシェアする」（https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/）
+  - 「中野裕哲は、大企業人事部、人材紹介会社の採用エージェント、中小企業の財務責任者、大手不動産会社での営業、出版・Web制作による集客導線構築など、幅広い実務経験をもとに、経営者の意思決定を支援します」（https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide）
+  - 「PwC Advisory合同会社を経て、2018年に補助金コンサルティングや事業承継支援を手がける株式会社HighAdoptionを設立」（https://oogata-hojokin.jp/syoryokuka/p1761）
+  - 「記事をシェアする」（https://oogata-hojokin.jp/syoryokuka/p1761）
+  - 「大手企業から出資を受けられる体力がある」（https://hojokin-joseikin.com/aid_info/2853/）
+  - 「岡山大学教育学部を経て日立システムズでエンジニア、リクルートで法人営業を務め、レアジョブと素材図書でAIを用いた新規事業を立ち上げたのち、2023年に当社を設立した」（https://ichidokiri.co.jp/column/investment-subsidy-examples/）
+  - 「大手の購買力・営業力・IT基盤を取り込み、単価や稼働率の改善、品質・納期の安定化が期待できます」（https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe）
+  - 「DXは組織横断で取り組んでいく必要があり簡単ではありませんが、DX税制やものづくり補助金のデジタル枠（DXに取り組む事業者を支援する類型）などの施策も活用しながら、競合に先駆けていち早く取り組むことで、高い優位性の獲得を期待できます」（https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe）
+  - 「大手ITベンチャー企業などでシステム開発、ウェブマーケティングを経験した後に、経営コンサルタントとして独立」（https://xn--tfr2a0z293jcxsejm.biz/）
+  - 「また、大手ITベンチャー企業にてエンジニア経験を有するコンサルタントが責任者を務めており、AIをはじめとする最新のIT技術やDXに関する知見を活かしたご提案を強みとしております」（https://xn--tfr2a0z293jcxsejm.biz/）
+- 参入障壁：
+  - 「経験がなかったプレゼンテーション資料の作成や面接などに対する、適切なサポート」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「ものづくり補助金と異なり、申請は「IT導入支援事業者（認定ベンダー）」経由で行います」（https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/）
+  - 「導入したいITツールが補助金対象ツールとして登録されているか確認」（https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/）
+  - 「必須ではありませんが、採択率を上げたい場合は中小企業診断士や認定経営革新等支援機関（認定支援機関）のサポートを受けることが効果的です」（https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/）
+  - 「ものづくり補助金は加点要素として「事業継続力強化計画」「経営革新計画」の認定を取得している場合に審査加点があります」（https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/）
+  - 「事務局に登録されたITツール（ソフト・クラウド等）の導入を支援する制度です」（https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide）
+  - 「この制度は、登録されたIT導入支援事業者（ベンダー等）の支援を受けて申請するのが前提で、導入するツールも登録品であることが求められます」（https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide）
+  - 「中野裕哲は、大企業人事部、人材紹介会社の採用エージェント、中小企業の財務責任者、大手不動産会社での営業、出版・Web制作による集客導線構築など、幅広い実務経験をもとに、経営者の意思決定を支援します」（https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide）
+  - 「V-Spiritsグループは、起業支援・会社設立・創業融資・補助金助成金・税務会計・人事労務・許認可・経営顧問をワンストップで支援する、起業家・中小企業向けの専門家グループです」（https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide）
+  - 「・社内に申請経験がある企業」（https://oogata-hojokin.jp/syoryokuka/p1761）
+  - 「中小企業診断士など国家資格ホルダーによる充実した支援」（https://hojokin-joseikin.com/aid_info/2853/）
+  - 「、行政書士等の国家資格ホルダーです」（https://hojokin-joseikin.com/aid_info/2853/）
+  - 「資格を持っているだけでなく、各補助金の勉強会等で日々研鑽しているコンサルタントが皆様の会社の採択を支援します」（https://hojokin-joseikin.com/aid_info/2853/）
+  - 「安心の経済産業省認定、経営革新等認定支援機関に登録」（https://hojokin-joseikin.com/aid_info/2853/）
+  - 「経済産業省の認定、経営革新等認定支援機関に登録」（https://hojokin-joseikin.com/aid_info/2853/）
+- 回す体制：
+  - 「Zoho導入・運用支援」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「WEB広告運用代行」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「を目指す伴走型コンサルティングです」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「的確な伴走支援を行なってくれる」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「自社の現状を充分把握した上で、的確な伴走支援を行なってくれる」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「運用型広告に関する利用規約」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「ものづくり補助金の場合、申請締切から採択発表まで2〜3ヶ月、その後の交付申請・事業実施・実績報告を経て補助金の入金まで最低1年程度かかることが多いです」（https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/）
+  - 「IT導入補助金は比較的早く、採択から補助金入金まで6ヶ月程度が目安です」（https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/）
+  - 「資金繰り、採用、売上づくりの壁に対して、経営者目線で伴走します」（https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide）
+  - 「V-Spiritsグループでは、融資・補助金・金融機関対応に詳しい社内役員チームも伴走します」（https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide）
+  - 「「伴走支援を含む」「申請書の構成案まで作成」」（https://oogata-hojokin.jp/syoryokuka/p1761）
+  - 「101名以上の従業員規模の会社であれば、最大１億円の補助金受給も目指すことができます！」（https://hojokin-joseikin.com/aid_info/2853/）
+  - 「2025年の中小企業省力化投資補助金一般型では18ヶ月以内と大幅に期間が延長さました」（https://hojokin-joseikin.com/aid_info/2853/）
+  - 「第8回公募より、交付決定から17ヶ月以内となりましたが、多くのオーダーメイド設備を導入する企業が活用することができるでしょう」（https://hojokin-joseikin.com/aid_info/2853/）
+  - 「交付決定から17ヶ月以内（採択発表日から19ヶ月後の日まで）」（https://hojokin-joseikin.com/aid_info/2853/）
+- 買い手の規模：
+  - 「事業承継アドバイザリー（親族内承継・親族外従業員承継）」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「大規模成長投資補助金 申請支援」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「中小企業成長加速化補助金 申請支援」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「「省力化投資補助金（一般型）」は、深刻な人手不足に直面している中小企業・中堅企業向けの、自社の個別現場に合わせた「独自の設備導入・システム構築」を行う戦略的投資を支援する制度」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「補助上限額：最大1億円（従業員数および賃上げ要件により変動）」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「補助率：中小企業は1/2（大幅な賃上げを行う場合は2/3）、小規模事業者等は2/3」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「従業員100名超で、数千万〜1億円規模の」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「自動化により売上が同じでも利益が残る高収益体質への改善」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「大規模成長投資補助金」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「中堅企業・売上高100億円超企業向けの補助金」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「生産性向上と賃上げを促進するため、大規模な工場・物流拠点等の新設、設備、システム投資の費用の一部を補助」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「売上高100億円を目指す企業向けの補助金」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「売上高10億円以上100億円未満の、「100億宣言」企業が対象」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「人手不足に悩む中小企業等の売上拡大や生産性向上を後押しするための補助金」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+  - 「中小企業等による生産性向上に資する革新的サービス開発・試作品開発・生産プロセスの改善を行うための設備投資を支援する補助金」（https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087）
+
+## 個別原価・採算の見える化支援（製造業）（job costing profitability visibility manufacturers）
+- 文脈：生産管理
+- 前例・提供企業：
+  - 「情報サービス業」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「ライセンス提供方法」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「基幹システム刷新 簡易診断サービス」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「5.見積から実績まで、一気通貫で管理する製番別原価の仕組み」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「6.導入事例に学ぶ！現場が変わり、経営が変わった中堅製造業の実践例」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「本コラムでは、こうした「利益が見えない」状況から脱却するために、中堅製造業が取り組むべき“個別原価管理”の考え方と、その実践方法について、ERPを活用した事例も交えながら詳しく解説していきます」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「見積精度の向上 ：過去案件の実績に基づいた根拠ある積算」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「生産形態や拠点ごとの業務特性に柔軟に対応し、製造業の業務効率化と原価管理を強力に支援するERPモデルを学びませんか？」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「「利益は出ているはずなのに、なぜか資金繰りが苦しい」「見積もりと実績が大きくズレているが、理由がわからない」こうした悩みは、多くの中堅・中小製造業が抱える共通の課題です」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「管理部門が手作業で集計し、月末に実績を確認」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「原価実績の把握が月末〜翌月になるため、即時対応が困難」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「受注 → 製番発行 → 購買（部品・外注） → 作業実績（工数・仕掛品） → 出荷・売上 → 製番別損益」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「購買実績／仕入価格」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「材料費の実績反映」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「作業実績（工数）」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+- 価格・単価：
+  - 「120,000円」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「50,000円」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「80,000円」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「30,000円」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「350,000円」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「+70,000円」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「200,000円」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「100,000円」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「150,000円」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「40,000円」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「450,000円」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「-40,000円」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「個別原価の前に「変動損益計算書」——費用を2つに分けるだけで、値決めと受注判断が変わる」（https://inada-tax.com/blog/seizougyo-genka-kanri/）
+  - 「3. 個別原価の前に「変動損益計算書」——費用を2つに分けるだけで、値決めと受注判断が変わる」（https://inada-tax.com/blog/seizougyo-genka-kanri/）
+  - 「費用を「変動費」と「固定費」の2つに分けるだけ」（https://inada-tax.com/blog/seizougyo-genka-kanri/）
+- 責任の範囲：
+  - 「見積精度の向上 ：過去案件の実績に基づいた根拠ある積算」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「また、手元のExcelで管理している限り、リアルタイムでの原価の進捗確認や見積精度の検証、PDCAの高速回転は不可能です」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「予実管理の精緻化：見積と実績を突き合わせ、次の案件での見積精度を向上できる」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「１）「見積もり精度」が利益を左右する」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「過去の実績データが整備されておらず、精度検証ができない」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「ERPによって過去の製番別実績（材料費、工数、外注費など）を見積もりに活用することで、見積精度を飛躍的に高めることが可能になります」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「これにより、見積精度の向上 → 利益率の安定化 → 経営の強化という好循環が築かれていきます」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「経営判断の精度」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「ERPの導入だけで原価管理の精度が向上するわけではありません」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「原価を詳細に管理することは、コスト削減や無駄の排除といった狭い意味だけでなく、経営判断の精度を高める羅針盤の役割を果たします」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「新規案件の見積精度向上」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「これらのシステムを組み合わせることで、製造現場はさらなる効率化と精度向上を図ることができます」（https://nsw-manufacturing.jp/note/mfg_note_08.html）
+  - 「この間接費をどのように各製品へ配賦するかは、原価計算の精度に大きく影響します」（https://industry.csunnet.co.jp/column/column/manufacturing-cost-management）
+  - 「現場と基幹システムのデータが分断されていると、原価の集計が遅れたり、標準原価との差異要因を特定できなかったりと、原価管理の精度に大きな影響を与えます」（https://industry.csunnet.co.jp/column/column/manufacturing-cost-management）
+  - 「過去の類似製番の見積りと実際原価を比較し、設計変更や急な仕様追加によるコストのブレをいち早く察知して、次回の見積もり精度の向上や、顧客への追加費用交渉の根拠として活用します」（https://industry.csunnet.co.jp/column/column/manufacturing-cost-management）
+- 経営判断への置き方：
+  - 「6.導入事例に学ぶ！現場が変わり、経営が変わった中堅製造業の実践例」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「こうした環境下で、製造業の経営者や管理部門が共通して抱える悩みがあります」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「これでは経営判断に必要な“粒度”の情報にはなりません」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「２）“見える化”がもたらす経営的な意義」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「これにより、以下のような重要な意思決定が可能になります」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「製番別の利益管理：営業・製造・経営陣が共通の原価意識を持つ基盤に」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「経営層や管理部門がリアルタイムに案件ごとのコスト構造を把握し、“利益が出る仕組み”を全社で共有することが求められています」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「案件ごとの予算原価設定」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「このように、製番ごとの原価推移や進捗を見ながら、「今、どこでコストが膨らんでいるのか」「赤字案件をどうカバーするか」など、経営に直結する判断が可能になります」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「３）経営者・管理者にとっての“見える化”の価値」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「ERPによって原価情報が「見える化」されると、現場だけでなく経営層にも大きなメリットがあります」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「経営判断の迅速化：案件ごとの収益状況を即座に把握し、投資・値引き判断に活用できる」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「予実管理の精緻化：見積と実績を突き合わせ、次の案件での見積精度を向上できる」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「２）「予算」と「実績」をリアルタイムで比較」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「このように「予算 vs 実績」の構造を案件ごとに可視化することで、」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+- 大手・競合：
+  - 「逆に言えば、ここを固めるだけで競合より一歩先に出られます」（https://inada-tax.com/blog/seizougyo-genka-kanri/）
+  - 「市場が求める品質や価格と自社の製造コストとのバランスを適切に調整できなければ、競合他社との価格競争に巻き込まれ、利益が圧迫されるおそれがあります」（https://www.nisseicom.co.jp/growone-production/column/26.html）
+  - 「販売管理システム 売上シェアNo.1」（https://it-trend.jp/cost_control/article/system）
+  - 「千葉大学を卒業後、ITベンチャー企業や大手事務機器メーカーのシステム提案営業を経て、2018年より独立」（https://it-trend.jp/cost_control/article/system）
+  - 「このページの内容をシェアする」（https://it-trend.jp/cost_control/article/system）
+  - 「大手・グループ企業（複数拠点・基幹システム連携が必要）」（https://smartf-nexta.com/archives/10737）
+  - 「業界特化型は機能が充実している一方で、要件定義や運用設計が必要になりやすいため、中堅〜大手企業や、原価管理を本格的に高度化したい製造業に向いています」（https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/）
+  - 「大企業・大手企業」（https://industry-dx-sainavi.com/industries/manufacturing/articles/l-cost-management-07-is/）
+  - 「価格を決める根拠は前例と競合の相場になり、値上げの交渉をしようにも、どれだけ必要なのかを説明できない」（https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E5%8E%9F%E4%BE%A1%E3%81%A8%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%81%AE%E5%9F%BA%E7%A4%8E%EF%BD%9C%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E3%81%A8/）
+  - 「その状態で価格を決めると、根拠は前例と競合の相場になります」（https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E5%8E%9F%E4%BE%A1%E3%81%A8%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%81%AE%E5%9F%BA%E7%A4%8E%EF%BD%9C%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E3%81%A8/）
+  - 「大手部品メーカーで購買統括を10年務めた経歴を持つ社長が」（https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E5%8E%9F%E4%BE%A1%E3%81%A8%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E3%81%AE%E5%9F%BA%E7%A4%8E%EF%BD%9C%E5%8F%8E%E7%9B%8A%E6%A7%8B%E9%80%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E3%81%A8/）
+  - 「製造業（大手〜中堅グループ企業）」（https://catalog.monex.co.jp/article/?p=70914）
+  - 「口座振替代行サービスおすすめ33選を比較｜独自調査による市場シェアと選び方、手数料を徹底解説」（https://catalog.monex.co.jp/article/?p=70914）
+  - 「多いが、値上げ幅が大きいと他社への切り替えを検討するため、顧客や競合他社、市場の動向を考慮しなが」（https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf）
+  - 「⚫ 秩父市が、メディアでの露出が増えたことに伴い、ホテルが進出するなど競合が増加」（https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf）
+- 参入障壁：
+  - 「「感覚」や「経験」に頼らない精緻な収支管理は、将来にわたって企業を支える大きな武器になります」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「原価管理を現場の経験や勘に頼る時代は、終わりを迎えつつあります」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「製番別に「見積原価」と「実績原価」を登録・比較できる仕組みを構築」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「経験と勘が中心」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「そのため、誰が・いつ・どの項目を登録するのかを明文化しなければ、入力漏れや不整合が生じやすくなります」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「材料費 → 購買担当者が発注時に単価を登録」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「また、記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「計画変更と実績登録」（https://nsw-manufacturing.jp/note/mfg_note_08.html）
+  - 「生産計画の修正や実績データの登録を行えます」（https://nsw-manufacturing.jp/note/mfg_note_08.html）
+  - 「これにより、大日程を登録する手間が削減され、すぐに大日程の計画修正に取り掛かることが可能となります」（https://nsw-manufacturing.jp/note/mfg_note_08.html）
+  - 「本サイトに記載されている商品・サービス名は、各社の商標または登録商標です」（https://nsw-manufacturing.jp/note/mfg_note_08.html）
+  - 「経済環境が激しく変化する現代において、経験や勘に依存した経営から脱却し、持続的な企業成長を支える経営基盤といえます」（https://industry.csunnet.co.jp/column/column/manufacturing-cost-management）
+  - 「過去の経験や勘だけに頼るのではなく、製品の構成部品（BOM：部品表）を整理し、各工程の「標準作業」に基づく標準作業時間（正味時間＋余裕時間）と、そこに適用する時間当たりのコスト（賃率・配賦率）の算定ルールを明確に定義します」（https://industry.csunnet.co.jp/column/column/manufacturing-cost-management）
+  - 「大阪・西中島で税理士事務所をやりながら、認定経営革新等支援機関として金融機関に事業計画や改善計画を通す側に立ち、複数社の経営会議・取締役会にも入っています」（https://inada-tax.com/blog/seizougyo-genka-kanri/）
+  - 「これは、私の経験上、製造業でいちばん多い「見えない出血」です」（https://inada-tax.com/blog/seizougyo-genka-kanri/）
+- 回す体制：
+  - 「中堅製造業、とくに受注ごとに製品仕様が異なるような企業では、「個別原価計算」を導入することで、案件別に発生した材料費、工数、外注費、間接費などのコストを詳細に把握し、収支を精密に管理することが可能になります」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「労務費（作業者の工数・時間）」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「原価改善の着眼点：材料ロスや外注コスト、工数超過などの要因特定」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「たとえば次のような運用がよく見られます」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「現場担当者が材料使用量や工数を個別に記録」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「工数記録が曖昧だったり、間接費の配賦が適当になりやすい」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「個別原価管理の必要性を理解していても、実際の導入や運用となると「手間がかかるのでは？」「現場が対応できないのでは？」という不安の声が聞かれます」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「受注 → 製番発行 → 購買（部品・外注） → 作業実績（工数・仕掛品） → 出荷・売上 → 製番別損益」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「作業実績（工数）」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「ERPでは、受注ごとに発行する「製番（製造番号）」を軸に、材料費・工数・外注費・間接費を紐づけて集計できます」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「工数の見積もり不足」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「ERPによって過去の製番別実績（材料費、工数、外注費など）を見積もりに活用することで、見積精度を飛躍的に高めることが可能になります」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「なぜ工数が多くかかったのか」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「個別原価管理の必要性やERPによる実現手段を理解しても、実際に「うまく運用できるのか？」と不安を抱く企業は少なくありません」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「工数（作業時間） → 製造現場が実績入力端末で入力」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+- 買い手の規模：
+  - 「3.現場任せでは利益が守れない──中堅企業における原価管理の課題」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「中堅・中小規模の製造業を取り巻く経済環境は、今、かつてないスピードで変化しています」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「実際、従来のように総額ベースの売上や費用を部門単位で把握しているだけでは、どの仕事が収益を生んでいるのか、逆に損失を生んでいるのかまでは見えません」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「中堅・中小製造業でよく見られるのが、月次の試算表レベルで売上と仕入・経費の差を見て利益を判断しているケースです」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「３．現場任せでは利益が守れない──中堅企業における原価管理の課題」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「中堅企業では、案件ごとの原価をExcelや紙の台帳で手作業集計しているケースが珍しくありません」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「原価と売上の突合は、請求書処理ベースで実施」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「受注 → 製番発行 → 購買（部品・外注） → 作業実績（工数・仕掛品） → 出荷・売上 → 製番別損益」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「１）電気機械器具製造業メーカー（従業員1,000名）」（https://www.grandit.jp/erp/column/manufacturing_cost_management/）
+  - 「：製造ラインで働く従業員の給与、賞与、手当、法定福利費など、ものづくりの「ヒト」にかかる費用」（https://industry.csunnet.co.jp/column/column/manufacturing-cost-management）
+  - 「また、長期的な経営計画に基づいて情報を従業員へ開示し、属人化を排除していくオープンな経営は、組織のガバナンス体制を強化し、最終的な付加価値の向上につながります」（https://industry.csunnet.co.jp/column/column/manufacturing-cost-management）
+  - 「売上は伸びている」（https://inada-tax.com/blog/seizougyo-genka-kanri/）
+  - 「売上5億を超えた製造業のオーナーに向けて、」（https://inada-tax.com/blog/seizougyo-genka-kanri/）
+  - 「総合原価計算と個別原価計算、売上5億の製造業はどちらを選ぶべきか？」（https://inada-tax.com/blog/seizougyo-genka-kanri/）
+  - 「売上総利益率（粗利率）とその安定性」（https://inada-tax.com/blog/seizougyo-genka-kanri/）
+- 検索結果の抜粋：
+  - 「製造原価 の改善をリードする「 見える化 」の重要性 — 製造原価 の改善をリードする「 見える化 」の重要性 nsw-manufacturing.jp https://nsw-manufacturing.jp > note > mfg_note_08」（https://nsw-manufacturing.jp/note/mfg_note_08.html）
+  - 「原価 管理システム比較8選 製造業 向けの選び方を解説 ... - SmartF — 原価 管理システム比較8選 製造業 向けの選び方を解説 ... - SmartF SmartF https://smartf-nexta.com > 原価管理」（https://smartf-nexta.com/archives/10737）
+  - 「製造物 責任 の 免責 事由－部品、原材料 製造業者 等の 免責 事由 — 製造物 責任 の 免責 事由－部品、原材料 製造業者 等の 免責 事由 弁護士法人朝日中央綜合法律事務所 https://www.ac-law.jp > manual > pdf12 > pdf12-page017」（https://www.ac-law.jp/manual/pdf12/pdf12-page017/）
+  - 「利益率を2倍に！ 製造業 の「 見え ない利益」を掘り起こす 原価 ... — 利益率を2倍に！ 製造業 の「 見え ない利益」を掘り起こす 原価 ... 大塚商会 https://www.otsuka-shokai.co.jp > cost > column-sadohara」（https://www.otsuka-shokai.co.jp/erpnavi/it-management/sales-profit/cost/column-sadohara.html）
+  - 「中小 製造業 こそ取り組むべき！ 個別原価 管理のススメ — 中小 製造業 こそ取り組むべき！ 個別原価 管理のススメ 船井総合研究所 https://smart-factory.funaisoken.co.jp > factorydx-2089」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-2089）
+
+## 生産管理システム導入前の業務整理・要件定義（requirements definition before production system implementation）
+- 文脈：生産管理
+- 前例・提供企業：
+  - 「当社では、具体的に以下のような手順で要件整理を支援します」（https://www.tonops.net/tips/requirements.html）
+  - 「東レグループ各社をはじめ、製造業を中心にさまざまな業種のお客様への導入実績があります」（https://www.tonops.net/tips/requirements.html）
+  - 「AI・データ分析などの多様な要素技術を組み合わせ、さらなる効率化の実現を支援します」（https://www.tonops.net/tips/requirements.html）
+  - 「製品・事例のご紹介」（https://www.tonops.net/tips/requirements.html）
+  - 「当社が提供するTONOPS」（https://www.tonops.net/tips/requirements.html）
+  - 「そのうえで、お客様の課題を踏まえ、最適なソリューションや過去事例をご紹介します」（https://www.tonops.net/tips/requirements.html）
+  - 「工番ごとに見積・受注・工程実績・原価が紐づくため、月次決算を待たずに案件単位の利益が把握できます」（https://factoryadvance.jp/blog/422/）
+  - 「工程別の実績データから、リードタイムを阻害している工程を特定できます」（https://factoryadvance.jp/blog/422/）
+  - 「Step 6: スモールスタート展開（1ラインで成功事例を作る）」（https://factoryadvance.jp/blog/422/）
+  - 「3〜6ヶ月で成功事例ができれば、他部門への展開時の説得力が増します」（https://factoryadvance.jp/blog/422/）
+  - 「②受注・工程実績登録」（https://factoryadvance.jp/blog/422/）
+  - 「③差異分析(見積vs実績)」（https://factoryadvance.jp/blog/422/）
+  - 「過去の実績データを参照して、根拠ある見積を作成します」（https://factoryadvance.jp/blog/422/）
+  - 「受注・工程実績登録」（https://factoryadvance.jp/blog/422/）
+  - 「受注した案件の工程実績をタブレット・スマホで継続的に記録します」（https://factoryadvance.jp/blog/422/）
+- 価格・単価：
+  - 「あわせて、標準機能と自社業務のギャップをどう埋めるか、費用と回収をどう見積もるか、導入で陥りがちな5つの失敗パターンと回避策、クラウド型が中小製造業に向く理由まで網羅的に整理します」（https://factoryadvance.jp/blog/422/）
+  - 「「カスタマイズに50万円かかる」という金額の絶対値ではなく、」（https://factoryadvance.jp/blog/422/）
+  - 「たとえば手作業が月5時間残るのを50万円で解消するなら、時給2,000円換算で年12万円の削減に対して50万円の支出です」（https://factoryadvance.jp/blog/422/）
+  - 「クラウド型なら環境構築費20万円・月額3万円のスモールプランから始められ、運用負担もベンダー側が引き受けてくれます」（https://factoryadvance.jp/blog/422/）
+  - 「スモールプラン20万円／スタンダードプラン40万円」（https://factoryadvance.jp/blog/422/）
+  - 「スモールプラン3万円／スタンダードプラン5万円」（https://factoryadvance.jp/blog/422/）
+  - 「図面のAI-OCRはスタンダード以上の有料オプション（月額1万円）です」（https://factoryadvance.jp/blog/422/）
+  - 「は環境構築費20万円と月額3万円×12ヶ月＝36万円で、合計56万円」（https://factoryadvance.jp/blog/422/）
+  - 「事務工数の削減：注文書と請求書の転記が月20時間減り、時給2,000円換算で月4万円、年48万円」（https://factoryadvance.jp/blog/422/）
+  - 「赤字案件の早期発見：年間受注100件のうち10件が1件あたり平均10万円の赤字（年100万円の損失）で、その半分を着手前・仕掛中に検知して手を打てれば年50万円」（https://factoryadvance.jp/blog/422/）
+  - 「合計で年98万円」（https://factoryadvance.jp/blog/422/）
+  - 「2.提供形態で考える生産管理システムの費用相場」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「3.費用を基準にしたシステムの選び方」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「4.費用のほかに押さえておきたいこと」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「233万円～」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+- 責任の範囲：
+  - 「「赤字案件を減らしたい」「事務工数を削減したい」「見積精度を上げたい」など、具体的な経営課題から逆算して導入目的を決めます」（https://factoryadvance.jp/blog/422/）
+  - 「特注品見積精度」（https://factoryadvance.jp/blog/422/）
+  - 「次回見積の精度向上、値上げ交渉、業務改善に反映します」（https://factoryadvance.jp/blog/422/）
+  - 「このサイクルを6ヶ月〜1年継続すると、見積精度・案件採算・利益体質が改善に向かいます」（https://factoryadvance.jp/blog/422/）
+  - 「また、プロジェクト責任者に経営者を置き、プロジェクトリーダーや各部門の推進担当に現場のキーマンをアサインすることも欠かせません」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「また確定・内示、受入実績といった情報もリアルタイムで反映されるようになり、計画精度も向上しました」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「経営層は、収益構造が数値によって可視化されることで、より精度の高い経営判断を行える」（https://www.kicnet.co.jp/solutions/business/column/implementation-process/）
+  - 「マスタデータの精度が低いと、システムの性能を十分に引き出せません」（https://www.kicnet.co.jp/solutions/business/column/implementation-process/）
+  - 「専門チームが導入から運用定着まで支援しシステムの実稼働を保証」（https://boxil.jp/mag/a9525/）
+  - 「たとえば、在庫管理の効率化、生産計画の精度向上、原価管理の徹底など、具体的な課題を洗い出します」（https://boxil.jp/mag/a9525/）
+  - 「生産管理システムは、製造業における「モノの流れ」と「情報の流れ」を統合的かつ総合的に管理するシステムで、効率的かつ精度の高い生産管理を実現し、生産における業務フローを最適化します」（https://www.axeeds.com/column/productioncontrolsystem-introduction.html）
+  - 「工程実績の反映が遅く、生産計画の運用精度が上がらない」（https://www.axeeds.com/column/productioncontrolsystem-introduction.html）
+  - 「一般的なケースですと、納品から一定の期間は開発元の会社が「瑕疵担保責任」 を負うケースが多く、期間内は開発元の会社が不具合の修正を行います」（https://giginc.co.jp/blog/giglab/coresystem-cost）
+  - 「しかし、責任期間を過ぎると基本的には別途費用が発生します」（https://giginc.co.jp/blog/giglab/coresystem-cost）
+  - 「営業が持ってくる情報の精度が不明」（https://n-pe.jp/blog-category/production-management-system/column127/）
+- 経営判断への置き方：
+  - 「このとき、現場へのヒアリングを行ってから経営トップへのヒアリングを行うのではなく、経営トップから現場という順番でヒアリングを行うとよいでしょう」（https://www.tonops.net/tips/requirements.html）
+  - 「経営判断の一大プロジェクト」（https://factoryadvance.jp/blog/422/）
+  - 「経営判断の質と速度を変える経営インフラ整備」（https://factoryadvance.jp/blog/422/）
+  - 「経営判断の高速化」（https://factoryadvance.jp/blog/422/）
+  - 「経営者がスマホで会社の状況をいつでも把握でき、月次会議ではなく週次・日次の経営判断が可能になります」（https://factoryadvance.jp/blog/422/）
+  - 「経営課題と導入目的の明確化」（https://factoryadvance.jp/blog/422/）
+  - 「「赤字案件を減らしたい」「事務工数を削減したい」「見積精度を上げたい」など、具体的な経営課題から逆算して導入目的を決めます」（https://factoryadvance.jp/blog/422/）
+  - 「経営者の覚悟と関与」（https://factoryadvance.jp/blog/422/）
+  - 「生産管理システム導入は経営変革であり、IT担当者や工場長に丸投げするのではなく、経営者自身がプロジェクトオーナーになる必要があります」（https://factoryadvance.jp/blog/422/）
+  - 「①経営課題と目的の明確化」（https://factoryadvance.jp/blog/422/）
+  - 「Step 1: 経営課題と導入目的の明確化」（https://factoryadvance.jp/blog/422/）
+  - 「最初の最重要ステップは、自社の経営課題を」（https://factoryadvance.jp/blog/422/）
+  - 「展開と同時に、月次経営レビュー会の運用も立ち上げ、システムから得たデータで議論する文化を定着させます」（https://factoryadvance.jp/blog/422/）
+  - 「今のやり方に経営上の必然性がない」（https://factoryadvance.jp/blog/422/）
+  - 「Step1の経営課題定義に時間をかける」（https://factoryadvance.jp/blog/422/）
+- 大手・競合：
+  - 「中小製造業では大手ERPは過剰機能になることが多く、」（https://factoryadvance.jp/blog/422/）
+  - 「選定方法や注意点も解説｜生産管理システムコラム｜生産管理システム「Factory-ONE 電脳工場」｜日立ソリューションズ西日本」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「株式会社 日立ソリューションズ西日本」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「加えてDXが声高に叫ばれる現代においては、競合他社に後れをとらないためにも、データを活用して顧客動向を的確に捉えつつ、効率的に生産・・・」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「日立ソリューションズ西日本 製品担当者からのオススメ！」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「日立ソリューションズ西日本の導入事例」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「加えて、日立ソリューションズ西日本の自動車部品製造業における導入実績が豊富な点、業務内容やシステム要件への理解度が高かった点も評価のポイントでした」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「日立ソリューションズ西日本 製品担当者からコメント」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「日立ソリューションズ西日本では要件定義から作業支援することができます」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「生産管理の導入で悩まれているのであればぜひ日立ソリューションズ西日本へお声がけください」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「日立グループTOP」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「Necessary」（https://www.kicnet.co.jp/solutions/business/column/implementation-process/）
+  - 「Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.」（https://www.kicnet.co.jp/solutions/business/column/implementation-process/）
+  - 「cookielawinfo-checkbox-necessary」（https://www.kicnet.co.jp/solutions/business/column/implementation-process/）
+  - 「This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".」（https://www.kicnet.co.jp/solutions/business/column/implementation-process/）
+- 参入障壁：
+  - 「認定パートナー」（https://factoryadvance.jp/blog/422/）
+  - 「②受注・工程実績登録」（https://factoryadvance.jp/blog/422/）
+  - 「受注・工程実績登録」（https://factoryadvance.jp/blog/422/）
+  - 「■ JRCA認定ISMS審査員補」（https://factoryadvance.jp/blog/422/）
+  - 「日本のものづくりを担っている職人や工場の魅力を伝えるため、登録企業様のストーリーをものづくりの専門家がインタビューし、専属の写真家が撮影した」（https://factoryadvance.jp/blog/422/）
+  - 「経験豊富なシステムエンジニアの支援により、スムーズな導入、安定的な運用が可能です」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「登録〜処理〜出力までの動作を一連で確認する「結合テスト」実施」（https://www.kicnet.co.jp/solutions/business/column/implementation-process/）
+  - 「生産計画登録」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「まずは生産計画登録や資材調達、原価計算といった生産計画にあたる機能が備わっているか確認してください」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「日本最大級9000社以上のシステム開発・WEB制作会社が登録」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「会員登録には、」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「生産管理システムでは、導入前の要件整理やマスタ登録、帳票設定など、」（https://boxil.jp/mag/a9525/）
+  - 「バーコード対応のタブレットを活用することで簡単に登録ができるため、業務ミスや漏れ防止に役立つほか、現場に合わせたシステム連携に対応し、ノーコードで自社に合ったシステムを構築できます」（https://boxil.jp/mag/a9525/）
+  - 「部品マスタの事前登録なしで運用できるほか、データ取り込み機能により、入力ミスや発注漏れ、手配ミスを削減できるほか、資材調達の入力工数も大幅に削減できます」（https://boxil.jp/mag/a9525/）
+  - 「マスタごと・受注ごとに関連資料を登録・管理できるため、情報の社内共有に役立つほか、社内の状況を可視化することで、業務改善と作業効率の向上を図ります」（https://boxil.jp/mag/a9525/）
+- 回す体制：
+  - 「システムが現場で使いこなせず運用されない」（https://www.tonops.net/tips/requirements.html）
+  - 「製造現場が適応できないシステムを導入すると、かえって作業者の負荷が高くなってしまい、システムの有効性や導入効果が理解されず運用されなくなる恐れがあります」（https://www.tonops.net/tips/requirements.html）
+  - 「改善後の業務モデルをイメージしながら、運用に最適な機能、処理フローを定義します」（https://www.tonops.net/tips/requirements.html）
+  - 「現場での運用なども加味しながら、お客様の目指す姿を実現するためのシステム構成やカスタマイズ内容を整理し、提案します」（https://www.tonops.net/tips/requirements.html）
+  - 「本記事では、要件定義からシステム選定、Fit/GAP分析、現場展開、運用定着までの全7ステップを実務目線で解説します」（https://factoryadvance.jp/blog/422/）
+  - 「事務工数の削減」（https://factoryadvance.jp/blog/422/）
+  - 「AI-OCRやタブレット入力により、紙の注文書・作業日報・請求書の処理工数が大きく減ります」（https://factoryadvance.jp/blog/422/）
+  - 「「赤字案件を減らしたい」「事務工数を削減したい」「見積精度を上げたい」など、具体的な経営課題から逆算して導入目的を決めます」（https://factoryadvance.jp/blog/422/）
+  - 「⑦全社展開と運用定着」（https://factoryadvance.jp/blog/422/）
+  - 「「赤字案件比率を20%→5%に削減」「リードタイムを30日→20日に短縮」「事務工数を月50時間削減」のように、」（https://factoryadvance.jp/blog/422/）
+  - 「中小製造業では機能を絞ることが運用定着の鍵で、欲張ると現場が使いこなせません」（https://factoryadvance.jp/blog/422/）
+  - 「で論じた適合プロファイル軸（規模・事業特性・運用習熟度）でベンダーを評価します」（https://factoryadvance.jp/blog/422/）
+  - 「1ライン・1部門で先行運用」（https://factoryadvance.jp/blog/422/）
+  - 「3〜6ヶ月で成功事例ができれば、他部門への展開時の説得力が増します」（https://factoryadvance.jp/blog/422/）
+  - 「Step 7: 全社展開と運用定着」（https://factoryadvance.jp/blog/422/）
+- 買い手の規模：
+  - 「工場規模の大小に関わらず、計画、製造工程、出荷まで、製造業で必要とされる生産管理の機能を網羅しています」（https://www.tonops.net/tips/requirements.html）
+  - 「製造業の中小企業に専任IT担当者はいないことが多く、現場の作業者が日々入力する仕組みは」（https://factoryadvance.jp/blog/422/）
+  - 「で論じた適合プロファイル軸（規模・事業特性・運用習熟度）でベンダーを評価します」（https://factoryadvance.jp/blog/422/）
+  - 「生産管理システムを製造業の中小企業で導入するとき、判断材料になるのは費用の総額ではなく、」（https://factoryadvance.jp/blog/422/）
+  - 「ITコーディネーター・中小企業診断士との3層協業モデルで、Step 1〜7の伴走支援に対応」（https://factoryadvance.jp/blog/422/）
+  - 「2024年版 中小企業白書」（https://factoryadvance.jp/blog/422/）
+  - 「（中小企業庁、2024年）」（https://factoryadvance.jp/blog/422/）
+  - 「中小規模製造業者の製造分野におけるDX推進のためのガイド」（https://factoryadvance.jp/blog/422/）
+  - 「■ 東京都中小企業向け」（https://factoryadvance.jp/blog/422/）
+  - 「■ 中小企業庁「みらデジ」デジタル化支援者」（https://factoryadvance.jp/blog/422/）
+  - 「「製造業X」とは？中小企業が直面する変化と勝機」（https://factoryadvance.jp/blog/422/）
+  - 「生産管理システムには、生産計画の立案を支援する機能をはじめ、見積り・受注・出荷・売上・在庫を管理して製品の過不足を抑制する販売管理機能や、仕入業務を管理する購買管理機能、さらに製造管理・在庫管理・原価管理など、製造に関わる機能が網羅されており、製造業の複数部門における生産性向上や業務効率化を実現するソリューションとして注目されています」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「また、見積り・受注・出荷・売上などを管理する販売管理機能は、余剰在庫を防止でき、所要量計算機能では生産に必要な原材料・資材の数量や調達時期の自動計算が可能です」（https://www.hitachi-solutions-west.co.jp/products/industry/denno/column01/vol02/）
+  - 「中小企業向け（特定の業種や生産方式に対応）」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「例えば、特定の業種にしか対応していない中小企業向けのシステムを中堅以上の企業に導入すると、複雑な業務に対応できません」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+
+## 生産管理システム導入のPMO・ベンダー選定支援（production system vendor selection PMO）
+- 文脈：生産管理
+- 前例・提供企業：
+  - 「生産管理システム導入コンサルティング｜コンサルティング・サービス｜日本能率協会コンサルティング（JMAC）」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「コンサルティング・サービス」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「テーマからコンサルティング・サービスを探す」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「コンサルティング・サービスTOP」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「テーマから事例を探す」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「株式会社デンソー」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「株式会社BIKEN」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「JMACのコンサルティングプログラムや事例紹介、コンサルティング経験から得られた知見・ノウハウなどをご紹介し、ディスカッションや交流によって、課題解決のヒントをつかんでいただきます」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「「ものづくりは人づくりから」をモットーに、現場力・改善力の向上を人材育成面から支援します」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「「GO! JMAC」は、JMACが提供するIoTコンサルティング情報サイトです」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「に、事例や最新ツール情報を豊富に掲載しています」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「「JMACラーニング」は、JMACが提供する企業研修サイト」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「食品業界向け経営改革を支援する」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「設備管理や現場改善に役立つ情報を提供する」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「TPMやカイゼンの事例やノウハウを掲載しています」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+- 価格・単価：
+  - 「65万円 (税別) ～ ※ 支援範囲及び規模によってはPM複数名にての支援、またはPMOを設置することがございます」（https://www.moresys.jp/）
+  - 「2.提供形態で考える生産管理システムの費用相場」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「3.費用を基準にしたシステムの選び方」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「4.費用のほかに押さえておきたいこと」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「233万円～」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「1,000円～100万円」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「10～1,000万円」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「例えば、月100万円で受けてくれるエンジニアが2人で2ヶ月かけて開発に着手した場合、「100万円×2人×2ヶ月＝400万円」が人件費となります」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「100万円〜」（https://freeconsultant.jp/projects/inventory-management）
+  - 「120万円〜」（https://freeconsultant.jp/projects/inventory-management）
+  - 「150万円〜」（https://freeconsultant.jp/projects/inventory-management）
+  - 「180万円〜」（https://freeconsultant.jp/projects/inventory-management）
+  - 「200万円〜」（https://freeconsultant.jp/projects/inventory-management）
+  - 「90-125万円 / 月」（https://freeconsultant.jp/projects/inventory-management）
+  - 「320-440万円 / 月」（https://freeconsultant.jp/projects/inventory-management）
+- 責任の範囲：
+  - 「繰り返し型の受注生産で製品形状が複雑かつ高精度な加工が求められるため、負荷の集中や不良などの生産トラブルが発生すると当初の納期回答通りにものづくりができず、サービスレベルの低下を招いていた」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「個人保証ゼロ化」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「すべてを意思決定し責任を追う経営者と同じ目線に立ち、ともに成果にこだわり続けることが「経営”者”コンサルティング」の本質であり、船井総研のアイデンティティでもあります」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「生産管理システムの導入推進における組織(体制)作りを行いプロジェクト責任者をはじめ各人の役割を明確にし、情報伝達方法及びその流れ、情報共有」（https://www.moresys.jp/）
+  - 「●バーコードを活用した高精度の管理も可能」（https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html）
+  - 「【免責事項】」（https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html）
+  - 「・プロジェクト責任者の意図を的確に汲み取り言語化／資料化を通じた業務の整流化」（https://freeconsultant.jp/projects/inventory-management）
+  - 「運用が未確定のままでは見積精度が上がらず、導入後に追加費用・追加期間が発生しやすくなります」（https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/）
+  - 「可能であれば、実際の運用モデル（成功事例）を確認しながら固めることで、見積精度と導入の確度が大きく高まります」（https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/）
+  - 「導入の最優先目的は何ですか（納期遵守／在庫削減／原価精度／負荷平準化など）」（https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/）
+  - 「導入後の運用責任者（業務オーナー）は誰ですか」（https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/）
+  - 「原価管理の目的は何ですか（見積精度／実績原価／利益管理など）」（https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/）
+  - 「このような手順で進めると、比較の精度と導入の確度が大きく高まります」（https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/）
+- 経営判断への置き方：
+  - 「経営戦略・新事業」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「SX／サステナビリティ経営推進」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「経営のヒント」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「経営のヒントTOP」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「「人間力」を磨き現場を動かす 大変革時代の経営者の条件」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「食品業界向け経営改革を支援する」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「要件が過度に膨らまないように、費用対効果を考えてシステム必要機能を整理したい」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「関連する経営のヒント」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「経営計画・KPI設定」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「人的資本経営」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「経営レポート」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「経営戦略・グループ経営・ホールディングス化」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「HR（人的資本経営）」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「地域コングロマリット経営」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「事業戦略・中期経営計画策定」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+- 大手・競合：
+  - 「JMACの最新情報をシェアします」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「：大手化学メーカー」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「株式会社日立製作所」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「シェアードサービス」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「NAVINECT」（https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html）
+  - 「引用元：富士通公式HP」（https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html）
+  - 「SIer（エンド：大手素材メーカー）でのプロジェクト案件」（https://freeconsultant.jp/projects/inventory-management）
+  - 「大手コンサルティングファーム（エンド：メーカー）でのプロジェクト案件」（https://freeconsultant.jp/projects/inventory-management）
+  - 「ヘルスケア・メディカル業界向けITソリューション企業（エンド：大手製薬メーカー）でのプロジェクト案件」（https://freeconsultant.jp/projects/inventory-management）
+  - 「＜稼働率40％～／基本リモート＞大手製薬メーカーの生産管理業務改善支援」（https://freeconsultant.jp/projects/inventory-management）
+  - 「大手製薬メーカーでのプロジェクト案件」（https://freeconsultant.jp/projects/inventory-management）
+  - 「大手ふるさと納税関連サービス運営会社でのプロジェクト推進支援 ※PM/PMO」（https://freeconsultant.jp/projects/inventory-management）
+  - 「大手ふるさと納税関連サービス運営会社でのプロジェクト案件」（https://freeconsultant.jp/projects/inventory-management）
+  - 「大手SIer（エンド：プロセス製造業）でのプロジェクト案件」（https://freeconsultant.jp/projects/inventory-management）
+  - 「＜基本リモート＞大手製造業グループの各種DXテーマ構想策定支援」（https://freeconsultant.jp/projects/inventory-management）
+- 参入障壁：
+  - 「JMACのコンサルティングプログラムや事例紹介、コンサルティング経験から得られた知見・ノウハウなどをご紹介し、ディスカッションや交流によって、課題解決のヒントをつかんでいただきます」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「経験知を活かした実践型プログラム」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「過去にシステム導入で失敗した経験がある」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「技術者の「自覚」と「覚悟」が組織を変え、未来を変える〜全員野球で「勝てるチーム」になる〜」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「システム導入・活用支援を専門とする経験豊富なコンサルタントが多数在籍」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「更にトレーニング(教育)期間、 データ移行またはデータ入力(登録)期間、テスト運用期間、本稼働の時期、システム導入費用とその費用対効果を想定して」（https://www.moresys.jp/）
+  - 「生産計画登録」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「まずは生産計画登録や資材調達、原価計算といった生産計画にあたる機能が備わっているか確認してください」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「日本最大級9000社以上のシステム開発・WEB制作会社が登録」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「会員登録には、」（https://hnavi.co.jp/knowledge/blog/production-management-cost/）
+  - 「現場での業務経験からスタートし、その後ERP導入コンサルタントとして国内外のプロジェクトに携わる中で、「システムは作ること自体よりも、前段の整理と合意形成で成否が決まる」という現実を数多く経験してきました」（https://shiraiikkyu.jimdofree.com/）
+  - 「また講師が受講者にヒアリングをしながらの図解をホワイトボードで実演、さらに講師が経験をしてきた実事例やインターネットの記事を演習に取り入れて楽しく学び、実務ですぐに使えることを重点にしています」（https://shiraiikkyu.jimdofree.com/）
+  - 「本コースでは、10年以上、RFP作成を手がけて来た講師が経験ノウハウを満載にRFP作成の基本から、RFP作成メリット(効果)と以降の進め方について、失敗しない情報システム構築ポイントを解説いたします」（https://shiraiikkyu.jimdofree.com/）
+  - 「これから始める方、知識を持っていたい方、過去よりRFP作成経験のある方、どなたでも参加ができます」（https://shiraiikkyu.jimdofree.com/）
+  - 「長年基幹系業務を経験したノウハウを皆さんにお渡しします、業務知識を高めるチャンスです！」（https://shiraiikkyu.jimdofree.com/）
+- 回す体制：
+  - 「② 運用教育」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「Zoho導入・運用支援」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「WEB広告運用代行」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「適切なベンダーを選ぶことは、システム構築・導入、そしてその後の運用・活用を成功させるために不可欠です」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「- 製品の導入費用だけでなく、運用コストや保守費用も含めて、費用対効果が見合うかどうかの判断基準をある程度明確にしておく」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「また、システム導入をゴールとするのではなく、システムを導入した後の具体的な成果の創出に至るまで、支援先企業様に伴走してサポートさせていただきます」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「運用案策定、ベンダー選定コンサルティング」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「複数の事業が別システムで運用しており、これを」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「30年前のホストコンピューターの運用を」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「運用型広告に関する利用規約」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「などございませんか？下記の各事項は導入前のご相談内容において最も多く、弊社のシステム導入支援にて解決し最適なシステム運用に至っております」（https://www.moresys.jp/）
+  - 「までの運用前における包括的なサーベイ及び要件定義を主とした導入支援を実施致します」（https://www.moresys.jp/）
+  - 「導入後におきましては運用フェーズと致しましてシステム利用」（https://www.moresys.jp/）
+  - 「状況の確認及び運用サポートを実施し、仕様やフローなど要件定義に基づいた効果が得られているかを調査致します」（https://www.moresys.jp/）
+  - 「また実運用面にて課題等が発生」（https://www.moresys.jp/）
+- 買い手の規模：
+  - 「中堅・中小企業改革」（https://www.jmac.co.jp/consulting/category/operation/pm_system.html）
+  - 「事業承継アドバイザリー（親族内承継・親族外従業員承継）」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「大規模成長投資補助金 申請支援」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「中小企業成長加速化補助金 申請支援」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「- ベンダーは、自社の業種や規模、ニーズに合ったソリューションやサービスを提供できるのか」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「ベンダーとして企業規模や経営状況が安定しており、長期的なパートナーシップを築けそうであるか」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「船井総研では業種・業態・規模問わず、様々なシステム化計画策定、RFP作成、ベンダー選定の実績がございます」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「規模にあったシステムを導入したい」（https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096）
+  - 「支援の範囲及び規模によりPMがPMOの役割を兼務する、または組織として設置する」（https://www.moresys.jp/）
+  - 「ユーザ企業様の規模及びご要望により各フェーズに要する日数を決定致します」（https://www.moresys.jp/）
+  - 「導入支援費用につきましてはユーザ企業様の規模(拠点数 · 部署数 · 従業員数)及び導入支援におけますご要望や支援期間、ユーザ企業様と弊社の役割」（https://www.moresys.jp/）
+  - 「65万円 (税別) ～ ※ 支援範囲及び規模によってはPM複数名にての支援、またはPMOを設置することがございます」（https://www.moresys.jp/）
+  - 「支援業務につきましては事前にユーザ企業様の情報 ( 業種、所在地、生産拠点、部署名、従業員数など ) のご確認とともに、実務状況のご提示をいただき」（https://www.moresys.jp/）
+  - 「＜企業規模別＞生産管理システム導入事例」（https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html）
+  - 「＜企業規模別＞導入事例」（https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html）
+
+## 見積・受注の採算判断支援（quote profitability decision support manufacturing）
+- 文脈：生産管理
+- 前例・提供企業：
+  - 「見積作成のAI活用とは？見積依頼への回答を早める任せ方と導入の5つの手順 - 合同会社クロスコム」（https://cross-com.jp/quote-ai/）
+  - 「Agentic CRM設計支援」（https://cross-com.jp/quote-ai/）
+  - 「Agentforce導入・定着支援」（https://cross-com.jp/quote-ai/）
+  - 「BtoB Salesforce導入・構築支援」（https://cross-com.jp/quote-ai/）
+  - 「合同会社クロスコム 代表／Salesforce認定コンサルタント」（https://cross-com.jp/quote-ai/）
+  - 「当社の支援事例ではありません」（https://cross-com.jp/quote-ai/）
+  - 「ソリューション営業に特化した支援がほしい場合、この線引きは提案の進め方に直結するため、優先して確かめておきたい部分です」（https://cross-com.jp/quote-ai/）
+  - 「どの品目群の依頼が何件届いているかを、1か月分の実績で確かめます」（https://cross-com.jp/quote-ai/）
+  - 「そこでここでは、見積作成のAIの効果を測る3つの数字を、導入前後の実績とあわせて解説します」（https://cross-com.jp/quote-ai/）
+  - 「Agentforceの導入・定着支援では、こうした見積業務の切り分けから無料相談を受け付けています」（https://cross-com.jp/quote-ai/）
+  - 「進め方を社内で検討するときは、サービス資料も使えます」（https://cross-com.jp/quote-ai/）
+  - 「双日グループの専門商社で法人営業を経験後、マーケティング支援で独立し2023年に合同会社クロスコムを設立」（https://cross-com.jp/quote-ai/）
+  - 「現在はAgentforceの導入・定着支援とAgentic CRM設計支援を専門とする」（https://cross-com.jp/quote-ai/）
+  - 「お役立ち資料やサービス資料を」（https://cross-com.jp/quote-ai/）
+  - 「サービス関連」（https://cross-com.jp/quote-ai/）
+- 価格・単価：
+  - 「なお、後半で扱うAgentforceの機能と料金は変わりうるもので、記載は2026年9月時点で確かめた内容です」（https://cross-com.jp/quote-ai/）
+  - 「東京都渋谷区円山町5-5 Navi渋谷V 3階」（https://cross-com.jp/quote-ai/）
+  - 「2. 見積原価を構成する費用と条件」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「月額1万円程度から利用でき、」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「・初期費用0円、月額5,500円（5ユーザー）から利用可能」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「プラン15：8,800円/年」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「プラン100：36,850円/年」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「33,000円（買取）」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「スモールビジネス：3,278円/月～4,378円/月」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「ビジネス：5,478円/月～6,578円/月」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「スタンダード：基本2,200円/月＋550円/月/ユーザー」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「プロフェッショナル：基本4,400円/月＋1,100円/月/ユーザー」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「初期費用・サポート費用0円」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「初期費用：165,000円」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「月額費用：77,000円～（ユーザー数やDB作成数により変動）」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+- 責任の範囲：
+  - 「この作業を最初に任せる価値は、読み取りの精度が後のすべての作業を決めるからです」（https://cross-com.jp/quote-ai/）
+  - 「呼び名と品番の対応表を作る作業から着手しており、この対応表がないうちは読み取りの精度が上がらなかったのです」（https://cross-com.jp/quote-ai/）
+  - 「線引きは、AIの精度への不安からではなく、判断に必要な情報がどこにあるかで引きます」（https://cross-com.jp/quote-ai/）
+  - 「続いて、直した箇所を記録する作業を組み込み、何をどう直したかを残しておけば、材料の不足か読み取りの精度かを切り分けられます」（https://cross-com.jp/quote-ai/）
+  - 「AIの精度を疑う前に、参照している情報の側を確かめるほうが早く解決します」（https://cross-com.jp/quote-ai/）
+  - 「参照の範囲を対象の品目群に限ったことで、検索の精度も保てています」（https://cross-com.jp/quote-ai/）
+  - 「この商社でも、営業の責任者と営業事務のリーダー、情報システムの担当がそれぞれの立場から別の疑問を持ち寄っており、なかでも価格の決定をどこまで任せるかは、打ち合わせのたびに確かめ直された論点でした」（https://cross-com.jp/quote-ai/）
+  - 「Agentforceは日本語で使えるのか｜応答の精度を確かめる評価と運用の設計」（https://cross-com.jp/quote-ai/）
+  - 「見積精度はどのように改善しますか？」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「見積段階で何を確認すべき？」という営業責任者の問いへの答えは、」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「見積精度を上げるには、計算式より質問の質が重要です」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「見積の属人化を減らすには、計算から顧客提示までの責任を切り分けます」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「この最後の手順がなければ、見積精度は担当者の経験のままです」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「品質保証の可否」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「原価、契約責任、品質保証を自動で決めさせず、各責任者が承認します」（https://movefm.site/blog/manufacturing-estimated-cost/）
+- 経営判断への置き方：
+  - 「競合の提示額や、顧客の予算の事情は社内の記録に残っておらず、AIが参照できる材料がありません」（https://cross-com.jp/quote-ai/）
+  - 「競合の提示額や顧客の予算といった社外の情報は社内の記録に残っておらず、AIが参照できる材料がないためです」（https://cross-com.jp/quote-ai/）
+  - 「6. 部門と経営の承認基準を通す」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「この記事では、見積原価の構成、案件条件の確認表、部門承認、受注後の学習までを経営者が判断できる形で整理します」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「経営承認へ上げる」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「「未確認」を残すことは弱さではなく、経営判断に必要な情報不足を示す行為です」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「製造業の予実差異管理」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「目的、上限、期間、終了条件を経営が承認し、通常案件と分けて追います」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「例外条件を必要部門と経営が承認した」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「短納期や新規工程など一定条件を超える案件は経営承認へ上げます」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「こんな悩みを抱えている経営者や担当者の方も多いのではないでしょうか」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「経営戦略との適合が必要だから」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「企業の経営資源を統合的に管理し、」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「経営の効率化とデータの一元管理を可能」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「経営分析機能」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+- 大手・競合：
+  - 「競合との比較や、今後の取引の見込みを踏まえて通常の単価から外れた金額を提示するかは、営業が決めます」（https://cross-com.jp/quote-ai/）
+  - 「競合の提示額や、顧客の予算の事情は社内の記録に残っておらず、AIが参照できる材料がありません」（https://cross-com.jp/quote-ai/）
+  - 「競合の提示額や顧客の予算といった社外の情報は社内の記録に残っておらず、AIが参照できる材料がないためです」（https://cross-com.jp/quote-ai/）
+  - 「この記事をシェア」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「独自の複雑な見積フローを専門知識なしでカスタマイズしたい中堅・大手企業」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「競合他社との差別化を図れます」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「独自の業務フローやルールがある中堅・大手企業」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「独自の業務ルールを持つ中堅・大手企業の販売管理業務の効率化を実現したい企業」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「独自の見積フローやルールがある中堅・大手企業」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「多いが、値上げ幅が大きいと他社への切り替えを検討するため、顧客や競合他社、市場の動向を考慮しなが」（https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf）
+  - 「⚫ 秩父市が、メディアでの露出が増えたことに伴い、ホテルが進出するなど競合が増加」（https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf）
+  - 「競合他社が3日以内に見積を提出している市場で、自社が5日以上かかれば、それだけで失注します」（https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/）
+  - 「「材料費変動」「仕様変更」「競合値引き」「工数過小評価」等に分類します」（https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/）
+  - 「代表製品として SAP Business One、FutureStage（NTTデータ）、ProActive（SumitroSoft）、弥生ERPなどがあります」（https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/）
+  - 「よかったらシェアしてね！」（https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/）
+- 参入障壁：
+  - 「合同会社クロスコム 代表／Salesforce認定コンサルタント」（https://cross-com.jp/quote-ai/）
+  - 「個人情報の登録なし」（https://cross-com.jp/quote-ai/）
+  - 「読ませる文書の登録と更新をどう回すかは、」（https://cross-com.jp/quote-ai/）
+  - 「人は経験で補って計算していますが、機械は書かれている値しか使えません」（https://cross-com.jp/quote-ai/）
+  - 「Agentforceは、Salesforceに登録された顧客や商談の記録を参照しながら、あらかじめ決めた手順を実行する形で動きます」（https://cross-com.jp/quote-ai/）
+  - 「双日グループの専門商社で法人営業を経験後、マーケティング支援で独立し2023年に合同会社クロスコムを設立」（https://cross-com.jp/quote-ai/）
+  - 「メルマガ登録」（https://cross-com.jp/quote-ai/）
+  - 「それにもかかわらず、見積が「前回価格」「営業の経験」「顧客の希望額」だけで決まっていると、受注後に現場の頑張りで埋めるしかありません」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「分からない項目を営業の経験で埋めると、その仮定は現場へ引き継がれません」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「この最後の手順がなければ、見積精度は担当者の経験のままです」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「認定、試作、初期流動、切替時期」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「オーストラリアでのサーフィンインストラクター経験やボディメイク（競技歴5年）で培った「決断力」「継続力」「自己規律」を武器に、知性と行動力の両輪でクライアントの事業を前進させる」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「クレジットカード登録不要」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「事前に登録した電子印影により、押印のための書類のやり取りも不要です」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「アップロードするだけでAIがインボイス登録番号を自動で読み取り」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+- 回す体制：
+  - 「構築と運用・Data 360連携・リスクの抑え方・導入前後の働き方の変化を図で整理」（https://cross-com.jp/quote-ai/）
+  - 「では、営業事務の人数を増やしても回答が早くならないのはなぜでしょうか」（https://cross-com.jp/quote-ai/）
+  - 「従業員190名、営業20名、営業事務6名、情報システム1名という体制で、Salesforceを運用してきた企業です」（https://cross-com.jp/quote-ai/）
+  - 「根拠が分散するのは、価格の運用が現場の判断で積み上がってきたからです」（https://cross-com.jp/quote-ai/）
+  - 「AIへ読ませる文書を1か所に定め、改訂のたびに差し替える運用へ変えています」（https://cross-com.jp/quote-ai/）
+  - 「どの品目群の依頼が何件届いているかを、1か月分の実績で確かめます」（https://cross-com.jp/quote-ai/）
+  - 「対象が決まったら、AIが作ったドラフトを人が直す運用を始めます」（https://cross-com.jp/quote-ai/）
+  - 「最初から確認を省くと、どこが弱いのかが分からないまま運用だけが進みます」（https://cross-com.jp/quote-ai/）
+  - 「この商社では、運用を始めた最初の2週間で、1件あたり平均4か所ほどを直していました」（https://cross-com.jp/quote-ai/）
+  - 「3か月後には1件あたりの修正が平均1か所ほどまで減っており、減った理由は価格表の版を1か所に定めたことにあります」（https://cross-com.jp/quote-ai/）
+  - 「この商社は、対象の品目群だけで3か月試した後に、次の品目群を追加しました」（https://cross-com.jp/quote-ai/）
+  - 「見積作成のAIは、1つの品目群に絞って3か月試すと、直す箇所の減り方で効果を確かめられます」（https://cross-com.jp/quote-ai/）
+  - 「ここまで始め方の手順を見てきましたが、運用を始めると、ドラフトの内容と正しい見積の間にずれが生じます」（https://cross-com.jp/quote-ai/）
+  - 「定着まで伴走してほしい場合は、このずれが出たときに材料をどう直すかを一緒に決められる相手を選ぶと、運用が止まらずに済むでしょう」（https://cross-com.jp/quote-ai/）
+  - 「このように、版のずれは運用の設計で防ぐもので、改訂のたびに差し替える担い手を決めておけば、同じ問題は繰り返されません」（https://cross-com.jp/quote-ai/）
+- 買い手の規模：
+  - 「従業員190名、営業20名、営業事務6名、情報システム1名という体制で、Salesforceを運用してきた企業です」（https://cross-com.jp/quote-ai/）
+  - 「この規模では、AIの導入より入力の様式を整えるほうが効果は早く出ます」（https://cross-com.jp/quote-ai/）
+  - 「私たちは、営業・製造・経理が同じ案件条件で判断できる流れを、売上と利益から逆算して整えます」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「中小企業庁「価格交渉支援ツール」」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「営業畑出身ならではの現場感覚を活かし、「売上から逆算するマーケティング」を徹底する実務家」（https://movefm.site/blog/manufacturing-estimated-cost/）
+  - 「月10件程度の小規模な見積業務で、手軽に始められるシステムを探している個人事業主・小規模企業」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「中小規模の卸売業」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「大規模小売業」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「システムのタイプを選択する際は、企業の規模や業種、具体的なニーズを考慮」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「オンプレミス型は、大規模な利用や特殊な業務プロセスを持つ企業に向いています」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「例えば、従業員100名以上の大企業や、建設業・製造業など独自の業務フローを持つ企業、また金融機関や医療機関など」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「3-2. Misoca：月10枚無料から始められる、小規模事業の見積・請求を一括管理」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「月10件程度の少量見積業務を行う個人事業主・小規模企業」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「一般的な見積管理システムは、初期費用や月額固定費がかかり、小規模事業者にとっては負担の多いものもあるなか、」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+  - 「Misocaは小規模事業者も取り入れやすい、月額請求書作成が月10枚までの無料プランがある」（https://www.optim.co.jp/denshichobo/blog/quotation-systems/）
+
+## AI導入のROI算定・投資判断支援（AI investment ROI assessment for manufacturers）
+- 文脈：AI
+- 前例・提供企業：
+  - 「一方、生成AIの活用で生じうる影響として業務の効率化を挙げた割合は61.6%で、製品・サービスの質の向上の32.2%を大きく上回りました」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「導入を支援してきた講演者の実例から、自社の次の一手を確かめる」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「同白書が生成AIの活用で生じうる影響を尋ねた結果では、日本は「作業時間の短縮などによる業務の効率化」が61.6%で最も高く、「品質管理の精度向上やパーソナライズなどによる製品・サービスの質の向上」の32.2%や「人員不足の解消」の26.8%を大きく上回りました」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「同白書は、日本では生成AIが業務効率化の文脈で捉えられており、ほかの3か国では製品・サービスの質の向上や生産性向上の文脈で捉えられている可能性があると述べています」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「Polaris.AI株式会社による講演は、2027年1月28日（木）13:50〜14:20、有明GYM-EXで開催する「イプロスAI 2027 冬」の会場で行います」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「：法人向けサービスのライセンス費、APIの従量課金」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「前述の令和8年版 情報通信白書で、日本の回答割合が32.2%と、業務の効率化の61.6%を大きく下回った製品・サービスの質の向上は、この層に当たります」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「L3 新しい事業・サービス」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「AIを前提にした新しいサービスや製品を生み出す効果です」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「汎用サービスから始めるか、開発に進むかで迷う場合は、株式会社デジライズによる講演」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「「いきなりAIエージェントを導入する前に！ 600社超の導入支援で見えた、費用対効果を高める『正しい導入順序』」」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「汎用サービスの利用」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「現場が許可されていないサービスを使わずに済むよう、安全で使いやすい共通の環境を会社として用意することが、利便性と統制を両立させる近道です」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「この記事で整理した考え方を自社に当てはめるときは、多くの企業の導入を支援してきた講演者の実例が参考になります」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「Polaris.AI株式会社による講演」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+- 価格・単価：
+  - 「たとえば、20人の部署で1人あたり月10時間の作業が減り、人件費単価が1時間3,000円だとすると、年間効果額は20人 × 10時間 × 12か月 × 3,000円で720万円です」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「年間コストが利用料・運用・教育を合わせて300万円なら、ROIは（720万円 − 300万円）÷ 300万円 × 100で140%になります」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「「いきなりAIエージェントを導入する前に！ 600社超の導入支援で見えた、費用対効果を高める『正しい導入順序』」」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「講演の案内では、既存業務の約6割は汎用的なAIツールで解決できること、いきなり開発へ進むより費用対効果が高いこと、自社の現在地の見極め方を解説するとしています」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「AI導入の主な5フェーズと費用目安」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「費用を左右する3つの変数」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「対象の費用控除後の利益÷対象費用×100％」（https://renue.co.jp/posts/What_is_cost_effectiveness）
+  - 「目視検査の自動化におけるROI（投資利益率）は5年後で150～200%、投資回収期間は3～5年が標準であり、費用対効果は十分に見込めます」（https://www.tokiwa-group.co.jp/blog/factory-automation/p10396/）
+  - 「小規模：単一工程の自動化（検査員1～2名削減）【初期費用500万円～、回収期間3年程度、10年後ROI 200～300%】」（https://www.tokiwa-group.co.jp/blog/factory-automation/p10396/）
+  - 「中規模：複数工程の自動化（検査員3～5名削減）【初期費用1500万円～、回収期間3～4年、10年後ROI 150～200%】」（https://www.tokiwa-group.co.jp/blog/factory-automation/p10396/）
+  - 「大規模：ライン全体の自動化【初期費用3000万円～、回収期間4～5年、10年後ROI 130～180%】」（https://www.tokiwa-group.co.jp/blog/factory-automation/p10396/）
+  - 「運用費用の内訳と5年間のコスト」（https://www.tokiwa-group.co.jp/blog/factory-automation/p10396/）
+  - 「投資額：500万円」（https://www.salesforce.com/jp/marketing/lead-generation-guide/what-is-roi/?bc=OTH）
+  - 「売上高：1,500万円」（https://www.salesforce.com/jp/marketing/lead-generation-guide/what-is-roi/?bc=OTH）
+  - 「売上原価：500万円」（https://www.salesforce.com/jp/marketing/lead-generation-guide/what-is-roi/?bc=OTH）
+- 責任の範囲：
+  - 「同白書が生成AIの活用で生じうる影響を尋ねた結果では、日本は「作業時間の短縮などによる業務の効率化」が61.6%で最も高く、「品質管理の精度向上やパーソナライズなどによる製品・サービスの質の向上」の32.2%や「人員不足の解消」の26.8%を大きく上回りました」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「営業提案の精度が上がって受注率が改善する、市場分析が深まって判断が早くなる、といった効果がこれに当たります」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「回答の精度を高め、他社との差をつくるのは、インターネット上の一般的な情報ではなく自社のデータです」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「【免責事項】掲載されている全ての製品名又はサービス名は、各社の登録商標又は商標です」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「本記事に掲載されている情報の利用に際して利用者が何らかの損害を被ったとしても、株式会社イプロスは、いかなる民事上の責任を負うものではありませんので、ご了承ください」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「早期の段階で費用構造を理解しておくことで、予算計画の精度を高めることができます」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「：AIの精度はデータ品質に比例します」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「費用を「支出」と捉えるか「再投資」と捉えるかで、経営判断の精度は大きく変わります」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「AIシステムは稼働後も精度を維持するために継続的なチューニングが必要です」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「モデル精度の劣化と再学習コスト（年間50〜200万円程度）」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「目視検査の自動化を検討する際、多くの経営層や現場責任者がこのような投資対効果に関する疑問を抱えています」（https://www.tokiwa-group.co.jp/blog/factory-automation/p10396/）
+  - 「PoCを丁寧に行えば「導入したけど使えなかった」という最悪の事態を避けられ、当初のROI見積もりの精度も上げられます」（https://www.tokiwa-group.co.jp/blog/factory-automation/p10396/）
+  - 「この3つを守れば、試算の精度が上がります」（https://www.tokiwa-group.co.jp/blog/factory-automation/p10396/）
+  - 「さらに、実施と検証を繰り返して予測精度を向上させれば、マーケティング予算を最適化し、企業の成長や市場シェアの拡大など、より大きな成果につなげられます」（https://www.salesforce.com/jp/marketing/lead-generation-guide/what-is-roi/?bc=OTH）
+  - 「在庫最適化・発注精度向上」（https://campnet.co.jp/blog/ai-cost-guide.html）
+- 経営判断への置き方：
+  - 「生成AIのROIはどう測るか｜計算式と、効果が出る業務の選び方 | イプロスAI」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「生成AIのROI（投資対効果）」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「生成AIのROIはどう測るか｜計算式と、効果が出る業務の選び方」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「生成AIのROI（投資対効果）を、計算式、効果とコストの数え方、効果が出やすい業務の選び方の順に整理します」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「データドリブン経営を阻む「サイロ」の壊し方」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「生成AIのROIが見えないのは、浮いた時間の使い道を決めないまま導入しているためです」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「本記事では、ROIの計算式、効果とコストの数え方、効果が出やすい業務の選び方と導入の順番を、稟議で説明できる形で整理します」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「生成AIのROIが見えにくいのは、効果が効率化にとどまっているから」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「ROIは計算式に落とし、効果とコストを漏れなく数える」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「リスク対策の費用も、ROIの計算に含めておく」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「まとめ：生成AIのROIは、生まれた時間の使い道で決まる」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「効率化だけでは、ROIを説明しにくい理由が3つあります」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「経営層が確かめるべきなのは「AIを導入したか」ではなく、」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「時間の使い道を先に決めておくことが、ROIを示す前提になります」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「ROIを測る仕組みは、効果を報告するためだけでなく、投資を続けるかどうかを判断するためにも必要です」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+- 大手・競合：
+  - 「この記事をシェアする」（https://www.tokiwa-group.co.jp/blog/factory-automation/p10396/）
+  - 「記事をシェアする」（https://www.salesforce.com/jp/marketing/lead-generation-guide/what-is-roi/?bc=OTH）
+  - 「さらに、実施と検証を繰り返して予測精度を向上させれば、マーケティング予算を最適化し、企業の成長や市場シェアの拡大など、より大きな成果につなげられます」（https://www.salesforce.com/jp/marketing/lead-generation-guide/what-is-roi/?bc=OTH）
+  - 「競合優位性を作る」（https://campnet.co.jp/blog/ai-cost-guide.html）
+  - 「自社専用・競合差別化」（https://campnet.co.jp/blog/ai-cost-guide.html）
+  - 「自社データとの連携・独自業務ロジックの実装が可能で、競合他社との差別化を図れます」（https://campnet.co.jp/blog/ai-cost-guide.html）
+  - 「既製品では自社の業務に合わない／競合優位性をITで作りたい」（https://campnet.co.jp/blog/ai-cost-guide.html）
+  - 「国内シェアNo.1クラスの高速レンタルサーバー」（https://campnet.co.jp/blog/ai-cost-guide.html）
+  - 「業界特有の課題や、競合優位性を生むためのAI活用に適しています」（https://www.ai-native.jp/blog/ai-adoption-cost-roi-guide）
+  - 「西友は日立製作所との協業で開発したAI需要予測型自動発注システムにより、在庫管理を実質的に自動化した」（https://debono.jp/7596）
+  - 「NTTデータ：100万件超の電子カルテデータを疾患分析に活用」（https://debono.jp/7596）
+  - 「NTTデータはエクサウィザーズとの協業により、100万件以上の電子カルテデータを自然言語処理技術で解析し、疾患・治療実態の可視化サービスを開発した」（https://debono.jp/7596）
+  - 「月額50万円の受付AIで年間2,000万円削減したクリニックも、5億円の初期投資を8ヶ月で回収した大手化学メーカーも、やっていることの本質は同じだ」（https://debono.jp/7596）
+  - 「また投資資金の配分がシビアになり、多拠点の競合も激化し、単純な数値根拠が評価される時代となりました」（https://newji.ai/procurement-purchasing/roi-calculation-for-production-engineers-when-introducing-new-equipment/）
+  - 「参照元：宇宙技術開発株式会社「衛星運用者における取り組み」（総務省の検討会資料、2022年2月）／JAXA「データ中継技術衛星『こだま』」（パンフレット）／NEC「人工衛星の軌道制御」（2025年1月）／ESA「ESA Space Environment Report 2026」（2026年9月）」（https://eques.co.jp/column/manufacturing-ai/）
+- 参入障壁：
+  - 「講演の案内では、AIで作業が速くなっても確認や判断の待ちで仕事が止まってしまう問題を取り上げ、同社が一人当たり利益の向上に向けて業務や組織の見直しを重ねてきた経験をもとに、AI活用を組織の生産性と利益につなげる実践ポイントを解説するとしています」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「【免責事項】掲載されている全ての製品名又はサービス名は、各社の登録商標又は商標です」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「登録後すぐに視聴できます」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「2ステップの登録後、すぐに視聴できます（無料）」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「無料講義に登録して視聴する →」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「登録特典：初めてのエージェント安全導入マニュアル」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「71分／無料／登録後すぐ視聴」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「参加無料・登録後すぐ視聴」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「「うちの工場ではどのくらいの効果が見込めるのか」を知りたい場合は、経験豊富な専門家に相談することをおすすめします」（https://www.tokiwa-group.co.jp/blog/factory-automation/p10396/）
+  - 「ただし、補助金・税制の情報収集や申請は少しハードルが高いため、経験豊富なパートナーに相談すると良いでしょう」（https://www.tokiwa-group.co.jp/blog/factory-automation/p10396/）
+  - 「私たちの現場支援の経験から言えば、正確なROI試算と失敗パターンの把握により、目視検査の自動化は多くの現場で成果を上げています」（https://www.tokiwa-group.co.jp/blog/factory-automation/p10396/）
+  - 「友だち登録だけでも、最新のお役立ち情報をLINEでお届けします」（https://campnet.co.jp/blog/ai-cost-guide.html）
+  - 「また、生成AIツールであれば自動的に対象になるわけではなく、支援事業者が対象ツールとして登録・申請したものに限られます」（https://campnet.co.jp/blog/ai-cost-guide.html）
+  - 「登録者1.6万人」（https://www.ai-native.jp/blog/ai-adoption-cost-roi-guide）
+  - 「パナソニックは電動シェーバー「LAMDASH」シリーズのモーター設計にAIを導入し、従来の人間の経験則に基づく設計から、AIが自律的に最適解を探索する手法へ転換した」（https://debono.jp/7596）
+- 回す体制：
+  - 「また、AIの出力を人が確かめる工数が、削減した工数を打ち消すこともあります」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「「LLMOpsとは？生成AIの安定運用・コスト管理とAIガバナンスを解説」」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「は「削減した工数 × 人件費単価」に、受注の増加や品質の向上といった新たに生まれた価値を加えたものです」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「には、ライセンス費だけでなく、運用・教育・ガバナンスの整備にかかる費用も含めます」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「たとえば、20人の部署で1人あたり月10時間の作業が減り、人件費単価が1時間3,000円だとすると、年間効果額は20人 × 10時間 × 12か月 × 3,000円で720万円です」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「年間コストが利用料・運用・教育を合わせて300万円なら、ROIは（720万円 − 300万円）÷ 300万円 × 100で140%になります」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「：研修、利用ルールやプロンプト例の整備、推進担当者の工数」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「：AIの出力を検品する工数（効果を打ち消す方向に働く）」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「この確認の工数を最初からコストに含めておけば、導入後に「想定外の負担」が生じることを避けられます」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「LLMOpsとは？生成AIを導入後も使い続けるための運用の仕組み」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「LLMOpsは、出力の品質やAPIコスト、情報漏えいなどのリスクを運用中も確認し、改善し続けるための仕組みです」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「本記事は公開時点の各種認証制度・業界規格の運用基準に基づいて作成されたものです」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「ツール導入やPoC（実証実験）、AI開発、運用保守」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「運用フェーズでのコスト要因」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「データ整備からPoC（実証実験）、本開発、運用、そして人材育成」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+- 買い手の規模：
+  - 「PHPの脆弱性から自社サイトを守る｜中小企業が今すぐ確認すべき5つのこと」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「ランサムウェアの侵入口はVPN機器｜中小企業の実務担当者が今週中に確認すること」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「ただ、1人あたり数分の時短が全社で起きても、その時間が何に使われたかを管理していなければ、売上や利益の変化として説明することは難しくなります」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「金額は契約の規模や要件で大きく変わるため、次の項目ごとに自社の見積もりを集めてください」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「日本の中小企業では「経営幹部から各部署に対して実施事項や達成目標が提示されている」が最も高い回答割合でした」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「同白書は、中小企業のAI活用ではトップダウンの関与がキーポイントとなっていることがうかがえるとしています」（https://ex.ipros.jp/article/solution/generative-ai-roi/）
+  - 「中小企業のためのDX×AI導入費用ガイド｜内訳・相場・ROI・コスト最適化の戦略 - SHIFT AI EXECUTIVE」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「中小企業のためのDX×AI導入費用ガイド｜内訳・相場・ROI・コスト最適化の戦略」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「【高利益化】外注費・ツール費を下げながら売上を伸ばす設計」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「小規模プロジェクトで仮説検証」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「ROI ＝（導入による削減コスト＋売上増加）÷総投資額」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「売上向上（利益拡大）」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「中小企業庁「ものづくり補助金」」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「これらの制度を活用すれば、初期費用の1/3〜1/2を補填できる場合もあり、特に中小企業にとっては導入ハードルを大幅に下げる手段になります」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+  - 「小規模なPoCなら100〜500万円程度」（https://ai-keiei.shift-ai.co.jp/dx-ai-cost-guide/）
+
+## 製造業の生成AI社内展開（研修と運用定着）（generative AI rollout and training for manufacturers）
+- 文脈：AI
+- 前例・提供企業：
+  - 「製造業が生成AIで成果を出す8ステップ 導入5つの手順と定着3要素で読み解く実践プロセス ～現場活用の好事例から知る、AI導入の壁を乗り越えるヒント～ | コラム | 株式会社ディジタルグロースアカデミア」（https://www.dga.co.jp/column/20251029-03/）
+  - 「製造業が生成AIで成果を出す8ステップ 導入5つの手順と定着3要素で読み解く実践プロセス ～現場活用の好事例から知る、AI導入の壁を乗り越えるヒント～ | 株式会社ディジタルグロースアカデミア」（https://www.dga.co.jp/column/20251029-03/）
+  - 「DX方針策定支援」（https://www.dga.co.jp/column/20251029-03/）
+  - 「DX伴走支援」（https://www.dga.co.jp/column/20251029-03/）
+  - 「金融業界の事例」（https://www.dga.co.jp/column/20251029-03/）
+  - 「IT・通信業界の事例」（https://www.dga.co.jp/column/20251029-03/）
+  - 「建築・土木業界の事例」（https://www.dga.co.jp/column/20251029-03/）
+  - 「不動産業界の事例」（https://www.dga.co.jp/column/20251029-03/）
+  - 「自治体の事例」（https://www.dga.co.jp/column/20251029-03/）
+  - 「製造業の事例」（https://www.dga.co.jp/column/20251029-03/）
+  - 「運輸・物流の事例」（https://www.dga.co.jp/column/20251029-03/）
+  - 「製造業が生成AIで成果を出す8ステップ 導入5つの手順と定着3要素で読み解く実践プロセス ～現場活用の好事例から知る、AI導入の壁を乗り越えるヒント～」（https://www.dga.co.jp/column/20251029-03/）
+  - 「～現場活用の好事例から知る、AI導入の壁を乗り越えるヒント～」（https://www.dga.co.jp/column/20251029-03/）
+  - 「実際の好事例と、導入時に立ちはだかる“6つの壁”を乗り越えるヒントを交えながら、生成AIを「使える仕組み」に変えるための実践プロセスを解説します」（https://www.dga.co.jp/column/20251029-03/）
+  - 「【工程別】製造業における生成AIの活用事例7選」（https://www.dga.co.jp/column/20251029-03/）
+- 価格・単価：
+  - 「360,000円」（https://f-everyones-f.jp/aitraining/）
+  - 「324,000円」（https://f-everyones-f.jp/aitraining/）
+  - 「306,000円」（https://f-everyones-f.jp/aitraining/）
+  - 「282,000円」（https://f-everyones-f.jp/aitraining/）
+  - 「研修時間は10〜20時間を想定しており、料金は10時間程度の研修料金となります」（https://f-everyones-f.jp/aitraining/）
+  - 「助成金対応パッケージ（10時間1,000,000円／20時間1,800,000円／30時間2,400,000円・いずれも税別）」（https://cloud-cc.com/lecture/）
+  - 「と、単発の90分研修250,000円・半日研修400,000円・1日研修700,000円（税別）をご用意しています」（https://cloud-cc.com/lecture/）
+  - 「1,000,000円」（https://cloud-cc.com/lecture/）
+  - 「▲750,000円」（https://cloud-cc.com/lecture/）
+  - 「▲100,000円」（https://cloud-cc.com/lecture/）
+  - 「150,000円」（https://cloud-cc.com/lecture/）
+  - 「15,000円」（https://cloud-cc.com/lecture/）
+  - 「1,800,000円」（https://cloud-cc.com/lecture/）
+  - 「▲1,350,000円」（https://cloud-cc.com/lecture/）
+  - 「▲200,000円」（https://cloud-cc.com/lecture/）
+- 責任の範囲：
+  - 「結論：AIの精度は、入力データの「質」と「一貫性」で決まる」（https://www.dga.co.jp/column/20251029-03/）
+  - 「DX担当者の役割は、技術導入の責任者ではなく、このサイクルを回す“文化の編集者”です」（https://www.dga.co.jp/column/20251029-03/）
+  - 「精度・使いやすさの改善」（https://first-automation.jp/school）
+  - 「図面バンク 事業開発責任者」（https://first-automation.jp/school）
+  - 「品質保証部門」（https://first-automation.jp/school）
+  - 「保守・メンテナンス費用：システムの安定稼働や、AIの精度を維持・向上させるための継続的な費用です」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「富士通は回答の精度向上のために、ナレッジの修正や加筆をして何度も検証を行い、運用しています」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「精度の高い年間計画も短時間で作成でき、将来を予測して安定的な供給を実現できるようになっています」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「社内システムからのデータのみで学習させたところ、AIツールの予測値が従来の手法より高精度で、業務に即した予測結果が得られるようになりました」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「また、AIの搭載されていないロボットよりも芯抜きの精度が向上し、可食部の廃棄量の削減に成功しています」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「このように課題を特定したうえで、「AIによる画像検査を導入し、不良品の見逃しをゼロにする」「AIで需要予測精度を上げ、過剰在庫を5%まで削減する」といった、具体的で測定可能なゴールを設定することが成功の鍵です」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「責任ある開示」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「当研究所は、事業外訓練の要件（商品化されたカリキュラム・公開された受講料・タイムテーブル）を満たす資料の提供と、要件に適合するカリキュラム設計を行いますが、区分の判定および支給可否について責任を負いかねます」（https://cloud-cc.com/lecture/）
+  - 「当研究所は要件に適合するカリキュラム設計と必要書類の提供を行いますが、支給結果および不支給となった場合の研修費負担について責任を負いかねます」（https://cloud-cc.com/lecture/）
+  - 「総務・管理部門・情報管理責任者 ｜」（https://cloud-cc.com/lecture/）
+- 経営判断への置き方：
+  - 「サステナビリティ経営」（https://www.dga.co.jp/column/20251029-03/）
+  - 「2. 先行投資とROIの壁」（https://www.dga.co.jp/column/20251029-03/）
+  - 「ROIを数字で示せれば、社内合意もスムーズに進みます」（https://www.dga.co.jp/column/20251029-03/）
+  - 「経営は「AIを入れる」ではなく、「AIと共に成長する」と語ること」（https://www.dga.co.jp/column/20251029-03/）
+  - 「成果を測れるKPIを設定し、結果を定量化して共有します」（https://www.dga.co.jp/column/20251029-03/）
+  - 「経営、福祉、デジタルの分野で」（https://f-everyones-f.jp/aitraining/）
+  - 「AI導入の費用対効果は、単純なコスト削減だけでは測れません」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「企業の競争力強化：DXを推進し、データに基づいた意思決定が可能になることで、市場の変化に迅速に対応できるようになります」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「これらの多角的な視点から費用対効果を評価し、社内での合意形成を進めていくことが、AI導入プロジェクトを成功に導く鍵となります」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「【事例】「やりたいことが見えない経営者ほど、怖いものはない」福井の法面工事会社が、“価格競争” を捨てた日」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「中小企業AI研修教育研究所の生成AI研修は、従業員50名以下の中小企業を対象に、経営者・管理職・一般社員の階層別で実施する法人向け社員教育プログラムです」（https://cloud-cc.com/lecture/）
+  - 「独自の「AI経営実装メソッド」に基づき、診断から定着支援までを一気通貫で行います」（https://cloud-cc.com/lecture/）
+  - 「「AI経営実装メソッド」とは何か」（https://cloud-cc.com/lecture/）
+  - 「「AI経営実装メソッド」とは何か？」（https://cloud-cc.com/lecture/）
+  - 「経営者視点・業務視点——技術論ではなく経営課題から入る」（https://cloud-cc.com/lecture/）
+- 大手・競合：
+  - 「トヨタシステムズ × 富士通 ─」（https://www.dga.co.jp/column/20251029-03/）
+  - 「NTT DATA collaborates with NVIDIA and FANUC Germany to create a digital twin of robotic arms for industrial digitalization use cases」（https://www.dga.co.jp/column/20251029-03/）
+  - 「キーエンス ─」（https://www.dga.co.jp/column/20251029-03/）
+  - 「生成AIのオルツとキーエンスが資本業務提携、AI技術と生産性向上ノウハウを融合」（https://www.dga.co.jp/column/20251029-03/）
+  - 「大手企業の社内勉強会」（https://first-automation.jp/school）
+  - 「記事をシェアする」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「富士通株式会社」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「生成AIの活用でサポートデスクの工数を8割減｜富士通株式会社」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「Salesforceのパートナー企業「富士通」はSalesforceの生成AI「Einstein for Service」を活用し、製品に関するお問い合わせにかかる工数を8割以上減らしました」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「富士通ではEinstein for Serviceの以下の2つの機能を使用したことで、オペレーターの工数を減らしています」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「富士通は回答の精度向上のために、ナレッジの修正や加筆をして何度も検証を行い、運用しています」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「富士通では得られた知見を活かし、顧客企業のコンタクトセンターの課題解決を支援するサービスも用意しています」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「【生成AIで約8割工数削減】富士通のSalesforceサポートデスクが挑む顧客体験と生産性の向上」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「【日立建機】グローバルビジネスを支えるシステム基盤にMuleSoftあり」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「Sverige (Svenska)」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+- 参入障壁：
+  - 「熟練技術者のノウハウ継承問題の解決」（https://www.dga.co.jp/column/20251029-03/）
+  - 「長年現場を支えた熟練技術者の退任は、企業にとって大きな痛手です」（https://www.dga.co.jp/column/20251029-03/）
+  - 「若手技術者は、AIを“24時間の師匠”として学ぶことができます」（https://www.dga.co.jp/column/20251029-03/）
+  - 「生成AIは、人が考える時間を取り戻し、「思考と経験の掛け算」で成長する現場をつくります」（https://www.dga.co.jp/column/20251029-03/）
+  - 「熟練者の頭の中にある“経験の文脈”をAIが対話で引き出し、「なぜ」「どうして」を言葉に変える」（https://www.dga.co.jp/column/20251029-03/）
+  - 「これにより、次世代技術者はマニュアルだけでなく、“語りかけてくれる教材”で学べるようになります」（https://www.dga.co.jp/column/20251029-03/）
+  - 「この往復が“経験”を生み、AIも人も育っていきます」（https://www.dga.co.jp/column/20251029-03/）
+  - 「思考と経験、その掛け算が現場の成長力になります」（https://www.dga.co.jp/column/20251029-03/）
+  - 「あなたの思考を拡張し、経験を次へつなぐ相棒です」（https://www.dga.co.jp/column/20251029-03/）
+  - 「多くのDX担当者が経験するのは、導入から数ヶ月後の停滞です」（https://www.dga.co.jp/column/20251029-03/）
+  - 「AIは、人の経験と感性を映し出し、「考える力」を再び人の手に取り戻させる存在です」（https://www.dga.co.jp/column/20251029-03/）
+  - 「「成長とは、思考と経験の掛け算である」」（https://www.dga.co.jp/column/20251029-03/）
+  - 「上場コンサルティング会社で製造業のDX支援を経験し、現在は「図面バンク × AIエージェント」を掛け合わせた事業開発を統括している」（https://first-automation.jp/school）
+  - 「製造業のAI活用事例には、検品の自動化、需要予測、生産計画の最適化、設備の異常検知、熟練技術者のノウハウ継承などがあります」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「専門人材の獲得：38%」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+- 回す体制：
+  - 「DX伴走支援」（https://www.dga.co.jp/column/20251029-03/）
+  - 「生成AIによる「仕様書自動生成」PoCを実施し、開発工数を半減」（https://www.dga.co.jp/column/20251029-03/）
+  - 「むしろ、“人が考える時間”を取り戻すためのあたたかい伴走者です」（https://www.dga.co.jp/column/20251029-03/）
+  - 「製造業の文脈を理解し、現場の言語で伴走できるパートナーを選ぶことです」（https://www.dga.co.jp/column/20251029-03/）
+  - 「多くのDX担当者が経験するのは、導入から数ヶ月後の停滞です」（https://www.dga.co.jp/column/20251029-03/）
+  - 「結論：生成AIは、現場の小さな挑戦を支える伴走者である」（https://www.dga.co.jp/column/20251029-03/）
+  - 「情報漏洩対策･社内運用ルール作成･安全な導入法」（https://f-everyones-f.jp/aitraining/）
+  - 「実業務に基づいたプロンプト設計、定着支援、制度設計の伴走により「現場が動く･変わる･自走できる」」（https://f-everyones-f.jp/aitraining/）
+  - 「発・運用まで一気通貫で伴走支援します」（https://first-automation.jp/school）
+  - 「自社業務に合わせたAIエージェントを内製できる人材と体制づくりを、環境準備・業務整理・検証・開発・運用まで一気通貫で伴走支援します」（https://first-automation.jp/school）
+  - 「＃常駐・伴走支援」（https://first-automation.jp/school）
+  - 「業務フロー組み込み・運用設計」（https://first-automation.jp/school）
+  - 「常駐・伴走支援」（https://first-automation.jp/school）
+  - 「3か月程度の常駐・伴走」（https://first-automation.jp/school）
+  - 「必要データ・入力情報・出力形式・運用フローの整理」（https://first-automation.jp/school）
+- 買い手の規模：
+  - 「〜AIは中小企業の」（https://f-everyones-f.jp/aitraining/）
+  - 「小規模チーム向け」（https://f-everyones-f.jp/aitraining/）
+  - 「売上向上：生産量アップ、製品品質向上によるブランド価値向上など」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「従業員満足度の向上：危険作業や単調な繰り返し作業から従業員を解放し、より創造的な業務に集中させることができます」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「国や自治体は、中小企業のITツール導入や生産性向上を支援するための補助金制度を設けています」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「PoCとは、限定的な環境でAIを実際に動かしてみて、「技術的に実現可能か」「期待する効果は得られそうか」を検証する小規模なトライアルのことです」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「【事例】「売上が伸びるほど、会社は苦しくなる」」（https://www.salesforce.com/jp/blog/jp-manufacturing-ai/?bc=OTH）
+  - 「中小企業AI研修教育研究所」（https://cloud-cc.com/lecture/）
+  - 「法人向け生成AI研修・社員教育｜助成金対応10時間コース｜中小企業のAI人材育成」（https://cloud-cc.com/lecture/）
+  - 「中小企業AI研修教育研究所の生成AI研修は、従業員50名以下の中小企業を対象に、経営者・管理職・一般社員の階層別で実施する法人向け社員教育プログラムです」（https://cloud-cc.com/lecture/）
+  - 「当研究所は、どのITベンダーとも提携しない完全中立の立場で、200社以上の中小企業のAI導入を支援してきました」（https://cloud-cc.com/lecture/）
+  - 「なぜ中小企業に特化しているのか」（https://cloud-cc.com/lecture/）
+  - 「・中小企業が「事業展開等リスキリング支援コース」を活用し、受講者10名で実施した場合の試算です」（https://cloud-cc.com/lecture/）
+  - 「経費助成率は中小企業75%（大企業60%）、賃金助成は1人1時間あたり1,000円（中小企業）です」（https://cloud-cc.com/lecture/）
+  - 「中小企業向けAI研修会社の比較｜選び方の7ポイント」（https://cloud-cc.com/lecture/）
+
+## AI導入の補助金申請・効果測定（AI subsidy application support Japan）
+- 文脈：AI
+- 前例・提供企業：
+  - 「中小企業デジタル化・AI導入支援事業」（https://it-shien.smrj.go.jp/）
+  - 「ITベンダー・サービス事業者のみなさまはこちら」（https://it-shien.smrj.go.jp/）
+  - 「ITツール活用事例」（https://it-shien.smrj.go.jp/）
+  - 「12月26日更新 【IT導入補助金2025】実績報告期限及び不備訂正期限のお知らせ」（https://it-shien.smrj.go.jp/）
+  - 「9月10日更新 IT導入支援事業者の登録取消について」（https://it-shien.smrj.go.jp/）
+  - 「6月30日更新 IT導入支援事業者の登録取消について」（https://it-shien.smrj.go.jp/）
+  - 「4月24日更新 IT導入支援事業者の登録取消について」（https://it-shien.smrj.go.jp/）
+  - 「3月30日更新 【デジタル化・AI導入補助金2026】IT導入支援事業者及びITツール登録申請受付開始のお知らせ」（https://it-shien.smrj.go.jp/）
+  - 「3月17日更新 IT導入支援事業者の登録取消について」（https://it-shien.smrj.go.jp/）
+  - 「3月6日更新 IT導入支援事業者の登録取消について」（https://it-shien.smrj.go.jp/）
+  - 「3月4日更新 【デジタル化・AI導入補助金】省力化ナビのサービス開始時期について」（https://it-shien.smrj.go.jp/）
+  - 「7月1日更新 【補助事業者・IT導入支援事業者の皆様】 申請マイページでの後年手続き受付開始について」（https://it-shien.smrj.go.jp/）
+  - 「12月15日更新 事務局における個人情報を含むIT導入支援事業者情報の流出についてのお詫びとご報告」（https://it-shien.smrj.go.jp/）
+  - 「ITベンダー・サービス事業者のみなさま」（https://it-shien.smrj.go.jp/）
+  - 「デジタル化・AI導入補助金を活用したシステム等の導入支援を行うITベンダーのみなさまはこちら」（https://it-shien.smrj.go.jp/）
+- 価格・単価：
+  - 「50万円×グループ構成員数」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「合わせて3,000万円まで」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「(c)事務費・専門家費：200万円」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「１機能：～50万円」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「～350万円 5万円～150万円」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「～50万円以下：3/4」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「50万円～350万円：2/3」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「5万円～150万円」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「150万円～450万円」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「①製造業、建設業、運輸業 資本金の額又は出資の総額が３億円以下の会社又は常時使用する従業員の数が３００人以下の会社及び個人事業主」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「②卸売業 資本金の額又は出資の総額が１億円以下の会社又は常時使用する従業員の数が１００人以下の会社及び個人事業主」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「資本金の額又は出資の総額が５千万円以下の会社又は常時使用する従業員の数が１００人以下の会社及び個人事業主」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「④小売業 資本金の額又は出資の総額が５千万円以下の会社又は常時使用する従業員の数が５０人以下の会社及び個人事業主」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「資本金の額又は出資の総額が３億円以下の会社又は常時使用する従業員の数が９００人以下の会社及び個人事業主」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「補助率2分の1〜5分の4、上限450万円」（https://biz.moneyforward.com/ai/basic/6599/）
+- 責任の範囲：
+  - 「※（免責）掲載情報は記事作成日時点のものです」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「2013年公認会計士試験合格後、新日本有限責任監査法人に入所し、法定監査やIPO支援業務に従事」（https://www.freee.co.jp/kb/kb-accounting/it-shien/）
+  - 「水増し請求は税務調査でバレる？発覚した場合の法的責任や防止するポイントを解説」（https://www.freee.co.jp/kb/kb-accounting/it-shien/）
+  - 「なお、加点は採択を保証するものではありませんが、採択率向上に寄与する要素の一つです」（https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/）
+  - 「中古車保証比較.COM」（https://itm.j-carnet.co.jp/）
+  - 「以下の説明も、2026年の交付決定や成果を保証するものではありません」（https://it-shien.jp/cases/）
+  - 「場合によっては追加資料の提出やヒアリングが求められることもあるため、説明責任を果たせる体制を整えておきましょう」（https://www.aidma-hd.jp/ai/ai-subsidy/）
+  - 「制度の要件や申請スケジュールを正確に把握し、事業計画の精度を高めることが採択への近道となります」（https://www.aidma-hd.jp/ai/ai-subsidy/）
+  - 「不良品の自動検出・検査精度の向上・検査員の負担軽減という点で、自動車部品・電子部品・食品加工などほぼすべての業種に関係します」（https://www.plus-impact.co/ai-training/media/joseikin-manufacturing）
+  - 「記録の精度が審査に直結するため、担当者を決めて管理体制を整えておくことが重要です」（https://www.plus-impact.co/ai-training/media/joseikin-manufacturing）
+  - 「期待できる効果：省人化・検査精度の安定」（https://j-aix.or.jp/journal/702/）
+  - 「人間の目視検査では疲労や集中力の低下によって検出精度にばらつきが生じますが、AIは一定の基準で24時間検査を継続できます」（https://j-aix.or.jp/journal/702/）
+  - 「2段階の検証（疵の種類を限定した精度評価→追加学習による判定モデル構築）を経て実用化」（https://j-aix.or.jp/journal/702/）
+  - 「過剰在庫は倉庫費用と廃棄コストに、欠品は機会損失に直結するため、予測精度の向上は経営に直接的な影響を与えます」（https://j-aix.or.jp/journal/702/）
+  - 「東芝デジタルソリューションズが開発した過検出抑制技術のように、AI自体の精度を高める技術も進歩しており、「AIを入れたが誤判定が多くて使えない」という初期導入時の課題も解消されつつあります」（https://j-aix.or.jp/journal/702/）
+- 経営判断への置き方：
+  - 「• 令和7年度補正予算事業から、「デジタル化・AI導入補助金（旧：IT導入補助金）」と名称」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「⚫ ITツール：消費動向分析システム、経営分析システム、需要予測システム、電子地域通貨システム、」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「バックオフィスから経営を強くする」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「経理・人事・経営企画といった企業の基幹業務における具体的なユースケースをご紹介」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「「契約書の見落としが怖い」「顧問弁護士に頼む予算を見直したい」」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「申請の流れは、まず自社の経営課題を整理し、課題に合うITツールを選定するところから始まります」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「削減した時間は、月次決算の早期化と経営資料の作成に充てる」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「クラウド予算管理ソフト」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「クラウド/オンプレミス対応型経営管理システム」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「経営情報TOP」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「「IT導入に興味はあるけど、何から始めればいいかわからない」「かなりの予算が必要となるのではないか」・・・こういったお悩みを抱えているご担当者さまも多いのではないでしょうか」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「また、2025年4月にスタートしたポータルサイト「デジwith」にて経営診断（旧みらデジ経営チェックの後継機能）を実施しておくと、審査において加点対象となります」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「デジタル化・AI導入補助金（旧：IT導入補助金）は2026年も実施！対象者や申請枠、申請の流れを解説 | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee」（https://www.freee.co.jp/kb/kb-accounting/it-shien/）
+  - 「会計・財務・経営」（https://www.freee.co.jp/kb/kb-accounting/it-shien/）
+  - 「補助金の交付申請を行う準備として、まずは自社の業種や事業規模、経営課題に沿って、IT導入支援事業者と導入したいITツールを選定しておきましょう」（https://www.freee.co.jp/kb/kb-accounting/it-shien/）
+- 大手・競合：
+  - 「専門性を生かし、大手プログラミングスクールにて、トレンドや最新情報を反映したIT技術・AIに関する記名記事を多数執筆している」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「【2026年最新版】「デジタル化・AI導入補助金」とは？申請の流れやスケジュール、活用方法をわかりやすく解説 | NTT docomo Business Watch | NTTドコモビジネス 法人のお客さま」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「NTTドコモビジネスウォッチ」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「NTTドコモビジネス」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「NTTドコモビジネスグループのサステナビリティ」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「NTTドコモグループ」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「NTTドコモビジネス ビジネスポータル」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「NTTドコモ(携帯回線)」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「NTTドコモ」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「NTTドコモ 通信障害情報」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「フリーワードでNTTドコモビジネスの」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「NTT docomo Business WatchはNTTドコモビジネスが運営しています」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「NTT docomo Business Watch」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「そこで、NTTドコモビジネスからおすすめのITツールをいくつかご紹介します」（https://www.ntt.com/bizon/it-subsidy.html）
+  - 「各パックはNTTドコモビジネスが使いこなせるまで手厚くサポートするほか、IT導入補助金の申請もサポートします」（https://www.ntt.com/bizon/it-subsidy.html）
+- 参入障壁：
+  - 「10月29日更新 【デジタル化・AI導入補助金2026】ITツール登録の最終締め切り日について」（https://it-shien.smrj.go.jp/）
+  - 「6月26日更新 「「スマートレジ」の事前登録申請について」の公開を終了しました」（https://it-shien.smrj.go.jp/）
+  - 「2月27日更新 交付申請手続きにおける「SECURITY ACTION」自己宣言IDの登録について」（https://it-shien.smrj.go.jp/）
+  - 「9月10日更新 IT導入支援事業者の登録取消について」（https://it-shien.smrj.go.jp/）
+  - 「6月30日更新 IT導入支援事業者の登録取消について」（https://it-shien.smrj.go.jp/）
+  - 「4月24日更新 IT導入支援事業者の登録取消について」（https://it-shien.smrj.go.jp/）
+  - 「3月30日更新 【デジタル化・AI導入補助金2026】IT導入支援事業者及びITツール登録申請受付開始のお知らせ」（https://it-shien.smrj.go.jp/）
+  - 「3月17日更新 IT導入支援事業者の登録取消について」（https://it-shien.smrj.go.jp/）
+  - 「3月6日更新 IT導入支援事業者の登録取消について」（https://it-shien.smrj.go.jp/）
+  - 「2月27日更新 【デジタル化・AI導入補助金】ITツール登録申請（大分類Ⅲ 役務 他）受付開始のお知らせ」（https://it-shien.smrj.go.jp/）
+  - 「1月30日更新 【デジタル化・AI導入補助金2026】事前登録受付開始のお知らせ」（https://it-shien.smrj.go.jp/）
+  - 「これから登録を行う方」（https://it-shien.smrj.go.jp/）
+  - 「登録申請・手続きフロー」（https://it-shien.smrj.go.jp/）
+  - 「ITツールの登録申請」（https://it-shien.smrj.go.jp/）
+  - 「登録がお済みの方」（https://it-shien.smrj.go.jp/）
+- 回す体制：
+  - 「導入関連費（保守運用やマニュアル作成等のサポート費用と、」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「30％以上である月が3か月以上であること」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「で雇用している従業員が全従業員の30％以上である月が３か月以上あることを示した場合は、補助率２／３以内」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「• 見積書作成にかかる工数が大幅に削減」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「約1.5か月要していた業務を、最短５日に短縮」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「工数の効率化が課題」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「従業員数51名以上」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「2026年度からは「デジタル化・AI導入補助金」として運用され、旧IT導入補助金の仕組みを引き継ぎながら、デジタル化やAI活用をより前面に出した制度になっています」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「2026年度は「デジタル化・AI導入補助金」という名称で運用されている」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「計画書では実施体制と導入後の運用まで示す」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「正式には、2025年度まで「IT導入補助金」として運用されていた制度が、2026年度から「デジタル化・AI導入補助金」へ名称変更されています」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「利用部署、管理担当者、操作研修、運用ルール、効果測定の方法まで設計する必要があります」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「導入後もKPIを設定し、現場で使われる運用ルールを整えることで、AI導入補助金の効果を高めやすくなります」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「ITエンジニアとして、Javaによる業務アプリケーション開発やデータベースの保守・運用に従事」（https://biz.moneyforward.com/ai/basic/6599/）
+  - 「運用保守・故障紛失サポート」（https://www.ntt.com/bizon/it-subsidy.html）
+- 買い手の規模：
+  - 「中小企業デジタル化・AI導入支援事業」（https://it-shien.smrj.go.jp/）
+  - 「デジタル化・AI導入補助金をお申込みされる中小企業・小規模事業者等のみなさま」（https://it-shien.smrj.go.jp/）
+  - 「中小企業・小規模事業者向け」（https://it-shien.smrj.go.jp/）
+  - 「中小企業・小規模事業者等のみなさま」（https://it-shien.smrj.go.jp/）
+  - 「※その他、過年度の中小企業デジタル化・AI導入支援事業（旧：サービス等生産性向上IT導入支援事業）に関するお問い合わせは、下記リンクをご覧ください」（https://it-shien.smrj.go.jp/）
+  - 「「中小企業デジタル化・AI導入支援事業費補助金」は、独立行政法人中小企業基盤整備機構より採択され、」（https://it-shien.smrj.go.jp/）
+  - 「同機構および中小企業庁監督のもとTOPPAN株式会社が事務局業務を運営しています」（https://it-shien.smrj.go.jp/）
+  - 「中小企業デジタル化・AI導入支援事業」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「• 中小企業・小規模事業者等の労働生産性の向上を目的として、デジタル化やＤＸ等に向けた」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「小規模事業者で連携して」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「(小規模事業者：4/5)」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「中小企業：2/3」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「大企業：1/2」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「中小企業：1/2」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+  - 「小規模事業者：2/3」（https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf）
+- 検索結果の抜粋：
+  - 「【2026年7月最新】デジタル化・ AI導入補助金 とは？ 申請 方法 ... — 【2026年7月最新】デジタル化・ AI導入補助金 とは？ 申請 方法 ... 株式会社中小企業経営支援事務所 https://www.sme-support.co.jp > 補助金コラム」（https://www.sme-support.co.jp/column/p8120/）
+
+## サイバー被害額の算定・セキュリティ予算策定支援（cyber risk quantification budget planning）
+- 文脈：セキュリティ
+- 前例・提供企業：
+  - 「AIが変革を加速させる時代において、サイバーセキュリティ事業を通じて組織の持続的な成長と変革を支援」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「サステナビリティ・倫理・グローバルな社会貢献を支援するプログラムと取り組み」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「安全なAIインフラ、アプリケーション、サービスのアドバイス、構築、統合、および運用を支援」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「セキュリティリスク診断サービス」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、11月度の単月売上高が前年同月度対比4.9%となったことを発表しました」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「2024年8月14日、株式会社KADOKAWAはサイバー攻撃の影響により2025年3月期に36億円の特別損失を計上する見通しだと」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「今回のKADOKAWAにおける事案は日本国内においても同様の大きな被害が起きうる可能性があることを示した事例の一つです」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「今回のようなサイバー攻撃を起因とした特別損失が発生した事例は他にも国内で複数公表されています」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「株式会社オリエンタルコンサルタンツホールディングス」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「株式会社エムケイシステム」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「日東製網株式会社」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「株式会社イズミ」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「株式会社KADOKAWA」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「株式会社関通」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+- 価格・単価：
+  - 「2024年8月14日、株式会社KADOKAWAはサイバー攻撃の影響により2025年3月期に36億円の特別損失を計上する見通しだと」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また2024年11月7日に特別損失の計上を約23億円に修正したことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「2024年2月にはサイバー攻撃による全世界での被害が年間147兆円であることが」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「約7億5千万円」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「約30億円(21年9月期)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「約2億3千万円」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「約△1.8億円(24年3月期)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「約1千960万円」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「991百万円」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「中小企業のセキュリティ対策費用｜年間予算の目安と優先順位の付け方【2026年版】」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「IT予算に占める適正比率、50名規模の具体的な年間予算例、優先順位マトリクス、補助金活用で費用を半額に抑える方法まで、2026年最新の情報でまとめます」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「本記事では、2026年の最新脅威動向を踏まえ、中小企業がセキュリティ対策にかけるべき費用の目安、カテゴリ別のコスト内訳、限られた予算での優先順位の付け方、そして補助金を活用して実質負担を半額に抑える方法を解説する」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「200万〜500万円」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「20万〜75万円」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+- 責任の範囲：
+  - 「サイバー攻撃被害を受けた備品類の除却、対策強化、損害賠償、システム共同開発計画の中止に伴う損失」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「攻撃を受けてからの調査・封じ込めなどの対応、システム復旧などに必要な、主には人的コストにあたる損害が想定されます」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「影響があったと答えた企業のうち、「取引先にサービスの停止や遅延による影響が出た（36.1%）」、「個人顧客への賠償や法人取引先への補償負担の影響が出た（32.4%）」、「原因調査・復旧に関わる人件費等の経費負担があった（23.2%）」といった影響が出ています」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「サイバー攻撃の被害企業は情報の管理責任等が問われるものの、基本的には被害者です」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「観点1 Internal Control：責任は経営層個人にもおよびうる」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「昨今のセキュリティインシデントは、企業への責任追及だけでなく、経営層個人の責任にもなりえる時代です」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「しかし、インシデント発生時の損害額を考えれば、適切な投資は「保険」ではなく「経営基盤」そのものだ」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「インシデント発生時の想定被害額（JNSAの統計: 中小企業の情報漏洩1件あたり平均損害額は約6,000万円）」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「「インシデント発生時の想定損害額」と比較するのが最も説得力がある」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「JNSAによれば、情報漏洩1件あたりの平均損害額は約6,000万円」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「年間180万円のセキュリティ投資は、この損害を防ぐための「保険料」として説明できる」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「特に個人情報を大量に扱う企業、取引先からセキュリティ要件を求められている企業は、年間10万〜30万円の保険料で万一の損害に備えられる」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「要件、見積、責任分界、運用条件を実装前に整理し、必要な範囲の実行まで伴走します」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「売掛金・債権保証サービスの比較」（https://catalog.monex.co.jp/article/?p=69547）
+  - 「法人向け損害保険の比較」（https://catalog.monex.co.jp/article/?p=69547）
+- 経営判断への置き方：
+  - 「サイバー攻撃の被害額から考えるセキュリティ | トレンドマイクロ (JP)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「戦略・イノベーション・グローバル展開まで、経営を牽引するエグゼクティブチーム」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「サイバー攻撃の被害額から考えるセキュリティ」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「サイバー攻撃被害額から考えるセキュリティ予算」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「サイバー攻撃は経営リスクの一つ」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また同時に、ランサムウェア攻撃の被害額算定に時間を要するため、2026年5月期第 2 四半期決算発表の延期することを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「ランサムウェアの被害と言えば、業務停止による売り上げの停止や身代金の支払いなどについて想像が及びやすいですが、再発防止などを含めて検討する場合、損失額はより大きくなります」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「いつサイバー攻撃被害が発生するかわからない現状において、組織のセキュリティリーダーはこうした企業経営に影響を及ぼしかねないコストが複数発生することを事前に想定・見積の上、サイバーリスク分析を行う必要があります」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「上記に挙げたサイバー攻撃による直接的な被害以外にも、中長期的に経営に悪影響がおよぶ危険性もあることを改めて認識ておくことが重要です」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「その際の判断軸の一つが総売上高の占めるセキュリティ予算の割合です」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「質問「セキュリティ予算が連結売上高に占める割合は何％ですか？」に対する回答の割合(N=300)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「自社のセキュリティ予算の妥当性に疑問を感じる担当者は、」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「自社売り上げに占めるセキュリティ予算の割合の把握を行い、0.5%に届いているかを確認することも1つの判断基準となる」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また、サイバー攻撃被害が発生した際の損失を想定し、そのリスクに応じた予算を配分することも1つの手段となります」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「自社におけるランサムウェア被害が発生した場合に、こうした大規模の被害が発生することを前提として事前に予算を組んでおく、といった戦略も有効と言えるでしょう」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+- 大手・競合：
+  - 「トレンドマイクロと競合他社の比較」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、11月度の単月売上高が前年同月度対比4.9%となったことを発表しました」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「口座振替代行サービスおすすめ33選を比較｜独自調査による市場シェアと選び方、手数料を徹底解説」（https://catalog.monex.co.jp/article/?p=69547）
+  - 「昨今、大手企業を標的としたランサムウェア攻撃が相次いで発生し、事業継続に深刻な影響を及ぼす事例が増加しています」（https://assured.jp/column/security-budget-analysis）
+  - 「そこでこの度、企業のセキュリティ投資の実態と経営層の意識変化について、従業員数1,000名以上の大手企業に所属する情報システム・セキュリティ担当者を対象に調査を実施し、500名から回答を得ました」（https://assured.jp/column/security-budget-analysis）
+  - 「また、「競合他社や業界平均と比較するためのデータがない」（28.0%）という声もあり、セキュリティ投資がどれだけリスク低減に寄与したかを客観的・定量的に示せないという課題が浮き彫りになりました」（https://assured.jp/column/security-budget-analysis）
+  - 「岩井 博樹 デロイト トーマツ リスクサービス株式会社 シニアマネジャー」（https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf）
+  - 「丸山 満彦 デロイト トーマツ リスクサービス株式会社 代表取締役社長」（https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf）
+  - 「丸山 満彦 PwCコンサルティング合同会社 テクノロジーコンサルティング パートナー」（https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf）
+  - 「大手ECサイトが」（https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/）
+  - 「ただし、恐喝や脅迫が伴う場合、競合他社による攻撃が疑われる場合などは、積極的に警察に相談すべきです」（https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/）
+  - 「大手ECで15億円、地銀で8億円の被害が発生」（https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/）
+  - 「Connect with cybersecurity decision-makers in an intimate setting」（https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets）
+  - 「Cyber risk quantification and cyber risk management are closely connected, but they answer different questions. Let’s take a look.」（https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets）
+- 参入障壁：
+  - 「メルマガ登録する」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「サイバー攻撃によって生じる再発防止コストは、インシデントを経験することで、」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「メールマガジン登録」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「企業のセキュリティ担当者が、高度な知識・経験を活かし、リスク分析結果を踏まえた上で、セキュリティ予算を申請した場合でも「それは担当者による主観的な判断では？」という質問を受けるケースがあります」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「メルマガ登録」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「IPAが認定したサービス」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「IPAが認定した、中小企業向けの低コストなセキュリティサービス」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「メール登録なしでこのページから記事を保存できます」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「あとからメールアドレスを登録すると、保存した記事のリストをまとめて受け取れます」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「登録だけで営業電話はしません」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「新規会員登録」（https://catalog.monex.co.jp/article/?p=69547）
+  - 「補助の対象になるのは、IPAが認定・公表する「サイバーセキュリティお助け隊サービスリスト」に掲載されたサービスの利用料（最大2年分）です」（https://catalog.monex.co.jp/article/?p=69547）
+  - 「中小企業自身のデータでも、同じIPAの実態調査で11.4%の中小企業がサイバー被害を経験したと回答しています」（https://catalog.monex.co.jp/article/?p=69547）
+  - 「都市銀行にて金融実務を経験後、暗号資産関連スタートアップの創業期に参画し、市場分析・業界調査に従事」（https://catalog.monex.co.jp/article/?p=69547）
+  - 「監査法人にてSOC1, SOC2レポート業務を経験後、インターネット企業にて内部統制構築業務を推進」（https://assured.jp/column/security-budget-analysis）
+- 回す体制：
+  - 「安全なAIインフラ、アプリケーション、サービスのアドバイス、構築、統合、および運用を支援」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「OA・ワークプレイス環境 運用監視」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「Web・アプリケーション運用監視」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「某食品会社では、サイバーセキュリティ攻撃によって、ファイルサーバーや財務会計のシステムが侵害され、経営者および企業にとっても大変に重要な決算報告を3ヶ月延期するという事態になりました」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「人数・時給・業務時間・削減率から年間削減規模を概算します」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「システム種別・規模・連携先を選ぶだけで、開発費用・期間・月額運用費の概算をその場で表示します」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「5. 監視・運用」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「中小企業の脆弱性対応 月次運用テンプレ」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「この場合、初年度は250万〜350万円を見込み、2年目以降を150万〜200万円の維持費用で運用する計画が現実的」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「月次チェックリストを運用することで、投資した対策を確実に機能させ続ける」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「企画・開発・運用まで一括」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「追加費用と運用費の境界」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「AI導入前に確認すべき業務範囲、データ、セキュリティ、PoC判断、運用体制を整理するチェックリストです」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「要件、見積、責任分界、運用条件を実装前に整理し、必要な範囲の実行まで伴走します」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「運用・保守プラン」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+- 買い手の規模：
+  - 「【ホワイトペーパー】緊急解説：相次ぐ不正アクセスによる大規模情報漏洩」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、11月度の単月売上高が前年同月度対比4.9%となったことを発表しました」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「システム停止期間の売上と再発防止を含めた復旧費用」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「それぞれの組織によってその規模は異なるものの、」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「またランサムウェアなどによって可用性が侵害される場合、業務停止期間中の本来あったはずの売上損失、サービス利用顧客に対する補償金なども発生する可能性があります」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「2024年度中小企業等実態調査結果」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「その際の判断軸の一つが総売上高の占めるセキュリティ予算の割合です」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「企業のセキュリティ投資額は連結売上高の「0.5％以上」を投資すべき」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「質問「セキュリティ予算が連結売上高に占める割合は何％ですか？」に対する回答の割合(N=300)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「自社におけるランサムウェア被害が発生した場合に、こうした大規模の被害が発生することを前提として事前に予算を組んでおく、といった戦略も有効と言えるでしょう」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「一方で、情報セキュリティやサイバーセキュリティへの投資は、企業の売上・利益に直結せず、経営層の方には投資対効果が見えづらいことから、セキュリティ予算取りを上申する際に、どのように説明・調整すべきかを悩んでいるセキュリティ担当者が多いのも事実です」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「セキュリティ施策は売上に直結しないがゆえ、コストととらえる経営層が一定数いることは事実です」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「経営者の関心事の大半は、売上・利益を高めることにあるため、コストを最小限に留めようという力が働くことになります」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「某教育会社で発生した大規模な情報漏えい事案で、最終的には取締役2人が辞任することになったケースがあります」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+
+## 取引先からのセキュリティ要求への対応支援（supply chain security requirements support suppliers）
+- 文脈：セキュリティ
+- 前例・提供企業：
+  - 「取引先からのセキュリティ要求にどこまで対応すべき？ - 現場の「困った」に答える ガバナンス・個人情報管理の事例集」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「まずは、どこで、誰が、どの情報を、どのサービスや端末で扱っているのかを確認します」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「セキュリティリスクアセスメント／ISMS認証支援／Pマーク取得・更新支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「個人情報保護コンサルティング／プライバシーポリシー策定支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「関連するサービス」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「法務・技術の両面から個人情報保護の課題解決を支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMS認証支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMSの新規取得から更新・運用改善まで一貫支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMAP登録支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMAP登録・更新に必要な準備と対応を一貫支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「プライバシーマーク支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「Pマーク取得・更新と実効性ある運用体制づくりを支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「プライバシーポリシー策定支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「法規制と事業実態に合うプライバシーポリシーを策定支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「関連する事例」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+- 価格・単価：
+  - 「ウイルスバスター ビジネスセキュリティサービス（VBBSS）の料金はいくら？台数別（5・10・30・50・100台）の年間費用と途中追加・更新の計算方法｜マネージドXDR・TrendAI Core・他社との比較【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「ZTNA（脱VPN）の費用はいくら？人数別（10・30・50・100人）の料金試算｜Sophos Workspace Protection・Harmony SASE・Microsoft Entra Private Access・VPN装置を比較【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「標的型メール訓練・セキュリティ教育の費用はいくら？人数別（10・30・50・100人）の料金試算｜セキュリオ・MudFix・Sophos Phish Threatを比較【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「Sophos Firewall（XGS）の価格はいくら？機種別の本体・ライセンス料金と従業員10・30・50・100名の5年費用試算｜StandardとXstreamの違い【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「EDRの費用はいくら？台数別（10・30・50・100台）の料金試算｜ESET・トレンドマイクロ・Sophos・CrowdStrike・SentinelOne・Microsoft Defenderと「監視付き」の違い【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「売上と業種によって保険料が変わるのですが、売上が数千万円から1億円くらいであれば、年間数万円の保険料で入れます」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「ビジネスメール詐欺(BEC)の被害額は1件あたり数百万円から数千万円、株式会社はてなで2026年4月に約11億円の事例も発生しました」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「【想定事例】発注側企業からの「サプライチェーン強化に向けたセキュリティ対策評価制度」４つ星相当の対策の実施要請を踏まえ、発注側企業と取引の相手方とが円満に価格交渉を行うためのプラクティス」（https://www.meti.go.jp/policy/netsecurity/partnership2.html）
+  - 「費用は審査機関、事業規模、適用範囲、拠点数、コンサルティング利用の有無によって大きく変わり、初回審査のほか、毎年の維持審査や3年ごとの更新審査の費用もかかります」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「主に個人情報を多く扱う業種（人材・医療・EC等）での取得が多く、費用として申請料・審査料・付与登録料などがかかり、事業者の規模によって金額が異なります（2年ごとの更新時にも費用が発生します）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「なお、プライバシーマークの料金は2026年10月に改定されているため、最新の金額はJIPDECの公式情報で確認してください」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「事業者の規模により異なる（2026年10月料金改定）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「月額5〜20万円程度（専任級は月額100万円以上）」（https://leosecuretech.com/security-consulting-cost/）
+  - 「50〜150万円程度／回」（https://leosecuretech.com/security-consulting-cost/）
+  - 「50〜150万円程度」（https://leosecuretech.com/security-consulting-cost/）
+- 責任の範囲：
+  - 「本記事では、要求事項の必須・推奨や契約上の義務を確認し、対応可否や代替策を整理したうえで、現状・記録・改善予定をどのように説明するかを整理します」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「取引先要求を必須・推奨に分け、契約上の義務や未対応の影響を確認する方法」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「契約上の義務を確認する」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「責任者と関係部門を整理する」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「むしろ、管理の考え方、責任者、運用記録、改善予定を整理して伝えることが重要です」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「取引先セキュリティ要求への対応判断の責任者または確認担当者が決まっているか」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「契約上の義務を確認しているか」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「要求事項を必須と推奨に分け、契約上の義務と未対応項目の影響を確認する」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「中小企業の情報セキュリティ体制：責任者・役割・委員会の作り方」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「責任者や役割、会議体が曖昧で、何から体制を整えるべきか分からない」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「また、委託先に預けた個人情報や機密情報が漏えいすれば、発注元も顧客や関係者への説明責任を問われることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「特に中堅中小企業では、実際には一定の対策をしていても、それが文書化されていなかったり、責任者や運用ルールが明確になっていなかったりすることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「担当者はいるが責任範囲が曖昧」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「2. 誰が管理責任を持っているのか」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「次に重要なのは、セキュリティ対策や情報管理について、社内で誰が責任を持っているのかを明確にすることです」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+- 経営判断への置き方：
+  - 「経営判断が必要な項目を分ける」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「経営判断が必要な項目を分けているか」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「経営層に共有すべき判断材料」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「経済産業省「サイバーセキュリティ経営ガイドライン」」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ー 経営層向けセキュリティ研修」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「経営層向けセキュリティ研修」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「専任のセキュリティ責任者がいない企業でも、情報システム担当者、管理部門、経営層など、実際に判断や管理を担う人はいるはずです」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「経営・ガバナンス」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「予算に限りがある場合の対策の優先順位については、」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「限られた予算で優先すべきセキュリティ対策4選」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「BEC詐欺の被害額と対策｜サイバー保険の補償は？」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「ビジネスメール詐欺(BEC)の被害額は1件あたり数百万円から数千万円、株式会社はてなで2026年4月に約11億円の事例も発生しました」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「送金被害額自体はサイバー保険の補償対象外で、犯罪保険などが必要です」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「制度や補償内容のご説明にとどまらず、実際の事故対応や経営判断の視点から最適なリスク対策をご提案しております」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「「中小企業の情報セキュリティ対策ガイドライン」は、全ての業種の中小企業等を対象に、情報セキュリティ対策に取り組む際の、①経営者が認識し実施すべき指針、②社内において対策を実践する際の手順や手法をまとめたものである」（https://www.meti.go.jp/policy/netsecurity/partnership2.html）
+- 大手・競合：
+  - 「近年、サプライチェーン攻撃（取引先を踏み台にしたサイバー攻撃）が急増しており、大手企業を中心に取引先へのセキュリティ対策確認が当たり前になりつつあります」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「実際に大手自動車メーカーの部品サプライヤーがランサムウェアに感染し、本社の工場が停止した事例も報告されています」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「大手企業・官公庁との取引では、ISO 27001（ISMS）やPマークの取得証明を求められることがあります」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「大手企業との取引や官公庁案件ではISMS取得を条件とするケースもありますが、多くの中小企業との取引では「セキュリティ自己チェックシートの提出」や「セキュリティポリシーの開示」で対応できます」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「近年、大手企業やグローバル企業が取引先に対してセキュリティ対策の強化を求めるケースが急増しています」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「外資の大手パソコンメーカーと取引するにあたって、セキュリティ条項を満たしてくださいという要求があった」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「大手企業が取引先に提出を求めるセキュリティチェックシートには、一般的に以下のような項目が含まれています」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「外資系大手パソコンメーカーとの取引で、セキュリティ条項としてサイバー保険への加入を求められた事例があります」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「「セキュリティチェックシートに回答してください」——取引先の大手企業からそんなメールが突然届いて、慌てた経験はありませんか」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「近年、セキュリティが手薄な取引先・委託先を踏み台にして大手企業へ侵入する「サプライチェーン攻撃」が問題になっており、IPAの「情報セキュリティ10大脅威」でも組織向けの上位に挙げられています」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「そのため、大手企業が取引先にセキュリティ状況を確認することは、サプライチェーン全体のリスク管理や、委託先管理の一環として重要になっています」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「あわせて、大手コンサル会社との費用差と、中小企業が費用を抑えるポイントも紹介します」（https://leosecuretech.com/security-consulting-cost/）
+  - 「大手コンサル会社に頼むといくらか――当社との費用比較」（https://leosecuretech.com/security-consulting-cost/）
+  - 「同じ業務でも、大手コンサル会社と小規模・専業の事務所では費用水準が大きく異なります」（https://leosecuretech.com/security-consulting-cost/）
+  - 「コンサル費用の大半は人件費であり、大手ファームのシニアクラスは1日40〜60万円、独立系・小規模事務所では同等の経験者でも1日8〜25万円程度が目安です」（https://leosecuretech.com/security-consulting-cost/）
+- 参入障壁：
+  - 「担当者の経験だけで回答する」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMAP登録支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMAP登録・更新に必要な準備と対応を一貫支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「突然、取引先の担当者から「セキュリティ対策の状況を教えてください」「証明書類を提出してほしい」と言われて、戸惑った経験はありませんか？」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「「サイバーセキュリティお助け隊サービス」制度は、中小企業等に対するサイバー攻撃への対処として不可欠なワンパッケージのサービスを要件としてまとめ、所定の審査機関により当該要件を満たすことが確認された民間サービスについて、ＩＰＡが登録・公表する制度である」（https://www.meti.go.jp/policy/netsecurity/partnership2.html）
+  - 「（※）セキュリティプレゼンター制度は、ＩＰＡのセキュリティ対策資料等を活用して、中小企業等に対して情報セキュリティの普及啓発を行う人材を「セキュリティプレゼンター」として登録する制度」（https://www.meti.go.jp/policy/netsecurity/partnership2.html）
+  - 「「セキュリティチェックシートに回答してください」——取引先の大手企業からそんなメールが突然届いて、慌てた経験はありませんか」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「取得している認証の登録証（ISMS・Pマークなど）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「主に個人情報を多く扱う業種（人材・医療・EC等）での取得が多く、費用として申請料・審査料・付与登録料などがかかり、事業者の規模によって金額が異なります（2年ごとの更新時にも費用が発生します）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「申請料・審査料・付与登録料（規模で変動）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「申請料・審査料・付与登録料など」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「コンサル費用の大半は人件費であり、大手ファームのシニアクラスは1日40〜60万円、独立系・小規模事務所では同等の経験者でも1日8〜25万円程度が目安です」（https://leosecuretech.com/security-consulting-cost/）
+  - 「小規模事務所は経験者が１名ないしアシスタントの２名程度で直接担当します」（https://leosecuretech.com/security-consulting-cost/）
+  - 「実際、当社自身も大手ファームから専門人材として協力依頼を受けることがあります」（https://leosecuretech.com/security-consulting-cost/）
+  - 「※当社にはCISA（Certified Information Systems Auditor）認定の専門家が在籍しています」（https://leosecuretech.com/security-consulting-cost/）
+- 回す体制：
+  - 「一方、取引先が知りたいのは個別対策の有無だけでなく、会社として判断し、運用し、改善する体制があるかです」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「取引先が知りたいのは個別対策の有無だけでなく、会社として判断し、運用し、改善する体制があるかです」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「過剰な要求をそのまま受けると運用負荷が増え、逆に必要な要求を軽視すると取引機会を失います」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「運用していても記録がなければ、取引先への説明が難しくなり、追加質問や改善要求につながります」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「むしろ、管理の考え方、責任者、運用記録、改善予定を整理して伝えることが重要です」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「たとえば、規程そのものを全文提出するのではなく、該当条文、運用フロー、実施記録の抜粋を組み合わせる方法があります」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMSの新規取得から更新・運用改善まで一貫支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「Pマーク取得・更新と実効性ある運用体制づくりを支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「認証取得そのものが目的化し、工数や費用が読めない」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「バックアップは取っているだけで十分？復旧できる運用の作り方」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「認証取得後に形骸化させない年間運用」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「教育・棚卸し・点検が場当たり的で、認証取得後の運用が形骸化しそう」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「SaaS管理や退職フローの整備、運用定着までを見据えた伴走型支援を行っています」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「システム開発、保守運用、物流、コールセンター、経理・人事業務、クラウドサービス、データ処理など、多くの業務が外部の取引先や委託先との連携によって成り立っています」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「特に中堅中小企業では、実際には一定の対策をしていても、それが文書化されていなかったり、責任者や運用ルールが明確になっていなかったりすることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+- 買い手の規模：
+  - 「IPA「中小企業の情報セキュリティ対策ガイドライン」」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「中小企業の情報セキュリティ体制：責任者・役割・委員会の作り方」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「近年、大企業や金融機関、自治体、医療機関、製造業などとの取引において、取引先からセキュリティ対策の状況を確認されるケースが増えています」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「質問項目には、情報セキュリティ規程、アクセス管理、バックアップ、ログ管理、委託先管理、インシデント報告体制、従業員教育など、幅広い内容が含まれることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「特に中堅中小企業では、実際には一定の対策をしていても、それが文書化されていなかったり、責任者や運用ルールが明確になっていなかったりすることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「しかし実際には、特に中堅中小企業において、最初から大企業並みの対策をすべて整えることは現実的ではありません」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「一方で、この制度の方向性は、中堅中小企業にとっても無関係ではありません」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「「うちは中小企業だから関係ない」は通用しない時代です」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「大企業のシステムを直接狙うのではなく、セキュリティが手薄な中小の取引先を経由して攻撃するケースが急増しています」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「多くの中小企業間取引では、チェックシートや自己宣言書で対応可能なケースがほとんどです」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「中小企業が今すぐ取り組むべきセキュリティ対策」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「以下は、中小企業が優先的に取り組みたいセキュリティ対策です」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「フィッシングメールやビジネスメール詐欺（BEC）は、中小企業が被害を受けるサイバー攻撃の上位を占めています」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「特に中小企業向けの補助金制度は年々拡充されており、うまく活用すれば自己負担を抑えながら本格的なセキュリティ環境を整えることが可能です」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「大手企業との取引や官公庁案件ではISMS取得を条件とするケースもありますが、多くの中小企業との取引では「セキュリティ自己チェックシートの提出」や「セキュリティポリシーの開示」で対応できます」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+
+## サイバー保険と付帯サービス（cyber insurance bundled services SME）
+- 文脈：セキュリティ
+- 前例・提供企業：
+  - 「付帯サービス例」（https://www.ishigakiservice.jp/cyber）
+  - 「【緊急開催】7/13（月）会員事業者向け「労働災害の防止 熱中症対策2026 ～安全配慮を、人が集まり定着する企業ブランドに！～」オンライン開催について【東京海上日動火災保険株式会社】」（https://www.ishigakiservice.jp/cyber）
+  - 「「標的型メール訓練サービス」やサイバー攻撃時に早期回復を支援するセキュリティソフト等をご提供可能」（https://www.ishigakiservice.jp/cyber）
+  - 「取扱商品、各保険の名称や補償内容、特約、付帯サービス例は引受保険会社によって異なりますので、保険の内容は各保険のパンフレットまたは重要事項説明書をご覧ください」（https://www.ishigakiservice.jp/cyber）
+  - 「リスク診断サービス」（https://www.ishigakiservice.jp/cyber）
+  - 「標的型メール訓練サービスの提供」（https://www.ishigakiservice.jp/cyber）
+  - 「本ウェブサイト（保険募集広告）は、商工会議所会員向け保険制度の事務管理を行う有限会社石垣サービスが日本商工会議所の経営協力により作成したものです」（https://www.ishigakiservice.jp/cyber）
+  - 「サイバーリスク保険に無料で加入できる付帯サービス3選！有料保険との違いも解説」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「サービス・料金」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「連携サービス」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「他サービスとの違い」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「月額880円で法人登記・月4回の郵便転送・郵便物の来館引取ができる起業家やフリーランスのためのバーチャルオフィスを提供しています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「株式会社ナレッジソサエティ 代表取締役 久田敦史」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「バーチャルオフィス・シェアオフィスを通して1人でも多くの方が起業・独立という夢を実現し、成功させるためのさまざまな支援をしていきたいと考えています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「【学歴】 筑波大学中退 ゴールデンゲート大学大学院卒業(Master of Accountancy) 【メディア掲載・セミナー登壇事例】 起業家にとって必要なリソースを最大限に提供するシェアオフィス 嫌われるNG行動はこれ！覚えておきたいシェアオフィスやコワーキングスペースのマナー “バーチャルオフィス” “シェアオフィス” “レンタルオフィス”どれを選んだらいいの？ 〜ナレッジソサエティ久田社長に聞いてみた 複業人事戦略会議 #2 ～週休4日制正社員！？多様な働き方が生む効果とは？～ ここでしか聞けない、創業現場のリアル(東京都中小企業診断士協会青年部主催) 起業を目指す若者へ「週休４日制」の提案 社内勉強会レポート ストリートアカデミー 久田敦史 Yahoo知恵袋 法人カード調査部 バーチャルオフィス1」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+- 価格・単価：
+  - 「約200万円」（https://www.ishigakiservice.jp/cyber）
+  - 「1,000万円」（https://www.ishigakiservice.jp/cyber）
+  - 「月額880円で法人登記・月4回の郵便転送・郵便物の来館引取ができる起業家やフリーランスのためのバーチャルオフィスを提供しています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「一例として、売上高10億円規模の企業では、条件によって年間10〜60万円程度の保険料となるケースもあります」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「1,375円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「11,000円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「33,000円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「3,300円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「6,600円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「～500万円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「150万円～」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「年間100万円」（https://canon.jp/biz/solution/bizsupport/home/lineup/security-u/insurance）
+  - 「（従業員数50名・年間売上10億円）」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
+  - 「（従業員数10名・年間売上3億円）」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
+  - 「損害賠償・訴訟費用 3,600万円」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
+- 責任の範囲：
+  - 「7/30（木）オンライン配信「労務リスク対策セミナー」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
+  - 「6/25（木）オンライン配信「企業の熱中症対策セミナー」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
+  - 「1/27（火）オンライン配信・労務リスク対策セミナー「自然災害時における企業の安全配慮の留意点～『人をまもり、事業をつなぐ』弁護士が語る労務・法務の視点からのBCP～」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
+  - 「7/31（木）オンライン配信・労務リスク対策セミナー「職場の安心を守る！不祥事対応セミナー～あなたの会社を守るための実践ガイド～」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
+  - 「7/24（水）オンライン配信セミナー「サイバー犯罪に備える基礎講座 サイバー事故に起因する、企業の労務リスク対策の留意点を徹底解説」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
+  - 「「サイバー保険制度」の創設および「情報漏えい賠償責任保険制度」からの移行について」（https://www.ishigakiservice.jp/cyber）
+  - 「外部からのサイバー攻撃（不正アクセスやウイルス感染等）や情報漏えい、またはそのおそれが生じた場合に、事業者が負う法律上の賠償責任・争訟費用の補償や、事故発生時の各種対応費用（事故調査から再発防止策策定までの費用など）を補償します」（https://www.ishigakiservice.jp/cyber）
+  - 「＜賠償責任＞」（https://www.ishigakiservice.jp/cyber）
+  - 「個人情報漏えいについての賠償金：」（https://www.ishigakiservice.jp/cyber）
+  - 「あいおいニッセイ同和損害保険」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「損害保険ジャパン」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「カードの年会費のみでサイバー攻撃やヒューマンエラーによる損害賠償責任保険が確保でき、簡易リスク診断サービス等も無償で付帯します」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「年会費のみで、情報の漏えい等に起因する最高500万円の損害賠償金および訴訟費用を補償しています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「サイバーリスク保険の対象に、損害賠償金だけでなく訴訟費用まで含まれている点が特徴です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「損害賠償費用に加え、原因調査費用や弁護士・コンサルティング会社への相談費用まで幅広く補償されるのが特長です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+- 経営判断への置き方：
+  - 「本ウェブサイト（保険募集広告）は、商工会議所会員向け保険制度の事務管理を行う有限会社石垣サービスが日本商工会議所の経営協力により作成したものです」（https://www.ishigakiservice.jp/cyber）
+  - 「企業を経営していくことはつらい面もありますが、その先にある充実感は自分自身が経営をしていて実感します」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「社内制度では週休4日制の正社員制度を導入するなどの常識にとらわれない経営を目指しています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「サイバーリスクへの対策を強化しつつ、経費精算を効率化したい中小企業の経営者におすすめです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「初年度無料の恩恵を受けつつ、手厚いサイバーリスク保険・付帯特典を利用したい経営者におすすめ」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「コストをかけずに最低限の補償を得るなら無料付帯保険、予算を確保して手厚い補償を得るなら有料保険がおすすめです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「UPSIDERカードとPRESIDENT CARDの違いを徹底比較！JALマイルや経営者特典など」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「経営者・役員のリスク」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
+  - 「※ 想定被害金額は、実際の被害額を保証するものではなく、ここで算出した項目以外にも被害が発生する可能性があります」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
+  - 「経営者の方へ」（https://www.variosecure.net/news/?p=3906）
+  - 「中小企業経営者必見｜サイバー保険の選び方・補償範囲・費用相場まで完全ガイド | サイバー保険ガイド」（https://cyber-insurance.jp/column/2169/）
+  - 「サイバー事故の被害額ガイド」（https://cyber-insurance.jp/column/2169/）
+  - 「中小企業経営者必見｜サイバー保険の選び方・補償範囲・費用相場まで完全ガイド」（https://cyber-insurance.jp/column/2169/）
+  - 「万が一に備える経営リスク対策「サイバー保険」」（https://cyber-insurance.jp/column/2169/）
+  - 「サイバー攻撃の企業への被害額は？億単位もありえる被害額｜2024年最新版を公開」（https://cyber-insurance.jp/column/2169/）
+- 大手・競合：
+  - 「東京都渋谷区道玄坂、千代田区神田神保町、広島市中区大手町にあるバーチャルオフィス1です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「■店舗一覧 バーチャルオフィス1渋谷店 東京都渋谷区道玄坂1-16-6 二葉ビル8B バーチャルオフィス1神保町店 東京都千代田区神田神保町2-10-31 IWビル1F バーチャルオフィス1広島店 広島県広島市中区大手町1-1-20 相生橋ビル7階 A号室 https://virtualoffice1.jp/」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「広島県広島市中区大手町1-1-20」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「バーチャルオフィス・シェアオフィスを通して1人でも多くの方が起業・独立という夢を実現し、成功させるためのさまざまな支援をしていきたいと考えています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「【学歴】 筑波大学中退 ゴールデンゲート大学大学院卒業(Master of Accountancy) 【メディア掲載・セミナー登壇事例】 起業家にとって必要なリソースを最大限に提供するシェアオフィス 嫌われるNG行動はこれ！覚えておきたいシェアオフィスやコワーキングスペースのマナー “バーチャルオフィス” “シェアオフィス” “レンタルオフィス”どれを選んだらいいの？ 〜ナレッジソサエティ久田社長に聞いてみた 複業人事戦略会議 #2 ～週休4日制正社員！？多様な働き方が生む効果とは？～ ここでしか聞けない、創業現場のリアル(東京都中小企業診断士協会青年部主催) 起業を目指す若者へ「週休４日制」の提案 社内勉強会レポート ストリートアカデミー 久田敦史 Yahoo知恵袋 法人カード調査部 バーチャルオフィス1」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「起業家にとって必要なリソースを最大限に提供するシェアオフィス」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「嫌われるNG行動はこれ！覚えておきたいシェアオフィスやコワーキングスペースのマナー」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「“バーチャルオフィス” “シェアオフィス” “レンタルオフィス”どれを選んだらいいの？ 〜ナレッジソサエティ久田社長に聞いてみた」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「NTTドコモビジネスの「VxGPlatform®」」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「NTTドコモビジネスの「VxGPlatform®」は、NTTコミュニケーションズ株式会社が運営するサイバーセキュリティ対策の統合プラットフォームです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「NTTドコモビジネス株式会社」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「東京海上のサイバー保険が付帯するNTTドコモビジネスの「VxGPlatform®」の導入をご検討の方は、以下のリンクよりお問い合わせください」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「【2026】山梨県のシェアオフィス一覧 おすすめシェアオフィスの比較ポイントを徹底調査」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「【2026】福井県のシェアオフィス一覧 おすすめシェアオフィスの比較ポイントを徹底調査」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「【2026】石川県のシェアオフィス一覧 おすすめシェアオフィスの比較ポイントを徹底調査」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+- 参入障壁：
+  - 「また、利用開始には専用ポータルサイトでの事前登録手続きが必要である」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「※「アメリカン・エキスプレス」はアメリカン・エキスプレスの登録商標です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「申し込み資格」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「（SAISON MILE CLUB登録でJALマイル最大1.125%還元）」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「「SAISON MILE CLUB」への登録によりJALのマイル還元率が最大1.125%になったり、プライオリティ・パスに登録できたりと、付帯特典が充実している点が魅力です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「【実保有】JCB Biz ONEの評判・口コミは？経験からわかるメリット・デメリット」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「理由1：セキュリティ投資や専門人材が不足している」（https://cyber-insurance.jp/column/2169/）
+  - 「サイバー攻撃、企業の3社に1社が被害経験【2025年 帝国データバンク調査】― 中小企業も拡大傾向」（https://cyber-insurance.jp/column/2169/）
+  - 「IT資格所有＆本記事を書いている私が担当しますので、安心してくださいね！」（https://www.mic-corporation-hd.com/post-033/）
+  - 「腰痛で労災の補償を受ける為に知っておくべき認定基準」（https://kaisya-hoken.com/cyber-insurance-sme-4375）
+  - 「あなたの怪我や病気は労災か？抑えておくべき認定基準のポイント」（https://kaisya-hoken.com/cyber-insurance-sme-4375）
+  - 「貴社のご意向に基づき、サイバー事故発生時の被害範囲の確認や原因調査および事故対応方法の策定について、経験豊富な専門事業者をご紹介するサービスです」（https://www.ms-ins.com/business/indemnity/pd-protector/）
+  - 「弊社は、様々な業種の法人にサイバー保険のご提案をしていることや、実際にサイバー攻撃を受けたお客様の事故対応なども行っており、ノウハウや経験があります」（https://safety-i.com/blog/corporate/cyber-hoken-taisaku/）
+  - 「インシデント発生時に相談窓口や専門家の紹介を受けられるサービスが付帯されている商品もあり、セキュリティの専門人材が不足しがちな中小企業にとっては心強い存在です」（https://xn--gmqp1a146dk3ad35itmj.net/cyber-casestudy/）
+  - 「T社の販売会社において、顧客の同意を得ずに個人情報を社内サービスIDの発行登録に使用していたことが判明しました」（https://cyber-insurance.jp/column/403/）
+- 回す体制：
+  - 「・かんたんクラウド（MJS）ご優待：2ヶ月無料」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「セキュリティ機器の導入から運用まで一元提供」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「各種お問い合わせ・運用代行」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「IT運用支援」（https://canon.jp/biz/solution/bizsupport/home/lineup/security-u/insurance）
+  - 「サイトは6ヶ月間閉鎖」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
+  - 「バリオセキュアは、中堅・中小企業の課題として挙げられる「セキュリティ導入・運用知識の不足」と「対応人材の不足」を解消し、サイバー攻撃から企業の重要な情報資産とビジネス環境を守るための製品・サービスを提供してきました」（https://www.variosecure.net/news/?p=3906）
+  - 「そしてこの度、中堅・中小企業では障壁が高かったゼロトラストセキュリティの導入・運用を安価で容易に実現しさらなる備えとして、新たなサービス「VarioSecure Cyber Insurance」を提供開始します」（https://www.variosecure.net/news/?p=3906）
+  - 「（イ）被保険者が所有、使用または管理するネットワークのセキュリティ運用管理を委託している会社などからの通報または報告」（https://www.variosecure.net/news/?p=3906）
+  - 「専門家が24時間365日エンドポイントセキュリティの運用・監視を行うマネージドサービスを「Vario EPP/EDR」に追加した「Vario EPS Smart Complete」の提供を開始」（https://www.variosecure.net/news/?p=3906）
+  - 「最大3オペ×3か月間 →」（https://cyber-insurance.jp/column/2169/）
+  - 「また、BPO業務や運用代行・委託業務などでクライアントの情報を預かっている企業では、情報漏えいや障害によって、委託元の業務に支障をきたし、損害賠償責任が発生する可能性もあります」（https://cyber-insurance.jp/column/2169/）
+  - 「事故が発生した場合に、被害者に対する謝罪のための見舞金費用または見舞品の購入などの費用を、被害者が法人の場合には1法人につき5万円、被害者が個人の場合には1名につき1,000円を限度に補償します」（https://www.ms-ins.com/business/indemnity/pd-protector/）
+  - 「業務停止に伴う損害の補償（診療収入の減少、紙運用の追加コストなど）」（https://xn--gmqp1a146dk3ad35itmj.net/cyber-casestudy/）
+  - 「企業型DCの導入方法を解説｜退職金制度の確認から申請手続き・運用まで」（https://xn--gmqp1a146dk3ad35itmj.net/cyber-casestudy/）
+  - 「企業型DCの仕組みを解説｜企業が導入するメリットと掛金・運用方法」（https://xn--gmqp1a146dk3ad35itmj.net/cyber-casestudy/）
+- 買い手の規模：
+  - 「得意先からメールが届き、添付ファイルを開封したところ、従業員のパソコンがウイルスに感染した」（https://www.ishigakiservice.jp/cyber）
+  - 「従業員に対して標的型メールを想定したメールを送付し、メール内のURLのクリック状況等から標的型メールへの対応状況をレポートして報告します」（https://www.ishigakiservice.jp/cyber）
+  - 「【学歴】 筑波大学中退 ゴールデンゲート大学大学院卒業(Master of Accountancy) 【メディア掲載・セミナー登壇事例】 起業家にとって必要なリソースを最大限に提供するシェアオフィス 嫌われるNG行動はこれ！覚えておきたいシェアオフィスやコワーキングスペースのマナー “バーチャルオフィス” “シェアオフィス” “レンタルオフィス”どれを選んだらいいの？ 〜ナレッジソサエティ久田社長に聞いてみた 複業人事戦略会議 #2 ～週休4日制正社員！？多様な働き方が生む効果とは？～ ここでしか聞けない、創業現場のリアル(東京都中小企業診断士協会青年部主催) 起業を目指す若者へ「週休４日制」の提案 社内勉強会レポート ストリートアカデミー 久田敦史 Yahoo知恵袋 法人カード調査部 バーチャルオフィス1」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「ここでしか聞けない、創業現場のリアル(東京都中小企業診断士協会青年部主催)」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「単独のサイバーリスク保険では、保険会社が企業の業種や売上高、補償内容などの契約条件に基づいて保険料を算出します」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「一例として、売上高10億円規模の企業では、条件によって年間10〜60万円程度の保険料となるケースもあります」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「オンライン入会限定で一般・ゴールドカードの初年度年会費が無料となり、1枚目が無料の場合は追加発行する従業員用の使用者カードも無料になる点が魅力です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「サイバーリスクへの対策を強化しつつ、経費精算を効率化したい中小企業の経営者におすすめです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「法人（主に中小企業〜中堅企業）」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「ネットワークの自動遮断やWebサイトの無害化といった技術的な入り口対策や内部対策を根本から導入し、セキュリティ対策を強化したい中小企業におすすめです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「無料付帯保険は追加費用が一切かかりませんが、有料保険は企業の売上高や業種に応じて年間数万円から数百万円の保険料がかかります」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「たとえば、有料の三井住友海上サイバープロテクターの場合、売上高10億円の製造業で年間約6〜10万円がサイバーリスク保険の相場となります」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「有料保険（製造業・売上10億円）」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「売上高や業種に応じて個別算出」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「中小企業ソリューション」（https://canon.jp/biz/solution/bizsupport/home/lineup/security-u/insurance）
+- 検索結果の抜粋：
+  - 「中小企業のサイバー保険は「補償より付帯サービス」で選ぶ ─ 国内主要... — May 31, 2026 · 東京海上日動・AIG・Chubb・損保ジャパン・三井住友海上の中小企業向けサイバー保険を年間保険料15〜80万円のレンジで比較。補償限度額より付帯サービスと免責で選ぶ理由、設定ミス起因の事故が支払い対象になる条件、実際の支払い事例3件を解説。」（https://ai-rescue.jp/columns/sme-cyber-insurance-attached-services-and-exclusions）
+  - 「中小企業向けサイバー保険最新動向2026年10月版｜保険料相場・補償範... — Oct 21, 2026 · 2026年10月の事業環境において中小企業・個人事業主向けサイバー保険最新動向を把握し体制整備を進める取り組みは、保険料相場と主要商品の比較・補償範囲と事業規模別の選定軸・付帯サービス活用と従業員教育プランの3層が、事業継続・取引先信頼 ...」（https://securess.online/blog/2026-10-21.html）
+  - 「サイバー保険とは？3つの補償内容と補償されないもの、中小企業の備え... — サイバー保険とは、サイバー攻撃や情報漏えいで会社が負う損害に備える保険です。損害賠償・事故対応の費用・利益の損失という3つの補償内容と範囲、補償されないもの、中小企業が狙われる現状と事故でかかるお金を、目的別の記事一覧とともに解説します。」（https://hokenou.co.jp/sme/cyber/）
+  - 「中小企業向けサイバー保険5社を比較！補償内容と選び方を解説 — Oct 13, 2026 · 東京海上日動、損保ジャパン、三井住友海上、AIG損保、Chubb損害保険のサイバー保険を比較。賠償責任、事故対応費用、データ復元、事業中断などの補償内容と、中小企業が契約前に確認したいポイントを解説します。」（https://risk.pakira-izu.co.jp/2026/10/13/cyber-insurance-comparison/）
+  - 「サイバー攻撃対策は急務！中小企業・スタートアップのための効果的な... — ③付帯サービスの有無: セキュリティ診断やコンサルティングなどの付帯サービスは、リスク軽減に役立ちます。 4.効果的なセキュリティ対策：予防が最善の防御 サイバー保険は「盾」ですが、「矛」であるセキュリティ対策も重要です。」（https://karigo.net/blog/security_strategy_cyber_insurance/）
+  - 「中小企業のサイバー保険｜本当に必要な補償と国内主要5社の比較 — May 31, 2026 · 東京海上日動・AIG・Chubb・損保ジャパン・三井住友海上の中小企業向けサイバー保険を年間保険料15〜80万円のレンジで比較。補償限度額より付帯サービスと免責で選ぶ理由、設定ミス起因の事故が支払い対象になる条件、実際の支払い事例3件を解説。」（https://ai-rescue.jp/columns/sme-cyber-insurance-attached-services-and-exclusions）
+
+## セキュリティ評価制度の取得支援（security certification support SME Japan）
+- 文脈：セキュリティ
+- 前例・提供企業：
+  - 「なお、一般的にIT基盤に該当しないと考えられる製造環境等の制御（OT）システムや委託元等に提供する製品等については、サプライチェーン全体での共通化が難しいことから直接の対象とはせず、他の制度・ガイドライン等に基づき対策を行うことを想定しています」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「（5）中小企業向け支援策」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「経済産業省及び独立行政法人情報処理推進機構（IPA）では、中小企業による本制度の★3・★4取得に向けた支援策として以下の取組を進めています」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「サイバーセキュリティお助け隊サービス（新類型）」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「中小企業がSCS評価制度の★3及び★4を安価かつ簡便に取得できるよう、新たな支援策として「サイバーセキュリティお助け隊サービス」（新類型）を創設します」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「サイバーセキュリティお助け隊サービス（新類型）実証事業」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「2026年9月から、「サイバーセキュリティお助け隊サービス」（新類型）の制度設計を行うための実証事業を開始しています」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「この実証事業では、サービス提供事業者と連携して、実際に中小企業に対してSCS評価制度★3又は★4取得のためのサービスを試行的に提供します」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「その活用状況や結果を踏まえて、中小企業にとって導入しやすいサービスであること等を担保するための品質要件や価格要件などについて検討を行います」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「「サイバーセキュリティお助け隊サービス」（新類型）特設ページ」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「セキュリティ対策評価制度対応支援コンサルティング｜日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「株式会社 日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「セキュリティ対策評価制度対応支援コンサルティング」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「セキュリティ設計支援コンサルティング」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「取引先セキュリティ評価支援サービス」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+- 価格・単価：
+  - 「実はSCS★3の対応費用は、自社のセキュリティ対策の現状によって20万円から300万円まで大きく幅があります」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「本記事では、3つのパターン別に費用をシミュレーションし、コストを抑えるためのポイントも紹介します」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「パターンA：セキュリティ対策がほぼ整っている企業（20〜50万円）」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「パターンB：一部の対策は実施しているが不足がある企業（50〜150万円）」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「パターンC：セキュリティ対策がほぼゼロの企業（150〜300万円）」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「MFA全社導入：10〜30万円（設定作業費」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「アクセス制御設計（条件付きアクセス等）：20〜50万円」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「EDR導入設定：10〜20万円（ライセンス費用は月額500〜1,000円/台が別途）」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「パッチ管理体制構築：10〜20万円」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「ログ取得・保存設定：10〜30万円」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「4-2.費用と効果」（https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain）
+  - 「★5の要求事項・評価基準・評価スキーム・開始時期（検討中）／申請・登録に係る費用」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
+  - 「月額12万円〜のサポートプランで、専任のIT担当者がいない企業でも制度対応を進めることができます」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
+  - 「限られた予算・リソースを最大限に活用するため、対策を「0円でできること」「月数千円でできること」「月数万円必要なこと」の3段階に整理します」（https://netpeace.co.jp/blog/scs/scs-small-business-guide/）
+  - 「0円でできること（今すぐ始められる対策）」（https://netpeace.co.jp/blog/scs/scs-small-business-guide/）
+- 責任の範囲：
+  - 「役割、責任、権限」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「保証継続（認証維持・再評定）」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「情報漏洩リスクの低減 → 賠償金と信用失墜の回避」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「責任者の配置など情報管理の強化」（https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html）
+  - 「組織内の役割と責任が定義されている」（https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html）
+  - 「2. 役割/責任/権限」（https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html）
+  - 「（セキュリティ責任者の設置、体制構築、対応方針の策定）、」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
+  - 「責任者を明確化」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
+  - 「本チェックは公式の評価ではなく、★3の取得を保証するものでもありません」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
+  - 「情報セキュリティの責任者・担当者を文書で指定」（https://netpeace.co.jp/blog/scs/scs-small-business-guide/）
+  - 「サービス範囲と責任分界を明確にする：」（https://netpeace.co.jp/blog/scs/scs-small-business-guide/）
+  - 「これは、生成AIを使った機械翻訳が圧倒的な精度で世界中から簡単に利用できるようになったことが一因です」（https://www.mjs.co.jp/topics/lp/scs/）
+  - 「2024年6月には税理士法人および監査法人がランサムウェアによるサイバー攻撃を受け、同事務所に業務委託していた損害保険会社や銀行などが顧客の個人情報（約6.3万件以上）の漏えいのおそれを公表する事例がありました」（https://www.mjs.co.jp/topics/lp/scs/）
+  - 「・組織内の役割と責任が定まっている」（https://www.mjs.co.jp/topics/lp/scs/）
+  - 「⑤ 管理部署 情報資産の管理責任がある部署等を記入します」（https://www.mjs.co.jp/topics/lp/scs/）
+- 経営判断への置き方：
+  - 「早期の意思決定が極めて重要となるのは、選択によって必要となるリソースが大きく異なるためです」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「★4は「取引先から選ばれ続けるための強力な競争力」となる一方、外部機関による「第三者評価」や「脆弱性診断」が必須となるため、相応の予算と準備期間を要します」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「自社の立ち位置を明確にし、予算・スケジュールに余裕を持った計画を策定することが、SCS制度対応の重要なポイントとなります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「ランサムウェア被害から学ぶ教訓集 ～ 経営者のためのランサムウェア対策ハンドブック ～」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「サイバーセキュリティ経営ガイドライン Ver 3.0実践のためのプラクティス集」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「サイバーセキュリティ経営可視化ツール」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「解説2 なぜサイバーセキュリティ対策は経営課題か」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「解説3 経営者が認識すべき3原則と指示すべき重要10項目」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「プラクティス1-1 経営者がサイバーセキュリティリスクを認識するための、他社被害事例の報告」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「指示3 サイバーセキュリティ対策のための資源（予算、人材等）確保」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「プラクティス3-1 サイバーセキュリティ対策のための、予算の確保」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「プラクティス3-2 経営層やスタッフ部門等の役割に応じた、リテラシーにとどまらないセキュリティ教育実践」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「プラクティス4-1 経営への重要度や脅威の可能性を踏まえたサイバーセキュリティリスクの把握と対応」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「プラクティス4-2 『サイバーセキュリティ経営可視化ツール』を用いたリスク対策状況の把握と報告」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「悩み(1) IT部門のみで経営層のセキュリティ意識を向上させることに限界を感じている」（https://www.ipa.go.jp/security/scs/index.html）
+- 大手・競合：
+  - 「セキュリティ対策評価制度対応支援コンサルティング｜日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「株式会社 日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「日立ソリューションズの強み」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「日立ソリューションズのセキュリティ対策評価制度対応支援コンサルティング」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「日立ソリューションズの」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「さまざまな資格を有したセキュリティエキスパートやインテグレーターとしての経験など、日立ソリューションズの強みをご紹介します」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「日立グループTOP」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「近年、セキュリティ対策が強固な大手企業を直接狙うのではなく、セキュリティの不備があるサプライチェーン内の受託企業や取引先（中小企業等）を「踏み台」として侵入するサイバー攻撃が増加しています」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「制度開始に伴い、大手企業や自治体・公共調達において、調達要件や取引条件として「★3」や「★4」の登録を求める動きが順次広がると予想されます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「IPAとNTT東日本による「シン・テレワークシステム」のHTML5版の開発と提供について」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「IPAとNTT東日本による「シン・テレワークシステム」無償開放の期間延長について」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「X（Twitter）でシェアする」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「Facebookでシェアする」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「大手コンサルとの比較」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+- 参入障壁：
+  - 「サプライチェーンのセキュリティを含めたさまざまな業種でのコンサルティング経験で培った知見やノウハウを生かして支援します」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「認定取得スコープ定義支援」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「「サプライチェーン強化に向けたセキュリティ対策評価制度に関する制度構築方針」および「★3・★4要求事項・評価基準」をもとに、どの範囲でどの認定レベルを取得したいかをヒアリング」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「要件一覧作成、認定取得レベル決定」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「ヒアリング内容を踏まえて「認定取得における要件一覧」を作成し、適用範囲および取得をめざす認定レベルを決定」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「認定取得定義とのギャップ分析」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「認定取得準備作業支援」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「さまざまな資格を有したセキュリティエキスパートやインテグレーターとしての経験など、日立ソリューションズの強みをご紹介します」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「制度開始に伴い、大手企業や自治体・公共調達において、調達要件や取引条件として「★3」や「★4」の登録を求める動きが順次広がると予想されます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「有効期間は3年で、有効期間内は1年ごとに自己評価を実施し結果を認定評価機関に提出、3年ごとの更新の際は「第三者評価」を受け、実地審査や脆弱性診断等の技術検証をクリアする必要があります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「」が登録の必須条件となるため、対応漏れが許されません」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「これまでの経験」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「情報処理技術者試験制度の見直し」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「情報処理技術者試験のアジアにおける国際協調」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「情報処理安全確保支援士（登録セキスぺ）」（https://www.ipa.go.jp/security/scs/index.html）
+- 回す体制：
+  - 「本制度は、サプライチェーンを構成する企業等のIT基盤（クラウド環境で運用するものも含む」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「（4）制度の運用体制案」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「AI推進体制・運用ルールの整備」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「【最新スケジュール】2026年度末の本格運用に向けたスケジュール」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「目指すべき要求事項や大枠の評価基準はすでに公表されているため、制度開始と同時にスムーズに運用できるよう、自社の現状把握や準備に早めに着手することが推奨されます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「2026年度末より本格運用が始まる「SCS評価制度（セキュリティ対策評価制度）」」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「2026年度末の本格運用に向け、企業は以下の4ステップで計画的に準備を進めることが推奨されます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「単に「セキュリティツールが入っているか」だけでなく、アカウント管理のルール化やインシデント体制の有無など、【技術面】と【運用・規程面】の網羅的なチェックを行う必要があります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「【Step3】対策の実装・運用定着と外部支援の活用」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「本制度の評価のポイントは、単に形だけのルールやツールを用意することではなく、日常的にセキュリティが正しく運用されていることを客観的に証明できる「証跡（アクセスログ、資産台帳、教育実施記録など）」を漏れなく蓄積・管理する体制を定着させることにあります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「自社だけでこれらの基準を正確に解釈し、実効性のある体制を構築・運用するのは容易ではありません」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「2026年度末（2027年3月頃）より★3および★4の本格運用が開始される予定となっており、直前になって慌てることのないよう、早い段階からの現状把握と準備が求められます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「失敗しないISMS運用【コンサルティング会社の選び方】」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「安全なウェブサイトの運用管理に向けての20ヶ条 〜セキュリティ対策のチェックポイント〜」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「CISAが公開した制御システムの脆弱性情報（直近1ヶ月）」（https://www.ipa.go.jp/security/scs/index.html）
+- 買い手の規模：
+  - 「（5）中小企業向け支援策」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「経済産業省及び独立行政法人情報処理推進機構（IPA）では、中小企業による本制度の★3・★4取得に向けた支援策として以下の取組を進めています」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「中小企業がSCS評価制度の★3及び★4を安価かつ簡便に取得できるよう、新たな支援策として「サイバーセキュリティお助け隊サービス」（新類型）を創設します」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「この実証事業では、サービス提供事業者と連携して、実際に中小企業に対してSCS評価制度★3又は★4取得のためのサービスを試行的に提供します」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「その活用状況や結果を踏まえて、中小企業にとって導入しやすいサービスであること等を担保するための品質要件や価格要件などについて検討を行います」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「お客さまの組織規模やセキュリティ対応状況などにより異なります」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「近年、セキュリティ対策が強固な大手企業を直接狙うのではなく、セキュリティの不備があるサプライチェーン内の受託企業や取引先（中小企業等）を「踏み台」として侵入するサイバー攻撃が増加しています」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「【★1・★2】中小企業の第一歩（自己宣言）」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「中小企業の情報セキュリティ対策ガイドライン」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「★2：中小企業の情報セキュリティ対策ガイドライン付録の」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「洗い出したギャップに対して、セキュリティ管理規程の改定・策定、必要なITツールの導入、および全従業員へのセキュリティ教育といった網羅的な対策を実行します」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「自社単独でのリソースやノウハウの不足が課題となる場合は、IPAが推進する中小企業向けの」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「主に中小企業を対象に、★3・★4の取得に必要な「現状把握（評価）」と「対策支援（ツール提供等）」をワンパッケージにした新サービスが創設される予定です」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「プライバシーマーク（以下、Pマーク）取得の費用は、企業の業態や、規模などによって異なります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「防犯カメラで個人情報が漏えいする場面防犯カメラは、今では街中のいたるところに設置されていますが、犯罪の防止であったり、従業員の監視であったりという目的で設置され...」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+- 検索結果の抜粋：
+  - 「製造業 のSCS 評価制度 3対応実践ガイド - Net Peace株式会社 — 製造業 のSCS 評価制度 3対応実践ガイド - Net Peace株式会社 Net Peace株式会社 https://netpeace.co.jp > セキュリティメディア > SCS評価制度」（https://netpeace.co.jp/blog/scs/scs-manufacturing-guide/）
+  - 「SCS評価制度の対応支援サービス14選｜★3・★4の要件と選び方・費用を比... — Sep 30, 2026 · 制度の★3・★4の要求事項や申請時期といった前提を整理したうえで、 対応支援サービスに頼める範囲・自社の状況に合う選び方・費用の実際 まで、資料請求や問い合わせの判断に使える形でまとめました。」（https://catalog.monex.co.jp/article/?p=51116）
+
+## 大手コンサルの下請け・専門家マッチング（expert matching for consulting firms）
+- 文脈：コンサル
+- 前例・提供企業：
+  - 「大きく分けて3種類のマッチングサイトが存在し、発注までは基本的にすべて無料で利用可能なサービスもあります」（https://consultingsystemhi.com/media/media1）
+  - 「コンサルティング費用を抑えやすい点が特徴で、自社にないノウハウを活用したい方や必要な時だけにコンサルに依頼したい方にとっては最高のサービスと言えるでしょう」（https://consultingsystemhi.com/media/media1）
+  - 「そのため例えばコンサル・システム発注・依頼.COMのようなコンサル出身者等で形成されるアドバイザーがいるサービスの利用をお勧めします」（https://consultingsystemhi.com/media/media1）
+  - 「コンサルティング業務を依頼したい発注者と、お仕事に対応したい受注者をWEB上でマッチングするための場を提供するサービスです」（https://consultingsystemhi.com/media/media1）
+  - 「サービスによって特徴はありますが、コンサルティングの専門家が間に入って見積もりや直接ベンダーに言いづらいことを伝えてくれるので、普通に頼むより費用が安くなることや、齟齬がなくなることもございます」（https://consultingsystemhi.com/media/media1）
+  - 「サービスサイト」（https://consultingsystemhi.com/media/media1）
+  - 「見積もり比較サービスであるコンサル・システム発注・依頼.COMは面倒で手間のかかるコンサルティング会社・システム開発・運用会社」（https://consultingsystemhi.com/media/media1）
+  - 「の見積もりを簡単に比較して、最安値の業者や最も信頼できる業者を選べる無料サービス、BtoBマッチングサービスPF」（https://consultingsystemhi.com/media/media1）
+  - 「どなたでもコンサルやシステム開発会社の見積もりやサービス内容を一括で比較」（https://consultingsystemhi.com/media/media1）
+  - 「サービスです」（https://consultingsystemhi.com/media/media1）
+  - 「日経COMPASSや産業経済新聞でも記事が取り上げられている注目サービス」（https://consultingsystemhi.com/media/media1）
+  - 「、受注者も成約時に一部手数料がかかるのみで非常に良心的なサービスとなります」（https://consultingsystemhi.com/media/media1）
+  - 「口コミ：大手から中小までたくさん連絡があり、その中からおすすめのベンダーを5社に絞って情報を提供してくれ、中でも気になった数社とだけ商談しました」（https://consultingsystemhi.com/media/media1）
+  - 「口コミ：他のサービスでなかなか専門家が見つからず、」（https://consultingsystemhi.com/media/media1）
+  - 「領域に強みのあるベンダーから週１から支援してもらえるフリーランスまでつないで」（https://consultingsystemhi.com/media/media1）
+- 価格・単価：
+  - 「料金プランは、案件によりますが簡単なコメントについては数千円、業界トレンドに関するインタビューには2〜5万円という比較的手頃な価格帯で提供しています」（https://consultingsystemhi.com/media/media1）
+  - 「選び方3. 紹介される案件が相場水準を上回っているか」（https://pro-d-use.jp/blog/matching_service/）
+  - 「・170万円/月(40%)」（https://pro-d-use.jp/blog/matching_service/）
+  - 「・170万円/月(100%)」（https://pro-d-use.jp/blog/matching_service/）
+  - 「・135万円/月(100%)」（https://pro-d-use.jp/blog/matching_service/）
+  - 「・150万円/月(100%)」（https://pro-d-use.jp/blog/matching_service/）
+  - 「・200万円/月(100%)」（https://pro-d-use.jp/blog/matching_service/）
+  - 「・140万円/月(100%)」（https://pro-d-use.jp/blog/matching_service/）
+  - 「・160万円/月(20~100%)」（https://pro-d-use.jp/blog/matching_service/）
+  - 「・70万円/月(20%)」（https://pro-d-use.jp/blog/matching_service/）
+  - 「・30万円/月(10%)」（https://pro-d-use.jp/blog/matching_service/）
+  - 「・130万円/月(100%)」（https://pro-d-use.jp/blog/matching_service/）
+  - 「・200万円/月(50~100%)」（https://pro-d-use.jp/blog/matching_service/）
+  - 「・95万円/月(100%)」（https://pro-d-use.jp/blog/matching_service/）
+  - 「120万円/月(100%)」（https://pro-d-use.jp/blog/matching_service/）
+- 責任の範囲：
+  - 「そのため、案件紹介をする際の情報の解像度にこだわった、高精度なマッチングを追求している点が強みのサービスです」（https://consultingsystemhi.com/media/media1）
+  - 「案件の質はフリーコンサルにとってうれしい、高額な報酬と週３日以下の低稼働、事業会社からの直受けといった優良案件が多いことや、元フリーコンサルが始めたサービスなので情報の解像度がたかく高精度なマッチングを追求していること、最後はフリーコンサルが柔軟に働くことができる環境づくりを目指していることです」（https://consultingsystemhi.com/media/media1）
+  - 「免責事項：掲載各社のコンテンツ内容は削除および変更されている可能性があります」（https://consultingsystemhi.com/media/media1）
+  - 「マッチング精度が高い」（https://pro-d-use.jp/blog/matching_service/）
+  - 「株式会社リクルートでは営業・企画の両面で責任者を務め、MVPほか多数の受賞歴が証明する通り「売る力」を極めました」（https://pro-d-use.jp/blog/matching_service/）
+  - 「最初に課題感の相談をする事で、マッチング精度の向上を実現しています」（https://www.biz.ne.jp/subject/blog/2009422/）
+  - 「全体のマッチング精度は73%と高精度で、月間の新規フリーコンサル登録者数は業界最大級の94人にも及ぶそうです（※株式会社SEPTA発表データ）」（https://www.biz.ne.jp/subject/blog/2009422/）
+  - 「PL保険（生産物賠償責任保険）」（https://www.biz.ne.jp/subject/blog/2009422/）
+  - 「賠償責任保険」（https://www.biz.ne.jp/subject/blog/2009422/）
+  - 「新規コンサルタントは毎月平均94人が登録しており、マッチング精度は73％を誇っています」（https://www.shopowner-support.net/customer_attraction_information/online/web-consulting/consultant-matching-site/）
+  - 「大手コンサルファーム出身のアドバイザーを抱えており、マッチング精度を向上させています」（https://www.shopowner-support.net/customer_attraction_information/online/web-consulting/consultant-matching-site/）
+  - 「仕事の完成責任」（https://mirai-works.co.jp/business-pro/business-column/contract-consultant/）
+  - 「契約不適合責任」（https://mirai-works.co.jp/business-pro/business-column/contract-consultant/）
+  - 「（瑕疵担保責任）」（https://mirai-works.co.jp/business-pro/business-column/contract-consultant/）
+  - 「成果物に欠陥があった場合に責任を負う」（https://mirai-works.co.jp/business-pro/business-column/contract-consultant/）
+- 経営判断への置き方：
+  - 「（依頼や予算を伝えるだけで最適な提案・商談が受けられる）」（https://consultingsystemhi.com/media/media1）
+  - 「コンサル・システム発注依頼.COMは、企業の抱える経営課題や事業課題に対して、有数のコンサルティング会社から提案を集められるコンサル会社・システム会社に特化したマッチングプラットフォームと紹介しましたが、」（https://consultingsystemhi.com/media/media1）
+  - 「戦略ファーム出身者のみならず、IT企業の出身者等のエキスパートが多く登録しており、経営課題・新規事業・戦略の立案・PMOまで多岐にわたる相談ができます」（https://consultingsystemhi.com/media/media1）
+  - 「これにより、意思決定までのスピードが格段に上がったと思います」（https://consultingsystemhi.com/media/media1）
+  - 「日本経営管理協会」（https://consultingsystemhi.com/media/media1）
+  - 「経営コンサルティング」（https://pro-d-use.jp/blog/matching_service/）
+  - 「経営コンサル会社を見極めるポイント」（https://pro-d-use.jp/blog/matching_service/）
+  - 「経営コンサルコラム」（https://pro-d-use.jp/blog/matching_service/）
+  - 「経営コンサルティング会社を10年以上経営している筆者」（https://pro-d-use.jp/blog/matching_service/）
+  - 「経営戦略 / 組織・人事 / 財務会計 / 新規事業など」（https://pro-d-use.jp/blog/matching_service/）
+  - 「の実績を持っているため、事業会社の経営層と太いパイプがあるのが特徴」（https://pro-d-use.jp/blog/matching_service/）
+  - 「【製造／商社／メーカー】BPRリプラン策定支援（戦略／経営／新規事業）」（https://pro-d-use.jp/blog/matching_service/）
+  - 「CxOコンサルティングは、コンサルティングファーム出身者にCxO（経営層）から委託を受けた案件のみを紹介しているマッチングサービスです」（https://pro-d-use.jp/blog/matching_service/）
+  - 「なお、筆者が経営する」（https://pro-d-use.jp/blog/matching_service/）
+  - 「であり、お客様の担当者が「経営者が多い」ことが特徴です」（https://pro-d-use.jp/blog/matching_service/）
+- 大手・競合：
+  - 「創業者も大手総合コンサル会社出身で業界に対して知見が深く、」（https://consultingsystemhi.com/media/media1）
+  - 「口コミ：大手から中小までたくさん連絡があり、その中からおすすめのベンダーを5社に絞って情報を提供してくれ、中でも気になった数社とだけ商談しました」（https://consultingsystemhi.com/media/media1）
+  - 「ベンチャーから上場・大手企業まで35,000社を超える企業に利用」（https://consultingsystemhi.com/media/media1）
+  - 「創業者が大手総合コンサルティングファーム出身者のため、業界にも詳しく安心してサービスを利用できるところも特徴で、対応業界も製造・物流・通信・建設・メディア・その他と幅広く、対応領域も事業戦略・市場調査・業務改革・海外進出等、業界や領域に幅広く対応可能です」（https://consultingsystemhi.com/media/media1）
+  - 「創業者は大手コンサルティング・システム開発会社のアクセンチュア出身で、自社のコンサルティングやシステム・AI・アプリ開発などの知見や専門的な知見や資格を持った専門家の知見も踏まえつつ、官公庁・公的機関・公的団体・シンクタンク・企業HPをはじめとした専門性・権威性・信頼性の高い情報をもとにシステム開発・コンサルティング・AI開発・マーケティング・ホームページ制作・アプリ開発に関する情報を執筆・エビデンスチェック・校閲をしております」（https://consultingsystemhi.com/media/media1）
+  - 「（ProConnect）」」（https://pro-d-use.jp/blog/matching_service/）
+  - 「おすすめサービス1. プロコネクト（ProConnect）」（https://pro-d-use.jp/blog/matching_service/）
+  - 「◆ プロコネクト（ProConnect）の案件例」（https://pro-d-use.jp/blog/matching_service/）
+  - 「大手事業会社の直接案件が多く」（https://pro-d-use.jp/blog/matching_service/）
+  - 「アクセンチュアやアビームなど対象コンサルティングファームでの実務経験が5年以上必要」（https://pro-d-use.jp/blog/matching_service/）
+  - 「プロコネクト（ProConnect）」（https://pro-d-use.jp/blog/matching_service/）
+  - 「（ProConnect）」（https://pro-d-use.jp/blog/matching_service/）
+  - 「ProConnect」（https://pro-d-use.jp/blog/matching_service/）
+  - 「https://pro-connect.jp/」（https://pro-d-use.jp/blog/matching_service/）
+  - 「大手事業会社から直接依頼された案件が多く、クライアントと距離の近いプロジェクトが多いのが特徴」（https://pro-d-use.jp/blog/matching_service/）
+- 参入障壁：
+  - 「コンサル・システム発注・依頼.COMへの登録（発注予定企業）」（https://consultingsystemhi.com/media/media1）
+  - 「コンサル・システム発注・依頼.COMへの登録（コンサル企業・独立系コンサルタント）」（https://consultingsystemhi.com/media/media1）
+  - 「受注企業の登録ページ」（https://consultingsystemhi.com/media/media1）
+  - 「数多くのコンサル会社が登録していますが、」（https://consultingsystemhi.com/media/media1）
+  - 「戦略ファーム出身者のみならず、IT企業の出身者等のエキスパートが多く登録しており、経営課題・新規事業・戦略の立案・PMOまで多岐にわたる相談ができます」（https://consultingsystemhi.com/media/media1）
+  - 「利用の流れも新規登録→アドバイザー面談→案件紹介→契約の４ステップで利用ができます」（https://consultingsystemhi.com/media/media1）
+  - 「スポットコンサルは、様々なビジネス領域の経験者に1時間から対面・電話で相談できる仕組みです」（https://consultingsystemhi.com/media/media1）
+  - 「ビザスクは登録者数が多いので、エキスパート募集してから集まるまでが早いのが利点だと思います」（https://consultingsystemhi.com/media/media1）
+  - 「創業者は大手コンサルティング・システム開発会社のアクセンチュア出身で、自社のコンサルティングやシステム・AI・アプリ開発などの知見や専門的な知見や資格を持った専門家の知見も踏まえつつ、官公庁・公的機関・公的団体・シンクタンク・企業HPをはじめとした専門性・権威性・信頼性の高い情報をもとにシステム開発・コンサルティング・AI開発・マーケティング・ホームページ制作・アプリ開発に関する情報を執筆・エビデンスチェック・校閲をしております」（https://consultingsystemhi.com/media/media1）
+  - 「ベンダーとして登録する」（https://consultingsystemhi.com/media/media1）
+  - 「【無料】プロコネクトに登録してみる>」（https://pro-d-use.jp/blog/matching_service/）
+  - 「経験者が語る！フリーコンサルタント向けマッチングサイトの2つの注意点」（https://pro-d-use.jp/blog/matching_service/）
+  - 「ステップ1：公式サイトより登録」（https://pro-d-use.jp/blog/matching_service/）
+  - 「デメリット1. スキルや経験が浅いと、条件に合った案件の紹介が受けられない可能性も」（https://pro-d-use.jp/blog/matching_service/）
+  - 「未経験からフリーランスコンサルタントになることは可能？」（https://pro-d-use.jp/blog/matching_service/）
+- 回す体制：
+  - 「見積もり比較サービスであるコンサル・システム発注・依頼.COMは面倒で手間のかかるコンサルティング会社・システム開発・運用会社」（https://consultingsystemhi.com/media/media1）
+  - 「1か月～や週１～と柔軟な対応をしてもらえる」（https://consultingsystemhi.com/media/media1）
+  - 「コンサルティング会社も多く利用する「エキスパートリサーチ」というサービスを提供していたミーミル株式会社が、株式会社ニューズピックスと共同で運用するNewsPicks Experを紹介します」（https://consultingsystemhi.com/media/media1）
+  - 「短期の案件が少なく平均11.5ヶ月と長期案件が多い」（https://pro-d-use.jp/blog/matching_service/）
+  - 「現役プロが伴走」（https://pro-d-use.jp/blog/matching_service/）
+  - 「戦略を描くだけでなく、現場が自走できる状態になるまで徹底的に伴走いたします」（https://pro-d-use.jp/blog/matching_service/）
+  - 「営業業務を行う傍ら、現場で見聞きした意見や見地をもとにメディア運用業務も行う」（https://www.biz.ne.jp/subject/blog/2009422/）
+  - 「数あるコンサル会社の中から「自社にぴったりな1社」「自社に最適な1名」と出会うためには、比較サイトを利用するのが近道です」（https://www.biz.ne.jp/subject/blog/2009422/）
+  - 「[従業員人数]」（https://www.biz.ne.jp/subject/blog/2009422/）
+  - 「11名〜30名」（https://www.biz.ne.jp/subject/blog/2009422/）
+  - 「Web広告の運用手数料の相場は、以下の通りです」（https://mieruca-connect.com/knowledge/webconsulting-cost/）
+  - 「広告運用コンサルの詳しい施策内容や効果について知りたい方は以下の記事もご覧ください」（https://mieruca-connect.com/knowledge/webconsulting-cost/）
+  - 「広告運用コンサルに運用型広告を依頼するには？代理店など依頼先の例や依頼内容の精査のコツ」（https://mieruca-connect.com/knowledge/webconsulting-cost/）
+  - 「工数と期間も、Webコンサルティング費用に大きく影響します」（https://mieruca-connect.com/knowledge/webconsulting-cost/）
+  - 「まず、工数が多くなるほど費用は高くなります」（https://mieruca-connect.com/knowledge/webconsulting-cost/）
+- 買い手の規模：
+  - 「一般社団法人中小企業コンサルティング協会」（https://consultingsystemhi.com/media/media1）
+  - 「フリーコンサルが安定的に売上を獲得する3つのポイント」（https://pro-d-use.jp/blog/matching_service/）
+  - 「フリーコンサルが安定的に売上を獲得するための、下記3つのポイントについて解説します」（https://pro-d-use.jp/blog/matching_service/）
+  - 「▼安定的に売上を獲得する3つのポイント」（https://pro-d-use.jp/blog/matching_service/）
+  - 「このようなケースでは、売上が安定せず、すぐに営業活動を始めなければならないといった状況に陥りかねません」（https://pro-d-use.jp/blog/matching_service/）
+  - 「中小企業庁認定：中小企業デジタル化応援隊事業認定IT専門家 / I00087391」（https://pro-d-use.jp/blog/matching_service/）
+  - 「中小企業診断士が独立後成功するために重要なポイントとは？独立後の年収を併せ …」（https://www.biz.ne.jp/subject/blog/2009422/）
+  - 「中小企業診断士として独立するには？失敗を防ぐ方法やおすすめの通信講座3選を …」（https://www.biz.ne.jp/subject/blog/2009422/）
+  - 「中小企業診断士におすすめのダブルライセンスとは？」（https://www.biz.ne.jp/subject/blog/2009422/）
+  - 「[従業員人数]」（https://www.biz.ne.jp/subject/blog/2009422/）
+  - 「[会社規模]」（https://www.biz.ne.jp/subject/blog/2009422/）
+  - 「Webサイトの規模によって相場は数倍になることもあります」（https://mieruca-connect.com/knowledge/webconsulting-cost/）
+  - 「広告費25万円以下の小規模な場合：一律月額5〜30万円」（https://mieruca-connect.com/knowledge/webconsulting-cost/）
+  - 「中小規模のコンサルタント会社であれば、1時間あたり1〜5万円程度の単価が相場です」（https://mieruca-connect.com/knowledge/webconsulting-cost/）
+  - 「100社以上の大企業からスタートアップに至るまで、幅広い業界の企業に利用されている実績とサポート体制は信頼の証」（https://www.shopowner-support.net/customer_attraction_information/online/web-consulting/consultant-matching-site/）
+- 検索結果の抜粋：
+  - 「【 専門家 監修】おすすめ コンサルマッチング サイト7選 — 【 専門家 監修】おすすめ コンサルマッチング サイト7選 コンサル&システム発注依頼.COM https://consultingsystemhi.com > media > media1」（https://consultingsystemhi.com/media/media1）
+  - 「【専門家監修】おすすめコンサルマッチングサイト7選 — 創業者は大手コンサルティング・システム開発会社のアクセンチュア出身で、自社のコンサルティングやシステム・AI・アプリ開発などの知見や専門的な知見や資格を持った専門家の知見も踏まえつつ、官公庁・公的機関・公的団体・シンクタンク・企業HPを ...」（https://consultingsystemhi.com/media/media1）
+  - 「プロと出会える！エキスパートマッチング会社16選を徹底比較 — Aug 4, 2026 · エキスパートマッチング会社を比較。 市場調査、スポットコンサル、専門家インタビュー、顧問活用、技術調査、海外調査など、目的に合うサービス16社の特徴と選び方を紹介します。」（https://www.shopowner-support.net/attracting_customers/btob-business/consultant-attracting/experts-matching/）
+  - 「Top Consulting Firms in Las Vegas - Nov 2026 Rankings - ClutchTop Business Consulting Firms in Las Vegas | 2026 - DesignRushIndependent Consultant Platforms: 2026 Comparison GuideRight Expert Network Provider: A Guide For PE & ConsultantsTop Consulting Firms in Nevada - Nov 2026 Rankings | Clutch.coTop Expert Network Companies in 2026: Complete Buyer's Guide — Launched in 2011, Parmenides Consulti」（https://clutch.co/consulting/las-vegas）
+
+## 中堅企業向けの戦略・新規事業プロジェクト（strategy consulting for mid-size companies Japan）
+- 文脈：コンサル
+- 前例・提供企業：
+  - 「新規事業とは、企業がこれまで手掛けていなかった市場・顧客・製品・サービスの領域で、新たに事業を立ち上げる取り組みを指します」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「完全に新しい市場を切り拓く場合もあれば、既存の技術やノウハウを活かして新しい製品を開発する場合、既存の顧客基盤に新しいサービスを提供する場合など、その形態は幅広いです」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「これは「市場（既存・新規）」と「製品・サービス（既存・新規）」の2軸で事業展開のパターンを4つに分類する考え方で、既存市場への新製品投入や、既存製品での新市場開拓なども新規事業の一形態として位置づけられます」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「PMF（プロダクトマーケットフィット）は、提供する製品・サービスが市場のニーズに合致し、顧客に受け入れられている状態を指します」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「経済産業省「中堅・中小企業等向けDX推進の手引き2025」（2025年3月）では、既存の業務データを活用して新たなサービスを開発した事例や、蓄積したデータをもとに新規のシステム開発につなげた事例が紹介されており、デジタル化への取り組みが新規事業のヒントになり得ることが示されています」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「競合分析を行い、既に同様のサービスが存在するか、どのような差別化が可能かを確認します」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「実際の運営データや顧客の反応をもとに、KPIの達成状況を確認し、必要に応じて商品・サービスや戦略を改善していくサイクルを繰り返します」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「スタートアップスタジオ等の伴走型支援を活用する」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「出資と実務支援を組み合わせるモデルなど、支援事業者が継続的に伴走する」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「ゼロから体制を作る余裕がなく、資金と実務の両面で支援を受けたい場合」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「「スタートアップスタジオ」と呼ばれる支援モデルには、事業創出そのものを担うもの、共同創業に近い形で関わるもの、出資と実務支援を組み合わせて継続的に伴走するものなど、複数の形態があります」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「TechHouse.Worksのように、出資（資金提供）と実務支援を組み合わせて、事業の立ち上げから運営までを継続的に伴走するモデルもその一例です」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「単発のコンサルティングと異なり、資金面と実務面の両方を長期にわたって支援してもらえる点が特徴で、社内に新規事業の専任チームを一からつくる余裕がない中堅企業にとって、選択肢の一つになり得ます」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「支援モデルによって重視する軸（思想的な相性を重視するか、規模やスピードを重視するかなど）は異なるため、自社の考え方に合う支援先を見極めることが大切です」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「TechHouse.Worksでは、出資と実務支援を組み合わせた伴走型の支援モデルを軸に、中堅企業が推進する新規事業の相談にも応じています」（https://techhouse.works/insights/new-business/what-is-new-business/）
+- 価格・単価：
+  - 「TechHouse.Worksでは、シード〜アーリー期のスタートアップ向けに、最大500万円のマイクロ出資と3か月の伴走トライアルを組み合わせた「Boot Up!」を、アーリー期からEXITまでのスタートアップ向けにスケール支援を行う「Listing On!」を提供しています」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「3. 新規事業開発コンサルティングの費用と効果」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+  - 「3.1. コンサルティング費用の相場観」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+  - 「・戦略コンサル系：月額300万円〜500万円 ・独立系コンサル：月額100万円〜300万円 ・地域密着型コンサル：月額50万円〜100万円」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+  - 「コンサルティング費用の支払い方式には、主に2つのタイプがあります」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+  - 「6.4. 料金体系の比較」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+  - 「A社： ・プロジェクト規模に応じた段階的料金設定 ・月額50万円〜300万円の範囲 ・成功報酬型オプションあり B社： ・地域企業向けの柔軟な料金設定 ・月額30万円〜150万円の範囲 ・補助金活用支援込みのパッケージ提供 C社： ・規模に応じた従量制料金 ・月額100万円〜400万円の範囲 ・システム開発込みの総合支援プラン D社： ・フェーズ別の明確な料金体系 ・月額80万円〜350万円の範囲 ・戦略立案と実行支援の組み合わせ型 E社： ・成果連動型の料金体系 ・月額40万円〜200万円の範囲 ・長期支援割引制度あり」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+  - 「大手ファームなら月100万円以上も普通、独立系や専門特化型の会社なら月20万〜100万円、スキル販売サイトの個人なら1万円を切ることもあります」（https://ecto-con.com/consultingfee/）
+  - 「コンサル料金に差が出る5つの要素」（https://ecto-con.com/consultingfee/）
+  - 「中堅企業向けの新規事業コンサルの場合、年間300万円から1,000万円程度が一般的な相場とされています」（https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/）
+  - 「一方、大手コンサルティングファームに依頼する場合は、年間1,000万円から1億円程度の費用がかかることもあります」（https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/）
+  - 「時間単価型では1時間あたり1万円から3万円程度、固定報酬型では月額30万円から200万円程度が目安となります」（https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/）
+  - 「コンサル会社の規模や支援内容により異なりますが、月額数十万円から数百万円、年間では300万円〜1,000万円程度が一般的です」（https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/）
+  - 「建設業界のDXに強いシステム会社10選【2026年最新】成功事例・選び方・費用相場まで徹底解説」（https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/）
+  - 「月給33万円〜50万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E6%88%A6%E7%95%A5%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+%E5%B7%A5%E5%A0%B4+%E8%A3%BD%E9%80%A0%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 責任の範囲：
+  - 「そのため、既存事業では精度の高い予算管理やKPI管理が重視されますが、新規事業では「小さく試して検証し、方向転換しながら前進する」という進め方が求められます」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「検証を経て仮説の精度が高まったら、事業計画として具体化します」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「事業計画の初期段階では、複数のシナリオ（最小構成での検証から本格展開まで）で投資規模を幅を持って見積もっておくと、資金計画の精度が上がります」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「成功報酬型のメリット： ・初期投資を抑えられる ・成果に応じた適正な費用負担 ・コンサルタントの責任感が高まる 固定報酬型のメリット： ・予算管理がしやすい ・長期的な視点での支援が受けられる ・客観的な提案が期待できる」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+  - 「1. プロジェクトチームの組成 ・社内外の適切な人材配置 ・役割と責任の明確化 ・意思決定プロセスの確立 2. 目標設定とスケジュール策定 ・具体的なKGIとKPIの設定 ・マイルストーンの設定 ・リソース配分計画の策定」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+  - 「自己責任で利用を」（https://ecto-con.com/consultingfee/）
+  - 「費用は大手コンサル会社と比べれば控えめで、ある程度の規模のある中小企業であれば検討しやすく、一定レベルのサポートが保証されているのは大きなメリットと言えるでしょう」（https://ecto-con.com/consultingfee/）
+  - 「M&A 事業者（仲介会社や助言業務を行う会社）、PE ファンド、金融機関といった伴走支援者に、手数料の透明化、利益相反の禁止、経営者保証の解除等、健全な市場環境整備のために必要な事項に留意の上、M&A 後の成長を実現するようなサービスを期待する」（https://afos.co.jp/topics/88）
+  - 「市場調査や競合分析を通じてターゲット市場の規模や成長性、競合動向を分析し、事業の実現可能性を判断することで、投資判断の精度を高めることができます」（https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/）
+  - 「独自のAIツール／ノウハウを活用して仮説検証の精度と速度を高め、さらに独自のWebマーケティング手法を活かしたニーズ探索・顧客開拓により、初期の見込み顧客獲得から学習サイクルの高速化を実現します」（https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/）
+  - 「成果に対する責任範囲の明示」（https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/）
+  - 「プライバシーポリシー/免責事項」（https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/）
+  - 「個人保証ゼロ化」（https://www.funaisoken.co.jp/seminar/146269）
+  - 「求人広告を出しても応募が集まらず、採用単価だけが上がっている製造業の経営者・人事責任者の方」（https://www.funaisoken.co.jp/seminar/146269）
+  - 「低コスト調達と国内品質保証の両立、現地でのISO9001取得まで～」（https://www.funaisoken.co.jp/seminar/146269）
+- 経営判断への置き方：
+  - 「「既存事業だけでは、この先の成長が見込めないかもしれない」「新規事業に挑戦したいが、何から手をつければいいのかわからない」——中堅企業で事業企画や経営企画を担う方から、こうした声を聞く機会が増えています」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「そのため、既存事業では精度の高い予算管理やKPI管理が重視されますが、新規事業では「小さく試して検証し、方向転換しながら前進する」という進め方が求められます」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「新規事業への取り組みは、多くの企業にとって選択肢の一つから必須の経営課題へと位置づけが変わってきています」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「売上規模が数十億円以上の中堅企業では、既存事業で一定の経営基盤があるからこそ、新規事業に投じられるリソース（資金・人材・既存の顧客基盤やブランド力）を一定程度確保しやすいという強みがあります」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「一方で、意思決定のスピードや、失敗を許容する組織文化の醸成が課題になりやすいことも実務上よく指摘される点です」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「社内の人材・予算のみで推進する」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「新規事業が軌道に乗れば、事業ポートフォリオを多角化することで、経営上のリスクを分散させることにつながります」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「そのため、専任のチームを設ける、あるいは既存組織から一定の距離を置いた「出島組織」（本体組織のルールを一部緩和しつつ、新規事業に適した意思決定権限とガバナンスを別途設計する組織形態）を設置する企業も増えています」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「社内予算だけで進める場合と、外部からの出資や融資を組み合わせる場合とで、必要な自己資金の規模も変わってきます」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「新規事業の推進には、専任メンバーだけでなく、既存事業部門からの協力や経営層の意思決定への関与も必要になります」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「特に立ち上げの初期段階では、経営層が定期的に進捗を確認し、必要な判断を素早く行える体制を整えておくことが、事業のスピード感を保つうえで重要です」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「推進体制（専任者・チーム）と、経営層が意思決定に関与するタイミングが明確になっているか」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「長期ビジョン・中期経営計画戦略サイト」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「ビジョン・中期経営計画」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「中期経営計画策定・推進コンサルティング」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+- 大手・競合：
+  - 「競合分析を行い、既に同様のサービスが存在するか、どのような差別化が可能かを確認します」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「大手・中堅企業の具体例と共通ポイント｜タナベコンサルティングの長期ビジョン策定支援」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「大手・中堅企業の具体例と共通ポイント」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「この記事では、大手企業と中堅企業の新規事業で成功した事例を紹介するとともに、成功事例に共通するポイントを解説します」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「【大手企業】新規事業の成功事例4選」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「ここでは、大手企業が手がける新規事業の成功事例を紹介します」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「購入しやすい価格と、専用アプリで大手各社の配送状況を確認できるシステムにより、置き配の普及を後押ししています」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「その後、ボイスタートの事業は株式会社NTTデータに引き継がれ、現在も多くのメディアで紹介されています」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「この記事では、大手企業や中堅企業による新規事業の成功事例を紹介しました」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「ブルーオーシャン戦略で競合ゼロの市場を創る」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「国内大手水産メーカーや地元企業と連携し、外部資金の申請を通じて研究費を確保するとともに、北海道内大学とのネットワークを活用して産・学・官連携による研究体制を構築」（https://chiiki-platform.jp/expert/）
+  - 「・その他：非正規人材の採用/活用、シェアード会社の機能整備、半導体/太陽電池/機能性フィルムなど各種事業戦略/技術戦略に関するコンサルティング、情報セキュリティーなどに関する支援を実施」（https://chiiki-platform.jp/expert/）
+  - 「合同会社デロイトトーマツ シニアコンサルタント」（https://chiiki-platform.jp/expert/）
+  - 「株式会社JTB及び株式会社JTBから委託を受けたPwCコンサルティング合同会社が運営しています」（https://chiiki-platform.jp/expert/）
+  - 「1. 市場調査・分析フェーズ ・市場規模の算出 ・競合分析 ・顧客ニーズの深掘り 2. 戦略立案フェーズ ・事業コンセプトの策定 ・ビジネスモデルの設計 ・収益モデルの構築 3. 実行支援フェーズ ・アクションプランの策定 ・KPIの設定 ・進捗管理とモニタリング」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+- 参入障壁：
+  - 「新規事業専任の人材や過去の経験がすでに社内にある場合」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「不確実性の高い環境で仮説を立て、検証し、判断していく経験は、既存事業の運営だけでは得られにくいスキルです」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「不足する部分を補う選択肢としては、外部コンサルティングの活用に加えて、越境人材（所属組織や業界の枠を越えて他社・他領域で経験を積み、その知見を持ち込む人材）を受け入れる方法もあります」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「もともと資格取得支援のeラーニングサービスが主業務でしたが、そのノウハウを社員教育の分野に活かした形です」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「特に新規事業のような未経験の分野に対応できる人材は、通常の評価では見つけられないこともあるでしょう」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「ベンチャーキャピタルにおいて投資先企業の戦略立案、マーケティング、フィージビリティ・スタディなど多角的な業務を経験後、当社に入社」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「豊富な経験をもとに、マーケティングを軸とした経営戦略の立案、ビジネスモデルの再設計、組織風土改革など、攻守のバランスを重視したコンサルティングを数多く手掛けている」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「当社は生成AIやノーコードツール・SaaS等を活用し、大規模なシステム投資や専門人材を前提としない地に足が着いたDX化を重視」（https://chiiki-platform.jp/expert/）
+  - 「ビジネスモデルも、BtoBからBtoCへと変換するが、未経験のため支援の依頼があった」（https://chiiki-platform.jp/expert/）
+  - 「■支援実績（経験業務より）」（https://chiiki-platform.jp/expert/）
+  - 「多様な現場経験を活かし、課題に応じた柔軟な対応と実行性の高い支援を強みとする」（https://chiiki-platform.jp/expert/）
+  - 「と言われており、特に経験やノウハウが不足する中堅・中小企業にとっては、独力での新規事業立ち上げは困難を伴います」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+  - 「・対象業界での支援実績数 ・コンサルタントの業界経験 ・専門分野における研究や出版実績 ・業界特有の課題解決能力」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+  - 「・担当コンサルタントの経験と実績 ・バックアップ体制の充実度 ・外部専門家とのネットワーク ・品質管理体制」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+  - 「技術者出身のコンサルタントが在籍し、製造業特有の課題に対応できる体制が整っています」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+- 回す体制：
+  - 「スタートアップスタジオ等の伴走型支援を活用する」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「出資と実務支援を組み合わせるモデルなど、支援事業者が継続的に伴走する」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「「スタートアップスタジオ」と呼ばれる支援モデルには、事業創出そのものを担うもの、共同創業に近い形で関わるもの、出資と実務支援を組み合わせて継続的に伴走するものなど、複数の形態があります」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「TechHouse.Worksのように、出資（資金提供）と実務支援を組み合わせて、事業の立ち上げから運営までを継続的に伴走するモデルもその一例です」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「TechHouse.Worksでは、出資と実務支援を組み合わせた伴走型の支援モデルを軸に、中堅企業が推進する新規事業の相談にも応じています」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「新規事業は、市場調査のやり直しや追加の技術検証、業態によっては想定していなかった営業活動や導入支援の発生など、当初の計画にない工数・コストが検証段階で生じやすく、想定していたよりも時間とコストがかかることが少なくありません」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「目安として、初期検証は数週間から数ヶ月程度で進むケースもあれば、本格展開まで含めると事業の複雑さによっては半年から1〜2年程度かかることもあります」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「社内工数の目安」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「一般に、短期の初期検証（PoCまで）と長期の事業化（本格展開まで）とでは必要な期間が大きく異なり、初期検証は数週間から数ヶ月程度で進むケースもあれば、本格展開まで含めると事業の複雑さによっては半年から1〜2年程度かかることもあります」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「TechHouse.Worksでは、シード〜アーリー期のスタートアップ向けに、最大500万円のマイクロ出資と3か月の伴走トライアルを組み合わせた「Boot Up!」を、アーリー期からEXITまでのスタートアップ向けにスケール支援を行う「Listing On!」を提供しています」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「これらはスタートアップ向けの制度であり、中堅企業がそのままBoot Up!やListing On!の対象になるわけではありませんが、出資と実務の両面から継続的に伴走するという同じ考え方に基づき、中堅企業の新規事業についても個別にご相談をお受けしています」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「なお、挑戦する人や組織に伴走するという考え方や、組織変革に関するより深い発信については、」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「建築系中堅企業に対し、営業プロセスへの生成AI導入（資料作成効率化・議事録自動化等）と伴走コンサルティングを同時実施」（https://chiiki-platform.jp/expert/）
+  - 「北海道全域で定期的に対面の打ち合わせを重ねながら、現場が確実に使いこなせる状態になるまで伴走します」（https://chiiki-platform.jp/expert/）
+  - 「中堅・中核企業に対する支援の特徴は、経営者の「WHY（なぜ？）」を起点に、理念・戦略・組織・ブランドを一体的に設計する「協奏経営」アプローチによる、企業の転換点における本質的な変革の伴走」（https://chiiki-platform.jp/expert/）
+- 買い手の規模：
+  - 「新規事業とは？中堅企業が取り組む進め方と成功のポイントをわかりやすく解説 | TechHouse.Works」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「新規事業とは？中堅企業が取り組む進め方と成功のポイントをわかりやすく解説」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「「既存事業だけでは、この先の成長が見込めないかもしれない」「新規事業に挑戦したいが、何から手をつければいいのかわからない」——中堅企業で事業企画や経営企画を担う方から、こうした声を聞く機会が増えています」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「市場環境の変化が速くなるなか、次の一手として新規事業を検討する企業は年々増えており、それは決して大企業だけの話ではありません」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「そこで本記事では、新規事業の基礎知識から、立ち上げの具体的なプロセス、進め方の選択肢、失敗しやすいパターン、業種別の論点まで、中堅企業の担当者が実務で使える情報を体系的に整理します」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「なぜ今、中堅企業に新規事業が求められるのか」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「POC（概念実証）は、アイデアや技術が実現可能かどうかを小規模に検証する取り組みです」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「特に地域に根ざした事業を展開する中堅企業にとっては、既存の商圏・顧客層だけに依存し続けることのリスクが徐々に大きくなっています」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「中小企業庁「中小企業白書（2017年版）」では、2016年度時点で実施された調査をもとに、新事業展開に取り組んだ中小企業のうち「成功した」と自己評価した割合が3割程度にとどまるという分析が示されています（出典：中小企業庁「中小企業白書2017年版」第2部第3章「新事業展開の成否の実態」）」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「経済産業省「中堅・中小企業等向けDX推進の手引き2025」（2025年3月）では、既存の業務データを活用して新たなサービスを開発した事例や、蓄積したデータをもとに新規のシステム開発につなげた事例が紹介されており、デジタル化への取り組みが新規事業のヒントになり得ることが示されています」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「中堅企業ならではの新規事業への期待」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「売上規模が数十億円以上の中堅企業では、既存事業で一定の経営基盤があるからこそ、新規事業に投じられるリソース（資金・人材・既存の顧客基盤やブランド力）を一定程度確保しやすいという強みがあります」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「単発のコンサルティングと異なり、資金面と実務面の両方を長期にわたって支援してもらえる点が特徴で、社内に新規事業の専任チームを一からつくる余裕がない中堅企業にとって、選択肢の一つになり得ます」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「支援モデルによって重視する軸（思想的な相性を重視するか、規模やスピードを重視するかなど）は異なるため、自社の考え方に合う支援先を見極めることが大切です」（https://techhouse.works/insights/new-business/what-is-new-business/）
+  - 「TechHouse.Worksでは、出資と実務支援を組み合わせた伴走型の支援モデルを軸に、中堅企業が推進する新規事業の相談にも応じています」（https://techhouse.works/insights/new-business/what-is-new-business/）
+- 検索結果の抜粋：
+  - 「新規事業 の成功事例8選。大手・ 中堅企業 の具体例と共通 ... — 新規事業 の成功事例8選。大手・ 中堅企業 の具体例と共通 ... タナベコンサルティング https://www.tanabeconsulting.co.jp > TOP > コラム」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「中堅 ・中小 企業 に強い 新規事業 開発コンサル会社5選 — 中堅 ・中小 企業 に強い 新規事業 開発コンサル会社5選 by-independent.com https://by-independent.com > コラム」（https://by-independent.com/column2/consulting-firms-for-new-business-development-top5-2/）
+  - 「新規事業 の成功 事例 8選。大手・ 中堅企業 の具体例と共通 ... — 新規事業 の成功 事例 8選。大手・ 中堅企業 の具体例と共通 ... タナベコンサルティング https://www.tanabeconsulting.co.jp > TOP > コラム」（https://www.tanabeconsulting.co.jp/vision/column/detail189.html）
+  - 「中堅企業 の 新規事業 に強いコンサルティング会社5選【2026年 ... — 中堅企業 の 新規事業 に強いコンサルティング会社5選【2026年 ... 株式会社リレ https://lire.co.jp > ホーム > コラム」（https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/）
+  - 「新規事業の投資判断から撤退基準まで：成功への評価軸と見極め方 - シ... — Jun 22, 2026 · 出典：アビームコンサルティング、パーソル総合研究所 【ケース】データに基づかない投資判断が招いた事業停滞と改善策 架空ケース：感情論で始まった新規事業の末路 ここでは架空のケースとして、データに基づかない投資判断が招いた事業停滞の事例をご紹介します。中堅IT企業であるY社 ...」（https://systeminvest-lab.com/14566/）
+  - 「中堅企業の新規事業に強いコンサルティング会社5選【2026年最新】 - I... — Feb 10, 2026 · 中堅企業の新規事業に強いコンサルティング会社5社を厳選紹介。PoCや仮説検証を重視した選び方、費用相場、リソース配分の最適化まで2026年最新情報で解説。事業化スピードを高める実践的なノウハウを提供します。」（https://by-independent.com/column4/cs-businessdevelopment-smb-top5/）
+  - 「中堅企業の新規事業に強いコンサルティング会社5選【2026年最新】 - ... — Mar 8, 2026 · 中堅企業の新規事業開発に強いコンサル会社5社を厳選比較。費用相場300万〜1,000万円、伴走型支援の選び方、PoC実施から事業化までの進め方を解説。リソース配分と仮説検証で成功確率を高める方法とは。」（https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/）
+  - 「中堅企業の新規事業に強いコンサルティング会社5選【2026年最新】 — Feb 25, 2026 · 中堅企業が新規事業を成功させるには、限られたリソースを最適配分し、事業化スピードを高める専門支援が不可欠です。本記事では、2026年最新のトレンドを踏まえ、テーマ探索から事業計画、PoC実施まで伴走する中堅企業向けコンサルティング会社5社を厳選。投資規模・支援フェーズ・業界 ...」（https://growth-marketing-lab.com/marketing/column4/cs-businessdevelopment-smb-top5/）
+  - 「中堅企業の新規事業に強いコンサルティング会社5選【2026年最新】 — Feb 23, 2026 · 中堅企業が新規事業を成功させるには、限られたリソース配分と既存事業とのバランスが重要です。本記事では、2026年最新の情報をもとに、中堅企業の新規事業開発に特化したコンサルティング会社5選を厳選。テーマ探索から事業計画、PoC、事業化まで一気通貫で支援してくれるコンサル会社 ...」（https://open-insight.net/intersect/column4/cs-businessdevelopment-smb-top5/）
+  - 「Top Business Strategy Consulting Firms in Japan - ClutchTop Consulting Firms in Japan - Nov 2026 Rankings | Clutch.coSHARK CONSULTING - Tokyo-based Enterprise Management ...The Best Strategy Development Companies in Japan - Nov 2026 ...Top 87 Strategy Consulting Companies in Japan (2026) | ensunSmall and Medium Enterprise Consultant | Our supports ...Funai Research Institute Group expands its cons」（https://clutch.co/jp/consulting/strategy-development）
+  - 「Top Consulting Firms in Japan - Nov 2026 Rankings | Clutch.coSHARK CONSULTING - Tokyo-based Enterprise Management ...The Best Strategy Development Companies in Japan - Nov 2026 ...Top 87 Strategy Consulting Companies in Japan (2026) | ensunSmall and Medium Enterprise Consultant | Our supports ...Funai Research Institute Group expands its consulting ... — Midsize Business Consulting and Corporate T」（https://clutch.co/jp/consulting）
+  - 「The Best Strategy Development Companies in Japan - Nov 2026 ...Top 87 Strategy Consulting Companies in Japan (2026) | ensunSmall and Medium Enterprise Consultant | Our supports ...Funai Research Institute Group expands its consulting ... — Midsize Business Consulting and Corporate Training & Coaching company Wilson Learning, is based in Minato City, Japan. The team focuses on Business Consulting a」（https://themanifest.com/jp/business-consulting/strategy-development/firms）
+
+## コンサル成果物のツール化（診断・ベンチマーク）（consulting diagnostics benchmarking tool）
+- 文脈：コンサル
+- 前例・提供企業：
+  - 「経営支援 企業の健康診断ツール「ローカルベンチマーク」 2024/11/02 - すずきビジネスコンサルティング」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「提供サービス」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「ローカルベンチマーク（以下、ロカベン）は、企業の経営者と金融機関、商工会・商工会議所、中小企業診断士等の支援機関がコミュニケーション（対話）を行いながら、経営の現状や課題について分析する際に活用できるツールで、経済産業省が提供しています」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「ロカベンは、認定を受けると税制や金融支援などの優遇措置が受けられる経営力向上計画の申請の際に添付が求められたり、事業計画を策定する際の元資料として利用したりします」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「）には、その企業が最終的に提供している製品やサービスの内容と、それを通してお客様に提供している「価値」について記載します」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「これを記載することで、自社でどのような業務を行っているかを再認識するとともに、それぞれの工程における強みと顧客に提供している価値を確認することができます」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「企業経営支援の側面から見た出版業界 2023/12/28」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「2025/5/18 経営支援アドバイザー2級の資格を取得しました」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「お金の出入りの実績を把握「キャッシュフロー計算書」2024/11/18」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「【コンサルトラブル事例 #1】ベンチマーク調査の注意点－STEP2：進め方編－｜PROFFIT」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「サービスの流れ」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「選定支援事例」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「【コンサルトラブル事例 #1】ベンチマーク調査の注意点－STEP2：進め方編－」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「コンサル活用事例」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「【コンサルトラブル事例①】ベンチマーク調査の注意点－STEP1：依頼準備編－」（https://proffit.jp/column/1/1jdMa6mA）
+- 価格・単価：
+  - 「DX コンサル費用相場 中堅企業向け 5 強比較 2026 | GXO」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「DX コンサル費用相場 中堅企業向け 5 強比較 2026｜年商 30-300 億の伴走型 ROI と選び方」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「DX コンサル選びで「料金は妥当か」「戦略策定だけで終わらず実行まで伴走してくれるか」「ROI をどう測るか」に悩む層に向け、中堅向け 5 タイプ（戦略系／IT 系／業界特化／スタートアップ系／伴走型）を比較し、選定基準と失敗回避策を提示」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「本記事は、中堅企業向け DX コンサル 5 強の費用・サービス内容・適正シーンを比較整理し、自社に合う選び方を解説します」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「1. DXコンサルティングの費用相場｜サービス別一覧」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「50〜200万円」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「100〜500万円」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「月額50〜200万円」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「300〜2,000万円」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「30〜150万円」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「3〜30億円」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「200〜800万円」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「30〜100億円」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「Anthropicは2026年2月に300億ドル（約4.5兆円）の資金調達を実施し、時価総額は3,800億ドルに到達」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「Team Standard席は$25／月／席なので、5名の事務所でも月額125ドル（約2万円）程度で本格的なAI基盤が構築できる計算です」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+- 責任の範囲：
+  - 「：年商 30-300 億・従業員 100-1000 名の中堅企業の経営者／DX 推進部長／情シス責任者」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「想定損害額 × リスク低減率」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「「コンサル専業」ではなく「自ら手を動かせる伴走型 DX パートナー」として、戦略策定だけで終わらせず実行と効果検証まで責任を持ちます」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「要件、見積、責任分界、運用条件を実装前に整理し、必要な範囲の実行まで伴走します」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「1．長文・大量ドキュメント処理の圧倒的な精度」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「医療・法律・金融（YMYL領域）の応答精度が安定しており、専門性の高い業務でも安心して活用できます」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「日本政策金融公庫・信用保証協会向けの融資申込書類、中期経営計画の数値計画、月次・四半期の売上予実差異分析レポートまで、」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「「決定事項」「アクションアイテム」「責任者」「期限」「次回論点」」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「点が個人プランと同じく保証されています」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「外部に漏れれば信用失墜・損害賠償・顧問契約解除に直結する機密情報」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「学習に使用されないことが契約上保証」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「学習対象外（契約保証）」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「コンサルタントは顧問先に対して守秘義務を負っており、入力した情報が漏洩した場合の責任は最終的にコンサルタント側にあります」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「納品物の責任は最終的に人間にあります」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「判断と責任は専門家が担います」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+- 経営判断への置き方：
+  - 「経営支援 企業の健康診断ツール「ローカルベンチマーク」 2024/11/02 - すずきビジネスコンサルティング」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「ローカルベンチマーク（以下、ロカベン）は、企業の経営者と金融機関、商工会・商工会議所、中小企業診断士等の支援機関がコミュニケーション（対話）を行いながら、経営の現状や課題について分析する際に活用できるツールで、経済産業省が提供しています」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「ロカベンは、認定を受けると税制や金融支援などの優遇措置が受けられる経営力向上計画の申請の際に添付が求められたり、事業計画を策定する際の元資料として利用したりします」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「さらに事業承継における経営者と後継者間の現状認識、自社の強みや事業環境の確認、今後の方向性のすり合わせ（対話と理解）のツールとして活用されます」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「企業の定性的な情報として、「経営者」「事業」「企業を取り巻く環境・関係者」「内部管理体制」について分析を行います」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「企業経営支援の側面から見た出版業界 2023/12/28」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「2025/5/18 経営支援アドバイザー2級の資格を取得しました」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「2024/12/26 令和６年度補正予算 ものづくり補助金の概要」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「令和６年度補正予算 小規模事業者持続化補助金の概要 2024/12/23」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「「何を学び、どのように自社に適用するか」「やるべきこと（やらないこと）を意思決定し、迅速に実行する」ことこそが、真の成果」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「ベンチマーク調査の終盤において、最も重要なのは「意思決定」と「アクション」につなげることを意識することです」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「最終報告前のタイミングでは、上長や意思決定者が気にしていることや、関連する部門の想定される反応など、」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「ベンチマーク調査を進めようとするときには、そもそもコンサルに頼むべきか迷っている、どういうコンサルに声掛けをすればいいか分からない、どの程度の予算を想定しておくべきか不安など、お悩みが出てくるかと思います」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「コンサルタントへの依頼費用の目安｜費用対効果を最大化するには？」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「DX コンサル費用相場 中堅企業向け 5 強比較 2026｜年商 30-300 億の伴走型 ROI と選び方」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+- 大手・競合：
+  - 「Co-nnect Inc.」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「「大手 DX コンサルは 1 案件 5,000 万超で手が出ない」「単発の戦略策定で終わらず、実行まで伴走してほしい」「ROI を社内に説明できる根拠が欲しい」――そんな課題に対し、中堅企業の現実的な予算（年 200 万-2000 万）に収まる 5 タイプの DX コンサルを比較し、選定基準・失敗回避策・ROI 測定法を整理する」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「業界調査、競合分析、ベンチマーク」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「大手コンサルファーム」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「大手コンサルファームの費用感」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「Accenture、Deloitte、PwC」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「国内大手コンサル」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「大手コンサルファームは大企業の全社変革には適しますが、中小企業には過剰スペックになりがちです」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「競合ベンチマーク」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「独立開業を目指す診断士の方はもちろん、士業事務所・中小コンサル会社の経営者、大手ファームから独立を検討している方にも参考になる内容です」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「【領域3｜調査研究業務】競合調査・市場調査・ベンチマーク分析」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「ChatGPTしか使っていない競合に対し、Claude Code＋AgentSkill＋MCP連携で業務基盤を組んでいるコンサル会社は、同じ時間で3倍のアウトプットを出せます」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「Claude Code＋Web検索の組み合わせで、競合企業のサービス内容・価格帯・強み弱みを調査し、ポジショニングマップを自動生成できます」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「競合・市場・ベンチマーク」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+  - 「競合・ベンチマーク調査」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+- 参入障壁：
+  - 「ロカベンは、認定を受けると税制や金融支援などの優遇措置が受けられる経営力向上計画の申請の際に添付が求められたり、事業計画を策定する際の元資料として利用したりします」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「2025/5/18 経営支援アドバイザー2級の資格を取得しました」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「カーボンニュートラル・アドバイザーの資格を取得しました」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「会員登録いただきますと」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「会員登録（無料）」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「無料会員登録で」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「ご登録いただくと、」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「企業として登録」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「コンサルとして登録」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「無料会員登録」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「大規模PJの経験が少ない」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「メール登録なしでこのページから記事を保存できます」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「あとからメールアドレスを登録すると、保存した記事のリストをまとめて受け取れます」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「登録だけで営業電話はしません」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「ステップ①：今日やること｜Claude Proに登録して1件だけ処理」（https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/）
+- 回す体制：
+  - 「DX コンサル費用相場 中堅企業向け 5 強比較 2026｜年商 30-300 億の伴走型 ROI と選び方」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「DX コンサル選びで「料金は妥当か」「戦略策定だけで終わらず実行まで伴走してくれるか」「ROI をどう測るか」に悩む層に向け、中堅向け 5 タイプ（戦略系／IT 系／業界特化／スタートアップ系／伴走型）を比較し、選定基準と失敗回避策を提示」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「「大手 DX コンサルは 1 案件 5,000 万超で手が出ない」「単発の戦略策定で終わらず、実行まで伴走してほしい」「ROI を社内に説明できる根拠が欲しい」――そんな課題に対し、中堅企業の現実的な予算（年 200 万-2000 万）に収まる 5 タイプの DX コンサルを比較し、選定基準・失敗回避策・ROI 測定法を整理する」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「6〜24ヶ月」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「3〜12ヶ月」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「1日〜3ヶ月」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「戦略策定+伴走型支援」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「戦略策定+PJ型+伴走」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「システム種別・規模・連携先を選ぶだけで、開発費用・期間・月額運用費の概算をその場で表示します」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「中小企業の実情理解、伴走力」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「月額目安（1名）」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「戦略→設計→開発→運用の一貫対応」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「伴走型支援の典型的な内容」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「削減工数 × 時給 × 12ヶ月」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「500万円（戦略策定200万+伴走型月額25万×12）」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+- 買い手の規模：
+  - 「ローカルベンチマーク（以下、ロカベン）は、企業の経営者と金融機関、商工会・商工会議所、中小企業診断士等の支援機関がコミュニケーション（対話）を行いながら、経営の現状や課題について分析する際に活用できるツールで、経済産業省が提供しています」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「「財務分析」シートは、企業の基本情報と売上高や営業利益等の財務指標を入力します」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「「商号」「所在地」「代表社名」「業種」「従業員数」「資本金」等を入力します」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「決算で作成する損益計算書と貸借対照表から「決算年月」「売上高」「営業利益」「減価償却費」「現金・預金」「受取手形」「売掛金」「棚卸資産」「ス西郷敬」「支払手形」「買掛金」「借入金」「純資産合計」を入力します」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「表示されるのは、「売上増加率」「営業利益率」「労働生産性」「EBITDA有利子負債倍率」「営業運転資本回転期間」「自己資本比率」です」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「には入力した「業種」「従業員数」「資本金」を基にした基準の数値が表示され、それと比較した結果が、「財務分析シート Ver3」にレーダーチャートや総合評価として表示されます」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「令和６年度補正予算 小規模事業者持続化補助金の概要 2024/12/23」（https://www.suzukibc.jp/2024/11/02/localbenchmark/）
+  - 「市場規模とは？調べ方から算出方法・活用の仕方まで解説」（https://proffit.jp/column/1/1jdMa6mA）
+  - 「DX コンサル費用相場 中堅企業向け 5 強比較 2026 | GXO」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「DX コンサル費用相場 中堅企業向け 5 強比較 2026｜年商 30-300 億の伴走型 ROI と選び方」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「想定読者は年商 30-300 億・従業員 100-1000 名の中堅企業の経営者／DX 推進部長」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「：年商 30-300 億・従業員 100-1000 名の中堅企業の経営者／DX 推進部長／情シス責任者」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「「大手 DX コンサルは 1 案件 5,000 万超で手が出ない」「単発の戦略策定で終わらず、実行まで伴走してほしい」「ROI を社内に説明できる根拠が欲しい」――そんな課題に対し、中堅企業の現実的な予算（年 200 万-2000 万）に収まる 5 タイプの DX コンサルを比較し、選定基準・失敗回避策・ROI 測定法を整理する」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「中堅企業 100 件以上の DX 支援知見から導出」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+  - 「本記事は、中堅企業向け DX コンサル 5 強の費用・サービス内容・適正シーンを比較整理し、自社に合う選び方を解説します」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）

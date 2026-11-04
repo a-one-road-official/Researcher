@@ -1,0 +1,1868 @@
+{
+ "name": "コンサル成果物のツール化（診断・ベンチマーク）",
+ "en": "consulting diagnostics benchmarking tool",
+ "aliases": [
+  "経営診断 ツール",
+  "ベンチマーク 診断 サービス",
+  "診断型 コンサル"
+ ],
+ "context": "コンサル",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:15:28.068334+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "経営支援 企業の健康診断ツール「ローカルベンチマーク」 2024/11/02 - すずきビジネスコンサルティング",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "提供サービス",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "ローカルベンチマーク（以下、ロカベン）は、企業の経営者と金融機関、商工会・商工会議所、中小企業診断士等の支援機関がコミュニケーション（対話）を行いながら、経営の現状や課題について分析する際に活用できるツールで、経済産業省が提供しています",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "ロカベンは、認定を受けると税制や金融支援などの優遇措置が受けられる経営力向上計画の申請の際に添付が求められたり、事業計画を策定する際の元資料として利用したりします",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "）には、その企業が最終的に提供している製品やサービスの内容と、それを通してお客様に提供している「価値」について記載します",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "これを記載することで、自社でどのような業務を行っているかを再認識するとともに、それぞれの工程における強みと顧客に提供している価値を確認することができます",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "企業経営支援の側面から見た出版業界 2023/12/28",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "2025/5/18 経営支援アドバイザー2級の資格を取得しました",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "お金の出入りの実績を把握「キャッシュフロー計算書」2024/11/18",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "【コンサルトラブル事例 #1】ベンチマーク調査の注意点－STEP2：進め方編－｜PROFFIT",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "選定支援事例",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "【コンサルトラブル事例 #1】ベンチマーク調査の注意点－STEP2：進め方編－",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "コンサル活用事例",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "【コンサルトラブル事例①】ベンチマーク調査の注意点－STEP1：依頼準備編－",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチマーク調査を成功に導いた企業の事例を踏まえ、プロジェクト開始、中盤、終盤それぞれのチェックポイントについてご紹介します",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "状況の違いを無視して成功事例だけを真似るのではなく、",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "PROFFITでは、コンサルタント別の得意なテーマ、過去の提案金額のデータベースを保有しており、コンサル選定支援の専門家が、依頼事項の整理から提案募集まで無料でご支援いたします",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "「今すぐ使える！」にこだわって、コンサル活用の注意点やポイントを提供していきます",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "人気の選定支援事例",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "2030年のビジョン実現に向けた新規事業展開領域検討支援",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "ECビジネスの拡販施策検討支援（施策検討・KPI設計・PDCA支援）",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "BtoBプラットフォームビジネスの立ち上げ支援",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "選定支援事例をもっと見る",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "支援の進み方",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業 100 件以上の DX 支援知見から導出",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、中堅企業向け DX コンサル 5 強の費用・サービス内容・適正シーンを比較整理し、自社に合う選び方を解説します",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "DXコンサルティングの費用相場｜サービス別一覧",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "DXコンサルティングのサービス内容と成果物",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "1. DXコンサルティングの費用相場｜サービス別一覧",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "サービス別の費用一覧",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "サービス内容",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "定期ミーティング、プロジェクト管理、技術支援",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクト型（実行支援）",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "推奨サービス",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "DX診断+スポット支援",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "戦略策定+伴走型支援",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "まずはDX診断（50〜200万円）で現状を把握し、必要な支援を特定するのが賢明なアプローチです",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "新事業進出・ものづくり商業サービス補助金（新事業進出枠）",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "新事業進出・ものづくり商業サービス補助金（革新的新製品・サービス枠、グローバル枠）",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 躍進的な設備投資支援事業",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "早期経営改善計画策定支援",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画書作成、補助金申請支援、財務分析、議事録整理、顧客向けレポート作成——これまで属人化・長時間化していた知的生産業務の多くが、AgentSkillという「再現可能な業務資産」として社内に蓄積できる時代になりました",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士・経営コンサルタントの業務全領域（経営支援・書類作成・調査研究・講演/教育訓練・公的業務）における具体的な活用シーン",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【領域1｜経営支援業務】経営診断・経営改善の基礎分析",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【領域1｜経営支援業務】事業計画・経営計画・予実管理の作成支援",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【領域1｜経営支援業務】販路開拓・マーケティング支援",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【領域1｜経営支援業務】資金繰り・財務・融資支援",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【領域1｜経営支援業務】事業承継・M&A支援",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【領域1｜経営支援業務】人事・組織・労務支援",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【領域1｜経営支援業務】生産管理・業務改善・DX支援",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【領域1｜経営支援業務】創業・起業支援",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "Claudeで中小企業の経営支援を、一緒に",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 売上UP研究所 営業力を科学する売上UP研究会",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 売上UP研究所 会社案内",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "売上UPと新規顧客開拓を実現した営業力強化コンサルティングの成功事例",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "営業力診断アンケートによる営業力強化事例",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルマーケティングによる販促・営業事例",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "経営支援 企業の健康診断ツール「ローカルベンチマーク」 2024/11/02 - すずきビジネスコンサルティング",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "ローカルベンチマーク（以下、ロカベン）は、企業の経営者と金融機関、商工会・商工会議所、中小企業診断士等の支援機関がコミュニケーション（対話）を行いながら、経営の現状や課題について分析する際に活用できるツールで、経済産業省が提供しています",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "ロカベンは、認定を受けると税制や金融支援などの優遇措置が受けられる経営力向上計画の申請の際に添付が求められたり、事業計画を策定する際の元資料として利用したりします",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに事業承継における経営者と後継者間の現状認識、自社の強みや事業環境の確認、今後の方向性のすり合わせ（対話と理解）のツールとして活用されます",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の定性的な情報として、「経営者」「事業」「企業を取り巻く環境・関係者」「内部管理体制」について分析を行います",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "企業経営支援の側面から見た出版業界 2023/12/28",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "2025/5/18 経営支援アドバイザー2級の資格を取得しました",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "2024/12/26 令和６年度補正予算 ものづくり補助金の概要",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "令和６年度補正予算 小規模事業者持続化補助金の概要 2024/12/23",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "「何を学び、どのように自社に適用するか」「やるべきこと（やらないこと）を意思決定し、迅速に実行する」ことこそが、真の成果",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチマーク調査の終盤において、最も重要なのは「意思決定」と「アクション」につなげることを意識することです",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "最終報告前のタイミングでは、上長や意思決定者が気にしていることや、関連する部門の想定される反応など、",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチマーク調査を進めようとするときには、そもそもコンサルに頼むべきか迷っている、どういうコンサルに声掛けをすればいいか分からない、どの程度の予算を想定しておくべきか不安など、お悩みが出てくるかと思います",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタントへの依頼費用の目安｜費用対効果を最大化するには？",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "DX コンサル費用相場 中堅企業向け 5 強比較 2026｜年商 30-300 億の伴走型 ROI と選び方",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "想定読者は年商 30-300 億・従業員 100-1000 名の中堅企業の経営者／DX 推進部長",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "DX コンサル選びで「料金は妥当か」「戦略策定だけで終わらず実行まで伴走してくれるか」「ROI をどう測るか」に悩む層に向け、中堅向け 5 タイプ（戦略系／IT 系／業界特化／スタートアップ系／伴走型）を比較し、選定基準と失敗回避策を提示",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "：年商 30-300 億・従業員 100-1000 名の中堅企業の経営者／DX 推進部長／情シス責任者",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "「大手 DX コンサルは 1 案件 5,000 万超で手が出ない」「単発の戦略策定で終わらず、実行まで伴走してほしい」「ROI を社内に説明できる根拠が欲しい」――そんな課題に対し、中堅企業の現実的な予算（年 200 万-2000 万）に収まる 5 タイプの DX コンサルを比較し、選定基準・失敗回避策・ROI 測定法を整理する",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "中堅クラスでは「成果が出ない原因」が予算より「コンサル選定ミス」「実行体制不在」に集中する傾向があります",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "ROI（投資対効果）の測定方法",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別の予算目安",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "年間予算目安",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "経営層向け報告書、研修資料",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "データの蓄積・活用状況、データドリブン経営の成熟度",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "経営層への報告、KPIレビュー、計画修正",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "4. ROI（投資対効果）の測定方法",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "DXコンサルのROI算出式",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "ROI ＝（DXによる年間効果 − 年間投資額）÷ 年間投資額 × 100",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 経営力強化に向けた創意工夫チャレンジ促進事業（業務改善コース）",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 経営力強化に向けた創意工夫チャレンジ促進事業（賃上げ重点コース）",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 経営力強化に向けた創意工夫チャレンジ促進事業（新市場・新分野進出コース）",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサル",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "早期経営改善計画策定支援",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "経営関連資料",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】中小企業診断士・経営コンサルタントのためのClaude／Claude Code完全活用ガイド｜業務全領域・情報漏洩対策・今すぐ始める4ステップ",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "特に経営コンサルタント・中小企業診断士にとって、",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士・経営コンサルタントの業務全領域（経営支援・書類作成・調査研究・講演/教育訓練・公的業務）における具体的な活用シーン",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "独立開業を目指す診断士の方はもちろん、士業事務所・中小コンサル会社の経営者、大手ファームから独立を検討している方にも参考になる内容です",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルタント・中小企業診断士がClaude／Claude Codeを活用すべき7つの理由",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "6．補助金事業計画書・経営革新計画など申請系業務との親和性",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【領域1｜経営支援業務】経営診断・経営改善の基礎分析",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【領域1｜経営支援業務】事業計画・経営計画・予実管理の作成支援",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【領域1｜経営支援業務】販路開拓・マーケティング支援",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "ロカベンは、企業と支援者（中小企業診断士、支援機関、金融機関）が対話を行いながら、企業の経営状態の把握、いわゆる「企業の健康診断」を行う優れたツールです",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "今後の研究活動の参考にさせていただくため、経営支援活動での困りごとをご記入ください",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "ロカベンは、認定を受けると税制や金融支援などの優遇措置が受けられる経営力向上計画の申請の際に添付が求められたり、事業計画を策定する際の元資料として利用したりします",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "2025/5/18 経営支援アドバイザー2級の資格を取得しました",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンニュートラル・アドバイザーの資格を取得しました",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "会員登録いただきますと",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "会員登録（無料）",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "無料会員登録で",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "ご登録いただくと、",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "企業として登録",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルとして登録",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "無料会員登録",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "大規模PJの経験が少ない",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "メール登録なしでこのページから記事を保存できます",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "あとからメールアドレスを登録すると、保存した記事のリストをまとめて受け取れます",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "登録だけで営業電話はしません",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ①：今日やること｜Claude Proに登録して1件だけ処理",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "ファイルやナレッジを登録してプロジェクト単位で会話を継続",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "認定経営革新等支援機関としての早期経営改善計画策定支援、経営改善計画策定支援（405事業）、事業再生計画の骨子作成にも活用可能です",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の採択・不採択事例をナレッジとしてClaudeに登録しておけば、",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "経営診断書・経営改善書・事業性評価シート・認定支援機関確認書・産業廃棄物許可申請に伴う経営診断書",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "書類のフォーマット・必要項目・参考事例をProjectsに登録しておけば、案件ごとにゼロから考えずに高品質な初稿を生成できます",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士の場合、多くの方が資格取得を副業として並行で進めているため、",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "資格取得後にすぐ実践できる準備を、今この瞬間から始めておく",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "に登録します",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "登録直後にやるべき具体的な作業は次の通りです",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "Projects機能を使って自分の業務ナレッジを1つ登録",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "：過去の類似資料・テンプレート・参考文書・顧問先の基本情報などをProjectsに登録",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士試験の二次試験・口述試験を経て資格取得された方の多くは、",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "資格取得後にすぐ実践に移りたい",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "資格取得前の学習期間中からClaude Proに触れておき、資格取得後すぐにAgentSkill整備・Claude Code運用に移行できる状態を作っておくことを推奨します",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、営業の知識・経験が少ない支援者にとっては、売上UPに向けた課題を見つけづらく、「売上UPへの改善提案につなげられない」という金融機関などの指摘を受けることが多いようです",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "営業の知識・経験が少ない支援者にも売上UPのヒントが見つかる",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "事前準備段階では、営業の知識・経験が少ない支援者に向けて、まず営業活動が盛りこまれた業務フローをイメージできるように、製造業、卸売業など主要業種での",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "ツール２のように営業活動を業務フローに取り込んでいくためのヒアリングに際して、営業の知識・経験が少ない支援者が掘り下げた質問ができるように、具体的なヒアリング項目として「営業力深掘り質問リスト」を用意しました",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "ローカルベンチマーク（以下、ロカベン）は、企業の経営者と金融機関、商工会・商工会議所、中小企業診断士等の支援機関がコミュニケーション（対話）を行いながら、経営の現状や課題について分析する際に活用できるツールで、経済産業省が提供しています",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "「財務分析」シートは、企業の基本情報と売上高や営業利益等の財務指標を入力します",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "「商号」「所在地」「代表社名」「業種」「従業員数」「資本金」等を入力します",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "決算で作成する損益計算書と貸借対照表から「決算年月」「売上高」「営業利益」「減価償却費」「現金・預金」「受取手形」「売掛金」「棚卸資産」「ス西郷敬」「支払手形」「買掛金」「借入金」「純資産合計」を入力します",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "表示されるのは、「売上増加率」「営業利益率」「労働生産性」「EBITDA有利子負債倍率」「営業運転資本回転期間」「自己資本比率」です",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "には入力した「業種」「従業員数」「資本金」を基にした基準の数値が表示され、それと比較した結果が、「財務分析シート Ver3」にレーダーチャートや総合評価として表示されます",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "令和６年度補正予算 小規模事業者持続化補助金の概要 2024/12/23",
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模とは？調べ方から算出方法・活用の仕方まで解説",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "DX コンサル費用相場 中堅企業向け 5 強比較 2026 | GXO",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "DX コンサル費用相場 中堅企業向け 5 強比較 2026｜年商 30-300 億の伴走型 ROI と選び方",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "想定読者は年商 30-300 億・従業員 100-1000 名の中堅企業の経営者／DX 推進部長",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "：年商 30-300 億・従業員 100-1000 名の中堅企業の経営者／DX 推進部長／情シス責任者",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "「大手 DX コンサルは 1 案件 5,000 万超で手が出ない」「単発の戦略策定で終わらず、実行まで伴走してほしい」「ROI を社内に説明できる根拠が欲しい」――そんな課題に対し、中堅企業の現実的な予算（年 200 万-2000 万）に収まる 5 タイプの DX コンサルを比較し、選定基準・失敗回避策・ROI 測定法を整理する",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業 100 件以上の DX 支援知見から導出",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、中堅企業向け DX コンサル 5 強の費用・サービス内容・適正シーンを比較整理し、自社に合う選び方を解説します",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別の予算目安",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "システム種別・規模・連携先を選ぶだけで、開発費用・期間・月額運用費の概算をその場で表示します",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "ブランド力、大規模PJ実績、グローバル知見",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "大企業、全社変革",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業特化型コンサル",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の実情理解、伴走力",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "大規模PJの経験が少ない",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業、地方企業",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "小規模事業者持続化補助金",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模成長投資補助金",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士・行政書士の仲間達へ",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】中小企業診断士・経営コンサルタントのためのClaude／Claude Code完全活用ガイド｜業務全領域・情報漏洩対策・今すぐ始める4ステップ",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "特に経営コンサルタント・中小企業診断士にとって、",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士・経営コンサルタントの業務全領域（経営支援・書類作成・調査研究・講演/教育訓練・公的業務）における具体的な活用シーン",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルタント・中小企業診断士がClaude／Claude Codeを活用すべき7つの理由",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ｜経営コンサルタント・中小企業診断士がClaude／Claude Codeを活用すべき5つのポイント",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "Claudeで中小企業の経営支援を、一緒に",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "｜中小企業診断士・行政書士パートナー募集",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを武器に、中小企業の未来に伴走する仲間を募集しています",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "年間売上も約140億ドル規模に達しました",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁の調査機関がまとめた「令和6年度 生成AIを活用した診断業務の効率化と付加価値化に向けた支援マニュアル」においても、中小企業診断士に対して生成AIを活用した伴走型支援を提供する役割が明確に期待されています",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "数ある生成AIツールの中で、Claudeが経営コンサルタント・中小企業診断士の業務に特に適している理由は3つあります",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "Claudeは、米国Anthropic社が開発した大規模言語モデル（LLM）です",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "ローカルベンチマーク活用・営業力強化掘り下げキットのご案内（無料） - 売上UP研究所 / 営業力を科学する売上UP研究会",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 売上UP研究所 営業力を科学する売上UP研究会",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "売上UP研究所・研究会について",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 売上UP研究所 会社案内",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "営業力を科学する売上UP研究会紹介",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "売上UPと新規顧客開拓を実現した営業力強化コンサルティングの成功事例",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "売上UPコラム（ブログ）",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "売上UP通信（無料メールマガジン）の購読案内",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "売上UPを実現するための「営業力強化の基本と手法」",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "近代中小企業2023年6月号 製造業の値上げ交渉実践法",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "企業診断 2019年10月号 売上アップ！中小企業とコンサルタントのための営業力強化支援",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "ロカベンを活用して売上UPを目指す！",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "営業力強化掘り下げキットで売上UP！",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "ロカベンは、企業と支援者（中小企業診断士、支援機関、金融機関）が対話を行いながら、企業の経営状態の把握、いわゆる「企業の健康診断」を行う優れたツールです",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、営業の知識・経験が少ない支援者にとっては、売上UPに向けた課題を見つけづらく、「売上UPへの改善提案につなげられない」という金融機関などの指摘を受けることが多いようです",
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "Co-nnect Inc.",
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "pass": 3
+   },
+   {
+    "quote": "「大手 DX コンサルは 1 案件 5,000 万超で手が出ない」「単発の戦略策定で終わらず、実行まで伴走してほしい」「ROI を社内に説明できる根拠が欲しい」――そんな課題に対し、中堅企業の現実的な予算（年 200 万-2000 万）に収まる 5 タイプの DX コンサルを比較し、選定基準・失敗回避策・ROI 測定法を整理する",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "業界調査、競合分析、ベンチマーク",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルファーム",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルファームの費用感",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Accenture、Deloitte、PwC",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "国内大手コンサル",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルファームは大企業の全社変革には適しますが、中小企業には過剰スペックになりがちです",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "競合ベンチマーク",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "独立開業を目指す診断士の方はもちろん、士業事務所・中小コンサル会社の経営者、大手ファームから独立を検討している方にも参考になる内容です",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【領域3｜調査研究業務】競合調査・市場調査・ベンチマーク分析",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTしか使っていない競合に対し、Claude Code＋AgentSkill＋MCP連携で業務基盤を組んでいるコンサル会社は、同じ時間で3倍のアウトプットを出せます",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "Claude Code＋Web検索の組み合わせで、競合企業のサービス内容・価格帯・強み弱みを調査し、ポジショニングマップを自動生成できます",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "競合・市場・ベンチマーク",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "競合・ベンチマーク調査",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画書の作成、競合調査・市場調査、業務のマニュアル化など、コンサルタント業務の中核がAIでシステム化されています",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【令和8年（2026年）11月第1週】今週のAIニュース｜Anthropic上場申請・大手4社決算・GPT-6.1 Terra・NY州チャットボット法で「AIの収支」が焦点に",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "DX コンサル費用相場 中堅企業向け 5 強比較 2026 | GXO",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "DX コンサル費用相場 中堅企業向け 5 強比較 2026｜年商 30-300 億の伴走型 ROI と選び方",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "DX コンサル選びで「料金は妥当か」「戦略策定だけで終わらず実行まで伴走してくれるか」「ROI をどう測るか」に悩む層に向け、中堅向け 5 タイプ（戦略系／IT 系／業界特化／スタートアップ系／伴走型）を比較し、選定基準と失敗回避策を提示",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、中堅企業向け DX コンサル 5 強の費用・サービス内容・適正シーンを比較整理し、自社に合う選び方を解説します",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "1. DXコンサルティングの費用相場｜サービス別一覧",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "50〜200万円",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "100〜500万円",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "月額50〜200万円",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "300〜2,000万円",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "30〜150万円",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "3〜30億円",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "200〜800万円",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "30〜100億円",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropicは2026年2月に300億ドル（約4.5兆円）の資金調達を実施し、時価総額は3,800億ドルに到達",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "Team Standard席は$25／月／席なので、5名の事務所でも月額125ドル（約2万円）程度で本格的なAI基盤が構築できる計算です",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "Standardが月額換算で約4,000円／席、Premiumが約2万円／席程度の負担感です",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "大型補助金100件以上の申請支援と1.5億円以上の採択実績から得られた",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "事業再構築補助金、ものづくり補助金、小規模事業者持続化補助金、新事業進出補助金、省力化投資補助金（一般型）などを中心に、累計の補助金採択総額は16億円、大型補助金100件以上の支援実績を有する",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "：年商 30-300 億・従業員 100-1000 名の中堅企業の経営者／DX 推進部長／情シス責任者",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "想定損害額 × リスク低減率",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "「コンサル専業」ではなく「自ら手を動かせる伴走型 DX パートナー」として、戦略策定だけで終わらせず実行と効果検証まで責任を持ちます",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "要件、見積、責任分界、運用条件を実装前に整理し、必要な範囲の実行まで伴走します",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "1．長文・大量ドキュメント処理の圧倒的な精度",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "医療・法律・金融（YMYL領域）の応答精度が安定しており、専門性の高い業務でも安心して活用できます",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政策金融公庫・信用保証協会向けの融資申込書類、中期経営計画の数値計画、月次・四半期の売上予実差異分析レポートまで、",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "「決定事項」「アクションアイテム」「責任者」「期限」「次回論点」",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "点が個人プランと同じく保証されています",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "外部に漏れれば信用失墜・損害賠償・顧問契約解除に直結する機密情報",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "学習に使用されないことが契約上保証",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "学習対象外（契約保証）",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタントは顧問先に対して守秘義務を負っており、入力した情報が漏洩した場合の責任は最終的にコンサルタント側にあります",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "納品物の責任は最終的に人間にあります",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "判断と責任は専門家が担います",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "（学習除外が契約保証されるTeam以上が原則）",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "Claude Team・Enterpriseプランでは、入力データが学習に使われないことが契約上保証",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "AIは「叩き台を作るパートナー」であり、最終判断と責任は専門家が担う——この原則を守る限り、ハルシネーションは制御可能なリスクです",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "【令和8年（2026年）9月第4週】今週のAIニュース｜OpenAIエージェント脱走・ペンタゴン判決・Copilot Autopilot・SalesBleedで「AIの管理責任」が経営課題へ",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "DX コンサル費用相場 中堅企業向け 5 強比較 2026｜年商 30-300 億の伴走型 ROI と選び方",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "DX コンサル選びで「料金は妥当か」「戦略策定だけで終わらず実行まで伴走してくれるか」「ROI をどう測るか」に悩む層に向け、中堅向け 5 タイプ（戦略系／IT 系／業界特化／スタートアップ系／伴走型）を比較し、選定基準と失敗回避策を提示",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "「大手 DX コンサルは 1 案件 5,000 万超で手が出ない」「単発の戦略策定で終わらず、実行まで伴走してほしい」「ROI を社内に説明できる根拠が欲しい」――そんな課題に対し、中堅企業の現実的な予算（年 200 万-2000 万）に収まる 5 タイプの DX コンサルを比較し、選定基準・失敗回避策・ROI 測定法を整理する",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "6〜24ヶ月",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "3〜12ヶ月",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "1日〜3ヶ月",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "戦略策定+伴走型支援",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "戦略策定+PJ型+伴走",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "システム種別・規模・連携先を選ぶだけで、開発費用・期間・月額運用費の概算をその場で表示します",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の実情理解、伴走力",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "月額目安（1名）",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "戦略→設計→開発→運用の一貫対応",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "伴走型支援の典型的な内容",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "削減工数 × 時給 × 12ヶ月",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "500万円（戦略策定200万+伴走型月額25万×12）",
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ④：3か月目以降｜Claude Codeに挑戦して業務基盤を構築",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを武器に、中小企業の未来に伴走する仲間を募集しています",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁の調査機関がまとめた「令和6年度 生成AIを活用した診断業務の効率化と付加価値化に向けた支援マニュアル」においても、中小企業診断士に対して生成AIを活用した伴走型支援を提供する役割が明確に期待されています",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "Webマーケティング領域ではSEOキーワード設計、記事企画、広告運用レポート分析まで対応可能で、診断士がWeb領域に弱くても顧問先に十分な価値提供ができるようになります",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "など、主要な補助金のほぼすべてでAgentSkillを組み込んだ運用を行っています",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "法務専門家（弁護士・行政書士）による最終確認は必須ですが、初期スクリーニングの工数を大幅に削減できます",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "壱市コンサルティングでは、補助金制度の解説記事を生成するAgentSkill「blog-article-generator」を運用しており、公募要領URLを渡すだけで1万字規模のWordPress HTML記事が自動生成されます",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "プラン選択と運用ルールで相当程度まで制御できる",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "運用ルールの徹底が必須です",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "ための運用原則でもあります",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "特に補助金の公募要領は頻繁に改訂されるため、AIの出力を鵜呑みにせず、常に最新の公募要領と突き合わせる運用が必須です",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "最初の2〜3か月は、",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "ここで土台ができれば、以降は新機能が出るたびに自分の業務にどう取り込むかをアジャストしていく、という持続可能な運用に入れます",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "AgentSkillを2〜3個運用できるようになったら、3か月目以降は",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   },
+   {
+    "quote": "資格取得前の学習期間中からClaude Proに触れておき、資格取得後すぐにAgentSkill整備・Claude Code運用に移行できる状態を作っておくことを推奨します",
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://proffit.jp/column/1/cLrmKFcQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meguli.jp/media/dx-consulting-deliverables",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ubsecure.jp/in-house/web-diagnostic-result-evaluation-consulting-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/economy/keiei_innovation/sangyokinyu/locaben/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/consultings-deliverable-free-now-so-what-you-paying-axel-tombereau-wuxce?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tryeting.jp/column/2430/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lemonshark.jp/lp/gyomu-koritsu-consul-ryokin-b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mirai-works.co.jp/business-pro/business-column/b39_consultant_hiyou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_394",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://proffit.jp/column/1/LZ5ywGRJ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://orbit-m.co.jp/column/web-marketing/cost-of-web-consulting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proffit.jp/column/1/1jdMa6mA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gartner.co.jp/ja/newsroom/press-releases/pr-20260605-consulting-survey",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://myajo.net/tips/24525/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-up.jp/salesforce-handbook1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachiconsulting.co.jp/solution/smtmanufact/manufacturing_industry_afterservice/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/solution/maker_diagnosis_809_S111",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ast-c.co.jp/consulting/check.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tanabeconsulting.co.jp/dx/digitalinsight/column/detail86.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pro-d-use.jp/blog/selected-8-consulting-firms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nec-nexs.com/sl/smart_factory/concierge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.speedtest.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/networking/comments/39a78t/is_speedtestnet_reliable/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/speedtest/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.digitalocean.com/community/questions/how-to-test-digitalocean-speed-and-ping-now",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digitalocean.com/community/tutorials/claude-code-mcp-server",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/homelab/comments/18dw5bk/speed_test_site_for_2gbps/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Terraria",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.steampowered.com/app/105600/Terraria/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arcadino.com/game/terraria/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terraria.org/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://terraria.wiki.gg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.miniplay.com/game/terraria",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/blog/exchange/released-september-2026-exchange-server-security-updates/4554411",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/blog/exchange/released-october-2026-exchange-server-security-updates/4563014",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-gb/contactus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/ICF_International",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pbconsulting.us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yelp.com/search?cflt=businessconsulting&find_loc=Reston,+VA",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "コンサル成果物のツール化（診断・ベンチマーク）",
+   "results": [
+    "https://proffit.jp/column/1/cLrmKFcQ",
+    "https://www.meguli.jp/media/dx-consulting-deliverables",
+    "https://www.ubsecure.jp/in-house/web-diagnostic-result-evaluation-consulting-services",
+    "https://www.suzukibc.jp/2024/11/02/localbenchmark/",
+    "https://www.meti.go.jp/policy/economy/keiei_innovation/sangyokinyu/locaben/",
+    "https://jp.linkedin.com/pulse/consultings-deliverable-free-now-so-what-you-paying-axel-tombereau-wuxce?tl=ja",
+    "https://thelab.center/ja/biz-model-consulting",
+    "https://www.salesforce.com/jp/blog/jp-benchmark/",
+    "https://www.seamark.co.jp/service/consulting"
+   ]
+  },
+  {
+   "query": "コンサル成果物のツール化（診断・ベンチマーク） 費用 相場",
+   "results": [
+    "https://www.tryeting.jp/column/2430/",
+    "https://lemonshark.jp/lp/gyomu-koritsu-consul-ryokin-b",
+    "https://mirai-works.co.jp/business-pro/business-column/b39_consultant_hiyou/",
+    "https://professional.mynavi.jp/magazine/magazine_394",
+    "https://proffit.jp/column/1/LZ5ywGRJ",
+    "https://orbit-m.co.jp/column/web-marketing/cost-of-web-consulting/",
+    "https://ecto-con.com/consultingfee/",
+    "https://mieru-ca.com/blog/webconsulting-marketprice/",
+    "https://biz.moneyforward.com/work-efficiency/basic/20888/",
+    "https://www.bing.com/profile/history"
+   ]
+  },
+  {
+   "query": "コンサル成果物のツール化（診断・ベンチマーク） 事例 中堅企業",
+   "results": [
+    "https://proffit.jp/column/1/1jdMa6mA",
+    "https://www.gartner.co.jp/ja/newsroom/press-releases/pr-20260605-consulting-survey",
+    "https://gxo.co.jp/column/dx-consulting-cost-service-comparison",
+    "https://www.meti.go.jp/policy/economy/keiei_innovation/sangyokinyu/locaben/",
+    "https://myajo.net/tips/24525/",
+    "https://www.11consul.com/2026/04/21/claude%EF%BC%8Fclaude-code/",
+    "https://sales-up.jp/salesforce-handbook1",
+    "https://lire.co.jp/media-bizdev/column4/cs-businessdevelopment-smb-top5/",
+    "https://www.salesforce.com/jp/blog/jp-benchmark/",
+    "https://www.facebook.com/"
+   ]
+  },
+  {
+   "query": "コンサル成果物のツール化（診断・ベンチマーク） 工場 製造業",
+   "results": [
+    "https://www.hitachiconsulting.co.jp/solution/smtmanufact/manufacturing_industry_afterservice/index.html",
+    "https://www.funaisoken.co.jp/solution/maker_diagnosis_809_S111",
+    "https://www.ast-c.co.jp/consulting/check.html",
+    "https://www.tanabeconsulting.co.jp/dx/digitalinsight/column/detail86.html",
+    "https://pro-d-use.jp/blog/selected-8-consulting-firms/",
+    "https://www.nec-nexs.com/sl/smart_factory/concierge/",
+    "https://www.g-f-consulting.com/",
+    "https://www.leitz.org/ja/services/consulting-process-optimization",
+    "https://www.metasmartfactory.com/ja/%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9",
+    "https://www.victoriassecret.com/"
+   ]
+  },
+  {
+   "query": "コンサル成果物のツール化（診断・ベンチマーク） 責任 範囲 免責",
+   "results": [
+    "https://www.speedtest.net/",
+    "https://www.reddit.com/r/networking/comments/39a78t/is_speedtestnet_reliable/",
+    "https://www.reddit.com/r/speedtest/",
+    "https://www.digitalocean.com/community/questions/how-to-test-digitalocean-speed-and-ping-now",
+    "https://www.digitalocean.com/community/tutorials/claude-code-mcp-server",
+    "https://www.reddit.com/r/homelab/comments/18dw5bk/speed_test_site_for_2gbps/",
+    "https://www.reddit.com/r/HomeNetworking/comments/sq5o8x/speedtestnet_difference_between_app_and_web/",
+    "https://www.reddit.com/r/techsupport/comments/y4edc9/download_speeds_on_steam_are_much_slower_than/",
+    "https://www.reddit.com/r/PFSENSE/comments/w9lama/what_is_the_best_way_to_test_bandwidth_speed/",
+    "https://www.reddit.com/r/InternetPH/comments/14fulyy/is_google_speedtest_legit_or_ookla_id_just_bias/"
+   ]
+  },
+  {
+   "query": "コンサル成果物のツール化（診断・ベンチマーク） 経営判断 損失額",
+   "results": [
+    "https://en.wikipedia.org/wiki/Terraria",
+    "https://store.steampowered.com/app/105600/Terraria/",
+    "https://arcadino.com/game/terraria/",
+    "https://www.terraria.org/",
+    "https://terraria.wiki.gg/",
+    "https://www.miniplay.com/game/terraria",
+    "https://www.gamepix.com/play/terraria"
+   ]
+  },
+  {
+   "query": "コンサル成果物のツール化（診断・ベンチマーク） スタートアップ",
+   "results": [
+    "https://www.microsoft.com/en-us/",
+    "https://techcommunity.microsoft.com/blog/exchange/released-september-2026-exchange-server-security-updates/4554411",
+    "https://techcommunity.microsoft.com/blog/exchange/released-october-2026-exchange-server-security-updates/4563014",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
+    "https://support.microsoft.com/en-us/forms/sign-in-to-microsoft-forms",
+    "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram",
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139"
+   ]
+  },
+  {
+   "query": "consulting diagnostics benchmarking tool",
+   "results": [
+    "https://en.wikipedia.org/wiki/ICF_International",
+    "https://www.pbconsulting.us/",
+    "https://www.yelp.com/search?cflt=businessconsulting&find_loc=Reston,+VA",
+    "https://clutch.co/consulting/virginia",
+    "https://www.assured-consulting.com/company",
+    "https://www.merriam-webster.com/dictionary/consulting",
+    "https://www.actualizeconsulting.com/",
+    "https://redteamconsulting.com/",
+    "https://evokeconsulting.com/",
+    "https://www.synergybis.com/"
+   ]
+  },
+  {
+   "query": "consulting diagnostics benchmarking tool startup pricing",
+   "results": [
+    "https://en.wikipedia.org/wiki/ICF_International",
+    "https://www.pbconsulting.us/",
+    "https://www.yelp.com/search?cflt=businessconsulting&find_loc=Reston,+VA",
+    "https://clutch.co/consulting/virginia",
+    "https://www.assured-consulting.com/company",
+    "https://www.merriam-webster.com/dictionary/consulting",
+    "https://www.actualizeconsulting.com/",
+    "https://redteamconsulting.com/",
+    "https://evokeconsulting.com/",
+    "https://www.synergybis.com/"
+   ]
+  },
+  {
+   "query": "site:note.com コンサル成果物のツール化（診断・ベンチマーク）",
+   "results": [
+    "https://careers.usnews.com/companies/rankings/best-companies",
+    "https://www.usnews.com/",
+    "https://www.usnews.com/news",
+    "https://health.usnews.com/health-news/best-childrens-hospitals/slideshows/best-childrens-hospitals-honor-roll",
+    "https://health.usnews.com/best-nursing-homes/area/nj",
+    "https://careers.usnews.com/best-jobs/rankings",
+    "https://cars.usnews.com/cars-trucks",
+    "https://realestate.usnews.com/places/rankings/best-places-to-live-in-california",
+    "https://money.usnews.com/investing",
+    "https://realestate.usnews.com/places"
+   ]
+  },
+  {
+   "query": "site:x.com コンサル成果物のツール化（診断・ベンチマーク）",
+   "results": [
+    "https://stackoverflow.com/questions/30550378/what-is-the-difference-between-a-docker-container-and-an-ansible-playbook",
+    "https://stackoverflow.com/questions/30357679/difference-between-containers-docker-and-iis",
+    "https://stackoverflow.com/questions/50974960/whats-the-difference-between-docker-and-python-virtualenv",
+    "https://stackoverflow.com/questions/70617812/change-environmet-variables-at-runtime-react-vite-with-docker-and-nginx",
+    "https://stackoverflow.com/questions/69441341/how-can-i-disable-docker-from-a-visual-studio-asp-net-web-api-application",
+    "https://stackoverflow.com/questions/48525262/visual-studio-container-tools-requires-docker-to-be-running-before-building-deb",
+    "https://stackoverflow.com/questions/36638665/is-it-possible-to-run-linux-docker-image-on-windows",
+    "https://stackoverflow.com/questions/41278108/is-it-possible-to-install-visual-studio-in-a-windows-container",
+    "https://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-virtual-machine",
+    "https://stackoverflow.com/questions/34720489/docker-containers-vs-local-installs"
+   ]
+  },
+  {
+   "query": "site:linkedin.com コンサル成果物のツール化（診断・ベンチマーク）",
+   "results": [
+    "https://twistedasian.com/",
+    "https://www.pornhub.com/video/search?search=asian",
+    "https://www.sunporno.com/tags/asian/",
+    "https://inporn.com/categories/asian/latest-updates/1/",
+    "https://www.xvideos.com/tags/asian",
+    "https://www.xvideos.com/tags/asian-porn",
+    "https://redporn.porn/tubes/asian",
+    "https://myporntube.com/categories/asian",
+    "https://tubepleasure.com/en/299/asian/",
+    "https://xhamster.com/categories/asian"
+   ]
+  },
+  {
+   "query": "site:facebook.com コンサル成果物のツール化（診断・ベンチマーク）",
+   "results": [
+    "https://www.art.com/",
+    "https://www.amazon.com/wall-art/s?k=wall+art",
+    "https://www.hobbylobby.com/home-decor-frames/mirrors-wall-decor/wall-art/c/3-109-1053",
+    "https://www.potterybarn.com/shop/mirrors-wall-art/all-art/",
+    "https://www.wayfair.com/decor-pillows/sb0/wall-art-c215363.html",
+    "https://www.target.com/c/wall-art-decor-home/-/N-5xtta",
+    "https://fineartamerica.com/wall-art",
+    "https://www.etsy.com/market/etsy_wall_art",
+    "https://www.art.com/shop/wall-art",
+    "https://www.worldmarket.com/c/wall-decor-and-mirrors/wall-art/"
+   ]
+  },
+  {
+   "query": "コンサル成果物のツール化（診断・ベンチマーク） note 社長",
+   "results": []
+  },
+  {
+   "query": "コンサル成果物のツール化（診断・ベンチマーク） X 投稿",
+   "results": [
+    "https://www.houstondynamofc.com/",
+    "https://www.houstondynamofc.com/tickets/",
+    "https://www.houstondynamofc.com/schedule/matches",
+    "https://www.houstondynamofc.com/youthprograms/",
+    "https://www.houstondynamofc.com/club/front-office",
+    "https://www.houstondynamofc.com/roster/",
+    "https://www.houstondynamofc.com/news/houston-dynamo-fc-announces-dude-wipes-as-club-s-first-ever-official-back-of-jersey-partner",
+    "https://www.houstondynamofc.com/houstondash/roster/",
+    "https://www.houstondynamofc.com/news/houston-dynamo-and-dash-partner-with-mayor-john-whitmire-to-provide-10-000-free-tickets-to-2026-matches-for-houstonians-x1763",
+    "https://www.houstondynamofc.com/news/houston-dynamo-fc-launch-highly-anticipated-adidas-archive-kit-inspired-by-mls-cup-championship-seasons"
+   ]
+  },
+  {
+   "query": "consulting diagnostics benchmarking tool site:linkedin.com",
+   "results": [
+    "https://en.wikipedia.org/wiki/ICF_International",
+    "https://www.pbconsulting.us/",
+    "https://www.yelp.com/search?cflt=businessconsulting&find_loc=Reston,+VA",
+    "https://redteamconsulting.com/",
+    "https://clutch.co/consulting/virginia",
+    "https://www.assured-consulting.com/company",
+    "https://www.merriam-webster.com/dictionary/consulting",
+    "https://www.actualizeconsulting.com/",
+    "https://evokeconsulting.com/",
+    "https://www.synergybis.com/"
+   ]
+  }
+ ],
+ "missing": {}
+}

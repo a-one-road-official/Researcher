@@ -1,0 +1,1689 @@
+{
+ "name": "保全データの経営報告（ダッシュボード化）",
+ "en": "maintenance KPI reporting for management factory shop floor manufacturer",
+ "aliases": [
+  "保全KPI 経営報告 工場",
+  "設備保全 見える化 経営 工場",
+  "OEE 経営ダッシュボード 工場",
+  "製造業 保全データの経営報告（ダッシュボード化）"
+ ],
+ "context": "予知保全（工場設備のみ。プラント・インフラは除外）",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:08:12.922542+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "CMMSのレポート機能またはExcelダッシュボードで月次のKPI推移グラフ・設備別ランキング・改善目標vs実績を視覚化する",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "八千代ソリューションズ株式会社によるオンライン調査（2025年4月実施、n=500）によると、専用システム（CMMS等）を利用している工場で損失の「詳細把握」ができている割合は",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "八千代ソリューションズ株式会社によるオンライン調査（2025年10月実施、n=500）によると、保全非担当者で不良率KPIが「わからない」と回答した割合は",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "八千代ソリューションズ株式会社によるオンライン調査（2024年12月実施、n=500）によると、部長層で「予知保全をTop3の保全投資に位置づける」割合は",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "資料請求（導入事例集）",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://kaminashi.jp/news/detail/pr_20250723",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社カミナシ（本社：東京都千代田区、代表取締役CEO：諸岡 裕人、以下「カミナシ」）は、設備の保全業務をデジタル化するクラウドサービス『カミナシ 設備保全』において、日々の保全活動をグラフや指標で見える化する新機能「ダッシュボード機能」を提供開始したことをお知らせします",
+    "url": "https://kaminashi.jp/news/detail/pr_20250723",
+    "pass": 3
+   },
+   {
+    "quote": "現場の「変化に気づく」ための強力なツールとして、お客様の継続的な改善活動を支援してまいります",
+    "url": "https://kaminashi.jp/news/detail/pr_20250723",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤水産様の事例を公開しました",
+    "url": "https://kaminashi.jp/news/detail/pr_20250723",
+    "pass": 3
+   },
+   {
+    "quote": "生産実績管理",
+    "url": "https://kaminashi.jp/news/detail/pr_20250723",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例一覧",
+    "url": "https://kaminashi.jp/news/detail/pr_20250723",
+    "pass": 3
+   },
+   {
+    "quote": "サービス内容",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "お役立ち情報・事例",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "DX支援サービス",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "経営実績を把握",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "代表的なのはBIツールですが、近年はローコードツールやクラウドサービスの普及により、IT部門が大きくなくても導入しやすくなっています",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "売上推移、利益率、部門別実績などの",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型サービスは、ブラウザから使えて、保守や更新もサービス側が担うことが多いのが特徴です",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "生産/サービス",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "外部支援を受ける場合でも、社内側で「目的」「KPI」「運用ルール」は押さえておくことが重要です",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、設計や連携、初期構築を支援してもらうと、スムーズに進みます",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "「どのデータをどう集めるか」「ダッシュボードをどう運用するか」に悩む場合は、外部パートナーの支援を受けるのも現実的な選択肢です",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "DXサービス",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発・SESサービス",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業DX支援なら国際ソフトウェアにお任せください！フォームから無料で資料ダウンロードいただけます",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "会計ソフト、SFA（営業支援）、担当者のExcelなど、バラバラの場所にある情報を1ヶ所にまとめていること",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業（BtoB/BtoC）",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "1. サービスリードタイム",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "他社の成功事例や多機能なBIツールが並んでいますが、中小企業の成功ルートは非常にシンプルです",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "Google社が提供する",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "他社の成功事例をそのまま真似ても機能しない理由がここにあります",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス（BtoB）業",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "などのクラウドサービスを導入",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ビジネスバンク 取締役",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ビジネスバンク プレジデントアカデミー編集部",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ビジネスバンク",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし実際には、点検記録や故障履歴、保全作業の実績といったデータは現場で蓄積されているものの、それらが経営層の意思決定に十分活用されていないケースも少なくありません",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社IBS",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "各種支援サービス",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期設定支援サービス",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタント支援サービス",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介資料のダウンロード",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場環境が目まぐるしく変化する現在、過去の実実績を振り返るだけで経営の舵取りをすることは極めて困難です",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、ダッシュボードでは全社の数字だけでなく、「部門別」「商品別」「サービス別」といった細かい切り口で粗利率や原価率の推移を比較できるようにしておくことが重要です",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "「毎日17時に前日の実績を反映する」「月次決算が確定した第5営業日に確定値へ切り替える」など、いつの時点の数字を見ているのかを明確にする",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここで、実際に手作業のデータ管理から抜け出し、ダッシュボード化による業務効率化を実現した企業の事例を紹介します",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "SES事業（技術者派遣）とソリューション事業（システム保守など）を展開する、従業員約90名の株式会社イーバイピー様の事例です",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、案件数の増加に伴って管理するシートが増え続け、売上実績、見積もり情報、顧客情報が複数のファイルへ分散してしまいました",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イーバイピー様 導入事例",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、人的リソースが限られている場合や、数か月以内の短期間で確実に稼働させたい場合は、ノーコードツールを活用しながら、初期の設計やデータ連携の部分だけを外部のベンダーに支援してもらう進め方がおすすめです",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "バックオフィス※業務のデジタル変革（DX）を支援する、",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Web請求/電子帳簿保管サービス",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "ClimberCloudが提供するサービス",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "MTBF・MTTR・OEE・計画保全比率・保全費率などのKPIを設定・管理することで、保全の現状把握・改善の方向性の決定・経営への説明責任の遂行が可能になります",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "判断スピード・精度・組織の一体感",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "起業家インタビューEntrepreneur事業部 事業責任者",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "「各拠点の責任者は自店舗のデータのみ入力できる」「過去の確定した月のデータは、経理管理者以外は修正できない設定にする」といった権限を定める",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "保全KPIダッシュボードの見せ方：経営報告・現場管理に使える指標設計",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "MTBF・MTTR・OEE・計画保全比率・保全費率などのKPIを設定・管理することで、保全の現状把握・改善の方向性の決定・経営への説明責任の遂行が可能になります",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "KPIを経営報告に活用する",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "ベースラインなしの目標は根拠が弱く経営承認を得にくい",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "月次：経営層への保全KPIダッシュボード報告（突発停止・保全費・OEEのサマリー）",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "経営報告は1枚のサマリー形式が効果的",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "KPIが改善活動に結びつく仕組みとして①月次のKPIレビュー会議（現場担当者・工場長が参加し・悪化した指標の原因を分析）②設備別の故障原因ランキング（突発停止件数上位の設備に集中的な改善投資）③改善目標と対策の立案・進捗確認（対策の実施→KPIへの効果検証）④成果の見える化（突発停止削減・OEE向上の金額換算での可視化）のPDCAを月次で回すことが、KPIを「経営ツール」として機能させる核心です",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "保全KPIを経営層に報告する際のポイントは①停止損失の金額換算（突発停止時間×時間あたり生産損失額）②保全費と停止損失の対比（保全投資がいかに停止損失を上回る価値を生んでいるか）③改善トレンドの可視化（前年比・計画比でのKPI推移グラフ）④次年度の保全投資計画との連動（KPIデータを根拠にした設備更新・CMMS導入の提案）です",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "「保全は費用センター」ではなく「停止損失を防ぐ投資センター」として経営に位置づけるためのコミュニケーションが重要です",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "停止損失をKPIで可視化し「保全投資の効果」を経営言語で伝えることが、設備保全への経営投資を引き出すカギです",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "この3指標は①データが比較的収集しやすい②改善策と直結している③経営層にも説明しやすい、という特性があります",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "①故障頻度が高い設備（MTBFが短い）：予防保全強化・根本原因対策でMTBFを延ばすことを優先②故障は少ないが一度停止すると復旧に時間がかかる設備（MTTRが長い）：部品在庫の整備・手順書作成・技能向上でMTTRを短縮することを優先③両方が課題の場合：停止時間（MTBF×頻度）で損失額を試算し、損失が大きい方を優先",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "【食品製造業 経営層向け】EXECUTIVE FORUM 「現場と経営をつなぐDX」を開催",
+    "url": "https://kaminashi.jp/news/detail/pr_20250723",
+    "pass": 3
+   },
+   {
+    "quote": "中長期の工場経営を支える 食品製造業 ...",
+    "url": "https://kaminashi.jp/news/detail/pr_20250723",
+    "pass": 3
+   },
+   {
+    "quote": "業務データの見える化で変わる経営判断：ダッシュボード活用のすすめ",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "健康経営の取り組み",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに：業務データの見える化で変わる経営判断",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "データ可視化が経営にもたらす価値",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "① 勘と経験に頼った経営判断の限界",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "② 数字が「見える」ことで意思決定が早くなる理由",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "経営KPIを自動集計する仕組みづくり",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "② 経営層・現場双方が使う仕組みを作る",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ：業務データの見える化で変わる経営判断",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では「業務データの見える化」を切り口に、ダッシュボードで経営判断がどう変わるのか、そして中小企業が無理なく導入・運用するための現実的なステップを、専門用語をかみ砕きながら解説します",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "を高め、経営の質そのものを底上げします",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、データ可視化がもたらす経営的な価値を、現場のあるある課題に沿って整理します",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断を「再現性のあるもの」にするには、最低限の数字が必要です",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "ダッシュボードは、経営に必要な数字を“いつでも見られる状態”にし、勘と経験を活かす土台を作ります",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "意思決定が即時",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "経営ダッシュボードとは？おすすめツールから意思決定の確度をあげる指標の作り方まで徹底解説 | プレジデントレポート",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "▶【無料】「経営の基本」が学べる",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "▶【無料】「社長の仕事」経営冊子プレゼント",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "【無料】経営レポート",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "【無料】経営セミナー",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "【経営お役立ち資料】",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "経営ダッシュボードとは？おすすめツールから意思決定の確度をあげる指標の作り方まで徹底解説",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "月次の経営会議の前日、また深夜まで経理担当者が残業している",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "「空飛ぶ絨毯経営（どんぶり勘定）」",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、経営者をそんな「空飛ぶ絨毯」から降ろし、会社の「コックピット」へと座らせる「経営ダッシュボード」について、王道ツールの選び方から入れるべき「たった4つの項目」、今日からExcelで始められる具体的な作り方までを徹底解説します",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 経営ダッシュボードとは？目的と定義を正確に理解する",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. 経営ダッシュボードとは何か？「見せるもの」と「使うもの」の根本的な違い",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "1-2. 経営ダッシュボードの目的 ── 「管理」から「意思決定の加速」へ",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "1-3. 経営ダッシュボードと類似概念の違い ── BI・ERP・Excelと何が違うのか",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "1-4. なぜ今、中小企業にこそ経営ダッシュボードが必要なのか？",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層に届く設備・資産の見える化とは｜設備保全データを経営判断に活かす方法",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層に届く設備・資産の“見える化”",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "― 設備保全データを経営判断につなげる可視化の考え方 ―",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業やインフラ産業などの設備集約型ビジネスにおいて、設備や資産は生産現場を支える基盤であると同時に、企業の収益性や競争力を左右する重要な経営資源です",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし実際には、点検記録や故障履歴、保全作業の実績といったデータは現場で蓄積されているものの、それらが経営層の意思決定に十分活用されていないケースも少なくありません",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "現場には情報がある一方で、経営判断に必要な形に整理されていないことが、設備管理を経営に活かしきれない大きな要因となっています",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層に届く見える化とは、単にデータをグラフ化することではなく、設備保全の状況を経営判断に必要なKPIとして再構成し、リスクや損失、改善効果を分かりやすく示すことを意味します",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "設備停止や故障といった事故を、時間や件数だけでなく、経営インパクトとして捉え直すことで、設備トラブルは現場レベルの課題から経営課題へと位置づけが変わります",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、設備更新や投資判断、保全方針の見直しといった意思決定を、より合理的かつ迅速に行うことが可能になります",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした見える化を実現するためには、経営層が本当に知りたいポイントに焦点を当てた整理が欠かせません",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "・可視化されたKPIを、更新計画や予防保全強化といった具体的な打ち手につなげる仕組み",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "これらを、EAM資産台帳を中心としたデータ設計のもとで一元的に管理することで、日々の設備保全データは自然と経営指標へと転換されていきます",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "設備・資産の見える化は、現場改善のためだけの取り組みではなく、経営と現場をつなぐ共通言語として、企業全体の生産性向上と安定操業を支える重要な基盤となるものです",
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "pass": 3
+   },
+   {
+    "quote": "経営ダッシュボードの作り方と4つの手順｜経理データを可視化して経営判断を速くする ｜経理業務お役立ち情報",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営ダッシュボードの作り方と4つの手順｜経理データを可視化して経営判断を速くする",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "１．まずは結論！経理データは3つの指標に絞ってダッシュボード化し、経営判断を速くする",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェアNo.1クラスのBIツールですが、中小企業にとっては「オーバースペック」になりがちです",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "通信事業会社・大手IT企業で16年間、BPR（業務プロセス改革）や予算管理業務に携わる",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、大手上場企業から中小企業まで、IT全般のコンサルティングを行っているかたわらWebマーケティングに関するeラーニングの講師、コラム執筆なども実施",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NTTデータビジネスブレインズ",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "ClimberCloud®は、株式会社NTTデータビジネスブレインズの登録商標です",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © NTT DATA Business Brains Corporation.",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "登録メールアドレスへ即時お届け",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "① 勘と経験に頼った経営判断の限界",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、「数字はあるのに、見たいときに見られない」「会議のたびに資料づくりで残業になる」「結局、判断は勘と経験に戻ってしまう」といった状況が起こりがちです",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "勘と経験が役立つ場面は確かにありますが、頼り切ると次のようなリスクが出ます",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "ダッシュボードは、経営に必要な数字を“いつでも見られる状態”にし、勘と経験を活かす土台を作ります",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "経験を否定するのではなく、経験が正しく働く環境を整える",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "ダッシュボードによって「見たい数字がすぐ見られる」状態を作れば、会議は報告の場から意思決定の場へ変わり、勘と経験に頼った判断から、根拠ある判断へとシフトできます",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "これは、計器を見ずに勘と経験だけで空を飛ぶ",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "社長の直感と経験（ドンブリ勘定）で会社が回るのは、せいぜい年商3億円、社員20名規模までです",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "アカウント登録から初回ダッシュボード作成まで最短1時間で完了します",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "それが、経験と勘に頼る経営から抜け出し、会社の未来をコントロールするための最も確実な道です",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業大臣登録 中小企業診断士",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "日本証券アナリスト協会認定アナリスト(CMA)",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "日本証券アナリスト協会認定CMA",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ディープラーニング協会認定 AIジェネラリスト/AIエンジニア",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "JDLA認定AIジェネラリスト/AIエンジニア",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "日本証券アナリスト協会認定アナリスト (CMA)",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ディープラーニング協会認定AI ジェネラリスト・AIエンジニア資格保有者",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "自動登録/AIOCR機能",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、勘や経験に頼るのではなく、データに基づく論理的な意思決定を行うことが、企業の成長に直結しているのです",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "SES事業（技術者派遣）とソリューション事業（システム保守など）を展開する、従業員約90名の株式会社イーバイピー様の事例です",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "API・自動登録",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "ClimberCloud®は、株式会社NTTデータビジネスブレインズの登録商標です",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "ASPIC「ASP・SaaS情報開示認定制度」認証取得（0279-2306）",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル庁「Peppolサービスプロバイダー」認定取得",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "計画保全工数 ÷ 保全工数合計×100（%）",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "KPI改善目標を設定する前に、現状値（ベースライン）を3〜6ヶ月分測定する",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "保全KPIの目標値設定は①ベースライン測定（現状値を3〜6ヶ月計測）②業界・他工場の参考値との比較（ベンチマーク）③改善余地の推定（現状値と理想値のギャップ）④達成可能な年間改善率（例：突発停止を前年比20%削減）の4ステップで行います",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "Excelを使った保全KPI管理は現実的に可能ですが、①データ入力・集計の工数が大きい②記録の抜け・転記ミスが発生しやすい③設備数が増えると管理が破綻する④グラフ作成・報告書作成に時間がかかる、という限界があります",
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、従来は紙やExcelでの管理が主流であり、集計や分析に多くの工数がかかることが現場の大きな課題となっていました",
+    "url": "https://kaminashi.jp/news/detail/pr_20250723",
+    "pass": 3
+   },
+   {
+    "quote": "データ活用文化を定着させる運用方法",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "① 作って終わりにしないための運用ルール",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では「業務データの見える化」を切り口に、ダッシュボードで経営判断がどう変わるのか、そして中小企業が無理なく導入・運用するための現実的なステップを、専門用語をかみ砕きながら解説します",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小企業では、少人数で多くの業務を回しているため、情報の遅れや偏りがそのまま機会損失につながりやすいのが実情です",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "：少人数なので効果がすぐ数字に出る",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、毎月3日かかっていた集計作業が数時間に短縮されるだけでも、年間で大きな工数削減になります",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "“運用できる範囲”から作る",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "IT担当者が少なく、運用負担を増やしたくない",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば売上は会計ソフト、原価は購買管理、稼働率は勤怠や工数入力から取る、といった具合に、",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、形骸化を防ぎ、文化として定着させるための運用ポイントを解説します",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "これを防ぐには、運用ルールを最初に決めるのが効果的です",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "効果（工数削減・判断スピード）を数値で示す",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "運用まで設計",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "外部支援を受ける場合でも、社内側で「目的」「KPI」「運用ルール」は押さえておくことが重要です",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "「どのデータをどう集めるか」「ダッシュボードをどう運用するか」に悩む場合は、外部パートナーの支援を受けるのも現実的な選択肢です",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "1ヶ月前の「死んだ数字」ではなく、今この瞬間の「生きている数字」であること",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "迷ったら、まずは今の環境で「Excelの一覧表」形式のダッシュボード（プロトタイプ）を作り、1ヶ月間その画面だけで経営判断ができるかテスト運用することをおすすめします",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "また、「誰が、いつ、どのタイミングでデータソースを更新するのか」という運用ルールもこの段階で明確にしておきます",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "担当者が毎月システムからCSVデータを出力し、手作業でコピー＆ペーストを繰り返して集計用のファイルを作っている運用では、転記漏れや入力ミスを完全には防げません",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社がIT・情報通信業の企業に行った提案でのヒアリングでは、「Excelを1名の方が使用していると他の人が待たなければならない」「見積番号の上書きリスクがあり属人化しがちである」といった現場のリアルな声が寄せられました",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "最新の表計算ソフトであればリアルタイムの同時編集は可能ですが、従来のファイルサーバー運用などで同時編集ができない環境下では業務に待ち時間が発生し、ファイルが個人に依存している状態に陥りがちです",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的に可視化すべき項目は、現在の「現預金残高」、直近の「入出金予定」、本業の営業活動から生み出された現金を示す「営業キャッシュフロー」、そして数週間から数か月先の「資金繰り予測」です",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、翌月に大型案件の売上が立つ予定でも、実際の入金が3か月後であれば、その間の仕入代金や外注費の支払いで一時的に現金が足りなくなる可能性があります",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダッシュボードで将来の資金不足の兆候を数か月前に察知できれば、金融機関からの借り入れや、取引先への支払いスケジュールの調整など、余裕を持った事前対策を打つことができます",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "利益率の悪化に気づくのが数か月遅れれば、販売価格を値上げするタイミングを逃し、会社全体の体力を奪うことになりかねません",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "特定の商品だけ原価率が数か月連続で上昇しているグラフの変化に気づくことができれば、仕入先への価格交渉や、代替品の検討、あるいは販売価格の改定といった対策を早い段階で協議できます",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "KPI管理とは？設定の手順やメリット、運用時のポイントを解説",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、現場の混乱を防ぎ、確実に運用を定着させるための4つの手順を解説します",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "手順4：ダッシュボードを設計し、運用と保守のルールを明確にする",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "最後に画面を設計し、運用ルールを定めます",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "そして、作って終わりにしないためには、以下の運用ルールを具体的に決めておく必要があります",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、数千万円規模のERP（統合基幹業務システム）や高度なBIツールを導入すれば多彩なことができますが、最初はExcelやスプレッドシートを使って必要なKPIを整理し、自社の運用に合うか小さく試してみる（PoC：導入前検証といって、本格導入を決める前に実際の業務データを使って作れるかどうかを試す取り組みです）ことも有効です",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "社内にデータ分析やシステム運用の専任担当者がおり、時間をかけて自社の要件にぴったり合わせたものを作りたい場合は、内製化でも十分に構築可能です",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "④ 中小企業だからこそ効果が出やすい理由",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "② BIツールとは何か？中小企業向けにやさしく解説",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "② 売上・原価・稼働率を自動で集める仕組み",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "多くの中小企業では、売上や在庫、稼働状況、見積・受注、案件進捗などの「日々の業務データ」が、Excel・会計ソフト・販売管理・現場の紙帳票など、さまざまな場所に分散しています",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば「売上の推移」「利益率」「案件の進捗」「在庫の滞留」「クレーム件数」などが、最新に近い形で確認できるようになります",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では「業務データの見える化」を切り口に、ダッシュボードで経営判断がどう変わるのか、そして中小企業が無理なく導入・運用するための現実的なステップを、専門用語をかみ砕きながら解説します",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小企業では、少人数で多くの業務を回しているため、情報の遅れや偏りがそのまま機会損失につながりやすいのが実情です",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "売上や稼働状況を「肌感」で判断していると、問題の発見が遅れます",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば「今月は忙しいから売上も良いはず」と思っていても、実際には粗利が低い案件が多く利益が出ていない、ということはよくあります",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "逆に「売上が落ちそう」と焦って値引きを増やした結果、利益率をさらに悪化させるケースもあります",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業にとって会議の質はそのまま経営スピードです",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業でよくあるのが、部門ごとに「正しい数字」が違う問題です",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "営業は受注ベース、経理は売上計上ベース、製造は出荷ベースで見ていて、会議で数字が噛み合わない",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば売上ひとつでも、目的によって指標は変わります",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "将来の売上見込みを見る",
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "pass": 3
+   },
+   {
+    "quote": "翌朝配られるのは、先月の売上集計のExcelプリントアウト",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "1-4. なぜ今、中小企業にこそ経営ダッシュボードが必要なのか？",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "売上、利益、在庫などの重要指標（KPI）を一画面に集約します",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "「売上が落ちている」という結果から、「どの地域の、どの商品の、どの顧客か」まで深掘り（ドリルダウン）できること",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の最大の強みは「アジリティ（機敏性）」にあります",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業が何週間もかけて稟議を通している間に、ダッシュボードのリアルタイムな数字を見てその日のうちに方針を変えられることこそが、中小企業の最大の武器になります",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業ならではの機動力を100%引き出します",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業には、データを集計・分析し、経営判断の材料を整える「経営企画室」が存在します",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし中小企業の場合、その役割はすべて社長一人の肩にのしかかっています",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "社長の直感と経験（ドンブリ勘定）で会社が回るのは、せいぜい年商3億円、社員20名規模までです",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "それ以上の規模になると、社長一人の物理的なリソースが組織のボトルネックになります",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ、専任のアナリストを雇えない中小企業にこそ、社長の意思決定を客観的データで裏付ける",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "会社規模・成長段階・社長の特徴によって「社長の仕事」は変わります",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "「売上の伸び悩み」",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "売上は立っているのに、なぜか手元の現金や利益が残っていない",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "５．【実例】売上・経理データの分散管理から抜け出したIT企業の取り組み",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "「売上は順調に推移しているはずなのに、なぜか手元の資金が減っている」",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営会議でよく見られるのが、営業部の提出した売上データと、経理部の集計した売上データが一致しないという状況です",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "営業部門は「顧客から注文を受けた日（受注ベース）」で売上を記録し、経理部門は「商品を出荷した日、あるいは検収が完了した日（計上ベース）」で売上を記録しているなど、同じ「売上」という言葉でも部署によって定義が異なることが原因です",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業規模が拡大し、管理する案件数が増えるほど、シートの数は膨大になります",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、翌月に大型案件の売上が立つ予定でも、実際の入金が3か月後であれば、その間の仕入代金や外注費の支払いで一時的に現金が足りなくなる可能性があります",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上が順調に伸びているにもかかわらず、なぜか資金繰りが苦しくなる企業の場合、売掛金や買掛金の管理に課題があるケースが多く見られます",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダッシュボード上で売上の伸びと回収サイトの長さを並べて確認することで、「売上は上がっているが、現金の回収が追いついていない」という根本的な原因に早く気づくことができます",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上額が伸びていても、仕入価格の高騰や人件費の増加によって原価率が上がっていれば、手元に残る利益は少なくなります",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "KPI（重要業績評価指標：最終的な売上や利益といった目標を達成するために、日々の業務の進捗や達成度合いを具体的に測る指標のことです）の設定と管理について詳しく知りたい方は、",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "前述したように、営業部門と経理部門で「売上の計上基準」が異なっている状態のままツールを導入すると、ツール上の数字が合わず、結局誰もその数字を信用しなくなってしまいます",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "構築前に関係部署を集め、「ダッシュボードに表示する売上は、商品を出荷した日を基準にする」「消費税は抜いた金額で統一する」といった社内の共通ルールを明確に決めておく必要があります",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁が2023年に公表した「",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年版 中小企業白書",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、中小企業がデジタル化を進める際の課題として、「IT導入を主導できる人材がいない」「導入の効果が分からない、評価できない」「コストが負担である」といった声が多く挙げられています",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "社長の直感と経験（ドンブリ勘定）で会社が回るのは、せいぜい年商3億円、社員20名規模までです",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "1,300円〜/月",
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "pass": 3
+   },
+   {
+    "quote": "月900円～!",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後、売上高1,300億円規模の経営企画・予算管理業務に従事",
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metrics.finance/blog/2026-03-31-how-to-dashboard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dx-techblog.nippon-rad.co.jp/factory-visualization-dashboard-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bi.lakeel.com/course/detail19/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/ja/blog/6-manufacturing-dashboards-for-visualizing-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/news/detail/pr_20250723",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bi.lakeel.com/course/detail11/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.avantcorp.com/column/2023/12/06/management-dashboard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.libcon.co.jp/column/what-is-management-dashboard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tableau.com/ja-jp/learn/articles/management-dashboards",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/blog/sales-management-dashboards/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://erp.dentsusoken.com/blog/management-dashboard-vol-96/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycg-advisory.jp/learning/it_case7/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksw.co.jp/media/column/a97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/1159/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/de9b8f85-2062-45f0-93fb-432b72e0ed35/75ab5a9e/20240927_resourcesdashboard-case-studies_outline_04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://twostone-s.com/columns/dx/dx-guide/4615/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://book.st-hakky.com/purpose/tableau-keiei-dashubodo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.turboard.com/ja/sector/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waha-transformer.com/topics/column/mfg-data-vis-practical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dataparc.com/ja/blog/real-time-manufacturing-dashboards-setup-importance-and-benefits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jodoo.com/blog/ja-jp/%E8%A3%BD%E9%80%A0kpi%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nddhq.co.jp/case/case-manufacturing-bi-data-visualization-factory-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wheat-biz.com/ai-dx/manufacturing-data-katsuyo-dashboard-dx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.kaminashi.jp/news/pr_20260121",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC/SaaS%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84/SaaS%E3%81%AE%E9%9A%9C%E5%AE%B3%E7%99%BA%E7%94%9F%E6%99%82%E3%81%AE%E8%B2%AC%E4%BB%BB%E5%88%B6%E9%99%90%E6%9D%A1%E9%A0%85%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpn.nec.com/techrep/journal/g25/n01/250112.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aisi.go.jp/assets/pdf/caio-ai-governance-manual.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rspo.org/ja/as-an-organisation/shared-responsibility/the-shared-responsibility-dashboards/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-revolution.co.jp/media/ai-in-infrastructure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bbank.jp/blog/president/management-dashboard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gulfnet.co.jp/knowhow/9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genee.jp/contents/management-dashboard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloud-erp-guide.com/blog/management-dashboard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eamic-ibsolutions.jp/%E7%B5%8C%E5%96%B6%E5%B1%A4%E3%81%AB%E5%B1%8A%E3%81%8F%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E3%81%AE%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shearwaterjapan.com/blog/kpi-management-dashboard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandit.jp/erp/column/management_dashboard_guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/thecxo/n/nec57d5c41fb8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ripla.co.jp/blog/data/kpi-dashboard-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pandora-climber.jp/article/category_dx/managementdashboard.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/management-dashboard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://book.st-hakky.com/purpose/creating-a-business-dashboard-for-efficient-data-analysis-and-visualization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getmaintainx.com/blog/guide-to-maintenance-kpis-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oxmaint.com/blog/post/blog-post-top-15-maintenance-kpis-metrics-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netsuite.com/portal/resource/articles/erp/manufacturing-kpis-metrics.shtml",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "保全データの経営報告（ダッシュボード化）",
+   "results": [
+    "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "https://metrics.finance/blog/2026-03-31-how-to-dashboard",
+    "https://dx-techblog.nippon-rad.co.jp/factory-visualization-dashboard-guide/",
+    "https://bi.lakeel.com/course/detail19/",
+    "https://tulip.co/ja/blog/6-manufacturing-dashboards-for-visualizing-production/",
+    "https://kaminashi.jp/news/detail/pr_20250723",
+    "https://www.cloud-erp-guide.com/blog/management-dashboard",
+    "https://dts-dms.com/blog/what-is-executive-dashboard/",
+    "https://renue.co.jp/posts/management-dashboard-kpi-data-visualization-design-guide",
+    "https://a-x.inc/blog/create-dashboard/"
+   ]
+  },
+  {
+   "query": "保全データの経営報告（ダッシュボード化） 費用 相場",
+   "results": [
+    "https://bi.lakeel.com/course/detail11/",
+    "https://www.avantcorp.com/column/2023/12/06/management-dashboard/",
+    "https://www.libcon.co.jp/column/what-is-management-dashboard/",
+    "https://www.tableau.com/ja-jp/learn/articles/management-dashboards",
+    "https://www.salesforce.com/jp/blog/sales-management-dashboards/",
+    "https://erp.dentsusoken.com/blog/management-dashboard-vol-96/",
+    "https://www.siteengine.co.jp/blog/management-dashboard/",
+    "https://www.wingarc.com/product/motionboard/blog/business-management.html",
+    "https://inden-seminar.com/blog/inden-20260811200808-3/",
+    "https://www.ripla.co.jp/blog/system/executive-dashboard-cost/"
+   ]
+  },
+  {
+   "query": "保全データの経営報告（ダッシュボード化） 事例 中堅企業",
+   "results": [
+    "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "https://www.libcon.co.jp/column/what-is-management-dashboard/",
+    "https://www.ycg-advisory.jp/learning/it_case7/",
+    "https://www.ksw.co.jp/media/column/a97",
+    "https://factoryadvance.jp/blog/1159/",
+    "https://metrics.finance/blog/2026-03-31-how-to-dashboard",
+    "https://bi.lakeel.com/course/detail19/",
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/de9b8f85-2062-45f0-93fb-432b72e0ed35/75ab5a9e/20240927_resourcesdashboard-case-studies_outline_04.pdf",
+    "https://twostone-s.com/columns/dx/dx-guide/4615/",
+    "https://book.st-hakky.com/purpose/tableau-keiei-dashubodo"
+   ]
+  },
+  {
+   "query": "保全データの経営報告（ダッシュボード化） 工場 製造業",
+   "results": [
+    "https://dx-techblog.nippon-rad.co.jp/factory-visualization-dashboard-guide/",
+    "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "https://www.turboard.com/ja/sector/manufacturing",
+    "https://factoryadvance.jp/blog/1159/",
+    "https://tulip.co/ja/blog/6-manufacturing-dashboards-for-visualizing-production/",
+    "https://waha-transformer.com/topics/column/mfg-data-vis-practical",
+    "https://www.dataparc.com/ja/blog/real-time-manufacturing-dashboards-setup-importance-and-benefits/",
+    "https://www.jodoo.com/blog/ja-jp/%E8%A3%BD%E9%80%A0kpi%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89",
+    "https://www.nddhq.co.jp/case/case-manufacturing-bi-data-visualization-factory-management/",
+    "https://wheat-biz.com/ai-dx/manufacturing-data-katsuyo-dashboard-dx/"
+   ]
+  },
+  {
+   "query": "保全データの経営報告（ダッシュボード化） 責任 範囲 免責",
+   "results": [
+    "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "https://corp.kaminashi.jp/news/pr_20260121",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC/SaaS%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84/SaaS%E3%81%AE%E9%9A%9C%E5%AE%B3%E7%99%BA%E7%94%9F%E6%99%82%E3%81%AE%E8%B2%AC%E4%BB%BB%E5%88%B6%E9%99%90%E6%9D%A1%E9%A0%85%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9/",
+    "https://jpn.nec.com/techrep/journal/g25/n01/250112.html",
+    "https://aisi.go.jp/assets/pdf/caio-ai-governance-manual.pdf",
+    "https://rspo.org/ja/as-an-organisation/shared-responsibility/the-shared-responsibility-dashboards/",
+    "https://ai-revolution.co.jp/media/ai-in-infrastructure/",
+    "https://www.members.co.jp/column/20250611-data-driven",
+    "https://note.com/yajirushi_works/n/n3951297df6f2",
+    "https://www.issoh.co.jp/column/details/16465/"
+   ]
+  },
+  {
+   "query": "保全データの経営報告（ダッシュボード化） 経営判断 損失額",
+   "results": [
+    "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "https://metrics.finance/blog/2026-03-31-how-to-dashboard",
+    "https://bbank.jp/blog/president/management-dashboard/",
+    "https://www.gulfnet.co.jp/knowhow/9/",
+    "https://www.avantcorp.com/column/2023/12/06/management-dashboard/",
+    "https://genee.jp/contents/management-dashboard/",
+    "https://www.cloud-erp-guide.com/blog/management-dashboard",
+    "https://bi.lakeel.com/course/detail19/",
+    "https://www.ksw.co.jp/media/column/a97",
+    "https://eamic-ibsolutions.jp/経営層に届く設備・資産の見える化/"
+   ]
+  },
+  {
+   "query": "保全データの経営報告（ダッシュボード化） スタートアップ",
+   "results": [
+    "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "https://metrics.finance/blog/2026-03-31-how-to-dashboard",
+    "https://genee.jp/contents/management-dashboard/",
+    "https://www.cloud-erp-guide.com/blog/management-dashboard",
+    "https://bi.lakeel.com/course/detail19/",
+    "https://corp.kaminashi.jp/news/pr_20260121",
+    "https://www.libcon.co.jp/column/what-is-management-dashboard/",
+    "https://www.avantcorp.com/column/2023/12/06/management-dashboard/",
+    "https://www.grandit.jp/erp/column/management_dashboard_guide/",
+    "https://note.com/thecxo/n/nec57d5c41fb8"
+   ]
+  },
+  {
+   "query": "maintenance KPI reporting for management factory shop floor manufacturer",
+   "results": [
+    "https://www.getmaintainx.com/blog/guide-to-maintenance-kpis-in-manufacturing",
+    "https://oxmaint.com/blog/post/blog-post-top-15-maintenance-kpis-metrics-manufacturing",
+    "https://www.netsuite.com/portal/resource/articles/erp/manufacturing-kpis-metrics.shtml",
+    "https://www.dynaway.com/blog/maintenance-kpis",
+    "https://ifactoryapp.com/industries/manufacturing-plant/manufacturing-maintenance-kpis",
+    "https://tractian.com/en/blog/8-essential-indicators-for-maintenance-management",
+    "https://www.fabrico.io/blog/how-to-build-manufacturing-maintenance-kpi-dashboard/",
+    "https://mpulsesoftware.com/blog/manufacturing/metrics-kpis-manufacturing/",
+    "https://www.bluspring.com/blog/facility-management-kpis/",
+    "https://ifactoryapp.com/analytics-reporting/"
+   ]
+  },
+  {
+   "query": "maintenance KPI reporting for management factory shop floor manufacturer startup pricing",
+   "results": [
+    "https://www.netsuite.com/portal/resource/articles/erp/manufacturing-kpis-metrics.shtml",
+    "https://www.getmaintainx.com/blog/guide-to-maintenance-kpis-in-manufacturing",
+    "https://oxmaint.com/blog/post/blog-post-top-15-maintenance-kpis-metrics-manufacturing",
+    "https://www.dynaway.com/blog/maintenance-kpis",
+    "https://www.silvon.com/blog/40-manufacturing-kpis/",
+    "https://www.accruent.com/resources/knowledge-hub/maintenance-kpis",
+    "https://leandatapoint.com/blog/best-manufacturing-kpi-tracking-tools",
+    "https://tractian.com/en/blog/8-essential-indicators-for-maintenance-management",
+    "https://www.cfoselections.com/manufacturing-kpis-to-track-operational-excellence/",
+    "https://oxmaint.com/industries/manufacturing-plant/manufacturing-maintenance-kpis-dashboard-metrics-guide"
+   ]
+  },
+  {
+   "query": "site:note.com 保全データの経営報告（ダッシュボード化）",
+   "results": [
+    "https://note.com/yajirushi_works/n/nb5377c5609bd",
+    "https://note.com/yajirushi_works/n/n3951297df6f2",
+    "https://note.com/yajirushi_works/n/n0f5d8432f438",
+    "https://note.com/mirocrea/n/n4bf4759de7e6",
+    "https://note.com/paguinu/n/n80d568f40aac",
+    "https://note.com/yajirushi_works/n/n6a4f9c909b11",
+    "https://note.com/pttrner_tech/n/nd39d324ed3a6",
+    "https://note.com/pttrner_tech/n/n20ab689b3d61",
+    "https://note.com/yajirushi_works/n/na70c51a1c086",
+    "https://note.com/genmai539/n/n140f64e915bc"
+   ]
+  },
+  {
+   "query": "site:x.com 保全データの経営報告（ダッシュボード化）",
+   "results": [
+    "https://x.com/zakiryo1533/status/2061460782844694831",
+    "https://x.com/tinkermodeJapan",
+    "https://x.com/EsgJournalJP/all",
+    "https://x.com/SE_bizzine",
+    "https://x.com/KagawaTomo/status/2117512280791527638",
+    "https://x.com/i/article/2082419094167732268",
+    "https://x.com/KagawaTomo/article/2066462885694611546",
+    "https://x.com/mhimt/status/2117740102218916004",
+    "https://x.com/Panasonic_EN_JP",
+    "https://x.com/masahirochaen"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 保全データの経営報告（ダッシュボード化）",
+   "results": [
+    "https://jp.linkedin.com/pulse/7-field-service-kpis-matter-how-salesforce-dashboards-help-lytee?tl=ja",
+    "https://jp.linkedin.com/pulse/data-lakehouse-logistics-bringing-freight-warehouse-fleet-emkqc?tl=ja",
+    "https://www.linkedin.com/in/amber-jackson-mba-26771545/ja",
+    "https://jp.linkedin.com/pulse/your-cmms-problem-maintenance-culture-jai-balachandran-u7lkc?tl=ja",
+    "https://jp.linkedin.com/pulse/future-analytics-from-bi-dashboards-autonomous-insights-amit-kharche-oq38f?tl=ja",
+    "https://jp.linkedin.com/pulse/what-key-differences-between-business-intelligence-vs-data-analytics-g5rbf?tl=ja",
+    "https://jp.linkedin.com/pulse/algorithms-built-sand-hidden-data-crisis-metro-rail-you-ashar-z4fic?tl=ja",
+    "https://jp.linkedin.com/pulse/bridging-plcscada-data-power-bi-next-big-shift-smart-amit-shitut-rn32f?tl=ja",
+    "https://jp.linkedin.com/pulse/step-by-step-guide-analyze-address-maintenance-sap-pm-allan-inapi-dmi4e?tl=ja",
+    "https://jp.linkedin.com/pulse/dashboard-reporting-mark-horton?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 保全データの経営報告（ダッシュボード化）",
+   "results": [
+    "https://www.facebook.com/nttdmsi/?locale=ja_JP",
+    "https://www.facebook.com/groups/621435685643647/posts/1765572944563243/",
+    "https://www.facebook.com/groups/wellbeinginfo/posts/2231273511016668/",
+    "https://www.facebook.com/groups/621435685643647/posts/1788240932296444/",
+    "https://www.facebook.com/groups/621435685643647/posts/1811593039961233/",
+    "https://www.facebook.com/kaminashi.jp/posts/プレスリリースカミナシ-設備保全にダッシュボード機能を追加日々の保全活動をグラフ等で見える化する新機能ダッシュボード機能の提供を開始しました現場の今を一目で把握/1196722388923790/",
+    "https://www.facebook.com/mitsuiandco/posts/データを徹底的に使い事業経営の強化を図る三井物産の-dd経営戦略-必要なときに必要なデータを誰もが活用できる状態を当たり前にしたい-そのような展望を掲げ複数事業/591726016724769/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/videos/工場のエネルギーが簡単に見える化作画トレーニングでダッシュボード職人に/1281247970567381/",
+    "https://www.facebook.com/concrew.jp/videos/導入事例のご紹介経営ダッシュボード機能で売上粗利見込みまで一目で把握見積書請求書を作成するだけで自動分析できるから手間なく経営数値が見える化されます気になる方は/4062550120624105/",
+    "https://www.facebook.com/kaminashi.jp/posts/プレスリリースカミナシ-設備保全に設備の予備品部品管理機能を追加在庫記録修理作業記録を一元化できる機能により在庫管理からデータ活用までを一つのシステム上でまとめ/1175720194357343/"
+   ]
+  },
+  {
+   "query": "保全データの経営報告（ダッシュボード化） note 社長",
+   "results": [
+    "https://note.com/miraikyoso/n/n94c56868f4e5",
+    "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "https://note.com/genee_corp/n/n5022e8a2b543",
+    "https://note.com/yajirushi_works/n/nb5377c5609bd",
+    "https://www.cloud-erp-guide.com/blog/management-dashboard",
+    "https://note.com/yajirushi_works/n/nd7ad57002e83",
+    "https://metrics.finance/blog/2026-03-31-how-to-dashboard",
+    "https://erp.dentsusoken.com/blog/management-dashboard-vol-96/",
+    "https://note.com/anddigital/n/na43396b53667",
+    "https://note.com/genial_badger963/n/n1e1ebe3e4385"
+   ]
+  },
+  {
+   "query": "保全データの経営報告（ダッシュボード化） X 投稿",
+   "results": [
+    "https://yachiyo-sol.com/library/setsubi-hozen-kpi/",
+    "https://metrics.finance/blog/2026-03-31-how-to-dashboard",
+    "https://www.avantcorp.com/column/2023/12/06/management-dashboard/",
+    "https://catalog.monex.co.jp/article/?p=63283",
+    "https://tulip.co/ja/blog/6-manufacturing-dashboards-for-visualizing-production/",
+    "https://bi.lakeel.com/course/detail11/",
+    "https://corp.kaminashi.jp/news/pr_20260121",
+    "https://m2xsoftware.com/news/6015",
+    "https://genee.jp/contents/management-dashboard/",
+    "https://www.ripla.co.jp/blog/data/kpi-dashboard-design/"
+   ]
+  },
+  {
+   "query": "maintenance KPI reporting for management factory shop floor manufacturer site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/sumitverma-engg_manufacturing-manufacturingkpi-oee-activity-7505243346559348736-DbSc",
+    "https://www.linkedin.com/posts/muhammad-zafar-khan01_manufacturingdashboard-kpimanagement-oeeanalysis-activity-7415464223499149312-hYR3",
+    "https://www.linkedin.com/posts/prabhakar-singh-82b84280_manufacturing-production-lean-activity-7443899095838199808-coNF",
+    "https://www.linkedin.com/posts/sumitverma-engg_manufacturing-operationsmanagement-operationalexcellence-activity-7508871198513057792-iu5n",
+    "https://www.linkedin.com/posts/pandhrinathratnparakhe_manufacturing-productionmanagement-qualitymanagement-activity-7519051531644653568-h3mq",
+    "https://www.linkedin.com/posts/tps-learning-hub_maintenance-kpis-every-plant-should-track-activity-7451321157343158272-mmjN",
+    "https://www.linkedin.com/posts/jitendra-kumar-singh-5bba48244_maintenancemanagement-industrialmaintenance-activity-7439230470195773441-X83T",
+    "https://www.linkedin.com/pulse/from-data-decisions-manufacturing-kpis-matter-most-evocon-o--ubyqf",
+    "https://www.linkedin.com/posts/sumitverma-engg_key-maintenance-kpis-every-reliability-driven-activity-7506875298466992128-GsVj",
+    "https://www.linkedin.com/top-content/productivity/optimizing-manufacturing-performance/factory-floor-productivity-strategies/"
+   ]
+  }
+ ],
+ "missing": {}
+}

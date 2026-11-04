@@ -1,0 +1,2823 @@
+{
+ "name": "AI導入の補助金申請・効果測定",
+ "en": "AI subsidy application support Japan",
+ "aliases": [
+  "AI 補助金 申請支援",
+  "IT導入補助金 AI",
+  "デジタル化 補助金 支援"
+ ],
+ "context": "AI",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:11:22.186347+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "中小企業デジタル化・AI導入支援事業",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ITベンダー・サービス事業者のみなさまはこちら",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ITツール活用事例",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "12月26日更新 【IT導入補助金2025】実績報告期限及び不備訂正期限のお知らせ",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "9月10日更新 IT導入支援事業者の登録取消について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "6月30日更新 IT導入支援事業者の登録取消について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "4月24日更新 IT導入支援事業者の登録取消について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3月30日更新 【デジタル化・AI導入補助金2026】IT導入支援事業者及びITツール登録申請受付開始のお知らせ",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3月17日更新 IT導入支援事業者の登録取消について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3月6日更新 IT導入支援事業者の登録取消について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3月4日更新 【デジタル化・AI導入補助金】省力化ナビのサービス開始時期について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "7月1日更新 【補助事業者・IT導入支援事業者の皆様】 申請マイページでの後年手続き受付開始について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "12月15日更新 事務局における個人情報を含むIT導入支援事業者情報の流出についてのお詫びとご報告",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ITベンダー・サービス事業者のみなさま",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化・AI導入補助金を活用したシステム等の導入支援を行うITベンダーのみなさまはこちら",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業デジタル化・AI導入支援事業",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AIを含むITツール（ソフトウェア、サービス等）の導入を支援する補助金",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IT活用の定着を促す導入後の”活用支援”）も対象",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③サービス業",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（ソフトウェア業又は情報処理サービス業、",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑥ソフトウェア業又は情報処理サービス業 資本金の額又は出資の総額が３億円以下の会社又は常時使用する従業員の数が３００人以下の会社及び個人事業主",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑫中小企業支援法第２条第１項第４号",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 補助金申請者は、事務局に登録された「IT導入支援事業者」（ITツールを提供するベン",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "支援事業事務局",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入支援事業者",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（ITベンダー・サービス事業者等）",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 事務局にIT導入支援事業者登録申請・ITツール",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・補助事業支援要請",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・補助事業支援",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入支援事業者登録申請",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SoLabo 代表取締役/税理士有資格者",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "融資支援実績6,000件超、補助金申請支援実績1,300件超、事業再構築補助金採択支援件数は第4回～第8回まで5回連続で日本一を獲得",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "」をもとに株式会社SoLaboが作成",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "報告する際は、IT導入支援事業者の確認が必要です",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "報告する事業実績の期間と報告期間（期限）",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "【報告する事業実績の期間】",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "※1 ITツールを継続活用している証明のため、ITツール導入後からの実績を報告する",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金2022において補助事業を実施した場合、1年度目は「2023年4月1日～2024年3月31日」の事業実績を対象とし、翌年度の「2024年4月～2024年7月31日」の間に報告を提出する必要があります",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金2022において補助事業を実施した場合、3年度目は「2025年4月1日～2026年3月31日」の期間の事業実績を「2026年4月1日～2026年7月31日」の間に報告します",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "申請者の入力した内容は、IT導入支援事業者の確認を受けた後に、事務局へ提出します",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "③実績入力（書類添付）",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "④IT導入支援事業者へ確認を依頼",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入支援事業者",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "③実績や添付書類確認",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "効果報告の内容に不備があった場合、事業者への不備差戻しメールやIT導入支援事業者への訂正依頼メールなどが送られます",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "連携サービス",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入支援事業者との共同申請が必須",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "最新の情報は各AIサービスなどの公式サイトを併せてご確認ください",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入補助金は中小企業のデジタル化とAI活用を支援する制度",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "②IT導入支援事業者と共同で申請する",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "対象となるツールには、会計ソフト、受発注システム、決済システム、在庫管理、顧客管理、業務自動化ツール、セキュリティ関連サービスなどがあります",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "補助対象となるには、事務局に登録されたIT導入支援事業者とITツールを選ぶ必要があります",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "法務担当者がchat GPTで使えるプロンプトのアイデアをまとめた資料を無料で提供しています",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア業・情報処理サービス業",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模事業者の場合は、商業・サービス業で5人以下、宿泊業・娯楽業で20人以下、製造業その他で20人以下が目安です",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスの場合、一定期間分の利用料が補助対象となることがあります",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "もうお使いですか？確定申告の常識を変える新サービス",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "対象は、サイバーセキュリティお助け隊サービスリストに掲載され、かつ事務局に登録されたサービスの導入です",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "登録されたIT導入支援事業者と連携し、GビズIDプライムの取得、SECURITY ACTIONの宣言、ITツール選定、交付申請、交付決定、導入、実績報告、効果報告という流れで進みます",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "10月29日更新 【デジタル化・AI導入補助金2026】ITツール登録の最終締め切り日について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "6月26日更新 「「スマートレジ」の事前登録申請について」の公開を終了しました",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2月27日更新 交付申請手続きにおける「SECURITY ACTION」自己宣言IDの登録について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "9月10日更新 IT導入支援事業者の登録取消について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "6月30日更新 IT導入支援事業者の登録取消について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "4月24日更新 IT導入支援事業者の登録取消について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3月30日更新 【デジタル化・AI導入補助金2026】IT導入支援事業者及びITツール登録申請受付開始のお知らせ",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3月17日更新 IT導入支援事業者の登録取消について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3月6日更新 IT導入支援事業者の登録取消について",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2月27日更新 【デジタル化・AI導入補助金】ITツール登録申請（大分類Ⅲ 役務 他）受付開始のお知らせ",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "1月30日更新 【デジタル化・AI導入補助金2026】事前登録受付開始のお知らせ",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "これから登録を行う方",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "登録申請・手続きフロー",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ITツールの登録申請",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "登録がお済みの方",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "• 補助金申請者は、事務局に登録された「IT導入支援事業者」（ITツールを提供するベン",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 事務局にIT導入支援事業者登録申請・ITツール",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "登録申請を行う",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "審査・登録及び",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入支援事業者登録申請",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ITツール登録申請",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "提供し、かつ事務局に事前登録されたサービスを導入する際、サービス利用料（最大2年分）を支援する",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービスリスト」に掲載されているサービスのうち、本事業においてIT導入支援事業者が提供し、かつ事務局に事前登録されたサービ",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SoLabo 代表取締役/税理士有資格者",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "『小規模事業者持続化補助金』、『事業再構築補助金』、『IT導入補助金』は自社での申請・採択も経験",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "「補助金ガイド」LINE公式アカウントでは約4万人の登録者に情報発信を実施",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-OCR、AIチャットボット、AI需要予測、AIを活用したデータ分析ツールなども、登録されたITツールであれば対象になり得ます",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "補助対象となるには、事務局に登録されたIT導入支援事業者とITツールを選ぶ必要があります",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用した会計ソフト、AI-OCR、顧客対応チャットボット、需要予測ツールなども、登録済みのITツールであれば対象候補になります",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "対象は、サイバーセキュリティお助け隊サービスリストに掲載され、かつ事務局に登録されたサービスの導入です",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "登録されたIT導入支援事業者と連携し、GビズIDプライムの取得、SECURITY ACTIONの宣言、ITツール選定、交付申請、交付決定、導入、実績報告、効果報告という流れで進みます",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "事務局に登録されたIT導入支援事業者と、登録済みのITツールを選び、共同で交付申請を行います",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "HeyGenの使い方は？登録手順・動画作成・料金プラン・商用利用まで徹底解説",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "HeyGenの使い方・料金・商用利用は？ HeyGenはテキストを入力するだけでAIアバターが読み上げる動画を生成できるツールで、登録・動画作成・書き出しまでブラウザ上で完結します…",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "ClineでGeminiを無料で使うには？ ClineでGeminiを無料で使うには、Google AI Studioで発行したAPIキーをClineの設定画面へ登録し、無料ティア…",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "Perplexityは無料で使える？無料版と有料版の違い・登録方法・活用術を解説",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "記載されている会社名および商品・製品・サービス名（ロゴマーク等を含む）は、各社の商標または各権利者の登録商標です",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "新規会員登録/ログインはこちら",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "補助金申請者（中小企業・小規模事業者等皆さま）は、複数者連携デジタル化・AI導入枠を除き、デジタル化・AI導入補助金事務局に登録された「IT導入支援事業者」とパートナーシップを組んで申請することが必要となります",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "疑いのある場合には立ち入り調査が行われ、不正と認定されればIT導入支援事業者登録の取り消し、補助金の返還請求などが行われるため、続くステップでは正確な申請を心がけましょう",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "＼ご登録は1分で完了／",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "「サイバーセキュリティお助け隊サービスリスト」の中で、IT導入支援事業者が提供し、事務局に事前登録されているサービスを導入するときに、最大2年分のサービス利用料が補助金として支援されます",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "ページから登録と宣言が行えます",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金不正が発覚した場合は、交付決定取消、補助金の返還請求、IT導入支援事業者登録取消がなされます",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "同期していれば自動で利用明細を取り込むので、勘定科目の登録はもちろん、売掛金や買掛金の消し込み、入金仕訳などの記帳が、",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、地代家賃や役員報酬など定期的に入金・支払金が発生する取引は、登録さえしておけば",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazonビジネスとは？メリット・デメリットや登録方法、費用までわかりやすく解説",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "登録免許税を仕訳する際の勘定科目は？仕訳方法をわかりやすく解説",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "フォーム登録でインボイス申請書類作成",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "freeeインボイス登録申請ナビ",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "勤怠パターンの登録でAIが自動でシフトを作成",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "許認可申請書類をたった30分で作成",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "freee許認可",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "「許認可」の基礎知識",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入でお悩みのお客様は、この制度で成功したモデルユーザーの経験やノウハウを知り、導入における疑問や不安解決の手がかりを得ることができます",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金の対象となるITツールは、IT導入支援事業者が提供し、かつIT導入補助金事務局に登録されたITツールであることが最低限の条件となり、以下のような経費項目が対象となります",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "独立行政法人情報処理推進機構（IPA）が公表する「サイバーセキュリティお助け隊サービスリスト」に掲載されているサービス、かつIT導入支援事業者によりITツール登録されたサービスの利用料（最大2年分）を支援",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、「IT戦略ナビwithの実施」「くるみん・えるぼし認定」「省力化ナビの活用」などが挙げられます",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "登録不要の業務ツール31種類",
+    "url": "https://itm.j-carnet.co.jp/",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "中小企業デジタル化・AI導入支援事業",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化・AI導入補助金をお申込みされる中小企業・小規模事業者等のみなさま",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模事業者向け",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模事業者等のみなさま",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "※その他、過年度の中小企業デジタル化・AI導入支援事業（旧：サービス等生産性向上IT導入支援事業）に関するお問い合わせは、下記リンクをご覧ください",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「中小企業デジタル化・AI導入支援事業費補助金」は、独立行政法人中小企業基盤整備機構より採択され、",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "同機構および中小企業庁監督のもとTOPPAN株式会社が事務局業務を運営しています",
+    "url": "https://it-shien.smrj.go.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業デジタル化・AI導入支援事業",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 中小企業・小規模事業者等の労働生産性の向上を目的として、デジタル化やＤＸ等に向けた",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小規模事業者で連携して",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(小規模事業者：4/5)",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業：2/3",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大企業：1/2",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業：1/2",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小規模事業者：2/3",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "満」で雇用している従業員が全従業員",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（参考）補助の対象となる中小企業・小規模事業者等",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※インボイス枠電子取引類型では、大企業も補助対象事業者に含む",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①製造業、建設業、運輸業 資本金の額又は出資の総額が３億円以下の会社又は常時使用する従業員の数が３００人以下の会社及び個人事業主",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②卸売業 資本金の額又は出資の総額が１億円以下の会社又は常時使用する従業員の数が１００人以下の会社及び個人事業主",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金の額又は出資の総額が５千万円以下の会社又は常時使用する従業員の数が１００人以下の会社及び個人事業主",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④小売業 資本金の額又は出資の総額が５千万円以下の会社又は常時使用する従業員の数が５０人以下の会社及び個人事業主",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "『小規模事業者持続化補助金』、『事業再構築補助金』、『IT導入補助金』は自社での申請・採択も経験",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "・売上や原価",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "・従業員数や年間平均労働時間など",
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模〜中小企業向け",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数50名以下",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数51名以上",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入補助金とは、中小企業・個人事業主がAI含むITツール導入費の一部を補助する制度です",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入補助金とは、中小企業や個人事業主がAIを含むITツールを導入する際に、費用の一部を補助する制度です",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入補助金は中小企業のデジタル化とAI活用を支援する制度",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "【対象者】中小企業・小規模事業者・個人事業主",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入補助金は、中小企業や小規模事業者が、自社の課題に合ったITツールを導入し、生産性向上や業務効率化につなげるための制度です",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "制度の目的は、中小企業・小規模事業者等が自社の課題に合ったITツールを導入し、労働生産性の向上につなげることです",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化・AI導入補助金2026｜中小企業庁",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "お手元における保存版としてはもちろん、従業員への印刷・配布用としてもぜひご活用ください",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "対象者は中小企業・小規模事業者・個人事業主などですが、業種や組織形態によって資本金や従業員数の基準が異なります",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入補助金の主な対象者は、中小企業・小規模事業者等です",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な中小企業の基準は以下のとおりです",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数の目安",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅中小企業のお客さま",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "中堅中小企業向け",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "中堅中小企業のビジネスをサポート！",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "そして中堅・中小企業の生産性を向上させるには、ITツールの導入だけでなく、AIの活用も重要であることを周知するため、2026年度より「デジタル化・AI導入補助金」に名称が変更され、あわせて、ITツール検索でAI機能を有するツールを絞り込み、判別しやすくする見直しも行われました",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "旧「IT導入補助金」は、中小企業・小規模事業者が労働生産性の向上を目的として、ソフトウェア、サービスなどのITツールを導入する際に補助金を交付して支援する制度として誕生しました",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の下部組織であり、中小企業の育成と発展を任務とする中小企業庁が主体となり、事務局を通じて補助金が交付される仕組みです",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模事業者にとっては、ITツールを低リスクで導入し、業務効率化やDXを達成できるというメリットがあります",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、申請が通らなかった場合には内容を変更して再度申請できる、複数の中小企業・小規模事業者が連携して申請することもできるなど、申請のハードルを下げる工夫もされています",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画期間において、1人当たり給与支給総額（非常勤を含む全従業員）の年平均成長率を日本銀行が定める「物価安定の目標」+1.5パーセント以上向上させること",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "交付申請時 点で賃金引上げ計画を従業員に表明していること",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "1月23日更新 【デジタル化・AI導入補助金2026】デジタル化・AI導入補助金2026の概要について（中小企業デジタル化・AI導入支援事業事務局ポータルサイト）",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "対象となるのは中小企業・小規模事業者などで、「補助事業者」と呼ばれます",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "Webページにはあらかじめ独立行政法人中小企業基盤整備機構の審査を受けた「IT導入支援事業者」のソフトウェア、サービスなどが多数公開され、目的に応じて選択することができます",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "補助金申請者（中小企業・小規模事業者等皆さま）は、複数者連携デジタル化・AI導入枠を除き、デジタル化・AI導入補助金事務局に登録された「IT導入支援事業者」とパートナーシップを組んで申請することが必要となります",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "」（中小企業デジタル化・AI導入支援事業ポータルサイト）",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化・AI導入補助金（旧：IT導入補助金）とは、中小企業や小規模事業者などを対象に、ITツールやクラウドシステムなどを導入する際の経費を一部補助する制度を指します",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模事業者",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "1. インボイス枠｜小規模事業者の補助率は最大80％",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化・AI導入補助金（旧：IT導入補助金）とは、中小企業や小規模事業者などを対象に、ITツールやクラウドシステムなどを導入する際の経費を一部補助する制度のことを指します",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "この制度の目的は、自社の課題やニーズに合ったITツールの導入による、業務効率化や売上向上の支援です",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "50万円×グループ構成員数",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて3,000万円まで",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(c)事務費・専門家費：200万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１機能：～50万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～350万円 5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～50万円以下：3/4",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円～350万円：2/3",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "150万円～450万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①製造業、建設業、運輸業 資本金の額又は出資の総額が３億円以下の会社又は常時使用する従業員の数が３００人以下の会社及び個人事業主",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②卸売業 資本金の額又は出資の総額が１億円以下の会社又は常時使用する従業員の数が１００人以下の会社及び個人事業主",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金の額又は出資の総額が５千万円以下の会社又は常時使用する従業員の数が１００人以下の会社及び個人事業主",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④小売業 資本金の額又は出資の総額が５千万円以下の会社又は常時使用する従業員の数が５０人以下の会社及び個人事業主",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金の額又は出資の総額が３億円以下の会社又は常時使用する従業員の数が９００人以下の会社及び個人事業主",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "補助率2分の1〜5分の4、上限450万円",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円以下",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "補助額は、1プロセス以上で5万円以上150万円未満、4プロセス以上で150万円以上450万円以下です",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "補助率は、補助額50万円以下の部分で中小企業が4分の3以内、小規模事業者が5分の4以内です",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "50万円超から350万円以下の部分は、原則として3分の2以内です",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "また、対象ソフトウェアの利用に必要なPC・タブレット等は10万円以下、レジ・券売機等は20万円以下の範囲で対象になる場合があります",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "補助額は350万円以下で、中小企業・小規模事業者等と取引する発注側の事業者も対象になり得ます",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "補助額は5万円から150万円までです",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限額は経費区分によって異なり、基盤導入経費と消費動向等分析経費の合計で3,000万円が上限とされています",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT-4o（GPT-4o）を使いこなすには？料金や使い方、GPT-4との違いから利用制限まで徹底解説",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "5万円～150万円",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "150万円～450万円",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "～350万円",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "（ITツールが保有する機能が1機能のみの場合：～50万円）",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITツールの補助額が50万円以下",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITツールの補助額が50万円超 350万円以下",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "（下限なし）～350万円以下",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば中小企業の消費動向等分析経費では、補助率2/3以内、補助額50万円以下×グループ構成員数が支援されます",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "50万円超～350万円",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "補助額のうち50万円以下については補助率は3/4以内（ただし、小規模事業者は4/5以内）、50万円超については補助率は2/3以内",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "基盤導入経費と消費動向分析経費の合計額は3000万円が上限",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大450万円の補助金を受けられます",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "1プロセス以上：5万円以上150万円未満",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "4プロセス以上：150万円以上450万円以下",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "50万円以下",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "50万円超〜350万円以下",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "10万円以下",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円以下",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "※3 補助額50万円超の際の補助率は、補助額のうち50万円以下については3/4（小規模事業者は4/5）、50万円超については2/3",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "（下限なし）～350万円以下",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "5万円以上150万円以下",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "50万円以下×グループ構成員数",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円以下※2",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "50万円超〜350万円以下×グループ構成員数",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "10万円×グループ構成員数",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入の費用は何で決まるか｜中小企業が見落とす4つの費用と見積の比べ方",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの月額に人数を掛ければ出るからです",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "情シス代行を8年続けてきた側から、AI導入の費用がどこで決まるかを書きます",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入の費用は、4つに分かれる",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "見積や社内稟議で「AI導入費用」とひとまとめにされがちですが、中身はだいたい次の4つです",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT、Gemini、Copilot などの法人向けプランは、1人あたりの月額で契約する形が多いです",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "人数と月数で読めるので、4つの中ではいちばん見積もりやすい費用です",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "…全社一斉より、1つの業務から始めるほうが、試行の費用も社内の時間も小さく済みます",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "この時間に時給相当の金額を掛け、上の4つの費用の合計と比べる",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化・AI導入補助金2026（旧：IT導入補助金）は、中小企業・小規模事業者の業務効率化・生産性向上を目的に、ITツール（ソフトウェアやサービス等）を導入する際、その費用の一部を補助する制度です",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "• 令和7年度補正予算事業から、「デジタル化・AI導入補助金（旧：IT導入補助金）」と名称",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ ITツール：消費動向分析システム、経営分析システム、需要予測システム、電子地域通貨システム、",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "バックオフィスから経営を強くする",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "経理・人事・経営企画といった企業の基幹業務における具体的なユースケースをご紹介",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "「契約書の見落としが怖い」「顧問弁護士に頼む予算を見直したい」",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "申請の流れは、まず自社の経営課題を整理し、課題に合うITツールを選定するところから始まります",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "削減した時間は、月次決算の早期化と経営資料の作成に充てる",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド予算管理ソフト",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド/オンプレミス対応型経営管理システム",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "経営情報TOP",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "「IT導入に興味はあるけど、何から始めればいいかわからない」「かなりの予算が必要となるのではないか」・・・こういったお悩みを抱えているご担当者さまも多いのではないでしょうか",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2025年4月にスタートしたポータルサイト「デジwith」にて経営診断（旧みらデジ経営チェックの後継機能）を実施しておくと、審査において加点対象となります",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化・AI導入補助金（旧：IT導入補助金）は2026年も実施！対象者や申請枠、申請の流れを解説 | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "会計・財務・経営",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金の交付申請を行う準備として、まずは自社の業種や事業規模、経営課題に沿って、IT導入支援事業者と導入したいITツールを選定しておきましょう",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "年商とは？年収や売上高との違い・伸ばすための経営基盤の作り方を解説",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "介護施設の経営は難しい？安定した経営を目指すためのポイントを解説",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益とは？求め方・計算方法や経営分析の方法をわかりやすく紹介",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "純資産の求め方や総資産との違いは？ 経営判断への活用方法を解説",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "負債とは？意味や種類、経営判断への活用方法をわかりやすく解説",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "赤字とは？赤字決算で免除される税金や赤字経営の脱却方法を解説",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "意思決定のための会計とは",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "ROI（投資利益率）とは？算出方法や間違えやすい単語との違いや関係性もまとめて解説",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー経営とは？これまでの経営手法との違いやメリットなどを解説",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "予算管理システムの選び方",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "予算管理とは？ 基本と手順を細かく解説",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "予実管理とは",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "費用対効果は「やめられた時間」で測る",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "経営、業種・業界、さまざまな切り口で、現場に生きる情報をお届けします",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中小企業の経営課題やDXなどのテーマについて、YouTube動画の内容を交えながら解説します",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のIT経営",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "売上、利益、人、資金…、経営の悩みは尽きません",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "六つの経営課題を起点に、「ITが何のために役立つのか」を整理します",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "経営課題や解決策を整理しておきたい",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業の役員・従業員が経営に強く関与している企業",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "詳細：申請マイページ上で、会社情報や経営状況を入力する",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "単にITツールの導入が目的ではなく、自社の経営課題を分析したうえで、それを解決する適切なITツールの選定と目標設定を明確にし、申請内容に具体性を持たせることが重要なポイントです",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、紙やExcelベースの在庫管理が原因で在庫の過不足が経営上の課題となっているケースでは、「クラウド型の在庫管理システムを導入することで、リアルタイムで正確な在庫把握を実現し、管理コストの削減や顧客満足度の向上を目指す」など、経営課題に沿ったITツールの導入であることを具体的に説明できることがポイントです",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ経営（会計）",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ経営（人事管理）",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし・・・予算的に厳しい・・・とあきらめてはいませんか？",
+    "url": "https://itm.j-carnet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "経営革新等支援機関とは",
+    "url": "https://hanaoka-kaikei.tkcnf.com/tkc-it-hojo",
+    "pass": 3
+   },
+   {
+    "quote": "TKC経営指標（速報版）",
+    "url": "https://hanaoka-kaikei.tkcnf.com/tkc-it-hojo",
+    "pass": 3
+   },
+   {
+    "quote": "部門別予算策定システム",
+    "url": "https://hanaoka-kaikei.tkcnf.com/tkc-it-hojo",
+    "pass": 3
+   },
+   {
+    "quote": "④IT導入支援事業者の代表者および役員の経営する企業等（個人事業主）は、交付申請できません",
+    "url": "https://hanaoka-kaikei.tkcnf.com/tkc-it-hojo",
+    "pass": 3
+   },
+   {
+    "quote": "・経営計画の策定支援",
+    "url": "https://hanaoka-kaikei.tkcnf.com/tkc-it-hojo",
+    "pass": 3
+   },
+   {
+    "quote": "・経営相談等",
+    "url": "https://hanaoka-kaikei.tkcnf.com/tkc-it-hojo",
+    "pass": 3
+   },
+   {
+    "quote": "経営者視点で言えば、“AI導入＋賃上げ”の2点セットで国が応援する設計になっている",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "経営者にとって、これほど合理的な話はありません",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "経営者視点の翻訳:",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "社長が自分でやるべきは Step 1 と Step 2 の意思決定だけ",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "導入後の投資回収月数は、補助金活用ありとなしの2パターンで試算しておくと経営判断が早くなります",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "対象：中小企業の経営者・経営者",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の『あと一歩』の壁を、現場と経営の両方から越えていきます",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年7月最新】デジタル化・AI導入補助金とは？申請方法やスケジュールを徹底解説｜補助金コラム｜株式会社中小企業経営支援事務所",
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 中小企業経営支援事務所",
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "pass": 3
+   },
+   {
+    "quote": "経営改善計画策定支援",
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "pass": 3
+   },
+   {
+    "quote": "経営力向上計画",
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "pass": 3
+   },
+   {
+    "quote": "経営革新計画",
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "pass": 3
+   },
+   {
+    "quote": "経営トピックス",
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "導入関連費（保守運用やマニュアル作成等のサポート費用と、",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30％以上である月が3か月以上であること",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で雇用している従業員が全従業員の30％以上である月が３か月以上あることを示した場合は、補助率２／３以内",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 見積書作成にかかる工数が大幅に削減",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約1.5か月要していた業務を、最短５日に短縮",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工数の効率化が課題",
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数51名以上",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度からは「デジタル化・AI導入補助金」として運用され、旧IT導入補助金の仕組みを引き継ぎながら、デジタル化やAI活用をより前面に出した制度になっています",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度は「デジタル化・AI導入補助金」という名称で運用されている",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "計画書では実施体制と導入後の運用まで示す",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "正式には、2025年度まで「IT導入補助金」として運用されていた制度が、2026年度から「デジタル化・AI導入補助金」へ名称変更されています",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "利用部署、管理担当者、操作研修、運用ルール、効果測定の方法まで設計する必要があります",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "導入後もKPIを設定し、現場で使われる運用ルールを整えることで、AI導入補助金の効果を高めやすくなります",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "ITエンジニアとして、Javaによる業務アプリケーション開発やデータベースの保守・運用に従事",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "運用保守・故障紛失サポート",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年10月から令和7年9月の間で3か月以上、令和7年度改定の地域別最低賃金未満で雇用していた従業員数が全従業員の30%以上であることを示した事業者（※改定前の適法な賃金水準）",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITツールを導入し、利用・運用を開始した後に、導入した証拠を提出します",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、補助金が還付されるのは原則として導入実績の報告から1～2ヶ月後です",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "過去に採択された実績がある場合でも、交付決定日から12ヶ月以上経過していれば再度申請できるので、必要に応じたITツールの導入に役立ちます",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 3ヶ月以上、地域別最低賃金+50円以内で雇用している従業員数が全従業員数の30％を占める事業者",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "保守運用やマニュアル作成などのサポート",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "実績報告が提出されるまでにすべてのITツールにおいて「事業」が完了していること、ITツールの利用・運用が開始されている必要があります",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "業務時間が1/2以上削減された法人数",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "保育園に会計ソフトを導入するメリットは？選び方や運用方法も解説",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "工数管理、労務費管理をとことん楽に",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "freee工数管理",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "社宅制度の導入と運用外注をサポート",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "創業期の融資獲得を伴走支援",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの月額に人数を掛ければ出るからです",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "人数と月数で読めるので、4つの中ではいちばん見積もりやすい費用です",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "小売業様のSNS運用では、工程を分解して仕組みを作りました",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "年換算でおよそ520時間になります（自動化後の工数は想定値のため、試算です）",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ツールの利用料だけなら、人数と月額で計算できます",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "業務の棚卸しから、最小構成での試行、運用ルールの整備、研修まで",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金支援事業者＆ソリューションベンダーとして、数多くの中小企業の補助金活用とDXに伴走してきた大塚商会が、採択に向けた申請支援はもちろん、ITツールのご提案から導入後の運用保守まで全面サポートします",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "（注2）令和6年10月から令和7年9月までの間で3か月以上、令和7年度改定の地域別最低賃金未満で雇用している従業員が全従業員の30%以上であることを示した場合の補助率は、2/3以内",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "実績と信頼性の高いIT導入支援事業者と連携することで、申請書作成、導入から運用後のサポートまで一貫した体制を示すことができます",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー問わずITツールをご案内できるほか、具体的な業務改善からDXの実現に向けたご提案まで、「お客様のビジネスの成長」に伴走します",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP導入・運用の費用感",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "※3 令和6年10月から令和7年9月の間で3か月以上、令和7年度改定の地域別最低賃金未満で雇用していた従業員数が全従業員の30%以上であることを示した事業者",
+    "url": "https://hanaoka-kaikei.tkcnf.com/tkc-it-hojo",
+    "pass": 3
+   },
+   {
+    "quote": "従業員5名以下200万円／6〜20名500万円／21名以上1,000万円（賃上げ達成で各300・750・1,500万円）※2026年3月19日改定",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "– 上限額：従業員5名以下200万円／6〜20名500万円／21名以上1,000万円（賃上げ達成で各300万・750万・1,500万円）",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入後の継続運用体制",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "「導入して終わり」ではなく、誰がAIを運用するかまで書く",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "外部の伴走支援を組み込むと、この項目が一気に通りやすくなる",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "落とし穴3｜「補助金もらって終わり」で運用が止まる",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "理由は単純で、「導入支援」と「運用定着」は別物だから",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "補助金は実質3ヶ月で回収",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "Step 4: 申請・採択待ち（1〜2ヶ月）",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "Step 5: 採択後の発注・導入・実績報告（3〜12ヶ月）",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "合計で6〜12ヶ月程度かかるのが一般的",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入が「実装段階で止まる」課題に向き合い、業務改革・システム導入・営業プロセス設計の知見を活かして、中小企業の現場でAIを「動く資産」に変える伴走支援（FDEモデル）を提供している",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "そのAI、何ヶ月で元が取れますか",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "AI研修の費用相場はいくら？形式別・人数別の料金と内訳、助成金で抑える方法と選び方【2026年】",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "※2024年10月から2025年9月の間に、「地域別最低賃金以上かつ2025年度改定後の地域別最低賃金未満で雇用している従業員」が全従業員の30％以上である月が3ヶ月以上ある場合は、補助率が2/3以内",
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "pass": 3
+   },
+   {
+    "quote": "業務向けAIアプリをノーコードで開発・運用できる生成AI基盤です",
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "pass": 3
+   },
+   {
+    "quote": "申請から補助金の受け取りまでは、おおむね8～12ヶ月程度が目安です",
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的には、まず申請から約1～2ヶ月程度で交付決定が行われます",
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、交付決定を受けてからITツールの導入や支払いを行い、約6ヶ月間の補助事業を実施、事業終了後に実績報告を提出します",
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "pass": 3
+   },
+   {
+    "quote": "実績報告の審査・補助金額の確定には約2～4ヶ月程度かかることが多く、補助金が実際に振り込まれるのはそのあとのタイミングです",
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "※（免責）掲載情報は記事作成日時点のものです",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年公認会計士試験合格後、新日本有限責任監査法人に入所し、法定監査やIPO支援業務に従事",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "水増し請求は税務調査でバレる？発覚した場合の法的責任や防止するポイントを解説",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、加点は採択を保証するものではありませんが、採択率向上に寄与する要素の一つです",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "中古車保証比較.COM",
+    "url": "https://itm.j-carnet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の説明も、2026年の交付決定や成果を保証するものではありません",
+    "url": "https://it-shien.jp/cases/",
+    "pass": 3
+   },
+   {
+    "quote": "場合によっては追加資料の提出やヒアリングが求められることもあるため、説明責任を果たせる体制を整えておきましょう",
+    "url": "https://www.aidma-hd.jp/ai/ai-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "制度の要件や申請スケジュールを正確に把握し、事業計画の精度を高めることが採択への近道となります",
+    "url": "https://www.aidma-hd.jp/ai/ai-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "不良品の自動検出・検査精度の向上・検査員の負担軽減という点で、自動車部品・電子部品・食品加工などほぼすべての業種に関係します",
+    "url": "https://www.plus-impact.co/ai-training/media/joseikin-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "記録の精度が審査に直結するため、担当者を決めて管理体制を整えておくことが重要です",
+    "url": "https://www.plus-impact.co/ai-training/media/joseikin-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "期待できる効果：省人化・検査精度の安定",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "人間の目視検査では疲労や集中力の低下によって検出精度にばらつきが生じますが、AIは一定の基準で24時間検査を継続できます",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "2段階の検証（疵の種類を限定した精度評価→追加学習による判定モデル構築）を経て実用化",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "過剰在庫は倉庫費用と廃棄コストに、欠品は機会損失に直結するため、予測精度の向上は経営に直接的な影響を与えます",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "東芝デジタルソリューションズが開発した過検出抑制技術のように、AI自体の精度を高める技術も進歩しており、「AIを入れたが誤判定が多くて使えない」という初期導入時の課題も解消されつつあります",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "要件定義の段階から現場メンバーをプロジェクトに参加させ、テスト運用で「使いやすさ」「判定精度」のフィードバックを得ることが定着率を高めるうえで欠かせません",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "AIモデルは時間の経過や製品・工程の変更によって精度が低下する場合があるため、定期的な精度評価とモデルの再学習を行う運用体制を整えておくことが重要です",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "高精度な加工を求められる金型や精密部品製造など、高精度・高効率を両立したい製造現場に最適なソリューションです",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/smart-factory/manufacturing-it-introduction-subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "【ブルーム-ノボテスト】機上測定ソフトウェア フォームコントロールX(エックス)：マシニングセンタでのワークの高精度測定と追込み加工プロセスの自動化",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/smart-factory/manufacturing-it-introduction-subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械業界において、高精度測定と加工プロセスの自動化は生産性向上の鍵となっています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/smart-factory/manufacturing-it-introduction-subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "「利用者」とは、本規約の標題に示す補助金の交付規程等に基づき申請を行う資格を有する法人・団体等であって、当サイトを利用して申請を行う者（利用者に所属する役員、職員、従業員および利用者が自らの判断と責任において選定し当サイト上の操作を委託する第三者を含みます）を総称していいます",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトでは、利用者の判断と責任のもとで、交付規程等および当社資料の内容を十分理解した上で、当サイトを利用者が操作し、申請情報をアップロードまたは入力する必要があります",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトにおける申請情報の全部または一部に秘密情報（第11条第1項に定義）が含まれる場合、利用者は、利用者の判断と責任のもとで、当該秘密情報を含む申請情報を当サイトにアップロードまたは入力するものとします",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "この場合において、当社は、利用者に対しその理由について開示義務を負わず、また利用登録の拒否または取消しによって利用者に生じた損害について賠償する義務を一切負わないものとします",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者は、自己の管理と責任のもとで、当サイトを利用するものとします",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "この場合、利用者は、自己のID・パスワード等の管理および利用につき、一切の責任を負うものとします",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "ID・パスワード等が第三者によって使用されたことにより利用者または第三者に損害が生じた場合には、当社の故意または重大な過失に帰すべき事由に起因するときを除き、当社は一切の責任を負わないものとします",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者は、申請のために必要があると自ら判断する申請情報を、利用者自らの責任において当サイトにアップロードまたは入力するものとします",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、前各項に定める事由により当サイトを運営できなかったことにより利用者または第三者が損害を被った場合であっても、当社の故意または重過失に起因する場合を除き、一切責任を負わないものとします",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "当社または第三者（他の利用者を含みます）の著作権、商標権、特許権等の知的財産権、名誉権、プライバシー権、その他法令上または契約上の権利を侵害する行為",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者は、第1項各号に該当する行為を行った場合または本規約の全部もしくは一部に違反し当社に損害を与えた場合には、その損害を賠償するものとします",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者による当サイトの利用に関して、利用者の責に帰すべき事由により当社と第三者との間で紛争等が生じた場合には、利用者は当社を免責するものとし、利用者自らの責任と費用負担において当該紛争等を解決するものとします",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者は、利用者自身の責任において本規約、交付規程等および当社資料の定めを遵守のうえ、当サイトを利用する義務を負うものとします",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "また、利用者は、当サイトに関して利用者が行う一切の行為およびその結果につき、一切の責任を負うものとします",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者は、当サイトを利用するにあたり、必要な情報通信機器、インターネット通信環境、電力などを、利用者の費用と責任で確保する義務を負うものとします",
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "免責事項 | AI導入補助金ナビ",
+    "url": "https://digital-ai-hojokin.jp/disclaimer/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は掲載する情報の正確性・最新性に努めておりますが、その完全性を保証するものではありません",
+    "url": "https://digital-ai-hojokin.jp/disclaimer/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 損害の免責",
+    "url": "https://digital-ai-hojokin.jp/disclaimer/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの情報を利用したことにより生じたいかなる損害についても、当社は一切の責任を負いません",
+    "url": "https://digital-ai-hojokin.jp/disclaimer/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金の申請・採択に関する判断は、利用者ご自身の責任で行ってください",
+    "url": "https://digital-ai-hojokin.jp/disclaimer/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトが紹介する専門家（中小企業診断士・行政書士・社労士・コンサルタント等）のサービス内容・品質について、当社は保証するものではありません",
+    "url": "https://digital-ai-hojokin.jp/disclaimer/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトから外部サイトへのリンクは利便性のために設置しており、リンク先サイトの内容について当社は責任を負いません",
+    "url": "https://digital-ai-hojokin.jp/disclaimer/",
+    "pass": 3
+   },
+   {
+    "quote": "天災・システム障害等の不可抗力により当サイトの利用ができなくなった場合、それに起因する損害について当社は責任を負いません",
+    "url": "https://digital-ai-hojokin.jp/disclaimer/",
+    "pass": 3
+   },
+   {
+    "quote": "本免責事項に関するお問い合わせは、",
+    "url": "https://digital-ai-hojokin.jp/disclaimer/",
+    "pass": 3
+   },
+   {
+    "quote": "十分に時間をかけて加点要件や減点措置に対応し、事業計画の精度を向上させることがこれまで以上に重要です",
+    "url": "https://chusho-dx.bcnretail.com/dx_actualize/detail/20260408_178693.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、費用の把握と並行して「どの業務課題を解決したいのか」を先に整理することが、費用の見積もり精度を高めるうえで非常に重要です",
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "意思決定精度向上・在庫最適化",
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "また、AI導入後も定期的なアップデート研修（年1〜2回程度）を継続費用として計上しておくことで、長期的な費用計画の精度が上がります",
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "業務上の機密情報・個人情報を扱う場合は、必ず「入力データが学習に使われないことが保証されている企業向けプラン」を選択してください",
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業向けプランでは「入力データをAIの学習に使用しない」ことが契約上保証されており、データ保護の観点から安心して使えます",
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金は受け取って終わりではなく、一定期間の継続的な責任を伴うものとして理解してください",
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "支援の有無は採択を保証しません",
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金は「もらったら終わり」ではなく、「一定期間の事後報告義務を伴う継続的な責任」があるものとして理解してください",
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "AI導入のROIを事前に試算することで、社内の稟議通過、補助金申請書類の説得力強化、投資判断の精度向上に役立てられます",
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "仮定値で効果を保証せず、自社のベースラインと実績値で計算してください",
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けのプランは入力データが学習に使われないことが契約上保証されているケースが多く、業務利用では企業向けプランが基本です",
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて中小企業診断士や認定支援機関へ相談できますが、採択を保証するものではありません",
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "専門家の利用は採択を保証せず、報酬や支援範囲も事前確認が必要です",
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "第三に「売上向上」で、提案精度向上やリード獲得増などが対象です",
+    "url": "https://nocode-sol.co.jp/blog/ai-implementation-cost-effectiveness-executives/",
+    "pass": 3
+   },
+   {
+    "quote": "経営層向けには、精度やモデル名よりも、",
+    "url": "https://nocode-sol.co.jp/blog/ai-implementation-cost-effectiveness-executives/",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "専門性を生かし、大手プログラミングスクールにて、トレンドや最新情報を反映したIT技術・AIに関する記名記事を多数執筆している",
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】「デジタル化・AI導入補助金」とは？申請の流れやスケジュール、活用方法をわかりやすく解説 | NTT docomo Business Watch | NTTドコモビジネス 法人のお客さま",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモビジネスウォッチ",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモビジネス",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモビジネスグループのサステナビリティ",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモグループ",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモビジネス ビジネスポータル",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモ(携帯回線)",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモ",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモ 通信障害情報",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "フリーワードでNTTドコモビジネスの",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTT docomo Business WatchはNTTドコモビジネスが運営しています",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTT docomo Business Watch",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、NTTドコモビジネスからおすすめのITツールをいくつかご紹介します",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "各パックはNTTドコモビジネスが使いこなせるまで手厚くサポートするほか、IT導入補助金の申請もサポートします",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "「申請の手順が多く、申請がうまくできるか不安」などのお悩みをお持ちの方は是非、お気軽にNTTドコモビジネスまでお問い合わせください",
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "pass": 3
+   },
+   {
+    "quote": "シェアNo.1のクラウド会計ソフト*1「freee会計」",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "シェアNo.1「freee会計」の評判は？利用者の声まとめ",
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "pass": 3
+   },
+   {
+    "quote": "よかったらシェアしてね！",
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "ERPの起源やシェア、失敗例などいろいろな視点でERPをご紹介しています",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "ERPのシェア",
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒で日本IBMに入社し、コンサルタントとして大手クライアントの業務改革・システム導入を担当",
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "pass": 3
+   },
+   {
+    "quote": "経営・企画では、市場や競合の調べもの、計画づくりのたたき台、アイデア出しに向いています",
+    "url": "https://coplus-one.jp/chusho-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "よかったらシェアしてね！",
+    "url": "https://www.aidma-hd.jp/ai/ai-subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "逆に言えば、今動いた製造業は競合他社より一歩早くAI人材を育成できる立場にあります",
+    "url": "https://www.plus-impact.co/ai-training/media/joseikin-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日立システムズ プレスリリース",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機×産総研：ベイズ最適化によるAI調整で1週間→1時間に短縮",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機と産業技術総合研究所（産総研）は、FA用ロボットのサーボシステムにおけるパラメータ調整をAIで自動化する技術を共同開発しています",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイセルはアクセンチュアと連携し、セイフティSBU（自動車エアバッグ用インフレータ等の安全装置事業部門）の技術開発センターにおいて、生成AIを活用した業務変革プロジェクトを推進しています",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "コマツ産機の予知保全システムは突発停止を防いで稼働率を上げ、三菱電機×産総研のAI調整技術は段取り・調整時間を短縮して性能を上げ、外観検査AIは不良流出を防いで品質を上げます",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "東京製鐵のAI画像検査、中部薬品の需要予測による在庫3割削減、三菱電機×産総研のAI調整技術による作業時間の大幅短縮など、具体的な成果を上げている事例も蓄積されてきています",
+    "url": "https://j-aix.or.jp/journal/702/",
+    "pass": 3
+   },
+   {
+    "quote": "【来歴】大手監査法人の経験を活かし、創業支援・補助金支援を中心とする「駒田会計事務所」を東京・渋谷に設立",
+    "url": "https://mono-support.com/blog/generative-ai-subsidy-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "市場性、新規性、顧客の課題、競合との差、付加価値、開発体制、データ確保、販売方法、収益計画、セキュリティ、知的財産の扱いを一つの事業計画として整合させます",
+    "url": "https://mono-support.com/blog/generative-ai-subsidy-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "競合ツールでなくこれを選ぶ理由まで書く",
+    "url": "https://gxo.co.jp/column/digital-ai-subsidy-2026-guide",
+    "pass": 3
+   },
+   {
+    "quote": "-Detailed explanation of the naturalization application process, necessary documents and conditions-",
+    "url": "https://www.shigyo.co.jp/en/search_post/business-subsidy/it/",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Gabczynski",
+    "url": "https://www.shigyo.co.jp/en/search_post/business-subsidy/it/",
+    "pass": 3
+   },
+   {
+    "quote": "Therefore, we have compiled a document outlining the necessary preparations and procedures after the grant decision for the application process of the Digitalization/AI Introduction Subsidy (formerly: IT Introduction Subsidy), as well as a document outlining the eligible projects and how to utilize the subsidy.",
+    "url": "https://www.shigyo.co.jp/en/search_post/business-subsidy/it/",
+    "pass": 3
+   },
+   {
+    "quote": "After you apply, a specialist staff member will guide you through the necessary documents for your application. If you have any difficulties with collecting documents, please feel free to contact us anytime during business hours.",
+    "url": "https://www.shigyo.co.jp/en/search_post/business-subsidy/it/",
+    "pass": 3
+   },
+   {
+    "quote": "It is necessary to apply in partnership with.",
+    "url": "https://www.shigyo.co.jp/en/search_post/business-subsidy/it/",
+    "pass": 3
+   },
+   {
+    "quote": "The cases in which it is necessary to form a consortium are as follows.",
+    "url": "https://www.shigyo.co.jp/en/search_post/business-subsidy/it/",
+    "pass": 3
+   },
+   {
+    "quote": "So, we have compiled materials that summarize the necessary preparations for applying for the old IT introduction subsidy, as well as the procedures after the grant decision, and materials that summarize the target projects and how to use the subsidy.",
+    "url": "https://www.shigyo.co.jp/en/search_post/business-subsidy/it/",
+    "pass": 3
+   },
+   {
+    "quote": "Applicants will be required to collect the necessary documents, fill out a hearing sheet to prepare a business plan, and conduct a telephone interview.",
+    "url": "https://www.shigyo.co.jp/en/search_post/business-subsidy/it/",
+    "pass": 3
+   },
+   {
+    "quote": "We will help you prepare and create the necessary application documents in Japanese, while communicating with you in English.",
+    "url": "https://www.small-business-japan.com/japan-start-up-subsidy-up-to-2m-opening-soon/",
+    "pass": 3
+   },
+   {
+    "quote": "We'll assist with all necessary preparations, including guidance on account setup and coordination for participation in a certified local government program.",
+    "url": "https://www.small-business-japan.com/japan-start-up-subsidy-up-to-2m-opening-soon/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【2026年7月最新】デジタル化・ AI導入補助金 とは？ 申請 方法 ... — 【2026年7月最新】デジタル化・ AI導入補助金 とは？ 申請 方法 ... 株式会社中小企業経営支援事務所 https://www.sme-support.co.jp > 補助金コラム",
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://it-shien.smrj.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/ai/basic/6599/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ntt.com/bizon/it-subsidy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://itm.j-carnet.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hanaoka-kaikei.tkcnf.com/tkc-it-hojo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sme-support.co.jp/column/p8120/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coplus-one.jp/chusho-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nocode-sol.co.jp/blog/ai-grants-examples/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-shien.jp/cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aidma-hd.jp/ai/ai-subsidy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plus-impact.co/ai-training/media/joseikin-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-aix.or.jp/journal/702/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.improbe.jp/it_hojo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/smart-factory/manufacturing-it-introduction-subsidy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rozetta.jp/lp/lp_deploy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wf.ikcedu.net/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://it-shien.smrj.go.jp/terms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-ai-hojokin.jp/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ardent.jp/rentoffice-consultation-center/news/jyoseikin-hojyokin/itdounyuhojyokin-demeritto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chusho-dx.bcnretail.com/dx_actualize/detail/20260408_178693.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nocode-sol.co.jp/blog/ai-implementation-cost-effectiveness-executives/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono-support.com/blog/generative-ai-subsidy-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digi-mado.jp/articles/ebf1e7be-d630-478a-ad35-6be534339080/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://it-shien.smrj.go.jp/applicant/subsidy/digitalbase/simulator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gxo.co.jp/column/digital-ai-subsidy-2026-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.broadleaf.co.jp/products/merit/subsidy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shigyo.co.jp/en/search_post/business-subsidy/it/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oecd.ai/en/dashboards/policy-initiatives/digitalization-and-ai-introduction-subsidy-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grants.dorado-group.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://menuforma.com/blog/japan-restaurant-subsidy-dx-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-ai-solutions.co.jp/en/services/hojokin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thegenkan.com/guide/grants/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi.com/english/open-innovation-program/koif/aistartup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/mohamad-ghaith-alzin-884782108_japanese-government-aidx-subsidies-complete-activity-7414496678571048962-B0sI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.small-business-japan.com/japan-start-up-subsidy-up-to-2m-opening-soon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labs.google/aifuturesfund/startupsupportprogram",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-businessvisa.com/en/en-subsidy/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AI導入の補助金申請・効果測定",
+   "results": [
+    "https://it-shien.smrj.go.jp/",
+    "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "https://biz.moneyforward.com/ai/basic/6599/",
+    "https://www.ntt.com/bizon/it-subsidy.html",
+    "https://www.freee.co.jp/kb/kb-accounting/it-shien/",
+    "https://marketing.ipros.jp/contents/knowledge/ai_introduction_subsidy/",
+    "https://www.mjs.co.jp/topics/lp/it-hojo/",
+    "https://mirasapo-plus.go.jp/subsidy/ithojo/",
+    "https://wf.ikcedu.net/"
+   ]
+  },
+  {
+   "query": "AI導入の補助金申請・効果測定 費用 相場",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "https://it-shien.smrj.go.jp/",
+    "https://www.youtube.com/watch?v=skeqnBrZmww",
+    "https://biz.moneyforward.com/ai/basic/6599/",
+    "https://www.nullkyoto.net/2026/10/26/ai-adoption-cost/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "https://www.ntt.com/bizon/it-subsidy.html",
+    "https://itm.j-carnet.co.jp/",
+    "https://hanaoka-kaikei.tkcnf.com/tkc-it-hojo"
+   ]
+  },
+  {
+   "query": "AI導入の補助金申請・効果測定 事例 中堅企業",
+   "results": [
+    "https://it-shien.smrj.go.jp/",
+    "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "https://www.sme-support.co.jp/column/p8120/",
+    "https://coplus-one.jp/chusho-ai/",
+    "https://nocode-sol.co.jp/blog/ai-grants-examples/",
+    "https://it-shien.jp/cases/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "https://www.aidma-hd.jp/ai/ai-subsidy/",
+    "https://wf.ikcedu.net/"
+   ]
+  },
+  {
+   "query": "AI導入の補助金申請・効果測定 工場 製造業",
+   "results": [
+    "https://it-shien.smrj.go.jp/",
+    "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "https://www.plus-impact.co/ai-training/media/joseikin-manufacturing",
+    "https://www.sme-support.co.jp/column/p8120/",
+    "https://j-aix.or.jp/journal/702/",
+    "https://www.improbe.jp/it_hojo.html",
+    "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "https://monoken.yamazen.co.jp/blog/articles/smart-factory/manufacturing-it-introduction-subsidy",
+    "https://www.rozetta.jp/lp/lp_deploy/",
+    "https://wf.ikcedu.net/"
+   ]
+  },
+  {
+   "query": "AI導入の補助金申請・効果測定 責任 範囲 免責",
+   "results": [
+    "https://it-shien.smrj.go.jp/terms/",
+    "https://digital-ai-hojokin.jp/disclaimer/",
+    "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "https://ardent.jp/rentoffice-consultation-center/news/jyoseikin-hojyokin/itdounyuhojyokin-demeritto/",
+    "https://biz.moneyforward.com/ai/basic/6599/",
+    "https://www.sme-support.co.jp/column/p8120/",
+    "https://chusho-dx.bcnretail.com/dx_actualize/detail/20260408_178693.html",
+    "https://www.ntt.com/bizon/it-subsidy.html",
+    "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "https://wf.ikcedu.net/"
+   ]
+  },
+  {
+   "query": "AI導入の補助金申請・効果測定 経営判断 損失額",
+   "results": [
+    "https://losta.co.jp/labo/ai-subsidy-cost/",
+    "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "https://nocode-sol.co.jp/blog/ai-implementation-cost-effectiveness-executives/",
+    "https://www.sme-support.co.jp/column/p8120/",
+    "https://mono-support.com/blog/generative-ai-subsidy-2026/",
+    "https://digi-mado.jp/articles/ebf1e7be-d630-478a-ad35-6be534339080/",
+    "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "https://it-shien.smrj.go.jp/applicant/subsidy/digitalbase/simulator/",
+    "https://www.ntt.com/bizon/it-subsidy.html",
+    "https://wf.ikcedu.net/"
+   ]
+  },
+  {
+   "query": "AI導入の補助金申請・効果測定 スタートアップ",
+   "results": [
+    "https://it-shien.smrj.go.jp/",
+    "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "https://www.sme-support.co.jp/column/p8120/",
+    "https://www.aidma-hd.jp/ai/ai-subsidy/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "https://www.ntt.com/bizon/it-subsidy.html",
+    "https://gxo.co.jp/column/digital-ai-subsidy-2026-guide",
+    "https://www.youtube.com/watch?v=skeqnBrZmww",
+    "https://www.broadleaf.co.jp/products/merit/subsidy.html",
+    "https://wf.ikcedu.net/"
+   ]
+  },
+  {
+   "query": "AI subsidy application support Japan",
+   "results": [
+    "https://www.shigyo.co.jp/en/search_post/business-subsidy/it/",
+    "https://oecd.ai/en/dashboards/policy-initiatives/digitalization-and-ai-introduction-subsidy-2026",
+    "https://grants.dorado-group.jp/",
+    "https://menuforma.com/blog/japan-restaurant-subsidy-dx-2026",
+    "https://tokyo-ai-solutions.co.jp/en/services/hojokin/",
+    "https://thegenkan.com/guide/grants/",
+    "https://mailmate.jp/blog/subsidies-for-startups-in-japan",
+    "https://aipicks.jp/en/research/ai-grants",
+    "https://labs.google/aifuturesfund/startupsupportprogram",
+    "https://wf.ikcedu.net/"
+   ]
+  },
+  {
+   "query": "AI subsidy application support Japan startup pricing",
+   "results": [
+    "https://www.shigyo.co.jp/en/search_post/business-subsidy/it/",
+    "https://oecd.ai/en/dashboards/policy-initiatives/digitalization-and-ai-introduction-subsidy-2026",
+    "https://thegenkan.com/guide/grants/",
+    "https://www.kddi.com/english/open-innovation-program/koif/aistartup/",
+    "https://www.linkedin.com/posts/mohamad-ghaith-alzin-884782108_japanese-government-aidx-subsidies-complete-activity-7414496678571048962-B0sI",
+    "https://www.small-business-japan.com/japan-start-up-subsidy-up-to-2m-opening-soon/",
+    "https://labs.google/aifuturesfund/startupsupportprogram",
+    "https://grants.dorado-group.jp/",
+    "https://japan-businessvisa.com/en-subsidy/",
+    "https://wf.ikcedu.net/"
+   ]
+  },
+  {
+   "query": "site:note.com AI導入の補助金申請・効果測定",
+   "results": [
+    "https://note.com/808jp/n/n1e810640296c",
+    "https://note.com/lmooi/n/n3ee832ae609f",
+    "https://note.com/daikidomon/n/n37b524f6b777",
+    "https://note.com/schoo_swing/n/n15f82430b8b5",
+    "https://note.com/ripla_business/n/n86fd9993a624",
+    "https://note.com/frontier_d_ai/n/n5ec2bb8a539d",
+    "https://note.com/noble_parrot8646/n/nd1c67c180040",
+    "https://note.com/carearc/n/n518429789036",
+    "https://note.com/joyous_shrew6274/n/nfe70962c9db5",
+    "https://note.com/carearc/n/n7b65347021b0"
+   ]
+  },
+  {
+   "query": "site:x.com AI導入の補助金申請・効果測定",
+   "results": [
+    "https://x.com/i/article/2110865722637447590",
+    "https://x.com/yamada___rika",
+    "https://x.com/tike1979",
+    "https://x.com/luigi_jpn/article/2095766103033282864",
+    "https://x.com/ChatgptAIskill",
+    "https://x.com/hayatecchi",
+    "https://x.com/GroooveOfficial",
+    "https://x.com/Graffer_Inc",
+    "https://x.com/i/article/2108747200486674533",
+    "https://x.com/abeofficenet"
+   ]
+  },
+  {
+   "query": "site:linkedin.com AI導入の補助金申請・効果測定",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E6%9C%AC%E9%83%A8%E3%80%91ai-operations-manager%EF%BC%88ai%E6%B4%BB%E7%94%A8%E6%8E%A8%E9%80%B2%E6%8B%85%E5%BD%93%EF%BC%89-at-raksul-4420900861",
+    "https://jp.linkedin.com/pulse/daily-ai-work-pulse-may-3rd-jeroen-ern%C3%A9-ljy2c?tl=ja",
+    "https://cm.linkedin.com/jobs/view/ai-bpr%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88%E3%80%90ai-bpo%E3%80%91-at-pksha-technology-4357703113",
+    "https://jp.linkedin.com/pulse/daily-ai-work-pulse-november-7th-jeroen-ern%C3%A9-me4fe?tl=ja",
+    "https://jp.linkedin.com/in/yprofil",
+    "https://jp.linkedin.com/pulse/2025-retrospective-2026-horizon-era-ai-maturity-becheroy--gksxe?tl=ja",
+    "https://jp.linkedin.com/pulse/daily-ai-work-pulse-november-2nd-jeroen-ern%C3%A9-brfue?tl=ja",
+    "https://jp.linkedin.com/pulse/redeployment-dividend-why-ai-unleash-your-people-replace-mario-thomas-ovyme?tl=ja",
+    "https://jp.linkedin.com/pulse/practical-guide-redesigning-assessments-higher-ai-md-badiuzzaman-e0abc?tl=ja",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E6%A1%88%E4%BB%B6no-1606%EF%BC%9E%E3%80%90%EF%BD%9E1100%E4%B8%87%E5%86%86%E3%80%91ai%E6%8E%A8%E9%80%B2%E8%B2%AC%E4%BB%BB%E8%80%85%EF%BD%9Cai%E3%82%92%E5%89%8D%E6%8F%90%E3%81%AB%E5%85%A8%E7%A4%BE%E3%81%AE%E6%A5%AD%E5%8B%99%E3%82%92%E5%86%8D%E8%A8%AD%E8%A8%88%E3%81%97%E7%94%9F%E7%94%A3%E6%80%A7%E6%9C%80%E5%A4%A7%E5%8C%96%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%EF%BD%9Cceo%E7%9B%B4%E4%B8%8B%E3%81%AE%E6%96%B0%E8%A8%AD%E3%83%9D%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3-at-linkard-inc-4486106727"
+   ]
+  },
+  {
+   "query": "site:facebook.com AI導入の補助金申請・効果測定",
+   "results": [
+    "https://www.facebook.com/sakatamakoto/posts/%E9%9B%A3%E9%96%A2%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AE%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E6%9B%B8%E3%82%82ai%E6%8E%A1%E6%8A%9E%E3%81%AF%E5%8B%BF%E8%AB%96%E6%8F%90%E5%87%BA%E8%87%AA%E4%BD%93%E3%81%8C%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AE%E3%83%87%E3%83%A2%E7%94%B3%E8%AB%8B%E6%9B%B8%E3%82%92%E7%94%9F%E6%88%90ai%E3%81%A715%E5%88%86%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%81%97%E3%81%8B%E3%82%82%E6%8E%A1%E6%8A%9E%E7%8E%87%E3%81%82%E3%81%92%E3%82%8B%E3%82%B0%E3%83%A9%E3%83%95%E4%BB%98%E3%81%8D-a/786620223683533/",
+    "https://www.facebook.com/kidera.yoshi/posts/%E4%B8%96%E7%95%8C%E3%81%AE%E3%82%BD%E3%83%AD%E3%83%97%E3%83%AC%E3%83%8A%E3%83%BC%E9%87%8D%E8%A6%81%E5%8B%95%E5%90%912026%E5%B9%B411%E6%9C%883%E6%97%A5%E7%89%88%E8%AA%BF%E6%9F%BB%E5%9F%BA%E6%BA%962026%E5%B9%B411%E6%9C%883%E6%97%A5%E5%8D%88%E5%89%8D8%E6%99%82%E6%97%A5%E6%9C%AC%E6%99%82%E9%96%93%E5%AF%BE%E8%B1%A1%E6%9C%9F%E9%96%9311%E6%9C%882%E6%97%A5%E3%81%AE%E6%96%B0%E7%9D%80%E6%83%85%E5%A0%B1%E3%82%92%E6%9C%80%E5%84%AA%E5%85%88%E3%81%97%E9%87%8D%E8%A6%81%E6%A1%88%E4%BB%B6%E3%81%AF10%E6%9C%8828%E6%97%A5%E3%81%BE%E3%81%A7%E6%8B%A1%E5%A4%A7/10164659883394194/",
+    "https://www.facebook.com/61578069753202/posts/%E9%81%8B%E8%BC%B8%E5%80%89%E5%BA%AB%E6%A5%AD%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8%E8%A3%9C%E5%8A%A9%E9%87%91%E6%B4%BB%E7%94%A8%E3%81%A7%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E7%AE%A1%E7%90%86%E3%82%92%E5%8A%B9%E7%8E%87%E5%8C%96%E5%B1%B1%E5%BD%A2%E7%9C%8C%E5%95%86%E5%B7%A5%E4%BC%9A%E9%80%A3%E5%90%88%E4%BC%9A%E3%81%A7%E3%81%99%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%82%84%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E7%AE%A1%E7%90%86%E3%81%AE%E7%85%A9%E9%9B%91%E3%81%95%E3%82%82%E3%81%A3%E3%81%A8%E5%8F%96%E5%BC%95%E9%87%8F%E3%82%92%E5%A2%97%E3%82%84%E3%81%97%E3%81%9F%E3%81%84%E3%81%A8%E3%81%8A%E6%82%A9%E3%81%BF%E3%81%AE%E9%81%8B%E8%BC%B8/122171173490935658/",
+    "https://www.facebook.com/100027783742231/posts/%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E3%81%AE%E8%B3%AA%E3%81%A8%E9%87%8F%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%94%BF%E7%AD%96%E6%8F%90%E8%A8%80%E6%9B%B8%E4%BA%BA%E3%81%8C%E5%83%8D%E3%81%8D%E7%B6%9A%E3%81%91%E3%82%89%E3%82%8C%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E6%95%B4%E5%82%99%E3%81%99%E3%82%8B%E3%81%93%E3%81%A81-%E8%A6%81%E7%B4%84%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E3%82%92%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E4%BA%BA%E6%9D%90%E3%81%AE%E7%A2%BA%E4%BF%9D%E3%81%A8%E5%AE%9A%E7%9D%80%E3%82%92%E8%BB%B8%E3%81%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E8%B3%AA%E3%81%A8%E9%87%8F%E3%82%92%E5%90%8C%E6%99%82%E3%81%AB%E9%AB%98%E3%82%81%E3%82%8B/2192996674969769/",
+    "https://www.facebook.com/yorozusien/posts/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E7%9C%81%E5%8A%9B%E5%8C%96%E6%8A%95%E8%B3%87%E8%A3%9C%E5%8A%A9%E9%87%91%E4%B8%80%E8%88%AC%E5%9E%8B%E5%AE%9F%E8%B7%B5%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E6%8E%A1%E6%8A%9E%E7%8E%87%E3%81%8C%E5%85%A86%E5%9B%9E%E7%B4%AF%E8%A8%88656%E6%9C%80%E8%BF%91%E7%AC%AC6%E5%9B%9E%E3%81%AE%E6%8E%A1%E6%8A%9E%E7%8E%87%E3%81%AF639%E8%B3%A2%E3%81%8F%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%88%B6%E5%BA%A6%E7%90%86%E8%A7%A3%E3%81%8B%E3%82%89%E7%8F%BE%E5%A0%B4%E5%88%86%E6%9E%90%E6%95%B0%E5%80%A4%E8%A8%88%E7%94%BB%E5%AF%A9%E6%9F%BB%E5%AF%BE%E7%AD%96%E6%8E%A1%E6%8A%9E%E5%BE%8C%E3%81%AE%E5%AE%9F%E8%A1%8C/1741417341057165/",
+    "https://www.facebook.com/gmomedia/?locale=ja_JP",
+    "https://www.facebook.com/p/It%E3%83%88%E3%83%83%E3%83%97%E3%82%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100083627176982/",
+    "https://www.facebook.com/100027783742231/posts/%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E3%81%AE%E8%B3%AA%E3%81%A8%E9%87%8F%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%94%BF%E7%AD%96%E6%8F%90%E8%A8%80%E6%9B%B8%E4%BA%BA%E3%81%8C%E5%83%8D%E3%81%8D%E7%B6%9A%E3%81%91%E3%82%89%E3%82%8C%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E6%95%B4%E5%82%99%E3%81%99%E3%82%8B%E3%81%93%E3%81%A81-%E8%A6%81%E7%B4%84%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E3%82%92%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E4%BA%BA%E6%9D%90%E3%81%AE%E7%A2%BA%E4%BF%9D%E3%81%A8%E5%AE%9A%E7%9D%80%E3%82%92%E8%BB%B8%E3%81%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E8%B3%AA%E3%81%A8%E9%87%8F%E3%82%92%E5%90%8C%E6%99%82%E3%81%AB%E9%AB%98%E3%82%81%E3%82%8B/2192995481636555/",
+    "https://www.facebook.com/groups/1783180415267083/posts/4670615639856865/",
+    "https://www.facebook.com/groups/aiacademy.jp/"
+   ]
+  },
+  {
+   "query": "AI導入の補助金申請・効果測定 note 社長",
+   "results": [
+    "https://note.com/808jp/n/n1e810640296c",
+    "https://note.com/victorconsulting/n/n731aeae991b2",
+    "https://note.com/chusho_yosuke/n/ne5c29d3e6c7a",
+    "https://note.com/bob_san/n/n94026706cc94",
+    "https://www.youtube.com/watch?v=skeqnBrZmww",
+    "https://note.com/abetakaki/n/nebc4c3e49ab8",
+    "https://ittoollist.com/",
+    "https://it-shien.smrj.go.jp/2024/",
+    "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/"
+   ]
+  },
+  {
+   "query": "AI導入の補助金申請・効果測定 X 投稿",
+   "results": [
+    "https://www.sme-support.co.jp/column/p8120/",
+    "https://it-shien.smrj.go.jp/",
+    "https://x.com/meti_chusho/status/2031299761815564609",
+    "https://ick-inc.co.jp/icksns/",
+    "https://so-labo.co.jp/hojyokin/it-hojyo/basic/781/",
+    "https://liftbaseinc.com/column/ai-subsidies-sme",
+    "https://www.chusho.meti.go.jp/koukai/yosan/r8/digital_ai_summary.pdf",
+    "https://www.youtube.com/watch?v=jzaI3mrmavk",
+    "https://gxo.co.jp/column/it-subsidy-application-writing-tips",
+    "https://wf.ikcedu.net/"
+   ]
+  },
+  {
+   "query": "AI subsidy application support Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/the-japan-times_a-defense-ministry-linked-research-subsidy-activity-7518560756939063300-Qw6w",
+    "https://www.linkedin.com/pulse/nordic-innovation-house-tokyo-june-2026-jn6me",
+    "https://www.linkedin.com/posts/chandra-r-srikanth-6b13a05_indiaai-mission-sarvam-others-to-get-100-activity-7342781288703004672-wNrI",
+    "https://www.linkedin.com/pulse/japans-ai-bet-your-need-to-knows-2026-richard-mort-yve3f",
+    "https://www.linkedin.com/posts/glencathey_so-about-ai-subsidiesexactly-how-subsidized-activity-7475888056617660416-nAe1",
+    "https://www.linkedin.com/posts/robertquinn2020_chipdesign-semiconductormanufacturing-activity-7372464041061044224-FoQ1",
+    "https://lu.linkedin.com/jobs/view/ai-engineer-ii-subsidy-projects-fixed-term-24-months-at-luxembourg-national-data-service-lnds-4462788740",
+    "https://www.linkedin.com/in/jakstian/",
+    "https://www.linkedin.com/posts/gidc-bt_gelephumindfulnesscity-gidc-highreso-activity-7496520133314506752-n1oG",
+    "https://www.linkedin.com/company/bdc-tokyo"
+   ]
+  }
+ ],
+ "missing": {}
+}

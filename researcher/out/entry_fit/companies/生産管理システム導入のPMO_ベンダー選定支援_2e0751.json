@@ -1,0 +1,2163 @@
+{
+ "name": "生産管理システム導入のPMO・ベンダー選定支援",
+ "en": "production system vendor selection PMO",
+ "aliases": [
+  "生産管理 ベンダー選定",
+  "システム導入 PMO 中堅",
+  "基幹システム 選定支援"
+ ],
+ "context": "生産管理",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:11:13.105444+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "生産管理システム導入コンサルティング｜コンサルティング・サービス｜日本能率協会コンサルティング（JMAC）",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング・サービス",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "テーマからコンサルティング・サービスを探す",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング・サービスTOP",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "テーマから事例を探す",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社デンソー",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社BIKEN",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "JMACのコンサルティングプログラムや事例紹介、コンサルティング経験から得られた知見・ノウハウなどをご紹介し、ディスカッションや交流によって、課題解決のヒントをつかんでいただきます",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ものづくりは人づくりから」をモットーに、現場力・改善力の向上を人材育成面から支援します",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "「GO! JMAC」は、JMACが提供するIoTコンサルティング情報サイトです",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "に、事例や最新ツール情報を豊富に掲載しています",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "「JMACラーニング」は、JMACが提供する企業研修サイト",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界向け経営改革を支援する",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備管理や現場改善に役立つ情報を提供する",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "TPMやカイゼンの事例やノウハウを掲載しています",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "PMO・システム／ベンダー選定支援｜船井総合研究所",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "小売・サービス・飲食",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "新規上場支援",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "シェアードサービス",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "小売・サービス業海外出店コンサルティング",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "Zoho導入・運用支援",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "PMO・システム／ベンダー選定支援",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "SFA（営業支援）・MA（マーケティング・オートメーション）",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "DX推進室アドバイザリー支援",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "大規模成長投資補助金 申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業成長加速化補助金 申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "省エネ補助金 申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資補助金（一般型）申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "新事業進出・ものづくり商業サービス補助金 申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "船井総合研究所のコンサルティング関連サービス",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システム導入支援 | 株式会社 モアシスジャパン",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 モアシスジャパン",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "30年の信頼と実績、多様なシステムニーズにお応えします",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システム導入支援",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は30年以上にわたり、多くの生産管理システム導入支援に携わらせていただいております",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "などございませんか？下記の各事項は導入前のご相談内容において最も多く、弊社のシステム導入支援にて解決し最適なシステム運用に至っております",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "システム導入支援",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "までの運用前における包括的なサーベイ及び要件定義を主とした導入支援を実施致します",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "支援の範囲及び規模によりPMがPMOの役割を兼務する、または組織として設置する",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "支援期間 (例)",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "下記は生産管理システムにおけます導入支援期間の例でございます",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "フェーズ5以降につきましては 運用フェーズ と致しまして、ベンダーによるサポート内容を確認し協議の上、システム導入後におけます弊社の運用フェーズ支援の",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "下記は業種ごとの導入支援実績です",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「支援企業数」 につきましては生産拠点数及び海外におけます現地法人数も含まれております",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "企業様との直接取引以外に協業パートナー様の仲介によります取引やベンダー様からのご依頼のもと、支援グループの一員(PM)として参加を致しました取引",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "＜企業規模別＞生産管理システム導入事例",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システム（新日本情報システム株式会社）",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜企業規模別＞導入事例",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜企業規模別＞導入事例_top",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システム導入事例",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "事例から学ぶ生産管理システムのメリット",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーとは「売り手」の意味を持っており、製品を販売・提供する企業を指します",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのためには、ベンダーの技術力やサポート体制、市場での実績などから総合的に評価したうえで生産管理システムを導入するのが重要です",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "実績・評判を調べる",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムにおいて長期的に安定したサービスを提供しているベンターは、スキル面に関して信頼度が高いといえます",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、生産管理システムベンダーを選ぶ際は、まず市場での実績が豊富か、既存システムを使用している企業からの評判が良いかを調べるようにしてください",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、ケーススタディや成功事例の確認も忘れずに行いましょう",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例などをチェックすれば、ベンダーの課題解決力を知ることができます",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "サポート力に優れたベンダーは、製品の提供だけでなく顧客企業とパートナーシップを築き、長期的なサポートを実施しています",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的なサポート内容としては、技術的な問題を解決するための迅速な対応や、定期メンテナンス・アップデート、担当者教育プログラムの提供などが挙げられるでしょう",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "繰り返し型の受注生産で製品形状が複雑かつ高精度な加工が求められるため、負荷の集中や不良などの生産トラブルが発生すると当初の納期回答通りにものづくりができず、サービスレベルの低下を招いていた",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "個人保証ゼロ化",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "すべてを意思決定し責任を追う経営者と同じ目線に立ち、ともに成果にこだわり続けることが「経営”者”コンサルティング」の本質であり、船井総研のアイデンティティでもあります",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの導入推進における組織(体制)作りを行いプロジェクト責任者をはじめ各人の役割を明確にし、情報伝達方法及びその流れ、情報共有",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "●バーコードを活用した高精度の管理も可能",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "【免責事項】",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "・プロジェクト責任者の意図を的確に汲み取り言語化／資料化を通じた業務の整流化",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "運用が未確定のままでは見積精度が上がらず、導入後に追加費用・追加期間が発生しやすくなります",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "可能であれば、実際の運用モデル（成功事例）を確認しながら固めることで、見積精度と導入の確度が大きく高まります",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "導入の最優先目的は何ですか（納期遵守／在庫削減／原価精度／負荷平準化など）",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "導入後の運用責任者（業務オーナー）は誰ですか",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理の目的は何ですか（見積精度／実績原価／利益管理など）",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "このような手順で進めると、比較の精度と導入の確度が大きく高まります",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "経営戦略・新事業",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "SX／サステナビリティ経営推進",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営のヒント",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営のヒントTOP",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人間力」を磨き現場を動かす 大変革時代の経営者の条件",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界向け経営改革を支援する",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "要件が過度に膨らまないように、費用対効果を考えてシステム必要機能を整理したい",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "関連する経営のヒント",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営計画・KPI設定",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "人的資本経営",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営レポート",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略・グループ経営・ホールディングス化",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "HR（人的資本経営）",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "地域コングロマリット経営",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "事業戦略・中期経営計画策定",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "次世代経営者育成",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "パーパス・経営ビジョン",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "グループ経営コンサルティング",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "グループ経営人材育成",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "経営管理体制構築・ガバナンス強化（内部管理体制診断）",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "人的資本経営ロードマップ",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "経営課題別・業種別コンサルティング",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "経営レポートダウンロード",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "経営研究会に関する",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルティングの船井総研TOP",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "システム導入スケジュールの策定と併行して予算の検討及び費用対効果の試算を行います",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "更にトレーニング(教育)期間、 データ移行またはデータ入力(登録)期間、テスト運用期間、本稼働の時期、システム導入費用とその費用対効果を想定して",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムの機能のひとつ「予算管理機能」とは？",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営層などが現場の状況を把握できていない",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 予算に合わせてシステムを導入する場合、どのように選べばよいですか？",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "下請けを使わず自社開発を行っているか、中長期の保守に対応できる安定した経営状況か、同業界での実績が豊富か、そして窓口のコミュニケーション能力が高いかの4点です",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "予算などを踏まえながら、自社のスケールにあった生産管理システムを導入することが大事です",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "そのような状況に対し、発注者側の視点からプロジェクトを整理し、意思決定を支援します",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー企業側の立場で、適切なIT投資判断を支援",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "業務構造を再設計し、投資対効果を前提とした意思決定ができる状態を構築",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "現場と経営の意見が噛み合わない",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "業務整理から構想策定まで、現場と経営をつなぐ業務・ITコンサルタント",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略／新規事業",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略/事業企画",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・期待：データ分析による課題可視化、営業／製造部門が共通データで意思決定できる仕組みの整備",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "-営業部門／製造部門の意思決定に必要な分析データ作成",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "-営業部門と製造部門間の情報連携／意思決定プロセス整備",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "-進捗／課題／リスクの可視化、経営陣へのレポーティング",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "-ユーザー側／カウンターパート（担当者）の負荷軽減と社内意思決定の推進",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・経営層、現場マネージャーへのヒアリング／BCP対象テーマの選定、決定支援",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客（経営企画部／生産管理部等）に対する専門家としての提言／ファシリテーション",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客とのミーティングやワークショップの運営による意思決定の促進",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における生産・販売等の業務プロセスを対象としたパッケージソフトウエア導入ベンダーを選定するにあたり、新システムの要求事項の取り纏め等に基づく提案依頼書（RFP）の作成、ベンダー選定の評価基準の作成等により、ベンダー選定の意思決定を支援しました",
+    "url": "https://www.hp.sankei-bc.co.jp/2021/05/26/%E3%80%90%E6%A5%AD%E5%8B%99%E5%AE%9F%E7%B8%BE%E3%80%91%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8Brfi-rfp%E7%AD%89%E3%81%AE%E4%BD%9C/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の業務コンサルティングサービスは、企業が直面する課題解決に向けた経営戦略の策定、業務プロセスの改善、新規事業の開発までを包括的にサポートします",
+    "url": "https://www.arkconsulting.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の経営管理に必要な情報を一つのシステムで管理できる経営管理プラットフォームです",
+    "url": "https://www.arkconsulting.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発に大きな予算を割くことが難しいとお考えの中堅・中小企業のお客様には、一際大きなメリットを感じていただけるのではないでしょうか",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客管理システム、生産管理システム、在庫管理システムなどの業務基幹システムの開発実績も豊富で、お客様の予算に合わせたフルスクラッチ開発が強み",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "の投資判断を支援",
+    "url": "https://dxtokyo.co.jp/pmo/",
+    "pass": 3
+   },
+   {
+    "quote": "経営課題の整理・導入目的の明確化",
+    "url": "https://dxtokyo.co.jp/pmo/",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "JMACの最新情報をシェアします",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "：大手化学メーカー",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日立製作所",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "シェアードサービス",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "NAVINECT",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "引用元：富士通公式HP",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "SIer（エンド：大手素材メーカー）でのプロジェクト案件",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "大手コンサルティングファーム（エンド：メーカー）でのプロジェクト案件",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルスケア・メディカル業界向けITソリューション企業（エンド：大手製薬メーカー）でのプロジェクト案件",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "＜稼働率40％～／基本リモート＞大手製薬メーカーの生産管理業務改善支援",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "大手製薬メーカーでのプロジェクト案件",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "大手ふるさと納税関連サービス運営会社でのプロジェクト推進支援 ※PM/PMO",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "大手ふるさと納税関連サービス運営会社でのプロジェクト案件",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "大手SIer（エンド：プロセス製造業）でのプロジェクト案件",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "＜基本リモート＞大手製造業グループの各種DXテーマ構想策定支援",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "大手製造業グループでのプロジェクト案件",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "＜大阪府＞大手総合電機メーカー向け基幹システム刷新／DX推進支援",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "大手総合電機メーカーの基幹システム刷新／DX推進プロジェクトへ参画",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "＜基本リモート＞大手メーカー向け生産管理システム刷新に伴う非機能要件整理支援 ※PMO",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "大手非鉄金属メーカーでのプロジェクト案件",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・大手非鉄金属メーカーの工場における既存ホストの終了に伴うオープン化プロジェクトへ参画",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "よかったらシェアしてね！",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は総合コンサルファーム及び、大手SIer出身の戦略/ITコンサルタント10名が創業したスタートアップファームです",
+    "url": "https://www.arkconsulting.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "1992年の設立以来、大手ITメーカーをはじめ、製造業向けのシステム開発に豊富な実績を持っています",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "とりわけ生産管理システムに強みがあり、大手自動車メーカー、輸送機器メーカー、精密機械メーカーなどの有名企業にも利用されている、メーカー向け高性能生産管理システム「Real-eMAP」シリーズを開発・提供しています",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、大手企業向けの開発実積も十分",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、製造業を母体とする大手ITベンダーで10年以上もの間、エンジニアを勤めてきたメンバーによって創業されました",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の代表は、大手電器メーカーグループのIT企業で100名以上のエンジニアをマネジメントするなど、エンジニア組織の運営に長年携わってきた人物です",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "NTTグループのシステム開発を委託されたことがきっかけで設立された会社で、大阪・福岡・東京の3拠点体制でさまざまなシステム開発とサービスの提供を行っています",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "富士通のパートナーでもあり、ハードの調達ができるのも魅力の一つ",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "JMACのコンサルティングプログラムや事例紹介、コンサルティング経験から得られた知見・ノウハウなどをご紹介し、ディスカッションや交流によって、課題解決のヒントをつかんでいただきます",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "経験知を活かした実践型プログラム",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去にシステム導入で失敗した経験がある",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術者の「自覚」と「覚悟」が組織を変え、未来を変える〜全員野球で「勝てるチーム」になる〜",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "システム導入・活用支援を専門とする経験豊富なコンサルタントが多数在籍",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "更にトレーニング(教育)期間、 データ移行またはデータ入力(登録)期間、テスト運用期間、本稼働の時期、システム導入費用とその費用対効果を想定して",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "生産計画登録",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは生産計画登録や資材調達、原価計算といった生産計画にあたる機能が備わっているか確認してください",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級9000社以上のシステム開発・WEB制作会社が登録",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "会員登録には、",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "現場での業務経験からスタートし、その後ERP導入コンサルタントとして国内外のプロジェクトに携わる中で、「システムは作ること自体よりも、前段の整理と合意形成で成否が決まる」という現実を数多く経験してきました",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "また講師が受講者にヒアリングをしながらの図解をホワイトボードで実演、さらに講師が経験をしてきた実事例やインターネットの記事を演習に取り入れて楽しく学び、実務ですぐに使えることを重点にしています",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "本コースでは、10年以上、RFP作成を手がけて来た講師が経験ノウハウを満載にRFP作成の基本から、RFP作成メリット(効果)と以降の進め方について、失敗しない情報システム構築ポイントを解説いたします",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "これから始める方、知識を持っていたい方、過去よりRFP作成経験のある方、どなたでも参加ができます",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "長年基幹系業務を経験したノウハウを皆さんにお渡しします、業務知識を高めるチャンスです！",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "無料新規登録は",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "フリーコンサルタント登録数日本最大級 Free Consultant.jp",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・役割：データ分析担当または業務運用設計担当（経験／適性に応じて決定）",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・既存業務改善経験に基づく原因分析と以降フェーズの検討",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・目的：過去プロジェクトでの失敗経験や既存システムの拡張性／機能性の課題を解決し、見積もりの妥当性検証や増額リスクを抑えてシステムリプレイスを成功させること",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "登録情報・パスワード変更",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "特にSAP製品の導入（構想策定含む）案件の経験者が多く、上流～中流工程のシステム導入案件を中心にPJに参画しています",
+    "url": "https://www.arkconsulting.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なコンサルタントが、お客様の成長戦略を実現するための戦略的アドバイスと実行可能なソリューションを提供し、効果的な変革管理を通じて持続可能な競争優位性を確保し、市場でのリーダーシップを築きます",
+    "url": "https://www.arkconsulting.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "SAP Service 認定パートナー",
+    "url": "https://www.arkconsulting.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "SAP Sell 認定パートナー",
+    "url": "https://www.arkconsulting.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "SAP Build 認定パートナー",
+    "url": "https://www.arkconsulting.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な経験と専門知識を持つ当社のコンサルタントが、各企業のニーズに合わせた最適なソリューションを提案し、迅速かつ効果的にTagetikを活用できるよう支援します",
+    "url": "https://www.arkconsulting.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な経験と専門知識を持つ当社のコンサルタントが、各企業のニーズに合わせた最適なソリューションを提案し、迅速かつ効果的にCoupaを活用できるよう支援します",
+    "url": "https://www.arkconsulting.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なエンジニアが多数在籍しており、業務システムや基幹系システム、クラウドを活用したシステムから、サーバ・ネットワークなどのITインフラ全般の構築まで、幅広く対応が可能です",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの開発で得た経験を生かし、各システムに共通する「標準機能」を抽出して組み合わせたシステムをベースに、お客様ごとに必要な機能を追加で開発していくのが、セミオーダー開発のイメージです",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "メンバーも、業務システム開発の分野で経験10年以上、20年以上というエンジニアたちが集まっています",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "長年の経験から、それぞれの業界・業種に特化した業務においても、お客様の業務を充分に理解、分析したうえで、業務上の課題解決に役立つシステムを提案し設計・開発することが可能です",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "経験豊富なシステムエンジニアが集まる少数精鋭の会社ですので、「高品質システムを効率良く」「ムダな工期や工数を掛けない」「開発のコストパフォーマンスが高い」といったメリットも期待できそうです",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、親切で丁寧な対応をしてくれるので、システム発注の経験があまりないという発注者様でも安心してお付き合いいただけるのではないでしょうか",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "少数精鋭のメンバーは9割がエンジニアで、それぞれが単独で、要件定義から基本設計、詳細設計、開発、実装とシステム開発における上流から下流まで全てを担当できる「技術力」と「経験」を持っています",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした社会的重要度の高い開発に対する長年の経験を強みに、金融・物流・生産管理・医療など幅広いビジネス分野の業務システム開発にも携わっています",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、どのようなシステムを構築するのかといった検討段階や開発の段階でさまざまな提案をし、たとえ同社が未経験の分野であっても研究・研鑽していくことで、お客様と一体になって開発を進めていきます",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "このシステムでは、Excelで作成した見積書から製造指示に関する必要項目を自動で読み取り、日程表で製造実績の登録を行うことで納品書や請求書を発行することを可能にします",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "知見や経験に裏付けられた機器やソフトを合わせた最適なソリューションを提案できます",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "この流れに従い、同社でも基幹系システムの経験を活かしたWebシステムの開発を手掛けています",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における生産管理システムを長年にわたり手掛けてきた経験と知見を活かし、Webシステムやアプリ開発も得意分野の一つです",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "元SONY系スタートアップのBlockchain POC受託やデンソーとのBlockchainプロジェクト受託、中古車販売システム、製造業生産管理システム、美容業界向け教育システムなどを手掛けた経験もあるなど、幅広い業種・業態のWebシステム開発に対応可能です",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級9000社以上のシステム開発・WEB制作会社が登録",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な経験と実績で、貴社のプロジェクトを強力にサポートします",
+    "url": "https://dxtokyo.co.jp/pmo/",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "② 運用教育",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zoho導入・運用支援",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "WEB広告運用代行",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "適切なベンダーを選ぶことは、システム構築・導入、そしてその後の運用・活用を成功させるために不可欠です",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "- 製品の導入費用だけでなく、運用コストや保守費用も含めて、費用対効果が見合うかどうかの判断基準をある程度明確にしておく",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "また、システム導入をゴールとするのではなく、システムを導入した後の具体的な成果の創出に至るまで、支援先企業様に伴走してサポートさせていただきます",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "運用案策定、ベンダー選定コンサルティング",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "複数の事業が別システムで運用しており、これを",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "30年前のホストコンピューターの運用を",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "運用型広告に関する利用規約",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "などございませんか？下記の各事項は導入前のご相談内容において最も多く、弊社のシステム導入支援にて解決し最適なシステム運用に至っております",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "までの運用前における包括的なサーベイ及び要件定義を主とした導入支援を実施致します",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "導入後におきましては運用フェーズと致しましてシステム利用",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "状況の確認及び運用サポートを実施し、仕様やフローなど要件定義に基づいた効果が得られているかを調査致します",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "また実運用面にて課題等が発生",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "更にトレーニング(教育)期間、 データ移行またはデータ入力(登録)期間、テスト運用期間、本稼働の時期、システム導入費用とその費用対効果を想定して",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "フェーズ5以降につきましては 運用フェーズ と致しまして、ベンダーによるサポート内容を確認し協議の上、システム導入後におけます弊社の運用フェーズ支援の",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「支援企業数」 につきましては生産拠点数及び海外におけます現地法人数も含まれております",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "下記はPM1名であり、PMOの役割を兼務の場合でございます",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 運用フェーズにつきましてはベンダーサポート内容を確認し協議の上、改めましてのご提案となります",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "事項及び要件定義に基づくベースシステムのカスタマイズ対応を可能としユーザ企業様の実業務に即した最適なシステム運用を実現致します",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理システムで工数管理はできる？",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "アフターサポートが充実しているほど、長期的な運用を成功させやすいです",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、月100万円で受けてくれるエンジニアが2人で2ヶ月かけて開発に着手した場合、「100万円×2人×2ヶ月＝400万円」が人件費となります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "コストがかかる一方、開発後に運用・保守のサポートが受けられたり、カスタマイズを請け負ってくれたりするところが多いです",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、ハードウェアの運用を自社で行う必要があるため、ITスキルに長けた人材が求められます",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミス型は一定の初期費用が必要ですが、オーソドックスな運用と自社向けの適度なカスタマイズを両立できます",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発RFP作成支援｜業務整理から要件定義・ベンダー選定まで伴走コンサル - 中堅企業・中小企業の製造業&卸売業の皆さま：ITコンサル、RFP作成支援のシステムデザインオフィス、ITコンサルタント 山田美代子です",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「何を作るべきか分からない」段階から伴走します",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP・販売管理・EDIなど、運用を踏まえた現実的な支援を行います",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "業務要件・運用要件を整理し、プロジェクト初期段階を支援",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "現場運用を踏まえた改善施策を提案",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダー選定以降、要件定義、基本設計〜本番移行までPMOとして伴走",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "現場ヒアリングから伴走可能",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "中小・中堅企業の立場に立って、業務の整理やRFP策定、導入初期の伴走支援を行っています",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "・役割：データ分析担当または業務運用設計担当（経験／適性に応じて決定）",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "-新業務運用に必要なデータ項目の検討／整理",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "-必要なデータの抽出／出力／表示方法の検討および実現／業務運用設計",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・業務運用設計",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "-データを活用した新運用検討",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "-生販会議（営業部門と製造部門が需給調整や生産計画を協議、決定する会議）における新運用ルール／判断基準の設計",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "-新たな生産計画運用の導入／定着支援",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "＜稼働率20%～／基本リモート＞生産管理システム再構築／伴走支援 ※PM",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・官公庁デジタル人材育成事業として、全社生産管理システムの再構築／横断保守体制確立に向けた自走型伴走支援プロジェクトへ参画",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・目的：各工場の独立運用を尊重しながら全社横断の保守管理体制を確立し、社内担当者のDXスキル向上と自走化を実現",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・期待値：社内生産管理担当者／情報システム部門へ伴走し、業務プロセスの棚卸しやベンダーコントロール等のレクチャー／指導を行なうこと",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・役割：自走型PM伴走アドバイザー",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・1か月目：業務要件の定義と育成計画の策定",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・2か月目：既存システムの分析／ツール選定軸策定と新規ベンダー選定（RFP作成）指導",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "・3か月目：基本設計／開発プロトタイプの検証指導",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "標準工数と実績工数",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "採点ルール（運用例）",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "現場運用が決まらないまま、ベンダー比較を始めてしまう",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "運用が未確定のままでは見積精度が上がらず、導入後に追加費用・追加期間が発生しやすくなります",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "運用モデルで要件を具体化し、導入計画に落とします",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "運用の実態に沿って要件を確定",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "可能であれば、実際の運用モデル（成功事例）を確認しながら固めることで、見積精度と導入の確度が大きく高まります",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "導入後の運用責任者（業務オーナー）は誰ですか",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "工程マスタ（工程名・設備・標準工数・段取り）は整備されていますか",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "実績収集の単位は何ですか（開始/完了、良品数、不良数、工数など）",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "中堅・中小企業改革",
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業承継アドバイザリー（親族内承継・親族外従業員承継）",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "大規模成長投資補助金 申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業成長加速化補助金 申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "- ベンダーは、自社の業種や規模、ニーズに合ったソリューションやサービスを提供できるのか",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダーとして企業規模や経営状況が安定しており、長期的なパートナーシップを築けそうであるか",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "船井総研では業種・業態・規模問わず、様々なシステム化計画策定、RFP作成、ベンダー選定の実績がございます",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "規模にあったシステムを導入したい",
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "pass": 3
+   },
+   {
+    "quote": "支援の範囲及び規模によりPMがPMOの役割を兼務する、または組織として設置する",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザ企業様の規模及びご要望により各フェーズに要する日数を決定致します",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "導入支援費用につきましてはユーザ企業様の規模(拠点数 · 部署数 · 従業員数)及び導入支援におけますご要望や支援期間、ユーザ企業様と弊社の役割",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "65万円 (税別) ～ ※ 支援範囲及び規模によってはPM複数名にての支援、またはPMOを設置することがございます",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "支援業務につきましては事前にユーザ企業様の情報 ( 業種、所在地、生産拠点、部署名、従業員数など ) のご確認とともに、実務状況のご提示をいただき",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "＜企業規模別＞生産管理システム導入事例",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜企業規模別＞導入事例",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜企業規模別＞導入事例_top",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜中小企業編＞",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜中堅・大企業編＞",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業に生産管理システムは必要？メリットについて",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "目的や企業規模によって生産管理システムの必要な機能が異なります",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い規模に対応",
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向け（特定の業種や生産方式に対応）",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、特定の業種にしか対応していない中小企業向けのシステムを中堅以上の企業に導入すると、複雑な業務に対応できません",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模から中規模向け生産管理システム",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の規模や業務の複雑さ、導入目的に合わせて「中小企業向け」「中堅以上の企業向け」「ERP対応型」の3つのタイプから選ぶ必要があります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "特定の業種や生産方式に特化した中小企業向けのタイプから、複数の業種・生産方式に対応できる中堅企業向け、 tender、そして全社的な基幹システムをカバーするERP対応型の中堅以上向けタイプが存在します",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、既存のパッケージソフトを利用する場合は提供形態やユーザー規模によって導入コストが大きく変動します",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発RFP作成支援｜業務整理から要件定義・ベンダー選定まで伴走コンサル - 中堅企業・中小企業の製造業&卸売業の皆さま：ITコンサル、RFP作成支援のシステムデザインオフィス、ITコンサルタント 山田美代子です",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中小企業のシステム導入を支援するITコンサルティング会社です",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "中小・中堅企業の立場に立って、業務の整理やRFP策定、導入初期の伴走支援を行っています",
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "pass": 3
+   },
+   {
+    "quote": "・1,000億円規模の製造新拠点設立プロジェクトへ参画",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "売上計上のタイミングと締め処理はどうしますか",
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、ERP導入が不慣れなクライアント様に対する支援に力を入れており、プロジェクトの規模や状況に応じて、プライムベンダーやレガシーシステムを含む周辺システムベンダーまで一貫して管理します",
+    "url": "https://www.arkconsulting.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業向けERPパッケージのなかには、同様の機能を備えている製品もありますが、こちらの「Real-eMAP」は専門ノウハウを駆使して開発されており、圧倒的な高機能性（高速かつ多機能）を実現しています",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発に大きな予算を割くことが難しいとお考えの中堅・中小企業のお客様には、一際大きなメリットを感じていただけるのではないでしょうか",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "これらパートナー企業の得意分野を活かして、適材適所で開発に臨んだり、多くのエンジニアを必要とするような大規模案件にも対応が可能",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "業務改善の視点でビジネスゴールを明確化するとともに、アジャイル手法により必要のない中間成果物を排除し、パッケージ導入費用と同規模またはそれ以下の費用感で独自システムを構築しています",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取り組みは、お客様からの評価として実を結んでおり、大企業から中小・ベンチャーまでさまざまな案件を受注しているようです",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "また製造業のお客様では、国内2拠点と海外拠点を結ぶ生産管理システムなど、大規模で複雑かつ多言語にも対応するようなシステムを手掛けました",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも得意とするのは、従業員数100名以下の中小企業様向けの業務システムやWebシステム、アプリ開発などです",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートFはスモールスタートで導入できる中堅・中小企業向けの生産管理クラウドシステム",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業の支援に強み",
+    "url": "https://dxtokyo.co.jp/pmo/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのシステム導入は、多くの企業にとって数千万円から数億円規模の重要な投資です",
+    "url": "https://dxtokyo.co.jp/pmo/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業に特化",
+    "url": "https://dxtokyo.co.jp/pmo/",
+    "pass": 3
+   },
+   {
+    "quote": "売上50億〜1,000億円規模の企業支援に強み",
+    "url": "https://dxtokyo.co.jp/pmo/",
+    "pass": 3
+   },
+   {
+    "quote": "規模に合った現実的なシステム選定とプロジェクト推進を支援します",
+    "url": "https://dxtokyo.co.jp/pmo/",
+    "pass": 3
+   },
+   {
+    "quote": "数千万円〜数億円規模の投資を、確かな成果へ",
+    "url": "https://dxtokyo.co.jp/pmo/",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "65万円 (税別) ～ ※ 支援範囲及び規模によってはPM複数名にての支援、またはPMOを設置することがございます",
+    "url": "https://www.moresys.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2.提供形態で考える生産管理システムの費用相場",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "3.費用を基準にしたシステムの選び方",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "4.費用のほかに押さえておきたいこと",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "233万円～",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000円～100万円",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "10～1,000万円",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、月100万円で受けてくれるエンジニアが2人で2ヶ月かけて開発に着手した場合、「100万円×2人×2ヶ月＝400万円」が人件費となります",
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円〜",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "120万円〜",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "150万円〜",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "180万円〜",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "200万円〜",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "90-125万円 / 月",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "320-440万円 / 月",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "150-160万円 / 月",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "140万円-応相談 / 月",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "140万円 / 月",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "120-140万円 / 月",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "100-180万円 / 月",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "90-110万円 / 月",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "120-130万円 / 月",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "160-180万円 / 月",
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "pass": 3
+   },
+   {
+    "quote": "〜1,000億円",
+    "url": "https://dxtokyo.co.jp/pmo/",
+    "pass": 3
+   },
+   {
+    "quote": "売上50億〜1,000億円規模の企業支援に強み",
+    "url": "https://dxtokyo.co.jp/pmo/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freeconsultant.jp/job/MW19037",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moresys.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikan-modern.com/kind/project-management-system.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartf-nexta.com/archives/6473",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ic-solution.jp/production-management-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-kansai.co.jp/media/061/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaka-shindanshi.org/case/2652/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shiraiikkyu.jimdofree.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartf-nexta.com/archives/1550",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaopiz.com/ja-news-production-management-medium-companies-manufacturing-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodcontrol-manufacturing.com/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/production_management/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freeconsultant.jp/projects/inventory-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/viewjob?jk=c67329152ff5cf13",
+    "status": "http_401",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hp.sankei-bc.co.jp/2021/05/26/%E3%80%90%E6%A5%AD%E5%8B%99%E5%AE%9F%E7%B8%BE%E3%80%91%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8Brfi-rfp%E7%AD%89%E3%81%AE%E4%BD%9C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/4954/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sucsak.com/contents/pmo_vendor_control",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmo-square.com/articles/pm-duty-user-cooperation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/19156/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.it-houmu.com/archives/1483",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accompany-partners.jp/column/it-dounyu-shippai-sekinin-bender-hatchuusha-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jipros.com/columns/columns_2025120301.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kicnet.co.jp/solutions/business/column/production-management-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiko-xtech.co.jp/daiko-plus/production-control/5-points-for-choosing-a-production-management-system/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.improbe.jp/column/seisan-kanri-hiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arkconsulting.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.high-performer.jp/pmo/projects/details/0135867/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startup-db.com/companies/tags/production-management",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://goodsupply.jp/service/pmo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dxtokyo.co.jp/pmo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.graphiteconnect.com/blog/project-management-vendor-selection-process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ivalua.com/blog/vendor-selection-process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pmi.org/learning/library/vendor-selection-process-predictor-project-success-8514",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlassystems.com/blog/vendor-selection-process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.projectmanagement.com/blog-post/1308/top-10-tips-for-a-ppm-software-selection-project",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.montrium.com/blog/software-vendor-selection-selecting-the-winning-vendor",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "生産管理システム導入のPMO・ベンダー選定支援",
+   "results": [
+    "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "https://www.kicnet.co.jp/solutions/business/column/implementation-process/",
+    "https://freeconsultant.jp/job/MW19037",
+    "https://www.moresys.jp/",
+    "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "https://www.hp.sankei-bc.co.jp/2021/05/26/%E3%80%90%E6%A5%AD%E5%8B%99%E5%AE%9F%E7%B8%BE%E3%80%91%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8Brfi-rfp%E7%AD%89%E3%81%AE%E4%BD%9C/",
+    "https://www.youtube.com/watch?v=9RgHVZu2MIQ",
+    "https://it-trend.jp/production_management/article/comparison-system",
+    "https://goodsupply.jp/service/pmo/"
+   ]
+  },
+  {
+   "query": "生産管理システム導入のPMO・ベンダー選定支援 費用 相場",
+   "results": [
+    "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "https://hnavi.co.jp/knowledge/blog/production-management-cost/",
+    "https://www.kikan-modern.com/kind/project-management-system.html",
+    "https://smartf-nexta.com/archives/6473",
+    "https://ic-solution.jp/production-management-system",
+    "https://www.nttdata-kansai.co.jp/media/061/",
+    "https://www.improbe.jp/column/seisan-kanri-hiyo.html",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/seisan-kanri-system-hiyou"
+   ]
+  },
+  {
+   "query": "生産管理システム導入のPMO・ベンダー選定支援 事例 中堅企業",
+   "results": [
+    "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "https://www.osaka-shindanshi.org/case/2652/",
+    "https://shiraiikkyu.jimdofree.com/",
+    "https://smartf-nexta.com/archives/1550",
+    "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "https://www.youtube.com/watch?v=9RgHVZu2MIQ",
+    "https://kaopiz.com/ja-news-production-management-medium-companies-manufacturing-industry/",
+    "https://www.prodcontrol-manufacturing.com/case-study/",
+    "https://it-trend.jp/production_management/case"
+   ]
+  },
+  {
+   "query": "生産管理システム導入のPMO・ベンダー選定支援 工場 製造業",
+   "results": [
+    "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "https://freeconsultant.jp/projects/inventory-management",
+    "https://jp.indeed.com/viewjob?jk=c67329152ff5cf13",
+    "https://www.hp.sankei-bc.co.jp/2021/05/26/%E3%80%90%E6%A5%AD%E5%8B%99%E5%AE%9F%E7%B8%BE%E3%80%91%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8Brfi-rfp%E7%AD%89%E3%81%AE%E4%BD%9C/",
+    "https://www.youtube.com/watch?v=9RgHVZu2MIQ",
+    "https://metoree.com/categories/4954/"
+   ]
+  },
+  {
+   "query": "生産管理システム導入のPMO・ベンダー選定支援 責任 範囲 免責",
+   "results": [
+    "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "https://sucsak.com/contents/pmo_vendor_control",
+    "https://pmo-square.com/articles/pm-duty-user-cooperation/",
+    "https://freeconsultant.jp/job/MW19037",
+    "https://www.profect.jp/article-all-category/productionmanagement/2025/12/25/production-system-rfp-50/",
+    "https://www.issoh.co.jp/column/details/19156/",
+    "https://www.it-houmu.com/archives/1483",
+    "https://accompany-partners.jp/column/it-dounyu-shippai-sekinin-bender-hatchuusha-guide/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.smart-go.net/prevision/column/startup-project-team.html"
+   ]
+  },
+  {
+   "query": "生産管理システム導入のPMO・ベンダー選定支援 経営判断 損失額",
+   "results": [
+    "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "https://www.kk-osk.co.jp/promotion/it_solutions/guide022_seisan.html",
+    "https://www.axeeds.com/column/productioncontrolsystem-introduction.html",
+    "https://www.jipros.com/columns/columns_2025120301.html",
+    "https://www.hp.sankei-bc.co.jp/2021/05/26/%E3%80%90%E6%A5%AD%E5%8B%99%E5%AE%9F%E7%B8%BE%E3%80%91%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8Brfi-rfp%E7%AD%89%E3%81%AE%E4%BD%9C/",
+    "https://www.kicnet.co.jp/solutions/business/column/production-management-system/",
+    "https://www.daiko-xtech.co.jp/daiko-plus/production-control/5-points-for-choosing-a-production-management-system/",
+    "https://www.improbe.jp/column/seisan-kanri-hiyo.html",
+    "https://smartf-nexta.com/archives/6473"
+   ]
+  },
+  {
+   "query": "生産管理システム導入のPMO・ベンダー選定支援 スタートアップ",
+   "results": [
+    "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "https://www.hp.sankei-bc.co.jp/2021/05/26/%E3%80%90%E6%A5%AD%E5%8B%99%E5%AE%9F%E7%B8%BE%E3%80%91%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8Brfi-rfp%E7%AD%89%E3%81%AE%E4%BD%9C/",
+    "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "https://freeconsultant.jp/job/MW19037",
+    "https://www.arkconsulting.co.jp/service/",
+    "https://www.high-performer.jp/pmo/projects/details/0135867/",
+    "https://hnavi.co.jp/knowledge/blog/production-management-system_companies/",
+    "https://startup-db.com/companies/tags/production-management",
+    "https://goodsupply.jp/service/pmo/"
+   ]
+  },
+  {
+   "query": "production system vendor selection PMO",
+   "results": [
+    "https://www.graphiteconnect.com/blog/project-management-vendor-selection-process",
+    "https://www.ivalua.com/blog/vendor-selection-process/",
+    "https://www.pmi.org/learning/library/vendor-selection-process-predictor-project-success-8514",
+    "https://www.atlassystems.com/blog/vendor-selection-process",
+    "https://www.projectmanagement.com/blog-post/1308/top-10-tips-for-a-ppm-software-selection-project",
+    "https://blog.montrium.com/blog/software-vendor-selection-selecting-the-winning-vendor",
+    "https://www.celoxis.com/article/pmo-project-management-guide",
+    "https://www.cai.io/services/project-management-office",
+    "https://www.kodiakhub.com/blog/vendor-selection-framework",
+    "https://pmoblogs.com/project-procurement-management-best-practices/"
+   ]
+  },
+  {
+   "query": "production system vendor selection PMO startup pricing",
+   "results": [
+    "https://www.graphiteconnect.com/blog/project-management-vendor-selection-process",
+    "https://www.arphie.ai/blog/mastering-the-vendor-selection-process-a-step-by-step-approach-for-businesses-in-2025",
+    "https://www.pmi.org/learning/library/vendor-selection-process-predictor-project-success-8514",
+    "https://www.kodiakhub.com/blog/vendor-selection-framework",
+    "https://medicaid.alabama.gov/documents/2.0_Newsroom/2.4_Procurement/2.4_Active_Procurements/2.4_PL26_Vendor_Start_Up_Checklist_4-24-24.pdf",
+    "https://www.ibisworld.com/united-states/procurement/vendor-management-software/31275385/",
+    "https://saasrooms.com/guides/saas-vendor-management/",
+    "https://www.mrpeasy.com/blog/vendor-management/",
+    "https://lemonlearning.com/blog/erp-vendor",
+    "https://www.capterra.com/vendor-management-software/"
+   ]
+  },
+  {
+   "query": "site:note.com 生産管理システム導入のPMO・ベンダー選定支援",
+   "results": [
+    "https://note.com/atstream/n/n4a43736c0460",
+    "https://note.com/ripla_business/n/n195a43fcbde4",
+    "https://note.com/tom_msn_gafuu/n/nec88e2e3fa4f",
+    "https://note.com/prime_shrew4900/n/n8ab6cfa190de",
+    "https://note.com/offeeer/n/ne975820ac314",
+    "https://note.com/ripla_business/n/n53e2370945a9",
+    "https://note.com/aixyz_official/n/nfe24970b8409",
+    "https://note.com/ark_consulting/n/n1b60d8835f6d",
+    "https://note.com/ripla_business/n/n8a2ef1182473",
+    "https://note.com/fine_knot950/n/n2d83e9193df2"
+   ]
+  },
+  {
+   "query": "site:x.com 生産管理システム導入のPMO・ベンダー選定支援",
+   "results": [
+    "https://x.com/QualityCube1",
+    "https://x.com/us_plus",
+    "https://x.com/ManPlus",
+    "https://x.com/kyosukeono",
+    "https://x.com/akiran62",
+    "https://x.com/ses_partner",
+    "https://x.com/blobtos",
+    "https://x.com/ta_ka159R9",
+    "https://x.com/pm_anchor/status/2116832646454214846",
+    "https://x.com/QualityCube1/status/2096757843302986143"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 生産管理システム導入のPMO・ベンダー選定支援",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%89%9B-%E9%BD%8A%E8%97%A4-b7661b242",
+    "https://jp.linkedin.com/in/%E9%81%94%E9%9B%84-%E7%9F%B3%E6%9D%91-9b001a3a8",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%9C%A8%E5%AE%85%E5%8F%AF%E3%80%91it%EF%BC%8Fdx%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88%EF%BC%88%E5%AE%98%C3%97%E6%B0%91%E3%82%92%E6%A8%AA%E6%96%AD%E3%81%97%E6%97%A5%E6%9C%AC%E3%81%AEdx%E3%82%92%E5%89%8D%E9%80%B2%EF%BC%89%E6%A5%AD%E5%8B%99%E6%94%B9%E9%9D%A9%C3%97%E5%9F%BA%E5%B9%B9%E5%88%B7%E6%96%B0%EF%BC%8Fdi1-1-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4482731339",
+    "https://jp.linkedin.com/jobs/view/vct-manufacturing-erp-consultant-%E2%80%BB%E6%96%B0%E8%A6%8F%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%83%81%E3%83%BC%E3%83%A0-at-kpmg%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%EF%BC%8Fkpmg-japan-4475800413",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90tc-digital-platforms-sap%E3%80%91sap%E3%82%92%E4%B8%AD%E5%BF%83%E3%81%A8%E3%81%97%E3%81%9F%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E4%BC%81%E6%A5%AD%E5%A4%89%E9%9D%A9%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88-at-ey-4474152332",
+    "https://jp.linkedin.com/jobs/view/ai%C3%97hr-technology-consultant-%E5%B9%B4%E5%8F%8E-%E3%80%9C-2-000%E4%B8%87%E5%86%86-at-randstad-japan-4477077936",
+    "https://jp.linkedin.com/in/snakajimajp",
+    "https://jp.linkedin.com/in/prolize-%E5%B6%8B%E5%B4%8E%E5%93%B2%E9%83%8E",
+    "https://jp.linkedin.com/jobs/view/vct-supply-chain-digital-strategy-consultant-at-kpmg%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%EF%BC%8Fkpmg-japan-3876330056",
+    "https://jp.linkedin.com/in/miyoko-yamada"
+   ]
+  },
+  {
+   "query": "site:facebook.com 生産管理システム導入のPMO・ベンダー選定支援",
+   "results": [
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
+    "https://www.facebook.com/info.npmo/",
+    "https://www.facebook.com/100063590409748/posts/エムアイカード様三越伊勢丹グループpmo支援導入事例をご紹介します基幹周辺システム更改の大規模プロジェクトをリードし数々の苦難を乗り越えプロジェクトを成功に導い/1132736395522697/",
+    "https://www.facebook.com/TECHNOAJAPAN/posts/生産管理システム導入を絶対に成功させたい中小製造業様必見よくある生産管理システム導入失敗の原因生産管理システムの種類を知る自社に合うシステムの選び方プロジェクト/1164085568840861/",
+    "https://www.facebook.com/reel/1099193638347750/",
+    "https://www.facebook.com/woogwayJapan/videos/ベンダー選定/175885123923579/",
+    "https://www.facebook.com/shift.rct/posts/開発の上流工程からコンサルティングshiftの品質pmpmoの仕事とは-流通物流領域の部長とマネージャー2名が登壇品質pmpmoの役割やshiftの強みをご紹介/852027187035233/",
+    "https://www.facebook.com/reel/2802173993505541/"
+   ]
+  },
+  {
+   "query": "生産管理システム導入のPMO・ベンダー選定支援 note 社長",
+   "results": [
+    "https://note.com/ripla_business/n/ne0c5cdb5e090",
+    "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "https://note.com/ripla_business/n/n0bcb9dd5dd49",
+    "https://note.com/ripla_business/n/nd0b446ae0269",
+    "https://www.youtube.com/watch?v=Niro3FdZH8U",
+    "https://note.com/ripla_business/n/n39e81514b0ad",
+    "https://freeconsultant.jp/job/MW19037",
+    "https://www.prodcontrol-manufacturing.com/basic-knowledge/vendor.html",
+    "https://note.com/ripla_business/n/n0be93fa944b9"
+   ]
+  },
+  {
+   "query": "生産管理システム導入のPMO・ベンダー選定支援 X 投稿",
+   "results": [
+    "https://www.jmac.co.jp/consulting/category/operation/pm_system.html",
+    "https://www.funaisoken.co.jp/solution/dc-system_vendor_706_S096",
+    "https://www.hp.sankei-bc.co.jp/2021/05/26/%E3%80%90%E6%A5%AD%E5%8B%99%E5%AE%9F%E7%B8%BE%E3%80%91%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8Brfi-rfp%E7%AD%89%E3%81%AE%E4%BD%9C/",
+    "https://www.youtube.com/watch?v=Niro3FdZH8U",
+    "https://freeconsultant.jp/job/MW19037",
+    "https://www.mcframe.com/column/global-project/03.html",
+    "https://www.daiko-xtech.co.jp/daiko-plus/production-control/5-points-for-choosing-a-production-management-system/",
+    "https://www.ipros.com/cg2/%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/%E6%8F%90%E6%A1%88/",
+    "https://dxtokyo.co.jp/pmo/",
+    "https://www.issoh.co.jp/service/system/pmo/"
+   ]
+  },
+  {
+   "query": "production system vendor selection PMO site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/william-retherford-33b88423",
+    "https://www.linkedin.com/pulse/role-pmo-advancing-innovating-supply-chain-management-dr-tony-ifzwe",
+    "https://www.linkedin.com/in/herbmeron",
+    "https://www.linkedin.com/pulse/5-key-considerations-establishing-pmo-chris-clark-4bhxe",
+    "https://www.linkedin.com/pulse/pmo-dead-long-live-intelligent-william-delaney-v4mme",
+    "https://www.linkedin.com/in/robert-holmes-profile",
+    "https://www.linkedin.com/posts/manickavasagam-natarajan_rfq-procurement-vendorselection-activity-7244171221188149248-O4of",
+    "https://www.linkedin.com/in/wendyblomquist",
+    "https://www.linkedin.com/in/galen-larson-762b302",
+    "https://www.linkedin.com/in/normanmaxwell"
+   ]
+  }
+ ],
+ "missing": {}
+}

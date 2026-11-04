@@ -1,0 +1,2419 @@
+{
+ "name": "保全投資の補助金申請支援",
+ "en": "subsidy application for maintenance investment Japan factory shop floor manufacturer",
+ "aliases": [
+  "省力化投資補助金 申請支援 設備 工場",
+  "ものづくり補助金 保全 工場",
+  "設備投資 補助金 コンサル 工場",
+  "製造業 保全投資の補助金申請支援"
+ ],
+ "context": "予知保全（工場設備のみ。プラント・インフラは除外）",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:07:50.372306+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "省力化投資補助金（一般型）申請支援コンサルティング｜船井総合研究所",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "小売・サービス・飲食",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "新規上場支援",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "シェアードサービス",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "小売・サービス業海外出店コンサルティング",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "Zoho導入・運用支援",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "PMO・システム／ベンダー選定支援",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "SFA（営業支援）・MA（マーケティング・オートメーション）",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "DX推進室アドバイザリー支援",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "大規模成長投資補助金 申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業成長加速化補助金 申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "省エネ補助金 申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資補助金（一般型）申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "新事業進出・ものづくり商業サービス補助金 申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "船井総合研究所のコンサルティング関連サービス",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金：製造業に最も活用実績が多い制度",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入支援事業者経由",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "省エネ補助金（省エネルギー投資促進支援事業費補助金）",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金は、中小企業が革新的な設備投資・サービス開発・プロセス改善を行う際に使える補助金です",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "八千代ソリューションズ株式会社によるオンライン調査（2025年10月実施、n=500）によると、DXの価値として「コスト削減」への同意率は全規模で70%を超えており、設備投資・デジタル化への意欲は高い一方、「予算化できていない」という声も多く挙がっています",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金と異なり、申請は「IT導入支援事業者（認定ベンダー）」経由で行います",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入支援事業者を探す",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "（IT導入補助金公式サイトの「支援事業者・ITツール検索」から検索）",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "支援事業者と連携して事業計画書を作成",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "採択後に契約・導入・実績報告",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "※八千代ソリューションズ株式会社 商談記録（中小製造業・生産管理担当・匿名化済み）",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金の枠組みを活用することで、自己負担を抑えながら早期導入を実現した事例は製造業で増えています",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "実績報告書の提出期限を守れない",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "必須ではありませんが、採択率を上げたい場合は中小企業診断士や認定経営革新等支援機関（認定支援機関）のサポートを受けることが効果的です",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の場合、申請締切から採択発表まで2〜3ヶ月、その後の交付申請・事業実施・実績報告を経て補助金の入金まで最低1年程度かかることが多いです",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "税理士／社労士／行政書士／司法書士／中小企業診断士／FP／元補助金審査員／元日本政策金融公庫支店長／各種コンサルタントなどが常駐する他に類を見ないワンストップサービス",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "メディア掲載実績",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "起業・経営支援実績",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "起業・経営相談実績3000件",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の解消や工程のムダ削減を目的に、自社の課題に合わせた設備・システム導入を支援する制度です",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "事務局に登録されたITツール（ソフト・クラウド等）の導入を支援する制度です",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "AIによる異常検知ソフトやクラウド型の設備監視サービスが投資の中心",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "この制度は、登録されたIT導入支援事業者（ベンダー等）の支援を受けて申請するのが前提で、導入するツールも登録品であることが求められます",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "を中心とした専門家チームが補助金支援を行っております",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "新事業進出・ものづくり商業サービス補助金",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "革新的新製品・サービス枠",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "は、あくまで「革新的な新製品・新サービスの開発」を支援する枠であり、",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "既存の製品・サービスの生産プロセス改善は対象外",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、新製品・新サービスの開発を伴わない予知保全単体の投資は、革新的新製品・サービス枠では通りにくいのが実情です",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全を起点に、これまで提供していなかった新しいサービス（たとえば自社の保全ノウハウを外販するなど）を新たに立ち上げるといった明確な「新規性」がある場合を除き、まずは省力化投資補助金を軸に検討するのが現実的です",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "「大規模補助金ナビ」では、補助金支援を行っている専門家による無料相談を実施しております",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "PwC Advisory合同会社を経て、2018年に補助金コンサルティングや事業承継支援を手がける株式会社HighAdoptionを設立",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "これまでに500件を超える補助金の採択実績を持つ",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "採択率が上がりにくい補助金ほど、成功報酬型の支援サービスが使われる傾向にあります",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "一定の金額で申請支援を依頼できる",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "・丁寧な支援が得られやすい",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、仕組みや支援の姿勢には明確な違いがあります",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "支援の質と期間",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "成功報酬や混合型（着手金＋成功報酬）は、支援が手厚い傾向にある反面、",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、提供する企業によっては30％近くの報酬を設定している例も見られます",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "「伴走支援を含む」「申請書の構成案まで作成」",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "複数社の見積もりを取り、サービス内容と報酬のバランスを比較することが重要で、交渉余地の有無も確認できると安心です",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "支援期間やサービス内容の明示",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "実績や公開できる事例がある",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "実務支援者が解説！2025年省力化補助金「卸売業」採択事例",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "補助上限額：最大1億円（従業員数および賃上げ要件により変動）",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "実績あるコンサルと組み、最大1億円の",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "従業員100名超で、数千万〜1億円規模の",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "最大1億円の投資原資確保:",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業・売上高100億円超企業向けの補助金",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "最大50億円（補助率1/4〜1/3）",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "売上高100億円を目指す企業向けの補助金",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "売上高10億円以上100億円未満の、「100億宣言」企業が対象",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "最大5億円（補助率1/2）",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "300億円超",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "40億6千万円",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "28億8千万円",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "21億5千万円",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "750万〜1,250万円（類型による）",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "450万円（類型による）",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "最大1.5億円",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限は通常枠で450万円、複数社が連携して共通基盤を導入する枠では3,000万円と、枠によって性格が大きく異なります",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "綾川町の創業支援事業補助金｜創業費用を半額支援、最大100万円ま…",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円規模の設備投資・システム開発、1億円以上の新規拠点・工場建設など、大型投資を検討されている決裁者さまをサポートいたします",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "報酬額が100万円〜300万円に達するケースもあり、「意外と高い」と感じる企業さまも少なくないでしょう",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省大型補助金の支援総額 驚愕の270億円以上！",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "（第6回までの合計）、支援総額は7.5億円となっています",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "最大１億円！中小企業省力化投資補助金一般型の補助上限は？",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "101名以上の従業員規模の会社であれば、最大１億円の補助金受給も目指すことができます！",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "6,500万円",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円の設備であれば、1,000万円の補助となります",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "着手金０円・顧問料0円",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "予算規模は3,000億円規模で、2029年度まで集中的な省力化投資支援が予定されています",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "500万円（賃上げ特例750万円）",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "750万円（賃上げ特例1,000万円）",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円（賃上げ特例2,000万円）",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円（賃上げ特例1,500万円）",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万〜8,000万円（賃上げ特例4,000万〜1億円）",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "要件は「1人当たり給与支給総額の年平均成長率+6.0%以上（基本3.5%+追加2.5%）かつ地域最低賃金+50円以上」です",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "6,500万円",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "最大50億円",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模により異なる（最大7,000万円、大幅賃上げ時は最大9,000万円）",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大4,000万円",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高100億円を目指す成長志向型の中小企業",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大1億円〜40億円（事業区分により異なる）",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "1事業者あたり最大5億円",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,200万〜120億円",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場建設検討時にまず知っておきたい５つのこと｜「流れ」「費用」「補助金」「法律」「コツ」等",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資額が20億円以上であること（専門家経費・外注費を除く補助対象経費分）〈100億宣言企業の場合：投資額15億円以上〉",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模により異なる（最大3,000万円、大幅賃上げ時は最大4,000万円）",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所内最低賃金を「地域別最低賃金より30円以上」高い水準にする 等",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高100億円を目指す中小企業が、",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "個人保証ゼロ化",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "「設備が古いから更新する」では採択されにくく、「〇〇工程の加工精度を向上させ、新規受注に対応できる体制を構築する」という形で新規性を示す必要があります",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "中野裕哲は、大企業人事部、人材紹介会社の採用エージェント、中小企業の財務責任者、大手不動産会社での営業、出版・Web制作による集客導線構築など、幅広い実務経験をもとに、経営者の意思決定を支援します",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "着手金＋成功報酬の構成で、双方の信頼関係と責任感を確保できる",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "成果への責任範囲",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "定額型は金額が明確でリスクが少ない一方、成果に対する責任が薄れる傾向もあります",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "専門家活用枠では、M&A時にかかる仲介費用や表面保証保険料などをカバーします",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "●５軸加工機：高い加工精度と生産性向上のために活用",
+    "url": "https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe",
+    "pass": 3
+   },
+   {
+    "quote": "●高精度測定器：高精度測定を実現するために活用",
+    "url": "https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe",
+    "pass": 3
+   },
+   {
+    "quote": "採択時は交付決定までを責任を持ってサポート致します",
+    "url": "https://procon-hojyokin.com/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・助成金の採択、交付、支給を保証するものではありません",
+    "url": "https://pmconsulting1221.com/subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーが買取保証（※）を付したリース取引も対象となりますか",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "ファイナンス・リース取引に該当していれば、サプライヤーの買取保証の有無は問いません",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "また、大手ITベンチャー企業にてエンジニア経験を有するコンサルタントが責任者を務めており、AIをはじめとする最新のIT技術やDXに関する知見を活かしたご提案を強みとしております",
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 事務所等にかかる家賃、保証金、敷金、仲介手数料、光熱水費",
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "経営レポート",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略・グループ経営・ホールディングス化",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "HR（人的資本経営）",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "地域コングロマリット経営",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "事業戦略・中期経営計画策定",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "次世代経営者育成",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "パーパス・経営ビジョン",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "グループ経営コンサルティング",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "グループ経営人材育成",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "経営管理体制構築・ガバナンス強化（内部管理体制診断）",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "人的資本経営ロードマップ",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "経営課題別・業種別コンサルティング",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "経営レポートダウンロード",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "経営研究会に関する",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルティングの船井総研TOP",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資計画の全体像・ROI計算・投資判断の基準については",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "現場の声：補助金が予算化の壁を下げる",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "八千代ソリューションズ株式会社によるオンライン調査（2025年10月実施、n=500）によると、DXの価値として「コスト削減」への同意率は全規模で70%を超えており、設備投資・デジタル化への意欲は高い一方、「予算化できていない」という声も多く挙がっています",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金は予算不足の壁を下げる有効な手段です",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資・システム導入を検討しながらも予算確保がハードルになっているケースは、製造業の現場で広く見られます",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "「よいシステムがあれば早期導入したいが、予算はこれから取る必要がある」",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "この声が示すように、「導入意欲あり・予算なし」という状況では、IT導入補助金・ものづくり補助金の活用が稟議を通す具体的な根拠になります",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "必須ではありませんが、採択率を上げたい場合は中小企業診断士や認定経営革新等支援機関（認定支援機関）のサポートを受けることが効果的です",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金は加点要素として「事業継続力強化計画」「経営革新計画」の認定を取得している場合に審査加点があります",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "起業・経営の無料相談実施中",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "経営/起業を学ぶ動画",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "起業・経営本 著書等",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "起業・経営支援実績",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "起業独立経営 基礎知識",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "起業・経営相談実績3000件",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、システム一式で数百万円から一千万円を超えることもあり、「補助金は使えるのか」「どの制度が自社に合うのか」で迷う経営者の方は少なくありません",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "税理士法人V-Spiritsグループ代表／税理士／行政書士／特定社会保険労務士／採用定着士／ファイナンシャルプランナー／起業コンサルタント／経営コンサルタント／大正大学招聘教授",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "税理士法人V-Spiritsグループ代表の中野裕哲は、中小企業経営者のために、税務・会計だけでなく、採用、人事、資金繰り、融資、補助金、助成金、営業、Webマーケティング、売上導線設計まで横断的に支援する実戦型経営税理士です",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "経営の悩みは、突き詰めると「人・金・売上」に集約されます",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "中野裕哲は、大企業人事部、人材紹介会社の採用エージェント、中小企業の財務責任者、大手不動産会社での営業、出版・Web制作による集客導線構築など、幅広い実務経験をもとに、経営者の意思決定を支援します",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "税理士顧問、社労士顧問、補助金支援、助成金支援、資金調達支援、採用力診断、売上導線診断、経営参謀顧問",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "税務・会計・決算・節税に加えて、経営分析、労務管理、社会保険、助成金、採用体制づくり、融資、補助金、事業計画、営業戦略、Webマーケティング、出版、メディア活用まで一体的に相談できます",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "中野裕哲は、家業の倒産危機からの壮絶な貧乏体験を原点に、お金で苦しむ経営者をひとりにしないことを掲げています",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "資金繰り、採用、売上づくりの壁に対して、経営者目線で伴走します",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "経営者様向け無料相談はこちら",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "生産性の向上だけではなく、新サービスを開発して、自社の経営の高付加価値化を図ることを目的としています",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の令和元年補正予算、第9次、第11次、第12次では",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "安心の経済産業省認定、経営革新等認定支援機関に登録",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の認定、経営革新等認定支援機関に登録",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "申請締切日を起点にして、過去 3 年以内に事業承継（株式譲渡等）により 有機的一体としての経営資源（設備、従業員、顧客等）を引き継いだ事業 者",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "健康経営優良法人加点",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "健康経営優良法人2026に認定されている事業者",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "平成29年度補正予算（平成30年実施）、平成30年度補正予算（平成31年実施）経済産業省系の補助金支援の採択率は100％",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "受給を受けるまでに経営者の負担となる手続きがあります",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "予算規模は3,000億円規模で、2029年度まで集中的な省力化投資支援が予定されています",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "定量化できている申請書が通りやすい傾向があります",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "は人手不足が経営課題の最上位に挙がる業種です",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資補助金で採択される事業計画書には、「課題の定量化」「省力化と付加価値化の二段構え」「賃上げ財源の明示」という3つの共通パターンがあります",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "単純に「設備を買いたい」という申請は採択されにくく、「人手不足という経営課題に対し、具体的な業務の見直しと設備導入がどう機能するか」を論理的に示している計画書が通りやすい傾向です",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "認定支援機関（経営革新等支援機関）",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画の策定に専門的な支援が必要な場合の相談先として、公募要領は認定経営革新等支援機関を案内しています",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は経済産業省（中小企業庁）認定の経営革新等支援機関として、アプリ・システム開発に特化した補助金申請支援を行いながら、2026年5月に開所したIT・パソコン作業に特化した就労継続支援B型事業所「ぽちぽちの道」（埼玉県志木市）を運営している",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "福祉経営ナビ",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省 認定経営革新等支援機関",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省資源エネルギー庁｜令和7年度補正予算「省エネルギー投資促進・需要構造転換支援事業費補助金」、「省エネルギー投資促進支援事業費補助金」の公募開始とパートナー金融機関による確認書の発行について",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "シェアードサービス",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "中野裕哲は、大企業人事部、人材紹介会社の採用エージェント、中小企業の財務責任者、大手不動産会社での営業、出版・Web制作による集客導線構築など、幅広い実務経験をもとに、経営者の意思決定を支援します",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "PwC Advisory合同会社を経て、2018年に補助金コンサルティングや事業承継支援を手がける株式会社HighAdoptionを設立",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "記事をシェアする",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業から出資を受けられる体力がある",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "岡山大学教育学部を経て日立システムズでエンジニア、リクルートで法人営業を務め、レアジョブと素材図書でAIを用いた新規事業を立ち上げたのち、2023年に当社を設立した",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "大手の購買力・営業力・IT基盤を取り込み、単価や稼働率の改善、品質・納期の安定化が期待できます",
+    "url": "https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe",
+    "pass": 3
+   },
+   {
+    "quote": "DXは組織横断で取り組んでいく必要があり簡単ではありませんが、DX税制やものづくり補助金のデジタル枠（DXに取り組む事業者を支援する類型）などの施策も活用しながら、競合に先駆けていち早く取り組むことで、高い優位性の獲得を期待できます",
+    "url": "https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe",
+    "pass": 3
+   },
+   {
+    "quote": "大手ITベンチャー企業などでシステム開発、ウェブマーケティングを経験した後に、経営コンサルタントとして独立",
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "また、大手ITベンチャー企業にてエンジニア経験を有するコンサルタントが責任者を務めており、AIをはじめとする最新のIT技術やDXに関する知見を活かしたご提案を強みとしております",
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "経験がなかったプレゼンテーション資料の作成や面接などに対する、適切なサポート",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金と異なり、申請は「IT導入支援事業者（認定ベンダー）」経由で行います",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "導入したいITツールが補助金対象ツールとして登録されているか確認",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "必須ではありませんが、採択率を上げたい場合は中小企業診断士や認定経営革新等支援機関（認定支援機関）のサポートを受けることが効果的です",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金は加点要素として「事業継続力強化計画」「経営革新計画」の認定を取得している場合に審査加点があります",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "事務局に登録されたITツール（ソフト・クラウド等）の導入を支援する制度です",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "この制度は、登録されたIT導入支援事業者（ベンダー等）の支援を受けて申請するのが前提で、導入するツールも登録品であることが求められます",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "中野裕哲は、大企業人事部、人材紹介会社の採用エージェント、中小企業の財務責任者、大手不動産会社での営業、出版・Web制作による集客導線構築など、幅広い実務経験をもとに、経営者の意思決定を支援します",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "V-Spiritsグループは、起業支援・会社設立・創業融資・補助金助成金・税務会計・人事労務・許認可・経営顧問をワンストップで支援する、起業家・中小企業向けの専門家グループです",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "・社内に申請経験がある企業",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士など国家資格ホルダーによる充実した支援",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "、行政書士等の国家資格ホルダーです",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "資格を持っているだけでなく、各補助金の勉強会等で日々研鑽しているコンサルタントが皆様の会社の採択を支援します",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "安心の経済産業省認定、経営革新等認定支援機関に登録",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の認定、経営革新等認定支援機関に登録",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "えるぼし認定",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "くるみん認定",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "」で会員登録を行い、挑戦課題を登録している事業者",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "健康経営優良法人2026に認定されている事業者",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、補助金・助成金採択支援どっとコム®では、「成長加速化マッチングサービス登録」「パートナーシップ構築宣言登録」のサポートは着手金の中で対応させていただきます",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "※採択に有利となる様々な認定制度（事業継続力強化計画等）の取得は別途代金5万円税別となります",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "GビズIDと認定支援機関の準備",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログ登録済みの汎用製品（IoT・ロボット等）",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログ未登録のオーダーメイド設備・システム",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "賃上げ特例の活用可否は事業計画書の設計段階で判断が必要なため、早めに認定支援機関と確認しておきましょう",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "認定支援機関と協力して数値を整理する作業が、申請書の完成度を大きく左右します",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "認定支援機関に数値の妥当性を確認してもらうことで、申請書の信頼度が上がります",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画書の作成には認定支援機関との調整も必要です",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "販売事業者がメーカー招待なしで直接登録できるようになった変更も行われています",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "認定支援機関（経営革新等支援機関）",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画の策定に専門的な支援が必要な場合の相談先として、公募要領は認定経営革新等支援機関を案内しています",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "認定支援機関は中小機構・商工会議所・金融機関・税理士・社会保険労務士など幅広く指定されています",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資補助金をはじめ、IT導入補助金やものづくり補助金などAI・IT系補助金の申請を得意とする認定支援機関です",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "申請書類の作成支援から認定支援機関としての確認、採択後の実績報告まで一貫してサポートします",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "A. カタログ注文型は登録済みの汎用製品を手軽に導入できる方式、一般型はオーダーメイドの設備・システムを大きな補助上限で導入できる方式です",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "GビズIDプライムと認定支援機関の選定は申請前の必須準備",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "（一社）環境共創イニシアチブ〈SII〉に登録された既設・新設設備等の要件を満たすこと",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "工事に着手する日の原則として30日前までに、添付資料を添えて認定申請書を提出する",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場建設時に大事な3つの法律と許認可",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府知事登録（チ）第12493号",
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社・中小企業経営支援事務所は、認定経営革新等支援機関として、各補助金のトータルサポートを行っています",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "あらかじめカタログに登録された製品の中から選択して導入することで、即効性のある省力化投資を促進します",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "事前に事務局の審査を受けて登録されたITツール（ソフトウェア、サービスなど）を導入",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・キャリアアップ計画を作成し、都道府県労働局長の認定を受けている",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・e-Radへの登録が完了している",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "：カタログ登録製品や公募要領を掲載した公式サイト",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省 認定経営革新等支援機関（ID: 109813002812）である当社の代表として、補助金申請支援（補助金申請件数累計約277件・補助金額累計約167.6億円・全補助金の平均採択率約96.1%（2026年8月4日現在））を統括",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "事業拡大のための補助金活用支援や経営改善支援、事業承継支援（M＆A・親族内承継）まで、経験豊富な中小企業診断士がしっかり伴走していきます",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金制度に登録してある製品のみが対象",
+    "url": "https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe",
+    "pass": 3
+   },
+   {
+    "quote": "購入対象のソフトがデジタル化・AI導入補助金の対象として登録されている必要があります",
+    "url": "https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社東京経営サポーター（中小企業診断士事務所） 認定経営革新等支援機関（登録番号：105513008612）",
+    "url": "https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe",
+    "pass": 3
+   },
+   {
+    "quote": "カタログ登録済み既製品",
+    "url": "https://procon-hojyokin.com/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業を中心に、機械設備の導入から生産ラインの構築、システム導入まで、多様な設備投資を支援してきた経験があります",
+    "url": "https://procon-hojyokin.com/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "｜事前にカタログ登録された既製品が対象",
+    "url": "https://procon-hojyokin.com/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金（カタログ型）は、国が事前に登録した省力化効果のある既製品（カタログ掲載製品）の導入を支援する補助金です",
+    "url": "https://procon-hojyokin.com/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "プロコン補助金.comの共同代表である徳田、川崎をはじめ、当グループに所属しているコンサルタントは全員、経営コンサルタントの国家資格である中小企業診断士を保有しており、補助金コンサルの経験も豊富です",
+    "url": "https://procon-hojyokin.com/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "当グループのコンサルタントは全員、経営コンサルティングの経験も豊富であり、補助金のサポートを通じで経営改善や成長・発展に繋がるアドバイス（コンサルティング）を行います",
+    "url": "https://procon-hojyokin.com/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "3Willsコンサルティング（認定支援機関） ＆ 合同会社セールス・トータルサポーターズ（認定支援機関）",
+    "url": "https://procon-hojyokin.com/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "社会保険労務士の資格が必要となる業務は、提携社会保険労務士が担当します",
+    "url": "https://pmconsulting1221.com/subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "対象制度の確認、申請書類の作成、提出代行・事務代理など、社会保険労務士の資格が必要となる業務は、提携社会保険労務士が担当します",
+    "url": "https://pmconsulting1221.com/subsidy/",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "Zoho導入・運用支援",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "WEB広告運用代行",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "を目指す伴走型コンサルティングです",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "的確な伴走支援を行なってくれる",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "自社の現状を充分把握した上で、的確な伴走支援を行なってくれる",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "運用型広告に関する利用規約",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の場合、申請締切から採択発表まで2〜3ヶ月、その後の交付申請・事業実施・実績報告を経て補助金の入金まで最低1年程度かかることが多いです",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金は比較的早く、採択から補助金入金まで6ヶ月程度が目安です",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "資金繰り、採用、売上づくりの壁に対して、経営者目線で伴走します",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "V-Spiritsグループでは、融資・補助金・金融機関対応に詳しい社内役員チームも伴走します",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "「伴走支援を含む」「申請書の構成案まで作成」",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "101名以上の従業員規模の会社であれば、最大１億円の補助金受給も目指すことができます！",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の中小企業省力化投資補助金一般型では18ヶ月以内と大幅に期間が延長さました",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "第8回公募より、交付決定から17ヶ月以内となりましたが、多くのオーダーメイド設備を導入する企業が活用することができるでしょう",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "交付決定から17ヶ月以内（採択発表日から19ヶ月後の日まで）",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月から2025年9月までの間で、「当該期間における地域別最低賃金以上〜2025年度改定の地域別最低賃金未満」で雇用している従業員が全従業員数の30％以上である月が3か月以上ある事業者",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "飲食業の採択ポイントは、客席まわりではなく厨房と受発注の工数を数字で示すことです",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数が21名の場合は④も満たすこと",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員転換後6ヶ月間の賃金が、正社員転換前6ヶ月間の賃金と比較して3％以上増額",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・DXによる運用最適化",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "事業拡大のための補助金活用支援や経営改善支援、事業承継支援（M＆A・親族内承継）まで、経験豊富な中小企業診断士がしっかり伴走していきます",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "他の補助金に比べて申請工数は少ない",
+    "url": "https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe",
+    "pass": 3
+   },
+   {
+    "quote": "中小の価格交渉・資金繰りを支える制度運用の徹底、人材リスキリング支援、国内回帰・多元調達への補助・税制を活用し、強靭で稼ぐ製造業へ",
+    "url": "https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe",
+    "pass": 3
+   },
+   {
+    "quote": "重要鉱物の確保や輸出管理の国際協調も視野に、サプライチェーンの可視化・代替設計を平時運用へ",
+    "url": "https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe",
+    "pass": 3
+   },
+   {
+    "quote": "●検査装置：検査の省力化・工数削減・細かい不良の判別のために活用",
+    "url": "https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe",
+    "pass": 3
+   },
+   {
+    "quote": "特に、作業時間の短縮、生産量あたりの投入工数の低減などをもとに算出される省力化指数が高い計画ほど、評価されやすい傾向にあります",
+    "url": "https://procon-hojyokin.com/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、導入前後で作業人数・作業時間がどのように変化するのかを定量的に示すことがポイントとなります",
+    "url": "https://procon-hojyokin.com/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金制度には公募期間があり、制度によって異なりますが、多くの場合、その期間は2〜3か月程度です",
+    "url": "https://pmconsulting1221.com/subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "日々雇い入れられる者、2か月以内の期間を定めて雇用される者、または季節的業務に4か月以内の期間を定めて雇用される者ではあるが、当初所定の期間を超えて継続雇用となっている者",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "常時使用する従業員とは、予め解雇の予告を必要とする者となりますので、当初所定の期間を超えて継続雇用となっている場合でも、日々雇い入れられる者、2か月以内の期間を定めて雇用される者、または季節的業務に4か月以内の期間を定めて雇用される者は算定に含めません",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "これには、日々雇い入れられている者、2か月以内の期間を定めて使用される者、季節的業務に4か月以内の期間を定めて使用される者、試みの使用期間中の者は含まれません",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "補助事業1人当たり給与支給総額の算定にあたり含める補助事業に関わる従業員は、基準年度及びその算定対象となる各事業年度において全月分(12か月)の給与等の支給を受けた従業員とします",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "よって、中途入社した従業員の給与総支給額は入社の翌事業年度以降から、給与支給総額と、人数に含めて計算をお願いします",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "補助事業1人当たり給与支給総額の算定にあたり含める補助事業に関わる従業員は、基準年度及びその算定対象となる各事業年度において全月分(12か月)の給与等の支給を受けた従業員とします（基準年度も同様）",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "パートタイム従業員については、正社員の就業時間に換算して人数を算出してください",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "事業前の総人件費と事業後の総人件費の増加率か、総人件費の人数割りでの１人当たりの増加率での判断のどちらになりますでしょうか",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "総人件費の人数割りでの１人当たりの増加率での判断となります",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "事業に関するホームページの開設・運用・保守等の費用は補助対象でしょうか",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページの開設・運用・保守等の経費：専ら補助事業に使用するものであれば対象、他事業と共用する場合は補助対象外です",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "・プレゼンテーションは申請企業の経営者（代表取締役社長・会長等の代表権を持たれている方 1名）より行っていただきます（必須）",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "※コンソーシアムの場合、幹事企業の経営者（1名）にプレゼンテーションを行っていただきます",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "※「金融機関による確認書」を提出した申請者については、上記3名の他に、当該金融機関の担当者（1名）の同席が可能であり、同席した場合には審査で加点します",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、従業員の総数のみが要件であり、従業員の内訳は問いませんので、減少した人数を追加採用により補填する分には、加点の検討対象となります",
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画づくりから申請まで、コンシェルジュが伴走します",
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "交付決定日から18か月以内（採択発表日から20か月以内）",
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "④ 次世代育成支援対策推進法に基づく一般事業主行動計画の公表等（従業員21名以上の場合）",
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画書の作成には1か月ほどかかります",
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "最初から最後まで、同じ担当者が伴走します",
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタント2名体制で、外部への外注は行いません",
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "経営・IT・事業戦略という多方面の専門家チームで最後まで伴走してくださり、とても親切で心強いサポート体制に感謝しております",
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "公募締切から数か月後に結果が発表されます",
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金（一般型）の申請においては、アルバイトやパートであっても「常時雇用する従業員数」に該当すれば、人数に含まれます",
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用・人材育成関連の助成金の要件確認から受給まで伴走",
+    "url": "https://helptech.jp/large-scale-growth-investment-subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "経営者本人による2次審査（対話形式）に向け、スピーチ構成・想定問答・資料の一貫性チェックまで伴走",
+    "url": "https://helptech.jp/large-scale-growth-investment-subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "審査5項目を踏まえ、成長投資計画書の作成と数値の一貫性の確認に伴走します",
+    "url": "https://helptech.jp/large-scale-growth-investment-subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "実績報告・受給から、その後3年間の賃上げ・事業化報告まで伴走します",
+    "url": "https://helptech.jp/large-scale-growth-investment-subsidy",
+    "pass": 3
+   },
+   {
+    "quote": "交付決定から原則1か月以内に、採択・目標賃上げ率・投資規模を対外公表する義務があります",
+    "url": "https://helptech.jp/large-scale-growth-investment-subsidy",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "事業承継アドバイザリー（親族内承継・親族外従業員承継）",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "大規模成長投資補助金 申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業成長加速化補助金 申請支援",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "「省力化投資補助金（一般型）」は、深刻な人手不足に直面している中小企業・中堅企業向けの、自社の個別現場に合わせた「独自の設備導入・システム構築」を行う戦略的投資を支援する制度",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限額：最大1億円（従業員数および賃上げ要件により変動）",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "補助率：中小企業は1/2（大幅な賃上げを行う場合は2/3）、小規模事業者等は2/3",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "従業員100名超で、数千万〜1億円規模の",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "自動化により売上が同じでも利益が残る高収益体質への改善",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "大規模成長投資補助金",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業・売上高100億円超企業向けの補助金",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "生産性向上と賃上げを促進するため、大規模な工場・物流拠点等の新設、設備、システム投資の費用の一部を補助",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "売上高100億円を目指す企業向けの補助金",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "売上高10億円以上100億円未満の、「100億宣言」企業が対象",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足に悩む中小企業等の売上拡大や生産性向上を後押しするための補助金",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業等による生産性向上に資する革新的サービス開発・試作品開発・生産プロセスの改善を行うための設備投資を支援する補助金",
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の設備投資・システム導入",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "数千万円〜数億円（設備規模による）",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金は、中小企業が革新的な設備投資・サービス開発・プロセス改善を行う際に使える補助金です",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "八千代ソリューションズ株式会社によるオンライン調査（2025年10月実施、n=500）によると、DXの価値として「コスト削減」への同意率は全規模で70%を超えており、設備投資・デジタル化への意欲は高い一方、「予算化できていない」という声も多く挙がっています",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金は、中小企業・小規模事業者がITツールを導入する際の費用を補助する制度です",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "Q2. 補助金申請に中小企業診断士は必要ですか？",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "必須ではありませんが、採択率を上げたい場合は中小企業診断士や認定経営革新等支援機関（認定支援機関）のサポートを受けることが効果的です",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "Q3. 小規模事業者（従業員5名以下）でも申請できますか？",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "はい、ものづくり補助金・IT導入補助金ともに小規模事業者も申請対象です",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金は特に小規模事業者向けの類型（補助率が高く設定されている）があります",
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "pass": 3
+   },
+   {
+    "quote": "税理士／社労士／行政書士／司法書士／中小企業診断士／FP／元補助金審査員／元日本政策金融公庫支店長／各種コンサルタントなどが常駐する他に類を見ないワンストップサービス",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "いずれも補助金名や上限額は正式名称のまま記載しますが、実際の補助額は枠・従業員規模・賃上げの取り組みによって変わります",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "1. 中小企業省力化投資補助金（一般型）",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "設備・システムを組み合わせた省力化が主軸なら中小企業省力化投資補助金（一般型）、AIソフトやクラウド監視が中心ならデジタル化・AI導入補助金",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "どの制度が自社に合うかは、設備構成・従業員規模・賃上げの計画によって変わります",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士、起業コンサルタント®、",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "税理士法人V-Spiritsグループ代表の中野裕哲は、中小企業経営者のために、税務・会計だけでなく、採用、人事、資金繰り、融資、補助金、助成金、営業、Webマーケティング、売上導線設計まで横断的に支援する実戦型経営税理士です",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "経営の悩みは、突き詰めると「人・金・売上」に集約されます",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "中野裕哲は、大企業人事部、人材紹介会社の採用エージェント、中小企業の財務責任者、大手不動産会社での営業、出版・Web制作による集客導線構築など、幅広い実務経験をもとに、経営者の意思決定を支援します",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "税理士顧問、社労士顧問、補助金支援、助成金支援、資金調達支援、採用力診断、売上導線診断、経営参謀顧問",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "資金繰り、採用、売上づくりの壁に対して、経営者目線で伴走します",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "大企業Webサイト多数監修",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "V-Spiritsグループは、起業支援・会社設立・創業融資・補助金助成金・税務会計・人事労務・許認可・経営顧問をワンストップで支援する、起業家・中小企業向けの専門家グループです",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士の三浦が弥生様公式Youtubeチャンネルの動画に出演しました！",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業成長加速化補助金と輸出の取り組み｜計画に活かすための整理の仕方",
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "pass": 3
+   },
+   {
+    "quote": "大規模成長投資",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "「大規模補助金ナビ」では、補助金支援を行っている専門家による無料相談を実施しております",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円規模の設備投資・システム開発、1億円以上の新規拠点・工場建設など、大型投資を検討されている決裁者さまをサポートいたします",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "採択された場合にのみ費用が発生するこの仕組みは、省力化投資補助金を検討する中小企業にとって、費用リスクを抑えられる点で魅力的です",
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金一般型、申請代行",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金・省力化投資補助金・大規模成長投資補助金コンサルタント（申請支援・申請代行）",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】中小企業成長加速化補助金",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】大規模成長投資補助金（中堅中小成長投資補助金）",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】中小企業省力化投資補助金一般型",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金一般型",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業等の売上拡大や生産性向上を後押しするため、人手不足に悩む中小企業等が、IoT・ロボット等の人手不足解消に効果があるデジタル技術等を活用した設備を導入するための事業費等の経費の一部を補助することにより、省力化投資を促進します",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、中小企業等の付加価値額や生産性向上を図り、賃上げにつなげることを目的とします",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金一般型ポータルサイト",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資補助金（ミサラポplus 中小企業向け補助金・総合支援サイト）",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金一般型 最新情報",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金一般型スケジュール【2026年版】",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】中小企業省力化投資補助金 第8回公募が開始！変更点を解説",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業省力化投資補助金一般型の採択率で選ぶなら！",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "採択率100％コンサルが解説！ものづくり補助金オーダーメイド枠の後継！中小企業省力化投資補助金一般型",
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "pass": 3
+   },
+   {
+    "quote": "【業種別】中小企業省力化投資補助金の採択事例を解説｜成功のポイントとは ｜ 株式会社イチドキリ",
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://shoryokuka.smrj.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hojyokincloud.jp/shoryokukatoshi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toshi.mono-support.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gyousei-apple.com/syouryokuka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ichidokiri.co.jp/column/manufacturing_subsidy_successfee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minnano-chikara.jp/subsidy-reconstruction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://financeinjapan.com/knowledge/4erjrGgbIKKZrAYwAQ6rVX",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://planet-law.com/hojo/shoryokuka-ippan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shoryokuka.smrj.go.jp/ippan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-joseikin.com/aid_info/2853/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sme-support.co.jp/column/p8616/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://higucm.com/shoryokuka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobelco-kenki.co.jp/support/guide/purchase/labor-saving-investments-subsidy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plusweb.co.jp/blog/factory-904.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://procon-hojyokin.com/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmconsulting1221.com/subsidy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojyokin-portal.jp/subsidies/53206",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://seichotoushi-hojo.jp/faq/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://j-izumi.com/column/hojokin-jigyou-jiko-henkan-gimu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grantos.jp/articles/juyo-keizai-anpo-joho-hozen-shisetsu-hojokin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihondaikyo.or.jp/agency04-02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.gunma.jp/page/8942.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%BD%B9%E5%93%A1%E8%B2%AC%E4%BB%BB/%E6%A0%AA%E4%B8%BB%E4%BB%A3%E8%A1%A8%E8%A8%B4%E8%A8%9F/%E6%97%A7%E5%BD%B9%E5%93%A1%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E4%BB%A3%E8%A1%A8%E8%A8%B4%E8%A8%9F%E3%81%AE%E5%AE%9F%E5%8B%99%E5%AF%BE%E5%BF%9C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shoryokuka.smrj.go.jp/assets/pdf/application_manual_ippan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-cm.co.jp/saving/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--tfr2a0z293jcxsejm.biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovales.jp/20250528/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sos.iowa.gov/voters/elections-security-iowa",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sos.iowa.gov/elections-voting",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://stripe.com/jp/resources/more/getting-a-grant-for-a-startup-what-you-need-to-know",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://higucm.com/startup-hojokin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/page_01547.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.erca.go.jp/startup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helptech.jp/large-scale-growth-investment-subsidy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojyokin-portal.jp/subsidies/43246",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/invest/support_programs/incentive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eu-japan.eu/events/jetros-subsidy-foreign-direct-investment-stimulation-project-accepting-applications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shigyo.co.jp/en/search_post/business-subsidy/zizokuka/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "保全投資の補助金申請支援",
+   "results": [
+    "https://shoryokuka.smrj.go.jp/",
+    "https://www.hojyokincloud.jp/shoryokukatoshi/",
+    "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "https://toshi.mono-support.com/",
+    "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "https://gyousei-apple.com/syouryokuka/",
+    "https://www.sme-support.co.jp/column/p8616/",
+    "https://service.ryobi.co.jp/feature/column-infogear02/",
+    "https://www.eqptmainte-base.com/subsidy-list/"
+   ]
+  },
+  {
+   "query": "保全投資の補助金申請支援 費用 相場",
+   "results": [
+    "https://gyousei-apple.com/syouryokuka/",
+    "https://ichidokiri.co.jp/column/manufacturing_subsidy_successfee/",
+    "https://minnano-chikara.jp/subsidy-reconstruction",
+    "https://financeinjapan.com/knowledge/4erjrGgbIKKZrAYwAQ6rVX",
+    "https://planet-law.com/hojo/shoryokuka-ippan",
+    "https://oogata-hojokin.jp/syoryokuka/p1761",
+    "https://hojokin-joseikin.com/2838/",
+    "https://toshi.mono-support.com/",
+    "https://innovales.jp/stoushi/",
+    "https://web.whatsapp.com/"
+   ]
+  },
+  {
+   "query": "保全投資の補助金申請支援 事例 中堅企業",
+   "results": [
+    "https://shoryokuka.smrj.go.jp/ippan/",
+    "https://hojokin-joseikin.com/aid_info/2853/",
+    "https://ichidokiri.co.jp/column/investment-subsidy-examples/",
+    "https://www.hojyokincloud.jp/shoryokukatoshi/",
+    "https://www.sme-support.co.jp/column/p8616/",
+    "https://higucm.com/shoryokuka/",
+    "https://www.kobelco-kenki.co.jp/support/guide/purchase/labor-saving-investments-subsidy",
+    "https://www.tokyo-kosha.or.jp/support/josei/setsubijosei/yakushin_jirei.html",
+    "https://planbase.co.jp/column/shoryokuka-manufacturing-industry-catalog/",
+    "https://en.wikipedia.org/wiki/Natural_language_processing"
+   ]
+  },
+  {
+   "query": "保全投資の補助金申請支援 工場 製造業",
+   "results": [
+    "https://www.plusweb.co.jp/blog/factory-904.html",
+    "https://www.sme-support.co.jp/column/p1242/",
+    "https://www.tokyo-kst.jp/repo07.html?srsltid=AYCX9vKRgtBsltk6I5lJ5uZ1PIpm4aQS9UFRvzmOi2KRRUuejaAJarTe",
+    "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "https://procon-hojyokin.com/manufacturing/",
+    "https://v-spirits.com/%E8%A3%9C%E5%8A%A9%E9%87%91%E3%83%BB%E5%8A%A9%E6%88%90%E9%87%91/predictive-maintenance-system-subsidy-guide",
+    "https://pmconsulting1221.com/subsidy/",
+    "https://hojyokin-portal.jp/subsidies/53206",
+    "https://hojokin-agent.jp/industry/manufacturing",
+    "https://time.now/countries/brazil/"
+   ]
+  },
+  {
+   "query": "保全投資の補助金申請支援 責任 範囲 免責",
+   "results": [
+    "https://seichotoushi-hojo.jp/faq/",
+    "https://j-izumi.com/column/hojokin-jigyou-jiko-henkan-gimu",
+    "https://grantos.jp/articles/juyo-keizai-anpo-joho-hozen-shisetsu-hojokin",
+    "https://www.nihondaikyo.or.jp/agency04-02",
+    "https://www.pref.gunma.jp/page/8942.html",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%BD%B9%E5%93%A1%E8%B2%AC%E4%BB%BB/%E6%A0%AA%E4%B8%BB%E4%BB%A3%E8%A1%A8%E8%A8%B4%E8%A8%9F/%E6%97%A7%E5%BD%B9%E5%93%A1%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E4%BB%A3%E8%A1%A8%E8%A8%B4%E8%A8%9F%E3%81%AE%E5%AE%9F%E5%8B%99%E5%AF%BE%E5%BF%9C/",
+    "https://so-labo.co.jp/hojyokin/basic/884/",
+    "https://www.ms-ins.com/pdf/personal/kasai/gk_extra.pdf",
+    "https://tmn-do.jp/about/index01.html",
+    "https://ru.wikipedia.org/wiki/Михаил_Фёдорович"
+   ]
+  },
+  {
+   "query": "保全投資の補助金申請支援 経営判断 損失額",
+   "results": [
+    "https://www.sme-support.co.jp/column/p8616/",
+    "https://shoryokuka.smrj.go.jp/assets/pdf/application_manual_ippan.pdf",
+    "https://www.funaisoken.co.jp/solution/vi-labor-saving-subsidy_807_S087",
+    "https://www.tokyo-cm.co.jp/saving/",
+    "https://xn--tfr2a0z293jcxsejm.biz/",
+    "https://hojokin-joseikin.com/aid_info/2853/",
+    "https://www.hojyokincloud.jp/shoryokukatoshi/",
+    "https://innovales.jp/20250528/",
+    "https://gyousei-apple.com/syouryokuka/",
+    "https://sos.iowa.gov/voters/elections-security-iowa"
+   ]
+  },
+  {
+   "query": "保全投資の補助金申請支援 スタートアップ",
+   "results": [
+    "https://stripe.com/jp/resources/more/getting-a-grant-for-a-startup-what-you-need-to-know",
+    "https://higucm.com/startup-hojokin",
+    "https://www.env.go.jp/page_01547.html",
+    "https://www.erca.go.jp/startup/",
+    "https://helptech.jp/large-scale-growth-investment-subsidy",
+    "https://hojyokin-portal.jp/subsidies/43246",
+    "https://alive-business.com/grant/found/16000.html",
+    "https://s-rapport-consulting.co.jp/news/%E7%92%B0%E5%A2%83%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E6%94%AF%E6%8F%B4%E3%80%82%E7%92%B0%E5%A2%83%E4%BF%9D%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B2%BB%E8%A3%9C%E5%8A%A9%E9%87%91/",
+    "https://www.mizuhobank.co.jp/corporate/account/tips/topic_123.html",
+    "https://www.rvtrader.com/Milwaukee-Class-B/rvs-for-sale?type=Class+B|198068&city=milwaukee&state=Wisconsin|WI"
+   ]
+  },
+  {
+   "query": "subsidy application for maintenance investment Japan factory shop floor manufacturer",
+   "results": [
+    "https://www.jetro.go.jp/en/invest/support_programs/incentive/",
+    "https://www.eu-japan.eu/events/jetros-subsidy-foreign-direct-investment-stimulation-project-accepting-applications",
+    "https://www.shigyo.co.jp/en/search_post/business-subsidy/zizokuka/",
+    "https://www.facebook.com/vietnamtodayinternational/posts/the-japanese-government-will-be-launching-a-subsidy-program-to-encourage-firms-t/567160287553442/",
+    "https://japan-businessvisa.com/en-subsidy/",
+    "https://sapporo-step.global/benefits/biz-entity/",
+    "https://www.pref.aichi.jp/ricchitsusho/en/guide/",
+    "https://businessyokohama.com/blog/2025/06/23/2025-subsidy-incentives/",
+    "https://mailmate.jp/blog/subsidies-for-startups-in-japan",
+    "https://en.wikipedia.org/wiki/Subsidy"
+   ]
+  },
+  {
+   "query": "subsidy application for maintenance investment Japan factory shop floor manufacturer startup pricing",
+   "results": [
+    "https://www.jetro.go.jp/en/invest/support_programs/incentive/",
+    "https://www.shigyo.co.jp/en/search_post/business-subsidy/zizokuka/",
+    "https://www.small-business-japan.com/japan-start-up-subsidy-up-to-2m-opening-soon/",
+    "https://www.eu-japan.eu/events/jetros-subsidy-foreign-direct-investment-stimulation-project-accepting-applications",
+    "https://mailmate.jp/blog/subsidies-for-startups-in-japan",
+    "https://businessyokohama.com/blog/2025/06/23/2025-subsidy-incentives/",
+    "https://stripe.com/resources/more/subsidies-for-creating-ecommerce-sites-japan",
+    "https://www.english.metro.tokyo.lg.jp/w/113-101-001102",
+    "https://sapporo-step.global/benefits/biz-entity/",
+    "https://en.wikipedia.org/wiki/Subsidy"
+   ]
+  },
+  {
+   "query": "site:note.com 保全投資の補助金申請支援",
+   "results": [
+    "https://note.com/guidy2025/n/naa391374c8e5",
+    "https://note.com/joyous_swift3677/n/ndfc1b42d5875",
+    "https://note.com/agri_strategy/n/nc743b7be1474",
+    "https://note.com/hax/n/n5f4958135097",
+    "https://note.com/tsuchidagyousei/n/nf52ec002c868",
+    "https://note.com/agri_strategy/n/n390de7c7f58f",
+    "https://note.com/analysdigital_/n/nb2bfdeb653c2",
+    "https://note.com/tsuchidagyousei/n/n095c9697db17",
+    "https://note.com/nouka_ikusei/n/nc33c42f7d3e1",
+    "https://note.com/tomahojo/n/n1fc6cc08f22e"
+   ]
+  },
+  {
+   "query": "site:x.com 保全投資の補助金申請支援",
+   "results": [
+    "https://x.com/meditips_inc",
+    "https://x.com/chiiki_keiei",
+    "https://x.com/compalyze/status/2114819574336270645",
+    "https://x.com/KagawaTomo/article/2080070859822424069",
+    "https://x.com/ka2aki86/article/2061997563721707928",
+    "https://x.com/_enecom1",
+    "https://x.com/elcom_japan",
+    "https://x.com/Takemoto_VC",
+    "https://x.com/KagawaTomo/article/2074235913388061168",
+    "https://jf.x.com/images/media-preview/2113581919741022315"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 保全投資の補助金申請支援",
+   "results": [
+    "https://jp.linkedin.com/posts/%E9%9B%85%E5%BD%A6-%E6%9F%8F%E8%B0%B7-4b80353aa_%E8%A3%9C%E5%8A%A9%E9%87%91-ai%E5%B0%8E%E5%85%A5-%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB-activity-7427879199086018560-P9U5",
+    "https://jp.linkedin.com/jobs/view/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2-at-nestl%C3%A9-4203100270",
+    "https://jp.linkedin.com/in/kiyotakaogiu",
+    "https://jp.linkedin.com/in/%E5%B7%9D%E5%90%88%E7%A7%80%E5%8D%9A",
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/pulse/acca-afm-green-finance-satyamedh-nandedkar-x0avc?tl=ja",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC-%E8%BB%A2%E5%8B%A4%E7%84%A1%E3%81%97%E3%80%91%E9%87%91%E8%9E%8D%E4%BA%8B%E5%8B%99-%E5%BE%93%E6%A5%AD%E5%93%A1%E5%90%91%E3%81%91%E3%81%AE%E7%94%9F%E5%91%BD%E4%BF%9D%E9%99%BA-%E2%97%86%E5%83%8D%E3%81%8D%E6%96%B9%E2%97%8E-%E3%82%BB%E3%83%96%E3%83%B3-%E3%82%A2%E3%82%A4hldgs%E3%81%AE%E5%AE%89%E5%AE%9A%E5%9F%BA%E7%9B%A4-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4480112118",
+    "https://jp.linkedin.com/in/y-taniguchi-%E8%B0%B7%E5%8F%A3%E7%A5%90%E5%8F%B8",
+    "https://jp.linkedin.com/in/junkichi-ito-415500164",
+    "https://jp.linkedin.com/in/isao-nagata-8991524a"
+   ]
+  },
+  {
+   "query": "site:facebook.com 保全投資の補助金申請支援",
+   "results": [
+    "https://www.facebook.com/threesix.official/",
+    "https://www.facebook.com/p/%E3%81%84%E3%81%B0%E3%82%89%E3%81%8D%E7%B5%8C%E5%96%B6%E7%A0%94%E7%A9%B6%E6%89%80-61550783632208/",
+    "https://www.facebook.com/morikadocci/posts/%E5%AE%88%E5%8F%A3%E5%B8%82%E5%B7%A5%E6%A5%AD%E6%B4%BB%E6%80%A7%E5%8C%96%E6%94%AF%E6%8F%B4%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AE%E8%A3%9C%E5%8A%A9%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%8C%E6%8B%A1%E5%85%85%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%BB%BA%E8%A8%AD%E6%A5%AD%E7%AD%89%E3%81%AE%E7%9A%86%E6%A7%98%E5%BF%85%E8%A6%8B%E5%AE%88%E5%8F%A3%E5%B8%82%E3%81%8C%E4%BA%8B%E6%A5%AD%E3%82%92%E5%BF%9C%E6%8F%B4%E7%AB%8B%E5%9C%B0%E4%BF%83%E9%80%B2%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E3%81%AB%E5%B7%A5%E6%A5%AD%E6%B4%BB%E6%80%A7%E5%8C%96%E6%94%AF%E6%8F%B4%E8%A3%9C%E5%8A%A9%E9%87%91%E3%82%92%E3%81%94%E6%B4%BB%E7%94%A8%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E8%A9%B3%E7%B4%B0%E3%81%AF%E4%BB%A5%E4%B8%8B/1369697795192146/",
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E6%94%AF%E6%8F%B4%E7%A0%94%E7%A9%B6%E6%89%80-100064911626056/",
+    "https://www.facebook.com/AsahikawaBizCafe/posts/%E6%97%AD%E5%B7%9D%E5%B8%82%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E4%BC%B4%E8%B5%B0%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E5%89%B5%E6%A5%AD%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99-8%E6%9C%888%E6%97%A5%E9%87%91%E4%B8%80%E3%81%A4%E3%81%AE%E5%B0%8F%E3%81%95%E3%81%AA%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91%E3%81%8C%E4%BA%BA%E3%81%AE%E5%B9%B8%E3%81%9B%E5%9C%B0%E7%90%83%E7%92%B0%E5%A2%83%E3%81%AE%E4%BF%9D%E5%85%A8%E3%81%AB%E7%B9%8B%E3%81%8C%E3%82%8B%E4%BB%95%E4%BA%8B%E3%82%92%E5%89%B5%E3%82%8A%E5%87%BA%E3%81%99%E3%81%93%E3%81%A8%E3%81%A0%E3%81%A3%E3%81%A6%E3%81%82%E3%82%8B%E5%89%B5%E6%A5%AD%E3%81%AB%E7%A7%98%E3%82%81%E3%81%9F/1137506081738410/",
+    "https://www.facebook.com/JIFPRO/posts/314%E6%9C%A8%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E9%96%8B%E5%82%AC%E9%80%94%E4%B8%8A%E5%9B%BD%E6%A3%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E6%A4%8D%E3%81%88%E3%82%8B%E3%82%92%E8%A6%96%E3%81%88%E3%82%8B%E5%8C%96sdgs%E3%82%84esg%E6%8A%95%E8%B3%87%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%A9%E3%83%AB%E3%82%84%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A7%98%E6%80%A7%E4%BF%9D%E5%85%A8%E3%81%AA%E3%81%A9%E3%82%92%E5%BF%B5%E9%A0%AD%E3%81%AB%E7%BD%AE%E3%81%84%E3%81%9F%E9%80%94%E4%B8%8A%E5%9B%BD%E3%81%B8%E3%81%AE%E6%A4%8D%E6%9E%97%E6%B4%BB/794349079394268/",
+    "https://www.facebook.com/fukuidxlab/videos/iotai%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%AD%89%E5%B0%8E%E5%85%A5%E4%BF%83%E9%80%B2%E4%BA%8B%E6%A5%AD%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AE%E3%81%94%E8%AA%AC%E6%98%8E/482777416108048/?locale=ms_MY",
+    "https://www.facebook.com/sdgsf/",
+    "https://www.facebook.com/yuji.seki.524/videos/%E6%A1%90%E7%94%9F%E3%82%92%E8%89%AF%E3%81%8F%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E6%8F%90%E6%A1%885%E3%83%8E%E3%82%B3%E3%82%AE%E3%83%AA%E5%B1%8B%E6%A0%B9%E3%81%AE%E8%A1%97%E3%81%A7%E4%B8%80%E6%99%A9%E3%82%92%E9%81%8E%E3%81%94%E3%81%97%E3%81%A6%E3%82%82%E3%82%89%E3%81%86%E4%BB%8A%E6%9C%9D%E3%82%82%E6%9C%9D%E8%B5%B7%E4%BC%9A%E3%81%A7%E5%BF%83%E3%82%92%E6%95%B4%E3%81%88%E3%81%A6%E3%81%8B%E3%82%89%E4%B8%80%E6%97%A5%E3%82%92%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E6%B8%8B%E6%B2%A2%E6%A0%84%E4%B8%80%E7%BF%81%E3%81%AF%E5%90%88%E6%9C%AC%E4%B8%BB%E7%BE%A9%E3%82%92%E8%AA%AC%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E4%B8%80%E4%BA%BA%E3%81%AE%E5%A4%A7%E9%87%91%E6%8C%81%E3%81%A1%E3%81%8C%E4%BA%8B/1444243974241161/",
+    "https://www.facebook.com/delightup/?locale=ja_JP"
+   ]
+  },
+  {
+   "query": "保全投資の補助金申請支援 note 社長",
+   "results": [
+    "https://note.com/guidy2025/n/nc61743c5b7c4",
+    "https://note.com/guidy2025/n/naa391374c8e5",
+    "https://note.com/tsuchidagyousei/n/ndff01d7cf3ae",
+    "https://www.youtube.com/watch?v=XzYidOhzlas",
+    "https://yachiyo-sol.com/library/seizobgu-setsubi-hojokinn-katsuyou/",
+    "https://note.com/autosubsidy/n/n0974a0dbda4d",
+    "https://www.sme-support.co.jp/column/p8616/",
+    "https://xn--tfr2a0z293jcxsejm.biz/",
+    "http://technology-note.com/page/4/",
+    "https://devforum.zoom.us/t/how-to-set-names-of-participants-in-meetings-before-meeting-begins/8320"
+   ]
+  },
+  {
+   "query": "保全投資の補助金申請支援 X 投稿",
+   "results": [
+    "https://x.com/hojyokin_portal",
+    "https://www.youtube.com/watch?v=kuNYT5rVgCg",
+    "https://power-x.jp/ja/intl/subsidies",
+    "https://www.eqptmainte-base.com/subsidy-list/",
+    "https://www.youtube.com/watch?v=O-q-lkolYEg",
+    "https://www.ai-souken.com/article/manufacturing-ai-subsidy-guide-2026",
+    "https://skylinkjapan.com/blog/drone-hojokin-2026/",
+    "https://sogyotecho.jp/capitalinvestment-subsidy/",
+    "https://www.city.gotemba.lg.jp/kurashi/b-11/b-11-4/20178.html",
+    "https://www.exitlag.com/"
+   ]
+  },
+  {
+   "query": "subsidy application for maintenance investment Japan factory shop floor manufacturer site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/jetro-collaborate-and-invest-japan",
+    "https://www.linkedin.com/pulse/japan-wood-repair-epoxy-market-forecast-application-end-user-qdz7f",
+    "https://www.linkedin.com/top-content/business-strategy/understanding-business-benefits/benefits-of-investing-in-american-manufacturing/",
+    "https://www.linkedin.com/company/pratt-&-whitney",
+    "https://www.linkedin.com/in/terry-lounsbury-90b2867",
+    "https://in.linkedin.com/in/sandeepchittora",
+    "https://www.linkedin.com/in/jos%C3%A9-mu%C3%B1oz",
+    "https://jp.linkedin.com/company/bdc-tokyo",
+    "https://www.linkedin.com/posts/kumar-priyadarshi-b0a2a7a2_10-sharp-startup-worthy-ideas-in-semiconductor-activity-7442416076073627649-_dzP",
+    "https://www.linkedin.com/pulse/japan-aluminium-pigment-cosmetics-market-growth-demand-yb2qc"
+   ]
+  }
+ ],
+ "missing": {}
+}

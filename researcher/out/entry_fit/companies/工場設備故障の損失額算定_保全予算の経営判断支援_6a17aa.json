@@ -1,0 +1,994 @@
+{
+ "name": "工場設備故障の損失額算定・保全予算の経営判断支援",
+ "en": "equipment failure cost quantification maintenance budget decision support factory shop floor manufacturer",
+ "aliases": [
+  "設備停止 損失額 算定 工場",
+  "保全費 予算 経営判断 工場",
+  "設備リスク 定量化 工場",
+  "製造業 工場設備故障の損失額算定"
+ ],
+ "context": "予知保全（工場設備のみ。プラント・インフラは除外）",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:08:00.848813+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "設備故障で223億円の損失？製造業が知るべきリスクの現実と対策 ｜株式会社エクサ",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "マネージドサービスSRE",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備故障による損失がどれほど大きな影響を与えるかを、実際に発生した2つの事例から見ていきます",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "事例1：設備火災による甚大な損失",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、旭化成株式会社の2021年3月期決算説明会によると、本火災による2020年度の損失額は合計223億円とされており、特別損失として一部が処理されています",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "旭化成エレクトロニクス株式会社「生産センター第二製造部 半導体製造工場 火災事故調査報告書」（2021年9月公表）",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "旭化成株式会社「2021年3月期 決算説明会 要旨」（2021年5月13日開催）",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "事例2：過電流による火災で業界全体に波及",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月にルネサス セミコンダクタ マニュファクチュアリング株式会社の那珂工場で発生した火災事故です",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの事例では、設備に起因する火災により甚大な損失が発生しました",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "旭化成の事例では定期点検を実施していたにも関わらず20年間の使用による経年劣化で火災を防げず、ルネサスの事例では突発的な過電流により火災が発生しており、従来の保全手法だけでは対応しきれないリスクの存在を示しています",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの深刻な事例を踏まえると、従来の壊れてから直す事後保全や、定期的な点検だけに頼った保全では、企業を取り巻くリスクに対応しきれないことが明らかです",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、先の事例で示したように、設備故障による損失は数百億円規模に達する可能性があります",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "収集された膨大なデータをAIが分析し、故障の予兆や異常パターンを自動検知することで、「あと〇日で故障する可能性が高い」といった具体的な予測を提供できます",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "MIRASENTで支援できること",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "品目、生産予定数、実績数",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "生産実績は生産管理システム",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "SCI総合研究所株式会社のMIRASENTでは、生産現場の設備停止・品質・生産・保全データを整理し、どの設備・課題から改善を検討するかという意思決定を支援しています",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "SCI総合研究所株式会社",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "SCI総合研究所株式会社は、データサイエンスと数理モデリングを駆使し、企業が抱える複雑な課題の解決を支援するコンサルティング・研究開発企業です",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 SCI総合研究所株式会社 All rights reserved.",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "設備故障で223億円の損失？製造業が知るべきリスクの現実と対策 ｜株式会社エクサ",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備故障で223億円の損失？",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備故障で223億円の損失？製造業が知るべきリスクの現実と対策",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、旭化成株式会社の2021年3月期決算説明会によると、本火災による2020年度の損失額は合計223億円とされており、特別損失として一部が処理されています",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "N3棟の生産停止による売上影響：月当たり約130億円の売上減少（当初発表では170億円とされていたが、後に130億円に修正）",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "旭化成エレクトロニクスの223億円やルネサス セミコンダクタ マニュファクチュアリングの月130億円の売上減少という数字が示すように、設備故障による損失は企業経営に致命的な影響を与える可能性があります",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "年商：12億円",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "12億円 × 3日 ÷ 240日 ＝ 1,500万円",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、「年間売上を稼働日数へ均等に割り当てた場合、3日間は約1,500万円分の売上規模に相当する」と捉えられます",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円をそのまま『設備停止によって失った利益』と表現してはいけません",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "対象ライン年間売上：3億円",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "3億円 × 50時間 ÷ 4,000時間 ＝ 375万円",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどの売上換算停止影響額375万円に対し、限界利益率を40%と仮定すると、",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "375万円 × 40% ＝ 150万円",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、これも「必ず150万円失った」という意味ではありません",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "年間の停止関連影響：500万円程度",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "市販のスマートデバイスと独自センサーの組み合わせにより熱中症の症状を検知し、健康管理システムとの連携により、「高精度な熱...",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "高精度カメラと画像処理から構成される溶鋼の漏洩検知システムにより、即座に鋳造を止めることで、鋳造設備への損傷を軽減し生産...",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "環境要因に左右されやすい手法に依存せず、数理的なアプローチを用いることで、高精度な予測モデルの構築や確実な異常検知を実現します",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "製造現場における設備故障は、予兆の有無に関わらず企業経営に深刻な影響を与えるリスクです",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、旭化成株式会社の2021年3月期決算説明会によると、本火災による2020年度の損失額は合計223億円とされており、特別損失として一部が処理されています",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "予知保全は止めない経営のための戦略投資へ",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "旭化成エレクトロニクスの223億円やルネサス セミコンダクタ マニュファクチュアリングの月130億円の売上減少という数字が示すように、設備故障による損失は企業経営に致命的な影響を与える可能性があります",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "保全を\"コスト\"から\"経営判断\"へ転換する必要性",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略としての保全投資の価値",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場の保全活動の中長期計画・予算化を実施することで経営層が設備保全の価値を正しく理解し、適切なリソースを配分し、止めない現場を実現することで、持続可能な企業成長を支える基盤を構築できます",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全は、企業の未来を支える経営判断の中核として見直されつつあります",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "保全への投資を\"経営判断\"と位置づけるなら、適切なシステムの選定も重要な観点です",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全を経営戦略に位置付ける",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、設備保全は単なる現場任せの対応ではなく、経営層が戦略的に意思決定すべき領域となりつつあります",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全を経営戦略の一環として明確に位置づけることで、突発的な停止の抑制、納期遵守の向上、品質の安定化といった成果を中長期的に実現することが可能になります",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "EAM（統合資産管理）導入プロジェクトを成功に導く体制構築とは？経営層・現場・I...",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "～経営とITの融合～",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業各社の経営課題である「予防保全から予知保全（状態基準保全）への転換」を、IoTインテリジェントセンサーとIBM M...",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の設備停止ロスはどう計算する？年間稼働日数から見る簡易試算と損失額の考え方 | SCI-Navi",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の設備停止ロスはどう計算する？年間稼働日数から見る簡易試算と損失額の考え方",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場では、「設備が年間50時間停止している」「今年は3日分の突発停止が発生した」といった停止時間は把握できていても、それが経営上どの程度の影響なのかを金額で説明できないことがあります",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "簡易試算を実際の損失額と呼べない理由",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、設備停止時間から一つの式で「正確な損失額」を求めることは容易ではありません",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "設備停止コストの算定が保全方針の意思決定に重要であることは、保全研究でも指摘されています",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "SCI総合研究所株式会社のMIRASENTでは、生産現場の設備停止・品質・生産・保全データを整理し、どの設備・課題から改善を検討するかという意思決定を支援しています",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "停止時間を金額へ置き換えることで、設備保全を技術上の問題だけでなく、経営上の意思決定として扱えるようにすることです",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "意思決定モデル",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "設備の老朽化が進む中、これまでに見られなかった新たな不具合の発生や、ベテラン技術者の知見に依存した属人的な判断体制、人手不足による点検頻度の制約なども、予期せぬ故障のリスクを高める要因となっています",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "熟練技術者の退職リスクを解決！暗黙知を見える化する実践的デジタル化手法 【人材不...",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "メールマガジン配信登録",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー技術者の派遣費",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "しかし、統合管理により全設備の故障履歴と保全記録を横断的に分析することで、「この設備でこの症状が出ると、数ヶ月後に故障する可能性が高い」といった予兆パターンを発見し、突発的な故障を未然に防ぐことが期待できます",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "エクサはEAM（統合資産管理）の構想策定からクイックアセスメント、システム導入、運用・保守まで一貫して支援します",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "修理工数、部品費、緊急外注費",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "修理担当者の作業工数",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "年間運用費：50万円",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "検出可能な故障なのか、停止原因のうちどの割合を対象にできるのか、運用体制を構築できるのかを確認する必要があります",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "2020年10月、旭化成エレクトロニクス延岡事業所の半導体製造工場で大規模火災が発生しました",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "被害規模：FAB棟4階・5階の広範囲焼損、屋根一部崩落",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "建屋・インフラ被害：FAB棟の大規模改修・再建が必要",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "被害規模：焼損面積約600㎡（クリーンルーム面積の約5%）、製造装置23台焼損",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "N3棟の生産停止による売上影響：月当たり約130億円の売上減少（当初発表では170億円とされていたが、後に130億円に修正）",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "旭化成エレクトロニクスの223億円やルネサス セミコンダクタ マニュファクチュアリングの月130億円の売上減少という数字が示すように、設備故障による損失は企業経営に致命的な影響を与える可能性があります",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、先の事例で示したように、設備故障による損失は数百億円規模に達する可能性があります",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "大規模設備の保全や公共設備の保守メンテナンス向けソリューション",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "測定サービスにおける大規模構造物の3Dドキュメント化に威力を発揮",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間数百件規模の法令申請業務をシステム化｜属人化解消とコンプライアンス強化を実現",
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、最初から精密な原価計算を行うのではなく、まず年商と年間稼働日数から設備停止の影響規模を簡易試算し、その後、対象ラインの売上、停止時間、限界利益、修理費などを使って精緻化する方法を解説します",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは年商と年間稼働日数から簡易試算する",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "売上ではなく限界利益で考える",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "最も簡単な方法の一つが、年間売上を年間稼働日数で按分する方法です",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "売上換算停止影響額 ＝ 年商 × 停止日数 ÷ 年間稼働日数",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "年商：12億円",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、「年間売上を稼働日数へ均等に割り当てた場合、3日間は約1,500万円分の売上規模に相当する」と捉えられます",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "B2に年商、B3に年間稼働日数、B4に停止日数を入力すれば計算できます",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "これはあくまで、停止時間の規模感をつかむための「売上換算停止影響額」です",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "年間売上がすべての稼働日に均等に発生する",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "停止した設備が工場全体の売上を止める",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、簡易試算は「どの程度の金額規模の問題か」を把握する入口として使います",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "次の段階では、工場全体の年商ではなく、",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "停止した設備が属するラインの売上",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   },
+   {
+    "quote": "対象ライン年間売上：3億円",
+    "url": "https://lab.scisoken.com/a-00040/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://yachiyo-sol.com/library/setsubi-teishi-sonshitsu-seizogyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bimstok.com/blog/20261029/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/equipment-maintenance-cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eqptmainte-base.com/knowledge/investment-recovery.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi.co.jp/products/infrastructure/portal/industry/column/29/column29_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yachiyo-sol.com/library/hozen-cost-mieruka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mentena.biz/insight/maintenance-costs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kowakouji.com/archives/2658",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miyako.com/housekeeping/article/equipment-downtime-revenue-loss/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lab.scisoken.com/a-00040/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bansou.tech/column/koujou-setsubi-koshou-cost",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fa-craft.co.jp/article/factory-hozen",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thk.com/brand/omniedge/jp/useful/content_8.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/solution/qa/production/Q0548.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirosho.com/column/p865/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plant-maintenance-jp.com/equipment-sudden-failure-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plantear.genbacompass.com/blog/downtime-cost-calculation",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jipm.or.jp/up_file/1603245544-805636.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/hub/ja-jp/blog/article33.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special.nikkeibp.co.jp/atclh/NXT/25/mds0901/yachiyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yachiyo-sol.com/library/hozen-keiei-koken/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoscope-media.com/predictive-maintenance-roi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.mentena.biz/template/k-003/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmac.co.jp/column/detail/kokoga_hendayo_11.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jbpress.ismedia.jp/articles/-/72239",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00040/00001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genbakaizen.com/ja/column/post_12550/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lawmirai.jp/kobe/column/8012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/ieejias/124/9/124_9_968/_pdf/-char/ja",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/695",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.com/story/detail/xR6d0PFvOex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inouekabu.com/yocchi000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.tcdigital.jp/ai-knowledge-flow/keywords/ai-7501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9890517/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tractian.com/en/glossary/unit-costs-in-maintenance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oxmaint.com/industries/manufacturing-plant/maintenance-budgeting-cost-analysis-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eptura.com/discover-more/blog/maintenance-budget/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/manickavasagam-natarajan_production-maintenance-operations-activity-7360505257816190976-Xc48",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.advancedtech.com/blog/how-to-calculate-maintenance-costs-of-a-facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limble.com/learn/reduce-maintenance-costs-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wiss.com/predictive-maintenance-roi-cost-savings-for-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ifactoryapp.com/blog/maintenance-cost-vs-breakdown-cost-factory-roi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prometheusgroup.com/resources/posts/6-keys-to-creating-new-maintenance-budgets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://themachinedaily.com/maintenance/industrial-equipment-maintenance-cost-analysis-framework",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工場設備故障の損失額算定・保全予算の経営判断支援",
+   "results": [
+    "https://yachiyo-sol.com/library/setsubi-teishi-sonshitsu-seizogyo/",
+    "https://www.bimstok.com/blog/20261029/",
+    "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "https://kaminashi.jp/media/equipment-maintenance-cost-reduction",
+    "https://www.eqptmainte-base.com/knowledge/investment-recovery.html",
+    "https://www.hitachi.co.jp/products/infrastructure/portal/industry/column/29/column29_01.html",
+    "https://fa-craft.co.jp/article/factory-hozen",
+    "https://mentena.biz/insight/maintenance-costs/",
+    "https://hirosho.com/column/p865/",
+    "https://yachiyo-sol.com/library/hozen-cost-mieruka/"
+   ]
+  },
+  {
+   "query": "工場設備故障の損失額算定・保全予算の経営判断支援 費用 相場",
+   "results": [
+    "https://yachiyo-sol.com/library/hozen-cost-mieruka/",
+    "https://www.bimstok.com/blog/20261029/",
+    "https://mentena.biz/insight/maintenance-costs/",
+    "https://www.hitachi.co.jp/products/infrastructure/portal/industry/column/29/column29_01.html",
+    "https://www.eqptmainte-base.com/knowledge/investment-recovery.html",
+    "https://kowakouji.com/archives/2658",
+    "https://kaminashi.jp/media/equipment-maintenance-cost-reduction",
+    "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "https://miyako.com/housekeeping/article/equipment-downtime-revenue-loss/",
+    "https://yachiyo-sol.com/library/setsubi-teishi-sonshitsu-seizogyo/"
+   ]
+  },
+  {
+   "query": "工場設備故障の損失額算定・保全予算の経営判断支援 事例 中堅企業",
+   "results": [
+    "https://yachiyo-sol.com/library/setsubi-teishi-sonshitsu-seizogyo/",
+    "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "https://www.bimstok.com/blog/20261029/",
+    "https://www.hitachi.co.jp/products/infrastructure/portal/industry/column/29/column29_01.html",
+    "https://fa-craft.co.jp/article/factory-hozen",
+    "https://www.thk.com/brand/omniedge/jp/useful/content_8.html",
+    "https://mentena.biz/insight/maintenance-costs/",
+    "https://j-net21.smrj.go.jp/solution/qa/production/Q0548.html",
+    "https://hirosho.com/column/p865/",
+    "https://yachiyo-sol.com/library/hozen-cost-mieruka/"
+   ]
+  },
+  {
+   "query": "工場設備故障の損失額算定・保全予算の経営判断支援 工場 製造業",
+   "results": [
+    "https://www.bimstok.com/blog/20261029/",
+    "https://yachiyo-sol.com/library/setsubi-teishi-sonshitsu-seizogyo/",
+    "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "https://mentena.biz/insight/maintenance-costs/",
+    "https://fa-craft.co.jp/article/factory-hozen",
+    "https://www.jipm.or.jp/up_file/1603245544-805636.pdf",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article33.html",
+    "https://www.eqptmainte-base.com/knowledge/investment-recovery.html",
+    "https://special.nikkeibp.co.jp/atclh/NXT/25/mds0901/yachiyo/",
+    "https://yachiyo-sol.com/library/hozen-keiei-koken/"
+   ]
+  },
+  {
+   "query": "工場設備故障の損失額算定・保全予算の経営判断支援 責任 範囲 免責",
+   "results": [
+    "https://yachiyo-sol.com/library/setsubi-teishi-sonshitsu-seizogyo/",
+    "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "https://www.jmac.co.jp/column/detail/kokoga_hendayo_11.html",
+    "https://mentena.biz/insight/maintenance-costs/",
+    "https://jbpress.ismedia.jp/articles/-/72239",
+    "https://www.hitachi.co.jp/products/infrastructure/portal/industry/column/29/column29_01.html",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00040/00001/",
+    "https://genbakaizen.com/ja/column/post_12550/",
+    "https://lawmirai.jp/kobe/column/8012/",
+    "https://yachiyo-sol.com/library/hozen-keiei-koken/"
+   ]
+  },
+  {
+   "query": "工場設備故障の損失額算定・保全予算の経営判断支援 経営判断 損失額",
+   "results": [
+    "https://yachiyo-sol.com/library/setsubi-teishi-sonshitsu-seizogyo/",
+    "https://www.bimstok.com/blog/20261029/",
+    "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "https://fa-craft.co.jp/article/factory-hozen",
+    "https://kaminashi.jp/media/equipment-maintenance-cost-reduction",
+    "https://mentena.biz/insight/maintenance-costs/",
+    "https://www.eqptmainte-base.com/knowledge/investment-recovery.html",
+    "https://www.cct-inc.co.jp/koto-online/archives/695",
+    "https://lab.scisoken.com/a-00040/"
+   ]
+  },
+  {
+   "query": "工場設備故障の損失額算定・保全予算の経営判断支援 スタートアップ",
+   "results": [
+    "https://yachiyo-sol.com/library/setsubi-teishi-sonshitsu-seizogyo/",
+    "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "https://www.eqptmainte-base.com/knowledge/investment-recovery.html",
+    "https://www.hitachi.co.jp/products/infrastructure/portal/industry/column/29/column29_01.html",
+    "https://mentena.biz/insight/maintenance-costs/",
+    "https://www.thk.com/brand/omniedge/jp/useful/content_8.html",
+    "https://prtimes.com/story/detail/xR6d0PFvOex",
+    "https://www.inouekabu.com/yocchi000/",
+    "https://genbakaizen.com/ja/column/post_12550/",
+    "https://yachiyo-sol.com/library/hozen-cost-mieruka/"
+   ]
+  },
+  {
+   "query": "equipment failure cost quantification maintenance budget decision support factory shop floor manufacturer",
+   "results": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9890517/",
+    "https://tractian.com/en/glossary/unit-costs-in-maintenance",
+    "https://oxmaint.com/industries/manufacturing-plant/maintenance-budgeting-cost-analysis-manufacturing",
+    "https://eptura.com/discover-more/blog/maintenance-budget/",
+    "https://www.linkedin.com/posts/manickavasagam-natarajan_production-maintenance-operations-activity-7360505257816190976-Xc48",
+    "https://www.advancedtech.com/blog/how-to-calculate-maintenance-costs-of-a-facility/",
+    "https://www.l2l.com/blog/five-ways-reduce-maintenance-costs-manufacturing",
+    "https://www.prometheusgroup.com/resources/posts/6-keys-to-creating-new-maintenance-budgets",
+    "https://ifactoryapp.com/blog/maintenance-cost-vs-breakdown-cost-factory-roi",
+    "https://themachinedaily.com/maintenance/industrial-equipment-maintenance-cost-analysis-framework"
+   ]
+  },
+  {
+   "query": "equipment failure cost quantification maintenance budget decision support factory shop floor manufacturer startup pricing",
+   "results": [
+    "https://oxmaint.com/industries/manufacturing-plant/maintenance-budgeting-cost-analysis-manufacturing",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9890517/",
+    "https://limble.com/learn/reduce-maintenance-costs-in-manufacturing",
+    "https://eptura.com/discover-more/blog/maintenance-budget/",
+    "https://www.linkedin.com/posts/manickavasagam-natarajan_production-maintenance-operations-activity-7360505257816190976-Xc48",
+    "https://tractian.com/en/glossary/unit-costs-in-maintenance",
+    "https://wiss.com/predictive-maintenance-roi-cost-savings-for-manufacturers/",
+    "https://ifactoryapp.com/blog/maintenance-cost-vs-breakdown-cost-factory-roi",
+    "https://www.prometheusgroup.com/resources/posts/6-keys-to-creating-new-maintenance-budgets",
+    "https://themachinedaily.com/maintenance/industrial-equipment-maintenance-cost-analysis-framework"
+   ]
+  },
+  {
+   "query": "site:note.com 工場設備故障の損失額算定・保全予算の経営判断支援",
+   "results": [
+    "https://note.com/kagawatomo/n/nc0d12ffe51e0",
+    "https://note.com/kagawatomo/n/nae1311b5a096",
+    "https://note.com/predictive_2602/n/n3f495214c539",
+    "https://note.com/aibusinesshunter/n/n2e3772d2db03?magazine_key=me8360fbcc452",
+    "https://note.com/good_dill292/n/nb13bf0757529",
+    "https://note.com/modern_flea8708/n/na99a441d8e5b",
+    "https://note.com/kagawatomo/n/n1074c341fd24",
+    "https://note.com/automationjp/n/nedc6c5889a1e",
+    "https://note.com/taituna/n/n514c75492b2d",
+    "https://note.com/modern_flea8708/n/nda4db7a05f40"
+   ]
+  },
+  {
+   "query": "site:x.com 工場設備故障の損失額算定・保全予算の経営判断支援",
+   "results": [
+    "https://x.com/KagawaTomo/article/2080070859822424069",
+    "https://x.com/tomotake94/status/2114289531453325690",
+    "https://x.com/nagahori_cac/status/2112399389138506122",
+    "https://x.com/swifttech_/status/2104713062129488063",
+    "https://x.com/hozen_kouki/status/2064826532099715152",
+    "https://x.com/picapicapero/status/2067370390935200252",
+    "https://x.com/pop_ikeda/status/2022853367580516769",
+    "https://x.com/kuwabara3Dprint/status/2089942215779098640"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工場設備故障の損失額算定・保全予算の経営判断支援",
+   "results": [
+    "https://jp.linkedin.com/posts/kazuji-nakazato_工場の設備故障診断を支援するaiエージェント日立製作所熟練者の標準脳に-activity-7435247889594982400-1knY",
+    "https://jp.linkedin.com/posts/koji-koizumi-85103544_日立製作所が工場の設備故障診断を支援するaiエージェント現場サポートaiナビ-activity-7451600561033977856-r9NG",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7321047665046126592/",
+    "https://jp.linkedin.com/pulse/best-practices-measuring-tracking-factory-losses-ai-can-co-in?tl=ja",
+    "https://jp.linkedin.com/pulse/how-predict-failures-factories-using-digital-twins-martinez-santiago-symuf?tl=ja",
+    "https://jp.linkedin.com/pulse/データ駆動型保全実践フェーズへ-kpiを武器に設備管理の未来へ-tomoto-takahashi-e82xc",
+    "https://jp.linkedin.com/posts/hitachi-–-global-research_故障診断ai-設備保全-知識継承-activity-7437663660954599424-L7ka"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工場設備故障の損失額算定・保全予算の経営判断支援",
+   "results": [
+    "https://www.facebook.com/nikkei/posts/取締役の賠償額に上限政府が会社法改正へ-経営判断の萎縮回避-企業が株主代表訴訟による巨額の賠償金を恐れ買収や設備投資などの経営判断で二の足を踏まないようにする狙/1507374277400636/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/342931291306366/",
+    "https://www.facebook.com/baudit.japan/posts/検査結果経営体育成支援事業等に係る算定額の配分等について１０月１９日に農林水産大臣に対し会計検査院法第36条の規定により改善の処置を要求しました詳細はこちらをご/658015568251527/",
+    "https://www.facebook.com/jarwa.or/posts/news国交省2026年度のスキャンツール補助金を倍増-最大額30万円-現場ニーズの調査も実施国土交通省は２０２６年度に１事業者当たりのスキャンツール外部故障診/1381134564017696/",
+    "https://www.facebook.com/kanouchi.sr/posts/人員設備及び運営基準及び報酬算定基準等に関するｑａhttpwwwmhlwgojpstfseisakunitsuitebunyahukushi_kaigokaig/671629906236756/",
+    "https://www.facebook.com/nikkan.gendai/posts/789584363167530/"
+   ]
+  },
+  {
+   "query": "工場設備故障の損失額算定・保全予算の経営判断支援 note 社長",
+   "results": [
+    "https://yachiyo-sol.com/library/hozen-cost-guide/",
+    "https://note.com/word_giken/n/n37516d69d7c3",
+    "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "https://kaminashi.jp/media/equipment-maintenance-cost-reduction",
+    "https://note.com/chanbo2201/n/n9586a17a2676",
+    "https://mentena.biz/insight/maintenance-costs/",
+    "https://hirosho.com/column/p865/",
+    "https://www.jipm.or.jp/up_file/1603245544-805636.pdf",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00040/00001/",
+    "https://note.kotora.jp/n/nfb53e611f8b9"
+   ]
+  },
+  {
+   "query": "工場設備故障の損失額算定・保全予算の経営判断支援 X 投稿",
+   "results": [
+    "https://yachiyo-sol.com/library/setsubi-teishi-sonshitsu-seizogyo/",
+    "https://www.exa-corp.co.jp/blog/eam-risks-and-countermeasures.html",
+    "https://mentena.biz/news/20251218-2/",
+    "https://www.eqptmainte-base.com/",
+    "https://special.nikkeibp.co.jp/atclh/NXT/25/mds0901/yachiyo/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00040/00001/?P=2",
+    "https://www.hitachi.co.jp/products/infrastructure/portal/industry/column/29/column29_01.html",
+    "https://hirosho.com/column/p865/",
+    "https://www.cct-inc.co.jp/koto-online/archives/695",
+    "https://yachiyo-sol.com/library/hozen-keiei-koken/"
+   ]
+  },
+  {
+   "query": "equipment failure cost quantification maintenance budget decision support factory shop floor manufacturer site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/sumitverma-engg_key-maintenance-kpis-every-reliability-driven-activity-7506875298466992128-GsVj",
+    "https://www.linkedin.com/posts/jayson-jaideep18_preventivemaintenance-manufacturingefficiency-activity-7515299416862412801-Wdm7",
+    "https://www.linkedin.com/posts/akshay-bhange_the-why-the-activity-7387016671649136640-lALH",
+    "https://www.linkedin.com/posts/dineshbaburv1993_manufacturing-manufacturingkpi-kpi-activity-7511642940524662784-BjLX",
+    "https://www.linkedin.com/top-content/productivity/manufacturing-improvement-techniques/maintenance-planning-for-new-factory-operations/",
+    "https://www.linkedin.com/posts/adilnajeeb83_reliabilityengineering-maintenancemanagement-activity-7515814123784556545-oXdK",
+    "https://www.linkedin.com/posts/jitendra-kumar-singh-5bba48244_maintenancemanagement-industrialmaintenance-activity-7439230470195773441-X83T",
+    "https://www.linkedin.com/top-content/engineering/engineering-challenges-in-manufacturing/solutions-for-reducing-downtime-in-manufacturing-operations/",
+    "https://www.linkedin.com/pulse/wrench-time-analysis-manufacturing-plant-from-mallaiah-chittimalla--zydnc",
+    "https://www.linkedin.com/top-content/change-management/importance-of-system-maintenance/operational-value-of-reliable-maintenance/"
+   ]
+  }
+ ],
+ "missing": {
+  "大手・競合": "記載なし（読んだ45頁・検索16回）"
+ }
+}

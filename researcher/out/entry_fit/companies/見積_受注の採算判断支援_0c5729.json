@@ -1,0 +1,2758 @@
+{
+ "name": "見積・受注の採算判断支援",
+ "en": "quote profitability decision support manufacturing",
+ "aliases": [
+  "見積 採算 判断",
+  "受注可否 判断 製造業",
+  "見積原価 シミュレーション"
+ ],
+ "context": "生産管理",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:11:11.940387+00:00",
+ "evidence": {
+  "前例・提供企業": [
+   {
+    "quote": "見積作成のAI活用とは？見積依頼への回答を早める任せ方と導入の5つの手順 - 合同会社クロスコム",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Agentic CRM設計支援",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Agentforce導入・定着支援",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB Salesforce導入・構築支援",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "合同会社クロスコム 代表／Salesforce認定コンサルタント",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の支援事例ではありません",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション営業に特化した支援がほしい場合、この線引きは提案の進め方に直結するため、優先して確かめておきたい部分です",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "どの品目群の依頼が何件届いているかを、1か月分の実績で確かめます",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "そこでここでは、見積作成のAIの効果を測る3つの数字を、導入前後の実績とあわせて解説します",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Agentforceの導入・定着支援では、こうした見積業務の切り分けから無料相談を受け付けています",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "進め方を社内で検討するときは、サービス資料も使えます",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "双日グループの専門商社で法人営業を経験後、マーケティング支援で独立し2023年に合同会社クロスコムを設立",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "現在はAgentforceの導入・定着支援とAgentic CRM設計支援を専門とする",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "お役立ち資料やサービス資料を",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス関連",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "8. 不良・手直しを見積条件と実績学習に分ける",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "払出、実績工数、請求、手直し",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "設備、品質、製造支援、工場管理など、直接費だけでは捉えられない負担を含めます",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "数量見込みを前提に値下げし、実績数量を確認しない",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "不良や手直しの費用は、全案件に一律の「不良率」を掛けるのではなく、品質要求、工程条件、類似実績、変更の有無に分けて見積へ反映します",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ材料・設備・工程の確認済み実績",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の安定実績をそのまま流用する",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "見積と実績をつなぐときは、次の五段階を一つの記録に残します",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "類似実績は、製品名ではなく材料・工程・設備・検査条件で比べる",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "受注後の実績を見積前提と比べ、次回の標準と承認条件へ戻す",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "確認できる類似工程の実績を使い、廃棄、手直し、再検査などを分けます",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "「見積が営業担当者に依存している」「受注後に現場から赤字だと分かる」という課題があれば、株式会社Move Forward Marketingにご相談ください",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁「価格交渉支援ツール」",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "はせがわ りき — 株式会社Move Forward Marketing 代表取締役",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Move Forward Marketing 代表取締役",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "営業実績分析",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット経由でサービスを利用する",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "検索機能の提供（取引先、金額、年月日など）",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルアプリの提供",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "公益社団法人 日本文書情報マネジメント協会（JIIMA）は、企業が電子帳簿保存法に準拠した税務処理を簡単に行えるようにするため、市販のソフトウェアやソフトウェアサービスを審査・認証する制度を運営しています",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "※各サービスの最新情報は公式サイトをご確認ください",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "AI作成支援",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "詳細資料ダウンロード、デモ環境の提供",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "1ヵ月の無料トライアル提供",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社庄司建装（日本鳩害対策研究所）｜導入事例｜ジョブカン見積/請求書",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "導入実績4,400社以上の豊富な業界ノウハウと手厚いサポート体制",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアル提供（設定サポート付き）",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "事例でも、数百名規模の複数部門で利用できたり、事業部ごとの異なる業務管理ニーズに応えたりするなど、",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "同程度の他のAI電帳法対応サービスと比べて、OPTiM 電子帳簿保存は",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、電子帳簿保存法対応に必要な事務処理規程のテンプレートも提供されているため、",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "↓ 数社の事例での比較検討",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "以上の例でわかるように、塗装工事というものは外壁塗装というものを商品を販売しているのではなく、工事金額から割り出した費用を元に、技術や工事内容の提供を行なっていると考えた方が良いと思います",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "提供する内容の程度によって、造り上げるものの程度は良くもなり悪くもなるのがこの塗装工事",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "数社の事例での比較検討",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどの事例を元に、実際に相見積時に起こりうる状況を考えてみます",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "先の事例において人件費にかける費用が業者によりかなり違っておりましたが、何故それだけ人件費が変わってくるのかということをここから説明していきたいと思います",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "外壁塗装 足場サービス 580,000円！！",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "先の工事例を何度も挙げて恐れ入りますが、110万円（この金額でも一般的には高いと言われる金額です）の工事金額は107.5万円の価値（工事原価）があることは先の計算で明らかです",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "このような事は、依頼主にはわかりずらい事になることですが、本当に一般的によくある事例です",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な活用事例としては、ゼネコンが複数の下請け業者から見積を取りまとめる場合や、中小建設会社が短納期で施主に見積を提示するケースが挙げられます",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイピア",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "「アイピア」では、電話やZoomを通じたサポートが提供され、安心してシステムを利用できます",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コンクルー",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "３：リアルタイムな経営判断を支援",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "ーーーーーーー◆導入効果（事例・実績）◆ーーーーーーー",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   }
+  ],
+  "価格・単価": [
+   {
+    "quote": "なお、後半で扱うAgentforceの機能と料金は変わりうるもので、記載は2026年9月時点で確かめた内容です",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区円山町5-5 Navi渋谷V 3階",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 見積原価を構成する費用と条件",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "月額1万円程度から利用でき、",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "・初期費用0円、月額5,500円（5ユーザー）から利用可能",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "プラン15：8,800円/年",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "プラン100：36,850円/年",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "33,000円（買取）",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "スモールビジネス：3,278円/月～4,378円/月",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネス：5,478円/月～6,578円/月",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "スタンダード：基本2,200円/月＋550円/月/ユーザー",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "プロフェッショナル：基本4,400円/月＋1,100円/月/ユーザー",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用・サポート費用0円",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用：165,000円",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "月額費用：77,000円～（ユーザー数やDB作成数により変動）",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "相見積を取った際に各業者の見積金額が異なることは普通の事になりますが、その金額の差が50,000円程度の差でしたらある程度理解もできると思いますが、これが200,000円や、多い時では500,000円も違うような金額差が生じている場合なども、実際見積を比較する際には十分にありえることになります",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "150万円の工事で考えた場合、",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "利益が75万円・工事原価が75万円",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "利益が30万円・工事原価が120万円",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "人件費を福岡市の場合で考えてみますと、で通常職人で15,000円程度、それとは別に各個人に掛かる福利厚生費（企業負担となる社会保険・厚生年金・雇用保険等の日割り額）やその他の諸経費の合計で5,000円程度となりまして、合計20,000円/人という金額が通常採算が取れる金額となります",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "工事原価から架設費用と塗料費や副資材費を除いた費用から、この20,000円/人という数字を割ることにより、実際に工事に掛けることができる人工数（にんくすう）が計算できることになりますので、その範囲内で工事を行うように内容を組み立てて実際の工事に取り掛かっていきます",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "「工事金額」 110万円 「工事内容」 外壁・屋根塗装",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "「A社 利益率40％ 利益が44万円・工事原価が66万円の場合」",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "10,000円",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "20,000円",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "30,000円",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・月額9,900円〜（プラン詳細は要問い合わせ）",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "2か月間無料でお試し可能、初期費用やサポート費用は無料",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "9,800円",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "29,800円",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用は0円",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "4,800円",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 1 億円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 3,000万円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 800万円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 6,000万円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 5,000万円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 3,036万円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、2023 年度の賃上げに伴う人件費増加に加え、電気や重油などエネルギー費用も高騰するなどコストも",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 7,000万円",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "最も精度が高い反面、ERP側のAPI公開可否とセキュリティポリシーの確認が必要で、構築コストは100万円～300万円が目安（2026年9月時点）です",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "API連携より精度は低下しますが、初期コストが低く（50万円前後）、既存ERPへの影響が少ない特徴があります",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "最も低コスト（10万円～30万円）ですが、入力負担が残りリアルタイム性がありません",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "10万～30万円",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "50万～100万円",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "100万～300万円",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は説明用として、売上高から実績直接原価を差し引いた「実績粗利益」が0円未満になった案件を赤字と定義しました",
+    "url": "https://scisoken.com/t-00067/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、人工的な工数・原価変動を加えた結果、97件、全体の19.4％が実績粗利益0円未満の赤字案件となりました",
+    "url": "https://scisoken.com/t-00067/",
+    "pass": 3
+   },
+   {
+    "quote": "2．立ち上げ費用と採算計画",
+    "url": "https://mi-tax.net/posts/new-business-revenue-model-before-launch",
+    "pass": 3
+   },
+   {
+    "quote": "仮に、提案先20社のうち20％が契約し、月額料金が5万円なら、4社の契約で月額売上は20万円です",
+    "url": "https://mi-tax.net/posts/new-business-revenue-model-before-launch",
+    "pass": 3
+   },
+   {
+    "quote": "提供に応じて増える費用は売上の40％、月額固定費は60万円とします",
+    "url": "https://mi-tax.net/posts/new-business-revenue-model-before-launch",
+    "pass": 3
+   },
+   {
+    "quote": "計画どおりなら、月額売上120万円−変動費48万円−固定費60万円＝月間利益12万円です",
+    "url": "https://mi-tax.net/posts/new-business-revenue-model-before-launch",
+    "pass": 3
+   },
+   {
+    "quote": "売上が半分なら、月額売上60万円−変動費24万円−固定費60万円＝月間赤字24万円です",
+    "url": "https://mi-tax.net/posts/new-business-revenue-model-before-launch",
+    "pass": 3
+   },
+   {
+    "quote": "売上が半分になると、利益が半分になるのではなく、毎月24万円の赤字になります",
+    "url": "https://mi-tax.net/posts/new-business-revenue-model-before-launch",
+    "pass": 3
+   },
+   {
+    "quote": "この状態が6か月続けば、累計損失は144万円です",
+    "url": "https://mi-tax.net/posts/new-business-revenue-model-before-launch",
+    "pass": 3
+   },
+   {
+    "quote": "個別原価の前に「変動損益計算書」——費用を2つに分けるだけで、値決めと受注判断が変わる",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 個別原価の前に「変動損益計算書」——費用を2つに分けるだけで、値決めと受注判断が変わる",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "費用を「変動費」と「固定費」の2つに分けるだけ",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "原価管理というと、製品ごとの原価を1円単位で追いかける話を想像する社長が多い",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業なら、材料費・外注費・労務費・減価償却費・家賃の上位5科目で費用総額の7〜8割を占めるのが普通です",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "この作業を最初に任せる価値は、読み取りの精度が後のすべての作業を決めるからです",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "呼び名と品番の対応表を作る作業から着手しており、この対応表がないうちは読み取りの精度が上がらなかったのです",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "線引きは、AIの精度への不安からではなく、判断に必要な情報がどこにあるかで引きます",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "続いて、直した箇所を記録する作業を組み込み、何をどう直したかを残しておけば、材料の不足か読み取りの精度かを切り分けられます",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AIの精度を疑う前に、参照している情報の側を確かめるほうが早く解決します",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "参照の範囲を対象の品目群に限ったことで、検索の精度も保てています",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "この商社でも、営業の責任者と営業事務のリーダー、情報システムの担当がそれぞれの立場から別の疑問を持ち寄っており、なかでも価格の決定をどこまで任せるかは、打ち合わせのたびに確かめ直された論点でした",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Agentforceは日本語で使えるのか｜応答の精度を確かめる評価と運用の設計",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "見積精度はどのように改善しますか？",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "見積段階で何を確認すべき？」という営業責任者の問いへの答えは、",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "見積精度を上げるには、計算式より質問の質が重要です",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "見積の属人化を減らすには、計算から顧客提示までの責任を切り分けます",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "この最後の手順がなければ、見積精度は担当者の経験のままです",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証の可否",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "原価、契約責任、品質保証を自動で決めさせず、各責任者が承認します",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "通常の品質保証負担と、不良発生後の損失を分ける",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "経理担当者の工数削減と入金管理の精度向上をめざす企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアルで登録いただいたデータについては、電子帳簿保存法に定める電子取引データの保存要件への対応を一切保証いたしかねます",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "工事保険・工事保証について",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "本来の目的の技術や造り上げたものの精度に対価ではなく、いかに少ない人数で早く工事を終わらせることが出来た、ということに対しての利益として",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "一つ一つの工程を大事にし、自分がこだわりたいところは納得がいくまで作業を行い、他社よりは時間がかかり工事期間は長くはなってしまうことも多々ありますが、出来上がったものはとても精度が高く、品質も良いのもを造り上げることができるでしょう",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "このカテゴリーおよびツールの利点は、見積精度の向上と業務効率化にあります",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "工数削減と精度向上",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "見積業務のスピードと精度を、次の次元へ",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・最終調整は人が行う前提で、叩き台作成〜精度向上までを支援",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "【高精度AI-OCR（標準／プレミアム）】",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・帳票の複雑さに応じて「標準」「プレミアム」の精度を選択可能",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "（2）協力会社見積の“転記・入力”をAIで削減（高精度AI-OCR）",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・帳票の複雑さに応じて「標準／プレミアム」の精度を選べるため、現場の実態に合わせて運用しやすい",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "見積精度の改善と利益確保",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "また、年一回で製造原価を見直し、製造責任者が採算可",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 商品の原価を把握して見積りの精度が向上しているほか、値上げする商品の抽出など価格交渉に活用",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 見積りの精度を向上させ、値上げする商品の抽出など価格交渉に活用",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "積りの精度が向上し、価格交渉に活用",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 工事事業の見積りの際には、過去の実績や採算可視化データを活用することで、精度を高めてい",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業では過去の実績を踏まえて費用を検討することで、見積りの精度を向上させている",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業が見積・営業AIを活用する際の精度検証と基幹システム連携の設計要件 | 株式会社イーネットマーキュリー",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業が見積・営業AIを活用する際の精度検証と基幹システム連携の設計要件",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "「材料費の変動が激しくて、見積もりの正確性が毎回問題になる」「ベテラン積算担当が来年定年で、受注予測の精度が落ちそうで不安だ」——中堅製造業の経営者から、こうした相談が増えています",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを見積・営業業務に活用すれば課題を解決できると期待されますが、精度検証と基幹システムとの連携設計を誤ると、かえって現場の混乱を招くことになります",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、中堅製造業がAI見積・営業支援を導入する際に必要な精度検証の手順と、ERPをはじめとする基幹システム連携の設計要件を、比較表・チェックリスト・FAQ付きで解説します",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "この前提を持たないまま導入すると、精度検証のステップでつまずきます",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "この知識を持つ人が退職すると、見積精度が急落し、採算割れ案件の受注や大型案件の逃しが増えます",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "理由3: 受注予測精度の向上による生産計画の安定化",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "過剰在庫・納期遅延・残業の偏りはすべて受注予測の精度不足から起きます",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "精度検証の実践手順（4ステップ）",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "AI見積・受注予測AIを導入する前後で必ず実施すべき精度検証の手順を解説します",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "精度検証なしに本番運用を始めると、AIが出した数字を現場が信頼せず、結果的に誰も使わないツールになります",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "確認すべき精度指標は以下の三つです",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "品目区分別の精度差:",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "標準品は高精度・特注品は低精度など、品目によって精度が異なることが多いです",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "【コラム】【保存版】製造業の見積方法を理解し、精度と効率を高める｜製造業向けソリューション GrowOneSupreme",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "【保存版】製造業の見積方法を理解し、精度と効率を高める",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業において見積りの精度を高め、効率的に作業を進めるためのポイントを網羅的に解説します",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の見積りでは、精度を高めながら、作成にかかる時間や担当者ごとのばらつきを抑えることも重要です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.1. なぜ精度の高い見積りが求められるのか",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.2. 見積り精度が事業収益に与える影響",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.2. 精度向上へのフィードバック手法",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "9. まとめ：製造業における見積り精度向上と業務改善の実践",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、精度の高い見積りを行うことは、受注チャンスの拡大とコスト管理の両面で極めて重要です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   }
+  ],
+  "経営判断への置き方": [
+   {
+    "quote": "競合の提示額や、顧客の予算の事情は社内の記録に残っておらず、AIが参照できる材料がありません",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "競合の提示額や顧客の予算といった社外の情報は社内の記録に残っておらず、AIが参照できる材料がないためです",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "6. 部門と経営の承認基準を通す",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、見積原価の構成、案件条件の確認表、部門承認、受注後の学習までを経営者が判断できる形で整理します",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "経営承認へ上げる",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "「未確認」を残すことは弱さではなく、経営判断に必要な情報不足を示す行為です",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の予実差異管理",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "目的、上限、期間、終了条件を経営が承認し、通常案件と分けて追います",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "例外条件を必要部門と経営が承認した",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "短納期や新規工程など一定条件を超える案件は経営承認へ上げます",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "こんな悩みを抱えている経営者や担当者の方も多いのではないでしょうか",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略との適合が必要だから",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の経営資源を統合的に管理し、",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "経営の効率化とデータの一元管理を可能",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "経営分析機能",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "経営分析のためのデータを一元管理したい企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "このように見積管理〜収支の管理まで幅広くサポートしてくれるため、営業活動はもちろん経営判断においても役立つシステムと言えます",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断に必要な総合的なデータ分析が可能",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "予算内で最善の塗替えを",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "もしそのような業者が見つかったとするならば、本音の部分（予算や相見積金額）を話したら、きっと良い答えが見つかるのではないかと思います",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "「アイピア」は、予算や見積の承認などの業務フローに対応しています",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "見積・原価・受発注・施工管理など、これまで分散していた業務を一元化し、現場と経営のムダを根本から削減します",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "ツール分散や二重入力をなくし、現場・事務・経営の連携をスムーズにします",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "３：リアルタイムな経営判断を支援",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "「数字が見えず判断が遅れる」経営課題を解消します",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・見積書／請求書作成、実行予算、原価管理を一つに集約",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・使っているだけで、経営視点の指標や案件状況を見える化",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客要望／工事種別／予算などの条件入力に加え、図面・仕様書・現場写真などの資料をアップロードするだけで、概算見積のたたき台を自動生成",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・情報が散らばらないため、現場・事務・経営で同じ数字・同じ状況を見て判断できる",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・入力した業務データをもとに、経営視点／案件単位の状況を可視化しやすい",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "コンクルーAIは、建設業の「やりたくない事務作業」を減らし、現場・営業・経営が本来の仕事に集中できる環境をつくる、業界特化のオールインワンAIクラウドです",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "顧客管理から、予算、工事、受発注、経理など全ての業務をクラウド管理",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "現場担当者はもちろん、管理者や経営者にとっても役立つ機能がそろっています",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "ANDPADとは、株式会社アンドパッドが提供している工事管理システム、工事情報共有、積算・予算原価管理システム、報告書作成ツール、見積作成（建設業向け）、原価管理（建設業向け）、工事写真製品",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "意思決定スピードの向上",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "～アメーバ経営を導入し、アメーバで時間当たりの営業利益を集計",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営者による\"社員を楽に\"との想いで、",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～商品別・工場別・顧客別での採算可視化で、より効率的な経営方針に！～",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営者による\"社員を楽に\"との想いで、働き方改革を推進！～",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営者の年代 40 歳代",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "準備して後工程の手戻りを減らすフロントローディングを重視する経営方針に変更",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 経営者による「社員を楽に」という思いで働き方改革を推進し、2024年には厚生労働省が雇用管理の改善に",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とに独立採算で運営するアメーバ経営を導入",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 2012 年から小集団で採算性を管理するアメーバ経営を導入",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ アメーバ経営の導入に当たっては、従業員に効果を十分に理解してもらうことで実効性を高めることにつながっ",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営者の年代 20 歳代",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営者の年代 50 歳代",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "客ごとに商品の材料費や人件費、外注費等の原価と売上高を毎月集計し、経営者が個別にコメントを付け",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営者がコメントを付けて社内で公開し、従業員の顧客に",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "集計結果については、経営",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「材料費の変動が激しくて、見積もりの正確性が毎回問題になる」「ベテラン積算担当が来年定年で、受注予測の精度が落ちそうで不安だ」——中堅製造業の経営者から、こうした相談が増えています",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "技術リテラシーに依存せず、製造業の経営者が意思決定できる言葉で整理しています",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断の根拠として理解しておく必要があります",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ4: 経営者が確認すべき精度評価レポートの項目",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "AI見積・受注予測を本格採用する前に、経営者がベンダーから提出させるレポートに含めるべき項目を定めます",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "ベンダー提供のレポートだけでなく、自社の生産管理または経営企画担当が独立して同じ指標を計算することを推奨します",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "どれを選ぶかは企業規模・既存システムの状況・予算によって異なります",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "連携設計で経営者が確認すべき四つのポイントを以下に整理します",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "IT担当者または情シス兼任担当が連携方式を評価し、経営者が最終承認します",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業が工場ネットワークにOT/ITセキュリティを導入するための分離設計と投資判断",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   }
+  ],
+  "大手・競合": [
+   {
+    "quote": "競合との比較や、今後の取引の見込みを踏まえて通常の単価から外れた金額を提示するかは、営業が決めます",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "競合の提示額や、顧客の予算の事情は社内の記録に残っておらず、AIが参照できる材料がありません",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "競合の提示額や顧客の予算といった社外の情報は社内の記録に残っておらず、AIが参照できる材料がないためです",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェア",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の複雑な見積フローを専門知識なしでカスタマイズしたい中堅・大手企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "競合他社との差別化を図れます",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の業務フローやルールがある中堅・大手企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の業務ルールを持つ中堅・大手企業の販売管理業務の効率化を実現したい企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の見積フローやルールがある中堅・大手企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "多いが、値上げ幅が大きいと他社への切り替えを検討するため、顧客や競合他社、市場の動向を考慮しなが",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 秩父市が、メディアでの露出が増えたことに伴い、ホテルが進出するなど競合が増加",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "競合他社が3日以内に見積を提出している市場で、自社が5日以上かかれば、それだけで失注します",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "「材料費変動」「仕様変更」「競合値引き」「工数過小評価」等に分類します",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "代表製品として SAP Business One、FutureStage（NTTデータ）、ProActive（SumitroSoft）、弥生ERPなどがあります",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "よかったらシェアしてね！",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、競合他社との価格競争において、過度に安い価格を提示して赤字を招くリスクや、高すぎる価格設定による受注機会の損失も最小限に抑えられます",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客候補への提案、競合の価格、仕入先・外注先の見積もり、テスト販売などから数字を仮置きします",
+    "url": "https://mi-tax.net/posts/new-business-revenue-model-before-launch",
+    "pass": 3
+   },
+   {
+    "quote": "逆に言えば、ここを固めるだけで競合より一歩先に出られます",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "When data is scattered across disconnected systems, teams are forced into lengthy searches that drag out quoting times and drive up costs. This fragmentation not only slows down operations but also leads to errors, missed opportunities, and poor decision-making – issues that directly impact profitability. The result? Delayed quotes, inflated expenses, and a supply chain that struggles to keep up.",
+    "url": "https://qstrat.com/quoting-automation-reduces-supply-chain-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Errors in quoting don’t just disappear once the quote is issued – they often snowball into expensive rework. Issues like manual data entry mistakes, outdated pricing, and incorrect part identification are common culprits. Without integrated systems connecting quoting to ERP or MES, manufacturers risk including unavailable parts in bills of material, which leads to immediate production slowdowns.",
+    "url": "https://qstrat.com/quoting-automation-reduces-supply-chain-costs/",
+    "pass": 3
+   },
+   {
+    "quote": ". Disconnected systems often result in orders being reworked an average of seven times, with each rework costing around $165 for complex manufacturing processes.",
+    "url": "https://qstrat.com/quoting-automation-reduces-supply-chain-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Manual quoting often leads to a disconnect between quotes and actual inventory levels. Sales teams may issue quotes without real-time visibility into stock availability or production capacity, as their systems don’t communicate effectively. Verifying inventory manually can take 48–72 hours, during which stock levels might change, rendering the quote inaccurate.",
+    "url": "https://qstrat.com/quoting-automation-reduces-supply-chain-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Quoting automation does more than just speed things up – it reshapes how manufacturers manage data, pricing, and decisions. Instead of juggling manual processes and scattered spreadsheets, automation acts as a bridge connecting systems like ERP, PLM, CRM, and MES through APIs, enabling them to work together seamlessly. This eliminates the delays caused by manual workflows.",
+    "url": "https://qstrat.com/quoting-automation-reduces-supply-chain-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "After centralizing data, automation simplifies processes even more by removing bottlenecks caused by department handoffs. Manual workflows often involve delays of",
+    "url": "https://qstrat.com/quoting-automation-reduces-supply-chain-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "navigating disconnected systems instead of focusing on meaningful work. Automation cuts that wasted effort down to",
+    "url": "https://qstrat.com/quoting-automation-reduces-supply-chain-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "What systems should quoting automation connect to first?",
+    "url": "https://qstrat.com/quoting-automation-reduces-supply-chain-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "systems. These platforms are treasure troves of key information, such as customer interactions, inventory levels, and pricing. By connecting them, you can generate accurate, real-time quotes effortlessly.",
+    "url": "https://qstrat.com/quoting-automation-reduces-supply-chain-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Job costing works best when fully integrated with purchasing, inventory, production, quality, and financials. Disconnected systems create gaps in cost tracking and manual reconciliation work.",
+    "url": "https://bizowie.com/job-costing-in-manufacturing-erp-tracking-true-product-profitability",
+    "pass": 3
+   },
+   {
+    "quote": "Bizowie Cloud ERP replaces the patchwork of disconnected systems holding you back with a single, modern platform built for mid-market manufacturers and distributors.",
+    "url": "https://bizowie.com/job-costing-in-manufacturing-erp-tracking-true-product-profitability",
+    "pass": 3
+   },
+   {
+    "quote": "Bizowie Cloud ERP replaces the patchwork of disconnected systems holding you back with a single, modern platform built for mid-market manufacturers.",
+    "url": "https://bizowie.com/job-costing-in-manufacturing-erp-tracking-true-product-profitability",
+    "pass": 3
+   },
+   {
+    "quote": "Bizowie Cloud ERP replaces the patchwork of disconnected systems holding you back with a single, modern platform built for the mid-market.",
+    "url": "https://bizowie.com/job-costing-in-manufacturing-erp-tracking-true-product-profitability",
+    "pass": 3
+   }
+  ],
+  "参入障壁": [
+   {
+    "quote": "合同会社クロスコム 代表／Salesforce認定コンサルタント",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報の登録なし",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "読ませる文書の登録と更新をどう回すかは、",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "人は経験で補って計算していますが、機械は書かれている値しか使えません",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Agentforceは、Salesforceに登録された顧客や商談の記録を参照しながら、あらかじめ決めた手順を実行する形で動きます",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "双日グループの専門商社で法人営業を経験後、マーケティング支援で独立し2023年に合同会社クロスコムを設立",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "それにもかかわらず、見積が「前回価格」「営業の経験」「顧客の希望額」だけで決まっていると、受注後に現場の頑張りで埋めるしかありません",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "分からない項目を営業の経験で埋めると、その仮定は現場へ引き継がれません",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "この最後の手順がなければ、見積精度は担当者の経験のままです",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "認定、試作、初期流動、切替時期",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "オーストラリアでのサーフィンインストラクター経験やボディメイク（競技歴5年）で培った「決断力」「継続力」「自己規律」を武器に、知性と行動力の両輪でクライアントの事業を前進させる",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "クレジットカード登録不要",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "事前に登録した電子印影により、押印のための書類のやり取りも不要です",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "アップロードするだけでAIがインボイス登録番号を自動で読み取り",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "基幹と連携することで、顧客情報の一元管理や、商品マスタの2重登録の手間が不要",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の操作方法から実務上の業務相談まで、経験豊富な専門スタッフが対応します",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "また、税率ごとの消費税額を自動で集計し、適格請求書発行事業者の登録番号の設定・出力にも対応",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアル利用中に登録したデータは、登録日から6ヶ月経過後に物理的に削除し、いかなる場合も復元いたしかねます(有償契約された場合、有償契約開始時点で未削除のデータは引き継がれます)",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアルで登録いただいたデータについては、電子帳簿保存法に定める電子取引データの保存要件への対応を一切保証いたしかねます",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "今まで長年経験を積み重ねて技術向上に励み身につけた事を、実践の工事である程度、もしくは使用しないほうが、高い利益に繋がる",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "新規会員登録",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "ブックマーク登録",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・検討初期のスピードが上がり、提案の初動を早められる（担当者の経験差によるばらつきも抑えやすい）",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "職人・協力会社の登録数は全プラン無制限",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "全プランに2ヶ月間の無料トライアルがあり、クレジットカードの登録は不要です",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "情報が登録されていません",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "を経験するケースがあります",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "会員登録でもっと便利に",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "会員登録をする",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "導入経験者によるリアルな評価や口コミを通じて、製品の機能や使い勝手、サポート品質などを比較できます",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "取り組む企業に認定する認定制度において、国内で初めて最高位の認定（3 冠）を取得",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職が多く、スキルや経験を積む前に退職となってしまうことも少なくないため、構造的に収益性が低くなりがちな",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では見積や受注管理の経験が10年以上の担当者が、価格感覚や仕様知識を暗黙知として保有しているケースが多くあります",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "AIが過去の受注パターンを統計的に分析することで、人間の経験則に依存しない受注予測が可能になり、生産管理との連携が改善します",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業が熟練技術者の暗黙知をAIでデジタル継承する設計方針と現場合意の進め方",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "図面を正しく読み取るスキルが要求されるため、現場経験が豊富な担当者のノウハウ蓄積が大切です",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "作業者の経験値に依存しづらく、属人化のリスクを下げられる点もメリットです",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は、一般財団法人日本情報経済社会推進協会(JIPDEC)より、プライバシーマーク付与認定を受けています",
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "pass": 3
+   },
+   {
+    "quote": "PM・技術者・外注体制を確保できるか",
+    "url": "https://scisoken.com/t-00067/",
+    "pass": 3
+   },
+   {
+    "quote": "担当者の勘や経験に頼るのではなく、過去の類似プロジェクトの原価データを集計し、",
+    "url": "https://www.kuraemon.com/kb/quote/estimation-budget-gap?srsltid=AYCX9vLUFjuHQGn-HgsBxoWLfHuoepmD4WRgdibB_-_syX1Ivq6JwasJ",
+    "pass": 3
+   },
+   {
+    "quote": "「蔵衛門」は株式会社ルクレの登録商標です",
+    "url": "https://www.kuraemon.com/kb/quote/estimation-budget-gap?srsltid=AYCX9vLUFjuHQGn-HgsBxoWLfHuoepmD4WRgdibB_-_syX1Ivq6JwasJ",
+    "pass": 3
+   },
+   {
+    "quote": "大阪・西中島で税理士事務所をやりながら、認定経営革新等支援機関として金融機関に事業計画や改善計画を通す側に立ち、複数社の経営会議・取締役会にも入っています",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、私の経験上、製造業でいちばん多い「見えない出血」です",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "これは経験上、間違いない",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、経験上、間違いない",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "仮に意図的な在庫外しと認定されれば、重加算税というさらに重いペナルティの対象になり得ます",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "調査で在庫外しと認定されれば重加算税の対象になり得ますし、一度その認定を受けると、以後の調査は毎回在庫から徹底的に見られます",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "これは経験上、間違いないです",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "気持ちは分かりますが、経験上、全部いっぺんには動きません",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "私が製造業の社長の隣で価格の話を詰めてきた経験上、これは間違いない",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "私は複数の会社の経営会議に出て、銀行との設備資金の折衝を隣で見てきましたが、これは経験上、間違いない",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "年商1〜10億の成長企業オーナー専門・認定経営革新等支援機関・freee認定アドバイザー",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "経営会議・取締役会への参加経験：複数社",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "freee認定アドバイザー☆４つになりました",
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "pass": 3
+   },
+   {
+    "quote": "個別受注型の製造業では、「見積作成に時間がかかる」「技術者に問い合わせないと見積が作れない」「仕様確定や価格算出のミスで手戻りが起きる」といった課題が挙げられます（",
+    "url": "https://www.delight-flow.jp/insights/quote-order-automation",
+    "pass": 3
+   },
+   {
+    "quote": "見積が勘と経験に依存し、ベテラン一人に集中する",
+    "url": "https://www.delight-flow.jp/insights/quote-order-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Excel／基幹に登録し担当者へ通知",
+    "url": "https://www.delight-flow.jp/insights/quote-order-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Certification: Why It Matters for Compliance",
+    "url": "https://qstrat.com/quoting-automation-reduces-supply-chain-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier certification is a strategic safeguard that prevents regulatory breaches, supply disruptions, and reputational damage.",
+    "url": "https://qstrat.com/quoting-automation-reduces-supply-chain-costs/",
+    "pass": 3
+   }
+  ],
+  "回す体制": [
+   {
+    "quote": "構築と運用・Data 360連携・リスクの抑え方・導入前後の働き方の変化を図で整理",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "では、営業事務の人数を増やしても回答が早くならないのはなぜでしょうか",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員190名、営業20名、営業事務6名、情報システム1名という体制で、Salesforceを運用してきた企業です",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "根拠が分散するのは、価格の運用が現場の判断で積み上がってきたからです",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AIへ読ませる文書を1か所に定め、改訂のたびに差し替える運用へ変えています",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "どの品目群の依頼が何件届いているかを、1か月分の実績で確かめます",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "対象が決まったら、AIが作ったドラフトを人が直す運用を始めます",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "最初から確認を省くと、どこが弱いのかが分からないまま運用だけが進みます",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "この商社では、運用を始めた最初の2週間で、1件あたり平均4か所ほどを直していました",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "3か月後には1件あたりの修正が平均1か所ほどまで減っており、減った理由は価格表の版を1か所に定めたことにあります",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "この商社は、対象の品目群だけで3か月試した後に、次の品目群を追加しました",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "見積作成のAIは、1つの品目群に絞って3か月試すと、直す箇所の減り方で効果を確かめられます",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで始め方の手順を見てきましたが、運用を始めると、ドラフトの内容と正しい見積の間にずれが生じます",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "定着まで伴走してほしい場合は、このずれが出たときに材料をどう直すかを一緒に決められる相手を選ぶと、運用が止まらずに済むでしょう",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、版のずれは運用の設計で防ぐもので、改訂のたびに差し替える担い手を決めておけば、同じ問題は繰り返されません",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "加工・組立工数",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "4. 標準工数と初回負担を分ける",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "材料、工数、外注、間接費だけでなく、ロット、品質、納期、仕様変更の扱いまで明示することで、赤字受注を防ぎやすくなります",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "「同じような製品を作ったことはあるが、受注後に工数が膨らむ",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "払出、実績工数、請求、手直し",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "過去案件は金額ではなく、材料、工程、工数、品質、物流の比較に使います",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "量産時の繰り返し工数と、段取り、プログラム、治具、初回検査を分けます",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "差異を材料単価、使用量、工数、外注、手直し、物流へ分け、次回の標準へ戻します",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "標準工数が更新されず、手直しや検査を含めない",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "「検査要求が工数へ与える確認項目を作って」",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "段取り、検査、梱包を含む工数根拠がある",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "工数・外注・初回負担へ反映する",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "材料費、直接工数、外注費、製造間接費に加え、検査、梱包、物流、治具、仕様変更など案件固有の条件を確認します",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "受注後に見積原価と実際原価を比較し、材料、工数、外注、手直し、物流など差異理由を記録して標準へ戻します",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "安定性と手厚いサポートで、安定した運用サポートをしたい企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップ環境で安定運用を求める企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "経理担当者の工数削減と入金管理の精度向上をめざす企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "安定した運用と法改正にも安心の見積作成を実現したい企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "経理部門が少人数で、専門家への業務相談サポートが必要な中小企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "長期的な運用を見据え、安定性と継続的なサポートを重視する企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアル利用中に登録したデータは、登録日から6ヶ月経過後に物理的に削除し、いかなる場合も復元いたしかねます(有償契約された場合、有償契約開始時点で未削除のデータは引き継がれます)",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "工事原価から架設費用と塗料費や副資材費を除いた費用から、この20,000円/人という数字を割ることにより、実際に工事に掛けることができる人工数（にんくすう）が計算できることになりますので、その範囲内で工事を行うように内容を組み立てて実際の工事に取り掛かっていきます",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "人件費を20,000円/人で割って、延べ人数を計算します",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "11.5人工が利益目標を達成するために掛けられる人数",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "1.5人工が利益目標を達成するために掛けられる人数",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "予定通りに作業が進まない場合もあり、多少オーバーすることもありますが、基本的には当初の予定人工数で終わらせるように努力をします",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "（個人の塗装店というよりも職人さん1名のみで行なっている直接施工業者）",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "工事に掛かる日数と、毎日の作業に携わる人数の確認",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "毎日の作業を1名で行ったとして、20,000円/人 × 1名 ＝ 10,000円/日 が1日の人件費となりますので、",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "作業人数/日",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "作業人員 1名 『累計 26人工』",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "本来の目的の技術や造り上げたものの精度に対価ではなく、いかに少ない人数で早く工事を終わらせることが出来た、ということに対しての利益として",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "工数削減と精度向上",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・FAX／電話中心のやり取りを減らし、履歴の残る運用に変えたい",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・帳票の複雑さに応じて「標準／プレミアム」の精度を選べるため、現場の実態に合わせて運用しやすい",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・小規模建設会社でも、複数ツール併用よりシンプルに導入・運用しやすい",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・「現場が使えない」「運用が続かない」を避けやすい思想で作られている",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "2か月間無料でお試し可能、初期費用やサポート費用は無料",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "業務ヒアリングで品目や見積書の形式を貴社仕様に設定したうえで、全ての機能を1ヶ月間無料でお試しいただけます",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "導入から運用まで担当者がサポートします",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "全プランに2ヶ月間の無料トライアルがあり、クレジットカードの登録は不要です",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "導入時の設定や運用方法もオンラインでサポートします",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "■ 自社の規模や運用に合わせて「選べる」柔軟性",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "基本機能に加えて必要なオプションを自由に組み合わせられるため、自社の運用に合わせた最適な構成でスタートできます",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "運用定着の失敗",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   }
+  ],
+  "買い手の規模": [
+   {
+    "quote": "従業員190名、営業20名、営業事務6名、情報システム1名という体制で、Salesforceを運用してきた企業です",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "この規模では、AIの導入より入力の様式を整えるほうが効果は早く出ます",
+    "url": "https://cross-com.jp/quote-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、営業・製造・経理が同じ案件条件で判断できる流れを、売上と利益から逆算して整えます",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁「価格交渉支援ツール」",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "営業畑出身ならではの現場感覚を活かし、「売上から逆算するマーケティング」を徹底する実務家",
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "月10件程度の小規模な見積業務で、手軽に始められるシステムを探している個人事業主・小規模企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "中小規模の卸売業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模小売業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "システムのタイプを選択する際は、企業の規模や業種、具体的なニーズを考慮",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミス型は、大規模な利用や特殊な業務プロセスを持つ企業に向いています",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、従業員100名以上の大企業や、建設業・製造業など独自の業務フローを持つ企業、また金融機関や医療機関など",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "3-2. Misoca：月10枚無料から始められる、小規模事業の見積・請求を一括管理",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "月10件程度の少量見積業務を行う個人事業主・小規模企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な見積管理システムは、初期費用や月額固定費がかかり、小規模事業者にとっては負担の多いものもあるなか、",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "Misocaは小規模事業者も取り入れやすい、月額請求書作成が月10枚までの無料プランがある",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "メール送信、郵送代行（請求書のみ）手続きもアプリからワンクリックで完了できるため、個人事業主や小規模企業でも気軽に導入できます",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "見積書の承認フローの整備が必要な中小企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "事例でも、数百名規模の複数部門で利用できたり、事業部ごとの異なる業務管理ニーズに応えたりするなど、",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "エンタープライズプラン: 要見積もり（ビジネスB3以上の規模対応、SSO対応など追加）",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "見積書をAIで自動データ化したい中規模企業",
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "この利益目標額は各業者の規模や、必要経費、利益率によって様々ですが、通常では50％～20％程度になりまして、残りの金額が工事原価になります",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどと重複しますが、この利益率というのは、各業者の年間の必要経費と年間売上高のバランスによって決まりますので、業者によって様々なのはわかるとしても、この様に数字に置き換えて見直してみますと、この利益率の違いによっての金額差は非常に大きく感じられます",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "「年間売上高」",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "年間の売上高が多い業者の場合はでは、利益率は下げることが可能",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "年間の売上高が少ない業者などは必然的利益率が上がってしまいます",
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "pass": 3
+   },
+   {
+    "quote": "大企業で人気",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業で人気",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業で人気",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "小規模建設会社に特化した“業界唯一”のオールインワンAIツール",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "コンクルーAIは、小規模の建設会社に特化した業界唯一のオールインワンAIクラウドです",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・従業員数が少なく、見積や原価が“特定の人頼み”になっている",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "・小規模建設会社でも、複数ツール併用よりシンプルに導入・運用しやすい",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "【現場の規模に合わせて使える】",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "■ 自社の規模や運用に合わせて「選べる」柔軟性",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のレビューが多い",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業・中小企業のレビューが多い",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "小規模事業者向け",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "中規模事業者向け",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "大規模事業者向け",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、小規模工務店向けの簡易見積ソフトでは20万円前後、中堅ゼネコン向けの高機能ソフトでは80万円以上になることもあります",
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模事業者の採算可視化に関する取組事例集",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～商品ごとに原価と売上高を毎月集計",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の顧客に対する意識が変化して、コスト削減の工夫も～",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～（独）中小企業基盤整備機構の支援を活用し、週次の目標変動損益予測を導入～",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～従業員のパフォーマンス向上を目指し、労働環境整備の原資確保のために採算可視化！～",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～独自のレベニューマネジメントで、売上拡大とサービスの質向上を実現！～",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～“正直な”価格設定で、顧客の満足度と従業員の働きやすさを向上！～",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 220人",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工事の規模に関わらず、丁寧に取り",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高を適正にコントロー",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ フロントローディングにおいて顧客や従業員、協力企業との丁寧な合意形成が重要であると認識",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高やコストのアメーバ間での調整が可能であり、",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ アメーバ経営の導入に当たっては、従業員に効果を十分に理解してもらうことで実効性を高めることにつながっ",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 40 人",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 2 人",
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の情報を外に出さない社内専用AIの導入を支援する開発会社",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "実際の事例として、従業員85名の金属加工メーカー（東海地区）では、積算担当のベテランが定年退職した後、後任が出した見積の採算割れ率が14%から26%に上昇しました",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "どれを選ぶかは企業規模・既存システムの状況・予算によって異なります",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "ERP改修が難しい中堅企業に多く選ばれます",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   },
+   {
+    "quote": "導入パターン・コスト・精度・適合する企業規模を一覧にまとめます",
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://cross-com.jp/quote-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-salvage.co.jp/column/btob-ec/btob-ec-mitsumori-juchuritsu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/product/smilev-sales/column-estimate-management-system.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aspicjapan.org/asu/article/14099",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gelatocms.com/blog/system-development-estimate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hnavi.co.jp/knowledge/blog/estimate-system-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sun-asterisk.com/service/development/topics/systemdev/2815/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakayama-saiko.com/painters-work/view",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsumori-bank.com/post/estimate-fee-average-compared-for-homes-and-renovations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clo-tho.com/case-management-system-dev.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-force.jp/column/about-takumi-force",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mihata.jp/column/ai-quotation-automation-sme",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dddots.jp/blog/quote-ai-smb-efficiency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/solutions/list/manufacturing-anywhere-quotation-submission-pack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techs-s.com/media/show/132",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aspicjapan.org/asu/article/19330",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcframe.com/column/sekkei-seizou/08.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/quotation-disclaimer-clauses-forwarder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ys-law.jp/IT/column/column-10998/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/17121/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98/%E5%BC%81%E8%AD%B7%E5%A3%AB%E8%B2%BB%E7%94%A8%E3%81%AE%E5%9F%BA%E7%A4%8E/%E8%A6%8B%E7%A9%8D%E6%9B%B8%E3%81%AB%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E9%A0%85%E7%9B%AE%E3%81%AE%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8D%E6%96%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.any-one.jp/shigoto/52875/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kuraemon.com/kb/quote/quotation-trust-conditions?srsltid=AYCX9vLAiKoWYqocDGQwZ-R3NZUI4Rkf-giqtE6ZEsbfRDCdr8DRzdyr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scisoken.com/t-00067/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mi-tax.net/posts/new-business-revenue-model-before-launch",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/11072/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kuraemon.com/kb/quote/estimation-budget-gap?srsltid=AYCX9vLUFjuHQGn-HgsBxoWLfHuoepmD4WRgdibB_-_syX1Ivq6JwasJ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fujita_masahiro/n/n85a576ba054d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce-assistant.com/mtm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://subsc.opro.net/soasc/function/cpq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.delight-flow.jp/insights/quote-order-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://connected-base.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ni-consul.co.jp/news/news160.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000386.000042366.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qstrat.com/quoting-automation-reduces-supply-chain-costs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizowie.com/job-costing-in-manufacturing-erp-tracking-true-product-profitability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.apriori.com/win-more-profitable-business/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "見積・受注の採算判断支援",
+   "results": [
+    "https://cross-com.jp/quote-ai/",
+    "https://digital-salvage.co.jp/column/btob-ec/btob-ec-mitsumori-juchuritsu/",
+    "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "https://www.otsuka-shokai.co.jp/erpnavi/product/smilev-sales/column-estimate-management-system.html",
+    "https://www.aspicjapan.org/asu/article/14099",
+    "https://mihata.jp/column/ai-quotation-automation-sme",
+    "https://www.kuraemon.com/kb/quote/quotation-basis-creation?srsltid=AYCX9vLFJ4y8RyOreBDNVzDPFFE-L0OAHxu76AisxiRizcC7igixWegS",
+    "https://www.salesforce-assistant.com/mtm/",
+    "https://fitgap.com/jp/stack-guides/sm-0040"
+   ]
+  },
+  {
+   "query": "見積・受注の採算判断支援 費用 相場",
+   "results": [
+    "https://gelatocms.com/blog/system-development-estimate/",
+    "https://hnavi.co.jp/knowledge/blog/estimate-system-cost/",
+    "https://sun-asterisk.com/service/development/topics/systemdev/2815/",
+    "https://www.aspicjapan.org/asu/article/14099",
+    "https://www.nakayama-saiko.com/painters-work/view",
+    "https://www.itreview.jp/categories/quotation-creation-forconstruction",
+    "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "https://www.mitsumori-bank.com/post/estimate-fee-average-compared-for-homes-and-renovations",
+    "https://web-kanji.com/posts/price-estimate",
+    "https://www.ripla.co.jp/blog/system/project-profitability-management-cost/"
+   ]
+  },
+  {
+   "query": "見積・受注の採算判断支援 事例 中堅企業",
+   "results": [
+    "https://clo-tho.com/case-management-system-dev.html",
+    "https://takumi-force.jp/column/about-takumi-force",
+    "https://www.optim.co.jp/denshichobo/blog/quotation-systems/",
+    "https://www.chusho.meti.go.jp/zaimu/kaikei/download/saisan_kashika_jirei.pdf",
+    "https://mihata.jp/column/ai-quotation-automation-sme",
+    "https://www.otsuka-shokai.co.jp/erpnavi/product/smilev-sales/column-estimate-management-system.html",
+    "https://dddots.jp/blog/quote-ai-smb-efficiency/",
+    "https://www.enetmercury.com/manufacturing-ai-estimate-sales-erp-accuracy-verification/",
+    "https://www.delight-flow.jp/insights/quote-order-automation",
+    "https://fitgap.com/jp/stack-guides/sm-0040"
+   ]
+  },
+  {
+   "query": "見積・受注の採算判断支援 工場 製造業",
+   "results": [
+    "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "https://factoryadvance.jp/",
+    "https://www.ricoh.co.jp/solutions/list/manufacturing-anywhere-quotation-submission-pack",
+    "https://www.techs-s.com/media/show/132",
+    "https://www.aspicjapan.org/asu/article/19330",
+    "https://www.mcframe.com/column/sekkei-seizou/08.html",
+    "https://www.capa.co.jp/archives/41034",
+    "https://www.fleacia.jp/post/what-is-cpq-1",
+    "https://mbp-japan.com/gunma/monozukuri-takasaki/column/5189019/",
+    "https://forge-labs0621.github.io/forge-labs-blog/2026/06/29/manufacturing-product-cost-simulation-ai.html"
+   ]
+  },
+  {
+   "query": "見積・受注の採算判断支援 責任 範囲 免責",
+   "results": [
+    "https://marineinsurance.jp/maritime_wiki/terms/quotation-disclaimer-clauses-forwarder/",
+    "https://www.ys-law.jp/IT/column/column-10998/",
+    "https://biz.moneyforward.com/contract/basic/17121/",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98/%E5%BC%81%E8%AD%B7%E5%A3%AB%E8%B2%BB%E7%94%A8%E3%81%AE%E5%9F%BA%E7%A4%8E/%E8%A6%8B%E7%A9%8D%E6%9B%B8%E3%81%AB%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E9%A0%85%E7%9B%AE%E3%81%AE%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8D%E6%96%B9/",
+    "https://www.any-one.jp/shigoto/52875/",
+    "https://www.kuraemon.com/kb/quote/quotation-trust-conditions?srsltid=AYCX9vLAiKoWYqocDGQwZ-R3NZUI4Rkf-giqtE6ZEsbfRDCdr8DRzdyr",
+    "https://advan-jpn.co.jp/column/quotationviolation-of-law/",
+    "https://www.keihi.com/column/24912/",
+    "https://www.facmatch.jp/column/subcontract-act-estimate-request/",
+    "https://fitgap.com/jp/stack-guides/sm-0040"
+   ]
+  },
+  {
+   "query": "見積・受注の採算判断支援 経営判断 損失額",
+   "results": [
+    "https://movefm.site/blog/manufacturing-estimated-cost/",
+    "https://scisoken.com/t-00067/",
+    "https://mi-tax.net/posts/new-business-revenue-model-before-launch",
+    "https://www.issoh.co.jp/column/details/11072/",
+    "https://www.kuraemon.com/kb/quote/estimation-budget-gap?srsltid=AYCX9vLUFjuHQGn-HgsBxoWLfHuoepmD4WRgdibB_-_syX1Ivq6JwasJ",
+    "https://www.nisseicom.co.jp/growone-production/column/11.html",
+    "https://note.com/fujita_masahiro/n/n85a576ba054d",
+    "https://inada-tax.com/blog/seizougyo-genka-kanri/",
+    "https://ec-rider.net/b2bec/opportunity-loss/",
+    "https://flat-office.com/columns/profitability-by-project/"
+   ]
+  },
+  {
+   "query": "見積・受注の採算判断支援 スタートアップ",
+   "results": [
+    "https://www.salesforce-assistant.com/mtm/",
+    "https://mihata.jp/column/ai-quotation-automation-sme",
+    "https://subsc.opro.net/soasc/function/cpq.html",
+    "https://www.delight-flow.jp/insights/quote-order-automation",
+    "https://connected-base.jp/",
+    "https://www.ni-consul.co.jp/news/news160.html",
+    "https://prtimes.jp/main/html/rd/p/000000386.000042366.html",
+    "https://catalog.monex.co.jp/article/?p=46502",
+    "https://www.obc.co.jp/bugyo-cloud/apiservice/sqa",
+    "https://startup-db.com/companies/tags/cost-estimation"
+   ]
+  },
+  {
+   "query": "quote profitability decision support manufacturing",
+   "results": [
+    "https://qstrat.com/quoting-automation-reduces-supply-chain-costs/",
+    "https://bizowie.com/job-costing-in-manufacturing-erp-tracking-true-product-profitability",
+    "https://www.apriori.com/win-more-profitable-business/",
+    "https://www.citrincooperman.com/In-Focus-Resource-Center/Key-Considerations-When-Evaluating-Your-Manufacturing-and-Distribution-Companys-Profitability",
+    "https://www.mrpeasy.com/blog/manufacturing-quoting/",
+    "https://mie-solutions.com/top-tips-to-improve-your-manufacturing-quoting-process/",
+    "https://www.adamsbrowncpa.com/blog/what-kpis-matter-most-for-manufacturers-to-track-profitability/",
+    "https://www.tacton.com/cpq-blog/cfo-guide-protecting-profit-margins-in-manufacturing/",
+    "https://www.researchgate.net/publication/324503755_Decision_Support_for_Smart_Manufacturing",
+    "https://worldmetrics.org/best/manufacturing-quoting-software/"
+   ]
+  },
+  {
+   "query": "quote profitability decision support manufacturing startup pricing",
+   "results": [
+    "https://www.apriori.com/win-more-profitable-business/",
+    "https://odr.chalmers.se/bitstreams/005f767b-607c-46ae-a67a-00ba089ba2c4/download",
+    "https://www.jmco.com/articles/manufacturing/pricing-strategies-best-practices/",
+    "https://www.revenueanalytics.com/industries/manufacturing-distribution/",
+    "https://www.youtube.com/watch?v=YppEaKSlxbA",
+    "https://www.meruaccounting.com/accounting-for-manufacturing-business-core/",
+    "https://www.pricingsolutions.com/manufacturing-pricing-strategy/",
+    "https://reaadvisory.com/insight/manufacturing-pricing-strategy/",
+    "https://www.ventureforall.com/p/pricing-strategies-for-startups",
+    "https://worldmetrics.org/best/manufacturing-quote-software/"
+   ]
+  },
+  {
+   "query": "site:note.com 見積・受注の採算判断支援",
+   "results": [
+    "https://note.com/kensetsu_suukei/n/nc4190d0d2913",
+    "https://note.com/ripla_business/n/na90915eee3f5",
+    "https://note.com/kosuke_39/n/n142ff0bff6da",
+    "https://note.com/kensetsu_suukei/n/n43befc67dd1d",
+    "https://note.com/kensetsu_suukei/n/n8857586aa1c2",
+    "https://note.com/syacyo_otasuke/n/n8c3a9b044be9",
+    "https://note.com/shingeki_saisei/n/n0a2778567c50",
+    "https://note.com/localedge/n/ne6fddd22e3a7",
+    "https://note.com/proper_stork2598/n/nca62fb13bf3d",
+    "https://note.com/kensetsu_suukei/n/n3acf11411d4e"
+   ]
+  },
+  {
+   "query": "site:x.com 見積・受注の採算判断支援",
+   "results": [
+    "https://x.com/HayamiKei_AI/status/2099526237505130954",
+    "https://x.com/KagawaTomo/status/2111375676578423089",
+    "https://x.com/nextview_jp/status/2113403285319401707",
+    "https://x.com/i/article/2107037168455868543",
+    "https://x.com/yuki_ktym",
+    "https://x.com/KagawaTomo/status/2110277493752205781",
+    "https://x.com/withmo0111/status/2114997219560669504",
+    "https://x.com/MakeAI_CEO/status/2107780573372760370",
+    "https://x.com/KagawaTomo/status/2082393258869817436",
+    "https://x.com/ai_jitan/article/2091725044615700596"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 見積・受注の採算判断支援",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%AE%8F%E6%96%87-%E6%9D%91%E4%B8%8A-496885375",
+    "https://jp.linkedin.com/in/masahiro-yamamasu-b84b4813a",
+    "https://jp.linkedin.com/in/takahiro-suzuki-736b81200",
+    "https://jp.linkedin.com/in/keieikanrikaikei",
+    "https://jp.linkedin.com/in/orihanat",
+    "https://jp.linkedin.com/in/shunfukuoka",
+    "https://jp.linkedin.com/in/norimune19",
+    "https://jp.linkedin.com/in/hironori-sakai-8188a19",
+    "https://jp.linkedin.com/in/wataru-toyoma%EF%BC%88%E7%99%BB%E7%B1%B3-%E8%88%AA%EF%BC%89-bb57b0b0",
+    "https://jp.linkedin.com/in/takeshi-sekine-802a3a157"
+   ]
+  },
+  {
+   "query": "site:facebook.com 見積・受注の採算判断支援",
+   "results": [
+    "https://www.facebook.com/vctera/posts/%E8%87%AA%E5%88%86%E3%81%A7%E3%82%84%E3%82%8C%E3%81%B0%E7%84%A1%E6%96%99%E3%81%AF%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E9%AB%98%E3%81%84%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%BE%E3%81%9B%E3%82%93%E5%89%B5%E6%A5%AD%E3%81%AE%E7%9B%B8%E8%AB%87%E3%81%A7%E3%81%8A%E9%87%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%E3%81%AE%E3%81%A7%E8%87%AA%E5%88%86%E3%81%A7%E3%82%84%E3%82%8A%E3%81%BE%E3%81%99%E3%81%A8%E8%81%9E%E3%81%8F%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E3%81%9D%E3%81%AE%E4%BD%9C%E6%A5%AD%E3%81%AB%E4%BD%BF%E3%81%86%E6%99%82%E9%96%93%E3%81%AF%E3%81%84%E3%81%8F%E3%82%89%E3%81%A7%E8%A8%88%E7%AE%97%E3%81%97%E3%81%A6%E3%81%84/28917145784578046/",
+    "https://www.facebook.com/mcz.or.jp/posts/ai%E6%99%82%E4%BB%A3%E3%81%AE%E5%8B%9D%E3%81%A1%E7%B5%84%E3%81%AF%E3%83%96%E3%83%AB%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC-%E7%B1%B3%E5%9B%BD%E3%81%A7%E9%80%B2%E3%82%80%E3%83%96%E3%83%AB%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AB%E3%83%8D%E3%83%83%E3%82%B5%E3%83%B3%E3%82%B9%E7%B1%B3%E5%9B%BD%E3%81%A7%E3%81%AF%E4%BB%8A%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB%E3%82%84%E9%85%8D%E7%AE%A1%E5%B7%A5%E3%81%AA%E3%81%A9%E5%B0%82%E9%96%80%E6%8A%80%E8%83%BD%E3%82%92%E6%8C%81%E3%81%A4%E5%8A%B4%E5%83%8D%E8%80%85%E3%81%8C%E5%86%8D%E8%A9%95%E4%BE%A1%E3%81%95%E3%82%8C%E3%82%8B%E3%83%96%E3%83%AB%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%AB%E3%83%8D%E3%83%83%E3%82%B5%E3%83%B3%E3%82%B9%E3%81%8C%E6%B3%A8/1692153709539191/",
+    "https://www.facebook.com/andes.densyou/posts/%E6%9D%90%E6%96%99%E5%8D%98%E4%BE%A1%E3%81%AE%E5%A4%89%E5%8B%95%E8%A6%8B%E7%A9%8D%E3%81%AB%E3%81%A9%E3%81%86%E5%8F%8D%E6%98%A0%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%E7%84%A1%E6%96%99%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E3%81%A7%E3%81%AF%E9%9B%BB%E7%B7%9A%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%81%A8%E3%81%99%E3%82%8B%E8%B3%87%E6%9D%90%E3%81%AE%E5%8D%98%E4%BE%A1%E6%94%B9%E5%AE%9A%E3%81%8C%E7%B6%9A%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E5%8D%98%E4%BE%A1%E6%94%B9%E5%AE%9A%E3%81%AB%E8%A6%8B%E7%A9%8D%E3%81%8C%E8%BF%BD%E3%81%84%E3%81%A4/1054625420648449/",
+    "https://www.facebook.com/kuroyama.yuito/posts/%E4%BB%95%E4%BA%8B%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%89%B5%E6%A5%AD1%E6%9C%9F%E7%9B%AE%E3%81%8C%E3%81%82%E3%81%A81%E3%83%B6%E6%9C%88%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8A%E3%81%8B%E3%81%92%E3%81%95%E3%81%BE%E3%81%A7%E7%9A%86%E6%A7%98%E3%81%8B%E3%82%89%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B%E3%82%84%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%81%AB%E6%94%AF%E3%81%88%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AEai%E9%A1%A7%E5%95%8F%E3%81%AE%E6%94%AF%E6%8F%B4%E7%A4%BE%E6%95%B0%E3%82%8260%E7%A4%BE%E3%82%92%E8%B6%85%E3%81%88%E7%A4%BE%E5%93%A1%E3%81%AE%E6%8E%A1%E7%94%A8%E3%82%84%E6%9C%AC%E7%A4%BE/28685410937796748/",
+    "https://www.facebook.com/agewall/posts/coo%E5%80%99%E8%A3%9C%E3%82%92%E5%8B%9F%E9%9B%86%E3%81%97%E3%81%BE%E3%81%99%E6%80%9D%E6%83%B3%E3%81%A8ai%E3%82%922%E3%81%A4%E3%81%AE%E7%B5%B1%E5%90%88%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%B8%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E3%81%B0%E3%82%89%E3%81%B0%E3%82%89%E3%81%AEai%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E5%A3%B2%E3%82%8A%E3%81%9F%E3%81%84%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD%E3%81%AE%E4%BE%A1%E5%80%A4%E3%82%92%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8Fai%E6%85%A2/29147024181560424/",
+    "https://www.facebook.com/groups/1783180415267083/posts/4639822786269484/",
+    "https://www.facebook.com/agewall/?locale=ja_JP",
+    "https://www.facebook.com/takayukiaoki01/",
+    "https://www.facebook.com/agewall/posts/10%E5%B9%B4%E5%89%8D2015%E5%B9%B4/9742815472407918/",
+    "https://www.facebook.com/andes.densyou/"
+   ]
+  },
+  {
+   "query": "見積・受注の採算判断支援 note 社長",
+   "results": [
+    "https://note.com/ai__worker/n/n8071522bba31",
+    "https://note.com/syacyo_otasuke/n/n8c3a9b044be9",
+    "https://note.com/kensetsu_suukei/n/nc4190d0d2913",
+    "https://note.com/kosuke_39/n/n142ff0bff6da",
+    "https://www.heeze.co.jp/blog/suggestion/quotation",
+    "https://www.help-note.com/hc/ja/articles/42728135121817-%E5%A5%91%E7%B4%84%E4%B8%AD%E3%83%97%E3%83%A9%E3%83%B3%E3%81%AE%E8%A6%8B%E7%A9%8D%E6%9B%B8%E3%82%92%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95",
+    "https://note.com/kensetsu_suukei/n/n43befc67dd1d",
+    "https://note.asial.co.jp/n/n42cdc53f64a0",
+    "https://note.com/kensetsu_suukei/n/n8857586aa1c2",
+    "https://saisannoto.stores.jp/"
+   ]
+  },
+  {
+   "query": "見積・受注の採算判断支援 X 投稿",
+   "results": [
+    "https://cross-com.jp/quote-ai/",
+    "https://nlab.itmedia.co.jp/cont/articles/3399259/",
+    "https://www.smmj.jp/%E8%87%AA%E5%8B%95%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%EF%BC%88twitter%EF%BC%89/",
+    "https://bakuraku.jp/knowledge/knowledge-invoice/estimate-fix-mail/",
+    "https://app.jibun-apps.jp/form/b8220127-9dce-4a5c-a0c7-c9b2058a80d0/new",
+    "https://help.x.com/ja/using-x/creator-revenue-sharing",
+    "https://www.sellbot.jp/column/ai/p5996/",
+    "https://gxo.co.jp/lp/estimate-second-opinion",
+    "https://www.kuraemon.com/kb/quote/quotation-trust-conditions?srsltid=AYCX9vLSuncIa50wCTcWCQFmu-QloaoxkxFiSzsg5-lC_-6qSDc4sdTV",
+    "https://x.com/PasBase"
+   ]
+  },
+  {
+   "query": "quote profitability decision support manufacturing site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/how-manufacturers-can-use-lost-quote-data-improve-rfq-brunelle-cnm7c",
+    "https://www.linkedin.com/posts/bayareainnovations_manufacturingplanning-suppliermanagement-activity-7520833123820097537-lS5L",
+    "https://www.linkedin.com/pulse/how-calculate-true-product-profitability-accurately-leibfried-cpa-efl0c",
+    "https://www.linkedin.com/pulse/transforming-manufacturing-rfq-to-quote-workflows-intelligent-a6hlc",
+    "https://www.linkedin.com/top-content/supply-chain-management/supply-chain-analytics-tools/decision-support-software-for-supply-chain-managers/",
+    "https://www.linkedin.com/posts/om-prakash-a8041817_fractional-plant-head-manufacturing-operations-activity-7504625343765479424-W33-",
+    "https://www.linkedin.com/posts/brian-kenneweg_what-causes-forecasting-and-quoting-disconnects-activity-7499195812455796736-VWUu",
+    "https://www.linkedin.com/in/josephpmccarthy",
+    "https://www.linkedin.com/pulse/10-critical-industrial-manufacturing-operational-kpis-rui-goncalves",
+    "https://www.linkedin.com/posts/breadboard-software_most-quoting-teams-have-never-measured-the-activity-7518279999934713856-Sbr8"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,2111 @@
+{
+ "name": "Fracta",
+ "aliases": [
+  "フラクタ",
+  "FRACTA"
+ ],
+ "context": "水道管の劣化予測を更新計画・予算判断に置く",
+ "researched_at": "2026-11-04T11:07:45.772000+00:00",
+ "official_url": "https://fracta.ai",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "2019年9月",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2017/04",
+    "url": "https://initial.inc/companies/A-30667",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2013年11月18日",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "的場　雄介",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "加藤　崇",
+    "url": "https://initial.inc/companies/A-30667",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 塚田 耕司",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 河野貴伸",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "AI/機械学習に基づく水道管等のインフラ劣化予測のソフトウェア開発 〈配管損傷予測　特許 第7585041号〉",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "データフィード関連事業 / デジタル広告関連事業 / デジタルマーケティング関連事業 / その他事業",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "ブランド戦略設計、ブランド戦略に沿ったECサイト構築支援およびクリエイティブ制作、Shopifyコンサルティング、インターネットサービス事業",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VCあり, 事業会社あり",
+    "url": "https://initial.inc/companies/A-30667",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "創業年度": [
+   {
+    "quote": "Founded in Silicon Valley in 2015. Part of Kurita Water Industries since 2023.",
+    "url": "https://www.fracta.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fracta was founded to help water utilities predict pipe failures before they happen. Today our machine learning platform shows crews where to look for leaks first and tells capital planners which mains to replace, for utilities in the United States, Japan and beyond.",
+    "url": "https://www.fracta.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "founded in Silicon Valley",
+    "url": "https://www.fracta.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Fracta established in Silicon Valley as the world’s first AI-powered risk analysis platform for water infrastructure",
+    "url": "https://www.fracta.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Fracta Japan Co., Ltd. established",
+    "url": "https://www.fracta.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "9月 / Fracta Japan株式会社を設立",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "加藤崇（Fracta創業者）が、米国カリフォルニア州",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年5月31日、Fracta, Inc.（”Fracta”）による栗田工業株式会社（“栗田工業”）を引受先とするSeries A資金調達、並びに創業株主らが保有するSeries Seed株式の栗田工業への譲渡により、栗田工業がFractaの持分50.1%を取得",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "元SchaftのCFO加藤氏が同社をGoogleに売却した後、新しく創業したスタートアップ企業として著名",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta創業者の加藤さんはクロージング時点では、自分の持ち株はほとんど売却していない",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta創業者をどのように、誰がメンターをするのか",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "以前、加藤氏はSCHAFT Inc.の共同創業者兼CFOであり、同社は2013年の米国DARPA（国防高等研究計画局）ロボティクス・チャレンジ・トライアルで最優秀賞を受賞したヒューマノイド・ロボティクス・スタートアップでした",
+    "url": "https://posiusa.com/ja/2024/03/01/fracta-inc-2/",
+    "pass": 3
+   },
+   {
+    "quote": "私はSCHAFTというヒト型ロボットベンチャーを日本で共同創業し、米国Google本社に売却するなど、多くの挑戦を経てきました",
+    "url": "https://posiusa.com/ja/2024/03/01/fracta-inc-2/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、シリコンバレーでフラクタを設立し、全米水道協会の「イノベーション大賞」を受賞しました",
+    "url": "https://posiusa.com/ja/2024/03/01/fracta-inc-2/",
+    "pass": 3
+   },
+   {
+    "quote": "私は新しい会社を創業し、連続起業家としての道を進んでいます",
+    "url": "https://posiusa.com/ja/2024/03/01/fracta-inc-2/",
+    "pass": 3
+   },
+   {
+    "quote": "を中心に創業",
+    "url": "https://ja.wikipedia.org/wiki/Fracta",
+    "pass": 3
+   },
+   {
+    "quote": "2020年5月 社会インフラ領域におけるデジタル技術を専業とするFracta Leap株式会社を設立",
+    "url": "https://ja.wikipedia.org/wiki/Fracta",
+    "pass": 3
+   },
+   {
+    "quote": "水処理におけるDX、AI・IoT 製品の共同開発プロジェクトを発足 本プロジェクトを推進するデジタル技術専業の「Fracta Leap」を設立 | MEDIA",
+    "url": "https://ja.wikipedia.org/wiki/Fracta",
+    "pass": 3
+   },
+   {
+    "quote": "私がなぜFracta社と懇意か？ それは、創業者の加藤さんが仲良くしてくださっているからなんです",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2000年ケンコーコム（株）を共同創業し常務取締役COO、2015年（株）ウォーターダイレクト代表取締役などベンチャー企業経営者を歴任",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "平成27年1月1日、代表世話人株式会社を設立",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "2015年に米国・シリコンバレーで創業したFractaは、2019年に日本法人であるFracta Japanを設立し、国内外で事業を展開しています",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "設立：2013年11月18日",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   },
+   {
+    "quote": "目下、水処理プラントの設計・運転の最適化に向けたプロダクト開発を進めており、栗田工業と共に重厚長大な業界のデジタル変革（DX）をリードする取り組みで注目を集めている、2020年5月に設立されたスタートアップ企業だ",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta Leapは、水処理インフラ向けの画期的なデジタルソリューションを開発するために設立された技術スタートアップです",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "Fractaグループとしてかねてから水道管インフラ以外の社会インフラ向けの新事業を模索してきましたが、2020年に資本・業務提携先である栗田工業との関係を活かして「水処理領域」への進出を決定し、それを契機にFracta Leapを設立しました",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "日本人である加藤崇さんがシリコンバレーで創業したソフトウェア技術ベンチャー「FRACTA」です",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "※ご来場の50名に、FRACTA創業者 加藤崇さんの著書『",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "デンマークにおける学びを体感し、社会に対する影響力に感銘を受け日本にフォルケホイスコーレを設立する活動“奈良フォルケ”をスタート",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "Fracta（米国本社）栗田工業株式会社による100％出資子会社化",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年5月31日、Fracta, Inc.（”Fracta”）による栗田工業株式会社（“栗田工業”）を引受先とするSeries A資金調達、並びに創業株主らが保有するSeries Seed株式の栗田工業への譲渡により、栗田工業がFractaの持分50.1%を取得",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンバレー発スタートアップ企業の資金調達",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "Put/Callオプションを入れることで、経営株主が売却後も、これまでと変わらず一生懸命仕事に取り組むようなインセンティブを最大限働かせた",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "（過去の株主を含む）",
+    "url": "https://initial.inc/companies/A-30667",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達・提携ニュース",
+    "url": "https://initial.inc/companies/A-30667",
+    "pass": 3
+   },
+   {
+    "quote": "過去の株主を含む",
+    "url": "https://initial.inc/companies/A-30667",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジテレビジョンを引受先とする第三者割当増資の実施および初期メンバー募集開始のお知らせ",
+    "url": "https://fractal-voice.jp/news/20260423_2823.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社FRACTALは、株式会社フジテレビジョンを引受先とする第三者割当増資を実施いたしました",
+    "url": "https://fractal-voice.jp/news/20260423_2823.html",
+    "pass": 3
+   },
+   {
+    "quote": "本資金調達を通じて音声AI事業の成長を加速し、「AIと表現者の共創」による新たなクリエイティブの実現を目指してまいります",
+    "url": "https://fractal-voice.jp/news/20260423_2823.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主情報 Index",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "栗田工業株式会社（本社：東京都中野区、社長：江尻 裕彦、以下「クリタ」または「当社」）は、当社100％出資子会社のFracta Inc.（本社：米国カリフォルニア州シリコンバレー）の日本法人であるFracta Japan株式会社（本社：東京都中野区、代表取締役CEO：的場 雄介）の、「上下水道事業のDX：ビッグデータ×AIによる管路リスクの予測診断」が、インフラメンテナンスのベストプラクティスを表彰する「第8回インフラメンテナンス大賞」において、水道分野で初の内閣総理大臣賞を受賞しましたので、お知らせいたします",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて、FRACTA代表河野からも資本業務提携についてnoteを公開しています▼",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "フィードフォースグループとの資本業務提携を通して、さらに一気通貫でのご支援ができるようになるとも考えています",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   }
+  ],
+  "料金・契約": [
+   {
+    "quote": "5月 / 栗田工業株式会社と資本・業務提携契約を締結",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "有料契約限定のコンテンツです",
+    "url": "https://initial.inc/companies/A-30667",
+    "pass": 3
+   },
+   {
+    "quote": "契約済みの方はログインしてください",
+    "url": "https://initial.inc/companies/A-30667",
+    "pass": 3
+   },
+   {
+    "quote": "2018年3月 米国での初の契約",
+    "url": "https://ja.wikipedia.org/wiki/Fracta",
+    "pass": 3
+   },
+   {
+    "quote": "3兆2,450億円の水道料金収入は、2兆2,200億円へ",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "水道資産をこのまま維持しようとすれば、水道料金は47%もの引き上げが必要",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "人口密集度の違いが水道料金の総量の大小に直結",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "人口減は地方においてこそ顕著であり、半減すらあり得る (水道料金は2倍に)",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "→1キロ10,000円程度（初期費用を除いて）",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTAへ依頼した場合のコストは500〜800万円となります",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "我々の取り組みは「新しい試み」の域を脱し、全国各地の上下水道事業体、ガス事業者、そしてパートナーの皆様と共に、実効性のある「社会の基盤」としての価値を提供し続ける重責を担っていくときが来たのだと感じています",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "米国では、28州で70社以上の事業体にて導入済 (2022年7月末現在)",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "2月 / AIを用いたガス導管劣化予測アルゴリズムの実証を完了、同年4月よりサービス開始",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "8月 / 日本でのPoC（実証検証）を開始",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "5月 / 栗田工業株式会社と資本・業務提携契約を締結",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "革新的技術と評価を受けアメリカの水道事業体に採用",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用エントリー・募集要項",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "採用イベント",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用エントリー・募集要項",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達・提携ニュース",
+    "url": "https://initial.inc/companies/A-30667",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業分析",
+    "url": "https://initial.inc/companies/A-30667",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞「丸紅、老朽水道管AI診断 英で米技術使い実証」",
+    "url": "https://ja.wikipedia.org/wiki/Fracta",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞「東邦ガス、AIでガス管の劣化予測 米企業と実証実験」",
+    "url": "https://ja.wikipedia.org/wiki/Fracta",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTAL採用ページ",
+    "url": "https://fractal-voice.jp/news/20260423_2823.html",
+    "pass": 3
+   },
+   {
+    "quote": "千葉県鴨川市様が将来給水人口予測『±Move』を全国初導入",
+    "url": "https://fracta-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "採用・教育・人事労務",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "日本のために、水道事業の未来のため、次世代に水道のツケをまわさないために、シリコンバレーが発端の日本人シリアルアントレプレナーが米国で起業、奮闘し導入が進んだAI技術を日本で展開中のFracta社",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "実際に同社を導入する際の予算感について、これがすごく簡単",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "そこから加藤さんの突進力、米国の水道事業者への突撃に次ぐ突撃で現在は全米27州63の水道事業者が採用、既に約12万kmの水道管データを学習済みだそうです",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "2019年から日本では実証検証がスタートし、アメリカ同様日本においても有用性を確認しているそうです",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "実際の役務としての業務委託は今年から始まっていて１０以上の自治体で何かしらの【実績】があります",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "豊田市担当者のFRACTA社導入へのコメントとして、『より具体的にどの路線から更新を行っていくのかの優先順位を決定するにあたって、前回の管網機能評価を実施してから5年が経過していることから、旧簡水地区も含めて再度行うことも検討しました",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、いまの水道管診断のAI技術を他業界への展開のお話（この日本に導入しはじめのタイミングでそこまで描いているのか？）など』という平林さんも一瞬で樋口さんのファンになったのだと感じました",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "このようなフルスロットルで駆け抜ける米国発スタートアップ企業と日本の自治体が取り組みを加速すること、またここに地域金融機関とも連携強化することで地方の活性化が進むことを願いたいと思います",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業も要注目！ 取引先から選ばれる条件「脱炭素経営」してますか？",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "メガソーラー向けの蓄電池導入に関する動向はどうなっている？",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "地域金融機関や自治体とのスピード連携の根底にあるのは「自分は黒子",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介からAI面接まで！ 採用サービスがまる分かり",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "新規学卒就職者の3年以内離職状況に見る、中小企業の採用と定着戦略【経営者とっておきニュース】",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 Index",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 Index",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 Index",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社採用",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "インフラメンテナンス大賞は、インフラのメンテナンスに係る優れた取組や技術開発を表彰し、ベストプラクティスとして広く紹介することにより、我が国のインフラメンテナンスに関わる事業者、団体、研究者等の取組を促進し、メンテナンス産業の活性化を図るとともに、インフラメンテナンスの理念の普及を図ることを目的に実施されており、内閣総理大臣賞は第7回（令和5年度）に創設されました",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "世界で初めて開発したAIと環境ビッグデータを活用した水道管の劣化診断技術（特許第7585041号）は、水道管の物理的・化学的劣化に関わる埋設環境データおよび管路情報、漏水情報を使用するだけで、掘削して管体を直接確認することなどせずに、将来の劣化リスクを高精度に把握することが可能であり、現在までに日本で約60、世界で約150以上の事業体に採用されています",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "クリタグループ会社採用",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、『次世代リテールが目指すEC構築のあり方』と題して、リアルとデジタルをシームレスにつなぎ、顧客体験向上を目指すOMO（Online Merges with Offline）の重要性と、最短2ヶ月でOMO環境の立ち上げを実現するパッケージサービス「Next Plus」の全容をご紹介しています",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta Leapの中途採用・転職面接とは？【質問内容や求める人物像など面接官にインタビュー】｜ハイクラス転職のクライス＆カンパニー",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "母体であるFracta社は米国のAIスタートアップであり、世界で初めて「水道管インフラ向けのAI診断ソリューション（全米27州・60社以上で導入）」を確立した会社です",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "Fractaグループとしてかねてから水道管インフラ以外の社会インフラ向けの新事業を模索してきましたが、2020年に資本・業務提携先である栗田工業との関係を活かして「水処理領域」への進出を決定し、それを契機にFracta Leapを設立しました",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、今年採用した方々は、面談時に「職業人としての技能はこれまでに確立したので、今後は次世代に価値が残せる社会的テーマ（水資源、インフラ、衣食住等）に心血を注ぎたい」と仰ることが多かったです",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "採用で重視されているのはどのような点でしょうか？",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "「ＷEDGE Infinity」（2022.９.７公開）にて弊社の「AIによる劣化診断サービス」をご導入いただきました兵庫県朝来市さまの事例紹介記事が掲載されました",
+    "url": "https://fracta-jp.com/wedge-9%E6%9C%88%E5%8F%B7%E3%81%AB%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%9C%9D%E6%9D%A5%E5%B8%82%E6%A7%98%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "導入当初は「AIによる劣化予測」に懐疑的であった職員の方々が、その有効性を実感するに至った経緯についてお読みいただけます",
+    "url": "https://fracta-jp.com/wedge-9%E6%9C%88%E5%8F%B7%E3%81%AB%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%9C%9D%E6%9D%A5%E5%B8%82%E6%A7%98%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTAは、水道管の老朽化が社会問題になっている米国で、全米27州60社を超える水道事業者に、AI/機械学習を用いた高精度の破損・漏水予測によって、水道管の更新投資を最適化するソリューションを提供しています",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも数十の自治体にサービスが導入されています",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "フェリシモ市橋さんと語る！物流2024年問題、EC事業者ができること",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "【イベントレポート】「顧客体験価値を高めるサイト設計とは」&FRACTA #003（後編）",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "【イベントレポート】「顧客体験価値を高めるサイト設計とは」&FRACTA #003（前編）",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "商いは顧客なしでは始まりません",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "常に顧客のことを考え、顧客が何を感じ、何を求めて、何に悩んでいるかを考え続けることが、今も変わらず長く愛される商売のあるべき姿だと思います",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "各種自治体や教育機関への講座登壇も承っています",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて、FRACTA代表河野からも資本業務提携についてnoteを公開しています▼",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "フィードフォースグループとの資本業務提携を通して、さらに一気通貫でのご支援ができるようになるとも考えています",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "）に係る優れた取組や技術開発を表彰し、好事例として広く紹介することにより、我が国のインフラメンテナンスに関わる事業者、団体、研究者等の取組を促進し、メンテナンス産業の活性化を図るとともに、インフラメンテナンスの理念の普及を図ることを目的として実施するものです",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   }
+  ],
+  "発言": [
+   {
+    "quote": "代表取締役 CEO 的場雄介",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "ファンドインタビュー",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "経営者インタビュー",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "「Dooo「グーグルに会社を売った日本人が語る“クレイジーな人たちが世界を変える”」",
+    "url": "https://ja.wikipedia.org/wiki/Fracta",
+    "pass": 3
+   },
+   {
+    "quote": "年間1000人以上の経営者と会い、人と人とのご縁をつなぐ代表世話人 杉浦佳浩氏",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "日本法人代表）です",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "、その日本法人の代表である樋口さんにお話を伺いました",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "【Fracta 日本法人代表 樋口 宣人さん】",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta 日本法人代表",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2000年ケンコーコム（株）を共同創業し常務取締役COO、2015年（株）ウォーターダイレクト代表取締役などベンチャー企業経営者を歴任",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー時点の9月初旬は2021年度の予算組が始まっているところにアプローチをしている状況だそうです",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "執筆：杉浦佳浩 （すぎうら・よしひろ） 代表世話人株式会社代表",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "平成27年1月1日、代表世話人株式会社を設立",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "同社代表取締役に就任",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "リクリー髙室氏が語る、不動産価値の再創造と「投資」としての新しいオフィス戦略／岡目八目リポート",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "栗田工業株式会社（本社：東京都中野区、社長：江尻 裕彦、以下「クリタ」または「当社」）は、当社100％出資子会社のFracta Inc.（本社：米国カリフォルニア州シリコンバレー）の日本法人であるFracta Japan株式会社（本社：東京都中野区、代表取締役CEO：的場 雄介）の、「上下水道事業のDX：ビッグデータ×AIによる管路リスクの予測診断」が、インフラメンテナンスのベストプラクティスを表彰する「第8回インフラメンテナンス大賞」において、水道分野で初の内閣総理大臣賞を受賞しましたので、お知らせいたします",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "表彰式の様子（中央：石破首相、首相左：Fracta Japan 的場CEO、首相右：同 井原COO）",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "1月16日に首相官邸で開かれた表彰式には、Fracta Japanから的場CEO、井原COOらが出席し、石破茂首相から「上下水道一体での計画的な更新・耐震化の促進や、メンテナンスを担う官民の技術者不足の解消に大いに役立つ、極めて顕著な功績」との評価をいただきました",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "日経クロストレンドに代表 塚田と株式会社フラクタ代表 河野のインタビュー記事が掲載 | フィードフォースグループ株式会社",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   },
+   {
+    "quote": "日経クロストレンドに代表 塚田と株式会社フラクタ代表 河野のインタビュー記事が掲載",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   },
+   {
+    "quote": "新市場を創る人のデジタル戦略メディア「日経クロストレンド」に、弊社代表 塚田と、株式会社フラクタ代表取締役 河野 貴伸氏のインタビュー記事が掲載されました",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   },
+   {
+    "quote": "代表者：代表取締役 塚田 耕司",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   },
+   {
+    "quote": "代表者：代表取締役社長 河野貴伸",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta Leapの中途採用・転職面接とは？【質問内容や求める人物像など面接官にインタビュー】｜ハイクラス転職のクライス＆カンパニー",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー&コラム",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサル転職インタビュー",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "VCインタビュー",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "DXインタビュー",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "PdMインタビュー",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介先企業インタビュー",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "同社で代表取締役を務める北林康弘氏にお話をうかがった",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "※インタビュー内容、企業情報等はすべて取材当時のものです",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "TOPインタビュー",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトマネージャーインタビュー",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "奥田陽子｜イノベーション研究会 運営メンバー／奈良フォルケ ファウンダー／医療キュレーター実践会 代表",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "フェリシモ市橋さんと語る！物流2024年問題、EC事業者ができること",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "社内プロジェクト内での個々の役割についてインタビュー記事を公開しています",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "セルフでインタビューしてくれたメンバーもいます笑",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて、FRACTA代表河野からも資本業務提携についてnoteを公開しています▼",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTA代表河野からはWeb3についての記事も公開中です▼",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー・対談",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "表彰式は1月16日に首相官邸で執り行われ、石破総理大臣より的場CEO（トップの画像中央・石破総理左隣り）に表彰状が授与され、フラクタジャパンの皆様と共に記念撮影が行われました",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   },
+   {
+    "quote": "表彰式の翌日には、当社の代表取締役社長 石毛がFracta Japan 社を訪問し、的場CEOへ祝意をお伝えしました",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta Japan 的場CEO（左）と当社代表取締役社長石毛（右）",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   }
+  ],
+  "売り方": [
+   {
+    "quote": "経営者インタビュー",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "Put/Callオプションを入れることで、経営株主が売却後も、これまでと変わらず一生懸命仕事に取り組むようなインセンティブを最大限働かせた",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "サムライ経営者、アメリカを行く！",
+    "url": "https://ja.wikipedia.org/wiki/Fracta",
+    "pass": 3
+   },
+   {
+    "quote": "サムライ経営者、アメリカを行く！「米国の水道」の次は「日本の鉄道」も守る！",
+    "url": "https://ja.wikipedia.org/wiki/Fracta",
+    "pass": 3
+   },
+   {
+    "quote": "経営計画・組織",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "年間1000人以上の経営者と会い、人と人とのご縁をつなぐ代表世話人 杉浦佳浩氏",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "1)日本の水道の年間予算について",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "将来30年間の更新費は年平均約1兆6千億円、修繕費は同約2.3千億円との試算",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "地方の水道局から経営は逼迫",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "実際に同社を導入する際の予算感について、これがすごく簡単",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "東京大学工学部卒、スタンフォード大学院経営工学修士（MS）",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "専門はオペレーションズリサーチ、意思決定分析",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2000年ケンコーコム（株）を共同創業し常務取締役COO、2015年（株）ウォーターダイレクト代表取締役などベンチャー企業経営者を歴任",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "樋口さんと以前にお話していて、官公庁向けの未来の街づくりに関するお仕事、スタートアップの立ち上げや中小規模の会社経営全般の切り盛り、水に関わること、そして最先端技術に関わること今までのご経験が今のお仕事の布石となり、巡り巡ってこれをやるべしって感じの縁が重なったものと仰っていました",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー時点の9月初旬は2021年度の予算組が始まっているところにアプローチをしている状況だそうです",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、今年度からストックマネジメント計画が開始し、整備路線の選定は市民などから注目される可能性が高く、優先順位付けの根拠を定めておく必要があるなかで、過去の漏水箇所と行った客観的な要因と土壌環境などの事実に基づいて破損確率を高精度に解析するAIを活用した水道管劣化予測に注目しました』さらに今回の取り組みが持続可能な水道経営につながることを期待し、『市民の皆さんに対して将来にわたって安全・安心な水道水を供給できるよう、今回の結果を上手く活用して効率的に管路の更新を進めていきたいと思います』と結んでいます",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "会津若松市は上下水道局では、水道管更新計画の立案にあたり、工事台帳や竣工図面を基にして、布設年度や管種、管継手種類、漏水修理記録から導いた事故（漏水）率といった間接的な情報により、管路更新の優先度を決定してきた",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "年間1000人以上の経営者と出会い、縁をつなげている",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "世界中で“さらけ出して”つながりを生み出し続ける真っ直ぐな経営／販路開拓事例集",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業も要注目！ 取引先から選ばれる条件「脱炭素経営」してますか？",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月は、リファンド方式に移行する免税制度や消費税減税関連法案の動向といった制度改正をはじめ、米国中間選挙、APEC首脳会議、さらに日銀の金融政策決定会合やGDP速報など、経営者が押さえておくべき重要トピックが多数控えています",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "IPAに学ぶ対処・対策【経営者とっておきニュース】",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "新規学卒就職者の3年以内離職状況に見る、中小企業の採用と定着戦略【経営者とっておきニュース】",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "経営のヒントとなる言葉（井伊直弼）",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "経営方針 Index",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "クリタグループのサステナビリティ経営",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "クリタグループのサステナビリティ経営 Index",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアリティとサステナビリティ経営",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "CxO（経営幹部）求人",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "経営管理本部 人材開発部 部長 藤田 和大 氏",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "CxO(経営幹部)求人情報",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "玉田俊平太｜イノベーション研究会 顧問／関西学院大学経営戦略研究科 研究科長",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "関西学院大学 専門職大学院 経営戦略研究科 研究科長",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "関西学院大学専門職大学院 経営戦略研究科修了",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "社会医療法人大道会森之宮病院で副理事長秘書、介護業界にて経営企画に携わる",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "関西学院大学 経営戦略研究科 IBA研究フォーラム傘下の研究会であり、日本のイノベーション論で著名な玉田俊平太教授が顧問をされています",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   }
+  ],
+  "売上・規模": [
+   {
+    "quote": "元SchaftのCFO加藤氏が同社をGoogleに売却した後、新しく創業したスタートアップ企業として著名",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "3兆2,450億円の水道料金収入は、2兆2,200億円へ",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "将来30年間の更新費は年平均約1兆6千億円、修繕費は同約2.3千億円との試算",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "最大40％のコスト削減、すなわち年間20億円の削減を期待できます",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "つまり50年で単純に計算すると最大20億円×50年で1,000億円のコストを下げていくこと、財務インパクトは莫大ですね",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "・サンフランシスコ（SFPUC）の給水収益は、500億円（2017年度）",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "→仮に管路更新費を40％**コスト削減できれば、最大20億円の削減となる",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "→1キロの水道管交換費用1億円",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "なぜか社員が辞めてしまう…… 社労士が教える「10の落とし穴」",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "会社名：株式会社フィードフォース",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   },
+   {
+    "quote": "会社名：株式会社フラクタ（英語表記：FRACTA Inc.）",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   },
+   {
+    "quote": "※ご来場の50名に、FRACTA創業者 加藤崇さんの著書『",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "加藤さんはgoogleに企業売却した初めての日本人としても有名です",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "■定員：現地50名／オンライン50名",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "20:05~20:30 交流会（名刺交換会）",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "関西学院大学 経営戦略研究科 IBA研究フォーラム傘下の研究会であり、日本のイノベーション論で著名な玉田俊平太教授が顧問をされています",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTAには現在50名ほど社員がいます",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "リブランディングに合わせた名刺リニューアルについてのnoteはこちら▼",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせフォーム 姓* 名* 会社 弊社を知ったきっかけ（流入元） 広告 Google,Yahooからのご検索 WEB",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "『持続可能な水インフラの実現』を手掛けるFracta Leapのオフィスにて、社員“水入らず”ならぬ“水要る”イベント『懇水会』を開催いたしました！",
+    "url": "https://note.com/fractaleap",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせフォーム 姓* 名* 会社 弊社を知ったきっかけ（流入元） 広告 Google,Yahooからのご検索 WEB",
+    "url": "https://note.com/fracta/n/nc3a186d139f0?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "米国ベンチャー企業 Fracta , Inc.の株式取得（子会社化 ... — 米国ベンチャー企業 Fracta , Inc.の株式取得（子会社化 ... 栗田工業 PDF https://www.kurita-water.com > press_180530_01",
+    "url": "https://www.kurita-water.com/assets/files/pdf/press_180530_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CORPORATE - FRACTA — CORPORATE - FRACTA フラクタジャパン株式会社 https://fracta-jp.com > corporate",
+    "url": "https://fracta-jp.com/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta の栗田工業への売却｜ケーススタディ — Fracta の栗田工業への売却｜ケーススタディ フーリハン・ローキー株式会社 https://japan.hl.com > insight > case-studies",
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta , Inc. - スピーダ スタートアップ情報リサーチ — Fracta , Inc. - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-30667",
+    "pass": 3
+   },
+   {
+    "quote": "ABOUT US｜ Fracta Leap - 水を。つぎへ。 — ABOUT US｜ Fracta Leap - 水を。つぎへ。 Fracta Leap https://fracta-leap.com > about",
+    "url": "https://fracta-leap.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta , Inc. - POSI — Fracta , Inc. - POSI POSI - Professional Outsourcing Solutions, Inc. https://posiusa.com > お客様の声",
+    "url": "https://posiusa.com/ja/2024/03/01/fracta-inc-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta - Wikipedia — Fracta - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > Fracta",
+    "url": "https://ja.wikipedia.org/wiki/Fracta",
+    "pass": 3
+   },
+   {
+    "quote": "水道インフラの危機をAIで救う FRACTA の挑戦。 — 水道インフラの危機をAIで救う FRACTA の挑戦。 QUINTBRIDGE https://www.quintbridge.jp > event > detail",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジテレビジョンを引受先とする第三者割当増資の ... — 株式会社フジテレビジョンを引受先とする第三者割当増資の ... fractal-voice.jp https://fractal-voice.jp > news",
+    "url": "https://fractal-voice.jp/news/20260423_2823.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta Japanが「第8回インフラメンテナンス大賞」内閣総理 ... — Fracta Japanが「第8回インフラメンテナンス大賞」内閣総理 ... 栗田工業 https://www.kurita-water.com > news",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTA – フラクタジャパン株式会社 — FRACTA – フラクタジャパン株式会社 フラクタジャパン株式会社 https://fracta-jp.com",
+    "url": "https://fracta-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta : Water Main Break Prediction Software for Utilities — Fracta : Water Main Break Prediction Software for Utilities Fracta https://www.fracta.ai",
+    "url": "https://www.fracta.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "今そこにある危機を明らかに〜AI技術を活用した Fracta の日本 ... — 今そこにある危機を明らかに〜AI技術を活用した Fracta の日本 ... Kalep, https://jim.kalep.net > posts",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "わたしたちは、AIのチカラで水道管の劣化予測を行い、市民 ... — わたしたちは、AIのチカラで水道管の劣化予測を行い、市民 ... Facebook https://www.facebook.com > fractajapan > photos > fracta...",
+    "url": "https://www.facebook.com/fractajapan/photos/fracta%E3%81%AF%E6%B0%B4%E9%81%93%E6%96%99%E9%87%91%E3%81%AE%E5%80%A4%E4%B8%8A%E3%81%92%E3%81%ABno%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E5%8F%A4%E3%81%84%E3%82%84%E3%82%8A%E6%96%B9%E3%81%A7%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E6%8C%81%E7%B6%9A%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E3%82%8F%E3%81%9F%E3%81%97%E3%81%9F%E3%81%A1%E3%81%AFai%E3%81%AE%E3%83%81%E3%82%AB%E3%83%A9%E3%81%A7%E6%B0%B4%E9%81%93%E7%AE%A1%E3%81%AE%E5%8A%A3%E5%8C%96%E4%BA%88%E6%B8%AC%E3%82%92%E8%A1%8C%E3%81%84%E5%B8%82%E6%B0%91%E7%94%9F%E6%B4%BB%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B/1093713514497663/",
+    "pass": 3
+   },
+   {
+    "quote": "水道 料金 3倍時代も？\"水難民ゼロ\"を目指す、AIと描く ... — 水道 料金 3倍時代も？\"水難民ゼロ\"を目指す、AIと描く ... daiwahouse.co.jp https://www.daiwahouse.co.jp > miraimap_fracta-japan",
+    "url": "https://www.daiwahouse.co.jp/sustainable/sustainable_journey/miraimap_fracta-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "日経クロストレンドに 代表 塚田と株式会社フラクタ 代表 河野 ... — 日経クロストレンドに 代表 塚田と株式会社フラクタ 代表 河野 ... フィードフォースグループ株式会社 https://feedforcegroup.jp > news",
+    "url": "https://feedforcegroup.jp/news/956/",
+    "pass": 3
+   },
+   {
+    "quote": "面接官の本音 vol.140 Fracta Leap株式会社 - ハイクラス転職 — 面接官の本音 vol.140 Fracta Leap株式会社 - ハイクラス転職 クライス＆カンパニー https://www.kandc.com > 面接官の本音 > 工藤 直亮",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTA - X — FRACTA - X X https://x.com > @fracta_pr",
+    "url": "https://x.com/fracta_pr/status/1451375269152006148",
+    "pass": 3
+   },
+   {
+    "quote": "イマを斬る。 Fracta CEO加藤 崇 インタビュー ［後編］ — イマを斬る。 Fracta CEO加藤 崇 インタビュー ［後編］ アエラスタイルマガジン https://asm.asahi.com > 紳士の雑学",
+    "url": "https://asm.asahi.com/article/12562760",
+    "pass": 3
+   },
+   {
+    "quote": "『WEDGE 9月号』に兵庫県朝来市様の 事例 記事が掲載され ... — 『WEDGE 9月号』に兵庫県朝来市様の 事例 記事が掲載され ... フラクタジャパン株式会社 https://fracta-jp.com > wedge-9月号に兵庫県朝来市様が...",
+    "url": "https://fracta-jp.com/wedge-9%E6%9C%88%E5%8F%B7%E3%81%AB%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%9C%9D%E6%9D%A5%E5%B8%82%E6%A7%98%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta Japan（フラクタ） | Shibuya-ku Tokyo - Facebook — Fracta Japan（フラクタ） | Shibuya-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/fractajapan/",
+    "pass": 3
+   }
+  ],
+  "責任の範囲": [
+   {
+    "quote": "見えない誰かの真摯な努力と使命感、また大いなる責任感の上に成り立っているということを、決して忘れてはいけません",
+    "url": "https://fracta-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "日本における事業開発責任者として事業統括にあたる",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、今年度からストックマネジメント計画が開始し、整備路線の選定は市民などから注目される可能性が高く、優先順位付けの根拠を定めておく必要があるなかで、過去の漏水箇所と行った客観的な要因と土壌環境などの事実に基づいて破損確率を高精度に解析するAIを活用した水道管劣化予測に注目しました』さらに今回の取り組みが持続可能な水道経営につながることを期待し、『市民の皆さんに対して将来にわたって安全・安心な水道水を供給できるよう、今回の結果を上手く活用して効率的に管路の更新を進めていきたいと思います』と結んでいます",
+    "url": "https://jim.kalep.net/posts/30427",
+    "pass": 3
+   },
+   {
+    "quote": "世界で初めて開発したAIと環境ビッグデータを活用した水道管の劣化診断技術（特許第7585041号）は、水道管の物理的・化学的劣化に関わる埋設環境データおよび管路情報、漏水情報を使用するだけで、掘削して管体を直接確認することなどせずに、将来の劣化リスクを高精度に把握することが可能であり、現在までに日本で約60、世界で約150以上の事業体に採用されています",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "このたび受賞したFractaの「上下水道事業のDX：ビッグデータ×AIによる管路リスクの予測診断」は、AIを用いて効率的かつ高精度に水道管等の劣化度を評価できる仕組みを実現したもので、上下水道、ガス管等においても実績があり、分野横断的な活用が期待されています",
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "pass": 3
+   },
+   {
+    "quote": "執行役員 人事責任者 半田 頼敬 氏",
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTAは、水道管の老朽化が社会問題になっている米国で、全米27州60社を超える水道事業者に、AI/機械学習を用いた高精度の破損・漏水予測によって、水道管の更新投資を最適化するソリューションを提供しています",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "西日本エリアマネージャーおよびメディアPR責任者を担当、10月より現職",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "遷移先サイトの内容について、QUINTBRIDGEおよび運営母体であるNTT西日本は責任を負いません",
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資情報の免責事項",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "投資情報の免責事項",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "投資情報の免責事項",
+    "url": "https://note.com/fractaleap",
+    "pass": 3
+   },
+   {
+    "quote": "投資情報の免責事項",
+    "url": "https://note.com/fracta/n/nc3a186d139f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "投資情報の免責事項",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "FRACTA ｜トータルブランディングパートナー - note FRACTA ｜トータルブランディングパートナー - note note https://note.com > fracta",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTA がわかる 最近のnoteまとめ FRACTA がわかる 最近のnoteまとめ note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta Leap - note Fracta Leap - note note https://note.com > fractaleap",
+    "url": "https://note.com/fractaleap",
+    "pass": 3
+   },
+   {
+    "quote": "Nice to meet you from today! ~ FRACTA Onboarding - note Nice to meet you from today! ~ FRACTA Onboarding - note note https://note.com > キャリア > 特定層向けキャリア",
+    "url": "https://note.com/fracta/n/nc3a186d139f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTA がわかる 最近の note まとめ FRACTA がわかる 最近の note まとめ note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー企業の Fracta Japan様がインフラメンテナンス大賞 ... パートナー企業の Fracta Japan様がインフラメンテナンス大賞 ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "FRACTA ｜トータルブランディングパートナー｜note",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTA ｜トータルブランディングパートナー",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "ブランドの自走を支援するトータルブランディングパートナーのFRACTAです。",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "「ブランドを、未来の文化へ。」をビジョンに掲げ、ブランドの挑戦をテクノロジーとデザインの力で支えていきます。",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "#ブランディング #EC #Shopify #新規事業開発 のご相談はぜひお気軽に！",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "ルミネのOMO時代におけるコミュニケーション戦略",
+    "url": "https://note.com/fracta",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTAがわかる 最近のnoteまとめ｜FRACTA ｜トータルブランディングパートナー",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTAがわかる 最近のnoteまとめ",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTA ｜トータルブランディングパートナー",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "いつも記事をお読みいただきありがとうございます！このところFRACTAのnote記事が増えたので、記事をジャンルごとにまとめてお伝えしたいと思います！",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "まずは提供しているサービスについてのnoteのご紹介です！FRACTAでは現在、３つのサービスを展開しています。各サービスの内容やサービスに込めた思いを一つずつ解説しました。",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれのサービスの役割をわかりやすく解説したnoteもあります▼",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "ブランディングの初めの一歩はまずここから！と言っても過言ではないくらい大切にしているのは、FRACTAのブランディングフォーマットです。ブランディングの民主化を目指すFRACTAでは、どなたでもブランディングフォーマットをお使いいただけるよう、解説記事を公開しました。",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2022年1月からは、FRACTAのOne By Oneチームメンバーによる連載も開始しました。隔週月曜日に公開中です◎",
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "pass": 3
+   },
+   {
+    "quote": "世界が抱える水資源課題の解決に向け、デジタル技術を実装した新しい水処理インフラの確立に挑むFracta Leapの公式noteです。",
+    "url": "https://note.com/fractaleap",
+    "pass": 3
+   },
+   {
+    "quote": "人や仕事、会社の雰囲気などFracta Leapの内側をお届けします。",
+    "url": "https://note.com/fractaleap",
+    "pass": 3
+   },
+   {
+    "quote": "世界が抱える水資源課題の解決に向け、デジタル技術を実装した新しい水処理インフラの確立に挑…",
+    "url": "https://note.com/fractaleap",
+    "pass": 3
+   },
+   {
+    "quote": "IA Divisionチーム紹介 -継続的に成果が生まれるR&Dを目指して-",
+    "url": "https://note.com/fractaleap",
+    "pass": 3
+   },
+   {
+    "quote": "社会インフラ×デジタルを模索して、たどり着いた水処理インフラという難関。その変革を本気でやるために誕生。",
+    "url": "https://note.com/fractaleap",
+    "pass": 3
+   },
+   {
+    "quote": "水処理の世界への入口になる“水処理カードゲーム”をつくりました！",
+    "url": "https://note.com/fractaleap",
+    "pass": 3
+   },
+   {
+    "quote": "誰かがやらなきゃいけないことを。中小製造業に向けた新事業創出の挑戦。",
+    "url": "https://note.com/fractaleap",
+    "pass": 3
+   },
+   {
+    "quote": "水処理プラントの自動設計化実現への課題と実施事例 〜配置設計を例とした進め方の紹介〜",
+    "url": "https://note.com/fractaleap",
+    "pass": 3
+   },
+   {
+    "quote": "Nice to meet you from today! ~FRACTA Onboarding~｜FRACTA ｜トータルブランディングパートナー",
+    "url": "https://note.com/fracta/n/nc3a186d139f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Nice to meet you from today! ~FRACTA Onboarding~",
+    "url": "https://note.com/fracta/n/nc3a186d139f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTA ｜トータルブランディングパートナー",
+    "url": "https://note.com/fracta/n/nc3a186d139f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello! This is Hoshi from the Corporate Bureau at FRACTA.",
+    "url": "https://note.com/fracta/n/nc3a186d139f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Up until now, we have talked about things \"before joining the company\" such as",
+    "url": "https://note.com/fracta/n/nc3a186d139f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "culture fit interviews",
+    "url": "https://note.com/fracta/n/nc3a186d139f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", but this time I would like to talk about what happens \"after joining the company.\"",
+    "url": "https://note.com/fracta/n/nc3a186d139f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At FRACTA, an onboarding program begins from the very first day of joining, taking about 3 to 4 hours a day for about two weeks. I would like to introduce what FRACTA's onboarding entails right away!",
+    "url": "https://note.com/fracta/n/nc3a186d139f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー企業のFracta Japan様がインフラメンテナンス大賞にて、内閣総理大臣賞を受賞しました。｜日本鋳鉄管株式会社",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー企業のFracta Japan様がインフラメンテナンス大賞にて、内閣総理大臣賞を受賞しました。",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   },
+   {
+    "quote": "当社のパートナー企業であるFracta Japan様が、第8回インフラメンテナンス大賞にて内閣総理大臣賞を受賞しました。",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   },
+   {
+    "quote": "インフラメンテナンス大賞とは、日本国内における社会資本のメンテナンス（以下「インフラメンテナンス」という。）に係る優れた取組や技術開発を表彰し、好事例として広く紹介することにより、我が国のインフラメンテナンスに関わる事業者、団体、研究者等の取組を促進し、メンテナンス産業の活性化を図るとともに、インフラメンテナンスの理念の普及を図ることを目的として実施するものです。",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta Japan 様の取り組みである「上下水道事業のDX：ビッグデータ×AIによる管路リスクの予測診断」が極めて顕著な功績であると認められる取組や技術開発として評価され、受賞に至りました。",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   },
+   {
+    "quote": "表彰式は1月16日に首相官邸で執り行われ、石破総理大臣より的場CEO（トップの画像中央・石破総理左隣り）に表彰状が授与され、フラクタジャパンの皆様と共に記念撮影が行われました。",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   },
+   {
+    "quote": "表彰式の翌日には、当社の代表取締役社長 石毛がFracta Japan 社を訪問し、的場CEOへ祝意をお伝えしました。",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta Japan 的場CEO（左）と当社代表取締役社長石毛（右）",
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "FRACTA (@fracta_pr) / X FRACTA (@fracta_pr) / X X https://x.com > fracta_pr",
+    "url": "https://x.com/fracta_pr",
+    "pass": 3
+   },
+   {
+    "quote": "フラクタ（ FRACTA ） (@fura9ta9waita) / X フラクタ（ FRACTA ） (@fura9ta9waita) / X X https://x.com > ...",
+    "url": "https://x.com/fura9ta9waita",
+    "pass": 3
+   },
+   {
+    "quote": "Fractal Fract MDPI (@Fractal_Fract) / X Fractal Fract MDPI (@Fractal_Fract) / X X https://x.com > Fractal_Fract",
+    "url": "https://x.com/Fractal_Fract",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "FRACTA | LinkedIn FRACTA | LinkedIn LinkedIn https://www.linkedin.com > fractainc",
+    "url": "https://www.linkedin.com/company/fractainc",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta - LinkedIn Fracta - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/fractamarkets",
+    "pass": 3
+   },
+   {
+    "quote": "FRACTA - LinkedIn FRACTA - LinkedIn LinkedIn https://ir.linkedin.com > fracta-project",
+    "url": "https://ir.linkedin.com/company/fracta-project",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta Explainer: Predicting Water Main Failures with AI Fracta Explainer: Predicting Water Main Failures with AI LinkedIn https://www.linkedin.com > posts > fractainc_throwbackth...",
+    "url": "https://www.linkedin.com/posts/fractainc_throwbackthursday-waterinfrastructure-activity-7493747461438500865-RhmT",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Fracta , Inc. | Redwood City CA - Facebook Fracta , Inc. | Redwood City CA - Facebook Facebook https://www.facebook.com > ... > Water Utility Company",
+    "url": "https://www.facebook.com/fractainc/",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta Via Land And Cattle - Facebook Fracta Via Land And Cattle - Facebook Facebook https://www.facebook.com > ... > Agriculture > Farm",
+    "url": "https://www.facebook.com/p/Fracta-Via-Land-And-Cattle-100070666735890/",
+    "pass": 3
+   },
+   {
+    "quote": "Fracta , Inc. (@fractainc) - Mentions | Facebook Fracta , Inc. (@fractainc) - Mentions | Facebook Facebook https://www.facebook.com > ... > Fracta, Inc.",
+    "url": "https://www.facebook.com/fractainc/mentions/",
+    "pass": 3
+   },
+   {
+    "quote": "1.Juli set plot. Wolfram Mathematica 2. Fracta Builder - Facebook 1.Juli set plot. Wolfram Mathematica 2. Fracta Builder - Facebook Facebook https://www.facebook.com > ... > Fractal Artists | Facebook",
+    "url": "https://www.facebook.com/groups/2229091914/posts/10163516137886915/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fracta.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fracta.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fracta.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fracta.ai/leak-zones",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fracta.ai/hubfs/fracta-website/resources/fracta-case-study-greater-johnstown.pdf?hsLang=en",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kurita-water.com/assets/files/pdf/press_180530_01.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fracta-jp.com/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-30667",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fracta-jp.com/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://posiusa.com/ja/2024/03/01/fracta-inc-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Fracta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.hl.com/insight/case-studies/47717",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-30667",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fractal-voice.jp/news/20260423_2823.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fracta-jp.com/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fracta-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-30667",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kurita-water.com/assets/files/pdf/press_180530_01.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://posiusa.com/ja/2024/03/01/fracta-inc-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fracta-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jim.kalep.net/posts/30427",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://e-kuki.net/blog/%E7%8F%BE%E5%A0%B4%E3%81%AE%E6%9A%91%E3%81%95%E3%80%81%E3%81%9D%E3%81%AE%E4%BB%A3%E5%84%9F%E3%81%AF%E3%80%8C%E7%AA%81%E7%99%BA%E7%9A%84%E3%81%AA%E4%BF%AE%E7%B9%95%E8%B2%BB%E3%80%8D%E3%81%A8%E3%80%8C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/fractajapan/photos/fracta%E3%81%AF%E6%B0%B4%E9%81%93%E6%96%99%E9%87%91%E3%81%AE%E5%80%A4%E4%B8%8A%E3%81%92%E3%81%ABno%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E5%8F%A4%E3%81%84%E3%82%84%E3%82%8A%E6%96%B9%E3%81%A7%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E6%8C%81%E7%B6%9A%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E3%82%8F%E3%81%9F%E3%81%97%E3%81%9F%E3%81%A1%E3%81%AFai%E3%81%AE%E3%83%81%E3%82%AB%E3%83%A9%E3%81%A7%E6%B0%B4%E9%81%93%E7%AE%A1%E3%81%AE%E5%8A%A3%E5%8C%96%E4%BA%88%E6%B8%AC%E3%82%92%E8%A1%8C%E3%81%84%E5%B8%82%E6%B0%91%E7%94%9F%E6%B4%BB%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B/1093713514497663/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fracta-jp.com/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://posiusa.com/ja/2024/03/01/fracta-inc-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://feedforcegroup.jp/news/956/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fracta-jp.com/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kandc.com/interview/communication/5776/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/fracta_pr/status/1451375269152006148",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kurita-water.com/news/20250121-01/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fracta-jp.com/wedge-9%E6%9C%88%E5%8F%B7%E3%81%AB%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%9C%9D%E6%9D%A5%E5%B8%82%E6%A7%98%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/fractajapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/fracta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fractaleap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fracta/n/nc3a186d139f0?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/fracta_pr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fura9ta9waita",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Fractal_Fract",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fractainc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fractamarkets",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ir.linkedin.com/company/fracta-project",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/fractainc_throwbackthursday-waterinfrastructure-activity-7493747461438500865-RhmT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fractainc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Fracta-Via-Land-And-Cattle-100070666735890/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fractainc/mentions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/2229091914/posts/10163516137886915/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/fracta/n/n5029574be7e9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fracta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fractaleap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fracta 株主 OR 出資 OR 資本業務提携",
+   "results": [
+    "https://www.kurita-water.com/assets/files/pdf/press_180530_01.pdf",
+    "https://fracta-jp.com/corporate/",
+    "https://japan.hl.com/insight/case-studies/47717",
+    "https://initial.inc/companies/A-30667",
+    "https://fracta-leap.com/about",
+    "https://www.infroneer.com/jp/news-article/2023/11/16/765.html",
+    "https://www.makuake.co.jp/news/archives/68",
+    "https://ecnomikata.com/ecnews/29216/",
+    "https://www.nihon-ma.co.jp/news/20180530_6370-3/",
+    "https://ja.wikipedia.org/wiki/Fracta"
+   ]
+  },
+  {
+   "query": "Fracta 設立 OR 創業",
+   "results": [
+    "https://fracta-jp.com/corporate/",
+    "https://posiusa.com/ja/2024/03/01/fracta-inc-2/",
+    "https://japan.hl.com/insight/case-studies/47717",
+    "https://ja.wikipedia.org/wiki/Fracta",
+    "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "https://mid-tenshoku.com/agency/a-12331/",
+    "https://www.kurita-water.com/news/20250121-01/",
+    "https://www.openwork.jp/user_answer.php?vid=a0A2x00000ExQsm",
+    "https://prtimes.jp/main/html/rd/p/000000023.000052114.html"
+   ]
+  },
+  {
+   "query": "Fracta 資金調達",
+   "results": [
+    "https://japan.hl.com/insight/case-studies/47717",
+    "https://initial.inc/companies/A-30667",
+    "https://fractal-voice.jp/news/20260423_2823.html",
+    "https://fracta-jp.com/corporate/",
+    "https://www.kurita-water.com/news/20250121-01/",
+    "https://www.fracta.ai/",
+    "https://posiusa.com/ja/2024/03/01/fracta-inc-2/",
+    "https://kepple.co.jp/corporates/3011001129956/page/1",
+    "https://prtimes.jp/main/html/rd/p/000000003.000180754.html"
+   ]
+  },
+  {
+   "query": "Fracta 売上",
+   "results": [
+    "https://fracta-jp.com/",
+    "https://initial.inc/companies/A-30667",
+    "https://www.kurita-water.com/assets/files/pdf/press_180530_01.pdf",
+    "https://posiusa.com/ja/2024/03/01/fracta-inc-2/",
+    "https://www.fracta.ai/",
+    "https://paiza.jp/recruiters/6993",
+    "https://mid-tenshoku.com/agency/a-12331/",
+    "https://japan.hl.com/insight/case-studies/47717",
+    "https://feedforcegroup.jp/news/1255/",
+    "https://ja.wikipedia.org/wiki/Fracta"
+   ]
+  },
+  {
+   "query": "Fracta 経営 予算 修繕費",
+   "results": [
+    "https://fracta-jp.com/",
+    "https://jim.kalep.net/posts/30427",
+    "https://www.kurita-water.com/news/20250121-01/",
+    "https://e-kuki.net/blog/%E7%8F%BE%E5%A0%B4%E3%81%AE%E6%9A%91%E3%81%95%E3%80%81%E3%81%9D%E3%81%AE%E4%BB%A3%E5%84%9F%E3%81%AF%E3%80%8C%E7%AA%81%E7%99%BA%E7%9A%84%E3%81%AA%E4%BF%AE%E7%B9%95%E8%B2%BB%E3%80%8D%E3%81%A8%E3%80%8C/",
+    "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/07/07_08.htm",
+    "https://www.kentaku.co.jp/estate/navi/column04/post_246.html",
+    "https://feedforcegroup.jp/news/1255/",
+    "https://japan.hl.com/insight/case-studies/47717",
+    "https://www.nihonzaitaku.co.jp/mailmag/category03/2026-03-19.html"
+   ]
+  },
+  {
+   "query": "Fracta 料金 OR 価格",
+   "results": [
+    "https://www.facebook.com/fractajapan/photos/fracta%E3%81%AF%E6%B0%B4%E9%81%93%E6%96%99%E9%87%91%E3%81%AE%E5%80%A4%E4%B8%8A%E3%81%92%E3%81%ABno%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E5%8F%A4%E3%81%84%E3%82%84%E3%82%8A%E6%96%B9%E3%81%A7%E3%82%B3%E3%82%B9%E3%83%88%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E6%8C%81%E7%B6%9A%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E3%82%8F%E3%81%9F%E3%81%97%E3%81%9F%E3%81%A1%E3%81%AFai%E3%81%AE%E3%83%81%E3%82%AB%E3%83%A9%E3%81%A7%E6%B0%B4%E9%81%93%E7%AE%A1%E3%81%AE%E5%8A%A3%E5%8C%96%E4%BA%88%E6%B8%AC%E3%82%92%E8%A1%8C%E3%81%84%E5%B8%82%E6%B0%91%E7%94%9F%E6%B4%BB%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B/1093713514497663/",
+    "https://fracta-jp.com/corporate/",
+    "https://posiusa.com/ja/2024/03/01/fracta-inc-2/",
+    "https://www.kurita-water.com/news/20250121-01/",
+    "https://www.daiwahouse.co.jp/sustainable/sustainable_journey/miraimap_fracta-japan/",
+    "https://mid-tenshoku.com/agency/a-12331/",
+    "https://japan.hl.com/insight/case-studies/47717",
+    "https://www.mlit.go.jp/policy/shingikai/content/001983950.pdf",
+    "https://kepple.co.jp/corporates/3011001129956/page/1"
+   ]
+  },
+  {
+   "query": "Fracta 代表 インタビュー",
+   "results": [
+    "https://feedforcegroup.jp/news/956/",
+    "https://fracta-jp.com/corporate/",
+    "https://www.kandc.com/interview/communication/5776/",
+    "https://x.com/fracta_pr/status/1451375269152006148",
+    "https://asm.asahi.com/article/12562760",
+    "https://note.com/makuake_note/n/ndde19654339c",
+    "https://enlyt.co.jp/client-interview/fracta-2/",
+    "https://marketeer.jp/takanobu-kono/",
+    "https://www.ecnopro.jp/times/pro-21-221214kounotakanobu"
+   ]
+  },
+  {
+   "query": "Fracta 導入事例",
+   "results": [
+    "https://www.kurita-water.com/news/20250121-01/",
+    "https://fracta-jp.com/wedge-9%E6%9C%88%E5%8F%B7%E3%81%AB%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%9C%9D%E6%9D%A5%E5%B8%82%E6%A7%98%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/",
+    "https://www.quintbridge.jp/event/detail/202401101841.html",
+    "https://www.facebook.com/fractajapan/",
+    "https://project.nikkeibp.co.jp/onestep/casestudy/00081/",
+    "https://prtimes.jp/main/html/rd/p/000000023.000052114.html",
+    "https://www.mlit.go.jp/policy/shingikai/content/001983950.pdf",
+    "https://fracta-jp.com/results/",
+    "https://www.fracta.ai/"
+   ]
+  },
+  {
+   "query": "site:note.com Fracta",
+   "results": [
+    "https://note.com/fracta",
+    "https://note.com/fracta/n/n5029574be7e9",
+    "https://note.com/fractaleap",
+    "https://note.com/fracta/n/nc3a186d139f0?hl=en",
+    "https://note.com/fracta/n/n520a067ed273?hl=en",
+    "https://note.com/fracta/n/nd3d4b1cef039?hl=en",
+    "https://note.com/fracta/m/m8b318bc525e7/hashtag/89218",
+    "https://note.com/fractaleap/n/n784cbe3748ad",
+    "https://note.com/fracta/n/n6ccc57962079"
+   ]
+  },
+  {
+   "query": "site:x.com Fracta",
+   "results": [
+    "https://x.com/fracta_pr",
+    "https://x.com/fura9ta9waita",
+    "https://x.com/marchmaru2/status/2111025096597123405/video/1",
+    "https://x.com/Fractal_Fract",
+    "https://x.com/marchmaru2/status/2112087372783337774",
+    "https://x.com/KuritaGroup/status/1881952117805728127",
+    "https://x.com/DianOnno/status/853255026654851074",
+    "https://x.com/marchmaru2/status/2113933643114860866",
+    "https://x.com/fracta_pr/status/1451375269152006148"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Fracta",
+   "results": [
+    "https://www.linkedin.com/company/fractainc",
+    "https://www.linkedin.com/company/fractamarkets",
+    "https://ir.linkedin.com/company/fracta-project",
+    "https://www.linkedin.com/posts/fractainc_throwbackthursday-waterinfrastructure-activity-7493747461438500865-RhmT",
+    "https://www.linkedin.com/in/yusuke-matoba-579461312",
+    "https://www.linkedin.com/posts/activity-7521194099673047040-dy41",
+    "https://au.linkedin.com/in/ameliagenova123",
+    "https://www.linkedin.com/posts/fractainc_tbt-awwa-waterinfrastructure-activity-7519070267449655296-9WBx",
+    "https://www.linkedin.com/posts/fractainc_nconewater-waterutilities-waterinfrastructure-activity-7520546959556804609-4QDO",
+    "https://www.linkedin.com/in/bernard-bruno-tume"
+   ]
+  },
+  {
+   "query": "site:facebook.com Fracta",
+   "results": [
+    "https://www.facebook.com/fractainc/",
+    "https://www.facebook.com/p/Fracta-Via-Land-And-Cattle-100070666735890/",
+    "https://www.facebook.com/fractainc/mentions/",
+    "https://www.facebook.com/groups/2229091914/posts/10163516137886915/",
+    "https://www.facebook.com/61593704855087/videos/fracta-is-live/1396713102241032/",
+    "https://www.facebook.com/fractajapan/",
+    "https://www.facebook.com/inkparktattoostudio/posts/where-light-meets-discipline-strength-is-bornthe-sunburst-fracta-tattoo-captures/1611456807003409/",
+    "https://www.facebook.com/fractachord/",
+    "https://www.facebook.com/fractajapan/mentions/"
+   ]
+  },
+  {
+   "query": "Fracta note 社長",
+   "results": [
+    "https://note.com/fracta/n/n5029574be7e9",
+    "https://note.com/fracta",
+    "https://note.com/fractaleap",
+    "https://note.com/nichuspecial2020/n/nacbc5cb844ee",
+    "https://note.com/fracta/n/n7052e77b91ad",
+    "https://fracta-jp.com/corporate/",
+    "https://feedforcegroup.jp/news/550/",
+    "https://asm.asahi.com/article/12562760",
+    "https://prtimes.jp/main/html/rd/p/000000050.000025199.html"
+   ]
+  },
+  {
+   "query": "Fracta X 投稿",
+   "results": [
+    "https://x.com/kantei/status/1879889648610357525",
+    "https://fracta-jp.com/",
+    "https://www.fracta.ai/",
+    "https://posiusa.com/ja/2024/03/01/fracta-inc-2/",
+    "https://www.facebook.com/fractajapan/mentions/",
+    "https://fracta.net/fracta/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/52114",
+    "https://x.com/fracta_pr",
+    "https://www.kurita-water.com/news/20250121-01/"
+   ]
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）"
+ }
+}
