@@ -43,3 +43,5 @@ topics:
   entry_bench: {run: true, shards: 2, per_run: 1}  # 2026-11-04 手本の会社（AIVALIX・Fracta）の売り方・責任範囲・料金・創業年度・株主構成
   phys_ai_demand: {run: true, shards: 6, per_run: 3}  # 2026-11-04 フィジカルAI・無人化で増える部材と用途19品目（超薄型モーターと素材を追加）（素材側優先。プラント・サイバー・ソフト側AIは除外）
   feedstock_market: {run: true, shards: 7, per_run: 2}  # 2026-11-04 3分野（航空宇宙・パワー半導体・マテリアル）向け金属AM原料（粉・ワイヤ・フィラメント）17品目（日本の顧客が買うかを追加）：ニッチ度・CAGR・主要プレイヤー複数社・市場規模・売り方・繰り返し性・価格・シェア
+  kurosaki_scan: {run: true, shards: 6, per_run: 3}  # 2026-11-04 黒崎式・第1段：A1の売る先16産業の需給の差×大手プラットフォームの不在
+  kurosaki_unit: {run: true, shards: 5, per_run: 2}  # 2026-11-04 黒崎式・第2段：入口候補10種の3つの数字（獲得単価・払う単価・成約率）と許可・立ち上がり期間
