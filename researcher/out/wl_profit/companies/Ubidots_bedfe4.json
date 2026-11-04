@@ -1,0 +1,2673 @@
+{
+ "name": "Ubidots",
+ "aliases": [
+  "Ubidots Inc"
+ ],
+ "context": "予知保全・工場IoT ホワイトラベル",
+ "researched_at": "2026-11-04T10:57:08.806962+00:00",
+ "official_url": "https://ubidots.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Owner",
+    "value": "Household or individual Business, building, hospital or fleet operator Manufacturer or operator of production assets",
+    "url": "https://ubidots.com/blog/iot-consumer-vs-commercial-vs-industrial-main-overview/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "売上": [
+   {
+    "quote": "Darryl Schembri",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "sales@ubidots.com",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Each data point carries a value, timestamp, and context metadata—including GPS coordinates—for complete, actionable records.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Darryl Schembri",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "sales@ubidots.com",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "As for the platform, Quantify Environmental has found a pivotal component of their solutions in Ubidots. This versatile tool provides them with the ability to seamlessly integrate a wide array of sensors and hardware from different suppliers, transforming disparate streams of data into cohesive and meaningful insights.",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "After speaking to some industry contacts and partners, they came across Ubidots and it immediately caught their attention due to its reputation in the industry and its wide array of features that addressed specific requirements.",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "sales@ubidots.com",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Ubidots dashboards display live sensor data as it arrives, with instant updates across all connected widgets. You can monitor multiple devices simultaneously in a single dashboard — comparing readings side by side, aggregating values across a fleet, or switching between devices dynamically using built-in device selectors and filters.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We offer +20 visualization widgets ready to use. This wide array will allow you to easily configure your own dashboards based on your IoT solution's logic.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Additionally, Ubidots has an Australian deployment hosted in AWS. This is offered and supported by an Ubidots authorized distributor, invoiced locally in AUD. Reach out to sales@ubidots.com to request more information.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Darryl Schembri",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "At a rate of 2 saved visits per month per site, this could mean at least $100,000 a year in immediate savings, not to mention the value of mitigating product loss, and increased customer satisfaction leading to more sales.",
+    "url": "https://ubidots.com/case-studies/s4iot-keeping-mexican-gardens-alive-using-ubidots-and-quectel",
+    "pass": 1
+   },
+   {
+    "quote": "Para lograr esto, S4IoT usa una plataforma modular de diseño propio que le permite gran flexibilidad a la hora de desarrollar soluciones en una u otra industria. Así como trabajan con Plántica en el monitoreo de jardines urbanos, esta plataforma le permite a S4IoT poder trabajar en prácticamente cualquier industria como la agricultura, los servicios públicos o el transporte, entre otras.",
+    "url": "https://ubidots.com/case-studies/s4iot-manteniendo-vivos-jardines-en-mexico-gracias-a-ubidots-y-quectel",
+    "pass": 1
+   },
+   {
+    "quote": "Gracias a la unión de distintas piezas como los módulos y la conectividad de Quectel, las herramientas para monitorear y desarrollar negocios, además de su propio",
+    "url": "https://ubidots.com/case-studies/s4iot-manteniendo-vivos-jardines-en-mexico-gracias-a-ubidots-y-quectel",
+    "pass": 1
+   },
+   {
+    "quote": "Still under warranty until March",
+    "url": "https://ubidots.com/blog/how-industrial-ai-agents-are-deployed/",
+    "pass": 1
+   },
+   {
+    "quote": "Under warranty",
+    "url": "https://ubidots.com/blog/how-industrial-ai-agents-are-deployed/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask an LLM to find the anomaly in a raw tag history and it will produce a fluent, confident, and frequently wrong answer. Ask it to explain why an anomaly detector fired on Pump 4 while the same pattern on Pump 7 was benign — given both assets' maintenance records — and it does the thing it is actually good at. The rule worth carrying into a deployment:",
+    "url": "https://ubidots.com/blog/how-industrial-ai-agents-are-deployed/",
+    "pass": 1
+   },
+   {
+    "quote": "An industrial AI agent's conclusion is worth nothing if it arrives somewhere nobody is looking. The action channel is how that output reaches a person who can act on it — a technician's phone, an engineering team's chat thread, a manager's inbox — or a system that can act without one, such as a work-order queue.",
+    "url": "https://ubidots.com/blog/how-industrial-ai-agents-are-deployed/",
+    "pass": 1
+   },
+   {
+    "quote": "The messaging channels carry more weight than they appear to. A WhatsApp AI agent reaches the contractor who has never logged into the platform and never will — no app to install, no license to provision, no training session. That single detail often decides whether a deployment survives the end of its pilot.",
+    "url": "https://ubidots.com/blog/how-industrial-ai-agents-are-deployed/",
+    "pass": 1
+   },
+   {
+    "quote": "Then comes the harder question: does the agent notify, or does it act? Advisory agents write nothing — they summarize, rank, and explain, and a person decides. Agents with write access, the autonomous end of the range, can open a work order, acknowledge an alarm, or adjust a setpoint, which is where deployments earn real time back and also where they carry real risk.",
+    "url": "https://ubidots.com/blog/how-industrial-ai-agents-are-deployed/",
+    "pass": 1
+   },
+   {
+    "quote": "Whatever platform you build on, the same four questions decide whether an industrial AI agent deployment holds up: where the live data comes from, what turns it into a judgment, how that judgment reaches someone who can act, and what the agent can reach beyond the platform. Platforms differ mainly in how much of that arrives already assembled.",
+    "url": "https://ubidots.com/blog/how-industrial-ai-agents-are-deployed/",
+    "pass": 1
+   },
+   {
+    "quote": "treats these systems separately from IT because they act on the physical environment and carry their own performance, reliability and safety requirements.",
+    "url": "https://ubidots.com/blog/iot-consumer-vs-commercial-vs-industrial-main-overview/",
+    "pass": 1
+   },
+   {
+    "quote": ", released by the OPC Foundation in 2008 and standardized as IEC 62541, carries structured machine data. Drives and controllers also use Profinet and EtherNet/IP, and",
+    "url": "https://ubidots.com/blog/iot-consumer-vs-commercial-vs-industrial-main-overview/",
+    "pass": 1
+   },
+   {
+    "quote": "reason over live and historical data, answer operational questions in plain language and carry out actions.",
+    "url": "https://ubidots.com/blog/iot-consumer-vs-commercial-vs-industrial-main-overview/",
+    "pass": 1
+   },
+   {
+    "quote": "An industrial energy monitoring system over cellular has two halves: a meter or clamp that measures the circuit, and a cellular uplink that carries the reading out of the building without an IT ticket or a network drop. The measurement half is a solved problem. The uplink is the half worth deciding carefully.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Two more datasheet details worth carrying into a specification. Accuracy is ±1% above 5 A",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Concentrated panel, revenue-grade",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "to a gateway somewhere in the building, and the gateway carries one cellular connection for the whole fleet.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "work, and it is the one that scales into revenue-grade metering. Dedicated meters do the measurement, a",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "rather than a proprietary radio, and one bus can carry many meters — so a single gateway covers a whole switchroom.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "is a capable alternative when the same node also needs non-Modbus instrumentation. Per its user guide it carries RS232 plus RS485 with Modbus RTU, four digital inputs and two outputs, two 4–20 mA and two 0–10 V analog inputs, and two PT100 RTD inputs, with 4G and MQTT, TCP/UDP and SMS application modes.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "A wired CT install carries components that never appear in a parts list written by someone who has not done one. Specify them:",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "The fourth approach removes an entire class of hardware. Instead of sensors plus a gateway, the meter itself carries the radio.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "The trade-off is not accuracy, it is multiplication. One meter measures one three-phase service, and each meter carries its own SIM. At one or two services that is the simplest architecture on this page. At twelve it means twelve cellular subscriptions, and the recurring cost overtakes the hardware saving quickly.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Notecarrier-B",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Notecarrier X",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "current carrier line",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy is a top-three variable cost — barrel heaters and hydraulic pumps — and the number the plant manager wants is kWh per thousand parts, per press, so that a drifting machine shows up as a cost before it shows up as a breakdown.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "12 × (Notecard $58.83 + Notecarrier X $10) = $826",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Answer two questions in order, and the field narrows to one or two options.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "RS485 is the physical wiring standard the meter uses locally, usually carrying Modbus RTU. MQTT is the messaging protocol used to send data over the internet. They operate at different layers — a gateway typically polls the meter over RS485 and republishes those readings as MQTT to the cloud.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Which Blues Notecarrier replaces the Notecarrier-B?",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Blues directs Notecarrier-B users to the Notecarrier X and Notecarrier XM. The B is discontinued but still supported for existing units, so older project write-ups referencing it remain readable — the hardware just is not orderable.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive maintenance beats reactive maintenance on downtime, defects, inventory and lost sales — the effect sizes are published and peer-reviewed.",
+    "url": "https://ubidots.com/blog/iot-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "You stop paying for service that the asset did not need, and you stop paying the premium that emergency repair carries. The McKinsey Global Institute report",
+    "url": "https://ubidots.com/blog/iot-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "10. Protected Revenue",
+    "url": "https://ubidots.com/blog/iot-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Less lost sales",
+    "url": "https://ubidots.com/blog/iot-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Notecarrier",
+    "url": "https://blues.com/partner-catalog/ubidots/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact sales",
+    "url": "https://blues.com/partner-catalog/ubidots/",
+    "pass": 3
+   },
+   {
+    "quote": "Notecarriers",
+    "url": "https://blues.com/partner-catalog/ubidots/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Cristian Arrieta",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue (est)",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル明言": [
+   {
+    "quote": "White-label",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The power of Ubidots — under your own brand",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom domain, colors & logo",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver an experience that puts your brand front and center.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customize your app's layout, navigation, and design to match your brand and user needs.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI for IoT: Your machines, your data, your brand. With AI agents that watch, reason, and act.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver fully branded, white-labeled web or mobile applications for each client or business unit — complete with custom domains, logos, color schemes, and your own branded AI agents — so every experience feels like your platform.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tailor white-labeled dashboards and Apps for operators, technicians, or executives.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use white-labeled apps with your domain, logo, and styling, so your customers see your platform, not someone else’s.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "White label",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Domain, Colors & Logo",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "All plans include access to core features like live dashboards, the events engine, and optional white-labeling. Contact Ubidots to choose the plan that best fits your needs.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely. Ubidots offers both public cloud and private cloud deployment options, and features like multi-tenancy, user roles, white-labeling, and more, making it scalable from prototype to large-scale industrial solutions.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Ubidots provides a fully codeless dashboard builder designed for both technical and non-technical users. You can drag and drop widgets, configure data sources, set custom layouts, and apply your brand's colors and styles — all from a visual interface. For advanced use cases, an HTML Canvas widget lets developers add custom JavaScript, CSS, or React-based visualizations.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I customize and white-label Ubidots dashboards for my clients?",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely. Ubidots supports full white-labeling — you can apply your own logo, color palette, custom domain, and CSS styles so your clients see your brand, not Ubidots. Combined with role-based access and multi-tenant organizations, you can deliver a tailored, branded dashboard experience to each client from a single platform.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "The power of Ubidots — under your own brand",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Custom domain, colors & logo",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver an experience that puts your brand front and center.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Customize your app's layout, navigation, and design to match your brand and user needs.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "White label",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Domain, Colors & Logo",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "The search for an IoT software platform was underpinned by Quantify Environmental’s need for a modern, scalable solution that could accommodate the diverse data streams they deal with, while also allowing them to offer a white-labeled, custom product to their clients.",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "The potential for white-labeling",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "Ubidots' scalability and versatility, along with its white-labeling capabilities, made it a perfect match for Quantify Environmental’s needs. Being able to seamlessly blend Ubidots with their brand quickly stood out, since this resulted in a fully personalized product that truly reflects their company’s unique needs and objectives.",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "White-label",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The power of Ubidots — under your own brand",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Custom domain, colors & logo",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver an experience that puts your brand front and center.",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Customize your app's layout, navigation, and design to match your brand and user needs.",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "White-label",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The power of Ubidots — under your own brand",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom domain, colors & logo",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver an experience that puts your brand front and center.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customize your app's layout, navigation, and design to match your brand and user needs.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "End-Customer & White-label",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-labeled Apps (custom-brand our platform)",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Remove \"Powered by Ubidots\" badge",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-labeled mobile app",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get a version of our mobile app with your own branding and style. This feature is quoted on demand. Contact us at",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-labeled API",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "manager or with a customer support chat powered by",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance your brand presence with custom logo, domain, and colors.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White label",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Domain, Colors & Logo",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise plan holders can extend the app to their end users by white-labeling it on demand. To do this, contact us at",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can Ubidots deliver a white-labeled IoT monitoring portal to my end customers?",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can I have more than one white-labeled domain?",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, you can. Every license over the Industrial plan includes one App (white-labeled portal). If you want multiple white-labeled domains, you can pay it as an overage of $149/month. Check out",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "for more information about the white-label Apps and End-user management.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"No development for 3 years\" — and the bill is climbing toward $20K/month. Here's how Ubidots compares to Eagle.io on pricing, multi-tenancy, Python scripting, and white labeling after the Bentley acquisition.",
+    "url": "https://ubidots.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Facing this scenario, YuDash developed a solution that integrated the LYNX gateway, PLCs, and Ubidots’ white-labeled tools to fully automate this process.",
+    "url": "https://ubidots.com/case-studies/yudash-industrial-iot-solutions-for-energy-management",
+    "pass": 1
+   },
+   {
+    "quote": "\"No development for 3 years\" — and the bill is climbing toward $20K/month. Here's how Ubidots compares to Eagle.io on pricing, multi-tenancy, Python scripting, and white labeling after the Bentley acquisition.",
+    "url": "https://ubidots.com/blog/latest/",
+    "pass": 1
+   },
+   {
+    "quote": "Whitelabel",
+    "url": "https://tago.io/compare/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Compare TagoIO and Ubidots on device connectivity, dashboards, white-label apps, custom code, and pricing models for IoT applications.",
+    "url": "https://tago.io/compare/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "provides white-label portals with user management and an optional branded mobile app.",
+    "url": "https://tago.io/compare/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "White-label / end users",
+    "url": "https://tago.io/compare/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "TagoRUN portal: custom domain, themes, access policies, mobile app option ($99/mo + setup)",
+    "url": "https://tago.io/compare/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Apps: custom domain, branding, end-user organizations and roles, OAuth 2.0",
+    "url": "https://tago.io/compare/ubidots",
+    "pass": 3
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "Developer-friendly environment to code or embed your own widgets or even entire platform pages.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT-Friendly APIs",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build custom interfaces or embed external content to tailor your dashboards to your needs.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data API",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "API Reference",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use templates and APIs to standardize your rollouts and scale client projects efficiently.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use templates and APIs",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Embed connectivity into your equipment and deliver built-in value from day one.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build AI-powered custom widgets and pages, or embed external content, to tailor your dashboards to your needs.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "API Documentation",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT-Friendly APIs",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Developer-friendly environment to code or embed your own widgets or even entire platform pages.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Build custom interfaces or embed external content to tailor your dashboards to your needs.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Data API",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "API Reference",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Secure every API call with token authentication for simple, reliable access control across all devices and integrations.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Ubidots' IoT-Friendly APIs accept data over multiple industry-standard protocols, making it easy to connect any sensor, gateway, or device—from resource-constrained edge hardware to cloud-based services—without changing your stack.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "HTTP REST API",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Secure all API access with per-device or per-application tokens for granular access control.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Ubidots supports four protocols: HTTP (REST API with JSON payloads and token authentication), MQTT (lightweight pub/sub messaging with QoS support), TCP (raw connections for low-overhead communication), and UDP (connectionless for high-frequency data). For hardware using proprietary formats, you can also build a custom ingestion gateway that translates payloads before they reach Ubidots.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "API Documentation",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "API DOCS",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": ". This rapid, real-time data visualization capability enables their clients to",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "API Documentation",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "Developer-friendly environment to code or embed your own widgets or even entire platform pages",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Data API",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "IoT-Friendly APIs",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Build custom interfaces or embed external content to tailor your dashboards to your needs.",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "API Reference",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "API Documentation",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Developer-friendly environment to code or embed your own widgets or even entire platform pages.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "IoT-Friendly APIs",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Build custom interfaces or embed external content to tailor your dashboards to your needs.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data API",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "API Reference",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "$0.1 per million out (API)",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom API rate limits",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "with external services like AWS IoT, Zapier, and more.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "such as weather APIs and data backup tools.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "File storage API",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-labeled API",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Implement your own main host and allow your end users to interact with a custom ingestion API. This feature is quoted on demand.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Build AI-powered custom widgets and pages, or embed external content, to tailor your dashboards to your needs.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data Ingestion API docs",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "API Documentation",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "API Docs",
+    "url": "https://ubidots.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "API DOCS",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "The solution is built on Ubidots, the cloud IoT monitoring platform from which AIS Technology provisions and connects their IoT devices via plugins, MQTT and REST APIs. On Ubidots, they also build custom, user-friendly interfaces, and dashboards which can be easily deployed to customers.",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "API Documentation",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "API DOCS",
+    "url": "https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia",
+    "pass": 1
+   },
+   {
+    "quote": "This was achieved with Ubidots, the Cloud IoT Application layer from which Prospect Control provisions and connects their IoT devices via plugins, MQTT and REST APIs. Ubidots also serves as Prospect Control’s user-friendly end-user interface, and is the place where data is displayed in real time thanks to their easy-to-use dashboards.",
+    "url": "https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia",
+    "pass": 1
+   },
+   {
+    "quote": "IoT has enabled Prospect Control to deliver scalable, economic, and flexible solutions in a rapid fashion and with hardware that is cost-effective compared to traditional alternatives.",
+    "url": "https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia",
+    "pass": 1
+   },
+   {
+    "quote": "API Documentation",
+    "url": "https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia",
+    "pass": 1
+   },
+   {
+    "quote": "API DOCS",
+    "url": "https://ubidots.com/case-studies/s4iot-keeping-mexican-gardens-alive-using-ubidots-and-quectel",
+    "pass": 1
+   },
+   {
+    "quote": "API Documentation",
+    "url": "https://ubidots.com/case-studies/s4iot-keeping-mexican-gardens-alive-using-ubidots-and-quectel",
+    "pass": 1
+   },
+   {
+    "quote": "API Docs",
+    "url": "https://ubidots.com/docs/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT-friendly APIs",
+    "url": "https://ubidots.com/docs/",
+    "pass": 1
+   },
+   {
+    "quote": "MQTT, HTTP, TCP and UDP APIs designed to make your life easier and your firmware lighter.",
+    "url": "https://ubidots.com/docs/",
+    "pass": 1
+   },
+   {
+    "quote": "Interact with our REST API to extend your IoT application",
+    "url": "https://ubidots.com/docs/",
+    "pass": 1
+   },
+   {
+    "quote": "API Reference",
+    "url": "https://ubidots.com/docs/",
+    "pass": 1
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Synthetic Variables",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline device onboarding with templates that define properties, variables, and appearance.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In Ubidots, an AI agent is built directly on top of your existing devices, variables, and dashboards — there's no separate integration step. You configure the agent's model, system prompt, and behavior in the AI Center, and it reasons over the operational data already connected to your account.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Synthetic Variables",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline device onboarding with templates that define properties, variables, and appearance.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Connect devices using lightweight pub/sub messaging with QoS support and retained variable values.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Ubidots supports cloud-to-device communication via MQTT subscriptions. Devices that maintain an active MQTT connection can subscribe to topics and receive commands, configuration changes, or variable updates pushed from Ubidots in real time. This makes MQTT the preferred protocol for bidirectional device communication in Ubidots deployments.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Ease of integration with various IoT hardware",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "Another of Ubidots’ standout features, Synthetic Variables, allows Quantify Environmental to engineer new variables using raw data, creating custom parameters that offer unique insights into their clients' consumption patterns. This feature drives their ability to deliver bespoke, data-driven solutions tailored to each client's specific needs.",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "Synthetic Variables",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline device onboarding with templates that define properties, variables, and appearance.",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Synthetic Variables",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline device onboarding with templates that define properties, variables, and appearance.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "$0.05 per million out (synthetic vars)",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Manage devices, variables and historical data",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A device is a group of up to 20 variables (i.e., temperature, humidity, rain). Each variable is a time-series containing the historical values.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Organize different pages into tabs, or 'layers', within any dashboard. Each layer can hold a variety of content, from other Ubidots pages to external third-party resources.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Organize different pages into tabs, or 'layers', within any device. Each layer can hold a variety of content, from other Ubidots pages to external third-party resources.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Synthetic variables & data transformations",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "synthetic variables",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ask questions about your IoT fleet in plain language and get answers based on your real Ubidots data: check device connectivity, analyze variable trends, spot anomalies, and review active alerts.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Store global variables that can be accessed from various places in your account. With them, store and retrieve: Constants, look-up tables, credentials shared across functions.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trigger Events using another variable as threshold (i.e., when a variable's value is greater than another variable).",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Use your Ubidots App as the host to your IoT resources (devices, and variables) and have a separate, external app where your end users access those resources in a safe and controlled way, and without disclosing any Ubidots credentials, by using OAuth 2.0.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every time a device updates a sensor variable, one data point or \"dot\" is created. For example, if you have a weather station with 4 sensor variables being updated every 10 minutes (i.e., temperature, humidity, pressure, and rain), then your device will generate 4 dots x 6 times/hour x 24 hours x 30 days = 17,280 dots per month, which fits perfectly into most plans.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can I create Devices with more than 20 variables?",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! This is a virtual limit in our system. Devices with more than 20 variables are counted as more than one device. For example, if you have a single weather station sending data to 35 variables, then it would be counted as 2 devices.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How many Synthetic Variables can I create?",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you have any paid license, you might create as many Syntethic Variables as needed. Just keep in mind that once you exceed the 20 variables, the device count might be increased based on our 1 device = 20 variable, as well as the dots count.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ". On the app you can easily explore your devices, quickly see the last values of each device's variable, navigate the historical data of each variable, and view your web dashboards. In the future, receiving Ubidots' Event triggers as phone notifications will be added.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Additionally, Ubidots has an Australian deployment hosted in AWS. This is offered and supported by an Ubidots authorized distributor, invoiced locally in AUD. Reach out to sales@ubidots.com to request more information.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "As systems integrators, they employ Industrial Internet of Things technologies (IIoT) to monitor utilities such as electricity, water, and gas. Their core business is delivering BEMS (Building Energy Management Solutions) but leverages the flexibility of IoT to provide end-to-end solutions in various industry verticals.",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "On-premises devices with 4G and Ethernet connectivity collect data from the various meters. The edge devices collect and store the energy, water and gas consumption data generated by the sensors and transmit it to Ubidots via MQTT.",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "AIS Technology delivered an all-encompassing solution, integrating the various hardware components seamlessly into a single platform that allows the client to efficiently monitor all the utilities in their building.",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "Like this metering and billing solution, IoT has enabled AIS Technology to deliver scalable and flexible solutions to a variety of businesses, thanks to the data generated by a wide range of hardware and visualized through user-friendly dashboards.",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": ", Helium, and Ubidots has resulted in a line of education kits designed to help students learn and create a wide variety of sensor types to make weather monitoring sensors, climate change monitoring sensors, or even pollution particulate sensors for gardening, farming, and other applications.",
+    "url": "https://ubidots.com/case-studies/open-implementing-precision-farming-in-kenya",
+    "pass": 1
+   },
+   {
+    "quote": "YuDash manufactures Industrial IoT gateways and data loggers. With a focus on edge devices, YuDash partners with various cloud platforms to offer complete IoT solutions for energy monitoring, ESG, and asset monitoring for OEMs. YuDash is a hardware partner and",
+    "url": "https://ubidots.com/case-studies/yudash-industrial-iot-solutions-for-energy-management",
+    "pass": 1
+   },
+   {
+    "quote": "Since the energy rates vary from tenant to tenant based on previous agreements made between them and YuDash’s client, this labor-intensive system was not only inefficient and prone to errors, but was also a logistical nightmare in and of itself rather than a solution.",
+    "url": "https://ubidots.com/case-studies/yudash-industrial-iot-solutions-for-energy-management",
+    "pass": 1
+   },
+   {
+    "quote": "The criterion that decides this is not on any datasheet. In practice one variable drives the answer:",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "with split-core CTs is a common specification — three-phase, Modbus RTU over RS485, MID-certified variants available, and register documentation that is widely published.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "takes external ones, which is the variant for retrofit onto existing busbars.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "variants across North American, EMEA and global coverage.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy is a top-three variable cost — barrel heaters and hydraulic pumps — and the number the plant manager wants is kWh per thousand parts, per press, so that a drifting machine shows up as a cost before it shows up as a breakdown.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": ", and that number drives everything below. Prices are indicative US distributor list prices, sourced September 2026; they exclude installation entirely, and regional pricing varies.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Thresholds, moving averages and trend rules on real sensor data capture a large share of the value, and they are far easier to trust and explain. Machine learning earns its place on failure modes where the signature is genuinely multivariate — our",
+    "url": "https://ubidots.com/blog/iot-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Join our partner program for support selling Blues to your customers",
+    "url": "https://blues.com/partner-catalog/ubidots/",
+    "pass": 3
+   },
+   {
+    "quote": "Devices and variables (20 variables per device unit); 6-month retention on Professional, longer on upper tiers",
+    "url": "https://tago.io/compare/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots is a polished application platform with a strong dashboard experience and mature end-user app features, and teams already comfortable with its device-and-variable model build good products on it.",
+    "url": "https://tago.io/compare/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "The Varano Grou...",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "— developer docs (Dashboards, UbiFunctions, Plugins, Synthetic Variables, SDKs, CLI)",
+    "url": "https://github.com/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Point Claude, Cursor, or any MCP-compatible agent at your Ubidots account. Read devices, query variables, inspect dashboards through natural language.",
+    "url": "https://github.com/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Devices & Variables",
+    "url": "https://github.com/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Python CLI — UbiFunctions, devices, variables, local dev server",
+    "url": "https://github.com/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": ". It exposes Ubidots resources (devices, variables, dashboards) to MCP-compatible AI agents like Claude and Cursor.",
+    "url": "https://github.com/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": ". Deploy UbiFunctions, manage devices and variables, and run a local development server.",
+    "url": "https://github.com/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": ", including REST API, MQTT API, UbiFunctions, Synthetic Variables, and SDKs.",
+    "url": "https://github.com/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots CLI — command-line tool to develop, deploy, and manage UbiFunctions, devices, and variables on the Ubidots IoT platform.",
+    "url": "https://github.com/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots Joins the STMicroelectronics Partner Program to Accelerate IoT Development",
+    "url": "https://www.highperformr.ai/company/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots announced it has joined the STMicroelectronics Partner Program. This collaboration aims to make it easier for developers using STMicroelectronics (ST) technologies to connect their devices to the Ubidots IoT platform, accelerating the development and deployment of IoT solutions.",
+    "url": "https://www.highperformr.ai/company/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots LIVE! Lets talk about Synthetic Variables - YouTube",
+    "url": "https://www.youtube.com/watch?v=-EnhSTd0mG0",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "Case Study",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect and visualize field assets across multiple clients and locations.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ubidots is not only robust and reliable, but also extremely user-friendly, offering intuitive data visualization tools that are easily comprehensible by our clients.”",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use white-labeled apps with your domain, logo, and styling, so your customers see your platform, not someone else’s.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage thousands of connected assets across regions and customers, all from one multi-tenant environment.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With Ubidots, our hardware integrates seamlessly into full IoT solutions. Their tools let us deliver scalable, customized platforms that work right out of the box for our customers.”",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quantify Environmental uses Ubidots to monitor utilities across sites, helping clients cut costs through real-time data and alerts.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduced utility expenses across multiple clients",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prospect Control uses Ubidots to deliver remote tank level monitoring for industrial customers, replacing complex PLC/SCADA setups with a scalable, web-based IoT solution.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Significant annual cost savings and faster ROI for industrial clients",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "S4IoT uses Ubidots to remotely monitor irrigation systems in urban gardens, helping clients reduce maintenance costs, prevent plant loss, and shift from manual operations to a scalable subscription-based model.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ubidots is trusted by thousands of companies, engineers, and system integrators in industries such as manufacturing, agriculture, energy, healthcare, smart cities, and more. The platform is ideal for any application that requires remote monitoring and control of connected devices.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I customize and white-label Ubidots dashboards for my clients?",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely. Ubidots supports full white-labeling — you can apply your own logo, color palette, custom domain, and CSS styles so your clients see your brand, not Ubidots. Combined with role-based access and multi-tenant organizations, you can deliver a tailored, branded dashboard experience to each client from a single platform.",
+    "url": "https://ubidots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Quantify Environmental uses wireless IoT sensors and Ubidots dashboards to turn utility data into real-time insights, helping industrial clients monitor water, energy, and gas use, detect inefficiencies, and act before costs rise.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Further exploration revealed a platform that was not only robust and reliable, but also extremely user-friendly, offering intuitive data visualization tools that would be easily comprehensible by our clients.”",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Quantify Environmental uses Ubidots to monitor utilities across sites, helping clients cut costs through real-time data and alerts.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Reduced utility expenses across multiple clients",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Prospect Control uses Ubidots to deliver remote tank level monitoring for industrial customers, replacing complex PLC/SCADA setups with a scalable, web-based IoT solution.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Significant annual cost savings and faster ROI for industrial clients",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "S4IoT uses Ubidots to remotely monitor irrigation systems in urban gardens, helping clients reduce maintenance costs, prevent plant loss, and shift from manual operations to a scalable subscription-based model.",
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Their multi-disciplinary team of seasoned environmental scientists and engineers strategically incorporate IIoT hardware into their clients' industrial and commercial facilities to identify operational anomalies and inefficiencies.",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "“Further exploration revealed a platform that was not only robust and reliable, but also extremely user-friendly, offering intuitive data visualization tools that would be easily comprehensible by our clients.”",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "“with Ubidots, we're not just gathering data, we're turning it into valuable information that can be easily visualized and comprehended by our clients”",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": ". This rapid, real-time data visualization capability enables their clients to",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "The search for an IoT software platform was underpinned by Quantify Environmental’s need for a modern, scalable solution that could accommodate the diverse data streams they deal with, while also allowing them to offer a white-labeled, custom product to their clients.",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "Another of Ubidots’ standout features, Synthetic Variables, allows Quantify Environmental to engineer new variables using raw data, creating custom parameters that offer unique insights into their clients' consumption patterns. This feature drives their ability to deliver bespoke, data-driven solutions tailored to each client's specific needs.",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "Since their inception just over a year ago, Quantify Environmental has experienced a substantial impact on their business, their clients, and the environment as a whole, largely attributable to the powerful solutions provided by Ubidots.",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "well over $250,000 in annual savings for their clients.",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "For Quantify Environmental’s clients, these savings mean more than just reduced operational costs.",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": ". Additionally, the real-time data provided by Ubidots enables their clients to maintain ongoing, proactive oversight of their consumption and emissions.",
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how some of our clients are harnessing the power of IoT.",
+    "url": "https://ubidots.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Monetize your IoT solution directly from your app. Create flat-rate, usage-based, or hybrid plans, assign them to your customers' organizations, and let them subscribe and pay through Stripe, with recurring charges, invoices, and payment tracking handled for you.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Teams",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the enterprise.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can Ubidots deliver a white-labeled IoT monitoring portal to my end customers?",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "I have 100 prospective clients. Do I have to buy an Ubidots license for each one?",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You don’t have to buy multiple licenses for each prospective client. Ubidots operates under the “One-license, multiple customers” model. Using our Organizations module available from the Professional license and above, you’ll be able to create many entities containing Devices, Dashboards, Events, Tokens, and End-users.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We offer 99.5% or 99.9% SLAs for our Enterprise clients.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "IoT water infrastructure monitoring enables water utilities to cut energy costs by 15% and reduce on-site inspections by 18%. This guide covers how remote monitoring works for pumping stations, how it compares to SCADA, and includes a real deployment case study from Guayaquil, Ecuador.",
+    "url": "https://ubidots.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "In the context of soaring energy prices making the headlines all over the world, one of AIS Technology’s clients needed a solution to monitor and automate its collection of utility data, cut energy costs, and ensure that all building services function as efficiently as possible.",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "AIS Technology develops end-to-end solutions which automate and simplify day-to-day business operations for their customers.Their mission is to deliver tailor-made systems which meet their client's needs.",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "AIS Technology’s clients operate in the hospitality, commercial, industrial, manufacturing, agricultural and healthcare industries.",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "\"Using Ubidots has significantly simplified not only our deployments, but also results in a quick ROI for our customers. Thanks to Ubidots, the ‘wow factor’ is delivered to our customers in seconds and we can work for multiple industries instead of focusing just on one\".",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "The solution is built on Ubidots, the cloud IoT monitoring platform from which AIS Technology provisions and connects their IoT devices via plugins, MQTT and REST APIs. On Ubidots, they also build custom, user-friendly interfaces, and dashboards which can be easily deployed to customers.",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "Prospect Control’s clients include manufacturing companies in the agricultural and chemicals industries and utilities companies in water and power generation.",
+    "url": "https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated to industrial control and automation systems, Prospect Control looks to save their customers time and money with the implementation of trustworthy and efficient solutions.",
+    "url": "https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia",
+    "pass": 1
+   },
+   {
+    "quote": "This has been true to their customers, but also to Prospect Control themselves, who, in tandem with industrial partners like",
+    "url": "https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia",
+    "pass": 1
+   },
+   {
+    "quote": ", have managed to incorporate new tools for their solutions, making their job easier, having a bigger impact on their customers, and helping their business grow.",
+    "url": "https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia",
+    "pass": 1
+   },
+   {
+    "quote": "One of Prospect Control’s customers, an agricultural chemicals manufacturer, needs to keep track of tank inventory and confirm liquid stock deliveries from suppliers and to customers. This process would have normally required a traditional PLC/SCADA architecture or a manual process of reading and calculating the tank levels on-site that’s prone to errors.",
+    "url": "https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia",
+    "pass": 1
+   },
+   {
+    "quote": "\"Our customers have been very pleased with the results we have delivered for them applying IoT solutions using Ubidots\".",
+    "url": "https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia",
+    "pass": 1
+   },
+   {
+    "quote": "The aim of Prospect Control was to deliver a remote tank level inventory system that was accessible by their customers via a web-based interface. It was also important for the system to be easy to use, and fast to build and deploy. Abstracting complexity for their customers is key, as well as ease of use of the system.",
+    "url": "https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia",
+    "pass": 1
+   },
+   {
+    "quote": "They don’t just connect devices — S4IoT evaluates the needs of their potential clients and, initially, designs low-scale prototypes of the solution to achieve proof of concept, to then scale upon it.",
+    "url": "https://ubidots.com/case-studies/s4iot-keeping-mexican-gardens-alive-using-ubidots-and-quectel",
+    "pass": 1
+   },
+   {
+    "quote": "One of their clients is Plantica, who offers installation and maintenance of vertical or rooftop gardens, which not only have an aesthetic effect on the spaces, but also contribute to the environment, improving air quality and serving as ecosystems for birds and insects",
+    "url": "https://ubidots.com/case-studies/s4iot-keeping-mexican-gardens-alive-using-ubidots-and-quectel",
+    "pass": 1
+   },
+   {
+    "quote": "For S4IoT, working with Ubidots has been fundamental, because it’s what allowed them to transition from their original business model in which they sold hardware and its maintenance, into their current subscription model that, as in the case of Plantica, also involves monitoring of their clients’ projects or products.",
+    "url": "https://ubidots.com/case-studies/s4iot-keeping-mexican-gardens-alive-using-ubidots-and-quectel",
+    "pass": 1
+   },
+   {
+    "quote": "is an organization that aims to enhance education around the globe by integrating new technologies and real-world relevance into the learning experience. Established in 1998, OPEN initially focused on serving the education sector but has since expanded its reach to include commercial, NGO, and government sectors. Its global network spans 17 countries and includes learners, customers, and partners.",
+    "url": "https://ubidots.com/case-studies/open-implementing-precision-farming-in-kenya",
+    "pass": 1
+   },
+   {
+    "quote": "With a special focus on IoT and AI technologies, OPEN develops sustainable community projects that equip learners and customers with the knowledge and tools to effectively address global challenges such as food security, climate change mitigation, ecosystem restoration, and farm security.",
+    "url": "https://ubidots.com/case-studies/open-implementing-precision-farming-in-kenya",
+    "pass": 1
+   },
+   {
+    "quote": "By combining Ubidots’ tools with the LYNX IoT gateway, their flagship product, YuDash builds scalable solutions that contribute to the achievement of their clients' specific KPIs, such as energy consumption and billing-related issues.",
+    "url": "https://ubidots.com/case-studies/yudash-industrial-iot-solutions-for-energy-management",
+    "pass": 1
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "or logged manually. Set severity levels, assign ownership, and keep a full audit trail. Add",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "IoT Predictive Maintenance: 10 Benefits, Backed by Data",
+    "url": "https://ubidots.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Based on regenerative farming, the Bungoma experiments have produced promising results when compared to traditional farming methods. Backed by data and the implementation of cover crops, no-till farming, and crop rotation, the experiment has managed to increase the soil’s CO2 retention compared to more traditional methods.",
+    "url": "https://ubidots.com/case-studies/open-implementing-precision-farming-in-kenya",
+    "pass": 1
+   },
+   {
+    "quote": "IoT Predictive Maintenance: 10 Benefits, Backed by Data",
+    "url": "https://ubidots.com/blog/latest/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT Predictive Maintenance: 10 Benefits, Backed by Data",
+    "url": "https://ubidots.com/blog/author/agustin/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI agents built on these four layers — data connection, reasoning, action channel and outside tools — are already running in named plants, and vendors from Siemens to Tractian ship the architecture as a product. The public record is specific enough to check, and every example below is backed by the company's own announcement or documentation, listed under Sources.",
+    "url": "https://ubidots.com/blog/how-industrial-ai-agents-are-deployed/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT Predictive Maintenance: 10 Benefits, Backed by Data",
+    "url": "https://ubidots.com/blog/tag/predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT Predictive Maintenance: 10 Benefits, Backed by Data",
+    "url": "https://ubidots.com/blog/iot-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "has been backed by several prominent investors over the years, including:",
+    "url": "https://www.highperformr.ai/company/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Viking Analytics builds MultiViz, an AI platform for vibration-based predictive maintenance. Its machine-learning models monitor hundreds or thousands of sensors with no alarm thresholds or baselines to set up, then rank the machines that need attention and explain the symptoms behind each alert. Customers keep ownership of their data, and MultiViz runs in the cloud or on-premise.",
+    "url": "https://ncd.io/partner/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Additionally, Ubidots has an Australian deployment hosted in AWS. This is offered and supported by an Ubidots authorized distributor, invoiced locally in AUD. Reach out to sales@ubidots.com to request more information.",
+    "url": "https://ubidots.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ", and that number drives everything below. Prices are indicative US distributor list prices, sourced September 2026; they exclude installation entirely, and regional pricing varies.",
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "> Distributors",
+    "url": "https://ncd.io/partner/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors",
+    "url": "https://partners.sigfox.com/companies/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Wiki SeeedStudio (日本語)",
+    "url": "https://wiki.seeedstudio.com/ja/Getting_started_with_Ubidots/",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "Eagle.io Alternatives: How Ubidots Compares After the Bentley Acquisition (2026)",
+    "url": "https://ubidots.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "\"No development for 3 years\" — and the bill is climbing toward $20K/month. Here's how Ubidots compares to Eagle.io on pricing, multi-tenancy, Python scripting, and white labeling after the Bentley acquisition.",
+    "url": "https://ubidots.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "What is SCADA? Supervisory Control & Data Acquisition Explained",
+    "url": "https://ubidots.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Eagle.io Alternatives: How Ubidots Compares After the Bentley Acquisition (2026)",
+    "url": "https://ubidots.com/blog/latest/",
+    "pass": 1
+   },
+   {
+    "quote": "\"No development for 3 years\" — and the bill is climbing toward $20K/month. Here's how Ubidots compares to Eagle.io on pricing, multi-tenancy, Python scripting, and white labeling after the Bentley acquisition.",
+    "url": "https://ubidots.com/blog/latest/",
+    "pass": 1
+   },
+   {
+    "quote": "What is SCADA? Supervisory Control & Data Acquisition Explained",
+    "url": "https://ubidots.com/blog/latest/",
+    "pass": 1
+   },
+   {
+    "quote": "What is SCADA? Supervisory Control & Data Acquisition Explained",
+    "url": "https://ubidots.com/blog/author/agustin/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch your business’ digital initiatives with Ubidots’ IIoT software for cloud-based data acquisition, analysis, and visualization. System Integrators, end users, and OEMs from around the world use Ubidots to effortlessly turn data into action and improve KPIs and services.",
+    "url": "https://blues.com/partner-catalog/ubidots/",
+    "pass": 3
+   },
+   {
+    "quote": "Universal Acquisition Transmitter",
+    "url": "https://partners.sigfox.com/companies/ubidots",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "For these benefits, the IoT solution has resulted in a good return on investments within a few months.",
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "pass": 1
+   },
+   {
+    "quote": "OPEN seeks to plant the seeds of innovation in the apprentices of each project, like those involved in the experiment at Bungoma, Kenya, where the goal is for local farmers to improve their practices and achieve better results with regenerative agriculture through precision farming.",
+    "url": "https://ubidots.com/case-studies/open-implementing-precision-farming-in-kenya",
+    "pass": 1
+   },
+   {
+    "quote": "Time-series buckets plus Entities for structured data; retention configurable up to 9 years",
+    "url": "https://tago.io/compare/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Total Funding",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation Console",
+    "url": "https://www.milemarker.co/integrations/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Center",
+    "url": "https://www.milemarker.co/integrations/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Showcase and analyze proprietary and curated investments.",
+    "url": "https://www.milemarker.co/integrations/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Unify Investment Management",
+    "url": "https://www.milemarker.co/integrations/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.highperformr.ai/company/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "has been backed by several prominent investors over the years, including:",
+    "url": "https://www.highperformr.ai/company/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "View Funding Details",
+    "url": "https://www.highperformr.ai/company/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "View past and recent funding rounds with amounts and investors.",
+    "url": "https://www.highperformr.ai/company/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Explore companies in depth — from the tech they use to recent funding, hiring trends, and buyer signals — all in one powerful view.",
+    "url": "https://www.highperformr.ai/company/ubidots",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Prospect Control is an engineering company that focuses on industrial control and automation systems. It was founded in 2006 by Steve Barker, and is based in Melbourne, Australia.",
+    "url": "https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia",
+    "pass": 1
+   },
+   {
+    "quote": "The company is called Solutions 4 IoT (shortened as S4IoT), it was founded in 2016, has 12 employees, and operates from the state of Jalisco, Mexico, to all of Latin America.",
+    "url": "https://ubidots.com/case-studies/s4iot-keeping-mexican-gardens-alive-using-ubidots-and-quectel",
+    "pass": 1
+   },
+   {
+    "quote": "is an organization that aims to enhance education around the globe by integrating new technologies and real-world relevance into the learning experience. Established in 1998, OPEN initially focused on serving the education sector but has since expanded its reach to include commercial, NGO, and government sectors. Its global network spans 17 countries and includes learners, customers, and partners.",
+    "url": "https://ubidots.com/case-studies/open-implementing-precision-farming-in-kenya",
+    "pass": 1
+   },
+   {
+    "quote": "is an Indian startup based in Delhi. Founded in 2020, YuDash offers Industrial IoT edge products and solutions for a wide range of industries, allowing them to carve a niche customer base worldwide.",
+    "url": "https://ubidots.com/case-studies/yudash-industrial-iot-solutions-for-energy-management",
+    "pass": 1
+   },
+   {
+    "quote": "sending data 24/7. 150K+ STEM users. Operating since 2012.",
+    "url": "https://github.com/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Digi is a leading provider of IoT products and solutions supporting industries from retail and banking to medical, transportation and remote industrial solutions. Since 1985, Digi International Inc. (Digi) has been a pioneer in wireless communication, forging the future for connected devices and responding to the needs of the people and enterprises that use them.",
+    "url": "https://ncd.io/partner/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ubidots : Industrial IoT Platform with AI Agents — Ubidots : Industrial IoT Platform with AI Agents Ubidots https://ubidots.com",
+    "url": "https://ubidots.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots - LinkedIn — Ubidots - LinkedIn LinkedIn https://www.linkedin.com > ubidots",
+    "url": "https://www.linkedin.com/company/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots - LinkedIn — Ubidots - LinkedIn LinkedIn Colombia https://co.linkedin.com > ubidots",
+    "url": "https://co.linkedin.com/company/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots - Blues Wireless — Ubidots - Blues Wireless blues.com https://blues.com > ubidots",
+    "url": "https://blues.com/partner-catalog/ubidots/",
+    "pass": 3
+   },
+   {
+    "quote": "TagoIO vs. Ubidots | IoT Application Platforms Compared — TagoIO vs. Ubidots | IoT Application Platforms Compared TagoIO https://tago.io > Compare",
+    "url": "https://tago.io/compare/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ubidots ? - YouTube — What is Ubidots ? - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=YTQdTAXkq8Y",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots : Revenue , Competitors, Alternatives - Growjo — Ubidots : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Ubidots",
+    "url": "https://growjo.com/company/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots Data Integration - Milemarker — Ubidots Data Integration - Milemarker Milemarker https://www.milemarker.co > ubidots",
+    "url": "https://www.milemarker.co/integrations/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots STEM Software Pricing, Alternatives & More 2026 — Ubidots STEM Software Pricing, Alternatives & More 2026 Capterra https://www.capterra.com > Ubidots",
+    "url": "https://www.capterra.com/p/240058/Ubidots/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots - GitHub — Ubidots - GitHub GitHub https://github.com > ubidots",
+    "url": "https://github.com/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Where is Ubidots Located? HQ, Global Offices & Company ... — Where is Ubidots Located? HQ, Global Offices & Company ... Highperformr https://www.highperformr.ai > ubidots",
+    "url": "https://www.highperformr.ai/company/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots (@ ubidots ) • Instagram photos and videos — Ubidots (@ ubidots ) • Instagram photos and videos Instagram https://www.instagram.com > ubidots",
+    "url": "https://www.instagram.com/ubidots/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots LIVE! Lets talk about Synthetic Variables - YouTube — Ubidots LIVE! Lets talk about Synthetic Variables - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=-EnhSTd0mG0",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots Status — Ubidots Status Ubidots https://status.ubidots.com",
+    "url": "https://status.ubidots.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots | Internet of Things Wiki - Fandom — Ubidots | Internet of Things Wiki - Fandom Fandom https://iot-fpms.fandom.com > Ubidots",
+    "url": "https://iot-fpms.fandom.com/wiki/Ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Application Branding: How to customize your Ubidots user ... — Application Branding: How to customize your Ubidots user ... Ubidots Help Center https://help.ubidots.com > articles > 8...",
+    "url": "https://help.ubidots.com/en/articles/830962-application-branding-how-to-customize-your-ubidots-user-interface",
+    "pass": 3
+   },
+   {
+    "quote": "White -labeled Emails, and a brand-new look for ... - Ubidots API — White -labeled Emails, and a brand-new look for ... - Ubidots API Ubidots https://docs.ubidots.com > changelog",
+    "url": "https://docs.ubidots.com/changelog/a-brand-new-look-for-apps-management",
+    "pass": 3
+   },
+   {
+    "quote": "Custom domain, colors & logo - Ubidots — Custom domain, colors & logo - Ubidots Ubidots https://ubidots.com > Products",
+    "url": "https://ubidots.com/product/custom-domain-colors-logo",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots pricing — View our features and flexible plans — Ubidots pricing — View our features and flexible plans Ubidots https://ubidots.com > pricing",
+    "url": "https://ubidots.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots STEM - GetApp Australia — Ubidots STEM - GetApp Australia GetApp Australia https://www.getapp.com.au > ubidots",
+    "url": "https://www.getapp.com.au/software/2059488/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding the Advantages of the Enterprise Plans — Understanding the Advantages of the Enterprise Plans Ubidots Help Center https://help.ubidots.com > articles > 7...",
+    "url": "https://help.ubidots.com/en/articles/7479170-plans-billing-understanding-the-advantages-of-the-enterprise-plans",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots IoT Platform - CloudBlue | Catalog — Ubidots IoT Platform - CloudBlue | Catalog CloudBlue https://catalog.cloudblue.com > ubido...",
+    "url": "https://catalog.cloudblue.com/products/ubidots-iot-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots - The IoT solution book - Sigfox Partner Network — Ubidots - The IoT solution book - Sigfox Partner Network Sigfox Partner Network https://partners.sigfox.com > ubidots",
+    "url": "https://partners.sigfox.com/companies/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots Codeless IoT Platform - mcThings Cloud Partner — Ubidots Codeless IoT Platform - mcThings Cloud Partner mcThings https://www.mcthings.com > ubidots",
+    "url": "https://www.mcthings.com/partners/ubidots/",
+    "pass": 3
+   },
+   {
+    "quote": "Security: Is Ubidots Secure? — Security: Is Ubidots Secure? Ubidots Help Center https://help.ubidots.com > articles > 8...",
+    "url": "https://help.ubidots.com/en/articles/889691-security-is-ubidots-secure",
+    "pass": 3
+   },
+   {
+    "quote": "The Smart Building Platform for Modern Facility Management — The Smart Building Platform for Modern Facility Management Ubidots https://ubidots.com > Solutions",
+    "url": "https://ubidots.com/solutions/the-smart-building-platform-for-modern-facility-management",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots の使用方法 | Seeed Studio Wiki — Ubidots の使用方法 | Seeed Studio Wiki Seeed Wiki https://wiki.seeedstudio.com > ... > Ubidotsの使用方法",
+    "url": "https://wiki.seeedstudio.com/ja/Getting_started_with_Ubidots/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubidots IoT - App Store - Apple — Ubidots IoT - App Store - Apple Apple https://apps.apple.com > ubidots-iot",
+    "url": "https://apps.apple.com/us/app/ubidots-iot/id6444295464",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Nonprofits",
+    "url": "https://github.com/ubidots",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ubidots - X Ubidots - X X https://x.com > @ubidots",
+    "url": "https://x.com/ubidots/status/2115867483861057597",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ubidots - LinkedIn Ubidots - LinkedIn LinkedIn https://www.linkedin.com > ubidots",
+    "url": "https://www.linkedin.com/company/ubidots",
+    "pass": 3
+   },
+   {
+    "quote": "Agustin Pelaez - CEO/Cofounder at Ubidots - LinkedIn Agustin Pelaez - CEO/Cofounder at Ubidots - LinkedIn LinkedIn Colombia https://co.linkedin.com > agustin1985",
+    "url": "https://co.linkedin.com/in/agustin1985",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ubidots - Facebook Ubidots - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/ubidots/",
+    "pass": 3
+   },
+   {
+    "quote": "The Ubidots mobile app is available to all Android and iOS ... The Ubidots mobile app is available to all Android and iOS ... Facebook https://www.facebook.com > ubidots > posts > the-ubidots...",
+    "url": "https://www.facebook.com/ubidots/posts/the-ubidots-mobile-app-is-available-to-all-android-and-ios-users-with-it-you-can/1480726727392833/",
+    "pass": 3
+   },
+   {
+    "quote": "Is ubidots down for other users Is ubidots down for other users Facebook https://www.facebook.com > StatusIsDown > posts > ubid...",
+    "url": "https://www.facebook.com/StatusIsDown/posts/ubidots-is-reportedly-down-for-some-users-at-the-moment-are-you-one-of-them-ubid/1166066292659495/",
+    "pass": 3
+   },
+   {
+    "quote": "Value-based conditions aren't the only way to trigger an event ... Value-based conditions aren't the only way to trigger an event ... Facebook https://www.facebook.com > ubidots > posts > value-base...",
+    "url": "https://www.facebook.com/ubidots/posts/value-based-conditions-arent-the-only-way-to-trigger-an-event-in-ubidotsyou-can-/1882851343847034/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ubidots.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/product/iot-friendly-apis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/case-studies/s4iot-keeping-mexican-gardens-alive-using-ubidots-and-quectel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/about",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.ubidots.com",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ubidots.com/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/docs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/case-studies/open-implementing-precision-farming-in-kenya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/case-studies/yudash-industrial-iot-solutions-for-energy-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/case-studies/s4iot-manteniendo-vivos-jardines-en-mexico-gracias-a-ubidots-y-quectel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/blog/latest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/blog/tag/ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/blog/author/agustin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/blog/how-industrial-ai-agents-are-deployed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/blog/iot-consumer-vs-commercial-vs-industrial-main-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/blog/tag/energy-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/blog/cellular-energy-monitoring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/blog/tag/predictive-maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/blog/iot-predictive-maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/about",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ubidots.com/docs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubidots.com/blog/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.cyberagent.co.jp/ir/stock/shareholder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/news/0/411152",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/9418/mainshareholder",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/ubidots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fintel.io/so/us/ui",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hedgefollow.com/stocks/IOT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://co.linkedin.com/company/ubidots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blues.com/partner-catalog/ubidots/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tago.io/compare/ubidots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Ubidots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/ubidots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.milemarker.co/integrations/ubidots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1964789/000110465926049721/tm2534221d3_ars.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://s23.q4cdn.com/407969754/files/doc_events/2026/May/04/2025-Annual-Report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.annualreports.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ghco.com/static-files/bb2d3e56-c5eb-419a-ba9f-00b9dffcdbba",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://github.com/ubidots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.milemarker.co/integrations/ubidots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.highperformr.ai/company/ubidots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/ubidots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=-EnhSTd0mG0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://status.ubidots.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.ubidots.com/en/articles/830962-application-branding-how-to-customize-your-ubidots-user-interface",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.ubidots.com/changelog/a-brand-new-look-for-apps-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ubidots_a-customers-alert-goes-off-at-6-am-the-activity-7519115864382701568-QYMv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ubidots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://github.com/ubidots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncd.io/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.ubidots.com/en/articles/7479170-plans-billing-understanding-the-advantages-of-the-enterprise-plans",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.cloudblue.com/products/ubidots-iot-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.sigfox.com/companies/ubidots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=YTQdTAXkq8Y",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://help.ubidots.com/en/articles/889691-security-is-ubidots-secure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.com/p/240058/Ubidots/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ube.com/ube/en/ir/ir_library/financial_results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wiki.seeedstudio.com/ja/Getting_started_with_Ubidots/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/ubidots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://apps.apple.com/us/app/ubidots-iot/id6444295464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/ubidots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/dealroom-co",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ubidots/status/2115867483861057597",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ubidots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://co.linkedin.com/in/agustin1985",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ubidots/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ubidots/posts/the-ubidots-mobile-app-is-available-to-all-android-and-ios-users-with-it-you-can/1480726727392833/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/StatusIsDown/posts/ubidots-is-reportedly-down-for-some-users-at-the-moment-are-you-one-of-them-ubid/1166066292659495/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ubidots/posts/value-based-conditions-arent-the-only-way-to-trigger-an-event-in-ubidotsyou-can-/1882851343847034/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ubidots 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.cyberagent.co.jp/ir/stock/shareholder/",
+    "https://shikiho.toyokeizai.net/news/0/411152",
+    "https://www.buffett-code.com/company/9418/mainshareholder",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://note.com/new_life_science/n/nb108026088f9",
+    "https://www.nikkei.com/article/DGKKZO64139020X00C22A9FFJ000/",
+    "https://www.nid.co.jp/media/2025/02/56kabutsuu.pdf",
+    "https://ir-searcher.com/kobetsu.php?code=34690&type=8",
+    "https://www.toyoshin.co.jp/about/disclosure/disclosure_2024/documents/11.pdf",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "Ubidots shareholders ownership investors parent company",
+   "results": [
+    "https://ubidots.com/",
+    "https://www.linkedin.com/company/ubidots",
+    "https://fintel.io/so/us/ui",
+    "https://hedgefollow.com/stocks/IOT",
+    "https://investors.yubico.com/en/investors/ownership-structure/",
+    "https://www.investopedia.com/insights/ubers-top-investors/",
+    "https://www.investing.com/equities/ubtech-robotics-ownership",
+    "https://finance.yahoo.com/news/uber-technologies-inc-nyse-uber-110026463.html",
+    "https://simplywall.st/stocks/hk/capital-goods/hkg-9880/ubtech-robotics-shares/news/with-37-ownership-ubtech-robotics-corp-ltd-hkg9880-insiders",
+    "https://pitchbook.com/profiles/company/167410-72"
+   ]
+  },
+  {
+   "query": "Ubidots 設立 OR 創業 OR founded",
+   "results": [
+    "https://ubidots.com/",
+    "https://co.linkedin.com/company/ubidots",
+    "https://blues.com/partner-catalog/ubidots/",
+    "https://tago.io/compare/ubidots",
+    "https://www.youtube.com/watch?v=YTQdTAXkq8Y",
+    "https://catalog.cloudblue.com/products/ubidots-iot-platform/",
+    "https://play.google.com/store/apps/details?id=com.ubidots.app",
+    "https://www.instagram.com/ubidots/",
+    "https://www.facebook.com/ubidots/",
+    "https://www.founded.com/about/"
+   ]
+  },
+  {
+   "query": "Ubidots revenue profitable",
+   "results": [
+    "https://growjo.com/company/Ubidots",
+    "https://ubidots.com/",
+    "https://www.linkedin.com/company/ubidots",
+    "https://www.milemarker.co/integrations/ubidots",
+    "https://www.capterra.com/p/240058/Ubidots/",
+    "https://asiagrowthpartners.com/supplier/ubidots/compare/v992",
+    "https://ubidots.com/blog/iot-business-models/",
+    "https://www.iotglobalnetwork.com/companies/single/id/2429/ubidots",
+    "https://www.softwareadvice.ie/software/372396/ubidots",
+    "https://compworth.com/company/ubidots"
+   ]
+  },
+  {
+   "query": "Ubidots EBITDA net income annual report",
+   "results": [
+    "https://www.sec.gov/Archives/edgar/data/1964789/000110465926049721/tm2534221d3_ars.pdf",
+    "https://s23.q4cdn.com/407969754/files/doc_events/2026/May/04/2025-Annual-Report.pdf",
+    "https://www.annualreports.com/",
+    "https://www.ghco.com/static-files/bb2d3e56-c5eb-419a-ba9f-00b9dffcdbba",
+    "https://ubidots.com/",
+    "https://investor.uber.com/financials/default.aspx",
+    "https://www.inwido.com/financials",
+    "https://investors.dieboldnixdorf.com/financials/annual-reports-and-proxy/default.aspx",
+    "https://us-fund.ubs.com/fileID/AF000D0F-E3BF-49F0-808F-699623CE0160/Annual%20Report",
+    "https://compworth.com/company/ubidots"
+   ]
+  },
+  {
+   "query": "Ubidots funding raised",
+   "results": [
+    "https://ubidots.com/",
+    "https://github.com/ubidots",
+    "https://www.milemarker.co/integrations/ubidots",
+    "https://www.highperformr.ai/company/ubidots",
+    "https://www.instagram.com/ubidots/",
+    "https://www.alleywatch.com/2026/07/us-startup-funding-top-largest-june-2026-vc/",
+    "https://co.linkedin.com/company/ubidots",
+    "https://multiples.vc/private-comps/yubi",
+    "https://www.youtube.com/watch?v=fXpa31aegR8",
+    "https://pitchbook.com/profiles/company/167410-72"
+   ]
+  },
+  {
+   "query": "Ubidots acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://ubidots.com/",
+    "https://github.com/ubidots",
+    "https://www.youtube.com/watch?v=-EnhSTd0mG0",
+    "https://status.ubidots.com/",
+    "https://iot-fpms.fandom.com/wiki/Ubidots",
+    "https://www.facebook.com/ubidots/posts/value-based-conditions-arent-the-only-way-to-trigger-an-event-in-ubidotsyou-can-/1882851343847034/",
+    "https://co.linkedin.com/in/agustin1985",
+    "https://simpleclosure.com/blog/insights/intellectual-property-during-insolvency/",
+    "https://forum.arduino.cc/t/simple-alternatives-to-blynk-iot-ubidots/893395",
+    "https://ibbi.gov.in/claims/inner-process/U72900DL2021FTC390638"
+   ]
+  },
+  {
+   "query": "Ubidots white label",
+   "results": [
+    "https://help.ubidots.com/en/articles/830962-application-branding-how-to-customize-your-ubidots-user-interface",
+    "https://ubidots.com/",
+    "https://docs.ubidots.com/changelog/a-brand-new-look-for-apps-management",
+    "https://www.linkedin.com/posts/ubidots_a-customers-alert-goes-off-at-6-am-the-activity-7519115864382701568-QYMv",
+    "https://www.reddit.com/r/homeautomation/comments/1qbrudp/smart_home_installers_would_you_use_a_whitelabel/",
+    "https://www.devicemagic.com/white-label/",
+    "https://www.teacode.io/blog/what-is-white-label-application",
+    "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "https://www.youtube.com/watch?v=40KM5CY2BDo",
+    "https://ubidots.com/products"
+   ]
+  },
+  {
+   "query": "Ubidots rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://ubidots.com/product/custom-domain-colors-logo",
+    "https://ubidots.com/",
+    "https://www.linkedin.com/company/ubidots",
+    "https://ubidots.com/pricing",
+    "https://www.getapp.com.au/software/2059488/ubidots",
+    "https://community.designtaxi.com/topic/45066-is-ubidots-down/",
+    "https://kiloiot.io/blog/best-iot-platform/",
+    "https://thingsboard.io/",
+    "https://ubidots.com/product/app-builder",
+    "https://en.wikipedia.org/wiki/Private_label"
+   ]
+  },
+  {
+   "query": "Ubidots OEM SDK licensing partners",
+   "results": [
+    "https://ubidots.com/",
+    "https://github.com/ubidots",
+    "https://ncd.io/partner/",
+    "https://help.ubidots.com/en/articles/7479170-plans-billing-understanding-the-advantages-of-the-enterprise-plans",
+    "https://netlicensing.io/case-studies/oem-embedded-licensing/",
+    "https://www.yudash.com/partners",
+    "https://www.netburner.com/learn/connecting-to-ubidots-with-netburner/?srsltid=AYCX9vLJsadlZbJwXjgjsZRH4lLj_T8BNQwzxClweK-G-vxOOLiFW77t",
+    "https://www.capterra.com/p/240058/Ubidots/",
+    "https://partners.sigfox.com/companies/ubidots",
+    "https://www.partnerbase.com/ubidots"
+   ]
+  },
+  {
+   "query": "Ubidots reseller partner program",
+   "results": [
+    "https://ubidots.com/",
+    "https://catalog.cloudblue.com/products/ubidots-iot-platform/",
+    "https://partners.sigfox.com/companies/ubidots",
+    "https://www.youtube.com/watch?v=YTQdTAXkq8Y",
+    "https://www.mcthings.com/partners/ubidots/",
+    "https://www.instagram.com/ubidots/",
+    "https://www.milesight.com/company/blog/connect-milesight-ubidots-platform",
+    "https://www.capterra.com/p/240058/Ubidots/",
+    "https://www.splashtop.com/partners/become-a-partner",
+    "https://www.ui.com/partner-hub"
+   ]
+  },
+  {
+   "query": "Ubidots Jahresabschluss OR financial statements",
+   "results": [
+    "https://help.ubidots.com/en/articles/889691-security-is-ubidots-secure",
+    "https://www.capterra.com/p/240058/Ubidots/",
+    "https://ubidots.com/solutions/the-smart-building-platform-for-modern-facility-management",
+    "https://www.ube.com/ube/en/ir/ir_library/financial_results/",
+    "https://int.uzin-utz.com/investors/financial-reports",
+    "https://www.iberdrola.com/shareholders-investors/operational-financial-information/annual-reports",
+    "https://investors.zebra.com/financials/annual-reports/default.aspx",
+    "https://www.inwido.com/financials",
+    "https://investor.uber.com/financials/default.aspx",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets"
+   ]
+  },
+  {
+   "query": "Ubidots Japan",
+   "results": [
+    "https://ubidots.com/",
+    "https://wiki.seeedstudio.com/ja/Getting_started_with_Ubidots/",
+    "https://www.linkedin.com/company/ubidots",
+    "https://apps.apple.com/us/app/ubidots-iot/id6444295464",
+    "https://github.com/ubidots",
+    "https://www.youtube.com/playlist?list=PLlZkMpUnBb2YGc7538yi_muq0ne92ikxr",
+    "https://play.google.com/store/apps/details?id=com.ubidots.app",
+    "https://ubidots.com/stem",
+    "https://partners.sigfox.com/companies/ubidots",
+    "https://fitgap.com/jp/products/ubidots"
+   ]
+  },
+  {
+   "query": "Ubidots employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/",
+    "https://www.linkedin.com/company/ubidots",
+    "https://ubidots.com/",
+    "https://www.crunchbase.com/organization/dealroom-co",
+    "https://www.crunchbase.com/organization/north-8daa",
+    "https://www.owler.com/company/crunchbase",
+    "https://www.zoominfo.com/c/crunchbase/347668538",
+    "https://www.crunchbase.com/hub/companies-fewer-than-50-employees",
+    "https://app.dealroom.co/companies",
+    "https://dealroom.co/our-data/"
+   ]
+  },
+  {
+   "query": "site:note.com Ubidots",
+   "results": [
+    "https://note.com/ya_ikegami/n/n685e09927537",
+    "https://note.com/esb_system/n/n1303c34e2b8a",
+    "https://note.com/esb_system/n/n1303c34e2b8a/comments",
+    "https://note.com/asteria_gravio/n/nf1defd74e44a/comments?hl=en-US",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/天幕のジャードゥーガル",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/kirik/n/n8d03dc1ce205",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ]
+  },
+  {
+   "query": "site:x.com Ubidots",
+   "results": [
+    "https://x.com/ubidots/status/2115867483861057597",
+    "https://x.com/statusisdown/status/2116962158093230331",
+    "https://x.com/orthobullets",
+    "https://x.com:2096/ubidots",
+    "https://x.com/ubidots/status/2107878953570517206",
+    "https://x.com/rogerbit_/status/2063947793627058336",
+    "https://x.com/ubidots/status/1983912088528408754",
+    "https://x.com/apla02",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/adrnvic/status/2116339042962833541"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Ubidots",
+   "results": [
+    "https://www.linkedin.com/company/ubidots",
+    "https://co.linkedin.com/in/agustin1985",
+    "https://co.linkedin.com/in/smarinco",
+    "https://co.linkedin.com/in/cristina-boterob",
+    "https://www.linkedin.com/posts/ubidots_two-people-ask-about-the-same-pump-one-clicks-activity-7520956228106240002-J0Ex",
+    "https://www.linkedin.com/in/lidi-cala-baaa3442",
+    "https://co.linkedin.com/jobs/view/customer-success-iot-engineer-at-ubidots-2973995107",
+    "https://www.linkedin.com/posts/ubidots_machines-speak-in-data-configuring-a-delta-activity-7370841001634201601-x8Sc",
+    "https://www.linkedin.com/posts/odinakachukwu-ovuoba-6813151bb_popular-iot-platforms-cloud-based-1-activity-7340282241069060096-zHlm",
+    "https://co.linkedin.com/in/woakas"
+   ]
+  },
+  {
+   "query": "site:facebook.com Ubidots",
+   "results": [
+    "https://www.facebook.com/ubidots/",
+    "https://www.facebook.com/ubidots/posts/the-ubidots-mobile-app-is-available-to-all-android-and-ios-users-with-it-you-can/1480726727392833/",
+    "https://www.facebook.com/StatusIsDown/posts/ubidots-is-reportedly-down-for-some-users-at-the-moment-are-you-one-of-them-ubid/1166066292659495/",
+    "https://www.facebook.com/ubidots/posts/value-based-conditions-arent-the-only-way-to-trigger-an-event-in-ubidotsyou-can-/1882851343847034/",
+    "https://www.facebook.com/voltjots/posts/contactless-vital-signs-monitor-with-esp32-and-mmwave-radarthis-project-builds-a/122213891720464513/",
+    "https://www.facebook.com/groups/ayudadeprogramador/posts/2192185487829242/",
+    "https://www.facebook.com/rogerbitfanpage/posts/encend%C3%A9-un-foco-detect%C3%A1-fallas-y-subilo-a-la-nube-con-arduino-ethernet-ubidotsha/1065954525652537/",
+    "https://www.facebook.com/ubidots/posts/heres-a-very-well-explained-guide-on-how-vibration-analysis-works-what-machines-/1597326220321360/",
+    "https://www.facebook.com/Rizwankhan300/posts/ecg-patch-monitor-schematic-layout-featuring-an-stm32f405-microcontroller-esp32-/4472896909619235/",
+    "https://www.facebook.com/ubidots/videos/lateral-navigation-in-ubidots-supports-submenus-so-you-can-group-buttons-under-e/1287354291133225/"
+   ]
+  },
+  {
+   "query": "Ubidots note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "Ubidots X 投稿",
+   "results": [
+    "https://ubidots.com/",
+    "https://play.google.com/store/apps/details?id=com.ubidots.app",
+    "https://github.com/ubidots",
+    "https://www.youtube.com/playlist?list=PLlZkMpUnBb2YGc7538yi_muq0ne92ikxr",
+    "https://www.instagram.com/ubidots/",
+    "https://www.youtube.com/watch?v=YTQdTAXkq8Y",
+    "https://www.facebook.com/ubidots/",
+    "https://www.youtube.com/watch?v=4pNdiv9nEBk",
+    "https://x.com:2096/ubidots",
+    "https://community.ubidots.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部49頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部49頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部49頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部49頁・検索20回）",
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部49頁・検索20回）"
+ }
+}

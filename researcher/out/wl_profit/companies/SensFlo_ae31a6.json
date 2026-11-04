@@ -1,0 +1,2308 @@
+{
+ "name": "SensFlo",
+ "aliases": [
+  "SensFlo AI"
+ ],
+ "context": "予知保全・工場IoT 再販・共同ブランド",
+ "researched_at": "2026-11-04T10:56:52.249748+00:00",
+ "official_url": "https://www.sensflo.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "売上": [
+   {
+    "quote": "arrow icon",
+    "url": "https://www.sensflo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lost revenue? Get it back",
+    "url": "https://www.sensflo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Calculate your return on AI investment in under 2-minutes. See exactly how much FloControl™ can increase your revenue.",
+    "url": "https://www.sensflo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "arrow icon",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Co-branded sales and marketing assets to help you sell",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "SensFlo sales team",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "; they're not involved in the sales process itself.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue model",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Hybrid arrangements are common. A hardware OEM might embed SensFlo through the",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "How do SensFlo partners earn revenue?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Each program has its own revenue model. Referral partners earn a referral fee, resellers keep a resale margin, OEM partners pay a licensing fee and set their own prices, consulting partners charge a services fee, and technology partners grow through co-selling and joint go-to-market campaigns.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Client support is included in each engagement, and consulting partners develop new opportunities jointly with the SensFlo sales team. SensFlo is presented under its own brand in this program, so there is no white-label or co-brand option. Firms that want to resell the software itself and keep a margin on each sale should look at the",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting partners charge clients for each implementation engagement, and the SensFlo sales team works with you to develop new opportunities.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Work with the SensFlo sales team to identify and pursue new client opportunities together.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue model",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "arrow icon",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting partners charge their clients a services fee for each implementation engagement. SensFlo becomes a core component of the practice, and the SensFlo sales team works with consulting partners to develop new client opportunities.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Because the product carries your brand, you also take on the parts of the lifecycle a SensFlo customer would normally get from us: installation, first-line support, marketing and sales. SensFlo provides the licensing rights, engineer certification, implementation documentation and escalation support your team needs to do that well. Companies that want a lighter commitment usually start with the",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing and sales for the connected product run through your organization.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "arrow icon",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue model",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Referral partner program for industrial sales networks",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "The SensFlo Referral program pays a fee for qualified introductions to manufacturers that become SensFlo customers. You make the connection, and the SensFlo sales team handles demos, proposals and closing.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "The SensFlo Referral program is a commission arrangement for companies and individuals who already know manufacturing decision-makers. Referral partners register a lead with the SensFlo partner team, and when that prospect becomes a SensFlo customer, the partner is paid a referral fee.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Referral partners carry no technical or implementation responsibility, which gives the program the lowest barrier to entry of the five SensFlo partner programs. The SensFlo sales team runs the demo, proposal and close, and the lead stays credited to you from the moment it is registered. Partners who later want to sell and deploy SensFlo themselves often move into the",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "The SensFlo sales team handles demos, proposals and contracts, so your time goes into making introductions.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Co-branded sales and marketing materials",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Sales consultants",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Machine OEM sales teams",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue model",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Your Partner Success Manager walks you through lead registration and shares co-branded sales materials. No certification is required.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Register leads with the partner team and let the SensFlo sales team take each one from demo to close.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "arrow icon",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Do referral partners take part in the sales process?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "SensFlo sales team",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "; they're not involved in the sales process itself.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "The SensFlo Reseller program is a resale arrangement for systems integrators, automation companies and solution providers that want SensFlo inside their own client offering. Resellers sell SensFlo solutions from",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Co-branded sales and marketing materials",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue model",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "arrow icon",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "SensFlo sales team",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "; they're not involved in the sales process itself.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Technology partners grow revenue through joint selling, referrals and campaigns built around the integration.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue model",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/technology",
+    "pass": 1
+   },
+   {
+    "quote": "arrow icon",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/technology",
+    "pass": 1
+   },
+   {
+    "quote": "arrow icon",
+    "url": "https://www.sensflo.ai/partnerships/partners",
+    "pass": 1
+   },
+   {
+    "quote": "arrow icon",
+    "url": "https://www.sensflo.ai/partnerships/partners/haitian",
+    "pass": 1
+   },
+   {
+    "quote": "increased revenue",
+    "url": "https://www.sensflo.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "arrow icon",
+    "url": "https://www.sensflo.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Secondary market analysis of GP-led transactions and LP stake sales",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "What is SensFlo’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for SensFlo is",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Sales enablement",
+    "url": "https://www.speakfriend.io/services/socials",
+    "pass": 3
+   },
+   {
+    "quote": "arrow icon",
+    "url": "https://www.speakfriend.io/services/socials",
+    "pass": 3
+   },
+   {
+    "quote": "Sure, if you want generic posts with zero strategy. We create content that aligns with your brand voice, sales goals, and feeds your funnel. An intern can post. We build a content system that compounds over time and supports your broader marketing efforts.",
+    "url": "https://www.speakfriend.io/services/socials",
+    "pass": 3
+   },
+   {
+    "quote": "Rev ops, Sales Manager, CSO",
+    "url": "https://www.speakfriend.io/services/socials",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "Calculate your return on AI investment in under 2-minutes. See exactly how much FloControl™ can increase your revenue.",
+    "url": "https://www.sensflo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Investor & Advisor",
+    "url": "https://www.sensflo.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "President & Owner of The CTD Group. Early SensFlo customer and seed investor, instrumental in validating product-market fit and shaping AI-driven CPQ.",
+    "url": "https://www.sensflo.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Strategy & Business Development Analyst at Bobcat Company. Three-time SensFlo investor, instrumental in refining pricing model and supporting GTM strategy.",
+    "url": "https://www.sensflo.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "SensFlo 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Follow capital flows across investors, deals, and industry trends",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Find investment opportunities and active investors faster",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Validate investment decisions with verified company and financial data",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Explore investor track records and activity",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Access timely lending and investment data",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the go-to workflow hub for every investment stage",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Preview our company and investor data",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Insights into deal flow, valuations, and market drivers",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Track how AI is transforming industries and tech investment",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Valuations",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation trends and news for dealmakers",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "News, analysis, and data driving industry and technology investment",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Track the latest trends driving AI investment",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Monitor the latest fintech investment developments",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Rankings of investors, managers, and lenders across asset classes",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation & Funding",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "SensFlo Valuation & Funding",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Raised to Date",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "To view SensFlo’s complete valuation and funding history, request access »",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise SaaS Report: VC Funding Rebounds Beneath Quarter's Headline Decline",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "SensFlo Investors (4)",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Name",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Type",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル明言": [
+   {
+    "quote": "Powered by SensFlo AI",
+    "url": "https://www.sensflo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "License SensFlo and embed it in the equipment you build and sell under your brand.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Co-brand / white label",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Client support is included in each engagement, and consulting partners develop new opportunities jointly with the SensFlo sales team. SensFlo is presented under its own brand in this program, so there is no white-label or co-brand option. Firms that want to resell the software itself and keep a margin on each sale should look at the",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery under the SensFlo brand, since the Consulting program has no white-label or co-brand option.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Co-brand / white label",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Can consulting partners co-brand or white-label SensFlo?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "License SensFlo and embed it in the equipment you build and sell under your brand.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Because the product carries your brand, you also take on the parts of the lifecycle a SensFlo customer would normally get from us: installation, first-line support, marketing and sales. SensFlo provides the licensing rights, engineer certification, implementation documentation and escalation support your team needs to do that well. Companies that want a lighter commitment usually start with the",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Your brand on every screen",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Co-brand / white label",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "No. In the OEM model SensFlo is invisible to end customers. Dashboards, alerts and reports are presented under your brand as part of your product.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Co-brand / white label",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "License SensFlo and embed it in the equipment you build and sell under your brand.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "The SensFlo Reseller program lets certified partners sell and deploy SensFlo inside their own client solutions. You earn a margin on every sale and can co-brand or white-label the platform.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Co-brand or white label",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Present SensFlo alongside your brand or under it, depending on how you sell to your clients.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Co-brand / white label",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Can resellers co-brand or white-label SensFlo?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Resellers can co-brand SensFlo alongside their own brand or white-label it under their brand, depending on how they sell to their clients.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "License SensFlo and embed it in the equipment you build and sell under your brand.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Co-brand / white label",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/technology",
+    "pass": 1
+   },
+   {
+    "quote": "License SensFlo and embed it in the equipment you build and sell under your brand.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by SensFlo AI",
+    "url": "https://www.sensflo.ai/partnerships/partners/haitian",
+    "pass": 1
+   },
+   {
+    "quote": "Original posts, graphics, captions, and repurposed content tailored to your brand voice and audience.",
+    "url": "https://www.speakfriend.io/services/socials",
+    "pass": 3
+   },
+   {
+    "quote": "See how Speak Friend supported SensFlo's rebrand, website content, and social strategy, with triple-digit growth across key marketing metrics.",
+    "url": "https://www.speakfriend.io/services/socials",
+    "pass": 3
+   },
+   {
+    "quote": "Sure, if you want generic posts with zero strategy. We create content that aligns with your brand voice, sales goals, and feeds your funnel. An intern can post. We build a content system that compounds over time and supports your broader marketing efforts.",
+    "url": "https://www.speakfriend.io/services/socials",
+    "pass": 3
+   },
+   {
+    "quote": "We create original content tailored to your brand voice and audience — including thought leadership posts, case study graphics, employee spotlights, event coverage, product highlights, and ad creative. We handle strategy, copywriting, design, and distribution so your team can stay focused on the business.",
+    "url": "https://www.speakfriend.io/services/socials",
+    "pass": 3
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "Custom API access",
+    "url": "https://www.sensflo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "President & Owner of The CTD Group. Early SensFlo customer and seed investor, instrumental in validating product-market fit and shaping AI-driven CPQ.",
+    "url": "https://www.sensflo.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Managing Director & Partner at STS Capital Partners. Global manufacturing executive leading SensFlo's growth in Africa and Middle East while supporting plastics-focused GTM strategy.",
+    "url": "https://www.sensflo.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Managing Director at STS Capital Partners and Co-Founder of Augintel. With SensFlo since inception, shaping long-term value creation and strategic positioning.",
+    "url": "https://www.sensflo.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The SensFlo partner program lets companies that serve manufacturers offer real-time machine monitoring and AI production analytics as part of their own business. Partners earn through referral fees, resale margins, licensing, services fees or co-selling, depending on which of the five programs they join.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Every program includes marketing materials and 24/7 support, and most include a dedicated Partner Success Manager. Companies can combine programs as the relationship grows, for example a machine builder that embeds SensFlo through the",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "OEM program",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "License SensFlo and embed it in the equipment you build and sell under your brand.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Licensing fee",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Machine OEMs",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "CNC, injection molding, and industrial controller manufacturers looking to embed real-time monitoring and analytics directly into their hardware products.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Gain access to co-branded materials and technical resources shared by the partner team. Reseller, OEM, and Consulting partners complete SensFlo certification before their first client engagement.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Yes — many partners evolve over time, for example, starting as Referral partners and moving to Reseller as their SensFlo practice deepens. Hybrid models are also possible; for example, a hardware OEM may also pursue a",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": ", and Consulting Services partners, as these models involve deploying or embedding SensFlo for clients. Referral partners have no certification requirement.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "SensFlo Partner Programs: Referral, Reseller, OEM & More",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Refer, resell, embed, implement or integrate. Each SensFlo partner program sets out how you earn, what your team takes on and what SensFlo provides, so you can pick the one that matches how you already work with manufacturers.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Licensing fee",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "OEM program",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Hybrid arrangements are common. A hardware OEM might embed SensFlo through the",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Every SensFlo partner program includes marketing materials and 24/7 support. Referral, Reseller, OEM and Consulting partners also work with a dedicated Partner Success Manager, and the programs that involve client deployments add technical training and escalation support.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Each program has its own revenue model. Referral partners earn a referral fee, resellers keep a resale margin, OEM partners pay a licensing fee and set their own prices, consulting partners charge a services fee, and technology partners grow through co-selling and joint go-to-market campaigns.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": ". Resellers sell these solutions to their clients, and OEM partners can embed any of them in their own equipment.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "A Partner Success Manager is your main contact at SensFlo from onboarding onward. They walk you through onboarding, answer integration questions, share the co-branded marketing materials and technical resources your program includes, and support you as your SensFlo practice grows. Referral, Reseller, OEM and Consulting partners each work with a dedicated Partner Success Manager.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Licensing fee, your own pricing",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "What you can embed",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Licensing fee",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "A Partner Success Manager is your main contact at SensFlo from onboarding onward. They walk you through onboarding, answer integration questions, share the co-branded marketing materials and technical resources your program includes, and support you as your SensFlo practice grows. Referral, Reseller, OEM and Consulting partners each work with a dedicated Partner Success Manager.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "License SensFlo and embed it in the equipment you build and sell under your brand.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Partner Program for Equipment Makers | SensFlo",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Licensing fee",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "OEM partner program for industrial equipment makers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "The SensFlo OEM program lets machine builders embed real-time monitoring and AI production analytics directly into the equipment they sell. You set the price, keep the brand and own the customer relationship, while SensFlo runs the intelligence underneath.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Licensing fee, your own pricing",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "What you can embed",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "OEM partner program?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Because the product carries your brand, you also take on the parts of the lifecycle a SensFlo customer would normally get from us: installation, first-line support, marketing and sales. SensFlo provides the licensing rights, engineer certification, implementation documentation and escalation support your team needs to do that well. Companies that want a lighter commitment usually start with the",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "OEM partners earn?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "OEM partners pay SensFlo a licensing fee and sell the finished product at whatever price their market supports, which keeps the margin decision entirely on your side.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "You set list prices, bundles and service terms for the monitoring features in your equipment, and the licensing fee stays predictable as volume grows.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Embed any SensFlo level from",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "OEM program require?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "OEM is the most involved of the five programs because your company owns the product end to end. Before your first customer deployment, three things need to be in place.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "OEM partners get?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Software licensing rights to embed SensFlo",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "OEM program",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware OEMs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "OEM program?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Every OEM partner gets a customer-facing landing page on sensflo.ai. These are the partners currently in the program and the pages built with them.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Your engineers complete SensFlo certification and receive the implementation documentation and licensing terms for embedding.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Will customers see the SensFlo brand on OEM products?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "No. In the OEM model SensFlo is invisible to end customers. Dashboards, alerts and reports are presented under your brand as part of your product.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Who sets the price of an OEM product?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "The OEM partner does. OEM partners pay SensFlo a licensing fee and keep full control over the price and margin of the product they sell.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Licensing fee, your own pricing",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "What you can embed",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Machine OEM sales teams",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Licensing fee",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "A Partner Success Manager is your main contact at SensFlo from onboarding onward. They walk you through onboarding, answer integration questions, share the co-branded marketing materials and technical resources your program includes, and support you as your SensFlo practice grows. Referral, Reseller, OEM and Consulting partners each work with a dedicated Partner Success Manager.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "License SensFlo and embed it in the equipment you build and sell under your brand.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Licensing fee, your own pricing",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.sensflo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.sensflo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.sensflo.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.sensflo.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "IIoT Partner Program for Manufacturing | SensFlo",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Compare partner programs",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "SensFlo partner program?",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "The SensFlo partner program lets companies that serve manufacturers offer real-time machine monitoring and AI production analytics as part of their own business. Partners earn through referral fees, resale margins, licensing, services fees or co-selling, depending on which of the five programs they join.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "What partner program fits",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial distributors",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Distributors serving manufacturing clients with strong networks who can make warm introductions to operational and engineering decision-makers.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Gain access to co-branded materials and technical resources shared by the partner team. Reseller, OEM, and Consulting partners complete SensFlo certification before their first client engagement.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "and certification requirements. Referral partners can be operational within days of their onboarding call.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Yes — many partners evolve over time, for example, starting as Referral partners and moving to Reseller as their SensFlo practice deepens. Hybrid models are also possible; for example, a hardware OEM may also pursue a",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Technical certification is required for Reseller,",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": ", and Consulting Services partners, as these models involve deploying or embedding SensFlo for clients. Referral partners have no certification requirement.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "What's the difference between a Referral Partner and a Reseller?",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Referral partners earn a fee by introducing qualified prospects to the",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "bundle SensFlo into their own solutions, take responsibility for deployment, and earn a margin on the sale. Resellers can also certify their engineers to provide Tier 1 client support.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "SensFlo Partner Programs: Referral, Reseller, OEM & More",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "5 Partner Programs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "SensFlo partner programs for",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Refer, resell, embed, implement or integrate. Each SensFlo partner program sets out how you earn, what your team takes on and what SensFlo provides, so you can pick the one that matches how you already work with manufacturers.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "five SensFlo partner programs?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller program",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Which partner program is",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "The Reseller program suits companies that already deliver technology projects to manufacturing clients.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "How do the SensFlo partner programs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "partner program",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "and also build an integration through the Technology program, or a referral partner might move into reselling as its practice grows. The partner team helps structure the combination during onboarding.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "What do all SensFlo partner programs include?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Every SensFlo partner program includes marketing materials and 24/7 support. Referral, Reseller, OEM and Consulting partners also work with a dedicated Partner Success Manager, and the programs that involve client deployments add technical training and escalation support.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Each program has its own revenue model. Referral partners earn a referral fee, resellers keep a resale margin, OEM partners pay a licensing fee and set their own prices, consulting partners charge a services fee, and technology partners grow through co-selling and joint go-to-market campaigns.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Which SensFlo partner program should I choose?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": ". Resellers sell these solutions to their clients, and OEM partners can embed any of them in their own equipment.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "A Partner Success Manager is your main contact at SensFlo from onboarding onward. They walk you through onboarding, answer integration questions, share the co-branded marketing materials and technical resources your program includes, and support you as your SensFlo practice grows. Referral, Reseller, OEM and Consulting partners each work with a dedicated Partner Success Manager.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting Partner Program for IIoT Implementation | SensFlo",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting partner program for manufacturing consultancies",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting partner program?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Client support is included in each engagement, and consulting partners develop new opportunities jointly with the SensFlo sales team. SensFlo is presented under its own brand in this program, so there is no white-label or co-brand option. Firms that want to resell the software itself and keep a margin on each sale should look at the",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller program",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "There currently aren't any examples for this partner program.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "other partner programs?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "A Partner Success Manager is your main contact at SensFlo from onboarding onward. They walk you through onboarding, answer integration questions, share the co-branded marketing materials and technical resources your program includes, and support you as your SensFlo practice grows. Referral, Reseller, OEM and Consulting partners each work with a dedicated Partner Success Manager.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "and certification requirements. Referral partners can be operational within days of their onboarding call.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to our Partner Program",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "partner programs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Partner Program for Equipment Makers | SensFlo",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Programs",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "OEM partner program for industrial equipment makers",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "OEM partner program?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller program",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "Sensors attach to any machine in under 60 seconds without wiring or programming. Most customers have live data on their first day.",
+    "url": "https://www.sensflo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your team gets accurate, current data to work from. Most customers identify losses they didn't know they had within the first 30 days and see 20%+ improvement in utilization.",
+    "url": "https://www.sensflo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We collaborate with clients and partners to create tailored solutions that fit for real-world needs.",
+    "url": "https://www.sensflo.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Partners are a strategic element to SensFlo's go-to-market initiatives. Leverage your expertise to help clients progress their digital transformations, all while building a profitable practice around industry-leading IIoT software.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Certify your engineers and bill clients for SensFlo implementation services.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Introduce qualified manufacturers and earn a fee when they become SensFlo customers.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate your hardware or software with SensFlo and co-sell to shared customers.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Systems integrators and solutions providers building end-to-end operational platforms for factory clients who want to add a data intelligence layer.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Distributors serving manufacturing clients with strong networks who can make warm introductions to operational and engineering decision-makers.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Specialized consultancies focused on operational efficiency, digital transformation, or IIoT who want to deliver best-in-class analytics to their clients.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Help for you and your clients at any hour.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "industries. Partners often specialize in one or more of these verticals. If your clients operate in an adjacent sector,",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": ", and Consulting Services partners, as these models involve deploying or embedding SensFlo for clients. Referral partners have no certification requirement.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Introduce qualified manufacturers and earn a fee when they become SensFlo customers.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "The Consulting program suits firms whose clients hire them to improve how their plants run.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "The Reseller program suits companies that already deliver technology projects to manufacturing clients.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Implement for clients",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Clients support",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": ". Resellers sell these solutions to their clients, and OEM partners can embed any of them in their own equipment.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "The SensFlo Consulting program certifies your engineers to implement SensFlo for clients end to end. You bill for the implementation work and add IIoT analytics to your digital transformation practice.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "The SensFlo Consulting program is a services partnership for firms that implement technology for manufacturing clients. Consulting partners certify their architects and engineers, deliver SensFlo implementations, and bill the client directly for that work, with SensFlo as a core component of their practice.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting partners charge clients for each implementation engagement, and the SensFlo sales team works with you to develop new opportunities.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Bill your clients directly for SensFlo implementation, configuration and rollout work.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting partners implement SensFlo for their clients, so certification comes before the first engagement.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "The Consulting program suits firms whose clients hire them to improve how their plants run.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering IIoT projects for manufacturing clients.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "These consulting firms implement SensFlo for their manufacturing clients.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Implement for clients",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Clients support",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Implement SensFlo for your clients, with 24/7 technical escalation and a Partner Success Manager supporting your team.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting partners charge their clients a services fee for each implementation engagement. SensFlo becomes a core component of the practice, and the SensFlo sales team works with consulting partners to develop new client opportunities.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Introduce qualified manufacturers and earn a fee when they become SensFlo customers.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate your hardware or software with SensFlo and co-sell to shared customers.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "SensFlo is invisible to your customers. Dashboards, alerts and reports appear as part of your product rather than a third-party add-on.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Implement for clients",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Clients support",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Will customers see the SensFlo brand on OEM products?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "No. In the OEM model SensFlo is invisible to end customers. Dashboards, alerts and reports are presented under your brand as part of your product.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Who supports end customers in the OEM program?",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "The OEM partner supports its end customers directly, since the product is sold under the partner's brand. SensFlo supports the partner's certified engineers with escalation support and over-the-air remote support for the IoT devices and software.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": ". Resellers sell these solutions to their clients, and OEM partners can embed any of them in their own equipment.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Certify your engineers and bill clients for SensFlo implementation services.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Introduce qualified manufacturers and earn a fee when they become SensFlo customers.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate your hardware or software with SensFlo and co-sell to shared customers.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "The SensFlo Referral program pays a fee for qualified introductions to manufacturers that become SensFlo customers. You make the connection, and the SensFlo sales team handles demos, proposals and closing.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "With established manufacturing clients who already ask about machine monitoring and analytics.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "That want to recommend a proven monitoring solution to clients without implementing it themselves.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Implement for clients",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Clients support",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Certify your engineers and bill clients for SensFlo implementation services.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate your hardware or software with SensFlo and co-sell to shared customers.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Because resellers deploy SensFlo for their clients, their architects and engineers complete SensFlo certification before the first engagement. Tier 1 client support is optional, and resellers who take it on certify their engineers to handle first-line questions. Companies that want to build SensFlo into their own hardware should look at the",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Present SensFlo alongside your brand or under it, depending on how you sell to your clients.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller partners deploy SensFlo for their clients, so the program asks for certified engineers and ownership of implementation.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Responsibility for implementing SensFlo at your clients' facilities.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "The Reseller program suits companies that already deliver technology projects to manufacturing clients.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering end-to-end IIoT projects for factory clients.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Implement for clients",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Clients support",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Register deals, deploy SensFlo for your clients, and work with your Partner Success Manager as your practice grows.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "SensFlo was founded on the belief that operational excellence shouldn’t be complicated. What began as a vision to simplify machine monitoring evolved into a robust platform that now powers businesses across industries with real-time data insights and predictive analytics.",
+    "url": "https://www.sensflo.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "SensFlo was founded in 2018.",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "A world where every manufacturer has access to enterprise-grade intelligence, enabling data-driven decisions that maximize efficiency and profitability.",
+    "url": "https://www.sensflo.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Partners are a strategic element to SensFlo's go-to-market initiatives. Leverage your expertise to help clients progress their digital transformations, all while building a profitable practice around industry-leading IIoT software.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "SensFlo on Haitian machines starts from $100 USD per machine per month, with an average ROI of 6 months from less downtime and greater efficiency. It also improves profitability by optimizing processes and reducing waste. Compare",
+    "url": "https://www.sensflo.ai/partnerships/partners/haitian",
+    "pass": 1
+   },
+   {
+    "quote": "EBITDA Growth Systems",
+    "url": "https://www.speakfriend.io/services/socials",
+    "pass": 3
+   },
+   {
+    "quote": "See how Speak Friend grew web users by 453% for EBITDA Growth Systems with a focused B2B marketing strategy and stronger digital presence.",
+    "url": "https://www.speakfriend.io/services/socials",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Industrial distributors",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Distributors serving manufacturing clients with strong networks who can make warm introductions to operational and engineering decision-makers.",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial distributors",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "and include machine builders, systems integrators, industrial distributors and consulting firms.",
+    "url": "https://www.sensflo.ai/partnerships/partners",
+    "pass": 1
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "Full ownership",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Owned by you, with SensFlo escalation",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Owned by you, with SensFlo escalation",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Owned by you, with SensFlo escalation",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Owned by you, with SensFlo escalation",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller partners deploy SensFlo for their clients, so the program asks for certified engineers and ownership of implementation.",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Owned by you, with SensFlo escalation",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Haitian Mexico builds the injection molding machines powering production across hundreds of plants: precise, reliable and backed by local support. Learn more at",
+    "url": "https://www.sensflo.ai/partnerships/partners/haitian",
+    "pass": 1
+   },
+   {
+    "quote": "Ownership Status",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "The latest data for closed-end fund returns across strategies",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SensFlo 2026 Company Profile: Valuation, Funding & Investors — SensFlo 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "SensFlo About | Real-Time Manufacturing Intelligence — SensFlo About | Real-Time Manufacturing Intelligence SensFlo https://www.sensflo.ai > about",
+    "url": "https://www.sensflo.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "SensFlo - LinkedIn — SensFlo - LinkedIn LinkedIn https://www.linkedin.com > sensflo",
+    "url": "https://www.linkedin.com/company/sensflo",
+    "pass": 3
+   },
+   {
+    "quote": "SensFlo (@sensfloai) - Facebook — SensFlo (@sensfloai) - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/sensfloai/",
+    "pass": 3
+   },
+   {
+    "quote": "SensFlo : Real-Time Machine Monitoring Software & AI ... — SensFlo : Real-Time Machine Monitoring Software & AI ... SensFlo https://www.sensflo.ai",
+    "url": "https://www.sensflo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "SensFlo 2026 Company Profile : Valuation, Funding & Investors — SensFlo 2026 Company Profile : Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "pass": 3
+   },
+   {
+    "quote": "2027 State of AI in Manufacturing Report - Articles - SensFlo — 2027 State of AI in Manufacturing Report - Articles - SensFlo SensFlo https://www.sensflo.ai > articles > 202...",
+    "url": "https://www.sensflo.ai/articles/2027-state-of-ai-in-manufacturing-report",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller program for industrial IoT solution providers - SensFlo — Reseller program for industrial IoT solution providers - SensFlo SensFlo https://www.sensflo.ai > reseller",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "SensFlo for Consumer Goods: Line & Fill Accuracy Monitoring — SensFlo for Consumer Goods: Line & Fill Accuracy Monitoring SensFlo https://www.sensflo.ai > Industries",
+    "url": "https://www.sensflo.ai/industries/consumer-goods",
+    "pass": 3
+   },
+   {
+    "quote": "Yen Chang, PhD - Founder at SensFlo - LinkedIn — Yen Chang, PhD - Founder at SensFlo - LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/yen-chang-phd-0319b7159",
+    "pass": 3
+   },
+   {
+    "quote": "OEM partner program for industrial equipment makers - SensFlo — OEM partner program for industrial equipment makers - SensFlo SensFlo https://www.sensflo.ai > oem",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "pass": 3
+   },
+   {
+    "quote": "IIoT Partner Program for Manufacturing - SensFlo — IIoT Partner Program for Manufacturing - SensFlo SensFlo https://www.sensflo.ai > partnerships",
+    "url": "https://www.sensflo.ai/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Partner Program for IIoT Integrations - SensFlo — Technology Partner Program for IIoT Integrations - SensFlo SensFlo https://www.sensflo.ai > technology",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/technology",
+    "pass": 3
+   },
+   {
+    "quote": "SensFlo Partner Programs : Referral, Reseller , OEM & More — SensFlo Partner Programs : Referral, Reseller , OEM & More SensFlo https://www.sensflo.ai > partnerships",
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "pass": 3
+   },
+   {
+    "quote": "Industries We Serve: AI Machine Monitoring - SensFlo — Industries We Serve: AI Machine Monitoring - SensFlo SensFlo https://www.sensflo.ai > industries",
+    "url": "https://www.sensflo.ai/industries",
+    "pass": 3
+   },
+   {
+    "quote": "SensFlo FloControl™: Machine Monitoring Software — SensFlo FloControl™: Machine Monitoring Software SensFlo https://www.sensflo.ai > flocontrol",
+    "url": "https://www.sensflo.ai/solutions/flocontrol",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SensFlo - LinkedIn SensFlo - LinkedIn LinkedIn https://www.linkedin.com > sensflo",
+    "url": "https://www.linkedin.com/company/sensflo",
+    "pass": 3
+   },
+   {
+    "quote": "Yen Chang, PhD - Founder at SensFlo - LinkedIn Yen Chang, PhD - Founder at SensFlo - LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/yen-chang-phd-0319b7159",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SensFlo (@sensfloai) - Facebook SensFlo (@sensfloai) - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/sensfloai/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sensflo.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/consulting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/referral",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partners/haitian",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/success-stories/polyplastic-corp-by-bangar",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/65fdf7d97b27cac75bfdd1d8/69f24410d590d1151debfdb1_Zak%20%26%20Yen%20with%20SensFlo%20partners.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.aisan-ind.co.jp/ir/stock/information.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendmicro.com/content/dam/trendmicro/global/ja/about/investor-relations/IR_FactSheet2025_J_final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kyoeisteel.co.jp/ja/ir/stock/shareholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spglobal.com/ratings/jp/regulatory/jpcr/-/pcr-details/pcrId/3569025/titleNum/51806",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fintel.io/so/us/sens",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.signify.com/global/our-company/investors/shareholder-info",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sensflo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sensfloai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://isaiprofitable.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/sensflo_making-ai-useful-on-the-factory-floor-manufacturingtomorrow-activity-7519118743889764353-5Oz2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://investors.sensata.com/financials/quarterly-results/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investor.sensient.com/financials/quarterly-results/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1294924/000119312516602397/d179874d10k.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://s28.q4cdn.com/399982429/files/doc_events/2025/Jun/26/Annual-Report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thefashionlaw.com/generative-artificial-intelligence-investment-and-ma-tracker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-openai-shield/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/in/zakarytsmith",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.spencerfane.com/insight/the-new-distressed-asset-navigating-the-unique-complexities-of-ai-company-bankruptcies/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/when-your-ai-provider-goes-bankrupt-6-ciso-insights-to-stay-ahead-of-ai-vendor-failure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=oTUAdwzTtSQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/in/yen-chang-phd-0319b7159",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.speakfriend.io/services/socials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.speakfriend.io/services/strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syxsense.com/reseller-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/in/zakarytsmith",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sensflo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sensorexpojapan.com/2026/contents_en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/327529-45",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/sense-street",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sensflo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yen-chang-phd-0319b7159",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sensfloai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sensfloai/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SensFlo 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.aisan-ind.co.jp/ir/stock/information.html",
+    "https://www.trendmicro.com/content/dam/trendmicro/global/ja/about/investor-relations/IR_FactSheet2025_J_final.pdf",
+    "https://www.kyoeisteel.co.jp/ja/ir/stock/shareholder.html",
+    "https://www.spglobal.com/ratings/jp/regulatory/jpcr/-/pcr-details/pcrId/3569025/titleNum/51806",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.sensview.com/index/companynews/174.html",
+    "https://www.buffett-code.com/company/290A/mainshareholder",
+    "https://www.matsui.co.jp/parts/pdf-view/web/viewer.html?file=/market/stock/ipo/2019/pdf/IPOreport_70800.pdf",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250428_archive/faod34/140120250428525504.pdf",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "SensFlo shareholders ownership investors parent company",
+   "results": [
+    "https://pitchbook.com/profiles/company/327529-45",
+    "https://www.sensflo.ai/about",
+    "https://fintel.io/so/us/sens",
+    "https://www.signify.com/global/our-company/investors/shareholder-info",
+    "https://www.investing.com/equities/knowledge-atlas-tech-joint-stock-ownership",
+    "https://www.expert.ai/investors/shareholders-information/",
+    "https://investor.dentsplysirona.com/stock-information/ownership-summary/",
+    "https://www.upmarket.co/private-markets/pre-ipo/sentient/",
+    "https://finance.yahoo.com/quote/SENS/holders/",
+    "https://acquirezy.com/organization/sensefly"
+   ]
+  },
+  {
+   "query": "SensFlo 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.sensflo.ai/about",
+    "https://pitchbook.com/profiles/company/327529-45",
+    "https://www.linkedin.com/company/sensflo",
+    "https://www.facebook.com/sensfloai/",
+    "https://www.sensflo.ai/",
+    "https://www.linkedin.com/in/zakarytsmith",
+    "https://www.teknorapex.com/en-us/news/teknor-apex-company-introduces-tekventures",
+    "https://app.dealroom.co/news/note/originflow-founded-by-25-year-old-tsinghua-phd-student-raises-cny-500m-for-embodied-ai",
+    "https://www.sensflo.ai/solutions/flocontrol",
+    "https://www.founded.com/about/"
+   ]
+  },
+  {
+   "query": "SensFlo revenue profitable",
+   "results": [
+    "https://pitchbook.com/profiles/company/327529-45",
+    "https://www.sensflo.ai/articles/2027-state-of-ai-in-manufacturing-report",
+    "https://isaiprofitable.com/",
+    "https://www.linkedin.com/posts/sensflo_making-ai-useful-on-the-factory-floor-manufacturingtomorrow-activity-7519118743889764353-5Oz2",
+    "https://www.scmp.com/tech/tech-trends/article/3366436/how-generative-ai-helps-sensetime-turn-profit-even-chinese-peers-struggle",
+    "https://www.reddit.com/r/ArtificialInteligence/comments/1tiuetz/i_built_a_tracker_of_ai_company_spend_vs_revenue/",
+    "https://www.roboglobaletfs.com/posts/earnings-season-insights-robo-companies-deliver-strong-results-despite-market-headwinds",
+    "https://www.youtube.com/watch?v=mvu4dD4Trqk",
+    "https://www.sensflo.ai/manufacturing-sectors",
+    "https://www.cbinsights.com/company/sensflo/financials"
+   ]
+  },
+  {
+   "query": "SensFlo EBITDA net income annual report",
+   "results": [
+    "https://investors.sensata.com/financials/quarterly-results/default.aspx",
+    "https://investor.sensient.com/financials/quarterly-results/default.aspx",
+    "https://www.sec.gov/Archives/edgar/data/1294924/000119312516602397/d179874d10k.htm",
+    "https://s28.q4cdn.com/399982429/files/doc_events/2025/Jun/26/Annual-Report.pdf",
+    "https://investor.factset.com/static-files/5c6fcdf0-adc4-4efc-bb3d-fb491541ae97",
+    "https://www.ghco.com/static-files/bb2d3e56-c5eb-419a-ba9f-00b9dffcdbba",
+    "https://ir.mind-technology.com/static-files/ccc88c82-f820-4909-b84c-d0182108af65",
+    "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001477294/65efd682-e235-4798-aaa6-0688252df707.pdf",
+    "https://www.macrotrends.net/stocks/charts/SENS/senseonics-holdings/ebitda",
+    "https://pitchbook.com/profiles/company/327529-45"
+   ]
+  },
+  {
+   "query": "SensFlo funding raised",
+   "results": [
+    "https://pitchbook.com/profiles/company/327529-45",
+    "https://www.sensflo.ai/",
+    "https://www.thefashionlaw.com/generative-artificial-intelligence-investment-and-ma-tracker/",
+    "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-openai-shield/",
+    "https://sense.com/consumer-blog/announcing-series-b-investment/",
+    "https://thecyberwire.com/newsletters/business-briefing/8/40",
+    "https://robotsandstartups.substack.com/p/robotics-funding-rounds-by-month-cf9",
+    "https://www.clay.com/dossier/sensor-tower-funding",
+    "https://tracxn.com/d/companies/sense-ai/__kdXpjdxWMTI8D2IEa0Z7RV__12BNfEIO9LVojgXzwLw",
+    "https://www.cbinsights.com/company/sensflo/financials"
+   ]
+  },
+  {
+   "query": "SensFlo acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://pitchbook.com/profiles/company/327529-45",
+    "https://www.linkedin.com/in/zakarytsmith",
+    "https://www.spencerfane.com/insight/the-new-distressed-asset-navigating-the-unique-complexities-of-ai-company-bankruptcies/",
+    "https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/when-your-ai-provider-goes-bankrupt-6-ciso-insights-to-stay-ahead-of-ai-vendor-failure/",
+    "https://angling-international.com/2026/10/01/founder-insists-market-is-there-as-svivlo-enters-insolvency/",
+    "https://insolvencyinsider.ca/p/senvion-gmbh",
+    "https://www.marketsandmarkets.com/ResearchInsight/insolvency-software-market.asp",
+    "https://www.lenzstaehelin.com/news-and-insights/browse-deals-and-cases/dealscases-detail/signa-european-invest-holding-ag-successfully-concludes-debt-restructuring/",
+    "https://www.specchemonline.com/news/esim-chemicals-files-insolvency",
+    "https://www.abi.org/abi-journal/the-perfect-storm-software-valuation-and-restructuring-in-the-age-of-ai"
+   ]
+  },
+  {
+   "query": "SensFlo white label",
+   "results": [
+    "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "https://pitchbook.com/profiles/company/327529-45",
+    "https://www.sensflo.ai/",
+    "https://www.youtube.com/watch?v=oTUAdwzTtSQ",
+    "https://www.sisense.com/blog/white-label-analytics-what-they-are-and-how-they-work/",
+    "https://www.reddit.com/r/AI_Agents/comments/1rf9jok/best_white_label_voice_ai_for_marketing_agencies/",
+    "https://www.wireflow.ai/white-label-ai-generation-platform",
+    "https://synthflow.ai/blog/the-rising-trend-of-white-label-ai",
+    "https://albato.com/blog/publications/embedded-best-white-label-ai-platforms-saas",
+    "https://www.sensflo.ai/partnerships/partner-programs"
+   ]
+  },
+  {
+   "query": "SensFlo rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://www.sensflo.ai/industries/consumer-goods",
+    "https://www.linkedin.com/in/yen-chang-phd-0319b7159",
+    "https://www.speakfriend.io/services/socials",
+    "https://www.speakfriend.io/services/strategy",
+    "https://www.amtonline.org/events/amt-meetups",
+    "https://www.linkedin.com/in/robert-hanna-431aa6104",
+    "https://www.speakfriend.io/",
+    "https://www.linkedin.com/in/tim-naftzger-437b4a116",
+    "https://en.wikipedia.org/wiki/Private_label",
+    "https://en.wikipedia.org/wiki/List_of_Target_brands"
+   ]
+  },
+  {
+   "query": "SensFlo OEM SDK licensing partners",
+   "results": [
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://www.sensflo.ai/partnerships",
+    "https://www.sensflo.ai/partnerships/partner-programs/technology",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://www.linkedin.com/company/sensflo",
+    "https://senzing.com/partners-program-benefits/",
+    "https://netlicensing.io/case-studies/oem-embedded-licensing/",
+    "https://gtmnow.com/enterprise-oem-software-licensing/",
+    "https://c3.ai/news/c3-ai-launches-oem-program",
+    "https://www.sensflo.ai/partnerships/partner-programs"
+   ]
+  },
+  {
+   "query": "SensFlo reseller partner program",
+   "results": [
+    "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "https://www.sensflo.ai/partnerships",
+    "https://www.sensflo.ai/partnerships/partner-programs",
+    "https://www.syxsense.com/reseller-partner-program",
+    "https://xamplify.com/reseller-partner-program-software/",
+    "https://atlas.verdantix.com/vendors/sensflo",
+    "https://www.linkedin.com/posts/sensflo_sensflo-smartmanufacturing-partnership-activity-7504226811380150272-Psb3",
+    "https://spin.ai/partners/become-a-partner/",
+    "https://www.sensflo.ai/faqs",
+    "https://sensibo.com/pages/distributors-and-resellers"
+   ]
+  },
+  {
+   "query": "SensFlo Jahresabschluss OR financial statements",
+   "results": [
+    "https://www.sensflo.ai/industries",
+    "https://pitchbook.com/profiles/company/327529-45",
+    "https://www.sensflo.ai/solutions/flocontrol",
+    "https://www.linkedin.com/in/zakarytsmith",
+    "https://investor.sensient.com/financials/annual-reports/default.aspx",
+    "https://i-sens.com/financial-statement-1/",
+    "https://www.signify.com/global/our-company/investors/financial-reports",
+    "https://finance.yahoo.com/quote/SENS/financials/",
+    "https://www.swisslife.com/en/home/investors/results-and-reports.html",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets"
+   ]
+  },
+  {
+   "query": "SensFlo Japan",
+   "results": [
+    "https://www.sensflo.ai/",
+    "https://www.linkedin.com/company/sensflo",
+    "https://www.sensflo.ai/solutions/flocontrol",
+    "https://sensorexpojapan.com/2026/contents_en/",
+    "https://www.linkedin.com/in/yen-chang-phd-0319b7159",
+    "https://www.tokyokeiki.jp/e/products/sensor/",
+    "https://www.sensflo.ai/solutions",
+    "https://www.marketsandmarkets.com/PressReleases/japan-smart-manufacturing.asp",
+    "https://www.nsk.com/company/career/global/projectstory/cms/",
+    "https://www.sensflo.ai/about"
+   ]
+  },
+  {
+   "query": "SensFlo employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.sensflo.ai/",
+    "https://pitchbook.com/profiles/company/327529-45",
+    "https://www.crunchbase.com/",
+    "https://www.crunchbase.com/organization/sense-street",
+    "https://www.owler.com/company/crunchbase",
+    "https://www.zoominfo.com/c/crunchbase/347668538",
+    "https://www.crunchbase.com/organization/sense-talent-labs",
+    "https://www.linkedin.com/posts/dealroom-co_where-do-ai-companies-rank-against-big-tech-activity-7317539243893944320-_ove",
+    "https://app.dealroom.co/lists/10386",
+    "https://dealroom.co/our-data/"
+   ]
+  },
+  {
+   "query": "site:note.com SensFlo",
+   "results": [
+    "https://note.com/zunda_dd/n/ncc81b0456705",
+    "https://note.com/kirik/n/n8d03dc1ce205",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/lucky_smith3013/n/nf601504769c1",
+    "https://note.com/isomitsuo/n/nd6f66ed87bfd",
+    "https://note.com/kouga_yun/n/n228fbf8fcafc"
+   ]
+  },
+  {
+   "query": "site:x.com SensFlo",
+   "results": [
+    "https://x.com/",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/EagleNXT",
+    "https://x.com/sensefly/status/1014509603328012288",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/Edenlife9/status/2113565596336169327",
+    "https://x.com/CartoCanada"
+   ]
+  },
+  {
+   "query": "site:linkedin.com SensFlo",
+   "results": [
+    "https://www.linkedin.com/company/sensflo",
+    "https://www.linkedin.com/in/zakarytsmith",
+    "https://www.linkedin.com/in/yen-chang-phd-0319b7159",
+    "https://www.linkedin.com/posts/sensflo_making-ai-useful-on-the-factory-floor-manufacturingtomorrow-activity-7519118743889764353-5Oz2",
+    "https://sn.linkedin.com/jobs/view/field-installation-engineer-technician-at-sensflo-4444600327",
+    "https://www.linkedin.com/in/morrisa-clayman",
+    "https://mx.linkedin.com/in/iherreraro",
+    "https://mx.linkedin.com/in/charbel-breydy",
+    "https://www.linkedin.com/in/terry-linker-1b637953",
+    "https://ca.linkedin.com/company/sensefly"
+   ]
+  },
+  {
+   "query": "site:facebook.com SensFlo",
+   "results": [
+    "https://www.facebook.com/sensfloai/",
+    "https://www.facebook.com/haitian.mx/posts/ven-a-descubrirloeste-23-de-octubre-haitian-international-m%C3%A9xico-planta-jalisco/1773480811453233/",
+    "https://www.facebook.com/61583363390369/videos/ryan-chesley-vs-landon-sim-october-30-2026/3606615702846994/",
+    "https://www.facebook.com/haitian.mx/posts/-faltan-22-d%C3%ADasla-cuenta-regresiva-para-nuestro-open-house-2026-ya-comenz%C3%B3este-2/1782524160548898/",
+    "https://www.facebook.com/haitian.mx/posts/-este-23-de-octubre-abre-la-puerta-a-nuevas-oportunidades-de-negocio-en-nuestro-/1744204981047483/",
+    "https://www.facebook.com/ExpoPlasticos/posts/la-fabricaci%C3%B3n-de-dispositivos-m%C3%A9dicos-requiere-materiales-con-propiedades-espec/1660901636082244/",
+    "https://www.facebook.com/groups/2778763822236720/posts/29194633820223027/",
+    "https://www.facebook.com/61583363390369/posts/ryan-chesley-vs-landon-sim-october-30-2026/122151314397112113/",
+    "https://www.facebook.com/haitian.mx/posts/-tecnolog%C3%ADas-en-acci%C3%B3n-este-23-de-octubre-te-esperamos-en-nuestro-open-house-202/1798066188994695/",
+    "https://www.facebook.com/sensfloai/posts/a-simple-way-to-boost-your-production-artificialintelligence-automationwe-are-ru/1286236085124462/"
+   ]
+  },
+  {
+   "query": "SensFlo note 社長",
+   "results": [
+    "https://www.sensflo.ai/about",
+    "https://note.com/ai_shacho",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://www.youtube.com/watch?v=KLy9f-TGcmI",
+    "https://corp.skillnote.jp/message/",
+    "https://www.r-agent.com/viewjob/jk7e758e233c3b360d/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "SensFlo X 投稿",
+   "results": [
+    "https://www.sensflo.ai/pricing",
+    "https://www.instagram.com/sensflo.ai/",
+    "https://www.facebook.com/sensfloai/",
+    "https://www.sensflo.ai/",
+    "https://www.reddit.com/r/SaaS/comments/1oqdc4u/i_built_an_ai_that_autocomments_on_trending_x/?tl=ja",
+    "https://www.youtube.com/watch?v=oTsSSZQzq-g",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://www.asahi.com/articles/ASV9D7GG4V9DULFA001M.html",
+    "https://aimanavo.com/c/kawai/a/RbJpI0YJ84LYqQ",
+    "https://www.instagram.com/sensflo.ai/reels/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部42頁・検索20回）",
+  "設立": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部42頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部42頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部42頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部42頁・検索20回）",
+  "代表者": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部42頁・検索20回）"
+ }
+}

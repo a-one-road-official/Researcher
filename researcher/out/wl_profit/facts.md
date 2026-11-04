@@ -1,4 +1,4 @@
-# ホワイトラベル候補の提供企業 — 黒字・売上・存続・再販条件（事実のみ・9社）
+# ホワイトラベル候補の提供企業 — 黒字・売上・存続・再販条件（事実のみ・15社）
 
 ## 3YOURMIND
 - 公式URL：https://www.3yourmind.com（given）
@@ -283,6 +283,240 @@
 - 売上高：記載なし（3回確認済み：公式17頁／PDF・画像8件／外部43頁・検索14回）
 - 代表者：記載なし（3回確認済み：公式17頁／PDF・画像8件／外部43頁・検索14回）
 
+## Cloud Studio IoT
+- 公式URL：https://cloudstudioiot.com（given）
+- 創業年度：2020 in Madrid, Spain. The team has built IoT projects since 2017, when it started in Argentina.（https://cloudstudioiot.com/about・1回目）
+- 株主構成：
+  - 「Data ownership: who can export it, in what format, and what happens if you change vendor.」（https://cloudstudioiot.com/hub/use-cases/agricultura-precision・1回目）
+  - 「The real driver is that the integrator's asset is the client relationship, and platform ownership decides who holds it. When the dashboard carries the vendor's name, the client's operations team learns the vendor's name. Renewals get compared against the vendor's own direct offering. The integrator becomes an installer.」（https://cloudstudioiot.com/hub/white-label-iot-platform・1回目）
+- 創業年度：
+  - 「2020 in Madrid, Spain. The team has built IoT projects since 2017, when it started in Argentina.」（https://cloudstudioiot.com/about・1回目）
+- 売上：
+  - 「LoRaWAN, MQTT, NB-IoT and more carry that telemetry to the platform.」（https://cloudstudioiot.com/・1回目）
+  - 「Manuel Pérez Larraburu」（https://cloudstudioiot.com/・1回目）
+  - 「Tarragona」（https://cloudstudioiot.com/・1回目）
+  - 「Contact Sales」（https://cloudstudioiot.com/pricing・1回目）
+  - 「Manuel Pérez Larraburu」（https://cloudstudioiot.com/pricing・1回目）
+  - 「Tarragona」（https://cloudstudioiot.com/success-cases・1回目）
+  - 「What Is NB-IoT? How Narrowband IoT Works and When to Use It」（https://cloudstudioiot.com/partners/aws・1回目）
+  - 「NB-IoT (narrowband IoT) explained: how it works, PSM and eDRX, NB-IoT vs LTE-M vs LoRaWAN vs Sigfox, operators in the US, Mexico and Spain, and when to use it.」（https://cloudstudioiot.com/partners/aws・1回目）
+  - 「What Is NB-IoT? How Narrowband IoT Works and When to Use It」（https://cloudstudioiot.com/partners/chirpstack・1回目）
+  - 「NB-IoT (narrowband IoT) explained: how it works, PSM and eDRX, NB-IoT vs LTE-M vs LoRaWAN vs Sigfox, operators in the US, Mexico and Spain, and when to use it.」（https://cloudstudioiot.com/partners/chirpstack・1回目）
+  - 「3GPP-standardized cellular LPWAN — carrier coverage」（https://cloudstudioiot.com/hub/use-cases/asset-tracking・1回目）
+  - 「What Is NB-IoT? How Narrowband IoT Works and When to Use It」（https://cloudstudioiot.com/hub/use-cases/asset-tracking・1回目）
+- 資金調達：
+  - 「Expand your product portfolio without new R&D investment」（https://cloudstudioiot.com/hub/iot-partner-program・1回目）
+  - 「A white-label IoT platform lets an integrator sell an IoT product under its own brand without funding 12 to 24 months of platform engineering first.」（https://cloudstudioiot.com/hub/white-label-iot-platform・1回目）
+  - 「The fastest returns come from lighting, waste, and water; parking and air quality consolidate the investment.」（https://cloudstudioiot.com/hub/lorawan-smart-cities・1回目）
+  - 「With the flexibility to customize solutions to meet your unique business needs, Cloud Studios' IoT Application ensures that you get the most out of your investment.」（https://market.thingpark.com/cloud-studio-iot-platform.html・3回目）
+  - 「The Complete Recipe for Founders, Product Leaders, and Investors」（https://www.goodfirms.co/software/cloud-studio-iot-platform・3回目）
+- 存続：
+  - 「in property damage to the facility. Additionally, the process unit was shut down for nearly a year before restarting operations in November 2024, leading to significant operational downtime and financial losses. ​」（https://cloudstudioiot.com/hub/early-fire-detection-case-study・1回目）
+- ホワイトラベル明言：
+  - 「Your brand, your solution」（https://cloudstudioiot.com/・1回目）
+  - 「Put your logo and your customer's logo on our platform」（https://cloudstudioiot.com/・1回目）
+  - 「White Label」（https://cloudstudioiot.com/pricing・1回目）
+  - 「White Label x2: Instance + Client」（https://cloudstudioiot.com/pricing・1回目）
+  - 「What does white-label customization include?」（https://cloudstudioiot.com/pricing・1回目）
+  - 「White-Label IoT AEP」（https://cloudstudioiot.com/about・1回目）
+  - 「White-Label IoT Platform: Why Integrators Choose It」（https://cloudstudioiot.com/hub/use-cases/asset-tracking・1回目）
+  - 「A white-label IoT platform is infrastructure you rent, dress in your brand, and sell to clients as your own product. The label is the whole point.」（https://cloudstudioiot.com/hub/use-cases/asset-tracking・1回目）
+  - 「White-Label and Mobile」（https://cloudstudioiot.com/hub/iot-partner-program・1回目）
+  - 「delivers. A white-label」（https://cloudstudioiot.com/hub/iot-partner-program・1回目）
+  - 「built for B2B2B partnerships, where your clients see your brand, your domain, and your solution. Behind it is a team whose partners have more than 15 years in technology.」（https://cloudstudioiot.com/hub/iot-partner-program・1回目）
+  - 「white-labeled under your brand」（https://cloudstudioiot.com/hub/iot-partner-program・1回目）
+- OEM・組込み：
+  - 「API Integration」（https://cloudstudioiot.com/pricing・1回目）
+  - 「includes pre-built templates for 100+ sensor types. Custom devices get onboarded through our REST API or」（https://cloudstudioiot.com/hub/iot-partner-program・1回目）
+  - 「Real-time dashboards with drag-and-drop widgets. Rule-based alert engine with multi-channel notifications (email, SMS, push, webhook). Automation rules for device-to-device logic without coding. Historical analytics with trend analysis and exportable reports. Web SCADA interfaces with scripting for industrial-grade control. Full REST API for every platform function.」（https://cloudstudioiot.com/hub/iot-partner-program・1回目）
+  - 「Device management, ingestion, storage, a rules engine, dashboards, an API. This is the part every vendor demonstrates.」（https://cloudstudioiot.com/hub/white-label-iot-platform・1回目）
+  - 「The isolation question deserves a direct answer from the vendor, in writing. "Each client sees only their devices" describes a filter. Ask instead where the tenant identifier is enforced and what happens to a hand-crafted API request that names another tenant's device ID. A platform that answers that question precisely has thought about it. One that answers with a screenshot has not.」（https://cloudstudioiot.com/hub/white-label-iot-platform・1回目）
+  - 「Building only makes sense when the platform itself is the product you intend to sell, and you have the capital to fund two years before revenue. For most integrators, the platform is a means to deliver vertical expertise, and two years of engineering payroll buys a lot of field engineers instead.」（https://cloudstudioiot.com/hub/white-label-iot-platform・1回目）
+  - 「Create a second tenant yourself. Try to reach its data from the first one via the API.」（https://cloudstudioiot.com/hub/white-label-iot-platform・1回目）
+  - 「API before UI.」（https://cloudstudioiot.com/hub/white-label-iot-platform・1回目）
+  - 「Every integration you will ever sell (ERP, BI, GIS, maintenance systems) goes through the API. If it is undocumented or partial, the platform is a silo with a nice dashboard.」（https://cloudstudioiot.com/hub/white-label-iot-platform・1回目）
+  - 「, enabling a rapid response long before」（https://cloudstudioiot.com/hub/early-fire-detection-case-study・1回目）
+  - 「creates a proactive safety net. Sensors continuously feed data into centralized systems that not only trigger immediate alerts for rapid emergency response but also support」（https://cloudstudioiot.com/hub/early-fire-detection-case-study・1回目）
+  - 「above normal levels. Using technologies such as thermistors or thermocouples, these sensors convert temperature changes into electrical signals, which are sampled at intervals as low as one second. This rapid sampling rate ensures that even the earliest thermal anomalies are captured, potentially reducing detection times by up to」（https://cloudstudioiot.com/hub/early-fire-detection-case-study・1回目）
+- 再販制度：
+  - 「Throughout the various IoT projects we have developed together, the collaboration with Cloud Studio IoT has been key to the successful execution of our initiatives.」（https://cloudstudioiot.com/・1回目）
+  - 「Cloud Studio IoT's platform stands out for its ability to integrate a wide variety of LoRaWAN devices and for the outstanding support it offers.」（https://cloudstudioiot.com/・1回目）
+  - 「Can I resell the AI-ready platform under my own brand?」（https://cloudstudioiot.com/・1回目）
+  - 「Cloud Studio IoT's platform stands out for its ability to integrate a wide variety of LoRaWAN devices and for the outstanding support it offers.」（https://cloudstudioiot.com/pricing・1回目）
+  - 「Variables Monitored」（https://cloudstudioiot.com/success-cases・1回目）
+  - 「The next fifteen years will witness a profound transformation driven by the convergence of Artificial Intelligence (AI) and the Internet of Things (IoT). This integration, envisioned by experts like Gerald Santucci, promises advancements across various sectors but also presents s」（https://cloudstudioiot.com/hub/use-cases/agricultura-precision・1回目）
+  - 「Considering Spain for your next LoRaWAN gateway procurement? While the European market offers robust options, navigating local distributors, manufacturers, and」（https://cloudstudioiot.com/hub/use-cases/agricultura-precision・1回目）
+  - 「The next fifteen years will witness a profound transformation driven by the convergence of Artificial Intelligence (AI) and the Internet of Things (IoT). This integration, envisioned by experts like Gerald Santucci, promises advancements across various sectors but also presents s」（https://cloudstudioiot.com/hub/use-cases/structural-monitoring・1回目）
+  - 「Three IoT Partner Program Models, One Platform」（https://cloudstudioiot.com/hub/iot-partner-program・1回目）
+  - 「How the IoT Partner Program Works」（https://cloudstudioiot.com/hub/iot-partner-program・1回目）
+  - 「What the IoT Partner Program Includes」（https://cloudstudioiot.com/hub/iot-partner-program・1回目）
+  - 「Why Partners Choose the IoT Partner Program」（https://cloudstudioiot.com/hub/iot-partner-program・1回目）
+- 日本対応：
+  - 「Considering Spain for your next LoRaWAN gateway procurement? While the European market offers robust options, navigating local distributors, manufacturers, and」（https://cloudstudioiot.com/hub/use-cases/agricultura-precision・1回目）
+  - 「. A distributor or importer who puts a product on the market under their own brand, or who substantially modifies it, is treated as the manufacturer too.」（https://cloudstudioiot.com/hub/white-label-iot-platform・1回目）
+  - 「アメリカ合衆国 (日本語)」（https://play.google.com/store/apps/details?id=studio.cloud.gear・3回目）
+- 顧客：
+  - 「Trusted by industry leaders」（https://cloudstudioiot.com/・1回目）
+  - 「Many customers in one」（https://cloudstudioiot.com/・1回目）
+  - 「Manage multiple customers on a single platform」（https://cloudstudioiot.com/・1回目）
+  - 「Trusted by 100+ companies」（https://cloudstudioiot.com/pricing・1回目）
+  - 「10 clients」（https://cloudstudioiot.com/pricing・1回目）
+  - 「50 clients」（https://cloudstudioiot.com/pricing・1回目）
+  - 「Clients」（https://cloudstudioiot.com/pricing・1回目）
+  - 「What our customers say」（https://cloudstudioiot.com/pricing・1回目）
+  - 「Featured Case Study」（https://cloudstudioiot.com/success-cases・1回目）
+  - 「A multi-tenant IoT platform is the difference between serving twelve clients and running twelve separate systems in order to do it.」（https://cloudstudioiot.com/partners/aws・1回目）
+  - 「A white-label IoT platform is infrastructure you rent, dress in your brand, and sell to clients as your own product. The label is the whole point.」（https://cloudstudioiot.com/hub/use-cases/asset-tracking・1回目）
+  - 「A multi-tenant IoT platform is the difference between serving twelve clients and running twelve separate systems in order to do it.」（https://cloudstudioiot.com/hub/use-cases/fleet-management・1回目）
+- 検索結果の抜粋：
+  - 「Cloud Studio IoT : Industrial AI Software for IoT — Cloud Studio IoT : Industrial AI Software for IoT Cloud Studio IoT https://cloudstudioiot.com」（https://cloudstudioiot.com/・3回目）
+  - 「Cloud Studio IoT - ArcGIS StoryMaps — Cloud Studio IoT - ArcGIS StoryMaps ArcGIS StoryMaps https://storymaps.arcgis.com > stories」（https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907・3回目）
+  - 「Cloud Studio IoT - Apps on Google Play — Cloud Studio IoT - Apps on Google Play Google Play https://play.google.com > apps > details」（https://play.google.com/store/apps/details?id=studio.cloud.gear・3回目）
+  - 「Cloud Studio (@cloudstudioiot) - Facebook — Cloud Studio (@cloudstudioiot) - Facebook Facebook https://www.facebook.com > ... > Internet company」（https://www.facebook.com/cloudstudioiot/・3回目）
+  - 「Cloud Studio IoT (@cloudstudioiot) · Madrid - Instagram — Cloud Studio IoT (@cloudstudioiot) · Madrid - Instagram Instagram https://www.instagram.com > cloudst...」（https://www.instagram.com/cloudstudioiot/・3回目）
+  - 「CLOUD STUDIO - Crunchbase Company Profile & Funding — CLOUD STUDIO - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > cloud-...」（https://www.crunchbase.com/organization/cloud-studio-ltd・3回目）
+  - 「Cloud Studio : IoT Solutions and Hardware — Cloud Studio : IoT Solutions and Hardware iot-apps.com https://www.iot-apps.com > vendors」（https://www.iot-apps.com/vendors/cloud-studio.html・3回目）
+  - 「Cloud Studio | IoT Platform - ThingPark — Cloud Studio | IoT Platform - ThingPark ThingPark https://market.thingpark.com > cloud-...」（https://market.thingpark.com/cloud-studio-iot-platform.html・3回目）
+  - 「Cloud Studio IoT Platform Reviews & Pricing 2026 | Goodfirms — Cloud Studio IoT Platform Reviews & Pricing 2026 | Goodfirms Goodfirms https://www.goodfirms.co > software」（https://www.goodfirms.co/software/cloud-studio-iot-platform・3回目）
+  - 「Cloud Studio's IoT Platform | Internet of Things Wiki - Fandom — Cloud Studio's IoT Platform | Internet of Things Wiki - Fandom Fandom https://iot-fpms.fandom.com > wiki」（https://iot-fpms.fandom.com/wiki/Cloud_Studio%27s_IoT_Platform・3回目）
+  - 「IoT Cloud Platform: Low-Code, White-Label, Multi-Tenant — IoT Cloud Platform: Low-Code, White-Label, Multi-Tenant Cloud Studio IoT https://cloudstudioiot.com > iot-platfo...」（https://cloudstudioiot.com/iot-platform・3回目）
+  - 「Cloud Studio IoT - Crunchbase Company Profile & Funding — Cloud Studio IoT - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > cloud-...」（https://www.crunchbase.com/organization/cloud-studio・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）
+- 黒字・収益性：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）
+
+## Datacake
+- 公式URL：https://datacake.co（given）
+- 従業員数：9（https://getlatka.com/companies/datacake.co・3回目）
+- 株主構成：
+  - 「We are venture-backed by two well-known Swedish investors: Cantaloupe - the founders behind the communications giant Sinch - and Predli. With 1.2 million euros in total funding, their backing supports our mission to deliver world-class IoT solutions in a rapidly growing market.」（https://datacake.co/about・1回目）
+  - 「Backed by the founders of Sinch」（https://datacake.co/about/story・1回目）
+  - 「DataCake.ai is a privacy-first, AI-powered platform that surfaces hidden cash and revenue leakage across your disconnected systems — and drives resolution with clear ownership.」（https://datacake.ai/・3回目）
+  - 「Canonical, our parent company, just announced Zephyr 26.04 Long Term Support (LTS), an enterprise distribution of Zephyr with up to 15 years of security maintenance. Golioth is a crucial part of the distribution, enabling OTA to your devices in the field.」（https://blog.golioth.io/golioth-and-datacake-enable-device-data-visualization-with-a-few-clicks/・3回目）
+  - 「Golioth will join Canonical (our parent company) in a joint webinar discussing the Cyber Resilience Act (CRA) and how it impacts embedded device development.」（https://blog.golioth.io/golioth-and-datacake-enable-device-data-visualization-with-a-few-clicks/・3回目）
+- 創業年度：
+  - 「Datacake was founded in 2016 by Lukas Klein and Simon Kemper with a simple goal: make it effortless to connect, monitor, and manage IoT devices - from battery-powered LoRaWAN sensors to complex industrial machines.」（https://datacake.co/about・1回目）
+  - 「Founded in Germany」（https://datacake.co/about・1回目）
+  - 「Datacake was founded in 2016 by Simon Kemper and Lukas Klein in Vreden, Germany. For years, the two built the company organically and on a solid foundation - no outside capital, no shortcuts. The product: a cloud-based low-code IoT platform that lets small startups and large industrial companies alike manage IoT networks and monitor them with individually configurable dashboards.」（https://datacake.co/about/story・1回目）
+- 黒字・収益性：
+  - 「How a bootstrapped two-person company from Vreden, Germany grew by several hundred percent, convinced the founders of Sinch, and raised 1.2 million euros to become a leading global IoT platform.」（https://datacake.co/about/story・1回目）
+  - 「Bootstrapped from day one」（https://datacake.co/about/story・1回目）
+  - 「“We have a lot of confidence in the Datacake team. I am convinced of the corporate culture that Simon Kemper and Lukas Klein have established. Our vision is to build a profitable and valuable company together with Datacake - the world's leading platform in the IoT market.”」（https://datacake.co/about/story・1回目）
+  - 「Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.」（https://getlatka.com/companies/datacake.co・3回目）
+  - 「You’ll have no problem packing all kinds of display data into one computer screen with this setup. But one added bonus when working with Datacake is that you can generate publicly viewable links that include a dashboard optimized for mobile viewing. Think of sending your prospective customers a link to a sleek dashboard with live data from the proof-of-concept hardware you just bootstrapped.」（https://blog.golioth.io/golioth-and-datacake-enable-device-data-visualization-with-a-few-clicks/・3回目）
+- 売上：
+  - 「Stay under the dB limit, before the complaint letter arrives. Live noise levels across sites, factories and venues.」（https://datacake.co/・1回目）
+  - 「Contact Sales」（https://datacake.co/pricing・1回目）
+  - 「Contact Sales」（https://datacake.co/usecases/temperature-humidity-monitoring・1回目）
+  - 「Contact Sales」（https://datacake.co/usecases/cold-chain-monitoring・1回目）
+  - 「Contact Sales」（https://datacake.co/usecases/indoor-air-quality-monitoring・1回目）
+  - 「Contact Sales」（https://datacake.co/usecases/soil-moisture-monitoring・1回目）
+  - 「, before the complaint letter arrives」（https://datacake.co/usecases/industrial-noise-monitoring・1回目）
+  - 「Contact Sales」（https://datacake.co/usecases/industrial-noise-monitoring・1回目）
+  - 「Quarries & mining」（https://datacake.co/usecases/industrial-noise-monitoring・1回目）
+  - 「Stay under the dB limit, before the complaint letter arrives. Live noise levels across sites, factories and venues.」（https://datacake.co/usecases・1回目）
+  - 「Emails, reports and exports carry your brand」（https://datacake.co/platform/white-label・1回目）
+  - 「Every touchpoint your customers see stays on brand. Alert emails come from your sender address, weekly PDF reports carry your logo and color scheme, and CSV exports use the field names you define. Nothing about the customer experience reveals what is under the hood.」（https://datacake.co/platform/white-label・1回目）
+- 資金調達：
+  - 「Time-series analytics in plain English」（https://datacake.co/platform/ai-assistant・1回目）
+  - 「We are venture-backed by two well-known Swedish investors: Cantaloupe - the founders behind the communications giant Sinch - and Predli. With 1.2 million euros in total funding, their backing supports our mission to deliver world-class IoT solutions in a rapidly growing market.」（https://datacake.co/about・1回目）
+  - 「How a bootstrapped two-person company from Vreden, Germany grew by several hundred percent, convinced the founders of Sinch, and raised 1.2 million euros to become a leading global IoT platform.」（https://datacake.co/about/story・1回目）
+  - 「Total funding」（https://datacake.co/about/story・1回目）
+  - 「In 2022, on the company's fifth anniversary, Datacake closed a seed investment of 650,000 euros - followed by an additional 550,000 euros, bringing total funding to 1.2 million euros. The investors: Cantaloupe AB, founded by Björn Zethraeus and Kristian Männik - the founders behind the communications giant Sinch - and Predli AB, founded by Marcus Zethraeus.」（https://datacake.co/about/story・1回目）
+  - 「Like Datacake, the investors started out self-financed before growing into listed players. Their goal is a strategic, long-term partnership: qualified specialists, new technical functions, multilingual customer support - and a shared vision of making Datacake the world's leading IoT platform.」（https://datacake.co/about/story・1回目）
+  - 「Trusted by 45,000+ founders, operators, and investors.」（https://getlatka.com/companies/datacake.co・3回目）
+  - 「The job is done, goods are delivered, service is rendered — but no invoice has been raised yet. The work happened. The money hasn't moved. This is the most common gap in operations-heavy businesses.」（https://datacake.ai/・3回目）
+  - 「The invoice is raised. The customer is willing to pay. But something is holding it up — a missing proof of delivery, a disputed line item, an approval sitting in someone's inbox. Finance is following up on something ops hasn't resolved.」（https://datacake.ai/・3回目）
+  - 「DataCake sits across all of those systems and connects what they can't show on their own. It surfaces the invoice not raised, the approval not cleared, the collection not progressing — and makes sure the right team acts on it.」（https://datacake.ai/・3回目）
+  - 「DataGrity surfaces the invoice not raised, the approval not cleared, the cash not collected — and routes it to the right team before it becomes a loss.」（https://datacake.ai/・3回目）
+  - 「Even a few days of delay in billing or collections can tie up working capital. These are the numbers that show up most consistently across logistics, manufacturing, and wholesale businesses. The money is earned. The work is done. But until billing closes and collections complete, that cash sits locked — unavailable for the nextthe invoice is raised.」（https://datacake.ai/・3回目）
+- 存続：
+  - 「In 2022, on the company's fifth anniversary, Datacake closed a seed investment of 650,000 euros - followed by an additional 550,000 euros, bringing total funding to 1.2 million euros. The investors: Cantaloupe AB, founded by Björn Zethraeus and Kristian Männik - the founders behind the communications giant Sinch - and Predli AB, founded by Marcus Zethraeus.」（https://datacake.co/about/story・1回目）
+  - 「And no, it’s not a closed system. You can forward data to any third-party platform via webhooks and APIs. 🌐」（https://www.youtube.com/watch?v=e_KgJNJQAi4・3回目）
+  - 「Remembers that you closed the welcome message on the forum, so it is not shown to you again.」（https://iot-shop.de/en/iot-plattform-datacake・3回目）
+- ホワイトラベル明言：
+  - 「Cold-chain, air quality and environmental monitoring, end to end. Free LoRaWAN Network Server, AI assistant, white-label and 400+ device templates included.」（https://datacake.co/・1回目）
+  - 「white label」（https://datacake.co/・1回目）
+  - 「From dashboards and rule-based alerts to white-label, multi-tenancy and a free LoRaWAN Network Server, built for real-world IoT use.」（https://datacake.co/・1回目）
+  - 「White Label」（https://datacake.co/・1回目）
+  - 「Your platform, your brand」（https://datacake.co/・1回目）
+  - 「Customize with your own branding and domain.」（https://datacake.co/・1回目）
+  - 「See White Label」（https://datacake.co/・1回目）
+  - 「Ask questions, generate reports and automate monitoring workflows, powered by AI.」（https://datacake.co/・1回目）
+  - 「Is Datacake suitable for white-label and multi-tenant deployments?」（https://datacake.co/・1回目）
+  - 「White Label App」（https://datacake.co/・1回目）
+  - 「/mo White Label included in the plan」（https://datacake.co/pricing・1回目）
+  - 「1 White Label」（https://datacake.co/pricing・1回目）
+- OEM・組込み：
+  - 「Goesting and Knisper use Milesight LoRaWAN sensors, Datacake dashboards, and smart alerting to continuously monitor refrigerators and freezers, ensuring product quality, food safety, and rapid response to temperature deviations.」（https://datacake.co/・1回目）
+  - 「Stream data to your stack via MQTT, HTTPS webhooks and a REST API: BI, ERP, BMS or in-house services.」（https://datacake.co/・1回目）
+  - 「Roles, permissions, workspaces and isolated customer accounts, built for integrators and OEMs.」（https://datacake.co/lorawan-network-server・1回目）
+  - 「Push decoded payloads to any HTTPS endpoint: internal APIs, BI tools, ERP, BMS, data warehouses, n8n / Zapier / Make. Per-device or per-product routing.」（https://datacake.co/lorawan-network-server・1回目）
+  - 「Datacake retains uplink history per device. Pull it back through CSV / Excel exports or programmatic APIs whenever you need it.」（https://datacake.co/lorawan-network-server・1回目）
+  - 「Export LoRaWAN and IoT sensor data as CSV, JSON or via REST API. Schedule automated backups to S3, Azure or SFTP. Long-term retention, no vendor lock-in.」（https://datacake.co/usecases/temperature-humidity-monitoring・1回目）
+  - 「Pharmacies, hospitals, restaurants, supermarkets, cold-storage warehouses and refrigerated fleets all share the same pain: continuous, verifiable temperature monitoring with rapid alerts and audit-ready paperwork. Datacake ships that out of the box, with hardware kits you can buy and be live within the week.」（https://datacake.co/usecases/cold-chain-monitoring・1回目）
+  - 「Raw data export via API, anytime」（https://datacake.co/usecases/cold-chain-monitoring・1回目）
+  - 「Export LoRaWAN and IoT sensor data as CSV, JSON or via REST API. Schedule automated backups to S3, Azure or SFTP. Long-term retention, no vendor lock-in.」（https://datacake.co/usecases/cold-chain-monitoring・1回目）
+  - 「Export LoRaWAN and IoT sensor data as CSV, JSON or via REST API. Schedule automated backups to S3, Azure or SFTP. Long-term retention, no vendor lock-in.」（https://datacake.co/usecases/indoor-air-quality-monitoring・1回目）
+  - 「Datacake is open. Export historical data to CSV or Excel for your agronomist, push live values into your farm-management software via API, or let Datacake forward readings to your smart-city data lake.」（https://datacake.co/usecases/soil-moisture-monitoring・1回目）
+  - 「REST API and webhooks for live pushes」（https://datacake.co/usecases/soil-moisture-monitoring・1回目）
+- 再販制度：
+  - 「Built for system integrators and distributors.」（https://datacake.co/・1回目）
+  - 「Built for OEMs, resellers and integrators」（https://datacake.co/platform/white-label・1回目）
+  - 「Distributors」（https://datacake.co/platform/white-label・1回目）
+  - 「Teresa Vargas」（https://datacake.co/about・1回目）
+  - 「Join our partner program for support selling Blues to your customers」（https://blues.com/partner-catalog/datacake/・3回目）
+  - 「Datacake is a multi-purpose, low-code IoT platform designed to enable users to create custom IoT applications without needing extensive programming skills. It facilitates easy development and deployment of IoT solutions, supporting various integrations like LoRaWAN, MQTT, and more..」（https://blues.com/partner-catalog/datacake/・3回目）
+  - 「As a Datacake white label site is just a proxy for branding the platform and optionally taking out various elements, your user accounts that work on」（https://docs.datacake.de/organization/white-label・3回目）
+  - 「Competitor pricing is based on publicly available information, last checked 23 September 2026, and may vary. Actual costs depend on your specific usage and plan.」（https://datakubo.com/alternatives/datacake・3回目）
+  - 「var data」（https://blog.golioth.io/golioth-and-datacake-enable-device-data-visualization-with-a-few-clicks/・3回目）
+  - 「4G Solar-powered Varifocal Security Camera」（https://www.milesight.com/company/news/milesight-datacake-technical-partnership・3回目）
+  - 「Channel Partners」（https://www.milesight.com/company/news/milesight-datacake-technical-partnership・3回目）
+  - 「Find a Channel Partner」（https://www.milesight.com/company/news/milesight-datacake-technical-partnership・3回目）
+- 日本対応：
+  - 「Built for system integrators and distributors.」（https://datacake.co/・1回目）
+  - 「Distributors」（https://datacake.co/platform/white-label・1回目）
+  - 「Milesight Announces Embedded Works as Authorized Distributor in the United States」（https://www.milesight.com/company/news/milesight-datacake-technical-partnership・3回目）
+  - 「Distributor」（https://www.milesight.com/company/news/milesight-datacake-technical-partnership・3回目）
+  - 「日本国内に加えて、165以上の国と地域において追加料金なしでローミングサービスを利用可能」（https://www.softbank.jp/biz/blog/cloud-technology/articles/202404/1nce-plugin-datacake-line/・3回目）
+  - 「一応、Datacake側の制限として、送信するテキストに日本語が使えないということになっているので、仕方がなく「植木（ウンベラタ）の水が切れているようです」（https://www.softbank.jp/biz/blog/cloud-technology/articles/202404/1nce-plugin-datacake-line/・3回目）
+  - 「メールの場合は、日本語で送信ですが、その代わりセンサーの値を送信することができません」（https://www.softbank.jp/biz/blog/cloud-technology/articles/202404/1nce-plugin-datacake-line/・3回目）
+- 顧客：
+  - 「Trusted by IoT teams in 50+ countries」（https://datacake.co/・1回目）
+  - 「Drag-and-drop reports for audits, management and customers.」（https://datacake.co/・1回目）
+  - 「For customers, audits or internal use.」（https://datacake.co/・1回目）
+  - 「All prices exclude VAT. The white-label app requires an active Datacake White Label plan; your customers' devices are billed through your regular Datacake subscription.」（https://datacake.co/pricing・1回目）
+  - 「What payment options do you provide for clients?」（https://datacake.co/pricing・1回目）
+  - 「Scheduled PDF reports from a drag-and-drop editor, plus CSV / Excel exports and backups for audits and customers.」（https://datacake.co/lorawan-network-server・1回目）
+  - 「Around 40% of Datacake customers use the platform to monitor temperature and humidity: in pharma cold chains, food warehouses, production halls, offices, museums and server rooms. The pattern is always the same: place wireless sensors, plug in a gateway, and see every reading live in one dashboard.」（https://datacake.co/usecases/temperature-humidity-monitoring・1回目）
+  - 「Where customers use Datacake for temperature & humidity」（https://datacake.co/usecases/temperature-humidity-monitoring・1回目）
+  - 「The numbers below are typical outcomes customers report within the first year of deployment. Your project will differ. Talk to us for a tailored ROI model.」（https://datacake.co/usecases/temperature-humidity-monitoring・1回目）
+  - 「Where customers use Datacake for cold chain」（https://datacake.co/usecases/cold-chain-monitoring・1回目）
+  - 「Numbers reported by Datacake cold-chain customers during their first year. Your project will differ. Talk to us for a tailored ROI model.」（https://datacake.co/usecases/cold-chain-monitoring・1回目）
+  - 「Where customers deploy IAQ monitoring」（https://datacake.co/usecases/indoor-air-quality-monitoring・1回目）
+- 検索結果の抜粋：
+  - 「Our Story: The Diamond Among IoT Platforms - Datacake — Our Story: The Diamond Among IoT Platforms - Datacake Datacake https://datacake.co > about > story」（https://datacake.co/about/story・3回目）
+  - 「Datacake - Blues — Datacake - Blues blues.com https://blues.com > datacake」（https://blues.com/partner-catalog/datacake/・3回目）
+  - 「Datacake - LinkedIn — Datacake - LinkedIn LinkedIn https://de.linkedin.com > datacake」（https://de.linkedin.com/company/datacake・3回目）
+  - 「Overview | Datacake Docs — Overview | Datacake Docs Datacake Docs https://docs.datacake.de > overview」（https://docs.datacake.de/ai-assistant/overview・3回目）
+  - 「Datacake Revenue 2025: $990K Est. - GetLatka — Datacake Revenue 2025: $990K Est. - GetLatka GetLatka https://getlatka.com > datacake」（https://getlatka.com/companies/datacake.co・3回目）
+  - 「DataCake .ai — Stop Revenue Leakage | Cash Flow Visibility ... — DataCake .ai — Stop Revenue Leakage | Cash Flow Visibility ... datacake.ai https://datacake.ai」（https://datacake.ai/・3回目）
+  - 「Datacake Alternative: Test IoT Automation with Kilo — Datacake Alternative: Test IoT Automation with Kilo Kilo IoT https://kiloiot.io > Compare」（https://kiloiot.io/compare/datacake/・3回目）
+  - 「Support Packages - Datacake Docs — Support Packages - Datacake Docs Datacake Docs https://docs.datacake.de > billing > su...」（https://docs.datacake.de/organization/billing/support-packages・3回目）
+  - 「Datacake Docs: Welcome — Datacake Docs: Welcome Datacake Docs https://docs.datacake.de」（https://docs.datacake.de/・3回目）
+  - 「How to Set Up the Datacake Gateway (The Wireless IoT Hub) — How to Set Up the Datacake Gateway (The Wireless IoT Hub) YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=e_KgJNJQAi4・3回目）
+  - 「Datacake - So einfach war LoRaWAN noch nie! - IoT-Shop — Datacake - So einfach war LoRaWAN noch nie! - IoT-Shop IoT-Shop https://iot-shop.de > iot-plattform-dat...」（https://iot-shop.de/en/iot-plattform-datacake・3回目）
+  - 「Datacake - Status — Datacake - Status Datacake - Status https://datacake-status.com」（https://datacake-status.com/・3回目）
+- 株主：記載なし（3回確認済み：公式21頁／PDF・画像6件／外部54頁・検索20回）
+- 設立：記載なし（3回確認済み：公式21頁／PDF・画像6件／外部54頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式21頁／PDF・画像6件／外部54頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式21頁／PDF・画像6件／外部54頁・検索20回）
+- 代表者：記載なし（3回確認済み：公式21頁／PDF・画像6件／外部54頁・検索20回）
+
 ## Enektri
 - 公式URL：https://enektri.com（given）
 - 売上：
@@ -323,6 +557,170 @@
 - 再販制度：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
 - 日本対応：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
 - 顧客：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
+
+## Grid Connect
+- 公式URL：https://www.gridconnect.com（given）
+- 売上高：154,720 31,021（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+- 株主構成：
+  - 「Full ownership」（https://www.gridconnect.com/・1回目）
+  - 「Whether you’re sourcing a standard networking device or looking for a hard-to-find part, our distribution team delivers the right solution, backed by engineers who understand how it fits into your system.」（https://www.gridconnect.com/pages/why-us・1回目）
+  - 「Full ownership」（https://www.gridconnect.com/pages/why-us・1回目）
+  - 「"We needed a partner who could work with us for a successful market-launch from idea to consumer research to store shelves in less than a year.” Eric Tinnemeyer, President at Wayne Water’s parent company, Scott Fetzer Consumer Brands」（https://www.gridconnect.com/blogs/our-customer-stories・1回目）
+  - 「"We needed a partner who could work with us for a successful market-launch from idea to consumer research to store shelves in less than a year.” Eric Tinnemeyer, President at Wayne Water’s parent company, Scott Fetzer Consumer Brands」（https://www.gridconnect.com/blogs/our-customer-stories/tagged/custom・1回目）
+  - 「"We needed a partner who could work with us for a successful market-launch from idea to consumer research to store shelves in less than a year.” Eric Tinnemeyer, President at Wayne Water’s parent company, Scott Fetzer Consumer Brands」（https://www.gridconnect.com/blogs/our-customer-stories/tagged/internet-of-things-iot・1回目）
+  - 「"We needed a partner who could work with us for a successful market-launch from idea to consumer research to store shelves in less than a year.” Eric Tinnemeyer, President at Wayne Water’s parent company, Scott Fetzer Consumer Brands」（https://www.gridconnect.com/blogs/our-customer-stories/・1回目）
+  - 「“Speed to market was why we called on Grid Connect to be our IoT development team and manufacturing partner,” said Eric Tinnemeyer, President at Wayne Water’s parent company, Scott Fetzer Consumer Brands. “We needed a partner who could work with us for a successful market-launch from idea to consumer research to store shelves in less than a year.”」（https://www.gridconnect.com/blogs/our-customer-stories/wayne・1回目）
+  - 「Grid is Good: The Case for Public Ownership of Transmission and Distribution」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「The public is already paying, and will inevitably pay, for the transformation of the grid to support a decarbonised electricity system. The question is how these costs are distributed and how investment is coordinated. Public ownership can address these urgent challenges.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Put another way, [.green]13% of NGET’s revenues — derived primarily from customer bills — went straight back to shareholders[.green] in the form of dividends.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Private ownership of transmission carries substantially higher borrowing costs than would be the case under public ownership: [.green]National Grid plc spent £9.2 billion on interest payments over the past decade — equivalent to 22% of its net capex.[.green]」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+- 創業年度：
+  - 「Grid Connect was founded in 2002 with a simple goal: to provide engineers access to the best industrial networking products available. We began by partnering with trusted global manufacturers and built a reputation for reliable distribution, technical expertise, and fast delivery.」（https://www.gridconnect.com/pages/why-us・1回目）
+  - 「Grid Connect has connected thousands of analog products since 2003, many of which are still on the market today. Need to add Wi-Fi, Ethernet, Bluetooth, Cellular, Thread or some weird proprietary RF black magic? Grid Connect not only has the expertise to pull this off, but the proven track record to give you peace of mind.」（https://www.gridconnect.com/pages/iot-solutions・1回目）
+  - 「In stark contrast to this need, the pace of investment in the grid has stagnated over the past decade and, according to analysis by Carbon Tracker, decreased since 2017 despite a quadrupling in the deployment of new solar and wind.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Using data from the International Energy Agency, Figure 2, below, highlights the stalling pace of investment in UK transmission and distribution since 2015.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「[.fig]Figure 2: Stagnating Investment in UK Transmission and Distribution Networks Since 2015[.fig]」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Within this, £68 was attributable to a levy imposed on energy users to cover the cost of collapsed suppliers following the spike in global gas prices. The price cap today remains at a comparable level — just over £1800 — implying these estimates of network costs remain current. Figure 7, below, shows the relative contribution of network costs to the average electricity bill over since 2018.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「In late 2022, National Grid committed up to £9 billion in investment in UK electricity transmission in the five years from 2021-2026, equivalent to £1.8 billion per year. Actual gross capital expenditure in the UK electricity transmission segment since 2021 has averaged £1.1 billion per year.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Our estimated bond spread of 1.94 percentage points is an unweighted average of the spreads of all 10-year bonds issued since 2015 by entities related to National Grid and other DNOs, relative to conventional 10-year UK Treasury gilts issued contemporaneously. Corporate bond issuances are sourced from LSEG Refinitiv Eikon, whereas gilt issuances are sourced from the Debt Management Office (DMO).」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Founded in 2002, Grid Connect is dedicated to solving custom problems with connected hardware. As a leader in industrial networking and IoT, they have an in-house team of expert engineers to help identify and solve their customer's biggest challenges.」（https://caylent.com/case-study/grid-connect・3回目）
+  - 「NYSERDA offers objective information and analysis, innovative programs, technical expertise, and support to help New Yorkers increase energy efficiency, save money, use renewable energy, and reduce reliance on fossil fuels. A public benefit corporation, NYSERDA has been advancing energy solutions and working to protect the environment since 1975.」（https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT・3回目）
+  - 「Grid Connect was founded in 2012.」（https://pitchbook.com/profiles/company/237809-26・3回目）
+- 黒字・収益性：
+  - 「Real IoT innovation doesn't happen when one company builds a gadget in a vacuum. It happens when specialized partners—hardware experts, cloud architects, and security specialists—work together to turn a fragmented web of devices into a reliable, scalable, and profitable solution.」（https://www.gridconnect.com/blogs/news/iot-collaboration-models-drive-innovation・1回目）
+  - 「Building a Greener (and More Profitable) Connected Future」（https://www.gridconnect.com/blogs/news/sustainability-in-iot-connectivity・1回目）
+  - 「, we aren't just talking about corporate responsibility or saving the planet. We are talking about the difference between a profitable product and a maintenance nightmare.」（https://www.gridconnect.com/blogs/news/sustainability-in-iot-connectivity・1回目）
+  - 「NGET’s dividend payouts amounted to 62.3% of the segment’s post-tax profits.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「The DNOs have consistently enjoyed exceptional profit margins, with the [.green]fourth highest profit margins of any UK industry in 2023 at 42.5%,[.green]」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「The ability to strategically coordinate through direct public planning, investment and delivery in lieu of fragmented private decision-making based on expected profitability;」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Pretax profits」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Pretax profit margin」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Dividends relative to Pretax profits」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Posttax profits」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Posttax profit margin」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Dividends relative to Posttax profits」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+- 売上：
+  - 「Warranty」（https://www.gridconnect.com/・1回目）
+  - 「Warranty」（https://www.gridconnect.com/pages/custom-oem-product-engineering・1回目）
+  - 「Warranty」（https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software・1回目）
+  - 「Warranty」（https://www.gridconnect.com/pages/why-us・1回目）
+  - 「Warranty」（https://www.gridconnect.com/blogs/our-customer-stories・1回目）
+  - 「Warranty」（https://www.gridconnect.com/pages/iot-solutions・1回目）
+  - 「Warranty」（https://www.gridconnect.com/blogs/product-change-notifications・1回目）
+  - 「Warranty」（https://www.gridconnect.com/blogs/news・1回目）
+  - 「Modern industrial Ethernet networks are larger, faster, and more complex than ever. Unexpected failures can halt operations, costing time and revenue. In this on-demand webinar, our technical expert with 20 years of experience walks through how the」（https://www.gridconnect.com/blogs/news/tagged/webinar・1回目）
+  - 「Warranty」（https://www.gridconnect.com/blogs/news/tagged/webinar・1回目）
+  - 「Warranty」（https://www.gridconnect.com/pages/proven-partnership-process・1回目）
+  - 「Warranty」（https://www.gridconnect.com/blogs/our-customer-stories/tagged/custom・1回目）
+- 資金調達：
+  - 「If your contracts depend on RUTX-series availability, don't wait for your next reorder to figure out a plan.」（https://www.gridconnect.com/blogs/product-change-notifications/rutx-series-eol-announcement・1回目）
+  - 「The public is already paying, and will inevitably pay, for the transformation of the grid to support a decarbonised electricity system. The question is how these costs are distributed and how investment is coordinated. Public ownership can address these urgent challenges.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Importantly, beyond the sheer scale of investment, there are also urgent questions about how to coordinate that investment and the associated deployment of new infrastructure at sufficient speed.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「In stark contrast to this need, the pace of investment in the grid has stagnated over the past decade and, according to analysis by Carbon Tracker, decreased since 2017 despite a quadrupling in the deployment of new solar and wind.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「The impacts of structural underinvestment in the grid are already visible: “congestion costs” — incurred when the grid is unable to handle the amount of electricity being produced at a given time — currently reach up to £62 million per day, or £1.94 billion per year.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「National Grid plc has committed to invest up to £9 billion in its UK electricity transmission business in the five years to 2026. Extrapolating their average annual dividend of nearly £1.6 billion over the past decade would imply [.green]National Grid plc paying nearly the same amount (£7.8 billion) in dividends as its maximum potential investment in UK transmission[.green]」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Ultimately, because we all require electricity to participate and thrive in society, the public is already paying, and will inevitably pay, for the transformation of the grid to support a decarbonised electricity system and wider economy. The question is how these costs are distributed and how the required investment is coordinated. Public ownership can address these urgent challenges, offering:」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「The ability to strategically coordinate through direct public planning, investment and delivery in lieu of fragmented private decision-making based on expected profitability;」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「A lower cost of capital via public rather than private investment; and」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「If the government is to achieve its target of decarbonised electricity system by 2035, it cannot leave the transformation of the grid to private investment and coordination. Likewise, if Labour is serious about meeting its 2030 target and agenda of national renewal based on the interlocking ambitions of net zero and “securonomics”, a publicly-owned and strategically coordinated grid is vital.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「While the above reforms are welcome, they do not resolve the challenges related to investment and coordination outlined in the remainder of this report.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「What they fail to note is that during this period, the entirety of the electricity system was under public ownership and control, with investment and buildout correspondingly organised around a clearly defined and publicly coordinated goal of national development.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+- 存続：
+  - 「When a self-storage facility in the Southeast acquired a property across the street, the plan was simple: add a gate, connect it to the existing access control system, and keep growing.」（https://www.gridconnect.com/blogs/our-customer-stories/extending-rs-485-gate-control-across-property-lines・1回目）
+  - 「Through interviews and field research, the Grid Connect team uncovered a range of homeowner needs, concerns, and expectations. These insights helped shape both the technical design and user experience of the new smart sump pump system. Rather than assume what features to build, Grid Connect spoke directly to Wayne Water’s customers and these key personas emerged:」（https://www.gridconnect.com/blogs/our-customer-stories/wayne・1回目）
+  - 「and eliminating dividends [.green]would pay for the cost of acquisition in just ten years.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「Where 𝐵𝑉 denotes the book value of equity, 𝑅𝑜𝐸 denotes return on equity — calculated as dividends over book value of equity — and 𝑟 denotes the risk-free rate at which the state is issuing the debt to finance the acquisition.」（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
+  - 「completeness, or usefulness of any information, apparatus, product, or process disclosed, or rep-」（https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf・3回目）
+  - 「• Closed-loop proportional plus integral (PI) control of PF at the PCC」（https://selinc.com/api/download/blt619cdbce1d236607/・3回目）
+  - 「• Closed-loop PI control of power output at the PCC (i.e., advanced power limit」（https://selinc.com/api/download/blt619cdbce1d236607/・3回目）
+  - 「• Closed-loop PI control of voltage at the PCC」（https://selinc.com/api/download/blt619cdbce1d236607/・3回目）
+  - 「Grid congestion and interconnection backlogs have emerged as critical bottlenecks in renewable energy transitions across many global economies, and Japan is no exception. However, Japan’s challenge is rooted less in resource availability than in institutional design.」（https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework・3回目）
+  - 「Japan’s grid application data suggest that the country’s renewable energy pipeline continues to expand. However, a widening gap has emerged between projects in the interconnection queue and those that have been physically connected to the grid.」（https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework・3回目）
+  - 「also emerged as a new challenge. As of 2023, approximately 90% of data centers in Japan,」（https://eneken.ieej.or.jp/data/13373.pdf・3回目）
+  - 「Similar challenges have also emerged in the United States. The total capacity of power」（https://eneken.ieej.or.jp/data/13373.pdf・3回目）
+- ホワイトラベル明言：
+  - 「Whether you require a minor software tweak to enhance buffer sizes or a new design from the module up, our team is primed to deliver. We offer transparent pricing for non-recurring engineering (NRE) and development work and production costs for the end product. Private labeling services are available. Some examples of our services include:」（https://www.gridconnect.com/pages/custom-oem-product-engineering・1回目）
+  - 「By operating within a collaborative ecosystem, companies can offload the connectivity burden to partners who have already perfected it. When the foundation is handled by experts, your internal team can spend 100% of their time on the unique features that actually define your brand.」（https://www.gridconnect.com/blogs/news/iot-collaboration-models-drive-innovation・1回目）
+  - 「Whitelabeling」（https://eniris.com/services/whitelabeling・3回目）
+  - 「Whitelabeling App & Hardware」（https://eniris.com/services/whitelabeling・3回目）
+  - 「Powering Your Brand: White-Label」（https://eniris.com/services/whitelabeling・3回目）
+  - 「Why white-labeling?」（https://eniris.com/services/whitelabeling・3回目）
+  - 「Strengthen your brand」（https://eniris.com/services/whitelabeling・3回目）
+  - 「White-label App & Web Portal」（https://eniris.com/services/whitelabeling・3回目）
+  - 「Share your brand identity」（https://eniris.com/services/whitelabeling・3回目）
+  - 「Provide your logo, colors, and preferred brand style. Based on this, we turn the existing SmartgridOne app and web portal into a digital experience that fully matches your brand.」（https://eniris.com/services/whitelabeling・3回目）
+  - 「We apply your branding」（https://eniris.com/services/whitelabeling・3回目）
+  - 「We apply your branding to the existing SmartgridOne app and portal. This gives you a white-label solution without having to build an entire platform yourself.」（https://eniris.com/services/whitelabeling・3回目）
+- OEM・組込み：
+  - 「Custom/OEM Product Engineering」（https://www.gridconnect.com/・1回目）
+  - 「Quickly and effectively implement your partial or complete, networking or embedded product.」（https://www.gridconnect.com/・1回目）
+  - 「emotas embedded communication」（https://www.gridconnect.com/・1回目）
+  - 「Rollease saves development and production time with Grid Connect’s OEM experience」（https://www.gridconnect.com/・1回目）
+  - 「Embedded Modules, Chips & Dev Kits」（https://www.gridconnect.com/・1回目）
+  - 「OEM Product Engineering」（https://www.gridconnect.com/・1回目）
+  - 「Custom/OEM Product Engineering」（https://www.gridconnect.com/pages/custom-oem-product-engineering・1回目）
+  - 「Quickly and effectively implement your partial or complete, networking or embedded product.」（https://www.gridconnect.com/pages/custom-oem-product-engineering・1回目）
+  - 「emotas embedded communication」（https://www.gridconnect.com/pages/custom-oem-product-engineering・1回目）
+  - 「Embedded Modules, Chips & Dev Kits」（https://www.gridconnect.com/pages/custom-oem-product-engineering・1回目）
+  - 「OEM Product Engineering」（https://www.gridconnect.com/pages/custom-oem-product-engineering・1回目）
+  - 「Custom/OEM Product Engineering」（https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software・1回目）
+- 再販制度：
+  - 「By comparing initial starting current to increases and other variations along the way, Grid Connect gave Wayne a vital indicator to predict and help customers avoid pump failure.」（https://www.gridconnect.com/・1回目）
+  - 「Variant_Title」（https://www.gridconnect.com/・1回目）
+  - 「Variant_Title」（https://www.gridconnect.com/pages/custom-oem-product-engineering・1回目）
+  - 「Variant_Title」（https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software・1回目）
+  - 「For over 20 years, Grid Connect has been a trusted distributor and custom IoT development partner for engineers and manufacturers. We combine the speed and reliability of product distribution with the technical depth of an engineering team, giving you a single partner for everything from standard networking components to fully custom connected solutions.」（https://www.gridconnect.com/pages/why-us・1回目）
+  - 「Whether you need proven networking products today or a custom IoT solution for tomorrow, Grid Connect is here to help. Our team combines the reliability of a distributor with the depth of an engineering partner so you can move projects forward with confidence.」（https://www.gridconnect.com/pages/why-us・1回目）
+  - 「Variant_Title」（https://www.gridconnect.com/pages/why-us・1回目）
+  - 「Variant_Title」（https://www.gridconnect.com/blogs/our-customer-stories・1回目）
+  - 「Variant_Title」（https://www.gridconnect.com/pages/iot-solutions・1回目）
+  - 「Variant_Title」（https://www.gridconnect.com/blogs/product-change-notifications・1回目）
+  - 「Variant_Title」（https://www.gridconnect.com/blogs/news・1回目）
+  - 「Variant_Title」（https://www.gridconnect.com/blogs/news/tagged/webinar・1回目）
+- 日本対応：
+  - 「For over 20 years, Grid Connect has been a trusted distributor and custom IoT development partner for engineers and manufacturers. We combine the speed and reliability of product distribution with the technical depth of an engineering team, giving you a single partner for everything from standard networking components to fully custom connected solutions.」（https://www.gridconnect.com/pages/why-us・1回目）
+  - 「Whether you need proven networking products today or a custom IoT solution for tomorrow, Grid Connect is here to help. Our team combines the reliability of a distributor with the depth of an engineering partner so you can move projects forward with confidence.」（https://www.gridconnect.com/pages/why-us・1回目）
+  - 「米軍のいじめっ子たちは知らなかった、空手の達人である日本人少年の正体を | 佐藤ケンジ」（https://www.youtube.com/watch?v=vcmepVSQvDo・3回目）
+  - 「Distributors」（https://eniris.com/services/whitelabeling・3回目）
+  - 「Japan’s renewable integration is constrained by its grid connection framework | IEEFA」（https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework・3回目）
+  - 「Japan’s renewable integration is constrained by its grid connection framework」（https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework・3回目）
+  - 「Japan’s renewable energy pipeline is expanding, but the conversion of projects from application to physical grid connection remains weak. Of the approximately 317 gigawatts (GW) of wind, solar, and storage capacity under study as of December 2025, only around 87GW (27%) had been physically connected to the grid.」（https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework・3回目）
+  - 「Solar energy shows the highest realization rate in Japan, with connected capacity reaching approximately 2.3 times the volume at study stage. By contrast, onshore wind, offshore wind, and battery storage exhibit significantly weaker conversion rates of around 14%, below 1%, and 0.35%, respectively.」（https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework・3回目）
+  - 「The widening gap between study-stage projects and connected capacity suggests that Japan's renewable energy bottleneck is fundamentally institutional in nature. Without reforms that improve cost transparency, project prioritization, and transmission coordination, capacity is likely to continue accumulating in the queue without translating into large-scale transformation of the power system.」（https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework・3回目）
+  - 「Read the Japanese translation on」（https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework・3回目）
+  - 「日本の再生可能エネルギーの系統連系への接続は、その連系枠組み制度によって制約を受けている」（https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework・3回目）
+  - 「Grid congestion and interconnection backlogs have emerged as critical bottlenecks in renewable energy transitions across many global economies, and Japan is no exception. However, Japan’s challenge is rooted less in resource availability than in institutional design.」（https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework・3回目）
+- 顧客：
+  - 「Trusted by Leading Companies Worldwide」（https://www.gridconnect.com/・1回目）
+  - 「Keeping basements dry and customers happy just got easier for Wayne Pumps with Grid Connect’s IoT expertise.」（https://www.gridconnect.com/・1回目）
+  - 「By comparing initial starting current to increases and other variations along the way, Grid Connect gave Wayne a vital indicator to predict and help customers avoid pump failure.」（https://www.gridconnect.com/・1回目）
+  - 「Home or away, Rollease customers or installers can now control their shades for lighting changes and privacy concerns with IoT connectivity from Grid Connect.」（https://www.gridconnect.com/・1回目）
+  - 「Grid Connect gave Schlage the Wi-Fi connectivity needed to allow their customers to open or lock their doors from anywhere in the world.」（https://www.gridconnect.com/・1回目）
+  - 「Features to help customers save water and time」（https://www.gridconnect.com/・1回目）
+  - 「We measure success by how quickly and reliably our customers move from challenge to solution.」（https://www.gridconnect.com/・1回目）
+  - 「known to find solutions to problems our clients' internal teams had deemed impossible.」（https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software・1回目）
+  - 「As we worked alongside customers, we noticed gaps in the market where no off-the-shelf solution existed. To meet those needs, we started developing our own products - designed and supported by engineers who understood the challenges firsthand.」（https://www.gridconnect.com/pages/why-us・1回目）
+  - 「Today, Grid Connect continues to evolve with our customers. We not only provide proven products from leading manufacturers, but also collaborate with companies to create custom Internet of Things (IoT) solutions. Whether it’s a small modification or a fully connected product, our team helps bring ideas to life quickly and reliably.」（https://www.gridconnect.com/pages/why-us・1回目）
+  - 「Our team works directly with customers to solve problems, not just ship products.」（https://www.gridconnect.com/pages/why-us・1回目）
+  - 「Many of our team members have been part of Grid Connect for decades, providing customers continuity and deep institutional knowledge.」（https://www.gridconnect.com/pages/why-us・1回目）
+- 検索結果の抜粋：
+  - 「Grid Connect 2026 Company Profile - PitchBook — Grid Connect 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/237809-26・3回目）
+  - 「Business Profile - Grid Connect, Inc. — Business Profile - Grid Connect, Inc. gridconnect.com https://www.gridconnect.com > pages」（https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vIYy3pH_mYIgWSbNYmRH7pO5txDoxx6YAlN-fmfl5ygAcIueDCA・3回目）
+  - 「Business Profile - Grid Connect, Inc. — Business Profile - Grid Connect, Inc. gridconnect.com https://www.gridconnect.com > pages」（https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vJVPQV0VrokextmxA9yslahrrLTL2CiP2xGizHqIlZLWkSS8co_・3回目）
+  - 「Grid Connect Makes a Smart Cord for Industrial Applications ... — Grid Connect Makes a Smart Cord for Industrial Applications ... Caylent https://caylent.com > grid-connect」（https://caylent.com/case-study/grid-connect・3回目）
+  - 「Grid Connect - LinkedIn — Grid Connect - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/grid-connect・3回目）
+  - 「NY Grid CONNECT - nyserda — NY Grid CONNECT - nyserda nyserda (.gov) https://www.nyserda.ny.gov > NY-Gr...」（https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT・3回目）
+  - 「Business Profile - Grid Connect, Inc. — Business Profile - Grid Connect, Inc. gridconnect.com https://www.gridconnect.com > pages」（https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vIDWU4eJqYPyxa3eHky68Mh5jtW4U9zXDICejSGriM2OHoXZwkQ・3回目）
+  - 「Yukon-B.C. Grid Connect — Yukon-B.C. Grid Connect Yukon.ca https://yukon.ca > yukon-bc-grid-con...」（https://yukon.ca/en/yukon-bc-grid-connect・3回目）
+  - 「Business Profile - Grid Connect, Inc. — Business Profile - Grid Connect, Inc. gridconnect.com https://www.gridconnect.com > pages」（https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vJ7-oC0NaDDtBMjqE7aUdnRRk4bQYdL12GejdZ03aGmNuDAhICs・3回目）
+  - 「Grid Connect - Schweitzer Engineering Laboratories — Grid Connect - Schweitzer Engineering Laboratories selinc.com PDF https://selinc.com > api > download」（https://selinc.com/api/download/blt619cdbce1d236607/・3回目）
+  - 「FAQ – Grid Connect — FAQ – Grid Connect Grid Connect https://grid-connect.com.au > faq」（https://grid-connect.com.au/pages/faq・3回目）
+  - 「White Label IoT: Launch Smart Products Fast - Grid Connect — White Label IoT: Launch Smart Products Fast - Grid Connect gridconnect.com https://www.gridconnect.com > news」（https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vITROj3dnLnvl8UL2ZdsnEDywgqZ5b0unxzGrviiEfyIxmFRtD4・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部58頁・検索20回）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部58頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部58頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部58頁・検索20回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部58頁・検索20回）
 
 ## Inion Software
 - 公式URL：https://inionsoftware.com/（search:yahoo_jp:Inion Software）
@@ -432,6 +830,135 @@
 - 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部47頁・検索15回）
 - 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部47頁・検索15回）
 - 株主構成：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部47頁・検索15回）
+
+## Maintastic
+- 公式URL：https://maintastic.com（given）
+- 株主構成：
+  - 「Ownership Concentration」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Shareholder agreement」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Ownership relations」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Premium + Ownership & Flags add-on」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Shareholders and Investors」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「2 known active shareholders」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Original document: “Liste der Gesellschafter“」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+- 創業年度：
+  - 「Maintastic CMMS has its roots in the visual remote assistance solution oculavis SHARE.. The software was developed by oculavis GmbH. Since 2016, oculavis SHARE has helped companies worldwide optimize service operations, minimize technician travel, and establish digital business models in mechanical engineering.」（https://maintastic.com/en/news-blog-en/oculavis-becomes-maintastic/・1回目）
+- 黒字・収益性：
+  - 「Durch die Einhaltung definierter Grenzen können Unternehmen von modernen, digitalen Unterstützungssystemen profitieren, ohne die GMP-Konformität zu beeinträchtigen.」（https://maintastic.com/news-blogs/instandhaltung-in-der-pharmaindustrie/・1回目）
+  - 「Datenverlust」（https://maintastic.com/news-blogs/ticketerstellung-in-der-instandhaltung-per-ki-agent/・1回目）
+  - 「Szenario 2 – Schichtübergabe ohne Informationsverlust」（https://maintastic.com/news-blogs/ticketerstellung-in-der-instandhaltung-per-ki-agent/・1回目）
+  - 「Wer an einer Anlage steht, hat selten beide Hände frei für ein Formular. Mit Maintastic wird die Störung direkt vor Ort per Sprache gemeldet – das System erstellt mit Hilfe eines KI Agenten daraus ein vollständiges Ticket. Keine Umwege, kein Informationsverlust, keine Verzögerung bis zum nächsten PC.」（https://maintastic.com/news-blogs/ticketerstellung-in-der-instandhaltung-per-ki-agent/・1回目）
+  - 「Ja, der Maintastic KI Agent ist auf das industrielle Umfeld ausgerichtet und verarbeitet technische Begriffe wie „Lagerschaden“, „Druckverlust“ oder anlagenspezifische Bezeichnungen wie „Pumpe P-07″ zuverlässig. Anders als Consumer-Sprachassistenten ist das System nicht für den Alltag, sondern für den Produktionsbetrieb konzipiert.」（https://maintastic.com/news-blogs/ticketerstellung-in-der-instandhaltung-per-ki-agent/・1回目）
+  - 「Mit Maintastic sollen Instandhaltungsverantwortliche Herausforderungen effizienter meistern, den Verlust von Erfahrungswissen durch ausscheidende Fachkräfte entgegenwirken und das Potenzial ihrer Anlagen und Teams voll ausschöpfen.」（https://maintastic.com/news-blogs/aus-oculavis-wird-maintastic/・1回目）
+  - 「im Alltag gewinnen」（https://maintastic.com/news-blogs/software-fuer-wartungsplanung/・1回目）
+  - 「. Mit wachsender Anzahl an Nutzern und Anlagen, höheren Sicherheits- und Dokumentationsanforderungen sowie weiteren Produktionsstandorten, an denen Prozesse vereinheitlicht und vergleichbar umgesetzt werden wollen, reicht eine isolierte Wartungsplanung zunehmend nicht mehr aus. In solchen Szenarien gewinnt eine」（https://maintastic.com/news-blogs/software-fuer-wartungsplanung/・1回目）
+  - 「Neben organisatorischen Vorteilen gewinnen qualitative Faktoren zusätzlich an Bedeutung. Dazu gehören die Sicherung von technischem Wissen durch digitale Dokumentation, die Entlastung von Fachkräften durch mobile Arbeitsaufträge, schnellere Reaktionszeiten bei Störungen sowie eine bessere Abstimmung zwischen Instandhaltung, Produktion und externen Dienstleistern.」（https://maintastic.com/news-blogs/software-fuer-wartungsplanung/・1回目）
+  - 「nicht zuverlässig liefern, drohen Vertragsstrafen, verschlechterte Lieferantenbewertungen oder im Extremfall der Verlust des Status als bevorzugter oder gelisteter Lieferant」（https://maintastic.com/news-blogs/instandhaltungssoftware-industrie/・1回目）
+- 売上：
+  - 「Jobs & Karriere」（https://maintastic.com/・1回目）
+  - 「Jobs & Karriere」（https://maintastic.com/erp-integration-instandhaltungssoftware/・1回目）
+  - 「Ja, es gibt Standard-Integrationen mit SAP, Microsoft Outlook oder Salesforce.」（https://maintastic.com/erp-integration-instandhaltungssoftware/・1回目）
+  - 「Jobs & Karriere」（https://maintastic.com/white-label-software/・1回目）
+  - 「bereitzustellen. Eine eigene Service-App mit integriertem Kundenportal kann nicht nur während der Gewährleistungszeit effizientere Prozesse ermöglichen, sondern auch neue Umsatzpotenziale durch digitale Geschäftsmodelle erschließen.Text」（https://maintastic.com/white-label-software/・1回目）
+  - 「Jobs & Karriere」（https://maintastic.com/news-blogs/10-jahre-maintastic/・1回目）
+  - 「Jobs & Karriere」（https://maintastic.com/maintastic-news-blog/・1回目）
+  - 「Jobs & Karriere」（https://maintastic.com/impressum/・1回目）
+  - 「USt.-ID gemäß §27a Umsatzsteuergesetz:」（https://maintastic.com/impressum/・1回目）
+  - 「Jobs & Karriere」（https://maintastic.com/event/online-event/all-about-maintenance/・1回目）
+  - 「Jobs & Karriere」（https://maintastic.com/news-blogs/instandhaltung-in-der-pharmaindustrie/・1回目）
+  - 「Jobs & Karriere」（https://maintastic.com/termin-vereinbaren/・1回目）
+- 資金調達：
+  - 「0 Investoren – Powered by Customers, not VCs. Maintastic ist auch nach 10 Jahren ein vollständig unabhängiges Unternehmen」（https://maintastic.com/news-blogs/10-jahre-maintastic/・1回目）
+  - 「0 investors. Built with our customers, not venture capital. Maintastic remains fully independent after 10 years.」（https://maintastic.com/en/news-blog-en/10-years-of-maintastic-1-mission-making-maintenance-easier/・1回目）
+  - 「investors」（https://maintastic.com/en/about-maintastic/・1回目）
+  - 「Evaluations & analyses」（https://maintastic.com/en/standardized-license-models-and-flexible-add-ons/・1回目）
+  - 「Scholarships and Funding Programs」（https://www.rwth-aachen.de/cms/root/wir/profil/auszeichnungen-und-ehrungen/spin-off-award/gewinner-des-spin-off-award/~okxp/maintastic-gmbh-vormals-oculavis-gmbh-/?lidx=1・3回目）
+  - 「Research Funding」（https://www.rwth-aachen.de/cms/root/wir/profil/auszeichnungen-und-ehrungen/spin-off-award/gewinner-des-spin-off-award/~okxp/maintastic-gmbh-vormals-oculavis-gmbh-/?lidx=1・3回目）
+  - 「Number of public fundings per year」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Total public funding per year」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Public funding」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Shareholders and Investors」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Number of public fundings」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Total public funding」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+- 存続：
+  - 「Beispiele sind Manufacturing Execution Systems (MES), Supervisory Control and Data Acquisition (SCADA), elektronische Chargenprotokolle (」（https://maintastic.com/news-blogs/instandhaltung-in-der-pharmaindustrie/・1回目）
+  - 「Liquidation」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Insolvency filing」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Insolvency proceedings update」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Merger/Acquisition」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+  - 「Public funding (€185,280): Modular AR environment for flexible knowledge acquisition and transfer (ARLearn), subproject: Development of a modular AR knowledge management based on oculavis SHARE」（https://www.northdata.com/Maintastic%20GmbH,%20Aachen/HRB%2020412・3回目）
+- ホワイトラベル明言：
+  - 「White-Label」（https://maintastic.com/・1回目）
+  - 「White-Label」（https://maintastic.com/erp-integration-instandhaltungssoftware/・1回目）
+  - 「White Label CMMS Software für Service & Instandhaltung」（https://maintastic.com/white-label-software/・1回目）
+  - 「White-Label」（https://maintastic.com/white-label-software/・1回目）
+  - 「White Label Software für Instandhaltung und Service」（https://maintastic.com/white-label-software/・1回目）
+  - 「White Label Software: Eigene Instandhaltungs- oder Service-App im Corporate Design」（https://maintastic.com/white-label-software/・1回目）
+  - 「Mit den White Label-Lösungen von Maintastic entsteht eine individuelle App, gebrandet, funktional und ohne Programmieraufwand.」（https://maintastic.com/white-label-software/・1回目）
+  - 「Mit einer White Label-App im Service zum digitalen Geschäftsmodell」（https://maintastic.com/white-label-software/・1回目）
+  - 「Mit einer White Label App zu mehr Akzeptanz in der Instandhaltung」（https://maintastic.com/white-label-software/・1回目）
+  - 「. Auch hier ist eine White Label-Version möglich, die durch Ihr eigenes Corporate Design die Akzeptanz der Software bei den Nutzern zusätzlich erhöht.」（https://maintastic.com/white-label-software/・1回目）
+  - 「Vorteile einer White Label-App von Maintastic」（https://maintastic.com/white-label-software/・1回目）
+  - 「Eine eigene App für Service oder Instandhaltung selbst zu entwickeln und zu programmieren, ist mit hohem Aufwand verbunden. Maintastic liefert eine White Label-App in kürzester Zeit mit folgenden Vorteilen:」（https://maintastic.com/white-label-software/・1回目）
+- OEM・組込み：
+  - 「API & Integrationen」（https://maintastic.com/・1回目）
+  - 「API & Integration」（https://maintastic.com/・1回目）
+  - 「API & Integrationen」（https://maintastic.com/erp-integration-instandhaltungssoftware/・1回目）
+  - 「API ist die leistungsstarke Schnittstelle」（https://maintastic.com/erp-integration-instandhaltungssoftware/・1回目）
+  - 「Maintastic API entdecken」（https://maintastic.com/erp-integration-instandhaltungssoftware/・1回目）
+  - 「Über die Maintastic API wird automatisiert ein Ticket erzeugt und der Instandhaltungsprozess angestoßen.」（https://maintastic.com/erp-integration-instandhaltungssoftware/・1回目）
+  - 「Zugang zur API erhalten」（https://maintastic.com/erp-integration-instandhaltungssoftware/・1回目）
+  - 「Kunden und Integrationspartner von Maintastic erhalten Zugang zur API, um individuelle Integrationen mit Drittsystemen wie ERP, MES oder Predictive Maintenance zu entwickeln.」（https://maintastic.com/erp-integration-instandhaltungssoftware/・1回目）
+  - 「API Schlüssel anfragen」（https://maintastic.com/erp-integration-instandhaltungssoftware/・1回目）
+  - 「runden die Kernfunktionen ab – ideal für Unternehmen, die aktuell mit Excel oder Papier arbeiten.」（https://maintastic.com/erp-integration-instandhaltungssoftware/・1回目）
+  - 「FAQ – Häufige Fragen zur Maintastic API und Integration」（https://maintastic.com/erp-integration-instandhaltungssoftware/・1回目）
+  - 「Welche Daten kann ich über die API abrufen oder übertragen?」（https://maintastic.com/erp-integration-instandhaltungssoftware/・1回目）
+- 再販制度：
+  - 「Bei beiden Varianten ist der Ablauf im Anschluss der gleiche, sobald sich die」（https://maintastic.com/news-blogs/ticketerstellung-in-der-instandhaltung-per-ki-agent/・1回目）
+  - 「Pricing varies depending on the license model you choose. For details, see our」（https://maintastic.com/en/white-label-software/・1回目）
+  - 「Maintastic stellt zur redaktionellen Verwendung ein Media Kit mit Logo-Varianten, Bildmaterial und der Pressemitteilung bereit. Für weiterführende Informationen oder zusätzliche Medieninhalte steht das Maintastic Team gerne zur Verfügung.」（https://maintastic.com/news-blogs/aus-oculavis-wird-maintastic/・1回目）
+  - 「werden alle relevanten Informationen zur systematischen Umsetzung gebündelt. Je nach Unternehmen kann der Umfang variieren. Typische Bestandteile eines Wartungsplans sind jedoch:」（https://maintastic.com/news-blogs/software-fuer-wartungsplanung/・1回目）
+  - 「Harvard Business School (2025): The Cybernetic Teammate: A Field Experiment on Generative AI Reshaping Teamwork and Expertise」（https://maintastic.com/news-blogs/instandhaltungssoftware-industrie/・1回目）
+  - 「The integration possibilities are wide open. Maintastic is typically connected to ERP, MES, predictive maintenance, and IoT systems, document management platforms, and a variety of other IT systems.」（https://maintastic.com/en/erp-integration-of-cmms/・1回目）
+  - 「The KVD is Europe’s largest and most important professional association for decision-makers and talents in the service sector. The association supports specialists and managers in shaping their service business. The network is made up of service experts from various sectors – from mechanical and plant engineering, consumer goods, and household appliances to software developers and IT.」（https://maintastic.com/en/about-maintastic/・1回目）
+  - 「Maintastic offers a comprehensive media kit for editorial use, including logo variations, imagery, and the official press release. The Maintastic team is happy to assist with further information or additional media content.」（https://maintastic.com/en/news-blog-en/oculavis-becomes-maintastic/・1回目）
+  - 「- Customize your drawings with various colors and stroke options and use the undo function for quick corrections.」（https://apps.apple.com/jp/app/maintastic/id1351261560・3回目）
+- 日本対応：
+  - 「キャプテラ - 日本企業の最適な」（https://www.capterra.jp/software/1011689/Maintastic・3回目）
+  - 「日本語に翻訳する」（https://www.capterra.jp/software/1011689/Maintastic・3回目）
+  - 「日本 (日本語)」（https://www.capterra.jp/software/1011689/Maintastic・3回目）
+- 顧客：
+  - 「0 Investoren – Powered by Customers, not VCs. Maintastic ist auch nach 10 Jahren ein vollständig unabhängiges Unternehmen」（https://maintastic.com/news-blogs/10-jahre-maintastic/・1回目）
+  - 「Service app for customers and technicians」（https://maintastic.com/en/white-label-software/・1回目）
+  - 「Yes. Each Maintastic software update includes a white label app update. The scheduling of this update can be customized according to your preferences. For this purpose, white-label customers can be provided with a」（https://maintastic.com/en/white-label-software/・1回目）
+  - 「0 investors. Built with our customers, not venture capital. Maintastic remains fully independent after 10 years.」（https://maintastic.com/en/news-blog-en/10-years-of-maintastic-1-mission-making-maintenance-easier/・1回目）
+  - 「Trusted by 100+ industrial companies」（https://maintastic.com/en/news-blog-en/10-years-of-maintastic-1-mission-making-maintenance-easier/・1回目）
+  - 「100,000+ assets maintained by our customers」（https://maintastic.com/en/news-blog-en/10-years-of-maintastic-1-mission-making-maintenance-easier/・1回目）
+  - 「through our collaboration with customers.」（https://maintastic.com/en/news-blog-en/10-years-of-maintastic-1-mission-making-maintenance-easier/・1回目）
+  - 「Digitalizing maintenance is not a one-time initiative. That is why we see ourselves not just as a software provider, but as a long-term partner to our customers.」（https://maintastic.com/en/news-blog-en/10-years-of-maintastic-1-mission-making-maintenance-easier/・1回目）
+  - 「Over the past ten years, we have witnessed numerous technology hypes, from augmented and mixed reality to artificial intelligence. Yet for us, the most important question has always remained the same: Does this technology solve a real problem for our customers? Only when the answer is “yes” can it create lasting value.」（https://maintastic.com/en/news-blog-en/10-years-of-maintastic-1-mission-making-maintenance-easier/・1回目）
+  - 「This approach has been a key driver of our shared success with customers. Each digitally transformed maintenance workflow, every optimized fault-resolution process, and every safeguarded piece of knowledge helps」（https://maintastic.com/en/news-blog-en/10-years-of-maintastic-1-mission-making-maintenance-easier/・1回目）
+  - 「demonstrate. Our decade of experience serves as the foundation for the innovations we are developing alongside our customers. We are not seeking to replace established expertise and proven processes. Instead, we aim to empower maintenance teams to」（https://maintastic.com/en/news-blog-en/10-years-of-maintastic-1-mission-making-maintenance-easier/・1回目）
+  - 「. Thank you to our customers, partners, and employees who have accompanied us on this journey.」（https://maintastic.com/en/news-blog-en/10-years-of-maintastic-1-mission-making-maintenance-easier/・1回目）
+- 検索結果の抜粋：
+  - 「Maintastic Helpdesk - Release Notes — Maintastic Helpdesk - Release Notes Maintastic https://maintastic.com > maintastic-hel...」（https://maintastic.com/en/maintastic-helpdesk/・3回目）
+  - 「Maintastic - 2026 Company Profile, Team & Competitors — Maintastic - 2026 Company Profile, Team & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/maintastic/__0I8DY6pTHk_IfrrGGElhV9LgHBS3pDCcCcIOkgCH_KM・3回目）
+  - 「CMMS Software. Made for Technicians. - Maintastic — CMMS Software. Made for Technicians. - Maintastic Maintastic https://maintastic.com > ...」（https://maintastic.com/en/homepage/・3回目）
+  - 「10 Years of Maintastic : A Decade of Innovation in Maintenance — 10 Years of Maintastic : A Decade of Innovation in Maintenance Maintastic https://maintastic.com > news-blog-en」（https://maintastic.com/en/news-blog-en/10-years-of-maintastic-1-mission-making-maintenance-easier/・3回目）
+  - 「Maintastic GmbH (formerly: oculavis GmbH) | EN — Maintastic GmbH (formerly: oculavis GmbH) | EN RWTH Aachen https://www.rwth-aachen.de > wir > spin-off-award > ~okxp」（https://www.rwth-aachen.de/cms/root/wir/profil/auszeichnungen-und-ehrungen/spin-off-award/gewinner-des-spin-off-award/~okxp/maintastic-gmbh-vormals-oculavis-gmbh-/?lidx=1・3回目）
+  - 「Working at Maintastic - Glassdoor — Working at Maintastic - Glassdoor Glassdoor https://www.glassdoor.com > Overview」（https://www.glassdoor.com/Overview/Working-at-Maintastic-EI_IE3923371.11,21.htm・3回目）
+  - 「Maintastic - 2026 Company Profile , Team & Competitors — Maintastic - 2026 Company Profile , Team & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/maintastic/__0I8DY6pTHk_IfrrGGElhV9LgHBS3pDCcCcIOkgCH_KM・3回目）
+  - 「Maintastic Software Reviews, Demo & Pricing - 2026 — Maintastic Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > 21...」（https://www.softwareadvice.com/product/214045-Maintastic/・3回目）
+  - 「Maintastic Reviews 2026. Verified Reviews, Pros & Cons — Maintastic Reviews 2026. Verified Reviews, Pros & Cons Capterra https://www.capterra.com > reviews」（https://www.capterra.com/p/228585/Maintastic/reviews/・3回目）
+  - 「Maintastic CMMS Maintenance Software - Plans & Pricing — Maintastic CMMS Maintenance Software - Plans & Pricing Maintastic https://maintastic.com > standardized-...」（https://maintastic.com/en/standardized-license-models-and-flexible-add-ons/・3回目）
+  - 「From oculavis to Maintastic – the new AI-powered CMMS — From oculavis to Maintastic – the new AI-powered CMMS Maintastic https://maintastic.com > news-blog-en」（https://maintastic.com/en/news-blog-en/oculavis-becomes-maintastic/・3回目）
+  - 「White Label CMMS Software for Service & Maintenance — White Label CMMS Software for Service & Maintenance Maintastic https://maintastic.com > white-label-s...」（https://maintastic.com/en/white-label-software/・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部44頁・検索20回）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部44頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部44頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部44頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部44頁・検索20回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部44頁・検索20回）
 
 ## Materialise
 - 公式URL：https://www.materialise.com（given）
@@ -732,6 +1259,133 @@
 - 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部44頁・検索14回）
 - 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部44頁・検索14回）
 
+## SensFlo
+- 公式URL：https://www.sensflo.ai（given）
+- 株主構成：
+  - 「Full ownership」（https://www.sensflo.ai/partnerships/partner-programs・1回目）
+  - 「Owned by you, with SensFlo escalation」（https://www.sensflo.ai/partnerships/partner-programs/consulting・1回目）
+  - 「Owned by you, with SensFlo escalation」（https://www.sensflo.ai/partnerships/partner-programs/oem・1回目）
+  - 「Owned by you, with SensFlo escalation」（https://www.sensflo.ai/partnerships/partner-programs/referral・1回目）
+  - 「Owned by you, with SensFlo escalation」（https://www.sensflo.ai/partnerships/partner-programs/reseller・1回目）
+  - 「Reseller partners deploy SensFlo for their clients, so the program asks for certified engineers and ownership of implementation.」（https://www.sensflo.ai/partnerships/partner-programs/reseller・1回目）
+  - 「Owned by you, with SensFlo escalation」（https://www.sensflo.ai/partnerships/partner-programs/technology・1回目）
+  - 「Haitian Mexico builds the injection molding machines powering production across hundreds of plants: precise, reliable and backed by local support. Learn more at」（https://www.sensflo.ai/partnerships/partners/haitian・1回目）
+  - 「Ownership Status」（https://pitchbook.com/profiles/company/327529-45・3回目）
+- 創業年度：
+  - 「SensFlo was founded on the belief that operational excellence shouldn’t be complicated. What began as a vision to simplify machine monitoring evolved into a robust platform that now powers businesses across industries with real-time data insights and predictive analytics.」（https://www.sensflo.ai/about・1回目）
+  - 「SensFlo was founded in 2018.」（https://pitchbook.com/profiles/company/327529-45・3回目）
+- 黒字・収益性：
+  - 「A world where every manufacturer has access to enterprise-grade intelligence, enabling data-driven decisions that maximize efficiency and profitability.」（https://www.sensflo.ai/about・1回目）
+  - 「Partners are a strategic element to SensFlo's go-to-market initiatives. Leverage your expertise to help clients progress their digital transformations, all while building a profitable practice around industry-leading IIoT software.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「SensFlo on Haitian machines starts from $100 USD per machine per month, with an average ROI of 6 months from less downtime and greater efficiency. It also improves profitability by optimizing processes and reducing waste. Compare」（https://www.sensflo.ai/partnerships/partners/haitian・1回目）
+  - 「EBITDA Growth Systems」（https://www.speakfriend.io/services/socials・3回目）
+  - 「See how Speak Friend grew web users by 453% for EBITDA Growth Systems with a focused B2B marketing strategy and stronger digital presence.」（https://www.speakfriend.io/services/socials・3回目）
+- 売上：
+  - 「arrow icon」（https://www.sensflo.ai/・1回目）
+  - 「Lost revenue? Get it back」（https://www.sensflo.ai/・1回目）
+  - 「Calculate your return on AI investment in under 2-minutes. See exactly how much FloControl™ can increase your revenue.」（https://www.sensflo.ai/・1回目）
+  - 「arrow icon」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Co-branded sales and marketing assets to help you sell」（https://www.sensflo.ai/partnerships・1回目）
+  - 「SensFlo sales team」（https://www.sensflo.ai/partnerships・1回目）
+  - 「; they're not involved in the sales process itself.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Revenue model」（https://www.sensflo.ai/partnerships/partner-programs・1回目）
+  - 「Yes. Hybrid arrangements are common. A hardware OEM might embed SensFlo through the」（https://www.sensflo.ai/partnerships/partner-programs・1回目）
+  - 「How do SensFlo partners earn revenue?」（https://www.sensflo.ai/partnerships/partner-programs・1回目）
+  - 「Each program has its own revenue model. Referral partners earn a referral fee, resellers keep a resale margin, OEM partners pay a licensing fee and set their own prices, consulting partners charge a services fee, and technology partners grow through co-selling and joint go-to-market campaigns.」（https://www.sensflo.ai/partnerships/partner-programs・1回目）
+  - 「Client support is included in each engagement, and consulting partners develop new opportunities jointly with the SensFlo sales team. SensFlo is presented under its own brand in this program, so there is no white-label or co-brand option. Firms that want to resell the software itself and keep a margin on each sale should look at the」（https://www.sensflo.ai/partnerships/partner-programs/consulting・1回目）
+- 資金調達：
+  - 「Calculate your return on AI investment in under 2-minutes. See exactly how much FloControl™ can increase your revenue.」（https://www.sensflo.ai/・1回目）
+  - 「Investor & Advisor」（https://www.sensflo.ai/about・1回目）
+  - 「President & Owner of The CTD Group. Early SensFlo customer and seed investor, instrumental in validating product-market fit and shaping AI-driven CPQ.」（https://www.sensflo.ai/about・1回目）
+  - 「Strategy & Business Development Analyst at Bobcat Company. Three-time SensFlo investor, instrumental in refining pricing model and supporting GTM strategy.」（https://www.sensflo.ai/about・1回目）
+  - 「SensFlo 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/327529-45・3回目）
+  - 「Follow capital flows across investors, deals, and industry trends」（https://pitchbook.com/profiles/company/327529-45・3回目）
+  - 「Find investment opportunities and active investors faster」（https://pitchbook.com/profiles/company/327529-45・3回目）
+  - 「Validate investment decisions with verified company and financial data」（https://pitchbook.com/profiles/company/327529-45・3回目）
+  - 「Investors」（https://pitchbook.com/profiles/company/327529-45・3回目）
+  - 「Explore investor track records and activity」（https://pitchbook.com/profiles/company/327529-45・3回目）
+  - 「Access timely lending and investment data」（https://pitchbook.com/profiles/company/327529-45・3回目）
+  - 「Discover the go-to workflow hub for every investment stage」（https://pitchbook.com/profiles/company/327529-45・3回目）
+- 存続：
+  - 「The latest data for closed-end fund returns across strategies」（https://pitchbook.com/profiles/company/327529-45・3回目）
+  - 「Acquisitions」（https://pitchbook.com/profiles/company/327529-45・3回目）
+- ホワイトラベル明言：
+  - 「Powered by SensFlo AI」（https://www.sensflo.ai/・1回目）
+  - 「License SensFlo and embed it in the equipment you build and sell under your brand.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Co-brand / white label」（https://www.sensflo.ai/partnerships/partner-programs・1回目）
+  - 「Client support is included in each engagement, and consulting partners develop new opportunities jointly with the SensFlo sales team. SensFlo is presented under its own brand in this program, so there is no white-label or co-brand option. Firms that want to resell the software itself and keep a margin on each sale should look at the」（https://www.sensflo.ai/partnerships/partner-programs/consulting・1回目）
+  - 「Delivery under the SensFlo brand, since the Consulting program has no white-label or co-brand option.」（https://www.sensflo.ai/partnerships/partner-programs/consulting・1回目）
+  - 「Co-brand / white label」（https://www.sensflo.ai/partnerships/partner-programs/consulting・1回目）
+  - 「Can consulting partners co-brand or white-label SensFlo?」（https://www.sensflo.ai/partnerships/partner-programs/consulting・1回目）
+  - 「License SensFlo and embed it in the equipment you build and sell under your brand.」（https://www.sensflo.ai/partnerships/partner-programs/consulting・1回目）
+  - 「Because the product carries your brand, you also take on the parts of the lifecycle a SensFlo customer would normally get from us: installation, first-line support, marketing and sales. SensFlo provides the licensing rights, engineer certification, implementation documentation and escalation support your team needs to do that well. Companies that want a lighter commitment usually start with the」（https://www.sensflo.ai/partnerships/partner-programs/oem・1回目）
+  - 「Your brand on every screen」（https://www.sensflo.ai/partnerships/partner-programs/oem・1回目）
+  - 「Co-brand / white label」（https://www.sensflo.ai/partnerships/partner-programs/oem・1回目）
+  - 「No. In the OEM model SensFlo is invisible to end customers. Dashboards, alerts and reports are presented under your brand as part of your product.」（https://www.sensflo.ai/partnerships/partner-programs/oem・1回目）
+- OEM・組込み：
+  - 「Custom API access」（https://www.sensflo.ai/・1回目）
+  - 「President & Owner of The CTD Group. Early SensFlo customer and seed investor, instrumental in validating product-market fit and shaping AI-driven CPQ.」（https://www.sensflo.ai/about・1回目）
+  - 「Managing Director & Partner at STS Capital Partners. Global manufacturing executive leading SensFlo's growth in Africa and Middle East while supporting plastics-focused GTM strategy.」（https://www.sensflo.ai/about・1回目）
+  - 「Managing Director at STS Capital Partners and Co-Founder of Augintel. With SensFlo since inception, shaping long-term value creation and strategic positioning.」（https://www.sensflo.ai/about・1回目）
+  - 「The SensFlo partner program lets companies that serve manufacturers offer real-time machine monitoring and AI production analytics as part of their own business. Partners earn through referral fees, resale margins, licensing, services fees or co-selling, depending on which of the five programs they join.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Every program includes marketing materials and 24/7 support, and most include a dedicated Partner Success Manager. Companies can combine programs as the relationship grows, for example a machine builder that embeds SensFlo through the」（https://www.sensflo.ai/partnerships・1回目）
+  - 「OEM program」（https://www.sensflo.ai/partnerships・1回目）
+  - 「License SensFlo and embed it in the equipment you build and sell under your brand.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Licensing fee」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Machine OEMs」（https://www.sensflo.ai/partnerships・1回目）
+  - 「CNC, injection molding, and industrial controller manufacturers looking to embed real-time monitoring and analytics directly into their hardware products.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Gain access to co-branded materials and technical resources shared by the partner team. Reseller, OEM, and Consulting partners complete SensFlo certification before their first client engagement.」（https://www.sensflo.ai/partnerships・1回目）
+- 再販制度：
+  - 「Partner Programs」（https://www.sensflo.ai/・1回目）
+  - 「Reseller」（https://www.sensflo.ai/・1回目）
+  - 「Partner Programs」（https://www.sensflo.ai/about・1回目）
+  - 「Reseller」（https://www.sensflo.ai/about・1回目）
+  - 「IIoT Partner Program for Manufacturing | SensFlo」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Partner Programs」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Reseller」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Compare partner programs」（https://www.sensflo.ai/partnerships・1回目）
+  - 「SensFlo partner program?」（https://www.sensflo.ai/partnerships・1回目）
+  - 「The SensFlo partner program lets companies that serve manufacturers offer real-time machine monitoring and AI production analytics as part of their own business. Partners earn through referral fees, resale margins, licensing, services fees or co-selling, depending on which of the five programs they join.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「What partner program fits」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Industrial distributors」（https://www.sensflo.ai/partnerships・1回目）
+- 日本対応：
+  - 「Industrial distributors」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Distributors serving manufacturing clients with strong networks who can make warm introductions to operational and engineering decision-makers.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Industrial distributors」（https://www.sensflo.ai/partnerships/partner-programs/referral・1回目）
+  - 「and include machine builders, systems integrators, industrial distributors and consulting firms.」（https://www.sensflo.ai/partnerships/partners・1回目）
+- 顧客：
+  - 「Sensors attach to any machine in under 60 seconds without wiring or programming. Most customers have live data on their first day.」（https://www.sensflo.ai/・1回目）
+  - 「Your team gets accurate, current data to work from. Most customers identify losses they didn't know they had within the first 30 days and see 20%+ improvement in utilization.」（https://www.sensflo.ai/・1回目）
+  - 「We collaborate with clients and partners to create tailored solutions that fit for real-world needs.」（https://www.sensflo.ai/about・1回目）
+  - 「Partners are a strategic element to SensFlo's go-to-market initiatives. Leverage your expertise to help clients progress their digital transformations, all while building a profitable practice around industry-leading IIoT software.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Certify your engineers and bill clients for SensFlo implementation services.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Introduce qualified manufacturers and earn a fee when they become SensFlo customers.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Integrate your hardware or software with SensFlo and co-sell to shared customers.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Systems integrators and solutions providers building end-to-end operational platforms for factory clients who want to add a data intelligence layer.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Distributors serving manufacturing clients with strong networks who can make warm introductions to operational and engineering decision-makers.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Specialized consultancies focused on operational efficiency, digital transformation, or IIoT who want to deliver best-in-class analytics to their clients.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「Help for you and your clients at any hour.」（https://www.sensflo.ai/partnerships・1回目）
+  - 「industries. Partners often specialize in one or more of these verticals. If your clients operate in an adjacent sector,」（https://www.sensflo.ai/partnerships・1回目）
+- 検索結果の抜粋：
+  - 「SensFlo 2026 Company Profile: Valuation, Funding & Investors — SensFlo 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/327529-45・3回目）
+  - 「SensFlo About | Real-Time Manufacturing Intelligence — SensFlo About | Real-Time Manufacturing Intelligence SensFlo https://www.sensflo.ai > about」（https://www.sensflo.ai/about・3回目）
+  - 「SensFlo - LinkedIn — SensFlo - LinkedIn LinkedIn https://www.linkedin.com > sensflo」（https://www.linkedin.com/company/sensflo・3回目）
+  - 「SensFlo (@sensfloai) - Facebook — SensFlo (@sensfloai) - Facebook Facebook https://www.facebook.com > ... > Software Company」（https://www.facebook.com/sensfloai/・3回目）
+  - 「SensFlo : Real-Time Machine Monitoring Software & AI ... — SensFlo : Real-Time Machine Monitoring Software & AI ... SensFlo https://www.sensflo.ai」（https://www.sensflo.ai/・3回目）
+  - 「SensFlo 2026 Company Profile : Valuation, Funding & Investors — SensFlo 2026 Company Profile : Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/327529-45・3回目）
+  - 「2027 State of AI in Manufacturing Report - Articles - SensFlo — 2027 State of AI in Manufacturing Report - Articles - SensFlo SensFlo https://www.sensflo.ai > articles > 202...」（https://www.sensflo.ai/articles/2027-state-of-ai-in-manufacturing-report・3回目）
+  - 「Reseller program for industrial IoT solution providers - SensFlo — Reseller program for industrial IoT solution providers - SensFlo SensFlo https://www.sensflo.ai > reseller」（https://www.sensflo.ai/partnerships/partner-programs/reseller・3回目）
+  - 「SensFlo for Consumer Goods: Line & Fill Accuracy Monitoring — SensFlo for Consumer Goods: Line & Fill Accuracy Monitoring SensFlo https://www.sensflo.ai > Industries」（https://www.sensflo.ai/industries/consumer-goods・3回目）
+  - 「Yen Chang, PhD - Founder at SensFlo - LinkedIn — Yen Chang, PhD - Founder at SensFlo - LinkedIn LinkedIn https://www.linkedin.com > ...」（https://www.linkedin.com/in/yen-chang-phd-0319b7159・3回目）
+  - 「OEM partner program for industrial equipment makers - SensFlo — OEM partner program for industrial equipment makers - SensFlo SensFlo https://www.sensflo.ai > oem」（https://www.sensflo.ai/partnerships/partner-programs/oem・3回目）
+  - 「IIoT Partner Program for Manufacturing - SensFlo — IIoT Partner Program for Manufacturing - SensFlo SensFlo https://www.sensflo.ai > partnerships」（https://www.sensflo.ai/partnerships・3回目）
+- 株主：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部42頁・検索20回）
+- 設立：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部42頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部42頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部42頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部42頁・検索20回）
+- 代表者：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部42頁・検索20回）
+
 ## Tech Soft 3D
 - 公式URL：https://www.techsoft3d.com（given）
 - 株主構成：
@@ -875,6 +1529,142 @@
 - 所在地：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）
 - 売上高：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）
 - 代表者：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部46頁・検索14回）
+
+## Ubidots
+- 公式URL：https://ubidots.com（given）
+- 株主：Household or individual Business, building, hospital or fleet operator Manufacturer or operator of production assets（https://ubidots.com/blog/iot-consumer-vs-commercial-vs-industrial-main-overview/・1回目）
+- 株主構成：
+  - 「or logged manually. Set severity levels, assign ownership, and keep a full audit trail. Add」（https://ubidots.com/pricing・1回目）
+  - 「IoT Predictive Maintenance: 10 Benefits, Backed by Data」（https://ubidots.com/blog/・1回目）
+  - 「Based on regenerative farming, the Bungoma experiments have produced promising results when compared to traditional farming methods. Backed by data and the implementation of cover crops, no-till farming, and crop rotation, the experiment has managed to increase the soil’s CO2 retention compared to more traditional methods.」（https://ubidots.com/case-studies/open-implementing-precision-farming-in-kenya・1回目）
+  - 「IoT Predictive Maintenance: 10 Benefits, Backed by Data」（https://ubidots.com/blog/latest/・1回目）
+  - 「IoT Predictive Maintenance: 10 Benefits, Backed by Data」（https://ubidots.com/blog/author/agustin/・1回目）
+  - 「Industrial AI agents built on these four layers — data connection, reasoning, action channel and outside tools — are already running in named plants, and vendors from Siemens to Tractian ship the architecture as a product. The public record is specific enough to check, and every example below is backed by the company's own announcement or documentation, listed under Sources.」（https://ubidots.com/blog/how-industrial-ai-agents-are-deployed/・1回目）
+  - 「IoT Predictive Maintenance: 10 Benefits, Backed by Data」（https://ubidots.com/blog/tag/predictive-maintenance/・1回目）
+  - 「IoT Predictive Maintenance: 10 Benefits, Backed by Data」（https://ubidots.com/blog/iot-predictive-maintenance/・1回目）
+  - 「has been backed by several prominent investors over the years, including:」（https://www.highperformr.ai/company/ubidots・3回目）
+  - 「Viking Analytics builds MultiViz, an AI platform for vibration-based predictive maintenance. Its machine-learning models monitor hundreds or thousands of sensors with no alarm thresholds or baselines to set up, then rank the machines that need attention and explain the symptoms behind each alert. Customers keep ownership of their data, and MultiViz runs in the cloud or on-premise.」（https://ncd.io/partner/・3回目）
+- 創業年度：
+  - 「Prospect Control is an engineering company that focuses on industrial control and automation systems. It was founded in 2006 by Steve Barker, and is based in Melbourne, Australia.」（https://ubidots.com/case-studies/prospect-control-bringing-iot-to-industrial-companies-in-australia・1回目）
+  - 「The company is called Solutions 4 IoT (shortened as S4IoT), it was founded in 2016, has 12 employees, and operates from the state of Jalisco, Mexico, to all of Latin America.」（https://ubidots.com/case-studies/s4iot-keeping-mexican-gardens-alive-using-ubidots-and-quectel・1回目）
+  - 「is an organization that aims to enhance education around the globe by integrating new technologies and real-world relevance into the learning experience. Established in 1998, OPEN initially focused on serving the education sector but has since expanded its reach to include commercial, NGO, and government sectors. Its global network spans 17 countries and includes learners, customers, and partners.」（https://ubidots.com/case-studies/open-implementing-precision-farming-in-kenya・1回目）
+  - 「is an Indian startup based in Delhi. Founded in 2020, YuDash offers Industrial IoT edge products and solutions for a wide range of industries, allowing them to carve a niche customer base worldwide.」（https://ubidots.com/case-studies/yudash-industrial-iot-solutions-for-energy-management・1回目）
+  - 「sending data 24/7. 150K+ STEM users. Operating since 2012.」（https://github.com/ubidots・3回目）
+  - 「Digi is a leading provider of IoT products and solutions supporting industries from retail and banking to medical, transportation and remote industrial solutions. Since 1985, Digi International Inc. (Digi) has been a pioneer in wireless communication, forging the future for connected devices and responding to the needs of the people and enterprises that use them.」（https://ncd.io/partner/・3回目）
+- 黒字・収益性：
+  - 「Nonprofits」（https://github.com/ubidots・3回目）
+- 売上：
+  - 「Darryl Schembri」（https://ubidots.com/・1回目）
+  - 「sales@ubidots.com」（https://ubidots.com/・1回目）
+  - 「Each data point carries a value, timestamp, and context metadata—including GPS coordinates—for complete, actionable records.」（https://ubidots.com/product/iot-friendly-apis・1回目）
+  - 「Darryl Schembri」（https://ubidots.com/product/iot-friendly-apis・1回目）
+  - 「sales@ubidots.com」（https://ubidots.com/product/iot-friendly-apis・1回目）
+  - 「As for the platform, Quantify Environmental has found a pivotal component of their solutions in Ubidots. This versatile tool provides them with the ability to seamlessly integrate a wide array of sensors and hardware from different suppliers, transforming disparate streams of data into cohesive and meaningful insights.」（https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots・1回目）
+  - 「After speaking to some industry contacts and partners, they came across Ubidots and it immediately caught their attention due to its reputation in the industry and its wide array of features that addressed specific requirements.」（https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots・1回目）
+  - 「sales@ubidots.com」（https://ubidots.com/pricing・1回目）
+  - 「Yes. Ubidots dashboards display live sensor data as it arrives, with instant updates across all connected widgets. You can monitor multiple devices simultaneously in a single dashboard — comparing readings side by side, aggregating values across a fleet, or switching between devices dynamically using built-in device selectors and filters.」（https://ubidots.com/pricing・1回目）
+  - 「We offer +20 visualization widgets ready to use. This wide array will allow you to easily configure your own dashboards based on your IoT solution's logic.」（https://ubidots.com/pricing・1回目）
+  - 「Additionally, Ubidots has an Australian deployment hosted in AWS. This is offered and supported by an Ubidots authorized distributor, invoiced locally in AUD. Reach out to sales@ubidots.com to request more information.」（https://ubidots.com/pricing・1回目）
+  - 「Darryl Schembri」（https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots・1回目）
+- 資金調達：
+  - 「For these benefits, the IoT solution has resulted in a good return on investments within a few months.」（https://ubidots.com/case-studies/ais-technology-an-iot-solution-to-cut-energy-costs-and-automate-billing-using-ubidots・1回目）
+  - 「OPEN seeks to plant the seeds of innovation in the apprentices of each project, like those involved in the experiment at Bungoma, Kenya, where the goal is for local farmers to improve their practices and achieve better results with regenerative agriculture through precision farming.」（https://ubidots.com/case-studies/open-implementing-precision-farming-in-kenya・1回目）
+  - 「Time-series buckets plus Entities for structured data; retention configurable up to 9 years」（https://tago.io/compare/ubidots・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Ubidots・3回目）
+  - 「Total Funding」（https://growjo.com/company/Ubidots・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Ubidots・3回目）
+  - 「Valuation」（https://growjo.com/company/Ubidots・3回目）
+  - 「Valuation Console」（https://www.milemarker.co/integrations/ubidots・3回目）
+  - 「Investment Center」（https://www.milemarker.co/integrations/ubidots・3回目）
+  - 「Showcase and analyze proprietary and curated investments.」（https://www.milemarker.co/integrations/ubidots・3回目）
+  - 「Unify Investment Management」（https://www.milemarker.co/integrations/ubidots・3回目）
+  - 「Investors」（https://www.highperformr.ai/company/ubidots・3回目）
+- 存続：
+  - 「Eagle.io Alternatives: How Ubidots Compares After the Bentley Acquisition (2026)」（https://ubidots.com/blog/・1回目）
+  - 「"No development for 3 years" — and the bill is climbing toward $20K/month. Here's how Ubidots compares to Eagle.io on pricing, multi-tenancy, Python scripting, and white labeling after the Bentley acquisition.」（https://ubidots.com/blog/・1回目）
+  - 「What is SCADA? Supervisory Control & Data Acquisition Explained」（https://ubidots.com/blog/・1回目）
+  - 「Eagle.io Alternatives: How Ubidots Compares After the Bentley Acquisition (2026)」（https://ubidots.com/blog/latest/・1回目）
+  - 「"No development for 3 years" — and the bill is climbing toward $20K/month. Here's how Ubidots compares to Eagle.io on pricing, multi-tenancy, Python scripting, and white labeling after the Bentley acquisition.」（https://ubidots.com/blog/latest/・1回目）
+  - 「What is SCADA? Supervisory Control & Data Acquisition Explained」（https://ubidots.com/blog/latest/・1回目）
+  - 「What is SCADA? Supervisory Control & Data Acquisition Explained」（https://ubidots.com/blog/author/agustin/・1回目）
+  - 「Launch your business’ digital initiatives with Ubidots’ IIoT software for cloud-based data acquisition, analysis, and visualization. System Integrators, end users, and OEMs from around the world use Ubidots to effortlessly turn data into action and improve KPIs and services.」（https://blues.com/partner-catalog/ubidots/・3回目）
+  - 「Universal Acquisition Transmitter」（https://partners.sigfox.com/companies/ubidots・3回目）
+- ホワイトラベル明言：
+  - 「White-label」（https://ubidots.com/・1回目）
+  - 「The power of Ubidots — under your own brand」（https://ubidots.com/・1回目）
+  - 「Custom domain, colors & logo」（https://ubidots.com/・1回目）
+  - 「Deliver an experience that puts your brand front and center.」（https://ubidots.com/・1回目）
+  - 「Customize your app's layout, navigation, and design to match your brand and user needs.」（https://ubidots.com/・1回目）
+  - 「AI for IoT: Your machines, your data, your brand. With AI agents that watch, reason, and act.」（https://ubidots.com/・1回目）
+  - 「Deliver fully branded, white-labeled web or mobile applications for each client or business unit — complete with custom domains, logos, color schemes, and your own branded AI agents — so every experience feels like your platform.」（https://ubidots.com/・1回目）
+  - 「Tailor white-labeled dashboards and Apps for operators, technicians, or executives.」（https://ubidots.com/・1回目）
+  - 「Use white-labeled apps with your domain, logo, and styling, so your customers see your platform, not someone else’s.」（https://ubidots.com/・1回目）
+  - 「White label」（https://ubidots.com/・1回目）
+  - 「Custom Domain, Colors & Logo」（https://ubidots.com/・1回目）
+  - 「All plans include access to core features like live dashboards, the events engine, and optional white-labeling. Contact Ubidots to choose the plan that best fits your needs.」（https://ubidots.com/・1回目）
+- OEM・組込み：
+  - 「Developer-friendly environment to code or embed your own widgets or even entire platform pages.」（https://ubidots.com/・1回目）
+  - 「IoT-Friendly APIs」（https://ubidots.com/・1回目）
+  - 「Build custom interfaces or embed external content to tailor your dashboards to your needs.」（https://ubidots.com/・1回目）
+  - 「Data API」（https://ubidots.com/・1回目）
+  - 「API Reference」（https://ubidots.com/・1回目）
+  - 「Use templates and APIs to standardize your rollouts and scale client projects efficiently.」（https://ubidots.com/・1回目）
+  - 「Use templates and APIs」（https://ubidots.com/・1回目）
+  - 「Embed connectivity into your equipment and deliver built-in value from day one.」（https://ubidots.com/・1回目）
+  - 「Build AI-powered custom widgets and pages, or embed external content, to tailor your dashboards to your needs.」（https://ubidots.com/・1回目）
+  - 「API Documentation」（https://ubidots.com/・1回目）
+  - 「IoT-Friendly APIs」（https://ubidots.com/product/iot-friendly-apis・1回目）
+  - 「Developer-friendly environment to code or embed your own widgets or even entire platform pages.」（https://ubidots.com/product/iot-friendly-apis・1回目）
+- 再販制度：
+  - 「Synthetic Variables」（https://ubidots.com/・1回目）
+  - 「Streamline device onboarding with templates that define properties, variables, and appearance.」（https://ubidots.com/・1回目）
+  - 「In Ubidots, an AI agent is built directly on top of your existing devices, variables, and dashboards — there's no separate integration step. You configure the agent's model, system prompt, and behavior in the AI Center, and it reasons over the operational data already connected to your account.」（https://ubidots.com/・1回目）
+  - 「Synthetic Variables」（https://ubidots.com/product/iot-friendly-apis・1回目）
+  - 「Streamline device onboarding with templates that define properties, variables, and appearance.」（https://ubidots.com/product/iot-friendly-apis・1回目）
+  - 「Connect devices using lightweight pub/sub messaging with QoS support and retained variable values.」（https://ubidots.com/product/iot-friendly-apis・1回目）
+  - 「Yes. Ubidots supports cloud-to-device communication via MQTT subscriptions. Devices that maintain an active MQTT connection can subscribe to topics and receive commands, configuration changes, or variable updates pushed from Ubidots in real time. This makes MQTT the preferred protocol for bidirectional device communication in Ubidots deployments.」（https://ubidots.com/product/iot-friendly-apis・1回目）
+  - 「Ease of integration with various IoT hardware」（https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots・1回目）
+  - 「Another of Ubidots’ standout features, Synthetic Variables, allows Quantify Environmental to engineer new variables using raw data, creating custom parameters that offer unique insights into their clients' consumption patterns. This feature drives their ability to deliver bespoke, data-driven solutions tailored to each client's specific needs.」（https://ubidots.com/case-studies/quantify-environmental-slashing-utility-costs-with-ubidots・1回目）
+  - 「Synthetic Variables」（https://ubidots.com/case-studies・1回目）
+  - 「Streamline device onboarding with templates that define properties, variables, and appearance.」（https://ubidots.com/case-studies・1回目）
+  - 「Synthetic Variables」（https://ubidots.com/pricing・1回目）
+- 日本対応：
+  - 「Additionally, Ubidots has an Australian deployment hosted in AWS. This is offered and supported by an Ubidots authorized distributor, invoiced locally in AUD. Reach out to sales@ubidots.com to request more information.」（https://ubidots.com/pricing・1回目）
+  - 「, and that number drives everything below. Prices are indicative US distributor list prices, sourced September 2026; they exclude installation entirely, and regional pricing varies.」（https://ubidots.com/blog/cellular-energy-monitoring/・1回目）
+  - 「> Distributors」（https://ncd.io/partner/・3回目）
+  - 「Distributors」（https://partners.sigfox.com/companies/ubidots・3回目）
+  - 「Wiki SeeedStudio (日本語)」（https://wiki.seeedstudio.com/ja/Getting_started_with_Ubidots/・3回目）
+- 顧客：
+  - 「Case Study」（https://ubidots.com/・1回目）
+  - 「Connect and visualize field assets across multiple clients and locations.」（https://ubidots.com/・1回目）
+  - 「Ubidots is not only robust and reliable, but also extremely user-friendly, offering intuitive data visualization tools that are easily comprehensible by our clients.”」（https://ubidots.com/・1回目）
+  - 「Use white-labeled apps with your domain, logo, and styling, so your customers see your platform, not someone else’s.」（https://ubidots.com/・1回目）
+  - 「Manage thousands of connected assets across regions and customers, all from one multi-tenant environment.」（https://ubidots.com/・1回目）
+  - 「With Ubidots, our hardware integrates seamlessly into full IoT solutions. Their tools let us deliver scalable, customized platforms that work right out of the box for our customers.”」（https://ubidots.com/・1回目）
+  - 「Quantify Environmental uses Ubidots to monitor utilities across sites, helping clients cut costs through real-time data and alerts.」（https://ubidots.com/・1回目）
+  - 「Reduced utility expenses across multiple clients」（https://ubidots.com/・1回目）
+  - 「Prospect Control uses Ubidots to deliver remote tank level monitoring for industrial customers, replacing complex PLC/SCADA setups with a scalable, web-based IoT solution.」（https://ubidots.com/・1回目）
+  - 「Significant annual cost savings and faster ROI for industrial clients」（https://ubidots.com/・1回目）
+  - 「S4IoT uses Ubidots to remotely monitor irrigation systems in urban gardens, helping clients reduce maintenance costs, prevent plant loss, and shift from manual operations to a scalable subscription-based model.」（https://ubidots.com/・1回目）
+  - 「Ubidots is trusted by thousands of companies, engineers, and system integrators in industries such as manufacturing, agriculture, energy, healthcare, smart cities, and more. The platform is ideal for any application that requires remote monitoring and control of connected devices.」（https://ubidots.com/・1回目）
+- 検索結果の抜粋：
+  - 「Ubidots : Industrial IoT Platform with AI Agents — Ubidots : Industrial IoT Platform with AI Agents Ubidots https://ubidots.com」（https://ubidots.com/・3回目）
+  - 「Ubidots - LinkedIn — Ubidots - LinkedIn LinkedIn https://www.linkedin.com > ubidots」（https://www.linkedin.com/company/ubidots・3回目）
+  - 「Ubidots - LinkedIn — Ubidots - LinkedIn LinkedIn Colombia https://co.linkedin.com > ubidots」（https://co.linkedin.com/company/ubidots・3回目）
+  - 「Ubidots - Blues Wireless — Ubidots - Blues Wireless blues.com https://blues.com > ubidots」（https://blues.com/partner-catalog/ubidots/・3回目）
+  - 「TagoIO vs. Ubidots | IoT Application Platforms Compared — TagoIO vs. Ubidots | IoT Application Platforms Compared TagoIO https://tago.io > Compare」（https://tago.io/compare/ubidots・3回目）
+  - 「What is Ubidots ? - YouTube — What is Ubidots ? - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=YTQdTAXkq8Y・3回目）
+  - 「Ubidots : Revenue , Competitors, Alternatives - Growjo — Ubidots : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Ubidots」（https://growjo.com/company/Ubidots・3回目）
+  - 「Ubidots Data Integration - Milemarker — Ubidots Data Integration - Milemarker Milemarker https://www.milemarker.co > ubidots」（https://www.milemarker.co/integrations/ubidots・3回目）
+  - 「Ubidots STEM Software Pricing, Alternatives & More 2026 — Ubidots STEM Software Pricing, Alternatives & More 2026 Capterra https://www.capterra.com > Ubidots」（https://www.capterra.com/p/240058/Ubidots/・3回目）
+  - 「Ubidots - GitHub — Ubidots - GitHub GitHub https://github.com > ubidots」（https://github.com/ubidots・3回目）
+  - 「Where is Ubidots Located? HQ, Global Offices & Company ... — Where is Ubidots Located? HQ, Global Offices & Company ... Highperformr https://www.highperformr.ai > ubidots」（https://www.highperformr.ai/company/ubidots・3回目）
+  - 「Ubidots (@ ubidots ) • Instagram photos and videos — Ubidots (@ ubidots ) • Instagram photos and videos Instagram https://www.instagram.com > ubidots」（https://www.instagram.com/ubidots/・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部49頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部49頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部49頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部49頁・検索20回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部49頁・検索20回）
 
 ## nTop
 - 公式URL：https://www.ntop.com（given）

@@ -1,0 +1,1968 @@
+{
+ "name": "Cloud Studio IoT",
+ "aliases": [
+  "Cloud Studio",
+  "Gear Studio"
+ ],
+ "context": "予知保全・工場IoT ホワイトラベル",
+ "researched_at": "2026-11-04T10:56:48.852830+00:00",
+ "official_url": "https://cloudstudioiot.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "2020 in Madrid, Spain. The team has built IoT projects since 2017, when it started in Argentina.",
+    "url": "https://cloudstudioiot.com/about",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "売上": [
+   {
+    "quote": "LoRaWAN, MQTT, NB-IoT and more carry that telemetry to the platform.",
+    "url": "https://cloudstudioiot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manuel Pérez Larraburu",
+    "url": "https://cloudstudioiot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tarragona",
+    "url": "https://cloudstudioiot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact Sales",
+    "url": "https://cloudstudioiot.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Manuel Pérez Larraburu",
+    "url": "https://cloudstudioiot.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tarragona",
+    "url": "https://cloudstudioiot.com/success-cases",
+    "pass": 1
+   },
+   {
+    "quote": "What Is NB-IoT? How Narrowband IoT Works and When to Use It",
+    "url": "https://cloudstudioiot.com/partners/aws",
+    "pass": 1
+   },
+   {
+    "quote": "NB-IoT (narrowband IoT) explained: how it works, PSM and eDRX, NB-IoT vs LTE-M vs LoRaWAN vs Sigfox, operators in the US, Mexico and Spain, and when to use it.",
+    "url": "https://cloudstudioiot.com/partners/aws",
+    "pass": 1
+   },
+   {
+    "quote": "What Is NB-IoT? How Narrowband IoT Works and When to Use It",
+    "url": "https://cloudstudioiot.com/partners/chirpstack",
+    "pass": 1
+   },
+   {
+    "quote": "NB-IoT (narrowband IoT) explained: how it works, PSM and eDRX, NB-IoT vs LTE-M vs LoRaWAN vs Sigfox, operators in the US, Mexico and Spain, and when to use it.",
+    "url": "https://cloudstudioiot.com/partners/chirpstack",
+    "pass": 1
+   },
+   {
+    "quote": "3GPP-standardized cellular LPWAN — carrier coverage",
+    "url": "https://cloudstudioiot.com/hub/use-cases/asset-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "What Is NB-IoT? How Narrowband IoT Works and When to Use It",
+    "url": "https://cloudstudioiot.com/hub/use-cases/asset-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "NB-IoT (narrowband IoT) explained: how it works, PSM and eDRX, NB-IoT vs LTE-M vs LoRaWAN vs Sigfox, operators in the US, Mexico and Spain, and when to use it.",
+    "url": "https://cloudstudioiot.com/hub/use-cases/asset-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "3GPP-standardized cellular LPWAN — carrier coverage",
+    "url": "https://cloudstudioiot.com/hub/use-cases/fleet-management",
+    "pass": 1
+   },
+   {
+    "quote": "3GPP-standardized cellular LPWAN — carrier coverage",
+    "url": "https://cloudstudioiot.com/hub/use-cases/smart-metering",
+    "pass": 1
+   },
+   {
+    "quote": "What Is NB-IoT? How Narrowband IoT Works and When to Use It",
+    "url": "https://cloudstudioiot.com/hub/use-cases/smart-metering",
+    "pass": 1
+   },
+   {
+    "quote": "NB-IoT (narrowband IoT) explained: how it works, PSM and eDRX, NB-IoT vs LTE-M vs LoRaWAN vs Sigfox, operators in the US, Mexico and Spain, and when to use it.",
+    "url": "https://cloudstudioiot.com/hub/use-cases/smart-metering",
+    "pass": 1
+   },
+   {
+    "quote": "Turn one-time hardware sales (CAPEX) into recurring monthly revenue (MRR)",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Generate recurring revenue from managed IoT services",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Getting started follows a straightforward process. No 12-month onboarding cycles, no enterprise sales gauntlet.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "3GPP-standardized cellular LPWAN — carrier coverage",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "MoviTHERM is a thermal imaging solutions company based in California. They sold industrial thermal cameras — a one-time hardware sale with thin margins and no recurring revenue.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Shifted from CAPEX (one-time camera sales) to MRR (monthly SaaS subscriptions)",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "This article covers what the term actually guarantees, which parts of a platform have to be rebrandable before the label means anything, how the economics compare with building in-house, and the regulatory consequence that most integrators discover late: putting your name on a connected product makes you its manufacturer under European law, and the first deadline for it arrives this month.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The real driver is that the integrator's asset is the client relationship, and platform ownership decides who holds it. When the dashboard carries the vendor's name, the client's operations team learns the vendor's name. Renewals get compared against the vendor's own direct offering. The integrator becomes an installer.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Publishing under your own Apple and Google developer accounts is a different arrangement from a shared vendor app with a tenant code. The first is yours to keep. The second means your client installs an app with another company's name in the store listing, and migrating away later means asking every user to reinstall.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Most platforms let you change a logo and a color. Fewer let you change the sender domain, which requires SPF and DKIM records on your side. If the vendor cannot support a custom sending domain, your alerts either carry their brand or land in spam.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Building only makes sense when the platform itself is the product you intend to sell, and you have the capital to fund two years before revenue. For most integrators, the platform is a means to deliver vertical expertise, and two years of engineering payroll buys a lot of field engineers instead.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The penalties are not symbolic. Failure to meet the reporting duties carries administrative fines of up to EUR 15 million or 2.5% of worldwide annual turnover, whichever is higher.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Two formulas carry the entire AI business case. Keep them simple enough that a CFO can recompute them on a napkin:",
+    "url": "https://cloudstudioiot.com/hub/industrial-ai-roi",
+    "pass": 1
+   },
+   {
+    "quote": "Early fire detection is an advanced system that leverages cutting-edge sensors, connectivity, and intelligent controls to identify the earliest signs of fire before it escalates. It utilizes an array of sensors such as",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "3GPP-standardized cellular LPWAN — carrier coverage",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "NB-IoT (Narrowband IoT) is a cellular-based",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "and reduced the operational downtime, thereby preserving significant revenue and maintaining supply chain commitments.",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": ". In Europe it operates in the 868 MHz band and in North America in the 915 MHz band -- both license-free. Any city council, utility, or System Integrator can deploy its own network without negotiating spectrum with a carrier.",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": "Magnetometer or radar sensors embedded in the asphalt detect whether a space is occupied and transmit each state change. The city gets real-time occupancy per zone, feeds guidance panels and citizen apps, and finally measures actual turnover in regulated parking areas. A space sensor sends a few dozen messages per day -- the ideal scenario for long battery life.",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": "Licensed (carrier)",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier coverage",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile carrier",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": ", coverage arrives ready on day one in exchange for a recurring fee and a dependency on the carrier's roadmap. That is why the most common pattern is hybrid: an owned LoRaWAN network for the bulk of static sensing, and",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": "3GPP-standardized cellular LPWAN — carrier coverage",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": "Projects that start as \"a platform for the whole city\" tend to die in the pilot. Projects that start with one concrete service and one auditable indicator (street lighting kWh, m³ of non-revenue water, avoided collection routes) get the budget for phase two. Design the network for the first case, but size it knowing more services will ride the same gateways.",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": "arrow_forward",
+    "url": "https://play.google.com/store/apps/details?id=studio.cloud.gear",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル明言": [
+   {
+    "quote": "Your brand, your solution",
+    "url": "https://cloudstudioiot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Put your logo and your customer's logo on our platform",
+    "url": "https://cloudstudioiot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "White Label",
+    "url": "https://cloudstudioiot.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White Label x2: Instance + Client",
+    "url": "https://cloudstudioiot.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What does white-label customization include?",
+    "url": "https://cloudstudioiot.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label IoT AEP",
+    "url": "https://cloudstudioiot.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label IoT Platform: Why Integrators Choose It",
+    "url": "https://cloudstudioiot.com/hub/use-cases/asset-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "A white-label IoT platform is infrastructure you rent, dress in your brand, and sell to clients as your own product. The label is the whole point.",
+    "url": "https://cloudstudioiot.com/hub/use-cases/asset-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label and Mobile",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "delivers. A white-label",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "built for B2B2B partnerships, where your clients see your brand, your domain, and your solution. Behind it is a team whose partners have more than 15 years in technology.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "white-labeled under your brand",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "— so you can sell a complete IoT solution alongside your hardware. Your domain. Your colors. Your logo. Your clients never see ours.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "white-labeled",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": ", so every client sees your brand, not ours.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "You get a dedicated instance with white-label configuration: your domain, your branding, your notification templates. If you need",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Full white-label: custom domain, colors, logo, email templates, notification branding. Native iOS and Android mobile apps — also white-labeled under your brand. Multi-tenant management with granular role-based access control.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "True white-label from day one.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "for comparable white-labeling. AWS IoT and",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label IoT Platform: Why Integrators Choose It",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "What a White-Label IoT Platform Actually Is",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Why Integrators Choose a White-Label IoT Platform",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "What Has to Be Rebrandable Before You Call It White-Label",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-Tenancy: the Line Between Rebranding and a Product",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Build, Buy, or White-Label: Where the Money Goes",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Your Brand on the Box Makes You the Manufacturer",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "How to Evaluate a White-Label IoT Platform Before You Sign",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "A white-label",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "platform is infrastructure you rent, dress in your brand, and sell to clients as your own product. The label is the whole point.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "This article covers what the term actually guarantees, which parts of a platform have to be rebrandable before the label means anything, how the economics compare with building in-house, and the regulatory consequence that most integrators discover late: putting your name on a connected product makes you its manufacturer under European law, and the first deadline for it arrives this month.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Your domain, your logo, your colors, your emails, your mobile app in your developer account, your documentation. Not a logo swap in the top-left corner.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Vendors sell all three under one word, and the gap between them is where the disappointment lives. A platform that rebrands the web interface but sends alert emails from `notifications@vendor.io` is white-label in the demo and vendor-branded in the client's inbox. That single detail has ended pilots.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The industry term for the underlying software is Application Enablement Platform (AEP): the layer between raw device connectivity and the application your client actually uses. White-label is a commercial property of the AEP, not a technical feature you can grep for in a datasheet.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Rebranding one installation gives you one client. Serving twelve clients from one installation is what turns the platform into a product line, and it is a different technical property entirely.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "White-label",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The row that decides it in practice is the last one. Ask any white-label vendor for their data export format and their contract termination terms before signing, not after. A vendor confident about both will tell you in a sentence. If moving out later ever becomes necessary, the",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Read that against a white-label deployment. Your logo, your domain, your app in your developer account, sold to your client as your product. Under this definition, that is your product, and the obligations attach to you rather than to the platform vendor whose code runs underneath.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "None of this argues against white-labeling. It argues for choosing a vendor whose disclosure process you have actually read, because their process is now an input to your legal exposure.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "A white-label IoT platform lets an integrator sell an IoT product under its own brand without funding 12 to 24 months of platform engineering first.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-tenancy is what turns a rebranded installation into a repeatable product. Ask how isolation is enforced and how a tenant is offboarded.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Studio IoT is built for this model: partners deploy under their own brand, on their own domain, with multi-tenant separation for their clients, in the cloud or on-premise. If you are weighing the build-versus-white-label decision for a project already on your desk, see the",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Dashboards and alarms for each of your clients on the network server you already use, under your brand.",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": "IoT Cloud Platform: Low-Code, White-Label, Multi-Tenant",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label IoT Platform",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "We make it easy to provide your own IoT services under your brand. Our white-label IoT platform ensures product security and maintenance, allowing you to focus on expanding your business. Upload your logo, use your own URL, and customize notification templates.",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Domain",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Branding",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Studio IoT is a low-code IoT platform for companies that need to connect devices, watch their data and act on it without building the software themselves. It runs in the cloud or on your own servers, speaks LoRaWAN, MQTT and NB-IoT, connects Modbus equipment through an edge gateway, and is multi-tenant and white-label from day one. Plans start at 100 € per month.",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "White-label IoT platform guide",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "White label",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "powered by",
+    "url": "https://cloudstudioiot.com/_next/image?url=%2Flogos%2Fpartners%2Fpowered-by-aws.png&w=256&q=75&dpl=dpl_7HPtajXGwNEKR7PZWDjgKh6XGwY3",
+    "pass": 2
+   },
+   {
+    "quote": "White Label",
+    "url": "https://market.thingpark.com/cloud-studio-iot-platform.html",
+    "pass": 3
+   },
+   {
+    "quote": "Apply your own branding (logos & preferred colors) to offer your own solution.",
+    "url": "https://market.thingpark.com/cloud-studio-iot-platform.html",
+    "pass": 3
+   },
+   {
+    "quote": "The platform is white label and agnostic in terms of connectivity and hardware, which allows digital transformation projects to be scaled agilely, increasing the versatility of the solutions and allowing to optimize costs.",
+    "url": "https://www.goodfirms.co/software/cloud-studio-iot-platform",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Throughout the various IoT projects we have developed together, the collaboration with Cloud Studio IoT has been key to the successful execution of our initiatives.",
+    "url": "https://cloudstudioiot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Studio IoT's platform stands out for its ability to integrate a wide variety of LoRaWAN devices and for the outstanding support it offers.",
+    "url": "https://cloudstudioiot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I resell the AI-ready platform under my own brand?",
+    "url": "https://cloudstudioiot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Studio IoT's platform stands out for its ability to integrate a wide variety of LoRaWAN devices and for the outstanding support it offers.",
+    "url": "https://cloudstudioiot.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Variables Monitored",
+    "url": "https://cloudstudioiot.com/success-cases",
+    "pass": 1
+   },
+   {
+    "quote": "The next fifteen years will witness a profound transformation driven by the convergence of Artificial Intelligence (AI) and the Internet of Things (IoT). This integration, envisioned by experts like Gerald Santucci, promises advancements across various sectors but also presents s",
+    "url": "https://cloudstudioiot.com/hub/use-cases/agricultura-precision",
+    "pass": 1
+   },
+   {
+    "quote": "Considering Spain for your next LoRaWAN gateway procurement? While the European market offers robust options, navigating local distributors, manufacturers, and",
+    "url": "https://cloudstudioiot.com/hub/use-cases/agricultura-precision",
+    "pass": 1
+   },
+   {
+    "quote": "The next fifteen years will witness a profound transformation driven by the convergence of Artificial Intelligence (AI) and the Internet of Things (IoT). This integration, envisioned by experts like Gerald Santucci, promises advancements across various sectors but also presents s",
+    "url": "https://cloudstudioiot.com/hub/use-cases/structural-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Three IoT Partner Program Models, One Platform",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "How the IoT Partner Program Works",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "What the IoT Partner Program Includes",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Why Partners Choose the IoT Partner Program",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Join the IoT Partner Program",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "partner program",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "The IoT partner program co-innovation model changes that equation. Cloud Studio IoT provides the entire software stack —",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Bluetooth Low Energy (BLE) is the low-power variant of Bluetooth, for sending small amounts of data intermittently with minimal battery. It dominates wearables and proximity. Maintained by the Bluetooth SIG.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Studio IoT’s IoT partner program for integrators gives you exactly that. Configure isolated spaces for each client, apply vertical-specific templates, and manage your entire portfolio from one dashboard. The platform is",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "The IoT partner program operator model supports",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "We understand your vertical, your clients, and your technical requirements. The IoT partner program is designed to align with your business model from day one. 30 minutes, no pitch — just alignment on whether the partnership makes sense.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "The IoT partner program includes access to the full platform stack — not a stripped-down version with upgrade gates at every turn.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "The IoT partner program is built for companies that want to launch or scale IoT solutions without building platform infrastructure from scratch. Whether you manufacture devices, integrate systems, or operate managed services — the model adapts to your business.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the partner program",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "for a logistics operator. Different sensors, different protocols, three clients who all expect a dashboard with their own logo on it. Building that software three times is not a business. Building it once and reselling it under someone else's brand is not a business either, because the client relationship goes to whoever owns the login screen.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "You choose what the SLA covers, what a support ticket costs, and what an extra 500 devices are worth. Reselling someone else's plan means reselling their price list.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Resell someone else's",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": ". A distributor or importer who puts a product on the market under their own brand, or who substantially modifies it, is treated as the manufacturer too.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "specification or a proprietary variant; the",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "partner program",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": ". This connectivity allows for real-time data transmission and the integration of sophisticated algorithms that analyze sensor outputs continuously. By correlating inputs from multiple sensor types, early fire detection systems can distinguish between normal environmental variations and genuine fire hazards, thereby",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "With the a variety of sensors such as smoke detectors, temperature sensors, infrared cameras, and gas detectors, early fire detection systems continuously monitor the environment for",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Variable",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Studio runs with a variety of different LoRaWAN network servers including The Things Network, Actility, LORIOT, Orbiwise, and many more. Create your own templates using our scripting tool for any device you choose.",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Can I resell it under my own brand?",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Primera versión de Cloud Studio IoT para Android. Consulta el estado de tus instalaciones, atiende las alarmas desde el propio aviso, sigue las variables en vivo y su histórico, y abre tus paneles y mapas. Los avisos de alarma llegan aunque la aplicación esté cerrada.",
+    "url": "https://play.google.com/store/apps/details?id=studio.cloud.gear",
+    "pass": 3
+   },
+   {
+    "quote": "X-Magento-Vary",
+    "url": "https://market.thingpark.com/cloud-studio-iot-platform.html",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://cloudstudioiot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Many customers in one",
+    "url": "https://cloudstudioiot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage multiple customers on a single platform",
+    "url": "https://cloudstudioiot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 100+ companies",
+    "url": "https://cloudstudioiot.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "10 clients",
+    "url": "https://cloudstudioiot.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "50 clients",
+    "url": "https://cloudstudioiot.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Clients",
+    "url": "https://cloudstudioiot.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What our customers say",
+    "url": "https://cloudstudioiot.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Featured Case Study",
+    "url": "https://cloudstudioiot.com/success-cases",
+    "pass": 1
+   },
+   {
+    "quote": "A multi-tenant IoT platform is the difference between serving twelve clients and running twelve separate systems in order to do it.",
+    "url": "https://cloudstudioiot.com/partners/aws",
+    "pass": 1
+   },
+   {
+    "quote": "A white-label IoT platform is infrastructure you rent, dress in your brand, and sell to clients as your own product. The label is the whole point.",
+    "url": "https://cloudstudioiot.com/hub/use-cases/asset-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "A multi-tenant IoT platform is the difference between serving twelve clients and running twelve separate systems in order to do it.",
+    "url": "https://cloudstudioiot.com/hub/use-cases/fleet-management",
+    "pass": 1
+   },
+   {
+    "quote": "A multi-tenant IoT platform is the difference between serving twelve clients and running twelve separate systems in order to do it.",
+    "url": "https://cloudstudioiot.com/hub/use-cases/structural-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How MoviTHERM Transformed Its Business Model",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "product from scratch takes 12 to 18 months and hundreds of thousands in development costs. Most device manufacturers and system integrators don’t have that runway. They need a platform that works today — one they can brand as their own, configure for their vertical, and deploy to clients without writing a single line of dashboard code.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "built for B2B2B partnerships, where your clients see your brand, your domain, and your solution. Behind it is a team whose partners have more than 15 years in technology.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "You build sensors, gateways, or industrial equipment. Your clients buy the hardware — but they also expect dashboards, alerts, mobile apps, and analytics. Building that software layer in-house means hiring a development team, maintaining infrastructure, and competing in a market that isn’t your core expertise.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "— so you can sell a complete IoT solution alongside your hardware. Your domain. Your colors. Your logo. Your clients never see ours.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "You deploy solutions for end clients across industries — smart buildings,",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Manage hundreds of clients from a single multi-tenant instance",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": ", data sovereignty across EU, US, and LATAM regions, and multi-tenant architecture designed for hundreds of concurrent clients. The platform runs on AWS infrastructure with enterprise SLAs and auto-scaling.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy on-premise for clients with data sovereignty requirements",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "We understand your vertical, your clients, and your technical requirements. The IoT partner program is designed to align with your business model from day one. 30 minutes, no pitch — just alignment on whether the partnership makes sense.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy to your first clients. Our technical support team backs you via email, WhatsApp, or dedicated channels, with incident response in under 60 minutes on premium support plans.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Built for partners managing many clients, not retrofitted from a single-tenant architecture. One instance, unlimited organizations.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Yale, Walmart, BGH, Ciudad de Buenos Aires, and UC3M. AWS-powered. 30+ verticals deployed in production.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "platform is infrastructure you rent, dress in your brand, and sell to clients as your own product. The label is the whole point.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "for a logistics operator. Different sensors, different protocols, three clients who all expect a dashboard with their own logo on it. Building that software three times is not a business. Building it once and reselling it under someone else's brand is not a business either, because the client relationship goes to whoever owns the login screen.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Whether the platform can hold twelve of your clients side by side, each seeing only their own devices, each with their own users and roles, without you running twelve installations.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Rebranding one installation gives you one client. Serving twelve clients from one installation is what turns the platform into a product line, and it is a different technical property entirely.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Support periods, how security fixes reach your tenants, and whether you can update without asking your clients to schedule downtime.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Some clients (defense, utilities, certain public tenders) will require it. Knowing whether the same platform can run in a client's data center saves you from turning down the tender.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Studio IoT is built for this model: partners deploy under their own brand, on their own domain, with multi-tenant separation for their clients, in the cloud or on-premise. If you are weighing the build-versus-white-label decision for a project already on your desk, see the",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "A multi-tenant IoT platform is the difference between serving twelve clients and running twelve separate systems in order to do it.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "A vendor's \"customers see 40 percent savings\" slide is an average of other people's plants. *The fix:* require any ROI projection to be computed on your assets, your downtime history, and your energy tariff. A vendor unwilling to do that math is telling you something.",
+    "url": "https://cloudstudioiot.com/hub/industrial-ai-roi",
+    "pass": 1
+   },
+   {
+    "quote": "Early Fire Detection System: The MoviTHERM Case Study",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "offers advanced solutions for quality inspection, non-destructive testing, and condition monitoring across diverse industries. By focusing on customer satisfaction and adapting to evolving needs, MoviTHERM consistently sets new standards in thermography and safety, ensuring that its clients benefit from the very best in technology-driven solutions.",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“Partnering with Cloud Studio IoT has enabled us to significantly enhance our thermography solutions, providing critical situational awareness to our customers and helping them avoid catastrophic incidents. We eagerly anticipate continued innovation alongside Cloud Studio IoT beyond early fire detection solutions.”",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Dashboards and alarms for each of your clients on the network server you already use, under your brand.",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": "What your clients see",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Give your customers their own space. Create individual spaces for your clients with just a button press. Create unlimited instances and manage users, groups, and permissions for each one, so they can access only the features they need.",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Find a platform that meets your needs, not the other way around. Our IoT platform runs as a cloud service on AWS (Frankfurt for European customers, the US for the rest of the world) or on-premise on your own infrastructure. It's time to put your needs first.",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Systems can run in the cloud or on premises, with partner branding and separate spaces for multiple customers. Supported technologies include LoRaWAN, NB-IoT, MQTT and Bluetooth Low Energy.",
+    "url": "https://www.iot-apps.com/vendors/cloud-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "A: The platform supports partner branding and management of multiple customers.",
+    "url": "https://www.iot-apps.com/vendors/cloud-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "This cookie is necessary for the cache function. A cache is used by the website to optimize the response time between the visitor and the website. The cache is usually stored on the visitor’s browser.",
+    "url": "https://market.thingpark.com/cloud-studio-iot-platform.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cookies are small text files that can be used by websites to make a user's experience more efficient.",
+    "url": "https://market.thingpark.com/cloud-studio-iot-platform.html",
+    "pass": 3
+   },
+   {
+    "quote": "Manage multiple customers and their facilities within the same platform.",
+    "url": "https://market.thingpark.com/cloud-studio-iot-platform.html",
+    "pass": 3
+   },
+   {
+    "quote": "List your business and win projects from ready-to-buy clients.",
+    "url": "https://www.goodfirms.co/software/cloud-studio-iot-platform",
+    "pass": 3
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "API Integration",
+    "url": "https://cloudstudioiot.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "includes pre-built templates for 100+ sensor types. Custom devices get onboarded through our REST API or",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time dashboards with drag-and-drop widgets. Rule-based alert engine with multi-channel notifications (email, SMS, push, webhook). Automation rules for device-to-device logic without coding. Historical analytics with trend analysis and exportable reports. Web SCADA interfaces with scripting for industrial-grade control. Full REST API for every platform function.",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Device management, ingestion, storage, a rules engine, dashboards, an API. This is the part every vendor demonstrates.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The isolation question deserves a direct answer from the vendor, in writing. \"Each client sees only their devices\" describes a filter. Ask instead where the tenant identifier is enforced and what happens to a hand-crafted API request that names another tenant's device ID. A platform that answers that question precisely has thought about it. One that answers with a screenshot has not.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Building only makes sense when the platform itself is the product you intend to sell, and you have the capital to fund two years before revenue. For most integrators, the platform is a means to deliver vertical expertise, and two years of engineering payroll buys a lot of field engineers instead.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Create a second tenant yourself. Try to reach its data from the first one via the API.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "API before UI.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Every integration you will ever sell (ERP, BI, GIS, maintenance systems) goes through the API. If it is undocumented or partial, the platform is a silo with a nice dashboard.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": ", enabling a rapid response long before",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "creates a proactive safety net. Sensors continuously feed data into centralized systems that not only trigger immediate alerts for rapid emergency response but also support",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "above normal levels. Using technologies such as thermistors or thermocouples, these sensors convert temperature changes into electrical signals, which are sampled at intervals as low as one second. This rapid sampling rate ensures that even the earliest thermal anomalies are captured, potentially reducing detection times by up to",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": ". Ionization detectors, meanwhile, employ a small radioactive source to maintain an ion current, and even a slight disruption in this current from low concentrations of smoke triggers an alert. Both methods work to reduce false alarms while ensuring rapid intervention.",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "to pinpoint emerging hotspots before flames appear. This real-time monitoring is crucial in environments where fires can rapidly escalate.",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "per second to accurately track rapid changes. Integrated image processing converts raw data into clear thermal maps for precise hotspot localization.",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": ", with a rapid response time",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Connectivity technologies are the backbone of early fire detection systems, providing the means to rapidly and reliably transmit critical sensor data to centralized monitoring platforms and emergency response centers. Here’s an in-depth exploration of the key wireless protocols and their role in enhancing fire safety:",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "provided a flexible, secure, and agile IoT platform perfectly suited for rapid innovation. Together, we developed and launched the fully operational, market-ready solution in",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "This rapid time-to-market allowed",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": ". The economic impact was profound, with property and capital losses estimated between",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Technologies such as Zigbee, Wi-Fi, LoRaWAN, NB-IoT, and 5G are employed to ensure rapid and secure transmission of sensor data to centralized systems, facilitating real-time analysis and reducing response times.",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Magnetometer or radar sensors embedded in the asphalt detect whether a space is occupied and transmit each state change. The city gets real-time occupancy per zone, feeds guidance panels and citizen apps, and finally measures actual turnover in regulated parking areas. A space sensor sends a few dozen messages per day -- the ideal scenario for long battery life.",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": "The network server delivers binary payloads; the municipal service needs dashboards, alerts, reports, and APIs. In between sit the payload decoders for each sensor model, device lifecycle management, and integration with the systems the city already runs (GIS, ticketing, ERP). A",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": "Our IoT platform offers an embedded MQTT broker that allows you to easily integrate devices and control them with a simple interface featuring payload decoders and downlinks. Control your MQTT devices from the comfort of our platform.",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Used to track user’s interaction with embedded content.",
+    "url": "https://market.thingpark.com/cloud-studio-iot-platform.html",
+    "pass": 3
+   },
+   {
+    "quote": "Stores the user's video player preferences using embedded YouTube video",
+    "url": "https://market.thingpark.com/cloud-studio-iot-platform.html",
+    "pass": 3
+   },
+   {
+    "quote": "Industries served, licensing and the support",
+    "url": "https://www.goodfirms.co/software/cloud-studio-iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Licensing",
+    "url": "https://www.goodfirms.co/software/cloud-studio-iot-platform",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "2020 in Madrid, Spain. The team has built IoT projects since 2017, when it started in Argentina.",
+    "url": "https://cloudstudioiot.com/about",
+    "pass": 1
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "Data ownership: who can export it, in what format, and what happens if you change vendor.",
+    "url": "https://cloudstudioiot.com/hub/use-cases/agricultura-precision",
+    "pass": 1
+   },
+   {
+    "quote": "The real driver is that the integrator's asset is the client relationship, and platform ownership decides who holds it. When the dashboard carries the vendor's name, the client's operations team learns the vendor's name. Renewals get compared against the vendor's own direct offering. The integrator becomes an installer.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Considering Spain for your next LoRaWAN gateway procurement? While the European market offers robust options, navigating local distributors, manufacturers, and",
+    "url": "https://cloudstudioiot.com/hub/use-cases/agricultura-precision",
+    "pass": 1
+   },
+   {
+    "quote": ". A distributor or importer who puts a product on the market under their own brand, or who substantially modifies it, is treated as the manufacturer too.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "アメリカ合衆国 (日本語)",
+    "url": "https://play.google.com/store/apps/details?id=studio.cloud.gear",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "Expand your product portfolio without new R&D investment",
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "A white-label IoT platform lets an integrator sell an IoT product under its own brand without funding 12 to 24 months of platform engineering first.",
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The fastest returns come from lighting, waste, and water; parking and air quality consolidate the investment.",
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "pass": 1
+   },
+   {
+    "quote": "With the flexibility to customize solutions to meet your unique business needs, Cloud Studios' IoT Application ensures that you get the most out of your investment.",
+    "url": "https://market.thingpark.com/cloud-studio-iot-platform.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Complete Recipe for Founders, Product Leaders, and Investors",
+    "url": "https://www.goodfirms.co/software/cloud-studio-iot-platform",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "in property damage to the facility. Additionally, the process unit was shut down for nearly a year before restarting operations in November 2024, leading to significant operational downtime and financial losses. ​",
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Cloud Studio IoT : Industrial AI Software for IoT — Cloud Studio IoT : Industrial AI Software for IoT Cloud Studio IoT https://cloudstudioiot.com",
+    "url": "https://cloudstudioiot.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Studio IoT - ArcGIS StoryMaps — Cloud Studio IoT - ArcGIS StoryMaps ArcGIS StoryMaps https://storymaps.arcgis.com > stories",
+    "url": "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Studio IoT - Apps on Google Play — Cloud Studio IoT - Apps on Google Play Google Play https://play.google.com > apps > details",
+    "url": "https://play.google.com/store/apps/details?id=studio.cloud.gear",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Studio (@cloudstudioiot) - Facebook — Cloud Studio (@cloudstudioiot) - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/cloudstudioiot/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Studio IoT (@cloudstudioiot) · Madrid - Instagram — Cloud Studio IoT (@cloudstudioiot) · Madrid - Instagram Instagram https://www.instagram.com > cloudst...",
+    "url": "https://www.instagram.com/cloudstudioiot/",
+    "pass": 3
+   },
+   {
+    "quote": "CLOUD STUDIO - Crunchbase Company Profile & Funding — CLOUD STUDIO - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > cloud-...",
+    "url": "https://www.crunchbase.com/organization/cloud-studio-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Studio : IoT Solutions and Hardware — Cloud Studio : IoT Solutions and Hardware iot-apps.com https://www.iot-apps.com > vendors",
+    "url": "https://www.iot-apps.com/vendors/cloud-studio.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Studio | IoT Platform - ThingPark — Cloud Studio | IoT Platform - ThingPark ThingPark https://market.thingpark.com > cloud-...",
+    "url": "https://market.thingpark.com/cloud-studio-iot-platform.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Studio IoT Platform Reviews & Pricing 2026 | Goodfirms — Cloud Studio IoT Platform Reviews & Pricing 2026 | Goodfirms Goodfirms https://www.goodfirms.co > software",
+    "url": "https://www.goodfirms.co/software/cloud-studio-iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Studio's IoT Platform | Internet of Things Wiki - Fandom — Cloud Studio's IoT Platform | Internet of Things Wiki - Fandom Fandom https://iot-fpms.fandom.com > wiki",
+    "url": "https://iot-fpms.fandom.com/wiki/Cloud_Studio%27s_IoT_Platform",
+    "pass": 3
+   },
+   {
+    "quote": "IoT Cloud Platform: Low-Code, White-Label, Multi-Tenant — IoT Cloud Platform: Low-Code, White-Label, Multi-Tenant Cloud Studio IoT https://cloudstudioiot.com > iot-platfo...",
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Studio IoT - Crunchbase Company Profile & Funding — Cloud Studio IoT - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > cloud-...",
+    "url": "https://www.crunchbase.com/organization/cloud-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Studio IoT - LinkedIn — Cloud Studio IoT - LinkedIn LinkedIn https://es.linkedin.com > company > c...",
+    "url": "https://es.linkedin.com/company/cloud-studio-iot",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Cloud Studio IoT - LinkedIn Cloud Studio IoT - LinkedIn LinkedIn https://es.linkedin.com > company > c...",
+    "url": "https://es.linkedin.com/company/cloud-studio-iot",
+    "pass": 3
+   },
+   {
+    "quote": "Joaquin Cervera - CEO en Cloud Studio IoT - LinkedIn Joaquin Cervera - CEO en Cloud Studio IoT - LinkedIn LinkedIn https://es.linkedin.com > joaquin-cerv...",
+    "url": "https://es.linkedin.com/in/joaquin-cervera/en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Cloud Studio (@cloudstudioiot) - Facebook Cloud Studio (@cloudstudioiot) - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/cloudstudioiot/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://cloudstudioiot.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/success-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/hub/use-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/contact?from=%2Fpricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/partners/abeeway",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/partners/actility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/partners/aws",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/partners/axenova",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/partners/bgh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/partners/caiot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/partners/chirpstack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/partners/connectedyou",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/contact?from=%2Fsuccess-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/hub/use-cases/agricultura-precision",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/hub/use-cases/asset-tracking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/hub/use-cases/cold-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/hub/use-cases/fleet-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/hub/use-cases/predictive-maintenance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/hub/use-cases/structural-monitoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/hub/use-cases/smart-metering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/hub/iot-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/hub/white-label-iot-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/hub/industrial-ai-roi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/hub/early-fire-detection-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/hub/lorawan-smart-cities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/iot-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloudstudioiot.com/contact?from=%2Fhub%2Fiot-partner-program",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cloudstudioiot.com/_next/image?url=%2Flogos%2Fpartners%2Fmovitherm.svg&w=1920&q=75&dpl=dpl_7HPtajXGwNEKR7PZWDjgKh6XGwY3",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cloudstudioiot.com/_next/image?url=%2Flogos%2Fpartners%2Fbgh.svg&w=1920&q=75&dpl=dpl_7HPtajXGwNEKR7PZWDjgKh6XGwY3",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cloudstudioiot.com/_next/image?url=%2Flogos%2Fpartners%2Fpowered-by-aws.png&w=256&q=75&dpl=dpl_7HPtajXGwNEKR7PZWDjgKh6XGwY3",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cloudstudioiot.com/_next/image?url=%2Flogos%2Fpartners%2Fmadrid-innovation.png&w=256&q=75&dpl=dpl_7HPtajXGwNEKR7PZWDjgKh6XGwY3",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cloudstudioiot.com/_next/image?url=%2Fimages%2Flegacy%2F2025%2F04%2FCopia-de-Partners-Image-Box-8.webp&w=1920&q=75&dpl=dpl_7HPtajXGwNEKR7PZWDjgKh6XGwY3",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cloudstudioiot.com/_next/image?url=%2Fimages%2Flegacy%2F2025%2F04%2FCopia-de-Partners-Image-Box-7-1.webp&w=1920&q=75&dpl=dpl_7HPtajXGwNEKR7PZWDjgKh6XGwY3",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://s-mat.co.jp/posts/PzQGV1sE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gmogshd.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbank.jp/corp/news/press/sbkk/2018/20180206_02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amnimo.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fintel.io/so/us/iot",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nasdaq.com/market-activity/stocks/iot/institutional-holdings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hedgefollow.com/stocks/IOT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketbeat.com/stocks/NYSE/IOT/institutional-ownership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iotcloud.studio/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=studio.cloud.gear",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iotcloud.studio/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/cloudstudioiot/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sas.com/en_us/company-information/annual-report.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ir.rackspace.com/news-releases/news-release-details/rackspace-technology-reports-fourth-quarter-and-full-year-2025/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925015480/tm257185d1_ex99-1.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://s22.q4cdn.com/444849635/files/doc_financials/2025/ar/2025-Annual-Report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/cloud-studio-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spectrocloud.com/news/spectro-cloud-raises-100-million-series-d-to-accelerate-production-ai-adoption",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/cloudstudioiot/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.iot-apps.com/vendors/cloud-studio.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.thingpark.com/cloud-studio-iot-platform.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://2smart.com/white-label-solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goodfirms.co/software/cloud-studio-iot-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iot-fpms.fandom.com/wiki/Cloud_Studio%27s_IoT_Platform",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/news/c3-energy-renamed-c3-iot-c3-iot-platform-launched-for-enterprise-markets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncd.io/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.milesight.com/iot/product/milesight-iot-cloud/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.also.com/ec/cms5/en_6000/6000/cloud/iot-platform/partner-program/index.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rackspace.com/partner/cloud-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iotcloud.studio/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/what-cloud-iot-core?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alibabacloud.com/en/product/iot?_p_lc=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://es.linkedin.com/company/cloud-studio-iot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://iotcloud.studio/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/cloud-studio-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/dreduce-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/cloud-com",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://es.linkedin.com/company/cloud-studio-iot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/in/joaquin-cervera/en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cloudstudioiot/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Cloud Studio IoT 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://s-mat.co.jp/posts/PzQGV1sE",
+    "https://www.gmogshd.com/ir/",
+    "https://www.softbank.jp/corp/news/press/sbkk/2018/20180206_02/",
+    "https://amnimo.com/company/",
+    "https://soracom.com/ja/news/20260515-named-a-leader-in-managed-iot-connectivity-services",
+    "https://www.cybernet.co.jp/ir/information/meeting/",
+    "https://www.fujielectric.co.jp/products/iot_system_solution/solution_detail/download_energy_management_support.html",
+    "https://jp.investing.com/equities/cloud-ownership",
+    "https://www.supermicro.com/ja-jp/featured/media-entertainment",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT shareholders ownership investors parent company",
+   "results": [
+    "https://fintel.io/so/us/iot",
+    "https://www.nasdaq.com/market-activity/stocks/iot/institutional-holdings",
+    "https://hedgefollow.com/stocks/IOT",
+    "https://www.marketbeat.com/stocks/NYSE/IOT/institutional-ownership/",
+    "https://finance.yahoo.com/quote/IOT/holders/",
+    "https://www.capboard.io/en/investors/cloud",
+    "https://iot-analytics.com/iot-startup-landscape/",
+    "https://www.lincolninternational.com/perspectives/articles/emerging-iot-innovations-attract-corporate-and-private-equity-investment/",
+    "https://cloudstudioiot.com/",
+    "https://app.dealroom.co/companies/cloud_studio_iot"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT 設立 OR 創業 OR founded",
+   "results": [
+    "https://cloudstudioiot.com/",
+    "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "https://iotcloud.studio/",
+    "https://play.google.com/store/apps/details?id=studio.cloud.gear",
+    "https://www.facebook.com/cloudstudioiot/",
+    "https://www.instagram.com/cloudstudioiot/",
+    "https://cloudstudioiot.com/about",
+    "https://www.iot-apps.com/vendors/cloud-studio.html",
+    "https://www.iotcloud.studio/en/our-dna/",
+    "https://www.founded.com/"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT revenue profitable",
+   "results": [
+    "https://cloudstudioiot.com/",
+    "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "https://iotcloud.studio/",
+    "https://www.instagram.com/cloudstudioiot/",
+    "https://www.fortunebusinessinsights.com/iot-cloud-platform-market-110364",
+    "https://iot-analytics.com/iot-platform-comparison-how-providers-stack-up/",
+    "https://flolive.net/blog/the-uphill-climb-to-iot-profitability/",
+    "https://www.snsinsider.com/reports/iot-cloud-platform-market-3414",
+    "https://www.xyte.ai/blog/iot-monetization",
+    "https://www.crunchbase.com/organization/cloud-studio"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT EBITDA net income annual report",
+   "results": [
+    "https://www.sas.com/en_us/company-information/annual-report.html",
+    "https://ir.rackspace.com/news-releases/news-release-details/rackspace-technology-reports-fourth-quarter-and-full-year-2025/",
+    "https://www.sec.gov/Archives/edgar/data/1513845/000110465925015480/tm257185d1_ex99-1.htm",
+    "https://s22.q4cdn.com/444849635/files/doc_financials/2025/ar/2025-Annual-Report.pdf",
+    "https://www.macrotrends.net/stocks/charts/IOT/samsara/net-income",
+    "https://www.ses.com/sites/default/files/2026-03/SES_AR25_2MAR26_vs21_web-LR.pdf",
+    "https://finance.yahoo.com/quote/IOT/key-statistics/",
+    "https://www.ghco.com/static-files/bb2d3e56-c5eb-419a-ba9f-00b9dffcdbba",
+    "https://investors.globalstar.com/news-releases/news-release-details/globalstar-announces-fourth-quarter-and-full-year-2025-results/",
+    "https://stocklight.com/stocks/us/nyse-net/cloudflare/annual-reports/nyse-net-2025-10K-25646025.pdf"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT funding raised",
+   "results": [
+    "https://cloudstudioiot.com/",
+    "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "https://www.crunchbase.com/organization/cloud-studio-ltd",
+    "https://www.spectrocloud.com/news/spectro-cloud-raises-100-million-series-d-to-accelerate-production-ai-adoption",
+    "https://greylock.com/blog/vc-funding-for-the-cloud/",
+    "https://iotcloud.studio/",
+    "https://www.linkedin.com/posts/phil-pergola-740933_seriesc-fundraising-ai-activity-7333837713118289920-6OnZ",
+    "https://growthlist.co/cloud-computing-startups/",
+    "https://www.facebook.com/cloudstudioiot/",
+    "https://www.crunchbase.com/organization/cloud-studio"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://cloudstudioiot.com/",
+    "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "https://www.facebook.com/cloudstudioiot/",
+    "https://www.iot-apps.com/vendors/cloud-studio.html",
+    "https://www.particle.io/",
+    "https://cloudstudioiot.com/terms",
+    "https://blogs.microsoft.com/blog/2016/05/03/microsoft-acquires-solair-to-help-customers-harness-the-power-of-the-internet-of-things/",
+    "https://apps.apple.com/jp/app/cloud-studio-iot/id6779258113",
+    "https://es.linkedin.com/in/joaquin-cervera/en",
+    "https://www.thethingsindustries.com/docs/integrations/cloud-integrations/zoho-iot/"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT white label",
+   "results": [
+    "https://market.thingpark.com/cloud-studio-iot-platform.html",
+    "https://2smart.com/white-label-solution",
+    "https://www.goodfirms.co/software/cloud-studio-iot-platform",
+    "https://iot-fpms.fandom.com/wiki/Cloud_Studio%27s_IoT_Platform",
+    "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vLAm2N110Yl1ffPwVJaEZCJKnPVxPJq0VcB1F3Ov4n6WGIA20Im",
+    "https://cloudstudioiot.com/",
+    "https://www.crunchbase.com/organization/cloud-studio",
+    "https://m2miotconnect.com/white-label-iot-platform-for-iot-partners/",
+    "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "https://cloudstudioiot.com/iot-platform"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://cloudstudioiot.com/",
+    "https://cloudstudioiot.com/iot-platform",
+    "https://c3.ai/news/c3-energy-renamed-c3-iot-c3-iot-platform-launched-for-enterprise-markets",
+    "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "https://thingsboard.io/",
+    "https://rainmaker.espressif.com/",
+    "https://www.opentext.com/products/rebrand",
+    "https://digitalisationworld.com/blogs/4586-challenges-of-connecting-iot-devices-to-the-cloud-what-you-need-to-know",
+    "https://fumaxtech.com/iot/",
+    "https://wiio.com/customization-private-label/"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT OEM SDK licensing partners",
+   "results": [
+    "https://cloudstudioiot.com/",
+    "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "https://ncd.io/partner/",
+    "https://www.milesight.com/iot/product/milesight-iot-cloud",
+    "https://loriot.io/ecosystem.html",
+    "https://www.sensflo.ai/partnerships/partner-programs/technology",
+    "https://www.seeedstudio.com/blog/2025/05/19/odm-vs-oem-vs-licensing-program-services-you-should-know-from-seeed-studios-customization-offerings/?srsltid=AYCX9vKNP2Q3yXCwITrJponlfv-HA544JZFLHmcTnEAF2nDqWG4Z8uVu",
+    "https://www.globant.com/studio/iot",
+    "https://iotcloud.studio/",
+    "https://cloudstudioiot.com/partners"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT reseller partner program",
+   "results": [
+    "https://cloudstudioiot.com/",
+    "https://www.also.com/ec/cms5/en_6000/6000/cloud/iot-platform/partner-program/index.jsp",
+    "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "https://www.rackspace.com/partner/cloud-reseller",
+    "https://www.crunchbase.com/organization/cloud-studio",
+    "https://iotopen.io/en/partners/",
+    "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "https://m2mdataconnect.com/iot-partner-program/",
+    "https://cloud.google.com/partners",
+    "https://cloudstudioiot.com/hub/iot-partner-program"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT Jahresabschluss OR financial statements",
+   "results": [
+    "https://cloudstudioiot.com/",
+    "https://iotcloud.studio/",
+    "https://cloud.google.com/blog/topics/developers-practitioners/what-cloud-iot-core",
+    "https://www.alibabacloud.com/en/product/iot?_p_lc=1",
+    "https://azure.microsoft.com/en-us/blog/azure-iot-increases-enterpriselevel-intelligent-edge-and-cloud-capabilities/",
+    "https://docs.cloud.google.com/architecture/connected-devices/iot-platform-product-architecture",
+    "https://cloudstudioiot.com/status",
+    "https://www.mdpi.com/1424-8220/25/16/5124",
+    "https://www.renesas.com/en/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/cloudsolutions?srsltid=AYCX9vLlIIiFhP6W9rJGbzAYDgUMLXRGnEgx09e5_xas2OASVPrqbb58",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT Japan",
+   "results": [
+    "https://cloudstudioiot.com/",
+    "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "https://es.linkedin.com/company/cloud-studio-iot",
+    "https://iotcloud.studio/",
+    "https://biz.kddi.com/english/service/iot-cloud-standard/",
+    "https://www.instagram.com/cloudstudioiot/",
+    "https://www.globant.com/studio/iot",
+    "https://cloudstudioiot.com/docs",
+    "https://www.facebook.com/cloudstudioiot/",
+    "https://cloudstudioiot.com/hub/smart-cities-japan-piezoelectric-iot"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/organization/cloud-studio-ltd",
+    "https://www.crunchbase.com/organization/dreduce-ai",
+    "https://cloudstudioiot.com/",
+    "https://www.crunchbase.com/organization/cloud-com",
+    "https://revenuebase.ai/companies/browse/cloud-iot-platform-providers",
+    "https://www.crunchbase.com/organization/cloudzero",
+    "https://dealroom.co/news/162937-cloud-spend-startup-north-raises-60m-series-b/",
+    "https://north.cloud/newsroom/crunchbase-news-the-weeks-10-biggest-funding-rounds-spending-contracts-for-latest-ai-driven-startup-batch",
+    "https://www.cloudzero.com/blog/cloud-computing-statistics/",
+    "https://www.crunchbase.com/"
+   ]
+  },
+  {
+   "query": "site:note.com Cloud Studio IoT",
+   "results": [
+    "https://note.com/mitsuwapump/n/nf0ac9555ac77?hl=en",
+    "https://note.com/mitsuwapump/n/n9c6c0784b33b?hl=en",
+    "https://note.com/farm_eolica/m/mbcb8d61660c8/hashtag/IoT",
+    "https://note.com/ai_driven/n/n0b616b61a19f?hl=en",
+    "https://note.com/keitafukui/n/nf2ab1e00e0f1?hl=en",
+    "https://note.com/moriyakeiichi/n/n2284ce3cb2b0?hl=en",
+    "https://note.com/susa_lab/n/n00e7cf38b086",
+    "https://note.com/trust_dx/n/nac24dd266104",
+    "https://note.com/cxcreativestudio/n/n3fadae12c423",
+    "https://note.com/robothink/n/n10bcb24186dd?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com Cloud Studio IoT",
+   "results": [
+    "https://x.com/seeedstudio/status/2116062551704260864",
+    "https://x.com/OracleCloud",
+    "https://x.com/SemtechCorp/status/2117693336312050106",
+    "https://x.com/seeedstudio",
+    "https://x.com/hashtag/case",
+    "https://x.com/thethingsntwrk",
+    "https://x.com/hashtag/4g",
+    "https://x.com/hAru_mAki_ch/status/2028807247078560081",
+    "https://x.com/AzureSupport",
+    "https://x.com/balena_io"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Cloud Studio IoT",
+   "results": [
+    "https://es.linkedin.com/company/cloud-studio-iot",
+    "https://es.linkedin.com/in/joaquin-cervera/en",
+    "https://es.linkedin.com/in/diego-de-marco",
+    "https://www.linkedin.com/posts/joaquin-cervera_lorawan-activity-7518232545071824896-ow5X",
+    "https://www.linkedin.com/pulse/building-intelligent-iot-devices-wio-s3-esp32-s3-lora-module-qszac",
+    "https://www.linkedin.com/pulse/how-google-cloud-platform-empowers-iot-solutions-gcpmasters-91bbe",
+    "https://www.linkedin.com/company/zohoiot",
+    "https://in.linkedin.com/in/anandtaparia",
+    "https://www.linkedin.com/in/binsbaby",
+    "https://www.linkedin.com/in/pandu"
+   ]
+  },
+  {
+   "query": "site:facebook.com Cloud Studio IoT",
+   "results": [
+    "https://www.facebook.com/cloudstudioiot/",
+    "https://www.facebook.com/AtmosphereIoT/",
+    "https://www.facebook.com/GollisUniversityHq/posts/training-on-architecting-the-modern-home-iot-solutions-with-azure-successfully-d/122304442136027072/",
+    "https://www.facebook.com/Fogwing.IoT/posts/something-big-is-about-to-connect-the-industrial-world-the-countdown-is-on-can-y/1747942420678035/",
+    "https://www.facebook.com/uploadideaswithitamar/videos/fan-speed-control-with-seeed-studio-xiao-esp32c3-using-arduino-iot-cloud-arduino/9957251017643108/",
+    "https://www.facebook.com/microsoftazure/posts/take-your-iot-scenario-to-production-with-new-features-transparent-pricing-and-f/10155537558331956/",
+    "https://www.facebook.com/uploadideaswithitamar/posts/air-quality-monitoring-system-with-esp32-c3fh4-using-blynk-iot-cloud/1732206902247244/",
+    "https://www.facebook.com/groups/351994643955858/posts/1051757217312927/",
+    "https://www.facebook.com/RSComponents/posts/-could-you-build-a-pet-tracker-without-subscriptions-cloud-services-or-monthly-f/1501483762023801/",
+    "https://www.facebook.com/uploadideaswithitamar/videos/email-notifications-blynk-iot-cloud/1606028653766969/"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT note 社長",
+   "results": [
+    "https://cloudstudioiot.com/",
+    "https://www.instagram.com/cloudstudioiot/",
+    "https://www.renesas.com/ja/products/microcontrollers-microprocessors/iot-cloud-solutions?srsltid=AYCX9vLoN_7_xKKmW1CUdhWTR8V_soGtqvGcF-4iO8jDP3b104fssZSR",
+    "https://note.com/tinkermodejapan/n/nddcd30b32ee3",
+    "https://docs.cloud.google.com/data-studio/release-notes",
+    "https://note.com/mitsuwapump/n/nf0ac9555ac77?hl=en",
+    "https://docs.oracle.com/iaas/releasenotes/",
+    "https://note.com/tinkermodejapan/m/mbe5f852f0c04/hashtag/IoT",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://es.linkedin.com/in/joaquin-cervera"
+   ]
+  },
+  {
+   "query": "Cloud Studio IoT X 投稿",
+   "results": [
+    "https://cloudstudioiot.com/",
+    "https://www.thethingsindustries.com/docs/integrations/cloud-integrations/cloudstudio/",
+    "https://play.google.com/store/apps/details?id=studio.cloud.gear",
+    "https://storymaps.arcgis.com/stories/f18c19947e1f41779ab00eee5f8b2907",
+    "https://iotcloud.studio/",
+    "https://www.instagram.com/cloudstudioiot/",
+    "https://www.facebook.com/cloudstudioiot/",
+    "https://cloudstudioiot.com/docs",
+    "https://cloud.arduino.cc/",
+    "https://ide.cloud.tencent.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）",
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）",
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）",
+  "黒字・収益性": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部48頁・検索20回）"
+ }
+}

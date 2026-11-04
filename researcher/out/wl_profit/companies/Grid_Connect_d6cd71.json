@@ -1,0 +1,3398 @@
+{
+ "name": "Grid Connect",
+ "aliases": [
+  "Grid Connect Inc",
+  "ConnectSense"
+ ],
+ "context": "予知保全・工場IoT ホワイトラベル",
+ "researched_at": "2026-11-04T10:56:43.341463+00:00",
+ "official_url": "https://www.gridconnect.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "154,720 31,021",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "株主構成": [
+   {
+    "quote": "Full ownership",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re sourcing a standard networking device or looking for a hard-to-find part, our distribution team delivers the right solution, backed by engineers who understand how it fits into your system.",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Full ownership",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "\"We needed a partner who could work with us for a successful market-launch from idea to consumer research to store shelves in less than a year.” Eric Tinnemeyer, President at Wayne Water’s parent company, Scott Fetzer Consumer Brands",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"We needed a partner who could work with us for a successful market-launch from idea to consumer research to store shelves in less than a year.” Eric Tinnemeyer, President at Wayne Water’s parent company, Scott Fetzer Consumer Brands",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/custom",
+    "pass": 1
+   },
+   {
+    "quote": "\"We needed a partner who could work with us for a successful market-launch from idea to consumer research to store shelves in less than a year.” Eric Tinnemeyer, President at Wayne Water’s parent company, Scott Fetzer Consumer Brands",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/internet-of-things-iot",
+    "pass": 1
+   },
+   {
+    "quote": "\"We needed a partner who could work with us for a successful market-launch from idea to consumer research to store shelves in less than a year.” Eric Tinnemeyer, President at Wayne Water’s parent company, Scott Fetzer Consumer Brands",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "“Speed to market was why we called on Grid Connect to be our IoT development team and manufacturing partner,” said Eric Tinnemeyer, President at Wayne Water’s parent company, Scott Fetzer Consumer Brands. “We needed a partner who could work with us for a successful market-launch from idea to consumer research to store shelves in less than a year.”",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/wayne",
+    "pass": 1
+   },
+   {
+    "quote": "Grid is Good: The Case for Public Ownership of Transmission and Distribution",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "The public is already paying, and will inevitably pay, for the transformation of the grid to support a decarbonised electricity system. The question is how these costs are distributed and how investment is coordinated. Public ownership can address these urgent challenges.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Put another way, [.green]13% of NGET’s revenues — derived primarily from customer bills — went straight back to shareholders[.green] in the form of dividends.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Private ownership of transmission carries substantially higher borrowing costs than would be the case under public ownership: [.green]National Grid plc spent £9.2 billion on interest payments over the past decade — equivalent to 22% of its net capex.[.green]",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Public ownership will need to go hand in hand with changes to planning permissions, including mechanisms to engage and gain consent from communities affected by new grid construction. On these points, the recent Wisner Report from the UK’s Electricity Networks Commissioner makes several recommendations.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimately, because we all require electricity to participate and thrive in society, the public is already paying, and will inevitably pay, for the transformation of the grid to support a decarbonised electricity system and wider economy. The question is how these costs are distributed and how the required investment is coordinated. Public ownership can address these urgent challenges, offering:",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "What they fail to note is that during this period, the entirety of the electricity system was under public ownership and control, with investment and buildout correspondingly organised around a clearly defined and publicly coordinated goal of national development.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "National Grid Ownership and Financial Summary",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Shareholder Payouts",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "The scale of National Grid’s dividends is regulated by Ofgem under the allowed “cost of equity” in the RIIO framework. It is worth noting that under public ownership, the imperative to remunerate shareholders with large dividend payouts would be eliminated, drastically reducing the cost of equity and saving billions in the coming years as we race to decarbonise the grid.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Ownership",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[.img-caption]Table 2: National Grid Top Five Shareholders[.img-caption]",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Shareholder name",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Ownership of shares outstanding",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[.green]4[.green] The Case for Public Ownership of Transmission",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "The Potential Savings of Public Ownership",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "As an indication of the potential savings from public ownership of the grid, we examine the cost savings from taking the UK electricity transmission business segment of National Grid (NGET) into public ownership. Following the approach of Hall and Weghmann,",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[.box][.box-header]Box: International Comparisons of Grid Ownership[.box-header][.box-paragraph]It is worth noting that the UK is an outlier among peer countries in having a fully privatised grid. A selection of peer countries is presented here for the purposes of comparison.[.box-paragraph][.box-paragraph]",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Energinet owns, operates and develops Denmark’s electricity and natural gas transmission systems. It is an independent public enterprise owned by the Danish Ministry of Climate, Energy and Utilities.[.box-paragraph][.box-paragraph]",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Distribution networks in France are owned by local authorities, who subcontract the work of distribution to Enedis, which is ultimately a subsidiary of state-owned EDF. Transmission is owned and managed by RTE, jointly owned by EDF and the country’s public bank, Caisse des Depots.[.box-paragraph][.box]",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Importantly, these estimated costs are based in part on expectations of companies’ need to generate sufficient returns to cover their cost of capital, which is considerably inflated relative to the public as a result of higher average borrowing costs and the imperative to remunerate shareholders through billions in dividends.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Thus, where National Grid’s financial accounts are sufficient to raise the question of public ownership and governance, the DNOs set a new standard. According to financial data provider IBISWorld, in 2030 the DNOs had the fourth highest profit margins of any UK sector at 42.5%, with a range of financial services sectors currently occupying the top three spots.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 10, below, shows in the capital payments (interest on debts and shareholder payouts) of the parent companies of the DNOs as a percentage of both revenues and investment (gross capital expenditure). Notably, according to reporting by the",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": ", UK Power Networks, which services the London, the Southeast and East Anglia and is owned by Hong Kong billionaire Li Ka-Shing through CK Infrastructure Holdings, “paid a £217 million dividend to its owner in the year to 2022”, having posted a pre-tax profit of over £530 million.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "It is worth noting that while National Grid is a publicly traded company, the ultimate ownership of the DNOs is considerably more convoluted, with holding companies registered in tax havens and billionaires including Warren Buffett and Li Ka-Shing among the major owners (see Figure 11, below).",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "a wholly owned subsidiary of Lockheed Martin Corporation, for the U.S. Department of Energy’s",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Corporation, a wholly owned subsidiary of Lockheed Martin Corporation, for the U.S. Department",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ownership Status",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Parent Company",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Second, low-voltage battery operators should verify the land history of existing and developing projects. Land that has been subdivided or had its ownership changed within the past five years risks being judged as a single entity after the review. Projects using land adjacent to solar power plants may also require plan revisions (author's view).",
+    "url": "https://note.com/gridshift/n/n1ebb8db93dc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Review 1 (Confirmation period for land ownership)",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": The confirmation period for cases where a single plot of land is divided into multiple ownerships to install small-scale equipment will be extended[2]. Currently, it is checked whether the landowners are the same by looking back 'one year' from the fiscal year of the application[2]. The direction is to extend this to 'five years' for battery storage equipment[2].",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For low-voltage storage battery projects in progress, conduct an inventory of land ownership changes and land subdivision history (for the past 5 years).",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/pages/custom-oem-product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/pages/iot-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/news",
+    "pass": 1
+   },
+   {
+    "quote": "Modern industrial Ethernet networks are larger, faster, and more complex than ever. Unexpected failures can halt operations, costing time and revenue. In this on-demand webinar, our technical expert with 20 years of experience walks through how the",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/webinar",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/webinar",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/pages/proven-partnership-process",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/custom",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/grid485",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/internet-of-things-iot",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/net485",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/extending-rs-485-gate-control-across-property-lines",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/internet-of-things-iot",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/news/iot-collaboration-models-drive-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "MQTT is payload-agnostic, meaning it can carry binary, free-form text, or structured text like JSON or XML. While this requires the receiver to know the format beforehand, it allows for extreme optimization on metered links.",
+    "url": "https://www.gridconnect.com/blogs/news/how-protocols-shape-iot-success",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/news/how-protocols-shape-iot-success",
+    "pass": 1
+   },
+   {
+    "quote": "However, pushing code to thousands of remote devices carries risk. Implement OTA safely using A/B partitioning.",
+    "url": "https://www.gridconnect.com/blogs/news/sustainability-in-iot-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/news/sustainability-in-iot-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/wayne",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/tagged/eol",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/tagged/pcn",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact your Grid Connect sales representative or reach us at",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/hw-group-persesus-monitoring-150-and-150-pcn",
+    "pass": 1
+   },
+   {
+    "quote": "sales@gridconnect.com",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/hw-group-persesus-monitoring-150-and-150-pcn",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/hw-group-persesus-monitoring-150-and-150-pcn",
+    "pass": 1
+   },
+   {
+    "quote": "If your deployment relies on Bluetooth Low Energy, note that neither replacement series carries it — the RUTX11 was the only model in this family to support it. Talk to a Grid Connect engineer if this affects your design.",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/rutx-series-eol-announcement",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/rutx-series-eol-announcement",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/grid485-mbtcp-firmware-update-v2-06",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/bluetooth",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/can",
+    "pass": 1
+   },
+   {
+    "quote": "Put another way, [.green]13% of NGET’s revenues — derived primarily from customer bills — went straight back to shareholders[.green] in the form of dividends.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Private ownership of transmission carries substantially higher borrowing costs than would be the case under public ownership: [.green]National Grid plc spent £9.2 billion on interest payments over the past decade — equivalent to 22% of its net capex.[.green]",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "With respect to the accelerating decarbonisation of the grid, Labour has thus far pledged to “remove the barriers to facilitate the largest upgrade to our national transmission infrastructure in a generation”, namely:",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Dividends relative to revenue",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "With that in mind, we focus on profit margins — which already express capital-intensity via the depreciation expenditure line — as an indicator of how much of the firm’s flows of income and expenditure is being cashed out in the form of profit at the ultimate expense of customers: 50% before interest and 35% before tax. As already noted, 13% of revenues are paid out in dividends.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 10, below, shows in the capital payments (interest on debts and shareholder payouts) of the parent companies of the DNOs as a percentage of both revenues and investment (gross capital expenditure). Notably, according to reporting by the",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "It is worth noting that while National Grid is a publicly traded company, the ultimate ownership of the DNOs is considerably more convoluted, with holding companies registered in tax havens and billionaires including Warren Buffett and Li Ka-Shing among the major owners (see Figure 11, below).",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Gill Plimmer and Harry Dempsey, “Renewables groups sound alarm over UK grid connection delays”, The Financial Times, 6 February 2023. Available",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[#fn40][40][#fn40] Gill Plimmer and Harry Dempsey, ”Renewables groups sound alarm over UK grid connection delays”, 6 February 2023. Available",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[#fn41][41][#fn41] Gill Plimmer and Harry Dempsey, “Renewables groups sound alarm over UK grid connection delays”,",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[#fn42][42][#fn42] Ian Brown, “Why the National Grid blackout is indicative of underinvestment in the future of the UK electricity market”, Arrowpoint Advisory, 09/09/19. Available",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[#fn58][58][#fn58] Average UK pension fund exposure to UK listed equities is 13.2%. Assuming allocation to listed firms is in proportion to their weight in the FTSE All Share index, exposure to National Grid as a proportion of total UK pension portfolios is arrived at by calculating 1.74% of the 13.2% total.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Gary Marrs",
+    "url": "https://caylent.com/case-study/grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "“It can be a lot of work to retrofit legacy manufacturing equipment,” said Gary Marrs, Solutions Architect at Grid Connect. “One of the things our smart cord does is let you plug in ‘dumb’ equipment and almost immediately start commanding it and monitoring it.”",
+    "url": "https://caylent.com/case-study/grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "“This smart cord has everything it needs to make a tremendous impact for our customers,” said Marrs. “With Caylent, we were able to do everything the way it needed to be done, as quickly as it needed to be done, to get it in users’ hands.”",
+    "url": "https://caylent.com/case-study/grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue for Grid Connected",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "warranty, express or implied, or assume any legal liability or responsibility for the accuracy,",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue for Grid Connected Electricity",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "outlines the calculations required to estimate the maximum potential revenue from participating in",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "programming optimization approach to calculating the maximum potential revenue from an elec-",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "tricity storage device. The calculation of the maximum potential revenue is critical in developing",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "System Operator (CAISO) data from 2010-2011 to evaluate the maximum potential revenue from",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(ARRA) energy storage demonstration project. We investigate the maximum potential revenue",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "Custom/OEM Product Engineering",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly and effectively implement your partial or complete, networking or embedded product.",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "emotas embedded communication",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rollease saves development and production time with Grid Connect’s OEM experience",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded Modules, Chips & Dev Kits",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Product Engineering",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom/OEM Product Engineering",
+    "url": "https://www.gridconnect.com/pages/custom-oem-product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly and effectively implement your partial or complete, networking or embedded product.",
+    "url": "https://www.gridconnect.com/pages/custom-oem-product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "emotas embedded communication",
+    "url": "https://www.gridconnect.com/pages/custom-oem-product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded Modules, Chips & Dev Kits",
+    "url": "https://www.gridconnect.com/pages/custom-oem-product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Product Engineering",
+    "url": "https://www.gridconnect.com/pages/custom-oem-product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Custom/OEM Product Engineering",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly and effectively implement your partial or complete, networking or embedded product.",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "emotas embedded communication",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "complete networking, embedded",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "Licensing",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "Designing, programming and debugging embedded software",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "Developing embedded Linux or Real-time OS drivers",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "Developing embedded Web pages",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "Discover Our Embedded Networking Design Services",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded Modules, Chips & Dev Kits",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Product Engineering",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "Custom/OEM Product Engineering",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly and effectively implement your partial or complete, networking or embedded product.",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "emotas embedded communication",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded Modules, Chips & Dev Kits",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Product Engineering",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Custom/OEM Product Engineering",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly and effectively implement your partial or complete, networking or embedded product.",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "emotas embedded communication",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Embedded Networking Is Driving Smarter, Faster Solutions",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "In electrically noisy induction heating environments, reliable communication can be as critical as the process itself. By bridging legacy RS-485 and Modbus systems into modern PLC networks while adding non-intrusive diagnostic visibility, this industrial OEM gained the insight needed to troubleshoot faster, reduce support risk, and keep high-power systems running with confidence.",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded Modules, Chips & Dev Kits",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Product Engineering",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Custom/OEM Product Engineering",
+    "url": "https://www.gridconnect.com/pages/iot-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly and effectively implement your partial or complete, networking or embedded product.",
+    "url": "https://www.gridconnect.com/pages/iot-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "emotas embedded communication",
+    "url": "https://www.gridconnect.com/pages/iot-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Our streamlined processes and dedicated team ensure rapid development and delivery of your IoT product. From building proof of concepts in as little as 4-6 weeks, to delivering production-ready projects in under 12 months - expect your product to hit the market in record time when you work with us.",
+    "url": "https://www.gridconnect.com/pages/iot-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded Modules, Chips & Dev Kits",
+    "url": "https://www.gridconnect.com/pages/iot-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Product Engineering",
+    "url": "https://www.gridconnect.com/pages/iot-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Custom/OEM Product Engineering",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly and effectively implement your partial or complete, networking or embedded product.",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications",
+    "pass": 1
+   },
+   {
+    "quote": "emotas embedded communication",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded Modules, Chips & Dev Kits",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Product Engineering",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications",
+    "pass": 1
+   },
+   {
+    "quote": "Custom/OEM Product Engineering",
+    "url": "https://www.gridconnect.com/blogs/news",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly and effectively implement your partial or complete, networking or embedded product.",
+    "url": "https://www.gridconnect.com/blogs/news",
+    "pass": 1
+   },
+   {
+    "quote": "emotas embedded communication",
+    "url": "https://www.gridconnect.com/blogs/news",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded Modules, Chips & Dev Kits",
+    "url": "https://www.gridconnect.com/blogs/news",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Product Engineering",
+    "url": "https://www.gridconnect.com/blogs/news",
+    "pass": 1
+   },
+   {
+    "quote": "Custom/OEM Product Engineering",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/webinar",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly and effectively implement your partial or complete, networking or embedded product.",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/webinar",
+    "pass": 1
+   },
+   {
+    "quote": "emotas embedded communication",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/webinar",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how smart PDUs can help you cut energy costs, reduce downtime, and automate power control across AV, IT, and industrial systems. This webinar covers real-world use cases, including how one business achieved a 38% energy savings with ROI in under a year. Ideal for anyone managing remote equipment, racks, or facilities looking to streamline operations with open API integration.",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/webinar",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how J1939, CANopen, and UDS add structure and intelligence to raw CAN communication in this expert-led webinar. Perfect for engineers working with embedded systems, diagnostics, or mixed-protocol networks.",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/webinar",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded Modules, Chips & Dev Kits",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/webinar",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Product Engineering",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/webinar",
+    "pass": 1
+   },
+   {
+    "quote": "Custom/OEM Product Engineering",
+    "url": "https://www.gridconnect.com/pages/proven-partnership-process",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly and effectively implement your partial or complete, networking or embedded product.",
+    "url": "https://www.gridconnect.com/pages/proven-partnership-process",
+    "pass": 1
+   },
+   {
+    "quote": "emotas embedded communication",
+    "url": "https://www.gridconnect.com/pages/proven-partnership-process",
+    "pass": 1
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "By comparing initial starting current to increases and other variations along the way, Grid Connect gave Wayne a vital indicator to predict and help customers avoid pump failure.",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/pages/custom-oem-product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "For over 20 years, Grid Connect has been a trusted distributor and custom IoT development partner for engineers and manufacturers. We combine the speed and reliability of product distribution with the technical depth of an engineering team, giving you a single partner for everything from standard networking components to fully custom connected solutions.",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you need proven networking products today or a custom IoT solution for tomorrow, Grid Connect is here to help. Our team combines the reliability of a distributor with the depth of an engineering partner so you can move projects forward with confidence.",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/pages/iot-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/news",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/webinar",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/pages/proven-partnership-process",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/custom",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/grid485",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/internet-of-things-iot",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/net485",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/extending-rs-485-gate-control-across-property-lines",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/internet-of-things-iot",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/news/iot-collaboration-models-drive-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/news/how-protocols-shape-iot-success",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/news/sustainability-in-iot-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/wayne",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/tagged/eol",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/tagged/pcn",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/hw-group-persesus-monitoring-150-and-150-pcn",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/rutx-series-eol-announcement",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/grid485-mbtcp-firmware-update-v2-06",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/bluetooth",
+    "pass": 1
+   },
+   {
+    "quote": "Variant_Title",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/can",
+    "pass": 1
+   },
+   {
+    "quote": "The National Audit Office estimates that the ongoing cost to the public of the various “constraint costs” across the whole of the electricity system, which are incurred when generators are compensated for curtailing electricity production that the grid is unable to accommodate, total up to £62 million per day, or £1.94 billion in 2022.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Before Grid Connect could submit the cord to AWS for approval, they needed to have a fully-documented quick start that worked in a user’s hands. This would require thorough testing of the cord in various industrial conditions, as well as making sure it was easy for users to connect it to their own AWS accounts.",
+    "url": "https://caylent.com/case-study/grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "Since in-house user testing wasn’t possible at this stage, Caylent’s engineers built a simulator that could account for both optimal working conditions as well as various failure modes—for instance, rising resistance caused by increased friction on a fan belt. Over the course of several weeks, the cord was put through a variety of scenarios and refined.",
+    "url": "https://caylent.com/case-study/grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "increased demand for variable generation like wind and solar, there has been a renewed interest in",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Potential beneﬁts of electricity storage include ﬁrming of variable renewable generation (e.g.",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "enough regulation capacity to meet expected variations in load. Regulation up is the ability to",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "variables:",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Decision Variables",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The decision variables are assumed to be non-negative quantities. The state of charge St at any",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "regulation up and regulation down, the decision variables are:",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Once again, the decision variables are assumed to be non-negative quantities. For energy arbitrage,",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "period varies depending on the market characteristics. For CAISO, the regulation need can have a",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "of the AGC signal must not vary greatly over time. In statistical terms, weak-sense-stationarity",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "is suﬃcient where the mean and covariance of the AGC signal do not change over time. This is",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "by various independent system operators as a result of FERC order 755. Some types of chemical",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Solve common DER interconnection issues, such as varying cloud",
+    "url": "https://selinc.com/api/download/blt619cdbce1d236607/",
+    "pass": 3
+   },
+   {
+    "quote": "of renewable energy installations with dynamic VAR",
+    "url": "https://selinc.com/api/download/blt619cdbce1d236607/",
+    "pass": 3
+   },
+   {
+    "quote": "adapting for varying cloud cover , nonresponsive inverter",
+    "url": "https://selinc.com/api/download/blt619cdbce1d236607/",
+    "pass": 3
+   },
+   {
+    "quote": "to commanded set-point changes, but also to variable",
+    "url": "https://selinc.com/api/download/blt619cdbce1d236607/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "Developer and manufacturer of a range of connected products designed to make the smart home attainable and manageable for consumers. The company offers products that help users control and monitor their homes, enabling them to also partner with a variety of companies to bring new products to the market by providing its IoT platform combined with in-house engineering expertise.",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "The impact varies greatly depending on the scale and location of the battery. Organized by position, it is as follows [2].",
+    "url": "https://note.com/gridshift/n/n1ebb8db93dc9?hl=en",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "Trusted by Leading Companies Worldwide",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Keeping basements dry and customers happy just got easier for Wayne Pumps with Grid Connect’s IoT expertise.",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By comparing initial starting current to increases and other variations along the way, Grid Connect gave Wayne a vital indicator to predict and help customers avoid pump failure.",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Home or away, Rollease customers or installers can now control their shades for lighting changes and privacy concerns with IoT connectivity from Grid Connect.",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Grid Connect gave Schlage the Wi-Fi connectivity needed to allow their customers to open or lock their doors from anywhere in the world.",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Features to help customers save water and time",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We measure success by how quickly and reliably our customers move from challenge to solution.",
+    "url": "https://www.gridconnect.com/",
+    "pass": 1
+   },
+   {
+    "quote": "known to find solutions to problems our clients' internal teams had deemed impossible.",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "pass": 1
+   },
+   {
+    "quote": "As we worked alongside customers, we noticed gaps in the market where no off-the-shelf solution existed. To meet those needs, we started developing our own products - designed and supported by engineers who understood the challenges firsthand.",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Grid Connect continues to evolve with our customers. We not only provide proven products from leading manufacturers, but also collaborate with companies to create custom Internet of Things (IoT) solutions. Whether it’s a small modification or a fully connected product, our team helps bring ideas to life quickly and reliably.",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our team works directly with customers to solve problems, not just ship products.",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Many of our team members have been part of Grid Connect for decades, providing customers continuity and deep institutional knowledge.",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Some of our customers include",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "The stakes are high in IoT; one security mishap, and you make headlines for the wrong reasons. Your customers need to trust that their data is safe. You need a partner that's always ahead of the security curve, and doesn’t fear a security audit.",
+    "url": "https://www.gridconnect.com/pages/iot-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://www.gridconnect.com/pages/iot-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/custom",
+    "pass": 1
+   },
+   {
+    "quote": "Some of our customers include",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/custom",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/grid485",
+    "pass": 1
+   },
+   {
+    "quote": "Some of our customers include",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/grid485",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/internet-of-things-iot",
+    "pass": 1
+   },
+   {
+    "quote": "Some of our customers include",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/internet-of-things-iot",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/net485",
+    "pass": 1
+   },
+   {
+    "quote": "Some of our customers include",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/net485",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Some of our customers include",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "We bring industrial-grade reliability to the home. By using our expertise in professional networking, we help develop Matter standards our clients can use to ensure their smart device works every time, regardless of the ecosystem. This allows our partners to focus on creating new user experiences rather than worrying about platform compatibility.",
+    "url": "https://www.gridconnect.com/blogs/news/iot-collaboration-models-drive-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "—the physical hardware and the embedded code (firmware) that lives inside it. To provide a complete, hardware-to-cloud solution for our clients, we collaborate with cloud experts like Trek10.",
+    "url": "https://www.gridconnect.com/blogs/news/iot-collaboration-models-drive-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "This collaboration is what allows our clients to achieve true IoT innovation—launching secure, global-scale products without the trial and error that usually kills new IoT initiatives.",
+    "url": "https://www.gridconnect.com/blogs/news/iot-collaboration-models-drive-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "For our clients, a real",
+    "url": "https://www.gridconnect.com/blogs/news/sustainability-in-iot-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "At Grid Connect, we help clients balance performance with power.",
+    "url": "https://www.gridconnect.com/blogs/news/sustainability-in-iot-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "IoT Case Study: Wayne Water Smart Sump | Grid Connect",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/wayne",
+    "pass": 1
+   },
+   {
+    "quote": "Wayne Water started looking for a better sump pump solution to help their customers avoid basement flooding, they knew they wanted to get to market fast and that they didn’t have the internal resources to get them there.",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/wayne",
+    "pass": 1
+   },
+   {
+    "quote": "Through interviews and field research, the Grid Connect team uncovered a range of homeowner needs, concerns, and expectations. These insights helped shape both the technical design and user experience of the new smart sump pump system. Rather than assume what features to build, Grid Connect spoke directly to Wayne Water’s customers and these key personas emerged:",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/wayne",
+    "pass": 1
+   },
+   {
+    "quote": "Data-hungry customers interested in checking the sump pump’s real-time condition, especially when the forecast predicts flooding while away from home",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/wayne",
+    "pass": 1
+   },
+   {
+    "quote": "“The consumer research we conducted with Wayne Water informed our IoT engineering design and gave us a laser focus to design the function and layout of the mobile app,” said Adam Justice, CEO of Grid Connect. “We built a system from the ground up by analyzing customers’ concerns and what would reassure them.”",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/wayne",
+    "pass": 1
+   },
+   {
+    "quote": "Impact to Customers:",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/hw-group-persesus-monitoring-150-and-150-pcn",
+    "pass": 1
+   },
+   {
+    "quote": "at no additional cost to existing customers.",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/grid485-mbtcp-firmware-update-v2-06",
+    "pass": 1
+   },
+   {
+    "quote": "Some of our clients have had problems understanding the functionality of our Firefly modules. We want to make sure that our products are used to their full capability so here is a mini users guide to those devices:",
+    "url": "https://www.gridconnect.com/blogs/news/tagged/bluetooth",
+    "pass": 1
+   },
+   {
+    "quote": "With that in mind, we focus on profit margins — which already express capital-intensity via the depreciation expenditure line — as an indicator of how much of the firm’s flows of income and expenditure is being cashed out in the form of profit at the ultimate expense of customers: 50% before interest and 35% before tax. As already noted, 13% of revenues are paid out in dividends.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "“This smart cord has everything it needs to make a tremendous impact for our customers. With Caylent, we were able to do everything the way it needed to be done, as quickly as it needed to be done, to get it in users’ hands.”",
+    "url": "https://caylent.com/case-study/grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "Since in-house user testing wasn’t possible at this stage, Caylent’s engineers built a simulator that could account for both optimal working conditions as well as various failure modes—for instance, rising resistance caused by increased friction on a fan belt. Over the course of several weeks, the cord was put through a variety of scenarios and refined.",
+    "url": "https://caylent.com/case-study/grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect is moving forward with a few clients who want to use their new power cord for predictive failure in order to continue testing and get the product ready for market.",
+    "url": "https://caylent.com/case-study/grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "“This smart cord has everything it needs to make a tremendous impact for our customers,” said Marrs. “With Caylent, we were able to do everything the way it needed to be done, as quickly as it needed to be done, to get it in users’ hands.”",
+    "url": "https://caylent.com/case-study/grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "4 Case Study: Tehachapi Wind Energy Storage Project 21",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Appendix A - Case Study Optimization Results 38",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "presents a case study for the Tehachapi Wind Energy Storage storage project. Concluding remarks",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 Case Study: Tehachapi Wind Energy Storage Project",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Using this formulation we conducted a case study for the Tehachapi Wind Energy Storage",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Appendix A - Case Study Optimization Results",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "customers. Coordination of the PV plant and its intertie",
+    "url": "https://selinc.com/api/download/blt619cdbce1d236607/",
+    "pass": 3
+   },
+   {
+    "quote": "Present one clear and consistent brand to your customers across hardware, app, and web portal.",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "Publish the app under your own name in the Google Play Store or Apple App Store and offer your customers a fully branded experience. If desired, this can be extended with your own domain name and emails sent via your own mail server.",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "All our brochures are available for white-labeling. You can access the editable AI files via our shared drive. Simply add your own logo and adjust the content to better fit the needs of your end customers.",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "customers seeking grid connection would bear only around JPY 10 billion of these costs5.",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "demand customers to bear the full cost of necessary grid reinforcements8.",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(04) — Case Study",
+    "url": "https://gridwork.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Read Case Study",
+    "url": "https://gridwork.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Read about how our clients succeed with PitchBook",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Targeting cookies may be placed on our site by our advertising partners. They are often used by those companies to build a profile of your interests and show you relevant advertisements on other sites. They do not directly store personal information by uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less-targeted advertising.",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル明言": [
+   {
+    "quote": "Whether you require a minor software tweak to enhance buffer sizes or a new design from the module up, our team is primed to deliver. We offer transparent pricing for non-recurring engineering (NRE) and development work and production costs for the end product. Private labeling services are available. Some examples of our services include:",
+    "url": "https://www.gridconnect.com/pages/custom-oem-product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "By operating within a collaborative ecosystem, companies can offload the connectivity burden to partners who have already perfected it. When the foundation is handled by experts, your internal team can spend 100% of their time on the unique features that actually define your brand.",
+    "url": "https://www.gridconnect.com/blogs/news/iot-collaboration-models-drive-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "Whitelabeling",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "Whitelabeling App & Hardware",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "Powering Your Brand: White-Label",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "Why white-labeling?",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "Strengthen your brand",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "White-label App & Web Portal",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "Share your brand identity",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "Provide your logo, colors, and preferred brand style. Based on this, we turn the existing SmartgridOne app and web portal into a digital experience that fully matches your brand.",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "We apply your branding",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "We apply your branding to the existing SmartgridOne app and portal. This gives you a white-label solution without having to build an entire platform yourself.",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "Your domain",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "Your logo",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "White-label Hardware: Your Logo on the Controller",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "Give your brand a tangible presence with your company logo laser-engraved on our SmartgridOne PRO controllers. This white-labeling option is available for orders above a certain minimum quantity. Because the laser engraving is done in Belgium, lead times remain short – allowing you to scale quickly without long waiting periods.",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "eniris.com/whitelabeling-controller",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "White-label Our Brochures",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "All our brochures are available for white-labeling. You can access the editable AI files via our shared drive. Simply add your own logo and adjust the content to better fit the needs of your end customers.",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "Smoother operations for power plants and grid-scale batteries, powered by IT.",
+    "url": "https://gridwork.co.jp/en/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Grid Connect was founded in 2002 with a simple goal: to provide engineers access to the best industrial networking products available. We began by partnering with trusted global manufacturers and built a reputation for reliable distribution, technical expertise, and fast delivery.",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Grid Connect has connected thousands of analog products since 2003, many of which are still on the market today. Need to add Wi-Fi, Ethernet, Bluetooth, Cellular, Thread or some weird proprietary RF black magic? Grid Connect not only has the expertise to pull this off, but the proven track record to give you peace of mind.",
+    "url": "https://www.gridconnect.com/pages/iot-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "In stark contrast to this need, the pace of investment in the grid has stagnated over the past decade and, according to analysis by Carbon Tracker, decreased since 2017 despite a quadrupling in the deployment of new solar and wind.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Using data from the International Energy Agency, Figure 2, below, highlights the stalling pace of investment in UK transmission and distribution since 2015.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[.fig]Figure 2: Stagnating Investment in UK Transmission and Distribution Networks Since 2015[.fig]",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Within this, £68 was attributable to a levy imposed on energy users to cover the cost of collapsed suppliers following the spike in global gas prices. The price cap today remains at a comparable level — just over £1800 — implying these estimates of network costs remain current. Figure 7, below, shows the relative contribution of network costs to the average electricity bill over since 2018.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "In late 2022, National Grid committed up to £9 billion in investment in UK electricity transmission in the five years from 2021-2026, equivalent to £1.8 billion per year. Actual gross capital expenditure in the UK electricity transmission segment since 2021 has averaged £1.1 billion per year.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Our estimated bond spread of 1.94 percentage points is an unweighted average of the spreads of all 10-year bonds issued since 2015 by entities related to National Grid and other DNOs, relative to conventional 10-year UK Treasury gilts issued contemporaneously. Corporate bond issuances are sourced from LSEG Refinitiv Eikon, whereas gilt issuances are sourced from the Debt Management Office (DMO).",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2002, Grid Connect is dedicated to solving custom problems with connected hardware. As a leader in industrial networking and IoT, they have an in-house team of expert engineers to help identify and solve their customer's biggest challenges.",
+    "url": "https://caylent.com/case-study/grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "NYSERDA offers objective information and analysis, innovative programs, technical expertise, and support to help New Yorkers increase energy efficiency, save money, use renewable energy, and reduce reliance on fossil fuels. A public benefit corporation, NYSERDA has been advancing energy solutions and working to protect the environment since 1975.",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect was founded in 2012.",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "For over 20 years, Grid Connect has been a trusted distributor and custom IoT development partner for engineers and manufacturers. We combine the speed and reliability of product distribution with the technical depth of an engineering team, giving you a single partner for everything from standard networking components to fully custom connected solutions.",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you need proven networking products today or a custom IoT solution for tomorrow, Grid Connect is here to help. Our team combines the reliability of a distributor with the depth of an engineering partner so you can move projects forward with confidence.",
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "pass": 1
+   },
+   {
+    "quote": "米軍のいじめっ子たちは知らなかった、空手の達人である日本人少年の正体を | 佐藤ケンジ",
+    "url": "https://www.youtube.com/watch?v=vcmepVSQvDo",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors",
+    "url": "https://eniris.com/services/whitelabeling",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s renewable integration is constrained by its grid connection framework | IEEFA",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s renewable integration is constrained by its grid connection framework",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s renewable energy pipeline is expanding, but the conversion of projects from application to physical grid connection remains weak. Of the approximately 317 gigawatts (GW) of wind, solar, and storage capacity under study as of December 2025, only around 87GW (27%) had been physically connected to the grid.",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Solar energy shows the highest realization rate in Japan, with connected capacity reaching approximately 2.3 times the volume at study stage. By contrast, onshore wind, offshore wind, and battery storage exhibit significantly weaker conversion rates of around 14%, below 1%, and 0.35%, respectively.",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "The widening gap between study-stage projects and connected capacity suggests that Japan's renewable energy bottleneck is fundamentally institutional in nature. Without reforms that improve cost transparency, project prioritization, and transmission coordination, capacity is likely to continue accumulating in the queue without translating into large-scale transformation of the power system.",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Read the Japanese translation on",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "日本の再生可能エネルギーの系統連系への接続は、その連系枠組み制度によって制約を受けている",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Grid congestion and interconnection backlogs have emerged as critical bottlenecks in renewable energy transitions across many global economies, and Japan is no exception. However, Japan’s challenge is rooted less in resource availability than in institutional design.",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Although Japan’s renewable energy pipeline continues to",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s grid application data suggest that the country’s renewable energy pipeline continues to expand. However, a widening gap has emerged between projects in the interconnection queue and those that have been physically connected to the grid.",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "According to data from Japan’s nine Transmission System Operators (TSOs) as of December 2025, the imbalance across technologies is significant. Of the approximately 317",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Grid congestion is not unique to Japan. Globally,",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Japan therefore faces a challenge common to many advanced economies, although its institutional design differs. Under European Union (EU) electricity market and renewable energy",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "By contrast, Japan’s grid connection bottleneck is shaped by three structural features of its interconnection framework: cost allocation, queue design, and geographic transmission constraints.",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan, inter-regional transmission reinforcement is primarily funded by developers, who are required to bear a significant share of the new connection costs.",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "This interconnection framework shifts a substantial portion of upgrade cost risk onto developers at a stage when project permitting and revenue certainty are often incomplete, thereby increasing early-stage financial exposure. In effect, Japan’s framework applies a strong “causer pays” principle to connection-related grid upgrades.",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Queue design further compounds Japan’s grid connection challenge. Historically, the country’s interconnection system has operated on a first-come, first-served basis. In congested regions, firm transmission capacity is often already occupied by incumbent assets, forcing new entrants to rely on",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "aims to strengthen inter-regional transmission links, while Japan’s Ministry of Economy, Trade and Industry",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "The widening gap between study-stage projects and connected capacity suggests that Japan’s renewable energy bottleneck is fundamentally institutional in nature. The current framework places significant upgrade cost risk on developers, relies heavily on first-come, first-served queue management, and provides limited prioritization for transmission-dependent technologies.",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Michiyo is an Energy Finance Specialist at IEEFA, specializing in Asian energy markets, particularly Japan.",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "―Challenges and Responses in Japan and the United States",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The Institute of Energy Economics, Japan",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "To address this issue, the Japanese government is moving toward introducing measures in both",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Storage Systems (BESS) in Japan (as of the end of December 2025)",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Source: Prepared by The Institute of Energy Economics, Japan (IEEJ) based on data from the Agency for Natural",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 2. Grid Connection Process in Japan",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Source: Prepared by The Institute of Energy Economics, Japan (IEEJ) based on data from the Agency for Natural Resources and",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "also emerged as a new challenge. As of 2023, approximately 90% of data centers in Japan,",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "grid resulting from subsequent changes to project plans. To address these issues, the Japanese",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 Agency for Natural Resources and Energy. (2025, October 15). Toward the next generation of Japan's electricity network.",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Table 1. Distribution of Data Centers in Japan (2023)",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Source: Prepared by The Institute of Energy Economics, Japan (IEEJ) based on Rand, J., et al. (2025), Queued Up: 2025",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "As discussed above, both Japan and the United States face common challenges of rapidly",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Work Inc. | Grid Interconnection & Data Center Grid Connection Support in Japan",
+    "url": "https://gridwork.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "From low voltage to extra-high voltage, we handle applications to every utility in Japan. A team that knows how utilities actually work prepares the documents and drawings, deals with the utility, handles revisions and inquiries, and tracks progress.",
+    "url": "https://gridwork.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "handles grid connection applications to Japanese utilities, from document preparation to approval",
+    "url": "https://gridwork.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": ". Power plants, battery storage and data centers, from low voltage to extra-high voltage, with all 10 general transmission and distribution utilities in Japan.",
+    "url": "https://gridwork.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "contact form, Japanese",
+    "url": "https://gridwork.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Q&A: Electricity Procedures for Overseas Operators Developing Data Centers in Japan",
+    "url": "https://gridwork.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Office: Nippo Honmachi Nishi Bldg. 602, 4-4-3 Kawaramachi, Chuo-ku, Osaka 541-0048, Japan",
+    "url": "https://gridwork.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Registered office: Osaka Ekimae Dai-2 Bldg. 12-12, 1-2-2 Umeda, Kita-ku, Osaka 530-0001, Japan",
+    "url": "https://gridwork.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Flow of grid access for power generation facilities, etc. (Updated September 2026) / Organization for Cross-regional Coordination of Transmission Operators, Japan / September 28, 2026",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Summary of information regarding grid access operations for power generation facilities, etc. (Applications and responses from April 2026 to June 2026) / Organization for Cross-regional Coordination of Transmission Operators, Japan / September 28, 2026",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "When a self-storage facility in the Southeast acquired a property across the street, the plan was simple: add a gate, connect it to the existing access control system, and keep growing.",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/extending-rs-485-gate-control-across-property-lines",
+    "pass": 1
+   },
+   {
+    "quote": "Through interviews and field research, the Grid Connect team uncovered a range of homeowner needs, concerns, and expectations. These insights helped shape both the technical design and user experience of the new smart sump pump system. Rather than assume what features to build, Grid Connect spoke directly to Wayne Water’s customers and these key personas emerged:",
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/wayne",
+    "pass": 1
+   },
+   {
+    "quote": "and eliminating dividends [.green]would pay for the cost of acquisition in just ten years.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Where 𝐵𝑉 denotes the book value of equity, 𝑅𝑜𝐸 denotes return on equity — calculated as dividends over book value of equity — and 𝑟 denotes the risk-free rate at which the state is issuing the debt to finance the acquisition.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "completeness, or usefulness of any information, apparatus, product, or process disclosed, or rep-",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Closed-loop proportional plus integral (PI) control of PF at the PCC",
+    "url": "https://selinc.com/api/download/blt619cdbce1d236607/",
+    "pass": 3
+   },
+   {
+    "quote": "• Closed-loop PI control of power output at the PCC (i.e., advanced power limit",
+    "url": "https://selinc.com/api/download/blt619cdbce1d236607/",
+    "pass": 3
+   },
+   {
+    "quote": "• Closed-loop PI control of voltage at the PCC",
+    "url": "https://selinc.com/api/download/blt619cdbce1d236607/",
+    "pass": 3
+   },
+   {
+    "quote": "Grid congestion and interconnection backlogs have emerged as critical bottlenecks in renewable energy transitions across many global economies, and Japan is no exception. However, Japan’s challenge is rooted less in resource availability than in institutional design.",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s grid application data suggest that the country’s renewable energy pipeline continues to expand. However, a widening gap has emerged between projects in the interconnection queue and those that have been physically connected to the grid.",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "also emerged as a new challenge. As of 2023, approximately 90% of data centers in Japan,",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Similar challenges have also emerged in the United States. The total capacity of power",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "The latest data for closed-end fund returns across strategies",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Acquired/​Merged",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Acquired/Merged (Operating Subsidiary)",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Acquired/Merged",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "When was Grid Connect acquired?",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect was acquired on 15-Jan-2020.",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Grid Connect?",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect was acquired by",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": ": Revisions to connection study fees, additional measures for land acquisition, measures for low-voltage batteries, and fact-finding surveys on contracted projects were presented as items for consideration[2].",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Real IoT innovation doesn't happen when one company builds a gadget in a vacuum. It happens when specialized partners—hardware experts, cloud architects, and security specialists—work together to turn a fragmented web of devices into a reliable, scalable, and profitable solution.",
+    "url": "https://www.gridconnect.com/blogs/news/iot-collaboration-models-drive-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "Building a Greener (and More Profitable) Connected Future",
+    "url": "https://www.gridconnect.com/blogs/news/sustainability-in-iot-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": ", we aren't just talking about corporate responsibility or saving the planet. We are talking about the difference between a profitable product and a maintenance nightmare.",
+    "url": "https://www.gridconnect.com/blogs/news/sustainability-in-iot-connectivity",
+    "pass": 1
+   },
+   {
+    "quote": "NGET’s dividend payouts amounted to 62.3% of the segment’s post-tax profits.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "The DNOs have consistently enjoyed exceptional profit margins, with the [.green]fourth highest profit margins of any UK industry in 2023 at 42.5%,[.green]",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "The ability to strategically coordinate through direct public planning, investment and delivery in lieu of fragmented private decision-making based on expected profitability;",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Pretax profits",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Pretax profit margin",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Dividends relative to Pretax profits",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Posttax profits",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Posttax profit margin",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Dividends relative to Posttax profits",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Profits",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[.fig]Figure 9: National Grid Electricity Transmission: Profit Margins[.fig]",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "With that in mind, we focus on profit margins — which already express capital-intensity via the depreciation expenditure line — as an indicator of how much of the firm’s flows of income and expenditure is being cashed out in the form of profit at the ultimate expense of customers: 50% before interest and 35% before tax. As already noted, 13% of revenues are paid out in dividends.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Thus, where National Grid’s financial accounts are sufficient to raise the question of public ownership and governance, the DNOs set a new standard. According to financial data provider IBISWorld, in 2030 the DNOs had the fourth highest profit margins of any UK sector at 42.5%, with a range of financial services sectors currently occupying the top three spots.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Importantly, these exceptional margins are not a fluke event; they have been consistent over much of the past decade. Last year Common Wealth research found the DNOs enjoyed the highest profit margins of any sector of the UK economy in 2021, at 42.5%.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Moreover, a 2017 report by the Energy and Climate Intelligence Unit concluded that from 2010-2015, the average profit margin posted by the DNOs was “huge by any standard” at 32%, adding a total of £10 billion to the national energy bill over the same period.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": ", UK Power Networks, which services the London, the Southeast and East Anglia and is owned by Hong Kong billionaire Li Ka-Shing through CK Infrastructure Holdings, “paid a £217 million dividend to its owner in the year to 2022”, having posted a pre-tax profit of over £530 million.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "At any rate, in the case of National Grid Electricity Transmission’s, an operating margin of 50% before interest and a pre-tax margin of 35% (after interest) suggests that a considerable proportion of the flows of income and expenditure are being cashed out in the form of profits.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "approach. Hall and Weghmann argue that any basis for shareholder compensation should not include excess monopoly profits; earnings dependent on regulatory regimes; value derived from a public service system; or risks or ’hope value’. Instead, shareholder compensation should be more analogous to a refund, following the principles underlying the post-WWII nationalisations.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[#fn10][10][#fn10] “Industries with the highest profit margin in the UK 2023”, IBIS WorldAvailable",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": ". See also: Sandy Brian Hager and Joseph Baines, “Profiting Amid the Energy Crisis: The Distribution Networks at the Heart of the UK's Gas and Electricity System”, 14 March 2022, Common Wealth. Available",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": ".The authors argue that any basis for shareholder compensation should not include excess monopoly profits, earnings dependent on regulatory regime, value derived from a public service system, or risks or ’hope value’. Shareholder compensation should be more analogous to a refund, following the principles underlying the post-WWII nationalisations.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[#fn61][61][#fn61] \"Industries with the Highest Profit Margin in the UK in 2023”, IBISWorld. Available",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[#fn62][62][#fn62] Sandy Brian Hager and Joseph Baines, “Profiting Amid the Energy Crisis: The Distribution Networks at the Heart of the UK's Gas and Electricity System”, 14 March 2022, Common Wealth. Available",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[#fn63][63][#fn63] “Monopoly Money: How the UK’s electricity distribution network operators are posting big profits”, Energy and Climate Intelligence Unit, September 2017. Available",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "EBITDA",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "If your contracts depend on RUTX-series availability, don't wait for your next reorder to figure out a plan.",
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/rutx-series-eol-announcement",
+    "pass": 1
+   },
+   {
+    "quote": "The public is already paying, and will inevitably pay, for the transformation of the grid to support a decarbonised electricity system. The question is how these costs are distributed and how investment is coordinated. Public ownership can address these urgent challenges.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Importantly, beyond the sheer scale of investment, there are also urgent questions about how to coordinate that investment and the associated deployment of new infrastructure at sufficient speed.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "In stark contrast to this need, the pace of investment in the grid has stagnated over the past decade and, according to analysis by Carbon Tracker, decreased since 2017 despite a quadrupling in the deployment of new solar and wind.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "The impacts of structural underinvestment in the grid are already visible: “congestion costs” — incurred when the grid is unable to handle the amount of electricity being produced at a given time — currently reach up to £62 million per day, or £1.94 billion per year.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "National Grid plc has committed to invest up to £9 billion in its UK electricity transmission business in the five years to 2026. Extrapolating their average annual dividend of nearly £1.6 billion over the past decade would imply [.green]National Grid plc paying nearly the same amount (£7.8 billion) in dividends as its maximum potential investment in UK transmission[.green]",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimately, because we all require electricity to participate and thrive in society, the public is already paying, and will inevitably pay, for the transformation of the grid to support a decarbonised electricity system and wider economy. The question is how these costs are distributed and how the required investment is coordinated. Public ownership can address these urgent challenges, offering:",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "The ability to strategically coordinate through direct public planning, investment and delivery in lieu of fragmented private decision-making based on expected profitability;",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "A lower cost of capital via public rather than private investment; and",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "If the government is to achieve its target of decarbonised electricity system by 2035, it cannot leave the transformation of the grid to private investment and coordination. Likewise, if Labour is serious about meeting its 2030 target and agenda of national renewal based on the interlocking ambitions of net zero and “securonomics”, a publicly-owned and strategically coordinated grid is vital.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "While the above reforms are welcome, they do not resolve the challenges related to investment and coordination outlined in the remainder of this report.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "What they fail to note is that during this period, the entirety of the electricity system was under public ownership and control, with investment and buildout correspondingly organised around a clearly defined and publicly coordinated goal of national development.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "the infrastructure and management of transmission and distribution that belonged to the public until 1990 were privatised and divided into a suite of companies, each acting as a private regulated monopoly in a given region, with Ofgem setting pricing and investment rules for the firms.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "The decarbonisation of the electricity system and wider economy depends on investment in extending and upgrading the grid. There are several key challenges implied in the decarbonisation of the grid. These include:",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "To ensure a stability of supply and balance between supply and demand, renewable generation must be complemented by a blend of “firm and flexible” low carbon generation such as nuclear, storage capacity, and/or “demand side response”. As per BEIS, “new nuclear projects will likely require significant network investment and infrastructure”.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Further, investment is needed to plan, coordinate and deliver small-scale or “distributed” storage, for instance using a potential proliferation of EV charging points as storage to balance supply and demand in a decarbonised grid.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[.green]3[.green] The Regulated Monopoly Model Has Generated a Crisis of Underinvestment",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Within the RIIO framework, Ofgem sets investment allowances for firms based on expectations and decisions about investment needs, consumers costs and the firms’ “weighted average cost of capital”",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "A further £6 billion is potentially committed to National Grid’s UK distribution business over this period. This amounts to a maximum of £1.8 billion per year in the UK’s transmission network. According to the firm’s accounts, actual gross capital investment in UK electricity transmission for 2022/23 was just under £1.2 billion.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "To put these figures in greater context, according to recent analysis by Carbon Tracker, while deployment rates of wind and solar generating capacity have increased fourfold over the past decade, investments in the transmission network have flatlined over the same period, and indeed began to decrease in real terms from 2017.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Using data from the International Energy Agency, Figure 2, below, highlights the stalling pace of investment in UK transmission and distribution since 2015.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "[.fig]Figure 2: Stagnating Investment in UK Transmission and Distribution Networks Since 2015[.fig]",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "New grid connections and the Accelerating Strategic Transmission Investment (ASTI) framework",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "The existing cost of underinvestment",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Insufficient investment in maintenance has been linked to several blackouts and grid issues in recent years.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 6, below, highlights the annual cost of “thermal constraints”, which refer to periods when electricity in the grid must be constrained to the risk of overheating — a problem that could have been mitigated by greater investment in transmission capacity.",
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "pass": 3
+   },
+   {
+    "quote": "The valuation of an electricity storage device is based on the expected future cash ﬂow generated by",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the Tehachapi wind energy storage project, an American Recovery and Reinvestment Act of 2009",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "keywords: electricity storage, energy arbitrage, frequency regulation market, storage valuation,",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "This research was sponsored by the American Recovery and Reinvestment Act of 2009 with oversight",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "designed to guide future investment decisions based on the public good.",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Mokrian and Stephen present a stochastic framework for the valuation of electricity storage and",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "highest achievable proﬁt from an arbitrage strategy. A related area is the valuation of natural gas",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "near the location of the ARRA (American Recovery and Reinvestment Act of 2009) Tehachapi Wind",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5. Defer transmission investment",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[6] P. Mokrian and M. Stephen, “A stochastic programming framework for the valuation of elec-",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[7] V. Kaminski, Y. Feng, and Z. Pang, “Value, trading strategies and ﬁnancial investment of",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "See All Energy Evaluation & Management Programs",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": "Funding for Home Improvements",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": "Funding for Public Transit Systems",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": "Funding For Hiring",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": "Funding for Community-Based Programs",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": "Investment in Clean Energy",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": "Investor and Venture Capital",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": "See All Investment Programs",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": "Funding",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": ". When your company submits an idea, you’ll receive streamlined evaluation, expert feedback, and, if successful, be matched with one of New York utilities and other potential market partners.",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": "directly through the platform and receive expert feedback, technical support and business model evaluation, as well as potential matchmaking with one or more of the utilities and other market partici",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": "Funding Opportunities",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Relations",
+    "url": "https://www.tennet.eu/de-en/tennet-germany-annual-report-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Investments",
+    "url": "https://www.tennet.eu/de-en/tennet-germany-annual-report-2025",
+    "pass": 3
+   },
+   {
+    "quote": "TenneT Germany is the largest transmission system operator in Germany. The company operates critical infrastructure that secures access to a reliable and affordable electricity supply. TenneT Germany is one of the largest investors in electricity grids on land and at sea in Germany.",
+    "url": "https://www.tennet.eu/de-en/tennet-germany-annual-report-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Australian met coal outlook not as strong as banks and investors think",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainable power and energy: Driving investment in Bangladesh",
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Such concentration may lead to delays in electricity supply and inefficient investment in grid",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "facilities has raised concerns about accelerating electricity demand growth and declining grid",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Site screening, preliminary studies, supply application documents, utility consultation and post-approval deadline management for high and extra-high voltage data centers. We work with overseas developers and investors.",
+    "url": "https://gridwork.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Follow capital flows across investors, deals, and industry trends",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Find investment opportunities and active investors faster",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Grid Connect 2026 Company Profile - PitchBook — Grid Connect 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Business Profile - Grid Connect, Inc. — Business Profile - Grid Connect, Inc. gridconnect.com https://www.gridconnect.com > pages",
+    "url": "https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vIYy3pH_mYIgWSbNYmRH7pO5txDoxx6YAlN-fmfl5ygAcIueDCA",
+    "pass": 3
+   },
+   {
+    "quote": "Business Profile - Grid Connect, Inc. — Business Profile - Grid Connect, Inc. gridconnect.com https://www.gridconnect.com > pages",
+    "url": "https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vJVPQV0VrokextmxA9yslahrrLTL2CiP2xGizHqIlZLWkSS8co_",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect Makes a Smart Cord for Industrial Applications ... — Grid Connect Makes a Smart Cord for Industrial Applications ... Caylent https://caylent.com > grid-connect",
+    "url": "https://caylent.com/case-study/grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect - LinkedIn — Grid Connect - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "NY Grid CONNECT - nyserda — NY Grid CONNECT - nyserda nyserda (.gov) https://www.nyserda.ny.gov > NY-Gr...",
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "pass": 3
+   },
+   {
+    "quote": "Business Profile - Grid Connect, Inc. — Business Profile - Grid Connect, Inc. gridconnect.com https://www.gridconnect.com > pages",
+    "url": "https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vIDWU4eJqYPyxa3eHky68Mh5jtW4U9zXDICejSGriM2OHoXZwkQ",
+    "pass": 3
+   },
+   {
+    "quote": "Yukon-B.C. Grid Connect — Yukon-B.C. Grid Connect Yukon.ca https://yukon.ca > yukon-bc-grid-con...",
+    "url": "https://yukon.ca/en/yukon-bc-grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "Business Profile - Grid Connect, Inc. — Business Profile - Grid Connect, Inc. gridconnect.com https://www.gridconnect.com > pages",
+    "url": "https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vJ7-oC0NaDDtBMjqE7aUdnRRk4bQYdL12GejdZ03aGmNuDAhICs",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect - Schweitzer Engineering Laboratories — Grid Connect - Schweitzer Engineering Laboratories selinc.com PDF https://selinc.com > api > download",
+    "url": "https://selinc.com/api/download/blt619cdbce1d236607/",
+    "pass": 3
+   },
+   {
+    "quote": "FAQ – Grid Connect — FAQ – Grid Connect Grid Connect https://grid-connect.com.au > faq",
+    "url": "https://grid-connect.com.au/pages/faq",
+    "pass": 3
+   },
+   {
+    "quote": "White Label IoT: Launch Smart Products Fast - Grid Connect — White Label IoT: Launch Smart Products Fast - Grid Connect gridconnect.com https://www.gridconnect.com > news",
+    "url": "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vITROj3dnLnvl8UL2ZdsnEDywgqZ5b0unxzGrviiEfyIxmFRtD4",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Lighting, Security & Power – Grid Connect AU — Smart Lighting, Security & Power – Grid Connect AU Grid Connect https://grid-connect.com.au",
+    "url": "https://grid-connect.com.au/",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect , Getting Started with Grid Connect . - YouTube — Grid Connect , Getting Started with Grid Connect . - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=vcmepVSQvDo",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect Inc. Selected as Exclusive North American ... — Grid Connect Inc. Selected as Exclusive North American ... Yahoo Finance https://finance.yahoo.com > news > g...",
+    "url": "https://finance.yahoo.com/news/grid-connect-inc-selected-exclusive-100000085.html",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect : Your Partner in Industrial Networking & IoT ... — Grid Connect : Your Partner in Industrial Networking & IoT ... gridconnect.com https://www.gridconnect.com",
+    "url": "https://www.gridconnect.com/?srsltid=AYCX9vL-iktDWE_QH2gqMwuYhz7H6KJeuhZUvfKM_wRiicsk8nkkJpmR",
+    "pass": 3
+   },
+   {
+    "quote": "Development Partner for Network & IoT Hardware & Software — Development Partner for Network & IoT Hardware & Software gridconnect.com https://www.gridconnect.com > pages",
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software?srsltid=AYCX9vLRWnYxPEJ7BEXPyMrtOEbnrVtrRGwA9JI8fGriJhsh3Li5GHBc",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect : Your Partner in Industrial Networking & IoT ... — Grid Connect : Your Partner in Industrial Networking & IoT ... gridconnect.com https://www.gridconnect.com",
+    "url": "https://www.gridconnect.com/?srsltid=AYCX9vKiOyy4dm_0iRbcGaz7rFi113W7D_tsJFQCBnV_PaM0mmIlQFJj",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Growth in Grid Connection Applications — Rapid Growth in Grid Connection Applications 一般財団法人 日本エネルギー経済研究所 PDF https://eneken.ieej.or.jp > data",
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Grid -Scale Battery ' Connection Study Fees' to Increase ... - note Grid -Scale Battery ' Connection Study Fees' to Increase ... - note note https://note.com > ... > 政策・法律",
+    "url": "https://note.com/gridshift/n/n1ebb8db93dc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Grid -Scale Battery Connection Study Fees to Increase ... - note Grid -Scale Battery Connection Study Fees to Increase ... - note note https://note.com > ... > 政策・法律",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Grid-Scale Battery 'Connection Study Fees' to Increase — 210 Million kW in Connection Studies vs. 1.28 Million kW Connected; Secretariat Proposal Also Targets 'Site Splitting' for Low-Voltage Batteries｜Grid Shift",
+    "url": "https://note.com/gridshift/n/n1ebb8db93dc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Grid-Scale Battery 'Connection Study Fees' to Increase — 210 Million kW in Connection Studies vs. 1.28 Million kW Connected; Secretariat Proposal Also Targets 'Site Splitting' for Low-Voltage Batteries",
+    "url": "https://note.com/gridshift/n/n1ebb8db93dc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On October 6, 2026, the Ministry of Economy, Trade and Industry (METI) and the Agency for Natural Resources and Energy held the 13th meeting of the Next-Generation Power Grid Working Group (hereinafter, Next-Generation Grid WG) [1]. The secretariat indicated a direction to increase the connection study fee for grid-scale batteries (currently 220,000 yen (tax included) per site) [2]. At the same ti",
+    "url": "https://note.com/gridshift/n/n1ebb8db93dc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The background lies in an extreme imbalance of figures. As of the end of June 2026, approximately 211 million kW of connection studies for grid-scale batteries had been accepted [2]. In contrast, only 1.28 million kW have actually been connected to the grid [2].",
+    "url": "https://note.com/gridshift/n/n1ebb8db93dc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In short, it means 'making people pay more for preliminary investigation requests for projects where it has not been decided whether to connect or not.' At the same time, it closes loopholes where projects are split into smaller pieces to lighten the procedures. The goal is to encourage the withdrawal of low-probability applications so that serious operators are not stopped in a waiting line.",
+    "url": "https://note.com/gridshift/n/n1ebb8db93dc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Background and History",
+    "url": "https://note.com/gridshift/n/n1ebb8db93dc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Grid-scale batteries are large-scale batteries that are not attached to power plants or factories but are connected to the transmission and distribution network (grid) independently. They charge during the day when electricity is surplus and discharge in the evening when it is in short supply, earning money from price differences and compensation for adjustment capacity. They are expected to play ",
+    "url": "https://note.com/gridshift/n/n1ebb8db93dc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Connecting to the grid requires a step-by-step procedure [2]. First, in a 'connection study,' the transmission and distribution operator is asked to investigate 'whether it can be connected at this location with this scale, and how much the construction costs will be.' For high-voltage and above, the guideline for a response is within three months of receipt [4]. If the business decision is made a",
+    "url": "https://note.com/gridshift/n/n1ebb8db93dc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Grid-Scale Battery Connection Study Fees to Increase from 220,000 Yen: Next-Generation Power Grid WG Proposes Three Methods and Curbs 'Site Splitting' for Low-Voltage Batteries｜Grid Shift",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Grid-Scale Battery Connection Study Fees to Increase from 220,000 Yen: Next-Generation Power Grid WG Proposes Three Methods and Curbs 'Site Splitting' for Low-Voltage Batteries",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Advisory Committee for Natural Resources and Energy, Next-Generation Power Grid Working Group (13th Meeting), Document 2: 'Regarding Responses for Rapid Grid Connection of Power Generation and Other Facilities, Including Grid-Scale Batteries' (October 6, 2026)",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Held on October 6, 2026",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "13th Next-Generation Power Grid WG / Increasing Connection Study Fees / Regulating Split Installation of Low-Voltage Batteries (Highlight: 2nd line)",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On October 6, 2026, the Ministry of Economy, Trade and Industry's Agency for Natural Resources and Energy held the 13th meeting of the Next-Generation Power Grid Working Group (hereinafter, Grid WG) of the Advisory Committee for Natural Resources and Energy online [1]. Two specific proposals were presented as countermeasures against 'placeholder applications' for grid-scale batteries (large-scale ",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For battery operators, this means that the costs and conditions for the 'gateway to verify connection rights' will change. In particular, for low-voltage batteries that became eligible to participate in the supply-demand adjustment market starting in April 2026, it may become necessary to reconsider the development approach itself. This article focuses on the three methods for increasing connectio",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Background and History",
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "To overcome grid connection delays, data centre ... - X To overcome grid connection delays, data centre ... - X X https://x.com > @IEA",
+    "url": "https://x.com/IEA/status/2112117817944232158",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Grid Connect - LinkedIn Grid Connect - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/grid-connect",
+    "pass": 3
+   },
+   {
+    "quote": "Green Grid Connect (GGC) - LinkedIn Green Grid Connect (GGC) - LinkedIn LinkedIn Australia https://au.linkedin.com > company",
+    "url": "https://au.linkedin.com/company/green-grid-connect",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "How to add automation on grid connect ? - Facebook How to add automation on grid connect ? - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1626477214195480/posts/2871508179692371/",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Connect vs. Smart Life apps. What are the differences ... Grid Connect vs. Smart Life apps. What are the differences ... Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1626477214195480/posts/2696580860518438/",
+    "pass": 3
+   },
+   {
+    "quote": "What is happening with Grid Connect app and devices? What is happening with Grid Connect app and devices? Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1626477214195480/posts/2894590324050823/",
+    "pass": 3
+   },
+   {
+    "quote": "When is Grid Connect going to release software to run on a PC? When is Grid Connect going to release software to run on a PC? Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1626477214195480/posts/3347195638790287/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.gridconnect.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/pages/custom-oem-product-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/pages/why-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/pages/iot-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/tagged/webinar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/pages/proven-partnership-process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/custom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/grid485",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/internet-of-things-iot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/tagged/net485",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/extending-rs-485-gate-control-across-property-lines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/tagged/internet-of-things-iot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/iot-collaboration-models-drive-innovation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/how-protocols-shape-iot-success",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/sustainability-in-iot-connectivity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/our-customer-stories/wayne",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/tagged/eol",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/tagged/pcn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/hw-group-persesus-monitoring-150-and-150-pcn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/rutx-series-eol-announcement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/product-change-notifications/grid485-mbtcp-firmware-update-v2-06",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/tagged/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/tagged/bluetooth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridconnect.com/blogs/news/tagged/can",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.gridconnect.com/cdn/shop/files/handshake-partner.jpg?v=1654723778&width=240",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.shopify.com/s/files/1/0026/8579/6388/files/Group_Photo_Puppy_0502_d864a61d-282d-4fe1-8c48-e55591d40e5b.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.shopify.com/s/files/1/0026/8579/6388/files/ReliableProducts_Section_e009ef2d-5947-4e29-9f8c-1bfc9da1521a.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.gridconnect.com/cdn/shop/files/users_icon_38b6ea97-63e6-4e4e-8026-42e7afe7b7b7.png?v=1731920378&width=50",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.gridconnect.com/pages/proven-partnership-process",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.shizenenergy.net/2025/02/03/sc_capital_business_alliance_3rd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.se-digital.net/pressrelease_260525_funding-series-a-1st-close/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-AYIEJ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gridpredict.jp/ir/stock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/84-ownership-shares-national-grid-132144024.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caylent.com/case-study/grid-connect",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/grid-connect",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuegrid.com/revenue-grid-raises-20-million-series-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nationalgrid.com/investors/resources/reports-plc",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://s28.q4cdn.com/669718746/files/doc_downloads/2026/03/Digital-Core-REIT-Annual-Report-2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1286043/000128604326000028/annual_reportx2025.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.realtyincome.com/sites/realty-income/files/realty-income/investors/quartely-and-annual-result/2025-annual-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yukon.ca/en/yukon-bc-grid-connect",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energy.gov/articles/energy-department-announces-19b-investment-critical-grid-infrastructure-reduce-electricity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latitudemedia.com/news/gridcare-raises-oversubscribed-64-million-series-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mercomcapital.com/grid-software-solutions-provider-piq-energy-raises-5-million/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://selinc.com/api/download/blt619cdbce1d236607/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://theygotacquired.com/saas/grid-finder-acquired-by-rafa-racing-club/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grid-connect.com.au/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=vcmepVSQvDo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eniris.com/services/whitelabeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridandpixel.com/your-personalized-social-blueprint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/1designer/posts/2814100535466244/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://eniris.com/services/whitelabeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://griddesign.co.uk/brand-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weavegrid.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/grid-connect",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gridsoftware.com/about_us/terms_and_conditions.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://connect.redhat.com/en/partner-program/resell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://massivegrid.com/partners-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nationalgrid.com/investors/resources/reports-plc",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://globalconnectgroup.com/app/uploads/sites/9/2025/05/Annual-Sustainability-Report-2024_Small.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tennet.eu/de-en/tennet-germany-annual-report-2025",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://oge.net/en/we/company/financial-information",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eneken.ieej.or.jp/data/13373.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_Agora_Japan_grid_study_FullReport_EN_WEB.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gridwork.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/grid-north-group",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/grid-status",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/237809-26",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/grid-84ad",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gridshift/n/n1ebb8db93dc9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/IEA/status/2112117817944232158",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/grid-connect",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/company/green-grid-connect",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1626477214195480/posts/2871508179692371/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1626477214195480/posts/2696580860518438/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1626477214195480/posts/2894590324050823/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1626477214195480/posts/3347195638790287/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Grid Connect 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.shizenenergy.net/2025/02/03/sc_capital_business_alliance_3rd/",
+    "https://www.se-digital.net/pressrelease_260525_funding-series-a-1st-close/",
+    "https://initial.inc/companies/A-AYIEJ",
+    "https://gridpredict.jp/ir/stock",
+    "https://www.daikin.co.jp/press/2024/20240731",
+    "https://search.sbisec.co.jp/v2/popwin/info/connect/ipo/202503182101.pdf",
+    "https://www.gridshare.co.jp/2025/12/post-75/",
+    "https://kabutan.jp/stock/holder?code=350A",
+    "https://www.jera.co.jp/news/information/20240710_1969",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "Grid Connect shareholders ownership investors parent company",
+   "results": [
+    "https://pitchbook.com/profiles/company/237809-26",
+    "https://finance.yahoo.com/news/84-ownership-shares-national-grid-132144024.html",
+    "https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution",
+    "https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vIYy3pH_mYIgWSbNYmRH7pO5txDoxx6YAlN-fmfl5ygAcIueDCA",
+    "https://www.griddynamics.com/investors",
+    "https://www.nationalgrid.com/investors/shareholder-information/managing-your-shareholding",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10449170/",
+    "https://neuconnect-interconnector.com/our-investors/",
+    "https://www.sec.gov/Archives/edgar/data/1748137/000149315226011968/xslSCHEDULE_13G_X02/primary_doc.xml",
+    "https://companydata.com/company-ownership-lookup/"
+   ]
+  },
+  {
+   "query": "Grid Connect 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vJVPQV0VrokextmxA9yslahrrLTL2CiP2xGizHqIlZLWkSS8co_",
+    "https://caylent.com/case-study/grid-connect",
+    "https://www.linkedin.com/company/grid-connect",
+    "https://pitchbook.com/profiles/company/237809-26",
+    "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "https://www.deutschmann.de/en/news/news/grid-connect/",
+    "https://www.gridconnect.com/pages/why-us?srsltid=AYCX9vJZltWPiHgoo1R_vzY2i8FmuzbZiH82IrwE08Bqn8N0Lluuf6oz",
+    "https://www.bloomberg.com/profile/company/0035163D:US",
+    "https://connect.grid.com/",
+    "https://www.founded.com/about/"
+   ]
+  },
+  {
+   "query": "Grid Connect revenue profitable",
+   "results": [
+    "https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vIDWU4eJqYPyxa3eHky68Mh5jtW4U9zXDICejSGriM2OHoXZwkQ",
+    "https://www.sandia.gov/app/uploads/sites/256/2024/02/Estimating-the-Maximum-Potential-Revenue-for-Grid-Connected-Electricity-Storage-Arbitrage-and-Regulation.pdf",
+    "https://pitchbook.com/profiles/company/237809-26",
+    "https://revenuegrid.com/revenue-grid-raises-20-million-series-a/",
+    "https://www.researchgate.net/publication/324430519_Stacked_Revenue_and_Technical_Benefits_of_a_Grid-connected_Energy_Storage_System",
+    "https://caylent.com/case-study/grid-connect",
+    "https://eddygrid.com/en/knowledgebase/net-vs-gross-revenue",
+    "https://robertboswall.substack.com/p/pricing-grid-connection-auctions",
+    "https://www.sciencedirect.com/science/article/pii/S0306261925008529",
+    "https://incfact.com/company/gridconnect-naperville-il/"
+   ]
+  },
+  {
+   "query": "Grid Connect EBITDA net income annual report",
+   "results": [
+    "https://www.nationalgrid.com/investors/resources/reports-plc",
+    "https://s28.q4cdn.com/669718746/files/doc_downloads/2026/03/Digital-Core-REIT-Annual-Report-2025.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1286043/000128604326000028/annual_reportx2025.pdf",
+    "https://www.realtyincome.com/sites/realty-income/files/realty-income/investors/quartely-and-annual-result/2025-annual-report.pdf",
+    "https://globalconnectgroup.com/app/uploads/sites/9/2024/06/GlobalConnect-Annual-Report-2021.pdf",
+    "https://www.eirgrid.ie/sites/default/files/publications/EirGrid-Annual-Report-2025.pdf",
+    "https://dfinview.com/amg-funds/TVT/00170J649/AR",
+    "https://www.annualreports.com/",
+    "https://www.griddynamics.com/investors",
+    "https://incfact.com/company/gridconnect-naperville-il/"
+   ]
+  },
+  {
+   "query": "Grid Connect funding raised",
+   "results": [
+    "https://yukon.ca/en/yukon-bc-grid-connect",
+    "https://www.energy.gov/articles/energy-department-announces-19b-investment-critical-grid-infrastructure-reduce-electricity",
+    "https://www.latitudemedia.com/news/gridcare-raises-oversubscribed-64-million-series-a/",
+    "https://mercomcapital.com/grid-software-solutions-provider-piq-energy-raises-5-million/",
+    "https://pitchbook.com/profiles/company/237809-26",
+    "https://www.sciencedirect.com/science/article/pii/S2542435124005038",
+    "https://www.linkedin.com/posts/traded-venture-capital_traded-media-activity-7506392066600534016-n_i4",
+    "https://www.datacenterdynamics.com/en/news/doe-unveils-19bn-in-funding-for-31-grid-upgrade-projects-to-speed-data-center-connections/",
+    "https://www.searchlightinstitute.org/research/seizing-the-data-center-buildout-for-grid-modernization/",
+    "https://compworth.com/company/grid-connect"
+   ]
+  },
+  {
+   "query": "Grid Connect acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://pitchbook.com/profiles/company/237809-26",
+    "https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vJ7-oC0NaDDtBMjqE7aUdnRRk4bQYdL12GejdZ03aGmNuDAhICs",
+    "https://selinc.com/api/download/blt619cdbce1d236607/",
+    "https://theygotacquired.com/saas/grid-finder-acquired-by-rafa-racing-club/",
+    "https://grid-connect.com.au/pages/faq",
+    "https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Publications/Research/Electic-Power-Delivery/24-33-NYSERDA-Grid-Connect-Grid-Modernization-Briefing.pdf",
+    "https://www.blackstone.com/news/press/blackstone-acquires-power-grid-components-inc-a-leading-supplier-of-critical-components-for-the-electrical-grid/",
+    "https://www.vu.edu.au/courses/solar-grid-connect-install-tnabn",
+    "https://www.flexenergy.com/power-solutions/grid-connect/",
+    "https://www.liquidationsa.com/"
+   ]
+  },
+  {
+   "query": "Grid Connect white label",
+   "results": [
+    "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch?srsltid=AYCX9vITROj3dnLnvl8UL2ZdsnEDywgqZ5b0unxzGrviiEfyIxmFRtD4",
+    "https://grid-connect.com.au/",
+    "https://www.youtube.com/watch?v=vcmepVSQvDo",
+    "https://eniris.com/services/whitelabeling",
+    "https://finance.yahoo.com/news/grid-connect-inc-selected-exclusive-100000085.html",
+    "https://www.evconnect.com/services/white-label/",
+    "https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vJkcb-OyQItPXrOUKKGAZMCaf0VRflg8p584eLT5hUznvaARVyA",
+    "https://gridscale.io/en/blog/cloud-reseller-white-label-solution-business/",
+    "https://www.facebook.com/groups/1626477214195480/posts/2660025137507344/",
+    "https://www.gridconnect.com/blogs/news/white-label-iot-launch-iot-products-without-starting-from-scratch"
+   ]
+  },
+  {
+   "query": "Grid Connect rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://www.gridandpixel.com/your-personalized-social-blueprint",
+    "https://www.facebook.com/groups/1designer/posts/2814100535466244/",
+    "https://eniris.com/services/whitelabeling",
+    "https://griddesign.co.uk/brand-design",
+    "https://www.instagram.com/reel/C0A9d8SiBCv/",
+    "https://www.marketscale.com/industries/energy/grid-energy-in-2026-connection-backlogs-ai-load-growth-and-the-infrastructure-race-reshaping-enterprise-power",
+    "https://www.gridnewyork.com/pricing",
+    "https://www.visiblelogic.com/blog/rebrand-for-scale-a-step-by-step-guide-for-b2b-businesses/",
+    "https://gridoriginal.com/",
+    "https://en.wikipedia.org/wiki/Private_label"
+   ]
+  },
+  {
+   "query": "Grid Connect OEM SDK licensing partners",
+   "results": [
+    "https://www.gridconnect.com/?srsltid=AYCX9vL-iktDWE_QH2gqMwuYhz7H6KJeuhZUvfKM_wRiicsk8nkkJpmR",
+    "https://www.weavegrid.com/partners",
+    "https://www.linkedin.com/company/grid-connect",
+    "https://gridsoftware.com/about_us/terms_and_conditions.html",
+    "https://www.gridconnect.com/pages/a-complete-iot-and-network-development-partner-for-hardware-and-software?srsltid=AYCX9vLRWnYxPEJ7BEXPyMrtOEbnrVtrRGwA9JI8fGriJhsh3Li5GHBc",
+    "https://chargescape.com/automakers",
+    "https://grid-connect.com.au/pages/service-agreement",
+    "https://www.gevernova.com/software/blog/gridos-connect-partner-program-solutions",
+    "https://www.verizonconnect.com/solutions/marketplace/oem/",
+    "https://www.gridconnect.com/pages/services"
+   ]
+  },
+  {
+   "query": "Grid Connect reseller partner program",
+   "results": [
+    "https://www.gridconnect.com/?srsltid=AYCX9vKiOyy4dm_0iRbcGaz7rFi113W7D_tsJFQCBnV_PaM0mmIlQFJj",
+    "https://connect.redhat.com/en/partner-program/resell",
+    "https://www.nyserda.ny.gov/All-Programs/NY-Grid-CONNECT",
+    "https://massivegrid.com/partners-resellers/",
+    "https://www.chargepoint.com/about/news/chargepoint-launches-new-channel-partner-program-help-resellers-grow-profitable-ev?srsltid=AYCX9vJCKm5r8Rdjwsb5L2FjnMeYonFNiUSJb0n7qRL6fIJTxmZoIl8V",
+    "https://gridalternatives.org/get-involved/partner-with-us",
+    "https://www.youtube.com/watch?v=vcmepVSQvDo",
+    "https://docs.equinix.com/managed-solutions/resellers/gms-resellers/",
+    "https://www.gevernova.com/software/blog/new-gridos-partner-program-launched",
+    "https://directory.partner.io/gridconnect-com"
+   ]
+  },
+  {
+   "query": "Grid Connect Jahresabschluss OR financial statements",
+   "results": [
+    "https://www.nationalgrid.com/investors/resources/reports-plc",
+    "https://globalconnectgroup.com/app/uploads/sites/9/2025/05/Annual-Sustainability-Report-2024_Small.pdf",
+    "https://www.tennet.eu/de-en/tennet-germany-annual-report-2025",
+    "https://oge.net/en/we/company/financial-information",
+    "https://beyondfossilfuels.org/wp-content/uploads/2025/05/REPORT_FINAL.pdf",
+    "https://www.annualreports.com/Company/national-grid",
+    "https://strom.bkw.com/en/priv/electricity-for-households/legal-publications/annual-financial-statements-of-verteilnetze-energie-ag",
+    "https://about.bnef.com/insights/clean-energy/global-grid-investment-could-top-470-billion-for-the-first-time-in-2025-bloombergnef/",
+    "https://www.verbund.com/media/hq2nhfvp/verbund-annual-financial-report-2025-englisch.pdf",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets"
+   ]
+  },
+  {
+   "query": "Grid Connect Japan",
+   "results": [
+    "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+    "https://eneken.ieej.or.jp/data/13373.pdf",
+    "https://www.renewable-ei.org/pdfdownload/activities/REI_Agora_Japan_grid_study_FullReport_EN_WEB.pdf",
+    "https://gridwork.co.jp/en/",
+    "https://link.springer.com/article/10.1007/s00502-008-0594-0",
+    "https://www.gridconnect.com/?srsltid=AYCX9vKarKchKs2g7YQ59mGUalMn7Ugp4_YwzrzdC8y6Wl-7t-27c7k0",
+    "https://www.occto.or.jp/en/works/no7.html",
+    "https://www.linkedin.com/pulse/japan-grid-connected-microgrid-market-tqwfc",
+    "https://japantoday.com/category/tech/tepco-applies-new-rule-to-grid-connection-applications",
+    "https://en.wikipedia.org/wiki/Electricity_sector_in_Japan"
+   ]
+  },
+  {
+   "query": "Grid Connect employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/organization/grid-north-group",
+    "https://www.crunchbase.com/organization/grid-status",
+    "https://pitchbook.com/profiles/company/237809-26",
+    "https://www.crunchbase.com/organization/grid-84ad",
+    "https://www.crunchbase.com/organization/grid---gaming-revolution-for-international-development",
+    "https://dealroom.co/charts/landscape-54168-600-global-grid-technology-infrastructure-startups.html",
+    "https://getlatka.com/companies/grid",
+    "https://www.gridconnect.com/pages/grid-connect-inc-business-profile?srsltid=AYCX9vJOVPw-GOSJBreVcCrfXqUg-9UCGHzrUpFYr-PoM7U93xvUteus",
+    "https://www.crunchbase.com/organization/grid-ai-1218",
+    "https://dealroom.co/our-data/"
+   ]
+  },
+  {
+   "query": "site:note.com Grid Connect",
+   "results": [
+    "https://note.com/gridshift/n/n1ebb8db93dc9?hl=en",
+    "https://note.com/gridshift/n/ne42355849307?hl=en",
+    "https://note.com/tansocheck/n/nbf936560a462?hl=en",
+    "https://note.com/rditikuden2026/n/n1fdb5fb9c0a6?hl=en",
+    "https://note.com/wajohd/n/nbe5ae17b951e?hl=en",
+    "https://note.com/taoke_energy/n/n4b13de7ae79d?hl=en",
+    "https://note.com/rditikuden2026/n/n40bbdde5d777?hl=en",
+    "https://note.com/taoke_energy/n/neee9e6d81a99?hl=en",
+    "https://note.com/chic_jaguar7283/n/ne8066f806177?hl=en",
+    "https://note.com/kagawatomo/n/n55db6012fe75?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com Grid Connect",
+   "results": [
+    "https://x.com/IEA/status/2117689783560360243",
+    "https://x.com/IEA/status/2112117817944232158",
+    "https://x.com/pvm_ess_news/status/2114719726542954979",
+    "https://x.com/flacamera/status/2102608473414570013",
+    "https://x.com/CN_Nuclear_Corp/status/2117073444349304894",
+    "https://x.com/ProgressChamber/status/2117660784419283399",
+    "https://x.com/ABBgroupnews/status/2117874519255744918/photo/1",
+    "https://x.com/duncancampbell/status/2115060979184599426",
+    "https://x.com/SpacesFuture/status/2090892528610582885/photo/1",
+    "https://x.com/FotowatioRV/status/2116092765696033155"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Grid Connect",
+   "results": [
+    "https://www.linkedin.com/company/grid-connect",
+    "https://www.linkedin.com/in/adammjustice",
+    "https://au.linkedin.com/company/green-grid-connect",
+    "https://www.linkedin.com/in/mikejustice",
+    "https://www.linkedin.com/top-content/innovation/grid-resilience-solutions/grid-connection-limits-for-renewable-energy-projects/",
+    "https://www.linkedin.com/top-content/innovation/grid-resilience-solutions/advantages-of-alternative-grid-connection-methods/",
+    "https://au.linkedin.com/company/gridconnectau",
+    "https://www.linkedin.com/top-content/economics/climate-change-regulation/solar-energy-grid-connection-regulations/",
+    "https://www.linkedin.com/top-content/technology/infrastructure-management/grid-connection-guidelines-for-infrastructure-projects/",
+    "https://in.linkedin.com/in/sheena-pillai-20b8258"
+   ]
+  },
+  {
+   "query": "site:facebook.com Grid Connect",
+   "results": [
+    "https://www.facebook.com/groups/1626477214195480/posts/2871508179692371/",
+    "https://www.facebook.com/groups/1626477214195480/posts/2696580860518438/",
+    "https://www.facebook.com/groups/1626477214195480/posts/2894590324050823/",
+    "https://www.facebook.com/groups/1626477214195480/posts/3347195638790287/",
+    "https://www.facebook.com/groups/1626477214195480/posts/2657757301067461/",
+    "https://www.facebook.com/groups/1626477214195480/",
+    "https://www.facebook.com/groups/1626477214195480/posts/2810352175807972/",
+    "https://www.facebook.com/groups/HomeAssistant/posts/2664730457131641/",
+    "https://www.facebook.com/gridconnect/",
+    "https://www.facebook.com/groups/1626477214195480/posts/3152759711567215/"
+   ]
+  },
+  {
+   "query": "Grid Connect note 社長",
+   "results": [
+    "https://note.com/gridpredict/n/n94d29106d8d7",
+    "https://note.com/akamai_jp/m/m15dccc27bf0a/archive/2026-03",
+    "https://note.com/gridpredict/m/md5ae26496b2f",
+    "https://note.com/gridpredict/n/n52bbf08c6a36",
+    "https://hub.thinksmartbox.com/knowledgebase/how-do-i-connect-my-smart-phone-with-grid-3-2/",
+    "https://note.com/gridpredict/n/ndbc5e745339c",
+    "https://community.home-assistant.io/t/announcement-grid-connect-integration-for-home-assistant-direct-device-connection/826861",
+    "https://www.ti.com/lit/ug/tidub21d/tidub21d.pdf",
+    "https://grid-connect.com.au/blogs/app-guides/fast-forward-recorded-video"
+   ]
+  },
+  {
+   "query": "Grid Connect X 投稿",
+   "results": [
+    "https://www.neso.energy/news/grid-connect-x-innovative-tool-revolutionise-grid-connection-models",
+    "https://www.gridconnect.com/?srsltid=AYCX9vIAYIiJfttIskQVulzXCNh3UNPx-fb3IVkCJHA3_6YzvJAySlBr",
+    "https://play.google.com/store/apps/details?id=com.arlec.gridconnect",
+    "https://github.com/Dangerdangerau/Grid-Connect",
+    "https://connect.grid.com/",
+    "https://gridsystems.tech/grid-connect/",
+    "https://www.gridconnect.app/",
+    "https://community.home-assistant.io/t/gridconnect-integration/256049/22",
+    "https://www.instagram.com/gridconnect.app/",
+    "https://x.com/GridConnect"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部58頁・検索20回）",
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部58頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部58頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部58頁・検索20回）",
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部58頁・検索20回）"
+ }
+}
