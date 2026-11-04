@@ -358,9 +358,109 @@
   - 「名古屋のIndeed代理店【株式会社R4】」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
 - 作る側の原価：記載なし（読んだ30頁・検索13回）
 
-## 企業規模別・業種別の新卒採用費用
-- 文脈：
-- エラー：ValueError: netloc '関連記事：採用ピッチ資料とは？25社の成功事例と効果・メリットを徹底解説｜応募者の共感を生む採用戦略の新定番' contains invalid characters under NFKC normalization
+## 企業規模別・業種別の新卒採用費用（new graduate recruitment cost by company size Japan）
+- 文脈：③採用費
+- 社数（規模別）：
+  - 「４ 企業数 アンケートの郵送送付先数 9,342社（回収率46.3％）有効回答数 4,329社（内、WEB回答 2,484社、調査票回答 1,845社）」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「正社員数100～299人：7.2万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「300～999人」（https://timers-inc.com/blog/new-graduate-recruitment-cost）
+  - 「国内のみならず、世界各地域に拠点を拡大し、現在お客様企業数は3000社超」（https://enterprise.goworkship.com/lp/recruit/recruitmentcost-marketprice）
+  - 「中堅企業（従業員300〜999名）」（https://axia-ag.co.jp/ds/newgrad-cost/）
+- 採用難（公的統計）：
+  - 「パーソルキャリア（doda）の「転職求人倍率レポート（2026年6月）」などのデータを見ても、IT・技術系の専門職は求人倍率が高止まりしており、こうした採用競合の多さが単価を押し上げる直接的な要因となっています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［5］転職求人倍率レポート（2026年6月）」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「厚生労働省「一般職業紹介状況（令和8年4月分）について」によると、有効求人倍率は1.18倍、新規求人倍率は2.11倍となっています」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+  - 「業界が相対的に人手不足であり、2024年問題も大きな課題になっている」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「【2027年】有効求人倍率の期間を最新の厚生労働省データから分析！業界別、都道府県別も解説」（https://lab.jinjib.co.jp/archives/6536/）
+  - 「地方企業の採用が難しい理由と採用方法【2026年10月更新】｜都道府県別の求人倍率・Uターン候補者への届き方・採用手法の比較」（https://www.hear.co.jp/recruit/recruit-cost）
+  - 「下の図では、同じ568万円の採用コストをかけた場合でも、10名採用できたケースと5名しか採用できなかったケースで、1人あたりの採用単価にどれほどの差が生まれるかを示しています」（https://techhire.trackrecords.co.jp/media/new-graduate-cost）
+- 採用にいくら払うか：
+  - 「採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用コストを構成する2つの要素」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「手順3：総額を「採用人数」で割る」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「新卒採用の平均採用単価は56.8万円」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「11.8万円も増加」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「採用単価が高騰する3つの原因と業界ごとの具体的な違い」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「採用単価を劇的に削減する5つの実践的な方法と成功事例」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「新卒採用の単価は平均56.8万円という調査がありますが、企業規模や業種によって異なります」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+  - 「新卒採用単価はなぜ高い？高騰する3つの背景」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+  - 「新卒採用単価の平均は56.8万円」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+  - 「マイナビキャリアリサーチLab「マイナビ2024年卒企業新卒内定状況調査」によると、新卒採用1人あたりにかかる費用、いわゆる採用単価の平均は56.8万円」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+  - 「また、1社あたりの採用費総額の平均は287.0万円となっています」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+  - 「上場企業では平均49万円である一方、非上場企業では57.5万円とやや高い傾向です」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+- 採用広報・採用サイトの単価：
+  - 「採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「新卒採用の平均採用単価は56.8万円」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「11.8万円も増加」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「たとえば外部コスト500万円、内部コスト500万円で10名を採用した場合、」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「採用単価は100万円」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「新卒採用の平均は56.8万円｜2024年実績で前年比11.8万円増」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「2024年卒の新卒採用における平均採用単価は56.8万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「2023年卒が45.0万円だったのに対し、わずか1年で」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「中途採用の平均は31.3万円｜2024年は採用費用650万円で過去最高」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「2024年実績の中途採用における平均採用単価は約31.3万円です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「2024年の中途採用費用の平均は650.6万円で、前年比20.9万円増加し過去最高を記録しました」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「即戦力採用が多いため新卒より単価は低いですが、専門性の高い職種では人材紹介会社を利用するため1人あたり100万円を超えることもあります」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「新卒採用の単価は平均56.8万円という調査がありますが、企業規模や業種によって異なります」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+- 継続して払うか：
+  - 「ただし、これらのWebサービスは有料広告（応札型）を利用しないと十分な露出が得られないケースも多いため、運用のバランスを見極める必要があります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「構築や運用に時間はかかりますが、中長期的に媒体費へ依存しない採用基盤を作ることができます」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「まずは無料枠で試してみて、母集団形成が不十分な場合は、予算を決めて有料広告（応札型）をスポットで組み合わせるなど、運用のバランスを見極めることが大切です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「弊社では、求人媒体運用から採用戦略の設計まで、費用対効果の高いマーケティング施策をご提案しております」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「継続的に測定することで、どの採用手法が効率的か、どの時期に採用活動を強化すべきかといった戦略的な判断ができます」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「正確な算出は難しい場合もありますが、工数や運用費用まで含めて計上することが重要です」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「多くの企業で共通して見られる原因は、求める人材の条件設定、採用媒体の運用方法、採用後のミスマッチの3つです」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「ただし無料掲載は上位表示されにくいため、求人タイトルや仕事内容の記載を工夫し、定期的に更新することで露出を高める必要があります」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「自社の採用サイトやSNSを活用することで、継続的に応募者を集められます」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「無料求人媒体の活用、リファラル採用、採用サイトやSNSの運用、業務効率化、ダイレクトリクルーティングなど、今すぐ実践できる方法は数多く存在します」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「採用コストの最適化や求人媒体の運用でお悩みの企業様は、ぜひ一度ご相談ください」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「弊社のメグサポでは、Indeed運用代行で1週間に122応募を獲得した実績や、100万円の広告予算で1,200人以上の母集団形成に成功した事例など、費用対効果の高い採用支援を提供しております」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「このような疑問を持っている方に両者のメリットデメリットを比較し、ネットショップの運用方法を考える際のポイントを解説します」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「更新日：2026/06/25」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+  - 「月額費用のみで、採用ニーズの変化にも柔軟に対応」（https://www.wantedly.com/hiringeek/recruit/newgrads_cost/）
+- どう買われるか：
+  - 「お問い合わせ」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「外部のサービスへ支払う求人広告費・人材紹介手数料など 「社外」のコスト」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「・人材紹介会社への成功報酬（手数料）」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「人材紹介（転職エージェント）の一般的な料金体系：理論年収の30〜35％」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「中途採用で最も多く利用される人材紹介サービスの場合、成果報酬は「理論年収の30〜35%」が市場の共通相場です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「特に人材紹介（転職エージェント）を利用する場合、一般的な成果報酬は理論年収の30〜35%ですが、エンジニアや専門職など市場価値の高い職種では35〜40%に引き上げられるケースが増えています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「ITエンジニア・専門職（紹介会社経由）」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「加えて、人材紹介手数料の上昇も影響しています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「自社の社員から友人や知人を紹介してもらう手法です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「社員へのインセンティブ（数万〜数十万円）は発生しますが、人材紹介の手数料と比べて大幅に外部コストを削減できます」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「スカウト枠の利用料などはかかりますが、人材紹介より費用を抑えやすく、ピンポイントでの獲得が可能です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「まずは直近の採用活動において「どの手法（媒体や人材紹介）にいくら使い、何人入社したか」という費用対効果の棚卸しを行ってください」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「プロ人材紹介サービスの選び方｜3タイプ別の特徴と比較ポイント7つを解説」（https://professional.mynavi.jp/magazine/magazine_402）
+- 営業と採用のどちらに困っているか：
+  - 「特に2024年問題に直面した「運輸・物流」や、慢性的な人材不足が続く「IT・通信」などでは、企業が多くの予算を投じて中途採用を進めていることがわかります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「⚫ 新卒・中途採用とも4人以上の採用においては、概ね年商規模に比例して、人材確保につながっている比率が高まってい」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「業界が相対的に人手不足であり、2024年問題も大きな課題になっている」（https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf）
+  - 「人材不足が深刻な職種では、年収800万円の層を採用するだけで手数料が300万円を超えることもあり、これが全体の平均単価を大きく押し上げています」（https://r09.jp/columns/29807/）
+  - 「採用が1ヶ月早まれば、その分だけ事業が早く進み、売上機会の損失（機会損失）を防げます」（https://r09.jp/columns/29807/）
+- 前例の会社（製造業特化）：
+  - 「マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「従業員3〜50名：」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「従業員51〜300名：」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「従業員301〜1,000名：」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「従業員1,001名以上：」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［1］株式会社マイナビ「2024年卒 企業新卒内定状況調査」」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［2］株式会社 マイナビ 中途採用状況調査2025年版（2024年実績）」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［4］株式会社マイナビ「中途採用状況調査2024年版（2023年実績）」」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［6］株式会社マイナビ「中途採用状況調査2022年版（2021年実績）」」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［7］株式会社マイナビ「中途採用状況調査2023年版（2022年実績）」」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「株式会社マイナビ プロ人材事業部」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「株式会社マイナビ「2024年卒 企業新卒内定状況調査」」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「株式会社マイナビ「中途採用状況調査2025年版（2024年実績）」」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員数が増えるほど採用コスト総額は増加しますが、スケールメリットを活かせる大企業では一人あたりの採用単価を抑えやすい傾向があります」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「従業員50名以下の平均は119万円」（https://megdai.jp/markebatake/saiyou/6434/）
+- 作る側の原価：記載なし（読んだ30頁・検索13回）
 
 ## 採用サイト制作の費用（企業規模別・製造業の事例）（recruitment website production cost manufacturers）
 - 文脈：④単価
