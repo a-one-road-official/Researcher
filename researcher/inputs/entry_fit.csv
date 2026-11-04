@@ -1,9 +1,9 @@
 品目,英語名,別名,文脈
-設備故障の損失額算定・保全予算の経営判断支援,equipment failure cost quantification maintenance budget decision support,設備停止 損失額 算定;保全費 予算 経営判断;設備リスク 定量化,予知保全
-設備更新計画・修繕費の予実管理,asset renewal planning maintenance cost budgeting,設備更新計画 策定支援;修繕費 予実管理;長期修繕計画 工場,予知保全
-保全データの経営報告（ダッシュボード化）,maintenance KPI reporting for management,保全KPI 経営報告;設備保全 見える化 経営;OEE 経営ダッシュボード,予知保全
-保険・リース向けの設備リスク評価,equipment risk assessment for insurers,設備リスク評価 保険;機械保険 リスク診断;リース 設備 劣化評価,予知保全
-保全投資の補助金申請支援,subsidy application for maintenance investment Japan,省力化投資補助金 申請支援 設備;ものづくり補助金 保全;設備投資 補助金 コンサル,予知保全
+工場設備故障の損失額算定・保全予算の経営判断支援,equipment failure cost quantification maintenance budget decision support factory shop floor manufacturer,設備停止 損失額 算定 工場;保全費 予算 経営判断 工場;設備リスク 定量化 工場;製造業 工場設備故障の損失額算定,予知保全（工場設備のみ。プラント・インフラは除外）
+工場設備更新計画・修繕費の予実管理,asset renewal planning maintenance cost budgeting factory shop floor manufacturer,設備更新計画 策定支援 工場;修繕費 予実管理 工場;長期修繕計画 工場;製造業 工場設備更新計画,予知保全（工場設備のみ。プラント・インフラは除外）
+保全データの経営報告（ダッシュボード化）,maintenance KPI reporting for management factory shop floor manufacturer,保全KPI 経営報告 工場;設備保全 見える化 経営 工場;OEE 経営ダッシュボード 工場;製造業 保全データの経営報告（ダッシュボード化）,予知保全（工場設備のみ。プラント・インフラは除外）
+保険・リース向けの工場設備リスク評価,equipment risk assessment for insurers factory shop floor manufacturer,設備リスク評価 保険 工場;機械保険 リスク診断 工場;リース 設備 劣化評価 工場;製造業 保険,予知保全（工場設備のみ。プラント・インフラは除外）
+保全投資の補助金申請支援,subsidy application for maintenance investment Japan factory shop floor manufacturer,省力化投資補助金 申請支援 設備 工場;ものづくり補助金 保全 工場;設備投資 補助金 コンサル 工場;製造業 保全投資の補助金申請支援,予知保全（工場設備のみ。プラント・インフラは除外）
 個別原価・採算の見える化支援（製造業）,job costing profitability visibility manufacturers,個別原価計算 導入支援;製造原価 見える化;受注採算 分析 製造業,生産管理
 生産管理システム導入前の業務整理・要件定義,requirements definition before production system implementation,生産管理 要件定義 支援;システム導入 業務整理 製造業;生産管理 RFP 作成支援,生産管理
 生産管理システム導入のPMO・ベンダー選定支援,production system vendor selection PMO,生産管理 ベンダー選定;システム導入 PMO 中堅;基幹システム 選定支援,生産管理

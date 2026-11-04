@@ -40,5 +40,5 @@ topics:
   am_ceiling: {run: false, shards: 6, per_run: 2}  # 2026-11-04 金属AM受託の頭打ち金額：1件・1社年間・用途ごとの上限（12品目）
   am_bureau: {run: false, shards: 7, per_run: 4}  # 2026-11-04 金属AM受託会社26社の売上・受託売上・設備台数・最大案件・料金・創業年度・株主構成
   entry_fit: {run: true, shards: 8, per_run: 3}  # 2026-11-04 5品目（予知保全・生産管理・AI・中堅セキュリティ・大手コンサル）を24に細分：A1が入れるか（大手・参入の壁）・回せるか（事故の責任・保守・人と資格）・小さい会社の実例
-  entry_fit: {run: true, shards: 7, per_run: 3}  # 2026-11-04 5品目を19の層に細分化：A1が入れるか・回せるか（精度に責任を持たない経営判断支援の層）
+  entry_fit: {run: true, shards: 7, per_run: 3}  # 2026-11-04 5品目を19の層に細分化：A1が入れるか・回せるか（精度に責任を持たない経営判断支援の層）。予知保全は工場設備だけ（プラントはやらない）
   entry_bench: {run: true, shards: 2, per_run: 1}  # 2026-11-04 手本の会社（AIVALIX・Fracta）の売り方・責任範囲・料金・創業年度・株主構成
