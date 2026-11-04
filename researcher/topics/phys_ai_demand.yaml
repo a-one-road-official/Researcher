@@ -1,0 +1,32 @@
+# 本人の指示（2026-11-04）：フィジカルAI・無人化で需要が増える部材と用途を数字で取る。素材（アルミ・マグネシウム・チタン・永久磁石など）側を優先。
+# 除外：プラント・インフラ、サイバーセキュリティ、ソフト側のAI。対象6分野（フィジカルAI、造船、航空・宇宙、防衛、GX、マテリアル）に重なる所を優先。
+# 引用のまま取る。要約・解釈・順位づけはしない。日本と世界の両方。
+kind: market
+title: フィジカルAI・無人化で増える部材と用途 — 需要量・単価・部品構成比・供給元・日本の位置
+input: researcher/inputs/phys_ai_demand.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  市場規模: [市場規模, 億円, 兆円, 億ドル, market size, valued at, billion, million, 出荷額]
+  成長率: [CAGR, 年平均成長率, 成長率, 前年比, 倍増, 拡大, compound annual, growing at, YoY]
+  需要量: [トン, 台, 万台, 個, 需要量, 使用量, 搭載量, per robot, per unit, kg, tonnes, units shipped, demand]
+  部品構成比・単価: [部品構成, 部材費, コスト構成, 原価の, 占める, 単価, 1台あたり, BOM, bill of materials, cost breakdown, share of cost, per unit cost, price per]
+  主要供給元・シェア: [シェア, 首位, 主要企業, 供給, サプライヤー, メーカー, market share, supplier, key players, leading]
+  日本企業の位置: [日本, 国内, 日本企業, 国産, Japanese, Japan]
+  供給制約・不足: [不足, 逼迫, 供給制約, 調達難, 輸出規制, 中国依存, 依存度, shortage, bottleneck, supply constraint, export control, dependence]
+  政策・予算: [補助金, 予算, 経済産業省, 防衛省, 経済安全保障, 支援, 基金, subsidy, government funding, CHIPS, defense budget]
+
+numeric: [市場規模, 成長率, 需要量, 部品構成比・単価]
+
+external_queries:
+  - "{name} 市場規模 CAGR"
+  - "{name} 需要 見通し 2030"
+  - "{name} 部品構成 コスト"
+  - "{name} シェア 主要企業"
+  - "{name} 日本企業"
+  - "{name} 不足 OR 中国依存"
+  - "{en} market size CAGR 2030"
+  - "{en} cost breakdown bill of materials"
+  - "{en} demand per unit humanoid OR drone OR robot"
+
+limits: {pages: 45, external_per_query: 6, per_cat: 15}

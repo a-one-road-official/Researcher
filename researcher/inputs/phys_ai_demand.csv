@@ -1,0 +1,20 @@
+品目,英語名,別名,文脈
+ヒューマノイドロボットの部品構成とコスト,humanoid robot bill of materials cost breakdown,人型ロボット 部品構成;ヒューマノイド BOM;人型ロボット コスト内訳,フィジカルAI・本体
+ロボット用アクチュエータ,robot actuator market,ロボット アクチュエータ 市場;関節アクチュエータ;サーボモーター ロボット,フィジカルAI・部材
+ロボット用減速機（波動歯車・RV・遊星）,robot speed reducer harmonic drive market,波動歯車装置;精密減速機 ロボット;RV減速機,フィジカルAI・部材
+ロボットモーター用の永久磁石（ネオジム）,rare earth magnets for robots and humanoids demand,ネオジム磁石 ロボット 需要;レアアース磁石 ヒューマノイド;永久磁石 ロボット,マテリアル・素材
+ロボット・無人機の軽量構造材（アルミ合金）,aluminum alloy for robots and drones lightweight structures,アルミ ロボット 構造材;アルミ合金 ドローン フレーム;軽量化 アルミ ロボット,マテリアル・素材
+ロボット・無人機のマグネシウム合金,magnesium alloy robots drones demand,マグネシウム合金 ロボット;マグネシウム ドローン;マグネシウム 軽量化 需要,マテリアル・素材
+ロボット・無人機のチタン部材,titanium components robots drones,チタン ロボット 部品;チタン ドローン;チタン合金 無人機,マテリアル・素材
+ロボットハンド・エンドエフェクタ,robot end effector gripper market,エンドエフェクタ 市場;ロボットハンド 市場;グリッパー 市場,工場無人化
+ロボット用の治具・手先の多品種少量生産,custom robot grippers fixtures 3D printed metal,ロボット 治具 多品種;手先 治具 3Dプリンター;グリッパー 金属3Dプリント,工場無人化・金属AM
+工場の無人化（ダークファクトリー）,lights-out manufacturing dark factory market,無人工場;ライツアウト 工場;完全自動化工場,工場無人化
+自律搬送ロボット（AMR）,autonomous mobile robot market,AMR 市場;自律走行搬送ロボット;無人搬送 工場,工場無人化
+検査の自動化（外観検査ロボット）,automated visual inspection robot market,外観検査 自動化 市場;検査ロボット 製造;自動検査装置,工場無人化
+造船の溶接自動化,shipbuilding welding automation robots,造船 溶接ロボット;造船 自動化 人手不足;造船 溶接 自動化,造船
+防衛用ドローンの部材・機体,military drone components airframe market,防衛 ドローン 部品;軍用ドローン 機体 素材;無人機 部品 国産,防衛
+産業用ドローンの部材,industrial drone components market,ドローン 部品 市場;ドローン フレーム 素材;ドローン モーター 市場,航空・宇宙
+ロボット用ベアリング,robot bearings market humanoid,ロボット ベアリング;ヒューマノイド 軸受;精密軸受 ロボット,フィジカルAI・部材
+触覚・力覚センサー,tactile force torque sensor robots market,力覚センサー 市場;触覚センサー ロボット;6軸力覚センサー,フィジカルAI・部材
+超薄型モーター（アキシャルギャップ・扁平・フレームレス）,axial flux pancake frameless thin motor market robots drones,アキシャルギャップモーター;アキシャルフラックスモーター;扁平モーター;フレームレストルクモーター;薄型モーター,フィジカルAI・部材（素材：磁石・電磁鋼板・圧粉磁心）
+超薄型モーター向けの素材（薄い電磁鋼板・圧粉磁心・磁石）,thin electrical steel soft magnetic composite axial flux motor materials,薄型電磁鋼板;圧粉磁心;SMC 軟磁性複合材;アモルファス モーター,マテリアル・素材
