@@ -48,8 +48,28 @@ def trend(series):
     word = "上昇" if ch > 0.05 else "下降" if ch < -0.05 else "横ばい"
     return f"{word}（{ys[0]}→{ys[-1]}で{ch*100:+.0f}%）"
 
+def dedupe(rows):
+    """同じ出どころ（同じ値・単位・引用の頭40字）を1件にまとめる。METHOD.md 4-1。"""
+    seen, out = set(), []
+    for r in rows:
+        k = (r["品目"], r["値"], r["単位"], re.sub(r"\s", "", r["引用"])[:40])
+        if k in seen: continue
+        seen.add(k); out.append(r)
+    return out
+
+def grade(g):
+    """確度4段階。METHOD.md 4-1。"""
+    doms = {r["出典"] for r in g}
+    vals = sorted(r["値"] for r in g)
+    med = statistics.median(vals)
+    near = {r["出典"] for r in g if med and abs(r["値"] - med) <= 0.2 * abs(med)}
+    if len(near) >= 2: return "【裏付けあり】"
+    if vals and vals[0] > 0 and vals[-1] / vals[0] > 3 and len(doms) >= 2: return "【食い違い】"
+    if any(r["一次"] == "一次" for r in g): return "【一次で確認】"
+    return "【未確認】"
+
 def scan(topic):
-    rows = list(rows_for(topic))
+    rows = dedupe(list(rows_for(topic)))
     if not rows: return 0
     with open(os.path.join(OUT, topic, "cross.csv"), "w", encoding="utf-8-sig", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
@@ -69,7 +89,7 @@ def scan(topic):
             for r in (prim or g):
                 if r["年"]: peryear.setdefault(int(r["年"]), []).append(r["値"])
             med = {y: statistics.median(v) for y, v in peryear.items()}
-            md.append(f"- 【事実】{cat}（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({r['出典'] for r in g})}か所、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
+            md.append(f"- {grade(g)} {cat}（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({r['出典'] for r in g})}か所、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
             if med: md.append(f"  - 【推定】年ごとの中央値（{'一次のみ' if prim else '記事含む'}）：" + "、".join(f"{y}年 {v:g}" for y, v in sorted(med.items())) + f" → 向き：{trend(med)}")
         # 1人あたり：同じ年に万円と人がある場合
         money = {}; people = {}
