@@ -1,0 +1,2289 @@
+# 業界の3C＋PEST（日本→海外・輸出）対象6分野33小区分（事実のみ・16品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 人型ロボット（humanoid robot）
+- 文脈：1 AI・半導体 ①フィジカルAI
+- 顧客（金を払う側）：
+  - 「政府公共調達データベース」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「「対象機器・サービス」リストに掲載されている品目の多くは、中国やロシアの特定企業の通信機器やサービスとなっており、中国は今回の措置に対して、報復措置を講じると表明している（米通商専門誌「インサイドUSトレード」7月30日）」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「リスト掲載品目の中で、製造企業を特定せず製品カテゴリー自体を掲載し、特定製品に「条件付き承認」を与える形式となっているのは、今回の外国製高度ロボット機器およびインバーターのほか、消費者ルーター（」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「中国製ロボット、海外導入広がる 羽田空港で人型ロボット実証 | Science Portal China」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「中国製ロボット、海外導入広がる 羽田空港で人型ロボット実証」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「日本航空（JAL）とGMO AI＆ロボティクス商事は2026年5月から、中国のロボット企業、宇樹科技（Unitree）の人型ロボット「G1」と、広東省深圳市に本社を置く優必選科技（UBTECH）のサービス用人型ロボット「Walker E」を使い、機体の牽引、貨物用コンテナの積み卸しといった身体的負荷の大きい作業での活用を探っている」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「中国製ロボットが海外で導入される事例は、羽田空港に限らない」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「李氏は、低価格競争に頼るのではなく、産業チェーン全体の強みや、製品とサービスを組み合わせた提供を背景に、ロボットメーカーが「価値型の海外進出」を進めているとの見方を示した」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「中国の人型ロボット産業、2025年は完成品メーカーが140社超に」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「FCCは、外国製のインバーターを使用すると、外国企業がインバーターの電源を切ったり、データを盗んだり、外国政府関係者による遠隔アクセスや監視を容易にしたり、サイバー攻撃によって悪用されたりする可能性があるという懸念を挙げた」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+  - 「そのうえでアメリカに対し、「覇権主義的な考え方を捨て、中国企業を中傷したり、制裁で脅したりするのをやめるべきだ」と求めた」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+  - 「BBCは、中国の大手ロボットメーカーであるユニツリー（宇樹科技）、UBTECH（ユービーテック、優必選科技）、AGIBOT（アジボット、智元机器人）にそれぞれコメントを求めた」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+  - 「スコット・ベッセント米財務長官は先に、中国のAI企業がアメリカの知的財産を盗んだ疑いがあるとして、制裁の可能性を警告した」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+  - 「中国のテクノロジー企業は、工場や家庭などさまざまな場面で使用できるヒト型ロボットを急速に開発している」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+  - 「各社はまた、実業家イーロン・マスク氏率いるEV大手テスラや、ボストン・ダイナミクスといったアメリカのヒト型ロボット分野での競合に先駆けて、自社製品を企業や一般消費者に迅速に売り込んでいる」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+- 顧客の顧客（発注元が求めること）：
+  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「ただし、消費者が購入済みの機器の使用や、これまでにFCC認証を取得している既存モデルの輸入・販売・販売促進には適用されない」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「同リストに掲載されている品目は、米国内での輸入・販売・販売促進のために必要なFCC認証の取得が禁止される」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「ただし、ロボットについては戦争省（国防総省）が、インバーターについては国土安全保障省が、国家安全保障上のリスクがないとして「条件付き承認（Conditional Approval）」を付与した場合は、FCCの認証を受けられる（注）」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「BeRobotはあなた様の要求するプログラミングに対応します」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「日本のヒューマノイドロボット関連企業を「開発メーカー」「スタートアップ」「部品サプライヤー」の3軸で整理」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
+  - 「以下に、日本のヒューマノイドロボット関連企業を「完成品メーカー」「スタートアップ」「部品サプライヤー」「投資・導入」の4カテゴリで整理しました」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
+  - 「部品サプライヤー」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
+  - 「中国OEMに依存しない国産サプライチェーンの構築を掲げている点が特徴です」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
+  - 「「体は中国、脳は米国」というアプローチで、海外OEM機体に独自AI（VLA搭載予定）を組み合わせ、サイレントジェスチャーコントロール（声なし手振り指示、特許技術）で差別化を図っています（」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
+  - 「しており、部品サプライヤーへの需要は今後急拡大する見通しです」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
+  - 「また、ハーモニック・ドライブ、安川電機、ファナックなどの部品サプライヤーもヒューマノイド関連企業として重要です」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
+  - 「部品サプライヤーではハーモニック・ドライブ（6324）、安川電機（6506）、ファナック（6954）、ナブテスコ（6268）、村田製作所（6981）などがあります」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
+  - 「#BCP対策」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html）
+- 顧客の競合（奪いに来る側）：
+  - 「米連邦通信委、外国製ヒューマノイドロボットなどの新規流通を実質禁止(中国、米国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「インドネシア」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「（米国、中国）」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「米国連邦通信委員会（FCC）は7月28日、」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「今回の措置により、該当する機器の新規モデルの米国市場での流通が実質的に禁止されることになる」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「「対象機器・サービス」のリストは、「2019年安全で信頼できる通信ネットワーク法」に基づきFCCがまとめている、米国の国家安全保障、または米国民の安全・安心に容認できないリスクをもたらすと判断された通信機器およびサービスの一覧だ」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「同リストに掲載されている品目は、米国内での輸入・販売・販売促進のために必要なFCC認証の取得が禁止される」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「今回のリスト追加は、これらの機器が米国の経済安全保障や国家安全保障を損なうサプライチェーン上の脆弱（ぜいじゃく）性を生じさせ、米国の重要インフラにサイバーセキュリティーリスクをもたらす恐れがあるとの省庁横断組織の判断に基づく」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「」によると、外国製の定義は米国連邦規則集〔48 CFR §25.101（a）〕における「米国内製最終製品（Domestic End Product）」に該当しない製品となる」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「米国外で製造を行うことや、米国外産部品比率が一定割合以上になることで外国製とみなされる」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「「対象機器・サービス」リストに掲載されている品目の多くは、中国やロシアの特定企業の通信機器やサービスとなっており、中国は今回の措置に対して、報復措置を講じると表明している（米通商専門誌「インサイドUSトレード」7月30日）」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「中国製ロボット、海外導入広がる 羽田空港で人型ロボット実証 | Science Portal China」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「中国基礎資料集」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「インドトップ」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+- 自社の競合（商社・代理店・仲介）：
+  - 「2026年１月に帝華機械株式会社はBooster Roboticsと正式に日本国内正規代理店として契約致しました」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「中国では商用化済みでも日本との接点が薄い企業や、すでに国内展開を進める企業を可視化し、日本企業にとっての調達先、協業先、販売代理候補、潜在競合を整理しています」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「製造業、商社、金融機関、コンサルティング会社、新規事業部門などの市場調査・事業企画にご活用いただけます」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「の日本代理店販売は菱洋エレクトロ等が担っています」（https://humanoidpress.jp/humanoid-robot-japan-companies/）
+  - 「しかし「世の中のあらゆるもの」をAIと結びつけるには、「何でも対応できる仲介者」が必要である」（https://wisdom.nec.com/ja/series/tanaka/2025090401/index.html）
+  - 「GMO AI＆ロボティクス商事、世界No.1の人型ロボット（ヒューマノイド）メーカーUnitree Roboticsの国内正規代理店に 〜人型ロボット（ヒューマノイド）の販売から導入支援・通信の安全性担保までワンストップ提供〜 | GMO AI＆ロボティクス商事株式会社（GMO AIR）」（https://ai-robotics.gmo/news/article/gmo-unitree/）
+  - 「GMO AI＆ロボティクス商事、世界No.1の人型ロボット（ヒューマノイド）メーカーUnitree Roboticsの国内正規代理店に 〜人型ロボット（ヒューマノイド）の販売から導入支援・通信の安全性担保までワンストップ提供〜」（https://ai-robotics.gmo/news/article/gmo-unitree/）
+  - 「GMOインターネットグループにおいてAIとロボティクスの社会実装を推進するGMO AI＆ロボティクス商事株式会社（代表取締役社長：内田 朋宏、以下 GMO AIR）は、世界シェアNo.1（※1）の人型ロボット（ヒューマノイド）メーカーであるYushu Technology Co., Ltd（創業者兼CEO：王興興、以下 Unitree Robotics）と2026年6月19日に、国内正規代理店契約を締結しました」（https://ai-robotics.gmo/news/article/gmo-unitree/）
+  - 「これによりGMO AIRは、同日よりUnitree Roboticsの国内正規代理店として、人型ロボット（ヒューマノイド）・四足歩行ロボットなどのUnitree Robotics製ロボットの販売を開始し、導入支援・ソフトウェア開発・保守運用までをワンストップで提供します」（https://ai-robotics.gmo/news/article/gmo-unitree/）
+  - 「GMO AIRは、以下の考えのもと、人型ロボット（ヒューマノイド）の社会実装を加速するパートナーとして、このたびUnitree Roboticsとの国内正規代理店契約を締結いたしました」（https://ai-robotics.gmo/news/article/gmo-unitree/）
+  - 「空港・物流・施設管理・点検・警備・建設など、あらゆる産業領域への最適な人型ロボット（ヒューマノイド）の導入を加速し、人型ロボット（ヒューマノイド）社会実装における日本最大級の商社となることを目指し、お客様の笑顔と感動を創造してまいります」（https://ai-robotics.gmo/news/article/gmo-unitree/）
+  - 「GMO AIRは、「AIとヒューマノイドをすべての人へ」を掲げ、AI・ロボット事業を担う総合商社として2024年6月18日に設立されました」（https://ai-robotics.gmo/news/article/gmo-unitree/）
+  - 「Unitree 国内正規代理店」（https://gmo-humanoid.shop/）
+  - 「GMO AIRは、Unitreeの国内正規代理店です」（https://gmo-humanoid.shop/）
+  - 「GMO AI＆ロボティクス商事、世界No.1の人型ロボットメーカー Unitree Roboticsの国内正規代理店に | i4U（アイフォーユー）」（https://i4u.gmo/epTtW）
+- 政治（法・予算・規制）：
+  - 「世界各国の関税率」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「政府公共調達データベース」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「今回のリスト追加は、これらの機器が米国の経済安全保障や国家安全保障を損なうサプライチェーン上の脆弱（ぜいじゃく）性を生じさせ、米国の重要インフラにサイバーセキュリティーリスクをもたらす恐れがあるとの省庁横断組織の判断に基づく」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「アメリカ政府は28日、国家安全保障に対する「容認できないリスク」を理由に、外国製の新型ロボットの輸入を禁止すると発表した」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+  - 「米首都ワシントンの中国大使館は、アメリカが「根拠のない口実」に基づいて貿易問題を「政治化」し、制裁を科すことに、中国政府は長年反対してきたと述べた」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+  - 「FCCは、外国製のインバーターを使用すると、外国企業がインバーターの電源を切ったり、データを盗んだり、外国政府関係者による遠隔アクセスや監視を容易にしたり、サイバー攻撃によって悪用されたりする可能性があるという懸念を挙げた」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+  - 「ワシントンの中国大使館はこれに対し、中国政府は自国の利益を損なういかなる動きに対しても「必要なあらゆる措置を講じる」と強調」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+  - 「世界最大の電気自動車（EV）輸出国であるにもかかわらず、中国は高額な関税によって事実上、アメリカ市場から締め出されている」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+  - 「米政府はまた、国家安全保障を守り、中国の軍事近代化を遅らせ、AI分野におけるアメリカの優位性を維持するために、最先端のアメリカ製半導体の中国への販売を阻止している」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+  - 「これに対し中国政府は、自国のAI開発は「自国の献身と努力、そして国際協力の成果だ」と述べている」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+  - 「アメリカは、中国が昨年に電子機器に不可欠なレアアース（希土類）の輸出規制を強化した際に引き起こされたサプライチェーンの逼迫（ひっぱく）を、何としても再発させたくはないだろう」（https://www.bbc.com/japanese/articles/czxq0vng4z0o）
+  - 「ギネス世界記録の認定済み」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「「BeRobot」は、ギネス世界記録の認定をクリアした世界最小型のヒューマノイドロボットです」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+- 経済（規模・価格・為替）：
+  - 「市場規模も世界全体の50％を超えた」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「中国UBTECH、日韓から人型ロボット受注 海外契約11億円超 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」（https://36kr.jp/502670/）
+  - 「中国UBTECH、日韓から人型ロボット受注 海外契約11億円超」（https://36kr.jp/502670/）
+  - 「中国の人型ロボット（ヒューマノイド）大手「優必選科技（UBTECH Robotics）」はこのほど、日本、韓国、欧州の顧客から相次いで受注し、海外での受注額が5000万元（約11億5000万円）を超えたと発表した」（https://36kr.jp/502670/）
+  - 「UBTECHの2026年1〜6月期の売上高は前年同期比104.2％増の12億7000万元（約290億円）」（https://36kr.jp/502670/）
+  - 「中国DRAM大手CXMT、1～9月は赤字から3.2兆円の黒字に メモリー高騰が追い風」（https://36kr.jp/502670/）
+  - 「中国レアアース大手「北方稀土」、純利益2.6倍 価格上昇とコスト低下が追い風」（https://36kr.jp/502670/）
+  - 「20万円で買える中国の人型ロボット、まだ「ハイテク玩具」なのか」（https://36kr.jp/502670/）
+  - 「Momentaと組む中国の車載チップ新興、累計調達1200億円に迫る ルノー系資本も参画」（https://36kr.jp/502670/）
+  - 「売上高は前年同期比738.51％増の2690億2400万元（約6兆5000億円） […]」（https://36kr.jp/502670/）
+  - 「DeepSeek、約2兆5300億円を調達か 評価額約15兆円、中国国有資本の出資比率27％に拡大」（https://36kr.jp/502670/）
+  - 「米テクノロジーメディアのThe Informationは関係者の話として、中国のAIスタートアップ企業「DeepSeek（ディープシーク）」が、2回目の資金調達ラウンドで約1055億元（約2兆5300億円）を調達したと報 […]」（https://36kr.jp/502670/）
+  - 「中国電気自動車（EV）大手の比亜迪（BYD）が10月29日に発表した2026年7～9月期決算は、売上高が前年同期比13.6％増の2215億元（約5兆3200億円）、親会社株主に帰属する純利益が28.1％増の100億元（約 […]」（https://36kr.jp/502670/）
+  - 「トップ層は年収20億円、新卒でも1億円超！中国「AI人材争奪戦」の舞台裏」（https://36kr.jp/502670/）
+  - 「(参考価格: ¥500,000～¥5,000,000)」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+- 社会（人・担い手）：
+  - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「トップ層は年収20億円、新卒でも1億円超！中国「AI人材争奪戦」の舞台裏」（https://36kr.jp/502670/）
+  - 「製造業の組立工程では、人手不足や作業員の負担増加が課題となっています」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「もはや技能検証のフェーズは終了し、スケーラブルな価値提供の段階に」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「トップ層は年収20億円、新卒でも1億円超！中国「AI人材争奪戦」の舞台裏」（https://36kr.jp/500515/）
+  - 「才能は環境によって再定義される──人事のキーマンが語る若手人材の才能を引き出す組織」（https://forbesjapan.com/articles/detail/105959）
+  - 「先進国を中心に少子高齢化が進み、製造業や物流業、サービス業などで慢性的な労働力不足が深刻化している」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html）
+  - 「その背景には、中国で進む急速な高齢化と人口減少、現場の労働力不足、人件費の高騰といった差し迫った課題がある」（https://wisdom.nec.com/ja/series/tanaka/2025090401/index.html）
+  - 「トップ層は年収20億円、新卒でも1億円超！中国「AI人材争奪戦」の舞台裏」（https://36kr.jp/456326/）
+  - 「トップ層は年収20億円、新卒でも1億円超！中国「AI人材争奪戦」の舞台裏」（https://36kr.jp/492924/）
+  - 「自動車業界の過去のトレンドと協働ロボットの成長は、技術の進歩、サプライチェーン問題、賃金インフレおよび人口高齢化に支えられ、ヒューマノイドの導入が主流になる態勢を整えていることを示唆しています」（https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html）
+  - 「人件費の上昇と人手不足」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「人手不足は、賃金水準が高く高齢化が進む製造業経済における自動化の経済的合理性をさらに高めている」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「労働力への圧力や物流処理能力に対する要件が需要を下支えする一方、統合コスト、人材不足、安全上の義務が、どのプロジェクトが生産現場に到達するかを左右する」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「地域の市場基盤が比較的小さいため、プロジェクトの成約を左右する要因として、最終市場の需要と同様に、システム統合能力、人材の技能、資金調達の可否が重要となる」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+- 技術（新しい技術・実証）：
+  - 「米連邦通信委、外国製ヒューマノイドロボットなどの新規流通を実質禁止(中国、米国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「米連邦通信委、外国製ヒューマノイドロボットなどの新規流通を実質禁止」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「外国製のヒューマノイドや四足歩行ロボットなどの高度ロボット機器と、ネットワーク接続型パワーインバーターを追加したと発表」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「ただし、ロボットについては戦争省（国防総省）が、インバーターについては国土安全保障省が、国家安全保障上のリスクがないとして「条件付き承認（Conditional Approval）」を付与した場合は、FCCの認証を受けられる（注）」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「高度ロボット機器」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「リスト掲載品目の中で、製造企業を特定せず製品カテゴリー自体を掲載し、特定製品に「条件付き承認」を与える形式となっているのは、今回の外国製高度ロボット機器およびインバーターのほか、消費者ルーター（」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「中国製ロボット、海外導入広がる 羽田空港で人型ロボット実証 | Science Portal China」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「中国製ロボット、海外導入広がる 羽田空港で人型ロボット実証」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「羽田空港では、高さ130センチメートル、重量35キログラムの人型ロボットを使い、大型ジェット旅客機の下で荷物を輸送ベルトに載せる作業の実証実験が行われている」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「日本航空（JAL）とGMO AI＆ロボティクス商事は2026年5月から、中国のロボット企業、宇樹科技（Unitree）の人型ロボット「G1」と、広東省深圳市に本社を置く優必選科技（UBTECH）のサービス用人型ロボット「Walker E」を使い、機体の牽引、貨物用コンテナの積み卸しといった身体的負荷の大きい作業での活用を探っている」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「中国製ロボットが海外で導入される事例は、羽田空港に限らない」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「北京賽迪と中国電子報が共同で発表した報告書によると、2025年の中国の人型ロボット完成品の出荷台数は約1万4400台で、同製品の世界総出荷台数の84.7％を占めた」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「2025年以降、中国では人型ロボットだけでなく、産業用ロボットの輸出も増えている」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「同年の産業用ロボット輸出は48.7％増加した」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「中国税関のデータによると、2026年に税関分類として新たに追加された清掃ロボットは、第1四半期（1～3月）の輸出額が77億5000万元（1元＝約24円）に達し、ロボット輸出総額の68.5％を占めた」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+- 検索結果の抜粋：
+  - 「米連邦通信委、外国製ヒューマノイド ロボット などの新規流通 ... — 米連邦通信委、外国製ヒューマノイド ロボット などの新規流通 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/08」（https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html）
+  - 「中国製ロボット、海外導入広がる 羽田空港で 人型ロボット 実証 — 中国製ロボット、海外導入広がる 羽田空港で 人型ロボット 実証 Science Portal Asia Pacific https://spap.jst.go.jp > china > news > topic_2_01」（https://spap.jst.go.jp/china/news/260602/topic_2_01.html）
+  - 「2026 年ヒューマノイド ロボット 産業発展報告書 - 百度百科 — 2026 年ヒューマノイド ロボット 産業発展報告書 - 百度百科 百度百科 https://baike.baidu.com > item > 2026年ヒューマノイドロ...」（https://baike.baidu.com/ja/item/2026%E5%B9%B4%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%94%A3%E6%A5%AD%E7%99%BA%E5%B1%95%E5%A0%B1%E5%91%8A%E6%9B%B8/4963438）
+  - 「中国UBTECH、日韓から 人型ロボット受注 海外 契約11億円超 — 中国UBTECH、日韓から 人型ロボット受注 海外 契約11億円超 36Kr Japan https://36kr.jp > new-cat > 大企業」（https://36kr.jp/502670/）
+  - 「ヒューマノイド ロボット - メーカー・ 企業 17社の業務用製品 ... — ヒューマノイド ロボット - メーカー・ 企業 17社の業務用製品 ... 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ヒューマノイドロボット」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「中国UBTECH、日韓から 人型ロボット受注 海外 契約11億円超 — 中国UBTECH、日韓から 人型ロボット受注 海外 契約11億円超 NewsPicks https://newspicks.com > news」（https://newspicks.com/news/17566577/）
+  - 「ヒューマノイド ロボット メーカー15社 - Metoree — ヒューマノイド ロボット メーカー15社 - Metoree Metoree https://metoree.com > ロボット」（https://metoree.com/categories/9681/）
+  - 「世界の 人型ロボット 、「ほぼ中国製」に 出荷 シェア 97 — 世界の 人型ロボット 、「ほぼ中国製」に 出荷 シェア 97 36Kr Japan https://36kr.jp > new-cat > 大企業」（https://36kr.jp/500515/）
+  - 「ヒューマノイド ロボット の世界出荷台数が432％急増 — ヒューマノイド ロボット の世界出荷台数が432％急増 Forbes JAPAN https://forbesjapan.com > テクノロジー > AI」（https://forbesjapan.com/articles/detail/105959）
+  - 「日本 の 人型ロボット市場 規模、 シェア 、需要、予測、2034年 — 日本 の 人型ロボット市場 規模、 シェア 、需要、予測、2034年 Fortune Business Insights https://www.fortunebusinessinsights.com > 日本の人型ロ...」（https://www.fortunebusinessinsights.com/jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-114994）
+  - 「ヒューマノイド ロボット の 市場 規模は？2030年・2050年予測 ... — ヒューマノイド ロボット の 市場 規模は？2030年・2050年予測 ... 株式会社ミライト・ワン https://www.mirait-one.com > whatsnew > trend-data_0068」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html）
+  - 「人型ロボット市場 規模、主要 シェア 、成長率、2034年 — 人型ロボット市場 規模、主要 シェア 、成長率、2034年 Straits Research https://straitsresearch.com > 情報技術 > テクノロジー」（https://straitsresearch.com/jp/report/humanoid-robot-market）
+  - 「中国 の 人型ロボット 、100m走でボルト超え 技術進歩を披露 — 中国 の 人型ロボット 、100m走でボルト超え 技術進歩を披露 Reuters https://www.reuters.com > economy」（https://www.reuters.com/jp/economy/UQNK3Z4BDVPJFIIQJDIGQ3VQ44-2026-08-24/）
+  - 「人型ロボット 、2025年世界出荷1万3000台 中国 メーカーが ... — 人型ロボット 、2025年世界出荷1万3000台 中国 メーカーが ... 36Kr Japan https://36kr.jp > new-cat > 特集」（https://36kr.jp/456326/）
+  - 「世界No.1の 人型ロボット （ヒューマノイド）メーカーUnitree ... — 世界No.1の 人型ロボット （ヒューマノイド）メーカーUnitree ... GMO AI&ロボティクス商事 https://ai-robotics.gmo > news > article > gmo-unitree」（https://ai-robotics.gmo/news/article/gmo-unitree/）
+
+## エッジAIチップ（edge AI chip）
+- 文脈：1 AI・半導体 ②中核半導体
+- 顧客（金を払う側）：
+  - 「2024年12月以降、米国商務省は半導体製造装置やAI関連技術に対する新たな対中輸出規制を導入しました」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：米国の技術やソフトウェアを使用する外国企業にも適用される「外国直接製品規則（FDPR）」が強化され、台湾や日本など第三国の企業にも影響が及ぶ」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：中国以外の地域（台湾、ベトナム、インドなど）での製造や調達が加速」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：FDPRにより、日本企業も米国の技術を使用する製品の中国向け輸出において厳格なコンプライアンスが求められる」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：EDGEMATRIXなど、映像解析や社会インフラ向けソリューションを提供する企業が市場を牽引」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：NVIDIAのJetsonプラットフォームやArmアーキテクチャを活用したエッジデバイスが広く採用されている」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「日本のエッジAI企業は、NVIDIAやARMベースのチップに依存しており、部品調達コストの上昇や納期遅延のリスクが高まる」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「台湾が米国の規制影響を受ける場合、日本の企業も間接的に影響を受ける可能性がある」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：中国のAI企業は、米国製半導体や技術へのアクセスが制限されるため、短期的に競争力が低下」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「これにより、日本のエッジAI企業は、東南アジアや欧州など中国以外の市場でのシェア拡大の機会を得る」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：中長期的に、中国が独自のエッジAI技術を開発する可能性があり、日本企業は新たな競合との競争に備える必要がある」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：日本のエッジAI市場はNVIDIAのJetsonプラットフォームに依存している企業が多い」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「日本の企業は、輸出管理体制の強化や法務コストの増加に直面する」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「台湾以外の地域（例：日本、韓国、東南アジア）での部品調達や製造拠点の構築を検討し、供給リスクを軽減」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：国内企業間や大学・研究機関との協業を強化し、エッジAIの標準化や技術革新を推進」（https://note.com/edgematrix/n/n5b8403acc4ff）
+- 顧客の顧客（発注元が求めること）：
+  - 「日本のエッジAI企業は、NVIDIAやARMベースのチップに依存しており、部品調達コストの上昇や納期遅延のリスクが高まる」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：日本のエッジAIデバイス製造は、TSMCなど台湾の半導体サプライヤーに大きく依存」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「⑤ 規制・認証・法務・知財」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「→ プルーヴは、海外（台湾・韓国・米国）の半導体人材の採用支援、大手IT（潜在顧客）へのアプローチ、補助金・重要物資指定の準備、Rapidusサプライヤー登録の進め方の整理をお手伝いします」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「Rapidus 2nm国産化 2027 — 人材・顧客開拓・サプライヤー登録」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「Rapidus千歳のサプライヤー登録の道案内」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「日本の自動車メーカーや半導体サプライヤーは、専用推論プロセッサーや車載コンピューティングプラットフォームを開発する企業にビジネス機会をもたらしています」（https://www.dreamnews.jp/press/0000367069）
+  - 「自動車電子機器サプライヤーは、運転支援、車室内インテリジェンス、センサー処理、車両自動化向けの専用AIプロセッサーを開発できます」（https://www.dreamnews.jp/press/0000367069）
+  - 「このセグメントへの参入には、自動車向け認証、長期にわたる製品ライフサイクル、機能安全、熱的信頼性などの要件が重要です」（https://www.dreamnews.jp/press/0000367069）
+  - 「サプライヤーは、データやコンピューティングインフラに対する管理を強化する必要がある組織向けに、プライベートAI導入を支援しながら処理効率を高めることで差別化を図ることができます」（https://www.dreamnews.jp/press/0000367069）
+  - 「日本の半導体開発に向けた取り組みは、チップ設計企業、ファウンドリー、装置メーカー、材料サプライヤー、システムインテグレーター間の協業機会を生み出しています」（https://www.dreamnews.jp/press/0000367069）
+  - 「- 顧客認証： 自動車、産業、ヘルスケア向けアプリケーションでは、広範な試験と検証が必要になる場合があります」（https://www.dreamnews.jp/press/0000367069）
+  - 「信頼性が高く、用途に最適化された推論プラットフォームを提供するサプライヤーは、日本で拡大するAI導入エコシステムから恩恵を受けるうえで、有利な立場に立つ可能性があります」（https://www.dreamnews.jp/press/0000367069）
+  - 「原材料とサプライヤー、製造コスト構造、製造プロセス分析、および産業チェーン構造について記載されています」（https://newscast.jp/smart/news/8082788）
+  - 「品質認証取得」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+- 顧客の競合（奪いに来る側）：
+  - 「米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響｜EDGEMATRIX」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「米国の対中輸出規制は、技術覇権を巡る米中間の緊張の高まりを背景に、近年厳格化が進んでいます」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「特に、人工知能（AI）や半導体技術は、米国の安全保障政策の中心に位置づけられ、輸出規制の主要な対象となっています」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「このブログでは、最新の米国対中輸出規制の状況とその見通しを概観し、日本のエッジAI市場への影響について考察します」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「1. 米国の対中輸出規制の最新状況」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「2024年12月以降、米国商務省は半導体製造装置やAI関連技術に対する新たな対中輸出規制を導入しました」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：特定の先端半導体製造装置および関連技術の中国への輸出を禁止」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「これにより、中国の先端半導体生産能力が制限される」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「AI関連製品の中国市場への供給が大幅に制限される」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：米国の技術やソフトウェアを使用する外国企業にも適用される「外国直接製品規則（FDPR）」が強化され、台湾や日本など第三国の企業にも影響が及ぶ」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「2. 米国の対中輸出規制の見通し」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：トランプ政権は、中国の技術進歩を抑制する政策を加速」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：中国以外の地域（台湾、ベトナム、インドなど）での製造や調達が加速」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：FDPRにより、日本企業も米国の技術を使用する製品の中国向け輸出において厳格なコンプライアンスが求められる」（https://note.com/edgematrix/n/n5b8403acc4ff）
+- 自社の競合（商社・代理店・仲介）：
+  - 「代理店プログラム」（https://www.dreamnews.jp/press/0000367069）
+  - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「第11章「Marketing, Distributors and Customer」では、販売チャネル（直接チャネル、間接チャネル）、超エッジAIチップセットの販売業者、および超エッジAIチップセットの顧客に関する情報が記載されている」（https://www.atpress.ne.jp/news/9440001）
+  - 「伯東、EdgeCortix 株式会社と販売代理店契約を締結」（https://www.hakuto.co.jp/news/260820.pdf）
+  - 「「EdgeCortix 社」）と販売代理店契約を締結しました」（https://www.hakuto.co.jp/news/260820.pdf）
+  - 「伯東は1953年の創業以来、最新の情報や最先端の技術をいち早くお客様へお届けする技術商社として、生産の効率化を図」（https://www.hakuto.co.jp/news/260820.pdf）
+  - 「また、エレクトロニクス×ケミカル領域、商社×メーカーのハイブリッド企業としてのシナジー」（https://www.hakuto.co.jp/news/260820.pdf）
+  - 「伯東、日本のAI半導体をインド太平洋へ EdgeCortixと代理店契約 | 電波新聞デジタル」（https://dempa-digital.com/article/723488）
+  - 「伯東、日本のAI半導体をインド太平洋へ EdgeCortixと代理店契約」（https://dempa-digital.com/article/723488）
+  - 「データセンターでなく末端の機器で動作する人工知能、エッジAI向け半導体を手がけるEdgeCortix（エッジコーティックス、川崎市中原区）が、エレクトロニクス商社の伯東、緑屋電気と新たな戦略的提携契約を結んだ」（https://dempa-digital.com/article/723488）
+  - 「Blaizeは現在、豊田通商グループの半導体商社ネクスティエレクトロニクスなど、日本国内の複数のエレクトロニクス商社と販売代理店契約を結んでいる」（https://techblitz.com/startup-interview/blaize/）
+  - 「If you are a reseller/distributor please」（https://www.idtechex.com/ja/research-report/ai-chips-for-edge-applications/1148）
+  - 「先進技術（エマージングテクノロジー）」（https://www.idtechex.com/ja/research-report/ai-chips-for-edge-applications/1148）
+  - 「From Cloud AI To Real-World Agents: The Shift To Intelligence That Acts」（https://www.edgecortix.com/en/news）
+  - 「This content was commissioned by Nikkei's Global Business Bureau.」（https://asia.nikkei.com/business/tech/semiconductors/japan-aims-to-build-onshore-ai-chip-ecosystem-with-new-r-d-hubs）
+- 政治（法・予算・規制）：
+  - 「米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響｜EDGEMATRIX」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「米国の対中輸出規制は、技術覇権を巡る米中間の緊張の高まりを背景に、近年厳格化が進んでいます」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「特に、人工知能（AI）や半導体技術は、米国の安全保障政策の中心に位置づけられ、輸出規制の主要な対象となっています」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「このブログでは、最新の米国対中輸出規制の状況とその見通しを概観し、日本のエッジAI市場への影響について考察します」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「1. 米国の対中輸出規制の最新状況」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「2024年12月以降、米国商務省は半導体製造装置やAI関連技術に対する新たな対中輸出規制を導入しました」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「AI向け半導体の規制強化」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「規制対象の拡大」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「2025年4月の報道では、トランプ政権下でAIや量子コンピューティング関連技術の輸出規制がさらに強化される見込みであり、グローバルな技術サプライチェーンに大きな変動が生じています」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「2. 米国の対中輸出規制の見通し」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「規制の継続的強化」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「特に、AIや5G関連技術の輸出規制は2026年以降も拡大する見込み」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「4. 米国の対中輸出規制が日本のエッジAI市場に与える影響」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「米国の対中輸出規制は、日本のエッジAI市場に以下のような直接的・間接的な影響を及ぼす可能性があります」（https://note.com/edgematrix/n/n5b8403acc4ff）
+- 経済（規模・価格・為替）：
+  - 「：国内エッジAI市場は年率41.3％で成長し、2026年には431億円規模に達する見込み」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「EdgeCortix、みずほ銀行との間で15億円の当座貸越枠を締結 ― 事業成長加速に向けた財務基盤を強化 ―」（https://www.edgecortix.com/ja/press-releases）
+  - 「EdgeCortix、シリーズB資金調達の初回クローズを完了、総調達額は約150億円に到達」（https://www.edgecortix.com/ja/press-releases）
+  - 「エッジ推論・学習向けの先進的省エネAIチップレット開発で、EdgeCortixがNEDOより新たに30億円のプロジェクトに採択」（https://www.edgecortix.com/ja/press-releases）
+  - 「EdgeCortix、NEDOから40億円の補助金を受け、ポスト5G通信システム向けにエネルギー効率の高いAIチップレットを開発」（https://www.edgecortix.com/ja/press-releases）
+  - 「エッジコーティックス、追加で約30億円を調達」（https://www.edgecortix.com/ja/press-releases）
+  - 「前年比＋142%」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「2.45兆円」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「追加6,315億円」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「Rapidusは2027年に最先端（2nm）の量産を北海道・千歳で始める計画で、政府が2.45兆円を支援します」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「データセンター向け売上は前年比142%増、時価総額は世界トップ級です」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「Rapidusは政府支援2.45兆円を背景に、トヨタ・ソニー・NTT・ソフトバンク・キオクシアなどが出資する国を挙げた体制で、IBM・imecと組んで最先端への参入を狙います」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「市場は2026年から2036年にかけて年平均成長率（CAGR）28.1%で拡大すると予想されており、2036年末までに107億米ドルを超える見込みです」（https://www.dreamnews.jp/press/0000367069）
+  - 「エッジAI推論用チップの世界市場（2026年～2032年）、市場規模（NPU 中心の AI チップ、GPU ベースの AI チップ、DSP ベースの AI チップ）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/smart/news/8082788）
+  - 「エッジAI推論用チップの世界市場（2026年～2032年）、市場規模（NPU 中心の AI チップ、GPU ベースの AI チップ、DSP ベースの AI チップ）・分析レポートを発表」（https://newscast.jp/smart/news/8082788）
+- 社会（人・担い手）：
+  - 「③ 現地拠点・人材・組織」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「装置・材料の供給、工場周辺のサービス、顧客開拓、人材、AIの活用」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「Rapidus千歳・TSMC熊本の周辺サービス・建設・人材」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「⑥ 人材・投資・M&A」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「海外の半導体・AI人材の採用」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「Rapidusの2nm国産化（2027年）― 人材・顧客・技術の三重課題」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「IBMの技術ライセンスや欧州imecとの提携を得ていますが、①国内にいない熟練人材を5,000〜1万人規模で確保、②TSMC・Samsung・Intelに対抗できる先端顧客（NVIDIA・Apple 等）の獲得、③最先端の製造技術の習得、という三重の課題があります」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「→ プルーヴは、海外（台湾・韓国・米国）の半導体人材の採用支援、大手IT（潜在顧客）へのアプローチ、補助金・重要物資指定の準備、Rapidusサプライヤー登録の進め方の整理をお手伝いします」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「製造人材も世界に見劣りし、Rapidusや熊本の工場でさらに1〜2万人が必要です」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「→ プルーヴは、海外（台湾・韓国・インド・米国）の半導体・AI人材の採用支援、経済安保関連の補助金獲得の準備、海外の大手ITとの合弁設計、国産の大規模言語モデルの海外での収益化をお手伝いします」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「Rapidus 2nm国産化 2027 — 人材・顧客開拓・サプライヤー登録」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「海外半導体人材の採用（台・韓・米）、大手IT顧客へのアプローチ、千歳クラスター集積、装置・材料・後工程の登録」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「海外人材の採用」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「【半導体人材の未来】〈53〉「ミスター半導体」が描いた門前町 岩手県立大から広がる産学官連携」（https://dempa-digital.com/article/723488）
+  - 「【半導体人材の未来】〈52〉「人生ゲーム」の隣に企業ブース 半導体産業を知る仕掛け」（https://dempa-digital.com/article/723488）
+- 技術（新しい技術・実証）：
+  - 「米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響｜EDGEMATRIX」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「特に、人工知能（AI）や半導体技術は、米国の安全保障政策の中心に位置づけられ、輸出規制の主要な対象となっています」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「このブログでは、最新の米国対中輸出規制の状況とその見通しを概観し、日本のエッジAI市場への影響について考察します」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「2024年12月以降、米国商務省は半導体製造装置やAI関連技術に対する新たな対中輸出規制を導入しました」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「AI向け半導体の規制強化」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：2025年1月、AIアクセラレータ（例：NVIDIAのH20チップ）を含む高性能半導体について、対中輸出許可を義務化」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「AI関連製品の中国市場への供給が大幅に制限される」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「2025年4月の報道では、トランプ政権下でAIや量子コンピューティング関連技術の輸出規制がさらに強化される見込みであり、グローバルな技術サプライチェーンに大きな変動が生じています」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「特に、AIや5G関連技術の輸出規制は2026年以降も拡大する見込み」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：中国は独自の半導体やAI技術の開発を加速し、米国や同盟国へのレアアース輸出制限などの報復措置を強化する可能性がある」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「3. 日本のエッジAI市場の概要」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「日本のエッジAI市場は、映像解析やIoTデバイスの普及により急成長しています」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「：国内エッジAI市場は年率41.3％で成長し、2026年には431億円規模に達する見込み」（https://note.com/edgematrix/n/n5b8403acc4ff）
+  - 「エッジAIは、クラウド依存を軽減し、低遅延・高効率なデータ処理を実現するため、社会インフラのデジタル化において重要な役割を果たしています」（https://note.com/edgematrix/n/n5b8403acc4ff）
+- 検索結果の抜粋：
+  - 「米、 AI 半導体 輸出 の新規則検討 外国企業による対 ... - Reuters — 米、 AI 半導体 輸出 の新規則検討 外国企業による対 ... - Reuters Reuters https://www.reuters.com > markets > global-markets > 5B...」（https://www.reuters.com/jp/markets/global-markets/5BU5JXROQ5PNBJVV3ES4JBCGLI-2026-03-05/）
+  - 「日本 発スタートアップの エッジAIチップ がNVIDIA超え - MONOist — 日本 発スタートアップの エッジAIチップ がNVIDIA超え - MONOist MONOist https://monoist.itmedia.co.jp > articles > news063」（https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html）
+  - 「エッジAIチップ市場 の規模と シェア に関するレポート、2034年 — エッジAIチップ市場 の規模と シェア に関するレポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > edge-ar...」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「エッジAIチップ 市場の規模とシェアに関するレポート、2034年 — エッジAIチップ 市場の規模とシェアに関するレポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > edge-ar...」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「エッジAI 半導体市場規模、シェア |予報 [2034] — エッジAI 半導体市場規模、シェア |予報 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > エッジai半導体...」（https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%B8%82%E5%A0%B4-117383）
+  - 「超 エッジAIチップ セットの世界市場（2026年～2032年） — 超 エッジAIチップ セットの世界市場（2026年～2032年） アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/9440001）
+  - 「エッジAIチップ のオランダAxelera AIが2.5億ドル超を追加 調達 — エッジAIチップ のオランダAxelera AIが2.5億ドル超を追加 調達 EDA EXPRESS https://eda-express.com > RISC-V TOPIX」（https://eda-express.com/risc-v/46367/）
+  - 「Tokyo Artisan Intelligence、 エッジAIチップ 量産へ11億円 調達 — Tokyo Artisan Intelligence、 エッジAIチップ 量産へ11億円 調達 BRIDGE（ブリッジ） https://thebridge.jp > 2025/06 > tokyo-artisan-intelligence...」（https://thebridge.jp/2025/06/tokyo-artisan-intelligence-raises-1-1-billion-yen-to-mass-produce-edge-ai-chips）
+  - 「エッジAIチップ市場 の 規模 とシェアに関するレポート、2034年 — エッジAIチップ市場 の 規模 とシェアに関するレポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > edge-ar...」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「エッジ 用途向け AIチップ 2026 -2036年： 技術 、市場、予測 — エッジ 用途向け AIチップ 2026 -2036年： 技術 、市場、予測 IDTechEx https://www.idtechex.com > ai-chips-for-edge-applications」（https://www.idtechex.com/ja/research-report/ai-chips-for-edge-applications/1148）
+  - 「フィジカルAIの登場で エッジAIチップ に高性能化の波 — フィジカルAIの登場で エッジAIチップ に高性能化の波 セミコンポータル https://www.semiconportal.com > technology > chips > 26...」（https://www.semiconportal.com/archive/editorial/technology/chips/260107-edgeaiperformance.html）
+
+## 生成AI半導体（AI accelerator chip）
+- 文脈：1 AI・半導体 ②中核半導体
+- 顧客（金を払う側）：
+  - 「企業が一定の競争力を有する分野にも需要が波及し、半導体輸出の増勢が加速している」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「1 WSTS の予測は、加盟している半導体メーカーの予測値などをもとに作成されている」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「く、日本企業が一定の競争力を有する NAND 型フ」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「各メーカーの増産体制が整う 2028 年以降まで解消しないとの見方が支配的である」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「第 1 に、中国企業による内製化の進展である」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「中国政府は、国内の半導体メーカーに対し、新工場の建」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「設時に製造装置の 50％以上を国内メーカーから調達するよう実質的に義務付けているとされるなど、自」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「AMEC といった中国の装置メーカーが急成長しており、コスト競争力を含め着実に実力をつけていると」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「みられることから、成熟（非先端）領域に関しては中長期的に中国メーカー による代替が進んでいく」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「HBM）、台湾 TSMC の熊本第二工場（3 ナノ品）、」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「そして日本のラピダスの北海道工場（2 ナノ品）な」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「年にかけて量産開始を予定している （右図）」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「企業 マイクロン TSMC ラピダス」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「エヌビディアがけん引するAI半導体市場の今後 重要な役割を果たす日本企業は | NOMURA ウェルスタイル – 野村の投資＆マネーライフ」（https://www.nomura.co.jp/wealthstyle/article/0201/）
+  - 「エヌビディアがけん引するAI半導体市場の今後 重要な役割を果たす日本企業は」（https://www.nomura.co.jp/wealthstyle/article/0201/）
+- 顧客の顧客（発注元が求めること）：
+  - 「AIの開発競争が激化する中、半導体の処理能力向上に対する要求は今後も高まっていくとみられます」（https://www.nomura.co.jp/wealthstyle/article/0201/）
+  - 「HBMの主要サプライヤーとしてAI半導体用途を牽引」（https://orutedia.com/ai-semiconductor-manufacturer/）
+  - 「高性能なAI半導体は微細な回路形成が要求されるため、同社の技術は不可欠です」（https://orutedia.com/ai-semiconductor-manufacturer/）
+  - 「⑤ 規制・認証・法務・知財」（https://www.provej.jp/column/ar/semiconductor_industry/）
+  - 「今ご登録いただくと「日本企業の海外戦略 最新10ケース」と「主要国 規制・認証チェックリスト2026」の2本（PDF）を無料進呈」（https://www.provej.jp/column/ar/semiconductor_industry/）
+  - 「カーボンニュートラル（脱炭素）」（https://japan.zdnet.com/article/35204631/）
+  - 「経営を止めるな--ITリーダーが装備すべきBCP・防災の思考法」（https://japan.zdnet.com/article/35204631/）
+  - 「⑤ 規制・認証・法務・知財」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「→ プルーヴは、海外（台湾・韓国・米国）の半導体人材の採用支援、大手IT（潜在顧客）へのアプローチ、補助金・重要物資指定の準備、Rapidusサプライヤー登録の進め方の整理をお手伝いします」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「Rapidus 2nm国産化 2027 — 人材・顧客開拓・サプライヤー登録」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「Rapidus千歳のサプライヤー登録の道案内」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「Nvidiaがほぼ席巻しているAI半導体であり、中国では密輸でNvidia品入手の動きも伝えられて、中国国内では先端品への要求の強さがうかがえている」（https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html）
+  - 「◇[News] NVIDIA H200 Export to China Approved, Unlocking Gains for Taiwan OEMs, OSATs, and Server Suppliers (12月10日付け TrendForce)」（https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html）
+  - 「より新しいBlackwellチップへの移行にも拘らず、中国は購買を再開、OEMsとOSATsは早期の利益増を見込んでいる」（https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html）
+  - 「◇米国、観光客のSNS情報提出義務付けへ 訪米認証「ESTA」日本人も対象 (日経 電子版 04:45)」（https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html）
+- 顧客の競合（奪いに来る側）：
+  - 「先行きを展望すると、当面はメモリ分野でこうした追い風が続くほか、半導体製造装置では、中国向けに鈍化リスクを」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「抱える一方、AI 特需の恩恵が大きい台湾・韓国向けの増加がこれをカバーする展開が予想される」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「が集中し 、これらの 分野に強みを持つ韓国や台湾」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「2025 年の韓国」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「の 半 導 体 輸 出 額 は 前 年 比 ＋18.1％、台湾は 同＋」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「の資本財のシェアが 9.2％ポイント上昇した一方、」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「日本、韓国、台湾のAI関連半導体輸出額」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「国際連合、台湾・財政部」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「日本 韓国 台湾」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「（AI関連製品輸出に占めるシェア、％）」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「製造装置は中国向けの鈍化を台湾・韓国向けがカバーする見込み」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「は、過去 10 年間にわたって、中国向けの半導体製」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「年以降は、米国政府による先端半導体を巡る輸出」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「中国政府が 成熟（非先端）領域を中心に 、半導体」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「第 1 に、中国企業による内製化の進展である」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+- 自社の競合（商社・代理店・仲介）：
+  - 「株式の手数料等およびリスクについて」（https://www.nomura.co.jp/wealthstyle/article/0201/）
+  - 「国内株式（国内REIT、国内ETF、国内ETN、国内インフラファンドを含む）の売買取引には、約定代金に対し最大1.43％（税込み）（20万円以下の場合は2,860円（税込み））の売買手数料をいただきます」（https://www.nomura.co.jp/wealthstyle/article/0201/）
+  - 「ただし、相対取引による売買においても、お客様との合意に基づき、別途手数料をいただくことがあります」（https://www.nomura.co.jp/wealthstyle/article/0201/）
+  - 「外国株式（外国ETF、外国預託証券を含む）の売買取引には、売買金額（現地約定金額に現地手数料と税金等を買いの場合には加え、売りの場合には差し引いた額）に対し最大1.045％（税込み）（売買代金が75万円以下の場合は最大7,810円（税込み））の国内売買手数料をいただきます」（https://www.nomura.co.jp/wealthstyle/article/0201/）
+  - 「外国の金融商品市場での現地手数料や税金等は国や地域により異なります」（https://www.nomura.co.jp/wealthstyle/article/0201/）
+  - 「半導体関連銘柄としては、半導体デバイスメーカー、半導体製造装置メーカー、半導体材料メーカー、半導体商社などが挙げられます」（https://media.rakuten-sec.net/articles/-/44837?page=2）
+  - 「半導体商社の日本株5選：事業構造に強み、今期増益予想」（https://media.rakuten-sec.net/articles/-/44837?page=2）
+  - 「2)エヌビディアは、25%の手数料を含む一定の条件付きで、H200 AIチップを中国に販売することを米国から承認された」（https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html）
+  - 「ただし、部品が米国に到着し、再輸出前のセキュリティ検査を受ける際に25%の手数料が徴収される」（https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html）
+  - 「この動きは、ドナルド・トランプ米大統領が火曜9日、同社が2番目に高速なAIチップ「H200」の中国への輸出を許可し、販売額に対して25%の手数料を徴収すると発表したことを受けてのものだ」（https://www.semiconportal.com/archive/blog/insiders/nagami/251215-pickup862.html）
+  - 「半導体商社関連株 本命株 出遅れ株 一覧 – かりんの株レポ」（https://kabukarin.net/semiconductor/5150/）
+  - 「半導体商社関連株 本命株 出遅れ株 一覧」（https://kabukarin.net/semiconductor/5150/）
+  - 「半導体商社関連株」（https://kabukarin.net/semiconductor/5150/）
+  - 「「半導体商社関連株」にも再び注目」（https://kabukarin.net/semiconductor/5150/）
+  - 「このような海外半導体メーカーの成長は、国内の半導体商社株の業績にも直結します」（https://kabukarin.net/semiconductor/5150/）
+- 政治（法・予算・規制）：
+  - 「年以降は、米国政府による先端半導体を巡る輸出」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「規制を受けた駆け込み需要 が発生した」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「中国政府が 成熟（非先端）領域を中心に 、半導体」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「中国政府は、国内の半導体メーカーに対し、新工場の建」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「こうした政府の後押しを受け、足元ではNAURAや」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「第2に、米国政府による中国への輸出規制の強化である」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「ループにより、半導体製造装置の対中輸出規制強化に関する法案（通称「MATCH 法案」）が提出され」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「これは、輸出規制の対象範囲を EUV 露光装置などの最先端領域だけでなく、その一世代前にあた」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「の規制実施を要請するものであり、成立した場合には先端 ・準先端向け装置の中国への販売がこれま」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「高市政権の防衛予算、次期目標はGDP比3％もありうる 有力な財源は何か 野村證券・岡崎康平」（https://www.nomura.co.jp/wealthstyle/article/0201/）
+  - 「米国の輸出規制下でも独自AIチップ「Ascend」シリーズを展開」（https://orutedia.com/ai-semiconductor-manufacturer/）
+  - 「日本政府や研究機関も、AI半導体分野の強化に積極的に取り組んでいます」（https://orutedia.com/ai-semiconductor-manufacturer/）
+  - 「政府による大規模な公的支援（例：10兆円規模の投資）や、大学・研究機関との連携を強化し、イノベーションの加速と高度な人材育成を図ることが不可欠です」（https://orutedia.com/ai-semiconductor-manufacturer/）
+  - 「米国は、中国への先端半導体や製造装置、設計ツールの輸出規制を強化しており、日本やオランダなどの同盟国と連携して中国への包囲網を築いています」（https://orutedia.com/ai-semiconductor-manufacturer/）
+  - 「米国の規制に対抗し、中国はAI半導体の国産化やサプライチェーンの内製化を国家戦略として強力に推進しています」（https://orutedia.com/ai-semiconductor-manufacturer/）
+- 経済（規模・価格・為替）：
+  - 「世界半導体出荷額は 約 8,000 億米ドルと前年比＋」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「年々拡大しており、2025 年には 18.9 兆円と、輸出」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「ンや SCREEN の 2024 年度（2025 年 3 月期）における対中売上比率は、いずれも 4 割を超える水準に達し」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「しかし、既に 2025 年には、先述の駆け込み需要の反動により対中輸出額は前年比マイナスに転じたほ」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「投資総額 約 1.5 兆円 約 2 兆円 約 5 兆円」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「国内株式（国内REIT、国内ETF、国内ETN、国内インフラファンドを含む）の売買取引には、約定代金に対し最大1.43％（税込み）（20万円以下の場合は2,860円（税込み））の売買手数料をいただきます」（https://www.nomura.co.jp/wealthstyle/article/0201/）
+  - 「外国株式（外国ETF、外国預託証券を含む）の売買取引には、売買金額（現地約定金額に現地手数料と税金等を買いの場合には加え、売りの場合には差し引いた額）に対し最大1.045％（税込み）（売買代金が75万円以下の場合は最大7,810円（税込み））の国内売買手数料をいただきます」（https://www.nomura.co.jp/wealthstyle/article/0201/）
+  - 「データセンター向けGPUやAI ASICの需要が特に増加しており、市場規模は2029年には2330億ドル規模まで成長すると予測されています」（https://orutedia.com/ai-semiconductor-manufacturer/）
+  - 「政府による大規模な公的支援（例：10兆円規模の投資）や、大学・研究機関との連携を強化し、イノベーションの加速と高度な人材育成を図ることが不可欠です」（https://orutedia.com/ai-semiconductor-manufacturer/）
+  - 「2026年春、中東情勢の緊迫化でヘリウム価格が急騰し「半導体ヘリウム不足」が現実味を帯びた」（https://orutedia.com/ai-semiconductor-manufacturer/）
+  - 「1992年の売上ランキングでは、上位10社のうち国内企業が6社もランクインしていたほどです」（https://www.provej.jp/column/ar/semiconductor_industry/）
+  - 「2019年の売上ランキングに食い込んだのは、キオクシアの1社のみとなっています」（https://www.provej.jp/column/ar/semiconductor_industry/）
+  - 「2024年｜ファブレス企業の売上ランキングトップ5」（https://www.provej.jp/column/ar/semiconductor_industry/）
+  - 「Global Top 10 IC Design Houses See 49% YoY Growth in 2024, NVIDIA Commands Half the Market, Says TrendForce」（https://www.provej.jp/column/ar/semiconductor_industry/）
+  - 「世界トップ10のファブレス企業の合計売上高は、前年度比49％増となる2,498億ドルに達しています」（https://www.provej.jp/column/ar/semiconductor_industry/）
+- 社会（人・担い手）：
+  - 「NEDO（新エネルギー・産業技術総合開発機構）や東京大学などは、AIチップ設計拠点を整備し、中小企業やベンチャー企業のAI半導体開発を支援することで、技術革新と人材育成を促進しています」（https://orutedia.com/ai-semiconductor-manufacturer/）
+  - 「政府による大規模な公的支援（例：10兆円規模の投資）や、大学・研究機関との連携を強化し、イノベーションの加速と高度な人材育成を図ることが不可欠です」（https://orutedia.com/ai-semiconductor-manufacturer/）
+  - 「③ 現地拠点・人材・組織」（https://www.provej.jp/column/ar/semiconductor_industry/）
+  - 「IT予算・注力領域・人材・体制――ZDNET Japan読者608人のデジタル投資実態」（https://japan.zdnet.com/article/35204631/）
+  - 「給与激減も責任は同じ「再雇用」嫌がる人は多いが…60歳定年後「年収360万円で5年間働いた人」と「リタイアした人」に生じる衝撃の老後格差【シミュレーション】」（https://media.rakuten-sec.net/articles/-/44837?page=2）
+  - 「③ 現地拠点・人材・組織」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「装置・材料の供給、工場周辺のサービス、顧客開拓、人材、AIの活用」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「Rapidus千歳・TSMC熊本の周辺サービス・建設・人材」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「⑥ 人材・投資・M&A」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「海外の半導体・AI人材の採用」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「Rapidusの2nm国産化（2027年）― 人材・顧客・技術の三重課題」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「IBMの技術ライセンスや欧州imecとの提携を得ていますが、①国内にいない熟練人材を5,000〜1万人規模で確保、②TSMC・Samsung・Intelに対抗できる先端顧客（NVIDIA・Apple 等）の獲得、③最先端の製造技術の習得、という三重の課題があります」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「→ プルーヴは、海外（台湾・韓国・米国）の半導体人材の採用支援、大手IT（潜在顧客）へのアプローチ、補助金・重要物資指定の準備、Rapidusサプライヤー登録の進め方の整理をお手伝いします」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「製造人材も世界に見劣りし、Rapidusや熊本の工場でさらに1〜2万人が必要です」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+  - 「→ プルーヴは、海外（台湾・韓国・インド・米国）の半導体・AI人材の採用支援、経済安保関連の補助金獲得の準備、海外の大手ITとの合弁設計、国産の大規模言語モデルの海外での収益化をお手伝いします」（https://www.provej.jp/sectors-new/ai-semiconductor/）
+- 技術（新しい技術・実証）：
+  - 「副主任研究員 小林 泰斗 080-2867-7262 kobayashi-taito@itochu.co.jp」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「日本経済：AI 関連輸出の現状と今後の展望」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「世界では、半導体を筆頭に AI 関連需要が急拡大しているが、これまで日本の輸出への恩恵は限られていた」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「は、①AI 関連需要が高性能 GPU や HBM など一部の先端半導体に集中していたこと、②日本の AI 関連輸出に」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「もっとも、2026 年入り後は、AI のフェーズが「学習」から「推論」にシフトするなかで、NAND 型フラッシュメモリなど日本」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「抱える一方、AI 特需の恩恵が大きい台湾・韓国向けの増加がこれをカバーする展開が予想される」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「半導体を筆頭に世界的な AI 関連需要が拡大」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「世界的に AI 関連需要が拡大している」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「これまで AI 特需の恩恵は日本の輸出に十分波及せず」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「では、こうした AI 特需は日本の輸出にどのよう」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「まず、AI 関連輸」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「2 本稿では、世界貿易機関（WTO）が公表する AI-Enabling Products に掲載されている品目（HS コード 6 桁の 105 品目）の」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「輸出を「AI 関連輸出」と定義する」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「WTO の AI-Enabling Products は次の URL を参照」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+  - 「https://data.wto.org/dataset/wto_ai」（https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf）
+- 検索結果の抜粋：
+  - 「AI Accelerator Chips Market Size & Share 2026-2035 — AI Accelerator Chips Market Size & Share 2026-2035 Global Market Insights Inc. https://www.gminsights.com > ai-acce...」（https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market）
+  - 「AI Accelerator Chips Market Size, Share , Growth, 2034 — AI Accelerator Chips Market Size, Share , Growth, 2034 Straits Research https://straitsresearch.com > report > a...」（https://straitsresearch.com/report/ai-accelerator-chips-market）
+  - 「AI Accelerator Chips Market Size, Share & Growth, 2026-2035 — AI Accelerator Chips Market Size, Share & Growth, 2026-2035 SNS Insider https://www.snsinsider.com > reports」（https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899）
+  - 「AI Accelerator Chip Market Outlook from 2026 to 2033 - LinkedIn — AI Accelerator Chip Market Outlook from 2026 to 2033 - LinkedIn LinkedIn https://www.linkedin.com > pulse > ai...」（https://www.linkedin.com/pulse/ai-accelerator-chip-market-outlook-from-2026-2033-fznzf）
+
+## 定置用蓄電池（stationary energy storage battery）
+- 文脈：2 デジタル・サイバー ④蓄電池
+- 顧客（金を払う側）：
+  - 「政府公共調達データベース」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「蓄電池市場は電気自動車（EV）向け需要が成長を牽引してきたが、近年は再エネ導入拡大や人工知能（AI）向けデータセンター（DC）需要の増加を背景に、系統用蓄電池を中心とする定置用蓄電池の重要性が高まっている」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「また、再エネの導入拡大や電力需要の増加に伴い、系統安定化や電力の有効活用を支える技術としても重要性が高まっている」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「系統用蓄電池は、送配電事業者や発電事業者が導入する大規模設備であり、需給バランスや再エネの出力変動に応じて充放電を行うことで、余剰電力の有効活用や電力系統の安定運用に貢献する」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「家庭用蓄電池は、太陽光発電設備と組み合わせて導入されることが多く、日中に発電した電力を蓄えて夜間に利用することで、電力購入量の削減やエネルギー自給率の向上を可能にする」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「再エネ導入拡大で定置用蓄電池の需要も増加」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「国際エネルギー機関（IEA）によると、リチウムイオン電池の世界導入量は2025年時点で1,600ギガワット時（GWh）を超え、2020年比で約6倍に成長したとされる（図参照）」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「EV向けが需要の中心であるものの、再エネ導入拡大を背景に、定置用蓄電池の需要も着実に増加している」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「図：リチウムイオン電池の用途別導入量（2015～2025年）」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「調達先の多角化や海外鉱山権益の確保、リサイクルの推進などを通じたサプライチェーン強靱（きょうじん）化を重要課題に位置付けている」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「しかし近年は蓄電池の大容量化が進み、停電対策に加えて、再エネの活用拡大や電力コストの最適化、事業継続計画（BCP）の強化、さらには脱炭素化への対応を目的とした蓄電池導入の動きが少しずつ広がっている」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「EU PPWR、2026年8月の適用開始に向けた企業対応Q&A」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「中東情勢の緊迫化と日本の対中東貿易・エネルギー調達」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「2025年度 海外進出日系企業実態調査（アジア・オセアニア編）（2025年11月）」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「米国の鉄鋼・アルミ・銅の232条関税の制度変更と企業の実務対応」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+- 顧客の顧客（発注元が求めること）：
+  - 「燃料電池・蓄電池市場の展望（前編）脱炭素を支える蓄電池（世界） | 地域・分析レポート - 海外ビジネス情報 - ジェトロ」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「燃料電池・蓄電池市場の展望（前編）脱炭素を支える蓄電池（世界）」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「脱炭素を支える蓄電池（世界）」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「世界的な脱炭素化の流れが加速する中、再生可能エネルギー（再エネ）の拡大やモビリティーの電動化、水素エネルギーなどの活用が重要な課題となっている」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「蓄電池は電気を貯蔵し、必要なときに利用できる技術であり、脱炭素化を支える基盤技術の1つだ」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「そのため、各国で脱炭素化に向けた規制強化や電動化政策が進む中、BEVの普及拡大は車載用蓄電池需要を大きく押し上げており、蓄電池市場全体の成長を牽引する最大の要因の1つとなっている」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「しかし近年は蓄電池の大容量化が進み、停電対策に加えて、再エネの活用拡大や電力コストの最適化、事業継続計画（BCP）の強化、さらには脱炭素化への対応を目的とした蓄電池導入の動きが少しずつ広がっている」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「従来の非常用電源としての役割だけでなく、再エネ由来電力の有効活用や需要ピークの平準化にも活用できるため、DC運営の効率化と脱炭素化の両立に貢献する設備として注目されている」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「GX2040ビジョンでは、脱炭素電源が豊富な地域への立地を促進する方針を示している」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「を通じて、クリーンエネルギーの有効活用と地域分散型の産業集積を実現し、エネルギーの安定供給、経済成長、脱炭素の同時達成を目指している」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「脱炭素電源の発電設備や電力系統などの電力インフラの整備、DCの立地、通信インフラの整備などについて、全体最適を考慮しながら効率的に進め、電力と通信を効果的に連携させていくこと」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「⇒CEV補助金、充電インフラ導入促進補助金、定置用蓄電池の導入補助金、長期脱炭素電源オークション等により導入を促進」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「量産体制の構築に向けて、自動車OEMと材料メーカーの協業が進む」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+- 顧客の競合（奪いに来る側）：
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「インドネシア」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「2023～2024年の世界半導体市場の見通しと米国の戦略」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「中国のレアアース輸出管理（1）日本への磁石輸出に大きな影響」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「米国2026年中間選挙（1）上院での多数派を目指す民主党の戦い」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「米国の鉄鋼・アルミ・銅の232条関税の制度変更と企業の実務対応」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「⇒欧州バッテリー規則も踏まえて、CFPや人権・環境DD等の取組に資するデータ連携基盤の整備、工程端材等のリサイクルの推進に向けた検討を進める」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「シェア２割の製造能力確保」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「2030年までに二次電池の世界シェアの19％（2024年時点）から25％への引き上げを目標に、①次世代バッテリーのリーダーシップ確」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「• 米国はEV導入支援策を撤廃・変更するとともに、特定国の事業体による事業への関与を規制」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「欧州や韓国は域内」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「中国はリチウムイオン電池関連の輸出管理を拡大する動きあり」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「インドでのバッテリー・重要鉱物サプライチェーンに」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「• 2025年7月2日から4日に、日本のバッテリー関連企業30社以上と政府関係者からなる代表団がインドを訪問し、」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「インドの官民関係者とバッテリーのサプライチェーン全体における更なる協力の機会について協議」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+- 自社の競合（商社・代理店・仲介）：
+  - 「日本では代理店・パートナー経由のサポートが主体」（https://www.tainavi-pp.com/investment/new_grid_storage_station/316/）
+  - 「一方で、国内メーカーと比較するとサポート体制や対応面で差が出る場合もあるため、日本国内では商社やEPC（設計・調達・建設）企業を介して導入されるケースが一般的です」（https://www.k-chikudenchi.com/manufacturer_comparison/）
+  - 「導入時のサポート体制や国内対応については商社・EPC経由になるケースが多い」（https://www.k-chikudenchi.com/manufacturer_comparison/）
+  - 「また、日本国内では導入時のサポートや保守対応が、商社・EPC事業者経由となる場合が多い点には注意が必要です」（https://www.k-chikudenchi.com/manufacturer_comparison/）
+  - 「エネがえるは、官公庁・自治体、大手メーカー、商社、電力・ガス会社、住宅メーカー、有力販売施工店など、全国700社以上に導入されています」（https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030）
+  - 「これは、日本の電力会社や総合商社のような長期的な投資ホライズンを持つ企業にとって、短期的な収益性だけでなく、」（https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030）
+  - 「Key point: この構造下では、韓国メーカーがセル / モジュール / PCS を「日本の商社や代理店に卸す」だけの発想は通用しない」（https://globaldeal.io/finder/ja/articles/korea-japan-grid-storage-ess-market-entry）
+  - 「日本の EPC / IPP / デベロッパー（電力会社系、商社系、独立系）との JV または長期供給枠の確保が、補助金申請より先に来る」（https://globaldeal.io/finder/ja/articles/korea-japan-grid-storage-ess-market-entry）
+  - 「日本側の EPC / IPP / デベロッパー（電力会社系・商社系・独立系）を 3-5 社リストアップし、系統枠を持つ案件パイプラインを確認する」（https://globaldeal.io/finder/ja/articles/korea-japan-grid-storage-ess-market-entry）
+  - 「また、メーカーや販売代理店の事業継続性も不可欠な確認ポイントです」（https://battery-navi.jp/content-chikudenchi-maker/）
+  - 「・蓄電池メーカーであるHiTHIUM社と日本における販売代理契約を結んでいる」（https://battery-navi.jp/content-chikudenchi-maker/）
+  - 「蓄電池メーカーであるHiTHIUM社と日本における販売代理契約を結んでいて、火災事故を一度も起こしていない高い安全性を武器に選ばれています」（https://battery-navi.jp/content-chikudenchi-maker/）
+  - 「また、施工会社やEPCとの連携体制、国内代理店によるサポート範囲なども確認しておくことで、導入後の運用リスクを軽減できます」（https://battery-navi.jp/content-chikudenchi-maker/）
+  - 「また、メーカーや販売代理店が将来的に日本市場から撤退した場合でも、継続して保守を受けられる体制があるかどうかも重要です」（https://battery-navi.jp/content-chikudenchi-maker/）
+  - 「販売代理店を通じて導入する場合は、保証窓口がメーカーなのか代理店なのか、EPCなのかを確認しておかないと、窓口が曖昧なまま契約するとトラブル時に問い合わせ先がわからず、対応が遅れるリスクがあります」（https://battery-navi.jp/content-chikudenchi-maker/）
+- 政治（法・予算・規制）：
+  - 「世界各国の関税率」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「政府公共調達データベース」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「）を基に、両技術の特徴や市場動向、日本政府の政策、今後の展望について、前後編に分けて概観する」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「そのため、各国で脱炭素化に向けた規制強化や電動化政策が進む中、BEVの普及拡大は車載用蓄電池需要を大きく押し上げており、蓄電池市場全体の成長を牽引する最大の要因の1つとなっている」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「こうした中、日本政府は蓄電池産業の競争力強化を進めている」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「2025年2月に閣議決定された」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「一方で、蓄電池の主要原材料であるリチウム、ニッケル、コバルト、黒鉛などの重要鉱物は特定国への依存度が高く、地政学リスクや輸出規制による供給不安が懸念されている」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「中国のレアアース輸出管理（1）日本への磁石輸出に大きな影響」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「米国の鉄鋼・アルミ・銅の232条関税の制度変更と企業の実務対応」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「⇒CEV補助金、充電インフラ導入促進補助金、定置用蓄電池の導入補助金、長期脱炭素電源オークション等により導入を促進」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「⇒GI基金、経済安保基金、経済安全保障重要技術育成プログラム（K Program）等による全固体電池を始めとした次世代電池の開発を支援」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「⇒2024年より、経済安保基金の支援対象に、製造装置を追加」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「2026年2月17日に経済安保基金（蓄電池：第６弾）で蓄電池１件、部素材５件、製造装置２」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+- 経済（規模・価格・為替）：
+  - 「• 8件合計で事業総額は1,167億円、うち助成額は最大444億円」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「件）となり、その事業総額は約1兆8,906億円、うち助成額は最大約6,711億円」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「⚫ 鉱物サプライチェーン多角化・安定化事業 令和７年度補正【937億円】」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「⚫ 重要鉱物供給源多角化のための出資事業 令和７年度予備費【390億円】」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「• 総額30百万ドル（45億円）を出資することで、権益15%を取得する計画」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「【80 億円、国庫債務負担行為を含め 616億円】」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「⚫ クリーンエネルギー自動車導入促進補助金 【1,100億円】」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「【500億円】」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「⚫ これまで、CEV補助金の補助上限額については、EVは90万円、軽EVは58万円、PHEVは60万円、 FCVは255万円としてい」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「EV 上限額85万円 最大5万円 90万円」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「軽EV 上限額55万円 最大3万円 58万円」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「PHEV 上限額55万円 最大5万円 60万円」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「蓄電池全体の輸入額は直近12ヶ月で5,252億円から8,197億円へ56%増え、増えた分の99%を中国が取りました」（https://newspicks.com/news/17544223/body/）
+  - 「重量でも+96%で、1kgあたり単価は-9%下がっています」（https://newspicks.com/news/17544223/body/）
+  - 「2024年から2025年前半は月442億円前後の横ばいで、変化は2025年の秋に始まります」（https://newspicks.com/news/17544223/body/）
+- 社会（人・担い手）：
+  - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「高度外国人材を輩出する大学、その最前線に迫る」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「6. 人材育成・確保の強化」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「⇒関西蓄電池人材育成等コンソーシアムで、「バッテリー人材育成の方向性2025」を取りまとめるとともに、高校・高専等計41校でバッテリー教育プログラムを実施」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「⇒同コンソーシアムにおける取組が他の地域や大学等に自律的に展開されるように、 2025年10月14日にバッテリー先進人材普及ネットワーク(BATON)を発足」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「６．人材育成・確保の強化」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「• 必要な人材確保に向けた取組(例：継続的な賃上げ)」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「全国組織バッテリー先進人材普及ネットワーク（BATON）の発足」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「• 脱炭素社会・ デジタル社会の実現を支える次世代の人材育成をより広く普及・啓発し、蓄電池産業の」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「発展に貢献するため、これまで培われたモデルケースを全国及び大学に拡げて人材の育成・確保を加速」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「すべく、2025年10月14日に「バッテリー先進人材普及ネットワーク“Battery Advanced Talent」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「• 関西蓄電池人材育成等コンソーシアム(以下 関西コンソ)で作成した「見る・聞く・触れる・知る・考」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「近畿大学のバッテリー人材育成プログラムにも組み込み(2025年度18名受講)」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「• 我が国の電池業界の将来を担う人材育成・確保に向けて、各大学レベルにおいてもバッテリー教育が始まってきている」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「⚫ 電池産業を支える人材育成のため、2025年4月か」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+- 技術（新しい技術・実証）：
+  - 「蓄電池市場は電気自動車（EV）向け需要が成長を牽引してきたが、近年は再エネ導入拡大や人工知能（AI）向けデータセンター（DC）需要の増加を背景に、系統用蓄電池を中心とする定置用蓄電池の重要性が高まっている」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「同社は茨城県つくば市に日本拠点を設立し、砂の蓄熱能力を活用した熱エネルギー貯蔵技術「サンドバッテリー（砂電池）」を開発している」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「昨今、AIの普及やデジタル化の進展に伴い、DC向けの電力需要が世界的に急増している」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「また、AI向けDCは大量の電力を消費する」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「」においても、AI向けDC需要の拡大が重要な市場機会として挙げられている」（https://www.jetro.go.jp/biz/areareports/2026/35235847cd678650.html）
+  - 「次世代電池市場の獲得」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「4. 次世代技術の開発」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「⇒GI基金、経済安保基金、経済安全保障重要技術育成プログラム（K Program）等による全固体電池を始めとした次世代電池の開発を支援」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「⇒全固体電池を始めとした次世代電池の実用化や量産の実現に向けた設備投資・技術開発等を加速し、次世代電池市場の獲得を促進する」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「件の設備投資・技術開発の計画を認定」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「４．次世代技術の開発」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「• 2026年2月17日に、蓄電池１件、部素材５件、製造装置２件の設備投資・技術開発の計画を認定」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「※設備投資1/3補助、技術開発1/2補助（製造装置のうち中小企業については設備投資1/2補助）」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「①GSユアサ 定置用蓄電池 ・生産基盤の整備・生産技術の導入・開発・改良 2028年10月 2GWh/年 703 248」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+  - 「②日亜化学 正極活物質 ・生産技術の導入・開発・改良 ー ー 17 8」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf）
+- 検索結果の抜粋：
+  - 「世界の 定置用 蓄電システム市場 2026 -2030年予測 高成長 ... — 世界の 定置用 蓄電システム市場 2026 -2030年予測 高成長 ... エネがえる https://www.enegaeru.com > エネがえるAPI」（https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030）
+  - 「世界の 定置用 蓄電システム市場2026-2030年予測 高成長 ... — 世界の 定置用 蓄電システム市場2026-2030年予測 高成長 ... エネがえる https://www.enegaeru.com > エネがえるAPI」（https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030）
+  - 「世界の 定置用 蓄電システム 市場 2026-2030年予測 高成長 ... — 世界の 定置用 蓄電システム 市場 2026-2030年予測 高成長 ... エネがえる https://www.enegaeru.com > エネがえるAPI」（https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030）
+  - 「2025年版 定置用蓄電池 （ESS） 市場 の現状と将来展望 ～総合編 — 2025年版 定置用蓄電池 （ESS） 市場 の現状と将来展望 ～総合編 yano.co.jp https://www.yano.co.jp > market_reports」（https://www.yano.co.jp/market_reports/C66126700?srsltid=AYCX9vJB44XTYX3ka6SmYJ-uAhBiYskolL2fldTq0z7m7qKjT4DpKA2O）
+  - 「定置用蓄電池 ・ESS関連 市場 の現状と将来展望 2026 - 富士経済 — 定置用蓄電池 ・ESS関連 市場 の現状と将来展望 2026 - 富士経済 富士経済グループ https://www.fuji-keizai.co.jp > report > detail」（https://www.fuji-keizai.co.jp/report/detail.html?code=112603819&la=ja）
+  - 「2026 年版 定置用蓄電池 （ESS） 市場 の現状と将来展望 — 2026 年版 定置用蓄電池 （ESS） 市場 の現状と将来展望 yano.co.jp https://www.yano.co.jp > market_reports」（https://www.yano.co.jp/market_reports/C68116800?srsltid=AYCX9vLwJwVIfLMhf2KqSNeQashykXvKBqakxy2-1SmHanEIuPq-Pw8L）
+  - 「定置用 蓄電システムの現状と課題 - 経済産業省 — 定置用 蓄電システムの現状と課題 - 経済産業省 経済産業省 PDF https://www.meti.go.jp > battery_strategy2 > shiryo06」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo06.pdf）
+
+## 軍用ドローン（military drone）
+- 文脈：5 防衛 ①小型無人航空機
+- 顧客（金を払う側）：
+  - 「⺠生用ドローンは、⽐較的安価で調達が容易であり、」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「調達を巧妙化させていることから、適切な輸出管理が」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「海外の自社工場や日系企業への輸出等でも許可が必要」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「③当該技術を利用する者の存在確認に資するような会社案内等企業内容に関する対外公表資料」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「［外国ユーザーリスト掲載企業・組織等］」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「⑰ 外国ユーザーリストに掲載されている企業・組織向けの取引については、次のいずれの場合にも該当しないこと」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「⑱ 外国ユーザーリストに掲載されている企業・組織向けの取引については、輸出しようとする貨物又は提供しようとする技術について、軍事 用途に用い」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「⑲ 輸出令別表第３の２に掲げる地域向け又は当該地域の非居住者を需要者(外国ユーザーリストに掲載されている企業・組織を含む」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「暗号装置関係なども含め、幅広いリスト規制の項番に該当する可能性があるため、必ず納入元に外為法」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「「中小企業のための輸出管理」３分間動画」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「・輸出管理への導入ツールとして、輸出管理について分かり」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「・中小企業の方だけでなく、広く輸出管理に関心のある方に」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「中小企業のための輸出管理」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「【参考②-1】中小企業等アウトリーチ事業」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「中小企業等アウトリーチ事業」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+- 顧客の顧客（発注元が求めること）：
+  - 「⑤ 当該貨物等の輸送、設置等について過剰な安全装置・処置が要求されていないこと」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「⑧ 異常に⼤量のスペアパーツ等の要求がないこと」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「⑨ 通常必要とされる関連装置の要求があること」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「⑭ 通常要求される程度の性能等の保証の要求があること」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「⑯ 最終仕向地、製品等についての過度の秘密保持の要求がないこと」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「収益の拡大は予算の確保だけでなく、OEMの生産能力、輸出機会、航法の耐障害性、認証済みシステムを予定どおりに運用開始できる能力にも左右される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「定期的な予算配分により、生産計画、サプライヤーの認定、予備部品の確保、ペイロードの更新、訓練インフラの整備が可能になるためだ」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍事用ドローンOEMにとっての機会は、機体にとどまらない」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「認証済みの自律機能、ミッションシステム、安全なデータリンク、改修対応の設計により、プラットフォームの運用期間を通じた契約価値を高められる」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「サイバーセキュリティ強化要件によりプログラム開発予算が増加し、認証の遅延が発生することで、2027〜2030年の調達サイクルに参入する新たなMALEおよびSUASプラットフォームの初期運用能力の獲得が先送りされる」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「世界のOEMの市場アクセスを制約するITARおよび輸出管理制度」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「非同盟国の調達機関は規制の緩い代替品を選ぶ傾向にあり、高成長の新興市場における米国OEMの収益基盤が縮小する」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「耐空性、認証、相互運用性への適合に伴う負担」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「MALEクラスのUASは、STANAG 4671に基づく耐空性認証と各国の軍用航空当局による承認を得る必要がある」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「複数国で同時に型式受入れ要件を満たす必要があるため、プログラムの運用開始までの期間が延び、OEMの収益認識が先送りされる」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+- 顧客の競合（奪いに来る側）：
+  - 「⺠生用ドローンは、⽐較的安価で調達が容易であり、」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「ランス、ドイツ、ギリシャ、ハンガリー、アイルランド、イタリア、日本、韓国、ルクセンブルグ、オランダ、ニュージー」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「ランド、ノルウェー、ポーランド、ポルトガル、スペイン、スウェーデン、スイス、英国、米国 ※グループA」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「軍用ドローン市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「を超える市場シェアを獲得し、首位に立った」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「の市場シェアを占めた」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「米国国防総省（DoD）の2025会計年度における無人航空機システム（UAS）の調達項目は、総額24億米ドルに達した」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「再軍備に起因する欧州およびアジア太平洋地域の需要により、予測期間中盤まで両地域の売上高は平均を上回る成長を維持する」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「欧州およびインド太平洋地域の防衛プログラムも、第二の需要経路を形成している」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2018年以降、世界の武装軍用ドローン移転に占める米国の割合はわずか8%にとどまっている（CNAS Drone Proliferation Dataset）」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「非同盟国の調達機関は規制の緩い代替品を選ぶ傾向にあり、高成長の新興市場における米国OEMの収益基盤が縮小する」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「米国のサプライヤーは、サービスを提供できる顧客や任務に制限を受ける一方、納期の速さ、移転の容易さ、現地産業の参画が受注決定に影響する市場では、規制の緩やかな代替製品が競争力を持つ」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍用ドローン市場シェア（用途別）、2025年」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「地域別軍事用ドローン市場シェア（2025年・2035年）」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+- 自社の競合（商社・代理店・仲介）：
+  - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「記事が描いたのは、重工大手からドローン専業、さらにはIT企業や商社、造船会社までが、防衛向けの無人機に一斉に動き出した姿です」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「重工、電機、IT、商社、造船と、業種の壁を越えて参入が相次いでいます」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「商社は、海外メーカーと日本の官公庁や企業をつなぐ窓口として、防衛分野で長い経験を持っています」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「新興企業が単独では越えにくい日本市場の入り口を、商社が開く形です」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「単に海外の完成機を輸入して売るだけの代理店型なのか、国内に工場を建てて生産する型なのか、設計や改良まで国内でできる型なのか」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「ウクライナの最前線で鍛えられた機体が、日本のセンサー技術と総合商社の力を借りて、アジアへと羽ばたこうとしています」（https://innovatopia.jp/drones/drones-news/110814/）
+  - 「同社は日本のセンサー技術を活用する意向であり、販売代理店として丸紅を起用した」（https://innovatopia.jp/drones/drones-news/110814/）
+  - 「今回、丸紅は販売代理店として起用されたと報じられています」（https://innovatopia.jp/drones/drones-news/110814/）
+  - 「総合商社が持つアジア各国への販路と調整力は、海外メーカーが単独では越えにくい商習慣や規制の壁を、現実的な商談に変えていく力を持ちます」（https://innovatopia.jp/drones/drones-news/110814/）
+  - 「Tekeverの販売代理店になったと報じられる日本の総合商社の公式サイト」（https://innovatopia.jp/drones/drones-news/110814/）
+  - 「商社・卸売り」（https://www.nikkei.com/article/DGKKZO92783770U5A121C2FF8000/）
+  - 「今回の提携において、楽天はヘルシング社が手掛ける軍用ドローンシステムの日本市場における導入窓口（ディストリビューター・統合支援）としての機能を担います」（https://www.fddi.jp/7608）
+  - 「単なる輸入販売にとどまらず、防衛省の国産化方針に合わせ、将来的には日本国内でのライセンス生産や部品加工を含めた「ドローンの国産化」も視野に入れた協議が進められています」（https://www.fddi.jp/7608）
+  - 「Distributors」（https://www.technavio.com/report/military-drone-market-analysis）
+- 政治（法・予算・規制）：
+  - 「 それらを未然に防ぐため、先進国を中心とした国際的な枠組（国際輸出管理レジーム）によ」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「り輸出管理等を推進」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「 我が国は外国為替及び外国貿易法（外為法）に基づき、輸出管理等※３を実施」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「輸出管理が厳格に」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「※ 3 「輸出管理等」とは、貨物の輸出及び技術の提供の管理をいう」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「を⾏うおそれのある者に渡ることを防ぐための輸出管理等手段」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「調達を巧妙化させていることから、適切な輸出管理が」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「出典︓ Reuters、ウクライナ政府公式SNS」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「リスト規制 キャッチオール規制」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「規制は２種類」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「輸出管理制度の全体像・法体系」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「輸出管理の対象は」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「＊1:外為法：外国為替及び外国貿易法 ＊2:輸出令：輸出貿易管理令 ＊3:外為令：外国為替令」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「国際輸出管理レジームの概要」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「リスト規制に該当する場合、用途・需要者にかかわらず、」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+- 経済（規模・価格・為替）：
+  - 「 我が国は外国為替及び外国貿易法（外為法）に基づき、輸出管理等※３を実施」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「＊1:外為法：外国為替及び外国貿易法 ＊2:輸出令：輸出貿易管理令 ＊3:外為令：外国為替令」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「軍用ドローン市場規模・予測レポート 2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「また、2026年から2035年にかけて年平均成長率（CAGR）12.9%で拡大し、2035年には623億米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2027会計年度までDoDのUAS予算が持続的に拡大すれば、北米市場の売上高は予測期間の早い段階で高い年平均成長率（CAGR）を示す」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「自律システムの導入によりプラットフォーム当たりの実質ASPが上昇し、2035年まで売上高のCAGRが販売台数のCAGRを上回る」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「HALEプラットフォームは2025年に56億6,000万米ドルの売上を生み、2035年までに市場収益の22.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍用ドローン市場規模：プラットフォームタイプ別、2025年・2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「MALEプラットフォームは2035年までに193億3,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）14.3%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「同月24日には経済産業省の無人機産業基盤強化検討会が中間取りまとめを公表し、2030年に約8万台（想定需要約14万台の約6割）の国内供給体制構築を目標に掲げ、2025年度補正予算で量産体制構築支援に139億円を計上、設備投資費用等を最大2分の1補助するとしています」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+- 社会（人・担い手）：
+  - 「無人機は、安全保障の道具であると同時に、人手不足への答えでもあるのです」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「造船は、日本が設備と技能を国内に残している数少ない重工業分野です」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「補助金や公募といった政策は動き出していますが、工場、人材、部品の供給網がそろうまでには時間がかかります」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「生成AIで仕事は速くなったのに売り上げは増えない―IT人材の73.6％がIT企業に偏在する日本の絶望的な構造課題」（https://toyokeizai.net/articles/-/942717?display=b）
+  - 「雇用や周辺産業への波及も期待できるでしょう」（https://innovatopia.jp/drones/drones-news/110814/）
+  - 「生産拠点の拡張や雇用創出を通じ、英国の防衛産業強化をめざす」（https://innovatopia.jp/drones/drones-news/110814/）
+  - 「雇用計画など一次情報を確認できる」（https://innovatopia.jp/drones/drones-news/110814/）
+  - 「25万4千平方フィートの施設や雇用規模などの数値を示す」（https://innovatopia.jp/drones/drones-news/110814/）
+  - 「日経のグローバル人材育成」（https://www.nikkei.com/article/DGKKZO92783770U5A121C2FF8000/）
+  - 「人材開発支援助成金の申請支援」（https://www.fddi.jp/7608）
+  - 「人材開発支援」（https://www.fddi.jp/7608）
+  - 「Workforce Development」（https://www.trade.gov/market-intelligence/japan-drone-market）
+- 技術（新しい技術・実証）：
+  - 「 先進国が保有する⾼度な貨物や技術が、⼤量破壊兵器等※１や通常兵器の開発等※２を」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「⼤量破壊兵器等の開発等を」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「※１「⼤量破壊兵器等」とは、核兵器・化学兵器・生物兵器・ミサイルをいう ※２「開発等」とは、開発・製造・使用又は貯蔵をいう」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「・武器および兵器等の開発等に転用される可能性の」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「（Missile Technology Control」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「リスト規制品以外であっても、大量破壊兵器等の開発、製造、使用又は貯蔵等」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「※特に注意｜大量破壊兵器等の開発等に用いられるおそれの強い貨物例対象となるもの」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「許可要件 大量破壊兵器等の開発等に用いられるおそれがある場合用途要件」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「客観要件 大量破壊兵器等の開発等を行っている及び行っていた場合並びに外国ユーザーリストに掲」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「開発等以外に用いられることが明らかなときは除く」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「リスト規制品以外であっても、通常兵器の開発、製造又は使用に用いられる」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「-※特に注意｜通常兵器の開発等に用いられるおそれの強い貨物例」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「無し通常兵器の開発等に用いられるおそれがある場合用途要件」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「通常兵器の開発等を行っている又は行っていた場」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「から、通常兵器の開発等以外に用いられることが明ら」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+- 検索結果の抜粋：
+  - 「軍用ドローン 市場規模・予測レポート 2026 〜2035年 — 軍用ドローン 市場規模・予測レポート 2026 〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「米、一部 軍用ドローン の輸入禁止を暫定決定 中国製に照準 — 米、一部 軍用ドローン の輸入禁止を暫定決定 中国製に照準 Reuters https://www.reuters.com > world > security > I5RF5PMZ...」（https://www.reuters.com/jp/world/security/I5RF5PMZOBPRPCZXC6WCO2M5FA-2026-07-21/）
+  - 「軍用ドローン市場 規模・予測レポート 2026〜2035年 — 軍用ドローン市場 規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍用ドローン市場 規模、 シェア 、動向 |成長レポート [2034] — 軍用ドローン市場 規模、 シェア 、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...」（https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181）
+  - 「軍用ドローン市場 ： 市場 規模・需要と2034年までの予測 — 軍用ドローン市場 ： 市場 規模・需要と2034年までの予測 The Insight Partners https://www.theinsightpartners.com > military-drone-market」（https://www.theinsightpartners.com/ja/reports/military-drone-market）
+  - 「軍用ドローン 市場規模・予測レポート 2026〜2035年 — 軍用ドローン 市場規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍用ドローン 市場規模、シェア、動向 |成長レポート [2034] — 軍用ドローン 市場規模、シェア、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...」（https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181）
+  - 「《台湾有事》国防部の 軍用ドローン調達 、当初予定の4倍に拡大 — 《台湾有事》国防部の 軍用ドローン調達 、当初予定の4倍に拡大 ys-consulting.com.tw https://www.ys-consulting.com.tw > news」（https://www.ys-consulting.com.tw/news/126485.html）
+  - 「軍用ドローン市場規模 ・予測レポート 2026 〜2035年 — 軍用ドローン市場規模 ・予測レポート 2026 〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍用ドローン市場規模 、シェア、動向 |成長レポート [2034] — 軍用ドローン市場規模 、シェア、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...」（https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181）
+  - 「軍用ドローン 市場： 市場規模 ・需要と2034年までの予測 — 軍用ドローン 市場： 市場規模 ・需要と2034年までの予測 The Insight Partners https://www.theinsightpartners.com > military-drone-market」（https://www.theinsightpartners.com/ja/reports/military-drone-market）
+  - 「Japan Plans to Transform Military Capabilities with Drones ... — Japan Plans to Transform Military Capabilities with Drones ... USNI News https://news.usni.org > 2026/08/05 > j...」（https://news.usni.org/2026/08/05/japan-plans-to-transform-military-capabilities-with-drones-boost-domestic-defense-industry）
+  - 「Japan Military Drone Market Outlook, 2033 — Japan Military Drone Market Outlook, 2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/horizon/outlook/military-drone-market/japan）
+  - 「Japan Military Drones Market (2026-2031) - MarketsandMarkets — Japan Military Drones Market (2026-2031) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/geography/military-drone-market/Japan）
+  - 「Military Drone Market Size , Share, Trends, Growth Report, 2034 — Military Drone Market Size , Share, Trends, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/military-drone-market-102181）
+
+## 艦艇（naval vessels）
+- 文脈：5 防衛 ②艦艇
+- 顧客（金を払う側）：
+  - 「報道によると、現在候補に挙がっているのは、オーストラリアが次期汎用フリゲートとして採用を決定している日本の新型FFM（もがみ型能力向上型）、2024年から運用が開始されている韓国の忠南（チョンナム）級フリゲート、そしてインドネシア海軍向けの建造計画が進められているトルコのイスタンブール級ミサイルフリゲートの3艦級となっているようです」（https://trafficnews.jp/post/705464）
+  - 「「国家安全保障上の利益（national security interest）」を理由とする適用除外を利用し、外国で建造された軍艦を海軍に導入することを禁じている国内法を例外的に適用除外とすることで、国防総省が外国の艦艇設計を検討する道が開かれました」（https://trafficnews.jp/post/705464）
+  - 「ただし、ホワイトハウスの覚書では、アメリカ国内にサプライチェーンを構築することが求められており、外国企業がアメリカ国内に造船所を新設するか、既存の造船所の所有権または過半数の持分を取得することなどが条件となっています」（https://trafficnews.jp/post/705464）
+  - 「豪州次期汎用フリゲートとして、２０２９年１２月に最初の納入が行われます」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「この次期汎用フリゲートの納入は国防軍の能力を向上するに当たって、非常に重要な出来事となっています」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「この２年という短い間に、入札、そして選定、そして２０２９年には、最初の次期汎用フリゲートがオーストラリアに導入されるということになります」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「日豪友好協力基本条約５０周年を迎える今年、日本の艦船をオーストラリアが採用するという、両国の防衛協力を更に高みに引き上げる大きな一歩がいよいよ踏み出されました」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「むしろ、今この艦上に一堂に会しているのは、横須賀出港時から、この「くまの」に共に乗艦している海上自衛隊員とオーストラリア海軍士官のシップライダー、汎用フリゲートを建造する企業関係者の皆様、そして日本とオーストラリアの国防当局という、日豪の官民の一体性を象徴する皆さんです」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「この度、「もがみ」型護衛艦の能力向上型をベースとした汎用フリゲートがオーストラリア海軍に導入されることは、日豪の相互運用性を大幅に向上させるだけではなく、インド太平洋地域の艦艇建造・維持整備基盤の向上、日豪のサプライチェーン協力等の幅広い意義を有しています」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「今、このようにオーストラリアのメディアの方からも、まだ１隻目が２年後の２０２９年の納入という、そういった段階でもなお、既に４隻目の関心を持っていただいているということは、日本に対してこのように、海外から関心を持ってもらっているという、こういったことについても私は広く伝えていって、この我々が進めている安全保障の政策の強化を、国内外に前向きに評価をしてもらえるように努めていきたいと思います」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「もちろん、作るのは三菱重工か、企業が作るわけですから、今後についてはよく関係者と話さなくてはいけませんが、私とリチャードの日豪の防衛関係を、強化をしたいと、していくと、そのコミットメントは揺るぎないということだけは申し上げておきます」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「また、２０２９年の納入を前倒しする考えはあるでしょうか」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「「もがみ」型の建造に象徴されますように、この輸出の緩和は非常に良い機会で、防衛能力のシームレスに滞らずに納入に運ぶ状況を考えますと、この輸出の緩和は非常にありがたい機会と考えております」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「そして、この建造から納入に係る時間は非常に迅速に行われています」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「企業ニュース閲覧」（https://seikeifocus.jp/politics/article/63331/）
+- 顧客の顧客（発注元が求めること）：
+  - 「防衛省・自衛隊：日豪防衛相会談、豪州汎用フリゲートに係る契約及び当局間合意文書締結記念式典後の日豪防衛相共同記者会見」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「防衛省の取組」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「防衛省からの発注に海外からの受注も加わり、不足する建造能力を確保する狙いだ」（https://seikeifocus.jp/politics/article/63331/）
+  - 「三井E＆Sの艦艇事業からの撤退などにより、現在、防衛省に納入する大型艦艇を建造できる企業は三菱重工業とジャパンマリンユナイテッド（JMU）の2社しかない」（https://seikeifocus.jp/politics/article/63331/）
+  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biznews/2025/08/6aedb56d15329a68.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2025/08/6aedb56d15329a68.html）
+  - 「パット・コンロイ国防産業相は「コスト、性能、納期の順守の面で、『もがみ』型フリゲート艦が明らかな勝者だった」と述べた」（https://www.jetro.go.jp/biznews/2025/08/6aedb56d15329a68.html）
+  - 「そのため、関連サプライヤーにとっては比較的長期間の受注機会が生じる」（https://www.atpress.ne.jp/news/9465387）
+  - 「Rolls-Royceのように推進技術を提供する企業をはじめ、欧州企業は日本の国内造船企業を補完するサプライヤーとして市場に参加している」（https://www.atpress.ne.jp/news/9465387）
+  - 「大型艦建造には、長年の実績、政府との信頼関係、機密情報管理、高度な品質保証、軍用規格への対応、長期にわたる試験・認証能力が必要である」（https://www.atpress.ne.jp/news/9465387）
+  - 「2026年3月には、防衛省がAegis Combat Systemを備えた次世代駆逐艦による艦隊拡張計画を強化したとされる」（https://www.atpress.ne.jp/news/9465387）
+  - 「サプライヤーにとっては、推進、レーダー、ミサイル、防空だけでなく、AI、サイバーセキュリティ、宇宙情報連携、電力管理などが新たな参入分野となる」（https://www.atpress.ne.jp/news/9465387）
+  - 「造船業としても船舶の低炭素化・脱炭素化等により、こうした社会的な要請に応えることが必要です」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+  - 「必ずしも規模の大きさのみが競争力の決定要因ではありませんが、資機材の調達時に優位性が生じ得るほか、技術者等リソースの柔軟な運用が可能になるなどの効果が見込まれるほか、近年増加している同仕様の船舶を短納期で多数発注する「ロット発注」への対応のためには一定の規模が必要となります」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+  - 「官公庁船の建造や輸出の促進」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+- 顧客の競合（奪いに来る側）：
+  - 「報道によると、現在候補に挙がっているのは、オーストラリアが次期汎用フリゲートとして採用を決定している日本の新型FFM（もがみ型能力向上型）、2024年から運用が開始されている韓国の忠南（チョンナム）級フリゲート、そしてインドネシア海軍向けの建造計画が進められているトルコのイスタンブール級ミサイルフリゲートの3艦級となっているようです」（https://trafficnews.jp/post/705464）
+  - 「空自次期練習機候補の“親戚”が中国に!? そっくり3機種「血のワケ」とは 政治体制違えど協力できるワケ」（https://trafficnews.jp/post/705464）
+  - 「「欧州勢が有力」の高速鉄道計画になぜか「JR東海」が呼ばれたワケ 1000kmの一大プロジェクト “どんでん返し”はあるか？」（https://trafficnews.jp/post/705464）
+  - 「日本はオーストラリアを準同盟と位置付けて連携を深めていますが、インド太平洋地域の安定に日豪が果たす役割について改めて見解を伺います」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「オーストラリアは、我が国とともにアメリカの同盟国として、基本的価値だけではなく、安全保障上の戦略的利益を共有するインド太平洋地域の特別な戦略的パートナーです」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「この度、「もがみ」型護衛艦の能力向上型をベースとした汎用フリゲートがオーストラリア海軍に導入されることは、日豪の相互運用性を大幅に向上させるだけではなく、インド太平洋地域の艦艇建造・維持整備基盤の向上、日豪のサプライチェーン協力等の幅広い意義を有しています」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「小泉大臣、マールズ大臣それぞれに伺いますが、日豪両国はともにアメリカとの関係も重視していますが、アメリカが、現在、西半球重視の姿勢を示す中で、インド太平洋地域における米国を含まない形を２国間連携・多国間連携の重要性をどう認識しているか、お伺いします」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「まず、非常に重要で強調したいのが、米国がインド太平洋に関与し続けるということ、これは大変重要なコミットメントと考えています」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「そして国際安全保障、そして安全保障の観点から、昨年、米国がインド太平洋に関与していたことは非常に重要だと考えています」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「それと同時に、インド太平洋において日本とオーストラリアは完全に価値観を共有し、そして、信頼によって基盤となるパートナーシップ、そして戦略を一致するという非常に貴重な関係として成り立っています」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「防衛装備品輸出三原則が緩和されることに対して、中国が懸念を表明していますが、このような主張になびきかねない国に対しては、どのように説明するつもりでしょうか」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「中国についても触れられましたので私からコメントさせていただきます」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「私とリチャードは、昨年マレーシアでこれはＡＤＭＭプラスありましたけれど、そのときに、私は中国のカウンターパートの董軍国防部長とも会談をしています」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「そのときと今と全く変わらないのは、日本と中国の間には、違いやまた課題もあるからこそ、対話と意思疎通の機会を重ねていくべきだという、この思いは今でも全く変わりません」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「そして防衛装備移転の見直しについてもお尋ねがありましたが、これについては、例えば先ほどニュージーランドも含めて、そしてまた私はインドネシア、フィリピン、状況が許せば、今後訪問する機会もあると思いますが、日本の装備品に対する高い評価と、そしてニーズもある中で、ポジティブにこの政策変更を受け止めている国々もあることもしっかりと伝えていただきたいと思います」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+- 自社の競合（商社・代理店・仲介）：
+  - 「商社・卸売り」（https://www.nikkei.com/article/DGXZQOUA050990V00C25A8000000/）
+  - 「代理店の方はこちら」（https://makino-asahi.theletter.jp/posts/bfcaf530-36d2-11f0-a1f3-5f9de42f8bc0）
+  - 「）、③部品等を融通し合う国際的なシステムに参加する場合、④移転先国以外の国の輸出管理制度の下で適切に管理されている完成品に係る部品等を移転する場合、⑤部品等をライセンス元に納入又は輸入元に移転する場合、⑥他国政府又は他国企業が主導する装備品等のサプライチェーンに参画するために部品等を納入する場合、⑦我が国から移転する部品及び技術の相手国への貢献が相当程度小さい場合、⑧自衛隊等の活動や邦人の安全確保に不可欠な場合、⑨我が国の安全保障上の観点から影響が極めて小さいと判断される場合（外国政府や外国企業との調整段階における技術情報の提供等）には、政府間の合意ではなく、仕向先の管理体制の確認をもって適正な管理を確保することも可能としています（※その場合であっても、技術的機微性が高い場合等については、原則として相手国政府に義務付けることとなります」（https://www.meti.go.jp/policy/anpo/qanda01.html）
+  - 「※ 防衛省等から需要者（製造企業、ライセンス元企業等）までの関係企業間全ての契約のつながりを示すもので、直接当該貨物の受け渡しに関与しない仲介企業、代理店等も含めて必要となります」（https://www.meti.go.jp/policy/anpo/qanda01.html）
+  - 「熊谷は、「ソ連貿易に携わる日本の商社で『わが社のみはクリーンである』と言える商社は1社もないと断言しても決して誇張ではない」と述べており、当時の輸出企業の安全保障貿易管理への意識は極めて低調であった」（https://www.nids.mod.go.jp/publication/commentary/commentary363.html）
+  - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/naval-vessels-market）
+  - 「Discussions are expected to focus on the Abukuma-class destroyer escort, a six-ship class commissioned between 1989 and 1993. With a standard displacement of around 2,000 tons, the vessels are designed for coastal defense and anti-submarine warfare.」（https://www.navalnews.com/naval-news/2026/05/japan-philippines-launch-working-group-on-transfer-of-abukuma-class-destroyer-escorts/）
+  - 「The Indian Navy commissioned three warships—INS Nilgiri, INS Surat, and INS Vaghsheer—at the Naval Dockyard, Mumbai. Prime Minister Narendra Modi attended the event, highlighting India's naval expansion, with 39 out of 40 vessels built locally.」（https://www.imarcgroup.com/warship-naval-vessels-market）
+  - 「We recently commissioned multiple market research reports from IMARC, and the insights we received were invaluable. The depth of analysis, accuracy of data, and actionable recommendations have greatly enhanced our strategic decision-making.」（https://www.imarcgroup.com/warship-naval-vessels-market）
+- 政治（法・予算・規制）：
+  - 「そして、政府が水上能力見直しで発表いたしました」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「オーストラリア政府による「もがみ」選定からわずか８か月で無事契約をまとめ上げた、こうした人のつながり」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「政府は緊密に、このプロセスに関わっており、先ほど申しましたとおり、４隻目が西オーストラリア州ヘンダーソンで建造が開始されるということが非常に期待を持っております」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「以前、水上戦艦見直しで発表しました通り、「もがみ」建造を西オーストラリアで行うという決断は、オーストラリア政府が初めて発表したものです」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「そういった価値からでも、西オーストラリア州で建造業を開催することにオーストラリア政府は非常に自信を持っております」（https://www.mod.go.jp/j/approach/exchange/area/2026/20260418_aus-j_d.html）
+  - 「政府発表を見る」（https://seikeifocus.jp/politics/article/63331/）
+  - 「政府は2023年度以降、防衛費を大幅に増やしてきた」（https://seikeifocus.jp/politics/article/63331/）
+  - 「法律・法案を閲覧」（https://seikeifocus.jp/politics/article/63331/）
+  - 「国家間の安全保障協力も購入の決定に影響するため、政府の外交・防衛協力が輸出拡大と結び付く可能性も注目される」（https://seikeifocus.jp/politics/article/63331/）
+  - 「政府、安保3文書に「拒否力」明記へ 防衛力整備の中核概念に」（https://seikeifocus.jp/politics/article/63331/）
+  - 「エヌビディアは疑惑を否定し、メガスピードは外部の法律専門家を任命して調査を開始した」（https://seikeifocus.jp/politics/article/63331/）
+  - 「世界各国の関税率」（https://www.jetro.go.jp/biznews/2025/08/6aedb56d15329a68.html）
+  - 「政府公共調達データベース」（https://www.jetro.go.jp/biznews/2025/08/6aedb56d15329a68.html）
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biznews/2025/08/6aedb56d15329a68.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2025/08/6aedb56d15329a68.html）
+- 経済（規模・価格・為替）：
+  - 「「減税財源10兆円、国債発行は否定せず」高市首相が答弁 その後「赤字国債には頼らない」と説明」（https://seikeifocus.jp/politics/article/63331/）
+  - 「約9,400億円規模の仮想通貨、北朝鮮が狙う資金洗浄の手口とは」（https://seikeifocus.jp/politics/article/63331/）
+  - 「今回の計画には、10年間で100億オーストラリア・ドル（約9,600億円、豪ドル、1豪ドル＝約96円）が割り当てられる」（https://www.jetro.go.jp/biznews/2025/08/6aedb56d15329a68.html）
+  - 「総額1兆円規模となる初の艦艇輸出に道筋をつけたのは、過去の教訓を生かして相手国のニーズに応えながら売り込みをかける戦略だった」（https://www.nikkei.com/article/DGXZQOUA050990V00C25A8000000/）
+  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGXZQOUA050990V00C25A8000000/）
+  - 「予算額で見ると、新型多機能護衛艦（FFM、「もがみ型護衛艦」とも呼ぶ）の1隻1048億円に対し、哨戒艦は144億円、輸送船舶は44億円にとどまる」（https://mainichi.jp/premier/business/articles/20251105/biz/00m/020/010000c）
+  - 「＜1日3万円で日本周遊 鳥海高太朗が「豪華客船」にハマる理由＞」（https://mainichi.jp/premier/business/articles/20251105/biz/00m/020/010000c）
+  - 「日本の駆逐艦市場2026～2035年、市場規模・企業動向・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/9465387）
+  - 「日本の駆逐艦市場2026～2035年、市場規模・企業動向・分析レポートを発表」（https://www.atpress.ne.jp/news/9465387）
+  - 「市場規模は2025年に18億5,000万米ドル、2035年には28億5,000万米ドルに達すると予測され、2026～2035年の年平均成長率（CAGR）は4.40％である」（https://www.atpress.ne.jp/news/9465387）
+  - 「2026年の市場規模は19億3,000万米ドルと推定されている」（https://www.atpress.ne.jp/news/9465387）
+  - 「日本の防衛予算は、2022年の5.1兆円から2024年には7.7兆円へ増加しており、この予算拡大が艦艇建造、推進システム、ミサイル防衛、電子戦、センサー、戦闘システムの需要を直接的に押し上げている」（https://www.atpress.ne.jp/news/9465387）
+  - 「2024年度にはASEV向けとして3,731億円、約26億米ドルが割り当てられており、Mitsubishi Heavy IndustriesとJapan Marine Unitedに契約が発注されている」（https://www.atpress.ne.jp/news/9465387）
+  - 「艦艇数が大幅に増えなくても、1隻ごとのセンサー、戦闘システム、ミサイル、ソフトウェア、推進、保守・アップグレード費用が増えれば、市場規模は拡大する」（https://www.atpress.ne.jp/news/9465387）
+  - 「この点が、CAGR4.40％という比較的安定した成長率の背景にある」（https://www.atpress.ne.jp/news/9465387）
+- 社会（人・担い手）：
+  - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biznews/2025/08/6aedb56d15329a68.html）
+  - 「三菱重工業は8月5日付プレスリリースで「豪州の次期汎用フリゲートプログラムに、日豪の企業が幅広く参画することで、両国の科学技術分野での人材育成や防衛産業基盤の強化が期待される」と述べた」（https://www.jetro.go.jp/biznews/2025/08/6aedb56d15329a68.html）
+  - 「日経のグローバル人材育成」（https://www.nikkei.com/article/DGXZQOUA050990V00C25A8000000/）
+  - 「少子高齢化・人手不足が進む日本では、自衛隊も人員確保が大きな課題となるため、艦艇の省人化は単なるコスト削減ではなく、実際に艦隊を維持するための重要な技術要件となる」（https://www.atpress.ne.jp/news/9465387）
+  - 「さらに、人手不足への対応として自動化・省人化が重要になる」（https://www.atpress.ne.jp/news/9465387）
+  - 「日本の人口動態を考えると、将来的な海上自衛隊の人材確保には制約があるため、一隻あたりの乗員数を減らしながら戦闘能力を維持・向上させる設計が不可欠となる」（https://www.atpress.ne.jp/news/9465387）
+  - 「また、我が国の造船所は資機材の９割超を国内から調達し、多数の舶用メーカーや協力事業者等とも密接に関連した海事クラスターを形成しており、地域の雇用創出、経済発展に中核的な役割を果たしております（船価の３倍の経済波及効果）」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+  - 「人材の確保・育成」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+  - 「造船業においては、現場で船づくりを支える技能者と、技術開発や設計を支える技術者の確保が重要です」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+  - 「技能者の育成については、国、地方自治体、日本財団、日本海事協会等が設立・運営支援を行った造船技能研修センターを活用して造船会社が共同で研修を行ってきており、その結果として、造船業における技能者は順調に世代交代が進んでおります」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+  - 「高齢化が深刻化する他製造業に比べ比較的円滑に人材確保が進んでおり、今後とも取組を進めてまいります」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+  - 「一方で、我が国の造船技術者は、大学・大学院において造船工学を修得した人材が中心となっていますが、造船に特化した専門課程は減少してきております」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+  - 「また、現場労働力の確保を図る観点から、造船業においては、2015年より約3年間の技能実習を修了した外国人材を受け入れる「外国人造船修了者受入れ事業」を実施（新規の受入れは2021年3月末で終了）し、さらに我が国における深刻な人手不足に対応するために、2019年4月、出入国管理及び難民認定法が改正され、新たな外国人材の受け入れを行う「特定技能制度」が創設されました」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+  - 「現在、多数の特定技能外国人が造船業の現場で就労しています」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+  - 「今後とも、特定技能制度の活用等を通じて外国人材の適正な受け入れを確保してまいります」（https://www.mlit.go.jp/maritime/maritime_tk5_000014.html）
+- 技術（新しい技術・実証）：
+  - 「アメリカの次世代フリゲートとして、日本の「もがみ」型護衛艦が候補の一つとなっていることが、2026年9月2日、アメリカ海軍協会の公式メディアである「USNI News」の報道で明らかになりました」（https://trafficnews.jp/post/705464）
+  - 「今回の案は、国際的な建艦競争を背景に、トランプ政権が艦隊を迅速に拡大しようとしていることを受けたもので、最大2隻を開発国の造船所で建造した後、アメリカ国内の造船所へ建造を移行する案が含まれる可能性があるとのことです」（https://trafficnews.jp/post/705464）
+  - 「えっ、こんな場所も走れちゃうの!? ダンロップの次世代オールシーズンタイヤ「シンクロウェザー」を軽自動車に装着して志賀高原まで行ってみた〈PR〉」（https://trafficnews.jp/post/705464）
+  - 「「レンタル料が1年で70％暴落」中国ロボット市場に異変…ブームに何が？」（https://seikeifocus.jp/politics/article/63331/）
+  - 「米当局、Comma.aiの後付け運転支援装置を調査 搭載車の事故で3人死亡」（https://seikeifocus.jp/politics/article/63331/）
+  - 「AI講座を受講」（https://seikeifocus.jp/politics/article/63331/）
+  - 「日経電子版の記事を学習したAIが」（https://www.nikkei.com/article/DGXZQOUA050990V00C25A8000000/）
+  - 「AIが使えなくなる日」（https://www.nikkei.com/article/DGXZQOUA050990V00C25A8000000/）
+  - 「NIKKEI KAI」（https://www.nikkei.com/article/DGXZQOUA050990V00C25A8000000/）
+  - 「Copyright THE MAINICHI NEWSPAPERS. All rights reserved.」（https://mainichi.jp/premier/business/articles/20251105/biz/00m/020/010000c）
+  - 「フェーズドアレイレーダー、AI活用型防衛モジュール、高度なサイバーセキュリティなどは、一度導入すれば終わりではなく、脅威や技術の変化に応じた継続的アップグレードが必要になる」（https://www.atpress.ne.jp/news/9465387）
+  - 「日本の防衛装備移転政策は徐々に緩和されているものの、依然として国際共同開発や海外販売には制限がある」（https://www.atpress.ne.jp/news/9465387）
+  - 「AI、サイバーセキュリティ、宇宙連携技術を持つ企業にも参入機会がある」（https://www.atpress.ne.jp/news/9465387）
+  - 「特にAIは、センサー情報処理、脅威識別、意思決定支援、予知保全などへの活用が期待される」（https://www.atpress.ne.jp/news/9465387）
+  - 「これが進展すれば、日本の造船企業は国内政府需要に加えて、共同開発、海外ライセンス生産、技術協力など新しい収益機会を得る可能性がある」（https://www.atpress.ne.jp/news/9465387）
+- 検索結果の抜粋：
+  - 「「大型 艦艇 を造れるのは2社だけ」 日本 の造船業、輸出拡大で ... — 「大型 艦艇 を造れるのは2社だけ」 日本 の造船業、輸出拡大で ... seikeifocus.jp https://seikeifocus.jp > 政治」（https://seikeifocus.jp/politics/article/63331/）
+  - 「オーストラリア、 日本 から先進護衛艦購入契約へ－1.7兆 — オーストラリア、 日本 から先進護衛艦購入契約へ－1.7兆 Bloomberg.com https://www.bloomberg.com > news > articles」（https://www.bloomberg.com/jp/news/articles/2026-04-17/TDMMFBT96OTO00）
+  - 「オーストラリア海軍、 日本 の護衛艦「もがみ」型を採用 — オーストラリア海軍、 日本 の護衛艦「もがみ」型を採用 ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2025/08」（https://www.jetro.go.jp/biznews/2025/08/6aedb56d15329a68.html）
+  - 「三菱重工が2兆円護衛艦を 受注 、 日本 の軍事輸出で過去最大規模 — 三菱重工が2兆円護衛艦を 受注 、 日本 の軍事輸出で過去最大規模 風傳媒 https://japan.storm.mg > ニュース」（https://japan.storm.mg/articles/1058181）
+  - 「日本 オーストラリアと65億ドルの画期的な軍艦建造契約を締結 — 日本 オーストラリアと65億ドルの画期的な軍艦建造契約を締結 Coherent Market Insights https://www.coherentmarketinsights.com > news > 日本オ...」（https://www.coherentmarketinsights.com/ja/news/%E6%97%A5%E6%9C%AC%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E3%81%A865%E5%84%84%E3%83%89%E3%83%AB%E3%81%AE%E7%94%BB%E6%9C%9F%E7%9A%84%E3%81%AA%E8%BB%8D%E8%89%A6%E5%BB%BA%E9%80%A0%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%90-246）
+  - 「海軍 艦艇市場規模 、 2026 〜2035年 - Global Market Insights — 海軍 艦艇市場規模 、 2026 〜2035年 - Global Market Insights Global Market Insights Inc. https://www.gminsights.com > naval-vessels-market」（https://www.gminsights.com/ja/industry-analysis/naval-vessels-market）
+  - 「海軍 艦艇 および水上戦闘 艦艇 の 市場規模 、シェア、2034年 — 海軍 艦艇 および水上戦闘 艦艇 の 市場規模 、シェア、2034年 Straits Research https://straitsresearch.com > ... > 海軍・海洋・港湾技術」（https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market）
+  - 「海軍 艦艇 および水上戦闘機の 市場 シェア [2034 年] — 海軍 艦艇 および水上戦闘機の 市場 シェア [2034 年] Fortune Business Insights https://www.fortunebusinessinsights.com > 海軍艦艇およ...」（https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E3%81%8A%E3%82%88%E3%81%B3%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9F%E5%B8%82%E5%A0%B4-102695）
+  - 「日本の原子力海軍 艦艇市場2026 年版 - LinkedIn — 日本の原子力海軍 艦艇市場2026 年版 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > 日本の原子力海軍艦艇...」（https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8E%9F%E5%AD%90%E5%8A%9B%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E5%B8%82%E5%A0%B42026%E5%B9%B4%E7%89%88-morphememetricx-q38re）
+  - 「海軍 艦艇 MRO 市場2026 年～2030年 - ZDNET Japan — 海軍 艦艇 MRO 市場2026 年～2030年 - ZDNET Japan ZDNET Japan https://japan.zdnet.com > プレスリリース」（https://japan.zdnet.com/release/31194282/）
+  - 「艦艇 ・巡視船艇の新造整備は計12隻26年度 予算 案 - 海事プレス — 艦艇 ・巡視船艇の新造整備は計12隻26年度 予算 案 - 海事プレス 海事プレスONLINE https://www.kaijipress.com > 造船・舶用」（https://www.kaijipress.com/news/shipbuilding/2026/01/198404/）
+  - 「【26年度概算要求】防衛省、 艦艇 5隻要求。PFIでコンテナ船 ... — 【26年度概算要求】防衛省、 艦艇 5隻要求。PFIでコンテナ船 ... 日本海事新聞 電子版 https://www.jmd.co.jp > apl > article」（https://www.jmd.co.jp/apl/article.php?no=308259）
+  - 「艦艇 の極省人化に関する研究 角道 保史 — 艦艇 の極省人化に関する研究 角道 保史 防衛省 PDF https://www.mod.go.jp > gsdf > tercom > img > file16」（https://www.mod.go.jp/gsdf/tercom/img/file16.pdf）
+  - 「RIMPAC2026、無人 艦艇 をはじめとする新興 技術 を 実証 — RIMPAC2026、無人 艦艇 をはじめとする新興 技術 を 実証 Indo-Pacific Defense FORUM https://ipdefenseforum.com > ... > パートナーシップ」（https://ipdefenseforum.com/ja/2026/07/rimpac2026%E3%80%81%E7%84%A1%E4%BA%BA%E8%89%A6%E8%89%87%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%81%A8%E3%81%99%E3%82%8B%E6%96%B0%E8%88%88%E6%8A%80%E8%A1%93%E3%82%92%E5%AE%9F%E8%A8%BC/）
+  - 「Japan to transfer retired naval vessels to Southeast Asia - UPI — Japan to transfer retired naval vessels to Southeast Asia - UPI upi.com https://www.upi.com > 2026/04/26」（https://www.upi.com/Top_News/World-News/2026/04/26/japan-transferring-destroyers-submarines-to-southeast-asian-countries/9371777249614/）
+
+## 防衛装備品（defense equipment）
+- 文脈：5 防衛 ③デュアルユース
+- 顧客（金を払う側）：
+  - 「2023年11月には、防衛省が2020年契約に基づき、フィリピン向けに初の航空監視レーダーを納入したと発表している」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「需要の不透明さから参入企業も限られ、防衛産業の基盤は脆弱である」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「政府が財政支援を講じ、企業に長期投資への確信を持たせるとともに、海外市場の開拓を積極的に後押ししなければ、新たな政策のみで産業構造を転換するのは困難との見方を示した」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「富士通（6702）など注目企業3選 | 鈴木一之、次のトレンド銘柄を探る！ | マネクリ マネックス証券の投資情報とお金に役立つメディア」（https://media.monex.co.jp/articles/-/30189）
+  - 「富士通（6702）など注目企業3選」（https://media.monex.co.jp/articles/-/30189）
+  - 「原材料価格が高止まりして企業の先行きや業績が脅かされています」（https://media.monex.co.jp/articles/-/30189）
+  - 「三菱重工業、NECだけでなく、三菱電機（6503）、IHI（7013）、ジャパンエンジンコーポレーション（6016）など艦艇、レーダー、ソーナー、通信、推進システムを供給する企業にとって、国内の防衛予算にとどまらない新たな市場が開拓されることとなります」（https://media.monex.co.jp/articles/-/30189）
+  - 「「もがみ型」フリゲート艦は海上自衛隊が導入している新しい世代の多機能護衛艦です」（https://media.monex.co.jp/articles/-/30189）
+  - 「オーストラリア海軍が次期フリゲート艦として日本の「もがみ型」フリゲート艦を契約した際、日本は韓国、ドイツ、スペインとの受注競争に競り勝ちました」（https://media.monex.co.jp/articles/-/30189）
+  - 「米海軍も艦艇数や建造能力の不足から、同盟国が建造した艦艇の調達を検討していると伝えられており、そこでも日本製フリゲート艦が有力な候補に挙がっていると聞きます」（https://media.monex.co.jp/articles/-/30189）
+  - 「豪州政府が契約した次期「もがみ」型フリゲート艦にも同社の曳航式パッシブソーナーが採用されている」（https://media.monex.co.jp/articles/-/30189）
+  - 「通信、コンピュータなどのITサービスで国内トップ企業」（https://media.monex.co.jp/articles/-/30189）
+  - 「社会インフラ企業といってもよい」（https://media.monex.co.jp/articles/-/30189）
+  - 「100年以上の歴史を持つ紡績会社の名門企業」（https://media.monex.co.jp/articles/-/30189）
+  - 「その基盤は、大企業から中小・小規模事業者まで、多数の民間企業（防衛産業）により構成されている」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+- 顧客の顧客（発注元が求めること）：
+  - 「内閣官房、外務省、経済産業省、防衛省」（https://www.cas.go.jp/jp/gaiyou/jimu/pdf/r80421_boueigaiyo.pdf）
+  - 「国内の報道によれば、政府は防衛省や関係省庁の幹部らで構成する新たな省庁横断の枠組みを設け、輸出促進体制の強化を図る方針だ」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「2023年11月には、防衛省が2020年契約に基づき、フィリピン向けに初の航空監視レーダーを納入したと発表している」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「装備はかなり充実しており、防衛省によれば、5インチ砲、対艦ミサイル、近接防空システム、垂直発射装置、対潜ソーナー、哨戒ヘリを搭載し、無人潜水機や無人水上艇、対機雷ソーナー、機雷敷設装置まで備えています」（https://media.monex.co.jp/articles/-/30189）
+  - 「金融、流通、製造、官公庁など広範囲な領域で事業を展開している」（https://media.monex.co.jp/articles/-/30189）
+  - 「防衛省向け指揮統制サービス、後方支援サービスをクラウドで提供する」（https://media.monex.co.jp/articles/-/30189）
+  - 「防衛省向けの実績が豊富な日本無線と新日本無線をTOBで買収」（https://media.monex.co.jp/articles/-/30189）
+  - 「（防衛省の直接の契約相手方）」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「▸ 国内調達要求の基準比率を75％に引き上げる」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「艦船・官公庁船事業」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律（令和」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「▸ 令和5年度以降、品質・コスト・納期 （Quality、 Cost、 Delivery） に係る」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「防衛関連企業や防衛省・自衛隊とのマッチングを図り、」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「防衛省・自衛隊のニーズとスタートアップ企業の」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「（防衛省・経済産業省の合同開催）」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+- 顧客の競合（奪いに来る側）：
+  - 「※２ 我が国との防衛装備品技術移転協定の締結国は、現在、１７カ国（米国、英国、豪州、インド、フィリピン、フランス、ドイツ、マレーシア、イタリア、インドネ」（https://www.cas.go.jp/jp/gaiyou/jimu/pdf/r80421_boueigaiyo.pdf）
+  - 「 米国の安全保障上、直ちに許可の発行が必要な緊急事態である旨の説明があれば、上記手続は免除」（https://www.cas.go.jp/jp/gaiyou/jimu/pdf/r80421_boueigaiyo.pdf）
+  - 「また、岸田文雄政権下の2023年12月には、国産の地対空誘導弾パトリオットを米国へ輸出可能とする規制緩和を実施」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「ウクライナ支援に伴う米国の在庫補充を後押しした」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「米国や韓国といった既存の主要生産国と比べ、日本は生産能力の面で大きく後れを取る」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「プロが語る、米国株攻略法」（https://media.monex.co.jp/articles/-/30189）
+  - 「米国とイランの間で起きた武力衝突は、発生から半年が過ぎても停戦合意に至らず、ホルムズ海峡に続いてバブエルマンデブ海峡も封鎖されかねない状況です」（https://media.monex.co.jp/articles/-/30189）
+  - 「オーストラリア海軍が次期フリゲート艦として日本の「もがみ型」フリゲート艦を契約した際、日本は韓国、ドイツ、スペインとの受注競争に競り勝ちました」（https://media.monex.co.jp/articles/-/30189）
+  - 「（朝）米国市場は高安まちまち 3日の米国市場は中間選挙の結果を見極めながら様子...」（https://media.monex.co.jp/articles/-/30189）
+  - 「（まとめ）日経平均は方向感に欠ける展開で208円安の63,081円で続落 明日は米国で...」（https://media.monex.co.jp/articles/-/30189）
+  - 「（朝）米国市場は高安まちまち 3日の米国市場は中間選挙の結果を見...」（https://media.monex.co.jp/articles/-/30189）
+  - 「モトリーフール米国株情報」（https://media.monex.co.jp/articles/-/30189）
+  - 「【米国株動向】次世代の技術革命をけん引する量子コンピューティング...」（https://media.monex.co.jp/articles/-/30189）
+  - 「設定する「韓国産優先獲得制度」を発表（2021）」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「法律上の守秘義務 （6 参考）米国における製造施設等の国有事例」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+- 自社の競合（商社・代理店・仲介）：
+  - 「商品ごとに手数料等およびリスクは異なりますので、詳しくは「契約締結前交付書面」、「上場有価証券等書面」、「目論見書」、「目論見書補完書面」または当社ウェブサイトの「」（https://media.monex.co.jp/articles/-/30189）
+  - 「リスク・手数料などの重要事項に関する説明」（https://media.monex.co.jp/articles/-/30189）
+  - 「リスク・手数料などの重要事項」（https://media.monex.co.jp/articles/-/30189）
+  - 「［1］ European Commission, “Communication from the Commission to the European」（https://www.jetro.go.jp/ext_images/jfile/report/07002013/07002013a.pdf）
+  - 「［2］ European Commission, “Press Release (IP/13/734): Towards a more competitive and」（https://www.jetro.go.jp/ext_images/jfile/report/07002013/07002013a.pdf）
+  - 「［3］ European Commission, “REPORT FROM THE COMMISSION TO THE EUROPEAN」（https://www.jetro.go.jp/ext_images/jfile/report/07002013/07002013a.pdf）
+  - 「［9］ European Commission, “Commission Staff Working Document on Defense」（https://www.jetro.go.jp/ext_images/jfile/report/07002013/07002013a.pdf）
+  - 「商社・卸売り」（https://www.nikkei.com/article/DGXZQOGM257O80V20C26A2000000/）
+  - 「）、③部品等を融通し合う国際的なシステムに参加する場合、④移転先国以外の国の輸出管理制度の下で適切に管理されている完成品に係る部品等を移転する場合、⑤部品等をライセンス元に納入又は輸入元に移転する場合、⑥他国政府又は他国企業が主導する装備品等のサプライチェーンに参画するために部品等を納入する場合、⑦我が国から移転する部品及び技術の相手国への貢献が相当程度小さい場合、⑧自衛隊等の活動や邦人の安全確保に不可欠な場合、⑨我が国の安全保障上の観点から影響が極めて小さいと判断される場合（外国政府や外国企業との調整段階における技術情報の提供等）には、政府間の合意ではなく、仕向先の管理体制の確認をもって適正な管理を確保することも可能としています（※その場合であっても、技術的機微性が高い場合等については、原則として相手国政府に義務付けることとなります」（https://www.meti.go.jp/policy/anpo/qanda01.html）
+  - 「※ 防衛省等から需要者（製造企業、ライセンス元企業等）までの関係企業間全ての契約のつながりを示すもので、直接当該貨物の受け渡しに関与しない仲介企業、代理店等も含めて必要となります」（https://www.meti.go.jp/policy/anpo/qanda01.html）
+  - 「商社・卸売り」（https://www.nikkei.com/article/DGXZQOUA0550Y0V00C25A8000000/）
+  - 「このため、防衛装備庁、海外との取引経験のある商社、装備品を製造する企業が連携して、相手国の潜在的なニーズを把握して、提案に向けた活動を行う「事業実現可能性調査」を2020年度から事業化しています」（https://www.detrap-portal.jp/report/）
+  - 「防衛装備庁、商社、製造企業の連携のもとで、相手国の潜在的なニーズを把握して提案に向けた活動を行う事業実現可能性調査を、2020年度から実施しています」（https://www.mod.go.jp/atla/soubiseisakugijutu.html）
+  - 「防衛装備品 の商社等 を通じた 輸入 による 調達 に関する 会計検」（https://www.jbaudit.go.jp/report/zuiji/pdf/h21/211014_youshi-2.pdf）
+  - 「商社等 の検査結果 を基に一般輸入調達 の取引態様 を分類 すると 、①商社等 が外国製」（https://www.jbaudit.go.jp/report/zuiji/pdf/h21/211014_youshi-2.pdf）
+- 政治（法・予算・規制）：
+  - 「（閣議決定）・運用指針（国家安全保障会議決定）の改正を通じ、移転可能な場合の拡大を重ね、」（https://www.cas.go.jp/jp/gaiyou/jimu/pdf/r80421_boueigaiyo.pdf）
+  - 「② 審査項目を拡充（「国際的な平和及び安全への影響」等に加え、新たに「仕向国・地域の安保環境」、「輸出管理」（https://www.cas.go.jp/jp/gaiyou/jimu/pdf/r80421_boueigaiyo.pdf）
+  - 「※ 運用指針の改定とは別途、防衛装備移転の推進に向けて、政府の司令塔機能を強化するため、まずは関係省庁局長級スキームを設」（https://www.cas.go.jp/jp/gaiyou/jimu/pdf/r80421_boueigaiyo.pdf）
+  - 「在り方を含め、政府全体の体制整備について、三文書改定や防衛生産・技術基盤戦略（仮称）策定に関する議論の中で検討を進める」（https://www.cas.go.jp/jp/gaiyou/jimu/pdf/r80421_boueigaiyo.pdf）
+  - 「ただし、原則禁止とされている国連憲章第５１条の原則に反する武力紛争中の国への輸出については、議会の意見を聴取して閣議決定する必要」（https://www.cas.go.jp/jp/gaiyou/jimu/pdf/r80421_boueigaiyo.pdf）
+  - 「GCAP 「協定」締結国 × 四大臣会合 ＋ 閣議決定」（https://www.cas.go.jp/jp/gaiyou/jimu/pdf/r80421_boueigaiyo.pdf）
+  - 「※４ 過去に政府として海外移転を認め得るとの判断を行った実績がある案件については幹事会とすることも可」（https://www.cas.go.jp/jp/gaiyou/jimu/pdf/r80421_boueigaiyo.pdf）
+  - 「※３ 過去に政府として海外移転を認め得るとの判断を行った実績がある案件については幹事会とすることも可」（https://www.cas.go.jp/jp/gaiyou/jimu/pdf/r80421_boueigaiyo.pdf）
+  - 「政府は防衛装備品の輸出規制を大幅に緩和したが、これを産業の勢いにつなげるには、需要の確保や規模の拡大、継続的な国家支援が不可欠であり、なお課題は多い」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「政府は4月21日、防衛装備品の輸出規制を大幅に緩和する方針を閣議決定した」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「国内の報道によれば、政府は防衛省や関係省庁の幹部らで構成する新たな省庁横断の枠組みを設け、輸出促進体制の強化を図る方針だ」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「今回の方針転換は、防衛装備品の輸出拡大を図る政府の動きの一環である」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「また、岸田文雄政権下の2023年12月には、国産の地対空誘導弾パトリオットを米国へ輸出可能とする規制緩和を実施」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「元陸上自衛隊陸将補の矢野義昭氏は、日本は要素技術に強みを持つとしつつも、「単に規制を緩和しただけでは不十分だ」と指摘する」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「政府が財政支援を講じ、企業に長期投資への確信を持たせるとともに、海外市場の開拓を積極的に後押ししなければ、新たな政策のみで産業構造を転換するのは困難との見方を示した」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+- 経済（規模・価格・為替）：
+  - 「原油価格の指標となるWTI先物価格は、4ヶ月ぶりに105ドル台に上昇しました」（https://media.monex.co.jp/articles/-/30189）
+  - 「現在の売上高は、無線・通信が50％を占め、マイクロデバイス12％、ブレーキ12％、精密機器11％、祖業の繊維は7％となっている」（https://media.monex.co.jp/articles/-/30189）
+  - 「（まとめ）日経平均は方向感に欠ける展開で208円安の63,081円で続落 明日は米国で...」（https://media.monex.co.jp/articles/-/30189）
+  - 「防衛調達に係る予算額（物件費）は約4.0兆円」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「出典： 防衛予算（令和6年度物件費）：予算額（歳出ベース）に糧食費予算額を加え、為替対象経費を除いたもの」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「造船業：日本造船工業会「造船関係資料 本会会員会社船舶部門2022年度売上高（2023年9月）」」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「▸ 大企業は、防需率（全社の売上高に占める防衛事業の売上高の割合）が低く、10%未満を中心に分布」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「▸ 計画期間の事業費※は、17.2兆円程度から43.5兆円程度へ増額され、我が国防衛産業の受注も大幅増」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「前計画（中期防衛力整備計画（平成31年度～平成35年度））の計画額（契約ベース）17.2兆円程度に対し、今計画（防衛力整備計画）の計画額（契約ベース） 43.5兆円程度」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「※2 経費率算定企業の予定価格算定上の利益率の平均値（令和3年度）」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「防衛産業は急成長を遂げており、 2022年には武器輸出額が173億ドル（約2.5兆円）に達するとともに、」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「1 三菱重工業株式会社 255 件 16,803 億円」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「防衛装備品市場の規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「世界の防衛装備品市場規模は、2025年には5,637億2,000万米ドルと評価され、2026年の5,885億2,000万米ドルから2034年には8,305億5,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.4%となる見込みです」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「北米の防衛装備品産業のシェアは、予測期間中に年平均成長率（CAGR）4.2%で成長すると推定されています」（https://straitsresearch.com/jp/report/defence-equipment-market）
+- 社会（人・担い手）：
+  - 「金（ゴールド）の反発は米中間選挙と雇用統計が左右、AI関連決算と米...」（https://media.monex.co.jp/articles/-/30189）
+  - 「技能や設備が」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「○ 国内雇用の創出・保持」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「人手不足への対応」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「▸ 人口減少社会に際し、防衛産業においても人手不足の問題が顕在化」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「高度な技術者・技能者のみならず、特にサプライヤを中心として、」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「・ 必要な資格・技能等」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「▸ 人材育成（技術・ノウハウの習得） 等」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「▸ 社内人材育成」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「武器輸出緩和は日本の防衛産業に追い風 販路拡大も人材確保、海外巨大企業との競争が課題 | Japan Forward」（https://japan-forward.com/ja/defense-sector-builds-momentum-but-must-overcome-hurdles/）
+  - 「武器輸出緩和は日本の防衛産業に追い風 販路拡大も人材確保、海外巨大企業との競争が課題」（https://japan-forward.com/ja/defense-sector-builds-momentum-but-must-overcome-hurdles/）
+  - 「一方で、慢性的な人手不足の中での人材確保や、海外の巨大企業との競争など課題も多い」（https://japan-forward.com/ja/defense-sector-builds-momentum-but-must-overcome-hurdles/）
+  - 「#AIと雇用」（https://instituteofgeoeconomics.org/research/2024030156131/）
+  - 「億円19） 、直接雇用は40 万人で、 これに間接雇用96 万人を加えると 136 万人が従事する裾野の広い産業」（https://www.jetro.go.jp/ext_images/jfile/report/07002013/07002013a.pdf）
+  - 「究開発もカギとなるが、欧州の技術産業では技能を持つ人材の不足は深刻な問題となりつつある」（https://www.jetro.go.jp/ext_images/jfile/report/07002013/07002013a.pdf）
+- 技術（新しい技術・実証）：
+  - 「また、試作用部品の移転であって、相手国への貢献が相当程度小さい場合について」（https://www.cas.go.jp/jp/gaiyou/jimu/pdf/r80421_boueigaiyo.pdf）
+  - 「This post is also available in:」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「豪州と日本は先に、三菱重工業が「もがみ型護衛艦」の能力向上型をベースとするフリゲート艦を共同開発することで合意した」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「オーストラリア海軍次期フリゲート艦の日豪共同開発のベースとなる海上自衛隊の「もがみ」型護衛艦（海上幕僚監部提供）」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「その象徴が、英国、イタリアとの共同開発による次期戦闘機計画「グローバル戦闘航空プログラム（GCAP）」であり、新たな戦略的パートナーシップを通じて高度な軍事技術の確立を目指す狙いがある」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「日英伊が共同開発する次期戦闘機の模型（©Japan Forward）」（https://japan-forward.com/ja/japan-opens-door-for-wider-arms-exports/）
+  - 「AI・半導体」（https://media.monex.co.jp/articles/-/30189）
+  - 「世界一のスーパーコンピュータ「京」に続いて「富岳」も開発」（https://media.monex.co.jp/articles/-/30189）
+  - 「AI・センシングに関する防衛装備品の設計、安全保障領域のサイバーセキュリティも担う」（https://media.monex.co.jp/articles/-/30189）
+  - 「社長直轄の研究開発体制を敷き、コア技術である無線通信にセンシングとAI、データサイエンスを融合して船舶の自動運航システムを開発中」（https://media.monex.co.jp/articles/-/30189）
+  - 「金（ゴールド）の反発は米中間選挙と雇用統計が左右、AI関連決算と米...」（https://media.monex.co.jp/articles/-/30189）
+  - 「【米国株動向】次世代の技術革命をけん引する量子コンピューティング...」（https://media.monex.co.jp/articles/-/30189）
+  - 「すなわち、装備品等の開発・生産を担う防衛生産・技術基盤は、我が国の防衛力そのもの」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「当該分野の国内開発を促進（2018）」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「（2019年） 自衛隊車両の新規開発事業」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+- 検索結果の抜粋：
+  - 「防衛 産業強化へ、殺傷能力ある武器の 輸出 も可能に - Bloomberg — 防衛 産業強化へ、殺傷能力ある武器の 輸出 も可能に - Bloomberg Bloomberg https://www.bloomberg.com > news > articles > 2026-04-21」（https://www.bloomberg.com/jp/news/articles/2026-04-21/TDRRPLKJH6V600）
+  - 「防衛装備品 の輸出解禁。富士通（6702）など注目 企業 3選 — 防衛装備品 の輸出解禁。富士通（6702）など注目 企業 3選 マネクリ https://media.monex.co.jp > articles」（https://media.monex.co.jp/articles/-/30189）
+  - 「我が国の 防衛 産業と 装備 移転 — 我が国の 防衛 産業と 装備 移転 防衛省 PDF https://www.mod.go.jp > meeting > pdf > siryo03_02」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「防衛装備品市場 の規模、 シェア 、成長率、予測（2034年まで） — 防衛装備品市場 の規模、 シェア 、成長率、予測（2034年まで） Straits Research https://straitsresearch.com > 航空宇宙・防衛 > 防衛」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「【“武器 輸出 ルール大転換”】 防衛装備品輸出 ｢5類型｣撤廃…殺傷 ... — 【“武器 輸出 ルール大転換”】 防衛装備品輸出 ｢5類型｣撤廃…殺傷 ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=ZGFT2G-Tuss）
+  - 「防衛装備品 の 商社 等を通じた輸入による調達に関する会計検 ... — 防衛装備品 の 商社 等を通じた輸入による調達に関する会計検 ... 会計検査院 PDF https://www.jbaudit.go.jp > pdf > 211014_youshi-2」（https://www.jbaudit.go.jp/report/zuiji/pdf/h21/211014_youshi-2.pdf）
+  - 「我が国における 防衛装備品調達 をめぐる諸問題 — 我が国における 防衛装備品調達 をめぐる諸問題 国立国会図書館デジタルコレクション PDF https://dl.ndl.go.jp > digidepo_999627_po_069602」（https://dl.ndl.go.jp/view/download/digidepo_999627_po_069602.pdf?contentNo=1）
+  - 「防衛装備品市場 の 規模 、シェア、成長率、予測（2034年まで） — 防衛装備品市場 の 規模 、シェア、成長率、予測（2034年まで） Straits Research https://straitsresearch.com > 航空宇宙・防衛 > 防衛」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「日本成長戦略会議 第1回 防衛 産業WG 事務局説明資料 — 日本成長戦略会議 第1回 防衛 産業WG 事務局説明資料 経済産業省 PDF https://www.meti.go.jp > defense_industry_wg > pdf」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「日本における 防衛 市場 | 業界シェア 市場規模 成長性 2026 — 日本における 防衛 市場 | 業界シェア 市場規模 成長性 2026 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > 航空宇宙/防衛 > 防衛産業」（https://www.gii.co.jp/report/moi2100534-japan-defense-market-share-analysis-industry.html）
+  - 「Defense Equipment Market Size, Share, Growth , Forecast, 2034 — Defense Equipment Market Size, Share, Growth , Forecast, 2034 Straits Research https://straitsresearch.com > report > d...」（https://straitsresearch.com/report/defence-equipment-market）
+
+## 民間航空機（commercial aircraft）
+- 文脈：6 航空・宇宙 ①民間航空機
+- 顧客（金を払う側）：
+  - 「政府公共調達データベース」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「民間航空機受注納入統計(26年9月）」（https://www.iru-miru.com/article/86770）
+  - 「日本航空機開発協会は、26年9月の受注・納入統計を発表した」（https://www.iru-miru.com/article/86770）
+  - 「10th ISLC in Colombo #7：鉛蓄電池の循環を支える責任ある調達と安全なリサイクル」（https://www.iru-miru.com/article/86770）
+  - 「豪Novalithを工場見学、CO₂活用とAIでリチウム精錬の中国依存に挑む」（https://www.iru-miru.com/article/86770）
+  - 「豪Gega Elements、廃棄物からガリウム・ゲルマニウムを回収、日本企業との連携にも意欲」（https://www.iru-miru.com/article/86770）
+  - 「日本企業参加比率：15％」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「日本企業参加比率：21％ 日本企業参加比率：35％」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「実際に我が国においても中小サプライヤー含めて多くの企業が参画」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「航空機完成メーカー」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「エンジン完成メーカー」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「機体メーカー」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「エンジンメーカー」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「装備品メーカー」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「ボーイングの状況：半分が内製、外注も米国企業」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+- 顧客の顧客（発注元が求めること）：
+  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「海洋脱炭素の覇権を握る「次世代船舶」——官民が挑むアンモニア・水素燃料船の実装と長期実証への転換」（https://www.iru-miru.com/article/86770）
+  - 「⚫ 我が国の航空機産業は、戦後７年間の空白期間を経て、米軍機の修理等から再開し、海外OEMとの機体、」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「実際に我が国においても中小サプライヤー含めて多くの企業が参画」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「◆ 航空機生産には、個別に厳格な安全認証が存在し、代替には大きなコス」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「▲本邦の航空機・エンジンのサプライヤー構造概念図」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「ボーイングの状況：安心できるサプライヤーとして評価」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ 我が国の機体構造事業はボーイングの双通路機を中心にTier1サプライヤーとしての地位を確立しているもの」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「OEMs $370.9 $376.5 $373.5 8.2% 9.3% 8.8%」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「注2）OEMs, Electronics, Propulsion：防衛・宇宙を含む」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「外エンジンOEM、国内エンジンメーカーによるJV形式で事業参画」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ その後、RRSP形式でも、海外エンジンOEMとの国際共同開発事業を展開し、低圧系を中心に確かな地」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ 現在、新型コロナウイルス感染症やボーイングの品質問題等の影響によって、部品供給等を行うサプライヤーは、」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「中小サプライヤーの売上減少率の変化 コロナ以前との民間航空機生産額の比較」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+- 顧客の競合（奪いに来る側）：
+  - 「米商務省、民間航空機・同部品への232条調査終了、各国・地域との交渉へ(米国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「インドネシア」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「米国のドナルド・トランプ大統領は7月9日、1962年通商拡大法232条に基づき、商務長官と米国通商代表部（USTR）代表らに対して、民間航空機・ジェットエンジンおよびその部品（以下、民間航空機・同部品）の輸入量調整に向け、」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「商務省は2025年5月、民間航空機・同部品の輸入が米国の国家安全保障に及ぼす影響を判断するための調査を開始した（」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「布告によると、商務長官は、米国の航空機産業が外国のサプライチェーンに過度に依存しており、国家安全保障上の懸念を引き起こしていると認定した一方、直ちに関税を課すべきではないと大統領に勧告した」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「米国はWTOの民間航空機貿易に関する協定の締結国であり、同協定に基づき、民間航空機・同部品に対して関税を課していない」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「（注3）このほか、米国が日本や韓国、英国、EU、台湾と締結した相互貿易協定の中で、232条に基づく鉄鋼、アルミニウム、銅への追加関税を適用しないと定めている」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「ツガミ 27/3期上期、中国向け活況で35.2％増収65.7％営利増に大幅増額」（https://www.iru-miru.com/article/86770）
+  - 「中国・台湾産ニッケル系ステンレス冷延鋼板にAD関税を本決定 10月31日から5年間、中国産は最大42.1%」（https://www.iru-miru.com/article/86770）
+  - 「10th ISLC in Colombo #6：鉛の需要のピークはいつ迎えるのか 中国・インドの再生鉛市場と技術革新」（https://www.iru-miru.com/article/86770）
+  - 「豪Novalithを工場見学、CO₂活用とAIでリチウム精錬の中国依存に挑む」（https://www.iru-miru.com/article/86770）
+  - 「ボーイングの状況：半分が内製、外注も米国企業」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ 米国の航空機産業と比較すると、日本は航空機機体（主に構造部位等）とエンジンに比べて、装備品の」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「シェアが相対的に小さい」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+- 自社の競合（商社・代理店・仲介）：
+  - 「Radio Technical Commission」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「ンあるいは商社経由の取引となっている企業が７社，県内企業の外注となっている企業が５社であっ」（https://www.jstage.jst.go.jp/article/sisj/2019/34/2019_33/_pdf/-char/ja）
+  - 「件の取引で商社経由の形態となっていた」（https://www.jstage.jst.go.jp/article/sisj/2019/34/2019_33/_pdf/-char/ja）
+  - 「同社は直接取引あるいは商社経由で国内航空機メーカーと取引をしており，国内航空機メーカーの」（https://www.jstage.jst.go.jp/article/sisj/2019/34/2019_33/_pdf/-char/ja）
+  - 「AMS材は日本の材料商社での取り扱いが多くなく，調達可」（https://www.jstage.jst.go.jp/article/sisj/2019/34/2019_33/_pdf/-char/ja）
+  - 「次サプライヤーである場合や，商社経由の取引にしているケースがある」（https://www.jstage.jst.go.jp/article/sisj/2019/34/2019_33/_pdf/-char/ja）
+  - 「て主体的に運営するものとならない場合には、これに代わり船舶代理店又は船舶オペレータ」（https://www.meti.go.jp/policy/anpo/law_document/tutatu/26fy/unyou_tsutatsu.pdf）
+  - 「総額から当該輸出契約の履行に直接伴って負担する仲介手数料、代理店手数料、領事査証料、」（https://www.meti.go.jp/policy/anpo/law_document/tutatu/26fy/unyou_tsutatsu.pdf）
+  - 「検数料その他の輸出に附帯する手数料の金額（その金額が妥当なものに限る」（https://www.meti.go.jp/policy/anpo/law_document/tutatu/26fy/unyou_tsutatsu.pdf）
+  - 「（注）① 「輸出契約の履行に直接伴って負担する仲介手数料、代理店手数料」は、当該輸」（https://www.meti.go.jp/policy/anpo/law_document/tutatu/26fy/unyou_tsutatsu.pdf）
+  - 「出契約の内容に仲介手数料又は代理店手数料を支払うべきことに関する定めがある」（https://www.meti.go.jp/policy/anpo/law_document/tutatu/26fy/unyou_tsutatsu.pdf）
+  - 「場合（いわゆるシングル・トランザクションの場合）における当該手数料に限るも」（https://www.meti.go.jp/policy/anpo/law_document/tutatu/26fy/unyou_tsutatsu.pdf）
+  - 「② 「金額が妥当なもの」は、輸出に附帯する手数料の金額が、次に該当する場合とす」（https://www.meti.go.jp/policy/anpo/law_document/tutatu/26fy/unyou_tsutatsu.pdf）
+  - 「イ 仲介手数料及び代理店手数料については、その合計額が当該輸出貨物代金の１」（https://www.meti.go.jp/policy/anpo/law_document/tutatu/26fy/unyou_tsutatsu.pdf）
+  - 「ロ 仲介手数料及び代理店手数料以外の手数料については、その手数料の合計額が輸」（https://www.meti.go.jp/policy/anpo/law_document/tutatu/26fy/unyou_tsutatsu.pdf）
+- 政治（法・予算・規制）：
+  - 「世界各国の関税率」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「政府公共調達データベース」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「現時点の追加関税の適用は見送られた一方、今後の交渉状況によっては、追加関税などの輸入制限措置が講じられる可能性が残されている」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「232条は、特定製品の輸入が国家安全保障上の脅威となると商務長官が判断した場合に、追加関税などの措置を発動する権限を大統領に認めている」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「商務長官が脅威の存在を認定した場合、大統領は報告を受けてから90日以内に対応策を発表しなければならない」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「布告によると、商務長官は、米国の航空機産業が外国のサプライチェーンに過度に依存しており、国家安全保障上の懸念を引き起こしていると認定した一方、直ちに関税を課すべきではないと大統領に勧告した」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「トランプ政権2期目に開始された232条調査のうち、追加関税の賦課が見送られたのは、2026年1月に調査結果が公表された重要鉱物に続き2回目となる（」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「米国はWTOの民間航空機貿易に関する協定の締結国であり、同協定に基づき、民間航空機・同部品に対して関税を課していない」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「このため今後、追加関税措置を発動した場合、同協定に抵触する可能性がある」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「このほか、2026年2月から発動している1974年通商法122条に基づく課徴金についても、民間航空機・同部品を措置の対象外としており（注3）、トランプ政権の関税措置がこれらの品目に与える影響は限定的となっている」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「（注2）トランプ氏は、交渉状況や結果次第で関税を含む是正措置を検討する可能性があるとしている」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「（注3）このほか、米国が日本や韓国、英国、EU、台湾と締結した相互貿易協定の中で、232条に基づく鉄鋼、アルミニウム、銅への追加関税を適用しないと定めている」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「中国・台湾産ニッケル系ステンレス冷延鋼板にAD関税を本決定 10月31日から5年間、中国産は最大42.1%」（https://www.iru-miru.com/article/86770）
+- 経済（規模・価格・為替）：
+  - 「英豪リオ・ティント、アルゼンチンでのリチウム生産を拡大へ 2200億円を追加投資」（https://www.iru-miru.com/article/86770）
+  - 「⚫ 我が国航空機産業は着実に成長を続けており、コロナ前には売上高ベースで2兆円規模にまで発展した」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「（2016~2018年平均）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「約2000億円ともいわれる」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「機体 55.0%（0.61兆円） 29.0%（2.86兆円）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「エンジン 33.3%（0.37兆円） 32.6%（3.22兆円）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「装備品 11.7%（0.13兆円） 38.4%（3.79兆円）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「合計 1.11兆円 9.87兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「注）記載の金額は各社航空部門の売上額（2022年時点、一部2021年時点）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「（※）民間部門から撤退 売上額は2018年のもの防衛機事業に参画民間航空機事業にも参画」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「1.38兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「（1）山形県Ｋ社（資本金：2,000万円 従業員数48人）」（https://www.jstage.jst.go.jp/article/sisj/2019/34/2019_33/_pdf/-char/ja）
+  - 「（2）山形県Ｉ社（資本金： 4,000万円 従業員数：35人）」（https://www.jstage.jst.go.jp/article/sisj/2019/34/2019_33/_pdf/-char/ja）
+  - 「この時は航空機産業での受注はなかったが，取得に200万円の費用をかけて取」（https://www.jstage.jst.go.jp/article/sisj/2019/34/2019_33/_pdf/-char/ja）
+  - 「（3）山形県Ｊ社（資本金：3,830万円 従業員数：44人）」（https://www.jstage.jst.go.jp/article/sisj/2019/34/2019_33/_pdf/-char/ja）
+- 社会（人・担い手）：
+  - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「• 大量生産を支える人材の確保」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「受注減少及びこれに伴う経営状況の悪化、人材流出など厳しい環境にある」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ 一方で、試験データ・設備、開発プロセスを経験した人材、CRJ事業等から得られた知見も多くあり、これらも」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ 対中競争力強化法の成立、中小メーカー向け支援、インフラ投資雇用法の活用、重要鉱物資源の国内生」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「• 企業ブランドを強化し新たな人材を惹きつけ」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「人材・技術面での関わり」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「③ 専門人材の獲得・維持」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「人材不足・育成」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「• 人材面での課題の把握、人材の育成・獲得」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「• 人材確保・育成」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「人材確保・育成」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ 今後の航空需要拡大を支える人材の確」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「人材育成を狙った国際連携を推進」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「（人材、技術、事業機会）を厚くする」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+- 技術（新しい技術・実証）：
+  - 「LME DAILY」（https://www.iru-miru.com/article/86770）
+  - 「日本航空機開発協会は、26年9月の受注・納入統計を発表した」（https://www.iru-miru.com/article/86770）
+  - 「海洋脱炭素の覇権を握る「次世代船舶」——官民が挑むアンモニア・水素燃料船の実装と長期実証への転換」（https://www.iru-miru.com/article/86770）
+  - 「豪Novalithを工場見学、CO₂活用とAIでリチウム精錬の中国依存に挑む」（https://www.iru-miru.com/article/86770）
+  - 「エンジンの国際共同開発等を通じて成長してきた」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「11開発するも頓挫」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「国際共同開発による成長」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「次期戦闘機開発」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「2020～開発」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「出典：一般財団法人日本航空機開発協会「令和3年度民間航空機関連データ集」」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「日本の状況：YS-11の後継/YXとして国際共同開発を検討」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「ボーイングの状況：747事業不調での資金不足、757/767同時開発への要員不足に対応するため、共同開発相手を探す」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「ボーイングの状況：自社開発に注力」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「国際共同開発は視野外」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「ボーイングの状況：社内状況で開発中止」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+- 検索結果の抜粋：
+  - 「米商務省、 民間航空機 ・同部品への232条調査終了 ... - ジェトロ — 米商務省、 民間航空機 ・同部品への232条調査終了 ... - ジェトロ ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/07」（https://www.jetro.go.jp/biznews/2026/07/78507bbf50fdfb9d.html）
+  - 「民間航空機 受注納入統計(26年9月） - MIRU — 民間航空機 受注納入統計(26年9月） - MIRU Iru-miru.com https://www.iru-miru.com > article」（https://www.iru-miru.com/article/86770）
+  - 「9月米製造業新規受注は1.8％増、予想上回る 民間航空機 が ... — 9月米製造業新規受注は1.8％増、予想上回る 民間航空機 が ... Reuters https://www.reuters.com > markets > japan > 56DN6J5SN...」（https://www.reuters.com/jp/markets/japan/56DN6J5SNRKL7EPCYIGXRKIXRE-2026-11-03/）
+  - 「民間航空機 市場規模（ 2026 年～2033年）：レポートには年間 ... — 民間航空機 市場規模（ 2026 年～2033年）：レポートには年間 ... LinkedIn https://jp.linkedin.com > pulse > 民間航空機市場規模202...」（https://jp.linkedin.com/pulse/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E6%A9%9F%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026%E5%B9%B42033%E5%B9%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%AF%E5%B9%B4%E9%96%93cagr-136%E3%81%A7%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%88%90%E9%95%B7%E3%81%8C%E3%81%99%E3%81%B9%E3%81%A6%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-xenovantab-vkxie）
+  - 「民間航空機 エンジンメーカーにおける国際分業の構造 — 民間航空機 エンジンメーカーにおける国際分業の構造 立命館大学 PDF https://www.ritsumei.ac.jp > ssrc > memoirs > kiyou37」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
+  - 「国産 民間 旅客機で 中国 産・SAFの飛行性能良好実証（2024.6） — 国産 民間 旅客機で 中国 産・SAFの飛行性能良好実証（2024.6） 株式会社グリーンプロダクション https://greenproduction.co.jp > archives」（https://greenproduction.co.jp/archives/23516）
+  - 「【東京駅徒歩2分/ 海外 営業】 航空機 部品の 代理店 営業 ... — 【東京駅徒歩2分/ 海外 営業】 航空機 部品の 代理店 営業 ... Indeed https://jp.indeed.com > viewjob」（https://jp.indeed.com/viewjob?jk=617b4fd4b5865745）
+  - 「民間航空機市場規模 （ 2026 年～2033年）：レポートには年間 ... — 民間航空機市場規模 （ 2026 年～2033年）：レポートには年間 ... LinkedIn https://jp.linkedin.com > pulse > 民間航空機市場規模202...」（https://jp.linkedin.com/pulse/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E6%A9%9F%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026%E5%B9%B42033%E5%B9%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%AF%E5%B9%B4%E9%96%93cagr-136%E3%81%A7%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%88%90%E9%95%B7%E3%81%8C%E3%81%99%E3%81%B9%E3%81%A6%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-xenovantab-vkxie）
+  - 「『 民間航空機 に関する市場予測 2026 -2045 』 — 『 民間航空機 に関する市場予測 2026 -2045 』 岐阜県産業経済振興センター https://www.gpc-gifu.or.jp > topics > 2026080301」（https://www.gpc-gifu.or.jp/topics/2026080301/index.asp）
+  - 「Commercial Aircraft Market Size & YoY Growth Rate, 2026-2033 — Commercial Aircraft Market Size & YoY Growth Rate, 2026-2033 Coherent Market Insights https://www.coherentmarketinsights.com > market-insight」（https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304）
+  - 「Commercial Aircraft Market Size , Share | Growth Report [2034] — Commercial Aircraft Market Size , Share | Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/commercial-aircraft-market-115356）
+
+## 航空機エンジン（aircraft engine）
+- 文脈：6 航空・宇宙 ①民間航空機
+- 顧客（金を払う側）：
+  - 「企業ニュース」（https://japan.storm.mg/articles/1050628）
+  - 「このエンジンは中国が独自開発したC919大型旅客機に使用されており、OEMメーカーも同時に出荷を再開したとのことだ」（https://japan.storm.mg/articles/1050628）
+  - 「中国商務部によれば、すでに一部企業が米国商務省から通知を受け、中国への特定製品の輸出が再開された」（https://japan.storm.mg/articles/1050628）
+  - 「情報安全か全面監視か？中国の「デジタル身分証」導入へ、11億のネットユーザーデータが北京の手に」（https://japan.storm.mg/articles/1050628）
+  - 「この制度により、ネット上の本人確認の責任が企業から政府に移されることとなる」（https://japan.storm.mg/articles/1050628）
+  - 「Apple 脱中国？鴻海がインド工場の中国人スタッフ撤退へ 専門家「戦略調整の一環」」（https://japan.storm.mg/articles/1050628）
+  - 「鴻海（ホンハイ）が南インドのiPhone組立工場に派遣していた多数の中国籍スタッフを帰国させていたことが分かった」（https://japan.storm.mg/articles/1050628）
+  - 「サムスン、テキサス工場で受注ゼロ TSMCとの格差拡大、2ナノ計画も延期に」（https://japan.storm.mg/articles/1050628）
+  - 「日本企業参加比率：15％」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「日本企業参加比率：21％ 日本企業参加比率：35％」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「実際に我が国においても中小サプライヤー含めて多くの企業が参画」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「航空機完成メーカー」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「エンジン完成メーカー」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「機体メーカー」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「エンジンメーカー」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+- 顧客の顧客（発注元が求めること）：
+  - 「このエンジンは中国が独自開発したC919大型旅客機に使用されており、OEMメーカーも同時に出荷を再開したとのことだ」（https://japan.storm.mg/articles/1050628）
+  - 「同時にOEM（相手先ブランド生産）各社も出荷を再開しており、これまでの技術封鎖によって生じていた生産上のボトルネックの解消にもつながると期待されている」（https://japan.storm.mg/articles/1050628）
+  - 「今後、ユーザーはウェブサイトやアプリログイン時に個人情報を提供する代わりに、デジタルIDだけで完全に認証が可能となる」（https://japan.storm.mg/articles/1050628）
+  - 「台湾・陸委会副主委の梁文傑氏は本日、中国出身配偶者に台湾の身分を与える際、まず台湾の身分を付与するが、3ヶ月以内に中国の除籍を要求し、今後この3ヶ月の期限が切れた場合、除籍が完了していない場合は台湾の身分を取り消すとし、「今後この措置は非常に厳格に実行される」と述べた」（https://japan.storm.mg/articles/1050628）
+  - 「⚫ 我が国の航空機産業は、戦後７年間の空白期間を経て、米軍機の修理等から再開し、海外OEMとの機体、」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「実際に我が国においても中小サプライヤー含めて多くの企業が参画」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「◆ 航空機生産には、個別に厳格な安全認証が存在し、代替には大きなコス」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「▲本邦の航空機・エンジンのサプライヤー構造概念図」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「ボーイングの状況：安心できるサプライヤーとして評価」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ 我が国の機体構造事業はボーイングの双通路機を中心にTier1サプライヤーとしての地位を確立しているもの」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「OEMs $370.9 $376.5 $373.5 8.2% 9.3% 8.8%」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「注2）OEMs, Electronics, Propulsion：防衛・宇宙を含む」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「外エンジンOEM、国内エンジンメーカーによるJV形式で事業参画」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ その後、RRSP形式でも、海外エンジンOEMとの国際共同開発事業を展開し、低圧系を中心に確かな地」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ 現在、新型コロナウイルス感染症やボーイングの品質問題等の影響によって、部品供給等を行うサプライヤーは、」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+- 顧客の競合（奪いに来る側）：
+  - 「米国、対中輸出規制を一部緩和 EDAやジェットエンジンの供給再開へ | 周育信（シユウ・イクシン） | ニュース - 風傳媒日本語版」（https://japan.storm.mg/articles/1050628）
+  - 「米国、対中輸出規制を一部緩和 EDAやジェットエンジンの供給再開へ」（https://japan.storm.mg/articles/1050628）
+  - 「『澎湃新聞』によると、米国GE航空宇宙は中国商飛へのLEAP-1Cジェットエンジンの供給を再開した」（https://japan.storm.mg/articles/1050628）
+  - 「このエンジンは中国が独自開発したC919大型旅客機に使用されており、OEMメーカーも同時に出荷を再開したとのことだ」（https://japan.storm.mg/articles/1050628）
+  - 「中国の反応 「法に基づく審査」と冷静な対応を強調」（https://japan.storm.mg/articles/1050628）
+  - 「中国とアメリカは最近、ロンドンで高官級による経済・貿易会談を開催し、その成果の実行に踏み出した」（https://japan.storm.mg/articles/1050628）
+  - 「中国商務部は7月4日、米国側が中国に対する一連の輸出規制および制限措置の一部を自主的に解除し、正式に中国側に通告したことを明らかにした」（https://japan.storm.mg/articles/1050628）
+  - 「中国商務部によれば、すでに一部企業が米国商務省から通知を受け、中国への特定製品の輸出が再開された」（https://japan.storm.mg/articles/1050628）
+  - 「これらはいずれも過去に米国側が安全保障や技術機密の観点から輸出を制限していた製品であり、今回の一部解除は規制実務の柔軟化を示すものである」（https://japan.storm.mg/articles/1050628）
+  - 「中国側も、今回の米国の措置に対して法的手続きに基づいた対応を取っていると強調している」（https://japan.storm.mg/articles/1050628）
+  - 「中国商務部の報道官は、輸出規制対象の製品については許可申請を受け付け、審査を行っていると述べた」（https://japan.storm.mg/articles/1050628）
+  - 「これは、中国が対等かつ理性的に二国間のやり取りに臨んでいる姿勢の表れである」（https://japan.storm.mg/articles/1050628）
+  - 「中国側は、対話と協力こそが正しい道であり、一方的な制裁や圧力には反対するとあらためて表明した」（https://japan.storm.mg/articles/1050628）
+  - 「中国メディア『澎湃新聞』によると、アメリカのGE航空宇宙は、中国の国産航空機C919に搭載されるLEAP-1C型ジェットエンジンの供給を再開した」（https://japan.storm.mg/articles/1050628）
+  - 「これは、中国の航空産業にとって大きな前進を意味する」（https://japan.storm.mg/articles/1050628）
+- 自社の競合（商社・代理店・仲介）：
+  - 「トランプ氏は、イスラエルが60日間の停戦条件に同意したと一方的に表明し、ハマスに対して、エジプトとカタールの仲介による「最終提案」を受け入れるよう強く迫った」（https://japan.storm.mg/articles/1050628）
+  - 「Radio Technical Commission」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「商社を活用した輸出拡大支援」（https://www.tokyo-kosha.or.jp/TTC/column/business/34.html）
+  - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「Radio Technical Commission」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/002_04_00.pdf）
+  - 「当社は商社として、メーカーの製品を海外へ輸出している」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_level2.pdf）
+  - 「当社（商社）」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_level2.pdf）
+  - 「同時に、バリューチェーンを伸ばす商社の本領を発揮するためには、既存事業に終始することなく、航空機のライフサイクル全体を見据えた事業展開の必要性も感じていました」（https://www.sumitomocorp.com/ja/jp/enrich/contents/0047）
+  - 「また、アメリカでは航空機部品の転売だけを行う会社も多い中で、退役機の買い取りから、解体、整備、販売まで一連の流れを手がけるビジネス構造も独自性があり、総合商社である住商のマインドに通じるところがあることにも気づきました」（https://www.sumitomocorp.com/ja/jp/enrich/contents/0047）
+  - 「しており、商社を経由してそれを購入している」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_11_03.pdf）
+  - 「最近は、航空宇宙用の材料でも商社が仲立ちするよ」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_11_03.pdf）
+  - 「基礎材であっても、JIS 材は使うことができず、商社を」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_11_03.pdf）
+  - 「M&A仲介ならand A company」（https://www.ee-ties.com/magazine/14425/）
+  - 「販売代理店 株式会社グローバルインフォメーション」（https://prtimes.jp/main/html/rd/p/000001082.000071640.html）
+- 政治（法・予算・規制）：
+  - 「米国、対中輸出規制を一部緩和 EDAやジェットエンジンの供給再開へ | 周育信（シユウ・イクシン） | ニュース - 風傳媒日本語版」（https://japan.storm.mg/articles/1050628）
+  - 「米国、対中輸出規制を一部緩和 EDAやジェットエンジンの供給再開へ」（https://japan.storm.mg/articles/1050628）
+  - 「解除された主な輸出規制 EDAやジェットエンジンが対象に」（https://japan.storm.mg/articles/1050628）
+  - 「中国商務部は7月4日、米国側が中国に対する一連の輸出規制および制限措置の一部を自主的に解除し、正式に中国側に通告したことを明らかにした」（https://japan.storm.mg/articles/1050628）
+  - 「これらはいずれも過去に米国側が安全保障や技術機密の観点から輸出を制限していた製品であり、今回の一部解除は規制実務の柔軟化を示すものである」（https://japan.storm.mg/articles/1050628）
+  - 「中国商務部の報道官は、輸出規制対象の製品については許可申請を受け付け、審査を行っていると述べた」（https://japan.storm.mg/articles/1050628）
+  - 「中国政府は15日に「デジタルID」制度を実施する計画を進めている」（https://japan.storm.mg/articles/1050628）
+  - 「この制度により、ネット上の本人確認の責任が企業から政府に移されることとなる」（https://japan.storm.mg/articles/1050628）
+  - 「政府は情報の安全性強化と個人情報保護を狙いとしているとするが、一方でデジタル管理強化を懸念する声も少......」（https://japan.storm.mg/articles/1050628）
+  - 「日米関税交渉の行方不明確 石破茂首相が再びトランプ大統領に反論「カリフォルニア米を購入済み」」（https://japan.storm.mg/articles/1050628）
+  - 「ちょうど外界でアメリカと日本の今回の関税を巡る議論が熱を帯びている時期、アメリカのトランプ大統領が連日のように日本を批判、石破茂首相は口頭で「反撃」する状況が続いている中、アメリカ側は今週金曜日から各国に新たな「対等関税」率を通知することを決定した」（https://japan.storm.mg/articles/1050628）
+  - 「日米関税交渉」（https://japan.storm.mg/articles/1050628）
+  - 「台湾・台北市政府は7月3日、台湾を代表する夏の祭典「2025大稻埕サマーフェスティバル」の詳細を発表した」（https://japan.storm.mg/articles/1050628）
+  - 「米国が日本車に25％の関税、トランプ氏が貿易赤字に不満米国はこのほど、非米国製のすべての輸入車および部品に25％の関税を課すと発表し、長年にわたる貿易赤字の対象として日本を名指しした」（https://japan.storm.mg/articles/1050628）
+  - 「台湾の賴清徳総統が1日夜に行った「団結国家十講」の第4講では「国防」がテーマとなったが、内容は台電の補助金や軍人の待遇、さらには航空業界の反発を招いた出世ルールの話など多岐にわたり、波紋を呼んだ」（https://japan.storm.mg/articles/1050628）
+- 経済（規模・価格・為替）：
+  - 「国際的な原油価格の変動を受け、チャイナエアライン（華航）、エバー航空（長榮航空）、スターラックス航空（星宇航空）は、7月7日より燃油サーチャージの値上げを実施すると発表した」（https://japan.storm.mg/articles/1050628）
+  - 「トランプ氏「この国をロケットに」大型減税法案が成立、移民対策に24兆円投入へ」（https://japan.storm.mg/articles/1050628）
+  - 「⚫ 我が国航空機産業は着実に成長を続けており、コロナ前には売上高ベースで2兆円規模にまで発展した」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「（2016~2018年平均）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「約2000億円ともいわれる」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「機体 55.0%（0.61兆円） 29.0%（2.86兆円）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「エンジン 33.3%（0.37兆円） 32.6%（3.22兆円）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「装備品 11.7%（0.13兆円） 38.4%（3.79兆円）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「合計 1.11兆円 9.87兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「注）記載の金額は各社航空部門の売上額（2022年時点、一部2021年時点）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「（※）民間部門から撤退 売上額は2018年のもの防衛機事業に参画民間航空機事業にも参画」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「1.38兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「市場規模は、日本は約1.8兆円、世界市場は約130兆円という規模感」（https://www.tokyo-kosha.or.jp/TTC/column/business/34.html）
+  - 「約130兆円のうち、航空機製造が14兆円、エンジン・装備品が12兆円、材料・部材が2.4兆円、エアラインが69兆円となっている」（https://www.tokyo-kosha.or.jp/TTC/column/business/34.html）
+  - 「④ 見込生産であり、受注残が約10年と長期的な売上予測を立てることができる」（https://www.tokyo-kosha.or.jp/TTC/column/business/34.html）
+- 社会（人・担い手）：
+  - 「2027年の台湾侵攻は当面見送りか？米中の戦略再編の中で中国が演じる「平和の担い手」」（https://japan.storm.mg/articles/1050628）
+  - 「舞台裏》親密な台日関係に潜む「人材の空白」 外交人材の継承に懸念」（https://japan.storm.mg/articles/1050628）
+  - 「• 大量生産を支える人材の確保」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「受注減少及びこれに伴う経営状況の悪化、人材流出など厳しい環境にある」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ 一方で、試験データ・設備、開発プロセスを経験した人材、CRJ事業等から得られた知見も多くあり、これらも」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ 対中競争力強化法の成立、中小メーカー向け支援、インフラ投資雇用法の活用、重要鉱物資源の国内生」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「• 企業ブランドを強化し新たな人材を惹きつけ」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「人材・技術面での関わり」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「③ 専門人材の獲得・維持」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「人材不足・育成」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「• 人材面での課題の把握、人材の育成・獲得」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「• 人材確保・育成」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「人材確保・育成」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「⚫ 今後の航空需要拡大を支える人材の確」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「人材育成を狙った国際連携を推進」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+- 技術（新しい技術・実証）：
+  - 「このエンジンは中国が独自開発したC919大型旅客機に使用されており、OEMメーカーも同時に出荷を再開したとのことだ」（https://japan.storm.mg/articles/1050628）
+  - 「対象となるのは、EDA（電子設計自動化）ソフトウェア、エタン由来の化学原料、そしてジェットエンジンなどの先端装備である」（https://japan.storm.mg/articles/1050628）
+  - 「EDA電子設計自動化ソフト」（https://japan.storm.mg/articles/1050628）
+  - 「Gemini「パーソナライズドAIサービス」正式開始！ 新機能は何が変わる？Gmail・YouTube・写真との連携や有効化手順を一挙公開」（https://japan.storm.mg/articles/1050628）
+  - 「開発したのは、日本の徳島県と高知県を結ぶ第三......」（https://japan.storm.mg/articles/1050628）
+  - 「Daily View」（https://japan.storm.mg/articles/1050628）
+  - 「AI進化、7か月で能力倍増 人類に壊滅的リスクの可能性も研究が警鐘」（https://japan.storm.mg/articles/1050628）
+  - 「研究者らはさらに大胆な予測を示し、この傾向が続いた場合、2030年には最先端のAIモデルが、これまで人間の専門家が1か月かけてようやく成し遂げていた複雑な作業を、わずか数時間で完了できるようにな......」（https://japan.storm.mg/articles/1050628）
+  - 「生成AI利用に関する基本方針」（https://japan.storm.mg/articles/1050628）
+  - 「エンジンの国際共同開発等を通じて成長してきた」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「11開発するも頓挫」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「国際共同開発による成長」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「次期戦闘機開発」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「2020～開発」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+  - 「出典：一般財団法人日本航空機開発協会「令和3年度民間航空機関連データ集」」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2023_001_02_00.pdf）
+- 検索結果の抜粋：
+  - 「民間 航空機エンジン メーカーにおける国際分業の構造 — 民間 航空機エンジン メーカーにおける国際分業の構造 立命館大学 PDF https://www.ritsumei.ac.jp > ssrc > memoirs > kiyou37」（https://www.ritsumei.ac.jp/acd/re/ssrc/result/memoirs/kiyou37/37-01.pdf）
+  - 「航空機エンジン市場 規模、 シェア 、業界レポート、2035年 — 航空機エンジン市場 規模、 シェア 、業界レポート、2035年 Global Market Insights Inc. https://www.gminsights.com > aircraft-engine-market」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「航空機エンジン市場 規模、 シェア 、動向 |成長 [2034] — 航空機エンジン市場 規模、 シェア 、動向 |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 航空」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766）
+  - 「2032 年までの完全な SWOT 分析による 航空機エンジン市場 ... — 2032 年までの完全な SWOT 分析による 航空機エンジン市場 ... inkrich https://aerospaceanddefense.inkrich.com > posts」（https://aerospaceanddefense.inkrich.com/posts/26/）
+  - 「中国 の商用 航空機エンジン 、今後20年の市場シェアは世界の ... — 中国 の商用 航空機エンジン 、今後20年の市場シェアは世界の ... 人民網日本語版 https://j.people.com.cn > ...」（https://j.people.com.cn/n3/2024/1115/c95952-20242266.html）
+  - 「中国 が 航空機エンジン 開発に本腰、海外から専門家を33兆円 ... — 中国 が 航空機エンジン 開発に本腰、海外から専門家を33兆円 ... Record China https://www.recordchina.co.jp > 経済」（https://www.recordchina.co.jp/b132680-s0-c20-d0045.html）
+  - 「航空機エンジン市場規模 、シェア、動向 |成長 [2034] — 航空機エンジン市場規模 、シェア、動向 |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 航空」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766）
+  - 「航空機エンジン市場規模 、シェア、業界レポート、2035年 — 航空機エンジン市場規模 、シェア、業界レポート、2035年 Global Market Insights Inc. https://www.gminsights.com > aircraft-engine-market」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「航空機エンジン市場 の 規模 、シェア、業界動向（2031年まで） — 航空機エンジン市場 の 規模 、シェア、業界動向（2031年まで） Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/aircraft-engines-market）
+  - 「ジェット エンジン市場 の見通し 2026 ～2035年 — ジェット エンジン市場 の見通し 2026 ～2035年 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/jet-engines-market-100657）
+  - 「Aircraft Engine Market Size, Share, Trends | Growth [2034] — Aircraft Engine Market Size, Share, Trends | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766）
+  - 「Aircraft Engine Market Size, Share & Industry Report, 2035 — Aircraft Engine Market Size, Share & Industry Report, 2035 Global Market Insights Inc. https://www.gminsights.com > aircraft...」（https://www.gminsights.com/industry-analysis/aircraft-engine-market）
+  - 「Aircraft Engine Market - Industry Analysis Forecast 2034 — Aircraft Engine Market - Industry Analysis Forecast 2034 Stellar Market Research https://www.stellarmr.com > report」（https://www.stellarmr.com/report/Aircraft-Engine-Market/444）
+  - 「Aircraft Engine Market Size, Share , Trends | Growth [2034] — Aircraft Engine Market Size, Share , Trends | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766）
+
+## 産業用ドローン（commercial drone）
+- 文脈：6 航空・宇宙 ②無人航空機
+- 顧客（金を払う側）：
+  - 「中国製ドローンはいつまで使える？輸出規制と調達リスク【2026年】」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「ドローン導入・事業開発支援」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「ドローンの導入事例」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「監修範囲：メーカー仕様、法令、数値、導入条件、出典の確認」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「日本の政府調達は、2020年から動いている」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「「いつまで使えるか」は法律ではなく調達要件が決める」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「実際に日本のドローン調達へ影響しているのは、次の3つです」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「：日本企業を名指しした中国のデュアルユース規制リスト」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「：日本政府の調達方針と、米国の連邦資金プロジェクトにおける禁止規定」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「輸出管理や調達要件に加え、都市内での機体の保有・保管を制限する動きもあります」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「調達判断では「何が・誰に・どの案件で効くか」を分けて確認します」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「※日本の民間企業に直接適用されるのは②の名指し企業のみです」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「①は調達先を通じて間接的に、③は米国の連邦資金が絡むプロジェクトでのみ効きます」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「ただしその後、許可を取得した企業が増えたことで6月以降は回復し、7月以降はおおむね過去2年間の単月実績と同等の水準に戻っています」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「さらに具体的なのが、日本の企業・団体を名指しした二つのリストです」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+- 顧客の顧客（発注元が求めること）：
+  - 「：日本政府の調達方針と、米国の連邦資金プロジェクトにおける禁止規定」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「以上含む外国製造品にまで中国の許可を要求する域外適用ルール」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「納期が読めない状態が常態化している、と考えたほうが実態に近い」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「納期の長期化や突然の出荷停止を平時から織り込んでおく」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「米国側の状況は、FCC認証や政府調達の制限だけでは終わっていません」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「日本のユーザーにとっては、前者が納期と価格に、後者が調達要件に効いてきます」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「官公庁・重要インフラ向けドローンの情報セキュリティ要件」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「モーター、電池、カメラ、フライトコントローラ、通信モジュールについて、原産国と一次サプライヤーを機種ごとに一覧にする」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「これができていない状態では、11月の判断も、発注元からの照会にも答えられません」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「官公庁案件を受託する事業者は、発注側の要件が固まる前に自社の基準を決めておくほうが動きやすくなります」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「完成機の製造国だけを見るのか、重要部品まで遡るのか、セキュリティ認証の有無を条件にするのか」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「「いつまで使えるか」を決めるのは、規制そのものよりも、発注元がどんな要件を書くか」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「SkyLinkでは、産業用ドローンの機体選定、非中国製機体を含む構成の検討、官公庁・インフラ案件の調達要件への適合について、個別にご相談を承っています」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「輸出管理制度、関税、調達方針、係争中の訴訟の状況は変更される可能性があります」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「官公庁・重要インフラ向けドローンの情報セキュリティ要件【2026年版】」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+- 顧客の競合（奪いに来る側）：
+  - 「中国製ドローンはいつまで使える？輸出規制と調達リスク【2026年】」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「中国製ドローンはいつまで使えるのか｜レアアース輸出規制と部材供給リスクの実務対応【2026年版】」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「中国製ドローンはいつまで使えるのか」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「調査基準日：2026年8月31日（米国の関税・市場動向は2026年9月16日更新）」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「「中国製ドローンは、いつまで使えるのか」」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「中国の輸出規制、米国のDJI規制、日本の経済安全保障」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「「そのうち中国製ドローンは買えなくなる」」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「中国のレアアース・部材規制は、一部が「停止中」のまま動いている」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「米国の規制だけが、完成機と重要部品を名指しした」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「2026年8月末時点で、中国が日本向けにドローン完成機の輸出を規制した事実は確認できません」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「中国がドローン完成機・主要部品・関連技術を名指しで規制対象にしたのは」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「商務部公告2026年第34号がそれにあたり、対象国は米国と明記されています」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「中国商務部「商務部公告2026年第34号 無人機関連デュアルユース品目の対米輸出管理強化の公布」、2026年8月5日公布・同日施行」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「：日本企業を名指しした中国のデュアルユース規制リスト」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「：日本政府の調達方針と、米国の連邦資金プロジェクトにおける禁止規定」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+- 自社の競合（商社・代理店・仲介）：
+  - 「それが米国、軍や警察部隊、管理下にある組織、または第三国に転送される場合、実際の流れを特定し、仲介者を暴露する必要があります」（https://0523.tw/china-drone-export-control?lang=ja）
+  - 「仲介業者や積み替えルートを明記する必要があります」（https://0523.tw/china-drone-export-control?lang=ja）
+  - 「電子商取引プラットフォームや代理店に置き換えることはできません」（https://0523.tw/china-drone-export-control?lang=ja）
+  - 「輸入税・手数料の試算」（https://0523.tw/china-drone-export-control?lang=ja）
+  - 「記事が描いたのは、重工大手からドローン専業、さらにはIT企業や商社、造船会社までが、防衛向けの無人機に一斉に動き出した姿です」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「重工、電機、IT、商社、造船と、業種の壁を越えて参入が相次いでいます」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「商社は、海外メーカーと日本の官公庁や企業をつなぐ窓口として、防衛分野で長い経験を持っています」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「新興企業が単独では越えにくい日本市場の入り口を、商社が開く形です」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「単に海外の完成機を輸入して売るだけの代理店型なのか、国内に工場を建てて生産する型なのか、設計や改良まで国内でできる型なのか」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「カタログにない条件は、メーカーや国内代理店から書面で回答を得ておくと、更新計画を立てやすくなります」（https://skylinkjapan.com/blog/why-non-chinese-drones-us-europe-japan-2026/）
+  - 「保守契約、メーカー・代理店の書面」（https://skylinkjapan.com/blog/why-non-chinese-drones-us-europe-japan-2026/）
+  - 「メーカー・国内代理店の保守メニュー」（https://skylinkjapan.com/blog/why-non-chinese-drones-us-europe-japan-2026/）
+  - 「案件で書面での回答が必要になりそうな場合は、早めにメーカーや国内代理店へ照会しておくと、入札や仕様確定の段階で慌てずに済みます」（https://skylinkjapan.com/blog/why-non-chinese-drones-us-europe-japan-2026/）
+  - 「欧州委員会「Commission publishes the Action Plan on Drone and Counter-Drone Security」2026年2月11日」（https://skylinkjapan.com/blog/why-non-chinese-drones-us-europe-japan-2026/）
+- 政治（法・予算・規制）：
+  - 「中国製ドローンはいつまで使える？輸出規制と調達リスク【2026年】」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「中国製ドローンはいつまで使えるのか｜レアアース輸出規制と部材供給リスクの実務対応【2026年版】」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「｜レアアース輸出規制と部材供給リスクの実務対応【2026年版】」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「調査基準日：2026年8月31日（米国の関税・市場動向は2026年9月16日更新）」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「中国の輸出規制、米国のDJI規制、日本の経済安全保障」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「規制が効いているのは完成機ではなく、部材と取引先」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「3つの規制を分けて読む」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「中国のレアアース・部材規制は、一部が「停止中」のまま動いている」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「対日デュアルユース規制は、取引相手が誰かで効き方が変わる」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「米国の規制だけが、完成機と重要部品を名指しした」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「ドローンのどの部品が、どの規制に触れているのか」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「日本の政府調達は、2020年から動いている」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「「いつまで使えるか」は法律ではなく調達要件が決める」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「2026年8月末時点で、中国が日本向けにドローン完成機の輸出を規制した事実は確認できません」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「中国がドローン完成機・主要部品・関連技術を名指しで規制対象にしたのは」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+- 経済（規模・価格・為替）：
+  - 「同月24日には経済産業省の無人機産業基盤強化検討会が中間取りまとめを公表し、2030年に約8万台（想定需要約14万台の約6割）の国内供給体制構築を目標に掲げ、2025年度補正予算で量産体制構築支援に139億円を計上、設備投資費用等を最大2分の1補助するとしています」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「 我が国は外国為替及び外国貿易法（外為法）に基づき、輸出管理等※３を実施」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「＊1:外為法：外国為替及び外国貿易法 ＊2:輸出令：輸出貿易管理令 ＊3:外為令：外国為替令」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「税関の 10 日ごとの為替レート照会」（https://0523.tw/china-drone-export-control?lang=ja）
+  - 「人民元 / 外貨の代理支払い（銀行法§29により、銀行以外は為替業務を営めません）」（https://0523.tw/china-drone-export-control?lang=ja）
+  - 「1,001億円」（https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/）
+  - 「標準機体価格は税込で4,290,000円～と高価で、とても個人が趣味で購入できるような価格帯ではありません」（https://bluesky.vie-orner.com/column-2592）
+  - 「創業して10年ほどとその歴史は浅いですが、蓄積された知識と経験を活かすことで高機能・低価格を実現しています」（https://bluesky.vie-orner.com/column-2592）
+  - 「10万円台から購入可能であることも、初めてのドローンとして選ばれる理由といえるでしょう」（https://bluesky.vie-orner.com/column-2592）
+  - 「価格は9万円台～で、初心者でも手の届きやすい価格帯となっています」（https://bluesky.vie-orner.com/column-2592）
+  - 「リーズナブルな価格帯の機体が特徴で、2016年に発売されたモデルである「Typhoon Q500」は予約販売価格で約19万円でした」（https://bluesky.vie-orner.com/column-2592）
+  - 「また、2018年に消費者向けに発表された「Mantis Q」は499ドル（約55,000円）と、ますます手の届きやすい価格帯となりました」（https://bluesky.vie-orner.com/column-2592）
+  - 「GPS搭載の空撮用ドローンも1万円台～2万円台と、安価な価格帯の製品が揃っています」（https://bluesky.vie-orner.com/column-2592）
+  - 「ACSL 防衛省向けで約14億円を積み上げ」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「防衛省は2022年末に定めた防衛力整備計画で、「無人アセット防衛能力」を重点分野の1つに位置づけ、2023年度から2027年度までの5年間でおよそ1兆円を投じる方針を示しました」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+- 社会（人・担い手）：
+  - 「人材開発支援助成金」（https://bluesky.vie-orner.com/column-2592）
+  - 「無人機は、安全保障の道具であると同時に、人手不足への答えでもあるのです」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「造船は、日本が設備と技能を国内に残している数少ない重工業分野です」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「補助金や公募といった政策は動き出していますが、工場、人材、部品の供給網がそろうまでには時間がかかります」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「中でも慢性的な若手の農業離れや担い手の不足など深刻化する日本の農業分野においてドローンは、特に期待が高まっています」（https://mazex.jp/blog/dronemaker.html）
+  - 「物流業界の人手不足の課題を解消しラストワンマイル配送を担う、」（https://odschool.jp/hamamatsu/column-hamamatsu/%E3%80%90%E7%9F%A5%E3%82%8B%E5%BE%97%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%80%91%E5%9B%BD%E5%86%85%E5%A4%96%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE/）
+  - 「豊富な専門人材と先端革新能力」（https://www.investkorea.org/ik-jp/bbs/i-685/detail.do?ntt_sn=468902）
+  - 「ドローン産業において中・大型ドローンの製造メーカーは一定水準の技術力と研究人材を確保しているが、一方で小型ドローンの製造メーカーは、まだ小規模で技術力も低い」（https://www.investkorea.org/ik-jp/bbs/i-685/detail.do?ntt_sn=468902）
+  - 「韓国の教育はグローバル人材を育成できるほど、最高の環境が整っており、そうした強みを上手に活用すれば、世界経済の不確実性を乗り越え、未来の新しい産業もリードすることができるだろう」（https://www.investkorea.org/ik-jp/bbs/i-685/detail.do?ntt_sn=468902）
+  - 「懇談会の主な内容は、国内外の現状、未来市場の規模と雇用の見通し、育成策などで、目まぐるしい発展を遂げているドローン産業に対する議論を重ね、韓国の環境に合った基本戦略を樹立する時期に来ている」（https://www.investkorea.org/ik-jp/bbs/i-685/detail.do?ntt_sn=468902）
+  - 「韓国の技術力と中国の生産力・経済力を融合・複合すれば、必ず近い将来に多くの企業が成長して雇用を創出し、産業発展に貢献できる」（https://www.investkorea.org/ik-jp/bbs/i-685/detail.do?ntt_sn=468902）
+  - 「技術の開発にかなり人材とお金を投入しているということがわかりますね」（https://atcl-dsj.com/useful/%E8%80%90%E4%B9%85%E6%80%A7%E3%81%AF%EF%BC%9F%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AF%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%A3%BD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AB%E3%81%A4/）
+  - 「人材開発支援助成金制度」（https://atcl-dsj.com/useful/%E8%80%90%E4%B9%85%E6%80%A7%E3%81%AF%EF%BC%9F%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AF%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%A3%BD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AB%E3%81%A4/）
+  - 「・専門的な知識・技能習得のための」（https://atcl-dsj.com/useful/%E8%80%90%E4%B9%85%E6%80%A7%E3%81%AF%EF%BC%9F%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AF%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%A3%BD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AB%E3%81%A4/）
+  - 「専門領域：人材・採用領域の編集／メディア運営、調査メディアの監修」（https://lassic.co.jp/media/column/drone-export-control-easing/）
+- 技術（新しい技術・実証）：
+  - 「ドローン導入・事業開発支援」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「CHCNAV AA6（AlphaAir 6）」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「CHCNAV AA10（AlphaAir 10）」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「CHCNAV AA15（AlphaAir 15）」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「CHCNAV AA9（AlphaAir 9）」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「Parrot ANAFI Ai」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「DJI Air 3S」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「Pillsbury Winthrop「China Suspends Export Controls on Certain Critical Minerals and Related Items」」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「米国Federal Register「Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components Into the United States」、2026年8月19日」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「ニデックは経済安全保障を背景にドローン用モーター5種を開発し、重量19gの小型機用から598g・最大出力2110Wの物資輸送用まで揃えていますが、同社担当者は」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「ドローンジャーナル「ニデックがドローン用モーター5種を開発」、2026年6月16日」（https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/）
+  - 「 先進国が保有する⾼度な貨物や技術が、⼤量破壊兵器等※１や通常兵器の開発等※２を」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「⼤量破壊兵器等の開発等を」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「※１「⼤量破壊兵器等」とは、核兵器・化学兵器・生物兵器・ミサイルをいう ※２「開発等」とは、開発・製造・使用又は貯蔵をいう」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+  - 「・武器および兵器等の開発等に転用される可能性の」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf）
+- 検索結果の抜粋：
+  - 「中国が米に対抗、7企業・団体に制裁 ドローン輸出 規制も強化 — 中国が米に対抗、7企業・団体に制裁 ドローン輸出 規制も強化 Reuters https://www.reuters.com > world > PFTEETAJJJKH5HM...」（https://www.reuters.com/jp/world/us/PFTEETAJJJKH5HMMF35JFRTZRA-2026-08-05/）
+  - 「中国の ドローン輸出 規制 2026 - 好運器 — 中国の ドローン輸出 規制 2026 - 好運器 好運器 https://0523.tw > ... > 中国ドローン輸出規制2026」（https://0523.tw/china-drone-export-control?lang=ja）
+  - 「【商務部公告 2026 年第34号 ドローン に関連する軍民両用物品 ... — 【商務部公告 2026 年第34号 ドローン に関連する軍民両用物品 ... 日中投資促進機構 https://www.jcipo.org > theme01 > 【商務部公告2026年...」（https://www.jcipo.org/theme01/%E3%80%90%E5%95%86%E5%8B%99%E9%83%A8%E5%85%AC%E5%91%8A2026%E5%B9%B4%E7%AC%AC34%E5%8F%B7%E3%80%80%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%99%E3%82%8B%E8%BB%8D%E6%B0%91/）
+  - 「【激震】日本の ドローン 大手2社が中国の『注視リスト』へ ... — 【激震】日本の ドローン 大手2社が中国の『注視リスト』へ ... note https://note.com > 政治・経済 > ビジネス・経済」（https://note.com/drone_snark/n/nf78cffc5d67d）
+  - 「防衛省・自衛隊と接点がある ドローン メーカー12社【2026年】 — 防衛省・自衛隊と接点がある ドローン メーカー12社【2026年】 SkyLink Japan https://skylinkjapan.com > blog > japan-defense-public-sa...」（https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/）
+  - 「産業用ドローン の有名国内・ 海外 メーカー8選 - ドロサツ!! — 産業用ドローン の有名国内・ 海外 メーカー8選 - ドロサツ!! Drosatsu https://drosatsu.jp > information > sangyo-ki-maker-syoukai」（https://drosatsu.jp/blogs/information/sangyo-ki-maker-syoukai?srsltid=AYCX9vKz9iBa3VMweCaDtJewdtCJFXRwL1JCus-a7pgVS0Kx3Vjsb2Hx）
+  - 「日の丸防衛 ドローン は「年8万台」に届くのか 実戦の 海外 と ... — 日の丸防衛 ドローン は「年8万台」に届くのか 実戦の 海外 と ... note https://note.com > ビジネス > 戦略・組織論」（https://note.com/hirokimiyano/n/nbe40e805c9ca）
+  - 「ドローン メーカー21選！ 日本 製やおすすめ機種、シェアと ... — ドローン メーカー21選！ 日本 製やおすすめ機種、シェアと ... ドローンナビゲーター https://drone-navigator.com > ドローンの基礎知識」（https://drone-navigator.com/drone-manufacturer）
+  - 「軍用 ドローン市場 規模・予測レポート 2026〜2035年 — 軍用 ドローン市場 規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「ドローン市場 規模、 シェア |業界レポート [2026-2034] — ドローン市場 規模、 シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ドローン市場-...」（https://www.fortunebusinessinsights.com/jp/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-116193）
+  - 「中国が米に対抗、7企業・団体に制裁 ドローン輸出規制 も強化 — 中国が米に対抗、7企業・団体に制裁 ドローン輸出規制 も強化 Reuters https://www.reuters.com > world」（https://www.reuters.com/jp/world/us/PFTEETAJJJKH5HMMF35JFRTZRA-2026-08-05/）
+  - 「米国の ドローン輸出管理 の緩和｜3時間未満でも残る5つの 規制 — 米国の ドローン輸出管理 の緩和｜3時間未満でも残る5つの 規制 株式会社LASSIC https://lassic.co.jp > らしくメディア」（https://lassic.co.jp/media/column/drone-export-control-easing/）
+  - 「【2026年最新版】 産業用ドローン メーカー35社 - SkyLink Japan — 【2026年最新版】 産業用ドローン メーカー35社 - SkyLink Japan SkyLink Japan https://skylinkjapan.com > blog > industrial-drone-manuf...」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+  - 「ドローン ビジネス調査報告書 2026 - インプレス総合研究所 — ドローン ビジネス調査報告書 2026 - インプレス総合研究所 インプレス総合研究所 https://research.impress.co.jp > report > list > drone」（https://research.impress.co.jp/report/list/drone/502419）
+  - 「【 2026 年版】 ドローン市場規模 の最新情報- 2026 年以降の展望は — 【 2026 年版】 ドローン市場規模 の最新情報- 2026 年以降の展望は 秋葉原ドローンスクール https://akihabara-ds.com > column > detail」（https://akihabara-ds.com/column/detail/40/）
+
+## 空飛ぶクルマ（eVTOL）
+- 文脈：6 航空・宇宙 ③空飛ぶクルマ
+- 顧客（金を払う側）：
+  - 「政府公共調達データベース」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「同社創業者のエド・ウェーゲル氏は航空会社の資金調達や運営、航空機認証に40年間携わり、ジェットストリーム41やエンブラエルE145、エアバスA321の貨物機など、複数の新型航空機を米国市場で就航させた経験を持つ」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「リリウムのセバスチャン・ボレル最高商務責任者（CCO）によると、今回のeVTOLの購入はリリウムに投資していない商業運航企業による初めてのもので、eVTOLの市場が成熟し、都市内だけでなく、都市間の接続が可能な機体に対する需要の高まりを示しているという」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「導入初期（2020年代後半）、中期：成長期（2030年代前半）、長期：成熟期（2030年代後半）、将来：完成期（2040年代以降）の4つのフェーズが示された」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「導入初期では、商用運航が一部先行する地域でスタートする」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「ドローンジャーナルを応援して支えてくださっている企業さま【」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「スポンサー企業の紹介はこちらから」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「不確実性の高まる世界情勢、高市新政権への期待、労働人口の減少、AI（人工知能）のさらなる進化……どの業界に飛躍のチャンスがあり、企業はどう備えるべきなのか」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「新興企業が実用化に向けた開発を先導する」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「米国や欧州、中国など各地で新興企業が認証の取得、実験、商用化に向け準備を進めている」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「最近はドバイやアブダビなど中東でも機体メーカーの誘致が進む」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「実用化にあたっては管制システム、サービス、離着陸場などのインフラも必要になり、航空会社や自動車メーカーなども出資や事業開発に乗り出している」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「大阪府をはじめ社会実装に向けた取り組みを公表する自治体も増えており、海外機体メーカーからも有望な市場として注目を集めている」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「業界の基本が1分でわかる！ 『日経業界地図 2026年版』では、過去最多の201業界、4900企業・団体を収録」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「日経記者が総力をあげて取材し、業界ごとに企業の提携・勢力関係を図解で示します」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+- 顧客の顧客（発注元が求めること）：
+  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「南フロリダ地域での次世代エアモビリティー（Advanced Air Mobility：AAM）サービスについて、2025年第4四半期（10～12月）に米国連邦航空局（FAA）と米国運輸省（DOT）による認証プロセスを開始し、2026年夏までに商業運転を開始する予定だと発表」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「同社創業者のエド・ウェーゲル氏は航空会社の資金調達や運営、航空機認証に40年間携わり、ジェットストリーム41やエンブラエルE145、エアバスA321の貨物機など、複数の新型航空機を米国市場で就航させた経験を持つ」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「また、FAAによる米国連邦航空規則パート135と121の認証（注）についても、複数の航空会社で認証取得を主導してきた」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「リリウムは、2025年に欧州航空安全機関（EASA）の型式証明取得を目指しており、EUと米国の間の「航空の安全に関する相互承認協定（BASA）」により、EASAの証明取得後にFAAの認証も取得する予定だ（「フライング・マガジン」5月6日）」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「航空機の安全性などを証明するためには、認証を得ることが求められる」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「米国や欧州、中国など各地で新興企業が認証の取得、実験、商用化に向け準備を進めている」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「【認証基準】」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「各国、地域が安全性を担保するために機体の認証基準を規定している」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「認証・開発の状況」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「日機装は、2021年にJoby Aviationのサプライヤーに選出されています」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「2022年3月には、米国カリフォルニアの製造工場において、Joby社とサプライヤーが互いの知見を持ち寄り、製品化に向けた製造方法などを検討する研修会が実施されました」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「今後は、安全基準の整備や機体の認証取得、運航ルールの確立などを経て、段階的にサービス開始が目指されます」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「【日本航空×日機装＃2】脱炭素に貢献するCFRP、そして日機装に期待すること」（https://bright.nikkiso.co.jp/article/life/evtol）
+- 顧客の競合（奪いに来る側）：
+  - 「米アーバンリンク、フロリダ州で2026年に空飛ぶクルマの商業運行を開始予定と発表(米国、ドイツ) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「インドネシア」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「（米国、ドイツ）」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「先進的なエアモビリティーソリューションを提供する米国フロリダ州のアーバンリンクエアモビリティーは5月6日、」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「南フロリダ地域での次世代エアモビリティー（Advanced Air Mobility：AAM）サービスについて、2025年第4四半期（10～12月）に米国連邦航空局（FAA）と米国運輸省（DOT）による認証プロセスを開始し、2026年夏までに商業運転を開始する予定だと発表」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「同社創業者のエド・ウェーゲル氏は航空会社の資金調達や運営、航空機認証に40年間携わり、ジェットストリーム41やエンブラエルE145、エアバスA321の貨物機など、複数の新型航空機を米国市場で就航させた経験を持つ」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「また、FAAによる米国連邦航空規則パート135と121の認証（注）についても、複数の航空会社で認証取得を主導してきた」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「米国では、トヨタ自動車が出資するジョビー・アビエーションがFAAの認可を受け、試験飛行を既に開始し、2024年からの実用化を目指しており、空飛ぶクルマのサービスも数年以内の開始を目指している（」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「リリウムは、2025年に欧州航空安全機関（EASA）の型式証明取得を目指しており、EUと米国の間の「航空の安全に関する相互承認協定（BASA）」により、EASAの証明取得後にFAAの認証も取得する予定だ（「フライング・マガジン」5月6日）」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「パート121はジェット機または大型のプロペラ機による米国内の2地点間の定期便の運航、米国内の地点および米国外の地点間の輸送、ならびに米国外の2地点間の定期便の運航、大型飛行機または定期便にも用いられる飛行機によるチャーター運航に適用される」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「テラドローン子会社ユニフライ、インドのドローン運航管理システム共同実証へ」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「記事をシェアする」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「米国や欧州、中国など各地で新興企業が認証の取得、実験、商用化に向け準備を進めている」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「2026年内に米国・ドバイで商用運航の開始を目指す」（https://bright.nikkiso.co.jp/article/life/evtol）
+- 自社の競合（商社・代理店・仲介）：
+  - 「日本では、空飛ぶクルマに関する分野で、スタートアップや事業者（製造業、交通、商社、不動産、建設・土木、通信、デジタル、電力・エネルギー、保険など）による連携活動が活発になっている」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「商社・卸売り」（https://www.nikkei.com/article/DGXZQOGM15B1C0V10C26A5000000/）
+  - 「航空・防衛関連代理店、宇宙、エアモビリティ、ビジネスジェット」（https://www.marubeni.com/jp/business/aero_mobility/）
+  - 「さらに、エンジン開発投資、エンジン整備代理店事業など、航空機のライフサイクルに応じた各種サービスの提供を通じ、民間航空市場の成長に貢献します」（https://www.marubeni.com/jp/business/aero_mobility/）
+  - 「航空機・ヘリコプター・エンジン・各種防衛装備品・複合材・衛星搭載センサーなどの海外大手メーカーの国内販売代理店として日本の安全保障に寄与しています」（https://www.marubeni.com/jp/business/aero_mobility/）
+  - 「造船所が建造する新造船の国内外海運会社への売買を仲介しています」（https://www.marubeni.com/jp/business/aero_mobility/）
+  - 「また中古船・舶用資材の売買取り扱い、船舶購入資金の融資手配、用船仲介、DX化・環境規制対応など、丸紅グループが保有するネットワーク・ノウハウを最大限に活用し、世界の海を舞台に顧客の課題解決に貢献しています」（https://www.marubeni.com/jp/business/aero_mobility/）
+  - 「M.T. OLYMPUS： Samos Steamship社（ギリシャ）向けに新造取引仲介した301,000重量トン原油タンカー」（https://www.marubeni.com/jp/business/aero_mobility/）
+  - 「資源国や新興国におけるマイニング・インフラの需要、成長性を取り込むべく、アジアや南米において建設・鉱山機械の販売代理店・プロダクトサポート事業を運営しています」（https://www.marubeni.com/jp/business/aero_mobility/）
+  - 「#35 | 無限の大海原へ～総合商社の船舶ビジネス」（https://www.marubeni.com/jp/business/aero_mobility/）
+  - 「国内外の製品の輸出入、サービスの提供、関連する事業投資等にとりくむ総合商社で、空飛ぶクルマに関しては2018年頃から検討を始め、海外企業との提携をベースにした、事業開発などに取組んできました」（https://note.com/hyogohaam/n/nb070fc421063）
+  - 「空飛ぶクルマビジネスを作る上で特に大切にしているのは、海外パートナーの代理店としての役割を果たすだけでなく、」（https://note.com/hyogohaam/n/nb070fc421063）
+  - 「道なき道を開拓してビジネスを作る商社に魅力を感じたからです」（https://note.com/hyogohaam/n/nb070fc421063）
+  - 「当社は商社の幅広い事業領域も踏まえ、引き続き東京都における空飛ぶクルマの実装に向け、離着陸場の整備・運用の観点から東京都・日本の社会課題解決や、新たな価値創造に貢献してまいります」（https://www.kanematsu.co.jp/press/release/20250604_release）
+- 政治（法・予算・規制）：
+  - 「世界各国の関税率」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「政府公共調達データベース」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「政府機関は、万博でのフライトの実現に向けて制度整備を進めた」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「大阪府は「空飛ぶクルマ都市型ビジネス創造都市推進事業補助金」を通じて事業者へのサポートを行っている」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「安全な運航に欠かせないもう一つの要素が、法律や制度の整備です」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「翌4月には「航空機設計検査認定事業場（ADO）」を取得し、自社で機体設計の検査・証明を行える体制を確立」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「国内初！空飛ぶクルマ開発企業として国土交通省より「航空機設計検査認定事業場（ADO）」を取得 | 株式会社SkyDriveのプレスリリース」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「初号機となるコンセプト車「S-A1」を「CES 2020」で披露するなど意欲的で、2024年をめどに米国の規制当局による認証取得を目指す」（https://jidounten-lab.com/u_40758）
+  - 「自動運転とは？基礎知識・現状まとめ【技術・開発企業・法律など】」（https://jidounten-lab.com/u_40758）
+  - 「安全性、規制、インフラをめぐる継続的な課題の解消に向けた業界の取り組みが、空飛ぶクルマの急速な普及を可能にした」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「民間企業が空飛ぶクルマにアクセスする能力が急速に向上するなか、政府の取り組みも空飛ぶクルマの導入に大きな影響を及ぼしている」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「さらに、FAAやEASAなどの規制当局は、パイロット免許、都市部の飛行回廊、eVTOLの耐空性に関する枠組みについて、新たな制度の整備を進めています」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「こうした取り組みに加え、PPLを通じたパイロット向けの商業ベースの飛行訓練証明の増加も相まって、関係者が空飛ぶクルマの実用化に必要な規制および人的資本の基盤整備を進めるなか、航空エコシステムと自動車エコシステムの隔たりは縮小しています」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+- 経済（規模・価格・為替）：
+  - 「CD（PDF）版・電子版 11万円（本体10万円＋税10％）」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「CD（PDF）＋冊子版 12万1,000円（本体11万円＋税10％）」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「eVTOL航空機の世界市場規模：33億ドル（4755億円）（2025年予想、プレシデンス・リサーチ）」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「今、就活生やその保護者／親が気になっている「就職人気企業ランキング」や、自己分析・ES・インターンシップ対策はもちろん、注目31業界の動向・売上・年収がわかる業界地図、「親世代にもっと知ってほしい注目企業」まで幅広く収録」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「入社6年目49歳が年収1264万円 賃金急上昇のタクシー業界の内側」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「年収1000万円の運送ドリーム、夢破れたトラック運転手はタクシーへ」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「2026年7月時点で、旅客用eVTOLの多くは開発・受注段階にあり、1機あたりの価格を公表しているメーカーはほとんどありません」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「数少ない例として、EHangの主力モデル「EH216-S」は、2024年2月に海外向け小売価格が41万米ドル（約6,000万円）と発表されています」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「そのほか、SkyDriveの初号機が約2億円で購入されたという報道もあります」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「SkyDrive's $1.5 million 'flying car' gets its first private customer - The Japan Times」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「空陸両用モデル、廉価版は500万円？」（https://jidounten-lab.com/u_40758）
+  - 「Jetson ONEは約1,060万円で販売」（https://jidounten-lab.com/u_40758）
+  - 「2022年までにシードラウンドを終了し、累計調達額6.7億円、企業評価額38億円に達した」（https://jidounten-lab.com/u_40758）
+  - 「空飛ぶクルマ開発のテトラ、4.5億円新規調達！人材強化へ」（https://jidounten-lab.com/u_40758）
+  - 「2026年の発売を目指しており、78万9,000ドル（約1億500万円）で予約販売を行っている」（https://jidounten-lab.com/u_40758）
+- 社会（人・担い手）：
+  - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「将来的には、操縦しやすい機体特性を踏まえた、eVTOLに適した新たな技能証明制度の整備が検討されています」（https://bright.nikkiso.co.jp/article/life/evtol）
+  - 「空飛ぶクルマ開発のテトラ、4.5億円新規調達！人材強化へ」（https://jidounten-lab.com/u_40758）
+  - 「同様に、欧州航空安全機関（EASA）は、2030年までに9万人の雇用創出を見込んでおり、EUは42億ユーロ規模の世界UAM市場において31%のシェアを占めています」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「日本航空学園や法政大、空飛ぶクルマ担う人材育成で連携」（https://www.nikkei.com/article/DGXZQOGM15B1C0V10C26A5000000/）
+  - 「日経のグローバル人材育成」（https://www.nikkei.com/article/DGXZQOGM15B1C0V10C26A5000000/）
+  - 「人材育成や設備整備によって、市場参入強化と競争力強化を実現することが肝要」（https://www.meti.go.jp/meti_lib/report/2024FY/000037.pdf）
+  - 「◼ 事業成立可能なビジネスモデルの確立、認証理解の促進・取得に係る伴走支援、必要な人材育」（https://www.meti.go.jp/meti_lib/report/2024FY/000037.pdf）
+  - 「➢ 量産リソース確保では、人材として、営業・交渉力を有すグローバル人材や非破壊試験等の特殊工程人材、ま」（https://www.meti.go.jp/meti_lib/report/2024FY/000037.pdf）
+  - 「い交渉力を持つグローバル人材が必須」（https://www.meti.go.jp/meti_lib/report/2024FY/000037.pdf）
+  - 「◼ 特殊業務人材が不足」（https://www.meti.go.jp/meti_lib/report/2024FY/000037.pdf）
+  - 「可能な人材確保も同様に求められる」（https://www.meti.go.jp/meti_lib/report/2024FY/000037.pdf）
+  - 「◼ 具体的にどのような人材」（https://www.meti.go.jp/meti_lib/report/2024FY/000037.pdf）
+  - 「◼ 企業内での人材育成や」（https://www.meti.go.jp/meti_lib/report/2024FY/000037.pdf）
+  - 「◼ 人材として、営業・交渉力を有すグローバル人材や非破壊試験等の特殊工程人材が不」（https://www.meti.go.jp/meti_lib/report/2024FY/000037.pdf）
+- 技術（新しい技術・実証）：
+  - 「南フロリダ地域での次世代エアモビリティー（Advanced Air Mobility：AAM）サービスについて、2025年第4四半期（10～12月）に米国連邦航空局（FAA）と米国運輸省（DOT）による認証プロセスを開始し、2026年夏までに商業運転を開始する予定だと発表」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「ウェーゲル氏は発表で「南フロリダは、そのユニークな地理的・人口的特性により、エアモビリティーの変革の可能性を実証する、わくわくする機会を提供してくれる」と述べた」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「【特集】空飛ぶクルマの展望――2026年に注目すべき制度設計・地域連携・事業連携・技術開発の動向 - ドローンジャーナル」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「IoT・AI」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「空飛ぶクルマの展望――2026年に注目すべき制度設計・地域連携・事業連携・技術開発の動向」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「2020年代後半の商用運航の実現に向けて、制度整備や地域連携、事業連携、技術開発などの取り組みが進むことが予測される」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「総務省の情報通信審議会は電波上空利用作業班を設置し、次世代空モビリティなど、電波の上空利用について議論を進めている」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「先行エリア（大都市圏・観光地など）を中心に、机上検証や実証実験などが行われる」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「今後の想定スケジュールとして、2025年度は準備・調整・計画・検討、2026年度は実証飛行、2027年度はプレ社会実装の推進が予定されている」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「Soracleは2026年に大阪・関西エリアでの実証運航を予定している」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「空飛ぶクルマの機体、運航管理システム、地上インフラなどの技術開発が進む」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「地上インフラ（バーティポートなど）に関しては、安全な離着陸や充電、整備、気象・風況観測などを行うための技術開発が進められている」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「万博での成果などを検証した上で、2026年は制度整備や地域連携や事業連携、技術開発などの取り組みが進む」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「経済産業省：次世代空モビリティ」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「https://www.meti.go.jp/policy/mono_info_service/mono/robot/airmobility.html」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+- 検索結果の抜粋：
+  - 「米アーバンリンク、フロリダ州で 2026 年に 空飛ぶクルマ の ... — 米アーバンリンク、フロリダ州で 2026 年に 空飛ぶクルマ の ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2024/05」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
+  - 「空飛ぶクルマ の展望―― 2026 年に注目すべき制度設計・地域 ... — 空飛ぶクルマ の展望―― 2026 年に注目すべき制度設計・地域 ... ドローンジャーナル https://drone-journal.impress.co.jp > 特集 > エアモビリティ」（https://drone-journal.impress.co.jp/docs/special/1188023.html）
+  - 「次世代モビリティの業界地図 2026 「 空飛ぶクルマ 」商用化へ — 次世代モビリティの業界地図 2026 「 空飛ぶクルマ 」商用化へ 日経BOOKプラス https://bookplus.nikkei.com > atcl > column」（https://bookplus.nikkei.com/atcl/column/020500658/020500009/）
+  - 「空飛ぶクルマ の機体メーカー一覧（2023年最新版） — 空飛ぶクルマ の機体メーカー一覧（2023年最新版） 自動運転ラボ https://jidounten-lab.com > 国内ニュース」（https://jidounten-lab.com/u_40758）
+  - 「空飛ぶクルマ の 市場 規模、 シェア |業界レポート、2040 年 — 空飛ぶクルマ の 市場 規模、 シェア |業界レポート、2040 年 Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流」（https://www.fortunebusinessinsights.com/jp/%E7%A9%BA%E9%A3%9B%E3%81%B6%E8%87%AA%E5%8B%95%E8%BB%8A%E5%B8%82%E5%A0%B4-105378）
+  - 「空飛ぶクルマ市場 の規模と シェア 、成長分析、2026〜2034年 — 空飛ぶクルマ市場 の規模と シェア 、成長分析、2026〜2034年 Global Market Insights Inc. https://www.gminsights.com > flying-cars-market」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「日本 の 空飛ぶクルマ市場 2024～2031年 - アットプレス — 日本 の 空飛ぶクルマ市場 2024～2031年 - アットプレス アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/8049768）
+  - 「空飛ぶクルマ とは？関連 企業 や将来性をわかりやすく解説 — 空飛ぶクルマ とは？関連 企業 や将来性をわかりやすく解説 アセットマネジメントOne https://www.am-one.co.jp > article > fuyasu-20240913-1」（https://www.am-one.co.jp/warashibe/article/fuyasu-20240913-1.html）
+  - 「空飛ぶクルマ 、ドバイで90秒の初フライトに成功 中国 の小鵬 ... — 空飛ぶクルマ 、ドバイで90秒の初フライトに成功 中国 の小鵬 ... Reuters https://www.reuters.com > video > watch」（https://www.reuters.com/jp/video/watch/idOWjpvC7QBUUZH4QMFVH4CKQ1NVKPT66/）
+  - 「中国 の 空飛ぶクルマ 、10兆元規模市場をけん引か — 中国 の 空飛ぶクルマ 、10兆元規模市場をけん引か Record China https://www.recordchina.co.jp > 経済」（https://www.recordchina.co.jp/b978589-s12-c20-d0189.html）
+  - 「広汽集団、同社初の 空飛ぶクルマ のラインオフを発表( 中国 ) — 広汽集団、同社初の 空飛ぶクルマ のラインオフを発表( 中国 ) ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/06」（https://www.jetro.go.jp/biznews/2026/06/18b5e46d72cc192c.html）
+  - 「東京都「 空飛ぶクルマ を活用したサービスのビジネスモデル ... — 東京都「 空飛ぶクルマ を活用したサービスのビジネスモデル ... 兼松株式会社 https://www.kanematsu.co.jp > release > 20250604_release」（https://www.kanematsu.co.jp/press/release/20250604_release）
+  - 「空飛ぶクルマ 」社会の実現 - MITSUI & CO., LTD. — 空飛ぶクルマ 」社会の実現 - MITSUI & CO., LTD. MITSUI & CO., LTD. https://www.mitsui.com > kokorozashi > find360」（https://www.mitsui.com/corporatebranding/jp/ja/kokorozashi/find360/21/）
+  - 「空飛ぶクルマ の「SkyDrive」が15億円 調達 、年内に有人飛行 ... — 空飛ぶクルマ の「SkyDrive」が15億円 調達 、年内に有人飛行 ... 株式会社SkyDrive https://skydrive.co.jp > NEWS」（https://skydrive.co.jp/news/67200/）
+  - 「空飛ぶクルマ の品質保証担当  2025年 大阪・関西万博出展 ... — 空飛ぶクルマ の品質保証担当  2025年 大阪・関西万博出展 ... ビズリーチ https://www.bizreach.jp > jobs」（https://www.bizreach.jp/jobs/9323930/）
+
+## ロケット打上げ（space launch services）
+- 文脈：6 航空・宇宙 ④ロケット・射場
+- 顧客（金を払う側）：
+  - 「企業、団体、学校様向けに、貿易実務、物流・通関、安全保障貿易管理、貿易英語など内容についてご相談を承ります」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「キャリア採用の応募を受け付けています」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「日経の企業内研修」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「本社採用案内」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「テスラの「空飛ぶ」ロードスター、スペースX技術搭載 量産は2028年」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「関連企業・業界」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「キャリア採用の応募を受け付けています」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「日経の企業内研修」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「本社採用案内」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「大学や民間企業が開発した規格の異なる複数の衛星を束ねて、一つのロケットに乗せて海を渡る」（https://space.japanstep.jp/learn/2026/06/2152/）
+  - 「専門企業によるワンストップの支援が、日本の宇宙開発のスピードを確かなものにしていく」（https://space.japanstep.jp/learn/2026/06/2152/）
+  - 「今回軌道へと投入されたキューブサット（超小型衛星）は、大学や高等専門学校、民間企業など8つの機関がそれぞれ開発したものである」（https://space.japanstep.jp/learn/2026/06/2152/）
+  - 「だからこそ、宇宙商社®と呼ばれる民間企業が間に入り、この複雑なプロセスを引き受けるエコシステムが機能し始めたことの意義は大きい」（https://space.japanstep.jp/learn/2026/06/2152/）
+- 顧客の顧客（発注元が求めること）：
+  - 「H3ロケット、打ち上げ頻度2カ月→2週間に 文科省が235億円概算要求」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「「脱炭素」に挑む イノベーション最前線」（https://journal.meti.go.jp/policy/202604/45314/）
+  - 「豊田社長は「例えば自動車部品のサプライヤーなど、様々な業種が宇宙産業に関わる可能性がある」（https://journal.meti.go.jp/policy/202604/45314/）
+  - 「そのうえで、「今は、企業のトップが新しい事業分野を検討する際、AIや脱炭素、量子コンピューターなどと並んで宇宙が選択肢の一つに入る時代」（https://journal.meti.go.jp/policy/202604/45314/）
+  - 「確実なアクセスを実現する能力とサプライヤーの多様化を支える」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「アジア太平洋市場の 15.0% という CAGR は、単なる低い基準値による効果を超えるものであり、新たな国家運営のロケット群、サプライヤーネットワーク、衛星需要が同時に形成されている地域を示している」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「この相違により、サプライヤーが対応可能な需要を評価する方法も変わる」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「Avio S.p.A.は、VegaおよびVega-Cを通じて欧州の小型ロケット打上げ能力を支え、欧州の打上げ産業基盤における重要なサプライヤーであり続けている」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「米国宇宙軍はNSSLフェーズ3レーン1への参加企業をRocket LabおよびStoke Spaceに拡大し、当初の受注企業以外にもサプライヤー基盤を広げた」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「品質認証取得」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「ISO 9001:2015認証取得企業」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「ISO認証取得」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「北朝鮮が弾道ミサイル2発を発射 防衛省、EEZ外に落下と推定」（https://www.nikkei.com/article/DGXZQOGM20AP80Q2A620C2000000/）
+  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biznews/2024/10/0c0e62fa95057f25.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biznews/2024/10/0c0e62fa95057f25.html）
+- 顧客の競合（奪いに来る側）：
+  - 「オ．ゴダード宇宙飛行センター（米国航空宇宙局(NASA)）※」（https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf）
+  - 「米国メリーランド州グリーンベルト」（https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf）
+  - 「米国株ランキング」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「ロケット射場LC1間もなくスタンバイ 立地で優位性、海外勢に対抗へ」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「米国株ランキング」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「2026年4月23日、宇宙ビジネスの総合支援を展開するSpace BD株式会社のサポートのもと、国立研究開発法人宇宙航空研究開発機構（JAXA）の「革新的衛星技術実証4号機」に選定された8機の人工衛星が、米国Rocket Lab社のロケット「Electron」にて打ち上げられた」（https://space.japanstep.jp/learn/2026/06/2152/）
+  - 「欧州の宇宙安保を日本は学びとできるか」（https://space.japanstep.jp/learn/2026/06/2152/）
+  - 「経済産業省によると、日本や米国、中国などロケットの打ち上げ能力を持つ主要6か国で、2025年に打ち上げに成功した件数は計314件だった」（https://journal.meti.go.jp/policy/202604/45314/）
+  - 「一方、全体の約61％を占めた米国は192件で2013年の18件から約10.7倍に、約29％を占めた中国は91件で同様に6.5倍に増加している」（https://journal.meti.go.jp/policy/202604/45314/）
+  - 「米国の民間宇宙企業スペースＸの衛星通信網「スターリンク」が代表例だ」（https://journal.meti.go.jp/policy/202604/45314/）
+  - 「創業者の畑田康二郎社長＝写真＝は2015年から2年間、内閣府宇宙開発戦略推進事務局に勤務した際に米国のスペースＸがすでに事業を軌道に乗せていたことに衝撃を受け、「日本でも民間が宇宙産業を推進するダイナミズムを作りたいと考えた」と話す」（https://journal.meti.go.jp/policy/202604/45314/）
+  - 「衛星打上げロケット（SLV）市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「SpaceXは2025年に18.3%を超える市場シェアを占め、市場をリードした」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「の市場シェアを占めた」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「一方、米国の事業者は154件、中国は68件のミッションを実施した」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+- 自社の競合（商社・代理店・仲介）：
+  - 「商社・卸売り」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「商社・卸売り」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「だからこそ、宇宙商社®と呼ばれる民間企業が間に入り、この複雑なプロセスを引き受けるエコシステムが機能し始めたことの意義は大きい」（https://space.japanstep.jp/learn/2026/06/2152/）
+  - 「インターステラテクノロジズは2013年に事業を開始、主要株主にはトヨタ自動車の子会社で先端技術開発を担うウーブン・バイ・トヨタや大手商社の丸紅などが名を連ねている」（https://journal.meti.go.jp/policy/202604/45314/）
+  - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「グローバルインフォメーションはFortune Business Insights Pvt. Ltd.社 の日本における正規代理店です」（https://newscast.jp/smart/news/8522974）
+  - 「＜アジア最大の市場調査レポート販売代理店＞」（https://newscast.jp/smart/news/8522974）
+  - 「商社・卸売り」（https://www.nikkei.com/article/DGXZQOGM20AP80Q2A620C2000000/）
+  - 「仲介貿易取引規制とは」（https://www.cistec.or.jp/export/yukan_kiso/anpo_gaiyou/index.html）
+  - 「４．仲介貿易取引規制とは」（https://www.cistec.or.jp/export/yukan_kiso/anpo_gaiyou/index.html）
+  - 「仲介貿易取引規制は、外為法第２５条第４項（外為令第１７条第５項）に基づいています」（https://www.cistec.or.jp/export/yukan_kiso/anpo_gaiyou/index.html）
+  - 「例：東京にある貿易商社Ａは、米国の武器メーカーから機関銃を購入し、イスラエル陸軍に売却する契約を結んだ」（https://www.cistec.or.jp/export/yukan_kiso/anpo_gaiyou/index.html）
+  - 「機関銃は、日本から輸出するのではなく、米国から直接、イスラエルに輸出される場合であっても、貿易商社Ａは外為法に基づき、経済産業大臣の仲介貿易取引許可が必要である」（https://www.cistec.or.jp/export/yukan_kiso/anpo_gaiyou/index.html）
+  - 「例：大阪にある貿易商社Ｂは、中国のメーカーＶから、輸出令別表第１の１６の項に該当する中古のステンレス製の貯蔵容器の贈与を受けたので、アフリカにあるＡ国陸軍に貸与する契約を結んだ」（https://www.cistec.or.jp/export/yukan_kiso/anpo_gaiyou/index.html）
+  - 「その際、Ａ国陸軍の担当者から貿易商社Ｂに当該貯蔵容器を使用して、サリンの開発・製造に使用すると通知をしていた」（https://www.cistec.or.jp/export/yukan_kiso/anpo_gaiyou/index.html）
+- 政治（法・予算・規制）：
+  - 「通関・関税の話」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「輸出通関は関税法等の範疇ですが、ロケットや人工衛星は高度な技術や先端技術であるという観点から考えれば外国為替及び外国貿易法（外為法）にも関係してきそうです」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「理由は法律上の「輸出の定義」にあります」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「関税法では、輸出とは「内国貨物を外国に向けて送り出すことをいう」（第2条）と定義されています」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「また、関税定率法では「貨物を特定の国から他の国に向けて送り出すことをいう」（第2条）と定義しています」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「一方、外為法ですが、こちらは厳密に「輸出」という言葉を定義していません」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「宇宙は「地」つまり「地球上」ではないので、規制の範疇に入ってないことがわかります」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「よって、人工衛星の打ち上げには、輸出に関する外為法の許可取得や、輸出通関手続きは必要がないということになるわけです」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「書籍「関税の世界史」」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「立ち入らないよう人員規制を行い、入退場管理を行う」（https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf）
+  - 「イ． 陸上における警戒については、ＪＡＸＡが警戒区域の人員規制等を行うとともに、」（https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf）
+  - 「規制を行うため、事前に海上保安庁及び関係機関に対して打上げを行う旨の通知を」（https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf）
+  - 「行規制を行うため、事前に 国土交通省に対して打上げを行う旨の通知をし、航空機」（https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf）
+  - 「家計の法律クリニック」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「家計の法律クリニック」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+- 経済（規模・価格・為替）：
+  - 「H3ロケット、打ち上げ頻度2カ月→2週間に 文科省が235億円概算要求」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「最新の Global Market Insights Inc. のレポートによると、市場は2026年の218億米ドルから2035年には661億米ドルへ拡大し、予測期間中の年平均成長率（CAGR）は13.1%になると予測されている」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「年平均成長率（CAGR、2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「市場の予測CAGRである13.1%は、打上げ需要の経済的基盤が変化していることを反映していると当社は推定する」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「完全再使用型機は、13.7%で最も速いプラットフォーム成長率を記録しています」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「3段式システムは、追加的な性能を必要とするミッション区分に引き続き利用されていますが、年平均成長率（CAGR）は 9.7% と、他の機体構成カテゴリーを下回っています」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「グローバル衛星打上げロケット（SLV）市場規模、機体構成別、2022〜2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「4段以上のカテゴリーは、14.7%の成長率が予測されています」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「BryceTechは、太陽同期軌道への打上げについて、SpaceXの相乗り打上げ価格を100 kgあたり約100万米ドルとする指標的な価格を示しました」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「ライドシェアは 14.3%、完全再使用型プラットフォームは 13.7% の成長率が予測されており、いずれの動向も、反復的な LEO ミッションへのアクセスコスト低減の重要性を示している」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+- 社会（人・担い手）：
+  - 「日経のグローバル人材育成」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「日経のグローバル人材育成」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「いまや人材戦略は、経営戦略だ」（https://journal.meti.go.jp/policy/202604/45314/）
+  - 「信頼性とコスト競争力を両立するロケットを量産し、高頻度に打ち上げていくためにはサプライチェーンの強化が必要で、これまでは宇宙産業に関わっていなかった企業や人材の参画も求められる」（https://journal.meti.go.jp/policy/202604/45314/）
+  - 「日経のグローバル人材育成」（https://www.nikkei.com/article/DGXZQOGM20AP80Q2A620C2000000/）
+  - 「特定類型１：外国政府や外国法人等との間で雇用契約等の契約を締結し、当該外国政府や外国法人等の指揮命令に服する」（https://www.cistec.or.jp/export/yukan_kiso/anpo_gaiyou/index.html）
+  - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biznews/2024/10/0c0e62fa95057f25.html）
+  - 「（ただし、外国において任命又は雇用された者に限る」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/setsumei_anpokanri.pdf）
+  - 「技術支援 → 技術指導、技能訓練、作業知識の提供、コンサルティングサービスなど」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/setsumei_anpokanri.pdf）
+  - 「教育・人材育成」（https://www.space-bd.com/ja/news/news20250214-001.html）
+  - 「九州工業大学とSpace BD、「宇宙人材」育成プログラム」（https://www.nikkei.com/article/DGXZQOUC187VM0Y6A610C2000000/）
+  - 「ロケットエンジン開発のミヨルニア、最大17億円調達 研究や人材採用に」（https://www.nikkei.com/article/DGXZQOUC187VM0Y6A610C2000000/）
+  - 「日経のグローバル人材育成」（https://www.nikkei.com/article/DGXZQOUC187VM0Y6A610C2000000/）
+  - 「・各種社会保険完備（雇用保険、労災保険、健康保険、厚生年金保険）」（https://directscout.recruit.co.jp/job_descriptions/10816493）
+  - 「求める人材像」（https://directscout.recruit.co.jp/job_descriptions/10816493）
+- 技術（新しい技術・実証）：
+  - 「その一方、日本から、例えば宇宙航空研究開発機構（JAXA）が種子島宇宙センターからロケットで人工衛星を打ち上げる場合、輸出通関は必要になるのでしょうか？」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「国立研究開発法人」（https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf）
+  - 「宇宙航空研究開発機構」（https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf）
+  - 「国立研究開発法人 宇宙航空研究開発機構（以下、「 JAXA」という）は、 ２０２ ６年度に」（https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf）
+  - 「国立研究開発法人宇宙航空研究開発機構」（https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf）
+  - 「射場技術開発ユニット長」（https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf）
+  - 「日経電子版の記事を学習したAIが」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「H3打ち上げ成功、低コスト機で国際競争力を実証 スペースX追う」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「AIが使えなくなる日」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「NIKKEI KAI」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「宇宙航空研究開発機構（JAXA）は20日、国の大型基幹ロケット「H3」の打ち上げに成功した」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「日経電子版の記事を学習したAIが」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「宇宙航空研究開発機構（JAXA）が手掛ける大型基幹ロケット「H3」、イーロン・マスク氏が率いるスペースXなど、世界中で官民が宇宙開発競争を繰り広げています」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「ロケット開発や実験、衛星など最新ニュースをまとめました」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「H3打ち上げ成功、低コスト機で国際競争力を実証 スペースX追う」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+- 検索結果の抜粋：
+  - 「2026 年度 ロケット打上げ 計画書 - JAXA — 2026 年度 ロケット打上げ 計画書 - JAXA JAXA｜宇宙航空研究開発機構 PDF https://www.jaxa.jp > files > jaxa20261018-1_01」（https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf）
+  - 「2026 年、南の島が揺れた——H3 ロケット 本格稼働で変貌する ... — 2026 年、南の島が揺れた——H3 ロケット 本格稼働で変貌する ... thespaandgym.com https://thespaandgym.com > machida-wave」（https://thespaandgym.com/machida-wave/9427564/）
+  - 「ロケット打ち上げ 拠点を増強、国内全4カ所で 2030年代に年 ... — ロケット打ち上げ 拠点を増強、国内全4カ所で 2030年代に年 ... 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
+  - 「【LIVE配信】H3 ロケット 9号機 打ち上げ （ 2026 年8月11日） — 【LIVE配信】H3 ロケット 9号機 打ち上げ （ 2026 年8月11日） YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=XY8ar2Ig13s）
+  - 「H3 ロケット 成功率80%から巻き返しへ 海外 需要取り込みで ... — H3 ロケット 成功率80%から巻き返しへ 海外 需要取り込みで ... 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「H2A ロケット打ち上げ 成功、 日本 の宇宙ビジネス参入に弾み — H2A ロケット打ち上げ 成功、 日本 の宇宙ビジネス参入に弾み Reuters https://www.reuters.com > article > businessNews」（https://www.reuters.com/jp/article/businessNews/idJPTYE84H00A20120518/）
+  - 「H3 ロケット に予算8倍！急拡大する｢宇宙ビジネス｣12銘柄 — H3 ロケット に予算8倍！急拡大する｢宇宙ビジネス｣12銘柄 四季報オンライン https://shikiho.toyokeizai.net > news」（https://shikiho.toyokeizai.net/news/0/957743）
+  - 「H3 ロケット 、世界とどう戦うか — 国際競争力と市場戦略を解説 — H3 ロケット 、世界とどう戦うか — 国際競争力と市場戦略を解説 space-connect.jp https://space-connect.jp > News」（https://space-connect.jp/h3-world/）
+  - 「衛星 打上げロケット市場 の規模・成長レポート、2026〜2035年 — 衛星 打上げロケット市場 の規模・成長レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > satellite...」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
+  - 「ロケット エンジン 市場 規模、 シェア 、レポート |予報 [2034] — ロケット エンジン 市場 規模、 シェア 、レポート |予報 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 宇宙技術」（https://www.fortunebusinessinsights.com/jp/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-108179）
+  - 「世界の ロケット 推進 市場 の規模、 シェア 、予測 - 2032年 — 世界の ロケット 推進 市場 の規模、 シェア 、予測 - 2032年 Spherical Insights https://www.sphericalinsights.com > reports > rocket-prop...」（https://www.sphericalinsights.com/jp/reports/rocket-propulsion-market）
+  - 「小型 ロケット市場 の規模、 シェア 、成長率（2034年） — 小型 ロケット市場 の規模、 シェア 、成長率（2034年） Straits Research https://straitsresearch.com > 航空宇宙・防衛 > 宇宙技術」（https://straitsresearch.com/jp/report/small-launch-vehicle-market）
+  - 「米中日の再利用 ロケット 試験が相次ぎ成功、 韓国 は2031年初 ... — 米中日の再利用 ロケット 試験が相次ぎ成功、 韓国 は2031年初 ... BigGo ファイナンス https://finance.biggo.jp > news」（https://finance.biggo.jp/news/39c117c7-852e-4f8b-bd56-3207ca9565b3）
+  - 「朱雀3号」を 打ち上げ ロケット の陸上回収に初成功 - YouTube — 朱雀3号」を 打ち上げ ロケット の陸上回収に初成功 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=q9A8Volh_9k）
+  - 「「ヌリ号」4回目の打ち上げに成功 ロケット打ち上げ 国に — 「ヌリ号」4回目の打ち上げに成功 ロケット打ち上げ 国に KBS WORLD Radio http://world.kbs.co.kr > service > archive_view」（http://world.kbs.co.kr/service/archive_view.htm?lang=j&id=sub_index&board_seq=17267）
+
+## 人工衛星（satellite manufacturing）
+- 文脈：6 航空・宇宙 ⑤人工衛星・サービス
+- 顧客（金を払う側）：
+  - 「企業、団体、学校様向けに、貿易実務、物流・通関、安全保障貿易管理、貿易英語など内容についてご相談を承ります」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「私たちは「私たちに関わる全ての人を幸せにする」という理念を元に、「最先端のＩＴ技術を活用して中小企業の業務生産性を爆上げする最高の税理士法人」となるべく、日々精進しています！」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「人工衛星やロケットは大企業の話、と思われがちですが、実際には部品製造やシステム開発など、さまざまな中小企業が関わる可能性があります」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「という点を、静岡市・浜松市の中小企業の社長さん向けに、かみ砕いて説明していきます」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「⑤【海外企業から受注し、日本の射場から宇宙へ打ち上げる契約】」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「⑪【浜松市の部品メーカーが、打上げ輸送サービスを直接請け負う場合】」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「⑫【静岡市のIT企業が、打上げ輸送の管制業務だけを受託する場合】」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「Q5. 取引先が海外企業の場合は、自動的に輸出免税になりますか？」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「Q9. 静岡市の企業や浜松市の企業でも、このような取引を扱うことはありますか？」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「部品製造、システム開発、運用支援など、宇宙関連ビジネスは地方の中小企業にも関係する時代になっています」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「静岡市・浜松市の中小企業さまでも、」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「最後に、コラムの内容の詳細や、企業、個人の状況に応じたお悩みについては、静岡市、浜松市から全国の中小企業をサポートする最高のIT税理士法人にお気軽にご相談くださいませ！」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「政府公共調達データベース」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「持続可能な包装と企業の対応事例」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「輸出経験ゼロの町工場がタイ市場を開拓」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+- 顧客の顧客（発注元が求めること）：
+  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「、人工衛星の終末処理に関する要求は強まっている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「実証に成功し、BULLがエンデューロサットの認証サプライヤーとなれば、同社衛星を利用する世界各国の顧客に対する販路が開けるという」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「世界の脱炭素化動向（1）世界のEV市場に変容の兆し」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「世界の脱炭素化動向（2）中東情勢下で見直されるエネルギー供給源」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「世界に通用する製品というのは、技術的な面だけでなく、品質、コスト、納期の要求に応えられるものです」（https://www.jaxa.jp/article/special/spaceindustry/inahata01_j.html）
+  - 「標準衛星バスがあると衛星をゼロから設計しなくてよいので、コスト削減や短納期化を図れるほか、いろいろな衛星で同じバスを使えば、信頼性の向上にもつながります」（https://www.jaxa.jp/article/special/spaceindustry/inahata01_j.html）
+  - 「それまでは、JAXAの筑波宇宙センターに衛星を運んで試験を行っていましたが、その準備や輸送時間などを省けるため、納期の短縮化につながります」（https://www.jaxa.jp/article/special/spaceindustry/inahata01_j.html）
+  - 「「脱炭素」に挑む イノベーション最前線」（https://journal.meti.go.jp/policy/202604/45440/）
+  - 「NECは、宇宙空間の利用ニーズが国内外で高まっていることを踏まえ、人工衛星に求められる「低コスト」「短納期」などの要望に応える標準的な衛星プラットフォーム「NEXTAR（ネクスター）」を開発した」（https://journal.meti.go.jp/policy/202604/45440/）
+  - 「価格、納期 1機数百億円、5~10年程度 1機数千万～数十億円程度、1～3年程度」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「出典：防衛省ホームページ※1 出典：防衛省ホームページ※2 出典：防衛省ホームページ※3」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「※防衛省度予算では、「画像衛星」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「・車載等向けのモータ技術を活かした低コスト・短納期のリアクションホイールを開発」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+- 顧客の競合（奪いに来る側）：
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「インドネシア」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「産学連携で高度インド人材との接点創出を目指す東京理科大学」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「中国の両用品目輸出管理強化」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「米国企業が市場を牽引する一方、各国や企業では、宇宙産業全体を自前で構築するのではなく、競争優位を持つ分野に特化し、国際的なサプライチェーンの中で役割を担おうとする動きが広がっている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「先行する米国企業の動向」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「市場が拡大する一方、その成長を支える打ち上げ需要や衛星配備では米国企業の存在感が際立っている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「このうち米国の打ち上げ事業者によるものは193回と、世界全体の約59％を占めた」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「資金調達面でも米国企業への集中がみられる」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「こうした中、2025年第1四半期から2026年第1四半期までの主要資金調達案件では、米国企業が上位を占めている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「こうした中、各国は米国と同様の宇宙産業を一から構築するのではなく、自国が競争力を持つ分野を選び参入しようとしている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「インド政府は2023年に策定した宇宙政策で、衛星製造、打ち上げ、宇宙輸送、データ利用など、宇宙経済のバリューチェーン全体で民間企業の活動を認める方針を明確にしている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「外資規制の緩和やスタートアップ向け基金の設置も進めており、2026年7月18日にはインド企業スカイルート・エアロスペースが同国初の民間開発による軌道投入ロケットの打ち上げに成功した（」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「このように、各国の取り組みは単に米国を「追う」のではなく、打ち上げ環境の利点、投資制度の整備、市場開放といった強みを生かした産業育成を進めている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「低軌道衛星が増加していることに加え、米国では運用終了後5年以内の軌道離脱が原則化され」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+- 自社の競合（商社・代理店・仲介）：
+  - 「商社・卸売り」（https://www.nikkei.com/article/DGXLASDZ26I2O_W7A720C1TJ1000/）
+  - 「★仲介貿易で移転した貨物の修理の場合には、規制」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/setsumei_anpokanri.pdf）
+  - 「には、仲介貿易規制の対象であることを理解すること」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/setsumei_anpokanri.pdf）
+  - 「・仲介貿易は役務取引規制」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/setsumei_anpokanri.pdf）
+  - 「兼松、超小型衛星通信を日本展開 スペインの宇宙新興と代理店契約 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUC175LU0X10C26A4000000/）
+  - 「商社・卸売り」（https://www.nikkei.com/article/DGXZQOUC175LU0X10C26A4000000/）
+  - 「兼松、超小型衛星通信を日本展開 スペインの宇宙新興と代理店契約」（https://www.nikkei.com/article/DGXZQOUC175LU0X10C26A4000000/）
+  - 「はスペインの宇宙スタートアップ、FOSSAシステムズと日本における独占代理店契約を結び、超小型衛星通信システムを日本に展開すると発表した」（https://www.nikkei.com/article/DGXZQOUC175LU0X10C26A4000000/）
+  - 「兼松は米テキストロン・アビエーションの輸入代理店として防衛省などに点検機や練習機を提案して選定された実績を持つ」（https://www.nikkei.com/article/DGXZQOUC175LU0X10C26A4000000/）
+  - 「兼松、米宇宙インフラのレッドワイヤーと代理店契約」（https://www.nikkei.com/article/DGXZQOUC175LU0X10C26A4000000/）
+  - 「宇宙へ進出するエアライン系商社」（https://www.anatc.com/business/space/）
+  - 「総合商社としてのトレーディング・ロジスティクス・ファイナンス・事業投資などの機能と、航空産業で積み上げた実績・知見・ネットワークの融合により、宇宙産業におけるイノベーションを推進していきます」（https://www.anatc.com/business/space/）
+  - 「宇宙における総合商社として超小型衛星放出事業に取り組む | 「きぼう」利用のご案内 | JAXA 有人宇宙技術部門」（https://humans-in-space.jaxa.jp/kibouser/information/interview/72519.html）
+  - 「宇宙における総合商社として超小型衛星放出事業に取り組む」（https://humans-in-space.jaxa.jp/kibouser/information/interview/72519.html）
+  - 「そこで総合商社なら幅広くいろんな選択をしながら働けるのではないかと考え、三井物産に入りました」（https://humans-in-space.jaxa.jp/kibouser/information/interview/72519.html）
+- 政治（法・予算・規制）：
+  - 「通関・関税の話」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「輸出通関は関税法等の範疇ですが、ロケットや人工衛星は高度な技術や先端技術であるという観点から考えれば外国為替及び外国貿易法（外為法）にも関係してきそうです」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「理由は法律上の「輸出の定義」にあります」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「関税法では、輸出とは「内国貨物を外国に向けて送り出すことをいう」（第2条）と定義されています」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「また、関税定率法では「貨物を特定の国から他の国に向けて送り出すことをいう」（第2条）と定義しています」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「一方、外為法ですが、こちらは厳密に「輸出」という言葉を定義していません」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「宇宙は「地」つまり「地球上」ではないので、規制の範疇に入ってないことがわかります」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「よって、人工衛星の打ち上げには、輸出に関する外為法の許可取得や、輸出通関手続きは必要がないということになるわけです」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「書籍「関税の世界史」」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「静岡市、浜松市から全国へ向けて「IT×税務会計×補助金＝経営革新」を発信して、「日本一わかりやすい税理士事務所」を目指す最高のIT税理士法人です！」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「静岡・浜松・香川の補助金支援」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「世界各国の関税率」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「政府公共調達データベース」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「中国の両用品目輸出管理強化」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+- 経済（規模・価格・為替）：
+  - 「世界経済フォーラム（WEF）と米マッキンゼーの共同レポートによれば、世界の宇宙経済は2023年の6,300億ドルから2035年には1兆8,000億ドルへ拡大し、年平均9％と世界の国内総生産（GDP）成長率の約2倍のペースで成長する見通しだ」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「は前年比約54％増の4,544機に達し、そのうち85％を米民間宇宙開発会社スペースXが軌道上へ輸送した」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「また、英宇宙投資会社セラフィム・スペースによると、2026年第1四半期の世界の宇宙関連技術への投資額は約80億ドルと、同社の四半期統計上で過去最高を記録した」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「日本政府も、国内宇宙産業の市場規模を2030年に8兆円へ拡大し、2040年には日本企業による国内外での市場獲得額を少なくとも13兆円規模とする方針を示している」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「また、JAXAに設置した宇宙戦略基金を通じ、10年間で総額1兆円規模の支援を行い、民間企業や大学などによる技術開発、実証、商業化を後押しする方針だ」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「Space: The $1.8 Trillion Opportunity for Global Economic Growth」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「受注額は190億円で、2020年度に打ち上げる」（https://www.nikkei.com/article/DGXLASDZ26I2O_W7A720C1TJ1000/）
+  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGXLASDZ26I2O_W7A720C1TJ1000/）
+  - 「特許を取得したこのアンテナを搭載した衛星「QPS-SAR」は、地表での大きさが46cm以上のものであれば観測できる高い性能を誇りながら、従来の大型SAR衛星に比べて質量は約20分の1となる100kg台に抑え、コストは約100分の1となる1機5億円程度を実現したという」（https://journal.meti.go.jp/policy/202604/45440/）
+  - 「⚫ 現在の世界の宇宙産業の規模は約54兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「⚫ モルガン・スタンレーによると、世界の宇宙産業の市場規模は、2040年までに140兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「⚫ 市場規模は約４兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「政府は2030年代早期の倍増（約8兆円）を目指している」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「打上げ価格は、2000年」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「価格、納期 1機数百億円、5~10年程度 1機数千万～数十億円程度、1～3年程度」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+- 社会（人・担い手）：
+  - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「高度外国人材を輩出する大学、その最前線に迫る」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「産学連携で高度インド人材との接点創出を目指す東京理科大学」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「英調査メディアfDi Intelligenceも、宇宙産業新興国にとっては、ロケット、衛星、地上設備、データ利用などを全て国内で整備するよりも、地理的条件、既存産業、人材、制度などの強みを生かせる分野を特定することが重要だと指摘する」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「日経のグローバル人材育成」（https://www.nikkei.com/article/DGXLASDZ26I2O_W7A720C1TJ1000/）
+  - 「いまや人材戦略は、経営戦略だ」（https://journal.meti.go.jp/policy/202604/45440/）
+  - 「NECのこうした姿勢や優れた技術は海外からも高く評価されており、ベトナム政府から2020年、地球観測衛星の開発・製造・打ち上げから地上システムの整備、現地の人材育成に至るまで、一括受注することができたという」（https://journal.meti.go.jp/policy/202604/45440/）
+  - 「• 次世代人材育成と国際プレゼンス向上」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「• 技術・産業・人材基盤の確立」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「（６）人材・資金等の資源の効果的・効率的な活用」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「(c)技術・産業・人材基盤の強化」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「• 人材基盤の強化」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「ル・ガイドライン整備、人材育成等を推進」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「技術開発・設備投資・人材育成」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「（ただし、外国において任命又は雇用された者に限る」（https://www.meti.go.jp/policy/anpo/seminer/shiryo/setsumei_anpokanri.pdf）
+- 技術（新しい技術・実証）：
+  - 「その一方、日本から、例えば宇宙航空研究開発機構（JAXA）が種子島宇宙センターからロケットで人工衛星を打ち上げる場合、輸出通関は必要になるのでしょうか？」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+  - 「人工衛星やロケットは大企業の話、と思われがちですが、実際には部品製造やシステム開発など、さまざまな中小企業が関わる可能性があります」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「部品製造、システム開発、運用支援など、宇宙関連ビジネスは地方の中小企業にも関係する時代になっています」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「※当事務所はDXを経営に活かすことを推進しており、当ブログはAIを活用して生成しています」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「静岡・浜松・香川の経理自動化支援」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「MAIL. info@toc-tax.jp」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「Copyright © Saiko tax accountant corporation. 2024 All Rights Reserved」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「ロケットや衛星などのハードウエアを中心とした従来型の宇宙開発に加え、通信、測位、地球観測、防災、農業、金融、安全保障など、地上の幅広い産業や社会インフラを支える基盤産業を含めた「宇宙」関連産業の経済（以下、宇宙経済）は、拡大傾向にある」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「は前年比約54％増の4,544機に達し、そのうち85％を米民間宇宙開発会社スペースXが軌道上へ輸送した」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「衛星通信を利用した無人水上艇の開発」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「再利用可能なロケットの開発」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「ニュージーランドは、人口密度が低く、空域の混雑が比較的少ないという条件に加え、打ち上げ実績や柔軟な規制環境を生かして、宇宙・先端航空分野の研究開発、飛行試験、打ち上げ、衛星データ利用を一体的に育成する方針を示している」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「外資規制の緩和やスタートアップ向け基金の設置も進めており、2026年7月18日にはインド企業スカイルート・エアロスペースが同国初の民間開発による軌道投入ロケットの打ち上げに成功した（」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「同国は衛星通信企業を中心に形成してきた産業基盤に加え、企業による宇宙資源の探査・利用を支える法制度を整備し、宇宙資源利用や関連技術の研究開発で主導的な役割を目指している」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「また、JAXAに設置した宇宙戦略基金を通じ、10年間で総額1兆円規模の支援を行い、民間企業や大学などによる技術開発、実証、商業化を後押しする方針だ」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+- 検索結果の抜粋：
+  - 「人工衛星 の打上げ輸送と消費税は 輸出 免税になるのか？ — 人工衛星 の打上げ輸送と消費税は 輸出 免税になるのか？ 最高のIT税理士法人 https://toc-tax.jp > 2026/02/09 > 人工衛星の打上げ輸送...」（https://toc-tax.jp/2026/02/09/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92%E8%BC%B8%E9%80%81%E3%81%A8%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AF%E8%BC%B8%E5%87%BA%E5%85%8D%E7%A8%8E%E3%81%AB%E3%81%AA%E3%82%8B/）
+  - 「中国 、 人工衛星 20万機打ち上げ 米「スターリンク」に対抗 — 中国 、 人工衛星 20万機打ち上げ 米「スターリンク」に対抗 Science Portal Asia Pacific https://spap.jst.go.jp > china > news > kyodo > ktopic_1_02」（https://spap.jst.go.jp/china/news/kyodo/260405/ktopic_1_02.html）
+  - 「NATO、 韓国 ・ 日本 など4カ国に 人工衛星 発射協力を提案 ... — NATO、 韓国 ・ 日本 など4カ国に 人工衛星 発射協力を提案 ... 亜州日報 https://m.jp.ajunews.com > view」（https://m.jp.ajunews.com/view/20260511025770197）
+  - 「令和6年度市場競争環境評価調査（小型 人工衛星 等宇宙関連 ... — 令和6年度市場競争環境評価調査（小型 人工衛星 等宇宙関連 ... 九州経済産業局 PDF https://www.kyushu.meti.go.jp > report」（https://www.kyushu.meti.go.jp/report/2503/250321_1_1.pdf）
+  - 「人工衛星 ・サービスとは｜官民投資ロードマップの目標12兆円 ... — 人工衛星 ・サービスとは｜官民投資ロードマップの目標12兆円 ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (6) 航空・宇宙」（https://digital-supporter.net/mirai-ai/17invest/eisei.html）
+  - 「JAXAが「革新的 衛星技術実証 4号機」の超小型 衛星 8機の ... — JAXAが「革新的 衛星技術実証 4号機」の超小型 衛星 8機の ... sorae 宇宙へのポータルサイト https://sorae.info > 宇宙開発」（https://sorae.info/space/20260319-kakushin04-cubesat.html）
+  - 「Asia-Pacific Satellite Manufacturing Market Forecast, 2031 — Asia-Pacific Satellite Manufacturing Market Forecast, 2031 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/asia-pacific-satellite-manufacturing-market）
+  - 「South Korea Satellite Manufacturing Market Outlook, 2033 — South Korea Satellite Manufacturing Market Outlook, 2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/horizon/outlook/satellite-manufacturing-market/south-korea）
+  - 「Satellite Manufacturing Market Size & Industry Report, 2034 — Satellite Manufacturing Market Size & Industry Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/satellite-manufacturing-market-117262）
+
+## 衛星データ（satellite data services）
+- 文脈：6 航空・宇宙 ⑤人工衛星・サービス
+- 顧客（金を払う側）：
+  - 「打ち上げ、契約獲得、提携・技術実証に関する発表といった個別の動きがあった一方で、規制執行、周波数戦略、政府調達、運用面の強靭化、投資採算性をめぐる動向には業界全体で共通の方向性がみられました」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「商業宇宙市場は米国政府の予算や調達方針、米国政府が採用するOTA（Other Transaction Authority）やIDIQ（Indefinite Delivery、Indefinite Quantity） といった契約制度、サイバーセキュリティ、データ権利の取扱い、システム間の連携性、運用の信頼性確保、顧客集中リスクといった要素と密接に結びついています」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「宇宙ビジネスを取り巻く環境は、より成熟する一方、より複雑なものとなっており、規制上の承認、周波数やデータに関する権利、調達経路、資金調達構造、運用リスク管理、そして国際的なコンプライアンス対応について、より早い段階での連携が求められています」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「同命令は、NGSOおよびGSOの固定衛星サービス事業者間で誠実な協議・調整を行う義務を拡大するとともに、技術的な安全措置を導入するものです」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「また、Space-based Airborne Moving Target Indicator（宇宙配備型空中移動目標探知）プログラムについて、SpaceXに41億6,000万ドル規模のOTA契約を付与したほか、2027年末までにプロトタイプを構築予定の、光通信で相互接続された分散型低軌道衛星からなるデータ伝送基盤「Space Data Network Backbone」の構築に向けた22億9,000万ドル規模のOTA発注契約を行いました」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「SSCが発表した一連の契約は、国家安全保障に関わる宇宙分野において、民間企業の役割が一段と重要になっていることを示すとともに、防衛宇宙事業に伴う複雑な制度・運用上の課題を浮き彫りにしています」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「の商業データ戦略は、調達制度とデータ権利に引き続き焦点」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「NASAは、民生宇宙分野および地球観測のニーズに対応するため、民間企業の活用を引き続き進めています」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「2026年6月18日、NASAは4億7,600万ドルを上限とするIDIQ契約に基づき、商業衛星データ取得プログラムに8社を追加するとともに、既存の契約企業6社による新たなデータ提供項目を追加しました」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「の導入拡大により、宇宙交通調整は実運用の段階へ」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「対象は、Kaバンド端末の導入準備、サプライチェーンの強靭化、5G NR NTN（非地上系ネットワーク）への移行です」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「これらの動きは、市場アクセス、端末のサプライチェーン、提携戦略、安全な通信の調達、戦略的自律性の確保に関する要件、そしてEUの助成金・調達機会への参加基準に影響を与える可能性があります」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「2026年6月29日、Rocket Labは、Iridiumを企業価値約80億ドルで買収する最終契約を締結したと発表しました」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「この買収は、衛星・宇宙インフラ市場における垂直統合の動きを象徴する注目すべき案件といえますが、取引完了には、株主承認、規制当局の承認、資金調達およびクロージング条件などを満たす必要があります」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「機動応答型打ち上げおよびランデブー／近接運用は、今後の国防調達、打上げライセンス、運用の安全性、輸出管理、ミッション保証義務、保険・責任分担、そしてSSA／SDAや機動応答型宇宙ミッションへの商業参加に影響を与える可能性があります」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+- 顧客の顧客（発注元が求めること）：
+  - 「商業宇宙市場は米国政府の予算や調達方針、米国政府が採用するOTA（Other Transaction Authority）やIDIQ（Indefinite Delivery、Indefinite Quantity） といった契約制度、サイバーセキュリティ、データ権利の取扱い、システム間の連携性、運用の信頼性確保、顧客集中リスクといった要素と密接に結びついています」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「NASAのFY27予算要求の概要では、商業低軌道開発に3億ドルが計上されているほか、ISS（国際宇宙ステーション）の運用終了に向けた投資の継続や、商業低軌道拠点および「Moon to Mars」構想への注力がみてとれます」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「品質認証取得」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「ISO 9001:2015認証取得企業」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「ISO認証取得」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「、人工衛星の終末処理に関する要求は強まっている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「実証に成功し、BULLがエンデューロサットの認証サプライヤーとなれば、同社衛星を利用する世界各国の顧客に対する販路が開けるという」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「世界の脱炭素化動向（1）世界のEV市場に変容の兆し」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「世界の脱炭素化動向（2）中東情勢下で見直されるエネルギー供給源」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「衛星を活用して防衛力の強化を目指す防衛省へのデータ販売を想定する」（https://www.nikkei.com/article/DGKKZO88828630R20C25A5TB1000/）
+  - 「もう一つの柱であるアグリイノベーション事業では、農地情報を解析・可視化する「アグリインサイトマップ」や、脱炭素に向けた算定デジタルプロダクト「サグリビジョン」を提供している」（https://space-connect.jp/satellite-data/）
+  - 「民間企業（BtoB）向けの脱炭素化ニーズにも応えることで、事業の多角化と収益基盤の強化を同時に実現している」（https://space-connect.jp/satellite-data/）
+  - 「その卓越したAI技術は安全保障領域でも高く評価されており、近年は防衛省からAIや衛星データに関連する事業を複数回にわたり受注するなど、要求水準の厳しい国家案件で着実に実績を蓄積」（https://space-connect.jp/satellite-data/）
+- 顧客の競合（奪いに来る側）：
+  - 「衛星データを29カ国へ輸出 海南省に中国初の加工拠点 | Science Portal China」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「中国基礎資料集」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「インドトップ」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「中国 科学技術ニュース」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「衛星データを29カ国へ輸出 海南省に中国初の加工拠点」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「中国海南省文昌市で8月25日に開かれた2026文昌国際航空宇宙フォーラムの開幕式で、海南航天データ越境加工貿易区が発足した」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「中国で初めて衛星データの国際的な加工・取引に特化した貿易区で、海南自由貿易港の政策や文昌の宇宙打ち上げ拠点を活用し、データの収集、保存、加工、取引までを一体的に扱う国際的な宇宙データ拠点の構築を目指す」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「中国新聞網が伝えた」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「海南省で加工された衛星などのデータは現在、米国、英国、ロシアなど29カ国に輸出されている」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「2026年5月には、海南省が中国で初めてリモートセンシング衛星データの国外移転に関する安全評価を完了し、データの大規模輸出に向けた環境整備を進めた」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「国家データ局はその1週間前、中国国内の10地域でデータ分野の国際協力に関する第1弾の試行事業が始まったと明らかにした」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「また、「海南省第15次五カ年計画サービス業発展計画」は、データサービスの開放・活用拠点を整備し、EU（欧州連合）やASEAN（東南アジア諸国連合）向けのデジタル加工貿易区を設けるとともに、商業、文化、工業、地理情報などのデータを国外向けに提供するサービスを展開するとしている」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「中国の民間リモートセンシング衛星、軌道上の数は世界2位を維持」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「中国、2025年の商業宇宙打ち上げ数が50回に」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「中国科学技術ニューストップへ」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+- 自社の競合（商社・代理店・仲介）：
+  - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「商社・卸売り」（https://www.nikkei.com/article/DGKKZO88828630R20C25A5TB1000/）
+  - 「commissioned by NASA’s Small Spacecraft Technology (SST) program in mid-2013 in response」（https://www.jetro.go.jp/ext_images/_Reports/02/2022/5623113461a83aee/202203.pdf）
+  - 「o 昔のように商社を通じて販売する例」（https://www.jetro.go.jp/ext_images/_Reports/02/2022/5623113461a83aee/202203.pdf）
+  - 「ブローカリングを代理店業務と理解するが、ある企業は制裁を受けている国や機関の人に便」（https://www.jetro.go.jp/ext_images/_Reports/02/2022/5623113461a83aee/202203.pdf）
+  - 「宇宙進出する総合商社 —— 三菱商事、伊藤忠、丸紅、各社の明確な狙い | Business Insider Japan」（https://www.businessinsider.jp/article/289737/）
+  - 「宇宙進出する総合商社 —— 三菱商事、伊藤忠、丸紅、各社の明確な狙い」（https://www.businessinsider.jp/article/289737/）
+  - 「商社でいま何が起きているのか」（https://www.businessinsider.jp/article/289737/）
+  - 「宇宙ビジネスと言われると、ロケットを作ったり、衛星を打ち上げたりする企業をイメージすることが多いかもしれないが、実は日本の「総合商社」も、宇宙産業を動かす重要なプレイヤーとして立ち回っている」（https://www.businessinsider.jp/article/289737/）
+  - 「総合商社を起点に、さらに大きなビジネスへと広がっている宇宙ビジネスの世界を解説する」（https://www.businessinsider.jp/article/289737/）
+  - 「商業宇宙ステーションの「構築」という国策レベルの大きな事業に挑戦しようとしているのは、総合商社では三菱商事と、宇宙航空研究開発機構（JAXA）から日本モジュールの概念検討を受注した三井物産のみだ」（https://www.businessinsider.jp/article/289737/）
+  - 「三菱商事は、Starlab内の設備の利用枠を販売する代理店となるのではなく、宇宙ステーションの構想段階から運営に参画する」（https://www.businessinsider.jp/article/289737/）
+  - 「例えば、衛星データの解析サービスを提供するアメリカのベンチャー・Orbital Insightには2017年に出資し、スカパーJSATと共に国内での代理店契約を締結」（https://www.businessinsider.jp/article/289737/）
+  - 「2019年には、電波収集衛星を運用するアメリカのベンチャー・Spire Globalにも出資、代理店契約も結んだ」（https://www.businessinsider.jp/article/289737/）
+  - 「丸紅はもともと、子会社で航空・宇宙の専門商社である丸紅エアロスペースが1990年代から海外メーカーが製造する宇宙機器の販売代理店を担っていた」（https://www.businessinsider.jp/article/289737/）
+- 政治（法・予算・規制）：
+  - 「Export Controls & Economic Sanctions」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「Government Contracts」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「Government Law & Policy」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「打ち上げ、契約獲得、提携・技術実証に関する発表といった個別の動きがあった一方で、規制執行、周波数戦略、政府調達、運用面の強靭化、投資採算性をめぐる動向には業界全体で共通の方向性がみられました」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「商業宇宙システムは地上通信、政府機関のミッション、国家安全保障アーキテクチャ、地球観測、そして軌道上の安全性において、重要なインフラとしての位置づけを強めています」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「政府需要は、引き続き商業宇宙市場の方向性を決定づけています」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「商業宇宙市場は米国政府の予算や調達方針、米国政府が採用するOTA（Other Transaction Authority）やIDIQ（Indefinite Delivery、Indefinite Quantity） といった契約制度、サイバーセキュリティ、データ権利の取扱い、システム間の連携性、運用の信頼性確保、顧客集中リスクといった要素と密接に結びついています」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「宇宙ビジネスを取り巻く環境は、より成熟する一方、より複雑なものとなっており、規制上の承認、周波数やデータに関する権利、調達経路、資金調達構造、運用リスク管理、そして国際的なコンプライアンス対応について、より早い段階での連携が求められています」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「Regulation & Policy」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「の一連の措置により、衛星通信と携帯電話ネットワークの融合はライセンス・周波数規制の段階へ」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「FCCは第2四半期に、衛星を活用した通信に関する規制枠組みを大きく進展させました」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「NASAのFY27予算要求の概要では、商業低軌道開発に3億ドルが計上されているほか、ISS（国際宇宙ステーション）の運用終了に向けた投資の継続や、商業低軌道拠点および「Moon to Mars」構想への注力がみてとれます」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「2026年6月9日、米商務省宇宙商業局は、TraCSSについて、SSAおよび宇宙飛行安全サービスを提供する、既存の衛星所有者・運用者向けパイロットプログラムに加え、政府機関アカウントの受け入れを開始したと発表しました」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「TraCSSは依然として試験運用・評価段階にありますが、その拡大は、衛星運用事業者、SSA／SDA関連事業者、保険会社、政府機関および同盟国政府が、安全運航データの活用、アカウント管理、サービス水準に対する期待、宇宙交通の調整、責任分担にどう対応していくかに影響を与える可能性があります」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「この買収は、衛星・宇宙インフラ市場における垂直統合の動きを象徴する注目すべき案件といえますが、取引完了には、株主承認、規制当局の承認、資金調達およびクロージング条件などを満たす必要があります」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+- 経済（規模・価格・為替）：
+  - 「SSCは、ViasatおよびIntelsat General Communicationsに対し、Swarm 1衛星向けのProtected Tactical SATCOM-Globalに関する総額4億3,770万ドルの固定価格契約2件を付与しました」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「世界の衛星データサービス市場は 2025 年に 129億5,000万米ドルと評価され、2026年から2032年にかけて年平均成長率（CAGR）は 19.55% を超えると推定されています」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「衛星データサービス市場規模、サービス別、2022〜2032年（10億米ドル単位）」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「このうち、地球観測セグメントが市場をリードしており、売上高は 2032 年までに 130 億米ドルを超えると予測されています」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「衛星別衛星データサービス市場の売上高シェア、2023年」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「北米の衛星データサービス市場規模、2022〜2032年（10億米ドル単位）」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「Maxar Technologies と AIRBUS は、世界市場で 11% 超の売上高シェアを占めています」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「市場規模で 2025」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「予測期間 2026-2035 CAGR」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「世界経済フォーラム（WEF）と米マッキンゼーの共同レポートによれば、世界の宇宙経済は2023年の6,300億ドルから2035年には1兆8,000億ドルへ拡大し、年平均9％と世界の国内総生産（GDP）成長率の約2倍のペースで成長する見通しだ」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「は前年比約54％増の4,544機に達し、そのうち85％を米民間宇宙開発会社スペースXが軌道上へ輸送した」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「また、英宇宙投資会社セラフィム・スペースによると、2026年第1四半期の世界の宇宙関連技術への投資額は約80億ドルと、同社の四半期統計上で過去最高を記録した」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+- 社会（人・担い手）：
+  - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「高度外国人材を輩出する大学、その最前線に迫る」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「産学連携で高度インド人材との接点創出を目指す東京理科大学」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「英調査メディアfDi Intelligenceも、宇宙産業新興国にとっては、ロケット、衛星、地上設備、データ利用などを全て国内で整備するよりも、地理的条件、既存産業、人材、制度などの強みを生かせる分野を特定することが重要だと指摘する」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「日経のグローバル人材育成」（https://www.nikkei.com/article/DGKKZO88828630R20C25A5TB1000/）
+  - 「農地活用事業では、耕作放棄地を自動で検出する農地パトロールアプリ「アクタバ」、作物の種類を判定する作付け調査用アプリ「デタバ」、そして農地の所有者と担い手をつなぐマッチングサービス「ニナタバ」を展開」（https://space-connect.jp/satellite-data/）
+  - 「衛星データ×AI×区画技術で農業の課題を解決するサグリ株式会社が全国の農地所有者と作り手・担い手をつなげる農地マッチングサービス「ニナタバ」をリリースしたことを発表」（https://space-connect.jp/satellite-data/）
+  - 「また、本記事にて紹介した企業を含め、宇宙業界では現在、様々なポジションで人材が募集されている」（https://space-connect.jp/satellite-data/）
+  - 「業界特化型の人材サービス「スぺジョブ」」（https://space-connect.jp/satellite-data/）
+  - 「スペジョブは、宇宙産業に本気で働きたい人を支援する人材マッチングプラットフォームです」（https://space-connect.jp/satellite-data/）
+  - 「• 次世代人材育成と国際プレゼンス向上」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「• 技術・産業・人材基盤の確立」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「（６）人材・資金等の資源の効果的・効率的な活用」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「(c)技術・産業・人材基盤の強化」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「• 人材基盤の強化」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+- 技術（新しい技術・実証）：
+  - 「上海、宇宙でAI計算する衛星網「星枢計画」を発表 将来は1000基規模に」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「Skip to main content」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「Technology, Media & Telecommunications」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「打ち上げ、契約獲得、提携・技術実証に関する発表といった個別の動きがあった一方で、規制執行、周波数戦略、政府調達、運用面の強靭化、投資採算性をめぐる動向には業界全体で共通の方向性がみられました」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「米国商務省によるTraCSS（宇宙交通調整システム）の利用拡大、機動応答型打ち上げやランデブー／近接運用（RPO）の実証、SSA（宇宙状況把握）／SDA（宇宙領域認識）への継続的な取り組みは、軌道上の混雑への対応、安全運航に関するデータの活用、ならびにリスクや責任の分担が、事業者、保険会社、融資機関および取引先にとって、ますます重要な関心事となっています」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「同年5月12日には、FCCは次世代端末直結型通信（direct-to-device）ネットワーク向けに使用される約65 MHzの中帯域周波数に関する、SpaceXとEchoStarの周波数割当て申請を承認しました」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「また、Space-based Airborne Moving Target Indicator（宇宙配備型空中移動目標探知）プログラムについて、SpaceXに41億6,000万ドル規模のOTA契約を付与したほか、2027年末までにプロトタイプを構築予定の、光通信で相互接続された分散型低軌道衛星からなるデータ伝送基盤「Space Data Network Backbone」の構築に向けた22億9,000万ドル規模のOTA発注契約を行いました」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「NASAのFY27予算要求の概要では、商業低軌道開発に3億ドルが計上されているほか、ISS（国際宇宙ステーション）の運用終了に向けた投資の継続や、商業低軌道拠点および「Moon to Mars」構想への注力がみてとれます」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「また同月9日には、Blue OriginおよびSpaceXの商業有人着陸システムの試験機を用いた、地球軌道上でのランデブーおよびドッキング実証を含むArtemis III計画の詳細を発表しました」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「2026年6月22日、SSCは、米宇宙軍が主導する起動応答型宇宙ミッションの実証実験であるVICTUS HAZEミッションにおいて機動応答型打ち上げの実証を完了し、軌道上での運用を開始したと発表しました」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「Mountain View」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「Dubai‹」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「Shanghai」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「Symbols refer to GT's office structure, which is detailed on the」（https://www.gtlaw.com/ja/insights/2026/7/the-gt-space-report）
+  - 「Skip to main content」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+- 検索結果の抜粋：
+  - 「衛星データ を29カ国へ 輸出 海南省に中国初の加工拠点 — 衛星データ を29カ国へ 輸出 海南省に中国初の加工拠点 Science Portal Asia Pacific https://spap.jst.go.jp > china > news > topic_2_01」（https://spap.jst.go.jp/china/news/260901/topic_2_01.html）
+  - 「衛星データ サービス市場の規模・動向レポート、 2026 〜2032年 — 衛星データ サービス市場の規模・動向レポート、 2026 〜2032年 Global Market Insights Inc. https://www.gminsights.com > ... > 通信」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「衛星データ サービス市場規模、シェア |成長 [ 2026 -2034] — 衛星データ サービス市場規模、シェア |成長 [ 2026 -2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 宇宙技術」（https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-108359）
+  - 「IHI、 衛星データ 販売 北欧大手と最大24基 - 日本経済新聞 — IHI、 衛星データ 販売 北欧大手と最大24基 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGKKZO88828630R20C25A5TB1000/）
+  - 「日本 の 衛星データ企業 30社2026｜Synspective・QPS研究所 ... — 日本 の 衛星データ企業 30社2026｜Synspective・QPS研究所 ... 宇宙旅行.com https://宇宙旅行.com > japan-satellite-data-companies-2026」（https://xn--29sob207cg49a.com/satellite/japan-satellite-data-companies-2026/）
+  - 「衛星データ サービス 市場 規模、 シェア |成長 [2026-2034] — 衛星データ サービス 市場 規模、 シェア |成長 [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 宇宙技術」（https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-108359）
+  - 「宇宙産業65兆円の主役はロケットではなく 衛星データ と地上設備 — 宇宙産業65兆円の主役はロケットではなく 衛星データ と地上設備 Forbes JAPAN https://forbesjapan.com > サイエンス > 宇宙」（https://forbesjapan.com/articles/detail/105770）
+  - 「256 2.5 新たな 衛星データ 提供環境の分析 サマリー — 256 2.5 新たな 衛星データ 提供環境の分析 サマリー 文部科学省 PDF https://www.mext.go.jp > content > 20240625-mxt_...」（https://www.mext.go.jp/content/20240625-mxt_uchukai02-000026968_23.pdf）
+  - 「衛星データ の活用事例⑪：金融（投資）・保険 - 内閣府 — 衛星データ の活用事例⑪：金融（投資）・保険 - 内閣府 内閣府ホームページ PDF https://www8.cao.go.jp > comittee > dai56 > siryou6-2」（https://www8.cao.go.jp/space/comittee/dai56/siryou6-2.pdf）
+  - 「衛星データ サービス 市場規模 、シェア |成長 [ 2026 -2034] — 衛星データ サービス 市場規模 、シェア |成長 [ 2026 -2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 宇宙技術」（https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-108359）
+  - 「衛星データ サービス 市場 の 規模 ・動向レポート、 2026 〜2032年 — 衛星データ サービス 市場 の 規模 ・動向レポート、 2026 〜2032年 Global Market Insights Inc. https://www.gminsights.com > ... > 通信」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「農林水産分野における 衛星データ の利活用 (2025年5 ... - 経団連 — 農林水産分野における 衛星データ の利活用 (2025年5 ... - 経団連 keidanren.or.jp https://www.keidanren.or.jp > journal > times」（https://www.keidanren.or.jp/journal/times/2025/0529_06.html）
+  - 「Satellite Data Services Market Size and Analysis, 2026 -2033 — Satellite Data Services Market Size and Analysis, 2026 -2033 Coherent Market Insights https://www.coherentmarketinsights.com > industry-reports」（https://www.coherentmarketinsights.com/industry-reports/satellite-data-services-market）
+  - 「Satellite Data Services Market Size , Share & Forecast 2032 — Satellite Data Services Market Size , Share & Forecast 2032 Stratview Research https://www.stratviewresearch.com > s...」（https://www.stratviewresearch.com/market-reports/satellite-data-services-market.html）
+  - 「Satellite Data Services Market Size Report, 2025-2030 — Satellite Data Services Market Size Report, 2025-2030 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market）
+
+## 宇宙ステーション（commercial space station）
+- 文脈：6 航空・宇宙 ⑥月面・低軌道
+- 顧客（金を払う側）：
+  - 「政府公共調達データベース」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「持続可能な包装と企業の対応事例」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「輸出経験ゼロの町工場がタイ市場を開拓」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「強みを生かし参入を目指す各国と企業」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「宇宙分野は、政府主導から民間企業が製品やサービスを展開する成長市場へと変わりつつある」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「米国企業が市場を牽引する一方、各国や企業では、宇宙産業全体を自前で構築するのではなく、競争優位を持つ分野に特化し、国際的なサプライチェーンの中で役割を担おうとする動きが広がっている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「本稿では、拡大する宇宙経済の全体像と各国の産業育成策を概観し、企業事例から日本企業の参入機会を探る」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「こうした宇宙経済の成長は、ロケットや衛星を製造する企業だけでなく、衛星通信や位置情報、地球観測データなどを既存事業に組み込む企業にも商機を広げることになるとされる」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「先行する米国企業の動向」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「市場が拡大する一方、その成長を支える打ち上げ需要や衛星配備では米国企業の存在感が際立っている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「資金調達面でも米国企業への集中がみられる」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「スペースXは2026年6月に過去最大規模の新規株式公開（IPO）を実施し、857億ドルを調達した」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「こうした中、2025年第1四半期から2026年第1四半期までの主要資金調達案件では、米国企業が上位を占めている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「表：宇宙関連企業の主要資金調達案件」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「注1：2025年第1四半期～2026年第1四半期までに確認された宇宙関連企業の外部資金調達案件を対象とするランキングであり、企業規模や累計調達額の順位ではない」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+- 顧客の顧客（発注元が求めること）：
+  - 「基準・認証、ルール形成戦略」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「、人工衛星の終末処理に関する要求は強まっている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「実証に成功し、BULLがエンデューロサットの認証サプライヤーとなれば、同社衛星を利用する世界各国の顧客に対する販路が開けるという」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「世界の脱炭素化動向（1）世界のEV市場に変容の兆し」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「世界の脱炭素化動向（2）中東情勢下で見直されるエネルギー供給源」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「価格、納期 1機数百億円、5~10年程度 1機数千万～数十億円程度、1～3年程度」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「出典：防衛省ホームページ※1 出典：防衛省ホームページ※2 出典：防衛省ホームページ※3」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「※防衛省度予算では、「画像衛星」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「・車載等向けのモータ技術を活かした低コスト・短納期のリアクションホイールを開発」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「・低コスト、短納期、スケーラブルなデジタル電源を開発」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「公的利用要求の取りまとめ、波及効果分析」（https://www.mitsui.com/jp/ja/topics/2023/1247312_13930.html）
+  - 「商業利用要求の取りまとめ」（https://www.mitsui.com/jp/ja/topics/2023/1247312_13930.html）
+  - 「脱炭素ソリューションサイト」（https://www.mitsui.com/jp/ja/topics/2023/1247312_13930.html）
+  - 「同様に、定期的に認証を受けた乗員輸送手段を備えていない民間ステーションも、目的地型ビジネスにはなり得ない」（https://www.gminsights.com/ja/industry-analysis/space-tourism-market）
+- 顧客の競合（奪いに来る側）：
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「インドネシア」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「産学連携で高度インド人材との接点創出を目指す東京理科大学」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「中国の両用品目輸出管理強化」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「米国企業が市場を牽引する一方、各国や企業では、宇宙産業全体を自前で構築するのではなく、競争優位を持つ分野に特化し、国際的なサプライチェーンの中で役割を担おうとする動きが広がっている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「先行する米国企業の動向」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「市場が拡大する一方、その成長を支える打ち上げ需要や衛星配備では米国企業の存在感が際立っている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「このうち米国の打ち上げ事業者によるものは193回と、世界全体の約59％を占めた」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「資金調達面でも米国企業への集中がみられる」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「こうした中、2025年第1四半期から2026年第1四半期までの主要資金調達案件では、米国企業が上位を占めている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「こうした中、各国は米国と同様の宇宙産業を一から構築するのではなく、自国が競争力を持つ分野を選び参入しようとしている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「インド政府は2023年に策定した宇宙政策で、衛星製造、打ち上げ、宇宙輸送、データ利用など、宇宙経済のバリューチェーン全体で民間企業の活動を認める方針を明確にしている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「外資規制の緩和やスタートアップ向け基金の設置も進めており、2026年7月18日にはインド企業スカイルート・エアロスペースが同国初の民間開発による軌道投入ロケットの打ち上げに成功した（」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「このように、各国の取り組みは単に米国を「追う」のではなく、打ち上げ環境の利点、投資制度の整備、市場開放といった強みを生かした産業育成を進めている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「低軌道衛星が増加していることに加え、米国では運用終了後5年以内の軌道離脱が原則化され」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+- 自社の競合（商社・代理店・仲介）：
+  - 「宇宙商社®Space BD国内外から集められた研究対象品と記念品などを宇宙空間へ「スペースデリバリープロジェクト」開始 日本と海外の研究機関・教育機関・民間企業10組が参加 2021年度内に国際宇宙ステーションの補給船に搭載し打上げ予定 | NEWS | Space BD株式会社」（https://www.space-bd.com/ja/news/news20210825-001.html）
+  - 「宇宙商社®Space BD国内外から集められた研究対象品と記念品などを宇宙空間へ「スペースデリバリープロジェクト」開始 日本と海外の研究機関・教育機関・民間企業10組が参加 2021年度内に国際宇宙ステーションの補給船に搭載し打上げ予定」（https://www.space-bd.com/ja/news/news20210825-001.html）
+  - 「Space BDは、日本の宇宙ビジネスを世界を代表する産業に発展させることを目指す「宇宙商社®」です」（https://www.space-bd.com/ja/news/news20210825-001.html）
+  - 「2017年の創業以来、衛星打ち上げをはじめ様々なサービス展開により国内外から50件以上の受注実績を重ねるなど、宇宙商社として幅広く展開しています」（https://www.space-bd.com/ja/news/news20210825-001.html）
+  - 「2022年1月には、NASAがVADR（Venture-Class Acquisition of Dedicated and Rideshare）というプログラムのなかで、有力なロケットベンチャーおよび代理店を12社の選定し、資金を提供する契約を発表しています」（https://note.com/nec_iise/n/n2acc7e64147a）
+  - 「「現物株手数料」で選ぶ！」（https://diamond.jp/zai/articles/-/1049865）
+  - 「「株式売買手数料」で選ぶ！」（https://diamond.jp/zai/articles/-/1049865）
+  - 「「コンビニATM＆振込手数料」で選ぶ！」（https://diamond.jp/zai/articles/-/1049865）
+  - 「大手不動産仲介は「囲い込み」が蔓延?!」（https://diamond.jp/zai/articles/-/1049865）
+  - 「手数料、取引ツールetc.で総合比較！ おすすめネット証券はココだ！」（https://diamond.jp/zai/articles/-/1049865）
+  - 「株式売買手数料」（https://diamond.jp/zai/articles/-/1049865）
+  - 「国内株式の売買手数料が完全無料」（https://diamond.jp/zai/articles/-/1049865）
+  - 「取引報告書などを電子交付するだけで、現物取引、信用取引に加え、単元未満株の売買手数料まで0円になるので、売買コストに関しては圧倒的にお得な証券会社と言える」（https://diamond.jp/zai/articles/-/1049865）
+  - 「米国株の売買手数料が最低0米ドルから取引可能になのも魅力」（https://diamond.jp/zai/articles/-/1049865）
+  - 「◆【SBI証券の特徴とおすすめポイントを解説！】株式投資の売買手数料の安さは業界トップクラス！ IPOや米国株、夜間取引など、商品・サービスも充実」（https://diamond.jp/zai/articles/-/1049865）
+- 政治（法・予算・規制）：
+  - 「世界各国の関税率」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「政府公共調達データベース」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「米国関税措置への対応」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「中国の両用品目輸出管理強化」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「基準・認証、規制」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「宇宙分野は、政府主導から民間企業が製品やサービスを展開する成長市場へと変わりつつある」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「ニュージーランドは、人口密度が低く、空域の混雑が比較的少ないという条件に加え、打ち上げ実績や柔軟な規制環境を生かして、宇宙・先端航空分野の研究開発、飛行試験、打ち上げ、衛星データ利用を一体的に育成する方針を示している」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「同国政府は2030年までに宇宙・先端航空産業の規模を倍増させることを目標としている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「インド政府は2023年に策定した宇宙政策で、衛星製造、打ち上げ、宇宙輸送、データ利用など、宇宙経済のバリューチェーン全体で民間企業の活動を認める方針を明確にしている」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「外資規制の緩和やスタートアップ向け基金の設置も進めており、2026年7月18日にはインド企業スカイルート・エアロスペースが同国初の民間開発による軌道投入ロケットの打ち上げに成功した（」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「日本政府も、国内宇宙産業の市場規模を2030年に8兆円へ拡大し、2040年には日本企業による国内外での市場獲得額を少なくとも13兆円規模とする方針を示している」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「また、JAXAに設置した宇宙戦略基金を通じ、10年間で総額1兆円規模の支援を行い、民間企業や大学などによる技術開発、実証、商業化を後押しする方針だ」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「中国のレアアース輸出管理（1）日本への磁石輸出に大きな影響」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「米国の鉄鋼・アルミ・銅の232条関税の制度変更と企業の実務対応」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「通関・関税の話」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+- 経済（規模・価格・為替）：
+  - 「世界経済フォーラム（WEF）と米マッキンゼーの共同レポートによれば、世界の宇宙経済は2023年の6,300億ドルから2035年には1兆8,000億ドルへ拡大し、年平均9％と世界の国内総生産（GDP）成長率の約2倍のペースで成長する見通しだ」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「は前年比約54％増の4,544機に達し、そのうち85％を米民間宇宙開発会社スペースXが軌道上へ輸送した」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「また、英宇宙投資会社セラフィム・スペースによると、2026年第1四半期の世界の宇宙関連技術への投資額は約80億ドルと、同社の四半期統計上で過去最高を記録した」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「日本政府も、国内宇宙産業の市場規模を2030年に8兆円へ拡大し、2040年には日本企業による国内外での市場獲得額を少なくとも13兆円規模とする方針を示している」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「また、JAXAに設置した宇宙戦略基金を通じ、10年間で総額1兆円規模の支援を行い、民間企業や大学などによる技術開発、実証、商業化を後押しする方針だ」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「Space: The $1.8 Trillion Opportunity for Global Economic Growth」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「⚫ 現在の世界の宇宙産業の規模は約54兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「⚫ モルガン・スタンレーによると、世界の宇宙産業の市場規模は、2040年までに140兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「⚫ 市場規模は約４兆円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「政府は2030年代早期の倍増（約8兆円）を目指している」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「打上げ価格は、2000年」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「価格、納期 1機数百億円、5~10年程度 1機数千万～数十億円程度、1～3年程度」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「1980年代のスペースシャトルでは、ロケットで人工衛星を低軌道に打ち上げる際の費用は、1kgあたり約10万ドル（約1500万円）とかなり高額なものでした」（https://note.com/nec_iise/n/n2acc7e64147a）
+  - 「現在は1kgあたり2000ドル程度（約30万円）とおよそ50分の1まで低価格化」（https://note.com/nec_iise/n/n2acc7e64147a）
+  - 「1億円を目指す「マネ活!」実践講座」（https://diamond.jp/zai/articles/-/1049865）
+- 社会（人・担い手）：
+  - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「高度外国人材を輩出する大学、その最前線に迫る」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「産学連携で高度インド人材との接点創出を目指す東京理科大学」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「英調査メディアfDi Intelligenceも、宇宙産業新興国にとっては、ロケット、衛星、地上設備、データ利用などを全て国内で整備するよりも、地理的条件、既存産業、人材、制度などの強みを生かせる分野を特定することが重要だと指摘する」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「• 次世代人材育成と国際プレゼンス向上」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「• 技術・産業・人材基盤の確立」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「（６）人材・資金等の資源の効果的・効率的な活用」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「(c)技術・産業・人材基盤の強化」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「• 人材基盤の強化」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「ル・ガイドライン整備、人材育成等を推進」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「技術開発・設備投資・人材育成」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「教育・人材育成」（https://www.space-bd.com/ja/news/news20210825-001.html）
+  - 「三井物産の人材マネジメント」（https://www.mitsui.com/jp/ja/topics/2023/1247312_13930.html）
+  - 「具体的には、フランスのThales（タレス）社、ドイツOHBグループ、イタリアのLeonardo SpA（レオナルド）グループなどで欧州全体の雇用の63%に達しています」（https://note.com/nec_iise/n/n2acc7e64147a）
+  - 「来週（11/2〜11/6）の日経平均株価の予想レンジは6万1000～6万5000円！ 米・中間選挙や雇用統計、アップル決算、さらに金融政策や金利の動向に注目！」（https://diamond.jp/zai/articles/-/1049865）
+- 技術（新しい技術・実証）：
+  - 「ロケットや衛星などのハードウエアを中心とした従来型の宇宙開発に加え、通信、測位、地球観測、防災、農業、金融、安全保障など、地上の幅広い産業や社会インフラを支える基盤産業を含めた「宇宙」関連産業の経済（以下、宇宙経済）は、拡大傾向にある」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「は前年比約54％増の4,544機に達し、そのうち85％を米民間宇宙開発会社スペースXが軌道上へ輸送した」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「衛星通信を利用した無人水上艇の開発」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「再利用可能なロケットの開発」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「ニュージーランドは、人口密度が低く、空域の混雑が比較的少ないという条件に加え、打ち上げ実績や柔軟な規制環境を生かして、宇宙・先端航空分野の研究開発、飛行試験、打ち上げ、衛星データ利用を一体的に育成する方針を示している」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「外資規制の緩和やスタートアップ向け基金の設置も進めており、2026年7月18日にはインド企業スカイルート・エアロスペースが同国初の民間開発による軌道投入ロケットの打ち上げに成功した（」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「同国は衛星通信企業を中心に形成してきた産業基盤に加え、企業による宇宙資源の探査・利用を支える法制度を整備し、宇宙資源利用や関連技術の研究開発で主導的な役割を目指している」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「また、JAXAに設置した宇宙戦略基金を通じ、10年間で総額1兆円規模の支援を行い、民間企業や大学などによる技術開発、実証、商業化を後押しする方針だ」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「同社は「地球内外の惑星間の行き来を『当たり前に』」をビジョンに掲げ、役割を終えた人工衛星やロケット上段部の軌道離脱を促す宇宙デブリ化防止（PMD：Post-Mission Disposal）装置「HORN」を開発している」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「同社は2026年6月、H3ロケット6号機で「HORN」の実証衛星を打ち上げ、膜の展開と衛星の軌道降下に成功した」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「実証に成功し、BULLがエンデューロサットの認証サプライヤーとなれば、同社衛星を利用する世界各国の顧客に対する販路が開けるという」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「財貿易の主役に躍り出るAI関連財（世界）」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「AI時代の半導体産業（1）AI向け半導体の「主役」に迫る（世界）」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「AI時代の半導体産業（2）AIの社会実装で活躍広がる半導体（世界）」（https://www.jetro.go.jp/biz/areareports/special/2026/0801/a7d80f70416d4c3e.html）
+  - 「その一方、日本から、例えば宇宙航空研究開発機構（JAXA）が種子島宇宙センターからロケットで人工衛星を打ち上げる場合、輸出通関は必要になるのでしょうか？」（https://www.globalbizgate.com/boekitips/2019/09/10/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E8%BC%B8%E5%87%BA%EF%BC%9F/）
+- 検索結果の抜粋：
+  - 「中国 の宇宙飛行士3人 建設中の 宇宙ステーション ... - YouTube — 中国 の宇宙飛行士3人 建設中の 宇宙ステーション ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=QeD1QI7vPyI）
+  - 「Additional Investment in Commercial Space Station Business ... — Additional Investment in Commercial Space Station Business ... Mitsubishi Corporation https://www.mitsubishicorp.com > 2026」（https://www.mitsubishicorp.com/jp/en/news/release/2026/20260113001.html）
+  - 「Commercial Space Stations 2026 : Vast, Axiom, Starlab — Commercial Space Stations 2026 : Vast, Axiom, Starlab Orbital Radar https://orbitalradar.com > commercial」（https://orbitalradar.com/space-stations/commercial）
+  - 「Commercial Space Station Market Report 2026 — Commercial Space Station Market Report 2026 Research and Markets https://www.researchandmarkets.com > ...」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report?srsltid=AYCX9vKWrh1U472VxFUG9BRUX5WCPDBUPhQItOOI9mNBxBiA17FTJK5D）
+  - 「Commercial Space Station Market Size & Industry Growth 2030 — Commercial Space Station Market Size & Industry Growth 2030 Future Data Stats https://www.futuredatastats.com > co...」（https://www.futuredatastats.com/commercial-space-station-market?srsltid=AYCX9vLB956RRnVhgM8LlT9dQxzJVa9Uu9Tb4NZnsI4Uyc9nTANj6Bou）
+
+## 次世代船舶（alternative fuel vessels）
+- 文脈：8 造船 ①次世代船舶
+- 顧客（金を払う側）：
+  - 「：造船所が仕事を見通せるよう、発注を安定させる」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「造船所や修繕ドックは港のある地域に立地し、船の部品や機器をつくるメーカーとともに地域の雇用を支える産業でもあります」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「・ゼロエミッション船等の導入を支援する」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「ゼロエミッション船等の生産体制整備・技術開発・実証・導入の支援、IMOでの国際ルール策定等の主導、AIを活用した次世代型造船ロボットの研究開発支援」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「荷主や海運事業者による国内造船所への継続的・安定的な発注を確保するとともに、中長期的な需給双方の協働に関する合意に基づき、国内造船所の供給体制及び省エネ技術・防熱技術を活用した次世代LNG運搬船を開発する能力の構築を図る」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「荷主や海運事業者による国内造船所への継続的・安定的な発注を確保し、需給双方の協働の合意に基づき、供給体制と次世代LNG運搬船の開発能力を構築」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「船を造る側（造船所）だけでなく、船を注文する側（ガスを運びたい荷主や海運事業者）が国内造船所に継続的・安定的に発注することで、造船所は設備や人材に投資する見通しが立ちます」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「⚫ 部品調達を含めて国内に基盤を有し、」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 国内生産比率が約８割、地域生産比率９割以上であるのに加え、ほぼ全ての部品を国内調達しており、地域の経」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 受注と竣工の期間が長い（近年は３～４年）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「船舶受注後（船価確定後）に材料を調達するため、物」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「建造能力拡大には長期間・多額の設備投資が必要」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ こうした市況変動のため、大規模な施設・設備投資のリスクが大きい」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「の受注を行い、今後建造量の増」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「世界における船舶受注量と国別シェア」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+- 顧客の顧客（発注元が求めること）：
+  - 「製造分野における熱プロセスの脱炭素化」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「内航船や官公庁船はほぼ全て国内で修繕されている一方、外航船の修繕は海外の特定国への依存度が高いと原文は指摘しています」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「内航船や官公庁船はほぼ全て国内で修繕されている一方で、外航船の修繕は海外の特定国への依存度が高い」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「国内の修繕ドックに係る実態を踏まえ、海事産業群内でのデータの共有化や国内で修繕需要が見込まれる外航船・内航船・官公庁船の修繕能力向上、総合的な人材確保・育成を進めるとともに、同志国での修繕拠点の確保等を多角的に図る」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「・国内の修繕リソースを柔軟にフル活用できる形での国内で修繕需要が見込まれる外航船・内航船・官公庁船の修繕キャパシティの増加や、同志国との連携による我が国船主の外航船の修繕需要に持続的に対応できる体制の構築を目指す」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「・修繕ドックに係る実態の把握、海事産業群内でのデータの共有化等による技術力・生産性の向上や修繕工期の短縮、官公庁船の修繕時期の平準化を進める」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「内航船（国内を行き来する船）・官公庁船」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「修繕ドックの実態を踏まえ、海事産業群内でのデータ共有化、外航船・内航船・官公庁船の修繕能力向上、総合的な人材確保・育成、同志国での修繕拠点の確保」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「実態把握とデータ共有化で修繕工期短縮、官公庁船の修繕時期の平準化、ドック・クレーン・塗装・洗浄設備の拡充・高度化、AI・ロボット等で自動化・省人化、教育訓練と人材交流、同志国の修繕ドックの活用」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「「官公庁船の修繕時期の平準化」」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「巡視船や調査船などの官公庁船の修繕がある時期に集中すると、ドックが混み合い、ほかの船の修繕も滞ります」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「海事産業群内でのデータ共有化による修繕工期の短縮、官公庁船の修繕時期の平準化、AI・ロボット等による自動化・省人化に取り組みます」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「「官公庁船の修繕時期の平準化」とはどういう意味ですか？」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「官公庁船の修繕がある時期に集中しないよう、時期をならして分散させることです」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「日本成長戦略は、修繕ドックの実態把握やデータの共有化とあわせて、官公庁船の修繕時期の平準化を進め、技術力・生産性の向上や修繕工期の短縮を図るとしています」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+- 顧客の競合（奪いに来る側）：
+  - 「実は、公共AIのシェア1位を誇る「」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「舶用工業のシェア」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ インド太平洋地域に展」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 中国は、2024年の世界の建造量のうち約50％を建造しており、今後もシェアは拡大すると見込まれる」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「建造量（韓国）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「建造量（中国）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「建造量（欧州）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「中国は2024年に世界の７割超」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「世界における船舶受注量と国別シェア」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 世界的な発注の低迷の中、2020年にかけて日本の受注量・シェアが減少」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「日本のシェアは15-16%で推移してい」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 中国は、2024年に世界の７割超の受注を行い、今後建造量の増加が見込まれ、市場支配力を強めている」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「日本 韓国 中国 欧州 その他」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 2022年以降、日本船主による中国造船所への発注が大きく増加し、全体の３～４割程度（2010年代後半は」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「我が国建造量及びシェアの減少傾向が続き」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+- 自社の競合（商社・代理店・仲介）：
+  - 「⚫ 日本の国際競争力強化に向けて、造船業、舶用工業、海運業、商社の各企業がコンソーシアムを組んで」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf）
+  - 「商社・卸売り」（https://www.nikkei.com/article/DGXZQOUC016W10R00C26A6000000/）
+  - 「Commissioned Research :」（https://www.atpress.ne.jp/news/6526035）
+  - 「https://www.reportocean.co.jp/commissioned-research-services」（https://www.atpress.ne.jp/news/6526035）
+  - 「以後、住商と連携しながら、船舶の売買、用船仲介、融資斡旋から運行支援まで一貫したサービスを提供しています」（https://www.sumitomocorp.com/ja/jp/enrich/contents/0096）
+  - 「最大の強みは総合商社で唯一、グループ会社として日本国内に造船所を所有し、事業を展開していることです」（https://www.sumitomocorp.com/ja/jp/enrich/contents/0096）
+  - 「その顧客ネットワークを活用し、大型ばら積み船やタンカーなどの他船型、また中古船や融資仲介にもトレードビジネスの幅を広げることでさまざまな船主や造船所との取引につなげているのも特徴です」（https://www.sumitomocorp.com/ja/jp/enrich/contents/0096）
+  - 「また、商社に似た機能を持つ欧州のシップブローカーが東京に支店を出し、商社が得意としてきた日本市場に進出する動きも活発化していますね」（https://www.sumitomocorp.com/ja/jp/enrich/contents/0096）
+  - 「トレードにおいて商社は間に入る立場だからこそ、強い当事者意識を持って物事に取り組まないと、お客さまに価値を認めてもらえない存在です」（https://www.sumitomocorp.com/ja/jp/enrich/contents/0096）
+  - 「【応募資格】 [必須] ※以下全てを満たす方 ・メーカーや商社での海外調達、または、海外営業の経験（最低3年以上） ・英語でのコレポン、商談の経験（メール、電話、折衝、交渉が出来ること）※単独での海外渡航、商談を想定しています」（https://jp.stanby.com/search?q=%E6%AC%A1%E4%B8%96%E4%BB%A3%E8%88%B9%E8%88%B6+%E8%AA%BF%E9%81%94+%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC+%E8%A6%81%E6%B1%82&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【応募資格】 [必須] ・家具、家電、アメニティ、リネン、什器、消耗品、設備備品等に関する購買・調達経験 ・メーカー、商社、サプライヤー等との折衝、見積もり取得、価格交渉の経験 ・コスト、品質、納期を管理しながら、調達業務を推進した経験 [歓迎] ・ホテル業界、または空間・インテリア・家具・リネン・アメニティ領域での業務経験 ・専門商社または商社での営業、仕入れ、調達経験 ・価格交渉、納期管理、在庫・供給管理を含むサプライチェーンマネジメント経験 ・コンセプトやブランドの意図を理解し、空間や体験に合った商材提案を行った経験 ・新規開業、リニューアル、立ち上げフェーズに関わった経験 【フィットす」（https://jp.stanby.com/search?q=%E6%AC%A1%E4%B8%96%E4%BB%A3%E8%88%B9%E8%88%B6+%E8%AA%BF%E9%81%94+%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC+%E8%A6%81%E6%B1%82&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【主な業務内容】 ・食材・原材料の仕入れ先選定および価格交渉 ・食品商社・卸売業者・メーカーとの商談、取引条件の見直し ・県内外の新規仕入れ先開拓、調達ルートの構築 ・食材別の購入金額・仕入れ単価・使用量の分析 ・市場価格や原材料相場の調査 ・品質・価格・安定供給を考慮した調達先の最適化 ・栄養課・製造部門と連携した食材選定、原価改善 ・購買ルールの標準化、仕入れ先の評価・管理体制の整備 ※ 将来的には、購買戦略の策定や購買部門の立ち上げなど、組織づくりにも関わって」（https://jp.stanby.com/search?q=%E6%AC%A1%E4%B8%96%E4%BB%A3%E8%88%B9%E8%88%B6+%E8%AA%BF%E9%81%94+%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC+%E8%A6%81%E6%B1%82&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「• 海運・造船・舶用事業者や商社、造工・海技研と協力して実施」（https://wwwtb.mlit.go.jp/tohoku/content/000338449.pdf）
+  - 「● 我が国では造船業 ・ 舶用工業と海運業を中心に、 研究機関、 金融、 商社などの幅広い分野が密接に関連し、」（https://www.mlit.go.jp/maritime/content/001753368.pdf）
+  - 「【企業フォーカス】株式会社ニューメタルス・エンド・ケミカルス・コーポレーション：地政学リスクを追い風に飛躍する老舗レアメタル＆新素材専門商社」（https://www.iru-miru.com/article/86905）
+- 政治（法・予算・規制）：
+  - 「次世代船舶の開発 | NEDO グリーンイノベーション基金」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「グリーンイノベーション基金事業概要」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「予算額と2050年の効果目標値」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「グリーンイノベーション基金事業」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「グリーンイノベーション基金事業関連サイト」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「造船業は経済安全保障上も安全保障上も重要な産業とし、「日本の船は日本で造る」べく、「造船業再生ロードマップ」も踏まえ、建造体制の強靱化、造船人材の確保・育成、安定的な造船需要の確保に取り組みます」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「LNG運搬船は、建造技術の獲得・保持が経済安全保障上重要とし、2035年以降に年間3〜5隻建造の安定的な供給体制の構築を目指します」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「（政府の文章そのまま）」→「」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「原文は内閣官房「日本成長戦略」（2026年7月21日閣議決定）から引用しています」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「造船業は、我が国の貿易量のほぼ全てを担う海上輸送に不可欠な船舶を安定的に供給する、経済安全保障上重要な産業と位置づけられています」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「造船業は、我が国の貿易量のほぼ全てを担う海上輸送に不可欠な船舶を安定的に供給し、国民生活や経済活動を支える経済安全保障上重要な産業であり、艦船、巡視船等を安定供給する安全保障上も重要な産業である」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「経済安全保障」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「は、造船業が貿易量のほぼ全てを担う海上輸送に不可欠な船舶を供給する経済安全保障上重要な産業であり、艦船・巡視船等を供給する安全保障上も重要な産業だとしています」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「造船業再生基金を通じた建造能力向上により、自律性を確保する」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「造船業再生基金による建造能力向上で自律性を確保」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+- 経済（規模・価格・為替）：
+  - 「次世代船舶は、ゼロエミッション船や自動運航船をゲームチェンジの機会とし、2035年に日本で1,800万総トンの建造、市場規模約5兆円を目指します」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「次世代船舶に係る技術をてこに、2035年に日本で1,800万総トンの建造、市場規模約5兆円を目指します」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「・次世代船舶に係る技術をてこに、我が国において2035年に1,800万総トンの建造、市場規模約５兆円を目指す」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「2035年に日本で1,800万総トンの建造、市場規模約5兆円」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「⚫ 令和7年度補正予算で1,200億円を措置」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「「官民投資１兆円」のフレーム」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 「造船業再生ロードマップ」に基づき、2035年までに官民で１兆円規模の投資実現を目指す」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（官:3,800億円規模）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（官民:2,800億円規模）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（民:3,500億円規模）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「1,200億円」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「120億円：～2030」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「約410億円の内数：2025～2030 （官民約270億円）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「150億円※１：～2026」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+- 社会（人・担い手）：
+  - 「Ⅲ-4 人材育成」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「造船業は経済安全保障上も安全保障上も重要な産業とし、「日本の船は日本で造る」べく、「造船業再生ロードマップ」も踏まえ、建造体制の強靱化、造船人材の確保・育成、安定的な造船需要の確保に取り組みます」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「「日本の船は日本で造る」べく、「造船業再生ロードマップ」も踏まえ、船舶建造体制の強靱化、造船人材の確保・育成に向けた教育体制等の整備、安定的な造船需要の確保に取り組みます」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「我が国造船業を再生して「日本の船は日本で造る」べく、「造船業再生ロードマップ」も踏まえ、船舶建造体制の強靱化、造船人材の確保・育成に向けた教育体制等の整備、安定的な造船需要の確保などに取り組んでいく」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「造船人材の確保・育成に向けた教育体制等の整備」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「造船所や修繕ドックは港のある地域に立地し、船の部品や機器をつくるメーカーとともに地域の雇用を支える産業でもあります」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「の研究開発支援も施策に入っており、人手不足の中でも生産性を上げる狙いがうかがえます」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「国内の修繕ドックに係る実態を踏まえ、海事産業群内でのデータの共有化や国内で修繕需要が見込まれる外航船・内航船・官公庁船の修繕能力向上、総合的な人材確保・育成を進めるとともに、同志国での修繕拠点の確保等を多角的に図る」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「・教育訓練体制の強化や同志国との人材交流等の総合的な人材確保・育成を進める」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「修繕ドックの実態を踏まえ、海事産業群内でのデータ共有化、外航船・内航船・官公庁船の修繕能力向上、総合的な人材確保・育成、同志国での修繕拠点の確保」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「実態把握とデータ共有化で修繕工期短縮、官公庁船の修繕時期の平準化、ドック・クレーン・塗装・洗浄設備の拡充・高度化、AI・ロボット等で自動化・省人化、教育訓練と人材交流、同志国の修繕ドックの活用」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「・LNG運搬船の設計・建造に必要な人材の確保・育成に向けた教育研究体制を整備する」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「需要サイドと供給サイドの協働による供給体制構築、同志国の建造ノウハウ等の戦略的な組合せ、設計・建造人材の確保・育成に向けた教育研究体制の整備」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「船を造る側（造船所）だけでなく、船を注文する側（ガスを運びたい荷主や海運事業者）が国内造船所に継続的・安定的に発注することで、造船所は設備や人材に投資する見通しが立ちます」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「需要サイドと供給サイドの協働や同志国の建造ノウハウ等の戦略的な組合せで供給体制を確保し、設計・建造人材の教育研究体制を整備します」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+- 技術（新しい技術・実証）：
+  - 「次世代船舶の開発 | NEDO グリーンイノベーション基金」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「次世代型太陽電池の開発」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「次世代型地熱技術の開発」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「等を用いたプラスチック原料製造技術開発」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「等を用いた燃料製造技術開発」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「を用いたコンクリート等製造技術開発」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「の分離回収等技術開発」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「次世代蓄電池・次世代モーターの開発」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「電動車等省エネ化のための車載コンピューティング・シミュレーション技術の開発」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「次世代デジタルインフラの構築」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「次世代航空機の開発」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「次世代船舶の開発」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「等削減・吸収技術の開発」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「研究開発・社会実装計画が改定されました」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+  - 「海上輸送のカーボンニュートラルの実現には、既存燃料の重油から、水素・アンモニア・カーボンリサイクルメタン等のガス燃料への転換が必須であり、水素・アンモニアを燃料とする船の舶用製品の開発および、LNG(カーボンリサイクルメタン等を含む)燃料船のメタンスリップ削減が必要とされています」（https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/）
+- 検索結果の抜粋：
+  - 「造船｜ 次世代船舶 ・船舶修繕・LNG運搬船（日本成長戦略 ... — 造船｜ 次世代船舶 ・船舶修繕・LNG運搬船（日本成長戦略 ... 日本DX地域創生応援団 https://digital-supporter.net > mirai-ai > seichou17 > zousen」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「次世代船舶 の世界トップシェア獲得に向け、更なる設備投資を ... — 次世代船舶 の世界トップシェア獲得に向け、更なる設備投資を ... 国土交通省 https://www.mlit.go.jp > press > kaiji05_hh_000342」（https://www.mlit.go.jp/report/press/kaiji05_hh_000342.html）
+  - 「グリーンイノベーション基金事業／ 次世代船舶 の開発 2025 ... — グリーンイノベーション基金事業／ 次世代船舶 の開発 2025 ... 経済産業省 PDF https://www.meti.go.jp > industrial_restructuring > pdf」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf）
+  - 「2030年における 次世代船舶 受注量の世界トップ シェア を ... — 2030年における 次世代船舶 受注量の世界トップ シェア を ... 国土交通省 https://www.mlit.go.jp > press > kaiji05_hh_000281」（https://www.mlit.go.jp/report/press/kaiji05_hh_000281.html）
+  - 「海事：グリーンイノベーション基金事業「 次世代船舶 の開発 ... — 海事：グリーンイノベーション基金事業「 次世代船舶 の開発 ... 国土交通省 https://www.mlit.go.jp > maritime > maritime_tk7_000041」（https://www.mlit.go.jp/maritime/maritime_tk7_000041.html）
+  - 「次世代船舶 調達 サプライヤー 要求 の求人情報をすべて見る （240,015件） — 次世代船舶 調達 サプライヤー 要求 の求人情報をすべて見る （240,015件） スタンバイ」（https://jp.stanby.com/search?q=%E6%AC%A1%E4%B8%96%E4%BB%A3%E8%88%B9%E8%88%B6+%E8%AA%BF%E9%81%94+%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC+%E8%A6%81%E6%B1%82&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「日本財団ゼロエミッション船プロジェクト — 日本財団ゼロエミッション船プロジェクト 日本財団 https://www.nippon-foundation.or.jp > zeroemission2050」（https://www.nippon-foundation.or.jp/what/projects/zeroemission2050）

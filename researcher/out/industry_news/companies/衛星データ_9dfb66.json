@@ -1,0 +1,4372 @@
+{
+ "name": "衛星データ",
+ "en": "satellite data services",
+ "aliases": [
+  "地球観測",
+  "リモートセンシング"
+ ],
+ "context": "6 航空・宇宙 ⑤人工衛星・サービス",
+ "kind": "market",
+ "researched_at": "2026-11-04T00:43:28.076910+00:00",
+ "evidence": {
+  "SNS・note（note・本文）": [
+   {
+    "quote": "衛星データは「宇宙で処理する」時代へ——Ramon.SpaceとFoxconn系列が軌道上データセンターに踏み出す理由｜宇宙ビジネスキュレーター",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星データは「宇宙で処理する」時代へ——Ramon.SpaceとFoxconn系列が軌道上データセンターに踏み出す理由",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今、宇宙で起きていることを一言で表すなら、「データの洪水」という言葉が近いかもしれません。地球観測衛星は毎日膨大な画像を撮影し、通信衛星はトラフィックをさばき続け、科学衛星は観測記録を積み上げます。問題は、それを受け取る地上側の処理能力が追いつかなくなってきた点です。",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "地上局が衛星と通信できる時間は、1回の上空通過でせいぜい数分間です。その短い窓口に大量のデータを流し込もうとしても、帯域には物理的な上限があります。地上のデータセンターに届いてから処理するという流れでは、山火事の発生や洪水の拡大を「リアルタイム」に把握することはなかなか難しい。衛星データを活用したサービスが増えれば増えるほど、このボトルネックは深刻さを増します。",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そこへ、イスラエル発のスペースコンピューティング企業Ramon.Spaceが、具体的な打開策を示してきました。",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ramon.Spaceは、放射線・極端な温度変化・限られた電力という宇宙特有の制約に対応した、コンピューターシステムの開発を手がけてきた企業です。OneWebの通信衛星をはじめ、ESAやNASAが関わるプロジェクトを含む約50のミッションに搭載されてきた実績があります。",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星の世界では「飛行実績（フライトヘリテージ）」が信頼の証です。どれほど優れた技術でも、宇宙で動いた記録がなければ採用につながらない。その意味で、同社が積み上げてきた実績は、次のステップへ進む上での重要な資産となっています。",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の発表の核心は、同社がFoxconn Technology Groupの子会社であるIngrasys（インクレシス）と、軌道上データセンター向けインフラの共同開発へと踏み出すというものです。",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "政治（法・予算・規制）": [
+   {
+    "quote": "宇宙戦略基金",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ひとつは日本の国家安全保障・経済安全保障市場に向けたハイパースペクトル衛星コンステレーションの構築です",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "他の受託事業・補助金等を受けているテーマで応募しても問題ないか",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国の補助金・受託事業と全く同一の内容での応募はＮＧとなります",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この市場のシェアは、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、宇宙監視への政府投資、そして商用アプリケーションにおけるAI駆動型画像分析の採用増加により、大きく拡大しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府と民間部門は、土地利用の評価、建設計画の最適化、災害対策の強化のために、衛星ベースの監視システムに投資しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本政府は、国家安全保障、環境監視、精密農業の取り組みを強化するために、AI駆動型地理空間分析を奨励しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エンドユーザー別では、政府、建設、輸送・ロジスティクス、軍事・防衛、林業・農業、その他が含まれます",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第7章には政府、建設、運輸・ロジスティクス、軍事・防衛、林業・農業、その他のエンドユーザーごとの市場内訳が記載されており、それぞれについて概要、2020年から2025年までの市場トレンド、2026年から2034年までの市場予測が示されている",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Planet・ICEYE・BlackSkyの2026年業績、宇宙戦略基金の地球観測テーマ、Tellusの新体制まで2026年9月時点で解説",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TeraWaveはBlue Originが2026年1月に発表した企業・データセンター・政府向けの衛星通信網",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2030年代に軌道上10万機時代を迎える前に知るべきVisorSat等の対策技術・ITU・国連の規制動向・持続可能な宇宙利用の課題を整理",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米政府著作物の基本ルールと例外、images.nasa.gov・APOD・EPIC・Hubble/JWST画像のライセンス、ESA画像の利用条件とCC BY-SA、商用利用とクレジット表記の実務、Wikimedia Commonsの使い方まで網羅",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来、衛星地球観測は政府機関や研究機関を中心とした利用が主流でしたが、近年では高性能小型衛星、人工知能（AI）による画像解析、クラウド型データ処理基盤の発展により、民間企業による利用機会が大きく広がっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 政府投資と都市開発が市場拡大を後押し：",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙能力への政府投資の増加、官民パートナーシップ、および持続可能な都市開発へのニーズが、市場に大きな機会を生み出しています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年の日本衛星地球観測市場は2億5,900万米ドル規模に到達し、政府主導の観測利用から民間サービス活用への転換が進んでいます",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 政府政策・宇宙予算への依存リスクと市場拡大への影響",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方で、政府予算、宇宙基本計画、官民連携プログラムの方向性変化は、市場成長に影響を与える重要なリスク要因です",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため、今後の市場リーダーには政府向けサービスだけでなく、物流、建設、エネルギー、金融、農業、環境管理など民間産業向けの利用拡大が求められます",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本企業が長期的に競争力を維持するためには、独自センサー技術、精密観測能力、産業別アプリケーション開発、政府・民間双方とのエコシステム形成が重要になります",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この市場は、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、政府による宇宙監視への投資、商業用途でのAIを活用した画像解析の採用増加により、大幅に拡大しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府および民間部門は、土地利用の評価、建設計画の最適化、災害準備の強化のために、衛星ベースの監視システムに投資しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本政府は、国家安全保障、環境監視、精密農業の取り組みを強化するために、AI駆動型地理空間分析を奨励しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エンドユーザー別では、政府、建設、運輸・物流、軍事・防衛、林業・農業、その他が含まれます",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第7章には政府、建設、輸送と物流、軍事と防衛、林業と農業、その他のエンドユーザーごとの市場内訳が、それぞれ概要、2020年から2025年までの歴史的・現在のトレンド、および2026年から2034年までの市場予測と共に分析されている",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府が2026年度中の設立を目指す「防災庁」の構想において、衛星データによる迅速な被害状況の把握は、国家戦略の核心として位置づけられている",
+    "url": "https://japanstep.jp/learn/2026/04/1921/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【動画掲載】宇宙戦略基金×CONSEO合同イベント～産官学金の衛星データ利用エコシステムの共創～（",
+    "url": "https://earth.jaxa.jp/conseo/news/2026.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第124回宇宙政策委員会の配布資料から、国家インフラとなる測位・通信・地球観測といった人工衛星の使い方、また今後の私たちの暮らしをより良くするための予算の具体例を紹介します",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ひとつは日本の国家安全保障・経済安全保障市場に向けたハイパースペクトル衛星コンステレーションの構築です",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「第7回宇宙開発利用大賞」にて環境大臣賞を受賞し、また、宇宙戦略基金第2期の技術開発テーマでも採択されるなど、この1年で宇宙業界において、急速にその存在感が大きくなっているArchedaの事業内容と求人について、同社で活躍するお二人にお話を伺いました",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建設、林業、保険、行政、環境……宇宙戦略基金第2期テーマ「衛星データ実装加速化事業」採択された17件のまとめ【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金「衛星データ利用システム実装加速化事業」の採択17件を分析",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "民間衛星データを活用して研究者や政府機関、政策決定者に高解像度・高頻度の地球観測データを低コストで提供",
+    "url": "https://spacemedia.jp/news/19309",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インターステラテクノロジズとスペースワン、最大120億円の宇宙戦略基金「STAND」に採択",
+    "url": "https://space-connect.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAの宇宙戦略基金「STAND」にインターステラテクノロジズとスペースワンが採択",
+    "url": "https://space-connect.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ひとつは日本の国家安全保障・経済安全保障市場に向けたハイパースペクトル衛星コンステレーションの構築です",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "イギリス政府、衛星通信市場での競争力を高めるために、約57億円の新たな資金提供を発表【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年3月4日、イギリス政府は衛星通信技術を開発する英国企業に対し、3,000万ポンド（約57億円）の新たな資金提供を行うと発表しました",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来、衛星地球観測は政府機関や研究機関を中心とした利用が主流でしたが、近年では高性能小型衛星、人工知能（AI）による画像解析、クラウド型データ処理基盤の発展により、民間企業による利用機会が大きく広がっています",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 政府投資と都市開発が市場拡大を後押し：",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙能力への政府投資の増加、官民パートナーシップ、および持続可能な都市開発へのニーズが、市場に大きな機会を生み出しています",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年の日本衛星地球観測市場は2億5,900万米ドル規模に到達し、政府主導の観測利用から民間サービス活用への転換が進んでいます",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 政府政策・宇宙予算への依存リスクと市場拡大への影響",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方で、政府予算、宇宙基本計画、官民連携プログラムの方向性変化は、市場成長に影響を与える重要なリスク要因です",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため、今後の市場リーダーには政府向けサービスだけでなく、物流、建設、エネルギー、金融、農業、環境管理など民間産業向けの利用拡大が求められます",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本企業が長期的に競争力を維持するためには、独自センサー技術、精密観測能力、産業別アプリケーション開発、政府・民間双方とのエコシステム形成が重要になります",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（追加公募）衛星データ利用システム実装加速化事業 | JAXA宇宙戦略基金",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金について",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金設立の",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金の",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基金運営に関する最新情報",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "信号認証サービス",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この認証は、公共エリアにおける遠隔操作型モビリティソリューションの実装に向けた大きな一歩となります",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に日本では、自然災害の多発、インフラ老朽化、脱炭素社会への移行など、地球観測データを必要とする社会課題が増加しており、市場拡大を後押ししています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、保険、建設、物流、エネルギーなどの民間分野でも、衛星情報を活用したリスク評価や事業継続計画（BCP）強化への関心が高まっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "公共案件への依存度が高い企業では、政策変更や調達方針の見直しによって収益予測が変動する可能性があります",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和9年度の宇宙関係概算要求から考える「国家インフラ」としての宇宙の使い方",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に日本では、自然災害の多発、インフラ老朽化、脱炭素社会への移行など、地球観測データを必要とする社会課題が増加しており、市場拡大を後押ししています",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、保険、建設、物流、エネルギーなどの民間分野でも、衛星情報を活用したリスク評価や事業継続計画（BCP）強化への関心が高まっています",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "公共案件への依存度が高い企業では、政策変更や調達方針の見直しによって収益予測が変動する可能性があります",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界的には、激甚化・頻発化する自然災害の被害をいかに抑制するか、脱炭素社会に向け、カーボンニュートラルをいかに実現するかなど、地球規模課題に対する産官学での取り組みが加速しています",
+    "url": "https://www.sd-services.co.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デジタル実装によるコンサル能力の深化とAIなどの先端技術を融合させ、気候変動や脱炭素、災害対策、トレーサビリティなどの社会課題を解決し、安全・安心な社会基盤と希望ある未来の創造・実装に挑みます",
+    "url": "https://www.kkc.co.jp/news/release/2026/03/02_34463/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "JAXA地球観測 データ 利用30年を振り返る — JAXA地球観測 データ 利用30年を振り返る JAXA｜宇宙航空研究開発機構 https://www.satnavi.jaxa.jp > news > 2026/03/30",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本 衛星 地球観測市場、2035年6億6370万米ドルへ — 日本 衛星 地球観測市場、2035年6億6370万米ドルへ アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星 地球観測コンソーシアム | 2026年 のお知らせ — 衛星 地球観測コンソーシアム | 2026年 のお知らせ JAXA｜宇宙航空研究開発機構 https://earth.jaxa.jp > conseo > news > 2026",
+    "url": "https://earth.jaxa.jp/conseo/news/2026.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NASA、民間企業からの 衛星データ 取得を追加 合計14社と契約 — NASA、民間企業からの 衛星データ 取得を追加 合計14社と契約 spacemedia.jp https://spacemedia.jp > news",
+    "url": "https://spacemedia.jp/news/19309",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本 衛星 地球観測市場、2035年6億6370万米ドルへ — 日本 衛星 地球観測市場、2035年6億6370万米ドルへ Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（追加公募） 衛星データ 利用システム実装加速化事業 — （追加公募） 衛星データ 利用システム実装加速化事業 JAXA宇宙戦略基金 https://fund.jaxa.jp > techlist > theme2_22-2",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星データの活用を推進する「衛星 データサービス 企画」へ出資 — 衛星データの活用を推進する「衛星 データサービス 企画」へ出資 国際航業株式会社 https://www.kkc.co.jp > news > release > 2026/03",
+    "url": "https://www.kkc.co.jp/news/release/2026/03/02_34463/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "衛星データを専門知識なしで扱えるJAXA Earth APIと、生成AI連携を実現するMCP・Agent Skillsの仕組み、対話だけで衛星データを解析できるチュートリアルを紹介します",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Commissioned Research :",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "https://www.reportocean.co.jp/commissioned-research-services",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Commissioned Research :",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "https://www.reportocean.co.jp/commissioned-research-services",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Update #4 - Cessation of Suomi National Polar-orbiting Partnership (S-NPP) data to users on November 02, 2026 1540 UTC and Decommissioning - Issued November 2, 2026 1800 UTC",
+    "url": "https://www.nesdis.noaa.gov/news-events/search-news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Update #3 - Cessation of Suomi National Polar-orbiting Partnership (S-NPP) data to users on November 02, 2026 1540 UTC and Decommissioning - Issued October 30, 2026 1400 UTC",
+    "url": "https://www.nesdis.noaa.gov/news-events/search-news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Update #2 - Cessation of Suomi National Polar-orbiting Partnership (S-NPP) data to users on November 02, 2026 1300 UTC and Decommissioning - Issued October 19, 2026 1400 UTC",
+    "url": "https://www.nesdis.noaa.gov/news-events/search-news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "2025年にリリースされたNEC地球観測衛星画像解析サービスプラットフォーム「NEC Earth Observation Satellites’ image Analysis Services Platform（略称：NEOSAP）」について、その特徴、顧客との対話を重ねた開発の舞台裏、今後目指す姿を伺いました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この助成を活用し、光学衛星とSAR衛星という異なる衛星のデータを、一つのAIで扱う視覚基盤モデルが実現可能かどうかの調査に取り組みます",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「誰もが衛星データ利用を手軽にできる時代に」JAXA Earth APIにおける生成AI連携の解説_PR",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星データを専門知識なしで扱えるJAXA Earth APIと、生成AI連携を実現するMCP・Agent Skillsの仕組み、対話だけで衛星データを解析できるチュートリアルを紹介します",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星データで「インフラ管理」「防災・災害対応」を革新する技術開発求む！ 「NEDO Challenge, Satellite Data-衛星データで革新する未来の都市インフラ-」の公募開始_PR",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペースシフト、 農林水産省「農山漁村振興への貢献活動に係る取組証明書」を取得 ｜「AI×『農山漁村』インパクト創出ソリューション実装プログラム」に採択",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "事業拡大を支えるプロダクト開発とセキュリティ強化に向けた体制づくりを推進",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIエージェント",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アクセルスペース、次世代地球観測衛星「GRUS-3C」の検証画像を公開",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "千葉大関連スタートアップのHiSR、衛星など複数の観測データを統合するAI地震予測技術で特許出願",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "九工大らの研究グループ、AIによる人工衛星の表面帯電の自動検出手法を開発 世界初",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NTT、地球低軌道での衛星通信の容量拡大に成功 JAXAとの共同実証",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "タイミーの亀田彗氏がWHEREの技術顧問に就任 開発体制やセキュリティ関連でアドバイス",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スウェーデンのSSC Space、日本企業2社と覚書・サービス契約締結 実証の共同検討やサービス利用で協力",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このような中、経済産業省およびNEDOは、衛星を活用した、さまざまな社会課題の解決に資するソリューション開発に取り組んでいます",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インフラマネジメント及び都市活動における課題解決に資する技術開発",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "● 衛星データを活用した、インフラ構造物の劣化等の点検や監視、インフラ周辺状況のモニタリング、3D都市モデル等の作成・更新、土地利用変化・建物更新の把握、交通量等の都市活動のモニタリング等の課題解決に資する技術開発を募ります",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インフラに係る防災・災害対応における課題解決に資する技術開発",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "● 衛星データを活用した、災害リスク評価、災害・異常検知、災害時の広域的・動的な状況把握、3D都市モデル等と組み合わせた災害状況の可視化等の課題解決に資する技術開発を募ります",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "株式会社カナン・ジオリサーチは、自社開発の地中レーダ3次元モバイルマッピングシステム（GMS3）を用いて「地下と地上の可視化」を行い、インフラ保全や防災に取り組んでいます",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "開発環境と提供データ",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本事業では、１次審査通過者に対して以下の開発環境を提供する予定ですが、本開発環境の利用は必須ではありません",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※サービスのアップデート等により、開発環境の提供方法が変更となる可能性があります",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Tellusの開発/解析環境でのみ利用可能な衛星データ",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年3月現在、9機の衛星が軌道上で活躍しており、搭載されているセンサの技術が次世代の衛星に受け継がれていることや、当時の時代背景、EORCや関係部署の組織の変遷と共にどのような衛星が開発、運用されてきたかを再確認することが出来ます",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXA・環境省・国立環境研究所が合同で開発した",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAが開発してきたマイクロ波放射計、グローバル光学放射計、合成開口レーダ（SAR）、高解像度光学放射計、温室効果ガス観測センサ、降水レーダ、雲プロファイリングレーダなど、センサ種別に技術の系譜が示されているため、同じ“地球観測”でも目的に応じて進化の軸が異なることが分かります",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "観測対象については、「雲粒の動きの把握」など新しい“見る力”が加わり、利用者が必要とする情報をより直接的・高頻度に届ける方向へ開発が進められてきました",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（TE）」はJAXAが東京大学と共同で開発した衛星データを融合した陸域の水循環シミュレーションシステムです",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AIを使って関東の地表面温度を表示させた一例",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、2026年1月には生成AIからの呼び出しにも対応できるようになりました",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、新たな衛星の開発につながる最先端の研究にも邁進しております",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIをはじめとする革新的な技術と組み合わせることによって、地球観測衛星データは現状をモニタリングするだけではなく、将来を予測し人々の行動の科学的な根拠となるような情報を提供していくことが可能となると信じております",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "#SAMRAI",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この市場のシェアは、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、宇宙監視への政府投資、そして商用アプリケーションにおけるAI駆動型画像分析の採用増加により、大きく拡大しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本における衛星画像サービス市場のトレンドとして、第一にインフラ開発における高解像度衛星画像への需要の増大が挙げられます",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特にインフラ開発、都市計画、災害管理において高解像度画像への需要が高まっています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この取り組みは、複数の場所で実証プロジェクトを実施することで、ロボットサービス会社の生産性向上を目指すものです",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スマートシティと環境保全への注力も市場をさらに牽引しており、高解像度衛星画像は持続可能な都市開発と資源管理のための詳細な洞察を提供しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第二に、AIと機械学習の衛星データ分析への統合が市場を変革しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これはデータ処理を自動化し、画像分析の精度を向上させています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これには、需要の変動に対応するためにビームパターンと電力レベルを動的に変更できる軌道上再構成機能を備えたソフトウェア定義型衛星の開発が含まれます",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI駆動型アルゴリズムは、物体検出、変化検出、予測分析を強化し、農業、防衛、物流などの産業が効率的に実用的な洞察を引き出すことを可能にしています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本政府は、国家安全保障、環境監視、精密農業の取り組みを強化するために、AI駆動型地理空間分析を奨励しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Tellus・Copernicus・NASA・GEE・Planet・Vantor(旧Maxar)・Airbus・JAXA・AWS/Azure・UP42・SkyWatchの料金・API・解像度・活用事例を網羅",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ryanairが見送るなか、Wizz AirやVirgin Atlantic、American Airlinesなど他社の動きと比べ、料金などまだ分からない点を整理する",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星データ市場規模と成長予測2026 — 地球観測からAI分析まで",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Celesteとは？GPSを補う低軌道の測位衛星と5G信号の実証【2026】",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州宇宙機関（ESA）のCelesteは、低軌道（LEO）から測位を試す実証衛星群だ",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "#Airbus",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2035年、AI時代に地球観測は何に使われるのか？土地・資源・経済の3シナリオ",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIで仕事や経済が変わっても、土地・水・電力・安全・生態系の制約は残る",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NASA-ISROが共同開発したNISAR衛星（開発費15億ドル）がメキシコシティの年5cm超の地盤沈下を初観測",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Airbus傘下、80以上のデータプロバイダーを一元化したマーケットプレイスの料金体系・APIの使い方・Sentinel Hubとの違いを2026年最新情報で整理する",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来、衛星地球観測は政府機関や研究機関を中心とした利用が主流でしたが、近年では高性能小型衛星、人工知能（AI）による画像解析、クラウド型データ処理基盤の発展により、民間企業による利用機会が大きく広がっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI解析とクラウド技術が衛星データビジネスを変革",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来の衛星画像は専門知識を持つ利用者向けでしたが、AI画像解析技術の進歩により、膨大な観測データから必要な情報を自動抽出することが可能になっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIを活用した土地利用変化検出、森林減少分析、都市開発モニタリング、農作物生育評価などは、企業や行政が意思決定を迅速化するための重要なツールとなっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Satellite Data Services Launches on LinkedIn Satellite Data Services Launches on LinkedIn LinkedIn https://www.linkedin.com > posts > sa...",
+    "url": "https://www.linkedin.com/posts/satellite-data-services-co-ltd_satellitedata-remotesensing-earthobservation-activity-7424701506551070720-Ghr4",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "North America Satellite Data Services Report - LinkedIn North America Satellite Data Services Report - LinkedIn LinkedIn https://www.linkedin.com > pulse > n...",
+    "url": "https://www.linkedin.com/pulse/north-america-satellite-data-services-report-industry-analysis-n4ate",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "衛星データ は「宇宙で処理する」時代へ——Ramon.Spaceと ... 衛星データ は「宇宙で処理する」時代へ——Ramon.Spaceと ... note https://note.com > 科学・テクノロジー > 宇宙科学",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "我が国ではインフラの維持管理の担い手不足やインフラの急速な老朽化、人口減少・人口偏在化などに加え、自然災害の激甚化・頻発化が進み、テクノロジー活用によるインフラ維持管理の効率化や、防災・災害対応の高度化が求められています",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インフラ構造物の劣化等の点検やモニタリングの効率化・高度化・人手不足解消",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人手不足解消",
+    "url": "https://japanstep.jp/learn/2026/04/1921/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【カーボンクレジットの未来を支える人材急募】「信頼される評価手法を創り、地球の秘めた可能性を価値にする」Archedaが切り拓く衛星データ×カーボンクレジットの最前線と事業の魅力_PR",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペジョブは、宇宙産業に本気で働きたい人を支援する人材マッチングプラットフォームです",
+    "url": "https://space-connect.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、衛星利用による宇宙ソリューションビジネスの海外展開強化や、衛星データの利用拡大、担い手の拡充等を図っていく",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙電力インフラのZero Industries、約4.7億円を調達 前澤ファンドなど出資",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "優れた提案には、協賛企業により表彰および賞金（最大300万円）を授与します",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像サービスの日本市場（2026年～2034年）、市場規模（地理空間データの取得とマッピング、天然資源管理、監視とセキュリティ）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像サービスの日本市場（2026年～2034年）、市場規模（地理空間データの取得とマッピング、天然資源管理、監視とセキュリティ）・分析レポートを発表",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本調査会社は、2026年から2034年にかけて市場が年平均成長率（CAGR）10.80%で拡大し、2034年には11億4167万米ドルに達すると予測しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SAR入門 — X/C/Lバンドの違い・主要衛星10機種比較・画像の価格帯と無料データソース",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "X/C/Lバンドの特性比較、ICEYE 60機超・ALOS-4・QPS研究所など主要10機種の一覧、InSARの地盤沈下検出原理、画像価格$1〜50/km²の相場、Sentinel-1無料データの入手方法まで解説",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星データ市場規模と成長予測2026 — 地球観測からAI分析まで",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星通信事業者の売上比較2026 — SES/Intelsat/Eutelsat/Viasatの業績分析",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界の主要衛星通信事業者の2025年度売上・営業利益・加入者数を徹底比較した分析記事",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "3,236基のLEOコンステレーション構成、2026年サービス開始計画、Starlinkとの技術・価格・カバレッジの徹底比較",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像の価格は10分の1にできる？最低購入面積と5つの条件【2026】",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像の価格を10分の1にする条件を、km²単価・最低購入面積・解析費に分けて試算",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SkyWatchやPlanet、UP42の公開条件、無料のSentinel-2/Landsatとの違い、値下げで広がる市場と市場規模の読み方まで整理する",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本衛星地球観測市場、2035年6億6,370万米ドルへ｜CAGR 11.02％で拡大する宇宙データ需要 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本衛星地球観測市場、2035年6億6,370万米ドルへ｜CAGR 11.02％で拡大する宇宙データ需要",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模は2025年の2億5,900万米ドルから2035年には6億6,370万米ドルへ拡大すると予測され、2026年から2035年にかけて年平均成長率（CAGR）11.02％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 日本衛星地球観測市場は、2025年に2億5,900万米ドルと評価され、2035年までに6億6,370万米ドルに達すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）11.02％を記録する見込みであります",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2035年には市場規模が6億6,370万米ドルに達すると予測され、衛星地球観測は防災、安全保障、環境管理、産業DXを支える重要なデジタル基盤として位置付けられる見通しです",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本5G産業用IoT市場、2035年に301億2000万米ドルへ拡大｜CAGR 5.5％、スマート工場・産業オートメーション・リアルタイム通信の高度化が市場成長を促進",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本5Gミリ波技術市場、2035年には12億7288万米ドル規模へ｜（CAGR）14.1％、省エネルギー型熱交換システムと高性能熱媒体の需要拡大が産業競争力を強化",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本熱媒体市場は2035年に10億6,130万米ドルへ拡大、CAGR 4.44％｜産業用加熱・冷却システムの高効率化と熱管理技術の進化が市場成長を促進",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像サービスの日本市場（2026年～2034年）、市場規模（地理空間データの取得とマッピング、天然資源管理、監視とセキュリティ）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像サービスの日本市場（2026年～2034年）、市場規模（地理空間データの取得とマッピング、天然資源管理、監視とセキュリティ）・分析レポートを発表",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本調査会社は、2026年から2034年にかけて年平均成長率（CAGR）10.26%で成長し、2034年には12億1,060万米ドルに達すると予測しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "総額は1,300万ポンド（約28億円）です",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "北極観測で気象予測の精度向上へ、OHB Swedenが欧州連携の衛星コンステレーションで約450億円超の契約を獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "契約総額は、約2億4,800万ユーロ（約450億円超）であり、スウェーデン宇宙産業において最大規模の衛星契約となる見込みです",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同契約は確定固定価格・不確定納品／不確定数量（IDIQ）方式の複数社授与契約で、当初の上限総額は4億7,600万ドル",
+    "url": "https://spacemedia.jp/news/19309",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インターステラテクノロジズとスペースワン、最大120億円の宇宙戦略基金「STAND」に採択",
+    "url": "https://space-connect.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件最大120億円の支援制度の概要や、ZERO・カイロスの打ち上げ実証、商...",
+    "url": "https://space-connect.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "総額は1,300万ポンド（約28億円）です",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "売上187億ドルを上回る投資でAI・Starshipを推進することをIPO申請書類で初公開",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "登録届出書で公開された売上187億ドル・設備投資207億ドルの3セグメント別収益構造を解説します",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "北極観測で気象予測の精度向上へ、OHB Swedenが欧州連携の衛星コンステレーションで約450億円超の契約を獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "契約総額は、約2億4,800万ユーロ（約450億円超）であり、スウェーデン宇宙産業において最大規模の衛星契約となる見込みです",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "イギリス政府、衛星通信市場での競争力を高めるために、約57億円の新たな資金提供を発表【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年3月4日、イギリス政府は衛星通信技術を開発する英国企業に対し、3,000万ポンド（約57億円）の新たな資金提供を行うと発表しました",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本衛星地球観測市場、2035年6億6,370万米ドルへ｜CAGR 11.02％で拡大する宇宙データ需要 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本衛星地球観測市場、2035年6億6,370万米ドルへ｜CAGR 11.02％で拡大する宇宙データ需要",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模は2025年の2億5,900万米ドルから2035年には6億6,370万米ドルへ拡大すると予測され、2026年から2035年にかけて年平均成長率（CAGR）11.02％で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 日本衛星地球観測市場は、2025年に2億5,900万米ドルと評価され、2035年までに6億6,370万米ドルに達すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）11.02％を記録する見込みであります",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2035年には市場規模が6億6,370万米ドルに達すると予測され、衛星地球観測は防災、安全保障、環境管理、産業DXを支える重要なデジタル基盤として位置付けられる見通しです",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件あたり 中小企業・スタートアップ0.2億〜20億円程度、大企業0.15億〜20億円程度（採択予定30件程度）",
+    "url": "https://hojonavi.breakthru.co.jp/subsidies/t-national3-0063",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界の宇宙産業の市場規模は2030年で76兆円、2040年には120兆円に達すると言われています",
+    "url": "https://www.sd-services.co.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州が自ら管理できる衛星インテリジェンス基盤を共同構築へ",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年6月18日、VantorとRheinmetallはドイツおよび欧州各国の軍隊向けに、主権型の空間インテリジェンス能力構築を目的とした基本合意書（MOU）の締結を発表しました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国防情報局、宇宙安全保障の脅威を評価した報告書の2026年版を公表",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米RedwireとブルガリアのEnduroSat、欧州の宇宙インフラ強化に向け覚書締結",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "独Reflex Aerospace、NVIDIAの出資計画を背景に欧州での衛星生産能力を拡大",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国航空宇宙局（NASA）の地球観測データのポータルサイト",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州宇宙機関（ESA）が管理する地球観測プログラム",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この市場のシェアは、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、宇宙監視への政府投資、そして商用アプリケーションにおけるAI駆動型画像分析の採用増加により、大きく拡大しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、地域別では、関東地方、関西/近畿地方、中部地方、九州・沖縄地方、東北地方、中国地方、北海道地方、四国地方といった主要な全地域市場の包括的な分析も提供しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第4章には日本の衛星画像サービス市場の概要、市場ダイナミクス、業界トレンド、競合インテリジェンスといった市場の紹介が記載されている",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第8章には関東、関西/近畿、中部、九州・沖縄、東北、中国、北海道、四国といった地域ごとの市場内訳が記載されており、それぞれについて概要、2020年から2025年までの市場トレンド、アプリケーション別およびエンドユーザー別の市場内訳、主要プレイヤー、2026年から2034年までの市場予測が示されている",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第9章には概要、市場構造、市場プレイヤーのポジショニング、トップの勝ち戦略、競合ダッシュボード、企業評価象限といった日本の衛星画像サービス市場の競争環境が記載されている",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Starlink 稼働1万1,078基（2026年8月末）/加入1,030万/164ヶ国、Amazon Leo 量産打上げ中、OneWeb 650基、中国千帆も急拡大",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "easyJetがStarlink機内Wi-Fiを採用｜2027年前半に取り付け開始、355機の欧州LCCが動いた理由",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州宇宙機関（ESA）のCelesteは、低軌道（LEO）から測位を試す実証衛星群だ",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インドの通信最大手Jioの衛星通信は3つの別の取り組みだ",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国のLandsatと欧州のSentinel-2を完全比較",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国GPS・欧州Galileo・日本のみちびき(QZSS)、世界3大衛星測位システムを完全比較",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約3万台の星センサーを転用する仕組み、無料にする狙い、米国のTraCSSや日本のJAXA SSA体制との関係、日本の運用者への影響までまとめる",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インドSkyServeが2026年9月に公開した分析をもとに、画素の小ささ・雲と照り返し・船の向き・港の混雑・衛星上の計算資源という5つの壁を整理する",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Starlink・OneWeb・Amazon Leo・中国千帆の衛星数・料金・展開状況を詳しく比較し、ドコモ・ソフトバンクの衛星スマホ直接通信サービスの最新状況も公開情報から詳しく整理",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海外企業による低価格衛星データ提供やAI解析サービスの普及は、日本企業にとって価格競争圧力となる可能性があります",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "サイズ、シェア、成長",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "傾向、サイズ、シェア",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、地域別では、関東地方、関西・近畿地方、中部地方、九州・沖縄地方、東北地方、中国地方、北海道地方、四国地方の主要な地域市場すべてを包括的に分析しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場構造、主要企業のポジショニング、主要な成功戦略、競合ダッシュボード、企業評価クアドラントなどの競争分析がレポートに含まれており、主要企業全ての詳細なプロファイルも提供されています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第4章には日本衛星画像サービス市場の概要、市場ダイナミクス、業界トレンド、および競合インテリジェンスが紹介されている",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第8章には日本の各地域（関東、関西/近畿、中部、九州・沖縄、東北、中国、北海道、四国）ごとの市場内訳が提供されており、それぞれ概要、2020年から2025年までの歴史的・現在のトレンド、アプリケーション別内訳、エンドユーザー別内訳、主要プレイヤー、および2026年から2034年までの市場予測が詳細に分析されている",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第9章には市場の競争環境が概要、市場構造、市場プレイヤーのポジショニング、主要な成功戦略、競合ダッシュボード、および企業評価象限を通じて分析されている",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州宇宙機関（ESA）地球観測プログラムに関するワークショップ開催レポート",
+    "url": "https://earth.jaxa.jp/conseo/news/2026.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "16件のプロジェクトはESA（欧州宇宙機関）の通信技術開発プログラム「ARTES」の一部として実施され、身近な用途から深宇宙通信までテーマが多岐にわたります",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州最大規模のテクノロジー・カンファレンス「VIVATECH 2026」において、Amaozn、そして、Blue Originの創業者であるジェフ・ベゾス氏が登壇",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州が自ら管理できる衛星インテリジェンス基盤を共同構築へ",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年6月18日、VantorとRheinmetallはドイツおよび欧州各国の軍隊向けに、主権型の空間インテリジェンス能力構築を目的とした基本合意書（MOU）の締結を発表しました",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Redwire Corporationは、欧州宇宙機関（ESA）が進める量子鍵配送衛星プログラム「QKDSat」において、衛星の開発契約を獲得したと発表しました",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "北極観測で気象予測の精度向上へ、OHB Swedenが欧州連携の衛星コンステレーションで約450億円超の契約を獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "16件のプロジェクトはESA（欧州宇宙機関）の通信技術開発プログラム「ARTES」の一部として実施され、身近な用途から深宇宙通信までテーマが多岐にわたります",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Redwire Corporationは、欧州宇宙機関（ESA）が進める量子鍵配送衛星プログラム「QKDSat」において、衛星の開発契約を獲得したと発表しました",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "北極観測で気象予測の精度向上へ、OHB Swedenが欧州連携の衛星コンステレーションで約450億円超の契約を獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海外企業による低価格衛星データ提供やAI解析サービスの普及は、日本企業にとって価格競争圧力となる可能性があります",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "サイズ、シェア、成長",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "傾向、サイズ、シェア",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場や競合の分析があいまい",
+    "url": "https://hojonavi.breakthru.co.jp/subsidies/t-national3-0063",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "途中、米国駐在などを経て、2021年より同社宇宙システム開発センター副センター長として衛星データ利用事業や衛星データサービス企画株式会社の設立を推進",
+    "url": "https://www.sd-services.co.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "China | 中国",
+    "url": "https://info.archives.global.fujitsu/global/about/resources/news/press-releases/2025/0522-01.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このページをシェア",
+    "url": "https://www.kkc.co.jp/news/release/2026/03/02_34463/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "台湾のFoxconn系列とイスラエルのスペーステクノロジーが手を組んで宇宙インフラを構築するという組み合わせ自体が、宇宙ビジネスのグローバルな裾野の広がりを示しています",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# 衛星データ - Search / X # 衛星データ - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Genryo Kanno on X: \" 衛星データ 利用は実用やPoCの話は山 ... Genryo Kanno on X: \" 衛星データ 利用は実用やPoCの話は山 ... X https://x.com > @genryo",
+    "url": "https://x.com/genryo_k/status/2091897420217225575",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "経営・資金調達",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業人インタビュー",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Open Cosmosが3億ユーロを調達",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星の量産能力を拡大し、他国に頼らない観測・通信サービスの展開を加速【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の調達資金は衛星の量産能力の拡大と、ConnectedCosmos、OpenConstellation、DataCosmosの展開加速に充てられます",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年にリリースされたNEC地球観測衛星画像解析サービスプラットフォーム「NEC Earth Observation Satellites’ image Analysis Services Platform（略称：NEOSAP）」について、その特徴、顧客との対話を重ねた開発の舞台裏、今後目指す姿を伺いました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAや企業による緊急観測・被害推定・復旧支援【随時更新】",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「令和8年熊本地震」を受け、JAXAや宇宙関連企業各社が、衛星による被災地域の緊急観測やデータの提供、復旧・復興を支えるサービスの無償提供などに取り組んでいます",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙技術が災害対応にどのように活かされているのか、各機関や企業の動きをまとめました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業登録申請",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業・事業主のお客様",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業・事業主ユーザーとして登録すると、プレスリリースの配信・掲載をおこなうことができます",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業・事業主ユーザーで",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業様からのお問い合わせ",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スウェーデンのSSC Space、日本企業2社と覚書・サービス契約締結 実証の共同検討やサービス利用で協力",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙電力インフラのZero Industries、約4.7億円を調達 前澤ファンドなど出資",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本プログラムは協賛企業の協力により実行委員会を組成し、「NEDO懸賞金活用型プログラム」と独立したコンテストを実施します",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "事業化を目指す企業、個人、学生、異業種等から、幅広く応募を募り、社会インフラ分野の課題解決につながる事業アイデアを募集します",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "優れた提案には、協賛企業により表彰および賞金（最大300万円）を授与します",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙業界関係者に留まらず、広く事業アイデアを募集しますので、企業、個人、学生、異業種等の積極的な参加を期待します",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "協賛企業テーマ",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "審査委員が所属する企業から応募してもよいか",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "代表者の重複がなければ、同一の企業や団体であっても別応募者とみなします",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スタートアップが機関投資家から資金調達を行っている場合、応募は可能か",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スタートアップ等について、機関投資家等から資金調達を行っている場合であっても応募可能です",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コンソーシアムの構成員企業については代表機関と同じ資格要件を備えている必要があります",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "資料には、衛星画像サービスの日本市場規模、動向、予測、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この市場のシェアは、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、宇宙監視への政府投資、そして商用アプリケーションにおけるAI駆動型画像分析の採用増加により、大きく拡大しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに、民間企業は、自律航行、サプライチェーン最適化、気候監視などの商業アプリケーションを開発するためにAIを活用しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIとML技術の進歩に伴い、日本の衛星画像サービスはより費用対効果が高く、アクセスしやすくなっており、正確なリアルタイムの地理空間データを必要とする様々なセクターで採用が拡大し、日本における衛星画像サービス市場の見通しに良い影響を与えています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場構造、主要企業のポジショニング、主要な勝利戦略、競争ダッシュボード、企業評価象限といった競争分析がカバーされており、また、全ての主要企業の詳細なプロファイルも提供されています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第9章には概要、市場構造、市場プレイヤーのポジショニング、トップの勝ち戦略、競合ダッシュボード、企業評価象限といった日本の衛星画像サービス市場の競争環境が記載されている",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "クラウドコンピューティングの進化は、膨大な衛星画像の処理と解析を効率化し、AI/機械学習技術の導入は、画像データからより高度で実践的な洞察を自動的に抽出する能力を高めています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像サービス市場は、民間企業の参入と技術革新によって急速に拡大しており、今後も新たなビジネスモデルやアプリケーションの創出が期待されています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界の衛星メーカー63社",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Starlink 稼働1万1,078基（2026年8月末）/加入1,030万/164ヶ国、Amazon Leo 量産打上げ中、OneWeb 650基、中国千帆も急拡大",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "easyJetがStarlink機内Wi-Fiを採用｜2027年前半に取り付け開始、355機の欧州LCCが動いた理由",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "英国の格安航空easyJetが2026年10月26日、初の機内インターネットとしてStarlinkを採用すると発表した",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TeraWaveはBlue Originが2026年1月に発表した企業・データセンター・政府向けの衛星通信網",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "OneWebの交換衛星32機が完成｜エアバスが仏トゥールーズで量産、ユーテルサットは669機で網を更新",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "発注は計669機で、2034年まで置き換えと拡張を続ける",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ICEYEが自国運用のSAR衛星を12か月で納入｜日本の現在地と比べる",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の衛星データ企業30社2026｜Synspective・QPS研究所・アクセルスペースなど用途別比較",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の衛星データ企業30社を用途別に比較【2026年最新】",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来、衛星地球観測は政府機関や研究機関を中心とした利用が主流でしたが、近年では高性能小型衛星、人工知能（AI）による画像解析、クラウド型データ処理基盤の発展により、民間企業による利用機会が大きく広がっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIを活用した土地利用変化検出、森林減少分析、都市開発モニタリング、農作物生育評価などは、企業や行政が意思決定を迅速化するための重要なツールとなっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業にとっても、環境・社会・ガバナンス（ESG）対応やサプライチェーンリスク管理の観点から、衛星データ活用の重要性が高まっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業は衛星画像そのものではなく、意思決定につながる分析情報への投資を強化しています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内企業と新規プレイヤーによる競争環境が形成",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本衛星地球観測市場では、衛星開発企業、画像解析サービス企業、通信事業者、IT企業など、多様なプレイヤーが市場形成に関与しています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、小型衛星の低コスト化や打ち上げ機会の増加により、新興企業による市場参入も進んでいます",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業や行政がリアルタイム情報を活用して意思決定を高度化する時代において、衛星地球観測は日本のデジタル社会基盤を支える重要な成長領域となるでしょう",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本衛星地球観測市場の成長を支える基盤は、高性能衛星コンステレーション、センサー技術、地上局インフラへの継続的な投資ですが、これらの初期投資負担と運用コストは企業の収益性に直接影響します",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "資料には、衛星画像サービスの日本市場規模、動向、予測、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この市場は、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、政府による宇宙監視への投資、商業用途でのAIを活用した画像解析の採用増加により、大幅に拡大しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは、複数の場所で実証プロジェクトを実施し、ロボットサービス企業の生産性向上を目指すものであり、公共エリアでの遠隔制御モビリティソリューションの実社会での実装に向けた大きな一歩となります",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スマートシティや環境保全への注力も導入をさらに促進しており、高解像度衛星画像は持続可能な都市開発と資源管理のための詳細な洞察を提供します",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに、民間企業はAIを活用して、自律航行、サプライチェーン最適化、気候監視などの商業アプリケーションを開発しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spacemedia.jp/category/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/9609529",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://earth.jaxa.jp/conseo/news/20250324-1/meikan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newscast.jp/news/9320741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanstep.jp/learn/2026/04/1921/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space-data-challenge.nedo.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://earth.jaxa.jp/conseo/news/2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spacemedia.jp/news/19309",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space-connect.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/world-indices/FT5XC2Y5OZJNVNA6J7F3YQKR3M-2026-04-02/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://newscast.jp/smart/news/2577829",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cao.go.jp/keizai_anzen_hosho/kokuuchu/doc/shiryo4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojonavi.breakthru.co.jp/subsidies/t-national3-0063",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mext.go.jp/content/20260204-mxt_uchukai01-000047103_14.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://qzss.go.jp/info/information/applidemo_260401.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.decn.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/pages/menseki",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pub.nikkan.co.jp/search/g103348.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nesdis.noaa.gov/news-events/search-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sd-services.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earthdata.nasa.gov/news/feature-articles/kicking-off-development-new-earth-observation-solutions",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techuk.org/events/satellite-futures-summit-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.archives.global.fujitsu/global/about/resources/news/press-releases/2025/0522-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkc.co.jp/news/release/2026/03/02_34463/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajiko.co.jp/news_detail/1758",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E6%9C%80%E6%96%B0%E3%81%AE%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-market%E4%BA%88%E6%B8%AC%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A8%E5%90%8C%E5%B8%82%E5%A0%B4%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr145%E3%81%A7%E5%A4%A7%E5%B9%85%E3%81%AA%E6%8B%A1%E5%A4%A7%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-ynxme",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/genryo_k/status/2091897420217225575",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/satellite-data-services-co-ltd_satellitedata-remotesensing-earthobservation-activity-7424701506551070720-Ghr4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/north-america-satellite-data-services-report-industry-analysis-n4ate",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "衛星データ ニュース 2026年11月",
+   "results": [
+    "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "https://spacemedia.jp/category/news",
+    "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "https://tenki.jp/past/2026/11/01/satellite/japan-near/",
+    "https://weathernews.jp/onebox/past/satellite/2026/11/01/",
+    "https://www.satnavi.jaxa.jp/ja/news/2026/page/3/index.html",
+    "https://www.youtube.com/watch?v=kj3whpHRCDE",
+    "https://www.ihi.co.jp/all_news/2026/aeroengine_space_defense/1202054_13805.html"
+   ]
+  },
+  {
+   "query": "衛星データ 発表 2026年11月",
+   "results": [
+    "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "https://spacemedia.jp/category/news",
+    "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "https://newscast.jp/news/9609529",
+    "https://xn--29sob207cg49a.com/satellite/",
+    "https://www.atpress.ne.jp/news/2577829",
+    "https://starwalk.space/ja/news/spacex-starlink-satellites-night-sky-visibility-guide",
+    "https://www8.cao.go.jp/space/comittee/dai122/fundamental_material.pdf",
+    "https://xn--29sob207cg49a.com/satellite/satellite-data-market-size-2026/"
+   ]
+  },
+  {
+   "query": "衛星データ 受注 2026年11月",
+   "results": [
+    "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "https://earth.jaxa.jp/conseo/news/20250324-1/meikan.pdf",
+    "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "https://spacemedia.jp/category/news",
+    "https://newscast.jp/news/9320741",
+    "https://www.atpress.ne.jp/news/2577829",
+    "https://japanstep.jp/learn/2026/04/1921/",
+    "https://space-data-challenge.nedo.go.jp/",
+    "https://xn--29sob207cg49a.com/satellite/",
+    "https://xn--29sob207cg49a.com/satellite/satellite-data-market-size-2026/"
+   ]
+  },
+  {
+   "query": "衛星データ 提携 2026年11月",
+   "results": [
+    "https://earth.jaxa.jp/conseo/news/2026.html",
+    "https://sorabatake.jp/utilizing-space/",
+    "https://spacemedia.jp/news/19309",
+    "https://space-connect.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000015.000169767.html",
+    "https://www.kyushu.meti.go.jp/event/2601/260129_2.html",
+    "https://japanstep.jp/learn/2026/04/1921/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03227/022000018/",
+    "https://www8.cao.go.jp/space/comittee/dai123/kiso2.pdf",
+    "https://sky-budget.com/2026/10/29/jal-and-sky-perfect-jsat-enter-into-a-business-partnership/"
+   ]
+  },
+  {
+   "query": "衛星データ 設備投資 2026年11月",
+   "results": [
+    "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "https://www.reuters.com/jp/markets/world-indices/FT5XC2Y5OZJNVNA6J7F3YQKR3M-2026-04-02/",
+    "https://newscast.jp/smart/news/2577829",
+    "https://www.cao.go.jp/keizai_anzen_hosho/kokuuchu/doc/shiryo4.pdf",
+    "https://www.zaikei.co.jp/article/20260830/867896.html",
+    "https://space-connect.jp/altair-next-gen/",
+    "https://www.atpress.ne.jp/news/7188407",
+    "https://blogs.itmedia.co.jp/business20/2026/10/4ai.html",
+    "https://digital-supporter.net/mirai-ai/17invest/eisei.html",
+    "https://xn--29sob207cg49a.com/satellite/satellite-data-market-size-2026/"
+   ]
+  },
+  {
+   "query": "衛星データ 補助金 採択 2026年11月",
+   "results": [
+    "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "https://hojonavi.breakthru.co.jp/subsidies/t-national3-0063",
+    "https://sorabatake.jp/utilizing-space/",
+    "https://www.mext.go.jp/content/20260204-mxt_uchukai01-000047103_14.pdf",
+    "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "https://qzss.go.jp/info/information/applidemo_260401.html",
+    "https://spacedata.jp/back/news/202607_jica-quest",
+    "https://www8.cao.go.jp/space/comittee/dai123/kiso2.pdf",
+    "https://space-connect.jp/keisan-sbir/",
+    "https://www.pref.oita.jp/soshiki/14270/spacebusiness2026.html"
+   ]
+  },
+  {
+   "query": "衛星データ 日刊工業新聞 2026年11月",
+   "results": [
+    "https://www.nikkan.co.jp/",
+    "https://www.decn.co.jp/",
+    "https://www.nikkan.co.jp/pages/menseki",
+    "https://pub.nikkan.co.jp/search/g103348.html",
+    "https://www.nikkan.co.jp/articles/search?q=JAXA",
+    "https://www.tn-japan.co.jp/ja/info/info-5628026948391020653.html",
+    "https://x.com/nikkenko/status/2115968556936704133",
+    "https://pub.nikkan.co.jp/",
+    "https://www.reuters.com/jp/video/watch/idOWjpvCB6CDJLWU95VVM4XNSBRJXJH1M/",
+    "https://www.nikkan.co.jp/spaces/view/89509"
+   ]
+  },
+  {
+   "query": "satellite data services news 2026年11月",
+   "results": [
+    "https://www.nesdis.noaa.gov/news-events/search-news",
+    "https://www.sd-services.co.jp/",
+    "https://www.earthdata.nasa.gov/news/feature-articles/kicking-off-development-new-earth-observation-solutions",
+    "https://www.techuk.org/events/satellite-futures-summit-2026",
+    "https://sentinels.copernicus.eu/sentinel-news",
+    "https://www.ses.com/news",
+    "https://ssil.tech/news/",
+    "https://www.businesswire.com/news/home/20260301236870/en/Joint-Investment-in-Satellite-Data-Services-Co.-Ltd.-Expected-to-Accelerate-Use-of-Diverse-Satellite-Data",
+    "https://space-data-challenge.nedo.go.jp/infrastructure/"
+   ]
+  },
+  {
+   "query": "satellite data services Japan 2026年11月",
+   "results": [
+    "https://www.sd-services.co.jp/",
+    "https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0522-01.html",
+    "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "https://www.kkc.co.jp/news/release/2026/03/02_34463/",
+    "https://www.ajiko.co.jp/news_detail/1758",
+    "https://newscast.jp/news/9320741",
+    "https://jp.linkedin.com/pulse/%E6%9C%80%E6%96%B0%E3%81%AE%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-market%E4%BA%88%E6%B8%AC%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A8%E5%90%8C%E5%B8%82%E5%A0%B4%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr145%E3%81%A7%E5%A4%A7%E5%B9%85%E3%81%AA%E6%8B%A1%E5%A4%A7%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-ynxme",
+    "https://ssil.tech/news/",
+    "https://earth.jaxa.jp/en/data/index.html",
+    "https://tenki.jp/past/2026/11/satellite/"
+   ]
+  },
+  {
+   "query": "site:note.com 衛星データ 2026",
+   "results": [
+    "https://note.com/warpspace/n/n21c0a2e87982",
+    "https://note.com/lakesidev/n/ncc84ccefdc57",
+    "https://note.com/space_business/n/n52529602ddc3",
+    "https://note.com/space_business/n/nae5a2fa8161e",
+    "https://note.com/warpspace/n/n83fa366febad",
+    "https://note.com/warpspace/n/n0d9a703d696a",
+    "https://note.com/space_business/n/na91572915bb5",
+    "https://note.com/adsol_ir/n/n7e1c5f988ae7",
+    "https://note.com/space_wave_japan/n/nafc9df086640",
+    "https://note.com/adsol_ir/n/n37c722b9d57e"
+   ]
+  },
+  {
+   "query": "site:x.com 衛星データ",
+   "results": [
+    "https://x.com/hashtag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "https://x.com/genryo_k/status/2091897420217225575",
+    "https://x.com/eisei_kentei",
+    "https://x.com/akane_abbasi",
+    "https://x.com/meti_hokkaido/status/2095057664212680811",
+    "https://x.com/bio_cb_jp/status/2054310747983999212",
+    "https://x.com/jagrinews/status/1949623588224737412",
+    "https://x.com/sorabatake",
+    "https://x.com/jp_consultant/status/2112513841943007670",
+    "https://x.com/CONSEO20220907"
+   ]
+  },
+  {
+   "query": "site:linkedin.com satellite data services",
+   "results": [
+    "https://www.linkedin.com/posts/satellite-data-services-co-ltd_satellitedata-remotesensing-earthobservation-activity-7424701506551070720-Ghr4",
+    "https://www.linkedin.com/pulse/how-access-use-satellite-data-your-business-judi-sandrock-bj3af",
+    "https://www.linkedin.com/pulse/north-america-satellite-data-services-report-industry-analysis-n4ate",
+    "https://jp.linkedin.com/company/satellite-data-services-co-ltd",
+    "https://www.linkedin.com/company/nesdis",
+    "https://www.linkedin.com/pulse/role-satellite-data-expanding-weather-forecasting-siumf",
+    "https://www.linkedin.com/pulse/satellite-data-service-agriculture-manufacturers-guide-main-p68nf",
+    "https://www.linkedin.com/pulse/what-driving-satellite-imagery-services-market-hand-hub-h2xwe",
+    "https://www.linkedin.com/top-content/technology/advancements-in-space-technology/role-of-government-in-satellite-data-growth/",
+    "https://www.linkedin.com/company/satellite-data-services-co-ltd"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "SNS・note（note・本文）": [
+   {
+    "quote": "衛星データは「宇宙で処理する」時代へ——Ramon.SpaceとFoxconn系列が軌道上データセンターに踏み出す理由｜宇宙ビジネスキュレーター",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星データは「宇宙で処理する」時代へ——Ramon.SpaceとFoxconn系列が軌道上データセンターに踏み出す理由",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今、宇宙で起きていることを一言で表すなら、「データの洪水」という言葉が近いかもしれません。地球観測衛星は毎日膨大な画像を撮影し、通信衛星はトラフィックをさばき続け、科学衛星は観測記録を積み上げます。問題は、それを受け取る地上側の処理能力が追いつかなくなってきた点です。",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "地上局が衛星と通信できる時間は、1回の上空通過でせいぜい数分間です。その短い窓口に大量のデータを流し込もうとしても、帯域には物理的な上限があります。地上のデータセンターに届いてから処理するという流れでは、山火事の発生や洪水の拡大を「リアルタイム」に把握することはなかなか難しい。衛星データを活用したサービスが増えれば増えるほど、このボトルネックは深刻さを増します。",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そこへ、イスラエル発のスペースコンピューティング企業Ramon.Spaceが、具体的な打開策を示してきました。",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ramon.Spaceは、放射線・極端な温度変化・限られた電力という宇宙特有の制約に対応した、コンピューターシステムの開発を手がけてきた企業です。OneWebの通信衛星をはじめ、ESAやNASAが関わるプロジェクトを含む約50のミッションに搭載されてきた実績があります。",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星の世界では「飛行実績（フライトヘリテージ）」が信頼の証です。どれほど優れた技術でも、宇宙で動いた記録がなければ採用につながらない。その意味で、同社が積み上げてきた実績は、次のステップへ進む上での重要な資産となっています。",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の発表の核心は、同社がFoxconn Technology Groupの子会社であるIngrasys（インクレシス）と、軌道上データセンター向けインフラの共同開発へと踏み出すというものです。",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "政治（法・予算・規制）": [
+   {
+    "quote": "宇宙戦略基金",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ひとつは日本の国家安全保障・経済安全保障市場に向けたハイパースペクトル衛星コンステレーションの構築です",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "他の受託事業・補助金等を受けているテーマで応募しても問題ないか",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国の補助金・受託事業と全く同一の内容での応募はＮＧとなります",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この市場のシェアは、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、宇宙監視への政府投資、そして商用アプリケーションにおけるAI駆動型画像分析の採用増加により、大きく拡大しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府と民間部門は、土地利用の評価、建設計画の最適化、災害対策の強化のために、衛星ベースの監視システムに投資しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本政府は、国家安全保障、環境監視、精密農業の取り組みを強化するために、AI駆動型地理空間分析を奨励しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エンドユーザー別では、政府、建設、輸送・ロジスティクス、軍事・防衛、林業・農業、その他が含まれます",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第7章には政府、建設、運輸・ロジスティクス、軍事・防衛、林業・農業、その他のエンドユーザーごとの市場内訳が記載されており、それぞれについて概要、2020年から2025年までの市場トレンド、2026年から2034年までの市場予測が示されている",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Planet・ICEYE・BlackSkyの2026年業績、宇宙戦略基金の地球観測テーマ、Tellusの新体制まで2026年9月時点で解説",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TeraWaveはBlue Originが2026年1月に発表した企業・データセンター・政府向けの衛星通信網",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2030年代に軌道上10万機時代を迎える前に知るべきVisorSat等の対策技術・ITU・国連の規制動向・持続可能な宇宙利用の課題を整理",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米政府著作物の基本ルールと例外、images.nasa.gov・APOD・EPIC・Hubble/JWST画像のライセンス、ESA画像の利用条件とCC BY-SA、商用利用とクレジット表記の実務、Wikimedia Commonsの使い方まで網羅",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来、衛星地球観測は政府機関や研究機関を中心とした利用が主流でしたが、近年では高性能小型衛星、人工知能（AI）による画像解析、クラウド型データ処理基盤の発展により、民間企業による利用機会が大きく広がっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 政府投資と都市開発が市場拡大を後押し：",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙能力への政府投資の増加、官民パートナーシップ、および持続可能な都市開発へのニーズが、市場に大きな機会を生み出しています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年の日本衛星地球観測市場は2億5,900万米ドル規模に到達し、政府主導の観測利用から民間サービス活用への転換が進んでいます",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 政府政策・宇宙予算への依存リスクと市場拡大への影響",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方で、政府予算、宇宙基本計画、官民連携プログラムの方向性変化は、市場成長に影響を与える重要なリスク要因です",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため、今後の市場リーダーには政府向けサービスだけでなく、物流、建設、エネルギー、金融、農業、環境管理など民間産業向けの利用拡大が求められます",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本企業が長期的に競争力を維持するためには、独自センサー技術、精密観測能力、産業別アプリケーション開発、政府・民間双方とのエコシステム形成が重要になります",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この市場は、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、政府による宇宙監視への投資、商業用途でのAIを活用した画像解析の採用増加により、大幅に拡大しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府および民間部門は、土地利用の評価、建設計画の最適化、災害準備の強化のために、衛星ベースの監視システムに投資しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本政府は、国家安全保障、環境監視、精密農業の取り組みを強化するために、AI駆動型地理空間分析を奨励しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エンドユーザー別では、政府、建設、運輸・物流、軍事・防衛、林業・農業、その他が含まれます",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第7章には政府、建設、輸送と物流、軍事と防衛、林業と農業、その他のエンドユーザーごとの市場内訳が、それぞれ概要、2020年から2025年までの歴史的・現在のトレンド、および2026年から2034年までの市場予測と共に分析されている",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府が2026年度中の設立を目指す「防災庁」の構想において、衛星データによる迅速な被害状況の把握は、国家戦略の核心として位置づけられている",
+    "url": "https://japanstep.jp/learn/2026/04/1921/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【動画掲載】宇宙戦略基金×CONSEO合同イベント～産官学金の衛星データ利用エコシステムの共創～（",
+    "url": "https://earth.jaxa.jp/conseo/news/2026.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第124回宇宙政策委員会の配布資料から、国家インフラとなる測位・通信・地球観測といった人工衛星の使い方、また今後の私たちの暮らしをより良くするための予算の具体例を紹介します",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ひとつは日本の国家安全保障・経済安全保障市場に向けたハイパースペクトル衛星コンステレーションの構築です",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「第7回宇宙開発利用大賞」にて環境大臣賞を受賞し、また、宇宙戦略基金第2期の技術開発テーマでも採択されるなど、この1年で宇宙業界において、急速にその存在感が大きくなっているArchedaの事業内容と求人について、同社で活躍するお二人にお話を伺いました",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建設、林業、保険、行政、環境……宇宙戦略基金第2期テーマ「衛星データ実装加速化事業」採択された17件のまとめ【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金「衛星データ利用システム実装加速化事業」の採択17件を分析",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "民間衛星データを活用して研究者や政府機関、政策決定者に高解像度・高頻度の地球観測データを低コストで提供",
+    "url": "https://spacemedia.jp/news/19309",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インターステラテクノロジズとスペースワン、最大120億円の宇宙戦略基金「STAND」に採択",
+    "url": "https://space-connect.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAの宇宙戦略基金「STAND」にインターステラテクノロジズとスペースワンが採択",
+    "url": "https://space-connect.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ひとつは日本の国家安全保障・経済安全保障市場に向けたハイパースペクトル衛星コンステレーションの構築です",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "イギリス政府、衛星通信市場での競争力を高めるために、約57億円の新たな資金提供を発表【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年3月4日、イギリス政府は衛星通信技術を開発する英国企業に対し、3,000万ポンド（約57億円）の新たな資金提供を行うと発表しました",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来、衛星地球観測は政府機関や研究機関を中心とした利用が主流でしたが、近年では高性能小型衛星、人工知能（AI）による画像解析、クラウド型データ処理基盤の発展により、民間企業による利用機会が大きく広がっています",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 政府投資と都市開発が市場拡大を後押し：",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙能力への政府投資の増加、官民パートナーシップ、および持続可能な都市開発へのニーズが、市場に大きな機会を生み出しています",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年の日本衛星地球観測市場は2億5,900万米ドル規模に到達し、政府主導の観測利用から民間サービス活用への転換が進んでいます",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 政府政策・宇宙予算への依存リスクと市場拡大への影響",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方で、政府予算、宇宙基本計画、官民連携プログラムの方向性変化は、市場成長に影響を与える重要なリスク要因です",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため、今後の市場リーダーには政府向けサービスだけでなく、物流、建設、エネルギー、金融、農業、環境管理など民間産業向けの利用拡大が求められます",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本企業が長期的に競争力を維持するためには、独自センサー技術、精密観測能力、産業別アプリケーション開発、政府・民間双方とのエコシステム形成が重要になります",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（追加公募）衛星データ利用システム実装加速化事業 | JAXA宇宙戦略基金",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金について",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金設立の",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金の",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基金運営に関する最新情報",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "信号認証サービス",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この認証は、公共エリアにおける遠隔操作型モビリティソリューションの実装に向けた大きな一歩となります",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に日本では、自然災害の多発、インフラ老朽化、脱炭素社会への移行など、地球観測データを必要とする社会課題が増加しており、市場拡大を後押ししています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、保険、建設、物流、エネルギーなどの民間分野でも、衛星情報を活用したリスク評価や事業継続計画（BCP）強化への関心が高まっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "公共案件への依存度が高い企業では、政策変更や調達方針の見直しによって収益予測が変動する可能性があります",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和9年度の宇宙関係概算要求から考える「国家インフラ」としての宇宙の使い方",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に日本では、自然災害の多発、インフラ老朽化、脱炭素社会への移行など、地球観測データを必要とする社会課題が増加しており、市場拡大を後押ししています",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、保険、建設、物流、エネルギーなどの民間分野でも、衛星情報を活用したリスク評価や事業継続計画（BCP）強化への関心が高まっています",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "公共案件への依存度が高い企業では、政策変更や調達方針の見直しによって収益予測が変動する可能性があります",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界的には、激甚化・頻発化する自然災害の被害をいかに抑制するか、脱炭素社会に向け、カーボンニュートラルをいかに実現するかなど、地球規模課題に対する産官学での取り組みが加速しています",
+    "url": "https://www.sd-services.co.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デジタル実装によるコンサル能力の深化とAIなどの先端技術を融合させ、気候変動や脱炭素、災害対策、トレーサビリティなどの社会課題を解決し、安全・安心な社会基盤と希望ある未来の創造・実装に挑みます",
+    "url": "https://www.kkc.co.jp/news/release/2026/03/02_34463/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "JAXA地球観測 データ 利用30年を振り返る — JAXA地球観測 データ 利用30年を振り返る JAXA｜宇宙航空研究開発機構 https://www.satnavi.jaxa.jp > news > 2026/03/30",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本 衛星 地球観測市場、2035年6億6370万米ドルへ — 日本 衛星 地球観測市場、2035年6億6370万米ドルへ アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星 地球観測コンソーシアム | 2026年 のお知らせ — 衛星 地球観測コンソーシアム | 2026年 のお知らせ JAXA｜宇宙航空研究開発機構 https://earth.jaxa.jp > conseo > news > 2026",
+    "url": "https://earth.jaxa.jp/conseo/news/2026.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NASA、民間企業からの 衛星データ 取得を追加 合計14社と契約 — NASA、民間企業からの 衛星データ 取得を追加 合計14社と契約 spacemedia.jp https://spacemedia.jp > news",
+    "url": "https://spacemedia.jp/news/19309",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本 衛星 地球観測市場、2035年6億6370万米ドルへ — 日本 衛星 地球観測市場、2035年6億6370万米ドルへ Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（追加公募） 衛星データ 利用システム実装加速化事業 — （追加公募） 衛星データ 利用システム実装加速化事業 JAXA宇宙戦略基金 https://fund.jaxa.jp > techlist > theme2_22-2",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星データの活用を推進する「衛星 データサービス 企画」へ出資 — 衛星データの活用を推進する「衛星 データサービス 企画」へ出資 国際航業株式会社 https://www.kkc.co.jp > news > release > 2026/03",
+    "url": "https://www.kkc.co.jp/news/release/2026/03/02_34463/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "衛星データを専門知識なしで扱えるJAXA Earth APIと、生成AI連携を実現するMCP・Agent Skillsの仕組み、対話だけで衛星データを解析できるチュートリアルを紹介します",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Commissioned Research :",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "https://www.reportocean.co.jp/commissioned-research-services",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Commissioned Research :",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "https://www.reportocean.co.jp/commissioned-research-services",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Update #4 - Cessation of Suomi National Polar-orbiting Partnership (S-NPP) data to users on November 02, 2026 1540 UTC and Decommissioning - Issued November 2, 2026 1800 UTC",
+    "url": "https://www.nesdis.noaa.gov/news-events/search-news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Update #3 - Cessation of Suomi National Polar-orbiting Partnership (S-NPP) data to users on November 02, 2026 1540 UTC and Decommissioning - Issued October 30, 2026 1400 UTC",
+    "url": "https://www.nesdis.noaa.gov/news-events/search-news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Update #2 - Cessation of Suomi National Polar-orbiting Partnership (S-NPP) data to users on November 02, 2026 1300 UTC and Decommissioning - Issued October 19, 2026 1400 UTC",
+    "url": "https://www.nesdis.noaa.gov/news-events/search-news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "2025年にリリースされたNEC地球観測衛星画像解析サービスプラットフォーム「NEC Earth Observation Satellites’ image Analysis Services Platform（略称：NEOSAP）」について、その特徴、顧客との対話を重ねた開発の舞台裏、今後目指す姿を伺いました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LiveEO、光学とSARの画像を一つのAIで扱う視覚基盤モデルの実現に向け、ドイツ政府から助成獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年8月4日、LiveEOはドイツ政府の宇宙開発プログラムから助成を受けたと発表しました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この助成を活用し、光学衛星とSAR衛星という異なる衛星のデータを、一つのAIで扱う視覚基盤モデルが実現可能かどうかの調査に取り組みます",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「誰もが衛星データ利用を手軽にできる時代に」JAXA Earth APIにおける生成AI連携の解説_PR",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星データを専門知識なしで扱えるJAXA Earth APIと、生成AI連携を実現するMCP・Agent Skillsの仕組み、対話だけで衛星データを解析できるチュートリアルを紹介します",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星データで「インフラ管理」「防災・災害対応」を革新する技術開発求む！ 「NEDO Challenge, Satellite Data-衛星データで革新する未来の都市インフラ-」の公募開始_PR",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペースシフト、 農林水産省「農山漁村振興への貢献活動に係る取組証明書」を取得 ｜「AI×『農山漁村』インパクト創出ソリューション実装プログラム」に採択",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "事業拡大を支えるプロダクト開発とセキュリティ強化に向けた体制づくりを推進",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIエージェント",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アクセルスペース、次世代地球観測衛星「GRUS-3C」の検証画像を公開",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "千葉大関連スタートアップのHiSR、衛星など複数の観測データを統合するAI地震予測技術で特許出願",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "九工大らの研究グループ、AIによる人工衛星の表面帯電の自動検出手法を開発 世界初",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NTT、地球低軌道での衛星通信の容量拡大に成功 JAXAとの共同実証",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "タイミーの亀田彗氏がWHEREの技術顧問に就任 開発体制やセキュリティ関連でアドバイス",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スウェーデンのSSC Space、日本企業2社と覚書・サービス契約締結 実証の共同検討やサービス利用で協力",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このような中、経済産業省およびNEDOは、衛星を活用した、さまざまな社会課題の解決に資するソリューション開発に取り組んでいます",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インフラマネジメント及び都市活動における課題解決に資する技術開発",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "● 衛星データを活用した、インフラ構造物の劣化等の点検や監視、インフラ周辺状況のモニタリング、3D都市モデル等の作成・更新、土地利用変化・建物更新の把握、交通量等の都市活動のモニタリング等の課題解決に資する技術開発を募ります",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インフラに係る防災・災害対応における課題解決に資する技術開発",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "● 衛星データを活用した、災害リスク評価、災害・異常検知、災害時の広域的・動的な状況把握、3D都市モデル等と組み合わせた災害状況の可視化等の課題解決に資する技術開発を募ります",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "株式会社カナン・ジオリサーチは、自社開発の地中レーダ3次元モバイルマッピングシステム（GMS3）を用いて「地下と地上の可視化」を行い、インフラ保全や防災に取り組んでいます",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "開発環境と提供データ",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本事業では、１次審査通過者に対して以下の開発環境を提供する予定ですが、本開発環境の利用は必須ではありません",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※サービスのアップデート等により、開発環境の提供方法が変更となる可能性があります",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Tellusの開発/解析環境でのみ利用可能な衛星データ",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年3月現在、9機の衛星が軌道上で活躍しており、搭載されているセンサの技術が次世代の衛星に受け継がれていることや、当時の時代背景、EORCや関係部署の組織の変遷と共にどのような衛星が開発、運用されてきたかを再確認することが出来ます",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXA・環境省・国立環境研究所が合同で開発した",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAが開発してきたマイクロ波放射計、グローバル光学放射計、合成開口レーダ（SAR）、高解像度光学放射計、温室効果ガス観測センサ、降水レーダ、雲プロファイリングレーダなど、センサ種別に技術の系譜が示されているため、同じ“地球観測”でも目的に応じて進化の軸が異なることが分かります",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "観測対象については、「雲粒の動きの把握」など新しい“見る力”が加わり、利用者が必要とする情報をより直接的・高頻度に届ける方向へ開発が進められてきました",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（TE）」はJAXAが東京大学と共同で開発した衛星データを融合した陸域の水循環シミュレーションシステムです",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AIを使って関東の地表面温度を表示させた一例",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、2026年1月には生成AIからの呼び出しにも対応できるようになりました",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、新たな衛星の開発につながる最先端の研究にも邁進しております",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIをはじめとする革新的な技術と組み合わせることによって、地球観測衛星データは現状をモニタリングするだけではなく、将来を予測し人々の行動の科学的な根拠となるような情報を提供していくことが可能となると信じております",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "#SAMRAI",
+    "url": "https://www.satnavi.jaxa.jp/ja/news/2026/03/30/12090/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この市場のシェアは、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、宇宙監視への政府投資、そして商用アプリケーションにおけるAI駆動型画像分析の採用増加により、大きく拡大しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本における衛星画像サービス市場のトレンドとして、第一にインフラ開発における高解像度衛星画像への需要の増大が挙げられます",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特にインフラ開発、都市計画、災害管理において高解像度画像への需要が高まっています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この取り組みは、複数の場所で実証プロジェクトを実施することで、ロボットサービス会社の生産性向上を目指すものです",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スマートシティと環境保全への注力も市場をさらに牽引しており、高解像度衛星画像は持続可能な都市開発と資源管理のための詳細な洞察を提供しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第二に、AIと機械学習の衛星データ分析への統合が市場を変革しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これはデータ処理を自動化し、画像分析の精度を向上させています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これには、需要の変動に対応するためにビームパターンと電力レベルを動的に変更できる軌道上再構成機能を備えたソフトウェア定義型衛星の開発が含まれます",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI駆動型アルゴリズムは、物体検出、変化検出、予測分析を強化し、農業、防衛、物流などの産業が効率的に実用的な洞察を引き出すことを可能にしています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本政府は、国家安全保障、環境監視、精密農業の取り組みを強化するために、AI駆動型地理空間分析を奨励しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Tellus・Copernicus・NASA・GEE・Planet・Vantor(旧Maxar)・Airbus・JAXA・AWS/Azure・UP42・SkyWatchの料金・API・解像度・活用事例を網羅",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ryanairが見送るなか、Wizz AirやVirgin Atlantic、American Airlinesなど他社の動きと比べ、料金などまだ分からない点を整理する",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星データ市場規模と成長予測2026 — 地球観測からAI分析まで",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Celesteとは？GPSを補う低軌道の測位衛星と5G信号の実証【2026】",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州宇宙機関（ESA）のCelesteは、低軌道（LEO）から測位を試す実証衛星群だ",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "#Airbus",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2035年、AI時代に地球観測は何に使われるのか？土地・資源・経済の3シナリオ",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIで仕事や経済が変わっても、土地・水・電力・安全・生態系の制約は残る",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NASA-ISROが共同開発したNISAR衛星（開発費15億ドル）がメキシコシティの年5cm超の地盤沈下を初観測",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Airbus傘下、80以上のデータプロバイダーを一元化したマーケットプレイスの料金体系・APIの使い方・Sentinel Hubとの違いを2026年最新情報で整理する",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来、衛星地球観測は政府機関や研究機関を中心とした利用が主流でしたが、近年では高性能小型衛星、人工知能（AI）による画像解析、クラウド型データ処理基盤の発展により、民間企業による利用機会が大きく広がっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI解析とクラウド技術が衛星データビジネスを変革",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来の衛星画像は専門知識を持つ利用者向けでしたが、AI画像解析技術の進歩により、膨大な観測データから必要な情報を自動抽出することが可能になっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIを活用した土地利用変化検出、森林減少分析、都市開発モニタリング、農作物生育評価などは、企業や行政が意思決定を迅速化するための重要なツールとなっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Satellite Data Services Launches on LinkedIn Satellite Data Services Launches on LinkedIn LinkedIn https://www.linkedin.com > posts > sa...",
+    "url": "https://www.linkedin.com/posts/satellite-data-services-co-ltd_satellitedata-remotesensing-earthobservation-activity-7424701506551070720-Ghr4",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "North America Satellite Data Services Report - LinkedIn North America Satellite Data Services Report - LinkedIn LinkedIn https://www.linkedin.com > pulse > n...",
+    "url": "https://www.linkedin.com/pulse/north-america-satellite-data-services-report-industry-analysis-n4ate",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "衛星データ は「宇宙で処理する」時代へ——Ramon.Spaceと ... 衛星データ は「宇宙で処理する」時代へ——Ramon.Spaceと ... note https://note.com > 科学・テクノロジー > 宇宙科学",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "我が国ではインフラの維持管理の担い手不足やインフラの急速な老朽化、人口減少・人口偏在化などに加え、自然災害の激甚化・頻発化が進み、テクノロジー活用によるインフラ維持管理の効率化や、防災・災害対応の高度化が求められています",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インフラ構造物の劣化等の点検やモニタリングの効率化・高度化・人手不足解消",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人手不足解消",
+    "url": "https://japanstep.jp/learn/2026/04/1921/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【カーボンクレジットの未来を支える人材急募】「信頼される評価手法を創り、地球の秘めた可能性を価値にする」Archedaが切り拓く衛星データ×カーボンクレジットの最前線と事業の魅力_PR",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペジョブは、宇宙産業に本気で働きたい人を支援する人材マッチングプラットフォームです",
+    "url": "https://space-connect.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、衛星利用による宇宙ソリューションビジネスの海外展開強化や、衛星データの利用拡大、担い手の拡充等を図っていく",
+    "url": "https://fund.jaxa.jp/techlist/theme2_22-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙電力インフラのZero Industries、約4.7億円を調達 前澤ファンドなど出資",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "優れた提案には、協賛企業により表彰および賞金（最大300万円）を授与します",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像サービスの日本市場（2026年～2034年）、市場規模（地理空間データの取得とマッピング、天然資源管理、監視とセキュリティ）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像サービスの日本市場（2026年～2034年）、市場規模（地理空間データの取得とマッピング、天然資源管理、監視とセキュリティ）・分析レポートを発表",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本調査会社は、2026年から2034年にかけて市場が年平均成長率（CAGR）10.80%で拡大し、2034年には11億4167万米ドルに達すると予測しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SAR入門 — X/C/Lバンドの違い・主要衛星10機種比較・画像の価格帯と無料データソース",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "X/C/Lバンドの特性比較、ICEYE 60機超・ALOS-4・QPS研究所など主要10機種の一覧、InSARの地盤沈下検出原理、画像価格$1〜50/km²の相場、Sentinel-1無料データの入手方法まで解説",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星データ市場規模と成長予測2026 — 地球観測からAI分析まで",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星通信事業者の売上比較2026 — SES/Intelsat/Eutelsat/Viasatの業績分析",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界の主要衛星通信事業者の2025年度売上・営業利益・加入者数を徹底比較した分析記事",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "3,236基のLEOコンステレーション構成、2026年サービス開始計画、Starlinkとの技術・価格・カバレッジの徹底比較",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像の価格は10分の1にできる？最低購入面積と5つの条件【2026】",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像の価格を10分の1にする条件を、km²単価・最低購入面積・解析費に分けて試算",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SkyWatchやPlanet、UP42の公開条件、無料のSentinel-2/Landsatとの違い、値下げで広がる市場と市場規模の読み方まで整理する",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本衛星地球観測市場、2035年6億6,370万米ドルへ｜CAGR 11.02％で拡大する宇宙データ需要 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本衛星地球観測市場、2035年6億6,370万米ドルへ｜CAGR 11.02％で拡大する宇宙データ需要",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模は2025年の2億5,900万米ドルから2035年には6億6,370万米ドルへ拡大すると予測され、2026年から2035年にかけて年平均成長率（CAGR）11.02％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 日本衛星地球観測市場は、2025年に2億5,900万米ドルと評価され、2035年までに6億6,370万米ドルに達すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）11.02％を記録する見込みであります",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2035年には市場規模が6億6,370万米ドルに達すると予測され、衛星地球観測は防災、安全保障、環境管理、産業DXを支える重要なデジタル基盤として位置付けられる見通しです",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本5G産業用IoT市場、2035年に301億2000万米ドルへ拡大｜CAGR 5.5％、スマート工場・産業オートメーション・リアルタイム通信の高度化が市場成長を促進",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本5Gミリ波技術市場、2035年には12億7288万米ドル規模へ｜（CAGR）14.1％、省エネルギー型熱交換システムと高性能熱媒体の需要拡大が産業競争力を強化",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本熱媒体市場は2035年に10億6,130万米ドルへ拡大、CAGR 4.44％｜産業用加熱・冷却システムの高効率化と熱管理技術の進化が市場成長を促進",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像サービスの日本市場（2026年～2034年）、市場規模（地理空間データの取得とマッピング、天然資源管理、監視とセキュリティ）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像サービスの日本市場（2026年～2034年）、市場規模（地理空間データの取得とマッピング、天然資源管理、監視とセキュリティ）・分析レポートを発表",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本調査会社は、2026年から2034年にかけて年平均成長率（CAGR）10.26%で成長し、2034年には12億1,060万米ドルに達すると予測しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "総額は1,300万ポンド（約28億円）です",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "北極観測で気象予測の精度向上へ、OHB Swedenが欧州連携の衛星コンステレーションで約450億円超の契約を獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "契約総額は、約2億4,800万ユーロ（約450億円超）であり、スウェーデン宇宙産業において最大規模の衛星契約となる見込みです",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同契約は確定固定価格・不確定納品／不確定数量（IDIQ）方式の複数社授与契約で、当初の上限総額は4億7,600万ドル",
+    "url": "https://spacemedia.jp/news/19309",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インターステラテクノロジズとスペースワン、最大120億円の宇宙戦略基金「STAND」に採択",
+    "url": "https://space-connect.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件最大120億円の支援制度の概要や、ZERO・カイロスの打ち上げ実証、商...",
+    "url": "https://space-connect.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "総額は1,300万ポンド（約28億円）です",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "売上187億ドルを上回る投資でAI・Starshipを推進することをIPO申請書類で初公開",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "登録届出書で公開された売上187億ドル・設備投資207億ドルの3セグメント別収益構造を解説します",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "北極観測で気象予測の精度向上へ、OHB Swedenが欧州連携の衛星コンステレーションで約450億円超の契約を獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "契約総額は、約2億4,800万ユーロ（約450億円超）であり、スウェーデン宇宙産業において最大規模の衛星契約となる見込みです",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "イギリス政府、衛星通信市場での競争力を高めるために、約57億円の新たな資金提供を発表【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年3月4日、イギリス政府は衛星通信技術を開発する英国企業に対し、3,000万ポンド（約57億円）の新たな資金提供を行うと発表しました",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本衛星地球観測市場、2035年6億6,370万米ドルへ｜CAGR 11.02％で拡大する宇宙データ需要 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本衛星地球観測市場、2035年6億6,370万米ドルへ｜CAGR 11.02％で拡大する宇宙データ需要",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模は2025年の2億5,900万米ドルから2035年には6億6,370万米ドルへ拡大すると予測され、2026年から2035年にかけて年平均成長率（CAGR）11.02％で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 日本衛星地球観測市場は、2025年に2億5,900万米ドルと評価され、2035年までに6億6,370万米ドルに達すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）11.02％を記録する見込みであります",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2035年には市場規模が6億6,370万米ドルに達すると予測され、衛星地球観測は防災、安全保障、環境管理、産業DXを支える重要なデジタル基盤として位置付けられる見通しです",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件あたり 中小企業・スタートアップ0.2億〜20億円程度、大企業0.15億〜20億円程度（採択予定30件程度）",
+    "url": "https://hojonavi.breakthru.co.jp/subsidies/t-national3-0063",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界の宇宙産業の市場規模は2030年で76兆円、2040年には120兆円に達すると言われています",
+    "url": "https://www.sd-services.co.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州が自ら管理できる衛星インテリジェンス基盤を共同構築へ",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年6月18日、VantorとRheinmetallはドイツおよび欧州各国の軍隊向けに、主権型の空間インテリジェンス能力構築を目的とした基本合意書（MOU）の締結を発表しました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国防情報局、宇宙安全保障の脅威を評価した報告書の2026年版を公表",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米RedwireとブルガリアのEnduroSat、欧州の宇宙インフラ強化に向け覚書締結",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "独Reflex Aerospace、NVIDIAの出資計画を背景に欧州での衛星生産能力を拡大",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国航空宇宙局（NASA）の地球観測データのポータルサイト",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州宇宙機関（ESA）が管理する地球観測プログラム",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この市場のシェアは、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、宇宙監視への政府投資、そして商用アプリケーションにおけるAI駆動型画像分析の採用増加により、大きく拡大しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、地域別では、関東地方、関西/近畿地方、中部地方、九州・沖縄地方、東北地方、中国地方、北海道地方、四国地方といった主要な全地域市場の包括的な分析も提供しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第4章には日本の衛星画像サービス市場の概要、市場ダイナミクス、業界トレンド、競合インテリジェンスといった市場の紹介が記載されている",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第8章には関東、関西/近畿、中部、九州・沖縄、東北、中国、北海道、四国といった地域ごとの市場内訳が記載されており、それぞれについて概要、2020年から2025年までの市場トレンド、アプリケーション別およびエンドユーザー別の市場内訳、主要プレイヤー、2026年から2034年までの市場予測が示されている",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第9章には概要、市場構造、市場プレイヤーのポジショニング、トップの勝ち戦略、競合ダッシュボード、企業評価象限といった日本の衛星画像サービス市場の競争環境が記載されている",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Starlink 稼働1万1,078基（2026年8月末）/加入1,030万/164ヶ国、Amazon Leo 量産打上げ中、OneWeb 650基、中国千帆も急拡大",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "easyJetがStarlink機内Wi-Fiを採用｜2027年前半に取り付け開始、355機の欧州LCCが動いた理由",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州宇宙機関（ESA）のCelesteは、低軌道（LEO）から測位を試す実証衛星群だ",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インドの通信最大手Jioの衛星通信は3つの別の取り組みだ",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国のLandsatと欧州のSentinel-2を完全比較",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国GPS・欧州Galileo・日本のみちびき(QZSS)、世界3大衛星測位システムを完全比較",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約3万台の星センサーを転用する仕組み、無料にする狙い、米国のTraCSSや日本のJAXA SSA体制との関係、日本の運用者への影響までまとめる",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インドSkyServeが2026年9月に公開した分析をもとに、画素の小ささ・雲と照り返し・船の向き・港の混雑・衛星上の計算資源という5つの壁を整理する",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Starlink・OneWeb・Amazon Leo・中国千帆の衛星数・料金・展開状況を詳しく比較し、ドコモ・ソフトバンクの衛星スマホ直接通信サービスの最新状況も公開情報から詳しく整理",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海外企業による低価格衛星データ提供やAI解析サービスの普及は、日本企業にとって価格競争圧力となる可能性があります",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "サイズ、シェア、成長",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "傾向、サイズ、シェア",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、地域別では、関東地方、関西・近畿地方、中部地方、九州・沖縄地方、東北地方、中国地方、北海道地方、四国地方の主要な地域市場すべてを包括的に分析しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場構造、主要企業のポジショニング、主要な成功戦略、競合ダッシュボード、企業評価クアドラントなどの競争分析がレポートに含まれており、主要企業全ての詳細なプロファイルも提供されています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第4章には日本衛星画像サービス市場の概要、市場ダイナミクス、業界トレンド、および競合インテリジェンスが紹介されている",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第8章には日本の各地域（関東、関西/近畿、中部、九州・沖縄、東北、中国、北海道、四国）ごとの市場内訳が提供されており、それぞれ概要、2020年から2025年までの歴史的・現在のトレンド、アプリケーション別内訳、エンドユーザー別内訳、主要プレイヤー、および2026年から2034年までの市場予測が詳細に分析されている",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第9章には市場の競争環境が概要、市場構造、市場プレイヤーのポジショニング、主要な成功戦略、競合ダッシュボード、および企業評価象限を通じて分析されている",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州宇宙機関（ESA）地球観測プログラムに関するワークショップ開催レポート",
+    "url": "https://earth.jaxa.jp/conseo/news/2026.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "16件のプロジェクトはESA（欧州宇宙機関）の通信技術開発プログラム「ARTES」の一部として実施され、身近な用途から深宇宙通信までテーマが多岐にわたります",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州最大規模のテクノロジー・カンファレンス「VIVATECH 2026」において、Amaozn、そして、Blue Originの創業者であるジェフ・ベゾス氏が登壇",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州が自ら管理できる衛星インテリジェンス基盤を共同構築へ",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年6月18日、VantorとRheinmetallはドイツおよび欧州各国の軍隊向けに、主権型の空間インテリジェンス能力構築を目的とした基本合意書（MOU）の締結を発表しました",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Redwire Corporationは、欧州宇宙機関（ESA）が進める量子鍵配送衛星プログラム「QKDSat」において、衛星の開発契約を獲得したと発表しました",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "北極観測で気象予測の精度向上へ、OHB Swedenが欧州連携の衛星コンステレーションで約450億円超の契約を獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/utilizing-space/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "16件のプロジェクトはESA（欧州宇宙機関）の通信技術開発プログラム「ARTES」の一部として実施され、身近な用途から深宇宙通信までテーマが多岐にわたります",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Redwire Corporationは、欧州宇宙機関（ESA）が進める量子鍵配送衛星プログラム「QKDSat」において、衛星の開発契約を獲得したと発表しました",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "北極観測で気象予測の精度向上へ、OHB Swedenが欧州連携の衛星コンステレーションで約450億円超の契約を獲得【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海外企業による低価格衛星データ提供やAI解析サービスの普及は、日本企業にとって価格競争圧力となる可能性があります",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "サイズ、シェア、成長",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "傾向、サイズ、シェア",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/smart/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場や競合の分析があいまい",
+    "url": "https://hojonavi.breakthru.co.jp/subsidies/t-national3-0063",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "途中、米国駐在などを経て、2021年より同社宇宙システム開発センター副センター長として衛星データ利用事業や衛星データサービス企画株式会社の設立を推進",
+    "url": "https://www.sd-services.co.jp/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "China | 中国",
+    "url": "https://info.archives.global.fujitsu/global/about/resources/news/press-releases/2025/0522-01.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このページをシェア",
+    "url": "https://www.kkc.co.jp/news/release/2026/03/02_34463/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "台湾のFoxconn系列とイスラエルのスペーステクノロジーが手を組んで宇宙インフラを構築するという組み合わせ自体が、宇宙ビジネスのグローバルな裾野の広がりを示しています",
+    "url": "https://note.com/space_business/n/n52529602ddc3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# 衛星データ - Search / X # 衛星データ - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Genryo Kanno on X: \" 衛星データ 利用は実用やPoCの話は山 ... Genryo Kanno on X: \" 衛星データ 利用は実用やPoCの話は山 ... X https://x.com > @genryo",
+    "url": "https://x.com/genryo_k/status/2091897420217225575",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "経営・資金調達",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業人インタビュー",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Open Cosmosが3億ユーロを調達",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星の量産能力を拡大し、他国に頼らない観測・通信サービスの展開を加速【宇宙ビジネスニュース】",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年9月14日、欧州の衛星メーカーOpen Cosmosが、3億ユーロ（約533億円）を調達したと発表しました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の調達資金は衛星の量産能力の拡大と、ConnectedCosmos、OpenConstellation、DataCosmosの展開加速に充てられます",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年にリリースされたNEC地球観測衛星画像解析サービスプラットフォーム「NEC Earth Observation Satellites’ image Analysis Services Platform（略称：NEOSAP）」について、その特徴、顧客との対話を重ねた開発の舞台裏、今後目指す姿を伺いました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAや企業による緊急観測・被害推定・復旧支援【随時更新】",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「令和8年熊本地震」を受け、JAXAや宇宙関連企業各社が、衛星による被災地域の緊急観測やデータの提供、復旧・復興を支えるサービスの無償提供などに取り組んでいます",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙技術が災害対応にどのように活かされているのか、各機関や企業の動きをまとめました",
+    "url": "https://sorabatake.jp/tag/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業登録申請",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業・事業主のお客様",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業・事業主ユーザーとして登録すると、プレスリリースの配信・掲載をおこなうことができます",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業・事業主ユーザーで",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業様からのお問い合わせ",
+    "url": "https://prtimes.jp/topics/keywords/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スウェーデンのSSC Space、日本企業2社と覚書・サービス契約締結 実証の共同検討やサービス利用で協力",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙電力インフラのZero Industries、約4.7億円を調達 前澤ファンドなど出資",
+    "url": "https://spacemedia.jp/category/news",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本プログラムは協賛企業の協力により実行委員会を組成し、「NEDO懸賞金活用型プログラム」と独立したコンテストを実施します",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "事業化を目指す企業、個人、学生、異業種等から、幅広く応募を募り、社会インフラ分野の課題解決につながる事業アイデアを募集します",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "優れた提案には、協賛企業により表彰および賞金（最大300万円）を授与します",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙業界関係者に留まらず、広く事業アイデアを募集しますので、企業、個人、学生、異業種等の積極的な参加を期待します",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "協賛企業テーマ",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "審査委員が所属する企業から応募してもよいか",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "代表者の重複がなければ、同一の企業や団体であっても別応募者とみなします",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スタートアップが機関投資家から資金調達を行っている場合、応募は可能か",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スタートアップ等について、機関投資家等から資金調達を行っている場合であっても応募可能です",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コンソーシアムの構成員企業については代表機関と同じ資格要件を備えている必要があります",
+    "url": "https://space-data-challenge.nedo.go.jp/infrastructure/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "資料には、衛星画像サービスの日本市場規模、動向、予測、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この市場のシェアは、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、宇宙監視への政府投資、そして商用アプリケーションにおけるAI駆動型画像分析の採用増加により、大きく拡大しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに、民間企業は、自律航行、サプライチェーン最適化、気候監視などの商業アプリケーションを開発するためにAIを活用しています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIとML技術の進歩に伴い、日本の衛星画像サービスはより費用対効果が高く、アクセスしやすくなっており、正確なリアルタイムの地理空間データを必要とする様々なセクターで採用が拡大し、日本における衛星画像サービス市場の見通しに良い影響を与えています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場構造、主要企業のポジショニング、主要な勝利戦略、競争ダッシュボード、企業評価象限といった競争分析がカバーされており、また、全ての主要企業の詳細なプロファイルも提供されています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第9章には概要、市場構造、市場プレイヤーのポジショニング、トップの勝ち戦略、競合ダッシュボード、企業評価象限といった日本の衛星画像サービス市場の競争環境が記載されている",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "クラウドコンピューティングの進化は、膨大な衛星画像の処理と解析を効率化し、AI/機械学習技術の導入は、画像データからより高度で実践的な洞察を自動的に抽出する能力を高めています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "衛星画像サービス市場は、民間企業の参入と技術革新によって急速に拡大しており、今後も新たなビジネスモデルやアプリケーションの創出が期待されています",
+    "url": "https://newscast.jp/news/9609529",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界の衛星メーカー63社",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Starlink 稼働1万1,078基（2026年8月末）/加入1,030万/164ヶ国、Amazon Leo 量産打上げ中、OneWeb 650基、中国千帆も急拡大",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "easyJetがStarlink機内Wi-Fiを採用｜2027年前半に取り付け開始、355機の欧州LCCが動いた理由",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "英国の格安航空easyJetが2026年10月26日、初の機内インターネットとしてStarlinkを採用すると発表した",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TeraWaveはBlue Originが2026年1月に発表した企業・データセンター・政府向けの衛星通信網",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "OneWebの交換衛星32機が完成｜エアバスが仏トゥールーズで量産、ユーテルサットは669機で網を更新",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "発注は計669機で、2034年まで置き換えと拡張を続ける",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ICEYEが自国運用のSAR衛星を12か月で納入｜日本の現在地と比べる",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の衛星データ企業30社2026｜Synspective・QPS研究所・アクセルスペースなど用途別比較",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の衛星データ企業30社を用途別に比較【2026年最新】",
+    "url": "https://xn--29sob207cg49a.com/satellite/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来、衛星地球観測は政府機関や研究機関を中心とした利用が主流でしたが、近年では高性能小型衛星、人工知能（AI）による画像解析、クラウド型データ処理基盤の発展により、民間企業による利用機会が大きく広がっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIを活用した土地利用変化検出、森林減少分析、都市開発モニタリング、農作物生育評価などは、企業や行政が意思決定を迅速化するための重要なツールとなっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業にとっても、環境・社会・ガバナンス（ESG）対応やサプライチェーンリスク管理の観点から、衛星データ活用の重要性が高まっています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業は衛星画像そのものではなく、意思決定につながる分析情報への投資を強化しています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内企業と新規プレイヤーによる競争環境が形成",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本衛星地球観測市場では、衛星開発企業、画像解析サービス企業、通信事業者、IT企業など、多様なプレイヤーが市場形成に関与しています",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、小型衛星の低コスト化や打ち上げ機会の増加により、新興企業による市場参入も進んでいます",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業や行政がリアルタイム情報を活用して意思決定を高度化する時代において、衛星地球観測は日本のデジタル社会基盤を支える重要な成長領域となるでしょう",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本衛星地球観測市場の成長を支える基盤は、高性能衛星コンステレーション、センサー技術、地上局インフラへの継続的な投資ですが、これらの初期投資負担と運用コストは企業の収益性に直接影響します",
+    "url": "https://www.atpress.ne.jp/news/2577829",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "資料には、衛星画像サービスの日本市場規模、動向、予測、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この市場は、防衛、災害管理、インフラ監視、環境評価における高解像度画像への需要の高まり、合成開口レーダー（SAR）技術の進歩、政府による宇宙監視への投資、商業用途でのAIを活用した画像解析の採用増加により、大幅に拡大しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは、複数の場所で実証プロジェクトを実施し、ロボットサービス企業の生産性向上を目指すものであり、公共エリアでの遠隔制御モビリティソリューションの実社会での実装に向けた大きな一歩となります",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スマートシティや環境保全への注力も導入をさらに促進しており、高解像度衛星画像は持続可能な都市開発と資源管理のための詳細な洞察を提供します",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに、民間企業はAIを活用して、自律航行、サプライチェーン最適化、気候監視などの商業アプリケーションを開発しています",
+    "url": "https://newscast.jp/news/9320741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-04T00:43:28.076910+00:00"
+}

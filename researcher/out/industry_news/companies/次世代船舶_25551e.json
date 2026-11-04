@@ -1,0 +1,5596 @@
+{
+ "name": "次世代船舶",
+ "en": "alternative fuel vessels",
+ "aliases": [
+  "アンモニア船",
+  "水素船",
+  "ゼロエミッション船"
+ ],
+ "context": "8 造船 ①次世代船舶",
+ "kind": "market",
+ "researched_at": "2026-11-04T00:43:17.727021+00:00",
+ "evidence": {
+  "SNS・note（note・本文）": [
+   {
+    "quote": "造船業再生基金、最初の8件で最大3,110億円。次世代船舶はどこまで進んだか｜busin",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "造船業再生基金、最初の8件で最大3,110億円。次世代船舶はどこまで進んだか",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年7月に決定した官民投資ロードマップの62品目のうち、決定後に最も具体的な動きが出ている品目の一つが「次世代船舶」です。官民投資額は2034年度までで1.0兆円、経済波及効果は9.7兆円。2035年に国内で1,800万総トン（2024年比倍増）を建造する目標が示されています（政策目標として示されている値）。2024年の建造量は900万総トンでした。政府資料は、ゼロエミッション船等の建造需要が2035年に建造需要の6割程度に達すると見込み、これを「ゲームチェンジの機会」と位置づけています。",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府は経済安全保障推進法の特定重要物資に「船体」を追加し、造船業再生基金を造成しました。国土交通省は9月4日に供給確保計画を初めて3件認定し、9月11日に5件を追加で認定しています。8件の最大助成額は合計約3,110億円（令和8〜16年度）、官民投資は総額9,000億円規模です。",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最大助成額が大きいのは、今治造船などの計画（約1,138億円）、名村造船所などの計画（約499億円）、ジャパン マリンユナイテッドなどの計画（約494億円）、三菱造船（約400億円）です。支援の対象は、省力化・自動化設備、ドック拡張、クレーン導入などの大規模投資です。",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "地域未来戦略に基づく「戦略産業クラスター計画」では、次世代船舶で瀬戸内地域と九州地域の2件が公表されています。官民設備投資の目標（KGI）は、2034年度までに瀬戸内約5,000億円、九州約3,000億円。瀬戸内は全国の新造船建造量の約5割、九州は約3割を占める地域です。拠点企業として、瀬戸内では川崎重工業・今治造船・尾道造船、九州ではジャパン マリンユナイテッド・大島造船所・名村造船所の投資が挙げられています。",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2027年度の概算要求では、国土交通省が「我が国造船業の再生」を新規で2.2億円＋事項要求、環境省が「ゼロエミッション船等の建造促進事業」を248.1億円（前年度当初149.1億円）要求しています。また10月16日の政府の分科会では、ロードマップの施策の取組状況が報告されました。報告対象はフィジカルAI・ゲームとともに次世代船舶が選ばれています（資料は非公開）。",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国土交通省は計画を順次認定するとしています。年末には政府予算案と「日本成長戦略実行計画」が策定され、2027年春にはロードマップの改訂が予定されています。",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年6月20日次世代船舶関連株】ダブルバガーを狙う割安成長株トップ3大公開｜さささ",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年6月20日次世代船舶関連株】ダブルバガーを狙う割安成長株トップ3大公開",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の成長戦略において、日本の経済安全保障および環境対策の重要な柱として位置づけられているのが次世代船舶の社会実装です。特にクリーン燃料への転換といった脱炭素化、および船員不足を解消する自動運航技術の開発は、国策として強力に推進されています。海運・造船業界に訪れたこの歴史的な大転換期において、今後1から3年で業績を爆発的に伸ばし、株価ダブルバガーの可能性を秘めた、指標面でも割安な成長株トップ3を厳選して分析しました。",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代船舶テーマで大化けする割安成長株トップ3",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "30代初心者トレーダーが億り人を目指してAIに頼りっぱなし投資法実践。興味を持った銘柄やテーマの調査結果を記録してます。FP、簿記とかも勉強中",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "初心者トレーダーを中心に色々交流したいです！",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "次世代船舶の開発 | NEDO グリーンイノベーション基金",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代型太陽電池の開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代型地熱技術の開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "等を用いたプラスチック原料製造技術開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "等を用いた燃料製造技術開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を用いたコンクリート等製造技術開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の分離回収等技術開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代蓄電池・次世代モーターの開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "電動車等省エネ化のための車載コンピューティング・シミュレーション技術の開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代デジタルインフラの構築",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最前線を走る日本郵船グループの次世代燃料船開発 | BVTL Magazine | 日本郵船株式会社",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最前線を走る日本郵船グループの次世代燃料船開発",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "その一つである世界初の国産エンジンを搭載したアンモニア燃料アンモニア輸送船開発（以下、本プロジェクト）が、着々と進行している",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのような会社だからこそ、他社に先駆けて次世代燃料の開発プロジェクトに踏み出せたのだと思います",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "入社後すぐにアンモニア燃料アンモニア輸送船の開発プロジェクトの担当を任され、「未知の海運分野でいきなり応用問題に挑むようなハードル」を感じることもあったが、その社会的意義の大きさを思うとプロジェクトに携わることへの高揚感の方が大きくなったという",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本船の開発・竣工だけをプロジェクトのゴールとせず、次にどうつなげていくか、いかに日本海事クラスターを強化し、社会全体に利益をもたらすか",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本プロジェクトは次世代船舶を社会実装することに加え、アンモニアバリューチェーンの構築や新たな技術開発を通じた日本の海事産業の強化、アンモニアの船舶での利用に係る国際ルール化への貢献など、より広く社会に貢献する目標を掲げている",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しっかりと安全性を担保し、船員が安心して乗れる次世代船舶を作る",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現地現物で学んだ知見を社内や開発パートナーとも共有し、安全性に関する研究開発を進める",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "船舶の設計・開発を担当する造船技師の藤岡は、自らのキャリアの中で新技術の研究開発に携わりたいと考えていた",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金 /次世代船舶の開発",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "/アンモニア燃料船の開発",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "/アンモニア燃料国産エンジン搭載船舶の開発",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "①アンモニア燃料タグボート「魁」（ 内航船）の開発・運航",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜研究開発内容＞",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4. 実証船による検証",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "②アンモニア燃料アンモニア輸送船（ 外航船）の開発・運航",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1. アンモニア燃料アンモニア輸送船の船型主要目の開発",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "5. 実証船による検証",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国産エンジンを搭載するアンモニア燃料船の研究開発を通じて、",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海洋脱炭素の覇権を握る「次世代船舶」——官民が挑むアンモニア・水素燃料船の実装と長期実証への転換",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LME DAILY",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際海運における脱炭素化の波が急速に強まる中、日本政府と海事産業は次世代船舶の開発に向けた官民一体の取り組みを加速させている",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経済産業省と国土交通省が開催した産業構造転換分野ワーキンググループの最新協議において、「次世代船舶の開発」プロジェクトにおける取組の追加が審議された",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同会議は非公開ではあるが、公開された資料を元に次世代船舶の現状を探った",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代船舶の開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人 新エネルギー・産業技術総合開発機構",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（参考2）ゼロエミッション船開発のためのコア技術",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（参考4）研究開発進捗のマイルストーン",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発内容①",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素燃料エンジンの開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発項目１： 水素燃料船の開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発内容②",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素燃料タンク・燃料供給システムの開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発概要",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "設計・研究開発",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 設備能力増強（大規模化・自動化等）による高効率化",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 高付加価値の確保（ゼロエミッション船に代表される次世代船舶",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "その中では、ゼロエミッション船を始めとする次世代船舶の需要が",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ ゼロエミッション船など次世代船舶建造技術で世界を主導する",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代船舶建造技術で",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "DXやロボット・AI技術を駆",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 先進建造技術（AI、ロボット等）の開発及び採用",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 先進的な船舶の設計及び機能の開発",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ン船等の技術開発・生産体制",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代船舶 戦略産業クラスター計画（瀬戸内地域）",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "造・実証など、地域の強みを活かした投資と技術開発が進展している",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "業（株）等を中核に、液化水素運搬船や次世代燃料関連設備の整備が進み、設計・建造・機器供",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "給に加え燃料供給や実証までを一体的に推進可能な基盤が形成されている",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方で、我が国の造船業は、厳しい国際競争の中で建造能力を縮小、設備の老朽化、次世代燃",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ニュースイッチ＠日刊工業新聞 on X: \"「 次世代船舶 」勝ち筋に ... ニュースイッチ＠日刊工業新聞 on X: \"「 次世代船舶 」勝ち筋に ... X https://x.com > @newswitch_",
+    "url": "https://x.com/newswitch_/status/2026507896750559618",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州域における連携 MMMCZCS(デンマーク)に参画",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場導入（事業化）しシェアを獲得するために、ルール形成（標準化等）を検討・実施",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ツガミ 27/3期上期、中国向け活況で35.2％増収65.7％営利増に大幅増額",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コンテナ運賃動向（2026年10月）、太平洋航路は高値安定、欧州航路は反発",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10th ISLC in Colombo #6：鉛の需要のピークはいつ迎えるのか 中国・インドの再生鉛市場と技術革新",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国の2025暦年ゲルマニウム輸出分析 24年比55％減の11トンにとどまる",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ アンモニア燃料船の開発は、中国に勝つための戦略を練ってほしい",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "際競合が提示する数値への対抗には、日本側が測定・検証・標準化の主導権を取る必要がある",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 中国WinGDの低価格・高性能アプローチが市場で注目されており、日本側の差別化戦略が明確でない",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方で、中国勢（WinGD＋中国造船所＋中国産アンモニア燃料）による価格優位性が極めて大きく、差別化が困",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 中国の国家戦略的な投資に対抗するため、日本も産業戦略の見直しが必要",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2ストロークエンジンは、競合と同レベルの開発状況",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造はいずれも中国造船所（26-27年に3隻竣工、28-29年に6隻竣工）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際海事機関（IMO）、欧州規制",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "舶用工業のシェア",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ インド太平洋地域に展",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 中国は、2024年の世界の建造量のうち約50％を建造しており、今後もシェアは拡大すると見込まれる",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造量（韓国）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造量（中国）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造量（欧州）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国は2024年に世界の７割超",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界における船舶受注量と国別シェア",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 世界的な発注の低迷の中、2020年にかけて日本の受注量・シェアが減少",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本のシェアは15-16%で推移してい",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "瀬戸内地域（中国・四国）は、全国の許可造船所数の約4 割（103 社） 、新造船建造量の約5 割",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の建造量シェアが低下する中、GHG 規制強化を背景に、 水素・アンモニア・LNG 等の新燃料",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国・四国地域の戦略産業クラスター計画の素案には、瀬戸内の集積を基盤にインフラ整備や",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "積し、広島市では船舶用ポンプ等で世界トップシェアを有する企業や修繕拠点が立地するなど、",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このように、瀬戸内地域には船舶用ポンプで世界トップシェアを有する企業や、舶用エンジ",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ン、プロペラ、クレーン等で国内外トップレベルのシェアを有する企業が多数立地しており、こ",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "船）のうち水素燃料船のマーケットシェア30％を目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年間生産量を現在の 10 倍まで引き上げ、同システムにおける世界シェア 20％以上の獲得を目指",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "において No.1 のシェアに挑戦する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 2025年４月、我が国が欧州と共同提案した、使用燃料のGHG強度を規制する制度、ゼロエミッション燃料船の導入促進制度を含",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "テムをパッケージで提供し、海外の競合に対する競争力を高めることで、市場におけ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "◆ 特に、燃料供給システムの提供が可能な競合との差別化のためにも、早急にバンカ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "○ 官民が連携して、競合の取組状況を注視しつつ、研究開発成果を素早く市場",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Korean (Naver)",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国、韓国勢に押され、世界市場で存在感を低下させてきた国内造船業が反転攻勢に動き出した",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "かつて日本はLNG船で世界市場の半数以上を占めたが、00年代以降は韓国、中国勢が台頭",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内造船所の受注は16年以降途絶え、現在は韓国勢が世界市場で圧倒的なシェアを握る",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の輸出入における輸送シェア 国内貨物輸送シェア",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 日本造船業は長い歴史を有し、かつては建造量シェアで世界1位",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上荷動き量の増加と韓国・中国の台頭により、足元のシェアは13%程度まで低下",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大型で新しい建造設備を持つ競合国に比べると厳しい競争環境",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 米国において造船業の重要性が再認識されたことが日本にも波及、自民党は「日本の船は日本で造り",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国の関税措置に関する日米間合意及び協力覚書を",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 次世代船舶のマーケットプレゼンス獲得のため、競合国に先駆けて開発・建造を推進",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "シェア低迷、供給網断絶リスクに危機感",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の造船業の建造量シェアは１９９０年代初めまで世界市場の約５割を占めたが、次第に低下",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大規模な造船所を擁する中国や韓国が台頭すると競争力は一気に落ち込み、２４年の受注量シェアは１割を切った",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "舶用品を含めた造船の供給網を維持するには建造量のシェアが２割程度必要とされる",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "２６年の中国経済展望と日中関係の行方◇柯隆",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ウイルス隔離でサイバー防御◆米国防総省が認めた「HP Sure Click Enterprise」とは",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造量（韓国）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造量（中国）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造量（欧州）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国は2024年に世界の７割超",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "投資：韓国産業銀行KDBが投資するファンドによるリーススキーム（2024年8月第1号案件エコバルク船に3,200万ドル投資）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "【企業フォーカス】株式会社ニューメタルス・エンド・ケミカルス・コーポレーション：地政学リスクを追い風に飛躍する老舗レアメタル＆新素材専門商社",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 日本の国際競争力強化に向けて、造船業、舶用工業、海運業、商社の各企業がコンソーシアムを組んで",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に、船主、金融機関、商社、造船所、舶用機器メーカー、素材供給企業等",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年速報】銀行振込手数料を徹底比較！最新情報を含めた一覧で解説",
+    "url": "https://sogyotecho.jp/news/20231114ship/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GMOあおぞら銀行、他行宛て振込手数料100円/件（税込）へ！＆新規",
+    "url": "https://sogyotecho.jp/news/20231114ship/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "製造分野における熱プロセスの脱炭素化",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "加速する日本郵船グループの脱炭素に向けた取り組み",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界中で脱炭素化の気運が高まる中、海事産業においてもGHG削減は喫緊の課題だ",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そこで脱炭素化を一気に加速させる新燃料として、燃焼してもCO₂を排出しないアンモニアに白羽の矢が立てられた",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし、海事産業の脱炭素化を加速させるには、アンモニアが最も実現可能性の高い選択肢の一つだという認識が広がりつつあります",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、納期やコストを意識しすぎて安全性を下げるわけにはいきません",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "技術面のみならず、安全性、納期、コストなど多面的に評価しながらバランス感覚を持って判断できる能力が求められます」",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンモニア燃料アンモニア輸送船の竣工により日本郵船グループの脱炭素の取り組みは大きく前進する",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素グループの使命と挑戦",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• サプライチェーン(Scope3)におけるCO2排出削減要求の高まり",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• サステナビリティを判断軸とする「資本の脱炭素化」 (ESG投資)",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 脱炭素化の定量評価が金融機関の融資基準に含まれる (ポセイドン原則)",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "船級(安全認証)",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 脱炭素化の世界的な気運が高まる中、海運分野において",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "し、関係官公庁と協議・調整の上、実証船検証において許認可を",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "整理し、関係官公庁と協議・調整の上、実証船検証において許認可を",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "主機関の型式認証",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 海運の脱炭素化を推進するシンガポールの非営利団",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海洋脱炭素の覇権を握る「次世代船舶」——官民が挑むアンモニア・水素燃料船の実装と長期実証への転換",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際海運における脱炭素化の波が急速に強まる中、日本政府と海事産業は次世代船舶の開発に向けた官民一体の取り組みを加速させている",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 2024年度、国際海事機関（IMO)の「GHG削減戦略」改定など、脱炭素化の動きが加速していることを踏まえ、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ プレミアム路線で競争するならば、制度設計（標準化・認証制度）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "オープン＆クローズ戦略の再設計が必要であり、標準化・認証制度・データ公開・測定の透明性な",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "プレミアム路線で競争するならば、制度設計（標準化・認証制度）やデータ公",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "難であるため、競争力維持のためには、標準化・認証制度・データ公開・測定の透明性などの制度設計が不可欠",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・安全要求に対応したエンジンシステムおよび制御方法を開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 安全要求を満たす舶用水素燃料タンクおよび燃料供給システム(MHFS)を開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "③GHG削減の認証制度構築につなが",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・実船への搭載性、安全要求に対応したシステム設計を検討（達成）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 防衛省、海上保安庁",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省の艦艇",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "出典：ジャパンマリンユナイテッド、防衛省、海上保安庁",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素化への対応等を",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "③脱炭素化等を通じたゲームチェンジ市",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "③ ロードマップ（脱炭素化等を通じたゲームチェンジ/安定的な需要の確保",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素化への対",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "毎年度、民間投資に応じた必要額を要求",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "尾道造船（株）は、認定事業基盤強化計画に基づき、低・脱炭素代替燃料船として、新たに開",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "業を含むサプライヤー全体の人員確保のための寮整備を検討している",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "による経済成長と脱炭素化の両立を実現する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "形成が促進されるとともに、 物流コスト低減や納期信頼性の向上により造船拠点の競争力向上",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産性の向上に加え、納期遵守能力の強化が可能となり、国際的な受注競争における優位性確",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "っても、福山・倉敷方面のサプライヤーからの部材調達ルートが強化されるこ",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "カーボンニュートラルの推進（海運の脱炭素化の取組の深化）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海運分野における脱炭素化促進に資するとともに、ゼロエ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経済産業省総合資源エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会 委員他",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新エネルギー・脱炭素の情報収集には「SMART ENERGY WEEK 」「サステナブル経営WEEK（旧称：GX経営WEEK）」の活用を",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ゼロエミッション船への転換により脱炭素社会の実現を",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2020年以降の気候変動問題に関する国際的な枠組みとして、2016年に「パリ協定」が発効され、脱炭素化の世界的な機運が高まっています",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば、国際海運の脱炭素化を加速させるための企業、機関、港湾、政府が参画する国際連合体「GTZC（Getting to Zero Coalition）」では、2030年までにゼロエミッション船の商用運行を目指しています※",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素化の実現に向けて、新エネルギーの研究開発やGXが加速しています",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本最大級の展示会であり、企業向け脱炭素ソリューションやサーキュラー・エコノミー関連の製品が出展します",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素経営 EXPOの詳細はこちら",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、脱炭素社会の実現に向けて新エネルギーやGX関連の技術・情報は日々更新されています",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※「脱炭素経営 EXPO」「サーキュラー・エコノミー EXPO」は「サステナブル経営WEEK（旧称：GX経営WEEK）」の構成展です",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "27年度概算要求でも複数省庁がLNG船の国内供給に向けた施策を盛り込むなど、造船振興の枠を超えた国家のプロジェクトとして具体化してきた",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "三菱重工業長崎造船所は事業再構築によって大型商船の新造から実質的に撤退し、現在は防衛艦艇や船舶修繕、脱炭素技術の研究・実証などに軸足を移している",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、脱炭素化に向けてアンモニア・LNG燃料タンクの生産能力増強なども進め、2030年までにゼロエミッション船の建造能力を2・5倍に引き上げる方針だ",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・また、大型クレーンの導入には長い納期（現状7年以上先）に対応できる支援 が必要",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2027年度の中小企業支援はどう変わる？概算要求から補助金・税制の動向を解説",
+    "url": "https://sogyotecho.jp/news/20231114ship/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "エミ化への投資総額は2.1兆円規模を予定",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "投資総額は2.1兆円規模を予定",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "舶用水素エンジン及びMHFSの開発 約262億円 245.1億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンモニア燃料国産エンジン搭載船舶の開発 約148億円 106.3億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンモニア燃料船開発と社会実装の一体型プロジェクト 約30億円 20億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンモニア燃料搭載船のN2Oリアクタ開発 約19億円 13億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 令和7年度補正予算で1,200億円を措置",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「官民投資１兆円」のフレーム",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 「造船業再生ロードマップ」に基づき、2035年までに官民で１兆円規模の投資実現を目指す",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（官:3,800億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（官民:2,800億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "① 官民設備投資額：約 5,000 億円（2034 年度累積）",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "② 付加価値増加額：約 35,000 億円（2034 年度累積）",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民設備投資額については、官民投資ロードマップに基づき、我が国全体で 2034 年度までに",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "１兆円規模の投資が見込まれる中、瀬戸内地域がその約５割を担うものとして、約 5,000 億円と",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "付加価値増加額については、官民設備投資額約 5,000 億円及び当該投資に伴い生じる生産増加",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "額を基礎として産業連関分析を実施し、その結果を踏まえ、約 35,000 億円と設定する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "２）官民設備投資額：約 2,800 億円（2030 年度累積）",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "② 付加価値増加額：約 19,400 億円（2030 年度累積）",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(※１) ・GI基金393.4億円(令和３年～最長10年間)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※令和7年度政府予算案：1.4億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024～2028年（5か年） 600億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025～2029年（5か年） 300億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和6～10年度 合計600億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和7～11年度 合計300億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合計900億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "209 万 円 1回 / 3.5日 2.18 億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "15 台 911.3 kg 626 万 円 1回 / 2日 11.42 億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Spotlight 戦略産業クラスター【造船】国策で動き始めた九州の造船再生／官民3000億円投資で次世代船舶の集積が加速",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府は九州の「次世代船舶」を戦略産業クラスターに選定し、2034年度までに官民で3000億円を投じる",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "造船業再生基金を10年間で3500億円規模とし、民間投資と合わせて全国で官民1兆円の投資を目指す",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、「戦略産業クラスター」に選定された九州では、34年度までに官民で約3000億円の設備投資を目標に掲げる",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "付加価値増加額は約2兆1000億円を目標とする",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国土交通省は9月4日、造船業再生基金による初の支援対象として今治造船など3件を認定し、26～34年度に最大約2131億円を助成",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "11日には川崎重工業や三菱造船、大島造船所など5件を追加認定し、最大約980億円を支援する",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2回の認定額は計約3111億円に上る",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "クラスター計画では政府支援を活用して約1000億円を投じ、生産効率を約2倍に高める",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "名村造船所と子会社の函館どつくは造船業再生基金の支援対象にも認定され、両社の設備投資に最大約499億円が助成される",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "売上規模： 3.0兆円",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本で持つ」を掲げ、政府に対して1兆円基金の創設、ロードマップ策定を提言",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 政府は、造船能力の抜本的向上に向けて「10年間で3,500億円規模の基金創設」と「官民連携して1",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "状況を見て検討し、総額3,500億円規模を目指す",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民連携して１兆円規模の投資実現を目指すフレーム",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「造船大国ニッポン」再生へ官民投資１兆円超 フィジカルＡＩが熟練工再現、LＮＧ運搬船の建造も…復活の未来図は【けいざい百景】：時事ドットコム",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「造船大国ニッポン」再生へ官民投資１兆円超 フィジカルＡＩが熟練工再現、LＮＧ運搬船の建造も…復活の未来図は【けいざい百景】",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府は２０３５年の国内建造量を２４年比で倍増となる１８００万総トンに引き上げる方針で、国土交通省は昨年策定した「造船業再生ロードマップ」で官民の投資総額の目標を１兆円規模と掲げた",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "すでに造船業界からは政府の支援を前提に１兆円を上回る投資意欲が示された",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府は国内最大手の今治造船（愛媛県今治市）、名村造船所、川崎重工業、三菱造船など８グループに対して造船業再生基金に基づく支援を決定済みで、総額は官民で９０００億円規模に上る",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "三菱重工業は１０月２日、下関造船所（山口県下関市）の建造能力拡大に約１０００億円を投資し、新工場を建設すると発表",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "投資額のうち、国交省から約４００億円の助成を受ける",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "主力の坂出工場に３５年までに約１０００億円（うち再生基金対象額が４５０億円）の設備投資を実施し、造船所全体をデジタル化する",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "月給21万円～32万円",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・2015~2017年、大宇造船海洋への巨額な公的金融支援(約12兆ウォン=1.2兆円相当) （1ｳｫﾝ0.1円で換算）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・2006～2013年 造船業界参入・拡大への巨額補助金 910億ドル(約14兆円）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "恒力造船（旧STX大連）投資総額110億元（2300億円）の新造船所建設工事(‘24年8月着工)",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・業界は過去にない3,500億円の自己資金負担により、建造能力倍増に邁進",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 大型クレーン本体（1200ｔクラス・1基約90億円）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年改正・税理士監修】基礎控除は最大104万円に！178万円の壁・年末調整はどう変わる？",
+    "url": "https://sogyotecho.jp/news/20231114ship/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年最新・税理士監修】基礎控除は95万円から最大104万円へ！年末調整・年収別の控除額を解説",
+    "url": "https://sogyotecho.jp/news/20231114ship/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "政治（法・予算・規制）": [
+   {
+    "quote": "次世代船舶の開発 | NEDO グリーンイノベーション基金",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金事業概要",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算額と2050年の効果目標値",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金事業",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金事業関連サイト",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「より良い次世代船舶の建造には、当然のことながらコストも時間もかかるため、予算やスケジュールはしっかり管理する必要があります",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金 /次世代船舶の開発",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 日本政府による「2050カーボンニュートラル」宣言 (20年10月)",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を規制する制度、ゼロエミッション燃料船の導入促進制度につき合意",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "環境規制が一段と厳しくなり、老齢船は市場から淘汰され",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "環境規制が一段と厳しくなり、代替燃料が利用可能な",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 海洋立国である日本にとって、海事産業は経済安全保障を",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法規制対応支援",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際海運における脱炭素化の波が急速に強まる中、日本政府と海事産業は次世代船舶の開発に向けた官民一体の取り組みを加速させている",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "週刊バッテリートピックス「政府、太陽電池資源化を検討」「CATL15%の増益」など",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "環境省 令７年自動車における再生材市場構築のための産官学連携推進事業（補助金）二次公募の採択結果公表",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "BIR国際リサイクル会議2026、スペイン・マラガ⑥ 鉄鋼部門： アフリカは鉄スクラップの輸入地域へ、輸出規制と投資リスクが成長の壁に",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金事業／",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 本プロジェクトは「水素社会の成立」という外的条件に強く依存しており、船舶単体の開発ではなく、非市場戦略（規制整",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "費補助金」を利用",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際的な規制動向",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際海事機関（IMO）、欧州規制",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 2024年1月、EU-ETSが海運にも適用され、2025年1月、FuelEU Maritimeの規制開始",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 2025年4月第83回海洋環境保護委員会にて 、使用燃料のGHG強度規制、ゼロエミッション燃料船の導入促進制度 （拠出金・還付金）につき合意",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ GI基金の成果を国内外のステークスホルダーに広く知っていただくために、NEDOおよびコンソメンバーから国際学会や展示会等",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 他GI基金プロジェクトとの相互連携により、安全対策等の各プロジェクト共通課題について早期解決を目指す",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• GI基金伴走調査にて「水素・アンモニア輸送次世代船舶の経済性評価」および「水素・アンモニア供給環境の整備に関する調査」を実",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・海上貨物輸送 要予測：気候変動に関する政府間パネル（IPCC）や国際エネ",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・ゼロエミッション による代替建造 要：GHG 規制適合モデルにより試算",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（特に経済安全保障上重要な船舶について）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際燃料規制・インセンティブ制度による国際市場構築",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "代表的な施策の例：経済安全保障推進法に基づく「造船業再生基金」",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 2035年までに、1,800万総トンの船舶建造能力を確保することを最終目標に、経済安全保障推進法に基づき、「船体」を",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 令和7年度補正予算で1,200億円を措置",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（「経済安全保障と独占禁止法に関する事例集」の公表）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経済安全保障推進法「船体」指定",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生産設備整備支援（造船業再生基金）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "送が占める我が国において、経済安全保障上極めて重要な役割を担っている",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の建造量シェアが低下する中、GHG 規制強化を背景に、 水素・アンモニア・LNG 等の新燃料",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "善や労働時間規制及び外国人受入れ要件の緩和等による就労環境の整備を進める",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "は、NEDO のグリーンイノベーション基金事業「液化水素サプライチェーンの商用化実証」の一環",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※NEDO グリーンイノベーション基金事業「大規模水素サプライチェーンの構",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ジャパン マリンユナイテッド（株）は、 認定事業基盤強化計画に基づき、2031 年３月までに、",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "尾道造船（株）は、認定事業基盤強化計画に基づき、低・脱炭素代替燃料船として、新たに開",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "内海造船（株）は、認定事業基盤強化計画に基づき、2031 年３月までに、尾道市瀬戸田町及び",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "○ 2026 年から 2030 年において、造船業再生基金、GX 経済移行債、ツーステップローン等を",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の在籍出向等を通じた横断的かつ継続的な人材育成を可能とした「造船クラスター認定共",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（GI基金による開発）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(※１) ・GI基金393.4億円(令和３年～最長10年間)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "A：燃料規制",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※令和7年度政府予算案：1.4億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "使用燃料のGHG強度(gCO2eq/MJ)を規制するとともに、 ゼロエミッション燃料船等に",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "使用燃料のGHG強度を規制する制度",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 2025年４月、我が国が欧州と共同提案した、使用燃料のGHG強度を規制する制度、ゼロエミッション燃料船の導入促進制度を含",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "追加研究開発内容に係る予算について（想定）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "となるように日本全体で規制・制度の整備を進めている",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "○ 政府間のグリーン海運回廊の設立に向けて、各港湾との連携が重要であり、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば、国際海運の脱炭素化を加速させるための企業、機関、港湾、政府が参画する国際連合体「GTZC（Getting to Zero Coalition）」では、2030年までにゼロエミッション船の商用運行を目指しています※",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本では国際的な取り組みに合意・参加するとともに、「グリーンイノベーション基金」を活用し、ゼロエミッション船の実用化に向けた「次世代船舶の開発」プロジェクトを進めています",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海事：グリーンイノベーション基金事業「次世代船舶の開発」プロジェクト - 国土交通省",
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "造船業再生基金、最初の8件で最大3,110億円。 次世代船舶 は ... 造船業再生基金、最初の8件で最大3,110億円。 次世代船舶 は ... note https://note.com > ビジネス > 戦略・組織論",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【 2026 年6月20日 次世代船舶 関連株】ダブルバガーを狙う割安 ... 【 2026 年6月20日 次世代船舶 関連株】ダブルバガーを狙う割安 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "日本郵船グループ企業理念",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "森林は2022年にキャリア採用で入社した",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "正直、今でもついていくのに精一杯ですが、挑戦を後押ししてくれる企業文化もあり、とても刺激的な毎日です",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「通常、我々のような海運会社が船を発注する際は、既に開発が完了した機器を組み合わせて、最適な船の仕様を決めていきます",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本郵船グループの企業理念“Bringing value to life.”の通り、今後も持続的に新たな価値を人々へ届けるべく、アンモニア燃料船開発プロジェクトは重要な役割を担う",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "挑戦する企業",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "キャリア採用",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新卒採用サイト",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を規制する制度、ゼロエミッション燃料船の導入促進制度につき合意",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション技術を持った企業へと進化",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当該変化に対する経営ビジョン：市場機会及び社会・顧客・国民等に与えるインパクト：",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海運のゼロエミ化実現には代替燃料の導入・普及が必須",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "●社会・顧客・国民等に与えるインパクト：",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "るため、リプレース需要取り込みによる新造船の受注機会",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• （ジャパンエンジン）国内エンジンメーカーにライセンスを供与することに",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "より、国内エンジンメーカーの活性化、延いては、国内海事産業の発展に",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• （ジャパンエンジン）国内先行者利益を確保した後は、自社工場を",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "マザー工場とした、海外への技術移転による、更なる普及拡大も視野",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新旧民間航空機の受注納入について（26年9月）",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "民間航空機受注納入統計(26年9月）",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10th ISLC in Colombo #7：鉛蓄電池の循環を支える責任ある調達と安全なリサイクル",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【企業フォーカス】株式会社ニューメタルス・エンド・ケミカルス・コーポレーション：地政学リスクを追い風に飛躍する老舗レアメタル＆新素材専門商社",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "５．実施企業等の取組状況とNEDO委員会での意見",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 日本の国際競争力強化に向けて、造船業、舶用工業、海運業、商社の各企業がコンソーシアムを組んで",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（※）WG出席企業",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「技術面」 ＜実施企業等の主な取組状況＞ ＜NEDO委員会による主な意見＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 水素バンカリングを含め中小企業・ベンチャーの巻き込みによる多様",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「事業面」 ＜実施企業等の主な取組状況＞ ＜NEDO委員会による主な意見＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "5．実施企業等の取組状況とNEDO委員会での意見",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "工場内の水素運転設備の設置完了",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 商用化・量産・輸出・系列外展開など、事業拡張フェーズに向けた戦略が弱く、「勝ち筋」の再設計と国際連携によるスケー",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素バンカリングを含め中小企業・ベンチャーの巻き込みによる多様性のある体制構築が必要",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 部品調達を含めて国内に基盤を有し、",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 国内生産比率が約８割、地域生産比率９割以上であるのに加え、ほぼ全ての部品を国内調達しており、地域の経",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 受注と竣工の期間が長い（近年は３～４年）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "船舶受注後（船価確定後）に材料を調達するため、物",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造能力拡大には長期間・多額の設備投資が必要",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ こうした市況変動のため、大規模な施設・設備投資のリスクが大きい",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の受注を行い、今後建造量の増",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界における船舶受注量と国別シェア",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 世界的な発注の低迷の中、2020年にかけて日本の受注量・シェアが減少",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 中国は、2024年に世界の７割超の受注を行い、今後建造量の増加が見込まれ、市場支配力を強めている",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "で国際競争力を有する企業群が集積しており、特に今治市は造船・舶用・海運に加え金融・教育",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ことで、次世代船舶の量産体制への転換を推進する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "造転換により次世代船舶の量産拠点としての競争力を強化する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "量産に対応可能な生産体制を構築する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "度人材の確保・育成とともに、特区制度を活用した共同 OJT の取組により、在籍出向を含む企業",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "じて、設備投資の促進、制度面の柔軟化及び戦略的な取組の統合を図るとともに、事業環境の改",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "標準化・DX・人材・インフラの一体的な構造転換を進め、次世代船舶の量産体制を確立する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "その結果、2030 年前後には量産体制を確立し、建造能力約 50％向上と生産性約 25％向上を実",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに、投資・受注・再",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "前提とし、当該期間において実施される設備投資の成果の定着及び高度化を図る段階として、",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "料船の導入が進むが、炭素を含むこと、グリーン燃料の供給量・価格等が懸念材料",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "実現には、今からゼロエミッション船の導入に向けた環境整備に取り組むことが不可欠",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "②生産基盤の構築、新造船発注",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 海運：ゼロエミッション船等の導入を促進",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ゼロエミッション船の導入に向けた国際",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "器 の生産設備の導入を支援",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レーン等の艤装設備等の導入を支援",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "対するインセンティブ制度（報奨金）を導入することにより、ゼロエミッション燃料船等へ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "人材育成・効率化",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "船員雇用の創出",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " ゼロエミに係る技術開発・ルール策定・人材育成・国際社会への貢献など海事クラスターとの連携",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "地域の経済・雇用を創出",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "済・雇用を支える産業",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 船舶は、複雑な設計、生産に対応する多数の技術者及び技能者により建造",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ コロナ期に落ち込んだ外国人材の数がここ数年再び増加し、就労者数全体については減少傾向に歯止めの兆し",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【造船所本体で雇用】",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【下請（協力会社）で雇用】",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "③ 設計や現場において人材不足が深刻化",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 日本の海事産業群の中核となり地域の経済・雇用を支える",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "雇用環境の改善、",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "外国人技能者の受入れ 等",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "繕、人材育成までを一体的に担うサプライチェーンが構築されており、貿易の 99%以上を海上輸",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "機関により、造船技術者や船員の育成に加え、DX・GX に対応可能な高度人材の育成基盤が整って",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "需要・投資・人材を呼び込む我が国有数の産業クラスター形成の適地である",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "り、設計・建造・艤装・舶用機器供給・修繕・海運・人材育成まで一体的なサプライチェーンが",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "料への対応、人材不足、港湾・物流インフラの制約といった構造的課題により、建造量が減少し",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に設計者・技能者の不足や若年入職者の減少等により人材制約が深刻化し、生産効率",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このため、本クラスターでは、データ・物流・人材の連携によってサプライチェーン全体の効",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "た生産・供給システム全体の構造転換を図るとともに、人材の確保・定着を支える受入環境の整",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "度人材の確保・育成とともに、特区制度を活用した共同 OJT の取組により、在籍出向を含む企業",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "間の人材循環と実践的育成、多能工化の取組を推進する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "○現状：熟練技能者の経験と勘に基づいて流量調整バルブを操作",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海洋開発関連産業の振興・海洋人材育成",
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "船員の確保・雇用対策",
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この国策を長崎の新たな投資や雇用にどう結び付けるかが重要」と指摘する",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民約3000億円の投資を設備増強だけに終わらせず、人材や関連産業を含む裾野の広い集積につなげられるか",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 造船業は舶用含む関連企業を含め地域の雇用の受け皿",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造能力倍増に向けた取組（②人材確保）",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 建造能力の拡大には、人材の確保も不可欠",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "とで、地域の雇用創出、関連産業の成長につなげ、海事産業群として",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "造船所に対する大規模な設備増強やロボット・ＡＩ（人工知能）の活用、人材育成により、造船大国ニッポン復活の未来図を描く",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高齢化に伴う熟練技術を持つ職人の減少も深刻な課題となっている",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "職人技の習得には３～５年程度が必要といい、人手不足の緩和にもつなげる",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "熟練技能者による鋼板の曲げ加工を自律的に施す（ＪＭＵなど提供）",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人材育成では、造船所がある地域を念頭に、高校や大学での教育体制を官民連携で強化する",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "技能研修施設の拡張や働きやすい職場環境づくりにも取り組む",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• そのためには、DX・ロボット活用、業界水平連携・垂直連携、人材確保等に加え、大規模な設備投資が必須",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ＷＧはこの実現に向け、夏までに官民投資ロードマップの策定や人材育成、修繕、国際戦略、",
+    "url": "https://newswitch.jp/p/48454",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "完全版レポートでは、認定8件すべての事業者と最大助成額の一覧、瀬戸内・九州のクラスター計画の比較表（投資額・付加価値・人材育成・インフラ）、香川・愛媛・長崎・大分の県の計画、今後の確認ポイントを整理しています",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グリーンイノベーション基金事業／ 次世代船舶 の開発 2025 ... — グリーンイノベーション基金事業／ 次世代船舶 の開発 2025 ... 経済産業省 PDF https://www.meti.go.jp > industrial_restructuring > pdf",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海事：グリーンイノベーション基金事業「 次世代船舶 の開発 ... — 海事：グリーンイノベーション基金事業「 次世代船舶 の開発 ... 国土交通省 https://www.mlit.go.jp > maritime > maritime_tk7_000041",
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代船舶 戦略産業クラスター計画（瀬戸内地域） - 内閣官房 — 次世代船舶 戦略産業クラスター計画（瀬戸内地域） - 内閣官房 内閣官房 PDF https://www.cas.go.jp > chiikimirai > dai5 > sankou13",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ゼロエミッション船とは？導入が期待される背景や世界・日本 ... — ゼロエミッション船とは？導入が期待される背景や世界・日本 ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_108",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民3000億円 投資 で 次世代船舶 の集積が加速 - 財界九州社 — 官民3000億円 投資 で 次世代船舶 の集積が加速 - 財界九州社 財界九州社 https://www.kyushu01.com > 202611 > detail",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代船舶 の世界トップシェア獲得に向け、更なる設備投資を ... — 次世代船舶 の世界トップシェア獲得に向け、更なる設備投資を ... 国土交通省 https://www.mlit.go.jp > press > kaiji05_hh_000342",
+    "url": "https://www.mlit.go.jp/report/press/kaiji05_hh_000342.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kline.co.jp/ja/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iru-miru.com/article/86905",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmra.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jseinc.org/kaiun/KAIUN2026_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.classnk.or.jp/hp/ja/hp_news.aspx?id=10802&type=press_release&layout=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nedo.go.jp/koubo/SE3_100001_00122.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sogyotecho.jp/news/20231114ship/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/report/press/kaiji05_hh_000342.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojyokin-portal.jp/subsidies/35740",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nikkan.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/774526",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/pages/menseki",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newswitch.jp/p/48454",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marinelink.com/news/alternativefuel-vessel-orders-slow-down-540882",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gcaptain.com/alternative-fuel-ship-orders-up-57-in-2026-as-lng-continues-to-dominate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lngindustry.com/small-scale-lng/03112026/dnv-reports-alternative-fuel-vessel-order-figures-for-october-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/WaveWatchers/posts/alternative-fuel-ship-orders-surge-57-but-lng-still-leads-the-raceshipowners-ord/1792854932840189/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://download.classnk.or.jp/documents/ClassNKAlternativeFuelsInsight_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://greenvoyage2050.imo.org/maritime-alternative-fuel-regulatory-status-updated/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mol-service.com/en/services/adopt-clean-energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iges.or.jp/en/pub/zero-emission-shipping-japan/en",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/newswitch_/status/2026507896750559618",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "次世代船舶 ニュース 2026年11月",
+   "results": [
+    "https://kaikoumu.zendesk.com/hc/ja/articles/61878396870681-%E6%B5%B7%E9%81%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88-2026%E5%B9%B409%E6%9C%8804%E6%97%A5",
+    "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "https://www.kline.co.jp/ja/news.html",
+    "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "https://www.jasnaoe.or.jp/publish/kanrin/backnumber.html",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "https://www.kaijipress.com/news/shipbuilding/",
+    "https://jseinc.org/kaiun/KAIUN2026_01.pdf",
+    "https://www.youtube.com/watch?v=BjJqndcNFbg",
+    "https://www.marketsupporter-ai.com/reports/next-gen-ship-progress-monitor.html"
+   ]
+  },
+  {
+   "query": "次世代船舶 発表 2026年11月",
+   "results": [
+    "https://www.nedo.go.jp/content/800030742.pdf",
+    "https://www.iru-miru.com/article/86905",
+    "https://www.jmra.or.jp/",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "https://www.jasnaoe.or.jp/publish/kanrin/backnumber.html",
+    "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "https://jseinc.org/kaiun/KAIUN2026_01.pdf",
+    "https://www.jsmea.or.jp/jp/news/",
+    "https://sogyotecho.jp/news/20231114ship/"
+   ]
+  },
+  {
+   "query": "次世代船舶 受注 2026年11月",
+   "results": [
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.jsmea.or.jp/jp/news/news_20230620/20230620_SAJ-JSMEA_zousen_kongo_setsumeikai_shiryou.pdf",
+    "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "https://jseinc.org/kaiun/KAIUN2026_01.pdf",
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "https://newswitch.jp/p/48454",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "https://www.youtube.com/watch?v=BjJqndcNFbg",
+    "https://www.marketsupporter-ai.com/reports/next-gen-ship-progress-monitor.html",
+    "https://www.jmd.co.jp/articleList.php?category=shipbuilding_equipment"
+   ]
+  },
+  {
+   "query": "次世代船舶 提携 2026年11月",
+   "results": [
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "https://www.nedo.go.jp/content/800030742.pdf",
+    "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "https://www.iru-miru.com/article/86905",
+    "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "https://www.classnk.or.jp/hp/ja/hp_news.aspx?id=10802&type=press_release&layout=1",
+    "https://sogyotecho.jp/news/20231114ship/",
+    "https://www.shin1sakamoto.com/?p=367",
+    "https://www.marketsupporter-ai.com/reports/next-gen-ship-progress-monitor.html"
+   ]
+  },
+  {
+   "query": "次世代船舶 設備投資 2026年11月",
+   "results": [
+    "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "https://timewell.jp/columns/japan-shipbuilding-revival-economic-security-defense-2026",
+    "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/016_02_00.pdf",
+    "https://www.imazo.co.jp/news/260724/",
+    "https://eigyo-mfg.com/blog/8737/",
+    "https://www.marketsupporter-ai.com/reports/next-gen-ship-progress-monitor.html"
+   ]
+  },
+  {
+   "query": "次世代船舶 補助金 採択 2026年11月",
+   "results": [
+    "https://www.nedo.go.jp/koubo/SE3_100001_00122.html",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "https://sogyotecho.jp/news/20231114ship/",
+    "https://www.mlit.go.jp/report/press/kaiji05_hh_000342.html",
+    "https://hojyokin-portal.jp/subsidies/35740",
+    "https://zosenblog.com/zeroemisennhojyokin/",
+    "https://pczes.jstra.jp/",
+    "https://carboncredits.jp/japan/mlit-zero-emission-ship-subsidy-carbon-credit-2026/",
+    "https://www.jstage.jst.go.jp/article/conf/40/0/40_613/_pdf",
+    "https://zosenblog.com/zosenhojyokin/"
+   ]
+  },
+  {
+   "query": "次世代船舶 日刊工業新聞 2026年11月",
+   "results": [
+    "https://www.nikkan.co.jp/",
+    "https://www.nikkan.co.jp/articles/view/774526",
+    "https://www.nikkan.co.jp/pages/menseki",
+    "https://newswitch.jp/p/48454",
+    "https://www.youtube.com/watch?v=BjJqndcNFbg",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/022_05_00.pdf",
+    "https://pub.nikkan.co.jp/",
+    "https://jseinc.org/kaiun/KAIUN2026_01.pdf",
+    "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/scheme/",
+    "https://ndlsearch.ndl.go.jp/books/R100000002-I000000058185-i34805396"
+   ]
+  },
+  {
+   "query": "alternative fuel vessels news 2026年11月",
+   "results": [
+    "https://www.marinelink.com/news/alternativefuel-vessel-orders-slow-down-540882",
+    "https://gcaptain.com/alternative-fuel-ship-orders-up-57-in-2026-as-lng-continues-to-dominate/",
+    "https://www.lngindustry.com/small-scale-lng/03112026/dnv-reports-alternative-fuel-vessel-order-figures-for-october-2026/",
+    "https://www.facebook.com/WaveWatchers/posts/alternative-fuel-ship-orders-surge-57-but-lng-still-leads-the-raceshipowners-ord/1792854932840189/",
+    "https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alternative-fuel-ships-outpace-port-readiness-new-lr-report-finds/",
+    "https://britanniapandi.com/en_gb/guidance/alternative-fuels-update/",
+    "https://download.classnk.or.jp/documents/ClassNKAlternativeFuelsInsight_e.pdf",
+    "https://ww2.eagle.org/en/Products-and-Services/sustainability/alternative-fuel-options.html",
+    "https://www.instagram.com/p/DfQ4gqWD7oq/",
+    "https://thelogisticnews.com/alternative-fuel-vessel-orders-jump-57-as-port-infrastructure-struggles-to-keep-pace/"
+   ]
+  },
+  {
+   "query": "alternative fuel vessels Japan 2026年11月",
+   "results": [
+    "https://www.marinelink.com/news/alternativefuel-vessel-orders-slow-down-540882",
+    "https://download.classnk.or.jp/documents/ClassNKAlternativeFuelsInsight_e.pdf",
+    "https://www.facebook.com/WaveWatchers/posts/alternative-fuel-ship-orders-surge-57-but-lng-still-leads-the-raceshipowners-ord/1792854932840189/",
+    "https://greenvoyage2050.imo.org/maritime-alternative-fuel-regulatory-status-updated/",
+    "https://www.mol-service.com/en/services/adopt-clean-energy",
+    "https://www.iges.or.jp/en/pub/zero-emission-shipping-japan/en",
+    "https://www.youtube.com/watch?v=WBi-UpapoFo",
+    "https://safety4sea.com/dnv-17-new-orders-for-alternative-fueled-vessels-in-february-2026/",
+    "https://www.imarinenews.com/36007.html",
+    "https://www.imarinenews.com/38305.html"
+   ]
+  },
+  {
+   "query": "site:note.com 次世代船舶 2026",
+   "results": [
+    "https://note.com/busintemasamo1/n/n9d15dcf85a9c",
+    "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "https://note.com/tatsuya_sabato/n/nf457387a78d8",
+    "https://note.com/4_the_future/n/n7140ead960a0",
+    "https://note.com/deltacf/n/nea6920f7f035",
+    "https://note.com/yo4shi80/n/nddb614eec04e",
+    "https://note.com/yo4shi80/n/ne2eba0e250d4",
+    "https://note.com/deltacf/n/n2a5a97039d21",
+    "https://note.com/jazzy_llama5993/n/n0241ef1f7d96"
+   ]
+  },
+  {
+   "query": "site:x.com 次世代船舶",
+   "results": [
+    "https://x.com/nedo_info/status/2097150501825696012",
+    "https://x.com/nedo_info/status/1936975259451941365",
+    "https://x.com/newswitch_/status/2026507896750559618",
+    "https://x.com/kaijiweb/status/2057061271930097838",
+    "https://x.com/tumsat_official/status/2018917429481709732",
+    "https://x.com/nekotanchan/status/2045998255629295773",
+    "https://x.com/MLIT_JAPAN/status/2046481878262362420",
+    "https://x.com/Grasp_MLIT/status/2024289308363149576",
+    "https://x.com/nikkei/status/1993647370848915726",
+    "https://x.com/MLIT_JAPAN/status/1902193309034115130"
+   ]
+  },
+  {
+   "query": "site:linkedin.com alternative fuel vessels",
+   "results": [
+    "https://www.linkedin.com/top-content/corporate-social-responsibility/sustainable-shipping-fuels/the-importance-of-alternative-fuels-in-shipping/",
+    "https://www.linkedin.com/posts/michael-barnard-42446_why-shipping-is-quietly-aligning-on-methanol-activity-7415091581252452352-6TOP",
+    "https://www.linkedin.com/pulse/marine-alternative-fuels-energy-transition-kbrxe",
+    "https://www.linkedin.com/top-content/corporate-social-responsibility/sustainable-shipping-fuels/trends-in-alternative-marine-fuels/",
+    "https://www.linkedin.com/top-content/hospitality-tourism/cruise-industry-developments/alternative-fuel-sources-for-cruise-ships/",
+    "https://www.linkedin.com/pulse/fuel-transition-has-started-seafarers-ready-isfgroupint-glckf",
+    "https://www.linkedin.com/posts/inventu-fuel-series_the-real-test-of-alternative-fuels-begins-activity-7520389667792314370-zp_j",
+    "https://www.linkedin.com/posts/jimmie-wee-741207161_nearly-as-many-alternative-fuel-ships-are-activity-7372245908345978880-VLzo",
+    "https://www.linkedin.com/posts/ramprasad-ravi-b901273_dnv-alternativefuels-lng-activity-7501858306467016704-C-7c",
+    "https://www.linkedin.com/posts/tariqmateen92_ships-use-different-types-of-fuel-depending-activity-7450432591238795264-PQcp"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "SNS・note（note・本文）": [
+   {
+    "quote": "造船業再生基金、最初の8件で最大3,110億円。次世代船舶はどこまで進んだか｜busin",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "造船業再生基金、最初の8件で最大3,110億円。次世代船舶はどこまで進んだか",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年7月に決定した官民投資ロードマップの62品目のうち、決定後に最も具体的な動きが出ている品目の一つが「次世代船舶」です。官民投資額は2034年度までで1.0兆円、経済波及効果は9.7兆円。2035年に国内で1,800万総トン（2024年比倍増）を建造する目標が示されています（政策目標として示されている値）。2024年の建造量は900万総トンでした。政府資料は、ゼロエミッション船等の建造需要が2035年に建造需要の6割程度に達すると見込み、これを「ゲームチェンジの機会」と位置づけています。",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府は経済安全保障推進法の特定重要物資に「船体」を追加し、造船業再生基金を造成しました。国土交通省は9月4日に供給確保計画を初めて3件認定し、9月11日に5件を追加で認定しています。8件の最大助成額は合計約3,110億円（令和8〜16年度）、官民投資は総額9,000億円規模です。",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最大助成額が大きいのは、今治造船などの計画（約1,138億円）、名村造船所などの計画（約499億円）、ジャパン マリンユナイテッドなどの計画（約494億円）、三菱造船（約400億円）です。支援の対象は、省力化・自動化設備、ドック拡張、クレーン導入などの大規模投資です。",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "地域未来戦略に基づく「戦略産業クラスター計画」では、次世代船舶で瀬戸内地域と九州地域の2件が公表されています。官民設備投資の目標（KGI）は、2034年度までに瀬戸内約5,000億円、九州約3,000億円。瀬戸内は全国の新造船建造量の約5割、九州は約3割を占める地域です。拠点企業として、瀬戸内では川崎重工業・今治造船・尾道造船、九州ではジャパン マリンユナイテッド・大島造船所・名村造船所の投資が挙げられています。",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2027年度の概算要求では、国土交通省が「我が国造船業の再生」を新規で2.2億円＋事項要求、環境省が「ゼロエミッション船等の建造促進事業」を248.1億円（前年度当初149.1億円）要求しています。また10月16日の政府の分科会では、ロードマップの施策の取組状況が報告されました。報告対象はフィジカルAI・ゲームとともに次世代船舶が選ばれています（資料は非公開）。",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国土交通省は計画を順次認定するとしています。年末には政府予算案と「日本成長戦略実行計画」が策定され、2027年春にはロードマップの改訂が予定されています。",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年6月20日次世代船舶関連株】ダブルバガーを狙う割安成長株トップ3大公開｜さささ",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年6月20日次世代船舶関連株】ダブルバガーを狙う割安成長株トップ3大公開",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の成長戦略において、日本の経済安全保障および環境対策の重要な柱として位置づけられているのが次世代船舶の社会実装です。特にクリーン燃料への転換といった脱炭素化、および船員不足を解消する自動運航技術の開発は、国策として強力に推進されています。海運・造船業界に訪れたこの歴史的な大転換期において、今後1から3年で業績を爆発的に伸ばし、株価ダブルバガーの可能性を秘めた、指標面でも割安な成長株トップ3を厳選して分析しました。",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代船舶テーマで大化けする割安成長株トップ3",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "30代初心者トレーダーが億り人を目指してAIに頼りっぱなし投資法実践。興味を持った銘柄やテーマの調査結果を記録してます。FP、簿記とかも勉強中",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "初心者トレーダーを中心に色々交流したいです！",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "次世代船舶の開発 | NEDO グリーンイノベーション基金",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代型太陽電池の開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代型地熱技術の開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "等を用いたプラスチック原料製造技術開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "等を用いた燃料製造技術開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を用いたコンクリート等製造技術開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の分離回収等技術開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代蓄電池・次世代モーターの開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "電動車等省エネ化のための車載コンピューティング・シミュレーション技術の開発",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代デジタルインフラの構築",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最前線を走る日本郵船グループの次世代燃料船開発 | BVTL Magazine | 日本郵船株式会社",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最前線を走る日本郵船グループの次世代燃料船開発",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "その一つである世界初の国産エンジンを搭載したアンモニア燃料アンモニア輸送船開発（以下、本プロジェクト）が、着々と進行している",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのような会社だからこそ、他社に先駆けて次世代燃料の開発プロジェクトに踏み出せたのだと思います",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "入社後すぐにアンモニア燃料アンモニア輸送船の開発プロジェクトの担当を任され、「未知の海運分野でいきなり応用問題に挑むようなハードル」を感じることもあったが、その社会的意義の大きさを思うとプロジェクトに携わることへの高揚感の方が大きくなったという",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本船の開発・竣工だけをプロジェクトのゴールとせず、次にどうつなげていくか、いかに日本海事クラスターを強化し、社会全体に利益をもたらすか",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本プロジェクトは次世代船舶を社会実装することに加え、アンモニアバリューチェーンの構築や新たな技術開発を通じた日本の海事産業の強化、アンモニアの船舶での利用に係る国際ルール化への貢献など、より広く社会に貢献する目標を掲げている",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しっかりと安全性を担保し、船員が安心して乗れる次世代船舶を作る",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現地現物で学んだ知見を社内や開発パートナーとも共有し、安全性に関する研究開発を進める",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "船舶の設計・開発を担当する造船技師の藤岡は、自らのキャリアの中で新技術の研究開発に携わりたいと考えていた",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金 /次世代船舶の開発",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "/アンモニア燃料船の開発",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "/アンモニア燃料国産エンジン搭載船舶の開発",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "①アンモニア燃料タグボート「魁」（ 内航船）の開発・運航",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜研究開発内容＞",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4. 実証船による検証",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "②アンモニア燃料アンモニア輸送船（ 外航船）の開発・運航",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1. アンモニア燃料アンモニア輸送船の船型主要目の開発",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "5. 実証船による検証",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国産エンジンを搭載するアンモニア燃料船の研究開発を通じて、",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海洋脱炭素の覇権を握る「次世代船舶」——官民が挑むアンモニア・水素燃料船の実装と長期実証への転換",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LME DAILY",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際海運における脱炭素化の波が急速に強まる中、日本政府と海事産業は次世代船舶の開発に向けた官民一体の取り組みを加速させている",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経済産業省と国土交通省が開催した産業構造転換分野ワーキンググループの最新協議において、「次世代船舶の開発」プロジェクトにおける取組の追加が審議された",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同会議は非公開ではあるが、公開された資料を元に次世代船舶の現状を探った",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代船舶の開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人 新エネルギー・産業技術総合開発機構",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（参考2）ゼロエミッション船開発のためのコア技術",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（参考4）研究開発進捗のマイルストーン",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発内容①",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素燃料エンジンの開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発項目１： 水素燃料船の開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発内容②",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素燃料タンク・燃料供給システムの開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発概要",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "設計・研究開発",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 設備能力増強（大規模化・自動化等）による高効率化",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 高付加価値の確保（ゼロエミッション船に代表される次世代船舶",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "その中では、ゼロエミッション船を始めとする次世代船舶の需要が",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ ゼロエミッション船など次世代船舶建造技術で世界を主導する",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代船舶建造技術で",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "DXやロボット・AI技術を駆",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 先進建造技術（AI、ロボット等）の開発及び採用",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 先進的な船舶の設計及び機能の開発",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ン船等の技術開発・生産体制",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代船舶 戦略産業クラスター計画（瀬戸内地域）",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "造・実証など、地域の強みを活かした投資と技術開発が進展している",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "業（株）等を中核に、液化水素運搬船や次世代燃料関連設備の整備が進み、設計・建造・機器供",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "給に加え燃料供給や実証までを一体的に推進可能な基盤が形成されている",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方で、我が国の造船業は、厳しい国際競争の中で建造能力を縮小、設備の老朽化、次世代燃",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ニュースイッチ＠日刊工業新聞 on X: \"「 次世代船舶 」勝ち筋に ... ニュースイッチ＠日刊工業新聞 on X: \"「 次世代船舶 」勝ち筋に ... X https://x.com > @newswitch_",
+    "url": "https://x.com/newswitch_/status/2026507896750559618",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州域における連携 MMMCZCS(デンマーク)に参画",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場導入（事業化）しシェアを獲得するために、ルール形成（標準化等）を検討・実施",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ツガミ 27/3期上期、中国向け活況で35.2％増収65.7％営利増に大幅増額",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コンテナ運賃動向（2026年10月）、太平洋航路は高値安定、欧州航路は反発",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10th ISLC in Colombo #6：鉛の需要のピークはいつ迎えるのか 中国・インドの再生鉛市場と技術革新",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国の2025暦年ゲルマニウム輸出分析 24年比55％減の11トンにとどまる",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ アンモニア燃料船の開発は、中国に勝つための戦略を練ってほしい",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "際競合が提示する数値への対抗には、日本側が測定・検証・標準化の主導権を取る必要がある",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 中国WinGDの低価格・高性能アプローチが市場で注目されており、日本側の差別化戦略が明確でない",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方で、中国勢（WinGD＋中国造船所＋中国産アンモニア燃料）による価格優位性が極めて大きく、差別化が困",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 中国の国家戦略的な投資に対抗するため、日本も産業戦略の見直しが必要",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2ストロークエンジンは、競合と同レベルの開発状況",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造はいずれも中国造船所（26-27年に3隻竣工、28-29年に6隻竣工）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際海事機関（IMO）、欧州規制",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "舶用工業のシェア",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ インド太平洋地域に展",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 中国は、2024年の世界の建造量のうち約50％を建造しており、今後もシェアは拡大すると見込まれる",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造量（韓国）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造量（中国）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造量（欧州）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国は2024年に世界の７割超",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界における船舶受注量と国別シェア",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 世界的な発注の低迷の中、2020年にかけて日本の受注量・シェアが減少",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本のシェアは15-16%で推移してい",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "瀬戸内地域（中国・四国）は、全国の許可造船所数の約4 割（103 社） 、新造船建造量の約5 割",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の建造量シェアが低下する中、GHG 規制強化を背景に、 水素・アンモニア・LNG 等の新燃料",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国・四国地域の戦略産業クラスター計画の素案には、瀬戸内の集積を基盤にインフラ整備や",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "積し、広島市では船舶用ポンプ等で世界トップシェアを有する企業や修繕拠点が立地するなど、",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このように、瀬戸内地域には船舶用ポンプで世界トップシェアを有する企業や、舶用エンジ",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ン、プロペラ、クレーン等で国内外トップレベルのシェアを有する企業が多数立地しており、こ",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "船）のうち水素燃料船のマーケットシェア30％を目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年間生産量を現在の 10 倍まで引き上げ、同システムにおける世界シェア 20％以上の獲得を目指",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "において No.1 のシェアに挑戦する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 2025年４月、我が国が欧州と共同提案した、使用燃料のGHG強度を規制する制度、ゼロエミッション燃料船の導入促進制度を含",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "テムをパッケージで提供し、海外の競合に対する競争力を高めることで、市場におけ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "◆ 特に、燃料供給システムの提供が可能な競合との差別化のためにも、早急にバンカ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "○ 官民が連携して、競合の取組状況を注視しつつ、研究開発成果を素早く市場",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Korean (Naver)",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国、韓国勢に押され、世界市場で存在感を低下させてきた国内造船業が反転攻勢に動き出した",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "かつて日本はLNG船で世界市場の半数以上を占めたが、00年代以降は韓国、中国勢が台頭",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内造船所の受注は16年以降途絶え、現在は韓国勢が世界市場で圧倒的なシェアを握る",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の輸出入における輸送シェア 国内貨物輸送シェア",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 日本造船業は長い歴史を有し、かつては建造量シェアで世界1位",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上荷動き量の増加と韓国・中国の台頭により、足元のシェアは13%程度まで低下",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大型で新しい建造設備を持つ競合国に比べると厳しい競争環境",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 米国において造船業の重要性が再認識されたことが日本にも波及、自民党は「日本の船は日本で造り",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国の関税措置に関する日米間合意及び協力覚書を",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 次世代船舶のマーケットプレゼンス獲得のため、競合国に先駆けて開発・建造を推進",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "シェア低迷、供給網断絶リスクに危機感",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の造船業の建造量シェアは１９９０年代初めまで世界市場の約５割を占めたが、次第に低下",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大規模な造船所を擁する中国や韓国が台頭すると競争力は一気に落ち込み、２４年の受注量シェアは１割を切った",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "舶用品を含めた造船の供給網を維持するには建造量のシェアが２割程度必要とされる",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "２６年の中国経済展望と日中関係の行方◇柯隆",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ウイルス隔離でサイバー防御◆米国防総省が認めた「HP Sure Click Enterprise」とは",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造量（韓国）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造量（中国）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造量（欧州）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国は2024年に世界の７割超",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "投資：韓国産業銀行KDBが投資するファンドによるリーススキーム（2024年8月第1号案件エコバルク船に3,200万ドル投資）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "【企業フォーカス】株式会社ニューメタルス・エンド・ケミカルス・コーポレーション：地政学リスクを追い風に飛躍する老舗レアメタル＆新素材専門商社",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 日本の国際競争力強化に向けて、造船業、舶用工業、海運業、商社の各企業がコンソーシアムを組んで",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に、船主、金融機関、商社、造船所、舶用機器メーカー、素材供給企業等",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年速報】銀行振込手数料を徹底比較！最新情報を含めた一覧で解説",
+    "url": "https://sogyotecho.jp/news/20231114ship/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GMOあおぞら銀行、他行宛て振込手数料100円/件（税込）へ！＆新規",
+    "url": "https://sogyotecho.jp/news/20231114ship/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "製造分野における熱プロセスの脱炭素化",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "加速する日本郵船グループの脱炭素に向けた取り組み",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界中で脱炭素化の気運が高まる中、海事産業においてもGHG削減は喫緊の課題だ",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そこで脱炭素化を一気に加速させる新燃料として、燃焼してもCO₂を排出しないアンモニアに白羽の矢が立てられた",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし、海事産業の脱炭素化を加速させるには、アンモニアが最も実現可能性の高い選択肢の一つだという認識が広がりつつあります",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、納期やコストを意識しすぎて安全性を下げるわけにはいきません",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "技術面のみならず、安全性、納期、コストなど多面的に評価しながらバランス感覚を持って判断できる能力が求められます」",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンモニア燃料アンモニア輸送船の竣工により日本郵船グループの脱炭素の取り組みは大きく前進する",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素グループの使命と挑戦",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• サプライチェーン(Scope3)におけるCO2排出削減要求の高まり",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• サステナビリティを判断軸とする「資本の脱炭素化」 (ESG投資)",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 脱炭素化の定量評価が金融機関の融資基準に含まれる (ポセイドン原則)",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "船級(安全認証)",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 脱炭素化の世界的な気運が高まる中、海運分野において",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "し、関係官公庁と協議・調整の上、実証船検証において許認可を",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "整理し、関係官公庁と協議・調整の上、実証船検証において許認可を",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "主機関の型式認証",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 海運の脱炭素化を推進するシンガポールの非営利団",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海洋脱炭素の覇権を握る「次世代船舶」——官民が挑むアンモニア・水素燃料船の実装と長期実証への転換",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際海運における脱炭素化の波が急速に強まる中、日本政府と海事産業は次世代船舶の開発に向けた官民一体の取り組みを加速させている",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 2024年度、国際海事機関（IMO)の「GHG削減戦略」改定など、脱炭素化の動きが加速していることを踏まえ、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ プレミアム路線で競争するならば、制度設計（標準化・認証制度）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "オープン＆クローズ戦略の再設計が必要であり、標準化・認証制度・データ公開・測定の透明性な",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "プレミアム路線で競争するならば、制度設計（標準化・認証制度）やデータ公",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "難であるため、競争力維持のためには、標準化・認証制度・データ公開・測定の透明性などの制度設計が不可欠",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・安全要求に対応したエンジンシステムおよび制御方法を開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 安全要求を満たす舶用水素燃料タンクおよび燃料供給システム(MHFS)を開発",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "③GHG削減の認証制度構築につなが",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・実船への搭載性、安全要求に対応したシステム設計を検討（達成）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 防衛省、海上保安庁",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省の艦艇",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "出典：ジャパンマリンユナイテッド、防衛省、海上保安庁",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素化への対応等を",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "③脱炭素化等を通じたゲームチェンジ市",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "③ ロードマップ（脱炭素化等を通じたゲームチェンジ/安定的な需要の確保",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素化への対",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "毎年度、民間投資に応じた必要額を要求",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "尾道造船（株）は、認定事業基盤強化計画に基づき、低・脱炭素代替燃料船として、新たに開",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "業を含むサプライヤー全体の人員確保のための寮整備を検討している",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "による経済成長と脱炭素化の両立を実現する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "形成が促進されるとともに、 物流コスト低減や納期信頼性の向上により造船拠点の競争力向上",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産性の向上に加え、納期遵守能力の強化が可能となり、国際的な受注競争における優位性確",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "っても、福山・倉敷方面のサプライヤーからの部材調達ルートが強化されるこ",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "カーボンニュートラルの推進（海運の脱炭素化の取組の深化）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海運分野における脱炭素化促進に資するとともに、ゼロエ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経済産業省総合資源エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会 委員他",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新エネルギー・脱炭素の情報収集には「SMART ENERGY WEEK 」「サステナブル経営WEEK（旧称：GX経営WEEK）」の活用を",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ゼロエミッション船への転換により脱炭素社会の実現を",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2020年以降の気候変動問題に関する国際的な枠組みとして、2016年に「パリ協定」が発効され、脱炭素化の世界的な機運が高まっています",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば、国際海運の脱炭素化を加速させるための企業、機関、港湾、政府が参画する国際連合体「GTZC（Getting to Zero Coalition）」では、2030年までにゼロエミッション船の商用運行を目指しています※",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素化の実現に向けて、新エネルギーの研究開発やGXが加速しています",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本最大級の展示会であり、企業向け脱炭素ソリューションやサーキュラー・エコノミー関連の製品が出展します",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素経営 EXPOの詳細はこちら",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、脱炭素社会の実現に向けて新エネルギーやGX関連の技術・情報は日々更新されています",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※「脱炭素経営 EXPO」「サーキュラー・エコノミー EXPO」は「サステナブル経営WEEK（旧称：GX経営WEEK）」の構成展です",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "27年度概算要求でも複数省庁がLNG船の国内供給に向けた施策を盛り込むなど、造船振興の枠を超えた国家のプロジェクトとして具体化してきた",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "三菱重工業長崎造船所は事業再構築によって大型商船の新造から実質的に撤退し、現在は防衛艦艇や船舶修繕、脱炭素技術の研究・実証などに軸足を移している",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、脱炭素化に向けてアンモニア・LNG燃料タンクの生産能力増強なども進め、2030年までにゼロエミッション船の建造能力を2・5倍に引き上げる方針だ",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・また、大型クレーンの導入には長い納期（現状7年以上先）に対応できる支援 が必要",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2027年度の中小企業支援はどう変わる？概算要求から補助金・税制の動向を解説",
+    "url": "https://sogyotecho.jp/news/20231114ship/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "エミ化への投資総額は2.1兆円規模を予定",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "投資総額は2.1兆円規模を予定",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "舶用水素エンジン及びMHFSの開発 約262億円 245.1億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンモニア燃料国産エンジン搭載船舶の開発 約148億円 106.3億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンモニア燃料船開発と社会実装の一体型プロジェクト 約30億円 20億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンモニア燃料搭載船のN2Oリアクタ開発 約19億円 13億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 令和7年度補正予算で1,200億円を措置",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「官民投資１兆円」のフレーム",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 「造船業再生ロードマップ」に基づき、2035年までに官民で１兆円規模の投資実現を目指す",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（官:3,800億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（官民:2,800億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "① 官民設備投資額：約 5,000 億円（2034 年度累積）",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "② 付加価値増加額：約 35,000 億円（2034 年度累積）",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民設備投資額については、官民投資ロードマップに基づき、我が国全体で 2034 年度までに",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "１兆円規模の投資が見込まれる中、瀬戸内地域がその約５割を担うものとして、約 5,000 億円と",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "付加価値増加額については、官民設備投資額約 5,000 億円及び当該投資に伴い生じる生産増加",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "額を基礎として産業連関分析を実施し、その結果を踏まえ、約 35,000 億円と設定する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "２）官民設備投資額：約 2,800 億円（2030 年度累積）",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "② 付加価値増加額：約 19,400 億円（2030 年度累積）",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(※１) ・GI基金393.4億円(令和３年～最長10年間)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※令和7年度政府予算案：1.4億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024～2028年（5か年） 600億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025～2029年（5か年） 300億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和6～10年度 合計600億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和7～11年度 合計300億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合計900億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "209 万 円 1回 / 3.5日 2.18 億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "15 台 911.3 kg 626 万 円 1回 / 2日 11.42 億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Spotlight 戦略産業クラスター【造船】国策で動き始めた九州の造船再生／官民3000億円投資で次世代船舶の集積が加速",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府は九州の「次世代船舶」を戦略産業クラスターに選定し、2034年度までに官民で3000億円を投じる",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "造船業再生基金を10年間で3500億円規模とし、民間投資と合わせて全国で官民1兆円の投資を目指す",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、「戦略産業クラスター」に選定された九州では、34年度までに官民で約3000億円の設備投資を目標に掲げる",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "付加価値増加額は約2兆1000億円を目標とする",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国土交通省は9月4日、造船業再生基金による初の支援対象として今治造船など3件を認定し、26～34年度に最大約2131億円を助成",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "11日には川崎重工業や三菱造船、大島造船所など5件を追加認定し、最大約980億円を支援する",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2回の認定額は計約3111億円に上る",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "クラスター計画では政府支援を活用して約1000億円を投じ、生産効率を約2倍に高める",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "名村造船所と子会社の函館どつくは造船業再生基金の支援対象にも認定され、両社の設備投資に最大約499億円が助成される",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "売上規模： 3.0兆円",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本で持つ」を掲げ、政府に対して1兆円基金の創設、ロードマップ策定を提言",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 政府は、造船能力の抜本的向上に向けて「10年間で3,500億円規模の基金創設」と「官民連携して1",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "状況を見て検討し、総額3,500億円規模を目指す",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民連携して１兆円規模の投資実現を目指すフレーム",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「造船大国ニッポン」再生へ官民投資１兆円超 フィジカルＡＩが熟練工再現、LＮＧ運搬船の建造も…復活の未来図は【けいざい百景】：時事ドットコム",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「造船大国ニッポン」再生へ官民投資１兆円超 フィジカルＡＩが熟練工再現、LＮＧ運搬船の建造も…復活の未来図は【けいざい百景】",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府は２０３５年の国内建造量を２４年比で倍増となる１８００万総トンに引き上げる方針で、国土交通省は昨年策定した「造船業再生ロードマップ」で官民の投資総額の目標を１兆円規模と掲げた",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "すでに造船業界からは政府の支援を前提に１兆円を上回る投資意欲が示された",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府は国内最大手の今治造船（愛媛県今治市）、名村造船所、川崎重工業、三菱造船など８グループに対して造船業再生基金に基づく支援を決定済みで、総額は官民で９０００億円規模に上る",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "三菱重工業は１０月２日、下関造船所（山口県下関市）の建造能力拡大に約１０００億円を投資し、新工場を建設すると発表",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "投資額のうち、国交省から約４００億円の助成を受ける",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "主力の坂出工場に３５年までに約１０００億円（うち再生基金対象額が４５０億円）の設備投資を実施し、造船所全体をデジタル化する",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "月給21万円～32万円",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・2015~2017年、大宇造船海洋への巨額な公的金融支援(約12兆ウォン=1.2兆円相当) （1ｳｫﾝ0.1円で換算）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・2006～2013年 造船業界参入・拡大への巨額補助金 910億ドル(約14兆円）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "恒力造船（旧STX大連）投資総額110億元（2300億円）の新造船所建設工事(‘24年8月着工)",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・業界は過去にない3,500億円の自己資金負担により、建造能力倍増に邁進",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 大型クレーン本体（1200ｔクラス・1基約90億円）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年改正・税理士監修】基礎控除は最大104万円に！178万円の壁・年末調整はどう変わる？",
+    "url": "https://sogyotecho.jp/news/20231114ship/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年最新・税理士監修】基礎控除は95万円から最大104万円へ！年末調整・年収別の控除額を解説",
+    "url": "https://sogyotecho.jp/news/20231114ship/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "政治（法・予算・規制）": [
+   {
+    "quote": "次世代船舶の開発 | NEDO グリーンイノベーション基金",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金事業概要",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算額と2050年の効果目標値",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金事業",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金事業関連サイト",
+    "url": "https://green-innovation.nedo.go.jp/project/development-next-generation-vessels/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「より良い次世代船舶の建造には、当然のことながらコストも時間もかかるため、予算やスケジュールはしっかり管理する必要があります",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金 /次世代船舶の開発",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 日本政府による「2050カーボンニュートラル」宣言 (20年10月)",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を規制する制度、ゼロエミッション燃料船の導入促進制度につき合意",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "環境規制が一段と厳しくなり、老齢船は市場から淘汰され",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "環境規制が一段と厳しくなり、代替燃料が利用可能な",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 海洋立国である日本にとって、海事産業は経済安全保障を",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法規制対応支援",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際海運における脱炭素化の波が急速に強まる中、日本政府と海事産業は次世代船舶の開発に向けた官民一体の取り組みを加速させている",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "週刊バッテリートピックス「政府、太陽電池資源化を検討」「CATL15%の増益」など",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "環境省 令７年自動車における再生材市場構築のための産官学連携推進事業（補助金）二次公募の採択結果公表",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "BIR国際リサイクル会議2026、スペイン・マラガ⑥ 鉄鋼部門： アフリカは鉄スクラップの輸入地域へ、輸出規制と投資リスクが成長の壁に",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金事業／",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 本プロジェクトは「水素社会の成立」という外的条件に強く依存しており、船舶単体の開発ではなく、非市場戦略（規制整",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "費補助金」を利用",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際的な規制動向",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際海事機関（IMO）、欧州規制",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 2024年1月、EU-ETSが海運にも適用され、2025年1月、FuelEU Maritimeの規制開始",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 2025年4月第83回海洋環境保護委員会にて 、使用燃料のGHG強度規制、ゼロエミッション燃料船の導入促進制度 （拠出金・還付金）につき合意",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ GI基金の成果を国内外のステークスホルダーに広く知っていただくために、NEDOおよびコンソメンバーから国際学会や展示会等",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 他GI基金プロジェクトとの相互連携により、安全対策等の各プロジェクト共通課題について早期解決を目指す",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• GI基金伴走調査にて「水素・アンモニア輸送次世代船舶の経済性評価」および「水素・アンモニア供給環境の整備に関する調査」を実",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・海上貨物輸送 要予測：気候変動に関する政府間パネル（IPCC）や国際エネ",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・ゼロエミッション による代替建造 要：GHG 規制適合モデルにより試算",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（特に経済安全保障上重要な船舶について）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際燃料規制・インセンティブ制度による国際市場構築",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "代表的な施策の例：経済安全保障推進法に基づく「造船業再生基金」",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 2035年までに、1,800万総トンの船舶建造能力を確保することを最終目標に、経済安全保障推進法に基づき、「船体」を",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 令和7年度補正予算で1,200億円を措置",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（「経済安全保障と独占禁止法に関する事例集」の公表）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経済安全保障推進法「船体」指定",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生産設備整備支援（造船業再生基金）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "送が占める我が国において、経済安全保障上極めて重要な役割を担っている",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の建造量シェアが低下する中、GHG 規制強化を背景に、 水素・アンモニア・LNG 等の新燃料",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "善や労働時間規制及び外国人受入れ要件の緩和等による就労環境の整備を進める",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "は、NEDO のグリーンイノベーション基金事業「液化水素サプライチェーンの商用化実証」の一環",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※NEDO グリーンイノベーション基金事業「大規模水素サプライチェーンの構",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ジャパン マリンユナイテッド（株）は、 認定事業基盤強化計画に基づき、2031 年３月までに、",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "尾道造船（株）は、認定事業基盤強化計画に基づき、低・脱炭素代替燃料船として、新たに開",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "内海造船（株）は、認定事業基盤強化計画に基づき、2031 年３月までに、尾道市瀬戸田町及び",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "○ 2026 年から 2030 年において、造船業再生基金、GX 経済移行債、ツーステップローン等を",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の在籍出向等を通じた横断的かつ継続的な人材育成を可能とした「造船クラスター認定共",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（GI基金による開発）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(※１) ・GI基金393.4億円(令和３年～最長10年間)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "A：燃料規制",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※令和7年度政府予算案：1.4億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "使用燃料のGHG強度(gCO2eq/MJ)を規制するとともに、 ゼロエミッション燃料船等に",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "使用燃料のGHG強度を規制する制度",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 2025年４月、我が国が欧州と共同提案した、使用燃料のGHG強度を規制する制度、ゼロエミッション燃料船の導入促進制度を含",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "追加研究開発内容に係る予算について（想定）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "となるように日本全体で規制・制度の整備を進めている",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "○ 政府間のグリーン海運回廊の設立に向けて、各港湾との連携が重要であり、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば、国際海運の脱炭素化を加速させるための企業、機関、港湾、政府が参画する国際連合体「GTZC（Getting to Zero Coalition）」では、2030年までにゼロエミッション船の商用運行を目指しています※",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本では国際的な取り組みに合意・参加するとともに、「グリーンイノベーション基金」を活用し、ゼロエミッション船の実用化に向けた「次世代船舶の開発」プロジェクトを進めています",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海事：グリーンイノベーション基金事業「次世代船舶の開発」プロジェクト - 国土交通省",
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "造船業再生基金、最初の8件で最大3,110億円。 次世代船舶 は ... 造船業再生基金、最初の8件で最大3,110億円。 次世代船舶 は ... note https://note.com > ビジネス > 戦略・組織論",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【 2026 年6月20日 次世代船舶 関連株】ダブルバガーを狙う割安 ... 【 2026 年6月20日 次世代船舶 関連株】ダブルバガーを狙う割安 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/ready_fox3873/n/n58e7a8ddb36a",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "日本郵船グループ企業理念",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "森林は2022年にキャリア採用で入社した",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "正直、今でもついていくのに精一杯ですが、挑戦を後押ししてくれる企業文化もあり、とても刺激的な毎日です",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「通常、我々のような海運会社が船を発注する際は、既に開発が完了した機器を組み合わせて、最適な船の仕様を決めていきます",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本郵船グループの企業理念“Bringing value to life.”の通り、今後も持続的に新たな価値を人々へ届けるべく、アンモニア燃料船開発プロジェクトは重要な役割を担う",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "挑戦する企業",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "キャリア採用",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新卒採用サイト",
+    "url": "https://www.nyk.com/stories/02/02/20250122_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を規制する制度、ゼロエミッション燃料船の導入促進制度につき合意",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション技術を持った企業へと進化",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当該変化に対する経営ビジョン：市場機会及び社会・顧客・国民等に与えるインパクト：",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海運のゼロエミ化実現には代替燃料の導入・普及が必須",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "●社会・顧客・国民等に与えるインパクト：",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "るため、リプレース需要取り込みによる新造船の受注機会",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• （ジャパンエンジン）国内エンジンメーカーにライセンスを供与することに",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "より、国内エンジンメーカーの活性化、延いては、国内海事産業の発展に",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• （ジャパンエンジン）国内先行者利益を確保した後は、自社工場を",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "マザー工場とした、海外への技術移転による、更なる普及拡大も視野",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新旧民間航空機の受注納入について（26年9月）",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "民間航空機受注納入統計(26年9月）",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10th ISLC in Colombo #7：鉛蓄電池の循環を支える責任ある調達と安全なリサイクル",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【企業フォーカス】株式会社ニューメタルス・エンド・ケミカルス・コーポレーション：地政学リスクを追い風に飛躍する老舗レアメタル＆新素材専門商社",
+    "url": "https://www.iru-miru.com/article/86905",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "５．実施企業等の取組状況とNEDO委員会での意見",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 日本の国際競争力強化に向けて、造船業、舶用工業、海運業、商社の各企業がコンソーシアムを組んで",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（※）WG出席企業",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「技術面」 ＜実施企業等の主な取組状況＞ ＜NEDO委員会による主な意見＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 水素バンカリングを含め中小企業・ベンチャーの巻き込みによる多様",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「事業面」 ＜実施企業等の主な取組状況＞ ＜NEDO委員会による主な意見＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "5．実施企業等の取組状況とNEDO委員会での意見",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "工場内の水素運転設備の設置完了",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 商用化・量産・輸出・系列外展開など、事業拡張フェーズに向けた戦略が弱く、「勝ち筋」の再設計と国際連携によるスケー",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素バンカリングを含め中小企業・ベンチャーの巻き込みによる多様性のある体制構築が必要",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 部品調達を含めて国内に基盤を有し、",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 国内生産比率が約８割、地域生産比率９割以上であるのに加え、ほぼ全ての部品を国内調達しており、地域の経",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 受注と竣工の期間が長い（近年は３～４年）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "船舶受注後（船価確定後）に材料を調達するため、物",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造能力拡大には長期間・多額の設備投資が必要",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ こうした市況変動のため、大規模な施設・設備投資のリスクが大きい",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の受注を行い、今後建造量の増",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界における船舶受注量と国別シェア",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 世界的な発注の低迷の中、2020年にかけて日本の受注量・シェアが減少",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 中国は、2024年に世界の７割超の受注を行い、今後建造量の増加が見込まれ、市場支配力を強めている",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "で国際競争力を有する企業群が集積しており、特に今治市は造船・舶用・海運に加え金融・教育",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ことで、次世代船舶の量産体制への転換を推進する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "造転換により次世代船舶の量産拠点としての競争力を強化する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "量産に対応可能な生産体制を構築する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "度人材の確保・育成とともに、特区制度を活用した共同 OJT の取組により、在籍出向を含む企業",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "じて、設備投資の促進、制度面の柔軟化及び戦略的な取組の統合を図るとともに、事業環境の改",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "標準化・DX・人材・インフラの一体的な構造転換を進め、次世代船舶の量産体制を確立する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "その結果、2030 年前後には量産体制を確立し、建造能力約 50％向上と生産性約 25％向上を実",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに、投資・受注・再",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "前提とし、当該期間において実施される設備投資の成果の定着及び高度化を図る段階として、",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "料船の導入が進むが、炭素を含むこと、グリーン燃料の供給量・価格等が懸念材料",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "実現には、今からゼロエミッション船の導入に向けた環境整備に取り組むことが不可欠",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "②生産基盤の構築、新造船発注",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 海運：ゼロエミッション船等の導入を促進",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ゼロエミッション船の導入に向けた国際",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "器 の生産設備の導入を支援",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レーン等の艤装設備等の導入を支援",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "対するインセンティブ制度（報奨金）を導入することにより、ゼロエミッション燃料船等へ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "人材育成・効率化",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "船員雇用の創出",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " ゼロエミに係る技術開発・ルール策定・人材育成・国際社会への貢献など海事クラスターとの連携",
+    "url": "https://www.nedo.go.jp/content/800030742.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "地域の経済・雇用を創出",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "済・雇用を支える産業",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 船舶は、複雑な設計、生産に対応する多数の技術者及び技能者により建造",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ コロナ期に落ち込んだ外国人材の数がここ数年再び増加し、就労者数全体については減少傾向に歯止めの兆し",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【造船所本体で雇用】",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【下請（協力会社）で雇用】",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "③ 設計や現場において人材不足が深刻化",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 日本の海事産業群の中核となり地域の経済・雇用を支える",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "雇用環境の改善、",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "外国人技能者の受入れ 等",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "繕、人材育成までを一体的に担うサプライチェーンが構築されており、貿易の 99%以上を海上輸",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "機関により、造船技術者や船員の育成に加え、DX・GX に対応可能な高度人材の育成基盤が整って",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "需要・投資・人材を呼び込む我が国有数の産業クラスター形成の適地である",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "り、設計・建造・艤装・舶用機器供給・修繕・海運・人材育成まで一体的なサプライチェーンが",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "料への対応、人材不足、港湾・物流インフラの制約といった構造的課題により、建造量が減少し",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に設計者・技能者の不足や若年入職者の減少等により人材制約が深刻化し、生産効率",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このため、本クラスターでは、データ・物流・人材の連携によってサプライチェーン全体の効",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "た生産・供給システム全体の構造転換を図るとともに、人材の確保・定着を支える受入環境の整",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "度人材の確保・育成とともに、特区制度を活用した共同 OJT の取組により、在籍出向を含む企業",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "間の人材循環と実践的育成、多能工化の取組を推進する",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "○現状：熟練技能者の経験と勘に基づいて流量調整バルブを操作",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海洋開発関連産業の振興・海洋人材育成",
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "船員の確保・雇用対策",
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この国策を長崎の新たな投資や雇用にどう結び付けるかが重要」と指摘する",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民約3000億円の投資を設備増強だけに終わらせず、人材や関連産業を含む裾野の広い集積につなげられるか",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 造船業は舶用含む関連企業を含め地域の雇用の受け皿",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "建造能力倍増に向けた取組（②人材確保）",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "✓ 建造能力の拡大には、人材の確保も不可欠",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "とで、地域の雇用創出、関連産業の成長につなげ、海事産業群として",
+    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "造船所に対する大規模な設備増強やロボット・ＡＩ（人工知能）の活用、人材育成により、造船大国ニッポン復活の未来図を描く",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高齢化に伴う熟練技術を持つ職人の減少も深刻な課題となっている",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "職人技の習得には３～５年程度が必要といい、人手不足の緩和にもつなげる",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "熟練技能者による鋼板の曲げ加工を自律的に施す（ＪＭＵなど提供）",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人材育成では、造船所がある地域を念頭に、高校や大学での教育体制を官民連携で強化する",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "技能研修施設の拡張や働きやすい職場環境づくりにも取り組む",
+    "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• そのためには、DX・ロボット活用、業界水平連携・垂直連携、人材確保等に加え、大規模な設備投資が必須",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai1/shiryou6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ＷＧはこの実現に向け、夏までに官民投資ロードマップの策定や人材育成、修繕、国際戦略、",
+    "url": "https://newswitch.jp/p/48454",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "完全版レポートでは、認定8件すべての事業者と最大助成額の一覧、瀬戸内・九州のクラスター計画の比較表（投資額・付加価値・人材育成・インフラ）、香川・愛媛・長崎・大分の県の計画、今後の確認ポイントを整理しています",
+    "url": "https://note.com/busintemasamo1/n/n6ff5481c9957",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グリーンイノベーション基金事業／ 次世代船舶 の開発 2025 ... — グリーンイノベーション基金事業／ 次世代船舶 の開発 2025 ... 経済産業省 PDF https://www.meti.go.jp > industrial_restructuring > pdf",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/industrial_restructuring/pdf/033_05_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海事：グリーンイノベーション基金事業「 次世代船舶 の開発 ... — 海事：グリーンイノベーション基金事業「 次世代船舶 の開発 ... 国土交通省 https://www.mlit.go.jp > maritime > maritime_tk7_000041",
+    "url": "https://www.mlit.go.jp/maritime/maritime_tk7_000041.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代船舶 戦略産業クラスター計画（瀬戸内地域） - 内閣官房 — 次世代船舶 戦略産業クラスター計画（瀬戸内地域） - 内閣官房 内閣官房 PDF https://www.cas.go.jp > chiikimirai > dai5 > sankou13",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ゼロエミッション船とは？導入が期待される背景や世界・日本 ... — ゼロエミッション船とは？導入が期待される背景や世界・日本 ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_108",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_108.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民3000億円 投資 で 次世代船舶 の集積が加速 - 財界九州社 — 官民3000億円 投資 で 次世代船舶 の集積が加速 - 財界九州社 財界九州社 https://www.kyushu01.com > 202611 > detail",
+    "url": "https://www.kyushu01.com/zaikaikyushu/202611/detail/0b17f379-e16c-490b-b4df-8b3f571fc7b0",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代船舶 の世界トップシェア獲得に向け、更なる設備投資を ... — 次世代船舶 の世界トップシェア獲得に向け、更なる設備投資を ... 国土交通省 https://www.mlit.go.jp > press > kaiji05_hh_000342",
+    "url": "https://www.mlit.go.jp/report/press/kaiji05_hh_000342.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-04T00:43:17.727021+00:00"
+}

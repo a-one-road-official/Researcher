@@ -1,0 +1,4920 @@
+{
+ "name": "ロケット打上げ",
+ "en": "space launch services",
+ "aliases": [
+  "ロケット",
+  "射場",
+  "打ち上げサービス"
+ ],
+ "context": "6 航空・宇宙 ④ロケット・射場",
+ "kind": "market",
+ "researched_at": "2026-11-04T00:41:07.637363+00:00",
+ "evidence": {
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SPACE LAUNCH SERVICES PRICES - LinkedIn SPACE LAUNCH SERVICES PRICES - LinkedIn LinkedIn https://www.linkedin.com > pulse > s...",
+    "url": "https://www.linkedin.com/pulse/space-launch-services-prices-pierre-lionnet-bvhbe",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "JAXA種子島宇宙センター on X: \"  H3 ロケット 10号機 打上げ ... JAXA種子島宇宙センター on X: \"  H3 ロケット 10号機 打上げ ... X https://x.com > @tnsc_JAXA",
+    "url": "https://x.com/tnsc_JAXA/status/2112288504030073130",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXA種子島宇宙センター on X: \"本企画は、日頃より ロケット ... JAXA種子島宇宙センター on X: \"本企画は、日頃より ロケット ... X https://x.com > @tnsc_JAXA",
+    "url": "https://x.com/tnsc_JAXA/status/2109863569231876389",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "【今ならキャンペーン価格】有料記事が2カ月間 月額100円で読み放題！",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "小学校で給食費などの督促怠り5400万円不足 校長ら私費で補てん",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため、打上げコストについては、H-IIAロケットと比較して約半分程度まで低減することを目標にしており、最軽量形態で1回あたり約50億円規模での打上げを想定している",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アストロスケール仏子会社、約23.6億円の契約獲得｜OneWeb衛星を軌道離脱へ",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2197億円",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（平成26年）度から開発が開始され、総開発費は約2061億円",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらにより最小構成時の打ち上げ費用をH-IIAの半額の約50億円を目標としている",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "打ち上げ費用約50億円",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第1段エンジン3基でブースター0本の最小構成ではH-IIAの1/2の50億円で",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケットでは、これまでのH-IIAでは高コストのために十分には成し遂げられていない商用化を目指し、1回あたりの打ち上げコストをH-IIAと比べて半分の約50億円に減らすことを目標としている",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2022年時点でのファルコン9の打ち上げ費用は6,700万ドル（当時のレートで約84億円）",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "はコスト削減により約50億円のコストを実現できたとしても、スペースXの低コスト化を進める攻勢によって「相場水準がさらに下がってしまえば、コスト競争力だけで勝負できるかは不透明」とコメントしている",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "で4トン50億円を達成することを目標としており",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インターステラテクノロジズとスペースワン、最大120億円の宇宙戦略基金「STAND」に採択",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内4射場の発射台増設と760億円要求の意味を読み解く",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2027年度予算の概算要求には、関連経費として760億円程度を盛り込みました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算面では、経産省が2027年度予算の概算要求で、関連経費として760億円程度を求めました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ここで押さえておきたいのは、760億円はあくまで概算要求の段階の数字だということです",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、経産省の2027年度概算要求は総額で約7兆7900億円にのぼり、その多くはAIや半導体に向けられています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "射場への760億円は、その大きな枠のなかの1項目という位置づけです",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "文部科学省は2027年度予算の概算要求で、H3の打ち上げ能力の強化などに235億円を盛り込みました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年度予算の29億円の約8倍です",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LC1は広さ約2.6ヘクタール、2022年から整備が始まり、事業費は約43億円です",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社は小型衛星用ロケット「ZERO」を開発しており、文部科学省からは最大73.7億円の交付が決まっています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "助成額は1件あたり40億円程度（間接経費を含む）を上限",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "助成額の設定は1件あたり40億円程度（間接経費を含む）を上限",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10件程度を採択、1件あたり0.15億〜20億円程度（30件程度採択）、1件あたり2億円（間接経費含む）を上限、例外的に総額5億円まで可",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "20〜40件程度採択（支援総額100億円）、1件あたり93億円（間接経費を含む）を上限（支援総額93億円、1〜2件程度を採択）、（A）1件あたり30億円を上限、（B）1件あたり15億円を上限 などです",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件あたり40億円程度（間接経費を含む）を上限",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "支援の形態は補助で、1件あたり40億円程度（間接経費を含む、打上げ・軌道上実証費用は含まない）を上限に10件程度を採択する",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件あたり0.15億〜20億円程度（30件程度採択）",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件あたりの支援額は実施者が大企業の場合0.15億円〜20億円程度（補助対象総額は0.3億〜40億円程度）、中小企業・スタートアップの場合0.2億円〜20億円程度（補助対象総額は0.3億〜30億円程度）を上限とし、30件程度を採択する",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件あたり2億円（間接経費含む）を上限、例外的に総額5億円まで可",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "20〜40件程度採択（支援総額100億円）",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Falcon Heavy is composed of three reusable Falcon 9 nine-engine cores whose 27 Merlin engines together generate more than 5 million pounds of thrust at liftoff, equal to approximately eighteen 747 aircraft. As one of the world’s most powerful operational rockets, Falcon Heavy can lift nearly 64 metric tons (141,000 lbs.) to orbit. Falcon Heavy is on NASA’s Launch Services II contract.",
+    "url": "https://www.nasa.gov/kennedy/launch-services-program/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Private funds can be categorised into equity and debt investment. In Japan, JPY29.4 billion of investment was made in total in 2024 and over JPY200 billion has been raised in Japan from 2015 to 2024. Equity is a main funding resource particularly for start-ups at the early stage. Not only venture capital funds but also “",
+    "url": "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Sub-orbital spaceflight and space trips are expected to have a significant market size in the next decade. The government estimates that the annual market size of sub-orbital transport and space trips (including trips to a low Earth orbit) will respectively grow to around JPY5.2 trillion and JPY880 billion by 2040.",
+    "url": "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Mitsui Sumitomo Insurance Company created the world’s first “Lunar Insurance Plan” to cover damages from launch to touchdown on the Moon. ispace became the first user of this policy and received a JPY3.8 billion insurance payout when their lunar mission failed.",
+    "url": "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "メールでシェアする",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Facebookでシェアする",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Xでシェアする",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "はてなブックマークでシェアする",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本はこのロケットを、スペースXの「ファルコン9」に代わる、安価なロケットとして発表していた",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州7カ国のスーパー冷蔵・冷凍庫にサイバー攻撃 大量の食品が廃棄に",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国共産党、過去最多33幹部の党籍剥奪処分 習氏は5中総会で「党規律」を強調",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "サンリオ、「VIVANT」とのコラボを中止 中国でドラマへの批判が強まり",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州諸国の軍関係者数千人、ウクライナ停戦後の部隊派遣に向け軍事演習へ 英仏が主導",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3の各形態のなかでも30形態は打ち上げコストが最も低く、衛星をより安価に軌道へ投入できるようになると期待されています",
+    "url": "https://sorae.info/ssn/20260612-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "オ．ゴダード宇宙飛行センター（米国宇宙航空局(NASA)）※",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国メリーランド州グリーンベルト",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "China Satellite Network Group.Theが運用する中国国有の衛星コンステレーション「SatNet」に投入する9 Low Earth Orbit通信衛星の一括打ち上げにより、最終的には13000機の衛星で構成される大型コンステレーションが完成する予定です",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Indian Regional Navigation Satellite System. Theコンステレーションの代替衛星として打ち上げられるこの衛星は、インドにとってGPSの代替手段を提供し、軍事および民生用途に利用される予定です",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "静止軌道に位置するこのシステムは、インド政府によって運用されることになります",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国軍が目的不明の「リモートセンシング」衛星を6機打ち上げました",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The Yaogan 50-03は、目的不明の中国軍用「リモートセンシング」衛星です",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中緯度軌道への専用ライドシェア打ち上げで、商業および政府の顧客向けに数十機の小型マイクロサテライトやナノサテライトを搭載しています",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "South Korean政府の地球観測マイクロサテライトコンステレーションNeonSat (New-space Earth Observation Satellite). The NeonSatは、正確なKorean Peninsula.10の監視のために大量生産アプローチを使用して政府が開発した最初の衛星システムです",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この打ち上げでは、韓国諸機関や組織のライドシェア小型衛星も搭載されます",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国航天科技集団（CASC）",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "西昌衛星発射センター( 中国)",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国宇宙航空庁、衛星画像6万7,000枚を無償公開｜韓国企業のAI開発を支援",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "搭載される観測機器には、JAXAとNHKが共同開発した8Kカメラ、NASA（米国）が提供するガンマ線・中性子線分光計「MEGANE」、CNES（フランス）が提供する近赤外線分光装置「MIRS」、DLR（ドイツ）とCNESが共同開発する小型ローバー「MMX Rover」などがあります",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "オ．ゴダード宇宙飛行センター（米国航空宇宙局(NASA)）※",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国メリーランド州グリーンベルト",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エキスパンダーブリードサイクルエンジンは構造が単純なため安価で安全性が高いが、ターボポンプの駆動エネルギーを燃焼室からの吸熱に頼るという物理的制約から大推力を生成することが難しく、専ら第2段用エンジンとして実用化されてきた",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため開発費と時間は大幅に節約できたものの、継続使用のコスト面では国産のロングフェアリングの方が安価である",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（欧州宇宙機関の小惑星探査機）",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ESA（欧州宇宙機関）",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "が実用衛星を載せた初号機の打ち上げに失敗したが、2018年のデータで商業静止衛星のシェア5割を獲得した事例もある",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし開発費だけでなく射場の改修費用なども必要になるため、従来の運搬能力のまま打ち上げ回数を2回に増やしたほうが安価に済むことから、増強型の実現には月軌道プラットフォームゲートウェイ以外においても大型ロケットの需要を増やす必要があると考えられた",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ただし、2022年の統計では、製造業における「時間当たり賃金（購買力平価換算）は、日本を100.0とすると、アメリカが125.8、フランスが165.7、ドイツが185.0となって」おり、競合する先進国と比べて労働単価は低い水準である",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ElevationSpace、「ELS-R」2号機をH3ロケットで打ち上げへ 三菱重工とライドシェア契約",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "QPS研究所、H3ロケットで小型SAR衛星3機を打ち上げへ 三菱重工とライドシェア契約を締結",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本もお世話になってます 商業衛星打ち上げシェアトップ！ 知られざるフランス企業とは",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国「天問2号」の打ち上げ成功、2つの小天体を探査",
+    "url": "https://www.astroarts.co.jp/article/hl/a/14538_h3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インド、初の太陽観測衛星の打ち上げに成功",
+    "url": "https://www.astroarts.co.jp/article/hl/a/14538_h3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アストロスケール、デブリ観測衛星をインドから打ち上げ",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アストロスケールのデブリ観測衛星「ISSA-J1」が、2027年春にインドから打ち上げられる予定です",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州版のH3ロケット！？『Ariane6』の初打ち上げは7月10日未明に",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日経の記事によれば、内閣府のまとめで、米国やロシアといった主要な打ち上げ国の発射回数は2024年に253回となり、2020年の105回から2倍以上に増えました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国：約190回（集計により181回から193回）",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国：92回（集計により90回から93回）",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インド：5回",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国の数字を押し上げているのは、イーロン・マスク氏が率いるスペースXです",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ファルコン9だけで、中国1国の打ち上げ回数のおよそ2倍に達しています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国も急速に回数を増やしています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国フロリダ州のケープカナベラル周辺には、スペースXが使う発射台だけでも複数あり、さらにケネディ宇宙センターの発射台も組み合わせて運用しています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国も、国の発射場に加えて商業専用の発射場を整え、発射台の数を増やしてきました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペースXのファルコン9は再使用で費用を下げており、価格競争では依然として厳しい立場にあります",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3の各形態のなかでも30形態は打ち上げコストが最も低く、衛星をより安価に軌道へ投入できるようになると期待されています",
+    "url": "https://sorae.info/space/20260513-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この記事をシェアする：",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "[打上げ予定日変更] 小型SAR衛星QPS-SAR19号機「ヤマツミ-Ⅱ」米国Rocket Lab社Electronロケットにて2026年11月14日以降に打上げ予定",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Gaganyaan計画：インドの有人宇宙飛行への準備段階",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インド：民間ロケットVikram-Iのデモ飛行",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年中頃には、米国の民間企業Vast Space社が開発する商業宇宙ステーション「Haven-1」の打ち上げが予定されています",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インド宇宙研究機関（ISRO）は、有人宇宙飛行計画「Gaganyaan」を進めており、",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの試験を通じて、インドは独自の有人宇宙飛行能力の確立を目指すとされています",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "補給ミッションとしては、SpaceX社のDragon補給船、ロシアのProgress補給船、米国Northrop Grumman社のCygnus補給船などがISSへ物資を運びます",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "宇宙産業を支える技術商社、エイチ・ティー・エルに注目｜H3ロケット開発を支えた装置導入の実績",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "When arbitration is conducted in Japan, the Arbitration Act is applicable. This act is based on the Model Law on International Commercial Arbitration by the United Nations Commission on International Trade Law (UNCITRAL). Under the Arbitration Act, arbitral awards are given the same effect as final court judgments, and the grounds on which a court can annul an arbitral award are limited.",
+    "url": "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【 2026 年】世界の ロケット打ち上げ 予定まとめ - note 【 2026 年】世界の ロケット打ち上げ 予定まとめ - note note https://note.com > 科学・テクノロジー > 宇宙科学",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【 2026 年】日本の ロケット打ち上げ 予定まとめ - note 【 2026 年】日本の ロケット打ち上げ 予定まとめ - note note https://note.com > 科学・テクノロジー > 宇宙科学",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 9号機、 打ち上げ 準備着々 新たなシステムの試験や ... H3 ロケット 9号機、 打ち上げ 準備着々 新たなシステムの試験や ... note https://note.com > 科学・テクノロジー > 宇宙科学",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "政治（法・予算・規制）": [
+   {
+    "quote": "職員数と予算の推移",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算関連（予算推移、プロジェクト関連）",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金事業部",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "トランプ関税",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本政府は、打ち上げ失敗は「大変遺憾」だと表明した",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "全長57メートルの「H3」は、日本が30年ぶりに開発している大型ロケットで、商業衛星や政府衛星を地球周回軌道に送り込むもの",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "立ち入らないよう人員規制を行い、入退場管理を行う",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "イ． 陸上における警戒については、ＪＡＸＡが警戒区域の人員規制等を行うとともに、",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "規制を行うため、事前に海上保安庁及び関係機関に対して打上げを行う旨の通知を",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "行規制を行うため、事前に 国土交通省に対して打上げを行う旨の通知をし、航空機",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このプロジェクトは、上海市政府が出資をバックしています",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "静止軌道に位置するこのシステムは、インド政府によって運用されることになります",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "広州市政府とGuangzhou Universityが共同で開発した、0.5メートル解像度の地球観測衛星で、マルチスペクトルイメージング機能を備えています",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中緯度軌道への専用ライドシェア打ち上げで、商業および政府の顧客向けに数十機の小型マイクロサテライトやナノサテライトを搭載しています",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "South Korean政府の地球観測マイクロサテライトコンステレーションNeonSat (New-space Earth Observation Satellite). The NeonSatは、正確なKorean Peninsula.10の監視のために大量生産アプローチを使用して政府が開発した最初の衛星システムです",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来のH-IIAロケットの後継として位置付けられ、政府ミッションに加え、商業打上げ市場での競争力確保も視野に入れて設計されている",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府ミッションを支える基幹ロケットとしての役割に加え、商業打ち上げ市場での競争力をどこまで高められるかが注目される",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省が令和7年度の予算編成に向けた要求書を公表！今回は、防衛省の最新の概算要求から、宇宙関連分野における具体的な取り組みとその背景、そして...",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "天地人は、2050年にも持続可能な地球環境を目指して活動するJAXA認定ベンチャーです",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府主導の衛星ミッション",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "立ち入らないよう人員規制を行い、入退場管理を行う",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "イ． 陸上における警戒については、ＪＡＸＡが警戒区域の人員規制等を行うとともに、",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "規制を行うため、事前に海上保安庁及び関係機関に対して打上げを行う旨の通知を",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "行規制を行うため、事前に 国土交通省に対して打上げを行う旨の通知をし、航空機",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府関連ミッション",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2019年、燃焼試験中に技術的課題が見つかり、暫定的対策を施したタイプ1エンジンを先行して認定し試験機1号機で使用、追って恒久的対策を施したタイプ2エンジンを認定して試験機2号機以降で使用する方針に改めた",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2019年8月28日と2020年2月29日に認定型モータ地上燃焼試験が実施された",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "6月4日、平成26年度宇宙開発利用に関する戦略的予算配分方針（経費の見積り方針）（平成25年6月4日 内閣府特命担当大臣（宇宙政策）から関係閣僚に対して通知）において、新型基幹ロケットの開発着手を決定した",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算関連（予算推移、プロジェクト関連）",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙政策委員会 第45回会合 議事次第 参考資料 平成27年度補正及び平成平成28年度予算案の宇宙関係予算について（省庁別事業概要）p9, 通算p28",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケット用固体ロケットブースタ（SRB-3）認定型モータ地上燃焼試験（その1）の結果について",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケット用固体ロケットブースタ（SRB-3）認定型モータ地上燃焼試験（その2）の結果について",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法律および安全に関する連絡先",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インターステラテクノロジズとスペースワン、最大120億円の宇宙戦略基金「STAND」に採択",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2027年度予算の概算要求には、関連経費として760億円程度を盛り込みました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本記事では、日本経済新聞が2026年10月15日に報じた内容を出発点に、国内4射場の現状、H3やカイロスなど国産ロケットの到達点、世界の打ち上げ競争、予算と市場の数字までを整理し、ビジネスパーソンと投資家の目線でこの政策の意味を考えます",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算面では、経産省が2027年度予算の概算要求で、関連経費として760億円程度を求めました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また同報道は、2026年6月に改正された経済安全保障推進法のもとで、政府がロケット発射場の増強を念頭に支援を強める方針を打ち出したと伝えています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の宇宙基本計画や、宇宙戦略基金の実施方針でも、国内ロケットの打ち上げ機数を2030年代前半までに年30機程度に伸ばすという方向性がすでに示されてきました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回のニュースの新しさは、その目標を実現するための「地上インフラ」に、経産省がまとまった予算を付けにいった点にあります",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年末の予算編成で金額が変わる可能性は十分にあります",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "文部科学省は2027年度予算の概算要求で、H3の打ち上げ能力の強化などに235億円を盛り込みました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年度予算の29億円の約8倍です",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "安全保障や政府衛星の打ち上げを担う「本線」",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（追加公募）高頻度打上げに資するロケット部品・コンポーネント等の開発 | JAXA宇宙戦略基金",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金について",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金設立の",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金の",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基金運営に関する最新情報",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基金事業全般に関するお問い合わせ",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金における新たな",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※補助金交付に関する詳細は",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金事業 公募説明",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金の採択及び補助金交付決定に関して | iQPS, Inc.",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金の採択及び補助金交付決定に関して",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "QPS研究所は、国立研究開発法人宇宙航空研究開発機構（以下、JAXA）によって公募された宇宙戦略基金事業に関して、交付決定通知書を受領し、本日詳細を公表いたしました",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "18号機の衛星製造まで着手していますが、この度決定した交付対象期間の宇宙戦略基金により、さらにその先の開発・製造・運用の資金を長期に渡って確保することができます",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この度の基金を最大限に活かし、衛星の増産と基盤強化を加速させ、増え続けるデータ需要に全力で応えてまいります",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜宇宙戦略基金について＞",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年３月、JAXAは宇宙分野の資金配分機関として新たに基金を設置しました",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "契約・調達情報",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「契約・調達情報」",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「採用情報」",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調達・契約情報",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新卒採用サイト",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "仮想通貨の盗難事件、偽の採用面接も攻撃の経路に バイナンスが発表",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "航空機部品の金型もつくる下町の町工場 3代目社長が...",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グループ企業",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ソウル雑踏事故の映像をゲームに使用、遺族が米企業に削除求める",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "民間の力で延命へ？ NASAがハッブル宇宙望遠鏡の軌道上昇などで企業に情報提供を依頼",
+    "url": "https://sorae.info/ssn/20260612-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中緯度軌道への専用ライドシェア打ち上げで、商業および政府の顧客向けに数十機の小型マイクロサテライトやナノサテライトを搭載しています",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この打ち上げでは、SpaceX’s Project Starfall,の2回目の実証ミッションも行われ、顧客の貴重な実験やその他のペイロードを、軌道上の製造を含めて、安全に宇宙から地球まで自動的に輸送するリエントリーキャプスルを大量生産することを目指しています",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "民間の力で延命へ？ NASAがハッブル宇宙望遠鏡の軌道上昇などで企業に情報提供を依頼",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本機は初号機と同様の機体形態を採用し、開発の妥当性を検証する位置付けで打上げが行われている",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10号機は、第1段のメインエンジン「LE-9」を2基、固体ロケットブースター「SRB-3」を4本搭載し、ロングフェアリングを採用した「H3-24L」形態の初飛行となった",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙業界では現在、様々な企業が人材を募集している",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業資料、公的機関の公開情報、政策資料等をもとに、専門性の高い宇宙関連ニュースや産業動向を構造化し、読み手に伝わる形で整理することを得意とする",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "複数のWebメディア運営経験を有し、航空・宇宙領域における企業動向、技術動向、政策・制度動向の調査・編集を主な専門領域としている",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国宇宙航空庁、衛星画像6万7,000枚を無償公開｜韓国企業のAI開発を支援",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙産業を支える技術商社、エイチ・ティー・エルに注目｜H3ロケット開発を支えた装置導入の実績",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケットを支える企業3選｜日本の上場メーカーの技術を解説",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アルテミス計画で受注！三菱電機製宇宙用リチウムイオン電池の秘密",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペジョブ企業",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペースワン株式会社は、東京都港区に本社を置く宇宙関連企業です",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の民間企業で初めて専用の射場から人工衛星搭載ロケットの打ち上げを行った実績があります",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社が開発する小型ロケット「カイロス」は固体燃料を採用しており、事前に燃料を充填できるため",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして2025年8月31日、3号機の打ち上げに向けて、国内複数の顧客と打ち上げ輸送サービス契約を締結したことを発表しています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インターステラテクノロジズ株式会社は、北海道大樹町を拠点とする宇宙関連企業です",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "観測ロケット「MOMO」は、国内民間企業単独として初めて宇宙空間到達を3回達成しています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "打ち上げ実証の意味合いが強いことが多いロケット初号機で、衛星に関する国内外の民間顧客を複数得ており、注目度が高まっています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大学・高専・民間企業がそれぞれ開発した超小型衛星たちが、ふたたびElectronロケットで宇宙へ旅立ちます",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の採用となりました",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業のnote",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "事業所・工場",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "資材調達の基本方針",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "サステナビリティ・CSR調達の推進",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Coupa（新間接材調達システム）",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業CM特設サイト",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "05 顧客ビジネスを変革する DIGITAL INNOVATION",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "打ち上げ能力の増強、打ち上げ時の安全性の向上、年間打ち上げ可能回数の増加を同時に達成して、宇宙開発における日本の自立性確保と同時に、商業受注で国際競争力のあるロケットを実現させるために開発される",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "抜本的な打ち上げ費用の削減のため、日本では初めて、機体の設計・開発段階から民間企業（三菱重工）が主体的役割を果たしている",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、三菱重工が開発段階から絶えず受注活動も行い将来の打ち上げ機会を確保し続けることで、従来のようにロケットを受注してから生産に取り掛かるのではなく、",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ロケットシステム全体を極力モジュール化し、第1段に新規開発エンジンを採用することも含めて全体にわたって新規技術の開発をすることで部品点数の削減に努め、民生部品の利用等も行ってさらに費用削減を進める",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "のJAXAの岡田匡史は、このように開発段階から運用後の商業受注による事業継続を強く意識してロケットシステムを開発することを、「技術開発」ではなく「事業開発」であるとしている",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "、これまで培ってきた技術、経験、設備を活用するため等の理由で採用に至らなかった",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ロケットまでの従来の衛星打ち上げ用液体燃料ロケットでは第1段機体に「NIPPON」の文字が描かれていたが、H3では海外からの打ち上げ受注を意識して「JAPAN」に変更した",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "）といった小さなブースターでの採用例はあるが、SRB-3のような大型ブースターでは初めてである",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ロングフェアリングでもHTV-Xの搭載自体は可能でありながら海外メーカーが開発製造したワイドフェアリングを使用するのは、H3ロケットでのHTV-X打ち上げが決まった時点では打ち上げ予定までにロングフェアリングにレイトアクセスドアを追加するのが難しく、Beyond Gravity社から開発済み品の提案があったためである",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新型ロケット機体の設計・開発段階から民間企業が中心的役割を担うのは初めてとなる",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回飛行したH3ロケット10号機の機体形態は、1段目エンジン「LE-9」を2基、SRB-3を4本装着し、ペイロード（搭載物）を覆うフェアリングに長さ16.4mの「ロングフェアリング」を採用した「H3-24L」です",
+    "url": "https://sorae.info/ssn/20261020-h3f10-mmx.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LE-9が2基・SRB-3が4本の“24形態”は、2025年10月に新型宇宙ステーション補給機1号機「HTV-X1」を打ち上げた7号機の機体形態「H3-24W」に続いて2回目ですが、ロングフェアリングを採用したH3-24Lは今回が初の飛行でした",
+    "url": "https://sorae.info/ssn/20261020-h3f10-mmx.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "民間の力で延命へ？ NASAがハッブル宇宙望遠鏡の軌道上昇などで企業に情報提供を依頼",
+    "url": "https://sorae.info/ssn/20261020-h3f10-mmx.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の10号機には、第1段のメインエンジン「LE-9」を2基、固体ロケットブースター「SRB-3」を4本装着し、全長の大きい衛星フェアリングを採用する「H3-24L」形態が使用される",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "24形態としては、2025年10月に新型宇宙ステーション補給機「HTV-X1」を打ち上げた7号機に続く2度目の飛行となり、ロングフェアリングの採用は今回が初めてである",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙業界では現在、様々な企業が人材を募集している",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米HPE、月面でAI・高性能コンピューターの実証へ｜キオクシア製SSDも採用",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペジョブ企業",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国家主導の打ち上げに加えて、民間ロケット企業が次々と参入し、海南省には商業ロケット専用の発射場も整備されました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "工場の生産ラインを1本から2本に増やすのと同じ発想だと考えると分かりやすいでしょう",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ただ、民間企業にとって発射台が1つしかない状況は、失敗後の立て直しにも時間がかかることを意味します",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【2026年】世界のロケット打ち上げ予定まとめ｜株式会社天地人",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年】世界のロケット打ち上げ予定まとめ",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "天地人は、2050年にも持続可能な地球環境を目指して活動するJAXA認定ベンチャーです。宇宙ビッグデータをWebGISサービス「天地人コンパス」で解析・可視化することで、まだ誰も気付いていない土地の価値や地球の資源を明らかにするサービスを提供しています。",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界のロケット打ち上げ回数は急増を続けています。",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2020年の114回から2024年には259回となり、わずか4年間で2倍以上に成長しました。",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に、SpaceX社のStarlinkを主とした低軌道通信衛星コンステレーションの構築が進んだことで、打ち上げの回数そのものが大きく押し上げられているといえます。",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "以降、この成長トレンドは進み、2026年以降の継続も期待されます。",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本記事では、日本国外で2026年に予定されている打ち上げミッションを、以下の4つのテーマに分けて詳しく解説します。",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年】日本のロケット打ち上げ予定まとめ｜株式会社天地人",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年】日本のロケット打ち上げ予定まとめ",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "天地人は、2050年にも持続可能な地球環境を目指して活動するJAXA認定ベンチャーです。宇宙ビッグデータをWebGISサービス「天地人コンパス」で解析・可視化することで、まだ誰も気付いていない土地の価値や地球の資源を明らかにするサービスを提供しています。",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年から2025年にかけて、日本の宇宙開発は大きな飛躍を遂げました。2024年7月には地球観測衛星「だいち4号」が、同年11月には防衛通信衛星「きらめき3号」が打ち上げに成功。2025年には準天頂衛星「みちびき6号機」が宇宙へ旅立ち、新型宇宙ステーション補給機1号機「HTV-X1」も無事に打ち上げられました。こうした成功の連続により、日本の宇宙輸送能力の信頼性は大きく向上しています。",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして迎えた2026年。火星を目指す探査機の旅立ち、そして宇宙安全保障を強化する新たな衛星群の配備など、注目のミッションが予定され、日本の宇宙開発がさらに飛躍すると期待されています。",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本記事では、2026年度に予定されている日本のロケット打ち上げミッションについて、詳しくご紹介していきます。",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※打ち上げ予定は変更になる可能性があります。最新情報はJAXA、内閣府、各プロジェクトのHPなどの公式サイトでご確認ください",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2．ZERO初号機／インターステラテクノロジズ株式会社",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケット9号機、打ち上げ準備着々 新たなシステムの試験や初運用も ｜探検された天の世界 - Celestial Worlds Explored",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケット9号機、打ち上げ準備着々 新たなシステムの試験や初運用も",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "探検された天の世界 - Celestial Worlds Explored",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙航空研究開発機構（JAXA）は2026年8月5日、H3ロケット9号機の打ち上げ前ブリーフィングを開催した。",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "打ち上げは8月10日に予定されている。会見では、今回のミッションの概要に加え、機体の準備状況、8号機の失敗を踏まえた対策などについて説明が行われた。",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "9号機は、8号機の失敗後、初めて実用衛星を搭載して打ち上げるミッションとなる。さらに、冗長複合航法システム（RINS）の初運用や、自律飛行安全システムの2回目の飛行実証も行われる。6号機で再起を果たしたH3は、9号機で新たな段階に挑む。",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケットの打ち上げ。写真は9号機と同じ22形態を用いた4号機のもの",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケット9号機は、準天頂衛星システム「みちびき7号機」を、最終的な準静止軌道へ移るための準静止遷移軌道に投入する。ロケットの飛行計画上は、通常の静止トランスファー軌道（GTO）への打ち上げと同じ種類のミッションとして扱われる。",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "「人材育成実施方針」",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セキュリティー人材 争奪戦に",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙業界では現在、様々な企業が人材を募集している",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "業界特化型の人材マッチングサービス「スぺジョブ」",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペジョブは、宇宙産業に本気で働きたい人を支援する人材マッチングプラットフォームです",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙業界では現在、様々な企業が人材を募集している",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "業界特化型の人材マッチングサービス「スペジョブ」",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペジョブは、宇宙産業に本気で働きたい人を支援する人材マッチングプラットフォームです",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "9-3. ハードル3：地域との調整と人材",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "3つ目のハードルは、射場の周辺地域との調整と人材です",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、ロケットの組み立てや打ち上げ運用には、専門的な技能を持つ人材が必要です",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年30回の実現には、射場の整備に加え、ロケットの信頼性、衛星の需要、地域との調整と人材という3つのハードルを越える必要があります",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのためには、射場、ロケット、衛星、地域、人材のすべてを同時に前に進めなければなりません",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金事業 技術開発テーマ「ＳＸ技術シーズ統合・人材育成拠点（ＳＸ－ＣＲＡＮＥ）」（第三期）",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NASA Awards Enable Research, Technology to Build Future Workforce",
+    "url": "https://www.nasa.gov/kennedy/launch-services-program/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "防衛省が令和7年度概算要求を公表 ～力を入れる宇宙関連分野は？",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省が令和7年度の予算編成に向けた要求書を公表！今回は、防衛省の最新の概算要求から、宇宙関連分野における具体的な取り組みとその背景、そして...",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：防衛省・航空自衛隊",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、防衛省は「多軌道観測衛星実証機」の開発も進めています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "打ち上げコストの大幅な削減や、官公庁・研究機関向けのミッションでの活用が期待されています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "各機関からの要求を受けて衛星の運用を行い、実証機器の実験データおよび実験実施時の環境データを提供します",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "OEM・業務用製品",
+    "url": "https://www.astroarts.co.jp/article/hl/a/14538_h3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省、衛星を迅速に打ち上げるための調査研究を開始｜民間ロケット活用も視野",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内4射場の発射台増設と760億円要求の意味を読み解く",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2027年度予算の概算要求には、関連経費として760億円程度を盛り込みました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算面では、経産省が2027年度予算の概算要求で、関連経費として760億円程度を求めました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ここで押さえておきたいのは、760億円はあくまで概算要求の段階の数字だということです",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、経産省の2027年度概算要求は総額で約7兆7900億円にのぼり、その多くはAIや半導体に向けられています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "文部科学省は2027年度予算の概算要求で、H3の打ち上げ能力の強化などに235億円を盛り込みました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の760億円の要求は、その流れのなかにある政策だと読むことができます",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "8-1. 経産省：射場増強に760億円程度（2027年度概算要求）",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回報じられた経産省の要求です",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "8-2. 文科省：H3の打ち上げ能力強化に235億円（2027年度概算要求）",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "私はこれまで20年以上にわたり、国内の法人企業、通信・放送事業者、官公庁・自治体、安全保障分野など、あらゆるお客様に衛星通信ネットワークや衛星ソリューションを提供してまいりました",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "We offer comprehensive support that extends beyond launch arrangements. By integrating capabilities such as component procurement, space talent development, and mission formulation, we provide practical and integrated to solutions to enable the realization of your space objectives.",
+    "url": "https://www.space-bd.com/en/business/infrastructure/launch.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "expansion of public procurement from start-ups.",
+    "url": "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The government is accelerating the use of remote sensing data by both public and private sectors through granting subsidies, expanding procurement, and supporting technology development. Indeed, some emerging private companies, such as Synspective Inc., Axelspace Corporation and iQPS, Inc., operate satellite remote sensing and satellite data utilisation businesses.",
+    "url": "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "宇宙航空研究開発機構",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙航空研究開発機構法",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "革新的な技術を創出する研究開発",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAリポジトリ / AIREX",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人宇宙航空研究開発機構",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙航空研究開発機構（JAXA）は、H3ロケット10号機による火星衛星探査機（MMX）の打上げについて、下記のとおり実施いたします",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発部門",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙航空研究開発機構",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "開票前のNY市場は少し下げて取引終了 中間選挙次第でAI株下落も",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "文学に人間は必要か AIと深く交わる人に会う旅 高橋源一郎さん",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の宇宙航空研究開発機構（JAXA）は7日、新型ロケット「H3」の打ち上げに失敗し、このロケットを爆破した",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の失敗は日本にとって、イーロン・マスク氏の「スペースX」社が先行する宇宙開発領域での大きな挫折だと指摘する声もある",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "全長57メートルの「H3」は、日本が30年ぶりに開発している大型ロケットで、商業衛星や政府衛星を地球周回軌道に送り込むもの",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「H3」は、低コストのエンジンと3Dプリンターで製造した部品を使っているのが特徴",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本はアメリカと宇宙開発協力を深めている",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIは科学研究を脅かしているのか……数学をめぐる論争があおる懸念",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "» 宇宙開発",
+    "url": "https://sorae.info/ssn/20260612-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXA（宇宙航空研究開発機構）は日本時間2026年6月12日に「H3」ロケット6号機の打ち上げを実施しました",
+    "url": "https://sorae.info/ssn/20260612-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙航空研究開発機構",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人 宇宙航空研究開発機構（以下、「 JAXA」という）は、 ２０２ ６年度に",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人宇宙航空研究開発機構",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "射場技術開発ユニット長",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "» 宇宙開発",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙開発の最前線をチェックしよう",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "China Aerospace Science and Technology Corporation",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "China Aerospace Science and Technology Corporation（CASC）",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GO! - SpaceX - Falcon 9 - USSF-432 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SPACE AFFAIRS ・ youtube.com",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Baikonur Cosmodrome, Republic of Kazakhstan 31/6 ・ 打上げ 430回",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この打ち上げでは、ENPULSION, SUNBOOSTER GmbH,およびSynopsis Planet.向けの軌道上実証実験を行うR-Space’s AT-Astra/IOD-01,を含む様々な衛星を搭載します",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SpaceSail Polar Group #17",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "18 Low Earth Orbit の通信衛星は、Ku, QおよびVバンドのペイロードを搭載しており、Shanghai Spacesail Technologiesが運用するG60コンステレーションの一部です",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケットは、日本の宇宙輸送を担う次世代基幹ロケットとして、2023年の初号機打上げ以降、試験と実運用の両面で運用実績を積み重ねてきた",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "が共同で開発した、日本の次世代基幹ロケットである",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2号機（試験機2号機）では、H3ロケットの飛行実証および性能確認を主目的としたミッションが実施された",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本機は初号機と同様の機体形態を採用し、開発の妥当性を検証する位置付けで打上げが行われている",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本衛星は、宇宙航空研究開発機構が開発した陸域観測技術衛星2号「だいち2号」の後継機にあたり、災害監視や地殻変動の把握などへの活用が想定されている",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また本ミッションでは、将来の高付加価値ミッションに向けた技術実証として、長時間の宇宙飛行（ロングコースト）および2段エンジンの再着火に関するデータ取得も実施された",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "準天頂衛星「みちびき7号機」の軌道投入結果や今後の準静止軌道への移行、ASNAVの軌道上実証について解説",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "7号機では、国際宇宙ステーション（ISS）への物資補給および技術実証を目的とした新型宇宙ステーション補給機「HTV-X1」の打上げが実施された",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "HTV-Xは、従来の補給機「こうのとり（HTV）」の後継機として開発され、物資輸送能力の向上や将来の有人宇宙活動に向けた技術実証を担う機体である",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また本ミッションは、H3ロケットにおいて最大能力となる「H3-24W形態」（固体ロケットブースタ4本搭載）の初飛行であり、大型貨物輸送やISS補給といった高負荷ミッションへの対応能力を実証する位置付けでもあった",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年から2025年にかけて、日本の宇宙開発は大きな飛躍を遂げました",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "火星を目指す探査機の旅立ち、そして宇宙安全保障を強化する新たな衛星群の配備など、注目のミッションが予定され、日本の宇宙開発がさらに飛躍すると期待されています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAが担うロケット開発と火星への挑戦",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SDAとは「Space Domain Awareness（宇宙領域把握）」の略です",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、防衛省は「多軌道観測衛星実証機」の開発も進めています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この衛星は、静止軌道上での宇宙領域把握をはじめとする宇宙監視、情報収集、宇宙作戦能力の向上に必要となる技術の軌道上実証を目的としています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの宇宙安全保障関連の衛星は、民間事業者との連携により開発が進められており、2026年度の打ち上げを目指しています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この計画の一環として開発が進められているのが「光学多様化1号機」です",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社が開発する小型ロケット「カイロス」は固体燃料を採用しており、事前に燃料を充填できるため",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特典（先着順）もあり、一般の人々が民間宇宙開発に参加できる貴重な機会となっています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙航空研究開発機構",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人 宇宙航空研究開発機構（以下、「 JAXA」という）は、 ２０２ ６年度に",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人宇宙航空研究開発機構",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "射場技術開発ユニット長",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙開発・防衛",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "小型月着陸実証機（SLIM）",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "H3 ロケット 10号機による火星衛星探査機（MMX）の 打上げ — H3 ロケット 10号機による火星衛星探査機（MMX）の 打上げ JAXA｜宇宙航空研究開発機構 https://www.jaxa.jp > press > 2026/08 > 20260820-1_j",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 6号機 打ち上げ の瞬間 鹿児島・種子島 ... - YouTube — H3 ロケット 6号機 打ち上げ の瞬間 鹿児島・種子島 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=CEJhbZIj2uo",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 6号機 打ち上げ 成功 半年前の失敗から再起かけた新 ... — H3 ロケット 6号機 打ち上げ 成功 半年前の失敗から再起かけた新 ... 朝日新聞 https://www.asahi.com > articles",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の「H3」 ロケット 、 打ち上げ 失敗 指令破壊 - BBC ニュース — 日本の「H3」 ロケット 、 打ち上げ 失敗 指令破壊 - BBC ニュース BBC https://www.bbc.com > japanese",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAが「H3」 ロケット 6号機を 打ち上げ 2段目の軌道投入を ... — JAXAが「H3」 ロケット 6号機を 打ち上げ 2段目の軌道投入を ... sorae 宇宙へのポータルサイト https://sorae.info > 打ち上げ情報",
+    "url": "https://sorae.info/ssn/20260612-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 6号機の 打上げ パブリックビューイング！ — H3 ロケット 6号機の 打上げ パブリックビューイング！ 日本科学未来館 https://www.miraikan.jst.go.jp > events > 202606104570",
+    "url": "https://www.miraikan.jst.go.jp/events/202606104570.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026 年度 ロケット打上げ 計画書 - JAXA — 2026 年度 ロケット打上げ 計画書 - JAXA JAXA｜宇宙航空研究開発機構 PDF https://www.jaxa.jp > files > jaxa20260820-1_01",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット の 打上げ 実績とスケジュール｜日本の宇宙輸送を ... — H3 ロケット の 打上げ 実績とスケジュール｜日本の宇宙輸送を ... space-connect.jp https://space-connect.jp > Business",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【LIVE配信】H3 ロケット 9号機 打ち上げ （ 2026年 8月 11 日） — 【LIVE配信】H3 ロケット 9号機 打ち上げ （ 2026年 8月 11 日） YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=XY8ar2Ig13s",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【 2026年 】日本の ロケット打ち上げ 予定まとめ - note — 【 2026年 】日本の ロケット打ち上げ 予定まとめ - note note https://note.com > 科学・テクノロジー > 宇宙科学",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペースX、米宇宙軍から新たに16億ドルの ロケット打ち上げ ... — スペースX、米宇宙軍から新たに16億ドルの ロケット打ち上げ ... Reuters https://www.reuters.com > economy > 6EZFNPCSFVMZ3...",
+    "url": "https://www.reuters.com/jp/economy/6EZFNPCSFVMZ3CPQ3745VK6XO4-2026-07-29/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026 年度 ロケット打上げ 計画書 - JAXA — 2026 年度 ロケット打上げ 計画書 - JAXA JAXA｜宇宙航空研究開発機構 PDF https://www.jaxa.jp > files > jaxa20261018-1_01",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット - Wikipedia — H3 ロケット - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > H3ロケット",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ロケット 射場増強で年30回へ 発射台1つの日本は宇宙輸送の ... — ロケット 射場増強で年30回へ 発射台1つの日本は宇宙輸送の ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基幹 ロケット 及び民間 ロケット ・ 射場支援の現状と今後 ... — 基幹 ロケット 及び民間 ロケット ・ 射場支援の現状と今後 ... 内閣府ホームページ PDF https://www8.cao.go.jp > space > yuso-dai9 > siryou2",
+    "url": "https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai9/siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【 ロケット打ち上げ 予定のお知らせ】 H3 ロケット ... - Facebook — 【 ロケット打ち上げ 予定のお知らせ】 H3 ロケット ... - Facebook Facebook https://www.facebook.com > posts > ロケット打ち上げ予...",
+    "url": "https://www.facebook.com/100054789316705/posts/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E4%BA%88%E5%AE%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-h3-%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88-10-%E5%8F%B7%E6%A9%9F%E3%81%AB%E3%82%88%E3%82%8B%E7%81%AB%E6%98%9F%E8%A1%9B%E6%98%9F%E6%8E%A2%E6%9F%BB%E6%A9%9Fmmx%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92-august-20-2026-jaxa%E5%AE%87%E5%AE%99%E8%88%AA%E7%A9%BA%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8Bjaxa/1851735273329432/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 6号機、 打ち上げ 成功 - アストロアーツ — H3 ロケット 6号機、 打ち上げ 成功 - アストロアーツ アストロアーツ https://www.astroarts.co.jp > article",
+    "url": "https://www.astroarts.co.jp/article/hl/a/14538_h3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年 、南の島が揺れた——H3 ロケット 本格稼働で変貌する ... — 2026年 、南の島が揺れた——H3 ロケット 本格稼働で変貌する ... thespaandgym.com https://thespaandgym.com > machida-wave",
+    "url": "https://thespaandgym.com/machida-wave/9427564/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAが6月10日予定のH3 ロケット 6号機 打ち上げ 準備や8号機 ... — JAXAが6月10日予定のH3 ロケット 6号機 打ち上げ 準備や8号機 ... sorae 宇宙へのポータルサイト https://sorae.info > 宇宙開発",
+    "url": "https://sorae.info/space/20260513-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット打ち上げ 成功！日本の宇宙産業に成長期待（窪田 ... — H3 ロケット打ち上げ 成功！日本の宇宙産業に成長期待（窪田 ... media.rakuten-sec.net https://media.rakuten-sec.net > articles",
+    "url": "https://media.rakuten-sec.net/articles/-/52687",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（追加公募）高頻度 打上げ に資する ロケット 部品 ... — （追加公募）高頻度 打上げ に資する ロケット 部品 ... JAXA宇宙戦略基金 https://fund.jaxa.jp > techlist > theme2_19-2",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 2号機 打ち上げ 小型衛星2機の分離に成功 — H3 ロケット 2号機 打ち上げ 小型衛星2機の分離に成功 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/702181",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 9号機は 11 日午前4時23分に種子島宇宙センター ... — H3 ロケット 9号機は 11 日午前4時23分に種子島宇宙センター ... Facebook https://www.facebook.com > ... > テレ朝news > Videos",
+    "url": "https://www.facebook.com/tvasahinews/videos/h3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%889%E5%8F%B7%E6%A9%9F%E3%81%AF11%E6%97%A5%E5%8D%88%E5%89%8D4%E6%99%8223%E5%88%86%E3%81%AB%E7%A8%AE%E5%AD%90%E5%B3%B6%E5%AE%87%E5%AE%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%8B%E3%82%89%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%82%89%E3%82%8C%E3%81%8A%E3%82%88%E3%81%9D29%E5%88%86%E5%BE%8C%E3%81%AB%E6%90%AD%E8%BC%89%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%BF%E3%81%A1%E3%81%B3%E3%81%8D7%E5%8F%B7%E6%A9%9F%E3%82%92%E8%A8%88%E7%94%BB%E3%81%AE%E8%BB%8C%E9%81%93%E3%81%AB%E6%8A%95%E5%85%A5%E3%81%97%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E6%88%90%E5%8A%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/1064094002673734/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bbc.com/japanese/64871869",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorae.info/ssn/20260612-h3f6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sorae.info/rocket-launch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space-connect.jp/h3-mission/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/economy/6EZFNPCSFVMZ3CPQ3745VK6XO4-2026-07-29/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/100054789316705/posts/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E4%BA%88%E5%AE%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-h3-%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88-10-%E5%8F%B7%E6%A9%9F%E3%81%AB%E3%82%88%E3%82%8B%E7%81%AB%E6%98%9F%E8%A1%9B%E6%98%9F%E6%8E%A2%E6%9F%BB%E6%A9%9Fmmx%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92-august-20-2026-jaxa%E5%AE%87%E5%AE%99%E8%88%AA%E7%A9%BA%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8Bjaxa/1851735273329432/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.astroarts.co.jp/article/hl/a/14538_h3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tnsc_JAXA?lang=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sorae.info/ssn/20261020-h3f10-mmx.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thespaandgym.com/machida-wave/9427564/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorae.info/space/20260513-h3f6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-qps.net/news/2618/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grant-search.com/agency/jaxa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.space-one.co.jp/news/news_20260417.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/794943",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/702181",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/tvasahinews/videos/h3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%889%E5%8F%B7%E6%A9%9F%E3%81%AF11%E6%97%A5%E5%8D%88%E5%89%8D4%E6%99%8223%E5%88%86%E3%81%AB%E7%A8%AE%E5%AD%90%E5%B3%B6%E5%AE%87%E5%AE%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%8B%E3%82%89%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%82%89%E3%82%8C%E3%81%8A%E3%82%88%E3%81%9D29%E5%88%86%E5%BE%8C%E3%81%AB%E6%90%AD%E8%BC%89%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%BF%E3%81%A1%E3%81%B3%E3%81%8D7%E5%8F%B7%E6%A9%9F%E3%82%92%E8%A8%88%E7%94%BB%E3%81%AE%E8%BB%8C%E9%81%93%E3%81%AB%E6%8A%95%E5%85%A5%E3%81%97%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E6%88%90%E5%8A%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/1064094002673734/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nasa.gov/kennedy/launch-services-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spacex.com/launches",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://spacenexus.us/launches/worldwide/2026-11",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ssc.spaceforce.mil/Newsroom/Article/4559276/space-force-awards-task-orders-to-launch-space-based-sensing-and-targeting-capa",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://global.jaxa.jp/press/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.space-bd.com/en/business/infrastructure/launch.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/FriendsOfNASA/videos/rocket-lab-electron-launch-of-japanese-earth-observation-satellitefriendsofnasao/2241092650033967/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tnsc_JAXA/status/2112288504030073130",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tnsc_JAXA/status/2109863569231876389",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/space-launch-services-prices-pierre-lionnet-bvhbe",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロケット打上げ ニュース 2026年11月",
+   "results": [
+    "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "https://www.youtube.com/watch?v=CEJhbZIj2uo",
+    "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "https://www.bbc.com/japanese/64871869",
+    "https://sorae.info/ssn/20260612-h3f6.html",
+    "https://www.miraikan.jst.go.jp/events/202606104570.html",
+    "https://astropics.bookbright.co.jp/hs-02-launch",
+    "https://www.mitsubishielectric.co.jp/me/dspace/column/c2605_1.html",
+    "https://xn--29sob207cg49a.com/calendar/rocket-launch-schedule-2026/",
+    "https://xn--29sob207cg49a.com/calendar/rocket-launch-november-2026/"
+   ]
+  },
+  {
+   "query": "ロケット打上げ 発表 2026年11月",
+   "results": [
+    "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "https://sorae.info/rocket-launch",
+    "https://space-connect.jp/h3-mission/",
+    "https://www.youtube.com/watch?v=XY8ar2Ig13s",
+    "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "https://www.miraikan.jst.go.jp/events/202606104570.html",
+    "https://www.astroarts.co.jp/article/hl/a/14538_h3",
+    "https://xn--29sob207cg49a.com/calendar/rocket-launch-schedule-2026/",
+    "https://www.youtube.com/watch?v=CEJhbZIj2uo",
+    "https://xn--29sob207cg49a.com/calendar/rocket-launch-november-2026/"
+   ]
+  },
+  {
+   "query": "ロケット打上げ 受注 2026年11月",
+   "results": [
+    "https://www.reuters.com/jp/economy/6EZFNPCSFVMZ3CPQ3745VK6XO4-2026-07-29/",
+    "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai9/siryou2.pdf",
+    "https://www.astroarts.co.jp/article/hl/a/14538_h3",
+    "https://www.instagram.com/p/DXi63YykYgc/",
+    "https://sorae.info/rocket-launch/history",
+    "https://xn--29sob207cg49a.com/calendar/rocket-launch-november-2026/"
+   ]
+  },
+  {
+   "query": "ロケット打上げ 提携 2026年11月",
+   "results": [
+    "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "https://www.facebook.com/100054789316705/posts/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E4%BA%88%E5%AE%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-h3-%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88-10-%E5%8F%B7%E6%A9%9F%E3%81%AB%E3%82%88%E3%82%8B%E7%81%AB%E6%98%9F%E8%A1%9B%E6%98%9F%E6%8E%A2%E6%9F%BB%E6%A9%9Fmmx%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92-august-20-2026-jaxa%E5%AE%87%E5%AE%99%E8%88%AA%E7%A9%BA%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8Bjaxa/1851735273329432/",
+    "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "https://www.youtube.com/watch?v=XY8ar2Ig13s",
+    "https://www.astroarts.co.jp/article/hl/a/14538_h3",
+    "https://x.com/tnsc_JAXA?lang=ja",
+    "https://sorae.info/ssn/20261020-h3f10-mmx.html",
+    "https://www.miraikan.jst.go.jp/events/202606104570.html",
+    "https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai9/siryou2.pdf",
+    "https://uchuchu.tech/launches/2026-11/"
+   ]
+  },
+  {
+   "query": "ロケット打上げ 設備投資 2026年11月",
+   "results": [
+    "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "https://thespaandgym.com/machida-wave/9427564/",
+    "https://space-connect.jp/h3f10-mmx/",
+    "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "https://sorae.info/space/20260513-h3f6.html",
+    "https://media.rakuten-sec.net/articles/-/52687",
+    "https://www.artfair.bria.ai/stock-market/8442580/",
+    "https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai10/siryou3-1.pdf",
+    "https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/",
+    "https://astronavi.jp/ロケット・ペイロード月次まとめ/"
+   ]
+  },
+  {
+   "query": "ロケット打上げ 補助金 採択 2026年11月",
+   "results": [
+    "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "https://i-qps.net/news/2618/",
+    "https://grant-search.com/agency/jaxa/",
+    "https://space-connect.jp/h3-mission/",
+    "https://sorae.info/space/20260513-h3f6.html",
+    "https://www.space-one.co.jp/news/news_20260417.html",
+    "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai9/siryou2.pdf",
+    "https://www.youtube.com/watch?v=z56HAaCSvDg",
+    "https://xn--29sob207cg49a.com/business/japan-space-subsidies-2026/"
+   ]
+  },
+  {
+   "query": "ロケット打上げ 日刊工業新聞 2026年11月",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/794943",
+    "https://www.nikkan.co.jp/",
+    "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "https://www.nikkan.co.jp/articles/view/702181",
+    "https://www.facebook.com/tvasahinews/videos/h3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%889%E5%8F%B7%E6%A9%9F%E3%81%AF11%E6%97%A5%E5%8D%88%E5%89%8D4%E6%99%8223%E5%88%86%E3%81%AB%E7%A8%AE%E5%AD%90%E5%B3%B6%E5%AE%87%E5%AE%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%8B%E3%82%89%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%82%89%E3%82%8C%E3%81%8A%E3%82%88%E3%81%9D29%E5%88%86%E5%BE%8C%E3%81%AB%E6%90%AD%E8%BC%89%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%BF%E3%81%A1%E3%81%B3%E3%81%8D7%E5%8F%B7%E6%A9%9F%E3%82%92%E8%A8%88%E7%94%BB%E3%81%AE%E8%BB%8C%E9%81%93%E3%81%AB%E6%8A%95%E5%85%A5%E3%81%97%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E6%88%90%E5%8A%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/1064094002673734/",
+    "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "https://www.youtube.com/watch?v=oGNsXUlEVIg",
+    "https://biz.nikkan.co.jp/eve/isiex/dl/2027/isiex_application2027.pdf",
+    "https://www.instagram.com/reel/Des1RAZjbmd/",
+    "https://xn--29sob207cg49a.com/calendar/rocket-launch-november-2026/"
+   ]
+  },
+  {
+   "query": "space launch services news 2026年11月",
+   "results": [
+    "https://www.nasa.gov/kennedy/launch-services-program/",
+    "https://www.spacex.com/launches",
+    "https://www.youtube.com/watch?v=cXMbCrnxOpI",
+    "https://spacenexus.us/launches/worldwide/2026-11",
+    "https://www.ssc.spaceforce.mil/Newsroom/Article/4559276/space-force-awards-task-orders-to-launch-space-based-sensing-and-targeting-capa",
+    "https://www.space-bd.com/en/business/infrastructure/launch.html",
+    "https://investors.rocketlabcorp.com/",
+    "https://en.wikipedia.org/wiki/2026_in_spaceflight",
+    "https://www.facebook.com/bloombergbusiness/videos/spacex-is-starting-to-wind-down-its-falcon-9-rocket-even-though-starship-the-roc/1391584043107539/",
+    "https://spacelaunchhub.com/calendar"
+   ]
+  },
+  {
+   "query": "space launch services Japan 2026年11月",
+   "results": [
+    "https://global.jaxa.jp/press/",
+    "https://www.youtube.com/watch?v=gVRblvlV4r4",
+    "https://www.space-bd.com/en/business/infrastructure/launch.html",
+    "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "https://www.facebook.com/FriendsOfNASA/videos/rocket-lab-electron-launch-of-japanese-earth-observation-satellitefriendsofnasao/2241092650033967/",
+    "https://www.rocketlaunch.live/?filter=japan",
+    "https://www.eu-japan.eu/events/space-mission",
+    "https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-navigation-satellite-michibiki-7",
+    "https://www.instagram.com/reel/DapzWn-yUGi/",
+    "https://www.spacelaunchschedule.com/category/japan/"
+   ]
+  },
+  {
+   "query": "site:note.com ロケット打上げ 2026",
+   "results": [
+    "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "https://note.com/celestial_worlds/n/na2f4ae193e46",
+    "https://note.com/celestial_worlds/n/n292acf9475e8",
+    "https://note.com/space_business/n/n079e2bb05187",
+    "https://note.com/celestial_worlds/n/nb9bf09c9865a",
+    "https://note.com/hirokimiyano/n/nbe2c025e8333",
+    "https://note.com/space_business/n/ndedc7845b193"
+   ]
+  },
+  {
+   "query": "site:x.com ロケット打上げ",
+   "results": [
+    "https://x.com/tnsc_JAXA",
+    "https://x.com/tnsc_JAXA/status/2112288504030073130",
+    "https://x.com/tnsc_JAXA/status/2109863569231876389",
+    "https://x.com/tnsc_JAXA/status/2065205687383212113",
+    "https://x.com/takaichi_sanae/status/2112314581049803177",
+    "https://x.com/SpaceWaveJapan/status/2117523674190463448",
+    "https://x.com/spaceconnect_/article/2066435790289440937",
+    "https://x.com/i/trending/2092559157521944799",
+    "https://x.com/MHI_GroupJP/status/2112456269772820810",
+    "https://x.com/nico_nico_news/status/2112269122604343495"
+   ]
+  },
+  {
+   "query": "site:linkedin.com space launch services",
+   "results": [
+    "https://www.linkedin.com/pulse/space-launch-services-prices-pierre-lionnet-bvhbe",
+    "https://ca.linkedin.com/company/maritimelaunch",
+    "https://ca.linkedin.com/company/columbiad",
+    "https://www.linkedin.com/pulse/top-10-companies-space-launch-services-industry-driving-newspace-3tavf",
+    "https://www.linkedin.com/in/bradley-smith-a325241a",
+    "https://www.linkedin.com/company/international-launch-services",
+    "https://www.linkedin.com/company/spacelaunch-space",
+    "https://ca.linkedin.com/in/melissa-quinn",
+    "https://www.linkedin.com/company/scorpius-space-launch-company",
+    "https://www.linkedin.com/in/easherbest"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SPACE LAUNCH SERVICES PRICES - LinkedIn SPACE LAUNCH SERVICES PRICES - LinkedIn LinkedIn https://www.linkedin.com > pulse > s...",
+    "url": "https://www.linkedin.com/pulse/space-launch-services-prices-pierre-lionnet-bvhbe",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "JAXA種子島宇宙センター on X: \"  H3 ロケット 10号機 打上げ ... JAXA種子島宇宙センター on X: \"  H3 ロケット 10号機 打上げ ... X https://x.com > @tnsc_JAXA",
+    "url": "https://x.com/tnsc_JAXA/status/2112288504030073130",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXA種子島宇宙センター on X: \"本企画は、日頃より ロケット ... JAXA種子島宇宙センター on X: \"本企画は、日頃より ロケット ... X https://x.com > @tnsc_JAXA",
+    "url": "https://x.com/tnsc_JAXA/status/2109863569231876389",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "【今ならキャンペーン価格】有料記事が2カ月間 月額100円で読み放題！",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "小学校で給食費などの督促怠り5400万円不足 校長ら私費で補てん",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため、打上げコストについては、H-IIAロケットと比較して約半分程度まで低減することを目標にしており、最軽量形態で1回あたり約50億円規模での打上げを想定している",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アストロスケール仏子会社、約23.6億円の契約獲得｜OneWeb衛星を軌道離脱へ",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2197億円",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（平成26年）度から開発が開始され、総開発費は約2061億円",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらにより最小構成時の打ち上げ費用をH-IIAの半額の約50億円を目標としている",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "打ち上げ費用約50億円",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第1段エンジン3基でブースター0本の最小構成ではH-IIAの1/2の50億円で",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケットでは、これまでのH-IIAでは高コストのために十分には成し遂げられていない商用化を目指し、1回あたりの打ち上げコストをH-IIAと比べて半分の約50億円に減らすことを目標としている",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2022年時点でのファルコン9の打ち上げ費用は6,700万ドル（当時のレートで約84億円）",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "はコスト削減により約50億円のコストを実現できたとしても、スペースXの低コスト化を進める攻勢によって「相場水準がさらに下がってしまえば、コスト競争力だけで勝負できるかは不透明」とコメントしている",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "で4トン50億円を達成することを目標としており",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インターステラテクノロジズとスペースワン、最大120億円の宇宙戦略基金「STAND」に採択",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内4射場の発射台増設と760億円要求の意味を読み解く",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2027年度予算の概算要求には、関連経費として760億円程度を盛り込みました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算面では、経産省が2027年度予算の概算要求で、関連経費として760億円程度を求めました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ここで押さえておきたいのは、760億円はあくまで概算要求の段階の数字だということです",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、経産省の2027年度概算要求は総額で約7兆7900億円にのぼり、その多くはAIや半導体に向けられています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "射場への760億円は、その大きな枠のなかの1項目という位置づけです",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "文部科学省は2027年度予算の概算要求で、H3の打ち上げ能力の強化などに235億円を盛り込みました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年度予算の29億円の約8倍です",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LC1は広さ約2.6ヘクタール、2022年から整備が始まり、事業費は約43億円です",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社は小型衛星用ロケット「ZERO」を開発しており、文部科学省からは最大73.7億円の交付が決まっています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "助成額は1件あたり40億円程度（間接経費を含む）を上限",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "助成額の設定は1件あたり40億円程度（間接経費を含む）を上限",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10件程度を採択、1件あたり0.15億〜20億円程度（30件程度採択）、1件あたり2億円（間接経費含む）を上限、例外的に総額5億円まで可",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "20〜40件程度採択（支援総額100億円）、1件あたり93億円（間接経費を含む）を上限（支援総額93億円、1〜2件程度を採択）、（A）1件あたり30億円を上限、（B）1件あたり15億円を上限 などです",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件あたり40億円程度（間接経費を含む）を上限",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "支援の形態は補助で、1件あたり40億円程度（間接経費を含む、打上げ・軌道上実証費用は含まない）を上限に10件程度を採択する",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件あたり0.15億〜20億円程度（30件程度採択）",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件あたりの支援額は実施者が大企業の場合0.15億円〜20億円程度（補助対象総額は0.3億〜40億円程度）、中小企業・スタートアップの場合0.2億円〜20億円程度（補助対象総額は0.3億〜30億円程度）を上限とし、30件程度を採択する",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件あたり2億円（間接経費含む）を上限、例外的に総額5億円まで可",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "20〜40件程度採択（支援総額100億円）",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Falcon Heavy is composed of three reusable Falcon 9 nine-engine cores whose 27 Merlin engines together generate more than 5 million pounds of thrust at liftoff, equal to approximately eighteen 747 aircraft. As one of the world’s most powerful operational rockets, Falcon Heavy can lift nearly 64 metric tons (141,000 lbs.) to orbit. Falcon Heavy is on NASA’s Launch Services II contract.",
+    "url": "https://www.nasa.gov/kennedy/launch-services-program/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Private funds can be categorised into equity and debt investment. In Japan, JPY29.4 billion of investment was made in total in 2024 and over JPY200 billion has been raised in Japan from 2015 to 2024. Equity is a main funding resource particularly for start-ups at the early stage. Not only venture capital funds but also “",
+    "url": "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Sub-orbital spaceflight and space trips are expected to have a significant market size in the next decade. The government estimates that the annual market size of sub-orbital transport and space trips (including trips to a low Earth orbit) will respectively grow to around JPY5.2 trillion and JPY880 billion by 2040.",
+    "url": "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Mitsui Sumitomo Insurance Company created the world’s first “Lunar Insurance Plan” to cover damages from launch to touchdown on the Moon. ispace became the first user of this policy and received a JPY3.8 billion insurance payout when their lunar mission failed.",
+    "url": "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "メールでシェアする",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Facebookでシェアする",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Xでシェアする",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "はてなブックマークでシェアする",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本はこのロケットを、スペースXの「ファルコン9」に代わる、安価なロケットとして発表していた",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州7カ国のスーパー冷蔵・冷凍庫にサイバー攻撃 大量の食品が廃棄に",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国共産党、過去最多33幹部の党籍剥奪処分 習氏は5中総会で「党規律」を強調",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "サンリオ、「VIVANT」とのコラボを中止 中国でドラマへの批判が強まり",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州諸国の軍関係者数千人、ウクライナ停戦後の部隊派遣に向け軍事演習へ 英仏が主導",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3の各形態のなかでも30形態は打ち上げコストが最も低く、衛星をより安価に軌道へ投入できるようになると期待されています",
+    "url": "https://sorae.info/ssn/20260612-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "オ．ゴダード宇宙飛行センター（米国宇宙航空局(NASA)）※",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国メリーランド州グリーンベルト",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "China Satellite Network Group.Theが運用する中国国有の衛星コンステレーション「SatNet」に投入する9 Low Earth Orbit通信衛星の一括打ち上げにより、最終的には13000機の衛星で構成される大型コンステレーションが完成する予定です",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Indian Regional Navigation Satellite System. Theコンステレーションの代替衛星として打ち上げられるこの衛星は、インドにとってGPSの代替手段を提供し、軍事および民生用途に利用される予定です",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "静止軌道に位置するこのシステムは、インド政府によって運用されることになります",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国軍が目的不明の「リモートセンシング」衛星を6機打ち上げました",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The Yaogan 50-03は、目的不明の中国軍用「リモートセンシング」衛星です",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中緯度軌道への専用ライドシェア打ち上げで、商業および政府の顧客向けに数十機の小型マイクロサテライトやナノサテライトを搭載しています",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "South Korean政府の地球観測マイクロサテライトコンステレーションNeonSat (New-space Earth Observation Satellite). The NeonSatは、正確なKorean Peninsula.10の監視のために大量生産アプローチを使用して政府が開発した最初の衛星システムです",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この打ち上げでは、韓国諸機関や組織のライドシェア小型衛星も搭載されます",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国航天科技集団（CASC）",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "西昌衛星発射センター( 中国)",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国宇宙航空庁、衛星画像6万7,000枚を無償公開｜韓国企業のAI開発を支援",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "搭載される観測機器には、JAXAとNHKが共同開発した8Kカメラ、NASA（米国）が提供するガンマ線・中性子線分光計「MEGANE」、CNES（フランス）が提供する近赤外線分光装置「MIRS」、DLR（ドイツ）とCNESが共同開発する小型ローバー「MMX Rover」などがあります",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "オ．ゴダード宇宙飛行センター（米国航空宇宙局(NASA)）※",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国メリーランド州グリーンベルト",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エキスパンダーブリードサイクルエンジンは構造が単純なため安価で安全性が高いが、ターボポンプの駆動エネルギーを燃焼室からの吸熱に頼るという物理的制約から大推力を生成することが難しく、専ら第2段用エンジンとして実用化されてきた",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため開発費と時間は大幅に節約できたものの、継続使用のコスト面では国産のロングフェアリングの方が安価である",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（欧州宇宙機関の小惑星探査機）",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ESA（欧州宇宙機関）",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "が実用衛星を載せた初号機の打ち上げに失敗したが、2018年のデータで商業静止衛星のシェア5割を獲得した事例もある",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし開発費だけでなく射場の改修費用なども必要になるため、従来の運搬能力のまま打ち上げ回数を2回に増やしたほうが安価に済むことから、増強型の実現には月軌道プラットフォームゲートウェイ以外においても大型ロケットの需要を増やす必要があると考えられた",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ただし、2022年の統計では、製造業における「時間当たり賃金（購買力平価換算）は、日本を100.0とすると、アメリカが125.8、フランスが165.7、ドイツが185.0となって」おり、競合する先進国と比べて労働単価は低い水準である",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ElevationSpace、「ELS-R」2号機をH3ロケットで打ち上げへ 三菱重工とライドシェア契約",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "QPS研究所、H3ロケットで小型SAR衛星3機を打ち上げへ 三菱重工とライドシェア契約を締結",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本もお世話になってます 商業衛星打ち上げシェアトップ！ 知られざるフランス企業とは",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国「天問2号」の打ち上げ成功、2つの小天体を探査",
+    "url": "https://www.astroarts.co.jp/article/hl/a/14538_h3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インド、初の太陽観測衛星の打ち上げに成功",
+    "url": "https://www.astroarts.co.jp/article/hl/a/14538_h3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アストロスケール、デブリ観測衛星をインドから打ち上げ",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アストロスケールのデブリ観測衛星「ISSA-J1」が、2027年春にインドから打ち上げられる予定です",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州版のH3ロケット！？『Ariane6』の初打ち上げは7月10日未明に",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日経の記事によれば、内閣府のまとめで、米国やロシアといった主要な打ち上げ国の発射回数は2024年に253回となり、2020年の105回から2倍以上に増えました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国：約190回（集計により181回から193回）",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国：92回（集計により90回から93回）",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インド：5回",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国の数字を押し上げているのは、イーロン・マスク氏が率いるスペースXです",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ファルコン9だけで、中国1国の打ち上げ回数のおよそ2倍に達しています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国も急速に回数を増やしています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国フロリダ州のケープカナベラル周辺には、スペースXが使う発射台だけでも複数あり、さらにケネディ宇宙センターの発射台も組み合わせて運用しています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国も、国の発射場に加えて商業専用の発射場を整え、発射台の数を増やしてきました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペースXのファルコン9は再使用で費用を下げており、価格競争では依然として厳しい立場にあります",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3の各形態のなかでも30形態は打ち上げコストが最も低く、衛星をより安価に軌道へ投入できるようになると期待されています",
+    "url": "https://sorae.info/space/20260513-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この記事をシェアする：",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "[打上げ予定日変更] 小型SAR衛星QPS-SAR19号機「ヤマツミ-Ⅱ」米国Rocket Lab社Electronロケットにて2026年11月14日以降に打上げ予定",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Gaganyaan計画：インドの有人宇宙飛行への準備段階",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インド：民間ロケットVikram-Iのデモ飛行",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年中頃には、米国の民間企業Vast Space社が開発する商業宇宙ステーション「Haven-1」の打ち上げが予定されています",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インド宇宙研究機関（ISRO）は、有人宇宙飛行計画「Gaganyaan」を進めており、",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの試験を通じて、インドは独自の有人宇宙飛行能力の確立を目指すとされています",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "補給ミッションとしては、SpaceX社のDragon補給船、ロシアのProgress補給船、米国Northrop Grumman社のCygnus補給船などがISSへ物資を運びます",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "宇宙産業を支える技術商社、エイチ・ティー・エルに注目｜H3ロケット開発を支えた装置導入の実績",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "When arbitration is conducted in Japan, the Arbitration Act is applicable. This act is based on the Model Law on International Commercial Arbitration by the United Nations Commission on International Trade Law (UNCITRAL). Under the Arbitration Act, arbitral awards are given the same effect as final court judgments, and the grounds on which a court can annul an arbitral award are limited.",
+    "url": "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【 2026 年】世界の ロケット打ち上げ 予定まとめ - note 【 2026 年】世界の ロケット打ち上げ 予定まとめ - note note https://note.com > 科学・テクノロジー > 宇宙科学",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【 2026 年】日本の ロケット打ち上げ 予定まとめ - note 【 2026 年】日本の ロケット打ち上げ 予定まとめ - note note https://note.com > 科学・テクノロジー > 宇宙科学",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 9号機、 打ち上げ 準備着々 新たなシステムの試験や ... H3 ロケット 9号機、 打ち上げ 準備着々 新たなシステムの試験や ... note https://note.com > 科学・テクノロジー > 宇宙科学",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "政治（法・予算・規制）": [
+   {
+    "quote": "職員数と予算の推移",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算関連（予算推移、プロジェクト関連）",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金事業部",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "トランプ関税",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本政府は、打ち上げ失敗は「大変遺憾」だと表明した",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "全長57メートルの「H3」は、日本が30年ぶりに開発している大型ロケットで、商業衛星や政府衛星を地球周回軌道に送り込むもの",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "立ち入らないよう人員規制を行い、入退場管理を行う",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "イ． 陸上における警戒については、ＪＡＸＡが警戒区域の人員規制等を行うとともに、",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "規制を行うため、事前に海上保安庁及び関係機関に対して打上げを行う旨の通知を",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "行規制を行うため、事前に 国土交通省に対して打上げを行う旨の通知をし、航空機",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このプロジェクトは、上海市政府が出資をバックしています",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "静止軌道に位置するこのシステムは、インド政府によって運用されることになります",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "広州市政府とGuangzhou Universityが共同で開発した、0.5メートル解像度の地球観測衛星で、マルチスペクトルイメージング機能を備えています",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中緯度軌道への専用ライドシェア打ち上げで、商業および政府の顧客向けに数十機の小型マイクロサテライトやナノサテライトを搭載しています",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "South Korean政府の地球観測マイクロサテライトコンステレーションNeonSat (New-space Earth Observation Satellite). The NeonSatは、正確なKorean Peninsula.10の監視のために大量生産アプローチを使用して政府が開発した最初の衛星システムです",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来のH-IIAロケットの後継として位置付けられ、政府ミッションに加え、商業打上げ市場での競争力確保も視野に入れて設計されている",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府ミッションを支える基幹ロケットとしての役割に加え、商業打ち上げ市場での競争力をどこまで高められるかが注目される",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省が令和7年度の予算編成に向けた要求書を公表！今回は、防衛省の最新の概算要求から、宇宙関連分野における具体的な取り組みとその背景、そして...",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "天地人は、2050年にも持続可能な地球環境を目指して活動するJAXA認定ベンチャーです",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府主導の衛星ミッション",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "立ち入らないよう人員規制を行い、入退場管理を行う",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "イ． 陸上における警戒については、ＪＡＸＡが警戒区域の人員規制等を行うとともに、",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "規制を行うため、事前に海上保安庁及び関係機関に対して打上げを行う旨の通知を",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "行規制を行うため、事前に 国土交通省に対して打上げを行う旨の通知をし、航空機",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府関連ミッション",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2019年、燃焼試験中に技術的課題が見つかり、暫定的対策を施したタイプ1エンジンを先行して認定し試験機1号機で使用、追って恒久的対策を施したタイプ2エンジンを認定して試験機2号機以降で使用する方針に改めた",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2019年8月28日と2020年2月29日に認定型モータ地上燃焼試験が実施された",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "6月4日、平成26年度宇宙開発利用に関する戦略的予算配分方針（経費の見積り方針）（平成25年6月4日 内閣府特命担当大臣（宇宙政策）から関係閣僚に対して通知）において、新型基幹ロケットの開発着手を決定した",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算関連（予算推移、プロジェクト関連）",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙政策委員会 第45回会合 議事次第 参考資料 平成27年度補正及び平成平成28年度予算案の宇宙関係予算について（省庁別事業概要）p9, 通算p28",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケット用固体ロケットブースタ（SRB-3）認定型モータ地上燃焼試験（その1）の結果について",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケット用固体ロケットブースタ（SRB-3）認定型モータ地上燃焼試験（その2）の結果について",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法律および安全に関する連絡先",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インターステラテクノロジズとスペースワン、最大120億円の宇宙戦略基金「STAND」に採択",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2027年度予算の概算要求には、関連経費として760億円程度を盛り込みました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本記事では、日本経済新聞が2026年10月15日に報じた内容を出発点に、国内4射場の現状、H3やカイロスなど国産ロケットの到達点、世界の打ち上げ競争、予算と市場の数字までを整理し、ビジネスパーソンと投資家の目線でこの政策の意味を考えます",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算面では、経産省が2027年度予算の概算要求で、関連経費として760億円程度を求めました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また同報道は、2026年6月に改正された経済安全保障推進法のもとで、政府がロケット発射場の増強を念頭に支援を強める方針を打ち出したと伝えています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の宇宙基本計画や、宇宙戦略基金の実施方針でも、国内ロケットの打ち上げ機数を2030年代前半までに年30機程度に伸ばすという方向性がすでに示されてきました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回のニュースの新しさは、その目標を実現するための「地上インフラ」に、経産省がまとまった予算を付けにいった点にあります",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年末の予算編成で金額が変わる可能性は十分にあります",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "文部科学省は2027年度予算の概算要求で、H3の打ち上げ能力の強化などに235億円を盛り込みました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年度予算の29億円の約8倍です",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "安全保障や政府衛星の打ち上げを担う「本線」",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（追加公募）高頻度打上げに資するロケット部品・コンポーネント等の開発 | JAXA宇宙戦略基金",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金について",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金設立の",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金の",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基金運営に関する最新情報",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基金事業全般に関するお問い合わせ",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金における新たな",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※補助金交付に関する詳細は",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金事業 公募説明",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金の採択及び補助金交付決定に関して | iQPS, Inc.",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金の採択及び補助金交付決定に関して",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "QPS研究所は、国立研究開発法人宇宙航空研究開発機構（以下、JAXA）によって公募された宇宙戦略基金事業に関して、交付決定通知書を受領し、本日詳細を公表いたしました",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "18号機の衛星製造まで着手していますが、この度決定した交付対象期間の宇宙戦略基金により、さらにその先の開発・製造・運用の資金を長期に渡って確保することができます",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この度の基金を最大限に活かし、衛星の増産と基盤強化を加速させ、増え続けるデータ需要に全力で応えてまいります",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜宇宙戦略基金について＞",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年３月、JAXAは宇宙分野の資金配分機関として新たに基金を設置しました",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "契約・調達情報",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「契約・調達情報」",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「採用情報」",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調達・契約情報",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新卒採用サイト",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "仮想通貨の盗難事件、偽の採用面接も攻撃の経路に バイナンスが発表",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "航空機部品の金型もつくる下町の町工場 3代目社長が...",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グループ企業",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ソウル雑踏事故の映像をゲームに使用、遺族が米企業に削除求める",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "民間の力で延命へ？ NASAがハッブル宇宙望遠鏡の軌道上昇などで企業に情報提供を依頼",
+    "url": "https://sorae.info/ssn/20260612-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中緯度軌道への専用ライドシェア打ち上げで、商業および政府の顧客向けに数十機の小型マイクロサテライトやナノサテライトを搭載しています",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この打ち上げでは、SpaceX’s Project Starfall,の2回目の実証ミッションも行われ、顧客の貴重な実験やその他のペイロードを、軌道上の製造を含めて、安全に宇宙から地球まで自動的に輸送するリエントリーキャプスルを大量生産することを目指しています",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "民間の力で延命へ？ NASAがハッブル宇宙望遠鏡の軌道上昇などで企業に情報提供を依頼",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本機は初号機と同様の機体形態を採用し、開発の妥当性を検証する位置付けで打上げが行われている",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10号機は、第1段のメインエンジン「LE-9」を2基、固体ロケットブースター「SRB-3」を4本搭載し、ロングフェアリングを採用した「H3-24L」形態の初飛行となった",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙業界では現在、様々な企業が人材を募集している",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業資料、公的機関の公開情報、政策資料等をもとに、専門性の高い宇宙関連ニュースや産業動向を構造化し、読み手に伝わる形で整理することを得意とする",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "複数のWebメディア運営経験を有し、航空・宇宙領域における企業動向、技術動向、政策・制度動向の調査・編集を主な専門領域としている",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国宇宙航空庁、衛星画像6万7,000枚を無償公開｜韓国企業のAI開発を支援",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙産業を支える技術商社、エイチ・ティー・エルに注目｜H3ロケット開発を支えた装置導入の実績",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケットを支える企業3選｜日本の上場メーカーの技術を解説",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アルテミス計画で受注！三菱電機製宇宙用リチウムイオン電池の秘密",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペジョブ企業",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペースワン株式会社は、東京都港区に本社を置く宇宙関連企業です",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の民間企業で初めて専用の射場から人工衛星搭載ロケットの打ち上げを行った実績があります",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社が開発する小型ロケット「カイロス」は固体燃料を採用しており、事前に燃料を充填できるため",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして2025年8月31日、3号機の打ち上げに向けて、国内複数の顧客と打ち上げ輸送サービス契約を締結したことを発表しています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インターステラテクノロジズ株式会社は、北海道大樹町を拠点とする宇宙関連企業です",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "観測ロケット「MOMO」は、国内民間企業単独として初めて宇宙空間到達を3回達成しています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "打ち上げ実証の意味合いが強いことが多いロケット初号機で、衛星に関する国内外の民間顧客を複数得ており、注目度が高まっています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大学・高専・民間企業がそれぞれ開発した超小型衛星たちが、ふたたびElectronロケットで宇宙へ旅立ちます",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の採用となりました",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業のnote",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "事業所・工場",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "資材調達の基本方針",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "サステナビリティ・CSR調達の推進",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Coupa（新間接材調達システム）",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業CM特設サイト",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "05 顧客ビジネスを変革する DIGITAL INNOVATION",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "打ち上げ能力の増強、打ち上げ時の安全性の向上、年間打ち上げ可能回数の増加を同時に達成して、宇宙開発における日本の自立性確保と同時に、商業受注で国際競争力のあるロケットを実現させるために開発される",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "抜本的な打ち上げ費用の削減のため、日本では初めて、機体の設計・開発段階から民間企業（三菱重工）が主体的役割を果たしている",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、三菱重工が開発段階から絶えず受注活動も行い将来の打ち上げ機会を確保し続けることで、従来のようにロケットを受注してから生産に取り掛かるのではなく、",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ロケットシステム全体を極力モジュール化し、第1段に新規開発エンジンを採用することも含めて全体にわたって新規技術の開発をすることで部品点数の削減に努め、民生部品の利用等も行ってさらに費用削減を進める",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "のJAXAの岡田匡史は、このように開発段階から運用後の商業受注による事業継続を強く意識してロケットシステムを開発することを、「技術開発」ではなく「事業開発」であるとしている",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "、これまで培ってきた技術、経験、設備を活用するため等の理由で採用に至らなかった",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ロケットまでの従来の衛星打ち上げ用液体燃料ロケットでは第1段機体に「NIPPON」の文字が描かれていたが、H3では海外からの打ち上げ受注を意識して「JAPAN」に変更した",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "）といった小さなブースターでの採用例はあるが、SRB-3のような大型ブースターでは初めてである",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ロングフェアリングでもHTV-Xの搭載自体は可能でありながら海外メーカーが開発製造したワイドフェアリングを使用するのは、H3ロケットでのHTV-X打ち上げが決まった時点では打ち上げ予定までにロングフェアリングにレイトアクセスドアを追加するのが難しく、Beyond Gravity社から開発済み品の提案があったためである",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新型ロケット機体の設計・開発段階から民間企業が中心的役割を担うのは初めてとなる",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回飛行したH3ロケット10号機の機体形態は、1段目エンジン「LE-9」を2基、SRB-3を4本装着し、ペイロード（搭載物）を覆うフェアリングに長さ16.4mの「ロングフェアリング」を採用した「H3-24L」です",
+    "url": "https://sorae.info/ssn/20261020-h3f10-mmx.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LE-9が2基・SRB-3が4本の“24形態”は、2025年10月に新型宇宙ステーション補給機1号機「HTV-X1」を打ち上げた7号機の機体形態「H3-24W」に続いて2回目ですが、ロングフェアリングを採用したH3-24Lは今回が初の飛行でした",
+    "url": "https://sorae.info/ssn/20261020-h3f10-mmx.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "民間の力で延命へ？ NASAがハッブル宇宙望遠鏡の軌道上昇などで企業に情報提供を依頼",
+    "url": "https://sorae.info/ssn/20261020-h3f10-mmx.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の10号機には、第1段のメインエンジン「LE-9」を2基、固体ロケットブースター「SRB-3」を4本装着し、全長の大きい衛星フェアリングを採用する「H3-24L」形態が使用される",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "24形態としては、2025年10月に新型宇宙ステーション補給機「HTV-X1」を打ち上げた7号機に続く2度目の飛行となり、ロングフェアリングの採用は今回が初めてである",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙業界では現在、様々な企業が人材を募集している",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米HPE、月面でAI・高性能コンピューターの実証へ｜キオクシア製SSDも採用",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペジョブ企業",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国家主導の打ち上げに加えて、民間ロケット企業が次々と参入し、海南省には商業ロケット専用の発射場も整備されました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "工場の生産ラインを1本から2本に増やすのと同じ発想だと考えると分かりやすいでしょう",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ただ、民間企業にとって発射台が1つしかない状況は、失敗後の立て直しにも時間がかかることを意味します",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【2026年】世界のロケット打ち上げ予定まとめ｜株式会社天地人",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年】世界のロケット打ち上げ予定まとめ",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "天地人は、2050年にも持続可能な地球環境を目指して活動するJAXA認定ベンチャーです。宇宙ビッグデータをWebGISサービス「天地人コンパス」で解析・可視化することで、まだ誰も気付いていない土地の価値や地球の資源を明らかにするサービスを提供しています。",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界のロケット打ち上げ回数は急増を続けています。",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2020年の114回から2024年には259回となり、わずか4年間で2倍以上に成長しました。",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に、SpaceX社のStarlinkを主とした低軌道通信衛星コンステレーションの構築が進んだことで、打ち上げの回数そのものが大きく押し上げられているといえます。",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "以降、この成長トレンドは進み、2026年以降の継続も期待されます。",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本記事では、日本国外で2026年に予定されている打ち上げミッションを、以下の4つのテーマに分けて詳しく解説します。",
+    "url": "https://note.com/tenchijincompass/n/n91af746fcbca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年】日本のロケット打ち上げ予定まとめ｜株式会社天地人",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【2026年】日本のロケット打ち上げ予定まとめ",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "天地人は、2050年にも持続可能な地球環境を目指して活動するJAXA認定ベンチャーです。宇宙ビッグデータをWebGISサービス「天地人コンパス」で解析・可視化することで、まだ誰も気付いていない土地の価値や地球の資源を明らかにするサービスを提供しています。",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年から2025年にかけて、日本の宇宙開発は大きな飛躍を遂げました。2024年7月には地球観測衛星「だいち4号」が、同年11月には防衛通信衛星「きらめき3号」が打ち上げに成功。2025年には準天頂衛星「みちびき6号機」が宇宙へ旅立ち、新型宇宙ステーション補給機1号機「HTV-X1」も無事に打ち上げられました。こうした成功の連続により、日本の宇宙輸送能力の信頼性は大きく向上しています。",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして迎えた2026年。火星を目指す探査機の旅立ち、そして宇宙安全保障を強化する新たな衛星群の配備など、注目のミッションが予定され、日本の宇宙開発がさらに飛躍すると期待されています。",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本記事では、2026年度に予定されている日本のロケット打ち上げミッションについて、詳しくご紹介していきます。",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※打ち上げ予定は変更になる可能性があります。最新情報はJAXA、内閣府、各プロジェクトのHPなどの公式サイトでご確認ください",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2．ZERO初号機／インターステラテクノロジズ株式会社",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケット9号機、打ち上げ準備着々 新たなシステムの試験や初運用も ｜探検された天の世界 - Celestial Worlds Explored",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケット9号機、打ち上げ準備着々 新たなシステムの試験や初運用も",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "探検された天の世界 - Celestial Worlds Explored",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙航空研究開発機構（JAXA）は2026年8月5日、H3ロケット9号機の打ち上げ前ブリーフィングを開催した。",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "打ち上げは8月10日に予定されている。会見では、今回のミッションの概要に加え、機体の準備状況、8号機の失敗を踏まえた対策などについて説明が行われた。",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "9号機は、8号機の失敗後、初めて実用衛星を搭載して打ち上げるミッションとなる。さらに、冗長複合航法システム（RINS）の初運用や、自律飛行安全システムの2回目の飛行実証も行われる。6号機で再起を果たしたH3は、9号機で新たな段階に挑む。",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケットの打ち上げ。写真は9号機と同じ22形態を用いた4号機のもの",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケット9号機は、準天頂衛星システム「みちびき7号機」を、最終的な準静止軌道へ移るための準静止遷移軌道に投入する。ロケットの飛行計画上は、通常の静止トランスファー軌道（GTO）への打ち上げと同じ種類のミッションとして扱われる。",
+    "url": "https://note.com/celestial_worlds/n/nf1b7d0d98741",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "「人材育成実施方針」",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セキュリティー人材 争奪戦に",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙業界では現在、様々な企業が人材を募集している",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "業界特化型の人材マッチングサービス「スぺジョブ」",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペジョブは、宇宙産業に本気で働きたい人を支援する人材マッチングプラットフォームです",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙業界では現在、様々な企業が人材を募集している",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "業界特化型の人材マッチングサービス「スペジョブ」",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペジョブは、宇宙産業に本気で働きたい人を支援する人材マッチングプラットフォームです",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "9-3. ハードル3：地域との調整と人材",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "3つ目のハードルは、射場の周辺地域との調整と人材です",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、ロケットの組み立てや打ち上げ運用には、専門的な技能を持つ人材が必要です",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年30回の実現には、射場の整備に加え、ロケットの信頼性、衛星の需要、地域との調整と人材という3つのハードルを越える必要があります",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのためには、射場、ロケット、衛星、地域、人材のすべてを同時に前に進めなければなりません",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙戦略基金事業 技術開発テーマ「ＳＸ技術シーズ統合・人材育成拠点（ＳＸ－ＣＲＡＮＥ）」（第三期）",
+    "url": "https://grant-search.com/agency/jaxa/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NASA Awards Enable Research, Technology to Build Future Workforce",
+    "url": "https://www.nasa.gov/kennedy/launch-services-program/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "防衛省が令和7年度概算要求を公表 ～力を入れる宇宙関連分野は？",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省が令和7年度の予算編成に向けた要求書を公表！今回は、防衛省の最新の概算要求から、宇宙関連分野における具体的な取り組みとその背景、そして...",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：防衛省・航空自衛隊",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、防衛省は「多軌道観測衛星実証機」の開発も進めています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "打ち上げコストの大幅な削減や、官公庁・研究機関向けのミッションでの活用が期待されています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "各機関からの要求を受けて衛星の運用を行い、実証機器の実験データおよび実験実施時の環境データを提供します",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "OEM・業務用製品",
+    "url": "https://www.astroarts.co.jp/article/hl/a/14538_h3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省、衛星を迅速に打ち上げるための調査研究を開始｜民間ロケット活用も視野",
+    "url": "https://space-connect.jp/h3f10-mmx/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内4射場の発射台増設と760億円要求の意味を読み解く",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2027年度予算の概算要求には、関連経費として760億円程度を盛り込みました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算面では、経産省が2027年度予算の概算要求で、関連経費として760億円程度を求めました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ここで押さえておきたいのは、760億円はあくまで概算要求の段階の数字だということです",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、経産省の2027年度概算要求は総額で約7兆7900億円にのぼり、その多くはAIや半導体に向けられています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "文部科学省は2027年度予算の概算要求で、H3の打ち上げ能力の強化などに235億円を盛り込みました",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の760億円の要求は、その流れのなかにある政策だと読むことができます",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "8-1. 経産省：射場増強に760億円程度（2027年度概算要求）",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回報じられた経産省の要求です",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "8-2. 文科省：H3の打ち上げ能力強化に235億円（2027年度概算要求）",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "私はこれまで20年以上にわたり、国内の法人企業、通信・放送事業者、官公庁・自治体、安全保障分野など、あらゆるお客様に衛星通信ネットワークや衛星ソリューションを提供してまいりました",
+    "url": "https://i-qps.net/news/2618/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "We offer comprehensive support that extends beyond launch arrangements. By integrating capabilities such as component procurement, space talent development, and mission formulation, we provide practical and integrated to solutions to enable the realization of your space objectives.",
+    "url": "https://www.space-bd.com/en/business/infrastructure/launch.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "expansion of public procurement from start-ups.",
+    "url": "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The government is accelerating the use of remote sensing data by both public and private sectors through granting subsidies, expanding procurement, and supporting technology development. Indeed, some emerging private companies, such as Synspective Inc., Axelspace Corporation and iQPS, Inc., operate satellite remote sensing and satellite data utilisation businesses.",
+    "url": "https://practiceguides.chambers.com/practice-guides/space-law-2026/japan/trends-and-developments",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "宇宙航空研究開発機構",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙航空研究開発機構法",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "革新的な技術を創出する研究開発",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAリポジトリ / AIREX",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人宇宙航空研究開発機構",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙航空研究開発機構（JAXA）は、H3ロケット10号機による火星衛星探査機（MMX）の打上げについて、下記のとおり実施いたします",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発部門",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙航空研究開発機構",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "開票前のNY市場は少し下げて取引終了 中間選挙次第でAI株下落も",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "文学に人間は必要か AIと深く交わる人に会う旅 高橋源一郎さん",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の宇宙航空研究開発機構（JAXA）は7日、新型ロケット「H3」の打ち上げに失敗し、このロケットを爆破した",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の失敗は日本にとって、イーロン・マスク氏の「スペースX」社が先行する宇宙開発領域での大きな挫折だと指摘する声もある",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "全長57メートルの「H3」は、日本が30年ぶりに開発している大型ロケットで、商業衛星や政府衛星を地球周回軌道に送り込むもの",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「H3」は、低コストのエンジンと3Dプリンターで製造した部品を使っているのが特徴",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本はアメリカと宇宙開発協力を深めている",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIは科学研究を脅かしているのか……数学をめぐる論争があおる懸念",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "» 宇宙開発",
+    "url": "https://sorae.info/ssn/20260612-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXA（宇宙航空研究開発機構）は日本時間2026年6月12日に「H3」ロケット6号機の打ち上げを実施しました",
+    "url": "https://sorae.info/ssn/20260612-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙航空研究開発機構",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人 宇宙航空研究開発機構（以下、「 JAXA」という）は、 ２０２ ６年度に",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人宇宙航空研究開発機構",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "射場技術開発ユニット長",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "» 宇宙開発",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙開発の最前線をチェックしよう",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "China Aerospace Science and Technology Corporation",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "China Aerospace Science and Technology Corporation（CASC）",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GO! - SpaceX - Falcon 9 - USSF-432 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SPACE AFFAIRS ・ youtube.com",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Baikonur Cosmodrome, Republic of Kazakhstan 31/6 ・ 打上げ 430回",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この打ち上げでは、ENPULSION, SUNBOOSTER GmbH,およびSynopsis Planet.向けの軌道上実証実験を行うR-Space’s AT-Astra/IOD-01,を含む様々な衛星を搭載します",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SpaceSail Polar Group #17",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "18 Low Earth Orbit の通信衛星は、Ku, QおよびVバンドのペイロードを搭載しており、Shanghai Spacesail Technologiesが運用するG60コンステレーションの一部です",
+    "url": "https://sorae.info/rocket-launch",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3ロケットは、日本の宇宙輸送を担う次世代基幹ロケットとして、2023年の初号機打上げ以降、試験と実運用の両面で運用実績を積み重ねてきた",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "が共同で開発した、日本の次世代基幹ロケットである",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2号機（試験機2号機）では、H3ロケットの飛行実証および性能確認を主目的としたミッションが実施された",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本機は初号機と同様の機体形態を採用し、開発の妥当性を検証する位置付けで打上げが行われている",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本衛星は、宇宙航空研究開発機構が開発した陸域観測技術衛星2号「だいち2号」の後継機にあたり、災害監視や地殻変動の把握などへの活用が想定されている",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また本ミッションでは、将来の高付加価値ミッションに向けた技術実証として、長時間の宇宙飛行（ロングコースト）および2段エンジンの再着火に関するデータ取得も実施された",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "準天頂衛星「みちびき7号機」の軌道投入結果や今後の準静止軌道への移行、ASNAVの軌道上実証について解説",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "7号機では、国際宇宙ステーション（ISS）への物資補給および技術実証を目的とした新型宇宙ステーション補給機「HTV-X1」の打上げが実施された",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "HTV-Xは、従来の補給機「こうのとり（HTV）」の後継機として開発され、物資輸送能力の向上や将来の有人宇宙活動に向けた技術実証を担う機体である",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また本ミッションは、H3ロケットにおいて最大能力となる「H3-24W形態」（固体ロケットブースタ4本搭載）の初飛行であり、大型貨物輸送やISS補給といった高負荷ミッションへの対応能力を実証する位置付けでもあった",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年から2025年にかけて、日本の宇宙開発は大きな飛躍を遂げました",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "火星を目指す探査機の旅立ち、そして宇宙安全保障を強化する新たな衛星群の配備など、注目のミッションが予定され、日本の宇宙開発がさらに飛躍すると期待されています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAが担うロケット開発と火星への挑戦",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SDAとは「Space Domain Awareness（宇宙領域把握）」の略です",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、防衛省は「多軌道観測衛星実証機」の開発も進めています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この衛星は、静止軌道上での宇宙領域把握をはじめとする宇宙監視、情報収集、宇宙作戦能力の向上に必要となる技術の軌道上実証を目的としています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの宇宙安全保障関連の衛星は、民間事業者との連携により開発が進められており、2026年度の打ち上げを目指しています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この計画の一環として開発が進められているのが「光学多様化1号機」です",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社が開発する小型ロケット「カイロス」は固体燃料を採用しており、事前に燃料を充填できるため",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特典（先着順）もあり、一般の人々が民間宇宙開発に参加できる貴重な機会となっています",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙航空研究開発機構",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人 宇宙航空研究開発機構（以下、「 JAXA」という）は、 ２０２ ６年度に",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国立研究開発法人宇宙航空研究開発機構",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "射場技術開発ユニット長",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "宇宙開発・防衛",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "小型月着陸実証機（SLIM）",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense/launch-service/past-missions",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "H3 ロケット 10号機による火星衛星探査機（MMX）の 打上げ — H3 ロケット 10号機による火星衛星探査機（MMX）の 打上げ JAXA｜宇宙航空研究開発機構 https://www.jaxa.jp > press > 2026/08 > 20260820-1_j",
+    "url": "https://www.jaxa.jp/press/2026/08/20260820-1_j.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 6号機 打ち上げ の瞬間 鹿児島・種子島 ... - YouTube — H3 ロケット 6号機 打ち上げ の瞬間 鹿児島・種子島 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=CEJhbZIj2uo",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 6号機 打ち上げ 成功 半年前の失敗から再起かけた新 ... — H3 ロケット 6号機 打ち上げ 成功 半年前の失敗から再起かけた新 ... 朝日新聞 https://www.asahi.com > articles",
+    "url": "https://www.asahi.com/articles/ASV6B3JCKV6BUTFL00TM.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の「H3」 ロケット 、 打ち上げ 失敗 指令破壊 - BBC ニュース — 日本の「H3」 ロケット 、 打ち上げ 失敗 指令破壊 - BBC ニュース BBC https://www.bbc.com > japanese",
+    "url": "https://www.bbc.com/japanese/64871869",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAが「H3」 ロケット 6号機を 打ち上げ 2段目の軌道投入を ... — JAXAが「H3」 ロケット 6号機を 打ち上げ 2段目の軌道投入を ... sorae 宇宙へのポータルサイト https://sorae.info > 打ち上げ情報",
+    "url": "https://sorae.info/ssn/20260612-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 6号機の 打上げ パブリックビューイング！ — H3 ロケット 6号機の 打上げ パブリックビューイング！ 日本科学未来館 https://www.miraikan.jst.go.jp > events > 202606104570",
+    "url": "https://www.miraikan.jst.go.jp/events/202606104570.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026 年度 ロケット打上げ 計画書 - JAXA — 2026 年度 ロケット打上げ 計画書 - JAXA JAXA｜宇宙航空研究開発機構 PDF https://www.jaxa.jp > files > jaxa20260820-1_01",
+    "url": "https://www.jaxa.jp/press/2026/08/files/jaxa20260820-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット の 打上げ 実績とスケジュール｜日本の宇宙輸送を ... — H3 ロケット の 打上げ 実績とスケジュール｜日本の宇宙輸送を ... space-connect.jp https://space-connect.jp > Business",
+    "url": "https://space-connect.jp/h3-mission/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【LIVE配信】H3 ロケット 9号機 打ち上げ （ 2026年 8月 11 日） — 【LIVE配信】H3 ロケット 9号機 打ち上げ （ 2026年 8月 11 日） YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=XY8ar2Ig13s",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【 2026年 】日本の ロケット打ち上げ 予定まとめ - note — 【 2026年 】日本の ロケット打ち上げ 予定まとめ - note note https://note.com > 科学・テクノロジー > 宇宙科学",
+    "url": "https://note.com/tenchijincompass/n/n4a1fc921430b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スペースX、米宇宙軍から新たに16億ドルの ロケット打ち上げ ... — スペースX、米宇宙軍から新たに16億ドルの ロケット打ち上げ ... Reuters https://www.reuters.com > economy > 6EZFNPCSFVMZ3...",
+    "url": "https://www.reuters.com/jp/economy/6EZFNPCSFVMZ3CPQ3745VK6XO4-2026-07-29/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026 年度 ロケット打上げ 計画書 - JAXA — 2026 年度 ロケット打上げ 計画書 - JAXA JAXA｜宇宙航空研究開発機構 PDF https://www.jaxa.jp > files > jaxa20261018-1_01",
+    "url": "https://www.jaxa.jp/press/2026/10/files/jaxa20261018-1_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット - Wikipedia — H3 ロケット - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > H3ロケット",
+    "url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ロケット 射場増強で年30回へ 発射台1つの日本は宇宙輸送の ... — ロケット 射場増強で年30回へ 発射台1つの日本は宇宙輸送の ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基幹 ロケット 及び民間 ロケット ・ 射場支援の現状と今後 ... — 基幹 ロケット 及び民間 ロケット ・ 射場支援の現状と今後 ... 内閣府ホームページ PDF https://www8.cao.go.jp > space > yuso-dai9 > siryou2",
+    "url": "https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai9/siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【 ロケット打ち上げ 予定のお知らせ】 H3 ロケット ... - Facebook — 【 ロケット打ち上げ 予定のお知らせ】 H3 ロケット ... - Facebook Facebook https://www.facebook.com > posts > ロケット打ち上げ予...",
+    "url": "https://www.facebook.com/100054789316705/posts/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E4%BA%88%E5%AE%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-h3-%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88-10-%E5%8F%B7%E6%A9%9F%E3%81%AB%E3%82%88%E3%82%8B%E7%81%AB%E6%98%9F%E8%A1%9B%E6%98%9F%E6%8E%A2%E6%9F%BB%E6%A9%9Fmmx%E3%81%AE%E6%89%93%E4%B8%8A%E3%81%92-august-20-2026-jaxa%E5%AE%87%E5%AE%99%E8%88%AA%E7%A9%BA%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8Bjaxa/1851735273329432/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 6号機、 打ち上げ 成功 - アストロアーツ — H3 ロケット 6号機、 打ち上げ 成功 - アストロアーツ アストロアーツ https://www.astroarts.co.jp > article",
+    "url": "https://www.astroarts.co.jp/article/hl/a/14538_h3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年 、南の島が揺れた——H3 ロケット 本格稼働で変貌する ... — 2026年 、南の島が揺れた——H3 ロケット 本格稼働で変貌する ... thespaandgym.com https://thespaandgym.com > machida-wave",
+    "url": "https://thespaandgym.com/machida-wave/9427564/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAが6月10日予定のH3 ロケット 6号機 打ち上げ 準備や8号機 ... — JAXAが6月10日予定のH3 ロケット 6号機 打ち上げ 準備や8号機 ... sorae 宇宙へのポータルサイト https://sorae.info > 宇宙開発",
+    "url": "https://sorae.info/space/20260513-h3f6.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット打ち上げ 成功！日本の宇宙産業に成長期待（窪田 ... — H3 ロケット打ち上げ 成功！日本の宇宙産業に成長期待（窪田 ... media.rakuten-sec.net https://media.rakuten-sec.net > articles",
+    "url": "https://media.rakuten-sec.net/articles/-/52687",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（追加公募）高頻度 打上げ に資する ロケット 部品 ... — （追加公募）高頻度 打上げ に資する ロケット 部品 ... JAXA宇宙戦略基金 https://fund.jaxa.jp > techlist > theme2_19-2",
+    "url": "https://fund.jaxa.jp/techlist/theme2_19-2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 2号機 打ち上げ 小型衛星2機の分離に成功 — H3 ロケット 2号機 打ち上げ 小型衛星2機の分離に成功 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/702181",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "H3 ロケット 9号機は 11 日午前4時23分に種子島宇宙センター ... — H3 ロケット 9号機は 11 日午前4時23分に種子島宇宙センター ... Facebook https://www.facebook.com > ... > テレ朝news > Videos",
+    "url": "https://www.facebook.com/tvasahinews/videos/h3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%889%E5%8F%B7%E6%A9%9F%E3%81%AF11%E6%97%A5%E5%8D%88%E5%89%8D4%E6%99%8223%E5%88%86%E3%81%AB%E7%A8%AE%E5%AD%90%E5%B3%B6%E5%AE%87%E5%AE%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%8B%E3%82%89%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%82%89%E3%82%8C%E3%81%8A%E3%82%88%E3%81%9D29%E5%88%86%E5%BE%8C%E3%81%AB%E6%90%AD%E8%BC%89%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%BF%E3%81%A1%E3%81%B3%E3%81%8D7%E5%8F%B7%E6%A9%9F%E3%82%92%E8%A8%88%E7%94%BB%E3%81%AE%E8%BB%8C%E9%81%93%E3%81%AB%E6%8A%95%E5%85%A5%E3%81%97%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AF%E6%88%90%E5%8A%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/1064094002673734/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-04T00:41:07.637363+00:00"
+}
