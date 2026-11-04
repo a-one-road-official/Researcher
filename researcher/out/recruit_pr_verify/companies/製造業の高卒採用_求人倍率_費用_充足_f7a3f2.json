@@ -1,0 +1,2285 @@
+{
+ "name": "製造業の高卒採用（求人倍率・費用・充足）",
+ "en": "high school graduate hiring manufacturing job ratio cost",
+ "aliases": [
+  "高卒 求人倍率 製造業",
+  "高卒採用 費用 製造業",
+  "高卒 採用 充足率 工場"
+ ],
+ "context": "②③採用難・採用費",
+ "kind": "market",
+ "researched_at": "2026-11-04T14:59:35.026498+00:00",
+ "evidence": {
+  "社数（規模別）": [
+   {
+    "quote": "2027年卒の求人を企業規模別に前年と比較すると、29人以下企業は15万292人から14万4368人へ3.9％減、30～99人企業は14万2700人から13万8996人へ2.6％減、100～299人企業も8万8137人から8万7525人へ0.7％減となった",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "29人以下 30～99人 100～299人 300～499人 500～999人 1000人以上",
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業（300〜999名）",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   }
+  ],
+  "採用難（公的統計）": [
+   {
+    "quote": "これに対して求職者数（就職を希望する生徒数）は12万7435人、求人倍率は3.60倍である",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率3.60倍という数字だけを見れば、極端な売り手市場である",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率は10年で1倍から3倍以上へ",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年卒の7月末時点の状況は、求人数23万8462人に対して求職者数18万6462人、求人倍率は1.28倍だった",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍によって2021年卒では求人数が33万5752人まで減少し、求人倍率も2.08倍へ低下したものの、その後は再び上昇する",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "就職氷河期と言われる時期、例えば2003年卒の7月末求人倍率は0.50倍だった",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表2 高校卒の求人倍率（各年7月時点）",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "求職者数は12万7435人と前年の12万6474人からわずかに増え、求人倍率も3.69倍から3.60倍へ低下した",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "出所：高校卒/厚生労働省,「『高校・中学新卒者のハローワーク求人に係る求人・求職状況』取りまとめ（7月末現在）」大学卒/リクルートワークス研究所「ワークス大卒求人倍率調査」より筆者作成",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、高校卒採用市場は求人倍率3.6倍である",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在、製造業の有効求人倍率は高止まりを続けており、特に現場の技術職や生産管理職では「1人の求職者を複数の企業が奪い合う」激戦状態です",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "物流業界の人手不足の原因と対策｜ドライバーと倉庫で違う不足の中身と2026年の法改正",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "高卒新卒の求人倍率は4.10倍（厚生労働省 令和7年3月末現在）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "1. 全国の求人倍率推移",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "3. 学科別の求人倍率と就職率",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "高卒の求人倍率は過去30年で最も高い水準にある",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が公表する「高校・中学新卒者のハローワーク求人に係る求人・求職状況」によると、令和7年3月卒の求人倍率は4.10倍で過去最高を更新しました",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率4.10倍とは、高校生1人に対して4件以上の求人がある状態です",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校の求人倍率は31.9倍で、高卒全体（4.10倍）を大きく上回る",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県の高卒求人倍率は4.82倍で、全国の4.10倍を上回る（いずれも令和7年3月末現在）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の取りまとめによると、2026年3月に高校を卒業した生徒のハローワーク求人は、求人数498,722人に対して求職者121,175人、求人倍率4.12倍でした",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "（資料出所） リクルートワークス研究所 「第42回ワークス大卒求人倍率調査（2026年卒） 」 ※2025年1月23日～2月28日",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リクルートワークス研究所 「第43回ワークス大卒求人倍率調査（2027年卒） 」 ※2026年1月23日～3月2日",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）2021年3月卒の求人倍率について、企業調査は2020年6月に実施されている",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 2027年３月卒業予定の大学生・大学院生対象の大卒求人倍率は、1.62倍",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年３月卒の大卒求人倍率 】･･･従業員1,000人以上の企業：0.72倍、1,000人未満の企業：3.62倍、300人未満の企業：8.98倍",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 2026年3月卒の業種別大卒求人倍率は、流通業が8.77倍（前年比7.44ポイント低下）、建設業が8.55倍（前年",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "比0.8ポイント低下）と高い倍率となっている一方で、金融業の求人倍率は0.21倍（前年比0.02ポイント低下）となっ",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（資料出所） リクルートワークス研究所 「第42回ワークス大卒求人倍率調査（2026年卒） 」 ※調査期間：（注）※2025年1月23日～2月28日",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月卒の求人倍率について、企業調査は2020年6月に実施されている",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～求人数は 17,565 人、求人倍率は 3.44 倍で、ともに過去最高～",
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率（倍） 3.44 3.34 - 0.1",
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．求人数・求職者数・求人倍率の推移（各年７月末現在）",
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◎求人倍率は 3.44 倍で、前年同期に比べ 0.1 ポイント上回った",
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．職業別求人状況",
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別では専門・技術・管理の増加数が最も大きく、181 人の増加となった",
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年春の大卒の内定率が過去最高の92.6%というニュースが話題ですが、実は今、高卒者の求人倍率も空前の高まりを見せています",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月卒の高卒者の求人倍率は全国平均で3.98倍",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "大卒の求人倍率が1.75倍である（※2）ことと比べても高い状況で、2025年卒においてはさらに高い求人倍率になるとも予想されています",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "工業高卒者の求人倍率は過去最高の20.6倍",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率は20倍を超え、就職率は例年ほぼ100％を達成",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "リクルートワークス研究所「大卒求人倍率調査（2025年卒）」",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の高卒採用｜求人倍率・採用戦略・鋳造業も解説【2025年版】 | ゆめスタ",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の高卒求人倍率は全国平均で3.0倍を超える水準",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "逆に、求人票のみで応募を待つ企業の充足率は40%以下にとどまっています",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "年60万円の資格手当が18歳を動かす 高卒求人倍率3.6倍、「稼いで学ぶ」という第3の進路｜宮野宏樹",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "年60万円の資格手当が18歳を動かす 高卒求人倍率3.6倍、「稼いで学ぶ」という第3の進路",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の集計によれば、この学年の求人倍率は7月末時点で3.60倍",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省によると、2027年春の卒業直後に就職を希望する高校生の求人倍率は、2026年7月末時点で3.60倍でした",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "前年、つまり2026年3月卒の生徒について2025年7月末時点で集計された数字は、求人数が約46万7千人、求職者数が約12万6千人、求人倍率が3.69倍でした",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "就職氷河期と呼ばれた2000年代初頭、高卒求人倍率は1倍を割り込む時期すらありました",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率3.60倍という数字は、企業から見れば「3.6社で1人の生徒を奪い合っている」という意味でもあります",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率3.60倍という数字は、この現実を数学的に裏づけています",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞「高校生の就活選考解禁 求人倍率3.6倍、西武プリンス資格手当年60万円 ビジネスTODAY」2026年9月16日 電子版",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "注：本文中の2026年7月末時点の高卒求人数（およそ45万9千人）は、報じられた求人倍率3.60倍と求職者数12万7435人から筆者が逆算した推計値です",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "次いで「人手不足の解消」（52.5%）、「将来の中核人材の確保」（50.2%）だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "高校生の就活選考解禁 求人倍率3.6倍、西武プリンス資格手当年60万円",
+    "url": "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率は2024年時点で全業種平均を大きく上回り、特に若年層（18～25歳）の応募が激減している状況です",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の「職業安定業務統計」によれば、製造業（機械・電気・金属製品）の新規求人倍率は2023年で3.2倍に達し、充足率は全業種で最も低い水準となっています",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省のデータによると、製造業における有効求人倍率（2024年末時点）は平均1.9倍を超え、特に溶接・機械加工といった技能職では3倍以上というケースも珍しくありません",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "2015年卒でも100人未満企業の割合は56.7％だったから、むしろこの10年間の高校卒求人増を量的に支えてきたのは中小企業であった",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、コロナ禍収束後の数年間で見えてきているのは、高校卒採用に大企業がじわじわと浸透し、そして1000人以上の大手企業が本格的に参入し始めている状況である",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "高校卒初任給は30万円近く（※5）、4歳上の大学卒同期と遜色ない活躍をしているため今後さらに採用数を増やす方針だそうだ",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、5年以上採用ゼロだった企業が開始3ヶ月で採用を実現した事例や、応募数10倍・採用単価1/2といった実績も生まれています",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "5年間の減少数",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "令和2年3月卒（182,634人）から令和7年3月卒（128,914人）までの5年間で、就職希望者は約5万4千人減少しました",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年3月卒の高校卒業者のうち就職希望者は約12万9千人（全体の13.8%）で、令和2年3月卒から5年間で約5万4千人減少しています",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "400万円以上",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "607万円 → 300万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "入社後の3年間を、最初の1週間から設計する",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "高卒平均：37.9% 大卒平均：33.8%",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○正規雇用労働者は3,700万人と55万人の増加（2025年平均",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（資料出所）1999年までは総務省「労働力調査（特別調査）」（ 2月調査）長期時系列表9、2004年以降は総務省「労働力調査（詳細集計）」（年平均）長期時系列表 10",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "頼れるアシスタントが月額2.5万円で多種多様な業務をサポート",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月卒の高卒者の求人倍率は全国平均で3.98倍",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の高卒求人倍率は全国平均で3.0倍を超える水準",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "日本の鋳物生産量は年間約500万トンで、世界第3位の規模を誇ります",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "若手や女性の採用・定着のための制度導入に対し、目標達成時に最大120万円を支給",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "非正規社員の正社員転換、賃金引上げ等に最大80万円/人",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の設備投資・技術開発に最大1,250万円（一般型）",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "400万円以上",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "607万円 → 300万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "年60万円の資格手当が18歳を動かす 高卒求人倍率3.6倍、「稼いで学ぶ」という第3の進路｜宮野宏樹",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "年60万円の資格手当が18歳を動かす 高卒求人倍率3.6倍、「稼いで学ぶ」という第3の進路",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "西武・プリンスホテルズワールドワイドが導入した月最大5万円、年換算で60万円の資格手当は、その象徴です",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "3. 西武・プリンスホテルズの年60万円",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "「入社後研修や指導などを充実させていて、4年間大学に通うよりも専門性を育んでくれるような企業が増えている」",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "仕事に関連する複数の資格を取得すれば、難易度や貢献度に応じて月最大5万円が給与に上乗せされます",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "年間で60万円",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "高卒初任給の水準が月20万円台前半であることを踏まえると、月給の4分の1近くが資格取得によって上乗せされうる設計です",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "従来は海外のホテルで1年間の研修を積むというものでしたが、より多くの社員が挑戦できるよう、1週間などの短期派遣プログラムを2027年度に始めます",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "1年間の海外研修は、選ばれた少数の社員にとっては強烈な経験ですが、家庭の事情や職場の人員配置の都合で手を挙げられない人も多い",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "学歴や年次を問わず実績を積めば上位職に上がれる等級制度を導入し、月最大3万円の資格手当も取り入れています",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "加えて2025年からは、勤務する空港の近辺に、入社後3年間居住できる社員寮を整備しました",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "借り上げ社宅の家賃上限を一律1万円増額し、新卒社員の初任給を一律9000円引き上げています",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "佐川急便は2024年度から、入社後にトラックを運転するのに必要な免許の取得費用を最大50万円負担するほか、業務に関連する資格を取得した社員には祝い金を支給しています",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "高校生の就活選考解禁 求人倍率3.6倍、西武プリンス資格手当年60万円",
+    "url": "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率は2024年時点で全業種平均を大きく上回り、特に若年層（18～25歳）の応募が激減している状況です",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "実際、当社支援クライアントのデータ分析では、SNS経由採用者の3ヶ月離職率は従来媒体経由採用者と比べて平均で33%低いという結果が出ています",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "TikTokに比べ利用者の平均年齢が高く（20代～30代が中心）、企業イメージを長期的に形成する用途に向いています",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "当社支援クライアント分析では、この企画の動画は再生数平均2.3万回、いいね数平均1,200いいね、コメント数平均150件を記録しており、全企画の中で「化け物的な安定性」を持っています",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、「新入社員の年間給与内訳」「3年目職人の月給推移」「役職者の年俸例」など、ステップアップに応じた「報酬体系の可視化」が効果的です",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "採用媒体費年500万円を費やしても、面接希望者は年間3～5名程度",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "面接希望者：3名/年→10名/3ヶ月、年間40名に増加",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "LINE公式登録：0名→年間576名",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "採用者数：年間2名→年間15名に急増",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "採用媒体費削減：500万円→250万円に圧縮しつつ、採用人数は7.5倍増",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "「月給35万、年間ボーナス100万」という数字が、若い世代の不安を払拭しました",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "採用者数：年間2名→年間8名",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "採用媒体費：350万円→180万円に削減",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "採用媒体費が年600万円を超えても、採用人数は安定していない",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "エンゲージメント率：平均3.2%（業界平均2.1%）",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省のデータによると、製造業における有効求人倍率（2024年末時点）は平均1.9倍を超え、特に溶接・機械加工といった技能職では3倍以上というケースも珍しくありません",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "紹介手数料（年収の20〜35％）",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "結果： 投稿から2ヶ月で問い合わせ10件、年間20名の応募・5名採用に成功",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "直近2年間の新入社員の離職率が0％に",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "30万〜60万円：LP（1ページのサイト）",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "80万〜150万円：一般的なホームページ",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "150万〜300万円：ホームページ＋ブランディング",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "200万〜500万円：ホームページ＋オウンドメディア",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "高校卒初任給は30万円近く（※5）、4歳上の大学卒同期と遜色ない活躍をしているため今後さらに採用数を増やす方針だそうだ",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "400万円以上",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "607万円 → 300万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "の7項目は「製造業の採用サイト制作」の記事にあります",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校には1校に2,000〜4,000通の求人票が届き、いまは「ハンディ進路指導室」というサービスで求人票をスキャンして、生徒が家で親とスマートフォンで見る学校が増えている、と採用の実務家が話していました（「製造業の採用サイト制作」の記事で紹介）",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "頼れるアシスタントが月額2.5万円で多種多様な業務をサポート",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "20代の若手社員に密着した1〜3分程度の動画を作成し、採用サイトやSNSで発信します",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "若手や女性の採用・定着のための制度導入に対し、目標達成時に最大120万円を支給",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "非正規社員の正社員転換、賃金引上げ等に最大80万円/人",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の設備投資・技術開発に最大1,250万円（一般型）",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "400万円以上",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "607万円 → 300万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "年60万円の資格手当が18歳を動かす 高卒求人倍率3.6倍、「稼いで学ぶ」という第3の進路｜宮野宏樹",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "年60万円の資格手当が18歳を動かす 高卒求人倍率3.6倍、「稼いで学ぶ」という第3の進路",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "西武・プリンスホテルズワールドワイドが導入した月最大5万円、年換算で60万円の資格手当は、その象徴です",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "3. 西武・プリンスホテルズの年60万円",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "仕事に関連する複数の資格を取得すれば、難易度や貢献度に応じて月最大5万円が給与に上乗せされます",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "年間で60万円",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "高卒初任給の水準が月20万円台前半であることを踏まえると、月給の4分の1近くが資格取得によって上乗せされうる設計です",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "学歴や年次を問わず実績を積めば上位職に上がれる等級制度を導入し、月最大3万円の資格手当も取り入れています",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "借り上げ社宅の家賃上限を一律1万円増額し、新卒社員の初任給を一律9000円引き上げています",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "佐川急便は2024年度から、入社後にトラックを運転するのに必要な免許の取得費用を最大50万円負担するほか、業務に関連する資格を取得した社員には祝い金を支給しています",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "金銭面で見れば、2年間で数百万円規模の差が生じる計算になります",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "西武・プリンスホテルズが年60万円の資格手当を用意し、佐川急便が50万円の免許費用を負担するのは、この競争のなかで選ばれるための投資です",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "年60万円の資格手当、50万円の免許取得費用、3年間の社員寮、1年間の海外研修",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "高校生の就活選考解禁 求人倍率3.6倍、西武プリンス資格手当年60万円",
+    "url": "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "企画6：「社員インタビュー」動画（具体的なロールモデル提示）",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "採用媒体費年500万円を費やしても、面接希望者は年間3～5名程度",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "採用媒体費削減：500万円→250万円に圧縮しつつ、採用人数は7.5倍増",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "採用媒体費：350万円→180万円に削減",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "採用媒体費が年600万円を超えても、採用人数は安定していない",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "30万～50万円",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "15万～30万円",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、編集や企画まで外注する場合は月15万～50万円が目安となります",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の支援クライアント分析では、最初は月20万円～30万円の「ハイブリッド体制」（撮影・編集は外注、企画・投稿は内製）からスタートするのが、費用対効果の観点から最適だという結果が出ています",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "当社支援クライアントD社（建設関連）では、最初の3ヶ月は月30万円の外注費をかけていましたが、その間にスタッフのスキルアップを集中的に行い、4ヶ月目以降は完全内製化",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "費用を月5万円に圧縮しつつ、投稿品質はむしろ向上したという実績があります",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "SNS運用は若手社員2人が主体となり、制作費ゼロ",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "今すぐ出来る節電術5選！電気代が年間1万円以上安くなる！？",
+    "url": "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "◤最大100万円支給◢ 売上アップにも繋がる、小規模事業者持続化補助金を解説",
+    "url": "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "最大450万円の受け取りが可能！IT導入補助金2021／目的と概要",
+    "url": "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】採用課金プラン徹底比較！中小企業に最適な料金プランの選び方",
+    "url": "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "ウェブサイトの更新情報を",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、管理部門でのリモートワーク導入や、現場でもシフト制を工夫したフレックス的な運用など、可能な限り柔軟な働き方を取り入れる姿勢が、採用競合に対する大きな差別化ポイントとなります",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の採用課題をSNSで解決するなら、建設・運送・製造業に特化した採用SNS運用支援を提供する株式会社アップデートにご相談ください",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "ショート動画やSNSを活用した採用支援を強みに、200を超えるアカウントの運用を支援",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "採用でショート動画は効果ある？現場職で成果を出す設計と運用を解説",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "TikTok運用",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "Instagram運用",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "YouTube運用",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が公表する「高校・中学新卒者のハローワーク求人に係る求人・求職状況」によると、令和7年3月卒の求人倍率は4.10倍で過去最高を更新しました",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "高卒の求人倍率は4.10倍（厚生労働省 令和7年3月末現在）で過去最高を更新した",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "少子化が続く限り高卒の求職者数は減少するため、構造的に倍率の上昇が継続する見込みです",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "WEB広告運用",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "取材と原稿づくりから、公開後の更新まで担当します",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 米国労働省が公開している職業情報データベース（ O*NET ）を参考に、（独）労働政策研究・研修機構（ JILPT ）で開発を行い、 2020 年３月から運用開始",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "頼れるアシスタントが月額2.5万円で多種多様な業務をサポート",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし今年の数字をよく見ると、単なる「売り手市場の継続」では説明のつかない変化が起きています",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "初任給の引き上げは競合他社にすぐ追随されますが、資格支援や研修プログラムは制度と運用の蓄積が必要で、模倣に時間がかかります",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "過去最高水準の更新が続いています",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "制度として掲げた以上、実際に機能させる運用力が問われます",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "「充足していない（内定1名以上、活動継続）」が32.4%、「充足していない（内定1名以上、活動終了予定）」が24.5%です",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "従来の求人媒体は「企業が情報を掲載する」という一方的な形式でしたが、SNS採用は「企業が継続的に発信し、求職者が能動的に情報を集める」という双方向性があります",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、SNSの継続的な発信を見ると、業務の厳しさ、やりがい、人間関係、成長機会が総合的に伝わります",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "また、Instagramは「リール」（短編動画）と「フィード」（静止画）を組み合わせた運用が可能です",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、Instagramで良質なビジュアルを継続発信していれば、自動的にメディア露出が増加し、その結果として採用候補者の視認性が高まります",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "実際、当社支援クライアント100社のうち、Instagramを1年以上運用した企業の68%が、新聞・テレビ・雑誌のメディア掲載を1件以上獲得しています",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "結論：両方運用するのが最適です",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "Instagram（ブランディング重視）とTikTok（認知拡大）の二軸運用",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の「イメージ払拭」という難しい課題に対して、SNSの継続的な発信が有効だったケースです",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "Instagram運用で「企業ブランディング」を強化",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "SNS採用を成功させるための運用体制・費用・KPI設定",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれのメリット・デメリット、想定される月額費用は以下の通りです",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの製造業企業では、最初は「ハイブリッド運用」から始めるのをお勧めします",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "実際、当社支援クライアント100社のうち、75%がハイブリッド体制で運用を開始し、1年後に内製化へシフトしています",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "週4本のペースで投稿を継続",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "LINEで定期的に求人情報や内部ニュース、給与・昇進事例などを配信することで、継続的な応募源になります",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "採用SNS運用代行",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "採用オウンドメディア運用代行",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント：求人票＋動画のハイブリッド運用で反応率アップ",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "若手社員が主体となるSNS運用が信頼感に直結",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "運用にコツが必要",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体だけでは届かない層にアプローチするためには、広告運用の活用も有効です",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "【金額で損しない】SNS運用代行の費用相場は？料金内訳など",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "採用成功事例に共通するのは、「予算の大きさ」ではなく、自社の強み・個性を活かした戦略設計と、継続的な改善の姿勢です",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "SNS運用は若手社員2人が主体となり、制作費ゼロ",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレートサイトや採用サイトなどのホームページ制作、オウンドメディア、Web広告運用、SNS運用まで、あらゆる採用手法の支援を行います",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "採用広報・採用マーケティングの支援を専門に、採用サイト制作、採用ピッチ資料制作、採用動画制作、SNS採用の運用代行と内製化支援に従事",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "【みんないくらかかってる？】一人暮らし・一般家庭の電気代月額平均／地域別・季節別も解説",
+    "url": "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用調整助成金の特例措置 8月末まで継続を決定！",
+    "url": "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "その視点に立った会話ができる企業こそが、継続的に学校からの推薦を獲得できます",
+    "url": "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "毎年継続して訪問し、教員との信頼関係を積み上げていくことが、長期的な採用成功につながります",
+    "url": "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "COURSE部活応援チャンネル事業 SNSメディア運用ポリシー",
+    "url": "https://www.takumi-base.com/hr-branding102/",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "お問い合わせ",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "各種お問い合わせ",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "こちらからお問い合わせください",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別、ハローワークの役割の変化―統計から考える公共職業紹介の再設計④",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークで職探しをする女性はどう変わったか―統計から考える公共職業紹介の再設計③",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークで職探しをする人の3割が60歳以上―統計から考える公共職業紹介の再設計②",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "現在はメガバンクなど金融機関とも提携し、大阪・東京・福岡を拠点に、全国の企業を支援している",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "STAR紹介",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "ゆめスタパートナー紹介",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー紹介",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会ブースデザイン",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校には1校に2,000〜4,000通の求人票が届き、いまは「ハンディ進路指導室」というサービスで求人票をスキャンして、生徒が家で親とスマートフォンで見る学校が増えている、と採用の実務家が話していました（「製造業の採用サイト制作」の記事で紹介）",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政策金融公庫の調査の自由回答に、「応募はあるものの、実際の労働環境や作業内容がわかると辞退するなどミスマッチが多い」（紙器製造業）という声がありました（「製造業の採用で応募が来ない5つの理由」の記事で紹介）",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページのご相談・お見積りは、こちらからお問い合わせください",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "講師 ハローワーク職員、地元企業の人事担当者 等",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○地元企業の担当者を講師とした説明会の開催",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・地元企業による魅力発信、企業が求める人物像や社会人に",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 発達障害に限らず障害があり、障害特性に応じた職業相談・紹介を希望している学生等",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "談・紹介も実施",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・仕事の内容を文章及び90秒程度の動画で紹介",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※求職者数は「学校又は安定所の紹介を希望する者」の数を計上",
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 求職者数は「学校又は安定所の紹介を希望する者」の数を計上",
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、職場見学の時点で業務内容を具体的に紹介したり、入社後は現場の状況を定期的にヒアリングしたり、現場のコミュニケーションをフォローしたりといった施策が考えられます",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "HPやSNSで、現場の様子を写真や動画をまじえて紹介したり、イベントで実際に働いているメンバーを紹介したりすることで、高校生にもイメージしやすくなるでしょう",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "STAR紹介",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "ゆめスタパートナー紹介",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "地元志向の生徒が多い",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー紹介",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞が紹介した埼玉県内の定時制高校4年の女子生徒（18）は、こう語っています",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイターへのお問い合わせ",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "企画2：「福利厚生紹介」動画（不安払拭が目的）",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "企業紹介、給与、福利厚生、仕事内容、職場環境、成長機会を30秒～60秒で総合的に見せる企画です",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "TikTok主軸で「1日の流れ」「給与紹介」「先輩インタビュー」を中心に月12本の投稿を開始",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "「現場の安全対策が手厚い」「年1回の海外インフラ視察」「社長と若手職人の対談」など、「建設業=3K」というイメージを払拭する企画を中心に展開",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "特に「社長と若手職人の対談動画」が1万回以上再生され、企業イメージの改善に大きく貢献しました",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事で紹介した7つの投稿企画パターンと、3ヶ月～1年のKPI目標値を参考に、まずは「試験運用」から始めてみてください",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社の活用法：工数削減＋高マッチ人材の確保",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "現場紹介・社員インタビューを",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "近年、企業紹介動画や現場スタッフのインタビュー動画を採用サイトやSNSに掲載する企業が急増しています",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "若手なのか、ベテランなのか、地元志向なのか、即戦力なのか",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "配属先メンバーの紹介など",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "doda、人材紹介、Indeed広告、Googleリスティング",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "地元志向の層",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "紹介会社（特定技能・育成就労対応）",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における採用成功の秘訣は、「最適なチャネルを単体で使う」のではなく、複数の媒体・広告・紹介を組み合わせてターゲットに最適化することにあります",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "公共機関／地元密着の求人が多い",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "高年齢層・地元志向",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "doda × 紹介会社：経験者やキャリア層の採用に最適",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク × SNS広告：地元志向層＋若年層へのアプローチでバランスを取る",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "従業員100人未満の企業だけで全求人の61.7％を占めていた",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで見てきたような現状もあり、とある大手製造業の工場採用責任者からは「今年はまだ一人も高校生の応募がない",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の採用を成功させるために必要なことは？深刻な人材不足を打破するポイントを解説 | 株式会社アップデート",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "特に最近では、工場の自動化やスマートファクトリー化を推進できる「DX人材」や、AIツールを使いこなせる技術者へのニーズが急増しました",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、実際には多くの工場でクリーンルームの導入や空調完備、安全対策の徹底が進んでおり、他業界よりも快適な環境で働けるケースも少なくありません",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の採用課題をSNSで解決するなら、建設・運送・製造業に特化した採用SNS運用支援を提供する株式会社アップデートにご相談ください",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒業後、株式会社マイナビに入社し、支社立ち上げから課長職までを経験",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アップデート",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "を設立し、代表取締役に就任",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が約4割を占める背景には、工場のライン作業や技術職では即戦力となる高卒人材への需要が根強いことがあります",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ゆめスタ",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "© 株式会社ゆめスタ. All rights reserved.",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "Altora株式会社",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "運営：Altora株式会社",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "© 製造WEB / Altora株式会社",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で従業員規模別・業種別の求人倍率集計に必要",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模別大卒求人倍率の推移",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年３月卒の大卒求人倍率 】･･･従業員1,000人以上の企業：0.72倍、1,000人未満の企業：3.62倍、300人未満の企業：8.98倍",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方で従業員規模別・業種別の求人倍率集計に必要な学",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6）正規雇用労働者：勤め先での呼称が「正規の職員・従業員」である者",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）不本意非正規の割合は、非正規の職員・従業員のうち、現職の雇用形態についた主な理由に関する質問に対して回答した者のうち、当該回答が「正規の職員・従業員の仕事がないから」",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ー自社の従業員の業務や募集する人材が担う業務への理解を促進するー",
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジンジブ「高校新卒採用 企業動向調査」",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "大手工場の進出で採用競争が激化",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "戦略1: 体験型工場見学の実施",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "単なる「見るだけ」の工場見学では記憶に残りません",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "「工場で働くと、将来どうなるのか」が見えない不安を解消します",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "入社1年目・3年目・5年目・10年目のモデル年収を表にし、技能職から班長・係長・工場長へとステップアップするルートを図解します",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "5. 製造業向け支援制度・補助金",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "年間スケジュール（製造業向け）",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "前年度の採用振り返り、求人票の作成準備、工場見学会の企画",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "工場見学に「やってみる」を加え、ものづくりの面白さを体感させる",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ゆめスタ",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "© 株式会社ゆめスタ. All rights reserved.",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "店舗を開けられない、荷物を運べない、工場を動かせない",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "人材確保の成否が、そのまま売上の制約になります",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジンジブ「2026年卒 高卒採用の最新動向調査」（2025年12月9日から10日実施、高卒採用担当者1010人対象）",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジンジブ 高卒採用Lab「高卒3年以内の離職率」",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジンジブ 高卒採用Lab「高卒採用の『一人一社制』ってどんなルールなの？」",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の採用にSNSを活用する方法｜成功事例と投稿企画7パターン【2026年版】｜ブログ｜株式会社Ceeev",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "整理整頓された工場、部品が完成する瞬間、製品が梱包される工程、出荷される様子——これらは映像化すると非常に「映え」やすく、視聴者の興味を引きます",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "TikTokやInstagram上で「Manufacturing Art（製造の芸術性）」という新しいジャンルが成立しており、工場風景の動画が数百万回再生されるケースも増えています",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "整理整頓された工場、忙しそうに動く先輩職人の姿、同期社員との会話、作業の難しさ——すべてが採用希望者の心に届きます",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "事例1：自動車部品メーカーC社（従業員150名、高卒採用主体）",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "事例2：建設関連企業D社（従業員80名、土木・鉄骨作業）",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "事例3：精密機械メーカーE社（従業員200名、大卒採用主体）",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化により若年層が減少し、都市部への人口集中が続く中で、地方の工場や建設現場での採用はますます困難になっていくでしょう",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Ceeev 代表取締役",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "SNSマーケティング会社、インフルエンサーマーケティング企業で営業トップを経験後、2023年にCeeevを創業",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "「KGI（売上）に直結する施策しかやらない」を信条に、100社以上のSNS運用・インフルエンサーPR・広告運用を支援",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の採用が劇的に変わる手法と成功事例｜人材難を乗り越える採用戦略ガイド | 株式会社hypex",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化採用ブランディング",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "写真・動画で工場の魅力を伝える：文字だけでは伝わらない",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "事例③：ハローワーク×工場見学で高齢者層を採用",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社hypex",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "都市部在住の若者と地方工場の距離",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業では、工場の雰囲気や作業の様子を「見せる」ことが応募動機に直結しやすいため、非常に効果的です",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "アイシン産業株式会社のインスタグラム",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "写真・動画で工場の魅力を伝える",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "アイシン産業株式会社 採用サイト",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "物流業界の人手不足の原因と対策｜ドライバーと倉庫で違う不足の中身と2026年の法改正",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "が70.4％、「人材不足のため」が50.8％、「高卒採用が自社に合っているため」が29.3％という回答結果に（※6）",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が39.9％と圧倒的1位",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年には昇格・登用の制度を見直し、希望者が上位職や新しい職種に挑戦できるよう枠を広げました",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "学歴や年次を問わず実績を積めば上位職に上がれる等級制度を導入し、月最大3万円の資格手当も取り入れています",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "求人票の改善項目では「給与・賞与」39.6%、「休日日数」30.4%、「勤務地」27.8%が上位です",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "ジンジブ調査で「先生への電話連絡」が40.5%と上位に来るのは、そのためです",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "pass": 3
+   },
+   {
+    "quote": "次いで「人手不足の解消」（52.5%）、「将来の中核人材の確保」（50.2%）だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "「学芸会のような議会」「1人1社の高校就活」慣習が人材確保阻む？",
+    "url": "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "職人育成に10年単位の時間がかかる業界では、若い世代の確保が経営課題の筆頭です",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "介護施設のSNS採用戦略｜人材不足を解消するInstagram・TikTok活用法【2026年版】",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "課題： 応募ゼロが1年以上続き、若手社員が定着せず人手不足が慢性化",
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "pass": 3
+   }
+  ],
+  "作る側の原価": [
+   {
+    "quote": "当社支援クライアントD社（建設関連）では、最初の3ヶ月は月30万円の外注費をかけていましたが、その間にスタッフのスキルアップを集中的に行い、4ヶ月目以降は完全内製化",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ブルーカラー職が高卒者求人倍率4.12倍で人気急上昇 / X AIの進化でホワイトカラーが不安定化する一方、建設業や製造業のブルーカラー職が高卒者の求人倍率過去最高の4.12倍に達し、未経験初任給30万円、職人年収800万円超の好条件が若者や転職者を引きつけている。",
+    "url": "https://x.com/i/trending/2074343492126490775",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "30",
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "quote": "高校卒初任給は30万円近く（※5）、4歳上の大学卒同期と遜色ない活躍をしているため今後さらに採用数を増やす方針だそうだ"
+   },
+   {
+    "value": "400",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "quote": "400万円以上"
+   },
+   {
+    "value": "607",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "quote": "607万円 → 300万円"
+   },
+   {
+    "value": "300",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "quote": "607万円 → 300万円"
+   },
+   {
+    "value": "2.5",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "quote": "頼れるアシスタントが月額2.5万円で多種多様な業務をサポート"
+   },
+   {
+    "value": "120",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "quote": "若手や女性の採用・定着のための制度導入に対し、目標達成時に最大120万円を支給"
+   },
+   {
+    "value": "80",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "quote": "非正規社員の正社員転換、賃金引上げ等に最大80万円/人"
+   },
+   {
+    "value": "1,250",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "quote": "中小企業の設備投資・技術開発に最大1,250万円（一般型）"
+   },
+   {
+    "value": "400",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "quote": "400万円以上"
+   },
+   {
+    "value": "607",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "quote": "607万円 → 300万円"
+   },
+   {
+    "value": "300",
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "quote": "607万円 → 300万円"
+   },
+   {
+    "value": "60",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "quote": "年60万円の資格手当が18歳を動かす 高卒求人倍率3.6倍、「稼いで学ぶ」という第3の進路｜宮野宏樹"
+   },
+   {
+    "value": "5",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "quote": "西武・プリンスホテルズワールドワイドが導入した月最大5万円、年換算で60万円の資格手当は、その象徴です"
+   },
+   {
+    "value": "20",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "quote": "高卒初任給の水準が月20万円台前半であることを踏まえると、月給の4分の1近くが資格取得によって上乗せされうる設計です"
+   },
+   {
+    "value": "3",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "quote": "学歴や年次を問わず実績を積めば上位職に上がれる等級制度を導入し、月最大3万円の資格手当も取り入れています"
+   },
+   {
+    "value": "1",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "quote": "借り上げ社宅の家賃上限を一律1万円増額し、新卒社員の初任給を一律9000円引き上げています"
+   },
+   {
+    "value": "50",
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "quote": "佐川急便は2024年度から、入社後にトラックを運転するのに必要な免許の取得費用を最大50万円負担するほか、業務に関連する資格を取得した社員には祝い金を支給しています"
+   },
+   {
+    "value": "60",
+    "url": "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "quote": "高校生の就活選考解禁 求人倍率3.6倍、西武プリンス資格手当年60万円"
+   },
+   {
+    "value": "500",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "quote": "採用媒体費年500万円を費やしても、面接希望者は年間3～5名程度"
+   },
+   {
+    "value": "250",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "quote": "採用媒体費削減：500万円→250万円に圧縮しつつ、採用人数は7.5倍増"
+   },
+   {
+    "value": "350",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "quote": "採用媒体費：350万円→180万円に削減"
+   },
+   {
+    "value": "180",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "quote": "採用媒体費：350万円→180万円に削減"
+   },
+   {
+    "value": "600",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "quote": "採用媒体費が年600万円を超えても、採用人数は安定していない"
+   },
+   {
+    "value": "50",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "quote": "30万～50万円"
+   },
+   {
+    "value": "30",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "quote": "15万～30万円"
+   },
+   {
+    "value": "20",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "quote": "当社の支援クライアント分析では、最初は月20万円～30万円の「ハイブリッド体制」（撮影・編集は外注、企画・投稿は内製）からスタートするのが、費用対効果の観点から最適だという結果が出ています"
+   },
+   {
+    "value": "5",
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "quote": "費用を月5万円に圧縮しつつ、投稿品質はむしろ向上したという実績があります"
+   },
+   {
+    "value": "1",
+    "url": "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "quote": "今すぐ出来る節電術5選！電気代が年間1万円以上安くなる！？"
+   },
+   {
+    "value": "100",
+    "url": "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "quote": "◤最大100万円支給◢ 売上アップにも繋がる、小規模事業者持続化補助金を解説"
+   },
+   {
+    "value": "450",
+    "url": "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "quote": "最大450万円の受け取りが可能！IT導入補助金2021／目的と概要"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://dockinc.jp/blog/kousotsu-seizogyo-erabareru/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jinjib.co.jp/archives/25401",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seizo-web.com/blog/3008/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11800000/001699241.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.recruit.co.jp/newsroom/pressrelease/assets/20240425_work_01.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2005/09/pdf/004-017.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250702/20250702506713.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/jakunen/2025CK_job_opening_to_applicants_ratio_202507.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11800000/001228650.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chibacari.com/saiyo/blog/180",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japancreate.net/column/column-1963/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/koukousotsu/companyvoice/detail002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zgeneration.co.jp/2026/10/11/manufacturing-recruiting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-adventure.jp/column/PTvBLT7l",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jinjib.co.jp/business/market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takumi-base.com/hr-branding102/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/i/trending/2074343492126490775",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業の高卒採用（求人倍率・費用・充足）",
+   "results": [
+    "https://dockinc.jp/blog/kousotsu-seizogyo-erabareru/",
+    "https://www.works-i.com/column/labor-market/detail020.html",
+    "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "https://jinjib.co.jp/archives/25401",
+    "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "https://seizo-web.com/blog/3008/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "https://yumesuta.com/kosotsusaiyo/industries/manufacturing"
+   ]
+  },
+  {
+   "query": "製造業の高卒採用（求人倍率・費用・充足） 調査 PDF",
+   "results": [
+    "https://www.works-i.com/column/labor-market/detail020.html",
+    "https://jinjib.co.jp/archives/25401",
+    "https://www.mhlw.go.jp/content/11800000/001699241.pdf",
+    "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "https://www.recruit.co.jp/newsroom/pressrelease/assets/20240425_work_01.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2005/09/pdf/004-017.pdf",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250702/20250702506713.pdf",
+    "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://yumesuta.com/kosotsusaiyo/industries/manufacturing"
+   ]
+  },
+  {
+   "query": "製造業の高卒採用（求人倍率・費用・充足） 厚生労働省",
+   "results": [
+    "https://www.mhlw.go.jp/content/11800000/001699241.pdf",
+    "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "https://www.works-i.com/column/labor-market/detail020.html",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "https://seizo-web.com/blog/3008/",
+    "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/jakunen/2025CK_job_opening_to_applicants_ratio_202507.html",
+    "https://www.mhlw.go.jp/content/11800000/001228650.pdf",
+    "https://yumesuta.com/kosotsusaiyo/industries/manufacturing"
+   ]
+  },
+  {
+   "query": "製造業の高卒採用（求人倍率・費用・充足） 規模別 万円",
+   "results": [
+    "https://www.works-i.com/column/labor-market/detail020.html",
+    "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "https://jinjib.co.jp/archives/25401",
+    "https://www.mhlw.go.jp/content/11800000/001699241.pdf",
+    "https://www.recruit.co.jp/newsroom/pressrelease/assets/20240425_work_01.pdf",
+    "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "https://www.chibacari.com/saiyo/blog/180",
+    "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/"
+   ]
+  },
+  {
+   "query": "製造業の高卒採用（求人倍率・費用・充足） 製造業 事例",
+   "results": [
+    "https://dockinc.jp/blog/kousotsu-seizogyo-erabareru/",
+    "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "https://www.japancreate.net/column/column-1963/",
+    "https://www.works-i.com/research/project/koukousotsu/companyvoice/detail002.html",
+    "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "https://zgeneration.co.jp/2026/10/11/manufacturing-recruiting/",
+    "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "https://yumesuta.com/kosotsusaiyo/industries/manufacturing"
+   ]
+  },
+  {
+   "query": "製造業の高卒採用（求人倍率・費用・充足） 2025 OR 2026",
+   "results": [
+    "https://www.works-i.com/column/labor-market/detail020.html",
+    "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "https://seizo-web.com/blog/3008/",
+    "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/jakunen/2025CK_job_opening_to_applicants_ratio_202507.html",
+    "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "https://sales-adventure.jp/column/PTvBLT7l",
+    "https://jinjib.co.jp/business/market",
+    "https://www.takumi-base.com/hr-branding102/"
+   ]
+  },
+  {
+   "query": "site:note.com 製造業の高卒採用（求人倍率・費用・充足）",
+   "results": [
+    "https://note.com/leadstar/n/ned2e83831c5b",
+    "https://note.com/leadstar/n/nff529c32e97c",
+    "https://note.com/epolicy_actvst/n/na7dfe2798d32",
+    "https://note.com/0101_engineer/n/nc0971f853174",
+    "https://note.com/takada188/n/n4f615bbabd29",
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/takada188/n/n2803e82f03b7",
+    "https://note.com/0startdaigaku/n/n2fec2d69a771",
+    "https://note.com/osint_japan/n/n703c7e9f3645"
+   ]
+  },
+  {
+   "query": "site:x.com 製造業の高卒採用（求人倍率・費用・充足）",
+   "results": [
+    "https://x.com/hokkaido_juken",
+    "https://x.com/i/trending/2074343492126490775",
+    "https://x.com/i/trending/2106700769076314493",
+    "https://x.com/kikaku_career/status/2116494637305335972",
+    "https://x.com/i/trending/2068370057147617554",
+    "https://x.com/akita_labor/status/2094611895890423950",
+    "https://x.com/yutaro_ishii/status/2072666020574265592",
+    "https://x.com/nikkeishakai/status/2058478795477446819"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 製造業の高卒採用（求人倍率・費用・充足）",
+   "results": [
+    "https://ch.linkedin.com/in/emma-falck-7047774",
+    "https://in.linkedin.com/company/hcltech/jobs",
+    "https://jp.linkedin.com/posts/satoru-tatsuzawa-8ab446164_即戦力高専卒の採用競争激化計画2割増充足率は8割どまり-日本経済新聞-activity-7459505969685852162-S6Bc",
+    "https://jp.linkedin.com/posts/宗大-宅間-41b61838a_開拓を増やしたいのに打ち手が採用しかない-②人材サービス製造業特化プライム-activity-7498663380132560897-6NDO",
+    "https://www.linkedin.com/posts/剛-野村-58844a20b_高卒採用も競争激しいですね日経から日本経済新聞社がまとめた2025年度の採用状況調査-activity-7254984206060027904-amD2",
+    "https://www.linkedin.com/posts/funaisoken_2024年の高卒採用マーケットと人材業界の動向トレンド今後について-activity-7165198111999557632-k1y6",
+    "https://in.linkedin.com/in/neerajanagarjuna4216"
+   ]
+  },
+  {
+   "query": "site:facebook.com 製造業の高卒採用（求人倍率・費用・充足）",
+   "results": [
+    "https://www.facebook.com/18sailabo/",
+    "https://www.facebook.com/nikkei/posts/1079456660192402/",
+    "https://www.facebook.com/nikkei/photos/高卒内定達成率3年連続80割れ-素材機械で奪い合いhttpswwwnikkeicomarticledgxzqouc096h30z01c24a0000000n_c/1079456630192405/",
+    "https://www.facebook.com/18map/posts/人手不足の中注目を注目を集めている高卒採用求人倍率が年々高まる半面3年以内の離職率が4割と企業と生徒のミスマッチが課題となっている現状があるそんな中そのようなミ/598265274252450/",
+    "https://www.facebook.com/seminarbase/videos/4割の高校生はまだ決まっていない/1404807408408463/",
+    "https://www.facebook.com/careerlinkfactoryofficial/photos/毎週金曜日更新ジャーナル記事紹介のコーナー本日は過去人気記事をご紹介いたします-自社で求人を出しているが人が全然集まらない-人手不足を解消するために職場環境の改/122234903138199531/",
+    "https://www.facebook.com/kyotoshimbun/posts/滋賀労働局は２６日滋賀県内の高校を今春卒業した生徒を対象にした就職内定状況などを発表した求人倍率は３０３倍と調査を始めた１９９５年/1291157423012732/"
+   ]
+  },
+  {
+   "query": "製造業の高卒採用（求人倍率・費用・充足） note 社長",
+   "results": [
+    "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "https://note.com/hirokimiyano/n/n9f3d3b11e90b",
+    "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "https://www.works-i.com/column/labor-market/detail020.html",
+    "https://note.com/fyl_id/n/n2c441f3761ec",
+    "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "https://www.takumi-base.com/hr-branding024/",
+    "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "https://monoscope-media.com/high-school-recruitment-manufacturing/"
+   ]
+  },
+  {
+   "query": "製造業の高卒採用（求人倍率・費用・充足） X 投稿",
+   "results": [
+    "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "https://www.works-i.com/column/works04/detail002.html",
+    "https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/",
+    "https://www.sbbit.jp/article/cont1/36888",
+    "https://www.takumi-base.com/hr-branding024/",
+    "https://graem.co.jp/sme-manufacturing-highschool-recruitment/",
+    "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "https://seizo-web.com/blog/3008/",
+    "https://yumesuta.com/kosotsusaiyo/industries/manufacturing"
+   ]
+  },
+  {
+   "query": "high school graduate hiring manufacturing job ratio cost site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/travisalmy_manufacturing-workforce-hiring-activity-7510692661071269888-GnEQ",
+    "https://www.linkedin.com/pulse/jobs-never-arrived-gad-levanon-cpquc",
+    "https://www.linkedin.com/pulse/every-manufacturing-graduate-eight-employees-retire-right-applestone",
+    "https://www.linkedin.com/pulse/jobs-outlook-2018-ken-osvath",
+    "https://www.linkedin.com/top-content/workplace-trends/job-market-trends-insights/trends-in-the-entry-level-job-market/",
+    "https://www.linkedin.com/news/story/us-gained-172k-jobs-in-may-doubling-wall-st-estimates-8207905/",
+    "https://www.linkedin.com/pulse/linkedin-cities-rise-2025-25-fastest-growing-us-metros-jobs-jqiqc",
+    "https://www.linkedin.com/pulse/why-industrial-polymerisation-careers-dominate-materials-swati-hunge-p0erc",
+    "https://www.linkedin.com/jobs/view/r20-manufacturing-test-electronics-2nd-shift-at-general-dynamics-mission-systems-4454770534",
+    "https://www.linkedin.com/pulse/pharmaceutical-graduate-crisis-why-2024s-most-employable-mitali-metha-6t5mf"
+   ]
+  }
+ ],
+ "missing": {}
+}

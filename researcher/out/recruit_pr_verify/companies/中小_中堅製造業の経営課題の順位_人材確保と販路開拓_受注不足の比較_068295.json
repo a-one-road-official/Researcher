@@ -1,0 +1,2714 @@
+{
+ "name": "中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較）",
+ "en": "management issues ranking SME manufacturers hiring vs sales",
+ "aliases": [
+  "中小企業白書 経営課題 人材確保 販路開拓 製造業",
+  "製造業 経営課題 調査 人手不足 受注",
+  "日本政策金融公庫 経営上の問題点 製造業",
+  "商工会議所 経営課題 調査 製造業"
+ ],
+ "context": "⓪仮説",
+ "kind": "market",
+ "researched_at": "2026-11-04T14:58:20.616811+00:00",
+ "evidence": {
+  "採用難（公的統計）": [
+   {
+    "quote": "有効求人倍率は2024年時点で全国平均1.2倍前後で推移し、建設業や運輸業では2倍を超える地域もあります",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年における中小企業の従業員数過不足DI（マイナスが大きいほど不足）は-18.2を記録しており、深刻な人手不足が続いています",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足を感じている企業の割合は世界平均で７割を超えるなど、世界的に人手不足が課題となっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EU（27か国）において人手不足を感じている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 外国人労働者は、人手不足を背景に、2025年では、2015年と比較すると166万人増加の257万人となり過去最",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（９社）、人手不足（７社）等が挙げられ",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業の人手不足感は、 2020 年に弱まったものの、その後は再び強まっている",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２）上記は2024年度の平均新規求人倍率が「２倍以上」となる職業を中心に選択",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）厚生労働省（2024）「令和 6 年度版労働経済の分析―人手不足への対応―」",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 7 の日本政策公庫の調査結果から、中小企業の人手不足への対応として、「従業員の多能工",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 7 人手不足への対応",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "省力化の成果として、省電力投資によって人手不足を乗り越えている中小製造業 4 社の事例",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "持したまま、残業時間を半分に削減することができ量的にも質的にも人手不足を緩和したり、8",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 重点的に取り組みたい経営課題は、「新規顧客開拓・販路開拓」（５７．１％）が最多、「人手不足への対応」（４５．",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足への対応」（４５．０％）が続く",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "課題6．人手不足と人件費の高騰",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "日銀短観の雇用人員判断DI（中小企業・全産業）は、2020年にコロナ禍で−6まで浅くなった後、再びマイナス幅が広がり、2026年9月は−42と人手不足が強まっている",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "このような人手不足は、複合的な要因が絡み合った根深い問題となっていて、2027年も解決の見通しは立っていません",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "を見ても、2026年度上半期の人手不足に関連する倒産240件のうち、人件費の高騰が原因のものが130件と半数を超えていました",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "製造業では資本金3億円以下または従業員300人以下、小売業では資本金5,000万円以下または従業員50人以下などと定められています",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "若い世代ほど積極的な成長戦略を描いている一方で、前期収益が「収支トントン・赤字」の企業では36.8%が直近1年間に新たな取り組みを実施しておらず、具体的な打ち手が見えていない状況も浮き彫りになっています",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は2024年時点で全国平均1.2倍前後で推移し、建設業や運輸業では2倍を超える地域もあります",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員化1人あたり40～80万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "5年間の雇用維持、代表者の継続など",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "事業承継・引継ぎ補助金：M&A時の仲介手数料や専門家活用費用を補助（最大600万円）",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "前期収益が黒字の企業では、直近1年間に「新製品・新サービス開発」（27.4%）、「商品・サービスの提供方法の導入・改善」（25.1%）、「国内における新規顧客の発掘」（20.9%）などに積極的に取り組んでいます",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所の調査では、直近1年間で成果が出た取り組みとして「DX・AI活用等」が小規模企業以外で17.1%となっており、デジタル活用が成果につながっている企業も増えています",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所の調査によると、直近1年間で省力化・業務効率化に取り組んだ企業は76.6%に上ります",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "補助率1/2～3/4、最大450万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "補助率1/2～2/3、最大1,250万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "補助率2/3、最大250万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政策金融公庫の「マル経融資（小規模事業者経営改善資金）」は、商工会議所等の経営指導を受けている小規模事業者が対象で、最大2,000万円まで無担保・無保証人で借りられます",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模事業者持続化補助金：販路開拓や業務効率化に最大250万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金：ITツール導入に最大450万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "契約単価が1000万円向上した",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で65歳以上の高齢就業者数は2002年から2021年の約20年間で58万人から91万人へと1.6倍近くに増加しています",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "ある中堅製造業では、既存設備に後付けセンサーを設置してクラウドでデータを管理したところ、初期投資50万円未満で生産性が15%以上向上した事例があります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルのスマートファクトリー市場規模は2024年に354.6億ドルに達し、2029年には564.38億ドルへと年平均9.74%の成長が見込まれています",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会のように年1〜2回の大きな投資をしなくても、年間を通じて継続的にリードを獲得し続ける仕組みを構築できます",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．従業者 50 人以上かつ資本金額又は出資金額３千万円以",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11 専門家の招聘、市場調査、セミナー開催などを行う取組に対し補助（補助上限額：200 万円）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12 新商品開発、展示会出展等を行うプロジェクトに対し、最大３年間補助（補助上限額：2,000 万円）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "間は２年間）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足を感じている企業の割合は世界平均で７割を超えるなど、世界的に人手不足が課題となっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※能力開発費が実質GDPに占める割合の５か年平均の推移",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平均値±標準偏差×３の範囲内の数値が対象",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 時間外労働時間（平均）は、20時間以下の割合が約８割（45時間以下の割合は約９割）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上1,000万円未満 約140万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• その際、売上高１億円～10億円（売上高10億円を目指す企業）／1,000万円～１億円（売上高１億円を目指す企業）に分",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円×グループ構成員数",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて3,000万円まで",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(c)事務費・専門家費：200万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１機能：～50万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２機能以上：～350万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 2010 年代以降の我が国の実質 GDP成長率は 、年平均でみると 1.0％であり 、2000 年代と比較すると持ち",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２）各期間の年平均の伸び率は、期間中の毎年の伸び率を平均したもの",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1981-89 90-99 2000-09 10-24 （年平均）",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2011～2019年平均） 非製造業の資本ストック（ソフトウェア）の推移",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年収200万円以上",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年収200万円未満",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "近３ヶ月平均 ）」よりも「妥当だと考える１月あた",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※１、２…時間外労働時間数（月平均）の内訳について、",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※雇用者報酬の増加率のグラフについては、各都道府県の直近10年間（2013～2022年）について、各年の増加率を単純平均した値の下位３県を抽出している",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "内閣府による季節調整値の後方３か月移動平均",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働者１人あたり1.9万円",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1 より例えば、製造業・建設業・運輸業では、 「資本金の額または出資の総額」が 3 億円以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.サービス業 5000 万円以下 100 人以下 5 人以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.小売業 5000 万円以下 50 人以下 5 人以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代化が進んだことで、1960 年代の 10 年間で中小企業の賃金率は毎年 10％以上の上昇を続け、大",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約 14.1 万円の月収の差がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小企業の場合約 5.3 万円の月収の差がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、１人当たりの平均給与を事業所規模別にみると、表 3 より、小規模事業者・中小企業",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "製造業では資本金3億円以下または従業員300人以下、小売業では資本金5,000万円以下または従業員50人以下などと定められています",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員化1人あたり40～80万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "事業承継・引継ぎ補助金：M&A時の仲介手数料や専門家活用費用を補助（最大600万円）",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "補助率1/2～3/4、最大450万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "補助率1/2～2/3、最大1,250万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "補助率2/3、最大250万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政策金融公庫の「マル経融資（小規模事業者経営改善資金）」は、商工会議所等の経営指導を受けている小規模事業者が対象で、最大2,000万円まで無担保・無保証人で借りられます",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模事業者持続化補助金：販路開拓や業務効率化に最大250万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金：ITツール導入に最大450万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金：設備投資や新製品開発に最大1,250万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "事業再構築補助金：新分野展開や業態転換に最大7,000万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー費用も68.8%と高い水準で、電気料金や燃料費の高騰が経営を圧迫しています",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "最大250万円",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "契約単価が1000万円向上した",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "ある中堅製造業では、既存設備に後付けセンサーを設置してクラウドでデータを管理したところ、初期投資50万円未満で生産性が15%以上向上した事例があります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "AI類似図面検索システム17選を比較！料金・機能・選び方",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "形状検索、AI-OCR、2D・3D CAD対応、クラウド・オンプレミス、料金を整理し、設計流用・見積...",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．従業者 50 人以上かつ資本金額又は出資金額３千万円以",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11 専門家の招聘、市場調査、セミナー開催などを行う取組に対し補助（補助上限額：200 万円）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12 新商品開発、展示会出展等を行うプロジェクトに対し、最大３年間補助（補助上限額：2,000 万円）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上1,000万円未満 約140万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• その際、売上高１億円～10億円（売上高10億円を目指す企業）／1,000万円～１億円（売上高１億円を目指す企業）に分",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円×グループ構成員数",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて3,000万円まで",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(c)事務費・専門家費：200万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１機能：～50万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２機能以上：～350万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～350万円 5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～50万円以下：3/4",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円～350万円：2/3",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "150万円～450万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限 600万円 700万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年収200万円以上",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年収200万円未満",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働者１人あたり1.9万円",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.サービス業 5000 万円以下 100 人以下 5 人以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.小売業 5000 万円以下 50 人以下 5 人以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約 14.1 万円の月収の差がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小企業の場合約 5.3 万円の月収の差がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象になるものの例としては、100 万円以上の機械及び装置、30 万円以上の器",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "具及び備品、60 万円以上の建物附属設備がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の範囲内（最高 8000 万円）で共済金の貸付けが受けられる制度である",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円以下 231 55.9%",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円超～5000万円以下 136 32.9%",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5000万円超～１億円以下 29 7.0%",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 海外の新規取引が増えた（1000万円以下、５人以下、その他製造業）",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 人件費の高騰・仕入価格の高騰・十分に価格転嫁できていない（1000万円",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "超～5000万円以下、３０１人以上、（サービス業）飲食店）",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1000万円以下、５人以下、不動産業）",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "常利益減】（1000万円以下、２１～５０人、（製造業）精密機械器具）",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年度並み・経常利益減】（1000万円以下、６～２０人、その他卸）",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "28.7%が「後継者未定だが事業継続希望」の深刻度",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客満足度向上とリピート率改善",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "変化の激しい現代では、継続的な学び直し（リスキリング）やスキルアップの機会提供が、従業員の成長と企業の競争力強化の両面で重要です",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "「後継者未定だが事業継続希望」の深刻度",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "後継者を決めていないが、事業継続したい",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "「後継者を決めていないが、事業継続したい」と回答した企業は28.7%で、前年から5.4ポイント減少しました",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "後継者不在でも事業を継続できる",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "5年間の雇用維持、代表者の継続など",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "売上拡大のためには、現状維持ではなく新たな取り組みを継続的に実施することが不可欠です",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客育成、リピート促進",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド型のシステムなら月額利用料も補助対象となり、最大2年分の費用が補助されます",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "資金繰り改善と財務体質の強化は、事業継続の大前提となる重要課題です",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの取り組みにより、同じ成果を少ない時間で達成できれば、労働時間を削減しながら事業を継続できます",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルツールを活用した営業プロセスの効率化や、既存顧客との関係強化による継続取引の拡大が求められています",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "度向上とリピート率改善",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日：2026年09月14日",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "シニア人材の再雇用・継続雇用、外国人技能実習制度から特定技能への移行活用、女性が働きやすい職場環境の整備（重労働の機械化や柔軟な勤務体系の導入など）を組み合わせることで、採用の幅が大きく広がります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「製造業を巡る動向と今後の課題（※）」によれば、製造業の多くが「策定した経営戦略（BCP）に構造的課題がある」「BCPの策定や運用ができない」という問題を抱えていることが指摘されています",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "BCP（事業継続計画）の策定は、もはや大企業だけの話ではありません",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "全社一斉に始めるのではなく、1ラインや1工程でパイロット運用することで失敗リスクを最小化できます",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会のように年1〜2回の大きな投資をしなくても、年間を通じて継続的にリードを獲得し続ける仕組みを構築できます",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライチェーンの再構築は既存取引先との関係を維持しながら分散を進める継続的なプロセスです",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "更新日:2026.09.16",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "顧客情報や技術情報といった重要な情報資産が漏洩・破壊されれば、事業継続が困難になるほどの甚大な被害となる可能性があります",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "導入関連費（保守運用やマニュアル作成等のサポート費用に加えて、",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "め細かく把握しながら、規制改革会議などの関係機関とも連携して、労働時間規制の運用・制度",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 適正な民間職業紹介事業者の「見える化」（手数料率開示、適正事業者認定制度の利用促進）（継続）",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "情に関する調査研究・在り方の検討（継続）",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に合わせ活躍できる機会を創出するシルバー人材センター等の取組の推進（継続）",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 我が国の障害者雇用について、雇用者数は2025年６月時点で約70.5万人と過去最高を更新したが、能力発揮の",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "運用・制度の両面からどのような対応 が考えられるか",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当調査における「自己啓発」は、労働者が職業生活を継続するために行う、職業に関する能力を自発的に開発し、 向上させるための活動をいう",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、 個人企業は法人企業と比べて 「現在の事業を継続するつもりはない」 と回",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "遇した場合において、事業資産の損害を最小限にとどめつつ、中核となる事業の継続や早期復旧",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を可能とするための事業継続計画のことである44",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "継続することは困難であるため、 限られた資源や人材で対応しなければならない",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "BCP を作成する際に企業が検討すべき観点としては、1. 重要製品・サービスの供給継続・早期",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク 「事業継続計画「（BCP）に対する企業の意識調査「（2024 年）」によると、BCP",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019 年 7 月 16 日から 2027 年 3 月 31 日までの間に事業継続力",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "強化計画または連携事業継続力強化計画の認定を受けた事業者が、認定を受けた日から 1 年を",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業継続計画（BCP）を策定または既存の BCP の改善を行う際に要する経費の一部を補助し、",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外部人材の活用により、課題解決や事業を安定的に継続のた",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が賃上げへの対応を継続して、雇用を守っていくために、政府の価格転嫁や生産性の",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "16.8%増加し、2016 年以降で最多件数を更新している80",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で技術力や生産効率を向上させるためにも、 スタートアップ 企業の育成支援も継続的に行うこ",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・香川県 （2025a） 「県内中小企業の皆さんの BCP「 （事業継続計画） 策定を応援します！ （香川県",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・中小企業庁 （2025d） 「中小企業防災・減殺投資促進税制「（特定事業継続力強化設備等の特別償",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報データ運用サービス DataDrive",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "特に「小規模企業」が61.9％と全体より約10pt高く、原材料やエネルギーコスト、人件費の高騰、金利・為替変動など外部環境の変化が続くなか、財務基盤の強化は事業継続に直結する喫緊のテーマとなっている",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "老朽化した設備の更新や生産ラインの自動化などに取り組みたくても必要な資金の確保が難しく、更新を後回しにせざるを得ない場面も多い",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模が大きくなると、部門ごとに独自に構築されたシステムやExcel運用が残り、全社的なデータ連携が妨げられている状況やDX人材の不足といった問題を抱えていることが想定される",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、属人的な運用や部門間の分断を解消し、財務・調達・現場・IT・人事などが足並みを揃え、収益の最大化という同じ目標に向かって一気通貫で動くための、全社共通のルール作りが急務であることを示している",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の強みと市場でのポジショニングを生かした事業計画を構築し、実行と改善のサイクルを継続して回すことが、厳しい環境を勝ち抜き、持続的な成長への道筋となるだろう",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "ＢＣＰ（事業継続計画）の策定や自社拠点・取引先の分散など災害対策",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査やデータ分析は月額費が高いサービスが多く広",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特に「小規模企業」が61.9％と全体より約10pt高く、原材料やエネルギーコスト、人件費の高騰、金利・為替変動など外部環境の変化が続くなか、財務基盤の強化は事業継続に直結する喫緊のテーマとなっている",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "老朽化した設備の更新や生産ラインの自動化などに取り組みたくても必要な資金の確保が難しく、更新を後回しにせざるを得ない場面も多い",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模が大きくなると、部門ごとに独自に構築されたシステムやExcel運用が残り、全社的なデータ連携が妨げられている状況やDX人材の不足といった問題を抱えていることが想定される",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "これは、属人的な運用や部門間の分断を解消し、財務・調達・現場・IT・人事などが足並みを揃え、収益の最大化という同じ目標に向かって一気通貫で動くための、全社共通のルール作りが急務であることを示している",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "自社の強みと市場でのポジショニングを生かした事業計画を構築し、実行と改善のサイクルを継続して回すことが、厳しい環境を勝ち抜き、持続的な成長につながると、同社はみている",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "東京商工会議所が2025年に実施した「中小企業の経営課題に関するアンケート」からも、売上や収益、事業拡大、人材、業務効率化などをめぐって、中小企業ごとに異なる状況があることが見えてきます",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "し、それぞれの対応策を紹介します",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "という未来から、いま取り組む課題の優先順位を考え直す方法も紹介します",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事の「TOP10」は、東京商工会議所が公式に発表した順位をそのまま掲載したものではありません",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が直面する経営課題の現状【2025年東京商工会議所調査より】",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所調査：価格転嫁の足踏み状況",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "政府系金融機関の融資制度と補助金活用",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "「実績紹介型」から「未来価値提案型」へのシフト",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "参考：東京商工会議所「",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所が2025年9月から10月にかけて実施した「中小企業の経営課題に関するアンケート」では、東京23区内の1,756社から回答を得ました",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、ここで紹介する10項目は「すべての企業に共通する絶対的な順位」ではありません",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所の2025年調査や関連する統計・事例をもとに、現在の中小企業経営で特に確認しておきたい課題を10の観点に整理しました",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所の調査でも、企業の成長要素として「従業員満足度の向上」が重視されており（小規模企業以外で40.9%）、人材への投資が企業成長の鍵となっています",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "また、求人サイトだけでなく、SNS活用、社員紹介制度、地域の教育機関との連携など、採用チャネルの多様化も効果的です",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所の調査では、「従業員満足度の向上」を成長要素として重視する企業が増えており、若手が「この会社で成長できる」と実感できる環境づくりが定着率向上の鍵です",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "このページでは製造業の経営課題に触れ、課題解決に必要な施策を紹介します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "」も紹介しています",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "既存取引先（発注元）への過度な依存（下請け体質）",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "新規顧客・新規取引先の開拓が展示会と紹介だけ",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "既存取引先への過度な依存（下請け体質）",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の多くは長年にわたって「展示会」「紹介・口コミ」「営業担当者の足で稼ぐ営業」という3つのチャネルに依存してきました",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍で展示会が中止・縮小された際、この脆弱性が一気に表面化しました",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "「展示会がなくなったら、新規顧客との接点がほぼゼロになった」という体験をした製造業は少なくないでしょう",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会依存から抜け出すには、デジタル営業の基盤整備が前提になります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、Zenkenのポジショニングメディア戦略を導入した製造業の成功事例をご紹介します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "、新規顧客の獲得は展示会と紹介だけに依存",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "専門メディア経由の問い合わせでは顧客が事前に自社の強みを理解した状態でコンタクトしてくるため、もともと2ヶ月以上かかっていたリードタイムが",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会のように年1〜2回の大きな投資をしなくても、年間を通じて継続的にリードを獲得し続ける仕組みを構築できます",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "「展示会以外の集客方法を探している」「Webマーケティングを始めたいが何から始めればいいかわからない」「業界内で独自のポジションを確立したい」とお考えの企業に、ポジショニングメディア戦略はとくにおすすめです",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライチェーンの再構築は既存取引先との関係を維持しながら分散を進める継続的なプロセスです",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション紹介",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、中小企業が抱える課題をランキング形式で紹介し、後継者問題からDX化の遅れまで、その原因と具体的な解決策を解説します",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "単なる対症療法ではなく、経営計画の見直しや公的支援の活用といった、課題解決に不可欠な視点もご紹介しておりますので、貴社の未来を切り拓くための羅針盤としてご活用ください",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁が公表する「中小企業白書」や、日本商工会議所、帝国データバンクなどの各種調査結果を総合的に分析すると、多くの中小企業が共通の課題に直面していることが浮き彫りになります",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "求人サイトへの掲載だけでなく、SNSを活用した採用広報（ソーシャルリクルーティング）や、社員紹介制度（リファラル採用）など、採用チャネルの多様化が求められます",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "政府系金融機関の融資制度と補助金の活用法",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達の手段として、民間の金融機関だけでなく、政府系金融機関の活用も重要です",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、「3年後に売上30%増」というKGIに対し、「新規顧客獲得数」「顧客単価」「Webサイトからの問い合わせ件数」などをKPIとして設定し、進捗を定期的に確認します",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "専門家は客観的な視点で的確なアドバイスを提供してくれるだけでなく、補助金の申請支援や取引先の紹介など、実務的なサポートも期待できます",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "商工会議所・商工会",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "申請には事業計画書の作成などが必要となるため、前述の中小企業診断士や商工会議所といった専門家・支援機関に相談しながら進めるのが成功の秘訣です",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "執筆者のご紹介",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "会計ソフト紹介",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "製品比較・ツール紹介",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "4 民間金融機関や地方自治体も重要な支援機関であるが、紙幅の都合もあり、これらについては、本稿では必",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外展示会出展等の取組に対する支援12を行うものである13",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化可能性調査等事業計画の策定支援、②国内外の展示会出展等への支援、③海外現地の官民支援機関が連携",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12 新商品開発、展示会出展等を行うプロジェクトに対し、最大３年間補助（補助上限額：2,000 万円）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "見本市・展示会データ",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ベース 世界各国（147か国・地域）の見本市・ 展示会（約42, 000件）の検索が可能",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国際展示会（国内）出展",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小機構 海外展示会出展サポート 海外での展示会（主にジャパン・パビリオン）を対象に、出展の準備段階（海外販路開拓に係るアドバイス、商談資料の作成支援等）から契約等のフォロー（契約実務、輸出入のノウハウ提供等）までの一貫した支援を無料で行う（翻訳費用は1/3自己負担）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海外見本市・展示会出",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "た、海外で開催される見本市・展示会に出展する際の経費の一部を助成",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日弁連 中小企業海外展開支援弁護士紹介制度 海外展開において、相手国側の企業等との契約書のチェック等で法的知見を必要とする場合や、トラブルにあった場合に、アドバイスをする弁護士を紹介するサービスを実施",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「総合的なＴＰＰ関連政策大綱」では、 「国や地方自治体、商工会、商工会議所等の各種",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "連携しつつ、製品開発、国際標準化、知的財産、人材、海外企業のマッチングや展示会等",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関（政府系金融機関を",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業務上、中小企業の業務内容に通じているべき金融機関であると思われ、金融機関がこれ",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "中小企業の経営課題とは？10の課題と2026年に向けた解決策",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の経営課題とは？2026年最新調査から見る課題ランキングと未来志向の解決策",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所が2025年に実施した「中小企業の経営課題に関するアンケート」からも、売上や収益、事業拡大、人材、業務効率化などをめぐって、中小企業ごとに異なる状況があることが見えてきます",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が向き合う代表的な10の経営課題を編集部で整理",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が直面する経営課題の現状【2025年東京商工会議所調査より】",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が向き合う10の経営課題【2025年調査等から整理】",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "課題1. 人材不足・採用難と人材育成",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "課題4 売上拡大と新規顧客開拓",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "課題9 営業力・販売力の強化",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の経営課題を解決する5つの実践的アプローチ",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が抱える7つの経営課題とは？統計データから見る現状と優先順位 - 集客・広告戦略メディア「キャククル」",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が抱える7つの経営課題とは？統計データから見る現状と優先順位",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、経済産業省・厚生労働省「ものづくり白書」や中小企業庁のデータをもとに、製造業が今直面している7つの主要な経営課題を体系的に整理します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年における中小企業の従業員数過不足DI（マイナスが大きいほど不足）は-18.2を記録しており、深刻な人手不足が続いています",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の経営課題を「内部」と「外部」の2軸で整理する",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の後継者難による倒産件数は507件で、そのうち製造業は88件と建設業（127件）に次いで全業種中第2位となっています",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の課題ランキングTOP10｜人材不足・後継者問題からDX化まで徹底解説 | AIクラウドERP導入ガイド",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の課題ランキングTOP10｜人材不足・後継者問題からDX化まで徹底解説",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "第1位 人材不足と採用難",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "第2位 後継者不足と事業承継",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "第1位の「人材不足」と密接に関連する課題が、従業員の育成です",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "第7位 営業力・販売力の強化",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "中小機構 海外展示会出展サポート 海外での展示会（主にジャパン・パビリオン）を対象に、出展の準備段階（海外販路開拓に係るアドバイス、商談資料の作成支援等）から契約等のフォロー（契約実務、輸出入のノウハウ提供等）までの一貫した支援を無料で行う（翻訳費用は1/3自己負担）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足を感じている企業の割合は世界平均で７割を超えるなど、世界的に人手不足が課題となっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EU（27か国）において人手不足を感じている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 外国人労働者は、人手不足を背景に、2025年では、2015年と比較すると166万人増加の257万人となり過去最",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（９社）、人手不足（７社）等が挙げられ",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "フバランス（22社）、人材確保・定着（20",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 減らしたい理由として、人材確保・定着（22",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業の人手不足感は、 2020 年に弱まったものの、その後は再び強まっている",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 節 中小企業の経営課題と政策的対応の方向性",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.1 人材課題（人材確保、事業継承、省力化・生産性向上）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクが行った日本の中小企業の経営課題と事業活動に関する調査（2024 年度）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1 最も重視する経営課題（企業規模別）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）帝国データバンク「令和 6 年度中小企業の経営課題と事業活動に関する調査」p. 17 よ",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DI（2025 年 4 月から 6 月期）は▲23.0 となっており、中小企業の人材不足は歯止めがかかって",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業の経営課題に関するアンケート（2026年）｜株式会社 帝国データバンク[TDB]",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の経営課題に関するアンケート（2026年）",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の経営課題「人材強化」が90.2%と突出 ～経営課題に取り組むうえでの障壁、「人材・ノウハウ不足」の解消が鍵～",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の経営課題について、経営層・マネジャーを対象に『組織・人材』、『財務・リスクマネジメント』、『成長戦略』、『生産・サプライチェーン・設備』、『業務改革・DX』の５カテゴリー31項目でアンケート調査を行ったところ、「人材強化」が90.2%と最重要課題として示された",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "次いで「取引深耕（66.0％）」や「販路開拓（60.5％）」が取り組むべき課題として挙げられた",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクは、2026年における経営課題について、企業へアンケート調査を実施した",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "「人材強化」が90.2%と最重要、「取引深耕」が66.0%、「販路開拓」が60.5%で続く",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "31項目の経営課題を選択率順に並べたTOP10を見ると、「人材強化（採用、定着、育成）」が90.2％と突出し、「ヒト」の問題が経営環境のボトルネックになっていることが示された",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "次いで「既存顧客との取引深耕」66.0%、「販路開拓」60.5%と続き、売上の維持拡大の重要度が高い結果となった",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "また、「業務の標準化」58.3%や「賃上げ・評価制度」57.6%といった組織運営・仕組み形成のテーマも上位に入った",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "○ 重点的に取り組みたい経営課題は、「新規顧客開拓・販路開拓」（５７．１％）が最多、「人手不足への対応」（４５．",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ．業況・経営課題、収益力強化への取り組みについて ２",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "重点的に取り組みたい経営課題 ４",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "重点的に取り組みたい経営課題（上位３つ以内複数回答）",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 「新規顧客開拓・販路開拓」（５７．１％）が最多、",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足への対応」（４５．０％）が続く",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "開拓、販路開拓」は８．１ポイント増加、「人手不",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の経営課題「人材強化」90.2%が最多、取引深耕66.0%・販路開拓60.5%が続く【帝国データバンク調べ】 ｜ マーケティング・デジタル・クリエイティブ職の採用支援はマスメディアン",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の経営課題「人材強化」90.2%が最多、取引深耕66.0%・販路開拓60.5%が続く【帝国データバンク調べ】",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクは、経営層・マネジャー5241人を対象に、2026年の経営課題を5カテゴリー31項目で調査した",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、「人材強化（採用・定着・育成）」が90.2%で最重要となり、次いで「既存顧客との取引深耕」66.0%、「販路開拓」60.5%が続いた",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクは、2026年における経営課題について、企業へアンケート調査を実施した",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の経営課題について、経営層・マネジャーを対象に『組織・人材』、『財務・リスクマネジメント』、『成長戦略』、『生産・サプライチェーン・設備』、『業務改革・DX』の5カテゴリー31項目でアンケート調査を行ったところ、「人材強化」が90.2%と最重要課題として示された",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "次いで「取引深耕（66.0％）」や「販路開拓（60.5％）」が取り組むべき課題として挙げられた",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "人材不足、原材料・エネルギー価格の上昇、売上拡大、事業承継、DX、資金繰りなど、複数の課題が同時に起こり、その優先順位も企業の規模・業種・経営者の年齢によって変わります",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所が2025年に実施した「中小企業の経営課題に関するアンケート」からも、売上や収益、事業拡大、人材、業務効率化などをめぐって、中小企業ごとに異なる状況があることが見えてきます",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "売上・収益の状況",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "課題4 売上拡大と新規顧客開拓",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "43.8%が売上増加も、格差が拡大している実態",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業とは、中小企業基本法第2条第1項の規定に基づき、業種ごとに資本金または従業員数で定義される企業を指します",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では資本金3億円以下または従業員300人以下、小売業では資本金5,000万円以下または従業員50人以下などと定められています",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに小規模企業は、従業員数が20人以下（商業・サービス業は5人以下）の事業者を指します",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月から9月の売上高を前年同期と比較すると、以下のような結果となりました",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別では建設業（54.7%）や飲食・宿泊業（51.8%）で5割以上が売上増加を達成しており、一定の回復傾向が見られます",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所の調査でも、企業の成長要素として「従業員満足度の向上」が重視されており（小規模企業以外で40.9%）、人材への投資が企業成長の鍵となっています",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所の調査では、「従業員満足度の向上」を成長要素として重視する企業が増えており、若手が「この会社で成長できる」と実感できる環境づくりが定着率向上の鍵です",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "変化の激しい現代では、継続的な学び直し（リスキリング）やスキルアップの機会提供が、従業員の成長と企業の競争力強化の両面で重要です",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "人材育成への投資は短期的にはコストとなりますが、中長期的には従業員のスキル向上、定着率改善につながり、企業の持続的成長を支える重要な投資です",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "売上は増加しても利益が残らない、いわゆる「増収減益」の状態に陥る企業も少なくありません",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに工場内の「内部オペレーション課題」と市場向けの「外部市場課題」という2軸で課題を分類したうえで、緊急度と重要度を踏まえた優先順位の考え方を解説します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年における中小企業の従業員数過不足DI（マイナスが大きいほど不足）は-18.2を記録しており、深刻な人手不足が続いています",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "多くのITベンダーやコンサルタントは「工場をデジタル化すれば解決する」と提案します",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし中小製造業が真に切実に感じている課題は、工場の中だけに限りません",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "内部オペレーション課題とは、主に工場の中——「モノをつくる」プロセスに関わる課題です",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "内部課題と違い、外部市場課題は「工場を改善するほど成果がすぐ出る」類の話ではないため、解決の優先度が後回しになりがちです",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、どれほど工場を効率化しても受注がなければ企業は成長できません",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "多くのコンサルタントや支援機関は「工場内のDX（スマートファクトリー）」ばかりを推奨しますが、中小製造業にとって真に切実なのは「下請けからの脱却」や「新規取引先の開拓」といった外部市場・売上に直結する課題です",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向けWeb集客ノウハウ資料を",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "解決策としては、親族内承継だけにこだわらず、役員・従業員への内部承継（MBO）やM&Aによる第三者承継を早い段階から視野に入れることが重要です",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "工場の中を改善するだけでは、売上の根本的な課題は解決しません",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "「売上の8割以上が1〜2社からの受注」という状況は、中小製造業では決して珍しくありません",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートファクトリーとは、IoT（モノのインターネット）・AI（人工知能）・ロボット技術などのデジタル技術を活用して製造工程を「見える化」し、自動化・最適化を進めた工場のことです",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "内部のDX（工場の効率化）と並行して取り組まなければならないのが、外部のDX——すなわち「Webマーケティングによる販路開拓」です",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "工場をどれほど効率化しても、受注を増やさなければ経営は改善しません",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の全企業数のうち99.7%、そして全従業員数の約7割を占める中小企業",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、「人材不足」は「従業員の育成」を困難にし、それが「生産性の低下」や「DXの遅れ」を招きます",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "人材の定着率を高めるには、従業員が「この会社で働き続けたい」と思える環境づくりが不可欠です",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "成果や貢献度が正当に評価され、給与や処遇に反映される透明性の高い人事評価制度の構築は、従業員のモチベーションを大きく左右します",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "独自の福利厚生（法定外福利厚生）を充実させることで、従業員満足度を高め、離職率の低下につなげる",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "事業承継には、主に経営者の子供などに引き継ぐ「親族内承継」と、役員・従業員に引き継ぐ「親族外承継（従業員承継）」があります",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "他の従業員の理解や協力が得られない可能性がある",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "創業者や経営者が築き上げてきた事業、技術、そして大切な従業員の雇用を守り、さらなる発展へとつなげるための戦略的な経営判断",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "第3位 売上減少と利益率の低下",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、売上が伸び悩み、原材料費や人件費の上昇が利益を圧迫し、利益率が低下するという課題に直面する企業が多くなっています",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "売上を確保するためには、「新規顧客の開拓」と「既存顧客の維持」の両輪を回す必要があります",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "第4位 従業員の育成とスキルアップ",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "第1位の「人材不足」と密接に関連する課題が、従業員の育成です",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小企業では、一人の従業員が多様な業務を担うことが多く、体系的な教育・研修制度が整っていないケースが少なくありません",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、従業員のスキルが属人化したり、次世代のリーダーが育たなかったりと、組織全体の成長が停滞する原因となっています",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "より海外に法人を設立すること及び企業が海外現地法人に資本参加をすること）があり、",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．売上げのうち、自社名義で通関手続を行ったモノの輸出",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）株式会社商工組合中央金庫調査部『中小企業の海外進出に関する意識調査』（2015.4）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・グローバル技術連携・創業支援事業 29.0 億円 ・グローバル技術連携支援事業 6.0 億円",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 図表７に挙げたのは、ジェトロ、中小機構、外務省、独立行政法人国際協力機構（ＪＩＣＡ） 、株式会社商",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工組合中央金庫（商工中金） 、株式会社日本政策金融公庫（日本公庫） 、独立行政法人日本貿易保険（ＮＥＸ",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・確保 ジェトロ 海外展開のための専門家活用助成事業 日本の中堅・中小企業が、新興国等への海外展開（拠点設立・輸出等）に取り組む際、海外ビジネスに精通した外部人材（専門家）を雇用する経費等の一部を助成",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とがあるとした調査23や輸出を開始しても３割の中小企業では売上高の増加につながって",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表９は、株式会社日本政策金",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "直接投資のほか、支店の設立や技術供与を含む）の経験を有する企業 945 社（うち 440 社は撤退経験を有",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 中小企業の従業員数過不足DIを見ると、全ての業種において人手不足感が強まっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の従業員数過不足DIの推移",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 従業員の規模が小さい企業ほど求人倍率が高く、採用難度が高い（人材を募集しても確保できない）状況",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足への対策としては採用活動の強化が最多となっており、事業のスリム化、多様な人材の活用、従業員の能力",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の能力開発",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   }
+  ],
+  "社数（規模別）": [
+   {
+    "quote": "日本の全企業数のうち99.7%、そして全従業員数の約7割を占める中小企業",
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "pass": 3
+   },
+   {
+    "quote": "2 2014 年７月時点で、中小企業の数は、約 381 万社であり、企業数全体の 99.7％を占める",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "まず、図表１は中小製造業の従業者規模別の輸出企業の割合である",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１ 従業者規模別の輸出企業の割合（中小製造業）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．中堅企業は従業者千人未満と定義する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．平成 24 年経済センサス‒活動調査（再編加工）によると、従業者数４人以上の製造事業所を保有す",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る中小企業数は約 20 万社、小規模事業者は約 15 万社である",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300人未満 300～999人 1000～4999人 5000人以上",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "100～299人 30～99人 10～29人 9人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）総務省・経済産業省「令和３年経済センサス-活動調査」再編加工",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業 約0.9万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 中小企業数は国内の約 99.7％、中小企業の従業者数は国内の約 70％を占める中 、中小企業は大企業よりも",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料出所 総務省「令和３年経済センサス・活動調査」をもとに厚生労働省にて作成",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら、小規模企業の企業数は約 84.5%と高くなっているが、常用雇用数や従業員数の割合は低くな",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2 規模別企業数・常用雇用数・従業者数",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）中小企業庁再編加工「総務省・経済産業省 2021 年経済センサス―活動調査」より筆者",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年 9 月 30 日時点の活動状況としては、支援申し込み企業数 805",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業は企業数の約 99.7%、 従業員総数の約 7 割を占めており、多くの雇用を生み出し、労",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・中小企業庁（2023）『総務省・経済産業省「令和 3 年経済センサス‐活動調査」再編加工』,",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「大企業」が98.2％、「中堅企業」96.6％、「中小企業」94.0％、「小規模企業」77.6％となり、規模の大小を問わず、「人材強化」が最優先の経営課題として位置づけられていることがわかる",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "「大企業」「中堅企業」では、「コンプライアンス・ガバナンス強化」、「サイバーセキュリティ強化」、「BCP・レジリエンス強化」が全体と比べて20pt前後高かった",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも、「中堅企業」は67.1%と他の規模よりも高く、販路拡大の成果がサプライチェーンにも波及し、取引先の成長を後押しする可能性がある",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "また、政府が成長のエンジンと位置づける「中堅企業」は、研究開発やM&A、海外展開など多くの項目で全体を10pt以上上回り、高い投資意欲を示した点が特徴的である",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "「設備投資」については、「中堅企業」と「中小企業」が全体を上回り、「小規模企業」が35.6%と規模間で最も低かった",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "規模別にみると、「AI活用」「業務プロセスのDX化」「データ活用基盤の整備」において、「大企業」と「中堅企業」は、「小規模企業」と比べると30pt前後の格差があった",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "「大企業」「中堅企業」の多くが「3～5年の中期計画」を軸とする一方、「小規模企業」の44.2％は「都度対応」にとどまる",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "特に政策資源が集中する半導体・AI、防衛産業、造船等の「重点投資17分野」や「中堅企業」が形成する成長サイクルに主体的に参画することが、中長期的な成長基盤を強固にする",
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "pass": 3
+   },
+   {
+    "quote": "「大企業」が98.2％、「中堅企業」96.6％、「中小企業」94.0％、「小規模企業」77.6％となり、規模の大小を問わず、「人材強化」が最優先の経営課題として位置づけられていることがわかる",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "「大企業」「中堅企業」では、「コンプライアンス・ガバナンス強化」、「サイバーセキュリティ強化」、「BCP・レジリエンス強化」が全体と比べて20pt前後高かった",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも、「中堅企業」は67.1%と他の規模よりも高く、販路拡大の成果がサプライチェーンにも波及し、取引先の成長を後押しする可能性がある",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "また、政府が成長のエンジンと位置づける「中堅企業」は、研究開発やM&A、海外展開など多くの項目で全体を10pt以上上回り、高い投資意欲を示した点が特徴的である",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "「設備投資」については、「中堅企業」と「中小企業」が全体を上回り、「小規模企業」が35.6%と規模間で最も低かった",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "規模別にみると、「AI活用」「業務プロセスのDX化」「データ活用基盤の整備」において、「大企業」と「中堅企業」は、「小規模企業」と比べると30pt前後の格差があった",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "「大企業」「中堅企業」の多くが「3～5年の中期計画」を軸とする一方、「小規模企業」の44.2％は「都度対応」にとどまる",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   },
+   {
+    "quote": "特に政策資源が集中する半導体・AI、防衛産業、造船等の「重点投資17分野」や「中堅企業」が形成する成長サイクルに主体的に参画することが、中長期的な成長基盤を強固にする",
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "5,000",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "quote": "製造業では資本金3億円以下または従業員300人以下、小売業では資本金5,000万円以下または従業員50人以下などと定められています"
+   },
+   {
+    "value": "80",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "quote": "正社員化1人あたり40～80万円"
+   },
+   {
+    "value": "600",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "quote": "事業承継・引継ぎ補助金：M&A時の仲介手数料や専門家活用費用を補助（最大600万円）"
+   },
+   {
+    "value": "450",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "quote": "補助率1/2～3/4、最大450万円"
+   },
+   {
+    "value": "1,250",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "quote": "補助率1/2～2/3、最大1,250万円"
+   },
+   {
+    "value": "250",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "quote": "補助率2/3、最大250万円"
+   },
+   {
+    "value": "2,000",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "quote": "日本政策金融公庫の「マル経融資（小規模事業者経営改善資金）」は、商工会議所等の経営指導を受けている小規模事業者が対象で、最大2,000万円まで無担保・無保証人で借りられます"
+   },
+   {
+    "value": "7,000",
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "quote": "事業再構築補助金：新分野展開や業態転換に最大7,000万円"
+   },
+   {
+    "value": "1000",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "quote": "契約単価が1000万円向上した"
+   },
+   {
+    "value": "50",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "quote": "ある中堅製造業では、既存設備に後付けセンサーを設置してクラウドでデータを管理したところ、初期投資50万円未満で生産性が15%以上向上した事例があります"
+   },
+   {
+    "value": "200",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "quote": "11 専門家の招聘、市場調査、セミナー開催などを行う取組に対し補助（補助上限額：200 万円）"
+   },
+   {
+    "value": "2,000",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "quote": "12 新商品開発、展示会出展等を行うプロジェクトに対し、最大３年間補助（補助上限額：2,000 万円）"
+   },
+   {
+    "value": "1,000",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "売上1,000万円未満 約140万者"
+   },
+   {
+    "value": "50",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "50万円×グループ構成員数"
+   },
+   {
+    "value": "3,000",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "合わせて3,000万円まで"
+   },
+   {
+    "value": "200",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "(c)事務費・専門家費：200万円"
+   },
+   {
+    "value": "350",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "２機能以上：～350万円"
+   },
+   {
+    "value": "5",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "～350万円 5万円～150万円"
+   },
+   {
+    "value": "150",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "～350万円 5万円～150万円"
+   },
+   {
+    "value": "450",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "150万円～450万円"
+   },
+   {
+    "value": "600",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "補助上限 600万円 700万円"
+   },
+   {
+    "value": "700",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "補助上限 600万円 700万円"
+   },
+   {
+    "value": "200",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "quote": "年収200万円以上"
+   },
+   {
+    "value": "1.9",
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "quote": "労働者１人あたり1.9万円"
+   },
+   {
+    "value": "5000",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "3.サービス業 5000 万円以下 100 人以下 5 人以下"
+   },
+   {
+    "value": "26.9",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合"
+   },
+   {
+    "value": "20.9",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合"
+   },
+   {
+    "value": "14.1",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "約 14.1 万円の月収の差がある"
+   },
+   {
+    "value": "7.5",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、"
+   },
+   {
+    "value": "5.3",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "小企業の場合約 5.3 万円の月収の差がある"
+   },
+   {
+    "value": "382",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従"
+   },
+   {
+    "value": "476",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従"
+   },
+   {
+    "value": "272",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従"
+   },
+   {
+    "value": "420",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている"
+   },
+   {
+    "value": "518",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている"
+   },
+   {
+    "value": "290",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている"
+   },
+   {
+    "value": "520",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）"
+   },
+   {
+    "value": "675",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）"
+   },
+   {
+    "value": "316",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）"
+   },
+   {
+    "value": "140",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差"
+   },
+   {
+    "value": "200",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差"
+   },
+   {
+    "value": "44",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差"
+   },
+   {
+    "value": "100",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "対象になるものの例としては、100 万円以上の機械及び装置、30 万円以上の器"
+   },
+   {
+    "value": "30",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "対象になるものの例としては、100 万円以上の機械及び装置、30 万円以上の器"
+   },
+   {
+    "value": "60",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "具及び備品、60 万円以上の建物附属設備がある"
+   },
+   {
+    "value": "8000",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "の範囲内（最高 8000 万円）で共済金の貸付けが受けられる制度である"
+   },
+   {
+    "value": "1000",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "quote": "1000万円以下 231 55.9%"
+   },
+   {
+    "value": "5000",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "quote": "1000万円超～5000万円以下 136 32.9%"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/PDF/chusho/04Hakusyo_part2_chap3_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cr-cres.jp/cresight/sales/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E5%96%B6%E6%A5%AD%E3%82%92%E5%BC%B7%E3%81%8F%E3%81%99%E3%82%8B%E6%96%B0%E8%A6%8F%E9%96%8B%E6%8B%93%E3%81%AE%E6%89%8B%E6%B3%95%E3%81%A8%E7%B5%84%E7%B9%94%E8%A8%AD/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.konicaminolta.jp/business/solution/idea-showroom/detail/ejikan/column/smes-grouth/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/37572",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/mba/pdf/SBR/3-2/019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hiac.or.jp/hiac_images/2023/02/H26chusho_houkoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12073/194.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_38019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/report_202605151019_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://start-link.jp/hubspot-ai/management/management-leadership/chusho-kigyo-keiei-kadai-ranking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jma.or.jp/img/pdf-report/keieikadai_2024_report_issues_manufacturing-result.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/PDF/chusho/03Hakusyo_part1_chap4_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/column/new-business-development-in-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trst.bz/seizogyo-shinki-kaitaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pro-d-use.jp/blog/manufacturing-new-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ec-cube.net/enterprise/btob/column/manufacture-dx-cases-smb/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/zaimu/kannai/202303/tokubetsu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/016_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kizuna-group.jp/nestlab/industry-manufacturing.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://ecto-con.com/newchallenges/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較）",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/PDF/chusho/04Hakusyo_part2_chap3_web.pdf",
+    "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "https://cr-cres.jp/cresight/sales/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E5%96%B6%E6%A5%AD%E3%82%92%E5%BC%B7%E3%81%8F%E3%81%99%E3%82%8B%E6%96%B0%E8%A6%8F%E9%96%8B%E6%8B%93%E3%81%AE%E6%89%8B%E6%B3%95%E3%81%A8%E7%B5%84%E7%B9%94%E8%A8%AD/",
+    "https://www.konicaminolta.jp/business/solution/idea-showroom/detail/ejikan/column/smes-grouth/index.html",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "https://kizuna-group.jp/nestlab/industry-manufacturing.html",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf"
+   ]
+  },
+  {
+   "query": "中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較） 調査 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/PDF/chusho/04Hakusyo_part2_chap3_web.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://www.u-hyogo.ac.jp/mba/pdf/SBR/3-2/019.pdf",
+    "https://www.hiac.or.jp/hiac_images/2023/02/H26chusho_houkoku.pdf",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf",
+    "https://www.konicaminolta.jp/business/solution/idea-showroom/detail/ejikan/column/smes-grouth/index.html",
+    "https://www.pref.osaka.lg.jp/documents/12073/194.pdf",
+    "https://www.jma.or.jp/img/pdf-report/keieikadai_2024_report_issues_manufacturing.pdf",
+    "https://www.jma.or.jp/img/pdf-report/keieikadai_2024_report_issues_manufacturing-result.pdf"
+   ]
+  },
+  {
+   "query": "中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較） 厚生労働省",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://www.mhlw.go.jp/stf/newpage_38019.html",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/report_202605151019_1.pdf"
+   ]
+  },
+  {
+   "query": "中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較） 規模別 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://www.konicaminolta.jp/business/solution/idea-showroom/detail/ejikan/column/smes-grouth/index.html",
+    "https://start-link.jp/hubspot-ai/management/management-leadership/chusho-kigyo-keiei-kadai-ranking",
+    "https://www.tdb.co.jp/report/economic/20260304-management-issues/"
+   ]
+  },
+  {
+   "query": "中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較） 製造業 事例",
+   "results": [
+    "https://cr-cres.jp/cresight/sales/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E5%96%B6%E6%A5%AD%E3%82%92%E5%BC%B7%E3%81%8F%E3%81%99%E3%82%8B%E6%96%B0%E8%A6%8F%E9%96%8B%E6%8B%93%E3%81%AE%E6%89%8B%E6%B3%95%E3%81%A8%E7%B5%84%E7%B9%94%E8%A8%AD/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/PDF/chusho/04Hakusyo_part2_chap3_web.pdf",
+    "https://onlystory.co.jp/service/column/new-business-development-in-manufacturing/",
+    "https://trst.bz/seizogyo-shinki-kaitaku/",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "https://pro-d-use.jp/blog/manufacturing-new-business/",
+    "https://www.u-hyogo.ac.jp/mba/pdf/SBR/3-2/019.pdf",
+    "https://www.ec-cube.net/enterprise/btob/column/manufacture-dx-cases-smb/",
+    "https://www.mof.go.jp/about_mof/zaimu/kannai/202303/tokubetsu.pdf",
+    "https://www.jma.or.jp/img/pdf-report/keieikadai_2024_report_issues_manufacturing-result.pdf"
+   ]
+  },
+  {
+   "query": "中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較） 2025 OR 2026",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "https://www.konicaminolta.jp/business/solution/idea-showroom/detail/ejikan/column/smes-grouth/index.html",
+    "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "https://kizuna-group.jp/nestlab/industry-manufacturing.html",
+    "https://ecto-con.com/newchallenges/"
+   ]
+  },
+  {
+   "query": "site:note.com 中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較）",
+   "results": [
+    "https://note.com/transtep/n/nbcf6a28b6d78",
+    "https://note.com/bright_bear5875/n/nb9d31fa6fea4",
+    "https://note.com/onomatsu_kenta/n/ne57d2e175e3f",
+    "https://note.com/loyal_ivy9071/n/nf6656a048090",
+    "https://note.com/loyal_ivy9071/n/n4adec46f77ec",
+    "https://note.com/firefox888/n/n03659ec6dfc9",
+    "https://note.com/keiei_lab_note/n/nbfb89bcc221f",
+    "https://note.com/crisp_panda5486/n/nce1fc643137d",
+    "https://note.com/chic_deer1160/n/n469e243524d9",
+    "https://note.com/improvebiz_jp/n/nd371b66b32fb"
+   ]
+  },
+  {
+   "query": "site:x.com 中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較）",
+   "results": [
+    "https://x.com/kemtch/status/2059099276895199452",
+    "https://x.com/mitsukaru_jpn/status/2052342695381885432",
+    "https://x.com/firstep_karash/status/2038949430900969542",
+    "https://x.com/Nikkan_BizLine/status/2105072506298110028",
+    "https://x.com/jintekishihon/status/2110840638170435808",
+    "https://x.com/meti_NIPPON/status/2057775145427886388",
+    "https://x.com/jimin_koho/status/2064628662054633686"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較）",
+   "results": [
+    "https://tw.linkedin.com/pulse/製造業の経営１３-美徳-鈴木-iz7mc",
+    "https://jp.linkedin.com/posts/tech-okioka_経営課題とは定義一覧から見つけ方優先順位のつけ方解決策まで2026年版-activity-7521011471665946625-h2Bl",
+    "https://jp.linkedin.com/pulse/製造業の経営１１-エフェクチュエーション-美徳-鈴木-ktsdc",
+    "https://www.linkedin.com/pulse/一強多敗時代における中堅中小企業の戦略弱者の生き残り方-michio-okazaki-untlc",
+    "https://www.linkedin.com/pulse/エンジニアから外資系企業のceoまであらゆる階層で製造業の現実と向き合って得た知見-美徳-鈴木-8nvjc/",
+    "https://jp.linkedin.com/pulse/製造業における人材需給バランスの意外な推移-俊哉-前岡-t4xac",
+    "https://jp.linkedin.com/posts/techport-co-jp_なぜ中小製造業の営業は疲弊するのか-受託加工業に潜むマーケティング不在という-activity-7428936151824154624-vBy6"
+   ]
+  },
+  {
+   "query": "site:facebook.com 中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較）",
+   "results": [
+    "https://www.facebook.com/osakacci/posts/大阪商工会議所緊急調査中東情勢の緊迫化在阪企業の７割以上が影響懸念２０２６年３月１９日中堅中小企業の業況経営課題等に関する調査中東情勢が在阪企業に与える影響に関/970435928884292/",
+    "https://www.facebook.com/tanabeconsulting/posts/中堅企業白書2026を発刊いたしました日本経済を支える中堅企業の実態と未来に向けた成長戦略を総合的にまとめた中堅企業白書2026を発刊いたしました当社は創業以来/1325528216263549/",
+    "https://www.facebook.com/osakacci/photos/大阪商工会議所緊急調査中東情勢の緊迫化在阪企業の７割以上が影響懸念２０２６年３月１９日中堅中小企業の業況経営課題等に関する調査中東情勢が在阪企業に与える影響に関/970435888884296/",
+    "https://www.facebook.com/organizationsurvey/videos/面白い調査結果があるそれはjma日本能率協会が行った調査で全国主要企業530社の経営者が自社の当面する企業経営課題を現在3年後5年後について回答した結果である経/1055151267301191/",
+    "https://www.facebook.com/mssf.jp/posts/連載コラム中小製造業の今を変える-経営と現場のデジタル改革-第４回本コラムでは労働生産性に焦点を当てなぜデジタル化dx化が重要なのかを考察します第４回のテーマは/122161576166609139/",
+    "https://www.facebook.com/reel/1210263137972430/",
+    "https://www.facebook.com/smrjpr/posts/中小企業の課題解決のヒントが満載ハンズオン支援事例集2024を公開経営戦略からdx生産性向上まで中小企業の課題解決の取り組みのヒントが満載です詳細はこちらhtt/1132901322209149/"
+   ]
+  },
+  {
+   "query": "中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較） note 社長",
+   "results": [
+    "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/1000100.pdf",
+    "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "https://note.com/toru1960/n/n884c2d2af8b1",
+    "https://cr-cres.jp/cresight/sales/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E5%96%B6%E6%A5%AD%E3%82%92%E5%BC%B7%E3%81%8F%E3%81%99%E3%82%8B%E6%96%B0%E8%A6%8F%E9%96%8B%E6%8B%93%E3%81%AE%E6%89%8B%E6%B3%95%E3%81%A8%E7%B5%84%E7%B9%94%E8%A8%AD/",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://start-link.jp/hubspot-ai/management/management-leadership/chusho-kigyo-keiei-kadai-ranking",
+    "https://www.konicaminolta.jp/business/solution/idea-showroom/detail/ejikan/column/smes-grouth/index.html",
+    "https://kizuna-group.jp/nestlab/industry-manufacturing.html",
+    "https://note.com/keiei_lab_note/n/nbfb89bcc221f"
+   ]
+  },
+  {
+   "query": "中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/PDF/chusho/04Hakusyo_part2_chap3_web.pdf",
+    "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "https://www.cloud-erp-guide.com/blog/challenges-for-sme",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://www.konicaminolta.jp/business/solution/idea-showroom/detail/ejikan/column/smes-grouth/index.html",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://kizuna-group.jp/nestlab/industry-manufacturing.html",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/0502.pdf",
+    "https://www.jma.or.jp/img/pdf-report/keieikadai_2024_report_issues_manufacturing-result.pdf"
+   ]
+  },
+  {
+   "query": "management issues ranking SME manufacturers hiring vs sales site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/sme-credit-dilemma-why-rating-scoring-what-need-pratama-adhi-nugraha-adjzc",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/jobs/view/customer-service-call-center-expert-at-sme-careers-4477462463",
+    "https://www.linkedin.com/in/maryhutchins",
+    "https://uk.linkedin.com/in/robhawesfoodrecruiter",
+    "https://uk.linkedin.com/in/hammadhassanmalik",
+    "https://uk.linkedin.com/company/smeforum",
+    "https://www.linkedin.com/in/scottwhitehead04",
+    "https://www.linkedin.com/posts/veronicarivero_b2bsales-activity-7513954482091675649-TJbh",
+    "https://www.linkedin.com/posts/profjohna_practical-innovation-start-with-the-problem-activity-7516245229105233920-mDj1"
+   ]
+  }
+ ],
+ "missing": {
+  "作る側の原価": "記載なし（読んだ33頁・検索13回）"
+ }
+}

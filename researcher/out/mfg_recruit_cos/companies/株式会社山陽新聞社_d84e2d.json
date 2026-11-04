@@ -1,0 +1,3070 @@
+{
+ "name": "株式会社山陽新聞社",
+ "aliases": [
+  "山陽新聞"
+ ],
+ "context": "瀬戸内の地場（岡山）",
+ "researched_at": "2026-11-04T15:05:35.486004+00:00",
+ "official_url": "https://www.sanyonews.jp/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "松田正己 （ 代表 取締役 社長 ）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役会長　松田 正己（まつだ まさみ） 代表取締役社長　桑原 　功（くわはら いさお）",
+    "url": "https://c.sanyonews.jp/recruit/corp.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役会長 松田正己　　代表取締役社長 桑原功",
+    "url": "https://tenshoku.mynavi.jp/company/239684/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "1879年 （山陽新報社として設立）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1879年1月4日",
+    "url": "https://tenshoku.mynavi.jp/company/239684/",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "1879（明治12）年1月4日",
+    "url": "https://job.mynavi.jp/28/pc/search/corp81916/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億4850万円（2023年）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億4850万円",
+    "url": "https://c.sanyonews.jp/recruit/corp.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億4850万円",
+    "url": "https://tenshoku.mynavi.jp/company/239684/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億4,850万円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp81916/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "115億円(2023年11月現在)",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "116億円（2025年11月実績）",
+    "url": "https://c.sanyonews.jp/recruit/corp.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "116億円（2025年11月実績）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp81916/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "371人（2025年4月末現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "label": "社員数",
+    "value": "361人（男性283人、女性78人、2026年4月）",
+    "url": "https://c.sanyonews.jp/recruit/corp.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "372人(2025年3月)",
+    "url": "https://tenshoku.mynavi.jp/company/239684/",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "361人（男性283人、女性78人、2026年4月）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp81916/outline.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "主要株主",
+    "value": "佐々木勝美 （取締役会長） 大王製紙 天満屋 中国銀行",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "日刊新聞紙「山陽新聞」の発行と電子版「さんデジ」の運営、各種の出版、文化・スポーツ事業、電子・電波媒体へのニュース提供",
+    "url": "https://c.sanyonews.jp/recruit/corp.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "日刊新聞紙「山陽新聞」の発行と各種の出版、文化・スポーツ事業、電子・電波媒体へのニュース提供",
+    "url": "https://tenshoku.mynavi.jp/company/239684/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "新聞づくりは「地域づくり」！ 岡山県内での朝刊発行部数では69.5％のシェアを誇る山陽新聞。 事業内容をご紹介します。 ■新聞事業（取材・編集・発行） 岡山の「今」と「これから」を見つめ、地域に根差したニュースを届ける山陽新聞の中核事業です。 記者が地域に深く入り、行事や文化、活躍する人々の姿から、事件・事故、社会課題まで丁寧に取材。 事実を積み重ね、編集局で多角的に検証しながら、正確で信頼される紙面を毎朝発行しています。 新聞づくりを通して、地域の声をつなぎ、考えるきっかけを届けています。 ■デジタルメディア事業（山陽新聞デジタル） 新聞で培った取材力・情報力を生かし、ニュースサイトやアプリ、SNSなどを通じて情報を発信する事業です。 速報性が求められる話題から、背景を深掘りする特集まで、デジタルならではの表現で展開。 虚実が入り交じる時代だからこそ、信頼できる情報源として、いつでも・どこでも地域のニュースに触れられる環境をつくっています。 ■販売・広告・事業 ・販売では、紙面やデジタル媒体を活用し、約200ある山陽新聞販売所を通じて、読者のもとへ「山陽新聞」を商品としてお届けします",
+    "url": "https://job.mynavi.jp/28/pc/search/corp81916/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "創業年度": [
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "福山市立坪生小（同市坪生町）の創立１３０周年（２００１年）記念歌「風にのって」のリバイバル（復活）を目指す有志の合唱団が４日、同...",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "福山市立坪生小（同市坪生町）の創立１３０周年（２００１年）記念歌「風にのって」のリバイバル（復活）を目指す有志の合唱団が４日、同...",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/2/",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual/",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c",
+    "pass": 1
+   },
+   {
+    "quote": "藤田医大（愛知県豊明市）などが設立した法人「中部日本臓器提供支援協会」は２７日、心臓や肺などの移植をあっせんする法人として稼働を...",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c/",
+    "pass": 1
+   },
+   {
+    "quote": "藤田医大（愛知県豊明市）などが設立した法人「中部日本臓器提供支援協会」は２７日、心臓や肺などの移植をあっせんする法人として稼働を...",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical/",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical/",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news/",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=chihou_keizai",
+    "pass": 1
+   },
+   {
+    "quote": "（山陽新報社として設立）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "quote": "1879年設立の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "quote": "1870年代日本の設立",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "quote": "【訃報】ベレ出版創業者・内田眞吾氏お別れの会",
+    "url": "https://www.bunkanews.jp/article/451040/",
+    "pass": 3
+   }
+  ],
+  "売上・規模": [
+   {
+    "quote": "岡山で橋名板４枚盗難 浮田川に架かる蛍橋",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "備前市美術館特別展「セラミック・レゾナンス」招待券 20名様",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "福山市は備後地方の拠点で、バラのまちで知られる",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "景勝地・鞆の浦も有名",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "道の駅や名所を巡るクイズとスタンプラ...",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "江戸時代の大名行列再現 神辺本陣で小中高生ら",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "【Ｗプラン・単独プラン・法人プラン限定】亡くなった著名人のたどった歩みを振り返り、記憶に残る生前の姿をしのびます",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "【特集】愛知・名古屋アジア大会2026",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "【Ｗプラン・単独プラン・法人プラン限定】愛知・名古屋アジア大会が９～１０月に愛知県の会場を中心に開かれます",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "【特集】つながる想い、くまもとから未来へ 熊本地震 著名人が語る復興への願い",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "【Ｗプラン・単独プラン・法人プラン限定】熊本出身の著名人6人が地震で被災された方々や、ふるさとへの思いを寄せました",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "▼著名...",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "【Ｗプラン・単独プラン・法人プラン限定】文部科学相の諮問機関である中教審（正式名称：中央教育審議会）は、次期学習指導要領の全体像と...",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "伝家の宝刀スライダーのキレが「死んだ」岩瀬仁紀さんが覚えた違和感とは 最多セーブ守護神が巡らせた「思考」、プロ野球のレジェンド「名球会」連続インタビュー（６４）",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "プロ野球のレジェンドに現役時代や、その後の活動を語ってもらった連続インタビューの蔵出し企画「名球会よもやま話」",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "地域支援の拠点整備や専門人材の育成推進に対する期待は膨らむが...",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "厚生労働省は３０日、２０２４年度に病気やけがの治療で全国の医療機関に支払われた医療費の総額（国民医療費）は４８兆８１００億円だっ...",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "ＪＲ東海が、リニア中央新幹線の東京・品川―名古屋間の工事費見通しを、従来の１１兆円から増額する方向で検討していることが４日、関係...",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "「名実ともに『ナンバーワン...",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "１４歳関「頑張っていくぞ」 巨人、史上初指名の中学生",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "１０月のプロ野球ドラフト会議で巨人から育成ドラフト５位で指名された川崎市立向丘中学校の関蓮太郎捕手（１４）が４日、球団からあいさ...",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "赤楚衛二、歌舞伎町のホストクラブで役作り 名刺の渡し方など研究「スマートすぎて…」",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "岡山県内の神社や寺院をテーマにした「第１６回まいられぇ岡山 神社仏閣を巡るフォトコンテスト」（山陽新聞社主催）の最終審査が２６日、岡山市北区柳町の同社で開かれ、最優秀賞に同西花尻、パート従業員...",
+    "url": "https://www.sanyonews.jp/kikaku_mairare/",
+    "pass": 1
+   },
+   {
+    "quote": "小堀遠州による名 ...⇒",
+    "url": "https://www.sanyonews.jp/kikaku_mairare/",
+    "pass": 1
+   },
+   {
+    "quote": "新聞購読者の名義が、同居のご家族であれば山陽新聞デジタルWプランにお申し込みいただけます",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "契約者の名前でお申し込みください",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "「山陽新聞デジタル」のログイン画面で「パスワードを忘れた場合」のリンクを押し、次の画面でお名前、生年月日、メールアドレスを入力して送信してください",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "あなたのお名前",
+    "url": "https://www.sanyonews.jp/service/forget/reset",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "総社市を活動拠点にする和太鼓グループ「備中温羅（うら）太鼓」が８日、結成５０周年記念コンサートを市民会館（同市中央）で開く",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "矢掛町名誉町民の書家・田中塊堂（１８９６～１９７６年）の没後５０年に合わせた特別展が、同町矢掛のやかげ郷土美術館で開かれている",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "道の駅や名所を巡るクイズとスタンプラ...",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "玉野市田井の深山公園内にある深山イギリス庭園に、備前焼作家の石田和也さん（４０）＝備前市＝と英国の有名な植木鉢工房「ウィッチフォ...",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "女性将棋の公式タイトル戦「大山名人杯第３４期倉敷藤花戦」（日本将棋連盟、倉敷市、同市文化振興財団、山陽新聞社主催）の３番勝負は６...",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "岡山県内外の芸術家や著名人の逸品を集めたチャリティー展「第７９回歳末助け合い美術展」（山陽新聞社会事業団主催）の会期は３日限り",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "温水プールやスポーツジム完備 里庄に焼却熱利用の連携拠点オープン",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "清掃工場の焼却熱を利用する広域連携拠点施設が１日、岡山県里庄町新庄にオープンした",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初の食道がん治療薬「テロメライシン」 香川労災病院で初治療 岡山大の藤原名誉教授ら開発",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "食道がんに対する世界初のウイルス製剤として８月に発売された「テロメライシン」（一般名スラタデノツレブ）による初の治療が２４日、香...",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "「統合失調症」病名変更から四半世紀 患者への告知率９割超に上昇 一層の社会啓発が課題 高木岡山大学術研究院教授ら初調査",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精神神経学会が「統合失調症」の病名を２００２年に「精神分裂病」から変更して約四半世紀―",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "福山市は備後地方の拠点で、バラのまちで知られる",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "景勝地・鞆の浦も有名",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "道の駅や名所を巡るクイズとスタンプラ...",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "江戸時代の大名行列再現 神辺本陣で小中高生ら",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "福山市は備後地方の拠点で、バラのまちで知られる",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/2/",
+    "pass": 1
+   }
+  ],
+  "料金": [
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "経営陣から連絡を」「私は５千万円を失いました」",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "日本、生態系保全へ１億５千万円 開発途上国に追加拠出表明",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "２４年度医療費４８・８兆円 最高更新、１人３９万円超",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "藤本敏史、『THE FLOOR』で賞金500万円獲得 芸能界で自身初優勝「人生、まだまだ乗っていけるんちゃうかな」",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "追加料金なし",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "・Wプラン：山陽新聞朝刊＋さんデジで月額３９００円（税込）",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "・単独プラン：月額３６００円（税込）",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "・法人プラン：月額３６００円（税込）",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "新聞購読者は2023年11月からＷプラン（385円／月）が無料になりましたが、料金請求は自動で止まりますか",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "10月分のご利用料金はクレジットカード決済の方は10月1日付で10月6日にカード会社に請求されました",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "可能ですが、紙の新聞をご購読中であれば追加料金なしで契約できるＷプランをおすすめします",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "ファジゲートのコンテンツも追加料金なしでご利用いただけます",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "・山陽新聞社のデジタルサービス（山陽新聞デジタル単独プランおよび2023年10月分までのWプラン月額385円、ファジゲート）の、インボイス制度対応領収書の発行申請フォームです",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "料金はいつからかかりますか？",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "翌月からは月決め料金で決済させていただきます",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "口座振替の場合は、後日、お近くの山陽新聞販売所から「山陽新聞購読料金口座振替届出書」をお届けします",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "月ぎめ料金ですのでご返金はいたしかねます",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "津山中央病院（津山市川崎）は５日、救急車１台の更新と車載医療資機材の整備に充てる費用を募るクラウドファンディング（ＣＦ）を始めた...",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "中国電力（広島市）と岡山ガス（岡山市）など地場都市ガス４社は２９日、電気、ガス代の１１月使用分の料金を値上げすると発表した",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/2/",
+    "pass": 1
+   },
+   {
+    "quote": "福山市長、ハワイ訪問は「スリムな費用」 高額批判受け説明",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/2/",
+    "pass": 1
+   },
+   {
+    "quote": "福山市の枝広直幹市長と連石武則議長らの親善友好都市・米ハワイ州マウイ郡訪問（９月２７日～１０月３日）で、総額約１４００万円の旅費...",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/2/",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/2/",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual/",
+    "pass": 1
+   },
+   {
+    "quote": "日本、生態系保全へ１億５千万円 開発途上国に追加拠出表明",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c",
+    "pass": 1
+   },
+   {
+    "quote": "２４年度医療費４８・８兆円 最高更新、１人３９万円超",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical",
+    "pass": 1
+   },
+   {
+    "quote": "日本、生態系保全へ１億５千万円 開発途上国に追加拠出表明",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c/",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c/",
+    "pass": 1
+   },
+   {
+    "quote": "２４年度医療費４８・８兆円 最高更新、１人３９万円超",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical/",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical/",
+    "pass": 1
+   },
+   {
+    "quote": "価格は5,000円（税込）...",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news",
+    "pass": 1
+   },
+   {
+    "quote": "価格は...",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news",
+    "pass": 1
+   },
+   {
+    "quote": "価格は各5,400円（税込・送料込み）で、全20点、約6,...",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news",
+    "pass": 1
+   },
+   {
+    "quote": "『年末ジャンボ宝くじ』100万円の当せん本数が前年の1.5倍に『年末ジャンボミニ』も同時発売【当選金概要一覧掲載】",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news",
+    "pass": 1
+   },
+   {
+    "quote": "価格は税込5000円で、五穀ご飯のもとやご...",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news",
+    "pass": 1
+   },
+   {
+    "quote": "価格は5,000円（税込）...",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news/",
+    "pass": 1
+   },
+   {
+    "quote": "価格は...",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news/",
+    "pass": 1
+   },
+   {
+    "quote": "価格は各5,400円（税込・送料込み）で、全20点、約6,...",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news/",
+    "pass": 1
+   },
+   {
+    "quote": "『年末ジャンボ宝くじ』100万円の当せん本数が前年の1.5倍に『年末ジャンボミニ』も同時発売【当選金概要一覧掲載】",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news/",
+    "pass": 1
+   },
+   {
+    "quote": "価格は税込5000円で、五穀ご飯のもとやご...",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news/",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news/",
+    "pass": 1
+   },
+   {
+    "quote": "追加料金なし",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=chihou_keizai",
+    "pass": 1
+   },
+   {
+    "quote": "東証、一時６万円割れ迫る 米選挙懸念でＡＩ株売り",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=chihou_keizai",
+    "pass": 1
+   }
+  ],
+  "製造業の顧客": [
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置に搭載するプラズマ発生用高周波電源製造大手のアドテックプラズマテクノロジー（福山市引野町）は、主力のベトナム工場で...",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "福山市立大（同市港町）と包装資材卸・コパックス（同市柳津町）、食品メーカー・阿藻珍味（同市鞆町後地）が連携し、中国・四川省発祥の...",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "ビールやウイスキー造りに使われる二条大麦が輸入品に偏る中、愛知県三河地域では途絶えていた生産が復活し、地元メーカーによる地産地消...",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "青森の再処理工場事故想定で訓練 六ケ所村、住民が屋内退避も",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "青森県は３１日、地震により同県六ケ所村の使用済み核燃料再処理工場で臨界事故が起きたとの想定で、自治体や関係機関との情報伝達や住民...",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "安全対策「終わりなし」 規制委員、再処理工場で",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "原子力規制委員会の長崎晋也委員は３０日、青森県六ケ所村に建設中の日本原燃の使用済み核燃料再処理工場を訪れ、設備の状況などを確認し...",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "９月に９１歳で亡くなった脚本家倉本聰さんのお別れの会が３日、北海道富良野市の劇場「富良野演劇工場」で開かれ、俳優やファンが花を手...",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "福山市立大（同市港町）と包装資材卸・コパックス（同市柳津町）、食品メーカー・阿藻珍味（同市鞆町後地）が連携し、中国・四川省発祥の...",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "清掃工場の焼却熱を利用する広域連携拠点施設が１日、岡山県里庄町新庄にオープンした",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体洗浄装置メーカーのジェイ・イー・ティ（ＪＥＴ、岡山県里庄町新庄）が本社工場で拡張工事を進めていたデモルームが完成した",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置に搭載するプラズマ発生用高周波電源製造大手のアドテックプラズマテクノロジー（福山市引野町）は、主力のベトナム工場で...",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "福山市立大（同市港町）と包装資材卸・コパックス（同市柳津町）、食品メーカー・阿藻珍味（同市鞆町後地）が連携し、中国・四川省発祥の...",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/2/",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual/",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual/",
+    "pass": 1
+   },
+   {
+    "quote": "青森の再処理工場事故想定で訓練 六ケ所村、住民が屋内退避も",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c",
+    "pass": 1
+   },
+   {
+    "quote": "青森県は３１日、地震により同県六ケ所村の使用済み核燃料再処理工場で臨界事故が起きたとの想定で、自治体や関係機関との情報伝達や住民...",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c",
+    "pass": 1
+   },
+   {
+    "quote": "安全対策「終わりなし」 規制委員、再処理工場で",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c",
+    "pass": 1
+   },
+   {
+    "quote": "原子力規制委員会の長崎晋也委員は３０日、青森県六ケ所村に建設中の日本原燃の使用済み核燃料再処理工場を訪れ、設備の状況などを確認し...",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical",
+    "pass": 1
+   },
+   {
+    "quote": "青森の再処理工場事故想定で訓練 六ケ所村、住民が屋内退避も",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c/",
+    "pass": 1
+   },
+   {
+    "quote": "青森県は３１日、地震により同県六ケ所村の使用済み核燃料再処理工場で臨界事故が起きたとの想定で、自治体や関係機関との情報伝達や住民...",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c/",
+    "pass": 1
+   },
+   {
+    "quote": "安全対策「終わりなし」 規制委員、再処理工場で",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c/",
+    "pass": 1
+   },
+   {
+    "quote": "原子力規制委員会の長崎晋也委員は３０日、青森県六ケ所村に建設中の日本原燃の使用済み核燃料再処理工場を訪れ、設備の状況などを確認し...",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c/",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c/",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c/",
+    "pass": 1
+   },
+   {
+    "quote": "工場見学やお笑いステージ １１月３日 倉敷でＪＦＥフェスタ",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical/",
+    "pass": 1
+   },
+   {
+    "quote": "ビックカメラで情報流出 １４９０万件、顧客メアド",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical/",
+    "pass": 1
+   }
+  ],
+  "売り方": [
+   {
+    "quote": "岡山のAI展示会「坂の上のクラウドフェア2026」で登壇",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「秋の叙勲」エリアの受章者紹介 それぞれの道で不断の努力",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "11/14・15 終活セミナー開催",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新規ご購読者紹介キャンペーン",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "「秋の叙勲」エリアの受章者紹介 それぞれの道で不断の努力",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "11/14・15 終活セミナー開催",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "新規ご購読者紹介キャンペーン",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "「秋の叙勲」エリアの受章者紹介 それぞれの道で不断の努力",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "11/14・15 終活セミナー開催",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "新規ご購読者紹介キャンペーン",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "「秋の叙勲」エリアの受章者紹介 それぞれの道で不断の努力",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "11/14・15 終活セミナー開催",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "新規ご購読者紹介キャンペーン",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "「秋の叙勲」エリアの受章者紹介 それぞれの道で不断の努力",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "11/14・15 終活セミナー開催",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "新規ご購読者紹介キャンペーン",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら１３０人",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "「秋の叙勲」エリアの受章者紹介 それぞれの道で不断の努力",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "11/14・15 終活セミナー開催",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "新規ご購読者紹介キャンペーン",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "「秋の叙勲」エリアの受章者紹介 それぞれの道で不断の努力",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "11/14・15 終活セミナー開催",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "新規ご購読者紹介キャンペーン",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "「秋の叙勲」エリアの受章者紹介 それぞれの道で不断の努力",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "11/14・15 終活セミナー開催",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "新規ご購読者紹介キャンペーン",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "忙しい現代人の食卓を救う究極の「一汁一菜」を紹介する、料理研究家・小田真規子氏の最新刊『まいにち豚汁 冷蔵庫の野菜といつもの調味...",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "「秋の叙勲」エリアの受章者紹介 それぞれの道で不断の努力",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "11/14・15 終活セミナー開催",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "新規ご購読者紹介キャンペーン",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介：山陽新聞デジタル｜さんデジ",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "県内企業の経営者らが、講演や事例紹介を通じて女性が働きやすい環境整備に理解を深めた",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "「秋の叙勲」エリアの受章者紹介 それぞれの道で不断の努力",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "11/14・15 終活セミナー開催",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "新規ご購読者紹介キャンペーン",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "また、岡山、全国の最新ニュースをお届けする「速報メール」や毎日配信の「山陽新聞ニュースレター」、記者がおすすめの記事を紹介する「山陽新聞記者セレクト」のメルマガサービスがあります",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "（金融機関が休日の場合は翌営業日となります）",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "「秋の叙勲」エリアの受章者紹介 それぞれの道で不断の努力",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "11/14・15 終活セミナー開催",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "新規ご購読者紹介キャンペーン",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "岡山東照宮祭礼の古文書２７点 市図書館、企画展でにぎわい紹介",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "「秋の叙勲」エリアの受章者紹介 それぞれの道で不断の努力",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "11/14・15 終活セミナー開催",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "新規ご購読者紹介キャンペーン",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "女性活躍の推進考える 岡山市でシンポジウム、講演や事例紹介",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "「秋の叙勲」エリアの受章者紹介 それぞれの道で不断の努力",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "11/14・15 終活セミナー開催",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "新規ご購読者紹介キャンペーン",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   }
+  ],
+  "採用・人数": [
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs×吉備の環シンポ参加者募集",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "第77回県展 作品募集",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブリターン（アルムナイ）採用",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "山陽新聞 配達スタッフ募集",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   }
+  ],
+  "発言": [
+   {
+    "quote": "動画生成AIを語る",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【語る伝える】 若年性認知症の妻をみとった「認知症の人と家族の会」神奈川県支部副代表 三橋良博さん（７３）",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "「認知症の人と家族の会」神奈川県支部副代表の三橋良博さん（７３）＝横浜市＝は、若年性アルツハイマー型認知症と診断された同い年の妻...",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "pass": 1
+   },
+   {
+    "quote": "【特集】つながる想い、くまもとから未来へ 熊本地震 著名人が語る復興への願い",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "pass": 1
+   },
+   {
+    "quote": "伝家の宝刀スライダーのキレが「死んだ」岩瀬仁紀さんが覚えた違和感とは 最多セーブ守護神が巡らせた「思考」、プロ野球のレジェンド「名球会」連続インタビュー（６４）",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "プロ野球のレジェンドに現役時代や、その後の活動を語ってもらった連続インタビューの蔵出し企画「名球会よもやま話」",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "pass": 1
+   },
+   {
+    "quote": "「廃炉確実に」と福島県知事 原発視察、東電社長へ要請",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "pass": 1
+   },
+   {
+    "quote": "正木、山口が快音響かせる 野球日本代表、宮崎合宿開始",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "野球日本代表は３日、アジアプロ野球チャンピオンシップ（１２日開幕・東京ドーム）に向け、宮崎市のひなたサンマリンスタジアム宮崎で合...",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "pass": 1
+   },
+   {
+    "quote": "日本サッカー協会は４日、ブラジルなどと対戦するシンガポール遠征に臨む日本代表に、復帰の南野（モナコ）町田（ホッフェンハイム）小川...",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "高橋宏が精力的に投げ込む 日本代表、宮崎合宿",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "２４歳以下やプロ３年目以内の若手主体で戦うアジアプロ野球チャンピオンシップ（１２日開幕・東京ドーム）に向けた日本代表の合宿が４日...",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "サッカー日本代表に福田初選出、南野復帰",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "日本サッカー協会は４日、シンガポールでブラジルなどとの国際親善試合に臨む日本代表に、初選出の福田師王（カールスルーエ）や復帰の南...",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "pass": 1
+   },
+   {
+    "quote": "遺族の代表者らが玉串を奉納",
+    "url": "https://www.sanyonews.jp/kikaku_mairare/",
+    "pass": 1
+   },
+   {
+    "quote": "練習場や試合会場で密着取材する担当記者が、新聞紙面では伝えきれない深掘り記事や、練習・試合後の詳しいコメントのほか、戦術やフォーメーション分析、人となりがよく分かるロングインタビューなど、コアなファンから初心者まで幅広くお楽しみいただけるオリジナルコンテンツを提供します",
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "pass": 1
+   },
+   {
+    "quote": "【語る伝える】 若年性認知症の妻をみとった「認知症の人と家族の会」神奈川県支部副代表 三橋良博さん（７３）",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "「認知症の人と家族の会」神奈川県支部副代表の三橋良博さん（７３）＝横浜市＝は、若年性アルツハイマー型認知症と診断された同い年の妻...",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "pass": 1
+   },
+   {
+    "quote": "「がんで亡くなる人なくしたい」 内視鏡的粘膜下層剝離術の先駆者 第３１回松岡良明賞を受賞した岡山大・河原教授インタビュー",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/2/",
+    "pass": 1
+   },
+   {
+    "quote": "【特集】つながる想い、くまもとから未来へ 熊本地震 著名人が語る復興への願い",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual/",
+    "pass": 1
+   },
+   {
+    "quote": "「廃炉確実に」と福島県知事 原発視察、東電社長へ要請",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical",
+    "pass": 1
+   },
+   {
+    "quote": "「廃炉確実に」と福島県知事 原発視察、東電社長へ要請",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news/",
+    "pass": 1
+   },
+   {
+    "quote": "【ひと・交差点】オガワエコノスの小川貴広社長 樹脂再資源化の拠点に育てる",
+    "url": "https://www.sanyonews.jp/article/2015790?rct=chihou_keizai",
+    "pass": 1
+   },
+   {
+    "quote": "遺族の代表者らが玉串を奉納",
+    "url": "https://www.sanyonews.jp/kikaku_mairare",
+    "pass": 1
+   },
+   {
+    "quote": "高松市に本社・演奏所を置くテレビ局のうち、瀬戸内海放送は岡山本社の代表電話番号を掲載しているが、西日本放送は高松本社の代表電話番号が掲載されている",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "quote": "社長メッセージ",
+    "url": "https://c.sanyonews.jp/release/2026/02/20260226140000.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役会長 松田 正己（まつだ まさみ）",
+    "url": "https://c.sanyonews.jp/recruit/corp.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長 桑原 功（くわはら いさお）",
+    "url": "https://c.sanyonews.jp/recruit/corp.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役会長 松田正己 代表取締役社長 桑原功",
+    "url": "https://tenshoku.mynavi.jp/company/239684/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー",
+    "url": "https://tenshoku.mynavi.jp/company/239684/",
+    "pass": 3
+   },
+   {
+    "quote": "社長メッセージ",
+    "url": "https://c.sanyonews.jp/ad/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長メッセージ",
+    "url": "https://c.sanyonews.jp/read/",
+    "pass": 3
+   },
+   {
+    "quote": "社長メッセージ",
+    "url": "https://c.sanyonews.jp/release/2023/10/20231012102755.html",
+    "pass": 3
+   },
+   {
+    "quote": "【新春インタビュー】 山陽新聞社 桑原功社長に聞く ローカルファーストに徹する - The Bunka News デジタル",
+    "url": "https://www.bunkanews.jp/article/451040/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー",
+    "url": "https://www.bunkanews.jp/article/451040/",
+    "pass": 3
+   },
+   {
+    "quote": "【新春インタビュー】 山陽新聞社 桑原功社長に聞く ローカルファーストに徹する",
+    "url": "https://www.bunkanews.jp/article/451040/",
+    "pass": 3
+   },
+   {
+    "quote": "新春インタビュー",
+    "url": "https://www.bunkanews.jp/article/451040/",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "主な出資会社",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "quote": "が筆頭株主で約18万株を保有し、以下",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "quote": "（約3万株）が大株主となっている",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "quote": "と共同出資）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "quote": "（第2位の株主(7.45%)",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "quote": "加盟局が運営・出資する",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在では、テレビ東京のみが運営・出資している",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞社は、2026年2月26日に開催された第125回定時株主総会ならびに取締役会において、新たな経営体制を決定いたしましたので、お知らせいたします",
+    "url": "https://c.sanyonews.jp/release/2026/02/20260226140000.html",
+    "pass": 3
+   },
+   {
+    "quote": "出版向け事業承継セミナー開催へ 文化通信社「64年ぶりの非上場株式評価大改正が迫る『承継の危機』」",
+    "url": "https://www.bunkanews.jp/article/451040/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "山陽新聞 - Wikipedia — 山陽新聞 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 山陽新聞",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞社 株主 総会 — 山陽新聞社 株主 総会 山陽新聞 https://www.sanyonews.jp > article",
+    "url": "https://www.sanyonews.jp/article/1879749",
+    "pass": 3
+   },
+   {
+    "quote": "役員の改選に関するお知らせ - 山陽新聞社 — 役員の改選に関するお知らせ - 山陽新聞社 山陽新聞社 https://c.sanyonews.jp > release > 2026/02",
+    "url": "https://c.sanyonews.jp/release/2026/02/20260226140000.html",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞 — 山陽新聞 SHINOBI.JP http://paletteorange.blog.shinobi.jp > 山陽新聞",
+    "url": "http://paletteorange.blog.shinobi.jp/%E5%B2%A1%E5%B1%B1%E7%9C%8C%E3%81%AE%E6%96%B0%E8%81%9E/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 山陽新聞社 の役員経歴 - IRBANK — 株式会社 山陽新聞社 の役員経歴 - IRBANK IRBANK https://irbank.net > 株式会社山陽新聞社",
+    "url": "https://irbank.net/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 採用情報 - 山陽新聞社 — 会社案内 | 採用情報 - 山陽新聞社 山陽新聞社 https://c.sanyonews.jp > recruit > corp",
+    "url": "https://c.sanyonews.jp/recruit/corp.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 山陽新聞社 の会社概要 - マイナビ転職 — 株式会社 山陽新聞社 の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/239684/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 山陽新聞社 （岡山県）の会社概要・役員 - Compalyze — 株式会社 山陽新聞社 （岡山県）の会社概要・役員 - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 新聞・出版",
+    "url": "https://compalyze.co.jp/company/2260001002653",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞社 (さんようしんぶんしゃ)とは？ 意味や使い方 — 山陽新聞社 (さんようしんぶんしゃ)とは？ 意味や使い方 コトバンク https://kotobank.jp > word > 山陽新聞社-1453569",
+    "url": "https://kotobank.jp/word/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E%E7%A4%BE-1453569",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 山陽新聞社 の会社概要 | マイナビ2028 — (株) 山陽新聞社 の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp81916 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp81916/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞社 の 新卒採用・就職・企業情報 - 就活会議 — 山陽新聞社 の 新卒採用・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > 新聞業界の企業一覧",
+    "url": "https://syukatsu-kaigi.jp/companies/16902",
+    "pass": 3
+   },
+   {
+    "quote": "業績予想修正 アルファ（6日）： 山陽新聞 デジタル｜さんデジ — 業績予想修正 アルファ（6日）： 山陽新聞 デジタル｜さんデジ 山陽新聞 https://www.sanyonews.jp > article",
+    "url": "https://www.sanyonews.jp/article/2000470",
+    "pass": 3
+   },
+   {
+    "quote": "【 製造業 様対象】40名限定！7月開催・工場見学会 ... - 山陽新聞 — 【 製造業 様対象】40名限定！7月開催・工場見学会 ... - 山陽新聞 山陽新聞 https://www.sanyonews.jp > photo > detail",
+    "url": "https://www.sanyonews.jp/photo/detail?article_id=1755017",
+    "pass": 3
+   },
+   {
+    "quote": "【 導入事例 】現場作業などの身体的負担を\"軽減\" 尾道造船が ... — 【 導入事例 】現場作業などの身体的負担を\"軽減\" 尾道造船が ... 山陽新聞 https://www.sanyonews.jp > article",
+    "url": "https://www.sanyonews.jp/article/1985490",
+    "pass": 3
+   },
+   {
+    "quote": "中小事業者のDX後押し 岡鉄工所、工場をショールームに — 中小事業者のDX後押し 岡鉄工所、工場をショールームに 山陽新聞 https://www.sanyonews.jp > article",
+    "url": "https://www.sanyonews.jp/article/1801251",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 の現場課題を解決する新たなAIソリューションを共同開発 — 製造業 の現場課題を解決する新たなAIソリューションを共同開発 山陽新聞 https://www.sanyonews.jp > article",
+    "url": "https://www.sanyonews.jp/article/1981173",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞社 ｜ 導入事例 - デジタルアーツ — 山陽新聞社 ｜ 導入事例 - デジタルアーツ デジタルアーツ https://www.daj.jp > case > case22",
+    "url": "https://www.daj.jp/bs/case/case22/",
+    "pass": 3
+   },
+   {
+    "quote": "料金 表・入稿ガイド - 山陽新聞社 — 料金 表・入稿ガイド - 山陽新聞社 山陽新聞社 https://c.sanyonews.jp > price",
+    "url": "https://c.sanyonews.jp/ad/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "新聞購読 - 山陽新聞社 — 新聞購読 - 山陽新聞社 山陽新聞社 https://c.sanyonews.jp > read",
+    "url": "https://c.sanyonews.jp/read/",
+    "pass": 3
+   },
+   {
+    "quote": "新聞購読 料 改定と電子版無料化について - 山陽新聞社 — 新聞購読 料 改定と電子版無料化について - 山陽新聞社 山陽新聞社 https://c.sanyonews.jp > release > 2023/10",
+    "url": "https://c.sanyonews.jp/release/2023/10/20231012102755.html",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞 デジタル 購読のご案内 — 山陽新聞 デジタル 購読のご案内 山陽新聞 https://www.sanyonews.jp > guide",
+    "url": "https://www.sanyonews.jp/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "朝刊記事下契約 料金 色 料金 その他 - 山陽新聞社 — 朝刊記事下契約 料金 色 料金 その他 - 山陽新聞社 山陽新聞社 https://c.sanyonews.jp > pricedetail2",
+    "url": "https://c.sanyonews.jp/ad/pricedetail2.html",
+    "pass": 3
+   },
+   {
+    "quote": "【新春 インタビュー 】 山陽新聞社 桑原功 社長 に聞く ローカル ... — 【新春 インタビュー 】 山陽新聞社 桑原功 社長 に聞く ローカル ... bunkanews.jp https://www.bunkanews.jp > article",
+    "url": "https://www.bunkanews.jp/article/451040/",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞 に 社長インタビュー が掲載されました — 山陽新聞 に 社長インタビュー が掲載されました 日本エアロフォージ株式会社 https://japan-aeroforge.com > 2024 > April",
+    "url": "https://japan-aeroforge.com/2024/04/24/2006/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ - 山陽新聞社 — 社長 メッセージ - 山陽新聞社 山陽新聞社 https://c.sanyonews.jp > company > president",
+    "url": "https://c.sanyonews.jp/company/president.html",
+    "pass": 3
+   },
+   {
+    "quote": "重藤 社長 の インタビュー が 山陽新聞 に掲載されました — 重藤 社長 の インタビュー が 山陽新聞 に掲載されました 株式会社重藤組 https://shigeto.co.jp > ...",
+    "url": "https://shigeto.co.jp/1081/",
+    "pass": 3
+   },
+   {
+    "quote": "WEB版「 山陽新聞 プレミアム倶楽部・トップ インタビュー ... — WEB版「 山陽新聞 プレミアム倶楽部・トップ インタビュー ... セリオ株式会社 https://www.serio.inc > 投稿 > メディア情報",
+    "url": "https://www.serio.inc/topics/2025/04/14/20250414/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "vol.1126 #JBNの制作実績 株式会社 山陽新聞社 様 2026/10/19 vol.1126 #JBNの制作実績 株式会社 山陽新聞社 様 2026/10/19 note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/jbn_director/n/ndf5bc52f0f72",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒必見】 山陽新聞社 発表 岡山県内就職人気企業 ... - note 【27卒必見】 山陽新聞社 発表 岡山県内就職人気企業 ... - note note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/recroots/n/n098a6f1fed05",
+    "pass": 3
+   },
+   {
+    "quote": "明日へ踏み出す物語〜』 山陽新聞 で連載。奇跡の2年間の記録 明日へ踏み出す物語〜』 山陽新聞 で連載。奇跡の2年間の記録 note https://note.com > 育児・教育 > 学校",
+    "url": "https://note.com/fine_dahlia63/n/n71b850f16551",
+    "pass": 3
+   },
+   {
+    "quote": "マスコミ業界（新聞）】《 山陽新聞社 》企業研究・企業分析 ... マスコミ業界（新聞）】《 山陽新聞社 》企業研究・企業分析 ... note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/yo0425/n/na2f9ba1b15dd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "vol.1126 #JBNの制作実績 株式会社山陽新聞社様 2026/10/19｜jbn_director",
+    "url": "https://note.com/jbn_director/n/ndf5bc52f0f72",
+    "pass": 3
+   },
+   {
+    "quote": "vol.1126 #JBNの制作実績 株式会社山陽新聞社様 2026/10/19",
+    "url": "https://note.com/jbn_director/n/ndf5bc52f0f72",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社山陽新聞社様は岡山を主要エリアとする地方新聞社です。 同社が運営するデジタルメディア「山陽新聞デジタル」を活用し、読者との継続的な関係構築やデジタルマーケティングに取り組まれています。",
+    "url": "https://note.com/jbn_director/n/ndf5bc52f0f72",
+    "pass": 3
+   },
+   {
+    "quote": "」を運営する中で、顧客情報の一元管理や、既存MAツールの運用コスト・使いにくさに課題を抱えていました。",
+    "url": "https://note.com/jbn_director/n/ndf5bc52f0f72",
+    "pass": 3
+   },
+   {
+    "quote": "JBNでは既存のマーケティングオートメーション（MA）ツールのリプレイスにともなうHubSpotの導入から、会員管理システムとのデータ連携、メールテンプレートのデザイン・制作をご支援しました。",
+    "url": "https://note.com/jbn_director/n/ndf5bc52f0f72",
+    "pass": 3
+   },
+   {
+    "quote": "ブランドの統一感を保ちつつ直感的に作成できる共通メールテンプレートも制作",
+    "url": "https://note.com/jbn_director/n/ndf5bc52f0f72",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、複数データを横断的に活用したセグメント配信や、自社主導でのスピーディな施策実行が実現しました。",
+    "url": "https://note.com/jbn_director/n/ndf5bc52f0f72",
+    "pass": 3
+   },
+   {
+    "quote": "システムの移行や外部データとの連携には、専門的な知識に加え、社内の人的リソースも必要となるため、豊富な導入実績を持つJBN社に支援をお願いしました。",
+    "url": "https://note.com/jbn_director/n/ndf5bc52f0f72",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒必見】山陽新聞社発表 岡山県内就職人気企業ランキングを徹底分析！｜RecRoots",
+    "url": "https://note.com/recroots/n/n098a6f1fed05",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒必見】山陽新聞社発表 岡山県内就職人気企業ランキングを徹底分析！",
+    "url": "https://note.com/recroots/n/n098a6f1fed05",
+    "pass": 3
+   },
+   {
+    "quote": "​岡山県の地元企業に対する就職希望ランキングが、山陽新聞社の調査により発表されました。​2026年春卒業予定の大学生らを対象にしたこの調査では、地元企業への関心や志望理由が浮き彫りとなっています。​",
+    "url": "https://note.com/recroots/n/n098a6f1fed05",
+    "pass": 3
+   },
+   {
+    "quote": "■ 総合ランキングTOP20（前年比較付き）",
+    "url": "https://note.com/recroots/n/n098a6f1fed05",
+    "pass": 3
+   },
+   {
+    "quote": "中国銀行とトマト銀行が1位・2位を獲得。「安定性」への期待が高まる今、金融業界は再び注目を集めています。",
+    "url": "https://note.com/recroots/n/n098a6f1fed05",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞社（8位）、ハローズ（14位）、ベネッセ（16位）、トンボ（19位）など、前年から20ランク以上も順位を上げた企業が多数登場。",
+    "url": "https://note.com/recroots/n/n098a6f1fed05",
+    "pass": 3
+   },
+   {
+    "quote": "岡山村田製作所は今年、いきなり4位に。高い技術力と安定した経営が評価された結果といえるでしょう。",
+    "url": "https://note.com/recroots/n/n098a6f1fed05",
+    "pass": 3
+   },
+   {
+    "quote": "9年連続で「社風の良さ」がトップ。学生たちは給与よりも「人間関係」や「雰囲気の良さ」を重視して企業を選んでいる傾向が顕著です。",
+    "url": "https://note.com/recroots/n/n098a6f1fed05",
+    "pass": 3
+   },
+   {
+    "quote": "#17『きっと大丈夫〜明日へ踏み出す物語〜』山陽新聞で連載。奇跡の2年間の記録｜sunflower（凡人主婦先生の日常）",
+    "url": "https://note.com/fine_dahlia63/n/n71b850f16551",
+    "pass": 3
+   },
+   {
+    "quote": "#17『きっと大丈夫〜明日へ踏み出す物語〜』山陽新聞で連載。奇跡の2年間の記録",
+    "url": "https://note.com/fine_dahlia63/n/n71b850f16551",
+    "pass": 3
+   },
+   {
+    "quote": "当たり前のようにやってくるはずの「明日」、そして「卒業の日」が、これほどまでに愛おしく、尊いものだと実感している今日この頃です。",
+    "url": "https://note.com/fine_dahlia63/n/n71b850f16551",
+    "pass": 3
+   },
+   {
+    "quote": "知識や「だれか」の体験談として語ったり考えたりすることで、まずは理解を深めていました。",
+    "url": "https://note.com/fine_dahlia63/n/n71b850f16551",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、私たちは、現実のこととして大きな壁に直面することになりました。それは、まさに今、同じ苦しみの中にいる児童とご家族と共に歩む、という現実が2年前に突然訪れたことです。",
+    "url": "https://note.com/fine_dahlia63/n/n71b850f16551",
+    "pass": 3
+   },
+   {
+    "quote": "勤務校では数年前からがん教育に取り組んでいました",
+    "url": "https://note.com/fine_dahlia63/n/n71b850f16551",
+    "pass": 3
+   },
+   {
+    "quote": "』として4日間連載されます。 一人の少年と、彼を支え続けたご家族、そして共に歩ませていただいた学校現場の物語です。",
+    "url": "https://note.com/fine_dahlia63/n/n71b850f16551",
+    "pass": 3
+   },
+   {
+    "quote": "1．教師として、そして「一人の母親」として学んだこと",
+    "url": "https://note.com/fine_dahlia63/n/n71b850f16551",
+    "pass": 3
+   },
+   {
+    "quote": "【就活｜マスコミ業界（新聞）】《山陽新聞社》企業研究・企業分析＆実際に面接試験で出た質問100問（質問＋回答例）【採用｜面接｜コーチング｜就職活動｜就活選考｜金融｜転職】｜公務員試験&就活🌸ほまれ",
+    "url": "https://note.com/yo0425/n/na2f9ba1b15dd",
+    "pass": 3
+   },
+   {
+    "quote": "【就活｜マスコミ業界（新聞）】《山陽新聞社》企業研究・企業分析＆実際に面接試験で出た質問100問（質問＋回答例）【採用｜面接｜コーチング｜就職活動｜就活選考｜金融｜転職】",
+    "url": "https://note.com/yo0425/n/na2f9ba1b15dd",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は、面接で実際に出題された質問100問と、その回答例をまとめたものです。",
+    "url": "https://note.com/yo0425/n/na2f9ba1b15dd",
+    "pass": 3
+   },
+   {
+    "quote": "ご自身の経験や考えを交えてアレンジしてください。",
+    "url": "https://note.com/yo0425/n/na2f9ba1b15dd",
+    "pass": 3
+   },
+   {
+    "quote": "面接試験で実際に出た質問を掲載しています。",
+    "url": "https://note.com/yo0425/n/na2f9ba1b15dd",
+    "pass": 3
+   },
+   {
+    "quote": "ということは、対策・準備をして、臨むことができるようになります。",
+    "url": "https://note.com/yo0425/n/na2f9ba1b15dd",
+    "pass": 3
+   },
+   {
+    "quote": "そして、適切な面接の受け答えができるようになります。",
+    "url": "https://note.com/yo0425/n/na2f9ba1b15dd",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひこの記事は、何度も何度も復習して取り入れてください。",
+    "url": "https://note.com/yo0425/n/na2f9ba1b15dd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "山陽新聞 (@sanyo_news) / X 山陽新聞 (@sanyo_news) / X X https://x.com > sanyo_news",
+    "url": "https://x.com/sanyo_news",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞社 のイベント  【公式】 (@sanyo_jigyo) / X 山陽新聞社 のイベント  【公式】 (@sanyo_jigyo) / X X https://x.com > sanyo_jigyo",
+    "url": "https://x.com/sanyo_jigyo",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞社 タウン班｜岡山の最新話題を発信 - X 山陽新聞社 タウン班｜岡山の最新話題を発信 - X X https://x.com > town_sanyonews",
+    "url": "https://x.com/town_sanyonews",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞 on X: \"「島を渡る」受賞記念展 岡山で開幕 瀬戸内海 ... 山陽新聞 on X: \"「島を渡る」受賞記念展 岡山で開幕 瀬戸内海 ... X https://x.com > @sanyo_news",
+    "url": "https://x.com/sanyo_news/status/2117605354473488679",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "日下知章 山陽新聞社 - 取締役編集局長 - LinkedIn 日下知章 山陽新聞社 - 取締役編集局長 - LinkedIn LinkedIn https://jp.linkedin.com > 山陽新聞社-日下知章-417892b6",
+    "url": "https://jp.linkedin.com/in/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E%E7%A4%BE-%E6%97%A5%E4%B8%8B%E7%9F%A5%E7%AB%A0-417892b6",
+    "pass": 3
+   },
+   {
+    "quote": "#社員幸福度 #社員満足度 # 山陽新聞 #カルチャリア | 奥山 由実子 #社員幸福度 #社員満足度 # 山陽新聞 #カルチャリア | 奥山 由実子 LinkedIn https://jp.linkedin.com > posts > 由実子-奥山-aa55b65_...",
+    "url": "https://jp.linkedin.com/posts/%E7%94%B1%E5%AE%9F%E5%AD%90-%E5%A5%A5%E5%B1%B1-aa55b65_%E7%A4%BE%E5%93%A1%E5%B9%B8%E7%A6%8F%E5%BA%A6-%E7%A4%BE%E5%93%A1%E6%BA%80%E8%B6%B3%E5%BA%A6-%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E-activity-7425340532387745793-F8VS",
+    "pass": 3
+   },
+   {
+    "quote": "池本 正人 - （株） 山陽新聞社 - 会社員 | LinkedIn 池本 正人 - （株） 山陽新聞社 - 会社員 | LinkedIn LinkedIn https://jp.linkedin.com > 正人-池本-539443182",
+    "url": "https://jp.linkedin.com/in/%E6%AD%A3%E4%BA%BA-%E6%B1%A0%E6%9C%AC-539443182",
+    "pass": 3
+   },
+   {
+    "quote": "寺澤 紀昌 - 山陽新聞社 | LinkedIn 寺澤 紀昌 - 山陽新聞社 | LinkedIn LinkedIn https://jp.linkedin.com > 紀昌-寺澤-85265142",
+    "url": "https://jp.linkedin.com/in/%E7%B4%80%E6%98%8C-%E5%AF%BA%E6%BE%A4-85265142",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "山陽新聞 | Okayama-shi Okayama - Facebook 山陽新聞 | Okayama-shi Okayama - Facebook Facebook https://www.facebook.com > sanyonews",
+    "url": "https://www.facebook.com/sanyonews/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞 (@sanyonews) - Photos - Facebook 山陽新聞 (@sanyonews) - Photos - Facebook Facebook https://www.facebook.com > ... > 山陽新聞",
+    "url": "https://www.facebook.com/sanyonews/photos/",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞 - Home | Facebook 山陽新聞 - Home | Facebook Facebook https://www.facebook.com > pages > 山陽新聞",
+    "url": "https://www.facebook.com/pages/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E/186330214850541",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新聞社 ・本社 - Home | Facebook 山陽新聞社 ・本社 - Home | Facebook Facebook https://www.facebook.com > pages > 山陽新聞社本社",
+    "url": "https://www.facebook.com/pages/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E%E7%A4%BE%E6%9C%AC%E7%A4%BE/217822164903675",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sanyonews.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://auth10.sanyonews.jp/openid/op/auth?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fwww.sanyonews.jp%2Fservice%2Fauth%2F%3Fhauth.done%3DOpenID&openid.realm=https%3A%2F%2Fwww.sanyonews.jp%2Fservice%2Fauth%2F&openid.ns.sreg=http%3A%2F%2Fopenid.net%2Fextensions%2Fsreg%2F1.1&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/prime/prime_special",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/global/global_environment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/global/global_syuyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/global/global_sports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/entertain/oricon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/article/2015790?rct=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/kikaku_mairare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/service/page/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/service/forget/reset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/hirudigi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/hirudigi_yudigi/yudigi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/area/area_bingo/hiroshimaken/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/special/sandigi_special/news_visual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/global/global_environment/global_environment_c/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/global/global_environment/global_medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/entertain/oricon/oricon_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/service/regist?type=sanyo_id&article_id=2015790",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/article/2015790?rct=chihou_keizai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyonews.jp/kikaku_mairare",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://static.sanyonews.jp/image/article/size2/f/2/9/b/f29ba0bb5086b35b16713e778d164b60_2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://static.sanyonews.jp/image/article/size2/c/5/f/0/c5f00ce656ad87893ec91f3d9b53f8a3_1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c.sanyonews.jp/release/2026/02/20260226140000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c.sanyonews.jp/recruit/corp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/239684/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c.sanyonews.jp/recruit/corp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp81916/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c.sanyonews.jp/ad/price.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c.sanyonews.jp/read/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c.sanyonews.jp/release/2023/10/20231012102755.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bunkanews.jp/article/451040/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-aeroforge.com/2024/04/24/2006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c.sanyonews.jp/company/president.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jbn_director/n/ndf5bc52f0f72",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/recroots/n/n098a6f1fed05",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fine_dahlia63/n/n71b850f16551",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yo0425/n/na2f9ba1b15dd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sanyo_news",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sanyo_jigyo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/town_sanyonews",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sanyo_news/status/2117605354473488679",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E%E7%A4%BE-%E6%97%A5%E4%B8%8B%E7%9F%A5%E7%AB%A0-417892b6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/%E7%94%B1%E5%AE%9F%E5%AD%90-%E5%A5%A5%E5%B1%B1-aa55b65_%E7%A4%BE%E5%93%A1%E5%B9%B8%E7%A6%8F%E5%BA%A6-%E7%A4%BE%E5%93%A1%E6%BA%80%E8%B6%B3%E5%BA%A6-%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E-activity-7425340532387745793-F8VS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%AD%A3%E4%BA%BA-%E6%B1%A0%E6%9C%AC-539443182",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E7%B4%80%E6%98%8C-%E5%AF%BA%E6%BE%A4-85265142",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sanyonews/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sanyonews/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E/186330214850541",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E%E7%A4%BE%E6%9C%AC%E7%A4%BE/217822164903675",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sanyo_news",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "山陽新聞社 株主 OR 出資 OR 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "https://www.sanyonews.jp/article/1879749",
+    "https://c.sanyonews.jp/release/2026/02/20260226140000.html",
+    "http://paletteorange.blog.shinobi.jp/%E5%B2%A1%E5%B1%B1%E7%9C%8C%E3%81%AE%E6%96%B0%E8%81%9E/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "https://irbank.net/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E%E7%A4%BE",
+    "https://www.sanyonews.jp/article/1796368?kw=61",
+    "https://compalyze.co.jp/company/2260001002653",
+    "https://www.sanyonews.jp/article/1856821",
+    "https://ja.wikipedia.org/wiki/山陽新聞",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "山陽新聞社 設立 OR 創業",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "https://c.sanyonews.jp/recruit/corp.html",
+    "https://tenshoku.mynavi.jp/company/239684/",
+    "https://compalyze.co.jp/company/2260001002653",
+    "https://kotobank.jp/word/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E%E7%A4%BE-1453569",
+    "https://clip-corporation.com/company-matching/company-details/?corporate_number=2260001002653",
+    "https://c.sanyonews.jp/company/president.html",
+    "https://baseconnect.in/companies/5f866aaa-3245-4ec2-83a0-aee45e011205",
+    "https://job.mynavi.jp/27/pc/search/corp81916/outline.html",
+    "https://ja.wikipedia.org/wiki/山陽新聞"
+   ]
+  },
+  {
+   "query": "山陽新聞社 売上高 OR 年商",
+   "results": [
+    "https://c.sanyonews.jp/recruit/corp.html",
+    "https://job.mynavi.jp/28/pc/search/corp81916/outline.html",
+    "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "https://syukatsu-kaigi.jp/companies/16902",
+    "https://www.sanyonews.jp/article/2000470",
+    "https://gyokai-search.com/4-newspaper-uriage.html",
+    "https://baseconnect.in/companies/c530ae1a-4236-408d-bce1-308f352051d2",
+    "https://www.r-agent.com/company/92247/",
+    "https://www.sanyonews.jp/article/1897405",
+    "https://ja.wikipedia.org/wiki/売上高"
+   ]
+  },
+  {
+   "query": "山陽新聞社 製造業 導入事例",
+   "results": [
+    "https://www.sanyonews.jp/photo/detail?article_id=1755017",
+    "https://www.sanyonews.jp/article/1985490",
+    "https://www.sanyonews.jp/article/1801251",
+    "https://www.sanyonews.jp/article/1981173",
+    "https://www.daj.jp/bs/case/case22/",
+    "https://www.sanyonews.jp/photo/detail?article_id=1892624&pid=5804289&rct=syuyo",
+    "https://www.sanyonews.jp/article/1855143",
+    "https://www.sank.co.jp/works.html",
+    "https://service.ryobi.co.jp/case-study/hc-ehealth-lite-event/",
+    "https://kaminashi.jp/media/manufacturing-industry-case-studies"
+   ]
+  },
+  {
+   "query": "山陽新聞社 料金",
+   "results": [
+    "https://c.sanyonews.jp/ad/price.html",
+    "https://c.sanyonews.jp/read/",
+    "https://c.sanyonews.jp/release/2023/10/20231012102755.html",
+    "https://www.sanyonews.jp/guide/",
+    "https://c.sanyonews.jp/ad/pricedetail2.html",
+    "https://c.sanyonews.jp/ad/pricedetail1.html",
+    "https://c.sanyonews.jp/ad/items/pricelist.pdf",
+    "https://www.sankei.com/article/20231012-YGPN73HPRNPBZIIZE3VBOVAIRA/",
+    "https://www.shinbun-navi.com/chihou/sanyo.html",
+    "https://ja.wikipedia.org/wiki/山陽新聞社"
+   ]
+  },
+  {
+   "query": "山陽新聞社 社長 インタビュー",
+   "results": [
+    "https://www.bunkanews.jp/article/451040/",
+    "https://japan-aeroforge.com/2024/04/24/2006/",
+    "https://c.sanyonews.jp/company/president.html",
+    "https://shigeto.co.jp/1081/",
+    "https://www.serio.inc/topics/2025/04/14/20250414/",
+    "https://www.instagram.com/reel/DYjTU0th53k/",
+    "https://www.sanyonews.jp/article/1781407",
+    "https://x.com/sanyo_news/status/1894862519313014825",
+    "https://www.bunkanews.jp/article/tag/山陽新聞社/",
+    "https://www.sanyonews.jp/article/1685693"
+   ]
+  },
+  {
+   "query": "site:note.com 山陽新聞社",
+   "results": [
+    "https://note.com/jbn_director/n/ndf5bc52f0f72",
+    "https://note.com/recroots/n/n098a6f1fed05",
+    "https://note.com/fine_dahlia63/n/n71b850f16551",
+    "https://note.com/yo0425/n/na2f9ba1b15dd",
+    "https://note.com/tsune884288/n/n77fbed32c5b5",
+    "https://note.com/shiro_soccer123/n/nd9b01aedaf34",
+    "https://note.com/tsubo828/n/nb698f146d8af",
+    "https://note.com/smon4836/n/nb78e5dbc64fc",
+    "https://note.com/local_newsletter/n/n2ee5e695379c",
+    "https://note.com/just_vole6401/n/n8e520aef2805"
+   ]
+  },
+  {
+   "query": "site:x.com 山陽新聞社",
+   "results": [
+    "https://x.com/sanyo_news",
+    "https://x.com/sanyo_jigyo",
+    "https://x.com/town_sanyonews",
+    "https://x.com/sanyo_news/status/2117605354473488679",
+    "https://x.com/sanyo_news/reposts",
+    "https://x.com/sanyo_news/status/2117741265647485335",
+    "https://x.com/hashtag/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "https://x.com/santa__club",
+    "https://x.com/sanyo_news/status/2110535549882921220",
+    "https://x.com/sanyo_news/status/2116382289341059211"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 山陽新聞社",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E%E7%A4%BE-%E6%97%A5%E4%B8%8B%E7%9F%A5%E7%AB%A0-417892b6",
+    "https://jp.linkedin.com/posts/%E7%94%B1%E5%AE%9F%E5%AD%90-%E5%A5%A5%E5%B1%B1-aa55b65_%E7%A4%BE%E5%93%A1%E5%B9%B8%E7%A6%8F%E5%BA%A6-%E7%A4%BE%E5%93%A1%E6%BA%80%E8%B6%B3%E5%BA%A6-%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E-activity-7425340532387745793-F8VS",
+    "https://jp.linkedin.com/in/%E6%AD%A3%E4%BA%BA-%E6%B1%A0%E6%9C%AC-539443182",
+    "https://jp.linkedin.com/in/%E7%B4%80%E6%98%8C-%E5%AF%BA%E6%BE%A4-85265142",
+    "https://jp.linkedin.com/in/%E8%8B%B1%E6%98%8E-%E7%A5%9E%E8%BE%BA-09775297",
+    "https://jp.linkedin.com/in/yoko-matsuda-27bb92344",
+    "https://jp.linkedin.com/in/%E4%B8%AD%E5%A1%9A%E8%8B%B1%E5%85%B8-%E4%B8%AD%E5%A1%9A%E8%8B%B1%E5%85%B8%EF%BC%88%E5%B1%B1%E9%99%BD%EF%BC%89-ba1ab1159",
+    "https://jp.linkedin.com/in/%E9%9B%84%E4%B8%80-%E9%A0%88%E3%80%85%E6%9C%A8-b93a20b1",
+    "https://jp.linkedin.com/in/yumiko-abe-7611b8303",
+    "https://jp.linkedin.com/in/英明-神辺-09775297"
+   ]
+  },
+  {
+   "query": "site:facebook.com 山陽新聞社",
+   "results": [
+    "https://www.facebook.com/sanyonews/?locale=ja_JP",
+    "https://www.facebook.com/sanyonews/photos/",
+    "https://www.facebook.com/pages/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E/186330214850541",
+    "https://www.facebook.com/pages/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E%E7%A4%BE%E6%9C%AC%E7%A4%BE/217822164903675",
+    "https://www.facebook.com/100003912488806/posts/%E7%AC%AC45%E5%9B%9E-%E4%B8%96%E7%95%8C%E9%80%A3%E9%82%A6%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%AE%97%E6%95%99%E8%80%85%E5%A4%A7%E4%BC%9A-%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E%E7%A4%BE-%E3%81%95%E3%82%93%E5%A4%AA%E3%83%9B%E3%83%BC%E3%83%AB%E7%AC%AC%E4%B8%80%E9%83%A8%E5%B9%B3%E5%92%8C%E7%A5%88%E9%A1%98%E6%B3%95%E4%BC%9A%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%AE%97%E6%95%99%E8%80%85%E5%A4%A7%E4%BC%9A%E5%BC%8F%E5%85%B8%E7%AC%AC%E4%B8%89%E9%83%A8%E8%AC%9B%E6%BC%94%E4%BC%9A-%E6%9C%89%E6%A3%AE%E8%A3%95%E5%AD%90%E6%A7%98%E7%A7%81%E7%B7%8F%E5%90%88%E5%8F%B8%E4%BC%9A%E3%82%92%E3%81%95%E3%81%9B%E3%81%A6%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%AE%E5%B9%B3%E5%92%8C/3868266249980420/",
+    "https://www.facebook.com/100021421104342/posts/10%E6%9C%8829%E6%97%A5%E3%81%8B%E3%82%8911%E6%9C%883%E6%97%A5%E3%81%BE%E3%81%A7%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E%E7%A4%BE%E6%9C%AC%E7%A4%BE9%E9%9A%8E%E5%A4%A7%E4%BC%9A%E8%AD%B0%E5%AE%A4%E3%81%A7%E6%AD%B3%E6%9C%AB%E5%8A%A9%E3%81%91%E5%90%88%E3%81%84%E7%BE%8E%E8%A1%93%E5%B1%95%E3%81%8C%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%82%A2%E3%83%BC%E3%83%88%E3%82%BC%E3%83%9F%E4%BB%A3%E8%A1%A8%E3%81%AE%E9%AB%98%E6%A9%8B%E6%98%8C%E4%BA%BA%E5%85%88%E7%94%9F%E3%81%AF%E4%BB%8A%E5%B9%B4%E3%82%82%E6%8A%BD%E8%B1%A1%E7%94%BB%E4%BD%9C%E5%93%81%E3%82%92%E5%87%BA%E5%93%81%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E4%BC%9A%E5%A0%B4%E3%81%A7%E3%81%AF/2275127833211231/",
+    "https://www.facebook.com/111815758059814",
+    "https://www.facebook.com/256988348485312",
+    "https://www.facebook.com/sanyomachi/",
+    "https://www.facebook.com/media/set/?set=a.1588669451200875.1073742014.228700190531148&type=3"
+   ]
+  },
+  {
+   "query": "山陽新聞社 note 社長",
+   "results": [
+    "https://c.sanyonews.jp/company/president.html",
+    "https://www.nikkei.com/article/DGXZQOCC316EM0R30C25A1000000/",
+    "https://www.sanyonews.jp/photo/detail?article_id=1769189",
+    "https://www.sanyonews.jp/special/paper_series/hensyu_note",
+    "https://www.sanyonews.jp/article/1685693",
+    "https://newsdig.tbs.co.jp/articles/-/1756114",
+    "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "https://www.sanyonews.jp/special/paper_series/hensyu_note/4/",
+    "https://www.bunkanews.jp/article/414728/",
+    "https://news.livedoor.com/topics/detail/28237729/"
+   ]
+  },
+  {
+   "query": "山陽新聞社 X 投稿",
+   "results": [
+    "https://www.sanyonews.jp/article/2014281?kw=%E3%82%8B%E6%9D%91",
+    "https://www.sanyonews.jp/article/2013293?kw=%E7%A6%8F%E7%A5%89",
+    "https://x.com/sanyo_news",
+    "https://www.sanyonews.jp/article/1960107?rct=global_kezai_c",
+    "https://c.sanyonews.jp/n_d/post/",
+    "https://x.com/hashtag/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E",
+    "https://www.sanyonews.jp/article/2008732",
+    "https://www.sanyonews.jp/article/1936931?kw=11",
+    "http://media-v9s0.trials.jp/",
+    "https://c.sanyonews.jp/n_d/post/chimata.html"
+   ]
+  }
+ ],
+ "missing": {
+  "許認可": "記載なし（3回確認済み：公式30頁／PDF・画像2件／外部31頁・検索12回）"
+ }
+}

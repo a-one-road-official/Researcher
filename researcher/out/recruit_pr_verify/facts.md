@@ -1,4 +1,4 @@
-# 仮説の検証 — 中堅製造業向け採用広報：社数・採用難・採用費・採用広報の単価・継続・原価・買い方・前例（事実のみ・12品目）
+# 仮説の検証 — 中堅製造業向け採用広報：社数・採用難・採用費・採用広報の単価・継続・原価・買い方・前例（事実のみ・23品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -66,6 +66,10 @@
   - 「（本書に関する問い合わせ先）」（https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf）
   - 「このページに関するお問い合わせ先」（https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html）
   - 「電子メールでのお問い合わせはこちらから」（https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html）
+- 営業と採用のどちらに困っているか：
+  - 「図表Ⅰ-２-２ 全国における都内製造業の位置付け（東京都・全国上位道府県）」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2024_no-1）
+  - 「（１）製造品出荷額（上位50品目） （従業者４人以上の事業所）」（https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf）
+  - 「（２）加工賃出荷額（上位20品目） （従業者４人以上の事業所）」（https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf）
 - 前例の会社（製造業特化）：
   - 「産業大分類別に売上（収入）金額をみると、「製造業」では従業者規模「50人以上」が5」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
   - 「（１） 売上（収入）金額、付加価値額」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/32189.pdf）
@@ -174,6 +178,22 @@
   - 「採用活動にお悩みの方は、以下のお問い合わせ窓口より、ぜひお気軽にご相談ください」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
   - 「エン転職の掲載料金、サービス詳細、特徴、評判、採用事例、媒体資料、お問い合わせ方法などをご案内しています」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
   - 「技術職は民間の紹介会社・求人サイト経由の採用が多く、ハローワークの倍率だけでは全体は見えません」（https://cura-factory.com/jobs/engineer/）
+- 営業と採用のどちらに困っているか：
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）」（https://nextengineer.com/blog/know-how001/）
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較」（https://nextengineer.com/blog/know-how001/）
+  - 「機械・電気系職種の人手不足ランキングTOP8」（https://nextengineer.com/blog/know-how001/）
+  - 「ただし、参考値は全職業平均の1.25倍を下回るため、設備投資や市場への注目度だけで人手不足とは断定しないことも大切です」（https://nextengineer.com/blog/know-how001/）
+  - 「特に高い職種は建築・土木・測量技術者の6.67倍で、人手不足感が強いと予想されます」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「全体的に2倍を上回る数値となっており、人材確保の難易度が上がっている状況と予想されます」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「全体的に3倍を超える倍率となっており、人手不足感が強い職種であることがうかがえます」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「エン転職はオリコンヒットチャートでお馴染み、「オリコン顧客満足度調査」の転職サイト部門において、8年連続で総合満足度第1位を獲得しました（2018年～2025年）」（https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type）
+  - 「現在も求職者1人に対して1件以上の求人があり、企業側の人材不足が続いていることが分かります」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「年第３四半期にマイナス 1.8 と人手不足感に転じて」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「にはマイナス 21.4 となっており、人材不足感が続い」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「（１）ものづくり現場が直面している経営課題」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「企業割合が最も高く、次いで「人手不足」 （41.9%） 、」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 221-１ ものづくり企業の経営課題（企業規模別）」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「（57.6%） 、 「営業力の強化」 （51.5%） 、 「従来の製」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
 - 前例の会社（製造業特化）：
   - 「工場の自動化やDXが進むと、新しい設備の設計・導入だけでなく、既存設備との連携や安定稼働を支える技術者も必要です」（https://nextengineer.com/blog/know-how001/）
   - 「工場設備全般の保全職と完全に一致する数値ではありません」（https://nextengineer.com/blog/know-how001/）
@@ -315,6 +335,11 @@
   - 「スカウト枠の利用料などはかかりますが、人材紹介より費用を抑えやすく、ピンポイントでの獲得が可能です」（https://professional.mynavi.jp/magazine/magazine_402）
   - 「まずは直近の採用活動において「どの手法（媒体や人材紹介）にいくら使い、何人入社したか」という費用対効果の棚卸しを行ってください」（https://professional.mynavi.jp/magazine/magazine_402）
   - 「プロ人材紹介サービスの選び方｜3タイプ別の特徴と比較ポイント7つを解説」（https://professional.mynavi.jp/magazine/magazine_402）
+- 営業と採用のどちらに困っているか：
+  - 「特に2024年問題に直面した「運輸・物流」や、慢性的な人材不足が続く「IT・通信」などでは、企業が多くの予算を投じて中途採用を進めていることがわかります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「また著書である『求人を成功に導く、超実践・採用ノウハウ ゼロから始める中途採用の教科書』はAmazonランキングの3ジャンルで1位を獲得」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「保育士の人手不足は深刻のため今後は増加すると思われましたが、2022年度以降採用コストは減少傾向になっています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「株式会社帝国データバンク「人手不足に対する企業の動向調査（2026年4月）」2026年」（https://omakasehr.jp/%E6%8E%A1%E7%94%A8%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AE%E8%B2%BB%E7%94%A8%E7%9B%B8%E5%A0%B4%E3%81%A8%E5%B9%B4%E9%96%93%E4%BA%88%E7%AE%97%E3%81%AE%E7%B5%84/）
 - 前例の会社（製造業特化）：
   - 「マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです」（https://professional.mynavi.jp/magazine/magazine_402）
   - 「従業員3〜50名：」（https://professional.mynavi.jp/magazine/magazine_402）
@@ -420,6 +445,9 @@
   - 「30万円以下で採用サイトをつくれる制作会社の相見積もりを依頼する」（https://web-kanji.com/posts/recruit-site-price）
   - 「51～100万円で採用サイトをつくれる制作会社の相見積もりを依頼する」（https://web-kanji.com/posts/recruit-site-price）
   - 「101～151万円で採用サイトをつくれる制作会社の相見積もりを依頼する」（https://web-kanji.com/posts/recruit-site-price）
+- 営業と採用のどちらに困っているか：
+  - 「建設会社の採用サイト事例15選｜人手不足を解消する応募導線設計」（https://cresai.nashplan.jp/blog/?p=4205）
+  - 「介護・福祉業界の採用サイト事例5選｜人材不足を解消する制作のポイント」（https://cresai.nashplan.jp/blog/?p=4205）
 - 前例の会社（製造業特化）：
   - 「初期費用がほぼゼロで採用サイトを立ち上げられるため、創業間もないスタートアップや小規模企業に向いています」（https://web-kanji.com/posts/recruit-site-price）
   - 「株式会社TIDO」（https://web-kanji.com/posts/recruit-site-price）
@@ -519,6 +547,14 @@
   - 「【生活雑貨メーカーさま】展示会での記録写真と、配布資料用でレポート作成」（https://www.navy-p.com/service/service_contents_interview.html）
   - 「問い合わせを精査し、依頼内容を詳しく確認いたします」（https://www.navy-p.com/service/service_contents_interview.html）
   - 「東京商工会議所(」（https://www.navy-p.com/service/service_contents_interview.html）
+- 営業と採用のどちらに困っているか：
+  - 「Amazon1位」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「電子書籍『読解力は述語で決まる』(Amazon1位獲得)の著者」（https://www.navy-p.com/service/service_contents_interview.html）
+  - 「【2026年最新】SEOライティング術！検索上位を達成する記事構成とキーワード戦略」（https://zeroxeed.co.jp/online-assistant/5596/）
+  - 「【2025年版】SEO対策で検索上位表示を実現する：基本から応用まで徹底解説」（https://zeroxeed.co.jp/online-assistant/5596/）
+  - 「Amazonランキング 売れ筋ランキング 無料タイトル 日本語・言語学・教育学1位獲得の電子書籍『」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「1位に表示される」（https://shwat.jp/ultra/introduction-example-interview/）
+  - 「Amazonランキング 売れ筋ランキング 無料タイトル 日本語・言語学・教育学1位獲得の電子書籍『」（https://blog.navy-p.com/article-creation/）
 - 前例の会社（製造業特化）：
   - 「株式会社エムフロ(クラウディア取材代行サービス)」（https://note.com/mftk/n/nff0c21572be2）
   - 「未知株式会社」（https://note.com/mftk/n/nff0c21572be2）
@@ -621,6 +657,22 @@
   - 「自社製品の立旋盤ができるまでの流れを追いかけ、製造プロセスやその中でどのような業務があるのかをわかりやすく紹介しています」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
   - 「求職者の学生向けに、自社の事業領域やその特長、強み、グローバル拠点などのポイントを具体的なデータや数字を交えながら紹介」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
   - 「また、この採用動画は「会社概要」のほかに「業務紹介」「オフィスツアー」「先輩社員の質疑応答」「部門長のメッセージ」の5つの要素から構成されており、採用プロセスに合わせて使い分けられています」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
+- 営業と採用のどちらに困っているか：
+  - 「大阪支店にて関西エリアの新卒採用支援に6年間従事し、新規顧客開拓および既存顧客支援の双方で実績を蓄積」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-saiyo-dougaseisaku-ryokin-191011/）
+  - 「制作会社を経て独立し、国内最大級クラウドソーシングでデザイナーランキング1位を獲得」（https://anima.tokyo/saiyo-douga-seisaku/）
+  - 「検索上位サービスの70〜80％程度の料金に抑えています」（https://100pamphlet.jp/pamphlet/pamph-recruit/）
+  - 「建設会社の採用サイト事例15選｜人手不足を解消する応募導線設計」（https://cresai.nashplan.jp/blog/?p=2488）
+  - 「販路開拓等の取組（補助率2/3）」（https://onetrack.co.jp/saiyo-douga-joseikin/）
+  - 「エン・ジャパンの調査(2025年、n=291社)では、早期離職の要因1位は「仕事内容のミスマッチ」(57%)でした」（https://stokedbase.jp/column/recruit-video-price/）
+  - 「中小企業における製造業の従業員数過不足DIも2025年はマイナス17.9で、新型コロナウイルス感染症の拡大前(2019年)に近い人手不足の水準に戻っています(※1)」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「離職率が高い上位5産業を大卒基準で見ると、宿泊業・飲食サービス業(55.4%)、生活関連サービス業・娯楽業(54.7%)、教育・学習支援業(44.2%)、医療・福祉(40.8%)、小売業(40.4%)が並びます(※2)」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「「行きたくない会社」の上位は、ノルマのきつさ(39.2%)と転勤の多さ(33.3%)でした(※4)」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「1位 EPOCH」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「2位 CINEMATO」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「11位 ビットセンス」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「12位 Global Japan Corporation」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「21位 海空」（https://okanechips.mei-kyu.com/knowledge/13829/）
+  - 「22位 株式会社道洋行」（https://okanechips.mei-kyu.com/knowledge/13829/）
 - 前例の会社（製造業特化）：
   - 「工場紹介動画」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
   - 「製造業・製薬、医療機器メーカーに特化した動画制作会社の株式会社エルモがご紹介します」（https://www.elmo-c.jp/mov/blog/manufacturing-recruiting-video/）
@@ -718,6 +770,10 @@
   - 「企業紹介動画であれば50万円前後から制作可能ですが、社員密着型のドキュメンタリー形式にすると100万円を超えることが多い傾向にあります」（https://allhero.co.jp/blog/hr-branding-cost/）
   - 「人材紹介会社を利用する場合、採用した人材の年収の30〜35%が手数料として発生するのが一般的です」（https://allhero.co.jp/blog/hr-branding-cost/）
   - 「たとえば年収500万円の人材を1名採用すると、150万〜175万円の紹介手数料がかかる計算になり、10名を採用すれば総額は1,500万円以上に上ります」（https://allhero.co.jp/blog/hr-branding-cost/）
+- 営業と採用のどちらに困っているか：
+  - 「2026上半期 資料請求数ランキング1位」（https://boxil.jp/mag/a10096/）
+  - 「上位は求人サイト（55.3%）、ハローワーク（54.2%）、人材紹介エージェント（28.5%）、自社従業員からの紹介（28.1%）です」（https://hokiraon.jp/column/saiyou-branding/）
+  - 「参考データ出典：厚生労働省「令和4年雇用動向調査」、HR総研「採用活動実態調査2023」、帝国データバンク「人手不足に対する企業の動向調査（2023年）」」（https://infinity-agent.co.jp/lab/web-marketing/recruitment-mktg/marketing-cost/）
 - 前例の会社（製造業特化）：
   - 「・「選ばれる会社」になるための採用ブランディング（株式会社カケハシスカイ）」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
   - 「・採用候補者の体験をベースにした「採用ブランディング+RPOサービス」（Beyondge株式会社）」（https://www.hrpro.co.jp/series_detail.php?t_no=4842）
@@ -820,6 +876,13 @@
   - 「カメラマンとライターのセットプランをご紹介します」（https://www.cameraman-mart.jp/interview/）
   - 「お問い合わせ」（https://www.cameraman-mart.jp/interview/）
   - 「Webライターの費用相場！記事のボリュームや種類ごとに文字単価を紹介 | C-NAPS（シナプス）｜LLMO時代のコンテンツマーケティングの課題解決に役立つ情報メディア」（https://fungry.co.jp/cnaps/blog/writer-cost-price/）
+- 営業と採用のどちらに困っているか：
+  - 「11位以降のテーマ（20件）をすべて見る」（https://miwrite-match.jp/search/writer/interview-writer/）
+  - 「依頼記事にてGoogle検索にて上位表示30件以上（AGA、ゲーム、アプリのライフハックなど多数）」（https://miwrite-match.jp/media/articles/column/article-production/onsite-interview-outsourcing/）
+  - 「Amazonランキング 売れ筋ランキング 無料タイトル 日本語・言語学・教育学1位獲得の電子書籍『」（https://blog.navy-p.com/estimated-cost-of-outsourcing-interview-article-production/）
+  - 「実際、外注経験者への調査でも、後悔した理由の第1位は価格ではなく品質でした」（https://yosca.jp/business/18517/）
+  - 「コンテンツブリーフに入れる7つの要素と、検索意図と見出し構成を検索結果の上位ページから決める手順を、悪い例と良い例の比較で解説します」（https://writers-hub.co.jp/blog/interview-article-cost）
+  - 「結果、リリース直後に検索上位を獲得し、リード獲得数が2倍に増加しました」（https://media.strikethrough.co.jp/interview-guide/）
 - 前例の会社（製造業特化）：
   - 「株式会社JR西日本ヴィアイン」（https://miwrite-match.jp/search/writer/interview-writer/）
   - 「メディアエンジン株式会社」（https://miwrite-match.jp/search/writer/interview-writer/）
@@ -904,6 +967,13 @@
   - 「一般的には、リファラル採用のインセンティブは「自社採用に貢献した社員への報奨金」として給与扱いにすることで適法に運用できますが、外部の知人を仲介して報酬を取る形になると有料職業紹介となり許可が必要になります」（https://robokaru.jp/useful/655/）
   - 「第一推奨チャネルに今週中に問い合わせる」（https://robokaru.jp/useful/655/）
   - 「求人票の内容を丁寧に作る・面接のフィードバックを早めに返す・選考のスピードを落とさない・担当者と定期的にコミュニケーションをとる ── こうした姿勢が、担当者が「この会社に良い人を紹介したい」と思うきっかけになります」（https://robokaru.jp/useful/655/）
+- 営業と採用のどちらに困っているか：
+  - 「実務的には自社の優先項目1〜2項目で上位のチャネルを2〜3個併用するポートフォリオ戦略が現実解です」（https://robokaru.jp/useful/655/）
+  - 「自社の優先項目を1〜2項目決めて、それで上位のチャネルを2〜3個併用するポートフォリオ戦略」（https://robokaru.jp/useful/655/）
+  - 「自社の優先項目1〜2を決め、それで上位2〜3個を併用するのが実務解」（https://robokaru.jp/useful/655/）
+  - 「業界横断の調査では「求人原稿が業務内容を具体化できていない」「年収レンジが市場相場とズレている」「選考スピードが遅い」の3つが上位原因です」（https://robokaru.jp/useful/655/）
+  - 「はい、リードタイム3〜10日で人材確保でき、契約期間も柔軟に設定できます」（https://robokaru.jp/useful/655/）
+  - 「・厚生労働省・文部科学省「2025年版ものづくり白書」── 製造業の就業動向、人材確保・育成、DX人材活用」（https://robokaru.jp/useful/655/）
 - 前例の会社（製造業特化）：
   - 「工場エンジニア求人のロボカルTOP」（https://robokaru.jp/useful/655/）
   - 「岩本 敏紀(株式会社」（https://robokaru.jp/useful/655/）
@@ -964,6 +1034,9 @@
   - 「「何から手をつければいいか分からない」「自社サイトの課題を知りたい」という採用責任者様は、ぜひお気軽にお問い合わせください」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
   - 「まずはお気軽にお問い合わせください」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
   - 「人手不足の中で、選ばれる企業になるための戦略・ノウハウ・事例を厳選してご紹介」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+- 営業と採用のどちらに困っているか：
+  - 「代理店時代にIndeed（シルバーランク）、求人ボックス（ダブルスターランク）の認定を受け、2024年代理店向けの求人ボックス Salesコンテストにて2位を受賞」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
+  - 「求人ボックス 代理店向けSalesコンテスト Summer Cup 2位 (2024)」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
 - 前例の会社（製造業特化）：
   - 「製造業向け採用ブランディング | 株式会社hypex」（https://hypex.jp/solution/maker-branding）
   - 「製造業特化の採用」（https://hypex.jp/solution/maker-branding）
@@ -982,3 +1055,1238 @@
   - 「株式会社フレイバーズ」（https://saiyo-lab.contenna.jp/blog/recruiting-branding-company-comparison）
 - 採用難（公的統計）：記載なし（読んだ29頁・検索13回）
 - 作る側の原価：記載なし（読んだ29頁・検索13回）
+
+## 中小・中堅製造業の経営課題の順位（人材確保と販路開拓・受注不足の比較）（management issues ranking SME manufacturers hiring vs sales）
+- 文脈：⓪仮説
+- 社数（規模別）：
+  - 「日本の全企業数のうち99.7%、そして全従業員数の約7割を占める中小企業」（https://www.cloud-erp-guide.com/blog/challenges-for-sme）
+  - 「2 2014 年７月時点で、中小企業の数は、約 381 万社であり、企業数全体の 99.7％を占める」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf）
+  - 「まず、図表１は中小製造業の従業者規模別の輸出企業の割合である」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf）
+  - 「図表１ 従業者規模別の輸出企業の割合（中小製造業）」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf）
+  - 「２．中堅企業は従業者千人未満と定義する」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf）
+  - 「２．平成 24 年経済センサス‒活動調査（再編加工）によると、従業者数４人以上の製造事業所を保有す」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf）
+  - 「る中小企業数は約 20 万社、小規模事業者は約 15 万社である」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160307027.pdf）
+  - 「※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「300人未満 300～999人 1000～4999人 5000人以上」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「100～299人 30～99人 10～29人 9人以下」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「（出所）総務省・経済産業省「令和３年経済センサス-活動調査」再編加工」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「中堅企業 約0.9万者」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「⚫ 中小企業数は国内の約 99.7％、中小企業の従業者数は国内の約 70％を占める中 、中小企業は大企業よりも」（https://www.mhlw.go.jp/content/12602000/001670967.pdf）
+  - 「資料出所 総務省「令和３年経済センサス・活動調査」をもとに厚生労働省にて作成」（https://www.mhlw.go.jp/content/12602000/001670967.pdf）
+  - 「ら、小規模企業の企業数は約 84.5%と高くなっているが、常用雇用数や従業員数の割合は低くな」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+- 採用難（公的統計）：
+  - 「有効求人倍率は2024年時点で全国平均1.2倍前後で推移し、建設業や運輸業では2倍を超える地域もあります」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「2024年における中小企業の従業員数過不足DI（マイナスが大きいほど不足）は-18.2を記録しており、深刻な人手不足が続いています」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/）
+  - 「• 人手不足を感じている企業の割合は世界平均で７割を超えるなど、世界的に人手不足が課題となっている」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「EU（27か国）において人手不足を感じている」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「⚫ 外国人労働者は、人手不足を背景に、2025年では、2015年と比較すると166万人増加の257万人となり過去最」（https://www.mhlw.go.jp/content/12602000/001670967.pdf）
+  - 「（９社）、人手不足（７社）等が挙げられ」（https://www.mhlw.go.jp/content/12602000/001670967.pdf）
+  - 「企業の人手不足感は、 2020 年に弱まったものの、その後は再び強まっている」（https://www.mhlw.go.jp/content/12602000/001670967.pdf）
+  - 「２）上記は2024年度の平均新規求人倍率が「２倍以上」となる職業を中心に選択」（https://www.mhlw.go.jp/content/12602000/001670967.pdf）
+  - 「（出所）厚生労働省（2024）「令和 6 年度版労働経済の分析―人手不足への対応―」」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「図 7 の日本政策公庫の調査結果から、中小企業の人手不足への対応として、「従業員の多能工」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「図 7 人手不足への対応」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「省力化の成果として、省電力投資によって人手不足を乗り越えている中小製造業 4 社の事例」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「持したまま、残業時間を半分に削減することができ量的にも質的にも人手不足を緩和したり、8」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「○ 重点的に取り組みたい経営課題は、「新規顧客開拓・販路開拓」（５７．１％）が最多、「人手不足への対応」（４５．」（https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf）
+  - 「「人手不足への対応」（４５．０％）が続く」（https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/press/20250317kkadai.pdf）
+- 採用にいくら払うか：
+  - 「製造業では資本金3億円以下または従業員300人以下、小売業では資本金5,000万円以下または従業員50人以下などと定められています」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「若い世代ほど積極的な成長戦略を描いている一方で、前期収益が「収支トントン・赤字」の企業では36.8%が直近1年間に新たな取り組みを実施しておらず、具体的な打ち手が見えていない状況も浮き彫りになっています」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「有効求人倍率は2024年時点で全国平均1.2倍前後で推移し、建設業や運輸業では2倍を超える地域もあります」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「正社員化1人あたり40～80万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「5年間の雇用維持、代表者の継続など」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「事業承継・引継ぎ補助金：M&A時の仲介手数料や専門家活用費用を補助（最大600万円）」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「前期収益が黒字の企業では、直近1年間に「新製品・新サービス開発」（27.4%）、「商品・サービスの提供方法の導入・改善」（25.1%）、「国内における新規顧客の発掘」（20.9%）などに積極的に取り組んでいます」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「東京商工会議所の調査では、直近1年間で成果が出た取り組みとして「DX・AI活用等」が小規模企業以外で17.1%となっており、デジタル活用が成果につながっている企業も増えています」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「東京商工会議所の調査によると、直近1年間で省力化・業務効率化に取り組んだ企業は76.6%に上ります」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「補助率1/2～3/4、最大450万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「補助率1/2～2/3、最大1,250万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「補助率2/3、最大250万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「日本政策金融公庫の「マル経融資（小規模事業者経営改善資金）」は、商工会議所等の経営指導を受けている小規模事業者が対象で、最大2,000万円まで無担保・無保証人で借りられます」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「小規模事業者持続化補助金：販路開拓や業務効率化に最大250万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「IT導入補助金：ITツール導入に最大450万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+- 採用広報・採用サイトの単価：
+  - 「製造業では資本金3億円以下または従業員300人以下、小売業では資本金5,000万円以下または従業員50人以下などと定められています」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「正社員化1人あたり40～80万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「事業承継・引継ぎ補助金：M&A時の仲介手数料や専門家活用費用を補助（最大600万円）」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「補助率1/2～3/4、最大450万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「補助率1/2～2/3、最大1,250万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「補助率2/3、最大250万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「日本政策金融公庫の「マル経融資（小規模事業者経営改善資金）」は、商工会議所等の経営指導を受けている小規模事業者が対象で、最大2,000万円まで無担保・無保証人で借りられます」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「小規模事業者持続化補助金：販路開拓や業務効率化に最大250万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「IT導入補助金：ITツール導入に最大450万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「ものづくり補助金：設備投資や新製品開発に最大1,250万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「事業再構築補助金：新分野展開や業態転換に最大7,000万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「エネルギー費用も68.8%と高い水準で、電気料金や燃料費の高騰が経営を圧迫しています」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「最大250万円」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「契約単価が1000万円向上した」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/）
+  - 「ある中堅製造業では、既存設備に後付けセンサーを設置してクラウドでデータを管理したところ、初期投資50万円未満で生産性が15%以上向上した事例があります」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/）
+- 継続して払うか：
+  - 「28.7%が「後継者未定だが事業継続希望」の深刻度」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「顧客満足度向上とリピート率改善」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「変化の激しい現代では、継続的な学び直し（リスキリング）やスキルアップの機会提供が、従業員の成長と企業の競争力強化の両面で重要です」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「「後継者未定だが事業継続希望」の深刻度」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「後継者を決めていないが、事業継続したい」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「「後継者を決めていないが、事業継続したい」と回答した企業は28.7%で、前年から5.4ポイント減少しました」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「後継者不在でも事業を継続できる」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「5年間の雇用維持、代表者の継続など」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「売上拡大のためには、現状維持ではなく新たな取り組みを継続的に実施することが不可欠です」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「顧客育成、リピート促進」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「クラウド型のシステムなら月額利用料も補助対象となり、最大2年分の費用が補助されます」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「資金繰り改善と財務体質の強化は、事業継続の大前提となる重要課題です」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「これらの取り組みにより、同じ成果を少ない時間で達成できれば、労働時間を削減しながら事業を継続できます」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「デジタルツールを活用した営業プロセスの効率化や、既存顧客との関係強化による継続取引の拡大が求められています」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「度向上とリピート率改善」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+- どう買われるか：
+  - 「東京商工会議所が2025年に実施した「中小企業の経営課題に関するアンケート」からも、売上や収益、事業拡大、人材、業務効率化などをめぐって、中小企業ごとに異なる状況があることが見えてきます」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「し、それぞれの対応策を紹介します」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「という未来から、いま取り組む課題の優先順位を考え直す方法も紹介します」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「※本記事の「TOP10」は、東京商工会議所が公式に発表した順位をそのまま掲載したものではありません」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「中小企業が直面する経営課題の現状【2025年東京商工会議所調査より】」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「東京商工会議所調査：価格転嫁の足踏み状況」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「政府系金融機関の融資制度と補助金活用」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「「実績紹介型」から「未来価値提案型」へのシフト」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「参考：東京商工会議所「」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「東京商工会議所が2025年9月から10月にかけて実施した「中小企業の経営課題に関するアンケート」では、東京23区内の1,756社から回答を得ました」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「そのため、ここで紹介する10項目は「すべての企業に共通する絶対的な順位」ではありません」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「東京商工会議所の2025年調査や関連する統計・事例をもとに、現在の中小企業経営で特に確認しておきたい課題を10の観点に整理しました」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「東京商工会議所の調査でも、企業の成長要素として「従業員満足度の向上」が重視されており（小規模企業以外で40.9%）、人材への投資が企業成長の鍵となっています」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「また、求人サイトだけでなく、SNS活用、社員紹介制度、地域の教育機関との連携など、採用チャネルの多様化も効果的です」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「東京商工会議所の調査では、「従業員満足度の向上」を成長要素として重視する企業が増えており、若手が「この会社で成長できる」と実感できる環境づくりが定着率向上の鍵です」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+- 営業と採用のどちらに困っているか：
+  - 「中小企業の経営課題とは？10の課題と2026年に向けた解決策」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「中小企業の経営課題とは？2026年最新調査から見る課題ランキングと未来志向の解決策」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「東京商工会議所が2025年に実施した「中小企業の経営課題に関するアンケート」からも、売上や収益、事業拡大、人材、業務効率化などをめぐって、中小企業ごとに異なる状況があることが見えてきます」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「中小企業が向き合う代表的な10の経営課題を編集部で整理」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「中小企業が直面する経営課題の現状【2025年東京商工会議所調査より】」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「中小企業が向き合う10の経営課題【2025年調査等から整理】」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「課題1. 人材不足・採用難と人材育成」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「課題4 売上拡大と新規顧客開拓」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「課題9 営業力・販売力の強化」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「中小企業の経営課題を解決する5つの実践的アプローチ」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「製造業が抱える7つの経営課題とは？統計データから見る現状と優先順位 - 集客・広告戦略メディア「キャククル」」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/）
+  - 「製造業が抱える7つの経営課題とは？統計データから見る現状と優先順位」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/）
+  - 「本記事では、経済産業省・厚生労働省「ものづくり白書」や中小企業庁のデータをもとに、製造業が今直面している7つの主要な経営課題を体系的に整理します」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/）
+  - 「2024年における中小企業の従業員数過不足DI（マイナスが大きいほど不足）は-18.2を記録しており、深刻な人手不足が続いています」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/）
+  - 「製造業の経営課題を「内部」と「外部」の2軸で整理する」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/）
+- 前例の会社（製造業特化）：
+  - 「人材不足、原材料・エネルギー価格の上昇、売上拡大、事業承継、DX、資金繰りなど、複数の課題が同時に起こり、その優先順位も企業の規模・業種・経営者の年齢によって変わります」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「東京商工会議所が2025年に実施した「中小企業の経営課題に関するアンケート」からも、売上や収益、事業拡大、人材、業務効率化などをめぐって、中小企業ごとに異なる状況があることが見えてきます」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「売上・収益の状況」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「課題4 売上拡大と新規顧客開拓」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「43.8%が売上増加も、格差が拡大している実態」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「中小企業とは、中小企業基本法第2条第1項の規定に基づき、業種ごとに資本金または従業員数で定義される企業を指します」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「製造業では資本金3億円以下または従業員300人以下、小売業では資本金5,000万円以下または従業員50人以下などと定められています」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「さらに小規模企業は、従業員数が20人以下（商業・サービス業は5人以下）の事業者を指します」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「2025年1月から9月の売上高を前年同期と比較すると、以下のような結果となりました」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「業種別では建設業（54.7%）や飲食・宿泊業（51.8%）で5割以上が売上増加を達成しており、一定の回復傾向が見られます」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「東京商工会議所の調査でも、企業の成長要素として「従業員満足度の向上」が重視されており（小規模企業以外で40.9%）、人材への投資が企業成長の鍵となっています」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「東京商工会議所の調査では、「従業員満足度の向上」を成長要素として重視する企業が増えており、若手が「この会社で成長できる」と実感できる環境づくりが定着率向上の鍵です」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「変化の激しい現代では、継続的な学び直し（リスキリング）やスキルアップの機会提供が、従業員の成長と企業の競争力強化の両面で重要です」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「人材育成への投資は短期的にはコストとなりますが、中長期的には従業員のスキル向上、定着率改善につながり、企業の持続的成長を支える重要な投資です」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+  - 「売上は増加しても利益が残らない、いわゆる「増収減益」の状態に陥る企業も少なくありません」（https://futures-literacy.jp/2026/03/management-issues-smallcompany/）
+- 作る側の原価：記載なし（読んだ33頁・検索13回）
+
+## 製造業の雇用人員判断DI（日銀短観・規模別）（Tankan employment conditions DI manufacturing by size）
+- 文脈：⓪仮説
+- 社数（規模別）：
+  - 「【企業規模】：日銀短観では、資本金を基準に大企業＝資本金10億円以上、中堅企業＝同1億円以上10億円未満、中小企業＝同2000万円以上1億円未満に区分している」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「300～999人」（https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf）
+  - 「100～299人」（https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf）
+- 採用難（公的統計）：
+  - 「雇用人員判断DI｜短観9月調査に見る製造業の人手不足」（https://eiko-et.com/tankan-koyou/）
+  - 「本日のブログは、日本銀行の短観（全国企業短期経済観測調査）2026年9月調査に基づき、製造業の人手不足の状況についてお伝えします」（https://eiko-et.com/tankan-koyou/）
+  - 「その前提として必要なのは、自社の業種や規模における人手不足の程度を把握することであり、9月調査はそのための判断材料になります」（https://eiko-et.com/tankan-koyou/）
+  - 「では、9月調査で製造業の人手不足はどのように変化したのでしょうか」（https://eiko-et.com/tankan-koyou/）
+  - 「製造業の雇用人員判断DIは全規模合計で-29となり、6月調査の-27から人手不足感が強まりました」（https://eiko-et.com/tankan-koyou/）
+  - 「つまり、製造業の各社は、業況については慎重な見通しを示しながらも、人手不足感は12月まで緩和しないとみています」（https://eiko-et.com/tankan-koyou/）
+  - 「○ 平成27年（2015年）６月の有効求人倍率は1.19倍、完全失業率は3.4％となっている」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「図表22 日銀短観（雇用人員判断D.I. 産業別）～過去、有効求人倍率が1倍を超えた時期との比較～」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「（ＢＯＸ２）人手不足感の広がり」（https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf）
+  - 「同図表の赤は人手不足＜－2 標準偏差＞、白は人」（https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf）
+  - 「25 労働経済動向調査の欠員率は、 欠員数／常用労働者数と」（https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf）
+  - 「欠員率は、後方２四半期移動平均」（https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf）
+  - 「人手不足と業況の関係、変わったか？～2025年12月の日銀短観｜飯塚 信夫」（https://note.com/todobuono/n/nd388cfd3ff99）
+  - 「人手不足と業況の関係、変わったか？～2025年12月の日銀短観」（https://note.com/todobuono/n/nd388cfd3ff99）
+- 採用にいくら払うか：
+  - 「（資料出所）平成10年までは総務省統計局「労働力調査（特別調査）」（2月調査）、平成15年以降は総務省統計局「労働力調査（詳細集計）」（年平均）」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「（資料出所）総務省「労働力調査（詳細集計）」（平成26年平均）」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「図表９ 「不本意非正規」の状況（年齢階級別）平成26年平均」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「図表14 年間総実労働時間の推移」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「○ 一般労働者の年間総実労働時間は、2000時間を超える水準で推移している」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「※ 年平均労働時間は、2013年の各国の就業者一人当たりの年間」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「図表16 年平均労働時間と長時間労働者の各国比較」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「（注）１）集計対象は、①または②に該当し、かつ③に該当するこの１１年間に子どもが生まれた同居夫婦である」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「平均はマイナス2.4で、3カ月先の予測は「不足」側に2～3程度、外れる傾向があったことが分かります」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「一定期間内（一般には1年間）に国内で新たに生み出されたモノやサービスの付加価値の合計」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「【企業規模】：日銀短観では、資本金を基準に大企業＝資本金10億円以上、中堅企業＝同1億円以上10億円未満、中小企業＝同2000万円以上1億円未満に区分している」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「社内の平均年齢−8歳！マイナビ転職を使用し、若手社員採用に舵をきった新社長のチャレンジ」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「【2026年10月最新】2026年7-9月期の訪日外国人旅行消費額は2兆2,076億円となり、13期連続で前年同期比でプラス成長（5年間推移データ）」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「【2026年10月最新】訪日外国人客数 9月は310万4千人で前年同月比5.0%減、中国からの訪日外国人客は-44.5％と減少続く（5年間推移データ）」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「手過剰＜＋2 標準偏差＞、黄色は過去平均的な水」（https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf）
+- 採用広報・採用サイトの単価：
+  - 「１人当たり ５０万円/２０万円 を税額控除」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「１人当たり ３０万円 の税額控除を追加」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「★法人全体の雇用者増加率が１０％以上 １人当たり ５０万円」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「★法人全体の雇用者増加率が１０％未満 １人当たり ２０万円」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「初年度１人最大８０万円」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「３年間１人最大１４０万円」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「措置内容 雇用増加人数１人当たり40万円の税額控除」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「【企業規模】：日銀短観では、資本金を基準に大企業＝資本金10億円以上、中堅企業＝同1億円以上10億円未満、中小企業＝同2000万円以上1億円未満に区分している」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「なお、新たに公表された 2026 年度の想定為替レートは 150.10 円／ドルと、最近の為替相場の実勢よりも円」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「大企業は資本金10億円以上、中小企業は同2,000万円以上1億円未満」（https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf）
+- 継続して払うか：
+  - 「○ 夫の家事・育児時間が長いほど、出産後の妻の就業継続割合が高い傾向にある」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「図表20 子どもがいる夫婦の夫の平日の家事・育児時間別にみた妻の就業継続の有無」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「同一就業継続」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「１畳当たり家賃・間代（月額・専用住宅総数）」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「（※②は最大３年間継続」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「【1on1成功術】今日から使えるテンプレート＆運用ガイド！無料ダウンロードはこちら！」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「販売価格の見通し：5年後＋5.2％とインフレマインドが継続する見通し」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「常に最新のデータを手元に：更新作業から解放」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「利用条件が明確で安心なデータ運用」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「11期連続での＋10％ポイント超えとなり、底堅さが継続する」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「企業のインフレマインドが継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「作成した分析表（Excelシート）は、更新ボタンひと押しで最新データに更新可能」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「コンプライアンス面でも安心なデータ運用をサポートします」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「＜2025/12/25 更新＞」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+- どう買われるか：
+  - 「お問い合わせ」（https://eiko-et.com/tankan-koyou/）
+  - 「契約形態の選定と単価の決定については、それぞれ別のブログでお伝えしているため、必要な範囲に絞ってご紹介します」（https://eiko-et.com/tankan-koyou/）
+  - 「この考え方は、弊社のコーポレートサイトの事業紹介ページに図解しています」（https://eiko-et.com/tankan-koyou/）
+  - 「製造請負のお問い合わせ」（https://eiko-et.com/tankan-koyou/）
+  - 「職業紹介機関）（11.2％）」となっており、非正社員の採用では「ハローワーク（30.5％）」「求人媒体（紙：就職情報誌・新聞」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「折り込みチラシ等）（13.8％）」「人材サービス会社（民間の職業紹介機関）（6.9％）」となっている」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「図表38 地元（Ｕターン含む）就職を希望しない理由」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「○ 地元（Uターン含む）就職を希望しないと回答した学生に理由を聞いてみると、「志望する企業がないから」が」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「希望しない学生が将来的に地元（Uターン含む）就職を考えるかという問には半数（49.6％）が「分からない」」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「（資料出所）2015年卒マイナビ大学生Ｕターン・地元就職に関する調査 ※有効回答数 4,964名」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「新卒採用についてのお問い合わせ」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「中途採用についてのお問い合わせ」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「事例のご紹介」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「お問い合わせ」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「企業を対象とした同様の調査は他にも複数の役所や金融機関が実施しているのですが、日銀の短観は回答率が高いなどデータの質が良いことで知られています」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+- 営業と採用のどちらに困っているか：
+  - 「雇用人員判断DI｜短観9月調査に見る製造業の人手不足」（https://eiko-et.com/tankan-koyou/）
+  - 「本日のブログは、日本銀行の短観（全国企業短期経済観測調査）2026年9月調査に基づき、製造業の人手不足の状況についてお伝えします」（https://eiko-et.com/tankan-koyou/）
+  - 「その前提として必要なのは、自社の業種や規模における人手不足の程度を把握することであり、9月調査はそのための判断材料になります」（https://eiko-et.com/tankan-koyou/）
+  - 「では、9月調査で製造業の人手不足はどのように変化したのでしょうか」（https://eiko-et.com/tankan-koyou/）
+  - 「製造業の雇用人員判断DIは全規模合計で-29となり、6月調査の-27から人手不足感が強まりました」（https://eiko-et.com/tankan-koyou/）
+  - 「2026年9月調査の製造業の雇用人員判断DIは、全規模合計で-29、中小企業で-32です」（https://eiko-et.com/tankan-koyou/）
+  - 「図1 製造業の雇用人員判断DI（規模別）」（https://eiko-et.com/tankan-koyou/）
+  - 「雇用人員判断DI（2026年9月調査、％ポイント）」（https://eiko-et.com/tankan-koyou/）
+  - 「業況判断DIが大きく落ち込んでマイナスに転じたのに対し、雇用人員判断DIは2020年12月調査でもマイナス圏にあるのです」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「（ＢＯＸ２）人手不足感の広がり」（https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf）
+  - 「同図表の赤は人手不足＜－2 標準偏差＞、白は人」（https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf）
+  - 「人手不足と業況の関係、変わったか？～2025年12月の日銀短観｜飯塚 信夫」（https://note.com/todobuono/n/nd388cfd3ff99）
+  - 「人手不足と業況の関係、変わったか？～2025年12月の日銀短観」（https://note.com/todobuono/n/nd388cfd3ff99）
+  - 「「雇用状況を示す指数は全規模全産業でマイナス38と34年ぶりの「人手不足超」の水準となった」とのこと」（https://note.com/todobuono/n/nd388cfd3ff99）
+- 前例の会社（製造業特化）：
+  - 「株式会社永光」（https://eiko-et.com/tankan-koyou/）
+  - 「株式会社永光 代表取締役 高橋 龍一」（https://eiko-et.com/tankan-koyou/）
+  - 「婚礼の現場からフリーのウエディングプランナーとして独立後、2015年に株式会社永光の代表取締役に就任し、2018年にウエディングプランナーの業務委託サービス「プラスワン・プランナー」を立ち上げる」（https://eiko-et.com/tankan-koyou/）
+  - 「© 2026 株式会社永光」（https://eiko-et.com/tankan-koyou/）
+  - 「⑤地域の特性を生かした創業の促進・事業活動の活性」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「4）正規雇用労働者：勤め先での呼称が「正規の職員・従業員」である者」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「○○ 役員を除く雇用者に占める非正規の職員・従業員の割合は、1991年（平成３年）には約２割であったが、2003年（平成15年）には３割を超え、2014年（平成26年）には37.4％となっている」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「２）不本意非正規：現職の雇用形態（非正規雇用）についた主な理由が「正規の職員・従業員の仕事がないから」と回答した者」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「資料出所：「従業員の労働時間と休暇に関する調査（労働者調査）」（2013年）」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「資料出所：「従業員の労働時間と休暇に関する調査（企業調査）」」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「○ パワハラが職場や企業に与える影響として考えられるものを企業に尋ねたところ、「職場の雰囲気が悪くなる」「従業員の心の」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「健康を害する」「従業員が十分に能力を発揮できなくなる」「職場の生産性が低下する」等を回答する企業が多い」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「（注）1.承継形態が「創業者の再就任」、「分社化の一環」、「出向」並びに「不明」の企業は除いて集計している」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「2.「内部昇格」とは、経営者の親族以外の社内の役員や従業員が経営者に昇格することをいう」（https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf）
+  - 「コロナ禍以前は深刻な人手不足が生じていた飲食業では、休業や時短営業を迫られた結果、逆に従業員を減らす動きが広がっています」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+- 作る側の原価：記載なし（読んだ26頁・検索13回）
+
+## 製造業の人手不足倒産と人手不足による受注の機会損失（labor shortage bankruptcies manufacturing Japan lost orders）
+- 文脈：⓪仮説
+- 社数（規模別）：
+  - 「2‌n は回答のあった企業数（図－5も同じ）」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「【メインバンク企業数ランキング】3メガで三井住友銀だけなぜ増えた？4310社を取り込んだ「新戦略」」（https://diamond.jp/articles/-/402451）
+- 採用難（公的統計）：
+  - 「2023年11月時点での年間の人手不足倒産の件数は全体の倒産件数の約3％に達しており、人手不足は様々な業界で倒産の一因となっていることが示唆されています」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「※帝国データバンク 人手不足倒産の動向調査（2023年1-10月）参照」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「製造業の人手不足対策7選」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「実際に、経済産業省の「ものづくり白書」によると、人手不足により「ビジネスにも影響が出ている」と答えた企業は3割を超えています」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「実際に2025年は、人手不足に関連する倒産が過去最多を記録しています」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「帝国データバンクの「人手不足倒産の動向調査（2025年度）」」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「では、2025年度の人手不足倒産は441件となり、3年連続で過去最多を更新しました」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「人手不足倒産も227件と、上半期として過去最多を更新しています」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「本記事では、人手不足倒産の前兆を「離職」「採用」「現場」「品質・顧客対応」「財務」の5つの観点から整理します」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「人手不足倒産の前兆を5つの観点で確認する」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「帝国データバンクの調査によると、2026年7月時点で企業の51.3%が正社員不足を感じており、人手不足倒産は上半期で過去最多を更新した」（https://factoryjournal.jp/49001/）
+  - 「実際、2026年上半期には「人手不足倒産」が過去最多の227件発生しており、この問題は企業の存続そのものに影響を及ぼしていると言える」（https://factoryjournal.jp/49001/）
+  - 「人手不足に対する企業の動向調査（2026年7月）」（https://factoryjournal.jp/49001/）
+  - 「第3は、人手不足が企業にどのような影響を与え、」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「2026年度上半期の人手不足倒産は」（https://diamond.jp/articles/-/402451）
+- 採用にいくら払うか：
+  - 「2023年11月時点での年間の人手不足倒産の件数は全体の倒産件数の約3％に達しており、人手不足は様々な業界で倒産の一因となっていることが示唆されています」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「SDGsへの取り組み｜影山鉄工所が約3年間続ける千本浜海岸清掃」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「倒産企業では3期前と比較して従業員数が減少しており、特に3年以内に平均10％以上の従業員が流出していることが指摘されています」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「過去3年間の従業員数の推移」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「総務省「労働力調査 (基本集計)2026年9月分及び7～9月期平均」」（https://ma-la.co.jp/m-and-a/labor-shortage/）
+  - 「過去3年間のランキングを見ても、上位の顔ぶれは大きく変わっていません」（https://ma-la.co.jp/m-and-a/labor-shortage/）
+  - 「過去3年間のランキングは以下のとおりです」（https://ma-la.co.jp/m-and-a/labor-shortage/）
+  - 「65歳以上の就業者は10年間で約210万人増加しており、労働者の高齢化は放置すれば人手不足をさらに深刻化するおそれがあります」（https://ma-la.co.jp/m-and-a/labor-shortage/）
+  - 「この取り組みにより、社員の生産性が向上し、売り上げは7年間で倍増しました」（https://ma-la.co.jp/m-and-a/labor-shortage/）
+  - 「さらに利益を社員に還元する仕組みを整え、年間ボーナスを100万円以上支給するなど待遇改善も進めました」（https://ma-la.co.jp/m-and-a/labor-shortage/）
+  - 「結果として、社員の平均年収は600万円に達し、採用面でも「残業がない働きやすい企業」として注目されるようになりました」（https://ma-la.co.jp/m-and-a/labor-shortage/）
+  - 「企業内保育所を運営する株式会社OZ Companyは、2012年度に離職率44％と業界平均を大きく上回り、求人費増大やサービス低下、クレーム多発といった悪循環に直面していました」（https://ma-la.co.jp/m-and-a/labor-shortage/）
+  - 「比較可能な1980年代から足元までの約40年間の時」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「が大きいうえに、1981年から90年の10年間で1.5倍」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「（注） 1‌月次の現金給与総額の年平均値」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+- 採用広報・採用サイトの単価：
+  - 「採用サイトの情報発信力については「なぜ製造業は採用できないのか？中堅メーカーが抱える7つの課題｜製造業採用ラボ」も参考になります」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「さらに利益を社員に還元する仕組みを整え、年間ボーナスを100万円以上支給するなど待遇改善も進めました」（https://ma-la.co.jp/m-and-a/labor-shortage/）
+  - 「結果として、社員の平均年収は600万円に達し、採用面でも「残業がない働きやすい企業」として注目されるようになりました」（https://ma-la.co.jp/m-and-a/labor-shortage/）
+  - 「資本金 1,000万円」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「費が保険料込みで約12万円以上、」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「防疫検査の代行費用が約2万円、さ」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「アパート新築工事を手がけた2024年11月期には、年売上高約4億2500万円を計上していた」（https://diamond.jp/articles/-/402451）
+  - 「しかし、同期に手がけたアパート新築工事で人件費負担が増加したうえ、支払手数料も膨らみ、営業損益は5000万円を上回る赤字を計上し、債務超過に陥っていた」（https://diamond.jp/articles/-/402451）
+  - 「最大9,000万円規模の補助が可能です」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+  - 「オンラインアシスタントの料金・費用が気になるなら「月額3.8万円〜」のタクシタがおすすめ」（https://go.taxita.com/column/outsourcing024/）
+  - 「採用代行（RPO）のコストを徹底解説！料金体系や相場金額、おすすめサービス15選も紹介」（https://go.taxita.com/column/outsourcing024/）
+  - 「ノンコア業務の負担を大幅に削減したい企業様へ月3.8万円〜の低価格で提供する「」（https://go.taxita.com/column/outsourcing024/）
+  - 「月額3.8万円（税込41,800円）〜という低価格を実現」（https://go.taxita.com/column/outsourcing024/）
+- 継続して払うか：
+  - 「顧客満足度の低下は、リピートビジネスや新規顧客の獲得の減少を招き、最終的には収益の大幅な減少につながり、倒産のリスクを高めます」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「人手不足は、採用コストや人件費の増加だけでなく、事業継続にも影響を及ぼす可能性があります」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「熟練者の経験や勘に依存した属人的な運用では、退職時に技術が失われる恐れがあります」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「また、関連法令を遵守する独自の請負システムを構築しており、コンプライアンスに配慮した運用体制が整っています」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「最終更新日：」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「では、2025年度の人手不足倒産は441件となり、3年連続で過去最多を更新しました」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「人手不足倒産も227件と、上半期として過去最多を更新しています」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「人手不足倒産とは？需要があっても事業継続が難しくなる状態」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「とは、従業員の退職、採用難、人件費高騰などによって必要な人員を確保できず、事業継続が難しくなる状態を指します」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「黒字であっても、現場の供給能力が落ちれば事業継続リスクは高まります」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「物流では、配送量を制限せざるを得なくなると、既存顧客との取引継続にも影響します」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「業種別では、建設業、道路貨物運送業、老人福祉事業、飲食店など、現場人材の確保が事業継続に直結する業種で増加が目立ちます」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「配送量を制限する、倉庫内の検品やピッキングに時間がかかる、荷待ちや荷役時間が長くなるといった状態は、事業継続上の前兆です」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「荷待ち、検品、積み下ろし、出荷判断の手順が人によって違うと、少ない人数で安定して運用することが難しくなります」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「人手不足は採用課題ではなく、事業継続リスクになります」（https://lean-operation.com/media/management/bankruptcy/）
+- 作る側の原価：
+  - 「設立時から現場を担っていた代表者が現場を離れるなど不安定な運営が続くなか、人手不足による外注費の増加も重なって資金繰りが限界に達し、約4億円の負債を抱えて事業継続を断念した」（https://diamond.jp/articles/-/402451）
+- どう買われるか：
+  - 「社長メッセージ」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「お問い合わせ」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「この記事では、現在の中小企業の人手不足の現状を紹介し、そこから派生する様々な問題点を探ります」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「あるITサポートを提供する中小企業では、十分なスタッフがおらず、顧客の問い合わせに迅速に対応できませんでした」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「下記に対策の例を紹介いたします」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「「お問い合わせ」」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「専用お問い合わせフォーム」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「お問い合わせ」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「社長メッセージ」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「また、現場の課題を解決するための具体的な対策を7つ紹介するので、ぜひ最後までお読みください」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「ここでは、製造業の人手不足対策を7つ紹介します」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「【関連記事】【企業向け】製造業向け人材派遣会社の選定基準｜導入の流れ・チェックポイントを紹介」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「製造業における人手不足の原因や、人材派遣・人材紹介・外部人材の活用を含めた解決策については、AchieveHRを運営する「」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「今回紹介した対策を参考に、自社の課題に合った改善策を実行し、安定した生産を続けられる現場づくりを進めていきましょう」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「人材紹介会社と人材派遣会社の違いとは？それぞれの特徴やメリット・注意点について解説｜キャリアアドバイザーAgent」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+- 営業と採用のどちらに困っているか：
+  - 「2023年11月時点での年間の人手不足倒産の件数は全体の倒産件数の約3％に達しており、人手不足は様々な業界で倒産の一因となっていることが示唆されています」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「※帝国データバンク 人手不足倒産の動向調査（2023年1-10月）参照」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「製造業の人材不足対策7選｜深刻化している理由や企業への影響も解説 | パーソルファクトリーパートナーズ株式会社」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「製造業の人材不足対策7選｜深刻化している理由や企業への影響も解説」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「製造業の人手不足対策7選」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「帝国データバンクの「人手不足倒産の動向調査（2025年度）」」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「では、2025年度の人手不足倒産は441件となり、3年連続で過去最多を更新しました」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「人手不足倒産も227件と、上半期として過去最多を更新しています」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「本記事では、人手不足倒産の前兆を「離職」「採用」「現場」「品質・顧客対応」「財務」の5つの観点から整理します」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「人手不足倒産の前兆を5つの観点で確認する」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「帝国データバンクの調査によると、2026年7月時点で企業の51.3%が正社員不足を感じており、人手不足倒産は上半期で過去最多を更新した」（https://factoryjournal.jp/49001/）
+  - 「実際、2026年上半期には「人手不足倒産」が過去最多の227件発生しており、この問題は企業の存続そのものに影響を及ぼしていると言える」（https://factoryjournal.jp/49001/）
+  - 「人手不足に対する企業の動向調査（2026年7月）」（https://factoryjournal.jp/49001/）
+  - 「上位3項目は、 「原材料高」 「売上・受注の停滞、減少」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+  - 「に40％近い水準となり、第1位となった」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf）
+- 前例の会社（製造業特化）：
+  - 「【コラム】なぜ人手不足が中小企業を倒産へと追い込むのか？原因と解決策を解説 - 株式会社影山鉄工所」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「新技術への対応には、従業員のスキルアップと研修が不可欠ですが、資金やリソースの限られた中小企業ではこれが十分に行えていないのが現状です」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「従業員の過重労働と士気の低下」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「労働力が不足すると、既存の従業員に過大な負担がかかり、過労やストレスが増加し、士気が低下します」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「これにより従業員の健康問題が発生し、複数の重要なスタッフが退職するということにつながってしまいました」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「従業員の士気の低下は、生産性のさらなる低下や、優秀な従業員の退職を招きます」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「従業員のモチベーションを高め、企業への忠誠心を育むために、給与改定による魅力ある給与の支給、残業や休日出勤の削減による労働時間の合理化、健康保険や有給休暇の拡充、特別休暇や労働環境改善のための制服貸与や健康診断の実施、ドリンクや食事の提供など、福利厚生を拡充します」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「従業員のスキルアップとキャリア開発を支援するために、定期的な研修や教育プログラムを提供し、個人のスキルを高めます」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「リモートワークやフレックスタイムなど、従業員がライフスタイルに合わせた働き方を選択できるようにすることで、働きたいけど場所の制約を受ける人など、より多くの人材を引き付けます」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「また、出産、育児、介護などのライフステージの変化にも対応した働き方ができるようになるため、従業員のプライベートな理由による離職を防ぐことにつながります」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「この問題には生産性低下、高い人件費、顧客サービス品質の低下、従業員の過重労働、新規事業の機会損失といった多くの影響があります」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「株式会社 影山鉄工所」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「株式会社影山鉄工所」（https://kageyama-co.jp/2024/01/hitodebusoku-tousan.html）
+  - 「製造業の人材不足対策7選｜深刻化している理由や企業への影響も解説 | パーソルファクトリーパートナーズ株式会社」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「製造業・工場の採用における情報発信や求人応募数を増やす方法については、」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+
+## 瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳（number of manufacturers Setouchi Hiroshima Okayama by size）
+- 文脈：地域・瀬戸内
+- 社数（規模別）：
+  - 「（資料）総務省統計局 「令和３年経済センサス」」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「３. 経済・産業 業種別事業所数（民営、2021年）」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「〇内数字は各構成比内の順位（資料）総務省統計局 「令和３年経済センサス」」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「３. 経済・産業 四国の製造業の事業所数、従業者数の推移」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「令和８年経済センサス-活動調査を実施します」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「経済センサスは５年ごとに実施されていますが、中間年の実態を把握する目的で、総務省・経済産業省が毎年（経済センサス-活動調査実施年を除く」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「総務省・経済産業省が令和４年12月26日に公表した令和3年経済センサス-活動調査産業別集計（製造業）について、公表値の一部に訂正がありました」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「令和3年経済センサス‐活動調査 正誤情報」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「総務省・経済産業省が令和４年12月26日に公表した令和3年経済センサス-活動調査産業別集計（製造業）について、」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第１表】［総括表：従業者４人以上の事業所］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(29KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第３表】［従業者４人以上の事業所に関する統計表］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(26KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第４表】［従業者４人以上の事業所に関する統計表］産業中分類＞従業者規模・経営組織・資本金階層別統計表 (Excelファイル)(117KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第７表】［従業者４人以上の事業所に関する統計表］市町別＞従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(215KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第８表】［従業者30人以上の事業所に関する統計表］従業者規模・産業中分類別統計表 (Excelファイル)(40KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第10表】［工業用地・工業用水に関する統計表：従業者30人以上の事業所］従業者規模・産業中分類別統計表 (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+- 採用にいくら払うか：
+  - 「【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第１表 年次別、卸売業・小売業別の事業所数（法人・個人別）、従業者数、年間商品販売額及び売場面積 (Excelファイル)(14KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第２表 卸売業・小売業の産業分類細分類別の事業所数（従業者規模別）、従業者数、年間商品販売額及び売場面積 (Excelファイル)(176KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第４表 卸売業・小売業別、経営組織別の事業所数（単独・本支店別）、従業者数及び年間商品販売額 (Excelファイル)(15KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第５表 小売業の産業分類小分類別、商品販売形態別の事業所数、年間商品販売額及び構成比 (Excelファイル)(20KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第６表 小売業の産業分類中分類別、売場面積規模別の事業所数、年間商品販売額及び売場面積 (Excelファイル)(15KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第７表 小売業の産業分類中分類別、営業時間階級別の事業所数、従業者数、年間商品販売額及び売場面積 (Excelファイル)(14KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第１表 産業分類別の事業所数、従業者数、年間商品販売額及び売場面積（小売業） (Excelファイル)(107KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表1】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移[従業者4人以上の事業所]（昭和25年～） (Excelファイル)(34KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表2】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移[従業者3人以下の事業所]（昭和58年～） (Excelファイル)(16KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第2表】産業中分類別統計表（市町別，事業所数，従業者数及び年間商品販売額） (Excelファイル)(144KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「造品出荷額等）総額の9割を達成する範囲に含まれる事業所を調査対象とし、その報告を」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、2023年1年間の数値」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「2：製造品出荷額等の調査期間については、2022年及び2023年におけるそれぞれ1年間の数値である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+- 採用広報・採用サイトの単価：
+  - 「サービス業：資本金5000万円以下又は従業者規模100人以下 ※ソフトウェア業、情報処理サービス業は、資本金3億円以下又は従業者規模300人以下」（https://www.mhlw.go.jp/content/11601000/001203300.pdf）
+  - 「※旅館業は、資本金5千万円以下または従業者規模200人以下」（https://www.mhlw.go.jp/content/11601000/001203300.pdf）
+  - 「小売業：資本金5000万円以下又は従業者規模50人以下」（https://www.mhlw.go.jp/content/11601000/001203300.pdf）
+  - 「・ 製造品出荷額等は、7 兆 601 億 38 百万円で、前年に比べ 8.4％(6,439 億 98 百万円)」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「・ 付加価値額は、1 兆 7,688 億 8 百万円で、前年に比べ 2.0％（357 億 78 百万円）減少」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「徳島県 301.3万円」（https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf）
+  - 「香川県 276.6万円」（https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf）
+  - 「愛媛県 247.1万円」（https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf）
+  - 「高知県 249.1万円」（https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf）
+- 継続して払うか：
+  - 「11/20 馬場更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「11/6 伊手更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「11/18 伊手更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「11/27 馬場更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「11/13 中内更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「11/18 中内更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「11/19 一色更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「11/25 馬場更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「11/17 一色更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「12/8 馬場更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「10/31 前川更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「11/6 馬場更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「11/７ 馬場更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「11/11 馬場更新」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「（令和５年２月26日更新）」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+- 作る側の原価：
+  - 「(5) 製造等に関連する外注費」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+- どう買われるか：
+  - 「６. 大学 地域別の大学入学者数と地元収容力（2024年）」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「このページに関するお問い合わせ先」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「お問い合わせフォームはこちらから」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「6.大学 大学の地域別入学者数と地元収容力」（https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf）
+- 営業と採用のどちらに困っているか：
+  - 「（参考）四国４県の農業産出額上位10品目（2023年）」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「上位10品目 産出額 全国順位 上位10品目 産出額 全国順位」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「全国26位 全国31位」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「なお、比率は、小数点以下第2位で四捨五入した」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「ごとに売上高を上位から累積し、当該分類に係る売上高総額の8割を達成する範囲に含まれ」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「造品出荷額等）を上位から累積し、当該分類に係る売上高（製造品出荷額等）総額の9割を達」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf）
+  - 「（３）製造品出荷額等 ※３ 3兆730 億円 【全国第31位（前年31位）】」（https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf）
+  - 「額等）を上位から累積し、当該分類に係る売上高（製造品出荷額等）総額の９割を達成する範囲に含ま」（https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf）
+  - 「○ 主要項目の上位３産業の概況」（https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf）
+  - 「10.8%)、食料品 (同 10.0%)、窯業・土石製品(同 7.6%)の上位５産業で、全県の半数」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「7.8%)、生産用機械器具(同 7.7%)、繊維工業 (同 7.6%)の上位５産業で、全県の約半」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「送用機械器具(同 12.2%)、鉄鋼業(同 11.1%)の上位４産業で、全県の半数(同 54.0%)」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「11.4%）、生産用機械器具（同 6.3%）、プラスチック製品（同 6.0%）の上位５産業で」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「（参考）四国各県の農業産出額上位10品目（2021年）」（https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf）
+  - 「上位10品目 産出額 全国順位 上位10品目 産出額 全国順位」（https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf）
+- 前例の会社（製造業特化）：
+  - 「（注）売上高と従業員数は2025年9月までに公表された直近決算（連結ベース）の数値 36」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「業 種 会 社 名 本社所在地 売上高等(億円) 従業員数 (人) 市 場」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「（注）売上高と従業員数は2025年9月までに公表された直近決算（連結ベース）の数値」（https://yonkeiren.jp/pdf/data-shikoku_202512.pdf）
+  - 「【参考表３】市町別の事業所数の推移［従業員４人以上の事業所］（平成13年～） (Excelファイル)(26KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）付表５ 市町、産業大分類別売上（収入）金額（試算値） (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（企業等）付表９ 市町、企業産業大分類別売上（収入）金額 (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）付表５ 市町，産業大分類別売上（収入）金額（試算値） (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（企業等）付表９ 市町，企業産業大分類別売上（収入）金額 (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「＜事業所に関する集計－産業横断的集計（売上（収入）金額等）＞」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）第1-1表 産業(大分類)，経営組織(5区分)別民営事業所数，従業者数，売上(収入)金額，1事業所当たり従業者数，1事業所当たり売上(収入)金額及び従業者1人当たり売上(収入)金額―広島県 (Excelファイル)(19KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）第2-2-1表 産業(中分類)，単独・本所・支所(3区分)別民営事業所数，従業者数及び売上(収入)金額(外国の会社及び法人でない団体を除く) - 広島県，広島大都市圏 (Excelファイル)(67KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）第3-1表 産業(中分類)別民営事業所数，売上(収入)金額及び事業活動(22区分)別該当事業所数，売上(収入)金額(外国の会社及び法人でない団体を除く) - 広島県，広島大都市圏 (Excelファイル)(168KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）第4-2-1表 産業(大分類)，経営組織(5区分)別民営事業所数，従業者数及び売上(収入)金額 - 広島県，広島市 (Excelファイル)(18KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）第5-2-1表 産業(大分類)，従業者規模(7区分)別民営事業所数，従業者数，売上(収入)金額，1事業所当たり従業者数，1事業所当たり売上(収入)金額及び従業者1人当たり売上(収入)金額(外国の会社及び法人でない団体を除く) - 広島県，広島市 (Excelファイル)(53KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（企業等）第1-2表 企業産業(中分類)，単一・複数(２区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―広島県，広島大都市圏 (Excelファイル)(99KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+- 採用難（公的統計）：記載なし（読んだ33頁・検索13回）
+
+## 瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛）（job openings ratio manufacturing Hiroshima Okayama Ehime）
+- 文脈：地域・瀬戸内
+- 採用難（公的統計）：
+  - 「・雇用情勢のポイント ― 11月の岡山県の有効求人倍率は 1.43倍です」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/000777080.pdf）
+  - 「令和２年11月の有効求人倍率(季節調整値)は、1.43倍となり、前月と比べ0.01ポイント低下した」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/000777080.pdf）
+  - 「令和8年3月時点の広島県の有効求人倍率は」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「広島労働局の令和8年3月分のデータでは、広島県の有効求人倍率は」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「令和7年度平均でも、有効求人倍率は」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「広島県全体の有効求人倍率は1.37倍ですが、職種別に見ると大きな差があります」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「【7月の有効求人倍率】香川県は「全国7位」岡山県は「6か月ぶりの上昇」 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)」（https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1）
+  - 「【7月の有効求人倍率】香川県は「全国7位」岡山県は「6か月ぶりの上昇」」（https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1）
+  - 「岡山・香川の7月の有効求人倍率です」（https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1）
+  - 「岡山労働局によりますと、県内の7月の有効求人倍率は1.41倍で、前の月と比べて0.05ポイント増え、6か月ぶりの上昇となりました」（https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1）
+  - 「一方、香川県では7月の有効求人倍率は1.43倍で、全国平均の1.24倍を上回り全国7位の水準です」（https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1）
+  - 「有効求人倍率は約1.30倍と高く、人口減少や若年層の県外流出も重なって、採用難は一時的ではなく」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「2026年2月の有効求人倍率は約1.30倍」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「・高校卒の採用充足率：37.8％」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「・短大・高専卒の採用充足率：8.3％」（https://note.com/leadstar/n/ned2e83831c5b）
+- 採用にいくら払うか：
+  - 「令和7年度平均でも、有効求人倍率は」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「また、令和7年平均の15歳以上人口は」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「採用に600万円かけて正社員2名だった僕の原体験」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「「地方採用をもっと簡単に」月10万円～の定額制の採用サービス『スポット人事』を提供しています」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「一方、香川県では7月の有効求人倍率は1.43倍で、全国平均の1.24倍を上回り全国7位の水準です」（https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1）
+  - 「【倒産】木造建築会社が破産手続き開始決定 負債1億700万円【帝国データバンク】」（https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1）
+  - 「【倒産】半導体製造装置の設計・製作業者が破産手続き開始決定 負債は約5000万円【…」（https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1）
+  - 「AI投資の先行き懸念…米中間選挙受け、日経平均は一時3000円以上値下がり 専門家の見解は 日本政府「高い緊張感を持って動向注視」」（https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1）
+  - 「全国平均の約1.19倍を上回っており、求人数が求職者数を上回る状態が続いています」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「2015年から2020年の5年間で人口が増加した市町村は、岡山市、総社市、早島町、里庄町の4地域のみ」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「A. 1.30倍は県全体の平均値です」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「「地方採用をもっと簡単に」月10万円～の定額制の採用サービス『スポット人事』を提供しています」（https://note.com/leadstar/n/ned2e83831c5b）
+- 採用広報・採用サイトの単価：
+  - 「採用に600万円かけて正社員2名だった僕の原体験」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「「地方採用をもっと簡単に」月10万円～の定額制の採用サービス『スポット人事』を提供しています」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「【倒産】木造建築会社が破産手続き開始決定 負債1億700万円【帝国データバンク】」（https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1）
+  - 「【倒産】半導体製造装置の設計・製作業者が破産手続き開始決定 負債は約5000万円【…」（https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1）
+  - 「「地方採用をもっと簡単に」月10万円～の定額制の採用サービス『スポット人事』を提供しています」（https://note.com/leadstar/n/ned2e83831c5b）
+- 継続して払うか：
+  - 「単に求人媒体を運用するのではなく、」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「専任人事担当者不在でも、採用戦略立案から求人作成・媒体運用・面接設計まで一括」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「採用ターゲット設計、求人票作成、媒体運用、応募者対応、振り返りまでを社内だけで行うのが難しい場合は、外部支援を活用する選択肢があります」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「専任人事担当者不在でも、採用戦略立案から求人作成・媒体運用・面接設計まで一括」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「設計と運用を回すリソース不足」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「・Indeed運用や応募導線だけ整理する」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「岡山県の採用は「設計→言語化→運用」で前に進みやすくなる」（https://note.com/leadstar/n/ned2e83831c5b）
+- どう買われるか：
+  - 「地元定着、技術習得、家族との生活、地域に根ざしたキャリアが響きやすい可能性があります」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「都市部と比較すると母集団は限られますが、地域密着性、生活コスト、安定雇用、地元で長く働けることが魅力になります」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「・地元で家族や友人との生活を大切にできる」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「地元で長く働けること」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「・福山・尾道・三原など備後圏で地元就職したい人なのか」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「福山・尾道・三原では、備後圏の産業集積や地元定着、ものづくりとの関係性が重要です」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「三次・庄原では、地域密着、生活コスト、長期雇用、地元貢献が魅力になります」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「求人票提出だけでなく、学校訪問、職場見学、若手社員の紹介、保護者にも伝わる安定性、入社後育成の見える化が必要です」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「クリエイターへのお問い合わせ」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「・地元志向とUIターン層の混在」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「地元志向がいないわけではない」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「「将来的には地元に戻りたい」」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「・地元で働く意味」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「地元志向とUIターンは、同じ打ち出しでは届きにくい」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「「できれば地元で働きたい」」（https://note.com/leadstar/n/ned2e83831c5b）
+- 営業と採用のどちらに困っているか：
+  - 「なぜ？日本一小さな県「香川県」が観光国内宿泊旅行調査で2年連続 "総合満足度" 1位…」（https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1）
+  - 「非製造業では、64.0％の企業が「人材不足（質の不足）」を挙げ、46.8％が「労働力不足」を挙げています」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「特に福祉・介護は有効求人倍率2倍超とされ、人手不足が深刻です」（https://note.com/leadstar/n/ned2e83831c5b）
+- 前例の会社（製造業特化）：
+  - 「株式会社LeadSTAR｜導入事例」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「株式会社LeadSTAR(リードスター)は、地方に特化した採用支援のプロフェッショナル」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「株式会社LeadSTAR（リードスター）｜企業公式サイト」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「株式会社LeadSTAR(リードスター)は、茨城県に特化した採用支援のプロフェッショナル」（https://note.com/leadstar/n/na54b0254fc05）
+  - 「特に、機械・自動車部品工場などでは、若手技術者や現場人材の確保が厳しく、募集をかけても応募が集まりにくい状況です」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「株式会社LeadSTAR｜導入事例」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「株式会社LeadSTAR(リードスター)は、地方に特化した採用支援のプロフェッショナル」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「株式会社LeadSTAR（リードスター）｜企業公式サイト」（https://note.com/leadstar/n/ned2e83831c5b）
+  - 「最後スポット人事の創業秘話となります」（https://note.com/leadstar/n/ned2e83831c5b）
+- 社数（規模別）：記載なし（読んだ30頁・検索13回）
+- 作る側の原価：記載なし（読んだ30頁・検索13回）
+
+## 造船クラスター（今治・尾道・呉・因島）の人手不足と採用（shipbuilding cluster Imabari Onomichi Kure labor shortage hiring）
+- 文脈：地域・造船（対象分野）
+- 採用難（公的統計）：
+  - 「人手不足が直撃する日本の造船業 輸出船受注4年連続減少で倍増計画に暗雲 - 東京報道新聞」（https://tokyonewsmedia.com/archives/21191）
+  - 「人手不足が直撃する日本の造船業 輸出船受注4年連続減少で倍増計画に暗雲」（https://tokyonewsmedia.com/archives/21191）
+  - 「背景にあるのは深刻な人手不足で、国内の一部造船所ではドックをフル稼働できず、広島県福山市の常石造船・常石工場ではピーク時から稼働率を4割引き下げ、技術者を確保しやすい海外拠点の拡充を進めています」（https://tokyonewsmedia.com/archives/21191）
+  - 「【Vol.113】造船倍増計画と現場の乖離——人手不足という「決定的な壁」がもたらす業界再編シナリオ｜デルタCF | 海運・造船ニュース解説」（https://note.com/deltacf/n/na8708285e367）
+  - 「【Vol.113】造船倍増計画と現場の乖離——人手不足という「決定的な壁」がもたらす業界再編シナリオ」（https://note.com/deltacf/n/na8708285e367）
+  - 「経営課題「人手不足」に対応…今治造船、2026年3月期採用1.5倍120人｜ニュースイッチ by 日刊工業新聞社」（https://newswitch.jp/image/42360）
+  - 「経営課題「人手不足」に対応…今治造船、2026年3月期採用1.5倍120人」（https://newswitch.jp/image/42360）
+  - 「の有効求人倍率は約１． ３倍であるのに対し、有効求人倍率は４倍を超える倍率となっている」（https://www.mlit.go.jp/maritime/content/001753368.pdf）
+  - 「経営課題「人手不足」に対応…今治造船、2026年3月期採用1.5倍120人｜ニュースイッチ by 日刊工業新聞社」（https://newswitch.jp/p/42360）
+  - 「経営課題「人手不足」に対応…今治造船、2026年3月期採用1.5倍120人」（https://newswitch.jp/p/42360）
+  - 「造船の人手不足を深読み｜受注3.6年分でも鋼材1割減、就労者は9年で1.4万人減 | ぞうせんブログ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「深読み解説｜仕事は3.6年分あるのに、なぜ造船向けの鋼材は減るのか──就労者は9年で約1.4万人減、「人手不足」が建造量倍増の壁になる理由」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「国が掲げる2035年の建造量倍増の前に立ちはだかる人手不足の壁を、国土交通省の統計と各社の動きから深読みします」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「（各年4月1日時点）を見ると、人手不足の実態がはっきりします」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「ここ数週間のニュースを並べると、造船・舶用各社の人手不足への対応は、大きく3つに分けられます」（https://zosenblog.com/zosen-hitode-fukayomi/）
+- 採用にいくら払うか：
+  - 「各 KPI は、2034 年 KGI を 2026～2034 年の 9 年間で按分し、2026～2030 年の 5 年間における累」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「年間生産量を現在の 10 倍まで引き上げ、同システムにおける世界シェア 20％以上の獲得を目指」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「(4) 投資総額」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「主要企業の投資額は、総額約 1,000 億円超の規模に達する見込みであり、さらに液化水素サプ」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「③総事業費：約9,627 百万円（うち 2026 年度までに予算措置済：約 51 百万円）」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「①事業実施主体：新居浜市 ③総事業費：約 4,804 百万円（うち 2026 年度までに予算措」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「置済：約 1,690 百万円） ④事業実施期間：未定」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「①事業実施主体：今治市 ③総事業費：約 3,567 百万円（うち 2026 年度までに予算措置」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「済：約 33 百万円） ④事業実施期間：未定」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「③総事業費：約 16 百万円（うち 2026 年度までに予算措置済：約 7 百万円）」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「①事業実施主体：愛媛県 ③総事業費：約2,532 百万円 （うち2026 年度までに予算措置済：約」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「1,380 百万円） ④事業実施期間：未定」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「①事業実施主体：愛媛県 ③総事業費：約 570 百万円（うち 2026 年度までに予算措置済：約」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「30 百万円） ④事業実施期間：未定」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「①事業実施主体：愛媛県 ③総事業費：約1,547 百万円 （うち2026 年度までに予算措置済：約」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+- 採用広報・採用サイトの単価：
+  - 「③総事業費：約9,627 百万円（うち 2026 年度までに予算措置済：約 51 百万円）」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「①事業実施主体：新居浜市 ③総事業費：約 4,804 百万円（うち 2026 年度までに予算措」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「置済：約 1,690 百万円） ④事業実施期間：未定」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「①事業実施主体：今治市 ③総事業費：約 3,567 百万円（うち 2026 年度までに予算措置」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「済：約 33 百万円） ④事業実施期間：未定」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「③総事業費：約 16 百万円（うち 2026 年度までに予算措置済：約 7 百万円）」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「①事業実施主体：愛媛県 ③総事業費：約2,532 百万円 （うち2026 年度までに予算措置済：約」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「1,380 百万円） ④事業実施期間：未定」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「①事業実施主体：愛媛県 ③総事業費：約 570 百万円（うち 2026 年度までに予算措置済：約」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「30 百万円） ④事業実施期間：未定」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「①事業実施主体：愛媛県 ③総事業費：約1,547 百万円 （うち2026 年度までに予算措置済：約」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「282 百万円） ④事業実施期間：未定」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「①事業実施主体：愛媛県 ③総事業費：約2,239 百万円 （うち2026 年度までに予算措置済：約」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「499 百万円） ④事業実施期間：未定」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「①事業実施主体：新居浜市 ③総事業費：約2,896 百万円 （うち2026 年度までに予算措置済：」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+- 継続して払うか：
+  - 「さらに、設備能力の増強にとどまらず、設計・建造・艤装・修繕を中核に運用・試験まで含め」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「から建造・艤装・運用・修繕・試験に至る各工程の高度化とデータ連携を推進し、生産性向上を」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「れらが有機的に連携することで、設計・建造・艤装・部材供給・修繕・運用までを一体的に支え」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「クレーン等の主要設備の更新・増強などを通じた建造基盤」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「さらに、新設計の船舶に継続して取り組むことにより、低環境負荷船及び安全性能向上・労働負」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「整備など約 185 億円の投資規模を見込むとともに、クレーン等の主要設備の更新・増強や生産能」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「実習船「くるしま」の更新の機会等を捉えて、建造後の実習船の運航データを愛媛大学や」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「の在籍出向等を通じた横断的かつ継続的な人材育成を可能とした「造船クラスター認定共」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「らの取組により、特に共同 OJT を核とした人材育成及び制度運用の高度化を通じて、企業」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「し、航海士、機関士、及び造船エンジニアの育成を継続・強化する」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「○ 将来の液化水素サプライチェーンの本格運用に向けた連続建造体制の構築を推進するとと」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「②事業概要：本事業は、物流機能強化の基盤整備及び造船サプライチェーンの事業継続性を」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「立地競争力の強化につながるため、当該事業は、産業拠点の維持と事業継続性の確保に不」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「継続性の確保に不可欠な基盤整備である」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「迅速化及び制度・手続の一体運用と予見可能性向上により、民間計画との同期を確保す」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+- どう買われるか：
+  - 「特に、船主、金融機関、商社、造船所、舶用機器メーカー、素材供給企業等」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「国際展示会「バリシップ」の発展を踏まえた、海事国際会議の開催等により発信力を強化」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「専攻科の設置等を契機として、若年層からの裾野拡大と地元定着の促進により人」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「国内大手の今治造船の檜垣幸人社長は、日本のシェア低下に強い危機感を示し、「海外の新規需要どころか、日本の荷主の船の更新需要にも対応しきれなくなっている」と訴えています」（https://tokyonewsmedia.com/archives/21191）
+  - 「右利き・左利きは遺伝だけでなく、「使い込むこと」で決定される面が大きいとする研究を紹介」（https://tokyonewsmedia.com/archives/21191）
+  - 「アドバイザーのご紹介」（https://tokyonewsmedia.com/archives/21191）
+  - 「会社は家族寮を新築し、家族へのアルバイト紹介や日本語教室への参加も認めている」（https://note.com/deltacf/n/na8708285e367）
+  - 「宮地秀樹社長は「給与面では都会の企業には勝てない」（https://note.com/deltacf/n/na8708285e367）
+  - 「宮地社長のような経営者の個人的な胆力と善意に依存して、ようやく特定技能2号の全国初事例が生まれているという構図自体が、制度設計の遅れを物語っている」（https://note.com/deltacf/n/na8708285e367）
+  - 「しかし現場で見てきた実感で言えば、家族が来日した瞬間から、教育・医療・地域コミュニティへの統合といった、企業の人事部だけでは到底手に負えない課題が一気に噴出する」（https://note.com/deltacf/n/na8708285e367）
+  - 「因島鉄工が家族寮を新築し、家族にアルバイトを紹介し、日本語教室にまで参加させているのは、裏を返せば「そこまでやらないと定着しない」という切実さの表れであり、他の企業がこれを安易に模倣できるとは思えない」（https://note.com/deltacf/n/na8708285e367）
+  - 「クリエイターへのお問い合わせ」（https://note.com/deltacf/n/na8708285e367）
+  - 「会見する今治造船の檜垣社長」（https://newswitch.jp/image/42360）
+  - 「お問い合わせ」（https://newswitch.jp/image/42360）
+  - 「〇 金融機関によるスタートアップ支援」（https://www.unei-jimukyoku.jp/chihousousei2_0_forum/_assets/images/kinki_chushikoku-archive/pdf/2-4.pdf）
+- 営業と採用のどちらに困っているか：
+  - 「人手不足が直撃する日本の造船業 輸出船受注4年連続減少で倍増計画に暗雲 - 東京報道新聞」（https://tokyonewsmedia.com/archives/21191）
+  - 「人手不足が直撃する日本の造船業 輸出船受注4年連続減少で倍増計画に暗雲」（https://tokyonewsmedia.com/archives/21191）
+  - 「背景にあるのは深刻な人手不足で、国内の一部造船所ではドックをフル稼働できず、広島県福山市の常石造船・常石工場ではピーク時から稼働率を4割引き下げ、技術者を確保しやすい海外拠点の拡充を進めています」（https://tokyonewsmedia.com/archives/21191）
+  - 「業界2位のジャパンマリンユナイテッド（JMU）は2026年度の新卒採用者を141人とし、2025年度の約1.4倍に増やしましたが、過去の好況期に入社した世代の退職が進み、なお十分ではないとしています」（https://tokyonewsmedia.com/archives/21191）
+  - 「【Vol.113】造船倍増計画と現場の乖離——人手不足という「決定的な壁」がもたらす業界再編シナリオ｜デルタCF | 海運・造船ニュース解説」（https://note.com/deltacf/n/na8708285e367）
+  - 「【Vol.113】造船倍増計画と現場の乖離——人手不足という「決定的な壁」がもたらす業界再編シナリオ」（https://note.com/deltacf/n/na8708285e367）
+  - 「田熊造船(従業員24人中16人が外国人)、因島鉄工(従業員90人中約6割が外国人)における人員構成と、新卒採用がここ5年間ゼロという国内人材確保の限界」（https://note.com/deltacf/n/na8708285e367）
+  - 「特定技能2号とは、更新制限がなく定住・永住への道が開かれ、家族の帯同も認められる在留資格の最上位区分であり、取得には実技試験に加え日本語の筆記試験の合格が必要という高いハードルがある」（https://note.com/deltacf/n/na8708285e367）
+  - 「経営課題「人手不足」に対応…今治造船、2026年3月期採用1.5倍120人｜ニュースイッチ by 日刊工業新聞社」（https://newswitch.jp/image/42360）
+  - 「経営課題「人手不足」に対応…今治造船、2026年3月期採用1.5倍120人」（https://newswitch.jp/image/42360）
+  - 「• 今後、新造船需要の回復局面で2030年代の需要は倍増すると見込まれる一方、人材確保は困難な状況」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「地方銀行ながら世界11位、国内２位のシップファイナンス規模を持つ伊予銀行、国内の外航船の3 割を」（https://www.unei-jimukyoku.jp/chihousousei2_0_forum/_assets/images/kinki_chushikoku-archive/pdf/2-4.pdf）
+  - 「建造量シェア日本1位の今治造船、技能実習法違反で2,134件取り消し―5年間の受け入れ停止 - リクアジ|リクルートから活躍へ、アジア人材情報メディア」（https://www.rikuaji.com/5366）
+  - 「建造量シェア日本1位の今治造船、技能実習法違反で2,134件取り消し―5年間の受け入れ停止」（https://www.rikuaji.com/5366）
+  - 「経営課題「人手不足」に対応…今治造船、2026年3月期採用1.5倍120人｜ニュースイッチ by 日刊工業新聞社」（https://newswitch.jp/p/42360）
+- 前例の会社（製造業特化）：
+  - 「三原市や東広島市では大手造船所の主力工場や大学」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「西条工場においては、作業員の作業環境改善に向けて、日差しを遮り、雨天の」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「工場全体の生産能力及び対応力の強化が図られている」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「場である大西工場では、第 1 ドックの拡張や艤装プラットフォームの整備（クレーン稼働範囲の」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「拡張、係船設備の延長等）に加え、パイプ工場の新設やコンプレッサー設備の増設等を通じて、」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「装プラットフォームの整備、パイプ塗装工場及びパイプ製作工場の新設に着手しており、2026 年」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「設備投資を進めており、 主力工場である大西工場におけるドック拡張や関連設備の整備について、」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「尾道造船（株）は、整備中の艤装プラットフォーム及びパイプ製作・塗装工場を2026 年４月よ」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「（株）新来島どっくは、今治市（主力の大西工場）において、次世代船舶の建造体制強化に向」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「け、ドック拡張や艤装岸壁機能の強化、パイプ工場の新設等を通じた製造工程の高度化として、」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「尾道造船（株）は、 艤装プラットフォーム整備・工場整備等として約29 億円の投資規模を見込」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「○ 道路整備等のインフラ基盤の強化を図ることで、物流の効率化や従業員通勤のための渋滞」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「る防災機能強化を両立し、 造船関連企業の従業員や来訪者にとって安全で魅力ある都市空」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「従業員やその家族の安心感の向上を通じて、地域への定着促進にも効果が期待される」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+  - 「（今治造船㈱広島工場から本郷 IC を結ぶ道路で行う事業）」（https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai5/sankou13.pdf）
+- 検索結果の抜粋：
+  - 「経営課題「 人手不足 」に対応… 今治造船 、2026年3月期 採用 ... — 経営課題「 人手不足 」に対応… 今治造船 、2026年3月期 採用 ... ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > image」（https://newswitch.jp/image/42360）
+  - 「経営課題「 人手不足 」に対応… 今治造船 、 2026 年3月期 採用 ... — 経営課題「 人手不足 」に対応… 今治造船 、 2026 年3月期 採用 ... ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > image」（https://newswitch.jp/image/42360）
+- 社数（規模別）：記載なし（読んだ27頁・検索13回）
+- 作る側の原価：記載なし（読んだ27頁・検索13回）
+
+## マツダ系サプライヤー・自動車部品（広島）の採用（Mazda suppliers Hiroshima hiring labor shortage）
+- 文脈：地域・広島
+- 社数（規模別）：
+  - 「く企業数は 357 社を数え、全国における構成比は 42.4％を」（https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/191c0914559f46f8978b70f8dc9f1ac8/s210804_60.pdf）
+  - 「中国5県 社数 構成比（％）」（https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/191c0914559f46f8978b70f8dc9f1ac8/s210804_60.pdf）
+  - 「総務省・経済産業省発表の「令和3年経済センサス」によると、広島県の【製造品出荷額等】は約8兆8698億円で、全国11位」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「【事業所数】【従業員数】はそれぞれ4812所（14位）、20万7756人（11位）となっており、日本のものづくりを支える県の一つと言えます」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「広島県の造船業は事業所数・従業員数・出荷額いずれも全国シェア1位を誇ります」（https://yumesuta.com/kosotsusaiyo/hiroshima/manufacturing）
+  - 「Tier2サプライヤーはTier1に対し部品・素材を供給する中堅企業群です」（https://finance.protocol.ooo/factoring-hiroshima-mazda/）
+- 採用難（公的統計）：
+  - 「【定点観測】広島県の有効求人倍率－2026年9月、前月同水準の1.32倍」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「毎月定点観測している広島県の有効求人倍率ですが、2026年9月の調査結果が発表されましたので、今回も詳しく見てみたいと思います」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「2026年9月の広島県の求人倍率は「1.32倍」 広島県の求人倍率は、前月と変わらず『1.32倍』となりました」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「【定点観測】広島県の有効求人倍率－2026年8月、2ヶ月ぶり低下の1.32倍」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「毎月定点観測している広島県の有効求人倍率ですが、2026年8月の調査結果が発表されましたので、今回も詳しく見てみたいと思います」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「2026年8月の広島県の求人倍率は「1.32倍」 広島県の求人倍率は、前月より0.01ポイント低下し『1.32倍』と」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「【定点観測】広島県の有効求人倍率－2026年7月、前月同水準の1.33倍」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「毎月定点観測している広島県の有効求人倍率ですが、2026年7月の調査結果が発表されましたので、今回も詳しく見てみたいと思います」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「2026年7月の広島県の求人倍率は「1.33倍」 広島県の求人倍率は、前月と同水準の『1.33倍』となりました」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「求人倍率4.57倍の売り手市場で、工業高校からの高卒人材の争奪戦は激しさを増しています」（https://yumesuta.com/kosotsusaiyo/hiroshima/manufacturing）
+  - 「厚生労働省「令和9年3月高校新卒者のハローワーク求人に係る都道府県別求人・求職状況」第3表（令和8年7月末・広島県：求人10,485人・求職者2,296人・求人倍率4.57倍」（https://yumesuta.com/kosotsusaiyo/hiroshima/manufacturing）
+- 採用にいくら払うか：
+  - 「年収400万円〜749万円 / 賞与・昇給あり」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年間休日120日以上」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収500万円〜750万円 / 賞与・昇給あり」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「「広島」駆動系システムの設計開発業務担当／土日休み／年間休日120日以上」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収550万円〜749万円 / 賞与・昇給あり」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【応募資格】 [必須] 【必須】 ・理・工学系の高専・大学卒以上相当の基礎知識をお持ちの方 ・機械系設計領域の開発経験５年程度 ・CAD、CAEの知識 【尚可】 ・駆動系システム領域の開発経験 [歓迎] ※活かせる経験については上記「応募資格」欄に併記しております 【フィットする人物像】 ・どのような使われ方をしているかの広い視点を持って理解のある方 ・積極的にコミュニケーション取れて自発的に動ける方 ・自ら課題を見つけて他部門やサプライヤー含めて解決に動ける方 【職種名】 【広島】駆動系システムの設計開発業務担当 ※土日休み ※年間休日120日以上 【仕事内容】 大手完成車メーカー！次世代」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収350万円〜500万円 / 賞与・昇給あり」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年間休日110日以上」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「広島精研工業株式会社 【広島/東広島市】品質管理◆マツダTier1サプライヤー◆年休118日（土日祝） 【仕事内容】 【広島/東広島市】品質管理◆マツダTier1サプライヤー◆年休118日（土日祝） 【具体的な仕事内容】 ◎製造業界での就業経験を活かせる ◎U・Iターン歓迎 ◎年間休日118日（土日祝） ◎夜勤手当で給与アップ可能！ ■業務内容【変更の範囲：なし】 自動車部品のプレス加工、溶接、塗装、射出成型、組立までの一貫生産を行う当社にて、品質管理業務をお任せいたします」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収450万円〜699万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「広島／電子系自動車部品の品質保証（製品の試験／評価）プライム上場G／フレックス／年間休日121日」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「株式会社ユーシン 【広島】電子系自動車部品の品質保証（製品の試験/評価）◆プライム上場G／フレックス／年間休日121日 【仕事内容】 【広島】電子系自動車部品の品質保証（製品の試験/評価）◆プライム上場G／フレックス／年間休日121日 【具体的な仕事内容】 ～自動車部品等の車載品における品質関連業務経験を活かせる／プライム上場グループ／世界シェアトップクラス製品多数／総合精密部品メーカー／完全週休2日制～ ■業務内容 Teir1メーカーとして大手完成車メーカーの自動車部品を製造する当社にて、量産移行後のスイッチやヒーターコントロール等の電子系製品の初期・定期の信頼性試験実施や評価、市場」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収800万円〜1,000万円」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「社内SE／国内外に15拠点を有するサプライヤー／年収400万円／600万円」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収400万円〜649万円」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 採用広報・採用サイトの単価：
+  - 「年収400万円〜749万円 / 賞与・昇給あり」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収500万円〜750万円 / 賞与・昇給あり」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収550万円〜749万円 / 賞与・昇給あり」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収350万円〜500万円 / 賞与・昇給あり」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収450万円〜699万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収800万円〜1,000万円」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「社内SE／国内外に15拠点を有するサプライヤー／年収400万円／600万円」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収400万円〜649万円」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【応募資格】 [必須] ・IT基礎知識／論理的思考／専門知識 ・プログラミングスキル ・ITパスポート／基本・応用情報技術者／情報セキュリティマネジメント／AWS認定／ＣＣＮＡ・ＣＣＮＰ／Microsoft認定 等いずれかの資格を有しておられる方 ・普通自動車運転免許（日常的な運転経験要） [歓迎] 応募資格をご覧下さい 【フィットする人物像】 応募資格をご覧下さい 【職種名】 社内SE／国内外に15拠点を有するサプライヤー（年収400万円～600万円） 【仕事内容】 ■自動車部品や金型、組立ライン等を設計・製作している会社です」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収400万円〜600万円 / 賞与・昇給あり」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収400万円〜700万円」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収800万円〜1,200万円」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収540万円〜677万円 / 賞与・昇給あり」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「松本重工業株式会社 【広島／呉】自動車部品の製造オペレーター（サブリーダー候補）◆U･Iターン歓迎/引っ越し手当有 【仕事内容】 【広島／呉】自動車部品の製造オペレーター（サブリーダー候補）◆U･Iターン歓迎/引っ越し手当有 【具体的な仕事内容】 高強度ボルトから安全部品まで生産品目を拡大、四半世紀で売上3.6倍／開発段階から関わる提案開発型メーカー/引っ越し補助有（上限10万円） ■おすすめPOINT ・オペレーションだけでなく、段替え・作業標準づくりという“現場を動かす仕事”を担えます ・あなたのつくる標準が、工場の自動化・デジタル化の土台になります ・サブリーダー→リーダー→グル」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収500万円〜850万円 / 賞与・昇給あり」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 継続して払うか：
+  - 「株式会社東洋シート 【広島】社内SE ※年間休日121日／残業月20H／マツダ社Tier1サプライヤー 【仕事内容】 【広島】社内SE ※年間休日121日／残業月20H／マツダ社Tier1サプライヤー 【具体的な仕事内容】 ～マツダ社Tier1グローバルサプライヤー／年間休日121日／働き方改革実践企業として県優良事例に選出／グッドカンパニー大賞受賞／社員満足第一主義の企業～ ■業務概要： 社内システムの運用・保守業務、ITインフラ環境整備に携わって頂きます」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「・社内ICT全般の運用、サポートの管理業務 ・基幹系（生産管理、受発注、会計等）／情報系システム（メール、グループウェア等）、イ」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「■業務詳細 ・生産管理システムの運用 ・生産計画の作成 ・材料変更に伴う生産計画の変更対応 ・部品の発注業務 ・在庫管理および在庫削減活動」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「情報更新日：2026/10/23」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「情報更新日：2026/09/30」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「情報更新日：2026/07/17」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「エレベーター・エスカレーターの新設営業、保守営業、改修営業、営業技術いずれかをお任せします」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「情報更新日：2026/07/21」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「情報更新日：2026/11/02」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「情報更新日：2026/10/30」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「情報更新日：2026/10/28」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「情報更新日：2026/10/29」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「情報更新日：2025/08/22」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「情報更新日：2026/10/26」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「情報更新日：2026/10/22」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+- どう買われるか：
+  - 「求人掲載のお問い合わせ」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「紹介予定派遣」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「電話問い合わせOK」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「求人掲載の問い合わせ<企業様向け>」（https://tenshoku.mynavi.jp/chugoku/list/p34/i02110/f010/）
+  - 「先輩社員紹介」（http://www.mazda-parts.co.jp/careers/field/）
+  - 「お問い合わせ」（http://www.mazda-parts.co.jp/careers/field/）
+  - 「全国のお取引先様からのご注文や、お問い合わせに応対する総合窓口です」（http://www.mazda-parts.co.jp/careers/field/）
+  - 「マツダパーツのオーダーサポートセンターは、商品の注文・問い合わせ・カスタマイズ用品の相談などに対応しています」（http://www.mazda-parts.co.jp/careers/field/）
+  - 「人材紹介の求人を除く」（https://xn--pckua2a7gp15o89zb.com/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B-%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82）
+  - 「/スタート日相談可/設備保全経験いかせます/紹介予定派遣のお仕事です...」（https://xn--pckua2a7gp15o89zb.com/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B-%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82）
+  - 「紹介予定派遣」（https://xn--pckua2a7gp15o89zb.com/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B-%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82）
+  - 「職業紹介に関する情報提供」（https://xn--pckua2a7gp15o89zb.com/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B-%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82）
+  - 「職業紹介事業者様向け」（https://xn--pckua2a7gp15o89zb.com/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B-%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82）
+  - 「地元の『広島県』が 272 社（構成比 70.1％）で最も多かっ」（https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/191c0914559f46f8978b70f8dc9f1ac8/s210804_60.pdf）
+  - 「【問い合わせ先】 株式会社帝国データバンク 広島支店情報部 担当：藤井・松岡」（https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/191c0914559f46f8978b70f8dc9f1ac8/s210804_60.pdf）
+- 営業と採用のどちらに困っているか：
+  - 「総務省・経済産業省発表の「令和3年経済センサス」によると、広島県の【製造品出荷額等】は約8兆8698億円で、全国11位」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「【事業所数】【従業員数】はそれぞれ4812所（14位）、20万7756人（11位）となっており、日本のものづくりを支える県の一つと言えます」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「広島県の製造品出荷額等は約11兆4,765億円（全国11位）」（https://yumesuta.com/kosotsusaiyo/hiroshima/manufacturing）
+  - 「全国シェア1位・呉と尾道が集積地」（https://yumesuta.com/kosotsusaiyo/hiroshima/manufacturing）
+  - 「広島県の造船業は事業所数・従業員数・出荷額いずれも全国シェア1位を誇ります」（https://yumesuta.com/kosotsusaiyo/hiroshima/manufacturing）
+  - 「支払サイトはTier1で60日相当、Tier2〜Tier3でさらに長期化する傾向があり、運転資金の最適化が経営課題となっています」（https://finance.protocol.ooo/factoring-hiroshima-mazda/）
+  - 「F-6. 人材確保と人件費上昇」（https://finance.protocol.ooo/factoring-hiroshima-mazda/）
+  - 「編集部のランキング 1位」（https://finance.protocol.ooo/factoring-hiroshima-mazda/）
+- 前例の会社（製造業特化）：
+  - 「矢崎総業株式会社」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「矢崎総業株式会社（矢崎グループ）」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「矢崎総業株式会社（矢崎グループ） 【広島市】自動車部品に関する営業（マツダ様向け）◆世界シェアトップ級の優良メーカー／矢崎G 【仕事内容】 【広島市】自動車部品に関する営業（マツダ様向け）◆世界シェアトップ級の優良メーカー／矢崎G 【具体的な仕事内容】 ～自動車の電装化を追い風に受ける、ハーネスシェア世界トップの優良メーカー／研修制度充実／寮・社宅、食事補助、厚生施設等の福利厚生充実～ ■業務概要： ・自動車メーカー（マツダ（株）様）への営業業務をお任せします」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「マツダ株式会社」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「広島精研工業株式会社」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「広島精研工業株式会社 【広島/東広島市】品質管理◆マツダTier1サプライヤー◆年休118日（土日祝） 【仕事内容】 【広島/東広島市】品質管理◆マツダTier1サプライヤー◆年休118日（土日祝） 【具体的な仕事内容】 ◎製造業界での就業経験を活かせる ◎U・Iターン歓迎 ◎年間休日118日（土日祝） ◎夜勤手当で給与アップ可能！ ■業務内容【変更の範囲：なし】 自動車部品のプレス加工、溶接、塗装、射出成型、組立までの一貫生産を行う当社にて、品質管理業務をお任せいたします」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「コルベンシュミット株式会社」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【応募資格】 [必須] 【必須条件】 下記いずれかを満たしていること ・製造職など工場での1～3年程度の勤務経験（簡単な設備点検、メンテの経験含む） ・各種設備の保全、導入、立ち上げ等の業務の経験 ・工業系学科（高校）卒業 【必須スキル】 ・高卒以上 [歓迎] 【優遇条件】 ・メーカーの工場での設備保全関連業務経験 ・交替シフト（夜勤）経験 【職種名】 【広島】設備保全／エンジン部品の世界的サプライヤー 【仕事内容】 設備保全 自動車メーカー等へ向けて製造しているエンジンピストンの製造工場で、設備保全職として製造ラインの製造設備、敷地内インフラの修理・保全をご担当いただきます」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「株式会社ユーシン」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「株式会社ユーシン 【広島】電子系自動車部品の品質保証（製品の試験/評価）◆プライム上場G／フレックス／年間休日121日 【仕事内容】 【広島】電子系自動車部品の品質保証（製品の試験/評価）◆プライム上場G／フレックス／年間休日121日 【具体的な仕事内容】 ～自動車部品等の車載品における品質関連業務経験を活かせる／プライム上場グループ／世界シェアトップクラス製品多数／総合精密部品メーカー／完全週休2日制～ ■業務内容 Teir1メーカーとして大手完成車メーカーの自動車部品を製造する当社にて、量産移行後のスイッチやヒーターコントロール等の電子系製品の初期・定期の信頼性試験実施や評価、市場」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「株式会社ヒロテック」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「株式会社東洋シート」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「株式会社東洋シート 【広島】社内SE ※年間休日121日／残業月20H／マツダ社Tier1サプライヤー 【仕事内容】 【広島】社内SE ※年間休日121日／残業月20H／マツダ社Tier1サプライヤー 【具体的な仕事内容】 ～マツダ社Tier1グローバルサプライヤー／年間休日121日／働き方改革実践企業として県優良事例に選出／グッドカンパニー大賞受賞／社員満足第一主義の企業～ ■業務概要： 社内システムの運用・保守業務、ITインフラ環境整備に携わって頂きます」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「株式会社今仙電機製作所」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【職種】営業＞法人営業 【業種】メーカー＞自動車・自動車部品 ※会員属性などに応じ、当該求人をビズリーチ上で閲覧された際に内容が異なる場合があります ▼募集背景 当社では長期経営計画において、2029年度に向けた売上高の倍増を目標に掲げております」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 検索結果の抜粋：
+  - 「マツダ系サプライヤー自動車部品(広島) - 広島県の求人情報 （62件） — マツダ系サプライヤー自動車部品(広島) - 広島県の求人情報 （62件） スタンバイ」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「広島 県の 自動車部品 メーカーの新分野進出 — 広島 県の 自動車部品 メーカーの新分野進出 地域経済システム研究センター PDF https://cres.hiroshima-u.ac.jp > ken14-07」（https://cres.hiroshima-u.ac.jp/ken14-07.pdf）
+  - 「広島 の景況感に影響も。今さら聞けない「 広島 の 自動車 業界 ... — 広島 の景況感に影響も。今さら聞けない「 広島 の 自動車 業界 ... リージョナルキャリア広島 https://rs-hiroshima.net > staffblog > hiroshima_230212」（https://rs-hiroshima.net/staffblog/hiroshima_230212.html）
+  - 「採用 情報 - マツダ部品広島販売 — 採用 情報 - マツダ部品広島販売 mazdaparts-hiroshima.co.jp https://www.mazdaparts-hiroshima.co.jp > 採用情報-1」（https://www.mazdaparts-hiroshima.co.jp/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1-1/）
+  - 「マツダ系サプライヤー自動車部品(広島) 厚生労働省 - 広島県の求人情報 （1,975件） — マツダ系サプライヤー自動車部品(広島) 厚生労働省 - 広島県の求人情報 （1,975件） スタンバイ」（https://jp.stanby.com/search?l=%E5%BA%83%E5%B3%B6%E7%9C%8C&q=%E3%83%9E%E3%83%84%E3%83%80%E7%B3%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%28+%29+%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「広島 の車社会を支える【営業系総合職】  定時退社が当たり前 ... — 広島 の車社会を支える【営業系総合職】  定時退社が当たり前 ... マイナビ転職 https://tenshoku.mynavi.jp > jobinfo-482628-1-1-1」（https://tenshoku.mynavi.jp/jobinfo-482628-1-1-1/）
+  - 「広島 県の 自動車部品サプライヤー Tier1の求人 — 広島 県の 自動車部品サプライヤー Tier1の求人 Indeed https://jp.indeed.com > q-自動車部品サプライヤー-tier1-l...」（https://jp.indeed.com/q-%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC-tier1-l-%E5%BA%83%E5%B3%B6%E7%9C%8C-%E6%B1%82%E4%BA%BA.html）
+- 作る側の原価：記載なし（読んだ33頁・検索13回）
+
+## 航空機部品・半導体関連の製造業の採用難（対象3分野）（aerospace parts semiconductor manufacturing hiring difficulty Japan）
+- 文脈：対象3分野
+- 社数（規模別）：
+  - 「1,375ヘクタール、入居する会社数は600社以上、就業人口約17万人、最近3年の平均売上4兆円以上」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「• 上記以外にも大企業の設備投資については、中堅企業と一元化し、既存の6%~10%に2%p増やし、8%~12%適用」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+- 採用難（公的統計）：
+  - 「獲得競争激化・有効求人倍率は3.7倍で最高水準（2.4万人の不足）」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「最高水準に達し、半導体産業の有効求人倍率は19年12月が2.3倍→21年12月に3.7倍に」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「• 熊本県の有効求人倍率は1.38と全国平均（1.20）よりも高く、九州地方では最大〔人材不足と相関〕である」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「有効求人倍率：1.38」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「✓ 人手不足を解消するため、10のサブディビジョン契約部門を設立しサポート」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「なお、表中の有効求人倍率はいずれも直近年度（令和7年度）の数値」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「人手不足状況等の把握※１」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「※１ 分野単位で深刻な人手不足の状況にあることが確認済みであったとしても、追加する個々の単位で明らかに人手不足でないものが包含されており、かつ、それが業務内容の基幹部分であるなど」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「板ガラス加工の業界団体である板硝子協会の調査では、回答した18社中14社が人材不足と回答しており､有効求人倍率だけでなく企業の生声としても労働力不足は深刻な状況となっ」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「分野有効求人倍率：2.80 業務区分（有効求人倍率）：4.34」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「人手不足が顕著な業界TOP10！人材が確保しにくい原因や改善に向けた対策」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/464/）
+  - 「2017年の推計値で未充足求人数が1.2万人におよび、5年後には7.5万人の人手不足が見込まれています」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/218/）
+  - 「2017年の推計値で3万人の人手不足という実態があり、5年後には6.2万人が不足することが見込まれています」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/218/）
+  - 「2017年の推計値で未充足求人数が0.7万人で、5年後には6.3万人の人手不足となると見込まれています」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/218/）
+- 採用にいくら払うか：
+  - 「◆ 航空旅客需要は今後20年間で約2倍に成長」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「3年平均相当」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「注１）コロナ、737MAX出荷停止等による影響を排除し、年ごとの増減を平準化するため、2016-2018年の３年平均の納入機数実績を基に推計」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「野において、2025年度から5年間で1,200億円規模の支援を想定 （2025年度81億円）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「次期航空機開発等支援事業（GX推進対策費）予算総額：868億円/5年間（国庫債務負担行為込）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「「重要物資サプライチェーン強靱化支援（航空機の部品）」 予算総額：744億円」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「目標：年間生産能力を公称能力で5,000トン以上増強する」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「予算総額：150億円/5年」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「とSKハイニックスなどが10年間で」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「◆ 2021年第４四半期の半導体産業における月間平均求人件数は３万4,000件に上り、７年来で」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「➢ 台湾はこの10年間、毎年専門人材1万人を育成している状況」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「➢ 特にTSMCの人材採用人数は2015年から2020年までの6年間で2.1倍に拡大しており、」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「今後10年間に約３万人が不足」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「ウォン（3か月で約63万円）を支給」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「共に、教員1人あたりの学生数の緩和を実施」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+- 採用広報・採用サイトの単価：
+  - 「ウォン（3か月で約63万円）を支給」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「◆ 【グジャラート州】電力料金の補助金として1ユニットあ」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「電気 • 電力料金の補助金として1ユニットあたり2ルピーを10年間支給する」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「補助金 • 事業所などの新設・増設などに約24億2000万円、四日市市は事業所などの新設・増設、研」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「究機能の強化に約28億5000万円を東芝に交付（総額は約52億7000万円）」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「生産性（金額）令和２年 29.6百万円/人→令和７年 34.9百万円/人 18.1％向上」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「従業員一人当たり出荷額：令和２年 約4,450万円→令和」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「６年 約6,257万円」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「従業者数あたりの出荷額：令和２年 約24百万円/人 →令和６年 約29百万円/人」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「：2,000万円～5,000万円」（https://kikai.asmedia.pro/2025/03/expanding-into-the-aerospace-field/）
+  - 「：1,000万円～3,000万円」（https://kikai.asmedia.pro/2025/03/expanding-into-the-aerospace-field/）
+  - 「：500万円～2,000万円」（https://kikai.asmedia.pro/2025/03/expanding-into-the-aerospace-field/）
+  - 「：外注の場合は年間1,000万円～、内製化なら5,000万円以上」（https://kikai.asmedia.pro/2025/03/expanding-into-the-aerospace-field/）
+  - 「5～10年落ちのNC旋盤：200万円～800万円」（https://kikai.asmedia.pro/2025/03/expanding-into-the-aerospace-field/）
+  - 「旧型のマシニングセンタ：500万円～1,500万円」（https://kikai.asmedia.pro/2025/03/expanding-into-the-aerospace-field/）
+- 継続して払うか：
+  - 「① 主体的かつ継続的な成長を実現するためには完成機事業への参画が不可欠であり、これを目標と」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「的運用、持続的発展を目指し、運航事業者、製」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「IPAを運用主体として 2025年3月より」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「制度運用開始」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「・インフラ点検、保守、監視」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「完了したところ、令和６年度からは、制度の運用等に関する詳細検討を実施するとともに、」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「制度の運用に関する詳細検討の例」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「◼ 我が国における空飛ぶクルマの実現及び更なる運用の拡大のため、空飛ぶクルマ産業への参入を検討する 業界関係者に必要な情報を提供」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「空飛ぶクルマの運用概念（Concept of Operations：ConOps）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「の稼働率は約95％を継続しており生産能力の限界」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「分野別運用方針の改正について」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「分野別運用方針の改正（案）に係る概要」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「特定技能制度及び育成就労制度の分野別運用方針の改正（案）に係る概要①」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「特定技能制度及び育成就労制度の分野別運用方針の改正（案）に係る概要②」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「・法令上、分野別運用方針の策定、受入れ停止・再開措置、上乗せ基」（https://www.moj.go.jp/isa/content/001472909.pdf）
+- どう買われるか：
+  - 「か、いくつかの地域では、地域の特長を活かした取組を地元企業や関連事業者と連携して実施中」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「• 地域でも 、地元企業 、機体メーカー 、運航事業者 、離着陸場運営」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「・地元スーパーと連携した」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「長期的な安定性を高めるための、集積・強靭化 半導体デジタル人材の確保・育成 地元産業と大学が密な連携を行うための拠点整備」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「長期 小学校や中学校でのプログラム提供 ◆ 【日本】小中学生、高校生を対象とした企業見学会や出前講座等半導体企業・産業の紹介」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「後工程 • 高い賃金での募集は、地元企業としては脅威」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「• 当社のHPにメッセージを送れるサイトや、学会や展示会等で」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「◆ 【アリゾナ州】地元の教育機関が先端産業を支える技」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「その他 • アリゾナ州立大学をはじめとする地元の教育機関が先端産業を支える技術系人材の育成に力を入れていることに加え、州政府や自治体」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「• 地元政府の支」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「*** • 地元政府に同」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「• 2000年1月、北川正恭三重県知事とシャープ町田勝彦社長が会談した際、「液晶ディスプ」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「地元の亀山市は45億円の奨励金支出を決め、合計135億円の公金が企業」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「15年間にわたって最大総額90億円の補助金を支出する」、「地元亀山市も45億円を補助」」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「会員企業から生産設備への問い合わせが多く得ら」（https://www.moj.go.jp/isa/content/001472909.pdf）
+- 営業と採用のどちらに困っているか：
+  - 「4-2. 安定した半導体人材確保・育成 67」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「• 熊本県の有効求人倍率は1.38と全国平均（1.20）よりも高く、九州地方では最大〔人材不足と相関〕である」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「• 九州地域では1位」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「人手不足状況等の把握※１」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「※１ 分野単位で深刻な人手不足の状況にあることが確認済みであったとしても、追加する個々の単位で明らかに人手不足でないものが包含されており、かつ、それが業務内容の基幹部分であるなど」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「板ガラス加工の業界団体である板硝子協会の調査では、回答した18社中14社が人材不足と回答しており､有効求人倍率だけでなく企業の生声としても労働力不足は深刻な状況となっ」（https://www.moj.go.jp/isa/content/001472909.pdf）
+  - 「生産性の向上や国内の人材確保の取り組みを行っても人材の確保が困難とされる、14の特定産業分野に従事する外国人を対象としています」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/218/）
+  - 「製造業で特定技能の対象となった3分野は、生産性の向上や国内における人材確保の取り組みを行っても、人材の確保が困難という要件を満たした業種です」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/218/）
+  - 「2017年の推計値で未充足求人数が1.2万人におよび、5年後には7.5万人の人手不足が見込まれています」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/218/）
+  - 「2017年の推計値で3万人の人手不足という実態があり、5年後には6.2万人が不足することが見込まれています」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/218/）
+  - 「2017年の推計値で未充足求人数が0.7万人で、5年後には6.3万人の人手不足となると見込まれています」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/218/）
+- 前例の会社（製造業特化）：
+  - 「➢ 2008年4月、三菱重工が三菱航空機を設立し、約半世紀ぶりの完成機開発事業開始」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「*1,2,3：主要企業の売上高合計（2010年）現代航空論より *4：主要企業の売上高合計（2012年）Airline Businessより」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「*5：主要企業の保有機材価値（2013年現在）、Airline Businessより *6:主要企業の売上高合計（2012年）Airline Businessより」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「*日本航空株式会社のプレスリリースより引用」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「そのため、本年１月に「バーティポート施設のあり方検討委員会」を設立し、 2030年代後半（空飛ぶクルマがより多」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/kokuki_uchu/pdf/2025_001_s01_00.pdf）
+  - 「株式会社日本総合研究所」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「➢ 従来生産拠点を中国に構えていた台湾企業が工場」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「インフラ整備 ◆ 半導体産業の集積地である各地のサイエンスパークを中心に工場用地拠出の施策を多数実施」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「➢ 半導体研究開発センターを5カ所設立」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「• 2030年までに素材・部品・設備の国産化率50％を掲げており、ソウルの南郊の既存の半導体関連工場の重点拠」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「・ディスプレー工場」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「• 半導体製造（前工程）の工場建設の投資判断の理由としては、「サプライチェーン」「人材獲得」「水・電力供給」」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「• 後工程、装置、材料の工場建設の投資判断の理由としては「顧客〔前工程〕」の存在が大きい」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「企業・工場・エリア 時期 顧客 サプライチェーン 人材獲得 水・電力供給 政策的支援 自然条件 その他」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+  - 「サムスン電子〔米国・テキサス州〕 • 2021年発表 *** ✔ *** ✔ ✔ *** • 既存工場の存在」（https://www.pref.kumamoto.jp/uploaded/life/230211_651120_misc.pdf）
+- 作る側の原価：記載なし（読んだ33頁・検索13回）
+
+## オーナー社長が採用・広報の発注を決めているか（意思決定者）（owner president decides recruitment PR spending SME）
+- 文脈：⑦買い方
+- 社数（規模別）：
+  - 「「採用施策において、感じている課題を教えてください」という設問を聞いたところ、中堅企業の78.2％、大企業の70.3％が「応募者認知」に課題を感じており、次いで「母集団形成」「内定承諾」という結果になりました」（https://online-soudan.jeki.co.jp/information/blog/recruit/recruitment-pr/）
+  - 「出典：PR TIMES｜talentbook株式会社『【採用活動における取り組み実態調査】採用施策において「応募者認知」に課題を感じていると中堅企業の78.2％、大企業の70.3％が回答』（2024年3月29日）」（https://online-soudan.jeki.co.jp/information/blog/recruit/recruitment-pr/）
+- 採用難（公的統計）：
+  - 「「2025年問題」を通過した現在、多くの経営トップが直面しているのは、単なる人手不足ではなく、「公的価格（介護報酬）の枠組みのなかで、いかに資本効 […]」（https://persona-corporate.co.jp/blog/）
+- 採用にいくら払うか：
+  - 「社長の平均年収は調査によって1,000万円台にも数千万円台にもなる」（https://persona-corporate.co.jp/blog/）
+  - 「年収3000万円は、月給の延長では届きにくい」（https://persona-corporate.co.jp/blog/）
+  - 「だから3000万円超の処遇はフロー（報酬）ではなくストック（株式）で組まれやすい」（https://persona-corporate.co.jp/blog/）
+  - 「年収2,000万円超の経営ポストが一般の求人に出ないのは、カーブアウト・大型M&A・事業承継・IPO準備といった企業価値を左右する機密と連動しているからです」（https://persona-corporate.co.jp/blog/）
+  - 「社長求人でオファーが出る人、出ない人｜年収3000万円クラスの選考の境界線」（https://persona-corporate.co.jp/blog/）
+  - 「企業の第一線で圧倒的な成果を残し、事業部長やスペシャリストとして年収1,000万円〜1,500万円のレンジに到達した優秀な人材の多くが、ある時期を境に「キャリアの停滞感」に直面します」（https://persona-corporate.co.jp/blog/）
+  - 「年収2,000万円を超えるエグゼクティブ層が直面する最も理不尽な現実、それは「報酬の増加が必ずしも生活の質の向上に直結しない」という累進課税の構造的ジレンマです」（https://persona-corporate.co.jp/blog/）
+  - 「役員・CXOが辞める本当の理由10選｜年収2,000万円クラスが、不満を口にしないまま去る構造」（https://persona-corporate.co.jp/blog/）
+  - 「しかし、年収2,000万円を超えるエグゼクティブのポジションにおいて、「圧倒的な実績」を記載しただけの職務経歴書が、あっけなく書類審査で弾かれるケースが後を絶 […]」（https://persona-corporate.co.jp/blog/）
+  - 「によると、購買には平均で5.4人の承認が必要とのことです」（https://bizfighters.com/decision-maker/）
+  - 「価格 100万円 70万円 30万円」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「基本設計 3万円 サイト構成,SEO,操作説明」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「Option1 ２万円/頁 ウエブサイトの独自デザイン」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「Option2 7万円 トップ／下層コーディング」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「Option3 10万円 ウエブサイトからのメール送信」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+- 採用広報・採用サイトの単価：
+  - 「ヘッドハンティングの費用は誰が払うのか｜理論年収の30〜40%という相場と、その払い方であなたに届く席が変わる理由」（https://persona-corporate.co.jp/blog/）
+  - 「社長の平均年収は調査によって1,000万円台にも数千万円台にもなる」（https://persona-corporate.co.jp/blog/）
+  - 「年収3000万円は、月給の延長では届きにくい」（https://persona-corporate.co.jp/blog/）
+  - 「だから3000万円超の処遇はフロー（報酬）ではなくストック（株式）で組まれやすい」（https://persona-corporate.co.jp/blog/）
+  - 「年収2,000万円超の経営ポストが一般の求人に出ないのは、カーブアウト・大型M&A・事業承継・IPO準備といった企業価値を左右する機密と連動しているからです」（https://persona-corporate.co.jp/blog/）
+  - 「社長求人でオファーが出る人、出ない人｜年収3000万円クラスの選考の境界線」（https://persona-corporate.co.jp/blog/）
+  - 「企業の第一線で圧倒的な成果を残し、事業部長やスペシャリストとして年収1,000万円〜1,500万円のレンジに到達した優秀な人材の多くが、ある時期を境に「キャリアの停滞感」に直面します」（https://persona-corporate.co.jp/blog/）
+  - 「年収2,000万円を超えるエグゼクティブ層が直面する最も理不尽な現実、それは「報酬の増加が必ずしも生活の質の向上に直結しない」という累進課税の構造的ジレンマです」（https://persona-corporate.co.jp/blog/）
+  - 「役員・CXOが辞める本当の理由10選｜年収2,000万円クラスが、不満を口にしないまま去る構造」（https://persona-corporate.co.jp/blog/）
+  - 「しかし、年収2,000万円を超えるエグゼクティブのポジションにおいて、「圧倒的な実績」を記載しただけの職務経歴書が、あっけなく書類審査で弾かれるケースが後を絶 […]」（https://persona-corporate.co.jp/blog/）
+  - 「価格 100万円 70万円 30万円」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「基本設計 3万円 サイト構成,SEO,操作説明」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「Option1 ２万円/頁 ウエブサイトの独自デザイン」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「Option2 7万円 トップ／下層コーディング」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「Option3 10万円 ウエブサイトからのメール送信」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+- 継続して払うか：
+  - 「昨日、日経平均株価がついに7万円の大台を突破し、史上最高値を更新しました」（https://persona-corporate.co.jp/blog/）
+  - 「ミッション（制度運用か企業価値向上か）、視座（現在か3〜5年後か）、対峙する相手（従業員か投資家か）の3軸で分かれる」（https://persona-corporate.co.jp/blog/）
+  - 「保守的なモノづくり王国に「資本の論理」を実装するなら、ペルソナ株式会社にお任せください」（https://persona-corporate.co.jp/blog/）
+  - 「強固なサプライチェーンと盤石な財務基盤を持つ反面、極めて保守的で「身内」を重んじるこの地において、今、水面下で劇的な地殻変動が起きています」（https://persona-corporate.co.jp/blog/）
+  - 「Webサイト構築～運営、SEO対策、広告運用、SNS、ウェビナー企画～運営管理、メルマガ、顧客管理など」（https://bizfighters.com/decision-maker/）
+  - 「※本資料は、令和6年2月「中小企業・小規模事業者の価格交渉ハンドブック」を、昨今の状況をふまえて更新したものです」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「付加価値を活かした代替案提示が取引継続のポイント」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「ことで、迅速な見積対応に効果を発揮し、事業の継続性も高まります」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「スマートフォンでも利用できるアプリ版も多数リリースされており、中には、月額数百円～数千円で利用できるものもあります」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「（発注者が翌年度の予算を策定する前、定期の価格改定や契約更新のタイミング等）」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「を使って、月額数百円程度から取り組みをはじめます」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「導入費用や月額費用を抑えられていることから、導入を検討中である」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「❷現行商品・サービスの交渉だけでなく、自社の付加価値を活かした代替案の提示が取引継続のポイント」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「自治体から設備の保守点検を受託しているが、最低賃金の上昇に伴って労務費が上がるため、価格転嫁したい」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「2. 事業開始後、平時の継続的な顧客とのコミュニケーションの実施は、価格面での交渉発生時にも重要となります」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+- どう買われるか：
+  - 「同じ名刺でも実際の仕事は4つの型に分かれ、「最高」と付いていても社長が直轄を残すのが普通です」（https://persona-corporate.co.jp/blog/）
+  - 「オファーを検討する段階で確かめるべき人事権・決裁金額・社長の直轄範囲の3点を、確認の仕方まで整理しました」（https://persona-corporate.co.jp/blog/）
+  - 「人材紹介に出した経歴書は、どこまで誰に渡るのか｜経営層が登録時に決めておく4つ」（https://persona-corporate.co.jp/blog/）
+  - 「人材紹介に登録した経歴書は、同意なく第三者に渡ることはありません」（https://persona-corporate.co.jp/blog/）
+  - 「CBO・ブランディング責任者の転職で見るべきは組織図でも予算額でもなく、値付けの決裁者です」（https://persona-corporate.co.jp/blog/）
+  - 「ベンチャーCFOの転職エージェントを探しても案件が出てこない理由｜紹介手数料の原資が、ラウンドで決まっている」（https://persona-corporate.co.jp/blog/）
+  - 「若いラウンドのCFOの席は、紹介手数料を払う原資がないため、そもそもエージェントに回っていません」（https://persona-corporate.co.jp/blog/）
+  - 「「次期社長候補」が言葉なのか事実なのかを見分ける3つ｜指名の手続き・横の担当・社外の接点」（https://persona-corporate.co.jp/blog/）
+  - 「社内で次期社長候補と言われていても、人事上の事実か引き止めの言葉かは言われ方では分かりません」（https://persona-corporate.co.jp/blog/）
+  - 「見分ける材料は、指名の手続きに名前が乗っているか、担当が縦から横に変わったか、社長の社外の接点を渡されたかの3つです」（https://persona-corporate.co.jp/blog/）
+  - 「CEO案件を扱うエージェントに「いい話ありますか」は効かない｜社長の席は、発生した瞬間に3人しか声がかからない」（https://persona-corporate.co.jp/blog/）
+  - 「CEO・社長クラスの案件は求人として存在せず、株主が動いたときに作られます」（https://persona-corporate.co.jp/blog/）
+  - 「代表理事の席は、求人に出てこない｜「選ばれ方」と「報われ方」が株式会社の社長と違う理由」（https://persona-corporate.co.jp/blog/）
+  - 「代表理事への転職は、株式会社の社長とは選ばれ方も報われ方も違う」（https://persona-corporate.co.jp/blog/）
+  - 「肩書と決裁権が連動していない、意思決定に使える数字が存在しない、株主の期限と組織の速度が違う」（https://persona-corporate.co.jp/blog/）
+- 営業と採用のどちらに困っているか：
+  - 「登録型・成功報酬型サーチ・リテーナー型の3つの型はどこが違うのか、一般の人材紹介とエグゼクティブサーチが別物である理由、そして経営課題を託す相手を見極める3つの判断軸をまとめました」（https://persona-corporate.co.jp/blog/）
+  - 「CFOが価値創造に踏み出せない理由｜悩みランキング上位5つと、スコアキーパーを抜け出す3つの打ち手」（https://persona-corporate.co.jp/blog/）
+  - 「「2025年問題」を通過した現在、多くの経営トップが直面しているのは、単なる人手不足ではなく、「公的価格（介護報酬）の枠組みのなかで、いかに資本効 […]」（https://persona-corporate.co.jp/blog/）
+  - 「無料で営業力を診断する（13問・約5分）」（https://salestrek.co.jp/blog/b2b-decision-making-stakeholders）
+  - 「また、主要顧客は、上位３社で９割を占めており、この構造は、過去20年間大きな変更はない」（https://www.chusho.meti.go.jp/keiei/torihiki/pamflet/kakaku_kosho_handbook.pdf）
+  - 「人材不足の7割は「人数」の課題」（https://ma.raxus.inc/media/jigyo-suishin/ceo-dounyu-1911-2026/）
+- 前例の会社（製造業特化）：
+  - 「プロ経営者・CXOの転職お役立ち記事｜ペルソナ株式会社」（https://persona-corporate.co.jp/blog/）
+  - 「社員は従業員ではなく出資者であり、任期の規定も決算公告の義務もない」（https://persona-corporate.co.jp/blog/）
+  - 「立場の作り方が株式会社とは別の条文で決まる仕組みと、就任前に確かめる5点を書いた」（https://persona-corporate.co.jp/blog/）
+  - 「代表理事の席は、求人に出てこない｜「選ばれ方」と「報われ方」が株式会社の社長と違う理由」（https://persona-corporate.co.jp/blog/）
+  - 「代表理事への転職は、株式会社の社長とは選ばれ方も報われ方も違う」（https://persona-corporate.co.jp/blog/）
+  - 「入社日と就任日はずれ、その間の身分は従業員・執行役員・業務委託のどれかで、退職金も解任リスクも変わります」（https://persona-corporate.co.jp/blog/）
+  - 「雇用型なら従業員のまま、委任型ならいったん退職して委任契約に変わる」（https://persona-corporate.co.jp/blog/）
+  - 「なぜ役員は従業員より広い制限が有効になりやすいのかを構造から整理し、動く前に確認すべき点をまとめた」（https://persona-corporate.co.jp/blog/）
+  - 「なぜ第3者承継は頓挫するのか？「創業家の期待」と「従業員の本音」に潜む構造的欠陥」（https://persona-corporate.co.jp/blog/）
+  - 「オーナーである創業家からは「非連続な成長と抜本的な改革」を要求さ […]」（https://persona-corporate.co.jp/blog/）
+  - 「プロ経営者の案件は、なぜ公開されないのか｜ペルソナ株式会社が扱う非公開の経営ポスト3つの特徴」（https://persona-corporate.co.jp/blog/）
+  - 「経営者が陥る「売上目標を掲げる失敗」の構造——なぜ間違えたのか、その本質を解く」（https://persona-corporate.co.jp/blog/）
+  - 「企業のトップとして日々孤独な意思決定を下す中、「今期の売上目標をいかに達成するか」は、最も重圧のかかる命題の一つでしょう」（https://persona-corporate.co.jp/blog/）
+  - 「創業期から事業が拡大し、従業員数も増え、ビジネスモデルは多角化していく」（https://persona-corporate.co.jp/blog/）
+  - 「経営トップやCXOとしての招聘を受けたものの、入社後に発覚する想定外のガバナンス不全、創業社長との埋めがたい方針の相違、あるいは業績不振の全責任を負わされる構造――」（https://persona-corporate.co.jp/blog/）
+- 検索結果の抜粋：
+  - 「意思決定者 とは？法人営業で押さえるべき5つの役割と関係者 ... — 意思決定者 とは？法人営業で押さえるべき5つの役割と関係者 ... salestrek.co.jp https://salestrek.co.jp > ブログ > 営業手法」（https://salestrek.co.jp/blog/b2b-decision-making-stakeholders）
+  - 「意思決定者 の5つのタイプと対策 | ビジネスファイターズ — 意思決定者 の5つのタイプと対策 | ビジネスファイターズ ビジネスファイターズ https://bizfighters.com > decision-maker」（https://bizfighters.com/decision-maker/）
+- 作る側の原価：記載なし（読んだ31頁・検索13回）
+
+## 製造業の高卒採用（求人倍率・費用・充足）（high school graduate hiring manufacturing job ratio cost）
+- 文脈：②③採用難・採用費
+- 社数（規模別）：
+  - 「2027年卒の求人を企業規模別に前年と比較すると、29人以下企業は15万292人から14万4368人へ3.9％減、30～99人企業は14万2700人から13万8996人へ2.6％減、100～299人企業も8万8137人から8万7525人へ0.7％減となった」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「29人以下 30～99人 100～299人 300～499人 500～999人 1000人以上」（https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf）
+  - 「中堅企業（300〜999名）」（https://yumesuta.com/kosotsusaiyo/industries/manufacturing）
+- 採用難（公的統計）：
+  - 「これに対して求職者数（就職を希望する生徒数）は12万7435人、求人倍率は3.60倍である」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「求人倍率3.60倍という数字だけを見れば、極端な売り手市場である」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「求人倍率は10年で1倍から3倍以上へ」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「2015年卒の7月末時点の状況は、求人数23万8462人に対して求職者数18万6462人、求人倍率は1.28倍だった」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「コロナ禍によって2021年卒では求人数が33万5752人まで減少し、求人倍率も2.08倍へ低下したものの、その後は再び上昇する」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「就職氷河期と言われる時期、例えば2003年卒の7月末求人倍率は0.50倍だった」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「図表2 高校卒の求人倍率（各年7月時点）」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「求職者数は12万7435人と前年の12万6474人からわずかに増え、求人倍率も3.69倍から3.60倍へ低下した」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「出所：高校卒/厚生労働省,「『高校・中学新卒者のハローワーク求人に係る求人・求職状況』取りまとめ（7月末現在）」大学卒/リクルートワークス研究所「ワークス大卒求人倍率調査」より筆者作成」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「しかし、高校卒採用市場は求人倍率3.6倍である」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「2026年現在、製造業の有効求人倍率は高止まりを続けており、特に現場の技術職や生産管理職では「1人の求職者を複数の企業が奪い合う」激戦状態です」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「物流業界の人手不足の原因と対策｜ドライバーと倉庫で違う不足の中身と2026年の法改正」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「高卒新卒の求人倍率は4.10倍（厚生労働省 令和7年3月末現在）」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「1. 全国の求人倍率推移」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「3. 学科別の求人倍率と就職率」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+- 採用にいくら払うか：
+  - 「2015年卒でも100人未満企業の割合は56.7％だったから、むしろこの10年間の高校卒求人増を量的に支えてきたのは中小企業であった」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「しかし、コロナ禍収束後の数年間で見えてきているのは、高校卒採用に大企業がじわじわと浸透し、そして1000人以上の大手企業が本格的に参入し始めている状況である」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「高校卒初任給は30万円近く（※5）、4歳上の大学卒同期と遜色ない活躍をしているため今後さらに採用数を増やす方針だそうだ」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「実際に、5年以上採用ゼロだった企業が開始3ヶ月で採用を実現した事例や、応募数10倍・採用単価1/2といった実績も生まれています」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「5年間の減少数」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「令和2年3月卒（182,634人）から令和7年3月卒（128,914人）までの5年間で、就職希望者は約5万4千人減少しました」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「令和7年3月卒の高校卒業者のうち就職希望者は約12万9千人（全体の13.8%）で、令和2年3月卒から5年間で約5万4千人減少しています」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「400万円以上」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「607万円 → 300万円」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「入社後の3年間を、最初の1週間から設計する」（https://seizo-web.com/blog/3008/）
+  - 「高卒平均：37.9% 大卒平均：33.8%」（https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf）
+  - 「○正規雇用労働者は3,700万人と55万人の増加（2025年平均」（https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf）
+  - 「（資料出所）1999年までは総務省「労働力調査（特別調査）」（ 2月調査）長期時系列表9、2004年以降は総務省「労働力調査（詳細集計）」（年平均）長期時系列表 10」（https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf）
+  - 「頼れるアシスタントが月額2.5万円で多種多様な業務をサポート」（https://www.alternativework.jp/management/highschool-graduate_recruitment/）
+  - 「2024年3月卒の高卒者の求人倍率は全国平均で3.98倍」（https://www.alternativework.jp/management/highschool-graduate_recruitment/）
+- 採用広報・採用サイトの単価：
+  - 「高校卒初任給は30万円近く（※5）、4歳上の大学卒同期と遜色ない活躍をしているため今後さらに採用数を増やす方針だそうだ」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「400万円以上」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「607万円 → 300万円」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「の7項目は「製造業の採用サイト制作」の記事にあります」（https://seizo-web.com/blog/3008/）
+  - 「工業高校には1校に2,000〜4,000通の求人票が届き、いまは「ハンディ進路指導室」というサービスで求人票をスキャンして、生徒が家で親とスマートフォンで見る学校が増えている、と採用の実務家が話していました（「製造業の採用サイト制作」の記事で紹介）」（https://seizo-web.com/blog/3008/）
+  - 「頼れるアシスタントが月額2.5万円で多種多様な業務をサポート」（https://www.alternativework.jp/management/highschool-graduate_recruitment/）
+  - 「20代の若手社員に密着した1〜3分程度の動画を作成し、採用サイトやSNSで発信します」（https://yumesuta.com/kosotsusaiyo/industries/manufacturing）
+  - 「若手や女性の採用・定着のための制度導入に対し、目標達成時に最大120万円を支給」（https://yumesuta.com/kosotsusaiyo/industries/manufacturing）
+  - 「非正規社員の正社員転換、賃金引上げ等に最大80万円/人」（https://yumesuta.com/kosotsusaiyo/industries/manufacturing）
+  - 「中小企業の設備投資・技術開発に最大1,250万円（一般型）」（https://yumesuta.com/kosotsusaiyo/industries/manufacturing）
+  - 「400万円以上」（https://yumesuta.com/kosotsusaiyo/industries/manufacturing）
+  - 「607万円 → 300万円」（https://yumesuta.com/kosotsusaiyo/industries/manufacturing）
+  - 「年60万円の資格手当が18歳を動かす 高卒求人倍率3.6倍、「稼いで学ぶ」という第3の進路｜宮野宏樹」（https://note.com/hirokimiyano/n/n9f3d3b11e90b）
+  - 「年60万円の資格手当が18歳を動かす 高卒求人倍率3.6倍、「稼いで学ぶ」という第3の進路」（https://note.com/hirokimiyano/n/n9f3d3b11e90b）
+  - 「西武・プリンスホテルズワールドワイドが導入した月最大5万円、年換算で60万円の資格手当は、その象徴です」（https://note.com/hirokimiyano/n/n9f3d3b11e90b）
+- 継続して払うか：
+  - 「ウェブサイトの更新情報を」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「また、管理部門でのリモートワーク導入や、現場でもシフト制を工夫したフレックス的な運用など、可能な限り柔軟な働き方を取り入れる姿勢が、採用競合に対する大きな差別化ポイントとなります」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「製造業の採用課題をSNSで解決するなら、建設・運送・製造業に特化した採用SNS運用支援を提供する株式会社アップデートにご相談ください」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「ショート動画やSNSを活用した採用支援を強みに、200を超えるアカウントの運用を支援」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「採用でショート動画は効果ある？現場職で成果を出す設計と運用を解説」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「TikTok運用」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「Instagram運用」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「YouTube運用」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「厚生労働省が公表する「高校・中学新卒者のハローワーク求人に係る求人・求職状況」によると、令和7年3月卒の求人倍率は4.10倍で過去最高を更新しました」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「高卒の求人倍率は4.10倍（厚生労働省 令和7年3月末現在）で過去最高を更新した」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「少子化が続く限り高卒の求職者数は減少するため、構造的に倍率の上昇が継続する見込みです」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「WEB広告運用」（https://seizo-web.com/blog/3008/）
+  - 「取材と原稿づくりから、公開後の更新まで担当します」（https://seizo-web.com/blog/3008/）
+  - 「※ 米国労働省が公開している職業情報データベース（ O*NET ）を参考に、（独）労働政策研究・研修機構（ JILPT ）で開発を行い、 2020 年３月から運用開始」（https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf）
+  - 「頼れるアシスタントが月額2.5万円で多種多様な業務をサポート」（https://www.alternativework.jp/management/highschool-graduate_recruitment/）
+- 作る側の原価：
+  - 「当社支援クライアントD社（建設関連）では、最初の3ヶ月は月30万円の外注費をかけていましたが、その間にスタッフのスキルアップを集中的に行い、4ヶ月目以降は完全内製化」（https://ceeev.co.jp/blog/manufacturing-sns-recruitment/）
+- どう買われるか：
+  - 「お問い合わせ」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「各種お問い合わせ」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「こちらからお問い合わせください」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「都道府県別、ハローワークの役割の変化―統計から考える公共職業紹介の再設計④」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「ハローワークで職探しをする女性はどう変わったか―統計から考える公共職業紹介の再設計③」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「ハローワークで職探しをする人の3割が60歳以上―統計から考える公共職業紹介の再設計②」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「お問い合わせ」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「現在はメガバンクなど金融機関とも提携し、大阪・東京・福岡を拠点に、全国の企業を支援している」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「STAR紹介」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「ゆめスタパートナー紹介」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「お問い合わせ」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「パートナー紹介」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「お問い合わせ」（https://seizo-web.com/blog/3008/）
+  - 「展示会ブースデザイン」（https://seizo-web.com/blog/3008/）
+  - 「工業高校には1校に2,000〜4,000通の求人票が届き、いまは「ハンディ進路指導室」というサービスで求人票をスキャンして、生徒が家で親とスマートフォンで見る学校が増えている、と採用の実務家が話していました（「製造業の採用サイト制作」の記事で紹介）」（https://seizo-web.com/blog/3008/）
+- 営業と採用のどちらに困っているか：
+  - 「物流業界の人手不足の原因と対策｜ドライバーと倉庫で違う不足の中身と2026年の法改正」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「が70.4％、「人材不足のため」が50.8％、「高卒採用が自社に合っているため」が29.3％という回答結果に（※6）」（https://www.alternativework.jp/management/highschool-graduate_recruitment/）
+  - 「製造業が39.9％と圧倒的1位」（https://www.alternativework.jp/management/highschool-graduate_recruitment/）
+  - 「2022年には昇格・登用の制度を見直し、希望者が上位職や新しい職種に挑戦できるよう枠を広げました」（https://note.com/hirokimiyano/n/n9f3d3b11e90b）
+  - 「学歴や年次を問わず実績を積めば上位職に上がれる等級制度を導入し、月最大3万円の資格手当も取り入れています」（https://note.com/hirokimiyano/n/n9f3d3b11e90b）
+  - 「求人票の改善項目では「給与・賞与」39.6%、「休日日数」30.4%、「勤務地」27.8%が上位です」（https://note.com/hirokimiyano/n/n9f3d3b11e90b）
+  - 「ジンジブ調査で「先生への電話連絡」が40.5%と上位に来るのは、そのためです」（https://note.com/hirokimiyano/n/n9f3d3b11e90b）
+  - 「次いで「人手不足の解消」（52.5%）、「将来の中核人材の確保」（50.2%）だった」（https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/）
+  - 「「学芸会のような議会」「1人1社の高校就活」慣習が人材確保阻む？」（https://www.nikkei.com/article/DGXZQOUC254AE0V20C26A9000000/）
+  - 「職人育成に10年単位の時間がかかる業界では、若い世代の確保が経営課題の筆頭です」（https://ceeev.co.jp/blog/manufacturing-sns-recruitment/）
+  - 「介護施設のSNS採用戦略｜人材不足を解消するInstagram・TikTok活用法【2026年版】」（https://ceeev.co.jp/blog/manufacturing-sns-recruitment/）
+  - 「課題： 応募ゼロが1年以上続き、若手社員が定着せず人手不足が慢性化」（https://hypex.jp/articles/how-to-manufacturing-industry-recruitment）
+- 前例の会社（製造業特化）：
+  - 「従業員100人未満の企業だけで全求人の61.7％を占めていた」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「ここまで見てきたような現状もあり、とある大手製造業の工場採用責任者からは「今年はまだ一人も高校生の応募がない」（https://www.works-i.com/column/labor-market/detail020.html）
+  - 「製造業の採用を成功させるために必要なことは？深刻な人材不足を打破するポイントを解説 | 株式会社アップデート」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「特に最近では、工場の自動化やスマートファクトリー化を推進できる「DX人材」や、AIツールを使いこなせる技術者へのニーズが急増しました」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「しかし、実際には多くの工場でクリーンルームの導入や空調完備、安全対策の徹底が進んでおり、他業界よりも快適な環境で働けるケースも少なくありません」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「製造業の採用課題をSNSで解決するなら、建設・運送・製造業に特化した採用SNS運用支援を提供する株式会社アップデートにご相談ください」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「大学卒業後、株式会社マイナビに入社し、支社立ち上げから課長職までを経験」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「株式会社アップデート」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「を設立し、代表取締役に就任」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「製造業が約4割を占める背景には、工場のライン作業や技術職では即戦力となる高卒人材への需要が根強いことがあります」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「株式会社ゆめスタ」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「© 株式会社ゆめスタ. All rights reserved.」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「Altora株式会社」（https://seizo-web.com/blog/3008/）
+  - 「運営：Altora株式会社」（https://seizo-web.com/blog/3008/）
+  - 「© 製造WEB / Altora株式会社」（https://seizo-web.com/blog/3008/）
+
+## 製造業の外国人材・特定技能の受け入れ費用と採用（specified skilled worker manufacturing cost hiring Japan）
+- 文脈：②③採用難・採用費
+- 社数（規模別）：
+  - 「事例企業数は 19 社（17 企業、２法人）であり、うち２社は事業所調査である」（https://www.jil.go.jp/institute/siryo/2023/documents/0270.pdf）
+  - 「外国人採用の実績は5,000名以上、特定技能外国人の採用支援における取引社数は200社を突破いたしました！外国人採用、特定技能に関するご相談はぜひスタッフ満足まで！」（https://www.global.staff-manzoku.co.jp/blog/ssw-recruitment）
+  - 「外国人採用の実績は5,000名以上、特定技能外国人の採用支援における取引社数は200社を突破いたしました！外国人採用、特定技能に関するご相談はぜひスタッフ満足まで！」（https://www.global.staff-manzoku.co.jp/blog/registration-support-organization-industrial-products）
+- 採用難（公的統計）：
+  - 「このシステムで日本国内外に住む外国人材と日本の企業をつなぎ、累計3000名以上のベトナム、インドネシア、タイ、ミャンマー、バングラデシュ、ネパール等の人材採用に携わり、顧客企業の人手不足解決に貢献している」（https://www.jinzaiplus.jp/posts/5）
+  - 「2019年4月時点で人口のおよそ30%を60代以上が占める日本の少子高齢化を起因とする慢性的な人手不足や産業界の活性化を図ることを目的に出入国管理法（入管法）が改正されました」（https://corp-japanjobschool.com/divership/tokuteiginou-manufacturing）
+  - 「１ 人手不足状況」（https://www.moj.go.jp/isa/content/001397709.pdf）
+  - 「日本の深刻な人手不足に対応するため、特定技能制度に新しく「物流倉庫（物流）」「リネンサプライ（繊維・衣服等ライフスタイル製品製造業）」「資源循環（産業廃棄物処理）」の3分野が追加されます」（https://tokuteiginou-online.com/column/recruit/）
+  - 「深刻な人手不足への対応を目的とした外国人労働者受け入れのために 2019 年４月に始ま」（https://www.jil.go.jp/institute/siryo/2023/documents/0270.pdf）
+  - 「深刻な人手不足の産業に対して外国人を受け入れるため、 2019 年４月より特定技能制度」（https://www.jil.go.jp/institute/siryo/2023/documents/0270.pdf）
+  - 「なお同時点での５年間の最大受け入れ見込み数の充足率（在留外国人数÷見込み数）は全」（https://www.jil.go.jp/institute/siryo/2023/documents/0270.pdf）
+  - 「人手不足の職場で即戦力 として活用される 特定技能１号外国人だが、日本語能力の向上や」（https://www.jil.go.jp/institute/siryo/2023/documents/0270.pdf）
+  - 「は、国内で人手不足とされている特定産業分野（16分野）で、即戦力となる外国人の就労を可能とする、2019年4月に新設された在留資格です」（https://www.global.staff-manzoku.co.jp/blog/ssw-recruitment）
+  - 「1. 人手不足を解消できる」（https://onodera-user-run.co.jp/useful/4530/）
+  - 「特定技能は、人手不足が深刻な分野で外国人材を受け入れる制度で、2019年4月に創設されました」（https://onodera-user-run.co.jp/useful/4530/）
+  - 「2019年4月に創設された、人材の確保が困難な16の産業分野等における人手不足に対応するため、一定の専門性・技能を有し即戦力となる外国人材を労働者として受け入れる在留資格のこと」（https://onodera-user-run.co.jp/useful/4530/）
+  - 「製造業（工業製品製造業分野）における特定技能制度とは、2019年4月に創設された在留資格で、製造ラインの深刻な人手不足を解消するために即戦力の外国人材を採用できる仕組みです」（https://icojapan.co.jp/manufacturing-specified-skilled-worker-2026/）
+  - 「今後5年間の人手不足予測と外国人採用の必要性は」（https://icojapan.co.jp/manufacturing-specified-skilled-worker-2026/）
+  - 「2030年までの製造業人手不足予測について、生産性向上・国内人材確保の取り組みを進めても、なお外国人材の受け入れなしには分野の存続・発展が困難な水準の需給ギャップが見込まれています」（https://icojapan.co.jp/manufacturing-specified-skilled-worker-2026/）
+- 採用にいくら払うか：
+  - 「求人広告を掲載する場合は媒体によって異なりますが、月額5万円から20万円程度が目安です」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「月額5万円〜20万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「5万円〜15万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「10万円〜15万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「月額3万円〜10万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「5万円〜10万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「10万円〜35万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「この手数料の支払いは想定年収の20%から35%が相場で、年収300万円の場合は60万円から105万円程度になります」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「60万円〜105万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「年収300万円の場合」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「8万円〜15万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「採用方法によって30万〜200万円以上と大きな幅」（https://www.jinzaiplus.jp/posts/5）
+  - 「海外から採用する場合は50万〜100万円程度、国内から採用する場合は30万〜60万円程度」（https://www.jinzaiplus.jp/posts/5）
+  - 「登録支援機関への支援委託費用(月額2万〜3万円)」（https://www.jinzaiplus.jp/posts/5）
+  - 「自社で義務的支援をすべて実施できる場合を除き、多くの企業が登録支援機関に委託するため、月額2万〜3万円程度の費用が雇用期間中ずっと発生します」（https://www.jinzaiplus.jp/posts/5）
+- 採用広報・採用サイトの単価：
+  - 「特定技能1号・2号の受け入れにかかる費用を採用前から受け入れ後まで時系列で整理し、具体的な相場とともに解説していきます」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「求人広告を掲載する場合は媒体によって異なりますが、月額5万円から20万円程度が目安です」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「月額5万円〜20万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「5万円〜15万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「10万円〜15万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「月額3万円〜10万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「5万円〜10万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「10万円〜35万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「この手数料の支払いは想定年収の20%から35%が相場で、年収300万円の場合は60万円から105万円程度になります」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「60万円〜105万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「年収300万円の場合」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「8万円〜15万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「採用方法によって30万〜200万円以上と大きな幅」（https://www.jinzaiplus.jp/posts/5）
+  - 「海外から採用する場合は50万〜100万円程度、国内から採用する場合は30万〜60万円程度」（https://www.jinzaiplus.jp/posts/5）
+  - 「登録支援機関への支援委託費用(月額2万〜3万円)」（https://www.jinzaiplus.jp/posts/5）
+- 継続して払うか：
+  - 「受け入れ後の継続的な費用」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「特定技能外国人の受け入れ費用は、採用前の準備段階から受け入れ後の継続的な支援まで、複数の段階にわたって発生します」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「これらの費用を時系列で整理すると、初期費用、採用時費用、継続費用の3つに大きく分類できます」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「受け入れ後は登録支援機関への委託費や住居費、社会保険料などが毎月継続的な負担となります」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「特定技能1号の場合、在留期間は通算5年が上限となっており、更新手続きも定期的に必要です」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「求人広告を掲載する場合は媒体によって異なりますが、月額5万円から20万円程度が目安です」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「月額5万円〜20万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「月額3万円〜10万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「特定技能外国人を受け入れた後は、法令で定められた義務的支援の実施に関する費用が継続的に発生します」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「場合、月額2万円から4万円が一般的な料金です」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「年間継続費用」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「在留資格の更新手続きは、特定技能1号の場合は通常1年ごとまたは6か月ごとに必要となり、その都度、更新申請費用として数万円程度が発生します」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「更新時には、雇用契約の継続や支援計画の実施状況などが審査されるため、制度の変更にも注意しながら、日頃から適切な記録管理が求められます」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「月額固定費用制の場合」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「月額10万円〜15万円」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+- どう買われるか：
+  - 「人材紹介の流れ」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「特定技能外国人紹介事業」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「お問い合わせ・相談窓口」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「人材紹介会社への手数料、登録支援機関への委託費用など、さまざまな費用項目が存在し、その全体像を把握することは難しいものです」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「人材紹介会社を利用する場合の費用」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「初期費用には求人広告費や書類作成費が含まれ、採用時には人材紹介会社への紹介料や在留資格（ビザ）申請費用が必要です」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「外国人材の採用が決定した段階では、人材紹介会社を利用している場合に紹介手数料（仲介手数料）が発生します」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「人材紹介手数料」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「特定技能外国人の採用費用を徹底解説｜受け入れコストを抑える方法も紹介」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「特定技能外国人の採用ルートは大きく分けて、人材紹介会社の利用、登録支援機関への委託、自社での直接採用の3つです」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「人材紹介会社を利用する場合は初期費用が高額になる傾向がありますが、採用の確実性が高まるメリットがあります」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「人材紹介会社を通じて特定技能外国人を採用する」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「場合、紹介料（紹介手数料）が最も大きな費用項目となります」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「紹介手数料（年収300万円の場合）」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「複数名紹介可能」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+- 営業と採用のどちらに困っているか：
+  - 「このシステムで日本国内外に住む外国人材と日本の企業をつなぎ、累計3000名以上のベトナム、インドネシア、タイ、ミャンマー、バングラデシュ、ネパール等の人材採用に携わり、顧客企業の人手不足解決に貢献している」（https://www.jinzaiplus.jp/posts/5）
+  - 「2019年4月時点で人口のおよそ30%を60代以上が占める日本の少子高齢化を起因とする慢性的な人手不足や産業界の活性化を図ることを目的に出入国管理法（入管法）が改正されました」（https://corp-japanjobschool.com/divership/tokuteiginou-manufacturing）
+  - 「１ 人手不足状況」（https://www.moj.go.jp/isa/content/001397709.pdf）
+  - 「２ 特定産業分野における人材不足の状況に関する事項」（https://www.moj.go.jp/isa/content/001397709.pdf）
+  - 「５年間の受入れ見込数を記載し、人材不足の見込数と比較して 過大でないことを示すもの（政府基本方針２（３））」（https://www.moj.go.jp/isa/content/001397709.pdf）
+  - 「日本の深刻な人手不足に対応するため、特定技能制度に新しく「物流倉庫（物流）」「リネンサプライ（繊維・衣服等ライフスタイル製品製造業）」「資源循環（産業廃棄物処理）」の3分野が追加されます」（https://tokuteiginou-online.com/column/recruit/）
+  - 「深刻な人手不足への対応を目的とした外国人労働者受け入れのために 2019 年４月に始ま」（https://www.jil.go.jp/institute/siryo/2023/documents/0270.pdf）
+  - 「深刻な人手不足の産業に対して外国人を受け入れるため、 2019 年４月より特定技能制度」（https://www.jil.go.jp/institute/siryo/2023/documents/0270.pdf）
+  - 「人手不足の職場で即戦力 として活用される 特定技能１号外国人だが、日本語能力の向上や」（https://www.jil.go.jp/institute/siryo/2023/documents/0270.pdf）
+  - 「水準に届かなくても、事業場内の最低賃金（地域別最低賃金＋50円以上）を満たしていればその確認に進み、どちらも満たせない場合は、労働生産性の向上・設備投資・国内の人材確保・特定技能外国人の定着と技能の向上のうち2つ以上の取組を報告します」（https://sukimagroup.jp/seizou-koujou-ukeire-guide-kigyou/）
+  - 「特定技能「工業製品製造業」は、深刻化する人材不足に対応するため2019年に導入された特定技能制度の一分野で、一定の技能を有する外国人が製造現場で働くことを可能にする仕組みです」（https://gaikokusaiyo.com/ssw-industrial-product-manufacturing-guide/）
+  - 「は、国内で人手不足とされている特定産業分野（16分野）で、即戦力となる外国人の就労を可能とする、2019年4月に新設された在留資格です」（https://www.global.staff-manzoku.co.jp/blog/ssw-recruitment）
+  - 「1. 人手不足を解消できる」（https://onodera-user-run.co.jp/useful/4530/）
+  - 「特定技能は、人手不足が深刻な分野で外国人材を受け入れる制度で、2019年4月に創設されました」（https://onodera-user-run.co.jp/useful/4530/）
+  - 「たとえば「人材確保等支援助成金（外国人労働者就労環境整備コース）」では、雇用労務責任者の選任や就業規則の多言語化などの取り組みに対して、1制度の導入あたり定額20万円（事業主単位で上限80万円）が助成されます」（https://onodera-user-run.co.jp/useful/4530/）
+- 前例の会社（製造業特化）：
+  - 「特定技能外国人も日本人従業員と同様に、健康保険、厚生年金保険、雇用保険、労災保険の適用対象となります」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「三木 雅史（Masafumi Miki） 株式会社E-MAN会長1973年兵庫県たつの市生まれ / 慶応義塾大学法学部法学科卒・25歳で起業 / デジタルガレージ / 電通の孫請でシステム開発・web通販事業を手掛ける・2006年にオンライン英会話を日本で初めて事業化・2019年外国人の日本語教育を簡単、安価にするため 日本語eラーニングシステムを開発、1万人超の外国人が日々学習中」（https://jinzaicafe.com/column/costs-for-accepting-specified-skilled-foreign-workers/）
+  - 「2015年、スタートアップを共同創業」（https://www.jinzaiplus.jp/posts/5）
+  - 「2021年に株式会社ジンザイベースを創業」（https://www.jinzaiplus.jp/posts/5）
+  - 「１．愛知製鋼株式会社 P .6」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「２．株式会社アイデン P .7」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「３．株式会社朝倉鋳物 P .8」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「４．株式会社朝日工業 P .9」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「５．株式会社イワヰ P .10」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「６．株式会社いわき精機 P .11」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「７．えびの電子工業株式会社 P .12」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「８. 金田コーポレーション株式会社 P .13」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「９. 協和機工株式会社 P .14」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「10. 協和プレス工業株式会社 P .15」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+  - 「11. 空調技研工業株式会社 P .16」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
+- 作る側の原価：記載なし（読んだ36頁・検索13回）

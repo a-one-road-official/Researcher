@@ -1,0 +1,1251 @@
+{
+ "name": "製造業の雇用人員判断DI（日銀短観・規模別）",
+ "en": "Tankan employment conditions DI manufacturing by size",
+ "aliases": [
+  "日銀短観 雇用人員判断DI 製造業 中堅企業",
+  "雇用人員判断 不足超 製造業",
+  "短観 中小企業 製造業 人手"
+ ],
+ "context": "⓪仮説",
+ "kind": "market",
+ "researched_at": "2026-11-04T14:57:08.938737+00:00",
+ "evidence": {
+  "採用難（公的統計）": [
+   {
+    "quote": "雇用人員判断DI｜短観9月調査に見る製造業の人手不足",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "本日のブログは、日本銀行の短観（全国企業短期経済観測調査）2026年9月調査に基づき、製造業の人手不足の状況についてお伝えします",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "その前提として必要なのは、自社の業種や規模における人手不足の程度を把握することであり、9月調査はそのための判断材料になります",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "では、9月調査で製造業の人手不足はどのように変化したのでしょうか",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の雇用人員判断DIは全規模合計で-29となり、6月調査の-27から人手不足感が強まりました",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、製造業の各社は、業況については慎重な見通しを示しながらも、人手不足感は12月まで緩和しないとみています",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "○ 平成27年（2015年）６月の有効求人倍率は1.19倍、完全失業率は3.4％となっている",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表22 日銀短観（雇用人員判断D.I. 産業別）～過去、有効求人倍率が1倍を超えた時期との比較～",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "（ＢＯＸ２）人手不足感の広がり",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同図表の赤は人手不足＜－2 標準偏差＞、白は人",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "25 労働経済動向調査の欠員率は、 欠員数／常用労働者数と",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "欠員率は、後方２四半期移動平均",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足と業況の関係、変わったか？～2025年12月の日銀短観｜飯塚 信夫",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足と業況の関係、変わったか？～2025年12月の日銀短観",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "「雇用状況を示す指数は全規模全産業でマイナス38と34年ぶりの「人手不足超」の水準となった」とのこと",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "確かに1984年３月調査以降の推移をグラフに描くと、全規模全産業の雇用人員判断DIはバブル期の1990年12月調査、1991年３月調査のマイナス46に近づいています（マイナスは人手不足超を表し、プラスは人手過剰を表します）",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足34年ぶり水準 日銀短観 設備投資は上方修正 - 日本経済新聞",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "日銀が15日公表した12月の全国企業短期経済観測調査（短観）では、企業の人手不足が一段と深刻になっていることが浮き彫りにな",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "日銀短観：大企業製造業景況感、4四半期連続で改善！人手不足、バブル期並みの深刻さが継続！ – 豊トラスティ証券マーケット情報",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "日銀短観：大企業製造業景況感、4四半期連続で改善！人手不足、バブル期並みの深刻さが継続！",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "バブル期の1991年8月以来34年ぶりの「人手不足超」水準が続いております",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "お問い合わせ",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "契約形態の選定と単価の決定については、それぞれ別のブログでお伝えしているため、必要な範囲に絞ってご紹介します",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "この考え方は、弊社のコーポレートサイトの事業紹介ページに図解しています",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "製造請負のお問い合わせ",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介機関）（11.2％）」となっており、非正社員の採用では「ハローワーク（30.5％）」「求人媒体（紙：就職情報誌・新聞",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "折り込みチラシ等）（13.8％）」「人材サービス会社（民間の職業紹介機関）（6.9％）」となっている",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表38 地元（Ｕターン含む）就職を希望しない理由",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 地元（Uターン含む）就職を希望しないと回答した学生に理由を聞いてみると、「志望する企業がないから」が",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "希望しない学生が将来的に地元（Uターン含む）就職を考えるかという問には半数（49.6％）が「分からない」",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（資料出所）2015年卒マイナビ大学生Ｕターン・地元就職に関する調査 ※有効回答数 4,964名",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用についてのお問い合わせ",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用についてのお問い合わせ",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "事例のご紹介",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業を対象とした同様の調査は他にも複数の役所や金融機関が実施しているのですが、日銀の短観は回答率が高いなどデータの質が良いことで知られています",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "「物価の安定」と「金融システムの安定」を目的に設立され、銀行券（お札）の発行や金融機関同士の決済のほか、金利操作などの金融政策を担っている",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "社内の平均年齢−8歳！マイナビ転職を使用し、若手社員採用に舵をきった新社長のチャレンジ",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "・事例のご紹介",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "日本銀行が12月に公表した「全国企業短期経済観測調査（日銀短観）」につき、データからわかる動向・特徴について紹介します",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "今回紹介したデータだけでなく、過去の調査結果も含め、日銀短観データのすべてを収録しております",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "(今回紹介したデータの一部は下記より",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事でご紹介した分析は、当社が提供する経済統計データベース『",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "以下では、Accelがもたらす主なメリットをご紹介します",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせフォーム",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "資料請求・お問い合わせ",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "電話でのお問い合わせ",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "（お問い合わせ）調査部 E-mail：chosa-report@murc.jp 担当（藤田） TEL：03-6733-1566",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイターへのお問い合わせ",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://www.jri.co.jp/page.jsp?id=112800",
+    "pass": 3
+   },
+   {
+    "quote": "社長メッセージ",
+    "url": "https://www.jri.co.jp/page.jsp?id=112800",
+    "pass": 3
+   },
+   {
+    "quote": "証券会社および金融機関向けITソリューション",
+    "url": "https://www.jri.co.jp/page.jsp?id=112800",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイターへのお問い合わせ",
+    "url": "https://note.com/shiny_moraea618/n/n3786cff5bc6f",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせはこちら",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "金融コラムのご紹介",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "雇用人員判断DI｜短観9月調査に見る製造業の人手不足",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "本日のブログは、日本銀行の短観（全国企業短期経済観測調査）2026年9月調査に基づき、製造業の人手不足の状況についてお伝えします",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "その前提として必要なのは、自社の業種や規模における人手不足の程度を把握することであり、9月調査はそのための判断材料になります",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "では、9月調査で製造業の人手不足はどのように変化したのでしょうか",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の雇用人員判断DIは全規模合計で-29となり、6月調査の-27から人手不足感が強まりました",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月調査の製造業の雇用人員判断DIは、全規模合計で-29、中小企業で-32です",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "図1 製造業の雇用人員判断DI（規模別）",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用人員判断DI（2026年9月調査、％ポイント）",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "業況判断DIが大きく落ち込んでマイナスに転じたのに対し、雇用人員判断DIは2020年12月調査でもマイナス圏にあるのです",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "（ＢＯＸ２）人手不足感の広がり",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同図表の赤は人手不足＜－2 標準偏差＞、白は人",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足と業況の関係、変わったか？～2025年12月の日銀短観｜飯塚 信夫",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足と業況の関係、変わったか？～2025年12月の日銀短観",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "「雇用状況を示す指数は全規模全産業でマイナス38と34年ぶりの「人手不足超」の水準となった」とのこと",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "確かに1984年３月調査以降の推移をグラフに描くと、全規模全産業の雇用人員判断DIはバブル期の1990年12月調査、1991年３月調査のマイナス46に近づいています（マイナスは人手不足超を表し、プラスは人手過剰を表します）",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足34年ぶり水準 日銀短観 設備投資は上方修正 - 日本経済新聞",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "日銀が15日公表した12月の全国企業短期経済観測調査（短観）では、企業の人手不足が一段と深刻になっていることが浮き彫りにな",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "業況判断DIがマイナス、雇用人員判断DIがプラス（つまり雇用過剰）という組合せでは違いがないのですが、2000年代以降は業況判断DIがプラスになった時の雇用人員判断DIのマイナスの拡大度合いが高まっています",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "業況判断DIがプラス、雇用人員判断DIがマイナスの領域でも、微妙ではありますが、1990年代以前と2000年代以降では違いが今一つはっきりしません",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "業況判断DIがプラス、雇用人員判断DIがマイナスの領域では、1990年代までと2000年代以降の違いがはっきりしています",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   },
+   {
+    "quote": "日銀短観：大企業製造業景況感、4四半期連続で改善！人手不足、バブル期並みの深刻さが継続！ – 豊トラスティ証券マーケット情報",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "日銀短観：大企業製造業景況感、4四半期連続で改善！人手不足、バブル期並みの深刻さが継続！",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "バブル期の1991年8月以来34年ぶりの「人手不足超」水準が続いております",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "株式会社永光",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社永光 代表取締役 高橋 龍一",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "婚礼の現場からフリーのウエディングプランナーとして独立後、2015年に株式会社永光の代表取締役に就任し、2018年にウエディングプランナーの業務委託サービス「プラスワン・プランナー」を立ち上げる",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 株式会社永光",
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "pass": 3
+   },
+   {
+    "quote": "⑤地域の特性を生かした創業の促進・事業活動の活性",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4）正規雇用労働者：勤め先での呼称が「正規の職員・従業員」である者",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○○ 役員を除く雇用者に占める非正規の職員・従業員の割合は、1991年（平成３年）には約２割であったが、2003年（平成15年）には３割を超え、2014年（平成26年）には37.4％となっている",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２）不本意非正規：現職の雇用形態（非正規雇用）についた主な理由が「正規の職員・従業員の仕事がないから」と回答した者",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料出所：「従業員の労働時間と休暇に関する調査（労働者調査）」（2013年）",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料出所：「従業員の労働時間と休暇に関する調査（企業調査）」",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ パワハラが職場や企業に与える影響として考えられるものを企業に尋ねたところ、「職場の雰囲気が悪くなる」「従業員の心の",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "健康を害する」「従業員が十分に能力を発揮できなくなる」「職場の生産性が低下する」等を回答する企業が多い",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1.承継形態が「創業者の再就任」、「分社化の一環」、「出向」並びに「不明」の企業は除いて集計している",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.「内部昇格」とは、経営者の親族以外の社内の役員や従業員が経営者に昇格することをいう",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍以前は深刻な人手不足が生じていた飲食業では、休業や時短営業を迫られた結果、逆に従業員を減らす動きが広がっています",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業が従業員について感じている過不足感も、この指標で把握できます",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "「物価の安定」と「金融システムの安定」を目的に設立され、銀行券（お札）の発行や金融機関同士の決済のほか、金利操作などの金融政策を担っている",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "【雇用人員判断DI】：日銀短観の項目のうち、企業の従業員に関する過不足感を示す",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "2014年退社し株式会社報道イノベーション研究所を設立",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国約1万社の企業を対象に、年4回（3月、6月、9月、12月）四半期ごとに実施され、企業の業況や経済環境の現状・先行き（今後3か月）についての判断、売上高、収益、設備投資額などの事業計画の実績と予測値を調査します",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "©️2025 株式会社アイ・エヌ情報センター",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "作成時点で、株式会社伊",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業の売上・収益計画は上方修正され、設備投資の下支え要因",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年度の売上・収益計画（全規模合計）は、売上高が製造業で前年度比＋5.9％、非製造業で＋3.3％、",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）厚生労働省、日本銀行、株式会社ナウキャスト",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本総合研究所",
+    "url": "https://www.jri.co.jp/page.jsp?id=112800",
+    "pass": 3
+   },
+   {
+    "quote": "人事のデータ活用：日銀短観を見ると｜株式会社Hojo HR | Hiroki Uchida",
+    "url": "https://note.com/shiny_moraea618/n/n3786cff5bc6f",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Hojo HR | Hiroki Uchida",
+    "url": "https://note.com/shiny_moraea618/n/n3786cff5bc6f",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Hojo HR代表取締役/内田普紀",
+    "url": "https://note.com/shiny_moraea618/n/n3786cff5bc6f",
+    "pass": 3
+   },
+   {
+    "quote": "※豊トラスティ証券株式会社が提供する投資情報は、あくまで情報提供を目的としたものです",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "豊トラスティ証券株式会社：",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "（資料出所）平成10年までは総務省統計局「労働力調査（特別調査）」（2月調査）、平成15年以降は総務省統計局「労働力調査（詳細集計）」（年平均）",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（資料出所）総務省「労働力調査（詳細集計）」（平成26年平均）",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表９ 「不本意非正規」の状況（年齢階級別）平成26年平均",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表14 年間総実労働時間の推移",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 一般労働者の年間総実労働時間は、2000時間を超える水準で推移している",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 年平均労働時間は、2013年の各国の就業者一人当たりの年間",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表16 年平均労働時間と長時間労働者の各国比較",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１）集計対象は、①または②に該当し、かつ③に該当するこの１１年間に子どもが生まれた同居夫婦である",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平均はマイナス2.4で、3カ月先の予測は「不足」側に2～3程度、外れる傾向があったことが分かります",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "一定期間内（一般には1年間）に国内で新たに生み出されたモノやサービスの付加価値の合計",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "【企業規模】：日銀短観では、資本金を基準に大企業＝資本金10億円以上、中堅企業＝同1億円以上10億円未満、中小企業＝同2000万円以上1億円未満に区分している",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "社内の平均年齢−8歳！マイナビ転職を使用し、若手社員採用に舵をきった新社長のチャレンジ",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年10月最新】2026年7-9月期の訪日外国人旅行消費額は2兆2,076億円となり、13期連続で前年同期比でプラス成長（5年間推移データ）",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年10月最新】訪日外国人客数 9月は310万4千人で前年同月比5.0%減、中国からの訪日外国人客は-44.5％と減少続く（5年間推移データ）",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "手過剰＜＋2 標準偏差＞、黄色は過去平均的な水",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "トの結果では、過去25 年間の変化として、 「賃上",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1. 短観の雇用人員判断ＤＩを、業種別・規模別に全期間の平均と標準偏差で基準化",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大企業は資本金10億円以上、中小企業は同2,000万円以上1億円未満",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）労働需給関連指標は、2013年以降の平均と標準偏差で基準化（正社員求人数指数",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、2017年以降の平均と標準偏差で基準化）",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "欠員率は、後方２四半期移動平均",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の変化を見るために、1990～91年平均（以下、バブル期）の業況判断DI、雇用人員判断DIと2024～25年平均（以下、最近）のそれを比較してみました",
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "１人当たり ５０万円/２０万円 を税額控除",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１人当たり ３０万円 の税額控除を追加",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "★法人全体の雇用者増加率が１０％以上 １人当たり ５０万円",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "★法人全体の雇用者増加率が１０％未満 １人当たり ２０万円",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "初年度１人最大８０万円",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３年間１人最大１４０万円",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "措置内容 雇用増加人数１人当たり40万円の税額控除",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【企業規模】：日銀短観では、資本金を基準に大企業＝資本金10億円以上、中堅企業＝同1億円以上10億円未満、中小企業＝同2000万円以上1億円未満に区分している",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、新たに公表された 2026 年度の想定為替レートは 150.10 円／ドルと、最近の為替相場の実勢よりも円",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大企業は資本金10億円以上、中小企業は同2,000万円以上1億円未満",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "○ 夫の家事・育児時間が長いほど、出産後の妻の就業継続割合が高い傾向にある",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表20 子どもがいる夫婦の夫の平日の家事・育児時間別にみた妻の就業継続の有無",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同一就業継続",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１畳当たり家賃・間代（月額・専用住宅総数）",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（※②は最大３年間継続",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【1on1成功術】今日から使えるテンプレート＆運用ガイド！無料ダウンロードはこちら！",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格の見通し：5年後＋5.2％とインフレマインドが継続する見通し",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "常に最新のデータを手元に：更新作業から解放",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "利用条件が明確で安心なデータ運用",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "11期連続での＋10％ポイント超えとなり、底堅さが継続する",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "企業のインフレマインドが継続",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "作成した分析表（Excelシート）は、更新ボタンひと押しで最新データに更新可能",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "コンプライアンス面でも安心なデータ運用をサポートします",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "＜2025/12/25 更新＞",
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "pass": 3
+   },
+   {
+    "quote": "老朽設備の維持・更新投資に加え、 E コマースの",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、中東情勢の泥沼化や日中関係の悪化継続によるグローバルサプライチェーンの混乱、人手不足の深刻",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日銀短観：大企業製造業景況感、4四半期連続で改善！人手不足、バブル期並みの深刻さが継続！ – 豊トラスティ証券マーケット情報",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "日銀短観：大企業製造業景況感、4四半期連続で改善！人手不足、バブル期並みの深刻さが継続！",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "はじめての資産運用",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "事業継続計画（BCP）基本方針",
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "pass": 3
+   }
+  ],
+  "社数（規模別）": [
+   {
+    "quote": "【企業規模】：日銀短観では、資本金を基準に大企業＝資本金10億円以上、中堅企業＝同1億円以上10億円未満、中小企業＝同2000万円以上1億円未満に区分している",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "pass": 3
+   },
+   {
+    "quote": "300～999人",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "100～299人",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "有効求人倍率": [
+   {
+    "value": "1.19",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "quote": "○ 平成27年（2015年）６月の有効求人倍率は1.19倍、完全失業率は3.4％となっている"
+   }
+  ],
+  "万円": [
+   {
+    "value": "５０",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "quote": "１人当たり ５０万円/２０万円 を税額控除"
+   },
+   {
+    "value": "２０",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "quote": "１人当たり ５０万円/２０万円 を税額控除"
+   },
+   {
+    "value": "３０",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "quote": "１人当たり ３０万円 の税額控除を追加"
+   },
+   {
+    "value": "８０",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "quote": "初年度１人最大８０万円"
+   },
+   {
+    "value": "１４０",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "quote": "３年間１人最大１４０万円"
+   },
+   {
+    "value": "40",
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "quote": "措置内容 雇用増加人数１人当たり40万円の税額控除"
+   },
+   {
+    "value": "2000",
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "quote": "【企業規模】：日銀短観では、資本金を基準に大企業＝資本金10億円以上、中堅企業＝同1億円以上10億円未満、中小企業＝同2000万円以上1億円未満に区分している"
+   },
+   {
+    "value": "2,000",
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "quote": "大企業は資本金10億円以上、中小企業は同2,000万円以上1億円未満"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/img/chr18_01-01-03z.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/files/topics/54558_ext_18_0.pdf?site=nli",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/market/marketcomment/20251216_Tankan2512.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smd-am.co.jp/market/macroview/2026/mvreport20260807/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/long_syu/tkyoko.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/backdata/01-02-17.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/43-1d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jri.co.jp/page.jsp?id=112800",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shiny_moraea618/n/n3786cff5bc6f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=86826?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2609.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2606.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smtam.jp/report_column/pdf/cat_03/HP20260701k.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業の雇用人員判断DI（日銀短観・規模別）",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "https://www5.cao.go.jp/j-j/cr/cr18/img/chr18_01-01-03z.html",
+    "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://note.com/todobuono/n/nd388cfd3ff99",
+    "https://www.keizai-ondokei.net/tankan/employment/"
+   ]
+  },
+  {
+   "query": "製造業の雇用人員判断DI（日銀短観・規模別） 調査 PDF",
+   "results": [
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf",
+    "https://www.nli-research.co.jp/files/topics/54558_ext_18_0.pdf?site=nli",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "https://www.nomura-am.co.jp/market/marketcomment/20251216_Tankan2512.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm"
+   ]
+  },
+  {
+   "query": "製造業の雇用人員判断DI（日銀短観・規模別） 厚生労働省",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "https://www.boj.or.jp/mopo/outlook/box/2410box2a.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://www5.cao.go.jp/j-j/cr/cr18/img/chr18_01-01-03z.html",
+    "https://www.smd-am.co.jp/market/macroview/2026/mvreport20260807/",
+    "https://www.boj.or.jp/statistics/tk/long_syu/tkyoko.htm",
+    "https://note.com/todobuono/n/nd388cfd3ff99",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/backdata/01-02-17.html"
+   ]
+  },
+  {
+   "query": "製造業の雇用人員判断DI（日銀短観・規模別） 規模別 万円",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "https://www.jri.co.jp/page.jsp?id=112800",
+    "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://note.com/shiny_moraea618/n/n3786cff5bc6f",
+    "https://www.indb.co.jp/insight/economydata_2512_tankan_2/"
+   ]
+  },
+  {
+   "query": "製造業の雇用人員判断DI（日銀短観・規模別） 製造業 事例",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "https://www.smd-am.co.jp/market/macroview/2026/mvreport20260807/",
+    "https://www5.cao.go.jp/j-j/cr/cr18/img/chr18_01-01-03z.html",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://note.com/todobuono/n/nd388cfd3ff99",
+    "https://www.nli-research.co.jp/report/detail/id=86826?site=nli"
+   ]
+  },
+  {
+   "query": "製造業の雇用人員判断DI（日銀短観・規模別） 2025 OR 2026",
+   "results": [
+    "https://www.boj.or.jp/statistics/tk/yoshi/tk2609.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://www.boj.or.jp/statistics/tk/yoshi/tk2606.htm",
+    "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%814%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "https://www.smtam.jp/report_column/pdf/cat_03/HP20260701k.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 製造業の雇用人員判断DI（日銀短観・規模別）",
+   "results": [
+    "https://note.com/todobuono/n/nd388cfd3ff99",
+    "https://note.com/shiny_moraea618/n/n3786cff5bc6f",
+    "https://note.com/iqoys/n/n432921adb003",
+    "https://note.com/sei_tamai/n/nc3b98b6b8e24",
+    "https://note.com/y44901726/n/n29483099cda3",
+    "https://note.com/gov_stock_lab/n/n099825b7311c",
+    "https://note.com/anms/n/n97526f671540",
+    "https://note.com/ogawa_tech/n/n3a5a08115f1a",
+    "https://note.com/andyfp_2025/n/n2c818a96e7c0",
+    "https://note.com/chic_deer1160/n/n94690e807498"
+   ]
+  },
+  {
+   "query": "site:x.com 製造業の雇用人員判断DI（日銀短観・規模別）",
+   "results": [
+    "https://x.com/marikomabuchi/status/1774735404408922516",
+    "https://x.com/hashtag/%E7%9F%AD%E8%A6%B3?f=live",
+    "https://x.com/ReSkilling_com",
+    "https://x.com/irshukatsu",
+    "https://x.com/Y_Kaneko/status/1178821421062950912",
+    "https://x.com/myri_pr/status/2105571454482002271",
+    "https://x.com/marketdata_jp/status/2101468886172381604",
+    "https://x.com/NFCMarketLive/status/2105449064292811209",
+    "https://x.com/murc_official/status/2069615300660904145",
+    "https://x.com/ea_market_trade/status/2072528127147020308"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 製造業の雇用人員判断DI（日銀短観・規模別）",
+   "results": [
+    "https://jp.linkedin.com/in/koji-furukawa-b79a98289",
+    "https://jp.linkedin.com/in/%E4%BA%AE%E5%BD%A6-%E8%BE%B0%E5%B7%B2-14a8b0375",
+    "https://jp.linkedin.com/in/%E5%AE%97%E5%88%A9-%E4%BB%B2%E5%B1%B1-28b44b286",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_日銀短観の雇用人員判断diを見ていて改めて人手不足の根深さを感じた雇用人員判断-activity-7515560652921270272-rDTf",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_10月1日に発表された日銀短観で大企業製造業の景況感を示す業況判断指数diは-activity-7520080702424608768-ARnU",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_2026年9月日銀短観予想-大和総研-activity-7506119999493689345-569l",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_hp20261001kkpdf-activity-7516632688276103168-audc",
+    "https://jp.linkedin.com/posts/tkoizumi_3月の日銀短観大企業製造業でプラス17-4四半期連続改善-activity-7445119060209512448-TaAL",
+    "https://www.linkedin.com/posts/shuntarotsukamoto1104_日銀短観-大企業の景気判断-製造業非製造業とも7期ぶり悪化-nhkニュース-activity-6915457907530641408-slUi",
+    "https://jp.linkedin.com/posts/haruokubo_日銀が10月1日に発表した短観9月調査で人手不足の度合いを示す雇用人員判断di-activity-7513728546813513728-Izz2"
+   ]
+  },
+  {
+   "query": "site:facebook.com 製造業の雇用人員判断DI（日銀短観・規模別）",
+   "results": [
+    "https://www.facebook.com/murc.jp/posts/日銀短観結果2025年9月調査①大企業の業況判断-di製造業は改善非製造業は横ばい②中小企業の業況判断-di製造業は横ばい非製造業は悪化③設備投資計画2025-/1276263010970341/",
+    "https://www.facebook.com/murc.jp/posts/日銀短観結果2025年12月調査①大企業の業況判断-di製造業は小幅に改善非製造業は横ばい②中小企業の業況判断-di製造業は改善非製造業は小幅改善③設備投資計画/1336112964985345/",
+    "https://www.facebook.com/murc.jp/photos/日銀短観2025年9月調査予測大企業製造業の業況判断-di最近は前回調査から-2-ポイント改善の-15-と予測日米関税交渉の合意を受けて過度な警戒感が後退し自動/1258354932761149/",
+    "https://www.facebook.com/murc.jp/photos/日銀短観結果2025年12月調査①大企業の業況判断-di製造業は小幅に改善非製造業は横ばい②中小企業の業況判断-di製造業は改善非製造業は小幅改善③設備投資計画/1336112918318683/",
+    "https://www.facebook.com/murc.jp/photos/経済調査レポート日銀短観2025年3月調査予測httpstinyurlcomynaayumm4月1日公表の日銀短観2025年3月調査における大企業製造業の業況判/1119254893337821/",
+    "https://www.facebook.com/nliresearch/posts/803694914885254/",
+    "https://www.facebook.com/nliresearch/posts/846947413893337/"
+   ]
+  },
+  {
+   "query": "製造業の雇用人員判断DI（日銀短観・規模別） note 社長",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://note.com/akiyoshitakumori/n/n8eb3c1c1784f",
+    "https://www.nikkei.com/article/DGKKZO87733720R00C25A4EAF000/",
+    "https://www.smd-am.co.jp/market/macroview/2026/mvreport20260807/",
+    "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf",
+    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf"
+   ]
+  },
+  {
+   "query": "製造業の雇用人員判断DI（日銀短観・規模別） X 投稿",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/tk/extk.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://www5.cao.go.jp/j-j/cr/cr18/img/chr18_01-01-03z.html",
+    "https://www.smd-am.co.jp/market/macroview/2026/mvreport20260807/",
+    "https://www.nli-research.co.jp/report/detail/id=83278?site=nli",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://note.com/todobuono/n/nd388cfd3ff99",
+    "https://www.mhlw.go.jp/content/11600000/sannkoushiryou.pdf"
+   ]
+  },
+  {
+   "query": "Tankan employment conditions DI manufacturing by size site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/investment-week_%F0%9D%90%88%F0%9D%90%A7%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%A4-%F0%9D%90%88%F0%9D%90%90-japan-activity-7513625705968992256-vUwU",
+    "https://www.linkedin.com/posts/shaunrein_spoke-recently-at-primaveras-annual-conference-activity-7520822876602789888-ypAe",
+    "https://www.linkedin.com/pulse/ceic-insights-indonesias-msci-warnings-japans-labor-shortage-75bkf",
+    "https://uk.linkedin.com/company/ceic-data",
+    "https://jp.linkedin.com/in/ken-chikada-1574265b",
+    "https://nl.linkedin.com/in/seika-fujii-827234215",
+    "https://www.linkedin.com/in/tcvu",
+    "https://www.linkedin.com/company/simulate",
+    "https://nl.linkedin.com/in/qiuyue-wang-26b97296",
+    "https://cn.linkedin.com/in/linda-yan-638a0617"
+   ]
+  }
+ ],
+ "missing": {
+  "作る側の原価": "記載なし（読んだ26頁・検索13回）"
+ }
+}

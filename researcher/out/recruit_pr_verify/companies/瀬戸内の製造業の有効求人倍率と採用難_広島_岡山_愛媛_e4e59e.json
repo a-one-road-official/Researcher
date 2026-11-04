@@ -1,0 +1,808 @@
+{
+ "name": "瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛）",
+ "en": "job openings ratio manufacturing Hiroshima Okayama Ehime",
+ "aliases": [
+  "広島労働局 有効求人倍率 生産工程",
+  "岡山労働局 有効求人倍率 製造",
+  "愛媛労働局 有効求人倍率 造船"
+ ],
+ "context": "地域・瀬戸内",
+ "kind": "market",
+ "researched_at": "2026-11-04T14:57:34.523186+00:00",
+ "evidence": {
+  "採用難（公的統計）": [
+   {
+    "quote": "・雇用情勢のポイント ― 11月の岡山県の有効求人倍率は 1.43倍です",
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/000777080.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和２年11月の有効求人倍率(季節調整値)は、1.43倍となり、前月と比べ0.01ポイント低下した",
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/000777080.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年3月時点の広島県の有効求人倍率は",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "広島労働局の令和8年3月分のデータでは、広島県の有効求人倍率は",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度平均でも、有効求人倍率は",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "広島県全体の有効求人倍率は1.37倍ですが、職種別に見ると大きな差があります",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "【7月の有効求人倍率】香川県は「全国7位」岡山県は「6か月ぶりの上昇」 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "pass": 3
+   },
+   {
+    "quote": "【7月の有効求人倍率】香川県は「全国7位」岡山県は「6か月ぶりの上昇」",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "pass": 3
+   },
+   {
+    "quote": "岡山・香川の7月の有効求人倍率です",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "pass": 3
+   },
+   {
+    "quote": "岡山労働局によりますと、県内の7月の有効求人倍率は1.41倍で、前の月と比べて0.05ポイント増え、6か月ぶりの上昇となりました",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "pass": 3
+   },
+   {
+    "quote": "一方、香川県では7月の有効求人倍率は1.43倍で、全国平均の1.24倍を上回り全国7位の水準です",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は約1.30倍と高く、人口減少や若年層の県外流出も重なって、採用難は一時的ではなく",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月の有効求人倍率は約1.30倍",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "・高校卒の採用充足率：37.8％",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "・短大・高専卒の採用充足率：8.3％",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 岡山県の有効求人倍率が1.30倍なら、求人を出せば採用できますか？",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "特に福祉・介護は有効求人倍率2倍超とされ、人手不足が深刻です",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "令和7年度平均でも、有効求人倍率は",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "また、令和7年平均の15歳以上人口は",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "採用に600万円かけて正社員2名だった僕の原体験",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "「地方採用をもっと簡単に」月10万円～の定額制の採用サービス『スポット人事』を提供しています",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "一方、香川県では7月の有効求人倍率は1.43倍で、全国平均の1.24倍を上回り全国7位の水準です",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "pass": 3
+   },
+   {
+    "quote": "【倒産】木造建築会社が破産手続き開始決定 負債1億700万円【帝国データバンク】",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "pass": 3
+   },
+   {
+    "quote": "【倒産】半導体製造装置の設計・製作業者が破産手続き開始決定 負債は約5000万円【…",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "pass": 3
+   },
+   {
+    "quote": "AI投資の先行き懸念…米中間選挙受け、日経平均は一時3000円以上値下がり 専門家の見解は 日本政府「高い緊張感を持って動向注視」",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "pass": 3
+   },
+   {
+    "quote": "全国平均の約1.19倍を上回っており、求人数が求職者数を上回る状態が続いています",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "2015年から2020年の5年間で人口が増加した市町村は、岡山市、総社市、早島町、里庄町の4地域のみ",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "A. 1.30倍は県全体の平均値です",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "「地方採用をもっと簡単に」月10万円～の定額制の採用サービス『スポット人事』を提供しています",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "採用に600万円かけて正社員2名だった僕の原体験",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "「地方採用をもっと簡単に」月10万円～の定額制の採用サービス『スポット人事』を提供しています",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "【倒産】木造建築会社が破産手続き開始決定 負債1億700万円【帝国データバンク】",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "pass": 3
+   },
+   {
+    "quote": "【倒産】半導体製造装置の設計・製作業者が破産手続き開始決定 負債は約5000万円【…",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "pass": 3
+   },
+   {
+    "quote": "「地方採用をもっと簡単に」月10万円～の定額制の採用サービス『スポット人事』を提供しています",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "単に求人媒体を運用するのではなく、",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "専任人事担当者不在でも、採用戦略立案から求人作成・媒体運用・面接設計まで一括",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "採用ターゲット設計、求人票作成、媒体運用、応募者対応、振り返りまでを社内だけで行うのが難しい場合は、外部支援を活用する選択肢があります",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "専任人事担当者不在でも、採用戦略立案から求人作成・媒体運用・面接設計まで一括",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "設計と運用を回すリソース不足",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "・Indeed運用や応募導線だけ整理する",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "岡山県の採用は「設計→言語化→運用」で前に進みやすくなる",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "地元定着、技術習得、家族との生活、地域に根ざしたキャリアが響きやすい可能性があります",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "都市部と比較すると母集団は限られますが、地域密着性、生活コスト、安定雇用、地元で長く働けることが魅力になります",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "・地元で家族や友人との生活を大切にできる",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "地元で長く働けること",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "・福山・尾道・三原など備後圏で地元就職したい人なのか",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "福山・尾道・三原では、備後圏の産業集積や地元定着、ものづくりとの関係性が重要です",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "三次・庄原では、地域密着、生活コスト、長期雇用、地元貢献が魅力になります",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "求人票提出だけでなく、学校訪問、職場見学、若手社員の紹介、保護者にも伝わる安定性、入社後育成の見える化が必要です",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイターへのお問い合わせ",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "・地元志向とUIターン層の混在",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "地元志向がいないわけではない",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "「将来的には地元に戻りたい」",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "・地元で働く意味",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "地元志向とUIターンは、同じ打ち出しでは届きにくい",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "「できれば地元で働きたい」",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "地元志向層とUIターン層を同じメッセージで狙わないこと",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "地元志向の人には、",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "特に岡山県のように、地元志向層、若手流出層、UIターン層が混在する市場では、",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "・地元出身者が合いやすいのか",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "といった価値は、地元志向の人材には十分な魅力になります",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "：地元で仕事を探している層への接点づくり",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "経験者採用ならIndeedや紹介、",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、県南部への人口集中、生活圏の違い、地元志向とUIターン層の混在など、同じ県内でも採用の前提が大きく異なります",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "若年層の県外流出はある一方で、地元志向や将来的なUターン意向も一定数あります",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "株式会社LeadSTAR｜導入事例",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LeadSTAR(リードスター)は、地方に特化した採用支援のプロフェッショナル",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LeadSTAR（リードスター）｜企業公式サイト",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LeadSTAR(リードスター)は、茨城県に特化した採用支援のプロフェッショナル",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "pass": 3
+   },
+   {
+    "quote": "特に、機械・自動車部品工場などでは、若手技術者や現場人材の確保が厳しく、募集をかけても応募が集まりにくい状況です",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LeadSTAR｜導入事例",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LeadSTAR(リードスター)は、地方に特化した採用支援のプロフェッショナル",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LeadSTAR（リードスター）｜企業公式サイト",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "最後スポット人事の創業秘話となります",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "なぜ？日本一小さな県「香川県」が観光国内宿泊旅行調査で2年連続 \"総合満足度\" 1位…",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "pass": 3
+   },
+   {
+    "quote": "非製造業では、64.0％の企業が「人材不足（質の不足）」を挙げ、46.8％が「労働力不足」を挙げています",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   },
+   {
+    "quote": "特に福祉・介護は有効求人倍率2倍超とされ、人手不足が深刻です",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "有効求人倍率": [
+   {
+    "value": "1.43",
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/000777080.pdf",
+    "quote": "・雇用情勢のポイント ― 11月の岡山県の有効求人倍率は 1.43倍です"
+   },
+   {
+    "value": "1.37",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "quote": "広島県全体の有効求人倍率は1.37倍ですが、職種別に見ると大きな差があります"
+   },
+   {
+    "value": "1.41",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "quote": "岡山労働局によりますと、県内の7月の有効求人倍率は1.41倍で、前の月と比べて0.05ポイント増え、6か月ぶりの上昇となりました"
+   },
+   {
+    "value": "1.43",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "quote": "一方、香川県では7月の有効求人倍率は1.43倍で、全国平均の1.24倍を上回り全国7位の水準です"
+   },
+   {
+    "value": "1.30",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "quote": "有効求人倍率は約1.30倍と高く、人口減少や若年層の県外流出も重なって、採用難は一時的ではなく"
+   }
+  ],
+  "万円": [
+   {
+    "value": "600",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "quote": "採用に600万円かけて正社員2名だった僕の原体験"
+   },
+   {
+    "value": "10",
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "quote": "「地方採用をもっと簡単に」月10万円～の定額制の採用サービス『スポット人事』を提供しています"
+   },
+   {
+    "value": "700",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "quote": "【倒産】木造建築会社が破産手続き開始決定 負債1億700万円【帝国データバンク】"
+   },
+   {
+    "value": "5000",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "quote": "【倒産】半導体製造装置の設計・製作業者が破産手続き開始決定 負債は約5000万円【…"
+   },
+   {
+    "value": "10",
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "quote": "「地方採用をもっと簡単に」月10万円～の定額制の採用サービス『スポット人事』を提供しています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.sanyonews.jp/article/1732462",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seto.or.jp/upload/publish/shiryousyu/2023/s01R5_9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.ksb.co.jp/article/17011699",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testea.net/chugaku-juken/setouchi-characteristics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.fa-japan.jp/n/n45c7379e49b4?gs=f7000d14d0f51822502b980dfe89d13d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/common/000022332.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2007/09/58-61.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lfb.mof.go.jp/chugoku/content/20260902jouhou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kyo-kai.co.jp/img/material/chuu/3208/keywork_c1_02_nb_sample.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/fukushima-roudoukyoku/content/contents/002259056.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/000777080.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kagawa-roudoukyoku/content/contents/shikokunai-koyoujouseihoukoku-2-H30-10-12.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/leadstar/n/na54b0254fc05",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chugokukeiren.jp/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B7%A5%E6%A5%AD%E5%9C%B0%E5%9F%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/water/heisa/heisa_net/setouchiNet/seto/g2/g2cat02/kougyou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCC263XT0W2A320C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trust-you.co.jp/blog/2026-job-offers-ratio.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/leadstar/n/ned2e83831c5b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCC017WT0R01C26A0000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyodonewsprwire.jp/corp/shioj/11042/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛）",
+   "results": [
+    "https://www.sanyonews.jp/article/1732462",
+    "https://www.seto.or.jp/upload/publish/shiryousyu/2023/s01R5_9.pdf",
+    "https://news.ksb.co.jp/article/17011699",
+    "https://testea.net/chugaku-juken/setouchi-characteristics/",
+    "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "https://note.fa-japan.jp/n/n45c7379e49b4",
+    "https://www.mlit.go.jp/common/000022332.pdf",
+    "https://chugokukeiren.jp/info/",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/roudouryokutyosa.html"
+   ]
+  },
+  {
+   "query": "瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛） 調査 PDF",
+   "results": [
+    "https://www.seto.or.jp/upload/publish/shiryousyu/2023/s01R5_9.pdf",
+    "https://www.mlit.go.jp/common/000022332.pdf",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2007/09/58-61.pdf",
+    "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "https://lfb.mof.go.jp/chugoku/content/20260902jouhou.pdf",
+    "https://www.kyo-kai.co.jp/img/material/chuu/3208/keywork_c1_02_nb_sample.pdf",
+    "https://testea.net/chugaku-juken/setouchi-characteristics/",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai.html"
+   ]
+  },
+  {
+   "query": "瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛） 厚生労働省",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "https://jsite.mhlw.go.jp/fukushima-roudoukyoku/content/contents/002259056.pdf",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/000777080.pdf",
+    "https://www.sanyonews.jp/article/1732462",
+    "https://www.youtube.com/watch?v=gqnAhZLOFcw",
+    "https://testea.net/chugaku-juken/setouchi-characteristics/",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://jsite.mhlw.go.jp/kagawa-roudoukyoku/content/contents/shikokunai-koyoujouseihoukoku-2-H30-10-12.pdf",
+    "https://kyujinbairitsu.shigotodb.jp/"
+   ]
+  },
+  {
+   "query": "瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛） 規模別 万円",
+   "results": [
+    "https://news.ksb.co.jp/article/17011699",
+    "https://note.fa-japan.jp/n/n45c7379e49b4",
+    "https://note.com/leadstar/n/na54b0254fc05",
+    "https://www.sanyonews.jp/article/1732462",
+    "https://www.seto.or.jp/upload/publish/shiryousyu/2023/s01R5_9.pdf",
+    "https://www.mlit.go.jp/common/000022332.pdf",
+    "https://newsdig.tbs.co.jp/articles/rsk/1411385?display=1",
+    "https://www.youtube.com/watch?v=7pjCAQZcFkU"
+   ]
+  },
+  {
+   "query": "瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛） 製造業 事例",
+   "results": [
+    "https://www.seto.or.jp/upload/publish/shiryousyu/2023/s01R5_9.pdf",
+    "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "https://testea.net/chugaku-juken/setouchi-characteristics/",
+    "https://chugokukeiren.jp/info/",
+    "https://www.mlit.go.jp/common/000022332.pdf",
+    "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B7%A5%E6%A5%AD%E5%9C%B0%E5%9F%9F",
+    "https://www.sanyonews.jp/article/1732462",
+    "https://www.env.go.jp/water/heisa/heisa_net/setouchiNet/seto/g2/g2cat02/kougyou/index.html",
+    "https://www.nikkei.com/article/DGXZQOCC263XT0W2A320C2000000/",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio"
+   ]
+  },
+  {
+   "query": "瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛） 2025 OR 2026",
+   "results": [
+    "https://www.sanyonews.jp/article/1732462",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://news.ksb.co.jp/article/17011699",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://note.com/leadstar/n/ned2e83831c5b",
+    "https://www.nikkei.com/article/DGXZQOCC017WT0R01C26A0000000/",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://kyodonewsprwire.jp/corp/shioj/11042/"
+   ]
+  },
+  {
+   "query": "site:note.com 瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛）",
+   "results": [
+    "https://note.com/haradaiko1/n/nee30d9a777cc",
+    "https://note.com/ocaml/n/nb4d8473484bb",
+    "https://note.com/leadstar/n/na54b0254fc05",
+    "https://note.com/leadstar/n/ned2e83831c5b",
+    "https://note.com/jobmarket_jp/n/nd65e2a01ef4b",
+    "https://note.com/paoyou/n/n3d7a4caa8233",
+    "https://note.com/kind_ram6013/n/n61ae04da33b2",
+    "https://note.com/lofty_willet8894/n/nedb194ce390d",
+    "https://note.com/growth_journal/n/n6bb253d74b4a"
+   ]
+  },
+  {
+   "query": "site:x.com 瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛）",
+   "results": [
+    "https://x.com/Minatohuoo/status/2105804431547941015",
+    "https://x.com/net_phoenix_lcc/status/2104479174459261125",
+    "https://x.com/mizuno_hr/status/2107395427415077089",
+    "https://x.com/monoscope_media/status/2105591050211352593",
+    "https://x.com/NEOyyss/status/2115987269266153631",
+    "https://x.com/DriedPlum_/status/2083943731200500009",
+    "https://x.com/takoidet/status/2077961314971025434"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛）",
+   "results": [
+    "https://jp.linkedin.com/posts/haruokubo_厚生労働省の一般職業紹介状況2026年7月分で正社員の有効求人倍率はちょうど100-activity-7500338194857656320--c7u",
+    "https://jp.linkedin.com/posts/pasona-business_2026年4月最新版採用市場はどう動いた転職動向と求人倍率を業界職種別に解説-activity-7452555538288263168-9KXU",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7094623021490958337/",
+    "https://www.linkedin.com/posts/mai-isogaki-0b880134a_5711社に調査採用難と人件費高騰が企業経営を直撃6割の企業で人件費の上昇-activity-7331562098822426624-zXm2",
+    "https://jp.linkedin.com/posts/真人-井澤-9aa997366_2026年4月最新有効求人倍率の推移を職種別に紹介転職市場動向について-activity-7449762129907458048-eg12",
+    "https://jp.linkedin.com/posts/y-ishii_リクルートワークス研究所-2027卒大卒求人倍率調査-27卒求人倍率は162-activity-7453702561473224704-As1Z",
+    "https://jp.linkedin.com/posts/funaisoken_船井総研2025年の専門工事業界設備工事業界の人材採用今後ポイント展望-activity-7272875367936237568-WDkw"
+   ]
+  },
+  {
+   "query": "site:facebook.com 瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛）",
+   "results": [
+    "https://www.facebook.com/visionokayama/",
+    "https://www.facebook.com/greenlightfb/posts/職業別有効求人倍率に見る国内人材の採用難とその対策良い職場づくりの重要性毎日のように採用難のお話を現場でお聞きしますそこで気になって調べてみた職業別有効求人倍率/415687580466976/",
+    "https://www.facebook.com/reel/10094882683861715/",
+    "https://www.facebook.com/visionokayama/posts/瀬戸内海経済レポートは4月1日からホームページ-をリニューアルし1964年創刊の地域経済情報誌週刊vision岡山のバックナンバー2000冊約7万ページをweb/988648797948909/",
+    "https://www.facebook.com/ThermalSpraying/posts/求人難時代に突入有効求人倍率がバブル時以来の高水準の143倍バブル時は景気拡大による求人難ですが今回は少子化と生産労働人口の減少による求人難143倍というのは1/1364926180217108/",
+    "https://www.facebook.com/seri.nabeshima/posts/東広島市の吉川工業団地内にあるマイクロンメモリジャパン広島工場において拡張工事の起工式が執り行われました今回の工場増設は人工知能aiの普及に伴い拡大する先進メモ/27661161990177173/",
+    "https://www.facebook.com/saponet.mynavi/photos/採用担当者必見-なぜ採用基準が現場で機能しないのかせっかく作った採用基準が形骸化していませんか45社の実態調査で見えた-使われない採用基準の真実とは雇用ジャーナ/1562659278483260/"
+   ]
+  },
+  {
+   "query": "瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛） note 社長",
+   "results": [
+    "https://note.com/leadstar/n/na54b0254fc05",
+    "https://note.com/leadstar/n/ned2e83831c5b",
+    "https://note.fa-japan.jp/n/n45c7379e49b4",
+    "https://note.com/lofty_willet8894/n/n9195f4d65fd3",
+    "https://www.sanyonews.jp/article/1962243?rct=prtimes_hiro",
+    "https://note.com/leadstar/n/ne1b96644fe06",
+    "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B7%A5%E6%A5%AD%E5%9C%B0%E5%9F%9F",
+    "https://www.nikkei.com/article/DGXZQOCC263XT0W2A320C2000000/",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai.html",
+    "https://yumesuta.com/kosotsusaiyo/hiroshima/data"
+   ]
+  },
+  {
+   "query": "瀬戸内の製造業の有効求人倍率と採用難（広島・岡山・愛媛） X 投稿",
+   "results": [
+    "https://note.com/leadstar/n/na54b0254fc05",
+    "https://www.youtube.com/watch?v=gqnAhZLOFcw",
+    "https://www.sanyonews.jp/article/1964588",
+    "https://news.ksb.co.jp/article/15694099",
+    "https://www.youtube.com/watch?v=7pjCAQZcFkU",
+    "https://www.s-kyujinsha.com/column/16260/",
+    "https://www.chugoku-np.co.jp/articles/-/689261",
+    "https://www.pacola.co.jp/n2026062409/",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/jirei_toukei/shokugyou_shoukai.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/roudouryokutyosa.html"
+   ]
+  },
+  {
+   "query": "job openings ratio manufacturing Hiroshima Okayama Ehime site:linkedin.com",
+   "results": [
+    "https://jp.linkedin.com/in/faruq-ahmad-58022b1b9",
+    "https://www.linkedin.com/jobs/view/4445070581/",
+    "https://www.linkedin.com/jobs/search/?geoId=101775949",
+    "https://ca.linkedin.com/company/hirotec-corporation",
+    "https://economicgraph.linkedin.com/workforce-data",
+    "https://vc.linkedin.com/company/watanabe-chemical-industries-ltd.",
+    "https://economicgraph.linkedin.com/blog/how-tight-is-the-labor-market-introducing-linkedins-labor-market-tightness-metric",
+    "https://id.linkedin.com/company/the-ehime-university"
+   ]
+  }
+ ],
+ "missing": {
+  "社数（規模別）": "記載なし（読んだ30頁・検索13回）",
+  "作る側の原価": "記載なし（読んだ30頁・検索13回）"
+ }
+}

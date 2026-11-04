@@ -1,0 +1,1514 @@
+{
+ "name": "瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳",
+ "en": "number of manufacturers Setouchi Hiroshima Okayama by size",
+ "aliases": [
+  "広島県 製造業 事業所数 従業者規模",
+  "岡山県 製造業 事業所数",
+  "愛媛県 製造業 事業所数 今治",
+  "瀬戸内 製造業 中堅企業"
+ ],
+ "context": "地域・瀬戸内",
+ "kind": "market",
+ "researched_at": "2026-11-04T14:57:10.260704+00:00",
+ "evidence": {
+  "社数（規模別）": [
+   {
+    "quote": "（資料）総務省統計局 「令和３年経済センサス」",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３. 経済・産業 業種別事業所数（民営、2021年）",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇内数字は各構成比内の順位（資料）総務省統計局 「令和３年経済センサス」",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３. 経済・産業 四国の製造業の事業所数、従業者数の推移",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年経済センサス-活動調査を実施します",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサスは５年ごとに実施されていますが、中間年の実態を把握する目的で、総務省・経済産業省が毎年（経済センサス-活動調査実施年を除く",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "総務省・経済産業省が令和４年12月26日に公表した令和3年経済センサス-活動調査産業別集計（製造業）について、公表値の一部に訂正がありました",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和3年経済センサス‐活動調査 正誤情報",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "総務省・経済産業省が令和４年12月26日に公表した令和3年経済センサス-活動調査産業別集計（製造業）について、",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第１表】［総括表：従業者４人以上の事業所］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(29KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第３表】［従業者４人以上の事業所に関する統計表］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(26KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第４表】［従業者４人以上の事業所に関する統計表］産業中分類＞従業者規模・経営組織・資本金階層別統計表 (Excelファイル)(117KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第７表】［従業者４人以上の事業所に関する統計表］市町別＞従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(215KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第８表】［従業者30人以上の事業所に関する統計表］従業者規模・産業中分類別統計表 (Excelファイル)(40KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第10表】［工業用地・工業用水に関する統計表：従業者30人以上の事業所］従業者規模・産業中分類別統計表 (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 産業中分類別事業所数･････････････････････････････････････････････････1",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数･････････････････････････････････････････････････････････････9",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３． 調査結果のうち、事業所数、産出事業所数、従業者数については、2024年6月1日現在",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 産業中分類別事業所数",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 事業所数を産業中分類別構成比でみると、「金属製品製造業」（3 万 368 事業所、構成",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1 表 産業中分類別事業所数（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：事業所数については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：事業所数の調査時点については、6月1日現在である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 図 産業中分類別事業所数の構成比（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1）事業所数 － 事業所数が最も多いのは大阪府 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第5 表 都道府県別 事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：事業所数、従業者数、製造品出荷額等及び付加価値額については、個人経営を含まない",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：事業所数及び従業者数の調査時点については、2024年6月1日現在である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）事業所数 ※１ 2,362 事業所 【全国第30位（前年30位）】",
+    "url": "https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に、５年ごとに実施する「経済センサス-活動調査」の中間年の実態を把握することを目的とした毎年",
+    "url": "https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１）事業所数について、観音寺市は第３位（丸亀市と同順位）である",
+    "url": "https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、建設業、運輸業その他の業種：資本金3億円以下又は従業者規模300人以下 ※ゴム製品製造業は、資本金3億円以下または従業者規模900人以下",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業：資本金1億円以下又は従業者規模100人以下",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業：資本金5000万円以下又は従業者規模100人以下 ※ソフトウェア業、情報処理サービス業は、資本金3億円以下又は従業者規模300人以下",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※旅館業は、資本金5千万円以下または従業者規模200人以下",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小売業：資本金5000万円以下又は従業者規模50人以下",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、建設業、運輸業その他の業種：従業者規模20人以下",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業、小売業、サービス業：従業者規模5人以下 ※宿泊業・娯楽業は、従業者規模20人以下",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）開業率は、2022年度に雇用関係が新規に成立した事業所数÷2021年度末の適用事業所数である",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注２）廃業率は、2022年度に雇用関係が消滅した事業所数÷2021年度末の適用事業所数である",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注３）適業事業所とは、雇用保険医係る労働保険の保険関係が成立している事業所数である（雇用保険法第５条）",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）開業率は、2012年度に雇用関係が新規に成立した事業所数÷2011年度末の適用事業所数である",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注２）廃業率は、2012年度に雇用関係が消滅した事業所数÷2011年度末の適用事業所数である",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年経済センサス-活動調査",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 令和３ 年経済センサス ‐活動調査（製造業）の概要",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査規則（平成 23 年総務省・経済産業省令第１",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（７）集計対象 令和３年経済センサス‐活動調査 産業別集計（製造業・概要",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、事業所数、従業者数については、令和３年経済",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "センサス‐活動調査及び平成 28 年経済センサス‐活動調査並びに平成 29 年",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２） 令和３年経済センサス‐活動調査においては、個人経営を含まない集計結果",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、平成 28 年経済センサス‐活動調査においては、事業所数、従業",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "H23(2011)年 H24年経済センサス H24年2月1日現在 H23年1月〜12月",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "H27(2015)年 H28年経済センサス H28年6月1日現在 H27年1月〜12月",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "R２(2020)年 R３年経済センサス R３年6月1日現在 R２年1月〜12月",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（資料）総務省統計局 「令和３年経済センサス」",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３.経済・産業 業種別事業所数（民営、2021年）",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３.経済・産業 四国の製造業の事業所数、従業者数の推移",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6.大学 地域別大学発ベンチャー企業数",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）事業所数 ※１ 2,354 事業所 【全国第30 位（前年30 位）】",
+    "url": "https://www.pref.kagawa.lg.jp/documents/57061/2024gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に、５年ごとに実施する「経済センサス-活動調査」の中間年の実態を把握することを目的とした毎年",
+    "url": "https://www.pref.kagawa.lg.jp/documents/57061/2024gaiyo.pdf",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "11/20 馬場更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11/6 伊手更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11/18 伊手更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11/27 馬場更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11/13 中内更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11/18 中内更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11/19 一色更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11/25 馬場更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11/17 一色更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12/8 馬場更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10/31 前川更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11/6 馬場更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11/７ 馬場更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11/11 馬場更新",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（令和５年２月26日更新）",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（令和８年６月30日更新）",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者と設備を有して、物の生産や販売、サービスの提供が継続的に行われていること",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産設備の保守・点検・修理、機械・装置の操作、製品の検査・梱包、製品に組み込まれる",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 今後の継続的な投資を呼び込むうえでボトルネックになりうる工業用水や上下水道、電気等の供給量不足",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 装置や工場ファシリティの保守・メンテナンス、ガス等の供給、倉庫、協力会社等の関連産業が立地するための産業用地整備",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "６. 大学 地域別の大学入学者数と地元収容力（2024年）",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このページに関するお問い合わせ先",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせフォームはこちらから",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "6.大学 大学の地域別入学者数と地元収容力",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "（参考）四国４県の農業産出額上位10品目（2023年）",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上位10品目 産出額 全国順位 上位10品目 産出額 全国順位",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国26位 全国31位",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、比率は、小数点以下第2位で四捨五入した",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ごとに売上高を上位から累積し、当該分類に係る売上高総額の8割を達成する範囲に含まれ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造品出荷額等）を上位から累積し、当該分類に係る売上高（製造品出荷額等）総額の9割を達",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）製造品出荷額等 ※３ 3兆730 億円 【全国第31位（前年31位）】",
+    "url": "https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額等）を上位から累積し、当該分類に係る売上高（製造品出荷額等）総額の９割を達成する範囲に含ま",
+    "url": "https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 主要項目の上位３産業の概況",
+    "url": "https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10.8%)、食料品 (同 10.0%)、窯業・土石製品(同 7.6%)の上位５産業で、全県の半数",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7.8%)、生産用機械器具(同 7.7%)、繊維工業 (同 7.6%)の上位５産業で、全県の約半",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "送用機械器具(同 12.2%)、鉄鋼業(同 11.1%)の上位４産業で、全県の半数(同 54.0%)",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11.4%）、生産用機械器具（同 6.3%）、プラスチック製品（同 6.0%）の上位５産業で",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（参考）四国各県の農業産出額上位10品目（2021年）",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上位10品目 産出額 全国順位 上位10品目 産出額 全国順位",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国24位 全国31位",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額等） を上位から累積し、 当該分類に係る売上高 （製造品出荷額等） 総額の９割を達成する範囲に含ま",
+    "url": "https://www.pref.kagawa.lg.jp/documents/57061/2024gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 主要項目の上位３産業の概況",
+    "url": "https://www.pref.kagawa.lg.jp/documents/57061/2024gaiyo.pdf",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "（注）売上高と従業員数は2025年9月までに公表された直近決算（連結ベース）の数値 36",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業 種 会 社 名 本社所在地 売上高等(億円) 従業員数 (人) 市 場",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）売上高と従業員数は2025年9月までに公表された直近決算（連結ベース）の数値",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表３】市町別の事業所数の推移［従業員４人以上の事業所］（平成13年～） (Excelファイル)(26KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）付表５ 市町、産業大分類別売上（収入）金額（試算値） (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（企業等）付表９ 市町、企業産業大分類別売上（収入）金額 (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）付表５ 市町，産業大分類別売上（収入）金額（試算値） (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（企業等）付表９ 市町，企業産業大分類別売上（収入）金額 (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜事業所に関する集計－産業横断的集計（売上（収入）金額等）＞",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）第1-1表 産業(大分類)，経営組織(5区分)別民営事業所数，従業者数，売上(収入)金額，1事業所当たり従業者数，1事業所当たり売上(収入)金額及び従業者1人当たり売上(収入)金額―広島県 (Excelファイル)(19KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）第2-2-1表 産業(中分類)，単独・本所・支所(3区分)別民営事業所数，従業者数及び売上(収入)金額(外国の会社及び法人でない団体を除く) - 広島県，広島大都市圏 (Excelファイル)(67KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）第3-1表 産業(中分類)別民営事業所数，売上(収入)金額及び事業活動(22区分)別該当事業所数，売上(収入)金額(外国の会社及び法人でない団体を除く) - 広島県，広島大都市圏 (Excelファイル)(168KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）第4-2-1表 産業(大分類)，経営組織(5区分)別民営事業所数，従業者数及び売上(収入)金額 - 広島県，広島市 (Excelファイル)(18KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（事業所）第5-2-1表 産業(大分類)，従業者規模(7区分)別民営事業所数，従業者数，売上(収入)金額，1事業所当たり従業者数，1事業所当たり売上(収入)金額及び従業者1人当たり売上(収入)金額(外国の会社及び法人でない団体を除く) - 広島県，広島市 (Excelファイル)(53KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（企業等）第1-2表 企業産業(中分類)，単一・複数(２区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―広島県，広島大都市圏 (Excelファイル)(99KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（企業等）第2－2表 企業産業(大分類)別企業等数，売上(収入)金額及び事業活動(22区分)別該当企業等数，売上(収入)金額―広島県，広島大都市圏 (Excelファイル)(24KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "（企業等）第3－2表 企業産業(大分類)，経営組織(３区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―広島県，広島大都市圏 (Excelファイル)(28KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "は細分類ごとに売上高（製造品出荷額等）を上位から累積し、当該分類に係る売上高（製",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "税抜きの回答については、 「統計調査における売上高等の集計に係る消費税の取扱いに関",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 製造業事業所調査における「在庫額」については、「統計調査における売上高等の集",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ごとに売上高を上位から累積し、当該分類に係る売上高総額の8割を達成する範囲に含まれ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、 日本標準産業分類における大分類、 中分類、 小分類又は細分類ごとに売上高 （製",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造品出荷額等）を上位から累積し、当該分類に係る売上高（製造品出荷額等）総額の9割を達",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 売上（収入）金額 ＊",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑨ 事業活動、生産物の種類別の売上（収入）金額 ＊",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑩ 年間商品販売額及び商品売上原価 ＊",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑰ 企業傘下の事業所の売上（収入）金額 ＊",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業を除き、大分類、中分類又は小分類ごとに売上高を上位から累積し、当該分類に係る売上高",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業、売上高1000億円以上（かつ会社企業に限っては資本金2億円以上）の企業及び相互会社",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要原材料、補助材料、購入部分品、容器、包装材料、工場維持用の材料及び消耗品、購入",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、下請工場などに原材料を支給して製造加工を行わせた場合には、支給した原材料の額",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）を、1年間のうちに当該事業所から出荷した場合の工場出荷",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、日本標準産業分類における大分類、中分類、小分類又は細分類ごとに売上高（製造品出荷",
+    "url": "https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額等）を上位から累積し、当該分類に係る売上高（製造品出荷額等）総額の９割を達成する範囲に含ま",
+    "url": "https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の大企業が全企業に占める割合と大企業の従業員割合（ 2 0 2 1年）",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 大企業が雇用する従業員が当該都道府県の全従業員に占める割合をみると、関東地方、東海地方、近畿地方、山陽",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に工場、製作所、製造所あるいは加工",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）売上高と従業員数は2023年9月までに公表された直近決算（連結ベース）の数値 37",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業 種 会 社 名 本社所在地 売上高等(億円) 従業員数 (人) 市 場",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）売上高と従業員数は2023年9月までに公表された直近決算（連結ベース）の数値",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「大竹市の工場夜景」",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「周南工場夜景」",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・・・マツダ防府工場を中心とした自動車関連サプライ",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マツダ防府工場、ヒロテック、ナガト、デルタ工業、",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "池モジュール・パック工場(2027年度稼働予定)",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プロテリアル安来工場[特殊鋼] 、SUSANOO（キグチテクニクス[材料評",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（※新工場2030年頃建設目標）、ヒラタ精機[自動車部品製造]ほか",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "場[製紙]、ニッポン高度紙工業米子工場[セパレー",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・・・マツダ本社、宇品工場を中心とした自動車関連サプライヤー等の集積地",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マツダ本社、宇品工場、ヒロテック、ナガト、広島精密工業、デルタ工業、ハマダ、",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・・・三菱重工業広島製作所、IHI呉工場を中心とした航空機関連サプライヤーの",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業広島製作所、IHI呉工場、安芸ジェット会（ヒロコージェットテクノロジー、",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 生産性向上のための工場等からインターチェンジ・空港・港湾等へのアクセス性向上",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 外国人を含む従業員等を受け入れるための居住環境",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 広島県東広島市では、令和5年6月、マイクロンメモリ ジャパンが広島工場に対して、EUV技術を用いた1γ",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、 日本標準産業分類における大分類、 中分類、 小分類又は細分類ごとに売上高 （製造品出荷",
+    "url": "https://www.pref.kagawa.lg.jp/documents/57061/2024gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額等） を上位から累積し、 当該分類に係る売上高 （製造品出荷額等） 総額の９割を達成する範囲に含ま",
+    "url": "https://www.pref.kagawa.lg.jp/documents/57061/2024gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、 日本標準産業分類における大分類、 中分類、 小分類又は細分類ごとに売上",
+    "url": "https://www.pref.ehime.jp/uploaded/attachment/161947.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高（製造品出荷額等）を上位から累積し、当該分類に係る売上高（製造品出荷額等）総",
+    "url": "https://www.pref.ehime.jp/uploaded/attachment/161947.pdf",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(17KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 年次別、卸売業・小売業別の事業所数（法人・個人別）、従業者数、年間商品販売額及び売場面積 (Excelファイル)(14KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 卸売業・小売業の産業分類細分類別の事業所数（従業者規模別）、従業者数、年間商品販売額及び売場面積 (Excelファイル)(176KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 卸売業・小売業別、経営組織別の事業所数（単独・本支店別）、従業者数及び年間商品販売額 (Excelファイル)(15KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "第５表 小売業の産業分類小分類別、商品販売形態別の事業所数、年間商品販売額及び構成比 (Excelファイル)(20KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "第６表 小売業の産業分類中分類別、売場面積規模別の事業所数、年間商品販売額及び売場面積 (Excelファイル)(15KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "第７表 小売業の産業分類中分類別、営業時間階級別の事業所数、従業者数、年間商品販売額及び売場面積 (Excelファイル)(14KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 産業分類別の事業所数、従業者数、年間商品販売額及び売場面積（小売業） (Excelファイル)(107KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表1】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移[従業者4人以上の事業所]（昭和25年～） (Excelファイル)(34KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【参考表2】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移[従業者3人以下の事業所]（昭和58年～） (Excelファイル)(16KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【第2表】産業中分類別統計表（市町別，事業所数，従業者数及び年間商品販売額） (Excelファイル)(144KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "pass": 3
+   },
+   {
+    "quote": "造品出荷額等）総額の9割を達成する範囲に含まれる事業所を調査対象とし、その報告を",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の数値、製造品出荷額等、品目別出荷金額、付加価値額については、2023年1年間の数値",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2：製造品出荷額等の調査期間については、2022年及び2023年におけるそれぞれ1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3：付加価値額の調査期間については、2022年及び2023年におけるそれぞれ1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4：製造品出荷額等及び付加価値額の調査期間については、2023年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：製造品出荷額等の調査期間については、2023年における1年間の数値である",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ごとに売上高を上位から累積し、当該分類に係る売上高総額の8割を達成する範囲に含まれ",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造品出荷額等）を上位から累積し、当該分類に係る売上高（製造品出荷額等）総額の9割を達",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総額の5割を達成する範囲に含まれる企業のみから報告を求め、⑭、⑮、⑯、⑰、⑱及び⑲に",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "から12月までの1年間を対象とする",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年1月から2023年12月までの1年間に支払われた「常用雇用者及び有給役員に対する基本",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年1月から2023年12月までの1年間における次の(1)～(6)の合計をいう",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額等）を上位から累積し、当該分類に係る売上高（製造品出荷額等）総額の９割を達成する範囲に含ま",
+    "url": "https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業：資本金5000万円以下又は従業者規模100人以下 ※ソフトウェア業、情報処理サービス業は、資本金3億円以下又は従業者規模300人以下",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※旅館業は、資本金5千万円以下または従業者規模200人以下",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小売業：資本金5000万円以下又は従業者規模50人以下",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和２年１年間に常用雇用者及び有給役員のうちこの事業所に従事している",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和２年１年間における原材料使用額、燃料使用額、電力使用額、委託生産",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和２年１年間における製造品出荷額、加工賃収入額、製造工程から出たく",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和２年１年間における次の計算式による集計額",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る 1 年間の数値である",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 製造品出荷額等は、7 兆 601 億 38 百万円で、前年に比べ 8.4％(6,439 億 98 百万円)",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 付加価値額は、1 兆 7,688 億 8 百万円で、前年に比べ 2.0％（357 億 78 百万円）減少",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：令和 2 年の製造品出荷額等及び付加価値額は令和 2 年中の年間額、事業所数及び従業者数は令和 3 年 6 月 1 日現",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：平成27年の現金給与総額、製造品出荷額等、原材料使用額等及び付加価値額については、個人経営調査票",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 年次別 事業所数、従業者数、現金給与総額、",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "← 1985～2020年の35年間で →",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "← 2020～2050年の30年間で →",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "徳島県 301.3万円",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "香川県 276.6万円",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "愛媛県 247.1万円",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高知県 249.1万円",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世代DRAMの量産に向け、今後数年間で最大5000億円の投資を行うことを公表",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に中海・宍道湖圏域には年間30万人を超える観光客が来訪",
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額等） を上位から累積し、 当該分類に係る売上高 （製造品出荷額等） 総額の９割を達成する範囲に含ま",
+    "url": "https://www.pref.kagawa.lg.jp/documents/57061/2024gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注:製造品出荷額等及び付加価値額の調査期間については、2022年及び2023年におけるそれぞれ1年間の数値である",
+    "url": "https://www.pref.ehime.jp/uploaded/attachment/161947.pdf",
+    "pass": 3
+   }
+  ],
+  "作る側の原価": [
+   {
+    "quote": "(5) 製造等に関連する外注費",
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "サービス業：資本金5000万円以下又は従業者規模100人以下 ※ソフトウェア業、情報処理サービス業は、資本金3億円以下又は従業者規模300人以下",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※旅館業は、資本金5千万円以下または従業者規模200人以下",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小売業：資本金5000万円以下又は従業者規模50人以下",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 製造品出荷額等は、7 兆 601 億 38 百万円で、前年に比べ 8.4％(6,439 億 98 百万円)",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 付加価値額は、1 兆 7,688 億 8 百万円で、前年に比べ 2.0％（357 億 78 百万円）減少",
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "徳島県 301.3万円",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "香川県 276.6万円",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "愛媛県 247.1万円",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高知県 249.1万円",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "5000",
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "quote": "サービス業：資本金5000万円以下又は従業者規模100人以下 ※ソフトウェア業、情報処理サービス業は、資本金3億円以下又は従業者規模300人以下"
+   },
+   {
+    "value": "301.3",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "quote": "徳島県 301.3万円"
+   },
+   {
+    "value": "276.6",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "quote": "香川県 276.6万円"
+   },
+   {
+    "value": "247.1",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "quote": "愛媛県 247.1万円"
+   },
+   {
+    "value": "249.1",
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "quote": "高知県 249.1万円"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.seto.or.jp/upload/publish/shiryousyu/2023/s01R5_9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chugokukeiren.jp/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://setouchitourism.or.jp/ja/wp-content/uploads/sites/2/2024/04/%E3%81%9B%E3%81%A8%E3%81%86%E3%81%A1%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%88%E5%85%A8%E4%BD%93%E7%89%88%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B7%A5%E6%A5%AD%E5%9C%B0%E5%9F%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/common/000022332.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lfb.mof.go.jp/shikoku/content/006/00600032.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.skr.mlit.go.jp/kikaku/kokudokeikaku/approach/topics/20221219/sankoushiryou1-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/26/dl/26-1-1-1_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCC263XT0W2A320C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B7%A5%E6%A5%AD%E5%9C%B0%E5%9F%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&stat_infid=000032236215&statdisp_id=0004003972",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lfb.mof.go.jp/shikoku/content/006/00620003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jt-tsushin.jp/articles/interview/jt47_kagawa_ikeda",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kagawa.lg.jp/documents/57061/2024gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/uploaded/attachment/161947.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?cycle=0&layout=dataset&statdisp_id=0004003974",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirogin-hd.co.jp/library/presentation/2025/ir20250919_day1sc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www3.boj.or.jp/matsuyama/tankan/pdf2025/tan2512.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/_Reports/01/d6f2bb335c25c6a4/20250059.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2026/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.btc-data.com/blog/916",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳",
+   "results": [
+    "https://www.seto.or.jp/upload/publish/shiryousyu/2023/s01R5_9.pdf",
+    "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "https://chugokukeiren.jp/info/",
+    "https://www.youtube.com/watch?v=rJ-S0Ca-2Ow",
+    "https://setouchitourism.or.jp/ja/wp-content/uploads/sites/2/2024/04/%E3%81%9B%E3%81%A8%E3%81%86%E3%81%A1%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%88%E5%85%A8%E4%BD%93%E7%89%88%EF%BC%89.pdf",
+    "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B7%A5%E6%A5%AD%E5%9C%B0%E5%9F%9F",
+    "https://www.mlit.go.jp/common/000022332.pdf",
+    "https://testea.net/chugaku-juken/setouchi-characteristics/",
+    "https://www.nikkei.com/article/DGXZQOCC263XT0W2A320C2000000/",
+    "https://ja.wikipedia.org/wiki/瀬戸内地方"
+   ]
+  },
+  {
+   "query": "瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳 調査 PDF",
+   "results": [
+    "https://www.seto.or.jp/upload/publish/shiryousyu/2023/s01R5_9.pdf",
+    "https://setouchitourism.or.jp/ja/wp-content/uploads/sites/2/2024/04/%E3%81%9B%E3%81%A8%E3%81%86%E3%81%A1%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%88%E5%85%A8%E4%BD%93%E7%89%88%EF%BC%89.pdf",
+    "https://www.mlit.go.jp/common/000022332.pdf",
+    "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "https://lfb.mof.go.jp/shikoku/content/006/00600032.pdf",
+    "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://www.pref.kagawa.lg.jp/documents/50409/2023gaiyo.pdf"
+   ]
+  },
+  {
+   "query": "瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳 厚生労働省",
+   "results": [
+    "https://www.seto.or.jp/upload/publish/shiryousyu/2023/s01R5_9.pdf",
+    "https://www.mhlw.go.jp/content/11601000/001203300.pdf",
+    "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "https://www.skr.mlit.go.jp/kikaku/kokudokeikaku/approach/topics/20221219/sankoushiryou1-3.pdf",
+    "https://yonkeiren.jp/pdf/data-shikoku_202512.pdf",
+    "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B7%A5%E6%A5%AD%E5%9C%B0%E5%9F%9F",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/26/dl/26-1-1-1_02.pdf",
+    "https://lfb.mof.go.jp/shikoku/content/006/00600032.pdf",
+    "https://www.nikkei.com/article/DGXZQOCC263XT0W2A320C2000000/",
+    "https://ja.wikipedia.org/wiki/瀬戸内工業地域"
+   ]
+  },
+  {
+   "query": "瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳 規模別 万円",
+   "results": [
+    "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "https://www.seto.or.jp/upload/publish/shiryousyu/2023/s01R5_9.pdf",
+    "https://www.mlit.go.jp/common/000022332.pdf",
+    "https://setouchitourism.or.jp/ja/wp-content/uploads/sites/2/2024/04/%E3%81%9B%E3%81%A8%E3%81%86%E3%81%A1%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%88%E5%85%A8%E4%BD%93%E7%89%88%EF%BC%89.pdf",
+    "https://lfb.mof.go.jp/shikoku/content/006/00620003.pdf",
+    "https://chugokukeiren.jp/info/",
+    "https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://yonkeiren.jp/pdf/data-shikoku_ver5.pdf"
+   ]
+  },
+  {
+   "query": "瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳 製造業 事例",
+   "results": [
+    "https://www.seto.or.jp/upload/publish/shiryousyu/2023/s01R5_9.pdf",
+    "https://chugokukeiren.jp/info/",
+    "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "https://setouchitourism.or.jp/ja/wp-content/uploads/sites/2/2024/04/%E3%81%9B%E3%81%A8%E3%81%86%E3%81%A1%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%88%E5%85%A8%E4%BD%93%E7%89%88%EF%BC%89.pdf",
+    "https://www.mlit.go.jp/common/000022332.pdf",
+    "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B7%A5%E6%A5%AD%E5%9C%B0%E5%9F%9F",
+    "https://www.jt-tsushin.jp/articles/interview/jt47_kagawa_ikeda",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://ja.wikipedia.org/wiki/瀬戸内工業地域"
+   ]
+  },
+  {
+   "query": "瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳 2025 OR 2026",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html",
+    "https://chugokukeiren.jp/info/",
+    "https://www.hirogin-hd.co.jp/library/presentation/2025/ir20250919_day1sc.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2025gaiyo1.pdf",
+    "https://www3.boj.or.jp/matsuyama/tankan/pdf2025/tan2512.pdf",
+    "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "https://lfb.mof.go.jp/shikoku/content/006/00620003.pdf",
+    "https://www.jetro.go.jp/ext_images/_Reports/01/d6f2bb335c25c6a4/20250059.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2026/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳",
+   "results": [
+    "https://note.com/kagawatomo/n/ndfdd14b61b99",
+    "https://note.com/tatsuya_sabato/n/n85997fb6b309",
+    "https://note.com/stopinvoice/n/nce396d98998d",
+    "https://note.com/ocaml/n/nb4d8473484bb",
+    "https://note.com/komayuya4612/n/n3185c4769ede",
+    "https://note.com/grand_mole2026/n/nb49c8f860a3c",
+    "https://note.com/shin_tigerjet/n/n09d120720eba",
+    "https://note.com/koji_sales/n/n72ea9472f256",
+    "https://note.com/nifty_agapan1691/n/n59aa90231bb7",
+    "https://note.com/grand_mole2026/n/nd853f7b9b678"
+   ]
+  },
+  {
+   "query": "site:x.com 瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳",
+   "results": [
+    "https://x.com/M_Miho_JPN/status/2062036706203987975",
+    "https://x.com/M_Miho_JPN/status/2052756945615167964",
+    "https://x.com/hirari_tat/status/2086766510647980430",
+    "https://x.com/setouchicity",
+    "https://x.com/kentaro9614/status/2022177647716172152",
+    "https://x.com/FOLA_DOM/status/1984550407935598770",
+    "https://x.com/sanyonews_dec/status/2067036278269649210",
+    "https://x.com/OgawaSeisakusho/status/2101838401943323059",
+    "https://x.com/sumiyoshi0124/status/2084980714345566402"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳",
+   "results": [
+    "https://jp.linkedin.com/pulse/6-defining-manufacturing-trends-2026-bernard-marr-gvpue?tl=ja",
+    "https://jp.linkedin.com/posts/satoshi-iwata-5037091a7_愛媛大昌鉄工所が23億円投じ新工場電池フィルム製造機の生産増強データセンター-activity-7453044553210744832-at6I",
+    "https://jp.linkedin.com/in/hinomotobp/ja",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本の製造業は本業以外で儲けてるって本当-企業規模別の営業外収益費用損益-activity-7443388930839945216-QVdF",
+    "https://jp.linkedin.com/posts/sumitomoheavyindustries_新居浜西条での仕事と暮らし-activity-7374691331358515201-akAn"
+   ]
+  },
+  {
+   "query": "site:facebook.com 瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳",
+   "results": [
+    "https://www.facebook.com/setouchicity/",
+    "https://www.facebook.com/setouchi.craft/",
+    "https://www.facebook.com/refarming.jp/posts/ご報告瀬戸内refarming-株式会社を設立しました新しい農業の在り方を地域で広げていく瀬戸内refarming-株式会社を設立いたしました瀬戸内refarm/122130508112169014/",
+    "https://www.facebook.com/fas.jpn/",
+    "https://www.facebook.com/kagawaken.jp/",
+    "https://www.facebook.com/groups/setouchifan/",
+    "https://www.facebook.com/kentaro.kuroishi/videos/村田製作所様から積層セラミックコンデンサに関する今後の生産能力拡大についてというリリースが出されました岡山村田製作所様にて2030年稼働予定の新生産棟建設投資額/1437885221144222/"
+   ]
+  },
+  {
+   "query": "瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳 note 社長",
+   "results": [
+    "https://www.seto.or.jp/upload/publish/shiryousyu/2023/s01R5_9.pdf",
+    "https://note.com/keirimanx/n/n99ba1c4fe17c",
+    "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "https://chugokukeiren.jp/info/",
+    "https://www.mlit.go.jp/common/000022332.pdf",
+    "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B7%A5%E6%A5%AD%E5%9C%B0%E5%9F%9F",
+    "https://cres.hiroshima-u.ac.jp/07-panel.pdf",
+    "https://www.nikkei.com/article/DGXZQOCC263XT0W2A320C2000000/",
+    "https://note.com/shochan1055/n/n5f1f44b89f4f",
+    "https://ja.wikipedia.org/wiki/瀬戸内工業地域"
+   ]
+  },
+  {
+   "query": "瀬戸内（広島・岡山・山口・愛媛・香川）の製造業の社数と規模別内訳 X 投稿",
+   "results": [
+    "https://www.seto.or.jp/upload/publish/shiryousyu/2023/s01R5_9.pdf",
+    "https://geopinning.space/industry/japan-industrial-zones/setouchi/",
+    "https://chugokukeiren.jp/info/",
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai/kankei_fukudaijin/dai3/sankoshiryo1no8.pdf",
+    "https://www.skr.mlit.go.jp/kikaku/kokudokeikaku/approach/topics/20221219/sankoushiryou1-3.pdf",
+    "https://www.hirogin-hd.co.jp/library/presentation/2025/ir20250919_day1sc.pdf",
+    "http://www.xfcrb2020.com/CN/matrix/matrix.do?articleId=393&type=DownloadCountryDistribution",
+    "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B7%A5%E6%A5%AD%E5%9C%B0%E5%9F%9F",
+    "https://www.pref.kagawa.lg.jp/tokei/shoko/kogyo/2021kogyo.html",
+    "https://ja.wikipedia.org/wiki/瀬戸内工業地域"
+   ]
+  },
+  {
+   "query": "number of manufacturers Setouchi Hiroshima Okayama by size site:linkedin.com",
+   "results": [
+    "https://jp.linkedin.com/in/paul-walsh-94495b7",
+    "https://jp.linkedin.com/in/onoharuyuki",
+    "https://www.linkedin.com/in/katsuya-shiratori",
+    "https://jp.linkedin.com/in/kohei-shimasaki-4941b2263",
+    "https://in.linkedin.com/in/vasupradha-shree-41a521297",
+    "https://sg.linkedin.com/in/mayumi-yamamoto-3a962857",
+    "https://uk.linkedin.com/in/craig-matchett-5489ab1a",
+    "https://uk.linkedin.com/in/corinne-mckeown-5500b7205",
+    "https://jp.linkedin.com/in/yusaku-tanada-ba281a390",
+    "https://in.linkedin.com/in/aditi-godbole-941072297"
+   ]
+  }
+ ],
+ "missing": {
+  "採用難（公的統計）": "記載なし（読んだ33頁・検索13回）"
+ }
+}
