@@ -1,0 +1,2716 @@
+{
+ "name": "ロボット用アクチュエータ",
+ "en": "robot actuator market",
+ "aliases": [
+  "ロボット アクチュエータ 市場",
+  "関節アクチュエータ",
+  "サーボモーター ロボット"
+ ],
+ "context": "フィジカルAI・部材",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:25:48.345514+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模が2035年までに470.2億米ドルへ拡大する動きは、単一のロボット需要サイクルよりも、複数のアクチュエーター搭載度モデルが併存することによって形成されると当社は推定しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "回転アクチュエーターは、2025年に市場収益の60.88%を占め、市場規模は約104億1,270万米ドルに達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "動作タイプ別の世界のロボティクスアクチュエーター市場規模、2022〜2035年（10億米ドル単位）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "リニアアクチュエーターの市場規模は2025年に約66億9,020万米ドルとなり、2035年には年平均成長率（CAGR）11.97%で203億6,570万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "電動アクチュエータの市場規模は 2025年に約97億1,480万米ドルとなり、市場の56.8%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "油圧アクチュエータの市場規模は 2025年に約27億9,690万米ドルとなり、2035年には年平均成長率（CAGR）10.18%で72億3,980万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "空気圧アクチュエータの市場規模は 2025年に約24億2,630万米ドルとなり、2035年には年平均成長率（CAGR）9.27%で57億8,770万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "SMCは約80か国で事業を展開しており、2024年度の売上高は約7,769億円でした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧電、形状記憶、磁気技術を含む機械式アクチュエータの市場規模は、2025年に約21億6,490万米ドルでした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の市場規模は 2025年に約 54億9,100万米ドルとなり、世界の売上高の 32.10% を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボットアクチュエータ市場規模は、2025年には179億米ドルと評価され、2026年の197億4000万米ドルから2034年には432億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は10.3%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国はロボットアクチュエータ市場を支配しており、その市場規模は2024年には61億5000万米ドル、2025年には67億2000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：179億米ドル",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の市場規模予測：412億米ドル",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "清掃ロボット市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用ロボット市場規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧縮空気分配システム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用カメラ市場規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026―2035年のアクチュエータ市場の市場規模はどのくらいですか？",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "将来的には、市場規模は1,429億米ドルに達すると見込まれています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社の調査アナリストによると、基準年の市場規模は713億米ドルでしました",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ロボット導入の急増は市場の成長に影響を与えており、国際ロボット連盟のデータによると、2025年には産業用ロボット設備の世界市場規模は165億米ドルに達し、その需要は自動化とAIの統合によって牽引されています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアクチュエータ市場規模は、予測期間中に年平均成長率（CAGR）7.3%で成長し、2035年には1,429億米ドルに達すると予測されています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社の調査レポートによると、2026年のアクチュエータ市場規模は適度なペースで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、世界のアクチュエータ市場規模は713億米ドルの収益を上げると予測されています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年の予測期間における年平均成長率（CAGR）は40.6％と見込まれており、今後10年間で市場規模が約30倍に拡大する計算となる",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模が2025年の15億米ドルから2035年には452億米ドルへ拡大するという予測は、ヒューマノイドロボットの普及に伴い、関連部品の供給網そのものが大きく変化する可能性を示している",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "市場が2025年の15億米ドルから2035年には452億米ドルへ拡大し、2026～2035年にCAGR 40.6％で成長すると予測される中、経営層にとっての焦点は市場規模そのものではなく、どの技術領域に今投資し、どのパートナーと連携し、量産化のタイミングでどのポジションを確保するかという先行者戦略にあります",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエーター市場規模、2030年までに1004億1000万ドルに到達見込み - MarketsandMarkets社の独占レポート",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "[LIVN] リヴァノヴァ 3Q増収営業減益 売上高10％増3.93億ドル、営業益47％減2840万ドル、EPS0.60ドル",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "[TBLA] タブーラドットコム 3Q減収増益 売上高7％減4.62億ドル、営業益4.1倍2691万ドル、EPS0.06ドル",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド：2024年9億ドル → 2035年2,837億ドル → 2050年7兆ドル",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2024年の9億ドルから2035年には2,837億ドル、2050年には7兆ドルへ成長すると予想されます",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "2055年までに先進国の生産年齢人口が約5億人減少すると見込まれる中、これを1台2万ドルのロボットで代替すると、単純計算しても、市場規模は最大1兆200億ドルに達します",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年代半ばを境に、ヒューマノイドロボットは産業用ロボットや家庭用ロボットの市場規模を上回り始め、2040年代からは自動運転市場とともにロボット産業全体の成長をけん引する中核分野になると見込まれます",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボティクス技術の市場規模、2030年に2230億6000万米ドル到達見込み - CNET Japan - CNET Japan",
+    "url": "https://japan.cnet.com/release/31160554/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボティクス技術の市場規模、2030年に2230億6000万米ドル到達見込み",
+    "url": "https://japan.cnet.com/release/31160554/",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータ市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータ市場規模、シェア、トレンド分析レポート：タイプ別（空気圧アクチュエータ、油圧アクチュエータ、電気アクチュエータ、熱アクチュエータ、機械アクチュエータ）、用途別（石油・ガス、自動車、電子機器、食品・飲料、廃水処理施設、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアクチュエータ市場規模は、2025年には715億7000万米ドルと評価され、2026年の772億2000万米ドルから2034年には1418億8000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国商務省は、マイクロン・テクノロジーが米国における半導体製造および研究開発に2,000億ドルを投資する計画を発表した",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータ市場規模は、2026年には772億2000万米ドルと評価され、2034年までに1418億8000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.9%です",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "清掃ロボット市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用ロボット市場規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧縮空気分配システム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "NSKは1000億円の売上目指し「速度重視」、デルタ電子や国内新興と次々提携",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082000001/",
+    "pass": 3
+   },
+   {
+    "quote": "S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082000001/",
+    "pass": 3
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082000001/",
+    "pass": 3
+   },
+   {
+    "quote": "最新のYH Research調査によると、2025年から2031年にかけてロボット用アクチュエーターのグローバル市場は年平均成長率（CAGR）17.0%の高成長を示し、2031年には市場規模が98.85億米ドルに達すると予測される",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用防氷システムの世界市場（2026年～2032年）、市場規模（機械式除氷システム、電気パルス式防氷システム、液体防氷システム、熱風式防氷システム、電気加熱式防氷システム）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "低温収縮試験機の世界市場（2026年～2032年）、市場規模（低温、広温度範囲）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "油井ポンプの世界市場（2026年～2032年）、市場規模（試験用ポンプ、酸処理用ポンプ、セメント注入用ポンプ）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "PERCフロント用銀ペーストの世界市場（2026年～2032年）、市場規模（フィンガー用銀ペースト、バスバー用銀ペースト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "牽引式方位スラスタの世界市場（2026年～2032年）、市場規模（Lドライブ、Zドライブ、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "ロボット用アクチュエーター市場は、2025年に約171億米ドルに達し、2026年には186.2億米ドル、2035年までには約470.2億米ドルに拡大すると予測されており、2026年から2035年にかけての年平均成長率（CAGR）は10.8%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Interact Analysisによると、2024年の協働ロボット出荷台数は64,542台に達し、出荷台数の成長率は2024年の13.8%から2025年には20.6%、2026年には23.9%へ改善すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Intuitive Surgicalは、2024年にda Vinciによる手術を約268万3,000件完了し、前年比17%増となりました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模が2035年までに470.2億米ドルへ拡大する動きは、単一のロボット需要サイクルよりも、複数のアクチュエーター搭載度モデルが併存することによって形成されると当社は推定しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に記録された54万2,000台の導入台数は、年間実績として過去2番目に多く、世界の稼働台数は前年比9%増の466万4,000台に拡大した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年には年平均成長率（CAGR）10.05%で266億5,470万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "同社の2024年度業績説明会では、ハイエンドロボット市場における精密減速機について、7%のCAGRが見込まれると示された",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットアクチュエータ市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボットアクチュエータ市場規模は、2025年には179億米ドルと評価され、2026年の197億4000万米ドルから2034年には432億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は10.3%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）11.02%で最も速い成長が見込まれる",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "最終用途産業別に見ると、自動車分野は予測期間中に年平均成長率（CAGR）10.42%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026年～2034年）：10.3％",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧電アクチュエータ分野は、予測期間中に年平均成長率（CAGR）約11.24%と、最も速い成長が見込まれています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野の成長率は10.42%と最も高く、車両製造における急速な自動化と電気自動車向け生産ラインへの移行がその原動力となっています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は最も成長著しい地域であり、急速な工業化、労働力不足、製造業における自動化の加速を背景に、2026年から2034年にかけて年平均成長率（CAGR）11.02%で市場が拡大すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータ市場に関する当社の調査レポートによると、同市場は予測期間（2026年―2035年）中に年平均成長率（CAGR）7.3%で成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータに関する当社の市場調査によると、アジア太平洋地域の市場は予測期間中に約24.9%という圧倒的な市場シェアを維持し、8.2%という最高の年平均成長率（CAGR）で成長すると予想されます",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、OEC市場見通しによると、2025年11月には、日本からの産業用ロボット（その他または含む）の輸出が前年比79.7%という驚異的な伸びを記録しました",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "2026―2035年のCAGR",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のアクチュエータ市場は着実に成長しており、市場シェアは35%と最大規模を誇るとともに、予測期間中の年平均成長率（CAGR）は8.2%と最も高い成長率を示しています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアクチュエータ市場規模は、予測期間中に年平均成長率（CAGR）7.3%で成長し、2035年には1,429億米ドルに達すると予測されています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット用コンポーネント市場、2035年に452億米ドルへ拡大｜CAGR 40.6％、精密アクチュエーター・センサー・AI制御技術が次世代ロボットの進化を加速 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット用コンポーネント市場、2035年に452億米ドルへ拡大｜CAGR 40.6％、精密アクチュエーター・センサー・AI制御技術が次世代ロボットの進化を加速",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年の予測期間における年平均成長率（CAGR）は40.6％と見込まれており、今後10年間で市場規模が約30倍に拡大する計算となる",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット市場の急成長が部品産業の構造転換を促進――2035年に向けて精密機械・電子部品・AI半導体の需要が本格拡大",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "• ヒューマノイドロボット用コンポーネント市場は、2025年に15億米ドルの規模となり、2035年までに452億米ドルに達すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）40.6％で拡大すると見込まれています",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模が2025年の15億米ドルから2035年には452億米ドルへ拡大するという予測は、ヒューマノイドロボットの普及に伴い、関連部品の供給網そのものが大きく変化する可能性を示している",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "米国フロリダ州デルレイビーチ、2025年9月15日 /PRNewswire/ -- マーケッツアンドマーケッツの新たなレポートによると、世界のアクチュエーター市場は、2025年の712億2,000万ドルから2030年には1,004億1,000万ドルに達し、予測期間中のCAGR（年平均成長率）は7.1％と見込まれています",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）7.1%で成長する見込み",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "ロボティクス分野は2025年から2030年にかけて最高のCAGR（年平均成長率）を記録すると予想されます",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "当社はTAM（総有望市場）拡大、Go-to-Market戦略の策定から実行、市場シェア獲得、アカウント活性化、思想主導型マーケティングといったサービスラインを通じ、クライアントと共にこの25兆ドルの機会を収益化する成長プログラムを推進しています",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット市場全体に占めるヒューマノイドの割合は、今後25年間で最も大きく拡大する見通しです",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "現代自動車の2026年売上高は195.3兆ウォン（+4.8％ YoY）、営業利益は11.2兆ウォン（-2.2％ YoY、OPM 5.7％）を予想します",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "起亜の2026年売上高は124.6兆ウォン（+9.2％ YoY）、営業利益は10.2兆ウォン（+12.6％ YoY、OPM 8.2％）を予想します",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "現代モービスの2026年売上高は64.0兆ウォン（+4.7％ YoY）、営業利益は3.75兆ウォン（+11.6％ YoY、OPM 5.9％）を記録すると予想します",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボットの製造原価の40～50％をアクチュエーターとモーションシステムが占めることから、現代モービスの役割は自動車部品メーカーを超え、ロボット中核部品メーカーへ拡大すると見込まれます",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後Atlasの生産台数が年間3万台まで拡大すれば、現代モービスのアクチュエーター売上は1.5兆ウォン以上に増加する可能性があります",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド市場が拡大するほど、ロボット1台に数十個のアクチュエーターが搭載される構造が現代モービスの部品売上成長を加速させると予想されます",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の1080億3000万米ドルからCAGR16.0％で成長し、2026年には1253億米ドルに達すると予測されています",
+    "url": "https://japan.cnet.com/release/31160554/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にはCAGR15.5％で2230億6000万米ドルに達する見込みです",
+    "url": "https://japan.cnet.com/release/31160554/",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータ市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアクチュエータ市場規模は、2025年には715億7000万米ドルと評価され、2026年の772億2000万米ドルから2034年には1418億8000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気アクチュエータ分野は、2025年には31.7%のシェアを占め、その精密な動作制御、エネルギー効率、コンパクトな設計、および自動化された産業システムにおける使用の増加により、予測期間中に年平均成長率（CAGR）9.45%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野は2025年に27.8%のシェアを占め、エンジンシステム、ブレーキシステム、車両シート、HVACシステム、パワートレインコンポーネント、高度な車両自動化におけるアクチュエータの広範な使用により、予測期間中に年平均成長率（CAGR）9.18%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "またNSKは、ロボティクス領域においてグローバルに事業を展開し、2036年には主要事業としての柱に成長するよう事業拡大を図ってまいります",
+    "url": "https://www.nsk.com/jp-ja/company/news/2025/robotics-actuators/",
+    "pass": 3
+   },
+   {
+    "quote": "NSKは、ロボティクス領域においてグローバルに事業を展開し、2036年には主要事業としての柱に成長するよう事業拡大を図ってまいります",
+    "url": "https://www.nsk.com/jp-ja/company/news/2025/robotics-actuators/",
+    "pass": 3
+   },
+   {
+    "quote": "WAIC 2026では、高い柔軟性を備えた動作能力を持つヒューマノイドロボット、複雑な環境向けに設計された四足歩行ロボット、そしてサービス分野や産業用途で活用されるインテリジェントロボットが数多く展示され、ロボット応用領域が急速に拡大していることを示しました",
+    "url": "https://www.cubemars.com/jp/how-robotic-actuators-enable-better-robot-motion.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット用アクチュエーター市場環境分析2026：競争状況、需要拡大、供給動向を評価",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "最新のYH Research調査によると、2025年から2031年にかけてロボット用アクチュエーターのグローバル市場は年平均成長率（CAGR）17.0%の高成長を示し、2031年には市場規模が98.85億米ドルに達すると予測される",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット用アクチュエーター市場環境分析2026：競争状況、需要拡大、供給動向を評価 | YH Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCによると、世界のヒューマノイドロボット用アクチュエータ市場は、2026年に4,700億米ドル規模となり、予測期間中にCAGR36.0％で成長し、2034年までに5兆5,006億米ドルに達すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc2160846-humanoid-robot-actuators-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートファクトリーやインダストリー4.0技術への投資拡大により、正確で応答性が高く、エネルギー効率に優れた動作を実現するアクチュエータへの需要が生まれています",
+    "url": "https://www.gii.co.jp/report/smrc2160846-humanoid-robot-actuators-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国におけるロボット導入の成長率は、過去5年間で年平均約25％であり、世界平均の成長率11％をはるかに上回っている",
+    "url": "https://www.cubemars.com/jp/china-largest-robot-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後10年で、ヒューマノイドの販売台数が47%の年平均成長率を見込む中、この急成長市場のサプライチェーンに参入する機会が材料メーカーや部品サプライヤーに生まれています",
+    "url": "https://www.idtechex.com/ja/research-article/trends-and-outlook-for-actuators-the-muscles-behind-humanoid-motion/35000",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年にかけて年平均成長率（CAGR）6.0%で拡大し、2035年には794億米ドルに達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-actuators-market",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "International Federation of Roboticsによると、2024年の産業用ロボットの導入台数は54万2,000台、稼働台数は466万4,000台に達しており、関節、エンドエフェクター、直線軸、補助搬送機器向けのモーションコンポーネントを必要とする大規模な設置基盤が形成されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Interact Analysisによると、2024年の協働ロボット出荷台数は64,542台に達し、出荷台数の成長率は2024年の13.8%から2025年には20.6%、2026年には23.9%へ改善すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "McKinseyの推定では、アクチュエーターは人型ロボットの部品表コストの40%〜60%を占める可能性があり、フルサイズのプラットフォームには28〜44個の駆動関節が必要となる場合があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、同年には1,526台のシステムを納入しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業オートメーションが安定した数量基盤を提供する一方、協働ロボット、手術用システム、人型ロボットでは、モーター、減速機、エンコーダー、制御機能、安全機能のより緊密な統合が必要となるため、導入プラットフォーム1台当たりのモーションハードウェアの価値が高まります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットの導入台数は、4年連続で年間50万台を超えている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に記録された54万2,000台の導入台数は、年間実績として過去2番目に多く、世界の稼働台数は前年比9%増の466万4,000台に拡大した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Interact Analysisは、2024年の13.8%成長に続き、出荷台数が2025年に20.6%、2026年に23.9%増加すると予測している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "McKinseyによると、ヒューマノイドの総コストに占めるアクチュエーションの割合は40〜60%であり、実物大のロボットには28〜44個の駆動関節が必要となる可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "関節数の多いシステムでは負担がさらに大きくなり、ヒューマノイドプラットフォームでは数十個のアクチュエータモジュールが必要となる場合があり、アクチュエーション関連部品が部品表の40%〜60%を占めることもある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に記録された54万2,000台の導入は、自動車、電子機器、金属加工、一般製造業に及び、多軸サーボシステムや減速機システムへの需要を生み出している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "同産業は、2024年の世界の産業用ロボット導入台数の23%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルスケアおよび医療用途では、動作精度、信頼性、トレーサビリティーが性能の中核となるため、システム1台当たりのアクチュエーター価値が高い",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "このように、アクチュエータは機械部品ではなく、応答性が高くデータ豊富なモーション制御ユニットとして台頭しつつあり、これは製造業者がインダストリー4.0環境へと移行する中で、メカトロニクスと機械学習の融合によって推進されている",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "その証拠として、国際ロボット連盟（IFR）の2025年市場見通しでは、世界の新規工場ロボット設置台数は2025年の約50百万台―2028年には約1百万台に増加すると予測されています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "国際ロボット連盟（IFR）の2025年版報告書によると、2024年には産業用ロボットの新規設置台数の74%がアジアに集中していました",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "IFRのレポートによると、米国の製造業における産業用ロボットの導入は増加しており、2023年には約44,303台のロボットが設置されました",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "経営層にとって重要なのは、どの部品がロボット1台当たりの価値を大きく左右するのか、どのコンポーネントが供給制約になり得るのか、そして特定のロボットメーカーや技術方式への依存度をどこまで許容するのかを早期に判断することです",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "Report Ocean株式会社は、市場調査およびコンサルティングの分野で、正確で信頼性の高い最新の調査データおよび技術コンサルティングを求める個人および企業に対して、7年以上にわたり高度な分析的研究ソリューション、カスタムコンaサルティング、深いデータ分析を提供するリーディングカンパニーです",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "2055年までに先進国の生産年齢人口が約5億人減少すると見込まれる中、これを1台2万ドルのロボットで代替すると、単純計算しても、市場規模は最大1兆200億ドルに達します",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "Freedom）を実現するには1台当たり数十個の関節が必要で、各関節はモーター・減速機・制御装置・センサーを組み合わせた統合アクチュエーターモジュールで構成されます",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "量産前の高性能ヒューマノイドの1台当たり製造原価は約3万5,000～6万ドルで、アクチュエーターとモーションシステムが40～50％を占めます",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "生物の筋骨格系を模倣するため、成人サイズのヒューマノイド1台につき28～40個以上のアクチュエーターが必要となるためです",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "FCCは7月28日、重量2kg超の通信・自律移動型ロボットを審査項目に追加し、新規輸入承認を事実上停止しました",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "Boston Dynamicsは2028年までに年間3万台のヒューマノイド量産インフラを構築する計画です",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外で生産された2kg超の地上移動型ロボット",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "現代モービスは米国で年間35万個規模のアクチュエーター生産能力を確保する計画です",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "これはAtlas量産初期の1～2年間、年間約6,000台のロボット生産を支えられる第1段階の生産能力と判断します",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間35万個規模のアクチュエーター工場が稼働した場合、約3,500億ウォンの追加売上が発生すると推定します",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後Atlasの生産台数が年間3万台まで拡大すれば、現代モービスのアクチュエーター売上は1.5兆ウォン以上に増加する可能性があります",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド市場が拡大するほど、ロボット1台に数十個のアクチュエーターが搭載される構造が現代モービスの部品売上成長を加速させると予想されます",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのうちの28個から44個が、その機械がどれだけの重量を持ち上げられるか、どれくらいの時間稼働できるか、そして製造コストを決定づけており、部品原価の40～60％を占めています",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ駆動機構が機械を決定づけるのか、2025年の出荷台数、そして本報告書が拠り所とする証拠の基準について",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "個人購入者として、レポートについて可能なこと・できないこと——読者1名、組織1社",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、手1つあたり数個のモーターからその4倍のモーター数を搭載する設計への移行を追跡しており、そのコスト面での実現可能性を左右する要素についても解説しています",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "McKinseyも、現代のヒューマノイドでは20〜40個の主要構造アクチュエータをリアルタイムに協調制御する必要があると説明している",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "McKinseyによれば、Tesla Optimusは手だけで50個を超えるアクチュエータを用いる一方、胴体や脚など残りの全身は約25〜30個にとどまるという",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "ミネベアミツミがCES 2026で紹介した開発中のロボットハンドでは、片手の構成に85個の小型ベアリングと11個のアクチュエータが使われている",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドが年間100万台生産され、1台に数十個から100個以上のベアリングが使われれば、必要数量は数千万個から1億個規模になる",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "1個当たりの不良率が低くても、1台に数十個使えば、機体単位の不良率は上がる",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "3〜6 kgmを完全なペイロード定格として扱うとどうなりますか?",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "pass": 3
+   },
+   {
+    "quote": "提案されている果実収穫アームは、トルク3〜6 kgm、毎秒180度超、バックラッシ0.03〜0.1度と報告されているアクチュエータを使用しますが、工具位置精度は関節剛性、アーム幾何学、カメラ校正に依存します",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "pass": 3
+   },
+   {
+    "quote": "提案されているシステムは、1 mのアームと2〜5 kgのペイロードを目標としています",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "pass": 3
+   },
+   {
+    "quote": "キログラムフォースメートルを意味する場合、報告されている3〜6 kgmは、1 kgf·m ≈ 9.81 N·mとして、約29〜59 N·mに相当します",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "pass": 3
+   },
+   {
+    "quote": "ペイロード全体が関節軸から水平に1 mの位置で作用すると仮定すると、2 kgのペイロードは約19.6 N·m、5 kgのペイロードは約49.1 N·mを生じます",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "pass": 3
+   },
+   {
+    "quote": "報告されているアクチュエータの質量は、モータと関連するアームセグメントを含めて約2 kgです",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "pass": 3
+   },
+   {
+    "quote": "約1 kgのギヤボックス質量に対する50〜100 N·mという個別のギヤボックス目標は、2 kgのモータとリンクのアセンブリと直接比較できません",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "pass": 3
+   },
+   {
+    "quote": "単位がkgf·mを意味する場合、それは約29〜59 N·mのトルクを表し、すべてのアーム姿勢に対する規定されたペイロードではありません",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "pass": 3
+   },
+   {
+    "quote": "2024年までに、中国の産業用ロボット保有台数は約203万台に達し、年間約29万5000台の新規導入が行われており、中国の自動化エコシステムの規模を示している",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "韓国政府は、2030年までに3兆ウォン以上を高度なロボット工学に投資し、製造業とサービス業全体で100万台のロボットを導入する計画だ",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "・小型軽量タイプのアクチュエータ（トルク重量比約110N・m/kg",
+    "url": "https://www.nsk.com/jp-ja/company/news/2025/robotics-actuators/",
+    "pass": 3
+   },
+   {
+    "quote": "・高密度高放熱レイアウトによる小型軽量化の実現（最大推力重量比 約4300N/kg）",
+    "url": "https://www.nsk.com/jp-ja/company/news/2025/robotics-actuators/",
+    "pass": 3
+   },
+   {
+    "quote": "1971年に台湾で創業し、現在では世界各地に営業拠点と製造拠点を擁しております",
+    "url": "https://www.nsk.com/jp-ja/company/news/2025/robotics-actuators/",
+    "pass": 3
+   },
+   {
+    "quote": "二足歩行の人型ロボットなら1機当たり30個以上を使うため、製造コストの5割超を占めるとされる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082000001/",
+    "pass": 3
+   },
+   {
+    "quote": "パナソニック、禁止した生成AIに33万人分の個人情報 従業員の家族も",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082000001/",
+    "pass": 3
+   },
+   {
+    "quote": "5層JCTと曲線トンネル地中接合、工事が進む横浜環状南線・横浜湘南道路",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082000001/",
+    "pass": 3
+   },
+   {
+    "quote": "1位は「高水圧で壁厚30cmのトンネル崩落、湧水対策が裏目に出た可能性も」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082000001/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、発表から24 時間も経たないうちに、ボストン・ダイナミクスの全電動 Atlasロボットが正式に登場しました",
+    "url": "https://www.cubemars.com/jp/how-robotic-actuators-enable-better-robot-motion.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、コンパクトで高トルクの遊星モジュールおよびフレームレスモーターを主力とし、年間生産能力は600万台に達しています",
+    "url": "https://www.cubemars.com/jp/how-robotic-actuators-enable-better-robot-motion.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国のロボット市場は過去10年間でかつてない急成長を遂げ、オートメーションにおける世界のリーダーとして台頭している",
+    "url": "https://www.cubemars.com/jp/china-largest-robot-market.html",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "が含まれ、これらの企業が占める市場シェアは2025年に合計42.2%に達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "McKinseyの推定では、アクチュエーターは人型ロボットの部品表コストの40%〜60%を占める可能性があり、フルサイズのプラットフォームには28〜44個の駆動関節が必要となる場合があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "McKinseyによると、ヒューマノイドの総コストに占めるアクチュエーションの割合は40〜60%であり、実物大のロボットには28〜44個の駆動関節が必要となる可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "関節数の多いシステムでは負担がさらに大きくなり、ヒューマノイドプラットフォームでは数十個のアクチュエータモジュールが必要となる場合があり、アクチュエーション関連部品が部品表の40%〜60%を占めることもある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "1つは単価と供給可能性を中心とする環境であり、もう1つはエンジニアリング上の根拠、ライフサイクルサポート、用途上のリスクを重視する環境である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nabtescoは、中・大型産業用ロボットの関節に使用される精密減速機の世界市場で、約60%のシェアを占めるとしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、電動アクチュエータは、その効率性、精度、デジタル制御システムとの互換性、そしてロボット工学、航空宇宙、自動車、産業用オートメーションにおける幅広いアプリケーションにより、予測期間中に42%の市場シェアを占め、支配的な地位を占める見込みであります",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータはヒューマノイドロボットの部品原価の約40％～60％を占めるため、モーター、ギアボックス、減速機、エンコーダ、ドライバ、および統合型センシングシステムに対する需要が大幅に生じています",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット市場全体に占めるヒューマノイドの割合は、今後25年間で最も大きく拡大する見通しです",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造原価の40～50％を占めるアクチュエーター、すなわち減速機とモーターの組み合わせは、精密製造能力を備えた自動車部品メーカーにとって事業機会となります",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボットの製造原価の40～50％をアクチュエーターとモーションシステムが占めることから、現代モービスの役割は自動車部品メーカーを超え、ロボット中核部品メーカーへ拡大すると見込まれます",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのうちの28個から44個が、その機械がどれだけの重量を持ち上げられるか、どれくらいの時間稼働できるか、そして製造コストを決定づけており、部品原価の40～60％を占めています",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "採用の障壁となる5つの構成部品（レデューサー、ベアリング、力センサー、およびロボット全体のBOM）",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "部品表（BOM）の40～60パーセントを占めており、これは演算、センシング、構造を上回る最大の単一項目である",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "本シリーズでは、回をまたいだ二重計上を避けるため、McKinseyが2026年に示した主要BOM区分を共通の基準として用いる",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "この五領域で、一般的な機体原価の約85〜90％を構成するという整理である",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "Interact Analysisは、高機能ヒューマノイドでは関節アクチュエータがBOMの30％を超えると説明している",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "本シリーズでは、他回との二重計上を避けるため、共通BOM分類としてMcKinseyの40〜60％区分を採用する",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のMcKinsey分析では、アクチュエータはヒューマノイドBOMの約40〜60％を占める最大の原価領域である",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "Interact Analysisは、高機能機でも関節アクチュエータがBOMの30％超を占め、構成の単純なモデルでは50％を超える場合があるとしている",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "McKinseyの2026年分析では、アクチュエータ全体がBOMの40〜60％を占めると整理されている",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "McKinseyの分析では、統合アクチュエータのコスト構成の目安として、減速機が30〜50％、ドライバーが15〜20％、モーターが10〜20％、機械部品が10〜20％、センサー類が5〜10％と整理されている",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "Schaeffler自身も、多くのヒューマノイドでアクチュエータがBOM価値の約50％を占めると説明している",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のアクチュエータ市場は、2025年には地域別で最大のシェアとなる34.2%を占めると予測されており、これは同地域の強力な産業オートメーション基盤、確立された自動車および航空宇宙製造産業に支えられている",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のアクチュエータ市場は、同地域の広範な製造基盤、急速な産業オートメーション、そして強力な自動車、エレクトロニクス、半導体、ロボット産業に支えられ、2025年には25.8%のシェアを占めると予測されている",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジョンソンコントロールズインターナショナル、アシュアードオートメーション、ハネウェルインターナショナル、マイクロマティック、ケアユーロマティックオートメーションなどの主要企業は、合わせて世界のアクチュエータ市場シェアの約20%を占めると推定されており、多数の専門サプライヤーや地域サプライヤーの存在を反映しています",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "人型ロボットの製造コストで5割超を占めるアクチュエーターの動向を解説",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082000001/",
+    "pass": 3
+   },
+   {
+    "quote": "二足歩行の人型ロボットなら1機当たり30個以上を使うため、製造コストの5割超を占めるとされる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082000001/",
+    "pass": 3
+   },
+   {
+    "quote": "国際ロボット連盟（IFR）が発表した「World Robotics Report 2023」によると、中国は2022年の単年度で約29万台の産業用ロボットを導入し、世界の導入台数の52％を占める",
+    "url": "https://www.cubemars.com/jp/china-largest-robot-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechExの分析では、アクチュエータだけでヒューマノイドの重量の約56%を占めると推定しており、これらのシステムは、アクチュエータの主要構造部材に金属合金（鉄鋼やアルミニウムなど）のような剛性と耐久性に優れた材料を使用しています",
+    "url": "https://www.idtechex.com/ja/research-article/trends-and-outlook-for-actuators-the-muscles-behind-humanoid-motion/35000",
+    "pass": 3
+   },
+   {
+    "quote": "発電分野は2035年までに83億米ドルに達すると予測され、2025年の売上高に占める割合は9.9%だった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属・鉱業・機械分野は、2035年までに50億米ドルに達すると予測され、2025年の売上高に占める割合は7.0%だった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "「年間台数×1台あたりの搭載本数」分のアクチュエータ",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "（焼結永久磁石の世界生産に占める中国の比率は2024年に94%、",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Optimus 1台あたり約3.5kgのNdFeB磁石が必要ですが、その製造は中国がほぼ独占しています",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間100万台の量産には「年間台数×1台あたりの搭載本数」分のアクチュエータが毎年必要で、供給体制を現在の生産規模から",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間台数×1台あたりの搭載本数（BofA推計の前提構成は回転16本・直動14本）",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "BofA Global Researchは2025年の推計で、主要部品の大半を中国で製造した場合の一般的なヒューマノイドのBOM（部品コスト",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格ではない）を、回転16本・直動14本のアクチュエータ構成を前提に2025年末時点で1台あたり",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "1台あたり数十本規模のアクチュエータ、3.5kgのレアアース磁石が必要で、サプライチェーンの中国集中による地政学リスクも深刻です",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間100万台には「年間台数×1台あたりの搭載本数」分のアクチュエータが毎年必要になる一方、世界の供給能力を示す公的統計が確認できず各社の年産能力を個別に確認するしかないこと、高精度アクチュエータの量産技術の未成熟、バッテリーのエネルギー密度制限、AIの汎用制御の難しさ、部品コストの高さが量産の壁です",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "BofA Global ResearchのBOM推計（主要部品の大半を中国で製造した場合、2025年末時点で1台約$35,000）も回転16本・直動14本のアクチュエータ構成を前提にしており（ BofA Institute ）、アクチュエータの本数と方式が部品コストを左右する、量産化の鍵を握るコンポーネントです",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The cost of a robotic actuator extends beyond the motor or cylinder. High-performance systems combine reduction gearing, feedback devices, drives, cabling, controls, and mechanical integration. The burden becomes more pronounced in systems with many joints: a humanoid platform may require dozens of actuator modules, and actuation can represent 40%–60% of its bill of materials.",
+    "url": "https://www.gminsights.com/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "A humanoid robot is 25 to 35 powered joints wrapped in sheet metal, and the joints are where the money goes. This page walks the actuator bill of materials part by part — reducer, motor, screw, sensor — and tracks the price collapse that took Unitree’s average selling price down 72 percent in two years.",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Share of a Tesla Optimus-class ~$55,000 BOM taken by actuators, per Morgan Stanley estimates",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Chart 1 · Humanoid robot BOM by component category, China supply-chain estimate 2026",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "~16% of BOM",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Because there are so many of them — 25 to 35 powered joints, each needing a motor, a precision transmission, at least one encoder and drive electronics — and because the transmissions are precision-machined parts with few qualified suppliers. Morgan Stanley’s estimate attributes about 56 percent of an Optimus-class BOM to actuators.",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "GrabaRobot — Humanoid Robot Bill of Materials: Where the ~$55K Actually Sits",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "(Morgan Stanley BOM estimate; ~56% actuator share; limb-by-limb breakdown; roller screw prices; Chinese-parts cost impact)",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "(BOM split by component; robot prices; 2030 price target; F/T sensor prices; domestic share)",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Robot Actuator Market Statistics (2026): 50+ Data Points on Joint Modules, Humanoid BOM Costs, and the Supply Chain | Cervo Technology",
+    "url": "https://www.cervo-tech.com/blog/robot-actuator-market-statistics-2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "Robot Actuator Market Statistics (2026): 50+ Data Points on Joint Modules, Humanoid BOM Costs, and the Supply Chain",
+    "url": "https://www.cervo-tech.com/blog/robot-actuator-market-statistics-2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "more than 30% of the BOM",
+    "url": "https://www.cervo-tech.com/blog/robot-actuator-market-statistics-2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "Typical humanoid BOM, end-2025, Chinese components (16 rotary + 14 linear actuators, 6-DoF hands)",
+    "url": "https://www.cervo-tech.com/blog/robot-actuator-market-statistics-2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid BOM forecast, 2030–35 (>50% decline, ~14% CAGR of decline)",
+    "url": "https://www.cervo-tech.com/blog/robot-actuator-market-statistics-2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "BOM: China vs non-China supply chain, 2025",
+    "url": "https://www.cervo-tech.com/blog/robot-actuator-market-statistics-2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "BofA reference humanoid actuator count (basis of its $35K BOM model)",
+    "url": "https://www.cervo-tech.com/blog/robot-actuator-market-statistics-2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "Typical humanoid BOM, end-2025 (Chinese components)",
+    "url": "https://www.cervo-tech.com/blog/robot-actuator-market-statistics-2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "Actuator Modules (50%–60% of BOM): Precision machining of harmonic drive cases and spline shafts using",
+    "url": "https://www.jcproto.com/new/robotics-manufacturing-cost.html",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "ロボット用アクチュエータ市場の規模、シェア、動向 | 2035年までの予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット用アクチュエータ市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "ABB Ltd.が2025年に15.3%超の市場シェアを占め、首位となった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "が含まれ、これらの企業が占める市場シェアは2025年に合計42.2%に達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、標準化された軸の数量を巡って競争するサプライヤーと、精度が重要な用途向けに統合モジュールの認定を取得できるサプライヤーとの間で、商業面での差が拡大しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "短期的な制約は、単純なロボット需要の強さではなく、需要を許容可能なコストで信頼性の高いアクチュエーター供給へ転換できるかどうかにあります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "関節数が多いため、対象となる部品市場には大きな機会が生まれる一方、同じアーキテクチャーによって、コスト、放熱、力制御、減速ギアの供給可能性が厳しく問われます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "確立された高精度モーション技術を有するサプライヤーがまず恩恵を受ける可能性がありますが、より幅広い普及には、試作機の発表だけでなく、製造の学習曲線と設計の標準化が重要となります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "これはアクチュエーターサプライヤーにとって重要である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットをマシンビジョン、デジタル制御、状態監視システムと統合するメーカーは、高分解能フィードバックと通信機能を備えたサーボプラットフォームを必要としている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "これは、既存の軸受・動力伝達サプライヤーが、この新興カテゴリーに向けて製品アーキテクチャを適応させていることを示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療用途では、精度、再現性、文書化、製品ライフサイクル管理を遂行できるサプライヤーが優位となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "この多様化により、特定のロボット形状への依存度が低下し、移動型および固定型の自動化環境に合わせて部品を調整できるサプライヤーが有利となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "統合は、より小規模なメーカーにとって別の障壁となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、サプライヤーは新製品のエンジニアリング投資と、顧客が既存の生産設備を再認定することへの消極姿勢とのバランスを取る必要がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットアクチュエータ市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットアクチュエータ市場の規模、シェア、トレンド分析レポート：アクチュエータタイプ別（電動アクチュエータ、油圧アクチュエータ、空気圧アクチュエータ、機械式アクチュエータ、圧電アクチュエータ）、動作タイプ別（リニアアクチュエータ、ロータリーアクチュエータ、複合動作アクチュエータ）、エンドユーザー産業別（自動車、エレクトロニクス、化学、ヘルスケア、航空宇宙・防衛、食品・飲料、発電、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に33.91%の市場シェアを占め、ロボットアクチュエータ市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に33.91%の収益シェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータの種類別に見ると、2025年には電動アクチュエータ分野が48.27%と最大の市場シェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "動作タイプ別に見ると、リニアアクチュエータが2025年に46.35%と最大の市場シェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "あらゆる産業において電動アクチュエータへの移行が着実に進んでおり、メーカー各社はエネルギー効率、小型化、環境持続可能性の向上にますます注力している",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密組立、溶接、塗装、部品検査にロボット技術を採用する自動車メーカーが増えているため、高トルクで耐久性の高いアクチュエータの需要が継続的に増加しています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には北米が市場を席巻し、市場シェアは33.91%に達しました",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "多くの主要なロボットOEMおよびコンポーネントサプライヤーは、自律型および協働型ロボットの導入に対する需要の高まりに対応するため、国内で製造施設を拡張しています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカーは、急速に拡大するロボット基盤のニーズを満たすため、エネルギー効率が高く、高トルクの電動アクチュエータと回転アクチュエータの開発を目指しています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、欧州におけるカーボンニュートラル生産と循環型経済への関心の高まりは、アクチュエータメーカーによる、よりリサイクル可能で低消費電力の、グリーン産業基準に準拠したシステムの開発を促進し、同地域の市場成長をさらに後押ししています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツのロボットアクチュエータ市場の成長は、スマート製造における同国のリーダーシップと、産業用ロボットOEM、自動化ソリューションプロバイダー、部品サプライヤーからなる強力なネットワークによって推進されています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "輸入依存度の低減と機器の供給確保に重点を置いた様々な地域パートナーシップに支えられ、現地生産のアクチュエータモジュールの採用が拡大していくでしょう",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、部品メーカーとシステムインテグレーターによる現地での連携により、中小企業向けの手頃な価格の自動化ソリューションが実現し、ブラジルはラテンアメリカにおけるロボットアクチュエータ導入の重要な新興市場の一つとなっています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "[最新リリース] アクチュエータ市場調査レポート — 市場規模、シェア、傾向、主要メーカー、および見通し",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "需要と供給の分析",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータ市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― 作動方式別、アクチュエータの種類別、アプリケーション別、産業分野別、制御システム別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータ市場において、市場シェアの面で優位に立つと予想される地域はどれですか？",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータに関する当社の市場調査によると、アジア太平洋地域の市場は予測期間中に約24.9%という圧倒的な市場シェアを維持し、8.2%という最高の年平均成長率（CAGR）で成長すると予想されます",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "会社の収益シェアモデル",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "SDKI Analyticsの専門家によると、アクチュエータ市場の世界シェアに関するレポートの洞察は以下のとおりです",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、電動アクチュエータは、その効率性、精度、デジタル制御システムとの互換性、そしてロボット工学、航空宇宙、自動車、産業用オートメーションにおける幅広いアプリケーションにより、予測期間中に42%の市場シェアを占め、支配的な地位を占める見込みであります",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、当社の調査アナリストによる予測セッションでは、産業用オートメーションにおけるアクチュエータの応用が市場シェア38%を占め、スマートファクトリーやロボット工学において世界的に採用されていることから、主要な分野になると予測されています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のアクチュエータ市場は着実に成長しており、市場シェアは35%と最大規模を誇るとともに、予測期間中の年平均成長率（CAGR）は8.2%と最も高い成長率を示しています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、世界のアクチュエータ市場の成長において重要な役割を担う主要企業には、Emerson Electric Co、Honeywell International Inc、Rotork plc、Festo SE & Co.KG、Parker Hannifin Corpなどが含まれます",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "この市場調査レポートには、世界のアクチュエータ市場分析調査レポートにおける主要企業の詳細な競合分析、企業プロファイル、最近の傾向、および主要な市場戦略が含まれています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "ガス検知器市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― 技術別、ガスタイプ別、エンドユーザー産業別、及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "メカニカルシール市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析―製品タイプ別、用途別、素材別、デザイン別、及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "Emerson Electric Co、Honeywell International Inc、Rotork plc、Festo SE & Co.KG、Parker Hannifin Corpなどは、世界のアクチュエータ市場で事業を展開する主要企業の一部であります",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット用コンポーネント市場は、ヒューマノイドロボットを構成するハードウェアサブシステム、すなわちアクチュエータ、センサー、演算と制御装置、バッテリー、構造部品、およびエンドエフェクタのうち、ヒューマノイドロボットのOEMメーカーに供給されるものを対象としています",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "この技術的な違いが、部品メーカーに新たな市場機会を生み出している",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "部品メーカーにとっては、単体部品の供給から高付加価値モジュールの提供へと事業領域を拡大する機会が生まれている",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "産業分野のバイヤーは、工場への大規模導入を決定する前に、ヒューマノイドロボットメーカーと部品サプライヤーに対し、アクチュエータおよびモーションシステムのコスト削減をますます強く求めています",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーがパイロットプロジェクトから商用フリートへと移行するにつれ、トルク密度、精度、信頼性、および耐用年数を維持しつつ、各関節のコストを削減することが、調達における重要な要件となっています",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "このため、メーカーにとっては、手の構造を簡素化し、可能な限りアクチュエータの数を減らし、部品の統合を進め、低コストの伝動技術を開発する強い動機が生まれています",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、サプライヤーは、高効率モーター、低コストの精密減速機、標準化されたインターフェース、およびスケーラブルな製造プロセスにますます注力しています",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、ロボットメーカーは、部品の性能向上と同時に、製造コストの削減やエネルギー効率の改善にも取り組むことが求められる",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "日本の精密機械・電子部品メーカーに新たな成長機会――減速機、サーボ技術、センシング分野の競争力が重要に",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、これらの企業が提供するすべての製品がヒューマノイドロボット向けに採用されているわけではなく、実際の供給関係や製品適合性については個別の確認が必要である",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "また、海外ロボットメーカーとの共同開発や部品供給契約、次世代駆動モジュールへの研究開発投資も、成長市場への参入を検討するうえで重要な選択肢となる",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "こうした開発競争は、部品メーカーに対して新たな技術要件を提示している",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "特に、試作段階から商用量産段階へ移行する際には、部品の供給安定性、製造歩留まり、品質管理、コスト競争力が重要になる",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "今後、ロボットメーカーと部品サプライヤーの協業が深まり、標準化された駆動モジュールや統合制御システムの開発が進むことも考えられる",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "製造業の国内回帰、半導体投資、医療用ロボット、物流自動化が、精密電動システム、油圧システム、直線運動システムに対する多様な需要基盤を形成している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "この規模は、サーボ、減速機、モーター、エンコーダー、統合アクチュエーターアセンブリに対する国内需要を下支えしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は精密モーション関連サプライチェーンの中心であり続けている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、日本および欧州のサプライヤーは、精密部品分野で強固な地位を維持している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "多くの主要なロボットOEMおよびコンポーネントサプライヤーは、自律型および協働型ロボットの導入に対する需要の高まりに対応するため、国内で製造施設を拡張しています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国などの主要国は、自動車、電子機器、重機の製造向け高度ロボットシステムにアクチュエータを積極的に統合しています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドや東南アジア諸国も、国内の自動化需要を満たすため、ロボット製造やアクチュエータ組立への投資を増やしています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な自動化プログラムと、国内アクチュエータ生産能力への積極的な投資が、中国のロボットアクチュエータ市場の急速な成長を牽引しています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内メーカーは、急速に拡大するロボット基盤のニーズを満たすため、エネルギー効率が高く、高トルクの電動アクチュエータと回転アクチュエータの開発を目指しています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内の製造業、物流業、建設業においてロボットの導入が進む一方で、過酷な環境条件下でも動作可能な高耐久性アクチュエータへの需要が高まっています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本に本社を置くモーションコントロールメーカー、オリエンタルモーターは、精密駆動技術に注力し、小型モーションシステムの革新によってロボットアクチュエータ市場における地位を強化してきました",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて日本語レポートが入手可能",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は主に、特に日本、韓国、中国におけるロボット工学、電気自動車（EV）、スマートファクトリーへの強力な投資、クリーンエネルギー、EV普及、産業近代化プログラムに対する政府のインセンティブ、急速なインフラ開発、航空宇宙産業の拡大、自動車の電動化によるものです",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータ市場において、日本の国内企業はアクチュエータ輸出に関してどのような恩恵を受けるのですか？",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "日本の国内企業は、特にロボット工学とその関連輸出に力を入れていることから、アクチュエータ市場から大きな収益を得る可能性を秘めています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "WITSの調査報告書によると、日本は2023年に自動調整・制御機器の部品・付属品を約16.2億米ドル相当輸出しており、主な輸出先は米国、中国、タイなどだが、インドへの輸出も顕著であります",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、OEC市場見通しによると、2025年11月には、日本からの産業用ロボット（その他または含む）の輸出が前年比79.7%という驚異的な伸びを記録しました",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "このような輸出志向型の商業化における日本の成功は、国内のテクノロジー大手にとって新興市場への拡大の余地があることを示しています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "これは、複数の政府政策によってさらに後押しされている、産業用オートメーション能力における日本の世界的な地位からも見て取れます",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "その証拠として、経済産業省が2025年8月に発表した最新版のコネクテッド・インダストリーズ戦略は、アクチュエータ分野における日本企業のグローバル競争力レベルを引き上げています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "、デンマーク）、アイルランド、スイス、オーストリア、ポーランド、トルコ、ロシア、その他のヨーロッパ）、ポーランド、トルコ、ロシア、その他のヨーロッパ）、アジア太平洋（中国、インド、日本、韓国、シンガポール、インドネシア、マレーシア）",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータ市場で競合する主要な日本企業はどれですか？",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "市場見通しによると、日本のアクチュエータ市場における上位5社は、SMC Corporation、Nabtesco Corporation、Nidec Corporation、Panasonic Corporation、CKD Corporationなどであります",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場のトップ 5 プレーヤー",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータ市場 における日本のキープレーヤートップ5は誰ですか?",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査報告によると、日本のアクチュエータ市場において主要な企業としては、SMC Corporation、Nabtesco Corporation、Nidec Corporation、Panasonic Corporation、CKD Corporationなどが挙げられます",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "日本の精密機械・電子部品メーカーに新たな成長機会――減速機、サーボ技術、センシング分野の競争力が重要に",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット用コンポーネント市場の拡大は、日本の製造業にとっても重要な事業機会となる",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "日本には、精密減速機、モーション制御、産業用モーター、電子部品、センサーなどの分野で高度な技術を蓄積してきた企業が存在する",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業にとって重要なのは、既存の産業用ロボット市場で培った技術を、次世代ヒューマノイドロボットの要求仕様に適応させることである",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業にとっても、既存の精密加工技術や電子部品技術を活用し、海外ロボットメーカーとの協業を拡大することは、新たな収益基盤の構築につながる可能性がある",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本企業にとっては、産業用ロボットや精密機械、自動車、電子部品で蓄積してきたモーション制御、精密加工、センシング、モーター技術をヒューマノイド領域へ転換できるかが、中長期的な事業機会を左右すると考えられます",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "• ヒューマノイドロボットの商用化は、日本の部品サプライチェーンと製造戦略をどのように変えるのか？",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "• 日本のヒューマノイドロボットのエコシステムにおいて、どのような投資や提携の優先事項が最大の競争優位性をもたらすだろうか？",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "• 日本の既存の産業技術基盤は、世界のヒューマノイドロボット部品市場において、長期的な競争上の強みとなり得るだろうか？",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット用コンポーネント市場を考える際に注目すべきなのは、日本がすでに産業用ロボット、FA、自動車、精密機械、モーター、センサー、半導体・電子部品などの高度な製造エコシステムを形成している点です",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、日本企業が長年培ってきた製造品質や精密技術を、AI・センサー・制御ソフトウェア・次世代アクチュエーションと組み合わせることができれば、単なる部品供給を超えて、世界のヒューマノイドロボットメーカーにとって不可欠な技術基盤を構築できる可能性があります",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "https://japaninsights.jp/",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "japan Blog Sites :",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.linkedin.com/company/reportoceanjapan/",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "日本リサーチ",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "日本株現物取引",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "日本株オプション",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータ市場の主要企業には、エマーソン・エレクトリック（米国）、パーカー･ハニフィン（米国）、ABB（スイス）、ロックウェル・オートメーション（米国）、SMC（日本）が含まれます",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "（米国市場休場日は19時まで、日本祝日は14時から）",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "加入協会：日本証券業協会、一般社団法人 資産運用業協会",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "©2026 Moomoo Securities Japan Co.,Ltd. All Rights Reserved.",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "初期価格が10万ドルを上回る米国では投資回収に5年以上、人件費が低い中国では低価格の国産ロボットを導入しても10年以上を要します",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "急速な賃金上昇と国内ロボット企業のコスト削減により、ロボット価格は2035年に1万5,000ドルまで低下し、2030年代後半には投資回収期間が2年前後に収まると予想されます",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外メーカーは国防総省の安全保障審査に加え、2028年1月までに米国内の生産施設の新設・増設計画書を提出する必要があり、現地生産基盤が承認の前提条件になるとみられます",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、中国製先端ロボットの米国市場への参入が遮断されることで、Boston Dynamicsなど米国企業による国内生産の拡大と、非中国サプライチェーンへのベンダー多角化が予想されます",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "Conditional Approvalがなければ新規FCC認証および米国内での輸入・販売を制限",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボティクス技術の市場規模、2030年に2230億6000万米ドル到達見込み - CNET Japan - CNET Japan",
+    "url": "https://japan.cnet.com/release/31160554/",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to CNET Japan",
+    "url": "https://japan.cnet.com/release/31160554/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan",
+    "url": "https://japan.cnet.com/release/31160554/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan",
+    "url": "https://japan.cnet.com/release/31160554/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションはThe Business Research Companyの日本における正規代理店です",
+    "url": "https://japan.cnet.com/release/31160554/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、一方で、国内でのロボット製造、地域内での部品調達、およびコスト最適化されたロボットアーキテクチャにおけるイノベーションの加速も促進しています",
+    "url": "https://japan.cnet.com/release/31160554/",
+    "pass": 3
+   },
+   {
+    "quote": "御社のプレスリリース・イベント情報を登録するには、ZDNET Japan企業情報センターサービスへのお申し込みをいただく必要がございます",
+    "url": "https://japan.cnet.com/release/31160554/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan 注目ヘッドライン",
+    "url": "https://japan.cnet.com/release/31160554/",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "この多様化により、特定のロボット形状への依存度が低下し、移動型および固定型の自動化環境に合わせて部品を調整できるサプライヤーが有利となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は最も成長著しい地域であり、急速な工業化、労働力不足、製造業における自動化の加速を背景に、2026年から2034年にかけて年平均成長率（CAGR）11.02%で市場が拡大すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "輸入依存度の低減と機器の供給確保に重点を置いた様々な地域パートナーシップに支えられ、現地生産のアクチュエータモジュールの採用が拡大していくでしょう",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした市場拡大の背景には、製造業における労働力不足、物流施設の自動化需要、AI技術の高度化、ロボットの商用化に向けた研究開発投資の増加がある",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "製造業・物流・サービス分野への導入期待が部品市場を後押し――人手不足への対応と生産性向上が企業投資の重要テーマに",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "経営層にとって重要なのは、どの部品がロボット1台当たりの価値を大きく左右するのか、どのコンポーネントが供給制約になり得るのか、そして特定のロボットメーカーや技術方式への依存度をどこまで許容するのかを早期に判断することです",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "新たな価値を創出するための産業用オートメーションとAIへの依存度の高まり",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "米国では、継続的なインフレや人手不足による人件費負担が増す一方、ヒューマノイドの価格は規模の経済やアクチュエーターの大量生産などにより、2035年には2万5,000ドル程度まで低下し、投資回収期間は約1.5年へ急速に短縮すると予想されます",
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、ベアリングの精度や剛性が不足すれば、エンコーダが正確でも出力軸が傾き、手先位置がずれる",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "誤っている点や不足している点を当社のエンジニアにお知らせください",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー効率に関する要求と産業電化の取り組みにより、従来の油圧式および空気圧式システムへの依存度を低減しつつ、精密な制御を提供する電動式モーションシステムの利用が拡大しています",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "近年、ヒューマノイドロボットは、労働力不足や高齢化などの社会課題解決に向けて、製造・物流・介護・サービスなど多様な分野での活用が期待されており、世界的に市場の拡大が見込まれています",
+    "url": "https://www.nsk.com/jp-ja/company/news/2025/robotics-actuators/",
+    "pass": 3
+   },
+   {
+    "quote": "また、環境規制強化や労働力不足の深刻化により、省エネルギーで高効率なアクチュエーターへのニーズが高まっている点も注目に値する",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "労働力不足の深刻化や運用コストの上昇により、企業は反復的で肉体的に過酷な作業の自動化を推進しています",
+    "url": "https://www.gii.co.jp/report/smrc2160846-humanoid-robot-actuators-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "COVID-19のパンデミックは当初、製造停止、サプライチェーンの混乱、部品不足、およびロボット関連投資の遅延を通じて、ヒューマノイドロボット用アクチュエータ市場に混乱をもたらしました",
+    "url": "https://www.gii.co.jp/report/smrc2160846-humanoid-robot-actuators-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足や職場環境の変化により、各組織は自律型技術の導入を検討するようになりました",
+    "url": "https://www.gii.co.jp/report/smrc2160846-humanoid-robot-actuators-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "剛性アクチュエータは、ヒューマノイドの関節で求められることの多い、高負荷で高い精度を伴う動作や荷重に特に適していますが、構造化されていない環境への適応性の低さ、衝撃による損傷リスクを高める衝撃吸収性の不足、機械的な摩耗・疲労といった制約もあります",
+    "url": "https://www.idtechex.com/ja/research-article/trends-and-outlook-for-actuators-the-muscles-behind-humanoid-motion/35000",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関は、モーター効率基準の適用範囲に依然として不足があると指摘している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q. アクチュエータの供給不足はいつ解消されますか？",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月の中国レアアース輸出規制により、",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "輸出規制で制約",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Logistics and warehousing demand spans autonomous mobile robots, sortation, picking, and conveyance. The economic driver is not robotics adoption in isolation but the need to improve throughput and reduce dependence on difficult-to-staff manual processes. That favors actuator systems with low maintenance needs, efficient energy use, and reliable high-cycle operation.",
+    "url": "https://www.gminsights.com/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "An electric joint actuator is four supply chains in a can: a frameless torque motor, a precision reducer or roller screw, an encoder stack, and drive electronics. The reducer and screw layers are the choke points — few firms can grind them to spec, and the machine tools required are themselves a bottleneck. Teams that",
+    "url": "https://www.cervo-tech.com/blog/robot-actuator-market-statistics-2026.html",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "AI支援チューニング、組み込み型フィードバック、接続性により、中期的に平均販売価格（ASP）が上昇",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、Panasonic IndustryのMINAS A7は、AI支援チューニング、27ビットエンコーダー、4.0 kHzを超える速度応答周波数を搭載している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "手術件数の増加は、高精度ロボットシステムの導入基盤を支える一方、リハビリテーション、ラボオートメーション、支援機器によって用途の範囲が広がっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "国家発展改革委員会は、20年間にわたるAIおよびロボット投資を対象とする1,370億米ドル規模の政府誘導基金の概要を示した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "導入台数の規模と政策支援が組み合わさることで、アジア太平洋地域は需要拡大とサプライチェーン競争の双方における中心的な舞台となっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月：中国国家発展改革委員会は、20年間にわたりAIおよびロボティクスへの投資に活用する 1,370億米ドル規模の政府誘導基金の概要を示した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、小型電動アクチュエータは、ロボット支援製造、包装、精密組立ラインでの利用が増加しており、生産現場全体のオペレーションにおける俊敏性を高めています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "彼の研究は、市場動向、技術の導入状況、競争の動向、規制の動向、成長機会の評価に焦点を当て、情報に基づいた事業および投資判断を支援することを目的としています",
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "その証拠として、経済産業省が2025年8月に発表した最新版のコネクテッド・インダストリーズ戦略は、アクチュエータ分野における日本企業のグローバル競争力レベルを引き上げています",
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "pass": 3
+   },
+   {
+    "quote": "我々は戦略および成長分析の洞察を提供し、企業の目標達成に必要なデータを提供し、将来の機会の活用を支援します",
+    "url": "https://newscast.jp/smart/news/9241185",
+    "pass": 3
+   },
+   {
+    "quote": "13,000を超えるグローバルクライアントに対し、破壊的イノベーションが起こるエコシステムにおける事業成長を支援しています",
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "pass": 3
+   },
+   {
+    "quote": "1995年の創立以来、海外市場調査レポートの販売を通じて企業のグローバル展開を支援しています",
+    "url": "https://japan.cnet.com/release/31160554/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ロボットメーカーへの部品供給だけでなく、ヒューマノイド製造ラインの産業化支援、工場への導入・統合、稼働後の保守まで担う方針を示した",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "Schaefflerは、軸受、関節、駆動、センサー、スマートアクチュエータを一つのモーション・ポートフォリオとして提示し、部品販売だけでなく、診断、教育、予知保全まで含むライフサイクル支援を打ち出した",
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "pass": 3
+   },
+   {
+    "quote": "Wounded Warrior Project を支援しています",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "pass": 3
+   },
+   {
+    "quote": "産業オートメーション向けの技術士(Professional Engineer)が、時間単位のリモート対応または貴社の工場現場で支援します",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "pass": 3
+   },
+   {
+    "quote": "モータ側フィードバックでは捉えられない出力変位を測定でき、適切な補償を支援できます",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "pass": 3
+   },
+   {
+    "quote": "これは、1億3500万ユーロを超える生産投資と6800万ユーロの公的支援に相当する",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "支援対象プロジェクトには、産業用ロボット、自動航空機検査、自律型掘削機、ロボット物流、AI駆動ロボット向けの革新的なアクチュエータを含む高度なロボット部品などが含まれる",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の経済産業省は、「製造業X」構想を通じて製造業の変革を推進しており、デジタル技術とAIおよびロボット工学への省力化投資を将来の産業発展の重要な要素として位置付けている",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "彼の研究は、市場動向、技術の導入状況、競争の動向、規制の動向、成長機会の評価に焦点を当て、情報に基づいた事業および投資判断を支援することを目的としています",
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "技術情報・支援ツール",
+    "url": "https://www.nsk.com/jp-ja/company/news/2025/robotics-actuators/",
+    "pass": 3
+   },
+   {
+    "quote": "技術支援ツール・技術情報",
+    "url": "https://www.nsk.com/jp-ja/company/news/2025/robotics-actuators/",
+    "pass": 3
+   },
+   {
+    "quote": "建設系資格取得支援",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082000001/",
+    "pass": 3
+   },
+   {
+    "quote": "また、公共サービスや日常生活の支援といった分野でも、ロボットの活用が着実に広がり始めています",
+    "url": "https://www.cubemars.com/jp/how-robotic-actuators-enable-better-robot-motion.html",
+    "pass": 3
+   },
+   {
+    "quote": "公共サービスにおけるインテリジェントな支援",
+    "url": "https://www.cubemars.com/jp/how-robotic-actuators-enable-better-robot-motion.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット導入・PR支援プラットフォーム",
+    "url": "https://jet-mfg.com/category/robot-related/robot-tools/actuator/",
+    "pass": 3
+   },
+   {
+    "quote": "画像診断のテーブル位置決め、手術支援ロボットの微小動作、微量流体制御などで、電動・電磁・ピエゾが用途に応じて使い分けられます",
+    "url": "https://jet-mfg.com/category/robot-related/robot-tools/actuator/",
+    "pass": 3
+   },
+   {
+    "quote": "高精度・高信頼性に加え、教育/トレーニング支援も充実しており、装置立ち上げの伴走にも定評があります",
+    "url": "https://jet-mfg.com/category/robot-related/robot-tools/actuator/",
+    "pass": 3
+   },
+   {
+    "quote": "YH Research（YHリサーチ）は、企業のグローバル展開を支援する市場調査会社です",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート、業界分析、カスタムリサーチ、IPOコンサルティング、ビジネスプラン作成支援など、幅広いサービスを提供し、企業の成長と競争力強化をサポートします",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "市場動向の分析、競合調査、消費者行動の把握を通じ、企業が変化の激しい市場環境に迅速かつ的確に対応できるよう支援します",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "これらのアクチュエータは、電気、油圧、その他のエネルギーを精密な機械的動きに変換し、バランス保持、歩行、把持、持ち上げ、および操作を支援します",
+    "url": "https://www.gii.co.jp/report/smrc2160846-humanoid-robot-actuators-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらは、製造、物流、医療、調査、家事支援、およびサービス分野などで利用されています",
+    "url": "https://www.gii.co.jp/report/smrc2160846-humanoid-robot-actuators-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "この戦略は、補助金、税制優遇措置、研究開発資金などの多額の財政支援によって支えられており、外国技術への依存を減らし、製造業のバリューチェーンをアップグレードすることを目標としている",
+    "url": "https://www.cubemars.com/jp/china-largest-robot-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechExは、調査、コンサルタント、サブスクリプションを通して、戦略的なビジネス上の意思決定をサポートし、先進技術からの収益を支援しています",
+    "url": "https://www.idtechex.com/ja/research-article/trends-and-outlook-for-actuators-the-muscles-behind-humanoid-motion/35000",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット、電動化、デジタル化された工場構造の普及によって、精度、接続性、保守性の重要性が高まる一方、既存設備の経済性や設備投資予算の制約が、技術置換の進展を引き続き抑制している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "複雑なインフラプロジェクトやプロセス産業のプロジェクトでは、個別設計、試運転支援、サービス契約が求められることが多く、サプライヤーとの直接取引が選ばれやすい",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "在庫を地域内で確保できること、迅速な交換対応、用途に応じた支援により、正規販売代理店は標準的なアクチュエータ製品に対するメンテナンス主導の需要において、持続的な役割を担っている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドのサプライチェーン最適化を含むAI戦略を支援します",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ADAS（先進運転支援システム）とは？自動運転との違い・主要機能・選び方【2026年版】",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "renueの実装支援サービス",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "renueのAI支援実績、コンサルティングの方針や進め方をご紹介します",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI脆弱性診断支援",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Joint actuator share of BOM, high-configuration humanoid (dexterous hands + high-compute chips)",
+    "url": "https://www.cervo-tech.com/blog/robot-actuator-market-statistics-2026.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ロボット用アクチュエータ市場 サイズとシェア 2026-2035 — ロボット用アクチュエータ市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > robotics-actuators-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット用アクチュエータ 市場 サイズとシェア 2026-2035 — ロボット用アクチュエータ 市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > robotics-actuators-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット用アクチュエータ まとめ2024！スペックや価格を ... — ロボット用アクチュエータ まとめ2024！スペックや価格を ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=LpszDoUN0gs",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット用アクチュエータ 市場 サイズと シェア 2026-2035 — ロボット用アクチュエータ 市場 サイズと シェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > robotics-actuators-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット用アクチュエーター の世界市場レポート2025-2031 — ロボット用アクチュエーター の世界市場レポート2025-2031 YH Research https://www.yhresearch.co.jp > news > customized-reports",
+    "url": "https://www.yhresearch.co.jp/news/4400/customized-reports",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド ロボット用アクチュエーター 市場環境分析2026 — ヒューマノイド ロボット用アクチュエーター 市場環境分析2026 アットプレス https://www.atpress.ne.jp > ... > YH Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics actuators Market Size , Share, Trends | Forecast – 2035 — Robotics actuators Market Size , Share, Trends | Forecast – 2035 Global Market Insights Inc. https://www.gminsights.com > robotic...",
+    "url": "https://www.gminsights.com/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics and Automation Actuators Market Size & Share ... — Robotics and Automation Actuators Market Size & Share ... ResearchGate https://www.researchgate.net > 37260...",
+    "url": "https://www.researchgate.net/publication/372601302_Robotics_and_Automation_Actuators_Market_Size_Share_Report_2023-2030",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic Actuator Market to Reach $1.4B by 2032 with 17.6 ... — Robotic Actuator Market to Reach $1.4B by 2032 with 17.6 ... LinkedIn https://www.linkedin.com > posts > m...",
+    "url": "https://www.linkedin.com/posts/market-research-growth-analysis_roboticactuator-automation-industrialautomation-activity-7480987558236241921-lKP7",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics actuators Market Size, Share, Trends | Forecast – 2035 — Robotics actuators Market Size, Share, Trends | Forecast – 2035 Global Market Insights Inc. https://www.gminsights.com > robotic...",
+    "url": "https://www.gminsights.com/industry-analysis/robotics-actuators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Robot Actuator Market Statistics (2026): 50+ Data Points on ... — Robot Actuator Market Statistics (2026): 50+ Data Points on ... cervo-tech.com https://cervo-tech.com > Research",
+    "url": "https://cervo-tech.com/blog/robot-actuator-market-statistics-2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Actuators Market Size and Forecasts 2032 — Humanoid Robot Actuators Market Size and Forecasts 2032 Mobility Foresights https://mobilityforesights.com > huma...",
+    "url": "https://mobilityforesights.com/product/humanoid-robot-actuators-market",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Industrial Robot Actuator Market : From Mechanical Movement ... Industrial Robot Actuator Market : From Mechanical Movement ... LinkedIn https://www.linkedin.com > pulse > in...",
+    "url": "https://www.linkedin.com/pulse/industrial-robot-actuator-market-from-mechanical-rufgc",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/actuators-market/109344",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/9241185",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B7%A5%E5%AD%A6%E3%81%8A%E3%82%88%E3%81%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E5%88%86%E6%9E%90%E3%81%A8%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8Bcagr-722026%E5%B9%B42033%E5%B9%B4-hxtue",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4-103531",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automation-news.jp/2026/08/108161/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/74445/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%B1%B3%E5%9B%BD%E6%B5%B7%E8%BB%8D%E9%9B%BB%E6%B0%97%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E5%B8%82%E5%A0%B4-108442",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/release/31160554/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fabscene.com/new/news/mckinsey-humanoid-supply-chain-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/robotics/comments/3d13jo/what_is_the_cost_structure_of_the_new_generation/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/n77775459ddcd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cubemars.com/jp/how-many-motors-can-a-robot-have.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/actuator/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.yhresearch.co.jp/news/4400/customized-reports",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/actuators-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qyresearch.co.jp/news/10593/robotics-and-automation-actuators",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ipros.com/cg1/%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%9C%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%81%AE%E5%9B%BD%E5%86%85%E8%AA%BF%E9%81%94%E5%85%88%E3%81%A8%E4%BE%9B%E7%B5%A6%E4%BC%81%E6%A5%AD-vector-data-sciences-xgiue",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nsk.com/jp-ja/company/news/2025/robotics-actuators/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082000001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cubemars.com/jp/how-robotic-actuators-enable-better-robot-motion.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/keyword/19cb775d-0f48-449c-9996-ebd4fc2ef7c6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tuopu.com/ja/product_category/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://jet-mfg.com/category/robot-related/robot-tools/actuator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9291720",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/smrc2160846-humanoid-robot-actuators-market-forecasts-global.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cubemars.com/jp/china-largest-robot-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/research-article/trends-and-outlook-for-actuators-the-muscles-behind-humanoid-motion/35000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-actuators-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/robotics-actuators-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/global-actuators-market-59465451.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/linear-actuator-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/372601302_Robotics_and_Automation_Actuators_Market_Size_Share_Report_2023-2030",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryresearch.biz/market-reports/robotics-and-automation-actuators-market-111846",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/market-research-growth-analysis_roboticactuator-automation-industrialautomation-activity-7480987558236241921-lKP7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cervo-tech.com/blog/robot-actuator-market-statistics-2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcproto.com/new/robotics-manufacturing-cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/industrial-robot-actuator-market-from-mechanical-rufgc",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロボット用アクチュエータ 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "https://www.sdki.jp/reports/actuators-market/109344",
+    "https://newscast.jp/smart/news/9241185",
+    "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B7%A5%E5%AD%A6%E3%81%8A%E3%82%88%E3%81%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E5%88%86%E6%9E%90%E3%81%A8%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8Bcagr-722026%E5%B9%B42033%E5%B9%B4-hxtue",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4-103531",
+    "https://www.gii.co.jp/report/smrc2149712-robotic-sensors-actuators-market-forecasts-global.html",
+    "https://www.gminsights.com/ja/industry-analysis/industrial-actuators-market",
+    "https://www.atpress.ne.jp/news/4671655",
+    "https://www.futuremarketreport.com/ja/industry-report/robot-actuators-market/"
+   ]
+  },
+  {
+   "query": "ロボット用アクチュエータ 需要 見通し 2030",
+   "results": [
+    "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report",
+    "https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html",
+    "https://www.automation-news.jp/2026/08/108161/",
+    "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/74445/",
+    "https://www.fortunebusinessinsights.com/jp/%E7%B1%B3%E5%9B%BD%E6%B5%B7%E8%BB%8D%E9%9B%BB%E6%B0%97%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E5%B8%82%E5%A0%B4-108442",
+    "https://japan.cnet.com/release/31160554/",
+    "https://www.gii.co.jp/report/smrc2160846-humanoid-robot-actuators-market-forecasts-global.html",
+    "https://www.gii.co.jp/report/gmi2061475-robotics-actuators-market-opportunity-growth.html"
+   ]
+  },
+  {
+   "query": "ロボット用アクチュエータ 部品構成 コスト",
+   "results": [
+    "https://www.youtube.com/watch?v=LpszDoUN0gs",
+    "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "https://fabscene.com/new/news/mckinsey-humanoid-supply-chain-2026/",
+    "https://www.reddit.com/r/robotics/comments/3d13jo/what_is_the_cost_structure_of_the_new_generation/?tl=ja",
+    "https://note.com/kagawatomo/n/n77775459ddcd",
+    "https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7",
+    "https://www.cubemars.com/jp/how-many-motors-can-a-robot-have.html",
+    "https://robo.japanstep.jp/learn/2025/02/749/",
+    "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "https://www.boona-prototypes.com/ja/humanoid-robot-parts-machining/"
+   ]
+  },
+  {
+   "query": "ロボット用アクチュエータ シェア 主要企業",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4-103531",
+    "https://metoree.com/categories/actuator/",
+    "https://www.yhresearch.co.jp/news/4400/customized-reports",
+    "https://straitsresearch.com/jp/report/actuators-market",
+    "https://www.sdki.jp/reports/actuators-market/109344",
+    "https://www.qyresearch.co.jp/news/10593/robotics-and-automation-actuators",
+    "https://www.ipros.com/cg1/%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF/",
+    "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%9C%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%81%AE%E5%9B%BD%E5%86%85%E8%AA%BF%E9%81%94%E5%85%88%E3%81%A8%E4%BE%9B%E7%B5%A6%E4%BC%81%E6%A5%AD-vector-data-sciences-xgiue",
+    "https://yhresearch.hatenadiary.com/entry/2026/11/03/103126"
+   ]
+  },
+  {
+   "query": "ロボット用アクチュエータ 日本企業",
+   "results": [
+    "https://metoree.com/categories/actuator/",
+    "https://www.nsk.com/jp-ja/company/news/2025/robotics-actuators/",
+    "https://www.ipros.com/cg1/%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082000001/",
+    "https://www.cubemars.com/jp/how-robotic-actuators-enable-better-robot-motion.html",
+    "https://baseconnect.in/companies/keyword/19cb775d-0f48-449c-9996-ebd4fc2ef7c6",
+    "https://www.tuopu.com/ja/product_category/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC/",
+    "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%9C%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%81%AE%E5%9B%BD%E5%86%85%E8%AA%BF%E9%81%94%E5%85%88%E3%81%A8%E4%BE%9B%E7%B5%A6%E4%BC%81%E6%A5%AD-vector-data-sciences-xgiue",
+    "https://jet-mfg.com/category/robot-related/robot-tools/actuator/",
+    "https://mono.ipros.com/cg1/アクチュエータ/"
+   ]
+  },
+  {
+   "query": "ロボット用アクチュエータ 不足 OR 中国依存",
+   "results": [
+    "https://straitsresearch.com/jp/report/robotics-actuators-market",
+    "https://www.nsk.com/jp-ja/company/news/2025/robotics-actuators/",
+    "https://www.atpress.ne.jp/news/9291720",
+    "https://www.gii.co.jp/report/smrc2160846-humanoid-robot-actuators-market-forecasts-global.html",
+    "https://www.cubemars.com/jp/china-largest-robot-market.html",
+    "https://www.idtechex.com/ja/research-article/trends-and-outlook-for-actuators-the-muscles-behind-humanoid-motion/35000",
+    "https://www.gminsights.com/ja/industry-analysis/industrial-actuators-market",
+    "https://fabscene.com/new/news/mckinsey-humanoid-supply-chain-2026/",
+    "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026"
+   ]
+  },
+  {
+   "query": "robot actuator market market size CAGR 2030",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/robotics-actuators-market",
+    "https://www.marketsandmarkets.com/Market-Reports/global-actuators-market-59465451.html",
+    "https://www.grandviewresearch.com/industry-analysis/linear-actuator-market-report",
+    "https://www.researchgate.net/publication/372601302_Robotics_and_Automation_Actuators_Market_Size_Share_Report_2023-2030",
+    "https://www.industryresearch.biz/market-reports/robotics-and-automation-actuators-market-111846",
+    "https://www.linkedin.com/posts/market-research-growth-analysis_roboticactuator-automation-industrialautomation-activity-7480987558236241921-lKP7",
+    "https://www.firgelliauto.com/blogs/news/just-how-big-is-the-robotic-actuator-market-globally?srsltid=AYCX9vKPmhECnBKy9KlTzAV9Xh3hhW4HtKR38vmQrjaDOqK2o3x7iTuP",
+    "https://www.marketresearchfuture.com/reports/actuators-market-5806",
+    "https://finance.yahoo.com/news/humanoid-robot-actuator-market-reach-122200605.html",
+    "https://www.thebusinessresearchcompany.com/report/robotics-and-automation-actuators-global-market-report"
+   ]
+  },
+  {
+   "query": "robot actuator market cost breakdown bill of materials",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/robotics-actuators-market",
+    "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "https://cervo-tech.com/blog/robot-actuator-market-statistics-2026.html",
+    "https://www.industryresearch.biz/market-reports/robotics-and-automation-actuators-market-111846",
+    "https://www.jcproto.com/new/robotics-manufacturing-cost.html",
+    "https://www.linkedin.com/posts/robotswear_humanoid-robot-bom-teardown-why-actuator-activity-7505172427107131392-zOyt",
+    "https://www.uc.edu/content/dam/refresh/cont-ed-62/olli/s25-handouts/exploring%20humanoid%20robots%205.pdf",
+    "https://thehumanoid.ai/glossary/bom-costs/",
+    "https://www.strategicmarketresearch.com/market-report/robotic-automation-actuator-market",
+    "https://www.robotlar.org/en/guide/insansi-robot-maliyet-analizi"
+   ]
+  },
+  {
+   "query": "robot actuator market demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/robotics-actuators-market",
+    "https://mobilityforesights.com/product/humanoid-robot-actuators-market",
+    "https://www.astuteanalytica.com/industry-report/humanoid-robot-component-market",
+    "https://www.globenewswire.com/news-release/2026/11/03/3394436/28124/en/global-humanoid-robot-actuators-market-assessment-2026-2036-evaluates-actuator-content-per-robot-cost-down-strategies-component-supply-chains-sourcing-models-standards-patents-inve.html",
+    "https://www.marketsandmarkets.com/Market-Reports/humanoid-robot-market-99567653.html",
+    "https://www.linkedin.com/pulse/humanoid-robot-actuators-market-motion-engine-tggpf",
+    "https://www.meticulousresearch.com/product/humanoid-robot-actuators-market-6957",
+    "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+    "https://finance.yahoo.com/news/humanoid-robot-actuator-market-reach-122200605.html",
+    "https://humanoid.guide/"
+   ]
+  },
+  {
+   "query": "site:note.com ロボット用アクチュエータ",
+   "results": [
+    "https://note.com/rapanote/n/ne811b30c03f1",
+    "https://note.com/kagawatomo/n/n77775459ddcd",
+    "https://note.com/startup_now0708/n/n98db6df9c0f2",
+    "https://note.com/kenjiishida/n/n0a3c3442fa08",
+    "https://note.com/qy_research/n/n6ef714f943d4",
+    "https://note.com/better_equation/n/n42d01cfdff83",
+    "https://note.com/takuji_kawata/n/ne67558ef078c",
+    "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "https://note.com/kagawatomo/n/n2ce34d33f681",
+    "https://note.com/like_fennel8164/n/n2839ed9fa59f"
+   ]
+  },
+  {
+   "query": "site:x.com ロボット用アクチュエータ",
+   "results": [
+    "https://x.com/plastic_gear/status/1937091196410892503",
+    "https://x.com/KagawaTomo/article/2075709599702016011",
+    "https://x.com/devemin/status/1892204782028259622",
+    "https://x.com/kuwamai/status/1997595215901884467",
+    "https://x.com/KKawaharazuka/status/1830531419233489082",
+    "https://x.com/KagawaTomo/article/2105560983125307675",
+    "https://x.com/sumirenopapa/status/1937110140404306367",
+    "https://x.com/KagawaTomo/article/2105191051376148706",
+    "https://x.com/NSK_PR_JP/status/2063893793057751082",
+    "https://x.com/WatakoLab/status/1875849946278379612"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ロボット用アクチュエータ",
+   "results": [
+    "https://jp.linkedin.com/pulse/robotic-actuators-cost-demand-supply-anupam-bagchi-zjeac?tl=ja",
+    "https://jp.linkedin.com/pulse/evolution-actuator-motors-why-brushless-technology-mohammad-abdul-bqc6c?tl=ja",
+    "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%9C%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%81%AE%E5%9B%BD%E5%86%85%E8%AA%BF%E9%81%94%E5%85%88%E3%81%A8%E4%BE%9B%E7%B5%A6%E4%BC%81%E6%A5%AD-vector-data-sciences-xgiue",
+    "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%94%A8%E3%81%AE%E9%9F%B3%E5%A3%B0%E3%82%B3%E3%82%A4%E3%83%AB%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC-market-growth-analysis-regions-manufacturers-y5mqe",
+    "https://www.linkedin.com/pulse/%E3%82%BD%E3%83%8B%E3%83%BC%E3%81%AE%E8%A7%A6%E8%A6%9A%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A8%E5%8A%9B%E5%88%B6%E5%BE%A1%E5%9E%8B%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC-sony-technology-3isjc",
+    "https://jp.linkedin.com/pulse/inside-machine-what-humanoid-robot-actually-made-thomas-binh-do-33eoc?tl=ja",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E8%8C%85%E9%87%8E%E5%B8%82%EF%BC%9E%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%81%AE%E7%B5%84%E7%AB%8B%E3%83%BB%E6%A2%B1%E5%8C%85-%E6%97%A5%E6%89%95%E3%81%84ok%E3%80%90%E7%B5%8C%E9%A8%93%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%A6%E3%82%B9%E3%83%86%E3%83%83%E3%83%97up%EF%BC%81%EF%BC%81%E3%80%91%E3%82%A6%E3%83%AC%E3%82%B7%E3%82%A4%E2%98%86%E5%9C%9F%E6%97%A5%E7%A5%9D%E4%BC%91%E2%99%AA%E3%83%98%E3%82%A2%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E8%87%AA%E7%94%B1%E2%98%86-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%B6%9C%E5%90%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-4482840380",
+    "https://jp.linkedin.com/pulse/%E4%B8%AD%E7%A9%BA%E8%BB%B8%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E6%A5%AD%E7%95%8C%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6cagr-104%E3%81%A8%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-pull-point-96bbe",
+    "https://jp.linkedin.com/pulse/actuators-costliest-piece-humanoid-puzzle-micro-measurements-htvvf?tl=ja",
+    "https://at.linkedin.com/posts/takayukiyamazaki_humanoid-robot-optimus-activity-6995393436447117312-Oid2"
+   ]
+  },
+  {
+   "query": "site:facebook.com ロボット用アクチュエータ",
+   "results": [
+    "https://www.facebook.com/NikonGroupjp/posts/-ces2025-%E3%83%8B%E3%82%B3%E3%83%B3-%E3%81%8C%E6%8F%8F%E3%81%8F%E6%9C%AA%E6%9D%A5%E3%81%AE%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3-%E4%BA%BA%E9%96%93%E3%81%AE%E7%9B%AE%E3%82%92%E9%81%A5%E3%81%8B%E3%81%AB%E8%B6%85%E3%81%88%E3%82%8B%E5%8B%95%E4%BD%93%E8%A6%96%E5%8A%9B%E3%82%92%E3%82%82%E3%81%A4%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%9D%E3%81%97%E3%81%A6%E7%89%B9%E5%88%A5%E3%81%AA%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9A%E3%81%A8%E3%82%82%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C%E8%87%AA%E7%94%B1%E3%81%AA/918398073716309/?locale=sw_KE",
+    "https://www.facebook.com/NikonGroupjp/posts/2022%E5%9B%BD%E9%9A%9B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B1%95%E3%81%AB%E5%87%BA%E5%B1%95%E4%B8%AD%E6%9C%AC%E6%97%A5%E3%81%8B%E3%82%89%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B-%E5%9B%BD%E9%9A%9B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B1%95-%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AF%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E9%96%A2%E7%AF%80%E7%94%A8%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%8B/1350417768753897/?locale=ms_MY",
+    "https://www.facebook.com/Nidec.JP/posts/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%81%A8%E6%97%A5%E6%9C%AC%E9%9B%BB%E7%94%A310%E6%9C%888%E6%97%A5%E3%81%AF%E9%AA%A8%E3%81%A8%E9%96%A2%E7%AF%80%E3%81%AE%E6%97%A5%E3%81%A7%E3%81%99%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%94%A8%E3%81%AE%E9%83%A8%E5%93%81%E3%82%92%E6%A5%AD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E6%97%A5%E6%9C%AC%E9%9B%BB%E7%94%A3%E3%81%AB%E3%81%A8%E3%81%A3%E3%81%A6%E3%81%AF%E3%82%84%E3%82%8A%E9%81%8E%E3%81%94%E3%81%99%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E8%A8%98%E5%BF%B5%E6%97%A5%E3%81%A7%E3%81%99-%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A7%E8%A8%98%E5%BF%B5%E6%97%A5%E3%81%AE%E7%94%B1%E6%9D%A5%E3%81%A7%E3%81%99/1010409195973240/",
+    "https://www.facebook.com/SchaefflerJapan/posts/%E3%82%B7%E3%82%A7%E3%83%95%E3%83%A9%E3%83%BC%E8%8B%B1%E5%9B%BD%E3%83%86%E3%83%83%E3%82%AF%E4%BC%81%E6%A5%AD-humanoid%E7%A4%BE%E3%81%A8%E6%88%A6%E7%95%A5%E7%9A%84%E6%8A%80%E8%A1%93%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E7%B7%A0%E7%B5%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E6%8F%90%E6%90%BA%E3%81%AF%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E7%B2%BE%E5%AF%86%E3%81%AA%E5%8B%95%E3%81%8D%E3%82%92%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%99%E3%82%8B%E3%82%B7%E3%82%A7%E3%83%95%E3%83%A9%E3%83%BC%E3%81%AE%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5/1469523561849707/",
+    "https://www.facebook.com/sumitomodrivejapan/posts/2023-%E5%9B%BD%E9%9A%9B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B1%95%E3%81%8C%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88%E4%BD%8F%E5%8F%8B%E9%87%8D%E6%A9%9F%E6%A2%B0%E5%B7%A5%E6%A5%AD%E3%83%96%E3%83%BC%E3%82%B9e4-36%E3%81%A7%E3%81%AF%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%93%E3%81%A0%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%84%E8%87%AA%E5%BE%8B%E7%A7%BB%E5%8B%95%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88amr%E3%81%AE%E3%83%87%E3%83%A2%E3%83%B3%E3%82%B9%E3%83%88%E3%83%AC/723857329795713/",
+    "https://www.facebook.com/iimlab/videos/%E7%A0%94%E7%A9%B6%E5%AE%A4%E7%B4%B9%E4%BB%8B%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88baxter%E3%81%A8%E5%A4%A7%E7%BE%BD%E3%81%95%E3%82%93%E3%81%AE%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-%E6%9C%AC%E6%8A%95%E7%A8%BF%E3%82%88%E3%82%8A%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%84%E8%A8%AD%E5%82%99%E3%82%84%E7%A0%94%E7%A9%B6%E7%AD%89%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%99%E8%A8%98%E5%BF%B5%E3%81%99%E3%81%B9%E3%81%8D%E7%AC%AC%E4%B8%80%E5%9B%9E%E3%81%AF-baxter%E3%82%92%E7%B4%B9/2946060382272299/?locale=ms_MY",
+    "https://www.facebook.com/leeshihyuan/posts/%E5%8F%B0%E6%B9%BE%E7%8B%AC%E8%87%AA%E7%B7%A8%E7%BA%82%E5%A4%A7%E5%AD%A6%E6%95%99%E7%A7%91%E6%9B%B8%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E5%85%A5%E9%96%80%E6%A9%9F%E6%A7%8B%E7%9F%A5%E8%A6%9A%E5%88%B6%E5%BE%A1%E8%BA%AB%E4%BD%93%E6%80%A7aiintroduction-to-robotics-mechanisms-perception-con/10164425929282795/",
+    "https://www.facebook.com/sumitomodrivejapan/posts/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E5%BC%8A%E7%A4%BE%E8%A3%BD%E5%93%81%E3%81%8Chermes%E8%B3%9E%E5%8F%97%E8%B3%9E2022%E5%9B%BD%E9%9A%9B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B1%95%E3%81%A7%E9%96%8B%E7%99%BA%E5%93%81%E3%81%A8%E3%81%97%E3%81%A6%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%9F%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%B3%E3%83%AF%E3%83%B3%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BFtuaka%E3%83%84%E3%82%A2%E3%83%BC%E3%82%AB%E3%81%8C%E3%83%89%E3%82%A4%E3%83%84%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E7%B4%9A%E3%81%AE/399913145492141/",
+    "https://www.facebook.com/NikonGroupjp/videos/ニコンのアクチュエータユニットが秘める無限の可能性/315012817331461/",
+    "https://www.facebook.com/RobotisJapan/"
+   ]
+  },
+  {
+   "query": "ロボット用アクチュエータ note 社長",
+   "results": [
+    "https://note.com/kagawatomo/n/n77775459ddcd",
+    "https://note.com/startup_now0708/n/n98db6df9c0f2",
+    "https://note.com/robosapiens_/n/n8f87fd0f3daf",
+    "https://www.cubemars.com/jp/how-robotic-actuators-enable-better-robot-motion.html",
+    "https://www.nsk.com/jp-ja/company/news/2025/robotics-actuators/",
+    "https://ai-trial-note.com/%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9/",
+    "https://www.nikkan.co.jp/articles/view/786020",
+    "https://www.nedo.go.jp/news/press/AA5_101212.html",
+    "https://note.com/keity717/n/n6fdbaa79bedd",
+    "https://humanoidpress.jp/robot-actuator/"
+   ]
+  },
+  {
+   "query": "ロボット用アクチュエータ X 投稿",
+   "results": [
+    "https://www.thk.com/jp/ja/products/actuator/multi_axis/",
+    "https://npm-ht.co.jp/features/robotics",
+    "https://www.yamaha-motor.co.jp/robot/lineup/xyx/",
+    "https://www.cubemars.com/jp/how-robotic-actuators-enable-better-robot-motion.html",
+    "http://www.nihonbinary.co.jp/Products/Robot/HEBI_Movie.html",
+    "https://www.reddit.com/r/robotics/comments/1dcjqg0/best_offtheshelf_actuator_supplier_for_robotic/?tl=ja",
+    "https://www.youtube.com/watch?v=VLiuL0K1cu0",
+    "https://fa-robot-watch.com/entry/trend-of-all-in-one-actuator",
+    "https://x.com/WatakoLab/status/1875849946278379612",
+    "https://iown.city/glossary/robot-actuator/"
+   ]
+  },
+  {
+   "query": "robot actuator market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/industrial-robot-actuator-market-from-mechanical-rufgc",
+    "https://www.linkedin.com/pulse/how-lever-actuator-market-shaping-future-robotics-applications-v7shf",
+    "https://www.linkedin.com/pulse/top-7-actuators-market-share-company-technological-analysis-hubb-ktoyc",
+    "https://www.linkedin.com/pulse/robot-linear-actuator-demand-key-industries-uses-reef-reach-0g90e",
+    "https://www.linkedin.com/pulse/coil-actuator-robot-market-size-striking-cagr-97-from-2026-1yjee",
+    "https://www.linkedin.com/pulse/top-10-key-players-humanoid-robot-rotary-actuator-putaf",
+    "https://www.linkedin.com/pulse/top-robot-joint-actuator-suppliers-market-position-abyss-aimsv-uvlue",
+    "https://www.linkedin.com/pulse/motors-actuators-industrial-robots-market-size-landscape-n3qkf",
+    "https://www.linkedin.com/posts/intel-market-research_industrial-robot-actuator-market-from-mechanical-activity-7519259957842862080-5BN8",
+    "https://www.linkedin.com/pulse/role-ai-adoption-advancing-programmable-electric-actuators-idhdc"
+   ]
+  }
+ ],
+ "missing": {}
+}

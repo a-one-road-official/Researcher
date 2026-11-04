@@ -1472,540 +1472,6 @@
 - 検索結果の抜粋：
   - 「【2026年7月最新】デジタル化・ AI導入補助金 とは？ 申請 方法 ... — 【2026年7月最新】デジタル化・ AI導入補助金 とは？ 申請 方法 ... 株式会社中小企業経営支援事務所 https://www.sme-support.co.jp > 補助金コラム」（https://www.sme-support.co.jp/column/p8120/）
 
-## サイバー被害額の算定・セキュリティ予算策定支援（cyber risk quantification budget planning）
-- 文脈：セキュリティ
-- 前例・提供企業：
-  - 「AIが変革を加速させる時代において、サイバーセキュリティ事業を通じて組織の持続的な成長と変革を支援」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「サステナビリティ・倫理・グローバルな社会貢献を支援するプログラムと取り組み」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「安全なAIインフラ、アプリケーション、サービスのアドバイス、構築、統合、および運用を支援」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「セキュリティリスク診断サービス」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、11月度の単月売上高が前年同月度対比4.9%となったことを発表しました」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「2024年8月14日、株式会社KADOKAWAはサイバー攻撃の影響により2025年3月期に36億円の特別損失を計上する見通しだと」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「今回のKADOKAWAにおける事案は日本国内においても同様の大きな被害が起きうる可能性があることを示した事例の一つです」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「今回のようなサイバー攻撃を起因とした特別損失が発生した事例は他にも国内で複数公表されています」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「株式会社オリエンタルコンサルタンツホールディングス」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「株式会社エムケイシステム」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「日東製網株式会社」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「株式会社イズミ」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「株式会社KADOKAWA」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「株式会社関通」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-- 価格・単価：
-  - 「2024年8月14日、株式会社KADOKAWAはサイバー攻撃の影響により2025年3月期に36億円の特別損失を計上する見通しだと」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「また2024年11月7日に特別損失の計上を約23億円に修正したことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「2024年2月にはサイバー攻撃による全世界での被害が年間147兆円であることが」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「約7億5千万円」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「約30億円(21年9月期)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「約2億3千万円」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「約△1.8億円(24年3月期)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「約1千960万円」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「991百万円」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「中小企業のセキュリティ対策費用｜年間予算の目安と優先順位の付け方【2026年版】」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「IT予算に占める適正比率、50名規模の具体的な年間予算例、優先順位マトリクス、補助金活用で費用を半額に抑える方法まで、2026年最新の情報でまとめます」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「本記事では、2026年の最新脅威動向を踏まえ、中小企業がセキュリティ対策にかけるべき費用の目安、カテゴリ別のコスト内訳、限られた予算での優先順位の付け方、そして補助金を活用して実質負担を半額に抑える方法を解説する」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「200万〜500万円」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「20万〜75万円」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-- 責任の範囲：
-  - 「サイバー攻撃被害を受けた備品類の除却、対策強化、損害賠償、システム共同開発計画の中止に伴う損失」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「攻撃を受けてからの調査・封じ込めなどの対応、システム復旧などに必要な、主には人的コストにあたる損害が想定されます」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「影響があったと答えた企業のうち、「取引先にサービスの停止や遅延による影響が出た（36.1%）」、「個人顧客への賠償や法人取引先への補償負担の影響が出た（32.4%）」、「原因調査・復旧に関わる人件費等の経費負担があった（23.2%）」といった影響が出ています」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「サイバー攻撃の被害企業は情報の管理責任等が問われるものの、基本的には被害者です」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「観点1 Internal Control：責任は経営層個人にもおよびうる」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
-  - 「昨今のセキュリティインシデントは、企業への責任追及だけでなく、経営層個人の責任にもなりえる時代です」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
-  - 「しかし、インシデント発生時の損害額を考えれば、適切な投資は「保険」ではなく「経営基盤」そのものだ」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「インシデント発生時の想定被害額（JNSAの統計: 中小企業の情報漏洩1件あたり平均損害額は約6,000万円）」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「「インシデント発生時の想定損害額」と比較するのが最も説得力がある」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「JNSAによれば、情報漏洩1件あたりの平均損害額は約6,000万円」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「年間180万円のセキュリティ投資は、この損害を防ぐための「保険料」として説明できる」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「特に個人情報を大量に扱う企業、取引先からセキュリティ要件を求められている企業は、年間10万〜30万円の保険料で万一の損害に備えられる」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「要件、見積、責任分界、運用条件を実装前に整理し、必要な範囲の実行まで伴走します」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「売掛金・債権保証サービスの比較」（https://catalog.monex.co.jp/article/?p=69547）
-  - 「法人向け損害保険の比較」（https://catalog.monex.co.jp/article/?p=69547）
-- 経営判断への置き方：
-  - 「サイバー攻撃の被害額から考えるセキュリティ | トレンドマイクロ (JP)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「戦略・イノベーション・グローバル展開まで、経営を牽引するエグゼクティブチーム」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「サイバー攻撃の被害額から考えるセキュリティ」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「サイバー攻撃被害額から考えるセキュリティ予算」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「サイバー攻撃は経営リスクの一つ」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「また同時に、ランサムウェア攻撃の被害額算定に時間を要するため、2026年5月期第 2 四半期決算発表の延期することを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「ランサムウェアの被害と言えば、業務停止による売り上げの停止や身代金の支払いなどについて想像が及びやすいですが、再発防止などを含めて検討する場合、損失額はより大きくなります」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「いつサイバー攻撃被害が発生するかわからない現状において、組織のセキュリティリーダーはこうした企業経営に影響を及ぼしかねないコストが複数発生することを事前に想定・見積の上、サイバーリスク分析を行う必要があります」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「上記に挙げたサイバー攻撃による直接的な被害以外にも、中長期的に経営に悪影響がおよぶ危険性もあることを改めて認識ておくことが重要です」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「その際の判断軸の一つが総売上高の占めるセキュリティ予算の割合です」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「質問「セキュリティ予算が連結売上高に占める割合は何％ですか？」に対する回答の割合(N=300)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「自社のセキュリティ予算の妥当性に疑問を感じる担当者は、」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「自社売り上げに占めるセキュリティ予算の割合の把握を行い、0.5%に届いているかを確認することも1つの判断基準となる」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「また、サイバー攻撃被害が発生した際の損失を想定し、そのリスクに応じた予算を配分することも1つの手段となります」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「自社におけるランサムウェア被害が発生した場合に、こうした大規模の被害が発生することを前提として事前に予算を組んでおく、といった戦略も有効と言えるでしょう」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-- 大手・競合：
-  - 「トレンドマイクロと競合他社の比較」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、11月度の単月売上高が前年同月度対比4.9%となったことを発表しました」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「口座振替代行サービスおすすめ33選を比較｜独自調査による市場シェアと選び方、手数料を徹底解説」（https://catalog.monex.co.jp/article/?p=69547）
-  - 「昨今、大手企業を標的としたランサムウェア攻撃が相次いで発生し、事業継続に深刻な影響を及ぼす事例が増加しています」（https://assured.jp/column/security-budget-analysis）
-  - 「そこでこの度、企業のセキュリティ投資の実態と経営層の意識変化について、従業員数1,000名以上の大手企業に所属する情報システム・セキュリティ担当者を対象に調査を実施し、500名から回答を得ました」（https://assured.jp/column/security-budget-analysis）
-  - 「また、「競合他社や業界平均と比較するためのデータがない」（28.0%）という声もあり、セキュリティ投資がどれだけリスク低減に寄与したかを客観的・定量的に示せないという課題が浮き彫りになりました」（https://assured.jp/column/security-budget-analysis）
-  - 「岩井 博樹 デロイト トーマツ リスクサービス株式会社 シニアマネジャー」（https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf）
-  - 「丸山 満彦 デロイト トーマツ リスクサービス株式会社 代表取締役社長」（https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf）
-  - 「丸山 満彦 PwCコンサルティング合同会社 テクノロジーコンサルティング パートナー」（https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf）
-  - 「大手ECサイトが」（https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/）
-  - 「ただし、恐喝や脅迫が伴う場合、競合他社による攻撃が疑われる場合などは、積極的に警察に相談すべきです」（https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/）
-  - 「大手ECで15億円、地銀で8億円の被害が発生」（https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/）
-  - 「Connect with cybersecurity decision-makers in an intimate setting」（https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets）
-  - 「Cyber risk quantification and cyber risk management are closely connected, but they answer different questions. Let’s take a look.」（https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets）
-- 参入障壁：
-  - 「メルマガ登録する」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「サイバー攻撃によって生じる再発防止コストは、インシデントを経験することで、」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「メールマガジン登録」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
-  - 「企業のセキュリティ担当者が、高度な知識・経験を活かし、リスク分析結果を踏まえた上で、セキュリティ予算を申請した場合でも「それは担当者による主観的な判断では？」という質問を受けるケースがあります」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
-  - 「メルマガ登録」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
-  - 「IPAが認定したサービス」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「IPAが認定した、中小企業向けの低コストなセキュリティサービス」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「メール登録なしでこのページから記事を保存できます」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「あとからメールアドレスを登録すると、保存した記事のリストをまとめて受け取れます」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「登録だけで営業電話はしません」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「新規会員登録」（https://catalog.monex.co.jp/article/?p=69547）
-  - 「補助の対象になるのは、IPAが認定・公表する「サイバーセキュリティお助け隊サービスリスト」に掲載されたサービスの利用料（最大2年分）です」（https://catalog.monex.co.jp/article/?p=69547）
-  - 「中小企業自身のデータでも、同じIPAの実態調査で11.4%の中小企業がサイバー被害を経験したと回答しています」（https://catalog.monex.co.jp/article/?p=69547）
-  - 「都市銀行にて金融実務を経験後、暗号資産関連スタートアップの創業期に参画し、市場分析・業界調査に従事」（https://catalog.monex.co.jp/article/?p=69547）
-  - 「監査法人にてSOC1, SOC2レポート業務を経験後、インターネット企業にて内部統制構築業務を推進」（https://assured.jp/column/security-budget-analysis）
-- 回す体制：
-  - 「安全なAIインフラ、アプリケーション、サービスのアドバイス、構築、統合、および運用を支援」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「OA・ワークプレイス環境 運用監視」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
-  - 「Web・アプリケーション運用監視」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
-  - 「某食品会社では、サイバーセキュリティ攻撃によって、ファイルサーバーや財務会計のシステムが侵害され、経営者および企業にとっても大変に重要な決算報告を3ヶ月延期するという事態になりました」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
-  - 「人数・時給・業務時間・削減率から年間削減規模を概算します」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「システム種別・規模・連携先を選ぶだけで、開発費用・期間・月額運用費の概算をその場で表示します」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「5. 監視・運用」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「中小企業の脆弱性対応 月次運用テンプレ」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「この場合、初年度は250万〜350万円を見込み、2年目以降を150万〜200万円の維持費用で運用する計画が現実的」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「月次チェックリストを運用することで、投資した対策を確実に機能させ続ける」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「企画・開発・運用まで一括」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「追加費用と運用費の境界」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「AI導入前に確認すべき業務範囲、データ、セキュリティ、PoC判断、運用体制を整理するチェックリストです」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「要件、見積、責任分界、運用条件を実装前に整理し、必要な範囲の実行まで伴走します」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-  - 「運用・保守プラン」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
-- 買い手の規模：
-  - 「【ホワイトペーパー】緊急解説：相次ぐ不正アクセスによる大規模情報漏洩」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、11月度の単月売上高が前年同月度対比4.9%となったことを発表しました」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「システム停止期間の売上と再発防止を含めた復旧費用」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「それぞれの組織によってその規模は異なるものの、」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「またランサムウェアなどによって可用性が侵害される場合、業務停止期間中の本来あったはずの売上損失、サービス利用顧客に対する補償金なども発生する可能性があります」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「2024年度中小企業等実態調査結果」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「その際の判断軸の一つが総売上高の占めるセキュリティ予算の割合です」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「企業のセキュリティ投資額は連結売上高の「0.5％以上」を投資すべき」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「質問「セキュリティ予算が連結売上高に占める割合は何％ですか？」に対する回答の割合(N=300)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「自社におけるランサムウェア被害が発生した場合に、こうした大規模の被害が発生することを前提として事前に予算を組んでおく、といった戦略も有効と言えるでしょう」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
-  - 「一方で、情報セキュリティやサイバーセキュリティへの投資は、企業の売上・利益に直結せず、経営層の方には投資対効果が見えづらいことから、セキュリティ予算取りを上申する際に、どのように説明・調整すべきかを悩んでいるセキュリティ担当者が多いのも事実です」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
-  - 「セキュリティ施策は売上に直結しないがゆえ、コストととらえる経営層が一定数いることは事実です」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
-  - 「経営者の関心事の大半は、売上・利益を高めることにあるため、コストを最小限に留めようという力が働くことになります」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
-  - 「某教育会社で発生した大規模な情報漏えい事案で、最終的には取締役2人が辞任することになったケースがあります」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
-
-## 取引先からのセキュリティ要求への対応支援（supply chain security requirements support suppliers）
-- 文脈：セキュリティ
-- 前例・提供企業：
-  - 「取引先からのセキュリティ要求にどこまで対応すべき？ - 現場の「困った」に答える ガバナンス・個人情報管理の事例集」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「まずは、どこで、誰が、どの情報を、どのサービスや端末で扱っているのかを確認します」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「セキュリティリスクアセスメント／ISMS認証支援／Pマーク取得・更新支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「個人情報保護コンサルティング／プライバシーポリシー策定支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「関連するサービス」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「法務・技術の両面から個人情報保護の課題解決を支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「ISMS認証支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「ISMSの新規取得から更新・運用改善まで一貫支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「ISMAP登録支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「ISMAP登録・更新に必要な準備と対応を一貫支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「プライバシーマーク支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「Pマーク取得・更新と実効性ある運用体制づくりを支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「プライバシーポリシー策定支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「法規制と事業実態に合うプライバシーポリシーを策定支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「関連する事例」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-- 価格・単価：
-  - 「ウイルスバスター ビジネスセキュリティサービス（VBBSS）の料金はいくら？台数別（5・10・30・50・100台）の年間費用と途中追加・更新の計算方法｜マネージドXDR・TrendAI Core・他社との比較【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「ZTNA（脱VPN）の費用はいくら？人数別（10・30・50・100人）の料金試算｜Sophos Workspace Protection・Harmony SASE・Microsoft Entra Private Access・VPN装置を比較【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「標的型メール訓練・セキュリティ教育の費用はいくら？人数別（10・30・50・100人）の料金試算｜セキュリオ・MudFix・Sophos Phish Threatを比較【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「Sophos Firewall（XGS）の価格はいくら？機種別の本体・ライセンス料金と従業員10・30・50・100名の5年費用試算｜StandardとXstreamの違い【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「EDRの費用はいくら？台数別（10・30・50・100台）の料金試算｜ESET・トレンドマイクロ・Sophos・CrowdStrike・SentinelOne・Microsoft Defenderと「監視付き」の違い【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「売上と業種によって保険料が変わるのですが、売上が数千万円から1億円くらいであれば、年間数万円の保険料で入れます」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
-  - 「ビジネスメール詐欺(BEC)の被害額は1件あたり数百万円から数千万円、株式会社はてなで2026年4月に約11億円の事例も発生しました」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
-  - 「【想定事例】発注側企業からの「サプライチェーン強化に向けたセキュリティ対策評価制度」４つ星相当の対策の実施要請を踏まえ、発注側企業と取引の相手方とが円満に価格交渉を行うためのプラクティス」（https://www.meti.go.jp/policy/netsecurity/partnership2.html）
-  - 「費用は審査機関、事業規模、適用範囲、拠点数、コンサルティング利用の有無によって大きく変わり、初回審査のほか、毎年の維持審査や3年ごとの更新審査の費用もかかります」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
-  - 「主に個人情報を多く扱う業種（人材・医療・EC等）での取得が多く、費用として申請料・審査料・付与登録料などがかかり、事業者の規模によって金額が異なります（2年ごとの更新時にも費用が発生します）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
-  - 「なお、プライバシーマークの料金は2026年10月に改定されているため、最新の金額はJIPDECの公式情報で確認してください」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
-  - 「事業者の規模により異なる（2026年10月料金改定）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
-  - 「月額5〜20万円程度（専任級は月額100万円以上）」（https://leosecuretech.com/security-consulting-cost/）
-  - 「50〜150万円程度／回」（https://leosecuretech.com/security-consulting-cost/）
-  - 「50〜150万円程度」（https://leosecuretech.com/security-consulting-cost/）
-- 責任の範囲：
-  - 「本記事では、要求事項の必須・推奨や契約上の義務を確認し、対応可否や代替策を整理したうえで、現状・記録・改善予定をどのように説明するかを整理します」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「取引先要求を必須・推奨に分け、契約上の義務や未対応の影響を確認する方法」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「契約上の義務を確認する」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「責任者と関係部門を整理する」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「むしろ、管理の考え方、責任者、運用記録、改善予定を整理して伝えることが重要です」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「取引先セキュリティ要求への対応判断の責任者または確認担当者が決まっているか」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「契約上の義務を確認しているか」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「要求事項を必須と推奨に分け、契約上の義務と未対応項目の影響を確認する」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「中小企業の情報セキュリティ体制：責任者・役割・委員会の作り方」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「責任者や役割、会議体が曖昧で、何から体制を整えるべきか分からない」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「また、委託先に預けた個人情報や機密情報が漏えいすれば、発注元も顧客や関係者への説明責任を問われることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「特に中堅中小企業では、実際には一定の対策をしていても、それが文書化されていなかったり、責任者や運用ルールが明確になっていなかったりすることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「担当者はいるが責任範囲が曖昧」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「2. 誰が管理責任を持っているのか」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「次に重要なのは、セキュリティ対策や情報管理について、社内で誰が責任を持っているのかを明確にすることです」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-- 経営判断への置き方：
-  - 「経営判断が必要な項目を分ける」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「経営判断が必要な項目を分けているか」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「経営層に共有すべき判断材料」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「経済産業省「サイバーセキュリティ経営ガイドライン」」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「ー 経営層向けセキュリティ研修」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「経営層向けセキュリティ研修」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「専任のセキュリティ責任者がいない企業でも、情報システム担当者、管理部門、経営層など、実際に判断や管理を担う人はいるはずです」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「経営・ガバナンス」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「予算に限りがある場合の対策の優先順位については、」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
-  - 「限られた予算で優先すべきセキュリティ対策4選」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
-  - 「BEC詐欺の被害額と対策｜サイバー保険の補償は？」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
-  - 「ビジネスメール詐欺(BEC)の被害額は1件あたり数百万円から数千万円、株式会社はてなで2026年4月に約11億円の事例も発生しました」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
-  - 「送金被害額自体はサイバー保険の補償対象外で、犯罪保険などが必要です」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
-  - 「制度や補償内容のご説明にとどまらず、実際の事故対応や経営判断の視点から最適なリスク対策をご提案しております」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
-  - 「「中小企業の情報セキュリティ対策ガイドライン」は、全ての業種の中小企業等を対象に、情報セキュリティ対策に取り組む際の、①経営者が認識し実施すべき指針、②社内において対策を実践する際の手順や手法をまとめたものである」（https://www.meti.go.jp/policy/netsecurity/partnership2.html）
-- 大手・競合：
-  - 「近年、サプライチェーン攻撃（取引先を踏み台にしたサイバー攻撃）が急増しており、大手企業を中心に取引先へのセキュリティ対策確認が当たり前になりつつあります」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「実際に大手自動車メーカーの部品サプライヤーがランサムウェアに感染し、本社の工場が停止した事例も報告されています」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「大手企業・官公庁との取引では、ISO 27001（ISMS）やPマークの取得証明を求められることがあります」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「大手企業との取引や官公庁案件ではISMS取得を条件とするケースもありますが、多くの中小企業との取引では「セキュリティ自己チェックシートの提出」や「セキュリティポリシーの開示」で対応できます」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「近年、大手企業やグローバル企業が取引先に対してセキュリティ対策の強化を求めるケースが急増しています」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
-  - 「外資の大手パソコンメーカーと取引するにあたって、セキュリティ条項を満たしてくださいという要求があった」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
-  - 「大手企業が取引先に提出を求めるセキュリティチェックシートには、一般的に以下のような項目が含まれています」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
-  - 「外資系大手パソコンメーカーとの取引で、セキュリティ条項としてサイバー保険への加入を求められた事例があります」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
-  - 「「セキュリティチェックシートに回答してください」——取引先の大手企業からそんなメールが突然届いて、慌てた経験はありませんか」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
-  - 「近年、セキュリティが手薄な取引先・委託先を踏み台にして大手企業へ侵入する「サプライチェーン攻撃」が問題になっており、IPAの「情報セキュリティ10大脅威」でも組織向けの上位に挙げられています」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
-  - 「そのため、大手企業が取引先にセキュリティ状況を確認することは、サプライチェーン全体のリスク管理や、委託先管理の一環として重要になっています」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
-  - 「あわせて、大手コンサル会社との費用差と、中小企業が費用を抑えるポイントも紹介します」（https://leosecuretech.com/security-consulting-cost/）
-  - 「大手コンサル会社に頼むといくらか――当社との費用比較」（https://leosecuretech.com/security-consulting-cost/）
-  - 「同じ業務でも、大手コンサル会社と小規模・専業の事務所では費用水準が大きく異なります」（https://leosecuretech.com/security-consulting-cost/）
-  - 「コンサル費用の大半は人件費であり、大手ファームのシニアクラスは1日40〜60万円、独立系・小規模事務所では同等の経験者でも1日8〜25万円程度が目安です」（https://leosecuretech.com/security-consulting-cost/）
-- 参入障壁：
-  - 「担当者の経験だけで回答する」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「ISMAP登録支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「ISMAP登録・更新に必要な準備と対応を一貫支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「突然、取引先の担当者から「セキュリティ対策の状況を教えてください」「証明書類を提出してほしい」と言われて、戸惑った経験はありませんか？」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「「サイバーセキュリティお助け隊サービス」制度は、中小企業等に対するサイバー攻撃への対処として不可欠なワンパッケージのサービスを要件としてまとめ、所定の審査機関により当該要件を満たすことが確認された民間サービスについて、ＩＰＡが登録・公表する制度である」（https://www.meti.go.jp/policy/netsecurity/partnership2.html）
-  - 「（※）セキュリティプレゼンター制度は、ＩＰＡのセキュリティ対策資料等を活用して、中小企業等に対して情報セキュリティの普及啓発を行う人材を「セキュリティプレゼンター」として登録する制度」（https://www.meti.go.jp/policy/netsecurity/partnership2.html）
-  - 「「セキュリティチェックシートに回答してください」——取引先の大手企業からそんなメールが突然届いて、慌てた経験はありませんか」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
-  - 「取得している認証の登録証（ISMS・Pマークなど）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
-  - 「主に個人情報を多く扱う業種（人材・医療・EC等）での取得が多く、費用として申請料・審査料・付与登録料などがかかり、事業者の規模によって金額が異なります（2年ごとの更新時にも費用が発生します）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
-  - 「申請料・審査料・付与登録料（規模で変動）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
-  - 「申請料・審査料・付与登録料など」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
-  - 「コンサル費用の大半は人件費であり、大手ファームのシニアクラスは1日40〜60万円、独立系・小規模事務所では同等の経験者でも1日8〜25万円程度が目安です」（https://leosecuretech.com/security-consulting-cost/）
-  - 「小規模事務所は経験者が１名ないしアシスタントの２名程度で直接担当します」（https://leosecuretech.com/security-consulting-cost/）
-  - 「実際、当社自身も大手ファームから専門人材として協力依頼を受けることがあります」（https://leosecuretech.com/security-consulting-cost/）
-  - 「※当社にはCISA（Certified Information Systems Auditor）認定の専門家が在籍しています」（https://leosecuretech.com/security-consulting-cost/）
-- 回す体制：
-  - 「一方、取引先が知りたいのは個別対策の有無だけでなく、会社として判断し、運用し、改善する体制があるかです」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「取引先が知りたいのは個別対策の有無だけでなく、会社として判断し、運用し、改善する体制があるかです」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「過剰な要求をそのまま受けると運用負荷が増え、逆に必要な要求を軽視すると取引機会を失います」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「運用していても記録がなければ、取引先への説明が難しくなり、追加質問や改善要求につながります」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「むしろ、管理の考え方、責任者、運用記録、改善予定を整理して伝えることが重要です」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「たとえば、規程そのものを全文提出するのではなく、該当条文、運用フロー、実施記録の抜粋を組み合わせる方法があります」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「ISMSの新規取得から更新・運用改善まで一貫支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「Pマーク取得・更新と実効性ある運用体制づくりを支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「認証取得そのものが目的化し、工数や費用が読めない」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「バックアップは取っているだけで十分？復旧できる運用の作り方」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「認証取得後に形骸化させない年間運用」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「教育・棚卸し・点検が場当たり的で、認証取得後の運用が形骸化しそう」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「SaaS管理や退職フローの整備、運用定着までを見据えた伴走型支援を行っています」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「システム開発、保守運用、物流、コールセンター、経理・人事業務、クラウドサービス、データ処理など、多くの業務が外部の取引先や委託先との連携によって成り立っています」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「特に中堅中小企業では、実際には一定の対策をしていても、それが文書化されていなかったり、責任者や運用ルールが明確になっていなかったりすることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-- 買い手の規模：
-  - 「IPA「中小企業の情報セキュリティ対策ガイドライン」」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「中小企業の情報セキュリティ体制：責任者・役割・委員会の作り方」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
-  - 「近年、大企業や金融機関、自治体、医療機関、製造業などとの取引において、取引先からセキュリティ対策の状況を確認されるケースが増えています」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「質問項目には、情報セキュリティ規程、アクセス管理、バックアップ、ログ管理、委託先管理、インシデント報告体制、従業員教育など、幅広い内容が含まれることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「特に中堅中小企業では、実際には一定の対策をしていても、それが文書化されていなかったり、責任者や運用ルールが明確になっていなかったりすることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「しかし実際には、特に中堅中小企業において、最初から大企業並みの対策をすべて整えることは現実的ではありません」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「一方で、この制度の方向性は、中堅中小企業にとっても無関係ではありません」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
-  - 「「うちは中小企業だから関係ない」は通用しない時代です」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「大企業のシステムを直接狙うのではなく、セキュリティが手薄な中小の取引先を経由して攻撃するケースが急増しています」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「多くの中小企業間取引では、チェックシートや自己宣言書で対応可能なケースがほとんどです」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「中小企業が今すぐ取り組むべきセキュリティ対策」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「以下は、中小企業が優先的に取り組みたいセキュリティ対策です」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「フィッシングメールやビジネスメール詐欺（BEC）は、中小企業が被害を受けるサイバー攻撃の上位を占めています」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「特に中小企業向けの補助金制度は年々拡充されており、うまく活用すれば自己負担を抑えながら本格的なセキュリティ環境を整えることが可能です」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-  - 「大手企業との取引や官公庁案件ではISMS取得を条件とするケースもありますが、多くの中小企業との取引では「セキュリティ自己チェックシートの提出」や「セキュリティポリシーの開示」で対応できます」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
-
-## サイバー保険と付帯サービス（cyber insurance bundled services SME）
-- 文脈：セキュリティ
-- 前例・提供企業：
-  - 「付帯サービス例」（https://www.ishigakiservice.jp/cyber）
-  - 「【緊急開催】7/13（月）会員事業者向け「労働災害の防止 熱中症対策2026 ～安全配慮を、人が集まり定着する企業ブランドに！～」オンライン開催について【東京海上日動火災保険株式会社】」（https://www.ishigakiservice.jp/cyber）
-  - 「「標的型メール訓練サービス」やサイバー攻撃時に早期回復を支援するセキュリティソフト等をご提供可能」（https://www.ishigakiservice.jp/cyber）
-  - 「取扱商品、各保険の名称や補償内容、特約、付帯サービス例は引受保険会社によって異なりますので、保険の内容は各保険のパンフレットまたは重要事項説明書をご覧ください」（https://www.ishigakiservice.jp/cyber）
-  - 「リスク診断サービス」（https://www.ishigakiservice.jp/cyber）
-  - 「標的型メール訓練サービスの提供」（https://www.ishigakiservice.jp/cyber）
-  - 「本ウェブサイト（保険募集広告）は、商工会議所会員向け保険制度の事務管理を行う有限会社石垣サービスが日本商工会議所の経営協力により作成したものです」（https://www.ishigakiservice.jp/cyber）
-  - 「サイバーリスク保険に無料で加入できる付帯サービス3選！有料保険との違いも解説」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「サービス・料金」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「連携サービス」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「他サービスとの違い」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「月額880円で法人登記・月4回の郵便転送・郵便物の来館引取ができる起業家やフリーランスのためのバーチャルオフィスを提供しています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「株式会社ナレッジソサエティ 代表取締役 久田敦史」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「バーチャルオフィス・シェアオフィスを通して1人でも多くの方が起業・独立という夢を実現し、成功させるためのさまざまな支援をしていきたいと考えています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「【学歴】 筑波大学中退 ゴールデンゲート大学大学院卒業(Master of Accountancy) 【メディア掲載・セミナー登壇事例】 起業家にとって必要なリソースを最大限に提供するシェアオフィス 嫌われるNG行動はこれ！覚えておきたいシェアオフィスやコワーキングスペースのマナー “バーチャルオフィス” “シェアオフィス” “レンタルオフィス”どれを選んだらいいの？ 〜ナレッジソサエティ久田社長に聞いてみた 複業人事戦略会議 #2 ～週休4日制正社員！？多様な働き方が生む効果とは？～ ここでしか聞けない、創業現場のリアル(東京都中小企業診断士協会青年部主催) 起業を目指す若者へ「週休４日制」の提案 社内勉強会レポート ストリートアカデミー 久田敦史 Yahoo知恵袋 法人カード調査部 バーチャルオフィス1」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-- 価格・単価：
-  - 「約200万円」（https://www.ishigakiservice.jp/cyber）
-  - 「1,000万円」（https://www.ishigakiservice.jp/cyber）
-  - 「月額880円で法人登記・月4回の郵便転送・郵便物の来館引取ができる起業家やフリーランスのためのバーチャルオフィスを提供しています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「一例として、売上高10億円規模の企業では、条件によって年間10〜60万円程度の保険料となるケースもあります」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「1,375円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「11,000円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「33,000円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「3,300円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「6,600円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「～500万円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「150万円～」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「年間100万円」（https://canon.jp/biz/solution/bizsupport/home/lineup/security-u/insurance）
-  - 「（従業員数50名・年間売上10億円）」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
-  - 「（従業員数10名・年間売上3億円）」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
-  - 「損害賠償・訴訟費用 3,600万円」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
-- 責任の範囲：
-  - 「7/30（木）オンライン配信「労務リスク対策セミナー」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
-  - 「6/25（木）オンライン配信「企業の熱中症対策セミナー」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
-  - 「1/27（火）オンライン配信・労務リスク対策セミナー「自然災害時における企業の安全配慮の留意点～『人をまもり、事業をつなぐ』弁護士が語る労務・法務の視点からのBCP～」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
-  - 「7/31（木）オンライン配信・労務リスク対策セミナー「職場の安心を守る！不祥事対応セミナー～あなたの会社を守るための実践ガイド～」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
-  - 「7/24（水）オンライン配信セミナー「サイバー犯罪に備える基礎講座 サイバー事故に起因する、企業の労務リスク対策の留意点を徹底解説」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
-  - 「「サイバー保険制度」の創設および「情報漏えい賠償責任保険制度」からの移行について」（https://www.ishigakiservice.jp/cyber）
-  - 「外部からのサイバー攻撃（不正アクセスやウイルス感染等）や情報漏えい、またはそのおそれが生じた場合に、事業者が負う法律上の賠償責任・争訟費用の補償や、事故発生時の各種対応費用（事故調査から再発防止策策定までの費用など）を補償します」（https://www.ishigakiservice.jp/cyber）
-  - 「＜賠償責任＞」（https://www.ishigakiservice.jp/cyber）
-  - 「個人情報漏えいについての賠償金：」（https://www.ishigakiservice.jp/cyber）
-  - 「あいおいニッセイ同和損害保険」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「損害保険ジャパン」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「カードの年会費のみでサイバー攻撃やヒューマンエラーによる損害賠償責任保険が確保でき、簡易リスク診断サービス等も無償で付帯します」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「年会費のみで、情報の漏えい等に起因する最高500万円の損害賠償金および訴訟費用を補償しています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「サイバーリスク保険の対象に、損害賠償金だけでなく訴訟費用まで含まれている点が特徴です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「損害賠償費用に加え、原因調査費用や弁護士・コンサルティング会社への相談費用まで幅広く補償されるのが特長です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-- 経営判断への置き方：
-  - 「本ウェブサイト（保険募集広告）は、商工会議所会員向け保険制度の事務管理を行う有限会社石垣サービスが日本商工会議所の経営協力により作成したものです」（https://www.ishigakiservice.jp/cyber）
-  - 「企業を経営していくことはつらい面もありますが、その先にある充実感は自分自身が経営をしていて実感します」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「社内制度では週休4日制の正社員制度を導入するなどの常識にとらわれない経営を目指しています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「サイバーリスクへの対策を強化しつつ、経費精算を効率化したい中小企業の経営者におすすめです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「初年度無料の恩恵を受けつつ、手厚いサイバーリスク保険・付帯特典を利用したい経営者におすすめ」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「コストをかけずに最低限の補償を得るなら無料付帯保険、予算を確保して手厚い補償を得るなら有料保険がおすすめです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「UPSIDERカードとPRESIDENT CARDの違いを徹底比較！JALマイルや経営者特典など」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「経営者・役員のリスク」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
-  - 「※ 想定被害金額は、実際の被害額を保証するものではなく、ここで算出した項目以外にも被害が発生する可能性があります」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
-  - 「経営者の方へ」（https://www.variosecure.net/news/?p=3906）
-  - 「中小企業経営者必見｜サイバー保険の選び方・補償範囲・費用相場まで完全ガイド | サイバー保険ガイド」（https://cyber-insurance.jp/column/2169/）
-  - 「サイバー事故の被害額ガイド」（https://cyber-insurance.jp/column/2169/）
-  - 「中小企業経営者必見｜サイバー保険の選び方・補償範囲・費用相場まで完全ガイド」（https://cyber-insurance.jp/column/2169/）
-  - 「万が一に備える経営リスク対策「サイバー保険」」（https://cyber-insurance.jp/column/2169/）
-  - 「サイバー攻撃の企業への被害額は？億単位もありえる被害額｜2024年最新版を公開」（https://cyber-insurance.jp/column/2169/）
-- 大手・競合：
-  - 「東京都渋谷区道玄坂、千代田区神田神保町、広島市中区大手町にあるバーチャルオフィス1です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「■店舗一覧 バーチャルオフィス1渋谷店 東京都渋谷区道玄坂1-16-6 二葉ビル8B バーチャルオフィス1神保町店 東京都千代田区神田神保町2-10-31 IWビル1F バーチャルオフィス1広島店 広島県広島市中区大手町1-1-20 相生橋ビル7階 A号室 https://virtualoffice1.jp/」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「広島県広島市中区大手町1-1-20」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「バーチャルオフィス・シェアオフィスを通して1人でも多くの方が起業・独立という夢を実現し、成功させるためのさまざまな支援をしていきたいと考えています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「【学歴】 筑波大学中退 ゴールデンゲート大学大学院卒業(Master of Accountancy) 【メディア掲載・セミナー登壇事例】 起業家にとって必要なリソースを最大限に提供するシェアオフィス 嫌われるNG行動はこれ！覚えておきたいシェアオフィスやコワーキングスペースのマナー “バーチャルオフィス” “シェアオフィス” “レンタルオフィス”どれを選んだらいいの？ 〜ナレッジソサエティ久田社長に聞いてみた 複業人事戦略会議 #2 ～週休4日制正社員！？多様な働き方が生む効果とは？～ ここでしか聞けない、創業現場のリアル(東京都中小企業診断士協会青年部主催) 起業を目指す若者へ「週休４日制」の提案 社内勉強会レポート ストリートアカデミー 久田敦史 Yahoo知恵袋 法人カード調査部 バーチャルオフィス1」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「起業家にとって必要なリソースを最大限に提供するシェアオフィス」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「嫌われるNG行動はこれ！覚えておきたいシェアオフィスやコワーキングスペースのマナー」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「“バーチャルオフィス” “シェアオフィス” “レンタルオフィス”どれを選んだらいいの？ 〜ナレッジソサエティ久田社長に聞いてみた」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「NTTドコモビジネスの「VxGPlatform®」」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「NTTドコモビジネスの「VxGPlatform®」は、NTTコミュニケーションズ株式会社が運営するサイバーセキュリティ対策の統合プラットフォームです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「NTTドコモビジネス株式会社」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「東京海上のサイバー保険が付帯するNTTドコモビジネスの「VxGPlatform®」の導入をご検討の方は、以下のリンクよりお問い合わせください」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「【2026】山梨県のシェアオフィス一覧 おすすめシェアオフィスの比較ポイントを徹底調査」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「【2026】福井県のシェアオフィス一覧 おすすめシェアオフィスの比較ポイントを徹底調査」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「【2026】石川県のシェアオフィス一覧 おすすめシェアオフィスの比較ポイントを徹底調査」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-- 参入障壁：
-  - 「また、利用開始には専用ポータルサイトでの事前登録手続きが必要である」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「※「アメリカン・エキスプレス」はアメリカン・エキスプレスの登録商標です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「申し込み資格」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「（SAISON MILE CLUB登録でJALマイル最大1.125%還元）」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「「SAISON MILE CLUB」への登録によりJALのマイル還元率が最大1.125%になったり、プライオリティ・パスに登録できたりと、付帯特典が充実している点が魅力です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「【実保有】JCB Biz ONEの評判・口コミは？経験からわかるメリット・デメリット」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「理由1：セキュリティ投資や専門人材が不足している」（https://cyber-insurance.jp/column/2169/）
-  - 「サイバー攻撃、企業の3社に1社が被害経験【2025年 帝国データバンク調査】― 中小企業も拡大傾向」（https://cyber-insurance.jp/column/2169/）
-  - 「IT資格所有＆本記事を書いている私が担当しますので、安心してくださいね！」（https://www.mic-corporation-hd.com/post-033/）
-  - 「腰痛で労災の補償を受ける為に知っておくべき認定基準」（https://kaisya-hoken.com/cyber-insurance-sme-4375）
-  - 「あなたの怪我や病気は労災か？抑えておくべき認定基準のポイント」（https://kaisya-hoken.com/cyber-insurance-sme-4375）
-  - 「貴社のご意向に基づき、サイバー事故発生時の被害範囲の確認や原因調査および事故対応方法の策定について、経験豊富な専門事業者をご紹介するサービスです」（https://www.ms-ins.com/business/indemnity/pd-protector/）
-  - 「弊社は、様々な業種の法人にサイバー保険のご提案をしていることや、実際にサイバー攻撃を受けたお客様の事故対応なども行っており、ノウハウや経験があります」（https://safety-i.com/blog/corporate/cyber-hoken-taisaku/）
-  - 「インシデント発生時に相談窓口や専門家の紹介を受けられるサービスが付帯されている商品もあり、セキュリティの専門人材が不足しがちな中小企業にとっては心強い存在です」（https://xn--gmqp1a146dk3ad35itmj.net/cyber-casestudy/）
-  - 「T社の販売会社において、顧客の同意を得ずに個人情報を社内サービスIDの発行登録に使用していたことが判明しました」（https://cyber-insurance.jp/column/403/）
-- 回す体制：
-  - 「・かんたんクラウド（MJS）ご優待：2ヶ月無料」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「セキュリティ機器の導入から運用まで一元提供」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「各種お問い合わせ・運用代行」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「IT運用支援」（https://canon.jp/biz/solution/bizsupport/home/lineup/security-u/insurance）
-  - 「サイトは6ヶ月間閉鎖」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
-  - 「バリオセキュアは、中堅・中小企業の課題として挙げられる「セキュリティ導入・運用知識の不足」と「対応人材の不足」を解消し、サイバー攻撃から企業の重要な情報資産とビジネス環境を守るための製品・サービスを提供してきました」（https://www.variosecure.net/news/?p=3906）
-  - 「そしてこの度、中堅・中小企業では障壁が高かったゼロトラストセキュリティの導入・運用を安価で容易に実現しさらなる備えとして、新たなサービス「VarioSecure Cyber Insurance」を提供開始します」（https://www.variosecure.net/news/?p=3906）
-  - 「（イ）被保険者が所有、使用または管理するネットワークのセキュリティ運用管理を委託している会社などからの通報または報告」（https://www.variosecure.net/news/?p=3906）
-  - 「専門家が24時間365日エンドポイントセキュリティの運用・監視を行うマネージドサービスを「Vario EPP/EDR」に追加した「Vario EPS Smart Complete」の提供を開始」（https://www.variosecure.net/news/?p=3906）
-  - 「最大3オペ×3か月間 →」（https://cyber-insurance.jp/column/2169/）
-  - 「また、BPO業務や運用代行・委託業務などでクライアントの情報を預かっている企業では、情報漏えいや障害によって、委託元の業務に支障をきたし、損害賠償責任が発生する可能性もあります」（https://cyber-insurance.jp/column/2169/）
-  - 「事故が発生した場合に、被害者に対する謝罪のための見舞金費用または見舞品の購入などの費用を、被害者が法人の場合には1法人につき5万円、被害者が個人の場合には1名につき1,000円を限度に補償します」（https://www.ms-ins.com/business/indemnity/pd-protector/）
-  - 「業務停止に伴う損害の補償（診療収入の減少、紙運用の追加コストなど）」（https://xn--gmqp1a146dk3ad35itmj.net/cyber-casestudy/）
-  - 「企業型DCの導入方法を解説｜退職金制度の確認から申請手続き・運用まで」（https://xn--gmqp1a146dk3ad35itmj.net/cyber-casestudy/）
-  - 「企業型DCの仕組みを解説｜企業が導入するメリットと掛金・運用方法」（https://xn--gmqp1a146dk3ad35itmj.net/cyber-casestudy/）
-- 買い手の規模：
-  - 「得意先からメールが届き、添付ファイルを開封したところ、従業員のパソコンがウイルスに感染した」（https://www.ishigakiservice.jp/cyber）
-  - 「従業員に対して標的型メールを想定したメールを送付し、メール内のURLのクリック状況等から標的型メールへの対応状況をレポートして報告します」（https://www.ishigakiservice.jp/cyber）
-  - 「【学歴】 筑波大学中退 ゴールデンゲート大学大学院卒業(Master of Accountancy) 【メディア掲載・セミナー登壇事例】 起業家にとって必要なリソースを最大限に提供するシェアオフィス 嫌われるNG行動はこれ！覚えておきたいシェアオフィスやコワーキングスペースのマナー “バーチャルオフィス” “シェアオフィス” “レンタルオフィス”どれを選んだらいいの？ 〜ナレッジソサエティ久田社長に聞いてみた 複業人事戦略会議 #2 ～週休4日制正社員！？多様な働き方が生む効果とは？～ ここでしか聞けない、創業現場のリアル(東京都中小企業診断士協会青年部主催) 起業を目指す若者へ「週休４日制」の提案 社内勉強会レポート ストリートアカデミー 久田敦史 Yahoo知恵袋 法人カード調査部 バーチャルオフィス1」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「ここでしか聞けない、創業現場のリアル(東京都中小企業診断士協会青年部主催)」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「単独のサイバーリスク保険では、保険会社が企業の業種や売上高、補償内容などの契約条件に基づいて保険料を算出します」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「一例として、売上高10億円規模の企業では、条件によって年間10〜60万円程度の保険料となるケースもあります」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「オンライン入会限定で一般・ゴールドカードの初年度年会費が無料となり、1枚目が無料の場合は追加発行する従業員用の使用者カードも無料になる点が魅力です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「サイバーリスクへの対策を強化しつつ、経費精算を効率化したい中小企業の経営者におすすめです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「法人（主に中小企業〜中堅企業）」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「ネットワークの自動遮断やWebサイトの無害化といった技術的な入り口対策や内部対策を根本から導入し、セキュリティ対策を強化したい中小企業におすすめです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「無料付帯保険は追加費用が一切かかりませんが、有料保険は企業の売上高や業種に応じて年間数万円から数百万円の保険料がかかります」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「たとえば、有料の三井住友海上サイバープロテクターの場合、売上高10億円の製造業で年間約6〜10万円がサイバーリスク保険の相場となります」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「有料保険（製造業・売上10億円）」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「売上高や業種に応じて個別算出」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
-  - 「中小企業ソリューション」（https://canon.jp/biz/solution/bizsupport/home/lineup/security-u/insurance）
-- 検索結果の抜粋：
-  - 「中小企業のサイバー保険は「補償より付帯サービス」で選ぶ ─ 国内主要... — May 31, 2026 · 東京海上日動・AIG・Chubb・損保ジャパン・三井住友海上の中小企業向けサイバー保険を年間保険料15〜80万円のレンジで比較。補償限度額より付帯サービスと免責で選ぶ理由、設定ミス起因の事故が支払い対象になる条件、実際の支払い事例3件を解説。」（https://ai-rescue.jp/columns/sme-cyber-insurance-attached-services-and-exclusions）
-  - 「中小企業向けサイバー保険最新動向2026年10月版｜保険料相場・補償範... — Oct 21, 2026 · 2026年10月の事業環境において中小企業・個人事業主向けサイバー保険最新動向を把握し体制整備を進める取り組みは、保険料相場と主要商品の比較・補償範囲と事業規模別の選定軸・付帯サービス活用と従業員教育プランの3層が、事業継続・取引先信頼 ...」（https://securess.online/blog/2026-10-21.html）
-  - 「サイバー保険とは？3つの補償内容と補償されないもの、中小企業の備え... — サイバー保険とは、サイバー攻撃や情報漏えいで会社が負う損害に備える保険です。損害賠償・事故対応の費用・利益の損失という3つの補償内容と範囲、補償されないもの、中小企業が狙われる現状と事故でかかるお金を、目的別の記事一覧とともに解説します。」（https://hokenou.co.jp/sme/cyber/）
-  - 「中小企業向けサイバー保険5社を比較！補償内容と選び方を解説 — Oct 13, 2026 · 東京海上日動、損保ジャパン、三井住友海上、AIG損保、Chubb損害保険のサイバー保険を比較。賠償責任、事故対応費用、データ復元、事業中断などの補償内容と、中小企業が契約前に確認したいポイントを解説します。」（https://risk.pakira-izu.co.jp/2026/10/13/cyber-insurance-comparison/）
-  - 「サイバー攻撃対策は急務！中小企業・スタートアップのための効果的な... — ③付帯サービスの有無: セキュリティ診断やコンサルティングなどの付帯サービスは、リスク軽減に役立ちます。 4.効果的なセキュリティ対策：予防が最善の防御 サイバー保険は「盾」ですが、「矛」であるセキュリティ対策も重要です。」（https://karigo.net/blog/security_strategy_cyber_insurance/）
-  - 「中小企業のサイバー保険｜本当に必要な補償と国内主要5社の比較 — May 31, 2026 · 東京海上日動・AIG・Chubb・損保ジャパン・三井住友海上の中小企業向けサイバー保険を年間保険料15〜80万円のレンジで比較。補償限度額より付帯サービスと免責で選ぶ理由、設定ミス起因の事故が支払い対象になる条件、実際の支払い事例3件を解説。」（https://ai-rescue.jp/columns/sme-cyber-insurance-attached-services-and-exclusions）
-
-## セキュリティ評価制度の取得支援（security certification support SME Japan）
-- 文脈：セキュリティ
-- 前例・提供企業：
-  - 「なお、一般的にIT基盤に該当しないと考えられる製造環境等の制御（OT）システムや委託元等に提供する製品等については、サプライチェーン全体での共通化が難しいことから直接の対象とはせず、他の制度・ガイドライン等に基づき対策を行うことを想定しています」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「（5）中小企業向け支援策」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「経済産業省及び独立行政法人情報処理推進機構（IPA）では、中小企業による本制度の★3・★4取得に向けた支援策として以下の取組を進めています」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「サイバーセキュリティお助け隊サービス（新類型）」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「中小企業がSCS評価制度の★3及び★4を安価かつ簡便に取得できるよう、新たな支援策として「サイバーセキュリティお助け隊サービス」（新類型）を創設します」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「サイバーセキュリティお助け隊サービス（新類型）実証事業」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「2026年9月から、「サイバーセキュリティお助け隊サービス」（新類型）の制度設計を行うための実証事業を開始しています」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「この実証事業では、サービス提供事業者と連携して、実際に中小企業に対してSCS評価制度★3又は★4取得のためのサービスを試行的に提供します」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「その活用状況や結果を踏まえて、中小企業にとって導入しやすいサービスであること等を担保するための品質要件や価格要件などについて検討を行います」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「「サイバーセキュリティお助け隊サービス」（新類型）特設ページ」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「セキュリティ対策評価制度対応支援コンサルティング｜日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「株式会社 日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「セキュリティ対策評価制度対応支援コンサルティング」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「セキュリティ設計支援コンサルティング」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「取引先セキュリティ評価支援サービス」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-- 価格・単価：
-  - 「実はSCS★3の対応費用は、自社のセキュリティ対策の現状によって20万円から300万円まで大きく幅があります」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-  - 「本記事では、3つのパターン別に費用をシミュレーションし、コストを抑えるためのポイントも紹介します」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-  - 「パターンA：セキュリティ対策がほぼ整っている企業（20〜50万円）」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-  - 「パターンB：一部の対策は実施しているが不足がある企業（50〜150万円）」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-  - 「パターンC：セキュリティ対策がほぼゼロの企業（150〜300万円）」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-  - 「MFA全社導入：10〜30万円（設定作業費」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-  - 「アクセス制御設計（条件付きアクセス等）：20〜50万円」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-  - 「EDR導入設定：10〜20万円（ライセンス費用は月額500〜1,000円/台が別途）」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-  - 「パッチ管理体制構築：10〜20万円」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-  - 「ログ取得・保存設定：10〜30万円」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-  - 「4-2.費用と効果」（https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain）
-  - 「★5の要求事項・評価基準・評価スキーム・開始時期（検討中）／申請・登録に係る費用」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
-  - 「月額12万円〜のサポートプランで、専任のIT担当者がいない企業でも制度対応を進めることができます」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
-  - 「限られた予算・リソースを最大限に活用するため、対策を「0円でできること」「月数千円でできること」「月数万円必要なこと」の3段階に整理します」（https://netpeace.co.jp/blog/scs/scs-small-business-guide/）
-  - 「0円でできること（今すぐ始められる対策）」（https://netpeace.co.jp/blog/scs/scs-small-business-guide/）
-- 責任の範囲：
-  - 「役割、責任、権限」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「保証継続（認証維持・再評定）」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「情報漏洩リスクの低減 → 賠償金と信用失墜の回避」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-  - 「責任者の配置など情報管理の強化」（https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html）
-  - 「組織内の役割と責任が定義されている」（https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html）
-  - 「2. 役割/責任/権限」（https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html）
-  - 「（セキュリティ責任者の設置、体制構築、対応方針の策定）、」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
-  - 「責任者を明確化」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
-  - 「本チェックは公式の評価ではなく、★3の取得を保証するものでもありません」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
-  - 「情報セキュリティの責任者・担当者を文書で指定」（https://netpeace.co.jp/blog/scs/scs-small-business-guide/）
-  - 「サービス範囲と責任分界を明確にする：」（https://netpeace.co.jp/blog/scs/scs-small-business-guide/）
-  - 「これは、生成AIを使った機械翻訳が圧倒的な精度で世界中から簡単に利用できるようになったことが一因です」（https://www.mjs.co.jp/topics/lp/scs/）
-  - 「2024年6月には税理士法人および監査法人がランサムウェアによるサイバー攻撃を受け、同事務所に業務委託していた損害保険会社や銀行などが顧客の個人情報（約6.3万件以上）の漏えいのおそれを公表する事例がありました」（https://www.mjs.co.jp/topics/lp/scs/）
-  - 「・組織内の役割と責任が定まっている」（https://www.mjs.co.jp/topics/lp/scs/）
-  - 「⑤ 管理部署 情報資産の管理責任がある部署等を記入します」（https://www.mjs.co.jp/topics/lp/scs/）
-- 経営判断への置き方：
-  - 「早期の意思決定が極めて重要となるのは、選択によって必要となるリソースが大きく異なるためです」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「★4は「取引先から選ばれ続けるための強力な競争力」となる一方、外部機関による「第三者評価」や「脆弱性診断」が必須となるため、相応の予算と準備期間を要します」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「自社の立ち位置を明確にし、予算・スケジュールに余裕を持った計画を策定することが、SCS制度対応の重要なポイントとなります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「ランサムウェア被害から学ぶ教訓集 ～ 経営者のためのランサムウェア対策ハンドブック ～」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「サイバーセキュリティ経営ガイドライン Ver 3.0実践のためのプラクティス集」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「サイバーセキュリティ経営可視化ツール」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「解説2 なぜサイバーセキュリティ対策は経営課題か」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「解説3 経営者が認識すべき3原則と指示すべき重要10項目」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「プラクティス1-1 経営者がサイバーセキュリティリスクを認識するための、他社被害事例の報告」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「指示3 サイバーセキュリティ対策のための資源（予算、人材等）確保」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「プラクティス3-1 サイバーセキュリティ対策のための、予算の確保」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「プラクティス3-2 経営層やスタッフ部門等の役割に応じた、リテラシーにとどまらないセキュリティ教育実践」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「プラクティス4-1 経営への重要度や脅威の可能性を踏まえたサイバーセキュリティリスクの把握と対応」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「プラクティス4-2 『サイバーセキュリティ経営可視化ツール』を用いたリスク対策状況の把握と報告」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「悩み(1) IT部門のみで経営層のセキュリティ意識を向上させることに限界を感じている」（https://www.ipa.go.jp/security/scs/index.html）
-- 大手・競合：
-  - 「セキュリティ対策評価制度対応支援コンサルティング｜日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「株式会社 日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「日立ソリューションズの強み」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「日立ソリューションズのセキュリティ対策評価制度対応支援コンサルティング」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「日立ソリューションズの」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「さまざまな資格を有したセキュリティエキスパートやインテグレーターとしての経験など、日立ソリューションズの強みをご紹介します」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「日立グループTOP」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「近年、セキュリティ対策が強固な大手企業を直接狙うのではなく、セキュリティの不備があるサプライチェーン内の受託企業や取引先（中小企業等）を「踏み台」として侵入するサイバー攻撃が増加しています」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「制度開始に伴い、大手企業や自治体・公共調達において、調達要件や取引条件として「★3」や「★4」の登録を求める動きが順次広がると予想されます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「IPAとNTT東日本による「シン・テレワークシステム」のHTML5版の開発と提供について」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「IPAとNTT東日本による「シン・テレワークシステム」無償開放の期間延長について」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「X（Twitter）でシェアする」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-  - 「Facebookでシェアする」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-  - 「大手コンサルとの比較」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
-- 参入障壁：
-  - 「サプライチェーンのセキュリティを含めたさまざまな業種でのコンサルティング経験で培った知見やノウハウを生かして支援します」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「認定取得スコープ定義支援」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「「サプライチェーン強化に向けたセキュリティ対策評価制度に関する制度構築方針」および「★3・★4要求事項・評価基準」をもとに、どの範囲でどの認定レベルを取得したいかをヒアリング」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「要件一覧作成、認定取得レベル決定」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「ヒアリング内容を踏まえて「認定取得における要件一覧」を作成し、適用範囲および取得をめざす認定レベルを決定」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「認定取得定義とのギャップ分析」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「認定取得準備作業支援」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「さまざまな資格を有したセキュリティエキスパートやインテグレーターとしての経験など、日立ソリューションズの強みをご紹介します」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「制度開始に伴い、大手企業や自治体・公共調達において、調達要件や取引条件として「★3」や「★4」の登録を求める動きが順次広がると予想されます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「有効期間は3年で、有効期間内は1年ごとに自己評価を実施し結果を認定評価機関に提出、3年ごとの更新の際は「第三者評価」を受け、実地審査や脆弱性診断等の技術検証をクリアする必要があります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「」が登録の必須条件となるため、対応漏れが許されません」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「これまでの経験」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「情報処理技術者試験制度の見直し」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「情報処理技術者試験のアジアにおける国際協調」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「情報処理安全確保支援士（登録セキスぺ）」（https://www.ipa.go.jp/security/scs/index.html）
-- 回す体制：
-  - 「本制度は、サプライチェーンを構成する企業等のIT基盤（クラウド環境で運用するものも含む」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「（4）制度の運用体制案」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「AI推進体制・運用ルールの整備」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「【最新スケジュール】2026年度末の本格運用に向けたスケジュール」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「目指すべき要求事項や大枠の評価基準はすでに公表されているため、制度開始と同時にスムーズに運用できるよう、自社の現状把握や準備に早めに着手することが推奨されます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「2026年度末より本格運用が始まる「SCS評価制度（セキュリティ対策評価制度）」」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「2026年度末の本格運用に向け、企業は以下の4ステップで計画的に準備を進めることが推奨されます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「単に「セキュリティツールが入っているか」だけでなく、アカウント管理のルール化やインシデント体制の有無など、【技術面】と【運用・規程面】の網羅的なチェックを行う必要があります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「【Step3】対策の実装・運用定着と外部支援の活用」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「本制度の評価のポイントは、単に形だけのルールやツールを用意することではなく、日常的にセキュリティが正しく運用されていることを客観的に証明できる「証跡（アクセスログ、資産台帳、教育実施記録など）」を漏れなく蓄積・管理する体制を定着させることにあります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「自社だけでこれらの基準を正確に解釈し、実効性のある体制を構築・運用するのは容易ではありません」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「2026年度末（2027年3月頃）より★3および★4の本格運用が開始される予定となっており、直前になって慌てることのないよう、早い段階からの現状把握と準備が求められます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「失敗しないISMS運用【コンサルティング会社の選び方】」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「安全なウェブサイトの運用管理に向けての20ヶ条 〜セキュリティ対策のチェックポイント〜」（https://www.ipa.go.jp/security/scs/index.html）
-  - 「CISAが公開した制御システムの脆弱性情報（直近1ヶ月）」（https://www.ipa.go.jp/security/scs/index.html）
-- 買い手の規模：
-  - 「（5）中小企業向け支援策」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「経済産業省及び独立行政法人情報処理推進機構（IPA）では、中小企業による本制度の★3・★4取得に向けた支援策として以下の取組を進めています」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「中小企業がSCS評価制度の★3及び★4を安価かつ簡便に取得できるよう、新たな支援策として「サイバーセキュリティお助け隊サービス」（新類型）を創設します」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「この実証事業では、サービス提供事業者と連携して、実際に中小企業に対してSCS評価制度★3又は★4取得のためのサービスを試行的に提供します」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「その活用状況や結果を踏まえて、中小企業にとって導入しやすいサービスであること等を担保するための品質要件や価格要件などについて検討を行います」（https://www.meti.go.jp/policy/netsecurity/scs.html）
-  - 「お客さまの組織規模やセキュリティ対応状況などにより異なります」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
-  - 「近年、セキュリティ対策が強固な大手企業を直接狙うのではなく、セキュリティの不備があるサプライチェーン内の受託企業や取引先（中小企業等）を「踏み台」として侵入するサイバー攻撃が増加しています」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「【★1・★2】中小企業の第一歩（自己宣言）」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「中小企業の情報セキュリティ対策ガイドライン」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「★2：中小企業の情報セキュリティ対策ガイドライン付録の」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「洗い出したギャップに対して、セキュリティ管理規程の改定・策定、必要なITツールの導入、および全従業員へのセキュリティ教育といった網羅的な対策を実行します」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「自社単独でのリソースやノウハウの不足が課題となる場合は、IPAが推進する中小企業向けの」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「主に中小企業を対象に、★3・★4の取得に必要な「現状把握（評価）」と「対策支援（ツール提供等）」をワンパッケージにした新サービスが創設される予定です」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「プライバシーマーク（以下、Pマーク）取得の費用は、企業の業態や、規模などによって異なります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-  - 「防犯カメラで個人情報が漏えいする場面防犯カメラは、今では街中のいたるところに設置されていますが、犯罪の防止であったり、従業員の監視であったりという目的で設置され...」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
-- 検索結果の抜粋：
-  - 「製造業 のSCS 評価制度 3対応実践ガイド - Net Peace株式会社 — 製造業 のSCS 評価制度 3対応実践ガイド - Net Peace株式会社 Net Peace株式会社 https://netpeace.co.jp > セキュリティメディア > SCS評価制度」（https://netpeace.co.jp/blog/scs/scs-manufacturing-guide/）
-  - 「SCS評価制度の対応支援サービス14選｜★3・★4の要件と選び方・費用を比... — Sep 30, 2026 · 制度の★3・★4の要求事項や申請時期といった前提を整理したうえで、 対応支援サービスに頼める範囲・自社の状況に合う選び方・費用の実際 まで、資料請求や問い合わせの判断に使える形でまとめました。」（https://catalog.monex.co.jp/article/?p=51116）
-
 ## 大手コンサルの下請け・専門家マッチング（expert matching for consulting firms）
 - 文脈：コンサル
 - 前例・提供企業：
@@ -2416,3 +1882,537 @@
   - 「「大手 DX コンサルは 1 案件 5,000 万超で手が出ない」「単発の戦略策定で終わらず、実行まで伴走してほしい」「ROI を社内に説明できる根拠が欲しい」――そんな課題に対し、中堅企業の現実的な予算（年 200 万-2000 万）に収まる 5 タイプの DX コンサルを比較し、選定基準・失敗回避策・ROI 測定法を整理する」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
   - 「中堅企業 100 件以上の DX 支援知見から導出」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
   - 「本記事は、中堅企業向け DX コンサル 5 強の費用・サービス内容・適正シーンを比較整理し、自社に合う選び方を解説します」（https://gxo.co.jp/column/dx-consulting-cost-service-comparison）
+
+## サイバー保険と付帯サービス（cyber insurance bundled services SME）
+- 文脈：セキュリティ
+- 前例・提供企業：
+  - 「付帯サービス例」（https://www.ishigakiservice.jp/cyber）
+  - 「【緊急開催】7/13（月）会員事業者向け「労働災害の防止 熱中症対策2026 ～安全配慮を、人が集まり定着する企業ブランドに！～」オンライン開催について【東京海上日動火災保険株式会社】」（https://www.ishigakiservice.jp/cyber）
+  - 「「標的型メール訓練サービス」やサイバー攻撃時に早期回復を支援するセキュリティソフト等をご提供可能」（https://www.ishigakiservice.jp/cyber）
+  - 「取扱商品、各保険の名称や補償内容、特約、付帯サービス例は引受保険会社によって異なりますので、保険の内容は各保険のパンフレットまたは重要事項説明書をご覧ください」（https://www.ishigakiservice.jp/cyber）
+  - 「リスク診断サービス」（https://www.ishigakiservice.jp/cyber）
+  - 「標的型メール訓練サービスの提供」（https://www.ishigakiservice.jp/cyber）
+  - 「本ウェブサイト（保険募集広告）は、商工会議所会員向け保険制度の事務管理を行う有限会社石垣サービスが日本商工会議所の経営協力により作成したものです」（https://www.ishigakiservice.jp/cyber）
+  - 「サイバーリスク保険に無料で加入できる付帯サービス3選！有料保険との違いも解説」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「サービス・料金」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「連携サービス」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「他サービスとの違い」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「月額880円で法人登記・月4回の郵便転送・郵便物の来館引取ができる起業家やフリーランスのためのバーチャルオフィスを提供しています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「株式会社ナレッジソサエティ 代表取締役 久田敦史」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「バーチャルオフィス・シェアオフィスを通して1人でも多くの方が起業・独立という夢を実現し、成功させるためのさまざまな支援をしていきたいと考えています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「【学歴】 筑波大学中退 ゴールデンゲート大学大学院卒業(Master of Accountancy) 【メディア掲載・セミナー登壇事例】 起業家にとって必要なリソースを最大限に提供するシェアオフィス 嫌われるNG行動はこれ！覚えておきたいシェアオフィスやコワーキングスペースのマナー “バーチャルオフィス” “シェアオフィス” “レンタルオフィス”どれを選んだらいいの？ 〜ナレッジソサエティ久田社長に聞いてみた 複業人事戦略会議 #2 ～週休4日制正社員！？多様な働き方が生む効果とは？～ ここでしか聞けない、創業現場のリアル(東京都中小企業診断士協会青年部主催) 起業を目指す若者へ「週休４日制」の提案 社内勉強会レポート ストリートアカデミー 久田敦史 Yahoo知恵袋 法人カード調査部 バーチャルオフィス1」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+- 価格・単価：
+  - 「約200万円」（https://www.ishigakiservice.jp/cyber）
+  - 「1,000万円」（https://www.ishigakiservice.jp/cyber）
+  - 「月額880円で法人登記・月4回の郵便転送・郵便物の来館引取ができる起業家やフリーランスのためのバーチャルオフィスを提供しています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「一例として、売上高10億円規模の企業では、条件によって年間10〜60万円程度の保険料となるケースもあります」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「1,375円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「11,000円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「33,000円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「3,300円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「6,600円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「～500万円」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「150万円～」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「年間100万円」（https://canon.jp/biz/solution/bizsupport/home/lineup/security-u/insurance）
+  - 「（従業員数50名・年間売上10億円）」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
+  - 「（従業員数10名・年間売上3億円）」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
+  - 「損害賠償・訴訟費用 3,600万円」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
+- 責任の範囲：
+  - 「7/30（木）オンライン配信「労務リスク対策セミナー」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
+  - 「6/25（木）オンライン配信「企業の熱中症対策セミナー」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
+  - 「1/27（火）オンライン配信・労務リスク対策セミナー「自然災害時における企業の安全配慮の留意点～『人をまもり、事業をつなぐ』弁護士が語る労務・法務の視点からのBCP～」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
+  - 「7/31（木）オンライン配信・労務リスク対策セミナー「職場の安心を守る！不祥事対応セミナー～あなたの会社を守るための実践ガイド～」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
+  - 「7/24（水）オンライン配信セミナー「サイバー犯罪に備える基礎講座 サイバー事故に起因する、企業の労務リスク対策の留意点を徹底解説」を開催【あいおいニッセイ同和損害保険（株）】」（https://www.ishigakiservice.jp/cyber）
+  - 「「サイバー保険制度」の創設および「情報漏えい賠償責任保険制度」からの移行について」（https://www.ishigakiservice.jp/cyber）
+  - 「外部からのサイバー攻撃（不正アクセスやウイルス感染等）や情報漏えい、またはそのおそれが生じた場合に、事業者が負う法律上の賠償責任・争訟費用の補償や、事故発生時の各種対応費用（事故調査から再発防止策策定までの費用など）を補償します」（https://www.ishigakiservice.jp/cyber）
+  - 「＜賠償責任＞」（https://www.ishigakiservice.jp/cyber）
+  - 「個人情報漏えいについての賠償金：」（https://www.ishigakiservice.jp/cyber）
+  - 「あいおいニッセイ同和損害保険」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「損害保険ジャパン」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「カードの年会費のみでサイバー攻撃やヒューマンエラーによる損害賠償責任保険が確保でき、簡易リスク診断サービス等も無償で付帯します」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「年会費のみで、情報の漏えい等に起因する最高500万円の損害賠償金および訴訟費用を補償しています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「サイバーリスク保険の対象に、損害賠償金だけでなく訴訟費用まで含まれている点が特徴です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「損害賠償費用に加え、原因調査費用や弁護士・コンサルティング会社への相談費用まで幅広く補償されるのが特長です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+- 経営判断への置き方：
+  - 「本ウェブサイト（保険募集広告）は、商工会議所会員向け保険制度の事務管理を行う有限会社石垣サービスが日本商工会議所の経営協力により作成したものです」（https://www.ishigakiservice.jp/cyber）
+  - 「企業を経営していくことはつらい面もありますが、その先にある充実感は自分自身が経営をしていて実感します」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「社内制度では週休4日制の正社員制度を導入するなどの常識にとらわれない経営を目指しています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「サイバーリスクへの対策を強化しつつ、経費精算を効率化したい中小企業の経営者におすすめです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「初年度無料の恩恵を受けつつ、手厚いサイバーリスク保険・付帯特典を利用したい経営者におすすめ」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「コストをかけずに最低限の補償を得るなら無料付帯保険、予算を確保して手厚い補償を得るなら有料保険がおすすめです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「UPSIDERカードとPRESIDENT CARDの違いを徹底比較！JALマイルや経営者特典など」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「経営者・役員のリスク」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
+  - 「※ 想定被害金額は、実際の被害額を保証するものではなく、ここで算出した項目以外にも被害が発生する可能性があります」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
+  - 「経営者の方へ」（https://www.variosecure.net/news/?p=3906）
+  - 「中小企業経営者必見｜サイバー保険の選び方・補償範囲・費用相場まで完全ガイド | サイバー保険ガイド」（https://cyber-insurance.jp/column/2169/）
+  - 「サイバー事故の被害額ガイド」（https://cyber-insurance.jp/column/2169/）
+  - 「中小企業経営者必見｜サイバー保険の選び方・補償範囲・費用相場まで完全ガイド」（https://cyber-insurance.jp/column/2169/）
+  - 「万が一に備える経営リスク対策「サイバー保険」」（https://cyber-insurance.jp/column/2169/）
+  - 「サイバー攻撃の企業への被害額は？億単位もありえる被害額｜2024年最新版を公開」（https://cyber-insurance.jp/column/2169/）
+- 大手・競合：
+  - 「東京都渋谷区道玄坂、千代田区神田神保町、広島市中区大手町にあるバーチャルオフィス1です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「■店舗一覧 バーチャルオフィス1渋谷店 東京都渋谷区道玄坂1-16-6 二葉ビル8B バーチャルオフィス1神保町店 東京都千代田区神田神保町2-10-31 IWビル1F バーチャルオフィス1広島店 広島県広島市中区大手町1-1-20 相生橋ビル7階 A号室 https://virtualoffice1.jp/」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「広島県広島市中区大手町1-1-20」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「バーチャルオフィス・シェアオフィスを通して1人でも多くの方が起業・独立という夢を実現し、成功させるためのさまざまな支援をしていきたいと考えています」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「【学歴】 筑波大学中退 ゴールデンゲート大学大学院卒業(Master of Accountancy) 【メディア掲載・セミナー登壇事例】 起業家にとって必要なリソースを最大限に提供するシェアオフィス 嫌われるNG行動はこれ！覚えておきたいシェアオフィスやコワーキングスペースのマナー “バーチャルオフィス” “シェアオフィス” “レンタルオフィス”どれを選んだらいいの？ 〜ナレッジソサエティ久田社長に聞いてみた 複業人事戦略会議 #2 ～週休4日制正社員！？多様な働き方が生む効果とは？～ ここでしか聞けない、創業現場のリアル(東京都中小企業診断士協会青年部主催) 起業を目指す若者へ「週休４日制」の提案 社内勉強会レポート ストリートアカデミー 久田敦史 Yahoo知恵袋 法人カード調査部 バーチャルオフィス1」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「起業家にとって必要なリソースを最大限に提供するシェアオフィス」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「嫌われるNG行動はこれ！覚えておきたいシェアオフィスやコワーキングスペースのマナー」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「“バーチャルオフィス” “シェアオフィス” “レンタルオフィス”どれを選んだらいいの？ 〜ナレッジソサエティ久田社長に聞いてみた」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「NTTドコモビジネスの「VxGPlatform®」」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「NTTドコモビジネスの「VxGPlatform®」は、NTTコミュニケーションズ株式会社が運営するサイバーセキュリティ対策の統合プラットフォームです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「NTTドコモビジネス株式会社」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「東京海上のサイバー保険が付帯するNTTドコモビジネスの「VxGPlatform®」の導入をご検討の方は、以下のリンクよりお問い合わせください」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「【2026】山梨県のシェアオフィス一覧 おすすめシェアオフィスの比較ポイントを徹底調査」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「【2026】福井県のシェアオフィス一覧 おすすめシェアオフィスの比較ポイントを徹底調査」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「【2026】石川県のシェアオフィス一覧 おすすめシェアオフィスの比較ポイントを徹底調査」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+- 参入障壁：
+  - 「また、利用開始には専用ポータルサイトでの事前登録手続きが必要である」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「※「アメリカン・エキスプレス」はアメリカン・エキスプレスの登録商標です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「申し込み資格」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「（SAISON MILE CLUB登録でJALマイル最大1.125%還元）」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「「SAISON MILE CLUB」への登録によりJALのマイル還元率が最大1.125%になったり、プライオリティ・パスに登録できたりと、付帯特典が充実している点が魅力です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「【実保有】JCB Biz ONEの評判・口コミは？経験からわかるメリット・デメリット」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「理由1：セキュリティ投資や専門人材が不足している」（https://cyber-insurance.jp/column/2169/）
+  - 「サイバー攻撃、企業の3社に1社が被害経験【2025年 帝国データバンク調査】― 中小企業も拡大傾向」（https://cyber-insurance.jp/column/2169/）
+  - 「IT資格所有＆本記事を書いている私が担当しますので、安心してくださいね！」（https://www.mic-corporation-hd.com/post-033/）
+  - 「腰痛で労災の補償を受ける為に知っておくべき認定基準」（https://kaisya-hoken.com/cyber-insurance-sme-4375）
+  - 「あなたの怪我や病気は労災か？抑えておくべき認定基準のポイント」（https://kaisya-hoken.com/cyber-insurance-sme-4375）
+  - 「貴社のご意向に基づき、サイバー事故発生時の被害範囲の確認や原因調査および事故対応方法の策定について、経験豊富な専門事業者をご紹介するサービスです」（https://www.ms-ins.com/business/indemnity/pd-protector/）
+  - 「弊社は、様々な業種の法人にサイバー保険のご提案をしていることや、実際にサイバー攻撃を受けたお客様の事故対応なども行っており、ノウハウや経験があります」（https://safety-i.com/blog/corporate/cyber-hoken-taisaku/）
+  - 「インシデント発生時に相談窓口や専門家の紹介を受けられるサービスが付帯されている商品もあり、セキュリティの専門人材が不足しがちな中小企業にとっては心強い存在です」（https://xn--gmqp1a146dk3ad35itmj.net/cyber-casestudy/）
+  - 「T社の販売会社において、顧客の同意を得ずに個人情報を社内サービスIDの発行登録に使用していたことが判明しました」（https://cyber-insurance.jp/column/403/）
+- 回す体制：
+  - 「・かんたんクラウド（MJS）ご優待：2ヶ月無料」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「セキュリティ機器の導入から運用まで一元提供」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「各種お問い合わせ・運用代行」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「IT運用支援」（https://canon.jp/biz/solution/bizsupport/home/lineup/security-u/insurance）
+  - 「サイトは6ヶ月間閉鎖」（https://www.sonpo.or.jp/sme_insurance/cyber-hoken/）
+  - 「バリオセキュアは、中堅・中小企業の課題として挙げられる「セキュリティ導入・運用知識の不足」と「対応人材の不足」を解消し、サイバー攻撃から企業の重要な情報資産とビジネス環境を守るための製品・サービスを提供してきました」（https://www.variosecure.net/news/?p=3906）
+  - 「そしてこの度、中堅・中小企業では障壁が高かったゼロトラストセキュリティの導入・運用を安価で容易に実現しさらなる備えとして、新たなサービス「VarioSecure Cyber Insurance」を提供開始します」（https://www.variosecure.net/news/?p=3906）
+  - 「（イ）被保険者が所有、使用または管理するネットワークのセキュリティ運用管理を委託している会社などからの通報または報告」（https://www.variosecure.net/news/?p=3906）
+  - 「専門家が24時間365日エンドポイントセキュリティの運用・監視を行うマネージドサービスを「Vario EPP/EDR」に追加した「Vario EPS Smart Complete」の提供を開始」（https://www.variosecure.net/news/?p=3906）
+  - 「最大3オペ×3か月間 →」（https://cyber-insurance.jp/column/2169/）
+  - 「また、BPO業務や運用代行・委託業務などでクライアントの情報を預かっている企業では、情報漏えいや障害によって、委託元の業務に支障をきたし、損害賠償責任が発生する可能性もあります」（https://cyber-insurance.jp/column/2169/）
+  - 「事故が発生した場合に、被害者に対する謝罪のための見舞金費用または見舞品の購入などの費用を、被害者が法人の場合には1法人につき5万円、被害者が個人の場合には1名につき1,000円を限度に補償します」（https://www.ms-ins.com/business/indemnity/pd-protector/）
+  - 「業務停止に伴う損害の補償（診療収入の減少、紙運用の追加コストなど）」（https://xn--gmqp1a146dk3ad35itmj.net/cyber-casestudy/）
+  - 「企業型DCの導入方法を解説｜退職金制度の確認から申請手続き・運用まで」（https://xn--gmqp1a146dk3ad35itmj.net/cyber-casestudy/）
+  - 「企業型DCの仕組みを解説｜企業が導入するメリットと掛金・運用方法」（https://xn--gmqp1a146dk3ad35itmj.net/cyber-casestudy/）
+- 買い手の規模：
+  - 「得意先からメールが届き、添付ファイルを開封したところ、従業員のパソコンがウイルスに感染した」（https://www.ishigakiservice.jp/cyber）
+  - 「従業員に対して標的型メールを想定したメールを送付し、メール内のURLのクリック状況等から標的型メールへの対応状況をレポートして報告します」（https://www.ishigakiservice.jp/cyber）
+  - 「【学歴】 筑波大学中退 ゴールデンゲート大学大学院卒業(Master of Accountancy) 【メディア掲載・セミナー登壇事例】 起業家にとって必要なリソースを最大限に提供するシェアオフィス 嫌われるNG行動はこれ！覚えておきたいシェアオフィスやコワーキングスペースのマナー “バーチャルオフィス” “シェアオフィス” “レンタルオフィス”どれを選んだらいいの？ 〜ナレッジソサエティ久田社長に聞いてみた 複業人事戦略会議 #2 ～週休4日制正社員！？多様な働き方が生む効果とは？～ ここでしか聞けない、創業現場のリアル(東京都中小企業診断士協会青年部主催) 起業を目指す若者へ「週休４日制」の提案 社内勉強会レポート ストリートアカデミー 久田敦史 Yahoo知恵袋 法人カード調査部 バーチャルオフィス1」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「ここでしか聞けない、創業現場のリアル(東京都中小企業診断士協会青年部主催)」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「単独のサイバーリスク保険では、保険会社が企業の業種や売上高、補償内容などの契約条件に基づいて保険料を算出します」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「一例として、売上高10億円規模の企業では、条件によって年間10〜60万円程度の保険料となるケースもあります」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「オンライン入会限定で一般・ゴールドカードの初年度年会費が無料となり、1枚目が無料の場合は追加発行する従業員用の使用者カードも無料になる点が魅力です」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「サイバーリスクへの対策を強化しつつ、経費精算を効率化したい中小企業の経営者におすすめです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「法人（主に中小企業〜中堅企業）」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「ネットワークの自動遮断やWebサイトの無害化といった技術的な入り口対策や内部対策を根本から導入し、セキュリティ対策を強化したい中小企業におすすめです」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「無料付帯保険は追加費用が一切かかりませんが、有料保険は企業の売上高や業種に応じて年間数万円から数百万円の保険料がかかります」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「たとえば、有料の三井住友海上サイバープロテクターの場合、売上高10億円の製造業で年間約6〜10万円がサイバーリスク保険の相場となります」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「有料保険（製造業・売上10億円）」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「売上高や業種に応じて個別算出」（https://virtualoffice1.jp/kigyo_blog/cyber-risk-insurance-free/）
+  - 「中小企業ソリューション」（https://canon.jp/biz/solution/bizsupport/home/lineup/security-u/insurance）
+- 検索結果の抜粋：
+  - 「中小企業のサイバー保険は「補償より付帯サービス」で選ぶ ─ 国内主要... — May 31, 2026 · 東京海上日動・AIG・Chubb・損保ジャパン・三井住友海上の中小企業向けサイバー保険を年間保険料15〜80万円のレンジで比較。補償限度額より付帯サービスと免責で選ぶ理由、設定ミス起因の事故が支払い対象になる条件、実際の支払い事例3件を解説。」（https://ai-rescue.jp/columns/sme-cyber-insurance-attached-services-and-exclusions）
+  - 「中小企業向けサイバー保険最新動向2026年10月版｜保険料相場・補償範... — Oct 21, 2026 · 2026年10月の事業環境において中小企業・個人事業主向けサイバー保険最新動向を把握し体制整備を進める取り組みは、保険料相場と主要商品の比較・補償範囲と事業規模別の選定軸・付帯サービス活用と従業員教育プランの3層が、事業継続・取引先信頼 ...」（https://securess.online/blog/2026-10-21.html）
+  - 「サイバー保険とは？3つの補償内容と補償されないもの、中小企業の備え... — サイバー保険とは、サイバー攻撃や情報漏えいで会社が負う損害に備える保険です。損害賠償・事故対応の費用・利益の損失という3つの補償内容と範囲、補償されないもの、中小企業が狙われる現状と事故でかかるお金を、目的別の記事一覧とともに解説します。」（https://hokenou.co.jp/sme/cyber/）
+  - 「中小企業向けサイバー保険5社を比較！補償内容と選び方を解説 — Oct 13, 2026 · 東京海上日動、損保ジャパン、三井住友海上、AIG損保、Chubb損害保険のサイバー保険を比較。賠償責任、事故対応費用、データ復元、事業中断などの補償内容と、中小企業が契約前に確認したいポイントを解説します。」（https://risk.pakira-izu.co.jp/2026/10/13/cyber-insurance-comparison/）
+  - 「サイバー攻撃対策は急務！中小企業・スタートアップのための効果的な... — ③付帯サービスの有無: セキュリティ診断やコンサルティングなどの付帯サービスは、リスク軽減に役立ちます。 4.効果的なセキュリティ対策：予防が最善の防御 サイバー保険は「盾」ですが、「矛」であるセキュリティ対策も重要です。」（https://karigo.net/blog/security_strategy_cyber_insurance/）
+  - 「中小企業のサイバー保険｜本当に必要な補償と国内主要5社の比較 — May 31, 2026 · 東京海上日動・AIG・Chubb・損保ジャパン・三井住友海上の中小企業向けサイバー保険を年間保険料15〜80万円のレンジで比較。補償限度額より付帯サービスと免責で選ぶ理由、設定ミス起因の事故が支払い対象になる条件、実際の支払い事例3件を解説。」（https://ai-rescue.jp/columns/sme-cyber-insurance-attached-services-and-exclusions）
+
+## サイバー被害額の算定・セキュリティ予算策定支援（cyber risk quantification budget planning）
+- 文脈：セキュリティ
+- 前例・提供企業：
+  - 「AIが変革を加速させる時代において、サイバーセキュリティ事業を通じて組織の持続的な成長と変革を支援」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「サステナビリティ・倫理・グローバルな社会貢献を支援するプログラムと取り組み」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「安全なAIインフラ、アプリケーション、サービスのアドバイス、構築、統合、および運用を支援」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「セキュリティリスク診断サービス」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、11月度の単月売上高が前年同月度対比4.9%となったことを発表しました」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「2024年8月14日、株式会社KADOKAWAはサイバー攻撃の影響により2025年3月期に36億円の特別損失を計上する見通しだと」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「今回のKADOKAWAにおける事案は日本国内においても同様の大きな被害が起きうる可能性があることを示した事例の一つです」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「今回のようなサイバー攻撃を起因とした特別損失が発生した事例は他にも国内で複数公表されています」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「株式会社オリエンタルコンサルタンツホールディングス」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「株式会社エムケイシステム」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「日東製網株式会社」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「株式会社イズミ」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「株式会社KADOKAWA」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「株式会社関通」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+- 価格・単価：
+  - 「2024年8月14日、株式会社KADOKAWAはサイバー攻撃の影響により2025年3月期に36億円の特別損失を計上する見通しだと」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また2024年11月7日に特別損失の計上を約23億円に修正したことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「2024年2月にはサイバー攻撃による全世界での被害が年間147兆円であることが」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「約7億5千万円」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「約30億円(21年9月期)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「約2億3千万円」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「約△1.8億円(24年3月期)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「約1千960万円」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「991百万円」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「中小企業のセキュリティ対策費用｜年間予算の目安と優先順位の付け方【2026年版】」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「IT予算に占める適正比率、50名規模の具体的な年間予算例、優先順位マトリクス、補助金活用で費用を半額に抑える方法まで、2026年最新の情報でまとめます」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「本記事では、2026年の最新脅威動向を踏まえ、中小企業がセキュリティ対策にかけるべき費用の目安、カテゴリ別のコスト内訳、限られた予算での優先順位の付け方、そして補助金を活用して実質負担を半額に抑える方法を解説する」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「200万〜500万円」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「20万〜75万円」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+- 責任の範囲：
+  - 「サイバー攻撃被害を受けた備品類の除却、対策強化、損害賠償、システム共同開発計画の中止に伴う損失」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「攻撃を受けてからの調査・封じ込めなどの対応、システム復旧などに必要な、主には人的コストにあたる損害が想定されます」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「影響があったと答えた企業のうち、「取引先にサービスの停止や遅延による影響が出た（36.1%）」、「個人顧客への賠償や法人取引先への補償負担の影響が出た（32.4%）」、「原因調査・復旧に関わる人件費等の経費負担があった（23.2%）」といった影響が出ています」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「サイバー攻撃の被害企業は情報の管理責任等が問われるものの、基本的には被害者です」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「観点1 Internal Control：責任は経営層個人にもおよびうる」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「昨今のセキュリティインシデントは、企業への責任追及だけでなく、経営層個人の責任にもなりえる時代です」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「しかし、インシデント発生時の損害額を考えれば、適切な投資は「保険」ではなく「経営基盤」そのものだ」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「インシデント発生時の想定被害額（JNSAの統計: 中小企業の情報漏洩1件あたり平均損害額は約6,000万円）」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「「インシデント発生時の想定損害額」と比較するのが最も説得力がある」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「JNSAによれば、情報漏洩1件あたりの平均損害額は約6,000万円」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「年間180万円のセキュリティ投資は、この損害を防ぐための「保険料」として説明できる」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「特に個人情報を大量に扱う企業、取引先からセキュリティ要件を求められている企業は、年間10万〜30万円の保険料で万一の損害に備えられる」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「要件、見積、責任分界、運用条件を実装前に整理し、必要な範囲の実行まで伴走します」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「売掛金・債権保証サービスの比較」（https://catalog.monex.co.jp/article/?p=69547）
+  - 「法人向け損害保険の比較」（https://catalog.monex.co.jp/article/?p=69547）
+- 経営判断への置き方：
+  - 「サイバー攻撃の被害額から考えるセキュリティ | トレンドマイクロ (JP)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「戦略・イノベーション・グローバル展開まで、経営を牽引するエグゼクティブチーム」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「サイバー攻撃の被害額から考えるセキュリティ」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「サイバー攻撃被害額から考えるセキュリティ予算」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「サイバー攻撃は経営リスクの一つ」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また同時に、ランサムウェア攻撃の被害額算定に時間を要するため、2026年5月期第 2 四半期決算発表の延期することを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「ランサムウェアの被害と言えば、業務停止による売り上げの停止や身代金の支払いなどについて想像が及びやすいですが、再発防止などを含めて検討する場合、損失額はより大きくなります」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「いつサイバー攻撃被害が発生するかわからない現状において、組織のセキュリティリーダーはこうした企業経営に影響を及ぼしかねないコストが複数発生することを事前に想定・見積の上、サイバーリスク分析を行う必要があります」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「上記に挙げたサイバー攻撃による直接的な被害以外にも、中長期的に経営に悪影響がおよぶ危険性もあることを改めて認識ておくことが重要です」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「その際の判断軸の一つが総売上高の占めるセキュリティ予算の割合です」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「質問「セキュリティ予算が連結売上高に占める割合は何％ですか？」に対する回答の割合(N=300)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「自社のセキュリティ予算の妥当性に疑問を感じる担当者は、」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「自社売り上げに占めるセキュリティ予算の割合の把握を行い、0.5%に届いているかを確認することも1つの判断基準となる」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また、サイバー攻撃被害が発生した際の損失を想定し、そのリスクに応じた予算を配分することも1つの手段となります」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「自社におけるランサムウェア被害が発生した場合に、こうした大規模の被害が発生することを前提として事前に予算を組んでおく、といった戦略も有効と言えるでしょう」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+- 大手・競合：
+  - 「トレンドマイクロと競合他社の比較」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、11月度の単月売上高が前年同月度対比4.9%となったことを発表しました」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「口座振替代行サービスおすすめ33選を比較｜独自調査による市場シェアと選び方、手数料を徹底解説」（https://catalog.monex.co.jp/article/?p=69547）
+  - 「昨今、大手企業を標的としたランサムウェア攻撃が相次いで発生し、事業継続に深刻な影響を及ぼす事例が増加しています」（https://assured.jp/column/security-budget-analysis）
+  - 「そこでこの度、企業のセキュリティ投資の実態と経営層の意識変化について、従業員数1,000名以上の大手企業に所属する情報システム・セキュリティ担当者を対象に調査を実施し、500名から回答を得ました」（https://assured.jp/column/security-budget-analysis）
+  - 「また、「競合他社や業界平均と比較するためのデータがない」（28.0%）という声もあり、セキュリティ投資がどれだけリスク低減に寄与したかを客観的・定量的に示せないという課題が浮き彫りになりました」（https://assured.jp/column/security-budget-analysis）
+  - 「岩井 博樹 デロイト トーマツ リスクサービス株式会社 シニアマネジャー」（https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf）
+  - 「丸山 満彦 デロイト トーマツ リスクサービス株式会社 代表取締役社長」（https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf）
+  - 「丸山 満彦 PwCコンサルティング合同会社 テクノロジーコンサルティング パートナー」（https://www.meti.go.jp/policy/netsecurity/downloadfiles/guide_v3.0.pdf）
+  - 「大手ECサイトが」（https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/）
+  - 「ただし、恐喝や脅迫が伴う場合、競合他社による攻撃が疑われる場合などは、積極的に警察に相談すべきです」（https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/）
+  - 「大手ECで15億円、地銀で8億円の被害が発生」（https://guardian.jpn.com/security/networking/ddos/column/legal-insurance/）
+  - 「Connect with cybersecurity decision-makers in an intimate setting」（https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets）
+  - 「Cyber risk quantification and cyber risk management are closely connected, but they answer different questions. Let’s take a look.」（https://www.cm-alliance.com/cybersecurity-blog/how-to-use-cyber-risk-quantification-to-justify-security-budgets）
+- 参入障壁：
+  - 「メルマガ登録する」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「サイバー攻撃によって生じる再発防止コストは、インシデントを経験することで、」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「メールマガジン登録」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「企業のセキュリティ担当者が、高度な知識・経験を活かし、リスク分析結果を踏まえた上で、セキュリティ予算を申請した場合でも「それは担当者による主観的な判断では？」という質問を受けるケースがあります」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「メルマガ登録」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「IPAが認定したサービス」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「IPAが認定した、中小企業向けの低コストなセキュリティサービス」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「メール登録なしでこのページから記事を保存できます」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「あとからメールアドレスを登録すると、保存した記事のリストをまとめて受け取れます」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「登録だけで営業電話はしません」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「新規会員登録」（https://catalog.monex.co.jp/article/?p=69547）
+  - 「補助の対象になるのは、IPAが認定・公表する「サイバーセキュリティお助け隊サービスリスト」に掲載されたサービスの利用料（最大2年分）です」（https://catalog.monex.co.jp/article/?p=69547）
+  - 「中小企業自身のデータでも、同じIPAの実態調査で11.4%の中小企業がサイバー被害を経験したと回答しています」（https://catalog.monex.co.jp/article/?p=69547）
+  - 「都市銀行にて金融実務を経験後、暗号資産関連スタートアップの創業期に参画し、市場分析・業界調査に従事」（https://catalog.monex.co.jp/article/?p=69547）
+  - 「監査法人にてSOC1, SOC2レポート業務を経験後、インターネット企業にて内部統制構築業務を推進」（https://assured.jp/column/security-budget-analysis）
+- 回す体制：
+  - 「安全なAIインフラ、アプリケーション、サービスのアドバイス、構築、統合、および運用を支援」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「OA・ワークプレイス環境 運用監視」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「Web・アプリケーション運用監視」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「某食品会社では、サイバーセキュリティ攻撃によって、ファイルサーバーや財務会計のシステムが侵害され、経営者および企業にとっても大変に重要な決算報告を3ヶ月延期するという事態になりました」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「人数・時給・業務時間・削減率から年間削減規模を概算します」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「システム種別・規模・連携先を選ぶだけで、開発費用・期間・月額運用費の概算をその場で表示します」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「5. 監視・運用」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「中小企業の脆弱性対応 月次運用テンプレ」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「この場合、初年度は250万〜350万円を見込み、2年目以降を150万〜200万円の維持費用で運用する計画が現実的」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「月次チェックリストを運用することで、投資した対策を確実に機能させ続ける」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「企画・開発・運用まで一括」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「追加費用と運用費の境界」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「AI導入前に確認すべき業務範囲、データ、セキュリティ、PoC判断、運用体制を整理するチェックリストです」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「要件、見積、責任分界、運用条件を実装前に整理し、必要な範囲の実行まで伴走します」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+  - 「運用・保守プラン」（https://gxo.co.jp/column/security-measures-cost-budget-sme-2026）
+- 買い手の規模：
+  - 「【ホワイトペーパー】緊急解説：相次ぐ不正アクセスによる大規模情報漏洩」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、11月度の単月売上高が前年同月度対比4.9%となったことを発表しました」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「システム停止期間の売上と再発防止を含めた復旧費用」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「また、2025年12月1日、ランサムウェア攻撃の影響で事業の一部を停止している流通大手アスクル株式会社は、2025年11月度の単月売上高が前年同月度対比4.9％（約16.9億円）となったことを」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「それぞれの組織によってその規模は異なるものの、」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「またランサムウェアなどによって可用性が侵害される場合、業務停止期間中の本来あったはずの売上損失、サービス利用顧客に対する補償金なども発生する可能性があります」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「2024年度中小企業等実態調査結果」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「その際の判断軸の一つが総売上高の占めるセキュリティ予算の割合です」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「企業のセキュリティ投資額は連結売上高の「0.5％以上」を投資すべき」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「質問「セキュリティ予算が連結売上高に占める割合は何％ですか？」に対する回答の割合(N=300)」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「自社におけるランサムウェア被害が発生した場合に、こうした大規模の被害が発生することを前提として事前に予算を組んでおく、といった戦略も有効と言えるでしょう」（https://www.trendmicro.com/ja_jp/jp-security/24/h/breaking-securitynews-20240816-02.html）
+  - 「一方で、情報セキュリティやサイバーセキュリティへの投資は、企業の売上・利益に直結せず、経営層の方には投資対効果が見えづらいことから、セキュリティ予算取りを上申する際に、どのように説明・調整すべきかを悩んでいるセキュリティ担当者が多いのも事実です」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「セキュリティ施策は売上に直結しないがゆえ、コストととらえる経営層が一定数いることは事実です」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「経営者の関心事の大半は、売上・利益を高めることにあるため、コストを最小限に留めようという力が働くことになります」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+  - 「某教育会社で発生した大規模な情報漏えい事案で、最終的には取締役2人が辞任することになったケースがあります」（https://www.nri-secure.co.jp/blog/getting-security-budget-approved）
+
+## セキュリティ評価制度の取得支援（security certification support SME Japan）
+- 文脈：セキュリティ
+- 前例・提供企業：
+  - 「なお、一般的にIT基盤に該当しないと考えられる製造環境等の制御（OT）システムや委託元等に提供する製品等については、サプライチェーン全体での共通化が難しいことから直接の対象とはせず、他の制度・ガイドライン等に基づき対策を行うことを想定しています」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「（5）中小企業向け支援策」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「経済産業省及び独立行政法人情報処理推進機構（IPA）では、中小企業による本制度の★3・★4取得に向けた支援策として以下の取組を進めています」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「サイバーセキュリティお助け隊サービス（新類型）」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「中小企業がSCS評価制度の★3及び★4を安価かつ簡便に取得できるよう、新たな支援策として「サイバーセキュリティお助け隊サービス」（新類型）を創設します」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「サイバーセキュリティお助け隊サービス（新類型）実証事業」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「2026年9月から、「サイバーセキュリティお助け隊サービス」（新類型）の制度設計を行うための実証事業を開始しています」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「この実証事業では、サービス提供事業者と連携して、実際に中小企業に対してSCS評価制度★3又は★4取得のためのサービスを試行的に提供します」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「その活用状況や結果を踏まえて、中小企業にとって導入しやすいサービスであること等を担保するための品質要件や価格要件などについて検討を行います」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「「サイバーセキュリティお助け隊サービス」（新類型）特設ページ」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「セキュリティ対策評価制度対応支援コンサルティング｜日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「株式会社 日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「セキュリティ対策評価制度対応支援コンサルティング」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「セキュリティ設計支援コンサルティング」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「取引先セキュリティ評価支援サービス」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+- 価格・単価：
+  - 「実はSCS★3の対応費用は、自社のセキュリティ対策の現状によって20万円から300万円まで大きく幅があります」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「本記事では、3つのパターン別に費用をシミュレーションし、コストを抑えるためのポイントも紹介します」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「パターンA：セキュリティ対策がほぼ整っている企業（20〜50万円）」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「パターンB：一部の対策は実施しているが不足がある企業（50〜150万円）」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「パターンC：セキュリティ対策がほぼゼロの企業（150〜300万円）」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「MFA全社導入：10〜30万円（設定作業費」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「アクセス制御設計（条件付きアクセス等）：20〜50万円」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「EDR導入設定：10〜20万円（ライセンス費用は月額500〜1,000円/台が別途）」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「パッチ管理体制構築：10〜20万円」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「ログ取得・保存設定：10〜30万円」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「4-2.費用と効果」（https://www.nri-secure.co.jp/blog/security-measures-assessment-system-for-strengthening-the-supply-chain）
+  - 「★5の要求事項・評価基準・評価スキーム・開始時期（検討中）／申請・登録に係る費用」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
+  - 「月額12万円〜のサポートプランで、専任のIT担当者がいない企業でも制度対応を進めることができます」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
+  - 「限られた予算・リソースを最大限に活用するため、対策を「0円でできること」「月数千円でできること」「月数万円必要なこと」の3段階に整理します」（https://netpeace.co.jp/blog/scs/scs-small-business-guide/）
+  - 「0円でできること（今すぐ始められる対策）」（https://netpeace.co.jp/blog/scs/scs-small-business-guide/）
+- 責任の範囲：
+  - 「役割、責任、権限」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「保証継続（認証維持・再評定）」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「情報漏洩リスクの低減 → 賠償金と信用失墜の回避」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「責任者の配置など情報管理の強化」（https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html）
+  - 「組織内の役割と責任が定義されている」（https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html）
+  - 「2. 役割/責任/権限」（https://www.newton-consulting.co.jp/itilnavi/column/cyber_security_system_key-point.html）
+  - 「（セキュリティ責任者の設置、体制構築、対応方針の策定）、」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
+  - 「責任者を明確化」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
+  - 「本チェックは公式の評価ではなく、★3の取得を保証するものでもありません」（https://www.josis365.com/blog/scs-evaluation-system-guide/）
+  - 「情報セキュリティの責任者・担当者を文書で指定」（https://netpeace.co.jp/blog/scs/scs-small-business-guide/）
+  - 「サービス範囲と責任分界を明確にする：」（https://netpeace.co.jp/blog/scs/scs-small-business-guide/）
+  - 「これは、生成AIを使った機械翻訳が圧倒的な精度で世界中から簡単に利用できるようになったことが一因です」（https://www.mjs.co.jp/topics/lp/scs/）
+  - 「2024年6月には税理士法人および監査法人がランサムウェアによるサイバー攻撃を受け、同事務所に業務委託していた損害保険会社や銀行などが顧客の個人情報（約6.3万件以上）の漏えいのおそれを公表する事例がありました」（https://www.mjs.co.jp/topics/lp/scs/）
+  - 「・組織内の役割と責任が定まっている」（https://www.mjs.co.jp/topics/lp/scs/）
+  - 「⑤ 管理部署 情報資産の管理責任がある部署等を記入します」（https://www.mjs.co.jp/topics/lp/scs/）
+- 経営判断への置き方：
+  - 「早期の意思決定が極めて重要となるのは、選択によって必要となるリソースが大きく異なるためです」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「★4は「取引先から選ばれ続けるための強力な競争力」となる一方、外部機関による「第三者評価」や「脆弱性診断」が必須となるため、相応の予算と準備期間を要します」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「自社の立ち位置を明確にし、予算・スケジュールに余裕を持った計画を策定することが、SCS制度対応の重要なポイントとなります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「ランサムウェア被害から学ぶ教訓集 ～ 経営者のためのランサムウェア対策ハンドブック ～」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「サイバーセキュリティ経営ガイドライン Ver 3.0実践のためのプラクティス集」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「サイバーセキュリティ経営可視化ツール」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「解説2 なぜサイバーセキュリティ対策は経営課題か」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「解説3 経営者が認識すべき3原則と指示すべき重要10項目」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「プラクティス1-1 経営者がサイバーセキュリティリスクを認識するための、他社被害事例の報告」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「指示3 サイバーセキュリティ対策のための資源（予算、人材等）確保」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「プラクティス3-1 サイバーセキュリティ対策のための、予算の確保」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「プラクティス3-2 経営層やスタッフ部門等の役割に応じた、リテラシーにとどまらないセキュリティ教育実践」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「プラクティス4-1 経営への重要度や脅威の可能性を踏まえたサイバーセキュリティリスクの把握と対応」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「プラクティス4-2 『サイバーセキュリティ経営可視化ツール』を用いたリスク対策状況の把握と報告」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「悩み(1) IT部門のみで経営層のセキュリティ意識を向上させることに限界を感じている」（https://www.ipa.go.jp/security/scs/index.html）
+- 大手・競合：
+  - 「セキュリティ対策評価制度対応支援コンサルティング｜日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「株式会社 日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「日立ソリューションズの強み」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「日立ソリューションズのセキュリティ対策評価制度対応支援コンサルティング」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「日立ソリューションズの」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「さまざまな資格を有したセキュリティエキスパートやインテグレーターとしての経験など、日立ソリューションズの強みをご紹介します」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「日立ソリューションズ」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「日立グループTOP」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「近年、セキュリティ対策が強固な大手企業を直接狙うのではなく、セキュリティの不備があるサプライチェーン内の受託企業や取引先（中小企業等）を「踏み台」として侵入するサイバー攻撃が増加しています」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「制度開始に伴い、大手企業や自治体・公共調達において、調達要件や取引条件として「★3」や「★4」の登録を求める動きが順次広がると予想されます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「IPAとNTT東日本による「シン・テレワークシステム」のHTML5版の開発と提供について」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「IPAとNTT東日本による「シン・テレワークシステム」無償開放の期間延長について」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「X（Twitter）でシェアする」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「Facebookでシェアする」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+  - 「大手コンサルとの比較」（https://qiita.com/btncon/items/cf13c3d8f1976a778cee）
+- 参入障壁：
+  - 「サプライチェーンのセキュリティを含めたさまざまな業種でのコンサルティング経験で培った知見やノウハウを生かして支援します」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「認定取得スコープ定義支援」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「「サプライチェーン強化に向けたセキュリティ対策評価制度に関する制度構築方針」および「★3・★4要求事項・評価基準」をもとに、どの範囲でどの認定レベルを取得したいかをヒアリング」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「要件一覧作成、認定取得レベル決定」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「ヒアリング内容を踏まえて「認定取得における要件一覧」を作成し、適用範囲および取得をめざす認定レベルを決定」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「認定取得定義とのギャップ分析」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「認定取得準備作業支援」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「さまざまな資格を有したセキュリティエキスパートやインテグレーターとしての経験など、日立ソリューションズの強みをご紹介します」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「制度開始に伴い、大手企業や自治体・公共調達において、調達要件や取引条件として「★3」や「★4」の登録を求める動きが順次広がると予想されます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「有効期間は3年で、有効期間内は1年ごとに自己評価を実施し結果を認定評価機関に提出、3年ごとの更新の際は「第三者評価」を受け、実地審査や脆弱性診断等の技術検証をクリアする必要があります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「」が登録の必須条件となるため、対応漏れが許されません」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「これまでの経験」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「情報処理技術者試験制度の見直し」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「情報処理技術者試験のアジアにおける国際協調」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「情報処理安全確保支援士（登録セキスぺ）」（https://www.ipa.go.jp/security/scs/index.html）
+- 回す体制：
+  - 「本制度は、サプライチェーンを構成する企業等のIT基盤（クラウド環境で運用するものも含む」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「（4）制度の運用体制案」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「AI推進体制・運用ルールの整備」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「【最新スケジュール】2026年度末の本格運用に向けたスケジュール」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「目指すべき要求事項や大枠の評価基準はすでに公表されているため、制度開始と同時にスムーズに運用できるよう、自社の現状把握や準備に早めに着手することが推奨されます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「2026年度末より本格運用が始まる「SCS評価制度（セキュリティ対策評価制度）」」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「2026年度末の本格運用に向け、企業は以下の4ステップで計画的に準備を進めることが推奨されます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「単に「セキュリティツールが入っているか」だけでなく、アカウント管理のルール化やインシデント体制の有無など、【技術面】と【運用・規程面】の網羅的なチェックを行う必要があります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「【Step3】対策の実装・運用定着と外部支援の活用」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「本制度の評価のポイントは、単に形だけのルールやツールを用意することではなく、日常的にセキュリティが正しく運用されていることを客観的に証明できる「証跡（アクセスログ、資産台帳、教育実施記録など）」を漏れなく蓄積・管理する体制を定着させることにあります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「自社だけでこれらの基準を正確に解釈し、実効性のある体制を構築・運用するのは容易ではありません」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「2026年度末（2027年3月頃）より★3および★4の本格運用が開始される予定となっており、直前になって慌てることのないよう、早い段階からの現状把握と準備が求められます」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「失敗しないISMS運用【コンサルティング会社の選び方】」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「安全なウェブサイトの運用管理に向けての20ヶ条 〜セキュリティ対策のチェックポイント〜」（https://www.ipa.go.jp/security/scs/index.html）
+  - 「CISAが公開した制御システムの脆弱性情報（直近1ヶ月）」（https://www.ipa.go.jp/security/scs/index.html）
+- 買い手の規模：
+  - 「（5）中小企業向け支援策」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「経済産業省及び独立行政法人情報処理推進機構（IPA）では、中小企業による本制度の★3・★4取得に向けた支援策として以下の取組を進めています」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「中小企業がSCS評価制度の★3及び★4を安価かつ簡便に取得できるよう、新たな支援策として「サイバーセキュリティお助け隊サービス」（新類型）を創設します」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「この実証事業では、サービス提供事業者と連携して、実際に中小企業に対してSCS評価制度★3又は★4取得のためのサービスを試行的に提供します」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「その活用状況や結果を踏まえて、中小企業にとって導入しやすいサービスであること等を担保するための品質要件や価格要件などについて検討を行います」（https://www.meti.go.jp/policy/netsecurity/scs.html）
+  - 「お客さまの組織規模やセキュリティ対応状況などにより異なります」（https://www.hitachi-solutions.co.jp/security_consul/scs.html）
+  - 「近年、セキュリティ対策が強固な大手企業を直接狙うのではなく、セキュリティの不備があるサプライチェーン内の受託企業や取引先（中小企業等）を「踏み台」として侵入するサイバー攻撃が増加しています」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「【★1・★2】中小企業の第一歩（自己宣言）」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「中小企業の情報セキュリティ対策ガイドライン」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「★2：中小企業の情報セキュリティ対策ガイドライン付録の」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「洗い出したギャップに対して、セキュリティ管理規程の改定・策定、必要なITツールの導入、および全従業員へのセキュリティ教育といった網羅的な対策を実行します」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「自社単独でのリソースやノウハウの不足が課題となる場合は、IPAが推進する中小企業向けの」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「主に中小企業を対象に、★3・★4の取得に必要な「現状把握（評価）」と「対策支援（ツール提供等）」をワンパッケージにした新サービスが創設される予定です」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「プライバシーマーク（以下、Pマーク）取得の費用は、企業の業態や、規模などによって異なります」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+  - 「防犯カメラで個人情報が漏えいする場面防犯カメラは、今では街中のいたるところに設置されていますが、犯罪の防止であったり、従業員の監視であったりという目的で設置され...」（https://www.lrm.jp/security_magazine/scs-evaluation-system/）
+- 検索結果の抜粋：
+  - 「製造業 のSCS 評価制度 3対応実践ガイド - Net Peace株式会社 — 製造業 のSCS 評価制度 3対応実践ガイド - Net Peace株式会社 Net Peace株式会社 https://netpeace.co.jp > セキュリティメディア > SCS評価制度」（https://netpeace.co.jp/blog/scs/scs-manufacturing-guide/）
+  - 「SCS評価制度の対応支援サービス14選｜★3・★4の要件と選び方・費用を比... — Sep 30, 2026 · 制度の★3・★4の要求事項や申請時期といった前提を整理したうえで、 対応支援サービスに頼める範囲・自社の状況に合う選び方・費用の実際 まで、資料請求や問い合わせの判断に使える形でまとめました。」（https://catalog.monex.co.jp/article/?p=51116）
+
+## 取引先からのセキュリティ要求への対応支援（supply chain security requirements support suppliers）
+- 文脈：セキュリティ
+- 前例・提供企業：
+  - 「取引先からのセキュリティ要求にどこまで対応すべき？ - 現場の「困った」に答える ガバナンス・個人情報管理の事例集」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「まずは、どこで、誰が、どの情報を、どのサービスや端末で扱っているのかを確認します」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「セキュリティリスクアセスメント／ISMS認証支援／Pマーク取得・更新支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「個人情報保護コンサルティング／プライバシーポリシー策定支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「関連するサービス」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「法務・技術の両面から個人情報保護の課題解決を支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMS認証支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMSの新規取得から更新・運用改善まで一貫支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMAP登録支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMAP登録・更新に必要な準備と対応を一貫支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「プライバシーマーク支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「Pマーク取得・更新と実効性ある運用体制づくりを支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「プライバシーポリシー策定支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「法規制と事業実態に合うプライバシーポリシーを策定支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「関連する事例」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+- 価格・単価：
+  - 「ウイルスバスター ビジネスセキュリティサービス（VBBSS）の料金はいくら？台数別（5・10・30・50・100台）の年間費用と途中追加・更新の計算方法｜マネージドXDR・TrendAI Core・他社との比較【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「ZTNA（脱VPN）の費用はいくら？人数別（10・30・50・100人）の料金試算｜Sophos Workspace Protection・Harmony SASE・Microsoft Entra Private Access・VPN装置を比較【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「標的型メール訓練・セキュリティ教育の費用はいくら？人数別（10・30・50・100人）の料金試算｜セキュリオ・MudFix・Sophos Phish Threatを比較【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「Sophos Firewall（XGS）の価格はいくら？機種別の本体・ライセンス料金と従業員10・30・50・100名の5年費用試算｜StandardとXstreamの違い【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「EDRの費用はいくら？台数別（10・30・50・100台）の料金試算｜ESET・トレンドマイクロ・Sophos・CrowdStrike・SentinelOne・Microsoft Defenderと「監視付き」の違い【中小企業向け】」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「売上と業種によって保険料が変わるのですが、売上が数千万円から1億円くらいであれば、年間数万円の保険料で入れます」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「ビジネスメール詐欺(BEC)の被害額は1件あたり数百万円から数千万円、株式会社はてなで2026年4月に約11億円の事例も発生しました」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「【想定事例】発注側企業からの「サプライチェーン強化に向けたセキュリティ対策評価制度」４つ星相当の対策の実施要請を踏まえ、発注側企業と取引の相手方とが円満に価格交渉を行うためのプラクティス」（https://www.meti.go.jp/policy/netsecurity/partnership2.html）
+  - 「費用は審査機関、事業規模、適用範囲、拠点数、コンサルティング利用の有無によって大きく変わり、初回審査のほか、毎年の維持審査や3年ごとの更新審査の費用もかかります」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「主に個人情報を多く扱う業種（人材・医療・EC等）での取得が多く、費用として申請料・審査料・付与登録料などがかかり、事業者の規模によって金額が異なります（2年ごとの更新時にも費用が発生します）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「なお、プライバシーマークの料金は2026年10月に改定されているため、最新の金額はJIPDECの公式情報で確認してください」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「事業者の規模により異なる（2026年10月料金改定）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「月額5〜20万円程度（専任級は月額100万円以上）」（https://leosecuretech.com/security-consulting-cost/）
+  - 「50〜150万円程度／回」（https://leosecuretech.com/security-consulting-cost/）
+  - 「50〜150万円程度」（https://leosecuretech.com/security-consulting-cost/）
+- 責任の範囲：
+  - 「本記事では、要求事項の必須・推奨や契約上の義務を確認し、対応可否や代替策を整理したうえで、現状・記録・改善予定をどのように説明するかを整理します」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「取引先要求を必須・推奨に分け、契約上の義務や未対応の影響を確認する方法」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「契約上の義務を確認する」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「責任者と関係部門を整理する」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「むしろ、管理の考え方、責任者、運用記録、改善予定を整理して伝えることが重要です」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「取引先セキュリティ要求への対応判断の責任者または確認担当者が決まっているか」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「契約上の義務を確認しているか」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「要求事項を必須と推奨に分け、契約上の義務と未対応項目の影響を確認する」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「中小企業の情報セキュリティ体制：責任者・役割・委員会の作り方」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「責任者や役割、会議体が曖昧で、何から体制を整えるべきか分からない」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「また、委託先に預けた個人情報や機密情報が漏えいすれば、発注元も顧客や関係者への説明責任を問われることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「特に中堅中小企業では、実際には一定の対策をしていても、それが文書化されていなかったり、責任者や運用ルールが明確になっていなかったりすることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「担当者はいるが責任範囲が曖昧」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「2. 誰が管理責任を持っているのか」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「次に重要なのは、セキュリティ対策や情報管理について、社内で誰が責任を持っているのかを明確にすることです」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+- 経営判断への置き方：
+  - 「経営判断が必要な項目を分ける」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「経営判断が必要な項目を分けているか」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「経営層に共有すべき判断材料」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「経済産業省「サイバーセキュリティ経営ガイドライン」」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ー 経営層向けセキュリティ研修」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「経営層向けセキュリティ研修」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「専任のセキュリティ責任者がいない企業でも、情報システム担当者、管理部門、経営層など、実際に判断や管理を担う人はいるはずです」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「経営・ガバナンス」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「予算に限りがある場合の対策の優先順位については、」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「限られた予算で優先すべきセキュリティ対策4選」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「BEC詐欺の被害額と対策｜サイバー保険の補償は？」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「ビジネスメール詐欺(BEC)の被害額は1件あたり数百万円から数千万円、株式会社はてなで2026年4月に約11億円の事例も発生しました」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「送金被害額自体はサイバー保険の補償対象外で、犯罪保険などが必要です」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「制度や補償内容のご説明にとどまらず、実際の事故対応や経営判断の視点から最適なリスク対策をご提案しております」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「「中小企業の情報セキュリティ対策ガイドライン」は、全ての業種の中小企業等を対象に、情報セキュリティ対策に取り組む際の、①経営者が認識し実施すべき指針、②社内において対策を実践する際の手順や手法をまとめたものである」（https://www.meti.go.jp/policy/netsecurity/partnership2.html）
+- 大手・競合：
+  - 「近年、サプライチェーン攻撃（取引先を踏み台にしたサイバー攻撃）が急増しており、大手企業を中心に取引先へのセキュリティ対策確認が当たり前になりつつあります」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「実際に大手自動車メーカーの部品サプライヤーがランサムウェアに感染し、本社の工場が停止した事例も報告されています」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「大手企業・官公庁との取引では、ISO 27001（ISMS）やPマークの取得証明を求められることがあります」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「大手企業との取引や官公庁案件ではISMS取得を条件とするケースもありますが、多くの中小企業との取引では「セキュリティ自己チェックシートの提出」や「セキュリティポリシーの開示」で対応できます」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「近年、大手企業やグローバル企業が取引先に対してセキュリティ対策の強化を求めるケースが急増しています」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「外資の大手パソコンメーカーと取引するにあたって、セキュリティ条項を満たしてくださいという要求があった」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「大手企業が取引先に提出を求めるセキュリティチェックシートには、一般的に以下のような項目が含まれています」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「外資系大手パソコンメーカーとの取引で、セキュリティ条項としてサイバー保険への加入を求められた事例があります」（https://moneysalon.jp/blog/cyber-hoken-torihikisaki-youkyuu）
+  - 「「セキュリティチェックシートに回答してください」——取引先の大手企業からそんなメールが突然届いて、慌てた経験はありませんか」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「近年、セキュリティが手薄な取引先・委託先を踏み台にして大手企業へ侵入する「サプライチェーン攻撃」が問題になっており、IPAの「情報セキュリティ10大脅威」でも組織向けの上位に挙げられています」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「そのため、大手企業が取引先にセキュリティ状況を確認することは、サプライチェーン全体のリスク管理や、委託先管理の一環として重要になっています」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「あわせて、大手コンサル会社との費用差と、中小企業が費用を抑えるポイントも紹介します」（https://leosecuretech.com/security-consulting-cost/）
+  - 「大手コンサル会社に頼むといくらか――当社との費用比較」（https://leosecuretech.com/security-consulting-cost/）
+  - 「同じ業務でも、大手コンサル会社と小規模・専業の事務所では費用水準が大きく異なります」（https://leosecuretech.com/security-consulting-cost/）
+  - 「コンサル費用の大半は人件費であり、大手ファームのシニアクラスは1日40〜60万円、独立系・小規模事務所では同等の経験者でも1日8〜25万円程度が目安です」（https://leosecuretech.com/security-consulting-cost/）
+- 参入障壁：
+  - 「担当者の経験だけで回答する」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMAP登録支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMAP登録・更新に必要な準備と対応を一貫支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「突然、取引先の担当者から「セキュリティ対策の状況を教えてください」「証明書類を提出してほしい」と言われて、戸惑った経験はありませんか？」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「「サイバーセキュリティお助け隊サービス」制度は、中小企業等に対するサイバー攻撃への対処として不可欠なワンパッケージのサービスを要件としてまとめ、所定の審査機関により当該要件を満たすことが確認された民間サービスについて、ＩＰＡが登録・公表する制度である」（https://www.meti.go.jp/policy/netsecurity/partnership2.html）
+  - 「（※）セキュリティプレゼンター制度は、ＩＰＡのセキュリティ対策資料等を活用して、中小企業等に対して情報セキュリティの普及啓発を行う人材を「セキュリティプレゼンター」として登録する制度」（https://www.meti.go.jp/policy/netsecurity/partnership2.html）
+  - 「「セキュリティチェックシートに回答してください」——取引先の大手企業からそんなメールが突然届いて、慌てた経験はありませんか」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「取得している認証の登録証（ISMS・Pマークなど）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「主に個人情報を多く扱う業種（人材・医療・EC等）での取得が多く、費用として申請料・審査料・付与登録料などがかかり、事業者の規模によって金額が異なります（2年ごとの更新時にも費用が発生します）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「申請料・審査料・付与登録料（規模で変動）」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「申請料・審査料・付与登録料など」（https://is-prime.co.jp/business-improvement/security-answer-to-clients/）
+  - 「コンサル費用の大半は人件費であり、大手ファームのシニアクラスは1日40〜60万円、独立系・小規模事務所では同等の経験者でも1日8〜25万円程度が目安です」（https://leosecuretech.com/security-consulting-cost/）
+  - 「小規模事務所は経験者が１名ないしアシスタントの２名程度で直接担当します」（https://leosecuretech.com/security-consulting-cost/）
+  - 「実際、当社自身も大手ファームから専門人材として協力依頼を受けることがあります」（https://leosecuretech.com/security-consulting-cost/）
+  - 「※当社にはCISA（Certified Information Systems Auditor）認定の専門家が在籍しています」（https://leosecuretech.com/security-consulting-cost/）
+- 回す体制：
+  - 「一方、取引先が知りたいのは個別対策の有無だけでなく、会社として判断し、運用し、改善する体制があるかです」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「取引先が知りたいのは個別対策の有無だけでなく、会社として判断し、運用し、改善する体制があるかです」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「過剰な要求をそのまま受けると運用負荷が増え、逆に必要な要求を軽視すると取引機会を失います」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「運用していても記録がなければ、取引先への説明が難しくなり、追加質問や改善要求につながります」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「むしろ、管理の考え方、責任者、運用記録、改善予定を整理して伝えることが重要です」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「たとえば、規程そのものを全文提出するのではなく、該当条文、運用フロー、実施記録の抜粋を組み合わせる方法があります」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「ISMSの新規取得から更新・運用改善まで一貫支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「Pマーク取得・更新と実効性ある運用体制づくりを支援」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「認証取得そのものが目的化し、工数や費用が読めない」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「バックアップは取っているだけで十分？復旧できる運用の作り方」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「認証取得後に形骸化させない年間運用」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「教育・棚卸し・点検が場当たり的で、認証取得後の運用が形骸化しそう」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「SaaS管理や退職フローの整備、運用定着までを見据えた伴走型支援を行っています」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「システム開発、保守運用、物流、コールセンター、経理・人事業務、クラウドサービス、データ処理など、多くの業務が外部の取引先や委託先との連携によって成り立っています」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「特に中堅中小企業では、実際には一定の対策をしていても、それが文書化されていなかったり、責任者や運用ルールが明確になっていなかったりすることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+- 買い手の規模：
+  - 「IPA「中小企業の情報セキュリティ対策ガイドライン」」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「中小企業の情報セキュリティ体制：責任者・役割・委員会の作り方」（https://jtrustc.co.jp/faq-guide/policy-management/19/）
+  - 「近年、大企業や金融機関、自治体、医療機関、製造業などとの取引において、取引先からセキュリティ対策の状況を確認されるケースが増えています」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「質問項目には、情報セキュリティ規程、アクセス管理、バックアップ、ログ管理、委託先管理、インシデント報告体制、従業員教育など、幅広い内容が含まれることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「特に中堅中小企業では、実際には一定の対策をしていても、それが文書化されていなかったり、責任者や運用ルールが明確になっていなかったりすることがあります」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「しかし実際には、特に中堅中小企業において、最初から大企業並みの対策をすべて整えることは現実的ではありません」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「一方で、この制度の方向性は、中堅中小企業にとっても無関係ではありません」（https://www.cyleague.jp/blog/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BD%93%E5%88%B6%E6%A7%8B%E7%AF%89/20260609/）
+  - 「「うちは中小企業だから関係ない」は通用しない時代です」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「大企業のシステムを直接狙うのではなく、セキュリティが手薄な中小の取引先を経由して攻撃するケースが急増しています」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「多くの中小企業間取引では、チェックシートや自己宣言書で対応可能なケースがほとんどです」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「中小企業が今すぐ取り組むべきセキュリティ対策」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「以下は、中小企業が優先的に取り組みたいセキュリティ対策です」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「フィッシングメールやビジネスメール詐欺（BEC）は、中小企業が被害を受けるサイバー攻撃の上位を占めています」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「特に中小企業向けの補助金制度は年々拡充されており、うまく活用すれば自己負担を抑えながら本格的なセキュリティ環境を整えることが可能です」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）
+  - 「大手企業との取引や官公庁案件ではISMS取得を条件とするケースもありますが、多くの中小企業との取引では「セキュリティ自己チェックシートの提出」や「セキュリティポリシーの開示」で対応できます」（https://c-compe.com/securitysoft/news/security-syoumei-motomerareta/）

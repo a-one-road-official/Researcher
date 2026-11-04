@@ -1,0 +1,2543 @@
+{
+ "name": "防衛用ドローンの部材・機体",
+ "en": "military drone components airframe market",
+ "aliases": [
+  "防衛 ドローン 部品",
+  "軍用ドローン 機体 素材",
+  "無人機 部品 国産"
+ ],
+ "context": "防衛",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:35:53.316584+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "軍用ドローン市場規模・予測レポート 2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場規模：プラットフォームタイプ別、2025年・2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "徘徊型弾薬の市場規模は2025年に2億3,300万米ドルで、2035年までに24.9億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Defense News. “U.S. Navy Awards Boeing $562 Million Contract for First Production MQ-25A Stingray Tanker Drones.” thedefensenews.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事用ドローン市場の市場規模は2025年に182億米ドルと推定され、2026年には209億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. 市場規模の推計",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 2035年を見据えた投資では、現在の市場規模よりも「自律化によって変わる産業構造」を捉える",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "貨物ドローン市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "貨物ドローン市場規模、シェア、トレンド分析レポート：タイプ別（固定翼、ハイブリッド、回転翼）、自動化レベル別（完全自律、半自律、遠隔制御）、航続距離別（超短距離、短距離、中距離、長距離）、積載量別（超軽量、軽量、中量、重量物）、コンポーネント別（カメラ、センサー、機器、その他）、用途別（商用貨物、軍事貨物）、エンドユーザー産業別（Eコマース、建設、政府・防衛機関、ヘルスケア、オフショア・エネルギー、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の貨物ドローン市場規模は、2025年には20億5000万米ドルと評価され、2026年の27億6000万米ドルから2034年には296億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は34.55%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：20億5000万米ドル",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の市場規模予測：293億8000万米ドル",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンサービス市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンカメラ市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 1機あたり約1300万ドル（約20億円）と高額であり、防",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.48兆円",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "およそに1兆円を投入する方針を表明",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "るために14億ドル (約2100億円)を割り当てている",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 2024年、湖南省が低空経済に関連する先進製造プロジェクトに対して最大2,000万元（約42億円）を支給し、黒龍江省が機体や電池システムの開",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "23社のドローン関連メーカーに対し、2021年度より3年間にわたり総額約12億ルピー（約20億円）の補助金を提供",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "への依存を減らすため、2億3,400万米ドル（約340億円）規模の3年間の生産支援策を開始予定と報道",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（参考：欧州防衛、50兆円市場で争奪戦 ルノー参入検討・ドイツ銀行支援：日本経済新聞",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【特集】最大7,000億円の官民投資、問われる日本ドローン産業の「2030年」 - ドローンジャーナル",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大7,000億円の官民投資、問われる日本ドローン産業の「2030年」",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "一つは、防衛産業分野における「小型無人航空機」であり、2040年度までに0.4兆円の官民投資が想定されている",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つは、航空宇宙分野における「無人航空機」であり、こちらでは2040年度までに0.3兆円の官民投資が想定されている",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "両者を単純に足し合わせれば、最大で0.7兆円、すなわち約7,000億円規模の官民投資が、ドローン関連領域に向かう可能性があることになる",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、7,000億円を確定した単一の予算枠のように読むべきではない",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、このロードマップを評価するうえで、最初に問うべきことは「7,000億円は大きいか」ではない",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本が2040年度までの官民投資として最大7,000億円規模を見込む一方で、中国と米国の主要プレイヤーは、より短い時間軸で動いている",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "為替にもよるが、日本円にすれば7,000億円に近い規模感である",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国のSkydioも、2026年4月、米国内製造、研究開発、サプライチェーン強化のために、今後5年間で35億ドルを投じる計画を発表した",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "1ドル160円で換算すれば、およそ5,600億円規模である",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上については非上場企業であるため諸説あるが、年間売上は1兆円を超える規模に達していると見られている",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "（注：DJIは未上場企業であるため、年間の売上には諸説あるが、様々なソースの中央値として、ここでは便宜上1兆円と置いた",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "インプレス総合研究所の『ドローンビジネス調査報告書2026』では、国内ドローンビジネス市場は2025年度から2030年度まで年平均13.9％で成長し、2030年度には9,544億円に達すると予測されている",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "7,000億円という数字は大きい",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型無人航空機（ドローン）とは｜官民投資ロードマップの目標・投資額0.4兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までに0.4兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までに5.6兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "民生分野の無人航空機の機体市場は、世界で2024年の約1兆円から2030年に約1.5兆円、日本で約1100億円から約2700億円への伸びが予測されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで0.4兆円、経済波及効果は2040年度までで5.6兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資の具体像 ― 小型無人航空機の投資額0.4兆円・経済波及効果5.6兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※民生分野では、無人航空機の機体の世界市場は、2024年の約1兆円から2030年には約1.5兆円、日本市場は同約1100億円から約2700億円への伸びが予測）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "約1.5兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "約1100億円→約2700億円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "約1100億円から約2700億円へ、2倍以上",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "民生分野の機体市場は世界で約1兆円から約1.5兆円、日本で約1100億円から約2700億円への伸びが予測され、防民一体の産業基盤の構築が重要とされています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで0.4兆円と想定され、加えて戦略三文書の改定に伴う投資額も今後見込まれるとされています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資による経済波及効果は2040年度までで5.6兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までで0.4兆円と想定",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "に「無人航空機」を指定し、経産省は２５年度補正予算で量産体制構築の支援に１３９億円を確保した",
+    "url": "https://newswitch.jp/p/48023",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な中期目標が示されず7、軍事用UAVを含む無人アセット防衛能力に5年間で1兆円とい",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これらの努力の結果、民間用UAVの市場規模は2022年度末には3,086億円まで拡大31",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（旧自律制御システム研究所）等の民間企業に約16億円の公的資金を投じ、UAV技術の研究",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上より、試算した軍事用UAVの市場規模は年間約90億円となった",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表2：我が国における軍事用UAVの市場規模（試算値）",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "また、2026年から2035年にかけて年平均成長率（CAGR）12.9%で拡大し、2035年には623億米ドルに達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2027会計年度までDoDのUAS予算が持続的に拡大すれば、北米市場の売上高は予測期間の早い段階で高い年平均成長率（CAGR）を示す",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律システムの導入によりプラットフォーム当たりの実質ASPが上昇し、2035年まで売上高のCAGRが販売台数のCAGRを上回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月のBISによる航続時間のしきい値規則を含む輸出管理の自由化措置により、対象市場は段階的に拡大するものの、2026〜2030年の予測期間内に競争力の差が解消されることはない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "MALEプラットフォームは2035年までに193億3,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）14.3%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子戦は2025年に14.6億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）15.5%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "UAVドローン市場は、2025年の363億6,000万ドルから2035年には958億6,000万ドルに達すると予測されており、2026年から2035年までの予測期間に年平均成長率（CAGR）10.18％で拡大すると見込まれています",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に958億6,000万ドル規模へ拡大すると予測されるUAVドローン市場では、今後10年間で市場参加企業の事業モデルそのものが変化する可能性があります",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年にかけてのCAGR 10.18％という成長率は、単純な機体台数の増加だけではなく、物流、インフラ、農業、建設、エネルギー、災害対応、警備など複数産業への用途拡大によって支えられる構造を示しています",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "UAVドローン市場は、2025年の363億6,000万ドルから2035年には958億6,000万ドルへ拡大し、2026年から2035年にかけて**CAGR 10.18％**で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年にかけて市場が363億6,000万ドルから958億6,000万ドルへ拡大し、CAGR 10.18％で成長すると予測されるなか、企業にとって本質的な投資テーマは、ドローンが単独の機器から自律的に情報を収集し、分析し、現場業務の一部を代替する産業インフラへ進化する可能性にあります",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "貨物ドローン市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の貨物ドローン市場規模は、2025年には20億5000万米ドルと評価され、2026年の27億6000万米ドルから2034年には296億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は34.55%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は最も成長率の高い地域であり、年平均成長率（CAGR）は37.87%となっている",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動化レベル別に見ると、完全自動運転セグメントが85%という最も速い年平均成長率（CAGR）を記録すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "積載量別では、重量物運搬セグメントが80%という最も速い年平均成長率（CAGR）を記録すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別に見ると、軍事分野が19%という最も速い年平均成長率（CAGR）を示すと予想されている",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026年～2034年）：34.55%",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッドドローンは最も急速に成長している分野であり、年平均成長率（CAGR）は37.55%に達しています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "完全自律型ドローンは最も急速に成長している分野であり、年平均成長率（CAGR）は38.85%に達しています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "長距離貨物ドローンは、年平均成長率（CAGR）36.95%と最も急速に成長しており、長距離配送や遠隔地物流に対する需要の高まりに対応しています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 2025年7月に成立した予算調整措置法「One Big Beautiful Bill Act 」に、国防総省向けの2029年までの予算として小型無人航空機の産業基盤を拡大す",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2030年までに投資を進め、製品、オペレーター、サプライチェーン、顧客関係、調達経験、現場データを持って成長局面に入る企業や国は、市場の拡大とともにさらに学習し、拡大し、再投資できる",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "点検や防犯、農業といった多様な現場でドローンの普及が進み、経産省は３０年の機体需要が２４年比２・５倍に拡大すると予想する",
+    "url": "https://newswitch.jp/p/48023",
+    "pass": 3
+   },
+   {
+    "quote": "－国産化ノウハウの普及を通じたUAV途上国への影響力の拡大－ ・・・・・・19",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これらの努力の結果、民間用UAVの市場規模は2022年度末には3,086億円まで拡大31",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代通信規格（5G）の普及で利用拡大が見込まれる一方、サイバー攻撃による情報窃取・漏洩や",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "算要求では39億ドルまで拡大した",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年比3倍（15兆円）超に拡大する",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "台湾のドローン産業規模は2023年の28億台湾元から2025年の約129億元へ拡大",
+    "url": "https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙メーカーが、3Dプリントを活用して軽量化や部品の統合を図り、開発を加速させ、飛行可能なコンポーネントを製造し、さらに先進材料や航空宇宙業界の認証を受けたワークフローを用いて生産規模を拡大している方法についてご紹介します",
+    "url": "https://www.stratasys.co.jp/resources/blog/3d-printed-vtol-drones/",
+    "pass": 3
+   },
+   {
+    "quote": "4. 再現性とコンプライアンスを備えた製造による生産規模の拡大",
+    "url": "https://www.stratasys.co.jp/resources/blog/3d-printed-vtol-drones/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年にかけて年平均成長率8.7%で拡大し、2035年末には143億米ドルに達する見込みです",
+    "url": "https://www.surveyreports.jp/industry-analysis/combat-drone-market/1038035",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025年から2035年にかけて年平均成長率8.7%で拡大し、2035年末には143億米ドルを超える見込みです",
+    "url": "https://www.surveyreports.jp/industry-analysis/combat-drone-market/1038035",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン飛行禁止区域が300mから1,000mに拡大",
+    "url": "https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 13.6%",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR from 2025 to 2030 : 13.6%",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "In contrast, the APAC region, projected to have the fastest growth at a 13.9% CAGR, is driven by maritime security needs, fueling demand for both tactical unmanned aerial systems and loitering munitions.",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The Middle East and Africa show the highest regional CAGR of 17.1%, with a focus on acquiring combat-proven platforms for precision strikes and developing domestic production capabilities for greater strategic autonomy.",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate at a CAGR of 13.6%",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "YoY growth 2025-2026(%)",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "USD 12.00 billion, at a CAGR of 13.6%",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The Military Drone market is expected to grow at a CAGR of 13.6% during 2026-2030.",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The global military drone market was valued at $12.1 billion in 2024 and is projected to reach $22.4 billion by 2029 — growth of around 86%. Intelligence, surveillance, and reconnaissance (ISR) missions account for over 52% of demand, growing at a 15.2% compound annual growth rate.",
+    "url": "https://admati.com/what-goes-into-manufacturing-a-military-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid drones, which combine rotary and fixed-wing flight, are the fastest-growing platform type at 18.1% CAGR.",
+    "url": "https://admati.com/what-goes-into-manufacturing-a-military-drone/",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "自律システムの導入によりプラットフォーム当たりの実質ASPが上昇し、2035年まで売上高のCAGRが販売台数のCAGRを上回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 軽量ドローン (<25kg)",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "• 中量ドローン (25-170 kg)",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "• 重量ドローン (>170 kg)",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年にかけてのCAGR 10.18％という成長率は、単純な機体台数の増加だけではなく、物流、インフラ、農業、建設、エネルギー、災害対応、警備など複数産業への用途拡大によって支えられる構造を示しています",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "Report Ocean株式会社は、市場調査およびコンサルティングの分野で、正確で信頼性の高い最新の調査データおよび技術コンサルティングを求める個人および企業に対して、7年以上にわたり高度な分析的研究ソリューション、カスタムコンaサルティング、深いデータ分析を提供するリーディングカンパニーです",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "Ziplineは、2014年にケラー・リナウド・クリフトン、キーナン・ワイロベック、ライアン・オクセンホーン、ウィリアム・ヘッツラーによって設立されたアメリカのドローン配送会社です",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "フェザー級（0.004～5kg）",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軽量（5～45kg）",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ミドル級（45～150kg）",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "重量物運搬（150kg以上）",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 機体重量2200kg、翼幅20m、航続距離6000km、ペイ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ロード1700kgと巨大な機体",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14.0万台",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※航空法無人航空機登録台数（国交省）、ドローンビジネス調査報告書2025（インプレス総合",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 2023年、2024年と続けて台湾経済部や国防部が無人機製造業者に対して補助金を拠出するなど、政府による補助金によって、台湾国内で完結した",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 各種レポート等を踏まえると、2030年時点で、国内の無人航空機需要は全体で約14万台",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る需要規模は約8万台",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とを想定し、2030年時点における約8万台の完成機体及びその生産に必要な重要部品の供給",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 完成機体：全体で約14万台（うち、点検・物流・防犯用途",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で約８万台）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 8万台の機体生産に必要な重要部品の個数",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2040年には、世界のドローン産業はすでに、個別の機体ではなく、自律化、スウォーム、AIを組み込んだ点検ワークフロー、防衛と民生をまたぐ生産ループ、そして機体群を前提とした運用システムの競争へ移っているかもしれない",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "8万台は出発点であって、到達点ではない",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "防衛調達を民生市場における競争力強化につなげつつ、民生分野において2030年時点で8万台の機体・重要部品の供給を確保し、その基盤を防衛分野でも活用するという考え方である",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、8万台という数字は年間生産台数ではなく、2030年時点での機体・重要部品の供給確保目標として読むべきだろう",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、インフラ点検、公共安全、物流、農業、建設、警備、防災、防衛でドローンが通常業務になっていくことを考えると、8万台という数字は決して大きすぎる目標ではない",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型無人航空機（ドローン）とは｜防民一体で国内生産基盤、2030年に民生8万台の供給へ",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資ロードマップは、重要構成品の特定国依存から脱し、防衛と民生が一体となった国内生産基盤をつくり、民生分野で2030年時点に8万台の機体・重要部品の供給を確保する目標を掲げました",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に民生8万台の供給確保",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標は、防衛に必要な機体を安定的に開発・製造・維持整備できる基盤の構築と、民生分野で2030年時点に8万台の機体・重要部品の供給を確保することです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標 ― 小型無人航空機で2030年に民生8万台の供給確保",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "注： 目標 民生分野においては、2030年時点で８万台の機体・重要部品の供給を確保",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年時点に8万台",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "民生分野で2030年時点に8万台の機体・重要部品の供給を確保し、「防衛と経済の好循環」を実現することが目標です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "防衛に必要な小型無人航空機を安定的に開発・製造・維持整備できる基盤を構築して将来にわたって防衛省に供給すること、民生分野で2030年時点に8万台の機体・重要部品の供給を確保すること、同盟国・同志国への装備移転やサプライチェーン協力を進めることが目標です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "・防衛調達を民生市場における競争力の強化等につなげつつ、民生分野において、2030年時点で８万台の機体・重要部品の供給を確保し、この基盤を防衛分野においても活用する",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年時点で8万台",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "「8万台の供給を確保する」という台数",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "民生分野において、2030年時点で8万台の機体・重要部品の供給を確保し、その基盤を防衛分野においても活用することが目標です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "原文は民生分野で2030年時点に8万台の供給確保を目標にしており、民生需要を広げることが国産の生産基盤を強くします",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省は２０３０年にも、国内に年間約８万台の無人航空機（ＵＡＶ）の生産基盤を確保する目標を公表した",
+    "url": "https://newswitch.jp/p/48023",
+    "pass": 3
+   },
+   {
+    "quote": "産業用途における３０年時点の国内需要を約１４万台と想定し、そのうち点検、物流、防犯用途に使う約８万台を国内で安定供給可能にすることを目指すとした",
+    "url": "https://newswitch.jp/p/48023",
+    "pass": 3
+   },
+   {
+    "quote": "国が 2026年に台湾へ上陸作戦を実行すると想定し、独自に実施した机上演習の結果を公表4す",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 飯田将史「台湾を巡る軍事的緊張の高まりと日本の安全保障」『交流』第18巻第24号、2021年11月、18頁",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 「台湾有事で何が起きるのか」 『毎日新聞』2023年2月28日",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人機部隊 １個多用途無人機航空機部隊」と記載されているのみ",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以降13とされ、攻撃目標が地域（面）から個人のような移動目標（点）を攻撃する形に戦闘様",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "40 高橋伸夫「学習曲線の基礎」 『経済学論集』第66巻第4号、2001年1月、2-3頁、同じ製品を何個も作り続",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "けていると１個当たりの生産コストが徐々に減少していく現象",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（アルミ合金鍛造製造 20年以上 ｜ 台湾・台中）",
+    "url": "https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide",
+    "pass": 3
+   },
+   {
+    "quote": "15kgペイロードのマルチロータが農薬タンクを搭載して水田を飛行する場面や、山岳地帯の低温環境で全速巡回する捜索救助機では、機体上のすべての金属接合部が繰り返し振動・衝撃荷重・締結部の予圧サイクルに晒され続ける",
+    "url": "https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide",
+    "pass": 3
+   },
+   {
+    "quote": "台湾のドローン産業規模は2023年の28億台湾元から2025年の約129億元へ拡大",
+    "url": "https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide",
+    "pass": 3
+   },
+   {
+    "quote": "YC Forge（義晟工業）は台湾・台中を拠点とするアルミ合金鍛造専門メーカーで、20年以上の鍛造製造経験を持つ",
+    "url": "https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide",
+    "pass": 3
+   },
+   {
+    "quote": "鍛造ピストン合金の深掘り解説：4032・2618A と「材料の外側」にある選定ロジック",
+    "url": "https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide",
+    "pass": 3
+   },
+   {
+    "quote": "台湾 台中市 太平区 東平路267巷5号",
+    "url": "https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide",
+    "pass": 3
+   },
+   {
+    "quote": "1999年から３年間駐米防衛駐在官（ワシントンD.C.）として勤務し、2001年のえひめ丸事故と米同時多発テロ後の日米の対応に関して調整に当たる",
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/052600024/",
+    "pass": 3
+   },
+   {
+    "quote": "UAVプログラムが量産段階に移行するにつれ、課題は「1つの部品を成功裏にプリントすること」から、「製造ロット、機械、オペレーター、施設を横断して、数千個の再現性のある部品を生産すること」へと移行します",
+    "url": "https://www.stratasys.co.jp/resources/blog/3d-printed-vtol-drones/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysのある生産調査では、分散配置された6台のデスクトップ型プリンターを1台の産業用FDM®プリンターに置き換えた結果、総生産時間を約51％短縮すると同時に、部品点数と組立作業の労力も削減できました",
+    "url": "https://www.stratasys.co.jp/resources/blog/3d-printed-vtol-drones/",
+    "pass": 3
+   },
+   {
+    "quote": "、同社の無人航空機プログラム全体でこのアプローチを採用し、MQ-9B スカイガーディアン用の約240個の部品を含む、数千個の部品を3Dプリントしました",
+    "url": "https://www.stratasys.co.jp/resources/blog/3d-printed-vtol-drones/",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "2018年以降、世界の武装軍用ドローン移転に占める米国の割合はわずか8%にとどまっている（CNAS Drone Proliferation Dataset）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "HALEプラットフォームは2025年に56億6,000万米ドルの売上を生み、2035年までに市場収益の22.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "TUAV/MUAVプラットフォームは2025年に56.2億米ドルを生み出し、2035年には市場収益の30.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ISR/偵察は2025年に100.3億米ドルを生み出し、2035年には市場収益の42.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "通信中継は2025年に7億2,900万米ドルの売上高を生み、2035年には市場売上高の4.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の軍用ドローン売上高は2025年に44億7,000万米ドルとなり、2035年までに世界市場の26.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国の軍用ドローン売上高は2025年に8億9,300万米ドルとなり、2035年までに欧州市場の売上高の20.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の2025年の軍用ドローン売上高は8億700万米ドルで、2035年にはアジア太平洋市場の売上高の15.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "イスラエルの国内軍用ドローン収益は2025年に2億1,500万米ドルとなり、2035年には中東・アフリカ市場の収益の20.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Israel Aerospace Industriesは、2025年の世界の軍用ドローン市場シェアの推定6.8%を占める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "をはじめとするＵＡＶは現在、ＤＪＩを筆頭に中国メーカーが圧倒的な世界シェアを持ち、日本市場でも産業用途の９割を中国社製の機体が占める",
+    "url": "https://newswitch.jp/p/48023",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界ドローン市場規模は約838億ドルで、ハードウェアが59%超を占める",
+    "url": "https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide",
+    "pass": 3
+   },
+   {
+    "quote": "資料が期待する量産単価は、迎撃用UAVが1機あたり数十万円以下、UAVを除く装置一式が1,000万円以下です",
+    "url": "https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備庁「令和8年度 防衛省版SBIR トピック2 国内製造の部品・構成品を活用した迎撃用UAVシステム」p.1（概要・背景）、p.1〜2（研究開発内容）、p.3（国内製造の部品・構成品、その他条件、期待する量産単価）、p.3（量産予定量）、p.3〜5（フェーズごとの内容）、p.5（接続仕様の取扱い）",
+    "url": "https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "量産単価の目標はAI・UIソフトウェア取得費1,000万円以下、AI導入費1隻あたり1,000万円以下です",
+    "url": "https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備庁「令和8年度 防衛省版SBIR トピック5 複数ＵＡＶによる洋上警戒監視の運用を最適化するＡＩシステム」p.1（概要・背景）、p.2（運用構想）、p.3（研究開発内容・要求性能）、p.3〜4（操作画面の要件、期待する量産単価）、p.6（備考）",
+    "url": "https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "フェーズ2・3と量産は単価と費目別の積算根拠も必要です",
+    "url": "https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Below is a representative drone assembly BOM for a 7-inch tactical FPV platform produced at volume. Prices reflect wholesale procurement at 100-unit minimums directly from manufacturers or tier-1 distributors:",
+    "url": "https://bimpsoft.com/blog/en/2026/06/18/uav-manufacturing-software-drone-production-erp-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Direct materials at actual FIFO purchase prices — $222.00 per unit at wholesale, based on the BOM above; this figure shifts with every change in USD/CNY rate and every substitute component",
+    "url": "https://bimpsoft.com/blog/en/2026/06/18/uav-manufacturing-software-drone-production-erp-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Inbound freight and customs — international air or sea freight from Chinese suppliers plus brokerage fees; this component is highly variable (air freight can reach 25% of component value during surge periods) but averages 12–16% of material BOM under normal conditions. At 14%: $31.08",
+    "url": "https://bimpsoft.com/blog/en/2026/06/18/uav-manufacturing-software-drone-production-erp-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "14% of material BOM",
+    "url": "https://bimpsoft.com/blog/en/2026/06/18/uav-manufacturing-software-drone-production-erp-guide/",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "軍用ドローン市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "を超える市場シェアを獲得し、首位に立った",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "この違いは供給企業にとって重要である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "定期的な予算配分により、生産計画、サプライヤーの認定、予備部品の確保、ペイロードの更新、訓練インフラの整備が可能になるためだ",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、国家安全保障上の要件、現地調達への期待、同盟内の相互運用性基準を満たせる供給企業にとって、対象市場が広がっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のサプライヤーは、サービスを提供できる顧客や任務に制限を受ける一方、納期の速さ、移転の容易さ、現地産業の参画が受注決定に影響する市場では、規制の緩やかな代替製品が競争力を持つ",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "共通の認証手続きやパートナー国による型式承認に早期に投資するサプライヤーは、契約済みの需要をプラットフォーム収益として計上できる可能性が高まる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "利用可能な生産能力と、信頼性の高い自律性・生存性・認証のロードマップを組み合わせられるサプライヤーは、再軍備の意向を実現可能なプログラムへと転換するうえで優位に立つ",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "戦術ドローンの配備が拡大するなか、迅速な配備、モジュール式ペイロード、相互運用可能な地上管制アーキテクチャを提供できるサプライヤーは、優位性を維持する可能性が高い",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "実績ある発射、標的設定、操縦者訓練のエコシステムを備えたサプライヤーは、軍がこうした能力の標準化を進めるなかで恩恵を受ける可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場シェア（用途別）、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "初期のプログラムでは、厳しい気象、地形、通信環境下での信頼性を実証できるサプライヤーが優先される可能性が高い",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "信頼性の高いペイロード統合、安全な自律機能、兵器関連のパートナーシップ網を備えるプラットフォーム供給企業は、用途を狭く限定したISR製品を主力としてきた企業よりも有利な立場に立つと考えられる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、機体メーカーだけでなく、通信事業者、ソフトウェア企業、センサー企業、システムインテグレーターなど複数のプレーヤーが関与する産業構造が形成されやすくなっています",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "UAVドローン市場の産業基盤強化が進むなか、機体メーカーだけでなく部品・通信・ソフトウェア・運航サービスを含むエコシステム競争が本格化",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、公共・防衛関連用途では、飛行安全性だけでなく、通信の信頼性、サイバーセキュリティ、機体や部品の供給安定性なども重要な評価項目となります",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、事業会社や投資家が日本市場で成長機会を探す場合、ドローンメーカーだけでなく、運航管理、通信ネットワーク、センサー、クラウド、保守、教育・認証など周辺エコシステムへの投資余地も評価する必要があります",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの専門チームは、多国籍企業、製品メーカー、中小企業、またはスタートアップ企業を含むクライアントのビジネスニーズに最も効果的なソリューションを作成するために疲れ知らずに働いています",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "サイズ、シェア、成長",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "貨物ドローン市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "貨物ドローン市場規模、シェア、トレンド分析レポート：タイプ別（固定翼、ハイブリッド、回転翼）、自動化レベル別（完全自律、半自律、遠隔制御）、航続距離別（超短距離、短距離、中距離、長距離）、積載量別（超軽量、軽量、中量、重量物）、コンポーネント別（カメラ、センサー、機器、その他）、用途別（商用貨物、軍事貨物）、エンドユーザー産業別（Eコマース、建設、政府・防衛機関、ヘルスケア、オフショア・エネルギー、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に45%の市場シェアを占め、貨物ドローン市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界市場の45％以上を占め、最大の市場シェアを誇っていた",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "機種別に見ると、固定翼機が50%以上の市場シェアを占め、最も高いシェアを獲得した",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "航続距離別に見ると、ミドルレンジセグメントが40%以上と最も高い市場シェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "部品別に見ると、センサー分野が35%以上と最大の市場シェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザー業界別に見ると、Eコマース分野が50%以上と最も高い市場シェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "固定翼貨物ドローンは、航続距離の長さ、エネルギー効率、積載量の高さから、市場シェアの50%以上を占め、圧倒的な存在感を示しています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、適応性の高い貨物輸送ソリューションへの需要の高まりにより、ハイブリッドドローンは世界的に着実に市場シェアを拡大​​しています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "半自律型ドローンは市場シェアの45%以上を占め、人間の監視と自動化された運用をバランスよく両立させています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンの自律性への投資増加と、自動化運用を支援する規制枠組みの整備により、市場シェアは急速に拡大しており、完全自律型ドローンは貨物輸送の未来を担う存在となっています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "中距離貨物ドローンは市場シェア40%以上を占め、飛行距離、積載量、効率性の最適なバランスを実現しています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米とアジア太平洋地域における急速な発展に加え、エネルギーシステムとナビゲーション技術の向上も相まって、成長を牽引し、戦略的な貨物輸送ソリューションにおける市場シェアを着実に拡大させています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軽量ドローンは市場シェア45%以上を占め、小型から中型の配送に最適な積載能力を提供します",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "無人航空機の市場シェアの現状",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 無人航空機は、中国製が世界市場で7割、産業用途に係る国内市場で９割と大きなシェアを",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 国内機体メーカーはシェア獲得に至っていない",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場のシェア※（2023年時点） 日本市場のシェア※（2025年4月時点）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※市場シェアの数値は販売数ベース",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業がシェアの大多数を占める",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 我が国として供給力強化に取り組",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "まなければ、更に他国への供給依",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 主要な機体メーカーは内製化",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機体の市場シェアを踏",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "まえると、特定国が大きなシェアを有している可能性",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "置や各種センサ等に電力を供給する",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 特定国が大きなシェアを有しており、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "近年、海外メーカーにおける供給途",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 韓国のドローンの部品の国産化率は30％を占めているが、中国による部品輸出規制を懸念してさらなる国産部品のシェア向上を目指し、2025年5月、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在、DJIは世界の民生用ドローン市場で圧倒的なシェアを持つと広く推定されている",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "防衛調達を民生市場における競争力強化につなげつつ、民生分野において2030年時点で8万台の機体・重要部品の供給を確保し、その基盤を防衛分野でも活用するという考え方である",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、8万台という数字は年間生産台数ではなく、2030年時点での機体・重要部品の供給確保目標として読むべきだろう",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年時点での供給目標にも意味がある",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型無人航空機（ドローン）とは｜防民一体で国内生産基盤、2030年に民生8万台の供給へ",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資ロードマップは、重要構成品の特定国依存から脱し、防衛と民生が一体となった国内生産基盤をつくり、民生分野で2030年時点に8万台の機体・重要部品の供給を確保する目標を掲げました",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に民生8万台の供給確保",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "幅広い調達ポートフォリオは、主契約企業と専門サプライヤーの双方に事業規模をもたらす一方、安全保障、認証、国内調達、プログラム統合に関する参入障壁も高める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "同国の重要性は国内調達にとどまらず、欧州の共同プログラムの進展の速度や構成にも、ドイツの産業面の判断が影響を及ぼす",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "フランスでは、MALEシステムに対する運用上の需要に加え、国内航空宇宙産業の能力と欧州プログラムへの参加が戦略的に重視されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内製造、セキュリティ保証、同盟国の作戦との統合が、引き続き競争力の要となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域の軍用ドローン市場は、中国の国内調達、インドの国産化と輸入、そして日本とオーストラリアにおける同盟国の戦力近代化という、複数の独立した需要要因に支えられている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "この多様な需要構成により、特定の国のプログラムへの依存が抑えられ、国内生産システム、対外有償軍事援助、共同生産、協調型自律システムの取り組みに機会が生まれている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の需要は、輸出活動よりも、MALE、戦闘機、自律型航空機に対する中国人民解放軍（PLA）の国内要件によって主にけん引されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "厚い国内産業基盤が、複数の能力階層にわたるプラットフォーム開発を支えている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "インド市場では、国内開発と選択的な海外調達が組み合わさり、国内企業と国際的なOEMの双方に二つの市場機会が生まれている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の2025年の軍用ドローン売上高は8億700万米ドルで、2035年にはアジア太平洋市場の売上高の15.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は防衛態勢の変化に伴い、海・空・陸の任務における無人能力を拡充している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "対UASおよび自律システムの正式な調達活動は、日本の無人システムのポートフォリオが多様化していることを示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域の需要は、高コストの戦闘航空機計画よりも、国境監視、海洋状況把握、国内治安支援に集中している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "潤沢な資金を背景とする調達環境では、米国、欧州、中国、トルコのサプライヤー間の競争が促される一方、国内の産業育成への意欲から、現地能力の重要性が高まっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "サウジアラビアの需要は、国境警備、地域の脅威認識、国内の防衛産業育成を優先する政策の影響を受けている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本では国土交通省が機体認証、無人航空機操縦者技能証明、運航ルールなどを整備し、一定の条件下で有人地帯における目視外飛行を可能とする「レベル4飛行」の制度環境を構築しています",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "日本では経済産業省と関係機関が、2026年度の開始を視野に「ドローン航路登録制度」のロードマップを策定し、民間事業者が整備・運用するドローン航路を登録する仕組みの構築を進めています",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "日本では経済産業省が2025年に「無人機産業基盤強化検討会」を開催し、国内の無人機産業を取り巻く課題や今後の産業基盤について検討を進めています",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では、人口減少、現場人材不足、インフラ維持管理、地域物流などの課題とUAV技術の活用余地が重なっており、今後は「どの業務をドローンに置き換えるか」だけでなく、「ドローンによって取得したデータをどのような意思決定やサービスにつなげるか」が競争力を左右します",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "• 日本市場で成長余地が大きい用途領域を見極め、単なる機体販売ではなく「業務課題の解決」に投資する",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "日本のUAVドローン市場で競争優位を構築するには、機体性能だけを追求する戦略から、AI、自律飛行、画像解析、センシング、クラウド、業務システムとの連携までを一体化したソリューション型ビジネスへ移行することが重要です",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、事業会社や投資家が日本市場で成長機会を探す場合、ドローンメーカーだけでなく、運航管理、通信ネットワーク、センサー、クラウド、保守、教育・認証など周辺エコシステムへの投資余地も評価する必要があります",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では、ドローンを導入する企業側に専門人材や運用ノウハウが十分に存在しないケースも想定されるため、機体を提供して終わるモデルよりも、導入設計、運用支援、データ分析、保守までをカバーするパートナー型モデルの方が事業拡大につながりやすくなります",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場で成長機会を獲得するためには、単なる「ドローン市場への参入」ではなく、ドローンによって今後どの産業のコスト構造・人材構造・業務プロセスが変わるのかを起点に投資先を選定することが、2035年に向けた競争優位の構築につながります",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "https://japaninsights.jp/",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "japan Blog Sites :",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.linkedin.com/company/reportoceanjapan/",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "日本リサーチ",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "日本レポート市場",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、医療および小売業界との提携が普及を促進し、国内の研究開発努力によって航行性能、信頼性、運用規模の拡大が図られている",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "設立以来、Ziplineはルワンダ、ガーナ、日本、ケニア、ナイジェリア、コートジボワールなど、複数の国に事業を拡大しています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 国内でも、山間地や災害時における隔離地域などへの物資輸送が実証的に行われている",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "米Walmartでは、2025年現在、米国内7都市でオンライン",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出典）㈱エアロネクスト（出典）(一社)日本UAS産業振興協議会",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 無人航空機の市場規模は、世界・国内ともに高い成長率で拡大していく見通し",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場の見通し 国内の機体に関する分野別市場規模推計",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度までに 国内外の既存UAV・UGV等を",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 無人航空機は、中国製が世界市場で7割、産業用途に係る国内市場で９割と大きなシェアを",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 国内機体メーカーはシェア獲得に至っていない",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場のシェア※（2023年時点） 日本市場のシェア※（2025年4月時点）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中国 日本 米国 フランス その他",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 国内・海外ともに特定国の少数の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 経産省では、国産無人航空機を支援の対象機材として採用を",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各国の無人航空機の国産化に向けた政策支援の状況",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 各国において、無人航空機の国産化を志向し、防衛用途などの公共調達における国産機体の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "優先調達や、無人航空機部品や飛行制御ソフト、機体販売に携わる国内の企業に対する補助",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【特集】最大7,000億円の官民投資、問われる日本ドローン産業の「2030年」 - ドローンジャーナル",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大7,000億円の官民投資、問われる日本ドローン産業の「2030年」",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のドローン産業に、ようやく国家的な産業シグナルと呼べる数字が示された",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本が2040年度までの官民投資として最大7,000億円規模を見込む一方で、中国と米国の主要プレイヤーは、より短い時間軸で動いている",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "為替にもよるが、日本円にすれば7,000億円に近い規模感である",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国のSkydioも、2026年4月、米国内製造、研究開発、サプライチェーン強化のために、今後5年間で35億ドルを投じる計画を発表した",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の数字は、政策分野にまたがる官民投資の見通しである",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "Skydioの数字は、米国内の製造、研究開発、サプライチェーン投資を含む企業発表である",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本は2040年を見ている",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のロードマップが野心的すぎることが問題なのではない",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "インプレス総合研究所の『ドローンビジネス調査報告書2026』では、国内ドローンビジネス市場は2025年度から2030年度まで年平均13.9％で成長し、2030年度には9,544億円に達すると予測されている",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは日本国内の市場予測である",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の課題は「実証不足」ではない",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、ドローンの未来を知らなかった国ではない",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "同盟国に義務付けられた支出の下限により、先送りされていた予算が優先度の高いUAS能力の不足分に振り向けられ、従来の主要購入者を超えて潜在市場が広がる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "NATOの更新された支出方針により、持続的な監視、消耗型攻撃システム、相互運用可能な戦術機体群などの能力不足への対応が重視されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "この用途は、見通し外で活動する分散部隊や、地形によって地上通信が制限される地域で活動する部隊における、継続的な接続性の不足に対応するものだ",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "物流分野では、UAVドローンが人手不足や輸送効率の改善という構造的課題に対応する手段として注目されています",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では、人口減少、現場人材不足、インフラ維持管理、地域物流などの課題とUAV技術の活用余地が重なっており、今後は「どの業務をドローンに置き換えるか」だけでなく、「ドローンによって取得したデータをどのような意思決定やサービスにつなげるか」が競争力を左右します",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 韓国のドローンの部品の国産化率は30％を占めているが、中国による部品輸出規制を懸念してさらなる国産部品のシェア向上を目指し、2025年5月、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "重要なのは、ドローンが点検ツール、物流実証、スタートアップ技術、あるいは航空法上の規制対象としてだけ扱われる段階を越え、防衛、航空宇宙、経済安全保障、インフラ維持管理、防災、労働力不足、産業競争力という言葉の中に置かれ始めたことである",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の課題は「実証不足」ではない",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本に不足しているのは、実証そのものではない",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型無人航空機（ドローン）は、防衛の装備品としても、人手不足が深刻な民生分野でも活用が進んでいる機体です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "自治体は、人手不足分野でのドローン活用、地元企業の部品・ソフトウェア分野への参入、調達時のサイバーセキュリティへの配慮で関われます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "現状と構造変化 ― 小型無人航空機の特定国依存と量産体制の不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "重要構成品の特定国依存と、量産体制を確立できるだけの需要の不足という課題に対し、量産設備投資の支援、ファストパス調達、国産品の需要拡大などを一体的に進めます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "・小型無人航空機は、民生分野でも、人手不足が深刻化する分野を中心に活用が進展",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "・防衛・経済安全保障双方の観点から、国内生産基盤が必須も、量産体制を確立できるだけの需要が不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が深刻な分野",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足が深刻化する分野を中心に活用が進展」",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "自治体の現場でも、農業、インフラ点検、災害時の状況把握、物流など、人手不足の分野でドローンが使われ始めています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "重要構成品の特定国依存による供給停滞リスクと、量産体制を確立できるだけの需要の不足が、主な課題です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "原文の1枚まとめでも、「量産体制を確立できるだけの需要が不足」とされています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "自治体は、防災・インフラ点検・農林業など人手不足分野でのドローン活用、調達時のサイバーセキュリティへの配慮、地元の部品メーカーやソフトウェア企業のドローン関連分野への参入支援、スタートアップの育成、操縦・整備・ソフトウェア人材の育成を地域未来戦略に位置づけることで、国の流れに参加できます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "民生分野の需要（人手不足分野）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "本市（町村）も、防災・インフラ点検など人手不足分野でのドローン活用と安全な調達を進め、地元企業の参入と人材育成を支援する",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域未来戦略には、人手不足分野でのドローン活用、調達時のサイバーセキュリティへの配慮、地元企業の参入支援、人材育成を位置づけると、国の方向とそろいます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレス鋼部品は、耐食性、機械的耐久性、保護コーティングへの依存度低減といった特長により、これらの優先事項を支えることができる",
+    "url": "https://nhkmachineryparts.com/jp/%E9%98%B2%E8%A1%9B%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E7%99%BA%E5%B0%84%E5%8F%B0%E3%81%AE%E7%B7%8F%E6%89%80%E6%9C%89%E3%82%B3%E3%82%B9%E3%83%88%E5%89%8A%E6%B8%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "UAVの国産化への取り組みとして防衛省・自衛隊は努力不足と言わざるを得ない",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "16 「ウクライナ、戦地でのドローン不足を懸念 中国の輸出規制で」 『BBC NEWS JAPAN』2023年10月24日",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1点目は、防衛装備品の中国依存リスクからの回避である",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "な中国依存リスクを回避していく必要がある",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "35 「ウクライナ、戦地でのドローン不足を懸念 中国の輸出規制で」 『BBC NEWS JAPAN』2023年10月24日",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "37 同上、3頁、外国の国内法令の輸出規制等により当該国での生産部品供給が途絶するリスク",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の輸出規制によって同盟国への輸出が制限されてきた",
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本のドローン産業は中国依存など産業構造に課題",
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/052600024/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のドローン市場は中国製機体への依存度が極めて高い",
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/052600024/",
+    "pass": 3
+   },
+   {
+    "quote": "「インテルに首位奪われてもNEC役員は平然」 半導体不足、30年前の遠因",
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/052600024/",
+    "pass": 3
+   },
+   {
+    "quote": "深刻な人手不足に悩む警備業界にAIの“眼”を提供する！ アジラ、エヌビディア、日本HPが目指す次世代防犯システム",
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/052600024/",
+    "pass": 3
+   },
+   {
+    "quote": "同資料は政府方針そのものではないが、日本の課題は単純な技術不足だけでなく、無人機を",
+    "url": "https://whiteorder.net/japan-defense-startups-list-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "command can leverage decentralized drone production and hybrid-VTOL platforms for just-in-time resupply to forward-deployed units, reducing dependence on high-risk ground convoys by over 40%.",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "None — parallel orders draw from shared stock; shortages discovered during assembly",
+    "url": "https://bimpsoft.com/blog/en/2026/06/18/uav-manufacturing-software-drone-production-erp-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Hard reservation at order launch; shortage alerts generated before assembly begins",
+    "url": "https://bimpsoft.com/blog/en/2026/06/18/uav-manufacturing-software-drone-production-erp-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "MRP / shortage forecasting",
+    "url": "https://bimpsoft.com/blog/en/2026/06/18/uav-manufacturing-software-drone-production-erp-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Automatic shortage calculation against production plan, factoring supplier lead times and open POs",
+    "url": "https://bimpsoft.com/blog/en/2026/06/18/uav-manufacturing-software-drone-production-erp-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "MRP eliminates surprise stockouts; shortage alerts fire before production, not during it",
+    "url": "https://bimpsoft.com/blog/en/2026/06/18/uav-manufacturing-software-drone-production-erp-guide/",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "この変化により買い手層が広がる一方、センサー、自律性、航法の強化、運用支援に対する要件を通じて、プラットフォーム当たりの収益も増加している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益の拡大は予算の確保だけでなく、OEMの生産能力、輸出機会、航法の耐障害性、認証済みシステムを予定どおりに運用開始できる能力にも左右される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な防衛調達予算の拡大",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォーム当たりの予算配分の増加により、MALEおよびHALEプログラムの開始が加速し、統合軍司令部全体でSUASの調達量が拡大する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2027会計年度までDoDのUAS予算が持続的に拡大すれば、北米市場の売上高は予測期間の早い段階で高い年平均成長率（CAGR）を示す",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "同盟国に義務付けられた支出の下限により、先送りされていた予算が優先度の高いUAS能力の不足分に振り向けられ、従来の主要購入者を超えて潜在市場が広がる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛支出の増加は、戦時の例外的な購入ではなく、継続的なUASプログラム予算へと結びつく傾向が強まっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "定期的な予算配分により、生産計画、サプライヤーの認定、予備部品の確保、ペイロードの更新、訓練インフラの整備が可能になるためだ",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ強化要件によりプログラム開発予算が増加し、認証の遅延が発生することで、2027〜2030年の調達サイクルに参入する新たなMALEおよびSUASプラットフォームの初期運用能力の獲得が先送りされる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "認証に起因する遅延により、防衛予算サイクルごとの実質的な調達年数が短縮され、各年の実際のプラットフォーム納入数が契約数量を下回るとともに、予測期間前半の収益が中期へと移行する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "このセグメントは、旅団レベルのISRから局地的な攻撃支援、砲兵との連携まで、最も幅広い運用主体のニーズに応える",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "調達は緊急の運用ニーズへの対応から正式な調達枠への移行が進んでいるものの、分類方法は国ごとの予算によって異なる場合がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "持続的な情報収集、標的設定支援、状況認識があらゆる任務の基盤となるため、ISRは最大の用途であり続けている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事用物流ドローンは、実験段階から、前線への補給、弾薬輸送、紛争地域での医療支援など、用途を絞った運用へと移行しつつある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "最も重要なセグメントの転換は、任務別の機体群から、偵察、攻撃、電磁作戦を支援できる構成変更可能なシステムへの移行にあるとみている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本では経済産業省と関係機関が、2026年度の開始を視野に「ドローン航路登録制度」のロードマップを策定し、民間事業者が整備・運用するドローン航路を登録する仕組みの構築を進めています",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "こうした動きは、UAVドローン市場において機体販売だけでなく、航路管理、運航支援、通信、保守、データサービスなど周辺市場を拡大させる可能性があります",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "AI・自律飛行・高性能センサーの融合がUAVドローン市場の製品価値を再定義、操縦支援から判断支援へと技術開発の重点が移行",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "日本では経済産業省が2025年に「無人機産業基盤強化検討会」を開催し、国内の無人機産業を取り巻く課題や今後の産業基盤について検討を進めています",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "こうした用途では、人が現場へ到達する前に上空から状況を確認できることが大きな価値となり、危険区域や広範囲の現場における初動対応を支援できます",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では、ドローンを導入する企業側に専門人材や運用ノウハウが十分に存在しないケースも想定されるため、機体を提供して終わるモデルよりも、導入設計、運用支援、データ分析、保守までをカバーするパートナー型モデルの方が事業拡大につながりやすくなります",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "我々は戦略および成長分析の洞察を提供し、企業の目標達成に必要なデータを提供し、将来の機会の活用を支援します",
+    "url": "https://newscast.jp/smart/news/5262280",
+    "pass": 3
+   },
+   {
+    "quote": "より迅速かつ費用対効果の高い配送に対する需要の高まり、ドローン設計における技術革新、そして支援的な規制枠組みにより、世界市場は力強い成長を遂げています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンの自律性への投資増加と、自動化運用を支援する規制枠組みの整備により、市場シェアは急速に拡大しており、完全自律型ドローンは貨物輸送の未来を担う存在となっています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業、人道支援、防衛物流向けに設計されたこれらのドローンは、中長距離にわたって大量の貨物を輸送します",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ドローンの試験運用と技術統合に対する政府の支援が、準備態勢と地域における普及を促進している",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "インフラの拡充、規制当局の支援、グローバルなテクノロジープロバイダーとの提携も、運用展開をさらに強化しています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の貨物ドローン市場は、都市配送イニシアチブ、物流の近代化、政府支援のドローン実証実験プログラムなどを背景に、着実に成長を続けています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、国際的なテクノロジープロバイダーや地域の物流企業との連携、規制当局の支援強化、自律飛行パイロットプログラムの実施などが相まって、ドローンの普及を加速させ、ラテンアメリカを高い潜在力を持つ市場として位置づけています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、配送時間の短縮、運用安全性の向上、産業・商業・人道支援分野へのドローン導入といった取り組みも成長を後押しし、貨物ドローン市場における同地域の役割を強化している",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "DJIは、産業配送、測量、重量物輸送用途向けに設計された高度な貨物・物流ドローンプラットフォームを追加することで、商用ドローンソリューションのポートフォリオを拡充し、自律型航空物流の成長を支援している",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Wing Aviationは、新たな商業パートナーシップの締結と自律型配送システムの導入拡大により、ドローン配送事業を拡張し、ドローンを活用した物流ネットワークの普及を支援している",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "データに基づいた市場インテリジェンス、戦略的評価、競合ベンチマーク、需要予測、商業的デューデリジェンス、成長戦略の策定を専門とし、情報に基づいたビジネスおよび投資の意思決定を支援しています",
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 防衛用途においても、各国の防衛当局における無人航空機調達予算は拡大傾向",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場の見通し 防衛省における活用方針",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 防衛省は、2022年に閣議決定された防衛力整備",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各国の防衛用途無人航空機の予算変遷 ［億円］",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各国において、防衛用途無人航空機の予算は",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出典）Drone Market Report 2020-2025 【DRONE Industry Insight】 ※登録機体数（国の登録制度に基づく）ベースで経済産業省作成",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は政策支援により産業基盤強化を",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OSA（政府安全保障能力強化支援）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 経産省では、国産無人航空機を支援の対象機材として採用を",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（参考）予算額の推移",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②支援ツール作成・公表",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各国の無人航空機の国産化に向けた政策支援の状況",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金支援を展開",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 2025年7月に成立した予算調整措置法「One Big Beautiful Bill Act 」に、国防総省向けの2029年までの予算として小型無人航空機の産業基盤を拡大す",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サプライチェーン全体にわたって無人低高度航空機の産業発展を支援している",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、7,000億円を確定した単一の予算枠のように読むべきではない",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "重要なのは、ドローンが点検ツール、物流実証、スタートアップ技術、あるいは航空法上の規制対象としてだけ扱われる段階を越え、防衛、航空宇宙、経済安全保障、インフラ維持管理、防災、労働力不足、産業競争力という言葉の中に置かれ始めたことである",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "だが、それが繰り返し発生する調達、運用予算、保守体制、オペレーター育成、顧客定着、事業スケールへと十分に接続されてこなかった",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、その組織が翌年も予算を取り、担当者を育成し、業務フローに組み込み、壊れたら直し、ソフトウェアを更新し、データを評価し、運用を拡大するかどうかまでは保証しない",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "大崎警察署とERI Roboticsが協定締結、小型ドローンで災害時の倒壊建物内の捜索活動を支援",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "自由な機体構造のドローン開発を支援する新型FC、Tobasが提案するUADFとROSベース開発環境",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "法令上の各手続きや複数機体の管理を適法かつ効率的に支援する「FwriteDown」",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "pass": 3
+   },
+   {
+    "quote": "政策は、量産設備投資の支援、スタートアップ向けの「ファストパス調達」、サイバーセキュリティのガイドライン整備、同盟国・同志国とのサプライチェーン協力などです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマトくんに質問すると、この内容をふまえて自治体の地域未来戦略づくりを支援します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "重要構成品の特定国依存と、量産体制を確立できるだけの需要の不足という課題に対し、量産設備投資の支援、ファストパス調達、国産品の需要拡大などを一体的に進めます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "・防衛・経済安全保障双方の観点から、国内生産基盤が必須も、量産体制を確立できるだけの需要が不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   },
+   {
+    "quote": "①国内民生市場の拡大を見据え、経済安全保障の枠組みを活用し、機体・重要部品の量産設備投資を支援",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "防衛省版SBIRの新公募を読む｜迎撃UAV・国内製造部品・AI監視 | SkyLi... — Oct 19, 2026 · 防衛省版SBIRの令和8年度公募を、迎撃用UAVの国内製造部品、洋上警戒監視AI、量産費用計画から解説。公式資料とFAQをもとに、部品・ソフト企業の参画方法、採択と配備の違い、企業・自治体がドローン導入で確認したい供給・保守・運用の条件を整理します。",
+    "url": "https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Terra Drone 株式会社 on X: \"【プレスリリース】 テラドローンは、防... 【プレスリリース】 テラドローンは、防衛用ドローン向けの国産フライトコントローラー「Terra DFC」を自社開発し、量産体制を構築しました。 ドローンの頭脳にあたる中核部品を国内で量産し、防衛用ドローンのサプライチェーン国産化を進めます。",
+    "url": "https://x.com/TerraDrone_JP/status/2099439549781053908",
+    "pass": 3
+   },
+   {
+    "quote": "Terra Drone 株式会社 on X: \"【プレスリリース】 テラドローンは、防... Sep 14, 2026 · 【プレスリリース】 テラドローンは、防衛用ドローン向けの国産フライトコントローラー「Terra DFC」を自社開発し、量産体制を構築しました。 ドローンの頭脳にあたる中核部品を国内で量産し、防衛用ドローンのサプライチェーン国産化を進めます。",
+    "url": "https://x.com/TerraDrone_JP/status/2099439549781053908",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/5262280",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%88%A6%E8%A1%93%E7%9A%84uav%E5%B8%82%E5%A0%B4-115962",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/anti-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/48023",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA276AB0X20C26A7000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nhkmachineryparts.com/jp/%E9%98%B2%E8%A1%9B%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E7%99%BA%E5%B0%84%E5%8F%B0%E3%81%AE%E7%B7%8F%E6%89%80%E6%9C%89%E3%82%B3%E3%82%B9%E3%83%88%E5%89%8A%E6%B8%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.nikkei.com/atcl/gen/19/00800/052600024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.co.jp/resources/blog/3d-printed-vtol-drones/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/terrace_ifa/n/nf9a913e51463",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://s.gbase.ai/insight/japan-drone-companies-ranking-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/t_ryoma1985/status/2091460977112035657",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.surveyreports.jp/industry-analysis/combat-drone-market/1038035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whiteorder.net/japan-defense-drone-companies-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whiteorder.net/japan-defense-startups-list-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrone.com/en/solutions/defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://terra-drone.net/29255",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188928.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thebusinessresearchcompany.com/report/military-gliders-and-drones-global-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/5767881/military-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theresearchinsights.com/reports/military-drone-market-1387",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hub.claight.com/statistics/military-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.einpresswire.com/article/884448175/military-drones-market-analysis-of-opportunities-market-share-growth-competition-and-forecast-to-2030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcebyspec.com/news/drone-manufacturing-cost-breakdown-bom-drivers-and-2026-sourcing-levers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://anvilpropulsion.com/resources/ndaa-compliant-drone-bill-of-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bimpsoft.com/blog/en/2026/06/18/uav-manufacturing-software-drone-production-erp-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://admati.com/what-goes-into-manufacturing-a-military-drone/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://electronics.alibaba.com/question/military-drone-cost-breakdown-$700-to-$220m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/861689727/Drone-Cost-Breakdown",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drones.mil/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.army.mil/article/294637/drone_marketplace_goes_live_expands_functionality",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cset.georgetown.edu/publication/the-u-s-aerial-drone-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TerraDrone_JP/status/2099439549781053908",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TerraDrone_JP/status/2099439549781053908",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "防衛用ドローンの部材・機体 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "https://newscast.jp/smart/news/5262280",
+    "https://www.fortunebusinessinsights.com/jp/%E6%88%A6%E8%A1%93%E7%9A%84uav%E5%B8%82%E5%A0%B4-115962",
+    "https://straitsresearch.com/jp/report/cargo-drone-market",
+    "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "https://www.reportocean.co.jp/industry-reports/anti-drone-market",
+    "https://jp.linkedin.com/pulse/%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3-market%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E5%8B%95%E5%90%91%E4%B8%BB%E8%A6%81%E5%9C%B0%E5%9F%9F%E3%81%A72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A662%E3%81%AEcagr%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%82%8B-xkake",
+    "https://www.gii.co.jp/report/mama2059328-military-drones-market-by-class-small-tactical.html",
+    "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "https://www.verifiedmarketreports.com/ja/product/defense-drones-market/"
+   ]
+  },
+  {
+   "query": "防衛用ドローンの部材・機体 需要 見通し 2030",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "https://drone-journal.impress.co.jp/docs/special/1188648.html",
+    "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "https://newswitch.jp/p/48023",
+    "https://www.nikkei.com/article/DGXZQOUA276AB0X20C26A7000000/",
+    "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "https://jp.linkedin.com/pulse/counter-uas-market-outlook-2030-how-bmxve?tl=ja",
+    "https://newscast.jp/news/8704031",
+    "https://www.fortunebusinessinsights.com/jp/uav-%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E5%B8%82%E5%A0%B4-104081",
+    "https://www.marketreport.jp/military-drone-market-3"
+   ]
+  },
+  {
+   "query": "防衛用ドローンの部材・機体 部品構成 コスト",
+   "results": [
+    "https://nhkmachineryparts.com/jp/%E9%98%B2%E8%A1%9B%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E7%99%BA%E5%B0%84%E5%8F%B0%E3%81%AE%E7%B7%8F%E6%89%80%E6%9C%89%E3%82%B3%E3%82%B9%E3%83%88%E5%89%8A%E6%B8%9B/",
+    "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "https://www.mod.go.jp/gsdf/tercom/img/file2541.pdf",
+    "https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide",
+    "https://business.nikkei.com/atcl/gen/19/00800/052600024/",
+    "https://www.stratasys.co.jp/resources/blog/3d-printed-vtol-drones/",
+    "https://globalxetfs.co.jp/research/drones-in-defense-reshaping-modern-warfare-and-its-economics/index.html",
+    "https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html",
+    "https://nhkmachineryparts.com/jp/防衛用ドローン発射台の総所有コスト削減/"
+   ]
+  },
+  {
+   "query": "防衛用ドローンの部材・機体 シェア 主要企業",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf",
+    "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "https://note.com/terrace_ifa/n/nf9a913e51463",
+    "https://s.gbase.ai/insight/japan-drone-companies-ranking-2026/",
+    "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "https://x.com/t_ryoma1985/status/2091460977112035657",
+    "https://www.surveyreports.jp/industry-analysis/combat-drone-market/1038035"
+   ]
+  },
+  {
+   "query": "防衛用ドローンの部材・機体 日本企業",
+   "results": [
+    "https://whiteorder.net/japan-defense-drone-companies-list/",
+    "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "https://whiteorder.net/japan-defense-startups-list-2026/",
+    "https://www.prodrone.com/solutions/defense",
+    "https://terra-drone.net/29255",
+    "https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/",
+    "https://drone-journal.impress.co.jp/docs/special/1188928.html"
+   ]
+  },
+  {
+   "query": "防衛用ドローンの部材・機体 不足 OR 中国依存",
+   "results": []
+  },
+  {
+   "query": "military drone components airframe market market size CAGR 2030",
+   "results": [
+    "https://www.thebusinessresearchcompany.com/report/military-gliders-and-drones-global-market-report",
+    "https://www.researchandmarkets.com/reports/5767881/military-drone-market",
+    "https://www.technavio.com/report/military-drone-market-analysis",
+    "https://www.theresearchinsights.com/reports/military-drone-market-1387",
+    "https://hub.claight.com/statistics/military-drone-market",
+    "https://www.einpresswire.com/article/884448175/military-drones-market-analysis-of-opportunities-market-share-growth-competition-and-forecast-to-2030",
+    "https://www.futuredatastats.com/military-drone-market"
+   ]
+  },
+  {
+   "query": "military drone components airframe market cost breakdown bill of materials",
+   "results": [
+    "https://www.sourcebyspec.com/news/drone-manufacturing-cost-breakdown-bom-drivers-and-2026-sourcing-levers.html",
+    "https://anvilpropulsion.com/resources/ndaa-compliant-drone-bill-of-materials",
+    "https://bimpsoft.com/blog/en/2026/06/18/uav-manufacturing-software-drone-production-erp-guide/",
+    "https://admati.com/what-goes-into-manufacturing-a-military-drone/",
+    "https://electronics.alibaba.com/question/military-drone-cost-breakdown-$700-to-$220m",
+    "https://www.scribd.com/document/861689727/Drone-Cost-Breakdown",
+    "https://govtribe.com/file/government-file/24325157-uas-system-bom-template-01-oct-2025-dot-xlsx"
+   ]
+  },
+  {
+   "query": "military drone components airframe market demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://drones.mil/",
+    "https://www.army.mil/article/294637/drone_marketplace_goes_live_expands_functionality",
+    "https://cset.georgetown.edu/publication/the-u-s-aerial-drone-market/",
+    "https://www.expertmarketresearch.com/blogs/top-military-drone-manufacturers",
+    "https://www.thedroneu.com/blog/future-of-drones/",
+    "https://www.defensenews.com/air/2026/02/03/pentagon-taps-25-firms-for-small-cheap-attack-drone-competition/",
+    "https://www.cnbc.com/2026/05/12/buy-this-drone-stock-as-demand-for-unmanned-aircraft-grows-goldman-sachs-says.html"
+   ]
+  },
+  {
+   "query": "site:note.com 防衛用ドローンの部材・機体",
+   "results": [
+    "https://note.com/gifted_jacana443/n/n2b912d00e310",
+    "https://note.com/sumaho802/n/n7962989bc1e5",
+    "https://note.com/mod04tk24509/n/n23e7baa4ce95",
+    "https://note.com/gifted_jacana443/n/n6e83ac726d2b",
+    "https://note.com/octstrategic/n/n20eb4973b8fc",
+    "https://note.com/rigig/n/n26fb3f484d72",
+    "https://note.com/y44901726/n/n16c4d8074cf6"
+   ]
+  },
+  {
+   "query": "site:x.com 防衛用ドローンの部材・機体",
+   "results": [
+    "https://x.com/TerraDrone_JP/status/2099439549781053908",
+    "https://x.com/TerraDrone_JP/status/2106943830004228272",
+    "https://x.com/i/trending/2106915486613037542",
+    "https://x.com/TerraDrone_JP",
+    "https://x.com/toru_tokushige/status/2106876241886515318",
+    "https://x.com/A1aBrIGp0Q30150/status/2107258887229579495",
+    "https://x.com/terradrone_jp/status/2052637996047126981"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 防衛用ドローンの部材・機体",
+   "results": [
+    "https://uk.linkedin.com/in/vanessa-igoe-87881517a",
+    "https://www.linkedin.com/",
+    "https://ro.linkedin.com/in/silvia-maican-0989a117",
+    "https://jp.linkedin.com/posts/acsl-ltd_japan-drone-2026会期中政府防衛関係者がａｃｓｌ展示を視察-activity-7470378593991262210-APTP",
+    "https://jp.linkedin.com/posts/shoji-terayama-75066891_企業価値45兆円の米防衛テックのアンドゥリル日本進出純国産ドローン開発へ-activity-7401968470730416128-xSmA",
+    "https://www.linkedin.com/posts/hirohito-ogi-a9a085140_ドローン先進国に成長したウクライナと日本が企業協力へ専門家防衛用ドローンは-activity-7490044069256282112-qjO9",
+    "https://hu.linkedin.com/in/judit-csenge-vizi"
+   ]
+  },
+  {
+   "query": "site:facebook.com 防衛用ドローンの部材・機体",
+   "results": [
+    "https://www.facebook.com/jgsdf.fp/posts/陸上自衛隊-は愛知県の三菱重工業大江工場等で三菱重工業株が開発したse-vtolを用いた自動飛行の検証を行いました本機体は比較的小型の機体であり島しょ部内に展開/1037524778397043/",
+    "https://www.facebook.com/jgsdf.fp/videos/陸上自衛隊-は愛知県の三菱重工業大江工場等で三菱重工業株が開発したse-vtolを用いた自動飛行の検証を行いました本機体は比較的小型の機体であり島しょ部内に展開/1703255293874643/",
+    "https://www.facebook.com/OpenMilitary/videos/三菱重工が防衛ドローン開発に本格参入とんでもない事実が発覚/1648192852904804/",
+    "https://www.facebook.com/mod.japn/posts/1枚でわかる防衛省自衛隊-第108回目は無人アセット装備品について全4回の第2弾ドローンのような空を飛ぶ無人航空機のほか陸上水上水中で活動する無人アセットもあり/1329895462509851/",
+    "https://www.facebook.com/jgsdf.fp/videos/無人アセット防衛能力強化に向けた取組/1926030214515914/",
+    "https://www.facebook.com/bunka.kouryu/posts/日産の追浜工場も防衛用ドローン工場に-世界で近づく自動車メーカーと軍事-その強みとはアメリカの新興防衛企業が日産自動車の追浜工場を取得しドローンの生産拠点とする/3525519714281845/",
+    "https://www.facebook.com/atlamod/posts/有望な迎撃ドローンをいち早く部隊へ届けるため６月上旬より迎撃ドローン早期取得プログラムをスタート実証試験の結果を踏まえ本日８月２５日terradrone株と量産/122229872858575382/"
+   ]
+  },
+  {
+   "query": "防衛用ドローンの部材・機体 note 社長",
+   "results": [
+    "https://note.com/corerise/n/nd1389ac9b320",
+    "https://note.com/gifted_jacana443/n/n2b912d00e310",
+    "https://gendai.media/articles/-/170677",
+    "https://terra-drone.net/28742",
+    "https://forum.j-n.co.jp/narrative/9637/",
+    "https://terra-drone.net/25728",
+    "https://j-defense.ikaros.jp/docs/mod/005645.html"
+   ]
+  },
+  {
+   "query": "防衛用ドローンの部材・機体 X 投稿",
+   "results": [
+    "https://x.com/i/trending/2064616435545239723",
+    "https://x.com/TerraDrone_JP/status/2099439549781053908",
+    "https://news.livedoor.com/topics/detail/31536933/",
+    "https://www.sankei.com/article/20260610-N6AI7AD57ZKMNHFXAYYUCSN4OM/",
+    "https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/",
+    "https://www.mod.go.jp/atla/sbir/open-call.html",
+    "https://drone-journal.impress.co.jp/docs/special/1188616.html"
+   ]
+  },
+  {
+   "query": "military drone components airframe market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/military-aircraft-airframe-mro-market-trends-forecast-growth-5jhse",
+    "https://www.linkedin.com/pulse/military-aircraft-airframe-mro-market-us-japan-korea-europe-uazbf",
+    "https://pe.linkedin.com/pulse/us-military-aircraft-airframe-mro-market-unveiling-huqdf",
+    "https://in.linkedin.com/in/tusharad",
+    "https://np.linkedin.com/company/lucintel",
+    "https://in.linkedin.com/in/suresh-tripathi-805403206",
+    "https://kr.linkedin.com/in/byungjinyang/en"
+   ]
+  }
+ ],
+ "missing": {}
+}

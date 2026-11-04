@@ -1,0 +1,1948 @@
+{
+ "name": "ロボット用ベアリング",
+ "en": "robot bearings market humanoid",
+ "aliases": [
+  "ロボット ベアリング",
+  "ヒューマノイド 軸受",
+  "精密軸受 ロボット"
+ ],
+ "context": "フィジカルAI・部材",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:37:30.895375+00:00",
+ "evidence": {
+  "成長率": [
+   {
+    "quote": "ヒューマノイドロボット関節ベアリング市場分析レポート：2026年204.93百万米ドル規模、成長率34.76%推移 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット関節ベアリング市場分析レポート：2026年204.93百万米ドル規模、成長率34.76%推移",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearchの推計によると、世界市場の売上高は2025年に75.35百万米ドルとなり、2032年には1,227.37百万米ドルに拡大する見通しです",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "2026～2032年の年平均成長率（CAGR）は34.76％と予測されています",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "2032年には553.78百万米ドル、世界シェア45.12％に達する見込みで、2026～2032年の売上高CAGRは44.59％と予測されています",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "特に直動関節は2025年に売上高シェア16.24％を占め、2026～2032年のCAGRは41.58％と予測されています",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "世界の軸受市場は、2025年に572億米ドルと評価され、2026年には602億米ドルに達し、2026〜2035年に年平均成長率（CAGR）5.1%で拡大して、2035年には942億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電気自動車販売台数は2024年に1,700万台を超え、前年比で25%超増加",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "OEMチャネルの軸受需要は、2026〜2035年に年平均成長率（CAGR）5.4%で拡大すると予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "クロム合金軸受の年平均成長率は2026〜2035年に4.2%と予測され、世界市場の成長率を下回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "ローラー軸受は2025年に市場収益の38.0%を占め、2026〜2035年に年平均成長率（CAGR）5.7%で拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット関節ベアリング市場分析レポート：2026年204.93百万米ドル規模、成長率34.76%推移",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearchの推計によると、世界市場の売上高は2025年に75.35百万米ドルとなり、2032年には1,227.37百万米ドルに拡大する見通しです",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "2026～2032年の年平均成長率（CAGR）は34.76％と予測されています",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "2032年には553.78百万米ドル、世界シェア45.12％に達する見込みで、2026～2032年の売上高CAGRは44.59％と予測されています",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "特に直動関節は2025年に売上高シェア16.24％を占め、2026～2032年のCAGRは41.58％と予測されています",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット関節ベアリング市場分析レポート：2026年204.93百万米ドル規模、成長率34.76%推移 | QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ベアリング市場は、 2035年には3億7,917万米ドルへ拡大、平均成長率（CAGR）4.3％で成長予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "成長率（CAGR）4.3％で成",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ベアリング市場は、2025年に2億4,860万米ドルの規模となり、2035年までに3億7,917万米ドルに達すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）4.3％で拡大すると見込まれています",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "この動きは、NTNの「DRIVE NTN100」戦略に沿ったものであり、これによりアフターマーケットの製品ポートフォリオを拡大することになります",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ベアリング市場は、2025年の2億4,860万米ドルから拡大し、2035年には3億7,917万米ドルに達すると予測されています",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "成長率を内訳別に見ると、滑り軸受メーカー（-2.62%）の市場縮小が予測されるも､ 転がり軸受メーカー（+7.34%）の成長が寄与し、全体として 1.51%の成長と予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で軸受メーカーに影響する市場環境の変化を8つのカテゴリーに分類すると、拡大、減少共に環境問題・SDGsの影響が大きいと予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "中国の生産者物価指数、3月は前年比-2.5% 下落幅拡大でデフレ圧力続く",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "中国の消費者物価、3月は前年比-0.1％ 下落幅は縮小もデフレ基調継続",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "ボールベアリング市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のボールベアリング市場規模は、2025年には90億7000万米ドルと評価され、2026年の97億4000万米ドルから2034年には171億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は7.34%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンギュラコンタクトベアリング分野は、高速自動車および産業用途におけるラジアル荷重とアキシャル荷重の両方に対応できるベアリングの需要増加を背景に、2026年から2034年の予測期間中に年平均成長率（CAGR）7.8%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野は、精密医療機器、高度な外科手術機器、および医療用途における信頼性の高いモーションコントロール部品への需要の高まりを背景に、2026年から2034年の予測期間中に年平均成長率（CAGR）8.3%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック分野は、軽量性、高い耐摩耗性、耐腐食性、高速かつ要求の厳しい用途への適合性といった特長により、2026年から2034年の予測期間中に年平均成長率（CAGR）8.7%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーインフラの拡大はさらなる成長の機会をもたらしており、政府の目標に支えられ、2024年には洋上風力発電容量が稼働レベルに達しました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の産業用ベアリング市場は、2033年まで持続的な拡大が見込まれています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本自動車工業会の報告によると、2025年6月の日本の新車販売台数は、前年同月の373,599台から393,160台へと、前年比5％強増加した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、BYDは2024年に日本で2,223台の電気自動車を供給し、前年比54％増を記録した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボット用すべり軸受市場規模は、2025年の7,841万米ドルから2032年には2億4,300万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）17.5%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/3672483",
+    "pass": 3
+   },
+   {
+    "quote": "2033年にかけて年平均9.8%で成長し、規模は3,013億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/bearing/",
+    "pass": 3
+   },
+   {
+    "quote": "2035年にかけて年平均9.4%で成長し、規模は3,564億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/bearing/",
+    "pass": 3
+   },
+   {
+    "quote": "強みであるエンジニアリング軸受に加え、ギアドライブや自動潤滑システムなどの「産業用モーションコントロール分野」へと事業ポートフォリオを大きく拡大・強化し、今回3位へ浮上しました",
+    "url": "https://deallab.info/bearing/",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "2032年には553.78百万米ドル、世界シェア45.12％に達する見込みで、2026～2032年の売上高CAGRは44.59％と予測されています",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "その他地域も成長が見込まれ、2032年には生産シェア1.56％に達する予測です",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット関節ベアリングは、摩擦方式では転がり軸受とすべり軸受に分類され、すべり軸受は2032年に売上高シェア8.24％となる見通しです",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "特に直動関節は2025年に売上高シェア16.24％を占め、2026～2032年のCAGRは41.58％と予測されています",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月には、SKFとLeaderdriveが中国でロボット関節向け高精度伝動部品を開発・供給する合弁事業の設立で合意しました",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "これは、ヒューマノイドロボットの産業用途拡大を見据え、精密部品メーカーが供給体制と技術連携を強化する動きの一例です",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "地域別の生産・消費動向に加え、摩擦方式、内径、軸受構造、関節用途ごとの需要を比較することが、メーカーの製品開発や市場参入戦略を検討するうえで重要です",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「ヒューマノイドロボット関節ベアリング―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "軸受市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "SKF ABは2025年に14%超の市場シェアを獲得し、市場をリードしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "この需要構成では、標準製品のコスト管理を維持しながら、高度な材料や設計仕様の認定を取得できるサプライヤーが有利です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "市場の見通しは、OEMの設備投資計画が継続するかどうか、またメーカーが原材料価格の変動を吸収し、認定済みの補修市場向け販売網を維持できるかどうかに左右されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "複数年にわたるOEMのプラットフォーム契約により、メーカーはスポット市場での価格下落の影響を抑えられます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、アンギュラ玉軸受、円すいころ軸受、セラミックハイブリッド軸受の需要が拡大するとともに、自動車メーカーや電動駆動系OEMとの早期認定の重要性も高まっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "主軸、ギアボックス、ピッチ、ヨー用途では交換コストの高い大型軸受が必要となるため、調達において疲労寿命、密封性、サプライヤーの信頼性が重視されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "クロム合金鋼は主流製品の製造に不可欠であり、サプライヤーは原料価格の変動や、コスト回収が遅れる契約形態の影響を受けます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "標準的な軸受カテゴリーは切り替えコストが低く、特に産業用交換品や低仕様のOEM向け供給では、価格競争にさらされています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "材料科学の知見を持ち、OEMの設計段階から関与できるサプライヤーは、より安定した需要を獲得できると考えられます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "OEM向け供給は、プラットフォームの認定、複数年契約、用途に応じたエンジニアリングによって形作られます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "こうした関係は需要の見通しを立てやすくし、量産開始前に技術、生産、検証に関する要件を満たせるサプライヤーに有利に働きます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "販売チャネル別の軸受市場シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "エンジン、アクチュエーション、飛行制御、防衛プラットフォームの各用途では、高度な材料技術を備えた認定サプライヤーが選好されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "2032年には553.78百万米ドル、世界シェア45.12％に達する見込みで、2026～2032年の売上高CAGRは44.59％と予測されています",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "その他地域も成長が見込まれ、2032年には生産シェア1.56％に達する予測です",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット関節ベアリングは、摩擦方式では転がり軸受とすべり軸受に分類され、すべり軸受は2032年に売上高シェア8.24％となる見通しです",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "特に直動関節は2025年に売上高シェア16.24％を占め、2026～2032年のCAGRは41.58％と予測されています",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月には、SKFとLeaderdriveが中国でロボット関節向け高精度伝動部品を開発・供給する合弁事業の設立で合意しました",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "これは、ヒューマノイドロボットの産業用途拡大を見据え、精密部品メーカーが供給体制と技術連携を強化する動きの一例です",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "地域別の生産・消費動向に加え、摩擦方式、内径、軸受構造、関節用途ごとの需要を比較することが、メーカーの製品開発や市場参入戦略を検討するうえで重要です",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「ヒューマノイドロボット関節ベアリング―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ベアリング市場規模、シェア、競争環境およびトレンド分析レポート、サイズ別、タイプ別、素材別、精度別、用途別、地域別 : 2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー各社は、耐熱性、耐食性、耐摩耗性、および過酷な動作条件への耐性を向上させるため、先進的な鋼材、セラミックス、エンジニアリングポリマー、特殊コーティングを用いたベアリングの開発を進めています",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー各社は、摩擦と動力損失を低減しつつ、設備全体の性能を向上させる省エネ型のベアリング設計にますます注力しています",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー各社は、ベアリングの耐用年数を延ばし、エネルギー効率を向上させるため、先進的な材料、改良された潤滑システム、最適化された形状、および精密製造技術をますます取り入れています",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "高度かつ特殊な産業用ベアリングに伴う高コストは、特に資本とメンテナンスの予算が限られている中小規模のメーカーにとって、依然として市場成長の主要な阻害要因となっています",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "低コストメーカーによる価格競争や、再生品と低グレードの代替品の入手可能性も、高付加価値産業用ベアリングソリューションの導入をさらに制約する要因となります",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベアリングメーカーは、先進的な材料と潤滑技術とデータ分析を組み合わせながら、センサーを内蔵しデジタル接続されたソリューションの開発を加速させています",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、確立された製造プロセスと原材料の豊富な供給により、競争力のある価格設定が可能となっており、OEM（相手先ブランド製造）および交換用部品の両方において、鋼が好まれる材料となっています",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、メーカー各社は、高速と高温環境向けに設計された特殊鋼製軸受の開発も進めており、これにより、ますます高度化する産業用機器への採用が可能になっています",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "競合企業のプロファイルや市場シェア情報の追加",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する軸受メーカー ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する軸受メーカー ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "軸受メーカー",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "軸受メーカーの2030年AI予測レポート",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "15,000業界のうち、本ページでは軸受メーカーの業界予測レポートを無料でダウンロードしていただけます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "経済予測AI「xenoBrain」が、世界中の経済データを学習し、軸受メーカーの将来動向を予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "当ページでは、市場予測、主要企業ランキング、成長やリスクをもたらす外部要因の分析など、戦略立案に役立つ詳細なAI予測を無料でご確認いただけます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "軸受メーカー AIによる市場規模予測 5年間で1.51%の成長",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "軸受メーカーの国内市場規模は、現在の9,830億円と推計",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "成長率を内訳別に見ると、滑り軸受メーカー（-2.62%）の市場縮小が予測されるも､ 転がり軸受メーカー（+7.34%）の成長が寄与し、全体として 1.51%の成長と予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "軸受メーカー AI注目トレンド 市場環境の変化が成長に影響",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で軸受メーカーに影響する市場環境の変化を8つのカテゴリーに分類すると、拡大、減少共に環境問題・SDGsの影響が大きいと予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "軸受メーカー 主要企業シェアランキング 日本精工株式会社・株式会社ジェイテクト・NTN株式会社等",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "軸受メーカー業界に関心をお持ちの方には、以下のようにご活用いただけます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "軸受メーカーの",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "ボールベアリング市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ボールベアリング市場規模、シェア、トレンド分析レポート：タイプ別（深溝玉軸受、アンギュラ玉軸受、スラスト玉軸受、自動調心玉軸受、その他）、用途別（自動車、産業機械、鉱業・建設、医療、その他（航空宇宙など））、材質別（鋼、セラミック、プラスチック、ガラス）、最終用途別（プロセス産業、輸送、流通チャネル別、E.M、小売流通）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "生産面では中国が世界生産量の78.27％、日本が9.38％を占め、主要生産地域となっています",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）；0081-5058936232（グローバル）",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "japan@qyresearch.com",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch株式会社は、2017年に日本・東京で設立された市場調査・コンサルティング会社です",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "中国は市場規模を支え、日本は技術面で主導的な役割を担い、インドではOEM向けおよび交換用の需要基盤が拡大しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "国内サプライヤーは、より高付加価値の認定取得を目指す一方、グローバル大手企業は技術的難易度の高い用途で競争しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "日本は2025年にアジア太平洋地域の売上高の15.2%を占め、2026〜2035年の年平均成長率（CAGR）は3.7%と予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "日本の需要は、精密工学、半導体製造装置、特殊産業製品の生産と密接に結び付いています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発、品質基準、世界で事業を展開する軸受メーカーの存在が、日本の戦略的重要性を支えています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "自動車生産、産業政策、国内製造業への投資、再生可能エネルギーの導入が成長を下支えしています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "需要の拡大に伴い、国内生産能力の増強やグローバルOEMの投資が進むことで、供給面でも市場機会が生まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "同地域では、航空宇宙・防衛分野の調達、製造業の国内回帰、エネルギー投資、電気自動車（EV）製造の拡大が市場を支えています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "成長は、国内での認定、サービス支援、サプライチェーンの強靱性が大きな価値を持つ用途に集中しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "国内製造業の振興策により、技術面で適格性が認められたサプライヤーにとって、現地調達の機会が拡大する可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "ブラジルとメキシコでは、国内での機器利用とOEMサプライチェーンの拡大を通じて、性質の異なる相互補完的な事業機会が生まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い精密機械製品のポートフォリオにより、日本およびアジアのOEMプログラムからの需要に対応しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "コスト競争力のある生産規模と国内OEMの認定プログラムへの参加は、中国の軸受産業の高度化を反映しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "OEMのサプライチェーンが深化するなか、現地企業との関係や国内の製造拠点が重要な強みとなっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "両社は大規模な生産能力を背景に、国内OEMプログラムや標準製品のカテゴリーに参入しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "生産面では中国が世界生産量の78.27％、日本が9.38％を占め、主要生産地域となっています",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）；0081-5058936232（グローバル）",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "japan@qyresearch.com",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch株式会社は、2017年に日本・東京で設立された市場調査・コンサルティング会社です",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "一般財団法人JR東日本文化創造財団、MoN Takanawa: The Museum of Narratives、Barbican Centre",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "対象国・地域の追加（日本国内の地域別分析など）",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "レポート言語： 英語、日本語",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN : 03-6899-2648",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "軸受メーカーの国内市場規模は、現在の9,830億円と推計",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "軸受メーカー 主要企業シェアランキング 日本精工株式会社・株式会社ジェイテクト・NTN株式会社等",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "日本精工株式会社",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "- 国内マーケットシェア",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "イラン・イスラエル衝突が日本経済に与える影響とは？【2025年6月・最新AI予測】",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "＜2月の日本コアCPI発表＞3.0％上昇、鈍化傾向も依然高水準を維持",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "＜2月 日本 消費者物価指数発表＞物価高止まりの中で鈍化の兆しも",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大手金融機関や、大学系ベンチャーキャピタル等から出資を受ける、AIスタートアップ企業です",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "日本のボールベアリング市場では、政府が2035年までに新車乗用車の販売台数を100%電動化することを目標としており、韓国のボールベアリング市場では、2030年までに新車販売台数の50%を電気自動車と燃料電池車が占めることを目標としています",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "NSK Ltd (Japan)",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "NTN Corporation (Japan)",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "JTEKT Corporation (Japan)",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "MinebeaMitsmi Inc. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nachi-Fujikoshi Corp (Japan)",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "SKF (Sweden) · Schaeffler AG (Germany) · THE TIMKEN COMPANY (U.S.) · NSK Ltd (Japan) · NTN Corporation (Japan)",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本ベアリング市場概況、2030年｜lucky_poppy2332",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "日本ベアリング市場概況、2030年",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "日本のベアリング市場は、自動車、製造、航空宇宙、再生可能エネルギーなど多様な分野で使用される高性能製品に焦点を当て、同国の産業構造において重要な役割を担っている",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "長年にわたり、日本のベアリング産業は技術革新、特に精密工学の進歩と共に発展し、耐久性と高品質を要求される部品を必要とする各分野での需要を牽引してきた",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "日本は製品品質、環境持続可能性、安全性を規定する国家基準を備えた明確な規制環境を有する",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "日本ベアリング工業会（JBIA）などの主要団体は、イノベーションの促進、市場洞察の提供、業界基準の設定を通じて産業成長を支援している",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "予測保全やリアルタイム監視のためのIoT技術統合など、最近の動向は日本のインダストリー4.0実践への移行を反映している",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "ボナファイド・リサーチが発表した調査報告書「日本ベアリング市場概観、2030年」によると、2024年の日本ベアリング市場規模は91億1000万米ドル以上に達した",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "近年、製造プロセスの技術進歩と高性能材料の採用が後押しとなり、日本のベアリング市場は著しい成長を遂げている",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "NSK株式会社、NTN株式会社、ジェイテクト株式会社、THK株式会社といった主要企業が市場の最前線に立ち、国内外の供給に大きく貢献している",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "長年にわたり、日本は風力タービンや電気自動車といった再生可能エネルギープロジェクトの成長を促進する強力な政策・規制支援を享受してきた",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、貿易パターンと生産能力は安定を保ち、日本は世界有数のベアリング生産国・輸出国の一つである",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "それにもかかわらず、堅調な国内需要と技術進歩により市場は迅速に回復しました",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "ボールベアリングは、エンジン、トランスミッション、車輪、サスペンションシステムなどの自動車用途で広く使用されているため、日本市場において最大かつ最も急速に成長しているセグメントである",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動化・ロボット技術・技術革新への注力は、自動車、製造、再生可能エネルギーなどの分野におけるベアリング需要を大幅に押し上げ、市場の持続的成長をもたらしている",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "日本産業用ベアリング市場規模、シェアおよび2034年までの予測",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "グローバル市場を対象に、市場調査レポート、業界分析、競合調査、IPO支援、カスタマイズリサーチなど幅広いサービスを展開し、各業界の市場構造や成長性、競争環境を多角的に分析しています",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています",
+    "url": "https://newscast.jp/smart/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "成長は、国内での認定、サービス支援、サプライチェーンの強靱性が大きな価値を持つ用途に集中しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "過酷な稼働環境により、信頼性、密封性、保守支援の重要性が高まっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル市場を対象に、市場調査レポート、業界分析、競合調査、IPO支援、カスタマイズリサーチなど幅広いサービスを展開し、各業界の市場構造や成長性、競争環境を多角的に分析しています",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "また、センサーと産業用IoT（IIoT）技術の統合により、振動、温度、速度、その他の運転パラメータを監視できるスマートベアリングが実現し、予知保全と故障の早期検知を支援しています",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "高度かつ特殊な産業用ベアリングに伴う高コストは、特に資本とメンテナンスの予算が限られている中小規模のメーカーにとって、依然として市場成長の主要な阻害要因となっています",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を無駄にしないでください！",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "残りの予算を活用して、将来の成功を確かなものにしましょう",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "今すぐ予算を確保しよう！",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を2025年の実用的な",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算が失効する前に、 最大限に活用しよう!",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "将来の成功のために予算を活用しましょう",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "ご予算を最大限に活用するために、今すぐご登録ください",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を最大限に活用する お手伝いをいたします!",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、フランスのボールベアリング市場もゼロエミッション車への移行を推進しており、電動パワートレインや関連産業機器におけるベアリングの幅広い採用を支援している",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "彼の研究は、市場動向、技術の導入状況、競争の動向、規制の動向、成長機会の評価に焦点を当て、情報に基づいた事業および投資判断を支援することを目的としています",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本ベアリング工業会（JBIA）などの主要団体は、イノベーションの促進、市場洞察の提供、業界基準の設定を通じて産業成長を支援している",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "長年にわたり、日本は風力タービンや電気自動車といった再生可能エネルギープロジェクトの成長を促進する強力な政策・規制支援を享受してきた",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "モノのインターネット（IoT）接続と人工知能（AI）分析の統合により、ベアリング部品は受動的な機械的要素から能動的なデータソースへと変貌を遂げ、状態に基づくメンテナンススケジュールの策定を通じて運用効率の最適化を支援します",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府の補助金に支えられ、国内自動車メーカーがバッテリー生産能力の増強を目指す中、電気自動車の生産拡大は続いている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "特定のメーカーに偏らない中立な立場で、ロボット開発を支援します",
+    "url": "https://mono.ipros.com/cg1/%E8%BB%B8%E5%8F%97/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/cg1/%E8%BB%B8%E5%8F%97/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "技術情報・支援ツール",
+    "url": "https://www.nsk.com/jp-ja/products/roller-bearings/needle-roller-bearings/",
+    "pass": 3
+   },
+   {
+    "quote": "技術支援ツール・技術情報",
+    "url": "https://www.nsk.com/jp-ja/products/roller-bearings/needle-roller-bearings/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、設計技術においては、CAD（コンピュータ支援設計）やCAE（コンピュータ支援工学）を使用して、効率的な形状解析や強度解析が行われています",
+    "url": "https://www.atpress.ne.jp/news/3672483",
+    "pass": 3
+   },
+   {
+    "quote": "このセクションでは、負荷容量、動作速度、環境条件、精度要件、予算の制約など、重要な検討事項について説明します",
+    "url": "https://nyzbearing.com/ja/what-are-the-best-bearings-for-robotics-a-complete-guide/",
+    "pass": 3
+   }
+  ],
+  "市場規模": [
+   {
+    "quote": "ベアリング市場規模・予測レポート、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "軸受市場では、ボールベアリングセグメントが2025年に売上高の43.0%を占め、2035年までに市場規模が396億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "軸受市場規模：製品タイプ別、2025年・2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "滑り軸受の市場規模は2025年に92億米ドルで、2035年には141億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "その他の特殊軸受は、2025年に市場収益の3.0%を占め、2035年には市場規模が28億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "フルセラミック軸受の市場規模は2025年に23億米ドルで、2026〜2035年に年平均成長率9.5%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "OEM向け調達の市場規模は2025年に400億米ドルでした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野は2025年に世界全体の売上高の33.0%を占め、2035年には市場規模が292億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー・電力分野の市場規模は2025年に63億米ドルとなり、2026〜2035年に年平均成長率（CAGR）7.7%で拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "農業分野の市場規模は2025年に40億米ドルとなり、2035年には57億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道分野の市場規模は2025年に29億米ドルとなり、2026〜2035年に年平均成長率（CAGR）4.9%で拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリートパイプマシン市場規模220百万米ドル予測：世界の産業現状、競合分析、成長動向2026",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用防氷システムの世界市場（2026年～2032年）、市場規模（機械式除氷システム、電気パルス式防氷システム、液体防氷システム、熱風式防氷システム、電気加熱式防氷システム）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "低温収縮試験機の世界市場（2026年～2032年）、市場規模（低温、広温度範囲）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "油井ポンプの世界市場（2026年～2032年）、市場規模（試験用ポンプ、酸処理用ポンプ、セメント注入用ポンプ）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "PERCフロント用銀ペーストの世界市場（2026年～2032年）、市場規模（フィンガー用銀ペースト、バスバー用銀ペースト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "牽引式方位スラスタの世界市場（2026年～2032年）、市場規模（Lドライブ、Zドライブ、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ベアリング市場規模、シェア、競争環境およびトレンド分析レポート、サイズ別、タイプ別、素材別、精度別、用途別、地域別 : 2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までの産業用ベアリング市場規模はどの程度になると予測されていますか？",
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する軸受メーカー ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する軸受メーカー ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "AIによる\"2030年\"の市場規模予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "小幅な成長 9,830億円（現在）→9,978億円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "軸受メーカー AIによる市場規模予測 5年間で1.51%の成長",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "軸受メーカーの国内市場規模は、現在の9,830億円と推計",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で1.51% 成長し9,978億円に達すると予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "小幅な縮小 1.54兆円（現在）→1.49兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な成長 3,214億円（現在）→3,645億円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "概ね横ばい 2.87兆円（現在）→2.85兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な縮小 3.0兆円（現在）→2.5兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な縮小 1.8兆円（現在）→1.7兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な成長 6,987億円（現在）→7,983億円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "ボールベアリング市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ボールベアリング市場規模、シェア、トレンド分析レポート：タイプ別（深溝玉軸受、アンギュラ玉軸受、スラスト玉軸受、自動調心玉軸受、その他）、用途別（自動車、産業機械、鉱業・建設、医療、その他（航空宇宙など））、材質別（鋼、セラミック、プラスチック、ガラス）、最終用途別（プロセス産業、輸送、流通チャネル別、E.M、小売流通）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のボールベアリング市場規模は、2025年には90億7000万米ドルと評価され、2026年の97億4000万米ドルから2034年には171億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は7.34%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベアリング市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ボナファイド・リサーチが発表した調査報告書「日本ベアリング市場概観、2030年」によると、2024年の日本ベアリング市場規模は91億1000万米ドル以上に達した",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "6.1. 市場規模（金額ベース）",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "6.2. 市場規模と予測（製品タイプ別）",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "6.3. 市場規模と予測（用途別）",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "6.4. 市場規模と予測（設置方法別）",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "6.5. 流通チャネル別市場規模と予測",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "6.6. 材質別市場規模と予測",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "6.7. 地域別市場規模と予測",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.1. 日本ベアリング市場規模、ボールベアリング別、2019-2030",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.2. 日本ベアリング市場規模、ローラーベアリング別、2019-2030年",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.3. 日本ベアリング市場規模、すべり軸受別、2019-2030年",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.4. 日本ベアリング市場規模、その他（磁気軸受、流体軸受、ディスクハローベアリング等）別、2019-2030年",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.1. 日本ベアリング市場規模、自動車用途別、2019-2030年",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.2. 日本ベアリング市場規模、産業用途別、2019-2030年",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "世界の電気自動車販売台数は2024年に1,700万台を超え、前年比で25%超増加",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "少なくとも2028年までEV販売台数が2桁成長を続けることが、短期的な需要を左右する主な条件です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "汎用品の経済性を超えて、製品1個当たりの売上高が増加します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "本業界に関連する今後成長/衰退する製品・サービス（上位8個）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "北米のボールベアリング市場は2025年に地域別シェア35.4%を占め、米国エネルギー省の予測では、バッテリー式電気自動車が2030年までに小型自動車販売台数全体の最大61%を占める可能性があり、北米のバッテリーセル生産能力は2030年までに年間1,200GWhを超える見込みであり、精密ベアリングの需要増加を支えている",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダのボールベアリング市場では、政府目標として、2030年までに新型小型車販売台数の60%、2035年までに100%をゼロエミッション車にすること、また、中型・大型ゼロエミッション車については2030年までに新型車販売台数の35%に達させることを目標としており、電気駆動系、商用車、および関連する産業機器に使用されるベアリングに対する追加的な需要が生まれている",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のボールベアリング市場は予測期間中に年平均成長率（CAGR）8.4%で成長すると予想されており、欧州における電気軽自動車の販売台数は2030年までに新規販売台数の60%近くに達すると予測されているため、電気モーター、駆動系、自動車製造装置に使用される精密ベアリングの需要が増加すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国のボールベアリング市場では、2030年までに新車販売台数の80%、新車バン販売台数の70%をゼロエミッション車にすることを目標としており、ドイツのボールベアリング市場では、2030年までに電気自動車を1500万台普及させることを目標としている",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のボールベアリング市場は、2025年には地域シェアの24.8%を占める見込みであり、中国は2030年までに新乗用車販売台数の70%、新商用車販売台数の40%を新エネルギー車にすることを目標としており、電気駆動系、モーター、トランスミッション、車両制御システムに使用されるベアリングに対する需要が高まっている",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のボールベアリング市場では、政府が2035年までに新車乗用車の販売台数を100%電動化することを目標としており、韓国のボールベアリング市場では、2030年までに新車販売台数の50%を電気自動車と燃料電池車が占めることを目標としています",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドのボールベアリング市場では、IEAは、定められた政策の下で、2030年までに電気自動車の販売台数が15%に近づくと予測しており、自動車、産業機械、電気自動車用途における精密ベアリングの需要増加を支えています",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界では2024年に13,000台の産業用ロボットが導入され、過去5年間で最高の導入水準を記録しました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、日本の自動車産業は従業員1万人あたり1,531台のロボット密度を達成し、世界第4位に位置付けられており、ベアリングの性能要件を継続的に高める持続的な電動化の勢いを示しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界では2024年に13,000台の産業用ロボットが導入され、機械的リンク機構や駆動システム全体に専門的なベアリング部品を必要とする大規模な自動化投資が行われました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、2024年には日本の自動車メーカーが産業用ロボットを導入し、その導入台数は過去最高を記録しました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本自動車工業会の報告によると、2025年6月の日本の新車販売台数は、前年同月の373,599台から393,160台へと、前年比5％強増加した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、BYDは2024年に日本で2,223台の電気自動車を供給し、前年比54％増を記録した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、日本自動車販売業協会連合会の報告によると、トヨタ自動車の国内市場における電気自動車販売台数は30％減少し、販売台数はわずか2,038台にとどまった",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、世界のロボット用すべり軸受の生産量は約11,257千個に達しました",
+    "url": "https://www.atpress.ne.jp/news/3672483",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の売上高と収益、タイプ別、およびアプリケーション別の販売状況が分析されています",
+    "url": "https://www.atpress.ne.jp/news/3672483",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータ1台で簡単位置決め！",
+    "url": "https://www.nipponbearing.com/case/automaticmachine.html",
+    "pass": 3
+   },
+   {
+    "quote": "4位以降は、日本勢の僅差の激突と中国勢の台頭となりました",
+    "url": "https://deallab.info/bearing/",
+    "pass": 3
+   },
+   {
+    "quote": "タイヤ事業の世界シェアではミシュラン、ブリジストン、グッドイヤーのトップ３に次ぐ規模を誇っています",
+    "url": "https://deallab.info/bearing/",
+    "pass": 3
+   },
+   {
+    "quote": "kg), it could walk by voice command, speak about 700 words (using a 78-rpm",
+    "url": "https://en.wikipedia.org/wiki/Robot",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ロボットベアリング市場 の成長予測：2033年から2026年まで ... — ロボットベアリング市場 の成長予測：2033年から2026年まで ... LinkedIn https://jp.linkedin.com > pulse > ロボットベアリング市場...",
+    "url": "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC2033%E5%B9%B4%E3%81%8B%E3%82%892026%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE46%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E4%BA%88%E6%B8%AC%E3%81%A8%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B3%E6%9C%80%E8%BF%91%E3%81%AE%E5%8B%95%E5%90%91%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92-7518378404446998529-5a2qe",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットベアリング 市場の成長予測：2033年から2026年まで ... — ロボットベアリング 市場の成長予測：2033年から2026年まで ... LinkedIn https://jp.linkedin.com > pulse > ロボットベアリング市場...",
+    "url": "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC2033%E5%B9%B4%E3%81%8B%E3%82%892026%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE46%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E4%BA%88%E6%B8%AC%E3%81%A8%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B3%E6%9C%80%E8%BF%91%E3%81%AE%E5%8B%95%E5%90%91%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92-7518378404446998529-5a2qe",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "深溝加工分野は、その汎用性、高い耐荷重能力、低摩擦性、そして自動車、産業機械、電気モーター用途における幅広い利用実績により、2025年には44.7%のシェアを占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野は、車両のエンジン、トランスミッション、ホイールハブ、ステアリングシステム、その他の自動車部品においてボールベアリングが広く使用されているため、2025年には38.9%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のボールベアリング市場は2025年に地域別シェア35.4%を占め、米国エネルギー省の予測では、バッテリー式電気自動車が2030年までに小型自動車販売台数全体の最大61%を占める可能性があり、北米のバッテリーセル生産能力は2030年までに年間1,200GWhを超える見込みであり、精密ベアリングの需要増加を支えている",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のボールベアリング市場は、2025年には地域シェアの24.8%を占める見込みであり、中国は2030年までに新乗用車販売台数の70%、新商用車販売台数の40%を新エネルギー車にすることを目標としており、電気駆動系、モーター、トランスミッション、車両制御システムに使用されるベアリングに対する需要が高まっている",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のボールベアリング市場では、政府が2035年までに新車乗用車の販売台数を100%電動化することを目標としており、韓国のボールベアリング市場では、2030年までに新車販売台数の50%を電気自動車と燃料電池車が占めることを目標としています",
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には65歳以上の高齢者が3,625万人に達し、総人口の3分の1近くを占めることになるほか、生産年齢人口が年率1％のペースで減少していることから、日本の製造業全般において労働力確保の課題が深刻化している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "V-1 flying bomb",
+    "url": "https://en.wikipedia.org/wiki/Robot",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "原材料の輸入依存度が高いにもかかわらず、日本の強力な研究開発活動により、高品質でコスト効率に優れたベアリング製品の安定供給が確保されている",
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "pass": 3
+   },
+   {
+    "quote": "これは、メーカーが労働力不足に対応するため、特殊なベアリングソリューションを必要とする自動組立システムを導入した結果です",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "関東地方の工業地帯では、労働力不足を背景に製造の自動化が進んでおり、自動化された組立ラインやマテリアルハンドリング機器全体に精密ベアリング部品を必要とするロボットシステムの導入が促進されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "各業界は、労働力不足にもかかわらず生産を維持するために産業用ロボットを導入するなど、広範な自動化技術の展開によって対応している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動化アプリケーションを支えるベアリングソリューションには、メンテナンス間隔の短縮と長寿命化が求められており、技術者の確保が困難で設備のメンテナンススケジュールが制約される労働力不足の問題に対処している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は輸入原材料への依存度が高いため、自然災害や世界的な物流制約による材料不足が発生し、生産の継続性に影響を及ぼす可能性のあるサプライチェーンの混乱にベアリングメーカーはさらされている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "製造業務を制約する深刻な労働力不足",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業全般において労働力確保の制約が深刻化しており、2024年には労働力不足に関連する倒産が342件記録され、過去と比較して大幅な増加を示している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "pass": 3
+   },
+   {
+    "quote": "and the consequences of human dependence upon commodified labor (especially after a number of specially-formulated robots achieve self-awareness and incite robots all around the world to rise up against the humans).",
+    "url": "https://en.wikipedia.org/wiki/Robot",
+    "pass": 3
+   },
+   {
+    "quote": ", including skills shortages, improving productivity from declining ore grades, and achieving environmental targets. Due to the hazardous nature of mining, in particular",
+    "url": "https://en.wikipedia.org/wiki/Robot",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC2033%E5%B9%B4%E3%81%8B%E3%82%892026%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE46%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E4%BA%88%E6%B8%AC%E3%81%A8%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B3%E6%9C%80%E8%BF%91%E3%81%AE%E5%8B%95%E5%90%91%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92-7518378404446998529-5a2qe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://newscast.jp/smart/news/4439486",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-101608",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4439486",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/1081800",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/1081800",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eqyo.com/ja/customized-bearings/plain-bearing/robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E8%BB%B8%E5%8F%97/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsk.com/jp-ja/products/roller-bearings/needle-roller-bearings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3672483",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nyzbearing.com/ja/what-are-the-best-bearings-for-robotics-a-complete-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponbearing.com/case/automaticmachine.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/bearing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-101117",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nyzbearing.com/ja/top-10-bearing-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5313/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/industrial-bearings-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toishi.info/market/bearings_market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/JQuery_UI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://query-u.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jquery.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geeksforgeeks.org/jquery/jquery-ui/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/jquery/jquery-ui",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.w3schools.com/jquery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fidelity.com/learning-center/smart-money/hsa-contribution-limits",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.irs.gov/pub/irs-drop/rp-26-24.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.empower.com/the-currency/money/hsa-contribution-limits",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yourbestsavings.com/hsa-contribution-limits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.irs.gov/irb/2026-25_irb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hsaindex.com/guides/2026-2027-hsa-limits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Robot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simple.wikipedia.org/wiki/Robot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotsguide.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/technology/robot-technology",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.computerhope.com/jargon/r/robot.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merriam-webster.com/dictionary/robot",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://robotsguide.com/learn/what-is-a-robot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/technology/robotics",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロボット用ベアリング 市場規模 CAGR",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC2033%E5%B9%B4%E3%81%8B%E3%82%892026%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE46%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E4%BA%88%E6%B8%AC%E3%81%A8%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B3%E6%9C%80%E8%BF%91%E3%81%AE%E5%8B%95%E5%90%91%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92-7518378404446998529-5a2qe",
+    "https://newscast.jp/smart/news/4439486",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-101608",
+    "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "https://www.atpress.ne.jp/news/644784",
+    "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "https://www.researchnester.jp/industry-analysis/ball-bearing-market/4936",
+    "https://prtimes.jp/main/html/rd/p/000001080.000071640.html",
+    "https://note.com/qy_research/n/n2e6564cc281c",
+    "https://www.reddit.com/r/CamGirlProblems/comments/fw9j2e/does_chaturbate_lock_you_into_a_broadcasting/"
+   ]
+  },
+  {
+   "query": "ロボット用ベアリング 需要 見通し 2030",
+   "results": [
+    "https://newscast.jp/smart/news/1081800",
+    "https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer",
+    "https://straitsresearch.com/jp/report/ball-bearing-market",
+    "https://www.atpress.ne.jp/news/1081800",
+    "https://note.com/lucky_poppy2332/n/n854e35bdbfa9",
+    "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-101608",
+    "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC2033%E5%B9%B4%E3%81%8B%E3%82%892026%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE46%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E4%BA%88%E6%B8%AC%E3%81%A8%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B3%E6%9C%80%E8%BF%91%E3%81%AE%E5%8B%95%E5%90%91%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92-7518378404446998529-5a2qe",
+    "https://www.reportocean.co.jp/industry-reports/industrial-bearings-market",
+    "https://en.wikipedia.org/wiki/Terrorism_in_Germany"
+   ]
+  },
+  {
+   "query": "ロボット用ベアリング 部品構成 コスト",
+   "results": [
+    "https://www.eqyo.com/ja/customized-bearings/plain-bearing/robotics",
+    "https://mono.ipros.com/cg1/%E8%BB%B8%E5%8F%97/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "https://www.nsk.com/jp-ja/products/roller-bearings/needle-roller-bearings/",
+    "https://www.atpress.ne.jp/news/3672483",
+    "https://nyzbearing.com/ja/what-are-the-best-bearings-for-robotics-a-complete-guide/",
+    "https://www.nipponbearing.com/case/automaticmachine.html",
+    "https://newscast.jp/news/2839625",
+    "http://www.ikont.co.jp/product/episode/ep009.html",
+    "https://www.irs.gov/payments/payment-plans-installment-agreements",
+    "https://www.irs.gov/forms-pubs/about-form-9465"
+   ]
+  },
+  {
+   "query": "ロボット用ベアリング シェア 主要企業",
+   "results": [
+    "https://deallab.info/bearing/",
+    "https://www.gminsights.com/ja/industry-analysis/bearings-market-report",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-101117",
+    "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC2033%E5%B9%B4%E3%81%8B%E3%82%892026%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE46%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E4%BA%88%E6%B8%AC%E3%81%A8%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B3%E6%9C%80%E8%BF%91%E3%81%AE%E5%8B%95%E5%90%91%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92-7518378404446998529-5a2qe",
+    "https://nyzbearing.com/ja/top-10-bearing-manufacturers/",
+    "https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market",
+    "https://metoree.com/categories/5313/",
+    "https://www.mordorintelligence.com/ja/industry-reports/industrial-bearings-market",
+    "https://www.toishi.info/market/bearings_market.html",
+    "https://en.wikipedia.org/wiki/Microsoft"
+   ]
+  },
+  {
+   "query": "ロボット用ベアリング 日本企業",
+   "results": [
+    "https://en.wikipedia.org/wiki/JQuery_UI",
+    "https://query-u.com/",
+    "https://www.youtube.com/",
+    "https://jquery.com/",
+    "https://www.geeksforgeeks.org/jquery/jquery-ui/",
+    "https://github.com/jquery/jquery-ui",
+    "https://www.w3schools.com/jquery/",
+    "https://jqueryui.com/about/",
+    "https://jqueryui.com/menu/",
+    "https://learn.jquery.com/jquery-ui/"
+   ]
+  },
+  {
+   "query": "ロボット用ベアリング 不足 OR 中国依存",
+   "results": [
+    "https://www.fidelity.com/learning-center/smart-money/hsa-contribution-limits",
+    "https://www.irs.gov/pub/irs-drop/rp-26-24.pdf",
+    "https://www.empower.com/the-currency/money/hsa-contribution-limits",
+    "https://yourbestsavings.com/hsa-contribution-limits/",
+    "https://www.irs.gov/irb/2026-25_irb",
+    "https://hsaindex.com/guides/2026-2027-hsa-limits/",
+    "https://fedratecalc.com/contribution-limits/",
+    "https://www.hsaorbit.com/articles/hsa-contribution-limits-2027",
+    "https://multicalculators.com/hsa-contribution-limits-2026/",
+    "https://hsatracker.org/hsa-contribution-limits-2027/"
+   ]
+  },
+  {
+   "query": "robot bearings market humanoid market size CAGR 2030",
+   "results": [
+    "https://en.wikipedia.org/wiki/Robot",
+    "https://en.wikipedia.org/wiki/Robotics",
+    "https://simple.wikipedia.org/wiki/Robot",
+    "https://robotsguide.com/",
+    "https://www.britannica.com/technology/robot-technology",
+    "https://www.computerhope.com/jargon/r/robot.htm",
+    "https://www.merriam-webster.com/dictionary/robot",
+    "https://robotsguide.com/learn/what-is-a-robot",
+    "https://www.britannica.com/technology/robotics",
+    "https://www.teachfloor.com/blog/robot"
+   ]
+  },
+  {
+   "query": "robot bearings market humanoid cost breakdown bill of materials",
+   "results": [
+    "https://en.wikipedia.org/wiki/Robot",
+    "https://en.wikipedia.org/wiki/Robotics",
+    "https://simple.wikipedia.org/wiki/Robot",
+    "https://robotsguide.com/",
+    "https://www.britannica.com/technology/robot-technology",
+    "https://www.computerhope.com/jargon/r/robot.htm",
+    "https://www.merriam-webster.com/dictionary/robot",
+    "https://robotsguide.com/learn/what-is-a-robot",
+    "https://www.britannica.com/technology/robotics",
+    "https://www.teachfloor.com/blog/robot"
+   ]
+  },
+  {
+   "query": "robot bearings market humanoid demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://en.wikipedia.org/wiki/Robot",
+    "https://en.wikipedia.org/wiki/Robotics",
+    "https://simple.wikipedia.org/wiki/Robot",
+    "https://robotsguide.com/",
+    "https://www.britannica.com/technology/robot-technology",
+    "https://www.computerhope.com/jargon/r/robot.htm",
+    "https://www.merriam-webster.com/dictionary/robot",
+    "https://robotsguide.com/learn/what-is-a-robot",
+    "https://www.britannica.com/technology/robotics",
+    "https://www.teachfloor.com/blog/robot"
+   ]
+  },
+  {
+   "query": "site:note.com ロボット用ベアリング",
+   "results": []
+  },
+  {
+   "query": "site:x.com ロボット用ベアリング",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com ロボット用ベアリング",
+   "results": [
+    "https://en.wikipedia.org/wiki/JQuery_UI",
+    "https://www.w3schools.com/jquery/",
+    "https://query-u.com/",
+    "https://www.youtube.com/",
+    "https://jquery.com/",
+    "https://www.geeksforgeeks.org/jquery/jquery-ui/",
+    "https://github.com/jquery/jquery-ui",
+    "https://jqueryui.com/about/",
+    "https://jqueryui.com/menu/",
+    "https://learn.jquery.com/jquery-ui/"
+   ]
+  },
+  {
+   "query": "site:facebook.com ロボット用ベアリング",
+   "results": [
+    "https://en.wikipedia.org/wiki/JQuery_UI",
+    "https://www.w3schools.com/jquery/",
+    "https://query-u.com/",
+    "https://www.youtube.com/",
+    "https://jquery.com/",
+    "https://www.geeksforgeeks.org/jquery/jquery-ui/",
+    "https://github.com/jquery/jquery-ui",
+    "https://jqueryui.com/about/",
+    "https://jqueryui.com/menu/",
+    "https://learn.jquery.com/jquery-ui/"
+   ]
+  },
+  {
+   "query": "ロボット用ベアリング note 社長",
+   "results": [
+    "https://www.yelp.com/biz/legacy-nails-westminster",
+    "https://www.fresha.com/lvp/legacy-nails-inc-west-92nd-avenue-westminster-PVR6qY",
+    "https://www.bizapedia.com/co/legacy-nails.html",
+    "https://opengovco.com/business/20221632594",
+    "https://www.bizapedia.com/co/legacy-nails-and-spa-llc.html",
+    "https://start.cortera.com/company/research/m6n3kzo5m/legacy-nails--spa-llc/",
+    "https://www.yelp.com/biz/legacy-nails-denver"
+   ]
+  },
+  {
+   "query": "ロボット用ベアリング X 投稿",
+   "results": []
+  },
+  {
+   "query": "robot bearings market humanoid site:linkedin.com",
+   "results": []
+  }
+ ],
+ "missing": {}
+}

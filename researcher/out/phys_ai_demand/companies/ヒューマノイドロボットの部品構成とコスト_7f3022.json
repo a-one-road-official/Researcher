@@ -1,0 +1,2085 @@
+{
+ "name": "ヒューマノイドロボットの部品構成とコスト",
+ "en": "humanoid robot bill of materials cost breakdown",
+ "aliases": [
+  "人型ロボット 部品構成",
+  "ヒューマノイド BOM",
+  "人型ロボット コスト内訳"
+ ],
+ "context": "フィジカルAI・本体",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:25:54.949771+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "ヒューマノイドロボット市場規模・予測レポート（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size, By Product, 2022– 2035 (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の市場規模は 2025年に18億860万米ドルに達し、2035年には年平均成長率（CAGR）約39.2%で493億3,960万米ドルに達すると予測されており、地域別で最も高い成長率となっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のヒューマノイドロボット市場規模、2022〜2035年（10億米ドル単位）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の市場規模は 2025年に14億440万米ドルに達し、2035年には年平均成長率約36.5%で315億9,230万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は最大の地域市場であり、2025年の市場規模は43億1,500万米ドルで、世界全体の売上高の約54.5%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "中南米の市場規模は 2025年に1億1,600万米ドルに達し、2035年には年平均成長率約29.3%で15億1,640万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は 2026年から2035年にかけて年平均成長率（CAGR）37.6%で成長し、2035年までに 1,927億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. 市場規模の推計",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業が7500兆円のフィジカルAI市場に参入するには「ヒューマノイド/人型ロボ量産」が最も速い",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA CEOジェンセン・フアンの\"7500兆円規模\"「フィジカルAI市場」が日本の製造業に与えるインパクト",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業の企業がこの「7500兆円規模の",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "秘密鍵が盗まれていないのになぜ20分で1兆円が消えた？開発者PCが狙われた手口をSOC・エンジニア・CSIRT向けにAI OSINT解説",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "Goldman Sachsはヒューマノイドの市場規模が2035年に",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド向け100億円戦略投資",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度売上100〜200億円目標（",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "約100億円の戦略投資",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Global Humanoid Robot Market Size and Forecast 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "was valued at USD 2.92 billion in 2025 and is expected to reach USD 57.3 billion by 2034, growing at a CAGR of 39.2%.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size 2025",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "• The demographic clock cannot be paused. The 1.5 billion people who will be aged 65+ by 2050 are already alive.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025:",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "2.92 USD Billion",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2034:",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "57.3 USD Billion",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Most market models treat personal assistance and caregiving as one segment among six. This is an analytical error. The caregiving segment carries three advantages no industrial application can match: non-discretionary demand (1.5 billion elderly by 2050), government subsidy tailwinds, and a pricing structure where ROI is unambiguous at $20K robot vs. $60–120K/year human caregiver.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "This is the most consequential data in the entire humanoid thesis. The humanoid robot is not a productivity tool — it is a wage substitution vehicle. The cumulative US wage impact reaches $357 billion by 2040 and $2.957 trillion by 2050. This is the number that makes boardrooms take notice.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon's Industrial Innovation Fund participated in its $150 million Series B. In June 2026, Agility announced a proposed $2.5 billion merger with Churchill Capital Corp XI to go public.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Bloomberg reported a $600 million funding round at a $5.6 billion valuation in November 2025, led by CapitalG. Later funding trackers report a Series C in 2026.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Apptronik announced more than $935 million in Series A funding in February 2026, with Google among its investors and Google DeepMind collaborating on robot intelligence.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla's Fremont line is designed for up to 1 million Optimus robots a year, though Tesla has declined to give a 2026 unit target.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Chinese makers hold the price edge (Unitree G1 $13,500, R1 $5,900); Figure AI's $39 billion valuation shows where investors think the margins land.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "1 million Optimus robots annually",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "$39 billion valuation",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "with $1.9 billion in total funding, and Chinese manufacturers like Unitree are shipping full-size humanoid robots for under $100,000. Goldman Sachs projects the humanoid robot market will hit",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "$38 billion by 2035",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "— Tesla has declined to give a 2026 Optimus unit target (Musk called such predictions impossible), while designing its Fremont line for up to 1 million robots a year",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "A full-size humanoid robot requires 28–44 actuators (depending on degrees of freedom), each combining a motor, gearbox, encoder, and controller. High-torque actuators for hip and knee joints cost $500–$2,000 each at low volumes. At Tesla's target of 1 million units, these could drop to $100–$300 each through dedicated production lines — a potential savings of $15,000–$25,000 per robot.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Up to 1 million units annually at the converted Fremont facility",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Groundbreaking on standalone Optimus factory at Giga Texas with 10-million-per-year capacity",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Figure AI represents the most well-capitalized pure-play humanoid robotics startup. With a September 2025 Series C round of $1 billion (with participation from Intel, NVIDIA, Qualcomm, T-Mobile, Salesforce, and Brookfield Asset Management), the company reached a $39 billion valuation.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Global humanoid robot market reaches $38 billion by 2035, up 6x from their previous $6 billion estimate",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Over 1 billion humanoid robots in operation by 2050, generating a $5 trillion market — 90% for industrial/commercial use",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid robot market grows from $1.8 billion (2023) to $13.8 billion by 2028, a 50%+ CAGR",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Figure is valued at $39B and has disclosed 350 robots delivered. Unitree targets a $6.2B IPO and shipped 5,500. An analysis of what humanoid makers actually disclose — and what the choice of metric tells buyers.",
+    "url": "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界のヒューマノイドロボット市場は、2025年に79億米ドルの規模に達し、2026年の109億米ドルから2035年までに1,927億米ドルへ拡大すると推定されており、2026年から2035年にかけての年平均成長率（CAGR）は37.6%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の出荷台数は2025年に約2,052,926台に達し、2035年まで年平均成長率（CAGR）約43.2%で拡大すると予測されており、売上高の成長率を上回ります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、市場の売上高ベースの年平均成長率（CAGR）約37.6%が、あらゆる最終市場への同時進出ではなく、商用化の段階的な進展によって支えられていると推定しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "より速い約43.2%の出荷台数ベースの年平均成長率（CAGR）は、市場拡大がプレミアム価格だけでなく、生産における学習効果と調達モデルによって決まる傾向が強まることを示唆しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "二足歩行型ヒューマノイドロボットは 2025年の売上高の約30.0%を占め、年平均成長率（CAGR）約43.9%で成長すると予測されており、製品カテゴリーのなかで最も高い成長率となっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 46.3%",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "（レポートの予測期間は2026〜2032年、2025年の値は$5,230万）と表記していますが、掲載された2024年・2032年の値から8年間で単純計算した年率は約40%で、表記のCAGRとは一致しません（",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "：Jabilの世界100以上の工場を活用して急速に生産規模を拡大",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "was valued at USD 2.92 billion in 2025 and is expected to reach USD 57.3 billion by 2034, growing at a CAGR of 39.2%.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2025–2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "8% CAGR",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026-2034 CAGR:",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Application Segment CAGR Comparison (2025–2030)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "P/E Ranking Vs. 3-Year Revenue CAGR — Key Humanoid 100 Names (Cons. 2025)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "3yr Rev CAGR",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026–34",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Most models underweight this segment. The demand is non-discretionary, government-subsidized, and demographically locked in. The highest sustained CAGR over a 20-year horizon sits here — not in manufacturing.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Q2. What is the CAGR of humanoid robot market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "The humanoid robot market is expected to grow at a CAGR of 39.2% during 2025–2034 due to increasing adoption across manufacturing, logistics, healthcare, and personal assistance applications.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid robot market grows from $1.8 billion (2023) to $13.8 billion by 2028, a 50%+ CAGR",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "世界の出荷台数は2025年に約2,052,926台に達し、2035年まで年平均成長率（CAGR）約43.2%で拡大すると予測されており、売上高の成長率を上回ります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "第一に、ヒューマノイドロボットの推定部品原価が、2022年の1台当たり約5万〜25万米ドルから2023年には3万〜15万米ドルへ低下し、工場での用途が採算性を確保できる水準に近づきました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "より速い約43.2%の出荷台数ベースの年平均成長率（CAGR）は、市場拡大がプレミアム価格だけでなく、生産における学習効果と調達モデルによって決まる傾向が強まることを示唆しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "UBTechは、BYDでの試験において部品組立の効率が向上したと報告し、Dongfeng Liuzhou Motorから20台のWalker Sを受注したことを明らかにした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、主要な産業・物流顧客との試験運用と、Dongfeng Liuzhou Motor からの初回20台の受注を明らかにしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "モーターや減速機を数千台単位で発注することで1個あたりコストを圧縮",
+    "url": "https://note.com/chatgptexecutive/n/n5cbe361659d9",
+    "pass": 3
+   },
+   {
+    "quote": "「1台動いたが、100台でコストと精度が破綻する」という壁",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年の日本初期運行、東京100台の無人タクシー計画、第6世代AIと世界展開を徹底解説",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "「組織のスキル」と「個人のスキル」〜AI時代の実務実践を支える2冊",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドの「解剖学」― 1台を構成する部品",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Q. ヒューマノイドロボット1台の部品コストはいくらですか？",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット1台には数十本規模のアクチュエータ（BofA Global Researchは部品表の推計で回転16本・直動14本と、手の構成を別に置く想定を前提にしています",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間100万台を量産するには",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "「年間台数×1台あたりの搭載本数」分のアクチュエータ",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "回転16本・直動14本/台（BofA Global Researchが部品表推計で前提とした構成",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "50個（Gen 3）",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "約3.5kg/台",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Optimus 1台あたり約3.5kgのNdFeB磁石が必要ですが、その製造は中国がほぼ独占しています",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間100万台の量産には「年間台数×1台あたりの搭載本数」分のアクチュエータが毎年必要で、供給体制を現在の生産規模から",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "必要量（年100万台時）",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "そのうちの28個から44個が、その機械がどれだけの重量を持ち上げられるか、どれくらいの時間稼働できるか、そして製造コストを決定づけており、部品原価の40～60％を占めています",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ駆動機構が機械を決定づけるのか、2025年の出荷台数、そして本報告書が拠り所とする証拠の基準について",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "個人購入者として、レポートについて可能なこと・できないこと——読者1名、組織1社",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、手1つあたり数個のモーターからその4倍のモーター数を搭載する設計への移行を追跡しており、そのコスト面での実現可能性を左右する要素についても解説しています",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "Most market models treat personal assistance and caregiving as one segment among six. This is an analytical error. The caregiving segment carries three advantages no industrial application can match: non-discretionary demand (1.5 billion elderly by 2050), government subsidy tailwinds, and a pricing structure where ROI is unambiguous at $20K robot vs. $60–120K/year human caregiver.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla Optimus Gen2 — Bom by Component Category ($K Per Unit)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Society 5.0; aging population drives demand urgency",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Most models underweight this segment. The demand is non-discretionary, government-subsidized, and demographically locked in. The highest sustained CAGR over a 20-year horizon sits here — not in manufacturing.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Ans: The humanoid robot market was valued at USD 2.92 billion in 2025 and is projected to reach USD 57.3 billion by 2034, driven by AI advancements, automation demand, and global labor shortages.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Air Pollution Control Systems Market - Industry Structure Evaluation, Demand Drivers Analysis, Regional Growth Analysis and Identification, Competitive Positioning Review & Global Market Size Forecast to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Goldman Sachs Research put humanoid manufacturing cost at $30,000-$150,000 per unit in early 2024 — a 40% year-on-year fall against a forecast 15-20%. BofA puts a China-built 2025 bill of materials near $35,000.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "$30,000 to $150,000 per unit",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "A full-size humanoid robot requires 28–44 actuators (depending on degrees of freedom), each combining a motor, gearbox, encoder, and controller. High-torque actuators for hip and knee joints cost $500–$2,000 each at low volumes. At Tesla's target of 1 million units, these could drop to $100–$300 each through dedicated production lines — a potential savings of $15,000–$25,000 per robot.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "$20,000–$30,000 per unit at scale, with Elon Musk suggesting eventual consumer pricing as low as $20,000",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "If Tesla hits even 10% of its ambitious targets, it would produce more humanoid robots in a single year than every other manufacturer combined has built in history. The economics become self-reinforcing: higher volume → lower component costs → lower prices → more demand → higher volume.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "2% of global elderly care demand",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid robots operating alongside humans require extensive safety certification. ISO 13482 (personal care robots) and ISO 10218 (industrial robots) compliance adds $5,000–$15,000 per unit in testing and certification costs. As robots become more autonomous, regulatory frameworks will likely become more stringent, adding further cost and time-to-market delays.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "At $50,000 per robot (current mid-range pricing), a humanoid robot's hourly cost works out to approximately",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Actuators and motion systems are the most expensive component, accounting for 40–50% of total manufacturing costs. A humanoid robot requires 28–44 actuators for its joints, each combining precision motors, gearboxes, and controllers. At low production volumes, actuators alone can cost $16,000–$40,000 per robot. Mass production could reduce this by 50–70%.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "about $55,000 per unit",
+    "url": "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Morgan Stanley estimates the Tesla Optimus bill of materials at about $55,000 per unit in 2026, and reporting in February 2026 said that excluding Chinese parts could roughly triple it. For comparison, 1X sells its NEO for $20,000 as of November 2026.",
+    "url": "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "関節の性能が移動性、可搬重量、エネルギー消費、安全性に直接影響するため、2025年の部品収益ではアクチュエーターが約57.8%を占める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中システムは 2025 年の売上高に占める割合が約 0.9%にとどまったものの、用途別では最も高い年平均成長率（CAGR）約 39.6%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "【フィジカルAI投資研究室】Unitreeの5,900ドルのヒト型ロボットを「BOMの最適化」目線で確かめた｜【第二ブログ】経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔",
+    "url": "https://note.com/chatgptexecutive/n/n5cbe361659d9",
+    "pass": 3
+   },
+   {
+    "quote": "【フィジカルAI投資研究室】Unitreeの5,900ドルのヒト型ロボットを「BOMの最適化」目線で確かめた",
+    "url": "https://note.com/chatgptexecutive/n/n5cbe361659d9",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、BOMコスト全体を大幅に下げ、5,900ドルという価格を実現した",
+    "url": "https://note.com/chatgptexecutive/n/n5cbe361659d9",
+    "pass": 3
+   },
+   {
+    "quote": "「年間台数×1台あたりの搭載本数」分のアクチュエータ",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "（焼結永久磁石の世界生産に占める中国の比率は2024年に94%、",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Optimus 1台あたり約3.5kgのNdFeB磁石が必要ですが、その製造は中国がほぼ独占しています",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間100万台の量産には「年間台数×1台あたりの搭載本数」分のアクチュエータが毎年必要で、供給体制を現在の生産規模から",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間台数×1台あたりの搭載本数（BofA推計の前提構成は回転16本・直動14本）",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "BofA Global Researchは2025年の推計で、主要部品の大半を中国で製造した場合の一般的なヒューマノイドのBOM（部品コスト",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格ではない）を、回転16本・直動14本のアクチュエータ構成を前提に2025年末時点で1台あたり",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "1台あたり数十本規模のアクチュエータ、3.5kgのレアアース磁石が必要で、サプライチェーンの中国集中による地政学リスクも深刻です",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間100万台には「年間台数×1台あたりの搭載本数」分のアクチュエータが毎年必要になる一方、世界の供給能力を示す公的統計が確認できず各社の年産能力を個別に確認するしかないこと、高精度アクチュエータの量産技術の未成熟、バッテリーのエネルギー密度制限、AIの汎用制御の難しさ、部品コストの高さが量産の壁です",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "BofA Global ResearchのBOM推計（主要部品の大半を中国で製造した場合、2025年末時点で1台約$35,000）も回転16本・直動14本のアクチュエータ構成を前提にしており（ BofA Institute ）、アクチュエータの本数と方式が部品コストを左右する、量産化の鍵を握るコンポーネントです",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "そのうちの28個から44個が、その機械がどれだけの重量を持ち上げられるか、どれくらいの時間稼働できるか、そして製造コストを決定づけており、部品原価の40～60％を占めています",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "採用の障壁となる5つの構成部品（レデューサー、ベアリング、力センサー、およびロボット全体のBOM）",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "部品表（BOM）の40～60パーセントを占めており、これは演算、センシング、構造を上回る最大の単一項目である",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "• Feed-to-need economics are turning. At $20K BOM (Tesla's 2027–28 target), a humanoid delivers positive ROI vs. a $59,000/year US manufacturing worker within 18–24 months.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla Optimus Gen2 — Bom by Component Category ($K Per Unit)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "BOM at $50–60K blocks mass adoption; $20K target not yet achieved",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "US-China decoupling would disrupt 70%+ of global humanoid BOM",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "02. The $20k Bom Is the Adoption Trigger —",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "When Tesla Optimus BOM crosses below $25K, the consumer and mid-market adoption curve inflects. This is the single most important number in this entire market. Monitor quarterly disclosures.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Goldman Sachs put humanoid manufacturing cost at $30,000-$150,000 a unit in early 2024, a 40% year-on-year fall. BofA puts a China-built 2025 bill of materials near $35,000, heading below $17,000 by 2030, with actuators more than half the build. Bain models $10,000-$20,000 by 2035.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Goldman Sachs Research put humanoid manufacturing cost at $30,000-$150,000 per unit in early 2024 — a 40% year-on-year fall against a forecast 15-20%. BofA puts a China-built 2025 bill of materials near $35,000.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Actuation dominates the build: BofA projects linear (27%) plus rotary (24%) actuators at more than half the 2030 bill of materials before dexterous hands (19%) — which is why Tesla designs its actuators in-house.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "in early 2024, down from $50,000 to $250,000 a year earlier — a 40% fall against the 15% to 20% annual decline its analysts had forecast. The floor has kept dropping since: BofA Global Research estimates a humanoid built on Chinese supply chains carried a bill of materials of about $35,000 in 2025, while pilot-stage Western development still runs $90,000 to $100,000 a unit.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding humanoid robot production economics requires examining each major subsystem. The mix below is BofA Global Research's projection of where the bill of materials sits by 2030, published as Exhibit 6 in Bank of America Institute's",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Projected humanoid bill-of-materials mix by module, 2030. Share column: BofA Global Research, Exhibit 6 in Bank of America Institute, Physical AI, part 2: Humanoid robots, 12 March 2026. Actuators alone are more than half the build. The dollar column is arithmetic on BofA's own sub-$17,000 2030 BOM projection, shown for scale — it is not a BofA figure or a vendor quote.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Share of total BOM (2030)",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Indicative $ at a $17,000 BOM",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Bill of Materials: Where the ~$55K Actually Sits | GrabaRobot",
+    "url": "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Bill of Materials: Where the ~$55K Actually Sits",
+    "url": "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "A component-by-component model of a humanoid robot's bill of materials in 2026: actuators are ~56% of cost, legs eat a third, and the battery is a rounding error. The data, and what it means for buyers.",
+    "url": "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "The real driver: actuators are ~56% of the BOM",
+    "url": "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Morgan Stanley estimates the Tesla Optimus bill of materials at about $55,000 per unit in 2026, and reporting in February 2026 said that excluding Chinese parts could roughly triple it. For comparison, 1X sells its NEO for $20,000 as of November 2026.",
+    "url": "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "ヒューマノイドロボット市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "UBTech Robotics Corp Ltd.が2025年に14%超の市場シェアを占め、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国のサプライヤーは製造基盤の厚みから恩恵を受ける一方、北米および欧州のサプライヤーは、企業統合、ソフトウェア、現地のニーズに適合したサプライチェーンを通じた差別化を目指しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "部品供給の制約と生産規模拡大の限界",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、生産規模の拡大には最終組立能力を高めるだけでは不十分であり、サプライヤーは、より大規模な生産量に対応しながら、校正済みで耐久性があり、再現性の高いサブアセンブリーを製造できなければならない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした差別化は、特定の用途における性能向上につながる可能性がある一方、サプライヤーの規模の経済を制限し、顧客が試験導入用フリートからより大規模な発注へ移行する際の認定要件を高めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社の評価では、今後数年間、コストと供給面の制約が、商用展開可能なヒューマノイドと技術的には優れたプラットフォームを分ける要因になると考えられます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の拡大見通しは、サプライヤーに専用のアクチュエータ、センサー、制御モジュールの生産能力へ投資するインセンティブを与えますが、その投資はOEM企業と顧客からの信頼できる数量コミットメントに左右されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "買い手は発注を確約する前に安定した規模拡大の実証を求める一方、サプライヤーは規模拡大への資金を調達する前にコミットメントを必要とします",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "車輪型ヒューマノイドロボットは、2025年に約40.6%で最大の製品シェアを占め、年平均成長率（CAGR）約35.0%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のヒューマノイドロボット市場の部品別売上高シェア（%）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "生産量が増加するにつれて、OEMはアクチュエーター設計の内製化を進めるか、専門サプライヤーに依存するかを判断する必要があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "標準化されたセンサー一式が存在しないことはコスト上の制約となっていますが、検証済みで相互運用可能なモジュールを提供できるサプライヤーにとっては、機会にもなります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、ホスピタリティ分野が約17.4%のシェアで用途別売上高をリードし、年平均成長率（CAGR）約37.5%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "・意思決定・運動に必要なエネルギーを供給するバッテリーシステムです",
+    "url": "https://interactanalysis.jp/insight/current-status-and-trends-in-core-hardware-development-of-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "か月間、ヒューマノイドロボット産業の盛り上がりに伴い、ますます多くのロボット部品メーカーが積極的に参入し、高性能かつ高コストパフォーマンスの統合関節製品の開発に注力しています",
+    "url": "https://interactanalysis.jp/insight/current-status-and-trends-in-core-hardware-development-of-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "のコアサプライヤーとなることを目指しています",
+    "url": "https://interactanalysis.jp/insight/current-status-and-trends-in-core-hardware-development-of-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "この動向は、今後数年間で関節モジュールの供給不足や高コストの問題を緩和し、ヒューマノイドロボット産業の加速的な発展を促進することが期待されます",
+    "url": "https://interactanalysis.jp/insight/current-status-and-trends-in-core-hardware-development-of-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "関節設計においては、上肢関節に関して多くのメーカーがハーモニックドライブモジュールの採用で合意していますが、市場には依然として異なる技術ソリューションも存在します",
+    "url": "https://interactanalysis.jp/insight/current-status-and-trends-in-core-hardware-development-of-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "モジュールのいずれも対応するメーカーが展開しています",
+    "url": "https://interactanalysis.jp/insight/current-status-and-trends-in-core-hardware-development-of-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "表2：一部ヒューマノイドロボットメーカーの関節モジュール技術ソリューション",
+    "url": "https://interactanalysis.jp/insight/current-status-and-trends-in-core-hardware-development-of-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーとの長期契約により価格を固定",
+    "url": "https://note.com/chatgptexecutive/n/n5cbe361659d9",
+    "pass": 3
+   },
+   {
+    "quote": "従来、日本のロボットメーカーや製造業者が苦しんでいたのは「動作学習に時間がかかりすぎる」「実機で壊れるから繰り返しに限界がある」という2点でした",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "この章では、日本と中国という2つの巨大な部品供給国の特性を活かし、",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "CATL系サプライヤー",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "部品選定は「入手性・供給量・代替性」で評価",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "物理的に正確に動くボディを、何千台単位で安定供給できる国は限られている",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "■ 2. 「SIer×部品メーカー×ソフトウェア企業」の新連携モデル",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "部品メーカー",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "関節モーター、センサー、筐体などを供給",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータセンター電力供給 (60件)",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "量産の壁 ― 現在の供給能力は「桁違いに足りない」",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 日本の部品メーカーは中国に負けますか？",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Q. アクチュエータの供給不足はいつ解消されますか？",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "が毎年必要ですが、世界の供給能力を示す公的統計は確認できず、サプライヤーごとの年産能力と納期を個別に確認するしかないのが現状です",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ハーモニック減速機が依然としてシェアリーダーですが、中国の蘇州緑的和諧（Green Harmonic）などが競争力のある価格で急速にシェアを拡大しています",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "主要サプライヤー（国）",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "中国メーカー多数",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "高性能帯は日本勢が主導、中国勢が価格競争力でシェア拡大中（",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "高精度アクチュエータの供給者数や年産能力を示す公的統計は確認できないため、調達時は各社の",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "年間100万台の量産には「年間台数×1台あたりの搭載本数」分のアクチュエータが毎年必要で、供給体制を現在の生産規模から",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータ供給",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "NdFeB磁石供給",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "これは単一のロボットメーカーの問題ではなく、",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェア50%",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド向けBLDCモータ供給",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボットメーカー",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートも同様の構成となっており、各層ごとに適切な章が設けられ、その層を供給するベンダーや価格推移が記載されています",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "遊星ローラースクリューは耐荷重性能を左右する――そして、たった1回の研削加工の結果によって、誰がそれを供給できるかが決まる",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "モジュールのトルク密度が平坦化したため、争点は1層下――巻線に電力を供給するパワーステージへと移った",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "黄色の層は、報告書において供給体制が最も集中していると指摘されている箇所、つまり、特許ではなく単一の製造能力によって供給できる業者が決まる2つのボトルネックを示しています",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "欧米の人型ロボットOEMメーカー",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の人型ロボットOEMメーカー",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "4つの供給ブロックについて、利用率と利益率の動向に基づき評価が行われ、広く流布していた主張に対して3件の訂正がなされた",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "51項目の用語集、4つのマスター表、75社のサプライヤー一覧、および信頼度レベル付きの30の標準番号",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "マスターテーブルと75社のサプライヤー名簿",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "ジョイントの仕様決定や調達を行うエンジニア、生産能力の配置を決定する部品ベンダー、サプライヤーの適格性を審査するOEMの調達チーム、そしてアクチュエータのサプライチェーンについてデューデリジェンスを行う投資家など",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "「サプライチェーン報告書」は、ロボット全体において誰が何を供給しているかを整理したものです",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "特に第13章と第14章では、目まぐるしく変化するサプライヤーの財務状況を追跡しています",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "公共政策は、研究開発費だけでなく、国内製造へのインセンティブ、政府調達、試験環境の利用可能性にも影響を及ぼし得る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月にロボット企業が連邦政府の戦略策定と連携を求めたことは、国内生産、調達、技術競争が市場環境の一部となりつつあることを示しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は生産と需要の中心であり、日本と韓国は精密部品、サービスロボットの経験、製造能力、システム統合で貢献しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本では Honda と SoftBank Robotics が引き続き重要な役割を担っており、韓国では Rainbow Robotics が Samsung Electronics との戦略的連携から恩恵を受けています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域の成長率が低いのは、オートメーションの導入基盤が比較的初期段階にあること、設備投資がより制約されていること、国内のヒューマノイドロボット製造能力が限られていることを反映しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月：主要開発企業の代表者を含む米国のロボティクス企業は、国内の競争力を強化するため、国家ロボティクス戦略、連邦ロボティクス局、インセンティブの導入を求めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業への示唆",
+    "url": "https://note.com/chatgptexecutive/n/n5cbe361659d9",
+    "pass": 3
+   },
+   {
+    "quote": "日本の企業にとっては、",
+    "url": "https://note.com/chatgptexecutive/n/n5cbe361659d9",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業が7500兆円のフィジカルAI市場に参入するには「ヒューマノイド/人型ロボ量産」が最も速い",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAのフィジカルAIの世界が日本の上場企業多数に時価総額増大の事業機会を1つだけではなく複数与えることを確信してこの名前にしました",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA CEOジェンセン・フアンの\"7500兆円規模\"「フィジカルAI市場」が日本の製造業に与えるインパクト",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業の企業がこの「7500兆円規模の",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "最も手っ取り早いのはNVIDIAのロボット開発用技術スタックをフルに使って設計開発し、部品は日本と中国から良いものを選んでヒューマノイドを量産できる体制を確立することだ",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "1章｜最短距離でキャッチアップする日本の勝ち筋：ハンズオン戦略",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ日本がここからキャッチアップ可能なのか？",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "この実機を「購入→分解→内部構造とソフトウェアを解析」することが、日本のキャッチアップの第一歩",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来、日本の製造業は「基礎研究から積み上げる」ことに長けていました",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "米中が本格的に開発・製造・販売を始め、労働力代替として社会実装を加速させている今、5年かけて純国産を目指すよりも、",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、製造業としての日本の本領が発揮されます",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本製アクチュエータ（例：ハーモニックドライブ、安川電機）",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の高精度センサー（例：村田製作所、オムロン）",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "することで、短期間でノウハウを蓄積し、最終的には日本独自の「商用量産型ヒューマノイド」へと展開する道が開けます",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "■ まとめ｜時間を買うハンズオン戦略が、日本の逆転を可能にする",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の商機 ― 「部品でなくてはならない存在」",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 日本の部品メーカーは中国に負けますか？",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、ヒューマノイドの「解剖学」から始め、アクチュエータ戦争、サプライチェーンの地政学、OEMモデル、量産の壁、コスト構造、日本企業の商機まで",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ハーモニック・ドライブ（日本）、Nabtesco（日本）、Green Harmonic（中国）",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "高性能帯は日本勢が主導、中国勢が価格競争力でシェア拡大中（",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本精工（日本）、SKF（スウェーデン）",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンス（日本）、各社",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "新規製品の投入・増産の時期は企業ごとに異なり（例：日本精工は2025年11月に開発を公表したロボティクス向けアクチュエータの市場投入を",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業はヒューマノイドの完成品では出遅れていますが、",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本精工（NSK）",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "中国Green Harmonicなどの競合も価格競争力を武器に台頭していますが、高性能帯ではハーモニック・ドライブやNabtescoなど日本勢が技術面で主導しているとされます（",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "が日本企業の勝ち筋です",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "価格では中国メーカー（Green Harmonicなど）が競争力を持ちますが、高性能帯ではハーモニック・ドライブやNabtescoなど日本勢が技術面で主導しているとされます（",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ハーモニック・ドライブの波動歯車装置は世界シェア50%を維持しており、「高精度が求められる用途」では日本が強い立場です",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "判断材料になるのは各社が公表する量産・市場投入の時期で、例えば日本精工はロボティクス向けアクチュエータの市場投入を",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "価格急落（2023年～2025年）：あるベンダーの自社目論見書と、日本からの輸入品および中国国内の市場価格との比較",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "ねじの価格動向：欧米からの輸入価格と中国国内の市場価格、およびその間を仲介業者が予測する価格推移",
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan loses 18% of its working-age population by 2040. South Korea, 15%. Germany, 12%. China — which built its economic identity on cheap, abundant labor — faces a 9% decline. No immigration policy, no productivity optimization, no fiscal stimulus can bridge a gap of this structural magnitude. Humanoid robots are not a preference. For these economies, they are becoming a necessity.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "• Governments are accelerating, not regulating away. Japan, Singapore, South Korea, and China are actively subsidizing deployment, not creating friction.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Rest of APAC (Japan/Korea)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Elderly Care Crisis (Japan/EU)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan leads; China disrupting fast",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese/German precision mfg; Chinese ramp-up",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan (JPO)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan protecting precision mechanics heritage",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "China, Japan, S. Korea, India",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Demographic decline in key economies (Japan −18%, Korea −15% by 2040)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Opens $3T+ caregiving TAM; government subsidies in Japan, Korea, SG",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "(China, South Korea, Japan, India, Australia, Indonesia, Malaysia, Vietnam, Taiwan, Bangladesh, Pakistan and Rest of APAC)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominates the humanoid robot market because of strong manufacturing ecosystems, government support, high patent activity, and rapid adoption in China, Japan, and South Korea.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3. Japan",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3.1. Japan Humanoid Robot Market Size and Forecast, by Type (2025-2034)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese eldercare worker: $12–$18/hour",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "As robot costs continue falling, the economic pressure for adoption intensifies — particularly in regions with aging populations (Japan, South Korea, Germany) and tight labor markets.",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "産業およびサービス業務における労働力不足",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "労働力不足により、自動化への関心は具体的な導入案件へと転換している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際ロボット連盟は、労働力不足と人口動態の変化を自動化需要の重要な促進要因として挙げている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "建設分野は、労働力不足と安全上のリスクを背景に、長期的に魅力的な機会を提供する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの差別化された技術要件により、発展の初期段階では、市場にはヒューマノイドロボットに完全適合する標準化された低コスト関節製品が相対的に不足していました",
+    "url": "https://interactanalysis.jp/insight/current-status-and-trends-in-core-hardware-development-of-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "この動向は、今後数年間で関節モジュールの供給不足や高コストの問題を緩和し、ヒューマノイドロボット産業の加速的な発展を促進することが期待されます",
+    "url": "https://interactanalysis.jp/insight/current-status-and-trends-in-core-hardware-development-of-humanoid-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "社会課題（人手不足）に対する即時対応も視野に入る",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内の深刻な人材不足に対する即戦力としてのヒューマノイド導入",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "夜間・人手不足帯での稼働確保",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "建設業労働者不足 (2件)",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース輸出規制 (5件)",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "Q. アクチュエータの供給不足はいつ解消されますか？",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月の中国レアアース輸出規制により、",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "輸出規制で制約",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Global Labour Shortage",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Bottleneck Holder",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Europe behind; risk of technology dependence",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Severe aging + labour shortage; most acute globally",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Eldercare deficit: 1.5Bn people over 65 by 2050; caregiver shortage acute",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Ans: The humanoid robot market was valued at USD 2.92 billion in 2025 and is projected to reach USD 57.3 billion by 2034, driven by AI advancements, automation demand, and global labor shortages.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Supply Chain Bottlenecks",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "4% of the U.S. manufacturing labor shortage gap by 2030",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "Several critical components face supply constraints:",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   },
+   {
+    "quote": "and a growing eldercare worker shortage expected to reach",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "一方、中国が発表した政府支援の技術ファンドは、ロボット工学、AI、その他の先端技術を支援することを目的としています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "施設介護、リハビリテーション、病院支援",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、ヒューマノイドの価値提案は、反復動作と対象物やレイアウトの変化が組み合わさるマテリアルハンドリング、検査、キッティング、組立支援などの業務で最も強くなる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Morgan Stanleyの長期見通しでは、高齢者介護と家庭支援が主要な潜在需要源として挙げられている一方、普及は機能と価格のしきい値に左右されることも示されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "より短期的には、介護施設は監督下の業務フローにロボットを導入できるため、事業者は業務をコミュニケーション、交流、案内、特定の支援活動に限定できる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "資本と政策による支援は、プラットフォーム開発から現場検証までの期間を短縮している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、中国が発表した技術基金には、支援対象分野としてロボットとAIが含まれている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、訪問者支援、配送、経路案内、定型的なサービス対応などのユースケースに支えられ、サービス・ホスピタリティ分野が市場収益の約17.4%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Unitree Roboticsは13%のシェアを占め、研究、実証、初期の産業実験を支援する、比較的導入しやすい二足歩行プラットフォームによって競争している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rainbow Robotics Co., Ltd.は、Samsung Electronicsによる戦略的支援を背景に、移動マニピュレーション能力を組み合わせている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月に発表したシリーズCの資金調達は、ハードウェア、ソフトウェア、トレーニングのエコシステム拡大に対する投資家からの大きな支援を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月10日：NEURA Robotics は、認知ロボティクスプラットフォームと商用エコシステムの拡大を支援するため、最大 140億米ドルのシリーズC資金調達ラウンドを発表した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "見守り、移乗補助、生活支援",
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドのサプライチェーン最適化を含むAI戦略を支援します",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ADAS（先進運転支援システム）とは？自動運転との違い・主要機能・選び方【2026年版】",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "renueの実装支援サービス",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "renueのAI支援実績、コンサルティングの方針や進め方をご紹介します",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI脆弱性診断支援",
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Most market models treat personal assistance and caregiving as one segment among six. This is an analytical error. The caregiving segment carries three advantages no industrial application can match: non-discretionary demand (1.5 billion elderly by 2050), government subsidy tailwinds, and a pricing structure where ROI is unambiguous at $20K robot vs. $60–120K/year human caregiver.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Brain — Compute Chips",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading-edge AI chips for humanoid brain.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Onshoring investment; CHIPS Act equivalents for humanoids",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "CHIPS Act, DOD investment in robotics, DARPA",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Memory chips for AI + autos-to-humanoid crossover",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Active subsidy; Ministry-level priority",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "CHIPS-adjacent; DoD interest",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "US-based; CHIPS Act beneficiary",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Motion control + advanced sensing chips",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "AI compute chips:",
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.excite.co.jp/news/article/Dreamnews_0000366040/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%99%A8%E7%94%A8%E3%81%AA%E6%89%8B%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2%E6%95%B0%E9%87%8F%E3%81%8A%E3%82%88%E3%81%B3%E6%88%90%E9%95%B7%E8%BB%8C-7518364044064358401-ecqde",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-110188",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/humanoids-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/takayukiyamazaki_humanoid-robot-market-activity-7305733417403301888-b5L5",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/research-article/humanoid-robots-to-reach-nearly-us-30-billion-by-2036/34443",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mri.co.jp/knowledge/column/20260113.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/20251008_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000362216",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/robotics/comments/3d13jo/what_is_the_cost_structure_of_the_new_generation/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://interactanalysis.jp/insight/current-status-and-trends-in-core-hardware-development-of-humanoid-robots/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/research-article/humanoid-robots-to-have-a-14-fold-market-expansion-in-5-years/33297",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tirapid.com/ja/humanoid-robots-in-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/chatgptexecutive/n/n5cbe361659d9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0193-XF-0105.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E7%94%A8%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E4%B8%8A%E4%BD%8D%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-steep-scopes-bjite",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2025/02/07/2501btf_tsuji_matsuura.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://asana.com/ja/resources/humanoid",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9681/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/perspectives/humanoid-robot-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/release/31211908/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labmemo.com/tesla-optimus-figure-bmw-deep-dive-robot-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nri.com/jp/knowledge/report/files/000049393.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/16/news017_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.chosun.com/jp/jp-industry/2026/03/20/4ZWN7EGFSZGI7NN7NMJPL3367I/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.wsj.com/articles/under-the-skin-of-americas-humanoid-robots-chinese-technology-c034036a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://globe.asahi.com/article/15988328",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spap.jst.go.jp/china/experiences/science/st_25118.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bccresearch.com/pressroom/ias/humanoid-robot-market-to-grow-at-428-cagr?srsltid=AYCX9vJ3d-OLSnbto5W8xzAn7QhoeDSSOUUCq3VowcuTTkrrzOIIL3YH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/physical-ai-gold-rush-2-trillion-secret-thats-creating-manufacturing-cqyde",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/adcock_brett/status/1781773680487596216",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://thehumanoid.ai/glossary/bom-costs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ヒューマノイドロボットの部品構成とコスト 市場規模 CAGR",
+   "results": [
+    "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "http://www.excite.co.jp/news/article/Dreamnews_0000366040/",
+    "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "https://jp.linkedin.com/pulse/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%99%A8%E7%94%A8%E3%81%AA%E6%89%8B%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2%E6%95%B0%E9%87%8F%E3%81%8A%E3%82%88%E3%81%B3%E6%88%90%E9%95%B7%E8%BB%8C-7518364044064358401-ecqde",
+    "https://www.fortunebusinessinsights.com/jp/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-110188",
+    "https://www.mordorintelligence.com/ja/industry-reports/humanoids-market",
+    "https://www.researchnester.jp/industry-analysis/humanoid-robot-market/4982",
+    "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "https://www.deloitte.com/jp/ja/services/consulting/perspectives/humanoid-robot-market.html",
+    "https://www.astuteanalytica.com/ja/industry-report/humanoid-robot-component-market"
+   ]
+  },
+  {
+   "query": "ヒューマノイドロボットの部品構成とコスト 需要 見通し 2030",
+   "results": [
+    "https://www.linkedin.com/posts/takayukiyamazaki_humanoid-robot-market-activity-7305733417403301888-b5L5",
+    "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "https://www.idtechex.com/ja/research-article/humanoid-robots-to-reach-nearly-us-30-billion-by-2036/34443",
+    "https://www.mri.co.jp/knowledge/column/20260113.html",
+    "https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/20251008_2.pdf",
+    "https://www.dreamnews.jp/press/0000362216",
+    "https://www.moomoo.com/ja/community/feed/humanoid-robots-will-boost-dram-demand-twentyfold-by-2030-117425788616710",
+    "https://newscast.jp/smart/news/9241185",
+    "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "https://humanoidpress.jp/humanoid-robot-future-2030/"
+   ]
+  },
+  {
+   "query": "ヒューマノイドロボットの部品構成とコスト 部品構成 コスト",
+   "results": [
+    "https://www.reddit.com/r/robotics/comments/3d13jo/what_is_the_cost_structure_of_the_new_generation/?tl=ja",
+    "https://interactanalysis.jp/insight/current-status-and-trends-in-core-hardware-development-of-humanoid-robots/",
+    "https://www.idtechex.com/ja/research-article/humanoid-robots-to-have-a-14-fold-market-expansion-in-5-years/33297",
+    "https://tirapid.com/ja/humanoid-robots-in-manufacturing/",
+    "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "https://note.com/chatgptexecutive/n/n5cbe361659d9",
+    "https://www.st.com/resource/ja/brochure/humanoid-robot-reference-guide.pdf",
+    "https://jp.misumi-ec.com/special/robot/basic_info/cost/?srsltid=AYCX9vLXB7pgRel0SZlB-WSFo2Dcq0PpZ69PBConvTwrC-srr0u2AWwe",
+    "https://x.com/KagawaTomo/article/2075709599702016011",
+    "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026"
+   ]
+  },
+  {
+   "query": "ヒューマノイドロボットの部品構成とコスト シェア 主要企業",
+   "results": [
+    "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0193-XF-0105.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-110188",
+    "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "https://jp.linkedin.com/pulse/%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E7%94%A8%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E4%B8%8A%E4%BD%8D%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-steep-scopes-bjite",
+    "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2025/02/07/2501btf_tsuji_matsuura.pdf",
+    "https://www.idtechex.com/ja/research-article/humanoid-robots-to-have-a-14-fold-market-expansion-in-5-years/33297",
+    "https://asana.com/ja/resources/humanoid",
+    "https://metoree.com/categories/9681/",
+    "https://note.com/qy_research/n/n96907759a490"
+   ]
+  },
+  {
+   "query": "ヒューマノイドロボットの部品構成とコスト 日本企業",
+   "results": [
+    "https://asana.com/ja/resources/humanoid",
+    "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2025/02/07/2501btf_tsuji_matsuura.pdf",
+    "https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0193-XF-0105.pdf",
+    "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "https://www.idtechex.com/ja/research-article/humanoid-robots-to-have-a-14-fold-market-expansion-in-5-years/33297",
+    "https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html",
+    "https://tirapid.com/ja/humanoid-robots-in-manufacturing/",
+    "https://metoree.com/categories/9681/",
+    "https://www.deloitte.com/jp/ja/services/consulting/perspectives/humanoid-robot-market.html",
+    "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026"
+   ]
+  },
+  {
+   "query": "ヒューマノイドロボットの部品構成とコスト 不足 OR 中国依存",
+   "results": [
+    "https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0193-XF-0105.pdf",
+    "https://www.nri.com/jp/knowledge/report/files/000049393.pdf",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/16/news017_2.html",
+    "https://biz.chosun.com/jp/jp-industry/2026/03/20/4ZWN7EGFSZGI7NN7NMJPL3367I/",
+    "https://jp.wsj.com/articles/under-the-skin-of-americas-humanoid-robots-chinese-technology-c034036a",
+    "https://globe.asahi.com/article/15988328",
+    "https://spap.jst.go.jp/china/experiences/science/st_25118.html",
+    "https://note.com/chatgptexecutive/n/n913aec55e18b"
+   ]
+  },
+  {
+   "query": "humanoid robot bill of materials cost breakdown market size CAGR 2030",
+   "results": [
+    "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "https://www.bccresearch.com/pressroom/ias/humanoid-robot-market-to-grow-at-428-cagr?srsltid=AYCX9vJ3d-OLSnbto5W8xzAn7QhoeDSSOUUCq3VowcuTTkrrzOIIL3YH",
+    "https://www.linkedin.com/pulse/physical-ai-gold-rush-2-trillion-secret-thats-creating-manufacturing-cqyde",
+    "https://market.us/report/humanoid-robot-market/",
+    "https://www.marketsandmarkets.com/Market-Reports/embodied-ai-market-83867232.html",
+    "https://institute.bankofamerica.com/content/dam/transformation/physical-ai-part-2.pdf",
+    "https://www.recordedfuture.com/research/future-humanoid-robotics",
+    "https://thetechtrends.tech/humanoid-robot-cost-curve/"
+   ]
+  },
+  {
+   "query": "humanoid robot bill of materials cost breakdown cost breakdown bill of materials",
+   "results": [
+    "https://x.com/adcock_brett/status/1781773680487596216",
+    "https://thehumanoid.ai/glossary/bom-costs/",
+    "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "https://institute.bankofamerica.com/content/dam/transformation/physical-ai-part-2.pdf",
+    "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "https://www.uc.edu/content/dam/refresh/cont-ed-62/olli/s25-handouts/exploring%20humanoid%20robots%205.pdf",
+    "https://www.utmel.com/blog/categories/technology/humanoid-robot-bom-breakdown-every-chip-inside-a-physical-ai-platform",
+    "https://www.linkedin.com/pulse/physical-ai-gold-rush-2-trillion-secret-thats-creating-manufacturing-cqyde",
+    "https://www.robotlar.org/en/guide/insansi-robot-maliyet-analizi"
+   ]
+  },
+  {
+   "query": "humanoid robot bill of materials cost breakdown demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "https://www.mckinsey.com/industries/industrials/our-insights/turning-humanoid-supply-chain-constraints-into-billion-dollar-wins",
+    "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "https://www.uc.edu/content/dam/refresh/cont-ed-62/olli/s25-handouts/exploring%20humanoid%20robots%205.pdf",
+    "https://www.recordedfuture.com/research/future-humanoid-robotics",
+    "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "https://www.linkedin.com/pulse/physical-ai-gold-rush-2-trillion-secret-thats-creating-manufacturing-cqyde",
+    "https://businessengineer.ai/p/the-economics-of-a-humanoid",
+    "https://advisor.morganstanley.com/john.howard/documents/field/j/jo/john-howard/The_Humanoid_100_-_Mapping_the_Humanoid_Robot_Value_Chain.pdf",
+    "https://www.gminsights.com/industry-analysis/humanoid-robot-market"
+   ]
+  },
+  {
+   "query": "site:note.com ヒューマノイドロボットの部品構成とコスト",
+   "results": [
+    "https://note.com/soneo/n/n96719f951b84",
+    "https://note.com/kagawatomo/n/n77775459ddcd",
+    "https://note.com/kagawatomo/n/n536c1c3ebecd",
+    "https://note.com/zhenren63/n/n212e23043c3f",
+    "https://note.com/kagawatomo/n/n0cab3a434de8",
+    "https://note.com/kagawatomo/n/n2610436ae2eb",
+    "https://note.com/chatgptexecutive/n/n5cbe361659d9",
+    "https://note.com/kagawatomo/n/n4ff2a97d3c38",
+    "https://note.com/kagawatomo/n/n9e2f448cd57c",
+    "https://note.com/jpreportocean/n/n8956d0023a69"
+   ]
+  },
+  {
+   "query": "site:x.com ヒューマノイドロボットの部品構成とコスト",
+   "results": [
+    "https://x.com/KagawaTomo/article/2075709599702016011",
+    "https://x.com/KagawaTomo/article/2105560983125307675",
+    "https://x.com/KagawaTomo/article/2074680179260285180",
+    "https://x.com/KagawaTomo/article/2103040848074269047",
+    "https://x.com/_mayumayu13/article/2076428632093016070",
+    "https://x.com/KagawaTomo/article/2105191051376148706",
+    "https://x.com/i/article/2107975579580739876",
+    "https://x.com/KagawaTomo/article/2070806985952674168",
+    "https://x.com/HideoNw/article/2091806986757431598",
+    "https://x.com/KagawaTomo/status/2115052588332884288"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ヒューマノイドロボットの部品構成とコスト",
+   "results": [
+    "https://www.linkedin.com/posts/takayukiyamazaki_humanoid-robot-market-activity-7305733417403301888-b5L5",
+    "https://jp.linkedin.com/pulse/inside-machine-what-humanoid-robot-actually-made-thomas-binh-do-33eoc?tl=ja",
+    "https://jp.linkedin.com/pulse/humanoid-robots-get-35-cost-cut-power-frameless-torque-motors-i66ec?tl=ja",
+    "https://jp.linkedin.com/pulse/robotic-actuators-cost-demand-supply-anupam-bagchi-zjeac?tl=ja",
+    "https://jp.linkedin.com/pulse/could-humanoid-robots-change-future-engineering-simon-jones-0bkye?tl=ja",
+    "https://jp.linkedin.com/pulse/humanoid-vs-application-specific-robots-asr-where-each-anupam-bagchi-msmjc?tl=ja",
+    "https://jp.linkedin.com/pulse/humanoid-robot-industry-players-value-chain-detail-petri-pekkarinen-etiff?tl=ja",
+    "https://jp.linkedin.com/pulse/future-humanoid-robots-right-path-forward-haoyang-wu-nlk0e?tl=ja",
+    "https://jp.linkedin.com/pulse/physical-ai-humanoid-robots-from-hype-tangible-value-fabio-bottacci-lr5le?tl=ja",
+    "https://www.linkedin.com/posts/kit-yu-27753534_based-on-our-estimation-the-total-bill-of-activity-7417226161208053760-1j72"
+   ]
+  },
+  {
+   "query": "site:facebook.com ヒューマノイドロボットの部品構成とコスト",
+   "results": [
+    "https://www.facebook.com/mujininc/videos/%E4%B8%89%E4%BA%94%E6%A7%98-x-mujin-%E6%97%A5%E6%9C%AC%E7%89%A9%E6%B5%81%E5%A4%A7%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E%E5%A4%A7%E6%89%8B%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%B8%89%E4%BA%94%E6%A7%98%E3%81%A8mujin%E3%81%AF%E7%A6%8F%E7%94%B0%E5%B7%A5%E5%A0%B4%E3%81%AB%E3%81%A6%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%A8mujin%E7%8B%AC%E8%87%AA%E3%81%AE%E3%83%95%E3%82%A3%E3%82%B8%E3%82%AB%E3%83%ABai%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%97/1338162141555221/",
+    "https://www.facebook.com/peritec/?locale=ja_JP",
+    "https://www.facebook.com/peritec/posts/%E3%83%9A%E3%83%AA%E3%83%86%E3%83%83%E3%82%AF-%E6%8A%80%E8%A1%93%E8%A7%A3%E8%AA%AC%E3%83%9A%E3%83%AA%E3%83%86%E3%83%83%E3%82%AF%E3%81%AE%E6%8A%80%E8%A1%93%E8%A7%A3%E8%AA%AC%E5%8B%95%E7%94%BB%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-%E5%86%8D%E7%94%9F%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%8B%95%E7%94%BB-%E3%83%9A%E3%83%AA%E3%83%86%E3%83%83%E3%82%AF%E6%8F%90%E5%94%B1%E3%83%A9%E3%83%9C%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%8C%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%AB%98%E7%B2%BE%E5%BA%A6%E9%AB%98%E7%94%9F%E7%94%A3%E6%80%A7%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%95%E3%81%9B%E3%82%8B%E7%B5%B1%E5%90%88%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC/1443107880944926/",
+    "https://www.facebook.com/japan.kawasaki/videos/川崎重工のロボットを知るvol1川崎重工のロボット事業はフィジカルaiにも関連する産業からとの共を指す次世代ロボットまで手掛けています今回紹介するヒューマノイド/943511731820569/",
+    "https://www.facebook.com/kiqrobotics/videos/ロボット最新ニュースギークプラスがヒューマノイドロボットginoを日本国内で初公開すると発表しましたginoは物流現場でのピッキングやケース搬送を想定したロボッ/1156579614021495/",
+    "https://www.facebook.com/100064795626576/videos/800043386534756/",
+    "https://www.facebook.com/MitsubishiResearchInstituteGroup/photos/世界的に加速するヒューマノイドロボット開発人間に似た形状や動作能力を備えたヒューマノイドロボットは産業での用途拡大に加え家事全般や対人サービスなどさまざまな領域/733212652786851/",
+    "https://www.facebook.com/bousai119/videos/100年後2126年の救急車運用を担う3体の人型救急救命aiロボットヒューマノイドの想定像2126年時点では完全自律型ヒューマノイド救急救命ロボットが標準化され/3151951428334531/",
+    "https://www.facebook.com/GMOinternetgroup/videos/人型ロボットヒューマノイド開発の裏側うまくいく時もうまくいかない時もその一つ一つが社会実装に向けての一歩です-gmo-aiロボティクス商事株式会社gmo-air/1013356664756566/",
+    "https://www.facebook.com/nikkeibusiness/posts/asimo後にヒューマノイド失速-中国は100社超育成日本は部品の優位生かせ-世界大会を席巻した中国の人型ロボ日本唯一の参加チームまで中国製だったかつて世界をリ/1545857217585537/"
+   ]
+  },
+  {
+   "query": "ヒューマノイドロボットの部品構成とコスト note 社長",
+   "results": [
+    "https://note.com/kagawatomo/n/n2610436ae2eb",
+    "https://note.com/kagawatomo/n/n0cab3a434de8",
+    "https://note.com/jpreportocean/n/n8956d0023a69",
+    "https://note.com/kagawatomo/n/n77775459ddcd",
+    "https://note.com/kagawatomo/n/n9e2f448cd57c",
+    "https://www.st.com/resource/ja/brochure/humanoid-robot-reference-guide.pdf",
+    "https://note.com/all_zero/n/nc21e07608449",
+    "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2025/02/07/2501btf_tsuji_matsuura.pdf",
+    "https://note.com/all_zero/n/n07949200125d",
+    "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026"
+   ]
+  },
+  {
+   "query": "ヒューマノイドロボットの部品構成とコスト X 投稿",
+   "results": [
+    "https://globalxetfs.co.jp/research/the-rise-of-humanoids-explained/index.html",
+    "https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/",
+    "https://xnews.xgrowing.ai/ja/news/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E9%83%A8%E5%93%81%E6%A7%8B%E6%88%90%E3%82%B3%E3%82%B9%E3%83%88-%E3%82%A2%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A8%E3%83%8F%E3%83%B3%E3%83%89%E3%81%8C%E8%B2%BB%E7%94%A8%E3%81%AE75-%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B-2793",
+    "https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026",
+    "https://fabscene.com/new/news/mckinsey-humanoid-supply-chain-2026/",
+    "https://www.beyondge.com/column/humanoid-x",
+    "https://www.st.com/resource/ja/brochure/humanoid-robot-reference-guide.pdf",
+    "https://www.moomoo.com/ja/news/post/62231604/major-shift-in-cost-structure-of-humanoid-robots-semiconductors-to",
+    "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0071.html"
+   ]
+  },
+  {
+   "query": "humanoid robot bill of materials cost breakdown site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/hgarciadfm_the-humanoid-hardware-cost-breakdown-video-activity-7515628835581693952-JdGZ",
+    "https://www.linkedin.com/pulse/physical-ai-gold-rush-2-trillion-secret-thats-creating-manufacturing-cqyde",
+    "https://www.linkedin.com/posts/peterkappes_the-movement-plane-is-currently-the-most-activity-7422297488692375553-xvXF",
+    "https://www.linkedin.com/posts/meteeg_schaefflerrecently-published-a-detailed-activity-7491878592260304896-NpRQ",
+    "https://www.linkedin.com/pulse/inside-machine-what-humanoid-robot-actually-made-thomas-binh-do-33eoc",
+    "https://www.linkedin.com/posts/gennarocuofano_the-economics-of-a-humanoid-and-the-hands-activity-7410460128522518528-faeK",
+    "https://www.linkedin.com/posts/zieglerr_just-in-a-new-mckinsey-company-report-activity-7457073031329247232-BuX3",
+    "https://www.linkedin.com/pulse/8500-month-first-honest-look-humanoid-robot-economics-thomas-binh-do-clq1c",
+    "https://www.linkedin.com/posts/keith-harasymiw-2a2323237_robotics-humanoidrobots-ai-activity-7519057810584793088-WnsL",
+    "https://www.linkedin.com/posts/chinaroboticsinsider_humanoid-robot-bom-cost-breakdown-2026-china-activity-7508729375068971008-UZ3C"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1110 @@
+{
+ "name": "ロボット・無人機のチタン部材",
+ "en": "titanium components robots drones",
+ "aliases": [
+  "チタン ロボット 部品",
+  "チタン ドローン",
+  "チタン合金 無人機"
+ ],
+ "context": "マテリアル・素材",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:29:47.280267+00:00",
+ "evidence": {
+  "需要量": [
+   {
+    "quote": "複雑な形状や1000分台レベルの高度な加工精度が求められる製品もお任せください",
+    "url": "https://www.ofa-titanium.com/titaniumProblemSolution.php",
+    "pass": 3
+   },
+   {
+    "quote": "適切な合金を選択するには、強度対重量比、振動減衰性、製造性、および1kgあたりのコストのバランスを取る必要がありますが、アルミニウムは極限温度性能を除くすべての指標で優れています",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの特性は、5kgの産業用ドローンが壁に衝突した際に特に重要となります",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "7075-T6はσ_uts/ρ ≈ 215 kN·m/kgに達し、一般的なアルミニウムの熱処理状態の中で最も高い値を示す",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー吸収量（1kgあたり）",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "重量25kg未満の商用および産業用UAVにおいては、アルミニウムが依然としてリスクが低く、飛行時間あたりのコストも低い選択肢となる",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作品や少量生産（10～5,000個）に最も一般的な方法です",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型コストは低く、部品1個あたりのコストは中程度です",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "大量生産（10,000個以上）に最適です",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間1,000～3,000台のドローン生産においては、押出成形アームとCNC加工された中央ハブを組み合わせたハイブリッド方式が、一般的に最も経済的な選択肢となります",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "3,000台を超える生産量では、カスタム押出成形による金型償却のメリットが顕著に現れます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、1,000台未満の生産量では、CNC加工されたプレートのみを使用する方が、より迅速かつ低コストで済みます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "構造重量25kg、ペイロード重量25kgのドローンは、構造重量15kg、ペイロード重量25kgのドローンに比べて、飛行時間が半分になってしまいます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、最新の25kgの産業用ドローンフレームは、わずか8～12kgのアルミニウムで済み、2015年に製造された同等の押出成形フレームの半分の質量で済みます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "離陸重量25kg以下の商用および産業用ドローンでは、一般的にアルミニウムの方が経済的である",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "919年に飛行した我が国初の国産商用大型航空機C2014には、200,000万個を超える単一機械チタン加工部品が使用されていました",
+    "url": "https://machining-custom.com/ja/blog/aerospace-titanium-machining-parts.html",
+    "pass": 3
+   },
+   {
+    "quote": "ボーイング 747 航空機の構造重量は、スチールをチタンに置き換えた後、1,814 kg 軽減されました",
+    "url": "https://machining-custom.com/ja/blog/aerospace-titanium-machining-parts.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロシアの Il-96 航空機は 142,000 個のファスナーを使用しており、スチールをチタンに置き換えて重量を 600 kg 軽減しました",
+    "url": "https://machining-custom.com/ja/blog/aerospace-titanium-machining-parts.html",
+    "pass": 3
+   },
+   {
+    "quote": "わが国では工業用純チタンの耐食性を生かした活用が中心で発展してきたが、国内需要は年間約1万トン弱に過ぎない(世界では年間約10万トンである)",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、人型ロボット用金属材料のグローバル生産能力は800トン、販売量は約750トンに達し、平均市場価格は約3,200米ドル/トン、業界総利益率は26%でした",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、人型ロボット用金属材料の世界市場に関する詳細かつ包括的な分析であり、2025年を基準年として、市場規模（トンおよび百万USドル）と前年比成長率を提供します",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 人型ロボット用金属材料の世界市場規模、過去データ2021-2025年、および予測データ2026-2032年（百万USドル）および（トン）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 人型ロボット用金属材料の世界販売量、収益、企業別価格、市場シェア、業界ランキング2021-2026年（百万USドル）および（トン）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 人型ロボット用金属材料の日本販売量、収益、企業別価格、市場シェア、業界ランキング2021-2026年（百万USドル）および（トン）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Table 7. 世界の人型ロボット向け金属材料の企業別販売数量、（2021-2026年）と（トン）、2025年の販売数量に基づきランク付け",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Table 9. 世界の人型ロボット向け金属材料の企業別平均販売価格（ASP）、（2021-2026年）と（米ドル/トン）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Table 17. 日本の人型ロボット向け金属材料の企業別販売数量、（2021-2026年）と（トン）、2025年の販売数量に基づきランク付け",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Table 19. 世界の人型ロボット向け金属材料の地域別生産量と予測、2021年 vs 2025年 vs 2032年、（トン）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Table 20. 世界の人型ロボット向け金属材料の地域別生産量、2021-2026年、（トン）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Table 21. 世界の人型ロボット向け金属材料の地域別生産量予測、2027-2032年、（トン）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Table 28. 地域別、世界の人型ロボット向け金属材料の販売数量、2021-2032年、（トン）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Table 32. 国別、世界の人型ロボット向け金属材料の販売数量、2021-2032年、（トン）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Table 36. Baoji Titanium Industryの人型ロボット向け金属材料の販売数量（トン）、収益（百万米ドル）、価格（米ドル/トン）、粗利益、2021-2026年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Table 41. Baowuの人型ロボット向け金属材料の販売数量（トン）、収益（百万米ドル）、価格（米ドル/トン）、粗利益、2021-2026年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "弊社は多数の欧米他メーカーとのネットワークを持ち、64チタン合金をはじめとしたチタン材を調達から加工までご提案させていただきます",
+    "url": "https://www.ofa-titanium.com/titaniumProblemSolution.php",
+    "pass": 3
+   },
+   {
+    "quote": "代表的なチタン合金である64チタン合金（Ti-6Al-4V）は引張強度895MPa以上、その他にも冷間加工性に優れたβチタン合金（15-3-3-3等）やメーカー独自合金もあります",
+    "url": "https://www.ofa-titanium.com/titaniumProblemSolution.php",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のドローンメーカーが採用している、鍛造アルミニウム製品に関する国際規格",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "華暁合金は、ドローン、ロボット、UAVメーカー向けに、アルミニウム板、シート、押出材、CNC加工フレーム部品を提供しています",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、多くのロボットおよびドローンメーカーは、ボルト締めまたはスナップフィット接続を採用することで、フレームの迅速な回収を可能にし、製品寿命後の分解を前提とした設計を行っています",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "チタン合金 - メーカー・企業14社の業務用製品ランキング | イプロスものづくり",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン合金のメーカーや取扱い企業、製品情報、参考価格、ランキングをまとめています",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン合金のメーカー・企業ランキング",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン グレード2のホーローセットや小サイズのボルト、ナット等、海外メーカーから調達可能です",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "大手マフラーメーカーに採用実績多数！マフラーの軽量化を実現！",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "多くのMOTO GP車両や大手マフラーメーカーに採用されています",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のチタン合金市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模、主要地域別市場規模、流通チャネル分析などの情報を収録しています",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のチタン合金市場シェア、製品・事業概要、販売実績なども掲載しています",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー・取扱い企業",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "【調査資料】ヒューマノイドロボット用金属材料：グローバル主要企業の市場シェア2026年（合金鋼、アルミニウム合金、マグネシウム合金、チタン合金、NdFeB希土類永久磁石）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット用金属材料：グローバル主要企業の市場シェア2026年（合金鋼、アルミニウム合金、マグネシウム合金、チタン合金、NdFeB希土類永久磁石）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Materials for Humanoid Robots - Global Top Players Market Share and Ranking 2026",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "本調査は、関税エスカレーション経路と世界的政策対応が、企業投資戦略、地域貿易ネットワーク、および重要材料供給構造に与える伝達メカニズムを解読します",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "産業チェーンは、上流（アルミニウム/マグネシウム/チタン生産者、特殊鋼メーカー、銅精錬業者、レアアース採掘/分離および磁石材料）から始まり、半製品（シート/押し出し材、ダイカスト/鍛造品、粉末および粉末冶金部品）を経て、機械加工、熱処理、表面工学（陽極酸化/MAO、窒化、DLC/PVDなど）へと進み、その後、関節モジュール、減速機/ボールねじ、サーボモーター、最終組立へと流れていきます",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "材料選定、鋳造/鍛造経路、機械加工基準、検査基準が、再現性のある供給として固定化されており、これこそが人型ロボット用金属材料の供給体制がエンジニアリングビルドからスケーラブルな生産へと移行するために必要なものです",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤー収益、市場シェア、企業プロファイルを含む市場内の競争環境を評価するため",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 人型ロボット用金属材料の世界販売量、収益、企業別価格、市場シェア、業界ランキング2021-2026年（百万USドル）および（トン）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 人型ロボット用金属材料の日本販売量、収益、企業別価格、市場シェア、業界ランキング2021-2026年（百万USドル）および（トン）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：人型ロボット用金属材料の世界市場シェアと主要メーカーのランキング、販売量、収益、平均価格、2021-2026年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：人型ロボット用金属材料の日本市場シェアと主要メーカーのランキング、販売量、収益、平均価格、2021-2026年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：企業プロファイル、製品仕様、アプリケーション、最近の開発、販売量、平均価格、収益、粗利益を含む市場の主要企業の基本状況を詳細に紹介する",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.4 世界市場における日本のヒューマノイドロボット用金属材料市場のシェア",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.1 消費額別、日本市場の世界市場におけるヒューマノイドロボット用金属材料市場シェア、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.2 販売数量別、日本市場の世界市場におけるヒューマノイドロボット用金属材料市場シェア、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "機械加工メーカーで需要が高いのは、次のような切削加工品です",
+    "url": "https://is-precision.com/space-defense",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "一般的な商用ドローンにおいて、フレームのコストは部品表全体の8～18%を占める",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "特注押出金型は1,500～5,000ドルかかりますが、部品単価は低く抑えられます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "919年に飛行した我が国初の国産商用大型航空機C2014には、200,000万個を超える単一機械チタン加工部品が使用されていました",
+    "url": "https://machining-custom.com/ja/blog/aerospace-titanium-machining-parts.html",
+    "pass": 3
+   },
+   {
+    "quote": "における情報を集めた国内最大級の技術データベースサイトです",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙規格から日本製鉄規格のSuper-TIXまで豊富にラインアップ",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "『Super-TIX チタン』は、日本製鉄が開発したチタン合金",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "わが国では工業用純チタンの耐食性を生かした活用が中心で発展してきたが、国内需要は年間約1万トン弱に過ぎない(世界では年間約10万トンである)",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "地域別セグメントは、北米、アメリカ、ヨーロッパ、アジア太平洋、日本、中国、インド、韓国、東南アジア、南米、中東、アフリカなどに区分して、チタン合金の市場規模を算出しました",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "※日本語翻訳版も取り扱っております",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "日本語版のSingle Userライセンスの価格は￥637,420(税別)で納期は受注後8～10営業日です",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "「英語版＋日本語版」やMulti User/Corporateライセンス価格など、詳細は別途お問い合わせください",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "※お支払金額は「換算金額（日本円）＋消費税＋配送料（Eメール納品は無料）」です",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "※上記の日本語題名はH&Iグローバルリサーチが翻訳したものです",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "英語版原本には日本語表記はありません",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月10日、米国国防関連機関とMP Materialsは、国内のレアアース磁石能力加速のための官民パートナーシップを進めました",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 人型ロボット用金属材料の日本販売量、収益、企業別価格、市場シェア、業界ランキング2021-2026年（百万USドル）および（トン）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋（中国、日本、韓国、インド、東南アジア、オーストラリア、その他のアジア太平洋）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：人型ロボット用金属材料の製品範囲、世界販売量、価値および平均価格、日本販売量、価値および平均価格、開発機会、課題、トレンド、および政策について記述する",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：人型ロボット用金属材料の日本市場シェアと主要メーカーのランキング、販売量、収益、平均価格、2021-2026年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.3 日本のヒューマノイドロボット用金属材料市場規模と予測",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.1 消費額別、日本のヒューマノイドロボット用金属材料市場規模、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.2 販売数量別、日本のヒューマノイドロボット用金属材料市場規模、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.3 日本のヒューマノイドロボット用金属材料平均販売価格 (ASP)、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "25 年にわたる CNC 加工の経験を活かし、当社はインテリジェントな製造を通じてより良い生活の実現に貢献するため、お客様が 10000 もの複雑な部品加工の課題を克服できるよう支援することに全力で取り組んでいます",
+    "url": "https://machining-custom.com/ja/blog/aerospace-titanium-machining-parts.html",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用した手術支援：グローバル主要企業の市場シェア2026年（術前計画・シミュレーション、リアルタイムナビゲーション・ガイダンス、器具制御・自動化、術後結果分析）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "■強度不足でお困りの方",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "【純チタンの強度不足でお悩みありませんか？】64チタン合金",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "成長は、（i）一体型鋳造品と薄肉構造設計（腐食と品質の安定性が成熟するにつれてマグネシウムへの緩やかな移行を含む）、（ii）よりクリーンな鋼材と長寿命軌道面/歯面表面工学、および（iii）高周波動作のための薄い電磁鋼板と、重レアアースへの依存度を減らしつつ高温安定性を向上させる磁石配合に集中しています",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   }
+  ],
+  "市場規模": [
+   {
+    "quote": "本レポートは、人型ロボット用金属材料の世界市場に関する詳細かつ包括的な分析であり、2025年を基準年として、市場規模（トンおよび百万USドル）と前年比成長率を提供します",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 人型ロボット用金属材料の世界市場規模、過去データ2021-2025年、および予測データ2026-2032年（百万USドル）および（トン）",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.2 世界のヒューマノイドロボット用金属材料市場規模と予測",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.1 消費額別、世界のヒューマノイドロボット用金属材料市場規模、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.2 販売数量別、世界のヒューマノイドロボット用金属材料市場規模、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.3 日本のヒューマノイドロボット用金属材料市場規模と予測",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.1 消費額別、日本のヒューマノイドロボット用金属材料市場規模、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.2 販売数量別、日本のヒューマノイドロボット用金属材料市場規模、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.3 ヒューマノイドロボット用金属材料市場規模：日本対世界、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "8.4.1 北米のヒューマノイドロボット用金属材料市場規模と予測、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "8.4.2 国別、北米のヒューマノイドロボット用金属材料市場規模と市場シェア",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "8.5.1 ヨーロッパのヒューマノイドロボット用金属材料市場規模と予測、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "8.5.2 国別、ヨーロッパのヒューマノイドロボット用金属材料市場規模と市場シェア",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "8.6.1 アジア太平洋のヒューマノイドロボット用金属材料市場規模と予測、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "人型ロボット用金属材料の世界市場は、2025年の255万USドルから2032年までに5,773万USドルへ成長し、2026年から2032年の期間における年平均成長率（CAGR）は48.8%となる見込みです",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月9日には、中国の通知第61号が特定のレアアース品目およびレアアース永久磁石を含む製品への輸出管理を拡大し、2025年10月下旬にはLynasがマレーシアでの重レアアース分離能力を拡大するための投資を発表しました",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、人型ロボット用金属材料の世界市場に関する詳細かつ包括的な分析であり、2025年を基準年として、市場規模（トンおよび百万USドル）と前年比成長率を提供します",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 人型ロボット用金属材料の主要生産地域、生産能力、生産量、前年比成長率",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：人型ロボット用金属材料の世界主要生産地域、割合およびCAGR、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：タイプ別セグメント、販売量、平均価格、消費額、割合およびCAGR、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：アプリケーション別セグメント、販売量、平均価格、消費額、割合およびCAGR、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域レベル別セグメント、販売量、平均価格、消費額、割合およびCAGR、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国レベル別セグメント、販売量、平均価格、消費額、割合およびCAGR、2021-2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "7.2 アプリケーション別、世界のヒューマノイドロボット用金属材料消費額とCAGR、2021年対2025年対2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "9.1 国別、世界のヒューマノイドロボット用金属材料市場規模とCAGR、2021年対2025年対2032年",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Table 1. 人型ロボット向け金属材料の消費額とCAGR：日本 vs 世界、2021-2032年、百万米ドル",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Table 25. 用途別、世界の人型ロボット向け金属材料の消費額とCAGR、2021年 vs 2025年 vs 2032年、百万米ドル",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "Table 29. 国別、世界の人型ロボット向け金属材料の消費額とCAGR、2021年 vs 2025年 vs 2032年、百万米ドル",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   },
+   {
+    "quote": "7.2 by Application, Global Metal Materials for Humanoid Robots Consumption Value & CAGR, 2021 VS 2025 VS 2032",
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerospace-titanium-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2196226",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E3%83%81%E3%82%BF%E2%80%8B%E2%80%8B%E3%83%B3%E5%B8%82%E5%A0%B4-114582",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/aerospace-titanium-market-29146",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/unmanned-composites-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/titanium-refining-and-refining",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://counterpointresearch.com/jp/insights/humanoid-robots-market-share-forecast-2027-2030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ofa-titanium.com/titaniumProblemSolution.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moomoo.com/ja/news/post/1000924202",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000562473.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/100921056.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://blog.robotics.tokyo/archives/347",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.misumi-ec.com/special/robot/basic_info/cost/?srsltid=AYCX9vKvVBUSW-IxtxrYW2R5xQgkMpugEaSUMMPjrn4UFOmEtOvK2cOc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://machining-custom.com/ja/blog/aerospace-titanium-machining-parts.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/robotics/comments/3d13jo/what_is_the_cost_structure_of_the_new_generation/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/tech/report/nssmc/pdf/396-05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/383514",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F11452234&contentNo=1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humanoidpress.jp/humanoid-robot-japan-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotstart.info/article/2026/08/27/382329.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://is-precision.com/space-defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skyrobot.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nst.nipponsteel.com/news/2025/251022_1450.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/release/2018/0626_ams.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mezha.net/jp/news/e054d89d_us_companies_struggle/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/87dd037f-7399-435a-9dd7-67e49997dcf7",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://unlc.jp/drone-latest-news/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E7%94%A3%E6%A5%AD%E3%80%81%E4%B8%AD%E5%9B%BD%E8%A3%BD%E9%83%A8%E5%93%81%E3%81%B8%E3%81%AE%E4%BE%9D%E5%AD%98/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/061601787/?P=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/94561",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.storm.mg/articles/1142877",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/drone-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/drones-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/industrial-drones-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unmannedairspace.info/uncategorized/drone-industry-insights-market-report-predicts-7-7-cagr-to-reach-usd54-6m-by-2030/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/small-drone-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextmsc.com/report/drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uc.edu/content/dam/refresh/cont-ed-62/olli/s25-handouts/exploring%20humanoid%20robots%205.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.utmel.com/blog/categories/technology/humanoid-robot-bom-breakdown-every-chip-inside-a-physical-ai-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロボット・無人機のチタン部材 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/aerospace-titanium-market",
+    "https://www.atpress.ne.jp/news/2196226",
+    "https://www.fortunebusinessinsights.com/jp/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E3%83%81%E3%82%BF%E2%80%8B%E2%80%8B%E3%83%B3%E5%B8%82%E5%A0%B4-114582",
+    "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "https://www.marketresearchfuture.com/ja/reports/aerospace-titanium-market-29146",
+    "https://straitsresearch.com/jp/report/unmanned-composites-market",
+    "https://jp.linkedin.com/pulse/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E9%98%B2%E8%A1%9B%E7%94%A8%E3%83%81%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B8-%E7%94%A3%E6%A5%AD%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%902026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr-49%E3%81%A7%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%92%E8%A9%95%E4%BE%A1-regulator-reach-hoq3e",
+    "https://newscast.jp/news/4160076",
+    "https://www.dreamnews.jp/press/0000347542",
+    "https://www.verifiedmarketreports.com/ja/product/titanium-market/"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のチタン部材 需要 見通し 2030",
+   "results": [
+    "https://hontitan.com/ja/titanium-market-size-forecast-2030/",
+    "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "https://service.xenobrain.jp/forecastresults/market-size/titanium-refining-and-refining",
+    "https://counterpointresearch.com/jp/insights/humanoid-robots-market-share-forecast-2027-2030",
+    "https://www.fortunebusinessinsights.com/jp/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E3%83%81%E3%82%BF%E2%80%8B%E2%80%8B%E3%83%B3%E5%B8%82%E5%A0%B4-114582",
+    "https://www.ofa-titanium.com/titaniumProblemSolution.php",
+    "https://www.moomoo.com/ja/news/post/1000924202",
+    "https://www.soumu.go.jp/main_content/000562473.pdf",
+    "https://www.atpress.ne.jp/news/7869582",
+    "https://ja.yunchtitanium.com/news/global-market-size-of-titanium-materials-in-th-17808171046134784.html"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のチタン部材 部品構成 コスト",
+   "results": [
+    "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "https://www.ofa-titanium.com/titaniumProblemSolution.php",
+    "https://www.nedo.go.jp/content/100921056.pdf",
+    "http://blog.robotics.tokyo/archives/347",
+    "https://jp.misumi-ec.com/special/robot/basic_info/cost/?srsltid=AYCX9vKvVBUSW-IxtxrYW2R5xQgkMpugEaSUMMPjrn4UFOmEtOvK2cOc",
+    "https://machining-custom.com/ja/blog/aerospace-titanium-machining-parts.html",
+    "https://www.reddit.com/r/robotics/comments/3d13jo/what_is_the_cost_structure_of_the_new_generation/?tl=ja",
+    "https://jp.linkedin.com/pulse/skys-limit-surge-demand-aerospace-grade-titanium-sponge-mprxf?tl=ja",
+    "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のチタン部材 シェア 主要企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E3%83%81%E3%82%BF%E2%80%8B%E2%80%8B%E3%83%B3%E5%B8%82%E5%A0%B4-114582",
+    "https://www.gminsights.com/ja/industry-analysis/aerospace-titanium-market",
+    "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "https://www.marketresearchfuture.com/ja/reports/aerospace-titanium-market-29146",
+    "https://www.nipponsteel.com/tech/report/nssmc/pdf/396-05.pdf",
+    "https://www.ofa-titanium.com/titaniumProblemSolution.php",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "https://finance.logmi.jp/articles/383514",
+    "https://www.dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F11452234&contentNo=1",
+    "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のチタン部材 日本企業",
+   "results": [
+    "https://www.youtube.com/watch?v=E99XOdWa0M4&vl=ja",
+    "https://humanoidpress.jp/humanoid-robot-japan-companies/",
+    "https://robotstart.info/article/2026/08/27/382329.html",
+    "https://is-precision.com/space-defense",
+    "https://skyrobot.co.jp/",
+    "https://www.ofa-titanium.com/titaniumProblemSolution.php",
+    "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/",
+    "https://www.nst.nipponsteel.com/news/2025/251022_1450.html",
+    "https://www.daido.co.jp/about/release/2018/0626_ams.html"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のチタン部材 不足 OR 中国依存",
+   "results": [
+    "https://mezha.net/jp/news/e054d89d_us_companies_struggle/",
+    "https://finance.biggo.jp/news/87dd037f-7399-435a-9dd7-67e49997dcf7",
+    "https://unlc.jp/drone-latest-news/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E7%94%A3%E6%A5%AD%E3%80%81%E4%B8%AD%E5%9B%BD%E8%A3%BD%E9%83%A8%E5%93%81%E3%81%B8%E3%81%AE%E4%BE%9D%E5%AD%98/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00138/061601787/?P=2",
+    "https://forbesjapan.com/articles/detail/94561",
+    "https://japan.storm.mg/articles/1142877",
+    "https://newspicks.com/news/17382654/",
+    "https://jp.wsj.com/articles/chinese-parts-help-iran-supply-drones-to-russia-quickly-investigators-say-3c54996c",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf"
+   ]
+  },
+  {
+   "query": "titanium components robots drones market size CAGR 2030",
+   "results": [
+    "https://www.technavio.com/report/drone-market-industry-analysis",
+    "https://www.mordorintelligence.com/industry-reports/drones-market",
+    "https://market.us/report/industrial-drones-market/",
+    "https://www.unmannedairspace.info/uncategorized/drone-industry-insights-market-report-predicts-7-7-cagr-to-reach-usd54-6m-by-2030/",
+    "https://www.grandviewresearch.com/industry-analysis/small-drone-market-report",
+    "https://www.nextmsc.com/report/drone-market?srsltid=AYCX9vIoUyflT6jykEhOdhZx5Y8vgagPOq9d6HA5VErblF_aBqEaUx5m",
+    "https://www.strategyand.pwc.com/it/en/assets/pdf/sea-drones-report.pdf",
+    "https://www.scribd.com/document/865879006/drone-market-report-2023-2030-sample",
+    "https://www.marketsandmarkets.com/ResearchInsight/uav-drone-industry-research-insights-global-forecast.asp",
+    "https://hontitan.com/titanium-market-size-forecast-2030/"
+   ]
+  },
+  {
+   "query": "titanium components robots drones cost breakdown bill of materials",
+   "results": [
+    "https://www.uc.edu/content/dam/refresh/cont-ed-62/olli/s25-handouts/exploring%20humanoid%20robots%205.pdf",
+    "https://www.utmel.com/blog/categories/technology/humanoid-robot-bom-breakdown-every-chip-inside-a-physical-ai-platform",
+    "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "https://cseseniordesignkb.uta.edu/basic-drone-bill-of-materials/",
+    "https://www.linkedin.com/pulse/physical-ai-gold-rush-2-trillion-secret-thats-creating-manufacturing-cqyde",
+    "https://www.facebook.com/groups/56319454480/posts/10157842069549481/",
+    "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "https://formlabs.com/blog/bill-of-materials-bom/",
+    "https://www.scribd.com/document/861689727/Drone-Cost-Breakdown"
+   ]
+  },
+  {
+   "query": "titanium components robots drones demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://epoch.ai/publications/how-fast-could-robot-production-scale-up",
+    "https://theoregongroup.com/latest-news/where-will-the-metals-for-the-robot-revolution-come-from/",
+    "https://www.recordedfuture.com/research/future-humanoid-robotics",
+    "https://www.reddit.com/r/artificial/comments/1lk4z49/material_requirements_for_8_billion_humanoid/",
+    "https://blog.robozaps.com/b/challenges-in-humanoid-robotics",
+    "https://www.humanityslastmachine.com/",
+    "https://www.sfa-oxford.com/knowledge-and-insights/critical-minerals-in-low-carbon-and-future-technologies/critical-minerals-in-robotics/",
+    "https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america",
+    "https://en.wikipedia.org/wiki/DJI",
+    "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html"
+   ]
+  },
+  {
+   "query": "site:note.com ロボット・無人機のチタン部材",
+   "results": [
+    "https://note.com/iqoys/n/n5f5e41dc573b",
+    "https://note.com/kagawatomo/n/nec02a950e382",
+    "https://note.com/kagawatomo/n/n9e2f448cd57c",
+    "https://note.com/kagawatomo/n/nf143b0992e83",
+    "https://note.com/sake073/n/n1223742eaae8",
+    "https://note.com/safe_gibbon6757/n/n50b0a8722c70",
+    "https://note.com/kagawatomo/n/n3378e3002cda",
+    "https://note.com/kagawatomo/n/n66a8bbe002e3",
+    "https://note.com/kagawatomo/n/n6461ab6c2ca2",
+    "https://note.com/good_dill292/n/n340731b63ad7"
+   ]
+  },
+  {
+   "query": "site:x.com ロボット・無人機のチタン部材",
+   "results": [
+    "https://x.com/KagawaTomo/status/2040227984238678436",
+    "https://x.com/KagawaTomo/article/2103040848074269047",
+    "https://x.com/KagawaTomo/status/2113528219014238690",
+    "https://x.com/OsoneHiroyuki",
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/KagawaTomo/status/2117017787034112208",
+    "https://x.com/t_ryoma1985/status/2068650355106451619",
+    "https://x.com/KagawaTomo/status/2111005052613935240",
+    "https://x.com/sutoroveli_news",
+    "https://x.com/EMIDASmag_WEB"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ロボット・無人機のチタン部材",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%88%AA%E7%A9%BA%E6%A9%9F%E7%94%A8%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC%E9%83%A8%E5%93%81%E5%B8%82%E5%A0%B4%E8%A6%8B%E9%80%9A%E3%81%972026-line-lead-euoee",
+    "https://jp.linkedin.com/pulse/%E3%83%8A%E3%83%8E%E4%BA%8C%E9%85%B8%E5%8C%96%E3%83%81%E3%82%BF%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC%E8%A9%B3%E7%B4%B0%E3%81%AA%E8%A6%8F%E6%A8%A1%E3%81%A8%E7%AF%84%E5%9B%B2%E3%81%AE%E5%88%86%E6%9E%902026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%83%B3cagr%E3%81%AF126-pulsegridz-rntte",
+    "https://ec.linkedin.com/company/hongo-aerospace-inc-%E6%9C%AC%E9%83%B7%E9%A3%9B%E8%A1%8C%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "https://jp.linkedin.com/jobs/%E6%9B%BC%E8%81%94%E7%9B%B4%E6%92%AD%E4%BF%A1%E5%8F%B7%E5%BE%B7%E7%94%B2%E7%9B%B4%E6%92%AD%E5%93%AA%E9%87%8C%E7%9C%8B%E6%9C%80%E5%A5%BD%F0%9F%91%A0%E2%97%A5%E2%97%A4%20tia%E4%BB%A3nj%E5%8F%91iaoli.com%20%E2%97%A5%E2%97%A4%F0%9F%91%A0%E9%9C%8D%E8%8A%AC%E6%B5%B7%E5%A7%86%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0%E8%8B%B1%E8%B6%85%E7%9B%B4%E6%92%ADapp%E6%8E%92%E8%A1%8C%E6%A6%9C%E7%AF%AE%E7%90%83%E7%9B%B4%E6%92%AD%E5%9C%A8%E5%93%AA%E7%9C%8B/-jobs?position=1&pageNum=0",
+    "https://jp.linkedin.com/pulse/modern-futuristic-technologies-construction-industry-muhammad-bhatti?tl=ja",
+    "https://jp.linkedin.com/pulse/tof%E8%B6%85%E9%9F%B3%E6%B3%A2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E7%94%A8%E3%81%AEic-market-size-share-growth-analysis-ucunf",
+    "https://jp.linkedin.com/pulse/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A3%E6%A5%AD%E3%83%AA%E3%83%99%E3%83%83%E3%83%88%E3%83%9E%E3%82%B7%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B111%E3%81%AEcagr%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC-2026-2033%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%A8%E7%AB%B6%E5%90%88%E7%92%B0%E5%A2%83%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92%E5%BD%93%E3%81%A6%E3%81%A6-vlbie",
+    "https://jp.linkedin.com/pulse/%E8%A1%A8%E9%9D%A2%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E3%81%AE%E7%8A%B6%E6%B3%81%E8%AA%8D%E8%AD%98%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-market-trend-indicates-rapid-growth-accelerated-ivcbe",
+    "https://jp.linkedin.com/pulse/12kw%E4%BB%A5%E4%B8%8A%E3%81%AE%E8%B6%85%E9%AB%98%E5%87%BA%E5%8A%9B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%88%87%E6%96%AD%E6%A9%9F%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E3%82%92%E7%89%BD%E5%BC%95%E3%81%99%E3%82%8B%E4%B8%BB%E8%A6%81%E3%83%88%E3%83%AC%E3%83%B3%E3%83%892026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AEcagr-78-aovwe",
+    "https://jp.linkedin.com/pulse/%E8%87%AA%E5%8B%95%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E4%BF%AE%E6%AD%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%A8%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90-%E6%88%90%E9%95%B7%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%A8%E4%BA%88%E6%B8%AC%E6%9C%9F%E9%96%932026-2033-b25qe"
+   ]
+  },
+  {
+   "query": "site:facebook.com ロボット・無人機のチタン部材",
+   "results": [
+    "https://www.facebook.com/aktio.jp/videos/%E9%81%93%E8%B7%AF%E5%B7%A5%E4%BA%8B%E3%82%84%E4%BA%A4%E9%80%9A%E8%A6%8F%E5%88%B6%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%A7%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AC%E3%83%BC%E3%83%89%E3%83%9E%E3%83%B3%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E4%BA%BA%E5%BD%A2%E3%82%BF%E3%82%A4%E3%83%97%E3%82%84led%E3%81%AE%E9%9B%BB%E5%85%89%E8%A1%A8%E7%A4%BA%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AA%E3%81%A9%E7%A8%AE%E9%A1%9E%E3%81%AF%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%93%E3%81%A1%E3%82%89%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AF%E3%83%94%E3%82%AF%E3%83%88%E5%9E%8B%E3%81%A7%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%AE%E5%8F%8D%E5%B0%84%E6%9D%90/525723877302367/",
+    "https://www.facebook.com/izuiironworks/videos/%E5%AE%A4%E6%88%B8%E6%9C%AC%E7%A4%BE%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%A0%B4/819078958602224/",
+    "https://www.facebook.com/okuma.corporation.japan/posts/%E4%B8%96%E7%95%8C%E4%B8%AD%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%A7%E6%B4%BB%E8%BA%8D%E3%81%99%E3%82%8B%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%9E%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%A4%9A%E7%A8%AE%E5%A4%9A%E6%A7%98%E3%81%AA%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%AB%E5%AF%84%E3%82%8A%E6%B7%BB%E3%81%84%E8%A7%A3%E6%B1%BA%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8B%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8F%90%E6%A1%88%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%81%AB%E8%B2%A2%E7%8C%AE%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%9E/122279622818009956/",
+    "https://www.facebook.com/compositecenter/",
+    "https://www.facebook.com/DMGMORI.CO/videos/productsadditive-manufacturing-lasertec-65-ded-hybrid-2nd-generation%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%A9%9Flaser/1531967168366955/",
+    "https://www.facebook.com/visionjapan/?locale=ja_JP",
+    "https://www.facebook.com/DMGMORI.CO/videos/dmg-mori-front-runnermaster-of-high-precision-and-complex-shape-machining-of-pla/729107410019492/",
+    "https://www.facebook.com/mathushitamasaya/",
+    "https://www.facebook.com/flashforge.co.jp/videos/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E7%B9%8A%E7%B6%AD%E9%85%8D%E5%90%88petgpetg-cf%E3%81%A8hips%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%90%8C%E6%99%82%E5%87%BA%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E7%B9%8A%E7%B6%AD%E3%81%8C%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E4%BB%96%E3%81%AE%E7%B4%A0%E6%9D%90%E3%82%88%E3%82%8A%E3%82%82%E5%BC%95%E5%BC%B5%E5%BC%B7%E5%BA%A6%E3%82%84%E6%9B%B2%E3%81%92%E5%BC%B7%E5%BA%A6%E3%81%AB%E5%84%AA%E3%82%8C/276683777835056/",
+    "https://www.facebook.com/thulejp/videos/1321113587756519/"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のチタン部材 note 社長",
+   "results": [
+    "https://note.com/amano_shokyu/n/n73809d975586",
+    "https://note.com/otl_sr/n/n069149d30cbd",
+    "https://note.com/all_zero/n/n4646576c0bb0",
+    "https://www.ofa-titanium.com/titaniumProblemSolution.php",
+    "https://note.com/tatsuya_sabato/n/naaaf96f26469",
+    "https://www.youtube.com/watch?v=AtscF__yoCQ",
+    "https://www.ti.com/jp/lit/pdf/JADA275",
+    "https://www.dic-global.com/ja/contents/column/26.html",
+    "https://note.com/kagawatomo/n/n0cab3a434de8",
+    "https://note.com/robot_solutions/all"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のチタン部材 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=9jcHVAnM97U",
+    "https://x.com/OitaXross/status/2105136937631957026?lang=ca",
+    "https://www.ofa-titanium.com/titaniumProblemSolution.php",
+    "https://note.com/kagawatomo/n/nec02a950e382",
+    "https://robotstart.info/article/2026/08/27/382329.html",
+    "https://www.youtube.com/watch?v=27uJ_iaVCIU",
+    "https://fabscene.com/new/news/ion-propelled-microrobot-controlled-flight/",
+    "https://www.itmedia.co.jp/aiplus/article/2510/17/1251017076/",
+    "https://innovatopia.jp/drones/drones-news/72380/",
+    "https://ja.toptitech.com/news/titanium-alloys-empower-humanoid-robots-redef-17900052192158720.html"
+   ]
+  },
+  {
+   "query": "titanium components robots drones site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/top-5-aluminum-alloys-drone-parts-dekmake-2gcnc",
+    "https://www.linkedin.com/pulse/hidden-choke-point-overcoming-local-motor-stator-supply-6xm3c",
+    "https://www.linkedin.com/posts/haraldfederspiel_physical-ai-and-robotics-will-be-the-next-activity-7503469114565312512-mAFf",
+    "https://www.linkedin.com/pulse/technical-analysis-battery-system-requirements-robots-vallamkonda--fc9nf",
+    "https://www.linkedin.com/posts/laetizia-hellmeister_the-us-just-crippled-its-robotics-ecosystem-activity-7490655417954463744-p4xZ",
+    "https://www.linkedin.com/posts/gracegong_aerospace-ai-drones-activity-7512366988497719296-h1Ce",
+    "https://www.linkedin.com/in/bradmello",
+    "https://www.linkedin.com/posts/troadey-inc-_3dprinting-titanium-additivemanufacturing-activity-7402372210230964224-fAdC",
+    "https://www.linkedin.com/posts/fibionic_where-fibionic-creates-value-wrap-up-activity-7505898768408510464-wapE",
+    "https://www.linkedin.com/pulse/how-does-cnc-machining-benefit-drone-industry-vic-leung-zezhc"
+   ]
+  }
+ ],
+ "missing": {}
+}

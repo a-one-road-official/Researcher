@@ -1,0 +1,3089 @@
+{
+ "name": "自律搬送ロボット（AMR）",
+ "en": "autonomous mobile robot market",
+ "aliases": [
+  "AMR 市場",
+  "自律走行搬送ロボット",
+  "無人搬送 工場"
+ ],
+ "context": "工場無人化",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:32:05.256623+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "AGV・AMR（移動ロボット）の世界市場（2026年～2032年）、市場規模（AGV（無人搬送車）、AMR（自律移動ロボット））・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "AGV・AMR（移動ロボット）の世界市場（2026年～2032年）、市場規模（AGV（無人搬送車）、AMR（自律移動ロボット））・分析レポートを発表",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "世界のAGV（自動搬送車）およびAMR（自律移動ロボット）市場規模は、2025年の63億米ドルから2032年には453億1000万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）33.2%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "調査によると、AGVとAMRの市場規模は2028年までに約200億ドルに達すると予測されており、AGVはそれぞれ約22%、AMRは37%の成長率を見込んでいます",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "自律移動ロボット（AMR）市場規模・予測レポート 2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別自律移動ロボット（AMR）市場規模、2025年・2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域の市場規模は2035年までに39億8,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域の市場規模は2035年までに19億9,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域の市場規模は2035年までに34億9,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域の市場規模は2035年までに2億9,900万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域の市場規模は2035年までに1億9,900万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律移動ロボット（amr）市場規模は2025年に24.9億米ドルと推定され、2026年には29.1億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. 市場規模の推計",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年にはモバイルロボットの出荷台数が前年比23パーセント増の約15万台に達し、2024年の市場規模は約55億ドルに到達しました",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "長期的には、2030年までにモバイルロボット（AGVおよびAMR）の市場規模は220億ドルに達すると予測されています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルロボットを構成するコンポーネント（部品）市場もこれに比例して拡大しており、2027年までに74億ドルの規模に達し、5年間のCAGRは44.8パーセントという驚異的な成長が見込まれています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査会社Mordor Intelligenceによると、自律移動ロボット（AMR）の世界市場規模は 2025年時点で約44.9億米ドルと推定され、2030年には約92.6億米ドルへ拡大する見込みです （CAGR 15.6%）(※2)",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "移載式AMR市場規模分析レポート：2026年は2520.12百万米ドルに到達予測",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリートパイプマシン市場規模220百万米ドル予測：世界の産業現状、競合分析、成長動向2026",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "移載式AMR市場規模分析レポート：2026年は2520.12百万米ドルに到達予測 | QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用防氷システムの世界市場（2026年～2032年）、市場規模（機械式除氷システム、電気パルス式防氷システム、液体防氷システム、熱風式防氷システム、電気加熱式防氷システム）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "低温収縮試験機の世界市場（2026年～2032年）、市場規模（低温、広温度範囲）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "油井ポンプの世界市場（2026年～2032年）、市場規模（試験用ポンプ、酸処理用ポンプ、セメント注入用ポンプ）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "PERCフロント用銀ペーストの世界市場（2026年～2032年）、市場規模（フィンガー用銀ペースト、バスバー用銀ペースト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "牽引式方位スラスタの世界市場（2026年～2032年）、市場規模（Lドライブ、Zドライブ、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のAGV（Automated Guided Vehicle：無人搬送車）／AMR（Autonomous Mobile Robot：自律走行搬送ロボット）世界市場規模（メーカー出荷台数ベース）は、前年比117.7％の286,235台の見込みである",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "物流自動化の流れは大企業だけでなく中堅・中小企業にも広がっており、2030年のAGV／AMR世界市場規模（メーカー出荷台数ベース）は1,381,088台まで成長を予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "自律移動ロボット市場：市場規模・シェアと2031年までの予測",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律移動ロボット市場規模は、2022年の14億米ドルから2030年には87億3000万米ドルに達すると予測されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2022",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "US$ 1.4 Billion",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模別 2030",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "US$ 8.73 Billion",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行搬送ロボット（AMR）の世界市場規模は2028年に41億ドル、市場の平均年成長率は17.5%増で推移する見込みです",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2026年のAGV／AMR世界出荷金額を9,087億円に拡大することを予測しているレポートもあります",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年のAMRの世界市場規模は3,387億円でした",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年には前年比118.6％増の4,017億円に達すると見込まれています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2023年には5,146億円、2024年には6,404億円、2025年には7,644億円に成長する予測です",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年のAMRの世界市場規模は3,387億円で、2022年には前年比118.6％増の4,017億円に達すると予測されています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for Autonomous Mobile Robots (AMRs) is projected to grow from USD 2.25 billion in 2025 to USD 4.56 billion in 2030, with a CAGR of 15.1%.",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "2.2 MARKET SIZE ESTIMATION METHODOLOGY 36",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "2.2.1.1 Approach to arrive at market size using bottom-up analysis",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "2.2.2.1 Approach to arrive at market size using top-down analysis",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "TABLE 10 IMPORT DATA FOR HS CODE 847950-COMPLIANT PRODUCTS, BY COUNTRY, 2019–2023 (USD MILLION) 76",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "TABLE 11 EXPORT DATA FOR HS CODE 847950-COMPLIANT PRODUCTS, BY COUNTRY, 2019–2023 (USD MILLION) 77",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "2021–2024 (USD MILLION) 102",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "2025–2030 (USD MILLION) 102",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "2021–2024 (USD MILLION) 108",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "2025–2030 (USD MILLION) 108",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "2021–2024 (USD MILLION) 109",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "2025–2030 (USD MILLION) 110",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "2021–2024 (USD MILLION) 111",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "2025–2030 (USD MILLION) 111",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "2021–2024 (USD MILLION) 112",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界のAGV（自動搬送車）およびAMR（自律移動ロボット）市場規模は、2025年の63億米ドルから2032年には453億1000万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）33.2%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "調査によると、AGVとAMRの市場規模は2028年までに約200億ドルに達すると予測されており、AGVはそれぞれ約22%、AMRは37%の成長率を見込んでいます",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "世界のeコマース売上高は過去10年間で年平均成長率（CAGR）20%を記録し、2022年には世界全体で5兆ドルを超え、2028年には約8兆ドルに達すると予測されています",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年にかけて年平均成長率（CAGR）14.7%で拡大し、2035年には99.7億米ドルに達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "同分野は2026〜2035年に年平均成長率（CAGR）17.7%で拡大する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "同分野は2026〜2035年に年平均成長率（CAGR）17.5%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026〜2035年に年平均成長率（CAGR）19%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年にはモバイルロボットの出荷台数が前年比23パーセント増の約15万台に達し、2024年の市場規模は約55億ドルに到達しました",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "その中でAMRの年平均成長率（CAGR）は30パーセント、AGVは18パーセントと、AMRが成長を牽引する見通しです",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルロボットを構成するコンポーネント（部品）市場もこれに比例して拡大しており、2027年までに74億ドルの規模に達し、5年間のCAGRは44.8パーセントという驚異的な成長が見込まれています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "これらの企業は、従来型の設備投資に比べて稼働までの期間が8週間以内という短期間での導入を可能にし、高いスループットを提供する技術で市場シェアを急拡大させています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査会社Mordor Intelligenceによると、自律移動ロボット（AMR）の世界市場規模は 2025年時点で約44.9億米ドルと推定され、2030年には約92.6億米ドルへ拡大する見込みです （CAGR 15.6%）(※2)",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "2026～2032年の年平均成長率（CAGR）は2.59％と予測されています",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場の規模は同年570.82百万米ドルで、2032年には644.09百万米ドルに拡大する見込みです",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場も成長が見込まれ、2026～2032年の売上高CAGRは2.74％とされています",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "北米では2026～2032年に生産が比較的速く拡大し、2032年の生産量シェアは33.83％になる見通しです",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には工業製造分野が売上高の57.40％を占め、2026～2032年のCAGRは2.78％と予測されています",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "2030年のAGV／AMR世界出荷台数を約138万台に拡大予測",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のAGV（Automated Guided Vehicle：無人搬送車）／AMR（Autonomous Mobile Robot：自律走行搬送ロボット）世界市場規模（メーカー出荷台数ベース）は、前年比117.7％の286,235台の見込みである",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2022年から2030年にかけて年平均成長率（CAGR）25.7%を記録すると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なCAGR (2022 - 2030)",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行搬送ロボット（AMR）の世界市場規模は2028年に41億ドル、市場の平均年成長率は17.5%増で推移する見込みです",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2026年のAGV／AMR世界出荷金額を9,087億円に拡大することを予測しているレポートもあります",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2030年までに91億米ドルに達し、予測期間の2024年～2030年にCAGRで12%の成長が見込まれています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年には前年比118.6％増の4,017億円に達すると見込まれています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年のAMRの世界市場規模は3,387億円で、2022年には前年比118.6％増の4,017億円に達すると予測されています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行搬送ロボット (AMR) の世界市場は年平均成長率（CAGR）15.1% で成長し、2025 年中に22 億5000万米ドル、2030年までに45億6000万米ドルに達するとMarketsandMarketsでは予測しています",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for Autonomous Mobile Robots (AMRs) is projected to grow from USD 2.25 billion in 2025 to USD 4.56 billion in 2030, with a CAGR of 15.1%.",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "FIGURE 8 SOFTWARE & SERVICES SEGMENT TO REGISTER HIGHER CAGR",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "FIGURE 12 ASIA PACIFIC TO EXHIBIT HIGHEST CAGR IN AUTONOMOUS MOBILE ROBOTS MARKET DURING FORECAST PERIOD 45",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "FIGURE 19 CHINA TO EXHIBIT HIGHEST CAGR IN GLOBAL AUTONOMOUS MOBILE ROBOTS MARKET DURING FORECAST PERIOD 49",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "FIGURE 42 >500 KG SEGMENT TO EXHIBIT HIGHEST CAGR FROM 2025 TO 2030 107",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "FIGURE 44 VISION GUIDANCE SEGMENT TO EXHIBIT HIGHEST CAGR",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "FIGURE 48 AUTONOMOUS MOBILE ROBOTS MARKET IN CHINA TO GROW AT HIGHEST CAGR FROM 2025 TO 2030 179",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "その背景には、少子高齢化による生産年齢人口の減少、いわゆる「2024年問題」「2030年問題」、さらにEC市場の拡大に伴う物流現場の高密度化など、さまざまな社会課題があります",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "矢野経済研究所の調査では、国内のAGV・AMR出荷市場は2020年度の7,055台・約161億円から、2025年度には9,950台・約275億円規模へと、わずか5年で約1.7倍へと拡大する見込みです",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場でも年平均成長率（CAGR）27.5%という極めて高い水準で推移しており、2030年には約300億米ドル規模に達するとされています",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "2. なぜ今AGV・AMRなのか？市場拡大の4つの背景",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "2-2. EC市場の急拡大と倉庫の高密度化",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": ", 世界のAMR市場は$2.75億に達しており、2032年までに$7.07億に成長すると見込まれており、年平均成長率（CAGR）は14.4%となる見込みです",
+    "url": "https://www.fdatabot.com/ja/top-10-autonomous-mobile-robot-companies-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "電子商取引の急拡大、労働力不足、およびインダストリー4.0の導入が、主な成長要因となっている",
+    "url": "https://www.fdatabot.com/ja/top-10-autonomous-mobile-robot-companies-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Roboticsは、世界最大の倉庫用AMR（自律移動ロボット）運用企業であり、2025年までに100万台以上のロボットを導入し、2026年も引き続き拡大を続けています",
+    "url": "https://www.fdatabot.com/ja/top-10-autonomous-mobile-robot-companies-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "AMR市場は世界的に拡大しており、QYResearch社の調査では、2022年の世界シェア上位5社（Swisslog〈KUKA〉、Omron Adept、Geekplus、MiR、Aethon）が売上の約28％を占めています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "需要拡大の背景には、EC市場の成長や人手不足があり、矢野経済研究所はAGV・AMRの世界市場規模が2026年に約9,087億円へ拡大すると予測しています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のAGV（自動搬送車）およびAMR（自律移動ロボット）市場規模は、2025年の63億米ドルから2032年には453億1000万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）33.2%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "調査によると、AGVとAMRの市場規模は2028年までに約200億ドルに達すると予測されており、AGVはそれぞれ約22%、AMRは37%の成長率を見込んでいます",
+    "url": "https://www.atpress.ne.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "世界のeコマース売上高は過去10年間で年平均成長率（CAGR）20%を記録し、2022年には世界全体で5兆ドルを超え、2028年には約8兆ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "2020年には新型コロナウイルスの感染拡大に伴い、先行きが見通せない状況から、AGV・AMRの出荷台数は前年比6.7％減の7,055台にまで落ち込んだものの、",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1314/",
+    "pass": 3
+   },
+   {
+    "quote": "（年平均成長率15%以上）",
+    "url": "https://www.icom-giken.com/blog/amrmir/",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は2030年までに約220億ドル規模に拡大が予想されており、米国、ドイツ、英国とともに中国は、2030 年までに年間 35 万台以上の移動ロボットの需要が見込まれ、市場を牽引するトッププレイヤーとしての地位を確立しています",
+    "url": "https://linx.jp/product/irayple_amr/article/006/",
+    "pass": 3
+   },
+   {
+    "quote": "$13.35 billion in 2030 at a compound annual growth rate (CAGR) of 18.2%",
+    "url": "https://www.thebusinessresearchcompany.com/report/autonomous-mobile-robots-global-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "$5.79 billion in 2025 to $6.83 billion in 2026 at a compound annual growth rate (CAGR) of 18.0%.",
+    "url": "https://www.thebusinessresearchcompany.com/report/autonomous-mobile-robots-global-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "$13.35 billion in 2030 at a compound annual growth rate (CAGR) of 18.2%.",
+    "url": "https://www.thebusinessresearchcompany.com/report/autonomous-mobile-robots-global-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 18.0% from 2026 to 2030",
+    "url": "https://www.thebusinessresearchcompany.com/report/autonomous-mobile-robots-global-market-report",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "AGVとAMRの設置台数は2028年までに合計270万台を超え、モバイルロボットは日常業務において不可欠な存在となるでしょう",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "この最新の調査レポート「AGVおよびAMR（移動ロボット）産業予測」は、過去の販売実績を分析し、2025年の世界全体のAGVおよびAMR（移動ロボット）販売台数を概観するとともに、2026年から2032年までのAGVおよびAMR（移動ロボット）販売予測を地域別、市場セクター別に包括的に分析しています",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "輸送・物流サービスロボットの2024年の世界販売台数は102,900台に達し、14%増加した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "販売台数の持続的な増加が、倉庫・フルフィルメント分野が2035年まで最大の用途分野であり続ける見通しを支える",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方で中国は、2030年までに一級都市の物流パークにおける自動化率を70%に引き上げるという国家的なスマート物流ガイドラインを背景に、出荷台数において圧倒的な成長を見せています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "2023年にはモバイルロボットの出荷台数が前年比23パーセント増の約15万台に達し、2024年の市場規模は約55億ドルに到達しました",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "また、世界のモバイルロボット稼働台数は2030年までに420万台を突破すると予測されています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "1台からカスタマイズ開発しています",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "用途に適した最適な1台をご提案します",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "・大型搬送用:1〜数トン(大型貨物・自動車部品など)",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "1台からのカスタマイズ開発",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "✅ 可搬重量40kg〜120kgまでラインナップ",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © 2026 ヴイストン株式会社",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月には、KUKAがポーランドのテレビメーカーの工場に22台のAMRを導入し、倉庫から組立ラインへの部材搬送などを自動化した事例を公表しました",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "2030年のAGV／AMR世界出荷台数を約138万台に拡大予測",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のAGV（Automated Guided Vehicle：無人搬送車）／AMR（Autonomous Mobile Robot：自律走行搬送ロボット）世界市場規模（メーカー出荷台数ベース）は、前年比117.7％の286,235台の見込みである",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "物流自動化の流れは大企業だけでなく中堅・中小企業にも広がっており、2030年のAGV／AMR世界市場規模（メーカー出荷台数ベース）は1,381,088台まで成長を予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行搬送ロボット（AMR）市場 - ナビゲーション技術 (レーザー/LiDAR、視覚誘導、SLAM、RFIDタグ、磁気および慣性センサー)、バッテリー、センサー、アクチュエーター、積載量 (<100 kg、100 ～ 500 kg、および >500 kg) – 2030年までの世界予測",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Mobile Robots (AMR) Market by Navigation Technology (Laser/LiDAR, Vision Guidance, SLAM, RFID Tags, Magnetic & Inertial Sensors), Batteries, Sensors, Actuators, Payload Capacity (<100 kg, 100–500 kg and >500 kg) – Global Forecast to 2030",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "100Kg未満",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "100–500 Kg",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "500 Kg超",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "“AMRs with 100–500 kg payload capacity is expected to hold a significant share of the autonomous mobile robots market during the forecast period.”",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "(demand side) 36",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "5.2.3.1 Mounting demand for efficient last-mile delivery services 53",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "5.2.3.2 Increasing demand for AMRs with customizable hardware and programmable software 54",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "WITH PAYLOAD CAPACITY OF <100 KG, BY REGION, 2021–2024 64",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "E-COMMERCE DEMAND 72",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "9.2.1 ESSENTIAL ROLE OF HARDWARE COMPONENTS IN SUPPORTING AUTONOMOUS OPERATIONS TO BOOST DEMAND 102",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "10.2 <100 KG 109",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "10.3 100–500 KG 110",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "10.4 >500 KG 112",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "矢野経済研究所の調査では、国内のAGV・AMR出荷市場は2020年度の7,055台・約161億円から、2025年度には9,950台・約275億円規模へと、わずか5年で約1.7倍へと拡大する見込みです",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "たった1台のAGVでも、駆動輪・操舵輪（ステアリング輪）・全方向ホイール（オムニホイール/ボールホイール等）に合計4〜8個のモータが搭載されることもあり、その選定一つで稼働率と総保有コスト（TCO）が大きく変わります",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの工場への導入事例で多くの場合、初期導入は、AMR（搬送）ロボット４台〜５台程度でシステムを構築するケースが多く見られます",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "MiRの特徴としてAMRを増車するなどのシステム拡張がとても簡単にできるというのも、4〜５台のミニマム構成でスタートされるケースが多い理由かと思います",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "・AMR（搬送）ロボット × ４台",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "・トップモジュール（カート牽引機能） × 4台",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "・移動式カート × 10台",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "・自動充電器 × 1台",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "・運行管理システム（Fleet） × 1台",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "また、AGVを1台から複数台まで管理・制御する装置と組み合わせたものを、",
+    "url": "https://fa-products.jp/column/amr-autonomous-mobile-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "：耐荷重アップによって、今までのAMRより少ない台数でピッキングをアシストし、1サイクル分の効率化が図れます",
+    "url": "https://fa-products.jp/column/amr-autonomous-mobile-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "非接触自動充電によって24時間という長時間稼働が可能で、100台までのAMR管理ソフトで制御し、停止位置精度±1cmの精度を実現しています",
+    "url": "https://fa-products.jp/column/amr-autonomous-mobile-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "FAプロダクツは年間200台もの実績がある関東最大級のロボットシステムインテグレーターです",
+    "url": "https://fa-products.jp/column/amr-autonomous-mobile-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "軽量な部品や書類の搬送であれば30-100kg対応のコンパクトタイプで十分ですが、重い製品や大型部材を扱う場合は500-1000kg対応の重量級モデルが必要になります",
+    "url": "https://www.tmcsystem.co.jp/column/fa/factory-logistics-amr",
+    "pass": 3
+   },
+   {
+    "quote": "通路幅が1.2m程度と狭い現場で、台車同士のすれ違いが困難な状況でした",
+    "url": "https://www.tmcsystem.co.jp/column/fa/factory-logistics-amr",
+    "pass": 3
+   },
+   {
+    "quote": "20kg程度の箱を5箱まで積載する工程間搬送が頻繁に発生する一方、既存の台車サイズに適合するAMRが市場になく、選択肢が限られていました",
+    "url": "https://www.tmcsystem.co.jp/column/fa/factory-logistics-amr",
+    "pass": 3
+   },
+   {
+    "quote": "： 120kg積載可能なカスタム仕様AMR",
+    "url": "https://www.tmcsystem.co.jp/column/fa/factory-logistics-amr",
+    "pass": 3
+   },
+   {
+    "quote": "PKGA-4400",
+    "url": "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "pass": 3
+   },
+   {
+    "quote": "無人搬送台車 S-CART-V100",
+    "url": "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "pass": 3
+   },
+   {
+    "quote": "可搬重量300kgまで",
+    "url": "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンパクトでも300kgまでの荷物を運べる",
+    "url": "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "pass": 3
+   },
+   {
+    "quote": "可搬重量1000kgまで",
+    "url": "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "pass": 3
+   },
+   {
+    "quote": "可搬重量2000kgまで",
+    "url": "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大積載量2500kg",
+    "url": "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "pass": 3
+   },
+   {
+    "quote": "高い耐荷重能力と堅牢な設計が求められる最大積載量2トン以上のAMR",
+    "url": "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "pass": 3
+   },
+   {
+    "quote": "A026：カスタマイズ可能な4WD・4WSロボットシャーシ（積載量1000kg）",
+    "url": "https://www.fdatabot.com/ja/top-10-autonomous-mobile-robot-companies-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "A025：高負荷対応ロボットプラットフォーム（積載量500kg）",
+    "url": "https://www.fdatabot.com/ja/top-10-autonomous-mobile-robot-companies-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Roboticsは、世界最大の倉庫用AMR（自律移動ロボット）運用企業であり、2025年までに100万台以上のロボットを導入し、2026年も引き続き拡大を続けています",
+    "url": "https://www.fdatabot.com/ja/top-10-autonomous-mobile-robot-companies-in-2026/",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "このインサイトレポートは、世界のAGVおよびAMR（移動ロボット）市場の状況を包括的に分析し、製品セグメンテーション、企業設立、収益、市場シェア、最新の開発動向、M&A活動など、主要なトレンドを明らかにしています",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、製品タイプ別、用途別、主要メーカー別、主要地域・国別に、AGVおよびAMR（モバイルロボット）市場の包括的な概要、市場シェア、成長機会を提示します",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "第2章「エグゼクティブサマリー」では、世界のAGVおよびAMR（モバイルロボット）市場の概要、タイプ別（AGV、AMR）および用途別（物流・倉庫、製造、病院・ヘルスケアなど）の市場分析（売上、収益、価格、市場シェア）、さらに地域別の現在および将来の分析が要約されています",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "第3章「企業別グローバル分析」では、主要企業のAGVおよびAMR（モバイルロボット）の年間売上、収益、市場シェア、販売価格、製品ポートフォリオ、生産地域、市場集中度、新規参入企業、M&A活動などの競争状況が詳細に分析されています",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "第10章「製造コスト構造分析」では、AGVおよびAMR（モバイルロボット）の原材料、サプライヤー、製造コスト構造、製造プロセス、および産業チェーン構造に関する分析が提供されています",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "第13章「主要プレーヤー分析」では、KUKA、Omron、Clearpath Roboticsなど多数の主要企業各社について、企業情報、製品ポートフォリオ、仕様、売上、収益、価格、粗利益、主要事業概要、最新動向が詳細に分析されています",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、バッテリー型AGVがあり、これはバッテリーを用いて電力を供給し、長時間の運用が可能です",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、製造業では部品の供給や製品の搬送が自動化されることで、生産性が向上します",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "自律移動ロボット（AMR）市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geek+ / GeekPlusは、2025年に17.7%を超える市場シェアを獲得し、首位に立った",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "規格の収れんにより、予測期間を通じて製造業セグメントのシェア拡大が加速する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場では、混流生産、ジャストインタイムのライン供給、固定インフラを再構築せずにマテリアルフローを再編する必要性を背景に、需要が拡大している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "複数メーカーのロボットを運用する企業では、ロボット、フリート制御ソフトウェア、周辺の自動化システムが、大規模な個別統合を必要とせずに連携することへの期待が高まっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーの細分化も、導入判断を慎重にさせる要因となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "提供企業の選択肢が広がる一方、サービスの継続性、部品の供給、ソフトウェアの互換性、信頼できるアップグレード経路を必要とする購入企業にとって、長期的なプラットフォームの選定が複雑になることがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "試運転・立ち上げ期間を短縮し、複数メーカーのフリートに対応し、ライフサイクル全体を通じた責任あるサポートを示せるベンダーは、技術的には十分な能力を持ちながら、運用面での拡張が難しい提供企業に対して優位に立つと考えられる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "周辺用途の拡大に伴いシェアは低下するものの、導入基盤の優位性、継続的なソフトウェア需要、幅広い業務フローに導入できることが、主導的な地位を支えている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "特に、メーカーが固定式搬送システムに投資せずに、小ロット生産、多品種混流生産、頻繁な生産ライン変更に対応する必要がある場合、AMRは有効である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫は引き続き市場の基盤となるが、今後、戦略的な差別化は、実証済みのナビゲーションやフリート管理の能力を、認定要件が厳しく、業務フローが個別化され、サービスへの期待も高い工場や医療現場の業務に応用できるサプライヤーによって、ますますもたらされるだろう",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律移動ロボット（AMR）市場シェア：地域別、2025年・2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "新設の産業施設では、自動化に対応したマテリアルフローを設計できるため、ラインへの部材供給や工場内搬送におけるAMRの重要性が高まる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの自動車メーカーと産業機器メーカーが需要の中核を担っており、特に柔軟な生産体制を支えるマテリアルフローが求められる分野で需要が高い",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "AMR業界のバリューチェーンは、コンポーネントサプライヤー（LiDAR、駆動系、AI半導体など）、システムOEM（AMR自体の製造・ソフトウェア開発）、システムインテグレーター（エンドユーザーの施設に合わせた全体の設計・導入）、そしてエンドユーザー（小売、物流、製造業）という多層的な構造で成り立っています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "かつては独自のハードウェアをカスタマイズして納入するモデルが主流でしたが、現在では新興のAMRメーカー（OEM）が提供するモジュール式で標準化されたロボットをサードパーティ製として採用し、自社の高度なソフトウェアを用いて統合制御するアプローチが増加しています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "既存の大手プレーヤー（完成品メーカーおよびプラットフォーム）としては、Dematic、Daifuku、Swisslogなどのインテグレーターに加え、COMAU、UNITREE、Boston Dynamics、UBTECH、YASKAWA、TESLA、ABB、TM（Techman Robot）などが挙げられます",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "これらの企業は、従来型の設備投資に比べて稼働までの期間が8週間以内という短期間での導入を可能にし、高いスループットを提供する技術で市場シェアを急拡大させています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "同社はGoods-to-Person（棚搬送型）ソリューションにおいて世界トップクラスのシェアを誇り、ピッキング、ソーティング、パレット搬送までフルスタックのAMRソリューションを展開しています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "※2 Mordor Intelligence「自律移動ロボット(AMR)市場 – シェア、規模、分析、 動向と予測(2025-2030)」",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の売上高シェアは北米が38.53％で、中国が23.76％、欧州が19.30％と続きました",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、世界市場に占めるシェアは23.76％から21.93％へ低下すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "中国は、製造業の集積や部品供給網、国内の導入需要を背景に大きな供給基盤を形成しています",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "北米では2026～2032年に生産が比較的速く拡大し、2032年の生産量シェアは33.83％になる見通しです",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "リフト式は主要な製品カテゴリーであり、2032年には売上高シェアが68.12％に達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "主要メーカーと競争の方向性",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "移載式AMRの主要メーカーには、Hikrobot、Geekplus Technology、SIASUN Robot & Automation、Youibot Robotics、Mobile Industrial Robots、ABB、Zhejiang Guozi Robotics、OMRON、Zhejiang Huari Technology、Clearpath Robotics、Quicktron Intelligent Technology、JATEN Robotics、ForwardX、KUKA AG、Milvus Robotics、Lianhe Technologyなどが含まれます",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の上位5社の売上高シェアは合計64.31％で、市場では一定の集約が見られます",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月には、KUKAがポーランドのテレビメーカーの工場に22台のAMRを導入し、倉庫から組立ラインへの部材搬送などを自動化した事例を公表しました",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは2021～2032年を対象とし、2026～2032年を予測期間として、世界および中国市場の生産能力、生産量、販売量、売上高、価格の推移に加え、主要メーカーの製品仕様、市場シェア、製品タイプ別・用途別・地域別の市場構造を分析します",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「移載式AMR―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "マーケットシェア事典オンライン",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のAGV（Automated Guided Vehicle：無人搬送車）／AMR（Autonomous Mobile Robot：自律走行搬送ロボット）世界市場規模（メーカー出荷台数ベース）は、前年比117.7％の286,235台の見込みである",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "導入業界別にAGV／AMRの需要動向をみると、製造業では安全面などからAMRよりもAGV、標準品よりもカスタマイズのニーズが多く、食品工場などでは冷凍冷蔵庫仕様や防水仕様、半導体メーカーではクリーンルーム仕様、自動車工場などでは重量物対応仕様やマルチ誘導方式、屋外仕様などのニーズが増えている",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、AGV／AMRメーカーの大半は、製造業を主要ターゲットとして製品・サービスを提供している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "物流自動化の流れは大企業だけでなく中堅・中小企業にも広がっており、2030年のAGV／AMR世界市場規模（メーカー出荷台数ベース）は1,381,088台まで成長を予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "2.調査対象： 日本及び海外のAGV／AMRメーカー、周辺機器及び部品メーカー、SI企業、Raas（Retail as a Service）企業、AGV／AMRを導入するユーザー企業、政府機関、大学・研究所、業界団体等",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "本調査におけるAGV／AMR世界市場（日本、中国、韓国、米州、欧州、その他地域）は、メーカー出荷台数ベースで算出した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "自律移動ロボット市場：市場規模・シェアと2031年までの予測",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律移動ロボット市場：規模・シェア・予測 2031",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律移動ロボット市場の規模と予測（2021年 - 2031年）、世界および地域別のシェア、トレンド、成長機会分析レポートの対象範囲：コンポーネント別（ハードウェアおよびソフトウェアとサービス）、タイプ別（ピッキングロボット、自動運転フォークリフト、自律在庫ロボット）、最終用途別（製造業（自動車、航空宇宙、電子機器、化学薬品、その他）および流通・倉庫）、地域別",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "AMRロボットは、複雑なセンサー、人工知能、機械学習、そして経路計画のための計算技術を駆使し、電力供給なしに周囲の状況を読み取り、移動します",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアセグメントは、2022年に大きな市場シェアを占めました",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "ピッキングロボットセグメントは、2022年に大きな市場シェアを占めました",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2022年には製造業が大きな市場シェアを占めました",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律移動ロボット市場シェア分析（地域別）",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場リーダーと主要企業の概要",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模とシェア",
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめのメーカー",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、大手の自動車メーカーや電子機器メーカーが中心です",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "・日本語タイトル：AGV・AMR（移動ロボット）の世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫への投資と、強靭な国内物流ネットワークの必要性が、新設施設と既存施設の改修の双方でAMR導入を促す環境を生み出している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域の自律走行型移動ロボット市場は、国内のロボット供給企業と多国籍の自動化プロバイダーの双方によって形作られており、導入モデルに幅広い差がある競争環境が生まれている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内の供給企業は、商品を人のもとへ搬送するシステム、ケース搬送、物流自動化において高い能力を培ってきた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、日本はアジア太平洋地域のAMR売上高の約20%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "労働人口の高齢化と長年にわたる自動化の定着を背景に、日本では労働力の代替と事業運営の継続性が、需要を左右する重要な要素となっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの成長機会は、新設製造拠点、国内の電子商取引の拡大、物流近代化への投資拡大に結び付いている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "多国籍の物流事業者は、実績のある自動化モデルと供給企業との関係を国内市場に展開することで、導入を促す重要な役割を果たし得る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "需要が単一の均質な市場モデルに集中するのではなく、製造、フルフィルメント、国内ベンダーをめぐるそれぞれ異なるエコシステムに分散しているためである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、厳格な耐震基準への対応により導入コストが他国比で15パーセントから20パーセント高くなる傾向があるものの、深刻な労働人口の減少を補うために国からの補助金が自動化投資を後押ししています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内でも、製造業・物流業における人手不足対策や研究開発分野での活用ニーズを 背景に、AGVからAMRへの移行や併用導入が進んでいます",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "SLAMは「Simultaneous Localization and Mapping」の略で、日本語では「自己位置推定と地図作成の同時実行」と訳されます",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場も成長が見込まれ、2026～2032年の売上高CAGRは2.74％とされています",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "中国は、製造業の集積や部品供給網、国内の導入需要を背景に大きな供給基盤を形成しています",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）；0081-5058936232（グローバル）",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "japan@qyresearch.com",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch株式会社は、2017年に日本・東京で設立された市場調査・コンサルティング会社です",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "一般財団法人JR東日本文化創造財団、MoN Takanawa: The Museum of Narratives、Barbican Centre",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN AI株式会社",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "近年、日本や中国、欧州、北米を中心に自動車および半導体関連の製造業では、製造プロセスの高度化や生産能力の増強を目的とした設備投資が進展している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "2.調査対象： 日本及び海外のAGV／AMRメーカー、周辺機器及び部品メーカー、SI企業、Raas（Retail as a Service）企業、AGV／AMRを導入するユーザー企業、政府機関、大学・研究所、業界団体等",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "本調査におけるAGV／AMR世界市場（日本、中国、韓国、米州、欧州、その他地域）は、メーカー出荷台数ベースで算出した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "Major players profiled in this report are as follows: ABB (Switzerland), KUKA AG (Germany), OMRON Corporation (Japan), Mobile Industrial Robots (Denmark), and Geekplus Technology Co., Ltd. (China) and others. These leading companies possess a wide portfolio of products, establishing a prominent presence in established as well as emerging markets.",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Assessment: In-depth assessment of market shares, growth strategies, and service offerings of leading players like ABB (Switzerland), KUKA AG (Germany), OMRON Corporation (Japan), Mobile Industrial Robots (Denmark), and Geekplus Technology Co., Ltd. (China) and others.",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "13.4.4 JAPAN 197",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SEMABIZはMarketsandMarketsの日本に拠点をおく販売代理店として、MarketsandMarketsのレポートを販売しております",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業・物流業では、人手不足や物流現場の省人化ニーズを背景に、AGV・AMRの導入が急速に進んでいます",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "矢野経済研究所の調査では、国内のAGV・AMR出荷市場は2020年度の7,055台・約161億円から、2025年度には9,950台・約275億円規模へと、わずか5年で約1.7倍へと拡大する見込みです",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "1980年代から日本の自動車・電子部品工場のライン搬送に採用されてきた歴史があり、ルート上の動作の再現性・安定性が極めて高く、製造現場では「走るベルトコンベア」として根強い信頼を得ています",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "国内BtoC-EC市場は2024年に約25兆円規模に達し、いまも年率8%前後で成長を続けています",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "CubeMars製ロボット用モータの日本正規代理店として、AGV・AMRをはじめとするロボット・自動化設備向けに、お客様の用途や要求仕様に応じた最適なモータの選定・技術提案を行っています",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場でも最近多くの",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、従来のAGVの規格JIS D 6802が2022年に改正され、ISOに沿った無人搬送車や無人搬送システムの安全規格に適用されるように改正されています",
+    "url": "https://fa-products.jp/column/amr-autonomous-mobile-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "AMR（Autonomous Mobile Robot）とは、日本語で「自律走行搬送ロボット」と呼ばれ、事前に決められたルートに従って走行するAGV（Automated Guided Vehicle：無人搬送車）とは異なり、自ら周囲の環境を認識し、最適なルートを判断して自律的に移動できるロボットのことです",
+    "url": "https://www.tmcsystem.co.jp/column/fa/factory-logistics-amr",
+    "pass": 3
+   },
+   {
+    "quote": "日本バイナリー",
+    "url": "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "pass": 3
+   },
+   {
+    "quote": "AMRは「Autonomous Mobile Robot」の略で、日本語では「自律走行搬送ロボット」と呼ばれています",
+    "url": "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内・国外のAMRメーカー15選",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "国内サポート・長期運用に強み",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "国内導入・安定運用を重視",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "オムロン株式会社は制御技術とロボットの融合に強みを持つ国内メーカーです",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "住友重機械工業株式会社は重工業の技術基盤を活かし、国内運用を前提としたAMR導入を支援しています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "シナノケンシ株式会社は国内向けに導入しやすいAMRを展開し、スモールスタートを重視した構成が特徴です",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "国内で実績のあるメーカーとしては、制御技術に強みを持つオムロン、国内外で高いシェアを誇るギークプラス、導入しやすさに定評のあるMiRが挙げられます",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "における情報を集めた国内最大級の技術データベースサイトです",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造現場に適したAMRの活用・選定の参考として活用可能",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "実運用を想定した当社製の国産AMR「AspinaAMR」の情報も掲載しています",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "大喜産業は、自律走行搬送ロボット（AMR） MiRの ≪ 国内正規代理店 ≫ です",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ、日本、韓国、中国にオフィスを構え、世界中に",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "■Made in Japan",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "■Made In Japan",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "▪️現場の声を反映した日本独自モデル",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "：日本市場にも進出済み",
+    "url": "https://www.icom-giken.com/blog/amrmeka/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に日本市場に本格進出",
+    "url": "https://www.icom-giken.com/blog/amrmeka/",
+    "pass": 3
+   },
+   {
+    "quote": "：DHLや日本の大手物流会社に導入",
+    "url": "https://www.icom-giken.com/blog/amrmeka/",
+    "pass": 3
+   },
+   {
+    "quote": "：中国・日本で1,000台以上導入",
+    "url": "https://www.icom-giken.com/blog/amrmeka/",
+    "pass": 3
+   },
+   {
+    "quote": "：国内AGV市場でトップクラスのシェア",
+    "url": "https://www.icom-giken.com/blog/amrmeka/",
+    "pass": 3
+   },
+   {
+    "quote": "ハイランダーズとは？国産ヒューマノイドロボットの特徴・量産計画・製品ラインナップを解説",
+    "url": "https://www.icom-giken.com/blog/amrmeka/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では「自律走行できる方式＝AMR」という定義が広まっていますが、AGVでは「自律走行＋ガイド方式」タイプも登場しています",
+    "url": "https://www.geekplus.jp/plusnote/articles/amr/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内ではAGVをメインに、自動化ロボットの販売事業を手掛けています",
+    "url": "https://www.geekplus.jp/plusnote/articles/amr/",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "病院では、薬品や器具の移動を自動化し、人手不足を補う役割を果たしています",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なサプライチェーンの再構築、深刻化する労働力不足、そしてインフレ圧力の高まりを背景に、物流および製造現場における自動化の需要はかつてない規模で拡大しています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行搬送ロボット（AMR）および倉庫・工場自動化業界は、労働力不足、サプライチェーンの制約、脱グローバル化、そしてサステナビリティへの対応といった世界的なマクロ経済の課題に対する直接的な解決策として急速に進化しています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業や物流業においては、2028年までに世界で240万人の熟練労働者が不足すると予測されており、業務継続性の観点からも自動化はもはや選択肢ではなく必須の要件となっています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省が発行する「2025年版ものづくり白書」 （令和7年5月）では、製造業における人手不足が継続的な課題として指摘されており、 自動化への投資ニーズは年々高まっています(※1)",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内でも、製造業・物流業における人手不足対策や研究開発分野での活用ニーズを 背景に、AGVからAMRへの移行や併用導入が進んでいます",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "​～人手不足や人件費上昇、作業の安全性および効率化向上など課題の解決に、産業現場における生産・物流スマート化が加速～",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、少子高齢化による人手不足や人件費上昇、作業の安全性及び効率性向上へのニーズを背景に、スマートファクトリー化が加速している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の生産現場においては少子高齢化による人手不足や人件費上昇、作業の安全性および効率化向上へのニーズを背景に、自動化需要が拡大している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "​背景には、企業のDX推進やEC市場の成長、労働力不足への対応、カーボンニュートラルやESG投資の潮流がある",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "物流業界では、AIの活用や人手不足により、物流DXを推進する企業が増加しています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足や人件費上昇、作業の効率化を目指す、世界的な物流搬送自動化の潮流で、市場は本格的な拡大局面に入っているといえます",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "物流産業において、AIの活用や人手不足などを背景に、物流DXを推進している企業が増加しています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "物流業界では、AIの活用や人手不足の影響で、物流DXを推進する企業が増えています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "5.2.2.3 Shortage of skilled workforce 53",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "13.2.3.1 Intensifying labor shortages to boost demand 185",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業・物流業では、人手不足や物流現場の省人化ニーズを背景に、AGV・AMRの導入が急速に進んでいます",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "2-1.「2030年問題」と労働力不足",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・国土交通省の試算では、2030年には物流ドライバーの約35%が不足するとされ、製造業全体でも有効求人倍率は高止まりが続いています",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "協働ロボットが必要とされる背景-1.人手不足の解消",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "近年、製造業では人手不足の深刻化により、工場内物流の自動化がますます重要となっています",
+    "url": "https://www.tmcsystem.co.jp/column/fa/factory-logistics-amr",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足と品質向上を同時に解決する協働ロボット活用術：製造業の現場改善に向けた実践ガイド",
+    "url": "https://www.tmcsystem.co.jp/column/fa/factory-logistics-amr",
+    "pass": 3
+   },
+   {
+    "quote": "深刻な人材不足により既存の搬送体制が限界に達していました",
+    "url": "https://www.tmcsystem.co.jp/column/fa/factory-logistics-amr",
+    "pass": 3
+   },
+   {
+    "quote": "今後の労働人口減少による人手不足解消の一助にもなるでしょう",
+    "url": "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子商取引の急拡大、労働力不足、およびインダストリー4.0の導入が、主な成長要因となっている",
+    "url": "https://www.fdatabot.com/ja/top-10-autonomous-mobile-robot-companies-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "物流・製造業における人手不足",
+    "url": "https://www.fdatabot.com/ja/top-10-autonomous-mobile-robot-companies-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "用途が曖昧なままでは、過剰スペックや能力不足につながるため注意が必要です",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足の解消や人員の最適配置を実現するため、多種多様な協働ロボットの中から最適なモデルを提案し、導入から運用まで一貫したサポートを行っています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの条件を踏まえずに選定すると、性能不足や過剰投資につながる可能性があります",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "需要拡大の背景には、EC市場の成長や人手不足があり、矢野経済研究所はAGV・AMRの世界市場規模が2026年に約9,087億円へ拡大すると予測しています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足への対策や更なるコスト削減を求められる、非常に厳しい経営環境を支えるため、構内物流の自動化を推進するStandardRobots社のAMR/AGVを紹介させて頂きます",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "搬送工程の人手・労働力不足を解消するAMR搬送ロボット！AIによるルート計画など設定作業が簡単",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足による効率化や生産性向上などの課題解決のため、",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "◎搬送業務の人手不足の解消やコストダウンに取り組みたい",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が抱えている人手不足や生産性向上という課題に大きな効果を発揮します",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足や生産性向上という課題に大きな効果を発揮します",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "現場の労働力不足を解消し、業務効率を劇的に高めます",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "物流業界の人手不足が進むなか、AMR（自律走行搬送ロボット）はリソース不足を解消したり、人件費を削減したりする手段として注目されています",
+    "url": "https://www.geekplus.jp/plusnote/articles/amr/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、物流業界では現場の人手不足が深刻化しており、現場の作業効率をどう高めていくかが課題となっています",
+    "url": "https://www.geekplus.jp/plusnote/articles/amr/",
+    "pass": 3
+   },
+   {
+    "quote": "フォークマン、作業スタッフの人手不足の解消",
+    "url": "https://www.geekplus.jp/plusnote/articles/amr/",
+    "pass": 3
+   },
+   {
+    "quote": "AMRは、フォークマンや作業スタッフの人手不足の解消に役立ちます",
+    "url": "https://www.geekplus.jp/plusnote/articles/amr/",
+    "pass": 3
+   },
+   {
+    "quote": "「慢性的な人手不足に困っている」という場合におすすめです",
+    "url": "https://www.geekplus.jp/plusnote/articles/amr/",
+    "pass": 3
+   },
+   {
+    "quote": "先に触れた通り、物流業界では深刻な人手不足が進んでいます",
+    "url": "https://www.geekplus.jp/plusnote/articles/amr/",
+    "pass": 3
+   },
+   {
+    "quote": "AMRを活用すれば搬送業務の一部を自動化できるため、人手不足の現場でも一定の荷量を処理できます",
+    "url": "https://www.geekplus.jp/plusnote/articles/amr/",
+    "pass": 3
+   },
+   {
+    "quote": "某飲料メーカーでは、人手不足に悩まされていました",
+    "url": "https://www.geekplus.jp/plusnote/articles/amr/",
+    "pass": 3
+   },
+   {
+    "quote": "リソース不足の深刻化が進み、「製品資材を運搬する作業を効率化したい」との考えからAMRを導入しました",
+    "url": "https://www.geekplus.jp/plusnote/articles/amr/",
+    "pass": 3
+   },
+   {
+    "quote": "病院では、薬品や器具の移動を自動化し、人手不足を補う役割を果たしています",
+    "url": "https://www.atpress.ne.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "空の台車の移動など、人手不足によって高止まりする人件費が無駄にかかる",
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が深刻な製造現場の課題解決に貢献します",
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の現場では、人手不足や過酷・危険な作業などの悩みがつきもの",
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "台車搬送の省人化や人手不足対策に貢献します",
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足や重量物の搬送でお困りではありませんか？自動搬送用ロボット『Lexx500』はその課題を解決します！",
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "■人手不足、担当者の高齢化",
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "部品のライン間搬送や完成品の運搬作業の自動化など、人手不足が深刻な製造現場の課題解決に貢献します",
+    "url": "https://www.indexpro.co.jp/Category/2058",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足対策や生産性の向上が急務とされている物流倉庫や製造現場にて、AMRの導入が進んでいます",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1314/",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足への対応や、体制強化に向けた社内検討の材料としてご活用ください",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1314/",
+    "pass": 3
+   },
+   {
+    "quote": "また、2021年も半導体不足の影響を受けたことから、AGV・AMRの出荷台数は6,400台に落ち込んでいます",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1314/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年以降は人手不足対策と設備投資へのニーズの高騰から、再びAGV・AMRの需要が増加していく",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1314/",
+    "pass": 3
+   },
+   {
+    "quote": "導入の背景には、人手不足対策と長時間労働の是正のほか、ロボットの導入事例を作る目的もありました",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1314/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業や物流業の多くの企業では、人手不足は慢性的な課題となっています",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1314/",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "「その他」のAMRベンダーが合計で2025年の世界AMR市場の62.8%を占める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年には47.8億米ドルに達し、売上高の48%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "製造・組立分野は、2035年までに31.9億米ドルに達し、市場売上高の32%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "調査予測によれば、2027年までに新たに販売されるイントラロジスティクス向けスマートロボットの10パーセントをヒューマノイド型が占めるとされています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、世界市場に占めるシェアは23.76％から21.93％へ低下すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "生産面では、2025年の世界生産量に占める北米の割合が33.78％、欧州が18.95％でした",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "市場に占める需要分野別の割合は製造業が約80％、物流業が約20％程度を占めると推計した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "一般的には1台あたり数百万円〜が目安となり、これに加えてシステム構築費や設置費が発生します",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "AMRは従来のAGVと比較して高額な場合が多く、1台あたり数百万円から1,000万円を超える製品もあります",
+    "url": "https://robo.japanstep.jp/learn/2024/12/586/",
+    "pass": 3
+   },
+   {
+    "quote": "その中でもAGV/AMRの世界市場においては、中国市場が世界シェアの約4割を占める最大の市場となっています(※3)",
+    "url": "https://linx.jp/product/irayple_amr/article/006/",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "サブスクリプションモデルは初期予算の負担を軽減できるものの、企業が大規模導入を決定する前に、運用との適合性を実証する必要はなくならない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "大量処理を伴うフルフィルメント業務における継続的な制約に対し、商品を人のもとへ運ぶピッキング、補充、仕分け支援、自律搬送で対応できることから、倉庫は引き続き需要の中核となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、厳格な耐震基準への対応により導入コストが他国比で15パーセントから20パーセント高くなる傾向があるものの、深刻な労働人口の減少を補うために国からの補助金が自動化投資を後押ししています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "同社は長らくプライベートエクイティの支援を受けて成長してきましたが、2025年7月に香港証券取引所へのIPO（約3億4800万ドルの資金調達）を果たし、パブリックカンパニーとして新たなステージに入っています",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省が発行する「2025年版ものづくり白書」 （令和7年5月）では、製造業における人手不足が継続的な課題として指摘されており、 自動化への投資ニーズは年々高まっています(※1)",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "※1 経済産業省・厚生労働省・文部科学省「2025年版ものづくり白書」（2025年5月）",
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "pass": 3
+   },
+   {
+    "quote": "移載式AMR（自律走行搬送ロボット）とは、工場や物流倉庫などで、部品、製品、コンテナ、資材を自律的に搬送し、作業ステーション間の移載を支援するロボットです",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル市場を対象に、市場調査レポート、業界分析、競合調査、IPO支援、カスタマイズリサーチなど幅広いサービスを展開し、各業界の市場構造や成長性、競争環境を多角的に分析しています",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "ハラール認証取得支援サービス",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社矢野経済研究所（代表取締役社長：水越 孝）は、AGV／AMR世界市場を調査し、主要国の関連政策や導入支援制度、参入企業動向、将来展望を明らかにした",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "また、ロボットなどの導入による自動化構築に対する各国政府の支援制度も強化されており、大企業だけではなく中堅・中小企業においてもAGV／AMRなどの導入による、生産・物流のスマート化が加速している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・国土交通省の試算では、2030年には物流ドライバーの約35%が不足するとされ、製造業全体でも有効求人倍率は高止まりが続いています",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫はより小さな面積でより多くの注文を捌く必要があり、棚搬送型AGV・ピッキング支援AMRの導入は急務となっています",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "2-3. 補助金制度による導入後押し",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "「中小企業省力化投資補助金」「ものづくり補助金」「DX投資促進税制」など、AGV・AMRを対象とする公的支援メニューが整いつつあり、スモールスタートできる小型モデルの登場と相まって、中小企業への普及の追い風となっています",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ピッキング支援、棚搬送、出荷搬送",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "新規開発案件に加え、CAN通信設定、複数モータ接続時のID設定、初回通電時の異常動作の原因切り分け、エンコーダ再校正、零点設定、MIT制御パラメータの設定など、導入・立上げ時の技術支援にも対応しています",
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "）の導入を検討し始めたら、まず押さえておきたいのは予算や費用になるかと思います",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "自社に最適なロボットを導入するために、あらかじめ予算を把握しておくことが大切です",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "はじめて搬送ロボットや産業用ロボットの導入を検討している方に意外と多いのが、ロボット単体の購入費用だけで導入予算を計画している場合です",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品製造工場、住宅設備機器製造メーカー、半導体・電子部品製造メーカーなど、モノづくり工場への導入支援が増えています",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、お客様のご要望によっては、スーパーパイザーを派遣して現地立上げ支援を行い、現地調整はお客様ご自身で行うという対応もいたしております",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "：オーダーピックから切替トータルピックとする支援によって、客先のシステム改修をせずにトータルピッキングと仕分けが可能となります",
+    "url": "https://fa-products.jp/column/amr-autonomous-mobile-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "FAプロダクツでは、シミュレーションの活用支援も行っておりますので、ぜひご相談ください！",
+    "url": "https://fa-products.jp/column/amr-autonomous-mobile-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "などの分野で顧客サービスや作業を支援します",
+    "url": "https://www.autostoresystem.com/ja/insights/a-guide-to-autonomous-mobile-robots-amrs",
+    "pass": 3
+   },
+   {
+    "quote": "ピッキング作業支援・ラック連携システムのAMRロボット",
+    "url": "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fdataは、中国・深センに拠点を置くカスタム自律移動ロボット（AMR）メーカーであり、世界中のロボット工学および産業用オートメーションプロジェクトを支援するため、移動ロボット用シャーシやプラットフォームの提供、OEM／ODM開発および試作、量産を行っています",
+    "url": "https://www.fdatabot.com/ja/top-10-autonomous-mobile-robot-companies-in-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金は利用できるか",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "・工程間搬送か、ピッキング支援か",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "小型・高頻度搬送、ピッキング支援に最適",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "棚搬送・ピッキング支援に特化",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "導入支援・サポート体制が充実",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ギークプラスは物流分野に特化したAMRメーカーで、棚搬送やピッキング支援に強みがあります",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "住友重機械工業株式会社は重工業の技術基盤を活かし、国内運用を前提としたAMR導入を支援しています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry Alpha株式会社は搬送単体ではなく、工程全体の最適化を前提としたAMR導入を支援する企業です",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リンクスはAMR単体だけでなく、周辺設備を含めたシステム全体での導入支援に強みがあります",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "導入支援やサポート体制が充実しており、ロボット導入に不慣れな現場でもスムーズに運用を開始しやすい点が特徴です",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社スマートロボティクスは、小型で扱いやすいAMRを提供し、現場負担を抑えた導入を支援しています",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "こちらでは「用途適合性」「提案力・柔軟性」「運用支援」という評価軸で3社を整理します",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "導入〜運用まで一貫支援し、用途変更にも柔軟に対応可能",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫向けロボットに特化し、ピッキング支援など現場課題に直結",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "超音波モーターなど独自技術を保有し、開発・技術支援まで対応",
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "可視化管理：独自のクラウド端末管理プラットフォームと連携し、生産搬送効率をモニタリングし、工場の効率的な生産を支援いたします",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・助成金を活用した導入事例",
+    "url": "https://www.icom-giken.com/blog/amrmeka/",
+    "pass": 3
+   },
+   {
+    "quote": "：LocusBotは、物流倉庫のピッキング支援向けAMRで、作業者に追従しながら指示画面で効率的に作業支援を行う協働型AMRです",
+    "url": "https://www.icom-giken.com/blog/amrmeka/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金/助成金",
+    "url": "https://www.icom-giken.com/blog/amrmeka/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・助成金を活用した",
+    "url": "https://www.icom-giken.com/blog/amrmeka/",
+    "pass": 3
+   },
+   {
+    "quote": "AMRより導入コストが安価なため、求める性能と予算の兼ね合いで検討するとよいでしょう",
+    "url": "https://www.geekplus.jp/plusnote/articles/amr/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化補助金対象！自動搬送ロボット『AspinaAMR』",
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "「中小企業省力化投資補助金（カタログ注文型）」により、補助率最大50％で『AspinaAMR』を導入可能",
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "独立行政法人中小企業基盤整備機構による「中小企業省力化投資補助金」のカタログに、",
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "※詳しくは関連リンクから「中小企業省力化投資補助金を活用して『AspinaAMR』を導入する」をご覧ください",
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "当社ではLexx500の活用シーンのご提案から導入作業、運用支援までを行います",
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "自動搬送ロボットプロトタイプの車両開発・製作を支援いたしました",
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "pass": 3
+   },
+   {
+    "quote": "本資料では、日研が提供する人材サービスと研修プログラムを1冊にまとめ、ロボット・物流設備分野における人材の確保・育成・定着をどう支援できるかをご紹介しています",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1314/",
+    "pass": 3
+   },
+   {
+    "quote": "となっているため、目的に合わせて予算を考慮した導入が可能です",
+    "url": "https://media.plus-automation.com/column/agv-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "導入・契約までの支援は無償で行いますのでご安心ください",
+    "url": "https://media.plus-automation.com/column/agv-manufacturer",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AGV・ AMR （移動 ロボット ）の世界 市場 （2026年～2032年 ... — AGV・ AMR （移動 ロボット ）の世界 市場 （2026年～2032年 ... Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/2649660",
+    "pass": 3
+   },
+   {
+    "quote": "自律 移動 ロボット （ AMR ） 市場 の 規模 と予測、2026〜2035年 — 自律 移動 ロボット （ AMR ） 市場 の 規模 と予測、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > autono...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "移載式 AMR市場規模 分析レポート：2026年は2520.12百万 ... — 移載式 AMR市場規模 分析レポート：2026年は2520.12百万 ... アットプレス https://www.atpress.ne.jp > ... > QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "pass": 3
+   },
+   {
+    "quote": "AGV／ AMR 世界市場に関する調査を実施（2025年） — AGV／ AMR 世界市場に関する調査を実施（2025年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "pass": 3
+   },
+   {
+    "quote": "自律 走行 搬送ロボット （ AMR ）市場 – 2030 年までの世界予測 — 自律 走行 搬送ロボット （ AMR ）市場 – 2030 年までの世界予測 ChosaReport.com https://chosareport.com > mnm-auton...",
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "pass": 3
+   },
+   {
+    "quote": "AMR 市場は 2030 年に45億6000万米ドル規模に — AMR 市場は 2030 年に45億6000万米ドル規模に LOGISTICS TODAY https://www.logi-today.com > ...",
+    "url": "https://www.logi-today.com/709197",
+    "pass": 3
+   },
+   {
+    "quote": "「 AMR 自律 走行型（協働） 搬送ロボット の導入にかかる ... — 「 AMR 自律 走行型（協働） 搬送ロボット の導入にかかる ... 協働ロボット.com https://www.kyodo-robot.com > q-and-a > mir-1",
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "pass": 3
+   },
+   {
+    "quote": "AMR （ 自律 走行 搬送ロボット ） メーカー65社 - Metoree — AMR （ 自律 走行 搬送ロボット ） メーカー65社 - Metoree Metoree https://metoree.com > ロボット",
+    "url": "https://metoree.com/categories/8665/",
+    "pass": 3
+   },
+   {
+    "quote": "自律 移動 ロボット （ AMR ）市場の規模と予測、2026〜2035年 — 自律 移動 ロボット （ AMR ）市場の規模と予測、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > autono...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "AMRロボット メーカー40社 注目ランキング【2026年】 — AMRロボット メーカー40社 注目ランキング【2026年】 Metoree https://metoree.com > ロボット",
+    "url": "https://metoree.com/categories/8569/",
+    "pass": 3
+   },
+   {
+    "quote": "AMR ( 搬送ロボット ) / AGV(無人 搬送 車) メーカー23社の製品一覧 — AMR ( 搬送ロボット ) / AGV(無人 搬送 車) メーカー23社の製品一覧 indexPro https://www.indexpro.co.jp > 産業分野",
+    "url": "https://www.indexpro.co.jp/Category/2058",
+    "pass": 3
+   },
+   {
+    "quote": "第4回：日本で AMR が注目される理由 - 協働 ロボット .com — 第4回：日本で AMR が注目される理由 - 協働 ロボット .com 協働ロボット.com https://www.kyodo-robot.com > blog_amr > 202006-amr4",
+    "url": "https://www.kyodo-robot.com/blog_amr/202006-amr4",
+    "pass": 3
+   },
+   {
+    "quote": "AMR （ 自律 走行 搬送ロボット ）とは？AGV（無人 搬送 車）と ... — AMR （ 自律 走行 搬送ロボット ）とは？AGV（無人 搬送 車）と ... aspina-robotics.com https://aspina-robotics.com > column > amr-column-001",
+    "url": "https://aspina-robotics.com/ja/column/amr-column-001/",
+    "pass": 3
+   },
+   {
+    "quote": "AMR （ 自律 走行 搬送ロボット ）とは？ 自律 性がもたらす物流 ... — AMR （ 自律 走行 搬送ロボット ）とは？ 自律 性がもたらす物流 ... JapanStep https://robo.japanstep.jp > learn > 2024/12",
+    "url": "https://robo.japanstep.jp/learn/2024/12/586/",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Mobile Robots Market Report 2026 — Autonomous Mobile Robots Market Report 2026 The Business Research Company https://www.thebusinessresearchcompany.com > ...",
+    "url": "https://www.thebusinessresearchcompany.com/report/autonomous-mobile-robots-global-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Mobile Robot Market Size , Share & Outlook 2031 — Autonomous Mobile Robot Market Size , Share & Outlook 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/autonomous-mobile-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Mobile Robots (AMR) Market worth $4.56 billion ... — Autonomous Mobile Robots (AMR) Market worth $4.56 billion ... PR Newswire https://www.prnewswire.com > auton...",
+    "url": "https://www.prnewswire.com/news-releases/autonomous-mobile-robots-amr-market-worth-4-56-billion-in-2030---exclusive-report-by-marketsandmarkets-302342746.html",
+    "pass": 3
+   },
+   {
+    "quote": "US Autonomous Mobile Robots (AMR) Market (2026-2031) — US Autonomous Mobile Robots (AMR) Market (2026-2031) MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/autonomous-mobile-robots-market/US",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Mobile Robots Market Size Report, 2026-2033 — Autonomous Mobile Robots Market Size Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Mobile Robots Market Size | CAGR of 18.1% — Autonomous Mobile Robots Market Size | CAGR of 18.1% Market.us https://market.us > report > autonomo...",
+    "url": "https://market.us/report/autonomous-mobile-robots-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Mobile Robots (AMR) Market Size & Share 2026 ... — Autonomous Mobile Robots (AMR) Market Size & Share 2026 ... Global Market Insights Inc. https://www.gminsights.com > autono...",
+    "url": "https://www.gminsights.com/industry-analysis/autonomous-mobile-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Mobile Robot Market Size, Share | Report [2035] — Autonomous Mobile Robot Market Size, Share | Report [2035] Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/autonomous-mobile-robot-market-13407",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "自律 走行 搬送ロボット （ AMR ）業界の動向と今後M&Aの対象 ... 自律 走行 搬送ロボット （ AMR ）業界の動向と今後M&Aの対象 ... note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "第6回 物流革命と自動 搬送ロボット （AGV・ AMR ）の現在  人 ... 第6回 物流革命と自動 搬送ロボット （AGV・ AMR ）の現在  人 ... note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/rapanote/n/n5c4a1a5cfb0b",
+    "pass": 3
+   },
+   {
+    "quote": "屋外 自律搬送ロボット （屋外AGV）のきほん    構内物流 ... - note 屋外 自律搬送ロボット （屋外AGV）のきほん    構内物流 ... - note note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/aominant/n/n36a9d36f5748",
+    "pass": 3
+   },
+   {
+    "quote": "自律 走行 搬送ロボット （ AMR ）の当社活用事例のご紹介 - note 自律 走行 搬送ロボット （ AMR ）の当社活用事例のご紹介 - note note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/chemiconnagaoka/n/nf04b595bdf57",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "自律走行搬送ロボット（AMR）業界の動向と今後M&Aの対象になりそうな企業｜Better Equation Research",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行搬送ロボット（AMR）業界の動向と今後M&Aの対象になりそうな企業",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "Better Equation Research",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行搬送ロボット（AMR）業界について",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "パンデミック時のバリュエーション高騰と調整",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "2025年以降の新たな成長サイクルとシステムインテグレーターの統合",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAIエコシステムにおける提携と買収の加速",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なサプライチェーンの再構築、深刻化する労働力不足、そしてインフレ圧力の高まりを背景に、物流および製造現場における自動化の需要はかつてない規模で拡大しています。とりわけ、従来の固定型インフラを必要とせず、柔軟な経路探索と協調動作が可能な自律走行搬送ロボット（AMR）は、次世代の産業競争力を左右する中核技術として位置付けられています。",
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "pass": 3
+   },
+   {
+    "quote": "第6回 物流革命と自動搬送ロボット（AGV・AMR）の現在─人とロボットが協働する時代へ─｜一般社団法人ロボテックス・オートメーション普及推進協会（RAPA）",
+    "url": "https://note.com/rapanote/n/n5c4a1a5cfb0b",
+    "pass": 3
+   },
+   {
+    "quote": "第6回 物流革命と自動搬送ロボット（AGV・AMR）の現在─人とロボットが協働する時代へ─",
+    "url": "https://note.com/rapanote/n/n5c4a1a5cfb0b",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人ロボテックス・オートメーション普及推進協会（RAPA）",
+    "url": "https://note.com/rapanote/n/n5c4a1a5cfb0b",
+    "pass": 3
+   },
+   {
+    "quote": "物流業界では今、大きな変化が起きています。",
+    "url": "https://note.com/rapanote/n/n5c4a1a5cfb0b",
+    "pass": 3
+   },
+   {
+    "quote": "EC市場の拡大により荷物は増え続けていますが、一方でドライバーや倉庫作業員の不足は深刻化しています。",
+    "url": "https://note.com/rapanote/n/n5c4a1a5cfb0b",
+    "pass": 3
+   },
+   {
+    "quote": "「物流2024年問題」をきっかけに、多くの企業が人手不足への対応を迫られています。",
+    "url": "https://note.com/rapanote/n/n5c4a1a5cfb0b",
+    "pass": 3
+   },
+   {
+    "quote": "そこで急速に注目されているのが、**自動搬送ロボット（AGV・AMR）**です。",
+    "url": "https://note.com/rapanote/n/n5c4a1a5cfb0b",
+    "pass": 3
+   },
+   {
+    "quote": "これらのロボットは、単なる搬送機械ではありません。",
+    "url": "https://note.com/rapanote/n/n5c4a1a5cfb0b",
+    "pass": 3
+   },
+   {
+    "quote": "ざっくり学ぶ、屋外自律搬送ロボット（屋外AGV）のきほん──構内物流の「最後のフロンティア」に挑む自動化技術｜#260｜物流DAO",
+    "url": "https://note.com/aominant/n/n36a9d36f5748",
+    "pass": 3
+   },
+   {
+    "quote": "ざっくり学ぶ、屋外自律搬送ロボット（屋外AGV）のきほん──構内物流の「最後のフロンティア」に挑む自動化技術｜#260",
+    "url": "https://note.com/aominant/n/n36a9d36f5748",
+    "pass": 3
+   },
+   {
+    "quote": "工場や物流倉庫の自動化は、ここ数年で大きく進展しました。棚を自動搬送するAMR（自律移動ロボット）や、コンベアラインの自動仕分けはすでに多くの現場に定着しつつあります。しかし、工場の建屋と建屋の間、倉庫と荷捌き場の間、屋外駐車スペースとゲート間といった「屋外の構内搬送」はどうでしょうか。こうした敷地内の屋外エリアは、長らく人手とフォークリフトに頼り続けてきた分野です。その「最後のフロンティア」に挑む技術が、屋外AGV（自動搬送車）です。本記事では、その仕組みと現状、そして物流現場における可能性をわかりやすく解説します。",
+    "url": "https://note.com/aominant/n/n36a9d36f5748",
+    "pass": 3
+   },
+   {
+    "quote": "AGVとは「Automated Guided Vehicle（自動搬送車）」の略称です。従来のAGVはレールや磁気テープといった誘導路に沿って走行するものでしたが、近年は技術の進化により、事前に設定したルート以外でも自律的に走行できる「自律型AGV」が登場しています。カメラ、LiDAR（光学距離センサー）、GPS、そしてAIを組み合わせることで、雨・夜間・段差・障害物など、変化の多い屋外環境でも安全に荷物を運ぶことができます。",
+    "url": "https://note.com/aominant/n/n36a9d36f5748",
+    "pass": 3
+   },
+   {
+    "quote": "これは、倉庫内専用のAMR（自律移動ロボット）とは根本的に異なるアプローチです。屋外AGVは気象条件や路面状態の変化、対向車両との共存など、はるかに高い環境適応能力を求められます。",
+    "url": "https://note.com/aominant/n/n36a9d36f5748",
+    "pass": 3
+   },
+   {
+    "quote": "MHIで物流企画管理・ロケットや787輸送、大型物流倉庫プロジェクトの立上げ等の経験から物流の課題や解決策の記事を作成しています。",
+    "url": "https://note.com/aominant/n/n36a9d36f5748",
+    "pass": 3
+   },
+   {
+    "quote": "物流人材の育成やノウハウの伝承に悩んでいる方、物流に従事する物流企業の方、その他物流に関わる全ての人に向けて、有益な記事を毎日配信中。",
+    "url": "https://note.com/aominant/n/n36a9d36f5748",
+    "pass": 3
+   },
+   {
+    "quote": "物流DAOのメンバーシップ。物流のプロフェッショナルが集まって作成し幅広い物流知識を体系化した物流Note。常にアップデートされる環境・規制に追従する必要がある物流の世界。物流のプロ、管理者、CLO必見の資料です。",
+    "url": "https://note.com/aominant/n/n36a9d36f5748",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行搬送ロボット（AMR）の当社活用事例のご紹介｜ケミコンデバイス株式会社 長岡工場",
+    "url": "https://note.com/chemiconnagaoka/n/nf04b595bdf57",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行搬送ロボット（AMR）の当社活用事例のご紹介",
+    "url": "https://note.com/chemiconnagaoka/n/nf04b595bdf57",
+    "pass": 3
+   },
+   {
+    "quote": "過去記事で掲載した「自律走行搬送ロボット（AMR）」について、当社での活用事例をご紹介します。",
+    "url": "https://note.com/chemiconnagaoka/n/nf04b595bdf57",
+    "pass": 3
+   },
+   {
+    "quote": "当社では現在、AMRを2Fフロア内の総務／経理スタッフがいる事務所と、その他各部門スタッフがいる事務所を結ぶメール便として活用しています。今までは歩いて届けていた書類をAMRに乗せて運搬することで、業務の効率化を図っています。",
+    "url": "https://note.com/chemiconnagaoka/n/nf04b595bdf57",
+    "pass": 3
+   },
+   {
+    "quote": "総務／経理スタッフ事務所前に停車中のAMR",
+    "url": "https://note.com/chemiconnagaoka/n/nf04b595bdf57",
+    "pass": 3
+   },
+   {
+    "quote": "このAMRは、30分おきに上記の事務所間を行き来します。センサがついているため、人や物にぶつかることはありません。",
+    "url": "https://note.com/chemiconnagaoka/n/nf04b595bdf57",
+    "pass": 3
+   },
+   {
+    "quote": "「配送」の表示は目立ちやすいようにLEDを内蔵",
+    "url": "https://note.com/chemiconnagaoka/n/nf04b595bdf57",
+    "pass": 3
+   },
+   {
+    "quote": "書類が入っている場合は「配送」、空の場合は「回送」と表示することで、書類の有無が一目で分かるようになっています。",
+    "url": "https://note.com/chemiconnagaoka/n/nf04b595bdf57",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "DMG MORI Japan（DMG森精機） on X: \" AMR 1000 ... DMG MORI Japan（DMG森精機） on X: \" AMR 1000 ... X https://x.com > @dmgmorijapan",
+    "url": "https://x.com/dmgmorijapan/status/2112514278167355703",
+    "pass": 3
+   },
+   {
+    "quote": "Nathan on X: \"6721 ウインテスト 自律 走行 搬送ロボット ... Nathan on X: \"6721 ウインテスト 自律 走行 搬送ロボット ... X https://x.com > @Nathan9983",
+    "url": "https://x.com/Nathan9983/status/2112778507424301152",
+    "pass": 3
+   },
+   {
+    "quote": "小さな仲間と一緒に／ 自律 走行 搬送ロボット ( AMR )が - X 小さな仲間と一緒に／ 自律 走行 搬送ロボット ( AMR )が - X X https://x.com > @suzuyo_official",
+    "url": "https://x.com/suzuyo_official/status/1960265968082714899/video/1",
+    "pass": 3
+   },
+   {
+    "quote": "株鬼(かぶき) on X: \"ウインテスト 自律 走行 搬送ロボット ... 株鬼(かぶき) on X: \"ウインテスト 自律 走行 搬送ロボット ... X https://x.com > @23kabuki",
+    "url": "https://x.com/23kabuki/status/2112780065356599687",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "robotics # amr #autonomous #moblie #robot #agv ... - LinkedIn robotics # amr #autonomous #moblie #robot #agv ... - LinkedIn LinkedIn https://www.linkedin.com > posts > takayukiyamazaki_ro...",
+    "url": "https://www.linkedin.com/posts/takayukiyamazaki_robotics-amr-autonomous-activity-7200988264084770816-Tcvd",
+    "pass": 3
+   },
+   {
+    "quote": "United States Autonomous Mobile Robots (AMR) Market Size ... United States Autonomous Mobile Robots (AMR) Market Size ... LinkedIn https://www.linkedin.com > pulse > u...",
+    "url": "https://www.linkedin.com/pulse/united-states-autonomous-mobile-robots-amr-1mpce",
+    "pass": 3
+   },
+   {
+    "quote": "The Autonomous Mobile Robot Market Evolution - LinkedIn The Autonomous Mobile Robot Market Evolution - LinkedIn LinkedIn https://www.linkedin.com > pulse > tr...",
+    "url": "https://www.linkedin.com/pulse/transforming-industries-autonomous-mobile-robot-supradipa-chatterjee-leyyc",
+    "pass": 3
+   },
+   {
+    "quote": "Outdoor Type Autonomous Mobile Robots Market Forecast to ... Outdoor Type Autonomous Mobile Robots Market Forecast to ... LinkedIn https://www.linkedin.com > pulse > o...",
+    "url": "https://www.linkedin.com/pulse/outdoor-type-autonomous-mobile-robots-market-forecast-2033-brinovax-7ls4e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "yokoido. amr - Facebook yokoido. amr - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/yokoido.amr/",
+    "pass": 3
+   },
+   {
+    "quote": "#自動化ソリューション AMR 1000: Autonomous Transport for ... #自動化ソリューション AMR 1000: Autonomous Transport for ... Facebook https://www.facebook.com > DMGMORI.CO > posts > 自...",
+    "url": "https://www.facebook.com/DMGMORI.CO/posts/%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3amr-1000-autonomous-transport-for-safer-and-smarter-factories%E6%9C%80%E5%A4%A71000-kg/1721002050033625/",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発の AMR （ 自律 走行 搬送ロボット ）「ネイボ（Neibo ... 自社開発の AMR （ 自律 走行 搬送ロボット ）「ネイボ（Neibo ... Facebook https://www.facebook.com > Response.since1999 > posts",
+    "url": "https://www.facebook.com/Response.since1999/posts/%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%87%E3%82%A3%E3%81%AF%E8%87%AA%E7%A4%BE%E9%96%8B%E7%99%BA%E3%81%AEamr%E8%87%AA%E5%BE%8B%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%8D%E3%82%A4%E3%83%9Cneibo%E3%81%A8%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%88%E5%88%B6%E5%BE%A1%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%83%AA%E3%83%83%E3%83%88mixflit%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E5%B7%A5%E5%A0%B4%E6%90%AC/1529319945893698/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://newscast.jp/news/2649660",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/autonomous-mobile-robot-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://proto-robo.vstone.co.jp/agv-amr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9987741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logi-today.com/709197",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://sansuihitech.co.jp/agv-amr-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fa-products.jp/column/amr-autonomous-mobile-robots/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8665/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tmcsystem.co.jp/column/fa/factory-logistics-amr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autostoresystem.com/ja/insights/a-guide-to-autonomous-mobile-robots-amrs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdatabot.com/ja/top-10-autonomous-mobile-robot-companies-in-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.icom-giken.com/blog/amrmeka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geekplus.jp/plusnote/articles/amr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2649660",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8569/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/Category/2058",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1314/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.plus-automation.com/column/agv-manufacturer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanki1948robo.securesite.jp/rb/robopride/column/%E9%81%8B%E6%90%AC%E3%81%AE%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%92%E5%AE%9F%E7%8F%BE%EF%BC%81%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%A8%E5%90%84%E3%83%A1/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyodo-robot.com/blog_amr/202006-amr4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aspina-robotics.com/ja/column/amr-column-001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robo.japanstep.jp/learn/2024/12/586/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboware.ai/article/amr_problem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.icom-giken.com/blog/amrmir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://linx.jp/product/irayple_amr/article/006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thebusinessresearchcompany.com/report/autonomous-mobile-robots-global-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/autonomous-mobile-robot-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/autonomous-mobile-robots-amr-market-worth-4-56-billion-in-2030---exclusive-report-by-marketsandmarkets-302342746.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abiresearch.com/news-resources/chart-data/mobile-robot-market-size",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/mobile-robotics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/autonomous-mobile-robots-market-107280537.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://novushitech.com/costs-roi-of-autonomous-mobile-robots-amrs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/autonomous-mobile-robots-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://interactanalysis.com/mobile-robots-market-outpaces-fixed-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rapanote/n/n5c4a1a5cfb0b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aominant/n/n36a9d36f5748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/chemiconnagaoka/n/nf04b595bdf57",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/dmgmorijapan/status/2112514278167355703",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Nathan9983/status/2112778507424301152",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/suzuyo_official/status/1960265968082714899/video/1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/23kabuki/status/2112780065356599687",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/takayukiyamazaki_robotics-amr-autonomous-activity-7200988264084770816-Tcvd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yokoido.amr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DMGMORI.CO/posts/%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3amr-1000-autonomous-transport-for-safer-and-smarter-factories%E6%9C%80%E5%A4%A71000-kg/1721002050033625/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Response.since1999/posts/%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%87%E3%82%A3%E3%81%AF%E8%87%AA%E7%A4%BE%E9%96%8B%E7%99%BA%E3%81%AEamr%E8%87%AA%E5%BE%8B%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%8D%E3%82%A4%E3%83%9Cneibo%E3%81%A8%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%88%E5%88%B6%E5%BE%A1%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%83%AA%E3%83%83%E3%83%88mixflit%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E5%B7%A5%E5%A0%B4%E6%90%AC/1529319945893698/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/better_equation/n/nfa5a415bb423",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/united-states-autonomous-mobile-robots-amr-1mpce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/transforming-industries-autonomous-mobile-robot-supradipa-chatterjee-leyyc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/outdoor-type-autonomous-mobile-robots-market-forecast-2033-brinovax-7ls4e",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "自律搬送ロボット（AMR） 市場規模 CAGR",
+   "results": [
+    "https://newscast.jp/news/2649660",
+    "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "https://note.com/better_equation/n/nfa5a415bb423",
+    "https://www.mordorintelligence.com/ja/industry-reports/autonomous-mobile-robot-market",
+    "https://proto-robo.vstone.co.jp/agv-amr/",
+    "https://www.atpress.ne.jp/news/9987741",
+    "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.marketreportsworld.com/jp/market-reports/agv-or-amr-market-14714261",
+    "https://www.optimax.co.jp/ai-information/agv-ai-control/",
+    "https://www.globalgrowthinsights.com/jp/market-reports/autonomous-mobile-robot-amr-market-100632"
+   ]
+  },
+  {
+   "query": "自律搬送ロボット（AMR） 需要 見通し 2030",
+   "results": [
+    "https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f",
+    "https://www.theinsightpartners.com/ja/reports/autonomous-mobile-robots-market",
+    "https://note.com/better_equation/n/nfa5a415bb423",
+    "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/",
+    "https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5",
+    "https://www.logi-today.com/709197",
+    "https://sansuihitech.co.jp/agv-amr-guide/",
+    "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "https://www.kyodo-robot.com/blog_amr/202005-amr3",
+    "https://amr-guide.com/amr/amr-ロボット-市場規模/"
+   ]
+  },
+  {
+   "query": "自律搬送ロボット（AMR） 部品構成 コスト",
+   "results": [
+    "https://www.kyodo-robot.com/q-and-a/mir-1",
+    "https://fa-products.jp/column/amr-autonomous-mobile-robots/",
+    "https://proto-robo.vstone.co.jp/agv-amr/",
+    "https://metoree.com/categories/8665/",
+    "https://www.tmcsystem.co.jp/column/fa/factory-logistics-amr",
+    "https://www.autostoresystem.com/ja/insights/a-guide-to-autonomous-mobile-robots-amrs",
+    "https://www.amr-robot.com/knowledge/amr-merit.html",
+    "https://note.com/seizou_dx_ai/n/n87aae16827c4",
+    "https://linx.jp/product/irayple_amr/article/008/",
+    "https://factory-dx-center.com/amr-diy-guide/"
+   ]
+  },
+  {
+   "query": "自律搬送ロボット（AMR） シェア 主要企業",
+   "results": [
+    "https://www.fdatabot.com/ja/top-10-autonomous-mobile-robot-companies-in-2026/",
+    "https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/",
+    "https://metoree.com/categories/8665/",
+    "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "https://note.com/better_equation/n/nfa5a415bb423",
+    "https://mono.ipros.com/cg3/%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "https://www.icom-giken.com/blog/amrmeka/",
+    "https://www.geekplus.jp/plusnote/articles/amr/",
+    "https://www.atpress.ne.jp/news/2649660",
+    "https://amr-guide.com/amr/amr-ロボット-ランキング/"
+   ]
+  },
+  {
+   "query": "自律搬送ロボット（AMR） 日本企業",
+   "results": [
+    "https://metoree.com/categories/8569/",
+    "https://mono.ipros.com/cg3/%E8%87%AA%E5%8B%95%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/",
+    "https://www.indexpro.co.jp/Category/2058",
+    "https://note.com/better_equation/n/nfa5a415bb423",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1314/",
+    "https://media.plus-automation.com/column/agv-manufacturer",
+    "https://sanki1948robo.securesite.jp/rb/robopride/column/%E9%81%8B%E6%90%AC%E3%81%AE%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%92%E5%AE%9F%E7%8F%BE%EF%BC%81%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%A8%E5%90%84%E3%83%A1/",
+    "https://amr-guide.com/company/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-%E3%82%B7%E3%82%A7%E3%82%A2/",
+    "https://fa-products.jp/column/amr-autonomous-mobile-robots/",
+    "https://amr-guide.com/corporate/"
+   ]
+  },
+  {
+   "query": "自律搬送ロボット（AMR） 不足 OR 中国依存",
+   "results": [
+    "https://metoree.com/categories/8569/",
+    "https://www.kyodo-robot.com/blog_amr/202006-amr4",
+    "https://aspina-robotics.com/ja/column/amr-column-001/",
+    "https://fa-products.jp/column/amr-autonomous-mobile-robots/",
+    "https://robo.japanstep.jp/learn/2024/12/586/",
+    "https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market",
+    "https://roboware.ai/article/amr_problem",
+    "https://www.icom-giken.com/blog/amrmir/",
+    "https://linx.jp/product/irayple_amr/article/006/"
+   ]
+  },
+  {
+   "query": "autonomous mobile robot market market size CAGR 2030",
+   "results": [
+    "https://www.thebusinessresearchcompany.com/report/autonomous-mobile-robots-global-market-report",
+    "https://www.mordorintelligence.com/industry-reports/autonomous-mobile-robot-market",
+    "https://www.prnewswire.com/news-releases/autonomous-mobile-robots-amr-market-worth-4-56-billion-in-2030---exclusive-report-by-marketsandmarkets-302342746.html",
+    "https://www.abiresearch.com/news-resources/chart-data/mobile-robot-market-size",
+    "https://www.grandviewresearch.com/industry-analysis/mobile-robotics-market",
+    "https://www.marketsandmarkets.com/Market-Reports/autonomous-mobile-robots-market-107280537.html",
+    "https://interactanalysis.com/mobile-robots-market-outpaces-fixed-automation/",
+    "https://www.marketresearchfuture.com/reports/autonomous-mobile-robot-market-13407",
+    "https://www.jadhavarbusinessintelligence.com/market-research-report/autonomous-mobile-robots-market/1031",
+    "https://www.industryarc.com/research/autonomous-mobile-robot-market-research-800245"
+   ]
+  },
+  {
+   "query": "autonomous mobile robot market cost breakdown bill of materials",
+   "results": [
+    "https://novushitech.com/costs-roi-of-autonomous-mobile-robots-amrs/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/autonomous-mobile-robots-market/US",
+    "https://interactanalysis.com/mobile-robots-market-outpaces-fixed-automation/",
+    "https://www.factmr.com/report/mobile-industrial-robot-market",
+    "https://www.grandviewresearch.com/industry-analysis/autonomous-mobile-robots-market",
+    "https://market.us/report/autonomous-mobile-robots-market/",
+    "https://www.researchgate.net/publication/389680863_AI-powered_Bill_of_Materials_BOM_Cost_Analysis",
+    "https://www.multechnologies.com/blog/cost-advantages-of-autonomous-mobile-robots?srsltid=AYCX9vLmNbrHMtQHwowZhWI-oelWr74ZR3MbP5Mu-ACUo6QFDSASa_KN",
+    "https://www.futuremarketinsights.com/reports/autonomous-mobile-robots-for-logistics-and-warehousing-market",
+    "https://novushitech.com/agv-amr-cost-guide/"
+   ]
+  },
+  {
+   "query": "autonomous mobile robot market demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/autonomous-mobile-robots-market",
+    "https://www.thebusinessresearchcompany.com/report/autonomous-mobile-robots-global-market-report",
+    "https://www.marketsandmarkets.com/Market-Reports/autonomous-mobile-robots-market-107280537.html",
+    "https://www.marketresearchfuture.com/reports/autonomous-mobile-robot-market-13407",
+    "https://interactanalysis.com/mobile-robots-market-outpaces-fixed-automation/",
+    "https://www.quora.com/What-is-the-market-size-of-autonomous-mobile-robots",
+    "https://www.factmr.com/report/mobile-industrial-robot-market",
+    "https://www.inkwoodresearch.com/autonomous-mobile-robots-market-growth/?srsltid=AYCX9vLlx0SUWsEE7CpMKMN-AqEyK5nxsL4zHGCg7AzoJ9XtWRvGIEkV",
+    "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+    "https://scoop.market.us/autonomous-mobile-robots-statistics/"
+   ]
+  },
+  {
+   "query": "site:note.com 自律搬送ロボット（AMR）",
+   "results": [
+    "https://note.com/better_equation/n/nfa5a415bb423",
+    "https://note.com/rapanote/n/n5c4a1a5cfb0b",
+    "https://note.com/aominant/n/n36a9d36f5748",
+    "https://note.com/chemiconnagaoka/n/nf04b595bdf57",
+    "https://note.com/rapanote/n/nd7568426da16",
+    "https://note.com/ko_heihe_i/n/n6199dea6015b",
+    "https://note.com/izuku_idea/n/n973a03f65453",
+    "https://note.com/robotbank/n/n1e10bb090830",
+    "https://note.com/seizou_dx_ai/n/n87aae16827c4",
+    "https://note.com/robotbank/n/nce8fd1eb0b61"
+   ]
+  },
+  {
+   "query": "site:x.com 自律搬送ロボット（AMR）",
+   "results": [
+    "https://x.com/dmgmorijapan/status/2112514278167355703",
+    "https://x.com/Nathan9983/status/2112778507424301152",
+    "https://x.com/suzuyo_official/status/1960265968082714899/video/1",
+    "https://x.com/23kabuki/status/2112780065356599687",
+    "https://x.com/PRTIMES_TECH/status/2112792760273265092",
+    "https://x.com/ForwardX_Japan",
+    "https://x.com/pfrobotics/status/2044289903857676700",
+    "https://x.com/Stockpickerfund/status/2112798246313836750",
+    "https://x.com/zairyoinvest/status/2112779857914651131",
+    "https://x.com/yamagafc/status/2117121185855283355"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 自律搬送ロボット（AMR）",
+   "results": [
+    "https://www.linkedin.com/posts/takayukiyamazaki_robotics-amr-autonomous-activity-7200988264084770816-Tcvd",
+    "https://jp.linkedin.com/company/yokoido",
+    "https://jp.linkedin.com/company/lexxpluss",
+    "https://jp.linkedin.com/showcase/quicktronroboticsjapan/",
+    "https://jp.linkedin.com/posts/rapyuta-robotics_form-activity-7118069522820956160-gPfD",
+    "https://www.linkedin.com/posts/idec-fs_amr%E3%81%A8%E3%82%A8%E3%83%AC%E3%83%99%E3%83%BC%E3%82%BF%E3%81%AE%E9%80%A3%E6%90%BA%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%95%E3%83%AD%E3%82%A2%E9%96%93%E6%90%AC%E9%80%81%E3%81%AE%E8%87%AA%E5%8B%95%E5%8C%96%E4%BA%8B%E4%BE%8B%E3%81%A8%E5%B0%8E%E5%85%A5%E6%99%82%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%92%E8%A7%A3%E8%AA%AC-activity-7430068609206407168-MunG",
+    "https://jp.linkedin.com/company/keenonrobotics?trk=public_profile_topcard-current-company",
+    "https://jp.linkedin.com/posts/iplusmobot-japan_1500kg-cloudia-amr-activity-7204410394944110592-DDI4",
+    "https://pt.linkedin.com/company/tugbotai",
+    "https://jp.linkedin.com/pulse/amr-自律走行搬送ロボット-の世界市場-2030年-global-information-inc-4wqfc"
+   ]
+  },
+  {
+   "query": "site:facebook.com 自律搬送ロボット（AMR）",
+   "results": [
+    "https://www.facebook.com/Response.since1999/posts/%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AF%E8%87%AA%E5%BE%8B%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88amrautonomous-mobile-robot%E3%81%AE%E9%96%8B%E7%99%BA%E8%A3%BD%E9%80%A0%E3%82%92%E6%89%8B%E3%81%8C%E3%81%91%E3%82%8B%E4%B8%AD%E5%9B%BD%E3%83%A6%E3%83%BC%E3%82%A4%E3%83%9C%E3%83%83%E3%83%88%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9youibot-robot/1525126442979715/",
+    "https://www.facebook.com/yokoido.amr/",
+    "https://www.facebook.com/DMGMORI.CO/posts/%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3amr-1000-autonomous-transport-for-safer-and-smarter-factories%E6%9C%80%E5%A4%A71000-kg/1721002050033625/",
+    "https://www.facebook.com/Response.since1999/posts/%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%87%E3%82%A3%E3%81%AF%E8%87%AA%E7%A4%BE%E9%96%8B%E7%99%BA%E3%81%AEamr%E8%87%AA%E5%BE%8B%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%8D%E3%82%A4%E3%83%9Cneibo%E3%81%A8%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%88%E5%88%B6%E5%BE%A1%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%83%AA%E3%83%83%E3%83%88mixflit%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E5%B7%A5%E5%A0%B4%E6%90%AC/1529319945893698/",
+    "https://www.facebook.com/robotbanks/posts/ai-starpick-%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AE%E6%90%AC%E9%80%81%E3%83%94%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E4%BB%95%E5%88%86%E3%81%91%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%89%A9%E6%B5%81%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E8%B3%A2%E3%81%84%E9%A0%AD%E8%84%B3%E3%81%A8%E6%9C%80%E5%BC%B7%E3%81%AEai%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%8C%E3%81%A4%E3%81%84%E3%81%AB%E5%8B%95%E3%81%8D%E5%87%BA%E3%81%97%E3%81%BE%E3%81%99-%E6%84%9F%E7%9F%A5%E3%81%99%E3%82%8Bai3d%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%87%E3%82%A3/792120233564417/",
+    "https://www.facebook.com/SAGAWAGLOBAL/videos/%E3%83%A9%E3%83%94%E3%83%A5%E3%82%BFamr%E7%A8%BC%E5%83%8D%E3%81%AE%E6%A7%98%E5%AD%90/244406904192391/",
+    "https://www.facebook.com/robotbanks/",
+    "https://www.facebook.com/prtimes.jp/posts/industry-alpha%E3%81%AF%E5%A4%9A%E7%9B%AE%E7%9A%84amr%E8%87%AA%E5%BE%8B%E7%A7%BB%E5%8B%95%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88mikoshi%E3%83%9F%E3%82%B3%E3%82%B7%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E3%82%92%E9%96%8B%E5%A7%8Bmikoshi%E3%81%AF%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%A9%E3%83%BC%E8%A8%AD%E8%A8%88%E3%81%AE%E4%B8%8A%E9%83%A8%E6%A7%8B%E9%80%A0%E3%82%92%E4%BB%98%E3%81%91%E6%9B%BF%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E6%90%AC/1553531616780378/",
+    "https://www.facebook.com/yokoido.amr/videos/%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE2%E6%A9%9F%E7%A8%AE%E3%81%AF%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7agv%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E8%B5%B0%E8%A1%8C%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%A7%E3%81%99%E5%BA%83%E3%81%84%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E5%A4%89%E6%9B%B4%E3%81%8C%E5%A4%9A%E3%81%84%E5%A0%B4%E6%89%80%E3%81%A7%E3%81%AFamr%E8%B5%B0%E8%A1%8C%E3%81%97%E7%8B%AD%E3%81%8F%E8%B5%B0%E8%A1%8C%E4%BD%8D%E7%BD%AE%E7%B2%BE%E5%BA%A6%E3%81%8C%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E5%A0%B4%E6%89%80%E3%81%A7%E3%81%AFa/573644795712871/",
+    "https://www.facebook.com/DMGMORI.CO/posts/%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3wh-amr-10-self-driving-robot-system-for-collaboration-with-humans-desi/1220081060125729/"
+   ]
+  },
+  {
+   "query": "自律搬送ロボット（AMR） note 社長",
+   "results": [
+    "https://note.com/better_equation/n/nfa5a415bb423",
+    "https://aspina-robotics.com/ja/column/amr-column-001/",
+    "https://www.buddynet.jp/column/amr/",
+    "https://wireless-power.nabtesco.com/media/column/amr",
+    "https://www.kyodo-robot.com/blog_amr/202006-amr4",
+    "https://www.autostoresystem.com/ja/insights/a-guide-to-autonomous-mobile-robots-amrs",
+    "https://robo.japanstep.jp/learn/2024/12/586/",
+    "https://nihonsanki-shimbun.com/%E3%80%90innovation%EF%BC%9Aamr%EF%BC%88%E8%87%AA%E5%BE%8B%E8%B5%B0%E8%A1%8C%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%EF%BC%89%E3%80%91/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1314/",
+    "https://pertechtual.co.jp/robotics/industry-specific-case-studies/"
+   ]
+  },
+  {
+   "query": "自律搬送ロボット（AMR） X 投稿",
+   "results": [
+    "https://aspina-robotics.com/ja/column/amr-column-001/",
+    "https://www.autostoresystem.com/ja/insights/a-guide-to-autonomous-mobile-robots-amrs",
+    "https://wireless-power.nabtesco.com/media/column/amr",
+    "https://www.forwardx.com/jp/blog/agv%E3%81%A8amr/",
+    "https://metoree.com/categories/8569/",
+    "https://www.softbankrobotics.com/jp/product/transport/",
+    "https://www.renesas.com/ja/applications/industrial/robotics/autonomous-mobile-robot-amr?srsltid=AYCX9vLGXWdfDBWjURQjK5zfQPdpk19-vuldI5-kYsKKWgEBD7AEeRkU",
+    "https://x.com/shinseihinjoho/status/2116356998598111302",
+    "https://proto-robo.vstone.co.jp/amr/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1314/"
+   ]
+  },
+  {
+   "query": "autonomous mobile robot market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/united-states-autonomous-mobile-robots-amr-1mpce",
+    "https://www.linkedin.com/pulse/transforming-industries-autonomous-mobile-robot-supradipa-chatterjee-leyyc",
+    "https://www.linkedin.com/pulse/fastest-growing-mobile-robotics-market-companies-kmbyf",
+    "https://www.linkedin.com/pulse/outdoor-type-autonomous-mobile-robots-market-forecast-2033-brinovax-7ls4e",
+    "https://www.linkedin.com/posts/linke-wire-7940b6266_autonomous-mobile-manipulator-robots-market-activity-7513837172647444480-c6H4",
+    "https://www.linkedin.com/pulse/overcoming-regulatory-challenges-autonomous-mobile-2wm3f",
+    "https://www.linkedin.com/pulse/mobile-robot-platforms-market-us-japan-korea-europe-analysis-vkr9f",
+    "https://www.linkedin.com/pulse/autonomous-mobile-robots-revolutionizing-logistics-warehousing-m-driyc",
+    "https://www.linkedin.com/pulse/taiwan-mobile-robot-market-expected-see-strong-growth-competition-ldjse",
+    "https://www.linkedin.com/posts/stefano-silvestri-5400049_to-meet-the-burgeoning-demand-of-the-global-activity-7473312616015171584-aUhH"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,2853 @@
+{
+ "name": "ロボットモーター用の永久磁石（ネオジム）",
+ "en": "rare earth magnets for robots and humanoids demand",
+ "aliases": [
+  "ネオジム磁石 ロボット 需要",
+  "レアアース磁石 ヒューマノイド",
+  "永久磁石 ロボット"
+ ],
+ "context": "マテリアル・素材",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:26:22.747250+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "市場規模は2025年の26億米ドルから2035年には34億米ドルへと、10年間で約8億米ドル増加する予測である",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "そのため経営層にとって日本磁石市場の2035年展望を理解することは、単なる市場規模予測を確認することではなく、自社がどの用途・技術・顧客領域に資本を配分し、どのサプライチェーンリスクを低減し、どの高付加価値領域で競争優位を構築するかを判断するための戦略的インプットとして重要性を増しています",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年の26億米ドルから2035年には34億米ドルへと、10年間で約8億米ドル増加する予測である",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "そのため経営層にとって日本磁石市場の2035年展望を理解することは、単なる市場規模予測を確認することではなく、自社がどの用途・技術・顧客領域に資本を配分し、どのサプライチェーンリスクを低減し、どの高付加価値領域で競争優位を構築するかを判断するための戦略的インプットとして重要性を増しています",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用防氷システムの世界市場（2026年～2032年）、市場規模（機械式除氷システム、電気パルス式防氷システム、液体防氷システム、熱風式防氷システム、電気加熱式防氷システム）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "低温収縮試験機の世界市場（2026年～2032年）、市場規模（低温、広温度範囲）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "油井ポンプの世界市場（2026年～2032年）、市場規模（試験用ポンプ、酸処理用ポンプ、セメント注入用ポンプ）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "PERCフロント用銀ペーストの世界市場（2026年～2032年）、市場規模（フィンガー用銀ペースト、バスバー用銀ペースト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "牽引式方位スラスタの世界市場（2026年～2032年）、市場規模（Lドライブ、Zドライブ、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査によると、**2025年の市場規模26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間における年平均成長率（CAGR）は3.00％**と予測されています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けた日本磁石市場の展望――市場規模よりも高付加価値化が重要な競争軸に",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年の26億米ドルから2035年には34億米ドルへと成長する見通しですが、企業にとって重要なのは市場全体の拡大率だけではありません",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場を評価するうえでは、市場規模が26億米ドルから34億米ドルへ増加するという数字だけでなく、どの磁石技術が価格・性能・顧客価値の面で競争優位を形成するのかを見極める必要があります",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "「半導体用ミニチュアボールねじの世界市場」調査資料（国内市場規模も記載）を発行、年平均8.3%で成長する見込み",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模、シェア、競争環境、トレンド分析レポート、タイプ別、グレード別 、製造プロセス別、 エンドユーザー別、エンドユーザー別 – 用途別、 流通チャネル別 : 2026-2035年の機会分析と産業予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "モルドール・インテリジェンスのレポートによると、世界の永久磁石市場規模は2025年に518億ドルと推定され、2030年には698.1億ドルに達すると予測されており、予測期間（2025年～2030年）における年平均成長率（CAGR）は6.15%です",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 最終用途産業別: 自動車産業が2024年に永久磁石市場規模の38.24%を占めました",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "米国、ヨーロッパ、日本の政府は、使用済みEV、風力タービン、電子機器から磁石を回収するためのパイロットプラントに資金を提供しており、2045年までに年間12億ドルの材料回収の可能性があります",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム-鉄-ホウ素用途の永久磁石市場規模は、2030年までにこれらの用途が拡大するにつれて大幅に拡大する見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、永久磁石市場を材料タイプ別（ネオジム-鉄-ホウ素、フェライト、サマリウム-コバルト、アルニコ）、最終用途産業別（自動車、エレクトロニクス、産業、発電、その他の最終用途産業（医療・ヘルスケアを含む））、および地域別（アジア太平洋、北米、欧州、南米、中東・アフリカの主要地域および15カ国）にセグメント化し、収益（USD百万）ベースでの市場規模と予測を提供しています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石の世界市場は、2025年には518億ドルに達し、2030年までには698.1億ドルに成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 市場規模と成長予測（金額）",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "HDMI市場規模・シェア分析 – 成長トレンドと予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の塩酸ゲムシタビン市場規模（2025～2034年）：種類別（ブランド医薬品、ジェネリック医薬品）、疾患別、エンドユーザー別",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "医師処方コスメシューティカル市場規模・シェア分析 – 成長動向と予測 (2026-2031年)",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行車プロセッサ市場規模、シェアおよびトレンド分析レポート：車両タイプ別（乗用車、商用車）、自律レベル別（レベル1、レベル2、レベル3、レベル4、レベル5）、アプリケーション別（高度運転支援システム（ADAS）、自律運転、車載インフォテインメントシステム、リアルタイムデータ処理、車両間通信（V2X））および地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "オーディオIC市場規模、シェアおよびトレンド分析レポート：タイプ別（オーディオアンプ、オーディオDSP、オーディオCODEC、MEMSマイク）、アプリケーション別（コンピュータ＆タブレット、電話、ヘッドフォン、ホームエンターテインメントシステム、自動車、スマートホーム＆IoTデバイス、ウェアラブル）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "オーディオコーデック市場規模、シェアおよびトレンド分析レポート（機能別（DSPあり、DSPなし）、用途別（コンピュータ、電話、タブレット、オーバーイヤーヘッドフォン、TWS、家庭用エンターテインメント、商業、自動車、スマートホーム、IoT、ウェアラブル、AR/VR）、地域別（北米、ヨーロッパ、APAC、中東・アフリカ、LATAM）予測、2026-2034年）",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度補正予算要求額 170億円 製造産業局金属課",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【令和6年度補正予算 41億円】",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⇒経済安全保障基金事業(令和4～12年度、464億円) ①永久磁石製造設備の能力増強、②廃磁石からのレアアース原料リサイクル技術の",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【令和７年度補正予算 170億円】",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府はこの転換を強力に後押しし、EVインフラに1兆3000億円（87億ドル）を投資することで、ネオジム磁石の需要を高めています",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルスケアは、規模は小さいものの、日本の高齢化と医療費の増加（2024年には45兆円に達すると予測）を背景に、ネオジム鉄ボロン磁石市場の需要を牽引する存在として勢いを増している",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "これは2023年から20％増加しており、経済産業省（METI）による500億円（3億3,300万ドル）の投資によって国内REE処理能力が強化され、2022年には輸入依存度が45％から38％に低下する見込みである",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "日立の50億円の効率化投資のような共同研究開発がイノベーションを推進し、国内企業の優位性を保っている",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の1,000億円規模の計画に支えられたリサイクルは、2030年までに年間1,000トンの生産を可能にし、輸入依存度を25%にまで削減する可能性があります",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "本調査では、2032年までの永久磁石産業の市場規模、シェア、成長見通し、主要プレーヤー、主要セグメントを調査します",
+    "url": "https://www.dreamnews.jp/press/0000330630",
+    "pass": 3
+   },
+   {
+    "quote": "世界全体では、永久磁石市場規模は2024年に414.4億米ドル、2032年には795.8億米ドルと推定され、予測期間（2025～2032年）において年平均成長率（CAGR）8.5%で成長します",
+    "url": "https://www.dreamnews.jp/press/0000330630",
+    "pass": 3
+   },
+   {
+    "quote": "2026 市場規模",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には、永久磁石モーターの市場規模は618億米ドルに達すると推定されています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の世界の希土類金属化合物貿易額は35億2000万ドルに達し、2022年の34億ドルから3.49%増加しました",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "基準年市場規模（2025年）",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "予測年市場規模（2035年）",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石モーターの市場規模は2025年に587億9,000万米ドルと評価され、2026年から2035年の予測期間中に9.7%のCAGRで成長し、2035年末までに1,324億5,000万米ドルに達すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石モーター市場規模は、2025年には483億1000万米ドルと評価され、2026年の531億4000万米ドルから2034年には1139億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は10%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "交流（AC）モーター分野は、他の永久磁石モーター製品タイプを凌駕しており、2030年までに450億5298万米ドルの市場規模に達すると予想され、予測期間中の年平均成長率（CAGR）は9.35%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、予測期間中に年平均成長率（CAGR）11%という最高成長率を達成し、2030年までに162億8,000万米ドルの市場規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石モーターの市場規模は、2026年には531億4000万米ドルと評価され、2034年までに1139億1000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は10%です",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "ギアモーター市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "DINレール市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "兆円を超える市場規模となることが予測されている9",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 国内の洋上風力発電の市場規模予測は2020 年度20 億円から2030 年度9,200 億円にまで増加することの試算もある",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "モーター用磁石の世界市場（2026年～2032年）、市場規模（ネオジム鉄ホウ素（NdFeB）、フェライト、サマリウムコバルト（SmCo）、アルニコ）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/7477976",
+    "pass": 3
+   },
+   {
+    "quote": "モーター用磁石の世界市場（2026年～2032年）、市場規模（ネオジム鉄ホウ素（NdFeB）、フェライト、サマリウムコバルト（SmCo）、アルニコ）・分析レポートを発表",
+    "url": "https://newscast.jp/news/7477976",
+    "pass": 3
+   },
+   {
+    "quote": "世界のモーター用磁石市場規模は、2025年の157億9,900万米ドルから2032年には211億3,900万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）4.3%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/7477976",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、2021年から2026年までの地理的地域別および国/地域別のモーター用磁石市場規模（年間販売量および年間収益）の歴史的データが分析されています",
+    "url": "https://newscast.jp/news/7477976",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルモーター用磁石の市場規模が地域別（2027-2032）に予測され、年間収益予測も含まれます",
+    "url": "https://newscast.jp/news/7477976",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の会議室ソリューション市場規模、新興技術、機会、2024年から2032年までの予測",
+    "url": "https://www.atpress.ne.jp/news/4424103",
+    "pass": 3
+   },
+   {
+    "quote": "日本のスマートメーター市場規模2024年シェア、成長洞察、競争環境、収益、最新動向、SWOT分析、2032年までの予測",
+    "url": "https://www.atpress.ne.jp/news/4424103",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "これは、電気自動車およびハイブリッド車、エレクトロニクス、ロボット工学、産業用オートメーション、再生可能エネルギーシステムにおける磁石需要の高まりに支えられ、2026年から2035年にかけて年平均成長率（CAGR）3.00％で拡大すると見込まれています",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けた日本磁石市場は、EV、産業ロボット、再生可能エネルギー、高効率家電など複数の需要分野に支えられ、緩やかながら持続的な拡大が予測される",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2025年の26億米ドルから2035年には34億米ドルへ拡大し、2026～2035年にCAGR 3.00％で成長すると予測されており、今後の市場発展を評価するうえでは、単純な数量成長だけでなく、どの最終産業が高機能磁石への需要を生み出すのかを把握することが企業戦略上の重要な論点となります",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、日本磁石市場を評価する際には、自動車やロボットなどの完成品市場の成長率だけを見るのではなく、電動化・自動化によって1台・1システム当たりの磁石使用量や高性能磁石の採用機会がどのように変化するかを分析することが、2035年までの需要ポテンシャルを見極めるうえで重要になります",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場が2025年の26億米ドルから2035年に34億米ドルへ拡大する見通しのなか、企業にとって重要なのは市場全体の成長率だけではなく、どの磁石カテゴリー・用途・技術領域で平均を上回る成長機会が生まれるのかを特定し、研究開発投資、設備投資、製品ラインアップ、顧客開拓を連動させることです",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "これは、電気自動車およびハイブリッド車、エレクトロニクス、ロボット工学、産業用オートメーション、再生可能エネルギーシステムにおける磁石需要の高まりに支えられ、2026年から2035年にかけて年平均成長率（CAGR）3.00％で拡大すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けた日本磁石市場は、EV、産業ロボット、再生可能エネルギー、高効率家電など複数の需要分野に支えられ、緩やかながら持続的な拡大が予測される",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2025年の26億米ドルから2035年には34億米ドルへ拡大し、2026～2035年にCAGR 3.00％で成長すると予測されており、今後の市場発展を評価するうえでは、単純な数量成長だけでなく、どの最終産業が高機能磁石への需要を生み出すのかを把握することが企業戦略上の重要な論点となります",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、日本磁石市場を評価する際には、自動車やロボットなどの完成品市場の成長率だけを見るのではなく、電動化・自動化によって1台・1システム当たりの磁石使用量や高性能磁石の採用機会がどのように変化するかを分析することが、2035年までの需要ポテンシャルを見極めるうえで重要になります",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場が2025年の26億米ドルから2035年に34億米ドルへ拡大する見通しのなか、企業にとって重要なのは市場全体の成長率だけではなく、どの磁石カテゴリー・用途・技術領域で平均を上回る成長機会が生まれるのかを特定し、研究開発投資、設備投資、製品ラインアップ、顧客開拓を連動させることです",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "レポートオーシャン株式会社プレスリリース : 日本磁石市場、2035年に34億米ドル規模へ｜CAGR 3.00％、電気自動車・産業用ロボット・省エネモーター向け高性能磁石の技術革新が市場成長を促進 - 宮崎日日新聞DIGITAL",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "レポートオーシャン株式会社プレスリリース : 日本磁石市場、2035年に34億米ドル規模へ｜CAGR 3.00％、電気自動車・産業用ロボット・省エネモーター向け高性能磁石の技術革新が市場成長を促進",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査によると、**2025年の市場規模26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間における年平均成長率（CAGR）は3.00％**と予測されています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けて、日本磁石市場は電動車両、産業用ロボット、スマートファクトリー、再生可能エネルギー設備などを中心に、安定した需要の拡大が期待されています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年の26億米ドルから2035年には34億米ドルへと成長する見通しですが、企業にとって重要なのは市場全体の拡大率だけではありません",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2025年の26億米ドルから2035年には34億米ドルへ拡大し、CAGR 3.00％で成長すると予測されていますが、経営層にとって重要なのは市場全体の成長率そのものではなく、今後10年間でどの用途が新たな収益源になるのかという点です",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドル規模へ達すると予測される一方、CAGRは3.00％であり、市場全体の成長だけに依存した事業拡大には限界があります",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場が緩やかに拡大するからこそ、2035年までの競争では「市場が成長するのを待つ」のではなく、どの用途・技術・顧客層で高い利益プールを獲得するかを先に定義することが、日本磁石市場で持続的な競争優位を構築するポイントになります",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場 約に699億5,000万米ドル規模、CAGR約8.19%",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "率（CAGR）が8.19%で",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "モルドール・インテリジェンスのレポートによると、世界の永久磁石市場規模は2025年に518億ドルと推定され、2030年には698.1億ドルに達すると予測されており、予測期間（2025年～2030年）における年平均成長率（CAGR）は6.15%です",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 材料タイプ別: フェライト磁石が2024年に永久磁石市場シェアの46.71%を占め、ネオジム-鉄-ホウ素磁石は2030年までに最速の7.12%のCAGRを記録すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "「その他の最終用途産業」セグメントは、2030年までに8.50%のCAGRで拡大すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 地域別: アジア太平洋地域が2024年に永久磁石市場シェアの53.67%を占め、2030年までに最も高い7.20%のCAGRを記録すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "対照的に、ネオジム-鉄-ホウ素磁石は、収益では小さいものの、EVトラクションモーターや高エネルギー密度を要求する直接駆動型風力タービン発電機のおかげで、7.12%のCAGRで最も速く成長しています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム-鉄-ホウ素用途の永久磁石市場規模は、2030年までにこれらの用途が拡大するにつれて大幅に拡大する見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器、手術用ロボット、高度診断をグループ化した「その他の最終用途産業」は、低侵襲手術における精密な作動ニーズに牽引され、最高の8.50%のCAGRを記録しています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、中国の完全な希土類バリューチェーンと膨大な電子機器生産に支えられ、2024年に永久磁石市場の53.67%を占め、2030年までに7.20%のCAGRが見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "ブラジルの拡大する風力回廊とサウジアラビアのグリーン水素プロジェクトは、大規模な永久磁石発電機を必要とし、今後10年間で地域サプライチェーンへの新規投資を促進するでしょう",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "Astute Analyticaの最新調査結果によると、日本のネオジム鉄ボロン磁石市場は2024年に9億9,289万米ドルと評価され、2025～2033年の予測期間中に2.28%のCAGRで成長し、2033年には12億1,192万米ドルに達すると予想されています",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、日本は前年比12%増の4.8GWの風力発電設備を導入しました",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "日本は2030年までに10GWの風力発電容量を目指しており、この分野の磁石需要は持続可能なエネルギーソリューションに向けた戦略的な推進を反映して、年平均成長率5%で成長する見込みです",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "焼結磁石の需要は、自動車とエネルギーの需要に牽引され、前年比12%増加し、トヨタのハイブリッド生産だけで750トンを消費した",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "今後、日本のネオジム鉄ボロン磁石市場の需要は、2024年の7,500トンから2.5%の年平均成長率（CAGR）で成長し、2030年には9,000トンに達すると予測されています",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "世界全体では、永久磁石市場規模は2024年に414.4億米ドル、2032年には795.8億米ドルと推定され、予測期間（2025～2032年）において年平均成長率（CAGR）8.5%で成長します",
+    "url": "https://www.dreamnews.jp/press/0000330630",
+    "pass": 3
+   },
+   {
+    "quote": "日本および世界の永久磁石市場は、2032年にかけて大幅な拡大が見込まれています",
+    "url": "https://www.dreamnews.jp/press/0000330630",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2027-2036",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間（2026年から2035年）中、年平均成長率（CAGR）9.7%で成長が見込まれます",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、世界貿易は、COVID-19パンデミックに伴うサプライチェーンの混乱や不足に対応するために事業拡大を目指す地域の産業の成長を形作ります",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "World Roboticsのレポートによると、2023年9月時点で世界中の工場で稼働しているPMMの数は4,281,585台で、前年比10%増となりました",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "連邦通信委員会（FCC）も、計画中の5Gイニシアチブに基づく周波数帯の展開により、冷却システム、アンテナアクチュエーター、通信モジュールなどの接続技術におけるPMMの適用範囲が拡大すると示唆しています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "NFTDCの高度な希土類材料に関する専門知識と、MAMの鉱業、粉末冶金、eモビリティ、資金調達における強みを活かし、年間500TPYの磁石生産を目標とするTRL-9プラントを推進し、2030年までに年間5,000TPAに拡大して自立を目指します",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石モーター市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石モーター市場規模は、2025年には483億1000万米ドルと評価され、2026年の531億4000万米ドルから2034年には1139億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は10%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "交流（AC）モーター分野は、他の永久磁石モーター製品タイプを凌駕しており、2030年までに450億5298万米ドルの市場規模に達すると予想され、予測期間中の年平均成長率（CAGR）は9.35%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム分野は、2030年までに年平均成長率（CAGR）11%で493億9000万米ドルの収益を生み出すと予測されている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "一般産業分野は市場への貢献度が最も高く、予測期間中の年平均成長率（CAGR）9%で成長し、2030年には180億7,400万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の永久磁石モーター市場は、2030年までに年平均成長率（CAGR）9%で成長し、384億2,400万米ドルの規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、予測期間中に年平均成長率（CAGR）11%という最高成長率を達成し、2030年までに162億8,000万米ドルの市場規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、COVID-19のパンデミックの拡大により、製造業などの産業分野で大きな応用可能性を持ち、産業界での採用が著しいPMMの市場は混乱する可能性が高い",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、中国におけるEVの販売台数は、2020年には前年比23%減の82万1000台になると予想されているが、感染拡大の影響で下半期には販売台数の回復が見込まれている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2020年、この南米の国では約2万台が販売され、前年比で66%以上増加した",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石モーターの市場規模は、2026年には531億4000万米ドルと評価され、2034年までに1139億1000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は10%です",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石モーター市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）10%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "そのため、日本磁石市場を評価する際には、自動車やロボットなどの完成品市場の成長率だけを見るのではなく、電動化・自動化によって1台・1システム当たりの磁石使用量や高性能磁石の採用機会がどのように変化するかを分析することが、2035年までの需要ポテンシャルを見極めるうえで重要になります",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "Report Ocean株式会社は、市場調査およびコンサルティングの分野で、正確で信頼性の高い最新の調査データおよび技術コンサルティングを求める個人および企業に対して、7年以上にわたり高度な分析的研究ソリューション、カスタムコンaサルティング、深いデータ分析を提供するリーディングカンパニーです",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、日本磁石市場を評価する際には、自動車やロボットなどの完成品市場の成長率だけを見るのではなく、電動化・自動化によって1台・1システム当たりの磁石使用量や高性能磁石の採用機会がどのように変化するかを分析することが、2035年までの需要ポテンシャルを見極めるうえで重要になります",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "Report Ocean株式会社は、市場調査およびコンサルティングの分野で、正確で信頼性の高い最新の調査データおよび技術コンサルティングを求める個人および企業に対して、7年以上にわたり高度な分析的研究ソリューション、カスタムコンaサルティング、深いデータ分析を提供するリーディングカンパニーです",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "Report Ocean株式会社は、市場調査およびコンサルティングの分野で、正確で信頼性の高い最新の調査データおよび技術コンサルティングを求める個人および企業に対して、7年以上にわたり高度な分析的研究ソリューション、カスタムコンaサルティング、深いデータ分析を提供するリーディングカンパニーです",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "EV生産は2030年までに年間27%の成長が見込まれており、各車両にはトラクション、ステアリング、熱システム用に2～5kgの高エネルギー磁石が組み込まれるため、希土類磁石の需要が大幅に増加しています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "単一の15MW洋上タービンは、ギアボックスベースのユニットの3倍にあたる最大600kgのネオジムベース磁石を必要とすることがあります",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日立が2025年1月に7,000台の発電機をサービスするJoliet Electric Motorsを買収したことは、これらの磁石を豊富に含む機械に関連する長期的なアフターマーケット収益を裏付けています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "MP Materialsは2025年第1四半期にNdPr生産量を563トンに引き上げ、四半期収益6080万ドルを計上し、国内産希土類処理の初期の牽引力を示しています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 2025年2月: JLMAG INNOVATIONは、高性能希土類永久磁石の製造能力を年間20,000トンから60,000トンに拡大する2年間のプロジェクトを発表しました",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.12 VACUUMSCHMELZE GmbH & Co. KG",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "体制を強化すべく、2030年時点の国内需要量を満たす生産能",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 需要見通し：自動車の電動化に伴い、１台あたりに",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 中国国内の組織・個人による中国以外の国・地域へのレアアース関連技術の輸出に、輸出許可取得を",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "目標：2030年時点の国内需要量を十分に満たす生産能力増強を実施し、国内需要に応える状況にする",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• ネオジム磁石の生産能力増強は年500 トン以上、本事業開発成果を用いた生産能力増強は年100 トン以上(最先端技術を生み出す研究開発所や一定規模の",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• サマリウムコバルト磁石の製造設備投資は年100 トン以上の能力保持",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 重希土類フリー永久磁石の製造設備投資は年100 トン以上の能力保持",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取組対象：既存のリサイクルプロセス設備増強は当該設備にて年500トン以上のネオジム磁石生産、新規リサイクル技術設備導入は当該設備にて年200トン以上",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "目標：電動車用駆動モーターに搭載可能な重希土類フリー永久磁石の開発とネオジム使用量を半減したネオジム磁石等の開発を5年程度の期限で行う",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "輸送の脱炭素化を求める世界的な圧力を受け、日本のEV生産台数は急増し、トヨタ、日産、ホンダなどの大手メーカーが牽引し、今年は2023年から15％増の120万台を超える",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "これらの車両は、ブラシレスDCモーターの90％以上に動力を供給するNdFeB磁石に圧倒的に依存しており、モーター1台あたり1～2kgのNdFeB磁石が必要となる",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "これは、EVセクターだけで年間1,200～2,400トンの需要に相当し、この数字は、2024年に発売されるトヨタの次世代プリウスハイブリッドと日産のアリアEVによってさらに高まる",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "タービン1メガワットあたり600～800kgのこれらの磁石が必要であり、今年の風力発電による消費量は2,880～3,840トンに上ります",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、日本は3,200万台のスマートフォンを出荷し、各スマートフォンのスピーカー、振動モーター、センサーには0.5～1gのNdFeB磁石が組み込まれており、年間合計16～32トンに相当します",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデータ駆動型経済に不可欠なハードディスクドライブ（HDD）は、データセンター投資の10％増加に後押しされ、200トンを消費しました",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "全国で6,200台（2023年比7%増）の磁気共鳴画像診断装置（MRI）は、安定した高強度磁場を得るためにNdFeB磁石を使用しており、1台あたり50～100kg、今年の消費量は310～620トンと見込まれている",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "TDKの高性能磁石は画像精度を高め、東ソーは2024年にロボット手術やウェアラブル向けの磁気パルス治療ツールを発売する予定で、この消費量は50～70トンに上る",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、日立金属（1,800トン）、信越化学工業（1,200トン）、TDK（800トン）が主導し、日本は年間需要7,500トンの60%を賄う4,500トンのネオジム鉄ボロン磁石を国内で生産しました",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "残りの2,800トンは主に中国からの輸入に頼っており、日本は地政学的リスクにさらされています",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に中国が輸出割当量を厳しく制限したため、REE供給量は10％減少し、ネオジム価格は2023年から8％上昇して12,000円/kg（80ドル/kg）となった",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "これに対抗するため、日本はリサイクルを強化し、使用済みHDDとEVモーターから400トンのネオジムを回収した",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、NdFeB1トンあたり12MWhという製造コストの高騰は、収益性を圧迫しています",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "このことが、ボンドNdFeB磁石のイノベーションを促し、2024年には15%増の900トンに達し、コスト削減（1kgあたり8,000円）と電子機器や小型モーターへの柔軟性をもたらします",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "焼結磁石の需要は、自動車とエネルギーの需要に牽引され、前年比12%増加し、トヨタのハイブリッド生産だけで750トンを消費した",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "【記念艦三笠監修】記念艦三笠100周年記念モデル 実物の木甲板を台座に...",
+    "url": "https://www.dreamnews.jp/press/0000330630",
+    "pass": 3
+   },
+   {
+    "quote": "■1984年：ネオジム磁石の台頭",
+    "url": "https://www.unitec-mt.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": ": 長方形磁石は、20 個または複数の長方形の永久磁石で構成され、構造が簡単で、加工が容易で、材料の利用率が高いため、永久磁石内蔵同期モーターによく使用されます",
+    "url": "https://tymagnets.com/ja/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E7%A3%81%E7%9F%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "在庫のある商品なら17時までの注文で磁石1個から日本全国送料弊社負担で即日発送ができます",
+    "url": "https://mono.ipros.com/cg1/%E7%A3%81%E7%9F%B3/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "-重希土使用量を50~80%減少させた組成で同等の保磁力が得られる",
+    "url": "https://mono.ipros.com/cg1/%E7%A3%81%E7%9F%B3/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "1個から当日全国発送対応",
+    "url": "https://mono.ipros.com/cg1/%E7%A3%81%E7%9F%B3/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "1台あたりの単価が高い",
+    "url": "https://www.topmag.in/ja/ceiling-fan-magnets/",
+    "pass": 3
+   },
+   {
+    "quote": "1台当たりの単価を下げる",
+    "url": "https://www.topmag.in/ja/ceiling-fan-magnets/",
+    "pass": 3
+   },
+   {
+    "quote": "標準金型100個",
+    "url": "https://www.topmag.in/ja/ceiling-fan-magnets/",
+    "pass": 3
+   },
+   {
+    "quote": "FAプロダクツは年間200台もの実績がある関東最大級のロボットシステムインテグレーターです",
+    "url": "https://fa-products.jp/column/pm-motor-basics/",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関（IEA）によると、電気自動車の世界販売台数は2024年には25%以上増加し、1,700万台に達すると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "2020年に納入された電気自動車の総台数は、2023年より2024年に販売された350万台多い台数によってのみ上回られました",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "中国は年間16,000トンの希土類永久磁石をヨーロッパに輸出しており、これはEU市場のほぼ98%を占めています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "World Roboticsのレポートによると、2023年9月時点で世界中の工場で稼働しているPMMの数は4,281,585台で、前年比10%増となりました",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "年間50万台以上の設置台数は3年連続で増加しています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "25トンの遠心圧縮機を28馬力のモーターで駆動すると、年間約9000kWhの電力を節約でき、モーターと電子機器の効率向上により10%から15%のエネルギー節約につながります",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車の保有台数は2024年末までに約5,800万台に増加し、2021年の電気自動車保有台数の3倍以上、乗用車全体の約4%を占めることになります",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電気自動車販売台数に占める中国のシェアは2024年に急増し、電気自動車の販売台数は前年比で約40%増加しました",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "欧州で2番目に大きな自動車市場である英国では、電気自動車の販売台数が2023年の24%から約30%に増加しました",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月、ロボット工学やIoT対応製造などのICTアプリケーション向けの台形ステータラジアルフラックス永久磁石（RFPM）モーターを生産するために、インドのハリヤナ州に新しい工場を開発しました",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関によると、プラグイン電気自動車の売上高は2020年までに300万台に達する見込みです",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、中国におけるEVの販売台数は、2020年には前年比23%減の82万1000台になると予想されているが、感染拡大の影響で下半期には販売台数の回復が見込まれている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2020年第2四半期、フィアット・クライスラー・オートモービルズNVは販売台数が39%減少したことを明らかにした",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "ブラジル電気自動車協会によると、新型コロナウイルス感染症のパンデミックによる悪影響にもかかわらず、ブラジルでは2020年に電気自動車とハイブリッド車の販売台数が増加した",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2020年、この南米の国では約2万台が販売され、前年比で66%以上増加した",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "こうした用途別の要求水準の違いが、汎用磁石と高性能磁石の市場構造を変え、材料メーカーに新たな技術開発と製品差別化の機会をもたらしている",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "今後、自動車メーカーが車両全体の効率改善と部品の軽量化を進めるにつれ、磁石メーカーには磁力、耐熱性、耐久性、コストを総合的に最適化する技術力が求められる",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "電動化は需要拡大の機会であると同時に、材料性能と供給安定性をめぐる競争を激化させる要因にもなる",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、希土類使用効率の高い磁石、リサイクル技術、および先進的な材料組成の開発が、国内メーカーに新たなビジネスチャンスをもたらしています",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置、電子部品製造設備、医療機器製造ラインなど、高度な自動化が必要な領域では、装置メーカーと磁石メーカーによる共同開発の重要性が高まると考えられる",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "磁石メーカーにとっては、標準品の供給から、顧客の装置仕様に合わせた高付加価値製品の開発へと事業領域を広げる機会が生まれている",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本では省エネルギー性能が製品競争力を左右するため、磁石メーカーにはエネルギー効率と製造コストを両立する技術開発が求められる",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース調達の安定化が日本磁石産業の最重要課題に――中国依存の低減と国際的な供給網再編が加速",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場拡大の一方で、磁石産業は原材料の供給リスクという構造的な課題を抱えている",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム磁石に使用されるレアアースのうち、ジスプロシウムやテルビウムは高温環境での磁気性能維持に重要だが、供給源が特定地域に集中している",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月には、JOGMECと岩谷産業がフランスのCaremagによるレアアース精製事業への出資と長期供給契約を発表した",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、原材料価格だけでなく、調達先の分散、供給契約の長期化、地政学的リスクへの対応力が、磁石メーカーの競争優位性を決定する重要な要素となるだろう",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "また、磁石メーカーにとっては、回収・再資源化事業者との連携や、製品設計段階からリサイクルを考慮した材料開発が新たな差別化要因となる",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けた日本磁石市場の成長戦略――高性能材料、安定供給、顧客との共同開発が企業価値を左右する",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "こうした用途別の要求水準の違いが、汎用磁石と高性能磁石の市場構造を変え、材料メーカーに新たな技術開発と製品差別化の機会をもたらしている",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "今後、自動車メーカーが車両全体の効率改善と部品の軽量化を進めるにつれ、磁石メーカーには磁力、耐熱性、耐久性、コストを総合的に最適化する技術力が求められる",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "電動化は需要拡大の機会であると同時に、材料性能と供給安定性をめぐる競争を激化させる要因にもなる",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、希土類使用効率の高い磁石、リサイクル技術、および先進的な材料組成の開発が、国内メーカーに新たなビジネスチャンスをもたらしています",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置、電子部品製造設備、医療機器製造ラインなど、高度な自動化が必要な領域では、装置メーカーと磁石メーカーによる共同開発の重要性が高まると考えられる",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "磁石メーカーにとっては、標準品の供給から、顧客の装置仕様に合わせた高付加価値製品の開発へと事業領域を広げる機会が生まれている",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本では省エネルギー性能が製品競争力を左右するため、磁石メーカーにはエネルギー効率と製造コストを両立する技術開発が求められる",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース調達の安定化が日本磁石産業の最重要課題に――中国依存の低減と国際的な供給網再編が加速",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場拡大の一方で、磁石産業は原材料の供給リスクという構造的な課題を抱えている",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム磁石に使用されるレアアースのうち、ジスプロシウムやテルビウムは高温環境での磁気性能維持に重要だが、供給源が特定地域に集中している",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月には、JOGMECと岩谷産業がフランスのCaremagによるレアアース精製事業への出資と長期供給契約を発表した",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、原材料価格だけでなく、調達先の分散、供給契約の長期化、地政学的リスクへの対応力が、磁石メーカーの競争優位性を決定する重要な要素となるだろう",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "また、磁石メーカーにとっては、回収・再資源化事業者との連携や、製品設計段階からリサイクルを考慮した材料開発が新たな差別化要因となる",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けた日本磁石市場の成長戦略――高性能材料、安定供給、顧客との共同開発が企業価値を左右する",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では、自動車メーカーや電子部品メーカーが高効率化、小型化、省エネルギー化を進めており、高性能永久磁石の戦略的重要性が高まっています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ネオジムなどの希土類元素（レアアース）の安定調達、原材料価格の変動、海外メーカーとの競争は、国内磁石メーカーにとって重要な経営課題となっています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車メーカーが航続距離の改善、エネルギー消費の削減、車両性能の向上を追求するなかで、磁性材料の性能は重要な技術要素となっています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車関連サプライチェーンでは、完成車メーカーだけでなく、モーターメーカー、電子部品メーカー、材料メーカーなど幅広い企業が磁石需要に関係しています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした需要の広がりは、自動車産業への依存を分散し、国内磁石メーカーが高付加価値用途を開拓する機会につながります",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場では、低価格品の大量供給だけでなく、顧客の技術要件に対応した高精度・高品質の磁石を提供できる企業が競争上の優位性を確立すると考えられます",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース供給への依存が経営課題に、調達先の多様化と材料革新が重要に",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの供給は国際的な資源開発、精製能力、輸出政策、地政学的情勢などの影響を受けるため、価格変動や供給制約が製造コストに直結する可能性があります",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本は希土類原材料の輸入への依存度が高く、安定した調達体制の構築が磁石メーカーと需要企業の双方にとって重要な課題となっています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、フェライト磁石などの代替材料や、希土類使用量を抑えた新しい磁性材料の開発も、用途によってはコスト競争力と供給安定性の改善につながります",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした技術革新は、磁石メーカーだけでなく、自動車、産業機械、電子部品、リサイクル関連企業にも新たな協業機会をもたらす可能性があります",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業には、精密製造技術、材料開発力、品質管理能力、自動車・電子機器メーカーとの技術連携という強みがあります",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場の次の成長段階では、単に強い磁石を製造するだけでなく、限られた資源で高い性能を実現し、安定供給と持続可能性を両立できる企業が市場での存在感を高めると期待されます",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本企業にとっては、既存の自動車・産業機器サプライチェーンを活用しながら、高性能・高信頼性磁石、用途別カスタム製品、長期供給契約へ展開できるかが、2035年までの市場成長を上回る収益機会を獲得する鍵となります",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模、シェア、競争環境、トレンド分析レポート、タイプ別、グレード別 、製造プロセス別、 エンドユーザー別、エンドユーザー別 – 用途別、 流通チャネル別 : 2026-2035年の機会分析と産業予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギーコストの上昇やレアアース元素の合金などの原材料の供給の変動により、磁石の品質や価格にばらつきが生じています",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、供給チェーンが混乱し、メーカーが質の高い製品を低価格で提供することが難しくなっています",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、ハードウェアおよび電子機器メーカーによる永久磁石の需要が増加しています",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "競合企業のプロファイルや市場シェア情報の追加",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 永久磁石市場の規模・シェア分析：成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場の規模・シェア分析：成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "中国が2024年から2025年にかけてジスプロシウム、テルビウム、その他の重希土類に対する輸出規制を導入したことは、調達戦略を再構築し、欧米の自動車メーカーや風力タービンOEMが新たな供給ラインを確保し、国内での磁石生産に投資する動きを加速させています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ネオジム価格は2022年のピークから42%下落しましたが、供給保証プレミアムは依然として存在し、統合生産者やリサイクル業者に有利な不安定な価格環境を作り出しています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 材料タイプ別: フェライト磁石が2024年に永久磁石市場シェアの46.71%を占め、ネオジム-鉄-ホウ素磁石は2030年までに最速の7.12%のCAGRを記録すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 地域別: アジア太平洋地域が2024年に永久磁石市場シェアの53.67%を占め、2030年までに最も高い7.20%のCAGRを記録すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの材料は、希土類磁石ほどの高性能ではないものの、低コストで供給が安定しているため、一部の市場セグメントで採用が進んでいます",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "この抑制要因は、許可取得が長期化するため、新規一次供給に長期的な足かせとなっています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "フェライト磁石は、低コストと豊富な酸化鉄原料により、2024年に永久磁石市場シェアの46.71%を占めました",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場が、電動化と産業の高度化を背景に新たな成長段階を迎えようとしている",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では、自動車産業の電動化、製造現場の省人化、エネルギー効率の改善が進むなか、磁石に求められる性能と調達条件が大きく変化している",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場はなぜ2035年まで成長を続けるのか――成熟した製造業市場に生まれる新たな需要と高付加価値化の機会",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は、既存産業における安定した需要を基盤としながら、次世代モビリティや高度な産業機器向けの需要拡大によって成長すると見込まれる",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業は、日本磁石市場の中長期的な需要を左右する主要分野の一つである",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場において、ネオジム磁石などの希土類永久磁石は、高性能モーターや精密機器に不可欠な材料として重要性を増している",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2025年に26億米ドルの規模となり、2035年までに34億米ドルに達すると予測されています",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、ネオジム・鉄・ホウ素（NdFeB）セグメントは、その極めて高い磁力、コンパクトなサイズ、および小型化と高効率化された用途への適性を背景に、日本の磁石市場を独占しました",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車産業における電動化の進展に加え、ロボット工学、工場自動化、精密機械、クリーンエネルギー技術への投資が、高性能永久磁石に対する持続的な需要を生み出しています",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、希土類使用効率の高い磁石、リサイクル技術、および先進的な材料組成の開発が、国内メーカーに新たなビジネスチャンスをもたらしています",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "産業ロボットと工場自動化が新たな需要を形成――日本の製造現場で進む省人化投資が精密磁石の価値を高める",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場が、電動化と産業の高度化を背景に新たな成長段階を迎えようとしている",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では、自動車産業の電動化、製造現場の省人化、エネルギー効率の改善が進むなか、磁石に求められる性能と調達条件が大きく変化している",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場はなぜ2035年まで成長を続けるのか――成熟した製造業市場に生まれる新たな需要と高付加価値化の機会",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は、既存産業における安定した需要を基盤としながら、次世代モビリティや高度な産業機器向けの需要拡大によって成長すると見込まれる",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業は、日本磁石市場の中長期的な需要を左右する主要分野の一つである",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場において、ネオジム磁石などの希土類永久磁石は、高性能モーターや精密機器に不可欠な材料として重要性を増している",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2025年に26億米ドルの規模となり、2035年までに34億米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、ネオジム・鉄・ホウ素（NdFeB）セグメントは、その極めて高い磁力、コンパクトなサイズ、および小型化と高効率化された用途への適性を背景に、日本の磁石市場を独占しました",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車産業における電動化の進展に加え、ロボット工学、工場自動化、精密機械、クリーンエネルギー技術への投資が、高性能永久磁石に対する持続的な需要を生み出しています",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、希土類使用効率の高い磁石、リサイクル技術、および先進的な材料組成の開発が、国内メーカーに新たなビジネスチャンスをもたらしています",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "産業ロボットと工場自動化が新たな需要を形成――日本の製造現場で進む省人化投資が精密磁石の価値を高める",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "レポートオーシャン株式会社プレスリリース : 日本磁石市場、2035年に34億米ドル規模へ｜CAGR 3.00％、電気自動車・産業用ロボット・省エネモーター向け高性能磁石の技術革新が市場成長を促進 - 宮崎日日新聞DIGITAL",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "レポートオーシャン株式会社プレスリリース : 日本磁石市場、2035年に34億米ドル規模へ｜CAGR 3.00％、電気自動車・産業用ロボット・省エネモーター向け高性能磁石の技術革新が市場成長を促進",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は、自動車の電動化、産業用ロボットの高度化、製造現場の自動化を背景に、着実な成長が見込まれています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では、自動車メーカーや電子部品メーカーが高効率化、小型化、省エネルギー化を進めており、高性能永久磁石の戦略的重要性が高まっています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ネオジムなどの希土類元素（レアアース）の安定調達、原材料価格の変動、海外メーカーとの競争は、国内磁石メーカーにとって重要な経営課題となっています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.reportocean.co.jp/request-sample/japan-magnet-market",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場の成長を支える主要な要因の一つが、自動車産業における電動化の進展です",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車関連サプライチェーンでは、完成車メーカーだけでなく、モーターメーカー、電子部品メーカー、材料メーカーなど幅広い企業が磁石需要に関係しています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "磁石の種類別では、2025年にネオジム・鉄・ホウ素（NdFeB）磁石が日本市場の売上高で最大のセグメントとなりました",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業では、人手不足への対応、生産性の向上、品質管理の高度化を目的として、工場自動化やロボット技術の導入が進められています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした需要の広がりは、自動車産業への依存を分散し、国内磁石メーカーが高付加価値用途を開拓する機会につながります",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場では、低価格品の大量供給だけでなく、顧客の技術要件に対応した高精度・高品質の磁石を提供できる企業が競争上の優位性を確立すると考えられます",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場が成長を続ける一方で、重要な制約となっているのが希土類原材料の調達リスクです",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本は希土類原材料の輸入への依存度が高く、安定した調達体制の構築が磁石メーカーと需要企業の双方にとって重要な課題となっています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場において注目される成長機会の一つが、希土類使用効率に優れた高性能磁石の開発です",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本、中国、韓国は、コンピュータチップ、ハードディスク、マイクロプロセッサなどのコンピュータハードウェアデバイスの製造拠点として注目を集めています",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "対象国・地域の追加（日本国内の地域別分析など）",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "レポート言語： 英語、日本語",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN : 03-6899-2648",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国が2024年から2025年にかけてジスプロシウム、テルビウム、その他の重希土類に対する輸出規制を導入したことは、調達戦略を再構築し、欧米の自動車メーカーや風力タービンOEMが新たな供給ラインを確保し、国内での磁石生産に投資する動きを加速させています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "米国、ヨーロッパ、日本の政府は、使用済みEV、風力タービン、電子機器から磁石を回収するためのパイロットプラントに資金を提供しており、2045年までに年間12億ドルの材料回収の可能性があります",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "価格は2022年のピークから緩和されましたが、将来の割当に関する不確実性は、OEMに非中国産原料の備蓄または高値での購入を促し、短期的な投資意欲を減退させています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "不足により国内材料の価値が高まり、世界の供給におけるこの地域の牽引力を強化しています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は将来の重要磁石ニーズの20%をカバーすることを目指し、フランスの精製事業に1億ユーロを投入しました",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、インドは国内磁石工場を育成するために100億ルピーの計画を開始し、アジアの生産基盤をさらに多様化しています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "MP Materialsは2025年第1四半期にNdPr生産量を563トンに引き上げ、四半期収益6080万ドルを計上し、国内産希土類処理の初期の牽引力を示しています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のCaremag SASへの投資は、炭素排出量を削減し、原材料への依存を緩和するリサイクル技術に関する地域間の協力関係を示しています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツはブロック最大の自動車市場であり、国内磁石供給の要求を強めています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "この開発は、国内サプライチェーンを強化し、永久磁石市場の成長を促進すると期待されています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5.3.1.2 日本",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "日本の製造業では、人手不足への対応、生産性向上、品質の安定化を目的として、自動化設備の導入が重要な経営課題となっている",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース調達の安定化が日本磁石産業の最重要課題に――中国依存の低減と国際的な供給網再編が加速",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関（IEA）は、2025年の中国によるレアアース関連の輸出規制が、自動車産業を含む国際的なサプライチェーンに影響を与えたと分析している",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "こうした技術が実用化・普及すれば、輸入資源への依存度低減に加え、製造工程における資源効率の改善にもつながる可能性がある",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業では、人手不足への対応、生産性向上、品質の安定化を目的として、自動化設備の導入が重要な経営課題となっている",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース調達の安定化が日本磁石産業の最重要課題に――中国依存の低減と国際的な供給網再編が加速",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関（IEA）は、2025年の中国によるレアアース関連の輸出規制が、自動車産業を含む国際的なサプライチェーンに影響を与えたと分析している",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "こうした技術が実用化・普及すれば、輸入資源への依存度低減に加え、製造工程における資源効率の改善にもつながる可能性がある",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業では、人手不足への対応、生産性の向上、品質管理の高度化を目的として、工場自動化やロボット技術の導入が進められています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの供給は国際的な資源開発、精製能力、輸出政策、地政学的情勢などの影響を受けるため、価格変動や供給制約が製造コストに直結する可能性があります",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本は希土類原材料の輸入への依存度が高く、安定した調達体制の構築が磁石メーカーと需要企業の双方にとって重要な課題となっています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国が2024年から2025年にかけてジスプロシウム、テルビウム、その他の重希土類に対する輸出規制を導入したことは、調達戦略を再構築し、欧米の自動車メーカーや風力タービンOEMが新たな供給ラインを確保し、国内での磁石生産に投資する動きを加速させています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 希土類価格の変動と輸出規制:",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "このプロセスが商業化されれば、生産者はジスプロシウムの投入量を削減でき、供給制約を緩和し、モビリティおよび電力部門での幅広い採用を支援する可能性があります",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "不足により国内材料の価値が高まり、世界の供給におけるこの地域の牽引力を強化しています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "Niron Magneticsの窒化鉄の画期的な技術は、ネオジムコストの20%で、炭素排出量を70%削減できる可能性があり、輸出規制から身を守りながらESGスコアを向上させたい顧客を引き付けるかもしれません",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "希土類価格の変動と輸出規制、特に中国による2025年のライセンス制度は、ジスプロシウムやテルビウムの短期的な供給を逼迫させ、中国以外の材料のプレミアムを上昇させ、価格変動を増幅させる可能性があります",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.1 希土類価格の変動と輸出規制",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 他方、現状、 永久磁石の生産について特定国への依存度が高く、こうした状況からの脱却が急務",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 2025 年10月には、極微量であっても 中国産レアアースを含む 製品の再輸出規制 やレアアース及び電",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "池の生産設備・材料・技術の輸出規制 等の新たな輸出管理措置を発表",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．レアアース関連品目の「再輸出規制」（外国での輸出を規制）",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に完成した秋田能代沖合の1GW発電アレイのような洋上プロジェクトは、この依存度の高さを如実に示しており、日立金属はカスタマイズされた焼結NdFeB磁石を供給しています",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "これは2023年から20％増加しており、経済産業省（METI）による500億円（3億3,300万ドル）の投資によって国内REE処理能力が強化され、2022年には輸入依存度が45％から38％に低下する見込みである",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の1,000億円規模の計画に支えられたリサイクルは、2030年までに年間1,000トンの生産を可能にし、輸入依存度を25%にまで削減する可能性があります",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "一方、レアアースの中で比較的産出量が多いネオジムは、今後のハイブリッド車、電気自動車などの電動車の普及を想定すると不足することが懸念されているにもかかわらず、その取り組みが少ないのが現状です",
+    "url": "https://global.toyota/jp/newsroom/corporate/21137873.html",
+    "pass": 3
+   },
+   {
+    "quote": "* 持続可能性への取り組み: 原材料不足の懸念に対処するため、磁石のリサイクルと環境に優しい材料の開発が活発化しています",
+    "url": "https://www.dreamnews.jp/press/0000330630",
+    "pass": 3
+   },
+   {
+    "quote": "しかし充電能力不足で、走行のためには外部からの充電が不可欠で、充電できなければバッテリー切れで...",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "最近の米国商務省の報告書は、米国におけるネオジム・鉄・ホウ素（NdFeB）磁石の製造による輸入依存度の高さが、国家安全保障上の差し迫った問題であると指摘しています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、世界貿易は、COVID-19パンデミックに伴うサプライチェーンの混乱や不足に対応するために事業拡大を目指す地域の産業の成長を形作ります",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "希土類材料の供給制約：",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "地政学的関係、貿易協定の欠如、厳格な輸出割当量の影響により、供給不足が深刻化し、関税の脅威にさらされたり、価格が一夜にして上昇したりする可能性があります",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "重工業省は、REPMスキームの下での国内製造の促進とPLI-Autoスキームを通じた代替モーター技術の支援により、インドの希土類磁石の輸入依存度を低減するための新たな取り組みを確認した",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "源のうち、特定国からの輸入依存度が高いもの、供給途絶リスクが高いもの及び将",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "原材料調達における特定国依存度を低下させるためには",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、フェライト磁石に関しては、原材料の特定国依存度は低いも",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "料であるレアアースの特定国への依存度を低減するため、低コストで磁石からレアアース",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "依存度を低減するためには、特定国以外からの原材料調達、レアアースフリー磁石の",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "レアアースの外部依存度を低減させ、永久磁石の安定供給体制を強化する",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "24 年法律第 228 号）の規定に基づく輸出規制・役務取引規制及び対内直接投資の厳格な運",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従来のNdFeB磁石やサマリウムコバルト磁石は対象外となり、希土類資源への依存度を下げながら、必要な磁気性能を確保する材料・製造技術が市場の中心となっています",
+    "url": "https://www.atpress.ne.jp/news/4424103",
+    "pass": 3
+   },
+   {
+    "quote": "EVモーター用永久磁石に不可欠「重レアアース」…中国依存低減へ、経産省が一手",
+    "url": "https://newswitch.jp/keyword/detail/2860",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石業界は現在、需給バランスの逼迫から構造的に強固な成長サイクルへの移行が加速している段階にある",
+    "url": "https://www.topmag.in/ja/permanent-magnets-history-and-procurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "パフォーマンス不足",
+    "url": "https://www.topmag.in/ja/permanent-magnets-history-and-procurement-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石のリサイクルとは？レアアースの中国依存を減らす国の2000億円計画をやさしく解説 | 情熱電力",
+    "url": "https://jo-epco.co.jp/permanent-magnet-recycling-rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石のリサイクルとは？レアアースの中国依存を減らす国の2000億円計画をやさしく解説",
+    "url": "https://jo-epco.co.jp/permanent-magnet-recycling-rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "3. なぜ今リサイクルなのか｜中国依存という供給リスク",
+    "url": "https://jo-epco.co.jp/permanent-magnet-recycling-rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "しやすく、特に保磁力が不足すると逆磁界によって不可逆減磁を起こすおそれがある点です",
+    "url": "https://engineer-education.com/nd-magnet-motor/",
+    "pass": 3
+   },
+   {
+    "quote": "これらはネオジムよりも供給量が限られ、特定地域への依存度も高いため、資源安定調達の観点から大きな課題となっています",
+    "url": "https://engineer-education.com/nd-magnet-motor/",
+    "pass": 3
+   },
+   {
+    "quote": "主原料のネオジムは、軽希土類に分類されるものの、精製過程での環境負荷や供給過多・不足のバランスが崩れやすく、価格が数年で数倍に跳ね上がるリスクがあります",
+    "url": "https://engineer-education.com/nd-magnet-motor/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Labour Shortage",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Bottleneck Holder",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Europe behind; risk of technology dependence",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Severe aging + labour shortage; most acute globally",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Eldercare deficit: 1.5Bn people over 65 by 2050; caregiver shortage acute",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Ans: The humanoid robot market was valued at USD 2.92 billion in 2025 and is projected to reach USD 57.3 billion by 2034, driven by AI advancements, automation demand, and global labor shortages.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Note that these figures compare global demand to global supply. A tightening of export controls on heavy REEs could still be disastrous for both the EV and robotics industries in the West, concentrating the production of both in China itself. Efforts to secure the critical mineral supply chain must remain a top priority.",
+    "url": "https://www.thefai.org/posts/the-robot-boom-has-a-magnet-problem",
+    "pass": 3
+   },
+   {
+    "quote": "Faced with incoming scarcity, the robotics industry is exploring ways to reduce its dependence on rare earths. The first option is ferrite magnets. Motors using ferrite magnets need to be about",
+    "url": "https://www.thefai.org/posts/the-robot-boom-has-a-magnet-problem",
+    "pass": 3
+   },
+   {
+    "quote": "do not bottleneck",
+    "url": "https://www.thefai.org/posts/the-robot-boom-has-a-magnet-problem",
+    "pass": 3
+   },
+   {
+    "quote": ". So despite the favorable shift, either input could end up as the binding constraint. If Chinese export controls tighten, robot production outside China scales only as fast as non-Chinese mining and processing of both light and heavy REEs can grow.",
+    "url": "https://www.thefai.org/posts/the-robot-boom-has-a-magnet-problem",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "我々は戦略および成長分析の洞察を提供し、企業の目標達成に必要なデータを提供し、将来の機会の活用を支援します",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "我々は戦略および成長分析の洞察を提供し、企業の目標達成に必要なデータを提供し、将来の機会の活用を支援します",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "我々は戦略および成長分析の洞察を提供し、企業の目標達成に必要なデータを提供し、将来の機会の活用を支援します",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を無駄にしないでください！",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "残りの予算を活用して、将来の成功を確かなものにしましょう",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "今すぐ予算を確保しよう！",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を2025年の実用的な",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算が失効する前に、 最大限に活用しよう!",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "将来の成功のために予算を活用しましょう",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "ご予算を最大限に活用するために、今すぐご登録ください",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の予算を最大限に活用する お手伝いをいたします!",
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国エネルギー省は、太平洋岸北西部国立研究所の溶媒フリー分離技術を支援しており、高純度でネオジムとジスプロシウムを回収しています",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "このプロセスが商業化されれば、生産者はジスプロシウムの投入量を削減でき、供給制約を緩和し、モビリティおよび電力部門での幅広い採用を支援する可能性があります",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行車プロセッサ市場規模、シェアおよびトレンド分析レポート：車両タイプ別（乗用車、商用車）、自律レベル別（レベル1、レベル2、レベル3、レベル4、レベル5）、アプリケーション別（高度運転支援システム（ADAS）、自律運転、車載インフォテインメントシステム、リアルタイムデータ処理、車両間通信（V2X））および地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障の確保に資するサプライチェーンの",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て、民間事業者等に対する支援を通じて安定供給確保を図る",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "行う取組に対し、必要な支援を強化する",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障の確保に資するサプライチェーンの強靱化事業（永久磁石）",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度補正予算要求額 170億円 製造産業局金属課",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【令和6年度補正予算 41億円】",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "支援し、永久磁石の国内における安定供給を確保し、サプライチェーンの",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 特定国からのレアアース依存を脱却するだけでなく、当面の国内需要を満たすために必要な国内生産基盤を維持するための設備投資支援を",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⇒経済安全保障基金事業(令和4～12年度、464億円) ①永久磁石製造設備の能力増強、②廃磁石からのレアアース原料リサイクル技術の",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "開発・導入、③省レアアース磁石の開発を支援",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "でレアアースの回収プロセスの国産化が可能となる技術開発を支援",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に向けた取組を支援",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【令和７年度補正予算 170億円】",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石製造設備の能力増強を行う取組に対し、必要な支援を強化する",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて本補助金の制度・運用を改善",
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これは2023年から20％増加しており、経済産業省（METI）による500億円（3億3,300万ドル）の投資によって国内REE処理能力が強化され、2022年には輸入依存度が45％から38％に低下する見込みである",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省によるリサイクル推進は効果を発揮するものの、規模は依然として限定的です",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の1,000億円規模の計画に支えられたリサイクルは、2030年までに年間1,000トンの生産を可能にし、輸入依存度を25%にまで削減する可能性があります",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "地球上の埋蔵量が希少であるか技術的・経済的な理由で抽出困難な金属のうち、安定供給の確保が政策的に重要な金属（経済産業省による定義）",
+    "url": "https://global.toyota/jp/newsroom/corporate/21137873.html",
+    "pass": 3
+   },
+   {
+    "quote": "モータの試作・開発支援",
+    "url": "https://www.unitec-mt.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/cg1/%E7%A3%81%E7%9F%B3/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "運転支援&情報通信",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "先進運転支援システム（ADAS）",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "緊急時操舵支援（AES）",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "先頭車運転支援システム",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "協調型車間距離維持支援システム（CACC）",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "車線逸脱防止支援（LKA)",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "駐車支援システムとは",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "運転支援システム構成部品",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "運転支援システム構成部品とは",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "その他運転支援システム構成部品",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "運転支援システムECU",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "駐車支援ECU",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "車線逸脱防止支援システム",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "運転支援システムECUとは",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "その他運転支援システムECU",
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "予算制約市場",
+    "url": "https://www.topmag.in/ja/ceiling-fan-magnets/",
+    "pass": 3
+   },
+   {
+    "quote": "手術用ロボットや診断装置、患者のリハビリを支援する機器",
+    "url": "https://fa-products.jp/column/pm-motor-basics/",
+    "pass": 3
+   },
+   {
+    "quote": "手術支援ロボットやMRI装置、超音波診断装置",
+    "url": "https://fa-products.jp/column/pm-motor-basics/",
+    "pass": 3
+   },
+   {
+    "quote": "FAプロダクツでは、シミュレーションの活用支援も行っておりますので、ぜひご相談ください！",
+    "url": "https://fa-products.jp/column/pm-motor-basics/",
+    "pass": 3
+   },
+   {
+    "quote": "技術開発への投資は相当な規模で、米国はNdFeB磁石の生産開発プログラムや、材料科学者や生産ライン作業員の人材育成を支援しています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "現在、アジア太平洋地域は中国の支援を受けてEV最大の生産国であり、2030年までこの地域のPMM市場需要に貢献しています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部門は、EVに対する政府の補助金、厳格な排出ガス規制、そして持続可能な交通手段に対する消費者の需要の高まりによって、成長が加速しています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、デジタルインフラとクリーンエネルギーを支援する政府の取り組みを牽引役として、2035年までに収益シェアの37%を占めると見込まれています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "この分野の成長は、デジタルインフラの拡大と政府の強力な支援によるものです",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルインディアや生産連動インセンティブ（PLI）スキームなど、いくつかの政府イニシアチブが、現地でのPMM製造と研究開発を支援しています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "これらの車両は、ブラシレスDCモーターの90％以上に動力を供給するNdFeB磁石に圧倒的に依存しており、モーター1台あたり1～2kgのNdFeB磁石が必要となる",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "日本のNdFeB消費量の35%を占める電子機器は依然として最大の最終用途分野であり、日常のイノベーションにおける磁石の役割を浮き彫りにしています",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "全国で6,200台（2023年比7%増）の磁気共鳴画像診断装置（MRI）は、安定した高強度磁場を得るためにNdFeB磁石を使用しており、1台あたり50～100kg、今年の消費量は310～620トンと見込まれている",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "市場の67.89%を占める焼結NdFeB磁石は、その強度（BHmax 35-50 MGOe）により、EVモーターや風力タービンなどの高性能用途で優れている",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "約24%のシェアを占める結合NdFeB磁石は、電子機器とロボット工学に対応しており、低コストと適応性により15%の成長を遂げており、パナソニックのロボット部門では使用量が18%増加した",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "1台あたりの単価が高い",
+    "url": "https://www.topmag.in/ja/ceiling-fan-magnets/",
+    "pass": 3
+   },
+   {
+    "quote": "1台当たりの単価を下げる",
+    "url": "https://www.topmag.in/ja/ceiling-fan-magnets/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石モーター市場におけるPMACセグメントは、2035年末までに45.2%の収益シェアを占めると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石モーター市場における自動車部門は、2035年末までに大きな収益シェアを占めると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車の保有台数は2024年末までに約5,800万台に増加し、2021年の電気自動車保有台数の3倍以上、乗用車全体の約4%を占めることになります",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、デジタルインフラとクリーンエネルギーを支援する政府の取り組みを牽引役として、2035年までに収益シェアの37%を占めると見込まれています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "希土類鉱業の約58%、酸化物分離市場の89%、金属化市場の90%を占める中国は、2020年のバリューチェーン上流段階においても優位に立っています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電気自動車販売台数に占める中国のシェアは2024年に急増し、電気自動車の販売台数は前年比で約40%増加しました",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石モーター市場の PMAC セグメントは、2035 年末までに収益シェアの 45.2% を占めると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、デジタル インフラストラクチャとクリーン エネルギーをサポートする政府の取り組みが牽引し、2035 年までに収益シェアの 37% を占めると見込まれています",
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、日本の大手メーカーの1社は、最新モデルに30キログラムもの希土類材料を使用しており、そのかなりの部分を占めるのがネオジム磁石です",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるエネルギーミックスに占める割合のうち風力発電は2019 年 0.7％から2030 年に５％まで増加させるこ",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "15 サマリウムコバルト磁石はＳｍＣｏ５系とＳｍ２Ｃｏ17 系の二種類があり、サマリウムの占める質量はＳｍＣｏ５系で約33％、Ｓｍ",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットは1台あたり8.5kg、業務用エアコンにもまとまった量の磁石が入っています ・廃棄物処理の委託先が、磁石の回収に対応しているかを聞いてみる ・調達側であれば、再生材の利用が今後どこまで求められるかを取引先と共有しておく",
+    "url": "https://jo-epco.co.jp/permanent-magnet-recycling-rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "• Feed-to-need economics are turning. At $20K BOM (Tesla's 2027–28 target), a humanoid delivers positive ROI vs. a $59,000/year US manufacturing worker within 18–24 months.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla Optimus Gen2 — Bom by Component Category ($K Per Unit)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "BOM at $50–60K blocks mass adoption; $20K target not yet achieved",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "US-China decoupling would disrupt 70%+ of global humanoid BOM",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "02. The $20k Bom Is the Adoption Trigger —",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "When Tesla Optimus BOM crosses below $25K, the consumer and mid-market adoption curve inflects. This is the single most important number in this entire market. Monitor quarterly disclosures.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "A humanoid robot is 25 to 35 powered joints wrapped in sheet metal, and the joints are where the money goes. This page walks the actuator bill of materials part by part — reducer, motor, screw, sensor — and tracks the price collapse that took Unitree’s average selling price down 72 percent in two years.",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Share of a Tesla Optimus-class ~$55,000 BOM taken by actuators, per Morgan Stanley estimates",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Chart 1 · Humanoid robot BOM by component category, China supply-chain estimate 2026",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "~16% of BOM",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "Because there are so many of them — 25 to 35 powered joints, each needing a motor, a precision transmission, at least one encoder and drive electronics — and because the transmissions are precision-machined parts with few qualified suppliers. Morgan Stanley’s estimate attributes about 56 percent of an Optimus-class BOM to actuators.",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "GrabaRobot — Humanoid Robot Bill of Materials: Where the ~$55K Actually Sits",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "(Morgan Stanley BOM estimate; ~56% actuator share; limb-by-limb breakdown; roller screw prices; Chinese-parts cost impact)",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "(BOM split by component; robot prices; 2030 price target; F/T sensor prices; domestic share)",
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本の ネオジム 鉄ホウ素 磁石 市場、2033年まで ... - Newscast.jp — 日本の ネオジム 鉄ホウ素 磁石 市場、2033年まで ... - Newscast.jp Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/5451602",
+    "pass": 3
+   },
+   {
+    "quote": "すぐ近くにある ネオジム磁石 - NeoMag — すぐ近くにある ネオジム磁石 - NeoMag ネオマグ株式会社 https://www.neomag.jp > mag_navi > column > world036",
+    "url": "https://www.neomag.jp/mag_navi/column/world036.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "スマホからEVまでを支配する1%の 磁石 ―― ネオジム が ... - note スマホからEVまでを支配する1%の 磁石 ―― ネオジム が ... - note note https://note.com > 科学・テクノロジー > 金属・鉱学",
+    "url": "https://note.com/lyco_pene/n/ne24102a00fae",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "スマホからEVまでを支配する1%の磁石――ネオジムが揺るがす地政学と技術の未来｜とまとの気分次第研究所",
+    "url": "https://note.com/lyco_pene/n/ne24102a00fae",
+    "pass": 3
+   },
+   {
+    "quote": "スマホからEVまでを支配する1%の磁石――ネオジムが揺るがす地政学と技術の未来",
+    "url": "https://note.com/lyco_pene/n/ne24102a00fae",
+    "pass": 3
+   },
+   {
+    "quote": "現代のエレクトロニクスと脱炭素技術を支える「緑の心臓」：ネオジム磁石の台頭",
+    "url": "https://note.com/lyco_pene/n/ne24102a00fae",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム磁石の物理的基礎：化学式 が生み出す史上最強の磁力と熱的改質",
+    "url": "https://note.com/lyco_pene/n/ne24102a00fae",
+    "pass": 3
+   },
+   {
+    "quote": "熱減磁という致命的弱点と添加元素のジレンマ",
+    "url": "https://note.com/lyco_pene/n/ne24102a00fae",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース需給の構造的集中：中国の垂直統合と「レッド・チェーン」の威力",
+    "url": "https://note.com/lyco_pene/n/ne24102a00fae",
+    "pass": 3
+   },
+   {
+    "quote": "地政学的武器としての輸出管理：2025年の規制強化と2026年の一時停止による一時的な猶予",
+    "url": "https://note.com/lyco_pene/n/ne24102a00fae",
+    "pass": 3
+   },
+   {
+    "quote": "私たちのポケットにあるスマートフォン、排気ガスを出さずに走る電気自動車、そして未来のクリーンエネルギーを紡ぐ巨大な風力発電。一見、異なる進化を遂げた最先端テクノロジーのように思えるこれらには、共通する「アキレス腱」が存在します。それが、現時点で人類史上最強の永久磁石とされる「ネオジム磁石」です。",
+    "url": "https://note.com/lyco_pene/n/ne24102a00fae",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "2026年から2033年までのボンディング ネオジム マグネット ... 2026年から2033年までのボンディング ネオジム マグネット ... LinkedIn https://jp.linkedin.com > pulse > 2026年から2033年まで...",
+    "url": "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E3%83%9C%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%8D%E3%82%AA%E3%82%B8%E3%83%A0%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%8C%85%E6%8B%AC-7507410385004752896-a40bf",
+    "pass": 3
+   },
+   {
+    "quote": "日本のボンディング ネオジム マグネット市場見通し2026 日本のボンディング ネオジム マグネット市場見通し2026 LinkedIn https://jp.linkedin.com > pulse > 日本のボンディングネオ...",
+    "url": "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%9C%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%8D%E3%82%AA%E3%82%B8%E3%83%A0%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E8%A6%8B%E9%80%9A%E3%81%972026-medaxis-intelligence-ddoze",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://newscast.jp/smart/news/9399503",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-permanent-magnet-motor-market",
+    "status": "http_522",
+    "method": "http"
+   },
+   {
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newscast.jp/news/5451602",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.toyota/jp/newsroom/corporate/21137873.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000330630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/ySk7z50B2jrwCtglFXMG",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitec-mt.com/permanent-magnet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tymagnets.com/ja/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E7%A3%81%E7%9F%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E7%A3%81%E7%9F%B3/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topmag.in/ja/ceiling-fan-magnets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fa-products.jp/column/pm-motor-basics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%83%A2%E3%83%BC%E3%82%BF%E5%B8%82%E5%A0%B4-101738",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newscast.jp/news/7477976",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4424103",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/400234",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newswitch.jp/p/6165",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topmag.in/ja/robots-magnets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proterial.com/blog/mag/mag005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neomag.jp/mag_navi/column/world036.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fabscene.com/new/news/niron-iron-nitride-rare-earth-free-magnet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/keyword/detail/2860",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topmag.in/ja/permanent-magnets-history-and-procurement-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jo-epco.co.jp/permanent-magnet-recycling-rare-earth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20241030-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://engineer-education.com/nd-magnet-motor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/rare-earth-magnets-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-article/electrification-and-robotics-to-drive-future-rare-earth-magnet-demand/34117",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/rare-earth-magnets-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iea.org/reports/rare-earth-elements/executive-summary",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thefai.org/posts/the-robot-boom-has-a-magnet-problem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crosscurrents28.substack.com/p/ndfeb-magnets-the-material-bottleneck",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lyco_pene/n/ne24102a00fae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E3%83%9C%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%8D%E3%82%AA%E3%82%B8%E3%83%A0%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%8C%85%E6%8B%AC-7507410385004752896-a40bf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%9C%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%8D%E3%82%AA%E3%82%B8%E3%83%A0%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E8%A6%8B%E9%80%9A%E3%81%972026-medaxis-intelligence-ddoze",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロボットモーター用の永久磁石（ネオジム） 市場規模 CAGR",
+   "results": [
+    "https://newscast.jp/smart/news/9399503",
+    "https://www.atpress.ne.jp/news/9399503",
+    "https://www.databridgemarketresearch.com/jp/reports/global-permanent-magnet-motor-market",
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html",
+    "https://www.reportocean.co.jp/industry-reports/permanent-magnet-market",
+    "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "https://www.reportprime.com/ja/%E3%83%8D%E3%82%AA%E3%82%B8%E3%83%A0%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88-r16549",
+    "https://jp.linkedin.com/pulse/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E6%88%90%E9%95%B7%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AE%E8%A9%95%E4%BE%A1%E4%BC%81%E6%A5%AD%E3%83%97%E3%83%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A8%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%AA%E3%82%89%E3%81%B3%E3%81%AB2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cag-7513696354548891648-1uibe",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E5%B8%82%E5%A0%B4-102776",
+    "https://en.wikipedia.org/wiki/JQuery_UI"
+   ]
+  },
+  {
+   "query": "ロボットモーター用の永久磁石（ネオジム） 需要 見通し 2030",
+   "results": [
+    "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/",
+    "https://newscast.jp/news/5451602",
+    "https://global.toyota/jp/newsroom/corporate/21137873.html",
+    "https://service.xenobrain.jp/forecastresults/market-size/permanentmagnet",
+    "https://www.dreamnews.jp/press/0000330630",
+    "https://www.atpress.ne.jp/news/9399503",
+    "https://finance.biggo.jp/news/ySk7z50B2jrwCtglFXMG",
+    "https://note.com/all_zero/n/n639df77e8576",
+    "https://www.walmart.com/"
+   ]
+  },
+  {
+   "query": "ロボットモーター用の永久磁石（ネオジム） 部品構成 コスト",
+   "results": [
+    "https://www.unitec-mt.com/permanent-magnet/",
+    "https://www.youtube.com/watch?v=5csncow21g4",
+    "https://global.toyota/jp/newsroom/corporate/21137873.html",
+    "https://tymagnets.com/ja/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E7%A3%81%E7%9F%B3/",
+    "https://mono.ipros.com/cg1/%E7%A3%81%E7%9F%B3/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC/",
+    "https://dictionary.marklines.com/ja/permanent-magnets-for-motors/",
+    "https://www.topmag.in/ja/ceiling-fan-magnets/",
+    "https://fa-products.jp/column/pm-motor-basics/"
+   ]
+  },
+  {
+   "query": "ロボットモーター用の永久磁石（ネオジム） シェア 主要企業",
+   "results": [
+    "https://www.databridgemarketresearch.com/jp/reports/global-permanent-magnet-motor-market",
+    "https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E3%83%A2%E3%83%BC%E3%82%BF%E5%B8%82%E5%A0%B4-101738",
+    "https://straitsresearch.com/jp/report/permanent-magnetic-motor-market",
+    "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "https://newscast.jp/news/7477976",
+    "https://www.atpress.ne.jp/news/4424103",
+    "https://global.toyota/jp/newsroom/corporate/21137873.html",
+    "https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/"
+   ]
+  },
+  {
+   "query": "ロボットモーター用の永久磁石（ネオジム） 日本企業",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/400234",
+    "https://newswitch.jp/p/6165",
+    "https://mono.ipros.com/cg2/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3/",
+    "https://global.toyota/jp/newsroom/corporate/21137873.html",
+    "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "https://www.youtube.com/watch?v=VVkgjVF85tg",
+    "https://www.topmag.in/ja/robots-magnets/",
+    "https://www.proterial.com/blog/mag/mag005.html",
+    "https://www.neomag.jp/mag_navi/column/world036.html",
+    "https://www.reddit.com/r/kpopfap/"
+   ]
+  },
+  {
+   "query": "ロボットモーター用の永久磁石（ネオジム） 不足 OR 中国依存",
+   "results": [
+    "https://fabscene.com/new/news/niron-iron-nitride-rare-earth-free-magnet/",
+    "https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf",
+    "https://www.neomag.jp/mag_navi/column/world036.html",
+    "https://newswitch.jp/keyword/detail/2860",
+    "https://www.topmag.in/ja/permanent-magnets-history-and-procurement-guide/",
+    "https://jo-epco.co.jp/permanent-magnet-recycling-rare-earth/",
+    "https://www.aist.go.jp/aist_j/magazine/20241030-2.html",
+    "https://www.unitec-mt.com/permanent-magnet/",
+    "https://engineer-education.com/nd-magnet-motor/",
+    "https://www.etsy.com/market/leather_keepsake_box"
+   ]
+  },
+  {
+   "query": "rare earth magnets for robots and humanoids demand market size CAGR 2030",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/rare-earth-magnets-market",
+    "https://www.idtechex.com/en/research-article/electrification-and-robotics-to-drive-future-rare-earth-magnet-demand/34117",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/rare-earth-magnets-market/US",
+    "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "https://www.iea.org/reports/rare-earth-elements/executive-summary",
+    "https://straitsresearch.com/report/permanent-magnet-market",
+    "https://vocal.media/journal/global-magnet-market-to-reach-usd-58-7-billion-by-2033-powered-by-robotics-boom",
+    "https://www.youtube.com/watch?v=xg3x_oFFIoA",
+    "https://en.wikipedia.org/wiki/Rare_(company)"
+   ]
+  },
+  {
+   "query": "rare earth magnets for robots and humanoids demand cost breakdown bill of materials",
+   "results": [
+    "https://www.thefai.org/posts/the-robot-boom-has-a-magnet-problem",
+    "https://crosscurrents28.substack.com/p/ndfeb-magnets-the-material-bottleneck",
+    "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "https://sprott.com/insights/the-rare-earths-powering-the-next-wave-of-robotics/",
+    "https://www.energy.gov/sites/default/files/2024-12/Neodymium%2520Magnets%2520Supply%2520Chain%2520Report%2520-%2520Final%5B1%5D.pdf",
+    "https://www.youtube.com/watch?v=xg3x_oFFIoA",
+    "https://www.idtechex.com/en/research-report/rare-earth-magnets/1176",
+    "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "https://www.iea.org/reports/rare-earth-elements/executive-summary",
+    "https://en.wikipedia.org/wiki/Rare_(company)"
+   ]
+  },
+  {
+   "query": "rare earth magnets for robots and humanoids demand demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://www.thefai.org/posts/the-robot-boom-has-a-magnet-problem",
+    "https://crosscurrents28.substack.com/p/ndfeb-magnets-the-material-bottleneck",
+    "https://humanoid.guide/rare-earth-magnets-humanoid-robot-joints/",
+    "https://www.adamasintel.com/humanoid-robots-and-the-future-of-motors-and-ndfeb-markets/",
+    "https://www.linkedin.com/pulse/rare-earth-magnet-race-building-powering-humanoid-robot-meeting-rgkhe",
+    "https://www.reddit.com/r/China_irl/comments/1o4f88f/%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9D%A9%E5%91%BD%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%BC%95%E5%8F%91%E5%AF%B9%E5%85%B3%E9%94%AE%E7%A8%80%E5%9C%9F%E7%9F%BF%E4%BA%A7%E4%BB%B7%E5%80%BC_8000_%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E9%9C%80%E6%B1%82%E4%BD%86%E7%BE%8E%E5%9B%BD_70/?tl=en",
+    "https://www.idtechex.com/en/research-article/electrification-and-robotics-to-drive-future-rare-earth-magnet-demand/34117",
+    "https://www.couragemagnet.com/magnet-blog/3016.html",
+    "https://www.facebook.com/richard.hitayezu/posts/the-9-rare-earth-elements-behind-modern-roboticsrobot-motors-and-actuators-run-o/10216625014733585/",
+    "https://en.wikipedia.org/wiki/Rare_(company)"
+   ]
+  },
+  {
+   "query": "site:note.com ロボットモーター用の永久磁石（ネオジム）",
+   "results": [
+    "https://note.com/3n7no_tech_pr/n/n590dd579ce07",
+    "https://note.com/value_stock_lab/n/n4b245252cf4e",
+    "https://note.com/lyco_pene/n/ne24102a00fae",
+    "https://note.com/zaira/n/n82b25f453f27",
+    "https://note.com/china_case/n/n6bca541a9ba3",
+    "https://note.com/zaira/n/n038bac426f12",
+    "https://note.com/kagawatomo/n/n3c3a5bfff521",
+    "https://note.com/kiku_keizai/n/ndcf171133625",
+    "https://note.com/all_zero/n/n5bfe24d3eb77",
+    "https://hotelswithrestaurants.com/las-vegas/"
+   ]
+  },
+  {
+   "query": "site:x.com ロボットモーター用の永久磁石（ネオジム）",
+   "results": [
+    "https://x.com/6QhdTQGwiXXAlxb/status/2104123909260099688",
+    "https://x.com/KagawaTomo/article/2075709599702016011",
+    "https://x.com/KagawaTomo/article/2068090667608453217",
+    "https://x.com/ReAxel001",
+    "https://x.com/Yoichi_Yamazaki",
+    "https://x.com/KagawaTomo/status/2115052588332884288",
+    "https://x.com/luigi_jpn/status/2091082601054523816",
+    "https://x.com/reowide2021",
+    "https://x.com/tepepro/status/1364757636399333380",
+    "https://en.wikipedia.org/wiki/JQuery_UI"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ロボットモーター用の永久磁石（ネオジム）",
+   "results": [
+    "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E3%83%9C%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%8D%E3%82%AA%E3%82%B8%E3%83%A0%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%8C%85%E6%8B%AC-7507410385004752896-a40bf",
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%9C%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%8D%E3%82%AA%E3%82%B8%E3%83%A0%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E8%A6%8B%E9%80%9A%E3%81%972026-medaxis-intelligence-ddoze",
+    "https://jp.linkedin.com/pulse/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E6%9D%90%E8%B3%AA%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A9%B3%E7%B4%B0%E5%88%86%E6%9E%90-2026-2033%E5%B8%82%E5%A0%B4%E5%8A%9B%E5%AD%A6%E4%B8%BB%E8%A6%81%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E5%8F%8A%E3%81%B3cagr-106%E3%81%A7%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1-habitat-helix-keote",
+    "https://jp.linkedin.com/pulse/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E6%88%90%E9%95%B7%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AE%E8%A9%95%E4%BE%A1%E4%BC%81%E6%A5%AD%E3%83%97%E3%83%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A8%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%AA%E3%82%89%E3%81%B3%E3%81%AB2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cag-7513696354548891648-1uibe",
+    "https://jp.linkedin.com/pulse/physical-ai-has-attraction-problem-phil-hunter-tevee?tl=ja",
+    "https://jp.linkedin.com/pulse/%E3%83%9C%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5%E3%81%95%E3%82%8C%E3%81%9Fsmfen%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E6%9D%90%E6%96%99%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E5%8B%95%E5%90%91%E3%81%8A%E3%82%88%E3%81%B32026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE51%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC-verityx-ajece",
+    "https://www.linkedin.com/posts/sakatainxcorporation_sakatainx-neodymiummagnets-sustainability-activity-7511349296206725120-o4R6",
+    "https://jp.linkedin.com/pulse/%E3%83%8B%E3%83%96%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8C%85%E6%8B%AC%E7%9A%84%E3%81%AA%E5%88%86%E6%9E%90%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E3%82%92128%E3%81%AEca-7505371449906589696-rj6oe",
+    "https://jp.linkedin.com/pulse/%E8%87%AA%E5%8B%95%E8%BB%8A%E7%94%A8%E3%81%AE%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E5%90%8C%E6%9C%9F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E4%BA%88%E6%B8%AC%E6%88%90%E9%95%B72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6cagr-75%E3%82%92%E8%A6%8B%E8%BE%BC%E3%82%80-hydronyx-visions-jvgye",
+    "https://jp.linkedin.com/pulse/%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E3%82%922026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr11-7513733034005680129-pwuge"
+   ]
+  },
+  {
+   "query": "site:facebook.com ロボットモーター用の永久磁石（ネオジム）",
+   "results": [
+    "https://www.facebook.com/61590703169532/posts/%E4%B8%AD%E5%9B%BD%E3%81%8C%E3%83%AC%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%92%E6%AD%A2%E3%82%81%E3%81%9F%E3%82%89115%E5%B9%B4%E7%B6%9A%E3%81%8F%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%8C%E3%81%A8%E3%82%93%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/122113022847356772/",
+    "https://www.facebook.com/necjapan/videos/%E7%A9%BA%E9%A3%9B%E3%81%B6%E3%82%AF%E3%83%AB%E3%83%9E%E8%A9%A6%E4%BD%9C%E6%A9%9F%E3%81%AE%E6%B5%AE%E4%B8%8A%E5%AE%9F%E9%A8%93%E3%81%AB%E6%88%90%E5%8A%9F/663153674153989/",
+    "https://www.facebook.com/profile.php?id=61583401386238",
+    "https://www.facebook.com/groups/896998766983260/",
+    "https://www.facebook.com/metkazumi/videos/987042367484019/",
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://support.microsoft.com/en-gb/contactus"
+   ]
+  },
+  {
+   "query": "ロボットモーター用の永久磁石（ネオジム） note 社長",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/400234",
+    "https://www.neomag.jp/mag_navi/column/world036.html",
+    "https://newswitch.jp/p/6165",
+    "https://tymagnets.com/ja/%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88/",
+    "https://www.unitec-mt.com/permanent-magnet/",
+    "https://global.toyota/jp/newsroom/corporate/21137873.html",
+    "https://www.youtube.com/watch?v=VVkgjVF85tg",
+    "https://note.com/tag/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3",
+    "https://en.wikipedia.org/wiki/JQuery_UI",
+    "https://query-u.com/"
+   ]
+  },
+  {
+   "query": "ロボットモーター用の永久磁石（ネオジム） X 投稿",
+   "results": [
+    "https://fabscene.com/new/news/niron-iron-nitride-rare-earth-free-magnet/",
+    "https://www.youtube.com/watch?v=5csncow21g4",
+    "https://tymagnets.com/ja/%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88/",
+    "https://www.neomag.jp/mag_navi/column/world036.html",
+    "https://global.toyota/jp/newsroom/corporate/21137873.html",
+    "https://www.topmag.in/ja/drone-neodymium-magnets/",
+    "https://www.nikkan.co.jp/articles/view/400234",
+    "https://www.aist.go.jp/aist_j/magazine/20241030-2.html",
+    "https://app.shyftoff.com/login",
+    "https://dashboard.shyftoff.com/login"
+   ]
+  },
+  {
+   "query": "rare earth magnets for robots and humanoids demand site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/koen-binnemans_rareearths-rees-criticalrawmaterials-activity-7457523732186767361-Y-PO",
+    "https://www.linkedin.com/posts/sprott_robotics-rareearths-automation-activity-7514006802825654272-T2b4",
+    "https://www.linkedin.com/posts/realloys_2025-global-defense-consumes-8451-tonnes-activity-7454552452768440320-yRKt",
+    "https://www.linkedin.com/posts/sprott_rareearths-robotics-criticalminerals-activity-7511168152328765440-MOXe",
+    "https://www.linkedin.com/posts/rare-earth-exchanges_optimus-elonmusk-neodymium-activity-7368643471714177026-nknS",
+    "https://www.linkedin.com/posts/sprott_robotics-rareearths-criticalmaterials-activity-7512904549574201344-zjs5",
+    "https://www.linkedin.com/posts/steenkampskraal_rareearths-robotics-steenkampskraal-activity-7519313131614027776-LgYg",
+    "https://www.linkedin.com/posts/bitveenblogs_ai-robotics-electricvehicles-activity-7519271346338414593-PmOv",
+    "https://www.linkedin.com/posts/kit-yu-27753534_robot-actuator-modules-and-robots-especially-activity-7507684855787229184-DORJ",
+    "https://www.linkedin.com/posts/global-investors-forum_ai-robotics-electricvehicles-activity-7508866417702625281-E8GK"
+   ]
+  }
+ ],
+ "missing": {}
+}

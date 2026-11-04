@@ -1,0 +1,1193 @@
+{
+ "name": "ロボット・無人機の軽量構造材（アルミ合金）",
+ "en": "aluminum alloy for robots and drones lightweight structures",
+ "aliases": [
+  "アルミ ロボット 構造材",
+  "アルミ合金 ドローン フレーム",
+  "軽量化 アルミ ロボット"
+ ],
+ "context": "マテリアル・素材",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:25:52.708806+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "航空宇宙市場での複合材料およびアルミ合金は2023年のUSD 35.2 Billionで評価されました",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2023年から2033年にかけて3.51%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙市場規模のグローバル複合材料およびアルミ合金はUSD 49.7に達すると期待されます 予測期間2023〜2033年の間に3.51%のCAGRで2033年までの請求",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2023:",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 35.2億円",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "GGIIロボット研究所によると、ヒューマノイドロボット向けアルミニウムの世界消費量は2024年に約1万2000トン、市場規模は18億元に達すると予測されています",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット1台あたりのアルミニウム消費量を20～25kg（機体総重量の30～40%を占める）と仮定し、2030年までに世界出荷台数が500万台に達すると予測すると、アルミニウム需要は10万～12万5000トンにまで増加し、市場規模は約150億～180億元に達し、年平均成長率は45%に達すると予測されています",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "市場規模は2023年から2033年にかけて3.51%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙市場規模のグローバル複合材料およびアルミ合金はUSD 49.7に達すると期待されます 予測期間2023〜2033年の間に3.51%のCAGRで2033年までの請求",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2023-2033 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "2022年2月、Sovayは、電気自動車(EV)電池の需要拡大に対応するため、欧州におけるPVDF生産能力の増強に取り組みました",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット産業では、アルミニウムの需要が前年比62％増と急増し、新エネルギー車に次ぐアルミニウム応用分野の爆発的な成長分野となっている",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙レベルのシナリオ拡大において、北京鉄人科技が開発した生体模倣ハニカムアルミ構造は、ハルビン工業大学によって検証され、二足歩行ロボットの胴体の重量を30%軽減し、曲げ剛性を40%向上させました",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット1台あたりのアルミニウム消費量を20～25kg（機体総重量の30～40%を占める）と仮定し、2030年までに世界出荷台数が500万台に達すると予測すると、アルミニウム需要は10万～12万5000トンにまで増加し、市場規模は約150億～180億元に達し、年平均成長率は45%に達すると予測されています",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "予測期間2023〜2033の最大の市場シェアを占めるアルミニウム合金セグメント",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2023〜2033年で最大の市場シェアを占める商用航空機セグメント",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な商用ドローンにおいて、フレームのコストは部品表全体の8～18%を占める",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "特注押出金型は1,500～5,000ドルかかりますが、部品単価は低く抑えられます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット1台あたりのアルミニウム消費量を20～25kg（機体総重量の30～40%を占める）と仮定し、2030年までに世界出荷台数が500万台に達すると予測すると、アルミニウム需要は10万～12万5000トンにまで増加し、市場規模は約150億～180億元に達し、年平均成長率は45%に達すると予測されています",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "一部のカスタマイズ製品の単価は80,000元/トンを超え、工業用アルミ材の平均価格（22,000元/トン）を大幅に上回っています",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "サプライヤーがカーボン繊維、樹脂およびアルミ合金を提供する原料の調達から始まります",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "この後、メーカーは高度なエンジニアリングと設計プロセスを活用して、航空機部品を作成し、重量削減と構造的完全性に焦点を当てています",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "燃費効率の高い航空機の需要の増加は、高強度から重量比のために重要な利点を提供する複合材料を求めるメーカーを促しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "次世代の航空機を設計するメーカーとして、重量削減、燃費の効率性を優先し、構造の完全性を改善しました",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、コンポジットとアルミ合金の統合により、メーカーは環境規制を遵守し、より軽量な航空機が排出削減に貢献します",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域は、ボーイングやエアバスなどの主要な航空機メーカーに拠点を置き、燃料効率を高め、排出量を削減する高度な材料をますます統合しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際メーカーと現地サプライヤーとのコラボレーションも、サプライチェーンと生産能力を強化しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2023〜2033の最大の市場シェアを占めるアルミニウム合金セグメント",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空機メーカーは、燃費の効率性を高め、排出を削減するために努力しているため、高度アルミニウム合金は、エアフレーム、翼、およびその他の重要なコンポーネントでますます活用されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2023〜2033年で最大の市場シェアを占める商用航空機セグメント",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空会社は、運用コストを削減するよう努めているため、メーカーは軽量複合材料と航空機設計に高度なアルミ合金を組み込んでいます",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "低コストのキャリアの拡大と新興市場での航空輸送の拡大は、新しい商用航空機のさらなる燃料供給需要です",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のドローンメーカーが採用している、鍛造アルミニウム製品に関する国際規格",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "華暁合金は、ドローン、ロボット、UAVメーカー向けに、アルミニウム板、シート、押出材、CNC加工フレーム部品を提供しています",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、多くのロボットおよびドローンメーカーは、ボルト締めまたはスナップフィット接続を採用することで、フレームの迅速な回収を可能にし、製品寿命後の分解を前提とした設計を行っています",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "明台アルミ工業（601677）が開発したオールアルミ柱体材料は、スプレー堆積成形技術を採用し、放熱器アルミ材の熱伝導率を240W/(m・K)まで高め、玉樹科技のH1ヒューマノイドロボットの駆動システムとして大量供給されています",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "この技術はEUの主要原材料法の認証を取得しており、2025年第2四半期からZhiyuanロボット向けにLCA（ライフサイクル全体）に準拠したアルミニウム材料を供給する予定です",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "自社工場と信頼できる中国のネットワークを活用することで、複雑かつ高品質な部品を効率的に供給することが可能です",
+    "url": "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム部品サプライヤーはどのような認証を取得すべきでしょうか？",
+    "url": "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトの成果は、サプライヤーの能力、資材の追跡能力、生産の一貫性といった要素によって左右されます",
+    "url": "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "pass": 3
+   },
+   {
+    "quote": "これらの違いを理解し、材料のトレーサビリティ、DFM（製造性設計）サポート、そして一貫した表面仕上げを提供できるメーカーと協力することで、B2B調達チームにとって大きな生産リスクを軽減できます",
+    "url": "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "pass": 3
+   },
+   {
+    "quote": "最終的には調質、製品形状、強化材含有率、積層構成、材料メーカーのデータを確認します",
+    "url": "https://www.zdpmt.com/ja/resources/humanoid-robot-lightweight-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "材料除去量の大きい板材加工品では、残留応力が低いほど加工後の寸法安定性に有利ですが、板厚、材料供給元、部品形状も含めて判断する必要があります",
+    "url": "https://www.zdpmt.com/ja/resources/humanoid-robot-lightweight-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料設計技術（異方性設計）を活かし、部品用途に応じて剛性・強度・熱物性を最適化、JIS精級にも対応する高精度部品の供給を可能にしました",
+    "url": "https://www.techlab-coltd.com/service/case/cfrp-precision-machining",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム合金 - メーカー・企業14社の業務用製品ランキング | イプロスものづくり",
+    "url": "https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム合金のメーカーや取扱い企業、製品情報、参考価格、ランキングをまとめています",
+    "url": "https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム合金のメーカー・企業ランキング",
+    "url": "https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "皆様と共に成長するアルミ特殊材料専門メーカーです",
+    "url": "https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様、3Dプリンターメーカー様、当社の3社協業でオーダーメイドカスタマイズをご提案いたします",
+    "url": "https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー・取扱い企業",
+    "url": "https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙に不可欠なアルミ合金 – 日本を代表するアルミメーカー UACJグループ – SPACE Media",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙に不可欠なアルミ合金 – 日本を代表するアルミメーカー UACJグループ",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "UACJは、加工したアルミニウム素材を各メーカーに供給しています",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "国内では43拠点を展開し、アルミ板のシェアは約50％で1位です",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "海外ではタイと北米を中心に40拠点を展開し、シェアは第3～４位です",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "それをきっかけとして、1940年代に名古屋や関西にあった航空機やエンジンのメーカーにアルミニウムの材料を提供するという事業を始めました",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙産業については、1970年にペンシルロケットの材料を供給したというのが初めてです",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "他のアルミニウムメーカーと比べた際、どのような点が貴グループの強みとなっているのでしょうか",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "今後、アルミニウムメーカーとしてどのように宇宙産業を支えていきたいですか？",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "また、小型ロケットの開発も活発になっており、民間企業様の進出も増え、その企業様にも素材を供給しています",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "最後に、アルミニウム合金と原材料の価格を変動させることで、予算やプロジェクトの実現可能性に影響を及ぼし、航空宇宙製造に複雑性を付加できます",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府は、持続可能な航空の投資とともに、研究開発を支援し、市場成長を促進します",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙への取り組みのための政府の支援, 増加する使い捨て収入と都市化と相まって, さらなる高度な材料の需要を強化します",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、製造技術の進歩は、生産プロセスを強化し、より迅速な納期を可能にし、グローバルな航空宇宙市場におけるセグメントの拡大を支援しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "pass": 3
+   },
+   {
+    "quote": "地方レベルでは、上海市は2024年11月に20億元の特別基金を設立し、高性能アルミニウム材料を含むヒューマノイドロボットの中核材料の研究と産業化を支援する予定だ",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "テックラボの試作・開発支援",
+    "url": "https://www.techlab-coltd.com/service/case/cfrp-precision-machining",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的基盤技術高度化・連携支援事業",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的基盤技術高度化支援事業",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県工業技術研究所 浜松工業技術支援センター",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "浜松工業技術支援センター",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "精密な組み立て精度が求められる内視鏡や手術支援ロボット、各種検査装置などで採用されています",
+    "url": "https://www.seljapan.co.jp/blog/processing/a36",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "適切な合金を選択するには、強度対重量比、振動減衰性、製造性、および1kgあたりのコストのバランスを取る必要がありますが、アルミニウムは極限温度性能を除くすべての指標で優れています",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの特性は、5kgの産業用ドローンが壁に衝突した際に特に重要となります",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "7075-T6はσ_uts/ρ ≈ 215 kN·m/kgに達し、一般的なアルミニウムの熱処理状態の中で最も高い値を示す",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー吸収量（1kgあたり）",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "重量25kg未満の商用および産業用UAVにおいては、アルミニウムが依然としてリスクが低く、飛行時間あたりのコストも低い選択肢となる",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作品や少量生産（10～5,000個）に最も一般的な方法です",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型コストは低く、部品1個あたりのコストは中程度です",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "大量生産（10,000個以上）に最適です",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間1,000～3,000台のドローン生産においては、押出成形アームとCNC加工された中央ハブを組み合わせたハイブリッド方式が、一般的に最も経済的な選択肢となります",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "3,000台を超える生産量では、カスタム押出成形による金型償却のメリットが顕著に現れます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、1,000台未満の生産量では、CNC加工されたプレートのみを使用する方が、より迅速かつ低コストで済みます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "構造重量25kg、ペイロード重量25kgのドローンは、構造重量15kg、ペイロード重量25kgのドローンに比べて、飛行時間が半分になってしまいます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、最新の25kgの産業用ドローンフレームは、わずか8～12kgのアルミニウムで済み、2015年に製造された同等の押出成形フレームの半分の質量で済みます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "離陸重量25kg以下の商用および産業用ドローンでは、一般的にアルミニウムの方が経済的である",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "明台アルミ工業（601677）が開発したオールアルミ柱体材料は、スプレー堆積成形技術を採用し、放熱器アルミ材の熱伝導率を240W/(m・K)まで高め、玉樹科技のH1ヒューマノイドロボットの駆動システムとして大量供給されています",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "銀邦有限公司（300337）が開発したアルミニウムグラフェン複合電磁シールド層は、10GHz帯のシールド効率が70dBで、厚さはわずか0.25mmであり、ボストン・ダイナミクス・アトラスの頭部センサーアレイに応用されている",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "この構造は7075-T6航空アルミニウムを採用し、生体模倣設計により12GPa・m³/kgの比剛性を実現しています",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの技術革新により、ヒューマノイドロボットにおけるアルミニウムの単一機械使用量は、2024年の1台当たり20kgから2025年には1台当たり28kgに増加し、高級アルミニウムのプレミアム率も15％から35％に上昇しました",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "GGIIロボット研究所によると、ヒューマノイドロボット向けアルミニウムの世界消費量は2024年に約1万2000トン、市場規模は18億元に達すると予測されています",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット1台あたりのアルミニウム消費量を20～25kg（機体総重量の30～40%を占める）と仮定し、2030年までに世界出荷台数が500万台に達すると予測すると、アルミニウム需要は10万～12万5000トンにまで増加し、市場規模は約150億～180億元に達し、年平均成長率は45%に達すると予測されています",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "一部のカスタマイズ製品の単価は80,000元/トンを超え、工業用アルミ材の平均価格（22,000元/トン）を大幅に上回っています",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの場合、初期段階のチームは、大量生産に着手する前に、製品をテストするために30個から500個の部品を必要とします",
+    "url": "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "pass": 3
+   },
+   {
+    "quote": "・環境負荷低減：CO2排出量削減、電力使用量減、炭素税削減",
+    "url": "https://pr.mono.ipros.com/tenhiko/news/detail/196627/",
+    "pass": 3
+   },
+   {
+    "quote": "１）非熱処理でCO2発生量の削減 ２）電力使用量減",
+    "url": "https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "310℃は PA6 樹脂が熱分解し始める温度であり、210℃では PA6 樹脂は個体のままであり、 これで",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ば、1 回の農薬の搭載量と農薬散布面積が増えるため、軽量化は極めて重要な課題である",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "要件(1)の左右の重量バランスを取るために、図 2-3-2 のように成形材料を 3 個に分割して予備",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インサートボルト 1 本あたりの引き抜き荷重は 45.4kN であり、 約4627kg までの部品であれば",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ合金製の重量は1.27kg、 今回、 試作したCFRTP",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製は 0.48kg だった",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "Japanese",
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "pass": 3
+   },
+   {
+    "quote": "JA - 日本語",
+    "url": "https://pr.mono.ipros.com/tenhiko/news/detail/196627/",
+    "pass": 3
+   },
+   {
+    "quote": "純国産カヌープロジェクト",
+    "url": "https://www.techlab-coltd.com/service/case/cfrp-precision-machining",
+    "pass": 3
+   },
+   {
+    "quote": "における情報を集めた国内最大級の技術データベースサイトです",
+    "url": "https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙に不可欠なアルミ合金 – 日本を代表するアルミメーカー UACJグループ – SPACE Media",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙に不可欠なアルミ合金 – 日本を代表するアルミメーカー UACJグループ",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "国内では43拠点を展開し、アルミ板のシェアは約50％で1位です",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "そして現在、H-2ロケットからH-2Aロケット、H-2Bロケット、H3ロケットとイプシロンロケットに至るまで、国産ロケットの構造材に用いられるアルミニウムを納入しています",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "日本の宇宙開発の初期から携われていたのですね",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは国内最大級の油圧プレスを持っており、その",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "また宇宙分野での技術に関して言うと、国内で最大のリングを作ることができ、これはロケットの補助ブースターに用いられます",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "純国産ロケットということで私たちも貢献していきたいです",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットの射場も少しずつ増えてきており、これからロケットの打上げが活発になっていくにあたり、大きいロケットにも小さいロケットにも対応して、そのベースを担う会社として日本の宇宙産業を支えていきたいです",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "RX Japan合同会社",
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "pass": 3
+   },
+   {
+    "quote": "参考文献 野村幸弘: 日本複合材料学会誌, 33 巻, 5 号(2007), 191-195",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © SELJAPAN Inc.",
+    "url": "https://www.seljapan.co.jp/blog/processing/a36",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "と剛性が不足する",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "薄い板材だと十分なねじ山の数を確保できず、締結力が不足して緩んでしまう",
+    "url": "https://www.seljapan.co.jp/blog/processing/a36",
+    "pass": 3
+   },
+   {
+    "quote": "従来のバーリング加工の場合、薄い板や柔らかい素材では十分なねじ山を確保するのが難しく、締結力が不足する原因となっていました",
+    "url": "https://www.seljapan.co.jp/blog/processing/a36",
+    "pass": 3
+   },
+   {
+    "quote": "△強度不足によるトラブルリスク",
+    "url": "https://www.seljapan.co.jp/blog/processing/a36",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、バーリング加工で強度不足のねじを使用した場合で考えてみましょう",
+    "url": "https://www.seljapan.co.jp/blog/processing/a36",
+    "pass": 3
+   },
+   {
+    "quote": "信頼性の高い部品であるセルフクリンチングファスナーを採用すれば、製品の品質を安定させ、強度不足に起因するさまざまなトラブルを回避できます",
+    "url": "https://www.seljapan.co.jp/blog/processing/a36",
+    "pass": 3
+   },
+   {
+    "quote": "バーリング加工が持つ「強度不足」「材質の制限」「寸法精度の課題」といった限界に対し、セルフクリンチングファスナーは明確な解決策を提示します",
+    "url": "https://www.seljapan.co.jp/blog/processing/a36",
+    "pass": 3
+   },
+   {
+    "quote": "部品コストという初期投資は発生しますが、強度不足による市場トラブルのリスクを未然に防ぎ、製品全体の品質と信頼性を向上させるという視点では、トータルコストの削減に繋がる極めて合理的な選択といえるでしょう",
+    "url": "https://www.seljapan.co.jp/blog/processing/a36",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "robot digest - [トピックス] 産業ロボット向けも拡充 アルミ構造材の... アルミ製構造材大手のSUSが、産業用ロボット向け製品を拡充している。 前編で紹介したパラレルリンクロボットを取り付ける架台（アルミフレーム）に加え、今年8月には、ファナックの協働ロボット「CRXシリーズ」専用のアルミ製台車が完成した。",
+    "url": "https://www.facebook.com/robotdigest/posts/トピックス産業ロボット向けも拡充-アルミ構造材のsus後編httpswwwrobot-digestcomcontentsid1603865701-408259-/666887704029088/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "そして自由な造形へ」— 次世代3Dプリント用 アルミ合金 が ... そして自由な造形へ」— 次世代3Dプリント用 アルミ合金 が ... note https://note.com > ... > 科学・テクノロジー全般",
+    "url": "https://note.com/tipnews/n/n926218d3ef2f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "「割れない、最強、そして自由な造形へ」— 次世代3Dプリント用アルミ合金が航空宇宙の常識を塗り替える マサチューセッツ工科大学(MIT)｜Tip News",
+    "url": "https://note.com/tipnews/n/n926218d3ef2f",
+    "pass": 3
+   },
+   {
+    "quote": "「割れない、最強、そして自由な造形へ」— 次世代3Dプリント用アルミ合金が航空宇宙の常識を塗り替える マサチューセッツ工科大学(MIT)",
+    "url": "https://note.com/tipnews/n/n926218d3ef2f",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに：なぜ「3Dプリントできるアルミ」が求められているのか",
+    "url": "https://note.com/tipnews/n/n926218d3ef2f",
+    "pass": 3
+   },
+   {
+    "quote": "現代の製造業において、3Dプリント（積層造形）は魔法のような技術です。複雑な形状を一体成型でき、部品の軽量化と高機能化を同時に実現できるからです。特に1グラムの軽量化が燃費や航続距離に直結する航空宇宙分野において、その期待は絶大です。",
+    "url": "https://note.com/tipnews/n/n926218d3ef2f",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、大きな壁がありました。航空機の構造材として理想的な強度を持つ「7075アルミニウム合金」などの高強度アルミは、3Dプリントが極めて困難だったのです。",
+    "url": "https://note.com/tipnews/n/n926218d3ef2f",
+    "pass": 3
+   },
+   {
+    "quote": "１．「最強のアルミ」が抱えていた致命的な弱点",
+    "url": "https://note.com/tipnews/n/n926218d3ef2f",
+    "pass": 3
+   },
+   {
+    "quote": "7075アルミニウム合金は、亜鉛を主要な添加元素とする合金で、その強度は鋼鉄にも匹敵します。しかし、この合金を3Dプリンタ（レーザー粉末床溶融結合法）で扱おうとすると、大きな問題が発生します。",
+    "url": "https://note.com/tipnews/n/n926218d3ef2f",
+    "pass": 3
+   },
+   {
+    "quote": "それが、「熱間割れ（Hot Cracking）」という現象です。",
+    "url": "https://note.com/tipnews/n/n926218d3ef2f",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/unmanned-composites-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/5417721",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-unmanned-composite-market",
+    "status": "http_522",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/5417721",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketgrowthreports.com/jp/market-reports/aluminum-alloys-in-additive-manufacturing-market-100120",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000562473.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mri.co.jp/knowledge/column/20260113.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai3/shiryou2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aluminum-gravitycasting.com/ja/blog/data/gravity-casting-robot-arm-uav",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdpmt.com/ja/resources/humanoid-robot-lightweight-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/tenhiko/news/detail/196627/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtmim.com/ja/mim-parts/drone-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techlab-coltd.com/service/case/cfrp-precision-machining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotstart.info/article/2026/08/10/382256.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1178/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://new.abb.com/news/ja/detail/104991/cstmr-five-yumis-with-sus-corporation",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/100920459.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://deallab.info/industrial-robot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mujin.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aluminum.or.jp/wp-content/themes/dp-colors/img/alumi-age_192.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ccpcontactprobes.com/ja/scenario-drone/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://spacemedia.jp/technology-and-engineering/2098",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/05/news070.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/87dd037f-7399-435a-9dd7-67e49997dcf7",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seljapan.co.jp/blog/processing/a36",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jri.co.jp/MediaLibrary/file/report/rim/pdf/12621.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gendai.media/articles/-/170006",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/PressReleases/high-strength-aluminum-alloy.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/aluminum-alloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/high-strength-aluminum-alloys-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/aluminum-market-2031",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/aluminum-for-aerospace-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/high-strength-aerospace-aluminum-alloys-market-bcj3f",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://premieraluminum.com/aluminum-vs-steel-casting-for-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/332944593_Hybrid_Structure_Design_of_Lightweight_Robotic_Arms_Based_on_Carbon_Fiber_Reinforced_Plastic_and_Aluminum_Alloy",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aero-fox.com/a-which-materials-are-best-for-robot-chassis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/robotdigest/posts/トピックス産業ロボット向けも拡充-アルミ構造材のsus後編httpswwwrobot-digestcomcontentsid1603865701-408259-/666887704029088/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tipnews/n/n926218d3ef2f",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロボット・無人機の軽量構造材（アルミ合金） 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/unmanned-composites-market",
+    "https://newscast.jp/news/5417721",
+    "https://www.databridgemarketresearch.com/jp/reports/global-unmanned-composite-market",
+    "https://www.atpress.ne.jp/news/5417721",
+    "https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market",
+    "https://www.marketgrowthreports.com/jp/market-reports/aluminum-alloys-in-additive-manufacturing-market-100120",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/%E7%94%A3%E6%A5%AD%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-9257",
+    "https://jp.linkedin.com/pulse/%E8%BE%B2%E6%A5%AD%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-market-growth%E3%82%922033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AB88%E3%81%AEcagr%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%82%8B%E4%B8%AD%E3%81%A7%E8%A9%B3%E7%B4%B0%E3%81%AB%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B-bv8rf",
+    "https://note.com/qy_research/n/nb7f07cc67b46",
+    "https://yhresearch.hatenablog.jp/entry/2026/08/13/123316"
+   ]
+  },
+  {
+   "query": "ロボット・無人機の軽量構造材（アルミ合金） 需要 見通し 2030",
+   "results": [
+    "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "https://www.soumu.go.jp/main_content/000562473.pdf",
+    "https://www.mri.co.jp/knowledge/column/20260113.html",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai3/shiryou2.pdf",
+    "https://note.com/otl_sr/n/n069149d30cbd",
+    "https://www.dreamnews.jp/press/0000355033",
+    "https://www.jara.jp/publications/img/vision/visionver0_booklet.pdf",
+    "https://www.databridgemarketresearch.com/jp/reports/global-aluminum-alloy-market"
+   ]
+  },
+  {
+   "query": "ロボット・無人機の軽量構造材（アルミ合金） 部品構成 コスト",
+   "results": [
+    "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "https://www.aluminum-gravitycasting.com/ja/blog/data/gravity-casting-robot-arm-uav",
+    "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "https://www.zdpmt.com/ja/resources/humanoid-robot-lightweight-materials/",
+    "https://pr.mono.ipros.com/tenhiko/news/detail/196627/",
+    "https://xtmim.com/ja/mim-parts/drone-parts/",
+    "https://www.techlab-coltd.com/service/case/cfrp-precision-machining",
+    "https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide"
+   ]
+  },
+  {
+   "query": "ロボット・無人機の軽量構造材（アルミ合金） シェア 主要企業",
+   "results": [
+    "https://straitsresearch.com/jp/report/unmanned-composites-market",
+    "https://www.atpress.ne.jp/news/5417721",
+    "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "https://robotstart.info/article/2026/08/10/382256.html",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1178/",
+    "https://new.abb.com/news/ja/detail/104991/cstmr-five-yumis-with-sus-corporation",
+    "https://www.nedo.go.jp/content/100920459.pdf",
+    "https://deallab.info/industrial-robot/"
+   ]
+  },
+  {
+   "query": "ロボット・無人機の軽量構造材（アルミ合金） 日本企業",
+   "results": [
+    "https://www.aluminum-gravitycasting.com/ja/blog/data/gravity-casting-robot-arm-uav",
+    "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/",
+    "https://www.mujin.co.jp/",
+    "https://www.aluminum.or.jp/wp-content/themes/dp-colors/img/alumi-age_192.pdf",
+    "https://www.ccpcontactprobes.com/ja/scenario-drone/",
+    "https://spacemedia.jp/technology-and-engineering/2098",
+    "https://monoist.itmedia.co.jp/mn/articles/2608/05/news070.html",
+    "https://www.cfrp.mtb.futaba.co.jp/",
+    "https://ja.huaxiao-alloy.com/アルミニウム合金、ロボット、ドローン、UAVフレームガイド.html"
+   ]
+  },
+  {
+   "query": "ロボット・無人機の軽量構造材（アルミ合金） 不足 OR 中国依存",
+   "results": [
+    "https://www.nedo.go.jp/content/100920459.pdf",
+    "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf",
+    "https://www.ccpcontactprobes.com/ja/scenario-drone/",
+    "https://www.youtube.com/watch?v=opvbYs5fme0",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf",
+    "https://www.aluminum.or.jp/wp-content/themes/dp-colors/img/alumi-age_192.pdf",
+    "https://finance.biggo.jp/news/87dd037f-7399-435a-9dd7-67e49997dcf7",
+    "https://www.seljapan.co.jp/blog/processing/a36",
+    "https://www.jri.co.jp/MediaLibrary/file/report/rim/pdf/12621.pdf",
+    "https://gendai.media/articles/-/170006"
+   ]
+  },
+  {
+   "query": "aluminum alloy for robots and drones lightweight structures market size CAGR 2030",
+   "results": [
+    "https://www.marketsandmarkets.com/PressReleases/high-strength-aluminum-alloy.asp",
+    "https://www.rootsanalysis.com/aluminum-alloys-market",
+    "https://market.us/report/high-strength-aluminum-alloys-market/",
+    "https://www.marketresearchfuture.com/reports/aluminum-market-2031",
+    "https://www.strategicmarketresearch.com/market-report/aluminum-for-aerospace-market",
+    "https://www.linkedin.com/pulse/high-strength-aerospace-aluminum-alloys-market-bcj3f",
+    "https://www.datamintelligence.com/research-report/aerospace-aluminum-market",
+    "https://www.grandviewresearch.com/industry-analysis/composite-materials-aluminum-alloys-aerospace-market-report",
+    "https://www.transparencymarketresearch.com/aluminum-market.html",
+    "https://www.grandviewresearch.com/industry-analysis/lightweight-materials-market"
+   ]
+  },
+  {
+   "query": "aluminum alloy for robots and drones lightweight structures cost breakdown bill of materials",
+   "results": [
+    "https://premieraluminum.com/aluminum-vs-steel-casting-for-robotics/",
+    "https://www.researchgate.net/publication/332944593_Hybrid_Structure_Design_of_Lightweight_Robotic_Arms_Based_on_Carbon_Fiber_Reinforced_Plastic_and_Aluminum_Alloy",
+    "https://www.aero-fox.com/a-which-materials-are-best-for-robot-chassis.html",
+    "https://parco-inc.com/aluminum-robot-bases/?srsltid=AYCX9vKnrPx-ChoOVsa1XQ6XkD1M7LKPLcQHK4wWQMN8mGEK8DZ5YucC",
+    "https://www.cs.rochester.edu/u/nelson/courses/csc_robocon/robot_manual/materials.html",
+    "https://www.uc.edu/content/dam/refresh/cont-ed-62/olli/s25-handouts/exploring%20humanoid%20robots%205.pdf",
+    "https://www.jccncmachining.com/blog/lightweight-robotic-parts-a-guide-to-materials-and-design/",
+    "https://e-bi.com/selecting-the-right-material-for-robotics-plastics-metals-and-composites/",
+    "https://www.boosealum.com/industries/robotics/",
+    "https://www.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html"
+   ]
+  },
+  {
+   "query": "aluminum alloy for robots and drones lightweight structures demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://premieraluminum.com/application-of-aluminum-in-robotic-parts/",
+    "https://e-bi.com/choosing-the-right-aluminum-for-humanoid-robotics/",
+    "https://www.reddit.com/r/robotics/comments/1g7iuvu/steel_vs_aluminum_for_general_robotics/",
+    "https://www.chalcoaluminum.com/knowledge/aluminum-for-humanoid-robots-2609-lyg/",
+    "https://www.idtechex.com/en/research-report/materials-for-humanoid-robots/1160",
+    "https://partinchem.com/blog/whats-the-secret-to-lighter-more-durable-robots/",
+    "https://www.protolabs.com/en-gb/resources/blog/materials-that-command-the-robotics-industry/",
+    "https://www.researchgate.net/publication/332944593_Hybrid_Structure_Design_of_Lightweight_Robotic_Arms_Based_on_Carbon_Fiber_Reinforced_Plastic_and_Aluminum_Alloy",
+    "https://www.cnchangsong.com/aluminum-sheets-in-humanoid-robots-material-selection-applications-technological-breakthroughs.html",
+    "https://humanoid.guide/"
+   ]
+  },
+  {
+   "query": "site:note.com ロボット・無人機の軽量構造材（アルミ合金）",
+   "results": [
+    "https://note.com/kagawatomo/n/nec02a950e382",
+    "https://note.com/kagawatomo/n/n9e2f448cd57c",
+    "https://note.com/kagawatomo/n/nf143b0992e83",
+    "https://note.com/witty_jacana219/n/ne16e6222ecd7",
+    "https://note.com/kagawatomo/n/nb26b8c9b3768",
+    "https://note.com/kagawatomo/n/n77775459ddcd",
+    "https://note.com/tatsuya_sabato/n/ncfca7c0faa14",
+    "https://note.com/good_dill292/n/n28ac553482ba",
+    "https://note.com/kagawatomo/n/n82d6ebfa2926",
+    "https://note.com/qy_research/n/n69ebe1a904e0"
+   ]
+  },
+  {
+   "query": "site:x.com ロボット・無人機の軽量構造材（アルミ合金）",
+   "results": [
+    "https://x.com/KagawaTomo/status/2040227984238678436",
+    "https://x.com/A1aBrIGp0Q30150/status/2094667191253930424",
+    "https://x.com/KagawaTomo/article/2075709599702016011",
+    "https://x.com/KagawaTomo/article/2077913764050190547",
+    "https://x.com/yamashina_pr",
+    "https://x.com/futaba6986",
+    "https://x.com/3DPrintingCorp",
+    "https://x.com/tsunodatool",
+    "https://x.com/HeavyWorkers",
+    "https://x.com/grok/status/2024754086394950108"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ロボット・無人機の軽量構造材（アルミ合金）",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91-market-size-growth-71-cagr-from-2026-2033-industry-dwd1e",
+    "https://jp.linkedin.com/pulse/%E8%80%90%E8%A1%9D%E6%92%83%E6%80%A7%E3%82%BB%E3%83%AB%E3%83%A1%E3%83%83%E3%83%88-market%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD%E6%88%90%E9%95%B7%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%8A%E3%82%88%E3%81%B32026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr%E4%BA%88%E6%B8%AC117-drumlin-drive-djzse",
+    "https://jp.linkedin.com/pulse/%E3%81%93%E3%81%AE%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AF%E8%B6%B3%E5%A0%B4%E6%8A%80%E8%A1%93-market-%E3%81%AE-cagr-59-%E3%82%92%E5%90%AB%E3%82%802026-2033-%E3%81%AE%E8%A6%8F%E6%A8%A1%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B7%E3%82%A7%E3%82%A2%E5%88%86%E6%9E%90%E3%82%92%E7%B6%B2%E7%BE%85%E3%81%97%E3%81%9F%E5%BE%B9%E5%BA%95%E7%9A%84%E3%81%AA%E8%AA%BF%E6%9F%BB%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%97%E3%81%BE%E3%81%99-aztqf",
+    "https://jp.linkedin.com/pulse/7075-%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%88%90%E9%95%B7%E6%A9%9F%E4%BC%9A%E3%81%A8%E8%AA%B2%E9%A1%8C2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%ACcagr-107-origami-orbit-fhcje",
+    "https://jp.linkedin.com/pulse/global-%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-139-cagr%E4%BA%88%E6%B8%AC2026-2033-petronoble-research-lab-fcfde",
+    "https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%82%B9%E3%83%9D%E3%83%BC%E3%82%AF%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90%E4%B8%BB%E8%A6%81%E5%B8%82%E5%A0%B4%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%A8%E5%B0%86%E6%9D%A5%E4%BA%88%E6%B8%AC2026%E5%B9%B42033%E5%B9%B4-bcd-base-eqlme",
+    "https://jp.linkedin.com/pulse/%E7%B8%A6%E5%9E%8B%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E6%90%AC%E9%80%81%E6%A9%9F%E5%B8%82%E5%A0%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882026%E5%B9%B42033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E4%BA%88%E6%B8%ACcagr123%E3%81%A7%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%88%A6%E7%95%A5%E3%82%92%E7%AD%96%E5%AE%9A-cygnix-core-cnl8e",
+    "https://jp.linkedin.com/pulse/%E8%BB%BD%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E5%B8%82%E5%A0%B4%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%8A%E3%82%88%E3%81%B3%E5%9C%B0%E5%9F%9F%E5%88%A5%E6%8B%A1%E5%A4%A72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE75-cagr%E4%BA%88%E6%B8%AC-stratigo-labs-drkqe",
+    "https://jp.linkedin.com/pulse/%E9%AB%98%E5%9C%A7%E3%83%80%E3%82%A4%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%A9%9F%E5%99%A8-market%E3%81%AE%E9%9C%80%E8%A6%81%E6%8B%A1%E5%A4%A7%E3%81%8C2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr-84%E3%81%A7%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AB%E5%BD%B1%E9%9F%BF%E3%82%92%E4%B8%8E%E3%81%88%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-yhdte",
+    "https://jp.linkedin.com/pulse/t-slot%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE%E5%B8%82%E5%A0%B4%E9%9C%80%E8%A6%81%E3%81%A8%E5%8F%8E%E7%9B%8A%E6%88%90%E9%95%B72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr59-wyrmix-forge-bvtce"
+   ]
+  },
+  {
+   "query": "site:facebook.com ロボット・無人機の軽量構造材（アルミ合金）",
+   "results": [
+    "https://www.facebook.com/robotdigest/posts/トピックス産業ロボット向けも拡充-アルミ構造材のsus後編httpswwwrobot-digestcomcontentsid1603865701-408259-/666887704029088/",
+    "https://www.facebook.com/robotdigest/photos/トピックス超軽量ロボットは片手で持てる日本法人設立しショールームも開設realman-robotics鄭随兵ceoインタビューhttpswwwrobot-dig/1015899707217148/",
+    "https://www.facebook.com/alumiplus/posts/アルミプラスでは開設当初からロボット関連では川ロボ相撲ロボットのアルミパーツを数多くお手伝いさせて頂いております今回は相撲ロボットフレームの外側板のアルミ加工を/2216705798616839/",
+    "https://www.facebook.com/originalmind/videos/1447635685827753/",
+    "https://www.facebook.com/attraclab/posts/アトラックラボの無人車両はアルミフレーム材を多用しています軽量化やサイズの自由度にメリットがあるのですがもう一つの大きな理由にフレーム材の柔軟性があります過酷な/571423930161456/",
+    "https://www.facebook.com/OsakaMetUniv/photos/プレスリリース近年自動車や鉄道などの輸送用機器の軽量化のために従来は金属で作られていた部品の一部をプラスチックなどに置き換えるマルチマテリアル構造の導入が進めら/1408564614602931/",
+    "https://www.facebook.com/kazuyoshi.takehara/photos/ヤマハ発動機と三菱重工ハイブリッド型中型無人機に関する共同研究を実施ヤマハ発動機株式会社と三菱重工業株式会社は２００ｋｇを搭載可能な中型マルチコプター型無人機以/25312442125114873/"
+   ]
+  },
+  {
+   "query": "ロボット・無人機の軽量構造材（アルミ合金） note 社長",
+   "results": [
+    "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "https://note.com/otl_sr/n/n069149d30cbd",
+    "https://note.com/udon_san829/n/nb6342f232a02",
+    "https://note.com/tipnews/n/n926218d3ef2f",
+    "https://www.3dpc.co.jp/articles/markforged-boduk-drone",
+    "https://www.youtube.com/watch?v=8yKyS3FhMok",
+    "https://note.com/tender_daisy588/n/n8c63f974f577",
+    "https://note.com/liberaware/n/nd9c53b5a623e",
+    "https://www.shisaku.com/blog/example/post-117.html",
+    "https://ja.huaxiao-alloy.com/アルミニウム合金、ロボット、ドローン、UAVフレームガイド.html"
+   ]
+  },
+  {
+   "query": "ロボット・無人機の軽量構造材（アルミ合金） X 投稿",
+   "results": [
+    "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "https://www.aluminum-gravitycasting.com/ja/blog/data/gravity-casting-robot-arm-uav",
+    "https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/",
+    "https://fabscene.com/new/news/mit-3d-printed-aluminum-alloy/",
+    "https://monoist.itmedia.co.jp/mn/articles/2608/05/news070.html",
+    "https://www.alunex.com.tw/ja/faq/die-casting-expertise/aluminum-die-cast-components-for-drones",
+    "https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide",
+    "https://www.aluminum.or.jp/wp-content/themes/dp-colors/img/alumi-age_192.pdf",
+    "https://www.youtube.com/watch?v=9jcHVAnM97U",
+    "https://ja.huaxiao-alloy.com/アルミニウム合金、ロボット、ドローン、UAVフレームガイド.html"
+   ]
+  },
+  {
+   "query": "aluminum alloy for robots and drones lightweight structures site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/jack-aspinall-294b94113_funded-phd-opportunity-in-my-research-group-activity-7508140080499265536-IL-n",
+    "https://www.linkedin.com/posts/taubermartin_magnesium-activity-7510272553647505409-sgcM",
+    "https://www.linkedin.com/pulse/basic-building-blocks-every-robot-youll-ever-meet-andre-sz7je",
+    "https://www.linkedin.com/pulse/superwood-hits-factory-floor-stronger-than-steel-radar-jason-shearer-1bnsc",
+    "https://www.linkedin.com/posts/vipin-sharma-7b072119_championing-the-carbon-china-has-recently-activity-7438254785473994754-C5io",
+    "https://www.linkedin.com/top-content/technology/composite-materials-for-aerospace/lightweight-composite-solutions/",
+    "https://www.linkedin.com/posts/aziz-rahman-a28a58237_amazing-manufacturing-process-of-making-complete-activity-7378325580578078720-NhLP",
+    "https://www.linkedin.com/top-content/science/robotics-in-science-projects/innovative-robotics-experiments/",
+    "https://in.linkedin.com/in/anishay-raj-07ab8914",
+    "https://www.linkedin.com/in/alex-millar-6a51903"
+   ]
+  }
+ ],
+ "missing": {}
+}

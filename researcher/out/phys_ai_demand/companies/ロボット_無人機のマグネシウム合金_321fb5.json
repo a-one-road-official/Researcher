@@ -1,0 +1,1630 @@
+{
+ "name": "ロボット・無人機のマグネシウム合金",
+ "en": "magnesium alloy robots drones demand",
+ "aliases": [
+  "マグネシウム合金 ロボット",
+  "マグネシウム ドローン",
+  "マグネシウム 軽量化 需要"
+ ],
+ "context": "マテリアル・素材",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:26:07.804434+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "民生用電子機器向けマグネシウム合金の世界市場（2026年～2032年）、市場規模（鋳造合金、鍛造合金、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "民生用電子機器向けマグネシウム合金の世界市場（2026年～2032年）、市場規模（鋳造合金、鍛造合金、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "世界の民生用電子機器向けマグネシウム合金市場規模は、2025年の5億2,500万米ドルから2032年には7億8,000万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.9%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地理的地域別および国/地域別の年間売上高と年間収益の市場規模データが含まれています",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までの地域別の市場規模予測と年間収益予測に加え、アメリカ地域、APAC地域、ヨーロッパ地域、中東およびアフリカ地域における国別の予測、さらにタイプ別および用途別の世界予測が提供されています",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "市場全体の年間売上高は2026年の148億ドルから2046年には2,336億ドルに拡大し、年間販売台数は約490万台に達する見通しです",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "本調査レポートでは、バッテリー需要（MWh）と市場規模（単位：100万ドル）の10年間の詳細予測を提供するとともに、ヒューマノイドロボット向けのバッテリー技術、正極材、各用途の主な市場参入企業についても徹底分析しています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、物流、家庭用の各用途にわたるヒューマノイドロボット市場は、今後5年で急拡大し、2030年代初めまでに約250億ドル規模に達する見通しですが、その後、成長は緩やかになり、市場は2036年にかけて徐々に飽和状態（295億ドル）に向かうと予想されています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに50億ドル規模近くまで成長が予測されるインキャビンセンシングとADASにおけるIRカメラ技術の市場機会と用途を明らかにしています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "2019年以降の地域別（中国、欧州、米国、その他の地域）の販売実績データと、2024年から2044年までの市場予測を掲載し、ロボシャトルと自動運転バスの市場が2044年までに670億ドルを超える規模に成長すると予測するなど、大きな機会があることを明らかにしています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラック市場が2044年までに1200億ドルを超える規模に成長すると予測するなど、大きな機会があることを明らかにしています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "自動車向けLiDAR市場は2034年までに95億ドル規模に成長する見込みです",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "29種類のロボットとアプリケーションとセンサータイプ別に、各種センサーの年間販売台数と市場規模の予測を提供し、今後20年間でもっとも急速に伸びるセンサーやロボットアプリケーションを明確に把握することができます",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、ヒューマノイドロボット用金属材料の世界市場に関する詳細かつ包括的な分析であり、2025年を基準年として、市場規模（トンおよび百万米ドル）と前年比成長率を提供します",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "(1) ヒューマノイドロボット用金属材料の世界市場規模、過去データ2021-2025年、および予測データ2026-2032年（百万米ドル）および（トン）",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.2 世界の人型ロボット金属材料市場規模と予測",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.1 消費額別、世界の人型ロボット金属材料市場規模、2021-2032",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.2 販売数量別、世界の人型ロボット金属材料市場規模、2021-2032",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.3 日本の人型ロボット金属材料市場規模と予測",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.1 消費額別、日本の人型ロボット金属材料市場規模、2021-2032",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.2 販売数量別、日本の人型ロボット金属材料市場規模、2021-2032",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.3 人型ロボット金属材料市場規模：日本 vs 世界、2021-2032",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "8.4.1 北米の人型ロボット金属材料市場規模と予測、2021-2032",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "8.4.2 国別、北米の人型ロボット金属材料市場規模シェア",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "8.5.1 欧州の人型ロボット金属材料市場規模と予測、2021-2032",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "8.5.2 国別、欧州の人型ロボット金属材料市場規模シェア",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "8.6.1 アジア太平洋の人型ロボット金属材料市場規模と予測、2021-2032",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "「ゴジラ」新作 初日興収9.1億円",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "約1億円の「光るトイレ」現在は",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "The physical AI economy extends well beyond computing. Industrial robots, autonomous mobile robots (AMRs), and drones are among a number of new applications, seeing over half a million industrial robots installed globally in 2024, over twice the amount from ten years earlier.",
+    "url": "https://www.lightmetalage.com/news/industry-news/magnesium/magnesium-in-the-age-of-ai-and-robotics-beyond-automotive/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の民生用電子機器向けマグネシウム合金市場規模は、2025年の5億2,500万米ドルから2032年には7億8,000万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.9%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "市場全体の年間売上高は2026年の148億ドルから2046年には2,336億ドルに拡大し、年間販売台数は約490万台に達する見通しです",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、物流、家庭用の各用途にわたるヒューマノイドロボット市場は、今後5年で急拡大し、2030年代初めまでに約250億ドル規模に達する見通しですが、その後、成長は緩やかになり、市場は2036年にかけて徐々に飽和状態（295億ドル）に向かうと予想されています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechExは、農業、物流、点検、軍事、緊急対応での商用利用の拡大が追い風となり、世界のドローン市場は2036年にかけて大きな成長を遂げると予測しています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット用金属材料のグローバル市場は、2025年の255万米ドルから2032年までに5,773万米ドルへ成長すると予測されており、2026年から2032年の期間における年平均成長率（CAGR）は48.8%です",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月9日、中国の公告第61号は、特定の希土類品目および希土類永久磁石を含む製品への輸出規制を拡大しました",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "一方、2025年10月後半にはLynasがマレーシアでの重希土類分離能力拡大への投資を発表しました",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、ヒューマノイドロボット用金属材料の世界市場に関する詳細かつ包括的な分析であり、2025年を基準年として、市場規模（トンおよび百万米ドル）と前年比成長率を提供します",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "(5) ヒューマノイドロボット用金属材料の世界の主要生産地域、生産能力、生産量、および前年比成長率",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：ヒューマノイドロボット用金属材料の世界の主要生産地域、割合とCAGR、2021-2032年",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：タイプ別セグメント、販売数量、平均価格、消費額、割合とCAGR、2021-2032年",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：用途別セグメント、販売数量、平均価格、消費額、割合とCAGR、2021-2032年",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域レベルでのセグメント、販売数量、平均価格、消費額、割合とCAGR、2021-2032年",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国レベルでのセグメント、販売数量、平均価格、消費額、割合とCAGR、2021-2032年",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "7.2 用途別、世界の人型ロボット金属材料消費額とCAGR、2021年 vs 2025年 vs 2032年",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "9.1 国別、世界の人型ロボット金属材料市場規模とCAGR、2021年 vs 2025年 vs 2032年",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "表 1. ヒューマノイドロボット金属材料の消費額とCAGR：日本 vs 世界、2021-2032年、US$ Million",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "表 25. 用途別、世界のヒューマノイドロボット金属材料の消費額とCAGR、2021年 vs 2025年 vs 2032年、US$ Million",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "表 29. 国別、世界のヒューマノイドロボット金属材料の消費額とCAGR、2021年 vs 2025年 vs 2032年、US$ Million",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "2021年から2026年までのAPAC地域の国/地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾を含む）の売上高と収益、タイプ別売上高、用途別売上高の詳細な分析が提供されています",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechExの一次調査、企業の開示情報、出荷情報、独自の市場モデリングに基づき、製品アーキテクチャ、実現技術、ビジネスモデル、企業動向、導入障壁を評価し、2046年までの年間売上高、販売台数、平均販売価格も予測しています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "市場全体の年間売上高は2026年の148億ドルから2046年には2,336億ドルに拡大し、年間販売台数は約490万台に達する見通しです",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "また、車載ソフトウェア業界の今後20年間の地域別・SAE自動運転レベル別に金額（単位：ドル）と年間販売台数の予測も掲載しています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "20年間の予測を掲載し、乗用車向けADAS市場の地域別内訳を、金額（単位：ドル）と年間販売台数の予測とともにご覧いただけます",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の車載用レーダーの出荷台数は1億4000万台を突破する見込みですが、成長の余地はまだあります",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "レーダーの成長と技術進化は、IDTechExの20年間の市場予測に反映されており、販売台数、収益、仮想チャンネル数別レーダー、レーダートランシーバー半導体技術、レーダーの周波数帯、車載用レーダー向け低損失材料をカバーしています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "また、自動車業界の今後20年間について、地域別・SAE自動運転レベル別に金額（単位：ドル）と年間販売台数の予測も掲載しています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "自動車関連に焦点を当てながら、LiDARの台数および市場価値について10年間の市場予測を出しています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "29種類のロボットとアプリケーションとセンサータイプ別に、各種センサーの年間販売台数と市場規模の予測を提供し、今後20年間でもっとも急速に伸びるセンサーやロボットアプリケーションを明確に把握することができます",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "適切な合金を選択するには、強度対重量比、振動減衰性、製造性、および1kgあたりのコストのバランスを取る必要がありますが、アルミニウムは極限温度性能を除くすべての指標で優れています",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの特性は、5kgの産業用ドローンが壁に衝突した際に特に重要となります",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "7075-T6はσ_uts/ρ ≈ 215 kN·m/kgに達し、一般的なアルミニウムの熱処理状態の中で最も高い値を示す",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー吸収量（1kgあたり）",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "重量25kg未満の商用および産業用UAVにおいては、アルミニウムが依然としてリスクが低く、飛行時間あたりのコストも低い選択肢となる",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作品や少量生産（10～5,000個）に最も一般的な方法です",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型コストは低く、部品1個あたりのコストは中程度です",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "大量生産（10,000個以上）に最適です",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間1,000～3,000台のドローン生産においては、押出成形アームとCNC加工された中央ハブを組み合わせたハイブリッド方式が、一般的に最も経済的な選択肢となります",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "3,000台を超える生産量では、カスタム押出成形による金型償却のメリットが顕著に現れます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、1,000台未満の生産量では、CNC加工されたプレートのみを使用する方が、より迅速かつ低コストで済みます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "構造重量25kg、ペイロード重量25kgのドローンは、構造重量15kg、ペイロード重量25kgのドローンに比べて、飛行時間が半分になってしまいます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、最新の25kgの産業用ドローンフレームは、わずか8～12kgのアルミニウムで済み、2015年に製造された同等の押出成形フレームの半分の質量で済みます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "離陸重量25kg以下の商用および産業用ドローンでは、一般的にアルミニウムの方が経済的である",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機の重量を100kg削減すると、燃料消費量を2～3%削減できる可能性がある",
+    "url": "https://www.pans-cnc.com/ja/materials_nowledge/magnesium-alloys-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの場合、初期段階のチームは、大量生産に着手する前に、製品をテストするために30個から500個の部品を必要とします",
+    "url": "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "pass": 3
+   },
+   {
+    "quote": "１０月に販売する計画で、年間２００台の販売を目指す",
+    "url": "https://newswitch.jp/p/17260",
+    "pass": 3
+   },
+   {
+    "quote": "eve autonomyとブリヂストン、レベル4の自動運転技術と次世代タイヤ「AirFree」の組み合わせによる価値検証を推進",
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、ヒューマノイドロボット用金属材料の世界的な生産能力は800トン、販売量はおよそ750トンに達し、平均市場価格は約3,200米ドル/トンで、産業粗利益率は26%でした",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、ヒューマノイドロボット用金属材料の世界市場に関する詳細かつ包括的な分析であり、2025年を基準年として、市場規模（トンおよび百万米ドル）と前年比成長率を提供します",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "(1) ヒューマノイドロボット用金属材料の世界市場規模、過去データ2021-2025年、および予測データ2026-2032年（百万米ドル）および（トン）",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "(2) ヒューマノイドロボット用金属材料の世界販売量、収益、企業別価格、市場シェア、および業界ランキング2021-2026年（百万米ドル）および（トン）",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "(3) ヒューマノイドロボット用金属材料の日本販売量、収益、企業別価格、市場シェア、および業界ランキング2021-2026年（百万米ドル）および（トン）",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "表 7. 世界のヒューマノイドロボット金属材料の企業別販売数量、(2021-2026年) および (トン)、2025年の販売数量に基づく順位",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "表 9. 世界のヒューマノイドロボット金属材料の企業別平均販売価格 (ASP)、(2021-2026年) および (US$/トン)",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "表 17. 日本のヒューマノイドロボット金属材料の企業別販売数量、(2021-2026年) および (トン)、2025年の販売数量に基づく順位",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "表 19. 世界のヒューマノイドロボット金属材料の地域別生産量と予測、2021年 vs 2025年 vs 2032年、(トン)",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "表 20. 世界のヒューマノイドロボット金属材料の地域別生産量、2021-2026年、(トン)",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "表 21. 世界のヒューマノイドロボット金属材料の地域別生産量予測、2027-2032年、(トン)",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "表 28. 地域別、世界のヒューマノイドロボット金属材料の販売数量、2021-2032年、(トン)",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "表 32. 国別、世界のヒューマノイドロボット金属材料の販売数量、2021-2032年、(トン)",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "表 36. Baoji Titanium Industryのヒューマノイドロボット金属材料の販売数量 (トン)、収益 (US$ Million)、価格 (US$/トン)、粗利率、2021-2026年",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "表 41. Baowuのヒューマノイドロボット金属材料の販売数量 (トン)、収益 (US$ Million)、価格 (US$/トン)、粗利率、2021-2026年",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "１０月に販売する計画で、年間２００台の販売を目指す",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "台湾のパナ工場で火災 2人不明",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "台湾の工場で火災 従業員2人不明",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "個性的の御朱印の寺社6選 京都",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "ば、米軍の最新鋭戦闘機であるF35には418kg、バージニア級原子力潜水艦には4600kgものレアアー",
+    "url": "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1. 「海外の組織および個人」が、中国以外の他国・地域へ以下の物品を輸出する場合、中国商務部発行の",
+    "url": "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Discussion of AI has been dominated by algorithms and large language models. Yet, every AI application is tied to physical infrastructure (Figure 1). The growth in AI capability and adoption will ultimately drive investment in infrastructure and increasing electricity demands from data centers.",
+    "url": "https://www.lightmetalage.com/news/industry-news/magnesium/magnesium-in-the-age-of-ai-and-robotics-beyond-automotive/",
+    "pass": 3
+   },
+   {
+    "quote": "Valipoorsalimi, P., Sari, Y.A., and Pekguleryuz, M., “Mechanical Property Design of Bio-compatible Mg alloys using Machine-Learning Algorithms,” ResearchGate, May 2023.",
+    "url": "https://www.lightmetalage.com/news/industry-news/magnesium/magnesium-in-the-age-of-ai-and-robotics-beyond-automotive/",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "本インサイトレポートは、世界の民生用電子機器向けマグネシウム合金市場の全体像を包括的に分析し、製品セグメンテーション、企業動向、収益、市場シェア、最新動向、M&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、世界的な主要企業の戦略を分析し、特に民生用電子機器向けマグネシウム合金のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、加速する世界的な民生用電子機器向けマグネシウム合金市場におけるこれらの企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、民生用電子機器向けマグネシウム合金市場の包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "各セグメントでは、2021年から2026年までの世界売上市場シェア、収益と市場シェア、販売価格の詳細なデータが示されています",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの企業別の年間売上高、売上市場シェア、年間収益、収益市場シェア、および販売価格が網羅されています",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーの生産地域分布、販売地域、提供される製品タイプ、競争状況分析を含む市場集中度分析（CR3、CR5、CR10の集中度を2024年から2026年まで）、新製品情報、潜在的参入企業、市場のM&A活動と戦略に関する情報も含まれています",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "原材料とそのサプライヤー、詳細な製造コスト構造、製造プロセス、および産業チェーン構造に関する情報が提供されています",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、Luxfer、U.S. Magnesium、Dead Sea Magnesium、Yunhai Special Metals、Regal Magnesium、Magontec、Zhenxin Magnesium、Shanxi Bada Magnesium、Yinguang Huasheng Magnesium、Huashun Magnesium、Shaanxi Tianyu Magnesiumといった主要企業の詳細な分析が含まれています",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "希土類磁石(レア・アースマグネット) 2027-2037年：技術、供給、市場、予測",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "現在の市場成長段階は、高性能材料や部品サプライヤーに数多くの機会をもたらしています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "全面的に改訂した世界の規制分析や100ページを超える用途レベルの調査に裏付けされた本レポートは、業界関係者（ドローンメーカー、運用事業者、投資家、規制当局）にとって、市場機会がどこにあるか、規制の枠組みが導入に与える影響、今後10年のUAVのイノベーションを形作る可能性が最も高い技術などについて理解を深める上で役立つ内容となっています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "大手自家用車メーカーの技術だけでなく、そのシステムをサポートするADAS用ハードウェア・ソフトウェアのサプライヤーについても深い洞察を得ることができます",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、AI機能とSDVの機能（バイタルサインモニタリング、スマートインテリア、インフォテインメントなど）の統合、ハードウェアのコスト削減、既存のインキャビンセンサーを活用した機能拡張とその収益化など、自動車メーカーの最新トレンドも取り上げています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、大手乗用車メーカーの技術や、商用ロボタクシーの開発と展開の現状について深い洞察を提供しています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のドローンメーカーが採用している、鍛造アルミニウム製品に関する国際規格",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "華暁合金は、ドローン、ロボット、UAVメーカー向けに、アルミニウム板、シート、押出材、CNC加工フレーム部品を提供しています",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、多くのロボットおよびドローンメーカーは、ボルト締めまたはスナップフィット接続を採用することで、フレームの迅速な回収を可能にし、製品寿命後の分解を前提とした設計を行っています",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社工場と信頼できる中国のネットワークを活用することで、複雑かつ高品質な部品を効率的に供給することが可能です",
+    "url": "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム部品サプライヤーはどのような認証を取得すべきでしょうか？",
+    "url": "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトの成果は、サプライヤーの能力、資材の追跡能力、生産の一貫性といった要素によって左右されます",
+    "url": "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "pass": 3
+   },
+   {
+    "quote": "これらの違いを理解し、材料のトレーサビリティ、DFM（製造性設計）サポート、そして一貫した表面仕上げを提供できるメーカーと協力することで、B2B調達チームにとって大きな生産リスクを軽減できます",
+    "url": "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "pass": 3
+   },
+   {
+    "quote": "他の金属よりも軽量で丈夫な素材として、ドローンメーカーからの引き合いがじわりと増えている",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "17年、あるドローンメーカーからホームページを通じて協業の問い合わせがあった",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "【調査資料】ヒューマノイドロボット用金属材料：グローバル主要企業の市場シェア2026年（合金鋼、アルミニウム合金、マグネシウム合金、チタン合金、NdFeB希土類永久磁石）",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット用金属材料：グローバル主要企業の市場シェア2026年（合金鋼、アルミニウム合金、マグネシウム合金、チタン合金、NdFeB希土類永久磁石）",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robots Metal Materials - Global Top Players Market Share and Ranking 2026",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "本研究は、関税引き上げ経路の伝達メカニズムと、それに対するグローバルな政策対応が、企業の投資戦略、地域貿易ネットワーク、および重要材料の供給アーキテクチャに与える影響を解読します",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "産業チェーンは上流（Al/Mg/Tiメーカー、特殊鋼メーカー、銅精錬業者、レアアース採掘/分離業者および磁石材料メーカー）から始まり、半製品（シート/押出材、ダイカスト/鍛造品、粉末および粉末冶金部品）を経て、機械加工、熱処理、表面工学（アルマイト処理/MAO、窒化処理、DLC/PVDなど）へと進み、その後、関節モジュール、減速機/ボールねじ、サーボモーター、最終組み立てへと流れていきます",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "すなわち、材料選定、鋳造/鍛造ルート、機械加工の基準、検査基準が、再現性のある供給として固定化されつつあり、これはまさにヒューマノイドロボット用金属材料スタックがエンジニアリングビルドからスケーラブルな生産へと移行するために必要なことです",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーの収益、市場シェア、および企業プロファイルを含む市場内の競争環境を評価します",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "(2) ヒューマノイドロボット用金属材料の世界販売量、収益、企業別価格、市場シェア、および業界ランキング2021-2026年（百万米ドル）および（トン）",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "(3) ヒューマノイドロボット用金属材料の日本販売量、収益、企業別価格、市場シェア、および業界ランキング2021-2026年（百万米ドル）および（トン）",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：主要メーカーの世界的なヒューマノイドロボット用金属材料市場シェアとランキング、販売数量、収益、平均価格、2021-2026年",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：主要メーカーの日本のヒューマノイドロボット用金属材料市場シェアとランキング、販売数量、収益、平均価格、2021-2026年",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：企業プロファイル、主要企業の市場における基本状況（製品仕様、用途、最近の動向、販売数量、平均価格、収益、粗利益率など）を詳細に紹介",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.4 世界市場における日本の人型ロボット金属材料市場のシェア",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.1 消費額別、世界市場における日本の人型ロボット金属材料市場シェア、2021-2032",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.2 販売数量別、世界市場における日本の人型ロボット金属材料市場シェア、2021-2032",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "基幹産業の多くがレアアースを利用した高付加価値の製品を供給していることになる",
+    "url": "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これらの全ての製品にレアアースが使用されているわけではないが、供給が途絶した場",
+    "url": "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier News",
+    "url": "https://www.lightmetalage.com/news/industry-news/magnesium/magnesium-in-the-age-of-ai-and-robotics-beyond-automotive/",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Interviews",
+    "url": "https://www.lightmetalage.com/news/industry-news/magnesium/magnesium-in-the-age-of-ai-and-robotics-beyond-automotive/",
+    "pass": 3
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.lightmetalage.com/news/industry-news/magnesium/magnesium-in-the-age-of-ai-and-robotics-beyond-automotive/",
+    "pass": 3
+   },
+   {
+    "quote": "North America is a major center for hyperscale AI investment and venture-backed robotics. The U.S. hosts the largest concentration of AI data centers, while Canada has emerging strengths in AI research and robotics. This region offers opportunities for magnesium suppliers serving robotics, defense, advanced manufacturing, and edge-computing applications.",
+    "url": "https://www.lightmetalage.com/news/industry-news/magnesium/magnesium-in-the-age-of-ai-and-robotics-beyond-automotive/",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "2021年から2026年までのAPAC地域の国/地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾を含む）の売上高と収益、タイプ別売上高、用途別売上高の詳細な分析が提供されています",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：民生用電子機器向けマグネシウム合金の世界市場2026年～2032年",
+    "url": "https://newscast.jp/smart/news/7012785",
+    "pass": 3
+   },
+   {
+    "quote": "ASIA (Japan and Korea):",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.pans-cnc.com/ja/materials_nowledge/magnesium-alloys-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "マクルウ、自律飛行型ドローン用マグネシウム合金パイプを用いた溶接機体の開発で日本マグネシウム協会賞「技術賞」を受賞 – DRONE.jp",
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "pass": 3
+   },
+   {
+    "quote": "マクルウ、自律飛行型ドローン用マグネシウム合金パイプを用いた溶接機体の開発で日本マグネシウム協会賞「技術賞」を受賞",
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マクルウは、一般社団法人日本マグネシウム協会による平成30年度（第22回）日本マグネシウム協会賞「技術賞」を受賞した",
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本マグネシウム協会賞「技術賞」は、マグネシウムの生産・加工、製品の製造などに関係した優れた技術研究を対象とし、独創性、新規性のある用途開発、技術・設備の開発と導入などを行った、個人または法人に贈られるもの",
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "pass": 3
+   },
+   {
+    "quote": "マクルウによる「自律飛行型ドローン用マグネシウム合金パイプを用いた溶接機体の開発」が同賞に選出され、2019年6月13日に學士會館（東京都千代田区）で開催された日本マグネシウム協会第11回通常総会において表彰式が行われた",
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本マグネシウム協会主催技術講演会「マグネシウム製品の開発秘話と最前線」（2019年6月28日、京橋区民館）にて、「産業用ドローンの機体にマグネシウム合金パイプが採用される3つの理由」と題し、同技術について講演を行う予定",
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "pass": 3
+   },
+   {
+    "quote": "主催：一般社団法人日本マグネシウム協会",
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Systems、日本法人設立で無人機の国産サプライチェーン構築へ",
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛・無人機ニーズを支援",
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "pass": 3
+   },
+   {
+    "quote": "DRONE.jp（https://drone.jp/、以下本サイト）は、ドローンやマルチコプターについての本格的な解説やおすすめ、最新情報を発信する日本初のメディアとして、「Explore the Future」をタグラインに2015年スタートしました",
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年、時代とテクノロジーの急速な進化を押さえ、ドローンを起点に、「空飛ぶクルマ」、「自動運転」、「AI」、「ロボティクス」、「電気自動車（EV）」、「宇宙関連」など、時代を変えていく国内外のテクノロジーについて、幅広くみなさまにお伝えします",
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "pass": 3
+   },
+   {
+    "quote": "マクルウ、「自律飛行型ドローン用マグネシウム合金パイプを用いた溶接機体の開発」で日本マグネシウム協会賞「技術賞」を受賞 - ドローンジャーナル",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1182650.html",
+    "pass": 3
+   },
+   {
+    "quote": "マクルウ、「自律飛行型ドローン用マグネシウム合金パイプを用いた溶接機体の開発」で日本マグネシウム協会賞「技術賞」を受賞",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1182650.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年6月18日、マクルウは、一般社団法人日本マグネシウム協会（以下日本マグネシウム協会）による平成30年度（第22回）日本マグネシウム協会賞「技術賞」を受賞したことを発表した",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1182650.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本マグネシウム協会賞「技術賞」は、マグネシウムの生産・加工、製品の製造などに関係した優れた技術研究を対象とし、独創性、新規性のある用途開発、技術・設備の開発と導入などを行った、個人または法人に贈られるものである",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1182650.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回、マクルウによる「自律飛行型ドローン用マグネシウム合金パイプを用いた溶接機体の開発」が同賞に選出され、令和元年6月13日(木)に學士會館（東京都千代田区）において開催された日本マグネシウム協会第11回通常総会において表彰式が行われた",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1182650.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本マグネシウム協会",
+    "url": "https://drone-journal.impress.co.jp/docs/news/1182650.html",
+    "pass": 3
+   },
+   {
+    "quote": "静岡のマクルウ、マグネシウムのドローン 軽くて丈夫 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本株ランキング",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本株サマリー",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "ドキュメント日本",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "今野真二「日本語日記」",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした仕事が評価され、18年度の日本マグネシウム協会賞「技術賞」を受賞した",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "日の丸防衛ドローンが熱い 実戦多い海外・素材の日本、協業に双方思惑",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "世界でドローン経済圏 防衛新興が狙う日本技術、ミネベアは軸受け",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "未来面「国産農畜産物の価値、あなたはどのように伝える？」",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "「ごみ」が日本を救う",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞の編集者が選んだ押さえておきたい「ニュース５本」をお届けします",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞社の関連サイト",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "NATIONAL GEOGRAPHIC 日本版",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel JAPAN",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞社について",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "※日本語翻訳版も取り扱っております",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "日本語版のSingle Userライセンスの価格は￥637,420(税別)で納期は受注後8～10営業日です",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "「英語版＋日本語版」やMulti User/Corporateライセンス価格など、詳細は別途お問い合わせください",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "※お支払金額は「換算金額（日本円）＋消費税＋配送料（Eメール納品は無料）」です",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "※上記の日本語題名はH&Iグローバルリサーチが翻訳したものです",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "英語版原本には日本語表記はありません",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月10日、米国防衛関連機関とMP Materialsは、国内の希土類磁石能力を加速するための官民パートナーシップを推進しました",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "(3) ヒューマノイドロボット用金属材料の日本販売量、収益、企業別価格、市場シェア、および業界ランキング2021-2026年（百万米ドル）および（トン）",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋（中国、日本、韓国、インド、東南アジア、オーストラリア、その他のアジア太平洋諸国）",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：ヒューマノイドロボット用金属材料の製品範囲、世界的な販売数量、価値、平均価格、日本の販売数量、価値、平均価格、開発機会、課題、トレンド、および政策について説明します",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：主要メーカーの日本のヒューマノイドロボット用金属材料市場シェアとランキング、販売数量、収益、平均価格、2021-2026年",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.3 日本の人型ロボット金属材料市場規模と予測",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.1 消費額別、日本の人型ロボット金属材料市場規模、2021-2032",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.2 販売数量別、日本の人型ロボット金属材料市場規模、2021-2032",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.3 日本の人型ロボット金属材料平均販売価格（ASP）、2021-2032",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "列車事故 死亡の日本人2人は20代",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "「ゴジラ－0.0」日本歴代1位に",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "北、日本海に向け飛翔体を発射か",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "南野拓実が日本代表メンバー復帰",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で「重婚」はなぜ起きない?",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "米在住者が日本のタコベル実食",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "試合の事故でFW死去 日本戦中止",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "台湾で日本人男性不明 直前の姿",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "ひろゆき氏私見「劣化した日本」",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "乗用車向けADAS市場に関するIDTechExの本調査レポートでは、レベル2、レベル2+、レベル3の乗用車を対象に、ADAS（先進運転支援システム）市場を技術と市場の観点から包括的に分析しています",
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "pass": 3
+   },
+   {
+    "quote": "パンズ教育基金",
+    "url": "https://www.pans-cnc.com/ja/materials_nowledge/magnesium-alloys-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "マグネシウム合金の価格上昇は、航空宇宙製造の全体予算に影響を与える",
+    "url": "https://www.pans-cnc.com/ja/materials_nowledge/magnesium-alloys-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "5 慶応大学学生 宇宙エレベータに軽量部品を提供支援",
+    "url": "https://sagamirobot.pref.kanagawa.jp/matchingdb/project/detail10.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛・無人機ニーズを支援",
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "pass": 3
+   },
+   {
+    "quote": "米 イスラエル支援を打ち切りへ",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   },
+   {
+    "quote": "「マネーフォワード ME」がMetaのAI「Muse」と連携、家計の見直しや貯蓄計画を支援",
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "一般的な商用ドローンにおいて、フレームのコストは部品表全体の8～18%を占める",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "特注押出金型は1,500～5,000ドルかかりますが、部品単価は低く抑えられます",
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "pass": 3
+   },
+   {
+    "quote": "実用的な部品表（BOM）の視点から見ると、ヒューマノイドロボット用金属材料は3つの層に分けられます",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "権限不足のため、フォローできません",
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月9日、中国の公告第61号は、特定の希土類品目および希土類永久磁石を含む製品への輸出規制を拡大しました",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "成長は、（i）一体鋳造と薄肉構造設計（腐食と品質の安定性が成熟するにつれて、マグネシウムへの慎重なシフトも含む）、（ii）より清浄な鋼材と長寿命軌道面/歯車表面工学、および（iii）高周波動作のためのより薄い電磁鋼板と、重希土類への依存度を減らしつつ高温安定性を向上させる磁石配合に集中しています",
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "pass": 3
+   },
+   {
+    "quote": "レアアースの中国依存リスクは甚大",
+    "url": "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース輸出規制強化方針で改めて明確になった“中国独占”のリスク",
+    "url": "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月 9日に中国政府が公表したレアアースに関する新たな輸出規制（中国商務部公告2025",
+    "url": "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「外国為替及び外国貿易法」に基づいて、一部の高性能な半導体製造装置の輸出規制の強化などを行",
+    "url": "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 10 月に中国政府が発表したレアアースに関する新たな輸出規制は、その影響の大きさから米国が強く",
+    "url": "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ、新たな輸出規制は産業情報が中国政府に筒抜けになることを",
+    "url": "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "意味するほか、中国政府が独自の基準に照らして輸出規制などを行ってきたこれまでの経緯から判断",
+    "url": "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（図表1）「海外関連レアアース物品の輸出規制実施に関する決定」（一部抜粋）",
+    "url": "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.atpress.ne.jp/news/2281723",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/%E7%94%A3%E6%A5%AD%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-9257",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/7012785",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/magnesium-alloy-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/agriculture-robots-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/robotics-market-4732",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mri.co.jp/knowledge/column/20260113.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000362216",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/release/31205825/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moomoo.com/ja/news/post/1000924202",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pans-cnc.com/ja/materials_nowledge/magnesium-alloys-in-aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ccpcontactprobes.com/ja/scenario-drone/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://sagamirobot.pref.kanagawa.jp/matchingdb/project/detail10.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alunex.com.tw/ja/faq/die-casting-expertise/aluminum-die-cast-components-for-drones",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/17260",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/industrial-robot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotstart.info/article/2026/08/10/382256.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rsi.jrcnet.co.jp/column-industrialrobotshare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1178/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/5923088",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone.jp/news/2019061816203126969.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone-journal.impress.co.jp/docs/news/1182650.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mujin.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpfs.co.jp/product/drf/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.livedoor.com/article/detail/16317718/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/100920459.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reuters.com/jp/world/ukraine/TDW7CLN6MBKPJJM6VM67A2RYSQ-2025-09-25/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sbbit.jp/article/cont1/37178",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/magnesium-alloy-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/magnesium-alloy-ingot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-robotics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abiresearch.com/blog/global-robotics-market-outlook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/magnesium-alloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/autonomous-mobile-robots-amr-market-worth-4-56-billion-in-2030---exclusive-report-by-marketsandmarkets-302342746.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lightmetalage.com/news/industry-news/magnesium/magnesium-in-the-age-of-ai-and-robotics-beyond-automotive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uc.edu/content/dam/refresh/cont-ed-62/olli/s25-handouts/exploring%20humanoid%20robots%205.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロボット・無人機のマグネシウム合金 市場規模 CAGR",
+   "results": [
+    "https://www.atpress.ne.jp/news/2281723",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/%E7%94%A3%E6%A5%AD%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-9257",
+    "https://newscast.jp/smart/news/7012785",
+    "https://www.mordorintelligence.com/ja/industry-reports/magnesium-alloy-market",
+    "https://www.sphericalinsights.com/jp/reports/agriculture-robots-market",
+    "https://www.marketresearchfuture.com/ja/reports/robotics-market-4732",
+    "https://jp.linkedin.com/pulse/%E5%95%86%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr49%E3%81%AE%E4%BA%88%E6%B8%AC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90-gainmetric-gznie",
+    "https://www.imarcgroup.com/report/ja/magnesium-alloys-market",
+    "https://www.gii.co.jp/report/root2015362-magnesium-alloys-market-till-industry-trends.html",
+    "https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のマグネシウム合金 需要 見通し 2030",
+   "results": [
+    "https://www.idtechex.com/ja/reports/robotics-and-autonomy/99",
+    "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "https://www.mri.co.jp/knowledge/column/20260113.html",
+    "https://www.dreamnews.jp/press/0000362216",
+    "https://japan.zdnet.com/release/31205825/",
+    "https://www.moomoo.com/ja/news/post/1000924202",
+    "https://www.soumu.go.jp/main_content/000562473.pdf",
+    "https://www.cnn.co.jp/business/35139033.html",
+    "https://www.atpress.ne.jp/news/7869582",
+    "https://www.marketreport.jp/insight/magnesium-alloys-market-pred/"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のマグネシウム合金 部品構成 コスト",
+   "results": [
+    "https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html",
+    "https://www.pans-cnc.com/ja/materials_nowledge/magnesium-alloys-in-aerospace/",
+    "https://www.boenrapid.com/ja/knowledge/understanding-common-aluminum-alloys-used-for-parts",
+    "https://www.ccpcontactprobes.com/ja/scenario-drone/",
+    "https://sagamirobot.pref.kanagawa.jp/matchingdb/project/detail10.html",
+    "https://www.alunex.com.tw/ja/faq/die-casting-expertise/aluminum-die-cast-components-for-drones",
+    "https://newswitch.jp/p/17260",
+    "https://baike.baidu.com/ja/item/%E7%B2%BE%E5%AF%86%E6%A7%8B%E9%80%A0%E9%83%A8%E5%93%81/3647136",
+    "https://xtmim.com/ja/mim-parts/drone-parts/"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のマグネシウム合金 シェア 主要企業",
+   "results": [
+    "https://newswitch.jp/p/17260",
+    "https://deallab.info/industrial-robot/",
+    "https://robotstart.info/article/2026/08/10/382256.html",
+    "https://rsi.jrcnet.co.jp/column-industrialrobotshare/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1178/",
+    "https://www.atpress.ne.jp/news/5923088",
+    "https://humanoidpress.jp/humanoid-robot-companies-stocks/",
+    "https://www.nedo.go.jp/content/100920459.pdf",
+    "https://drone.jp/news/2019061816203126969.html",
+    "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のマグネシウム合金 日本企業",
+   "results": [
+    "https://newswitch.jp/p/17260",
+    "https://drone.jp/news/2019061816203126969.html",
+    "https://www.ccpcontactprobes.com/ja/scenario-drone/",
+    "https://drone-journal.impress.co.jp/docs/news/1182650.html",
+    "https://www.mujin.co.jp/",
+    "https://www.jpfs.co.jp/product/drf/",
+    "https://sagamirobot.pref.kanagawa.jp/matchingdb/project/detail10.html",
+    "https://www.youtube.com/watch?v=l4i_RALf-5g",
+    "https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/",
+    "https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のマグネシウム合金 不足 OR 中国依存",
+   "results": [
+    "https://news.livedoor.com/article/detail/16317718/",
+    "https://www.ccpcontactprobes.com/ja/scenario-drone/",
+    "https://www.nedo.go.jp/content/100920459.pdf",
+    "https://www.reuters.com/jp/world/ukraine/TDW7CLN6MBKPJJM6VM67A2RYSQ-2025-09-25/",
+    "https://www.dlri.co.jp/files/macro/556237.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "https://www.sbbit.jp/article/cont1/37178",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00138/061601787/"
+   ]
+  },
+  {
+   "query": "magnesium alloy robots drones demand market size CAGR 2030",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/magnesium-alloy-market",
+    "https://www.sphericalinsights.com/reports/magnesium-alloy-ingot-market",
+    "https://www.grandviewresearch.com/industry-analysis/space-robotics-market",
+    "https://www.abiresearch.com/blog/global-robotics-market-outlook",
+    "https://www.skyquestt.com/report/magnesium-alloys-market",
+    "https://www.prnewswire.com/news-releases/autonomous-mobile-robots-amr-market-worth-4-56-billion-in-2030---exclusive-report-by-marketsandmarkets-302342746.html",
+    "https://www.marketresearchfuture.com/reports/robotics-market-4732",
+    "https://www.linkedin.com/pulse/growth-segmentation-142-cagr-forecast-extruded-magnesium-c8ape",
+    "https://www.marketdataforecast.com/market-reports/magnesium-market",
+    "https://www.thebusinessresearchcompany.com/report/metal-magnesium-global-market-report"
+   ]
+  },
+  {
+   "query": "magnesium alloy robots drones demand cost breakdown bill of materials",
+   "results": [
+    "https://www.lightmetalage.com/news/industry-news/magnesium/magnesium-in-the-age-of-ai-and-robotics-beyond-automotive/",
+    "https://www.uc.edu/content/dam/refresh/cont-ed-62/olli/s25-handouts/exploring%20humanoid%20robots%205.pdf",
+    "https://blog.robozaps.com/b/economics-of-humanoid-robot-production",
+    "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "https://thehumanoid.ai/glossary/bom-costs/",
+    "https://www.grabarobot.com/blog/humanoid-robot-bill-of-materials-cost-2026/",
+    "https://www.frontiersin.org/journals/materials/articles/10.3389/fmats.2021.575530/full",
+    "https://pcim.mesago.com/nuernberg/en/pcim-insights/pcim-magazine/the-multi-billion-dollar-market-for-humaoid-robots.html",
+    "https://www.eurekalert.org/news-releases/1125409",
+    "https://www.sourcebyspec.com/news/drone-manufacturing-cost-breakdown-bom-drivers-and-2026-sourcing-levers.html"
+   ]
+  },
+  {
+   "query": "magnesium alloy robots drones demand demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://www.industryarsenal.com/p/humanoid-robots-a-new-opportunity-for-the-foundry-industry",
+    "https://www.rockingrobots.com/robot-production-increases-demand-for-rare-earth-materials/",
+    "https://www.thefai.org/posts/the-robot-boom-has-a-magnet-problem",
+    "https://www.crugroup.com/en/communities/thought-leadership/2025/the-next-commodity-battleground-humanoid-robots/",
+    "https://www.idtechex.com/en/research-report/humanoid-robots/1149",
+    "https://www.recordedfuture.com/research/future-humanoid-robotics",
+    "https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america",
+    "https://investornews.com/critical-minerals-rare-earths/where-will-the-metals-for-the-robot-revolution-come-from?print=print",
+    "https://www.spglobal.com/energy/en/news-research/latest-news/metals/021926-robot-rise-could-be-slowed-by-metals-shortage-analysts",
+    "https://electrek.co/2026/01/30/report-humanoid-robots-set-to-drive-demand-for-solid-state-batteries/"
+   ]
+  },
+  {
+   "query": "site:note.com ロボット・無人機のマグネシウム合金",
+   "results": [
+    "https://note.com/kagawatomo/n/n9e2f448cd57c",
+    "https://note.com/kagawatomo/n/nb26b8c9b3768",
+    "https://note.com/witty_jacana219/n/ne16e6222ecd7",
+    "https://note.com/kagawatomo/n/n82d6ebfa2926",
+    "https://note.com/tatsuya_sabato/n/ncfca7c0faa14",
+    "https://note.com/amagasaki_mono/n/ne0239dd6f395",
+    "https://note.com/clean_turkey7809/n/neecf6e232d99",
+    "https://note.com/kanitamabu/n/n3649d64b70e8",
+    "https://note.com/nakagawasann/n/n4c0b3ea2a4b8",
+    "https://note.com/good_dill292/n/n28ac553482ba"
+   ]
+  },
+  {
+   "query": "site:x.com ロボット・無人機のマグネシウム合金",
+   "results": [
+    "https://x.com/KagawaTomo/article/2077913764050190547",
+    "https://x.com/M0DxFwWZ30PfTZx",
+    "https://x.com/PlanetRing_Inc",
+    "https://x.com/EMIDASmag_WEB",
+    "https://x.com/metalgear_jp",
+    "https://x.com/kouno00",
+    "https://x.com/nikkanhamamatsu",
+    "https://x.com/witch_hoshime",
+    "https://x.com/R_AREA2019/all",
+    "https://x.com/R_AREA2019"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ロボット・無人機のマグネシウム合金",
+   "results": [
+    "https://jp.linkedin.com/company/forward-engineering-japan-co-ltd",
+    "https://jp.linkedin.com/pulse/global-%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-139-cagr%E4%BA%88%E6%B8%AC2026-2033-petronoble-research-lab-fcfde",
+    "https://jp.linkedin.com/pulse/%E3%83%9E%E3%82%B0%E3%83%8D%E3%82%B7%E3%82%A6%E3%83%A0%E3%82%B9%E3%82%AB%E3%83%B3%E3%82%B8%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%B5%B7%E5%A4%96%E6%A9%9F%E4%BC%9A%E3%81%A8%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%912026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E4%BA%88%E6%B8%ACcagr65%E3%81%AE%E6%88%90%E9%95%B7%E3%81%AB-7518879565495324673-8gcae",
+    "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%93%E3%82%AA%E3%83%8B%E3%82%AF%E3%82%B9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E5%88%86%E6%9E%90%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7-7516911719450075137-58cme",
+    "https://jp.linkedin.com/pulse/%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E5%85%85%E9%9B%BB%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%AE%E6%8C%81%E7%B6%9A%E7%9A%84%E6%88%90%E9%95%B7%E3%81%AB%E3%81%AF%E7%B6%99%E7%B6%9A%E7%9A%84%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E4%B8%8D%E5%8F%AF%E6%AC%A0%E3%81%A7%E3%81%99%E7%89%B9%E3%81%AB%E9%87%8D%E8%A6%81-7508913112708784130-ixb7e",
+    "https://jp.linkedin.com/pulse/%E7%94%B7%E6%80%A7%E7%94%A8%E4%BD%9C%E6%A5%AD%E6%9C%8D%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%88%E3%83%AC%E3%83%B3%E3%83%892026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AE%E8%A6%8B%E9%80%9A%E3%81%97%E3%81%A8%E5%B0%86%E6%9D%A5%E6%80%A7-chemdelta-analytics-fjuke",
+    "https://jp.linkedin.com/pulse/%E9%AB%98%E5%9C%A7%E3%83%80%E3%82%A4%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%A9%9F%E5%99%A8-market%E3%81%AE%E9%9C%80%E8%A6%81%E6%8B%A1%E5%A4%A7%E3%81%8C2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr-84%E3%81%A7%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AB%E5%BD%B1%E9%9F%BF%E3%82%92%E4%B8%8E%E3%81%88%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-yhdte",
+    "https://jp.linkedin.com/pulse/%E8%BB%BD%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E5%B8%82%E5%A0%B4%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%8A%E3%82%88%E3%81%B3%E5%9C%B0%E5%9F%9F%E5%88%A5%E6%8B%A1%E5%A4%A72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE75-cagr%E4%BA%88%E6%B8%AC-stratigo-labs-drkqe",
+    "https://jp.linkedin.com/pulse/%E3%83%AA%E3%82%B8%E3%83%83%E3%83%89%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%9B%E3%83%BC%E3%83%A9%E3%83%BC%E5%B8%82%E5%A0%B42033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AB142%E3%81%AE%E6%88%90%E9%95%B7%E7%8E%87%E3%81%A7%E6%80%A5%E6%8B%A1%E5%A4%A7%E4%B8%BB%E8%A6%81%E3%81%AA%E6%8E%A8%E9%80%B2%E8%A6%81%E5%9B%A0%E3%81%A8%E5%B0%86%E6%9D%A5%E6%80%A7-eleviqxc-hfu0e",
+    "https://jp.linkedin.com/pulse/in-depth-%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E5%9B%9E%E8%B7%AF%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC-market-analysis-%E6%88%90%E9%95%B7%E3%81%AE%E6%A4%9C%E8%A8%BC%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE141%E3%81%AEcagr%E4%BA%88%E6%B8%AC-3zzje"
+   ]
+  },
+  {
+   "query": "site:facebook.com ロボット・無人機のマグネシウム合金",
+   "results": [
+    "https://www.facebook.com/kanmingoudouteam/posts/%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E8%80%85%E7%B4%B9%E4%BB%8B-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E3%82%B5%E3%83%B3%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E5%A4%A7%E7%86%8A%E7%94%BA%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E5%B8%82%E4%BB%8A%E5%9B%9E%E3%81%AF%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E5%B8%82%E3%81%AB%E3%81%A6%E7%B2%BE%E5%AF%86%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%82%92%E6%89%8B%E6%8E%9B%E3%81%91%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%83%B3%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E3%82%B5%E3%83%B3%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%81%AF%E5%B9%B3%E6%88%90/3653056034708049/",
+    "https://www.facebook.com/magneyacom/",
+    "https://www.facebook.com/nedo.startup.club/posts/nedo-sbir%E6%B6%88%E9%98%B2%E5%BA%81%E3%81%8C%E6%A4%9C%E8%A8%BC%E6%8A%80%E8%A1%93%E3%82%92%E5%8B%9F%E9%9B%86-%E6%B6%88%E9%98%B2%E6%B4%BB%E5%8B%95%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AE%E3%81%82%E3%82%8B%E6%8A%80%E8%A1%93%E3%82%92%E3%81%8A%E6%8C%81%E3%81%A1%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8%E6%B6%88%E9%98%B2%E5%BA%81%E3%81%A7%E3%81%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E7%AD%89%E3%81%8C%E9%96%8B%E7%99%BA%E3%81%97%E3%81%9F%E6%8A%80%E8%A1%93%E3%82%92%E6%B6%88%E9%98%B2%E6%A9%9F%E9%96%A2%E3%81%A8%E9%80%A3%E6%90%BA%E3%81%97%E3%81%A6%E7%8F%BE%E5%A0%B4/122170182854386197/",
+    "https://www.facebook.com/cybergundam/videos/takara-tomy-2026%E5%B9%B49%E6%9C%88%E7%99%BC%E5%94%AEtoyrise-series-160%E6%A9%9F%E7%94%B2%E5%89%B5%E4%B8%96%E8%A8%98-another-genesisafc-01x-%CE%B1-legioss-ty/1151156107051793/",
+    "https://www.facebook.com/compositecenter/",
+    "https://www.facebook.com/groups/gundammobilesuitposting/posts/6679717415484870/",
+    "https://www.facebook.com/groups/gundammobilesuitposting/posts/9512785915511325/",
+    "https://www.facebook.com/shinkalion/videos/%E3%82%B7%E3%83%B3%E3%82%AB%E3%83%AA%E3%82%AA%E3%83%B3%EF%BD%83%EF%BD%97-%EF%BD%85%EF%BC%98%E3%81%A4%E3%81%B0%E3%81%95%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/791734189748997/",
+    "https://www.facebook.com/DMGMORI.CO/photos/d41d8cd9/1964305983834987/",
+    "https://www.facebook.com/macrw01/videos/今度は君の番だマグネシウム合金パイプを使ったロボット的なオブジェモノづくりワークショップ次回は5月ごろ詳細はマクルウのフェイスブックで発表します/378949586229702/"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のマグネシウム合金 note 社長",
+   "results": [
+    "https://note.com/otl_sr/n/n069149d30cbd",
+    "https://note.com/all_zero/n/n4646576c0bb0",
+    "https://note.com/tender_daisy588/n/n8c63f974f577",
+    "https://www.youtube.com/watch?v=dL7xIc7n0eI",
+    "https://note.com/lovely_camel67/n/ned5c70336349",
+    "https://note.com/joyous_godwit182/n/nf21691b42879",
+    "https://note.com/kagawatomo/n/nce0b951e83fe",
+    "https://www.jst.go.jp/moonshot/program/goal3/index.html",
+    "https://ja.cncmachiningptj.com/article-305.html",
+    "https://note.com/tag/マグネシウム合金"
+   ]
+  },
+  {
+   "query": "ロボット・無人機のマグネシウム合金 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=9jcHVAnM97U",
+    "https://drone-journal.impress.co.jp/docs/news/1182650.html",
+    "https://x.com/rikiya_y",
+    "https://www.youtube.com/watch?v=UFYWx05mDhM&vl=ja",
+    "https://nazology.kusuguru.co.jp/archives/111041",
+    "https://www.youtube.com/watch?v=R4Dys73KLDk",
+    "http://www.indexpro.co.jp/AdLink/Ad/8058",
+    "https://noetixrobotics.com/news/media/966",
+    "https://sagamirobot.pref.kanagawa.jp/matchingdb/project/detail10.html",
+    "https://x.com/tomato0044879/status/2096602103527748059"
+   ]
+  },
+  {
+   "query": "magnesium alloy robots drones demand site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/luca-greco-991641275_japan-steel-works-launches-new-1800-ton-activity-7428799958985822209-Y5V-",
+    "https://www.linkedin.com/in/alex-millar-6a51903",
+    "https://www.linkedin.com/posts/taubermartin_magnesium-activity-7510272553647505409-sgcM",
+    "https://my.linkedin.com/company/ab-technology-m-sdn-bhd",
+    "https://www.linkedin.com/posts/advanced-materials-analytics_precedenceresearch-electricmotors-advancedmaterials-activity-7502644973645987840-wgFJ",
+    "https://in.linkedin.com/in/abhishek-automation",
+    "https://www.linkedin.com/posts/stevebennington_apc-drive35-robotics-activity-7512083756275388417-WR5M",
+    "https://www.linkedin.com/in/deep-trivedi-096",
+    "https://www.linkedin.com/posts/taubermartin_magnesium-activity-7435260705605435392-fFF8",
+    "https://www.linkedin.com/pulse/why-magnesium-alloys-could-become-key-material-humanoid-george-lai-q1ysc/"
+   ]
+  }
+ ],
+ "missing": {}
+}

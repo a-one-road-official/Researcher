@@ -1,0 +1,2661 @@
+{
+ "name": "造船の溶接自動化",
+ "en": "shipbuilding welding automation robots",
+ "aliases": [
+  "造船 溶接ロボット",
+  "造船 自動化 人手不足",
+  "造船 溶接 自動化"
+ ],
+ "context": "造船",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:35:29.221108+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界アーク溶接ロボット市場規模、成長のトップ25企業",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が発表した研究報告によると、グローバルアーク溶接ロボット市場規模は、2024 年までに 2.9 億米ドル 4.1 億米ドル 4.1 億米ドル 4.1 億米ドル 2035 年までに、予測期間 2024-2035 年の間に 3 .2% のCAGR で成長する予定である.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "アーク溶接ロボットの市場規模は、2024年のUSD 2.9億の価値があると推定されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "世界アーク溶接ロボット市場規模は、2035年までにUSD 4.1億ドルに達すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "電気溶接機器の日本市場（2026年～2034年）、市場規模（自動車、建設、造船、エネルギー、航空宇宙）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "電気溶接機器の日本市場（2026年～2034年）、市場規模（自動車、建設、造船、エネルギー、航空宇宙）・分析レポートを発表",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "（５年間120億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採択（予算額2.0億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（総事業費1,200億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "→サプライチェーン強靭化事業で11件を採択（総事業費167億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロエミッション船等の建造促進事業（R6年度開始分 5年間 600億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロエミッション船等の建造促進事業（R7年度開始分 5年間 300億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障推進法に基づく「船舶関連機器のサプライチェーン強靭化」補助 （106億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＤXによる船舶産業の省人化・効率化補助 造船のDXオートメーション補助（2.0億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障推進法に基づく「デジタル技術を用いた高性能次世代船舶開発技術」等開発（120億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• なお、二酸化炭素回収・貯留(CCS)の世界的な拡大に伴い、LCO2輸送船の造船市場規模は、2030年までに計",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.1兆円程度、2040年までに計3.2兆円程度※に拡大すると見込まれている",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＧＩ基金(次世代船舶の開発)：393.4億円(最長10年間)",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和6～10年度 合計600億円",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和7～11年度 合計300億円",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省は2026年3月にAI造船ロボットやAI設計支援などの研究開発14件を採択し（予算150億円）、設計・曲げ加工・溶接・塗装・品質確認・工程管理・安全管理の各工程で、造船所・大学・ロボットメーカーが開発を進めています",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "Noahlogyは2026年6月にシード資金1.5億円を調達し、「設計リードタイム最大10分の1」を目標に掲げています（",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "国の事業（予算150億円）で共同研究開発",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "予算150億円（令和7年度補正）",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "造船業再生基金で最初に認定された供給確保計画は、今治造船・多度津造船・スチールハブ（最大約1,138億円）、JMU・JMUアムテック・有明スチールセンター（最大約494億円）、名村造船所・函館どつく（最大約499億円）の3件で、期間はいずれも令和8〜16年度です（",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "国は予算150億円でAI造船ロボットやAI設計支援など14件の研究開発を採択し、9月には造船業再生基金の初認定と日米の共同開発計画の合意が続きました",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic年換算売上が650億ドル突破｜1年前の約7倍・IPO前の成長実態とClaude事業の収益構造【2026年11月最新】",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー貯蔵システム (ESS) 用リチウムイオン電池業界調査：市場規模、競合環境、企業シェア20…",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/01/05/165115",
+    "pass": 3
+   },
+   {
+    "quote": "自動化ICプログラミングシステム日本市場分析レポート：市場規模、成長率、主要企業の動向2026-20…",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/01/05/165115",
+    "pass": 3
+   },
+   {
+    "quote": "農業用RTK自動ステアリングシステム（キット）市場規模予測2026：2032年に2454百万米ドルに…",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/01/05/165115",
+    "pass": 3
+   },
+   {
+    "quote": "TiO2顔料の世界市場規模：最新トレンド、…",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/01/05/165115",
+    "pass": 3
+   },
+   {
+    "quote": "低炭素ガラス瓶市場規模と変化予測：産業チェーン、価格リスク、成長分析2026-2032 QYResearch",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/01/05/165115",
+    "pass": 3
+   },
+   {
+    "quote": "政府が3,500億円規模の再生基金を準備しても、現場の人材不足が解消されない限り、建造能力の拡大は困難です",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "この事業では、AI造船ロボットの開発に約80億円、AIシミュレーション基盤に約40億円、合計約125億円規模の予算が投じられています",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "同社は「ビジョン2030」のなかでロボット関連売上高4,000億円を目指しており、従来の産業用ロボットに加えて、医療・サービス・インフラ点検などの新領域への展開を進めています",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の連結売上収益は前期比2,800億円増収の2兆1,293億円と好調で、2026年3月期も精密機械・ロボット事業の市況回復を背景に増益を見込んでいます",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省も約125億円規模の研究開発予算を投じて次世代AI造船所の実現を推進しており、日米連携で14件のプロジェクトが始動しています",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics In Shipbuilding Market Report, Industry and Market Size & Revenue, Share, Forecast 2024–2030",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "$3.2 billion",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "$6.5 billion",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size Value in 2024",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3.2 Billion",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6.5 Billion",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD Million, CAGR (2024 – 2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "A1: The global robotics in shipbuilding market was valued at USD 3.2 billion in 2024.",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Size and Future Projections (2019–2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Size and Volume (2019–2023)",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size and Volume Forecasts (2024–2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size and Forecast (2024–2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "fbs2128487 robotics shipbuilding market size share growth +3",
+    "url": "https://www.donsinrobot.com/blog/robotics-in-shipbuilding-market-size-growth-drivers-and-key-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Global Robotics in Shipbuilding Market Size study & Forecast, by Type (Articulated Robots Cartesian Robots, SCARA Robots, Cylindrical Robots, Others), by Application (Handling, Welding, Assembling, Inspection, Others), by Lifting Capacity (Less than 500 kg, 500 to 1000 kg, Over 1000 kg) and Regional Analysis, 2023-2030",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "1.2. Global & Segmental Market Estimates & Forecasts, 2020-2030 (USD Billion)",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.1. Robotics in Shipbuilding Market, by Region, 2020-2030 (USD Billion)",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.2. Robotics in Shipbuilding Market, by Type, 2020-2030 (USD Billion)",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.3. Robotics in Shipbuilding Market, by Application, 2020-2030 (USD Billion)",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.4. Robotics in Shipbuilding Market, by Lifting Capacity, 2020-2030 (USD Billion)",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "5.3. Global Robotics in Shipbuilding Market Estimates & Forecasts by Type 2020-2030 (USD Billion)",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "6.3. Global Robotics in Shipbuilding Market Estimates & Forecasts by Application 2020-2030 (USD Billion)",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "7.3. Global Robotics in Shipbuilding Market Estimates & Forecasts by Lifting Capacity 2020-2030 (USD Billion)",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "TABLE 2. Global Robotics in Shipbuilding Market estimates & forecasts by Region 2020-2030 (USD Billion)",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "Spherical Insights & Consulting が発表した研究報告によると、グローバルアーク溶接ロボット市場規模は、2024 年までに 2.9 億米ドル 4.1 億米ドル 4.1 億米ドル 4.1 億米ドル 2035 年までに、予測期間 2024-2035 年の間に 3 .2% のCAGR で成長する予定である.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、2024年～2035年の間に3.2%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "インダストリアル4.0やMake in Indiaなど、労働コストの増加、産業オートメーションの採用増加、政府の取り組みの拡大は、ロボット溶接システムをデプロイするメーカーを奨励しています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "業界4.0とスマートマニュファクチャリングの採用拡大",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "本調査会社は、2034年までに市場が3,711.7百万米ドルに達し、2026年から2034年の期間で年平均成長率（CAGR）6.50%を示すと予測しています",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "2023年、ジャワハルラール・ネルー港湾局（JNPA）は、過去最高の9,027万トンの貨物を取り扱い、前年比4.25％の増加を記録しました",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "• 今後、新造船需要の回復局面で2030年代の需要は倍増すると見込まれる一方、人材確保は困難な状況",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• なお、二酸化炭素回収・貯留(CCS)の世界的な拡大に伴い、LCO2輸送船の造船市場規模は、2030年までに計",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.1兆円程度、2040年までに計3.2兆円程度※に拡大すると見込まれている",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省と内閣府は2025年12月に「造船業再生ロードマップ」を策定し、年間建造量を現在の約900万総トンから2035年に1,800万総トンへ倍増させる目標を掲げました（",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、2016-2020年度グループ中期経営計画において、溶接ソリューションの推進を掲げており、溶接工程の生産性向上に寄与する自動溶接の適用範囲拡大に取り組んでいます",
+    "url": "https://www.kobelco.co.jp/releases/1197778_15541.html",
+    "pass": 3
+   },
+   {
+    "quote": "造船業用自動溶接システムの世界市場調査：規模、シェア、成長率（2026-2032年） - QY Research株式会社",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/01/05/165115",
+    "pass": 3
+   },
+   {
+    "quote": "造船業用自動溶接システムの世界市場調査：規模、シェア、成長率（2026-2032年）",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/01/05/165115",
+    "pass": 3
+   },
+   {
+    "quote": "自動化ICプログラミングシステム日本市場分析レポート：市場規模、成長率、主要企業の動向2026-20…",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/01/05/165115",
+    "pass": 3
+   },
+   {
+    "quote": "政府が3,500億円規模の再生基金を準備しても、現場の人材不足が解消されない限り、建造能力の拡大は困難です",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "世界の造船業界では、韓国がLNG運搬船の建造シェアの約8割を占めており、中国も急速にシェアを拡大しています",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "中国の建造シェアは2011年の4%から2025年には19%にまで拡大し、2027年には25%に達するとの見通しもあります",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "最大3000万円の補助、伴走支援、AI利用拡大、NEDOやGENIACとの接続を点検し、技術実証で止まりがちな新興企業が顧客導入、セキュリティ審査、継続売上へ進む資金調達と市場実装の条件を通信政策の視点で具体的に読み解く",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 12.4% (2024 – 2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD Million, CAGR (2024 – 2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q2: What is the CAGR for robotics in shipbuilding during the forecast period?",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "A2: The robotics in shipbuilding market is expected to grow at a CAGR of 12.4% from 2024 to 2030.",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.0% CAGR",
+    "url": "https://www.donsinrobot.com/blog/robotics-in-shipbuilding-market-size-growth-drivers-and-key-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "11.2% CAGR",
+    "url": "https://www.donsinrobot.com/blog/robotics-in-shipbuilding-market-size-growth-drivers-and-key-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.55% CAGR",
+    "url": "https://www.donsinrobot.com/blog/robotics-in-shipbuilding-market-size-growth-drivers-and-key-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": ">4.9% CAGR",
+    "url": "https://www.donsinrobot.com/blog/robotics-in-shipbuilding-market-size-growth-drivers-and-key-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2025 to 2033",
+    "url": "https://dataintelo.com/report/shipbuilding-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2033 at a CAGR of",
+    "url": "https://dataintelo.com/report/shipbuilding-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "of 2025 revenue; North America grows fastest at a CAGR of",
+    "url": "https://dataintelo.com/report/shipbuilding-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2033, a compound annual growth rate (CAGR) of",
+    "url": "https://dataintelo.com/report/shipbuilding-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2033)",
+    "url": "https://dataintelo.com/report/shipbuilding-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR to 2033",
+    "url": "https://dataintelo.com/report/shipbuilding-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/robotics-in-shipbuilding-market-41223",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Robotics In Shipbuilding Market was estimated at 6.944 USD Billion in 2024. The robotics industry is projected to grow from 8.158 USD Billion in 2025 to 40.89 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 17.49% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/robotics-in-shipbuilding-market-41223",
+    "pass": 3
+   },
+   {
+    "quote": "The Robotics In Shipbuilding Market is poised for growth at 17.49% CAGR from 2025 to 2035, driven by automation, efficiency demands, and technological advancements.",
+    "url": "https://www.marketresearchfuture.com/reports/robotics-in-shipbuilding-market-41223",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Robotics In Shipbuilding Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/robotics-in-shipbuilding-market-41223",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Robotics In Shipbuilding Market during the forecast period 2025 - 2035 is 17.49%.",
+    "url": "https://www.marketresearchfuture.com/reports/robotics-in-shipbuilding-market-41223",
+    "pass": 3
+   },
+   {
+    "quote": "経産省もスマート工場では、外部接続やサプライチェーン拡大に伴うサイバーリスクへの対応を求めている",
+    "url": "https://note.com/nora235/n/n501d7fa0987f",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "インダストリアル4.0やMake in Indiaなど、労働コストの増加、産業オートメーションの採用増加、政府の取り組みの拡大は、ロボット溶接システムをデプロイするメーカーを奨励しています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "•メーカーによる戦略的パートナーシップとロボティクス投資",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "製品ポートフォリオ、事業概要、地理的フットプリント、戦略的取り組み、市場セグメントシェア、SWOT分析に基づく比較評価を含みます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカーは市場競争力維持のため、先進的な自動溶接ソリューションの研究開発に継続的に投資しています",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "これに対応し、溶接装置メーカーは、エネルギー効率が高く、電力消費を抑え、クリーンな排出を実現するインバーターベースの装置を採用しています",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、メーカーは製造工程での廃棄物削減を目指し、よりリサイクル可能な材料の採用や設計改善を進めています",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーは、航空宇宙、自動車、造船などの特定の産業の個別の要件に合わせた、よりカスタマイズされた溶接ソリューションを提供しています",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "これらの技術は、メーカーにとって溶接作業の管理に大きな制御と信頼性をもたらし、革命的な変化をもたらしています",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境に関しても、本市場調査レポートは包括的な分析を提供しており、市場構造、主要企業のポジショニング、トップの勝利戦略、競争ダッシュボード、企業評価クアドラントなどがカバーされています",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "また、すべての主要企業の詳細なプロファイルも提供されています",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "第11章には主要企業各社（A社、B社、C社、D社、E社）の事業概要、提供製品、事業戦略、SWOT分析、主要ニュースとイベントといった詳細な企業情報が記載されている",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "第12章には市場の推進要因、制約、機会、ポーターの5フォース分析（買い手の交渉力、サプライヤーの交渉力、競争の程度、新規参入の脅威、代替品の脅威）、バリューチェーン分析といった業界分析が記載されている",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "溶接の基本的なメカニズムは、溶接電源から供給される大電流によって、電極と母材（溶接される金属）間にアークと呼ばれる高温の放電現象を発生させることにある",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "電気溶接機器は、主要な構成要素として、溶接電流を供給する溶接電源（インバータ式が主流）、アークを発生させる溶接トーチまたはホルダ、電流を伝送するケーブル、アースクランプから成る",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "TIG/MIG/MAG溶接では、さらにシールドガス供給装置が不可欠であり、MIG/MAG溶接では溶接ワイヤ自動送給装置も装備される",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "日本の造船市場調査、規模、シェア、予測、傾向、2037年",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "日本の造船市場調査―アプリケーション別（商用、防衛）ー世界の需要と供給の分析、成長予測、統計レポート 2025ー2037 年",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "これらの新しい生産能力を活用するために、大手造船会社は技術サプライヤーと戦略的に提携しており、これは造船業界の慣習からの大きな変化を表しています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "会社の収益シェアモデル",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、同地域の海上輸送産業の成長により、予測期間中に61.1%のシェアで造船業界をリードすると予想されています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、人口増加の圧力により、アジア太平洋諸国の政府は家庭用と産業用の両方の電力を供給せざるを得なくなり、造船需要が高まっています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "高価値の船舶セグメントに集中し、戦略的提携を形成することで、同国の造船業界は国際的に市場シェアを拡大​​しています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、製品開発サイクルが長いことや、サプライヤーと造船所間のデジタル協力が不十分であることなどです",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "商用セグメントは、2037 年までに 62.5% のシェアを獲得すると予測されています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "タイプ別では、ばら積み貨物船セグメントが2037年末までに注目すべきシェアを占める可能性が高い",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、先進的な造船施設、強力な政府支援、そして最先端技術を維持するための継続的な研究開発投資の恩恵を受けています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の造船業界は、2037年まで支配的な市場シェアを維持すると予想されています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "• CN・自動運航などの新技術への対応力を強化しつつ、経済安保を支える船舶の供給基盤の強化が喫緊の課題",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「次世代船舶供給体制」",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術開発・標準化・設備増強により競争力ある次世代船舶を供給する産業に変革",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受注量におけるトップシェアを確保」の実現に向けて、以下の施策を実施",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次世代船舶の供給体制の強化",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その対応を業界団体（燃料供給者を含",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代船舶の受注量におけるトップシェアを確保」を設定した",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "タンクメーカー等の生産能力に影響する最低限の要素（タンク直径等）について定める蓄圧式アンモニア燃料タンク（Type-",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "C）の標準（今後の新燃料船需要の高まり、具体的な発注案件の表面化に先立ち、タンク・鏡板メーカーの設備状況と海運会社・",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "標準案を踏まえたタンクが発注されることによる、タンクメーカー等や造船所の生産効率の向上",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資の促進等を通じて、国内のタンク供給体制や競争力が強化される好循環を形成",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "標準案の策定海運会社・造船所の船舶ニーズ/タンクニーズの把握タンクメーカー・鏡板メーカーの設備状況の把握",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーの現状設備状況を踏まえつつ、海",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出典）経産省令和5年度燃料安定供給対策調査等事業報告書",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "酸化炭素(LCO2)輸送船を含めた次世代船舶について、2030年に我が国が受注量のトップシェアを確保すること",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省は2026年3月にAI造船ロボットやAI設計支援などの研究開発14件を採択し（予算150億円）、設計・曲げ加工・溶接・塗装・品質確認・工程管理・安全管理の各工程で、造船所・大学・ロボットメーカーが開発を進めています",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "中小造船所・舶用メーカーが最初に取り組みやすいテーマと注意点",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "造船所・舶用メーカーの設計部、生産技術部、DX推進部、経営企画部の担当者と、造船業界向けにAIやロボットを提案するSIer・メーカーの方",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": ": 建造量シェアで先行を許し、韓国勢はAI溶接ロボットへの投資を加速している",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月の定例記者会見では、大学・ロボットメーカー・センサーメーカーと連携してDX・AI技術の研究開発を進めていること、2026年度に丸亀工場でラインウェルダーなどの自動溶接設備を更新することが発表されました（",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "一方の日本は、国の事業で造船所・大学・メーカーが共同開発し、成果を中小造船所にも広げる進め方です",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "造船業再生基金で最初に認定された供給確保計画は、今治造船・多度津造船・スチールハブ（最大約1,138億円）、JMU・JMUアムテック・有明スチールセンター（最大約494億円）、名村造船所・函館どつく（最大約499億円）の3件で、期間はいずれも令和8〜16年度です（",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "中小造船所・舶用メーカーが最初に取り組みやすいのは、",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接・ぎょう鉄・設計など、熟練者の退職で技能の継承が経営課題になっている造船所・舶用メーカー",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "単独での応募が難しい場合は、大学や大手造船所、ロボットメーカーとの共同提案に加わる形が一般的です",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "造船業再生基金は供給確保計画の認定を受ける必要があるため、国土交通省の公表資料で要件を確認してください",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT市場シェア50%割れの衝撃とその後｜Web56%に回復・Gemini失速・Claude法人55%で変わる生成AI勢力図【2026年11月最新】",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤー募集",
+    "url": "https://www.kobelco.co.jp/products/welding/industries/shipbuilding.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場を知るロボットメーカー、それこそが川崎重工の強み",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工は、ロボットメーカーであると同時に、自らロボットを活用するユーザー",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "pass": 3
+   },
+   {
+    "quote": "Twitterでシェアする",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "アジアパシフィックは、中国、日本、韓国、インドなどの国で特に自動車、電子機器、重工業の強力な拡大による急速な成長を目撃しています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "本社: 神戸市, 日本",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "電気溶接機器の日本市場（2026年～2034年）、市場規模（自動車、建設、造船、エネルギー、航空宇宙）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "電気溶接機器の日本市場（2026年～2034年）、市場規模（自動車、建設、造船、エネルギー、航空宇宙）・分析レポートを発表",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「電気溶接機器の日本市場（2026年～2034年）、英文タイトル：Japan Electric Welding Equipment Market 2026-2034」調査資料を発表しました",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "資料には、電気溶接機器の日本市場規模、動向、予測、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "日本の電気溶接装置市場は、2025年に2,106.2百万米ドル規模に達しました",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "日本の電気溶接装置市場のトレンドとしては、自動化とロボット統合の進展が挙げられます",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "日本の持続可能性重視の姿勢に伴い、政府は「トップランナー制度」などのプログラムを通じて、従来の基準と比較して電力消費を35%削減するよう推進しています",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "これらの装置は日本のカーボンニュートラル目標に合致し、魅力的です",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、「日本の電気溶接装置市場はこれまでどのように推移し、今後どのように推移するのか？」、「装置別、技術別、用途別、地域別の日本の電気溶接装置市場の内訳は？」、「日本の電気溶接装置市場のバリューチェーンにおけるさまざまな段階は何か？」、「日本の電気溶接装置市場の主要な推進要因と課題は何か？」、「日本の電気溶接装置市場の構造と主要プレイヤーは誰か？」、「日本の電気溶接装置市場の競争の程度はどうか？」といった主要な疑問に回答を提供しています",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には日本の電気溶接装置市場の概要、市場の動向（ダイナミクス）、業界トレンド、競合情報といった導入部分が記載されている",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "第9章には関東、関西/近畿、中部/中京、九州・沖縄、東北、中国、北海道、四国といった日本の地域別の市場分析（概要、過去・現在のトレンド、機器別、技術別、用途別の市場内訳、主要プレイヤー、将来予測）が記載されている",
+    "url": "https://newscast.jp/news/5998055",
+    "pass": 3
+   },
+   {
+    "quote": "日本の造船市場調査、規模、シェア、予測、傾向、2037年",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "日本の造船市場調査―アプリケーション別（商用、防衛）ー世界の需要と供給の分析、成長予測、統計レポート 2025ー2037 年",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "日本の造船市場調査、規模、傾向のハイライト(予測2025―2037年)",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "日本の旅客船と貨物船が拡大し、より多くの人と貨物を輸送するようになるにつれて、問題が発生します",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋 (日本、中国、インド、インドネシア、マレーシア、オーストラリア、その他のアジア太平洋)",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "造船市場 – 日本の見通し",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "日本の造船市場は、2037年まで安定した成長を記録すると予想されています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、国際貿易局は、2020年に日本が168.6百万米ドル相当の積層造形（AM）または3D印刷機器を販売したと推定しています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "造船セグメントの台頭は、中国、日本、韓国、シンガポール、香港、タイ、マレーシアなどの国々が製品の海上輸送に大きく貢献していることに支えられています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "インドの造船所は、幅広いタイプの船舶を製造でき、国内外の市場への注力を強化しています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "国内の造船能力は、造船金融支援政策などの政府の奨励策によって強化されています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "より大規模な海事産業クラスターとの強力な統合と国内での高い付加価値は、この分野にとって有利です",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "日本の造船市場：成長要因と課題",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "日本の造船市場の成長要因ー",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "当社の日本の造船市場調査によると、以下はこの市場の課題です",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "日本の建造量",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の造船従事者数",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 日本のエネルギー需給等を支えるために必要な船舶需要を予測",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海上荷動量及び日本のエネルギー",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（座長）有馬俊朗 日本海事協会開発本部長",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国産業のカーボンニュートラル実現を見据え、次世代船舶の新たな需要に主眼をおいて、CN貨物の運搬船を",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船株式会社",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国産業のカーボンニュートラル実現を見据えた船舶需要を予測",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資の促進等を通じて、国内のタンク供給体制や競争力が強化される好循環を形成",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本海事協会（NK）及びアメリカ船級協会",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、これら新燃料船を国内の造船所において建造し、これに搭載するエンジン等の舶用機器を国内のメーカが",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国産エンジンによるゼロエミッション船の開発・実証",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア、富士電機、伊藤忠商事、日本郵船、",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本郵船株式会社",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船株式会社及び株式会社IHI原動機は、2021年10月よりグリーンイノベーション基金を",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ": ロードマップでは「船体」が経済安全保障推進法の特定重要物資に追加され、国内で船を造り続ける体制づくりが国策になった",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "今治造船は2026年1月にジャパンマリンユナイテッド（JMU）の株式60%を取得してグループ化し、国内建造量の過半を占める規模になりました（",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "AI溶接・品質確認ロボット（九州大学、日本海事協会ほか）",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船グループ SIMS、JMU Sea-Navi®",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "MTI（日本郵船グループ）、JMU、今治造船、旭洋造船、浅川造船、本田重工業、九州大学、大阪大学、日本海事協会などが提案した事業です",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "大学側の拠点としては、2025年4月に大阪大学に「先進海事システムデザイン共同研究講座（阪大OCEANS）」が開設され、今治造船・JMU・日本海事協会・MTIが参画しています",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業、名村造船所、新来島どっく（日本海事協会、ABSが協力）",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし造船では船級協会（日本海事協会など）のルールに沿った検査が必要なため、AIの判定をそのまま品質保証に使えるルールは、現時点ではまだありません",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "九州大学、広島大学、日本海事協会、神戸製鋼所、大島造船所、新来島サノヤス造船、新来島どっく、常石造船、名村造船所が参加する事業です",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "開放空間用ロボットの事業でも、日本海事協会と米国船級協会（ABS）が技術評価・規則検討に協力しています",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、日本能率協会コンサルティングが「日本版デジタルシップヤード」の標準アーキテクチャの策定を担当しています",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の造船所4社で、経営・設計・調達・製造を一気通貫でつなぐ設計図と、実装のロードマップをつくる事業です",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "フツパー、日本中小型造船工業会、内海造船と多数の中小造船所が参加する事業では、固定カメラ、ドローン、地上走行ロボットの映像から",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船グループの異常検知・SIMS",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船グループは、船舶IoTプラットフォーム「SIMS」（後継はSIMS2）を200隻以上に搭載し、フィリピンの遠隔診断センターで、",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "その間、それまでの設備の縮小、国内景気の好調からくる人手不足等の状況下で、建造量増加に対応するため生産性向上と省力化が図られ、溶接の各種自動化も大きく進展しました",
+    "url": "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27U44ZT",
+    "pass": 3
+   },
+   {
+    "quote": "日本の主要造船所における溶接設備の推移を図2に示します",
+    "url": "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27U44ZT",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "2025年4月 パスロボティクスとALM ポジショナーは、高度なポジショニングシステムとロボット溶接を統合する戦略的パートナーシップを発表しました, 精度を強化することにより、製造における自動化を変革した完全自律的なAI搭載ソリューションを作成, 複雑性を軽減, 熟練した労働不足に対処する.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "AI集積・協調ロボットをはじめ、熟練した労働力不足とともに、地域におけるアーク溶接ロボットの需要をさらに高める技術進歩",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "•労働不足による自動化のための上昇の要求",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "労働不足によるオートメーション化の要求",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "産業はアーク溶接ロボットを採用し、熟練した溶接機の不足に対処し、マニュアルの労働に対する依存性を減らします",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルアーク溶接ロボット市場は、製造業界全体の自動化の増加、高精度溶接の需要増加、継続的な労働不足により推進され、強力で持続的な成長のために表彰されます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、環境に優しい材料や代替燃料インフラの需要が、造船プロジェクトの不足や遅延を引き起こしています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "労働力とリソースの不足:",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "多くの熟練労働者 (溶接工、エンジニア、造船技師) が引退しており、彼らに代わる若い労働者が不足しています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足により熟練労働者の賃金が上昇し、造船コスト全体が上昇しています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足に対処しながら、",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 一方、人口減少に伴い、造船・舶用事業者の人手不足はさらに深刻化していく",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・人手不足への対応 ・船舶の効率的な建造 ・国際競争力の強化",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る船員負荷低減技術の開発と船員不足に対応するコンセプト",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足と技能者の高齢化",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が最も深刻で、国の事業でも最も多くの予算と提案が集まっている工程",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": ": 図面チェック、規則の確認、資材の発注量、安全管理など、人手不足や手戻りが目立つ業務を選ぶ",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "その間、それまでの設備の縮小、国内景気の好調からくる人手不足等の状況下で、建造量増加に対応するため生産性向上と省力化が図られ、溶接の各種自動化も大きく進展しました",
+    "url": "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27U44ZT",
+    "pass": 3
+   },
+   {
+    "quote": "愛媛県は今治造船をはじめとする日本有数の造船拠点ですが、熟練溶接工の高齢化と後継者不足が深刻化しており、生産能力の維持が課題となっていました",
+    "url": "https://autonomous-driving.businesshub.trueone.co.jp/blog/20260608-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛媛の企業が自動溶接ロボットを開発、人手不足の造船現場を支援",
+    "url": "https://autonomous-driving.businesshub.trueone.co.jp/blog/20260608-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に建設、農業、物流倉庫など、非定型作業が多く人手不足が深刻な分野では需要が高まっています",
+    "url": "https://autonomous-driving.businesshub.trueone.co.jp/blog/20260608-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "造船業界を取り巻く人手不足の構造",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "深刻化する技術者不足の実態",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "受注増加と供給力不足のジレンマ",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "日本の造船業界が深刻な技術者不足に直面するなか、川崎重工業がAI（人工知能）を搭載した自律型造船ロボットの開発に乗り出しました",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、川重が開発するAI造船ロボットの技術的特徴、造船業界が抱える人手不足の実態、そして国を挙げた次世代造船所の取り組みについて多角的に解説します",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "日本の造船業界における人手不足は、もはや一時的な問題ではなく構造的な危機です",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "2022年9月時点で約9,500人の生産人材が不足しているとされ、特に溶接工の確保が困難な状況が続いています",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "このデータは、国内の溶接工不足がいかに深刻であるかを如実に示しています",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材への依存度が高まる一方で、技術の継承や品質管理の面で新たな課題も生まれています",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "造船業界の人手不足の根底には、熟練技能者の高齢化という問題があります",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "政府が3,500億円規模の再生基金を準備しても、現場の人材不足が解消されない限り、建造能力の拡大は困難です",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "米国でも造船業の人材不足は深刻で、熟練溶接工の不足が防衛産業における艦艇建造の遅延要因となっています",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "2028年の実用化が実現すれば、溶接工程の生産性を2倍に高め、深刻な技術者不足に対する有力な解決策となります",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "造船・舶用工業における人手不足の現状と外国人雇用の概要",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "政府・自民がAIや半導体など戦略17分野の人材育成を教育訓練給付で支援する構想は、成長投資を担う人材不足への対応策です",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, climate mandates are pushing manufacturers to build more energy-efficient vessels, often requiring intricate designs and modularity—tasks better suited to robots than human laborers. Simultaneously, labor shortages across key maritime nations like Japan, South Korea, and parts of Europe are accelerating robotic adoption as a workforce resilience measure.",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "Their in-house R&D has significantly reduced dependence on foreign automation technologies in Korea.",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "Countries like Japan and Germany are facing acute skilled labor shortages. Robotics not only bridges this gap but also",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "Naval modernization, labor shortage, energy-efficient shipbuilding",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "is growing, driven by skilled-labor shortages, demand for new vessels, and better robot technology.",
+    "url": "https://www.donsinrobot.com/blog/robotics-in-shipbuilding-market-size-growth-drivers-and-key-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "1. Skilled-labor shortages",
+    "url": "https://www.donsinrobot.com/blog/robotics-in-shipbuilding-market-size-growth-drivers-and-key-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "This is the most consistent driver across reports. Fortune Business Insights notes that the global shipbuilding industry continues to face a shortage of skilled welders, fabricators and assembly workers. Welding is the clearest case: experienced shipyard welders are hard to hire and retain, and robots help keep production moving.",
+    "url": "https://www.donsinrobot.com/blog/robotics-in-shipbuilding-market-size-growth-drivers-and-key-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "A Structural Welder Shortage, Not A Wage Argument",
+    "url": "https://dataintelo.com/report/shipbuilding-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The unfilled job rate in Korean shipbuilding was 14.4 percent in the second half of 2025, six points above the all-industry average, with plate work, welding and painting making up 29.5 percent of the shortage (Korea Herald, 31 December 2025). Robots fill shifts that cannot be staffed, and the world orderbook of 7,468 vessels at 31 December 2025 makes the case permanent.",
+    "url": "https://dataintelo.com/report/shipbuilding-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Korean shipbuilding unfilled job rate reaches 14.4 percent. Plate work, welding and painting make up 29.5 percent of the shortage, Korea Herald.",
+    "url": "https://dataintelo.com/report/shipbuilding-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "escalating costs, and a critical shortage of skilled labor.",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A central bottleneck in naval shipbuilding is welding. It",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "by their dependence on a highly skilled human oper -",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "coupled with the national shortage of skilled weld -",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ers, 5 makes manual welding a primary bottleneck in",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "and address a critical shortage of skilled welders is fueling",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "a severe labor shortage, this optimization is a critical bene -",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "shortages and inconsistent manual welding. The auto -",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "tain production rates amidst a shortage of skilled welders. 11",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "can mitigate labor shortages, optimize resource use, and",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ical labor shortages.",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "case, cumbersome certification processes, and a shortage",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5. S. Kuper, “Welder shortage threatens nation’s nuclear submarine",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "defenceconnect.com.au/industry/16246-welder-shortage-threatens-",
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "私たちは、専門家、パーソナライズされたデータを支援するためにここにいます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "また、業界 4.0 や産業オートメーションを推進する支援政府の取り組みは、世界中の市場浸透を加速しています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "国内の造船能力は、造船金融支援政策などの政府の奨励策によって強化されています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "強力な政府支援、継続的な技術進歩、革新的な生産方法の導入はすべて、業界の競争力向上に貢献しています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "政府の強力な支援と世界の海事企業との戦略的提携は、このセグメントにとって有利です",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、先進的な造船施設、強力な政府支援、そして最先端技術を維持するための継続的な研究開発投資の恩恵を受けています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な調査専門知識に基づき、情報に基づいた意思決定と長期的な成長を支援する、カスタマイズされたインテリジェンスを提供しています",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "採択（予算額2.0億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "→GX経済移行債を活用し、16件の生産設備整備を支援",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "→事業基盤強化計画の認定及び同計画に関連する支援措置を実施",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障推進法に基づく「船舶関連機器のサプライチェーン強靭化」補助 （106億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障推進法に基づく「デジタル技術を用いた高性能次世代船舶開発技術」等開発（120億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２）経済産業省「2040年におけるエネルギー需給の見通し」のCCS輸送量の海外輸送量の高位より",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年2月に閣議決定された「第7次エネルギー基本計画」及び経済産業省が発表した「2040年における",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＧＩ基金(次世代船舶の開発)：393.4億円(最長10年間)",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船株式会社及び株式会社IHI原動機は、2021年10月よりグリーンイノベーション基金を",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社三井Ｅ＆Ｓは、2021年10月よりグリーンイノベーション（GI）基金を活用して大型ア",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※GI基金を活用して開発",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ための投資等を支援し、ゼロエミッション船等の供給体制の整備を図る",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の生産設備の導入を支援",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ン等の艤装設備等の導入を支援",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "補助金額※総事業費主な事業概要事業者名",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月に国が採択したAI造船ロボット事業の中身、造船業再生基金の認定、川崎重工×NVIDIA、韓国3社の動きまで、公式発表をもとにまとめます",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省は2026年3月にAI造船ロボットやAI設計支援などの研究開発14件を採択し（予算150億円）、設計・曲げ加工・溶接・塗装・品質確認・工程管理・安全管理の各工程で、造船所・大学・ロボットメーカーが開発を進めています",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "造船業再生基金の初認定（2026年9月）と日米連携など、支援制度の現状",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": ": ロードマップでは「船体」が経済安全保障推進法の特定重要物資に追加され、国内で船を造り続ける体制づくりが国策になった",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元設計データを前提としたAI設計支援（MTI、JMU、今治造船ほか）",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "造船特化の設計支援AIエージェント（Noahlogy、内海造船、新来島どっくほか）",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "3D設計データを前提にしたAI設計支援",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "をAIで支援します（",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "2D図面を読み取れる設計支援AI",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "安全規則やチェックリストをデータベース化し、図面と照合する「造船特化型の設計支援AIエージェント」をつくり、修繕実績のデータを新造船の設計に生かす計画です",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が最も深刻で、国の事業でも最も多くの予算と提案が集まっている工程",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "今治造船は、2016年度の国交省の革新的造船技術研究開発補助金で、AI機能を使って溶接ロボット4台を連携させるシステムの研究開発を始めています（",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "国の事業（予算150億円）で共同研究開発",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "ハンファオーシャンは屋内溶接の67%をAIが支援（公式発表）",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "本ワイヤは、日本海事協会殿、新来島どっく殿、神戸製鋼所との共同研究体制により研究を実施するとともに、日本海事協会殿の「業界要望による共同研究」のスキームにより研究支援を受けて開発しております",
+    "url": "https://www.kobelco.co.jp/products/welding/industries/shipbuilding.html",
+    "pass": 3
+   },
+   {
+    "quote": "この造船所は、高品質な修理サービスを幅広く提供しており、シースパンの従業員は、船舶を納期と予算内で納入することの重要性を理解しています",
+    "url": "https://fsmdirect.com/ja/sailing-to-productivity/",
+    "pass": 3
+   },
+   {
+    "quote": "DW-100R」、④IoTを活用した安定生産支援システム「AP-SUPPORT",
+    "url": "https://www.kobelco.co.jp/releases/1197778_15541.html",
+    "pass": 3
+   },
+   {
+    "quote": "④安定生産支援システム「AP-SUPPORT™」について",
+    "url": "https://www.kobelco.co.jp/releases/1197778_15541.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内マザープラントから海外プラントへの生産支援にも有効なシステムです",
+    "url": "https://www.kobelco.co.jp/releases/1197778_15541.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、造船所や鉄骨ファブリケーターが、複雑性に対応できるよう構築されたスマートで柔軟な自動化システムによって規模を拡大できるよう支援します",
+    "url": "https://kranendonk.com/ja/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "今年もまた、クラネンドンクの社員一同が地元のフードバンク支援のため資金集めに協力しました",
+    "url": "https://kranendonk.com/ja/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "また、生産支援ソフトウェア(AP-SUPPORT™)を使用することで、溶接電流、電圧、速度などの溶接条件を記録したり、稼働情報、発生エラー情報なども記録することができるようになります",
+    "url": "https://www.boudayori-gijutsugaido.com/magazine/vol512/report.html",
+    "pass": 3
+   },
+   {
+    "quote": "支援、カスタマイズ調査、競合分析など、多岐にわたるサービスを通じて、世界の産業動向を把握し、成長トレンドや市場シェアの分布を明らかにしています",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/01/05/165115",
+    "pass": 3
+   },
+   {
+    "quote": "最新かつ正確なデータを基に、企業の戦略立案と競争優位性確立を支援しています",
+    "url": "https://qyresearch.hateblo.jp/entry/2026/01/05/165115",
+    "pass": 3
+   },
+   {
+    "quote": "愛媛の企業が自動溶接ロボットを開発、人手不足の造船現場を支援",
+    "url": "https://autonomous-driving.businesshub.trueone.co.jp/blog/20260608-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "脱炭素化に伴うLNG燃料船の需要拡大や、経済安全保障の観点から国内建造能力の強化が求められているためです",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "政府が3,500億円規模の再生基金を準備しても、現場の人材不足が解消されない限り、建造能力の拡大は困難です",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "この事業では、AI造船ロボットの開発に約80億円、AIシミュレーション基盤に約40億円、合計約125億円規模の予算が投じられています",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省も約125億円規模の研究開発予算を投じて次世代AI造船所の実現を推進しており、日米連携で14件のプロジェクトが始動しています",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "造船業の再生は日本の経済安全保障にも直結する国家的課題です",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "総務省AI新興支援で越える事業化の死の谷と市場実装への資金難",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "総務省のICTスタートアップ支援は研究開発から事業化段階へ重心を広げています",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "最大3000万円の補助、伴走支援、AI利用拡大、NEDOやGENIACとの接続を点検し、技術実証で止まりがちな新興企業が顧客導入、セキュリティ審査、継続売上へ進む資金調達と市場実装の条件を通信政策の視点で具体的に読み解く",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "#事業化支援",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサル倒産最多ペースが示す補助金依存モデルの構造的限界",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "DX特需、補助金申請支援、生成AI普及、企業の資金繰り悪化を背景に、参入障壁の低い市場で何が選別され、中小企業支援政策は何を問われるのかを、企業の発注判断と制度設計の両面から読み解く",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "#中小企業支援",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "2023年、ジャワハルラール・ネルー港湾局（JNPA）は、過去最高の9,027万トンの貨物を取り扱い、前年比4.25％の増加を記録しました",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "江蘇省を拠点とするこの造船所は、香港を拠点とする同社から、従来型船舶燃料用の合計21万重量トンの容量を持つ8棟の新しい建造物を建造するよう依頼されました",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "は、常石工場で65,700メートルトン（MT）のメタノール二元燃料バルクキャリアTESS66 AEROLINE（TESS66）の初号機を進水させました",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "TSUNEISHI SHIPBUILDING Co. Ltdは、常石工場で最初の65,700メトリックトン(MT)のメタノール二元燃料ばら積み貨物船TESS66 AEROLINE (TESS66)を進水させました",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "〒110-0005、東京都台東区、上野３丁目２０－８、小島ビルSBC 4 - 69",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "OECD予測： 1.0～1.1億総トン（2030年）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Clarksons予測： 0.82億総トン（2030年）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0.94億総トン（2034年）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※2 今後のエネルギー政策等の変更により将来の船舶需要量に変更の可能性あり",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2030年最大300万トン、2040年１,２００万トン、2050年2,000万トン）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2030年最大300万トン、2050年３,000万トン）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2040年高位=0.7億トン、低位=0.1億トン)",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造船業のAI活用は、2026年に入って「各社の個別の試み」から「国が資金を出す共同開発」へ段階が変わりました",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "造船業でAI活用が急がれる理由と、国の目標（2035年に年間建造量1,800万総トン）",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省と内閣府は2025年12月に「造船業再生ロードマップ」を策定し、年間建造量を現在の約900万総トンから2035年に1,800万総トンへ倍増させる目標を掲げました（",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "今治造船は、2016年度の国交省の革新的造船技術研究開発補助金で、AI機能を使って溶接ロボット4台を連携させるシステムの研究開発を始めています（",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に年間建造量1,800万総トン",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "GMAW法には半自動溶接機、簡易自動溶接機（10kg程度の走行台車に半自動溶接のトーチを取り付けたもの）、自動溶接機、ロボット等があります",
+    "url": "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27U44ZT",
+    "pass": 3
+   },
+   {
+    "quote": "③ガーダ走行方向と90o旋回した横行台車方向の2方向の溶接が可能",
+    "url": "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27U44ZT",
+    "pass": 3
+   },
+   {
+    "quote": "●3-4 簡易自動溶接台車キャリーボーイシリーズ",
+    "url": "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27U44ZT",
+    "pass": 3
+   },
+   {
+    "quote": "一概に船舶と言っても、旅客船、コンテナ船、ばら積貨物船（以下、バルクキャリアー）およびタンカーなどのさまざまな商船があり、さらにタンカーの中でもその大きさによってDW30万トン以上をVLCC（VeryLarge Crude Oil Carrier）と称し、また積荷によってケミカル船やLNG船およびLPG船といったさまざまな船種･船型があり、その船体構造や適用鋼材は多様化しています",
+    "url": "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27UBR5W",
+    "pass": 3
+   },
+   {
+    "quote": "また、＜写真7＞に示します超軽量（8kg）の多目的溶接台車「SY-mini」もブロック同士の突合せ溶接（立向・横向）で活躍しており、人気を得ています",
+    "url": "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27UBR5W",
+    "pass": 3
+   },
+   {
+    "quote": "このほか、＜写真8＞および＜写真9＞に示します自走式簡易台車として、すみ肉溶接用のキャリーボーイ・シリーズやスミオート・シリーズが多くの造船所で効果的に適用され、溶接合理化に大いに貢献しています",
+    "url": "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27UBR5W",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社では＜表１＞に示しますように、造船での適用個所に応じて豊富な製品バリエーションを取り揃えています",
+    "url": "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27UBR5W",
+    "pass": 3
+   },
+   {
+    "quote": "この工程は2台の個別の機械で別々のステーションで行うことも、完全に自動化して1台の自動スティフナー取り付け・溶接ステーションに統合することも可能です",
+    "url": "https://pemamek.com/japan-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例：造船現場で磨かれた、川崎重工のロボット技術 ～8台のロボットによる船殻ブロックの溶接自動化～（川崎重工業株式会社 船舶海洋ディビジョン） | 川崎重工の産業用ロボット",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例：造船現場で磨かれた、川崎重工のロボット技術 ～8台のロボットによる船殻ブロックの溶接自動化～（川崎重工業株式会社 船舶海洋ディビジョン）",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "pass": 3
+   },
+   {
+    "quote": "8台のアーク溶接ロボット",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "pass": 3
+   },
+   {
+    "quote": "8台のロボットが挑む、巨大船の桝目溶接自動化",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "pass": 3
+   },
+   {
+    "quote": "前述した課題に対し、川崎重工では、自社のロボット技術を活用し、船殻ブロックの大組立工程における桝目に対して8台のアーク溶接ロボット自動溶接するシステムの導入に取り組みました",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "pass": 3
+   },
+   {
+    "quote": "本システムでは、8台のロボットをNC制御の走行ガーダに吊り下げ、上位データに基づいて溶接が必要な桝目位置へ自動で移動させます",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "pass": 3
+   },
+   {
+    "quote": "8台の川崎重工製アーク溶接ロボット",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "pass": 3
+   },
+   {
+    "quote": "吊架台の昇降ストロークは約7mあり、",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "pass": 3
+   },
+   {
+    "quote": "施設には、ロイド船級協会に登録された2基の浮きドック、桟橋スペース、2基の40トン天井走行クレーンと、最大50フィートの長さのシャフトを加工できる複数の旋盤を備えた重機工場があります",
+    "url": "https://fsmdirect.com/ja/sailing-to-productivity/",
+    "pass": 3
+   },
+   {
+    "quote": "同社が現在進めているバラスト水処理システム（BWTS）のアップグレードプロジェクトでは、船舶上で約80～90個のパイプスプールと設備を溶接・設置する作業が行われます",
+    "url": "https://fsmdirect.com/ja/sailing-to-productivity/",
+    "pass": 3
+   },
+   {
+    "quote": "片持ち2軸（回転、傾斜）1,500kg",
+    "url": "https://www.kobelco.co.jp/products/welding/system/robot-system/ship-railway.html",
+    "pass": 3
+   },
+   {
+    "quote": "ポジショナを対向に置くことにより、1台の溶接ロボットを高稼働させる構成です",
+    "url": "https://www.kobelco.co.jp/products/welding/system/robot-system/ship-railway.html",
+    "pass": 3
+   },
+   {
+    "quote": "政府は2025年12月に策定した「造船業再生ロードマップ」で、2035年までに年間建造量を1,800万総トンに引き上げる目標を掲げました",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "中国共産党5中全会、軍粛清で遠のく台湾有事「27年説」の実像",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "米情報機関は2027年侵攻計画を否定する一方、台湾周辺の威圧と能力整備は継続するとみる",
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "pass": 3
+   },
+   {
+    "quote": "through 2030. The modernization of naval fleets in the U.S., China, and India—often under national security imperatives—demands high-volume, high-precision manufacturing where robotics delivers exceptional value.",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "A5: Growth is fueled by technological innovation, defense spending, and rising demand for automation in complex vessel builds.",
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. Vessel demand and smart-yard programs",
+    "url": "https://www.donsinrobot.com/blog/robotics-in-shipbuilding-market-size-growth-drivers-and-key-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Global Robotics in Shipbuilding Market Size study & Forecast, by Type (Articulated Robots Cartesian Robots, SCARA Robots, Cylindrical Robots, Others), by Application (Handling, Welding, Assembling, Inspection, Others), by Lifting Capacity (Less than 500 kg, 500 to 1000 kg, Over 1000 kg) and Regional Analysis, 2023-2030",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "Less than 500 kg",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "500 to 1000 kg",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "Over 1000 kg",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "3.1.1.2. Increasing shipbuilding demand",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "3.1.3.2. Rise in demand for collaborative robotics",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.1. Less than 500 kg",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.2. 500 to 1000 kg",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3. Over 1000 kg",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Robotic Arms Market by Robotic Arm Type (Articulated, Cartesian, Cylindrical), Payload Capacity (3001KG & Above, 500-3000KG, Less than 500KG), Axes, Application, End-User Industry - Global Forecast 2024-2030",
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics in Shipbuilding Market Forecasts to 2030 - Global Analysis By Type (SCARA Robots, Articulated Robots, Cylindrical Robots, Cartesian Robots and Other Types), Lifting Capacity (Less than 500 kg, 500 to 1000 kg and Over 1000 kg), Application and By Geography",
+    "url": "https://www.strategymrc.com/report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "The over 1000 kg segment is expected to be the largest during the forecast period",
+    "url": "https://www.strategymrc.com/report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "• Less than 500 kg",
+    "url": "https://www.strategymrc.com/report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 500 to 1000 kg",
+    "url": "https://www.strategymrc.com/report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "• Over 1000 kg",
+    "url": "https://www.strategymrc.com/report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "6.2 Less than 500 kg",
+    "url": "https://www.strategymrc.com/report/robotics-in-shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "6.3 500 to 1000 kg",
+    "url": "https://www.strategymrc.com/report/robotics-in-shipbuilding-market",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "タイプ別では、ばら積み貨物船セグメントが2037年末までに注目すべきシェアを占める可能性が高い",
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "pass": 3
+   },
+   {
+    "quote": "今治造船は2026年1月にジャパンマリンユナイテッド（JMU）の株式60%を取得してグループ化し、国内建造量の過半を占める規模になりました（",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "造船大組立では、ロボット適用箇所の溶接時間の約2/3を占める立向上進溶接に対し、高能率化へのニーズがあります",
+    "url": "https://www.kobelco.co.jp/releases/1197778_15541.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "造船 業のAI活用事例2026年版｜設計 自動化 ・ 溶接 検査・予知 ... — 造船 業のAI活用事例2026年版｜設計 自動化 ・ 溶接 検査・予知 ... AI革命株式会社 https://ai-revolution.co.jp > メディア",
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例：造船現場で磨かれた、川崎重工のロボット技術 ～8台のロボ... — 導入事例：造船現場で磨かれた、川崎重工のロボット技術 ～8台のロボットによる船殻ブロックの溶接自動化～（川崎重工業株式会社 船舶海洋ディビジョン） 産業分野 船舶 適用用途 アーク溶接 ロボットシリーズ BAシリーズ",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "pass": 3
+   },
+   {
+    "quote": "造船業の自動溶接ロボット開発が示す、自動運転技術の製造現場への水... — Jun 8, 2026 · 松山市の企業が造船業向けに開発した自動溶接ロボットが注目を集めています。愛媛県は今治造船をはじめとする日本有数の造船拠点ですが、熟練溶接工の高齢化と後継者不足が深刻化しており、生産能力の維持が課題となっていました。今回の開発は、溶接プロセス全体の自動化により、品質 ...",
+    "url": "https://autonomous-driving.businesshub.trueone.co.jp/blog/20260608-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "造船自動化ソリューション 三菱商事テクノス株式会社 Pemamek — 造船 Vision 3D Vision 3Dはフラットパネル溶接の自動化を大きく飛躍させます。 このソフトウェアはスキャナが移動中にワーク情報を取り込み、ロボット用に3Dモデルを作成します。 既存の3Dモデルや煩雑な手作業によるモデリングはもはや必要ありません。",
+    "url": "https://pemamek.com/japan-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "造船・鉄道車両向け溶接ロボットシステム | KOBELCO 神戸製鋼 — 造船・鉄道車両向け溶接ロボットシステムのページです。KOBELCOグループ 神戸製鋼は、素材・機械・電力を3本柱とする技術・製品・ソリューションで人々の暮らしの安全・安心を支え、社会課題の解決に貢献しつづけます。",
+    "url": "https://www.kobelco.co.jp/products/welding/system/robot-system/ship-railway.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ファナック、超軽量ポータブル協働ロボットで建築柱溶接を自動化 Sep 11, 2026 · 深刻な人手不足や技能継承が課題となる建設現場で、従来は人手に依存していた鉄骨の溶接工程の省人化・自動化を狙う。 CRX-3iAは、昨年の国際ロボット展で発表したポータブル型の協働ロボットで、造船業界を中心に導入が進んでいる。",
+    "url": "https://note.com/sankituushin/n/n16857c9c5901",
+    "pass": 3
+   },
+   {
+    "quote": "造船の次の戦場は「溶接」ではない。熟練工の頭の中だ 造船現場では少子高齢化と技能者不足が進む。 川崎重工はフィジカルAIを使い、高所や曲面など、従来自動化が難しかった作業までロボット化しようとしている。 2027年に坂出工場で実証、2028年の実用化を目指す。 これは単なる省人化ではない。",
+    "url": "https://note.com/nora235/n/n501d7fa0987f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ファナック、超軽量ポータブル協働ロボットで建築柱溶接を自動化｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/n16857c9c5901",
+    "pass": 3
+   },
+   {
+    "quote": "ファナック、超軽量ポータブル協働ロボットで建築柱溶接を自動化",
+    "url": "https://note.com/sankituushin/n/n16857c9c5901",
+    "pass": 3
+   },
+   {
+    "quote": "ファナックは9月11日、超軽量ポータブル協働ロボット「CRX-3iA」を活用した「CRX建築柱溶接システム」を開発したと発表した。9月16日から東京ビッグサイトで開催される「国際ウエルディングショー2026」で実演する。深刻な人手不足や技能継承が課題となる建設現場で、従来は人手に依存していた鉄骨の溶接工程の省人化・自動化を狙う。",
+    "url": "https://note.com/sankituushin/n/n16857c9c5901",
+    "pass": 3
+   },
+   {
+    "quote": "CRX-3iAは、昨年の国際ロボット展で発表したポータブル型の協働ロボットで、造船業界を中心に導入が進んでいる。機構部質量は11kgと軽量で、最大692mmのリーチを持つ。",
+    "url": "https://note.com/sankituushin/n/n16857c9c5901",
+    "pass": 3
+   },
+   {
+    "quote": "造船現場では、作業者が大型構造物内にロボットを持ち込み、マグネットで固定して溶接作業を開始。その後、ロボットに溶接を任せ、作業者は次の場所へ移動して別のロボットを設置する運用が可能となる。これにより、1人の作業者が複数台のロボットを担当でき、生産性向上につながっている。",
+    "url": "https://note.com/sankituushin/n/n16857c9c5901",
+    "pass": 3
+   },
+   {
+    "quote": "今回開発したCRX建築柱溶接システムは、この運用実績を建設現場に展開するもの。従来、建設現場でロボットを使用する場合、安全柵や走行軸などの周辺設備が必要となり、大掛かりな設備構成となる課題があった。また、鉄骨建方時に使用するエレクションピースが設置される初層や2層目の溶接は自動化が難しく、人手に頼る工程が多かった。",
+    "url": "https://note.com/sankituushin/n/n16857c9c5901",
+    "pass": 3
+   },
+   {
+    "quote": "同システムでは、CRX-3iAの軽量・コンパクト性を生かし、柱にマグネットベースを固定した後、ロボット本体を取り付けるだけで設置できる。工具を必要とせず、短時間で設置が完了する。",
+    "url": "https://note.com/sankituushin/n/n16857c9c5901",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットは設置された角度を自動認識するため、作業者による角度入力などの複雑な設定も不要。レーザセンサやタッチセンシングによって設置位置を自動認識し、溶接線を補正することで、ロボットを設置して起動するだけで溶接を開始できる。",
+    "url": "https://note.com/sankituushin/n/n16857c9c5901",
+    "pass": 3
+   },
+   {
+    "quote": "造船の次の戦場は「溶接」ではない。熟練工の頭の中だ｜ノリック#",
+    "url": "https://note.com/nora235/n/n501d7fa0987f",
+    "pass": 3
+   },
+   {
+    "quote": "造船の次の戦場は「溶接」ではない。熟練工の頭の中だ",
+    "url": "https://note.com/nora235/n/n501d7fa0987f",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAIが救う人手不足、その裏で守るべき「技能データ」という国家資産",
+    "url": "https://note.com/nora235/n/n501d7fa0987f",
+    "pass": 3
+   },
+   {
+    "quote": "4本脚で船体を移動し、AIが周囲を認識し、自ら作業計画を立てて溶接や塗装を行う。",
+    "url": "https://note.com/nora235/n/n501d7fa0987f",
+    "pass": 3
+   },
+   {
+    "quote": "だが僕が本当に注目したのは、ロボットの「腕」ではない。",
+    "url": "https://note.com/nora235/n/n501d7fa0987f",
+    "pass": 3
+   },
+   {
+    "quote": "ベテラン技術者の頭の中が、データになることだ。",
+    "url": "https://note.com/nora235/n/n501d7fa0987f",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業は、造船所のベテラン技術者の減少などに対応するため、AIが自律的に判断して溶接を行う「フィジカルAI」を活用した造船ロボットの試作機を公開しました。",
+    "url": "https://note.com/nora235/n/n501d7fa0987f",
+    "pass": 3
+   },
+   {
+    "quote": "https://t.co/fIs7iVjhzj",
+    "url": "https://note.com/nora235/n/n501d7fa0987f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "月 ツッキー on X: \"造船での高品質な横向自動溶接 石松 × FAMILIARC™... 導入事例：造船現場で磨かれた、川崎重工のロボット技術 ～8台のロボットによる船殻ブロックの溶接自動化～（川崎重工業株式会社 船舶海洋ディビジョン） | 川崎重工の産業用ロボット From kawasakirobotics.com 12",
+    "url": "https://x.com/AnirotoM/status/2105384924459229489",
+    "pass": 3
+   },
+   {
+    "quote": "しろくま | 複業研究家 on X: \"船体を垂直に登って、溶接などの作業が... ・船体を垂直に登れて、天候に左右されずに溶接などの作業ができるとしている ・熟練した溶接技術者のノウハウを、ロボットを自律的に動かすAI (フィジカルAI)に反映し、造船現場の自動化を進める考え ・来年度 (2027年度)から香川県の工場で検証を始め ...",
+    "url": "https://x.com/SBK1620/status/2109187489676357680",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "コンパクト、ポータブル、そして効率的。溶接自動化ソリューションのC... ケーラーの鋳鉄レバーを溶接している様子です。 #アーク溶接#welding#WeldRed#リンカーン#LincolnElectric#FlashbackFriday#フラッシュバックフライデー リンカーンエレクトリックジャパン株式会 社 2d SuperGlaze®アルミニウムMIGワイヤのご紹介です。 造船業界の高い要求に応えるために設計 ...",
+    "url": "https://www.facebook.com/lincolnelectricjapan/posts/コンパクトポータブルそして効率的溶接自動化ソリューションのcooper-cobotをご紹介します詳細はコチラ-httpsleredinfolejp-cooper/652340021107017/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Shipbuilding Efficiency Boosted by Welding Automation | Lide ... 🚢 Advancing Shipbuilding Through Welding Automation Sharing a live demo of our automated shipbuilding welding robot from Shenzhen Lide Robots Co., Ltd.—designed specifically for hull ...",
+    "url": "https://www.linkedin.com/posts/lide-robots_shipbuilding-maritimeindustry-offshoreengineering-activity-7401803820797722624-5flW",
+    "pass": 3
+   },
+   {
+    "quote": "Andy Chao - CEO at Shenzhen Lide Robots Co.,Ltd | Advanced ...Alhassan Al mouis - Senior 6G Multi‑Process Welder ...Len S. - Marketing Manager - Welding & Cutting Automation ...WEBINAR I Automated robotic welding in shipbuilding | Eur Ing ... I am the CEO of Shenzhen Lide Robots Co., Ltd, a technology company specializing in advanced welding robotics for shipbuilding and heavy maritime industries.",
+    "url": "https://cn.linkedin.com/in/andy-chao-53158862",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%A2%E3%83%BC%E3%82%AF%E6%BA%B6%E6%8E%A5%E5%B8%82%E5%A0%B4-115753",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/5998055",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E4%B8%96%E7%95%8C-%E6%BA%B6%E6%8E%A5%E8%87%AA%E5%8B%95%E5%8C%96%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B%E7%AF%84%E5%9B%B2%E8%A6%8F%E6%A8%A1%E3%81%8A%E3%82%88%E3%81%B32026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr-cuwee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B7%A5%E5%AD%A6-103548",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evsint.com/ja/innovative-examples-of-welding-robots-in-shipbuilding/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27U44ZT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_26/sec_1/1-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27UBR5W",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobelco.co.jp/products/welding/industries/shipbuilding.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pemamek.com/japan-shipbuilding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fsmdirect.com/ja/sailing-to-productivity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bloomberg.com/jp/news/articles/2018-04-17/P7B0O66S972K01",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobelco.co.jp/releases/1197778_15541.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kranendonk.com/ja/company/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boudayori-gijutsugaido.com/magazine/vol512/report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yhrnews.hatenablog.jp/entry/2026/09/22/155241",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qyresearch.hateblo.jp/entry/2026/01/05/165115",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/08/26/143912",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autonomous-driving.businesshub.trueone.co.jp/blog/20260608-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobelco.co.jp/products/welding/system/robot-system/ship-railway.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/press-release/global-robotics-in-shipbuilding-market-10872",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.donsinrobot.com/blog/robotics-in-shipbuilding-market-size-growth-drivers-and-key-trends.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategymrc.com/report/robotics-in-shipbuilding-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/shipbuilding-robotics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://buildmatinsight.com/construction-cost/app-cost/cargo-ship-construction-cost-breakdown",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/315786857_Hull's_manufacturing_cost_structure",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/robotics-in-shipbuilding-market-103548",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.weldfabtechtimes.com/magazine/articles/2026/07/28/welding-automation-in-shipbuilding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/robotics-in-shipbuilding-market-41223",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Industrial_robot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/humanoid-robot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://electrek.co/2026/01/30/report-humanoid-robots-set-to-drive-demand-for-solid-state-batteries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ib.barclays/our-insights/robots-roll-out-economies-rewire.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agilityrobotics.com/content/agility-unveils-digit-5-humanoid-robot-built-for-cooperatively-safe-work-at-scale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://interestingengineering.com/ai-robotics/china-opens-humanoid-robot-factory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankituushin/n/n16857c9c5901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nora235/n/n501d7fa0987f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AnirotoM/status/2105384924459229489",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SBK1620/status/2109187489676357680",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lincolnelectricjapan/posts/コンパクトポータブルそして効率的溶接自動化ソリューションのcooper-cobotをご紹介します詳細はコチラ-httpsleredinfolejp-cooper/652340021107017/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/nora235/n/n501d7fa0987f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SBK1620/status/2109187489676357680",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/lide-robots_shipbuilding-maritimeindustry-offshoreengineering-activity-7401803820797722624-5flW",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/andy-chao-53158862",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "造船の溶接自動化 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%A2%E3%83%BC%E3%82%AF%E6%BA%B6%E6%8E%A5%E5%B8%82%E5%A0%B4-115753",
+    "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035",
+    "https://newscast.jp/news/5998055",
+    "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "https://jp.linkedin.com/pulse/%E4%B8%96%E7%95%8C-%E6%BA%B6%E6%8E%A5%E8%87%AA%E5%8B%95%E5%8C%96%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B%E7%AF%84%E5%9B%B2%E8%A6%8F%E6%A8%A1%E3%81%8A%E3%82%88%E3%81%B32026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr-cuwee",
+    "https://www.atpress.ne.jp/news/6375352",
+    "https://www.businessresearchinsights.com/jp/market-reports/welding-market-120754",
+    "https://www.gminsights.com/ja/industry-analysis/robotics-welding-market",
+    "https://www.gii.co.jp/report/ires2155430-automated-welding-shipbuilding-market-global.html"
+   ]
+  },
+  {
+   "query": "造船の溶接自動化 需要 見通し 2030",
+   "results": [
+    "https://www.youtube.com/watch?v=FX4PU8KA8CY",
+    "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B7%A5%E5%AD%A6-103548",
+    "https://www.evsint.com/ja/innovative-examples-of-welding-robots-in-shipbuilding/",
+    "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27U44ZT",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_26/sec_1/1-1.pdf",
+    "https://www.kobelco.co.jp/releases/1197778_15541.html",
+    "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/59647/",
+    "https://industryrobot-automatic.com/ja/knowledge-center/robotic-welding-cell-trends-2026-2030-ai-machine-vision-the-future-of-welding-automation/"
+   ]
+  },
+  {
+   "query": "造船の溶接自動化 部品構成 コスト",
+   "results": [
+    "https://www.evsint.com/ja/innovative-examples-of-welding-robots-in-shipbuilding/",
+    "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27UBR5W",
+    "https://www.youtube.com/watch?v=FX4PU8KA8CY",
+    "https://www.kobelco.co.jp/products/welding/industries/shipbuilding.html",
+    "https://pemamek.com/japan-shipbuilding/",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_26/sec_1/1-1.pdf",
+    "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "https://fsmdirect.com/ja/sailing-to-productivity/",
+    "https://www.bloomberg.co.jp/news/articles/2018-04-17/P7B0O66S972K01",
+    "https://kranendonk.com/ja/industries/shipbuilding/"
+   ]
+  },
+  {
+   "query": "造船の溶接自動化 シェア 主要企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B7%A5%E5%AD%A6-103548",
+    "https://www.youtube.com/watch?v=FX4PU8KA8CY",
+    "https://pemamek.com/japan-shipbuilding/",
+    "https://www.kobelco.co.jp/releases/1197778_15541.html",
+    "https://kranendonk.com/ja/company/about-us/",
+    "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "https://www.evsint.com/ja/innovative-examples-of-welding-robots-in-shipbuilding/",
+    "https://www.weld.nipponsteel.com/techinfo/weldqa/detail.php?id=27U44ZT",
+    "https://www.boudayori-gijutsugaido.com/magazine/vol512/report.html",
+    "https://yhrnews.hatenablog.jp/entry/2026/09/22/155241"
+   ]
+  },
+  {
+   "query": "造船の溶接自動化 日本企業",
+   "results": [
+    "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "https://autonomous-driving.businesshub.trueone.co.jp/blog/20260608-01.html",
+    "https://pemamek.com/japan-shipbuilding/",
+    "https://kranendonk.com/ja/company/about-us/",
+    "https://www.kobelco.co.jp/products/welding/system/robot-system/ship-railway.html",
+    "https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding",
+    "https://www.kobelco.co.jp/products/welding/industries/shipbuilding.html"
+   ]
+  },
+  {
+   "query": "造船の溶接自動化 不足 OR 中国依存",
+   "results": []
+  },
+  {
+   "query": "shipbuilding welding automation robots market size CAGR 2030",
+   "results": [
+    "https://www.fortunebusinessinsights.com/press-release/global-robotics-in-shipbuilding-market-10872",
+    "https://www.strategicmarketresearch.com/market-report/robotics-in-shipbuilding-market",
+    "https://www.donsinrobot.com/Blog/robotics-in-shipbuilding-market-size-growth-drivers-and-key-trends.html",
+    "https://www.marketresearch.com/Bizwit-Research-Consulting-v4223/Global-Robotics-Shipbuilding-Size-study-35592831/",
+    "https://www.strategymrc.com/report/robotics-in-shipbuilding-market",
+    "https://dataintelo.com/report/shipbuilding-robotics-market",
+    "https://www.fortunebusinessinsights.com/robotics-in-shipbuilding-market-103548"
+   ]
+  },
+  {
+   "query": "shipbuilding welding automation robots cost breakdown bill of materials",
+   "results": [
+    "https://buildmatinsight.com/construction-cost/app-cost/cargo-ship-construction-cost-breakdown",
+    "https://www.researchgate.net/publication/315786857_Hull's_manufacturing_cost_structure",
+    "https://www.fortunebusinessinsights.com/robotics-in-shipbuilding-market-103548",
+    "https://www.emergingtechnologiesinstitute.org/-/media/ndia-eti/reports/robotics/accelerating-robotic-welding-solutions-report.pdf",
+    "https://www.weldfabtechtimes.com/magazine/articles/2026/07/28/welding-automation-in-shipbuilding",
+    "https://www.marketresearchfuture.com/reports/robotics-in-shipbuilding-market-41223",
+    "https://www.researchgate.net/publication/372801856_Simulation_of_a_Ship's_Block_Panel_Assembly_Process_Optimizing_Production_Processes_and_Costs_through_Welding_Robots"
+   ]
+  },
+  {
+   "query": "shipbuilding welding automation robots demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://en.wikipedia.org/wiki/Industrial_robot",
+    "https://www.gminsights.com/industry-analysis/humanoid-robot-market",
+    "https://electrek.co/2026/01/30/report-humanoid-robots-set-to-drive-demand-for-solid-state-batteries/",
+    "https://www.ib.barclays/our-insights/robots-roll-out-economies-rewire.html",
+    "https://www.agilityrobotics.com/content/agility-unveils-digit-5-humanoid-robot-built-for-cooperatively-safe-work-at-scale",
+    "https://interestingengineering.com/ai-robotics/china-opens-humanoid-robot-factory",
+    "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html"
+   ]
+  },
+  {
+   "query": "site:note.com 造船の溶接自動化",
+   "results": [
+    "https://note.com/tempura_tech/n/n5758a6ecdf61",
+    "https://note.com/aiwebtan/n/na01d778d89e6",
+    "https://note.com/sankituushin/n/n16857c9c5901",
+    "https://note.com/nora235/n/n501d7fa0987f",
+    "https://note.com/hirokimiyano/n/n3b364f0d4f07",
+    "https://note.com/news_knowledge/n/nb6cc6abaff2d",
+    "https://note.com/legal_tiger6680/n/n9de922659bc5"
+   ]
+  },
+  {
+   "query": "site:x.com 造船の溶接自動化",
+   "results": [
+    "https://x.com/AnirotoM/status/2105384924459229489",
+    "https://x.com/i/trending/2045435774552899681",
+    "https://x.com/nhk_news/status/2107417459934523568",
+    "https://x.com/SBK1620/status/2109187489676357680",
+    "https://x.com/lrnRlLf/status/2046887602511589797",
+    "https://x.com/miraclemasui/status/2045419734905376871",
+    "https://x.com/RNB_houdou/status/2057050414886125736"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 造船の溶接自動化",
+   "results": [
+    "https://tw.linkedin.com/in/shu-ling-liu-42817a330",
+    "https://www.linkedin.com/company/hydwin",
+    "https://ca.linkedin.com/company/metalleco",
+    "https://au.linkedin.com/in/omar-ottaviani-b46a6a82",
+    "https://jp.linkedin.com/pulse/導入事例造船業の人手不足をスマートヤードとビジョンaiロボット自動化で突破-superb-ai-japan-lhmsc",
+    "https://jp.linkedin.com/pulse/humanoid-welding-robots-reshaping-labor-markets-heavy-magee-phd-z4yrc?tl=ja",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7449709870121115649/"
+   ]
+  },
+  {
+   "query": "site:facebook.com 造船の溶接自動化",
+   "results": [
+    "https://www.facebook.com/nikkei/photos/川崎重工四足歩行のai造船ロボット開発へ-溶接技術者不足で対策httpswwwnikkeicomarticledgxzqouc041ed0u6a400c2000/1490920632379334/",
+    "https://www.facebook.com/groups/813342132068841/posts/24078916841751375/",
+    "https://www.facebook.com/lincolnelectricjapan/posts/コンパクトポータブルそして効率的溶接自動化ソリューションのcooper-cobotをご紹介します詳細はコチラ-httpsleredinfolejp-cooper/652340021107017/",
+    "https://www.facebook.com/mac.nakamura/videos/ヒューマノイドを用いた造船関連電装の自動化研究のロボットcadから部品配置を読み取り自動で組み上げることを目指していますこれによりシーケンシャルな大量生産ではな/2095203701238691/",
+    "https://www.facebook.com/nikkei/posts/川崎重工四足歩行のai造船ロボット開発へ-溶接技術者不足で対策httpswwwnikkeicomarticledgxzqouc041ed0u6a400c2000/1490920659045998/",
+    "https://www.facebook.com/nikkei/posts/川崎重工四足歩行のai造船ロボット開発へ-溶接技術者不足で対策/1490920659045998/",
+    "https://www.facebook.com/toshiya.shimada.54/videos/今日開幕した-国際ウエルディングショー-大東精機-さんは梁溶接システムeva1300を出展cadcamとの連携により教示レスを実現組立溶接工程の自動化を提案して/1056831740304091/"
+   ]
+  },
+  {
+   "query": "造船の溶接自動化 note 社長",
+   "results": [
+    "https://note.com/nora235/n/n501d7fa0987f",
+    "https://note.com/hirokimiyano/n/n3b364f0d4f07",
+    "https://autonomous-driving.businesshub.trueone.co.jp/blog/20260608-01.html",
+    "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "https://www.evsint.com/ja/innovative-examples-of-welding-robots-in-shipbuilding/",
+    "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "https://pemamek.com/japan-shipbuilding/"
+   ]
+  },
+  {
+   "query": "造船の溶接自動化 X 投稿",
+   "results": [
+    "https://x.com/SBK1620/status/2109187489676357680",
+    "https://x.com/nhk_news/status/2107417459934523568",
+    "https://autonomous-driving.businesshub.trueone.co.jp/blog/20260608-01.html",
+    "https://nexistix.com/kawasaki-shipbuilding-physical-ai-robot-prototype/",
+    "https://ai-revolution.co.jp/media/ai-in-shipbuilding/",
+    "https://kawasakirobotics.com/jp/case-studies/case_khimarine/",
+    "https://www.evsint.com/ja/innovative-examples-of-welding-robots-in-shipbuilding/"
+   ]
+  },
+  {
+   "query": "shipbuilding welding automation robots site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/speedweld-v29-major-upgrade-smarter-shipbuilding-speedbot-robotics-cax0c/",
+    "https://www.linkedin.com/posts/lide-robots_shipbuilding-maritimeindustry-offshoreengineering-activity-7401803820797722624-5flW",
+    "https://es.linkedin.com/posts/jcsasia_8-kawasaki-welding-robots-at-work-automated-activity-7508093379684126723-iL7r",
+    "https://cn.linkedin.com/in/andy-chao-53158862",
+    "https://sg.linkedin.com/in/len-s-510a1137a",
+    "https://so.linkedin.com/posts/eur-ing-david-w-millar-ceng-mphil-ewe-iwe-fweldi-1922917_webinar-i-automated-robotic-welding-in-shipbuilding-activity-7067333030150819840-qNcz",
+    "https://sa.linkedin.com/in/alhassan-al"
+   ]
+  }
+ ],
+ "missing": {}
+}

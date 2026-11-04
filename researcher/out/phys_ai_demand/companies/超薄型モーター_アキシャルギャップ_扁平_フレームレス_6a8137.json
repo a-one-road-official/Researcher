@@ -1,0 +1,1303 @@
+{
+ "name": "超薄型モーター（アキシャルギャップ・扁平・フレームレス）",
+ "en": "axial flux pancake frameless thin motor market robots drones",
+ "aliases": [
+  "アキシャルギャップモーター",
+  "アキシャルフラックスモーター",
+  "扁平モーター",
+  "フレームレストルクモーター",
+  "薄型モーター"
+ ],
+ "context": "フィジカルAI・部材（素材：磁石・電磁鋼板・圧粉磁心）",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:35:52.210451+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "LPI世界フレームレストルクモーター分析レポートによると、世界フレームレストルクモーター市場規模は786百万ドルであり、将来的には1377.33百万ドルに達し、CAGRは9.8%です",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "LP Informationの調査整理によると、世界のフレームレストルクモーター市場規模は2025年に約7億1,500万米ドル、2026年に約7億8,600万米ドルとなり、2032E年には約13億7,733万米ドルに達する見通しである",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、フレームレストルクモーターの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、フレームレストルクモーターの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域におけるフレームレストルクモーター市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、フレームレストルクモーターの世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "LPI世界フレームレストルクモーター分析レポートによると、世界フレームレストルクモーター市場規模は786百万ドルであり、将来的には1377.33百万ドルに達し、CAGRは9.8%です",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "LP Informationの調査整理によると、世界のフレームレストルクモーター市場規模は2025年に約7億1,500万米ドル、2026年に約7億8,600万米ドルとなり、2032E年には約13億7,733万米ドルに達する見通しである",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、フレームレストルクモーターの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、フレームレストルクモーターの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域におけるフレームレストルクモーター市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、フレームレストルクモーターの世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "2026無水乳脂肪市場規模マップ：シェア・動向・フレームワーク",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用防氷システムの世界市場（2026年～2032年）、市場規模（機械式除氷システム、電気パルス式防氷システム、液体防氷システム、熱風式防氷システム、電気加熱式防氷システム）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "低温収縮試験機の世界市場（2026年～2032年）、市場規模（低温、広温度範囲）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "電動車アーキテクチャを変えるアキシャルフラックスモーターとは？2032年313.6億ドル市場、CAGR60.1%の急成長 | LP Information Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "電動車アーキテクチャを変えるアキシャルフラックスモーターとは？2032年313.6億ドル市場、CAGR60.1%の急成長",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2026年から2032年の予測期間中のCAGRが60.1%で、2032年までにグローバルアキシャルフラックスモーター市場規模は313.6億米ドルに達すると予測されている",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、アキシャルフラックスモーターの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、アキシャルフラックスモーターの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域におけるアキシャルフラックスモーター市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、アキシャルフラックスモーターの世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "熱成形機市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）4.50%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "フレームレストルクモーターの世界市場規模：2026年は786百万米ドルに達する見込み｜QYResearch",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "フレームレストルクモーターの世界市場規模：2026年は786百万米ドルに達する見込み",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearchの調査整理によると、世界のフレームレストルクモーター市場規模は2025年に約7億1,500万米ドル、2026年に約7億8,600万米ドルとなり、2032E年には約13億7,733万米ドルに達する見通しである",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "図. 世界のフレームレストルクモーター市場規模と成長動向",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "主な業務内容には、市場規模分析、業界ポジション評価、フィージビリティスタディ、競争環境分析、事業計画策定支援などが含まれます",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "LPI世界フレームレストルクモーター分析レポートによると、世界フレームレストルクモーター市場規模は786百万ドルであり、将来的には1377.33百万ドルに達し、CAGRは9.8%です",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "2026–2032年の年平均成長率は約9.80%と予測される",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、フレームレストルクモーターの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、フレームレストルクモーターの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "LPI世界フレームレストルクモーター分析レポートによると、世界フレームレストルクモーター市場規模は786百万ドルであり、将来的には1377.33百万ドルに達し、CAGRは9.8%です",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "2026–2032年の年平均成長率は約9.80%と予測される",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、フレームレストルクモーターの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、フレームレストルクモーターの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "電動車アーキテクチャを変えるアキシャルフラックスモーターとは？2032年313.6億ドル市場、CAGR60.1%の急成長 | LP Information Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "電動車アーキテクチャを変えるアキシャルフラックスモーターとは？2032年313.6億ドル市場、CAGR60.1%の急成長",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2026年から2032年の予測期間中のCAGRが60.1%で、2032年までにグローバルアキシャルフラックスモーター市場規模は313.6億米ドルに達すると予測されている",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、アキシャルフラックスモーターの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、アキシャルフラックスモーターの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "透明Micro LEDディスプレイマーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）52.7%の超高成長",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "熱成形機市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）4.50%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "高度な航空交通マーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）20.6%の超高成長",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維市場調査：規模・状況・調べ方・算出方法、年平均成長率（CAGR）9.64%の高成長",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "2026–2032年の年平均成長率は約9.80%と予測される",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "アジア、特に中国ではロボット関節、人形ロボット、産業オートメーションの拡大を背景に国産化が進展している",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "フレームレストルクモーターは、ロータとステータを独立したキットとして供給し、顧客装置の機械構造へ直接組み込む永久磁石同期型またはブラシレス型ダイレクトドライブモーターである",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "供給面では、薄型構造、高占積率巻線、低コギング磁気回路、高性能磁石、熱設計、モーター・エンコーダ・ドライブの協調設計への投資が進んでいる",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "世界競争と主要企業",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "世界のフレームレストルクモーター市場では、総合モーションコントロールメーカー、ダイレクトドライブ専門メーカー、用途特化型モーターメーカーが競争している",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "供給面では北米、欧州、アジアが主要地域である",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "米国には主要モーションコントロール・特殊モーターメーカーが集積し、ロボット、航空宇宙、半導体、医療分野に強い",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "今後、モーターメーカーはアクチュエータモジュールへ延伸し、ロボット部品企業はロータ・ステータ設計・製造へ上流展開する可能性が高い",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォーム型電磁設計、自動化生産、顧客共同開発、グローバルなローカル供給能力を持つ企業は、顧客定着率と市場地位を高めるとみられる",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、フレームレストルクモーターの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、フレームレストルクモーターの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第10章では、フレームレストルクモーターに使用される原材料、サプライヤー、生産コスト、製造プロセス、関連サプライチェーンを調査します",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第13章では、フレームレストルクモーター市場の主要メーカーについて、基本情報、製品仕様と用途、販売量、収益、価格設定、粗利益率、主力事業、最近の動向などの詳細情報を紹介します",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "フレームレストルクモーターは、ロータとステータを独立したキットとして供給し、顧客装置の機械構造へ直接組み込む永久磁石同期型またはブラシレス型ダイレクトドライブモーターである",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "供給面では、薄型構造、高占積率巻線、低コギング磁気回路、高性能磁石、熱設計、モーター・エンコーダ・ドライブの協調設計への投資が進んでいる",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "世界競争と主要企業",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "世界のフレームレストルクモーター市場では、総合モーションコントロールメーカー、ダイレクトドライブ専門メーカー、用途特化型モーターメーカーが競争している",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "供給面では北米、欧州、アジアが主要地域である",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "米国には主要モーションコントロール・特殊モーターメーカーが集積し、ロボット、航空宇宙、半導体、医療分野に強い",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "今後、モーターメーカーはアクチュエータモジュールへ延伸し、ロボット部品企業はロータ・ステータ設計・製造へ上流展開する可能性が高い",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォーム型電磁設計、自動化生産、顧客共同開発、グローバルなローカル供給能力を持つ企業は、顧客定着率と市場地位を高めるとみられる",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、フレームレストルクモーターの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、フレームレストルクモーターの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第10章では、フレームレストルクモーターに使用される原材料、サプライヤー、生産コスト、製造プロセス、関連サプライチェーンを調査します",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "第13章では、フレームレストルクモーター市場の主要メーカーについて、基本情報、製品仕様と用途、販売量、収益、価格設定、粗利益率、主力事業、最近の動向などの詳細情報を紹介します",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "電動工具用カーボンブラシ市場規模マップ＋シェア＋フレームワーク",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "2026無水乳脂肪市場規模マップ：シェア・動向・フレームワーク",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "関連専門メーカー",
+    "url": "https://ftengineering.jp/2026/08/11/next-generation_robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "その他メーカー会社案内",
+    "url": "https://ftengineering.jp/2026/08/11/next-generation_robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "FT Engineeringでは、アキシャルギャップモーターのポテンシャルを最大限に引き出すため、この「PBXS最外径支持構造」の概念実証を進め、KMF社ならびに国内の先進的なモーターメーカーへの提案・協業を推進してまいります",
+    "url": "https://ftengineering.jp/2026/08/11/next-generation_robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "地域面ではアジア太平洋が最大の消費市場であり、電動商用車の展開規模、電動化プログラムの加速、磁石・パワエレ・精密加工・統合実装までの供給網の厚みが、需要の立ち上がりを下支えする",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "図. 世界のアキシャルフラックスモーター市場におけるトップ12企業のランキングと市場シェア（2025年の調査データに基づく；最新のデータは、当社の最新調査データに基づいている）",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、世界のトップ5企業は売上の観点から約88.0%、トップ10企業は約92.0%の市場シェアを持っていた",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "一方で差別化は、熱とNVHの同時最適化、実車デューティでの効率地図、部材供給の安定性、検査自動化とトレーサビリティといった「量産オペレーションの強さ」に集約される",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋では供給網の厚みを背景に統合スピードが優位になりやすく、他地域では規格適合と長期信頼性の提示が購買判断の中心になる",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、アキシャルフラックスモーターの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、アキシャルフラックスモーターの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "第10章では、アキシャルフラックスモーターに使用される原材料、サプライヤー、生産コスト、製造プロセス、関連サプライチェーンを調査します",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "第13章では、アキシャルフラックスモーター市場の主要メーカーについて、基本情報、製品仕様と用途、販売量、収益、価格設定、粗利益率、主力事業、最近の動向などの詳細情報を紹介します",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "熱成形機市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）4.50%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "は、軟磁性体や圧粉磁心の加工において、多くの実績を誇り、国内大手メーカーとの共同開発によって技術力を高めてきました",
+    "url": "https://sintered-metal-processing.com/basic/521",
+    "pass": 3
+   },
+   {
+    "quote": "国内大手メーカーとの軟磁性体加工における豊富な開発実績",
+    "url": "https://sintered-metal-processing.com/basic/521",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、軟磁性体の加工開発を行っている素材メーカーや、アキシャルギャップモーターコアの開発を行うメーカーの",
+    "url": "https://sintered-metal-processing.com/basic/521",
+    "pass": 3
+   },
+   {
+    "quote": "圧粉磁心の成形は大手メーカー様や軟磁性鉄粉の素材メーカー様が行い、成形後の圧粉磁心を追加工して形状を仕上げる対応を当社にて対応しております",
+    "url": "https://sintered-metal-processing.com/basic/521",
+    "pass": 3
+   },
+   {
+    "quote": "当社の協力成形メーカー様と相談して検討いたしますので、まずはご希望の材料の種類、もしくは性能目標値をご指示いただき、その後材料の選定をいたします",
+    "url": "https://sintered-metal-processing.com/basic/521",
+    "pass": 3
+   },
+   {
+    "quote": "は、ロータとステータを独立したキットとして供給し、顧客装置の機械構造へ直接組み込む永久磁石同期型またはブラシレス型ダイレクトドライブモーターである",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "供給面では、薄型構造、高占積率巻線、低コギング磁気回路、高性能磁石、熱設計、モーター・エンコーダ・ドライブの協調設計への投資が進んでいる",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "世界競争と主要企業",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "世界のフレームレストルクモーター市場では、総合モーションコントロールメーカー、ダイレクトドライブ専門メーカー、用途特化型モーターメーカーが競争している",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "図. 世界のフレームレストルクモーター競争構図と主要企業",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "供給面では北米、欧州、アジアが主要地域である",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "米国には主要モーションコントロール・特殊モーターメーカーが集積し、ロボット、航空宇宙、半導体、医療分野に強い",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "今後、モーターメーカーはアクチュエータモジュールへ延伸し、ロボット部品企業はロータ・ステータ設計・製造へ上流展開する可能性が高い",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォーム型電磁設計、自動化生産、顧客共同開発、グローバルなローカル供給能力を持つ企業は、顧客定着率と市場地位を高めるとみられる",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "アジア、特に中国ではロボット関節、人形ロボット、産業オートメーションの拡大を背景に国産化が進展している",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト：",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "アジア、特に中国ではロボット関節、人形ロボット、産業オートメーションの拡大を背景に国産化が進展している",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト：",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング | LP Information",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "一般財団法人JR東日本文化創造財団、MoN Takanawa: The Museum of Narratives、Barbican Centre",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "FT Engineeringでは、アキシャルギャップモーターのポテンシャルを最大限に引き出すため、この「PBXS最外径支持構造」の概念実証を進め、KMF社ならびに国内の先進的なモーターメーカーへの提案・協業を推進してまいります",
+    "url": "https://ftengineering.jp/2026/08/11/next-generation_robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト：",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社一覧(国内)",
+    "url": "https://www.npr-riken.co.jp/business/electric-unit/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社一覧（国内）",
+    "url": "https://www.npr-riken.co.jp/business/electric-unit/",
+    "pass": 3
+   },
+   {
+    "quote": "は、軟磁性体や圧粉磁心の加工において、多くの実績を誇り、国内大手メーカーとの共同開発によって技術力を高めてきました",
+    "url": "https://sintered-metal-processing.com/basic/521",
+    "pass": 3
+   },
+   {
+    "quote": "国内大手メーカーとの軟磁性体加工における豊富な開発実績",
+    "url": "https://sintered-metal-processing.com/basic/521",
+    "pass": 3
+   },
+   {
+    "quote": "から多くの引き合いを受け、国内でも屈指の軟磁性体加工技術を有しています",
+    "url": "https://sintered-metal-processing.com/basic/521",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社宮本製作所では、国内の主要大手メーカ―様にご依頼いただき、圧粉磁心の試作開発を多数行っております",
+    "url": "https://sintered-metal-processing.com/basic/521",
+    "pass": 3
+   },
+   {
+    "quote": "アジア、特に中国ではロボット関節、人形ロボット、産業オートメーションの拡大を背景に国産化が進展している",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "日本住所：〒104-0061 東京都中央区銀座6-13-16 銀座Wallビル UCF5階",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）／0081-5058936232（グローバル）",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "E-mail：japan@qyresearch.com",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "MAIL：japan@qyresearch.com",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "1．住友電工、SMCを用いた高出力密度AFM技術を発表（日本・台湾）",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   },
+   {
+    "quote": "意義： 中国におけるAFMの国産化と量産体制構築を示す動きである",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   },
+   {
+    "quote": "特に中国では量産技術、欧州では磁石不要技術と製造・リサイクル、日本ではSMCの成形・絶縁技術が注目される",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "ロボットおよび先進製造への政策支援は、フレームレストルクモーターの長期需要を強化している",
+    "url": "https://newscast.jp/smart/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットおよび先進製造への政策支援は、フレームレストルクモーターの長期需要を強化している",
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットおよび先進製造への政策支援は、フレームレストルクモーターの長期需要を強化している",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "主な業務内容には、市場規模分析、業界ポジション評価、フィージビリティスタディ、競争環境分析、事業計画策定支援などが含まれます",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "しかし、AGMの利点である「薄さ（軸受スパンが取れない）」と、中心軸配置による「小径（ピッチ円直径が小さい）」という条件が重なると、モーメント荷重に対する剛性が著しく不足します",
+    "url": "https://ftengineering.jp/2026/08/11/next-generation_robotics/",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "【記念艦三笠監修】記念艦三笠100周年記念モデル 実物の木甲板を台座に...",
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "pass": 3
+   },
+   {
+    "quote": "本製品は、突起部9個と2つの穴を精密に加工する設計となっています",
+    "url": "https://sintered-metal-processing.com/basic/521",
+    "pass": 3
+   },
+   {
+    "quote": "本製品は、突起部8個と中心を含む3個の穴を精密加工して仕上げています",
+    "url": "https://sintered-metal-processing.com/basic/521",
+    "pass": 3
+   },
+   {
+    "quote": "このアキシャルギャップモーターコア形状の製品では、突起部12個と中心の穴1個の精密加工が必要になります",
+    "url": "https://sintered-metal-processing.com/basic/521",
+    "pass": 3
+   },
+   {
+    "quote": "1．住友電工、SMCを用いた高出力密度AFM技術を発表（日本・台湾）",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   },
+   {
+    "quote": "従来モータと同等性能で重量、体積、金属使用量を約50％削減できると主張している",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アキシャルギャップモーター メーカー5社 - Metoree — アキシャルギャップモーター メーカー5社 - Metoree Metoree https://metoree.com > モーター",
+    "url": "https://metoree.com/categories/8459/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "フレームレストルクモーターの世界市場規模：2026年は786百万米ドルに... Oct 10, 2026 · フレームレストルクモーターは、ロータとステータを独立したキットとして供給し、顧客装置の機械構造へ直接組み込む永久磁石同期型またはブラシレス型ダイレクトドライブモーターである。",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアキシャルフラックスモーター（Axial Flux Motor）最新動向 アキシャルフラックスモーターは、高出力密度、高効率、軽量設計が特徴の電動モーターです。 このモーターは、磁束が回転軸と平行に移動するため、従来のラジアルフラックスモーターと比較して、よりコンパクトで軽量な構造を実現します。",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "フレームレストルクモーターの世界市場規模：2026年は786百万米ドルに達する見込み｜QYResearch",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "フレームレストルクモーターの世界市場規模：2026年は786百万米ドルに達する見込み",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "は、ロータとステータを独立したキットとして供給し、顧客装置の機械構造へ直接組み込む永久磁石同期型またはブラシレス型ダイレクトドライブモーターである。主な材料・部品には電磁鋼板、銅巻線、NdFeB永久磁石、絶縁材料、ポッティング材料、温度センサーなどが含まれる。高トルク密度、低慣性、低コギング、バックラッシュレス、大径中空構造、高い機械統合自由度が主要な特長であり、伝動段数を減らしながら剛性と動的応答を高めることができる。主な用途はロボット関節、半導体・電子製造装置、精密回転ステージ、工作機械、医療機器、航空宇宙用アクチュエータ、高度自動化設備などであり、総合粗利益率は約35%である。",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearchの調査整理によると、世界のフレームレストルクモーター市場規模は2025年に約7億1,500万米ドル、2026年に約7億8,600万米ドルとなり、2032E年には約13億7,733万米ドルに達する見通しである。2026–2032年の年平均成長率は約9.80%と予測される。対象市場は、主としてロボット、産業オートメーション、半導体製造装置、精密機械、医療機器、航空宇宙用途向けにロータ、ステータまたはモーターキットとして販売されるフレームレス型ダイレクトドライブトルクモーターである。",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "需要面では、ロボット関節の高トルク密度化・軽量化・中空配線化、半導体装置や精密設備の位置決め精度向上が市場成長を支えている。供給面では、薄型構造、高占積率巻線、低コギング磁気回路、高性能磁石、熱設計、モーター・エンコーダ・ドライブの協調設計への投資が進んでいる。今後の需要増加は人形・協働ロボット、半導体装置、精密自動化、高信頼性特殊装置が中心となる。",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "図. 世界のフレームレストルクモーター市場規模と成長動向",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "世界のフレームレストルクモーター市場では、総合モーションコントロールメーカー、ダイレクトドライブ専門メーカー、用途特化型モーターメーカーが競争している。代表的な第一階層にはKollmorgen、Parker Hannifin、Celera Motion、Moogなどがあり、電磁設計プラットフォーム、幅広い製品ライン、グローバル顧客認証、システム統合に強みを持つ。",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "maxon、TQ-Group、Tecnotion、WITTENSTEIN cyber motorは精密メカトロニクス、小型高トルク設計、カスタマイズに強く、Allied Motion、ThinGapなどの専門企業はスロットレス、超薄型、大径中空軸、用途別設計で差別化している。",
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアキシャルフラックスモーター（Axial Flux Motor）最新動向｜kaze26tw.biz",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアキシャルフラックスモーター（Axial Flux Motor）最新動向",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   },
+   {
+    "quote": "は、高出力密度、高効率、軽量設計が特徴の電動モーターです。このモーターは、磁束が回転軸と平行に移動するため、従来のラジアルフラックスモーターと比較して、よりコンパクトで軽量な構造を実現します。主な利点には、高いトルク密度、優れた熱効率、およびスペースを節約する設計が含まれます。アキシャルフラックスモーターは、電気自動車やロボット工学などの分野で広く利用されており、次世代のモータ技術として注目されています",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象期間：2026年9月26日～10月26日",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   },
+   {
+    "quote": "世界のAxial Flux Motor（AFM）に関する技術開発、量産化、材料技術、企業動向を調査した。特に、高出力密度、SMC（圧粉磁心）、レアアース削減、量産技術を重点とし、類似する話題を統合した。",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   },
+   {
+    "quote": "1．住友電工、SMCを用いた高出力密度AFM技術を発表（日本・台湾）",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   },
+   {
+    "quote": "2．中国・盤毂動力、AFMの材料・製造技術と量産化成果を公表",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   },
+   {
+    "quote": "3．WattStepとChalmers大学、永久磁石を使わないAFMを研究（スウェーデン）",
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "住友電工 新型モーター需要模索 製品小型化に寄与 住友電気工業は、独... 住友電工 新型モーター需要模索 製品小型化に寄与 住友電気工業は、独自に開発を進めるアキシャルギャップモーターの新たなニーズを模索する。 粉末...https://t.co/k4NGcBKkVM 日刊産業新聞@sangyo_web",
+    "url": "https://x.com/sangyo_web/status/2072862417479139755",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://newscast.jp/smart/news/8558296",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8558296",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%83%96%E3%83%A9%E3%82%B7%E3%83%AC%E3%82%B9-dc-%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC-market-overview-%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E4%BE%A1%E5%80%A4%E3%81%8A%E3%82%88%E3%81%B32026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E4%BA%88%E6%B8%ACcagr-dwaxe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ftengineering.jp/2026/08/11/next-generation_robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000343728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/release/31127366/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%AB%B6%E4%BA%89%E7%92%B0%E5%A2%83%E3%81%A8%E6%88%A6%E7%95%A5%E7%9A%84%E5%B1%95%E6%9C%9B2026-2033-prism-data-dynamics-rdipf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nidec.com/jp/value/technology/innovative-motor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000562473.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/automotive-motors-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/shin_kijiku/pdf/029_01_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://x.com/KagawaTomo/article/2075709599702016011",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sumitomoelectric.com/jp/products/powdermagneticcore/axialgapmotor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ginga-motor.co.jp/column/column09/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sei.co.jp/technology/tr/bn198/pdf/198-09.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%82%A2%E3%82%AD%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97%E5%9E%8B%E3%83%A2%E3%83%BC%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.npr-riken.co.jp/business/electric-unit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evort.jp/presenters/dynax-j/axial-gap-motor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8459/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ginga-motor.co.jp/column/column39/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sintered-metal-processing.com/basic/521",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ginga-motor.co.jp/product/axial_gap_motor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://npm-ht.co.jp/products/products-tag/%E8%96%84%E5%9E%8B%E3%83%A2%E3%83%BC%E3%82%BF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softronics.co.jp/products/thin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%82%A2%E3%82%AD%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97%E5%9E%8B%E3%83%A2%E3%83%BC%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://npm-ht.co.jp/products/135",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E3%82%A2%E3%82%AD%E3%82%B7%E3%83%A3%E3%83%AB%E5%9E%8B%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97%E3%83%A2%E3%83%BC%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmarketresearch.com/auto/axial-flux-motor-for-drones-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryarc.com/report/19433/axial-flux-motor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/report/axial-flux-motor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qyresearch.com/reports/6259732/axial-flux-motor-for-drones",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.qyresearch.com/reports/6259730/axial-flux-motor-for-drones",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pmarketresearch.com/auto/axial-flux-motor-for-robots-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taurus-motors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hillmancurtis.com/pcb-stator-axial-flux-motor/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wheemo.dev/wxseries/frameless",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketpublishers.com/report/industry/other_industries/axial-flux-motor-4-drones-market-gir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.framelesstorquemotor.com/blog/axial-flux-vs-radial-flux-frameless-torque-motor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humanoidrobotactuators.com/en/blog/axial-flux-vs-radial-flux-humanoid-actuators",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fortune.com/2026/06/09/china-builds-85-percent-worlds-humanoids-robots-cheap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humanoidroboticstechnology.com/articles/top-12-humanoid-robots-of-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thedroneu.com/blog/future-of-drones/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://interestingengineering.com/ai-robotics/china-opens-humanoid-robot-factory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/qy_research/n/n6e64611a1bf0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaze26/n/n001d4e756f5f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sangyo_web/status/2072862417479139755",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "超薄型モーター（アキシャルギャップ・扁平・フレームレス） 市場規模 CAGR",
+   "results": [
+    "https://newscast.jp/smart/news/8558296",
+    "https://www.atpress.ne.jp/news/8558296",
+    "https://jp.linkedin.com/pulse/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%83%96%E3%83%A9%E3%82%B7%E3%83%AC%E3%82%B9-dc-%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC-market-overview-%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E4%BE%A1%E5%80%A4%E3%81%8A%E3%82%88%E3%81%B32026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E4%BA%88%E6%B8%ACcagr-dwaxe",
+    "https://ftengineering.jp/2026/08/11/next-generation_robotics/",
+    "https://www.dreamnews.jp/press/0000343728",
+    "https://japan.cnet.com/release/31127366/",
+    "https://www.npr-riken.co.jp/business/electric-unit/",
+    "https://www.researchnester.jp/industry-analysis/micro-motor-market/267",
+    "https://straitsresearch.com/jp/report/rv-speed-reducer-market"
+   ]
+  },
+  {
+   "query": "超薄型モーター（アキシャルギャップ・扁平・フレームレス） 需要 見通し 2030",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%AB%B6%E4%BA%89%E7%92%B0%E5%A2%83%E3%81%A8%E6%88%A6%E7%95%A5%E7%9A%84%E5%B1%95%E6%9C%9B2026-2033-prism-data-dynamics-rdipf",
+    "https://www.nidec.com/jp/technology/capability/innovative_motor/",
+    "https://www.soumu.go.jp/main_content/000562473.pdf",
+    "https://www.sphericalinsights.com/jp/reports/automotive-motors-market",
+    "https://www.meti.go.jp/shingikai/sankoshin/shin_kijiku/pdf/029_01_00.pdf",
+    "https://x.com/KagawaTomo/article/2075709599702016011",
+    "https://green-innovation.nedo.go.jp/resources/pdf/survey/motor-survey-001.pdf",
+    "https://eetimes.itmedia.co.jp/ee/articles/2010/14/news044.html",
+    "https://mzaidan.mazda.co.jp/publication/science_serach_rep/vol30/16KK-354.pdf",
+    "https://ginga-motor.co.jp/product/axial_gap_motor/"
+   ]
+  },
+  {
+   "query": "超薄型モーター（アキシャルギャップ・扁平・フレームレス） 部品構成 コスト",
+   "results": [
+    "https://sumitomoelectric.com/jp/products/powdermagneticcore/axialgapmotor",
+    "https://ginga-motor.co.jp/column/column09/",
+    "https://sei.co.jp/technology/tr/bn198/pdf/198-09.pdf",
+    "https://mono.ipros.com/cg2/%E3%82%A2%E3%82%AD%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97%E5%9E%8B%E3%83%A2%E3%83%BC%E3%82%BF/",
+    "https://www.npr-riken.co.jp/business/electric-unit/",
+    "https://evort.jp/presenters/dynax-j/axial-gap-motor",
+    "https://www.meidensha.co.jp/rd/rd_01/rd_01_02/rd_01_02_26/rd_01_02_26_01/__icsFiles/afieldfile/2024/04/08/No383_05_web_240405.pdf",
+    "https://eprints.lib.hokudai.ac.jp/repo/huscap/all/81139/",
+    "https://metoree.com/categories/8459/",
+    "https://ginga-motor.co.jp/product/axial_gap_motor/"
+   ]
+  },
+  {
+   "query": "超薄型モーター（アキシャルギャップ・扁平・フレームレス） シェア 主要企業",
+   "results": [
+    "https://metoree.com/categories/8459/",
+    "https://sumitomoelectric.com/jp/products/powdermagneticcore/axialgapmotor",
+    "https://www.npr-riken.co.jp/business/electric-unit/",
+    "https://mono.ipros.com/cg2/%E3%82%A2%E3%82%AD%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97%E5%9E%8B%E3%83%A2%E3%83%BC%E3%82%BF/",
+    "https://ftengineering.jp/2026/08/11/next-generation_robotics/",
+    "https://evort.jp/presenters/dynax-j/axial-gap-motor",
+    "https://newscast.jp/smart/news/8558296",
+    "https://ginga-motor.co.jp/column/column39/",
+    "https://sintered-metal-processing.com/basic/521",
+    "https://ginga-motor.co.jp/product/axial_gap_motor/"
+   ]
+  },
+  {
+   "query": "超薄型モーター（アキシャルギャップ・扁平・フレームレス） 日本企業",
+   "results": [
+    "https://mono.ipros.com/cg2/アキシャルギャップ型モータ/",
+    "https://ginga-motor.co.jp/product/axial_gap_motor/",
+    "https://sumitomoelectric.com/jp/products/powdermagneticcore/axialgapmotor",
+    "https://evort.jp/presenters/dynax-j/axial-gap-motor",
+    "https://npm-ht.co.jp/products/135",
+    "https://npm-ht.co.jp/products/products-tag/薄型モータ",
+    "https://mono.ipros.com/cg3/アキシャル型ギャップモータ/"
+   ]
+  },
+  {
+   "query": "超薄型モーター（アキシャルギャップ・扁平・フレームレス） 不足 OR 中国依存",
+   "results": []
+  },
+  {
+   "query": "axial flux pancake frameless thin motor market robots drones market size CAGR 2030",
+   "results": [
+    "https://pmarketresearch.com/auto/axial-flux-motor-for-drones-market/",
+    "https://www.industryarc.com/report/19433/axial-flux-motor-market",
+    "https://www.researchandmarkets.com/report/axial-flux-motor",
+    "https://www.qyresearch.com/reports/6259732/axial-flux-motor-for-drones",
+    "https://www.qyresearch.com/reports/6259730/axial-flux-motor-for-drones",
+    "https://pmarketresearch.com/auto/axial-flux-motor-for-robots-market/",
+    "https://marketpublishers.com/report/industry/other_industries/axial-flux-motor-4-drones-market-gir.html"
+   ]
+  },
+  {
+   "query": "axial flux pancake frameless thin motor market robots drones cost breakdown bill of materials",
+   "results": [
+    "https://www.taurus-motors.com/",
+    "https://hillmancurtis.com/pcb-stator-axial-flux-motor/",
+    "https://wheemo.dev/wxseries/frameless",
+    "https://marketpublishers.com/report/industry/other_industries/axial-flux-motor-4-drones-market-gir.html",
+    "https://www.framelesstorquemotor.com/blog/axial-flux-vs-radial-flux-frameless-torque-motor",
+    "https://humanoidrobotactuators.com/en/blog/axial-flux-vs-radial-flux-humanoid-actuators",
+    "https://hengceresearch.com/products/axial-flux-motor-for-drones/56604"
+   ]
+  },
+  {
+   "query": "axial flux pancake frameless thin motor market robots drones demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html",
+    "https://fortune.com/2026/06/09/china-builds-85-percent-worlds-humanoids-robots-cheap/",
+    "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "https://humanoidroboticstechnology.com/articles/top-12-humanoid-robots-of-2026/",
+    "https://www.thedroneu.com/blog/future-of-drones/",
+    "https://interestingengineering.com/ai-robotics/china-opens-humanoid-robot-factory",
+    "https://fortune.com/2026/03/13/bank-of-america-humanoid-robot-forecast-3-billion-2060/"
+   ]
+  },
+  {
+   "query": "site:note.com 超薄型モーター（アキシャルギャップ・扁平・フレームレス）",
+   "results": [
+    "https://note.com/qy_research/n/n6e64611a1bf0",
+    "https://note.com/qy_research/n/nb7928ed296d1",
+    "https://note.com/qy_research/n/n349c8a073932",
+    "https://note.com/kaze26/n/n001d4e756f5f",
+    "https://note.com/qy_research/n/neb41fc478ae6",
+    "https://note.com/qy_research/n/n5f48a09b0ba7",
+    "https://note.com/tomiriki_2026/n/n0f54bc464217"
+   ]
+  },
+  {
+   "query": "site:x.com 超薄型モーター（アキシャルギャップ・扁平・フレームレス）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2103974007284674786",
+    "https://jf.x.com/images/media-preview/2113545874890776741",
+    "https://x.com/sangyo_web/status/2072862417479139755",
+    "https://x.com/TEKKOSHIMBUN/status/2073889663622803623",
+    "https://x.com/Marklines_JP/status/2039567680806797420",
+    "https://x.com/YamamotoPENU/status/2059881510510231631",
+    "https://x.com/MLB_Connection/status/2065970445145592295"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 超薄型モーター（アキシャルギャップ・扁平・フレームレス）",
+   "results": [
+    "https://www.linkedin.com/pulse/axial-flux-motor-market-global-trends-driving-next-generation-hdxof",
+    "https://jp.linkedin.com/pulse/2026年から2033年までのフレー-7490592907335385088-nhphe",
+    "https://jp.linkedin.com/posts/jmag-japan_jmagを活用したアキシャルギャップモータの解析時間の高速化-電磁界解析ソフトウェア-activity-7191604946117488641-Egro",
+    "https://et.linkedin.com/company/ministry-of-education-ethiopia",
+    "https://au.linkedin.com/in/tuan-kiet-nguyen-8b4b652b6",
+    "https://in.linkedin.com/jobs/view/gen-ai-engineer-at-ltm-4382038368",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7474937077047119872/"
+   ]
+  },
+  {
+   "query": "site:facebook.com 超薄型モーター（アキシャルギャップ・扁平・フレームレス）",
+   "results": [
+    "https://www.facebook.com/JMAGJapan/posts/アキシャルギャップモータに関する問い合わせが増えていますhoganas-ab社からsmc材コア製造プロセスの各概要及びアキシャルギャップモータの電磁気設計に関す/1075966162933526/",
+    "https://www.facebook.com/JMAGJapan/photos/アキシャルギャップモータに関する問い合わせが増えていますhoganas-ab社からsmc材コア製造プロセスの各概要及びアキシャルギャップモータの電磁気設計に関す/1075966086266867/",
+    "https://www.facebook.com/JMAGJapan/photos/アキシャルギャップ型モータは軸方向の磁束を利用して円板状に配置された回転子と固定子が対向して回転する構造です利点はラジアルギャップ型モータより薄く構成することが/1289214149564200/",
+    "https://www.facebook.com/JMAGJapan/photos/アプリケーションカタログ-アキシャルギャップ型モータはラジアルギャップ型モータより薄く構成することができスペースが限られる車載用モータとして採用されていますまた/1122894019529548/",
+    "https://www.facebook.com/JapanEmdustrial.Inc/posts/モータの薄型化や高性能化に不可欠-2020年9月16日住友電気工業株式会社はモータの薄型および高性能化に貢献するアキシャルギャップモータ用の圧粉磁心を開発し先月/388157072582291/",
+    "https://www.facebook.com/SchaefflerJapan/posts/人とくるまのテクノロジー展2024横浜に展示するアキシャルギャップ型モータをご紹介しますインナーローターアキシャルギャップ型モーターとすることにより軸方向長さの/933144328820969/",
+    "https://www.facebook.com/Nidec.JP/photos/a.446833135664185/811371635876998/"
+   ]
+  },
+  {
+   "query": "超薄型モーター（アキシャルギャップ・扁平・フレームレス） note 社長",
+   "results": [
+    "https://ginga-motor.co.jp/product/axial_gap_motor/",
+    "https://sei.co.jp/technology/tr/bn192/pdf/192-23.pdf",
+    "https://sumitomoelectric.com/jp/products/powdermagneticcore/axialgapmotor",
+    "https://ginga-motor.co.jp/column/column09/",
+    "https://ftengineering.jp/2026/08/11/next-generation_robotics/",
+    "https://www.dynax-j.com/ja/wp-content/uploads/2024/08/AGMotor.pdf",
+    "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00669/"
+   ]
+  },
+  {
+   "query": "超薄型モーター（アキシャルギャップ・扁平・フレームレス） X 投稿",
+   "results": [
+    "https://ginga-motor.co.jp/product/axial_gap_motor/",
+    "https://sumitomoelectric.com/jp/products/powdermagneticcore/axialgapmotor",
+    "https://sei.co.jp/technology/tr/bn192/pdf/192-23.pdf",
+    "https://mono.ipros.com/cg2/アキシャルギャップ型モータ/",
+    "https://npm-ht.co.jp/products/products-tag/薄型モータ",
+    "https://ftengineering.jp/2026/08/11/next-generation_robotics/",
+    "https://www.softronics.co.jp/products/thin"
+   ]
+  },
+  {
+   "query": "axial flux pancake frameless thin motor market robots drones site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/axial-flux-motors-pancake-revolution-jinesh-vinayachandran-jnjjc",
+    "https://www.linkedin.com/pulse/role-axial-flux-motor-market-advancing-drone-technology-setu47-ty1df",
+    "https://pe.linkedin.com/posts/allient-inc_framelessmotors-axialfluxmotors-motors-activity-7341094861384675328-R1kN",
+    "https://uk.linkedin.com/company/pmw-dynamics",
+    "https://www.linkedin.com/pulse/industry-insights-global-axial-flux-motor-drones-markets-efole",
+    "https://www.linkedin.com/pulse/comprehensive-study-axial-flux-motor-dronesmarket-dymwf",
+    "https://www.linkedin.com/pulse/assessing-competition-axial-flux-motor-robots-market-strengths-fxvxe"
+   ]
+  }
+ ],
+ "missing": {
+  "部品構成比・単価": "記載なし（読んだ48頁・検索16回）"
+ }
+}

@@ -1,0 +1,2466 @@
+{
+ "name": "工場の無人化（ダークファクトリー）",
+ "en": "lights-out manufacturing dark factory market",
+ "aliases": [
+  "無人工場",
+  "ライツアウト 工場",
+  "完全自動化工場"
+ ],
+ "context": "工場無人化",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:33:02.179594+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "暗黒工場の市場規模、動向、予測、2025-2032年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界ダークファクトリ市場規模は2035に予測",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルダークファクトリ市場規模は2024年のUSD 47.25億で推定されました",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年から2035年にかけて約7.05%のCAGRで成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なダークファクトリ 市場規模は2035年までのUSD 99.97億に達する見込み",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なダークファクトリーの市場規模は、2024年に47.25億米ドルに相当し、2025年から2035年までの約99.97億米ドルに成長することが予測されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2024:",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "「官民投資の戦略17分野」は2040年度までに370兆円超、ICT基盤関連が約半分",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万〜2億円",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "2億〜10億円",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "物流ロボットとは？種類・市場規模・導入コストを2026年版で徹底解説",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AGV/AMRの違い、2026年の市場規模、導入コスト、補助金、失敗しない選び方まで1次情報で解説します",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデジタルツイン市場は2020年の約31億ドルから2026年には約480億ドルに拡大すると予測されています（出典: Bismarck Capital社等の市場予測）",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、ライン1本の完全Lights-out化には3〜7年・総額数億〜数十億円規模が一般的な相場です",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "MES／AIエージェント開発：3,000万円〜2億円",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "高度な産業用ロボット、無人搬送設備、各種センサー、高速かつ堅牢な産業ネットワーク（ローカル5Gや産業用イーサネット）、そしてMES自体のライセンス・インテグレーション費用を含めると、中小規模の工場であっても数億円から十数億円規模の投資が必要になるケースは珍しくありません",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "今年の世界AIサーバー市場規模、1587億ドルに拡大へ",
+    "url": "https://spap.jst.go.jp/china/news/250902/topic_2_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dark Factories Market Size & Share Report, 2025-2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, 2024",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2024",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "USD 119.2 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated market size in 2026",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "USD 138.7 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Projected market size by 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "USD 194.6 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2025 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Type Outlook (Revenue, USD Million, 2018 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "End-Use Industry Outlook (Revenue, USD Million, 2018 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Outlook (Revenue, USD Million, 2018 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global dark factories market size was valued at USD 119.2 billion in 2024 and is estimated at USD 138.7 billion for 2026.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global dark factories market is expected to grow at a CAGR of 8.7% from 2025 to 2030, reaching USD 194.6 billion by 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Dark Factories Market Size, Share, Demand | CAGR of 7.2%",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 94.8 Billion",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 47.3 Billion",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific Leads Dark Factories Market with 44.8% Share, Valued at USD 20.8 Billion",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 20.8 billion",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Dark Factories Market Size Forecasts to 2035",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Dark Factories Market Size Was Estimated at USD 47.25 Billion in 2024",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Market Size is Expected to Grow at a CAGR of around 7.05% from 2025 to 2035",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Worldwide Dark Factories Market Size is Expected to Reach USD 99.97 Billion by 2035",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2024:",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 47.25 Billion",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 99.97 Billion",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "2. What is the market size of the dark factories market?",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global Dark Factories market size is expected to grow from USD 47.25 Billion in 2024 to USD 99.97 Billion by 2035, at a CAGR of 7.05% during the forecast period 2025-2035.",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "capable of manufacturing 10 million smartphones a year across 11 fully automated production lines.",
+    "url": "https://en.wikipedia.org/wiki/Lights_out_(manufacturing)",
+    "pass": 3
+   },
+   {
+    "quote": "Financial implications extend beyond initial capital investments. While equipment costs range from $5-50 million depending on facility size, hidden expenses including software development, system integration, and workforce retraining often equal hardware investments.",
+    "url": "https://oxmaint.com/blog/post/lights-out-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "IFR forecast: 1.7 million new robots to transform the world´s factories by 2020 (",
+    "url": "https://www.criticalmanufacturing.com/blog/lights-out-automation-creating-resilient-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "https://ifr.org/ifr-press-releases/news/ifr-forecast-1.7-million-new-robots-to-transform-the-worlds-factories-by-20",
+    "url": "https://www.criticalmanufacturing.com/blog/lights-out-automation-creating-resilient-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "analysts warned that the U.S. could lose out on roughly $162 billion",
+    "url": "https://www.gray.com/insights/shining-a-light-on-the-lack-of-fully-automated-dark-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "例：CAPEXが12億円、年間便益が2.4億円なら回収5年（12÷2.4＝5）",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模の推計も調査会社によって大きく異なるため、本記事では使いませんでした",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "米ドルに達すると予測され、2025年から2032年にかけて年平均成長率",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）7.1",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカ地域は2025年に32.9%の市場シェアで最も速い成長を示すと予想されており、これは力強い経済拡大と消費者基盤の上昇に牽引されている",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間：2025年～2032年 CAGR：",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリのCAGR 市場は2024年から2031年にかけて6.9%となる見込みです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年から2035年にかけて約7.05%のCAGRで成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2025-2035の :",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場を支配し、予測期間中に相当するCAGRで成長する予定",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、産業ロボットセグメントは2024年に市場を支配し、予測期間中に相当するCAGRで成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の最大のシェアを占める自動車部門は、予測期間中に最速のCAGRで成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、2024年に最大のシェアを占める自動車セグメントは、予測期間中に最速のCAGRで成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデジタルツイン市場は2020年の約31億ドルから2026年には約480億ドルに拡大すると予測されています（出典: Bismarck Capital社等の市場予測）",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年は経産省ガイドライン第2版・AIエージェント実装・デジタルツイン市場拡大が重なる転換点であり、ここで動き出すかどうかが5年後の競争力を左右します",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "今年の世界AIサーバー市場規模、1587億ドルに拡大へ",
+    "url": "https://spap.jst.go.jp/china/news/250902/topic_2_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2025–2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The dark factories market in Asia Pacific is expected to grow at the fastest CAGR from 2025 to 2030. This growth is primarily driven by advancements in automation, robotics, and artificial intelligence, which are transforming manufacturing processes. Increased demand for efficient, cost-effective, and scalable production solutions further accelerates the adoption of dark factories in the region.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.7% from 2025 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2025 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global dark factories market is expected to grow at a CAGR of 8.7% from 2025 to 2030, reaching USD 194.6 billion by 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Dark Factories Market Size, Share, Demand | CAGR of 7.2%",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024, growing at a",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 7.2%",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, with a CAGR of",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Market Size is Expected to Grow at a CAGR of around 7.05% from 2025 to 2035",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period CAGR 2025-2035 :",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "dominated the market in 2024 and is projected to grow at a substantial CAGR during the forecast period",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "The automotive segment accounted for the largest share in 2024 and is anticipated to grow at the fastest CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "1. What is the CAGR of the dark factories market over the forecast period?",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global dark factories market is projected to expand at a CAGR of 7.05% during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global Dark Factories market size is expected to grow from USD 47.25 Billion in 2024 to USD 99.97 Billion by 2035, at a CAGR of 7.05% during the forecast period 2025-2035.",
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "密度は前年比17%増と伸びてはいるが、韓国・シンガポール・ドイツ・日本には及ばない",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "この工場は、年間1,000万台のフラッグシップ・スマートフォンの生産能力を誇り、1秒間に1台の生産速度を達成している",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "深夜10時、人影がほとんど見当たらない工場の中で、何台ものAGV（無人搬送車）がゆっくりと移動し、加工対象の部品を工作機械へと運んでいた",
+    "url": "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "pass": 3
+   },
+   {
+    "quote": "10台余りの大型門型マシニングセンターが高速で稼働し、ロボットアームが部品を正確につかみ、固定している",
+    "url": "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "pass": 3
+   },
+   {
+    "quote": "瀋陽機床の大型部品加工第2工場旋盤工程室の室長、王顕春氏は、「以前は、1人で管理できる工作機械は多くても1～2台で、材料の投入や取り出しも人手で行う必要があった",
+    "url": "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "pass": 3
+   },
+   {
+    "quote": "鞍鋼集団関宝山鉱業有限公司の「ダークファクトリー」に足を踏み入れると、2台の大型ボールミルが高速で稼働し、スマート点検ロボットや清掃ロボットがライトを点滅させながら整然と作業していた",
+    "url": "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "pass": 3
+   },
+   {
+    "quote": "今年の春、新松ロボット自動化股份有限公司の100台近くの溶接ロボットが、吉利汽車義烏工場の自動車溶接ラインに一斉に導入され、稼働を開始した",
+    "url": "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国、7月の1日平均チップ生産量が約17億個に",
+    "url": "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "pass": 3
+   },
+   {
+    "quote": "パナソニック、禁止した生成AIに33万人分の個人情報 従業員の家族も",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "5層JCTと曲線トンネル地中接合、工事が進む横浜環状南線・横浜湘南道路",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "1位は「高水圧で壁厚30cmのトンネル崩落、湧水対策が裏目に出た可能性も」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "国際ロボット連盟（IFR）の2024年版World Robotics Reportによると、産業用ロボットの稼働台数は中国が約180万台でトップ、日本は約42万台で3位ですが、製造業従業員1万人あたりの密度（ロボット密度）では韓国が1,000台以上で世界1位、日本は約400台にとどまります",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "可搬重量5kg〜2,000kgまで幅広い",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "可搬重量3〜35kg中心",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "無人化工場AIでは「搬送のAGV/AMRがボトルネック」になるケースが多く、ライン1本あたり3〜10台のAMR配備が標準です",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "不良率は100万個あたり11個以下の水準を維持",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "並行してAGV/AMR1〜3台の試験運用を開始",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボット・AGV/AMR：500万〜5,000万円/台",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "1台あたりおおむね数百万円程度",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "要は20kgほどの部品がコンベアで流れてきて、それを機械にセットして動作ボタンを押し終わったら取り出して次の機械への繰り返しで数台の機械を回す、という感じでした",
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "pass": 3
+   },
+   {
+    "quote": "北京経済技術開発区管理委員会の劉力副主任は4日に行われた発表会で、「北京経済技術開発区は『一模一案（モデルごとに個別対応）』『一業一策（業種ごとに個別施策）』を推進メカニズムとし、『要素・産業・プラットフォーム・シーン・エコ』の5つの支援システムを体系的に構築し、都市全域を対象にしたAIシティの構築を全力で進めている",
+    "url": "https://spap.jst.go.jp/china/news/250902/topic_2_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "Moreover, the demand for faster, more precise production in sectors such as automotive, electronics, and pharmaceuticals is pushing the adoption of additive manufacturing technologies. In addition, global shifts toward digital innovation and Industry 4.0 initiatives are accelerating the implementation of fully automated smart factories, further propelling the market growth.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The dark factories market in Asia Pacific is expected to grow at the fastest CAGR from 2025 to 2030. This growth is primarily driven by advancements in automation, robotics, and artificial intelligence, which are transforming manufacturing processes. Increased demand for efficient, cost-effective, and scalable production solutions further accelerates the adoption of dark factories in the region.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Dark Factories Market Size, Share, Demand | CAGR of 7.2%",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2024, driven by increasing automation demands.",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Building lights-out manufacturing capabilities demands careful selection and integration of complementary technologies creating self-sufficient production environments. Each technology component must communicate seamlessly while maintaining reliability standards exceeding 99.9% to prevent costly autonomous operation failures.",
+    "url": "https://oxmaint.com/blog/post/lights-out-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "$50k-500k per unit",
+    "url": "https://oxmaint.com/blog/post/lights-out-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Hidden costs significantly impact ROI calculations but often escape initial analysis. System integration consuming 30-40% of project budgets, ongoing software licenses adding 15-20% annually to operational costs, and specialized maintenance requirements demand careful consideration.",
+    "url": "https://oxmaint.com/blog/post/lights-out-manufacturing-guide",
+    "pass": 3
+   },
+   {
+    "quote": "of cotton textiles. Due to the increase in demand, by 1787 the number of",
+    "url": "https://www.criticalmanufacturing.com/blog/lights-out-automation-creating-resilient-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "いま“数百台の機械 × 数人の人”で回る「ダークファクトリー」工場は、単なる省人化ではなく、",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   },
+   {
+    "quote": "コントロールルーム：2–4人で数百台を監視（ダッシュボード：OEE、アラーム、WIP、ボトルネック）",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   },
+   {
+    "quote": "人員当たり監視対象台数（台/人）と“手当発生率（コール/シフト）”",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   },
+   {
+    "quote": "FA（ファクトリーオートメーション）は個々の工程を機械に置き換えること、スマートファクトリーは設備や工程のデータをつないで判断に使うこと",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "第一財経経由） ／ 確認できたこと：投資24億元、建築面積8.1万㎡、年産能力1,000万台",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "「黒灯生産を全面的に実現」は2024年4月の取材での雷軍氏本人の発言で、公式発表の数字（24億元、1,000万台）とは別の層にあります",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "しかも同じ取材で「主要工程はすべて自動化、700台超のロボットが稼働」と語ったのは、取材の文脈では昌平のスマホ工場ではなく亦庄のEV工場です",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "IFRが2026年4月8日に発表した2024年のロボット密度（製造業の従業員1万人あたりの稼働台数）は、韓国1,220台、シンガポール818台、ドイツ449台に続いて日本が446台で世界4位",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "米国は307台（8位）、世界平均は132台でした",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "なお、同じ発表で中国は166台（世界22位）です",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "瀋陽機床では、導入前は1人が扱える工作機械は1〜2台で、材料の投入や取り出しも人手だったと、現場の責任者が新華社に語っています（旋盤工程の効率が50%向上したという数字は会社側の発表です）",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "夜間・休日に動かせる時間数 × 1時間あたりの生産量 × 1個あたりの付加価値",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "2024年7月の公式発表（第一財経経由で確認）にあるのは投資24億元、年産能力1,000万台などの数字で、「無人」「黒灯」の語はなく、「黒灯生産を全面的に実現」は同年4月の雷軍CEOの取材発言です",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "稼働例は限定的だが、中国・台湾・日本の一部工場に実例がある",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "無人工場の議論の土台になるのが、産業用ロボットの導入状況だ",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "国際ロボット連盟（IFR）が2026年4月に発表したデータ（World Robotics 2025の2024年基準）によると、製造業従業員1万人当たりのロボット稼働台数は、西ヨーロッパ267台、EU全体231台、世界平均132台、北米204台、アジア131台となっている",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "国別では韓国1,220台が世界一で、シンガポール818台、ドイツ449台、日本446台、米国307台と続く",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "IFRの同じ発表によると、中国のロボット密度は166台（1万人当たり）で、世界22位、アジア6位に位置する",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、中国のロボットの稼働ストック（総設置台数）は約200万台と世界最大で、2位の日本の約4.5倍に達する",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2024年に世界で新規設置されたロボットの54%にあたる29万5,000台が中国に設置された",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "サプライチェーン専門メディアのSupply Chain 24/7（2024年7月22日付）によると、この工場は面積約8万平方メートル、年間1,000万台超のスマートフォンを生産し、11本の全自動生産ラインを持ち、3秒に1台のペースで組み立てる",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "2003年のCNN Money（旧Business 2.0）の報道によると、富士山麓の約4万平方フィートの工場では、ロボットがロボットを組み立て、24時間の1シフトで約50台を生産し、最大30日間、人の手を借りずに運転を続ける",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "「何が変わるか」「個人はどう使うか」を、行動に移せる形で発信します",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "AI・テクノロジーの変化を、個人の仕事と投資判断に生かすための実践リサーチメンバーシップです",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "、2025年には45.0%と最も高い市場シェアを占めると予想される",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザー産業別では、自動車製造工程の複雑さと規模の大きさから、2025年には自動車産業が40.8%と最も高い市場シェアを占めると予想されている",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "デプロイメント別では、グリーンフィールド・プロジェクトが2025年に53.7%と最も高い市場シェアを占めると予想されている",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の最大のシェアを占める自動車部門は、予測期間中に最速のCAGRで成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、2024年に最大のシェアを占める自動車セグメントは、予測期間中に最速のCAGRで成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "1台あたりおおむね数百万円程度",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "暗いファクトリーズ市場 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェアは、産業用ロボットが45.0%で最も高い",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェアは自動車分野が40.8%で最も高い",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンフィールドプロジェクトは、2025年に53.7%の最高市場シェアに寄与すると予測される",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域が優位を占め、2025年には44.6%の市場シェアが見込まれる",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "、2025年には45.0%と最も高い市場シェアを占めると予想される",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザー産業別では、自動車製造工程の複雑さと規模の大きさから、2025年には自動車産業が40.8%と最も高い市場シェアを占めると予想されている",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "自動車メーカーは、コスト削減、厳しい排ガス規制への対応、車両開発サイクルの短縮を常に迫られている",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "デプロイメント別では、グリーンフィールド・プロジェクトが2025年に53.7%と最も高い市場シェアを占めると予想されている",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は支配的な市場であり、2025年には44.6%の市場シェアが見込まれる",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "AnthropicやGreyOrangeといったこの地域の主要企業は、AIを活用した自動フルフィルメントセンターの構築でリーダーシップを確立している",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカ地域は2025年に32.9%の市場シェアで最も速い成長を示すと予想されており、これは力強い経済拡大と消費者基盤の上昇に牽引されている",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "多くのグローバルメーカーがメキシコ全土にステルス工場（一般に闇工場と呼ばれる）を設立し、オペレーションの最適化のために自動化とデジタル化に注力する一方で、より低い運営コストを活用している",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業、最新動向、競争インテリジェンス",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "また、素材サプライヤーやOEMとの戦略的提携も進めている",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリー市場シェアは、テクノロジーの種類とエンドユース業界に分類されます",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の最大のシェアを占める自動車部門は、予測期間中に最速のCAGRで成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、2024年に最大のシェアを占める自動車セグメントは、予測期間中に最速のCAGRで成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測された時間枠上の暗い工場市場の最大のシェアを保持することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、予測された時間枠上の暗い工場市場の最大のシェアを保持することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "報告書は、主に提供の種類に基づいて、比較評価、事業概要、地理的存在感、企業戦略、セグメント市場シェア、およびSWOT分析に基づいて、ダークファクトリー市場で関与する主要な組織/商業の適切な分析を提供しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業リスト",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "事例1：大手スマートフォンメーカーの完全無人製造ライン",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "中国の大手電子機器メーカーでは、スマートフォンの組み立て工程において完全無人化を実現しています",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "事例2：電子部品メーカーの検査装置自動化プロジェクト",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "国内の電子部品メーカーでは、既存の検査装置を活用したダークファクトリー化に成功しています",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "Facebookでシェア",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedInでシェア",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事をシェア",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "テスラ最大の競合、NVIDIAに車メーカーが殺到 E2E自動運転の基盤争い",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "海外：欧州メーカー（部品工場）",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "国内：電子部品メーカー／精密加工メーカーの事例",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "とくに国内の中堅・中小メーカーでは、人材確保の難しさが深刻化しており、ダークファクトリーは生産基盤を維持するための有力な選択肢になりつつあります",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリーは海外で先行事例が多く、日本でも一部メーカーが",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、Lights-out運用の代表事例として知られるFANUCを軸に、Siemens・国内大手メーカー（社名匿名）の取り組みを整理します",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "国内大手食品メーカーの夜間無人運転事例",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "国内大手の段階的無人化事例｜大手食品メーカーの夜間無人運転",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "大手食品メーカーA社：包装ラインの夜間無人運転を実現し、3交代から2交代＋夜間無人へ移行",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "製品トレーサビリティ・BOM/部品データ管理・サプライヤー連携・CFP算定・AIによる一次データ収集の自動化まで、現場のデータ基盤の作り方を整理します",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "スモールスタートしたいおすすめメーカー向け",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外に多くの工場があるメーカー向け",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "機械メーカー",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "既存の新旧・異なるメーカーの",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "幅広いメーカー・古い機械のデータ収集",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表メーカー",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "センサー・機器メーカー",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットメーカー所属が中心",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットメーカーのFE職",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ系部品メーカーの停止事例、IoT/OTのセキュリティ、求められる人材像、これからの工場の防御戦略を紹介",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製造業DX事例10選｜大手メーカーが進める次世代の工場の最前線",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "ANCA CNC Machines | Industry-Leading Tool Grinding Solutions - ANCA - CNC Machines",
+    "url": "https://machines.anca.com/e-sharp-news/may-2021/shining-a-light-on-the-dark-factory-trend?lang=ja-JP",
+    "pass": 3
+   },
+   {
+    "quote": "を作り出し、工具メーカーには、専門的なスキルを高め、",
+    "url": "https://machines.anca.com/e-sharp-news/may-2021/shining-a-light-on-the-dark-factory-trend?lang=ja-JP",
+    "pass": 3
+   },
+   {
+    "quote": "オートメーション化によって、メーカーは、完成品のクオリティを下げることなく、無人で昼夜を問わず所有するマシンを稼働させることが可能です",
+    "url": "https://machines.anca.com/e-sharp-news/may-2021/shining-a-light-on-the-dark-factory-trend?lang=ja-JP",
+    "pass": 3
+   },
+   {
+    "quote": "ここ数年、当社はスイスの工具メーカー Fraisa 社とお取引してきました",
+    "url": "https://machines.anca.com/e-sharp-news/may-2021/shining-a-light-on-the-dark-factory-trend?lang=ja-JP",
+    "pass": 3
+   },
+   {
+    "quote": "を供給することができるようになるのです",
+    "url": "https://machines.anca.com/e-sharp-news/may-2021/shining-a-light-on-the-dark-factory-trend?lang=ja-JP",
+    "pass": 3
+   },
+   {
+    "quote": "Pipeline (Supplier DB)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include FANUC CORPORATION and Amazon.com, Inc.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following are the leading companies in the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "These companies collectively hold the largest market share and dictate industry trends.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Which region accounted for the largest dark factories market share?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "これはオリジナルレポートの日本語翻訳ページです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "中国、インド、日本、オーストラリア、韓国、ASEAN、その他のアジア太平洋地域",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "アジアパシフィック(中国、日本、インド、APACの残り)",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内の電子部品メーカーでは、既存の検査装置を活用したダークファクトリー化に成功しています",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業が国際競争力を維持・向上させるためには、ダークファクトリーの積極的な導入が重要な戦略となります",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "「ダークファクトリー」を訪ねて AIが支える中国の24時間連続スマート製造--人民網日本語版--人民日報",
+    "url": "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "pass": 3
+   },
+   {
+    "quote": "人民網日本語版",
+    "url": "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人民網日本語版」2026年9月9日",
+    "url": "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本は「安全保障上の不安」によってAIを発展させることはできない",
+    "url": "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tel:日本（03）3449-8257 Mail：japan@people.cn",
+    "url": "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本流、フィジカルAIのつくり方",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "JPモルガンやロッキードにみるAI導入「4原則」、日本企業への示唆",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "日本的スマホ論",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAI半導体、鍵は「低遅延と拡張性」 川崎重工が採用決めた国内新興",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "モメンタ日本へ急接近、テスラに迫れるか 中国E2E自動運転トップの技術力",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、ダークファクトリーの基本概念、注目されている背景、得られる価値、導入に必要な技術、国内外の事例、そして実現に向けた導入ステップまでを体系的に解説します",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "国内外のダークファクトリー事例",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "国内：電子部品メーカー／精密加工メーカーの事例",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "海外企業の成功事例が増え、日本でも関心が急上昇",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "海外では24時間無人稼働によって高い生産性を実現する成功事例が増えており、日本でも具体的な導入検討が進み始めています",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "とくに国内の中堅・中小メーカーでは、人材確保の難しさが深刻化しており、ダークファクトリーは生産基盤を維持するための有力な選択肢になりつつあります",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリーは海外で先行事例が多く、日本でも一部メーカーが",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "国内では「夜間だけ無人化」など、段階的な導入が現実的",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の無人化工場AI事例｜FANUC・Siemens・国内大手",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "国内製造業の多くは現状L1〜L2の段階で、L3に到達しているのはFANUC等の限定的な企業です",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省「労働力調査」によると、日本の生産年齢人口（15〜64歳）は1995年の8,716万人をピークに減少を続け、2024年時点で約7,400万人まで縮小しています",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "海外（米中独韓）の自動化投資との競争と日本のDX遅れ",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "韓国サムスン電子：2030年までに国内外全製造拠点をAI自律運営型に転換する戦略を発表（出典: ビジネス+IT 2025年）",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "国際ロボット連盟（IFR）の2024年版World Robotics Reportによると、産業用ロボットの稼働台数は中国が約180万台でトップ、日本は約42万台で3位ですが、製造業従業員1万人あたりの密度（ロボット密度）では韓国が1,000台以上で世界1位、日本は約400台にとどまります",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のDX遅れは「効率の差」ではなく「コスト構造の差」として顕在化し、海外勢に価格・品質・納期で対抗できなくなるリスクが2026年以降に表面化します",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "無人化工場AIは概念だけが先行しているわけではなく、すでに国内外で具体的な成果が出ています",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、Lights-out運用の代表事例として知られるFANUCを軸に、Siemens・国内大手メーカー（社名匿名）の取り組みを整理します",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "国内大手食品メーカーの夜間無人運転事例",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "国内大手の段階的無人化事例｜大手食品メーカーの夜間無人運転",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "国内製造業でも段階的な無人化が進んでいます",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "国内大手の事例は、3〜5年スパンで段階的に無人化レベルを引き上げているのが共通点です",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省ガイドラインや国内外事例の積み上げから見えるのは、3〜7年かけて段階的にレベルを引き上げるロードマップが成功の共通項であることです",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "FANUCの30年・Siemensの稼働率99.99885%・サムスンの2030年戦略といった国内外事例は、無人化工場AIが「いつかの未来」ではなく「今から積み上げる必須投資」であることを示しています",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Factory Conductor（日本ノーベル株式会社）",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "NetSuite（日本オラクル株式会社）",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内外に知られる横河電機",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の工場責任者の7割超が2040年までに新設する工場の完全自動化を望む、アクセンチュアの調査 - DIGITAL X（デジタルクロス）",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の工場責任者の7割超が2040年までに新設する工場の完全自動化を望む、アクセンチュアの調査",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本の工場責任者の74％は2040年までに新たに建設際は完全自動化工場（ダークファクトリー）を望んでいる」−−",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動化を望む傾向は日本を含むアジア各国で強く、欧米の希望を上回っていた",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "アクセンチュアの『ものづくりの未来に向けた変革を再考する（Rethinking the course to manufacturing’s future）』は、日本を含む11カ国の工場責任者を対象にしたアンケート調査をまとめたもの",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "同調査によれば、日本とアジア各国の工場責任者は「工場では2040年までに、人間の管理のもと、AI駆動の自己学習機能を持つ機械やロボットだけでほぼ完全に作業できるようになる」と“超自動化（ハイパーオートメーション）”に積極的である",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、日本の工場責任者の74％が「2040年までに自社が新たな施設を建設する際に“完全自動化工場（ダークファクトリー）”を望むと回答した",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国は53％、米国は29％、ヨーロッパが20％であり、未来的で先進的な取り組みに対する日本企業の期待の大きさが顕著だった",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動化などに向けてAI（人工知能）技術やデジタル技術などについても、日本企業の利用意向は高く、欧米の工場責任者は、より慎重だ（表1）",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "多くの工場責任者は、高度な自動化への原動力となるのは「人材変革」であると回答（日本95％、グローバル70％）している",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは、自動化（日本90％、グローバル63％）、AI（日本91％、グローバル62％）、デジタル化（日本91％、グローバル61％）を上回る結果だった",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日常業務にデータ分析を組み込むこと」（日本98％、グローバル73％）や「データに基づいた意思決定の重要性（日本96％、グローバル72％）」も強く認識されている",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "人材改革の障壁としては「研修プログラムへの多額の投資だ」と回答者のほぼ半数（日本52％、グローバル49％）が指摘する",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "「失業への恐怖心（日本48％、グローバル46％）」や「機械との協働や自律型物流の調整といった新たな役割への抵抗感（日本34％、グローバル38％）」も挙がる",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場責任者の51％は「AIに関するスキルや資格を持つ専門家の不足」を懸念しており、インドと日本は67％と高い",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場の無人化はどこまで進んでいるのか｜「人がいない工場」の本当のリアル | 日本ものづくりキャリア",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のものづくりを次の世代へ",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "運営者情報 | 日本ものづくりキャリア",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 日本ものづくりキャリア",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "さらに、人件費の上昇と労働力不足により、製造業各社はロボット工学やIoTのような産業用自動化技術の導入を増やす必要に迫られている",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "熟練労働者の不足",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリーは潜在的な利点を持っていますが、その成長は、最先端の自動化システムを処理できる有能な人材の不足によって妨げられます",
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では、人手不足や熟練者の退職、生産性向上の要求など、従来の改善活動だけでは乗り越えられない課題が増えています",
+    "url": "https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory",
+    "pass": 3
+   },
+   {
+    "quote": "貴社が今、どのステップに進めるか、そして何が不足しているかを確認するためのチェックリストです",
+    "url": "https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory",
+    "pass": 3
+   },
+   {
+    "quote": "製造業界では深刻な人手不足や国際競争の激化により、生産性向上が急務となっています",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "劇的な人件費削減と人手不足解消",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "メリット1：劇的な人件費削減と人手不足解消",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "深刻化する人手不足問題の根本的解決策として、ダークファクトリーは大きな威力を発揮します",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "繊維関連の製造企業では、夜間の完全無人稼働システムを構築し、人手不足問題を解決しています",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリーは、深刻化する人手不足問題の解決と製造業の競争力強化を同時に実現する革新的なソリューションです",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が深刻化し、生産性向上とコスト削減の両立が求められる製造業において、「ダークファクトリー（完全自動化工場）」への関心が急速に高まっています",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の解決",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "特に深刻なのが人手不足",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の深刻化（夜勤要員不足・高齢化・採用難）",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリーの導入によって得られるメリットは多岐にわたりますが、その中でも特に効果が大きいのが「人手不足の解消」「生産性向上」「コスト・エネルギー削減」の3つです",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足解消・生産性最大化・コスト削減",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "その背景には、人手不足の深刻化、技術の急速な進化、コスト削減や省エネの要求、そして海外企業の成功事例の増加があります",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、人手不足・技能伝承断絶・国際競争の3つの観点から、無人化工場AIを後回しにできない理由を整理します",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "採用と海外移転だけでは穴埋めが不可能な水準まで人手不足が進行しており、無人化工場AIは現実的に残された数少ない選択肢になっています",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足とAIによる解決策も合わせて検討してください",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜAIで製造業の人手不足は解消されるのか？理由と導入事例",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 人手不足 AIについて、導入方法から活用事例まで詳しく解説します",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "失敗パターン3：現場巻き込み不足で運用定着しない",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足による問題はMESシステムで対策できる？",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化に伴う深刻な人手不足や人件費の高騰、さらにはグローバルなサプライチェーンの激動に直面する製造業界において、究極の合理化モデルとして注目を集めているのが「ダークファクトリー（完全自動化工場／暗闇工場）」です",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を根本から解決し、圧倒的な生産性と品質向上を実現する強力な武器",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場責任者の51％は「AIに関するスキルや資格を持つ専門家の不足」を懸念しており、インドと日本は67％と高い",
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "pass": 3
+   },
+   {
+    "quote": "1. 人手不足",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足は慢性的（職種によっては求人が応募を大きく上回る）",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足」を「自動化」が補う時代",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "大体、労働力不足を補う日本のロボット技術！という話はどこに行っちゃったの？",
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "pass": 3
+   },
+   {
+    "quote": "Skilled Workforce Shortage Limits Dark Factories’ Expansion",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The successful operation and maintenance of these highly automated factories require professionals adept in robotics, artificial intelligence, and advanced automation systems. This specialized skill set is scarce, leading to a talent shortage that hampers the growth and efficient running of dark factories.",
+    "url": "https://market.us/report/dark-factories-market/",
+    "pass": 3
+   },
+   {
+    "quote": "but closed because its robots were too inflexible to manage variations in the product line. Nearly 25 years later, North America still hasn’t been transformed by fully lights-out manufacturing. Even amid persistent labor shortages and a sustained push for remote work spurred by the COVID-19 pandemic, truly dark factories remain rare.",
+    "url": "https://www.gray.com/insights/shining-a-light-on-the-lack-of-fully-automated-dark-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Overcoming labor shortages",
+    "url": "https://www.gray.com/insights/shining-a-light-on-the-lack-of-fully-automated-dark-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "—By using automated systems to perform the dull, dirty, and dangerous jobs that are less attractive to human workers, manufacturers can meet production targets without worrying about chronic labor shortages, high turnover, or rising wage expenses. Automation can also enable companies to operate in regions with limited labor availability.",
+    "url": "https://www.gray.com/insights/shining-a-light-on-the-lack-of-fully-automated-dark-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Keeping production running smoothly without humans requires extremely detailed system integration and programming up front, as well as rigorous maintenance procedures on the back end. Specialized human expertise is needed to design and implement advanced automation and keep it running optimally. However, the industry faces a shortage of tech-savvy workers with these skills. Nearly a decade ago,",
+    "url": "https://www.gray.com/insights/shining-a-light-on-the-lack-of-fully-automated-dark-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "：どこで何をどの周期で測るか（過不足は両方凶器）",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "さらに、スマート・インフラ整備に重点を置き、先進技術の採用を奨励する政府の支援政策が、この分野への投資を促進している",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "コラボレーションも新興企業を支援する",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は、先進製造技術の採用に対する政府や企業の強力な支援により、今後数年間は闇工場市場を支配すると予想される",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "また、政府や自治体が提供する製造業DX推進補助金や税制優遇措置を積極的に活用することで、実質的な負担を軽減できます",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "技術パートナーとの長期サポート契約により、24時間体制での技術支援を確保することも重要な対策となります",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "また、投資予算と期待効果を照らし合わせて、最適な導入範囲を決定することが重要です",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "従業員のスキルアップ支援も継続的に行い、新しい役割への適応を促進します",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "pass": 3
+   },
+   {
+    "quote": "建設系資格取得支援",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "pass": 3
+   },
+   {
+    "quote": "高度な最適化・判断支援",
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省スマートファクトリーロードマップとの対応",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省が2017年に公表し、NEDOと共同で2024〜2025年に第2版を更新した「スマートマニュファクチャリング構築ガイドライン」では、工場のスマート化を3レベルで定義しています",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 経済産業省「スマートマニュファクチャリング構築ガイドライン（第2版）」2025年",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AGV/AMRの違い、2026年の市場規模、導入コスト、補助金、失敗しない選び方まで1次情報で解説します",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省ガイドラインや国内外事例の積み上げから見えるのは、3〜7年かけて段階的にレベルを引き上げるロードマップが成功の共通項であることです",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省や民間調査では、PoCで終了するプロジェクトが全体の6〜7割という報告もあります",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省スマートファクトリーロードマップのレベル3（データによる制御・最適化）に該当するのが無人化工場AIです",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金・省エネ補助金・DX推進補助金の活用で初期投資の1/2〜2/3を補填できる場合もあります",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・物流・建設・金融業界のAI活用とDX推進を支援",
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金はMESシステムに活用できる？",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "MESシステム導入に中小企業省力化投資補助金は活用できる？",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金に対応のMES",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "組付作業支援システムとは？",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "以下の条件に当てはまる現場では、無理な完全自動化を避け、部分的な自動化や作業者支援型のMES活用に留めるのが賢明です",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人が主役でMESが作業支援を行うセミオートメーション」を選択することが、最もリスクが低く現実的な解",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれの課題や要望に合致する機能や支援内容を実現できるシステムを公式サイトやパンフレットの記載内容をもとに紹介しています",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "IT導入補助金対象",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な予算をかけるので",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル企業支援実績が豊富",
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "pass": 3
+   },
+   {
+    "quote": "ファクトリーオートメーション（工場の自動化）を支援",
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "北京経済技術開発区管理委員会の劉力副主任は4日に行われた発表会で、「北京経済技術開発区は『一模一案（モデルごとに個別対応）』『一業一策（業種ごとに個別施策）』を推進メカニズムとし、『要素・産業・プラットフォーム・シーン・エコ』の5つの支援システムを体系的に構築し、都市全域を対象にしたAIシティの構築を全力で進めている",
+    "url": "https://spap.jst.go.jp/china/news/250902/topic_2_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用と投資回収、補助金：相場の一次データはない",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "補助金については、中小企業向けの省力化投資補助金（中小企業庁）など、省力化や自動化を対象とする制度があります",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "AJIRISでは、どこまでを機械やAIに任せ、どこで人を呼ぶかを設計するAI導入支援を行っています",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "【「勝てる80点」の地図を描き、超スピードで市場へリリースする】をテーマに、事業コンサル、システム開発、AI導入支援、WEBマーケなどのサービスをご提供しています",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "可視化から 無人化 までの 7ステップ ダークファクトリー を段階 ... — 可視化から 無人化 までの 7ステップ ダークファクトリー を段階 ... カイゼンナビ https://kaizen-navi.biz > 生産管理のヒント",
+    "url": "https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory",
+    "pass": 3
+   },
+   {
+    "quote": "「 ダークファクトリー 」を訪ねて AIが支える中国の24時間 ... — 「 ダークファクトリー 」を訪ねて AIが支える中国の24時間 ... 人民網日本語版 https://j.people.com.cn > ...",
+    "url": "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリー のトレンドに光を当てる — ダークファクトリー のトレンドに光を当てる ANCA machines https://machines.anca.com > e-sharp-news > may-2021 > s...",
+    "url": "https://machines.anca.com/e-sharp-news/may-2021/shining-a-light-on-the-dark-factory-trend?lang=ja-JP",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ダークファクトリー 〜AIヒューマノイドは自動車 工場 の夢を ... ダークファクトリー 〜AIヒューマノイドは自動車 工場 の夢を ... note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "pass": 3
+   },
+   {
+    "quote": "忘備録 まじですか？？→ ダークファクトリー ｜Seizougyou 忘備録 まじですか？？→ ダークファクトリー ｜Seizougyou note https://note.com > 科学・テクノロジー > 機械・工学",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリー は本当に 無人 か｜小米・ファナックの公開 ... ダークファクトリー は本当に 無人 か｜小米・ファナックの公開 ... note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "ダーク ・ ファクトリー の深淵( 無人工場 群)｜Bunny - note ダーク ・ ファクトリー の深淵( 無人工場 群)｜Bunny - note note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ダークファクトリー 〜AIヒューマノイドは自動車工場の夢を見るか〜｜脱・自動車研究所",
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリー 〜AIヒューマノイドは自動車工場の夢を見るか〜",
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "pass": 3
+   },
+   {
+    "quote": "工場が完全無人化できれば照明もエアコンも不要になる、それをダークファクトリーと呼ぶそうです。",
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "pass": 3
+   },
+   {
+    "quote": "思い出したのは42年前、新入社員の工場実習でお世話になったM工場。",
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "pass": 3
+   },
+   {
+    "quote": "M工場は鋳物部品専門で、メインの鉄鋳造工程は建設当時環境に配慮した無窓工場、オイルショック後は節電のために照明を落とすようになり、暗闇の中に溶けた鉄だけが赤く光るまさに地獄の様な「ダークファクトリー」でした。",
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "pass": 3
+   },
+   {
+    "quote": "この地獄の光景を見て初日でばっくれる期間工の方も多いと聞きました。",
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "pass": 3
+   },
+   {
+    "quote": "自分は比較的環境の良いアルミ工場のエンジンブロックの仕上げ工程に配属になったのですが、とにかく要領が悪く毎日へとへと、普段の2倍くらい食事をとっても体重は減る一方、指も動かなくなりましたが昼夜２交代の始業時ラインに立つとなんとか作業できる感じでした。",
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "pass": 3
+   },
+   {
+    "quote": "自分の作業は、鋳上がったアルミのエンジンブロックを最初の機械でバリ落とし、次の機械で上面を研磨、さらに次の機械で下面のバリ落とし、そして研磨。要は20kgほどの部品がコンベアで流れてきて、それを機械にセットして動作ボタンを押し終わったら取り出して次の機械への繰り返しで数台の機械を回す、という感じでした。",
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "pass": 3
+   },
+   {
+    "quote": "忘備録 まじですか？？→ダークファクトリー｜Seizougyou",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   },
+   {
+    "quote": "忘備録 まじですか？？→ダークファクトリー",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   },
+   {
+    "quote": "いま“数百台の機械 × 数人の人”で回る「ダークファクトリー」工場は、単なる省人化ではなく、",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   },
+   {
+    "quote": "工場そのものの設計思想が「監視・例外対応中心」に置き換わった結果",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   },
+   {
+    "quote": "です。仕組みを分解して、どこで何が起きているかを“技術・運用・経済性”の3軸で深掘り。",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   },
+   {
+    "quote": "工場が「数人」で回る仕組み（技術アーキテクチャ）",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   },
+   {
+    "quote": "自動搬送（AMR/AGV）、ストッカー/ASRS",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   },
+   {
+    "quote": "インライン検査：産業カメラ＋深層学習、3D計測、非破壊（X線/超音波/渦流）",
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリーは本当に無人か｜小米・ファナックの公開情報を層で読む｜0→8(ゼロハチ)ならAJIRIS",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリーは本当に無人か｜小米・ファナックの公開情報を層で読む",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "SNSで流れてきた、照明の消えた工場でロボットだけが動く動画。翌朝、役員から「うちもああいうのはできないのか」と聞かれた。そんな場面を想定して書いています。ダークファクトリーは「人がゼロの工場」ではありません。この記事では、公開情報で確認できる実態と、日本の工場が何から手を付けるかを整理します。",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリーは「照明を消しても動く工場」の通称で、完全無人を保証する言葉ではない。",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "小米（Xiaomi）・ファナック・中国EV工場の公開情報を層で読むと、人がいない時間と工程を広げつつ、保全・品質判断・異常対応に人を残す設計になっている。",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "日本の担当者が始めるべきは全面無人化の可否の議論ではなく、夜間・休日に止まっている設備を1つ選び、「人を呼べる仕組み」から設計すること。",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "本記事の情報は2026年10月時点で確認したものです。",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "ダークファクトリーとは：照明を消しても動く工場。ただし「人ゼロ」とは限らない",
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "pass": 3
+   },
+   {
+    "quote": "ダーク・ファクトリーの深淵(無人工場群)｜Bunny",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに：照明を消して走る工場は、もう過去形の話ではない",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "「人間が一人もいない工場で、照明もつけずに24時間、ロボットがロボットを作る」。中国のスマートフォン工場や欧州の半導体・家電工場を巡る報道で、このイメージを目にしたことはないだろうか。無人工場はSFの話ではなく、すでに稼働中の工場がいくつも存在する。しかし、その実態を「全自動・人間不要」と単純に捉えてしまうと、自社の自動化投資の判断を誤る。",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "本稿は、日本の製造業・技術経営・経営企画・自動化投資の意思決定者に向けた、調査・編集の解説記事だ。私は工場現場の一次経験はなく、メーカー・ロボットベンダー・国際機関が公表した資料を複数確認したうえで書いている。無料部分では、「無人工場」という言葉が指す現実の範囲と、中国・欧州の事例の裏にある「何が自動化され、何が人間に残るか」という境界線を、一次資料の数字で示す。有料部分では、自社の工程に当てはめて導入可否を判断するための確認チェックリスト、中国・欧州の代表的事例の比較表、適用の手順、一次資料のソースリストを渡す。",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "この記事を読んで得られる見方は、一言でいえば「無人工場はオール・オア・ナッシングではない」ということだ。点灯していない時間帯だけを無人で回すラインも、工程の75%を自動化した工場も、24時間完全無人で稼働するスマホ工場も、すべて「無人工場」とひとくくりに報道される。だからこそ、どの範囲が自動化され、どの範囲に人が残っているかを、工場ごとに確かめる視点が必要になる。",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "1. 「無人工場」は何を指すのか——定義と現実のずれ",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "まず、言葉の整理から始める。英語では「lights-out manufacturing（消灯生産）」または「dark factory（暗い工場）」と呼ばれる。これは、現場に人間の労働力が常駐しない形で生産を全自動化する製造手法を指す（Wikipediaの当該項目の定義）。重要なのは、「照明を消して運転できる」工場と「照明を消して生産を続ける」工場は、実は別物だということだ。多くの工場は「消灯状態で動かせる能力を持つ」が、製品の取り出しや段取りなど、人が絡む工程を挟むために、常時消灯では稼働していない。",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   },
+   {
+    "quote": "実際の運用形態には、大きく三つの段階がある。この段階の違いが、ニュースを読み比べるときの最初の手がかりになる。",
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "渡辺広明 (消費経済アナリスト) on X: \" ダークファクトリー ... 渡辺広明 (消費経済アナリスト) on X: \" ダークファクトリー ... X https://x.com > @yaramaika",
+    "url": "https://x.com/yaramaika/status/2005773381568979215",
+    "pass": 3
+   },
+   {
+    "quote": "渡辺広明 (消費経済アナリスト) on X : \" ダークファクトリー ... 渡辺広明 (消費経済アナリスト) on X : \" ダークファクトリー ... X https://x.com > @yaramaika",
+    "url": "https://x.com/yaramaika/status/2005773381568979215",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ダークファクトリー :夜に一人で動く 工場 には問題があります ダークファクトリー :夜に一人で動く 工場 には問題があります LinkedIn https://jp.linkedin.com > pulse",
+    "url": "https://jp.linkedin.com/pulse/dark-factory-runs-alone-night-has-problem-its-machine-csp-software-3diqe?tl=ja",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9987981",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/global-factory-automation-and-industrial-controls-market-industry",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-factory-market-2317",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3693737",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/H3nFWZ4BDXrLZJaA163D",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/dark-factories-likely-reality-shirish-kulkarni?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yaramaika/status/2005773381568979215",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1piyv68/why_are_we_not_building_dark_factories_in_western/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_Grey's_Anatomy_cast_members",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dcross.impress.co.jp/docs/news/004036.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.slidegenius.com/cm-faq-question/how-can-i-create-an-interactive-image-in-powerpoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.howtogeek.com/powerpoint-animation-triggers-interactive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pptassist.com/how-to-make-picture-appear-after-click-in-powerpoint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thebricks.com/resources/how-to-create-an-interactive-image-in-powerpoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/electricvehicles/comments/1m3igpg/chinas_dark_factories_so_automated_they_dont_need/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://machines.anca.com/e-sharp-news/may-2021/shining-a-light-on-the-dark-factory-trend?lang=ja-JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spap.jst.go.jp/china/news/250902/topic_2_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/dark-factories-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mapcon.com/blog/2025/05/lights-out-manufacturing-and-dark-factories-explained",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imts.com/read/article-details.cfm?articleid=1206&type=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/dark-factory-future-autonomous-manufacturing-age-40-sami-zjyfe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.siemens.com/en-us/technology/lights-out-factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Lights_out_(manufacturing)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oxmaint.com/blog/post/lights-out-manufacturing-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.criticalmanufacturing.com/blog/lights-out-automation-creating-resilient-factories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.machinemetrics.com/blog/lights-out-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/dark-factories-lights-out-salvatore-magnone-xvohe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.gray.com/insights/shining-a-light-on-the-lack-of-fully-automated-dark-factories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/robotics/comments/1jci1se/dark_factories_fully_automated_with_robotics_ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100083241103501/videos/china-is-expanding-dark-factories-highly-automated-manufacturing-facilities-wher/4367147623615496/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Lights_(musician)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lights.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yaramaika/status/2005773381568979215",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/dark-factory-runs-alone-night-has-problem-its-machine-csp-software-3diqe?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yaramaika/status/2005773381568979215",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工場の無人化（ダークファクトリー） 市場規模 CAGR",
+   "results": [
+    "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "https://www.atpress.ne.jp/news/9987981",
+    "https://www.mordorintelligence.com/ja/industry-reports/global-factory-automation-and-industrial-controls-market-industry",
+    "https://www.marketresearchfuture.com/ja/reports/smart-factory-market-2317",
+    "https://newscast.jp/news/3693737",
+    "https://www.yano.co.jp/press-release/show/press_id/3794?srsltid=AYCX9vKsqyq1CQvZ0koz0KtDIZOvjulnNOuiY2VhoBLLEfoEqkfZ_YkP",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E5%B8%82%E5%A0%B4-112706",
+    "https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory",
+    "https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/"
+   ]
+  },
+  {
+   "query": "工場の無人化（ダークファクトリー） 需要 見通し 2030",
+   "results": [
+    "https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory",
+    "https://finance.biggo.jp/news/H3nFWZ4BDXrLZJaA163D",
+    "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "https://jp.linkedin.com/pulse/dark-factories-likely-reality-shirish-kulkarni?tl=ja",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "https://www.reddit.com/r/singularity/comments/1qej7zg/first_dark_factory_where_robots_build_the_entire/?tl=ja",
+    "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "https://en.wikipedia.org/wiki/Adrien_Broner"
+   ]
+  },
+  {
+   "query": "工場の無人化（ダークファクトリー） 部品構成 コスト",
+   "results": [
+    "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "https://finance.biggo.jp/news/H3nFWZ4BDXrLZJaA163D",
+    "https://x.com/yaramaika/status/2005773381568979215",
+    "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "https://www.reddit.com/r/NoStupidQuestions/comments/1piyv68/why_are_we_not_building_dark_factories_in_western/?tl=ja",
+    "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "https://www.mes-magazine.com/trend/dark-factory-mes.html",
+    "https://en.wikipedia.org/wiki/List_of_Grey's_Anatomy_cast_members"
+   ]
+  },
+  {
+   "query": "工場の無人化（ダークファクトリー） シェア 主要企業",
+   "results": [
+    "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4",
+    "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory",
+    "https://dcross.impress.co.jp/docs/news/004036.html",
+    "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "https://www.sphericalinsights.com/jp/reports/dark-factories-market",
+    "https://www.optimax.co.jp/ai-information/lights-out-factory-ai/",
+    "https://finance.biggo.jp/news/H3nFWZ4BDXrLZJaA163D",
+    "https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/",
+    "https://www.slidegenius.com/cm-faq-question/how-can-i-create-an-interactive-image-in-powerpoint"
+   ]
+  },
+  {
+   "query": "工場の無人化（ダークファクトリー） 日本企業",
+   "results": [
+    "https://kaizen-navi.biz/production-control/what-is-lights-out-factory",
+    "https://dcross.impress.co.jp/docs/news/004036.html",
+    "https://x.com/yaramaika/status/2005773381568979215",
+    "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "https://www.reddit.com/r/electricvehicles/comments/1m3igpg/chinas_dark_factories_so_automated_they_dont_need/?tl=ja",
+    "https://machines.anca.com/e-sharp-news/may-2021/shining-a-light-on-the-dark-factory-trend?lang=ja-JP",
+    "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory",
+    "https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4"
+   ]
+  },
+  {
+   "query": "工場の無人化（ダークファクトリー） 不足 OR 中国依存",
+   "results": [
+    "https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory",
+    "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "https://x.com/yaramaika/status/2005773381568979215",
+    "https://www.reddit.com/r/NoStupidQuestions/comments/1piyv68/why_are_we_not_building_dark_factories_in_western/?tl=ja",
+    "https://finance.biggo.jp/news/H3nFWZ4BDXrLZJaA163D",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "https://spap.jst.go.jp/china/news/250902/topic_2_02.html",
+    "https://note.com/hiroshi_igata/n/nc808be78aefe"
+   ]
+  },
+  {
+   "query": "lights-out manufacturing dark factory market market size CAGR 2030",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "https://market.us/report/dark-factories-market/",
+    "https://www.sphericalinsights.com/reports/dark-factories-market",
+    "https://www.mapcon.com/blog/2025/05/lights-out-manufacturing-and-dark-factories-explained",
+    "https://www.imts.com/read/article-details.cfm?articleid=1206&type=1",
+    "https://www.linkedin.com/pulse/dark-factory-future-autonomous-manufacturing-age-40-sami-zjyfe",
+    "https://www.gray.com/insights/shining-a-light-on-the-lack-of-fully-automated-dark-factories/",
+    "https://www.criticalmanufacturing.com/blog/lights-out-automation-creating-resilient-factories/",
+    "https://www.researchgate.net/publication/388558281_Dark_Factories_and_Lights-Out_Manufacturing_The_Future_of_Production",
+    "https://en.wikipedia.org/wiki/Lights_(musician)"
+   ]
+  },
+  {
+   "query": "lights-out manufacturing dark factory market cost breakdown bill of materials",
+   "results": [
+    "https://www.imts.com/read/article-details.cfm?articleid=1206&type=1",
+    "https://www.siemens.com/en-us/technology/lights-out-factory/",
+    "https://en.wikipedia.org/wiki/Lights_out_(manufacturing)",
+    "https://oxmaint.com/blog/post/lights-out-manufacturing-guide",
+    "https://www.criticalmanufacturing.com/blog/lights-out-automation-creating-resilient-factories/",
+    "https://www.mapcon.com/blog/2025/05/lights-out-manufacturing-and-dark-factories-explained",
+    "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "https://www.machinemetrics.com/blog/lights-out-manufacturing",
+    "https://www.linkedin.com/pulse/dark-factories-lights-out-salvatore-magnone-xvohe",
+    "https://en.wikipedia.org/wiki/Lights_(musician)"
+   ]
+  },
+  {
+   "query": "lights-out manufacturing dark factory market demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://www.imts.com/read/article-details.cfm?articleid=1206&type=1",
+    "https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report",
+    "https://en.wikipedia.org/wiki/Lights_out_(manufacturing)",
+    "https://www.gray.com/insights/shining-a-light-on-the-lack-of-fully-automated-dark-factories/",
+    "https://www.reddit.com/r/robotics/comments/1jci1se/dark_factories_fully_automated_with_robotics_ai/",
+    "https://www.facebook.com/100083241103501/videos/china-is-expanding-dark-factories-highly-automated-manufacturing-facilities-wher/4367147623615496/",
+    "https://market.us/report/dark-factories-market/",
+    "https://www.criticalmanufacturing.com/blog/lights-out-automation-creating-resilient-factories/",
+    "https://oxmaint.com/blog/post/lights-out-manufacturing-guide",
+    "https://en.wikipedia.org/wiki/Lights_(musician)"
+   ]
+  },
+  {
+   "query": "site:note.com 工場の無人化（ダークファクトリー）",
+   "results": [
+    "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "https://note.com/ajiris/n/ne3e8cbcc0734",
+    "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "https://note.com/droneotoko/n/n8ed967f82edc",
+    "https://note.com/1234tana5678/n/ndead19986b6a",
+    "https://note.com/monodukuri_/n/ncec07528889b",
+    "https://note.com/jrs1188/n/n1a3861604d72",
+    "https://note.com/vast_eider5341/n/nb376fda82f7f?magazine_key=m64c2998e4379",
+    "https://note.com/murasame_tech/n/n7916a7f137cc"
+   ]
+  },
+  {
+   "query": "site:x.com 工場の無人化（ダークファクトリー）",
+   "results": [
+    "https://x.com/yaramaika/status/2005773381568979215",
+    "https://x.com/web700marketing/status/1901007956134818202",
+    "https://x.com/ChnEmbassy_jp/status/2097945669893816704?lang=bg",
+    "https://x.com/FACT_the_Future",
+    "https://x.com/KagawaTomo/status/2117167013231816948",
+    "https://x.com/i/article/2107975579580739876",
+    "https://x.com/ry0_kaga",
+    "https://x.com/showatechno",
+    "https://x.com/hashtag/%E5%BC%81%E7%90%86%E5%A3%AB",
+    "https://x.com/as_above_so_me/status/2116110579429671421"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工場の無人化（ダークファクトリー）",
+   "results": [
+    "https://jp.linkedin.com/pulse/dark-factory-runs-alone-night-has-problem-its-machine-csp-software-3diqe?tl=ja",
+    "https://jp.linkedin.com/pulse/dark-factories-likely-reality-shirish-kulkarni?tl=ja",
+    "https://jp.linkedin.com/pulse/lights-out-manufacturing-inside-rise-autonomous-diana-wolf-torres-eg4bc?tl=ja",
+    "https://jp.linkedin.com/pulse/austar-qilu-group-collaborate-build-automated-intelligent-apqlc?tl=ja",
+    "https://jp.linkedin.com/pulse/dark-software-factory-isnt-here-yet-rohit-kelapure-039rc?tl=ja",
+    "https://www.linkedin.com/company/runsun-cloud-ai",
+    "https://jp.linkedin.com/pulse/extending-broad-influence-physical-ai-ramachandran-s-wsicc?tl=ja",
+    "https://jp.linkedin.com/pulse/robots-near-blast-furnace-artificial-intelligence-steel-industry-qacnf?tl=ja",
+    "https://www.linkedin.com/pulse/%E8%A3%BD%E9%80%A0%E6%A5%ADai%E3%81%AE%E6%9C%AC%E5%BD%93%E3%81%AE%E5%88%86%E6%B0%B4%E5%B6%BA%E3%83%A2%E3%83%87%E3%83%AB%E7%AB%B6%E4%BA%89%E3%81%8B%E3%82%89%E6%A7%8B%E9%80%A0%E7%AB%B6%E4%BA%89%E3%81%B8the-real-inflection-point-ai-manufacturing-%E5%91%A8-s622c",
+    "https://jp.linkedin.com/pulse/fpt-sets-direction-tech-innovation-ai-core-enabler-fpt-software-orzpc?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工場の無人化（ダークファクトリー）",
+   "results": [
+    "https://www.facebook.com/TEEIA.train/videos/%E6%99%BA%E6%85%A7%E6%A9%9F%E6%A2%B0%E5%8F%8A%E5%8D%8A%E5%B0%8E%E9%AB%94%E4%BE%9B%E6%87%89%E9%8F%88%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88-%E7%B3%BB%E5%88%9715%E5%81%89%E5%8B%9D%E4%B9%BE%E7%87%A5%E5%B7%A5%E6%A5%AD%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/4154745428132030/",
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%B9%E3%83%A2%E6%8A%80%E7%A0%94-100046520037080/",
+    "https://www.facebook.com/mitsubishidenki/?locale=es_ES",
+    "https://www.facebook.com/mitsuiandco/videos/automation/5906550832689849/",
+    "https://www.facebook.com/balluff.japan/videos/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E5%B7%A5%E5%A0%B4%E3%81%AF%E7%B9%8B%E3%81%90%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E4%B8%8D%E5%8D%81%E5%88%86-%E3%83%BC-%E9%AB%98%E6%80%A7%E8%83%BD%E3%81%AF%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%8C%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%81%BE%E3%81%99%E3%83%90%E3%83%AB%E3%83%BC%E3%83%95%E3%81%AEio-link%E3%82%B2%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%A8%E5%AF%BE%E5%BF%9C%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AF%E8%BF%85%E9%80%9F%E3%81%AA%E8%A8%BA%E6%96%AD%E3%81%A8%E3%82%B7%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%81%AA%E3%83%87%E3%83%BC%E3%82%BF%E3%83%95/1508748413769977/",
+    "https://www.facebook.com/junpei.ishihara.9/",
+    "https://www.facebook.com/mathushitamasaya/",
+    "https://www.facebook.com/takutech.jp/videos/%E6%9C%80%E6%96%B0%E3%83%9E%E3%83%86%E3%83%8F%E3%83%B3%E3%82%92%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E5%85%89%E3%81%A3%E3%81%A6%E3%82%8F%E3%81%8B%E3%82%8B%E7%89%A9%E6%B5%81%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E3%81%99%E3%81%94%E3%81%84%E3%83%9E%E3%83%86%E3%83%8F%E3%83%B3%E4%BB%95%E5%88%86%E3%81%91-%E7%89%A9%E6%B5%81-logistics-%E3%83%9E%E3%83%86%E3%83%8F%E3%83%B3/2013778422864162/",
+    "https://www.facebook.com/sanyodenki.techcompass/videos/-%E5%B1%B1%E6%B4%8B%E9%9B%BB%E6%B0%97%E3%81%AFfooma-japan-2026%E3%81%AB%E5%87%BA%E5%B1%95%E4%B8%AD%E3%81%A7%E3%81%99-%E3%81%93%E3%81%93%E3%81%AB%E6%B3%A8%E7%9B%AE-%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9-sanmotion-c-s100%E3%81%AF%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E9%80%A3%E7%B6%9A%E4%BD%9C%E6%A5%AD%E3%81%AE%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%AB%E6%9C%80%E9%81%A9/1421499793349655/",
+    "https://www.facebook.com/61573436396032/videos/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%B7%A5%E5%A0%B4%E3%81%AE%E5%BB%BA%E5%B1%8B%E5%86%85%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E7%82%B9%E6%A4%9C%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%B7%A5%E5%A0%B4%E3%81%AE%E5%BB%BA%E5%B1%8B%E5%86%85%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A63%E6%97%A5%E9%96%93%E3%81%AB%E3%82%8F%E3%81%9F%E3%82%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E7%82%B9%E6%A4%9C%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%9B%9E%E3%81%AE%E7%82%B9%E6%A4%9C%E5%AF%BE%E8%B1%A1%E3%81%AF%E9%AB%98%E3%81%95%E7%B4%8420m%E8%B6%85%E3%81%AB%E3%81%82%E3%82%8B%E6%9F%B1%E3%82%84%E6%A2%81dji-mavic-4/2155390935008150/"
+   ]
+  },
+  {
+   "query": "工場の無人化（ダークファクトリー） note 社長",
+   "results": [
+    "https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory",
+    "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "https://note.com/keen_weasel38/n/nb1cf86118d6f",
+    "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "https://www.nikkei.com/article/DGXZQOUD05ARY0V00C26A8000000/",
+    "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "https://note.com/izuku_idea/n/nb16f8d3ee446",
+    "https://www.youtube.com/watch?v=ana-PALwQTQ",
+    "https://www.reddit.com/r/NoStupidQuestions/comments/1piyv68/why_are_we_not_building_dark_factories_in_western/?tl=ja",
+    "https://en.wikipedia.org/wiki/Demiurge"
+   ]
+  },
+  {
+   "query": "工場の無人化（ダークファクトリー） X 投稿",
+   "results": [
+    "https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory",
+    "https://x.com/yaramaika/status/2005773381568979215",
+    "https://j.people.com.cn/n3/2026/0909/c95952-20497679.html",
+    "https://note.com/hiroshi_igata/n/nc808be78aefe",
+    "https://www.cct-inc.co.jp/koto-online/archives/773",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/",
+    "https://jp.linkedin.com/pulse/dark-factory-runs-alone-night-has-problem-its-machine-csp-software-3diqe?tl=ja",
+    "https://www.youtube.com/watch?v=AB2JLJTJM98",
+    "https://www.columbiaacura.com/",
+    "https://www.columbiaacura.com/search/used/?tp=used"
+   ]
+  },
+  {
+   "query": "lights-out manufacturing dark factory market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/lights-out-revolution-what-dark-factories-mean-jobs-industry-prather-bkkfe",
+    "https://www.linkedin.com/pulse/beyond-factory-automation-dark-factories-plm0f",
+    "https://www.linkedin.com/pulse/lights-out-output-up-what-rise-dark-factory-really-means-cr--q54gf",
+    "https://www.linkedin.com/posts/harshadshah1953_rise-of-fully-autonomous-dark-factories-activity-7307361962433110017-Q7RP",
+    "https://www.linkedin.com/pulse/lights-out-manufacturing-inside-rise-autonomous-diana-wolf-torres-eg4bc",
+    "https://www.linkedin.com/pulse/what-lights-out-manufacturing-roy-dickan-4g8he",
+    "https://www.linkedin.com/pulse/china-enters-new-era-dark-factories-lights-workers-leap-walia-qwsdc",
+    "https://www.linkedin.com/pulse/rise-dark-factories-manufacturings-silent-revolution-bhalsod-nkgdf",
+    "https://www.linkedin.com/pulse/lights-out-factory-bharatcxo-sweie",
+    "https://www.linkedin.com/pulse/rise-machines-navigating-chinas-dark-factory-md-imtiaz-hm9tc"
+   ]
+  }
+ ],
+ "missing": {}
+}

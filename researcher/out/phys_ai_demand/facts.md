@@ -1,0 +1,2176 @@
+# フィジカルAI・無人化で増える部材と用途 — 需要量・単価・部品構成比・供給元・日本の位置（事実のみ・18品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## ヒューマノイドロボットの部品構成とコスト（humanoid robot bill of materials cost breakdown）
+- 文脈：フィジカルAI・本体
+- 市場規模：
+  - 「ヒューマノイドロボット市場規模・予測レポート（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「Humanoid Robot Market Size, By Product, 2022– 2035 (USD Billion)」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「北米の市場規模は 2025年に18億860万米ドルに達し、2035年には年平均成長率（CAGR）約39.2%で493億3,960万米ドルに達すると予測されており、地域別で最も高い成長率となっています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「米国のヒューマノイドロボット市場規模、2022〜2035年（10億米ドル単位）」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「欧州の市場規模は 2025年に14億440万米ドルに達し、2035年には年平均成長率約36.5%で315億9,230万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「アジア太平洋地域は最大の地域市場であり、2025年の市場規模は43億1,500万米ドルで、世界全体の売上高の約54.5%を占めました」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「中南米の市場規模は 2025年に1億1,600万米ドルに達し、2035年には年平均成長率約29.3%で15億1,640万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「市場規模は 2026年から2035年にかけて年平均成長率（CAGR）37.6%で成長し、2035年までに 1,927億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「4. 市場規模の推計」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「日本の製造業が7500兆円のフィジカルAI市場に参入するには「ヒューマノイド/人型ロボ量産」が最も速い」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「NVIDIA CEOジェンセン・フアンの"7500兆円規模"「フィジカルAI市場」が日本の製造業に与えるインパクト」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「日本の製造業の企業がこの「7500兆円規模の」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+- 成長率：
+  - 「世界のヒューマノイドロボット市場は、2025年に79億米ドルの規模に達し、2026年の109億米ドルから2035年までに1,927億米ドルへ拡大すると推定されており、2026年から2035年にかけての年平均成長率（CAGR）は37.6%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「年平均成長率（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「世界の出荷台数は2025年に約2,052,926台に達し、2035年まで年平均成長率（CAGR）約43.2%で拡大すると予測されており、売上高の成長率を上回ります」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「当社は、市場の売上高ベースの年平均成長率（CAGR）約37.6%が、あらゆる最終市場への同時進出ではなく、商用化の段階的な進展によって支えられていると推定しています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「より速い約43.2%の出荷台数ベースの年平均成長率（CAGR）は、市場拡大がプレミアム価格だけでなく、生産における学習効果と調達モデルによって決まる傾向が強まることを示唆しています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「二足歩行型ヒューマノイドロボットは 2025年の売上高の約30.0%を占め、年平均成長率（CAGR）約43.9%で成長すると予測されており、製品カテゴリーのなかで最も高い成長率となっています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「CAGR 46.3%」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「（レポートの予測期間は2026〜2032年、2025年の値は$5,230万）と表記していますが、掲載された2024年・2032年の値から8年間で単純計算した年率は約40%で、表記のCAGRとは一致しません（」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「：Jabilの世界100以上の工場を活用して急速に生産規模を拡大」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「was valued at USD 2.92 billion in 2025 and is expected to reach USD 57.3 billion by 2034, growing at a CAGR of 39.2%.」（https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/）
+  - 「CAGR 2025–2032」（https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/）
+  - 「8% CAGR」（https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/）
+  - 「Forecast Period 2026-2034 CAGR:」（https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/）
+  - 「Application Segment CAGR Comparison (2025–2030)」（https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/）
+  - 「P/E Ranking Vs. 3-Year Revenue CAGR — Key Humanoid 100 Names (Cons. 2025)」（https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/）
+- 需要量：
+  - 「世界の出荷台数は2025年に約2,052,926台に達し、2035年まで年平均成長率（CAGR）約43.2%で拡大すると予測されており、売上高の成長率を上回ります」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「第一に、ヒューマノイドロボットの推定部品原価が、2022年の1台当たり約5万〜25万米ドルから2023年には3万〜15万米ドルへ低下し、工場での用途が採算性を確保できる水準に近づきました」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「より速い約43.2%の出荷台数ベースの年平均成長率（CAGR）は、市場拡大がプレミアム価格だけでなく、生産における学習効果と調達モデルによって決まる傾向が強まることを示唆しています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「UBTechは、BYDでの試験において部品組立の効率が向上したと報告し、Dongfeng Liuzhou Motorから20台のWalker Sを受注したことを明らかにした」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「同社は、主要な産業・物流顧客との試験運用と、Dongfeng Liuzhou Motor からの初回20台の受注を明らかにしました」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「モーターや減速機を数千台単位で発注することで1個あたりコストを圧縮」（https://note.com/chatgptexecutive/n/n5cbe361659d9）
+  - 「「1台動いたが、100台でコストと精度が破綻する」という壁」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「2027年の日本初期運行、東京100台の無人タクシー計画、第6世代AIと世界展開を徹底解説」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「「組織のスキル」と「個人のスキル」〜AI時代の実務実践を支える2冊」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「ヒューマノイドの「解剖学」― 1台を構成する部品」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「Q. ヒューマノイドロボット1台の部品コストはいくらですか？」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「ヒューマノイドロボット1台には数十本規模のアクチュエータ（BofA Global Researchは部品表の推計で回転16本・直動14本と、手の構成を別に置く想定を前提にしています」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「年間100万台を量産するには」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「「年間台数×1台あたりの搭載本数」分のアクチュエータ」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「回転16本・直動14本/台（BofA Global Researchが部品表推計で前提とした構成」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+- 部品構成比・単価：
+  - 「関節の性能が移動性、可搬重量、エネルギー消費、安全性に直接影響するため、2025年の部品収益ではアクチュエーターが約57.8%を占める」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「水中システムは 2025 年の売上高に占める割合が約 0.9%にとどまったものの、用途別では最も高い年平均成長率（CAGR）約 39.6%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「【フィジカルAI投資研究室】Unitreeの5,900ドルのヒト型ロボットを「BOMの最適化」目線で確かめた｜【第二ブログ】経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔」（https://note.com/chatgptexecutive/n/n5cbe361659d9）
+  - 「【フィジカルAI投資研究室】Unitreeの5,900ドルのヒト型ロボットを「BOMの最適化」目線で確かめた」（https://note.com/chatgptexecutive/n/n5cbe361659d9）
+  - 「結果として、BOMコスト全体を大幅に下げ、5,900ドルという価格を実現した」（https://note.com/chatgptexecutive/n/n5cbe361659d9）
+  - 「「年間台数×1台あたりの搭載本数」分のアクチュエータ」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「（焼結永久磁石の世界生産に占める中国の比率は2024年に94%、」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「Optimus 1台あたり約3.5kgのNdFeB磁石が必要ですが、その製造は中国がほぼ独占しています」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「年間100万台の量産には「年間台数×1台あたりの搭載本数」分のアクチュエータが毎年必要で、供給体制を現在の生産規模から」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「年間台数×1台あたりの搭載本数（BofA推計の前提構成は回転16本・直動14本）」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「BofA Global Researchは2025年の推計で、主要部品の大半を中国で製造した場合の一般的なヒューマノイドのBOM（部品コスト」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「販売価格ではない）を、回転16本・直動14本のアクチュエータ構成を前提に2025年末時点で1台あたり」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「1台あたり数十本規模のアクチュエータ、3.5kgのレアアース磁石が必要で、サプライチェーンの中国集中による地政学リスクも深刻です」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「年間100万台には「年間台数×1台あたりの搭載本数」分のアクチュエータが毎年必要になる一方、世界の供給能力を示す公的統計が確認できず各社の年産能力を個別に確認するしかないこと、高精度アクチュエータの量産技術の未成熟、バッテリーのエネルギー密度制限、AIの汎用制御の難しさ、部品コストの高さが量産の壁です」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「BofA Global ResearchのBOM推計（主要部品の大半を中国で製造した場合、2025年末時点で1台約$35,000）も回転16本・直動14本のアクチュエータ構成を前提にしており（ BofA Institute ）、アクチュエータの本数と方式が部品コストを左右する、量産化の鍵を握るコンポーネントです」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+- 主要供給元・シェア：
+  - 「ヒューマノイドロボット市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「UBTech Robotics Corp Ltd.が2025年に14%超の市場シェアを占め、市場をリードした」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「の市場シェアを占めた」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「中国のサプライヤーは製造基盤の厚みから恩恵を受ける一方、北米および欧州のサプライヤーは、企業統合、ソフトウェア、現地のニーズに適合したサプライチェーンを通じた差別化を目指しています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「部品供給の制約と生産規模拡大の限界」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「したがって、生産規模の拡大には最終組立能力を高めるだけでは不十分であり、サプライヤーは、より大規模な生産量に対応しながら、校正済みで耐久性があり、再現性の高いサブアセンブリーを製造できなければならない」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「こうした差別化は、特定の用途における性能向上につながる可能性がある一方、サプライヤーの規模の経済を制限し、顧客が試験導入用フリートからより大規模な発注へ移行する際の認定要件を高めます」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「当社の評価では、今後数年間、コストと供給面の制約が、商用展開可能なヒューマノイドと技術的には優れたプラットフォームを分ける要因になると考えられます」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「市場の拡大見通しは、サプライヤーに専用のアクチュエータ、センサー、制御モジュールの生産能力へ投資するインセンティブを与えますが、その投資はOEM企業と顧客からの信頼できる数量コミットメントに左右されます」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「買い手は発注を確約する前に安定した規模拡大の実証を求める一方、サプライヤーは規模拡大への資金を調達する前にコミットメントを必要とします」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「車輪型ヒューマノイドロボットは、2025年に約40.6%で最大の製品シェアを占め、年平均成長率（CAGR）約35.0%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2025年のヒューマノイドロボット市場の部品別売上高シェア（%）」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「生産量が増加するにつれて、OEMはアクチュエーター設計の内製化を進めるか、専門サプライヤーに依存するかを判断する必要があります」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「標準化されたセンサー一式が存在しないことはコスト上の制約となっていますが、検証済みで相互運用可能なモジュールを提供できるサプライヤーにとっては、機会にもなります」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2025年には、ホスピタリティ分野が約17.4%のシェアで用途別売上高をリードし、年平均成長率（CAGR）約37.5%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+- 日本企業の位置：
+  - 「公共政策は、研究開発費だけでなく、国内製造へのインセンティブ、政府調達、試験環境の利用可能性にも影響を及ぼし得る」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2025年3月にロボット企業が連邦政府の戦略策定と連携を求めたことは、国内生産、調達、技術競争が市場環境の一部となりつつあることを示しています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「中国は生産と需要の中心であり、日本と韓国は精密部品、サービスロボットの経験、製造能力、システム統合で貢献しています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「日本では Honda と SoftBank Robotics が引き続き重要な役割を担っており、韓国では Rainbow Robotics が Samsung Electronics との戦略的連携から恩恵を受けています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「同地域の成長率が低いのは、オートメーションの導入基盤が比較的初期段階にあること、設備投資がより制約されていること、国内のヒューマノイドロボット製造能力が限られていることを反映しています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2025年3月：主要開発企業の代表者を含む米国のロボティクス企業は、国内の競争力を強化するため、国家ロボティクス戦略、連邦ロボティクス局、インセンティブの導入を求めた」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「日本企業への示唆」（https://note.com/chatgptexecutive/n/n5cbe361659d9）
+  - 「日本の企業にとっては、」（https://note.com/chatgptexecutive/n/n5cbe361659d9）
+  - 「日本の製造業が7500兆円のフィジカルAI市場に参入するには「ヒューマノイド/人型ロボ量産」が最も速い」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「NVIDIAのフィジカルAIの世界が日本の上場企業多数に時価総額増大の事業機会を1つだけではなく複数与えることを確信してこの名前にしました」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「NVIDIA CEOジェンセン・フアンの"7500兆円規模"「フィジカルAI市場」が日本の製造業に与えるインパクト」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「日本の製造業の企業がこの「7500兆円規模の」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「最も手っ取り早いのはNVIDIAのロボット開発用技術スタックをフルに使って設計開発し、部品は日本と中国から良いものを選んでヒューマノイドを量産できる体制を確立することだ」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「1章｜最短距離でキャッチアップする日本の勝ち筋：ハンズオン戦略」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「なぜ日本がここからキャッチアップ可能なのか？」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+- 供給制約・不足：
+  - 「産業およびサービス業務における労働力不足」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「労働力不足により、自動化への関心は具体的な導入案件へと転換している」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「国際ロボット連盟は、労働力不足と人口動態の変化を自動化需要の重要な促進要因として挙げている」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「建設分野は、労働力不足と安全上のリスクを背景に、長期的に魅力的な機会を提供する」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「これらの差別化された技術要件により、発展の初期段階では、市場にはヒューマノイドロボットに完全適合する標準化された低コスト関節製品が相対的に不足していました」（https://interactanalysis.jp/insight/current-status-and-trends-in-core-hardware-development-of-humanoid-robots/）
+  - 「この動向は、今後数年間で関節モジュールの供給不足や高コストの問題を緩和し、ヒューマノイドロボット産業の加速的な発展を促進することが期待されます」（https://interactanalysis.jp/insight/current-status-and-trends-in-core-hardware-development-of-humanoid-robots/）
+  - 「社会課題（人手不足）に対する即時対応も視野に入る」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「国内の深刻な人材不足に対する即戦力としてのヒューマノイド導入」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「夜間・人手不足帯での稼働確保」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「建設業労働者不足 (2件)」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「レアアース輸出規制 (5件)」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「Q. アクチュエータの供給不足はいつ解消されますか？」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「2025年4月の中国レアアース輸出規制により、」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「輸出規制で制約」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「Global Labour Shortage」（https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/）
+- 政策・予算：
+  - 「一方、中国が発表した政府支援の技術ファンドは、ロボット工学、AI、その他の先端技術を支援することを目的としています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「施設介護、リハビリテーション、病院支援」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「そのため、ヒューマノイドの価値提案は、反復動作と対象物やレイアウトの変化が組み合わさるマテリアルハンドリング、検査、キッティング、組立支援などの業務で最も強くなる」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「Morgan Stanleyの長期見通しでは、高齢者介護と家庭支援が主要な潜在需要源として挙げられている一方、普及は機能と価格のしきい値に左右されることも示されている」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「より短期的には、介護施設は監督下の業務フローにロボットを導入できるため、事業者は業務をコミュニケーション、交流、案内、特定の支援活動に限定できる」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「資本と政策による支援は、プラットフォーム開発から現場検証までの期間を短縮している」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「一方、中国が発表した技術基金には、支援対象分野としてロボットとAIが含まれている」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2025年には、訪問者支援、配送、経路案内、定型的なサービス対応などのユースケースに支えられ、サービス・ホスピタリティ分野が市場収益の約17.4%を占めた」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「Unitree Roboticsは13%のシェアを占め、研究、実証、初期の産業実験を支援する、比較的導入しやすい二足歩行プラットフォームによって競争している」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「Rainbow Robotics Co., Ltd.は、Samsung Electronicsによる戦略的支援を背景に、移動マニピュレーション能力を組み合わせている」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2026年6月に発表したシリーズCの資金調達は、ハードウェア、ソフトウェア、トレーニングのエコシステム拡大に対する投資家からの大きな支援を示している」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2026年6月10日：NEURA Robotics は、認知ロボティクスプラットフォームと商用エコシステムの拡大を支援するため、最大 140億米ドルのシリーズC資金調達ラウンドを発表した」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「見守り、移乗補助、生活支援」（https://blogs.itmedia.co.jp/serial/2025/05/7500ai.html）
+  - 「ヒューマノイドのサプライチェーン最適化を含むAI戦略を支援します」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+  - 「ADAS（先進運転支援システム）とは？自動運転との違い・主要機能・選び方【2026年版】」（https://renue.co.jp/posts/humanoid-robot-supply-chain-actuator-oem-mass-production-2026）
+
+## ロボット用アクチュエータ（robot actuator market）
+- 文脈：フィジカルAI・部材
+- 市場規模：
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「市場規模が2035年までに470.2億米ドルへ拡大する動きは、単一のロボット需要サイクルよりも、複数のアクチュエーター搭載度モデルが併存することによって形成されると当社は推定しています」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「回転アクチュエーターは、2025年に市場収益の60.88%を占め、市場規模は約104億1,270万米ドルに達した」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「動作タイプ別の世界のロボティクスアクチュエーター市場規模、2022〜2035年（10億米ドル単位）」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「リニアアクチュエーターの市場規模は2025年に約66億9,020万米ドルとなり、2035年には年平均成長率（CAGR）11.97%で203億6,570万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「電動アクチュエータの市場規模は 2025年に約97億1,480万米ドルとなり、市場の56.8%を占めました」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「油圧アクチュエータの市場規模は 2025年に約27億9,690万米ドルとなり、2035年には年平均成長率（CAGR）10.18%で72億3,980万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「空気圧アクチュエータの市場規模は 2025年に約24億2,630万米ドルとなり、2035年には年平均成長率（CAGR）9.27%で57億8,770万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「SMCは約80か国で事業を展開しており、2024年度の売上高は約7,769億円でした」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「圧電、形状記憶、磁気技術を含む機械式アクチュエータの市場規模は、2025年に約21億6,490万米ドルでした」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「北米の市場規模は 2025年に約 54億9,100万米ドルとなり、世界の売上高の 32.10% を占めた」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「世界のロボットアクチュエータ市場規模は、2025年には179億米ドルと評価され、2026年の197億4000万米ドルから2034年には432億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は10.3%となる見込みです」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「米国はロボットアクチュエータ市場を支配しており、その市場規模は2024年には61億5000万米ドル、2025年には67億2000万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+- 成長率：
+  - 「ロボット用アクチュエーター市場は、2025年に約171億米ドルに達し、2026年には186.2億米ドル、2035年までには約470.2億米ドルに拡大すると予測されており、2026年から2035年にかけての年平均成長率（CAGR）は10.8%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「年平均成長率（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「Interact Analysisによると、2024年の協働ロボット出荷台数は64,542台に達し、出荷台数の成長率は2024年の13.8%から2025年には20.6%、2026年には23.9%へ改善すると予想されています」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「Intuitive Surgicalは、2024年にda Vinciによる手術を約268万3,000件完了し、前年比17%増となりました」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「市場規模が2035年までに470.2億米ドルへ拡大する動きは、単一のロボット需要サイクルよりも、複数のアクチュエーター搭載度モデルが併存することによって形成されると当社は推定しています」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「2024年に記録された54万2,000台の導入台数は、年間実績として過去2番目に多く、世界の稼働台数は前年比9%増の466万4,000台に拡大した」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「2035年には年平均成長率（CAGR）10.05%で266億5,470万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「同社の2024年度業績説明会では、ハイエンドロボット市場における精密減速機について、7%のCAGRが見込まれると示された」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「ロボットアクチュエータ市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「世界のロボットアクチュエータ市場規模は、2025年には179億米ドルと評価され、2026年の197億4000万米ドルから2034年には432億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は10.3%となる見込みです」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「アジア太平洋地域は、予測期間中に年平均成長率（CAGR）11.02%で最も速い成長が見込まれる」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「最終用途産業別に見ると、自動車分野は予測期間中に年平均成長率（CAGR）10.42%で成長すると予測されている」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「年平均成長率（2026年～2034年）：10.3％」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「圧電アクチュエータ分野は、予測期間中に年平均成長率（CAGR）約11.24%と、最も速い成長が見込まれています」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「自動車分野の成長率は10.42%と最も高く、車両製造における急速な自動化と電気自動車向け生産ラインへの移行がその原動力となっています」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+- 需要量：
+  - 「International Federation of Roboticsによると、2024年の産業用ロボットの導入台数は54万2,000台、稼働台数は466万4,000台に達しており、関節、エンドエフェクター、直線軸、補助搬送機器向けのモーションコンポーネントを必要とする大規模な設置基盤が形成されています」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「Interact Analysisによると、2024年の協働ロボット出荷台数は64,542台に達し、出荷台数の成長率は2024年の13.8%から2025年には20.6%、2026年には23.9%へ改善すると予想されています」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「McKinseyの推定では、アクチュエーターは人型ロボットの部品表コストの40%〜60%を占める可能性があり、フルサイズのプラットフォームには28〜44個の駆動関節が必要となる場合があります」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「また、同年には1,526台のシステムを納入しました」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「産業オートメーションが安定した数量基盤を提供する一方、協働ロボット、手術用システム、人型ロボットでは、モーター、減速機、エンコーダー、制御機能、安全機能のより緊密な統合が必要となるため、導入プラットフォーム1台当たりのモーションハードウェアの価値が高まります」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「産業用ロボットの導入台数は、4年連続で年間50万台を超えている」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「2024年に記録された54万2,000台の導入台数は、年間実績として過去2番目に多く、世界の稼働台数は前年比9%増の466万4,000台に拡大した」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「Interact Analysisは、2024年の13.8%成長に続き、出荷台数が2025年に20.6%、2026年に23.9%増加すると予測している」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「McKinseyによると、ヒューマノイドの総コストに占めるアクチュエーションの割合は40〜60%であり、実物大のロボットには28〜44個の駆動関節が必要となる可能性がある」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「関節数の多いシステムでは負担がさらに大きくなり、ヒューマノイドプラットフォームでは数十個のアクチュエータモジュールが必要となる場合があり、アクチュエーション関連部品が部品表の40%〜60%を占めることもある」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「2024年に記録された54万2,000台の導入は、自動車、電子機器、金属加工、一般製造業に及び、多軸サーボシステムや減速機システムへの需要を生み出している」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「同産業は、2024年の世界の産業用ロボット導入台数の23%を占めた」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「ヘルスケアおよび医療用途では、動作精度、信頼性、トレーサビリティーが性能の中核となるため、システム1台当たりのアクチュエーター価値が高い」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「このように、アクチュエータは機械部品ではなく、応答性が高くデータ豊富なモーション制御ユニットとして台頭しつつあり、これは製造業者がインダストリー4.0環境へと移行する中で、メカトロニクスと機械学習の融合によって推進されている」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「その証拠として、国際ロボット連盟（IFR）の2025年市場見通しでは、世界の新規工場ロボット設置台数は2025年の約50百万台―2028年には約1百万台に増加すると予測されています」（https://www.sdki.jp/reports/actuators-market/109344）
+- 部品構成比・単価：
+  - 「が含まれ、これらの企業が占める市場シェアは2025年に合計42.2%に達した」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「McKinseyの推定では、アクチュエーターは人型ロボットの部品表コストの40%〜60%を占める可能性があり、フルサイズのプラットフォームには28〜44個の駆動関節が必要となる場合があります」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「McKinseyによると、ヒューマノイドの総コストに占めるアクチュエーションの割合は40〜60%であり、実物大のロボットには28〜44個の駆動関節が必要となる可能性がある」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「関節数の多いシステムでは負担がさらに大きくなり、ヒューマノイドプラットフォームでは数十個のアクチュエータモジュールが必要となる場合があり、アクチュエーション関連部品が部品表の40%〜60%を占めることもある」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「1つは単価と供給可能性を中心とする環境であり、もう1つはエンジニアリング上の根拠、ライフサイクルサポート、用途上のリスクを重視する環境である」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「Nabtescoは、中・大型産業用ロボットの関節に使用される精密減速機の世界市場で、約60%のシェアを占めるとしている」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「したがって、電動アクチュエータは、その効率性、精度、デジタル制御システムとの互換性、そしてロボット工学、航空宇宙、自動車、産業用オートメーションにおける幅広いアプリケーションにより、予測期間中に42%の市場シェアを占め、支配的な地位を占める見込みであります」（https://www.sdki.jp/reports/actuators-market/109344）
+  - 「アクチュエータはヒューマノイドロボットの部品原価の約40％～60％を占めるため、モーター、ギアボックス、減速機、エンコーダ、ドライバ、および統合型センシングシステムに対する需要が大幅に生じています」（https://newscast.jp/smart/news/9241185）
+  - 「ロボット市場全体に占めるヒューマノイドの割合は、今後25年間で最も大きく拡大する見通しです」（https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html）
+  - 「製造原価の40～50％を占めるアクチュエーター、すなわち減速機とモーターの組み合わせは、精密製造能力を備えた自動車部品メーカーにとって事業機会となります」（https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html）
+  - 「ヒューマノイドロボットの製造原価の40～50％をアクチュエーターとモーションシステムが占めることから、現代モービスの役割は自動車部品メーカーを超え、ロボット中核部品メーカーへ拡大すると見込まれます」（https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html）
+  - 「そのうちの28個から44個が、その機械がどれだけの重量を持ち上げられるか、どれくらいの時間稼働できるか、そして製造コストを決定づけており、部品原価の40～60％を占めています」（https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/）
+  - 「採用の障壁となる5つの構成部品（レデューサー、ベアリング、力センサー、およびロボット全体のBOM）」（https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/）
+  - 「部品表（BOM）の40～60パーセントを占めており、これは演算、センシング、構造を上回る最大の単一項目である」（https://humanoid.guide/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%A7%86%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8/）
+  - 「本シリーズでは、回をまたいだ二重計上を避けるため、McKinseyが2026年に示した主要BOM区分を共通の基準として用いる」（https://note.com/kagawatomo/n/n77775459ddcd）
+- 主要供給元・シェア：
+  - 「ロボット用アクチュエータ市場の規模、シェア、動向 | 2035年までの予測」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「ロボット用アクチュエータ市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「ABB Ltd.が2025年に15.3%超の市場シェアを占め、首位となった」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「が含まれ、これらの企業が占める市場シェアは2025年に合計42.2%に達した」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「その結果、標準化された軸の数量を巡って競争するサプライヤーと、精度が重要な用途向けに統合モジュールの認定を取得できるサプライヤーとの間で、商業面での差が拡大しています」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「短期的な制約は、単純なロボット需要の強さではなく、需要を許容可能なコストで信頼性の高いアクチュエーター供給へ転換できるかどうかにあります」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「関節数が多いため、対象となる部品市場には大きな機会が生まれる一方、同じアーキテクチャーによって、コスト、放熱、力制御、減速ギアの供給可能性が厳しく問われます」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「確立された高精度モーション技術を有するサプライヤーがまず恩恵を受ける可能性がありますが、より幅広い普及には、試作機の発表だけでなく、製造の学習曲線と設計の標準化が重要となります」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「これはアクチュエーターサプライヤーにとって重要である」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「ロボットをマシンビジョン、デジタル制御、状態監視システムと統合するメーカーは、高分解能フィードバックと通信機能を備えたサーボプラットフォームを必要としている」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「これは、既存の軸受・動力伝達サプライヤーが、この新興カテゴリーに向けて製品アーキテクチャを適応させていることを示している」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「医療用途では、精度、再現性、文書化、製品ライフサイクル管理を遂行できるサプライヤーが優位となる」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「この多様化により、特定のロボット形状への依存度が低下し、移動型および固定型の自動化環境に合わせて部品を調整できるサプライヤーが有利となる」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「統合は、より小規模なメーカーにとって別の障壁となる」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「そのため、サプライヤーは新製品のエンジニアリング投資と、顧客が既存の生産設備を再認定することへの消極姿勢とのバランスを取る必要がある」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+- 日本企業の位置：
+  - 「製造業の国内回帰、半導体投資、医療用ロボット、物流自動化が、精密電動システム、油圧システム、直線運動システムに対する多様な需要基盤を形成している」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「この規模は、サーボ、減速機、モーター、エンコーダー、統合アクチュエーターアセンブリに対する国内需要を下支えしている」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「日本は精密モーション関連サプライチェーンの中心であり続けている」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「一方で、日本および欧州のサプライヤーは、精密部品分野で強固な地位を維持している」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「多くの主要なロボットOEMおよびコンポーネントサプライヤーは、自律型および協働型ロボットの導入に対する需要の高まりに対応するため、国内で製造施設を拡張しています」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「中国、日本、韓国などの主要国は、自動車、電子機器、重機の製造向け高度ロボットシステムにアクチュエータを積極的に統合しています」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「インドや東南アジア諸国も、国内の自動化需要を満たすため、ロボット製造やアクチュエータ組立への投資を増やしています」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「大規模な自動化プログラムと、国内アクチュエータ生産能力への積極的な投資が、中国のロボットアクチュエータ市場の急速な成長を牽引しています」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「国内メーカーは、急速に拡大するロボット基盤のニーズを満たすため、エネルギー効率が高く、高トルクの電動アクチュエータと回転アクチュエータの開発を目指しています」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「国内の製造業、物流業、建設業においてロボットの導入が進む一方で、過酷な環境条件下でも動作可能な高耐久性アクチュエータへの需要が高まっています」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「日本に本社を置くモーションコントロールメーカー、オリエンタルモーターは、精密駆動技術に注力し、小型モーションシステムの革新によってロボットアクチュエータ市場における地位を強化してきました」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「必要に応じて日本語レポートが入手可能」（https://www.sdki.jp/reports/actuators-market/109344）
+  - 「この成長は主に、特に日本、韓国、中国におけるロボット工学、電気自動車（EV）、スマートファクトリーへの強力な投資、クリーンエネルギー、EV普及、産業近代化プログラムに対する政府のインセンティブ、急速なインフラ開発、航空宇宙産業の拡大、自動車の電動化によるものです」（https://www.sdki.jp/reports/actuators-market/109344）
+  - 「アクチュエータ市場において、日本の国内企業はアクチュエータ輸出に関してどのような恩恵を受けるのですか？」（https://www.sdki.jp/reports/actuators-market/109344）
+  - 「日本の国内企業は、特にロボット工学とその関連輸出に力を入れていることから、アクチュエータ市場から大きな収益を得る可能性を秘めています」（https://www.sdki.jp/reports/actuators-market/109344）
+- 供給制約・不足：
+  - 「この多様化により、特定のロボット形状への依存度が低下し、移動型および固定型の自動化環境に合わせて部品を調整できるサプライヤーが有利となる」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「アジア太平洋地域は最も成長著しい地域であり、急速な工業化、労働力不足、製造業における自動化の加速を背景に、2026年から2034年にかけて年平均成長率（CAGR）11.02%で市場が拡大すると予測されています」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「輸入依存度の低減と機器の供給確保に重点を置いた様々な地域パートナーシップに支えられ、現地生産のアクチュエータモジュールの採用が拡大していくでしょう」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「こうした市場拡大の背景には、製造業における労働力不足、物流施設の自動化需要、AI技術の高度化、ロボットの商用化に向けた研究開発投資の増加がある」（https://newscast.jp/smart/news/9241185）
+  - 「製造業・物流・サービス分野への導入期待が部品市場を後押し――人手不足への対応と生産性向上が企業投資の重要テーマに」（https://newscast.jp/smart/news/9241185）
+  - 「経営層にとって重要なのは、どの部品がロボット1台当たりの価値を大きく左右するのか、どのコンポーネントが供給制約になり得るのか、そして特定のロボットメーカーや技術方式への依存度をどこまで許容するのかを早期に判断することです」（https://newscast.jp/smart/news/9241185）
+  - 「新たな価値を創出するための産業用オートメーションとAIへの依存度の高まり」（https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report）
+  - 「米国では、継続的なインフレや人手不足による人件費負担が増す一方、ヒューマノイドの価格は規模の経済やアクチュエーターの大量生産などにより、2035年には2万5,000ドル程度まで低下し、投資回収期間は約1.5年へ急速に短縮すると予想されます」（https://go.sbisec.co.jp/media/report/fo_korea/fo_korea_260826.html）
+  - 「しかし、ベアリングの精度や剛性が不足すれば、エンコーダが正確でも出力軸が傾き、手先位置がずれる」（https://note.com/kagawatomo/n/n77775459ddcd）
+  - 「誤っている点や不足している点を当社のエンジニアにお知らせください」（https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7）
+  - 「エネルギー効率に関する要求と産業電化の取り組みにより、従来の油圧式および空気圧式システムへの依存度を低減しつつ、精密な制御を提供する電動式モーションシステムの利用が拡大しています」（https://straitsresearch.com/jp/report/actuators-market）
+  - 「近年、ヒューマノイドロボットは、労働力不足や高齢化などの社会課題解決に向けて、製造・物流・介護・サービスなど多様な分野での活用が期待されており、世界的に市場の拡大が見込まれています」（https://www.nsk.com/jp-ja/company/news/2025/robotics-actuators/）
+  - 「また、環境規制強化や労働力不足の深刻化により、省エネルギーで高効率なアクチュエーターへのニーズが高まっている点も注目に値する」（https://www.atpress.ne.jp/news/9291720）
+  - 「労働力不足の深刻化や運用コストの上昇により、企業は反復的で肉体的に過酷な作業の自動化を推進しています」（https://www.gii.co.jp/report/smrc2160846-humanoid-robot-actuators-market-forecasts-global.html）
+  - 「COVID-19のパンデミックは当初、製造停止、サプライチェーンの混乱、部品不足、およびロボット関連投資の遅延を通じて、ヒューマノイドロボット用アクチュエータ市場に混乱をもたらしました」（https://www.gii.co.jp/report/smrc2160846-humanoid-robot-actuators-market-forecasts-global.html）
+- 政策・予算：
+  - 「AI支援チューニング、組み込み型フィードバック、接続性により、中期的に平均販売価格（ASP）が上昇」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「例えば、Panasonic IndustryのMINAS A7は、AI支援チューニング、27ビットエンコーダー、4.0 kHzを超える速度応答周波数を搭載している」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「手術件数の増加は、高精度ロボットシステムの導入基盤を支える一方、リハビリテーション、ラボオートメーション、支援機器によって用途の範囲が広がっている」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「国家発展改革委員会は、20年間にわたるAIおよびロボット投資を対象とする1,370億米ドル規模の政府誘導基金の概要を示した」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「導入台数の規模と政策支援が組み合わさることで、アジア太平洋地域は需要拡大とサプライチェーン競争の双方における中心的な舞台となっている」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「2025年3月：中国国家発展改革委員会は、20年間にわたりAIおよびロボティクスへの投資に活用する 1,370億米ドル規模の政府誘導基金の概要を示した」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「さらに、小型電動アクチュエータは、ロボット支援製造、包装、精密組立ラインでの利用が増加しており、生産現場全体のオペレーションにおける俊敏性を高めています」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「彼の研究は、市場動向、技術の導入状況、競争の動向、規制の動向、成長機会の評価に焦点を当て、情報に基づいた事業および投資判断を支援することを目的としています」（https://straitsresearch.com/jp/report/robotics-actuators-market）
+  - 「その証拠として、経済産業省が2025年8月に発表した最新版のコネクテッド・インダストリーズ戦略は、アクチュエータ分野における日本企業のグローバル競争力レベルを引き上げています」（https://www.sdki.jp/reports/actuators-market/109344）
+  - 「我々は戦略および成長分析の洞察を提供し、企業の目標達成に必要なデータを提供し、将来の機会の活用を支援します」（https://newscast.jp/smart/news/9241185）
+  - 「13,000を超えるグローバルクライアントに対し、破壊的イノベーションが起こるエコシステムにおける事業成長を支援しています」（https://www.moomoo.com/ja/news/post/58490002/actuators-market-worth-100-41-billion-in-2030-exclusive-report）
+  - 「1995年の創立以来、海外市場調査レポートの販売を通じて企業のグローバル展開を支援しています」（https://japan.cnet.com/release/31160554/）
+  - 「さらに、ロボットメーカーへの部品供給だけでなく、ヒューマノイド製造ラインの産業化支援、工場への導入・統合、稼働後の保守まで担う方針を示した」（https://note.com/kagawatomo/n/n77775459ddcd）
+  - 「Schaefflerは、軸受、関節、駆動、センサー、スマートアクチュエータを一つのモーション・ポートフォリオとして提示し、部品販売だけでなく、診断、教育、予知保全まで含むライフサイクル支援を打ち出した」（https://note.com/kagawatomo/n/n77775459ddcd）
+  - 「Wounded Warrior Project を支援しています」（https://industrialmonitordirect.com/ja/blogs/knowledgebase/how-do-low-cost-robot-actuators-meet-tool-accuracy-targets?srsltid=AYCX9vJ-mKgFwJZD2zQKfKWbx-AVS6tCeFwxU26pSn2mkOzKi_sEO7L7）
+- 検索結果の抜粋：
+  - 「ロボット用アクチュエータ市場 サイズとシェア 2026-2035 — ロボット用アクチュエータ市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > robotics-actuators-market」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「ロボット用アクチュエータ 市場 サイズとシェア 2026-2035 — ロボット用アクチュエータ 市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > robotics-actuators-market」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「ロボット用アクチュエータ まとめ2024！スペックや価格を ... — ロボット用アクチュエータ まとめ2024！スペックや価格を ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=LpszDoUN0gs）
+  - 「ロボット用アクチュエータ 市場 サイズと シェア 2026-2035 — ロボット用アクチュエータ 市場 サイズと シェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > robotics-actuators-market」（https://www.gminsights.com/ja/industry-analysis/robotics-actuators-market）
+  - 「ロボット用アクチュエーター の世界市場レポート2025-2031 — ロボット用アクチュエーター の世界市場レポート2025-2031 YH Research https://www.yhresearch.co.jp > news > customized-reports」（https://www.yhresearch.co.jp/news/4400/customized-reports）
+  - 「ヒューマノイド ロボット用アクチュエーター 市場環境分析2026 — ヒューマノイド ロボット用アクチュエーター 市場環境分析2026 アットプレス https://www.atpress.ne.jp > ... > YH Research株式会社」（https://www.atpress.ne.jp/news/9291720）
+  - 「Robotics actuators Market Size , Share, Trends | Forecast – 2035 — Robotics actuators Market Size , Share, Trends | Forecast – 2035 Global Market Insights Inc. https://www.gminsights.com > robotic...」（https://www.gminsights.com/industry-analysis/robotics-actuators-market）
+  - 「Robotics and Automation Actuators Market Size & Share ... — Robotics and Automation Actuators Market Size & Share ... ResearchGate https://www.researchgate.net > 37260...」（https://www.researchgate.net/publication/372601302_Robotics_and_Automation_Actuators_Market_Size_Share_Report_2023-2030）
+  - 「Robotic Actuator Market to Reach $1.4B by 2032 with 17.6 ... — Robotic Actuator Market to Reach $1.4B by 2032 with 17.6 ... LinkedIn https://www.linkedin.com > posts > m...」（https://www.linkedin.com/posts/market-research-growth-analysis_roboticactuator-automation-industrialautomation-activity-7480987558236241921-lKP7）
+  - 「Robotics actuators Market Size, Share, Trends | Forecast – 2035 — Robotics actuators Market Size, Share, Trends | Forecast – 2035 Global Market Insights Inc. https://www.gminsights.com > robotic...」（https://www.gminsights.com/industry-analysis/robotics-actuators-market）
+  - 「Robot Actuator Market Statistics (2026): 50+ Data Points on ... — Robot Actuator Market Statistics (2026): 50+ Data Points on ... cervo-tech.com https://cervo-tech.com > Research」（https://cervo-tech.com/blog/robot-actuator-market-statistics-2026.html）
+  - 「Humanoid Robot Actuators Market Size and Forecasts 2032 — Humanoid Robot Actuators Market Size and Forecasts 2032 Mobility Foresights https://mobilityforesights.com > huma...」（https://mobilityforesights.com/product/humanoid-robot-actuators-market）
+
+## ロボット用減速機（波動歯車・RV・遊星）（robot speed reducer harmonic drive market）
+- 文脈：フィジカルAI・部材
+- 市場規模：
+  - 「RV減速機市場規模、シェア、成長率、予測（2034年）」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「世界のRV減速機市場規模は、2025年に22億2000万米ドルと評価され、2026年の23億7000万米ドルから2034年には40億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.9%となる見込みです」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「世界のRV減速機市場規模は、2025年には22億2000万米ドルと評価され、2026年の23億7000万米ドルから2034年には40億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.9%となる見込みです」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「RV用減速機の市場規模は、2026年には23億7000万米ドルと評価され、2034年までに40億5000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.9%です」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「自動車燃料タンク市場規模、シェア、成長率、レポート、2034年」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「産業用ディーゼルターボチャージャー市場規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「自動車油圧システム市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「ディーゼルエンジン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「ハーモニック・ドライブ・システムズは、旧中期経営計画（2024〜2026年度）で3年間275億円の設備投資を計画していた」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「そのおよそ3分の1、約100億円をヒューマノイド向けに振り向けるという配分は2024年時点の報道ベースであり、公式資料で示された275億円の総額と区別して読む必要がある」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「2030年度の目標は連結売上高1,000億円以上、売上高営業利益率15％以上、ROE・ROIC各10％以上である」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「一方、新計画では旧計画時点で報じられた「約100億円をヒューマノイド向け」という設備投資配分の更新値は確認できない」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「したがって本稿では、100億円という数字を現在進行中の確定投資額ではなく、旧計画時点の報道値として扱う」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「新計画の5年間では、成長投資に655億円を充てる計画で、中間目標として2028年度に連結売上高820億円以上、営業利益率12％以上を掲げる」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「足元では、2026年8月7日の第1四半期決算で受注高が前年同期比55.7％増となり、通期予想を売上高745億円、営業利益85億円へ引き上げた」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+- 成長率：
+  - 「RV減速機市場規模、シェア、成長率、予測（2034年）」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「世界のRV減速機市場規模は、2025年に22億2000万米ドルと評価され、2026年の23億7000万米ドルから2034年には40億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.9%となる見込みです」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「世界のRV減速機市場規模は、2025年には22億2000万米ドルと評価され、2026年の23億7000万米ドルから2034年には40億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.9%となる見込みです」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「平歯車は市場シェアが最も高く、予測期間中に年平均成長率（CAGR）6.4%で成長すると予測されています」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「産業用ロボットが最大の市場シェアを占め、予測期間中に年平均成長率（CAGR）7%で成長すると予測されています」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「アジア太平洋地域は最大の市場シェアを占めており、予測期間中の年平均成長率（CAGR）は7.1%と推定されています」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「2030年までに8億3300万米ドルに達すると予測されており、年平均成長率（CAGR）は6.8%です」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「RV用減速機の市場規模は、2026年には23億7000万米ドルと評価され、2034年までに40億5000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.9%です」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「～2019年の小型・精密減速機世界出荷台数は前年比89.3％の見込、但し一過性の調整局面であり、2017年から2021年までのCAGRは9.28%で成長と予測～」（https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J）
+  - 「ロボットや各種工作機械用の減速機需要の好調を受け、2018年の小型・精密減速機世界市場（メーカー出荷数量ベース）を前年比117.5%の403万台と推計した」（https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J）
+  - 「ただ、2018年後半から需要が急激に減少しており、2019年前半も同様で経過しているものの、下半期で受注も若干持ち直すと考え、2019年の小型・精密減速機世界市場を前年比89.3%の360万台になると見込む」（https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J）
+  - 「2017年から2021年までのCAGRは9.28%で成長し、2021年の小型・精密減速機世界市場（メーカー出荷数量ベース）は489万台になると予測する」（https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J）
+  - 「2028年までにはCAGR（年平均成長率）を超えるといった予測」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+  - 「2026年以降はRVminiとMonocrankで小型・ヒューマノイド市場への拡大を狙う」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「緑的諧波の2025年の売上高は前年比47％増の5億7,100万元（約130億円）、純利益は121％増の1億2,400万元で、波動歯車の出荷は50万台に迫った」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+- 需要量：
+  - 「2021年の小型・精密減速機世界出荷台数を489万台と予測」（https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J）
+  - 「～2019年の小型・精密減速機世界出荷台数は前年比89.3％の見込、但し一過性の調整局面であり、2017年から2021年までのCAGRは9.28%で成長と予測～」（https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J）
+  - 「ロボットや各種工作機械用の減速機需要の好調を受け、2018年の小型・精密減速機世界市場（メーカー出荷数量ベース）を前年比117.5%の403万台と推計した」（https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J）
+  - 「ただ、2018年後半から需要が急激に減少しており、2019年前半も同様で経過しているものの、下半期で受注も若干持ち直すと考え、2019年の小型・精密減速機世界市場を前年比89.3%の360万台になると見込む」（https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J）
+  - 「2017年から2021年までのCAGRは9.28%で成長し、2021年の小型・精密減速機世界市場（メーカー出荷数量ベース）は489万台になると予測する」（https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J）
+  - 「ナブテスコはこの分野で30年以上の実績を有し、累計1,200万台（2023年4月時点）の出荷を達成」（https://rv-support.nabtesco.com/history）
+  - 「MAX9トンまで積載化」（https://rv-support.nabtesco.com/history）
+  - 「(https://skg2016.com/products/)」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+  - 「最安の4万円台～」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+  - 「製品価格が最安の6万円台～」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+  - 「同社の2026年2月の決算説明資料は、ワイヤー駆動で指先を軽くし、1台のハンドに107個のベアリングと5個の力センサーを積むと説明している（発表ベース）」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「Nabtescoは産業ロボット分野で大きな実績を持ち、RV減速機の累計生産が1,400万台を超えたと公表している（2025年12月時点）」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「外周に40本のピンを並べ、39個の山を持つ曲線板を偏心させて回すと、曲線板は入力軸が1回転するごとに山一つ分だけ逆向きに進み、減速比は39になる」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「ナブテスコのRV減速機が強いのは、可搬重量20kg以上の溶接・塗装用の産業用ロボットである」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「同社の2025年12月期決算説明資料（2026年2月19日）では、波動歯車方式のRVminiと、中心クランク型の偏心揺動方式で耐衝撃性と歯飛びの起きにくさを特徴とするMonocrankを、可搬重量20kg未満の小型ロボット、コボット、ヒューマノイド向けとして示している」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+- 部品構成比・単価：
+  - 「2025年のRV用減速機市場において、最大のシェアを占める地域はどこだったでしょうか？」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「マッキンゼーの推計では、アクチュエータ原価の30〜50％を減速機が占め、性能差の大部分もここから生まれる」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「減速機はアクチュエータ原価の3〜5割を占めるため、精度の要らない関節まで高精度の方式を使えば、その差額が全身の関節数だけ積み上がる」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「【コスト比率】★★★★★／アクチュエータ原価の30〜50％を占める最大の要素」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「【減速機がアクチュエータ原価の30〜50％、性能差の大部分】McKinsey（2026-04-17）／推計」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「波動歯車（ハーモニック）とRV（ナブテスコ）で日本2社が世界の大半を占める」（https://geopinning.space/industry/japan-precision-reducer/）
+  - 「前述のとおり、減速機はロボット1台の原価の約35%を占める」（https://note.com/carney0520/n/nd276b649e213）
+  - 「これは、コアコンポーネント3つ（減速機35%、サーボモータ20%、コントローラ15%）だけで原価の70%に達するロボットの原価構造を反映している」（https://note.com/carney0520/n/nd276b649e213）
+  - 「NVIDIAにとってTガラスの調達コストが全体の中では微々たるものであるように、ロボットメーカーにとって減速機は原価の35%を占める最大のコスト要因であり、しかも代替が効かない」（https://note.com/carney0520/n/nd276b649e213）
+  - 「産業用ロボットの年成長率が5〜7%にとどまる一方、ヒューマノイドロボットが年率50%以上で成長すれば、2030年代前半には両者の市場規模が接近し、ロボット産業全体に占めるRV減速機搭載機の比率が構造的に低下し始めるシナリオが現実味を帯びる」（https://note.com/carney0520/n/nd276b649e213）
+  - 「この歯面をミクロン単位で研磨する技術は、専用の超精密研削盤（たとえばメーラー社製）を必要とし、1台あたり数千万円から億円単位の設備投資が必要だ」（https://note.com/carney0520/n/nd276b649e213）
+  - 「ロボット1台あたり4〜5個の減速機を使うとしても、市場規模はまだ限定的だった」（https://note.com/carney0520/n/nd276b649e213）
+  - 「例えば、Meigler 平面研削盤の単価は人民元で 1,000 万元近くです」（https://ja.jidemachinery.com/info/precision-reducers-monopolized-by-japan-17198213186462720.html）
+  - 「2013年頃までは、ほぼ日本のメーカーによる独占状態が続いていましたが、近年では中国メーカーなどが占める割合も増えてきています（※2023年3月調査時点）」（https://www.precision-reducer-guide.com/market/）
+  - 「同社は、中大型の産業用ロボットの関節用の精密減速機で世界の約6割を占めると推計しています (基準の年は示していません)」（https://www.postation.jp/robot/technology/reducer）
+- 主要供給元・シェア：
+  - 「RV減速機市場規模、シェア、成長率、予測（2034年）」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「RV減速機市場の規模、シェア、トレンド分析レポート：製品別（平歯車、差動歯車）、用途別（産業用ロボット、工作機械、半導体、LED＆OLED、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「アジア太平洋地域は、2025年に48.6%の市場シェアを占め、RV減速機市場を牽引しました」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「RV減速機は、多くの生産工程において重要な低速域での高トルク供給能力を備えているため、人気が高まっています」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「RV用減速機は、多くの生産工程において重要な低速域での高トルク供給能力を備えているため、人気が高まっています」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「平歯車は市場シェアが最も高く、予測期間中に年平均成長率（CAGR）6.4%で成長すると予測されています」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「産業用ロボットが最大の市場シェアを占め、予測期間中に年平均成長率（CAGR）7%で成長すると予測されています」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「製品の品質と競争力を高め、セグメントの成長を牽引しようとする機器メーカーにとって最適な選択肢と言えるでしょう」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「アジア太平洋地域は最大の市場シェアを占めており、予測期間中の年平均成長率（CAGR）は7.1%と推定されています」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「メーカー各社がエンジンに高出力負荷を搭載するようになるにつれ、減速機の中期的な需要は増加すると見込まれます」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「さらに、減速機が提供する高い精度は、RVメーカーが製造工程で使用するのに最適な選択肢となっています」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「同社は、サーボモーターや精密減速技術を含む統合型ロボット駆動システム製品群を強化することで、精密モーションコントロール製品のポートフォリオを拡大し、高度な産業オートメーションおよびロボットメーカーを支援していく」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「2025年のRV用減速機市場において、最大のシェアを占める地域はどこだったでしょうか？」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「アジア太平洋地域は2025年に48.6%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「自動車燃料タンク市場規模、シェア、成長率、レポート、2034年」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+- 日本企業の位置：
+  - 「アジア太平洋地域は、同地域最大の経済大国である中国と日本がRV減速機の大部分を生産しているため、RV減速機市場を支配しています」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「中でも日本はRV減速機の製造において最も大きな割合を占めています」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「2025年9月：日本電産株式会社」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「同じころ、日本のロボット産業は「ロボット普及元年」で急速な成長をみせていました」（https://rv-support.nabtesco.com/history）
+  - 「拠点一覧(国内)」（https://rv-support.nabtesco.com/history）
+  - 「ニデックドライブテクノロジー（旧：日本電産シンポ）」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+  - 「減速機の国内シェア」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+  - 「世界市場では、日本企業が大きくそのシェアを占めています」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+  - 「減速機では日本企業が」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+  - 「ナブテスコやハーモニック・ドライブシステムズ、住友重機械工業などの日本企業が大きなシェア」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+  - 「※参照元：日本機械学会誌」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+  - 「中国や韓国で国産化が」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+  - 「そうしたことからも、ロボット産業における減速機の主要メーカーは、長らく日本企業がそのシェアを占めていました」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+  - 「ただ、近年は中国や韓国のロボット向け減速機の取り組みレベルが活発になってきており、国産化を進める動きがみられます」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+  - 「日本製品と同レベルの性能に、」（https://www.precision-reducer-guide.com/market/robot-reducer.html）
+- 供給制約・不足：
+  - 「触覚センサーやカメラが増えるほど配線は太くなり、中空径の不足は関節の作り直しを意味する」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「4-1. 工場自動化の加速：労働力不足が「選択」を「必然」に変えた」（https://note.com/carney0520/n/nd276b649e213）
+  - 「この成長を根本的に駆動しているのは、先進国の労働力不足だ」（https://note.com/carney0520/n/nd276b649e213）
+  - 「日本では生産年齢人口が2040年に6,000万人を割り込む見込みであり、2030年には約644万人の人手不足が予測されている」（https://note.com/carney0520/n/nd276b649e213）
+  - 「ロボット導入を「労働力不足の主要因」と回答する日本企業は54%に達し、これはグローバル平均の2倍だ」（https://note.com/carney0520/n/nd276b649e213）
+  - 「労働力不足は先進国共通の構造問題であり、ロボット需要の下支え要因として不可逆的に作用する」（https://note.com/carney0520/n/nd276b649e213）
+  - 「需要回復局面で供給制約にならない体制を先行的に整えている」（https://note.com/carney0520/n/nd276b649e213）
+  - 「加工条件（送り速度、研削圧、冷却条件、砥石管理）のノウハウが不足しているためだ」（https://note.com/carney0520/n/nd276b649e213）
+  - 「装置・材料・ファウンドリ・輸出規制」（https://www.postation.jp/robot/technology/reducer）
+  - 「輸出規制・制裁の影響を切り口別に整理」（https://www.postation.jp/robot/technology/reducer）
+  - 「中国の対日輸出規制リスト×影響銘柄」（https://www.postation.jp/robot/technology/reducer）
+  - 「中国商務部が 2026 年 2 月・6 月に指定した対日輸出規制の管理リスト 40 団体・注視リスト 40 団体と、リスト入りした日本企業・影響銘柄」（https://www.postation.jp/robot/technology/reducer）
+  - 「輸出規制・制裁と日本株を根拠でつなぐ」（https://www.postation.jp/robot/technology/reducer）
+  - 「手作業では作業者によってバラツキがみられたり、刺激的な光や有害な煙などによる作業環境への課題がありましたが、作業のロボット化でこれを解消し、人材不足の心配もなくなりました」（https://www.precision-reducer-guide.com/usage/industrial-robot/small.html）
+  - 「習慣ではなくこの三要素で選ぶことで、過剰な出費も精度不足も避けられます」（https://minatavn.com/ja/blog/equipment-selection-04-harmonic-planetary-cycloidal-gearbox-ja）
+- 政策・予算：
+  - 「同社は、サーボモーターや精密減速技術を含む統合型ロボット駆動システム製品群を強化することで、精密モーションコントロール製品のポートフォリオを拡大し、高度な産業オートメーションおよびロボットメーカーを支援していく」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「また、機会評価、顧客セグメンテーション、競合ベンチマーキング、成長戦略の策定といった業務を通じてクライアントを支援しています」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「ハラール認証取得支援サービス」（https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J）
+  - 「ただし決算の要約で伸びの要因として挙がったのは、半導体製造装置向けの設備投資需要と北米の手術支援ロボット向けの受注であり、ヒューマノイド向けの寄与は切り分けて示されていない（決算要約による）」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「【HDSの2027年3月期第1四半期（受注高55.7％増、通期予想を売上高745億円・営業利益85億円へ修正、伸びの要因は半導体製造装置と北米の手術支援ロボット）】HDS決算短信（2026-08-07）・決算要約／公表決算」（https://note.com/kagawatomo/n/n5ef8c54539ff）
+  - 「勢が国産化を急ぐ「経済安全保障上の要衝」でもありますが、耐久性・精度では依然」（https://geopinning.space/industry/japan-precision-reducer/）
+  - 「緑的諧波（Leaderdrive）、秦川機床（Qinchuan）、中大力徳（ZD）、南通振康（Nantong Zhenkang）などが、国家的な支援を背景に急速に台頭している」（https://note.com/carney0520/n/nd276b649e213）
+  - 「歯車専用の計算ソフトや作図ソフト、歯車ＣＡＤデータの提供といった支援ツールも公開」（https://www.precision-reducer-guide.com/market/domestic.html）
+  - 「また、医療用ロボットにおいても、手術支援やリハビリ支援用のアクチュエーターで使用され、精密な動作を支えています」（https://newscast.jp/smart/news/4725764）
+  - 「💴 蓄電池の補助金一覧」（https://www.postation.jp/robot/technology/reducer）
+  - 「蓄電池の補助金一覧」（https://www.postation.jp/robot/technology/reducer）
+  - 「産業用蓄電池と系統用蓄電池の国の補助金を、補助率・上限・公募期間・要件で比較」（https://www.postation.jp/robot/technology/reducer）
+  - 「CEV補助金・実質価格・スペックを横断比較 — 購入検討はここから」（https://www.postation.jp/robot/technology/reducer）
+  - 「BYD・ZEEKR の価格・航続・充電・補助金」（https://www.postation.jp/robot/technology/reducer）
+  - 「生産技術・機械設計・自動化支援」（https://minatavn.com/ja/blog/equipment-selection-04-harmonic-planetary-cycloidal-gearbox-ja）
+- 検索結果の抜粋：
+  - 「RV減速機市場規模 、シェア、成長率、予測（2034年） — RV減速機市場規模 、シェア、成長率、予測（2034年） Straits Research https://straitsresearch.com > 自動車・輸送 > パワートレイン」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+  - 「RV減速機 市場規模、シェア、成長率、予測（2034年） — RV減速機 市場規模、シェア、成長率、予測（2034年） Straits Research https://straitsresearch.com > 自動車・輸送 > パワートレイン」（https://straitsresearch.com/jp/report/rv-speed-reducer-market）
+
+## ロボットモーター用の永久磁石（ネオジム）（rare earth magnets for robots and humanoids demand）
+- 文脈：マテリアル・素材
+- 市場規模：
+  - 「市場規模は2025年の26億米ドルから2035年には34億米ドルへと、10年間で約8億米ドル増加する予測である」（https://newscast.jp/smart/news/9399503）
+  - 「そのため経営層にとって日本磁石市場の2035年展望を理解することは、単なる市場規模予測を確認することではなく、自社がどの用途・技術・顧客領域に資本を配分し、どのサプライチェーンリスクを低減し、どの高付加価値領域で競争優位を構築するかを判断するための戦略的インプットとして重要性を増しています」（https://newscast.jp/smart/news/9399503）
+  - 「市場規模は2025年の26億米ドルから2035年には34億米ドルへと、10年間で約8億米ドル増加する予測である」（https://www.atpress.ne.jp/news/9399503）
+  - 「そのため経営層にとって日本磁石市場の2035年展望を理解することは、単なる市場規模予測を確認することではなく、自社がどの用途・技術・顧客領域に資本を配分し、どのサプライチェーンリスクを低減し、どの高付加価値領域で競争優位を構築するかを判断するための戦略的インプットとして重要性を増しています」（https://www.atpress.ne.jp/news/9399503）
+  - 「航空機用防氷システムの世界市場（2026年～2032年）、市場規模（機械式除氷システム、電気パルス式防氷システム、液体防氷システム、熱風式防氷システム、電気加熱式防氷システム）・分析レポートを発表」（https://www.atpress.ne.jp/news/9399503）
+  - 「低温収縮試験機の世界市場（2026年～2032年）、市場規模（低温、広温度範囲）・分析レポートを発表」（https://www.atpress.ne.jp/news/9399503）
+  - 「油井ポンプの世界市場（2026年～2032年）、市場規模（試験用ポンプ、酸処理用ポンプ、セメント注入用ポンプ）・分析レポートを発表」（https://www.atpress.ne.jp/news/9399503）
+  - 「PERCフロント用銀ペーストの世界市場（2026年～2032年）、市場規模（フィンガー用銀ペースト、バスバー用銀ペースト）・分析レポートを発表」（https://www.atpress.ne.jp/news/9399503）
+  - 「牽引式方位スラスタの世界市場（2026年～2032年）、市場規模（Lドライブ、Zドライブ、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/9399503）
+  - 「市場調査によると、**2025年の市場規模26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間における年平均成長率（CAGR）は3.00％**と予測されています」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html）
+  - 「2035年に向けた日本磁石市場の展望――市場規模よりも高付加価値化が重要な競争軸に」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html）
+  - 「市場規模は2025年の26億米ドルから2035年には34億米ドルへと成長する見通しですが、企業にとって重要なのは市場全体の拡大率だけではありません」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html）
+  - 「日本磁石市場を評価するうえでは、市場規模が26億米ドルから34億米ドルへ増加するという数字だけでなく、どの磁石技術が価格・性能・顧客価値の面で競争優位を形成するのかを見極める必要があります」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html）
+  - 「「半導体用ミニチュアボールねじの世界市場」調査資料（国内市場規模も記載）を発行、年平均8.3%で成長する見込み」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html）
+  - 「永久磁石市場規模、シェア、競争環境、トレンド分析レポート、タイプ別、グレード別 、製造プロセス別、 エンドユーザー別、エンドユーザー別 – 用途別、 流通チャネル別 : 2026-2035年の機会分析と産業予測」（https://www.reportocean.co.jp/industry-reports/permanent-magnet-market）
+- 成長率：
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | NEWSCAST」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引」（https://newscast.jp/smart/news/9399503）
+  - 「市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである」（https://newscast.jp/smart/news/9399503）
+  - 「これは、電気自動車およびハイブリッド車、エレクトロニクス、ロボット工学、産業用オートメーション、再生可能エネルギーシステムにおける磁石需要の高まりに支えられ、2026年から2035年にかけて年平均成長率（CAGR）3.00％で拡大すると見込まれています」（https://newscast.jp/smart/news/9399503）
+  - 「2035年に向けた日本磁石市場は、EV、産業ロボット、再生可能エネルギー、高効率家電など複数の需要分野に支えられ、緩やかながら持続的な拡大が予測される」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2025年の26億米ドルから2035年には34億米ドルへ拡大し、2026～2035年にCAGR 3.00％で成長すると予測されており、今後の市場発展を評価するうえでは、単純な数量成長だけでなく、どの最終産業が高機能磁石への需要を生み出すのかを把握することが企業戦略上の重要な論点となります」（https://newscast.jp/smart/news/9399503）
+  - 「そのため、日本磁石市場を評価する際には、自動車やロボットなどの完成品市場の成長率だけを見るのではなく、電動化・自動化によって1台・1システム当たりの磁石使用量や高性能磁石の採用機会がどのように変化するかを分析することが、2035年までの需要ポテンシャルを見極めるうえで重要になります」（https://newscast.jp/smart/news/9399503）
+  - 「市場が2025年の26億米ドルから2035年に34億米ドルへ拡大する見通しのなか、企業にとって重要なのは市場全体の成長率だけではなく、どの磁石カテゴリー・用途・技術領域で平均を上回る成長機会が生まれるのかを特定し、研究開発投資、設備投資、製品ラインアップ、顧客開拓を連動させることです」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | 株式会社レポートオーシャン」（https://www.atpress.ne.jp/news/9399503）
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引」（https://www.atpress.ne.jp/news/9399503）
+  - 「市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである」（https://www.atpress.ne.jp/news/9399503）
+  - 「これは、電気自動車およびハイブリッド車、エレクトロニクス、ロボット工学、産業用オートメーション、再生可能エネルギーシステムにおける磁石需要の高まりに支えられ、2026年から2035年にかけて年平均成長率（CAGR）3.00％で拡大すると見込まれています」（https://www.atpress.ne.jp/news/9399503）
+  - 「2035年に向けた日本磁石市場は、EV、産業ロボット、再生可能エネルギー、高効率家電など複数の需要分野に支えられ、緩やかながら持続的な拡大が予測される」（https://www.atpress.ne.jp/news/9399503）
+  - 「日本磁石市場は2025年の26億米ドルから2035年には34億米ドルへ拡大し、2026～2035年にCAGR 3.00％で成長すると予測されており、今後の市場発展を評価するうえでは、単純な数量成長だけでなく、どの最終産業が高機能磁石への需要を生み出すのかを把握することが企業戦略上の重要な論点となります」（https://www.atpress.ne.jp/news/9399503）
+  - 「そのため、日本磁石市場を評価する際には、自動車やロボットなどの完成品市場の成長率だけを見るのではなく、電動化・自動化によって1台・1システム当たりの磁石使用量や高性能磁石の採用機会がどのように変化するかを分析することが、2035年までの需要ポテンシャルを見極めるうえで重要になります」（https://www.atpress.ne.jp/news/9399503）
+- 需要量：
+  - 「そのため、日本磁石市場を評価する際には、自動車やロボットなどの完成品市場の成長率だけを見るのではなく、電動化・自動化によって1台・1システム当たりの磁石使用量や高性能磁石の採用機会がどのように変化するかを分析することが、2035年までの需要ポテンシャルを見極めるうえで重要になります」（https://newscast.jp/smart/news/9399503）
+  - 「Report Ocean株式会社は、市場調査およびコンサルティングの分野で、正確で信頼性の高い最新の調査データおよび技術コンサルティングを求める個人および企業に対して、7年以上にわたり高度な分析的研究ソリューション、カスタムコンaサルティング、深いデータ分析を提供するリーディングカンパニーです」（https://newscast.jp/smart/news/9399503）
+  - 「そのため、日本磁石市場を評価する際には、自動車やロボットなどの完成品市場の成長率だけを見るのではなく、電動化・自動化によって1台・1システム当たりの磁石使用量や高性能磁石の採用機会がどのように変化するかを分析することが、2035年までの需要ポテンシャルを見極めるうえで重要になります」（https://www.atpress.ne.jp/news/9399503）
+  - 「Report Ocean株式会社は、市場調査およびコンサルティングの分野で、正確で信頼性の高い最新の調査データおよび技術コンサルティングを求める個人および企業に対して、7年以上にわたり高度な分析的研究ソリューション、カスタムコンaサルティング、深いデータ分析を提供するリーディングカンパニーです」（https://www.atpress.ne.jp/news/9399503）
+  - 「Report Ocean株式会社は、市場調査およびコンサルティングの分野で、正確で信頼性の高い最新の調査データおよび技術コンサルティングを求める個人および企業に対して、7年以上にわたり高度な分析的研究ソリューション、カスタムコンaサルティング、深いデータ分析を提供するリーディングカンパニーです」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html）
+  - 「EV生産は2030年までに年間27%の成長が見込まれており、各車両にはトラクション、ステアリング、熱システム用に2～5kgの高エネルギー磁石が組み込まれるため、希土類磁石の需要が大幅に増加しています」（https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/）
+  - 「単一の15MW洋上タービンは、ギアボックスベースのユニットの3倍にあたる最大600kgのネオジムベース磁石を必要とすることがあります」（https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/）
+  - 「日立が2025年1月に7,000台の発電機をサービスするJoliet Electric Motorsを買収したことは、これらの磁石を豊富に含む機械に関連する長期的なアフターマーケット収益を裏付けています」（https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/）
+  - 「MP Materialsは2025年第1四半期にNdPr生産量を563トンに引き上げ、四半期収益6080万ドルを計上し、国内産希土類処理の初期の牽引力を示しています」（https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/）
+  - 「* 2025年2月: JLMAG INNOVATIONは、高性能希土類永久磁石の製造能力を年間20,000トンから60,000トンに拡大する2年間のプロジェクトを発表しました」（https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/）
+  - 「6.4.12 VACUUMSCHMELZE GmbH & Co. KG」（https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/）
+  - 「体制を強化すべく、2030年時点の国内需要量を満たす生産能」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「⚫ 需要見通し：自動車の電動化に伴い、１台あたりに」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「(2) 中国国内の組織・個人による中国以外の国・地域へのレアアース関連技術の輸出に、輸出許可取得を」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+  - 「目標：2030年時点の国内需要量を十分に満たす生産能力増強を実施し、国内需要に応える状況にする」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+- 部品構成比・単価：
+  - 「これらの車両は、ブラシレスDCモーターの90％以上に動力を供給するNdFeB磁石に圧倒的に依存しており、モーター1台あたり1～2kgのNdFeB磁石が必要となる」（https://newscast.jp/news/5451602）
+  - 「日本のNdFeB消費量の35%を占める電子機器は依然として最大の最終用途分野であり、日常のイノベーションにおける磁石の役割を浮き彫りにしています」（https://newscast.jp/news/5451602）
+  - 「全国で6,200台（2023年比7%増）の磁気共鳴画像診断装置（MRI）は、安定した高強度磁場を得るためにNdFeB磁石を使用しており、1台あたり50～100kg、今年の消費量は310～620トンと見込まれている」（https://newscast.jp/news/5451602）
+  - 「市場の67.89%を占める焼結NdFeB磁石は、その強度（BHmax 35-50 MGOe）により、EVモーターや風力タービンなどの高性能用途で優れている」（https://newscast.jp/news/5451602）
+  - 「約24%のシェアを占める結合NdFeB磁石は、電子機器とロボット工学に対応しており、低コストと適応性により15%の成長を遂げており、パナソニックのロボット部門では使用量が18%増加した」（https://newscast.jp/news/5451602）
+  - 「1台あたりの単価が高い」（https://www.topmag.in/ja/ceiling-fan-magnets/）
+  - 「1台当たりの単価を下げる」（https://www.topmag.in/ja/ceiling-fan-magnets/）
+  - 「永久磁石モーター市場におけるPMACセグメントは、2035年末までに45.2%の収益シェアを占めると予測されています」（https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170）
+  - 「永久磁石モーター市場における自動車部門は、2035年末までに大きな収益シェアを占めると予測されています」（https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170）
+  - 「電気自動車の保有台数は2024年末までに約5,800万台に増加し、2021年の電気自動車保有台数の3倍以上、乗用車全体の約4%を占めることになります」（https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170）
+  - 「北米市場は、デジタルインフラとクリーンエネルギーを支援する政府の取り組みを牽引役として、2035年までに収益シェアの37%を占めると見込まれています」（https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170）
+  - 「希土類鉱業の約58%、酸化物分離市場の89%、金属化市場の90%を占める中国は、2020年のバリューチェーン上流段階においても優位に立っています」（https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170）
+  - 「世界の電気自動車販売台数に占める中国のシェアは2024年に急増し、電気自動車の販売台数は前年比で約40%増加しました」（https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170）
+  - 「永久磁石モーター市場の PMAC セグメントは、2035 年末までに収益シェアの 45.2% を占めると予測されています」（https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170）
+  - 「北米市場は、デジタル インフラストラクチャとクリーン エネルギーをサポートする政府の取り組みが牽引し、2035 年までに収益シェアの 37% を占めると見込まれています」（https://www.researchnester.com/ja/reports/permanent-magnet-motor-market/5170）
+- 主要供給元・シェア：
+  - 「こうした用途別の要求水準の違いが、汎用磁石と高性能磁石の市場構造を変え、材料メーカーに新たな技術開発と製品差別化の機会をもたらしている」（https://newscast.jp/smart/news/9399503）
+  - 「今後、自動車メーカーが車両全体の効率改善と部品の軽量化を進めるにつれ、磁石メーカーには磁力、耐熱性、耐久性、コストを総合的に最適化する技術力が求められる」（https://newscast.jp/smart/news/9399503）
+  - 「電動化は需要拡大の機会であると同時に、材料性能と供給安定性をめぐる競争を激化させる要因にもなる」（https://newscast.jp/smart/news/9399503）
+  - 「同時に、希土類使用効率の高い磁石、リサイクル技術、および先進的な材料組成の開発が、国内メーカーに新たなビジネスチャンスをもたらしています」（https://newscast.jp/smart/news/9399503）
+  - 「主要企業のリスト：」（https://newscast.jp/smart/news/9399503）
+  - 「半導体製造装置、電子部品製造設備、医療機器製造ラインなど、高度な自動化が必要な領域では、装置メーカーと磁石メーカーによる共同開発の重要性が高まると考えられる」（https://newscast.jp/smart/news/9399503）
+  - 「磁石メーカーにとっては、標準品の供給から、顧客の装置仕様に合わせた高付加価値製品の開発へと事業領域を広げる機会が生まれている」（https://newscast.jp/smart/news/9399503）
+  - 「日本では省エネルギー性能が製品競争力を左右するため、磁石メーカーにはエネルギー効率と製造コストを両立する技術開発が求められる」（https://newscast.jp/smart/news/9399503）
+  - 「レアアース調達の安定化が日本磁石産業の最重要課題に――中国依存の低減と国際的な供給網再編が加速」（https://newscast.jp/smart/news/9399503）
+  - 「市場拡大の一方で、磁石産業は原材料の供給リスクという構造的な課題を抱えている」（https://newscast.jp/smart/news/9399503）
+  - 「ネオジム磁石に使用されるレアアースのうち、ジスプロシウムやテルビウムは高温環境での磁気性能維持に重要だが、供給源が特定地域に集中している」（https://newscast.jp/smart/news/9399503）
+  - 「2025年3月には、JOGMECと岩谷産業がフランスのCaremagによるレアアース精製事業への出資と長期供給契約を発表した」（https://newscast.jp/smart/news/9399503）
+  - 「今後は、原材料価格だけでなく、調達先の分散、供給契約の長期化、地政学的リスクへの対応力が、磁石メーカーの競争優位性を決定する重要な要素となるだろう」（https://newscast.jp/smart/news/9399503）
+  - 「また、磁石メーカーにとっては、回収・再資源化事業者との連携や、製品設計段階からリサイクルを考慮した材料開発が新たな差別化要因となる」（https://newscast.jp/smart/news/9399503）
+  - 「2035年に向けた日本磁石市場の成長戦略――高性能材料、安定供給、顧客との共同開発が企業価値を左右する」（https://newscast.jp/smart/news/9399503）
+- 日本企業の位置：
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | NEWSCAST」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場が、電動化と産業の高度化を背景に新たな成長段階を迎えようとしている」（https://newscast.jp/smart/news/9399503）
+  - 「市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである」（https://newscast.jp/smart/news/9399503）
+  - 「特に日本では、自動車産業の電動化、製造現場の省人化、エネルギー効率の改善が進むなか、磁石に求められる性能と調達条件が大きく変化している」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場はなぜ2035年まで成長を続けるのか――成熟した製造業市場に生まれる新たな需要と高付加価値化の機会」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は、既存産業における安定した需要を基盤としながら、次世代モビリティや高度な産業機器向けの需要拡大によって成長すると見込まれる」（https://newscast.jp/smart/news/9399503）
+  - 「自動車産業は、日本磁石市場の中長期的な需要を左右する主要分野の一つである」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場において、ネオジム磁石などの希土類永久磁石は、高性能モーターや精密機器に不可欠な材料として重要性を増している」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2025年に26億米ドルの規模となり、2035年までに34億米ドルに達すると予測されています」（https://newscast.jp/smart/news/9399503）
+  - 「2025年、ネオジム・鉄・ホウ素（NdFeB）セグメントは、その極めて高い磁力、コンパクトなサイズ、および小型化と高効率化された用途への適性を背景に、日本の磁石市場を独占しました」（https://newscast.jp/smart/news/9399503）
+  - 「日本の自動車産業における電動化の進展に加え、ロボット工学、工場自動化、精密機械、クリーンエネルギー技術への投資が、高性能永久磁石に対する持続的な需要を生み出しています」（https://newscast.jp/smart/news/9399503）
+  - 「同時に、希土類使用効率の高い磁石、リサイクル技術、および先進的な材料組成の開発が、国内メーカーに新たなビジネスチャンスをもたらしています」（https://newscast.jp/smart/news/9399503）
+  - 「産業ロボットと工場自動化が新たな需要を形成――日本の製造現場で進む省人化投資が精密磁石の価値を高める」（https://newscast.jp/smart/news/9399503）
+- 供給制約・不足：
+  - 「日本の製造業では、人手不足への対応、生産性向上、品質の安定化を目的として、自動化設備の導入が重要な経営課題となっている」（https://newscast.jp/smart/news/9399503）
+  - 「レアアース調達の安定化が日本磁石産業の最重要課題に――中国依存の低減と国際的な供給網再編が加速」（https://newscast.jp/smart/news/9399503）
+  - 「国際エネルギー機関（IEA）は、2025年の中国によるレアアース関連の輸出規制が、自動車産業を含む国際的なサプライチェーンに影響を与えたと分析している」（https://newscast.jp/smart/news/9399503）
+  - 「こうした技術が実用化・普及すれば、輸入資源への依存度低減に加え、製造工程における資源効率の改善にもつながる可能性がある」（https://newscast.jp/smart/news/9399503）
+  - 「日本の製造業では、人手不足への対応、生産性向上、品質の安定化を目的として、自動化設備の導入が重要な経営課題となっている」（https://www.atpress.ne.jp/news/9399503）
+  - 「レアアース調達の安定化が日本磁石産業の最重要課題に――中国依存の低減と国際的な供給網再編が加速」（https://www.atpress.ne.jp/news/9399503）
+  - 「国際エネルギー機関（IEA）は、2025年の中国によるレアアース関連の輸出規制が、自動車産業を含む国際的なサプライチェーンに影響を与えたと分析している」（https://www.atpress.ne.jp/news/9399503）
+  - 「こうした技術が実用化・普及すれば、輸入資源への依存度低減に加え、製造工程における資源効率の改善にもつながる可能性がある」（https://www.atpress.ne.jp/news/9399503）
+  - 「日本の製造業では、人手不足への対応、生産性の向上、品質管理の高度化を目的として、工場自動化やロボット技術の導入が進められています」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html）
+  - 「これらの供給は国際的な資源開発、精製能力、輸出政策、地政学的情勢などの影響を受けるため、価格変動や供給制約が製造コストに直結する可能性があります」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html）
+  - 「特に日本は希土類原材料の輸入への依存度が高く、安定した調達体制の構築が磁石メーカーと需要企業の双方にとって重要な課題となっています」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html）
+  - 「中国が2024年から2025年にかけてジスプロシウム、テルビウム、その他の重希土類に対する輸出規制を導入したことは、調達戦略を再構築し、欧米の自動車メーカーや風力タービンOEMが新たな供給ラインを確保し、国内での磁石生産に投資する動きを加速させています」（https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/）
+  - 「1. 希土類価格の変動と輸出規制:」（https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/）
+  - 「このプロセスが商業化されれば、生産者はジスプロシウムの投入量を削減でき、供給制約を緩和し、モビリティおよび電力部門での幅広い採用を支援する可能性があります」（https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/）
+  - 「不足により国内材料の価値が高まり、世界の供給におけるこの地域の牽引力を強化しています」（https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/）
+- 政策・予算：
+  - 「我々は戦略および成長分析の洞察を提供し、企業の目標達成に必要なデータを提供し、将来の機会の活用を支援します」（https://newscast.jp/smart/news/9399503）
+  - 「我々は戦略および成長分析の洞察を提供し、企業の目標達成に必要なデータを提供し、将来の機会の活用を支援します」（https://www.atpress.ne.jp/news/9399503）
+  - 「我々は戦略および成長分析の洞察を提供し、企業の目標達成に必要なデータを提供し、将来の機会の活用を支援します」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1185794.html）
+  - 「2024年の予算を無駄にしないでください！」（https://www.reportocean.co.jp/industry-reports/permanent-magnet-market）
+  - 「残りの予算を活用して、将来の成功を確かなものにしましょう」（https://www.reportocean.co.jp/industry-reports/permanent-magnet-market）
+  - 「今すぐ予算を確保しよう！」（https://www.reportocean.co.jp/industry-reports/permanent-magnet-market）
+  - 「2024年の予算を2025年の実用的な」（https://www.reportocean.co.jp/industry-reports/permanent-magnet-market）
+  - 「2024年の予算が失効する前に、 最大限に活用しよう!」（https://www.reportocean.co.jp/industry-reports/permanent-magnet-market）
+  - 「将来の成功のために予算を活用しましょう」（https://www.reportocean.co.jp/industry-reports/permanent-magnet-market）
+  - 「ご予算を最大限に活用するために、今すぐご登録ください」（https://www.reportocean.co.jp/industry-reports/permanent-magnet-market）
+  - 「2024年の予算を最大限に活用する お手伝いをいたします!」（https://www.reportocean.co.jp/industry-reports/permanent-magnet-market）
+  - 「米国エネルギー省は、太平洋岸北西部国立研究所の溶媒フリー分離技術を支援しており、高純度でネオジムとジスプロシウムを回収しています」（https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/）
+  - 「このプロセスが商業化されれば、生産者はジスプロシウムの投入量を削減でき、供給制約を緩和し、モビリティおよび電力部門での幅広い採用を支援する可能性があります」（https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/）
+  - 「自律走行車プロセッサ市場規模、シェアおよびトレンド分析レポート：車両タイプ別（乗用車、商用車）、自律レベル別（レベル1、レベル2、レベル3、レベル4、レベル5）、アプリケーション別（高度運転支援システム（ADAS）、自律運転、車載インフォテインメントシステム、リアルタイムデータ処理、車両間通信（V2X））および地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測、2026-2034」（https://www.marketresearch.co.jp/insights/permanent-magnet-market-mordor/）
+  - 「経済安全保障の確保に資するサプライチェーンの」（https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf）
+- 検索結果の抜粋：
+  - 「日本の ネオジム 鉄ホウ素 磁石 市場、2033年まで ... - Newscast.jp — 日本の ネオジム 鉄ホウ素 磁石 市場、2033年まで ... - Newscast.jp Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/5451602）
+  - 「すぐ近くにある ネオジム磁石 - NeoMag — すぐ近くにある ネオジム磁石 - NeoMag ネオマグ株式会社 https://www.neomag.jp > mag_navi > column > world036」（https://www.neomag.jp/mag_navi/column/world036.html）
+
+## ロボット・無人機の軽量構造材（アルミ合金）（aluminum alloy for robots and drones lightweight structures）
+- 文脈：マテリアル・素材
+- 市場規模：
+  - 「航空宇宙市場での複合材料およびアルミ合金は2023年のUSD 35.2 Billionで評価されました」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「市場規模は2023年から2033年にかけて3.51%のCAGRで成長しています」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「航空宇宙市場規模のグローバル複合材料およびアルミ合金はUSD 49.7に達すると期待されます 予測期間2023〜2033年の間に3.51%のCAGRで2033年までの請求」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「の市場規模 2023:」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「USD 35.2億円」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「GGIIロボット研究所によると、ヒューマノイドロボット向けアルミニウムの世界消費量は2024年に約1万2000トン、市場規模は18億元に達すると予測されています」（https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/）
+  - 「ヒューマノイドロボット1台あたりのアルミニウム消費量を20～25kg（機体総重量の30～40%を占める）と仮定し、2030年までに世界出荷台数が500万台に達すると予測すると、アルミニウム需要は10万～12万5000トンにまで増加し、市場規模は約150億～180億元に達し、年平均成長率は45%に達すると予測されています」（https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/）
+- 成長率：
+  - 「市場規模は2023年から2033年にかけて3.51%のCAGRで成長しています」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「航空宇宙市場規模のグローバル複合材料およびアルミ合金はUSD 49.7に達すると期待されます 予測期間2023〜2033年の間に3.51%のCAGRで2033年までの請求」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「予測期間のCAGR 2023-2033 :」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「2022年2月、Sovayは、電気自動車(EV)電池の需要拡大に対応するため、欧州におけるPVDF生産能力の増強に取り組みました」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「ヒューマノイドロボット産業では、アルミニウムの需要が前年比62％増と急増し、新エネルギー車に次ぐアルミニウム応用分野の爆発的な成長分野となっている」（https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/）
+  - 「航空宇宙レベルのシナリオ拡大において、北京鉄人科技が開発した生体模倣ハニカムアルミ構造は、ハルビン工業大学によって検証され、二足歩行ロボットの胴体の重量を30%軽減し、曲げ剛性を40%向上させました」（https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/）
+  - 「ヒューマノイドロボット1台あたりのアルミニウム消費量を20～25kg（機体総重量の30～40%を占める）と仮定し、2030年までに世界出荷台数が500万台に達すると予測すると、アルミニウム需要は10万～12万5000トンにまで増加し、市場規模は約150億～180億元に達し、年平均成長率は45%に達すると予測されています」（https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/）
+- 需要量：
+  - 「適切な合金を選択するには、強度対重量比、振動減衰性、製造性、および1kgあたりのコストのバランスを取る必要がありますが、アルミニウムは極限温度性能を除くすべての指標で優れています」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「これらの特性は、5kgの産業用ドローンが壁に衝突した際に特に重要となります」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「7075-T6はσ_uts/ρ ≈ 215 kN·m/kgに達し、一般的なアルミニウムの熱処理状態の中で最も高い値を示す」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「エネルギー吸収量（1kgあたり）」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「重量25kg未満の商用および産業用UAVにおいては、アルミニウムが依然としてリスクが低く、飛行時間あたりのコストも低い選択肢となる」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「試作品や少量生産（10～5,000個）に最も一般的な方法です」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「金型コストは低く、部品1個あたりのコストは中程度です」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「大量生産（10,000個以上）に最適です」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「年間1,000～3,000台のドローン生産においては、押出成形アームとCNC加工された中央ハブを組み合わせたハイブリッド方式が、一般的に最も経済的な選択肢となります」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「3,000台を超える生産量では、カスタム押出成形による金型償却のメリットが顕著に現れます」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「一方、1,000台未満の生産量では、CNC加工されたプレートのみを使用する方が、より迅速かつ低コストで済みます」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「構造重量25kg、ペイロード重量25kgのドローンは、構造重量15kg、ペイロード重量25kgのドローンに比べて、飛行時間が半分になってしまいます」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「その結果、最新の25kgの産業用ドローンフレームは、わずか8～12kgのアルミニウムで済み、2015年に製造された同等の押出成形フレームの半分の質量で済みます」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「離陸重量25kg以下の商用および産業用ドローンでは、一般的にアルミニウムの方が経済的である」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「明台アルミ工業（601677）が開発したオールアルミ柱体材料は、スプレー堆積成形技術を採用し、放熱器アルミ材の熱伝導率を240W/(m・K)まで高め、玉樹科技のH1ヒューマノイドロボットの駆動システムとして大量供給されています」（https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/）
+- 部品構成比・単価：
+  - 「予測期間2023〜2033の最大の市場シェアを占めるアルミニウム合金セグメント」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「予測期間2023〜2033年で最大の市場シェアを占める商用航空機セグメント」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「一般的な商用ドローンにおいて、フレームのコストは部品表全体の8～18%を占める」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「特注押出金型は1,500～5,000ドルかかりますが、部品単価は低く抑えられます」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「ヒューマノイドロボット1台あたりのアルミニウム消費量を20～25kg（機体総重量の30～40%を占める）と仮定し、2030年までに世界出荷台数が500万台に達すると予測すると、アルミニウム需要は10万～12万5000トンにまで増加し、市場規模は約150億～180億元に達し、年平均成長率は45%に達すると予測されています」（https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/）
+  - 「一部のカスタマイズ製品の単価は80,000元/トンを超え、工業用アルミ材の平均価格（22,000元/トン）を大幅に上回っています」（https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/）
+- 主要供給元・シェア：
+  - 「サプライヤーがカーボン繊維、樹脂およびアルミ合金を提供する原料の調達から始まります」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「この後、メーカーは高度なエンジニアリングと設計プロセスを活用して、航空機部品を作成し、重量削減と構造的完全性に焦点を当てています」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「燃費効率の高い航空機の需要の増加は、高強度から重量比のために重要な利点を提供する複合材料を求めるメーカーを促しています」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「次世代の航空機を設計するメーカーとして、重量削減、燃費の効率性を優先し、構造の完全性を改善しました」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「また、コンポジットとアルミ合金の統合により、メーカーは環境規制を遵守し、より軽量な航空機が排出削減に貢献します」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「地域は、ボーイングやエアバスなどの主要な航空機メーカーに拠点を置き、燃料効率を高め、排出量を削減する高度な材料をますます統合しています」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「国際メーカーと現地サプライヤーとのコラボレーションも、サプライチェーンと生産能力を強化しています」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「予測期間2023〜2033の最大の市場シェアを占めるアルミニウム合金セグメント」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「航空機メーカーは、燃費の効率性を高め、排出を削減するために努力しているため、高度アルミニウム合金は、エアフレーム、翼、およびその他の重要なコンポーネントでますます活用されています」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「予測期間2023〜2033年で最大の市場シェアを占める商用航空機セグメント」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「航空会社は、運用コストを削減するよう努めているため、メーカーは軽量複合材料と航空機設計に高度なアルミ合金を組み込んでいます」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「低コストのキャリアの拡大と新興市場での航空輸送の拡大は、新しい商用航空機のさらなる燃料供給需要です」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「欧州のドローンメーカーが採用している、鍛造アルミニウム製品に関する国際規格」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「華暁合金は、ドローン、ロボット、UAVメーカー向けに、アルミニウム板、シート、押出材、CNC加工フレーム部品を提供しています」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「現在、多くのロボットおよびドローンメーカーは、ボルト締めまたはスナップフィット接続を採用することで、フレームの迅速な回収を可能にし、製品寿命後の分解を前提とした設計を行っています」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+- 日本企業の位置：
+  - 「Japanese」（https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/）
+  - 「JA - 日本語」（https://pr.mono.ipros.com/tenhiko/news/detail/196627/）
+  - 「純国産カヌープロジェクト」（https://www.techlab-coltd.com/service/case/cfrp-precision-machining）
+  - 「における情報を集めた国内最大級の技術データベースサイトです」（https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/）
+  - 「航空宇宙に不可欠なアルミ合金 – 日本を代表するアルミメーカー UACJグループ – SPACE Media」（https://spacemedia.jp/technology-and-engineering/2098）
+  - 「航空宇宙に不可欠なアルミ合金 – 日本を代表するアルミメーカー UACJグループ」（https://spacemedia.jp/technology-and-engineering/2098）
+  - 「国内では43拠点を展開し、アルミ板のシェアは約50％で1位です」（https://spacemedia.jp/technology-and-engineering/2098）
+  - 「そして現在、H-2ロケットからH-2Aロケット、H-2Bロケット、H3ロケットとイプシロンロケットに至るまで、国産ロケットの構造材に用いられるアルミニウムを納入しています」（https://spacemedia.jp/technology-and-engineering/2098）
+  - 「日本の宇宙開発の初期から携われていたのですね」（https://spacemedia.jp/technology-and-engineering/2098）
+  - 「私たちは国内最大級の油圧プレスを持っており、その」（https://spacemedia.jp/technology-and-engineering/2098）
+  - 「また宇宙分野での技術に関して言うと、国内で最大のリングを作ることができ、これはロケットの補助ブースターに用いられます」（https://spacemedia.jp/technology-and-engineering/2098）
+  - 「純国産ロケットということで私たちも貢献していきたいです」（https://spacemedia.jp/technology-and-engineering/2098）
+  - 「ロケットの射場も少しずつ増えてきており、これからロケットの打上げが活発になっていくにあたり、大きいロケットにも小さいロケットにも対応して、そのベースを担う会社として日本の宇宙産業を支えていきたいです」（https://spacemedia.jp/technology-and-engineering/2098）
+  - 「RX Japan合同会社」（https://spacemedia.jp/technology-and-engineering/2098）
+  - 「参考文献 野村幸弘: 日本複合材料学会誌, 33 巻, 5 号(2007), 191-195」（https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf）
+- 供給制約・不足：
+  - 「と剛性が不足する」（https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf）
+  - 「薄い板材だと十分なねじ山の数を確保できず、締結力が不足して緩んでしまう」（https://www.seljapan.co.jp/blog/processing/a36）
+  - 「従来のバーリング加工の場合、薄い板や柔らかい素材では十分なねじ山を確保するのが難しく、締結力が不足する原因となっていました」（https://www.seljapan.co.jp/blog/processing/a36）
+  - 「△強度不足によるトラブルリスク」（https://www.seljapan.co.jp/blog/processing/a36）
+  - 「例えば、バーリング加工で強度不足のねじを使用した場合で考えてみましょう」（https://www.seljapan.co.jp/blog/processing/a36）
+  - 「信頼性の高い部品であるセルフクリンチングファスナーを採用すれば、製品の品質を安定させ、強度不足に起因するさまざまなトラブルを回避できます」（https://www.seljapan.co.jp/blog/processing/a36）
+  - 「バーリング加工が持つ「強度不足」「材質の制限」「寸法精度の課題」といった限界に対し、セルフクリンチングファスナーは明確な解決策を提示します」（https://www.seljapan.co.jp/blog/processing/a36）
+  - 「部品コストという初期投資は発生しますが、強度不足による市場トラブルのリスクを未然に防ぎ、製品全体の品質と信頼性を向上させるという視点では、トータルコストの削減に繋がる極めて合理的な選択といえるでしょう」（https://www.seljapan.co.jp/blog/processing/a36）
+- 政策・予算：
+  - 「最後に、アルミニウム合金と原材料の価格を変動させることで、予算やプロジェクトの実現可能性に影響を及ぼし、航空宇宙製造に複雑性を付加できます」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「政府は、持続可能な航空の投資とともに、研究開発を支援し、市場成長を促進します」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「航空宇宙への取り組みのための政府の支援, 増加する使い捨て収入と都市化と相まって, さらなる高度な材料の需要を強化します」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「また、製造技術の進歩は、生産プロセスを強化し、より迅速な納期を可能にし、グローバルな航空宇宙市場におけるセグメントの拡大を支援しています」（https://www.sphericalinsights.com/jp/reports/composite-materials-and-aluminum-alloys-in-aerospace-market）
+  - 「地方レベルでは、上海市は2024年11月に20億元の特別基金を設立し、高性能アルミニウム材料を含むヒューマノイドロボットの中核材料の研究と産業化を支援する予定だ」（https://www.aviationaluminum.com/ja/news/metal-materials-for-humanoid-robots-application-and-market-prospects-of-aluminum/）
+  - 「テックラボの試作・開発支援」（https://www.techlab-coltd.com/service/case/cfrp-precision-machining）
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/）
+  - 「戦略的基盤技術高度化・連携支援事業」（https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf）
+  - 「戦略的基盤技術高度化支援事業」（https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf）
+  - 「静岡県工業技術研究所 浜松工業技術支援センター」（https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf）
+  - 「浜松工業技術支援センター」（https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2931806010h.pdf）
+  - 「精密な組み立て精度が求められる内視鏡や手術支援ロボット、各種検査装置などで採用されています」（https://www.seljapan.co.jp/blog/processing/a36）
+
+## ロボット・無人機のマグネシウム合金（magnesium alloy robots drones demand）
+- 文脈：マテリアル・素材
+- 市場規模：
+  - 「民生用電子機器向けマグネシウム合金の世界市場（2026年～2032年）、市場規模（鋳造合金、鍛造合金、その他）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/smart/news/7012785）
+  - 「民生用電子機器向けマグネシウム合金の世界市場（2026年～2032年）、市場規模（鋳造合金、鍛造合金、その他）・分析レポートを発表」（https://newscast.jp/smart/news/7012785）
+  - 「世界の民生用電子機器向けマグネシウム合金市場規模は、2025年の5億2,500万米ドルから2032年には7億8,000万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.9%で成長すると見込まれています」（https://newscast.jp/smart/news/7012785）
+  - 「2021年から2026年までの地理的地域別および国/地域別の年間売上高と年間収益の市場規模データが含まれています」（https://newscast.jp/smart/news/7012785）
+  - 「2027年から2032年までの地域別の市場規模予測と年間収益予測に加え、アメリカ地域、APAC地域、ヨーロッパ地域、中東およびアフリカ地域における国別の予測、さらにタイプ別および用途別の世界予測が提供されています」（https://newscast.jp/smart/news/7012785）
+  - 「市場全体の年間売上高は2026年の148億ドルから2046年には2,336億ドルに拡大し、年間販売台数は約490万台に達する見通しです」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「本調査レポートでは、バッテリー需要（MWh）と市場規模（単位：100万ドル）の10年間の詳細予測を提供するとともに、ヒューマノイドロボット向けのバッテリー技術、正極材、各用途の主な市場参入企業についても徹底分析しています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「自動車、物流、家庭用の各用途にわたるヒューマノイドロボット市場は、今後5年で急拡大し、2030年代初めまでに約250億ドル規模に達する見通しですが、その後、成長は緩やかになり、市場は2036年にかけて徐々に飽和状態（295億ドル）に向かうと予想されています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「2035年までに50億ドル規模近くまで成長が予測されるインキャビンセンシングとADASにおけるIRカメラ技術の市場機会と用途を明らかにしています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「2019年以降の地域別（中国、欧州、米国、その他の地域）の販売実績データと、2024年から2044年までの市場予測を掲載し、ロボシャトルと自動運転バスの市場が2044年までに670億ドルを超える規模に成長すると予測するなど、大きな機会があることを明らかにしています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「自動運転トラック市場が2044年までに1200億ドルを超える規模に成長すると予測するなど、大きな機会があることを明らかにしています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「自動車向けLiDAR市場は2034年までに95億ドル規模に成長する見込みです」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「29種類のロボットとアプリケーションとセンサータイプ別に、各種センサーの年間販売台数と市場規模の予測を提供し、今後20年間でもっとも急速に伸びるセンサーやロボットアプリケーションを明確に把握することができます」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「本レポートは、ヒューマノイドロボット用金属材料の世界市場に関する詳細かつ包括的な分析であり、2025年を基準年として、市場規模（トンおよび百万米ドル）と前年比成長率を提供します」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+  - 「(1) ヒューマノイドロボット用金属材料の世界市場規模、過去データ2021-2025年、および予測データ2026-2032年（百万米ドル）および（トン）」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+- 成長率：
+  - 「世界の民生用電子機器向けマグネシウム合金市場規模は、2025年の5億2,500万米ドルから2032年には7億8,000万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.9%で成長すると見込まれています」（https://newscast.jp/smart/news/7012785）
+  - 「市場全体の年間売上高は2026年の148億ドルから2046年には2,336億ドルに拡大し、年間販売台数は約490万台に達する見通しです」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「自動車、物流、家庭用の各用途にわたるヒューマノイドロボット市場は、今後5年で急拡大し、2030年代初めまでに約250億ドル規模に達する見通しですが、その後、成長は緩やかになり、市場は2036年にかけて徐々に飽和状態（295億ドル）に向かうと予想されています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「IDTechExは、農業、物流、点検、軍事、緊急対応での商用利用の拡大が追い風となり、世界のドローン市場は2036年にかけて大きな成長を遂げると予測しています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「ヒューマノイドロボット用金属材料のグローバル市場は、2025年の255万米ドルから2032年までに5,773万米ドルへ成長すると予測されており、2026年から2032年の期間における年平均成長率（CAGR）は48.8%です」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+  - 「2025年10月9日、中国の公告第61号は、特定の希土類品目および希土類永久磁石を含む製品への輸出規制を拡大しました」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+  - 「一方、2025年10月後半にはLynasがマレーシアでの重希土類分離能力拡大への投資を発表しました」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+  - 「本レポートは、ヒューマノイドロボット用金属材料の世界市場に関する詳細かつ包括的な分析であり、2025年を基準年として、市場規模（トンおよび百万米ドル）と前年比成長率を提供します」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+  - 「(5) ヒューマノイドロボット用金属材料の世界の主要生産地域、生産能力、生産量、および前年比成長率」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+  - 「第4章：ヒューマノイドロボット用金属材料の世界の主要生産地域、割合とCAGR、2021-2032年」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+  - 「第6章：タイプ別セグメント、販売数量、平均価格、消費額、割合とCAGR、2021-2032年」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+  - 「第7章：用途別セグメント、販売数量、平均価格、消費額、割合とCAGR、2021-2032年」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+  - 「第8章：地域レベルでのセグメント、販売数量、平均価格、消費額、割合とCAGR、2021-2032年」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+  - 「第9章：国レベルでのセグメント、販売数量、平均価格、消費額、割合とCAGR、2021-2032年」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+  - 「7.2 用途別、世界の人型ロボット金属材料消費額とCAGR、2021年 vs 2025年 vs 2032年」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+- 需要量：
+  - 「2021年から2026年までのAPAC地域の国/地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾を含む）の売上高と収益、タイプ別売上高、用途別売上高の詳細な分析が提供されています」（https://newscast.jp/smart/news/7012785）
+  - 「IDTechExの一次調査、企業の開示情報、出荷情報、独自の市場モデリングに基づき、製品アーキテクチャ、実現技術、ビジネスモデル、企業動向、導入障壁を評価し、2046年までの年間売上高、販売台数、平均販売価格も予測しています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「市場全体の年間売上高は2026年の148億ドルから2046年には2,336億ドルに拡大し、年間販売台数は約490万台に達する見通しです」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「また、車載ソフトウェア業界の今後20年間の地域別・SAE自動運転レベル別に金額（単位：ドル）と年間販売台数の予測も掲載しています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「20年間の予測を掲載し、乗用車向けADAS市場の地域別内訳を、金額（単位：ドル）と年間販売台数の予測とともにご覧いただけます」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「2024年の車載用レーダーの出荷台数は1億4000万台を突破する見込みですが、成長の余地はまだあります」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「レーダーの成長と技術進化は、IDTechExの20年間の市場予測に反映されており、販売台数、収益、仮想チャンネル数別レーダー、レーダートランシーバー半導体技術、レーダーの周波数帯、車載用レーダー向け低損失材料をカバーしています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「また、自動車業界の今後20年間について、地域別・SAE自動運転レベル別に金額（単位：ドル）と年間販売台数の予測も掲載しています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「自動車関連に焦点を当てながら、LiDARの台数および市場価値について10年間の市場予測を出しています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「29種類のロボットとアプリケーションとセンサータイプ別に、各種センサーの年間販売台数と市場規模の予測を提供し、今後20年間でもっとも急速に伸びるセンサーやロボットアプリケーションを明確に把握することができます」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「適切な合金を選択するには、強度対重量比、振動減衰性、製造性、および1kgあたりのコストのバランスを取る必要がありますが、アルミニウムは極限温度性能を除くすべての指標で優れています」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「これらの特性は、5kgの産業用ドローンが壁に衝突した際に特に重要となります」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「7075-T6はσ_uts/ρ ≈ 215 kN·m/kgに達し、一般的なアルミニウムの熱処理状態の中で最も高い値を示す」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「エネルギー吸収量（1kgあたり）」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「重量25kg未満の商用および産業用UAVにおいては、アルミニウムが依然としてリスクが低く、飛行時間あたりのコストも低い選択肢となる」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+- 部品構成比・単価：
+  - 「一般的な商用ドローンにおいて、フレームのコストは部品表全体の8～18%を占める」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「特注押出金型は1,500～5,000ドルかかりますが、部品単価は低く抑えられます」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「実用的な部品表（BOM）の視点から見ると、ヒューマノイドロボット用金属材料は3つの層に分けられます」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+- 主要供給元・シェア：
+  - 「本インサイトレポートは、世界の民生用電子機器向けマグネシウム合金市場の全体像を包括的に分析し、製品セグメンテーション、企業動向、収益、市場シェア、最新動向、M&A活動に関連する主要なトレンドを明らかにします」（https://newscast.jp/smart/news/7012785）
+  - 「また、本レポートでは、世界的な主要企業の戦略を分析し、特に民生用電子機器向けマグネシウム合金のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、加速する世界的な民生用電子機器向けマグネシウム合金市場におけるこれらの企業の独自の立場をより深く理解できるようにしています」（https://newscast.jp/smart/news/7012785）
+  - 「本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、民生用電子機器向けマグネシウム合金市場の包括的な概要、市場シェア、成長機会を提示しています」（https://newscast.jp/smart/news/7012785）
+  - 「各セグメントでは、2021年から2026年までの世界売上市場シェア、収益と市場シェア、販売価格の詳細なデータが示されています」（https://newscast.jp/smart/news/7012785）
+  - 「2021年から2026年までの企業別の年間売上高、売上市場シェア、年間収益、収益市場シェア、および販売価格が網羅されています」（https://newscast.jp/smart/news/7012785）
+  - 「また、主要メーカーの生産地域分布、販売地域、提供される製品タイプ、競争状況分析を含む市場集中度分析（CR3、CR5、CR10の集中度を2024年から2026年まで）、新製品情報、潜在的参入企業、市場のM&A活動と戦略に関する情報も含まれています」（https://newscast.jp/smart/news/7012785）
+  - 「原材料とそのサプライヤー、詳細な製造コスト構造、製造プロセス、および産業チェーン構造に関する情報が提供されています」（https://newscast.jp/smart/news/7012785）
+  - 「第13章には、Luxfer、U.S. Magnesium、Dead Sea Magnesium、Yunhai Special Metals、Regal Magnesium、Magontec、Zhenxin Magnesium、Shanxi Bada Magnesium、Yinguang Huasheng Magnesium、Huashun Magnesium、Shaanxi Tianyu Magnesiumといった主要企業の詳細な分析が含まれています」（https://newscast.jp/smart/news/7012785）
+  - 「ニュースのシェア」（https://newscast.jp/smart/news/7012785）
+  - 「希土類磁石(レア・アースマグネット) 2027-2037年：技術、供給、市場、予測」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「現在の市場成長段階は、高性能材料や部品サプライヤーに数多くの機会をもたらしています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「全面的に改訂した世界の規制分析や100ページを超える用途レベルの調査に裏付けされた本レポートは、業界関係者（ドローンメーカー、運用事業者、投資家、規制当局）にとって、市場機会がどこにあるか、規制の枠組みが導入に与える影響、今後10年のUAVのイノベーションを形作る可能性が最も高い技術などについて理解を深める上で役立つ内容となっています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「大手自家用車メーカーの技術だけでなく、そのシステムをサポートするADAS用ハードウェア・ソフトウェアのサプライヤーについても深い洞察を得ることができます」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「さらに、AI機能とSDVの機能（バイタルサインモニタリング、スマートインテリア、インフォテインメントなど）の統合、ハードウェアのコスト削減、既存のインキャビンセンサーを活用した機能拡張とその収益化など、自動車メーカーの最新トレンドも取り上げています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「本レポートは、大手乗用車メーカーの技術や、商用ロボタクシーの開発と展開の現状について深い洞察を提供しています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+- 日本企業の位置：
+  - 「2021年から2026年までのAPAC地域の国/地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾を含む）の売上高と収益、タイプ別売上高、用途別売上高の詳細な分析が提供されています」（https://newscast.jp/smart/news/7012785）
+  - 「・日本語タイトル：民生用電子機器向けマグネシウム合金の世界市場2026年～2032年」（https://newscast.jp/smart/news/7012785）
+  - 「ASIA (Japan and Korea):」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「Japanese」（https://www.pans-cnc.com/ja/materials_nowledge/magnesium-alloys-in-aerospace/）
+  - 「マクルウ、自律飛行型ドローン用マグネシウム合金パイプを用いた溶接機体の開発で日本マグネシウム協会賞「技術賞」を受賞 – DRONE.jp」（https://drone.jp/news/2019061816203126969.html）
+  - 「マクルウ、自律飛行型ドローン用マグネシウム合金パイプを用いた溶接機体の開発で日本マグネシウム協会賞「技術賞」を受賞」（https://drone.jp/news/2019061816203126969.html）
+  - 「株式会社マクルウは、一般社団法人日本マグネシウム協会による平成30年度（第22回）日本マグネシウム協会賞「技術賞」を受賞した」（https://drone.jp/news/2019061816203126969.html）
+  - 「日本マグネシウム協会賞「技術賞」は、マグネシウムの生産・加工、製品の製造などに関係した優れた技術研究を対象とし、独創性、新規性のある用途開発、技術・設備の開発と導入などを行った、個人または法人に贈られるもの」（https://drone.jp/news/2019061816203126969.html）
+  - 「マクルウによる「自律飛行型ドローン用マグネシウム合金パイプを用いた溶接機体の開発」が同賞に選出され、2019年6月13日に學士會館（東京都千代田区）で開催された日本マグネシウム協会第11回通常総会において表彰式が行われた」（https://drone.jp/news/2019061816203126969.html）
+  - 「また、日本マグネシウム協会主催技術講演会「マグネシウム製品の開発秘話と最前線」（2019年6月28日、京橋区民館）にて、「産業用ドローンの機体にマグネシウム合金パイプが採用される3つの理由」と題し、同技術について講演を行う予定」（https://drone.jp/news/2019061816203126969.html）
+  - 「主催：一般社団法人日本マグネシウム協会」（https://drone.jp/news/2019061816203126969.html）
+  - 「Quantum Systems、日本法人設立で無人機の国産サプライチェーン構築へ」（https://drone.jp/news/2019061816203126969.html）
+  - 「日本の防衛・無人機ニーズを支援」（https://drone.jp/news/2019061816203126969.html）
+  - 「DRONE.jp（https://drone.jp/、以下本サイト）は、ドローンやマルチコプターについての本格的な解説やおすすめ、最新情報を発信する日本初のメディアとして、「Explore the Future」をタグラインに2015年スタートしました」（https://drone.jp/news/2019061816203126969.html）
+  - 「2022年、時代とテクノロジーの急速な進化を押さえ、ドローンを起点に、「空飛ぶクルマ」、「自動運転」、「AI」、「ロボティクス」、「電気自動車（EV）」、「宇宙関連」など、時代を変えていく国内外のテクノロジーについて、幅広くみなさまにお伝えします」（https://drone.jp/news/2019061816203126969.html）
+- 供給制約・不足：
+  - 「権限不足のため、フォローできません」（https://www.nikkei.com/article/DGXMZO52456040R21C19A1L61000/）
+  - 「2025年10月9日、中国の公告第61号は、特定の希土類品目および希土類永久磁石を含む製品への輸出規制を拡大しました」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+  - 「成長は、（i）一体鋳造と薄肉構造設計（腐食と品質の安定性が成熟するにつれて、マグネシウムへの慎重なシフトも含む）、（ii）より清浄な鋼材と長寿命軌道面/歯車表面工学、および（iii）高周波動作のためのより薄い電磁鋼板と、重希土類への依存度を減らしつつ高温安定性を向上させる磁石配合に集中しています」（https://www.globalresearch.jp/humanoid-robots-metal-materials-global-yhr26ap0742）
+  - 「レアアースの中国依存リスクは甚大」（https://www.dlri.co.jp/files/macro/556237.pdf）
+  - 「レアアース輸出規制強化方針で改めて明確になった“中国独占”のリスク」（https://www.dlri.co.jp/files/macro/556237.pdf）
+  - 「2025年10月 9日に中国政府が公表したレアアースに関する新たな輸出規制（中国商務部公告2025」（https://www.dlri.co.jp/files/macro/556237.pdf）
+  - 「「外国為替及び外国貿易法」に基づいて、一部の高性能な半導体製造装置の輸出規制の強化などを行」（https://www.dlri.co.jp/files/macro/556237.pdf）
+  - 「● 10 月に中国政府が発表したレアアースに関する新たな輸出規制は、その影響の大きさから米国が強く」（https://www.dlri.co.jp/files/macro/556237.pdf）
+  - 「とはいえ、新たな輸出規制は産業情報が中国政府に筒抜けになることを」（https://www.dlri.co.jp/files/macro/556237.pdf）
+  - 「意味するほか、中国政府が独自の基準に照らして輸出規制などを行ってきたこれまでの経緯から判断」（https://www.dlri.co.jp/files/macro/556237.pdf）
+  - 「（図表1）「海外関連レアアース物品の輸出規制実施に関する決定」（一部抜粋）」（https://www.dlri.co.jp/files/macro/556237.pdf）
+- 政策・予算：
+  - 「乗用車向けADAS市場に関するIDTechExの本調査レポートでは、レベル2、レベル2+、レベル3の乗用車を対象に、ADAS（先進運転支援システム）市場を技術と市場の観点から包括的に分析しています」（https://www.idtechex.com/ja/reports/robotics-and-autonomy/99）
+  - 「パンズ教育基金」（https://www.pans-cnc.com/ja/materials_nowledge/magnesium-alloys-in-aerospace/）
+  - 「マグネシウム合金の価格上昇は、航空宇宙製造の全体予算に影響を与える」（https://www.pans-cnc.com/ja/materials_nowledge/magnesium-alloys-in-aerospace/）
+  - 「5 慶応大学学生 宇宙エレベータに軽量部品を提供支援」（https://sagamirobot.pref.kanagawa.jp/matchingdb/project/detail10.html）
+  - 「日本の防衛・無人機ニーズを支援」（https://drone.jp/news/2019061816203126969.html）
+  - 「米 イスラエル支援を打ち切りへ」（https://news.livedoor.com/article/detail/16317718/）
+  - 「「マネーフォワード ME」がMetaのAI「Muse」と連携、家計の見直しや貯蓄計画を支援」（https://news.livedoor.com/article/detail/16317718/）
+
+## ロボット・無人機のチタン部材（titanium components robots drones）
+- 文脈：マテリアル・素材
+- 市場規模：
+  - 「本レポートは、人型ロボット用金属材料の世界市場に関する詳細かつ包括的な分析であり、2025年を基準年として、市場規模（トンおよび百万USドル）と前年比成長率を提供します」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「(1) 人型ロボット用金属材料の世界市場規模、過去データ2021-2025年、および予測データ2026-2032年（百万USドル）および（トン）」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「1.2 世界のヒューマノイドロボット用金属材料市場規模と予測」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「1.2.1 消費額別、世界のヒューマノイドロボット用金属材料市場規模、2021-2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「1.2.2 販売数量別、世界のヒューマノイドロボット用金属材料市場規模、2021-2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「1.3 日本のヒューマノイドロボット用金属材料市場規模と予測」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「1.3.1 消費額別、日本のヒューマノイドロボット用金属材料市場規模、2021-2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「1.3.2 販売数量別、日本のヒューマノイドロボット用金属材料市場規模、2021-2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「1.4.3 ヒューマノイドロボット用金属材料市場規模：日本対世界、2021-2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「8.4.1 北米のヒューマノイドロボット用金属材料市場規模と予測、2021-2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「8.4.2 国別、北米のヒューマノイドロボット用金属材料市場規模と市場シェア」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「8.5.1 ヨーロッパのヒューマノイドロボット用金属材料市場規模と予測、2021-2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「8.5.2 国別、ヨーロッパのヒューマノイドロボット用金属材料市場規模と市場シェア」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「8.6.1 アジア太平洋のヒューマノイドロボット用金属材料市場規模と予測、2021-2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+- 成長率：
+  - 「人型ロボット用金属材料の世界市場は、2025年の255万USドルから2032年までに5,773万USドルへ成長し、2026年から2032年の期間における年平均成長率（CAGR）は48.8%となる見込みです」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「2025年10月9日には、中国の通知第61号が特定のレアアース品目およびレアアース永久磁石を含む製品への輸出管理を拡大し、2025年10月下旬にはLynasがマレーシアでの重レアアース分離能力を拡大するための投資を発表しました」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「本レポートは、人型ロボット用金属材料の世界市場に関する詳細かつ包括的な分析であり、2025年を基準年として、市場規模（トンおよび百万USドル）と前年比成長率を提供します」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「(5) 人型ロボット用金属材料の主要生産地域、生産能力、生産量、前年比成長率」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「第4章：人型ロボット用金属材料の世界主要生産地域、割合およびCAGR、2021-2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「第6章：タイプ別セグメント、販売量、平均価格、消費額、割合およびCAGR、2021-2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「第7章：アプリケーション別セグメント、販売量、平均価格、消費額、割合およびCAGR、2021-2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「第8章：地域レベル別セグメント、販売量、平均価格、消費額、割合およびCAGR、2021-2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「第9章：国レベル別セグメント、販売量、平均価格、消費額、割合およびCAGR、2021-2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「7.2 アプリケーション別、世界のヒューマノイドロボット用金属材料消費額とCAGR、2021年対2025年対2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「9.1 国別、世界のヒューマノイドロボット用金属材料市場規模とCAGR、2021年対2025年対2032年」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「Table 1. 人型ロボット向け金属材料の消費額とCAGR：日本 vs 世界、2021-2032年、百万米ドル」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「Table 25. 用途別、世界の人型ロボット向け金属材料の消費額とCAGR、2021年 vs 2025年 vs 2032年、百万米ドル」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「Table 29. 国別、世界の人型ロボット向け金属材料の消費額とCAGR、2021年 vs 2025年 vs 2032年、百万米ドル」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「7.2 by Application, Global Metal Materials for Humanoid Robots Consumption Value & CAGR, 2021 VS 2025 VS 2032」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+- 需要量：
+  - 「複雑な形状や1000分台レベルの高度な加工精度が求められる製品もお任せください」（https://www.ofa-titanium.com/titaniumProblemSolution.php）
+  - 「適切な合金を選択するには、強度対重量比、振動減衰性、製造性、および1kgあたりのコストのバランスを取る必要がありますが、アルミニウムは極限温度性能を除くすべての指標で優れています」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「これらの特性は、5kgの産業用ドローンが壁に衝突した際に特に重要となります」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「7075-T6はσ_uts/ρ ≈ 215 kN·m/kgに達し、一般的なアルミニウムの熱処理状態の中で最も高い値を示す」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「エネルギー吸収量（1kgあたり）」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「重量25kg未満の商用および産業用UAVにおいては、アルミニウムが依然としてリスクが低く、飛行時間あたりのコストも低い選択肢となる」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「試作品や少量生産（10～5,000個）に最も一般的な方法です」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「金型コストは低く、部品1個あたりのコストは中程度です」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「大量生産（10,000個以上）に最適です」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「年間1,000～3,000台のドローン生産においては、押出成形アームとCNC加工された中央ハブを組み合わせたハイブリッド方式が、一般的に最も経済的な選択肢となります」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「3,000台を超える生産量では、カスタム押出成形による金型償却のメリットが顕著に現れます」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「一方、1,000台未満の生産量では、CNC加工されたプレートのみを使用する方が、より迅速かつ低コストで済みます」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「構造重量25kg、ペイロード重量25kgのドローンは、構造重量15kg、ペイロード重量25kgのドローンに比べて、飛行時間が半分になってしまいます」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「その結果、最新の25kgの産業用ドローンフレームは、わずか8～12kgのアルミニウムで済み、2015年に製造された同等の押出成形フレームの半分の質量で済みます」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「離陸重量25kg以下の商用および産業用ドローンでは、一般的にアルミニウムの方が経済的である」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+- 部品構成比・単価：
+  - 「一般的な商用ドローンにおいて、フレームのコストは部品表全体の8～18%を占める」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「特注押出金型は1,500～5,000ドルかかりますが、部品単価は低く抑えられます」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+- 主要供給元・シェア：
+  - 「弊社は多数の欧米他メーカーとのネットワークを持ち、64チタン合金をはじめとしたチタン材を調達から加工までご提案させていただきます」（https://www.ofa-titanium.com/titaniumProblemSolution.php）
+  - 「代表的なチタン合金である64チタン合金（Ti-6Al-4V）は引張強度895MPa以上、その他にも冷間加工性に優れたβチタン合金（15-3-3-3等）やメーカー独自合金もあります」（https://www.ofa-titanium.com/titaniumProblemSolution.php）
+  - 「欧州のドローンメーカーが採用している、鍛造アルミニウム製品に関する国際規格」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「華暁合金は、ドローン、ロボット、UAVメーカー向けに、アルミニウム板、シート、押出材、CNC加工フレーム部品を提供しています」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「現在、多くのロボットおよびドローンメーカーは、ボルト締めまたはスナップフィット接続を採用することで、フレームの迅速な回収を可能にし、製品寿命後の分解を前提とした設計を行っています」（https://ja.huaxiao-alloy.com/aluminum-alloys-robotics-drones-uav-frames-guide.html）
+  - 「チタン合金 - メーカー・企業14社の業務用製品ランキング | イプロスものづくり」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「チタン合金のメーカーや取扱い企業、製品情報、参考価格、ランキングをまとめています」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「チタン合金のメーカー・企業ランキング」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「チタン グレード2のホーローセットや小サイズのボルト、ナット等、海外メーカーから調達可能です」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「大手マフラーメーカーに採用実績多数！マフラーの軽量化を実現！」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「多くのMOTO GP車両や大手マフラーメーカーに採用されています」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「世界のチタン合金市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模、主要地域別市場規模、流通チャネル分析などの情報を収録しています」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「主要企業のチタン合金市場シェア、製品・事業概要、販売実績なども掲載しています」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「メーカー・取扱い企業」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「【調査資料】ヒューマノイドロボット用金属材料：グローバル主要企業の市場シェア2026年（合金鋼、アルミニウム合金、マグネシウム合金、チタン合金、NdFeB希土類永久磁石）」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+- 日本企業の位置：
+  - 「919年に飛行した我が国初の国産商用大型航空機C2014には、200,000万個を超える単一機械チタン加工部品が使用されていました」（https://machining-custom.com/ja/blog/aerospace-titanium-machining-parts.html）
+  - 「における情報を集めた国内最大級の技術データベースサイトです」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「航空宇宙規格から日本製鉄規格のSuper-TIXまで豊富にラインアップ」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「『Super-TIX チタン』は、日本製鉄が開発したチタン合金」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「わが国では工業用純チタンの耐食性を生かした活用が中心で発展してきたが、国内需要は年間約1万トン弱に過ぎない(世界では年間約10万トンである)」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「地域別セグメントは、北米、アメリカ、ヨーロッパ、アジア太平洋、日本、中国、インド、韓国、東南アジア、南米、中東、アフリカなどに区分して、チタン合金の市場規模を算出しました」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「※日本語翻訳版も取り扱っております」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「日本語版のSingle Userライセンスの価格は￥637,420(税別)で納期は受注後8～10営業日です」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「「英語版＋日本語版」やMulti User/Corporateライセンス価格など、詳細は別途お問い合わせください」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「※お支払金額は「換算金額（日本円）＋消費税＋配送料（Eメール納品は無料）」です」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「※上記の日本語題名はH&Iグローバルリサーチが翻訳したものです」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「英語版原本には日本語表記はありません」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「2025年7月10日、米国国防関連機関とMP Materialsは、国内のレアアース磁石能力加速のための官民パートナーシップを進めました」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「(3) 人型ロボット用金属材料の日本販売量、収益、企業別価格、市場シェア、業界ランキング2021-2026年（百万USドル）および（トン）」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+  - 「アジア太平洋（中国、日本、韓国、インド、東南アジア、オーストラリア、その他のアジア太平洋）」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+- 供給制約・不足：
+  - 「■強度不足でお困りの方」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「【純チタンの強度不足でお悩みありませんか？】64チタン合金」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「成長は、（i）一体型鋳造品と薄肉構造設計（腐食と品質の安定性が成熟するにつれてマグネシウムへの緩やかな移行を含む）、（ii）よりクリーンな鋼材と長寿命軌道面/歯面表面工学、および（iii）高周波動作のための薄い電磁鋼板と、重レアアースへの依存度を減らしつつ高温安定性を向上させる磁石配合に集中しています」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+- 政策・予算：
+  - 「25 年にわたる CNC 加工の経験を活かし、当社はインテリジェントな製造を通じてより良い生活の実現に貢献するため、お客様が 10000 もの複雑な部品加工の課題を克服できるよう支援することに全力で取り組んでいます」（https://machining-custom.com/ja/blog/aerospace-titanium-machining-parts.html）
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91/）
+  - 「AIを活用した手術支援：グローバル主要企業の市場シェア2026年（術前計画・シミュレーション、リアルタイムナビゲーション・ガイダンス、器具制御・自動化、術後結果分析）」（https://www.globalresearch.jp/metal-materials-humanoid-robots-global-yhr26ap1131）
+
+## ロボットハンド・エンドエフェクタ（robot end effector gripper market）
+- 文脈：工場無人化
+- 市場規模：
+  - 「世界のロボットエンドエフェクタ市場規模は、2025年には54億6000万米ドルと評価され、2026年の62億米ドルから2034年には171億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は13.55%となる見込みです」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「2025年の市場規模」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「2026年の市場規模」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「2034年予測市場規模」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「2025年には、ロボットエンドエフェクタ市場においてグリッパーが最大のシェアを占め、その割合は48.7%、推定市場規模は26億6000万ドルに達すると予測されています」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「加工ツールは市場の23.4%を占め、その市場規模は約12億8000万ドル、吸盤は17.6%を占め、その市場規模は約9億6000万ドルでした」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「清掃ロボット市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「家庭用ロボット市場規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「圧縮空気分配システム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「ロボットエンドエフェクタ市場 | 業界シェア 市場規模 成長性 2025 - 2030年」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「ロボットエンドエフェクタ市場規模は2025年に55億4,000万米ドルと推定され、予測期間（2025～2030年）のCAGRは13.8%で、2030年には105億8,000万米ドルに達すると予測されます」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「空圧式ロボットエンドエフェクタの市場規模、シェア、および成長分析：製品タイプ別、用途別、エンドユーザー産業別、地域別―2026年～2033年の業界予測」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「ロボットエンドエフェクタ市場規模、シェア、成長分析：エンドエフェクタタイプ別、技術別、ロボットタイプ別、最終用途産業別、地域別- 業界予測2026-2033年」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「ロボットエンドエフェクタ市場：製品タイプ別、技術別、可搬重量別、ロボットタイプ別、エンドユーザー別、国別、地域別 - 世界の業界分析、市場規模、市場シェア、予測（2026年～2033年）」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「ロボット用コンプライアンスエンドエフェクタの世界市場（2026年～2032年）、市場規模（円筒形、角形）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/4937181）
+- 成長率：
+  - 「ロボットエンドエフェクタ市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「世界のロボットエンドエフェクタ市場規模は、2025年には54億6000万米ドルと評価され、2026年の62億米ドルから2034年には171億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は13.55%となる見込みです」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「市場CAGR（2026年～2034年）」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「アジア太平洋地域の年平均成長率（2026年～2034年）」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「国際ロボット連盟の報告によると、2024年には世界中で54万2000台の産業用ロボットが設置されており、産業オートメーションの継続的な拡大を示しています」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「Eコマース分野は年平均成長率（CAGR）16.4%で最も速い成長を記録すると予測されている」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「eコマース分野は、2026年から2034年にかけて年平均成長率（CAGR）16.4%で成長し、最も急速に成長するエンドユーザーカテゴリーになると予測されています」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「ロボットエンドエフェクタ市場規模は2025年に55億4,000万米ドルと推定され、予測期間（2025～2030年）のCAGRは13.8%で、2030年には105億8,000万米ドルに達すると予測されます」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「IFRによると、2022年、中国における産業用ロボットの設置台数は過去最高の29万258台に達し、前年比5％増を記録しました」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「世界のロボット用力追従型エンドエフェクタ市場規模は、2025年の8億4,200万米ドルから2032年には14億800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.8%で成長すると見込まれています」（https://www.atpress.ne.jp/news/4937181）
+  - 「米国のロボット用フォースコンプライアンスエンドエフェクタ市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://www.atpress.ne.jp/news/4937181）
+  - 「中国のロボット用フォースコンプライアンスエンドエフェクタ市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると予測されています」（https://www.atpress.ne.jp/news/4937181）
+  - 「欧州のロボット用フォースコンプライアンスエンドエフェクタ市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています」（https://www.atpress.ne.jp/news/4937181）
+  - 「AI×ロボティクスの最前線：器用な多指ロボットハンド市場が67.5%CAGRで急拡大、ヒューマノイド需要が牽引 | NEWSCAST」（https://newscast.jp/news/7652482）
+  - 「AI×ロボティクスの最前線：器用な多指ロボットハンド市場が67.5%CAGRで急拡大、ヒューマノイド需要が牽引」（https://newscast.jp/news/7652482）
+- 需要量：
+  - 「国際ロボット連盟の報告によると、2024年には世界中で54万2000台の産業用ロボットが設置されており、産業オートメーションの継続的な拡大を示しています」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「IFRによると、2018年には世界で約28万3,000台の産業用ロボットが出荷され、2021年には25万台に減少した9」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「設置台数が最も多いのはアジア/オーストラリアで、2020年だけで26万6,000台が設置されると推定されます」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「2024年までに、アジア/オーストラリアにおける産業用ロボットの設置台数は37万台に達すると予測されています」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「国際ロボット連盟によると、稼働台数は過去最高の約100万台で、全産業における導入台数の約3分の1を占めています」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「IFRによると、2023年の世界の産業用ロボット出荷台数は約59万台で、2022年と比較してわずかな増加にとどまりました」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「産業用ロボットの出荷台数は今後数年で大幅に増加し、2026年には約71万台になると予測されています」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「IFRによると、2022年、中国における産業用ロボットの設置台数は過去最高の29万258台に達し、前年比5％増を記録しました」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「FXP-60とFMP-60は、従来の130ミリ幅バージョンとは対照的に、わずか60ミリ幅で、狭いスペースでの使用や輪郭の乱れ、個々のビームのハンドリングに最適です」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾を含む）売上高と収益、タイプ別売上高、およびアプリケーション別売上高の詳細が示されています」（https://www.atpress.ne.jp/news/4937181）
+  - 「世界の産業用ロボット導入台数は 2024 年に 542,076 台に達し、稼働台数は 466 万台に増加した」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「導入台数に占める電子機器産業の割合は 24%、自動車産業は 23% であり、ロボット需要がもはや自動車生産サイクルだけで決まるものではないことを示している」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「業務用サービスロボットは工場外の対象市場を拡大しており、2023 年の販売台数は 30% 増加し、物流および医療用途が成長を牽引した」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「同分野では、2024年に 128,899台の産業用ロボットが設置され、全体の大部分を占めた」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「韓国の製造業従業員 10,000人当たりのロボット密度は 1,220台であったのに対し、ドイツと日本はそれぞれ 449台、446台であった」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+- 部品構成比・単価：
+  - 「Washington Information Technology and Innovation Foundation（ITIF）によると、中国の労働人口に占めるロボットの割合は当初の予測を大幅に上回り、12.5倍となりました」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「導入台数に占める電子機器産業の割合は 24%、自動車産業は 23% であり、ロボット需要がもはや自動車生産サイクルだけで決まるものではないことを示している」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「Medtronic、Fanuc Corporation、Omron Corporationの市場価値に占める割合は、それぞれ 8.1%、7.1%、5.9%で、合計シェアは 21.1%となる」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「ハイブリッド型は数量18.23%、売上16.45%を占める」（https://newscast.jp/smart/news/3650668）
+  - 「伝達方式では2025年にTendon-/Cable-driven Typeが数量45.49%、Linkage-driven Typeが31.45%、Joint-Integrated Drive Typeが23.06%を占める」（https://newscast.jp/smart/news/3650668）
+  - 「世界合計と整合する2025年口径では、アジア太平洋の消費数量は約2.49万台で56.28%、欧州は約8907台で20.10%、北米は8462台で19.10%、ラテンアメリカは2.30%、中東・アフリカは2.22%を占める」（https://newscast.jp/smart/news/3650668）
+  - 「これらのセグメントのうち、グリッパーセグメントは市場で重要な位置を占めており、2037年までに市場全体の収益の約30％を占めることになります」（https://www.sdki.jp/reports/robot-end-effector-market/106722）
+  - 「アジア太平洋地域は、2037年までに市場シェアの約33％以上を占めることになります」（https://www.sdki.jp/reports/robot-end-effector-market/106722）
+- 主要供給元・シェア：
+  - 「ロボットエンドエフェクタ市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「ロボットエンドエフェクタ市場の規模、シェア、トレンド分析レポート：デバイスタイプ別（グリッパー、加工ツール、吸盤、カスタムエンドエフェクタ）、エンドユーザー別（自動車、食品・飲料、Eコマース、製薬、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「欧州は2025年に34.6%の市場シェアを占め、ロボットエンドエフェクタ市場を牽引しました」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「欧州市場シェア（2025年）」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「2025年の市場シェア」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「エンドエフェクタは、センサー、自動把持制御、およびロボットがさまざまなワークピースに対応できるソフトウェアをメーカーが統合するにつれて、よりインテリジェント化が進んでいます」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「そのため、メーカーはエンドエフェクタの軽量化とコスト効率を維持しながら、適応性の高い把持機構、より高性能なセンサー、より高度な制御システムを開発する必要がある」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「グリッパーは2025年に48.7%のシェアで市場をリードする」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「2025年には、ロボットエンドエフェクタ市場においてグリッパーが最大のシェアを占め、その割合は48.7%、推定市場規模は26億6000万ドルに達すると予測されています」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「自動車業界がエンドユーザーの中で最大のシェアを占め、全体の36.8%（約20億1000万ドル）を占めた」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「自動車メーカーは、組み立て、溶接、ハンドリング、その他の反復作業にロボットエンドエフェクターを幅広く使用し続けており、食品、医薬品、物流業界も、生産性、一貫性、ハンドリング効率を向上させる自動化ソリューションを求める企業が増えていることから、その用途が拡大している」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「世界のロボットエンドエフェクタ市場において、欧州は最大のシェアを占め、総収益の34.6%を占め、2025年には18億9,000万米ドルに達すると予測されています」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「スマートマニュファクチャリングへの投資増加は、ロボットエンドエフェクタのサプライヤーにとって新たなビジネスチャンスを生み出している」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「ロボットシステムや柔軟な生産技術への投資拡大は、エンドエフェクターメーカーにとって新たなビジネスチャンスを生み出している」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「2025年には、ヨーロッパが市場シェア34.6%を占め、市場を席巻した」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+- 日本企業の位置：
+  - 「日本のロボットエンドエフェクタ市場に関する洞察」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「日本の市場は、高度なロボット産業、確立された自動車・エレクトロニクス産業、そして自動化製造の高い普及率によって支えられています」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「日本は、その先進的なロボット産業と技術により、製造業におけるロボットとオートメーション活用の拠点とみなされています」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾を含む）売上高と収益、タイプ別売上高、およびアプリケーション別売上高の詳細が示されています」（https://www.atpress.ne.jp/news/4937181）
+  - 「・日本語タイトル：ロボット用コンプライアンスエンドエフェクタの世界市場2026年～2032年」（https://www.atpress.ne.jp/news/4937181）
+  - 「一般財団法人JR東日本文化創造財団、MoN Takanawa: The Museum of Narratives、Barbican Centre」（https://www.atpress.ne.jp/news/4937181）
+  - 「ロボットの新しいタイプのエンドエフェクターとして、器用な多指ロボットハンドはロボット研究における重要なテーマであり、近年国内外で研究の進捗が加速している」（https://newscast.jp/news/7652482）
+  - 「例えば、日本の「電子技術総合研究所」のオカダ（Okada）型の器用な多指ロボットハンド、アメリカのスタンフォード大学が開発に成功したスタンフォード／JPL 型の器用な多指ロボットハンド、マサチューセッツ工科大学とユタ大学が共同で開発したユタ／MIT 型の器用な多指ロボットハンドがある」（https://newscast.jp/news/7652482）
+  - 「日本語公式サイト：」（https://newscast.jp/news/7652482）
+  - 「インドでは、「ロボティクスに関する国家戦略案」が製造、医療、農業、国家安全保障を重点分野として特定しており、国内の能力開発と導入に向けた政策枠組みを形成している」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「韓国の製造業従業員 10,000人当たりのロボット密度は 1,220台であったのに対し、ドイツと日本はそれぞれ 449台、446台であった」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「中国市場は、製造業の基盤の厚みと国内サプライヤーの育成に支えられ、2035年には 909億7,810万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「日本は引き続きロボット技術の主要な生産・輸出拠点であり、Yaskawaの2024年度のロボット関連売上高は 2,374億円に上った」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「中国では、導入規模と国内サプライヤーの育成が多国籍ベンダーに二重の課題をもたらしている」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「Fanucのロボット部門は、2024年度に 3,296億円の売上高を記録し、日本の産業用ロボットサプライヤーが現在も大きな規模を有していることを示した」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+- 供給制約・不足：
+  - 「COVID-19パンデミックは、労働力不足、ウイルスの蔓延を制限するための製造施設の操業停止、全国的なロックダウンのため、ロボット製造の低迷につながり、ロボットエンドエフェクタ市場に大きな影響を与えました」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「人件費の上昇と人手不足」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「人手不足は、賃金水準が高く高齢化が進む製造業経済における自動化の経済的合理性をさらに高めている」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「労働力への圧力や物流処理能力に対する要件が需要を下支えする一方、統合コスト、人材不足、安全上の義務が、どのプロジェクトが生産現場に到達するかを左右する」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「溶接・はんだ付けは依然として主要な導入基盤用途であるものの、年平均成長率（CAGR）14.4%は、既存の自動車自動化サイクルへの依存度が高いことを反映している」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「産業用ロボット市場は、製造業における自動化の進展、労働力不足、精密駆動市場の拡大に対する需要の高まりにより、著しい成長が見込まれています」（https://www.zionmarketresearch.com/ja/report/industrial-robotics-market）
+  - 「生産部門における労働力不足と高騰する人件費は、今後数年間、世界の産業用ロボット市場の拡大を後押しするだろう」（https://www.zionmarketresearch.com/ja/report/industrial-robotics-market）
+  - 「熟練した人材の不足は、グローバル産業の拡大にとって課題となり得る」（https://www.zionmarketresearch.com/ja/report/industrial-robotics-market）
+  - 「相互運用性の低さと専門知識の不足は、世界の産業用ロボット産業にとって大きな課題となり得る」（https://www.zionmarketresearch.com/ja/report/industrial-robotics-market）
+  - 「世界の産業用ロボット市場は、製造業における自動化の進展、労働力不足、精密駆動市場の拡大に対する需要の高まりにより、成長が見込まれています」（https://www.zionmarketresearch.com/ja/report/industrial-robotics-market）
+  - 「これはすべて、自動化が労働力不足の問題への対処と効率性の向上にますます関与するようになっていることを示しています」（https://www.sdki.jp/reports/robot-end-effector-market/106722）
+  - 「物流・製造現場では労働力不足を背景に自動化需要が拡大し、非構造化環境下での柔軟な把持能力が評価されている」（https://note.com/yhresearch_news/n/nab82b33297ef）
+  - 「UK growers need robots to survive rising costs and shortages of seasonal workers」（https://howtorobot.com/expert-insight/robot-end-effectors）
+- 政策・予算：
+  - 「SCHUNKは、ハノーバーメッセ2026において、AIを活用したロボット工学とインテリジェントオートメーションを加速させ、産業用途向けスマートロボットエンドエフェクタの発展を支援するための複数の戦略的パートナーシップを発表した」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「彼の研究は、市場動向、技術の導入状況、競争の動向、規制の動向、成長機会の評価に焦点を当て、情報に基づいた事業および投資判断を支援することを目的としています」（https://straitsresearch.com/jp/report/robot-end-effector-market）
+  - 「著名な自動車メーカーは、溶接、塗装、フライスビット、カッター、マシンテンディング、部品搬送などの重要な活動を支援するためにロボットを使用しています」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「例えば、組み立て作業や搬送作業、医療ロボットの手術支援など、柔軟な力制御が必要とされる場面で使用されます」（https://www.atpress.ne.jp/news/4937181）
+  - 「特に、工場自動化や物流ロボット、介護支援ロボットなど、様々な産業でその重要性が増しています」（https://www.atpress.ne.jp/news/4937181）
+  - 「AIとバイオメカトロニクスの融合により、ロボットは作業現場から医療、生活支援、宇宙開発までその存在領域を広げるだろう」（https://newscast.jp/news/7652482）
+  - 「高品質の市場調査レポートを提供することで、意思決定者が十分な情報を得た上で意思決定を行い、戦略的な行動を取ることを支援し、新製品市場の開拓という研究成果を達成することに注力しています」（https://newscast.jp/news/7652482）
+  - 「したがって、統合能力、アプリケーションソフトウェア、コンプライアンス支援を備えたサプライヤーは、ロボットのハードウェア仕様のみで競争するベンダーよりも、価値を獲得しやすい立場にある」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「医療支援は、追跡対象となる用途のなかで最も成長率が高く、20.9%の成長が見込まれる」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「医療支援および検査・品質管理の CAGR はそれぞれ 20.9%と 20.4%であり、エラー発生時の影響が大きく、運用価値を測定しやすいことが成長の追い風となっている」（https://www.gminsights.com/ja/industry-analysis/robot-market）
+  - 「医療セクターもコボットの市場が拡大している分野であり、研究所や病院で手術支援から物流までのタスクに使用されています」（https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
+  - 「現在、北米は製造業の堅調さ、顕著な技術進歩、支援的な規制枠組みにより、コボット採用で世界市場をリードしています」（https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
+  - 「機械の取り扱い、溶接、家事などの多くのタスクを支援および実行するロボットの採用の増加は、ロボットエンドエフェクター市場の成長を推進する重要な要因の1つです」（https://prtimes.jp/main/html/rd/p/000001633.000059861.html）
+  - 「Kenneth Researchは、マルチクライアントの市場調査レポートのディストリビューターで、ビジネスプロフェッショナルが将来の拡張に向けたビジネスプランの戦略を立てるのを支援します」（https://prtimes.jp/main/html/rd/p/000001633.000059861.html）
+  - 「電気・電子機器分野における製品の大規模な普及は、世界市場における新たな成長分野の開拓を支援する」（https://www.zionmarketresearch.com/ja/report/industrial-robotics-market）
+- 検索結果の抜粋：
+  - 「ロボットエンドエフェクタ市場 - 2030年 — ロボットエンドエフェクタ市場 - 2030年 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > オートメーション/ロボット」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+  - 「ロボットエンドエフェクタ 市場 - 2030 年 — ロボットエンドエフェクタ 市場 - 2030 年 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > オートメーション/ロボット」（https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html）
+
+## ロボット用の治具・手先の多品種少量生産（custom robot grippers fixtures 3D printed metal）
+- 文脈：工場無人化・金属AM
+- 市場規模：
+  - 「ロボットハンド市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）50.7%の超高成長 | LP Information Co.,Ltdのプレスリリース」（https://www.dreamnews.jp/press/0000362067）
+  - 「ロボットハンド市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）50.7%の超高成長」（https://www.dreamnews.jp/press/0000362067）
+  - 「2025年の世界市場規模は2.37億米ドル、販売数量は4.43万台、平均価格は約5360米ドル/台であった」（https://www.dreamnews.jp/press/0000362067）
+  - 「2026年には市場規模が5.63億米ドル、販売数量が13.20万台、平均価格が約4270米ドル/台へ拡大すると予測される」（https://www.dreamnews.jp/press/0000362067）
+  - 「2032年には市場規模が65.99億米ドル、販売数量が176.07万台、平均価格が約3750米ドル/台に達し、2026～2032年の売上CAGRは50.70%となる」（https://www.dreamnews.jp/press/0000362067）
+  - 「第2章では、ロボットハンドの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://www.dreamnews.jp/press/0000362067）
+  - 「第4章では、ロボットハンドの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://www.dreamnews.jp/press/0000362067）
+  - 「第6章では、アジア太平洋地域におけるロボットハンド市場規模と各種用途を、販売量と収益を中心に分析します」（https://www.dreamnews.jp/press/0000362067）
+  - 「第12章では、ロボットハンドの世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します」（https://www.dreamnews.jp/press/0000362067）
+  - 「熱成形機市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）4.50%の安定成長」（https://www.dreamnews.jp/press/0000362067）
+  - 「日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長」（https://www.dreamnews.jp/press/0000362067）
+  - 「The value is putting your budget where additive genuinely beats moulding: lower cost at your volumes, real design freedom, and parts in days instead of tooling lead-times. Small parts stay ahead to high volumes — up to around a million a year; bigger or more complex parts suit additive up to roughly 100,000, then moulding takes over. Most robotics work sits comfortably on the additive side.」（https://ryse3d.com/pages/robotics-3d-printing?srsltid=AYCX9vLk2hGyglVdIl4wJjIYuQtxkww3o-ivB7iuQNKS2_ttOeGy_y--）
+  - 「Yes. The same process that makes the prototype makes the production run, so there is no retooling step between them. Small parts stay economical against moulding up to around a million a year, and larger or more complex parts to roughly 100,000 — above that we will tell you moulding wins and bridge you while a tool is cut.」（https://ryse3d.com/pages/robotics-3d-printing?srsltid=AYCX9vLk2hGyglVdIl4wJjIYuQtxkww3o-ivB7iuQNKS2_ttOeGy_y--）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/articles/micro-robot-gripper-3d-printed-all-at-once-no-assembly-required-the-cool-parts-show-59）
+- 成長率：
+  - 「ロボットハンド市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）50.7%の超高成長 | LP Information Co.,Ltdのプレスリリース」（https://www.dreamnews.jp/press/0000362067）
+  - 「ロボットハンド市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）50.7%の超高成長」（https://www.dreamnews.jp/press/0000362067）
+  - 「2026年には市場規模が5.63億米ドル、販売数量が13.20万台、平均価格が約4270米ドル/台へ拡大すると予測される」（https://www.dreamnews.jp/press/0000362067）
+  - 「2032年には市場規模が65.99億米ドル、販売数量が176.07万台、平均価格が約3750米ドル/台に達し、2026～2032年の売上CAGRは50.70%となる」（https://www.dreamnews.jp/press/0000362067）
+  - 「研究用途は1799万米ドル、家庭用途は1021万米ドルであり、家庭用途はまだ初期段階にあるが、2032年には4.16億米ドルへ拡大する見通しである」（https://www.dreamnews.jp/press/0000362067）
+  - 「市場は2026年の5.63億米ドルから2032年の65.99億米ドルへ拡大し、ロボット産業の重心が移動能力から操作能力へ移ることを示している」（https://www.dreamnews.jp/press/0000362067）
+  - 「第3章では、ロボットハンドの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://www.dreamnews.jp/press/0000362067）
+  - 「第4章では、ロボットハンドの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://www.dreamnews.jp/press/0000362067）
+  - 「透明Micro LEDディスプレイマーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）52.7%の超高成長」（https://www.dreamnews.jp/press/0000362067）
+  - 「熱成形機市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）4.50%の安定成長」（https://www.dreamnews.jp/press/0000362067）
+  - 「高度な航空交通マーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）20.6%の超高成長」（https://www.dreamnews.jp/press/0000362067）
+  - 「日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長」（https://www.dreamnews.jp/press/0000362067）
+  - 「自動化を推進した結果、従来では３名でやる作業が１名で生産出来る様になり、従業員のワークライフバランスも向上、技術アピールにより受注拡大に成功している」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-1547）
+- 需要量：
+  - 「「明日までにあと100個」という急ぎ案件に対し、ロボットなら疲弊することなく夜通し稼働し、ビジネスチャンスを逃しません」（https://www.kyodo-robot.com/blog-prescription/202607-approach-to-automation）
+  - 「単手重量はおおむね0.3～2.5 kg、単指把持力は5～30 N、手全体の持ち上げ能力は1～10 kg程度であり、高級製品では触覚アレイ、力センサー、エンコーダ、腱駆動機構、マイクロサーボモーター、小型減速機、柔軟センサー、組込み制御基板などを統合する」（https://www.dreamnews.jp/press/0000362067）
+  - 「2025年の世界市場規模は2.37億米ドル、販売数量は4.43万台、平均価格は約5360米ドル/台であった」（https://www.dreamnews.jp/press/0000362067）
+  - 「2026年には市場規模が5.63億米ドル、販売数量が13.20万台、平均価格が約4270米ドル/台へ拡大すると予測される」（https://www.dreamnews.jp/press/0000362067）
+  - 「2032年には市場規模が65.99億米ドル、販売数量が176.07万台、平均価格が約3750米ドル/台に達し、2026～2032年の売上CAGRは50.70%となる」（https://www.dreamnews.jp/press/0000362067）
+  - 「2025年の内蔵型販売数量は2.04万台で世界数量の約45.98%を占め、売上は1.39億米ドルで世界売上の約58.40%を占めた」（https://www.dreamnews.jp/press/0000362067）
+  - 「平均価格は約6800米ドル/台であり、市場平均を大きく上回る」（https://www.dreamnews.jp/press/0000362067）
+  - 「外付け型ロボットハンドは2025年に1.52万台を販売し、数量シェアは約34.21%、売上は5608万米ドル、売上シェアは約23.63%であった」（https://www.dreamnews.jp/press/0000362067）
+  - 「ハイブリッド型は2025年販売数量8777台、売上4266万米ドルであり、モジュール性、ソフト・ハード融合、サービスロボットや物流用途への適応性を特徴とする」（https://www.dreamnews.jp/press/0000362067）
+  - 「2025年の世界生産数量は4.43万台であり、中国は3.25万台を生産し、世界生産の約73.39%を占めた」（https://www.dreamnews.jp/press/0000362067）
+  - 「北米の生産は4183台、シェア約9.44%で、高級研究プラットフォーム、特殊ロボット、ヒューマノイド開発、ロボットAI企業に支えられる」（https://www.dreamnews.jp/press/0000362067）
+  - 「欧州は3063台、シェア約6.91%で、ドイツ、英国、イタリアを中心に産業用把持、研究グレードハンド、ソフトロボット技術に強みがある」（https://www.dreamnews.jp/press/0000362067）
+  - 「日本は1020台、韓国は928台であり、産業ロボット、研究プラットフォーム、ヒューマノイド関連開発が主な需要基盤である」（https://www.dreamnews.jp/press/0000362067）
+  - 「消費面では、2025年にアジア太平洋が2.49万台を消費し、世界需要の約56.27%を占めた」（https://www.dreamnews.jp/press/0000362067）
+  - 「北米は8462台、欧州は8970台で、高付加価値用途の需要地として重要である」（https://www.dreamnews.jp/press/0000362067）
+- 部品構成比・単価：
+  - 「2025年の産業用途売上は9929万米ドルで、世界売上の約41.83%を占める最大市場である」（https://www.dreamnews.jp/press/0000362067）
+- 主要供給元・シェア：
+  - 「ロボットハンド市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）50.7%の超高成長 | LP Information Co.,Ltdのプレスリリース」（https://www.dreamnews.jp/press/0000362067）
+  - 「ロボットハンド市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）50.7%の超高成長」（https://www.dreamnews.jp/press/0000362067）
+  - 「2025年のTop 5メーカーの売上シェアは約37.40%であり、市場集中度は中程度からやや低い段階にある」（https://www.dreamnews.jp/press/0000362067）
+  - 「外付け型ロボットハンドは2025年に1.52万台を販売し、数量シェアは約34.21%、売上は5608万米ドル、売上シェアは約23.63%であった」（https://www.dreamnews.jp/press/0000362067）
+  - 「物流用途は2025年に6461万米ドル、売上シェア約27.22%となり、荷物仕分け、倉庫ピッキング、多品種SKU処理、搬送作業が中心である」（https://www.dreamnews.jp/press/0000362067）
+  - 「医療用途は2025年に3091万米ドル、売上シェア13.02%で、リハビリ支援、介護ロボット、実験室自動化、医療機器操作、遠隔操作訓練などを含む」（https://www.dreamnews.jp/press/0000362067）
+  - 「北米の生産は4183台、シェア約9.44%で、高級研究プラットフォーム、特殊ロボット、ヒューマノイド開発、ロボットAI企業に支えられる」（https://www.dreamnews.jp/press/0000362067）
+  - 「欧州は3063台、シェア約6.91%で、ドイツ、英国、イタリアを中心に産業用把持、研究グレードハンド、ソフトロボット技術に強みがある」（https://www.dreamnews.jp/press/0000362067）
+  - 「ヒューマノイドロボットが量産段階へ進むにつれ、部品選定は性能最優先から、性能、コスト、寿命、供給安全性、量産一貫性を同時に満たす方向へ変化する」（https://www.dreamnews.jp/press/0000362067）
+  - 「中流メーカー」（https://www.dreamnews.jp/press/0000362067）
+  - 「産業顧客は安定性、寿命、把持成功率、生産ライン適合、部品供給、総保有コストを重視する」（https://www.dreamnews.jp/press/0000362067）
+  - 「ロボットハンドがデモから実用展開へ移行するにつれ、自由度の数だけでなく、作業成功率、作業当たりコスト、故障間隔、ソフトウェアエコシステム、データフィードバック、供給継続性が購買判断の中心となる」（https://www.dreamnews.jp/press/0000362067）
+  - 「中国メーカーは量産組立、国産マイクロアクチュエータ、センサーコスト低下、ヒューマノイド顧客との直接連携により、数万米ドル級の研究装置から数千米ドル級の量産部品へ市場を押し広げている」（https://www.dreamnews.jp/press/0000362067）
+  - 「第2章では、ロボットハンドの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://www.dreamnews.jp/press/0000362067）
+  - 「第3章では、ロボットハンドの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://www.dreamnews.jp/press/0000362067）
+- 日本企業の位置：
+  - 「日本は1020台、韓国は928台であり、産業ロボット、研究プラットフォーム、ヒューマノイド関連開発が主な需要基盤である」（https://www.dreamnews.jp/press/0000362067）
+  - 「中国メーカーは量産組立、国産マイクロアクチュエータ、センサーコスト低下、ヒューマノイド顧客との直接連携により、数万米ドル級の研究装置から数千米ドル級の量産部品へ市場を押し広げている」（https://www.dreamnews.jp/press/0000362067）
+  - 「欧州と日本の企業は高級把持、産業信頼性、ソフトロボティクス、研究プラットフォームで強みを維持している」（https://www.dreamnews.jp/press/0000362067）
+  - 「日本語サイト：」（https://www.dreamnews.jp/press/0000362067）
+  - 「日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長」（https://www.dreamnews.jp/press/0000362067）
+  - 「として、日本国内のお客様に向けたソリューション・導入支援・技術サポートを提供しています」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「自社工場だけでなく、国内外にさまざまな協力工場を持ち、最適な品質、コスト、納期管理を行っています」（https://meisei-web.co.jp/2023-09-28/）
+  - 「三葉電熔社は日本全国対応！」（https://www.mitzba.co.jp/robot-solutions）
+  - 「における情報を集めた国内最大級の技術データベースサイトです」（https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/）
+  - 「複数車種の混流生産を省スペースで実現！独自の搬送機構と高い構想力で、国内外4ラインの導入実績」（https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/）
+  - 「国内基幹工場から海外へも横展開され、計4ラインの導入実績を誇ります」（https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/）
+  - 「実装ラインに必要な治工具関係を国内一貫生産」（https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/）
+  - 「株式会社日本アルテック ソーラー関連」（https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/）
+  - 「株式会社日本アルテック」（https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/）
+  - 「日本ファインセラミックス株式会社」（https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/）
+- 供給制約・不足：
+  - 「協働ロボットが必要とされる背景-1.人手不足の解消」（https://www.kyodo-robot.com/blog-prescription/202607-approach-to-automation）
+  - 「これまで、コストや専門人材の不足から自動化を断念していた企業においても、」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「3-3．人材不足で運用が難しい」（https://meisei-web.co.jp/2023-09-28/）
+  - 「しかし、人材不足が課題となることがあります」（https://meisei-web.co.jp/2023-09-28/）
+  - 「工程を自動化できるか専門業者に相談して人材不足を補うことが重要です」（https://meisei-web.co.jp/2023-09-28/）
+  - 「人材不足、コスト競争の時代に勝ち残る」（https://www.mazak.co.jp/lp/automation/）
+  - 「高齢化社会、その中でもコロナ禍で製造業は未曾有の人材不足に陥っています」（https://www.mazak.co.jp/lp/automation/）
+  - 「人材不足の解消」（https://www.mazak.co.jp/lp/automation/）
+  - 「新人・若年労働者の経験不足による品質の不安定さを解消できる」（https://www.mazak.co.jp/lp/automation/）
+  - 「職人不足対策」（https://www.mitzba.co.jp/robot-solutions）
+  - 「溶接工が不足していて、」（https://www.mitzba.co.jp/robot-solutions）
+  - 「人手不足・採用難を解決！」（https://www.mitzba.co.jp/robot-solutions）
+  - 「原材料価格の高騰や人手不足、さらには自動車業界の投資先送りなど、日本の製造業を取り巻く市場環境は激変している」（https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/）
+  - 「国内の構造的課題である生産年齢人口の減少と、それに伴う現場の熟練技術者不足も、治具の役割を大きく変えつつある」（https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/）
+  - 「浮き、変形、保持力不足」（https://shinwagiken.com/global-fa-navi/knowledge/00248/）
+- 政策・予算：
+  - 「医療用途は2025年に3091万米ドル、売上シェア13.02%で、リハビリ支援、介護ロボット、実験室自動化、医療機器操作、遠隔操作訓練などを含む」（https://www.dreamnews.jp/press/0000362067）
+  - 「当社担当が確認のうえ折り返しご連絡し、仕様や強度、ご予算、その他ご要望を伺いながら打ち合わせをおこないます」（https://www.haruchika.co.jp/feature/）
+  - 「手厚い支援ラインナップ」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「を強力に支援します」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「ご支援内容を詳しく」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「として、日本国内のお客様に向けたソリューション・導入支援・技術サポートを提供しています」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「お客様ご自身で運用していただくことを前提に、「自走できるようになるための支援」に特化」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「セルフ運用の足掛かりに！手厚い支援ラインナップ」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「ノウハウの資産化を支援し、誰でも迷わず使える環境を整備」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「ための支援体制、」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「スムーズな運用立ち上げをご支援します」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「補助金や助成金の対象になりますか？」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「外部専門機関と連携し、補助金・助成金の活用をサポートします」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「実際に補助金を活用して導入された事例もございますので、お気軽にご相談ください」（https://afrel-robotics.jp/operation-robot-package/）
+  - 「2026年10月22日(木)開催 ふくい産業支援センター主催「自動化入門講座」に登壇します」（https://afrel-robotics.jp/operation-robot-package/）
+
+## 工場の無人化（ダークファクトリー）（lights-out manufacturing dark factory market）
+- 文脈：工場無人化
+- 市場規模：
+  - 「暗黒工場の市場規模、動向、予測、2025-2032年」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「2025年の市場規模」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「世界ダークファクトリ市場規模は2035に予測」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「グローバルダークファクトリ市場規模は2024年のUSD 47.25億で推定されました」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「市場規模は2025年から2035年にかけて約7.05%のCAGRで成長することを期待しています」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「世界的なダークファクトリ 市場規模は2035年までのUSD 99.97億に達する見込み」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「世界的なダークファクトリーの市場規模は、2024年に47.25億米ドルに相当し、2025年から2035年までの約99.97億米ドルに成長することが予測されています」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「の市場規模 2024:」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「「官民投資の戦略17分野」は2040年度までに370兆円超、ICT基盤関連が約半分」（https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/）
+  - 「S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」」（https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/）
+  - 「防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円」（https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/）
+  - 「5,000万〜2億円」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「2億〜10億円」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「10億円以上」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「物流ロボットとは？種類・市場規模・導入コストを2026年版で徹底解説」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+- 成長率：
+  - 「米ドルに達すると予測され、2025年から2032年にかけて年平均成長率」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「（CAGR）7.1」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「ラテンアメリカ地域は2025年に32.9%の市場シェアで最も速い成長を示すと予想されており、これは力強い経済拡大と消費者基盤の上昇に牽引されている」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「予測期間：2025年～2032年 CAGR：」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「ダークファクトリのCAGR 市場は2024年から2031年にかけて6.9%となる見込みです」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「市場規模は2025年から2035年にかけて約7.05%のCAGRで成長することを期待しています」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「予測期間のCAGR 2025-2035の :」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「2024年の市場を支配し、予測期間中に相当するCAGRで成長する予定」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「これらの中で、産業ロボットセグメントは2024年に市場を支配し、予測期間中に相当するCAGRで成長する予定です」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「2024年の最大のシェアを占める自動車部門は、予測期間中に最速のCAGRで成長することを期待しています」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「これらの中で、2024年に最大のシェアを占める自動車セグメントは、予測期間中に最速のCAGRで成長することを期待しています」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「世界のデジタルツイン市場は2020年の約31億ドルから2026年には約480億ドルに拡大すると予測されています（出典: Bismarck Capital社等の市場予測）」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「2026年は経産省ガイドライン第2版・AIエージェント実装・デジタルツイン市場拡大が重なる転換点であり、ここで動き出すかどうかが5年後の競争力を左右します」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「今年の世界AIサーバー市場規模、1587億ドルに拡大へ」（https://spap.jst.go.jp/china/news/250902/topic_2_02.html）
+  - 「CAGR, 2025–2030」（https://www.grandviewresearch.com/industry-analysis/dark-factories-market-report）
+- 需要量：
+  - 「この工場は、年間1,000万台のフラッグシップ・スマートフォンの生産能力を誇り、1秒間に1台の生産速度を達成している」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「深夜10時、人影がほとんど見当たらない工場の中で、何台ものAGV（無人搬送車）がゆっくりと移動し、加工対象の部品を工作機械へと運んでいた」（https://j.people.com.cn/n3/2026/0909/c95952-20497679.html）
+  - 「10台余りの大型門型マシニングセンターが高速で稼働し、ロボットアームが部品を正確につかみ、固定している」（https://j.people.com.cn/n3/2026/0909/c95952-20497679.html）
+  - 「瀋陽機床の大型部品加工第2工場旋盤工程室の室長、王顕春氏は、「以前は、1人で管理できる工作機械は多くても1～2台で、材料の投入や取り出しも人手で行う必要があった」（https://j.people.com.cn/n3/2026/0909/c95952-20497679.html）
+  - 「鞍鋼集団関宝山鉱業有限公司の「ダークファクトリー」に足を踏み入れると、2台の大型ボールミルが高速で稼働し、スマート点検ロボットや清掃ロボットがライトを点滅させながら整然と作業していた」（https://j.people.com.cn/n3/2026/0909/c95952-20497679.html）
+  - 「今年の春、新松ロボット自動化股份有限公司の100台近くの溶接ロボットが、吉利汽車義烏工場の自動車溶接ラインに一斉に導入され、稼働を開始した」（https://j.people.com.cn/n3/2026/0909/c95952-20497679.html）
+  - 「中国、7月の1日平均チップ生産量が約17億個に」（https://j.people.com.cn/n3/2026/0909/c95952-20497679.html）
+  - 「パナソニック、禁止した生成AIに33万人分の個人情報 従業員の家族も」（https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/）
+  - 「5層JCTと曲線トンネル地中接合、工事が進む横浜環状南線・横浜湘南道路」（https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/）
+  - 「1位は「高水圧で壁厚30cmのトンネル崩落、湧水対策が裏目に出た可能性も」」（https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/）
+  - 「国際ロボット連盟（IFR）の2024年版World Robotics Reportによると、産業用ロボットの稼働台数は中国が約180万台でトップ、日本は約42万台で3位ですが、製造業従業員1万人あたりの密度（ロボット密度）では韓国が1,000台以上で世界1位、日本は約400台にとどまります」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「可搬重量5kg〜2,000kgまで幅広い」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「可搬重量3〜35kg中心」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「無人化工場AIでは「搬送のAGV/AMRがボトルネック」になるケースが多く、ライン1本あたり3〜10台のAMR配備が標準です」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「不良率は100万個あたり11個以下の水準を維持」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+- 部品構成比・単価：
+  - 「、2025年には45.0%と最も高い市場シェアを占めると予想される」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「エンドユーザー産業別では、自動車製造工程の複雑さと規模の大きさから、2025年には自動車産業が40.8%と最も高い市場シェアを占めると予想されている」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「デプロイメント別では、グリーンフィールド・プロジェクトが2025年に53.7%と最も高い市場シェアを占めると予想されている」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「2024年の最大のシェアを占める自動車部門は、予測期間中に最速のCAGRで成長することを期待しています」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「これらの中で、2024年に最大のシェアを占める自動車セグメントは、予測期間中に最速のCAGRで成長することを期待しています」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「1台あたりおおむね数百万円程度」（https://monodukuri-career.jp/%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%84%A1%E4%BA%BA%E5%8C%96%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C%E3%80%8C%E4%BA%BA%E3%81%8C/）
+- 主要供給元・シェア：
+  - 「暗いファクトリーズ市場 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「2025年の市場シェアは、産業用ロボットが45.0%で最も高い」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「2025年の市場シェアは自動車分野が40.8%で最も高い」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「グリーンフィールドプロジェクトは、2025年に53.7%の最高市場シェアに寄与すると予測される」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「アジア太平洋地域が優位を占め、2025年には44.6%の市場シェアが見込まれる」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「、2025年には45.0%と最も高い市場シェアを占めると予想される」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「エンドユーザー産業別では、自動車製造工程の複雑さと規模の大きさから、2025年には自動車産業が40.8%と最も高い市場シェアを占めると予想されている」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「自動車メーカーは、コスト削減、厳しい排ガス規制への対応、車両開発サイクルの短縮を常に迫られている」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「デプロイメント別では、グリーンフィールド・プロジェクトが2025年に53.7%と最も高い市場シェアを占めると予想されている」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「アジア太平洋地域は支配的な市場であり、2025年には44.6%の市場シェアが見込まれる」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「AnthropicやGreyOrangeといったこの地域の主要企業は、AIを活用した自動フルフィルメントセンターの構築でリーダーシップを確立している」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「ラテンアメリカ地域は2025年に32.9%の市場シェアで最も速い成長を示すと予想されており、これは力強い経済拡大と消費者基盤の上昇に牽引されている」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「多くのグローバルメーカーがメキシコ全土にステルス工場（一般に闇工場と呼ばれる）を設立し、オペレーションの最適化のために自動化とデジタル化に注力する一方で、より低い運営コストを活用している」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「主要企業、最新動向、競争インテリジェンス」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「また、素材サプライヤーやOEMとの戦略的提携も進めている」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+- 日本企業の位置：
+  - 「これはオリジナルレポートの日本語翻訳ページです」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「中国、インド、日本、オーストラリア、韓国、ASEAN、その他のアジア太平洋地域」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「アジアパシフィック(中国、日本、インド、APACの残り)」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「国内の電子部品メーカーでは、既存の検査装置を活用したダークファクトリー化に成功しています」（https://www.cct-inc.co.jp/koto-online/archives/773）
+  - 「日本の製造業が国際競争力を維持・向上させるためには、ダークファクトリーの積極的な導入が重要な戦略となります」（https://www.cct-inc.co.jp/koto-online/archives/773）
+  - 「「ダークファクトリー」を訪ねて AIが支える中国の24時間連続スマート製造--人民網日本語版--人民日報」（https://j.people.com.cn/n3/2026/0909/c95952-20497679.html）
+  - 「人民網日本語版」（https://j.people.com.cn/n3/2026/0909/c95952-20497679.html）
+  - 「「人民網日本語版」2026年9月9日」（https://j.people.com.cn/n3/2026/0909/c95952-20497679.html）
+  - 「日本は「安全保障上の不安」によってAIを発展させることはできない」（https://j.people.com.cn/n3/2026/0909/c95952-20497679.html）
+  - 「Tel:日本（03）3449-8257 Mail：japan@people.cn」（https://j.people.com.cn/n3/2026/0909/c95952-20497679.html）
+  - 「日本流、フィジカルAIのつくり方」（https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/）
+  - 「JPモルガンやロッキードにみるAI導入「4原則」、日本企業への示唆」（https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/）
+  - 「日本的スマホ論」（https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/）
+  - 「フィジカルAI半導体、鍵は「低遅延と拡張性」 川崎重工が採用決めた国内新興」（https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/）
+  - 「モメンタ日本へ急接近、テスラに迫れるか 中国E2E自動運転トップの技術力」（https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/）
+- 供給制約・不足：
+  - 「さらに、人件費の上昇と労働力不足により、製造業各社はロボット工学やIoTのような産業用自動化技術の導入を増やす必要に迫られている」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「熟練労働者の不足」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「ダークファクトリーは潜在的な利点を持っていますが、その成長は、最先端の自動化システムを処理できる有能な人材の不足によって妨げられます」（https://www.sphericalinsights.com/jp/reports/dark-factories-market）
+  - 「製造業では、人手不足や熟練者の退職、生産性向上の要求など、従来の改善活動だけでは乗り越えられない課題が増えています」（https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory）
+  - 「貴社が今、どのステップに進めるか、そして何が不足しているかを確認するためのチェックリストです」（https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory）
+  - 「製造業界では深刻な人手不足や国際競争の激化により、生産性向上が急務となっています」（https://www.cct-inc.co.jp/koto-online/archives/773）
+  - 「劇的な人件費削減と人手不足解消」（https://www.cct-inc.co.jp/koto-online/archives/773）
+  - 「メリット1：劇的な人件費削減と人手不足解消」（https://www.cct-inc.co.jp/koto-online/archives/773）
+  - 「深刻化する人手不足問題の根本的解決策として、ダークファクトリーは大きな威力を発揮します」（https://www.cct-inc.co.jp/koto-online/archives/773）
+  - 「繊維関連の製造企業では、夜間の完全無人稼働システムを構築し、人手不足問題を解決しています」（https://www.cct-inc.co.jp/koto-online/archives/773）
+  - 「ダークファクトリーは、深刻化する人手不足問題の解決と製造業の競争力強化を同時に実現する革新的なソリューションです」（https://www.cct-inc.co.jp/koto-online/archives/773）
+  - 「人手不足が深刻化し、生産性向上とコスト削減の両立が求められる製造業において、「ダークファクトリー（完全自動化工場）」への関心が急速に高まっています」（https://kaizen-navi.biz/production-control/what-is-lights-out-factory）
+  - 「人手不足の解決」（https://kaizen-navi.biz/production-control/what-is-lights-out-factory）
+  - 「特に深刻なのが人手不足」（https://kaizen-navi.biz/production-control/what-is-lights-out-factory）
+  - 「人手不足の深刻化（夜勤要員不足・高齢化・採用難）」（https://kaizen-navi.biz/production-control/what-is-lights-out-factory）
+- 政策・予算：
+  - 「さらに、スマート・インフラ整備に重点を置き、先進技術の採用を奨励する政府の支援政策が、この分野への投資を促進している」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「コラボレーションも新興企業を支援する」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「欧州は、先進製造技術の採用に対する政府や企業の強力な支援により、今後数年間は闇工場市場を支配すると予想される」（https://www.coherentmarketinsights.com/ja/%E6%9A%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA%E5%B8%82%E5%A0%B4）
+  - 「また、政府や自治体が提供する製造業DX推進補助金や税制優遇措置を積極的に活用することで、実質的な負担を軽減できます」（https://www.cct-inc.co.jp/koto-online/archives/773）
+  - 「技術パートナーとの長期サポート契約により、24時間体制での技術支援を確保することも重要な対策となります」（https://www.cct-inc.co.jp/koto-online/archives/773）
+  - 「また、投資予算と期待効果を照らし合わせて、最適な導入範囲を決定することが重要です」（https://www.cct-inc.co.jp/koto-online/archives/773）
+  - 「従業員のスキルアップ支援も継続的に行い、新しい役割への適応を促進します」（https://www.cct-inc.co.jp/koto-online/archives/773）
+  - 「建設系資格取得支援」（https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000297/）
+  - 「高度な最適化・判断支援」（https://kaizen-navi.biz/production-control/what-is-lights-out-factory）
+  - 「経済産業省スマートファクトリーロードマップとの対応」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「経済産業省が2017年に公表し、NEDOと共同で2024〜2025年に第2版を更新した「スマートマニュファクチャリング構築ガイドライン」では、工場のスマート化を3レベルで定義しています」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「出典: 経済産業省「スマートマニュファクチャリング構築ガイドライン（第2版）」2025年」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「AGV/AMRの違い、2026年の市場規模、導入コスト、補助金、失敗しない選び方まで1次情報で解説します」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「経済産業省ガイドラインや国内外事例の積み上げから見えるのは、3〜7年かけて段階的にレベルを引き上げるロードマップが成功の共通項であることです」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+  - 「経済産業省や民間調査では、PoCで終了するプロジェクトが全体の6〜7割という報告もあります」（https://www.optimax.co.jp/ai-information/lights-out-factory-ai/）
+- 検索結果の抜粋：
+  - 「可視化から 無人化 までの 7ステップ ダークファクトリー を段階 ... — 可視化から 無人化 までの 7ステップ ダークファクトリー を段階 ... カイゼンナビ https://kaizen-navi.biz > 生産管理のヒント」（https://kaizen-navi.biz/production-control/steps-for-implementing-a-dark-factory）
+  - 「「 ダークファクトリー 」を訪ねて AIが支える中国の24時間 ... — 「 ダークファクトリー 」を訪ねて AIが支える中国の24時間 ... 人民網日本語版 https://j.people.com.cn > ...」（https://j.people.com.cn/n3/2026/0909/c95952-20497679.html）
+  - 「ダークファクトリー のトレンドに光を当てる — ダークファクトリー のトレンドに光を当てる ANCA machines https://machines.anca.com > e-sharp-news > may-2021 > s...」（https://machines.anca.com/e-sharp-news/may-2021/shining-a-light-on-the-dark-factory-trend?lang=ja-JP）
+
+## 自律搬送ロボット（AMR）（autonomous mobile robot market）
+- 文脈：工場無人化
+- 市場規模：
+  - 「AGV・AMR（移動ロボット）の世界市場（2026年～2032年）、市場規模（AGV（無人搬送車）、AMR（自律移動ロボット））・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/2649660）
+  - 「AGV・AMR（移動ロボット）の世界市場（2026年～2032年）、市場規模（AGV（無人搬送車）、AMR（自律移動ロボット））・分析レポートを発表」（https://newscast.jp/news/2649660）
+  - 「世界のAGV（自動搬送車）およびAMR（自律移動ロボット）市場規模は、2025年の63億米ドルから2032年には453億1000万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）33.2%で成長すると見込まれています」（https://newscast.jp/news/2649660）
+  - 「調査によると、AGVとAMRの市場規模は2028年までに約200億ドルに達すると予測されており、AGVはそれぞれ約22%、AMRは37%の成長率を見込んでいます」（https://newscast.jp/news/2649660）
+  - 「自律移動ロボット（AMR）市場規模・予測レポート 2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「用途別自律移動ロボット（AMR）市場規模、2025年・2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「同地域の市場規模は2035年までに39億8,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「同地域の市場規模は2035年までに19億9,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「同地域の市場規模は2035年までに34億9,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「同地域の市場規模は2035年までに2億9,900万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「同地域の市場規模は2035年までに1億9,900万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「自律移動ロボット（amr）市場規模は2025年に24.9億米ドルと推定され、2026年には29.1億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+- 成長率：
+  - 「世界のAGV（自動搬送車）およびAMR（自律移動ロボット）市場規模は、2025年の63億米ドルから2032年には453億1000万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）33.2%で成長すると見込まれています」（https://newscast.jp/news/2649660）
+  - 「調査によると、AGVとAMRの市場規模は2028年までに約200億ドルに達すると予測されており、AGVはそれぞれ約22%、AMRは37%の成長率を見込んでいます」（https://newscast.jp/news/2649660）
+  - 「世界のeコマース売上高は過去10年間で年平均成長率（CAGR）20%を記録し、2022年には世界全体で5兆ドルを超え、2028年には約8兆ドルに達すると予測されています」（https://newscast.jp/news/2649660）
+  - 「2026年から2035年にかけて年平均成長率（CAGR）14.7%で拡大し、2035年には99.7億米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「同分野は2026〜2035年に年平均成長率（CAGR）17.7%で拡大する見込みである」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「同分野は2026〜2035年に年平均成長率（CAGR）17.5%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「市場は2026〜2035年に年平均成長率（CAGR）19%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「2023年にはモバイルロボットの出荷台数が前年比23パーセント増の約15万台に達し、2024年の市場規模は約55億ドルに到達しました」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「その中でAMRの年平均成長率（CAGR）は30パーセント、AGVは18パーセントと、AMRが成長を牽引する見通しです」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「モバイルロボットを構成するコンポーネント（部品）市場もこれに比例して拡大しており、2027年までに74億ドルの規模に達し、5年間のCAGRは44.8パーセントという驚異的な成長が見込まれています」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「これらの企業は、従来型の設備投資に比べて稼働までの期間が8週間以内という短期間での導入を可能にし、高いスループットを提供する技術で市場シェアを急拡大させています」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「市場調査会社Mordor Intelligenceによると、自律移動ロボット（AMR）の世界市場規模は 2025年時点で約44.9億米ドルと推定され、2030年には約92.6億米ドルへ拡大する見込みです （CAGR 15.6%）(※2)」（https://proto-robo.vstone.co.jp/agv-amr/）
+  - 「2026～2032年の年平均成長率（CAGR）は2.59％と予測されています」（https://www.atpress.ne.jp/news/9987741）
+  - 「中国市場の規模は同年570.82百万米ドルで、2032年には644.09百万米ドルに拡大する見込みです」（https://www.atpress.ne.jp/news/9987741）
+- 需要量：
+  - 「AGVとAMRの設置台数は2028年までに合計270万台を超え、モバイルロボットは日常業務において不可欠な存在となるでしょう」（https://newscast.jp/news/2649660）
+  - 「この最新の調査レポート「AGVおよびAMR（移動ロボット）産業予測」は、過去の販売実績を分析し、2025年の世界全体のAGVおよびAMR（移動ロボット）販売台数を概観するとともに、2026年から2032年までのAGVおよびAMR（移動ロボット）販売予測を地域別、市場セクター別に包括的に分析しています」（https://newscast.jp/news/2649660）
+  - 「輸送・物流サービスロボットの2024年の世界販売台数は102,900台に達し、14%増加した」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「販売台数の持続的な増加が、倉庫・フルフィルメント分野が2035年まで最大の用途分野であり続ける見通しを支える」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「一方で中国は、2030年までに一級都市の物流パークにおける自動化率を70%に引き上げるという国家的なスマート物流ガイドラインを背景に、出荷台数において圧倒的な成長を見せています」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「2023年にはモバイルロボットの出荷台数が前年比23パーセント増の約15万台に達し、2024年の市場規模は約55億ドルに到達しました」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「また、世界のモバイルロボット稼働台数は2030年までに420万台を突破すると予測されています」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「1台からカスタマイズ開発しています」（https://proto-robo.vstone.co.jp/agv-amr/）
+  - 「用途に適した最適な1台をご提案します」（https://proto-robo.vstone.co.jp/agv-amr/）
+  - 「・大型搬送用:1〜数トン(大型貨物・自動車部品など)」（https://proto-robo.vstone.co.jp/agv-amr/）
+  - 「1台からのカスタマイズ開発」（https://proto-robo.vstone.co.jp/agv-amr/）
+  - 「✅ 可搬重量40kg〜120kgまでラインナップ」（https://proto-robo.vstone.co.jp/agv-amr/）
+  - 「Copyright © 2026 ヴイストン株式会社」（https://proto-robo.vstone.co.jp/agv-amr/）
+  - 「2026年1月には、KUKAがポーランドのテレビメーカーの工場に22台のAMRを導入し、倉庫から組立ラインへの部材搬送などを自動化した事例を公表しました」（https://www.atpress.ne.jp/news/9987741）
+  - 「2030年のAGV／AMR世界出荷台数を約138万台に拡大予測」（https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f）
+- 部品構成比・単価：
+  - 「「その他」のAMRベンダーが合計で2025年の世界AMR市場の62.8%を占める」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「2035年には47.8億米ドルに達し、売上高の48%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「製造・組立分野は、2035年までに31.9億米ドルに達し、市場売上高の32%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「調査予測によれば、2027年までに新たに販売されるイントラロジスティクス向けスマートロボットの10パーセントをヒューマノイド型が占めるとされています」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「ただし、世界市場に占めるシェアは23.76％から21.93％へ低下すると予測されています」（https://www.atpress.ne.jp/news/9987741）
+  - 「生産面では、2025年の世界生産量に占める北米の割合が33.78％、欧州が18.95％でした」（https://www.atpress.ne.jp/news/9987741）
+  - 「市場に占める需要分野別の割合は製造業が約80％、物流業が約20％程度を占めると推計した」（https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f）
+  - 「一般的には1台あたり数百万円〜が目安となり、これに加えてシステム構築費や設置費が発生します」（https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/）
+  - 「AMRは従来のAGVと比較して高額な場合が多く、1台あたり数百万円から1,000万円を超える製品もあります」（https://robo.japanstep.jp/learn/2024/12/586/）
+  - 「その中でもAGV/AMRの世界市場においては、中国市場が世界シェアの約4割を占める最大の市場となっています(※3)」（https://linx.jp/product/irayple_amr/article/006/）
+- 主要供給元・シェア：
+  - 「このインサイトレポートは、世界のAGVおよびAMR（移動ロボット）市場の状況を包括的に分析し、製品セグメンテーション、企業設立、収益、市場シェア、最新の開発動向、M&A活動など、主要なトレンドを明らかにしています」（https://newscast.jp/news/2649660）
+  - 「本レポートは、製品タイプ別、用途別、主要メーカー別、主要地域・国別に、AGVおよびAMR（モバイルロボット）市場の包括的な概要、市場シェア、成長機会を提示します」（https://newscast.jp/news/2649660）
+  - 「第2章「エグゼクティブサマリー」では、世界のAGVおよびAMR（モバイルロボット）市場の概要、タイプ別（AGV、AMR）および用途別（物流・倉庫、製造、病院・ヘルスケアなど）の市場分析（売上、収益、価格、市場シェア）、さらに地域別の現在および将来の分析が要約されています」（https://newscast.jp/news/2649660）
+  - 「第3章「企業別グローバル分析」では、主要企業のAGVおよびAMR（モバイルロボット）の年間売上、収益、市場シェア、販売価格、製品ポートフォリオ、生産地域、市場集中度、新規参入企業、M&A活動などの競争状況が詳細に分析されています」（https://newscast.jp/news/2649660）
+  - 「第10章「製造コスト構造分析」では、AGVおよびAMR（モバイルロボット）の原材料、サプライヤー、製造コスト構造、製造プロセス、および産業チェーン構造に関する分析が提供されています」（https://newscast.jp/news/2649660）
+  - 「第13章「主要プレーヤー分析」では、KUKA、Omron、Clearpath Roboticsなど多数の主要企業各社について、企業情報、製品ポートフォリオ、仕様、売上、収益、価格、粗利益、主要事業概要、最新動向が詳細に分析されています」（https://newscast.jp/news/2649660）
+  - 「最後に、バッテリー型AGVがあり、これはバッテリーを用いて電力を供給し、長時間の運用が可能です」（https://newscast.jp/news/2649660）
+  - 「例えば、製造業では部品の供給や製品の搬送が自動化されることで、生産性が向上します」（https://newscast.jp/news/2649660）
+  - 「ニュースのシェア」（https://newscast.jp/news/2649660）
+  - 「自律移動ロボット（AMR）市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「Geek+ / GeekPlusは、2025年に17.7%を超える市場シェアを獲得し、首位に立った」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「の市場シェアを占めた」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「規格の収れんにより、予測期間を通じて製造業セグメントのシェア拡大が加速する」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「製造現場では、混流生産、ジャストインタイムのライン供給、固定インフラを再構築せずにマテリアルフローを再編する必要性を背景に、需要が拡大している」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「複数メーカーのロボットを運用する企業では、ロボット、フリート制御ソフトウェア、周辺の自動化システムが、大規模な個別統合を必要とせずに連携することへの期待が高まっている」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+- 日本企業の位置：
+  - 「・日本語タイトル：AGV・AMR（移動ロボット）の世界市場2026年～2032年」（https://newscast.jp/news/2649660）
+  - 「倉庫への投資と、強靭な国内物流ネットワークの必要性が、新設施設と既存施設の改修の双方でAMR導入を促す環境を生み出している」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「同地域の自律走行型移動ロボット市場は、国内のロボット供給企業と多国籍の自動化プロバイダーの双方によって形作られており、導入モデルに幅広い差がある競争環境が生まれている」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「国内の供給企業は、商品を人のもとへ搬送するシステム、ケース搬送、物流自動化において高い能力を培ってきた」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「2025年、日本はアジア太平洋地域のAMR売上高の約20%を占めた」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「労働人口の高齢化と長年にわたる自動化の定着を背景に、日本では労働力の代替と事業運営の継続性が、需要を左右する重要な要素となっている」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「インドの成長機会は、新設製造拠点、国内の電子商取引の拡大、物流近代化への投資拡大に結び付いている」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「多国籍の物流事業者は、実績のある自動化モデルと供給企業との関係を国内市場に展開することで、導入を促す重要な役割を果たし得る」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「需要が単一の均質な市場モデルに集中するのではなく、製造、フルフィルメント、国内ベンダーをめぐるそれぞれ異なるエコシステムに分散しているためである」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「日本では、厳格な耐震基準への対応により導入コストが他国比で15パーセントから20パーセント高くなる傾向があるものの、深刻な労働人口の減少を補うために国からの補助金が自動化投資を後押ししています」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「日本国内でも、製造業・物流業における人手不足対策や研究開発分野での活用ニーズを 背景に、AGVからAMRへの移行や併用導入が進んでいます」（https://proto-robo.vstone.co.jp/agv-amr/）
+  - 「SLAMは「Simultaneous Localization and Mapping」の略で、日本語では「自己位置推定と地図作成の同時実行」と訳されます」（https://proto-robo.vstone.co.jp/agv-amr/）
+  - 「日本市場も成長が見込まれ、2026～2032年の売上高CAGRは2.74％とされています」（https://www.atpress.ne.jp/news/9987741）
+  - 「中国は、製造業の集積や部品供給網、国内の導入需要を背景に大きな供給基盤を形成しています」（https://www.atpress.ne.jp/news/9987741）
+  - 「日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階」（https://www.atpress.ne.jp/news/9987741）
+- 供給制約・不足：
+  - 「病院では、薬品や器具の移動を自動化し、人手不足を補う役割を果たしています」（https://newscast.jp/news/2649660）
+  - 「世界的なサプライチェーンの再構築、深刻化する労働力不足、そしてインフレ圧力の高まりを背景に、物流および製造現場における自動化の需要はかつてない規模で拡大しています」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「自律走行搬送ロボット（AMR）および倉庫・工場自動化業界は、労働力不足、サプライチェーンの制約、脱グローバル化、そしてサステナビリティへの対応といった世界的なマクロ経済の課題に対する直接的な解決策として急速に進化しています」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「特に製造業や物流業においては、2028年までに世界で240万人の熟練労働者が不足すると予測されており、業務継続性の観点からも自動化はもはや選択肢ではなく必須の要件となっています」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「経済産業省・厚生労働省・文部科学省が発行する「2025年版ものづくり白書」 （令和7年5月）では、製造業における人手不足が継続的な課題として指摘されており、 自動化への投資ニーズは年々高まっています(※1)」（https://proto-robo.vstone.co.jp/agv-amr/）
+  - 「日本国内でも、製造業・物流業における人手不足対策や研究開発分野での活用ニーズを 背景に、AGVからAMRへの移行や併用導入が進んでいます」（https://proto-robo.vstone.co.jp/agv-amr/）
+  - 「​～人手不足や人件費上昇、作業の安全性および効率化向上など課題の解決に、産業現場における生産・物流スマート化が加速～」（https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f）
+  - 「さらに、少子高齢化による人手不足や人件費上昇、作業の安全性及び効率性向上へのニーズを背景に、スマートファクトリー化が加速している」（https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f）
+  - 「製造業の生産現場においては少子高齢化による人手不足や人件費上昇、作業の安全性および効率化向上へのニーズを背景に、自動化需要が拡大している」（https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f）
+  - 「​背景には、企業のDX推進やEC市場の成長、労働力不足への対応、カーボンニュートラルやESG投資の潮流がある」（https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f）
+  - 「物流業界では、AIの活用や人手不足により、物流DXを推進する企業が増加しています」（https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/）
+  - 「人手不足や人件費上昇、作業の効率化を目指す、世界的な物流搬送自動化の潮流で、市場は本格的な拡大局面に入っているといえます」（https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/）
+  - 「物流産業において、AIの活用や人手不足などを背景に、物流DXを推進している企業が増加しています」（https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/）
+  - 「物流業界では、AIの活用や人手不足の影響で、物流DXを推進する企業が増えています」（https://amr-guide.com/amr/amr-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E6%96%B0%E8%A6%8F%E5%B0%8E%E5%85%A5/）
+  - 「5.2.2.3 Shortage of skilled workforce 53」（https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5）
+- 政策・予算：
+  - 「サブスクリプションモデルは初期予算の負担を軽減できるものの、企業が大規模導入を決定する前に、運用との適合性を実証する必要はなくならない」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「大量処理を伴うフルフィルメント業務における継続的な制約に対し、商品を人のもとへ運ぶピッキング、補充、仕分け支援、自律搬送で対応できることから、倉庫は引き続き需要の中核となる」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「日本では、厳格な耐震基準への対応により導入コストが他国比で15パーセントから20パーセント高くなる傾向があるものの、深刻な労働人口の減少を補うために国からの補助金が自動化投資を後押ししています」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「同社は長らくプライベートエクイティの支援を受けて成長してきましたが、2025年7月に香港証券取引所へのIPO（約3億4800万ドルの資金調達）を果たし、パブリックカンパニーとして新たなステージに入っています」（https://note.com/better_equation/n/nfa5a415bb423）
+  - 「経済産業省・厚生労働省・文部科学省が発行する「2025年版ものづくり白書」 （令和7年5月）では、製造業における人手不足が継続的な課題として指摘されており、 自動化への投資ニーズは年々高まっています(※1)」（https://proto-robo.vstone.co.jp/agv-amr/）
+  - 「※1 経済産業省・厚生労働省・文部科学省「2025年版ものづくり白書」（2025年5月）」（https://proto-robo.vstone.co.jp/agv-amr/）
+  - 「移載式AMR（自律走行搬送ロボット）とは、工場や物流倉庫などで、部品、製品、コンテナ、資材を自律的に搬送し、作業ステーション間の移載を支援するロボットです」（https://www.atpress.ne.jp/news/9987741）
+  - 「グローバル市場を対象に、市場調査レポート、業界分析、競合調査、IPO支援、カスタマイズリサーチなど幅広いサービスを展開し、各業界の市場構造や成長性、競争環境を多角的に分析しています」（https://www.atpress.ne.jp/news/9987741）
+  - 「豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています」（https://www.atpress.ne.jp/news/9987741）
+  - 「ハラール認証取得支援サービス」（https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f）
+  - 「株式会社矢野経済研究所（代表取締役社長：水越 孝）は、AGV／AMR世界市場を調査し、主要国の関連政策や導入支援制度、参入企業動向、将来展望を明らかにした」（https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f）
+  - 「また、ロボットなどの導入による自動化構築に対する各国政府の支援制度も強化されており、大企業だけではなく中堅・中小企業においてもAGV／AMRなどの導入による、生産・物流のスマート化が加速している」（https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f）
+  - 「経済産業省・国土交通省の試算では、2030年には物流ドライバーの約35%が不足するとされ、製造業全体でも有効求人倍率は高止まりが続いています」（https://sansuihitech.co.jp/agv-amr-guide/）
+  - 「倉庫はより小さな面積でより多くの注文を捌く必要があり、棚搬送型AGV・ピッキング支援AMRの導入は急務となっています」（https://sansuihitech.co.jp/agv-amr-guide/）
+  - 「2-3. 補助金制度による導入後押し」（https://sansuihitech.co.jp/agv-amr-guide/）
+- 検索結果の抜粋：
+  - 「AGV・ AMR （移動 ロボット ）の世界 市場 （2026年～2032年 ... — AGV・ AMR （移動 ロボット ）の世界 市場 （2026年～2032年 ... Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/2649660）
+  - 「自律 移動 ロボット （ AMR ） 市場 の 規模 と予測、2026〜2035年 — 自律 移動 ロボット （ AMR ） 市場 の 規模 と予測、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > autono...」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「移載式 AMR市場規模 分析レポート：2026年は2520.12百万 ... — 移載式 AMR市場規模 分析レポート：2026年は2520.12百万 ... アットプレス https://www.atpress.ne.jp > ... > QY Research株式会社」（https://www.atpress.ne.jp/news/9987741）
+  - 「AGV／ AMR 世界市場に関する調査を実施（2025年） — AGV／ AMR 世界市場に関する調査を実施（2025年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/4005?srsltid=AYCX9vI_QhRLvfyJQ3grVhBQuvyClqtZe2yZfVXZOR5fIR2dLSRDLN2f）
+  - 「自律 走行 搬送ロボット （ AMR ）市場 – 2030 年までの世界予測 — 自律 走行 搬送ロボット （ AMR ）市場 – 2030 年までの世界予測 ChosaReport.com https://chosareport.com > mnm-auton...」（https://chosareport.com/mnm-autonomous-mobile-robots-se8713/?lcp_page0=5）
+  - 「AMR 市場は 2030 年に45億6000万米ドル規模に — AMR 市場は 2030 年に45億6000万米ドル規模に LOGISTICS TODAY https://www.logi-today.com > ...」（https://www.logi-today.com/709197）
+  - 「「 AMR 自律 走行型（協働） 搬送ロボット の導入にかかる ... — 「 AMR 自律 走行型（協働） 搬送ロボット の導入にかかる ... 協働ロボット.com https://www.kyodo-robot.com > q-and-a > mir-1」（https://www.kyodo-robot.com/q-and-a/mir-1）
+  - 「AMR （ 自律 走行 搬送ロボット ） メーカー65社 - Metoree — AMR （ 自律 走行 搬送ロボット ） メーカー65社 - Metoree Metoree https://metoree.com > ロボット」（https://metoree.com/categories/8665/）
+  - 「自律 移動 ロボット （ AMR ）市場の規模と予測、2026〜2035年 — 自律 移動 ロボット （ AMR ）市場の規模と予測、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > autono...」（https://www.gminsights.com/ja/industry-analysis/autonomous-mobile-robots-market）
+  - 「AMRロボット メーカー40社 注目ランキング【2026年】 — AMRロボット メーカー40社 注目ランキング【2026年】 Metoree https://metoree.com > ロボット」（https://metoree.com/categories/8569/）
+  - 「AMR ( 搬送ロボット ) / AGV(無人 搬送 車) メーカー23社の製品一覧 — AMR ( 搬送ロボット ) / AGV(無人 搬送 車) メーカー23社の製品一覧 indexPro https://www.indexpro.co.jp > 産業分野」（https://www.indexpro.co.jp/Category/2058）
+  - 「第4回：日本で AMR が注目される理由 - 協働 ロボット .com — 第4回：日本で AMR が注目される理由 - 協働 ロボット .com 協働ロボット.com https://www.kyodo-robot.com > blog_amr > 202006-amr4」（https://www.kyodo-robot.com/blog_amr/202006-amr4）
+  - 「AMR （ 自律 走行 搬送ロボット ）とは？AGV（無人 搬送 車）と ... — AMR （ 自律 走行 搬送ロボット ）とは？AGV（無人 搬送 車）と ... aspina-robotics.com https://aspina-robotics.com > column > amr-column-001」（https://aspina-robotics.com/ja/column/amr-column-001/）
+  - 「AMR （ 自律 走行 搬送ロボット ）とは？ 自律 性がもたらす物流 ... — AMR （ 自律 走行 搬送ロボット ）とは？ 自律 性がもたらす物流 ... JapanStep https://robo.japanstep.jp > learn > 2024/12」（https://robo.japanstep.jp/learn/2024/12/586/）
+  - 「Autonomous Mobile Robots Market Report 2026 — Autonomous Mobile Robots Market Report 2026 The Business Research Company https://www.thebusinessresearchcompany.com > ...」（https://www.thebusinessresearchcompany.com/report/autonomous-mobile-robots-global-market-report）
+
+## 検査の自動化（外観検査ロボット）（automated visual inspection robot market）
+- 文脈：工場無人化
+- 市場規模：
+  - 「世界第2位の経済大国である中国は、2030年までに69億米ドルの市場規模に達すると予測され、分析期間2024-2030年のCAGRは14.0%です」（https://newscast.jp/smart/news/8124445）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「International Federation of Robotics - World Robotics 2024 Press Release: Record 4 Million Robots in Factories Worldwide, September 24, 2024 - ifr.org」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「市場規模は、2022年の 32億5,100万米ドルから2024年には 40億3,100万米ドルへ拡大しました」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「ハードウェアの市場規模は2025年に19.76億米ドルとなり、2035年までに61.22億米ドルに達すると予測され、年平均成長率（CAGR）は約12.06%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「コンポーネントタイプ別ロボットビジョンシステム市場規模、2022〜2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「ソフトウェアの市場規模は、2025年の15.79億米ドルから2035年には50.25億米ドルへ拡大すると推定され、年平均成長率（CAGR）は約12.36%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「サービスの市場規模は、2025年の9.44億米ドルから2035年には20.76億米ドルへ拡大すると予測され、年平均成長率（CAGR）は約8.23%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「2Dビジョンの市場規模は2025年に27.10億米ドルとなり、2035年までに74.05億米ドルに達すると予測され、年平均成長率（CAGR）は約10.66%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「3Dビジョンの市場規模は、2025年の17.90億米ドルから2035年には58.18億米ドルへ拡大すると予測され、年平均成長率（CAGR）は約12.59%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「検査は最大の用途であり、2025 年の市場規模は 15.79 億米ドルと推定され、2035 年には 50.25 億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「ハンドリングの市場規模は、2025 年の 10.19 億米ドルから 2035 年には 32.13 億米ドルに拡大すると予測され、年平均成長率は約 12.26% となる見込みである」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「組立の市場規模は、ビジョンによって部品が次の工程へ進む前に、向き、存在および完全性を確認できることから、2025 年の 7.69 億米ドルから 2035 年には 19.83 億米ドルに拡大すると予測され、年平均成長率は約 10.03% となる見込みである」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+- 成長率：
+  - 「2024年に186億米ドルと推定される自動外観検査システムの世界市場は、2024年から2030年にかけてCAGR 10.5%で成長し、2030年には338億米ドルに達すると予測されます」（https://newscast.jp/smart/news/8124445）
+  - 「本レポートで分析したセグメントの1つである3-Dimensional Detailは、CAGR 8.8%を記録し、分析期間終了時には198億米ドルに達すると予測されています」（https://newscast.jp/smart/news/8124445）
+  - 「2次元ディテールセグメントの成長率は、分析期間でCAGR 13.2％と推定されます」（https://newscast.jp/smart/news/8124445）
+  - 「米国市場は51億米ドルと推定、中国はCAGR14.0％で成長予測」（https://newscast.jp/smart/news/8124445）
+  - 「世界第2位の経済大国である中国は、2030年までに69億米ドルの市場規模に達すると予測され、分析期間2024-2030年のCAGRは14.0%です」（https://newscast.jp/smart/news/8124445）
+  - 「その他の注目すべき地域別市場としては、日本とカナダがあり、分析期間中のCAGRはそれぞれ7.7%と9.1%と予測されています」（https://newscast.jp/smart/news/8124445）
+  - 「欧州では、ドイツがCAGR約8.2%で成長すると予測されています」（https://newscast.jp/smart/news/8124445）
+  - 「世界のロボットビジョンシステム市場は、2025年に 45億米ドルと評価され、2026年の 50億米ドルから2035年までに 132億米ドルへ成長すると推定されており、2026年から2035年にかけての年平均成長率（CAGR）は約 11.5%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「市場規模は、2022年の 32億5,100万米ドルから2024年には 40億3,100万米ドルへ拡大しました」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「市場の 11.47%の成長軌道は、単一の設備投資サイクルではなく、用途の拡大に基づくものと推定されます」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「ハードウェアは2025年に 19億7,600万米ドルで最大の構成要素となっている一方、ソフトウェアは約 12.36%の年平均成長率（CAGR）で、より速い成長が予測されています」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「ハードウェアの市場規模は2025年に19.76億米ドルとなり、2035年までに61.22億米ドルに達すると予測され、年平均成長率（CAGR）は約12.06%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「検査ロボット市場は、2027年までに30.5%の健全なCAGRで成長すると予測されている | Report Oceanのプレスリリース」（https://prtimes.jp/main/html/rd/p/000002845.000067400.html）
+  - 「検査ロボット市場は、2027年までに30.5%の健全なCAGRで成長すると予測されている」（https://prtimes.jp/main/html/rd/p/000002845.000067400.html）
+- 需要量：
+  - 「世界の産業用ロボットの稼働台数は、2023年末時点で 4,281,585台に達しており、同年には 541,302台が導入されました」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「世界のロボット導入台数は 2023 年に 3 年連続で 50 万台を上回り、54万1,302台に達した」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「ASML は 2024 年に 2 台の High-NA EUV システムについて売上を計上し、第 4 四半期には 3 台目のシステムを出荷した」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「米国の自動車メーカーは2023年に産業用ロボット 12,421台を導入し、電気・エレクトロニクス産業は 3,900台を導入したことで、ビジョンを活用した自動化の大規模な導入基盤が形成されています」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「欧州では2023年に産業用ロボット 92,393台が導入され、その内訳はドイツが 28,355台、イタリアが 10,412台、フランスが 6,386台、スペインが 5,053台でした」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「中国の市場規模は 2025 年に 6.68 億米ドルであり、2023 年には産業用ロボットを 276,288 台導入し、世界の導入台数の 51% を占めた」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「インドでは 2023 年に産業用ロボット 8,510 台が導入され、そのうち 3,551 台が自動車用途であった」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「メキシコの自動車産業は 2023 年、同国における産業用ロボット導入台数の約 70% を占め、溶接、組立、検査の自動化に向けた集中的な基盤を形成した」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「2023 年における中国の 276,288 台のロボット導入、日本で確立されたロボット基盤、韓国の半導体産業への集中、インドの製造業拡大が、同じ地域内でそれぞれ異なる需要源を形成している」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「ASMLは2024年にHigh-NA EUVシステム2台の売上高を計上し、第4四半期には3台目のシステムを出荷した」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「同データによると、2023年の世界の稼働中の産業用ロボットは4,281,585台、導入台数は541,302台に上った」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「」によると、回答した企業の7割近くが検査工程の難しさについて「検査能力の個人差が大きい」と答えています」（https://linkwiz.co.jp/topics/column/automation_20191004/）
+  - 「画像収集からAI学習・判定までを1台で実現」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「【全周検査対応】外観検査ロボットで検査工程以外も1台で自働化可能」（https://mono.ipros.com/cg3/%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「『曲面検査ロボット』は、安川電機製の人協働ロボット（20kg可搬）と、」（https://mono.ipros.com/cg3/%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+- 主要供給元・シェア：
+  - 「利益率が厳しくなり、顧客の要求がより厳しくなるにつれ、メーカーはスピードを犠牲にすることなく品質を確保するソリューションに投資しています」（https://newscast.jp/smart/news/8124445）
+  - 「さらに、技術コストが下がり、ユーザー・インターフェイスがより直感的になるにつれて、外観検査システムはもはや大手メーカーに限定されるものではないです」（https://newscast.jp/smart/news/8124445）
+  - 「ニュースのシェア」（https://newscast.jp/smart/news/8124445）
+  - 「ロボットビジョンシステム市場の規模・シェア・動向レポート（2035年）」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「ロボットビジョンシステム市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「Keyence Corporation は、2025年に 12.1% 超の市場シェアを占め、市場をリードしました」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「が含まれ、2025年には合計で 42.7% の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「メーカーは、製品バリエーションが増加するなか、流出不良の防止、品質判断の記録、自動化ラインの生産性維持を目的として、ビジョンシステムを導入するケースを増やしています」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「導入時の負担を軽減しながら検査の信頼性を維持できるサプライヤーは、この広範な導入基盤を継続的なソフトウェア、サービス、交換需要へと転換できる立場にあります」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「ビジョンシステムは、寸法、部品などの有無、表面状態、トレーサビリティに関する情報を提供し、生産工程を修正したり、後工程で付加価値が加わる前に不良品を分別したりするために必要な情報を供給する」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「ビジョンシステムのサプライヤーにとって、半導体需要は高付加価値の機会を生み出す可能性がある一方、認定要件、長い販売サイクル、顧客集中度の高さにより、この垂直市場は幅広い産業検査市場とは異なる事業特性を持つ」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「組み込み AI ツール、アプリケーションライブラリ、エッジコンピューティングアーキテクチャ、サプライヤー支援による立ち上げ」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「その結果生じる必要投資額は、技術的な導入効果が明確であっても、生産量の少ないメーカーでの導入を遅らせる可能性がある」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「そのため、アプリケーションに関する知見、リモートサポート、検証済みの導入ワークフローを一体的に提供するサプライヤーは、センサー性能だけでなく導入リスクでも競争できる」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「したがって、市場の拡大は、カメラ価格のさらなる低下よりも、サプライヤーが複雑な光学、データ、制御に関する作業を再現性のあるアプリケーションへと変換できるかどうかに左右されます」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+- 日本企業の位置：
+  - 「その他の注目すべき地域別市場としては、日本とカナダがあり、分析期間中のCAGRはそれぞれ7.7%と9.1%と予測されています」（https://newscast.jp/smart/news/8124445）
+  - 「CHIPSおよび科学法は、国内の半導体製造と研究投資を支援し、専門的な検査、計測、マテリアルハンドリングシステムを必要とする先進的な施設の計画群を生み出しています」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「日本の市場規模は 2025 年に 4.17 億米ドルであった」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「2023 年における中国の 276,288 台のロボット導入、日本で確立されたロボット基盤、韓国の半導体産業への集中、インドの製造業拡大が、同じ地域内でそれぞれ異なる需要源を形成している」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「同社の2024年の売上高は9億1,450万米ドルであり、Moritexの買収により、日本および半導体市場における光学部品のポジションが強化された」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「日本の現場にフィットする外国人材を発掘・育成し、お客様の現場に最適な人材をご提案します」（https://engineering-technology.brexa.com/blog/technavi/automatedappearanceinspection/）
+  - 「における情報を集めた国内最大級の技術データベースサイトです」（https://mono.ipros.com/cg3/%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「★7/9(火)より開催される「FOOMA JAPAN」にて本製品を展示します」（https://mono.ipros.com/cg3/%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「国内営業拠点・国内関係会社」（https://kawasakirobotics.com/jp/blog/visualinspection20240902/）
+  - 「Current Region: Japan」（https://kawasakirobotics.com/jp/blog/visualinspection20240902/）
+  - 「日本 (日本語)」（https://kawasakirobotics.com/jp/blog/visualinspection20240902/）
+  - 「日本の現場にフィットする外国人材を発掘・育成し、お客様の現場に最適な人材をご提案します」（https://engineering-technology.brexa.com/blog/technavi/appearanceinspectionrobot/）
+  - 「における情報を集めた国内最大級の技術データベースサイトです」（https://mono.ipros.com/cg2/%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「株式会社日立ソリューションズ東日本」（https://mono.ipros.com/cg2/%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「東日本イワタニガス株式会社」（https://mono.ipros.com/cg2/%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+- 供給制約・不足：
+  - 「熟練した検査員の不足や人件費の高騰など、労働市場の課題もあり、自動化がさらに進んでいます」（https://newscast.jp/smart/news/8124445）
+  - 「データ処理の複雑さと専門人材の不足」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「深刻化する人材不足」（https://linkwiz.co.jp/topics/column/automation_20191004/）
+  - 「「人材不足」も、ロボット化が必要とされる要因のひとつとなっており、さらに「教育コストの高さ」も企業にとって大きな負担になっています」（https://linkwiz.co.jp/topics/column/automation_20191004/）
+  - 「こうした「人材不足」と「教育コストの高さ」が相まって、産業全体で人手不足感が高まっています」（https://linkwiz.co.jp/topics/column/automation_20191004/）
+  - 「人手不足・技術継承の問題の将来的なリスクを回避できる」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「自動化を進めることで、属人性の高い作業からの脱却が図れ、将来的な人材不足の影響を最小限に抑えることができます」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「人材は市場でも不足しており、外注する場合は費用が高騰し、自社で育成する場合は長期的な投資が求められます」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「導入タイミングや規模によっては、人材不足がボトルネックとなる可能性もあります」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「検査には「良い眼と集中力」が求められるため、若い人材しか対応できず、人手不足が深刻でした」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「さらに、少子高齢化による慢性的な人材不足が重なり、労働生産性が著しく低下していました」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「外観検査の自動化は、品質安定や人手不足対策に有効ですが、導入の進め方を誤ると期待した効果が得られないこともあります」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「学習用画像が不足していたり、ばらつきのあるデータで学習した場合、実運用時に想定外の誤判定が発生することもあります」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「検査精度の向上やコスト削減、人手不足への対応といった利点がある一方で、装置のカスタマイズや人材確保など、現場に応じた工夫も必要です」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「この技術革新は製造現場の生産性向上だけでなく、品質の安定化や人手不足問題の解決にも大きく貢献しています」（https://engineering-technology.brexa.com/blog/technavi/automatedappearanceinspection/）
+- 政策・予算：
+  - 「1995年の創立以来、海外市場調査レポートの販売を通じて企業のグローバル展開を支援しています」（https://newscast.jp/smart/news/8124445）
+  - 「産業オートメーションでは、固定された動作シーケンスを繰り返すだけでなく、ロボットが生産上の判断を行う、または判断を支援することがますます求められている」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「自動車生産では、ビジョンシステムが車体パネルの隙間・段差測定、溶接検証、バッテリーセル検査を支援している」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「組み込み AI ツール、アプリケーションライブラリ、エッジコンピューティングアーキテクチャ、サプライヤー支援による立ち上げ」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「CHIPSおよび科学法は、国内の半導体製造と研究投資を支援し、専門的な検査、計測、マテリアルハンドリングシステムを必要とする先進的な施設の計画群を生み出しています」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「Intelは、Geek+のビジョン専用ロボットソリューションで使用されているRealSense技術を含め、ビジョン対応のエッジおよび深度センシングアーキテクチャを支援している」（https://www.gminsights.com/ja/industry-analysis/robotic-vision-systems-market）
+  - 「ロボットSIerによる工場自動化支援メディア」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「ここでは外観検査の自動化に成功した企業を経済産業省のロボット導入実証事例をもとに紹介します」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「自動化全体の構築支援にも強みがある」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「BRICSでは累計200社以上の工場自動化の支援」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「ハードウェアエンジニアとソフトウェアエンジニアの両方が在籍しているため、お客様の現状の課題に合わせた、自動化支援が可能です」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「ロボット導入支援、加工、設備工事、人材紹介、ソフトウェア開発など、製造業の困りごとを“現場目線”で解決する事業を幅広く展開している」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「静岡県のロボットSIer企業・メーカー10選！エリア別・選び方・補助金まで徹底解説」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「工場自動化を相談するなら？FAコンサル・SIerの違いと選び方、支援企業も紹介」（https://brics.ltd/smart-factory/visual-inspection-automation/）
+  - 「構想設計から詳細設計・CAE・評価まで、多様なスキルと経験で設計業務を支援します」（https://engineering-technology.brexa.com/blog/technavi/automatedappearanceinspection/）
+- 検索結果の抜粋：
+  - 「外観検査ロボット とは？仕組みや事例、おすすめメーカー3社 ... — 外観検査ロボット とは？仕組みや事例、おすすめメーカー3社 ... 株式会社FAプロダクツJSS事業部 https://jss1.jp > column > column_113」（https://jss1.jp/column/column_113/）
+  - 「外観検査ロボット - メーカー・企業7社の業務用製品ランキング — 外観検査ロボット - メーカー・企業7社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ロボット > 検査ロボット」（https://mono.ipros.com/cg3/%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「外観検査ロボット とは？仕組みや事例、おすすめ メーカー 3社 ... — 外観検査ロボット とは？仕組みや事例、おすすめ メーカー 3社 ... 株式会社FAプロダクツJSS事業部 https://jss1.jp > column > column_113」（https://jss1.jp/column/column_113/）
+  - 「外観検査ロボット - メーカー ・ 企業 7社の業務用製品ランキング — 外観検査ロボット - メーカー ・ 企業 7社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ロボット > 検査ロボット」（https://mono.ipros.com/cg3/%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+- 部品構成比・単価：記載なし（読んだ46頁・検索16回）
+
+## 造船の溶接自動化（shipbuilding welding automation robots）
+- 文脈：造船
+- 市場規模：
+  - 「世界アーク溶接ロボット市場規模、成長のトップ25企業」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「Spherical Insights & Consulting が発表した研究報告によると、グローバルアーク溶接ロボット市場規模は、2024 年までに 2.9 億米ドル 4.1 億米ドル 4.1 億米ドル 4.1 億米ドル 2035 年までに、予測期間 2024-2035 年の間に 3 .2% のCAGR で成長する予定である.」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「アーク溶接ロボットの市場規模は、2024年のUSD 2.9億の価値があると推定されました」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「世界アーク溶接ロボット市場規模は、2035年までにUSD 4.1億ドルに達すると予想されます」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「電気溶接機器の日本市場（2026年～2034年）、市場規模（自動車、建設、造船、エネルギー、航空宇宙）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/5998055）
+  - 「電気溶接機器の日本市場（2026年～2034年）、市場規模（自動車、建設、造船、エネルギー、航空宇宙）・分析レポートを発表」（https://newscast.jp/news/5998055）
+  - 「（５年間120億円）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「採択（予算額2.0億円）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「（総事業費1,200億円）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「→サプライチェーン強靭化事業で11件を採択（総事業費167億円）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「ゼロエミッション船等の建造促進事業（R6年度開始分 5年間 600億円）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「ゼロエミッション船等の建造促進事業（R7年度開始分 5年間 300億円）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「経済安全保障推進法に基づく「船舶関連機器のサプライチェーン強靭化」補助 （106億円）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「ＤXによる船舶産業の省人化・効率化補助 造船のDXオートメーション補助（2.0億円）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「経済安全保障推進法に基づく「デジタル技術を用いた高性能次世代船舶開発技術」等開発（120億円）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+- 成長率：
+  - 「Spherical Insights & Consulting が発表した研究報告によると、グローバルアーク溶接ロボット市場規模は、2024 年までに 2.9 億米ドル 4.1 億米ドル 4.1 億米ドル 4.1 億米ドル 2035 年までに、予測期間 2024-2035 年の間に 3 .2% のCAGR で成長する予定である.」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「市場は、2024年～2035年の間に3.2%のCAGRで拡大する予定です」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「インダストリアル4.0やMake in Indiaなど、労働コストの増加、産業オートメーションの採用増加、政府の取り組みの拡大は、ロボット溶接システムをデプロイするメーカーを奨励しています」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「業界4.0とスマートマニュファクチャリングの採用拡大」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「本調査会社は、2034年までに市場が3,711.7百万米ドルに達し、2026年から2034年の期間で年平均成長率（CAGR）6.50%を示すと予測しています」（https://newscast.jp/news/5998055）
+  - 「2023年、ジャワハルラール・ネルー港湾局（JNPA）は、過去最高の9,027万トンの貨物を取り扱い、前年比4.25％の増加を記録しました」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「• 今後、新造船需要の回復局面で2030年代の需要は倍増すると見込まれる一方、人材確保は困難な状況」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「• なお、二酸化炭素回収・貯留(CCS)の世界的な拡大に伴い、LCO2輸送船の造船市場規模は、2030年までに計」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「1.1兆円程度、2040年までに計3.2兆円程度※に拡大すると見込まれている」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「国土交通省と内閣府は2025年12月に「造船業再生ロードマップ」を策定し、年間建造量を現在の約900万総トンから2035年に1,800万総トンへ倍増させる目標を掲げました（」（https://ai-revolution.co.jp/media/ai-in-shipbuilding/）
+  - 「当社は、2016-2020年度グループ中期経営計画において、溶接ソリューションの推進を掲げており、溶接工程の生産性向上に寄与する自動溶接の適用範囲拡大に取り組んでいます」（https://www.kobelco.co.jp/releases/1197778_15541.html）
+  - 「造船業用自動溶接システムの世界市場調査：規模、シェア、成長率（2026-2032年） - QY Research株式会社」（https://qyresearch.hateblo.jp/entry/2026/01/05/165115）
+  - 「造船業用自動溶接システムの世界市場調査：規模、シェア、成長率（2026-2032年）」（https://qyresearch.hateblo.jp/entry/2026/01/05/165115）
+  - 「自動化ICプログラミングシステム日本市場分析レポート：市場規模、成長率、主要企業の動向2026-20…」（https://qyresearch.hateblo.jp/entry/2026/01/05/165115）
+  - 「政府が3,500億円規模の再生基金を準備しても、現場の人材不足が解消されない限り、建造能力の拡大は困難です」（https://research.nicoxz.com/articles/kawasaki-autonomous-shipbuilding-robot-ai-welding）
+- 需要量：
+  - 「2023年、ジャワハルラール・ネルー港湾局（JNPA）は、過去最高の9,027万トンの貨物を取り扱い、前年比4.25％の増加を記録しました」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「江蘇省を拠点とするこの造船所は、香港を拠点とする同社から、従来型船舶燃料用の合計21万重量トンの容量を持つ8棟の新しい建造物を建造するよう依頼されました」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「は、常石工場で65,700メートルトン（MT）のメタノール二元燃料バルクキャリアTESS66 AEROLINE（TESS66）の初号機を進水させました」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「TSUNEISHI SHIPBUILDING Co. Ltdは、常石工場で最初の65,700メトリックトン(MT)のメタノール二元燃料ばら積み貨物船TESS66 AEROLINE (TESS66)を進水させました」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「〒110-0005、東京都台東区、上野３丁目２０－８、小島ビルSBC 4 - 69」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「OECD予測： 1.0～1.1億総トン（2030年）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「Clarksons予測： 0.82億総トン（2030年）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「0.94億総トン（2034年）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「※2 今後のエネルギー政策等の変更により将来の船舶需要量に変更の可能性あり」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「(2030年最大300万トン、2040年１,２００万トン、2050年2,000万トン）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「(2030年最大300万トン、2050年３,000万トン）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「(2040年高位=0.7億トン、低位=0.1億トン)」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「造船業のAI活用は、2026年に入って「各社の個別の試み」から「国が資金を出す共同開発」へ段階が変わりました」（https://ai-revolution.co.jp/media/ai-in-shipbuilding/）
+  - 「造船業でAI活用が急がれる理由と、国の目標（2035年に年間建造量1,800万総トン）」（https://ai-revolution.co.jp/media/ai-in-shipbuilding/）
+  - 「国土交通省と内閣府は2025年12月に「造船業再生ロードマップ」を策定し、年間建造量を現在の約900万総トンから2035年に1,800万総トンへ倍増させる目標を掲げました（」（https://ai-revolution.co.jp/media/ai-in-shipbuilding/）
+- 部品構成比・単価：
+  - 「タイプ別では、ばら積み貨物船セグメントが2037年末までに注目すべきシェアを占める可能性が高い」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「今治造船は2026年1月にジャパンマリンユナイテッド（JMU）の株式60%を取得してグループ化し、国内建造量の過半を占める規模になりました（」（https://ai-revolution.co.jp/media/ai-in-shipbuilding/）
+  - 「造船大組立では、ロボット適用箇所の溶接時間の約2/3を占める立向上進溶接に対し、高能率化へのニーズがあります」（https://www.kobelco.co.jp/releases/1197778_15541.html）
+- 主要供給元・シェア：
+  - 「インダストリアル4.0やMake in Indiaなど、労働コストの増加、産業オートメーションの採用増加、政府の取り組みの拡大は、ロボット溶接システムをデプロイするメーカーを奨励しています」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「•メーカーによる戦略的パートナーシップとロボティクス投資」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「製品ポートフォリオ、事業概要、地理的フットプリント、戦略的取り組み、市場セグメントシェア、SWOT分析に基づく比較評価を含みます」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「大手メーカーは市場競争力維持のため、先進的な自動溶接ソリューションの研究開発に継続的に投資しています」（https://newscast.jp/news/5998055）
+  - 「これに対応し、溶接装置メーカーは、エネルギー効率が高く、電力消費を抑え、クリーンな排出を実現するインバーターベースの装置を採用しています」（https://newscast.jp/news/5998055）
+  - 「さらに、メーカーは製造工程での廃棄物削減を目指し、よりリサイクル可能な材料の採用や設計改善を進めています」（https://newscast.jp/news/5998055）
+  - 「メーカーは、航空宇宙、自動車、造船などの特定の産業の個別の要件に合わせた、よりカスタマイズされた溶接ソリューションを提供しています」（https://newscast.jp/news/5998055）
+  - 「これらの技術は、メーカーにとって溶接作業の管理に大きな制御と信頼性をもたらし、革命的な変化をもたらしています」（https://newscast.jp/news/5998055）
+  - 「競争環境に関しても、本市場調査レポートは包括的な分析を提供しており、市場構造、主要企業のポジショニング、トップの勝利戦略、競争ダッシュボード、企業評価クアドラントなどがカバーされています」（https://newscast.jp/news/5998055）
+  - 「また、すべての主要企業の詳細なプロファイルも提供されています」（https://newscast.jp/news/5998055）
+  - 「第11章には主要企業各社（A社、B社、C社、D社、E社）の事業概要、提供製品、事業戦略、SWOT分析、主要ニュースとイベントといった詳細な企業情報が記載されている」（https://newscast.jp/news/5998055）
+  - 「第12章には市場の推進要因、制約、機会、ポーターの5フォース分析（買い手の交渉力、サプライヤーの交渉力、競争の程度、新規参入の脅威、代替品の脅威）、バリューチェーン分析といった業界分析が記載されている」（https://newscast.jp/news/5998055）
+  - 「溶接の基本的なメカニズムは、溶接電源から供給される大電流によって、電極と母材（溶接される金属）間にアークと呼ばれる高温の放電現象を発生させることにある」（https://newscast.jp/news/5998055）
+  - 「電気溶接機器は、主要な構成要素として、溶接電流を供給する溶接電源（インバータ式が主流）、アークを発生させる溶接トーチまたはホルダ、電流を伝送するケーブル、アースクランプから成る」（https://newscast.jp/news/5998055）
+  - 「TIG/MIG/MAG溶接では、さらにシールドガス供給装置が不可欠であり、MIG/MAG溶接では溶接ワイヤ自動送給装置も装備される」（https://newscast.jp/news/5998055）
+- 日本企業の位置：
+  - 「アジアパシフィックは、中国、日本、韓国、インドなどの国で特に自動車、電子機器、重工業の強力な拡大による急速な成長を目撃しています」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「本社: 神戸市, 日本」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「電気溶接機器の日本市場（2026年～2034年）、市場規模（自動車、建設、造船、エネルギー、航空宇宙）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/5998055）
+  - 「電気溶接機器の日本市場（2026年～2034年）、市場規模（自動車、建設、造船、エネルギー、航空宇宙）・分析レポートを発表」（https://newscast.jp/news/5998055）
+  - 「株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「電気溶接機器の日本市場（2026年～2034年）、英文タイトル：Japan Electric Welding Equipment Market 2026-2034」調査資料を発表しました」（https://newscast.jp/news/5998055）
+  - 「資料には、電気溶接機器の日本市場規模、動向、予測、関連企業の情報などが盛り込まれています」（https://newscast.jp/news/5998055）
+  - 「日本の電気溶接装置市場は、2025年に2,106.2百万米ドル規模に達しました」（https://newscast.jp/news/5998055）
+  - 「日本の電気溶接装置市場のトレンドとしては、自動化とロボット統合の進展が挙げられます」（https://newscast.jp/news/5998055）
+  - 「日本の持続可能性重視の姿勢に伴い、政府は「トップランナー制度」などのプログラムを通じて、従来の基準と比較して電力消費を35%削減するよう推進しています」（https://newscast.jp/news/5998055）
+  - 「これらの装置は日本のカーボンニュートラル目標に合致し、魅力的です」（https://newscast.jp/news/5998055）
+  - 「本レポートでは、「日本の電気溶接装置市場はこれまでどのように推移し、今後どのように推移するのか？」、「装置別、技術別、用途別、地域別の日本の電気溶接装置市場の内訳は？」、「日本の電気溶接装置市場のバリューチェーンにおけるさまざまな段階は何か？」、「日本の電気溶接装置市場の主要な推進要因と課題は何か？」、「日本の電気溶接装置市場の構造と主要プレイヤーは誰か？」、「日本の電気溶接装置市場の競争の程度はどうか？」といった主要な疑問に回答を提供しています」（https://newscast.jp/news/5998055）
+  - 「第4章には日本の電気溶接装置市場の概要、市場の動向（ダイナミクス）、業界トレンド、競合情報といった導入部分が記載されている」（https://newscast.jp/news/5998055）
+  - 「第9章には関東、関西/近畿、中部/中京、九州・沖縄、東北、中国、北海道、四国といった日本の地域別の市場分析（概要、過去・現在のトレンド、機器別、技術別、用途別の市場内訳、主要プレイヤー、将来予測）が記載されている」（https://newscast.jp/news/5998055）
+  - 「日本の造船市場調査、規模、シェア、予測、傾向、2037年」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「日本の造船市場調査―アプリケーション別（商用、防衛）ー世界の需要と供給の分析、成長予測、統計レポート 2025ー2037 年」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+- 供給制約・不足：
+  - 「2025年4月 パスロボティクスとALM ポジショナーは、高度なポジショニングシステムとロボット溶接を統合する戦略的パートナーシップを発表しました, 精度を強化することにより、製造における自動化を変革した完全自律的なAI搭載ソリューションを作成, 複雑性を軽減, 熟練した労働不足に対処する.」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「AI集積・協調ロボットをはじめ、熟練した労働力不足とともに、地域におけるアーク溶接ロボットの需要をさらに高める技術進歩」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「•労働不足による自動化のための上昇の要求」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「労働不足によるオートメーション化の要求」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「産業はアーク溶接ロボットを採用し、熟練した溶接機の不足に対処し、マニュアルの労働に対する依存性を減らします」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「グローバルアーク溶接ロボット市場は、製造業界全体の自動化の増加、高精度溶接の需要増加、継続的な労働不足により推進され、強力で持続的な成長のために表彰されます」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「さらに、環境に優しい材料や代替燃料インフラの需要が、造船プロジェクトの不足や遅延を引き起こしています」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「労働力とリソースの不足:」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「多くの熟練労働者 (溶接工、エンジニア、造船技師) が引退しており、彼らに代わる若い労働者が不足しています」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「人材不足により熟練労働者の賃金が上昇し、造船コスト全体が上昇しています」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「人材不足に対処しながら、」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「● 一方、人口減少に伴い、造船・舶用事業者の人手不足はさらに深刻化していく」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「・人手不足への対応 ・船舶の効率的な建造 ・国際競争力の強化」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「る船員負荷低減技術の開発と船員不足に対応するコンセプト」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「人手不足と技能者の高齢化」（https://ai-revolution.co.jp/media/ai-in-shipbuilding/）
+- 政策・予算：
+  - 「私たちは、専門家、パーソナライズされたデータを支援するためにここにいます」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「また、業界 4.0 や産業オートメーションを推進する支援政府の取り組みは、世界中の市場浸透を加速しています」（https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-arc-welding-robots-market-statistics-report-till-2035）
+  - 「国内の造船能力は、造船金融支援政策などの政府の奨励策によって強化されています」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「強力な政府支援、継続的な技術進歩、革新的な生産方法の導入はすべて、業界の競争力向上に貢献しています」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「政府の強力な支援と世界の海事企業との戦略的提携は、このセグメントにとって有利です」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「主要企業は、先進的な造船施設、強力な政府支援、そして最先端技術を維持するための継続的な研究開発投資の恩恵を受けています」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「豊富な調査専門知識に基づき、情報に基づいた意思決定と長期的な成長を支援する、カスタマイズされたインテリジェンスを提供しています」（https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61）
+  - 「採択（予算額2.0億円）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「→GX経済移行債を活用し、16件の生産設備整備を支援」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「→事業基盤強化計画の認定及び同計画に関連する支援措置を実施」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「経済安全保障推進法に基づく「船舶関連機器のサプライチェーン強靭化」補助 （106億円）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「経済安全保障推進法に基づく「デジタル技術を用いた高性能次世代船舶開発技術」等開発（120億円）」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「２）経済産業省「2040年におけるエネルギー需給の見通し」のCCS輸送量の海外輸送量の高位より」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「令和7年2月に閣議決定された「第7次エネルギー基本計画」及び経済産業省が発表した「2040年における」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「ＧＩ基金(次世代船舶の開発)：393.4億円(最長10年間)」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+- 検索結果の抜粋：
+  - 「造船 業のAI活用事例2026年版｜設計 自動化 ・ 溶接 検査・予知 ... — 造船 業のAI活用事例2026年版｜設計 自動化 ・ 溶接 検査・予知 ... AI革命株式会社 https://ai-revolution.co.jp > メディア」（https://ai-revolution.co.jp/media/ai-in-shipbuilding/）
+  - 「導入事例：造船現場で磨かれた、川崎重工のロボット技術 ～8台のロボ... — 導入事例：造船現場で磨かれた、川崎重工のロボット技術 ～8台のロボットによる船殻ブロックの溶接自動化～（川崎重工業株式会社 船舶海洋ディビジョン） 産業分野 船舶 適用用途 アーク溶接 ロボットシリーズ BAシリーズ」（https://kawasakirobotics.com/jp/case-studies/case_khimarine/）
+  - 「造船業の自動溶接ロボット開発が示す、自動運転技術の製造現場への水... — Jun 8, 2026 · 松山市の企業が造船業向けに開発した自動溶接ロボットが注目を集めています。愛媛県は今治造船をはじめとする日本有数の造船拠点ですが、熟練溶接工の高齢化と後継者不足が深刻化しており、生産能力の維持が課題となっていました。今回の開発は、溶接プロセス全体の自動化により、品質 ...」（https://autonomous-driving.businesshub.trueone.co.jp/blog/20260608-01.html）
+  - 「造船自動化ソリューション 三菱商事テクノス株式会社 Pemamek — 造船 Vision 3D Vision 3Dはフラットパネル溶接の自動化を大きく飛躍させます。 このソフトウェアはスキャナが移動中にワーク情報を取り込み、ロボット用に3Dモデルを作成します。 既存の3Dモデルや煩雑な手作業によるモデリングはもはや必要ありません。」（https://pemamek.com/japan-shipbuilding/）
+  - 「造船・鉄道車両向け溶接ロボットシステム | KOBELCO 神戸製鋼 — 造船・鉄道車両向け溶接ロボットシステムのページです。KOBELCOグループ 神戸製鋼は、素材・機械・電力を3本柱とする技術・製品・ソリューションで人々の暮らしの安全・安心を支え、社会課題の解決に貢献しつづけます。」（https://www.kobelco.co.jp/products/welding/system/robot-system/ship-railway.html）
+
+## 防衛用ドローンの部材・機体（military drone components airframe market）
+- 文脈：防衛
+- 市場規模：
+  - 「軍用ドローン市場規模・予測レポート 2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍用ドローン市場規模：プラットフォームタイプ別、2025年・2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「徘徊型弾薬の市場規模は2025年に2億3,300万米ドルで、2035年までに24.9億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「The Defense News. “U.S. Navy Awards Boeing $562 Million Contract for First Production MQ-25A Stingray Tanker Drones.” thedefensenews.com」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍事用ドローン市場の市場規模は2025年に182億米ドルと推定され、2026年には209億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「4. 市場規模の推計」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「• 2035年を見据えた投資では、現在の市場規模よりも「自律化によって変わる産業構造」を捉える」（https://newscast.jp/smart/news/5262280）
+  - 「貨物ドローン市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/cargo-drone-market）
+  - 「貨物ドローン市場規模、シェア、トレンド分析レポート：タイプ別（固定翼、ハイブリッド、回転翼）、自動化レベル別（完全自律、半自律、遠隔制御）、航続距離別（超短距離、短距離、中距離、長距離）、積載量別（超軽量、軽量、中量、重量物）、コンポーネント別（カメラ、センサー、機器、その他）、用途別（商用貨物、軍事貨物）、エンドユーザー産業別（Eコマース、建設、政府・防衛機関、ヘルスケア、オフショア・エネルギー、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026年～2034年」（https://straitsresearch.com/jp/report/cargo-drone-market）
+  - 「世界の貨物ドローン市場規模は、2025年には20億5000万米ドルと評価され、2026年の27億6000万米ドルから2034年には296億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は34.55%となる見込みです」（https://straitsresearch.com/jp/report/cargo-drone-market）
+  - 「2025年の市場規模：20億5000万米ドル」（https://straitsresearch.com/jp/report/cargo-drone-market）
+  - 「2034年の市場規模予測：293億8000万米ドル」（https://straitsresearch.com/jp/report/cargo-drone-market）
+- 成長率：
+  - 「また、2026年から2035年にかけて年平均成長率（CAGR）12.9%で拡大し、2035年には623億米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2027会計年度までDoDのUAS予算が持続的に拡大すれば、北米市場の売上高は予測期間の早い段階で高い年平均成長率（CAGR）を示す」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「自律システムの導入によりプラットフォーム当たりの実質ASPが上昇し、2035年まで売上高のCAGRが販売台数のCAGRを上回る」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2026年8月のBISによる航続時間のしきい値規則を含む輸出管理の自由化措置により、対象市場は段階的に拡大するものの、2026〜2030年の予測期間内に競争力の差が解消されることはない」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「MALEプラットフォームは2035年までに193億3,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）14.3%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「電子戦は2025年に14.6億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）15.5%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「UAVドローン市場は、2025年の363億6,000万ドルから2035年には958億6,000万ドルに達すると予測されており、2026年から2035年までの予測期間に年平均成長率（CAGR）10.18％で拡大すると見込まれています」（https://newscast.jp/smart/news/5262280）
+  - 「2035年に958億6,000万ドル規模へ拡大すると予測されるUAVドローン市場では、今後10年間で市場参加企業の事業モデルそのものが変化する可能性があります」（https://newscast.jp/smart/news/5262280）
+  - 「2025年から2035年にかけてのCAGR 10.18％という成長率は、単純な機体台数の増加だけではなく、物流、インフラ、農業、建設、エネルギー、災害対応、警備など複数産業への用途拡大によって支えられる構造を示しています」（https://newscast.jp/smart/news/5262280）
+  - 「UAVドローン市場は、2025年の363億6,000万ドルから2035年には958億6,000万ドルへ拡大し、2026年から2035年にかけて**CAGR 10.18％**で成長すると見込まれています」（https://newscast.jp/smart/news/5262280）
+  - 「2025年から2035年にかけて市場が363億6,000万ドルから958億6,000万ドルへ拡大し、CAGR 10.18％で成長すると予測されるなか、企業にとって本質的な投資テーマは、ドローンが単独の機器から自律的に情報を収集し、分析し、現場業務の一部を代替する産業インフラへ進化する可能性にあります」（https://newscast.jp/smart/news/5262280）
+  - 「貨物ドローン市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/cargo-drone-market）
+  - 「世界の貨物ドローン市場規模は、2025年には20億5000万米ドルと評価され、2026年の27億6000万米ドルから2034年には296億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は34.55%となる見込みです」（https://straitsresearch.com/jp/report/cargo-drone-market）
+- 需要量：
+  - 「自律システムの導入によりプラットフォーム当たりの実質ASPが上昇し、2035年まで売上高のCAGRが販売台数のCAGRを上回る」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「• 軽量ドローン (<25kg)」（https://newscast.jp/smart/news/5262280）
+  - 「• 中量ドローン (25-170 kg)」（https://newscast.jp/smart/news/5262280）
+  - 「• 重量ドローン (>170 kg)」（https://newscast.jp/smart/news/5262280）
+  - 「2025年から2035年にかけてのCAGR 10.18％という成長率は、単純な機体台数の増加だけではなく、物流、インフラ、農業、建設、エネルギー、災害対応、警備など複数産業への用途拡大によって支えられる構造を示しています」（https://newscast.jp/smart/news/5262280）
+  - 「Report Ocean株式会社は、市場調査およびコンサルティングの分野で、正確で信頼性の高い最新の調査データおよび技術コンサルティングを求める個人および企業に対して、7年以上にわたり高度な分析的研究ソリューション、カスタムコンaサルティング、深いデータ分析を提供するリーディングカンパニーです」（https://newscast.jp/smart/news/5262280）
+  - 「Ziplineは、2014年にケラー・リナウド・クリフトン、キーナン・ワイロベック、ライアン・オクセンホーン、ウィリアム・ヘッツラーによって設立されたアメリカのドローン配送会社です」（https://straitsresearch.com/jp/report/cargo-drone-market）
+  - 「フェザー級（0.004～5kg）」（https://straitsresearch.com/jp/report/cargo-drone-market）
+  - 「軽量（5～45kg）」（https://straitsresearch.com/jp/report/cargo-drone-market）
+  - 「ミドル級（45～150kg）」（https://straitsresearch.com/jp/report/cargo-drone-market）
+  - 「重量物運搬（150kg以上）」（https://straitsresearch.com/jp/report/cargo-drone-market）
+  - 「✓ 機体重量2200kg、翼幅20m、航続距離6000km、ペイ」（https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf）
+  - 「ロード1700kgと巨大な機体」（https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf）
+  - 「14.0万台」（https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf）
+  - 「※航空法無人航空機登録台数（国交省）、ドローンビジネス調査報告書2025（インプレス総合」（https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf）
+- 部品構成比・単価：
+  - 「2018年以降、世界の武装軍用ドローン移転に占める米国の割合はわずか8%にとどまっている（CNAS Drone Proliferation Dataset）」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「HALEプラットフォームは2025年に56億6,000万米ドルの売上を生み、2035年までに市場収益の22.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「TUAV/MUAVプラットフォームは2025年に56.2億米ドルを生み出し、2035年には市場収益の30.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「ISR/偵察は2025年に100.3億米ドルを生み出し、2035年には市場収益の42.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「通信中継は2025年に7億2,900万米ドルの売上高を生み、2035年には市場売上高の4.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「欧州の軍用ドローン売上高は2025年に44億7,000万米ドルとなり、2035年までに世界市場の26.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「英国の軍用ドローン売上高は2025年に8億9,300万米ドルとなり、2035年までに欧州市場の売上高の20.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「日本の2025年の軍用ドローン売上高は8億700万米ドルで、2035年にはアジア太平洋市場の売上高の15.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「イスラエルの国内軍用ドローン収益は2025年に2億1,500万米ドルとなり、2035年には中東・アフリカ市場の収益の20.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「Israel Aerospace Industriesは、2025年の世界の軍用ドローン市場シェアの推定6.8%を占める」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「をはじめとするＵＡＶは現在、ＤＪＩを筆頭に中国メーカーが圧倒的な世界シェアを持ち、日本市場でも産業用途の９割を中国社製の機体が占める」（https://newswitch.jp/p/48023）
+  - 「2025年の世界ドローン市場規模は約838億ドルで、ハードウェアが59%超を占める」（https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide）
+  - 「資料が期待する量産単価は、迎撃用UAVが1機あたり数十万円以下、UAVを除く装置一式が1,000万円以下です」（https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/）
+  - 「防衛装備庁「令和8年度 防衛省版SBIR トピック2 国内製造の部品・構成品を活用した迎撃用UAVシステム」p.1（概要・背景）、p.1〜2（研究開発内容）、p.3（国内製造の部品・構成品、その他条件、期待する量産単価）、p.3（量産予定量）、p.3〜5（フェーズごとの内容）、p.5（接続仕様の取扱い）」（https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/）
+  - 「量産単価の目標はAI・UIソフトウェア取得費1,000万円以下、AI導入費1隻あたり1,000万円以下です」（https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/）
+- 主要供給元・シェア：
+  - 「軍用ドローン市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「を超える市場シェアを獲得し、首位に立った」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「の市場シェアを占めた」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「この違いは供給企業にとって重要である」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「定期的な予算配分により、生産計画、サプライヤーの認定、予備部品の確保、ペイロードの更新、訓練インフラの整備が可能になるためだ」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「その結果、国家安全保障上の要件、現地調達への期待、同盟内の相互運用性基準を満たせる供給企業にとって、対象市場が広がっている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「米国のサプライヤーは、サービスを提供できる顧客や任務に制限を受ける一方、納期の速さ、移転の容易さ、現地産業の参画が受注決定に影響する市場では、規制の緩やかな代替製品が競争力を持つ」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「共通の認証手続きやパートナー国による型式承認に早期に投資するサプライヤーは、契約済みの需要をプラットフォーム収益として計上できる可能性が高まる」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「利用可能な生産能力と、信頼性の高い自律性・生存性・認証のロードマップを組み合わせられるサプライヤーは、再軍備の意向を実現可能なプログラムへと転換するうえで優位に立つ」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「戦術ドローンの配備が拡大するなか、迅速な配備、モジュール式ペイロード、相互運用可能な地上管制アーキテクチャを提供できるサプライヤーは、優位性を維持する可能性が高い」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「実績ある発射、標的設定、操縦者訓練のエコシステムを備えたサプライヤーは、軍がこうした能力の標準化を進めるなかで恩恵を受ける可能性がある」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍用ドローン市場シェア（用途別）、2025年」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「初期のプログラムでは、厳しい気象、地形、通信環境下での信頼性を実証できるサプライヤーが優先される可能性が高い」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「信頼性の高いペイロード統合、安全な自律機能、兵器関連のパートナーシップ網を備えるプラットフォーム供給企業は、用途を狭く限定したISR製品を主力としてきた企業よりも有利な立場に立つと考えられる」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+- 日本企業の位置：
+  - 「幅広い調達ポートフォリオは、主契約企業と専門サプライヤーの双方に事業規模をもたらす一方、安全保障、認証、国内調達、プログラム統合に関する参入障壁も高める」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「同国の重要性は国内調達にとどまらず、欧州の共同プログラムの進展の速度や構成にも、ドイツの産業面の判断が影響を及ぼす」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「フランスでは、MALEシステムに対する運用上の需要に加え、国内航空宇宙産業の能力と欧州プログラムへの参加が戦略的に重視されている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「国内製造、セキュリティ保証、同盟国の作戦との統合が、引き続き競争力の要となる」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「同地域の軍用ドローン市場は、中国の国内調達、インドの国産化と輸入、そして日本とオーストラリアにおける同盟国の戦力近代化という、複数の独立した需要要因に支えられている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「この多様な需要構成により、特定の国のプログラムへの依存が抑えられ、国内生産システム、対外有償軍事援助、共同生産、協調型自律システムの取り組みに機会が生まれている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「中国の需要は、輸出活動よりも、MALE、戦闘機、自律型航空機に対する中国人民解放軍（PLA）の国内要件によって主にけん引されている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「厚い国内産業基盤が、複数の能力階層にわたるプラットフォーム開発を支えている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「インド市場では、国内開発と選択的な海外調達が組み合わさり、国内企業と国際的なOEMの双方に二つの市場機会が生まれている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「日本の2025年の軍用ドローン売上高は8億700万米ドルで、2035年にはアジア太平洋市場の売上高の15.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「日本は防衛態勢の変化に伴い、海・空・陸の任務における無人能力を拡充している」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「対UASおよび自律システムの正式な調達活動は、日本の無人システムのポートフォリオが多様化していることを示している」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「同地域の需要は、高コストの戦闘航空機計画よりも、国境監視、海洋状況把握、国内治安支援に集中している」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「潤沢な資金を背景とする調達環境では、米国、欧州、中国、トルコのサプライヤー間の競争が促される一方、国内の産業育成への意欲から、現地能力の重要性が高まっている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「サウジアラビアの需要は、国境警備、地域の脅威認識、国内の防衛産業育成を優先する政策の影響を受けている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+- 供給制約・不足：
+  - 「同盟国に義務付けられた支出の下限により、先送りされていた予算が優先度の高いUAS能力の不足分に振り向けられ、従来の主要購入者を超えて潜在市場が広がる」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「NATOの更新された支出方針により、持続的な監視、消耗型攻撃システム、相互運用可能な戦術機体群などの能力不足への対応が重視されている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「この用途は、見通し外で活動する分散部隊や、地形によって地上通信が制限される地域で活動する部隊における、継続的な接続性の不足に対応するものだ」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「物流分野では、UAVドローンが人手不足や輸送効率の改善という構造的課題に対応する手段として注目されています」（https://newscast.jp/smart/news/5262280）
+  - 「特に日本では、人口減少、現場人材不足、インフラ維持管理、地域物流などの課題とUAV技術の活用余地が重なっており、今後は「どの業務をドローンに置き換えるか」だけでなく、「ドローンによって取得したデータをどのような意思決定やサービスにつなげるか」が競争力を左右します」（https://newscast.jp/smart/news/5262280）
+  - 「✓ 韓国のドローンの部品の国産化率は30％を占めているが、中国による部品輸出規制を懸念してさらなる国産部品のシェア向上を目指し、2025年5月、」（https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf）
+  - 「重要なのは、ドローンが点検ツール、物流実証、スタートアップ技術、あるいは航空法上の規制対象としてだけ扱われる段階を越え、防衛、航空宇宙、経済安全保障、インフラ維持管理、防災、労働力不足、産業競争力という言葉の中に置かれ始めたことである」（https://drone-journal.impress.co.jp/docs/special/1188648.html）
+  - 「日本の課題は「実証不足」ではない」（https://drone-journal.impress.co.jp/docs/special/1188648.html）
+  - 「日本に不足しているのは、実証そのものではない」（https://drone-journal.impress.co.jp/docs/special/1188648.html）
+  - 「小型無人航空機（ドローン）は、防衛の装備品としても、人手不足が深刻な民生分野でも活用が進んでいる機体です」（https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html）
+  - 「自治体は、人手不足分野でのドローン活用、地元企業の部品・ソフトウェア分野への参入、調達時のサイバーセキュリティへの配慮で関われます」（https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html）
+  - 「現状と構造変化 ― 小型無人航空機の特定国依存と量産体制の不足」（https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html）
+  - 「重要構成品の特定国依存と、量産体制を確立できるだけの需要の不足という課題に対し、量産設備投資の支援、ファストパス調達、国産品の需要拡大などを一体的に進めます」（https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html）
+  - 「・小型無人航空機は、民生分野でも、人手不足が深刻化する分野を中心に活用が進展」（https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html）
+  - 「・防衛・経済安全保障双方の観点から、国内生産基盤が必須も、量産体制を確立できるだけの需要が不足」（https://digital-supporter.net/mirai-ai/17invest/kogata-mujinki.html）
+- 政策・予算：
+  - 「この変化により買い手層が広がる一方、センサー、自律性、航法の強化、運用支援に対する要件を通じて、プラットフォーム当たりの収益も増加している」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「収益の拡大は予算の確保だけでなく、OEMの生産能力、輸出機会、航法の耐障害性、認証済みシステムを予定どおりに運用開始できる能力にも左右される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「世界的な防衛調達予算の拡大」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「プラットフォーム当たりの予算配分の増加により、MALEおよびHALEプログラムの開始が加速し、統合軍司令部全体でSUASの調達量が拡大する」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2027会計年度までDoDのUAS予算が持続的に拡大すれば、北米市場の売上高は予測期間の早い段階で高い年平均成長率（CAGR）を示す」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「同盟国に義務付けられた支出の下限により、先送りされていた予算が優先度の高いUAS能力の不足分に振り向けられ、従来の主要購入者を超えて潜在市場が広がる」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「防衛支出の増加は、戦時の例外的な購入ではなく、継続的なUASプログラム予算へと結びつく傾向が強まっている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「定期的な予算配分により、生産計画、サプライヤーの認定、予備部品の確保、ペイロードの更新、訓練インフラの整備が可能になるためだ」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「サイバーセキュリティ強化要件によりプログラム開発予算が増加し、認証の遅延が発生することで、2027〜2030年の調達サイクルに参入する新たなMALEおよびSUASプラットフォームの初期運用能力の獲得が先送りされる」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「認証に起因する遅延により、防衛予算サイクルごとの実質的な調達年数が短縮され、各年の実際のプラットフォーム納入数が契約数量を下回るとともに、予測期間前半の収益が中期へと移行する」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「このセグメントは、旅団レベルのISRから局地的な攻撃支援、砲兵との連携まで、最も幅広い運用主体のニーズに応える」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「調達は緊急の運用ニーズへの対応から正式な調達枠への移行が進んでいるものの、分類方法は国ごとの予算によって異なる場合がある」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「持続的な情報収集、標的設定支援、状況認識があらゆる任務の基盤となるため、ISRは最大の用途であり続けている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍事用物流ドローンは、実験段階から、前線への補給、弾薬輸送、紛争地域での医療支援など、用途を絞った運用へと移行しつつある」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「最も重要なセグメントの転換は、任務別の機体群から、偵察、攻撃、電磁作戦を支援できる構成変更可能なシステムへの移行にあるとみている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+- 検索結果の抜粋：
+  - 「防衛省版SBIRの新公募を読む｜迎撃UAV・国内製造部品・AI監視 | SkyLi... — Oct 19, 2026 · 防衛省版SBIRの令和8年度公募を、迎撃用UAVの国内製造部品、洋上警戒監視AI、量産費用計画から解説。公式資料とFAQをもとに、部品・ソフト企業の参画方法、採択と配備の違い、企業・自治体がドローン導入で確認したい供給・保守・運用の条件を整理します。」（https://skylinkjapan.com/blog/japan-defense-sbir-domestic-drone-2026/）
+
+## 産業用ドローンの部材（industrial drone components market）
+- 文脈：航空・宇宙
+- 市場規模：
+  - 「ドローン市場規模・シェア・トレンド2034」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「ドローンの市場規模、シェア、動向、予測 タイプ、コンポーネント、ペイロード、販売地点、最終用途産業、地域別 2026-2034」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「2025年の市場規模」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「2025年の世界のドローン市場規模は」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「ドローン市場規模は2025年に339億米ドルと評価され、2034年までには791億米ドルに達すると予測されています」（https://newscast.jp/smart/news/6318744）
+  - 「米国国防総省による2029年までの90億ドルのドローン投資計画、ノースロップ・グラマンによる同盟国向けRQ-4グローバルホーク維持管理契約3億8700万ドル、そしてインドの国内ドローン製造向けPLI制度は、防衛支出がいかに強力な市場アンカーとして機能し、産業エコシステムの開発、研究開発投資、軍事用途から商業用途への技術普及を支えているかを如実に示している」（https://newscast.jp/smart/news/6318744）
+  - 「世界の小型ドローン市場規模は 2024 年に 58億6,000万米ドルに達し、2025年から2034年にかけて年平均成長率（CAGR）12.5%で拡大すると推定される」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+  - 「2024年の市場規模」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+  - 「2034年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+  - 「Small Drones Market Size, By Type, 2021-2034 (USD Billion)」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+  - 「米国小型ドローン市場規模、2021〜2034年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+  - 「米国の小型ドローン市場規模は、2024年に 9億5,490万米ドルに達した」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+  - 「英国の小型ドローン市場規模は、2024年に 3億210万米ドルに達した」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+  - 「中国市場の市場規模は、2024年に 6億2,990万米ドルに達した」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+  - 「市場規模で 2024」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+- 成長率：
+  - 「2026年から2034年にかけて、市場は年平均成長率」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「（CAGR）9.89%」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「2026-2034年の市場成長率」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「例えば、FAAが制定した「パート107」規則やその他の米国政府の規制緩和法は、商用ドローンのミッション拡大を促進しています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「ドローン市場、2034年までに791億米ドル規模へ拡大 | 年平均成長率（CAGR）9.89%を記録 | NEWSCAST」（https://newscast.jp/smart/news/6318744）
+  - 「ドローン市場、2034年までに791億米ドル規模へ拡大 | 年平均成長率（CAGR）9.89%を記録」（https://newscast.jp/smart/news/6318744）
+  - 「2034年までに成長率を示す」（https://newscast.jp/smart/news/6318744）
+  - 「年平均成長率（CAGR）9.89%」（https://newscast.jp/smart/news/6318744）
+  - 「5Gネットワークの世界的な展開は、ドローンの運用能力を根本的に拡大させています」（https://newscast.jp/smart/news/6318744）
+  - 「北米、ヨーロッパ、アジア太平洋地域で5Gの普及が進むにつれ、商用ドローンの用途は今後も大幅に拡大していくでしょう」（https://newscast.jp/smart/news/6318744）
+  - 「中国が世界のドローン製造を支配していること（DJIをはじめとする中国メーカーが世界のドローン輸出の70%以上を占めている）は、ハードウェア価格を継続的に引き下げながら性能を向上させることで、世界市場の拡大に大きく貢献してきた」（https://newscast.jp/smart/news/6318744）
+  - 「世界の小型ドローン市場規模は 2024 年に 58億6,000万米ドルに達し、2025年から2034年にかけて年平均成長率（CAGR）12.5%で拡大すると推定される」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+  - 「年平均成長率（CAGR、2025〜2034年）」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+  - 「2023年10月にAmazonがドローン配送サービスをイタリアおよび英国へ拡大したことは、商用ドローンの用途に対する信頼が高まっていることを示している」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+  - 「ナノドローン市場は、2034年までに年平均成長率（CAGR）13.1%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+- 需要量：
+  - 「FAAはさらに、米国内で約90万台のドローン登録があったと報告している」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「このアプローチにより、農薬の使用量を最大95％削減し、農家あたり年間約52ドルのコスト削減が可能になる可能性があります」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「中国航空運輸協会の「2023-2024年中国ドローン発展報告書」によると、2024年8月末時点で登録されたドローンは200万台に達し、2023年末から72万台増加した」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「中国の民間用ドローン生産額は、2025年までに2,000億人民元（275億米ドル）の大台を突破すると予想されている」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「世界のドローン市場は、ドローンレースや個人向け写真撮影などのレクリエーション活動に対する消費者の関心によって牽引されており、5G、IoT、拡張現実（AR）技術の導入もその要因となっている」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「Precision AIのプラットフォームは、農薬使用量を最大95%削減し、農家が1エーカーあたり年間約52米ドルを節約できる可能性を示しています」（https://newscast.jp/smart/news/6318744）
+  - 「農業用ドローンは、世界で最も商業的に重要な非軍事用ドローン用途の1つとして台頭しており、アジア、北米、ラテンアメリカの主要農業地域で普及が加速しています」（https://newscast.jp/smart/news/6318744）
+  - 「これらのドローンは、農薬を的確に散布することで化学物質の使用量を最大70%削減し、同時に収量管理を改善する作物の健康データを取得することができます」（https://newscast.jp/smart/news/6318744）
+  - 「SZ DJI Technology Co., Ltd. は商用およびプロシューマー向けドローンセグメントを支配しており、Phantom、Mavic、Matrice シリーズを含む製品ラインによって、世界の出荷台数の 70% 超のシェアを占めている」（https://www.gminsights.com/ja/industry-analysis/small-drone-market）
+  - 「ドローン市場規模、シェア、トレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、製品別（固定翼、マルチローター、シングルローター、その他）、技術別（遠隔操作、半自律型、完全自律型）、ペイロード容量別（2kg以下、2kg～19kg、20kg～200kg、200kg超）、電源別（バッテリー駆動、ガソリン駆動、水素燃料電池、太陽光発電）、用途別（消費者向け、商業用、軍事・防衛、政府・法執行機関向け、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年」（https://straitsresearch.com/jp/report/drone-market）
+  - 「軽量で機敏、かつコスト効率に優れたUAVへの需要の高まりを受け、最大2kgまでのセグメントが市場を席巻しています」（https://straitsresearch.com/jp/report/drone-market）
+  - 「2kg～19kg」（https://straitsresearch.com/jp/report/drone-market）
+  - 「20kg～200kg」（https://straitsresearch.com/jp/report/drone-market）
+  - 「200kg以上」（https://straitsresearch.com/jp/report/drone-market）
+  - 「5つに共通するのは、「機体を1台選ぶ」という発想から「運用の仕組みを設計する」という発想への移行です」（https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/）
+- 部品構成比・単価：
+  - 「2025年には、25キログラム未満のドローンが53.8％という最大の市場シェアを占めると予測されており、これは、空撮、小型荷物の配送、環境モニタリング、インフラ点検、農業用途など、軽量ドローンの幅広い商業的および消費者向け用途を反映している」（https://newscast.jp/smart/news/6318744）
+  - 「2025年の世界ドローン市場規模は約838億ドルで、ハードウェアが59%超を占める」（https://ja.ycforge.com/uav-drone-parts-aluminum-forging-guide）
+  - 「地球温暖化対策のひとつとして世界的に自動車のEVシフト（電動化）が始まっていて、その動きは欧米や中国を中心に進んでおり、近年、自動車の大きな市場となっている中国では、2024年の新車販売台数に占めるEVやPHV（プラグインハイブリッド車）の割合は4割にも上るという」（https://drone-journal.impress.co.jp/docs/special/1187727.html）
+  - 「地球温暖化対策のひとつとして世界的に自動車のEVシフト（電動化）が始まっていて、その動きは欧米や中国を中心に進んでおり、近年、自動車の大きな市場となっている中国では、2024年の新車販売台数に占めるEVやPHV（プラグインハイブリッド車）の割合は4割にも上るという」（https://jp.alongwalker.co/z/43993.html）
+- 主要供給元・シェア：
+  - 「ドローン市場規模・シェア・トレンド2034」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「Supplier Evaluation」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「ドローンの市場規模、シェア、動向、予測 タイプ、コンポーネント、ペイロード、販売地点、最終用途産業、地域別 2026-2034」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「地域別では、北米が市場で最大のシェアを占めています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「ドローンサービスへの需要が高まり続ける中、米国市場はメーカー、サービスプロバイダー、研究イニシアチブからなる強固なエコシステムの恩恵を受けており、ドローンのイノベーションと普及におけるリーダーとしての地位を確固たるものにしています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「メーカー、技術プロバイダー、規制当局を含む業界関係者の間の連携強化も、ドローンの需要に好影響を与えています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「2025年、固定翼ドローンはドローン市場シェアの52.5%を占め、最大のセグメントとなりました」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「さらに、建設、鉱業、農業などの様々な産業において、高精度な地理空間データへの需要が高まっていることが、このカテゴリーにおける世界のドローン市場シェアを牽引しています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「同レポートによると、2025年にはハードウェアが65.7%のシェアを占め、最大のセグメントとなりました」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「本レポートによると、2025年には25キログラム未満のカテゴリーが53.8%という最大の市場シェアを占めました」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「同レポートによると、2025年にはOEM（Original Equipment Manufacturers）が市場を牽引し、シェアは69.1%に達すると予測されています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「同レポートによると、2025年には軍事・防衛分野が市場シェアの30.5%を占め、市場を牽引した」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「これに加え、ガルダ・エアロスペースとエルビット・システムズは、防衛エキスポにおいて、民間および政府機関向けに「スカイラーク3」UASドローンを供給する契約を締結した」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「2025年、世界のドローン市場レポートによると、北米は48.4%のシェアを占め、市場を牽引するセグメントとなりました」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「新興スタートアップやグローバルメーカーとの提携が、ラテンアメリカにおけるイノベーションを推進し、ドローンの活用範囲を拡大しています」（https://www.imarcgroup.com/report/ja/drones-market）
+- 日本企業の位置：
+  - 「例えば、オーストラリアのCASA（民間航空安全局）は、Perceptoという「ドローン・イン・ア・ボックス」ソリューションプロバイダーによる、同国内での視界外飛行を承認しました」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「FAAはさらに、米国内で約90万台のドローン登録があったと報告している」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「インド、日本、韓国では、農業の精密農業、建設測量、効率的な配送のための物流において広く利用されています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「インド政府は、「2021年ドローン規則」やドローン向け生産連動型インセンティブ（PLI）プログラムなどの施策を通じて、国内での生産と普及を促進している」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「韓国と日本は、スマート農業やインフラ点検にドローンを活用している」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「同報告書はさらに、日本の主要農場の30％が、作物のモニタリングや散布にドローンを使用していると述べている」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「ノースロップ・グラマン社は、イタリア、日本、韓国のRQ-4グローバルホークドローンの維持管理に関する3億8700万米ドルの対外軍事販売（FMS）契約を獲得した」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「米国防総省は、この契約が韓国政府、日本の防衛省、および北大西洋条約機構（NATO）に対する米国防総省の対外軍事販売の一環であると述べた」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「米国、カナダ、ドイツ、フランス、英国、イタリア、スペイン、ロシア、中国、日本、インド、韓国、オーストラリア、インドネシア、ブラジル、メキシコ」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「Overall, the deliverable was well organized and my experience with the project team was good. In particular, I appreciated how they responded when I requested additional information and the Japanese version.」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「Japan Market Research」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「一方、ノースロップ・グラマンは、2024年4月にイタリア、日本、韓国向けのRQ-4グローバルホーク無人機の維持管理に関する3億8700万米ドルの対外有償軍事援助契約を獲得した」（https://newscast.jp/smart/news/6318744）
+  - 「日本では、主要農場の約30%が既に作物の監視や精密散布にドローンを使用しています」（https://newscast.jp/smart/news/6318744）
+  - 「米国、欧州、インド、日本、韓国、オーストラリアにおける国家防衛近代化イニシアチブは、小型戦術偵察UAVからRQ-4グローバルホークやMQ-9リーパーのような大型高高度滞空型プラットフォームまで、あらゆるレベルの高度なドローンシステムに対する持続的かつ長期にわたる政府調達需要を生み出している」（https://newscast.jp/smart/news/6318744）
+  - 「米国国防総省による2029年までの90億ドルのドローン投資計画、ノースロップ・グラマンによる同盟国向けRQ-4グローバルホーク維持管理契約3億8700万ドル、そしてインドの国内ドローン製造向けPLI制度は、防衛支出がいかに強力な市場アンカーとして機能し、産業エコシステムの開発、研究開発投資、軍事用途から商業用途への技術普及を支えているかを如実に示している」（https://newscast.jp/smart/news/6318744）
+- 供給制約・不足：
+  - 「Eコマースや物流業界では、配送の迅速化のためにドローンを活用しており、従来の輸送手段への依存度を低減しています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「ラテンアメリカのドローン市場は、農業および天然資源産業への依存度の高さに牽引されており、ドローンは作物のモニタリング、害虫駆除、資源探査に活用されている」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「マルチローター型UAVへの依存度の高まりは、その市場における優位性をさらに強固なものにし、商用および産業用ドローンの用途を再構築しています」（https://straitsresearch.com/jp/report/drone-market）
+  - 「なかでも「産業用ドローン」は、農業や建設、インフラ点検、物流などの現場において、人手不足や業務効率化、安全性向上といった課題解決の手段として注目されています」（https://www.helicam.jp/column/%E7%94%A3%E6%A5%AD%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B%E3%83%BB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E6%A9%9F%E7%A8%AE%E3%83%BB/）
+  - 「最大の成長要因は、深刻化する人手不足（物流・建設の2024年問題以降の余波）と、インフラ老朽化への対応です」（https://factory-dx-center.com/industrial-drone-manufacturers/）
+  - 「：災害時の初動対応や、警備員不足を補う巡回監視としての利用急増」（https://factory-dx-center.com/industrial-drone-manufacturers/）
+  - 「災害用モデルは高い防塵防水と自動運用・赤外線計測など、過酷環境・人手不足下でも正確な情報把握を可能にする機能が充実しています」（https://factory-dx-center.com/industrial-drone-manufacturers/）
+  - 「一方で、法規制の整備や操縦者不足といった課題も存在し、成長スピードは各国の制度対応や技術普及の度合いによって左右されます」（https://factory-dx-center.com/industrial-drone-manufacturers/）
+  - 「また、操縦者や運用管理者の不足も実運用拡大の妨げとなっています」（https://factory-dx-center.com/industrial-drone-manufacturers/）
+  - 「✓ 韓国のドローンの部品の国産化率は30％を占めているが、中国による部品輸出規制を懸念してさらなる国産部品のシェア向上を目指し、2025年5月、」（https://www.meti.go.jp/shingikai/mono_info_service/drone_industry/pdf/20251224_1.pdf）
+  - 「■人手不足を解消」（https://mono.ipros.com/cg2/%E7%94%A3%E6%A5%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/）
+- 政策・予算：
+  - 「ドローン市場は、技術の進歩、規制面の支援、そして多様な分野における需要の急増により成長しています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「この市場は、急速な技術進歩、政府による強力な支援、そして業界横断的な普及によって牽引されています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「政府の政策と支援的な規制」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「いくつかの政府政策や支援的な法規制の実施は、世界のドローン市場の動向を形作る上で極めて重要な役割を果たしている」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「加えて、人道支援活動における技術活用を促進する好意的な取り組みの開始は、ドローンの価値を高め、国境を越えた共同プロジェクトを促進しており、これが予測期間中の市場拡大を後押しすることになる」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「アジア太平洋地域は、急速な都市化、産業部門の拡大、および様々な産業へのドローン導入を支援する政府政策により、世界的なドローン普及において主導的な立場にあります」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「欧州のドローン市場は、欧州連合（EU）によって確立されたイノベーションと支援的な規制枠組みに支えられ、物流、農業、インフラ点検などの分野での成長を促進している」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「一方、アフリカ諸国では、遠隔地への人道支援にドローンが活用されています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「米国防総省は、この契約が韓国政府、日本の防衛省、および北大西洋条約機構（NATO）に対する米国防総省の対外軍事販売の一環であると述べた」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「ポーターの5つの力分析は、新規参入、競合他社との競争、供給者の力、購入者の力、代替品の脅威といった要因の影響を評価する上でステークホルダーを支援します」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「規制当局もまた、支援的なガイドラインや政策を策定する必要がある」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「人道支援用途および災害対応における市場範囲の拡大：」（https://newscast.jp/smart/news/6318744）
+  - 「政府の調達予算やNGOの運用展開に支えられた、国家災害管理フレームワークへのドローンの統合の拡大は、安定した非周期的な需要を生み出し、世界のドローン市場の範囲を商業用やレクリエーション用アプリケーションをはるかに超え、不可欠な人道支援インフラへと拡大させています」（https://newscast.jp/smart/news/6318744）
+  - 「軍事・防衛分野は、世界的な防衛近代化計画、巨額の政府調達予算、そして偵察、監視、国境警備、多領域戦術作戦においてドローンが提供する重要な運用価値を背景に、2025年には市場シェアの30.5%を占め、市場を牽引する存在となるだろう」（https://newscast.jp/smart/news/6318744）
+  - 「IMARCグループは、世界で最も意欲的な変革者たちが永続的なインパクトを生み出すことを支援するグローバル経営コンサルティング会社です」（https://newscast.jp/smart/news/6318744）
+
+## ロボット用ベアリング（robot bearings market humanoid）
+- 文脈：フィジカルAI・部材
+- 市場規模：
+  - 「ベアリング市場規模・予測レポート、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「軸受市場では、ボールベアリングセグメントが2025年に売上高の43.0%を占め、2035年までに市場規模が396億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「軸受市場規模：製品タイプ別、2025年・2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「滑り軸受の市場規模は2025年に92億米ドルで、2035年には141億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「その他の特殊軸受は、2025年に市場収益の3.0%を占め、2035年には市場規模が28億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「フルセラミック軸受の市場規模は2025年に23億米ドルで、2026〜2035年に年平均成長率9.5%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「OEM向け調達の市場規模は2025年に400億米ドルでした」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「自動車分野は2025年に世界全体の売上高の33.0%を占め、2035年には市場規模が292億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「エネルギー・電力分野の市場規模は2025年に63億米ドルとなり、2026〜2035年に年平均成長率（CAGR）7.7%で拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「農業分野の市場規模は2025年に40億米ドルとなり、2035年には57億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「鉄道分野の市場規模は2025年に29億米ドルとなり、2026〜2035年に年平均成長率（CAGR）4.9%で拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「コンクリートパイプマシン市場規模220百万米ドル予測：世界の産業現状、競合分析、成長動向2026」（https://www.atpress.ne.jp/news/4439486）
+- 成長率：
+  - 「ヒューマノイドロボット関節ベアリング市場分析レポート：2026年204.93百万米ドル規模、成長率34.76%推移 | NEWSCAST」（https://newscast.jp/smart/news/4439486）
+  - 「ヒューマノイドロボット関節ベアリング市場分析レポート：2026年204.93百万米ドル規模、成長率34.76%推移」（https://newscast.jp/smart/news/4439486）
+  - 「QYResearchの推計によると、世界市場の売上高は2025年に75.35百万米ドルとなり、2032年には1,227.37百万米ドルに拡大する見通しです」（https://newscast.jp/smart/news/4439486）
+  - 「2026～2032年の年平均成長率（CAGR）は34.76％と予測されています」（https://newscast.jp/smart/news/4439486）
+  - 「2032年には553.78百万米ドル、世界シェア45.12％に達する見込みで、2026～2032年の売上高CAGRは44.59％と予測されています」（https://newscast.jp/smart/news/4439486）
+  - 「特に直動関節は2025年に売上高シェア16.24％を占め、2026～2032年のCAGRは41.58％と予測されています」（https://newscast.jp/smart/news/4439486）
+  - 「世界の軸受市場は、2025年に572億米ドルと評価され、2026年には602億米ドルに達し、2026〜2035年に年平均成長率（CAGR）5.1%で拡大して、2035年には942億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「年平均成長率（CAGR、2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「世界の電気自動車販売台数は2024年に1,700万台を超え、前年比で25%超増加」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「OEMチャネルの軸受需要は、2026〜2035年に年平均成長率（CAGR）5.4%で拡大すると予測されます」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「クロム合金軸受の年平均成長率は2026〜2035年に4.2%と予測され、世界市場の成長率を下回る」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「ローラー軸受は2025年に市場収益の38.0%を占め、2026〜2035年に年平均成長率（CAGR）5.7%で拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「ヒューマノイドロボット関節ベアリング市場分析レポート：2026年204.93百万米ドル規模、成長率34.76%推移」（https://www.atpress.ne.jp/news/4439486）
+  - 「QYResearchの推計によると、世界市場の売上高は2025年に75.35百万米ドルとなり、2032年には1,227.37百万米ドルに拡大する見通しです」（https://www.atpress.ne.jp/news/4439486）
+  - 「2026～2032年の年平均成長率（CAGR）は34.76％と予測されています」（https://www.atpress.ne.jp/news/4439486）
+- 需要量：
+  - 「世界の電気自動車販売台数は2024年に1,700万台を超え、前年比で25%超増加」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「少なくとも2028年までEV販売台数が2桁成長を続けることが、短期的な需要を左右する主な条件です」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「汎用品の経済性を超えて、製品1個当たりの売上高が増加します」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「本業界に関連する今後成長/衰退する製品・サービス（上位8個）」（https://service.xenobrain.jp/forecastresults/market-size/bearing-manufacturer）
+  - 「北米のボールベアリング市場は2025年に地域別シェア35.4%を占め、米国エネルギー省の予測では、バッテリー式電気自動車が2030年までに小型自動車販売台数全体の最大61%を占める可能性があり、北米のバッテリーセル生産能力は2030年までに年間1,200GWhを超える見込みであり、精密ベアリングの需要増加を支えている」（https://straitsresearch.com/jp/report/ball-bearing-market）
+  - 「カナダのボールベアリング市場では、政府目標として、2030年までに新型小型車販売台数の60%、2035年までに100%をゼロエミッション車にすること、また、中型・大型ゼロエミッション車については2030年までに新型車販売台数の35%に達させることを目標としており、電気駆動系、商用車、および関連する産業機器に使用されるベアリングに対する追加的な需要が生まれている」（https://straitsresearch.com/jp/report/ball-bearing-market）
+  - 「欧州のボールベアリング市場は予測期間中に年平均成長率（CAGR）8.4%で成長すると予想されており、欧州における電気軽自動車の販売台数は2030年までに新規販売台数の60%近くに達すると予測されているため、電気モーター、駆動系、自動車製造装置に使用される精密ベアリングの需要が増加すると見込まれています」（https://straitsresearch.com/jp/report/ball-bearing-market）
+  - 「英国のボールベアリング市場では、2030年までに新車販売台数の80%、新車バン販売台数の70%をゼロエミッション車にすることを目標としており、ドイツのボールベアリング市場では、2030年までに電気自動車を1500万台普及させることを目標としている」（https://straitsresearch.com/jp/report/ball-bearing-market）
+  - 「アジア太平洋地域のボールベアリング市場は、2025年には地域シェアの24.8%を占める見込みであり、中国は2030年までに新乗用車販売台数の70%、新商用車販売台数の40%を新エネルギー車にすることを目標としており、電気駆動系、モーター、トランスミッション、車両制御システムに使用されるベアリングに対する需要が高まっている」（https://straitsresearch.com/jp/report/ball-bearing-market）
+  - 「日本のボールベアリング市場では、政府が2035年までに新車乗用車の販売台数を100%電動化することを目標としており、韓国のボールベアリング市場では、2030年までに新車販売台数の50%を電気自動車と燃料電池車が占めることを目標としています」（https://straitsresearch.com/jp/report/ball-bearing-market）
+  - 「インドのボールベアリング市場では、IEAは、定められた政策の下で、2030年までに電気自動車の販売台数が15%に近づくと予測しており、自動車、産業機械、電気自動車用途における精密ベアリングの需要増加を支えています」（https://straitsresearch.com/jp/report/ball-bearing-market）
+  - 「自動車業界では2024年に13,000台の産業用ロボットが導入され、過去5年間で最高の導入水準を記録しました」（https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market）
+  - 「例えば、日本の自動車産業は従業員1万人あたり1,531台のロボット密度を達成し、世界第4位に位置付けられており、ベアリングの性能要件を継続的に高める持続的な電動化の勢いを示しています」（https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market）
+  - 「自動車業界では2024年に13,000台の産業用ロボットが導入され、機械的リンク機構や駆動システム全体に専門的なベアリング部品を必要とする大規模な自動化投資が行われました」（https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market）
+  - 「また、2024年には日本の自動車メーカーが産業用ロボットを導入し、その導入台数は過去最高を記録しました」（https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market）
+- 部品構成比・単価：
+  - 「深溝加工分野は、その汎用性、高い耐荷重能力、低摩擦性、そして自動車、産業機械、電気モーター用途における幅広い利用実績により、2025年には44.7%のシェアを占める見込みである」（https://straitsresearch.com/jp/report/ball-bearing-market）
+  - 「自動車分野は、車両のエンジン、トランスミッション、ホイールハブ、ステアリングシステム、その他の自動車部品においてボールベアリングが広く使用されているため、2025年には38.9%のシェアを占める見込みです」（https://straitsresearch.com/jp/report/ball-bearing-market）
+  - 「北米のボールベアリング市場は2025年に地域別シェア35.4%を占め、米国エネルギー省の予測では、バッテリー式電気自動車が2030年までに小型自動車販売台数全体の最大61%を占める可能性があり、北米のバッテリーセル生産能力は2030年までに年間1,200GWhを超える見込みであり、精密ベアリングの需要増加を支えている」（https://straitsresearch.com/jp/report/ball-bearing-market）
+  - 「アジア太平洋地域のボールベアリング市場は、2025年には地域シェアの24.8%を占める見込みであり、中国は2030年までに新乗用車販売台数の70%、新商用車販売台数の40%を新エネルギー車にすることを目標としており、電気駆動系、モーター、トランスミッション、車両制御システムに使用されるベアリングに対する需要が高まっている」（https://straitsresearch.com/jp/report/ball-bearing-market）
+  - 「日本のボールベアリング市場では、政府が2035年までに新車乗用車の販売台数を100%電動化することを目標としており、韓国のボールベアリング市場では、2030年までに新車販売台数の50%を電気自動車と燃料電池車が占めることを目標としています」（https://straitsresearch.com/jp/report/ball-bearing-market）
+  - 「2024年には65歳以上の高齢者が3,625万人に達し、総人口の3分の1近くを占めることになるほか、生産年齢人口が年率1％のペースで減少していることから、日本の製造業全般において労働力確保の課題が深刻化している」（https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market）
+  - 「V-1 flying bomb」（https://en.wikipedia.org/wiki/Robot）
+- 主要供給元・シェア：
+  - 「2032年には553.78百万米ドル、世界シェア45.12％に達する見込みで、2026～2032年の売上高CAGRは44.59％と予測されています」（https://newscast.jp/smart/news/4439486）
+  - 「その他地域も成長が見込まれ、2032年には生産シェア1.56％に達する予測です」（https://newscast.jp/smart/news/4439486）
+  - 「ヒューマノイドロボット関節ベアリングは、摩擦方式では転がり軸受とすべり軸受に分類され、すべり軸受は2032年に売上高シェア8.24％となる見通しです」（https://newscast.jp/smart/news/4439486）
+  - 「特に直動関節は2025年に売上高シェア16.24％を占め、2026～2032年のCAGRは41.58％と予測されています」（https://newscast.jp/smart/news/4439486）
+  - 「2026年7月には、SKFとLeaderdriveが中国でロボット関節向け高精度伝動部品を開発・供給する合弁事業の設立で合意しました」（https://newscast.jp/smart/news/4439486）
+  - 「これは、ヒューマノイドロボットの産業用途拡大を見据え、精密部品メーカーが供給体制と技術連携を強化する動きの一例です」（https://newscast.jp/smart/news/4439486）
+  - 「地域別の生産・消費動向に加え、摩擦方式、内径、軸受構造、関節用途ごとの需要を比較することが、メーカーの製品開発や市場参入戦略を検討するうえで重要です」（https://newscast.jp/smart/news/4439486）
+  - 「本記事は、QY Research発行のレポート「ヒューマノイドロボット関節ベアリング―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します」（https://newscast.jp/smart/news/4439486）
+  - 「ニュースのシェア」（https://newscast.jp/smart/news/4439486）
+  - 「軸受市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「SKF ABは2025年に14%超の市場シェアを獲得し、市場をリードしました」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「この需要構成では、標準製品のコスト管理を維持しながら、高度な材料や設計仕様の認定を取得できるサプライヤーが有利です」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「市場の見通しは、OEMの設備投資計画が継続するかどうか、またメーカーが原材料価格の変動を吸収し、認定済みの補修市場向け販売網を維持できるかどうかに左右されます」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「複数年にわたるOEMのプラットフォーム契約により、メーカーはスポット市場での価格下落の影響を抑えられます」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+- 日本企業の位置：
+  - 「生産面では中国が世界生産量の78.27％、日本が9.38％を占め、主要生産地域となっています」（https://newscast.jp/smart/news/4439486）
+  - 「日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階」（https://newscast.jp/smart/news/4439486）
+  - 「TEL：050-5893-6232（日本）；0081-5058936232（グローバル）」（https://newscast.jp/smart/news/4439486）
+  - 「japan@qyresearch.com」（https://newscast.jp/smart/news/4439486）
+  - 「QYResearch株式会社は、2017年に日本・東京で設立された市場調査・コンサルティング会社です」（https://newscast.jp/smart/news/4439486）
+  - 「中国は市場規模を支え、日本は技術面で主導的な役割を担い、インドではOEM向けおよび交換用の需要基盤が拡大しています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「国内サプライヤーは、より高付加価値の認定取得を目指す一方、グローバル大手企業は技術的難易度の高い用途で競争しています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「日本は2025年にアジア太平洋地域の売上高の15.2%を占め、2026〜2035年の年平均成長率（CAGR）は3.7%と予測されています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「日本の需要は、精密工学、半導体製造装置、特殊産業製品の生産と密接に結び付いています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「製品開発、品質基準、世界で事業を展開する軸受メーカーの存在が、日本の戦略的重要性を支えています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「自動車生産、産業政策、国内製造業への投資、再生可能エネルギーの導入が成長を下支えしています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「需要の拡大に伴い、国内生産能力の増強やグローバルOEMの投資が進むことで、供給面でも市場機会が生まれています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「同地域では、航空宇宙・防衛分野の調達、製造業の国内回帰、エネルギー投資、電気自動車（EV）製造の拡大が市場を支えています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「成長は、国内での認定、サービス支援、サプライチェーンの強靱性が大きな価値を持つ用途に集中しています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「国内製造業の振興策により、技術面で適格性が認められたサプライヤーにとって、現地調達の機会が拡大する可能性があります」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+- 供給制約・不足：
+  - 「原材料の輸入依存度が高いにもかかわらず、日本の強力な研究開発活動により、高品質でコスト効率に優れたベアリング製品の安定供給が確保されている」（https://note.com/lucky_poppy2332/n/n854e35bdbfa9）
+  - 「これは、メーカーが労働力不足に対応するため、特殊なベアリングソリューションを必要とする自動組立システムを導入した結果です」（https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market）
+  - 「関東地方の工業地帯では、労働力不足を背景に製造の自動化が進んでおり、自動化された組立ラインやマテリアルハンドリング機器全体に精密ベアリング部品を必要とするロボットシステムの導入が促進されています」（https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market）
+  - 「各業界は、労働力不足にもかかわらず生産を維持するために産業用ロボットを導入するなど、広範な自動化技術の展開によって対応している」（https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market）
+  - 「自動化アプリケーションを支えるベアリングソリューションには、メンテナンス間隔の短縮と長寿命化が求められており、技術者の確保が困難で設備のメンテナンススケジュールが制約される労働力不足の問題に対処している」（https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market）
+  - 「日本は輸入原材料への依存度が高いため、自然災害や世界的な物流制約による材料不足が発生し、生産の継続性に影響を及ぼす可能性のあるサプライチェーンの混乱にベアリングメーカーはさらされている」（https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market）
+  - 「製造業務を制約する深刻な労働力不足」（https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market）
+  - 「日本の製造業全般において労働力確保の制約が深刻化しており、2024年には労働力不足に関連する倒産が342件記録され、過去と比較して大幅な増加を示している」（https://www.imarcgroup.com/report/ja/japan-industrial-bearings-market）
+  - 「and the consequences of human dependence upon commodified labor (especially after a number of specially-formulated robots achieve self-awareness and incite robots all around the world to rise up against the humans).」（https://en.wikipedia.org/wiki/Robot）
+  - 「, including skills shortages, improving productivity from declining ore grades, and achieving environmental targets. Due to the hazardous nature of mining, in particular」（https://en.wikipedia.org/wiki/Robot）
+- 政策・予算：
+  - 「グローバル市場を対象に、市場調査レポート、業界分析、競合調査、IPO支援、カスタマイズリサーチなど幅広いサービスを展開し、各業界の市場構造や成長性、競争環境を多角的に分析しています」（https://newscast.jp/smart/news/4439486）
+  - 「豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています」（https://newscast.jp/smart/news/4439486）
+  - 「成長は、国内での認定、サービス支援、サプライチェーンの強靱性が大きな価値を持つ用途に集中しています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「過酷な稼働環境により、信頼性、密封性、保守支援の重要性が高まっています」（https://www.gminsights.com/ja/industry-analysis/bearings-market-report）
+  - 「グローバル市場を対象に、市場調査レポート、業界分析、競合調査、IPO支援、カスタマイズリサーチなど幅広いサービスを展開し、各業界の市場構造や成長性、競争環境を多角的に分析しています」（https://www.atpress.ne.jp/news/4439486）
+  - 「豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています」（https://www.atpress.ne.jp/news/4439486）
+  - 「また、センサーと産業用IoT（IIoT）技術の統合により、振動、温度、速度、その他の運転パラメータを監視できるスマートベアリングが実現し、予知保全と故障の早期検知を支援しています」（https://www.reportocean.co.jp/industry-reports/industrial-bearings-market）
+  - 「高度かつ特殊な産業用ベアリングに伴う高コストは、特に資本とメンテナンスの予算が限られている中小規模のメーカーにとって、依然として市場成長の主要な阻害要因となっています」（https://www.reportocean.co.jp/industry-reports/industrial-bearings-market）
+  - 「2024年の予算を無駄にしないでください！」（https://www.reportocean.co.jp/industry-reports/industrial-bearings-market）
+  - 「残りの予算を活用して、将来の成功を確かなものにしましょう」（https://www.reportocean.co.jp/industry-reports/industrial-bearings-market）
+  - 「今すぐ予算を確保しよう！」（https://www.reportocean.co.jp/industry-reports/industrial-bearings-market）
+  - 「2024年の予算を2025年の実用的な」（https://www.reportocean.co.jp/industry-reports/industrial-bearings-market）
+  - 「2024年の予算が失効する前に、 最大限に活用しよう!」（https://www.reportocean.co.jp/industry-reports/industrial-bearings-market）
+  - 「将来の成功のために予算を活用しましょう」（https://www.reportocean.co.jp/industry-reports/industrial-bearings-market）
+  - 「ご予算を最大限に活用するために、今すぐご登録ください」（https://www.reportocean.co.jp/industry-reports/industrial-bearings-market）
+- 検索結果の抜粋：
+  - 「ロボットベアリング市場 の成長予測：2033年から2026年まで ... — ロボットベアリング市場 の成長予測：2033年から2026年まで ... LinkedIn https://jp.linkedin.com > pulse > ロボットベアリング市場...」（https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC2033%E5%B9%B4%E3%81%8B%E3%82%892026%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE46%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E4%BA%88%E6%B8%AC%E3%81%A8%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B3%E6%9C%80%E8%BF%91%E3%81%AE%E5%8B%95%E5%90%91%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92-7518378404446998529-5a2qe）
+  - 「ロボットベアリング 市場の成長予測：2033年から2026年まで ... — ロボットベアリング 市場の成長予測：2033年から2026年まで ... LinkedIn https://jp.linkedin.com > pulse > ロボットベアリング市場...」（https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC2033%E5%B9%B4%E3%81%8B%E3%82%892026%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE46%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E4%BA%88%E6%B8%AC%E3%81%A8%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B3%E6%9C%80%E8%BF%91%E3%81%AE%E5%8B%95%E5%90%91%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92-7518378404446998529-5a2qe）
+
+## 触覚・力覚センサー（tactile force torque sensor robots market）
+- 文脈：フィジカルAI・部材
+- 市場規模：
+  - 「【調査レポート】 触覚センサー市場：市場規模・シェア分析、成長動向と予測（2025年～2030年）」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「触覚センサー市場：市場規模・シェア分析、成長動向と予測（2025年～2030年）」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* 変換メカニズム別: 2024年にはMEMSデバイスが触覚センサー市場規模の37.53%を占め、フレキシブルプリントエレクトロニクスは2030年までに15.91%のCAGRで最も速い成長を記録すると見込まれています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* アプリケーション別: 2024年にはロボットおよびコボットが触覚センサー市場規模の38.29%を占め、医療およびヘルスケアデバイスは2025年から2030年の間に16.16%のCAGRで進展すると予測されています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「MEMSプロセスは、半導体ファブが安定した公差を提供することで、2024年に触覚センサー市場規模の37.53%に貢献しました」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「ロボットおよびコボットは、力制限された相互作用を義務付ける安全規制によって、2024年に触覚センサー市場規模の38.29%を占めました」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「市場規模と成長予測によると、触覚センサー市場は2025年に40.1億米ドルに達し、2030年までには倍増すると予測されています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「5. 市場規模と成長予測（金額）」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「歯科矯正装置市場規模・シェア分析 – 成長動向と予測 (2025-2030年)」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「日本のシーラント市場規模およびシェア分析 – 成長動向および予測（2028年まで）」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「自動給餌システム市場規模、シェアおよびトレンド分析レポート：家畜別（反芻動物、豚、鶏、その他）、統合別（完全統合型、非統合型）、タイプ別（レールガイド給餌システム、コンベヤー給餌システム、自走式給餌システム）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測、2026-2034年」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「力センサー市場：市場規模・需要と2034年までの予測」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「力センサ市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポート 対象範囲：力タイプ別（圧縮、引張、圧縮と引張）、タイプ別（圧電力センサ、静電容量式力センサ、磁気力センサ、ロードセル、ひずみゲージ、その他）、産業分野別（航空宇宙・防衛、自動車、化学、製造、鉱業、製薬、その他）、地域別（北米、欧州、アジア太平洋、南米・中米）」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「2025年の市場規模」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「北米における力覚センサー市場規模は、先進的な製造技術の普及拡大と航空宇宙・防衛エレクトロニクス生産の拡大を背景に、予測期間中に年平均成長率（CAGR）8.2%～8.6%で成長すると予測されています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+- 成長率：
+  - 「触覚センサー市場は、2025年には40.1億米ドルに達し、2030年までには83.7億米ドルに成長すると予測されており、この期間の年平均成長率（CAGR）は15.86%に上ります」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* センサータイプ別: 2024年には静電容量式ソリューションが触覚センサー市場シェアの41.91%を占め、フレキシブルプリントエレクトロニクスは2030年までに15.91%のCAGRで拡大すると予測されています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* 変換メカニズム別: 2024年にはMEMSデバイスが触覚センサー市場規模の37.53%を占め、フレキシブルプリントエレクトロニクスは2030年までに15.91%のCAGRで最も速い成長を記録すると見込まれています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* アプリケーション別: 2024年にはロボットおよびコボットが触覚センサー市場規模の38.29%を占め、医療およびヘルスケアデバイスは2025年から2030年の間に16.16%のCAGRで進展すると予測されています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* エンドユーザー産業別: 2024年には高度製造業が32.47%のシェアを占め、ヘルスケアプロバイダーセグメントは2025年から2030年の間に16.11%のCAGRで最も急速に成長する購入者として浮上しています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* 地域別: 2024年にはアジア太平洋地域が46.19%の収益シェアで市場をリードし、中東およびアフリカは2030年までに16.26%のCAGRで最も急速な成長を遂げると予測されています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* 精密製造におけるロボット導入の加速（CAGRへの影響: +4.2%）: 高品種少量生産ラインでは、触覚センシングがスループットを可能にするものとして扱われています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* 低侵襲手術ツールの普及（CAGRへの影響: +3.8%）: ハプティック対応の手術用ロボットは、超薄型FlexiForceシートに依存しており、外科医が繊細な腹腔鏡手術中に健康な組織と病変組織を区別する力勾配を感じることができます」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* 2025年以降のヒューマノイドおよびサービスロボットへの資金投入増加（CAGRへの影響: +3.1%）: 3億米ドルを超えるヒューマノイドプロジェクトへの資金調達ラウンドでは、触覚スキンが人間のような器用さにとって不可欠であると明示されています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* アグリフードオートメーションにおけるソフトロボットグリッパーとの統合（CAGRへの影響: +2.7%）: イチゴを収穫するソフトグリッパーは、果物のサイズ全体で穏やかな力を維持し、打撲を防ぎ、硬さによって選択的なピッキングを可能にするアコースティックソフト触覚（AST）層を展開しています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* 伸縮性電子スキンプラットフォームの進歩（CAGRへの影響: +2.9%）: アジア太平洋地域がこの分野で中心的な役割を果たしており、北米にも波及効果が見られます」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* レジリエントな自動化に対する政府のインセンティブ（CAGRへの影響: +2.1%）: EUと米国が主にこの分野を推進しており、サプライチェーンの強化と国内製造能力の向上を目指しています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* 広範囲アレイの高額なキャリブレーションおよびドリフト補正コスト（CAGRへの影響: -2.8%）: 1,000以上のタクセルを持つアレイは、キャリブレーションルーチンの労力が二次関数的に増加するため、手動での工場展開はコスト的に prohibitive です」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* 特殊エラストマーおよびナノ材料のサプライチェーンの脆弱性（CAGRへの影響: -2.1%）: グラフェンインクや導電性エラストマーは、アジア太平洋地域の少数のファウンドリから供給されており、パンデミックによる閉鎖は数ヶ月に及ぶ出荷遅延を明らかにしました」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* マルチモーダル触覚測定に関するグローバルな試験基準の欠如（CAGRへの影響: -1.7%）: 世界的に統一された試験基準がないため、製品の比較や品質保証が困難になっています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+- 需要量：
+  - 「6.4.9 Weiss Robotics GmbH & Co. KG」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「抗菌包装市場の規模、シェアおよびトレンド分析レポート（製品タイプ別：プラスチック、バイオポリマー、紙ボード、その他、抗菌剤別：有機酸、バクテリオシン、その他、技術別：制御放出、アクティブ、パックタイプ別：カートンパッケージ、ポーチ、その他、アプリケーション別：食品・飲料、ヘルスケア、パーソナルケア、その他、地域別：北米、ヨーロッパ、APAC、中東・アフリカ、LATAM）予測、2026-2034」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「国際ロボット連盟によると、2023年の世界の産業用ロボットの設置台数は50万台以上と推定されています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「一方、国際エネルギー機関は、2023年の世界の電気自動車販売台数が約1400万台に達したと述べており、これによりロボットの把持、バッテリー製造、ブレーキ、品質管理プロセスにおける高精度力覚センサーの需要が増加しています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「国際ロボット連盟（IFR）の報告によると、世界の産業用ロボットの設置台数は2023年も50万台を超え、ロボットによる把持、組立作業、自動品質検査、人間とロボットの協働といった用途において、力覚センシングソリューションへの需要が持続的に高まっています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「国際エネルギー機関（IEA）は、2023年に世界中で約1,400万台の電気自動車が販売されたと報告しており、バッテリーの組み立て、ブレーキシステム、トルクモニタリング、自動品質検査アプリケーションにおける力測定の需要が高まっています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「国際ロボット連盟（IFR）によると、近年、世界の産業用ロボットの設置台数は54万台を超え、世界的なオートメーション投資の継続性を示しています」（https://straitsresearch.com/jp/report/force-sensor-market）
+  - 「LiDARセンサーは、ADAS（先進運転支援システム）の要となる画像技術として台頭してきており、レベル3～4車両用センサースイートの中核を成しています」（https://www.idtechex.com/ja/research-article/global-sensor-market-to-reach-us-250b-annually-by-2036/34145）
+  - 「そのためロボットも大型になっており、使用されている6軸力覚センサーの計測範囲も100kgs前後と比較的大型のものが一般的でした」（https://pr.minebeamitsumi.com/6axisforce/）
+  - 「しかし、電子機器やサービス分野で活躍するロボットが増加し、定格範囲が20kg未満のロボットの普及が進むにつれて、力覚センサーの使用用途も拡大しつつあります」（https://pr.minebeamitsumi.com/6axisforce/）
+  - 「Max １個」（https://pr.minebeamitsumi.com/6axisforce/）
+  - 「Max ５個」（https://pr.minebeamitsumi.com/6axisforce/）
+  - 「１軸検出型触覚フィルム3個、信号処理ボード1個、出力表示ソフトウェアをセットでご提供いたします」（https://mono.ipros.com/cg2/%E5%8A%9B%E8%A6%9A%E3%82%BB%E3%83%B3%E3%82%B5/）
+  - 「（1）0.5g 重から100kg 重までを計測するHDR6 軸力覚センサ」（https://mono.ipros.com/cg2/%E5%8A%9B%E8%A6%9A%E3%82%BB%E3%83%B3%E3%82%B5/）
+  - 「調査会社IDCによると、中国では2024年の人型ロボットの販売台数が業界予想を上回る約2000台となった」（https://36kr.jp/357729/）
+- 部品構成比・単価：
+  - 「2025年には35%～39%のシェアを占める最大の地域市場であり、2026年から2034年にかけて9.8%～10.2%という堅調な年平均成長率（CAGR）で成長すると予測されています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「アジア太平洋地域は、世界市場シェアの約35%～39%を占める最大かつ最も急速に成長している地域セグメントであり、中国、日本、韓国、インド、オーストラリアが主要な貢献国となっています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「2025年には市場シェア30～34％を占める最大のサブセグメントであり、その精度、信頼性、費用対効果の高さから、計量システム、産業オートメーション、材料試験などで広く採用されています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「技術別に見ると、ひずみゲージ式力センサ分野は、その高い精度、長期安定性、費用対効果、そして産業オートメーション、自動車試験、航空宇宙システム、計量機器など幅広い分野への適用性により、2025年には39.90%のシェアを占めると予測されています」（https://straitsresearch.com/jp/report/force-sensor-market）
+  - 「アプリケーション別に見ると、産業オートメーションおよびロボット分野は、自動化された生産システムの導入増加により、2025年には30.20%のシェアを占める見込みです」（https://straitsresearch.com/jp/report/force-sensor-market）
+  - 「出力タイプ別に見ると、アナログ力センサは、コスト効率、容易な統合性、高い信頼性、そして産業および自動車分野における幅広い展開実績により、2025年には68.20%のシェアを占める見込みです」（https://straitsresearch.com/jp/report/force-sensor-market）
+  - 「北米の力覚センサー市場は、デジタル製造変革、高度なセンシング技術、および産業生産性向上イニシアチブへの投資増加により、2025年には地域別市場シェア35.00%を占める最大の市場規模となりました」（https://straitsresearch.com/jp/report/force-sensor-market）
+  - 「一般的に、人型ロボットには両手足に4つの6軸力覚センサーと28個の関節トルクセンサーが必要で、BOMコスト（部品代）は人型ロボット全体の15％を占める」（https://36kr.jp/357729/）
+  - 「2026 Humanoid Robot BOM Breakdown from Components to Total Cost」（https://aichiplink.com/blog/2026-humanoid-robot-bom-breakdown-cost-analysis_1528）
+  - 「In 2026, unit manufacturing costs range from $30,000 to $150,000. A full humanoid robot BOM breakdown reveals actuators drive 40% to 60% of total expenses.」（https://aichiplink.com/blog/2026-humanoid-robot-bom-breakdown-cost-analysis_1528）
+  - 「2026 Humanoid Robot BOM Breakdown by Tier」（https://aichiplink.com/blog/2026-humanoid-robot-bom-breakdown-cost-analysis_1528）
+  - 「Comparative BOM Analysis of Leading 2026 Models」（https://aichiplink.com/blog/2026-humanoid-robot-bom-breakdown-cost-analysis_1528）
+  - 「Hardware expenses divide into several production tiers in 2026. A full humanoid robot bom breakdown shows huge hardware differences across these groups. Making more units directly drives down individual costs.」（https://aichiplink.com/blog/2026-humanoid-robot-bom-breakdown-cost-analysis_1528）
+  - 「A complete humanoid robot bom breakdown shows large gaps between building expenses and final retail goals. Current machine build expenses for business platforms run from $50,000 to $100,000 for each unit. High component expenses affect early plant buying choices.」（https://aichiplink.com/blog/2026-humanoid-robot-bom-breakdown-cost-analysis_1528）
+  - 「2026 Humanoid Robot BOM Breakdown from Components to Total Cost - AIChipLink」（https://aichiplink.com/blog/2026-humanoid-robot-bom-breakdown-cost-analysis_1528）
+- 主要供給元・シェア：
+  - 「【調査レポート】 触覚センサー市場：市場規模・シェア分析、成長動向と予測（2025年～2030年）」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「触覚センサー市場：市場規模・シェア分析、成長動向と予測（2025年～2030年）」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「メーカーは、視覚システムだけでは高品種少量生産ラインにおけるサブミリメートル単位の公差を管理できないことを認識しており、リアルタイムの圧力マッピングと力覚フィードバックに対する需要が急増しています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* センサータイプ別: 2024年には静電容量式ソリューションが触覚センサー市場シェアの41.91%を占め、フレキシブルプリントエレクトロニクスは2030年までに15.91%のCAGRで拡大すると予測されています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* エンドユーザー産業別: 2024年には高度製造業が32.47%のシェアを占め、ヘルスケアプロバイダーセグメントは2025年から2030年の間に16.11%のCAGRで最も急速に成長する購入者として浮上しています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* 地域別: 2024年にはアジア太平洋地域が46.19%の収益シェアで市場をリードし、中東およびアフリカは2030年までに16.26%のCAGRで最も急速な成長を遂げると予測されています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「自動車サプライヤーは、ガスケットのシーリング圧力や圧入力をマッピングし、光学システムでは見えない欠陥を検出することで、リアルタイムの品質管理を実現しています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* 特殊エラストマーおよびナノ材料のサプライチェーンの脆弱性（CAGRへの影響: -2.1%）: グラフェンインクや導電性エラストマーは、アジア太平洋地域の少数のファウンドリから供給されており、パンデミックによる閉鎖は数ヶ月に及ぶ出荷遅延を明らかにしました」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「静電容量式デバイスは、2024年に触覚センサー市場シェアの41.91%を占め、15.88%のCAGRで成長すると予測されています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「高度製造業は2024年に32.47%のシェアを占めました」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* 中東およびアフリカ: 胎動期にありますが、サウジアラビアとアラブ首長国連邦の多様化戦略が、触覚スキンを最初から指定するグリーンフィールド工場やスマート病院に資金を供給することで、16.26%のCAGRで成長する見込みです」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「主要なヒューマノイドプラットフォームが高解像度スキンに対する独占権を確保した場合、競合他社は基盤となるサプライヤーを買収する必要が生じ、最終的に触覚センサー市場の統合が進む可能性があります」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「触覚センサー業界の主要企業」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* 地域別では、アジア太平洋地域が2024年に46.19%の収益シェアを占め、中国の産業自動化ブームに牽引されて需要をリードしています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「競争環境の章では、市場集中度、戦略的動向、市場シェア分析が提供されています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+- 日本企業の位置：
+  - 「* レジリエントな自動化に対する政府のインセンティブ（CAGRへの影響: +2.1%）: EUと米国が主にこの分野を推進しており、サプライチェーンの強化と国内製造能力の向上を目指しています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「* アジア太平洋: 2024年には46.19%の収益を上げ、中国の産業用ロボットブームと日本の精密機械加工の伝統に牽引されて市場をリードしました」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「EUはマイクロエレクトロニクス、特に触覚イノベーションに210億ユーロを投入しており、米国ではロボットスタートアップがサプライチェーンの国内回帰を目的とした税額控除の恩恵を受けています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「5.5.4.2 日本」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「日本のシーラント市場規模およびシェア分析 – 成長動向および予測（2028年まで）」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「中国、日本、韓国、インドが主要な貢献国であり、その原動力は大規模な電子機器製造、ロボット技術の導入、自動車生産です」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「米国市場は北米諸国の中でも特に有力な国内市場の1つであり、2025年には地域市場シェアの約85%～90%を占め、予測期間中の成長率は年平均成長率（CAGR）8.4%～8.8%と見込まれています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「アジア太平洋地域は、世界市場シェアの約35%～39%を占める最大かつ最も急速に成長している地域セグメントであり、中国、日本、韓国、インド、オーストラリアが主要な貢献国となっています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「インドは、自動車、電子機器製造、医療機器、公共製造イニシアチブを通じて拡大しており、日本はロボット、精密機械、自動車、工場自動化の分野で技術リーダーとしての地位を維持しています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「国内製造、スマートファクトリーの導入、サプライチェーンの多様化を促進する産業政策イニシアチブは、アジア太平洋地域全体の市場ダイナミクスを形成し、国内外のメーカーに大きな機会をもたらしています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「サウジアラビアとUAEは、過酷な環境下で堅牢なセンサーを必要とする産業多様化プロジェクトやスマートシティプロジェクトへの大規模投資により、主要な国内市場となっています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「サプライチェーンの回復力と国内製造業」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「サプライチェーンのレジリエンスと国内製造への重視の高まりは、企業が単一供給元への依存を減らし、地域的な生産能力を確立しようとする中で、力覚センサー市場にとって大きな機会をもたらしています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「ホルムズ海峡の輸送混乱やヘリウム供給制約など、2026年第1四半期のサプライチェーン混乱の教訓によって加速された米国および同盟国の電子機器サプライチェーンの国内回帰は、長期的な市場構造の変化を生み出す国内力覚センサー生産への投資を促進しています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「投資機会には、戦略的地域での製造能力の拡大、重要部品の二重供給元体制の構築、国内電子機器生産を支援する政府プログラムとのパートナーシップの確立などが含まれます」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+- 供給制約・不足：
+  - 「AIを活用したアルゴリズムがエッジでセンサーデータストリームを処理するために実装され、ロボット把持制御、工具摩耗監視、自動品質検査などのアプリケーションにおいて、低遅延かつクラウド依存度を低減したリアルタイムの意思決定を可能にしています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「ホルムズ海峡の輸送混乱やヘリウム供給制約など、2026年第1四半期のサプライチェーン混乱の教訓によって加速された米国および同盟国の電子機器サプライチェーンの国内回帰は、長期的な市場構造の変化を生み出す国内力覚センサー生産への投資を促進しています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「未来のモビリティは、重要な安全要件に対応しつつ運転者・搭乗者の体験に革命をもたらす上で、ADAS用センサー（カメラ、レーダー、LiDAR、熱画像など）、先進バッテリーパックセンサー、ドライバーモニタリングシステムへの依存度を高めています」（https://www.idtechex.com/ja/research-article/global-sensor-market-to-reach-us-250b-annually-by-2036/34145）
+  - 「製造業界では、人手不足や生産効率向上の観点から、今まで人間が担っていた手作業をロボットアームに代替さ ...」（https://connect.nissha.com/filmdevice/filmdevice_column/force_sensor_feature）
+  - 「食品工場では、少子高齢化の進行による人手不足対策や生産性向上、作業者の負担軽減を目的として、ロボット ...」（https://connect.nissha.com/filmdevice/filmdevice_column/force_sensor_feature）
+  - 「熟練者の技術を数値化！省人化で人材不足を解消！」（https://mono.ipros.com/cg2/%E5%8A%9B%E8%A6%9A%E3%82%BB%E3%83%B3%E3%82%B5/）
+  - 「『Shokac Probe（ショッカクプローブ）』人の指紋に近い構造で、表面微細凹凸と摩擦力変化を同時検出！後継者不足に貢献」（https://mono.ipros.com/cg2/%E8%A7%A6%E8%A6%9A%E3%82%BB%E3%83%B3%E3%82%B5/）
+- 政策・予算：
+  - 「EUのIPCEIマイクロエレクトロニクス助成金や米国の補完的なインセンティブといった政策支援も導入を加速させていますが、同時に公共の優先順位の変化に対する依存性も生じています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「また、アグリフード自動化におけるソフトロボットグリッパーとの統合、伸縮性電子皮膚プラットフォームの進歩、そして「レジリエントな自動化」を促進する政府のインセンティブ（EUおよび米国のCHIPS法のようなもの）も市場成長を後押ししています」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「4.2.6 「レジリエントな自動化」に対する政府のインセンティブ（EUおよび米国CHIPS法のようなもの）」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「医療分野では、手術支援ロボットが患者の組織に与える力を正確に感知したり、義手や義足がより自然な触覚フィードバックを提供したりするために利用されます」（https://www.marketresearch.co.jp/insights/tactile-sensor-market-mordor/）
+  - 「カスタマイズオプションには、顧客セグメントの絞り込み、地域別分析、競合分析、戦略的洞察などがあり、情報に基づいた意思決定を支援します」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「自動車分野は主要なエンドユーザーであり、排出ガス監視、ブレーキシステム、燃費基準の向上に関する政府規制の進化により、ドライバーを支援し安全性を高めるための各種センサーの使用が義務付けられています」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「投資機会には、戦略的地域での製造能力の拡大、重要部品の二重供給元体制の構築、国内電子機器生産を支援する政府プログラムとのパートナーシップの確立などが含まれます」（https://www.theinsightpartners.com/ja/reports/force-sensor-market）
+  - 「力覚センサー市場の需要は、産業オートメーションの普及拡大、製造施設における協働ロボットの導入拡大、車両への先進運転支援システム（ADAS）の統合の進展、医療機器や家電製品における高精度センシングへの需要の高まりによって牽引されています」（https://straitsresearch.com/jp/report/force-sensor-market）
+  - 「力覚センサーは、低侵襲手術やロボット支援手術において、より高い精度を実現するための重要な触覚フィードバックを提供します」（https://straitsresearch.com/jp/report/force-sensor-market）
+  - 「医療機器分野は、ロボット支援手術システム、患者モニタリング機器、リハビリテーション機器、ウェアラブルヘルスケア技術の普及拡大により、予測期間中に年平均成長率（CAGR）6.50%で成長すると予測されています」（https://straitsresearch.com/jp/report/force-sensor-market）
+  - 「また、機会評価、顧客セグメンテーション、競合ベンチマーキング、成長戦略の策定といった業務を通じてクライアントを支援しています」（https://straitsresearch.com/jp/report/force-sensor-market）
+  - 「LiDARセンサーは、ADAS（先進運転支援システム）の要となる画像技術として台頭してきており、レベル3～4車両用センサースイートの中核を成しています」（https://www.idtechex.com/ja/research-article/global-sensor-market-to-reach-us-250b-annually-by-2036/34145）
+  - 「IDTechExは、調査、コンサルタント、サブスクリプションを通して、戦略的なビジネス上の意思決定をサポートし、先進技術からの収益を支援しています」（https://www.idtechex.com/ja/research-article/global-sensor-market-to-reach-us-250b-annually-by-2036/34145）
+  - 「ロボットと共生する新たな生産体制構築のご支援をいたします」（https://mono.ipros.com/cg2/%E5%8A%9B%E8%A6%9A%E3%82%BB%E3%83%B3%E3%82%B5/）
+  - 「【手術支援ロボット向け】6軸力覚センサー「Resense」」（https://mono.ipros.com/cg2/%E5%8A%9B%E8%A6%9A%E3%82%BB%E3%83%B3%E3%82%B5/）
+- 検索結果の抜粋：
+  - 「小型6軸 力覚センサー ｜ミネベアミツミ株式会社 — 小型6軸 力覚センサー ｜ミネベアミツミ株式会社 ミネベアミツミ株式会社 https://pr.minebeamitsumi.com > ...」（https://pr.minebeamitsumi.com/6axisforce/）
+  - 「ソニーの触覚センサーと力制御型アクチュエーター — Jul 17, 2025 · すべりを予測する 『NARI-Touch（ナリタッチ）』 ロボットハンドが物体を把持する際に生じる、微細な「初期滑り」を検知することができる触覚 ...」（https://www.linkedin.com/pulse/ソニーの触覚センサーと力制御型アクチュエーター-sony-technology-3isjc/）
+  - 「Robot Force Torque Sensor Market Size, Share & Forecast ...Worldwide Robot Force Sensors Market 2026 - PW ConsultingTorque Sensor for Humanoid Robot Market2026 Humanoid Robot BOM Breakdown from Components to Total CostRobot Force Torque Sensor Market Research Report 2034Robot Force Torque Sensor Market Research Report 2033 — The global robot force torque sensor market size was valued at approximat」（https://dataintelo.com/report/global-robot-force-torque-sensor-market）
+
+## 超薄型モーター（アキシャルギャップ・扁平・フレームレス）（axial flux pancake frameless thin motor market robots drones）
+- 文脈：フィジカルAI・部材（素材：磁石・電磁鋼板・圧粉磁心）
+- 市場規模：
+  - 「LPI世界フレームレストルクモーター分析レポートによると、世界フレームレストルクモーター市場規模は786百万ドルであり、将来的には1377.33百万ドルに達し、CAGRは9.8%です」（https://newscast.jp/smart/news/8558296）
+  - 「LP Informationの調査整理によると、世界のフレームレストルクモーター市場規模は2025年に約7億1,500万米ドル、2026年に約7億8,600万米ドルとなり、2032E年には約13億7,733万米ドルに達する見通しである」（https://newscast.jp/smart/news/8558296）
+  - 「第2章では、フレームレストルクモーターの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://newscast.jp/smart/news/8558296）
+  - 「第4章では、フレームレストルクモーターの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://newscast.jp/smart/news/8558296）
+  - 「第6章では、アジア太平洋地域におけるフレームレストルクモーター市場規模と各種用途を、販売量と収益を中心に分析します」（https://newscast.jp/smart/news/8558296）
+  - 「第12章では、フレームレストルクモーターの世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します」（https://newscast.jp/smart/news/8558296）
+  - 「LPI世界フレームレストルクモーター分析レポートによると、世界フレームレストルクモーター市場規模は786百万ドルであり、将来的には1377.33百万ドルに達し、CAGRは9.8%です」（https://www.atpress.ne.jp/news/8558296）
+  - 「LP Informationの調査整理によると、世界のフレームレストルクモーター市場規模は2025年に約7億1,500万米ドル、2026年に約7億8,600万米ドルとなり、2032E年には約13億7,733万米ドルに達する見通しである」（https://www.atpress.ne.jp/news/8558296）
+  - 「第2章では、フレームレストルクモーターの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://www.atpress.ne.jp/news/8558296）
+  - 「第4章では、フレームレストルクモーターの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://www.atpress.ne.jp/news/8558296）
+  - 「第6章では、アジア太平洋地域におけるフレームレストルクモーター市場規模と各種用途を、販売量と収益を中心に分析します」（https://www.atpress.ne.jp/news/8558296）
+  - 「第12章では、フレームレストルクモーターの世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します」（https://www.atpress.ne.jp/news/8558296）
+  - 「2026無水乳脂肪市場規模マップ：シェア・動向・フレームワーク」（https://www.atpress.ne.jp/news/8558296）
+  - 「航空機用防氷システムの世界市場（2026年～2032年）、市場規模（機械式除氷システム、電気パルス式防氷システム、液体防氷システム、熱風式防氷システム、電気加熱式防氷システム）・分析レポートを発表」（https://www.atpress.ne.jp/news/8558296）
+  - 「低温収縮試験機の世界市場（2026年～2032年）、市場規模（低温、広温度範囲）・分析レポートを発表」（https://www.atpress.ne.jp/news/8558296）
+- 成長率：
+  - 「LPI世界フレームレストルクモーター分析レポートによると、世界フレームレストルクモーター市場規模は786百万ドルであり、将来的には1377.33百万ドルに達し、CAGRは9.8%です」（https://newscast.jp/smart/news/8558296）
+  - 「2026–2032年の年平均成長率は約9.80%と予測される」（https://newscast.jp/smart/news/8558296）
+  - 「第3章では、フレームレストルクモーターの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://newscast.jp/smart/news/8558296）
+  - 「第4章では、フレームレストルクモーターの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://newscast.jp/smart/news/8558296）
+  - 「LPI世界フレームレストルクモーター分析レポートによると、世界フレームレストルクモーター市場規模は786百万ドルであり、将来的には1377.33百万ドルに達し、CAGRは9.8%です」（https://www.atpress.ne.jp/news/8558296）
+  - 「2026–2032年の年平均成長率は約9.80%と予測される」（https://www.atpress.ne.jp/news/8558296）
+  - 「第3章では、フレームレストルクモーターの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://www.atpress.ne.jp/news/8558296）
+  - 「第4章では、フレームレストルクモーターの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://www.atpress.ne.jp/news/8558296）
+  - 「電動車アーキテクチャを変えるアキシャルフラックスモーターとは？2032年313.6億ドル市場、CAGR60.1%の急成長 | LP Information Co.,Ltdのプレスリリース」（https://www.dreamnews.jp/press/0000343728）
+  - 「電動車アーキテクチャを変えるアキシャルフラックスモーターとは？2032年313.6億ドル市場、CAGR60.1%の急成長」（https://www.dreamnews.jp/press/0000343728）
+  - 「によると、2026年から2032年の予測期間中のCAGRが60.1%で、2032年までにグローバルアキシャルフラックスモーター市場規模は313.6億米ドルに達すると予測されている」（https://www.dreamnews.jp/press/0000343728）
+  - 「第3章では、アキシャルフラックスモーターの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://www.dreamnews.jp/press/0000343728）
+  - 「第4章では、アキシャルフラックスモーターの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://www.dreamnews.jp/press/0000343728）
+  - 「透明Micro LEDディスプレイマーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）52.7%の超高成長」（https://www.dreamnews.jp/press/0000343728）
+  - 「熱成形機市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）4.50%の安定成長」（https://www.dreamnews.jp/press/0000343728）
+- 需要量：
+  - 「【記念艦三笠監修】記念艦三笠100周年記念モデル 実物の木甲板を台座に...」（https://www.dreamnews.jp/press/0000343728）
+  - 「本製品は、突起部9個と2つの穴を精密に加工する設計となっています」（https://sintered-metal-processing.com/basic/521）
+  - 「本製品は、突起部8個と中心を含む3個の穴を精密加工して仕上げています」（https://sintered-metal-processing.com/basic/521）
+  - 「このアキシャルギャップモーターコア形状の製品では、突起部12個と中心の穴1個の精密加工が必要になります」（https://sintered-metal-processing.com/basic/521）
+  - 「1．住友電工、SMCを用いた高出力密度AFM技術を発表（日本・台湾）」（https://note.com/kaze26/n/n001d4e756f5f）
+  - 「従来モータと同等性能で重量、体積、金属使用量を約50％削減できると主張している」（https://note.com/kaze26/n/n001d4e756f5f）
+- 主要供給元・シェア：
+  - 「日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング | NEWSCAST」（https://newscast.jp/smart/news/8558296）
+  - 「日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング」（https://newscast.jp/smart/news/8558296）
+  - 「フレームレストルクモーターは、ロータとステータを独立したキットとして供給し、顧客装置の機械構造へ直接組み込む永久磁石同期型またはブラシレス型ダイレクトドライブモーターである」（https://newscast.jp/smart/news/8558296）
+  - 「供給面では、薄型構造、高占積率巻線、低コギング磁気回路、高性能磁石、熱設計、モーター・エンコーダ・ドライブの協調設計への投資が進んでいる」（https://newscast.jp/smart/news/8558296）
+  - 「世界競争と主要企業」（https://newscast.jp/smart/news/8558296）
+  - 「世界のフレームレストルクモーター市場では、総合モーションコントロールメーカー、ダイレクトドライブ専門メーカー、用途特化型モーターメーカーが競争している」（https://newscast.jp/smart/news/8558296）
+  - 「供給面では北米、欧州、アジアが主要地域である」（https://newscast.jp/smart/news/8558296）
+  - 「米国には主要モーションコントロール・特殊モーターメーカーが集積し、ロボット、航空宇宙、半導体、医療分野に強い」（https://newscast.jp/smart/news/8558296）
+  - 「今後、モーターメーカーはアクチュエータモジュールへ延伸し、ロボット部品企業はロータ・ステータ設計・製造へ上流展開する可能性が高い」（https://newscast.jp/smart/news/8558296）
+  - 「プラットフォーム型電磁設計、自動化生産、顧客共同開発、グローバルなローカル供給能力を持つ企業は、顧客定着率と市場地位を高めるとみられる」（https://newscast.jp/smart/news/8558296）
+  - 「第2章では、フレームレストルクモーターの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://newscast.jp/smart/news/8558296）
+  - 「第3章では、フレームレストルクモーターの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://newscast.jp/smart/news/8558296）
+  - 「第10章では、フレームレストルクモーターに使用される原材料、サプライヤー、生産コスト、製造プロセス、関連サプライチェーンを調査します」（https://newscast.jp/smart/news/8558296）
+  - 「第13章では、フレームレストルクモーター市場の主要メーカーについて、基本情報、製品仕様と用途、販売量、収益、価格設定、粗利益率、主力事業、最近の動向などの詳細情報を紹介します」（https://newscast.jp/smart/news/8558296）
+  - 「ニュースのシェア」（https://newscast.jp/smart/news/8558296）
+- 日本企業の位置：
+  - 「日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング | NEWSCAST」（https://newscast.jp/smart/news/8558296）
+  - 「日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング」（https://newscast.jp/smart/news/8558296）
+  - 「アジア、特に中国ではロボット関節、人形ロボット、産業オートメーションの拡大を背景に国産化が進展している」（https://newscast.jp/smart/news/8558296）
+  - 「日本語サイト：」（https://newscast.jp/smart/news/8558296）
+  - 「日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング」（https://www.atpress.ne.jp/news/8558296）
+  - 「アジア、特に中国ではロボット関節、人形ロボット、産業オートメーションの拡大を背景に国産化が進展している」（https://www.atpress.ne.jp/news/8558296）
+  - 「日本語サイト：」（https://www.atpress.ne.jp/news/8558296）
+  - 「日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング | LP Information」（https://www.atpress.ne.jp/news/8558296）
+  - 「一般財団法人JR東日本文化創造財団、MoN Takanawa: The Museum of Narratives、Barbican Centre」（https://www.atpress.ne.jp/news/8558296）
+  - 「FT Engineeringでは、アキシャルギャップモーターのポテンシャルを最大限に引き出すため、この「PBXS最外径支持構造」の概念実証を進め、KMF社ならびに国内の先進的なモーターメーカーへの提案・協業を推進してまいります」（https://ftengineering.jp/2026/08/11/next-generation_robotics/）
+  - 「日本語サイト：」（https://www.dreamnews.jp/press/0000343728）
+  - 「日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長」（https://www.dreamnews.jp/press/0000343728）
+  - 「グループ会社一覧(国内)」（https://www.npr-riken.co.jp/business/electric-unit/）
+  - 「グループ会社一覧（国内）」（https://www.npr-riken.co.jp/business/electric-unit/）
+  - 「は、軟磁性体や圧粉磁心の加工において、多くの実績を誇り、国内大手メーカーとの共同開発によって技術力を高めてきました」（https://sintered-metal-processing.com/basic/521）
+- 供給制約・不足：
+  - 「しかし、AGMの利点である「薄さ（軸受スパンが取れない）」と、中心軸配置による「小径（ピッチ円直径が小さい）」という条件が重なると、モーメント荷重に対する剛性が著しく不足します」（https://ftengineering.jp/2026/08/11/next-generation_robotics/）
+- 政策・予算：
+  - 「ロボットおよび先進製造への政策支援は、フレームレストルクモーターの長期需要を強化している」（https://newscast.jp/smart/news/8558296）
+  - 「ロボットおよび先進製造への政策支援は、フレームレストルクモーターの長期需要を強化している」（https://www.atpress.ne.jp/news/8558296）
+  - 「ロボットおよび先進製造への政策支援は、フレームレストルクモーターの長期需要を強化している」（https://note.com/qy_research/n/n6e64611a1bf0）
+  - 「主な業務内容には、市場規模分析、業界ポジション評価、フィージビリティスタディ、競争環境分析、事業計画策定支援などが含まれます」（https://note.com/qy_research/n/n6e64611a1bf0）
+- 検索結果の抜粋：
+  - 「アキシャルギャップモーター メーカー5社 - Metoree — アキシャルギャップモーター メーカー5社 - Metoree Metoree https://metoree.com > モーター」（https://metoree.com/categories/8459/）
+- 部品構成比・単価：記載なし（読んだ48頁・検索16回）

@@ -1,0 +1,2223 @@
+{
+ "name": "ロボット用減速機（波動歯車・RV・遊星）",
+ "en": "robot speed reducer harmonic drive market",
+ "aliases": [
+  "波動歯車装置",
+  "精密減速機 ロボット",
+  "RV減速機"
+ ],
+ "context": "フィジカルAI・部材",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:25:59.329216+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "RV減速機市場規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のRV減速機市場規模は、2025年に22億2000万米ドルと評価され、2026年の23億7000万米ドルから2034年には40億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のRV減速機市場規模は、2025年には22億2000万米ドルと評価され、2026年の23億7000万米ドルから2034年には40億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "RV用減速機の市場規模は、2026年には23億7000万米ドルと評価され、2034年までに40億5000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.9%です",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車燃料タンク市場規模、シェア、成長率、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ディーゼルターボチャージャー市場規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車油圧システム市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "ディーゼルエンジン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハーモニック・ドライブ・システムズは、旧中期経営計画（2024〜2026年度）で3年間275億円の設備投資を計画していた",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "そのおよそ3分の1、約100億円をヒューマノイド向けに振り向けるという配分は2024年時点の報道ベースであり、公式資料で示された275億円の総額と区別して読む必要がある",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度の目標は連結売上高1,000億円以上、売上高営業利益率15％以上、ROE・ROIC各10％以上である",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "一方、新計画では旧計画時点で報じられた「約100億円をヒューマノイド向け」という設備投資配分の更新値は確認できない",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "したがって本稿では、100億円という数字を現在進行中の確定投資額ではなく、旧計画時点の報道値として扱う",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "新計画の5年間では、成長投資に655億円を充てる計画で、中間目標として2028年度に連結売上高820億円以上、営業利益率12％以上を掲げる",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "足元では、2026年8月7日の第1四半期決算で受注高が前年同期比55.7％増となり、通期予想を売上高745億円、営業利益85億円へ引き上げた",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "緑的諧波の2025年の売上高は前年比47％増の5億7,100万元（約130億円）、純利益は121％増の1億2,400万元で、波動歯車の出荷は50万台に迫った",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Drive Systemsの旧中期経営計画における設備投資275億円は公式資料で確認できるが、約100億円をヒューマノイド向けとする配分は2024年時点の報道値である",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "同社は2026年5月に2026〜2030年度の新中計へ刷新し、AIロボットを重点開拓分野に位置づけたため、本稿では旧100億円を現在の確定投資枠として扱わない",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "Turning humanoid supply chain constraints into billion-dollar wins（McKinsey、2026-04-17）：",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "【ハーモニック・ドライブ・システムズの275億円投資と約100億円のヒューマノイド向け配分】日刊工業新聞（2024-10-02）／報道ベース",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "【2027年3月期第1四半期の売上高166.8億円・営業利益18.4億円】HDS公式（2026-08-07）／公表決算",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "【HDS旧中計の設備投資275億円、新中計（2026〜2030年度）でAIロボットを重点化、2030年度売上高1,000億円以上・営業利益率15％以上】Harmonic Drive Systems公式／発表ベース",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "売上高約3,200億円（2024年12月期）、時価総額約4,900億円",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "2021年12月期は売上高2,998億円、営業利益300億円、営業利益率10.0%と好調だった",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "2022年12月期の営業利益は181億円（前期比39.7%減）、2023年は174億円（同3.9%減）、2024年には148億円（同14.9%減）まで落ち込み、営業利益率は4.6%にまで低下した",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "売上高3,079億円（継続事業ベース）、営業利益207億円（前期比60.3%増）、営業利益率6.7%",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "自己資本比率は約50%台で財務の健全性は維持しているが、大型設備投資（浜松新工場の470億円）が進行中であり、投資回収の見通しが業績回復のスピードに依存する構造にある",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画「再興と進化（Reviving Potential, Evolving Excellence）」では、2027年12月期に売上高4,000億円、営業利益420億円、営業利益率10.5%、ROIC10%以上を目標に掲げている",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "CMP事業の営業利益は、2021年の229億円（利益率16.6%）から、2024年にはわずか45億円（利益率4.1%）にまで激減した",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に56億円だった営業利益が、2024年には125億円と倍増以上",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画では、CMP事業の2027年目標を売上高1,500億円、営業利益率11.5%としている",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期の業績は売上高558億円、営業利益わずか1.2億円（前期比98.8%減）と、こちらも厳しい状況にある",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "世界の産業用ロボット市場は2024年の約207億ドルから、2033年には466〜556億ドルに成長すると予測されている",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット市場は2025年の約29億ドルから、2030年には40〜340億ドルへ急成長するとの予測がある（調査機関により幅が大きい）",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットの年成長率が5〜7%にとどまる一方、ヒューマノイドロボットが年率50%以上で成長すれば、2030年代前半には両者の市場規模が接近し、ロボット産業全体に占めるRV減速機搭載機の比率が構造的に低下し始めるシナリオが現実味を帯びる",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットメーカーがこの技術を一から構築するには、少なくとも10年以上の時間と、成果が保証されない数百億円規模の投資が必要になる",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "この歯面をミクロン単位で研磨する技術は、専用の超精密研削盤（たとえばメーラー社製）を必要とし、1台あたり数千万円から億円単位の設備投資が必要だ",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット用RV減速機の世界市場（2026年～2032年）、市場規模（サイクロイド・ピンホイール式RV減速機、遊星歯車式RV減速機、ベアリング式RV減速機）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/4725764",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット用RV減速機の世界市場（2026年～2032年）、市場規模（サイクロイド・ピンホイール式RV減速機、遊星歯車式RV減速機、ベアリング式RV減速機）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/4725764",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット用RV減速機の世界市場規模は、2025年の16億3,500万米ドルから2032年には37億3,300万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）12.8%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/4725764",
+    "pass": 3
+   },
+   {
+    "quote": "第4章「RVロボット用減速機の世界の歴史的レビュー」には、2021年から2026年までの地域別および国別のRVロボット用減速機の歴史的市場規模（年間売上および年間収益）と、アメリカ、APAC、ヨーロッパ、中東・アフリカにおける売上成長に関する情報が提供されています",
+    "url": "https://newscast.jp/smart/news/4725764",
+    "pass": 3
+   },
+   {
+    "quote": "第12章「RVロボット用減速機の世界予測レビュー」には、2027年から2032年までの世界のRVロボット用減速機市場について、地域別（アメリカ、APAC、ヨーロッパ、中東・アフリカ）、タイプ別、およびアプリケーション別の市場規模と年間収益の予測が提供されています",
+    "url": "https://newscast.jp/smart/news/4725764",
+    "pass": 3
+   },
+   {
+    "quote": "1億円 → 1億円未満",
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期は営業利益26億円まで戻し、2026年8月7日には2027年3月期の予想を売上高745億円・営業利益85億円に引き上げました",
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "pass": 3
+   },
+   {
+    "quote": "Global Harmonic Reducer for Humanoid Robot Market Size, Trends, Share, Growth, and Opportunity Forecast, 2023 - 2030",
+    "url": "https://www.congruencemarketinsights.com/report/harmonic-reducer-for-humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 146.3 Million in 2022",
+    "url": "https://www.congruencemarketinsights.com/report/harmonic-reducer-for-humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2,503.2 Million by 2030",
+    "url": "https://www.congruencemarketinsights.com/report/harmonic-reducer-for-humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2,503.2 Million",
+    "url": "https://www.congruencemarketinsights.com/report/harmonic-reducer-for-humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global harmonic reducer for humanoid robot market was valued at USD 146.3 Million in 2022.",
+    "url": "https://www.congruencemarketinsights.com/report/harmonic-reducer-for-humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "1.2. Visual Dashboard: Market Size, Growth Rate, Hotspots",
+    "url": "https://www.researchandmarkets.com/reports/6226154/robot-reducer-market-report?srsltid=AYCX9vJ0DGJfdiHydGHXe07VUyFJKv_0fb5L3yO3aUHRiF2VbV8AoWdg",
+    "pass": 3
+   },
+   {
+    "quote": "7. Global Robot Reducer Strategic Analysis Framework, Current Market Size, Market Comparisons and Growth Rate Analysis",
+    "url": "https://www.researchandmarkets.com/reports/6226154/robot-reducer-market-report?srsltid=AYCX9vJ0DGJfdiHydGHXe07VUyFJKv_0fb5L3yO3aUHRiF2VbV8AoWdg",
+    "pass": 3
+   },
+   {
+    "quote": "7.2. Global Robot Reducer Market Size, Comparisons and Growth Rate Analysis",
+    "url": "https://www.researchandmarkets.com/reports/6226154/robot-reducer-market-report?srsltid=AYCX9vJ0DGJfdiHydGHXe07VUyFJKv_0fb5L3yO3aUHRiF2VbV8AoWdg",
+    "pass": 3
+   },
+   {
+    "quote": "7.3. Global Robot Reducer Historic Market Size and Growth, 2020-2025, Value ($ Billion)",
+    "url": "https://www.researchandmarkets.com/reports/6226154/robot-reducer-market-report?srsltid=AYCX9vJ0DGJfdiHydGHXe07VUyFJKv_0fb5L3yO3aUHRiF2VbV8AoWdg",
+    "pass": 3
+   },
+   {
+    "quote": "7.4. Global Robot Reducer Forecast Market Size and Growth, 2025-2030, 2035F, Value ($ Billion)",
+    "url": "https://www.researchandmarkets.com/reports/6226154/robot-reducer-market-report?srsltid=AYCX9vJ0DGJfdiHydGHXe07VUyFJKv_0fb5L3yO3aUHRiF2VbV8AoWdg",
+    "pass": 3
+   },
+   {
+    "quote": "8.4. TAM vs. Current Market Size Analysis",
+    "url": "https://www.researchandmarkets.com/reports/6226154/robot-reducer-market-report?srsltid=AYCX9vJ0DGJfdiHydGHXe07VUyFJKv_0fb5L3yO3aUHRiF2VbV8AoWdg",
+    "pass": 3
+   },
+   {
+    "quote": "9.1. Global Robot Reducer Market, Segmentation by Type, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6226154/robot-reducer-market-report?srsltid=AYCX9vJ0DGJfdiHydGHXe07VUyFJKv_0fb5L3yO3aUHRiF2VbV8AoWdg",
+    "pass": 3
+   },
+   {
+    "quote": "9.2. Global Robot Reducer Market, Segmentation by Material, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6226154/robot-reducer-market-report?srsltid=AYCX9vJ0DGJfdiHydGHXe07VUyFJKv_0fb5L3yO3aUHRiF2VbV8AoWdg",
+    "pass": 3
+   },
+   {
+    "quote": "9.3. Global Robot Reducer Market, Segmentation by Gear Ratio, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6226154/robot-reducer-market-report?srsltid=AYCX9vJ0DGJfdiHydGHXe07VUyFJKv_0fb5L3yO3aUHRiF2VbV8AoWdg",
+    "pass": 3
+   },
+   {
+    "quote": "9.4. Global Robot Reducer Market, Segmentation by Application, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6226154/robot-reducer-market-report?srsltid=AYCX9vJ0DGJfdiHydGHXe07VUyFJKv_0fb5L3yO3aUHRiF2VbV8AoWdg",
+    "pass": 3
+   },
+   {
+    "quote": "9.5. Global Robot Reducer Market, Segmentation by End-User, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6226154/robot-reducer-market-report?srsltid=AYCX9vJ0DGJfdiHydGHXe07VUyFJKv_0fb5L3yO3aUHRiF2VbV8AoWdg",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "RV減速機市場規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のRV減速機市場規模は、2025年に22億2000万米ドルと評価され、2026年の23億7000万米ドルから2034年には40億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のRV減速機市場規模は、2025年には22億2000万米ドルと評価され、2026年の23億7000万米ドルから2034年には40億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "平歯車は市場シェアが最も高く、予測期間中に年平均成長率（CAGR）6.4%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットが最大の市場シェアを占め、予測期間中に年平均成長率（CAGR）7%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は最大の市場シェアを占めており、予測期間中の年平均成長率（CAGR）は7.1%と推定されています",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "2030年までに8億3300万米ドルに達すると予測されており、年平均成長率（CAGR）は6.8%です",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "RV用減速機の市場規模は、2026年には23億7000万米ドルと評価され、2034年までに40億5000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.9%です",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "～2019年の小型・精密減速機世界出荷台数は前年比89.3％の見込、但し一過性の調整局面であり、2017年から2021年までのCAGRは9.28%で成長と予測～",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットや各種工作機械用の減速機需要の好調を受け、2018年の小型・精密減速機世界市場（メーカー出荷数量ベース）を前年比117.5%の403万台と推計した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、2018年後半から需要が急激に減少しており、2019年前半も同様で経過しているものの、下半期で受注も若干持ち直すと考え、2019年の小型・精密減速機世界市場を前年比89.3%の360万台になると見込む",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "2017年から2021年までのCAGRは9.28%で成長し、2021年の小型・精密減速機世界市場（メーカー出荷数量ベース）は489万台になると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "2028年までにはCAGR（年平均成長率）を超えるといった予測",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年以降はRVminiとMonocrankで小型・ヒューマノイド市場への拡大を狙う",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "緑的諧波の2025年の売上高は前年比47％増の5億7,100万元（約130億円）、純利益は121％増の1億2,400万元で、波動歯車の出荷は50万台に迫った",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に向けては、生産能力の拡大計画と、それに必要な熟練技術者の育成計画を一体で立てる",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "配線を通す中空穴の面積も200％拡大するなど、従来品の問題点を多角的に解決しています",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボット市場がこの10年で3倍以上に拡大する中で、ナブテスコの精密減速機RVは累計1,200万台以上を出荷してきた",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に56億円だった営業利益が、2024年には125億円と倍増以上",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "2025年は57万5,000台（前年比6%増）、2028年には70万台を突破する見通しだ",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットの年成長率が5〜7%にとどまる一方、ヒューマノイドロボットが年率50%以上で成長すれば、2030年代前半には両者の市場規模が接近し、ロボット産業全体に占めるRV減速機搭載機の比率が構造的に低下し始めるシナリオが現実味を帯びる",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "近年はニデックドライブテクノロジーをはじめ、定格トルク200Nm超の高出力タイプも開発されており、中負荷領域への守備範囲は拡大しつつある",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "この投資により、精密減速機の年間生産能力を約120万台から約200万台へ、ほぼ倍増させる計画だった",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド向け精密減速機市場は2024年の約39百万ドルから2032年に約580百万ドルへ急拡大するとの予測がある",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット用RV減速機の世界市場規模は、2025年の16億3,500万米ドルから2032年には37億3,300万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）12.8%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/4725764",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 42.7%",
+    "url": "https://www.congruencemarketinsights.com/report/harmonic-reducer-for-humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 44.1%",
+    "url": "https://www.congruencemarketinsights.com/report/harmonic-reducer-for-humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global harmonic reducer for humanoid robot market is expected to expand at a CAGR of 42.7% between 2023 and 2030.",
+    "url": "https://www.congruencemarketinsights.com/report/harmonic-reducer-for-humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 1.46 Billion in 2025 and is projected to reach USD 3.50 Billion by 2035, growing at a CAGR of 9.13% during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "pass": 3
+   },
+   {
+    "quote": "By Product Type: Dominant – Grease (54.80% → 53.20%); Fastest-Growing – Solid lubricants (10.60% → 15.40%, CAGR 13.20%)",
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "pass": 3
+   },
+   {
+    "quote": "By Application: Dominant – Joints and gears (49.80% → 48.20%); Fastest-Growing – Others (5.30% → 7.70%, CAGR 13.20%)",
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "pass": 3
+   },
+   {
+    "quote": "By End-Use Industry: Dominant – Automotive manufacturing (34.70% → 32.30%); Fastest-Growing – Food & beverage (10.20% → 11.80%, CAGR 10.72%)",
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "pass": 3
+   },
+   {
+    "quote": "By Robot Type / Motion System: Dominant – Articulated robots (44.70% → 42.30%); Fastest-Growing – Collaborative robots (15.40% → 18.60%, CAGR 11.19%)",
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific: 56.80% → 63.20% in 2035, Dominant Region with Strong Growth (CAGR 10.29%)",
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "pass": 3
+   },
+   {
+    "quote": "North America: 24.10% → 20.90% in 2035, Moderate Share with Gradual Decline (CAGR 7.58%)",
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "pass": 3
+   },
+   {
+    "quote": "Europe: 14.46% → 12.54% in 2035, Moderate Share with Slow Decline (CAGR 7.58%)",
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America: 2.82% → 2.18% in 2035, Small Share with Moderate Growth (CAGR 6.32%)",
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East & Africa: 1.82% → 1.18% in 2035, Small Share with Slow Decline (CAGR 4.41%)",
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 9.13% From 2026 to 2035",
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "pass": 3
+   },
+   {
+    "quote": "is expected to grow at a CAGR of 9.13% from 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "2025年のRV用減速機市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "マッキンゼーの推計では、アクチュエータ原価の30〜50％を減速機が占め、性能差の大部分もここから生まれる",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "減速機はアクチュエータ原価の3〜5割を占めるため、精度の要らない関節まで高精度の方式を使えば、その差額が全身の関節数だけ積み上がる",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "【コスト比率】★★★★★／アクチュエータ原価の30〜50％を占める最大の要素",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "【減速機がアクチュエータ原価の30〜50％、性能差の大部分】McKinsey（2026-04-17）／推計",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "波動歯車（ハーモニック）とRV（ナブテスコ）で日本2社が世界の大半を占める",
+    "url": "https://geopinning.space/industry/japan-precision-reducer/",
+    "pass": 3
+   },
+   {
+    "quote": "前述のとおり、減速機はロボット1台の原価の約35%を占める",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "これは、コアコンポーネント3つ（減速機35%、サーボモータ20%、コントローラ15%）だけで原価の70%に達するロボットの原価構造を反映している",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAにとってTガラスの調達コストが全体の中では微々たるものであるように、ロボットメーカーにとって減速機は原価の35%を占める最大のコスト要因であり、しかも代替が効かない",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットの年成長率が5〜7%にとどまる一方、ヒューマノイドロボットが年率50%以上で成長すれば、2030年代前半には両者の市場規模が接近し、ロボット産業全体に占めるRV減速機搭載機の比率が構造的に低下し始めるシナリオが現実味を帯びる",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "この歯面をミクロン単位で研磨する技術は、専用の超精密研削盤（たとえばメーラー社製）を必要とし、1台あたり数千万円から億円単位の設備投資が必要だ",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット1台あたり4〜5個の減速機を使うとしても、市場規模はまだ限定的だった",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、Meigler 平面研削盤の単価は人民元で 1,000 万元近くです",
+    "url": "https://ja.jidemachinery.com/info/precision-reducers-monopolized-by-japan-17198213186462720.html",
+    "pass": 3
+   },
+   {
+    "quote": "2013年頃までは、ほぼ日本のメーカーによる独占状態が続いていましたが、近年では中国メーカーなどが占める割合も増えてきています（※2023年3月調査時点）",
+    "url": "https://www.precision-reducer-guide.com/market/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、中大型の産業用ロボットの関節用の精密減速機で世界の約6割を占めると推計しています (基準の年は示していません)",
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "RV減速機市場規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "RV減速機市場の規模、シェア、トレンド分析レポート：製品別（平歯車、差動歯車）、用途別（産業用ロボット、工作機械、半導体、LED＆OLED、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に48.6%の市場シェアを占め、RV減速機市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "RV減速機は、多くの生産工程において重要な低速域での高トルク供給能力を備えているため、人気が高まっています",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "RV用減速機は、多くの生産工程において重要な低速域での高トルク供給能力を備えているため、人気が高まっています",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "平歯車は市場シェアが最も高く、予測期間中に年平均成長率（CAGR）6.4%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットが最大の市場シェアを占め、予測期間中に年平均成長率（CAGR）7%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "製品の品質と競争力を高め、セグメントの成長を牽引しようとする機器メーカーにとって最適な選択肢と言えるでしょう",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は最大の市場シェアを占めており、予測期間中の年平均成長率（CAGR）は7.1%と推定されています",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー各社がエンジンに高出力負荷を搭載するようになるにつれ、減速機の中期的な需要は増加すると見込まれます",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、減速機が提供する高い精度は、RVメーカーが製造工程で使用するのに最適な選択肢となっています",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、サーボモーターや精密減速技術を含む統合型ロボット駆動システム製品群を強化することで、精密モーションコントロール製品のポートフォリオを拡大し、高度な産業オートメーションおよびロボットメーカーを支援していく",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のRV用減速機市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に48.6%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車燃料タンク市場規模、シェア、成長率、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "マーケットシェア事典オンライン",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットや各種工作機械用の減速機需要の好調を受け、2018年の小型・精密減速機世界市場（メーカー出荷数量ベース）を前年比117.5%の403万台と推計した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "小型・精密減速機のメーカー動向",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれの種類にメジャーメーカーが1社、もしくは2社いる構図となっており、合計4社が市場に君臨している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "​このような中、これまでは遊星歯車減速機のみの取り組みであった減速機メーカーが、その他の減速機タイプへの市場参入を目指す動きなどが出てきている",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "その中でも、やはり波動歯車減速機は技術的な壁が高いようで、当初は波動歯車減速機の開発を進めていたメーカーが、その後、サイクロイド減速機に乗り換える事例も見受けられる",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、現在は多くの減速機メーカーが増産体制構築に動いた矢先、需要にブレーキがかかった形となり在庫等を考慮すると、この先の市況回復期における市場状況を予測するのは難しい",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "減速機メーカー各社においても、今後の市況についてはさらに悪化しているとの見解や、戻りつつあると回復を示すものなどまだら模様で、明確にはならない",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "2017年から2021年までのCAGRは9.28%で成長し、2021年の小型・精密減速機世界市場（メーカー出荷数量ベース）は489万台になると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "2.調査対象： 減速機メーカー、商社、減速機関連部材メーカー他",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "バックラッシゼロを冠する減速機メーカーは極めて少数、中国製はまだカウント外",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "高い世界シェアを持っています",
+    "url": "https://rv-support.nabtesco.com/history",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット分野における減速機のシェアとは",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "精密減速機メーカー大全-Precision Reducer GUIDE-",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "精密減速機の製造メーカーリスト",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "精密減速機の製造メーカーリスト_TOP",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "減速機の国内シェア",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "減速機の世界シェア",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット減速機のシェア",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用装置の減速機のシェア",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー3選",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年、目覚ましい発展をみせるロボット産業における減速機のシェアについてご紹介しています",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場では、日本企業が大きくそのシェアを占めています",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "ナブテスコやハーモニック・ドライブシステムズ、住友重機械工業などの日本企業が大きなシェア",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "ナブテスコでいえば、産業用ロボット関節用途精密減速機の世界シェアが約6割、中・重負荷産業用ロボット用RV減速機では9割と高いシェアを占めています（※2023年3月調査時点）",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、ハーモニック・ドライブシステムズでは波動歯車装置のシェアが高くなっています",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "そうしたことからも、ロボット産業における減速機の主要メーカーは、長らく日本企業がそのシェアを占めていました",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "供給の面では、三方式の立場ははっきり違う",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "ナブテスコは、中・大型の産業用ロボットの関節向け精密減速機で世界シェア約6割（同社推定）を持ち、ファナック、安川電機、川崎重工業、KUKA、ABBを主要顧客に挙げる",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "マッキンゼーは、減速機の供給が詰まる理由として、専用の工具と計測設備に加えて長い認定期間を挙げている",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "新しい供給先の波動歯車を評価するときは、歯形の違いによる剛性と寿命の差を、同じ負荷条件で既存品と並べて測る",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "McKinseyは2026年の供給網分析で、ヒューマノイドが転倒した際のバックドライブ荷重を波動歯車のリスクとして挙げる",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "同社の決算資料によれば、この領域で高いシェアを確保してきた",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "その代わり、歯車機構として成熟し、自動車、産業機械、電動工具など巨大な供給網がある",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーを選ぶときは、一つの方式だけを持つ企業か、複数の方式を持つ企業かを確認する",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "歯車加工、熱処理、ベアリング、潤滑の供給網が広く、自動車技術を転用しやすい",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "中国でも複数の精密減速機メーカーがヒューマノイド需要を狙っており、価格競争は強まる",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "供給能力の数字も出てきた",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "マッキンゼーも、波動歯車の供給企業としてハーモニック・ドライブとナブテスコに並べて緑的諧波の名を挙げた",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "主要工程を「分から秒へ」短縮できるという説明で、2027年には複数のヒューマノイドメーカー向けに大量生産を展開する計画である",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "このニュースは、波動歯車が高価で供給が細いという前提を将来変える可能性がある",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、自動車向けに過去10年で200万個を超える成形の波動歯車を世界の主要市場へ供給してきたと説明する",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "Cam Indexing Driveは、中国本土で最も初期の専門メーカーの1つであるSangoAutomationによって製造された主要製品の1つです",
+    "url": "https://ja.linear-rotary.com/info/what-does-rv-reducer-mean-what-are-the-perfor-100530185.html",
+    "pass": 3
+   },
+   {
+    "quote": "柔軟で自由にプログラム可能な中空ロータリー インデックス テーブルと固定ステーション ロータリー インデックス テーブルは、10 年以上の経験を持つリニア モジュールとロータリー ギアボックスのメーカーである Sango",
+    "url": "https://ja.linear-rotary.com/info/what-does-rv-reducer-mean-what-are-the-perfor-100530185.html",
+    "pass": 3
+   },
+   {
+    "quote": "プロのカムインデックステーブルメーカーとして、Sango Automationは別々のカムインデクサーとギアモーターとスピードコントローラーまたはVFDを統合した完全なソリューションを供給することができます",
+    "url": "https://ja.linear-rotary.com/info/what-does-rv-reducer-mean-what-are-the-perfor-100530185.html",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "アジア太平洋地域は、同地域最大の経済大国である中国と日本がRV減速機の大部分を生産しているため、RV減速機市場を支配しています",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "中でも日本はRV減速機の製造において最も大きな割合を占めています",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月：日本電産株式会社",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "同じころ、日本のロボット産業は「ロボット普及元年」で急速な成長をみせていました",
+    "url": "https://rv-support.nabtesco.com/history",
+    "pass": 3
+   },
+   {
+    "quote": "拠点一覧(国内)",
+    "url": "https://rv-support.nabtesco.com/history",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックドライブテクノロジー（旧：日本電産シンポ）",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "減速機の国内シェア",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場では、日本企業が大きくそのシェアを占めています",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "減速機では日本企業が",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "ナブテスコやハーモニック・ドライブシステムズ、住友重機械工業などの日本企業が大きなシェア",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "※参照元：日本機械学会誌",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国や韓国で国産化が",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "そうしたことからも、ロボット産業における減速機の主要メーカーは、長らく日本企業がそのシェアを占めていました",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、近年は中国や韓国のロボット向け減速機の取り組みレベルが活発になってきており、国産化を進める動きがみられます",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本製品と同レベルの性能に、",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "※「精密減速機 メーカー」とGoogle検索し表示される波動歯車減速機メーカーのうち、調査した中で「国内シェア率が最も高い」「耐久性が最も高い」「価格が最も安い」3社をピックアップしました（2023年3月1日調査時点）",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場で約9割のシェア",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "※「精密減速機 メーカー」とGoogle検索し表示される波動歯車減速機メーカー4社のうち、経済予測分析プラットフォーム「xeno Brain」の国内マーケットシェアで最多（2023年3月調査時点）",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "（旧：日本電産シンポ）",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "引用元：マテックス公式HP (https://www.matex-japan.com/products/gear_feature)",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "評価軸：役割／コスト比率／技術難度／サプライチェーン／日本企業の商機",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットでハーモニック・ドライブ・システムズとナブテスコが築いた日本の牙城は、需要の急増と中国勢の追い上げを同時に迎えている",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "第17章 日本企業の商機",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業がヒューマノイド減速機で維持・拡大できる優位性",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "この領域は日本企業が長く握ってきた",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "これらはヒューマノイド専用品として発表されたものではなくFAやロボット関節を広く対象とする製品だが、減速機単品からモーター・エンコーダを含む完成アクチュエータへ価値を上げる方向を、日本企業自身が進めている例として重要である",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "減速機は、日本企業がヒューマノイドで最も世界的競争力を発揮しやすい領域の一つである",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "Nabtescoが小型領域へRVminiとMonocrankを広げ、MinebeaMitsumiがHarmonic Drive Systemsと超小型アクチュエータを共同開発しているのは、日本企業が「減速機単品」から「機電統合」へ動き始めた例である",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の強みの一つは、マッキンゼーが供給の壁として挙げた要素そのものである",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は、OEMの認定試験に要する項目と期間を先回りして整理し、試験データの一式を製品と一緒に提供する",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "【日本企業の商機】★★★★★／ハーモニック・ドライブ・システムズとナブテスコを中心に世界級の基盤",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が強い領域だからこそ、次の勝負は「産業ロボットで強かった技術」を「軽量な人型ロボット用へ再設計できるか」にある",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の堀は、精密加工と長い認定期間という参入の壁そのものにある",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "107個のベアリング搭載ロボットハンド：CES 2026現地レポート（EE Times Japan）：",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "【ミネベアミツミの指用アクチュエータの減速比1/100と1/30、ワイヤー駆動、ベアリング107個】EE Times Japan（2026-01-20）・ミネベアミツミ決算説明資料（2026-02-05）／発表ベース",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "拠点一覧(国内)",
+    "url": "https://rv-support.nabtesco.com/feature",
+    "pass": 3
+   },
+   {
+    "quote": "RV減速機は回転ベクトル減速機の略称で、日本で初めて発明されたもので、伝統的なサイクロイド風車と遊星歯車伝動装置を融合した新しいもので、RV減速機の伝動装置は比較的大きいです（30-260）",
+    "url": "https://ja.linear-rotary.com/info/what-does-rv-reducer-mean-what-are-the-perfor-100530185.html",
+    "pass": 3
+   },
+   {
+    "quote": "RV減速機の原理は早くから公開されており、特許保護はなく、私たちがいつも聞いていたものとは異なりますが、業界全体のRV減速機市場の80％は依然として日本が占めており、代表的なブランドはナブテスコと住友、国内ブランドは秦川、レクトラプレシジョン、恒豊などです",
+    "url": "https://ja.linear-rotary.com/info/what-does-rv-reducer-mean-what-are-the-perfor-100530185.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の精密減速機産業",
+    "url": "https://geopinning.space/industry/japan-precision-reducer/",
+    "pass": 3
+   },
+   {
+    "quote": "波動歯車（精密関節）とRV（基部・重負荷）で日本勢が首位",
+    "url": "https://geopinning.space/industry/japan-precision-reducer/",
+    "pass": 3
+   },
+   {
+    "quote": "旧・日本電産シンポ",
+    "url": "https://geopinning.space/industry/japan-precision-reducer/",
+    "pass": 3
+   },
+   {
+    "quote": "国産化を進め中価格帯で台頭",
+    "url": "https://geopinning.space/industry/japan-precision-reducer/",
+    "pass": 3
+   },
+   {
+    "quote": "勢が国産化を急ぐ「経済安全保障上の要衝」でもありますが、耐久性・精度では依然",
+    "url": "https://geopinning.space/industry/japan-precision-reducer/",
+    "pass": 3
+   },
+   {
+    "quote": "主な国内拠点",
+    "url": "https://geopinning.space/industry/japan-precision-reducer/",
+    "pass": 3
+   },
+   {
+    "quote": "の国内集積と近接し、要求に即応",
+    "url": "https://geopinning.space/industry/japan-precision-reducer/",
+    "pass": 3
+   },
+   {
+    "quote": "波動歯車（ハーモニック）とRV（ナブテスコ）で日本2社が世界の大半を占める",
+    "url": "https://geopinning.space/industry/japan-precision-reducer/",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックドライブテクノロジー（旧・日本電産シンポ）会社情報",
+    "url": "https://geopinning.space/industry/japan-precision-reducer/",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックドライブテクノロジー（旧：日本電産シンポ）",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "減速機の国内シェア",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "※「精密減速機 メーカー」とGoogle検索し表示される波動歯車減速機メーカーのうち、調査した中で「国内シェア率が最も高い」「耐久性が最も高い」「価格が最も安い」3社を選出しました（2023年3月1日調査時点）",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場で約9割のシェア",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "※「精密減速機 メーカー」とGoogle検索し表示される波動歯車減速機メーカー4社のうち、経済予測分析プラットフォーム「xeno Brain」の国内マーケットシェアで最多（2023年3月調査時点）",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "（旧：日本電産シンポ）",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "※経済予測分析プラットフォーム「xeno Brain」の国内マーケットシェアで最多（2023年3月調査時点）",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットの関節部分などに多くに使われており、国内シェアは約9割と圧倒的な占有率を誇っています",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内だけでなく、世界的にもそのブランド力は轟いており、中でも",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外を問わず、産業用ロボットの減速機といえば「ハーモニック・ドライブ・システムズ」と言えるほどその知名度は高まっています",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "今回波動歯車減速機を調査した中で最も安い商品を紹介していたのがニデックドライブテクノロジー（旧：日本電産シンポ）の減速機です",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "引用元：マテックス公式HP (https://www.matex-japan.com/products/gear_feature)",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "引用元：マテックス公式HP(https://www.matex-japan.com/products/gear_feature)",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "同社は、サーボモーターや精密減速技術を含む統合型ロボット駆動システム製品群を強化することで、精密モーションコントロール製品のポートフォリオを拡大し、高度な産業オートメーションおよびロボットメーカーを支援していく",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、機会評価、顧客セグメンテーション、競合ベンチマーキング、成長戦略の策定といった業務を通じてクライアントを支援しています",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハラール認証取得支援サービス",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "ただし決算の要約で伸びの要因として挙がったのは、半導体製造装置向けの設備投資需要と北米の手術支援ロボット向けの受注であり、ヒューマノイド向けの寄与は切り分けて示されていない（決算要約による）",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "【HDSの2027年3月期第1四半期（受注高55.7％増、通期予想を売上高745億円・営業利益85億円へ修正、伸びの要因は半導体製造装置と北米の手術支援ロボット）】HDS決算短信（2026-08-07）・決算要約／公表決算",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "勢が国産化を急ぐ「経済安全保障上の要衝」でもありますが、耐久性・精度では依然",
+    "url": "https://geopinning.space/industry/japan-precision-reducer/",
+    "pass": 3
+   },
+   {
+    "quote": "緑的諧波（Leaderdrive）、秦川機床（Qinchuan）、中大力徳（ZD）、南通振康（Nantong Zhenkang）などが、国家的な支援を背景に急速に台頭している",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "歯車専用の計算ソフトや作図ソフト、歯車ＣＡＤデータの提供といった支援ツールも公開",
+    "url": "https://www.precision-reducer-guide.com/market/domestic.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、医療用ロボットにおいても、手術支援やリハビリ支援用のアクチュエーターで使用され、精密な動作を支えています",
+    "url": "https://newscast.jp/smart/news/4725764",
+    "pass": 3
+   },
+   {
+    "quote": "💴 蓄電池の補助金一覧",
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "pass": 3
+   },
+   {
+    "quote": "蓄電池の補助金一覧",
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "pass": 3
+   },
+   {
+    "quote": "産業用蓄電池と系統用蓄電池の国の補助金を、補助率・上限・公募期間・要件で比較",
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "pass": 3
+   },
+   {
+    "quote": "CEV補助金・実質価格・スペックを横断比較 — 購入検討はここから",
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "pass": 3
+   },
+   {
+    "quote": "BYD・ZEEKR の価格・航続・充電・補助金",
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術・機械設計・自動化支援",
+    "url": "https://minatavn.com/ja/blog/equipment-selection-04-harmonic-planetary-cycloidal-gearbox-ja",
+    "pass": 3
+   },
+   {
+    "quote": "予算が限られ、精度は中程度か",
+    "url": "https://minatavn.com/ja/blog/equipment-selection-04-harmonic-planetary-cycloidal-gearbox-ja",
+    "pass": 3
+   },
+   {
+    "quote": "最大作動トルク（加速を含む）、連鎖全体の許容バックラッシ、この関節の予算です",
+    "url": "https://minatavn.com/ja/blog/equipment-selection-04-harmonic-planetary-cycloidal-gearbox-ja",
+    "pass": 3
+   },
+   {
+    "quote": "二つの要因が別々の方向へ引っ張るとき、予算の数字と精度の重要度が決着をつけます",
+    "url": "https://minatavn.com/ja/blog/equipment-selection-04-harmonic-planetary-cycloidal-gearbox-ja",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット関節やサーボ軸のために減速機を選んでいて、波動、遊星、サイクロイドの間で迷っている場合、MINATAは用途の実際のトルク、精度、予算に基づいて助言できます",
+    "url": "https://minatavn.com/ja/blog/equipment-selection-04-harmonic-planetary-cycloidal-gearbox-ja",
+    "pass": 3
+   },
+   {
+    "quote": "構想設計から立ち上げまでの実務経験をもとに、日越の技術・調達・コミュニケーションを支援しています",
+    "url": "https://minatavn.com/ja/blog/equipment-selection-04-harmonic-planetary-cycloidal-gearbox-ja",
+    "pass": 3
+   },
+   {
+    "quote": "Optical I/O for AI Chips Market",
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "2021年の小型・精密減速機世界出荷台数を489万台と予測",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "～2019年の小型・精密減速機世界出荷台数は前年比89.3％の見込、但し一過性の調整局面であり、2017年から2021年までのCAGRは9.28%で成長と予測～",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットや各種工作機械用の減速機需要の好調を受け、2018年の小型・精密減速機世界市場（メーカー出荷数量ベース）を前年比117.5%の403万台と推計した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、2018年後半から需要が急激に減少しており、2019年前半も同様で経過しているものの、下半期で受注も若干持ち直すと考え、2019年の小型・精密減速機世界市場を前年比89.3%の360万台になると見込む",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "2017年から2021年までのCAGRは9.28%で成長し、2021年の小型・精密減速機世界市場（メーカー出荷数量ベース）は489万台になると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "pass": 3
+   },
+   {
+    "quote": "ナブテスコはこの分野で30年以上の実績を有し、累計1,200万台（2023年4月時点）の出荷を達成",
+    "url": "https://rv-support.nabtesco.com/history",
+    "pass": 3
+   },
+   {
+    "quote": "MAX9トンまで積載化",
+    "url": "https://rv-support.nabtesco.com/history",
+    "pass": 3
+   },
+   {
+    "quote": "(https://skg2016.com/products/)",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "最安の4万円台～",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品価格が最安の6万円台～",
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社の2026年2月の決算説明資料は、ワイヤー駆動で指先を軽くし、1台のハンドに107個のベアリングと5個の力センサーを積むと説明している（発表ベース）",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "Nabtescoは産業ロボット分野で大きな実績を持ち、RV減速機の累計生産が1,400万台を超えたと公表している（2025年12月時点）",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "外周に40本のピンを並べ、39個の山を持つ曲線板を偏心させて回すと、曲線板は入力軸が1回転するごとに山一つ分だけ逆向きに進み、減速比は39になる",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "ナブテスコのRV減速機が強いのは、可搬重量20kg以上の溶接・塗装用の産業用ロボットである",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "同社の2025年12月期決算説明資料（2026年2月19日）では、波動歯車方式のRVminiと、中心クランク型の偏心揺動方式で耐衝撃性と歯飛びの起きにくさを特徴とするMonocrankを、可搬重量20kg未満の小型ロボット、コボット、ヒューマノイド向けとして示している",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "実装・評価で見るべきポイント：「一台で一方式」に固定せず、関節負荷マップを作り、3〜5種類程度の標準関節へ集約しながら方式を使い分ける",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "ナブテスコの精密減速機の年間生産能力は、津工場89万台、中国の常州工場17万台、2024年に稼働した浜松工場9万台の計115万台である",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "緑的諧波の2025年の売上高は前年比47％増の5億7,100万元（約130億円）、純利益は121％増の1億2,400万元で、波動歯車の出荷は50万台に迫った",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "同社幹部は受注が2027年分まで埋まっていると述べ、2026年は生産能力を100万台規模へ引き上げる計画と報じられている（報道ベース）",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "従来の精密切削に対し、成形技術で主要部品を作る方法を発表し、製造コストを25％超、材料使用量を75％超削減できるとしている",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、自動車向けに過去10年で200万個を超える成形の波動歯車を世界の主要市場へ供給してきたと説明する",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "Schaefflerの成形波動歯車が示したのは、ヒューマノイド向けでは歯車設計だけでなく、1個を何秒で作れるかが製品性能の一部になるということである",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "2030年の勝者は、最高精度を出す企業ではなく、必要な精度・寿命を数百万個で再現できる企業かもしれない",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "NabtescoのRV減速機累計生産は2025年12月2日の公式発表に基づき1,400万台超へ修正した",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "、1台のロボットに両",
+    "url": "https://geopinning.space/industry/japan-precision-reducer/",
+    "pass": 3
+   },
+   {
+    "quote": "(https://skg2016.com/products/)",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "最安の4万円台～",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "引用元：SKG（https://skg2016.com/）",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "https://skg2016.com/struct/wp-content/uploads/b2ce8304f3de2dcd20542ae6ad489cfe-1.pdf",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "(https://skg2016.com/struct/wp-content/uploads/b2ce8304f3de2dcd20542ae6ad489cfe-1.pdf)",
+    "url": "https://www.precision-reducer-guide.com/",
+    "pass": 3
+   },
+   {
+    "quote": "例：回転部分の慣性 1×10⁻⁵ kg·m²",
+    "url": "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "pass": 3
+   },
+   {
+    "quote": "→ 出力側から見て 0.1 kg·m²",
+    "url": "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "pass": 3
+   },
+   {
+    "quote": "（0.5 m 先の 1 kg の重りの",
+    "url": "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "pass": 3
+   },
+   {
+    "quote": "慣性 0.25 kg·m² に近い大きさ）",
+    "url": "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "pass": 3
+   },
+   {
+    "quote": "L10 は、定格トルク Tr・入力 2000 rpm で、10%の個体が壊れるまでの時間（CSF は 7,000 時間、CSG は 10,000 時間）、Tav は平均の負荷トルク、Nav は平均の入力回転数です",
+    "url": "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "pass": 3
+   },
+   {
+    "quote": "MIT Cheetah の肩のモジュールは、モーターが 2.00 kg、熱処理した鋼の歯車列が 0.42 kg、フレームが 1.23 kg で、合計 3.65 kg でした",
+    "url": "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "pass": 3
+   },
+   {
+    "quote": "10%の個体が壊れるまでの時間",
+    "url": "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "pass": 3
+   },
+   {
+    "quote": "CSG-14-100 の定格トルク 10 N·m、K1・K2・K3、T1・T2、標準の精度 1.5 分角、質量 0.06 kg",
+    "url": "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "pass": 3
+   },
+   {
+    "quote": "反射慣性が歯車比の2乗に比例する近似、低い歯車比と高い歯車比のトレードオフの記述、脚の歯車比 1:5.8（単段・4遊星、標準の遊星構成で単段の最大比）、IMF、肩モジュールの質量（モーター 2.00 kg、鋼の歯車列 0.42 kg、フレーム 1.23 kg、合計 3.65 kg）",
+    "url": "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "pass": 3
+   },
+   {
+    "quote": "35 N·m・30 rpm・約110 W と約157 W、反射慣性 0.1 kg·m²、N = 5.8 のトルク約4倍・反射慣性約34倍、遊星歯車の比 4 と 16、波動歯車の比 100、1 分角 ≒ 0.15 mm（0.5 m）、5.7 分角と 0.83 mm、寿命 5,787・2,963・19,531・11,574 時間、歯車の重さ約12%",
+    "url": "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "pass": 3
+   },
+   {
+    "quote": "RV減速機の減速比の式と仕様表の個別の値、波動歯車の効率の数値、減速機単体の国際規格、鋼種の規格（JIS・ISO）、3Dプリント歯車の一般的な耐久性",
+    "url": "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "pass": 3
+   },
+   {
+    "quote": "ファナック、安川電機、ABB、KUKA──産業用ロボットの「四天王」と呼ばれる4社は、世界の工場に300万台以上のロボットを供給している",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボット市場がこの10年で3倍以上に拡大する中で、ナブテスコの精密減速機RVは累計1,200万台以上を出荷してきた",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット1台には平均4〜5個のRV減速機が使われる",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、ロボット1台で最も高価な部品は、ロボットメーカー自身が作るものではなく、外部の部品メーカーから買うものなのだ",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "自己資本比率は約50%台で財務の健全性は維持しているが、大型設備投資（浜松新工場の470億円）が進行中であり、投資回収の見通しが業績回復のスピードに依存する構造にある",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "前述のとおり、減速機はロボット1台の原価の約35%を占める",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "国際ロボット連盟（IFR）によれば、2024年の世界の産業用ロボット導入台数は54万2,000台に達し、4年連続で50万台を超えた",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "2025年は57万5,000台（前年比6%増）、2028年には70万台を突破する見通しだ",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、中国は29万5,000台のロボットを導入し、世界全体の54%を占めた",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "テスラは2025年に数千台、2026年に5〜10万台規模の生産を計画していると報じられている",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "(https://skg2016.com/products/)",
+    "url": "https://www.precision-reducer-guide.com/market/domestic.html",
+    "pass": 3
+   },
+   {
+    "quote": "最安の4万円台～",
+    "url": "https://www.precision-reducer-guide.com/market/domestic.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品価格が最安の6万円台～",
+    "url": "https://www.precision-reducer-guide.com/market/domestic.html",
+    "pass": 3
+   },
+   {
+    "quote": "1台のロボットに複数の減速機が使用されており、",
+    "url": "https://www.precision-reducer-guide.com/market/",
+    "pass": 3
+   },
+   {
+    "quote": "(https://skg2016.com/products/)",
+    "url": "https://www.precision-reducer-guide.com/market/",
+    "pass": 3
+   },
+   {
+    "quote": "最安の4万円台～",
+    "url": "https://www.precision-reducer-guide.com/market/",
+    "pass": 3
+   },
+   {
+    "quote": "製品価格が最安の6万円台～",
+    "url": "https://www.precision-reducer-guide.com/market/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、ロボット1台につき4～5個のRV減速機が使用されます",
+    "url": "https://newscast.jp/smart/news/4725764",
+    "pass": 3
+   },
+   {
+    "quote": "この最新調査レポート「ロボット用RV減速機産業予測」は、過去の販売実績を分析し、2025年の世界全体のロボット用RV減速機販売台数を概観するとともに、2026年から2032年までの予測販売台数を地域別および市場セクター別に包括的に分析しています",
+    "url": "https://newscast.jp/smart/news/4725764",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "RV減速機市場規模 、シェア、成長率、予測（2034年） — RV減速機市場規模 、シェア、成長率、予測（2034年） Straits Research https://straitsresearch.com > 自動車・輸送 > パワートレイン",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   },
+   {
+    "quote": "RV減速機 市場規模、シェア、成長率、予測（2034年） — RV減速機 市場規模、シェア、成長率、予測（2034年） Straits Research https://straitsresearch.com > 自動車・輸送 > パワートレイン",
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "触覚センサーやカメラが増えるほど配線は太くなり、中空径の不足は関節の作り直しを意味する",
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "pass": 3
+   },
+   {
+    "quote": "4-1. 工場自動化の加速：労働力不足が「選択」を「必然」に変えた",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "この成長を根本的に駆動しているのは、先進国の労働力不足だ",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "日本では生産年齢人口が2040年に6,000万人を割り込む見込みであり、2030年には約644万人の人手不足が予測されている",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット導入を「労働力不足の主要因」と回答する日本企業は54%に達し、これはグローバル平均の2倍だ",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "労働力不足は先進国共通の構造問題であり、ロボット需要の下支え要因として不可逆的に作用する",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "需要回復局面で供給制約にならない体制を先行的に整えている",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "加工条件（送り速度、研削圧、冷却条件、砥石管理）のノウハウが不足しているためだ",
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "pass": 3
+   },
+   {
+    "quote": "装置・材料・ファウンドリ・輸出規制",
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "pass": 3
+   },
+   {
+    "quote": "輸出規制・制裁の影響を切り口別に整理",
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "pass": 3
+   },
+   {
+    "quote": "中国の対日輸出規制リスト×影響銘柄",
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "pass": 3
+   },
+   {
+    "quote": "中国商務部が 2026 年 2 月・6 月に指定した対日輸出規制の管理リスト 40 団体・注視リスト 40 団体と、リスト入りした日本企業・影響銘柄",
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "pass": 3
+   },
+   {
+    "quote": "輸出規制・制裁と日本株を根拠でつなぐ",
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "pass": 3
+   },
+   {
+    "quote": "手作業では作業者によってバラツキがみられたり、刺激的な光や有害な煙などによる作業環境への課題がありましたが、作業のロボット化でこれを解消し、人材不足の心配もなくなりました",
+    "url": "https://www.precision-reducer-guide.com/usage/industrial-robot/small.html",
+    "pass": 3
+   },
+   {
+    "quote": "習慣ではなくこの三要素で選ぶことで、過剰な出費も精度不足も避けられます",
+    "url": "https://minatavn.com/ja/blog/equipment-selection-04-harmonic-planetary-cycloidal-gearbox-ja",
+    "pass": 3
+   },
+   {
+    "quote": "Why Harmonic Gearboxs Are the Biggest Bottleneck in Humanoid Robot Scaling",
+    "url": "https://www.piceamotiondrive.com/scaling-humanoid-production-sourcing-cost-effective-harmonic-drives-in-china.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Bottleneck in Humanoid Commercialization",
+    "url": "https://www.piceamotiondrive.com/scaling-humanoid-production-sourcing-cost-effective-harmonic-drives-in-china.html",
+    "pass": 3
+   },
+   {
+    "quote": "Why Harmonic Gearboxs Are the Biggest Bottleneck in Humanoid Robot Scaling",
+    "url": "https://www.piceamotiondrive.com/harmonic-drive-applied-in-humanoid-robot-key-technology.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "産業用 ロボット用減速機 Market with 11.6% CAGR from 2026 ... 産業用 ロボット用減速機 Market with 11.6% CAGR from 2026 ... LinkedIn https://jp.linkedin.com > pulse > 産業用ロボット用減速機-...",
+    "url": "https://jp.linkedin.com/pulse/%E7%94%A3%E6%A5%AD%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%94%A8%E6%B8%9B%E9%80%9F%E6%A9%9F-market-116-cagr-from-2026-2033-%E3%81%AE-revenue-insights-1vc1e",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ハーモニック・ドライブ・システムズ | LinkedIn 私たちは産業用ロボットや半導体製造装置に組み込まれる波動歯車装置「ハーモニックドライブ®」、精密遊星減速装置「アキュドライブ®」「 ...",
+    "url": "https://www.linkedin.com/company/株式会社ハーモニック・ドライブ・システムズ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Matex Co.,Ltd. - Gear Reducers Cost a Pretty Penny ... - Facebook Jan 7, 2026 · 本展ではユニット型遊星歯車減速機・サーボモーター 用遊星減速機、 波動歯車減速機・RV減速機・ロボット向け一体型関節 モジュール、 電動アクチュエーターを展示いたします。 ①ユニット型遊星歯車減速機 装置への組み込みを前提としたユニット設計 ...",
+    "url": "https://www.facebook.com/MatexJapan/posts/gear-reducers-cost-a-pretty-pennyabout-time-for-a-paradigm-shiftmatex-planetary-/122235503252149457/",
+    "pass": 3
+   },
+   {
+    "quote": "住友重機械工業株式会社 - 【2022国際ロボット展 展示品のご紹介】 ②... Feb 24, 2022 · 垂直多関節ロボットなどの産業用ロボットに適しています。 精密制御用Eサイクロ減速機は、波動歯車装置とサイクロ減速機の噛み合い理論を融合させることで、コンパクトでありながら高トルク・高剛性を実現。 装置の小型化に貢献します。",
+    "url": "https://www.facebook.com/sumitomodrivejapan/photos/2022国際ロボット展-展示品のご紹介②精密制御用減速機サーボモータ用減速機今回は一気に３機種をご紹介します精密制御用サイクロ減速機は独創的な円弧系トロコイド系/322388773244579/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E6%B3%A2%E5%8B%95%E6%AD%AF%E8%BB%8A%E6%B8%9B%E9%80%9F%E6%A9%9F%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E6%A5%AD%E7%95%8C%E8%A6%8B%E9%80%9A%E3%81%972026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE141%E3%81%AEcagr%E3%81%AB%E3%82%88%E3%82%8B%E8%A9%B3-7520727110307483649-jq4ye",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/rv-reducer-market-103381",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rv-support.nabtesco.com/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rv-support.nabtesco.com/feature",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/speed-reducers-market-100575",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.linear-rotary.com/info/what-does-rv-reducer-mean-what-are-the-perfor-100530185.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://blog.robotics.tokyo/archives/321",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://geopinning.space/industry/japan-precision-reducer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precision-reducer-guide.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evsint.com/ja/industrial-robot-reducers-harmonic-cycloidal-rv-comparison-2026/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/10395/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/%E6%B8%9B%E9%80%9F%E6%A9%9F/4736338",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/carney0520/n/nd276b649e213",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precision-reducer-guide.com/market/domestic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9391/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.jidemachinery.com/info/precision-reducers-monopolized-by-japan-17198213186462720.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/industrial-robot-speed-reducer-market-108409",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precision-reducer-guide.com/market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/4725764",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rv-support.nabtesco.com/action",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ts-e.jp/diary/196216",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.postation.jp/robot/technology/reducer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precision-reducer-guide.com/usage/industrial-robot/small.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.honpine.com/products/RV-Reducer/Standard-RV-Reducer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minatavn.com/ja/blog/equipment-selection-04-harmonic-planetary-cycloidal-gearbox-ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.congruencemarketinsights.com/report/harmonic-reducer-for-humanoid-robot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/6226154/robot-reducer-market-report?srsltid=AYCX9vJ0DGJfdiHydGHXe07VUyFJKv_0fb5L3yO3aUHRiF2VbV8AoWdg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreportsworld.com/market-reports/harmonic-reducer-market-14722968",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/market-research-growth-analysis_robotjointharmonicreducer-harmonicreducer-activity-7509486194175578114-w61W",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/harmonic-drive-market-41032",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evsint.com/industrial-robot-reducers-harmonic-cycloidal-rv-comparison-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.piceamotiondrive.com/scaling-humanoid-production-sourcing-cost-effective-harmonic-drives-in-china.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotics.stackexchange.com/questions/10680/harmonic-drives-in-hobby-projects",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mdpi.com/2075-1702/12/11/776",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nextfinancial.substack.com/p/the-joint-problem-who-owns-the-most",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.piceamotiondrive.com/harmonic-drive-applied-in-humanoid-robot-key-technology.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/market-research-growth-analysis_harmonicreducer-humanoidrobot-robotics-activity-7508125879450099714-kxqL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://humanoid.guide/leaderdrive-harmonic-reducers-surge-as-humanoid-demand-lifts-shares/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E7%94%A3%E6%A5%AD%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%94%A8%E6%B8%9B%E9%80%9F%E6%A9%9F-market-116-cagr-from-2026-2033-%E3%81%AE-revenue-insights-1vc1e",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/株式会社ハーモニック・ドライブ・システムズ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MatexJapan/posts/gear-reducers-cost-a-pretty-pennyabout-time-for-a-paradigm-shiftmatex-planetary-/122235503252149457/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sumitomodrivejapan/photos/2022国際ロボット展-展示品のご紹介②精密制御用減速機サーボモータ用減速機今回は一気に３機種をご紹介します精密制御用サイクロ減速機は独創的な円弧系トロコイド系/322388773244579/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロボット用減速機（波動歯車・RV・遊星） 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "https://jp.linkedin.com/pulse/%E6%B3%A2%E5%8B%95%E6%AD%AF%E8%BB%8A%E6%B8%9B%E9%80%9F%E6%A9%9F%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E6%A5%AD%E7%95%8C%E8%A6%8B%E9%80%9A%E3%81%972026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE141%E3%81%AEcagr%E3%81%AB%E3%82%88%E3%82%8B%E8%A9%B3-7520727110307483649-jq4ye",
+    "https://www.yano.co.jp/press-release/show/press_id/2230?srsltid=AYCX9vKpf11oXYF8ZzD233NMg8c_eohhPDpdFC8LDsCMG2kkePhbzi2J",
+    "https://www.businessresearchinsights.com/jp/market-reports/rv-reducer-market-103381",
+    "https://rv-support.nabtesco.com/history",
+    "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "https://tomoruba.eiicon.net/blogs/77862",
+    "https://aait.co.jp/archives/40538",
+    "https://ja.linear-rotary.com/info/what-does-rv-reducer-mean-what-are-the-perfor-100530185.html",
+    "https://www.businessresearchinsights.com/jp/market-reports/industrial-robot-speed-reducer-market-108409"
+   ]
+  },
+  {
+   "query": "ロボット用減速機（波動歯車・RV・遊星） 需要 見通し 2030",
+   "results": [
+    "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "https://rv-support.nabtesco.com/feature",
+    "https://www.youtube.com/watch?v=2EDO7J5bhdg",
+    "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/speed-reducers-market-100575",
+    "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "https://ja.linear-rotary.com/info/what-does-rv-reducer-mean-what-are-the-perfor-100530185.html",
+    "http://blog.robotics.tokyo/archives/321",
+    "https://geopinning.space/industry/japan-precision-reducer/",
+    "https://www.postation.jp/robot/technology/reducer"
+   ]
+  },
+  {
+   "query": "ロボット用減速機（波動歯車・RV・遊星） 部品構成 コスト",
+   "results": [
+    "https://rv-support.nabtesco.com/feature",
+    "https://www.precision-reducer-guide.com/",
+    "https://www.evsint.com/ja/industrial-robot-reducers-harmonic-cycloidal-rv-comparison-2026/",
+    "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "https://metoree.com/categories/10395/",
+    "https://baike.baidu.com/ja/item/%E6%B8%9B%E9%80%9F%E6%A9%9F/4736338",
+    "https://note.com/carney0520/n/nd276b649e213",
+    "https://www.hds.co.jp/products/list/reducer/",
+    "https://www.youtube.com/watch?v=P4wgKymKqs8",
+    "https://www.postation.jp/robot/technology/reducer"
+   ]
+  },
+  {
+   "query": "ロボット用減速機（波動歯車・RV・遊星） シェア 主要企業",
+   "results": [
+    "https://www.precision-reducer-guide.com/market/domestic.html",
+    "https://rv-support.nabtesco.com/history",
+    "https://metoree.com/categories/9391/",
+    "https://baike.baidu.com/ja/item/%E6%B8%9B%E9%80%9F%E6%A9%9F/4736338",
+    "https://ja.jidemachinery.com/info/precision-reducers-monopolized-by-japan-17198213186462720.html",
+    "https://www.youtube.com/watch?v=P4wgKymKqs8",
+    "https://straitsresearch.com/jp/report/rv-speed-reducer-market",
+    "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "http://blog.robotics.tokyo/archives/321",
+    "https://www.businessresearchinsights.com/jp/market-reports/industrial-robot-speed-reducer-market-108409"
+   ]
+  },
+  {
+   "query": "ロボット用減速機（波動歯車・RV・遊星） 日本企業",
+   "results": [
+    "https://www.precision-reducer-guide.com/market/domestic.html",
+    "https://metoree.com/categories/10395/",
+    "https://rv-support.nabtesco.com/action",
+    "https://www.evsint.com/ja/industrial-robot-reducers-harmonic-cycloidal-rv-comparison-2026/",
+    "https://note.com/carney0520/n/nd276b649e213",
+    "https://www.youtube.com/watch?v=2EDO7J5bhdg",
+    "https://ja.jidemachinery.com/info/precision-reducers-monopolized-by-japan-17198213186462720.html",
+    "https://baike.baidu.com/ja/item/%E6%B8%9B%E9%80%9F%E6%A9%9F/4736338",
+    "https://ts-e.jp/diary/196216",
+    "https://www.postation.jp/robot/technology/reducer"
+   ]
+  },
+  {
+   "query": "ロボット用減速機（波動歯車・RV・遊星） 不足 OR 中国依存",
+   "results": [
+    "https://rv-support.nabtesco.com/feature",
+    "https://www.youtube.com/watch?v=2EDO7J5bhdg",
+    "https://note.com/carney0520/n/nd276b649e213",
+    "https://www.evsint.com/ja/industrial-robot-reducers-harmonic-cycloidal-rv-comparison-2026/",
+    "https://www.precision-reducer-guide.com/market/robot-reducer.html",
+    "https://metoree.com/categories/10395/",
+    "http://blog.robotics.tokyo/archives/321",
+    "https://ts-e.jp/diary/196216",
+    "https://ja.linear-rotary.com/info/what-does-rv-reducer-mean-what-are-the-perfor-100530185.html"
+   ]
+  },
+  {
+   "query": "robot speed reducer harmonic drive market market size CAGR 2030",
+   "results": [
+    "https://www.congruencemarketinsights.com/report/harmonic-reducer-for-humanoid-robot-market",
+    "https://www.researchandmarkets.com/reports/6226154/robot-reducer-market-report?srsltid=AYCX9vJ0DGJfdiHydGHXe07VUyFJKv_0fb5L3yO3aUHRiF2VbV8AoWdg",
+    "https://www.marketreportsworld.com/market-reports/harmonic-reducer-market-14722968",
+    "https://www.snsinsider.com/reports/robot-joint-harmonic-drive-grease-market-9698",
+    "https://www.linkedin.com/posts/market-research-growth-analysis_robotjointharmonicreducer-harmonicreducer-activity-7509486194175578114-w61W",
+    "https://www.marketresearchfuture.com/reports/harmonic-drive-market-41032",
+    "https://www.360iresearch.com/library/intelligence/robot-joint-precision-harmonic-drive-reducers",
+    "https://www.strategicmarketresearch.com/market-report/rv-reducer-market",
+    "https://finance.yahoo.com/news/harmonic-drive-market-driving-towards-140000060.html",
+    "https://www.thebusinessresearchcompany.com/report/robot-reducer-global-market-report"
+   ]
+  },
+  {
+   "query": "robot speed reducer harmonic drive market cost breakdown bill of materials",
+   "results": [
+    "https://www.evsint.com/industrial-robot-reducers-harmonic-cycloidal-rv-comparison-2026/",
+    "https://www.piceamotiondrive.com/scaling-humanoid-production-sourcing-cost-effective-harmonic-drives-in-china.html",
+    "https://humanoid.guide/humanoid-joint-actuator-cost/",
+    "https://www.marketreportsworld.com/market-reports/harmonic-reducer-market-14722968",
+    "https://robotics.stackexchange.com/questions/10680/harmonic-drives-in-hobby-projects",
+    "https://www.mdpi.com/2075-1702/12/11/776",
+    "https://nextfinancial.substack.com/p/the-joint-problem-who-owns-the-most",
+    "https://www.reddit.com/r/robotics/comments/1edmb0x/how_much_better_will_harmonic_drives_get_as_we/",
+    "https://www.fortunebusinessinsights.com/harmonic-drive-market-113255",
+    "https://www.laifualdrive.com/blog/humanoid-robot-cost-harmonic-reducer/"
+   ]
+  },
+  {
+   "query": "robot speed reducer harmonic drive market demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://www.piceamotiondrive.com/harmonic-drive-applied-in-humanoid-robot-key-technology.html",
+    "https://www.linkedin.com/posts/market-research-growth-analysis_harmonicreducer-humanoidrobot-robotics-activity-7508125879450099714-kxqL",
+    "https://www.congruencemarketinsights.com/report/harmonic-reducer-for-humanoid-robot-market",
+    "https://nextfinancial.substack.com/p/the-joint-problem-who-owns-the-most",
+    "https://humanoid.guide/leaderdrive-harmonic-reducers-surge-as-humanoid-demand-lifts-shares/",
+    "https://www.fortunebusinessinsights.com/harmonic-drive-market-113255",
+    "https://interactanalysis.com/insight/humanoid-robots-growth-market-motion-controls/",
+    "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "https://www.astuteanalytica.com/industry-report/humanoid-robot-component-market",
+    "https://www.gminsights.com/industry-analysis/humanoid-robot-market"
+   ]
+  },
+  {
+   "query": "site:note.com ロボット用減速機（波動歯車・RV・遊星）",
+   "results": [
+    "https://note.com/easterngear/n/nf9cd9ac4d4b2",
+    "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "https://note.com/carney0520/n/nd276b649e213",
+    "https://note.com/easterngear/n/n0a185b88057a",
+    "https://note.com/lucid_lotus6287/n/n96b6e5f421ab",
+    "https://note.com/easterngear/n/nee4dc5398282",
+    "https://note.com/kenjiishida/n/n4c4feb27674e",
+    "https://note.com/keity717/n/n0f3edd853ed2",
+    "https://note.com/gijutsu_lab/n/n29fa6a9a14be",
+    "https://note.com/observatory393/n/n487abd335d38"
+   ]
+  },
+  {
+   "query": "site:x.com ロボット用減速機（波動歯車・RV・遊星）",
+   "results": [
+    "https://x.com/KagawaTomo/article/2075709599702016011",
+    "https://x.com/KagawaTomo/status/2040227984238678436",
+    "https://x.com/shinichi_nino/status/2004579061021188510",
+    "https://x.com/waichan_invest/status/2086333613843566843",
+    "https://x.com/FABYMETAL4/status/2072531611724517826",
+    "https://x.com/nori94yakiyaki/status/2055063056380768710",
+    "https://x.com/i/status/2073387749571252592",
+    "https://x.com/rc_design_jp/status/2116838359394124232"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ロボット用減速機（波動歯車・RV・遊星）",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E7%94%A3%E6%A5%AD%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%94%A8%E6%B8%9B%E9%80%9F%E6%A9%9F-market-116-cagr-from-2026-2033-%E3%81%AE-revenue-insights-1vc1e",
+    "https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%AA%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB-2026-2033cagr-122%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E5%8F%8E%E7%9B%8A%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC-3pffe",
+    "https://www.linkedin.com/company/株式会社ハーモニック・ドライブ・システムズ",
+    "https://sg.linkedin.com/in/bassel-haddad-565b955",
+    "https://jp.linkedin.com/posts/邦親-久保田-bb6644218_半導体新次元-フィジカルaiの勝者は誰か-フィジカルaiで脚光小型減速機世界王者-activity-7462646268528566272-4W7L",
+    "https://jp.linkedin.com/pulse/産業用ロボット用rv減速機市場の主要10社まとめ-tsunami-on-wheels-awkfe",
+    "https://cn.linkedin.com/in/harmonicgear/ja",
+    "https://www.linkedin.com/posts/masakazugoto_recurdyn-kisssoft-recurdyn-activity-7463084954457919488--kza",
+    "https://jp.linkedin.com/pulse/2026年の精密遊星減速機markrtの市場規模と成長は144のcagrです-haptic-hub-pdhpe"
+   ]
+  },
+  {
+   "query": "site:facebook.com ロボット用減速機（波動歯車・RV・遊星）",
+   "results": [
+    "https://www.facebook.com/MatexJapan/",
+    "https://www.facebook.com/MatexJapan/posts/gear-reducers-cost-a-pretty-pennyabout-time-for-a-paradigm-shiftmatex-planetary-/122235503252149457/",
+    "https://www.facebook.com/recordchina/posts/リーダードライブが波動歯車減速機モデルy発表中国の産業用ロボット主要部品で国産化がさらに進行か/2410250802332194/",
+    "https://www.facebook.com/sumitomodrivejapan/photos/2022国際ロボット展-展示品のご紹介②精密制御用減速機サーボモータ用減速機今回は一気に３機種をご紹介します精密制御用サイクロ減速機は独創的な円弧系トロコイド系/322388773244579/",
+    "https://www.facebook.com/sumitomodrivejapan/posts/322388793244577/",
+    "https://www.facebook.com/RandDsc/posts/減速機の種類とその原理および活用する際のポイントlive配信httpswwwrdsccojpseminar240768遊星歯車機構波動歯車機構サイクロイド減速機/828123039331029/",
+    "https://www.facebook.com/Nidec.JP/videos/精密制御用減速機flexwavecoronex日本電産シンポ/2884838918415307/",
+    "https://www.facebook.com/Nabtesco.corp/videos/406636120637838/"
+   ]
+  },
+  {
+   "query": "ロボット用減速機（波動歯車・RV・遊星） note 社長",
+   "results": [
+    "https://note.com/kagawatomo/n/n5ef8c54539ff",
+    "https://note.com/easterngear/n/nf9cd9ac4d4b2",
+    "https://rv-support.nabtesco.com/feature",
+    "https://note.com/carney0520/n/nd276b649e213",
+    "https://www.youtube.com/watch?v=2EDO7J5bhdg",
+    "https://www.evsint.com/ja/industrial-robot-reducers-harmonic-cycloidal-rv-comparison-2026/",
+    "https://www.precision-reducer-guide.com/",
+    "https://note.com/easterngear/n/n0a185b88057a",
+    "https://ts-e.jp/diary/196216",
+    "https://www.postation.jp/robot/technology/reducer"
+   ]
+  },
+  {
+   "query": "ロボット用減速機（波動歯車・RV・遊星） X 投稿",
+   "results": [
+    "https://rv-support.nabtesco.com/feature",
+    "https://www.youtube.com/watch?v=2EDO7J5bhdg",
+    "https://note.com/easterngear/n/nf9cd9ac4d4b2",
+    "https://troy-technical.jp/drone-robotics-term-speed-reducers-gears/",
+    "http://blog.robotics.tokyo/archives/321",
+    "https://metoree.com/categories/10395/",
+    "https://www.precision-reducer-guide.com/",
+    "https://ja.linear-rotary.com/info/what-does-rv-reducer-mean-what-are-the-perfor-100530185.html",
+    "https://x.com/Nabtesco_corp/status/1275247202068131840",
+    "https://www.postation.jp/robot/technology/reducer"
+   ]
+  },
+  {
+   "query": "robot speed reducer harmonic drive market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/harmonic-drive-speed-reducers-market-growth-trends-global-jwnqf",
+    "https://www.linkedin.com/pulse/how-automation-transforming-industrial-robot-speed-bye6f",
+    "https://www.linkedin.com/pulse/leading-robot-harmonic-drive-reduction-gear-companies-top-z6use",
+    "https://www.linkedin.com/pulse/industrial-robot-speed-reducer-market-overview-4h2ne",
+    "https://www.linkedin.com/pulse/key-technology-trends-driving-growth-zw5kf",
+    "https://www.linkedin.com/pulse/market-restraints-challenges-facing-industrial-n7aff",
+    "https://www.linkedin.com/pulse/top-10-harmonic-drive-reduction-gear-companies-scent-scale-oryge",
+    "https://www.linkedin.com/pulse/how-advances-gear-technology-shaping-speed-reducer-robotics-6lanf",
+    "https://www.linkedin.com/pulse/recent-speed-reducer-industrial-robots-market-analysis-shows-p5qhc",
+    "https://www.linkedin.com/pulse/robot-joint-precision-harmonic-drive-reducers-market-hzfjf"
+   ]
+  }
+ ],
+ "missing": {}
+}

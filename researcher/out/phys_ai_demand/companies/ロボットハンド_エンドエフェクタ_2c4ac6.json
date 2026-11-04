@@ -1,0 +1,2173 @@
+{
+ "name": "ロボットハンド・エンドエフェクタ",
+ "en": "robot end effector gripper market",
+ "aliases": [
+  "エンドエフェクタ 市場",
+  "ロボットハンド 市場",
+  "グリッパー 市場"
+ ],
+ "context": "工場無人化",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:30:49.741442+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界のロボットエンドエフェクタ市場規模は、2025年には54億6000万米ドルと評価され、2026年の62億米ドルから2034年には171億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は13.55%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、ロボットエンドエフェクタ市場においてグリッパーが最大のシェアを占め、その割合は48.7%、推定市場規模は26億6000万ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "加工ツールは市場の23.4%を占め、その市場規模は約12億8000万ドル、吸盤は17.6%を占め、その市場規模は約9億6000万ドルでした",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "清掃ロボット市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用ロボット市場規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧縮空気分配システム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ市場 | 業界シェア 市場規模 成長性 2025 - 2030年",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ市場規模は2025年に55億4,000万米ドルと推定され、予測期間（2025～2030年）のCAGRは13.8%で、2030年には105億8,000万米ドルに達すると予測されます",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "空圧式ロボットエンドエフェクタの市場規模、シェア、および成長分析：製品タイプ別、用途別、エンドユーザー産業別、地域別―2026年～2033年の業界予測",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ市場規模、シェア、成長分析：エンドエフェクタタイプ別、技術別、ロボットタイプ別、最終用途産業別、地域別- 業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ市場：製品タイプ別、技術別、可搬重量別、ロボットタイプ別、エンドユーザー別、国別、地域別 - 世界の業界分析、市場規模、市場シェア、予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット用コンプライアンスエンドエフェクタの世界市場（2026年～2032年）、市場規模（円筒形、角形）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット用コンプライアンスエンドエフェクタの世界市場（2026年～2032年）、市場規模（円筒形、角形）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボット用力追従型エンドエフェクタ市場規模は、2025年の8億4,200万米ドルから2032年には14億800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.8%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの世界市場規模を、地理的地域別および国/地域別の年間売上高と収益で分析しています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までの地域別、国別（アメリカ、アジア太平洋、ヨーロッパ、中東およびアフリカ）、タイプ別、およびアプリケーション別の市場規模と年間収益の予測が提供されています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "牽引式方位スラスタの世界市場（2026年～2032年）、市場規模（Lドライブ、Zドライブ、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "PERCフロント用銀ペーストの世界市場（2026年～2032年）、市場規模（フィンガー用銀ペースト、バスバー用銀ペースト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "油井ポンプの世界市場（2026年～2032年）、市場規模（試験用ポンプ、酸処理用ポンプ、セメント注入用ポンプ）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "低温収縮試験機の世界市場（2026年～2032年）、市場規模（低温、広温度範囲）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用防氷システムの世界市場（2026年～2032年）、市場規模（機械式除氷システム、電気パルス式防氷システム、液体防氷システム、熱風式防氷システム、電気加熱式防氷システム）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "産業廃棄物焼却炉の世界市場（2026年～2032年）、市場規模（ロータリーキルン、流動層、火格子、熱分解）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、グローバル器用な多指ロボットハンド市場は2025年から2031年の間に年平均成長率（CAGR）67.5%という驚異的なスピードで拡大し、2031年には市場規模が60.19億米ドルに達する見込みである",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：器用な多指ロボットハンドの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：器用な多指ロボットハンドの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：アジア太平洋地域における器用な多指ロボットハンド市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "第12章：器用な多指ロボットハンドの世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット市場規模・成長分析レポート 2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボット市場規模は 2025 年に 531 億米ドルに達し、2026 年の 597 億米ドルから 2035 年までに 2,575 億米ドルへ拡大すると推定されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルハンドリングには、工場への積み込み、倉庫内搬送、ピッキング、仕分け、パレタイジングが含まれ、2025年には市場規模が 109億9,300万米ドルに達し、追跡対象の用途として最大となった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアの市場規模は、2025年の408億150万米ドルから2035年には1,920億2,090万米ドルに拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "チャート：コンポーネント別の世界のロボット市場規模、2022〜2035年（10億米ドル単位）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "固定型ロボットは最大の移動方式カテゴリーであり、市場規模は2025年の381億2,510万米ドルから2035年には1,688億2,550万米ドルに拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボットの市場規模は、2025年の13億6,200万米ドルから2035年には109億6,300万米ドルに拡大すると予測されており、年平均成長率（CAGR）は23.6%となります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルハンドリングは最大の用途であり、市場規模は 2025 年の 109 億 9,300 万米ドルから 2035 年には 463 億 7,210 万米ドルに拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域市場の大半を米国が占め、市場規模は 50億2,120万米ドルから 193億9,550万米ドルへ拡大する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "チャート：米国ロボット市場規模、2022〜2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル協働ロボット市場成長、2030年までに401.6億ドルに到達予定、上昇トレンド、需要、収益、主要メーカー、課題、ビジネスチャンス、2022- 2030 年予測",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "協働ロボットの市場規模は、2021年には13億米ドルだったが、2030年には401億6000万米ドルに達し、予測期間2022-2030年には年平均成長率（CAGR）46.4％で成長する",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル協働ロボット市場成長、2030年までに401.6億ドルに到達予定、上昇トレンド、需要、収益、主要メーカー、課題、ビジネスチャンス、2022- 2030 年予測 | Panorama Data Insights Ltd.",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用防氷システムの世界市場（2026年～2032年）、市場規模（機械式除氷システム、電気パルス式防氷システム、液体防氷システム、熱風式防氷システム、電気加熱式防氷システム）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "低温収縮試験機の世界市場（2026年～2032年）、市場規模（低温、広温度範囲）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "油井ポンプの世界市場（2026年～2032年）、市場規模（試験用ポンプ、酸処理用ポンプ、セメント注入用ポンプ）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "PERCフロント用銀ペーストの世界市場（2026年～2032年）、市場規模（フィンガー用銀ペースト、バスバー用銀ペースト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "牽引式方位スラスタの世界市場（2026年～2032年）、市場規模（Lドライブ、Zドライブ、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボット市場規模、シェア、成長率レポート（2034年）",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の産業用ロボット市場規模、シェア、成長分析レポート - 2034年までの予測",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の産業用ロボット市場規模は、2024年には約",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益面では、世界の産業用ロボット市場規模は2024年に約237億1000万米ドルと評価され、2034年までに856億3000万米ドルに達すると予測されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "ある調査によると、世界の産業用ロボット市場規模は2024年には約237億1000万米ドルに達し、2034年までに856億3000万米ドルに達すると予測されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットハンド調査レポート：市場規模、産業分析、最新動向、予測2026-2032｜QYResearch",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットハンド調査レポート：市場規模、産業分析、最新動向、予測2026-2032",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "最新の市場予測によると、2025年におけるロボットハンドの世界市場規模は6,340.00百万ドルと評価されています",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "ロボットエンドエフェクタ市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボットエンドエフェクタ市場規模は、2025年には54億6000万米ドルと評価され、2026年の62億米ドルから2034年には171億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は13.55%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際ロボット連盟の報告によると、2024年には世界中で54万2000台の産業用ロボットが設置されており、産業オートメーションの継続的な拡大を示しています",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "Eコマース分野は年平均成長率（CAGR）16.4%で最も速い成長を記録すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "eコマース分野は、2026年から2034年にかけて年平均成長率（CAGR）16.4%で成長し、最も急速に成長するエンドユーザーカテゴリーになると予測されています",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ市場規模は2025年に55億4,000万米ドルと推定され、予測期間（2025～2030年）のCAGRは13.8%で、2030年には105億8,000万米ドルに達すると予測されます",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "IFRによると、2022年、中国における産業用ロボットの設置台数は過去最高の29万258台に達し、前年比5％増を記録しました",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボット用力追従型エンドエフェクタ市場規模は、2025年の8億4,200万米ドルから2032年には14億800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.8%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "米国のロボット用フォースコンプライアンスエンドエフェクタ市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "中国のロボット用フォースコンプライアンスエンドエフェクタ市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のロボット用フォースコンプライアンスエンドエフェクタ市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "AI×ロボティクスの最前線：器用な多指ロボットハンド市場が67.5%CAGRで急拡大、ヒューマノイド需要が牽引 | NEWSCAST",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "AI×ロボティクスの最前線：器用な多指ロボットハンド市場が67.5%CAGRで急拡大、ヒューマノイド需要が牽引",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、グローバル器用な多指ロボットハンド市場は2025年から2031年の間に年平均成長率（CAGR）67.5%という驚異的なスピードで拡大し、2031年には市場規模が60.19億米ドルに達する見込みである",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：器用な多指ロボットハンドの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：器用な多指ロボットハンドの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボット市場規模は 2025 年に 531 億米ドルに達し、2026 年の 597 億米ドルから 2035 年までに 2,575 億米ドルへ拡大すると推定されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年から 2035 年にかけての年平均成長率（CAGR）は 17.6% と見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "業務用サービスロボットは工場外の対象市場を拡大しており、2023 年の販売台数は 30% 増加し、物流および医療用途が成長を牽引した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、市場の 17.6% の成長軌道が、産業オートメーションにおける単純な買い替えサイクルではなく、導入基盤の拡大を反映していると推定する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年の導入構成では、電子機器産業が自動車産業を上回り、産業用ロボットの最大の顧客となった一方、サービスロボット需要は自動化を物流およびヘルスケアへと拡大している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Intuitive Surgical は、2024年に da Vinci による手術件数が約 268万件となり、前年比 17%増加したこと、また年末時点の稼働台数が 9,902システムに達したことを報告した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアの市場規模は、2025年の408億150万米ドルから2035年には1,920億2,090万米ドルに拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアは、ハードウェアを上回る年平均成長率（CAGR）19.1%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリング・設置、保守・サポート、研修・教育を含むサービスは、年平均成長率（CAGR）18.3%で拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "協働ロボットの市場規模は、2021年には13億米ドルだったが、2030年には401億6000万米ドルに達し、予測期間2022-2030年には年平均成長率（CAGR）46.4％で成長する",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "世界の滅菌サービス市場は2031年に5,290.1百万米ドルへ拡大、CAGR5.1%で持続成長する医療インフラの中核分野",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "世界のイムノアッセイ市場は2031年に548億5000万米ドルへ拡大、CAGR5.4％で持続成長を遂げる高度診断技術の中核分野",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "世界のパッケージの電源供給とチップの電源供給市場は2031年に24.8億米ドルへ拡大、CAGR 5%で成長予測",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "世界のモジュラー式建設市場は2031年に2,233億米ドルへ拡大、CAGR6.1%で成長予測",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "世界のPCB設計ソフトウェア市場：2032年に113億米ドル規模へ、CAGR14.8％で加速する次世代エレクトロニクス設計革命",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "世界の化学センサー市場は2031年に457億米ドル規模へ、CAGR 8.52％で拡大する次世代センシング技術の成長展望",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "また、2022-2030年の予測期間中に15.2%のCAGRで拡大すると予測されます",
+    "url": "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボット市場規模、シェア、成長率レポート（2034年）",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "でしたが、2025年から2034年までの年平均成長率",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストによる分析によると、世界の産業用ロボット市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約13.7%で成長すると推定されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "高い設置コストは、2023年から2030年にかけての世界的産業拡大を阻害する可能性がある",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2032年の予測期間において、年平均成長率（CAGR）18.5%という驚異的なスピードで急成長を遂げ、2032年までに20,712.00百万ドル規模に達すると予測されています",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、ヒューマノイドロボット（Humanoid Robots）や医療・ヘルスケア（Medical and Healthcare）、物流・倉庫（Logistics and Warehousing）の拡大に伴い、人間の手に近い23自由度以上（23 DOF and Above）の超多自由度ロボットハンドへのシフトが加速しています",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "地域別市場（北米、アジア太平洋、欧州、ラテンアメリカ、中東・アフリカ）のデータにおいて、2025年時点の具体的な数値やCAGRは（※原文の未確定データに準拠し）流動的であるものの、市場の構造は明確に変化しています",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "LPI世界器用な多指ロボットハンド調査レポートによると、世界器用な多指ロボットハンド市場規模は563.45百万ドルであり、将来的には6599.86百万ドルに達すると予測され、CAGRは50.70%です",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "高性能製品ではミリメートル級の位置精度、数kgから20 kg級の負荷能力、力覚、関節位置、トルク、温度、触覚、視覚などの多モーダルセンシングが統合され、競争軸は単純な把持能力から高精度操作、耐久性、触覚データ、保守性、SDKまで拡大している",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には販売数量13.20万台、売上高5.63億米ドル、平均価格4270米ドル/台へ拡大すると予測される",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "2032年には販売数量176.07万台、売上高65.99億米ドル、平均価格約3750米ドル/台となり、2026～2032年の販売数量CAGRは53.99%、売上高CAGRは50.70%となる",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "内蔵型の2026～2032年数量CAGRは55.71%で市場平均を上回り、ヒューマノイドへの直接統合が主要成長源となる",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "物流用途は数量24.60%で、混載SKUピッキング、荷物仕分け、柔軟供給工程を中心に拡大している",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用途は2025年数量10.64%にとどまるものの、2026～2032年の数量CAGRは62.99%、売上CAGRは59.71%となり、家庭用ヒューマノイドやサービスロボットの普及が実現した場合、最も高い成長弾力性を持つ用途となる",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "2032年にはアジア太平洋が102.15万台、北米が35.56万台、欧州が31.07万台へ拡大する",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、器用な多指ロボットハンドの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、器用な多指ロボットハンドの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ市場に関する当社の調査レポートによると、市場は2025－2037年の予測期間中に約8.5%のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に日本から輸出されるロボットエンドエフェクタの価値は約450百万米ドルで、自動化の新しい国際市場により、年間9%の増分成長率があります",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボットエンドエフェクタ市場規模は、2025―2037年間に 8.5% の CAGR で成長し、2037年までに 118億米ドルを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間（2026年～2033年）におけるCAGRは10.7％と予測されています",
+    "url": "https://www.gii.co.jp/report/sky1920005-robot-end-effector-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは10.7%です",
+    "url": "https://www.gii.co.jp/report/sky1920005-robot-end-effector-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボットエンドエフェクタ市場規模：エンドエフェクタタイプ別& CAGR（2026-2033）",
+    "url": "https://www.gii.co.jp/report/sky1920005-robot-end-effector-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボットエンドエフェクタ市場規模：技術別& CAGR（2026-2033）",
+    "url": "https://www.gii.co.jp/report/sky1920005-robot-end-effector-market-size-share-growth.html",
+    "pass": 3
+   }
+  ],
+  "需要量": [
+   {
+    "quote": "国際ロボット連盟の報告によると、2024年には世界中で54万2000台の産業用ロボットが設置されており、産業オートメーションの継続的な拡大を示しています",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "IFRによると、2018年には世界で約28万3,000台の産業用ロボットが出荷され、2021年には25万台に減少した9",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "設置台数が最も多いのはアジア/オーストラリアで、2020年だけで26万6,000台が設置されると推定されます",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年までに、アジア/オーストラリアにおける産業用ロボットの設置台数は37万台に達すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "国際ロボット連盟によると、稼働台数は過去最高の約100万台で、全産業における導入台数の約3分の1を占めています",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "IFRによると、2023年の世界の産業用ロボット出荷台数は約59万台で、2022年と比較してわずかな増加にとどまりました",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットの出荷台数は今後数年で大幅に増加し、2026年には約71万台になると予測されています",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "IFRによると、2022年、中国における産業用ロボットの設置台数は過去最高の29万258台に達し、前年比5％増を記録しました",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "FXP-60とFMP-60は、従来の130ミリ幅バージョンとは対照的に、わずか60ミリ幅で、狭いスペースでの使用や輪郭の乱れ、個々のビームのハンドリングに最適です",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾を含む）売上高と収益、タイプ別売上高、およびアプリケーション別売上高の詳細が示されています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "世界の産業用ロボット導入台数は 2024 年に 542,076 台に達し、稼働台数は 466 万台に増加した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "導入台数に占める電子機器産業の割合は 24%、自動車産業は 23% であり、ロボット需要がもはや自動車生産サイクルだけで決まるものではないことを示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "業務用サービスロボットは工場外の対象市場を拡大しており、2023 年の販売台数は 30% 増加し、物流および医療用途が成長を牽引した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "同分野では、2024年に 128,899台の産業用ロボットが設置され、全体の大部分を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "韓国の製造業従業員 10,000人当たりのロボット密度は 1,220台であったのに対し、ドイツと日本はそれぞれ 449台、446台であった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Intuitive Surgical は、2024年に da Vinci による手術件数が約 268万件となり、前年比 17%増加したこと、また年末時点の稼働台数が 9,902システムに達したことを報告した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の産業用ロボットの導入台数は、世界全体で4年連続して50万台を超え、工場自動化需要が引き続き大規模であることを裏付けました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際ロボット連盟（IFR）によると、2023年に販売された業務用サービスロボットは20万5,000台を超え、医療用サービスロボットの販売台数は36%増加しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の産業用ロボット導入台数は2024年に減少したものの、金属および機械分野での導入は増加しており、自動車投資サイクル以外にも需要が多様化していることを示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域は2024年の世界の産業用ロボット導入台数の 74%を占め、中国だけで世界全体の導入台数の 54%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月：ABBはロボティクス＆ディスクリート・オートメーション部門の受注が改善したと報告し、比較対象となる前年の水準が低かったことを背景に、ロボット受注が10%台前半の伸びを示したと発表しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月：Intuitive Surgicalは2024年の暫定業績を発表し、da Vinci手術件数約268万件、売上高83億5,000万米ドル、世界の累計導入台数9,902台などを明らかにしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "5-10 Kg",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "10Kg以上",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "IFR（国際ロボット連盟）によると、世界中のロボット設備（周辺機器とソフトウェアを除く）は、2018年に6％増加して422,271台になりました",
+    "url": "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "pass": 3
+   },
+   {
+    "quote": "IFRによると、2017年には約297,000台の産業用ロボットが国内で稼働していました",
+    "url": "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "pass": 3
+   },
+   {
+    "quote": "台東区上野３丁目２０－８ 小島ビルSBC 4 - 69",
+    "url": "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2020年後半には、ドバイ首長が「ドバイ・ロボティクス＆オートメーション・プロジェクト」を発表し、生産性向上を目的として、約20万台のロボットを様々な物流・産業分野に提供することになりました",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "主流製品はおおむね5～20の能動自由度と6～24以上の総自由度を持ち、重量はヒューマノイド向けで0.4～1.5 kg程度に集約されつつある",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "高性能製品ではミリメートル級の位置精度、数kgから20 kg級の負荷能力、力覚、関節位置、トルク、温度、触覚、視覚などの多モーダルセンシングが統合され、競争軸は単純な把持能力から高精度操作、耐久性、触覚データ、保守性、SDKまで拡大している",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界販売数量は4.43万台、売上高は2.37億米ドル、平均出荷価格は約5360米ドル/台であった",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には販売数量13.20万台、売上高5.63億米ドル、平均価格4270米ドル/台へ拡大すると予測される",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "2032年には販売数量176.07万台、売上高65.99億米ドル、平均価格約3750米ドル/台となり、2026～2032年の販売数量CAGRは53.99%、売上高CAGRは50.70%となる",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の内蔵型販売数量は2.15万台で世界数量の48.50%を占め、売上高は1.41億米ドル、売上構成比は59.40%、平均価格は6560米ドル/台であった",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "外付型は数量33.27%、売上24.15%、平均価格3890米ドル/台で、既存ロボットアーム、研究設備、開発プラットフォームへの導入に適する",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "用途別では産業用途が最大市場となり、2025年に1.48万台、数量シェア33.34%、売上高1.01億米ドル、売上シェア42.60%を占めた",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "世界合計と整合する2025年口径では、アジア太平洋の消費数量は約2.49万台で56.28%、欧州は約8907台で20.10%、北米は8462台で19.10%、ラテンアメリカは2.30%、中東・アフリカは2.22%を占める",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "2032年にはアジア太平洋が102.15万台、北米が35.56万台、欧州が31.07万台へ拡大する",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "生産では中国が2025年に3.25万台、世界の約73.39%を占め、北米9.44%、欧州6.91%、日本2.30%、韓国2.09%となる",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "Demand is projected to expand at 9.4% CAGR from 2026 to 2036. Market value rises from USD 2,034.6 million in 2025 to USD 2,225.9 million in 2026 and USD 5,466 million by 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/robotic-grippers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Demand develops as factories automate repeated handling tasks, adapt cells to new products and replace end effectors in existing installations. Sensing research is expanding the ways those systems assess contact. Glasgow Caledonian University’s 2025 soft-fruit work examines tactile assessment of local deformation, while Bristol investigates suction-flow perception.",
+    "url": "https://www.futuremarketinsights.com/reports/robotic-grippers-market",
+    "pass": 3
+   },
+   {
+    "quote": "is also creating demand for lightweight, easy-to-program tools that can be changed quickly. This is supporting robot end-effector market growth as factories look for more flexible automation solutions. The International Federation of Robotics reported that 542,000 industrial robots were installed worldwide in 2024, showing the continued expansion of industrial automation.",
+    "url": "https://straitsresearch.com/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ismail Sutaria is Research Head at Straits Research with over 12 years of experience in market intelligence, industry research, and strategic advisory across chemicals, materials, packaging, industrial machinery, and energy markets. He specializes in market sizing and forecasting, competitive intelligence, value chain analysis, demand assessment, and commercial due diligence.",
+    "url": "https://straitsresearch.com/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.2.2 Growing Demand for Application Specific Grippers",
+    "url": "https://www.researchandmarkets.com/reports/5790837/robot-end-effector-market-report?srsltid=AYCX9vK1bj0iwPEmXGZBoV5CciAilzdAFgEbX_YoFhYNvoSzbKCtQXpq",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "ロボットエンドエフェクタ市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ市場の規模、シェア、トレンド分析レポート：デバイスタイプ別（グリッパー、加工ツール、吸盤、カスタムエンドエフェクタ）、エンドユーザー別（自動車、食品・飲料、Eコマース、製薬、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は2025年に34.6%の市場シェアを占め、ロボットエンドエフェクタ市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "エンドエフェクタは、センサー、自動把持制御、およびロボットがさまざまなワークピースに対応できるソフトウェアをメーカーが統合するにつれて、よりインテリジェント化が進んでいます",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、メーカーはエンドエフェクタの軽量化とコスト効率を維持しながら、適応性の高い把持機構、より高性能なセンサー、より高度な制御システムを開発する必要がある",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリッパーは2025年に48.7%のシェアで市場をリードする",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、ロボットエンドエフェクタ市場においてグリッパーが最大のシェアを占め、その割合は48.7%、推定市場規模は26億6000万ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界がエンドユーザーの中で最大のシェアを占め、全体の36.8%（約20億1000万ドル）を占めた",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車メーカーは、組み立て、溶接、ハンドリング、その他の反復作業にロボットエンドエフェクターを幅広く使用し続けており、食品、医薬品、物流業界も、生産性、一貫性、ハンドリング効率を向上させる自動化ソリューションを求める企業が増えていることから、その用途が拡大している",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボットエンドエフェクタ市場において、欧州は最大のシェアを占め、総収益の34.6%を占め、2025年には18億9,000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "スマートマニュファクチャリングへの投資増加は、ロボットエンドエフェクタのサプライヤーにとって新たなビジネスチャンスを生み出している",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットシステムや柔軟な生産技術への投資拡大は、エンドエフェクターメーカーにとって新たなビジネスチャンスを生み出している",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、ヨーロッパが市場シェア34.6%を占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ市場 | 業界シェア 市場規模 成長性 2025 - 2030年",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ：市場シェア分析、産業動向・統計、成長予測（2025～2030年）",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "Robot End Effector - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2025 - 2030)",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用エンドユーザーセグメントが大きな市場シェアを占める見込み",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "著名な自動車メーカーは、溶接、塗装、フライスビット、カッター、マシンテンディング、部品搬送などの重要な活動を支援するためにロボットを使用しています",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、自動車産業における自動化のニーズの高まりは、労働者の安全に対する自動車メーカーの考え方に影響を与え、研究市場の急増を招いています",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋が大きな市場シェアを占める見込み",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "同市場の主要企業には、ABB Group、DESTACO Europe GmbH、Zimmer Group、Schunk GmbH、J. Schmalz GmbHなどがあります",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "供給企業の交渉力",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "空圧式ロボットエンドエフェクタの市場規模、シェア、および成長分析：製品タイプ別、用途別、エンドユーザー産業別、地域別―2026年～2033年の業界予測",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ市場規模、シェア、成長分析：エンドエフェクタタイプ別、技術別、ロボットタイプ別、最終用途産業別、地域別- 業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ市場：製品タイプ別、技術別、可搬重量別、ロボットタイプ別、エンドユーザー別、国別、地域別 - 世界の業界分析、市場規模、市場シェア、予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ市場の規模、シェア、動向および予測：製品別、用途別、最終用途産業別、地域別、2026年～2034年",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット用エンドエフェクタ市場- 世界の業界規模、シェア、動向、機会、および予測（2020-2030年見通し）タイプ別、用途別、産業別、地域別、競合",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートは、世界のロボット用フォースコンプライアンスエンドエフェクタ市場の包括的な分析を提供し、製品セグメンテーション、企業動向、売上高、市場シェア、最新の開発動向、M&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、ロボット用フォースコンプライアンスエンドエフェクタ市場の包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "また、タイプ別（円筒形、角形）およびアプリケーション別（ロボットサンダー、その他のロボット）に市場をセグメント化し、2021年から2026年までの世界販売市場シェア、収益と市場シェア、販売価格の詳細な分析が含まれています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別年間売上高と販売市場シェア、年間収益と収益市場シェア、および販売価格が記載されています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーの生産地域分布、販売地域、提供する製品タイプ、市場集中率分析（CR3、CR5、CR10）、競争状況分析、新製品情報、潜在的参入企業、市場のM&A活動と戦略についても触れられています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "原材料とサプライヤー、製造コスト構造、製造プロセス、および産業チェーン構造の詳細が提供されています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、主要企業の詳細な分析が記述されています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "図. 世界の器用な多指ロボットハンド市場におけるトップ30企業のランキングと市場シェア（2024年の調査データに基づく；最新のデータは、当社の最新調査データに基づいている）",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "現在、この市場をリードする主要企業には、Shadow Robot、Linkerbot（Chius）、Tesla（Optimus）、Beijing Inspire Robots Technology、BrainCo、SCHUNK、Agile Robots、Clone Robotics、OYMotion Technologies、Qbroboticsなどがある",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "2024年時点で、これらトップ10社が全体の約55%の市場シェアを占めており、技術革新と商業展開の主役となっている",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "欧州企業は精密メカトロニクスを強みに産業用途を中心に展開し、中国企業はコスト競争力とAI統合設計で急速にシェアを拡大している",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：器用な多指ロボットハンドの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：器用な多指ロボットハンドの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：器用な多指ロボットハンドに使用される原材料、サプライヤー、生産コスト、製造プロセス、関連サプライチェーンを調査します",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "第13章：器用な多指ロボットハンド市場の主要メーカーについて、基本情報、製品仕様と用途、販売量、収益、価格設定、粗利益率、主力事業、最近の動向などの詳細情報を紹介します",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Medtronic は、2025年に 8.1%を超える市場シェアを占め、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、部品サプライヤー、ロボット相手先ブランド名製造企業、システムインテグレーター、最終ユーザーという 4 つの商流レイヤーで構成される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "部品の供給状況と性能がロボットプラットフォームのコストと能力を左右する一方、インテグレーターはこれらのプラットフォームを生産セル、倉庫業務、臨床環境へと展開する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの要件は、物理的な安全管理と文書化されたソフトウェアガバナンスを組み合わせられるサプライヤーに有利に働く",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、価値創出のペースは、サプライヤーがロボットの性能を高めるだけでなく、統合上の障壁を低減できるかどうかに左右される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、統合能力、アプリケーションソフトウェア、コンプライアンス支援を備えたサプライヤーは、ロボットのハードウェア仕様のみで競争するベンダーよりも、価値を獲得しやすい立場にある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "このため、ハードウェアにアプリケーションエンジニアリング、ソフトウェア、訓練、サポートを組み合わせて提供するサプライヤーやインテグレーターが有利になる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカー、物流ネットワーク、病院システムは、資本と運用ノウハウを有するため、複雑な導入にも対応できる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルロボット市場の用途別シェア、2025年（%）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "このことは、欧州のサプライヤーが現在の資本財サイクルの低迷から受ける影響の大きさと、将来のプロジェクトパイプラインの価値を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場は、製造業の基盤の厚みと国内サプライヤーの育成に支えられ、2035年には 909億7,810万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国では、導入規模と国内サプライヤーの育成が多国籍ベンダーに二重の課題をもたらしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "日本のロボットエンドエフェクタ市場に関する洞察",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場は、高度なロボット産業、確立された自動車・エレクトロニクス産業、そして自動化製造の高い普及率によって支えられています",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、その先進的なロボット産業と技術により、製造業におけるロボットとオートメーション活用の拠点とみなされています",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾を含む）売上高と収益、タイプ別売上高、およびアプリケーション別売上高の詳細が示されています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：ロボット用コンプライアンスエンドエフェクタの世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "一般財団法人JR東日本文化創造財団、MoN Takanawa: The Museum of Narratives、Barbican Centre",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットの新しいタイプのエンドエフェクターとして、器用な多指ロボットハンドはロボット研究における重要なテーマであり、近年国内外で研究の進捗が加速している",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、日本の「電子技術総合研究所」のオカダ（Okada）型の器用な多指ロボットハンド、アメリカのスタンフォード大学が開発に成功したスタンフォード／JPL 型の器用な多指ロボットハンド、マサチューセッツ工科大学とユタ大学が共同で開発したユタ／MIT 型の器用な多指ロボットハンドがある",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "日本語公式サイト：",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "インドでは、「ロボティクスに関する国家戦略案」が製造、医療、農業、国家安全保障を重点分野として特定しており、国内の能力開発と導入に向けた政策枠組みを形成している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "韓国の製造業従業員 10,000人当たりのロボット密度は 1,220台であったのに対し、ドイツと日本はそれぞれ 449台、446台であった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場は、製造業の基盤の厚みと国内サプライヤーの育成に支えられ、2035年には 909億7,810万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は引き続きロボット技術の主要な生産・輸出拠点であり、Yaskawaの2024年度のロボット関連売上高は 2,374億円に上った",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国では、導入規模と国内サプライヤーの育成が多国籍ベンダーに二重の課題をもたらしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fanucのロボット部門は、2024年度に 3,296億円の売上高を記録し、日本の産業用ロボットサプライヤーが現在も大きな規模を有していることを示した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は、中国やインドなどの国々の急速な工業化に加え、韓国や日本の自動化の進展によって大きく牽引されています",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "https://japaninsights.jp/",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "一般財団法人JR東日本文化創造財団、MoN Takanawa: The Museum of Narratives、Barbican Centre",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN AI株式会社",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "自動車および電気・電子機器部門が主要な顧客であり、世界で最もロボットが設置されている国として中国、日本、米国、韓国、ドイツがあり、165億米ドルと評価されました",
+    "url": "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域では、韓国、中国、日本などの国々に多数のロボットが配備されているため、エンドエフェクタの実装が急速に成長します",
+    "url": "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本は産業用ロボット市場のトップサプライヤーであり、2017年の産業用ロボットの出荷のほぼ59％に貢献しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本はまた、ロボットの主要な採用者の1つです",
+    "url": "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "pass": 3
+   },
+   {
+    "quote": "IFRによると、2017年には約297,000台の産業用ロボットが国内で稼働していました",
+    "url": "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋（中国、インド、日本、韓国、インドネシア、マレーシア、オーストラリア、ニュージーランド、シンガポール、その他のアジア太平洋）",
+    "url": "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2022年3月、日本の電子機器・電気機器メーカーである三菱電機は、食品加工工場での産業作業を行う産業用ロボットを2023年に発売する計画を発表した",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "モトマン、川崎重工業株式会社、ABB株式会社、ナチフジコシ株式会社、三菱電機株式会社、日本電機株式会社、シュタウブリ株式会社、ダイヘン株式会社、ファナック株式会社、パナソニック株式会社、デンソー株式会社、オムロン株式会社、エプソンロボティクス、ロックウェルオートメーション株式会社、KUKA AG、安川電機株式会社、シーメンスAG、ディクソンオートマチックツール株式会社、セイコーエプソン株式会社、コマウ株式会社、その他",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、予測期間におけるアジア太平洋地域の市場拡大は、台湾、韓国、日本、中国などの国々に多数の工場が存在することに起因しています",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の産業用ロボット市場を牽引する企業には、モトマン、川崎重工業、ABB、ナチ・フジコシ、三菱電機、日本電気、シュタウブリ、ダイヘン、ファナック、パナソニック、デンソー、オムロン、エプソンロボティクス、ロックウェル・オートメーション、KUKA、安川電機、シーメンス、ディクソン・オートマチック・ツール、セイコーエプソン、コマウなどが挙げられます",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "これまで、アジア太平洋地域（主に中国、日本、韓国）は、SMC Corporation、SCHUNK、Zimmer Group、DH-Robotics などの世界的ベンダーやサプライチェーンが密集する最大の生産・消費拠点でした",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "北米（アメリカ、カナダ）市場では、物流の自動化ニーズや国防・特殊作戦（Special Operations and Emergency Rescue）分野での需要が根強いものの、関税による部品調達コストの上昇を回避するため、国内生産やメキシコ（ラテンアメリカ）等への生産移管の動きが活発化しています",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）；0081-5058936232（グローバル）",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "japan@qyresearch.com",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch株式会社は、2017年に日本・東京で設立された市場調査・コンサルティング会社です",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "MAIL：japan@qyresearch.com",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "生産では中国が2025年に3.25万台、世界の約73.39%を占め、北米9.44%、欧州6.91%、日本2.30%、韓国2.09%となる",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "一方、北米はAIロボティクスと高度研究、欧州は産業自動化、日本と韓国は精密製造とロボット本体を中心に高付加価値需要を形成している",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト：",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて日本語レポートが入手可能",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット工学の進歩をリードする日本では、従業員数の減少により政府が自動化ソリューションの改善を奨励しており、市場は大幅に成長し続けています",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "市場見通しでは、ハイテク同期ラインのニーズを満たすために、高精度と高速スループットを求める日本企業のエンドエフェクターの継続的な増加傾向が指摘されています",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ市場におけるロボットエンドエフェクタの輸出に関して、日本の現地プレーヤーはどのような利益を得るのですか",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場でのエンドエフェクタの使用増加は、日本のロボット分野の高度な技術により、日本の現地プレーヤーにとって有利になります",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に日本から輸出されるロボットエンドエフェクタの価値は約450百万米ドルで、自動化の新しい国際市場により、年間9%の増分成長率があります",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "現在、日本はすでにロボット技術の輸出国であり、高品質のエンドエフェクタに対する需要は、北米、ヨーロッパ、アジアの自動車、電子機器、電子商取引業界で普及しています",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、自動化の傾向の高まりは、日本の輸出業者、特に製造業者にとってチャンスを生み出しています",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "新しい輸出機会を見つけるために、日本政府は「ロボット戦略」などのプログラムを通じて、ロボットの輸出の重要な要素となっています",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、日本は主要なパートナーとFTAを締結し、貿易障壁を緩和し、世界のロボットエンドエフェクタ市場の主要企業への輸出ルートを容易にしています",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "Soft Robotics Japanを含む日本の中小企業も、政府の支援を利用して技術の進歩を促進し、世界的にビジネスを拡大するためのソリューションを開発中です",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "最近の市場見通しレポートによると、これらの企業は、日本政府が今後5年間でロボット技術に10億米ドル以上を投資するという予測の恩恵を受ける可能性が高いです",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "政府に支えられた確立された輸出環境と、世界中で続く自動化の需要は、日本のメーカーに世界のロボットエンドエフェクタ市場を支配するために必要な優位性を提供します",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、国内の都市化の進展により市場の成長が促進されています",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "市場見通しによると、日本の都市化率は過去 10 年間で約 92.05% で安定しています",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "世界・日本器用な多指ロボットハンド市場：主要メーカー、競争環境、製品トレンド2026-2032｜YHResearch",
+    "url": "https://note.com/yhresearch_news/n/nab82b33297ef",
+    "pass": 3
+   },
+   {
+    "quote": "世界・日本器用な多指ロボットハンド市場：主要メーカー、競争環境、製品トレンド2026-2032",
+    "url": "https://note.com/yhresearch_news/n/nab82b33297ef",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットの新しいエンドエフェクタとしての多指デクストラスハンドは、近年国内外で研究が加速している注目分野である",
+    "url": "https://note.com/yhresearch_news/n/nab82b33297ef",
+    "pass": 3
+   },
+   {
+    "quote": "器用な多指ロボットハンドは、ヒューマノイドロボットにおけるエンドエフェクタの中核技術として、近年国内外で研究開発が急速に進展している分野である",
+    "url": "https://note.com/yhresearch_news/n/nab82b33297ef",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5840-2692（日本）；0081-5058402692（グローバル）",
+    "url": "https://note.com/yhresearch_news/n/nab82b33297ef",
+    "pass": 3
+   },
+   {
+    "quote": "日本でもハンドのお悩み相談窓口としてSIやユーザーのハンド設計を支援している",
+    "url": "https://news.aperza.jp/%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E5%B0%82%E9%96%80%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%9E%E3%83%86%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%9C/",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "SCHUNKは、ハノーバーメッセ2026において、AIを活用したロボット工学とインテリジェントオートメーションを加速させ、産業用途向けスマートロボットエンドエフェクタの発展を支援するための複数の戦略的パートナーシップを発表した",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "彼の研究は、市場動向、技術の導入状況、競争の動向、規制の動向、成長機会の評価に焦点を当て、情報に基づいた事業および投資判断を支援することを目的としています",
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "pass": 3
+   },
+   {
+    "quote": "著名な自動車メーカーは、溶接、塗装、フライスビット、カッター、マシンテンディング、部品搬送などの重要な活動を支援するためにロボットを使用しています",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、組み立て作業や搬送作業、医療ロボットの手術支援など、柔軟な力制御が必要とされる場面で使用されます",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "特に、工場自動化や物流ロボット、介護支援ロボットなど、様々な産業でその重要性が増しています",
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "pass": 3
+   },
+   {
+    "quote": "AIとバイオメカトロニクスの融合により、ロボットは作業現場から医療、生活支援、宇宙開発までその存在領域を広げるだろう",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "高品質の市場調査レポートを提供することで、意思決定者が十分な情報を得た上で意思決定を行い、戦略的な行動を取ることを支援し、新製品市場の開拓という研究成果を達成することに注力しています",
+    "url": "https://newscast.jp/news/7652482",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、統合能力、アプリケーションソフトウェア、コンプライアンス支援を備えたサプライヤーは、ロボットのハードウェア仕様のみで競争するベンダーよりも、価値を獲得しやすい立場にある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療支援は、追跡対象となる用途のなかで最も成長率が高く、20.9%の成長が見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療支援および検査・品質管理の CAGR はそれぞれ 20.9%と 20.4%であり、エラー発生時の影響が大きく、運用価値を測定しやすいことが成長の追い風となっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療セクターもコボットの市場が拡大している分野であり、研究所や病院で手術支援から物流までのタスクに使用されています",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "現在、北米は製造業の堅調さ、顕著な技術進歩、支援的な規制枠組みにより、コボット採用で世界市場をリードしています",
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "機械の取り扱い、溶接、家事などの多くのタスクを支援および実行するロボットの採用の増加は、ロボットエンドエフェクター市場の成長を推進する重要な要因の1つです",
+    "url": "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "pass": 3
+   },
+   {
+    "quote": "Kenneth Researchは、マルチクライアントの市場調査レポートのディストリビューターで、ビジネスプロフェッショナルが将来の拡張に向けたビジネスプランの戦略を立てるのを支援します",
+    "url": "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "pass": 3
+   },
+   {
+    "quote": "電気・電子機器分野における製品の大規模な普及は、世界市場における新たな成長分野の開拓を支援する",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの国々の政府は、製造業者への税制優遇措置や資金援助を通じて産業用ロボットの利用を支援しており、こうした取り組みが同地域の市場拡大を促進している",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル市場を対象に、市場調査レポート、業界分析、競合調査、IPO支援、カスタマイズリサーチなど幅広いサービスを展開し、各業界の市場構造や成長性、競争環境を多角的に分析しています",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています",
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "pass": 3
+   },
+   {
+    "quote": "この政策はロボット開発を支援し、ロボット企業に税額控除や補助金政策を実施することで、ロボット企業が新たな市場シェアを開発し獲得することを可能にします",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "Soft Robotics Japanを含む日本の中小企業も、政府の支援を利用して技術の進歩を促進し、世界的にビジネスを拡大するためのソリューションを開発中です",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "この躊躇は、特に予算的配慮が最優先される産業において、市場の成長と導入率を制限しています",
+    "url": "https://www.gii.co.jp/report/sky1920005-robot-end-effector-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に医療分野では、手術支援ロボットや義手開発において人間に近い操作精度が求められ、需要が顕著に増加している",
+    "url": "https://note.com/yhresearch_news/n/nab82b33297ef",
+    "pass": 3
+   },
+   {
+    "quote": "単純な自動化ではなく、人間の動作補助や意思決定支援を行う「協働ロボティクス（cobots）」領域への展開が進む",
+    "url": "https://note.com/yhresearch_news/n/nab82b33297ef",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野ではリハビリ支援、産業分野では精密組立作業などでの活用が想定される",
+    "url": "https://note.com/yhresearch_news/n/nab82b33297ef",
+    "pass": 3
+   },
+   {
+    "quote": "業界調査レポート、カスタムレポート、IPOアドバイザリーサービス、ビジネスプラン作成など、企業の成長と発展を支援するサービスを提供しています",
+    "url": "https://note.com/yhresearch_news/n/nab82b33297ef",
+    "pass": 3
+   },
+   {
+    "quote": "日本でもハンドのお悩み相談窓口としてSIやユーザーのハンド設計を支援している",
+    "url": "https://news.aperza.jp/%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E5%B0%82%E9%96%80%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%9E%E3%83%86%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%9C/",
+    "pass": 3
+   },
+   {
+    "quote": "ハンドのシステムインテグレータとして当社なりのアプローチ方法があり、それを生かしてこれからも現場を支援していく」と話している",
+    "url": "https://news.aperza.jp/%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E5%B0%82%E9%96%80%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%9E%E3%83%86%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%9C/",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "Washington Information Technology and Innovation Foundation（ITIF）によると、中国の労働人口に占めるロボットの割合は当初の予測を大幅に上回り、12.5倍となりました",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入台数に占める電子機器産業の割合は 24%、自動車産業は 23% であり、ロボット需要がもはや自動車生産サイクルだけで決まるものではないことを示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Medtronic、Fanuc Corporation、Omron Corporationの市場価値に占める割合は、それぞれ 8.1%、7.1%、5.9%で、合計シェアは 21.1%となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド型は数量18.23%、売上16.45%を占める",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "伝達方式では2025年にTendon-/Cable-driven Typeが数量45.49%、Linkage-driven Typeが31.45%、Joint-Integrated Drive Typeが23.06%を占める",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "世界合計と整合する2025年口径では、アジア太平洋の消費数量は約2.49万台で56.28%、欧州は約8907台で20.10%、北米は8462台で19.10%、ラテンアメリカは2.30%、中東・アフリカは2.22%を占める",
+    "url": "https://newscast.jp/smart/news/3650668",
+    "pass": 3
+   },
+   {
+    "quote": "これらのセグメントのうち、グリッパーセグメントは市場で重要な位置を占めており、2037年までに市場全体の収益の約30％を占めることになります",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2037年までに市場シェアの約33％以上を占めることになります",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "COVID-19パンデミックは、労働力不足、ウイルスの蔓延を制限するための製造施設の操業停止、全国的なロックダウンのため、ロボット製造の低迷につながり、ロボットエンドエフェクタ市場に大きな影響を与えました",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "人件費の上昇と人手不足",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足は、賃金水準が高く高齢化が進む製造業経済における自動化の経済的合理性をさらに高めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "労働力への圧力や物流処理能力に対する要件が需要を下支えする一方、統合コスト、人材不足、安全上の義務が、どのプロジェクトが生産現場に到達するかを左右する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "溶接・はんだ付けは依然として主要な導入基盤用途であるものの、年平均成長率（CAGR）14.4%は、既存の自動車自動化サイクルへの依存度が高いことを反映している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボット市場は、製造業における自動化の進展、労働力不足、精密駆動市場の拡大に対する需要の高まりにより、著しい成長が見込まれています",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "生産部門における労働力不足と高騰する人件費は、今後数年間、世界の産業用ロボット市場の拡大を後押しするだろう",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "熟練した人材の不足は、グローバル産業の拡大にとって課題となり得る",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "相互運用性の低さと専門知識の不足は、世界の産業用ロボット産業にとって大きな課題となり得る",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の産業用ロボット市場は、製造業における自動化の進展、労働力不足、精密駆動市場の拡大に対する需要の高まりにより、成長が見込まれています",
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "これはすべて、自動化が労働力不足の問題への対処と効率性の向上にますます関与するようになっていることを示しています",
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "pass": 3
+   },
+   {
+    "quote": "物流・製造現場では労働力不足を背景に自動化需要が拡大し、非構造化環境下での柔軟な把持能力が評価されている",
+    "url": "https://note.com/yhresearch_news/n/nab82b33297ef",
+    "pass": 3
+   },
+   {
+    "quote": "UK growers need robots to survive rising costs and shortages of seasonal workers",
+    "url": "https://howtorobot.com/expert-insight/robot-end-effectors",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ロボットエンドエフェクタ市場 - 2030年 — ロボットエンドエフェクタ市場 - 2030年 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > オートメーション/ロボット",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットエンドエフェクタ 市場 - 2030 年 — ロボットエンドエフェクタ 市場 - 2030 年 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > オートメーション/ロボット",
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4937181",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/7652482",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/robot-end-effector-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fa.omron.co.jp/product/special/library/robotics/endeffector/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.panasonic.biz/jp/densetsu/powertool/factory/useful/column_end_effector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/qy_research/n/n169ace4676a5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.serendip-rxm.com/column/robothand/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/categories/6124/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cfrp.mtb.futaba.co.jp/endeffector",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orbray.com/magazine/archives/378",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/plastic_gear/n/n1bd44a308a71",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jet-mfg.com/category/robot-related/robot-tools/end-effector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/3117/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tesollo.com/jp/resources/what-is-a-robotic-hand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/3650668",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/robot-end-effector-market/106722",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/sky1920005-robot-end-effector-market-size-share-growth.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yhresearch_news/n/nab82b33297ef",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://china.orbray.com/product/motor-unit/k3hand.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-solution.co.jp/download/endeffector",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/Category/2057",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.aperza.jp/%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E5%B0%82%E9%96%80%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%9E%E3%83%86%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%9C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semirai.com/glossary/end-effector",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-mechatronics.com/mailmgzn/backnumber/202204_2/mame.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/ss/products/vision/fa-robot/industrial_robot/robotic-arm.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emtopia.net/case/15",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/robot-end-effector-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/robotic-grippers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/robot-end-effector-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reanin.com/reports/robotic-end-effector-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/robot-end-effector-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/robotics-market-4732",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/robot-end-effector-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eureka.patsnap.com/report-how-to-reduce-maintenance-costs-of-robotic-end-effectors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://howtorobot.com/expert-insight/robot-end-effectors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/5790837/robot-end-effector-market-report?srsltid=AYCX9vK1bj0iwPEmXGZBoV5CciAilzdAFgEbX_YoFhYNvoSzbKCtQXpq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.unchainedrobotics.de/en/how-to-choose-the-right-end-effector-for-your-robotic-cell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tuffautomation.com/blog-1/2020/8/3/types-of-end-effectors",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロボットハンド・エンドエフェクタ 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "https://www.atpress.ne.jp/news/4937181",
+    "https://newscast.jp/news/7652482",
+    "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/robot-end-effector-market",
+    "https://jp.linkedin.com/pulse/cnc%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E5%88%86%E6%9E%902026-2033%E4%BA%88%E6%B8%ACcagr64%E6%88%90%E9%95%B7%E8%A6%81%E5%9B%A0%E9%9C%80%E8%A6%81%E3%81%A8%E4%BE%9B%E7%B5%A6%E5%A4%96%E5%9B%BD%E8%B2%BF%E6%98%93%E8%A6%8F-wgthe",
+    "https://www.businessresearchinsights.com/jp/market-reports/robot-tool-changers-market-100781",
+    "https://note.com/qy_research/n/n169ace4676a5"
+   ]
+  },
+  {
+   "query": "ロボットハンド・エンドエフェクタ 需要 見通し 2030",
+   "results": [
+    "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/robot-end-effector-market",
+    "https://www.fa.omron.co.jp/product/special/library/robotics/endeffector/",
+    "https://www.atpress.ne.jp/news/5674037?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "https://prtimes.jp/main/html/rd/p/000001633.000059861.html",
+    "https://www.zionmarketresearch.com/ja/report/industrial-robotics-market",
+    "https://www2.panasonic.biz/jp/densetsu/powertool/factory/useful/column_end_effector/",
+    "https://note.com/qy_research/n/n169ace4676a5",
+    "https://www.globalresearch.co.jp/robot-end-effector-market/"
+   ]
+  },
+  {
+   "query": "ロボットハンド・エンドエフェクタ 部品構成 コスト",
+   "results": [
+    "https://www.fa.omron.co.jp/product/special/library/robotics/endeffector/",
+    "https://www.serendip-rxm.com/column/robothand/",
+    "https://www2.panasonic.biz/jp/densetsu/powertool/factory/useful/column_end_effector/",
+    "https://metoree.com/categories/6124/",
+    "https://www.cfrp.mtb.futaba.co.jp/endeffector",
+    "https://orbray.com/magazine/archives/378",
+    "https://note.com/plastic_gear/n/n1bd44a308a71",
+    "https://jet-mfg.com/category/robot-related/robot-tools/end-effector/",
+    "https://www.evsint.com/ja/robotic-arm-structure-parts-joints-anatomy/",
+    "https://www.fanuc.co.jp/ja/product/robot/article/np202604-02.html"
+   ]
+  },
+  {
+   "query": "ロボットハンド・エンドエフェクタ シェア 主要企業",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/robot-end-effector-market",
+    "https://www.serendip-rxm.com/column/robothand/",
+    "https://metoree.com/categories/3117/",
+    "https://straitsresearch.com/jp/report/robot-end-effector-market",
+    "https://www2.panasonic.biz/jp/densetsu/powertool/factory/useful/column_end_effector/",
+    "https://www.fa.omron.co.jp/product/special/library/robotics/endeffector/",
+    "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "https://www.tesollo.com/jp/resources/what-is-a-robotic-hand",
+    "https://newscast.jp/smart/news/3650668",
+    "https://note.com/qy_research/n/n169ace4676a5"
+   ]
+  },
+  {
+   "query": "ロボットハンド・エンドエフェクタ 日本企業",
+   "results": [
+    "https://www.serendip-rxm.com/column/robothand/",
+    "https://metoree.com/categories/3117/",
+    "https://mono.ipros.com/cg2/%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC/",
+    "https://www.fa.omron.co.jp/product/special/library/robotics/endeffector/",
+    "https://china.orbray.com/product/motor-unit/k3hand.html",
+    "https://www.sk-solution.co.jp/download/endeffector",
+    "https://www.indexpro.co.jp/Category/2057",
+    "https://news.aperza.jp/%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E5%B0%82%E9%96%80%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%9E%E3%83%86%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%9C/",
+    "https://semirai.com/glossary/end-effector",
+    "https://metoree.com/categories/6124/"
+   ]
+  },
+  {
+   "query": "ロボットハンド・エンドエフェクタ 不足 OR 中国依存",
+   "results": [
+    "https://www.serendip-rxm.com/column/robothand/",
+    "https://www2.panasonic.biz/jp/densetsu/powertool/factory/useful/column_end_effector/",
+    "https://note.com/plastic_gear/n/n1bd44a308a71",
+    "https://mono.ipros.com/cg2/%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC/",
+    "https://www.e-mechatronics.com/mailmgzn/backnumber/202204_2/mame.html",
+    "https://www.cfrp.mtb.futaba.co.jp/endeffector",
+    "https://www.keyence.co.jp/ss/products/vision/fa-robot/industrial_robot/robotic-arm.jsp",
+    "https://www.gii.co.jp/report/moi1687931-robot-end-effector-market-share-analysis-industry.html",
+    "https://emtopia.net/case/15"
+   ]
+  },
+  {
+   "query": "robot end effector gripper market market size CAGR 2030",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/robot-end-effector-market",
+    "https://www.futuremarketinsights.com/reports/robotic-grippers-market",
+    "https://market.us/report/robot-end-effector-market/",
+    "https://www.reanin.com/reports/robotic-end-effector-market",
+    "https://straitsresearch.com/report/robot-end-effector-market",
+    "https://www.marketresearchfuture.com/reports/robotics-market-4732",
+    "https://interactanalysis.com/insight/cagr-of-6-projected-for-market-for-components-used-in-industrial-robots/",
+    "https://www.grandviewresearch.com/industry-analysis/robot-end-effector-market-report",
+    "https://dataintelo.com/report/global-robotic-grippers-market",
+    "https://www.thebusinessresearchcompany.com/report/robot-end-effector-global-market-report"
+   ]
+  },
+  {
+   "query": "robot end effector gripper market cost breakdown bill of materials",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/robot-end-effector-market",
+    "https://straitsresearch.com/report/robot-end-effector-market",
+    "https://www.skyquestt.com/report/robot-end-effector-market",
+    "https://eureka.patsnap.com/report-how-to-reduce-maintenance-costs-of-robotic-end-effectors",
+    "https://howtorobot.com/expert-insight/robot-end-effectors",
+    "https://market.us/report/robot-end-effector-market/",
+    "https://www.researchandmarkets.com/reports/5790837/robot-end-effector-market-report?srsltid=AYCX9vK1bj0iwPEmXGZBoV5CciAilzdAFgEbX_YoFhYNvoSzbKCtQXpq",
+    "https://blog.unchainedrobotics.de/en/how-to-choose-the-right-end-effector-for-your-robotic-cell",
+    "https://www.tuffautomation.com/blog-1/2020/8/3/types-of-end-effectors",
+    "https://eureka.patsnap.com/article/cost-analysis-of-different-robotic-end-effectors"
+   ]
+  },
+  {
+   "query": "robot end effector gripper market demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/robot-end-effector-market",
+    "https://www.grandviewresearch.com/industry-analysis/robot-end-effector-market-report",
+    "https://www.marketresearchreports.com/blog/world-s-top-10-robot-hands-dexterous-grippers-companies?srsltid=AYCX9vIh-sMA0t5Of10bergo0ATF6wIYNwMzQ0mgzUWer5Wlrsz5rzCJ",
+    "https://straitsresearch.com/report/robot-end-effector-market",
+    "https://www.futuremarketinsights.com/reports/robotic-grippers-market",
+    "https://market.us/report/robot-end-effector-market/",
+    "https://eureka.patsnap.com/report-optimizing-robotic-end-effector-integration-for-collaborative-robots",
+    "https://www.facebook.com/SchaefflerGroup/posts/tech-bites-precise-drive-technology-for-humanoid-robots-how-can-humanoid-robots-/1533485498824140/",
+    "https://www.marketsandmarkets.com/Market-Reports/robot-end-effector-market-251736819.html",
+    "https://www.gminsights.com/industry-analysis/humanoid-robot-market"
+   ]
+  },
+  {
+   "query": "site:note.com ロボットハンド・エンドエフェクタ",
+   "results": [
+    "https://note.com/plastic_gear/n/n1bd44a308a71",
+    "https://note.com/bomedi/n/n4eaa62a81480",
+    "https://note.com/ko_heihe_i/n/n48c8b1ff4379",
+    "https://note.com/soneo/n/n96719f951b84",
+    "https://note.com/npaka/n/n6903924a5f8e",
+    "https://note.com/plastic_gear/n/n1d090608b22f",
+    "https://note.com/soneo/n/n6850e67989cb",
+    "https://note.com/plastic_gear",
+    "https://note.com/npaka/n/n5be85b5e1845",
+    "https://note.com/keity717/n/n420e95b96e09"
+   ]
+  },
+  {
+   "query": "site:x.com ロボットハンド・エンドエフェクタ",
+   "results": [
+    "https://x.com/fujimo777/status/2115653596473888873",
+    "https://x.com/KagawaTomo/article/2074680179260285180",
+    "https://x.com/SchmalzJapan",
+    "https://x.com/omron_sinicx",
+    "https://x.com/atsushikakogawa",
+    "https://x.com/nasupi1253287/reposts",
+    "https://x.com/hashtag/%E7%9C%81%E4%BA%BA%E5%8C%96",
+    "https://x.com/neka_nat",
+    "https://x.com/toki_engineer/status/2087068012759466455?lang=bn",
+    "https://x.com/saneidensi1968"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ロボットハンド・エンドエフェクタ",
+   "results": [
+    "https://jp.linkedin.com/pulse/robot-dexterity-latest-products-vla-models-tactile-sensing-bagchi-n0hqc?tl=ja",
+    "https://jp.linkedin.com/pulse/democratizing-dexterous-robotics-from-100k-legacy-hands-noreils-ntcpe?tl=ja",
+    "https://jp.linkedin.com/posts/3dprinterjp_athena%E7%A4%BE%E3%81%AF%E9%A1%A7%E5%AE%A2%E3%81%AE%E3%83%8B%E3%83%BC%E3%82%BA%E3%81%AB%E5%BF%9C%E3%81%98%E3%81%A6%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E9%83%A8%E5%93%81%E3%82%92%E8%A3%BD%E9%80%A0%E3%81%99%E3%82%8B%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E4%BC%9A%E7%A4%BEmarkforged-activity-7104270918402666497-ayva",
+    "https://jp.linkedin.com/pulse/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E6%89%8B%E5%B8%82%E5%A0%B4%E5%A0%85%E8%AA%BF%E3%81%AA%E6%88%90%E9%95%B7%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr%E3%81%AF4%E3%81%AB%E9%81%94%E3%81%99%E3%82%8B%E8%A6%8B%E9%80%9A%E3%81%97%E6%9C%80%E8%BF%91%E3%81%AE%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F-7519369325045071873-mgdoe",
+    "https://www.linkedin.com/posts/tsurugacorp_%E8%A3%BD%E9%80%A0%E6%A5%AD-%E7%94%A3%E6%A5%AD%E6%A9%9F%E6%A2%B0-%E7%B7%A0%E7%B5%90%E9%83%A8%E5%93%81-activity-7465208877228339200-_Yam",
+    "https://jp.linkedin.com/pulse/hardtech-reads-ai-robotics-revolution-vol79-paulina-szyzdek-niz8c?tl=ja",
+    "https://jp.linkedin.com/pulse/from-machines-system-adelbert-haas-sas-2ichf?tl=ja",
+    "https://jp.linkedin.com/pulse/genesis-ais-novel-approach-robot-training-brian-heater-riebe?tl=ja",
+    "https://jp.linkedin.com/pulse/hardware-bottleneck-behind-robot-generalization-aaron-li-7janc?tl=ja",
+    "https://jp.linkedin.com/in/kojimaikuo"
+   ]
+  },
+  {
+   "query": "site:facebook.com ロボットハンド・エンドエフェクタ",
+   "results": [
+    "https://www.facebook.com/DoubleGiken/",
+    "https://m.facebook.com/SchmalzJapan/photos/-foomajapan2025-%E5%A4%A9%E6%B0%97%E3%81%AB%E3%82%82%E6%81%B5%E3%81%BE%E3%82%8C3%E6%97%A5%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F%E7%9C%9F%E7%A9%BA%E6%90%AC%E9%80%81%E3%82%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%8F%E3%83%B3%E3%83%89%E3%81%AA%E3%81%A9%E7%9C%81%E5%8A%9B%E5%8C%96%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%A4%9A%E6%95%B0%E5%B1%95%E7%A4%BA%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%81%9C%E3%81%B2%E3%82%B7/1277713161021031/",
+    "https://www.facebook.com/SchmalzJapan/",
+    "https://www.facebook.com/kiqrobotics/",
+    "https://www.facebook.com/kiqrobotics/videos/%E6%9F%94%E8%BB%9F%E6%8C%87%E3%81%A7%E3%83%81%E3%82%A7%E3%82%B9%E3%81%AE%E9%A7%92%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%A6%E3%81%BF%E3%81%9F%E6%9F%94%E8%BB%9F%E6%8C%87-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-%E8%87%AA%E5%8B%95%E5%8C%96-%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E7%9B%9B%E3%82%8A%E4%B8%8A%E3%81%92%E3%81%9F%E3%81%84-%E3%83%81%E3%82%A7%E3%82%B9/1218261516839472/",
+    "https://www.facebook.com/groups/964076620332165/",
+    "https://www.facebook.com/SchmalzJapan/posts/%E8%A7%A3%E6%B6%88%E5%BC%8A%E7%A4%BE%E9%9B%BB%E8%A9%B1fax%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%9A%9C%E5%AE%B3%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B2026%E5%B9%B49%E6%9C%8810%E6%97%A5%E6%9C%A8%E5%8D%88%E5%89%8D%E4%B8%AD%E3%82%88%E3%82%8A%E7%99%BA%E7%94%9F%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E9%9B%BB%E8%A9%B1fax%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E9%9A%9C%E5%AE%B3%E3%81%AB%E3%81%A4%E3%81%8D%E3%81%BE%E3%81%97%E3%81%A6%E5%BE%A9%E6%97%A7%E4%BD%9C%E6%A5%AD%E3%81%8C%E5%AE%8C%E4%BA%86%E3%81%97%E7%8F%BE/1691042649688078/",
+    "https://www.facebook.com/yosguitars/posts/%E3%81%BE%E3%81%9F%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E5%A4%A7%E3%81%8C%E3%81%8B%E3%82%8A%E3%81%AA%E4%BF%AE%E7%90%86%E3%81%AB%E7%9D%80%E6%89%8B%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8A%E7%9B%B8%E6%89%8B%E3%81%AF77%E5%B9%B4%E8%A3%BD%E3%81%AEfender-jazz-bass%E3%81%8A%E9%A0%90%E3%81%8B%E3%82%8A%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%BF%E3%82%8B%E3%81%A8%E3%83%8D%E3%83%83%E3%82%AF%E3%81%AF%E5%A4%A7%E5%88%86%E9%A0%86%E5%8F%8D%E3%82%8A%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8C%E3%83%88%E3%83%A9%E3%82%B9%E3%83%AD%E3%83%83%E3%83%89/998260107049946/",
+    "https://www.facebook.com/TJABC/",
+    "https://www.facebook.com/kyodorobot/posts/2878550205694658/"
+   ]
+  },
+  {
+   "query": "ロボットハンド・エンドエフェクタ note 社長",
+   "results": [
+    "https://note.com/plastic_gear/n/n1bd44a308a71",
+    "https://note.com/ko_heihe_i/n/n48c8b1ff4379",
+    "https://www.fa.omron.co.jp/product/special/library/robotics/endeffector/",
+    "https://www.serendip-rxm.com/column/robothand/",
+    "https://www.tesollo.com/jp/resources/what-is-a-robotic-hand",
+    "https://note.com/bomedi/n/n4eaa62a81480",
+    "https://www.mirai-lab.co.jp/all/info/2713",
+    "https://www2.panasonic.biz/jp/densetsu/powertool/factory/useful/column_end_effector/",
+    "https://note.com/qy_research/n/n169ace4676a5",
+    "https://metoree.com/categories/6124/"
+   ]
+  },
+  {
+   "query": "ロボットハンド・エンドエフェクタ X 投稿",
+   "results": [
+    "https://www.serendip-rxm.com/column/robothand/",
+    "https://www.fa.omron.co.jp/product/special/library/robotics/endeffector/",
+    "https://www.tesollo.com/jp/resources/what-is-a-robotic-hand",
+    "https://metoree.com/products/15790/",
+    "https://orbray.com/product/motor-unit/k3hand.html",
+    "https://note.com/plastic_gear/n/n1bd44a308a71",
+    "https://www.mirai-lab.co.jp/all/info/2713",
+    "https://www.evsint.com/ja/product-item/robot-arm-end-effector/",
+    "https://www.keyence.co.jp/ss/products/vision/fa-robot/industrial_robot/robotic-arm.jsp",
+    "https://x.com/plastic_gear/status/2053471719768428892"
+   ]
+  },
+  {
+   "query": "robot end effector gripper market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/robot-modular-grippers-market-global-outlook-us-japan-korea-jgozf",
+    "https://www.linkedin.com/pulse/robot-end-effector-market-opportunities-automotive-vszuc",
+    "https://www.linkedin.com/pulse/pneumatic-robot-gripper-market-overview-key-companies-cambium-core-wdbve",
+    "https://www.linkedin.com/pulse/adaptable-robot-gripper-analysis-highlights-key-growth-forecasts-orshe",
+    "https://www.linkedin.com/posts/robynex-automation_robynexautomation-endeffectors-grippers-activity-7518462859060699136-swkv",
+    "https://www.linkedin.com/pulse/micro-gripper-market-trends-shaping-future-miniature-ivvtf",
+    "https://www.linkedin.com/posts/lirapriyadarsani_industrialautomation-robotics-endofarmtooling-activity-7516831687578791936-iykw",
+    "https://es.linkedin.com/company/qbrobotics",
+    "https://www.linkedin.com/pulse/heavy-load-electric-gripper-market-size-2026-2033-jow8e",
+    "https://www.linkedin.com/pulse/how-robotics-innovations-shaping-end-effector-gripper-system-lekqf/"
+   ]
+  }
+ ],
+ "missing": {}
+}

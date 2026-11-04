@@ -1,0 +1,1686 @@
+{
+ "name": "ロボット用の治具・手先の多品種少量生産",
+ "en": "custom robot grippers fixtures 3D printed metal",
+ "aliases": [
+  "ロボット 治具 多品種",
+  "手先 治具 3Dプリンター",
+  "グリッパー 金属3Dプリント"
+ ],
+ "context": "工場無人化・金属AM",
+ "kind": "market",
+ "researched_at": "2026-11-04T11:31:48.443578+00:00",
+ "evidence": {
+  "需要量": [
+   {
+    "quote": "「明日までにあと100個」という急ぎ案件に対し、ロボットなら疲弊することなく夜通し稼働し、ビジネスチャンスを逃しません",
+    "url": "https://www.kyodo-robot.com/blog-prescription/202607-approach-to-automation",
+    "pass": 3
+   },
+   {
+    "quote": "単手重量はおおむね0.3～2.5 kg、単指把持力は5～30 N、手全体の持ち上げ能力は1～10 kg程度であり、高級製品では触覚アレイ、力センサー、エンコーダ、腱駆動機構、マイクロサーボモーター、小型減速機、柔軟センサー、組込み制御基板などを統合する",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界市場規模は2.37億米ドル、販売数量は4.43万台、平均価格は約5360米ドル/台であった",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には市場規模が5.63億米ドル、販売数量が13.20万台、平均価格が約4270米ドル/台へ拡大すると予測される",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "2032年には市場規模が65.99億米ドル、販売数量が176.07万台、平均価格が約3750米ドル/台に達し、2026～2032年の売上CAGRは50.70%となる",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の内蔵型販売数量は2.04万台で世界数量の約45.98%を占め、売上は1.39億米ドルで世界売上の約58.40%を占めた",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "平均価格は約6800米ドル/台であり、市場平均を大きく上回る",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "外付け型ロボットハンドは2025年に1.52万台を販売し、数量シェアは約34.21%、売上は5608万米ドル、売上シェアは約23.63%であった",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド型は2025年販売数量8777台、売上4266万米ドルであり、モジュール性、ソフト・ハード融合、サービスロボットや物流用途への適応性を特徴とする",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界生産数量は4.43万台であり、中国は3.25万台を生産し、世界生産の約73.39%を占めた",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "北米の生産は4183台、シェア約9.44%で、高級研究プラットフォーム、特殊ロボット、ヒューマノイド開発、ロボットAI企業に支えられる",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は3063台、シェア約6.91%で、ドイツ、英国、イタリアを中心に産業用把持、研究グレードハンド、ソフトロボット技術に強みがある",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "日本は1020台、韓国は928台であり、産業ロボット、研究プラットフォーム、ヒューマノイド関連開発が主な需要基盤である",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "消費面では、2025年にアジア太平洋が2.49万台を消費し、世界需要の約56.27%を占めた",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "北米は8462台、欧州は8970台で、高付加価値用途の需要地として重要である",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "【記念艦三笠監修】記念艦三笠100周年記念モデル 実物の木甲板を台座に...",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "100台ものマシニングセンタを備え、最新設備にも積極投資",
+    "url": "https://www.haruchika.co.jp/feature/",
+    "pass": 3
+   },
+   {
+    "quote": "1台で3～5品種※に対応でき、エンドエフェクタとプログラムを切り替えるだけで約5分で段取り替えが完了",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "0.1g~12kg",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "0.1g~3kg",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "80カ国以上で100,000台以上導入",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "12kgまで",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "最速P-P動作：3秒/個～",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "架台：W1000×L750×H820",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "3種類の100kg程度の重量製品を移載したり、前後や表裏の姿勢を変えたりすることは、危険も生じるため、装置化することで安全と安定を確保しました",
+    "url": "https://meisei-web.co.jp/2023-09-28/",
+    "pass": 3
+   },
+   {
+    "quote": "（1人１台⇒1人2台もしくは3台…）",
+    "url": "https://www.mazak.co.jp/lp/automation/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械部品のロット数は月に1個～数十個です",
+    "url": "https://www.mazak.co.jp/lp/automation/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年以降、多品種ワークの加工を無人化するために、MPPと接続した設備2台導入",
+    "url": "https://www.mazak.co.jp/lp/automation/",
+    "pass": 3
+   },
+   {
+    "quote": "50種のワークを昼夜連続で加工し、1台当たりの稼働時間はひと月で520時間に及ぶなど、機械稼働率が飛躍的に向上",
+    "url": "https://www.mazak.co.jp/lp/automation/",
+    "pass": 3
+   },
+   {
+    "quote": "1. お客様の個人情報の利用目的",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "2. お客様の個人情報の利用目的外についての利用",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "3. お客様の個人情報の第三者への提供",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "・ 上記【1. お客様の個人情報の利用目的】に定めた利用目的のために外部業者に業務委託をする場合",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "■キーカート最大牽引能力は500kg",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでバイスで1個ずつ固定していた変形しやすい薄物や異形ワークも、このブロックを形状に合わせて削れば、磁力による複数個の同時吸着・一括加工が可能になる",
+    "url": "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械の生産性を高める方法の一つに、1つの治具へ複数のワークを配置して加工する「多数個取り」があります",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械の多数個取りとは、1つの治具やパレットへ複数のワークを配置し、1回の段取り・加工サイクルで連続して加工する方法です",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "1個ずつ交換する加工と比べ、段取りや工具交換に伴う時間を複数ワークへ分散できるため、完成品1個当たりの所要時間を抑えられる可能性があります",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "1個の把持と着座",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "1台で複数加工を実現する板金特殊加工機・溶接ロボット治具",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、板金特殊加工機の製作では、1台の装置で3種類の打ち抜きプレス加工を行えるよう設計されています",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "サカエは、検査を含む多様な工程で150社・1500台超※の自動化設備導入を支援してきた知見から、",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "●従業員10名の会社が10台のロボットを導入！",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-1547",
+    "pass": 3
+   },
+   {
+    "quote": "北海道に拠点をおくとA社様は地域柄溶接職人の確保や人材の育成に非常に課題意識をもっており、十数年前から工場の自動化に取り組んでいたが、当時はなかなか上手くいかず溶接ロボットが現場で放置されるような状況にあったが、ある時一人の従業員がロボットに興味を持ち始め、溶接ロボットを活用する様になった事がきっかけで、徐々に溶接ロボット活用が加速し、従業員１０名に対しロボットが１０台あり、全従業員がロボットを操作する事が出来るまでとなった",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-1547",
+    "pass": 3
+   },
+   {
+    "quote": "用途によっては、1秒間に複数個の部品を処理する能力や、数十ミクロン単位の精度が必要とされる場合もあります",
+    "url": "https://ngpd.nikon.com/glossary/pick-and-place.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dカメラと高解像度プロジェクターを用いて深度情報を含む点群データを生成し、複雑に重なった状態にあるワークでも個々の位置と姿勢を正確に検出することが可能です",
+    "url": "https://ngpd.nikon.com/glossary/pick-and-place.html",
+    "pass": 3
+   },
+   {
+    "quote": "Why is tungsten a desirable material for nuclear fusion and other demanding applications? And why is electron beam melting a good match for this refractory metal? We answer these questions and more in this follow-up to episode #87.",
+    "url": "https://www.additivemanufacturing.media/articles/micro-robot-gripper-3d-printed-all-at-once-no-assembly-required-the-cool-parts-show-59",
+    "pass": 3
+   }
+  ],
+  "供給制約・不足": [
+   {
+    "quote": "協働ロボットが必要とされる背景-1.人手不足の解消",
+    "url": "https://www.kyodo-robot.com/blog-prescription/202607-approach-to-automation",
+    "pass": 3
+   },
+   {
+    "quote": "これまで、コストや専門人材の不足から自動化を断念していた企業においても、",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "3-3．人材不足で運用が難しい",
+    "url": "https://meisei-web.co.jp/2023-09-28/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、人材不足が課題となることがあります",
+    "url": "https://meisei-web.co.jp/2023-09-28/",
+    "pass": 3
+   },
+   {
+    "quote": "工程を自動化できるか専門業者に相談して人材不足を補うことが重要です",
+    "url": "https://meisei-web.co.jp/2023-09-28/",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足、コスト競争の時代に勝ち残る",
+    "url": "https://www.mazak.co.jp/lp/automation/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化社会、その中でもコロナ禍で製造業は未曾有の人材不足に陥っています",
+    "url": "https://www.mazak.co.jp/lp/automation/",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足の解消",
+    "url": "https://www.mazak.co.jp/lp/automation/",
+    "pass": 3
+   },
+   {
+    "quote": "新人・若年労働者の経験不足による品質の不安定さを解消できる",
+    "url": "https://www.mazak.co.jp/lp/automation/",
+    "pass": 3
+   },
+   {
+    "quote": "職人不足対策",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工が不足していて、",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足・採用難を解決！",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "原材料価格の高騰や人手不足、さらには自動車業界の投資先送りなど、日本の製造業を取り巻く市場環境は激変している",
+    "url": "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の構造的課題である生産年齢人口の減少と、それに伴う現場の熟練技術者不足も、治具の役割を大きく変えつつある",
+    "url": "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "pass": 3
+   },
+   {
+    "quote": "浮き、変形、保持力不足",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を解消する工場ライン自動化の方法",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "属人化の解消と人手不足対策",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足対策としても有効な手段",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工が不足しており3K業務で採用が難しい",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-1547",
+    "pass": 3
+   },
+   {
+    "quote": "「溶接工が不足しており若手も採用できず人手不足となっている」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-1547",
+    "pass": 3
+   },
+   {
+    "quote": "現場で培った「利益を生む自動化」の成功モデルを軸に、IoT活用、ロボット導入、基幹システム刷新など、生産性向上から人手不足解消まで幅広く対応",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-1547",
+    "pass": 3
+   },
+   {
+    "quote": "「設計者不足」「短納期化」「多品種少量生産」",
+    "url": "https://note.com/word_giken/n/n6dabb24745b3",
+    "pass": 3
+   },
+   {
+    "quote": "1. 技術者不足・設計の属人化",
+    "url": "https://note.com/word_giken/n/n6dabb24745b3",
+    "pass": 3
+   },
+   {
+    "quote": "近年、多くの製造業で治具設計を担当できる人材が不足しています",
+    "url": "https://note.com/word_giken/n/n6dabb24745b3",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を背景に、自動化設備やロボットの導入が進んでいます",
+    "url": "https://note.com/word_giken/n/n6dabb24745b3",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、設計者不足や短納期化、多品種少量生産、自動化への対応など、現場が抱える課題は年々複雑になっています",
+    "url": "https://note.com/word_giken/n/n6dabb24745b3",
+    "pass": 3
+   },
+   {
+    "quote": "多品種少量生産への対応や人手不足といった課題を背景に、ピックアンドプレースの自動化は生産効率向上の有効な手段として注目されています",
+    "url": "https://ngpd.nikon.com/glossary/pick-and-place.html",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printed Mobility Devices Support Kids’ Independence",
+    "url": "https://www.additivemanufacturing.media/articles/micro-robot-gripper-3d-printed-all-at-once-no-assembly-required-the-cool-parts-show-59",
+    "pass": 3
+   }
+  ],
+  "市場規模": [
+   {
+    "quote": "ロボットハンド市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）50.7%の超高成長 | LP Information Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットハンド市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）50.7%の超高成長",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界市場規模は2.37億米ドル、販売数量は4.43万台、平均価格は約5360米ドル/台であった",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には市場規模が5.63億米ドル、販売数量が13.20万台、平均価格が約4270米ドル/台へ拡大すると予測される",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "2032年には市場規模が65.99億米ドル、販売数量が176.07万台、平均価格が約3750米ドル/台に達し、2026～2032年の売上CAGRは50.70%となる",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、ロボットハンドの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、ロボットハンドの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域におけるロボットハンド市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、ロボットハンドの世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "熱成形機市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）4.50%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "The value is putting your budget where additive genuinely beats moulding: lower cost at your volumes, real design freedom, and parts in days instead of tooling lead-times. Small parts stay ahead to high volumes — up to around a million a year; bigger or more complex parts suit additive up to roughly 100,000, then moulding takes over. Most robotics work sits comfortably on the additive side.",
+    "url": "https://ryse3d.com/pages/robotics-3d-printing?srsltid=AYCX9vLk2hGyglVdIl4wJjIYuQtxkww3o-ivB7iuQNKS2_ttOeGy_y--",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. The same process that makes the prototype makes the production run, so there is no retooling step between them. Small parts stay economical against moulding up to around a million a year, and larger or more complex parts to roughly 100,000 — above that we will tell you moulding wins and bridge you while a tool is cut.",
+    "url": "https://ryse3d.com/pages/robotics-3d-printing?srsltid=AYCX9vLk2hGyglVdIl4wJjIYuQtxkww3o-ivB7iuQNKS2_ttOeGy_y--",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.",
+    "url": "https://www.additivemanufacturing.media/articles/micro-robot-gripper-3d-printed-all-at-once-no-assembly-required-the-cool-parts-show-59",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "ロボットハンド市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）50.7%の超高成長 | LP Information Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットハンド市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）50.7%の超高成長",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には市場規模が5.63億米ドル、販売数量が13.20万台、平均価格が約4270米ドル/台へ拡大すると予測される",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "2032年には市場規模が65.99億米ドル、販売数量が176.07万台、平均価格が約3750米ドル/台に達し、2026～2032年の売上CAGRは50.70%となる",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "研究用途は1799万米ドル、家庭用途は1021万米ドルであり、家庭用途はまだ初期段階にあるが、2032年には4.16億米ドルへ拡大する見通しである",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026年の5.63億米ドルから2032年の65.99億米ドルへ拡大し、ロボット産業の重心が移動能力から操作能力へ移ることを示している",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、ロボットハンドの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、ロボットハンドの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "透明Micro LEDディスプレイマーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）52.7%の超高成長",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "熱成形機市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）4.50%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "高度な航空交通マーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）20.6%の超高成長",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "自動化を推進した結果、従来では３名でやる作業が１名で生産出来る様になり、従業員のワークライフバランスも向上、技術アピールにより受注拡大に成功している",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-1547",
+    "pass": 3
+   }
+  ],
+  "部品構成比・単価": [
+   {
+    "quote": "2025年の産業用途売上は9929万米ドルで、世界売上の約41.83%を占める最大市場である",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   }
+  ],
+  "主要供給元・シェア": [
+   {
+    "quote": "ロボットハンド市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）50.7%の超高成長 | LP Information Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットハンド市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）50.7%の超高成長",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のTop 5メーカーの売上シェアは約37.40%であり、市場集中度は中程度からやや低い段階にある",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "外付け型ロボットハンドは2025年に1.52万台を販売し、数量シェアは約34.21%、売上は5608万米ドル、売上シェアは約23.63%であった",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "物流用途は2025年に6461万米ドル、売上シェア約27.22%となり、荷物仕分け、倉庫ピッキング、多品種SKU処理、搬送作業が中心である",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "医療用途は2025年に3091万米ドル、売上シェア13.02%で、リハビリ支援、介護ロボット、実験室自動化、医療機器操作、遠隔操作訓練などを含む",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "北米の生産は4183台、シェア約9.44%で、高級研究プラットフォーム、特殊ロボット、ヒューマノイド開発、ロボットAI企業に支えられる",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は3063台、シェア約6.91%で、ドイツ、英国、イタリアを中心に産業用把持、研究グレードハンド、ソフトロボット技術に強みがある",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボットが量産段階へ進むにつれ、部品選定は性能最優先から、性能、コスト、寿命、供給安全性、量産一貫性を同時に満たす方向へ変化する",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "中流メーカー",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "産業顧客は安定性、寿命、把持成功率、生産ライン適合、部品供給、総保有コストを重視する",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットハンドがデモから実用展開へ移行するにつれ、自由度の数だけでなく、作業成功率、作業当たりコスト、故障間隔、ソフトウェアエコシステム、データフィードバック、供給継続性が購買判断の中心となる",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "中国メーカーは量産組立、国産マイクロアクチュエータ、センサーコスト低下、ヒューマノイド顧客との直接連携により、数万米ドル級の研究装置から数千米ドル級の量産部品へ市場を押し広げている",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、ロボットハンドの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、ロボットハンドの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "機械への位置決めと固定は位置決めユニット付きベースで、エア供給により自動化ができます",
+    "url": "https://www.nabeya.co.jp/download/pdf/flyer_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機械への位置決めと固定は位置決めユニット付きベースで、エア供給により自動化できます",
+    "url": "https://www.nabeya.co.jp/download/pdf/flyer_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "異形状部品への対応力、メーカーとの二人三脚",
+    "url": "https://www.haruchika.co.jp/feature/",
+    "pass": 3
+   },
+   {
+    "quote": "春近製作所は、メーカーと二人三脚で部品加工のご提案が可能",
+    "url": "https://www.haruchika.co.jp/feature/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーからの図面受領",
+    "url": "https://www.haruchika.co.jp/feature/",
+    "pass": 3
+   },
+   {
+    "quote": "作業者Bはメインの【組立て】工程の他に【整列供給】工程も担っています",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "対応せざるを得なかった【整列供給】工程をロボットで自動化",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "【整列から部品供給タイプ】",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "【整列から部品供給タイプ】エンドエフェクタの仕様はこちら",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "【バラバラから部品供給タイプ】",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "【バラバラから部品供給タイプ】エンドエフェクタの仕様はこちら",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "【バラバラから部品供給タイプ】カメラの仕様はこちら",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "DOBOTの開発元「Shenzhen Yuejiang Technology Co., Ltd」（DOBOT）は、中国・深圳に本社を置くロボットメーカーです",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "「姿勢変更」「方向揃え」「整列供給」「目視検査」といった、人手中心だった「典型的な作業」に機能を特化・最適化",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "整列から 部品供給タイプ",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "バラバラから 部品供給タイプ",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "整列から部品供給タイプ 主要構成",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "外部エア供給",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "バラバラから部品供給タイプ 主要構成",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "【整列から部品供給タイプ】対応エンドエフェクタ",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "計測のための機内洗浄や位相合わせなど、加工を中心としている工作機械メーカーだからこそ可能な提案をいたします",
+    "url": "https://www.mazak.co.jp/lp/automation/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー様と協力体制がありますので、常に最新の機器を取り揃えています",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "フローティング式スライド段替え機構で交換が早くなり、複数メーカーの治具も共通化することで生産調整やラインの制限がなくなりました",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "複数メーカーの冶具でも、段替えをスムーズにやりたい",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "他メーカー治具との段替えの共通化",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "現在の生産方式、タクトタイム、生産数量を一旦計測させていただいたうえでワークの供給方式、工程分割を再考させていただき、タクトタイムチャートフローを作成し直し、目標タクトをクリアできるようなロボット化のご提案もさせていただきます",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "治具(搬送) - メーカー・企業と業務用製品 | イプロスものづくり",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "治具のメーカーや取扱い企業、製品情報、参考価格、ランキングをまとめています",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "微小部品の搬送工程やFPC,薄物基板のリフロー工程で多くの実績を持つ「MagiCarrier（マジキャリー）」や高いシェアを持つフローはんだ付け搬送キャリア「MagiCarrier-DIP（ディップ）」等の搬送治具を豊富にラインナップ",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "各メーカーの、トランスファープレスや、タンデムプレスロボット用搬送具を設計、製作、シミュレーションを一貫して行うことにより、トライ時に発生する搬送具と金型の不具合を軽減し、トライ作業工数を削減します",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "その実績は大手自動車メーカーをはじめ、多くの工業製品メーカーへと広がっています",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "■メーカー指定可能",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "機械への位置決めと固定は位置決めユニット付きベースで、エア供給により",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー・取扱い企業",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーガイド",
+    "url": "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "pass": 3
+   },
+   {
+    "quote": "かつてのように「同じものを大量に作れば安くなる」という時代は終わり、顧客の多様なニーズに応じたカスタマイズや、小ロットでのタイムリーな供給が市場から厳しく求められている",
+    "url": "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "pass": 3
+   },
+   {
+    "quote": "一瞬で確実な脱着を可能にすることで、ロボットアームとの親和性を高め、後工程へのスムーズなワーク供給を実現している",
+    "url": "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車メーカー",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品メーカー",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "電機機器メーカー",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "搬送・供給・ロボット",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットには繰り返し位置決め精度がある一方、ワーク外形や供給姿勢にもばらつきがあるためです",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "サイクルタイムを短縮するには、ロボットの速度だけを見るのではなく、加工機、治具、供給装置、周辺設備の動作を時間軸上へ並べます",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械が加工している間に、次の未加工品を供給位置へ出す、排出側の空き状態を確認する、ロボットハンドを待機姿勢へ移動するといった準備ができれば、加工完了後の直列動作を減らせます",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "回転テーブルを用いた連続多面加工では、旋回中も必要な油圧・空圧を供給できるよう、治具、配管、回路をまとめて設計しています",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   }
+  ],
+  "日本企業の位置": [
+   {
+    "quote": "日本は1020台、韓国は928台であり、産業ロボット、研究プラットフォーム、ヒューマノイド関連開発が主な需要基盤である",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "中国メーカーは量産組立、国産マイクロアクチュエータ、センサーコスト低下、ヒューマノイド顧客との直接連携により、数万米ドル級の研究装置から数千米ドル級の量産部品へ市場を押し広げている",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "欧州と日本の企業は高級把持、産業信頼性、ソフトロボティクス、研究プラットフォームで強みを維持している",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト：",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における水酸化マグネシウムの市場規模：売上規模・シェア・主要事業者別ランキング、CAGR 5.76%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "として、日本国内のお客様に向けたソリューション・導入支援・技術サポートを提供しています",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "自社工場だけでなく、国内外にさまざまな協力工場を持ち、最適な品質、コスト、納期管理を行っています",
+    "url": "https://meisei-web.co.jp/2023-09-28/",
+    "pass": 3
+   },
+   {
+    "quote": "三葉電熔社は日本全国対応！",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "における情報を集めた国内最大級の技術データベースサイトです",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "複数車種の混流生産を省スペースで実現！独自の搬送機構と高い構想力で、国内外4ラインの導入実績",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "国内基幹工場から海外へも横展開され、計4ラインの導入実績を誇ります",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "実装ラインに必要な治工具関係を国内一貫生産",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本アルテック ソーラー関連",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本アルテック",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ファインセラミックス株式会社",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本クラビス",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "原材料価格の高騰や人手不足、さらには自動車業界の投資先送りなど、日本の製造業を取り巻く市場環境は激変している",
+    "url": "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の構造的課題である生産年齢人口の減少と、それに伴う現場の熟練技術者不足も、治具の役割を大きく変えつつある",
+    "url": "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "pass": 3
+   },
+   {
+    "quote": "（日本物流新聞2026年7月25日号掲載）",
+    "url": "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、創刊70年超のモノづくり専門紙「日本物流新聞」の編集部が制作しています",
+    "url": "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "pass": 3
+   },
+   {
+    "quote": "日本物流新聞社が運営",
+    "url": "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "pass": 3
+   },
+   {
+    "quote": "新日本工業の自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートファクトリーJapan",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本の中小製造業では多品種少量生産が当たり前であり、リピート品且つ大ロットの製品を受注しているケースの方が少ない為、溶接の自動化を検討する場合には必然的に多品種対応が求められます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-1547",
+    "pass": 3
+   },
+   {
+    "quote": "「双腕を有するロボットによるピックアンドプレースの動作計画」日本機械学会論文集C編, 78巻792号, 2012年, pp.2870-2883.",
+    "url": "https://ngpd.nikon.com/glossary/pick-and-place.html",
+    "pass": 3
+   }
+  ],
+  "政策・予算": [
+   {
+    "quote": "医療用途は2025年に3091万米ドル、売上シェア13.02%で、リハビリ支援、介護ロボット、実験室自動化、医療機器操作、遠隔操作訓練などを含む",
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "pass": 3
+   },
+   {
+    "quote": "当社担当が確認のうえ折り返しご連絡し、仕様や強度、ご予算、その他ご要望を伺いながら打ち合わせをおこないます",
+    "url": "https://www.haruchika.co.jp/feature/",
+    "pass": 3
+   },
+   {
+    "quote": "手厚い支援ラインナップ",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "を強力に支援します",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "ご支援内容を詳しく",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "として、日本国内のお客様に向けたソリューション・導入支援・技術サポートを提供しています",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様ご自身で運用していただくことを前提に、「自走できるようになるための支援」に特化",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "セルフ運用の足掛かりに！手厚い支援ラインナップ",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "ノウハウの資産化を支援し、誰でも迷わず使える環境を整備",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "ための支援体制、",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "スムーズな運用立ち上げをご支援します",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金や助成金の対象になりますか？",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "外部専門機関と連携し、補助金・助成金の活用をサポートします",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に補助金を活用して導入された事例もございますので、お気軽にご相談ください",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月22日(木)開催 ふくい産業支援センター主催「自動化入門講座」に登壇します",
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の現況を確認し、ご予算とご要望に合わせたご提案をいたします",
+    "url": "https://www.mazak.co.jp/lp/automation/",
+    "pass": 3
+   },
+   {
+    "quote": "搬送装置との連動でも、当社にて立ち上げを支援いたします",
+    "url": "https://www.mazak.co.jp/lp/automation/",
+    "pass": 3
+   },
+   {
+    "quote": "~ものづくり補助金申請代行",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金で投資回収も容易に",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "ご要望があればものづくり補助金の申請書作成代行も実施させていただきます",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金申請代行",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "補助金・助成金を活用",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット設備を検討していますが、補助金等は使えるものはありますか",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金などが使える場合があります",
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "海外向け設備搬入・立ち上げ支援",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "にも、ロボット自動化システム、専用加工機、専用検査機などの装置導入支援が記載されています",
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "pass": 3
+   },
+   {
+    "quote": "サカエは、検査を含む多様な工程で150社・1500台超※の自動化設備導入を支援してきた知見から、",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "タマディックの自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "新東工業の自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "東海テックの自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "ケーメックの自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "タイセイの自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイドーオートマチックファクトリーの自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "新日本工業の自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "メイテックの自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "明和工業の自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "三和電気通信建設の自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "近代精機の自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "サン電材社の自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "共和工機の自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "東海機械製作所の自動化支援──対応できる工程や特徴とは？",
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "pass": 3
+   },
+   {
+    "quote": "補助金を活用した溶接ロボット導入成功事例",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-1547",
+    "pass": 3
+   },
+   {
+    "quote": "【③】補助金を活用した多品種少量溶接ロボット導入成功事例",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-1547",
+    "pass": 3
+   },
+   {
+    "quote": "ワード技研の3Dスキャン・治具設計支援サービス",
+    "url": "https://note.com/word_giken/n/n6dabb24745b3",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界をはじめとする30年以上の設計支援実績を活かし、生産技術部門の治具設計をサポートします",
+    "url": "https://note.com/word_giken/n/n6dabb24745b3",
+    "pass": 3
+   },
+   {
+    "quote": "図面のない設備や複雑な形状の部品に対する治具設計でお困りの際は、3Dスキャンやリバースエンジニアリングを活用した設計支援も有効な選択肢となります",
+    "url": "https://note.com/word_giken/n/n6dabb24745b3",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、クラウド（IoTプラットフォーム）を介してワークデータを一元管理・配信することで、品種切り替え時の段取り作業の効率化を支援します",
+    "url": "https://ngpd.nikon.com/glossary/pick-and-place.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハンドビジョン方式によりリアルタイムで位置補正を行い、コンベアを停止させることなく連続した作業を支援します",
+    "url": "https://ngpd.nikon.com/glossary/pick-and-place.html",
+    "pass": 3
+   },
+   {
+    "quote": "The concluded CHIPART (Chips to Parts: Circularity of titanium scrap from machining to additive manufacturing) project, supported by the European Defence Agency, validates that titanium chips from aerospace suppliers can be converted into metal powder suitable for additive manufacturing without energy-intensive remelting.",
+    "url": "https://www.additivemanufacturing.media/articles/micro-robot-gripper-3d-printed-all-at-once-no-assembly-required-the-cool-parts-show-59",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.atpress.ne.jp/news/2281723",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/3650668",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyodo-robot.com/blog-prescription/202607-approach-to-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/ai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E7%94%A3%E6%A5%AD%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-119491",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000362067",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/industrial-robots-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-mechatronics.com/mailmgzn/backnumber/201803/mame.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techs-s.com/media/show/225",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.select-cobot.com/select/high-mix_low-volume.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fa.omron.co.jp/solution/case/our_002/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nabeya.co.jp/download/pdf/flyer_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.johnan.com/solution/challenge/automation-labor-saving/post_7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognex.com/ja/tools-and-resources/blogs-and-articles/winning-the-high-mix-challenge",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.haruchika.co.jp/feature/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://afrel-robotics.jp/operation-robot-package/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meisei-web.co.jp/2023-09-28/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mazak.co.jp/lp/automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/blog/small-lot-multi-product.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitzba.co.jp/robot-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.serendip-rxm.com/column/robot-introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/takamaru/product/detail/2000719232/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.huropt.com/assignment/automation-jig.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-1547",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/word_giken/n/n6dabb24745b3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngpd.nikon.com/glossary/pick-and-place.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/automated-3d-printing-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/PressReleases/3d-printing-robot.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/3d-printing-market-1031",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-robotic-grippers-market/119521/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mosaicmfg.com/robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technology.org/2026/10/08/how-3d-printing-is-transforming-robot-parts-materials-design-applications/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubs.com/knowledge-base/3d-printing-grips-jigs-and-fixtures/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/resources/blog/metal-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.unchainedrobotics.de/en/how-much-does-a-good-robotic-gripper-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ryse3d.com/pages/robotics-3d-printing?srsltid=AYCX9vLk2hGyglVdIl4wJjIYuQtxkww3o-ivB7iuQNKS2_ttOeGy_y--",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/articles/micro-robot-gripper-3d-printed-all-at-once-no-assembly-required-the-cool-parts-show-59",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://today.ucsd.edu/story/this-3d-printed-gripper-doesnt-need-electronics-to-function",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/164c536/3d_printed_passive_robot_grippers_generated_by/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://forgelabs.com/industries/robotics",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロボット用の治具・手先の多品種少量生産 市場規模 CAGR",
+   "results": [
+    "https://www.atpress.ne.jp/news/2281723",
+    "https://newscast.jp/smart/news/3650668",
+    "https://www.kyodo-robot.com/blog-prescription/202607-approach-to-automation",
+    "https://www.fortunebusinessinsights.com/jp/ai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E7%94%A3%E6%A5%AD%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-119491",
+    "https://www.dreamnews.jp/press/0000362067",
+    "https://straitsresearch.com/jp/report/industrial-robots-market",
+    "https://www.nabeya.co.jp/download/pdf/flyer_1.pdf",
+    "https://japan.zdnet.com/release/31205462/",
+    "https://www.serendip-rxm.com/column/robot-introduction/"
+   ]
+  },
+  {
+   "query": "ロボット用の治具・手先の多品種少量生産 需要 見通し 2030",
+   "results": [
+    "https://www.kyodo-robot.com/blog-prescription/202607-approach-to-automation",
+    "https://www.e-mechatronics.com/mailmgzn/backnumber/201803/mame.html",
+    "https://www.techs-s.com/media/show/225",
+    "https://www.select-cobot.com/select/high-mix_low-volume.html",
+    "https://www.fa.omron.co.jp/solution/case/our_002/",
+    "https://www.nabeya.co.jp/download/pdf/flyer_1.pdf",
+    "https://www.johnan.com/solution/challenge/automation-labor-saving/post_7.html",
+    "https://www.serendip-rxm.com/column/robot-introduction/",
+    "https://www.oki.com/jp/showroom/virtual/column/c-42.html"
+   ]
+  },
+  {
+   "query": "ロボット用の治具・手先の多品種少量生産 部品構成 コスト",
+   "results": [
+    "https://www.cognex.com/ja/tools-and-resources/blogs-and-articles/winning-the-high-mix-challenge",
+    "https://www.haruchika.co.jp/feature/",
+    "https://www.youtube.com/watch?v=q6zJhPQVENA",
+    "https://afrel-robotics.jp/operation-robot-package/",
+    "https://meisei-web.co.jp/2023-09-28/",
+    "https://www.mazak.co.jp/lp/automation/",
+    "https://www.e-mechatronics.com/mailmgzn/backnumber/201803/mame.html",
+    "https://www.nabeya.co.jp/download/pdf/flyer_1.pdf",
+    "https://www.exa-corp.co.jp/blog/small-lot-multi-product.html"
+   ]
+  },
+  {
+   "query": "ロボット用の治具・手先の多品種少量生産 シェア 主要企業",
+   "results": [
+    "https://www.cognex.com/ja/tools-and-resources/blogs-and-articles/winning-the-high-mix-challenge",
+    "https://www.haruchika.co.jp/feature/",
+    "https://www.kyodo-robot.com/blog-prescription/202607-approach-to-automation",
+    "https://www.youtube.com/watch?v=StaxWynRjSw",
+    "https://www.nabeya.co.jp/download/pdf/flyer_1.pdf",
+    "https://www.e-mechatronics.com/mailmgzn/backnumber/201803/mame.html",
+    "https://www.mitzba.co.jp/robot-solutions",
+    "https://www.serendip-rxm.com/column/robot-introduction/",
+    "https://mono.ipros.com/cg1/%E6%B2%BB%E5%85%B7/%E6%90%AC%E9%80%81/"
+   ]
+  },
+  {
+   "query": "ロボット用の治具・手先の多品種少量生産 日本企業",
+   "results": [
+    "https://www.cognex.com/ja/tools-and-resources/blogs-and-articles/winning-the-high-mix-challenge",
+    "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "https://www.youtube.com/watch?v=StaxWynRjSw",
+    "https://www.haruchika.co.jp/feature/",
+    "https://www.kyodo-robot.com/blog-prescription/202607-approach-to-automation",
+    "https://www.e-mechatronics.com/mailmgzn/backnumber/201803/mame.html",
+    "https://www.mitzba.co.jp/robot-solutions",
+    "https://pr.mono.ipros.com/takamaru/product/detail/2000719232/",
+    "https://www.nabeya.co.jp/download/pdf/flyer_1.pdf"
+   ]
+  },
+  {
+   "query": "ロボット用の治具・手先の多品種少量生産 不足 OR 中国依存",
+   "results": [
+    "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "https://www.kyodo-robot.com/blog-prescription/202607-approach-to-automation",
+    "https://www.mitzba.co.jp/robot-solutions",
+    "https://shinwagiken.com/global-fa-navi/knowledge/00248/",
+    "https://www.huropt.com/assignment/automation-jig.html",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-1547",
+    "https://note.com/word_giken/n/n6dabb24745b3",
+    "https://ngpd.nikon.com/glossary/pick-and-place.html"
+   ]
+  },
+  {
+   "query": "custom robot grippers fixtures 3D printed metal market size CAGR 2030",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/automated-3d-printing-market",
+    "https://www.marketsandmarkets.com/PressReleases/3d-printing-robot.asp",
+    "https://www.grandviewresearch.com/industry-analysis/metal-3d-printing-market",
+    "https://www.marketresearchfuture.com/reports/3d-printing-market-1031",
+    "https://www.youtube.com/watch?v=C1H7LrYf_RM",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.maximizemarketresearch.com/market-report/global-robotic-grippers-market/119521/",
+    "https://uk.finance.yahoo.com/news/global-automated-3d-printing-market-130000558.html",
+    "https://www.matec-conferences.org/articles/matecconf/pdf/2019/03/matecconf_mms18_02020.pdf",
+    "https://www.researchandmarkets.com/report/robotic-gripper"
+   ]
+  },
+  {
+   "query": "custom robot grippers fixtures 3D printed metal cost breakdown bill of materials",
+   "results": [
+    "https://www.youtube.com/watch?v=C1H7LrYf_RM",
+    "https://mosaicmfg.com/robotics/",
+    "https://www.technology.org/2026/10/08/how-3d-printing-is-transforming-robot-parts-materials-design-applications/",
+    "https://www.hubs.com/knowledge-base/3d-printing-grips-jigs-and-fixtures/",
+    "https://www.protolabs.com/resources/blog/metal-3d-printing-cost/",
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://blog.unchainedrobotics.de/en/how-much-does-a-good-robotic-gripper-cost",
+    "https://www.loctiteam.com/wp-content/uploads/2022/03/DSGN0020134_Robotic-Arm-Case-Study.pdf",
+    "https://www.fictiv.com/articles/robotic-arm-components-manufacturing",
+    "https://zorapid.com/custom-metal-3d-printing-cost-breakdown/"
+   ]
+  },
+  {
+   "query": "custom robot grippers fixtures 3D printed metal demand per unit humanoid OR drone OR robot",
+   "results": [
+    "https://www.youtube.com/watch?v=C1H7LrYf_RM",
+    "https://ryse3d.com/pages/robotics-3d-printing?srsltid=AYCX9vLk2hGyglVdIl4wJjIYuQtxkww3o-ivB7iuQNKS2_ttOeGy_y--",
+    "https://www.additivemanufacturing.media/articles/micro-robot-gripper-3d-printed-all-at-once-no-assembly-required-the-cool-parts-show-59",
+    "https://today.ucsd.edu/story/this-3d-printed-gripper-doesnt-need-electronics-to-function",
+    "https://www.reddit.com/r/3Dprinting/comments/164c536/3d_printed_passive_robot_grippers_generated_by/",
+    "https://forgelabs.com/industries/robotics",
+    "https://www.instagram.com/reel/Ded_iDhAIux/",
+    "https://www.amfg.ai/post/application-spotlight-3d-printing-for-robotic-grippers",
+    "https://en.wikipedia.org/wiki/Robot",
+    "https://www.marketsandmarkets.com/Market-Reports/us-humanoid-robot-market-40542925.html"
+   ]
+  },
+  {
+   "query": "site:note.com ロボット用の治具・手先の多品種少量生産",
+   "results": [
+    "https://note.com/seizou_dx_ai/n/n26466ca684ed",
+    "https://note.com/markusui/n/n1ed25548d5ba",
+    "https://note.com/word_giken/n/n6dabb24745b3",
+    "https://note.com/hiroki_morishima/n/n0f60941cdf65",
+    "https://note.com/09states/n/n73d8cd908932",
+    "https://note.com/fujimo777/n/n0a3f5f15a117",
+    "https://note.com/jrs1188/n/n21c55acd0f37",
+    "https://note.com/iceman_23/n/n119433739292",
+    "https://note.com/kagawatomo/n/ne461574525a5",
+    "https://note.com/kagawatomo/n/n08a83472be3d"
+   ]
+  },
+  {
+   "query": "site:x.com ロボット用の治具・手先の多品種少量生産",
+   "results": [
+    "https://x.com/KagawaTomo/article/2105560983125307675",
+    "https://x.com/KagawaTomo/article/2070260461032051111",
+    "https://x.com/AperzaTv",
+    "https://x.com/KagawaTomo/article/2070637514197696889",
+    "https://x.com/KagawaTomo/article/2070806985952674168",
+    "https://x.com/KagawaTomo/article/2072954701356974546",
+    "https://x.com/bitquark_co_ltd",
+    "https://x.com/minamidesign1",
+    "https://x.com/kuwabara3Dprint",
+    "https://x.com/KagawaTomo/status/2114252240265605568"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ロボット用の治具・手先の多品種少量生産",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3-surge-scale-5gxge",
+    "https://jp.linkedin.com/pulse/%E6%B4%9E%E5%AF%9F%E3%81%AB%E6%BA%80%E3%81%A1%E3%81%9F%E3%82%B8%E3%82%B0%E3%81%A8%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E5%B8%82%E5%A0%B4%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E6%88%90%E9%95%B7%E6%A9%9F%E4%BC%9A%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E7%AB%B6%E5%90%88%E5%88%86%E6%9E%90%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B85%E3%81%AEcagr2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7-7518341982226714624-vl8le",
+    "https://jp.linkedin.com/jobs/view/1410-manufacturing-quality-lead-autonomous-driving-at-tier-iv-4482467313",
+    "https://jp.linkedin.com/in/hiroyuki-uchida-a89b26104",
+    "https://jp.linkedin.com/pulse/%E6%89%8B%E5%8B%95%E3%83%94%E3%83%B3%E6%8C%BF%E5%85%A5%E6%A9%9F%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B0%86%E6%9D%A5%E5%8B%95%E5%90%91-2026-2033%E5%9C%B0%E5%9F%9F%E5%88%A5%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E5%88%A5%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E4%BA%88%E6%B8%ACcagr-143-dalbe",
+    "https://jp.linkedin.com/in/%E5%84%AA%E6%A8%B9-%E6%A8%AA%E4%BA%95-5421371b2",
+    "https://www.linkedin.com/pulse/次世代生産ライン誕生-natsuki-hayakawa",
+    "https://jp.linkedin.com/posts/recare-enomoto_多品種少量生産は製造dxの中で最も難易度が高い領域の一つです-理由は標準化と-activity-7472528417964388354-JBxl",
+    "https://jp.linkedin.com/posts/panasonic-welding_製造現場における熟練人材の不足や多品種少量生産への対応今多くの現場で設備稼働率-activity-7505128366371676160-y83a",
+    "https://www.linkedin.com/posts/dmgmorijapan_road-to-front-runner-vol47株式会社シンワ多品種少量生産-activity-7218932441456021504-VpK9"
+   ]
+  },
+  {
+   "query": "site:facebook.com ロボット用の治具・手先の多品種少量生産",
+   "results": [
+    "https://www.facebook.com/nsmt.co.jp/videos/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%8B%E3%82%A2%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%99%E3%82%A2%E8%87%AA%E5%8B%95%E5%8C%96%E4%BA%8B%E4%BE%8B%E3%83%A4%E3%83%9E%E3%83%8F%E7%99%BA%E5%8B%95%E6%A9%9F%E3%81%AE%E3%83%AA%E3%83%8B%E3%82%A2%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%99%E3%82%A2lcmr200%E3%81%8C%E3%82%B6%E3%83%91%E3%83%83%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%82%AE%E3%83%95%E3%83%88%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E7%AE%B1%E8%A9%B0%E3%82%81%E5%B7%A5%E7%A8%8B%E3%81%AB%E5%B0%8E%E5%85%A5%E3%81%95%E3%82%8C%E8%87%AA/2189231054893318/",
+    "https://www.facebook.com/sowaengineering.jp/",
+    "https://www.facebook.com/DMGMORI.CO/videos/dmgmori%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BFprecision-grinding-for-the-toughest-challenges-taiyo-koki-%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%AB%E5%BF%9C%E3%81%88%E3%82%8B/1412942137465417/",
+    "https://www.facebook.com/DMGMORI.CO/posts/increase-productivity-with-automation-system%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BFnlx-2500-/1377795177687649/",
+    "https://www.facebook.com/DMGMORI.CO/photos/1598728665594298/",
+    "https://www.facebook.com/DMGMORI.CO/posts/dmg-mori-exhibited-at-robot-technology-japan-2026%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-robot-technology-japan/1593862696080895/",
+    "https://www.facebook.com/DMGMORI.CO/posts/%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E7%99%BA%E8%A6%8B%E3%83%95%E3%82%A7%E3%82%A2%E3%81%AB%E5%87%BA%E5%B1%95%E5%BD%93%E7%A4%BE%E3%81%AF11%E6%9C%88%E4%B8%8B%E6%97%AC%E3%81%AB%E5%A5%88%E8%89%AF%E7%9C%8C%E4%B8%89%E9%87%8D%E7%9C%8C%E6%9D%B1%E4%BA%AC%E9%83%BD%E3%81%AE3%E3%81%8B%E6%89%80%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%93%E4%B8%BB%E5%82%AC%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E7%99%BA/1405300471603786/",
+    "https://www.facebook.com/DMGMORI.CO/posts/%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-lpp-nhx-6300-2nd-generation%E7%AB%8B%E4%BD%93%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AE%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E6%A3%9A%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0lpp%E3%83%AA%E3%83%8B%E3%82%A2%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%83%97%E3%83%BC%E3%83%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9/2384725748459673/",
+    "https://www.facebook.com/DMGMORI.CO/posts/2026%E5%B9%B4%E5%8D%92%E5%90%91%E3%81%91-%E5%86%AC%E6%9C%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E5%8B%9F%E9%9B%86%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B2026%E5%B9%B4%E5%8D%92%E5%90%91%E3%81%91-%E5%86%AC%E6%9C%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%81%AE%E5%8B%9F%E9%9B%86%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E6%A9%9F%E6%A2%B0%E8%A8%AD%E8%A8%88%E3%82%84%E9%9B%BB%E6%B0%97%E5%88%B6%E5%BE%A1%E8%A8%AD%E8%A8%88%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%8F%97%E4%BB%98%E8%B3%BC%E8%B2%B7%E3%81%AA/1047826534017850/",
+    "https://www.facebook.com/DMGMORI.CO/photos/%E9%96%8B%E7%99%BA%E3%83%95%E3%83%AD%E3%82%A2%E3%81%AE%E3%82%AB%E3%83%95%E3%82%A7%E3%81%A7%E3%81%AE%E6%89%93%E5%90%88%E3%81%9B%E9%A2%A8%E6%99%AF%E3%81%93%E3%81%A1%E3%82%89%E3%81%AF%E9%96%8B%E7%99%BA%E9%96%A2%E9%80%A3%E5%9B%B3%E6%9B%B8%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E3%81%AB%E9%9A%A3%E6%8E%A5%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99/1745313052400949/?locale=bn_IN"
+   ]
+  },
+  {
+   "query": "ロボット用の治具・手先の多品種少量生産 note 社長",
+   "results": [
+    "https://note.com/markusui/n/n1ed25548d5ba",
+    "https://www.youtube.com/watch?v=StaxWynRjSw",
+    "https://www.kyodo-robot.com/blog-prescription/202607-approach-to-automation",
+    "https://www.haruchika.co.jp/feature/",
+    "https://note.com/seizou_dx_ai/n/n26466ca684ed",
+    "https://www.nabeya.co.jp/download/pdf/flyer_1.pdf",
+    "https://www.e-mechatronics.com/mailmgzn/backnumber/201803/mame.html",
+    "https://www.robot-digest.com/contents/?id=1600957840-222605",
+    "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "https://note.com/majisemi/n/nf6c02fcf7dcb"
+   ]
+  },
+  {
+   "query": "ロボット用の治具・手先の多品種少量生産 X 投稿",
+   "results": [
+    "https://www.kyodo-robot.com/blog-prescription/202607-approach-to-automation",
+    "https://www.nabeya.co.jp/download/pdf/flyer_1.pdf",
+    "https://www.e-mechatronics.com/mailmgzn/backnumber/201803/mame.html",
+    "https://matsumototekko.co.jp/2026/06/30/hmlvautomation/",
+    "https://www.serendip-rxm.com/column/robot-introduction/",
+    "https://afrel-robotics.jp/media/case/post-8016/",
+    "https://xtech.mec.co.jp/articles/11724",
+    "https://www.tesollo.com/jp/news/press/tesollotechman-robot",
+    "https://monoque.jp/feature/contents/b525ca068167112affb115834047b2db751fee13/",
+    "https://www.fa.omron.co.jp/product/special/library/robotics/highmixlowvolume-production/"
+   ]
+  },
+  {
+   "query": "custom robot grippers fixtures 3D printed metal site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/how-3d-printed-custom-tools-help-manufacturers-improve-productivity-uom0f",
+    "https://www.linkedin.com/posts/prototype-projects-ltd_sls3dprinting-industrialautomation-rapidprototyping-activity-7520773634626502656-C1aP",
+    "https://www.linkedin.com/posts/zieglerr_robot-as-a-3d-printer-laser-metal-deposition-activity-7384164781181669376-FGlx",
+    "https://www.linkedin.com/posts/ilir-aliu_robotics-meets-3d-printing-a-six-axis-robotic-activity-7387740974619275264-h47w",
+    "https://www.linkedin.com/posts/zieglerr_about-a-robot-that-became-a-3d-printer-activity-7514595061456674816-BKbp",
+    "https://www.linkedin.com/pulse/what-factory-future-look-like-robots-ai-3d-printing-qu6zc",
+    "https://www.linkedin.com/posts/markforged_at-lean-machine-metal-fabrication-inc-3d-printed-activity-7518276436965691392-xZ2C",
+    "https://www.linkedin.com/posts/precise-3dhub_precise-3dprinting-additivemanufacturing-activity-7495708630688755712-3efl",
+    "https://www.linkedin.com/posts/oleksandr-gudzenko-a2108582_step-by-step-automation-is-taking-over-more-activity-7518250384277151744-EyP9",
+    "https://www.linkedin.com/pulse/3d-printed-jigs-fixtures-grippers-smarter-way-support-production-suyoc"
+   ]
+  }
+ ],
+ "missing": {}
+}
