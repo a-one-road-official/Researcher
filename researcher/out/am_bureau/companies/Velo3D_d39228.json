@@ -1,0 +1,2025 @@
+{
+ "name": "Velo3D",
+ "aliases": [
+  "Velo3D Inc"
+ ],
+ "context": "海外・装置と受託へ移行（上場）",
+ "researched_at": "2026-11-04T10:41:31.137265+00:00",
+ "official_url": "https://www.velo3d.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Sales and Marketing",
+    "value": "43 25.2%",
+    "url": "https://www.reveliolabs.com/companies/velo3d/employees",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "2014",
+    "url": "https://www.reveliolabs.com/companies/velo3d/employees",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "Employees",
+    "value": "173",
+    "url": "https://www.reveliolabs.com/companies/velo3d/employees",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "株主構成": [
+   {
+    "quote": "Investors",
+    "url": "https://www.velo3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "02 — FULL OWNERSHIP",
+    "url": "https://www.velo3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.velo3d.com/sapphire",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.velo3d.com/sapphire-xc",
+    "pass": 1
+   },
+   {
+    "quote": "forwarded to the Velo3D, Inc. buyer immediately. Any change to supplier name, ownership or",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Investors",
+    "url": "https://ir.velo3d.com/financial-information/financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "investors@velo3d.com",
+    "url": "https://ir.velo3d.com/financial-information/financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "pass": 3
+   },
+   {
+    "quote": "investors@velo3d.com",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "pass": 3
+   },
+   {
+    "quote": "and the challenges of conveying a comprehensive picture to investors, citing regulatory limitations and market reactions to financial disclosures.",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "Addressing what the market misunderstands about Velo3D, Kreger pointed to the need for clearer communication about the company’s growth, market opportunities, and execution capabilities. He emphasized the importance of articulating a sustainable and profitable vision to investors, suggesting that better communication could align market perceptions with the company’s strategic direction.",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.reveliolabs.com/companies/velo3d/employees",
+    "pass": 3
+   }
+  ],
+  "設備台数": [
+   {
+    "quote": "Printers",
+    "url": "https://www.velo3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Printers",
+    "url": "https://www.velo3d.com/sapphire",
+    "pass": 1
+   },
+   {
+    "quote": "Sapphire & Sapphire 1MZ Printers",
+    "url": "https://www.velo3d.com/sapphire",
+    "pass": 1
+   },
+   {
+    "quote": "Compare the build volumes of our Sapphire printers. The standard Sapphire offers 400mm of build height, while the Sapphire 1MZ extends to 1000mm for taller components—both maintaining the same 315mm diameter.",
+    "url": "https://www.velo3d.com/sapphire",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re printing prototype parts or full-scale production components, Sapphire printers offer consistent results across global sites—with one print file per part usable on any Sapphire printer worldwide.",
+    "url": "https://www.velo3d.com/sapphire",
+    "pass": 1
+   },
+   {
+    "quote": "Printers",
+    "url": "https://www.velo3d.com/sapphire-xc",
+    "pass": 1
+   },
+   {
+    "quote": "All Sapphire printers provide exceptional supply chain scalability with one print file per part that works on any Sapphire worldwide.",
+    "url": "https://www.velo3d.com/sapphire-xc",
+    "pass": 1
+   },
+   {
+    "quote": "Sapphire printers provide real-time layer-by-layer tracking of optical alignment, atmospheric validation, and powder bed health.",
+    "url": "https://www.velo3d.com/sapphire-xc",
+    "pass": 1
+   },
+   {
+    "quote": "在庫の増加は、迅速な生産ソリューションの継続的な導入や、大規模な添加製造技術の拡大によるものです",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "以前は、年末までに40台のプリンターを導入することを目標としていました",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、年末までに40台の機械を稼働させる予定です（フレモントに25台、リバーモアに15台）",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "現在の需要を満たすためには100台の機械が必要であり、2027年末までには75～80台の機械の生産能力が得られる予定です",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、年末までにフリモントで25台、リバモアで10～15台の生産能力を確保する計画です",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "また、2027年末までにはさらに40台の機械を導入し、合計で75～80台の生産能力を目指しています",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "これらが、実際に多くの効率化や品質保証を促進するものなのでしょうか？また、高度な製造業の導入にも役立つ可能性はありますか？",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue jumped 50% to $20.7M, gross margin turned positive, and they’re targeting 40 machines by year-end with Livermore ramping later.",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "40 machines by year-end? Impressive.",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "Kinda new to AM, but the 25–30% RPS target sounds big. Do they plan to keep adding machines beyond 2027?",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "Nice guide, but guidance often lags execution. RPS at 25-30% and 40 machines by year-end sound optimistic; margins above 30% in H2 isn’t guaranteed.",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3Dが金属3Dプリンター量産拠点を稼働、100台規模へ拡張可能 - FabScene（ファブシーン）",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3Dが金属3Dプリンター量産拠点を稼働、100台規模へ拡張可能",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター大手の米Velo3Dは2026年7月21日、米カリフォルニア州リバモアに開設した量産拠点「Forge 1」を正式に稼働させたと発表した",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "延べ床面積約2万6800平方メートル、開所時点で大型金属積層造形システム40台以上を設置できるインフラを備え、将来は100台を超える規模まで拡張できる",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "フレモントとリバモアの両拠点を合わせると、最大125台の金属3Dプリンターを稼働させる計画だ",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "稼働は段階的に進め、システムの設置と認定が完了した順に生産能力を積み上げていくとしている",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "車の盗難防止装置に脆弱性、220万台がBluetooth経由で解錠される恐れ",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "黒電話2台で内線や留守番電話が使えるESP32基板「Analog Redial」",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ1万円台でロボットを配るのか？NVIDIAが2兆円で買ったハギングフェイスの歴史",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "そのケーブルは充電専用？ 3000円台で分かるUSB Cable Checker Lite",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "カメラ3台で自分の姿勢を確かめてブロックを運ぶ3Dプリント製ロボットアーム",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "関連記事から、導入範囲と比較軸を続けて確認できます",
+    "url": "https://seisan-navi.com/20260429-am-velo3d/",
+    "pass": 3
+   },
+   {
+    "quote": "A new 289,000 square foot campus with nearly 10 million cubic feet of production space, purpose built for 100+ metal 3D printers to deliver the qualified production capacity manufacturers need to scale with confidence.",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D is a metal 3D printing technology company that enables customers to build mission-critical metal parts. The fully integrated solution includes the Flow print preparation software, the Sapphire® family of printers, and the Assure quality control system—all of which are powered by Velo3D's Intelligent Fusion® manufacturing process.",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Aerospace",
+    "url": "https://www.velo3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.velo3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid prototyping for defense systems",
+    "url": "https://www.velo3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce 80+ parts into a single continuous print. Push the boundaries of performance. From the advanced engineering behind SpaceX’s reusable rockets to mission-critical defense applications, our technology opens new frontiers for production.",
+    "url": "https://www.velo3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.velo3d.com/sapphire",
+    "pass": 1
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.velo3d.com/sapphire",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid prototyping for defense systems",
+    "url": "https://www.velo3d.com/sapphire",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.velo3d.com/sapphire-xc",
+    "pass": 1
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.velo3d.com/sapphire-xc",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid prototyping for defense systems",
+    "url": "https://www.velo3d.com/sapphire-xc",
+    "pass": 1
+   },
+   {
+    "quote": "Supplier will comply with the Defense Federal Acquisition Regulation",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "drive innovation in defense, enhance aerospace applications, optimize transportation, and",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "V elo3D is committed to providing our customers with the highest quality",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "day and guides every step of our journey with customers.",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "industries including Aerospace, Semiconductor, Oil & Gas, Transportation and Defense. Our",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "defect-free products and services to our customers. As we collaborate with our suppliers, we",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "customers. As a supplier to Velo3D, Inc., you will have a Supply Chain Representative and",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "parts/materials discovered by other customers. Also lists potential suppliers associated with the",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "other applicable laws or regulations. Supplier will comply with the Defense Federal Acquisition",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "When applicable qualifying orders are Certified for National Defense under DPAS (a rated order",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "certified for national defense use and the contractor shall follow all the requirements of the",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Defense Priorities and Allocations System regulation. (15 CFR 700)); this will be listed as a",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Velo3D customers. NCRs must be communicated immediately to Velo3D for evaluation,",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Velo3D, Inc. is committed to providing notification of Product Obsolescence to our customers in as",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "communicate to our customers so that the flow of product will not be disrupted. The following",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "As a supplier to the aerospace industry, Velo3D, Inc. and its suppliers must comply with and follow",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Regulation (FAR) and the Department of Defense Federal Acquisition Regulation Supplement",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "national defense under (DPAS) regulations (15 C.F.R. Part 700), Velo3D and its suppliers are",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "252.204-7012 All Safeguarding Covered Defense Information and Cyber Incident Reporting",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ii. For Department of Defense contracts only, a penalty equal to the amount of the",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "covering metal additive manufacturing for defense and energy applications. The company also reported preliminary third-quarter revenue of",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "What does VELO's Sandia CRADA cover for defense work?",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "1年前、顧客や市場全体で強い需要が見られた",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの協力関係は、金属添加型製造技術の応用を促進し、生産規模での添加型製造ソリューションに対する顧客の需要を支援することを目的としています",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、現在の顧客と、将来の新規顧客との違いです",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛備蓄、AI駆動型のエネルギー需要、宇宙競争などの要因により、航空宇宙、防衛、エネルギー分野での需要が高まっています",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛関連の需要は、無人車両や兵器の開発プロジェクトによって促進されています",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙関連の需要は、ロケットエンジンの開発や生産規模の拡大により加速しています",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense and energy demand looks real; Velo3D is well-positioned.",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense budgets and AI data centers are the tailwinds; if rates stay higher-for-longer, capex discipline matters more than headline margins.",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "Seen this movie with AM players before: strong quarters, capacity teething problems, and then a clean run. Velo3D’s backlog and multi-year defense/energy contracts help, but I’d wait for Livermore production data before trusting the 30%+ gross margin.",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は米カリフォルニア州フレモントの本社を、研究開発や試作、顧客との共同開発、量産前の認定作業を担う拠点として維持する一方、Forge 1は量産段階に移った案件を大量生産するための施設と位置づける",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Forge 1では機械の組み立てから量産規模での造形、後処理、検査、品質保証、顧客による受け入れ試験までを1カ所で完結できる",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "発表によると、Forge 1の開設は航空宇宙、防衛、エネルギーといった分野で高まる量産需要に応えるものだという",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ラズパイでISSなど宇宙機4機をブラウン管に映す管制室風ソフト「mctl」",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "19世紀の写真技法ダゲレオタイプ、半導体の成膜技術で銀板を自作",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ3Dプリンターは金型に勝てないのか──6500年変わらない量産の絶対王者",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形（AM、いわゆる3Dプリンティング）技術は、試作の段階を越え、航空宇宙や防衛といった要求水準の高い分野で最終製品の製造手段として採用が広がりつつあります",
+    "url": "https://seisan-navi.com/20260429-am-velo3d/",
+    "pass": 3
+   },
+   {
+    "quote": "金型を必要とせず、複雑な形状や内部構造を持つ部品を一体で製造できることから、次世代の製造技術として大きな期待が寄せられてきました",
+    "url": "https://seisan-navi.com/20260429-am-velo3d/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、元記事でも触れられている航空宇宙や防衛分野がその筆頭です",
+    "url": "https://seisan-navi.com/20260429-am-velo3d/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、日本の製造業が得意とする高性能な産業機械やエネルギー関連機器、精密金型といった分野にも通じる考え方です",
+    "url": "https://seisan-navi.com/20260429-am-velo3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D Triples Production Capacity to Meet Strong Defense and Aerospace Demand :: Velo3D, Inc. (VELO)",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D Triples Production Capacity to Meet Strong Defense and Aerospace Demand",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "pass": 3
+   },
+   {
+    "quote": "Together, the two facilities create a comprehensive manufacturing ecosystem that enables customers to move from concept and qualification through production with a single trusted partner.",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D is a metal 3D printing technology company that enables customers to build mission-critical metal parts. The fully integrated solution includes the Flow print preparation software, the Sapphire® family of printers, and the Assure quality control system—all of which are powered by Velo3D's Intelligent Fusion® manufacturing process.",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.prnewswire.com/news-releases/velo3d-triples-production-capacity-to-meet-strong-defense-and-aerospace-demand-302814468.html",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Dental",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   }
+  ],
+  "売上・受託売上": [
+   {
+    "quote": "Contact Sales –",
+    "url": "https://www.velo3d.com/sapphire",
+    "pass": 1
+   },
+   {
+    "quote": "business standards in advertising, sales and competition.",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "covering metal additive manufacturing for defense and energy applications. The company also reported preliminary third-quarter revenue of",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "approximately $19.5 million to $20.5 million",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "How has VELO's valuation changed on a sales basis?",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue vs. Earnings",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Price/Sales (ttm)",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Value/Revenue",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue (ttm)",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue jumped 50% to $20.7M, gross margin turned positive, and they’re targeting 40 machines by year-end with Livermore ramping later.",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "Everyone’s cheering the backlog and capacity plans, but I’m noticing the revenue cadence is still sequential; guidance assumes a ramp-up, not a breakout. Until gross margin consistently exceeds 30% and EBITDA shows, this feels like incremental growth, not transformation.",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue up 52% to $20.7M, gross margin 21.5% to 30%+, backlog $31M, and 40 capacity by year-end; RPS ~25-30% of revenue.",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "Crealityが上半期に最大15億円の赤字見通し、上場3カ月で黒字から転落",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "大学生時代にカジノサークルで稼いだ1億円で起業、世界的ソフトウェアを生み出した男の話",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "A new 289,000 square foot campus with nearly 10 million cubic feet of production space, purpose built for 100+ metal 3D printers to deliver the qualified production capacity manufacturers need to scale with confidence.",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "pass": 3
+   },
+   {
+    "quote": "270,000 square feet of production space with 36 feet clear heights - nearly 10 million cubic feet of manufacturing volume",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue / Employee",
+    "url": "https://stockanalysis.com/stocks/velo/employees/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D reports preliminary Q3 revenue $19.5M-$20.5M, consensus $19.49M",
+    "url": "https://stockanalysis.com/stocks/velo/employees/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D Announces Preliminary Third Quarter 2026 Revenue of Approximately $19.5 Million to $20.5 Million, Representing Year-over-Year Growth of Approximately 43% to 51%",
+    "url": "https://stockanalysis.com/stocks/velo/employees/",
+    "pass": 3
+   },
+   {
+    "quote": "), and Sales and Marketing (",
+    "url": "https://www.reveliolabs.com/companies/velo3d/employees",
+    "pass": 3
+   },
+   {
+    "quote": "), with Sales and Marketing growing fastest (up",
+    "url": "https://www.reveliolabs.com/companies/velo3d/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Sales and Marketing",
+    "url": "https://www.reveliolabs.com/companies/velo3d/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D (VELO) Revenue 2019-2026",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D Revenue",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D had revenue of $20.66M in the quarter ending June 30, 2026, with 52.25% growth. This brings the company's total for the last twelve months to $57.56M, up 31.52% year-over-year. In the year 2025, Velo3D had annual revenue of $45.97M with 12.12% growth. That makes Velo3D the 26,920th largest company in the world by revenue and 3,677th in the United States.",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue (ttm)",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Growth",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue / Employee",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Chart",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue by Geography",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue History",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue data is provided by",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "and updates within minutes after each earnings release, which is every three months for this company. Revenue geography data is provided by",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Definition",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue, also called sales, is the amount of money a company receives from its business activities, such as sales of",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Rankings",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D reports preliminary Q3 revenue $19.5M-$20.5M, consensus $19.49M",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D Announces Preliminary Third Quarter 2026 Revenue of Approximately $19.5 Million to $20.5 Million, Representing Year-over-Year Growth of Approximately 43% to 51%",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   }
+  ],
+  "料金・単価": [
+   {
+    "quote": "Whether you’re printing prototype parts or full-scale production components, Sapphire printers offer consistent results across global sites—with one print file per part usable on any Sapphire printer worldwide.",
+    "url": "https://www.velo3d.com/sapphire",
+    "pass": 1
+   },
+   {
+    "quote": "All Sapphire printers provide exceptional supply chain scalability with one print file per part that works on any Sapphire worldwide.",
+    "url": "https://www.velo3d.com/sapphire-xc",
+    "pass": 1
+   },
+   {
+    "quote": "Supplier will not engage in collusive bidding, price fixing, price discrimination or other unfair",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4. The order quantity and accuracy of price.",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "deliberation amongst various departments within V elo3D, Inc., but price negotiation and",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "a. If any price (including profit or fee) negotiated in connection with the prime contract",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "support of its cost estimate. If any reduction in the contract price under this clause reduces",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "the price of items for which payment was made prior to the date of the modification",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "reflecting the price reduction, the seller shall be liable and shall pay the buyer at the time",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Velo3D, Inc. (VELO) Stock Price, News, Quote & History - Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "NasdaqCM - Nasdaq Real Time Price",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Analyst Price Targets",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Price Action",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Price Target",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Price/Sales (ttm)",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Price/Book (mrq)",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "非GAAP基準による運営費用は、4500万ドル～5500万ドルの範囲で維持されると予想されます",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "収益の増加は、平均販売価格の上昇とRPSの収益の増加によってもたらされました",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "その金額を四半期ごとに具体的に示すことはできますか？また、今後も同じような追加費用が発生することが予想されますか？",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "3DプリンターとUVプリンターの複合機HeyGears「G1」、Kickstarterで32万円から",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Snapmakerがオープンソースの3Dプリント開発に約2400万円の支援基金",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Crealityが上半期に最大15億円の赤字見通し、上場3カ月で黒字から転落",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ1万円台でロボットを配るのか？NVIDIAが2兆円で買ったハギングフェイスの歴史",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "そのケーブルは充電専用？ 3000円台で分かるUSB Cable Checker Lite",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "290円から選べるRISC-Vマイコン「CH32」、4種のチップ選び方ガイド",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "そのソーラーパネル、本当に発電してる？ 2000円以下の電源測定ボード「Power Monitor V1」",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "予算5万円で始めるフィジカルAI──ソフトウェアエンジニアのためのロボットアーム「SO-ARM101」入門",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAが2兆円で買収「ハギングフェイス」は、なぜロボットをばらまくのか",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "大学生時代にカジノサークルで稼いだ1億円で起業、世界的ソフトウェアを生み出した男の話",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "Instant 3D Printing Quote",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "Now CEO, Kreger was appointed interim in December 2023, after it was announced Benny Buller, the founder, would be stepping down at the board’s request after a prolonged period where Velo’s share price languished below a dollar.",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "Forget Transformers; what about the Rise of the Share Price?",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "And yet, despite all this seemingly good news, Velo’s share price refuses to budge. What does Kreger feel the market hasn’t grasped? “I think we’ve put a lot of confusing signals out,” Kreger admitted, highlighting the complexities of investor communications for a publicly traded entity like Velo3D. Kreger acknowledged the company’s",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "NASDAQ: VELO · Real-Time Price · USD",
+    "url": "https://stockanalysis.com/stocks/velo/employees/",
+    "pass": 3
+   },
+   {
+    "quote": "NASDAQ: VELO · Real-Time Price · USD",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙への輸送コスト（キログラム単価）は、かつての数千万円から数万円レベルまで下がる可能性があります",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   }
+  ],
+  "最大案件・量産": [
+   {
+    "quote": "Updated Section II (Purchase Orders) and Section IV (b) to require",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Section II Purchase Orders 14",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Purchase Order Changes/Engineering Changes 15",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Disputes – government contracts 27",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Quality Representative dedicated to providing the most up-to-date information available in order to",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Order requirements, as described below. This Manual applies to all existing suppliers and potential",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• Franchised Distributor – A distributor with which the OEM has a contractual agreement to buy,",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "to sell or redistribute, whom is not contractually obligated to represent the OEM.",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "characteristic that conforms completely to the drawings, specifications, or contract requirements.",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "to the applicable drawings, specifications or contract requirements.",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "independent contractors, directors, but to our suppliers as well. Velo3D provides standards for",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "requirements defined above. Continued business is awarded to suppliers based on their quality, on-",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "under any prior contract, order, or inspection.",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Supplier agrees to provide Velo3D, Inc. with notice in writing prior to acceptance of an order if",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Supplier is not an original or franchised source for any item listed on such order.",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Supplier agrees that by accepting a purchase order from Velo3D, Inc. that they are accepting the",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• If suspect/counterfeit parts/materials are furnished under a Velo3D, Inc. purchase order",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "removal and replacement of said items as specified in the purchase order requirements",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "additional to any other or further remedies provided in law or equity or in any contract between",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Supplier agrees to include the requirements of this policy in any subcontract at any tier for the",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "uphold any financial obligations previously stated in purchase orders or other written",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "identified below; (2) its obligations under any Purchase Order or contract (3) compliance with any",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Purchase Orders",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "The supplier is responsible for reviewing and meeting all of the Velo3D, Inc.’s purchase order",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. Purchase order number.",
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Seen this movie with AM players before: strong quarters, capacity teething problems, and then a clean run. Velo3D’s backlog and multi-year defense/energy contracts help, but I’d wait for Livermore production data before trusting the 30%+ gross margin.",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "Interesting_Award_86",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3Dが金属3Dプリンター量産拠点を稼働、100台規模へ拡張可能 - FabScene（ファブシーン）",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3Dが金属3Dプリンター量産拠点を稼働、100台規模へ拡張可能",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター大手の米Velo3Dは2026年7月21日、米カリフォルニア州リバモアに開設した量産拠点「Forge 1」を正式に稼働させたと発表した",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "延べ床面積約2万6800平方メートル、開所時点で大型金属積層造形システム40台以上を設置できるインフラを備え、将来は100台を超える規模まで拡張できる",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は米カリフォルニア州フレモントの本社を、研究開発や試作、顧客との共同開発、量産前の認定作業を担う拠点として維持する一方、Forge 1は量産段階に移った案件を大量生産するための施設と位置づける",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "フレモントとリバモアの両拠点を合わせると、最大125台の金属3Dプリンターを稼働させる計画だ",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Forge 1では機械の組み立てから量産規模での造形、後処理、検査、品質保証、顧客による受け入れ試験までを1カ所で完結できる",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "発表によると、Forge 1の開設は航空宇宙、防衛、エネルギーといった分野で高まる量産需要に応えるものだという",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3Dは、大型のレーザー粉末床溶融結合（LPBF）方式の装置を手がけるメーカーの中で、米国で創業し、ハードウェアの製造からソフトウェアの開発までを自国内で完結させている数少ない企業だとしている",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAがJetson全製品を値上げ、最大101％増でNanoは2倍に",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Crealityが上半期に最大15億円の赤字見通し、上場3カ月で黒字から転落",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Seeed、電池で最大2年もつ電子ペーパーの表示キット2種を発売",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "【レビュー】Bambu Lab A1 miniで量産は可能？ 後付け自動プレート交換機「PlateCycler C1M」を検証",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ3Dプリンターは金型に勝てないのか──6500年変わらない量産の絶対王者",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、プロセスの安定性を確保し、常に均一な品質の製品を造形することも、量産適用における重要な課題とされてきました",
+    "url": "https://seisan-navi.com/20260429-am-velo3d/",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアの性能だけでなく、設計データが正しく造形に反映されているか、プロセスが安定しているかをリアルタイムで監視・記録できる仕組みは、量産部品に求められるトレーサビリティや品質保証体制の構築において不可欠な要素と言えるでしょう",
+    "url": "https://seisan-navi.com/20260429-am-velo3d/",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMのポテンシャルを最大限に引き出すには、従来の切削や鋳造を前提とした設計思想から脱却し、「積層造形のための設計（DfAM: Design for Additive Manufacturing）」へと発想を転換することが不可欠です",
+    "url": "https://seisan-navi.com/20260429-am-velo3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Xact Metal goes big: XM300G orders open after record quarters",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "従来の鍛造316Lステンレス鋼と比較して、降伏強度が最大400%向上し、引張強度も60%増加するという劇的な特性改善を達成している",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   },
+   {
+    "quote": "これらを進化させるための最大の障壁は、常に「材料の限界」にありました",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象技術である「ODS合金」や高融点金属のAM化は、ここが最大のターゲットの一つです",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   },
+   {
+    "quote": "冷却効率の最大化",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Velo3D, Inc. (VELO) Stock Price, News, Quote & History ... — Find the latest Velo3D, Inc. (VELO) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D (VELO) Stock Price & Overview親会社 - Wikipedia株主検索 | バフェット・コード【日本の大株主】トップページ｜株探子会社 - WikipediaVELO: Velo3D Inc Latest Stock Price, Analysis, News and ... — 13 hours ago · A detailed overview of Velo3D, Inc. (VELO) stock, including real-time price, chart, key statistics, news, and more. 親会社 （おやがいしゃ、 英: Parent company）とは、 資本参加 、 営業 の 賃貸借 、 経営 委任 、 役員 派遣 などの方法により、 子会社 を 支配 する 会社 （支配会社）のことである。また、",
+    "url": "https://stockanalysis.com/stocks/velo/",
+    "pass": 3
+   },
+   {
+    "quote": "VELO | Velo3D Inc. Stock Overview (U.S.: Nasdaq) | Barron's — 28 minutes ago · Complete Velo3D Inc. stock information by Barron's. View real-time VELO stock price and news, along with industry-best analysis.",
+    "url": "https://www.barrons.com/market-data/stocks/velo",
+    "pass": 3
+   },
+   {
+    "quote": "Financial Results :: Velo3D, Inc. (VELO) — Jun 30, 2026 · Velo, Velo3D, Sapphire and Intelligent Fusion are registered trademarks of Velo3D, Inc. Without Compromise, Flow, Flow Developer and Assure are trademarks of Velo3D, Inc.",
+    "url": "https://ir.velo3d.com/financial-information/financial-results",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3DのRPS収益とプリンター容量に関する情報が、2026年のエクイティ... — Aug 11, 2026 · Velo3Dのバックログが増加しました。 3100万ドル 、上から 1600万ドル 1年前、顧客や市場全体で強い需要が見られた。 在庫の増加は、迅速な生産ソリューションの継続的な導入や、大規模な添加製造技術の拡大によるものです。",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D、第3四半期の速報売上高が前年比43%～51%増と発表 執筆： Inve... — Oct 15, 2026 · カリフォルニア州フリーモント発 - Velo3D, Inc.（NASDAQ:VELO）は本日、2026年9月30日に終了した第3四半期の暫定未監査売上高を発表した。 金属積層造形技術企業である同社は、第3四半期の売上高が約1,950万ドルから2,050万ドルの範囲になると見込んでいる。",
+    "url": "https://jp.investing.com/news/company-news/article-93CH-1713217",
+    "pass": 3
+   },
+   {
+    "quote": "金属3D打印营收大增48%，Velo3D发布2026年Q1财报，国防航空需求强劲 — May 19, 2026 · 2026年5月18日，南极熊获悉，近日，美国金属3D打印企业Velo3D（纳斯达克：VELO）公布2026年第一季度（截至3月31日）财务报告，数据显示营收同比大幅 ...",
+    "url": "https://news.qq.com/rain/a/20260519A02EIZ00",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D, Inc. Q4 FY2025 決算説明会 - finance.biggo.jp — Mar 24, 2026 · Velo3D, Inc.は2025会計年度第4四半期において、売上高が製品ミックスと政府機関の閉鎖タイミングの影響で前年比25％減の940万米ドルとなるなど混合的な業績を報告しました",
+    "url": "https://finance.biggo.jp/quote/VELO/earnings-call/US_VELO_2026-03-24",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3Dが金属3Dプリンター量産拠点を稼働、100台規模へ拡張可能 - Fab... — 金属3DプリンターメーカーのVelo3Dが、米カリフォルニア州リバモアの量産拠点「Forge 1」を稼働開始。延べ床面積約2万6800平方メートルで大型造形システム40台以上に対応し、将来は100台超に拡張可能。フレモント本社と合わせ最大125台体制を計画する。",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形（AM）の進化とハイエンド市場への展開 ― Velo3D社の事例... — Apr 29, 2026 · 金属積層造形（AM）の進化とハイエンド市場への展開 ― Velo3D社の事例から 金属積層造形（AM、いわゆる3Dプリンティング）技術は、試作の段階を越え、航空宇宙や防衛といった要求水準の高い分野で最終製品の製造手段として採用が広がりつつあります。",
+    "url": "https://seisan-navi.com/20260429-am-velo3d/",
+    "pass": 3
+   },
+   {
+    "quote": "ミアーズ社、Velo3D製金属3Dプリンターを5台目発注、追加2台のオプシ... — Jul 7, 2026 · カリフォルニア州フリーモント発 - 金属積層造形技術企業のVelo3D, Inc.は本日、ミアーズ・マシン・コーポレーションが同社のSapphire XC金属積層造形システムを5台目として発注し、さらに追加2台のオプションも取得したと発表した。",
+    "url": "https://jp.investing.com/news/company-news/article-93CH-1595063",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3DとMears、米国で銅ニッケル専用3Dプリンティング能力を拡充 - ... — Oct 6, 2026 · 金属3Dプリンティング技術を専門とするVelo3D, Inc.は、Mears Machine CorporationがVelo3DのSapphire XCシステム6台目を発注したと発表しました。精密機械加工と金属積層造形に注力するインディアナポリス拠点の同社は、この新たな装置を銅ニッケル専用とし、従来は鋳造されてきた合金ファミリーを用いた ...",
+    "url": "https://www.indexbox.io/ja/blog/velo3d-and-mears-expand-cu-ni-additive-manufacturing-with-sixth-sapphire-xc-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D | Metal Additive Manufacturing — Design, print and produce critical metal parts with Velo3D's advanced laser powder bed fusion technology. Trusted by aerospace, defense, and energy leaders.",
+    "url": "https://www.velo3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D Triples Production Capacity to Meet Strong Defense and ... — Jun 30, 2026 · The new Livermore Production Campus is expected to become operational later this year and will serve as Velo3D's primary production and manufacturing center. The facility complements the company's Fremont headquarters, which will remain the hub for research and development, applications engineering, process developm",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D、防衛・航空宇宙分野の旺盛な需要に対応するため生産能力を3倍... — これは北米で最大規模の金属積層造形施設の一つです。 この拡張により、Velo3Dの生産能力は大幅に向上し、積層造形が試作・認定段階から量産段階への移行を続ける中で、増加する顧客需要を支える能力が強化されます。",
+    "url": "https://www.moomoo.com/ja/news/post/72264789/velo3d-triples-production-capacity-to-meet-strong-defense-and-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3Dの受注残が2700万ドルに拡大 ｜ 世界の3Dプリンターニュース「... — Apr 7, 2024 · アメリカの大型3DプリンターメーカーのVelo3Dが、2023年12月から今日現在までに受注した受注残が2700万ドル（約40億5000万円）に達していると明らかにした。大手コントラクト・マニュファクチャーラーのミアーズ・システムズ ...",
+    "url": "https://sekapri.com/business/20240407-17471/",
+    "pass": 3
+   },
+   {
+    "quote": "INTERVIEW: Velo3D’s new CEO Brad Kreger on Vision for ... — Feb 1, 2024 · In a recent conversation, Brad Kreger, the new CEO of Velo3D, shared comprehensive insights into the company’s trajectory, challenges, and strategic adjustments under his leadership. With a ...",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D’s New Direction: Arun Jeldi on His First 90 Days as ... — Apr 28, 2025 · At RAPID + TCT 2025, I spoke with Dr. Arun Jeldi to discuss his first four months at the helm of Velo3D. He outlined a revised strategic direction as the new-look company plots a path to ...",
+    "url": "https://3dprintingindustry.com/news/velo3ds-new-direction-arun-jeldi-on-his-first-90-days-as-ceo-and-future-roadmap-239100/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D (VELO) Number of Employees - Stock Analysis — 1 day ago · Current and historical number of employees for Velo3D (VELO) with related statistics, a chart and a data table.",
+    "url": "https://stockanalysis.com/stocks/velo/employees/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D Number of Employees 2026 | Employee Count & Headcount ... — Velo3D had 127 employees in 2024, a 23.4% decline (-95) from 2023. Velo3D had 222 employees in 2023, a 9.9% decline (-30) from 2022. Velo3D's total workforce has grown from 126 employees in 2025 to 143 in 2026. Velo3D's headcount peaked at 260 in 2023 before declining in 2025 and recovering through 2026.",
+    "url": "https://www.reveliolabs.com/companies/velo3d/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D (VELO) Revenue 2019-2026 - Stock Analysis — 1 day ago · Current and historical revenue information for Velo3D, Inc. (VELO) stock, including a chart and comparison to related stocks.",
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D Announces Second Quarter 2026 Financial Results — Aug 11, 2026 · Arun Jeldi, Chief Executive Officer of Velo3D, said, \"We delivered a strong quarter, with 52.3% year-over-year revenue growth, expanding margins and disciplined execution across our business. The strength of our results reflects the increasing demand for our advanced metal additive manufacturing solutions, the successful execu",
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/215/velo3d-announces-second-quarter-2026-financial-results",
+    "pass": 3
+   }
+  ],
+  "採用・人数": [
+   {
+    "quote": "この会社は7ヶ月で16人の新しい技術者を雇用した",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "予算5万円で始めるフィジカルAI──ソフトウェアエンジニアのためのロボットアーム「SO-ARM101」入門",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ラズパイもNVIDIAも採用、ライセンス料ゼロの命令セット「RISC-V」の歴史",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "USBはなぜカオスになったのか——名前と中身がズレ続けた規格30年史",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形（AM、いわゆる3Dプリンティング）技術は、試作の段階を越え、航空宇宙や防衛といった要求水準の高い分野で最終製品の製造手段として採用が広がりつつあります",
+    "url": "https://seisan-navi.com/20260429-am-velo3d/",
+    "pass": 3
+   },
+   {
+    "quote": "次回のコメントで使用するためブラウザーに自分の名前、メールアドレス、サイトを保存する",
+    "url": "https://seisan-navi.com/20260429-am-velo3d/",
+    "pass": 3
+   },
+   {
+    "quote": "ビームシェイピング、プロセス物理、および統合計算工学の包括的解析... 局所的な熱履歴制御を通じた「材料組織の能動的エンジニアリング」へとその重心を劇的に移しつつある",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   }
+  ],
+  "発言": [
+   {
+    "quote": "CEOは次のように述べています",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "トランプのフォックスでのインタビューが、税務、貿易、そして大統領の権力についての論争を引き起こしている",
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "INTERVIEW: Velo3D’s new CEO Brad Kreger on Vision for Revitalized Operations and Market Resurgence - 3D Printing Industry",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "INTERVIEW: Velo3D’s new CEO Brad Kreger on Vision for Revitalized Operations and Market Resurgence",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "Now CEO, Kreger was appointed interim in December 2023, after it was announced Benny Buller, the founder, would be stepping down at the board’s request after a prolonged period where Velo’s share price languished below a dollar.",
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "pass": 3
+   },
+   {
+    "quote": "これから語る内容は、少し専門的で、オタク特有の細かい話が含まれます",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Velo3Dは、大型のレーザー粉末床溶融結合（LPBF）方式の装置を手がけるメーカーの中で、米国で創業し、ハードウェアの製造からソフトウェアの開発までを自国内で完結させている数少ない企業だとしている",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Makerから企業まで席巻する魔法の箱、「M5Stack」創業者Jimmy Laiの半生",
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "pass": 3
+   },
+   {
+    "quote": ". Founded in",
+    "url": "https://www.reveliolabs.com/companies/velo3d/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D was founded in",
+    "url": "https://www.reveliolabs.com/companies/velo3d/employees",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Velo3D, Inc.（VLD）株価・今後の見通し・予想｜noteマネー Velo3D, Inc.（VLD）は買い？売り？投資家がnoteで書いた評価、値動きの分析、今後の動向などが集まっています。業績や関連ニュースもあわせて確認できます。",
+    "url": "https://note.com/tag/vm/investment_money/us_company-VLD",
+    "pass": 3
+   },
+   {
+    "quote": "【3年後にはこれが来る！】新型金属3Dプリンター【次世代金属3Dプリン... Mar 10, 2026 · これはSFではありません。 JEOL（日本電子）やVelo3D、Elementum 3Dといった企業が、今まさに実装を進めている現実です。 私たちは今、製造業が「形を作る時代」から「物質そのものを設計する時代」へと移行する、歴史的な転換点に立っています。",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Velo3D, Inc.（VLD）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/us_company-VLD",
+    "pass": 3
+   },
+   {
+    "quote": "Lam Research Corporation",
+    "url": "https://note.com/tag/vm/investment_money/us_company-VLD",
+    "pass": 3
+   },
+   {
+    "quote": "Carrier Global Corporation",
+    "url": "https://note.com/tag/vm/investment_money/us_company-VLD",
+    "pass": 3
+   },
+   {
+    "quote": "Johnson Controls International plc",
+    "url": "https://note.com/tag/vm/investment_money/us_company-VLD",
+    "pass": 3
+   },
+   {
+    "quote": "ASML Holding N.V. NYRS",
+    "url": "https://note.com/tag/vm/investment_money/us_company-VLD",
+    "pass": 3
+   },
+   {
+    "quote": "Eaton Corporation plc",
+    "url": "https://note.com/tag/vm/investment_money/us_company-VLD",
+    "pass": 3
+   },
+   {
+    "quote": "Illinois Tool Works Inc.",
+    "url": "https://note.com/tag/vm/investment_money/us_company-VLD",
+    "pass": 3
+   },
+   {
+    "quote": "Gates Industrial Corporation Ltd.",
+    "url": "https://note.com/tag/vm/investment_money/us_company-VLD",
+    "pass": 3
+   },
+   {
+    "quote": "【3年後にはこれが来る！】新型金属3Dプリンター【次世代金属3Dプリンター/微細組織制御とODS合金/核融合発電と宇宙ロケット/Velo3Dと日本電子/プロセス・イズ・マテリアル】｜メガトレ！",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   },
+   {
+    "quote": "【3年後にはこれが来る！】新型金属3Dプリンター【次世代金属3Dプリンター/微細組織制御とODS合金/核融合発電と宇宙ロケット/Velo3Dと日本電子/プロセス・イズ・マテリアル】",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   },
+   {
+    "quote": "第一章:技術はいかにして「社会」を変えるのか？",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   },
+   {
+    "quote": "1. 「極限環境」を制するものが未来を制す",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   },
+   {
+    "quote": "2. エネルギー革命の「最後のピース」：核融合とタングステン",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   },
+   {
+    "quote": "3. 宇宙へのアクセスを「当たり前」に：ロケットエンジンの革新",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーの未来、その「爆発前夜」へようこそ。",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、多くの投資家やビジネスパーソンが誤解している、しかし間違いなく世界を根底から覆す技術について分析します。その正体は「金属3Dプリンター」です。",
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Velo3D (@VELO3DMetal) / X Velo3D offers a fully integrated metal AM solution for optimized parts in aerospace, semiconductor, energy, oil & gas, defense, and automotive industries.",
+    "url": "https://x.com/VELO3DMetal",
+    "pass": 3
+   },
+   {
+    "quote": "$VELO Velo3D Awarded $9.8 Million Multi-year Department of ... Here's the summary: Contract: Velo3D has been awarded a $9.8 million, five-year IDIQ (Indefinite Delivery Indefinite Quantity) contract supporting the Defense Logistics Agency's Joint Additive Manufacturing Acceptability (JAMA) Pilot Parts Program.",
+    "url": "https://x.com/moninvestor/status/2038608396593590460",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D (@VELO3DMetal) / Posts and Replies / X Velo3D offers a fully integrated metal AM solution for optimized parts in aerospace, semiconductor, energy, oil & gas, defense, and automotive industries.",
+    "url": "https://x.com/velo3dmetal/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D CEO Converts $5M Debt to Shares at Premium as Stoc... The move, alongside a director converting another $10 million note, wiped out 60% of Velo3D's debt, leaving just $10 million outstanding. Shares surged over 20% to $14.89 on heavy volume, signaling strong insider confidence ahead of fiscal 2025 earnings on March 24. Jeldi called it a vote in the company's long-term value, as the metal 3D",
+    "url": "https://x.com/i/trending/2031778527096541404",
+    "pass": 3
+   },
+   {
+    "quote": "VELO3D (@Velo_3D) / X 406 followers · 41 following. Joined May 2018. See the latest conversations with @Velo_3D",
+    "url": "https://x.com/Velo_3D",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Velo3D - LinkedIn Velo3D provides a fully integrated metal 3D printing solution for mission-critical parts used for space exploration, to enhance critical defense systems, to boost transportation efficiency, and to ...",
+    "url": "https://www.linkedin.com/company/velo3d",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Arun Jeldi - Velo3D | LinkedInPheng Sin - Director of Hardware Engineering @ Velo3D ...Michelle Sidwell - CRO @ Velo3D | Enabling the Future of ...Sid Raje - Velo3D | LinkedInDan Lavertu - Business Development @ Velo3D | Product Design ...Eric Cohen - Delivering Scalable Production Solutions to ... With a pioneering role at Arrayed Additive Inc, my focus is on revolutionizing the… · Experience",
+    "url": "https://www.linkedin.com/in/dr-arun-jeldi-bb9a9167",
+    "pass": 3
+   },
+   {
+    "quote": "Pheng Sin - Director of Hardware Engineering @ Velo3D ...Michelle Sidwell - CRO @ Velo3D | Enabling the Future of ...Sid Raje - Velo3D | LinkedInDan Lavertu - Business Development @ Velo3D | Product Design ...Eric Cohen - Delivering Scalable Production Solutions to ... Director of Hardware Engineering @ Velo3D | Additive Manufacturing · Experience: Velo3D · Location: San Francisco Bay Area · 288 c",
+    "url": "https://www.linkedin.com/in/pheng-sin-3b83b257",
+    "pass": 3
+   },
+   {
+    "quote": "Michelle Sidwell - CRO @ Velo3D | Enabling the Future of ...Sid Raje - Velo3D | LinkedInDan Lavertu - Business Development @ Velo3D | Product Design ...Eric Cohen - Delivering Scalable Production Solutions to ... CRO @ Velo3D | Enabling the Future of Manufacturing · With years of progressive experience, I currently serve as the Chief Revenue Officer at Velo3D, a leading provider of metal 3D printi",
+    "url": "https://www.linkedin.com/in/michelle-sidwell-0a856325",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Velo3D - FacebookVelo3D is coming to SLC, Utah! Register to meet ... - FacebookVelo3D enters CRADA with U.S. Navy... - 3D Printing Industry ...Velo3D is on a mission to \"empower the visionaries of today ...Livermore Vine - Fremont-based company Velo3D has primed ...IMDauctions.com - Kratos Defense Purchases a Velo3D... | FacebookNEW! Adam welcomes Joel Telling (aka 3D Printing ... - Facebook Velo3",
+    "url": "https://www.facebook.com/velo3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D is coming to SLC, Utah! Register to meet ... - Facebook Jul 28, 2022 · Velo3D is coming to SLC, Utah! Register to meet the makers of the advanced metal 3D printing technology. https://hubs.la/Q01hMn4D0 Whether you’re new to...",
+    "url": "https://www.facebook.com/goengineer/videos/velo3d-is-coming-to-slc-utah-register-to-meet-the-makers-of-the-advanced-metal-3/373713514718216/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D enters CRADA with U.S. Navy... - 3D Printing Industry ... Jun 25, 2025 · Velo3D enters CRADA with U.S. Navy to advance metal additive manufacturing for defense - Velo3D, a U.S.-based metal additive manufacturing (AM) company, has signed a four-year Cooperative Research...",
+    "url": "https://www.facebook.com/3dPrintingIndustry/posts/velo3d-enters-crada-with-us-navy-to-advance-metal-additive-manufacturing-for-def/1129875155839402/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D is on a mission to \"empower the visionaries of today ... Oct 7, 2021 · Velo3D is on a mission to \"empower the visionaries of today to build the technologies of tomorrow, without compromise.\" We're excited for Velo3D (NYSE: #VLD) to ring the Closing Bell to celebrate its recent listing 🔔",
+    "url": "https://www.facebook.com/NYSE/videos/velo3d-is-on-a-mission-to-empower-the-visionaries-of-today-to-build-the-technolo/861034317879935/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.velo3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.velo3d.com/sapphire",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.velo3d.com/sapphire-xc",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.velo3d.com/supplier-policy-manual.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.velo3d.com/7314-velo3d-inc-as-ra-2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%A6%AA%E4%BC%9A%E7%A4%BE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%AD%90%E4%BC%9A%E7%A4%BE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E8%B0%B7%E4%B8%80%E9%83%8E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.founded.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.founded.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%A3%B2%E4%B8%8A%E9%AB%98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.barrons.com/market-data/stocks/velo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.manawin.jp/languagegap/finance/nennsyou-uriagedaka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/financial-information/financial-results",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.investing.com/news/company-news/article-93CH-1713217",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seisan-navi.com/20260429-am-velo3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.investing.com/news/company-news/article-93CH-1595063",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://at-workdocs.com/mitsumorisho/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://template-free.biz/%E8%A6%8B%E7%A9%8D%E6%9B%B8%E3%81%AE%E6%96%87%E4%BE%8B%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%8801%EF%BC%88word%E3%83%BB%E3%83%AF%E3%83%BC%E3%83%89%EF%BC%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/ja-jp/office-pipc-template/result.aspx?id=13281",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mki.co.jp/news/corporate/20260717-005973.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stockanalysis.com/stocks/velo/employees/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/velo3d/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stockanalysis.com/stocks/velo/revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/us_company-VLD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mega_trend/n/n090502c9e9fc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/VELO3DMetal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/moninvestor/status/2038608396593590460",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/velo3dmetal/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/trending/2031778527096541404",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/velo3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/dr-arun-jeldi-bb9a9167",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/pheng-sin-3b83b257",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/michelle-sidwell-0a856325",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/velo3d/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/goengineer/videos/velo3d-is-coming-to-slc-utah-register-to-meet-the-makers-of-the-advanced-metal-3/373713514718216/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3dPrintingIndustry/posts/velo3d-enters-crada-with-us-navy-to-advance-metal-additive-manufacturing-for-def/1129875155839402/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NYSE/videos/velo3d-is-on-a-mission-to-empower-the-visionaries-of-today-to-build-the-technolo/861034317879935/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VELO3DMetal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Velo_3D",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Velo3D 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/親会社",
+    "https://ja.wikipedia.org/wiki/子会社",
+    "https://finance.yahoo.com/quote/VELO/?fr=sycsrp_catchall",
+    "https://stockanalysis.com/stocks/velo/",
+    "https://kabutan.jp/holder/",
+    "https://stocktwits.com/symbol/VELO",
+    "https://www.buffett-code.com/shareholder_search"
+   ]
+  },
+  {
+   "query": "Velo3D 設立 OR 創業 OR founded",
+   "results": [
+    "https://ja.wikipedia.org/wiki/古谷一郎",
+    "https://www.founded.com/",
+    "https://www.founded.com/about/",
+    "https://www.founded.in/en/over-founded",
+    "https://www.mizuhobank.co.jp/corporate/account/tips/topic_111.html",
+    "https://www.servcorp.co.jp/blog/archives/word_founded_established.html",
+    "https://kigyo.gmo/magazine/starting/list/want-to-start-a-business/"
+   ]
+  },
+  {
+   "query": "Velo3D 売上高 OR 年商",
+   "results": [
+    "https://ja.wikipedia.org/wiki/売上高",
+    "https://www.barrons.com/market-data/stocks/velo",
+    "https://www.manawin.jp/languagegap/finance/nennsyou-uriagedaka/",
+    "https://entrecollege.com/annual-sales/",
+    "https://virtualoffice1.jp/kigyo_blog/annual-sales/",
+    "https://kigyolog.com/article.php?id=1655",
+    "https://business.nikkei.com/atcl/gen/19/00842/021200008/"
+   ]
+  },
+  {
+   "query": "Velo3D 金属3Dプリンター 受託 売上",
+   "results": [
+    "https://ir.velo3d.com/financial-information/financial-results",
+    "https://www.ainvest.com/ja/news/velo3d-rps-revenue-printer-capacity-guidance-clash-2026-earnings-call-2608/",
+    "https://jp.investing.com/news/company-news/article-93CH-1713217",
+    "https://news.qq.com/rain/a/20260519A02EIZ00",
+    "https://finance.biggo.jp/quote/VELO/earnings-call/US_VELO_2026-03-24",
+    "https://www.163.com/dy/article/KT9D2E7H051186GP.html",
+    "https://peterskabublog.com/62/velo3d（velo）投資ガイド：金属3dプリンティングの独自/"
+   ]
+  },
+  {
+   "query": "Velo3D 金属積層造形 台数 導入",
+   "results": [
+    "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "https://seisan-navi.com/20260429-am-velo3d/",
+    "https://jp.investing.com/news/company-news/article-93CH-1595063",
+    "https://www.indexbox.io/ja/blog/velo3d-and-mears-expand-cu-ni-additive-manufacturing-with-sixth-sapphire-xc-system/",
+    "https://www.velo3d.com/",
+    "https://jp.investing.com/news/company-news/article-93CH-1610207",
+    "https://www.3dpro.jp/velo3d_sapphire/"
+   ]
+  },
+  {
+   "query": "Velo3D 受注 量産 大型",
+   "results": [
+    "https://fabscene.com/new/news/velo3d-forge1-production-campus-2/",
+    "https://www.velo3d.com/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/211/velo3d-triples-production-capacity-to-meet-strong-defense",
+    "https://www.moomoo.com/ja/news/post/72264789/velo3d-triples-production-capacity-to-meet-strong-defense-and-aerospace",
+    "https://sekapri.com/business/20240407-17471/",
+    "https://astronavi.jp/news/2026-26-0049/",
+    "https://sekapri.com/business/20251223-20267/"
+   ]
+  },
+  {
+   "query": "Velo3D 料金 OR 見積 OR 単価",
+   "results": [
+    "https://at-workdocs.com/mitsumorisho/",
+    "https://template-free.biz/見積書の文例テンプレート01（word・ワード）/",
+    "https://www.microsoft.com/ja-jp/office-pipc-template/result.aspx?id=13281",
+    "https://www.canva.com/ja_jp/create/mitsumorisho/",
+    "https://www.stock-app.info/media/estimate-sheet-template/",
+    "https://www.canva.com/ja_jp/templates/s/mitsumorisyo/",
+    "https://in.jobcan.ne.jp/knowledge/22738/"
+   ]
+  },
+  {
+   "query": "Velo3D 社長 インタビュー 日刊工業新聞",
+   "results": [
+    "https://www.nikkan.co.jp/",
+    "https://3dprintingindustry.com/news/interview-velo3ds-new-ceo-brad-kreger-on-vision-for-revitalized-operations-and-market-resurgence-228066/",
+    "https://www.mki.co.jp/news/corporate/20260717-005973.html",
+    "https://3dprintingindustry.com/news/velo3ds-new-direction-arun-jeldi-on-his-first-90-days-as-ceo-and-future-roadmap-239100/",
+    "https://note.com/nikkankogyo/n/n5ac95e748bd0",
+    "https://www.kinzokufocus.com/2025/01/velo3d.html",
+    "https://www.nikkan.co.jp/brand/interview/executive/"
+   ]
+  },
+  {
+   "query": "Velo3D revenue employees",
+   "results": [
+    "https://stockanalysis.com/stocks/velo/employees/",
+    "https://www.reveliolabs.com/companies/velo3d/employees",
+    "https://stockanalysis.com/stocks/velo/revenue/",
+    "https://ir.velo3d.com/financial-information/financial-results",
+    "https://ir.velo3d.com/news-events/press-releases/detail/215/velo3d-announces-second-quarter-2026-financial-results",
+    "https://compworth.com/company/velo3d",
+    "https://leadiq.com/c/velo3d/5a1d98f32300005900878c91/employee-directory"
+   ]
+  },
+  {
+   "query": "site:note.com Velo3D",
+   "results": [
+    "https://note.com/tag/vm/investment_money/us_company-VLD",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/mega_trend/n/n090502c9e9fc",
+    "https://note.com/ueda_news24/n/n593474115c49",
+    "https://note.com/guaran/n/ne1da1b216a7a",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ]
+  },
+  {
+   "query": "site:x.com Velo3D",
+   "results": [
+    "https://x.com/VELO3DMetal",
+    "https://x.com/moninvestor/status/2038608396593590460",
+    "https://x.com/velo3dmetal/with_replies",
+    "https://x.com/i/trending/2031778527096541404",
+    "https://x.com/kingtutcap/status/2051652953430196653",
+    "https://x.com/Velo_3D",
+    "https://x.com/moninvestor/status/2037619177595224426"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Velo3D",
+   "results": [
+    "https://www.linkedin.com/company/velo3d",
+    "https://www.linkedin.com/in/dr-arun-jeldi-bb9a9167",
+    "https://www.linkedin.com/in/pheng-sin-3b83b257",
+    "https://www.linkedin.com/in/michelle-sidwell-0a856325",
+    "https://www.linkedin.com/in/sid-raje-b5000619",
+    "https://www.linkedin.com/in/dan-lavertu",
+    "https://www.linkedin.com/in/eric-z-cohen"
+   ]
+  },
+  {
+   "query": "site:facebook.com Velo3D",
+   "results": [
+    "https://www.facebook.com/velo3d/",
+    "https://www.facebook.com/goengineer/videos/velo3d-is-coming-to-slc-utah-register-to-meet-the-makers-of-the-advanced-metal-3/373713514718216/",
+    "https://www.facebook.com/3dPrintingIndustry/posts/velo3d-enters-crada-with-us-navy-to-advance-metal-additive-manufacturing-for-def/1129875155839402/",
+    "https://www.facebook.com/NYSE/videos/velo3d-is-on-a-mission-to-empower-the-visionaries-of-today-to-build-the-technolo/861034317879935/",
+    "https://www.facebook.com/LVineNews/posts/fremont-based-company-velo3d-has-primed-its-first-facility-in-livermore-where-it/1012291921141303/",
+    "https://www.facebook.com/story.php/?story_fbid=902874151840487&id=100063537315216",
+    "https://www.facebook.com/testedcom/videos/massive-3d-printed-metal-transformers/2206906756174626/"
+   ]
+  },
+  {
+   "query": "Velo3D note 社長",
+   "results": [
+    "https://www.velo3d.com/blogs/letter-from-ceo-one-year-later",
+    "https://ir.velo3d.com/corporate-governance/management",
+    "https://finance.yahoo.co.jp/quote/VELO/profile",
+    "https://3dprint.com/320224/arun-jeldis-american-dream-the-velo3d-ceo-on-where-the-company-and-metal-3d-printing-are-headed/",
+    "https://peterskabublog.com/62/velo3d（velo）投資ガイド：金属3dプリンティングの独自/",
+    "https://3dprintingindustry.com/news/velo3d-announces-new-ceo-and-future-direction-following-strategic-review-235800/",
+    "https://ir.velo3d.com/corporate-governance/board-of-directors"
+   ]
+  },
+  {
+   "query": "Velo3D X 投稿",
+   "results": [
+    "https://x.com/VELO3DMetal",
+    "https://www.velo3d.com/",
+    "https://www.instagram.com/velo3d/",
+    "https://x.com/Velo_3D",
+    "https://techblitz.com/startup-interview/velo3d/",
+    "https://www.xvideos.com/?k=日本人+無修正+熟女+0930",
+    "https://www.36kr.com/p/1724960227329"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部42頁・検索15回）",
+  "資本金": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部42頁・検索15回）",
+  "事業内容": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部42頁・検索15回）",
+  "保有設備": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部42頁・検索15回）",
+  "認証": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部42頁・検索15回）"
+ }
+}

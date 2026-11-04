@@ -1,0 +1,1709 @@
+{
+ "name": "Sintavia",
+ "aliases": [
+  "Sintavia LLC"
+ ],
+ "context": "海外・航空宇宙防衛の金属AM受託",
+ "researched_at": "2026-11-04T10:37:13.292630+00:00",
+ "official_url": "https://www.sintavia.com/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": ": 金属材料系3Dプリンティング製品の開発・製造・販売",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "label": "事業概要",
+    "value": ": 金属材料系3Dプリンティング製品の開発・製造・販売",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設 立 年",
+    "value": ": 2012年",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "label": "設立年",
+    "value": ": 2012年",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": ": 36名",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": ": 75名（連結)",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "設備台数": [
+   {
+    "quote": "With high-speed metal printers co-located alongside precision post-processing equipment, a full complement of mechanical testing equipment, and a fully accredited metallurgical and powder laboratory, Sintavia is able to design and additively manufacture complex thermodynamic systems that are impossible to duplicate using traditional manufacturing methods.",
+    "url": "https://sintavia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sintavia Acquires Three Additional GE Additive Arcam A2X Electron Beam Printers",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Sintavia Expands Rocket Manufacturing Capability with Two M4K-4 Printers from AMCM GmbH",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Sintavia Acquires Two Additional M400-4 Printers from EOS GmbH",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Sintavia Adds Tenth and Eleventh Industrial Metal Printers",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Sintavia Adds Eighth and Ninth Industrial Metal Printers",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "今後、様々な産業において3Dプリンティングの技術導入が見込まれており、部品の開発期間の短縮、在庫の削減、物流・保管コストの削減等の効果が期待されています",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事グループは、今後も革新的な技術を保有する企業への投資を通じて、社会のニーズの変化を捉え、世界の産業発展に寄与していきます",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "同社は金属系材料による3Dプリンティング技術を保有し、",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入における作業者健康対策ガイド",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "【2023年版】大型3Dプリンターの比較・選び方〜造形方式ごとの特徴や、導入時に気をつけたいこと",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "【3D プリンター導入③】発注から設置までの流れを知る",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入①】機種の検討・選定時のポイント",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入②】導入依頼時の注意点",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入④】有効活用するための運用方法",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "社で、最先端の金属 3D プリンターに加え、各種分析・検査・後工程設備などを保有し、",
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "pass": 3
+   },
+   {
+    "quote": "GE Additive (Three Electron Beam Printers)",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "AMCM (Two M4K 4 Printers)",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "EOS (Two M400-4 Quad Laser Printers)",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia社は、金属系材料による3Dプリンティング技術を保有し、特に航空宇宙業界向けに強みを持つ会社です",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "次に、真空炉またはボックス炉での社内応力除去でビルド中に導入された残留応力を除去",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在の工場12台から新スペースで潜在的に65台へマシンを拡張することで、ビルドから熱処理、後処理、仕上げまでエンドツーエンド生産を単一の管理された環境内で提供可能になります",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "AEROSPACE COMPONENT MANUFACTURER",
+    "url": "https://sintavia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep up to date with the latest on AM within the Aerospace, Defense, & Space industry!",
+    "url": "https://sintavia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sintavia Awarded Hypersonic Development Contract by U.S. Department of Defense",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Sintavia Chosen to Represent AM Supply Chain for Aerospace & Defense in Launch of Major White House Initiative",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "DELTA H Commissions Dual Chamber Aerospace Heat Treating (DCAHT™) System to Sintavia for Additive Manufacturing (AM)",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "AEROSPACE MANUFACTURING",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "AM Supplier Adds Dual Chamber Aerospace Heat Treating (DCAHT™) System",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Sintavia: New Facility Signals The Move Towards Volume Metal Additive Manufacturing for Aerospace and Defense",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車グループ",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "SINTAVIA社は、金属系材料の3Dプリンティング技術を有し、特に航空宇宙やオイル＆ガス市場において強みを持つ会社です",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "また、航空宇宙業界において非常に高い品質管理能力が求められる国際認証であるNADCAPやAS9100、その他ISO17025、ANABなどを有しており、品質管理能力にも長けています",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "高度な3Dプリンティング製造・設計技術や、付随する機械加工、熱処理、品質保証などの製造・品質管理能力により製造された部品は、航空宇宙産業を始めとする幅広い産業へ提供されています",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事グループは、将来的にグローバルな成長が期待できる金属材料系3Dプリンティング製品製造企業であるSINTAVIA社に出資することで、SINTAVIA社の持つ技術力を活かし、これまで構築してきた国内外の航空宇宙、オイル&ガス業界の顧客を中心に、より一層の価値を提供します",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙市場では、既存の国内外顧客に対する3Dプリンティング製品の提供、オイル＆ガス市場では、子会社である米国Howco社取扱製品の一部3Dプリンティング化を追求します",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン用タービンブレード",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン用ノズル・ガイド・ベーン",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "医療（168）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星部品などの宇宙産業、自動車エンジンなどの自動車産業に既に販売実績がある同社は、金属粉末に特殊なセラミックを混合した製品を販売している",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界向けに",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "特に航空宇宙業界向けに強みを持つ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "また、航空宇宙業界において高い品質管理能力が求められる国際特殊工程認証制度(NADCAP)において、レーザー付加製造、電子ビーム付加製造および熱処理の工程認証を取得している数少ない企業でもある",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia社は航空宇宙産業向けの事業をさらに拡大する方針であり、住友商事グループは協業を通じてより大きなシナジー創出が見込めることから、今回の追加出資を決定したとのこと",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "新世代の航空機や発射体の設計と3Dプリントを手掛ける米Sintaviaは2021年7月20日（現地時間）、NASAや民間宇宙飛行企業のロケット推進チャンバー部品 …",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙ステーションでの3Dプリンティング技術の実証研究 ― NASA",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "国際宇宙ステーション（ISS）への補給ミッションをスペースXとノースロップ・グラマンの2社に委託しているNASA",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形株式会社（以下、JAMPT）と株式会社コイワイは、国立研究開発法人宇宙航空研究開発機構（以下、JAXA）が開発した小型月着陸実証機「SLIM（Sma …",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "空・宇宙）、ISO 17025（試験・検査）、ISO 9001（品質）などの認証を取得しており、そ",
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "pass": 3
+   },
+   {
+    "quote": "処理・機械試験により製造された部品は、航空・宇宙産業をはじめとする幅広い産業へ",
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "pass": 3
+   },
+   {
+    "quote": "Ms. Diaz joined Sintavia in 2021 with over fifteen years of experience in engineering management in the aerospace industry. Previously employed by both Boeing and Embraer, Yisell is a seasoned leader with extensive knowledge of systems engineering, and product development.",
+    "url": "https://sintavia.com/leadership/",
+    "pass": 3
+   },
+   {
+    "quote": "Mr. Manjarres joined Sintavia in 2016 as an additive manufacturing engineer with a strong background in product design and streamlined manufacturing. Juan’s leadership and expert-level knowledge of additive technology has directly contributed to Sintavia’s groundbreaking advancements in the Aerospace & Defense industry.",
+    "url": "https://sintavia.com/leadership/",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia’s design engineers use state-of-the-art simulation software to optimally design and test critical flight and launch components, including heat exchangers, ducts, and chassis. Our engineers have designed components for all end markets within the Aerospace, Defense, and Space industry.",
+    "url": "https://sintavia.com/leadership/",
+    "pass": 3
+   },
+   {
+    "quote": "The Sintavia production engineering team prepares part data prior to each build and is involved with all phases of the AM build process, providing immediate feedback on production to the customer. Sintavia’s personnel have many years of experience in the engineering departments of Rolls-Royce, Pratt & Whitney, General Electric, Northrop Grumman, and HEICO Aerospace.",
+    "url": "https://sintavia.com/leadership/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of advanced mechanical systems intended for Aerospace, Defense and Space original equipment manufacturers (OEMs).",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of advanced mechanical systems intended for Aerospace, Defense and Space original equipment manufacturers (",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia’s primary industry is Aerospace and Defense.",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia builds aerospace additive digital thread for hypergrowth - YouTube",
+    "url": "https://www.youtube.com/watch?v=uMHTnqkbN9A",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia builds aerospace additive digital thread for hypergrowth",
+    "url": "https://www.youtube.com/watch?v=uMHTnqkbN9A",
+    "pass": 3
+   },
+   {
+    "quote": "自動車グループ",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "また、環境への配慮が求められる航空宇宙産業などで、製造過程での材料の廃棄量の少なさから注目されている技術です",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia社は、金属系材料による3Dプリンティング技術を保有し、特に航空宇宙業界向けに強みを持つ会社です",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "また、航空宇宙業界において高い品質管理能力が求められる国際特殊工程認証制度(NADCAP)において、レーザー付加製造、電子ビーム付加製造および熱処理の工程認証を取得している数少ない企業であり、航空宇宙産業を始めとする幅広い産業向けに試作品の製造や受注生産を行ってきました",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、米国Collins Aerospace社との合弁会社であるHamilton Sundstrand Space Systems International社においては、Sintavia社が造形した部品を活用し、宇宙事業用製品の製造を開始しています",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia社は航空宇宙産業向けの事業をさらに拡大する方針であり、住友商事グループは協業を通じてより大きなシナジー創出が見込めることから、今回の追加出資を決定しました",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "今後も住友商事グループの幅広い顧客網や事業ポートフォリオを活用して、Sintavia社のさらなる成長に貢献するとともに、航空宇宙業界を中心にさまざまな産業の顧客へ、より一層の価値を提供していきます",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated Air & Missile Defense",
+    "url": "https://news.lockheedmartin.com/2022-12-07-Lockheed-Martin-Sintavia-Team-Up-Advance-Metal-Additive-Manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic & Missile Defense Systems",
+    "url": "https://news.lockheedmartin.com/2022-12-07-Lockheed-Martin-Sintavia-Team-Up-Advance-Metal-Additive-Manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Innovation in Defense",
+    "url": "https://news.lockheedmartin.com/2022-12-07-Lockheed-Martin-Sintavia-Team-Up-Advance-Metal-Additive-Manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "“Sintavia and Lockheed Martin are committed to improving the capability, agility and competitiveness of the defense industrial supply base,” said Brian Neff, Sintavia’s founder and CEO. “Our partnership with Lockheed Martin seeks to identify and streamline manufacturing inefficiencies, specifically in the production of flight critical structures.”",
+    "url": "https://news.lockheedmartin.com/2022-12-07-Lockheed-Martin-Sintavia-Team-Up-Advance-Metal-Additive-Manufacturing",
+    "pass": 3
+   }
+  ],
+  "売上・受託売上": [
+   {
+    "quote": "Sintavia Receives $10 Million Subordinated Debt Investment From Stifel North Atlantic AM-Forward Fund",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "Syd Weinstein-Birmaher, Director of Sales",
+    "url": "https://sintavia.com/leadership/",
+    "pass": 3
+   },
+   {
+    "quote": "Secondary market analysis of GP-led transactions and LP stake sales",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sintavia’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Sintavia is",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Our data operations team has logged over 3.5 million hours researching, organizing, and integrating the information you need most.",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Get a demo and discover why thousands of SDR and Sales teams trust",
+    "url": "https://leadiq.com/c/sintavia/5a1da8d323000052009cd6cf/employee-directory",
+    "pass": 3
+   },
+   {
+    "quote": "Track sales triggers",
+    "url": "https://leadiq.com/c/sintavia/5a1da8d323000052009cd6cf/employee-directory",
+    "pass": 3
+   },
+   {
+    "quote": "Enrich Salesforce data",
+    "url": "https://leadiq.com/c/sintavia/5a1da8d323000052009cd6cf/employee-directory",
+    "pass": 3
+   },
+   {
+    "quote": "sales@leadiq.com",
+    "url": "https://leadiq.com/c/sintavia/5a1da8d323000052009cd6cf/employee-directory",
+    "pass": 3
+   }
+  ],
+  "料金・単価": [
+   {
+    "quote": "3D- Printed Copper Parts Help Spacecraft Chill Out",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "米国の3DプリンターメーカーImpossible Objectsは2026年9月11日、シリーズBラウンドで4,000万ドル（1ドル約149円換算で約59億6,…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "Stock Price",
+    "url": "https://news.lockheedmartin.com/2022-12-07-Lockheed-Martin-Sintavia-Team-Up-Advance-Metal-Additive-Manufacturing",
+    "pass": 3
+   }
+  ],
+  "最大案件・量産": [
+   {
+    "quote": "Sintavia Awarded Hypersonic Development Contract by U.S. Department of Defense",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Sintavia Places an Industry-Advancing Order of Two NXG XII 600s from SLM Solutions",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "DESIGN AWARDS NETWORK",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Impossible Objects、シリーズBで4,000万ドル調達―高速複合材3Dプリンター「CBAM 25」の量産展開を加速",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "【2023年版】大型3Dプリンターの比較・選び方〜造形方式ごとの特徴や、導入時に気をつけたいこと",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "Awards",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Review PitchBook’s Global League Table Award winners",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "また、航空宇宙業界において高い品質管理能力が求められる国際特殊工程認証制度(NADCAP)において、レーザー付加製造、電子ビーム付加製造および熱処理の工程認証を取得している数少ない企業であり、航空宇宙産業を始めとする幅広い産業向けに試作品の製造や受注生産を行ってきました",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、量産契約の締結も開始するなど、スタートアップ段階を越えて着実に事業を拡大しています",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "これらに加え、小型コンプレッサーインペラから大型ロケットエンジン部品までターボ機械コンポーネントへPBFを適用し、航空宇宙スペクトラム全体での汎用性を実証しています",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMパーツ後処理の最大ハードルは？",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "低〜中量産において、従来工法より速く、安く、少ない労力でパーツを提供",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   }
+  ],
+  "発言": [
+   {
+    "quote": "New Space, New Applications: Sintavia CEO on 3D Printing and Rocket Building",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Interview with Sintavia CEO, Brian Neff: An Executive Perspective on Sustainable Business",
+    "url": "https://sintavia.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "社長メッセージ",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事株式会社（本社：東京都中央区、代表取締役 社長執行役員CEO：兵頭 誠之、以下「住友商事」）は、米州住友商事会社（本社：米国ニューヨーク州、代表：上野真吾、以下「米州住友商事」）（以下2社を総称して「住友商事グループ」）を通じて、金属系材料を用いた3Dプリンティング（積層造形）技術を持つSINTAVIA, LLC.（本社：米国フロリダ州、CEO：Brian Neff（ブライアン・ネフ）、以下「SINTAVIA社」）に出資しました",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "大陽日酸株式会社（社長 兼 CEO：市原 裕史郎）は、米国フロリダ州の金属積層造形",
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "pass": 3
+   },
+   {
+    "quote": "Brian Neff, Founder & CEO",
+    "url": "https://sintavia.com/leadership/",
+    "pass": 3
+   },
+   {
+    "quote": "社長メッセージ",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事株式会社（本社：東京都千代田区、代表取締役 社長執行役員CEO：兵頭 誠之）は、米州住友商事会社（本社：米国ニューヨーク州、代表：中島 正樹）（以下、2社を総称して「住友商事グループ」）を通じて、金属系材料を用いた3Dプリンティング（積層造形）技術を持つSintavia,LLC.（以下「Sintavia社」）に追加出資しました",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "“Sintavia and Lockheed Martin are committed to improving the capability, agility and competitiveness of the defense industrial supply base,” said Brian Neff, Sintavia’s founder and CEO. “Our partnership with Lockheed Martin seeks to identify and streamline manufacturing inefficiencies, specifically in the production of flight critical structures.”",
+    "url": "https://news.lockheedmartin.com/2022-12-07-Lockheed-Martin-Sintavia-Team-Up-Advance-Metal-Additive-Manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia社長ダグ・ヘッジズ氏インタビュー：金属3Dプリントによるシリアル生産のスケーリング",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "今週、社長ダグ・ヘッジズ氏に、同社が如何に一貫して認定金属パーツを生産しているか、なぜAMが航空宇宙にとって変革的か、業界がより広範な採用を加速するために何を行うべきかを聞きました",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sintaviaは2012年、CEO兼会長ブライアン・ネフ氏によって、フォートローダーデール拠点のジェットエンジンMROであるCTS Enginesの社内AMユニットとして設立されました",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "AMについて語ることが多いですが、我々は精密航空宇宙部品の先進メーカーとしてのフレーミングを好み、顧客が既存設計を超越するソリューションを提供します",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "専門家インタビュー",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "AMFGの専門家インタビューシリーズは、積層造形の未来を形作る革新的企業と個人を紹介します",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "PostProcess Technologies CEOジェフ・マイズ氏がAM後処理ボトルネックを除去する方法",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリントの内側：Neil Hopkinson教授が語るイノベーション、スケール、未来",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dfilemarket.com創業者Philip Cotton氏インタビュー：英国3Dプリント教育のエキスパート",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "FabRxアルバロ・ゴヤネス博士インタビュー：3Dプリント医薬品、革新から個別化ケアへ",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "ANSYSチーフテクノロジストインタビュー：シミュレーションで金属3Dプリンティング成功を導く",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "3Dプリンティング製品製造企業 SINTAVIA社への出資について | 住友商事",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "株主・株式情報",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "個人株主・投資家の皆さまへ",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "第158期定時株主総会について",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング製品製造企業 SINTAVIA社への出資について",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事株式会社（本社：東京都中央区、代表取締役 社長執行役員CEO：兵頭 誠之、以下「住友商事」）は、米州住友商事会社（本社：米国ニューヨーク州、代表：上野真吾、以下「米州住友商事」）（以下2社を総称して「住友商事グループ」）を通じて、金属系材料を用いた3Dプリンティング（積層造形）技術を持つSINTAVIA, LLC.（本社：米国フロリダ州、CEO：Brian Neff（ブライアン・ネフ）、以下「SINTAVIA社」）に出資しました",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事グループは、将来的にグローバルな成長が期待できる金属材料系3Dプリンティング製品製造企業であるSINTAVIA社に出資することで、SINTAVIA社の持つ技術力を活かし、これまで構築してきた国内外の航空宇宙、オイル&ガス業界の顧客を中心に、より一層の価値を提供します",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング関連企業Elementum 3D社、Sintavia社への出資―住友商事株式会社 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング関連企業Elementum 3D社、Sintavia社への出資―住友商事株式会社",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "今回記事では、5大総合商社の一角である住友商事グループが海外の3Dプリンティング関連企業へ出資を行っているとのことで、その詳細を紹介する",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング関連企業への出資",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "これから紹介する3Dプリンティング関連企業二社への出資は、６つのマテリアリティに当てはめると、地球環境との共生や、快適で心踊る暮らしの基盤づくりに分類されるとのことだ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "まず住友商事は今年の1月にセラミックを利用した金属3Dプリンティング用粉末を製造・販売する米国スタートアップ企業Elementum 3D, Inc、以下「Elementum 3D」）に出資した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "また今月、住友商事は米州住友商事会社を通じて、金属系材料を用いた3Dプリンティング（積層造形）技術を持つSintavia,LLC.（以下「Sintavia社」）に追加出資した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事グループは、2018年にSintavia社に出資し、日本向けの代理店として試作品の開発などに取り組んできた",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia社は航空宇宙産業向けの事業をさらに拡大する方針であり、住友商事グループは協業を通じてより大きなシナジー創出が見込めることから、今回の追加出資を決定したとのこと",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "米国 Sintavia 社への出資に関するお知らせ",
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "pass": 3
+   },
+   {
+    "quote": "技術を用いた金属部品製造を行う Sintavia LLC（以下 Sintavia 社）と資本提携を行い",
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "pass": 3
+   },
+   {
+    "quote": "１．資本提携の背景",
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "pass": 3
+   },
+   {
+    "quote": "略に基づき、提携・出資による高付加価値製品並びに差異化製品の取り込みを推進して",
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "pass": 3
+   },
+   {
+    "quote": "今後も主にグローバル市場において、このようなベンチャーへの出資を、エネルギー",
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Follow capital flows across investors, deals, and industry trends",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Find investment opportunities and active investors faster",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Rankings of investors, managers, and lenders across asset classes",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Ownership Status",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia Former Investors",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Who are Sintavia’s investors?",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Credit Investors",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Investors Data",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング製品製造企業 Sintavia社への追加出資について | 住友商事",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "株主・株式情報",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "個人株主・投資家の皆さまへ",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "第158期定時株主総会について",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング製品製造企業 Sintavia社への追加出資について",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事株式会社（本社：東京都千代田区、代表取締役 社長執行役員CEO：兵頭 誠之）は、米州住友商事会社（本社：米国ニューヨーク州、代表：中島 正樹）（以下、2社を総称して「住友商事グループ」）を通じて、金属系材料を用いた3Dプリンティング（積層造形）技術を持つSintavia,LLC.（以下「Sintavia社」）に追加出資しました",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事グループは、2018年にSintavia社に出資し、日本向けの代理店として試作品の開発や事業会社とのシナジー創出に取り組んできました",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia社は航空宇宙産業向けの事業をさらに拡大する方針であり、住友商事グループは協業を通じてより大きなシナジー創出が見込めることから、今回の追加出資を決定しました",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://news.lockheedmartin.com/2022-12-07-Lockheed-Martin-Sintavia-Team-Up-Advance-Metal-Additive-Manufacturing",
+    "pass": 3
+   }
+  ],
+  "採用・人数": [
+   {
+    "quote": "新卒・キャリア採用情報",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "（住友商事グループ）新卒採用情報",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "住商ウェルサポート（住友商事の特例子会社）の障がい者採用情報",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用情報",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "社 名：Sintavia LLC",
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリング図面の理解",
+    "url": "https://www.youtube.com/watch?v=uMHTnqkbN9A",
+    "pass": 3
+   },
+   {
+    "quote": "新卒・キャリア採用情報",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "（住友商事グループ）新卒採用情報",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "住商ウェルサポート（住友商事の特例子会社）の障がい者採用情報",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用情報",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "75名（連結)",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "今週、社長ダグ・ヘッジズ氏に、同社が如何に一貫して認定金属パーツを生産しているか、なぜAMが航空宇宙にとって変革的か、業界がより広範な採用を加速するために何を行うべきかを聞きました",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリント採用加速に必要なことは？",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "速度、コスト、実証済み品質が広範な採用の三本柱です",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙のようなリスク回避的業界では、認証とエンジニアリング仕様への準拠は譲れません",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia以前は、CTS Engines、HEICO Aerospace、Kapco Global、Rolls-Royceで上級エンジニアリング役職を歴任",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えばアルミニウム粉末は鋼材に比べて溶融結合が難しく、市販メタルプリンティングポートフォリオでの採用例が少ない理由です",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "リバースエンジニアリング",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Sintavia 社は、2012 年に設立された金属 3D プリンターによる金属部品を製造する会",
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "pass": 3
+   },
+   {
+    "quote": "Mr. Neff founded Sintavia in 2015 after working with metal additive manufacturing at CTS Engines, a jet engine MRO he founded in 2010. Prior to CTS, Brian was the President of Southern Air, a wide-body cargo airline, from 2007 to 2009, and was its CFO from 2003 to 2007. Brian holds a BA from Dartmouth College and an MBA from Columbia Business School.",
+    "url": "https://sintavia.com/leadership/",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia was founded in 2015.",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Sintaviaは2012年、CEO兼会長ブライアン・ネフ氏によって、フォートローダーデール拠点のジェットエンジンMROであるCTS Enginesの社内AMユニットとして設立されました",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dfilemarket.com創業者Philip Cotton氏インタビュー：英国3Dプリント教育のエキスパート",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "Carbon共同創業者Philip DeSimone氏：3Dプリンティングの大量生産へのスケーリング戦略",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "was founded in",
+    "url": "https://leadiq.com/c/sintavia/5a1da8d323000052009cd6cf/employee-directory",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3Dプリンティング製品製造企業 SINTAVIA 社への出資について — 3Dプリンティング製品製造企業 SINTAVIA 社への出資について Sumitomo Corporation https://www.sumitomocorp.com > ... > 2018年",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia 社への出資―住友商事株式会社 | 業務用3Dプリンター ... — Sintavia 社への出資―住友商事株式会社 | 業務用3Dプリンター ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "米国 Sintavia 社への出資に関するお知らせ — 米国 Sintavia 社への出資に関するお知らせ 日本酸素ホールディングス株式会社 PDF https://jp.nipponsanso.com > LinkClick",
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング製品製造企業 Sintavia 社への追加出資 ... — 3Dプリンティング製品製造企業 Sintavia 社への追加出資 ... Sumitomo Corporation https://www.sumitomocorp.com > ... > 2020年",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "Leadership - Sintavia — Leadership - Sintavia Sintavia https://sintavia.com > leadership",
+    "url": "https://sintavia.com/leadership/",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia 2026 Company Profile: Valuation, Investors, Acquisition — Sintavia 2026 Company Profile: Valuation, Investors, Acquisition PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia builds aerospace additive digital thread for hypergrowth — Sintavia builds aerospace additive digital thread for hypergrowth YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=uMHTnqkbN9A",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia - LinkedIn — Sintavia - LinkedIn LinkedIn https://www.linkedin.com > sintavia",
+    "url": "https://www.linkedin.com/company/sintavia",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia is pushing the additive manufacturing factory into the ... — Sintavia is pushing the additive manufacturing factory into the ... Siemens Blog Network https://blogs.sw.siemens.com > additive",
+    "url": "https://blogs.sw.siemens.com/additive/sintavia-is-pushing-the-additive-manufacturing-factory-into-the-future/",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia : Home — Sintavia : Home Sintavia https://sintavia.com",
+    "url": "https://sintavia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia Announces $25M Expansion in Hollywood, Florida — Sintavia Announces $25M Expansion in Hollywood, Florida Business Wire https://www.businesswire.com > home",
+    "url": "https://www.businesswire.com/news/home/20240405121388/en/Sintavia-Announces-%2425M-Expansion-in-Hollywood-Florida",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing - Sintavia — Manufacturing - Sintavia Sintavia https://sintavia.com > manufacturing",
+    "url": "https://sintavia.com/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia - 2026 Company Profile, Team, Funding & Competitors — Sintavia - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/sintavia/__RGgolyP9POPW99uCEI1mt_yfviy4PIoRFtf7ecWZa8k",
+    "pass": 3
+   },
+   {
+    "quote": "3D プリンティング製品製造企業 Sintavia 社への追加出資 ... — 3D プリンティング製品製造企業 Sintavia 社への追加出資 ... Sumitomo Corporation https://www.sumitomocorp.com > ... > 2020年",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia 社への出資―住友商事株式会社 | 業務用 3Dプリンター ... — Sintavia 社への出資―住友商事株式会社 | 業務用 3Dプリンター ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   },
+   {
+    "quote": "Lockheed Martin and Sintavia Team Up to Advance Metal ... — Lockheed Martin and Sintavia Team Up to Advance Metal ... Lockheed Martin https://news.lockheedmartin.com > 20...",
+    "url": "https://news.lockheedmartin.com/2022-12-07-Lockheed-Martin-Sintavia-Team-Up-Advance-Metal-Additive-Manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia 3D prints massive metal heat exchanger on AMCM ... — Sintavia 3D prints massive metal heat exchanger on AMCM ... VoxelMatters https://www.voxelmatters.com > sinta...",
+    "url": "https://www.voxelmatters.com/sintavia-3d-prints-massive-metal-heat-exchanger-on-amcm-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "専門家インタビュー：金属3D印刷による連続生産の達成に関するSintavi... — 専門家インタビュー：金属3D印刷による連続生産の達成に関するSintavia社長Doug Hedges Sintaviaは、航空宇宙、防衛、石油およびガスなどの重要な産業に金属積層造形サービスを提供する独立したメーカーです。 。",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia – Company Insights & Financial Strength – 2026 — Sintavia is an industry name backed by estimated revenue of $14.6M, team of around 80+ employees, from Hollywood, with plans for future expansion.",
+    "url": "https://compworth.com/company/sintavia",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia: Employee Directory | ZoomInfo.com — Jun 28, 2024 · Sintavia Employee Directory Sintavia corporate office is located in 2500 SW 39th St, Hollywood, Florida, 33312, United States and has 107 employees.",
+    "url": "https://www.zoominfo.com/pic/sintavia-llc/370806364",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia Employee Directory, Headcount & Staff | LeadIQ — Browse Sintavia's employee directory of 73 employees. Find verified email addresses and direct contact information with LeadIQ.",
+    "url": "https://leadiq.com/c/sintavia/5a1da8d323000052009cd6cf/employee-directory",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia - Overview, News & Similar companies | ZoomInfo.com — View Sintavia (www.sintavia.com) location in Florida, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/sintavia-llc/370806364",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia Revenue, Growth & Competitor Profile - IncFact.comSintavia - 2026 Company Profile & Team - TracxnSintavia Information - RocketReach — Oct 12, 2026 · Sintavia's Annual Report & Profile shows critical firmographic facts: What is the company's size? (Annual sales and employees) Sintavia's annual revenues are $10 - $100 million (see exact revenue data) What industry is the company in? Sintavi",
+    "url": "https://incfact.com/company/sintavia-davie-fl/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sintavia (@SintaviaAM) / X Sintavia is honored to be named a 2025 Small Business Supplier Excellence Award recipient by @ LockheedMartin for the ATWS program. This recognition highlights our commitment to delivering innovative, high-quality thermodynamic components that support critical defense programs.",
+    "url": "https://x.com/SintaviaAM",
+    "pass": 3
+   },
+   {
+    "quote": "sinta via (@sintavia) / X 0 followers · 8 following. Joined Nov 2011. See the latest conversations with @sintavia",
+    "url": "https://x.com/sintavia",
+    "pass": 3
+   },
+   {
+    "quote": "\"#sintavia\" - Results on X | Live Posts & Updates Results for \"#sintavia\" on X (Twitter). Find the latest posts, discussions, and updates about #sintavia. 20 results found.",
+    "url": "https://x.com/hashtag/sintavia",
+    "pass": 3
+   },
+   {
+    "quote": "The SBA’s Small Business Investment Company (SBIC) Program ... The SBA’s Small Business Investment Company (SBIC) Program helps America’s innovators access the growth capital they need to scale and compete at the highest levels of industry. One of those businesses is Sintavia in Fort Lauderdale. As an SBIC portfolio company, it’s the leader in digital additive manufacturing for aerospace and defen",
+    "url": "https://x.com/SBA_Kelly/status/2074264993852178650",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia (@SintaviaAM) / X Sintavia was awarded a portion of the GAMMA-H contract by the United States Department of Defense! GAMMA-H, stands for Growing Additive Manufacturing Maturity for Airbreathing Hypersonics, is a $106.7mm DoD contract.",
+    "url": "https://x.com/SintaviaAM",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sintavia - LinkedIn Sintavia | 16,351 followers on LinkedIn. We bring additive to aerospace. | We design and print thermodynamic and propulsion components and systems for Aerospace & Defense lead systems ...",
+    "url": "https://www.linkedin.com/company/sintavia",
+    "pass": 3
+   },
+   {
+    "quote": "Brian R. Neff - Sintavia | LinkedInPavlo Earle - Sintavia | LinkedInAndrew Fletcher - Sintavia | LinkedInLindsay Lewis - Corporate Vice President at Sintavia | LinkedInEric Sherman - Chief Financial Officer at Sintavia ... - LinkedInMark Absher - Director of Quality at Sintavia | LinkedIn Experience: Sintavia · Education: Dartmouth College · Location: Miami-Fort Lauderdale Area · 500+ connections ",
+    "url": "https://www.linkedin.com/in/brian-r-neff-7b0243137",
+    "pass": 3
+   },
+   {
+    "quote": "Pavlo Earle - Sintavia | LinkedInAndrew Fletcher - Sintavia | LinkedInLindsay Lewis - Corporate Vice President at Sintavia | LinkedInEric Sherman - Chief Financial Officer at Sintavia ... - LinkedInMark Absher - Director of Quality at Sintavia | LinkedIn Results-driven, well-organized Engineering Professional and Leader with ten years of… · Experience: Sintavia · Education: Purdue University · Loc",
+    "url": "https://www.linkedin.com/in/pavlo-earle-05500b29",
+    "pass": 3
+   },
+   {
+    "quote": "Andrew Fletcher - Sintavia | LinkedInLindsay Lewis - Corporate Vice President at Sintavia | LinkedInEric Sherman - Chief Financial Officer at Sintavia ... - LinkedInMark Absher - Director of Quality at Sintavia | LinkedIn Senior AM Engineer, innovating and building with cutting edge additive manufacturing… · Experience: Sintavia · Education: University of Oklahoma – Gallogly College of Engineering",
+    "url": "https://www.linkedin.com/in/andrew-fletcher-2b0106140",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia - LinkedIn Sintavia | 16,333 followers on LinkedIn. We bring additive to aerospace. | We design and print thermodynamic and propulsion components and systems for Aerospace & Defense lead systems ...",
+    "url": "https://www.linkedin.com/company/sintavia/people/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sintavia LLC - Facebook Sintavia LLC - Facebook ... Sintavia LLC",
+    "url": "https://www.facebook.com/Sintavia-LLC-102587228526673/",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia | How does Sintavia continuously produce high-volume ... How does Sintavia continuously produce high-volume, high-quality parts for the aerospace and defense industry? With some help from the Siemens Xcelerator portfolio software and services.",
+    "url": "https://www.facebook.com/SiemensDISoftware/videos/sintavia/737240960553072/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sintavia.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sintavia.com/newsroom/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sintavia.com/newsroom/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sintavia.com/wp-content/uploads/2020/06/3dpbm-Sustainability-Issue-Sintavia.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sintavia.com/leadership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/119375-11",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=uMHTnqkbN9A",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sintavia.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20240405121388/en/Sintavia-Announces-%2425M-Expansion-in-Hollywood-Florida",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sintavia.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sintavia.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sintavia.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.lockheedmartin.com/2022-12-07-Lockheed-Martin-Sintavia-Team-Up-Advance-Metal-Additive-Manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=uMHTnqkbN9A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.m-ivx.com/2026/07/16/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E3%80%8C%E7%A4%BE%E9%95%B7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%80%8D%E3%81%8C%E6%8E%B2%E8%BC%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/sintavia",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/pic/sintavia-llc/370806364",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://leadiq.com/c/sintavia/5a1da8d323000052009cd6cf/employee-directory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SintaviaAM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sintavia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/sintavia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SBA_Kelly/status/2074264993852178650",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sintavia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/brian-r-neff-7b0243137",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/pavlo-earle-05500b29",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/andrew-fletcher-2b0106140",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Sintavia-LLC-102587228526673/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SiemensDISoftware/videos/sintavia/737240960553072/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sintavia/people/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sintavia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SintaviaAM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/sintavia",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sintavia 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "https://kabutan.jp/news/marketnews/?b=n201809130408",
+    "https://www.businesswire.com/news/home/20200806005533/ja",
+    "https://www.kyoeisteel.co.jp/ja/ir/stock/shareholder.html",
+    "https://shikiho.toyokeizai.net/news/0/411152",
+    "https://www.synclayer.co.jp/ir/stock/",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "Sintavia 設立 OR 創業 OR founded",
+   "results": [
+    "https://sintavia.com/leadership/",
+    "https://pitchbook.com/profiles/company/119375-11",
+    "https://www.youtube.com/watch?v=uMHTnqkbN9A",
+    "https://www.linkedin.com/company/sintavia",
+    "https://blogs.sw.siemens.com/additive/sintavia-is-pushing-the-additive-manufacturing-factory-into-the-future/",
+    "https://tracxn.com/d/companies/sintavia/__RGgolyP9POPW99uCEI1mt_yfviy4PIoRFtf7ecWZa8k",
+    "https://sintavia.com/",
+    "https://capitalanalyticsassociates.com/spotlight-on-brian-neff-ceo-sintavia/",
+    "https://growjo.com/company/Sintavia",
+    "https://www.founded.com/"
+   ]
+  },
+  {
+   "query": "Sintavia 売上高 OR 年商",
+   "results": [
+    "https://sintavia.com/",
+    "https://www.businesswire.com/news/home/20240405121388/en/Sintavia-Announces-%2425M-Expansion-in-Hollywood-Florida",
+    "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "https://sintavia.com/manufacturing/",
+    "https://tracxn.com/d/companies/sintavia/__RGgolyP9POPW99uCEI1mt_yfviy4PIoRFtf7ecWZa8k",
+    "https://leadiq.com/c/sintavia/5a1da8d323000052009cd6cf",
+    "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "https://sintavia.com/products/",
+    "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10710",
+    "https://ja.wikipedia.org/wiki/売上高"
+   ]
+  },
+  {
+   "query": "Sintavia 金属3Dプリンター 受託 売上",
+   "results": [
+    "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "https://sintavia.com/",
+    "https://www.atpress.ne.jp/news/0025852",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://tracxn.com/d/companies/sintavia/__RGgolyP9POPW99uCEI1mt_yfviy4PIoRFtf7ecWZa8k"
+   ]
+  },
+  {
+   "query": "Sintavia 金属積層造形 台数 導入",
+   "results": [
+    "https://sintavia.com/",
+    "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=BHAcBa1%2B%2FVU%3D&tabid=153&mid=848&TabModule805=0",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "https://www.ge.com/news/taxonomy/term/2431",
+    "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data06/179.pdf",
+    "https://www.kinzokufocus.com/2025/03/sintavianlight-afxamcm-m290-2-flx.html"
+   ]
+  },
+  {
+   "query": "Sintavia 受注 量産 大型",
+   "results": [
+    "https://sintavia.com/",
+    "https://news.lockheedmartin.com/2022-12-07-Lockheed-Martin-Sintavia-Team-Up-Advance-Metal-Additive-Manufacturing",
+    "https://www.youtube.com/watch?v=uMHTnqkbN9A",
+    "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "https://www.voxelmatters.com/sintavia-3d-prints-massive-metal-heat-exchanger-on-amcm-machine/",
+    "https://www.thefabricator.com/additivereport/article/additive/metal-3d-printing-company-sintavia-opens-a-new-plantand-makes-bold-plans-for-capturing-new-business",
+    "https://blogs.sw.siemens.com/additive/sintavia-is-pushing-the-additive-manufacturing-factory-into-the-future/",
+    "https://www.additivemanufacturing.media/news/sintavia-develops-niobium-printing-technology-for-aerospace-defense",
+    "https://www.defenseandmunitions.com/news/sintavia-awarded-hypersonic-development-contract-by-us-department-of-defense/",
+    "https://sintavia.com/vendor-customer-information/"
+   ]
+  },
+  {
+   "query": "Sintavia 料金 OR 見積 OR 単価",
+   "results": []
+  },
+  {
+   "query": "Sintavia 社長 インタビュー 日刊工業新聞",
+   "results": [
+    "https://www.nikkan.co.jp/",
+    "https://ja.mfgrobots.com/mfg/3dprinting/1007003105.html",
+    "https://www.m-ivx.com/2026/07/16/日刊工業新聞に「社長インタビュー記事」が掲載/",
+    "https://kojomag.nikkan.co.jp/tags/インタビュー",
+    "https://note.com/nikkankogyo/n/n5ac95e748bd0",
+    "https://www.shinwa-cont.com/case/2026/06/26/73",
+    "https://www.nikkan.co.jp/brand/interview/executive/"
+   ]
+  },
+  {
+   "query": "Sintavia revenue employees",
+   "results": [
+    "https://compworth.com/company/sintavia",
+    "https://www.zoominfo.com/pic/sintavia-llc/370806364",
+    "https://leadiq.com/c/sintavia/5a1da8d323000052009cd6cf/employee-directory",
+    "https://www.zoominfo.com/c/sintavia-llc/370806364",
+    "https://incfact.com/company/sintavia-davie-fl/",
+    "https://tracxn.com/d/companies/sintavia/__RGgolyP9POPW99uCEI1mt_yfviy4PIoRFtf7ecWZa8k",
+    "https://rocketreach.co/sintavia-profile_b55a521ef963d0a1"
+   ]
+  },
+  {
+   "query": "site:note.com Sintavia",
+   "results": [
+    "https://note.com/dashboard",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kirik/n/n8d03dc1ce205",
+    "https://note.com/isomitsuo/n/nd6f66ed87bfd",
+    "https://note.com/glossy_pika3109/n/n7c99eb8ee64d",
+    "https://note.com/ready_gnu3180/n/n21c00537d782"
+   ]
+  },
+  {
+   "query": "site:x.com Sintavia",
+   "results": [
+    "https://x.com/SintaviaAM",
+    "https://x.com/sintavia",
+    "https://x.com/hashtag/sintavia",
+    "https://x.com/SBA_Kelly/status/2074264993852178650",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/lovergrl2002/status/2114215220327678069",
+    "https://x.com/adrnvic/status/2116339042962833541"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Sintavia",
+   "results": [
+    "https://www.linkedin.com/company/sintavia",
+    "https://www.linkedin.com/in/brian-r-neff-7b0243137",
+    "https://www.linkedin.com/in/pavlo-earle-05500b29",
+    "https://www.linkedin.com/in/andrew-fletcher-2b0106140",
+    "https://www.linkedin.com/in/lewislindsay",
+    "https://www.linkedin.com/in/ericjsherman",
+    "https://www.linkedin.com/in/mark-absher-b4380415"
+   ]
+  },
+  {
+   "query": "site:facebook.com Sintavia",
+   "results": [
+    "https://www.facebook.com/Sintavia-LLC-102587228526673/",
+    "https://www.facebook.com/SiemensDISoftware/videos/sintavia/737240960553072/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/SiemensDISoftware/videos/sintavia/601998427275460/",
+    "https://www.facebook.com/QueenSeantavia/",
+    "https://www.facebook.com/SiemensDISoftware/videos/sintavia/403814397657420/"
+   ]
+  },
+  {
+   "query": "Sintavia note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://www.linkedin.com/company/sintavia/people/",
+    "https://sintavia.com/leadership/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://sintavia.com/",
+    "https://leadiq.com/c/sintavia/5a1da8d323000052009cd6cf/employee-directory"
+   ]
+  },
+  {
+   "query": "Sintavia X 投稿",
+   "results": [
+    "https://x.com/sintavia",
+    "https://x.com/SintaviaAM",
+    "https://x.com/hashtag/sintavia",
+    "https://www.tiktok.com/@s1ntavia",
+    "https://www.instagram.com/sintavia__/",
+    "https://www.instagram.com/sintavia_/",
+    "https://sintavia.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索15回）",
+  "資本金": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索15回）",
+  "保有設備": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索15回）",
+  "認証": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索15回）"
+ }
+}

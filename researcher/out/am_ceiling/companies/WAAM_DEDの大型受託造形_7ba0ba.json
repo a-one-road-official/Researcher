@@ -1,0 +1,1770 @@
+{
+ "name": "WAAM・DEDの大型受託造形",
+ "en": "wire arc additive manufacturing service large parts price",
+ "aliases": [
+  "WAAM 受託",
+  "DED 受託造形",
+  "ワイヤアーク 積層造形 受託"
+ ],
+ "context": "方式・大型",
+ "kind": "market",
+ "researched_at": "2026-11-04T10:37:15.934052+00:00",
+ "evidence": {
+  "1件の単価": [
+   {
+    "quote": "価格帯はPBF方式で3,000万円〜、DED方式で3,000万円以上、金属フィラメント方式なら数十万円から導入可能です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "一度金型が完成して大量生産体制を確立した後には、部品1点あたりの生産速度、コスト共に鋳造や粉末冶金に軍配が上がります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円～",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円以上",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター自体、レーザーなどの高額な部品を利用するため、装置価格が数千万円以上するケースも多く、まだ手軽に手を出せる装置ではないため、設計する側も、造形する側も試行錯誤をしながら取り組んでいるという反面、す早い段階から受託造形に取り組んでいる一部のサービスビューロはノウハウを蓄積し、世界的に知名度を上げているケースもあります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "同システムのメーカー希望需要家価格は7500万円（税別）からで、同社は初年度に20式の販売を目指す",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、同事業において国内市場の開拓を進めるとともに、次年度以降は欧米市場への参入も視野に入れ、2030年に売上高100億円を目指す",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンが国内初のアーク溶接金属３Dプリンター開発、WAAMシステムと受託加工で売上100億円創出｜News｜工作機械のニュースはMono Que ＜モノクエ＞",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンが国内初のアーク溶接金属３Dプリンター開発、WAAMシステムと受託加工で売上100億円創出",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンタ受託造形の完全ガイド：費用相場・事業者比較・選び方コラム",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンタ受託造形の完全ガイド：費用相場・事業者比較・選び方",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ受託造形の費用相場はいくら?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり金額を左右する4要素とは?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. 金属3Dプリンタの受託造形は1個からでも依頼できますか?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "Q2. 金属3Dプリンタ受託造形の見積もりにはどのようなデータが必要ですか?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "「金属3Dプリンタで試作品を作りたいけれど、装置導入には数千万円もかかる」「小ロットだけ外注したいが、どの業者に頼めばいいのか分からない」——こうした悩みを抱える製造業の担当者は少なくありません",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、費用相場から主要9社の比較、素材選定、発注前チェックリストまでを2026年最新情報で網羅的に解説します",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円*1",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円の装置投資、粉末材料の在庫リスク、専用オペレーターの人件費が一切かからず、必要な時に必要な分だけ発注できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型を作らず1個から製造できるため、金型製作費（一般的に数十万〜数百万円）が不要になります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、本事業において、日本国内市場の開拓を着実に推進した上で、来年度以降は国内を上回る規模の欧米市場への参入を図り、2030年に売上高100億円の達成を目指します",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "75,000,000円（税抜）",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属8種類以上に対応し、3Dデータをアップロードするだけで最短5秒で見積もりを取得可能",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "1個〜の試作対応か、量産（数百〜数千個）に対応しているか",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "選定時は「精度・材料・後加工の一貫性・品質保証」の4点を軸に複数社に見積もりを取ることをおすすめします",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの受託サービスとは？費用相場と選び方を解説 ｜ SOLIZEオンライン3Dプリント出力サービス",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの受託造形とは？費用相場と選び方を解説",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの受託サービスとは？費用相場と選び方を解説",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、金属3Dプリントの受託造形の仕組みから、費用相場、失敗しない受託先の選び方、発注の流れまでをわかりやすく解説します",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリント受託サービスの費用相場",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "向いている（1個から対応可）",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリント受託サービスの費用は、部品のサイズ・材料・数量・後加工の有無によって大きく変動するため、一律の相場を示すことは難しいのが実情です",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、費用を左右する主な要因は次の4つに整理できます",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "DEDによる3Dプリントには専用設備が必要となるため、初期費用が高く操作には専門的な知識と技術が求められます",
+    "url": "https://www.3dpc.co.jp/articles/ded-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "価格 ◆書籍 143,000円（本体130,000円 消費税13,000円）",
+    "url": "https://www.act-pr.co.jp/report_detail/id=",
+    "pass": 3
+   },
+   {
+    "quote": "◆PDF（CD-R）110,000円（本体130,000円 消費税13,000円）",
+    "url": "https://www.act-pr.co.jp/report_detail/id=",
+    "pass": 3
+   },
+   {
+    "quote": "◆セット（書籍＋PDF）176,000円（本体160,000円 消費税16,000円）",
+    "url": "https://www.act-pr.co.jp/report_detail/id=",
+    "pass": 3
+   },
+   {
+    "quote": "How do I request a WAAM 3D printing quote?",
+    "url": "https://oneoffrobotics.com/waam-3d-printing-service",
+    "pass": 3
+   },
+   {
+    "quote": "USD 160 Million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 608 Million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Wire Arc Additive Manufacturing Market size, 2019 to 2034 (USD Million)",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Base year 2025, historical data from 2019, forecast to 2034. Market values are established by Dataintelo research in USD Million, built from",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 revenue and other income USD 4.1 million; RPD titanium accepted into MMPDS, December 2025",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ArcBuilder 3D launched at Robot Technology Japan 2026, priced USD 450,000 to 500,000",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "DAIHEN entered the WAAM market with the ArcBuilder 3D at Robot Technology Japan 2026, priced at USD 450,000 to 500,000.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "5 regions: North America, Europe, Asia Pacific, Latin America, Middle East & Africa, with 16 country forecasts",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.2.2 Europe",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 13 Europe Wire Arc Additive Manufacturing Analysis and Forecast",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.2 Europe Wire Arc Additive Manufacturing Market Size Forecast by Country",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Inside MX3D quotes, all these elements are sold together or tailored according to the needs of the company and for the project requirements.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "These elements influence the actual value of the quotes, modify the final price depending on the country, market, quantity of systems, and also the transport distance, so the logistics behind the shipment and deployment of the MX3D M1 and MX Systems. For procurement, this means you must compare capability packages (what’s included) rather than single line-item prices.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D offers complete packages, tailored for each customer, where all these features and add-ons are included in the final price and quote for the M1 and MX WAAM Metal AM Systems.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Values ​​​​​​​​​​​​​​​​​​​​assume a stable, productive process and exclude amortization, qualification, scrap, rework, logistics, post-machining, heat treatment, and certification standards for specific prints and regional installation differences, but MX3D includes all these details and aspects in the proposed quote for any project.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   }
+  ],
+  "最大案件・上限": [
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "また、同事業において国内市場の開拓を進めるとともに、次年度以降は欧米市場への参入も視野に入れ、2030年に売上高100億円を目指す",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "独自に開発した高剛性アームにより、この分野で世界最大となる可搬質量20kgを達成している",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンが国内初のアーク溶接金属３Dプリンター開発、WAAMシステムと受託加工で売上100億円創出｜News｜工作機械のニュースはMono Que ＜モノクエ＞",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンが国内初のアーク溶接金属３Dプリンター開発、WAAMシステムと受託加工で売上100億円創出",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "最大10m級、造船や航空宇宙向け大型構造物を積層造形",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円*1",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、初期投資ゼロ、試作・小ロット対応、複雑形状の実現、リードタイム短縮という4点が受託造形の最大の価値であり、これらは自社導入では得にくい優位性です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円の装置投資、粉末材料の在庫リスク、専用オペレーターの人件費が一切かからず、必要な時に必要な分だけ発注できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "造形サイズは最大500mm角程度が一般的で、それを超える大型部品は後述するDED方式が選択肢になります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、本事業において、日本国内市場の開拓を着実に推進した上で、来年度以降は国内を上回る規模の欧米市場への参入を図り、2030年に売上高100億円の達成を目指します",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大級の金属3Dプリンターを保有し、試作・治工具製作に対応",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントは、金型不要で複雑形状を一体成形できる点が最大の強みです",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大級のキャパシティを誇る自社保有の樹脂3Dプリンターで製作対応",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "従来のパウダーベッド溶融結合（Powder Bed Fusion：PBF）技術は、小型の造形チャンバーに制約されるため、一般的に最大造形サイズは約300mm以下に限られます",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、標準サイズを超える大型部品にも対応できるようカスタマイズ構成が可能で、最大750kgの大型部品を取り扱える積載能力（Payload Capacity）へ拡張することができます",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊なアトマイズ金属粉末（Atomized Powder）は、場合によっては1kgあたり最大20倍ものコストがかかることがあります",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリントで製造できる最大の金属部品はどのくらいの大きさですか？",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "世界最大の3Dプリンターは何ですか？",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3Dは、アムステルダムの受託製造施設に15台以上の自動化ロボットシステムを導入しており、最大20トンの構造部品まで製造可能な制約のない（Unconstrained）高い拡張性を備えた生産環境を提供しています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "高生産性ロボットセルは毎時最大8kgの積層速度を維持できるため、実際の造形（プリント）工程は非常に短時間で完了します",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "最大1.5m角の大型部品に対応",
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area12_pre.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D received an order worth about AUD 9.9 million for four ARCEMY X systems from HII Newport News Shipbuilding.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Navy uses WAAM to replace parts whose castings take months to arrive. AML3D won an AUD 2.61 million contract in March 2026 for nickel aluminium bronze submarine replacement components, the first portable ARCEMY came online at the Navy Additive Manufacturing Center of Excellence in May 2026, and Lincoln Electric prints parts for Electric Boat in Cleveland.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   }
+  ],
+  "顧客1社の年間": [
+   {
+    "quote": "この量産性という課題を克服するために、金属を混錬した樹脂材料をMEX方式やバインダージェット方式の3Dプリンターで造形し、脱脂や焼結することで金属部品を生み出す装置が市場に投入されはじめました",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Q6. 金属3Dプリンタ受託造形は量産にも向いていますか?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "「金属3Dプリンタで試作品を作りたいけれど、装置導入には数千万円もかかる」「小ロットだけ外注したいが、どの業者に頼めばいいのか分からない」——こうした悩みを抱える製造業の担当者は少なくありません",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "特に2024年以降はバインダージェット（BJT）方式の普及によって、これまで試作中心だった金属AMが量産領域にも進出し始めました",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "目安として、年間造形量が500cm³以下、かつ多品種少量の試作が中心であれば受託造形が圧倒的に優位です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、初期投資ゼロ、試作・小ロット対応、複雑形状の実現、リードタイム短縮という4点が受託造形の最大の価値であり、これらは自社導入では得にくい優位性です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "1個〜の試作対応か、量産（数百〜数千個）に対応しているか",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "は量産・研究用途向けで、Kabuku ConnectやJ・3Dがワンストップの窓口になる",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、量産フェーズでは切削加工や鋳造・鍛造の方がコストを抑えやすいため、「試作・小ロットは3Dプリント受託サービス、量産は切削・鋳造・鍛造」といった使い分けも実務ではよく行われています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "量産向けの大ロット対応が中心の業者だと、1〜数個の試作依頼を後回しにされたり、割高な設定になっていたりする場合があります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": ". この統合生産インフラは、24時間365日（24/7）の自動化生産体制で稼働しており、重工業向けに年間数千kg規模の金属部品を生産できる、高い拡張性を備えた受託製造（Contract Manufacturing）体制を提供しています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "3．直近（過去1年間）の金属AM導入状況",
+    "url": "https://www.act-pr.co.jp/report_detail/id=",
+    "pass": 3
+   },
+   {
+    "quote": "表33. 豊田自動織機のダイカスト用三次元冷却金型のダイカスト量産条件",
+    "url": "https://www.act-pr.co.jp/report_detail/id=",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, a compound annual growth rate of",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   }
+  ],
+  "用途別": [
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "医療（168）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "主な造形方式は、PBF（高精度・航空宇宙向け）、DED（大型部品・補修向け）、FDM/MEX（低コスト導入向け）、WAAM（超大型部品向け）の4種類",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金型を用意し、融かした金属を流し込み、冷やし、固める工法",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金型を用意し、金属粉末を型に入れて焼き固める工法",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金型が不要で部品形状の自由度が高い",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、金型が不要で部品形状の自由度が非常に高い点が特長です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造や粉末冶金では、金型を作らなければなりません",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "専用の特殊合金で作られる金型は、少なくとも数週間の製作期間が必要です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "対する3Dプリンターの場合、金型が必要ないため、発注からテスト部品製作までの期間を大幅に短縮することができます",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "イチから金型を作り直さなければならない鋳造や粉末冶金と違い、3Dデータの書き換えで済むためです",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "一度金型が完成して大量生産体制を確立した後には、部品1点あたりの生産速度、コスト共に鋳造や粉末冶金に軍配が上がります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この点が大きな普及のネックになっており、最終部品に厳格な認証を通過する必要がある航空・宇宙・医療などの分野にとどまっている現状があります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "上記のような長所、短所を踏まえて、金属3Dプリンターの特徴を最も活かしている業界が、航空宇宙・医療分野だと言われています",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "同社はWAAM事業を通じて、船舶や建設機械、航空宇宙などの大型構造物分野における製造革新を支援する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンは、半導体製造の先進後工程向けパネル搬送ロボット「SPR-AD020BPN」シリーズの受注を開始した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "環境・エネルギー",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "最大10m級、造船や航空宇宙向け大型構造物を積層造形",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "㍍級の金属部品を造形できるため大型構造物を扱う船舶やエネルギー、航空宇宙分野で注目が高まっているが、入熱による変形や造形のバラつきなど品質の安定性が課題だった",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "例として船舶プロペラやロケットノズルを模した部品を披露した",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "DED（指向性エネルギー堆積）方式の特徴と適用領域",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野での受託造形",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "医療・歯科分野での受託造形",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型分野でのコンフォーマルクーリング活用事例",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "市場動向としては、航空宇宙・医療・金型・自動車分野を中心に採用が急速に広がっています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型を作らず1個から製造できるため、金型製作費（一般的に数十万〜数百万円）が不要になります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "第三に、コンフォーマルクーリング金型や中空構造、ラティス構造など従来工法では作れない複雑形状を実現できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタは金型不要のため、1個からでも経済的に製造できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "多品種少量の産業機械部品、医療機器の患者ごとにカスタマイズされたインプラント、モータースポーツ用の特殊部品など、少量高付加価値の分野と特に相性が良いのが特徴です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタは粉末や金属ワイヤーを一層ずつ積み上げていく方式のため、金型内部を自由な曲線で走る冷却水路（コンフォーマルクーリング）や、内部に空洞を持つ軽量化部品、格子状のラティス構造などを一体成形できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型のコンフォーマルクーリングを採用すると、樹脂成形の冷却時間を20〜40%短縮できる事例も報告されており、量産金型分野でも活用が広がっています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "一般産業、医療",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "軽量化部品、自動車",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空、医療インプラント",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空エンジン、高温部品",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "本事業への参入により、船舶、エネルギー、建設機械から航空･宇宙産業に至るまで、あらゆる大型構造物分野を対象に、従来の鋳造や切削加工に代わる高速かつ低コストな製造ソリューションを提供し、ものづくりの革新と産業の発展に貢献してまいります",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、従来工法（鋳造･切削加工等）に対して、金型製作が不要であることに加え、材料ロスが少なく設計自由度と生産性の高い金属3Dプリンティング技術の活用が注目されています",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作から量産・金型修復まで、用途に合ったパートナー探しにご活用ください",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "複雑形状・コンフォーマルクーリング金型・医療インプラント",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "指向性エネルギー堆積",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "国内で受託造形を行う企業の多くがL-PBFを主体としており、コンフォーマルクーリング金型入れ子・航空宇宙部品・医療機器など、精度要求の高い用途に強みを持っています",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "金型部品・医療（人工股関節）・航空宇宙・自動車分野に実績",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア6拠点を持つ金型メーカー",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊形状金型部品の受託造形にも対応",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "3. DED（指向性エネルギー堆積）対応の受託造形企業",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "創業50年の金型メーカー",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "傾斜機能材料・異種金属結合・金型補修を得意とする",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "大型構造物・プラント部品の補修・製造に実績があり、重工業・エネルギー分野への適用に強みを持つ",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "企業が初めてDEDを試みる際は、公的機関との連携（新エネルギー・産業技術開発機構／NEDOの補助金活用も含む）を検討するとコストを抑えられます",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "ロケット燃料タンクを想定したWAAM技術開発",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "航空・エネルギー分野向けの大型部品WAAM適用研究",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "精度が必要な金型入れ子・医療部品・航空宇宙部品に適する",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの受託造形で主に使われる工法は、パウダーベッド方式（PBF）、指向性エネルギー堆積法（DED）、バインダージェット方式の3つです",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "指向性エネルギー堆積法（DED）",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "自動車の排気部品など量産材と近い物性が求められる用途では、対応実績のある受託先を選ぶことが重要です",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "航空・自動車分野の複雑形状部品でよく採用されます",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "不向き（金型費用がかかる）",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントは、金型不要で複雑形状を一体成形できる点が最大の強みです",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "医療関連の部品・器具",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   }
+  ],
+  "価格を決める要因": [
+   {
+    "quote": "特に切削工法との比較では顕著なのですが、3Dプリンターによる造形では、材質によって造形時間が大きく変動しないと言われています",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "切削工法の場合、難削材とよばれる高硬度の材料を加工すると、加工時間が長くかかるため、マシンチャージが嵩み、コストも増大し工期も伸びてしまいます",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この点が大きな普及のネックになっており、最終部品に厳格な認証を通過する必要がある航空・宇宙・医療などの分野にとどまっている現状があります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "導入効果２：規格認証を省力化できる部品の統合",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つのメリットが規格認証する部品点数の軽減です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野の部品は、ISOやASTMなどで策定された厳格な規格認証プロセスを合格し、認証を得なければなりません",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この認証を得るプロセスにはコストと時間がかかり、設計変更の度にやり直す必要があります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙にロケットを打ち上げる際の大きなコスト要因である重量を軽減し、コストも時間も手間もかかる認証プロセスを省力化できる3Dプリンター製部品は航空宇宙用の部品生産技術として一定の地位を確立しています",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "造形時間が早い",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "材質は軟鋼で造形時間は",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "マルチレーザー機は従来の1台のレーザーではなく、複数のレーザーを同時稼働させることで造形時間を大幅に短縮できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "造形物の体積（cm³）に素材ごとの単価を掛けて算出され、これに造形時間、後加工費、検査費、装置セットアップ費が加算される構造です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "サイズは体積課金の基本要素で、造形時間にも直結します",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "特殊な後加工、厳しい公差要求、認証書類の発行などは自動見積もりに含まれないため、実務では専門事業者への直接問い合わせと併用するのが現実的です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、大手専門事業者（東レ・プレシジョン、J・3D、JAMPT、SOLIZE）は認証取得や特殊素材対応に強く、オンライン特化型（DMM.make、Kabuku Connect）は即時見積もりとスピードに強みがあり、用途と要件によって最適な選択が異なります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "※各社の対応素材、造形サイズ、認証状況、標準納期の詳細は公開情報が限られるため「要確認」としています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "医療・歯科分野ではTi64（生体適合）とCoCr合金（歯科クラウン）が中心で、生体適合性認証を持つ事業者への発注が必須です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "認証（JIS Q 9100等）を持つ事業者は航空宇宙用途で信頼性が高く、量産採用を目指すなら認証取得事業者を選ぶべきです",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、業種ごとに求められる認証、精度、素材、後加工が異なるため、業種特化の実績を持つ事業者を選ぶことが成功の鍵です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野ではJIS Q 9100やAS9100といった品質マネジメントシステム認証の取得が発注要件になるケースが多く、認証を持つ事業者を選ぶことが第一条件です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 13485の認証状況や医療機器製造業の登録状況、材料・工程の管理体制などを確認し、用途に必要な要件を満たす事業者を選定することが重要です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "発注前に整理すべき情報は、素材の指定（またはグレード要求）、要求寸法精度と表面粗さ、必要数量、希望納期、後加工の範囲、検査要件、そして用途と使用環境の7点です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証書、材料証明書、検査成績書などの書類が必要な場合も、事前に伝えておく必要があります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空・医療分野では認証書類が必須になるため、認証取得事業者を選ぶ前提で相談を進めましょう",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、金属3Dプリンタ受託造形は「問い合わせ→見積→データ入稿→造形→後加工→検査→納品」の7ステップで進み、標準的な納期は2〜4週間、短納期対応可能な事業者では最短3〜5営業日で納品されます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "HIP（熱間等方圧加圧）・熱処理・機械加工・表面研磨のワンストップ対応可否",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "造形プロセスモニタリング・CT検査・引張試験など、品質証明書の発行可否",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "：チタンやインコネルなどの高機能材料は、ステンレスやアルミ合金に比べて材料費・造形難易度が高くなる傾向があります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "：造形時間は部品の体積や高さに比例して増えるため、大型部品ほど費用が上がります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリント受託サービスの費用は「材料費＋造形費＋後加工費」の合計で決まるのが基本です",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "：造形時間や材料単価が上がるため、費用も相応に高くなる傾向があります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "造形・後加工が行われ、検査を経て納品される",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "従来の粉末焼結方式と比べてLENSは溶融プールを事前に準備する必要がないため、材料費を大幅に削減できるのが特徴です",
+    "url": "https://www.3dpc.co.jp/articles/ded-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "DEDは造形時間が短いため、小～大型部品の製造時間を大幅に短縮できます",
+    "url": "https://www.3dpc.co.jp/articles/ded-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "融点の高い合金にも対応できるため、残留応力の影響やコスト・造形時間の低減が期待されています",
+    "url": "https://www.3dpc.co.jp/articles/ded-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "実績と認証に裏付けられた導入事例： 安全性が重要なパイプラインクランプ、エネルギー分野向け大型インペラ、さらに世界初の実用3Dプリント鋼製歩道橋など、数々の実績により、その技術力と信頼性が実証されています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ヨーロッパ有数の認証・実績を備えた生産施設であるMX3Dは、この技術の産業規模での実用性を実証しており、世界的に有名な…をはじめとする重要な構造物の製造を先駆的に手がけています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "大型金属部品の受託製造（Contract Manufacturing）には、大容量ロボット生産システムと厳格な品質認証基準を同時に管理できる統合生産施設が求められます",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "3つ目の代表的な事例として、MX3Dは高圧の石油・ガス環境向けに設計された認証取得済みの構造用パイプラインクランプを製造しました",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "この安全性が極めて重要な（Safety-Critical）部品は、第三者機関による**厳格な非破壊検査（NDT）**を実施しており、Wire Arc Additive Manufacturing（WAAM）で製造された部品が、高い密度、優れた機械的特性、そして厳格な規制・認証要件を満たし、高リスク環境において従来の大型鍛造継手（Heavy Forged Fittings）に代わる実用的な選択肢となることを実証しました",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "このような**オープンな材料エコシステム（Open Material Ecosystem）により、エンジニアは使い慣れた認証済みの冶金材料（Metallurgy）**をそのまま活用し、積層造形へスムーズに移行することが可能です",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、エンジニアリングチームは**後処理（Post-Processing）や品質認証・検証（Qualification）**により多くの時間を充てることができます",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3Dは、ヨーロッパを代表するロボットWAAM（Wire Arc Additive Manufacturing）生産施設を運営しており、24時間365日（24/7）稼働する15基以上の自動化生産セルを活用して、世界で最も要求水準の高い産業向けに認証取得済みのニアネットシェイプ（Near-Net-Shape）部品を提供しています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "緊急の一点物（One-off）の交換部品の製造から、自社（In-house）向け大型WAAM生産システムの導入検討まで、MX3Dはアムステルダムの主要生産拠点から、専門的な技術サポート、認証済みの品質保証、そして迅速な納期対応を提供します",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットWAAM部品の非破壊検査手法：完全な産業認証ガイド | MX3D",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "図14. AM造形物のHIP効果",
+    "url": "https://www.act-pr.co.jp/report_detail/id=",
+    "pass": 3
+   },
+   {
+    "quote": "写真52. スウェーデンに設立した新たなHIP工場",
+    "url": "https://www.act-pr.co.jp/report_detail/id=",
+    "pass": 3
+   },
+   {
+    "quote": "WAAM is uniquely capable of producing very large components thanks to its scalable robotic platform. Parts can range from small prototypes to multi-meter structures, with deposition rates up to several kilograms of metal per hour. This makes WAAM ideal for large format applications such as structural aerospace components, shipbuilding, and heavy industry.",
+    "url": "https://oneoffrobotics.com/waam-3d-printing-service",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D ARCEMY X order from HII Newport News Shipbuilding",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Naval Shipbuilding Supply Gaps Pull WAAM Into Submarine Parts",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year and commercial marine and shipbuilding at",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Defense contractors and shipyards are the largest end user group with",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D received an order worth about AUD 9.9 million for four ARCEMY X systems from HII Newport News Shipbuilding.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Post-processing and qualification remain the practical brake on growth. The American Welding Society Welding Digest noted in 2025 that machining and inspection after the build constrain throughput, and every new aerospace or nuclear part number needs its own approval. Suppliers that pair cells with in-process monitoring and the inspection services sold in the",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Marine and Shipbuilding",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Contractors and Shipyards",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Application: Defense and Naval, Aerospace, Oil and Gas, Commercial Marine and Shipbuilding, Energy and Power Generation, Automotive and Tooling, Construction and Architecture",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Defense and Naval, Aerospace, Oil and Gas, Commercial Marine and Shipbuilding, Energy and Power Generation, Automotive and Tooling, Construction and Architecture, Others",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Contractors and Shipyards, Aerospace OEMs and Tier Suppliers, Energy and Industrial Manufacturers, Service Bureaus and Contract Manufacturers, Research Institutes and Universities",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   }
+  ],
+  "受託会社の売上": [
+   {
+    "quote": "また、同事業において国内市場の開拓を進めるとともに、次年度以降は欧米市場への参入も視野に入れ、2030年に売上高100億円を目指す",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンが国内初のアーク溶接金属３Dプリンター開発、WAAMシステムと受託加工で売上100億円創出｜News｜工作機械のニュースはMono Que ＜モノクエ＞",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンが国内初のアーク溶接金属３Dプリンター開発、WAAMシステムと受託加工で売上100億円創出",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、本事業において、日本国内市場の開拓を着実に推進した上で、来年度以降は国内を上回る規模の欧米市場への参入を図り、2030年に売上高100億円の達成を目指します",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "SALES@HDC3D.COM",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "sales@hdc3d.com",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "表29. 金属AM受託造形専業メーカーの直近の売上高",
+    "url": "https://www.act-pr.co.jp/report_detail/id=",
+    "pass": 3
+   },
+   {
+    "quote": "40% of revenue",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "FY2026 revenue AUD 12.5 million, up 70%; AUD 9.9 million order for four ARCEMY X systems, March 2026",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 revenue and other income USD 4.1 million; RPD titanium accepted into MMPDS, December 2025",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D reported record FY2026 revenue including lease income of AUD 12.5 million, up 70%, and its first profitable half year.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Share of 2025 revenue",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Suppliers are small and many are loss-making: Norsk Titanium reported USD 4.1 million of 2025 revenue and other income, burned an average of USD 2.6 million a month and retracted its revenue guidance in February 2026. Post-build machining and inspection constrain throughput, and each new aerospace or nuclear part needs its own qualification before production.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The main suppliers are AML3D, Lincoln Electric, Norsk Titanium, WAAM3D, DAIHEN, RAMLAB, GEFERTEC, MX3D, Addilan and ADIRA AddCreative, with Valk Welding, Fronius and KUKA supplying cells, power sources and robots. Vallourec prints its own oil and gas parts. AML3D is the largest listed pure play, with FY2026 revenue of AUD 12.5 million.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": ": AML3D FY2026 revenue, US Navy system count and utility and industrial customers for the company revenue leg",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": ": Norsk Titanium 2025 revenue, cash burn, guidance and MMPDS acceptance for plasma arc titanium",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dataintelo research built the base from the filed revenue of the listed WAAM specialists, AML3D and Norsk Titanium, and added the private system builders and the WAAM activities of Lincoln Electric, DAIHEN and Vallourec, giving a 2025 range of USD 110 million to USD 230 million with USD 160 million at the centre.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dataintelo research set the growth rate from AML3D revenue growth and order intake, US Navy Maritime Industrial Base funding, MMPDS acceptance of plasma arc titanium and new system launches, balanced against supplier losses and post-processing constraints.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific led Wire Arc Additive Manufacturing in 2025, capturing nearly 38.4% of the global market on USD 30.55 Million in revenue.",
+    "url": "https://pmarketresearch.com/auto/wire-arc-additive-manufacturing-solution-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace led Wire Arc Additive Manufacturing in 2025, capturing nearly 40.4% of global revenue",
+    "url": "https://pmarketresearch.com/auto/wire-arc-additive-manufacturing-solution-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Revenue (2032)",
+    "url": "https://pmarketresearch.com/auto/wire-arc-additive-manufacturing-solution-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Which type segment generated the most revenue in 2025?",
+    "url": "https://pmarketresearch.com/auto/wire-arc-additive-manufacturing-solution-market/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "国内の金属3Dプリンター 受託造形 企業まとめ：PBF・ DED ... — 国内の金属3Dプリンター 受託造形 企業まとめ：PBF・ DED ... tasuichi.jp https://tasuichi.jp > 金属３Dプリンタ",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ダイヘンが次世代金属積層造形事業に参入、アーク溶接技術を応用 ダイヘンは、アーク溶接技術を応用した次世代金属積層造形「WAAM」事業に参入する。大型金属部品を安定して製造できる金属積層造形システム「ArcBuilder 3D」の受注と受託造形サービスを開始する ...",
+    "url": "https://x.com/industryJapan/status/2063035773985955913",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンが次世代金属積層造形事業に参入、アーク溶接技術を応用：金... ダイヘンは、アーク溶接技術を応用した次世代金属積層造形「WAAM」事業に参入する。 大型金属部品を安定して製造できる金属積層造形システム「ArcBuilder 3D」の受注と受託造形サービスを開始する。 monoist.itmedia.co.jp 💬0 🔄1 🤍5 📊1105 📎",
+    "url": "https://x.com/industryJapan/status/2062152131273236946",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "⭐#JIMTOF2024 出展機⭐ 5軸加工機 VARIAXIS j-600/5X AM 高精度な同時5...高田真 - 株式会社J・3D 金属3Dプリンター受託造形サービス 【ご... Oct 17, 2024 · ⭐#JIMTOF2024 出展機⭐ 5軸加工機 VARIAXIS j-600/5X AM 高精度な同時5軸加工に加えて、高速造形が可能なワイヤアーク式金属積層造形 (WAAM)機能を持つハイブリッド加工機です 複雑な形状でも高速で高品質な造形が可能です！ 『AM (金属積層造形) 技術』：... 株式会社J・3D 金属3Dプリンター受託造形サービス 【ご報告】 J・3Dが3D造形した作品『技術の進化』が DMG森精機殿主催「第21回切削加工ドリームコンテス ト」 (先端加工部門)にて受賞いたしました ️ 🎖️金賞『技術の進化』〜サポート材からの脱皮 ...",
+    "url": "https://www.facebook.com/mazak.jp/videos/variaxis-j-6005x-am/535517392746573/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/articles/ded-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kuwabara-3d.com/column/c033/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://space-connect.jp/metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/waam-202403224/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/other-fields/deep-manufacturing-fortius-multi-material-waam-production-260624/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen-robot.com/event/jiws2024/pdf/area16_pre.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dempa-digital.com/article/715993",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area12_pre.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/report_detail/id=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newayaerotech.com/ja/services/3d-printing-service/faq-how-does-waam-compare-to-other-additive-methods-in-precision",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_488/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/about-waam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neway3dp.com/ja/blogs/ded-and-waam-how-we-scope-large-metal-builds",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oneoffrobotics.com/waam-3d-printing-service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/wire-arc-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waam3d.com/blog-posts/reducing-component-part-costs-using-waam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deepmanufacturing.com/insights/what-is-wire-arc-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bakerindustriesinc.com/blog/large-scale-3d-printing-services-for-massive-metal-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lincolnelectric.com/en/Solutions/Additive",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AdditiveManufacturing/comments/1adbpkt/thoughts_on_large_scale_metal_additive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://facfox.com/docs/kb/wire-arc-additive-manufacturing-waam-the-big-metal-revolution-in-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/topics/waam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ramlab.com/resources/waam-101/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lincolnelectric.com/en/solutions/additive",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/articles/the-way-ahead-for-wire-arc-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waam3d.com/blog-posts/waam-answering-frequently-asked-questions-faqs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iapt.fraunhofer.de/en/AM_Technologies/technologie_ded/technology_waam.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/waam-supplier-wire-arc-additive-manufacturing-parts-and-systems-from-mx3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waam3d.com/blog-posts/wire-arc-additive-manufacturing-enables-waste-footprint-and-cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thefabricator.com/additivereport/article/additive/wire-arc-additive-manufacturing-can-be-used-to-build-very-large-parts-to-near-net-shape",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmarketresearch.com/auto/wire-arc-additive-manufacturing-solution-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/industryJapan/status/2063035773985955913",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/industryJapan/status/2062152131273236946",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mazak.jp/videos/variaxis-j-6005x-am/535517392746573/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "WAAM・DEDの大型受託造形 単価 万円",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "https://www.kuwabara-3d.com/column/c033/",
+    "https://www.3dpc.co.jp/articles/lfam-3d-printing",
+    "https://www.neway3dp.com/ja/blogs/ded-and-waam-how-we-scope-large-metal-builds"
+   ]
+  },
+  {
+   "query": "WAAM・DEDの大型受託造形 費用 相場",
+   "results": [
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.3dpc.co.jp/articles/ded-3d-printing",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.kuwabara-3d.com/column/c033/",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "https://space-connect.jp/metal-3d-printing/",
+    "https://met3dp.com/ja/waam-202403224/",
+    "https://www.daihen.co.jp/jiws2026/pdf/area12.pdf",
+    "https://tasuichi.jp/2026/04/10/国内の金属3dプリンター受託造形企業まとめ：pbf・ded/"
+   ]
+  },
+  {
+   "query": "WAAM・DEDの大型受託造形 最大 受注 億円",
+   "results": [
+    "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "https://news.sharelab.jp/cases/other-fields/deep-manufacturing-fortius-multi-material-waam-production-260624/",
+    "https://www.daihen-robot.com/event/jiws2024/pdf/area16_pre.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://dempa-digital.com/article/715993"
+   ]
+  },
+  {
+   "query": "WAAM・DEDの大型受託造形 量産 受注 年間",
+   "results": [
+    "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "https://news.sharelab.jp/cases/other-fields/deep-manufacturing-fortius-multi-material-waam-production-260624/",
+    "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://space-connect.jp/metal-3d-printing/",
+    "https://www.daihen.co.jp/jiws2026/pdf/area12_pre.pdf",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf"
+   ]
+  },
+  {
+   "query": "WAAM・DEDの大型受託造形 売上高 受託",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.act-pr.co.jp/report_detail/id=",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "https://dempa-digital.com/article/715993",
+    "https://www.newayaerotech.com/ja/services/3d-printing-service/faq-how-does-waam-compare-to-other-additive-methods-in-precision",
+    "https://jampt.jp/column/column_488/",
+    "https://hdc3d.com/ja/about-waam/",
+    "https://met3dp.com/ja/waam-202403224/",
+    "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/"
+   ]
+  },
+  {
+   "query": "wire arc additive manufacturing service large parts price price per part",
+   "results": [
+    "https://oneoffrobotics.com/waam-3d-printing-service",
+    "https://mx3d.com/wire-arc-additive-manufacturing/",
+    "https://www.waam3d.com/blog-posts/reducing-component-part-costs-using-waam",
+    "https://www.deepmanufacturing.com/insights/what-is-wire-arc-additive-manufacturing/",
+    "https://www.bakerindustriesinc.com/blog/large-scale-3d-printing-services-for-massive-metal-parts/",
+    "https://www.lincolnelectric.com/en/Solutions/Additive",
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://facfox.com/docs/kb/wire-arc-additive-manufacturing-waam-the-big-metal-revolution-in-3d-printing",
+    "https://mx3d.com/waam-supplier-wire-arc-additive-manufacturing-parts-and-systems-from-mx3d/"
+   ]
+  },
+  {
+   "query": "wire arc additive manufacturing service large parts price largest contract million",
+   "results": [
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.bakerindustriesinc.com/blog/large-scale-3d-printing-services-for-massive-metal-parts/",
+    "https://mx3d.com/wire-arc-additive-manufacturing/",
+    "https://oneoffrobotics.com/waam-3d-printing-service",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1adbpkt/thoughts_on_large_scale_metal_additive/",
+    "https://facfox.com/docs/kb/wire-arc-additive-manufacturing-waam-the-big-metal-revolution-in-3d-printing",
+    "https://www.additivemanufacturing.media/topics/waam",
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://www.waam3d.com/blog-posts/reducing-component-part-costs-using-waam",
+    "https://www.lincolnelectric.com/en/solutions/additive"
+   ]
+  },
+  {
+   "query": "wire arc additive manufacturing service large parts price serial production long-term agreement value",
+   "results": [
+    "https://mx3d.com/waam-machine-pricing/",
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://www.additivemanufacturing.media/articles/the-way-ahead-for-wire-arc-additive-manufacturing",
+    "https://www.waam3d.com/blog-posts/waam-answering-frequently-asked-questions-faqs",
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.lincolnelectric.com/en/Solutions/Additive",
+    "https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/",
+    "https://www.iapt.fraunhofer.de/en/AM_Technologies/technologie_ded/technology_waam.html",
+    "https://www.youtube.com/watch?v=v-kR4KWn1SA",
+    "https://oneoffrobotics.com/waam-3d-printing-service"
+   ]
+  },
+  {
+   "query": "wire arc additive manufacturing service large parts price revenue",
+   "results": [
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://oneoffrobotics.com/waam-3d-printing-service",
+    "https://www.bakerindustriesinc.com/blog/large-scale-3d-printing-services-for-massive-metal-parts/",
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://www.waam3d.com/blog-posts/wire-arc-additive-manufacturing-enables-waste-footprint-and-cost-reduction",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1adbpkt/thoughts_on_large_scale_metal_additive/",
+    "https://www.thefabricator.com/additivereport/article/additive/wire-arc-additive-manufacturing-can-be-used-to-build-very-large-parts-to-near-net-shape",
+    "https://facfox.com/docs/kb/wire-arc-additive-manufacturing-waam-the-big-metal-revolution-in-3d-printing",
+    "https://mx3d.com/wire-arc-additive-manufacturing/",
+    "https://mx3d.com/waam-machine-pricing/"
+   ]
+  },
+  {
+   "query": "site:note.com WAAM・DEDの大型受託造形",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/edgeworks_tokyo/n/n9772c8a7b6e4",
+    "https://note.com/good_dill292/n/nee8a8fb8e7b9",
+    "https://note.com/huge_kamaitachi/n/n50d32775ecf2",
+    "https://note.com/kinzoku2/n/n580ff8c4ae2c",
+    "https://note.com/kinzoku2/n/nd9351728b704",
+    "https://note.com/kinzoku2/n/n580ff8c4ae2c?hl=en",
+    "https://note.com/clear_aster2543/n/n1b1a3484a690",
+    "https://note.com/hmjrd/n/n629f01c61897",
+    "https://note.com/clear_aster2543/n/n89562bb66fca"
+   ]
+  },
+  {
+   "query": "site:x.com WAAM・DEDの大型受託造形",
+   "results": [
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/hirasawalab/status/2099629448157188290",
+    "https://x.com/industryJapan/status/2063035773985955913",
+    "https://x.com/industryJapan/status/2062152131273236946",
+    "https://x.com/aminsightasia/status/2075073486259683652",
+    "https://x.com/KiyomiH38873/status/2107431087672856619",
+    "https://x.com/wakuwaku_jin_jp/status/2075074109592277403",
+    "https://x.com/AEG_JSAE/status/2060269343460757776"
+   ]
+  },
+  {
+   "query": "site:linkedin.com WAAM・DEDの大型受託造形",
+   "results": [
+    "https://jp.linkedin.com/company/%E4%B8%89%E8%8F%B1%E5%95%86%E4%BA%8B%E3%83%86%E3%82%AF%E3%83%8E%E3%82%B9%E3%80%80%E6%9D%B1%E4%BA%AC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%83%BC%E3%83%BB%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://jp.linkedin.com/pulse/3d-printing-market-tech-players-walter-k%C3%B6ppel-atgte?tl=ja",
+    "https://jp.linkedin.com/in/kenichiro-shiomi-77ba111b3",
+    "https://jp.linkedin.com/in/akira-kanzaki-790bb955",
+    "https://jp.linkedin.com/company/waam3d",
+    "https://www.linkedin.com/posts/waam3d_waam-ded-additivemanufacturing-activity-7339239708377440256-btyT",
+    "https://www.linkedin.com/posts/citd_additivemanufacturing-waam-ded-activity-7432781385167167488-VcyV",
+    "https://hk.linkedin.com/in/ygaoar0328",
+    "https://uk.linkedin.com/in/jonathan-pratt-672510128",
+    "https://sg.linkedin.com/company/addept3d"
+   ]
+  },
+  {
+   "query": "site:facebook.com WAAM・DEDの大型受託造形",
+   "results": [
+    "https://www.facebook.com/toshiya.shimada.54/videos/国際ウエルディングショー-パナソニックコネクト-さんは-waamシステム-を参考出展長年培った溶接技術と高精度ロボット制御を組み合わせアーク溶接で金属ワイヤを積/2147725036143298/",
+    "https://www.facebook.com/3dp.idarts/posts/ornlとboeingがwaamで約2トンの大型金型を製造航空機複合材の量産効率向上と軽量化を支援-米国エネルギー省オークリッジ国立研究所ornlと世界最大の航/1528010636029626/",
+    "https://www.facebook.com/3dp.idarts/posts/大林組が建築分野で金属3dプリント技術を深化させwaamによる大型構造表現の実用性を実証-日本を代表する総合建設会社のひとつである大林組は建築分野における3dプ/1318470220317003/",
+    "https://www.facebook.com/mazak.jp/videos/variaxis-j-6005x-am/535517392746573/",
+    "https://www.facebook.com/3dp.idarts/posts/大林組が建築分野で金属3dプリント技術を深化させwaamによる大型構造表現の実用性を実証httpsidartscojp3dpobayashi-the-braen/1318470220317003/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/videos/jimtof2026-で上映した映像を公開-①三菱電機はお客様価値の最大化を目指しお客様に寄り添った製品ソリューション開発に取り組んでいます-材料に金属ワイヤ熱/1808537473516538/",
+    "https://www.facebook.com/metalprintj3d/posts/株式会社j３d-金属３dプリンター受託造形サービスご報告ｊ３ｄが３ｄ造形した作品技術の進化がdmg森精機殿主催第21回切削加工ドリームコンテスト先端加工部門/2560003864499837/"
+   ]
+  },
+  {
+   "query": "WAAM・DEDの大型受託造形 note 社長",
+   "results": [
+    "https://www.3dpc.co.jp/articles/ded-3d-printing",
+    "https://met3dp.com/ja/waam-202403224/",
+    "https://www.kuwabara-3d.com/column/c033/",
+    "https://news.sharelab.jp/study/am-ded/",
+    "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "https://note.com/kinzoku2/n/n988aab83fdc6",
+    "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf"
+   ]
+  },
+  {
+   "query": "WAAM・DEDの大型受託造形 X 投稿",
+   "results": [
+    "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "https://news.sharelab.jp/cases/other-fields/deep-manufacturing-fortius-multi-material-waam-production-260624/",
+    "https://www.kuwabara-3d.com/column/c033/",
+    "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "https://www.waam3d.com/blog-posts/ded-based-additive-manufacturing-and-waams-continued-rise",
+    "https://www.youtube.com/watch?v=zaHJcuyCXLg",
+    "https://space-connect.jp/metal-3d-printing/",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf"
+   ]
+  },
+  {
+   "query": "wire arc additive manufacturing service large parts price site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/mohammed-ibrahim-awad-a1b84918_using-wire-arc-additive-manufacturing-waam-activity-7208166156744986624-nmvh",
+    "https://www.linkedin.com/posts/phillips-corporation_phillipscorporation-additivemanufacturing-activity-7397257832766746624-Hne9",
+    "https://www.linkedin.com/posts/3dprintingsarah_someone-asked-me-if-we-could-use-waam-wire-activity-7519423696894283776-siW5",
+    "https://www.linkedin.com/posts/amir-sanatkar-32b8923a_manufacturing-technology-industry-activity-7487220593399070720-E5pG",
+    "https://www.linkedin.com/posts/gefertec_advanced-process-control-in-additive-manufacturing-activity-7391490159248187392-Ide8",
+    "https://www.linkedin.com/posts/alloy-additive_waam-powderded-directedenergydeposition-activity-7493268400710844416-LNwS",
+    "https://www.linkedin.com/company/deep-manufacturing",
+    "https://www.linkedin.com/company/lincoln-electric-additive-solutions",
+    "https://www.linkedin.com/posts/waam3d_waam-wirearcadditivemanufacturing-ded-activity-7353411945841999873-LNum",
+    "https://www.linkedin.com/company/addere-additive-manufacturing"
+   ]
+  }
+ ],
+ "missing": {}
+}

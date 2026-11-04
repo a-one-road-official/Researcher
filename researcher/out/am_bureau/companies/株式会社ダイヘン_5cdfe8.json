@@ -1,0 +1,3472 @@
+{
+ "name": "株式会社ダイヘン",
+ "aliases": [
+  "ダイヘン"
+ ],
+ "context": "国内・WAAM受託造形（2026年5月発表）",
+ "researched_at": "2026-11-04T10:33:16.853409+00:00",
+ "official_url": "https://www.daihen.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "1919年12月1日",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "10,596百万円",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "237,735百万円（2026年3月期、連結）",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "160,618 185,288 188,571 226,375 237,735 280,000",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "label": "・2030年売上高目標",
+    "value": "100億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "label": "・2026年度欧州売上高",
+    "value": "260億円※（2023年度実績147億円）",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/Medium-Term-Management-Plan_2026.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "160,618 185,288 188,571 226,375 237,735",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6622",
+    "pass": 3
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "71,892 83,186 78,935 96,088 105,253",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6622",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "4,542人（2026年3月末現在、連結）",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "3,783 3,732 4,669 4,606 4,542 -",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "各種電力機器、各種溶接機、産業用ロボット、半導体製造装置用高周波電源、 EV充電システム等の製造、販売、修理",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "親会社株主に帰属する当期純利益",
+    "value": "10,985 13,193 16,494 11,961 14,108 16,500",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "設備台数": [
+   {
+    "quote": "自律搬送台車",
+    "url": "https://www.daihen.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "再生可能エネルギーの導入拡大や電力系統の安定化に向けた蓄電池需要の高まりを背景に、2026年度の系統用蓄電池市場（太陽光発電併設型を含む）は前年度比約1.8倍に拡大することが見込まれております",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "外部制御による充電電力の調整を可能とし、複数台運用でも最適な充電を実現",
+    "url": "https://www.daihen.co.jp/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "独自の「4台連続充電機能」でつなぎ替えの手間を解消します",
+    "url": "https://www.daihen.co.jp/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "AGV(無人搬送台車)用",
+    "url": "https://www.daihen.co.jp/products/wireless/index02.html",
+    "pass": 1
+   },
+   {
+    "quote": "AGVの24時間連続稼働を実現することで、工場や倉庫等における単純作業を削減し、生産性をUP！",
+    "url": "https://www.daihen.co.jp/products/wireless/index02.html",
+    "pass": 1
+   },
+   {
+    "quote": "台湾に溶接機器の販売会社 台湾OTC有限会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、工場内での自動化設備連携に伴う連続稼働能力を有する機種、溶接不良の補修用途に適した機種、屋外現場での防塵･防滴性や移動時の可搬性に長けた機種、高所作業時のケーブル延長が可能な機種など、それぞれの状況に応じて複数の機種を使い分ける必要がありました",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "・既設の自動化設備との連携に伴う連続稼働（長時間にわたる溶接）を難なくこなす、水冷仕様の新型ワイヤ送給装置と新型溶接トーチをご用意",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "1台4役の多機能溶接機",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "・1台で「直流溶接」「直流ガウジング」「手溶接」「セルフシールド溶接」に対応可能",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "初年度販売目標台数",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "複数台運用でも最適な充電を実現",
+    "url": "https://www.daihen.co.jp/products/wireless/charger/",
+    "pass": 1
+   },
+   {
+    "quote": "複数台の充電器を使用する際の優先順位付けが可能",
+    "url": "https://www.daihen.co.jp/products/wireless/charger/",
+    "pass": 1
+   },
+   {
+    "quote": "EVの稼働台数・運用に応じた充電コントロールにより大規模な受電設備（キュービクル等）の増強が不要（初期投資額の抑制）",
+    "url": "https://www.daihen.co.jp/products/wireless/charger/",
+    "pass": 1
+   },
+   {
+    "quote": "2プラグ型に搭載されている「充電予約機能」により、1台目充電時に2台目の充電予約が可能です",
+    "url": "https://www.daihen.co.jp/products/wireless/quickcharger/quickcharger_30kw_50kw.html",
+    "pass": 1
+   },
+   {
+    "quote": "複数台の充電システムを同時に導入する場合も、電力使用が集中することにより発生する電力ピークを抑制し電気基本料金の低減に寄与します",
+    "url": "https://www.daihen.co.jp/products/wireless/quickcharger/quickcharger_30kw_50kw.html",
+    "pass": 1
+   },
+   {
+    "quote": "また通期連結業績予想につきましても、第２四半期までの状況に加え、再生可能エネルギー導入拡大を背景に蓄",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多数台の電源･蓄電池設備が協調（Synergy）",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• AGV(無人搬送台車)向けも取扱い",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特に、従来ロボットが使用されていなかった領域へのロボット導入が進む見通し",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " ツールを持ち替え1台複数役で自動化を実現",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "二本社制導入（東京本社新設 2024年10月） 代理店販売を促進する戦略機の投入",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 1台のロボットが複数役を担い、",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最小限の台数で最大のパフォーマンスを発揮",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "政策保有株式縮減",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・再生可能エネルギー導入の",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "韓国･台湾、他",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高圧連系蓄電所(2MW/8MWh)の導入が加速",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・従来ロボットが使用されていなかった領域へのロボット導入が進む見通し",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1台複数役で自動化を実現",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⇒台湾及び国内大手メーカ標準搭載獲得",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、信託が保有する当社株式を、期中平均株式数（四半期累計）の算定上控除する自己株式に含めておりま",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "再生可能エネルギー導入の拡大を背景に蓄電池システムの需要が大幅増加していることから、受注高は441億４百",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・社員の帰属意識･経営への参画意識向上に向けた株式報酬制度の導入",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/Medium-Term-Management-Plan_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "原則１－４（政策保有株式）",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（政策保有に関する方針）",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、取引関係や提携関係の維持及び強化を図る目的で、中長期的な企業価値向上の観点から保有の妥当性・合理性があり、資本",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コストに見合うと判断した場合に株式を保有しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、保有意義が認められなくなった場合には縮減を検討することにしております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（保有適否の精査・検証）",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、毎年保有株式ごとに、中長期的な関係維持・取引拡大・シナジー創出等の保有目的に適っているか、また、保有に伴う便益やリスク",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が資本コストに見合っているかを検証し、保有の適否を判断しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "領域を拡大させることを2026年度中期計画の基本方針の一つとしており、「脱炭素社会の実現」においては、再生可能エネルギー導入に",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、主要生産拠点における再生可能エネルギー活用設備の導入、営業車のＥＶ化にも取り組んでおります",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外国人株式保有比率 20%以上30%未満",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・当社は1,184千株の自己株式を保有しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、自己株式（1,184千株）には、社員向け株式給付信託として信託口が保有する当社株式（",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・2025年10月６日付で公衆の縦覧に供されている大量保有報告書(変更報告書)において、野村證券株式会社及びその共同保有者が2025年９月3",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・2025年12月４日付で公衆の縦覧に供されている大量保有報告書(変更報告書)において、三井住友信託銀行株式会社及びその共同保有者が20",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・2025年12月５日付で公衆の縦覧に供されている大量保有報告書において、みずほ証券株式会社及びその共同保有者が2025年11月28日現在で",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・2026年２月20日付で公衆の縦覧に供されている大量保有報告書において、三井住友ＤＳアセットマネジメント株式会社及びその共同保有者が20",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "施策の実施状況 業績連動報酬制度の導入",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．買収への対応方針の導入の有無",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "買収への対応方針の導入の有無 なし",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "再生可能エネルギーの導入拡大や電力系統の安定化に向けた蓄電池需要の高まりを背景に、2026 年度",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保有している株式、投資信託、現預金を5フォルダに分けて登録しておくことで、効率よく資産管理ができます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6622",
+    "pass": 3
+   },
+   {
+    "quote": "敷地面積が6000平方メートルの建屋を新設し、コイルやタンクを組み立てるラインなどを導入する",
+    "url": "https://www.nikkei.com/article/DGXZQOUF119JF0R11C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "生産ラインのタクトタイム（作業時間）短縮や溶接品質の安定化が求められるため、投資対効果のシビアな検証を経て導入されます",
+    "url": "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "pass": 3
+   },
+   {
+    "quote": "溶接機事業では、溶接ワイヤやトーチなどの消耗品、および保守部品の継続的な販売があり、機器の稼働台数が増えるほどベース収益が積み上がる構造を持っています",
+    "url": "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "pass": 3
+   }
+  ],
+  "最大案件・量産": [
+   {
+    "quote": "EMS事業の受注拡大と今後の成長見通しについて",
+    "url": "https://www.daihen.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "本展示会は、金属積層造形をはじめとする3Dプリンタの最新製品･ソリューションに関する日本最大級の専門展示会です",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261001.html",
+    "pass": 1
+   },
+   {
+    "quote": "EMS事業の受注拡大と今後の成長見通しについて",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度のEMS事業受注高は前年度比約2.6倍の450億円となる見通しであり、2030年度には700億円の達成を見込んでおります",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "・また、2026年4月には大手EPC事業者である株式会社サンヴィレッジと系統用蓄電所事業向け機器の供給契約を締結し、2026年度は70カ所を超える蓄電所への機器納入を予定しております",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "・蓄電池パッケージを構成する蓄電池･変圧器･パワーコンディショナ等の安定供給に向け、協力会社の拡充や当社グループ生産拠点及び関係会社での増産により生産能力を従来比約4倍に強化するとともに、受注拡大に伴う機器の納入･据付調整に対応するため、フィールドサービス要員の増強も進めております",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "EMS事業受注高推移",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらの取り組みにより、EMS事業受注高は2026年度450億円、2027年度550億円、2030年度には700億円へ拡大する見通しです",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "最大出力180kWにより充電5分で100kmの走行が可能",
+    "url": "https://www.daihen.co.jp/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに独自のワイヤレス充電技術と高速制御により電力を最大限活用、高効率充電を実現します",
+    "url": "https://www.daihen.co.jp/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "EMS事業の受注拡大と今後の成長見通しについて",
+    "url": "https://www.daihen.co.jp/newinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "系統用蓄電所（250カ所･総容量2.4GWh）への機器供給契約締結",
+    "url": "https://www.daihen.co.jp/newinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "・当社従来製品比（サイリスタ機）でCO2排出量と消費電力を最大20％削減",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "（往復最大100mまで対応）",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "本事業への参入により、船舶、エネルギー、建設機械から航空･宇宙産業に至るまで、あらゆる大型構造物分野を対象に、従来の鋳造や切削加工に代わる高速かつ低コストな製造ソリューションを提供し、ものづくりの革新と産業の発展に貢献してまいります",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンティング技術の中でも、薄く敷き詰めた金属粉末にレーザや電子ビームを照射し積層造形するPBF（パウダー･ベッド･フュージョン）方式は広く普及していますが、装置や材料のコストが高く、安全管理の負担も大きいほか、造形サイズに制約があるため大型構造物への適用が難しいとされています",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、WAAMはその高い生産性（PBF比で数倍～数十倍の造形速度）と低コスト性から適用範囲が広く、特に大型金属部品の製造に適した手法として期待が高まっていますが、入熱による変形や造形の再現性のばらつきが大きく、安定した品質をいかに確保するかが重要な課題となっています",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "5m（※最大15mまで対応 5mを超える場合オプション対応）",
+    "url": "https://www.daihen.co.jp/products/wireless/charger/",
+    "pass": 1
+   },
+   {
+    "quote": "30分（最大255分まで対応可能）",
+    "url": "https://www.daihen.co.jp/products/wireless/quickcharger/quickcharger_30kw_50kw.html",
+    "pass": 1
+   },
+   {
+    "quote": "電池システムの受注が想定以上に増加しております",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "EMS事業の受注拡大と成長見通し 脱炭素社会の実現",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 2026年度の受注高は前年度比約2.6倍の",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "需要増加により、2030年度受注高700億円超",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電力需給調整市場の拡大を背景に、今後のEMS事業は受注拡大が見込まれる電力需給調整市場の拡大を背景に、今後のEMS事業は受注拡大が見込まれる",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "EMS事業 受注高推移",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(世界最大の可搬20kg)",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⇒大型造形物や複雑形状におけるものづくり工程への適用及び",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に展開することでシナジー最大化",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最小限の台数で最大のパフォーマンスを発揮",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「エネルギーマネジメント」セグメント 受注高",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注が大幅に増加",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高水準の受注を維持",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「ファクトリーオートメーション」地域別受注高・売上高",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・世界的な生産自動化投資の回復により、受注高･売上高ともに全地域で増加",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「マテリアルプロセシング」セグメント 受注高",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・高周波電源システムの受注高は",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・作業対象物認識ＡＩの開発(2026年10月受注開始予定)",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年7月受注開始",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⇒大型造形物や複雑形状における",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期(予想)の１株当たり期末配当金については、当該株式分割の影響を考慮した金額を記載し、年間配当",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年間配当金合計の金額は210円00銭となります",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "化投資も増加したことにより、受注高は860億９千６百万円（前年同期比46.5％増）、売上高は555億７百万円（前年",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "再生可能エネルギー導入の拡大を背景に蓄電池システムの需要が大幅増加していることから、受注高は441億４百",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生産自動化関連投資の回復に加え、半導体先端パッケージ向け搬送ロボットの需要増加により、受注高は117億５",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注高 売上高 営業利益",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 25,918 6,546 16,547 49,012 1 49,014",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 24,500 8,219 22,733 55,454 1 55,456",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・脱炭素社会の実現：再生可能エネルギーの最大活用に役立つ系統用･自家消費用蓄電池",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/Medium-Term-Management-Plan_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査役は、当社の会計監査人である有限責任あずさ監査法人と、年間予定、業績報告等の定期的な打合せを含め、必要に応じて随時情報の",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、内部監査部門として、社長直轄の監査部が設置されており、監査役との協力関係の下、年間計画を立てて内部監査を実施しており",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年度の EMS 事業受注高は前年度比約2.6 倍の 450 億円とな",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "器の供給契約を締結し、2026 年度は70 カ所を超える蓄電所への機器納入を予定しております",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "もに、受注拡大に伴う機器の納入･据付調整に対応するため、フィールドサービス要員の増強も進め",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り、EMS 事業受注高は2026 年度 450 億円※4、2027 年度550",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※4 2026 年度上期末時点の受注残は、280 億円（95 件）となる見込みです",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、受注残には2027 年",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "EMS 事業の受注拡大と今後の成長見通しについて",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ＥＭＳ事業受注高推移",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最大10m級、造船や航空宇宙向け大型構造物を積層造形",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "株主のみなさまへ",
+    "url": "https://www.daihen.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元方針",
+    "url": "https://www.daihen.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "Shareholders",
+    "url": "https://www.daihen.co.jp/en/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ANNUAL GENERAL MEETING OF SHAREHOLDERS",
+    "url": "https://www.daihen.co.jp/en/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "株主のみなさまへ",
+    "url": "https://www.daihen.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "株主のみなさまへ",
+    "url": "https://www.daihen.co.jp/ir/library/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主のみなさまへ",
+    "url": "https://www.daihen.co.jp/ir/library/presentation.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主のみなさまへ",
+    "url": "https://www.daihen.co.jp/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "親会社株主に帰属する当期純利益",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主のみなさまへ",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主のみなさまへ | IR情報 | 株式会社ダイヘン",
+    "url": "https://www.daihen.co.jp/ir/library/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主のみなさまへ",
+    "url": "https://www.daihen.co.jp/ir/library/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "親会社株主に",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益及び親会社株主に帰属する中間･当期純利益を上方修正いたします",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3．2026年度 業績予想・株主還元",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度 業績予想・株主還元",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主還元130億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成長投資・株主還元 ⇒ROE向上へ",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "より投資しやすい環境を整え、株主層の拡大を図る",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年9月30日を基準日として、同日付の株主の所有する・分割の方法",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年９月30日（水曜日）を基準日として、同日最終の株主名簿に記載または記録された株",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_bunkatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社株主に帰属する",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "より投資しやすい環境を整え、株主層の拡大を図る",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年9月30日を基準日として、同日付の株主の所有する",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する四半期純利益",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する当期純利益 １株当たり当期純利益",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（株主資本の金額に著しい変動があった場合の注記） ……………………………… 8",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "７千９百万円（前年同期比28.9％増）、経常利益は47億３千３百万円（前年同期比25.3％増）、親会社株主に帰属す",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "出資金 509 509",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主資本合計 124,286 124,797",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非支配株主持分 16,716 16,785",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非支配株主に帰属する四半期純利益 380 319",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社株主に帰属する四半期純利益 1,972 2,779",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社株主に係る四半期包括利益 2,712 4,843",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非支配株主に係る四半期包括利益 457 283",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（株主資本の金額に著しい変動があった場合の注記）",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年９月30日（水曜日）を基準日として、同日最終の株主名簿に記載または記録された株主の所有する当",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "拡大し、「幸せの目標値」として定めたステークホルダーへの利益還元においても、株主配",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/Medium-Term-Management-Plan_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ダイヘングループは、当社を取り巻くステークホルダー(お客様、社員と家族、株主、資材取引先、地域社会)の皆様により多くの幸せを感じてい",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社では、「ダイヘン倫理規範」を定め利益供与の禁止等を徹底し、会社や株主共同の利益を害することがないようにしております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、関連当事者との取引は、会計基準の適用指針等に基づき判断した上で、開示すべき事項については株主総会招集通知に明記して",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査役候補は、幅広い経験と識見を備え、株主に代わり執行のチェックを行える人材を選任しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "選解任については、指名・報酬諮問委員会で代表取締役が作成した原案の妥当性を確認の上、取締役会にて決定後、株主総会に",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役・監査役の個々の選解任理由については株主総会招集通知に記載しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ダイヘングループは、当社を取り巻くステークホルダー（お客様、社員と家族、株主、資材取引先、地域社会）の皆様により多くの幸せ",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、兼任状況については有価証券報告書や株主総会招集通知に記載しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "原則５－１（株主との建設的な対話に関する方針）",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、株主との建設的な対話を重視しており、代表取締役社長が出席する決算説明会等を開催するほか、経営企画部を窓口として株主との",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの活動により得られた株主からの意見は適宜経営層にフィードバックしております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、決算説明会や当社ウェブサイト等にて開示・説明を行い、株主・投資家の理解を得るよう努めております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【大株主の状況】",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支配株主（親会社を除く）の有無 ―――",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社の有無 なし",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ので、上記「大株主の状況」には株主名簿上の所有株式数を記載しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "できませんので、上記「大株主の状況」には株主名簿上の所有株式数を記載しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「大株主の状況」には株主名簿上の所有株式数を記載しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "きませんので、上記「大株主の状況」には株主名簿上の所有株式数を記載しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４．支配株主との取引等を行う際における少数株主の保護の方策に関する指針",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "b 上場会社の親会社の業務執行者又は非業務執行取締役",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "g 上場会社の主要株主（当該主要株主が法人である場合には、当該法人の業務執行者）",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   }
+  ],
+  "採用・人数": [
+   {
+    "quote": "採用情報 | 株式会社ダイヘン",
+    "url": "https://www.daihen.co.jp/employment/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用サイト",
+    "url": "https://www.daihen.co.jp/employment/",
+    "pass": 1
+   },
+   {
+    "quote": "詳細は採用サイトをご覧ください",
+    "url": "https://www.daihen.co.jp/employment/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用は現在募集を受け付けておりません",
+    "url": "https://www.daihen.co.jp/employment/",
+    "pass": 1
+   },
+   {
+    "quote": "採用に関するお問い合わせ",
+    "url": "https://www.daihen.co.jp/employment/",
+    "pass": 1
+   },
+   {
+    "quote": "TEL / (06)6390-5503（人事部 採用・教育課直通）",
+    "url": "https://www.daihen.co.jp/employment/",
+    "pass": 1
+   },
+   {
+    "quote": "・当社の蓄電所向け蓄電池パッケージは、JC-STAR★（レベル1）認証を取得しているほか、低騒音設計や搬入･設置が容易なコンパクト設計を採用しております",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名・型番で探す",
+    "url": "https://www.daihen.co.jp/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名・型番で探す",
+    "url": "https://www.daihen.co.jp/products/wireless/index02.html",
+    "pass": 1
+   },
+   {
+    "quote": "第五代社長 小林啓次郎は、溶接機やロボットなど変圧器以外の分野へも積極的に進出し、業容拡大が進んでいた1985年、今後一層の飛躍を目指して｢株式会社ダイヘン｣へ社名を変更すると同時に、事業を行う上での基本となる考え方を表した経営理念｢信頼と創造｣を制定しました",
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 ダイヘン （英文名）DAIHEN Corporation",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "・精密部品箇所と冷却エリアを分離する当社独自のサイドフロー構造を採用",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "・直感的な操作が可能なLCDパネルを採用",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "メッキ鋼板採用により塩害にも強い高耐久構造",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社名、勤務先",
+    "url": "https://www.daihen.co.jp/contact/contact.php?form_name=wireless&mode=contact_renew",
+    "pass": 1
+   },
+   {
+    "quote": "会 社 名 株 式 会 社 ダ イ ヘ ン",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "代表者名 代表取締役社長 蓑 毛 正一郎",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "問合せ先 常務執行役員企画本部長 森 岡 正 名",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度：従来比1.2倍(設備·人員増強)",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(営業人員1.5倍)により新規顧客･新領域開拓を加速",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "規格･標準作りの推進、並びに広報･採用･IR機能の強化",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会 社 名 株 式 会 社 ダ イ ヘ ン",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_bunkatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "代表者名 代表取締役社長 蓑 毛 正一郎",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_bunkatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "問合せ先 常務執行役員企画本部長 森 岡 正 名",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_bunkatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年９月30日（水曜日）を基準日として、同日最終の株主名簿に記載または記録された株",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_bunkatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リチウムイオン蓄電池を採用した非常用電源※として",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上 場 会 社 名 株式会社ダイヘン 上場取引所 東・福",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "代 表 者 (役職名) 代表取締役社長 (氏名) 蓑毛 正一郎",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "問合せ先責任者 (役職名) 執行役員 企画本部経理部長 (氏名) 小澤 茂夫 (TEL) 06-6390-5506",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新規 ―社 （社名） 、 除外 ―社 （社名）",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益に当該見積実効税率を乗じて計算する方法を採用しております",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年９月30日（水曜日）を基準日として、同日最終の株主名簿に記載または記録された株主の所有する当",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "企業価値向上のために多様性が重要との認識の下、性別・国籍・年齢等に拘らず当社が必要とする人材を採用・育成し、能力に応じ管理職",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外国人につきましては目標を設定しておりませんが、グローバル展開を進める上で中核人材に不可欠であり、現在、関係会社役員に11名（うち",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社執行役員兼務2名）を登用しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、中途採用者につきましても目標は特段設けず、採用形態に拘らず相応しい人材を管理職等に",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "選解任については、指名・報酬諮問委員会で代表取締役が作成した原案の妥当性を確認の上、取締役会にて決定後、株主総会に",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "５．選解任・指名についての説明",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "補充原則４－１０－１（指名委員会・報酬委員会の実効性）",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬諮問委員会は、独立社外取締役3名、社外監査役2名と代表取締役2名で構成し、取締役の選任、報酬案について独立した視点から",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役会は、定款で定める12名以内で、年齢・性別・国籍を問わず、取締役会全体としての知識・経験・能力のバランス及び多様性が当社に",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "氏名又は名称 所有株式数（株） 割合（％）",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ので、上記「大株主の状況」には株主名簿上の所有株式数を記載しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "できませんので、上記「大株主の状況」には株主名簿上の所有株式数を記載しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「大株主の状況」には株主名簿上の所有株式数を記載しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "きませんので、上記「大株主の状況」には株主名簿上の所有株式数を記載しております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "定款上の取締役の員数 12名",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の人数 9名",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社外取締役の人数 3名",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ている人数 3名",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "氏名 属性 会社との関係(※)a b c d e f g h i j k",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "氏名 独立役員 適合項目に関する補足説明 選任の理由",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "藤原康文氏は大阪大学名誉教授であり、",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会又は報酬委員会に相当する",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "委員会の名称 全委員（名） 常勤委員（名） 社内取締役（名） 社外取締役（名） 社外有識者（名） その他（名）委員長（議長）",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会に相当",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬諮問委員",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "計や搬入･設置が容易なコンパクト設計を採用しております",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日経平均採用銘柄一覧",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6622",
+    "pass": 3
+   }
+  ],
+  "売上・受託売上": [
+   {
+    "quote": "2026年度のEMS事業受注高は前年度比約2.6倍の450億円となる見通しであり、2030年度には700億円の達成を見込んでおります",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらの取り組みにより、EMS事業受注高は2026年度450億円、2027年度550億円、2030年度には700億円へ拡大する見通しです",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業の基本方針である当社独自の価値を持つ「ならでは製品」開発により、社会課題解決に貢献する製品を創出することで社会のサステナビリティに貢献し、その結果が売上高・利益の増加に結びつきます",
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "10,596百万円",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "237,735百万円（2026年3月期、連結）",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "（単位：百万円）",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "(注1) 売上高には、消費税等は含んでおりません",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "この課題を解決するため、当社は長年培った独自のアーク溶接技術と高精度ロボット制御技術を融合した国内初の金属積層造形システム「ArcBuilder 3D」（以下、本製品）を開発し、WAAM事業へ参入いたします",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、本事業において、日本国内市場の開拓を着実に推進した上で、来年度以降は国内を上回る規模の欧米市場への参入を図り、2030年に売上高100億円の達成を目指します",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上高 営業利益 経常利益",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらを勘案し、中間期、通期の売上高、営業利益、経常利",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高2,377億円 営業利益187億円(2026年3月期、連結）会社規模",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・「ならでは製品<社会課題解決型製品>」創出拡大のため売上高の６％を開発費投入",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・「ならでは製品<社会課題解決型製品>」の売上高構成比率４０％以上",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・環境配慮製品の売上高構成比率８０％以上",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開発資金投入(売上高の6％)",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 3倍",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（億円） （億円）",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別売上高構成比と主要製品",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "注： 売上高構成比は2026年3月期時点",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1,885億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2,500億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3,000億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1,250億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "450億円となる見通し",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "需要増加により、2030年度受注高700億円超",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 2030年売上高目標100億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（機器販売80億円 受託造形サービス20億円）",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り売上拡大を図る",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度60億円 2026年度200億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度52億円 2026年度80億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "注： 売上高目標は非連結子会社を含む",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・第1四半期は売上高･利益すべての項目で過去最高を更新、",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実績（単位：億円） 前期比",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2,500+17.8%2,800+13.1%555+5.0%2,3772,263売上高",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 売上高6%を開発費投入",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・売上高･利益ともに、過去最高を更新",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(単位：億円）",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（単位：億円）",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高増加等",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「エネルギーマネジメント」セグメント 売上高・営業利益",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高･利益ともに微減",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売 上 高（億円）",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「ファクトリーオートメーション」地域別受注高・売上高",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・世界的な生産自動化投資の回復により、受注高･売上高ともに全地域で増加",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「ファクトリーオートメーション」セグメント 売上高・営業利益",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（億円） 売 上 高",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「マテリアルプロセシング」セグメント 売上高・営業利益",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・売上高増加及びコスト削減成果により増益",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※市場規模800億円/年(当社独自試算)",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・2030年売上高目標：100億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(百万円未満切捨て)",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する四半期純利益",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) 包括利益 2027年３月期第１四半期 5,126百万円( 61.7％) 2026年３月期第１四半期 3,170百万円( △21.4％)",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 百万円 ％",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(参考) 自己資本 2027年３月期第１四半期 156,604百万円 2026年３月期 154,030百万円",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する当期純利益 １株当たり当期純利益",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 円 銭",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "化投資も増加したことにより、受注高は860億９千６百万円（前年同期比46.5％増）、売上高は555億７百万円（前年",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   }
+  ],
+  "料金・単価": [
+   {
+    "quote": "2026年度のEMS事業受注高は前年度比約2.6倍の450億円となる見通しであり、2030年度には700億円の達成を見込んでおります",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらの取り組みにより、EMS事業受注高は2026年度450億円、2027年度550億円、2030年度には700億円へ拡大する見通しです",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業でのEV運用に伴う初期投資額の抑制や電気料金節約によるランニングコスト削減にも貢献します",
+    "url": "https://www.daihen.co.jp/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者 小林愛三は、フォード生産方式を変圧器の生産にいち早く採り入れ、当時としては画期的な｢柱上変圧器の専門製作による大量生産｣によって、高品質な製品を業界が驚くほどの低価格で提供していこうと考えました",
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "会社創立時に提唱した｢品質優良 価格低廉 納期迅速｣の精神は、当社の｢創業の精神｣として今日に至るまで継承されています",
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "10,596百万円",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "237,735百万円（2026年3月期、連結）",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "（単位：百万円）",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "110.0円",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "(50.0円)",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "162.0円",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "(75.0円)",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "165.0円",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "(82.5円)",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "180.0円",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "(84.0円)",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "210.0円",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "(105.0円)",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "・電気料金削減と脱炭素化に貢献",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "・メーカ希望価格（税抜、半自動仕様一式※）",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "「Welbee The Short Arc 500」 1,685,000円",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "「Welbee The Short Arc 500 -Field Edition-」 1,386,000円",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、本事業において、日本国内市場の開拓を着実に推進した上で、来年度以降は国内を上回る規模の欧米市場への参入を図り、2030年に売上高100億円の達成を目指します",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "・溶接･ロボットの知識やノウハウをもつ当社の専属技術サービス員が、相談･お見積もりから製造･納品にいたるすべての工程をワンストップで対応",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "メーカ希望需要家価格",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "75,000,000円（税抜）",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の詳細やお見積り、些細なご質問などお気軽にご相談ください",
+    "url": "https://www.daihen.co.jp/contact/contact.php?form_name=wireless&mode=contact_renew",
+    "pass": 1
+   },
+   {
+    "quote": "電気料金節約によるランニングコスト削減にも貢献します",
+    "url": "https://www.daihen.co.jp/products/wireless/charger/",
+    "pass": 1
+   },
+   {
+    "quote": "複数台の充電システムを同時に導入する場合も、電力使用が集中することにより発生する電力ピークを抑制し電気基本料金の低減に寄与します",
+    "url": "https://www.daihen.co.jp/products/wireless/quickcharger/quickcharger_30kw_50kw.html",
+    "pass": 1
+   },
+   {
+    "quote": "105円00銭",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "21円00銭",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（105円00銭）",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（210円00銭）",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "30円00銭",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（150円00銭）",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（255円00銭）",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "84円00銭 96円00銭 180円00銭",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高2,377億円 営業利益187億円(2026年3月期、連結）会社規模",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（億円） （億円）",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1,885億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2,500億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3,000億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1,250億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "450億円となる見通し",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "需要増加により、2030年度受注高700億円超",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年に約7兆円規模に拡大する見通し※2",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 2030年売上高目標100億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（機器販売80億円 受託造形サービス20億円）",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度60億円 2026年度200億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度52億円 2026年度80億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価格を実現し、販売シェア向上に寄与",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実績（単位：億円） 前期比",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業CF 650 億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "M&A投資100億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成長投資200億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "通常投資200億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主還元130億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "借入返済 20億円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "約26万円約132万円",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "配当性向（円）",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "創業者 小林愛三は、フォード生産方式を変圧器の生産にいち早く採り入れ、当時としては画期的な｢柱上変圧器の専門製作による大量生産｣によって、高品質な製品を業界が驚くほどの低価格で提供していこうと考えました",
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "会社創立時に提唱した｢品質優良 価格低廉 納期迅速｣の精神は、当社の｢創業の精神｣として今日に至るまで継承されています",
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイヘンは1919年の創立以来、変圧器、溶接機、産業用ロボット、半導体製造装置用高周波電源など、社会が必要とする製品の開発に取り組み、暮らしの基盤となる電力インフラの高度化や世界のものづくりの進化・発展に貢献してまいりました",
+    "url": "https://www.daihen.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪府中津町に大阪変圧器(株)を設立、柱上変圧器の専門多量生産を開始",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "香川県に四国配電（現・四国電力(株)）と合弁で四国変圧器(株)設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "電力用ヒューズの生産・販売会社 大阪ヒューズ(株)設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "福岡県に九州電力(株)と合弁で九州変圧器(株)設立（現・(株)キューヘン）",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接機第二の生産拠点として鳥取ダイヘン(株)設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "スタッド溶接専門会社 ダイヘンスタッド(株)設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "米国に溶接機器の販売会社OTCアメリカ設立（現・DAIHEN, Inc.）",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツに溶接機器の販売会社OTCヨーロッパ設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア開発会社 大分ダイヘン(株)設立（現・ダイヘンテック(株)）",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "タイに溶接機器の生産会社ダイヘンタイランド設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "タイ現地法人と合併で大形変圧器の生産・販売会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "米国に半導体製造関連機器の販売会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "電力機器の販売会社 ダイヘン電機システム(株)設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国での溶接機生産拠点として牡丹江OTC溶接機有限会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "台湾に溶接機器の販売会社 台湾OTC有限会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国に溶接機器の販売会社 OTC機電（上海）有限会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体機器事業の韓国拠点DAIHEN KOREA Co.,Ltd.設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接機器の販売会社 ダイヘン溶接メカトロシステム(株)設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国青島に第二の溶接機生産拠点を設立（OTC機電（青島）有限会社）",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国北京に電力機器の生産・販売会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国常熟にFPDの搬送ロボットの生産・販売サービス会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "インドに溶接機器の販売会社を設立（OTC DAIHEN INDIA PVT. LTD.）",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "インドネシアに溶接機器の販売会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "メキシコに溶接機器の販売会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "る創業からの主力製品",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「世の中のお役に立つ（創業者 小林愛三）」",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業以来、社会のニーズに応え、技術革新に挑み続けたダイヘングループの歩み",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "専門メーカとして創業",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「 月～）「EVワイヤレス給電協議会」設立/運営開始（2024年6月～）",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "万平方㍍規模の「研究開発センター」を設立する方針も示した",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "創業期は、電力網の整備という国策的な追い風を受け、変圧器メーカーとして基礎を築きました",
+    "url": "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "pass": 3
+   },
+   {
+    "quote": "設立・沿革（重要転換点に絞る）",
+    "url": "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "pass": 3
+   }
+  ],
+  "発言": [
+   {
+    "quote": "第五代社長 小林啓次郎は、溶接機やロボットなど変圧器以外の分野へも積極的に進出し、業容拡大が進んでいた1985年、今後一層の飛躍を目指して｢株式会社ダイヘン｣へ社名を変更すると同時に、事業を行う上での基本となる考え方を表した経営理念｢信頼と創造｣を制定しました",
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "第八代社長 田尻哲也は、当社を取り巻くステークホルダーの皆様により多くの幸せを感じていただくこと（『みんなの幸せ同時達成』）を会社の目的とし、ステークホルダーごとの具体的な目標（『幸せの目標値』）を明確に定め、その実現を目指す「経営の基本的な考え方」を2012年に制定しました",
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年に経営理念「信頼と創造」を制定した際、当時の社長である小林啓次郎が、「私は常々、私たちは何のために働くのかと思いをいたしますが、究極のところ、みんなの幸せのためと",
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役会長",
+    "url": "https://www.daihen.co.jp/company/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長",
+    "url": "https://www.daihen.co.jp/company/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役 副社長執行役員",
+    "url": "https://www.daihen.co.jp/company/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "DAIHEN VARSTROJ welding cutting and robotics d.d. 社長",
+    "url": "https://www.daihen.co.jp/company/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役会長",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "代表者名 代表取締役社長 蓑 毛 正一郎",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "代表者名 代表取締役社長 蓑 毛 正一郎",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_bunkatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "代 表 者 (役職名) 代表取締役社長 (氏名) 蓑毛 正一郎",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "代表取締役社長 蓑毛 正一郎",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "選解任については、指名・報酬諮問委員会で代表取締役が作成した原案の妥当性を確認の上、取締役会にて決定後、株主総会に",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他の事項については、経営執行の最高責任者である代表取締役社長が様々な意見を踏まえた上で意思決定を行う「経営会議」に権限を",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬諮問委員会は、独立社外取締役3名、社外監査役2名と代表取締役2名で構成し、取締役の選任、報酬案について独立した視点から",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、株主との建設的な対話を重視しており、代表取締役社長が出席する決算説明会等を開催するほか、経営企画部を窓口として株主との",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役会の議長 会長（社長を兼任している場合を除く）",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、内部監査部門として、社長直轄の監査部が設置されており、監査役との協力関係の下、年間計画を立てて内部監査を実施しており",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "により明確にされた権限範囲を超える案件については、代表取締役以下、常勤取締役・監査役で構成される経営会議による審議を経て意思決定",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会をはじめとする重要な会議への出席、業務及び財産の状況調査における内部監査部門・会計監査人との連携、代表取締役との定期的な意見",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・適切な監査実施のために、監査役と代表取締役との定期的な懇談、意見交換を行っております",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "締役社長の指示により、情報取扱責任者の管理の下、証券取引所の適時開示規則等に従って開示すべき事項を経営企画部または経理部を通じ",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、業績予想の修正など判明した事実を迅速に開示する必要がある場合には、経営会議及び取締役会に付議することに替えて、代表取締役",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社長の指示により、情報取扱責任者の管理の下、開示を行う場合もあります",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役社長 蓑毛 正一郎",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "インタビュー",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "蓑毛正一郎社長は「組織の新設は、将来的なマテリアル先進加工の本格的な事業化に向けた基盤整備の一環",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "億円規模の事業成長を目指す」と語る",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "蓑毛正一郎社長",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビューや動画も発信しモノづくりの面白さをQuest（探求）します",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "『RYUJI 竜二』柳楽優弥が語る",
+    "url": "https://www.nikkei.com/article/DGXZQOUF119JF0R11C25A2000000/",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "ダイヘンは1919年の創立以来、変圧器、溶接機、産業用ロボット、半導体製造装置用高周波電源など、社会が必要とする製品の開発に取り組み、暮らしの基盤となる電力インフラの高度化や世界のものづくりの進化・発展に貢献してまいりました",
+    "url": "https://www.daihen.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "再生可能エネルギーの活用拡大に資する機器･エネルギーマネジメントシステム、EVの利便性向上に役立つ超高速充電器やワイヤレス充電器、工場全体の生産自動化に寄与する産業用ロボット・協働ロボットやAI搬送機器、金属と樹脂などの異材を接合するシステム、半導体の微細化や生産工程の省電力化に資する高周波電源システムなど、独自の価値を持つ製品を次々と市場投入することにより、社会課題解決への貢献を拡げ、もっと世の中のお役に立つ会社へとステップアップいたします",
+    "url": "https://www.daihen.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "各種電力機器、各種溶接機、産業用ロボット、半導体製造装置用高周波電源、",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置用高周波電源装置の生産開始",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体ウエハ搬送ロボット出荷開始",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "米国に半導体製造関連機器の販売会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体機器事業の韓国拠点DAIHEN KOREA Co.,Ltd.設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体先進後工程向けパネル搬送ロボットが機械工業デザイン賞で 「日本ロボット工業会賞」を受賞",
+    "url": "https://www.daihen.co.jp/newinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "本事業への参入により、船舶、エネルギー、建設機械から航空･宇宙産業に至るまで、あらゆる大型構造物分野を対象に、従来の鋳造や切削加工に代わる高速かつ低コストな製造ソリューションを提供し、ものづくりの革新と産業の発展に貢献してまいります",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、従来工法（鋳造･切削加工等）に対して、金型製作が不要であることに加え、材料ロスが少なく設計自由度と生産性の高い金属3Dプリンティング技術の活用が注目されています",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "電気自動車の給電方式とは？",
+    "url": "https://www.daihen.co.jp/products/wireless/charger/",
+    "pass": 1
+   },
+   {
+    "quote": "電気自動車の給電方式とは？",
+    "url": "https://www.daihen.co.jp/products/wireless/quickcharger/quickcharger_30kw_50kw.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第２四半期（中間期）の連結業績につきましては、半導体関連企業の設備投資や生産自動化投資が",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 電気自動車（EV）を",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "発電所工場 太陽光発電 電気自動車家庭",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工場 半導体",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 半導体製造に欠かせない",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 半導体製造装置内で",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 自動車等の生産ラインで",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体製造装置向け",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※4.㈱富士経済「2025ワールドワイドロボット関連市場の現状と将来展望」 ※ 5.グローバルネット㈱「世界半導体製造装置・試験/検査装置市場年鑑2024」",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体デバイスの製造",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自動車、造船、建機などに",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(4)資材等取引先",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体製造関連機器etc",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多様なエネルギー源の高精度な制御技術により、金属･半導体･樹脂材料の精密な",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データセンター・半導体工場の新増設等に伴い、電力需要の増加が見込まれるデータセンター・半導体工場の新増設等に伴い、電力需要の増加が見込まれる",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体関連機器 デジタル化の推進",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体生産工程の省電力化·微細化に貢献する高周波電源や製造装置の小型化に寄与",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "標準的な半導体製造装置",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体製造プロセスで",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体の生産性向上に貢献",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "航空宇宙(ロケットノズル) 船舶(プロペラ)",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 航空宇宙･船舶など業界を中心に金属積層造形の世界市場規模は",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 自動車産業集積地である米国中西部で新規顧客への販売機会増出によ",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(営業人員1.5倍)により新規顧客･新領域開拓を加速",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資材等取引先 株 主",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新規顧客開拓や事業拡大投資",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・半導体関連企業の設備投資が高水準で推移、生産自動化投資も回復傾向にあり増収増益",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体先端パッケージ向け搬送ロボット",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高機能半導体デバイス及びメモリ向け需要",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "先端実装技術の1つで、半導体チップとプリント配線基板の間をつなぐ配線層を角型の基盤の上に形成することで小型化と高集積化を実現する技術",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・半導体ウエハ搬送用ロボットに加え、PLP※をはじめとする",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・航空･宇宙･船舶などの業界を中心に、金属積層造形の世界市場規模は、",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "航空宇宙(ロケットノズル)",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期のダイヘングループの業績は、半導体関連企業の設備投資が高水準で推移したことに加え、生産自動",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生産自動化関連投資の回復に加え、半導体先端パッケージ向け搬送ロボットの需要増加により、受注高は117億５",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生成ＡＩ関連需要の拡大を背景に、データセンター向けを中心とした半導体関連投資が好調に推移したため、受",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 25,918 6,546 16,547 49,012 51 49,063",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 24,500 8,219 22,733 55,454 53 55,507",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 25,918 6,546 16,547 49,012 1 49,014",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 24,500 8,219 22,733 55,454 1 55,456",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・中計最終年度の2023年度は半導体関連投資の先送りや中国経済の停滞を受け業績目標未達と",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/Medium-Term-Management-Plan_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デジタル化の推進 半導体製造装置向け省エネ電源",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/Medium-Term-Management-Plan_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ダイヘングループは、当社を取り巻くステークホルダー(お客様、社員と家族、株主、資材取引先、地域社会)の皆様により多くの幸せを感じてい",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ダイヘングループは、当社を取り巻くステークホルダー（お客様、社員と家族、株主、資材取引先、地域社会）の皆様により多くの幸せ",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ダイヘン取引先持株会 581,082 2.45",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式に関する事項 | IR情報 | 株式会社 ダイヘン — 株式に関する事項 | IR情報 | 株式会社 ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > info > items",
+    "url": "https://www.daihen.co.jp/ir/info/items.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン 【6622】の 大株主 情報 - 株探 — ダイヘン 【6622】の 大株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=6622",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 株式会社 ダイヘン — IR情報 | 株式会社 ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > ...",
+    "url": "https://www.daihen.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン 【6622】の 大株主 - バフェット・コード — ダイヘン 【6622】の 大株主 - バフェット・コード バフェット・コード https://www.buffett-code.com > mainshareholder",
+    "url": "https://www.buffett-code.com/company/6622/mainshareholder",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン の 大株主 | 実質 株主 ：三井住友DSアセットマネジメント — ダイヘン の 大株主 | 実質 株主 ：三井住友DSアセットマネジメント The社史 https://the-shashi.com > ダイヘンの歴史",
+    "url": "https://the-shashi.com/tse/6622/shareholders/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | 株式会社 ダイヘン — 会社概要 | 会社情報 | 株式会社 ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > company > about",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "会社沿革 | 会社情報 | 株式会社 ダイヘン — 会社沿革 | 会社情報 | 株式会社 ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > company > history",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "経営理念 | 会社情報 | 株式会社 ダイヘン — 経営理念 | 会社情報 | 株式会社 ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > company > philosophy",
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "pass": 3
+   },
+   {
+    "quote": "国内関係会社 | 会社情報 | 株式会社 ダイヘン — 国内関係会社 | 会社情報 | 株式会社 ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > company > group_company",
+    "url": "https://www.daihen.co.jp/company/group_company/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン - Wikipedia — ダイヘン - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ダイヘン",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "財務業績ハイライト | IR情報 | 株式会社 ダイヘン — 財務業績ハイライト | IR情報 | 株式会社 ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > library > highlight",
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 ダイヘン 】[6622]決算発表や業務・財務情報 | 日経電子版 — 【 ダイヘン 】[6622]決算発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6622",
+    "pass": 3
+   },
+   {
+    "quote": "3分で知る ダイヘン — 3分で知る ダイヘン 株式会社ダイヘン http://www.daihen.co.jp > recruit > about",
+    "url": "http://www.daihen.co.jp/recruit/about/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン 【6622】の最新決算発表、業績修正 - 株探 — ダイヘン 【6622】の最新決算発表、業績修正 - 株探 株探 https://kabutan.jp > ダイヘン (6622)",
+    "url": "https://kabutan.jp/stock/finance?code=6622",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ダイヘン 【東証プライム市場上場】の会社概要 - マイナビ — (株) ダイヘン 【東証プライム市場上場】の会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp57909 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57909/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン が国内初のアーク溶接 金属3Dプリンター 開発 — ダイヘン が国内初のアーク溶接 金属3Dプリンター 開発 Mono Que https://monoque.jp > news",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   },
+   {
+    "quote": "【国内初】次世代 金属 積層造形「WAAM」事業に参入 - ダイヘン — 【国内初】次世代 金属 積層造形「WAAM」事業に参入 - ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > news_260518_02",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン が次世代 金属 積層造形事業に参入、アーク溶接技術を ... — ダイヘン が次世代 金属 積層造形事業に参入、アーク溶接技術を ... MONOist https://monoist.itmedia.co.jp > articles > news064",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "ArcBuilder 3D - ダイヘン — ArcBuilder 3D - ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > products > welder",
+    "url": "https://www.daihen.co.jp/products/welder/arcbuilder3d",
+    "pass": 3
+   },
+   {
+    "quote": "【国内初】次世代 金属積層造形 「WAAM」事業に参入 - ダイヘン — 【国内初】次世代 金属積層造形 「WAAM」事業に参入 - ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > news_260518_02",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン が次世代 金属積層造形 事業に参入、アーク溶接技術を ... — ダイヘン が次世代 金属積層造形 事業に参入、アーク溶接技術を ... MONOist https://monoist.itmedia.co.jp > articles > news064",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用油入変圧器の生産能力強化について - ダイヘン — 産業用油入変圧器の生産能力強化について - ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > newinfo_2025 > news_250513",
+    "url": "https://www.daihen.co.jp/newinfo_2025/news_250513.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ダイヘン — 株式会社 ダイヘン 株式会社ダイヘン https://www.daihen.co.jp",
+    "url": "https://www.daihen.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン 、変圧器の生産能力倍増 データセンター需要で100億 ... — ダイヘン 、変圧器の生産能力倍増 データセンター需要で100億 ... 日本経済新聞 https://www.nikkei.com > ビジネス > 機械",
+    "url": "https://www.nikkei.com/article/DGXZQOUF119JF0R11C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "「株式会社 ダイヘン 」との油入変圧器の生産統合及び「新変圧 ... — 「株式会社 ダイヘン 」との油入変圧器の生産統合及び「新変圧 ... 四変テック株式会社 https://www.shihen.co.jp > 新着情報",
+    "url": "https://www.shihen.co.jp/news/post-2222/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ダイヘン 】大形変圧器の生産能力を 2 倍に増強 - PR TIMES — 【 ダイヘン 】大形変圧器の生産能力を 2 倍に増強 - PR TIMES PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000174053.html",
+    "pass": 3
+   },
+   {
+    "quote": "大形変圧器、耐雷機器、IHインバータに関するお問い合わせ — 大形変圧器、耐雷機器、IHインバータに関するお問い合わせ 株式会社ダイヘン https://www.daihen.co.jp > contact > contact",
+    "url": "https://www.daihen.co.jp/contact/contact.php?form_name=electric&mode=contact_renew",
+    "pass": 3
+   },
+   {
+    "quote": "サイリスタ機からの電気代・CO2削減量 | 製品情報 - ダイヘン — サイリスタ機からの電気代・CO2削減量 | 製品情報 - ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > welder > calc > saving_ele_cost",
+    "url": "https://www.daihen.co.jp/products/welder/calc/saving_ele_cost/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - ダイヘンスタッド株式会社 — お問い合わせ - ダイヘンスタッド株式会社 ダイヘンスタッド株式会社 https://www.daihenstud.co.jp > contact",
+    "url": "https://www.daihenstud.co.jp/contact/index.php",
+    "pass": 3
+   },
+   {
+    "quote": "株 式 会 社 ダ イ ヘ ン 会 社 説 明 会 — 株 式 会 社 ダ イ ヘ ン 会 社 説 明 会 株式会社ダイヘン PDF https://www.daihen.co.jp > setsumeikai_2026_0522",
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_0522.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー ／ ダイヘン社長 ・田尻哲也氏「工場向け提案強化」 — インタビュー ／ ダイヘン社長 ・田尻哲也氏「工場向け提案強化」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/376809",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン社長 ・蓑毛正一郎氏 「ならでは製品」資金投入 — ダイヘン社長 ・蓑毛正一郎氏 「ならでは製品」資金投入 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/615538",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン社長 ・田尻哲也氏 ハンドリングロボ用途拡大 — ダイヘン社長 ・田尻哲也氏 ハンドリングロボ用途拡大 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/587089",
+    "pass": 3
+   },
+   {
+    "quote": "【 ダイヘン 】エネルギー制御の力で脱炭素社会に挑戦【THE ... — 【 ダイヘン 】エネルギー制御の力で脱炭素社会に挑戦【THE ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=6UE7oRMjLqo",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン社長 ・田尻哲也氏「差別化製品を積極投入」 — ダイヘン社長 ・田尻哲也氏「差別化製品を積極投入」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/294622",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ダイヘン （6622）を見逃していないか AIデータセンター増設 ... ダイヘン （6622）を見逃していないか AIデータセンター増設 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ溶接機の会社が蓄電池相場で語られるのか。 ダイヘン ... なぜ溶接機の会社が蓄電池相場で語られるのか。 ダイヘン ... note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "pass": 3
+   },
+   {
+    "quote": "隠れた半導体銘柄「 ダイヘン 」｜“装置のエンジン”をつくる ... 隠れた半導体銘柄「 ダイヘン 」｜“装置のエンジン”をつくる ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/modern_eider5829/n/n8c97d64a2a4a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ダイヘン（6622）を見逃していないか AIデータセンター増設で効く受変電設備の伏兵｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン（6622）を見逃していないか AIデータセンター増設で効く受変電設備の伏兵",
+    "url": "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "pass": 3
+   },
+   {
+    "quote": "AIの普及がデータセンターの電力消費を劇的に押し上げるなか、電力インフラを支える企業群に熱い視線が注がれています。ダイヘンは、街角で見かける変圧器から始まり、自動車工場で火花を散らす溶接ロボット、そして半導体製造装置に組み込まれる極めて精密な高周波電源までを手がける、電力制御技術の老舗メーカーです。",
+    "url": "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の最大の武器は、高い電圧の電気を安全に変換する「重電の堅牢性」と、プラズマ発生をミリ秒単位で制御する「精密機器の緻密さ」という、相反するような技術を併せ持ち、それぞれの産業の深部に食い込んでいる点にあります。一方で最大のリスクは、電力インフラ、自動車産業、半導体産業という、それぞれ独自の投資サイクルを持つ顧客群への依存です。いずれかの業界が設備投資を手控えた際、または主原料である銅の価格が高騰した際に、利益率が圧迫される構造を抱えています。",
+    "url": "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "pass": 3
+   },
+   {
+    "quote": "本記事を通して、以下の構造を解き明かしていきます。",
+    "url": "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "pass": 3
+   },
+   {
+    "quote": "・ダイヘンが複数のニッチ市場で高いシェアを維持できる技術的・営業的理由 ・データセンター向け需要や半導体サイクルの波が業績に与える具体的なメカニズム ・収益を左右する原材料価格の変動と価格転嫁のタイムラグ構造 ・長期的な成長シナリオが崩れるとしたら、どのような兆候から現れるか ・投資家が定期的に観測すべき先行指標と、IR資料の読み解き方",
+    "url": "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンは、発電所から送られてくる電力を工場や家庭で使える電圧に変換する機器から、製造現場での精密な電力制御を必要とする機器まで、「電気を自在に操る技術」をインフラ、自動車、半導体の各業界に向けて提供するメーカーです。",
+    "url": "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "pass": 3
+   },
+   {
+    "quote": "創業期は、電力網の整備という国策的な追い風を受け、変圧器メーカーとして基礎を築きました。単にインフラ機器を納入するだけでなく、電力を制御するノウハウを応用し、溶接機という産業用機器へ進出したことが第一の転機です。さらに、溶接で培ったアーク（放電）制御技術を昇華させ、半導体製造プロセスにおけるプラズマ発生用電源へと事業領域を広げたことが第二の転機と言えます。時代の変遷とともに、社会が求める「電力の使われ方」の変化に技術を適応させてきた歴史が読み取れます。",
+    "url": "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ溶接機の会社が蓄電池相場で語られるのか。ダイヘン（6622）が握るパワコンという急所｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ溶接機の会社が蓄電池相場で語られるのか。ダイヘン（6622）が握るパワコンという急所",
+    "url": "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ダイヘン【6622】有価証券報告書のAI要約・前年差分・リスク分析 | カブヨミ",
+    "url": "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ダイヘン（6622）の有価証券報告書をAIが要約。前年からの変化・10年の業績と配当推移・事業リスク・同業比較をや",
+    "url": "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンと聞いて多くの人が思い浮かべるのは、電柱の上に載っている円筒形の変圧器か、工場で火花を散らすアーク溶接機のどちらかでしょう。実際この会社は、大阪で百年以上にわたって電力インフラと「ものづくりの現場」を支えてきた重電メーカーで、電力向けの小型変圧器や溶接機・溶接ロボットでは国内で高いシェアを持つと会社資料では説明されています。地味で、堅実で、良くも悪くも「昔からある会社」というのが、世間一般のイメージだと思います。ところがここ数年、この古めかしい社名が、まったく別の文脈――つまり再生可能エネルギーと蓄電池の話題の中で、急に見かけるようになりました。",
+    "url": "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "pass": 3
+   },
+   {
+    "quote": "その理由を一言でいえば、蓄電池ビジネスの本当の急所が「電池そのもの」ではなく、電池を電力網につなぎ、充放電を制御して稼がせる「パワーコンディショナ（電力変換装置、以下パワコン）」の側にあるからです。大型の蓄電池を電力網につなぐとき、電池が生む直流を交流に変え、電力網と歩調を合わせ、電力市場の値動きに合わせて充放電を指示する頭脳と心臓部――そこがパワコンと制御システムの領域になります。そしてパワコンの正体は、大電力を精密に変換・制御する装置、つまり変圧器や溶接電源とまったく同じ技術の系譜の上にあります。ダイヘンは電池をつくる会社ではありませんが、この「電力を変換し、制御する」という一点においては、百年分の蓄積を持っている。だからこそ蓄電池相場の当事者として名前が挙がるのです。",
+    "url": "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "pass": 3
+   },
+   {
+    "quote": "もっとも、話がここで終われば単なる礼賛になってしまいます。最大のリスクもまた、この構図の裏側にあります。ダイヘンは電池セルを自分で持たず、中国の電池最大手などから調達する立場です。つまり電池の供給や価格に振り回される余地があり、頼みの綱であるパワコンの領域にも、中国勢を筆頭に強力な競合が押し寄せています。加えて、蓄電池需要そのものが補助金や電力市場の制度設計に支えられている面が大きく、その前提が変われば追い風は弱まりかねません。本稿では、この「勝ち方」と「崩れ方」を、溶接機と半導体、そして電力インフラという三つの顔を横断しながら丁寧にほどいていきます。",
+    "url": "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "pass": 3
+   },
+   {
+    "quote": "この記事を最後まで読むと、次のことが自分の言葉で説明できるようになります。数字を暗記する記事ではなく、「この会社がなぜ強く、何が起きると崩れるか」という構造をつかむための記事です。",
+    "url": "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "pass": 3
+   },
+   {
+    "quote": "隠れた半導体銘柄「ダイヘン」｜“装置のエンジン”をつくる技術力とは？｜半導体ビジネスラボ",
+    "url": "https://note.com/modern_eider5829/n/n8c97d64a2a4a",
+    "pass": 3
+   },
+   {
+    "quote": "隠れた半導体銘柄「ダイヘン」｜“装置のエンジン”をつくる技術力とは？",
+    "url": "https://note.com/modern_eider5829/n/n8c97d64a2a4a",
+    "pass": 3
+   },
+   {
+    "quote": "「ダイヘン」と聞くと、多くの人が「溶接機」や「産業用ロボット」のメーカーというイメージを持つかもしれません。しかしその一方で、ダイヘンは、半導体製造装置の“エンジン”とも言える部品「高周波電源（RF電源）」を手がける、極めて技術力の高い企業でもあります。",
+    "url": "https://note.com/modern_eider5829/n/n8c97d64a2a4a",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ｜「知られざる中核部品メーカー」としてのダイヘン",
+    "url": "https://note.com/modern_eider5829/n/n8c97d64a2a4a",
+    "pass": 3
+   },
+   {
+    "quote": "他の「隠れた半導体銘柄」シリーズや「装置解説」シリーズもどうぞ",
+    "url": "https://note.com/modern_eider5829/n/n8c97d64a2a4a",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造では、エッチングやCVD（化学気相成長）などの「プラズマ加工プロセス」が重要な役割を担っています。この工程では、プラズマを安定して生成・制御する必要があり、そこで使われるのが高周波電源（RF電源）です。",
+    "url": "https://note.com/modern_eider5829/n/n8c97d64a2a4a",
+    "pass": 3
+   },
+   {
+    "quote": "この高周波電源は、まさに“装置のエンジン”にあたります。車で言えば、外観ではなく駆動力を生み出す中核部品。エンジンがなければ車が動かないのと同様に、高周波電源なしではプラズマ加工も成立しません。そしてこの“エンジン”の性能こそが、加工品質やチップの歩留まりに直結するのです。",
+    "url": "https://note.com/modern_eider5829/n/n8c97d64a2a4a",
+    "pass": 3
+   },
+   {
+    "quote": "車のエンジンに例えると…？高周波電源の位置づけを図で解説」",
+    "url": "https://note.com/modern_eider5829/n/n8c97d64a2a4a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "世界四季報 on X: \"【2%高】 ダイヘン の27年3月期、純利益200 ... 世界四季報 on X: \"【2%高】 ダイヘン の27年3月期、純利益200 ... X https://x.com > @4ki4",
+    "url": "https://x.com/4ki4/status/2116031868646916271",
+    "pass": 3
+   },
+   {
+    "quote": "LOGISTICS TODAY в X: „系統用蓄電池拡大、 ダイヘン 受注2.6 ... LOGISTICS TODAY в X: „系統用蓄電池拡大、 ダイヘン 受注2.6 ... X https://x.com > @logi_today",
+    "url": "https://x.com/logi_today/status/2100147531221205282?lang=bg",
+    "pass": 3
+   },
+   {
+    "quote": "PR TIMESテクノロジー on X: \"【 ダイヘン 】溶接機「Welbee ... PR TIMESテクノロジー on X: \"【 ダイヘン 】溶接機「Welbee ... X https://x.com > @PRTIMES_TECH",
+    "url": "https://x.com/PRTIMES_TECH/status/2115964915483848909",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株） ダイヘン - LinkedIn （株） ダイヘン - LinkedIn LinkedIn https://www.linkedin.com > company > （株）ダイヘン",
+    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "（株） ダイヘン - LinkedIn （株） ダイヘン - LinkedIn LinkedIn https://jp.linkedin.com > company > （株）ダイヘン",
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 ダイヘン のTVCMに出ています ... - Facebook 株式会社 ダイヘン のTVCMに出ています ... - Facebook Facebook https://www.facebook.com > ... > ガリーナ > Videos",
+    "url": "https://www.facebook.com/galina.japan.model/videos/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%E3%81%AEtvcm%E3%81%AB%E5%87%BA%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3-daihen-tvcm%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%83%A2%E3%83%87%E3%83%AB-%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%92%AE%E5%BD%B1%E3%83%A2%E3%83%87%E3%83%AB-%E5%A5%B3%E5%84%AA-%E3%82%B3%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%A2%E3%83%87%E3%83%AB-%E6%98%A0%E5%83%8F-%E9%96%A2%E8%A5%BF%E3%83%A2%E3%83%87%E3%83%AB/3874694665941644/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ダイヘン - Home | Facebook 株式会社 ダイヘン - Home | Facebook Facebook https://en-gb.facebook.com > pages > 株式会社ダイヘン",
+    "url": "https://en-gb.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/330094801233940",
+    "pass": 3
+   },
+   {
+    "quote": "【最優秀賞受賞  】株式会社 ダイヘン が「第11回ジャパン ... 【最優秀賞受賞  】株式会社 ダイヘン が「第11回ジャパン ... Facebook https://www.facebook.com > posts > 最優秀賞受賞株式会...",
+    "url": "https://www.facebook.com/61565884317586/posts/%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E%E5%8F%97%E8%B3%9E%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%E3%81%8C%E7%AC%AC11%E5%9B%9E%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%AC%E3%82%B8%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%892025%E3%81%A7%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%9F%E3%81%AE%E3%81%AF%E8%84%B1%E7%82%AD%E7%B4%A0%E7%A4%BE%E4%BC%9A%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E8%87%AA%E5%BE%8B%E5%88%86%E6%95%A3%E5%8D%94%E8%AA%BF%E5%9E%8B%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%83%9E/122193128408529477/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ダイヘン - Startsida | Facebook 株式会社 ダイヘン - Startsida | Facebook Facebook https://sv-se.facebook.com > pages > 株式会社ダイヘン",
+    "url": "https://sv-se.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/330094801233940",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.daihen.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/employment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261029.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/wireless/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/wireless/index02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/en/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/executive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/domestic_factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/en/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/ir/library/summary.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/ir/library/presentation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/ir/library/report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/ir/library/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/ir/library/stockholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/en/products/wireless/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/contact/contact.php?form_name=wireless&mode=contact_renew",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/wireless/charger/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/wireless/quickcharger/quickcharger_30kw_50kw.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_1007.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_bunkatsu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/2026_0804_kessanhosoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_0804_kessan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/ir/ir_pdf/Medium-Term-Management-Plan_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/ir/library/pdf/governance.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kabutan.jp/stock/holder?code=6622",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6622",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/781523",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/781523",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=zaHJcuyCXLg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUF119JF0R11C25A2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/376809",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/615538",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/587089",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/daihen-corp/32770923",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tradingview.com/symbols/TSE-6622/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/modern_eider5829/n/n8c97d64a2a4a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/4ki4/status/2116031868646916271",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/logi_today/status/2100147531221205282?lang=bg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PRTIMES_TECH/status/2115964915483848909",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/galina.japan.model/videos/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%E3%81%AEtvcm%E3%81%AB%E5%87%BA%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3-daihen-tvcm%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%83%A2%E3%83%87%E3%83%AB-%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%92%AE%E5%BD%B1%E3%83%A2%E3%83%87%E3%83%AB-%E5%A5%B3%E5%84%AA-%E3%82%B3%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%A2%E3%83%87%E3%83%AB-%E6%98%A0%E5%83%8F-%E9%96%A2%E8%A5%BF%E3%83%A2%E3%83%87%E3%83%AB/3874694665941644/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en-gb.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/330094801233940",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61565884317586/posts/%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E%E5%8F%97%E8%B3%9E%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%E3%81%8C%E7%AC%AC11%E5%9B%9E%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%AC%E3%82%B8%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%892025%E3%81%A7%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%9F%E3%81%AE%E3%81%AF%E8%84%B1%E7%82%AD%E7%B4%A0%E7%A4%BE%E4%BC%9A%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E8%87%AA%E5%BE%8B%E5%88%86%E6%95%A3%E5%8D%94%E8%AA%BF%E5%9E%8B%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%83%9E/122193128408529477/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sv-se.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/330094801233940",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ダイヘン 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.daihen.co.jp/ir/info/items.html",
+    "https://kabutan.jp/stock/holder?code=6622",
+    "https://www.daihen.co.jp/ir/",
+    "https://www.buffett-code.com/company/6622/mainshareholder",
+    "https://the-shashi.com/tse/6622/shareholders/",
+    "https://www.daihen.co.jp/ir/library/highlight.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3",
+    "https://www.daihen.co.jp/ir/library/stockholder.html",
+    "https://www.daihen.co.jp/company/group_company/",
+    "https://j-lic.com/companies/6622/shareholders"
+   ]
+  },
+  {
+   "query": "ダイヘン 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.daihen.co.jp/company/about/",
+    "https://www.daihen.co.jp/company/history/",
+    "https://www.daihen.co.jp/company/philosophy/",
+    "https://www.daihen.co.jp/company/group_company/",
+    "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3",
+    "https://www.daihen.co.jp/company/group_company/dsk.html",
+    "https://strainer.jp/companies/JP-6622/history",
+    "https://www.youtube.com/watch?v=6UE7oRMjLqo",
+    "http://www.daihen.co.jp/recruit/business/",
+    "https://ja.wikipedia.org/wiki/ダイヘン"
+   ]
+  },
+  {
+   "query": "ダイヘン 売上高 OR 年商",
+   "results": [
+    "https://www.daihen.co.jp/ir/library/highlight.html",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=6622",
+    "http://www.daihen.co.jp/recruit/about/",
+    "https://kabutan.jp/stock/finance?code=6622",
+    "https://job.mynavi.jp/27/pc/search/corp57909/outline.html",
+    "https://the-shashi.com/tse/6622/financials/sales/",
+    "https://www.automation-news.jp/2026/08/107270/",
+    "https://kitaishihon.com/company/6622/business",
+    "https://minkabu.jp/stock/6622/settlement",
+    "https://ja.wikipedia.org/wiki/売上高"
+   ]
+  },
+  {
+   "query": "ダイヘン 金属3Dプリンター 受託 売上",
+   "results": [
+    "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "https://www.nikkan.co.jp/articles/view/781523",
+    "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "https://www.daihen.co.jp/products/welder/arcbuilder3d",
+    "https://finance.biggo.jp/news/9q-pOp4BoQmpnl36QNrF",
+    "https://www.youtube.com/watch?v=zaHJcuyCXLg",
+    "https://www.sankei.com/article/20260518-32I5BUFA4JKRHCY4WNLH64T52E/",
+    "https://news.yahoo.co.jp/articles/78959fa6b53ac432d1a09e50977e93369e981ce6",
+    "https://aminsightasia.com/ja/news-ja/daihen-waam-arcbuilder-3d-ja/"
+   ]
+  },
+  {
+   "query": "ダイヘン 金属積層造形 台数 導入",
+   "results": [
+    "https://www.daihen.co.jp/products/welder/arcbuilder3d",
+    "https://www.nikkan.co.jp/articles/view/781523",
+    "https://www.youtube.com/watch?v=zaHJcuyCXLg",
+    "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "https://www.daihen.co.jp/jiws2026/pdf/area12.pdf",
+    "https://www.daihen-robot.com/event/jiws2024/pdf/area16_pre.pdf",
+    "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "https://www.daihen.co.jp/contact/form-processing/",
+    "https://prtimes.jp/main/html/rd/p/000000028.000174053.html"
+   ]
+  },
+  {
+   "query": "ダイヘン 受注 量産 大型",
+   "results": [
+    "https://www.daihen.co.jp/newinfo_2025/news_250513.html",
+    "https://www.daihen.co.jp/",
+    "https://www.nikkei.com/article/DGXZQOUF119JF0R11C25A2000000/",
+    "https://www.shihen.co.jp/news/post-2222/",
+    "https://prtimes.jp/main/html/rd/p/000000006.000174053.html",
+    "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "https://plantdb.jp/article/0323f507-4384-4b87-b56f-972dee96a929",
+    "https://kikai-news.net/2025/12/16/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%E3%80%81%E4%B8%89%E9%87%8D%E4%BA%8B%E6%A5%AD%E6%89%80%E5%86%85%E3%81%AB%E6%96%B0%E5%B7%A5%E5%A0%B4%E5%BB%BA%E8%A8%AD%E3%80%81%E5%A4%A7%E5%BD%A2%E5%A4%89%E5%9C%A7/",
+    "https://voix.jp/biz/news-analysis/178900/",
+    "https://www.daihen.co.jp/newinfo/"
+   ]
+  },
+  {
+   "query": "ダイヘン 料金 OR 見積 OR 単価",
+   "results": [
+    "https://www.daihen.co.jp/contact/contact.php?form_name=electric&mode=contact_renew",
+    "https://www.daihen.co.jp/products/welder/calc/saving_ele_cost/",
+    "https://www.daihen.co.jp/",
+    "https://www.daihenstud.co.jp/contact/index.php",
+    "https://www.daihen.co.jp/ir/ir_pdf/setsumeikai_2026_0522.pdf",
+    "https://www.daihen.co.jp/sustainability/environment/accounting.html",
+    "https://www.navitime.co.jp/taxi/result/?start=%7B%22name%22%3A%22%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%22%2C%22lon%22%3A%22473719370%22%2C%22road-type%22%3A%22default%22%2C%22lat%22%3A%22120347942%22%7D&goal=%7B%22name%22%3A%22%E5%B0%8F%E5%80%89%28%E7%A6%8F%E5%B2%A1%E7%9C%8C%29%22%2C%22lon%22%3A%22471177119%22%2C%22road-type%22%3A%22default%22%2C%22lat%22%3A%22121992844%22%7D",
+    "https://www.daihen-technos.co.jp/school/course_ippan.html",
+    "https://www.tisi.jp/casestudy/casestudy_150.html",
+    "https://ja.wikipedia.org/wiki/見積"
+   ]
+  },
+  {
+   "query": "ダイヘン 社長 インタビュー 日刊工業新聞",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/376809",
+    "https://www.nikkan.co.jp/articles/view/615538",
+    "https://www.nikkan.co.jp/articles/view/587089",
+    "https://www.youtube.com/watch?v=6UE7oRMjLqo",
+    "https://www.nikkan.co.jp/articles/view/294622",
+    "https://www.nikkan.co.jp/articles/view/589381",
+    "https://kusakabe-kikai.jp/2019/06/24/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%B8%E7%A4%BE%E9%95%B7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C-2/",
+    "https://www.daihen.co.jp/company/message/",
+    "https://www.nikkei.com/article/DGXZQOUF234PM0T21C25A2000000/",
+    "https://ja.wikipedia.org/wiki/蓑毛正一郎"
+   ]
+  },
+  {
+   "query": "ダイヘン revenue employees",
+   "results": [
+    "https://www.zoominfo.com/c/daihen-corp/32770923",
+    "https://www.daihen.co.jp/company/about/",
+    "https://www.tradingview.com/symbols/TSE-6622/",
+    "https://www.google.com/finance/quote/6622:TYO",
+    "https://pitchbook.com/profiles/company/179520-94",
+    "https://www.daihen.co.jp/en/ir/",
+    "https://www.zoominfo.com/c/otc-daihen-inc/131957200",
+    "https://rocketreach.co/otc-daihen-inc-profile_b5ddfd05f42e55dd",
+    "https://www.linkedin.com/company/daihen-corporation",
+    "https://www.daihen.co.jp/ir/library/summary.html"
+   ]
+  },
+  {
+   "query": "site:note.com ダイヘン",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n99ba386e41e8",
+    "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "https://note.com/modern_eider5829/n/n8c97d64a2a4a",
+    "https://note.com/tatsuya_sabato/n/n16d794eeb06b",
+    "https://note.com/tatsuya_sabato/n/nb67c02fe678e",
+    "https://note.com/company_scope/n/n760a687980e2",
+    "https://note.com/kakuka0904/n/n3116dea01a97",
+    "https://note.com/company_scope/n/n2e5ca312b6eb",
+    "https://money.note.com/companies/6622",
+    "https://note.com/kiki_kabu/n/n786cd6771511"
+   ]
+  },
+  {
+   "query": "site:x.com ダイヘン",
+   "results": [
+    "https://x.com/4ki4/status/2116031868646916271",
+    "https://x.com/logi_today/status/2100147531221205282?lang=bg",
+    "https://x.com/PRTIMES_TECH/status/2115964915483848909",
+    "https://x.com/jftc/status/2071482055821836792",
+    "https://x.com/inaka_tekkousho/status/1524203502737981440/photo/3",
+    "https://x.com/kensetsunews/status/2000831582865908159",
+    "https://x.com/ValueLab1_JP/status/2116026462340046890",
+    "https://x.com/nyaisa_invest/status/2109198066045911049",
+    "https://x.com/newenergy_news/status/2065162150444929232",
+    "https://x.com/intent/retweet?tweet_id=2112043827133567368&utm_source=yjrealtime&utm_medium=search"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ダイヘン",
+   "results": [
+    "https://jp.linkedin.com/company/daihen-corporation",
+    "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3",
+    "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3",
+    "https://www.linkedin.com/company/otc-daihen-inc.",
+    "https://jp.linkedin.com/in/hiroyasu-mondori-1179baa4",
+    "https://jp.linkedin.com/in/%E7%A6%8F%E7%94%B0-%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3-26a837114",
+    "https://jp.linkedin.com/in/%E5%81%A5%E5%8F%B8-%E6%A2%85%E5%9E%A3-3302ab185",
+    "https://jp.linkedin.com/company/otc-daihen-inc.?trk=ppro_cprof",
+    "https://jp.linkedin.com/posts/atsuki-tokunaga_%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E5%B7%A5%E5%A0%B4%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%E5%85%AD%E7%94%B2%E4%BA%8B%E6%A5%AD%E6%89%80-activity-7330033253266923521-V588",
+    "https://jp.linkedin.com/in/%E8%89%AF%E5%B9%B3-%E7%94%B0%E4%B8%AD-4a40a91b6"
+   ]
+  },
+  {
+   "query": "site:facebook.com ダイヘン",
+   "results": [
+    "https://www.facebook.com/galina.japan.model/videos/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%E3%81%AEtvcm%E3%81%AB%E5%87%BA%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3-daihen-tvcm%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%83%A2%E3%83%87%E3%83%AB-%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%92%AE%E5%BD%B1%E3%83%A2%E3%83%87%E3%83%AB-%E5%A5%B3%E5%84%AA-%E3%82%B3%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%A2%E3%83%87%E3%83%AB-%E6%98%A0%E5%83%8F-%E9%96%A2%E8%A5%BF%E3%83%A2%E3%83%87%E3%83%AB/3874694665941644/",
+    "https://en-gb.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/330094801233940",
+    "https://www.facebook.com/61565884317586/posts/%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E%E5%8F%97%E8%B3%9E%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%E3%81%8C%E7%AC%AC11%E5%9B%9E%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%AC%E3%82%B8%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%892025%E3%81%A7%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%9F%E3%81%AE%E3%81%AF%E8%84%B1%E7%82%AD%E7%B4%A0%E7%A4%BE%E4%BC%9A%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E8%87%AA%E5%BE%8B%E5%88%86%E6%95%A3%E5%8D%94%E8%AA%BF%E5%9E%8B%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%83%9E/122193128408529477/",
+    "https://sv-se.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/330094801233940",
+    "https://pt-br.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/330094801233940",
+    "https://he-il.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/330094801233940",
+    "https://www.facebook.com/media/set/?set=a.1050980621651852.1073741885.100002197726250&type=3",
+    "https://www.facebook.com/pages/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%E6%BA%B6%E6%8E%A5%E3%83%A1%E3%82%AB%E3%83%88%E3%83%AD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/149444321825367",
+    "https://www.facebook.com/embedded.system.industry/posts/215-%E7%B5%84%E8%BE%BC%E3%81%BF%E9%96%8B%E7%99%BA%E4%BC%81%E6%A5%AD%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%E6%A7%98%E3%82%92%E9%96%8B%E5%82%AC-2%E6%9C%8815%E6%97%A5%E9%87%91-%E3%81%AB%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%E6%A7%98%E3%81%AB%E3%81%A6%E7%B5%84%E8%BE%BC%E3%81%BF%E9%96%8B%E7%99%BA%E4%BC%81%E6%A5%AD%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E8%87%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E7%B5%84%E8%BE%BC%E3%81%BF%E9%96%8B%E7%99%BA%E4%BC%81%E6%A5%AD%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%81%A8%E3%81%AF%E3%81%94%E5%8D%94%E5%8A%9B%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8F%E4%BC%81%E6%A5%AD%E6%A7%98%E3%81%AE/1106819572823886/",
+    "https://ms-my.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/330094801233940"
+   ]
+  },
+  {
+   "query": "ダイヘン note 社長",
+   "results": [
+    "https://www.daihen.co.jp/company/message/",
+    "https://www.daihen.co.jp/company/about/",
+    "https://www.daihen.co.jp/company/executive/",
+    "https://note.com/tatsuya_sabato/n/n4c6bbd7f876a",
+    "https://www.youtube.com/watch?v=6UE7oRMjLqo",
+    "https://www.daihen.co.jp/company/group_company/dsk.html",
+    "https://www.nikkei.com/article/DGXZQOHD244020U1A220C2000000/",
+    "https://note.com/tatsuya_sabato/n/nb67c02fe678e",
+    "https://ja.wikipedia.org/wiki/蓑毛正一郎",
+    "https://the-shashi.com/tse/6622/ceo/"
+   ]
+  },
+  {
+   "query": "ダイヘン X 投稿",
+   "results": [
+    "https://www.daihen.co.jp/products/welder/pdf/manual/co2_mag/CPXD-200_350_500_600(S-2).pdf",
+    "https://www.daihen.co.jp/products/welder/pdf/co2_mag/XD-series.pdf",
+    "https://www.daihen.co.jp/products/welder/co2_mag/xd350-2_500-2.html",
+    "https://www.daihen-robot.com/",
+    "https://www.youtube.com/watch?v=a95AQo8vJoQ",
+    "https://www.youtube.com/c/daihenjpn",
+    "https://x.com/PRTIMES_BIZ/status/1995755367234724207",
+    "https://www.daihen.co.jp/",
+    "https://www.daihenstud.co.jp/",
+    "https://x.com/daihen0526"
+   ]
+  }
+ ],
+ "missing": {
+  "保有設備": "記載なし（3回確認済み：公式30頁／PDF・画像8件／外部25頁・検索15回）",
+  "認証": "記載なし（3回確認済み：公式30頁／PDF・画像8件／外部25頁・検索15回）"
+ }
+}

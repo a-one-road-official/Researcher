@@ -1,0 +1,1577 @@
+{
+ "name": "金型の金属AM受託（冷却水管・補修）",
+ "en": "metal AM conformal cooling mold service price",
+ "aliases": [
+  "金型 金属3Dプリンター 受託",
+  "水冷管 金型 積層造形 費用",
+  "金型補修 DED 受託"
+ ],
+ "context": "用途・金型",
+ "kind": "market",
+ "researched_at": "2026-11-04T10:33:45.660696+00:00",
+ "evidence": {
+  "1件の単価": [
+   {
+    "quote": "価格帯はPBF方式で3,000万円〜、DED方式で3,000万円以上、金属フィラメント方式なら数十万円から導入可能です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "一度金型が完成して大量生産体制を確立した後には、部品1点あたりの生産速度、コスト共に鋳造や粉末冶金に軍配が上がります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円～",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円以上",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター自体、レーザーなどの高額な部品を利用するため、装置価格が数千万円以上するケースも多く、まだ手軽に手を出せる装置ではないため、設計する側も、造形する側も試行錯誤をしながら取り組んでいるという反面、す早い段階から受託造形に取り組んでいる一部のサービスビューロはノウハウを蓄積し、世界的に知名度を上げているケースもあります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的に、3Dプリンティング技術は3次元水管と相性が良いですが、この技術によって射出成形工程における効率、費用対効果、性能向上を促進し、製造におけるこれまでの固定観念を覆します",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの受託サービスとは？費用相場と選び方を解説 ｜ SOLIZEオンライン3Dプリント出力サービス",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの受託造形とは？費用相場と選び方を解説",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの受託サービスとは？費用相場と選び方を解説",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、金属3Dプリントの受託造形の仕組みから、費用相場、失敗しない受託先の選び方、発注の流れまでをわかりやすく解説します",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリント受託サービスの費用相場",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "向いている（1個から対応可）",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリント受託サービスの費用は、部品のサイズ・材料・数量・後加工の有無によって大きく変動するため、一律の相場を示すことは難しいのが実情です",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、費用を左右する主な要因は次の4つに整理できます",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "細かい形の部品を1個だけ試作したいのか、メートル級の大きな部品や補修の肉盛りなのか、チタンや耐熱合金を内部の品質まで詰めて使いたいのか",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "20社のうち1個からを明記していたのは5社、納期の数字を出していたのも一部でした",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "PBFで1個の試作部品を、表面・内面の仕上げまで任せるなら",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "1個から試作し、量産品にも対応すると記載している",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "1個から試作",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "最低1個から",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "最低1個から対応すると記載している",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの受託先を選ぶ3つの基準と費用の目安",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "1個からの対応を明記していたのは20社のうち5社だけで、納期の数字を出していたのも一部でした",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "費用の目安：料金や費用の例を公式に載せている3社",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの受託費用は、材料・体積・造形時間・後加工で大きく変わるため、多くの会社は3Dデータを受け取ってからの個別見積です",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載20社のうち、料金の例や費用の比較を数字で載せていたのは3社でした（2026年10月4日に確認、いずれも税の表記なし）",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "素材料金 SUS316L 1Kg＝26,000円、6-4チタン 1Kg＝100,000円",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "造形料金 1c㎥＝600円、または1時間＝12,000円",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "売上18.7%増の168億円 冨士ダイス（東京都大田区、03-3759-7181）の2022年3月期売上高は、18.4%増の168億7400万円だった",
+    "url": "https://kanagata-shimbun.com/202607_kanagata_maintenance_meiraku/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は11億1300万円",
+    "url": "https://kanagata-shimbun.com/202607_kanagata_maintenance_meiraku/",
+    "pass": 3
+   },
+   {
+    "quote": ", we’ve seen ISO 13485 integration for medical-grade conformal tools, reducing contamination risks. A 2024 Wohlers Report quotes, “Certifications boost trust by 40% in AM supply chains.” For conformal systems, look for AS9100 in aerospace, covering non-destructive testing like CT scans for internal channels.",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "varies by complexity and volume, with market reference ranges of $5,000-$50,000 USD per mold for small to medium runs. Lead times average 4-8 weeks, per a 2024 AMPOWER report. Factors include material costs—tool steel at $50/kg—and post-processing like heat treatment.",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "Structures: Tiered for prototypes ($2,000-$10,000 USD) vs. production ($20,000+ USD). This guide ensures actionable insights, over 300 words on economics.",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "yielded 35% efficiency gains. Quotes from SAE: “Customization drives innovation.” Ranges: $8,000-$60,000 USD.",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "to $3,000-$20,000 USD per unit. From experience, negotiating volumes cuts leads to 6 weeks. Reference",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "Steps: Assess needs, compare quotes, verify compliance. Builds trustworthiness, over 300 words.",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "By 2025, metal 3D printing conformal cooling market grows to $2.5B USD, per Grand View Research, driven by sustainability regs like EPA guidelines. Innovations include hybrid multi-material printing, per ISO updates. Pricing drops 15% with scale, but tariffs may add 10%. 2026 sees AI regulations from NIST, enhancing traceability. Reference Wohlers for verified forecasts.",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "Market reference pricing is $5,000-$50,000 USD per system. Please contact us for the latest factory-direct pricing.",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "①精度と形状の複雑さ（PBF vs DED）、②対応材料（Ti/Ni/SUS/Cuなど）、③後加工の一貫性（熱処理・機械加工まで含むか）、④品質保証体制——この4点を軸に、複数社に見積もりを取ることをおすすめします",
+    "url": "https://note.com/kinzoku2/n/nd9351728b704",
+    "pass": 3
+   }
+  ],
+  "最大案件・上限": [
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントは、金型不要で複雑形状を一体成形できる点が最大の強みです",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大級のキャパシティを誇る自社保有の樹脂3Dプリンターで製作対応",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "粉末DEDと五面加工機のハイブリッドで最大3000×1500×1100",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末DEDと五面加工機のハイブリッド機は最大造形サイズ3000×1500×1100（高さ）で、切削主軸を積んで積層造形と切削を複合で行える",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド機で最大3000×1500×1100、同時五軸DEDは200×200×200",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "造形エリアはレーザー機で最大275W×275L×420Hmm、Ti6Al4V専用機でΦ350×380Hmm",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "メートル級の大物や補修・肉盛りは、DED方式の明楽（最大3000×1500×1100）、JFEエンジニアリング鶴見製作所（φ1320×H1150）、フジ（φ500×400）が対象です",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末DED方式と五面加工機のハイブリッド機: 最大造形サイズ3000×1500×1100（高さ）、積層造形と切削の複合加工が可能",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "最大造形サイズΦ750×高さ500、Φ640×高さ600",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "最大造形サイズ200×200×200",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド機はLAMDA2000（レーザー最大6kW）",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "同時五軸機はLAMDA200（最大2kW）",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "最大3000×1500×1100",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "最大Φ350×380H",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "DED方式では明楽が最大3000×1500×1100、JFEエンジニアリング鶴見製作所がφ1320×H1150です",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "「手補修では1万~15万ショットとバラツキの多かった部品も最大22万ショットまで長寿命化できた事例もある」と木下氏",
+    "url": "https://kanagata-shimbun.com/202607_kanagata_maintenance_meiraku/",
+    "pass": 3
+   },
+   {
+    "quote": "売上18.7%増の168億円 冨士ダイス（東京都大田区、03-3759-7181）の2022年3月期売上高は、18.4%増の168億7400万円だった",
+    "url": "https://kanagata-shimbun.com/202607_kanagata_maintenance_meiraku/",
+    "pass": 3
+   },
+   {
+    "quote": "主軸最大回転速度（min-1）",
+    "url": "https://www.koeitool.com/business/3d-modeling.html",
+    "pass": 3
+   }
+  ],
+  "顧客1社の年間": [
+   {
+    "quote": "この量産性という課題を克服するために、金属を混錬した樹脂材料をMEX方式やバインダージェット方式の3Dプリンターで造形し、脱脂や焼結することで金属部品を生み出す装置が市場に投入されはじめました",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、量産フェーズでは切削加工や鋳造・鍛造の方がコストを抑えやすいため、「試作・小ロットは3Dプリント受託サービス、量産は切削・鋳造・鍛造」といった使い分けも実務ではよく行われています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "量産向けの大ロット対応が中心の業者だと、1〜数個の試作依頼を後回しにされたり、割高な設定になっていたりする場合があります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "AM金型を量産ラインに導入、磨き時間を95.3%低減",
+    "url": "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社豊田自動織機は、カーエアコン用コンプレッサを年間で3000万台以上製造しており、世界中のカーメーカー様とお取引きさせていただいています",
+    "url": "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "pass": 3
+   },
+   {
+    "quote": "コンプレッサハウジングはアルミダイカストで製造しており、大府工場とグローバル拠点で年間１億個以上の鋳造部品を生産しています",
+    "url": "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月末時点で1,198個の金型を量産ラインに導入し、累計で3,062万shotの鋳造を行っています",
+    "url": "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "pass": 3
+   },
+   {
+    "quote": "大府工場では年間約3,000万個の部品を鋳造していますが、そのうちの約13％にAM金型を適用しています",
+    "url": "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "pass": 3
+   },
+   {
+    "quote": "1個から試作し、量産品にも対応すると記載している",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月1日時点で検索「金属3Dプリント 受託」「金属3Dプリンター 受託造形」「金属AM 受託造形」「金属積層造形 受託」等で表示された公式サイト20社（金属3Dプリンターの装置メーカー・販売代理店、造形のマッチング・見積サイトの運営会社、金属材料の商社、グループ会社の案内ページは除外）を調査し、①公式サイトに金属3Dプリンターによる受託造形の記載がある ②造形方式・材料・造形サイズのいずれかの記載がある ③後加工・最小ロット・納期・見積方法のいずれかの記載がある、の3点を満たす中から、PBFで1個の試作を後加工まで任せる・大型やDEDの肉盛り・チタンや耐熱合金の品質まで詰めるの用途別に3社を選定しています",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "量産と同じダイカスト材で評価したいのか、大物や複雑形状を砂型で作りたいのか、まず1個を数日で見たいのか",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、機械の中にある造形エリアのサイズが決まっていることから、その中に入らないものは、同時に作ることができないのが量産しづらい理由です",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "SPE Blow Molding Division - 42nd SPE Annual Blow Molding Conference",
+    "url": "https://www.moldmakingtechnology.com/topics/conformalcooling",
+    "pass": 3
+   },
+   {
+    "quote": "The SPE Blow Molding Division hosts 42nd SPE Annual Blow Molding Conference on Oct. 18-20, 2027 in St. Charles, MO.",
+    "url": "https://www.moldmakingtechnology.com/topics/conformalcooling",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット・FDMメタルは量産・研究向けで、Kabuku ConnectやJ・3Dが国内窓口として機能しています",
+    "url": "https://note.com/kinzoku2/n/nd9351728b704",
+    "pass": 3
+   }
+  ],
+  "用途別": [
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "医療（168）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "主な造形方式は、PBF（高精度・航空宇宙向け）、DED（大型部品・補修向け）、FDM/MEX（低コスト導入向け）、WAAM（超大型部品向け）の4種類",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金型を用意し、融かした金属を流し込み、冷やし、固める工法",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金型を用意し、金属粉末を型に入れて焼き固める工法",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金型が不要で部品形状の自由度が高い",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、金型が不要で部品形状の自由度が非常に高い点が特長です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造や粉末冶金では、金型を作らなければなりません",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "専用の特殊合金で作られる金型は、少なくとも数週間の製作期間が必要です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "対する3Dプリンターの場合、金型が必要ないため、発注からテスト部品製作までの期間を大幅に短縮することができます",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "イチから金型を作り直さなければならない鋳造や粉末冶金と違い、3Dデータの書き換えで済むためです",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "一度金型が完成して大量生産体制を確立した後には、部品1点あたりの生産速度、コスト共に鋳造や粉末冶金に軍配が上がります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この点が大きな普及のネックになっており、最終部品に厳格な認証を通過する必要がある航空・宇宙・医療などの分野にとどまっている現状があります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "上記のような長所、短所を踏まえて、金属3Dプリンターの特徴を最も活かしている業界が、航空宇宙・医療分野だと言われています",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤーDED金属3Dプリンターで成形サイクルの冷却時間を半減する方法 | 3次元水管金型を造形するメリット",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "近年注目されている研究である、射出成形における冷却時間の短縮を実現した、3次元水管がもたらすメリットおよび3次元水管金型をより安価に速く製造できるワイヤーDED方式金属3Dプリンター「Meltio M450」をご紹介しています",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "成形サイクルの短縮を可能にしたことで、従来の金型と比較して冷却時間を約50%短縮し、成形利益率を約55%向上させる可能性を示しました",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "② 金型内での圧縮",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、近年注目されている研究である、射出成形における冷却時間の短縮を実現した、Conformal Cooling Channel（以下「3次元水管」）※1 がもたらすメリット、さらに3次元水管金型をより安価に速く製造できるワイヤーDED方式金属3Dプリンター「Meltio M450」（Meltio社）をご紹介します",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "※1: 自由な設計を可能にした金属3Dプリンターを用いて製造する金型の形状に沿った複雑な水管",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "1. 現在の射出成形金型の課題",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "経済的観点からみると、射出成形金型の製造には多額の投資が必要です",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、収益性を最大化するために、金型の寿命をより長くすることが求められています",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "つまり射出成形金型は、その性能や品質を落とすことなく、何度も成形サイクルに耐えられるものでなければなりません",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "冷却工程が成形サイクルのボトルネックであることを考えると、金型内に高効率の冷却流路を持つことは不可欠です",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "従来の冷却流路は、製造は簡単なものの、金型形状におけるプラスチック製品の複雑な形状や輪郭に正確に適合しないため過度に長くなってしまい、温度のばらつきが生じます",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "2つ目の冷却性能は、主に金型の材料特性と冷却用途によって向上可能です",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "これらのうち、金型材料の特性については、熱伝導率の値よりも主に強度、重量などの機械的特性が優先されて決定されるため、実用的用途における性能向上の要因とは考えられていません",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、冷却時間が長くなるだけでなく金型表面温度が均一でなくなるため、製品の品質が低下し、不良品につながります",
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンターで３Ｄ水管付き金型を製作いたします - 金属3Dプリンター受託造形｜金属AM×精密切削加工｜ODEC",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンターで３Ｄ水管付き金型を製作いたします",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "・金型製作のリードタイム短縮（複雑形状の樹脂成型用金型など）",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "・金型の長寿命化（三次元冷却によるダイカスト金型の長寿命化など）",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "高強度な３Ｄ水管付き金型を低コストで製作しませんか？",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "Merit（３Ｄ水管付き金型のメリット）",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "３次元水管を配置し、金型冷却効果を高め、生産性の向上ができる",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "・金属３Ｄプリンタであれば、直線的な水管ではなく、金型の形状に合わせた、自由な３Ｄ水管を配置",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "・冷却効率が上がることで、金型生産におけるサイクルタイムの短縮に貢献します",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作のリードタイムを短縮できる",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "・数か月も製作にかかるような複雑な金型も、金属3Dプリンターであれば、数日で造形が完了し、",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "・また加工代が多い金型（例えば深堀り加工が必要なものなど）ほど、リードタイム及びコスト面で、",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "・３次元水管により、金型の温度コントロールを行うことで、焼き付きやワレ、ヒケなどのトラブルを防止して、",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "250×250mm(H250mm)までの３Ｄ金型製作に対応",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "Facility（３Ｄ水管付き金型の造形が可能な設備のご案内）",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの受託造形で主に使われる工法は、パウダーベッド方式（PBF）、指向性エネルギー堆積法（DED）、バインダージェット方式の3つです",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "指向性エネルギー堆積法（DED）",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "自動車の排気部品など量産材と近い物性が求められる用途では、対応実績のある受託先を選ぶことが重要です",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "航空・自動車分野の複雑形状部品でよく採用されます",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "不向き（金型費用がかかる）",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントは、金型不要で複雑形状を一体成形できる点が最大の強みです",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "医療関連の部品・器具",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "：金型が不要なため、設計変更を繰り返しながら少量ずつ試作を行いたい開発フェーズに向いています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは金型が不要なため、1個からの試作にも向いています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで冷却設計を革新、AM金型を活用して世界最速サイクルタイムを目指す | 株式会社NTTデータ ザムテクノロジーズ",
+    "url": "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイカスト金型業界の方へ",
+    "url": "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体業界の方へ",
+    "url": "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "pass": 3
+   },
+   {
+    "quote": "2025.10.08 金属3Dプリンターで冷却設計を革新、AM金型を活用して世界最速サイクルタイムを目指す",
+    "url": "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで冷却設計を革新、AM金型を活用して世界最速サイクルタイムを目指す",
+    "url": "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車/鉄道",
+    "url": "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "pass": 3
+   }
+  ],
+  "価格を決める要因": [
+   {
+    "quote": "特に切削工法との比較では顕著なのですが、3Dプリンターによる造形では、材質によって造形時間が大きく変動しないと言われています",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "切削工法の場合、難削材とよばれる高硬度の材料を加工すると、加工時間が長くかかるため、マシンチャージが嵩み、コストも増大し工期も伸びてしまいます",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この点が大きな普及のネックになっており、最終部品に厳格な認証を通過する必要がある航空・宇宙・医療などの分野にとどまっている現状があります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "導入効果２：規格認証を省力化できる部品の統合",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つのメリットが規格認証する部品点数の軽減です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野の部品は、ISOやASTMなどで策定された厳格な規格認証プロセスを合格し、認証を得なければなりません",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この認証を得るプロセスにはコストと時間がかかり、設計変更の度にやり直す必要があります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙にロケットを打ち上げる際の大きなコスト要因である重量を軽減し、コストも時間も手間もかかる認証プロセスを省力化できる3Dプリンター製部品は航空宇宙用の部品生産技術として一定の地位を確立しています",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "造形時間が早い",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3D検査設備",
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "pass": 3
+   },
+   {
+    "quote": "：チタンやインコネルなどの高機能材料は、ステンレスやアルミ合金に比べて材料費・造形難易度が高くなる傾向があります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "：造形時間は部品の体積や高さに比例して増えるため、大型部品ほど費用が上がります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリント受託サービスの費用は「材料費＋造形費＋後加工費」の合計で決まるのが基本です",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "：造形時間や材料単価が上がるため、費用も相応に高くなる傾向があります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "造形・後加工が行われ、検査を経て納品される",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビームとレーザーの2方式に、HIP処理と熱処理、Ra0.2の機械加工を一貫",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中野区に本社を置く金属加工会社で、熱処理やHIP処理を中核技術に持つ",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "HIP処理で内部欠陥をつぶし、機械加工でRa0.2まで仕上げる",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "HIP・熱処理・Ra0.2加工",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ・プレシジョンはRa20μmからRa0.5μmへの研磨、金属技研はHIP処理とRa0.2の機械加工、ODECは精密切削の二次加工、KOEI TOOLは#3,000の鏡面磨きを自社で行うと書いています",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの受託費用は、材料・体積・造形時間・後加工で大きく変わるため、多くの会社は3Dデータを受け取ってからの個別見積です",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "メートル級の大型や肉盛りなら明楽、チタン部品のHIP処理まで詰めるなら金属技研が向きます",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "すべて金属3Dプリンターで製造する場合に比べ、造形時間を3割削減と掲載",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "表面・内面研磨、精密洗浄、検査",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "理由は、造形体の内部欠陥をHIP処理でつぶす工程と、造形ままの粗い面（Ra25やRa11）を機械加工でRa0.2まで仕上げる工程を、事前検証から検査まで一貫で行うと公式に書いているからです",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "事前検証、造形、熱処理、仕上げ加工、検査まで一貫生産",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "HIP処理を積層造形の後工程に併用して造形体内部の欠陥をつぶす",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "HIP処理・熱処理",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "造形・HIP・機械加工で製作（戦略的イノベーション創造プログラム（SIP）にて製作と注記）",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "造形とHIPを適用",
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター造形の他、精密な2次加工(仕上げ)、検査までを一貫して対応します",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野の画像診断装置、放射線検査装置、装飾品などにも使われます",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターがあれば、基本的にコストは1回の造形時間と材料費のみとなります",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "インプラントや義歯、義肢や人工骨、画像診断装置・放射線検査装置の部品など",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "この間に培ってきた精密微細加工技術の経験とノウハウは、現在では半導体、計測・検査、航空・宇宙、医療機器など、様々な産業分野に広く活かされています",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "HIP Technology",
+    "url": "https://blog.met3dp.com/blog/metal-3d-printing-for-molds-in-2026-conformal-cooling-and-cycle-time-reduction/",
+    "pass": 3
+   },
+   {
+    "quote": "The table compares cooling strategies, underscoring how conformal channels in AM molds enhance efficiency and quality. For buyers, this means lower scrap rates and faster ROI, especially in competitive US markets where quality certifications like ISO 9001 are essential.",
+    "url": "https://blog.met3dp.com/blog/metal-3d-printing-for-molds-in-2026-conformal-cooling-and-cycle-time-reduction/",
+    "pass": 3
+   },
+   {
+    "quote": ") ensures AS9100 compliance. First-hand data from 2024 tests indicate optimized designs cut material costs by 25%. Strategies evolve with 2026 advancements like multi-laser printing, speeding builds by 40%. US manufacturers should prioritize strategies aligning with Industry 4.0, integrating AI for predictive maintenance to extend mold usability.",
+    "url": "https://blog.met3dp.com/blog/metal-3d-printing-for-molds-in-2026-conformal-cooling-and-cycle-time-reduction/",
+    "pass": 3
+   },
+   {
+    "quote": "Post-Processing",
+    "url": "https://blog.met3dp.com/blog/metal-3d-printing-for-molds-in-2026-conformal-cooling-and-cycle-time-reduction/",
+    "pass": 3
+   },
+   {
+    "quote": "Challenges overcome: Material certification for UL standards. Data: 25% throughput increase. For US industries, AM drives innovation, like lightweight parts for fuel efficiency under CAFE rules.",
+    "url": "https://blog.met3dp.com/blog/metal-3d-printing-for-molds-in-2026-conformal-cooling-and-cycle-time-reduction/",
+    "pass": 3
+   },
+   {
+    "quote": "Two mold builder acquisitions and recent leadership additions reflect a new kind of buyer focused on legacy, alignment, operational depth and long-term growth, not quick turnover.",
+    "url": "https://www.moldmakingtechnology.com/topics/conformalcooling",
+    "pass": 3
+   },
+   {
+    "quote": "Industry veteran Bob Smith shares crucial insights on mentorship as the key to overcoming manufacturing's growing skills gap.",
+    "url": "https://www.moldmakingtechnology.com/topics/conformalcooling",
+    "pass": 3
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://www.moldmakingtechnology.com/topics/conformalcooling",
+    "pass": 3
+   },
+   {
+    "quote": "Joyce Erin O’Neal is combining hands-on plastics experience, leadership and sustainability to help shape a stronger future for manufacturing.",
+    "url": "https://www.moldmakingtechnology.com/topics/conformalcooling",
+    "pass": 3
+   },
+   {
+    "quote": "HIP Technology",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": ", buyers can optimize ROI. We’ll explore metrics, certifications, applications, and more, with references to authoritative sites like",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "Quality Certifications for 3D Metal Conformal Systems",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "Quality certifications ensure",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": ", we’ve seen ISO 13485 integration for medical-grade conformal tools, reducing contamination risks. A 2024 Wohlers Report quotes, “Certifications boost trust by 40% in AM supply chains.” For conformal systems, look for AS9100 in aerospace, covering non-destructive testing like CT scans for internal channels.",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "Case example: A California aerospace firm certified their conformal inserts per ASTM standards, achieving zero defects in 10,000 cycles. This demonstrates expertise in verification. Certifications impact",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "Certification",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "AS9100",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 13485",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "The table compares certifications, showing ISO 9001’s broad applicability versus AS9100’s niche for aerospace. For buyers, this means selecting suppliers with multiple certs to mitigate risks in",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "offer end-to-end services, from design to certification. Their networks ensure traceability, compliant with ASTM E8 for tensile testing.",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "CE, AS9100",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "varies by complexity and volume, with market reference ranges of $5,000-$50,000 USD per mold for small to medium runs. Lead times average 4-8 weeks, per a 2024 AMPOWER report. Factors include material costs—tool steel at $50/kg—and post-processing like heat treatment.",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   },
+   {
+    "quote": "outlines steps for bulk buying, emphasizing RFQs and vendor audits. Target suppliers with ISO certifications for quality.",
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "pass": 3
+   }
+  ],
+  "受託会社の売上": [
+   {
+    "quote": "売上18.7%増の168億円 冨士ダイス（東京都大田区、03-3759-7181）の2022年3月期売上高は、18.4%増の168億7400万円だった",
+    "url": "https://kanagata-shimbun.com/202607_kanagata_maintenance_meiraku/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "国内の金属3Dプリンター受託造形、どこに頼む？方式別まとめ Apr 10, 2026 · 「金属3Dプリンターで部品を試作したい」「金型の補修に使いたい」——そう思ったとき、まず悩むのが「どの会社に頼めばいいか」という問題です。 国内の金属3Dプリンター受託造形は、造形方式によって得意・不得意が大きく違います。",
+    "url": "https://note.com/kinzoku2/n/nd9351728b704",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "国内の金属3Dプリンター受託造形、どこに頼む？方式別まとめ｜kinzoku",
+    "url": "https://note.com/kinzoku2/n/nd9351728b704",
+    "pass": 3
+   },
+   {
+    "quote": "国内の金属3Dプリンター受託造形、どこに頼む？方式別まとめ",
+    "url": "https://note.com/kinzoku2/n/nd9351728b704",
+    "pass": 3
+   },
+   {
+    "quote": "「金属3Dプリンターで部品を試作したい」「金型の補修に使いたい」——そう思ったとき、まず悩むのが「どの会社に頼めばいいか」という問題です。",
+    "url": "https://note.com/kinzoku2/n/nd9351728b704",
+    "pass": 3
+   },
+   {
+    "quote": "国内の金属3Dプリンター受託造形は、造形方式によって得意・不得意が大きく違います。この記事では、PBF・DED・WAAM・バインダージェットなどの方式別に、国内の代表的な受託造形会社を整理してみます。",
+    "url": "https://note.com/kinzoku2/n/nd9351728b704",
+    "pass": 3
+   },
+   {
+    "quote": "PBF（パウダーベッド溶融結合）は最も普及しており、複雑な内部形状や金型入れ子のコンフォーマルクーリングに強みがあります。国内受託会社も最多で、JAMPT・東レ・プレシジョン・SOLIZE PARTNERSなどが代表格です。",
+    "url": "https://note.com/kinzoku2/n/nd9351728b704",
+    "pass": 3
+   },
+   {
+    "quote": "DEDは既存部品への肉盛り・補修、傾斜機能材料の造形に適しています。フジ（LASERTEC 65 DED hybrid）、三菱電機（AZ600 Wire-DED）、ニコン（Lasermeisterシリーズ）、JFEエンジニアリング（粉末DED、重工業・エネルギー分野）など、日本独自の技術開発も活発です。",
+    "url": "https://note.com/kinzoku2/n/nd9351728b704",
+    "pass": 3
+   },
+   {
+    "quote": "WAAMはアーク溶接を熱源に金属ワイヤを積層する方式で、大型・低コストな造形に向いています。清水建設や重工業メーカーが研究・実用化を進めていますが、一般向け受託窓口はまだ少ない状況です。",
+    "url": "https://note.com/kinzoku2/n/nd9351728b704",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット・FDMメタルは量産・研究向けで、Kabuku ConnectやJ・3Dが国内窓口として機能しています。",
+    "url": "https://note.com/kinzoku2/n/nd9351728b704",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fuji-mold.co.jp/media/kakougijyutu/a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/170810special/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/product/uam3d/uam-mold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujioka-grp.jp/column/mold-repair/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plastic-mold-maintenance.com/basic/2723/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/202311_metalam_koeitool/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/202607_togatagijyutu_mutoseikou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.nikkan.co.jp/brand/machinetools/feature/003/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/topics-2026-3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihon-seiki.jp/technology.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/202607_kanagata_maintenance_meiraku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide80-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://3dprinter.co.jp/product/uam3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koeitool.com/business/3d-modeling.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j3d.co.jp/casestudy/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cir.nii.ac.jp/crid/1520870993622572288?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cir.nii.ac.jp/crid/1520870993622572288",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories/automotive-transportation/innomia-automotive-3d-printed-cooling-channels",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/how-3d-printing-is-increasing-efficiency-and-quality-in-the-injection-moulding-industry/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getleo.ai/blog/conformal-cooling-generative-design-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xometry.com/resources/injection-molding/conformal-cooling/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mdpi.com/2073-4360/14/3/424",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voestalpine.com/highperformancemetals/en-gl/product-categories/engineered-products/plastic-injection-molding/coffee-cup-mold/conformal-cooling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fakuma-messe.de/en/Exhibitor-Forum/4453-conformal-cooling-in-mold-manufacturing--over-120-000-printed-inserts--cost-advantages/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meltio3d.com/mold-with-conformal-cooling-channels/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/blog/2026/2026-09/conformal-cooling-3d-printing-faster-path-better-injection-molding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vexmatech.com/conformal-cooling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/316892699_Additive_manufacturing-assisted_conformal_cooling_channels_in_mold_manufacturing_processes",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.met3dp.com/blog/metal-3d-printing-for-molds-in-2026-conformal-cooling-and-cycle-time-reduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moldmakingtechnology.com/topics/conformalcooling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sybridge.com/conformal-cooling-impact-by-the-numbers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/alcggs/kiben3d-serial-production-of-conformal-cooling-molds/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/conformal-cooling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plasticstechnologyalliance.com/conformal-cooling-injection-molding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journals.sagepub.com/doi/10.1177/16878132241282210",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/conformal-cooling-for-molds-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kinzoku2/n/nd9351728b704",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金型の金属AM受託（冷却水管・補修） 単価 万円",
+   "results": [
+    "https://www.fuji-mold.co.jp/media/kakougijyutu/a21",
+    "https://kanagata-shimbun.com/170810special/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide80-7.pdf",
+    "https://3dprinter.co.jp/product/uam3d/uam-mold/",
+    "https://kanagata-shimbun.com/202311_metalam_koeitool/",
+    "https://kanagata-shimbun.com/202607_togatagijyutu_mutoseikou/"
+   ]
+  },
+  {
+   "query": "金型の金属AM受託（冷却水管・補修） 費用 相場",
+   "results": [
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "https://3dprinter.co.jp/product/uam3d/uam-mold/",
+    "https://www.fujioka-grp.jp/column/mold-repair/",
+    "https://www.youtube.com/watch?v=ulAHRCJegOM",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://kanagata-shimbun.com/170810special/",
+    "https://plastic-mold-maintenance.com/basic/2723/",
+    "https://kanagata-shimbun.com/202311_metalam_koeitool/"
+   ]
+  },
+  {
+   "query": "金型の金属AM受託（冷却水管・補修） 最大 受注 億円",
+   "results": [
+    "https://biz.nikkan.co.jp/brand/machinetools/feature/003/",
+    "https://kanagata-shimbun.com/170810special/",
+    "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "https://www.youtube.com/watch?v=axubxkcwj1M",
+    "https://3dprinter.co.jp/product/uam3d/uam-mold/",
+    "https://monoken.yamazen.co.jp/blog/articles/topics-2026-3",
+    "https://www.nihon-seiki.jp/technology.html",
+    "https://steelsale.jp/casestudy/3dp/a113"
+   ]
+  },
+  {
+   "query": "金型の金属AM受託（冷却水管・補修） 量産 受注 年間",
+   "results": [
+    "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide80-7.pdf",
+    "https://kanagata-shimbun.com/170810special/",
+    "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "https://3dprinter.co.jp/product/uam3d/uam-mold/",
+    "https://biz.nikkan.co.jp/brand/machinetools/feature/003/",
+    "https://www.youtube.com/watch?v=axubxkcwj1M",
+    "https://www.fuji-mold.co.jp/media/kakougijyutu/a21"
+   ]
+  },
+  {
+   "query": "金型の金属AM受託（冷却水管・補修） 売上高 受託",
+   "results": [
+    "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "https://kanagata-shimbun.com/170810special/",
+    "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide80-7.pdf",
+    "https://3dprinter.co.jp/product/uam3d/",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.koeitool.com/business/3d-modeling.html",
+    "https://j3d.co.jp/casestudy/",
+    "https://kanagata-shimbun.com/202311_metalam_koeitool/"
+   ]
+  },
+  {
+   "query": "metal AM conformal cooling mold service price price per part",
+   "results": [
+    "https://www.eos.info/industries/customer-success-stories/automotive-transportation/innomia-automotive-3d-printed-cooling-channels",
+    "https://www.metal-am.com/articles/how-3d-printing-is-increasing-efficiency-and-quality-in-the-injection-moulding-industry/",
+    "https://www.getleo.ai/blog/conformal-cooling-generative-design-guide",
+    "https://www.xometry.com/resources/injection-molding/conformal-cooling/",
+    "https://www.youtube.com/watch?v=OtIcg0OPEp8",
+    "https://www.mdpi.com/2073-4360/14/3/424",
+    "https://www.voestalpine.com/highperformancemetals/en-gl/product-categories/engineered-products/plastic-injection-molding/coffee-cup-mold/conformal-cooling/",
+    "https://meltio3d.com/mold-with-conformal-cooling-channels/",
+    "https://pti.tech/2025/08/14/how-conformal-cooling-in-injection-molds-is-improving-cycle-time-and-part-quality/",
+    "https://blog.met3dp.com/blog/best-metal-3d-printing-conformal-cooling-selection-guide-2026-application-scenarios/"
+   ]
+  },
+  {
+   "query": "metal AM conformal cooling mold service price largest contract million",
+   "results": [
+    "https://www.metal-am.com/articles/how-3d-printing-is-increasing-efficiency-and-quality-in-the-injection-moulding-industry/",
+    "https://www.mdpi.com/2073-4360/14/3/424",
+    "https://www.eos.info/industries/customer-success-stories/automotive-transportation/innomia-automotive-3d-printed-cooling-channels",
+    "https://www.fakuma-messe.de/en/Exhibitor-Forum/4453-conformal-cooling-in-mold-manufacturing--over-120-000-printed-inserts--cost-advantages/",
+    "https://meltio3d.com/mold-with-conformal-cooling-channels/",
+    "https://www.3dsystems.com/blog/2026/2026-09/conformal-cooling-3d-printing-faster-path-better-injection-molding",
+    "https://www.vexmatech.com/conformal-cooling",
+    "https://www.voestalpine.com/highperformancemetals/en-gl/product-categories/engineered-products/plastic-injection-molding/coffee-cup-mold/conformal-cooling/",
+    "https://www.researchgate.net/publication/316892699_Additive_manufacturing-assisted_conformal_cooling_channels_in_mold_manufacturing_processes",
+    "https://blog.met3dp.com/blog/metal-3d-printing-for-molds-in-2026-conformal-cooling-and-cycle-time-reduction/"
+   ]
+  },
+  {
+   "query": "metal AM conformal cooling mold service price serial production long-term agreement value",
+   "results": [
+    "https://www.metal-am.com/articles/how-3d-printing-is-increasing-efficiency-and-quality-in-the-injection-moulding-industry/",
+    "https://meltio3d.com/mold-with-conformal-cooling-channels/",
+    "https://www.mdpi.com/2073-4360/14/3/424",
+    "https://www.eos.info/industries/customer-success-stories/automotive-transportation/innomia-automotive-3d-printed-cooling-channels",
+    "https://www.moldmakingtechnology.com/topics/conformalcooling",
+    "https://sybridge.com/conformal-cooling-impact-by-the-numbers/",
+    "https://www.voestalpine.com/highperformancemetals/en-gl/product-categories/engineered-products/plastic-injection-molding/coffee-cup-mold/conformal-cooling/",
+    "https://www.3dsystems.com/blog/2026/2026-09/conformal-cooling-3d-printing-faster-path-better-injection-molding",
+    "https://www.youtube.com/watch?v=OtIcg0OPEp8",
+    "https://blog.met3dp.com/blog/2025-metal-3d-printing-conformal-cooling-buying-guide-efficiency-boost/"
+   ]
+  },
+  {
+   "query": "metal AM conformal cooling mold service price revenue",
+   "results": [
+    "https://www.metal-am.com/articles/how-3d-printing-is-increasing-efficiency-and-quality-in-the-injection-moulding-industry/",
+    "https://journals.sagepub.com/doi/10.1177/16878132241282210",
+    "https://www.moldmakingtechnology.com/topics/conformalcooling",
+    "https://www.mdpi.com/2073-4360/14/3/424",
+    "https://www.getleo.ai/blog/conformal-cooling-generative-design-guide",
+    "https://meltio3d.com/mold-with-conformal-cooling-channels/",
+    "https://www.youtube.com/watch?v=OtIcg0OPEp8",
+    "https://www.eos.info/industries/customer-success-stories/automotive-transportation/innomia-automotive-3d-printed-cooling-channels",
+    "https://www.fakuma-messe.de/en/Exhibitor-Forum/4453-conformal-cooling-in-mold-manufacturing--over-120-000-printed-inserts--cost-advantages/",
+    "https://dataintelo.com/report/conformal-cooling-for-molds-market"
+   ]
+  },
+  {
+   "query": "site:note.com 金型の金属AM受託（冷却水管・補修）",
+   "results": [
+    "https://note.com/ykfk/n/n98bb936ca3e4",
+    "https://note.com/kinzoku2/n/nd9351728b704",
+    "https://note.com/ln_yang/n/nf0125cb5734a",
+    "https://note.com/edgeworks_tokyo/n/ne4fb28a0cfa1",
+    "https://note.com/3n7no_tech_pr/n/n3186926c0806",
+    "https://note.com/hgrx/n/ne327ff650d1a",
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://note.com/aiwadou/n/nef5d2b30b3a5"
+   ]
+  },
+  {
+   "query": "site:x.com 金型の金属AM受託（冷却水管・補修）",
+   "results": [
+    "https://x.com/dw_chinese/status/2044631034541781238",
+    "https://x.com/dw_chinese/status/2046177053263687918",
+    "https://x.com/dw_chinese/status/2010685083099742380",
+    "https://x.com/dw_chinese/status/1936031757263831383",
+    "https://x.com/dw_chinese/status/2042209176844206494",
+    "https://x.com/dw_chinese/status/1949411943976153548",
+    "https://x.com/dw_chinese/status/2018325487886458967",
+    "https://x.com/dw_chinese/status/2009276341410005351",
+    "https://x.com/dw_chinese/status/2054459883756614000",
+    "https://x.com/dw_chinese/status/1925187750367555692"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金型の金属AM受託（冷却水管・補修）",
+   "results": [
+    "https://nl.linkedin.com/in/rima-husseini-8873a6364",
+    "https://jp.linkedin.com/posts/shigeo-fukui-b84582104_am金型かなり普及してきております-activity-7259164754366091264-p-nL",
+    "https://mq.linkedin.com/posts/tsuyoshi-kobayashi_ダイキャスト金型にamをフル活用されている事で知られる日本精機様am拠点のtooling-activity-6961311872146952193-wRKk",
+    "https://pe.linkedin.com/feed/update/urn:li:activity:7254681265256153089/",
+    "https://jp.linkedin.com/in/yoichi-ito-77825928b",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7503656380222889985/",
+    "https://www.linkedin.com/posts/3d-printing-corporation_ダイキャスト金型のコンフォーマル形状適応冷却チャネルでの冷却性能評価とamプロセス-activity-7081549894569623552-CCUu"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金型の金属AM受託（冷却水管・補修）",
+   "results": [
+    "https://www.facebook.com/groups/897110880751063/posts/2599089853886482/",
+    "https://www.facebook.com/groups/399035694293956/",
+    "https://www.facebook.com/groups/320860558336879/posts/2575071309582448/",
+    "https://www.facebook.com/groups/1515612095257271/",
+    "https://www.facebook.com/groups/5648433271904368/",
+    "https://www.facebook.com/groups/1578029939093278/",
+    "https://www.facebook.com/groups/343851699949420/",
+    "https://www.facebook.com/metalprintj3d/",
+    "https://www.facebook.com/nikkankogyo.zasshi/photos/発売中の型技術5月号の特集は金属amがもたらす金型製作の新たな可能性です中空構造による軽量化など従来工法では不可能な形状を実現することで素形材産業の競争力強化の/1503915365080588/",
+    "https://www.facebook.com/nikkankogyo.zasshi/posts/発売中の型技術5月号の特集は金属amがもたらす金型製作の新たな可能性です中空構造による軽量化など従来工法では不可能な形状を実現することで素形材産業の競争力強化の/1503915061747285/"
+   ]
+  },
+  {
+   "query": "金型の金属AM受託（冷却水管・補修） note 社長",
+   "results": [
+    "https://kanagata-shimbun.com/170810special/",
+    "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide80-7.pdf",
+    "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "https://www.youtube.com/watch?v=axubxkcwj1M",
+    "https://www.fuji-mold.co.jp/media/kakougijyutu/a21",
+    "https://3dprinter.co.jp/product/uam3d/uam-mold/",
+    "https://azuma-metal3dp.com/column/822",
+    "https://kanagata-shimbun.com/202311_metalam_koeitool/"
+   ]
+  },
+  {
+   "query": "金型の金属AM受託（冷却水管・補修） X 投稿",
+   "results": [
+    "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide80-7.pdf",
+    "https://3dprinter.co.jp/product/uam3d/uam-mold/",
+    "http://3d.kinzoku-kakou-odec.com/topics/topics-1363/",
+    "https://www.3dpc.co.jp/articles/mold-conformal-cooling-channel",
+    "https://kanagata-shimbun.com/170810special/",
+    "https://www.youtube.com/watch?v=ulAHRCJegOM",
+    "https://www.nttdata-xam.com/blog/development/article_8703/",
+    "https://www.japanaerospace.jp/exhibitor/materialfile/388/jp/2",
+    "https://kanagata-shimbun.com/202311_metalam_koeitool/",
+    "https://kanagata-shimbun.com/202607_togatagijyutu_mutoseikou/"
+   ]
+  },
+  {
+   "query": "metal AM conformal cooling mold service price site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/how-3d-printing-conformal-cooling-cut-injection-mould-cycle-times-scovf",
+    "https://www.linkedin.com/pulse/additive-vs-subtractive-manufacturing-what-who-leads-sami-9jfie",
+    "https://www.linkedin.com/posts/bobby-sun-40350a235_cold-ice-cold-activity-7515266697478565888-VTDP",
+    "https://www.linkedin.com/company/voestalpine-additive-manufacturing",
+    "https://www.linkedin.com/in/clay-bob-stephens",
+    "https://www.linkedin.com/pulse/hybrid-manufacturing-combining-additive-traditional-methods-3muuc",
+    "https://www.linkedin.com/posts/aquarius-test-engineering_semiconductor-mechanicalmanufacturing-activity-7445032297705259008-LC1a",
+    "https://www.linkedin.com/in/richard-e-16205b14",
+    "https://jp.linkedin.com/company/meltio3d",
+    "https://www.linkedin.com/in/stefan-joens"
+   ]
+  }
+ ],
+ "missing": {}
+}

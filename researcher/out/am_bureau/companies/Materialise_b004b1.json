@@ -1,0 +1,1623 @@
+{
+ "name": "Materialise",
+ "aliases": [
+  "Materialise NV"
+ ],
+ "context": "海外・上場AMサービス（売上公開）",
+ "researched_at": "2026-11-04T10:48:25.417338+00:00",
+ "official_url": "https://www.materialise.com/",
+ "identified_by": "given",
+ "profile": {
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "-",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "-",
+    "url": "https://prtimes.jp/main/html/rd/p/000000023.000076712.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "-",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "2004年01月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2004年01月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000023.000076712.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2004年01月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "1990",
+    "url": "https://www.reveliolabs.com/companies/materialise/employees",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Sales and Marketing",
+    "value": "728 28.7%",
+    "url": "https://www.reveliolabs.com/companies/materialise/employees",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "Employees",
+    "value": "2,544",
+    "url": "https://www.reveliolabs.com/companies/materialise/employees",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "顧客・用途": [
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how industries evolve with 3D technology thanks to insights from our customers and experts.",
+    "url": "https://www.materialise.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "medical@materialise.be",
+    "url": "https://www.materialise.com/en/about/locations",
+    "pass": 1
+   },
+   {
+    "quote": "ACTech provides a complete manufacturing solution for high-precision, ready-to-install casting prototypes and small series of end-use parts for industries including automotive, engineering, and aerospace.",
+    "url": "https://www.materialise.com/en/about/locations",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/about/locations",
+    "pass": 1
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/about/locations",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": "Navigate the future of aerospace with shorter lead times, more affordable small series production, and the unrivaled design freedom that additive manufacturing can offer.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": "Take advantage of 3D printing’s potential to make mass customization scalable and economically viable to ensure every product is right for your customers.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.materialise.com/en/industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Navigate the future of aerospace with shorter lead times, more affordable small series production, and the unrivaled design freedom that additive manufacturing can offer.",
+    "url": "https://www.materialise.com/en/industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Take advantage of 3D printing’s potential to make mass customization scalable and economically viable to ensure every product is right for your customers.",
+    "url": "https://www.materialise.com/en/industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/healthcare/hcps",
+    "pass": 1
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/healthcare/hcps",
+    "pass": 1
+   },
+   {
+    "quote": "Medical 3D Printing and 3D Planning | Materialise",
+    "url": "https://www.materialise.com/en/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Medical professionals face very different challenges depending on their expertise. Materialise can support you, from the routine to the complex, with personalized solutions based on 3D printing and planning. Whether you are a surgeon, radiologist, cardiologist, podiatrist, or physical therapist, we can help you forward.",
+    "url": "https://www.materialise.com/en/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized engineering and simulation are increasingly seen as core competencies for biomedical research teams. Providing professors and students with an R&D software toolbox prepares them for the reality of careers in research or the medical industry.",
+    "url": "https://www.materialise.com/en/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "A clinically accepted gait analysis system built to support biomedical research teams with personalized engineering and simulation.",
+    "url": "https://www.materialise.com/en/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how industries — like healthcare, aerospace, and more — are evolving with 3D printing thanks to insights from our customers and experts.",
+    "url": "https://www.materialise.com/en/inspiration",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/inspiration",
+    "pass": 1
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/inspiration",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/news",
+    "pass": 1
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/news",
+    "pass": 1
+   },
+   {
+    "quote": "Across healthcare, medtech, aerospace, and beyond, we bring technologies, partners, and capabilities together to personalize care for more patients and advance industrial production at scale.",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "Explore customers' stories",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "Empowering our customers since 1990",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "From humble beginnings in 1990, when founder and Chairman of the Board Fried Vancraen bought his first 3D printer, Materialise has become an industry standard. As our journey continues to unfold, our commitment to helping our customers break new ground is stronger than ever.",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "Why build if it’s not built to last? We ensure quality in everything we do. As customer needs and technologies evolve, we improve to remain relevant over time. Discover more about why customers worldwide trust in the quality of our services and solutions.",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "Why are we ahead of all the rest? We invest in people because they are the cornerstone of our success. Inspired by our mission and curious by nature, they go the extra mile, both for our customers and society.",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "There is no greater inspiration or motivation than seeing what people do with our solutions and services. Across industries, our customers leverage our knowledge and expertise to drive innovation and make a difference in their fields.",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’re always asking, “What can we do to make 3D printing more sustainable?” By reducing the environmental impact of our operations, innovating continuously to advance 3D printing in a sustainable way, and empowering our customers to embed sustainability into their business models, we aim to drive positive outcomes for the environment, business, and society as a whole.",
+    "url": "https://www.materialise.com/en/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Committed to improving our operations and empowering our customers, we strive to innovate and reduce waste, manage our environmental impact, and achieve net zero carbon emissions.",
+    "url": "https://www.materialise.com/en/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Being transparent about the overall impact of 3D printing helps us and our customers firmly embed sustainability into everything we do.",
+    "url": "https://www.materialise.com/en/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "medical@materialise.be",
+    "url": "https://www.materialise.com/ko/about/locations",
+    "pass": 1
+   },
+   {
+    "quote": "medical@materialise.be",
+    "url": "https://www.materialise.com/ja/about/locations",
+    "pass": 1
+   },
+   {
+    "quote": "ACTechは、自動車、エンジニアリング、航空宇宙などの産業向けに、高精度ですぐに取り付け可能な鋳造試作品や少量生産の最終用途パーツのための完全な製造ソリューションを提供します",
+    "url": "https://www.materialise.com/ja/about/locations",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器開発",
+    "url": "https://www.materialise.com/ja/about/locations",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch to experience state-of-the-art research, innovation, and consultancy and explore our solutions and services for AM software, manufacturing, and medical sectors.",
+    "url": "https://www.materialise.com/en/about/locations/belgium",
+    "pass": 1
+   },
+   {
+    "quote": "medical@materialise.be",
+    "url": "https://www.materialise.com/en/about/locations/belgium",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/about/locations/belgium",
+    "pass": 1
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/about/locations/belgium",
+    "pass": 1
+   },
+   {
+    "quote": "Located in a major industrial hub, this production center has over 85 specialists in vacuum casting technology for prototypes and other applications for all industries — automotive, aerospace, medical, and academia.",
+    "url": "https://www.materialise.com/en/about/locations/czech-republic",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/about/locations/czech-republic",
+    "pass": 1
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/about/locations/czech-republic",
+    "pass": 1
+   },
+   {
+    "quote": "Our Paris office houses an ambitious research and sales team of over 30 specialists focusing on cranio-maxillofacial and orthopaedic medical devices within our Materialise Medical unit. Get in touch to bring innovative solutions to surgeons and their patients.",
+    "url": "https://www.materialise.com/en/about/locations/france",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device companies",
+    "url": "https://www.materialise.com/en/about/locations/france",
+    "pass": 1
+   },
+   {
+    "quote": "Medical software",
+    "url": "https://www.materialise.com/en/about/locations/france",
+    "pass": 1
+   },
+   {
+    "quote": "As a member of the technology-driven, additive manufacturing cluster in Bremen, this Materialise development center and its 100+ onsite specialists focus on R&D, software development, and partner business. It is a dedicated production site for metal 3D printing that supplies customers from various industrial areas.",
+    "url": "https://www.materialise.com/en/about/locations/germany",
+    "pass": 1
+   },
+   {
+    "quote": "ACTech GmbH provides a complete manufacturing solution for high-precision, ready-to-install casting prototypes and small series of end-use parts for industries including automotive, engineering, and aerospace.",
+    "url": "https://www.materialise.com/en/about/locations/germany",
+    "pass": 1
+   }
+  ],
+  "料金・単価": [
+   {
+    "quote": "Get direct 24/7 access to the technologies and materials you need to bring your designs to life. Instant quotes, short lead-times, and easy checkout.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": "Materialise OnSite makes it easy to order high-quality 3D-printed parts online. Get an instant quote for a wide range of materials and technologies, rely on our extensive ISO 9001-certified production capacity, and have your orders shipped in as little as 48 hours.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Get an instant quote",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Get an instant quote for rapid lead times",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "If you’d like to discuss or request a quote for a manufacturing project that requires additional certifications, metal 3D printing, documentation, or other specialist requirements, including repeatability through series production,",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Our manufacturing service includes everything you need to guarantee consistency as you scale up production, including for projects with specialist or technical requirements. Explore our certifications, qualified materials, and design for AM services here and request a quote today.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "For other file formats, you can request a manual quote. In that case, please compress your file(s) (e.g., as a ZIP, RAR, or 7z file) and submit a manual request. One of our support engineers will contact you with a quote.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "The platform cannot automatically generate a quote, or",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "In either case, you can click “request manual quote.” Our customer support officers will check the file and get back to you with more information within 24 hours.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "How soon will I receive a quote for my design?",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "When you upload your file as standard, you will receive a quote instantly. If you need to",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "request an offline quote",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "We will look into the status of your order and see if it is still possible to update the information. Please note that you can only change to materials or finishes in the same price range.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Benefit from 3D printing’s unmatched performance-to-cost ratio. No tooling costs or minimum order quantities (MOQ), and the ability to design fit-for-purpose parts without the constraints of traditional manufacturing means you can create parts to do exactly what you need at the right price point.",
+    "url": "https://www.materialise.com/en/industries/machinery-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "Get an instant quote",
+    "url": "https://www.materialise.com/en/industries/machinery-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "Get direct 24/7 access to the technologies and materials you need to bring your designs to life. Instant quotes, short lead-times, and easy checkout.",
+    "url": "https://www.materialise.com/en/industries/machinery-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "料金・プラン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "それにより、金属AMをより費用対効果の高い方法で実現することができます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000023.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "料金・プラン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000023.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "料金・プラン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   }
+  ],
+  "最大案件・量産": [
+   {
+    "quote": "Create truly unique solutions, enable mass customization across your product line, move from design to serial production quickly and affordably, and benefit from de-risked and sustainable supply chains.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": "Design, order, and receive replacement parts on demand, reducing storage costs, over-production, and the risk of obsoletion.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": "Create truly unique solutions, enable mass customization across your product line, move from design to serial production quickly and affordably, and benefit from de-risked and sustainable supply chains.",
+    "url": "https://www.materialise.com/en/industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Design, order, and receive replacement parts on demand, reducing storage costs, over-production, and the risk of obsoletion.",
+    "url": "https://www.materialise.com/en/industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Materialise OnSite makes it easy to order high-quality 3D-printed parts online. Get an instant quote for a wide range of materials and technologies, rely on our extensive ISO 9001-certified production capacity, and have your orders shipped in as little as 48 hours.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Order online for quality parts, fast",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "When you order parts with our Fast Lane service before 2 pm CET, we’ll have them ready to ship within 48 hours.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Can I order metal parts on OnSite?",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "We ensure that all quality parameters meet the requirements listed at the beginning of the project. We do not offer change control for online orders, meaning parameter variability may cause quality differences from one order to another (e.g., part color).",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Several factors determine whether you need to pay Value Added Tax (VAT) for orders on Materialise OnSite:",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "The delivery destination of an order, and",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "How can I change my order?",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Once you have placed an order, only our customer service team can make any changes.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "We will look into the status of your order and see if it is still possible to update the information. Please note that you can only change to materials or finishes in the same price range.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "If we haven’t prepared your order for shipment and the VAT (Value Added Tax) payment won't change, we can still update the information.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "after placing an order.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "How can I cancel my order?",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "You can cancel a recently placed order by directly replying to your order confirmation email. If printing has not yet started, our Customer Service team can cancel your order. Please note that our automated systems process orders quickly, so the time window before printing has started and when we can still accept cancellations is very short.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "How can I check the status of my order?",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "You can track the progress of your order in the ‘Orders’ section of your profile after logging in to OnSite. If your order status reads 'In production,' you will also see the estimated shipment date.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "When your order is shipped, you will also see the UPS tracking number on this page and receive it via email. You can use this tracking number to monitor your package's status in transit.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Transit time depends on your order, though it is usually 1 – 5 days after shipping. Please note that we cannot guarantee how quickly the courier or customs will process your package. You can track your order using your UPS tracking number.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "There are no duties or import taxes for orders sent to EU countries or the UK.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Can I combine multiple orders into one shipment?",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "We cannot combine separate orders into a single shipment — each order is handled individually. To save on shipping costs, we recommend",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "printing all your parts in a single order",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "After logging in to OnSite, you can follow your order’s progress anytime via the “My Orders” section of your account. Once shipped, you’ll receive a tracking number to monitor your package via UPS.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "To protect the designs and intellectual property of yourself and others, we do not allow any designs on our site that violate third-party intellectual property rights. By submitting an order to Materialise OnSite, you confirm that you are the owner or that you have obtained the necessary rights to submit this order for a third party.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "De-risk your supply chain with a digital inventory of 3D-printed parts that you can order and manufacture on demand. Take advantage of short lead times to meet tight deadlines and optimize uptime by redesigning failing parts.",
+    "url": "https://www.materialise.com/en/industries/machinery-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "Benefit from 3D printing’s unmatched performance-to-cost ratio. No tooling costs or minimum order quantities (MOQ), and the ability to design fit-for-purpose parts without the constraints of traditional manufacturing means you can create parts to do exactly what you need at the right price point.",
+    "url": "https://www.materialise.com/en/industries/machinery-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "Fast Lane service available for online orders of PA 12 (SLS) – Normal finish",
+    "url": "https://www.materialise.com/en/industries/machinery-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "Max part dimensions (Fast Lane orders): 270 x 270 x 270 mm",
+    "url": "https://www.materialise.com/en/industries/machinery-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "Build customized lightweight grippers, nozzles, and brackets that improve efficiency and cycle times from metal or polymers, on demand and with no minimum order quantity. Integrate internal channels for superior performance or prioritize mass customization thanks to the design freedom of 3D printing.",
+    "url": "https://www.materialise.com/en/industries/machinery-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "将来的にAMオペレーションを量産に導くために重要な役割を��担います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "これはAMオペレーションを量産に導くための重要な要素となります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、プロセスの堅牢性と再現性が不十分であること、また、製造後の検査の必要性と品質保証面において、従来の製造方法と比較してコスト高となる可能性があることが、量産への幅広い採用を妨げることに繋がっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、金属AMの生産性が向上し、スクラップ率が減少するためメーカーがオペレーションを進め、金属AMを量産のために導入する道が開かれます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise の CTO である Bart van der Schueren は、「私たちが開発したプラットフォームは、金属積層造形での量産に興味を持つメーカーにとって、最も一般的な障害の一つとなる問題を解消いたします」と述べています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "両社は、量産において金属AMの利用拡大に関心を持つあらゆる業界のパートナーを募集しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベルギーに本社を置き、世界中に支社を持つMaterialiseは、業界最大のソフトウェア開発者グループと世界最大級の3Dプリント施設を兼ね備えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、サポートの除去作業が簡素化され、サポートの体積が最大80％削減、粉末の取り出しが容易になり、パーツの取り外し後の造形プレートの加工時間の削減も可能になります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000023.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベルギーに本社を置き、世界中に支社を持つMaterialiseは、業界最大のソフトウェア開発者グループと、世界最大かつ最も設備の整った3Dプリンティング施設を兼ね備えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000023.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "HPとMaterialiseがパートナーシップを締結、３Dプリントによる量産を目指す | マテリアライズジャパン株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "HPとMaterialiseがパートナーシップを締結、３Dプリ��ントによる量産を目指す",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "この提携により、製造企業は3Dプリントの効率と品質を工業的な要件に合わせて向上させ、最終部品の量産に利用することが可能になります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise CO-AM ソフトウェアプラットフォームと連携させることで、HPのMulti Jet FusionおよびMetal Jetテクノロジーを既存の製造システムにリンクさせ、受注から納品までのAMワークフローを最適化することができるようになりました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "このパートナーシップは、効率的で繰り返しが可能な３Dプリントによる量産を後押しすることに繋がります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、繰り返しの作業には、Workflow Automation機能を追加し、ネスティング(3D自動配置)機能を使用して造形可能範囲のパーツ数を最大化することで、装置の稼働率を上げることも可能です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベルギーに本社を置き、世界中に支社を持つMaterialiseは、業界最大のソフトウェア開発者グループと、世界最大級の3Dプリント施設を兼ね備えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "HPとMaterialiseがパートナーシップを締結、３Dプリントによる量産を目指す",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Empowering our customers since 1990",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": ". Founded in",
+    "url": "https://www.reveliolabs.com/companies/materialise/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise was founded in",
+    "url": "https://www.reveliolabs.com/companies/materialise/employees",
+    "pass": 3
+   }
+  ],
+  "売上・受託売上": [
+   {
+    "quote": "EUR annual revenue",
+    "url": "https://www.materialise.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our Paris office houses an ambitious research and sales team of over 30 specialists focusing on cranio-maxillofacial and orthopaedic medical devices within our Materialise Medical unit. Get in touch to bring innovative solutions to surgeons and their patients.",
+    "url": "https://www.materialise.com/en/about/locations/france",
+    "pass": 1
+   },
+   {
+    "quote": "please get in touch with our sales and engineering team",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": ", over 1.5 million standard implants placed, and more than 50,000 patients treated with personalized solutions, our quality in CMF is backed by proven results, peer-reviewed evidence, and reliable workflows from scan to tray.",
+    "url": "https://www.materialise.com/en/healthcare/hcps/cmf",
+    "pass": 1
+   },
+   {
+    "quote": "Join users of our software and services who help more than 60,000 patients every year and, to date, have analyzed over 6 million patient scans and designed more than 600,000 patient‑specific guides and implants.",
+    "url": "https://www.materialise.com/en/healthcare/hcps/3d-planning-hospitals",
+    "pass": 1
+   },
+   {
+    "quote": ", and Sales and Marketing at",
+    "url": "https://www.reveliolabs.com/companies/materialise/employees",
+    "pass": 3
+   },
+   {
+    "quote": "; Sales and Marketing is growing the fastest, up",
+    "url": "https://www.reveliolabs.com/companies/materialise/employees",
+    "pass": 3
+   },
+   {
+    "quote": "), and Sales and Marketing (",
+    "url": "https://www.reveliolabs.com/companies/materialise/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Sales and Marketing",
+    "url": "https://www.reveliolabs.com/companies/materialise/employees",
+    "pass": 3
+   }
+  ],
+  "採用・人数": [
+   {
+    "quote": "ACTechは、自動車、エンジニアリング、航空宇宙などの産業向けに、高精度ですぐに取り付け可能な鋳造試作品や少量生産の最終用途パーツのための完全な製造ソリューションを提供します",
+    "url": "https://www.materialise.com/ja/about/locations",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、プロセスの堅牢性と再現性が不十分であること、また、製造後の検査の必要性と品質保証面において、従来の製造方法と比較してコスト高となる可能性があることが、量産への幅広い採用を妨げることに繋がっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "両社は、量産において金属AMの利用拡大に関心を持つあらゆる業界のパートナーを募集しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "「Materialise社との長期に渡る関係と、両社のエンジニアリングチーム間の緊密な協力関係について、非常に喜ばしく思っています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialiseが委託した独立調査によれば、3Dプリントの採用を妨げる主な要因は、知識不足と生産プロセスに関連するコストです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000023.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、パーツの品質と総生産コストの間のバランスがとれるようになり、LPBFプロセス全体に新しい視点がもたらされると共に、経済的にも実現可能で採用しやすくなります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000023.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動化は、知識のギャップを埋め、技術をより速く採用、投資利益を加速し、全体的な生産コストを削減することでAMユーザーを支援できます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000023.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "継続的な製造を保証するために、リアルタイムのマシン・モニタリングは、オペレーターやエンジニアに、造形状況、材料使用量、マシン・センサー・データなどの重要なプロセス・データを提供します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "If a design submitted to Materialise OnSite risks infringing the intellectual property rights of third parties, we reserve the right to either not produce the design or produce it without the part that risks infringement. In other words, we won’t print designs that aren’t 100% owned by the person who uploads them.",
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": ", over 1.5 million standard implants placed, and more than 50,000 patients treated with personalized solutions, our quality in CMF is backed by proven results, peer-reviewed evidence, and reliable workflows from scan to tray.",
+    "url": "https://www.materialise.com/en/healthcare/hcps/cmf",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.reveliolabs.com/companies/materialise/employees",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Investor Relations | Materialise NV — Aug 27, 2026 · Materialise NV provides innovative 3D printing solutions, software, and services for industrial and healthcare applications, empowering sustainable solutions and enhancing patient outcomes.",
+    "url": "https://investors.materialise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise：2026年第2四半期に売上高と利益が大幅に増加 — Aug 31, 2026 · 2026年上半期のMaterialiseの売上高は1億3,630万ユーロで、前年同期比3.9％増となりました。 純利益は520万ユーロに達し、前年同期の30万ユーロの損失から改善しました。 上半期にMaterialiseは、すでに発表していたRapidFitおよびEyewear部門の売却を完了しました。",
+    "url": "https://3druck.com/ja/産業/materialiseの売上高と利益、2026年第2四半期に大幅増加-53162250/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Reports Third Quarter 2026 Results | Materialise NV — 6 days ago · Materialise NV incorporates more than three decades of 3D printing experience into a range of software solutions and 3D printing services that empower sustainable 3D printing applications.",
+    "url": "https://investors.materialise.com/news-releases/news-release-details/materialise-reports-third-quarter-2026-results",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Relations | Materialise NV — Aug 27, 2026 · Materialise incorporates more than three decades of experience into software solutions and services that empower sustainable additive manufacturing and accelerate personalized healthcare.",
+    "url": "https://investors.materialise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise「医療ソフトウェアと3Dプリント受託」に学ぶ三本柱の事業... — Oct 25, 2026 · 3Dプリント用ソフトウェア、医療向けの計画ソフトと個別化医療機器、受託製造の三つのセグメントで収益を上げるベルギーのMaterialiseの事例を、年次報告書(Form 20-F)から読み解きます。",
+    "url": "https://otsumu.co.jp/knowledge/cases/materialise-medical-software-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialiseの2024年第3四半期決算発表：堅調な成長、医療セグメント... — Oct 25, 2024 · 3Dプリンティングサービスおよびソフトウェアソリューションの主要プロバイダーであるMaterialise NV (MTLS)は、2024年第3四半期に堅調な財務実績を報告しました。 売上高は前年同期比14%増の€68.7百万に達しました。",
+    "url": "https://jp.investing.com/news/stock-market-news/article-93CH-906282",
+    "pass": 3
+   },
+   {
+    "quote": "HPとMaterialiseがパートナーシップを締結、3Dプリントによる量産を目... — Nov 7, 2023 · MaterialiseとHPは、HPのMulti Jet FusionおよびMetal Jet積層造形（AM）技術をMaterialise CO-AMソフトウェアプラットフォームと連携させることを目的とした戦略的パートナーシップの締結を発表。",
+    "url": "https://www.materialise.com/ja/news/press-releases/volume-3d-printing-partner-hp",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形の促進に貢献する技術を提供、MaterialiseとSigma Labs社 — Feb 21, 2022 · Materialiseのオープンで柔軟なソリューションにより、ヘルスケア、自動車、航空宇宙、アート、デザイン、消費財など、幅広い業界のプレーヤー ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise 、金属3Dプリントのデータ作成を再定義 | マテリアライズ... — Mar 12, 2024 · ベルギーに本社を置き、世界中に支社を持つMaterialiseは、業界最大のソフトウェア開発者グループと、世界最大かつ最も設備の整った3Dプリン ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000023.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialiseとSigma Labs社、金属積層造形の促進に貢献する画期的な技... — Jan 25, 2022 · 航空宇宙、医療機器、自動車、エネルギーなどの業界において、よりローカライズされ、カスタマイズ可能な生産ラインを導入するために、金属AMは製造ツールの中でも注目を高めてきています。",
+    "url": "https://www.materialise.com/ja/news/press-releases/breakthrough-technology-metal-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise | 3Dプリント・イノベーター — Materialiseは、産業用アプリケーションの柔軟な大量生産のための3Dプリント・ソリューションを提供すると同時に、ヘルスケアにおけるマス・パーソナライゼーションを推進し続けています。",
+    "url": "https://www.materialise.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "HPとMaterialiseがパートナーシップを締結、3Dプリントによる量産を目... — Nov 8, 2023 · Materialiseは、30年にわたる3Dプリントの経験をさまざまなソフトウェアソリューションと3Dプリントサービスに反映させており、これらが一体と ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialiseはCO-AM用の包括的プロセス品質システム を発表、Ansys社... — Nov 7, 2023 · Materialiseは、30年にわたる3Dプリントの経験をさまざまなソフトウェアソリューションと3Dプリントサービスに反映させており、これらが一体と ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000021.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise産業|3Dプリントソフトウェアと製造 — 当社は、ソフトウェアソリューションの幅広いプラットフォームと、大型で完全な3Dプリント設備をベースにしたデジタルマニュファクチャリングサービスを提供しています。",
+    "url": "https://www.materialise.com/ja/industrial",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Reports Fourth Quarter and Full Year 2025 Results — Feb 18, 2026 · Our Materialise Medical segment continues to lead the way, achieving another quarterly revenue record and sustaining its double-digit growth path. Our Materialise Software segment maintained steady upward momentum, continuing to build on successive quarterly revenue increases throughout 2025.",
+    "url": "https://www.materialise.com/en/news/financial/fourth-quarter-and-full-year-2025-results",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Reports Fourth Quarter and Full Year 2024 Results — Feb 19, 2025 · Our Materialise Software segment continued to make good progress in its conversion to a recurring revenue business model and delivered results in line with our expectations.",
+    "url": "https://www.materialise.com/en/news/financial/fourth-quarter-and-full-year-2024-results",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Number of Employees 2026 | Employee Count ... — Materialise NV (MTLS) is a Healthcare and Wellness Services company that employs 2,554 people worldwide as of March 2026. It is the 10th-largest by headcount among its peers.",
+    "url": "https://www.reveliolabs.com/companies/materialise/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise NV (MTLS) Number of Employees - Stock Analysis — Dec 31, 2025 · Current and historical number of employees for Materialise NV (MTLS) with related statistics, a chart and a data table.",
+    "url": "https://stockanalysis.com/stocks/mtls/employees/",
+    "pass": 3
+   },
+   {
+    "quote": "Reports | Materialise NV — YOU ARE SEEKING TO ACCESS MATERIALS RELATING TO THE ADMISSION TO TRADING OF ALL SHARES OF MATERIALISE NV ON EURONEXT BRUSSELS. THESE MATERIALS DO NOT CONSTITUTE AN OFFER, OR ANY SOLICITATION OF ANY OFFER, OR ANY INVITATION, TO SELL, BUY, OR SUBSCRIBE FOR ANY SECURITIES.",
+    "url": "https://investors.materialise.com/financials/reports",
+    "pass": 3
+   }
+  ],
+  "設備台数": [
+   {
+    "quote": "航空宇宙、医療機器、自動車、エネルギーなどの業界において、よりローカライズされ、カスタマイズ可能な生産ラインを導入するために、金属AMは製造ツールの中でも注目を高めてきています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、金属AMの生産性が向上し、スクラップ率が減少するためメーカーがオペレーションを進め、金属AMを量産のために導入する道が開かれます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアライズジャパン株式会社は、30年にわたる3Dプリントの経験を、さまざまなソフトウェアソリューションと3Dプリントサービスに反映させており、これらが一体となって3Dプリント業界の屋台骨となるバックボーンを形成しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業者はAMのユニークな利点を認めながらも、技術を導入する際に課題を抱えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "HP社の AMテクノロジーとMaterialise CO-AMのシームレスな 連携により、ユーザーは、トレーサビリティ、品質管理、装置稼働率を向上させるワークフローを構築することができます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "最適化された3Dプリントジョブ管理により、製造責任者は計画されたプリンターと実際稼働中の3Dプリンターの状況をトラッキングし、マシンタイムを最適化することができます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、繰り返しの作業には、Workflow Automation機能を追加し、ネスティング(3D自動配置)機能を使用して造形可能範囲のパーツ数を最大化することで、装置の稼働率を上げることも可能です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "Materialiseは、30年にわたる3Dプリントの経験をさまざまなソフトウェアソリューションと3Dプリントサービスに反映させており、これらが一体となって3Dプリント業界の屋台骨となるバックボーンを形成しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.hp.com/us-en/printers/3d-printers.html",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   },
+   {
+    "quote": "AM技術導入の際の課題について：",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "pass": 3
+   }
+  ],
+  "発言": [
+   {
+    "quote": "Sigma Labs社の社長兼CEOであるMark Ruport氏は、次のように述べています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Materialise (@MaterialiseNV) / X Brigitte de Vet, CEO of Materialise, outlines how she sees this playing out — and what it could mean for the adoption and expansion of additive manufacturing in the long term.",
+    "url": "https://x.com/MaterialiseNV",
+    "pass": 3
+   },
+   {
+    "quote": "i.materialise (@imaterialise) / Posts / X We've got important news: i.materialise is merging with Materialise OnSite in October 2025. Find out what's next, what to expect, and what it means for now here: mtls.am/3U642Zk",
+    "url": "https://x.com/imaterialise",
+    "pass": 3
+   },
+   {
+    "quote": ".MGX by Materialise (@MGXMaterialise) / X .MGX by Materialise @MGXMaterialise Oct 29, 2013 MAD's “Out of Hand: Materializing the Postdigital”, With 10 Works #3DPrinted by Materialise bit.ly/Ht0t8q #3dprinting #art .MGX by Materialise @MGXMaterialise Oct 20, 2013",
+    "url": "https://x.com/MGXMaterialise",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Malaysia (@materialiseMY) / Posts / X Materialise Malaysia (@materialiseMY) - Posts - We are dedicated to making the world a better and healthier place through 3D Printing and to being i... | X (formerly Twitter)",
+    "url": "https://x.com/materialiseMY",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Materialise - LinkedIn Materialise empowers sustainable 3D printing applications. We provide pioneering solutions that enable flexible industrial manufacturing and mass personalization in healthcare.",
+    "url": "https://www.linkedin.com/company/materialise",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise | LinkedIn Materialise empowers sustainable 3D printing applications. We provide pioneering solutions that enable flexible industrial manufacturing and mass personalization in healthcare.",
+    "url": "https://br.linkedin.com/company/materialise",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise | LinkedIn Materialise empowers sustainable 3D printing applications. We provide pioneering solutions that enable flexible industrial manufacturing and mass personalization in healthcare.",
+    "url": "https://mx.linkedin.com/company/materialise",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise - LinkedIn Materialise empowers sustainable 3D printing applications. We provide pioneering solutions that enable flexible industrial manufacturing and mass personalization in healthcare.",
+    "url": "https://co.linkedin.com/company/materialise",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Materialise - Facebooki.materialise - FacebookMaterialise | Petaling Jaya - FacebookMaterialise | Kyiv - Facebooki.materialise - Today is the day: i.materialise has... | Facebooki.materialise - This October, i.materialise and... | FacebookTo scale additive manufacturing, you need to make it a ... Oct 14, 2026 · This question led Wout on a journey to build a new script in Materialise Mimics that he",
+    "url": "https://www.facebook.com/MaterialiseNV/",
+    "pass": 3
+   },
+   {
+    "quote": "i.materialise - FacebookMaterialise | Petaling Jaya - FacebookMaterialise | Kyiv - Facebooki.materialise - Today is the day: i.materialise has... | Facebooki.materialise - This October, i.materialise and... | FacebookTo scale additive manufacturing, you need to make it a ... Oct 31, 2025 · Have you had the chance to explore Materialise OnSite yet? With our big merger coming up at the end of Octobe",
+    "url": "https://www.facebook.com/i.materialise/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise | Petaling Jaya - FacebookMaterialise | Kyiv - Facebooki.materialise - Today is the day: i.materialise has... | Facebooki.materialise - This October, i.materialise and... | FacebookTo scale additive manufacturing, you need to make it a ... Jun 4, 2026 · At Materialise, we aim to put people and customers first, simplify medical innovations, and drive growth and success while supporting ",
+    "url": "https://www.facebook.com/MaterialiseMalaysia/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise | Kyiv - Facebooki.materialise - Today is the day: i.materialise has... | Facebooki.materialise - This October, i.materialise and... | FacebookTo scale additive manufacturing, you need to make it a ... Sep 22, 2026 · Тоді Materialise Medical Engineering School 2025 саме для тебе! Навчання стартує 24 лютого. Приєднуйся до нас, розвивай свої професійні навички та відкрий двері до кар'єрн",
+    "url": "https://www.facebook.com/MaterialiseUkraine/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.materialise.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/inspiration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/sustainability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ko/about/locations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/about/locations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations/belgium",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations/czech-republic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations/france",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations/germany",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations/hungary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/about/locations/italy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industrial/3d-printing-services/online-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/industries/machinery-equipment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps/orthopaedics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps/cmf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps/cardiovascular",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps/thoracic-abdominal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps/pressure-measurements-orthotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/healthcare/hcps/3d-planning-hospitals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/fr/inspiration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/de/inspiration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/es/inspiracion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/it/ispirazione",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://assets-eu-01.kc-usercontent.com:443/8ff24b0e-57a3-0157-62d1-fa4ac9734eb5/e867832e-2ab9-4e89-9b02-d6e8518a6c30/hm-industries-machinery-equipment.jpg?w=3840&q=90&lossless=true&auto=format",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets-eu-01.kc-usercontent.com:443/8ff24b0e-57a3-0157-62d1-fa4ac9734eb5/4c6a9418-9445-4d6c-9c8a-532f88ea1cfe/hd-industries-machinery-equipment.jpg?w=3840&q=90&lossless=true&auto=format",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets-eu-01.kc-usercontent.com:443/8ff24b0e-57a3-0157-62d1-fa4ac9734eb5/e867832e-2ab9-4e89-9b02-d6e8518a6c30/hm-industries-machinery-equipment.jpg?w=1200&q=90&lossless=true&auto=format",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%A6%AA%E4%BC%9A%E7%A4%BE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%AD%90%E4%BC%9A%E7%A4%BE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.materialise.com/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.founded.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.founded.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toishi.info/email/founded_established.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%A3%B2%E4%B8%8A%E9%AB%98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freeway-keiri.com/blog/view/1123",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freee.co.jp/kb/kb-accounting/annual-sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/materialise%E3%81%AE%E5%A3%B2%E4%B8%8A%E9%AB%98%E3%81%A8%E5%88%A9%E7%9B%8A%E3%80%812026%E5%B9%B4%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E3%81%AB%E5%A4%A7%E5%B9%85%E5%A2%97%E5%8A%A0-53162250/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.materialise.com/news-releases/news-release-details/materialise-reports-third-quarter-2026-results",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.materialise.com/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000023.000076712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.materialise.com/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialize.com/materialize-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://at-workdocs.com/mitsumorisho/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrtt.go.jp/procurement/standards/unit-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mki.co.jp/news/corporate/20260717-005973.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kojomag.nikkan.co.jp/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/materialise/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MaterialiseNV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/imaterialise",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MGXMaterialise",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/materialiseMY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/materialise",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/materialise",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/company/materialise",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://co.linkedin.com/company/materialise",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MaterialiseNV/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/i.materialise/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MaterialiseMalaysia/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MaterialiseUkraine/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MaterialiseNV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/imaterialise",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Materialise 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/親会社",
+    "https://ja.wikipedia.org/wiki/子会社",
+    "https://investors.materialise.com/",
+    "https://kabutan.jp/holder/",
+    "https://www.ullet.com/stock/search.html",
+    "https://ejje.weblio.jp/content/出資比率",
+    "https://www.buffett-code.com/shareholder_search"
+   ]
+  },
+  {
+   "query": "Materialise 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.founded.com/about/",
+    "https://www.founded.com/",
+    "https://www.toishi.info/email/founded_established.html",
+    "https://www.mizuhobank.co.jp/corporate/account/tips/topic_111.html",
+    "https://www.servcorp.co.jp/blog/archives/word_founded_established.html",
+    "https://biz.moneyforward.com/establish/basic/57335/",
+    "https://kigyo.gmo/magazine/starting/list/want-to-start-a-business/"
+   ]
+  },
+  {
+   "query": "Materialise 売上高 OR 年商",
+   "results": [
+    "https://ja.wikipedia.org/wiki/売上高",
+    "https://freeway-keiri.com/blog/view/1123",
+    "https://www.freee.co.jp/kb/kb-accounting/annual-sales/",
+    "https://www.manawin.jp/languagegap/finance/nennsyou-uriagedaka/",
+    "https://meaning-dictionary.com/「年商」と「売上高」の違いとは？分かりやすく/",
+    "https://keiridriven.mjs.co.jp/171760/",
+    "https://virtualoffice-resonance.jp/column/what-is-annual-sales/"
+   ]
+  },
+  {
+   "query": "Materialise 金属3Dプリンター 受託 売上",
+   "results": [
+    "https://3druck.com/ja/産業/materialiseの売上高と利益、2026年第2四半期に大幅増加-53162250/",
+    "https://investors.materialise.com/news-releases/news-release-details/materialise-reports-third-quarter-2026-results",
+    "https://investors.materialise.com/",
+    "https://otsumu.co.jp/knowledge/cases/materialise-medical-software-3d-printing.html",
+    "https://jp.investing.com/news/stock-market-news/article-93CH-906282",
+    "https://3druck.com/ja/産業/materialiseの医療用3dプリントが成長、ソフトウェア事業/",
+    "https://news.sharelab.jp/3dp-news/ir/materialise-230922/"
+   ]
+  },
+  {
+   "query": "Materialise 金属積層造形 台数 導入",
+   "results": [
+    "https://www.materialise.com/ja/news/press-releases/volume-3d-printing-partner-hp",
+    "https://prtimes.jp/main/html/rd/p/000000010.000076712.html",
+    "https://prtimes.jp/main/html/rd/p/000000023.000076712.html",
+    "https://www.itmedia.co.jp/keywords/kinzoku3d.html",
+    "https://www.materialise.com/ja/news/press-releases/breakthrough-technology-metal-additive-manufacturing",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "Materialise 受注 量産 大型",
+   "results": [
+    "https://www.materialise.com/ja",
+    "https://investors.materialise.com/",
+    "https://prtimes.jp/main/html/rd/p/000000020.000076712.html",
+    "https://prtimes.jp/main/html/rd/p/000000021.000076712.html",
+    "https://www.materialise.com/ja/industrial",
+    "https://strainer.jp/notes/9547",
+    "https://www.marklines.com/ja/news/353520"
+   ]
+  },
+  {
+   "query": "Materialise 料金 OR 見積 OR 単価",
+   "results": [
+    "https://materialize.com/materialize-pricing/",
+    "https://at-workdocs.com/mitsumorisho/",
+    "https://www.jrtt.go.jp/procurement/standards/unit-cost/",
+    "https://www.pref.fukui.lg.jp/doc/kanri/tuuchi.html",
+    "https://www.mod.go.jp/rdb/s-kanto/contract/construction/images/tanka/071016_doboku_000.pdf",
+    "https://www.cbr.mlit.go.jp/architecture/kensetsugijutsu/unit_price/index.htm",
+    "https://template-free.biz/見積書の文例テンプレート01（word・ワード）/"
+   ]
+  },
+  {
+   "query": "Materialise 社長 インタビュー 日刊工業新聞",
+   "results": [
+    "https://www.mki.co.jp/news/corporate/20260717-005973.html",
+    "https://kojomag.nikkan.co.jp/tags/インタビュー",
+    "https://www.nikkan.co.jp/",
+    "https://www.nikkan.co.jp/brand/interview/executive/",
+    "https://www.m-ivx.com/2026/07/16/日刊工業新聞に「社長インタビュー記事」が掲載/",
+    "https://note.com/nikkankogyo/n/n5ac95e748bd0",
+    "https://www.dexerials.jp/news/2024/news24031.html"
+   ]
+  },
+  {
+   "query": "Materialise revenue employees",
+   "results": [
+    "https://www.materialise.com/en/news/financial/fourth-quarter-and-full-year-2025-results",
+    "https://www.materialise.com/en/news/financial/fourth-quarter-and-full-year-2024-results",
+    "https://www.reveliolabs.com/companies/materialise/employees",
+    "https://stockanalysis.com/stocks/mtls/employees/",
+    "https://investors.materialise.com/financials/reports",
+    "https://rocketreach.co/materialise-profile_b5c608bdf42e0c53",
+    "https://investors.materialise.com/"
+   ]
+  },
+  {
+   "query": "site:note.com Materialise",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/stargazingwario/n/nc8ea3d35c0f4",
+    "https://note.com/tag/みいちゃんと山田さん",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hirasawa_susumu/n/n13f1a23484be",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ]
+  },
+  {
+   "query": "site:x.com Materialise",
+   "results": [
+    "https://x.com/MaterialiseNV",
+    "https://x.com/imaterialise",
+    "https://x.com/MGXMaterialise",
+    "https://x.com/materialiseMY",
+    "https://x.com/ftheamazing/status/2116738337549828481",
+    "https://x.com/nyaaa3sui/status/2105002696814088382",
+    "https://x.com/p0ptartkitty/status/2115926138987913708"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Materialise",
+   "results": [
+    "https://www.linkedin.com/company/materialise",
+    "https://br.linkedin.com/company/materialise",
+    "https://mx.linkedin.com/company/materialise",
+    "https://co.linkedin.com/company/materialise",
+    "https://es.linkedin.com/company/materialise",
+    "https://www.linkedin.com/company/materialise-ltd",
+    "https://at.linkedin.com/company/materialise"
+   ]
+  },
+  {
+   "query": "site:facebook.com Materialise",
+   "results": [
+    "https://www.facebook.com/MaterialiseNV/",
+    "https://www.facebook.com/i.materialise/",
+    "https://www.facebook.com/MaterialiseMalaysia/",
+    "https://www.facebook.com/MaterialiseUkraine/",
+    "https://www.facebook.com/i.materialise/posts/today-is-the-day-imaterialise-has-officially-merged-with-materialise-onsite-what/1242107287960026/",
+    "https://www.facebook.com/i.materialise/posts/this-october-imaterialise-and-materialise-onsite-will-merge-into-one-online-plat/1179707994199956/",
+    "https://www.facebook.com/MaterialiseNV/videos/to-scale-additive-manufacturing-you-need-to-make-it-a-repeatable-traceable-proce/1607161117085020/"
+   ]
+  },
+  {
+   "query": "Materialise note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://jp.linkedin.com/in/sadato-kobayashi-a3b8ba1a3",
+    "https://www.asahi.com/and/pressrelease/16980866"
+   ]
+  },
+  {
+   "query": "Materialise X 投稿",
+   "results": [
+    "https://x.com/MaterialiseNV",
+    "https://x.com/imaterialise",
+    "https://www.instagram.com/materialisenv/",
+    "https://www.materialise.com/en",
+    "https://www.materialise.com/ja",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://fitly.pics/blog/x-twitter-post-tips"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部37頁・検索15回）",
+  "事業内容": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部37頁・検索15回）",
+  "保有設備": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部37頁・検索15回）",
+  "認証": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部37頁・検索15回）"
+ }
+}

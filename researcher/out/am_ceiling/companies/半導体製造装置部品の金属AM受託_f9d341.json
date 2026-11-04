@@ -1,0 +1,1167 @@
+{
+ "name": "半導体製造装置部品の金属AM受託",
+ "en": "semiconductor equipment parts metal additive manufacturing",
+ "aliases": [
+  "半導体製造装置 部品 金属3Dプリント",
+  "半導体 積層造形 部品 受託"
+ ],
+ "context": "用途・半導体",
+ "kind": "market",
+ "researched_at": "2026-11-04T10:31:43.686861+00:00",
+ "evidence": {
+  "1件の単価": [
+   {
+    "quote": "金属の場合ですが、EOSの粉末材料価格は材質に応じてキログラム当たり1.4万円から9.3万円です",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "NEDO技術戦略研究センターは、2030年の金属積層造形市場を装置6,500億円・造形品2兆円と予測しており",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用の金属3Dプリンターは3,000万円〜数億円程度が目安とされ、ハイエンド機では1億円を超えることも珍しくありません",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、金属フィラメントを使うMEX方式やバインダージェット方式には、30〜100万円前後から導入できる機種もあります",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて金属粉体の材料費、不活性ガス、電力、保守費といったランニングコストや、設置工事・付帯設備の費用も見込む必要があります（※価格は2026年8月時点の一般的な目安です）",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "また、造形エリア内に複数の部品を配置し、1回のバッチでまとめて造形できるため、1個あたりの造形コストと造形時間を抑えられます",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE「金属3Dプリンターの価格は？本体価格・導入費用の相場を解説」",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLab NEWS「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "材料開発から積層造形まで一貫で提供できるのを強みとし、2025年度に同事業で売上高20億円を目指す",
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "トクヤマ、半導体材料の窒化アルミ粉末3割増産 山口県で65億円投資",
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター造形品のお見積もりがWEBで、いつでも",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "＼素早く、簡単、最短1分でお見積もり／",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "■3Dデータなしでも、スケッチや2Dデータでのご依頼可（※データ作成は別途費用必要）",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "フィラメントや造形サイズ等よりお見積りし、納期目安は2週間です",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "「製造リードタイムを短縮したい」「1個から試作したい」などのご要望が",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "1個から大量ロットまで受け付けています",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "■1個から生産可能で少量多品種の試作に好適",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "13. Seurat Technologies",
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "pass": 3
+   }
+  ],
+  "顧客1社の年間": [
+   {
+    "quote": "この10年間でゆっくりですが低価格化が進んでおり、今後も消費量の増大とともに低価格化が進むと思われます",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "残念ながら、装置価格はこの２０年間で安くなった感じはありません",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "AM四方山話 #13 AMと量産性",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "造形エリアをSLM®280の2倍に拡大し、 4基の700Wレーザーを搭載した量産モデルです",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは量産にも対応できますか？",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "量産メーカー選定から立ち上げも対応！当社の3D造形の試作サービスについてご紹介",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は金属3Dプリンターの分野において、粉末開発・製造から試作品造形・量産対応まで",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "「AMbition（アンビション）」とは、お客様に代わって金属３Ｄプリンターの量産適用実現の可能性を実証するサービスです",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "5 試作・量産",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "1個から大量ロットまで受け付けています",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   }
+  ],
+  "用途別": [
+   {
+    "quote": "ダイカスト金型業界の方へ",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体業界の方へ",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、金型のコスト評価でそのような例が多いように思います",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "バイオサイエンス・医療",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙・天体機器",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・FPD",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体後工程露光（アドバンストパッケージング）",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体測定・計測・検査",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作・射出成型",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・エレクトロニクス",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・航空・宇宙",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "資源・エネルギー・素材",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "切削加工では実現できない複雑形状の一体造形や、摩耗した部品・金型の補修に活用され、航空宇宙・エネルギー・医療・自動車・半導体など幅広い分野で導入が進んでいます",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "切削加工が材料を削り出す「除去加工」、鋳造や鍛造が金型を用いて成形する工法であるのに対し、金属3Dプリンターは材料を積み重ねながら造形する「付加加工（アディティブマニュファクチャリング）」です",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "金型が不要なため、設計変更や試作の繰り返しにも柔軟に対応でき、少量多品種生産に適しています",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "また、軽量化や部品統合につながる複雑形状を実現できることから、自動車、航空宇宙、産業機器など幅広い分野で活用が拡大しています",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、設計の自由度向上や生産の柔軟化を実現する技術として、さまざまな産業分野で導入が進み、特に航空宇宙分野や医療分野では、軽量化や高機能化、個別要件に対応した部品製造へのニーズが高まっています",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部品や医療用インプラントなどで採用され、切削加工が難しい難削材であることから、積層造形の利点が特に生きる材料です",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体装置産業における３Dプリンター製造部品とその効果の紹介 | 株式会社NTTデータ ザムテクノロジーズ",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイカスト金型業界の方へ",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体業界の方へ",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "2021.10.03 半導体装置産業における３Dプリンター製造部品とその効果の紹介",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体装置産業における３Dプリンター製造部品とその効果の紹介",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍の影響などにより半導体の需給のバランスが崩れ、2021年現在半導体不足が懸念事項となっていますが、世界中でDX推進が急速に行われ、半導体需要は急増しています",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "それに伴い半導体製造装置産業は、2020年にグローバルで前年度比19％の成長が見られ（SEMI世界半導体製造装置市場統計（WWSEMS）、2020年4月）、今後も積極的な投資が想定されます",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造においては、主要な8つの工程に莫大な投資が必要となります",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "この冊子では、半導体産業で利用される製造装置の部品で、AM技術が機能やリードタイムに対し効果を発揮する例を紹介します",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体について",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットエンジン開発にEOSの3Dプリンターを導入",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "最新国産ロケットに適用するAM技術",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットエンジン開発にEOSの3Dプリ…",
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "pass": 3
+   },
+   {
+    "quote": "資源エネルギー",
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品・医療介護",
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "発注企業の要望に応じ、自動車や半導体装置に使う金属部品をつくることができる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工の3Dプリンターは、金型を使わずに金属粉末を接合させて金属部...",
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットや船舶部品向け金属3Dプリンター ダイヘン、製造コスト半減",
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "海外移転に取り残された鋳鍛鋼 日本鋳造、脱・ジリ貧へ半導体に挑む",
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "高市戦略17分野の造船･宇宙に照準 ダイヘンが3Dプリンター参入",
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "トクヤマ、半導体材料の窒化アルミ粉末3割増産 山口県で65億円投資",
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "●半導体製造装置",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターなら金型がなくても金属製品の試作を短期間に",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "■金型レスで製品を生産",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "形状自由度が高いため、金型で作りにくかった形状や切削や鋳造などの、従来の製造方法では不可能だった複雑な材料の造形が可能です",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "製品をダイレクトに造形することが可能になるため、試作型（木型、砂型、金型）が不要となり、型の製作時間、イニシャルコストを削減することができます",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "アンダーカット形状品を金型製作しないで鋳造するので工期短縮が図れます",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "小物から大物まで金型レスにて製作！機能評価のためのさまざまな加工に対応可能",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "小物から大物まで、金型レスにて製作します",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "豊橋事業所では、JISQ9100同等のEN9100（ISO9001含む）や医療機器製造許可証を取得し活動しています",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "3D造形試作を行っており、金型試作と比べると",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "早くても3日の短納期で、金型不要で、安価",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "■安価(金型不要)",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターを活用することで、既に製造を中止している部品や、図面がない部品を金型レス・設備レスで作ることが可能です",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターを活用することで、既に製造を中止している部品や、図面がない部品を金型レス・設備レスでリバースエンジニアリングすることが可能です",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "■金型やダイカストの破棄された機械部品など",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing for Semiconductor Capital Equipment | 3D Systems",
+    "url": "https://www.3dsystems.com/semiconductor",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://www.3dsystems.com/semiconductor",
+    "pass": 3
+   },
+   {
+    "quote": "Semiconductor",
+    "url": "https://www.3dsystems.com/semiconductor",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Durable Tooling",
+    "url": "https://www.3dsystems.com/semiconductor",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Aids and Production Tooling",
+    "url": "https://www.3dsystems.com/semiconductor",
+    "pass": 3
+   },
+   {
+    "quote": "Implantology",
+    "url": "https://www.3dsystems.com/semiconductor",
+    "pass": 3
+   }
+  ],
+  "価格を決める要因": [
+   {
+    "quote": "材料費だけではない、損失について",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "製造コストの要素としてすぐに思いつくのは、材料費（粉末材料や造形プラットフォームの値段）、造形装置や周辺機器の価格（償却費）、あとは不活性ガスや電気などの装置の運用に必要な費用などですが、そのほかに忘れてはならないのが",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "金属造形の場合、大きな部品だと100時間を超える造形時間を要する場合も多々あります",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "他にも、製造コスト低減に寄与する要素として「造形時間の短縮」があります",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "造形時間の短縮は量産性の向上のみならず、製造コストの低減にも寄与するのですが、このことについてはまた次の機会に述べたいと思います",
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "pass": 3
+   },
+   {
+    "quote": "生物用観察・検査",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用観察・検査",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体測定・計測・検査",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "メリットと、導入コスト・安全対策・後処理といった導入時の注意点",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "造形から検査までの流れ、活用事例、失敗しない選び方",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "求める強度・耐熱性・耐食性に加え、金属粉体の入手性と価格、造形パラメータの実績、熱処理を含む後処理条件までを含めて判断します",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターによるものづくりは、設計から造形、後処理、検査までの一連の工程で成り立っています",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "応力除去熱処理・HIP処理",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙などで高い信頼性が求められる部品では、内部空孔を潰すHIP（熱間等方圧加圧）処理を追加する場合があります（全ての部品に必須ではありません）",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "X線CT・寸法測定による品質検査",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "造形後の検査までを設計に織り込むことで、実部品としての採用が可能になります",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "金属AM×非破壊検査のソリューションは",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "導入後に想定外の負担とならないよう、コスト・安全・設備・後処理・品質の5つの観点であらかじめ検討しておくべき点を整理します",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "装置価格・材料費など導入コストが高い",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて金属粉体の材料費、不活性ガス、電力、保守費といったランニングコストや、設置工事・付帯設備の費用も見込む必要があります（※価格は2026年8月時点の一般的な目安です）",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "CLIP製法によるこの3Dプリンターは、圧倒的な造形スピードと、後処理の",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "■圧倒的な造形スピードと、後処理不要のなめらかな造形面を実現",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "Semiconductor lithography and wafer processing equipment require constant innovation to meet the accuracy, speed, reliability, and productivity demands of increasingly complex microchip production. Additionally, the continual need for increased quality, improved total cost of ownership, reduced time to market, and minimized supply chain disruption persists.",
+    "url": "https://www.3dsystems.com/semiconductor",
+    "pass": 3
+   },
+   {
+    "quote": "Thousands of Quick Ship Products",
+    "url": "https://www.msesupplies.com/collections/metal-powders-for-3d-printing-and-additive-manufacturing?srsltid=AYCX9vJcAFYzPpC-o-A3zLfvf81VHOzQqRWBc_kMYNzobYBCGu0DZ7zo",
+    "pass": 3
+   },
+   {
+    "quote": "Ready to ship",
+    "url": "https://www.msesupplies.com/collections/metal-powders-for-3d-printing-and-additive-manufacturing?srsltid=AYCX9vJcAFYzPpC-o-A3zLfvf81VHOzQqRWBc_kMYNzobYBCGu0DZ7zo",
+    "pass": 3
+   },
+   {
+    "quote": "Worldwide shipping available",
+    "url": "https://www.msesupplies.com/collections/metal-powders-for-3d-printing-and-additive-manufacturing?srsltid=AYCX9vJcAFYzPpC-o-A3zLfvf81VHOzQqRWBc_kMYNzobYBCGu0DZ7zo",
+    "pass": 3
+   },
+   {
+    "quote": "Ownership type:",
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Ownership",
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Detailed Ownership:",
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Who owns the company? Is it a public or private company? What is the ownership structure?",
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "pass": 3
+   },
+   {
+    "quote": "The semiconductor industry demands constant innovation to meet the complex challenges of microchip production. Companies that fail to integrate AM processes risk falling behind, compromising their competitive edge in the market.",
+    "url": "https://www.additiveindustries.com/industries/high-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "5. Post-processing",
+    "url": "https://www.additiveindustries.com/industries/high-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "We advise on post-processing methods, including heat treatments, support removal, post-machining and surface improvement methods – helping you to select the optimal downstream workflow to align with your application and business case.",
+    "url": "https://www.additiveindustries.com/industries/high-tech/",
+    "pass": 3
+   }
+  ],
+  "最大案件・上限": [
+   {
+    "quote": "樹脂3Dプリンターとの最大の違いは、金属を溶融させる高出力の熱源と、不活性ガス供給・粉体回収などの付帯設備が必要になる点です",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "NEDO技術戦略研究センターは、2030年の金属積層造形市場を装置6,500億円・造形品2兆円と予測しており",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "切削工具が届かない内部形状を実現できることが、金属3Dプリンター最大の利点です",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用の金属3Dプリンターは3,000万円〜数億円程度が目安とされ、ハイエンド機では1億円を超えることも珍しくありません",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "12基の1,000Wレーザーを搭載し、1.5mの高さの造形が可能な、業界最大クラスの造形サイズ",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "補修プロセスにおける溶接工程の作業時間を最大65％削減できます（当社試算）",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "LM300Aの最大加工寸法はX297mm×Y210mm×Z400mm、SB100の最大スキャンサイズはΦ330mm×H450mmとなっています",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLab NEWS「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」",
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "pass": 3
+   },
+   {
+    "quote": "材料開発から積層造形まで一貫で提供できるのを強みとし、2025年度に同事業で売上高20億円を目指す",
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "トクヤマ、半導体材料の窒化アルミ粉末3割増産 山口県で65億円投資",
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社J・３Dには最新の設備が導入され、徹底したスタッフ教育で最高品質の造形品を提供しております",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "■サイズ：最大サイズ 255mm×252mm×200mm",
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   }
+  ],
+  "受託会社の売上": [
+   {
+    "quote": "材料開発から積層造形まで一貫で提供できるのを強みとし、2025年度に同事業で売上高20億円を目指す",
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/works/eos/article_961/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/inspiration/articles/hidden-costs-metal-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dptek.com/ja/blogs/industrial-metal-3d-printer-price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1014/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00011/00034/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/metal-3d-printing-investment-accelerates/?srsltid=AYCX9vLf0eRafp0eBrcuHEue-_8LumEtTfMgy23lY_80Bao1DcdO7nz5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=15244",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/advancing-semiconductor-executive-brief",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/group/production-equipment-contract/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space-connect.jp/metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/industry/pdf/msif_239.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seaj.or.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000572.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://global-net.co.jp/archives/11360",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/madehere",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/260519-equipmentrank.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news034.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/semiconductor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/blog/metal-3d-printing-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/content/blog/know-how/understanding-metal-3d-printing-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asmedigitalcollection.asme.org/manufacturingscience/article/139/8/081010/376354/Metal-Additive-Manufacturing-Cost-Competitive",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msesupplies.com/collections/metal-powders-for-3d-printing-and-additive-manufacturing?srsltid=AYCX9vJcAFYzPpC-o-A3zLfvf81VHOzQqRWBc_kMYNzobYBCGu0DZ7zo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/additive-manufacturing-in-semiconductor-industry-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defenseandmunitions.com/news/3d-systems-receives-7-million-dollar-plus-contract-from-us-air-force-for-advanced-metal-printing-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/additive-manufacturing-for-semiconductor-capital-equipment-unlocking-critical-supply-chains/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/content/blog/industries/from-performance-to-supply-chain-resilience",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additiveindustries.com/industries/high-tech/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "半導体製造装置部品の金属AM受託 単価 万円",
+   "results": [
+    "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-1460/",
+    "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00011/00034/",
+    "https://blog.met3dp.com/ja/blog/how-to-calculate-metal-3d-printing-part-cost-in-2026-pricing-models/"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品の金属AM受託 費用 相場",
+   "results": [
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.nttdata-xam.com/works/eos/article_961/",
+    "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.materialise.com/ja/inspiration/articles/hidden-costs-metal-additive-manufacturing",
+    "https://www.3dptek.com/ja/blogs/industrial-metal-3d-printer-price/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-1014/"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品の金属AM受託 最大 受注 億円",
+   "results": [
+    "https://www.nttdata-xam.com/works/eos/article_961/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00011/00034/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://jampt.jp/",
+    "https://idarts.co.jp/3dp/metal-3d-printing-investment-accelerates/?srsltid=AYCX9vLf0eRafp0eBrcuHEue-_8LumEtTfMgy23lY_80Bao1DcdO7nz5",
+    "https://www.sangyo-times.jp/article.aspx?ID=15244",
+    "https://ja.3dsystems.com/advancing-semiconductor-executive-brief"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品の金属AM受託 量産 受注 年間",
+   "results": [
+    "https://www.nttdata-xam.com/works/eos/article_961/",
+    "https://jampt.jp/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://www.tateyama.jp/service/industrial-equipment/products/group/production-equipment-contract/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://space-connect.jp/metal-3d-printing/",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00011/00034/",
+    "https://www.mizuhobank.co.jp/corporate/industry/pdf/msif_239.pdf",
+    "https://www.seaj.or.jp/statistics/"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品の金属AM受託 売上高 受託",
+   "results": [
+    "https://jampt.jp/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.nttdata-xam.com/works/eos/article_961/",
+    "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "http://3d.kinzoku-kakou-odec.com/service/",
+    "https://www.3dpc.co.jp/madehere",
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.semiconportal.com/archive/blog/insiders/hattori/260519-equipmentrank.html"
+   ]
+  },
+  {
+   "query": "semiconductor equipment parts metal additive manufacturing price per part",
+   "results": [
+    "https://www.3dsystems.com/semiconductor",
+    "https://www.youtube.com/watch?v=Q2aEFxh5Sg4",
+    "https://jlc3dp.com/blog/metal-3d-printing-cost",
+    "https://www.eos.info/content/blog/know-how/understanding-metal-3d-printing-cost",
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://asmedigitalcollection.asme.org/manufacturingscience/article/139/8/081010/376354/Metal-Additive-Manufacturing-Cost-Competitive",
+    "https://www.msesupplies.com/collections/metal-powders-for-3d-printing-and-additive-manufacturing?srsltid=AYCX9vJcAFYzPpC-o-A3zLfvf81VHOzQqRWBc_kMYNzobYBCGu0DZ7zo",
+    "https://www.precedenceresearch.com/metal-additive-manufacturing-market",
+    "https://www.rapiddirect.com/blog/metal-3d-printing-cost/",
+    "https://additiveplus.com/metal-3d-printing-cost-in-2026-what-lpbf-parts-actually-cost-and-why/"
+   ]
+  },
+  {
+   "query": "semiconductor equipment parts metal additive manufacturing largest contract million",
+   "results": [
+    "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "https://www.youtube.com/watch?v=Q2aEFxh5Sg4",
+    "https://www.mordorintelligence.com/industry-reports/additive-manufacturing-in-semiconductor-industry-market",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.defenseandmunitions.com/news/3d-systems-receives-7-million-dollar-plus-contract-from-us-air-force-for-advanced-metal-printing-system/",
+    "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.energy.gov/sites/prod/files/2019/07/f64/2019-OTT-Additive-Manufacturing-Spotlight_0.pdf",
+    "https://marketintelo.com/report/additive-manufacturing-in-semiconductor-equipment-market"
+   ]
+  },
+  {
+   "query": "semiconductor equipment parts metal additive manufacturing serial production long-term agreement value",
+   "results": [
+    "https://www.3dsystems.com/semiconductor",
+    "https://www.metal-am.com/articles/additive-manufacturing-for-semiconductor-capital-equipment-unlocking-critical-supply-chains/",
+    "https://www.eos.info/content/blog/industries/from-performance-to-supply-chain-resilience",
+    "https://www.additiveindustries.com/industries/high-tech/",
+    "https://www.grandviewresearch.com/industry-analysis/metal-additive-manufacturing-equipment-market-report",
+    "https://www.fortunebusinessinsights.com/additive-manufacturing-equipment-market-117013",
+    "https://www.semiconductors.org/chip-supply-chain-investments/",
+    "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "https://www.marketresearchfuture.com/reports/additive-manufacturing-in-semiconductor-industry-market-42690"
+   ]
+  },
+  {
+   "query": "semiconductor equipment parts metal additive manufacturing revenue",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "https://www.skyquestt.com/report/metal-additive-manufacturing-market/companies",
+    "https://market.us/report/additive-manufacturing-with-metal-powders-market/",
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.youtube.com/watch?v=Q2aEFxh5Sg4",
+    "https://www.precedenceresearch.com/metal-additive-manufacturing-market",
+    "https://marketintelo.com/report/additive-manufacturing-in-semiconductor-equipment-market"
+   ]
+  },
+  {
+   "query": "site:note.com 半導体製造装置部品の金属AM受託",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://note.com/edgeworks_tokyo/n/nbf2e5fb6bdfe",
+    "https://note.com/jrs1188/n/nc1eb47cc1b5e",
+    "https://note.com/good_dill292/n/nf1da4a394ca1",
+    "https://note.com/bright_bee861/n/n8c9901f1e60d",
+    "https://note.com/qy_research/n/n366973a51371",
+    "https://note.com/modern_eider5829/n/n66987b9db140",
+    "https://note.com/bostonjuku/n/nc00f7b5053a7",
+    "https://note.com/kagawatomo/n/ndb06a6b0c405"
+   ]
+  },
+  {
+   "query": "site:x.com 半導体製造装置部品の金属AM受託",
+   "results": [
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/xteito",
+    "https://x.com/intermold_jp",
+    "https://x.com/OgawaSeisakusho/status/2110533866247336076",
+    "https://x.com/k_koga555/status/2106080200681496822",
+    "https://x.com/jioinc/status/2110643413628649929",
+    "https://x.com/ALGOVISION1",
+    "https://x.com/muratamika2021/status/2068553631956414531",
+    "https://x.com/mizuho_ird",
+    "https://x.com/t_ryoma1985/status/2018611036283412976"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 半導体製造装置部品の金属AM受託",
+   "results": [
+    "https://www.linkedin.com/jobs/%E6%AC%A7%E4%BA%9A%E5%85%AC%E5%8F%B8%E6%89%A9%E5%A4%A7%E7%94%9F%E4%BA%A7%E6%AC%A7%E5%8D%9A%E5%8C%85%E6%9D%80%E6%AD%A3%E7%BD%91%E5%9D%80%E5%85%A5%E5%8F%A3%E2%9C%8C%E2%98%BE%E8%B0%B7%E2%98%BD%E2%98%BE%E6%AD%8C%E2%98%BD%E2%98%BE%E6%8A%80%E2%98%BD%E2%98%BE%E6%9C%AF%E2%98%BD%E2%9E%9F%E8%AE%BF%E2%9C%9A%E9%97%AE%E2%9E%9F%E2%98%BEjjdmc%EF%BD%A1com%E2%98%BD%E2%9C%8C%E6%B9%96%E4%BA%BAvs%E5%8B%87%E5%A3%AB%E7%9B%B4%E6%92%AD%E6%97%B6%E9%97%B4whatsapp%E7%BD%91%E9%A1%B5%E7%89%88%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B%E5%B7%B4%E8%A5%BF%E6%97%A5%E6%9C%AC%E8%B6%B3%E7%90%83%E6%AF%94%E5%88%86-jobs",
+    "https://www.linkedin.com/jobs/%EC%A3%BC%EB%AF%BC%EB%93%B1%EB%A1%9D%EC%9B%90%EC%B4%88%EB%B3%B8%EC%A0%9C%EC%9E%91%20%ED%95%A0%EC%9D%B8%20%EC%A3%BC%EC%86%8C%20%E2%98%BE%E3%89%B8%ED%86%A1ID%20:%20F999%20%ED%85%94%EB%A0%88%20:%20VCD777%E2%98%BD.mqe-jobs/?position=1&pageNum=0",
+    "https://www.linkedin.com/jobs/%EB%8B%A8%EA%B8%B0%EC%95%8C%EB%B0%94-%F0%9F%9A%80%EB%9D%BC%EC%9D%B8%EF%BC%9Amvp3353%F0%9F%9A%80-%EC%88%99%EC%8B%9D%EB%AC%B4%EB%A3%8C%EC%A0%9C%EA%B3%B5-%EC%B4%88%EB%B3%B4%EC%9E%90%EC%95%8C%EB%B0%94.vkw-jobs",
+    "https://www.linkedin.com/jobs/%E6%99%AE%E6%B4%B1%E5%88%B6%E4%BD%9C%E5%81%87%E7%A0%94%E7%A9%B6%E7%94%9F%E6%AF%95%E4%B8%9A%E8%AF%81%E4%BB%BF%E5%8E%9F%E7%89%88UWL%E7%A1%95%E5%A3%AB%E6%96%87%E5%87%AD%E5%BE%B7%E4%BB%A4%E5%93%88%E5%81%9A%E5%81%87%E4%B8%AD%E4%B8%93%E6%AF%95%E4%B8%9A%E8%AF%81%E5%AE%81%E5%BE%B7%E5%BB%BA%E7%AD%91%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2%E4%BD%9B%E5%B1%B1%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%E9%9D%92%E5%B2%9B%E5%8A%9E%E7%90%86%E5%A9%9A%E5%A7%BB%E8%AE%B0%E5%BD%95%E8%AF%81%E6%98%8E-jobs?position=1&pageNum=0",
+    "https://www.linkedin.com/jobs/%E6%97%A0%E4%BA%BA%E7%A0%81%E4%BA%BA%E5%A6%BB%E4%B8%80%E5%8C%BA%E4%BA%8C%E5%8C%BA%E4%B8%89%E5%8C%BA%E5%85%8D%E8%B4%B9%E4%BA%9A%E6%B4%B2%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%E5%85%8D%E8%B4%B9%E2%99%A5%EF%B8%8F%E2%96%9B%E4%BB%A3%E5%8F%91%E8%B0%B7%E5%93%A5%E2%96%9C%E2%9E%A8%E6%89%BE%E2%9E%A8%E2%96%9Bavmjaipur%EF%BC%8Ecom%E2%96%9C%E5%8F%AF%E5%85%88%E6%B5%8B%E8%AF%95%E2%99%A5%EF%B8%8F%E6%AC%A7%E7%BE%8E%E8%A7%86%E9%A2%91%E6%88%90%E4%BA%BA%E5%9C%A8%E7%BA%BF%E5%85%8D%E8%B4%B9%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%E4%BA%9A%E6%B4%B299%E7%83%AD%E5%9B%BD%E8%BF%99%E9%87%8C%E5%8F%AA%E6%9C%89%E7%B2%BE%E5%93%81-jobs",
+    "https://www.linkedin.com/jobs/%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%83%BD%E6%8B%89%E5%BC%80%E6%88%BF%E8%AE%B0%E5%BD%95%E2%98%BE%E5%AE%98%E7%BD%91-heikesss%EF%BD%A1com%E2%98%BD.0927-jobs",
+    "https://www.linkedin.com/jobs/%EC%98%81%EC%B2%9C%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%EC%A1%B8%EC%97%85%EC%A6%9D%EB%AA%85%EC%84%9C%EC%9C%84%EC%A1%B0%EC%A0%9C%EC%9E%91%20%E2%98%81%20%20%E3%89%B8%ED%86%A1%20:%20N666%20%ED%85%94%EB%A0%88%20:%20VCD777%20%E2%98%82%20%20%ED%86%B5%EC%9E%A5%EA%B1%B0%EB%9E%98%EB%82%B4%EC%97%AD%EC%84%9C%EC%9C%84%EC%A1%B0%20%EC%A0%84%EB%AC%B8%20%EC%97%85%EC%B2%B4.ykf-jobs?position=1&pageNum=0",
+    "https://www.linkedin.com/jobs/%EC%88%99%EC%8B%9D%EA%B0%80%EB%8A%A5%EA%B5%AC%EC%9D%B8%EA%B5%AC%EC%A7%81%20%E3%83%B5%ED%85%94%EB%A0%88%20akak736%E3%83%B5%20%EC%88%99%EC%8B%9D%EA%B0%80%EB%8A%A5%EA%B5%AC%EC%9D%B8%EA%B5%AC%EC%A7%81/-jobs/?position=1&pageNum=0",
+    "https://www.linkedin.com/jobs/%E5%9B%BD%E4%BA%A7%E6%88%90%E4%BA%BA%E7%94%A8%E5%93%81%E5%93%AA%E4%B8%AA%E7%89%8C%E5%AD%90%E5%A5%BD%E5%9B%BD%E4%BA%A72020%E6%97%A0%E7%A0%81%E7%B2%BE%E5%93%81%E2%99%A5%EF%B8%8F%E2%98%BE%E8%B0%B7%E6%AD%8C%E4%BB%A3%E5%8F%91%E2%98%BD%E2%9E%A8%E6%89%BE%E2%9E%A8%E2%98%BEdamaih6v%EF%BD%A1com%E2%98%BD%E5%8F%AF%E5%85%88%E6%B5%8B%E8%AF%95%E2%99%A5%EF%B8%8F%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%E6%97%A0%E7%A0%81%E4%B8%8D%E5%8D%A1%E5%85%8D%E8%B4%B9%E8%A7%86%E9%A2%91%E5%85%8D%E8%B4%B9%E7%9C%8B%E7%89%87%E6%97%A5%E9%9F%A9%E6%AC%A7%E7%BE%8E%E5%9B%BD%E4%BA%A7%E7%9C%8B%E7%89%87%E7%BD%91%E7%AB%9918%E7%A6%81-jobs",
+    "https://www.linkedin.com/jobs/%EC%9A%B8%EC%82%B0%EC%97%AC%EC%9E%90%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%EC%A1%B8%EC%97%85%EC%A6%9D%EB%AA%85%EC%84%9C%EC%9C%84%EC%A1%B0%EC%A0%9C%EC%9E%91%20%F0%9F%94%99%20%20%E3%89%B8%ED%86%A1ID%20:%20F999%20%F0%9F%94%9B%20%EC%A0%9C%EC%A0%81%EC%A6%9D%EB%AA%85%EC%84%9C%EC%9C%84%EC%A1%B0.jsf-jobs?position=1&pageNum=0"
+   ]
+  },
+  {
+   "query": "site:facebook.com 半導体製造装置部品の金属AM受託",
+   "results": [
+    "https://www.facebook.com/NikonGroupjp/videos/%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%8C%E7%9B%AE%E6%8C%87%E3%81%99%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E9%9D%A9%E6%96%B0%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AF%E3%81%84%E3%81%BE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%A8%E6%99%AE%E5%8F%8A%E3%81%AB%E5%8A%9B%E3%82%92%E6%B3%A8%E3%81%84%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E8%A3%85%E7%BD%AE%E3%81%8C%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E4%BE%A1%E5%80%A4%E3%81%A8%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E3%81%82%E3%82%8B%E6%9C%AA%E6%9D%A5%E3%81%A8%E3%81%AF%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA%E3%81%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5/910409805008105/",
+    "https://www.facebook.com/INTERMOLD/posts/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%8A%80%E8%A1%93pr%E3%81%A7%E4%BA%8B%E6%A5%AD%E8%B2%A9%E8%B7%AF%E6%8B%A1%E5%A4%A7%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99am-expo%E6%9D%B1%E4%BA%AC%E5%87%BA%E5%B1%95%E7%94%B3%E8%BE%BC%E5%8F%97%E4%BB%98%E4%B8%AD%E6%97%A2%E5%AD%98%E3%81%AE%E5%8A%A0%E5%B7%A5%E5%B7%A5%E7%A8%8B%E3%82%92%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%8A%A0%E5%B7%A5%E9%80%9F%E5%BA%A6%E3%82%A2%E3%83%83%E3%83%97%E3%82%84%E7%9C%81%E5%8A%9B%E5%8C%96%E3%81%AA%E3%81%A9%E6%A7%98%E3%80%85%E3%81%AA%E5%8A%B9%E6%9E%9C%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%82%8B%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2a/1702050691715018/",
+    "https://www.facebook.com/INTERMOLD/posts/intermold%E7%89%B9%E5%88%A5%E5%87%BA%E5%B1%95%E4%BC%81%E7%94%BB%E9%80%9A%E4%BF%A1%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%82%84%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%83%A8%E5%93%81%E3%81%AA%E3%81%A9%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%81%AB%E7%89%B9%E5%8C%96%E3%81%97%E3%81%A6pr%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%84%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%9C%80%E8%A6%81%E3%81%AE%E9%AB%98%E3%81%BE%E3%82%8A%E3%82%92%E5%8F%97%E3%81%91%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E8%A3%BD%E9%80%A0%E6%8A%80%E8%A1%93%E3%83%95%E3%82%A7%E3%82%A2%E3%81%AE%E5%87%BA%E5%B1%95/1693760975877323/",
+    "https://www.facebook.com/INTERMOLD/",
+    "https://www.facebook.com/INTERMOLD/posts/%E4%BB%8A%E9%80%B1%E6%9C%AB%E7%B5%82%E4%BA%86%E3%81%82%E3%81%A83%E6%97%A5%E6%97%A9%E6%9C%9F%E7%94%B3%E8%BE%BC%E5%89%B2%E5%BC%95%E3%81%A7%E5%87%BA%E5%B1%95%E6%96%99%E3%81%8C%E6%9C%80%E5%A4%A715offintermold-%E9%87%91%E5%9E%8B%E5%B1%95-%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%95-2027%E3%81%AE%E5%87%BA%E5%B1%95%E6%96%9910off%E6%97%A9%E6%9C%9F%E7%94%B3%E8%BE%BC%E5%89%B2%E5%BC%95%E3%81%AF10%E6%9C%8831%E6%97%A5%E5%9C%9F%E3%81%A7/1722200803033340/",
+    "https://www.facebook.com/INTERMOLD/posts/6%E6%9C%88%E9%96%8B%E5%82%AC%E3%81%AEintermold%E9%87%91%E5%9E%8B%E5%B1%95%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%95%E3%81%9D%E3%81%97%E3%81%A6%E5%88%9D%E4%BD%B5%E5%82%AC%E3%81%AEam-expo%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%81%AE%E4%BA%8B%E5%89%8D%E6%9D%A5%E5%A0%B4%E7%99%BB%E9%8C%B2%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%94%E6%9D%A5%E5%A0%B4%E5%89%8D%E3%81%AB%E7%99%BB%E9%8C%B2%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E6%9D%A5%E5%A0%B4%E8%80%85%E8%A8%BC%E3%82%92%E3%81%94%E6%8C%81%E5%8F%82%E3%81%8F%E3%81%A0/936386751614753/",
+    "https://www.facebook.com/INTERMOLD/photos/%E4%BB%8A%E9%80%B1%E6%9C%AB%E7%B5%82%E4%BA%86%E3%81%82%E3%81%A83%E6%97%A5%E6%97%A9%E6%9C%9F%E7%94%B3%E8%BE%BC%E5%89%B2%E5%BC%95%E3%81%A7%E5%87%BA%E5%B1%95%E6%96%99%E3%81%8C%E6%9C%80%E5%A4%A715offintermold-%E9%87%91%E5%9E%8B%E5%B1%95-%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%95-2027%E3%81%AE%E5%87%BA%E5%B1%95%E6%96%9910off%E6%97%A9%E6%9C%9F%E7%94%B3%E8%BE%BC%E5%89%B2%E5%BC%95%E3%81%AF10%E6%9C%8831%E6%97%A5%E5%9C%9F%E3%81%A7/1722200783033342/",
+    "https://www.facebook.com/INTERMOLD/posts/%E8%A3%BD%E9%80%A0%E6%A5%ADdxai%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%B4%BB%E7%94%A8%E3%83%95%E3%82%A7%E3%82%A2-%E5%87%BA%E5%B1%95%E8%80%85%E7%B4%B9%E4%BB%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%84aiiot%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AA%E3%81%A9%E5%B7%A5%E5%A0%B4%E3%81%AE%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%84%E3%83%BC%E3%83%AB%E6%8A%80%E8%A1%93%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6%E3%82%92%E9%9B%86%E7%B4%84%E3%81%97%E3%81%9F%E5%B0%82%E9%96%80%E3%82%A8%E3%83%AA%E3%82%A2%E3%81%A7%E3%81%99%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA/1524066996180056/",
+    "https://www.facebook.com/INTERMOLD/posts/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%80%E3%82%A4%E3%82%AB%E3%82%B9%E3%83%88%E3%81%AE%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E3%82%92%E7%99%BA%E4%BF%A14%E6%9C%88%E3%81%AB%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%99%E3%82%8Bintermold%E9%87%91%E5%9E%8B%E5%B1%95%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%95am-expo%E3%81%A7%E3%81%AF%E9%87%91%E5%9E%8B%E3%82%84%E9%96%A2%E9%80%A3%E6%B7%B1%E3%81%84%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AE%E7%89%B9%E5%88%A5%E8%AC%9B%E6%BC%94%E3%82%92%E9%80%A3/1114386360481457/",
+    "https://www.facebook.com/DMGMORI.CO/posts/dmg-moriが加工を受託お客様の金属積層造形の活用をサポート-am-lab-fab開設積層造形は従来の切削加工では困難な形状を造形することができるため近年飛/3122305414701699/"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品の金属AM受託 note 社長",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://www.nttdata-xam.com/works/eos/article_961/",
+    "https://www.nikkei.com/article/DGXZQOUC262OG0W1A820C2000000/",
+    "https://note.com/super_lupine5235/n/n429b10630349",
+    "https://jampt.jp/",
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://ja.3dsystems.com/advancing-semiconductor-executive-brief",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://note.com/edgeworks_tokyo/n/n9772c8a7b6e4"
+   ]
+  },
+  {
+   "query": "半導体製造装置部品の金属AM受託 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=E6jM5NMpQ-0",
+    "https://jampt.jp/",
+    "https://www.nttdata-xam.com/works/eos/article_961/",
+    "https://global.honda/jp/tech/serial/Hondas_RandD_Facilities_part08/",
+    "https://x.com/jampt_official",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://ja.3dsystems.com/advancing-semiconductor-executive-brief",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://space-connect.jp/metal-3d-printing/",
+    "https://hikaku-hub.com/metal-3d-printing/"
+   ]
+  },
+  {
+   "query": "semiconductor equipment parts metal additive manufacturing site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/copy-additive-manufacturing-am-standards-semiconductor-jeremy-ho-drszc",
+    "https://www.linkedin.com/top-content/innovation/advancements-in-additive-manufacturing/innovations-driving-metal-additive-manufacturing/",
+    "https://www.linkedin.com/top-content/innovation/advancements-in-additive-manufacturing/latest-metal-additive-manufacturing-market-trends/",
+    "https://www.linkedin.com/posts/metalammagazine_semiconductor-additivemanufacturing-3dprinting-activity-7404399605326499840-Tsuo",
+    "https://www.linkedin.com/posts/dosparks_3dprinting-am-additivemanufacturing-activity-7327862502757748736-FtXt",
+    "https://sg.linkedin.com/jobs/view/senior-laboratory-officer-sensors-automation-for-metal-additive-manufacturing-at-a-star-agency-for-science-technology-and-research-4461158098",
+    "https://mx.linkedin.com/company/3d-systems",
+    "https://www.linkedin.com/posts/industrial-news-magazine_renishaw-completes-first-phase-of-miskin-activity-7513117153202487296-YSIw",
+    "https://www.linkedin.com/posts/sbo-ag_additivemanufacturing-precisionengineering-activity-7434900457015152640-XFBI",
+    "https://www.linkedin.com/pulse/how-additive-manufacturing-helps-semiconductor-industry-langnau"
+   ]
+  }
+ ],
+ "missing": {}
+}

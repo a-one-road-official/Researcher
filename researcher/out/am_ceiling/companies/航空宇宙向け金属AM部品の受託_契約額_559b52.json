@@ -1,0 +1,1700 @@
+{
+ "name": "航空宇宙向け金属AM部品の受託・契約額",
+ "en": "aerospace metal additive manufacturing contract value",
+ "aliases": [
+  "航空機 金属3Dプリント 受託",
+  "ロケット 金属3Dプリンター 部品 受注",
+  "宇宙 積層造形 受託"
+ ],
+ "context": "用途・航空宇宙",
+ "kind": "market",
+ "researched_at": "2026-11-04T10:30:18.947107+00:00",
+ "evidence": {
+  "1件の単価": [
+   {
+    "quote": "【2026年版】金属3Dプリンタ受託造形の完全ガイド：費用相場・事業者比較・選び方コラム",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンタ受託造形の完全ガイド：費用相場・事業者比較・選び方",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ受託造形の費用相場はいくら?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり金額を左右する4要素とは?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. 金属3Dプリンタの受託造形は1個からでも依頼できますか?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "Q2. 金属3Dプリンタ受託造形の見積もりにはどのようなデータが必要ですか?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "「金属3Dプリンタで試作品を作りたいけれど、装置導入には数千万円もかかる」「小ロットだけ外注したいが、どの業者に頼めばいいのか分からない」——こうした悩みを抱える製造業の担当者は少なくありません",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、費用相場から主要9社の比較、素材選定、発注前チェックリストまでを2026年最新情報で網羅的に解説します",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円*1",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円の装置投資、粉末材料の在庫リスク、専用オペレーターの人件費が一切かからず、必要な時に必要な分だけ発注できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型を作らず1個から製造できるため、金型製作費（一般的に数十万〜数百万円）が不要になります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "価格帯はPBF方式で3,000万円〜、DED方式で3,000万円以上、金属フィラメント方式なら数十万円から導入可能です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "一度金型が完成して大量生産体制を確立した後には、部品1点あたりの生産速度、コスト共に鋳造や粉末冶金に軍配が上がります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円～",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円以上",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター自体、レーザーなどの高額な部品を利用するため、装置価格が数千万円以上するケースも多く、まだ手軽に手を出せる装置ではないため、設計する側も、造形する側も試行錯誤をしながら取り組んでいるという反面、す早い段階から受託造形に取り組んでいる一部のサービスビューロはノウハウを蓄積し、世界的に知名度を上げているケースもあります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "最短見積2時間 | 切削加工・3Dプリントの図面見積もりはこちら",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "最短2時間で見積回答",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙空間へ物資を輸送するコストは、1kgあたり約100万円にものぼると言われており、宇宙部品における軽量化は最重要課題の一つです",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "などの高機能樹脂を用いた多品種小ロット（1個〜）の試作・部品製作も短納期で承っております",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "年間76,738枚を超える図面見積実績",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "最短2時間の高速見積もり回答体制を敷き、大手メーカーの設計・開発部門から、学生フォーミュラ・ロボコン等の次世代エンジニアまで、難易度の高いものづくりを技術面からバックアップしている",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "年間見積数76,738件、対応材質286種、最短見積2時間回答",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターでロケットを作る宇宙ベンチャー、約150億円の追加投資獲得【週刊宇宙ビジネスニュース 9/30〜10/6】",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "9.968 (USD Billion)",
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "pass": 3
+   },
+   {
+    "quote": "75.72 (USD Billion)",
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "pass": 3
+   },
+   {
+    "quote": "$-250^\\circ\\text{C}$ for clean aviation applications, the initiative was executed as part of the European Union's OVERLEAF clean aviation project.",
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "pass": 3
+   },
+   {
+    "quote": "9.968(USD Billion)",
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "pass": 3
+   },
+   {
+    "quote": "11.99(USD Billion)",
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "pass": 3
+   },
+   {
+    "quote": "75.72(USD Billion)",
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2024, the market valuation was 9.968 USD Billion.",
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach 75.72 USD Billion by 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "pass": 3
+   },
+   {
+    "quote": "The main application segments include Structural, Engine, and Others, with valuations of 3.986, 4.0, and 1.982 USD Billion respectively.",
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "pass": 3
+   },
+   {
+    "quote": "The platform segments include Aircraft, Spacecraft, and Unmanned Aerial Vehicles, valued at 5.0, 1.5, and 3.468 USD Billion respectively.",
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "pass": 3
+   },
+   {
+    "quote": "Technologies include Laser Sintering, 3D Printing, Electron Beam Melting, Fused Deposition Modeling, and Stereolithography, with respective valuations of 1.5, 3.0, 1.0, 2.0, and 2.468 USD Billion.",
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "pass": 3
+   },
+   {
+    "quote": "The primary materials are Metal Alloy, Plastic, Rubber, and Others, valued at 5.0, 2.5, 1.0, and 1.468 USD Billion respectively.",
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "pass": 3
+   },
+   {
+    "quote": "The global aerospace additive manufacturing market is valued at USD 2.2 billion in 2025, and is projected to reach USD 2.7 billion in 2026, expanding to USD 12.4 billion by 2035 at a compound annual growth rate of approximately 18.4% over the 2026–2035 forecast period.",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": ", while the European Union Aviation Safety Agency (EASA) issued Certification Memorandum CM-S-008 Issue 04 establishing a graduated, criticality-classified framework for additive-manufactured parts that addresses airframes, systems, cabin hardware, propulsion, and MRO repairs simultaneously",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "European Union Aviation Safety Agency - Joint EASA-FAA Additive Manufacturing Workshop 2025. easa.europa.eu",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Aerospace Additive Manufacturing Market Size, By Technology Type, 2022– 2035 (USD Million)",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Aerospace Additive Manufacturing Market Size, 2022 – 2035, (USD Million)",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": ". GE Aerospace's USD 650 million capacity expansion investment underscores the company's commitment to scaling AM production infrastructure for both commercial and defense programs .",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems U.S. Air Force contract extension (August 2025): 3D Systems received a USD 7.65 million Air Force contract for the second phase of its Large-format Metal 3D Printer Advanced Technology Demonstrator (GEN-IIDMP-1000), advancing large-scale, high-temperature metal AM for high-speed flight applications .",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "DoD FY2026 AM budget expansion: The Pentagon's FY2026 budget request includes USD 3.3 billion for AM-related projects, building on FY2024's USD 800 million allocation, alongside NDAA-mandated qualification of up to one million AM parts by 2027 and domestic sourcing requirements for AM equipment .",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The aerospace additive manufacturing market size was estimated at USD 2.2 billion in 2025 and is expected to reach USD 2.7 billion in 2026.",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 12.4 billion by 2035, growing at a CAGR of 18.4% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The company has allocated A$12 million to double US manufacturing capacity, A$5 million to a UK technology center serving UK and European demand, and A$2.24 million to an advanced manufacturing technology program in Australia.",
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "pass": 3
+   },
+   {
+    "quote": "“Our strong balance sheet means we have the capacity to complete our planned $17 million investment to double US manufacturing capacity and establish a European Technology Center to support growth.",
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 8.75 Billion in 2025 and is projected to reach USD 44.96 Billion by 2035, growing at a CAGR of 17.79% during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/additive-manufacturing-in-aerospace-market-9662",
+    "pass": 3
+   },
+   {
+    "quote": "Europe Additive Manufacturing in Aerospace Market Insights, 2025",
+    "url": "https://www.snsinsider.com/reports/additive-manufacturing-in-aerospace-market-9662",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.85 Bn",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5.70 Bn",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   }
+  ],
+  "最大案件・上限": [
+   {
+    "quote": "500万円〜3億円*1",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、初期投資ゼロ、試作・小ロット対応、複雑形状の実現、リードタイム短縮という4点が受託造形の最大の価値であり、これらは自社導入では得にくい優位性です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円の装置投資、粉末材料の在庫リスク、専用オペレーターの人件費が一切かからず、必要な時に必要な分だけ発注できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "造形サイズは最大500mm角程度が一般的で、それを超える大型部品は後述するDED方式が選択肢になります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "FDM方式で扱える3Dプリント材質の中で最高クラスの耐熱性（約216℃）を誇り、優れた耐薬品性と低アウトガス放出性を兼ね備えています",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターでロケットを作る宇宙ベンチャー、約150億円の追加投資獲得【週刊宇宙ビジネスニュース 9/30〜10/6】",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年1月29日から3日間に渡り、東京ビッグサイトで開催される国内最大級の3Dプリンティング & AM技術の総合展「",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2025は、日本における最大級のAM（アディティブ・マニュファクチャリング）総合展示会として、115社の出展企業が参加する注目のイベントだ",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級の3Dプリンター展示会を堪能する！「TCT Japan 2022」の歩き方",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "世界最大級の3Dプリンティングの展示会Formnext 2021（フランクフルト）開催",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems Receives $9 Million Contract Award from U.S. Air Force for Advanced Large-Format Metal 3D Printing System | 3D Systems",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems Receives $9 Million Contract Award from U.S. Air Force for Advanced Large-Format Metal 3D Printing System",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "pass": 3
+   },
+   {
+    "quote": "– 3D Systems (NYSE: DDD) today announced it has been awarded an additional $9 million under the Air Force-funded ‘Large-Format Metal 3D Printer Advanced Technology Demonstrator’ program (GEN-II DMP-1000).",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "pass": 3
+   },
+   {
+    "quote": ", plus two further orders for US industrial manufacturing, and during FY2026 took a A$2.6 million contract for non-safety-critical replacement components used in US Navy submarines.",
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific Stevie Awards - 2023",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   }
+  ],
+  "顧客1社の年間": [
+   {
+    "quote": "Q6. 金属3Dプリンタ受託造形は量産にも向いていますか?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "「金属3Dプリンタで試作品を作りたいけれど、装置導入には数千万円もかかる」「小ロットだけ外注したいが、どの業者に頼めばいいのか分からない」——こうした悩みを抱える製造業の担当者は少なくありません",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "特に2024年以降はバインダージェット（BJT）方式の普及によって、これまで試作中心だった金属AMが量産領域にも進出し始めました",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "目安として、年間造形量が500cm³以下、かつ多品種少量の試作が中心であれば受託造形が圧倒的に優位です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、初期投資ゼロ、試作・小ロット対応、複雑形状の実現、リードタイム短縮という4点が受託造形の最大の価値であり、これらは自社導入では得にくい優位性です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "この量産性という課題を克服するために、金属を混錬した樹脂材料をMEX方式やバインダージェット方式の3Dプリンターで造形し、脱脂や焼結することで金属部品を生み出す装置が市場に投入されはじめました",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "などの高機能樹脂を用いた多品種小ロット（1個〜）の試作・部品製作も短納期で承っております",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "年間76,738枚を超える図面見積実績",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "年間見積数76,738件、対応材質286種、最短見積2時間回答",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "AM四方山話 #13 AMと量産性",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "講演発表のお知らせ（L-PBF技術の量産部品適用への道のり）/ 金属3Dプリンター",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "After four years of client discovery, collaboration, and testing, the system will be released in the second half of 2023, ready and relevant for modern, high-volume, serial production scenarios.",
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "pass": 3
+   },
+   {
+    "quote": "The global aerospace additive manufacturing market is valued at USD 2.2 billion in 2025, and is projected to reach USD 2.7 billion in 2026, expanding to USD 12.4 billion by 2035 at a compound annual growth rate of approximately 18.4% over the 2026–2035 forecast period.",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": ", while the European Union Aviation Safety Agency (EASA) issued Certification Memorandum CM-S-008 Issue 04 establishing a graduated, criticality-classified framework for additive-manufactured parts that addresses airframes, systems, cabin hardware, propulsion, and MRO repairs simultaneously",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys/Airbus production milestone (December 2025): Airbus confirmed production of more than 25,000 flight-ready 3D-printed parts per year using Stratasys FDM technology, accumulating over 200,000 certified polymer parts in active service across A320, A350, and A400M families, with 43% weight reduction and 85% lead-time compression documented for A350 components .",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Airbus w-DED A350 structural integration (January 2026): Airbus reported serial integration of large wire-DED titanium structural parts into the A350 Cargo Door Surround area, representing the first serial production application of plasma w-DED for primary civil aircraft structural components at this scale .",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Paradigm 3D EASA Part-21G facility (UAE, April 2025): Paradigm 3D opened an AED 20 million Stratasys-powered AM production facility in Dubai-the first EASA Part-21G certified AM facility in the Middle East-with initial capacity of 2,000 aerospace parts per year targeting regional aviation interior components .",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2024, 3D Systems expanded its aerospace-qualified metal additive manufacturing portfolio, introducing enhanced titanium and aluminum alloy solutions designed for serial production of flight-critical components.",
+    "url": "https://www.snsinsider.com/reports/additive-manufacturing-in-aerospace-market-9662",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2024, EOS launched an advanced metal additive manufacturing system designed to improve productivity and part consistency for aerospace and defense serial production programs.",
+    "url": "https://www.snsinsider.com/reports/additive-manufacturing-in-aerospace-market-9662",
+    "pass": 3
+   },
+   {
+    "quote": "2. European Aviation Safety Agency. (2023). Special Condition for Additive Layer Manufacturing (SC-ALM). EASA. https://www.easa.europa.eu/en/document-library/product-certification-consultations/special-condition-additive-layer-manufacturing",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace leads by Application with 44.2% share in 2026, driven by commercial and military aircraft engine component serial production and satellite structural part qualification programmes at major OEMs.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market generates an incremental opportunity of USD 4.85 billion between 2026 and 2036, reflecting sustained structural demand from aerospace serial production qualifications, medical implant reimbursement expansion, and industrial energy sector platform deployments.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "20th annual IBAs",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "services). Additive manufacturing in the aerospace sector is poised to grow at a 26% compound annual growth rate (CAGR) until at least 2025.",
+    "url": "https://www.ati.org.uk/wp-content/uploads/2021/08/insight08-additive-manufacturing.pdf",
+    "pass": 3
+   }
+  ],
+  "用途別": [
+   {
+    "quote": "DED（指向性エネルギー堆積）方式の特徴と適用領域",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野での受託造形",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "医療・歯科分野での受託造形",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型分野でのコンフォーマルクーリング活用事例",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "市場動向としては、航空宇宙・医療・金型・自動車分野を中心に採用が急速に広がっています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型を作らず1個から製造できるため、金型製作費（一般的に数十万〜数百万円）が不要になります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "第三に、コンフォーマルクーリング金型や中空構造、ラティス構造など従来工法では作れない複雑形状を実現できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタは金型不要のため、1個からでも経済的に製造できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "多品種少量の産業機械部品、医療機器の患者ごとにカスタマイズされたインプラント、モータースポーツ用の特殊部品など、少量高付加価値の分野と特に相性が良いのが特徴です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタは粉末や金属ワイヤーを一層ずつ積み上げていく方式のため、金型内部を自由な曲線で走る冷却水路（コンフォーマルクーリング）や、内部に空洞を持つ軽量化部品、格子状のラティス構造などを一体成形できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型のコンフォーマルクーリングを採用すると、樹脂成形の冷却時間を20〜40%短縮できる事例も報告されており、量産金型分野でも活用が広がっています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "一般産業、医療",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "軽量化部品、自動車",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空、医療インプラント",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空エンジン、高温部品",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "医療（168）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "主な造形方式は、PBF（高精度・航空宇宙向け）、DED（大型部品・補修向け）、FDM/MEX（低コスト導入向け）、WAAM（超大型部品向け）の4種類",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金型を用意し、融かした金属を流し込み、冷やし、固める工法",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金型を用意し、金属粉末を型に入れて焼き固める工法",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金型が不要で部品形状の自由度が高い",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、金型が不要で部品形状の自由度が非常に高い点が特長です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造や粉末冶金では、金型を作らなければなりません",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "専用の特殊合金で作られる金型は、少なくとも数週間の製作期間が必要です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "対する3Dプリンターの場合、金型が必要ないため、発注からテスト部品製作までの期間を大幅に短縮することができます",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "イチから金型を作り直さなければならない鋳造や粉末冶金と違い、3Dデータの書き換えで済むためです",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "一度金型が完成して大量生産体制を確立した後には、部品1点あたりの生産速度、コスト共に鋳造や粉末冶金に軍配が上がります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この点が大きな普及のネックになっており、最終部品に厳格な認証を通過する必要がある航空・宇宙・医療などの分野にとどまっている現状があります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "上記のような長所、短所を踏まえて、金属3Dプリンターの特徴を最も活かしている業界が、航空宇宙・医療分野だと言われています",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部品における3Dプリント活用のメリット | 切削・3Dプリント 設計ガイド | YUMO PARTS（ユモパーツ）",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部品における3Dプリント活用のメリット",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部品特有の要件（低アウトガス放出性、微細な表面粗さ、MIL規格等の材質証明）をクリアする3Dプリント技術と材質選定が不可欠",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "強度を担保する金属材質の3Dプリントのほか、低アウトガス性と高耐熱性を備えたPEKKやULTEM1010などの高機能材質が航空宇宙分野で活躍",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "自動車やロボット産業をはじめ、幅広い設計開発の現場で活用が進む",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "過酷な使用環境下での高い精度と強度が求められる航空宇宙分野においても、重要な部品製作メソッドの一つとして利用されています",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、人工衛星やロケットの開発に取り組む設計開発者の方へ向けて、航空宇宙部品に求められる条件や、3Dプリントで得られる設計上のメリット、そして宇宙環境に適した材質について解説します",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙部品に求められる3つの厳しい条件",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙機器部品を3Dプリントで製作する設計上のメリット",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙機器部品開発で活躍する3Dプリント技術と材質",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙規格をクリアする高機能樹脂の活用",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "人を乗せて安全に飛行し、真空・極温環境の宇宙空間で確実に機能し続けるために、宇宙機器周辺の部品には一般的な産業用部品とは異なる極めて高い基準が設けられています",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "アウトガスは、真空度が高く温度変化の激しい宇宙空間において、材料内部に含まれる水分や有機物が気化し放出される微量ガスです",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "機械本体の故障だけでなく、宇宙空間そのものの汚染を防ぐためにも、アウトガス放出基準をクリアした材料選定が設計要件に組み込まれます",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットや人工衛星の発射時には、強烈な重力加速度と激しい振動が発生します",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙産業に本格参入へ【週刊宇宙ビジネスニュース 2021/04/05〜04/11】 | 宙畑",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "週刊宇宙ニュース",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙旅行・有人飛行",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙業界で働く・参入する",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙ビジネス入門・基礎",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙業界のキャリアナビ by インバイトユー",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "〇〇×宇宙利用",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "物流・エネルギー",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙戦略基金",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙産業に本格参入へ【週刊宇宙ビジネスニュース 2021/04/05〜04/11】",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "一週間に起きた国内外の宇宙ビジネスニュースを厳選してお届けする連載「週刊宇宙ビジネスニュース」は毎週月曜日更新！",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンが航空宇宙分野に特化した受託加工企業を子会社化",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "精密機器メーカーのニコンは、積層造形技術を用いて、航空宇宙企業向けに金属部品を受託加工するMorf3D社を子会社化したと発表しました",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、ニコンは航空宇宙事業に本格的に参入することになります",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "同社が航空宇宙分野への参入する決め手は何だったのでしょうか",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   }
+  ],
+  "価格を決める要因": [
+   {
+    "quote": "マルチレーザー機は従来の1台のレーザーではなく、複数のレーザーを同時稼働させることで造形時間を大幅に短縮できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "造形物の体積（cm³）に素材ごとの単価を掛けて算出され、これに造形時間、後加工費、検査費、装置セットアップ費が加算される構造です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "サイズは体積課金の基本要素で、造形時間にも直結します",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "特殊な後加工、厳しい公差要求、認証書類の発行などは自動見積もりに含まれないため、実務では専門事業者への直接問い合わせと併用するのが現実的です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、大手専門事業者（東レ・プレシジョン、J・3D、JAMPT、SOLIZE）は認証取得や特殊素材対応に強く、オンライン特化型（DMM.make、Kabuku Connect）は即時見積もりとスピードに強みがあり、用途と要件によって最適な選択が異なります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "※各社の対応素材、造形サイズ、認証状況、標準納期の詳細は公開情報が限られるため「要確認」としています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "医療・歯科分野ではTi64（生体適合）とCoCr合金（歯科クラウン）が中心で、生体適合性認証を持つ事業者への発注が必須です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "認証（JIS Q 9100等）を持つ事業者は航空宇宙用途で信頼性が高く、量産採用を目指すなら認証取得事業者を選ぶべきです",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、業種ごとに求められる認証、精度、素材、後加工が異なるため、業種特化の実績を持つ事業者を選ぶことが成功の鍵です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野ではJIS Q 9100やAS9100といった品質マネジメントシステム認証の取得が発注要件になるケースが多く、認証を持つ事業者を選ぶことが第一条件です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 13485の認証状況や医療機器製造業の登録状況、材料・工程の管理体制などを確認し、用途に必要な要件を満たす事業者を選定することが重要です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "発注前に整理すべき情報は、素材の指定（またはグレード要求）、要求寸法精度と表面粗さ、必要数量、希望納期、後加工の範囲、検査要件、そして用途と使用環境の7点です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証書、材料証明書、検査成績書などの書類が必要な場合も、事前に伝えておく必要があります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空・医療分野では認証書類が必須になるため、認証取得事業者を選ぶ前提で相談を進めましょう",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、金属3Dプリンタ受託造形は「問い合わせ→見積→データ入稿→造形→後加工→検査→納品」の7ステップで進み、標準的な納期は2〜4週間、短納期対応可能な事業者では最短3〜5営業日で納品されます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "特に切削工法との比較では顕著なのですが、3Dプリンターによる造形では、材質によって造形時間が大きく変動しないと言われています",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "切削工法の場合、難削材とよばれる高硬度の材料を加工すると、加工時間が長くかかるため、マシンチャージが嵩み、コストも増大し工期も伸びてしまいます",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この点が大きな普及のネックになっており、最終部品に厳格な認証を通過する必要がある航空・宇宙・医療などの分野にとどまっている現状があります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "導入効果２：規格認証を省力化できる部品の統合",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つのメリットが規格認証する部品点数の軽減です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野の部品は、ISOやASTMなどで策定された厳格な規格認証プロセスを合格し、認証を得なければなりません",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この認証を得るプロセスにはコストと時間がかかり、設計変更の度にやり直す必要があります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙にロケットを打ち上げる際の大きなコスト要因である重量を軽減し、コストも時間も手間もかかる認証プロセスを省力化できる3Dプリンター製部品は航空宇宙用の部品生産技術として一定の地位を確立しています",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "造形時間が早い",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、アメリカ国防総省が定めるMIL規格や、航空宇宙材料仕様であるAMS規格などに準拠、あるいは認証を取得した材質が指定されるケースが一般的です",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "設計開発においては、これらの材料証明書（ミルシート等）や検査成績書を発行できる加工・造形元を選ぶことが重要です",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "米ボーイング社からの認証も受けており、航空宇宙産業の最前線で採用されています",
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "必要な航空宇宙機関連の認証を取得していて、ボーイング社をはじめとする企業にサービスを提供しています",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形が航空宇宙分野の設計、生産プロセス、認証、ライフサイクル対応をどのように変革しているかについての簡潔な概要",
+    "url": "https://newscast.jp/smart/news/5194130",
+    "pass": 3
+   },
+   {
+    "quote": "実験段階の積層造形プロジェクトから認証取得済み航空宇宙生産への移行を成功させるための戦略的要請と技術的優先事項の統合",
+    "url": "https://newscast.jp/smart/news/5194130",
+    "pass": 3
+   },
+   {
+    "quote": "プロセスの安定化、材料技術の進歩、製造工程のデジタル化、そして進化する認証枠組みの相乗効果により、より野心的な設計と維持管理戦略が可能となっています",
+    "url": "https://newscast.jp/smart/news/5194130",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形技術は航空宇宙分野の設計、生産プロセス、認証、ライフサイクルにどのように影響を与えていますか？",
+    "url": "https://newscast.jp/smart/news/5194130",
+    "pass": 3
+   },
+   {
+    "quote": "南北アメリカでは、高性能チタン・ニッケル合金用途の早期採用が進んでおり、成熟したサプライヤー基盤を活用したエンドツーエンドの認証取得が支えています",
+    "url": "https://newscast.jp/smart/news/5194130",
+    "pass": 3
+   },
+   {
+    "quote": "設計・材料・生産ロードマップを認証目標と整合させ、高額な改修や手戻りを回避することが重要です",
+    "url": "https://newscast.jp/smart/news/5194130",
+    "pass": 3
+   },
+   {
+    "quote": "プロセスの安定化、材料技術の進歩、製造工程のデジタル化、進化する認証枠組みの相乗効果が重要です",
+    "url": "https://newscast.jp/smart/news/5194130",
+    "pass": 3
+   },
+   {
+    "quote": "真空熱処理、接合処理、HIP処理を得意としています",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター向けAMS規格の認証対応保守点検のご紹介",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター向けAMS規格の認証…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "品質検査員の力量 金属3Dプリンターの品質管理",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "品質検査員の力量 金属3Dプリンターの…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AM造形の板厚検査 金属3Dプリンターの品質管理",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AM造形の板厚検査 金属3Dプリンター…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AM造形品の寸法精度と検査 金属3Dプリンターの品質管理",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AM造形品の寸法精度と検査 金属3Dプ…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用したパウダーベッド検査 金属3Dプリンターの品質管理",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用したパウダーベッド検査 金属…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AM造形物の外観検査とは？金属3Dプリンターの品質管理",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AM造形物の外観検査とは？金属3Dプリ…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "造形物への品質検査とは？金属3Dプリンターの品質管理",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "造形物への品質検査とは？金属3Dプリン…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "フランスで開催する国際会議参加のお知らせ（HIP処理および時効処理によるL‑PBF製CM247LCの高温機械特性の向上：金属積層造形）",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形が航空宇宙分野の設計、生産プロセス、認証、ライフサイクル対応をどのように変革しているかについての簡潔な概要",
+    "url": "https://www.atpress.ne.jp/news/5194130",
+    "pass": 3
+   },
+   {
+    "quote": "実験段階の積層造形プロジェクトから認証取得済み航空宇宙生産への移行を成功させるための戦略的要請と技術的優先事項の統合",
+    "url": "https://www.atpress.ne.jp/news/5194130",
+    "pass": 3
+   },
+   {
+    "quote": "プロセスの安定化、材料技術の進歩、製造工程のデジタル化、そして進化する認証枠組みの相乗効果により、より野心的な設計と維持管理戦略が可能となっています",
+    "url": "https://www.atpress.ne.jp/news/5194130",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形技術は航空宇宙分野の設計、生産プロセス、認証、ライフサイクルにどのように影響を与えていますか？",
+    "url": "https://www.atpress.ne.jp/news/5194130",
+    "pass": 3
+   },
+   {
+    "quote": "南北アメリカでは、高性能チタン・ニッケル合金用途の早期採用が進んでおり、成熟したサプライヤー基盤を活用したエンドツーエンドの認証取得が支えています",
+    "url": "https://www.atpress.ne.jp/news/5194130",
+    "pass": 3
+   },
+   {
+    "quote": "設計・材料・生産ロードマップを認証目標と整合させ、高額な改修や手戻りを回避することが重要です",
+    "url": "https://www.atpress.ne.jp/news/5194130",
+    "pass": 3
+   },
+   {
+    "quote": "プロセスの安定化、材料技術の進歩、製造工程のデジタル化、進化する認証枠組みの相乗効果が重要です",
+    "url": "https://www.atpress.ne.jp/news/5194130",
+    "pass": 3
+   }
+  ],
+  "受託会社の売上": [
+   {
+    "quote": "Global Aerospace Additive Manufacturing Market Revenue Share, By Material Type, 2025 (%)",
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D lift FY2026 revenue 70% and record first profitable half | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half.md",
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D lift FY2026 revenue 70% and record first profitable half",
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "pass": 3
+   },
+   {
+    "quote": "has reported revenue of A$12.5 million for the financial year ended June 30, 2026 – a 70% increase on the prior corresponding period and a company record. The company also recorded an EBITDA of A$608,000 for the second half, its first profitable half-year.",
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "pass": 3
+   },
+   {
+    "quote": "and A$9 million carried forward. A$16.8 million of contracted work rolled into FY2027, and the company put its global sales pipeline at A$78 million at June 30. Cash at bank stood at A$26.8 million.",
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "pass": 3
+   },
+   {
+    "quote": "and component manufacturing in the USA,” said Sean Ebert, Managing Director at AML3D. “It is encouraging to see our strategy of moving beyond the US Defense market begin to gain traction. During the year, we achieved record revenue growth and delivered our first profitable half-year in the second six months.”",
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "pass": 3
+   },
+   {
+    "quote": "“Demand that supported our FY26 performance has continued into FY27,” said Ebert. “While we continue to deliver the $16.8 million orders in hand, we are also working to convert our $78 million global sales pipeline and have visibility on potential near-term contracts in the US and the UK.",
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "pass": 3
+   },
+   {
+    "quote": "The powder bed segment is projected to account for 46.5% of the additive manufacturing with metal powders market revenue in 2026, maintaining its position as the leading manufacturing technique. Its dominance has been built on the ability to produce highly detailed and structurally sound components with excellent dimensional accuracy.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The alloy segment is projected to capture 39.7% of the additive manufacturing with metal powders market revenue in 2026, leading due to its versatility and enhanced performance characteristics. Alloys such as titanium, nickel, and aluminum-based blends have been favored for their strength-to-weight ratios, corrosion resistance, and suitability for high-stress environments.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The aerospace segment is projected to hold 44.2% of the additive manufacturing with metal powders market revenue in 2026, remaining the dominant application area. Growth in this segment has been fueled by the aerospace industry’s need for lightweight, high-strength components that can withstand extreme operating conditions.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which Manufacturing Technique is poised to lead global sales by 2026?",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SPA 国際航空宇宙部品 SPACEAGENT - Facebookニコン グループ - 【「Nikon AM Technology Center Japan」を埼玉県...OKI 【沖電気工業株式会社】 - 【9月12日“宇宙の日” OKI×宇宙 果てし...GIKEN - 【ニュースリリース】 国交省および文科省「宇宙建設革新プロ...SPA 国際航空宇宙部品 SPACEAGENT - FacebookShareLab（シェアラボ） - 【「日本の製造業革新に不可欠な金属積層造...ShareLab（シェアラボ） - 【金属AM市場、2034年に9兆円規模へ！Voxel... Mar 26, 2026 · #微小重力マシーン 取付治具の設計と製作12日納期😳さてはて🙄 #モノづくり日本🇯🇵 #創意工夫 #国際航空宇宙部品 #SPACEAGENT #IDDKが先生 ️ #宇宙xライフサイ",
+    "url": "https://www.facebook.com/SPACEAGENT/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-aerospace-in-2026-flight-ready-am-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space-connect.jp/metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapid-model.com/ja/cnc-industry/379.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorabatake.jp/19545/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/metal-3d-printing-investment-accelerates/?srsltid=AYCX9vIrU31w7PX2TlAEoacNY6ieJTBm6aPaEhYif4qvX0_R_Eb-Fd5D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crossu.org/event/231102it/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/5194130",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sjac.or.jp/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://masakai.github.io/posts/auto-to-aerospace-defense-supply-chain-2026-06-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.met3dp.com/ja/blog/metal-3d-printing-for-aerospace-in-2026-lightweight-certified-flight-components/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sjac.or.jp/wp-content/uploads/2025/12/7_database_2025.08.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j3d.co.jp/column/e35fe487-b865-43e6-9b7a-e922829df141",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/ja/reports/aerospace-defense-contract-manufacturing-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/5194130",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/aerospace-defense-additive-manufacturing-market-106550",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0264127521005633",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/calculating-cost-additive-manufacturing-jason-t-ray",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geaerospace.com/news/press-releases/colibrium-additive-awarded-naval-air-systems-command-contract-advance-metal-additive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defenseandmunitions.com/news/3d-systems-receives-7-million-dollar-plus-contract-from-us-air-force-for-advanced-metal-printing-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/map-additive-manufacturing-defense-united-states-05052026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/129/valiant-products-unlocks-ultimate-design-freedom-for",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2075-4701/9/12/1286",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/additive-manufacturing-in-aerospace-market-9662",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17452759.2021.2018938",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://amtonline.org/article/investment-signals-a-maturing-additive-manufacturing-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ati.org.uk/wp-content/uploads/2021/08/insight08-additive-manufacturing.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.facebook.com/SPACEAGENT/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "航空宇宙向け金属AM部品の受託・契約額 単価 万円",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-aerospace-in-2026-flight-ready-am-solutions/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "https://space-connect.jp/metal-3d-printing/",
+    "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "https://www.crossu.org/event/231102it/",
+    "https://blog.met3dp.com/ja/blog/how-to-compare-metal-am-suppliers-by-total-cost-in-2026-sourcing/"
+   ]
+  },
+  {
+   "query": "航空宇宙向け金属AM部品の受託・契約額 費用 相場",
+   "results": [
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-aerospace-in-2026-flight-ready-am-solutions/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "https://space-connect.jp/metal-3d-printing/",
+    "https://www.rapid-model.com/ja/cnc-industry/379.html"
+   ]
+  },
+  {
+   "query": "航空宇宙向け金属AM部品の受託・契約額 最大 受注 億円",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://space-connect.jp/metal-3d-printing/",
+    "https://sorabatake.jp/19545/",
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://news.sharelab.jp/category/cases/aerospace/",
+    "https://idarts.co.jp/3dp/metal-3d-printing-investment-accelerates/?srsltid=AYCX9vIrU31w7PX2TlAEoacNY6ieJTBm6aPaEhYif4qvX0_R_Eb-Fd5D",
+    "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "https://www.crossu.org/event/231102it/",
+    "https://newscast.jp/smart/news/5194130",
+    "https://www.japanmetaldaily.com/articles/-/258032"
+   ]
+  },
+  {
+   "query": "航空宇宙向け金属AM部品の受託・契約額 量産 受注 年間",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-aerospace-in-2026-flight-ready-am-solutions/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://space-connect.jp/metal-3d-printing/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "https://sorabatake.jp/19545/",
+    "https://www.crossu.org/event/231102it/",
+    "https://www.sjac.or.jp/data/",
+    "https://masakai.github.io/posts/auto-to-aerospace-defense-supply-chain-2026-06-02/"
+   ]
+  },
+  {
+   "query": "航空宇宙向け金属AM部品の受託・契約額 売上高 受託",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://space-connect.jp/metal-3d-printing/",
+    "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "https://j3d.co.jp/column/e35fe487-b865-43e6-9b7a-e922829df141",
+    "https://www.nttdata-xam.com/",
+    "https://www.sjac.or.jp/data/"
+   ]
+  },
+  {
+   "query": "aerospace metal additive manufacturing contract value price per part",
+   "results": [
+    "https://www.fortunebusinessinsights.com/aerospace-defense-additive-manufacturing-market-106550",
+    "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market",
+    "https://www.sciencedirect.com/science/article/pii/S0264127521005633",
+    "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "https://www.linkedin.com/pulse/calculating-cost-additive-manufacturing-jason-t-ray",
+    "https://www.metal-am.com/articles/investing-in-metal-3d-printing-costs-and-considerations/",
+    "https://www.mdpi.com/2504-4494/3/3/52",
+    "https://scholar.afit.edu/context/etd/article/1790/viewcontent/AFIT_ENS_MS_17_M_121___Crean__Ryan.pdf",
+    "https://blog.met3dp.com/blog/how-to-estimate-cost-for-metal-additive-manufacturing-in-2026-framework/"
+   ]
+  },
+  {
+   "query": "aerospace metal additive manufacturing contract value largest contract million",
+   "results": [
+    "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "https://www.geaerospace.com/news/press-releases/colibrium-additive-awarded-naval-air-systems-command-contract-advance-metal-additive",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://www.defenseandmunitions.com/news/3d-systems-receives-7-million-dollar-plus-contract-from-us-air-force-for-advanced-metal-printing-system/",
+    "https://www.3dnatives.com/en/map-additive-manufacturing-defense-united-states-05052026/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/129/valiant-products-unlocks-ultimate-design-freedom-for",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.mdpi.com/2075-4701/9/12/1286",
+    "https://www.instagram.com/reel/DXKoKQjjCqd/",
+    "https://www.meldmanufacturing.com/meld-manufacturing-awarded-975-million-contract-by-the-u-s-air-forces-rapid-sustainment-office/"
+   ]
+  },
+  {
+   "query": "aerospace metal additive manufacturing contract value serial production long-term agreement value",
+   "results": [
+    "https://www.mdpi.com/2075-4701/9/12/1286",
+    "https://www.snsinsider.com/reports/additive-manufacturing-in-aerospace-market-9662",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2021.2018938",
+    "https://www.youtube.com/watch?v=LR8YZRAErBo",
+    "https://amtonline.org/article/investment-signals-a-maturing-additive-manufacturing-market",
+    "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "https://www.ati.org.uk/wp-content/uploads/2021/08/insight08-additive-manufacturing.pdf",
+    "https://www.additivemanufacturing.media/news/guaranteed-partners-with-lockheed-martin-to-advance-metal-additive-manufacturing-in-belgium",
+    "https://blog.met3dp.com/blog/metal-3d-printing-contract-manufacturing-in-2026-outsourced-production-strategies/"
+   ]
+  },
+  {
+   "query": "aerospace metal additive manufacturing contract value revenue",
+   "results": [
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.fortunebusinessinsights.com/aerospace-defense-additive-manufacturing-market-106550",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://www.marketresearchfuture.com/reports/aerospace-additive-manufacturing-market-1551",
+    "https://www.linkedin.com/pulse/largest-north-america-3d-printing-metal-market-companies-vcqtf/",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://www.researchandmarkets.com/reports/5820131/aerospace-additive-manufacturing-market-report"
+   ]
+  },
+  {
+   "query": "site:note.com 航空宇宙向け金属AM部品の受託・契約額",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/good_dill292/n/nf1da4a394ca1",
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://note.com/kagawatomo/n/ndb06a6b0c405",
+    "https://note.com/fond_ferret685/n/n28b2866de32f",
+    "https://note.com/naitei_support/n/n567169057af0",
+    "https://note.com/aibusinesshunter/n/n91749f7a4dc7",
+    "https://note.com/aibusinesshunter/n/n23dec9529949",
+    "https://note.com/frievea/n/n478a6b14c7d6",
+    "https://note.com/aibusinesshunter/n/n902079fcf2b8"
+   ]
+  },
+  {
+   "query": "site:x.com 航空宇宙向け金属AM部品の受託・契約額",
+   "results": [
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/luigi_jpn/status/2113788303665426873",
+    "https://x.com/i/status/2092790514261364988",
+    "https://x.com/t_ryoma1985/status/2042881986482888738",
+    "https://x.com/t_ryoma1985/status/2060998685459399165",
+    "https://x.com/t_ryoma1985/status/2034881075173073374",
+    "https://x.com/t_ryoma1985/status/2035289359117893685",
+    "https://x.com/IGoldeneggs/status/2031595888397947219",
+    "https://x.com/STAR_PRIMER/status/2054889903113327084",
+    "https://x.com/kabunattu/status/2096470764740636840"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 航空宇宙向け金属AM部品の受託・契約額",
+   "results": [
+    "https://jp.linkedin.com/pulse/金属合金航空宇宙材料市場シェア上位メーカー-gallopgridx-lqwwe",
+    "https://jp.linkedin.com/pulse/航空宇宙用金属鍛造品-market-size平均cagr-1112026年から2033年までの収益創出主要トレンド海外ビジネス機会-r887f",
+    "https://www.linkedin.com/posts/kazuhiro-okano-8a7330303_english-follows-金属amは航空宇宙のものづくりをどう変えるのか-activity-7515939653317758976-YeIl",
+    "https://www.linkedin.com/posts/hirotaka-kawagoe-012284184_金属技研-mtc-金属積層造形-activity-7450391212177649664-t_BE",
+    "https://jp.linkedin.com/pulse/歴史的な傾向と将来予測の両方を提供する形で航空宇宙用超合金の市場インサイトは2026年から2033年-7502443342367072257-pdagf",
+    "https://jp.linkedin.com/pulse/how-can-aerospace-companies-take-additive-manufacturing?tl=ja",
+    "https://jp.linkedin.com/posts/sharelab-jp_金属am市場2034年に6兆円規模へvoxelmattersが最新市場レポート-activity-7328240169818505216-MPiF"
+   ]
+  },
+  {
+   "query": "site:facebook.com 航空宇宙向け金属AM部品の受託・契約額",
+   "results": [
+    "https://www.facebook.com/aspect.3Dprinter/",
+    "https://www.facebook.com/SPACEAGENT/",
+    "https://www.facebook.com/SPACEAGENT/posts/spa-国際航空宇宙部品spaceagent-株式会社縁舞の技術紹介を個別にご案内しております-暫くの間-ホームページは非公開のままです-ごめんなさい️ご新規も/454926616707349/",
+    "https://www.facebook.com/NikonGroupjp/posts/nikon-am-technology-center-japanを埼玉県行田市に開設最先端の金属アディティブマニュファクチャリング付加加工以下am技術の開発およ/936680661888050/",
+    "https://www.facebook.com/oki.japan/posts/9月12日宇宙の日-oki宇宙-果てしない夢と技術の融合okiが宇宙分野に携わっていることをみなさんご存知ですかoki-emsでは基幹ロケットや人工衛星で使用さ/534919588929317/",
+    "https://www.facebook.com/GIKENLTD/photos/ニュースリリース国交省および文科省宇宙建設革新プロジェクト技術研究開発rd契約の継続が決定圧入施工データが導く月面における合理的な建設プロセスhttpswwwg/1431452815646060/",
+    "https://www.facebook.com/jpShareLab/posts/日本の製造業革新に不可欠な金属積層造形技術の未来レポート公開-みずほ銀行みずほ銀行-産業調査部は2025年1月17日に自社ウェブサイト内mizuho-short/1197910572336433/",
+    "https://www.facebook.com/jpShareLab/posts/金属am市場2034年に9兆円規模へvoxelmattersが最新市場レポートを公開金属積層造形分野の専門調査会社voxelmattersは2025年に向けた最/1288246973302792/"
+   ]
+  },
+  {
+   "query": "航空宇宙向け金属AM部品の受託・契約額 note 社長",
+   "results": [
+    "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-aerospace-in-2026-flight-ready-am-solutions/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://space-connect.jp/metal-3d-printing/",
+    "https://note.com/good_dill292/n/n66656c597063",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://yumoparts.com/resources/blog/aerospace-parts-3d-printing",
+    "https://j3d.co.jp/column/b6a3bda7-c8da-4b12-b029-8695df4cd839",
+    "https://newscast.jp/smart/news/5194130",
+    "https://www.nikkeikinholdings.co.jp/news/news/p2025091701hd.html"
+   ]
+  },
+  {
+   "query": "航空宇宙向け金属AM部品の受託・契約額 X 投稿",
+   "results": [
+    "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-aerospace-in-2026-flight-ready-am-solutions/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.crossu.org/event/231102it/",
+    "https://space-connect.jp/metal-3d-printing/",
+    "https://x.com/jampt_official",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://jampt.jp/",
+    "https://news.sharelab.jp/cases/aerospace/nasa-perseverance-201209/",
+    "https://formlabs.com/jp/blog/additive-manufacturing-3d-printing-in-aerospace/",
+    "https://news.sharelab.jp/cases/other-fields/nikon-am-synergy-diu-forge-contract-aerospace-am-260327/"
+   ]
+  },
+  {
+   "query": "aerospace metal additive manufacturing contract value site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/future-3d-printing-metals-market-aerospace-fsrzf",
+    "https://www.linkedin.com/posts/gkn-aerospace_news-release-gkn-aerospace-and-the-us-activity-7449443027535695874-2YH2",
+    "https://www.linkedin.com/company/precisionadditivesolutions",
+    "https://www.linkedin.com/pulse/metallurgy-additive-manufacturing-aerospace-market-size-euvde",
+    "https://www.linkedin.com/pulse/aerospace-additive-manufacturing-market-us-japan-korea-zunlf",
+    "https://www.linkedin.com/pulse/calculating-cost-additive-manufacturing-jason-t-ray",
+    "https://www.linkedin.com/posts/paulperera_analysis-of-us-military-budget-shows-increased-activity-7407877007230869505-owb_",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-hypersonics-activity-7506241770603577345-Ocdw",
+    "https://www.linkedin.com/company/colibrium-additive",
+    "https://www.linkedin.com/posts/gkn-aerospace_us-global-technology-centre-activity-7431723083897499648-GxiO"
+   ]
+  }
+ ],
+ "missing": {}
+}

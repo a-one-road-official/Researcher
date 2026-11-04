@@ -1,0 +1,2288 @@
+{
+ "name": "オリックス・レンテック株式会社",
+ "aliases": [
+  "オリックスレンテック",
+  "3D-FABs"
+ ],
+ "context": "国内・受託とレンタル",
+ "researched_at": "2026-11-04T10:36:32.463328+00:00",
+ "official_url": "https://www.orix-rentec.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "1976年9月",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立年月",
+    "value": "1976年9月",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主",
+    "value": "オリックス株式会社",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   }
+  ],
+  "保有設備": [
+   {
+    "label": "受変電・発電設備機器などのレンタル ∗",
+    "value": "変圧器・キュービクル・発電機・分電盤・その他電気設備のレンタル ∗関係会社 : 淀川変圧器株式会社によるレンタル",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "装置のメンテナンス方法を教えてくれますか",
+    "value": "はい、対応可能です。点検項目、頻度、点検方法や材料交換時の分解清掃など、実機を用いながらご紹介します。詳しくは個別にご相談下さい。",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "730,000,000円",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "900人",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "設備台数": [
+   {
+    "quote": "導入支援サービス",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属造形機の導入を支援するサービス",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "中古機器（レンタル在庫機器）の販売およびお客さま保有機器の買い取り",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "レンタル機器の稼働年数は？",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "一台で複数のスマホ端末の通信を再現し、",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "保有パソコンを横に並べた",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社のPCレンタル導入から、現在に至るまで新たな契約更改ができたことをうれしく思います",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "保有機器の豊富さ、レスポンスの速さ、担当の方々の対応、弊社の販売・サービスに対し協力してくださる姿勢にいつも感謝しております",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "ラインナップは充実しておりますが、環境槽の保有数をさらに充実されていくことを期待しております",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "貴社には、主にレンタルパソコンの導入において、長年にわたり多大なるご尽力をいただいております",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "これから先もお客様や市場に応えるべく土台を頑強なものとし、その上に新たな創造により成長し貢献する会社でありたいと願います",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの50年で培った基盤を土台に、次の成長フェーズを切り拓く存在として、一人ひとりが主体的に価値創出に取り組んでいきたいと考えています",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック | 試作品の造形受託から機器の導入支援まで、3Dプリンターサービスはオリックス・レンテック株式会社（ORIX Rentec Corporation） | ORIX Rentec Corporation",
+    "url": "https://www.orixrentec.jp/3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "造形受託、導入支援、レンタルといった幅広いニーズにお応えいたします",
+    "url": "https://www.orixrentec.jp/3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "導入支援サービス",
+    "url": "https://www.orixrentec.jp/3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "機器導入を支援いたします",
+    "url": "https://www.orixrentec.jp/3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "ご利用シーンに合わせた導入プランをご用意しています",
+    "url": "https://www.orixrentec.jp/3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属40台以上、樹脂70台以上の各種造形機で造形が可能です",
+    "url": "https://www.orixrentec.jp/3dprinter/service/3d_printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテックの3Dプリンター事業は、3Dプリンター出力サービス、導入支援サービス、",
+    "url": "https://www.orixrentec.jp/3dprinter/about/",
+    "pass": 3
+   },
+   {
+    "quote": "導入支援サービス",
+    "url": "https://www.orixrentec.jp/3dprinter/about/",
+    "pass": 3
+   },
+   {
+    "quote": "金属造形機の導入をご検討のお客さま向けの",
+    "url": "https://www.orixrentec.jp/3dprinter/about/",
+    "pass": 3
+   },
+   {
+    "quote": "ご利用シーンに合わせた導入プランをご用意しています",
+    "url": "https://www.orixrentec.jp/3dprinter/about/",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテックの3Dプリンター事業は、3Dプリンター出力サービス、導入支援サービス、レンタルサービスの3つの領域で総合的なサービスを展開していることが、大きな特長です",
+    "url": "https://www.orixrentec.jp/3dprinter/about/",
+    "pass": 3
+   },
+   {
+    "quote": "BLT は金属3D プリンタや材料、ソフトウェアなどAM（金属積層造形）関連製品を製造・販売するほか、造形サービス、導入支援サービスを展開する",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "3D プリンタ体験拠点「Tokyo 3D Lab.」（東京都町田市）にBLT の「S320」（図1、パウダーベッド方式、最大造形サイズ250×250×400mm）1 台を導入し、操作方法のトレーニングや造形ノウハウの提供も行っている",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "BLT は社内で550 台の金属3D プリンタを保有し、量産や試作を請け負っている",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービスや装置販売に加え、導入支援に力を入れている",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "【全般】BLT社製3Dプリンターの見学は可能ですか（周辺設備や稼働状態も見学希望)",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "【装置】BLT社3Dプリンター導入時の標準的な納期を教えてください",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "【装置】BLT社3Dプリンター導入後のサポートについて教えてください",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "【装置】日本国内でBLT社の3Dプリンターを導入した企業はありますか",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の企業への導入実績がございます",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "当社保有のBLT社製3Dプリンターでの造形は、ご発注後10～15営業日程度です",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "当社が保有する金属3Dプリンター「BLT-S320」「EOS M290」です",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "当社が保有する金属3Dプリンター（PBF-LB方式）を実際に操作し、造形後の後処理作業まで一連の工程を体験いただけます",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの活用や導入をご検討されているお客さまに対し、本サービスを通じて懸念点や不明点を解消していただけるようサポートします",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの導入を検討しています",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社保有の分析天秤を用いることで、その場でアルキメデス法による密度測定も可能です",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "短時間で造形可能かつ、受注時の装置稼働状況によっては１～２営業日で発送できる場合もあります",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "自社保有はしておりません",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "デバイス導入時のお悩み",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "導入時の付帯サービス",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "PC、モニター、タブレットなどのデバイス導入方法にお悩みのお客さま必見です！",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "デバイス導入でのお悩み、",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "導入時や故障時にかかる",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "業界トップクラスの保有台数と豊富なラインアップからご提案いたします",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "導入にかかる費用だけでなく、表面化しないさまざまなコスト低減に寄与します",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトでの導入",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "1台から1,000台以上の大量導入も可能",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用での導入",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "導入から返却、リプレースまでのスケジュール管理",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "デバイス導入時の付帯サービス",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "表示金額は、1台あたりの概算料金です",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "保有資格：STC Expert",
+    "url": "https://note.com/exportcontrol/n/nafa09acf626d",
+    "pass": 3
+   },
+   {
+    "quote": "①リース会社が資産の所有権を保有する",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "中古医療機器の販売・買取｜アローズヘルスケア｜開業・医療設備の導入支援",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   }
+  ],
+  "料金・単価": [
+   {
+    "quote": "お見積り・ご質問など、お気軽にお問い合わせください",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "お見積り・ご質問など、お気軽にお問い合わせください",
+    "url": "https://www.orixrentec.jp/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "円環の矢印は、資源を有効活用することで環境負荷の低減を目指す当社のサステナビリティへの取り組みを示しています",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "過去に新工場への移転プロジェクトで、初期費用抑制のためリース契約をご提案いただき、円滑な立ち上げを実現できました",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "短期間から長期を選択できてリーズナブルな料金設定ありがとうございます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "平素から計測器の点検校正において、校正見積書の作成から点検校正、計測器納品までスムーズにご対応いただきありがとうございます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "『統率された組織』からなされる「営業活動の質」「営事の円滑な連携・スピード」は見習うものばかりです",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "昨今のPC寿命の短期化という背景を踏まえ、時代の変化に合わせた柔軟なレンタル価格プランのご提案にも期待しております",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "貴社の迅速かつ的確なご対応により、業務の円滑な推進に大きく寄与いただいておりますこと、深く感謝しております",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "IT関連のレンタル事業に関しては機器の低価格化により売上がのびなやんでおり、厳しい状況だと考えられる",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "730,000,000円",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "中古マンションの市場価格情報ならIESHIL（イエシル）",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "お見積もり・資料請求・ご質問など、お気軽にお問い合わせください",
+    "url": "https://www.orixrentec.jp/3dprinter/service/3d_printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "お見積もり・資料請求・ご質問など、お気軽にお問い合わせください",
+    "url": "https://www.orixrentec.jp/3dprinter/about/",
+    "pass": 3
+   },
+   {
+    "quote": "装置自体が安くランニングコストも低いため、新規で金型を製作するより部品1 個当たりの費用を抑えられるケースが出てきた",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "先述のノズルの造形コストは1 個約300 円",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりや造形時に使用させていただきます",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "実施費用を教えてください",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "期間延長の場合、延長期間に応じた月額料金をお知らせします",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "※レンタル料金は最短5日単位で設定しています",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "搬入時の据付費用は運送料金に含まれますか",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "据付までご希望の場合は、別途料金にて承りますのでご相談下さい",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "販売価格については最寄りの営業拠点、もしくは営業担当者にお問い合わせ下さい",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "はじめて3D-FABsで3D造形費用を見積もりたいのですが、どうすればよいですか",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "ご登録後、3D-FABsよりログインいただければ試算と正式見積の依頼が可能です",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "3D-FABsでは試算および、正式見積もり依頼までとなります",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "単価の試算において、サポートが付与される箇所の理由を知りたいです",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "単価の試算、複数個取りの試算で付与される型番や試算番号はどのような使い方が可能でしょうか",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "2週間以上前に試算した3Dデータで見積依頼をしたいのですが可能ですか",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "3D-FABs画面上で発行される価格試算表を見積書として使えますか",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "ご発注の前にあらためてお客さまのご用件を確認のうえ、正式見積書を発行します",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "造形可否判定結果でオレンジ色の警告メッセージが出ましたが、試算内容を基に正式見積は可能でしょうか",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "正式見積依頼画面で担当者連絡ボタンを押下、もしくはチャットにてご連絡下さい",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "造形、サポート除去、梱包、運送費、オプション利用の場合はオプション料金を含みます",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスメニューの費用を教えてください",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "お客さまに合わせたカスタムサービスのため、標準価格は設定しておりません",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "お見積もり・資料請求・ご質問など、お気軽にお問い合わせください",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "【非エンジニアのための「実践AI開発術」：完成までの11ステップ】ソロプレナーとは／月数十億円を稼ぐ／YouTuberと重なる4つの構造／自分で作る3つのメリット／UXの磨き方／セキュリティ対策",
+    "url": "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "pass": 3
+   },
+   {
+    "quote": "その他、従量課金制 （月額利用料9.5～90万円）Max800mm角の「サブスク3Dプリント」やピーク材、セラミック材、シリコン材の造形可能なサービスをご紹介",
+    "url": "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "pass": 3
+   },
+   {
+    "quote": "【お宝映像】客は一人だけ・赤字は月300万円 25年前は経営難のミニシアター 支配人の男性のいまは？【お宝発見！関西いまむかし】",
+    "url": "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "pass": 3
+   },
+   {
+    "quote": "レンタル料金 | オリックス・レンテック",
+    "url": "https://faq.orixrentec.jp/kb/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E6%96%99%E9%87%91-7380571/",
+    "pass": 3
+   },
+   {
+    "quote": "レンタル料金",
+    "url": "https://faq.orixrentec.jp/kb/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E6%96%99%E9%87%91-7380571/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. レンタルした場合の概算費用を知りたいのですが、どこに問い合わせしたらいいですか？",
+    "url": "https://faq.orixrentec.jp/kb/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E6%96%99%E9%87%91-7380571/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 運送費用、そのほかの費用の分割払いはできますか？",
+    "url": "https://faq.orixrentec.jp/kb/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E6%96%99%E9%87%91-7380571/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 搬入時の据付費用は運送料金に含まれますか？",
+    "url": "https://faq.orixrentec.jp/kb/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E6%96%99%E9%87%91-7380571/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 運送費用はレンタル料金に含まれますか？",
+    "url": "https://faq.orixrentec.jp/kb/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E6%96%99%E9%87%91-7380571/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. レンタル料金の算出方法を教えてください",
+    "url": "https://faq.orixrentec.jp/kb/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E6%96%99%E9%87%91-7380571/",
+    "pass": 3
+   },
+   {
+    "quote": "※税抜き・WEB参考価格",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "導入にかかる費用だけでなく、表面化しないさまざまなコスト低減に寄与します",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "料金のお支払い",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "お見積り・ご質問など、お気軽にお問い合わせください",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "※複数カテゴリーの商品を「見積・お問い合わせ」する場合、一度「見積カート」に商品を入れてから、別カテゴリーの商品をご選択ください",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "製品料金（昇順）",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "製品料金（降順）",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "見積カートに追加",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "見積・お問い合わせ",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "別途費用がかかる",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "42,000円",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "見積カートに",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "57,000円",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   }
+  ],
+  "最大案件・量産": [
+   {
+    "quote": "航空宇宙部品や自動車部品といった大型造形が可能な金属3Dプリンターの販売・レンタルサービス",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資産・管理運用システム、レンタル契約システムのご提供",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "受変電設備レンタルの業界最大手である淀川変圧器株式会社の全発行済株式取得",
+    "url": "https://www.orixrentec.jp/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、「50」の数字に重ねたリボンには、50年間で培った信頼と、次の未来に向けた技術革新への意志を込めています",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター・ドローンなど先端領域への事業拡大、受変電設備レンタルの最大手である淀川変圧器をグループ化",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "受変電設備レンタルの業界最大手である",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "最大出庫量は？",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "合計最大出庫量です！",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "過去に新工場への移転プロジェクトで、初期費用抑制のためリース契約をご提案いただき、円滑な立ち上げを実現できました",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "リース契約だけでなく1ヶ月単位の短期レンタルでも迅速にご対応頂き非常に助かっております",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "PC機器のレンタル営業を御一緒させていただいておりますが、お客様のご要望を最大限汲み取った上で、最適解を出そうと努力してくださる姿勢から沢山の事を学んでいます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社のPCレンタル導入から、現在に至るまで新たな契約更改ができたことをうれしく思います",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも数年越しに貴社との協業により受注できたプロジェクトは印象深いですし、それが10年以上に亘って今なお継続しているというところが貴社のビジネスモデルの素晴らしさだと感じます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "50年間の“Unique” Companyから、この先の50年を見据え、“Unparalleled” Companyを目指してさらに発展していきましょう",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "転職会議は、2010年のサービス開始以来、国内最大級の口コミ数を誇る転職口コミサービスです",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部品や自動車部品といった大型造形が可能な金属3Dプリンターの販売・レンタルサービスです",
+    "url": "https://www.orixrentec.jp/3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部品や自動車部品といった大型造形が可能な金属3Dプリンターの販売・レンタルサービスです",
+    "url": "https://www.orixrentec.jp/3dprinter/about/",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック、金属3D プリンタでの部品量産を提案 - 工場マガジンラック｜日刊工業新聞社",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック、金属3D プリンタでの部品量産を提案",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "そうした中、オリックス・レンテック（東京都品川区）は金属3D プリンタが抱える「量産には使えない」、「コストが高い」などのイメージを払拭するため、中国・ Xi’an Bright LaserTechnologies（以下、BLT）の金属3D プリンタや同機による造形サービスを訴求している",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "年間数百万個の量産も可能に",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "3D プリンタ体験拠点「Tokyo 3D Lab.」（東京都町田市）にBLT の「S320」（図1、パウダーベッド方式、最大造形サイズ250×250×400mm）1 台を導入し、操作方法のトレーニングや造形ノウハウの提供も行っている",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "その1 つが量産体制だ",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "BLT は社内で550 台の金属3D プリンタを保有し、量産や試作を請け負っている",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "「これまで金属3D プリンタでは無理だと思われていた、民生品の量産に対応できる」（袴田氏）といい、実際に圧力なべのノズルや折りたたみスマートフォンのヒンジなどで、年間数百万個の量産に対応しているという",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "さらに縦1,500×横1,500×高さ1,500mm や縦800×横800×高さ2,500mm の大型造形が可能で、対応できる部品の種類が広がりつつある",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "BLT はエアバスの認定を受けた部品サプライヤーであり、複数部品を1 度に造形する際のばらつきを最大±0.05mm に抑えられるなど、金属3D プリンタの使い方にも精通する（図2）",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "品質とコストを両立したことで、オリックス・レンテックを通じて、日本の顧客がBLT に量産・試作を依頼する例が出始めている",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "新設の「AMイノベーションセンタ」から量産への適用を見据えたAM技術を展開―DMG森精機",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "【装置＆出力】最大造形サイズを教えてください",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "最大1,500mm角もしくは高さ方向最大2,500mmの造形が可能です",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "大型機（S800以上） ：都度相談",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "【出力】最終製品の量産対応も可能ですか",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "金属材は最大1,500mm×1,500mm×1,200mm",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂材は最大914mm×609mm×914mm",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "大型造形や、量産造形、特殊材料を使用する場合などは、都度ご相談となります",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "最終製品の量産対応可能ですか",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "数量、実施時期、継続期間、保障内容、各種契約など、お客さまの要望に応じて対応可否を判断させていただいております",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、別途契約（NDA、取引基本契約、など）が必要な場合は、お時間がかかります",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "契約期間満了時レンタル品の買い取りは可能ですか",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "契約プラン内で使いきれなかった重量分は次月に繰り越せますか",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "短時間で造形可能かつ、受注時の装置稼働状況によっては１～２営業日で発送できる場合もあります",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "契約後に造形の依頼をする際に必要なものを教えてください",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "契約の最短期間を教えてください",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "風洞試験可能な最大サイズを教えてください",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "大型機（S800以上）：都度相談",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "最大の失敗から神がいかにあなたを回復させるか | ペテロの物語",
+    "url": "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "pass": 3
+   },
+   {
+    "quote": "マルチベンダーとしてお客さまのニーズにお応えする、様々なサービス（量産対応、大型造形、装置販売等）をご提供",
+    "url": "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "pass": 3
+   },
+   {
+    "quote": "量産対応、大型対応の事例としては、AM世界大手Xi'an Bright Laser Technologies社（BLT社）製にて、600mmサイズのメタンガスポンプ吐出ケーシング、グリーンレーザを使用した純銅のヒートシンク、チタン合金の電子機器ヒンジカバー等の造形サンプルを展示ご紹介",
+    "url": "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "pass": 3
+   },
+   {
+    "quote": "SIMスロット：nanoSIM (5G)",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "インターフェース：VGA×1、HDMI×1、DisplayPort×1、USB-C 3.2 Gen 1 x 1（アップストリーム、最大 65W の電源供給に対応）",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "Web上でご契約状況が確認できるサービスの提供",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "2792A05 標準抵抗器 10Ω、専用アルミケース 4端子 確度23±2℃にて±30ppm 最大許容電流0.547A 寸法φ104×150mm 電流端子幅約174mm 1.2kg",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "6ダイヤル6.5桁高精度標準抵抗器 最小抵抗値0.1Ω,最大抵抗値111.1110kΩ,分解能111.1110kΩ ダイヤル抵抗値 ダイヤル1：10kΩ ダイヤル2：1kΩ ダイヤル3：100Ω ダイヤル4：10Ω ダイヤル5：1Ω ダイヤル6：0.1Ω, 精度±0.005%+mΩ, OP:アルミケースCC6100",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "6ダイヤル6.5桁高精度標準抵抗機 最小抵抗値0.100Ω,最大抵抗値1.111210kΩ, 分解能0.001Ω,ダイヤル抵抗値ダイヤル1 100Ω,ダイヤル2 10Ω,ダイヤル3 1Ω,ダイヤル4 0.1Ω,ダイヤル5 0.01Ω,ダイヤル6 0.001Ω, 精度±0.005%+mΩ,OP:アルミケースCC6100",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "最大電力0.5W,抵抗値範囲5Ω～199.9999kΩ,分解能0.001Ω～0.1Ω 精度±(0.005%+2mΩ),GPIB,RS232C,6 1/2桁",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "最大電力0.5W,最小抵抗値0.2Ω,最大抵抗値1.999999kΩ,分解能0.001Ω 精度±(0.01%+2mΩ),GPIB,RS232C,6 1/2桁 設定可能最小抵抗値0.200Ω",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "最大電力0.5W,抵抗値範囲5Ω～199.9999kΩ,分解能0.001Ω～0.1Ω 精度±(0.01%+2mΩ),GPIB,RS232C,6 1/2桁 設定可能最小抵抗値5.000Ω",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "1.999999kΩレンジ(最小0.200Ω) 19.99999kΩレンジ(最小0.20Ω) 199.9999kΩレンジ(最小0.2Ω) 最大入力電力0.5W,Op.GPIB",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "標準抵抗器 10Ω 4端子 確度23±2℃にて±30ppm 最大許容電流0.547A 寸法φ104×150mm 電流端子幅約174mm 1.2kg 専用アルミケース入り※金属箔抵抗型 2792-05(巻線抵抗型)の後継です",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "電子計測器・測定器、科学・環境分析機器、ICT 関連機器、医療機器、ロボット、ドローンなどのレンタル",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部品や自動車部品といった大型造形が可能な金属3Dプリンターの販売・レンタルサービス",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス自動車株式会社",
+    "url": "https://www.orix.co.jp/grp/company/about/group/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車リース、レンタカー、カーシェアリング、中古車販売・売却サポート",
+    "url": "https://www.orix.co.jp/grp/company/about/group/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器のレンタル開始",
+    "url": "https://www.orixrentec.jp/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットの拡大により社会環境が大きく変化する中、医療分野への展開をはじめ、技術と社会の接点を広げながら、多様化するニーズに応える体制を強化",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器のレンタル開始",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "貴社の皆様のお客様に対する熱い思いやサービスレベルの向上に我々も刺激を受けつつ、今後はAIやロボット・宇宙といった変化の激しい時代の要求に応じ、いち早くその課題解決に挑めるものづくり＆ITソリューションカンパニーを目指し、弊社もともに成長して参りたいと思います",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先の担当者が転職して新たな会社で再会する一方、私たちは変わらず同じ会社で歩み続けている",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "技術系（電気・電子・機械・半導体）",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "研究・開発（医薬）,臨床開発(CRA・DM・PMS等),生産技術（医薬）,薬事申請,生産管理・品質管理(医薬),テクニカルサポート（医薬）,その他の医薬・医療機器関連職、基礎・応用研究(食品・化粧品),製品開発(食品・化粧品),生産技術・生産管理（食品・化粧品）,品質管理・品質保証（食品・化粧品）,研究開発（食品・化粧品）,セールスエンジニア・テクニカルサポート（食品・化粧品）,その他の食品・化粧品関連職、基礎・応用研究（素材・化成品）,製品開発（素材・化成品）,生産技術・生産管理（素材・化成品）,品質管理・品質保証（素材・化成品）,セールスエンジニア・テクニカルサポート（素材・化成品）,その他の素材・化成品関連職",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "医療・福祉・保育系",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "医師,看護師・准看護師・看護助手,医療事務,助産師,保健師,薬剤師,臨床検査技師,歯科助手・歯科衛生士,歯科技工士,カウンセラー・臨床心理士,作業療法士(OT),理学療法士(PT),その他の医療サービス関連職、ヘルパー,介護福祉士,社会福祉士,生活相談員,サービス提供責任者(福祉),ケアマネージャ,その他の福祉関連職、保育士,幼稚園教諭,ベビーシッター,その他の保育関連職",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部品や自動車部品といった大型造形が可能な金属3Dプリンターの販売・レンタルサービスです",
+    "url": "https://www.orixrentec.jp/3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金型鋼CX:耐久性・高熱伝導率",
+    "url": "https://www.orixrentec.jp/3dprinter/service/3d_printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車ホイール",
+    "url": "https://www.orixrentec.jp/3dprinter/service/3d_printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "（航空宇宙部品）",
+    "url": "https://www.orixrentec.jp/3dprinter/service/3d_printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部品や自動車部品といった大型造形が可能な金属3Dプリンターの販売・レンタルサービスです",
+    "url": "https://www.orixrentec.jp/3dprinter/about/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙や医療、エネルギー、自動車など多様な分野で活用が進む金属3D プリンタ",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "従来工法では難しかった形状や機能の付与、部品の一体化などが可能だが、国内では冷却水管内蔵金型の製造といったごく限られた用途でしか普及していないのが現状だ",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "装置自体が安くランニングコストも低いため、新規で金型を製作するより部品1 個当たりの費用を抑えられるケースが出てきた",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "品質とコストを両立したことで、オリックス・レンテックを通じて、日本の顧客がBLT に量産・試作を依頼する例が出始めている",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "金型業界アンケート2026【後編】",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、金型、産業用部品など幅広く対応しています",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界（乗用車、商用車、トラック、バス）建設業界、船舶、航空業界などです",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（部品単体や車体）、都市模型などお客さまのご要望に合わせて造形対応ができます",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで造形した1/8サイズのオリジナル自動車模型貸出し用サンプルもご用意しております",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界や建設業界での実績がございます",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Share store details, promotions, or brand content with your customers.",
+    "url": "https://nikkan-content-market.myshopify.com/products/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%AC%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E7%A4%BE%E9%95%B7-%E4%B8%8A%E8%B0%B7%E5%86%85%E7%A5%90%E4%BA%8C%E6%B0%8F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E7%99%BA%E3%81%A7%E4%BA%8B%E6%A5%AD%E6%8B%A1%E5%A4%A7",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器リース・レンタル会社 5選｜アローズヘルスケア コラム",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器リース・レンタル会社 5選",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "今回のコラムは医療機器関連のリースやレンタルを行っている主要な5社を紹介します",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "その内医療機器は",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "主要医療機器リース会社 5選",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "それでは主に医療機器を取り扱う主要なリース・レンタル会社を紹介します",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "業界NO.1のリース会社オリックスのグループ会社で電子計測器やICT関連機器および科学・環境分析機器、医療機器などのレンタルサービスを手掛ける",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "こちらは福岡県に本社を持ち、医師の転職や開業等のコンサルティング、および病室へのテレビのレンタルや医療機器のリースなどの医業経営のサポートを手掛けています",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "「よい医療は、よい経営から」のコンセプトのもと、コンサルティングをベースに医業経営のトータルサポートをおこなっています",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "www.sogo-medical.co.jp",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "業界大手の三菱ＨＣキャピタル株式会社のグループ会社で1970年設立の医療機器専門リース会社の老舗です",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "病院・医院・クリニックの開業はお任せください 医療と福祉の専門リース会社 株式会社日医リース",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器のご提供や土地選びなど医院開業のトータルサポートから、医院の運営や世代交代の",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器分野でも強い特色があります",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、医療機器のリースやレンタル会社について紹介しました",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   }
+  ],
+  "発言": [
+   {
+    "quote": "代表取締役社長 上谷内 祐二",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテックは、私の人生に大きな転機と成長機会を与えてくれた存在であり、今の自分をこの環境なくして語ることはできません",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "社長と経営方針",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "型技術 連載「巻頭インタビュー」",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "世界有数の数学者が語る、数学の6つの本質的概念 | テレンス・タオ",
+    "url": "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "pass": 3
+   },
+   {
+    "quote": "アーカーシュ・アンバニが語る：Jioはいかにしてインドの通信業界を変革し、デジタル接続を一変させたのか",
+    "url": "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー／オリックス・レンテック社長 上谷内祐二氏 サービス開発で事業拡大",
+    "url": "https://nikkan-content-market.myshopify.com/products/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%AC%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E7%A4%BE%E9%95%B7-%E4%B8%8A%E8%B0%B7%E5%86%85%E7%A5%90%E4%BA%8C%E6%B0%8F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E7%99%BA%E3%81%A7%E4%BA%8B%E6%A5%AD%E6%8B%A1%E5%A4%A7",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー／オリックス・レンテック社長 上谷内祐二氏 サービス開発で事業拡大の数量を減らす",
+    "url": "https://nikkan-content-market.myshopify.com/products/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%AC%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E7%A4%BE%E9%95%B7-%E4%B8%8A%E8%B0%B7%E5%86%85%E7%A5%90%E4%BA%8C%E6%B0%8F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E7%99%BA%E3%81%A7%E4%BA%8B%E6%A5%AD%E6%8B%A1%E5%A4%A7",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー／オリックス・レンテック社長 上谷内祐二氏 サービス開発で事業拡大の数量を増やす",
+    "url": "https://nikkan-content-market.myshopify.com/products/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%AC%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E7%A4%BE%E9%95%B7-%E4%B8%8A%E8%B0%B7%E5%86%85%E7%A5%90%E4%BA%8C%E6%B0%8F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E7%99%BA%E3%81%A7%E4%BA%8B%E6%A5%AD%E6%8B%A1%E5%A4%A7",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "設立（取得）",
+    "url": "https://www.orix.co.jp/grp/company/about/group/",
+    "pass": 3
+   },
+   {
+    "quote": "日本初の計測器レンタル会社としてオリエント測器レンタル株式会社設立",
+    "url": "https://www.orixrentec.jp/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "ORIX Taiwan Corporation 設立",
+    "url": "https://www.orixrentec.jp/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "ORIX Rentec (Singapore) Pte. Ltd. 設立",
+    "url": "https://www.orixrentec.jp/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "ORIX Rentec (Malaysia) Sdn. Bhd. 設立",
+    "url": "https://www.orixrentec.jp/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "ORIX Rentec (Korea) Corporation 設立",
+    "url": "https://www.orixrentec.jp/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテックは前身であるオリエント測器レンタル株式会社の設立から50周年を迎えました",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "1976年に設立されたオリックス・レンテックは、日本初の計測器レンタル会社として誕生して以来専門性を生かし、常に社会やお客さまへの貢献を追求しながら事業領域を拡大してまいりました",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "パソコンやカメラなど電子機器の開発が加速する中、日本初の計測器レンタル会社として設立",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "オリエント測器レンタル株式会社設立",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の海外シフトが進む中、ISOの取得や海外現地法人の設立を通じて国際基準に対応",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "設立50周年を迎えられましたことを謹んでお祝い申し上げます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "わが国初の計測器レンタル会社として創業以来専門性を磨かれ、日本のモノづくりの発展に貢献されてきたご功績に深く敬意を表します",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "創立50周年おめでとうございます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "創立50周年、誠におめでとうございます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "貴社創立50周年、誠におめでとうございます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "設立50周年、誠におめでとうございます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "設立50周年おめでとうございます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "創立50周年、誠におめでとうございます！",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "設立50周年を迎えられるとのこと、心からお祝い申し上げます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "創業50周年、誠におめでとうございます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "創立50周年記念、おめでとうございます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "このたびは創立50周年を迎えられましたこと、心よりお祝い申し上げます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "設立50周年おめでとうございます！！",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社も来年創業30周年を迎えますが、その大半の期間に亘り長いお付き合いをさせていただいています",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "このたびは、貴社ご設立50周年、誠におめでとうございます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "貴社設立50周年誠におめでとうございます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "このたびは創立50周年、誠におめでとうございます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "この度は、設立50周年を迎えられましたこと、心よりお祝い申し上げます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "この度は設立50周年をお迎えされたこと、おめでとうございます！",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "創立50周年の節目を迎えられましたことを、心よりお祝い申し上げます",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "本社所在地、設立年月日、代表者など、当社の概要をご紹介します",
+    "url": "https://www.orixrentec.jp/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界大手の三菱ＨＣキャピタル株式会社のグループ会社で1970年設立の医療機器専門リース会社の老舗です",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 会社情報 | ORIX Rentec Corporation — 会社概要 - 会社情報 | ORIX Rentec Corporation オリックス・レンテック https://www.orixrentec.jp > company > outline",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社沿革 - 会社情報 | ORIX Rentec Corporation — 会社沿革 - 会社情報 | ORIX Rentec Corporation オリックス・レンテック https://www.orixrentec.jp > company > history",
+    "url": "https://www.orixrentec.jp/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス ・ レンテック 50周年記念サイト | ORIX Rentec ... — オリックス ・ レンテック 50周年記念サイト | ORIX Rentec ... オリックス・レンテック https://www.orixrentec.jp > company",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】 オリックス ・ レンテック 株式会社 計測器・測定器 ... — 【公式】 オリックス ・ レンテック 株式会社 計測器・測定器 ... オリックス・レンテック https://www.orixrentec.jp",
+    "url": "https://www.orixrentec.jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | ORIX Rentec Corporation - オリックス・レンテック — 会社情報 | ORIX Rentec Corporation - オリックス・レンテック オリックス・レンテック https://www.orixrentec.jp > company",
+    "url": "https://www.orixrentec.jp/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス ・ レンテック の業績・売上・事業の将来性と成長性 ... — オリックス ・ レンテック の業績・売上・事業の将来性と成長性 ... 転職会議 https://jobtalk.jp > ... > オリックス・レンテック株式会社",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス ・ レンテック の 新卒採用・就職・企業情報 - 就活会議 — オリックス ・ レンテック の 新卒採用・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > その他業界の企業一覧",
+    "url": "https://syukatsu-kaigi.jp/companies/104573",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス ・ レンテック (株)の会社概要 | マイナビ2028 — オリックス ・ レンテック (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp80283 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp80283/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス ・ レンテック の 3Dプリンター サービス — オリックス ・ レンテック の 3Dプリンター サービス オリックス・レンテック https://www.orixrentec.jp > ...",
+    "url": "https://www.orixrentec.jp/3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属 の 3Dプリンター 出力サービス - オリックス・レンテック — 金属 の 3Dプリンター 出力サービス - オリックス・レンテック オリックス・レンテック https://www.orixrentec.jp > service > 3d_printing",
+    "url": "https://www.orixrentec.jp/3dprinter/service/3d_printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 事業概要 - オリックス・レンテック — 3Dプリンター 事業概要 - オリックス・レンテック オリックス・レンテック https://www.orixrentec.jp > about",
+    "url": "https://www.orixrentec.jp/3dprinter/about/",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス ・ レンテック 、 金属3D プリンタ での部品量産を提案 — オリックス ・ レンテック 、 金属3D プリンタ での部品量産を提案 工場マガジンラック https://kojomag.nikkan.co.jp > kikai",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス ・ レンテック の3Dプリンターサービス — オリックス ・ レンテック の3Dプリンターサービス オリックス・レンテック https://www.orixrentec.jp > ...",
+    "url": "https://www.orixrentec.jp/3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属 の3Dプリンター出力サービス - オリックス・レンテック — 金属 の3Dプリンター出力サービス - オリックス・レンテック オリックス・レンテック https://www.orixrentec.jp > service",
+    "url": "https://www.orixrentec.jp/3dprinter/service/3d_printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス ・ レンテック 、 金属 3D プリンタでの部品量産を提案 — オリックス ・ レンテック 、 金属 3D プリンタでの部品量産を提案 工場マガジンラック https://kojomag.nikkan.co.jp > kikai",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "講演会「 オリックス ・ レンテック 大型 金属 3Dプリンター ... — 講演会「 オリックス ・ レンテック 大型 金属 3Dプリンター ... 公益財団法人 長野県産業振興機構 https://www.nice-o.or.jp > info > info-65280",
+    "url": "https://www.nice-o.or.jp/info/info-65280/",
+    "pass": 3
+   },
+   {
+    "quote": "【 オリックス ・ レンテック × Xi'an Bright Laser Technologies ... — 【 オリックス ・ レンテック × Xi'an Bright Laser Technologies ... Rentec Insight https://go.orixrentec.jp > web_seminar",
+    "url": "https://go.orixrentec.jp/web_seminar/3dprinter/0066/",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 | オリックス ・ レンテック の3Dプリンター事業 — よくあるご質問 | オリックス ・ レンテック の3Dプリンター事業 オリックス・レンテック https://www.orixrentec.jp > faq",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "(1) オリックス ・ レンテック （TCTJapan2026） - YouTube — (1) オリックス ・ レンテック （TCTJapan2026） - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス ・ レンテック 株式会社 - ShareLab（シェアラボ） — オリックス ・ レンテック 株式会社 - ShareLab（シェアラボ） sharelab.jp https://sharelab.jp > ... > オリックス・レンテック株式会社",
+    "url": "https://sharelab.jp/company/orixrentec/",
+    "pass": 3
+   },
+   {
+    "quote": "レンタル料金 | オリックス・レンテック — オリックスレンテックのレンタル料金の一覧です。電子計測器・測定器、科学・環境分析機器、医療機器、パソコン、タブレット、サーバーなどのレンタルに関してお客さまよりいただくご質問を掲載しています。",
+    "url": "https://faq.orixrentec.jp/kb/レンタルに関するご質問/レンタル料金-7380571/",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック | 法人向けパソコンレンタル | おすすめデバ... — PC、モニター、タブレットなどのデバイス導入をお考えのお客さまに、おすすめのデバイスをご紹介。業界トップクラスの保有台数と豊富なラインアップを持つオリックス・レンテックなら、突発の対応から長期的な業務用まで様々な活用シーンに対応できます。",
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック | 抵抗器 - 計測器・測定器・分析機器のレン... — オリックス・レンテックの計測器／分析機器のレンタルサービスのご紹介。電子計測器、科学・環境分析機器、ロジック開発機器などをレンタルでご利用いただけます。ご興味をお持ちの方はぜひ、オリックス・レンテックにご相談ください。",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】オリックス・レンテック -公式オンラインショップ- — オリックス・レンテックの高品質なPC、タブレット、 測定器、ドローンの公式オンラインショップです。中古パソコン・中古タブレット・中古測定器のご購入はこちらから！",
+    "url": "https://ec.orixrentec.jp/shop/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック (株)の会社概要 | マイナビ2028 — Oct 27, 2026 · オリックス・レンテック(株)の会社概要ページです。マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。",
+    "url": "https://job.mynavi.jp/28/pc/search/corp80283/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー／オリックス・レンテック社長の上谷内祐二氏 サービス開... — Mar 28, 2025 · オリックス・レンテック（東京都品川区）はICT機器や計測器のレンタルを主力とする。事業拡大に向け、3次元（3D）プリンターやロボットなど ...",
+    "url": "https://www.nikkan.co.jp/articles/view/00744355",
+    "pass": 3
+   },
+   {
+    "quote": "経営ひと言／オリックス・レンテックの上谷内祐二社長「商機迎え入れ... — Jan 29, 2026 · 「日本のモノづくりが転換期を迎えている。2026年は『迎』の文字で挑みたい」と抱負を語るのは、オリックス・レンテック（東京都品川区）社長 ...",
+    "url": "https://www.nikkan.co.jp/articles/view/00772165",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー／オリックス・レンテック社長 上谷内祐二氏 サービス開... — 日刊工業新聞が運営するコンテンツマーケット「TREK!」 「TREK!」では、日刊工業新聞を中心に、新聞記事や雑誌記事、画像・図版、セミナー動画などを販売しています。検索からカード決済、閲覧まで一貫して行えることが特徴です。すぐに必要なコンテンツを素早く入手でき、スキルアップや ...",
+    "url": "https://nikkan-content-market.myshopify.com/products/インタビュー-オリックス-レンテック社長-上谷内祐二氏-サービス開発で事業拡大",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック50周年／上谷内祐二社長／顧客に寄り添い機器... — Sep 15, 2026 · オリックス・レンテック50周年／上谷内祐二社長／顧客に寄り添い機器提供／金属3D注視 新領域も開拓 オリックスグループで計測機器や情報通信機器などのレンタル事業を手掛けるオリックス・レンテックは今期で設立から50周年の節目を迎えた。",
+    "url": "https://www.japanmetal.com/news-to20260915150796.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営ひと言／オリックス・レンテック・上谷内祐二社長「商機迎え入れ... — 日刊工業新聞が運営するコンテンツマーケット「TREK!」 「TREK!」では、日刊工業新聞を中心に、新聞記事や雑誌記事、画像・図版、セミナー動画などを販売しています。検索からカード決済、閲覧まで一貫して行えることが特徴です。すぐに必要なコンテンツを素早く入手でき、スキルアップや ...",
+    "url": "https://nikkan-content-market.myshopify.com/products/経営ひと言-オリックス-レンテック-上谷内祐二社長-商機迎え入れる",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック株式会社（東京都）の会社概要・売上・役員 | ... — 〒141-0001 東京都品川区に本社を置くオリックス・レンテック株式会社の企業情報。オリックス・レンテック株式会社は、1976年に日本初の計測器レンタル会社として設立された、オリックスグループの一員です。不動産 (物品賃貸・リース)、1976年設立、社会保険被保険者数1,258名。代表者 上谷内 ...",
+    "url": "https://compalyze.co.jp/company/3020001090176",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック | 会社情報 | ORIX Rentec Corporation — オリックス・レンテックの企業情報のページです。会社概要、企業理念、採用情報などをご紹介します。",
+    "url": "https://www.orixrentec.jp/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック | 会社概要 - 会社情報 | ORIX Rentec Corpor... — 1976年9月 代表者 代表取締役社長 上谷内 祐二 関係会社 淀川変圧器株式会社、株式会社レックス 株主 オリックス株式会社 営業拠点 国内主要都市 ※海外についてはオリックスグループの現地法人を通じてレンタルサービスを行っています。 事業内容 ...",
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック株式会社の会社情報・決算公告 | 官報決算デー... — Jul 6, 2026 · オリックス・レンテック株式会社の会社情報を掲載しています。社会保険被保険者数は1,256人です。親会社はオリックス株式会社で、グループ内の子会社68社も確認できます。所在地は東京都品川区北品川5丁目5番15号大崎ブライトコアです。",
+    "url": "https://catr.jp/companies/612b0/65526",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック株式会社 の企業情報 | バフェット・コード — オリックス・レンテック株式会社は、企業の研究開発部門や製造現場、IT部門、医療機関、航空宇宙や再生可能エネルギー分野などを顧客に、計測器・測定器・分析機器、ICT機器（PC、サーバー、ネットワーク）、ドローン、ロボット、医療機器、変圧器など幅広いハイテク機器のレンタルを ...",
+    "url": "https://www.buffett-code.com/company/0bxhr2lrh7/",
+    "pass": 3
+   }
+  ],
+  "採用・人数": [
+   {
+    "quote": "オリックス・レンテック株式会社に社名変更",
+    "url": "https://www.orixrentec.jp/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "「持っていなくても挑戦できる」という価値を提示し、技術者の研究開発を支える仕組みを社会に根づかせた",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様から頂戴した名刺に設立50周年、100周年と記されているのを見て、レンテックもまだまだと思っておりましたが、半世紀の歴史を刻む事ができ感慨無量の思いです",
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "pass": 3
+   },
+   {
+    "quote": "研究・開発（医薬）,臨床開発(CRA・DM・PMS等),生産技術（医薬）,薬事申請,生産管理・品質管理(医薬),テクニカルサポート（医薬）,その他の医薬・医療機器関連職、基礎・応用研究(食品・化粧品),製品開発(食品・化粧品),生産技術・生産管理（食品・化粧品）,品質管理・品質保証（食品・化粧品）,研究開発（食品・化粧品）,セールスエンジニア・テクニカルサポート（食品・化粧品）,その他の食品・化粧品関連職、基礎・応用研究（素材・化成品）,製品開発（素材・化成品）,生産技術・生産管理（素材・化成品）,品質管理・品質保証（素材・化成品）,セールスエンジニア・テクニカルサポート（素材・化成品）,その他の素材・化成品関連職",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "ITエンジニアの転職なら転職ドラフト",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "人事・採用担当者の方はこちら",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "熟練の技術者が造形します",
+    "url": "https://www.orixrentec.jp/3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "●リバースエンジニアリング（樹脂）",
+    "url": "https://www.orixrentec.jp/3dprinter/service/3d_printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "専任の技術者の助言を受け、ユーザー自ら持ち込んだ粉末材料を使って造形し、それぞれの性能を比べることが可能だ",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "プレス技術 連載「新人技術者のためのものづくり現場の基礎知識」",
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "pass": 3
+   },
+   {
+    "quote": "1～3名までとなります",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "当社技術者立ち会いの下、ソフトウエアや装置を全てお客さまで操作いただくことが可能です",
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "【オリックスの正体】名前は知っている／でも何の会社か分からない／成長戦略 ORIX Group Growth Strategy 2035とは",
+    "url": "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "pass": 3
+   },
+   {
+    "quote": "【非エンジニアのための「実践AI開発術」：完成までの11ステップ】ソロプレナーとは／月数十億円を稼ぐ／YouTuberと重なる4つの構造／自分で作る3つのメリット／UXの磨き方／セキュリティ対策",
+    "url": "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー名（昇順）",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー名（降順）",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー名で絞り込む",
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "pass": 3
+   },
+   {
+    "quote": "新卒・キャリア採用情報をご案内します",
+    "url": "https://www.orixrentec.jp/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア採用",
+    "url": "https://note.com/exportcontrol/n/nafa09acf626d",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要、企業理念、採用情報などをご紹介します",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   }
+  ],
+  "売上・受託売上": [
+   {
+    "quote": "オリックス・レンテックの業績/売上/事業の将来性と成長性(全10件)【転職会議】",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "業績・売上・事業の将来性と成長性の口コミ",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "業績・売上・事業の将来性と成長性の口コミ（10件）",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "IT関連のレンタル事業に関しては機器の低価格化により売上がのびなやんでおり、厳しい状況だと考えられる",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "業績・売上・事業の将来性と成長性について、現社員・元社員による実体験にもとづく、「成長・将来性」に関する口コミを確認できます",
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "pass": 3
+   },
+   {
+    "quote": "【非エンジニアのための「実践AI開発術」：完成までの11ステップ】ソロプレナーとは／月数十億円を稼ぐ／YouTuberと重なる4つの構造／自分で作る3つのメリット／UXの磨き方／セキュリティ対策",
+    "url": "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "pass": 3
+   },
+   {
+    "quote": "リース取扱⾼は 4 兆 6,299 億円、前年度⽐ 7.4％増、",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "リース設備投資額は 4兆 3,243 億円、前年度⽐ 7.2％増、",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "22年度：2,227億円(前年比：110％）",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "23年度：2,387億円(前年比：107％）",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[転職情報]オリックスレンテック 正社員 勤務地：品川区大崎駅 ソース... Aug 25, 2025 · [転職情報]オリックスレンテック 正社員 勤務地：品川区大崎駅 ソース：求人ボックス 精密機器の輸出に関する法令遵守とリスク管理 必須条件：輸出管理業務の実務経験3年以上。 メーカー、商社、代理店などでの輸出管理業務のご経験。",
+    "url": "https://note.com/exportcontrol/n/nafa09acf626d",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器リース・レンタル会社 5選｜アローズヘルスケア コラム Sep 9, 2024 · 主要医療機器リース会社 5選 それでは主に医療機器を取り扱う主要なリース・レンタル会社を紹介します。 オリックス・レンテック株式会社 業界NO.1のリース会社オリックスのグループ会社で電子計測器やICT関連機器および科学・環境分析機器、医療機器などのレンタルサービスを手掛ける ...",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[転職情報]オリックスレンテック 正社員 勤務地：品川区大崎駅 ソース：求…｜ExportControl",
+    "url": "https://note.com/exportcontrol/n/nafa09acf626d",
+    "pass": 3
+   },
+   {
+    "quote": "[転職情報]オリックスレンテック 正社員 勤務地：品川区大崎駅 ソース：求…",
+    "url": "https://note.com/exportcontrol/n/nafa09acf626d",
+    "pass": 3
+   },
+   {
+    "quote": "[転職情報]オリックスレンテック 正社員 勤務地：品川区大崎駅 ソース：求人ボックス 精密機器の輸出に関する法令遵守とリスク管理 必須条件：輸出管理業務の実務経験3年以上。メーカー、商社、代理店などでの輸出管理業務のご経験。外為法、EARなどの輸出管理に関する法令の理解がある方",
+    "url": "https://note.com/exportcontrol/n/nafa09acf626d",
+    "pass": 3
+   },
+   {
+    "quote": "企業Aを希望退職後、転職、企業Bで定年、雇用延長後に早期退職（FIRE）",
+    "url": "https://note.com/exportcontrol/n/nafa09acf626d",
+    "pass": 3
+   },
+   {
+    "quote": "当初はIT機器開発・設計、2009年から安全保障輸出管理、管理職",
+    "url": "https://note.com/exportcontrol/n/nafa09acf626d",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器リース・レンタル会社 5選｜アローズヘルスケア コラム",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "今回のコラムは医療機器関連のリースやレンタルを行っている主要な5社を紹介します。",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "リース契約とは、リース会社が機械や設備などの有形資産を購入し、一定期間にわたって利用者に貸し出す契約形態です。半年から10年程度といった中長期で物件を借りることができ、利用者はリース料を支払うことで対象の資産を使用できます。",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "②リース会社が資産の保険や固定資産税を負担する",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "③リース契約期間中は基本的に中途解約ができない",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "④リース物件の保守・修繕は利用者が行うのが一般的",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "④リース契約と似た契約にレンタル契約がありますが、レンタル契約は短期間の使用に適しているのに対し、リース契約は数ヶ月～年単位の長期契約が一般的です。また、リース契約では借り主を特定の相手とするため、レンタル契約と区別されます。",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   },
+   {
+    "quote": "リースとは、リース会社が新たに物件を購入し、リース会社に料金を支払いながら利用できるサービスです。 レンタルとは違い、新品の物件を利用でき、費用も抑えられるのがメリットになります。 一方、レンタルは、レンタル会社の所有する物件を借りるサービスです。",
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "頻尿（29卒） on X: \"※オリックス子会社のオリックスレンテックはロケ... 頻尿（29卒） on X: \"※オリックス子会社のオリックスレンテックはロケットやミサイルの計測機器を貸し出しており、防衛省・防衛装備庁との取引履歴もあります。 ※つまり中川選手や廣岡選手の年俸も、一部は国の防衛関連費から賄われています。",
+    "url": "https://x.com/ohmika00/status/2116830881126244709",
+    "pass": 3
+   },
+   {
+    "quote": "【先着順＆2時間半で早期選考】 オリックス・レンテック *本イベント... 【先着順＆2時間半で早期選考】 オリックス・レンテック *本イベントにご参加いただいた方には、技術コースの早期選考をご案内いたします。 *と明記あり。 1月に内定出ます！ 技術職ですが文理不問なので文系でも出せます。 すぐ埋まると思うので急ぎで！",
+    "url": "https://x.com/syukawa2626/status/2099836282201604186",
+    "pass": 3
+   },
+   {
+    "quote": "就活選考白書@28卒 on X: \"【高年収と専門商社機能を兼ね備えたレンタ... 【高年収と専門商社機能を兼ね備えたレンタル企業】 オリックス・レンテック 【総合職（全国型・地域限定型）】 初任給 全国型：300,000円 地域限定型：285,000円 家賃補助 借上住宅あり／住宅手当あり 平均年収 976万円（2025年3月期実績） 勤務地 全国各事業所（地域限定型は転居を伴わない範囲 ...",
+    "url": "https://x.com/taigu_hakusho/status/2053757454274666795",
+    "pass": 3
+   },
+   {
+    "quote": "頻尿（29卒） on X: \"※オリックス子会社のオリックスレンテックはロケ... 3 days ago · 頻尿（29卒） on X: \"※オリックス子会社のオリックスレンテックはロケットやミサイルの計測機器を貸し出しており、防衛省・防衛装備庁との取引履歴もあります。 ※つまり中川選手や廣岡選手の年俸も、一部は国の防衛関連費から賄われています。",
+    "url": "https://x.com/ohmika00/status/2116830881126244709",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "オリックス・レンテック（株） | LinkedIn オリックス・レンテック（株） 金融サービス 品川区、東京都 32人のフォロワー",
+    "url": "https://jp.linkedin.com/company/オリックス・レンテック（株）",
+    "pass": 3
+   },
+   {
+    "quote": "北上 潤 - オリックス・レンテック | LinkedIn10 \"Shigeru Noguchi\" profiles | LinkedIn10+ \"服部太\" profiles | LinkedIn三由 豊 - オリックス･レンテック株式会社 - 担当部長 | LinkedIn池田 悠人 - オリックス・レンテック株式会社 営業推進本部 営業推進...井上 博文 - オリックス・レンテック - マネジャー | LinkedIn オリックス・レンテック · 測定器の輸入商社で長年経験を積んできました。通信分野、光や5G関連測定器の取り扱いがメインです。 お客様への提案、メーカーとの交渉、またお客様が最先端の機器開発に携わっている方々なので、業界の専門的な知識が必要な業界で仕事をしてきております ... 10 Results for \"Shigeru Noguchi\" SHIGERU NOGUC",
+    "url": "https://jp.linkedin.com/in/潤-北上-404baab6",
+    "pass": 3
+   },
+   {
+    "quote": "10 \"Shigeru Noguchi\" profiles | LinkedIn 10 Results for \"Shigeru Noguchi\" SHIGERU NOGUCHI DGM of ORIX Rentec Corporation Tokyo, Japan オリックス・レンテック（株）, +1 more",
+    "url": "https://www.linkedin.com/pub/dir/Shigeru/Noguchi",
+    "pass": 3
+   },
+   {
+    "quote": "10+ \"服部太\" profiles | LinkedIn オリックス・レンテック（株）の営業担当者 Kyoto オリックス・レンテック（株）",
+    "url": "https://www.linkedin.com/pub/dir/太/服部/jp-0-Japan",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "オリックス・レンテック株式会社 - Facebook オリックス・レンテック株式会社",
+    "url": "https://www.facebook.com/オリックスレンテック株式会社-436979499662091/",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック株式会社 | Facebook Dec 13, 2013 · Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/オリックスレンテック株式会社-190571101134847/",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック - Facebook オリックス・レンテック",
+    "url": "https://www.facebook.com/pages/オリックスレンテック/145603792126707/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.orix-rentec.co.jp/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orix.co.jp/grp/company/about/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orix.co.jp/grp/company/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orixrentec.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orixrentec.jp/company/50th-anniversary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orix.co.jp/grp/pdf/company/ir/library/annual_report/AR2022_05J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.orixrentec.jp/3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orixrentec.jp/3dprinter/service/3d_printing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orixrentec.jp/3dprinter/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orixrentec.jp/3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orixrentec.jp/3dprinter/service/3d_printing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kojomag.nikkan.co.jp/kikai/195",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orixrentec.jp/3dprinter/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://faq.orixrentec.jp/kb/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E6%96%99%E9%87%91-7380571/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orixrentec.jp/pc_rental/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/00744355",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/00772165",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nikkan-content-market.myshopify.com/products/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%AC%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E7%A4%BE%E9%95%B7-%E4%B8%8A%E8%B0%B7%E5%86%85%E7%A5%90%E4%BA%8C%E6%B0%8F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E7%99%BA%E3%81%A7%E4%BA%8B%E6%A5%AD%E6%8B%A1%E5%A4%A7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/3020001090176",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orixrentec.jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orixrentec.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/exportcontrol/n/nafa09acf626d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/arrows_column/n/nbae6ef93861d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ohmika00/status/2116830881126244709",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/syukawa2626/status/2099836282201604186",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/taigu_hakusho/status/2053757454274666795",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/オリックス・レンテック（株）",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/潤-北上-404baab6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/Shigeru/Noguchi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/太/服部/jp-0-Japan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/オリックスレンテック株式会社-436979499662091/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/オリックスレンテック株式会社-190571101134847/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/オリックスレンテック/145603792126707/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ohmika00/status/2116830881126244709",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "オリックス・レンテック 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.orixrentec.jp/company/outline.html",
+    "https://www.orix.co.jp/grp/company/about/group/",
+    "https://www.orix.co.jp/grp/company/ir/library/",
+    "https://www.orix.co.jp/grp/company/ir/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BC%81%E6%A5%AD)",
+    "https://www.orixrentec.jp/company/recruit/introduction/about-us.html",
+    "https://www.orix.co.jp/grp/company/about/summary/",
+    "https://kabutan.jp/stock/holder?code=8591",
+    "https://www.orixrentec.jp/company/sustainability/index.html"
+   ]
+  },
+  {
+   "query": "オリックス・レンテック 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.orixrentec.jp/company/outline.html",
+    "https://www.orixrentec.jp/company/history.html",
+    "https://www.orixrentec.jp/company/50th-anniversary/",
+    "https://www.orixrentec.jp/index.html",
+    "https://www.orixrentec.jp/company/index.html",
+    "https://digitalpr.jp/r/131857",
+    "https://sharelab.jp/company/orixrentec/",
+    "https://www.orixrentec.jp/company/recruit/index.html",
+    "https://job.mynavi.jp/28/pc/search/corp80283/outline.html",
+    "https://ja.wikipedia.org/wiki/オリックス_(企業)"
+   ]
+  },
+  {
+   "query": "オリックス・レンテック 売上高 OR 年商",
+   "results": [
+    "https://jobtalk.jp/companies/51396/answers?question_codes=sales",
+    "https://www.orixrentec.jp/company/outline.html",
+    "https://www.orix.co.jp/grp/pdf/company/ir/library/annual_report/AR2022_05J.pdf",
+    "https://syukatsu-kaigi.jp/companies/104573",
+    "https://job.mynavi.jp/28/pc/search/corp80283/outline.html",
+    "https://bunnabi.jp/2027/s/cn_data.php?ccd2=73993",
+    "https://www.orixrentec.jp/company/recruit/introduction/about-us.html",
+    "https://compalyze.co.jp/company/3020001090176"
+   ]
+  },
+  {
+   "query": "オリックス・レンテック 金属3Dプリンター 受託 売上",
+   "results": [
+    "https://www.orixrentec.jp/3dprinter/",
+    "https://www.orixrentec.jp/3dprinter/service/3d_printing.html",
+    "https://www.orixrentec.jp/3dprinter/about/",
+    "https://kojomag.nikkan.co.jp/kikai/195",
+    "https://www.orix.co.jp/grp/pdf/newsroom/newsrelease/160513_ORIXG.pdf",
+    "https://www.orixrentec.jp/3dprinter/service/",
+    "https://www.orixrentec.jp/file.jsp?id=3559",
+    "https://www.orixrentec.jp/3dprinter/file/3Dprinter_catalog.pdf",
+    "https://dempa-digital.com/article/702030",
+    "https://hikaku-hub.com/metal-3d-printing/list/orix-rentec/"
+   ]
+  },
+  {
+   "query": "オリックス・レンテック 金属積層造形 台数 導入",
+   "results": [
+    "https://www.orixrentec.jp/3dprinter/",
+    "https://www.orixrentec.jp/3dprinter/service/3d_printing.html",
+    "https://kojomag.nikkan.co.jp/kikai/195",
+    "https://www.nice-o.or.jp/info/info-65280/",
+    "https://go.orixrentec.jp/web_seminar/3dprinter/0066/",
+    "https://www.orixrentec.jp/3dprinter/about/",
+    "https://www.intermold.jp/2025/outline/search_2025_detail/404/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/orixrentec-metalx-211210/",
+    "https://www.youtube.com/watch?v=Q0il0uoW-Xk",
+    "https://hikaku-hub.com/metal-3d-printing/list/orix-rentec/"
+   ]
+  },
+  {
+   "query": "オリックス・レンテック 受注 量産 大型",
+   "results": [
+    "https://www.orixrentec.jp/3dprinter/faq/",
+    "https://www.orixrentec.jp/company/outline.html",
+    "https://www.youtube.com/watch?v=ome7jdrk6ag",
+    "https://www.orixrentec.jp/3dprinter/",
+    "https://sharelab.jp/company/orixrentec/",
+    "https://www.orixrentec.jp/company/recruit/introduction/about-us.html",
+    "https://www.orixrentec.jp/download/manufacturing/",
+    "https://www.orix.co.jp/grp/company/newsroom/newsrelease/221125_ORIXJ.html",
+    "https://www.orixrentec.jp/strength/index.html",
+    "https://www.orixrentec.jp/company/index.html"
+   ]
+  },
+  {
+   "query": "オリックス・レンテック 料金 OR 見積 OR 単価",
+   "results": [
+    "https://faq.orixrentec.jp/kb/レンタルに関するご質問/レンタル料金-7380571/",
+    "https://www.orixrentec.jp/pc_rental/",
+    "https://catalog.orixrentec.jp/measuring_instrument_rental/list.html?category=26",
+    "https://ec.orixrentec.jp/shop/default.aspx",
+    "https://job.mynavi.jp/28/pc/search/corp80283/outline.html",
+    "https://www.orixrentec.jp/rental/about_use/charge.html",
+    "https://faq.orixrentec.jp/kb/article/q-レンタル料金の算出方法を教えてください。/",
+    "https://catalog.orixrentec.jp/measuring_instrument_rental/search.html?param=コンテナレンタル+料金表",
+    "https://www.orixrentec.jp/compare_list/projection/index.html",
+    "https://catalog.orixrentec.jp/compare_list.html"
+   ]
+  },
+  {
+   "query": "オリックス・レンテック 社長 インタビュー 日刊工業新聞",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/00744355",
+    "https://www.nikkan.co.jp/articles/view/00772165",
+    "https://nikkan-content-market.myshopify.com/products/インタビュー-オリックス-レンテック社長-上谷内祐二氏-サービス開発で事業拡大",
+    "https://www.japanmetal.com/news-to20260915150796.html",
+    "https://nikkan-content-market.myshopify.com/products/経営ひと言-オリックス-レンテック-上谷内祐二社長-商機迎え入れる",
+    "https://www.nikkei.com/article/DGXZQODZ00020_Z01C24A2000000/",
+    "https://newswitch.jp/keyword/detail/17684"
+   ]
+  },
+  {
+   "query": "オリックス・レンテック revenue employees",
+   "results": [
+    "https://compalyze.co.jp/company/3020001090176",
+    "https://www.orixrentec.jp/company/index.html",
+    "https://www.orixrentec.jp/company/outline.html",
+    "https://catr.jp/companies/612b0/65526",
+    "https://www.buffett-code.com/company/0bxhr2lrh7/",
+    "https://bunnabi.jp/2027/cn_data.php?ccd2=73993",
+    "https://job.mynavi.jp/28/pc/search/corp80283/outline.html"
+   ]
+  },
+  {
+   "query": "site:note.com オリックス・レンテック",
+   "results": [
+    "https://note.com/exportcontrol/n/nafa09acf626d",
+    "https://note.com/manabel_syukatu/n/n0a3f760e1f4d",
+    "https://note.com/biogastech/n/n5f4cfba13cbf",
+    "https://note.com/arrows_column/n/nbae6ef93861d",
+    "https://note.com/kazunari_hamaue/n/n3349e2a5c317",
+    "https://note.com/issing/n/n744ca16e553e",
+    "https://note.com/daikidomon/n/n238268ba8967"
+   ]
+  },
+  {
+   "query": "site:x.com オリックス・レンテック",
+   "results": [
+    "https://x.com/ohmika00/status/2116830881126244709",
+    "https://x.com/syukawa2626/status/2099836282201604186",
+    "https://x.com/orix_rentacar",
+    "https://x.com/taigu_hakusho/status/2053757454274666795",
+    "https://x.com/ohmika00/status/2116831089411166649",
+    "https://x.com/hochi_orix",
+    "https://x.com/wbs_tvtokyo/status/826392783132909568"
+   ]
+  },
+  {
+   "query": "site:linkedin.com オリックス・レンテック",
+   "results": [
+    "https://jp.linkedin.com/company/オリックス・レンテック（株）",
+    "https://jp.linkedin.com/in/潤-北上-404baab6",
+    "https://www.linkedin.com/pub/dir/Shigeru/Noguchi",
+    "https://www.linkedin.com/pub/dir/太/服部/jp-0-Japan",
+    "https://jp.linkedin.com/in/豊-三由-6bb3a789",
+    "https://jp.linkedin.com/in/悠人-池田-897b42236",
+    "https://jp.linkedin.com/in/博文-井上-a42185bb"
+   ]
+  },
+  {
+   "query": "site:facebook.com オリックス・レンテック",
+   "results": [
+    "https://www.facebook.com/オリックスレンテック株式会社-436979499662091/",
+    "https://www.facebook.com/オリックスレンテック株式会社-190571101134847/",
+    "https://www.facebook.com/pages/オリックスレンテック/145603792126707/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/RoppongiHills.official/posts/hills-life-daily人手不足の解消が期待される次世代ロボット事業に本格導入する前にお試しができるロボットのレンタルも登場したそれを手がけるオリックス/1786223084781884/",
+    "https://www.facebook.com/p/Lentec-Co-Ltd-61560468917512/",
+    "https://www.facebook.com/Ginrou1/about/"
+   ]
+  },
+  {
+   "query": "オリックス・レンテック note 社長",
+   "results": [
+    "https://www.orix.co.jp/grp/company/about/officer/y_kamiyauchi.html",
+    "https://www.orixrentec.jp/company/outline.html",
+    "https://www.japanmetal.com/news-to20260915150796.html",
+    "https://www.orixrentec.jp/company/index.html",
+    "https://www.nikkei.com/article/DGXZQODZ00020_Z01C24A2000000/",
+    "https://www.orix.co.jp/grp/company/about/officer/",
+    "https://www.netdenjd.com/archives/626898"
+   ]
+  },
+  {
+   "query": "オリックス・レンテック X 投稿",
+   "results": [
+    "https://x.com/ohmika00/status/2116830881126244709",
+    "https://x.com/orix_rentacar",
+    "https://www.orixrentec.jp/company/index.html",
+    "https://www.orixrentec.jp/company/outline.html",
+    "https://en-hyouban.com/company/00001268813/",
+    "https://catalog.orixrentec.jp/",
+    "https://fitly.pics/blog/x-twitter-post-tips"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "認証": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "株主構成": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）"
+ }
+}

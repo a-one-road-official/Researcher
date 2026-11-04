@@ -1,0 +1,1494 @@
+{
+ "name": "海外の金属AM受託会社の売上規模",
+ "en": "metal additive manufacturing service bureau revenue",
+ "aliases": [
+  "metal 3D printing service provider revenue",
+  "AM service bureau market size",
+  "contract manufacturer additive revenue"
+ ],
+ "context": "海外・売上上限",
+ "kind": "market",
+ "researched_at": "2026-11-04T10:34:33.400162+00:00",
+ "evidence": {
+  "受託会社の売上": [
+   {
+    "quote": "Metal 3D Printing Services Bureau Revenue to Reach US $16.1 Billion by 2031 According to New Report from SmarTech Analysis",
+    "url": "https://www.prnewswire.com/news-releases/metal-3d-printing-services-bureau-revenue-to-reach-us-16-1-billion-by-2031-according-to-new-report-from-smartech-analysis-301843106.html",
+    "pass": 3
+   },
+   {
+    "quote": "Since 2013, SmarTech Analysis has published reports on all the important revenue opportunities in the 3D printing/additive manufacturing sector and is considered the leading industry analyst firm providing coverage of this sector. SmarTech analysis and data drives strategy development in the additive industry and has been adopted and presented by many of the industry's largest firms.",
+    "url": "https://www.prnewswire.com/news-releases/metal-3d-printing-services-bureau-revenue-to-reach-us-16-1-billion-by-2031-according-to-new-report-from-smartech-analysis-301843106.html",
+    "pass": 3
+   },
+   {
+    "quote": "growing independently of system sales. Stratasys reported record consumables revenue of USD 66.3 million in the second quarter of 2026 within total revenue of USD 137.6 million, while products revenue fell 2.2% to USD 92.7 million.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "general industrial demand. 3D Systems reported second-quarter 2026 Healthcare Solutions revenue of USD 48.1 million, up 6.8%, against Industrial Solutions revenue of USD 46.5 million, down 6.7%, with Med Tech growing over 20% across the first half.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "due to the concentration of demand among buyers who purchase finished parts rather than capital equipment, and to the breadth of work attached to each build, with Stratasys services revenue rising 3.6% to USD 44.9 million in the second quarter of 2026 and Materialise generating EUR 47,067 thousand of Manufacturing revenue and EUR 70,039 thousand of Medical revenue across the first half.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "attributed to feedstock consumption that compounds with the installed base rather than with new system sales, evidenced by record Stratasys consumables revenue of USD 66.3 million driven by manufacturing materials in a quarter when products revenue fell 2.2% to USD 92.7 million.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "due to the breadth of engineering organisations that use additive manufacturing without releasing printed part numbers, and to service bureau demand remaining prototyping-led, with Protolabs three-dimensional printing revenue of USD 20.7 million in the second quarter of 2026 sitting alongside Injection Molding of USD 53.6 million and CNC Machining of USD 70.4 million.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "The top 10 metal AM companies by revenue | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue.md",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "The top 10 metal AM companies by revenue",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "If we combine revenues from all core AM segments (hardware, materials, and services), all of the top 10 metal AM companies by revenue in 2023 are hardware manufacturers. This is one of the key findings from",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Janet Dickinson, Chief Revenue & Information Officer, Endeavor 3D",
+    "url": "https://additivemanufacturing.com/2023/03/13/how-to-start-a-3d-printing-service-bureau/",
+    "pass": 3
+   },
+   {
+    "quote": "revenue growth in 2025, making it the fastest-growing region in the metal AM market.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "AM revenues reached USD 24.2 billion in 2025",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Capital hardware sales from OEMs including EOS GmbH, TRUMPF, and GE Additive driving initial market revenue; Wohlers 2026 signals system sales rebounding at 3.6% as services outpace hardware",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Slow System Sales Rebound Signals Metal AM Market Maturation in 2025",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems revenue reached USD 440.1 million",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Globally, an estimated $642.6 million in revenue was collected for additive manufactured",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "revenue was generated in the primary additive manufacturing market in 2011. This",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SmarTech Publishing, the leading industry analyst firm covering the 3D printing market, has just issued a new study of the metal additive manufacturing service bureau market. The report is titled, “Metal 3D Printing Services: Service Revenues, Printer Purchases and Materials Consumption – 2018 to 2027”",
+    "url": "https://additivemanufacturingresearch.com/news/3d-printing-service-bureaus/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal is capturing a lot of the attention in the market as companies look to leverage the benefits and opportunities it provides. As polymer-based 3D printing has moved inside of end user companies, service bureaus are transitioning to metal as the next iteration of their businesses. SmarTech expects revenues from metals service bureau to reach $6.7 billion by 2023 and then almost double by 2027.",
+    "url": "https://additivemanufacturingresearch.com/news/3d-printing-service-bureaus/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast in 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion, and CAGR from 2023 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The report forecasts revenue growth at the country level and provides an analysis of the latest trends in each of the sub-segments from 2017 to 2030. For this study, Grand View Research has segmented the U.S. additive manufacturing market report based on component, printer type, technology, software, application, vertical, and material:",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Component Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Printer Type Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Software Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Application Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Material Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The Hardware segment led the U.S. additive manufacturing market and accounted for more than 64.15% share of the global revenue in 2022.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "$9.4 Billion in Metal Additive Manufacturing Service Bureau Revenues by 2025",
+    "url": "https://additivemanufacturingresearch.com/news/9-4-billion-in-metal-additive-manufacturing-service-bureau-revenues-by-2025/",
+    "pass": 3
+   },
+   {
+    "quote": ": Asian markets are underpinned by China's state-directed additive investment and India's PLI scheme, with the region projected to add more absolute revenue between 2026 and 2033 than any geography outside North America, reshaping the global competitive map.",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The global 3D printing service bureaus market operates as a moderately fragmented competitive arena dominated by Materialise NV, Protolabs, and Stratasys Direct Manufacturing, which collectively command an estimated 22% of global revenue through their breadth of certified technology platforms and established OEM relationships.",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   }
+  ],
+  "用途別": [
+   {
+    "quote": "Aerospace, Defense",
+    "url": "https://www.prnewswire.com/news-releases/metal-3d-printing-services-bureau-revenue-to-reach-us-16-1-billion-by-2031-according-to-new-report-from-smartech-analysis-301843106.html",
+    "pass": 3
+   },
+   {
+    "quote": "Semiconductors",
+    "url": "https://www.prnewswire.com/news-releases/metal-3d-printing-services-bureau-revenue-to-reach-us-16-1-billion-by-2031-according-to-new-report-from-smartech-analysis-301843106.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://www.prnewswire.com/news-releases/metal-3d-printing-services-bureau-revenue-to-reach-us-16-1-billion-by-2031-according-to-new-report-from-smartech-analysis-301843106.html",
+    "pass": 3
+   },
+   {
+    "quote": "Clinical Trials & Medical Discoveries",
+    "url": "https://www.prnewswire.com/news-releases/metal-3d-printing-services-bureau-revenue-to-reach-us-16-1-billion-by-2031-according-to-new-report-from-smartech-analysis-301843106.html",
+    "pass": 3
+   },
+   {
+    "quote": "International Medical Approval",
+    "url": "https://www.prnewswire.com/news-releases/metal-3d-printing-services-bureau-revenue-to-reach-us-16-1-billion-by-2031-according-to-new-report-from-smartech-analysis-301843106.html",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Equipment",
+    "url": "https://www.prnewswire.com/news-releases/metal-3d-printing-services-bureau-revenue-to-reach-us-16-1-billion-by-2031-according-to-new-report-from-smartech-analysis-301843106.html",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Pharmaceuticals",
+    "url": "https://www.prnewswire.com/news-releases/metal-3d-printing-services-bureau-revenue-to-reach-us-16-1-billion-by-2031-according-to-new-report-from-smartech-analysis-301843106.html",
+    "pass": 3
+   },
+   {
+    "quote": "Semiconductor and Electronics",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "driven by defense and space qualification programmes, growing materials and consumables consumption across the installed base, expanding medical and dental serial production, and rising adoption of large-format directed energy deposition.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "while Aerospace & Defense is projected to register the highest CAGR during the forecast period.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "Medical production is expanding faster than",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "qualification and certification services, medical and dental serial production, and data centre thermal management are expected to create significant long-term growth opportunities. A stainless steel bracket for USS Halsey was built and certified in 21 days against an estimated eight months of conventional sourcing.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "Rising Defense and Space Qualification of Printed Parts for Sustainment",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "Expanding Medical and Dental Serial Production",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "due to the concentration of demand among buyers who purchase finished parts rather than capital equipment, and to the breadth of work attached to each build, with Stratasys services revenue rising 3.6% to USD 44.9 million in the second quarter of 2026 and Materialise generating EUR 47,067 thousand of Manufacturing revenue and EUR 70,039 thousand of Medical revenue across the first half.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "professional and industrial filament systems across prototyping, tooling and education, the lowest equipment and feedstock cost of any process family, and continuous fibre reinforcement extending it into load-bearing parts.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "due to the breadth of the installed extrusion and photopolymer base, the dominance of polymer parts in dental appliances, surgical guides, hearing devices, tooling and consumer applications, and feedstock pricing that supports high-volume consumption.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "medical, tooling and aerospace bracket work carrying most qualified production today, and to an installed base replacing on a cycle that supports steady feedstock and service attachment.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "However, the Aerospace & Defense segment",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "attributed to qualification programmes now releasing printed parts into sustainment inventory, with Stratasys aerospace and defense growing 17% as its largest vertical and 3D Systems Aerospace and Defense growing over 20%.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "due to the engineering content of an industrial system sale, the qualification support that accompanies a production installation, and enterprise agreements negotiated at group level by aerospace, medical device and defense buyers operating multiple sites.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace AM",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical AM",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Implants",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Models",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Devices",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "GKN Aerospace earns NADCAP accreditation for laser wire DED",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "KLS Martin adds Lithoz LithaBone TCP implants to its IPS Gate ordering platform",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://additivemanufacturing.com/2023/03/13/how-to-start-a-3d-printing-service-bureau/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical & Dental",
+    "url": "https://additivemanufacturing.com/2023/03/13/how-to-start-a-3d-printing-service-bureau/",
+    "pass": 3
+   },
+   {
+    "quote": ". Aerospace, defense, and medical manufacturers are pushing adoption as metal AM moves from prototyping into serial production.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "market share, driven by precision requirements in aerospace and medical applications.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025, supported by a strong aerospace and defense manufacturing base.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The metal additive manufacturing market covers industrial processes that build fully dense metal parts layer by layer from digital files, serving aerospace, automotive, medical, defense, and energy manufacturers that need complex geometries, low-volume precision parts, or performance properties no standard process can match.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing solves a core production constraint. Aerospace, automotive, and medical buyers need parts lighter, stronger, and more geometrically complex than casting allows. Existing tooling costs and lead time make standard supply chains unworkable for these geometries. Metal AM operates as the highest-value sub-category within the broader",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision complex-geometry aerospace and medical parts",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Large-format repair and cladding in defense and energy",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Single-material full-density aerospace and medical production",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium implant and aerospace structural part production",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Low-cost entry-level metal part prototyping and tooling",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Powder Bed Fusion dominates with 49.3% due to unmatched precision in complex aerospace parts.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "share. This process covers both Laser Powder Bed Fusion (LPBF) and Electron Beam variants, producing the tightest dimensional tolerances of any metal AM method. Aerospace buyers use this process for flight-critical brackets and turbine components qualified under",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "anchor this segment with multi-laser platforms targeting serial aerospace and medical production runs.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "uses a focused laser or electron beam to melt metal feedstock — wire or powder — as it deposits, enabling large-format part building and repair of existing components. Defense and energy operators value DED for turbine blade restoration and structural cladding on high-value assets, with",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "vehicles, aerospace, machinery, electronics, and medical products.3 This technology dates",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "society. It can facilitate the production of strong light-weight products for the aerospace",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the need for tooling. Additionally, the complexity does not impact the cost in the same",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Health and Medical Insurance Providers Insurance Financial Capital Profit From Fees",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Health and Medical Insurance Providers Increased demand for services Cost of research and developm ent",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "following sectors: motor vehicles; aerospace; industrial/business machines;",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "medical/dental; government/military; architectural; and consumer products/electronics,",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace NAICS 336411, 336412, 12.1% 29.8 157 700.7 0.02%",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Medical/dental NAICS 3391 15.1% 37.2 89 519.5 0.04%",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "crossover with the aerospace industry. Both sectors have high demand for performance",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace: Shipments for manufacturing in the U.S. aerospace industry (NAICS 336411,",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "$29.8 million or 0.02 % of the U.S. aerospace industry. Aerospace includes a range of",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Examples of aerospace applications include the following:",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   }
+  ],
+  "価格を決める要因": [
+   {
+    "quote": "Maritime & Shipbuilding",
+    "url": "https://www.prnewswire.com/news-releases/metal-3d-printing-services-bureau-revenue-to-reach-us-16-1-billion-by-2031-according-to-new-report-from-smartech-analysis-301843106.html",
+    "pass": 3
+   },
+   {
+    "quote": "Partnerships",
+    "url": "https://www.prnewswire.com/news-releases/metal-3d-printing-services-bureau-revenue-to-reach-us-16-1-billion-by-2031-according-to-new-report-from-smartech-analysis-301843106.html",
+    "pass": 3
+   },
+   {
+    "quote": "qualification and certification services, medical and dental serial production, and data centre thermal management are expected to create significant long-term growth opportunities. A stainless steel bracket for USS Halsey was built and certified in 21 days against an estimated eight months of conventional sourcing.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "Qualification & Certification Services",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "However, the Qualification & Certification Services",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "attributed to published standards making certification a purchasable deliverable, with ISO/ASTM 52920:2023 qualifying production sites independent of material and method, ISO/ASTM 52926-1 qualifying metal operators, more than 24 facilities certified against naval technical data packages, and SUBSAFE certification at Danville still being pursued.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "system shipments reached",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Post-processing, contract manufacturing, and maintenance services growing at 15.5% in 2025 per Wohlers Report 2026, now representing 48% of total AM market value",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "run active metal AM qualification programs for flight-critical components, and the U.S. Department of Defense Additive Manufacturing for Sustainment program is accelerating adoption at military depots and shipyards. This combination of private-sector demand and government-backed qualification makes the U.S. the single most important geography for metal AM capital deployment decisions through",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 13485",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Demand Drove Metal AM Shipments to 3,793 Units in 2023",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "metal AM system shipments reached 3,793 units in 2023",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "— exposing the divergence between vendor revenue ambitions and actual hardware demand. System OEMs that built on prototype-era growth assumptions now face a market where buyers prefer service bureau access over capital equipment ownership.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Post-processing remains the largest hidden cost barrier in metal AM adoption — every LPBF part requires hot isostatic pressing (HIP), heat treatment, support removal, and surface finishing before it meets drawing tolerances. These steps add",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "with TEMPUS technology, cutting metal AM build times by up to",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", accessing certified metal AM production without machine ownership. This shift confirms the broader additive manufacturing industry transition from hardware sales to recurring services revenue.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Wohlers Report 2024 – Metal AM System Shipments Reached 3,793 Units in 2023, Up 24.4% from 3,049 Units in 2022; Industry Reached USD 20.035 Billion in 2023 with 11.1% Growth",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Renishaw FY2024 Preliminary Results – Record Revenue of GBP 691.3 Million, 3.7% Underlying Growth; RenAM 500 Ultra Cuts Build Times by Up to 50%; Capital Expenditure Reached GBP 65.2 Million",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and defense qualification programs drove metal AM system shipments to 3,793 units in 2023 — a 24.4% annual increase per Wohlers Report 2024. Government investment through the U.S. DoD Additive Manufacturing for Sustainment program reinforces structural demand through the forecast period.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 5.4: Forecasts of U.S. Additive Manufacturing Shipments, by Varying Market",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Table 4.1: Additive Manufacturing Shipments ................................................................. 18",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Table 5.1: Forecasts of U.S. Additive Manufacturing Shipments by Varying Market",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufactured goods that are inventoried and/or shipped. The depreciation of capital and",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "net income are also included in the figure, which affect the market value of shipments. In",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "added as the value of shipments less the cost of materials, supplies, containers, fuel,",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "purchased electricity, and contract work (i.e., shipments less the suppliers of materials",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "BEA calculates it as shipments less all costs colored blue, tan, orange, red, and green in",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "shipments, which is analogous to revenue. This value is used because the data collected",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "are inventoried and/or shipped. The depreciation of capital and net income are also",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "included in the figure, which affect the market value of shipments. The net income per",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Table 4.1: Additive Manufacturing Shipments",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Shipments of",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Shipments",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "shipments is the same for additive manufacturing. The ratios are then applied to data in the 2012 Wohlers",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Service Bureaus Market Service Type (Prototyping, Production, Design Services, Post-Processing & Others), Technology (Fused Deposition Modeling (FDM), Stereolithography (SLA), Selective Laser Sintering (SLS), PolyJet, Direct Metal Laser Sintering (DMLS) & Others), Material Type (Polymers/Plastics, Metals, Ceramics & Others), Application, and Regional Analysis, 2026 - 2033",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": ": North America's regional position in 2026 reflects a decade of America Makes-led ecosystem investment and entrenched aerospace OEM procurement relationships.",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Restraints - Material and Process Certification Costs Creating Prohibitive Entry Barriers for Mid-Market Clients",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Post-Brexit regulatory divergence from EASA under the Civil Aviation Authority's independent framework introduces some certification complexity for dual-market bureaus but creates a differentiated domestic niche for UK-only qualified operators.",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The global 3D printing service bureaus market operates as a moderately fragmented competitive arena dominated by Materialise NV, Protolabs, and Stratasys Direct Manufacturing, which collectively command an estimated 22% of global revenue through their breadth of certified technology platforms and established OEM relationships.",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Competition centers on certification depth, materials breadth, and",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "in partnership with additive bureau partners for rail infrastructure components. Bureaus best positioned to capture this opportunity are those that have achieved",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "and material traceability certification, and have built API integrations with major enterprise asset management platforms to enable automated reorder-to-print workflows.",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "are the leading companies in the 3D printing service bureaus market, competing across certification depth, materials breadth, and digital platform capability. The landscape is moderately fragmented but consolidating rapidly, with platform-native operators such as",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   }
+  ],
+  "1件の単価": [
+   {
+    "quote": "USD 21.40 billion",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "USD 62.50 billion",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "USD 23.05 billion",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "The global Additive Manufacturing Market is projected to reach USD 62.50 billion by 2036,",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "growing independently of system sales. Stratasys reported record consumables revenue of USD 66.3 million in the second quarter of 2026 within total revenue of USD 137.6 million, while products revenue fell 2.2% to USD 92.7 million.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "general industrial demand. 3D Systems reported second-quarter 2026 Healthcare Solutions revenue of USD 48.1 million, up 6.8%, against Industrial Solutions revenue of USD 46.5 million, down 6.7%, with Med Tech growing over 20% across the first half.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "USD 23.05 Billion",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "USD 62.50 Billion",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "due to the concentration of demand among buyers who purchase finished parts rather than capital equipment, and to the breadth of work attached to each build, with Stratasys services revenue rising 3.6% to USD 44.9 million in the second quarter of 2026 and Materialise generating EUR 47,067 thousand of Manufacturing revenue and EUR 70,039 thousand of Medical revenue across the first half.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "attributed to feedstock consumption that compounds with the installed base rather than with new system sales, evidenced by record Stratasys consumables revenue of USD 66.3 million driven by manufacturing materials in a quarter when products revenue fell 2.2% to USD 92.7 million.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "due to the breadth of engineering organisations that use additive manufacturing without releasing printed part numbers, and to service bureau demand remaining prototyping-led, with Protolabs three-dimensional printing revenue of USD 20.7 million in the second quarter of 2026 sitting alongside Injection Molding of USD 53.6 million and CNC Machining of USD 70.4 million.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "due to buyers who procure finished parts without owning equipment, which is the structure of the service bureau and contract manufacturing layer, with Materialise Manufacturing generating EUR 47,067 thousand and Protolabs three-dimensional printing USD 20.7 million in their respective reporting periods.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "Industry Size (2025): USD 2,223.3 million",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast (2035): USD 3,981.6 million",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry Size (2025): USD 17.24 Billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast (2035): USD 145.80 Billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 145.80 billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 17.24 billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 7.32 billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6.91 billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 27.67 billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "AM revenues reached USD 24.2 billion in 2025",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "of total value. Wohlers Report 2024 confirmed the industry reached USD",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "20 Triadic patent families are defined at the OECD as a set of patents taken at the European Patent Office,",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Material cost per part 2.59 € 25.81 €",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Mould cost per part 21 000 €/N -",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-processing cost per part - 8.00 €",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Processing cost per part 0.26 € 472.50 €",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Post-processing cost per part 17.90 € 20.00 €",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. additive manufacturing market size was estimated at USD 3.56 billion in 2022",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "USD 16.48 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion, and CAGR from 2023 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Component Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Printer Type Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Software Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Application Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Material Outlook (Revenue, USD Million, 2017 - 2030)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. additive manufacturing market size was estimated at USD 3.56 billion in 2022 and is expected to reach USD 4.26 billion in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. additive manufacturing market is expected to grow at a compound annual growth rate of 21.3% from 2023 to 2030 to reach USD 16.48 billion by 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Europe 3D Printing Service Bureaus Market Trends and Insights",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "France accounts for an estimated 16% of the European market, approximately US$ 478 Million in 2026, with Safran Group's additive manufacturing programs for",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   }
+  ],
+  "顧客1社の年間": [
+   {
+    "quote": "qualification and certification services, medical and dental serial production, and data centre thermal management are expected to create significant long-term growth opportunities. A stainless steel bracket for USS Halsey was built and certified in 21 days against an estimated eight months of conventional sourcing.",
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "pass": 3
+   },
+   {
+    "quote": "in annual FY2024 revenue. According to GlobeNewswire,",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global metal additive manufacturing market reaches USD 17.24 billion in 2025 and USD 145.80 billion by 2035, growing at a CAGR of 23.8%. Aerospace, defense, and medical demand anchor this growth as manufacturers shift metal AM into serial production programs.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and defense qualification programs drove metal AM system shipments to 3,793 units in 2023 — a 24.4% annual increase per Wohlers Report 2024. Government investment through the U.S. DoD Additive Manufacturing for Sustainment program reinforces structural demand through the forecast period.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Gibraltar (+350)",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 2.3: Manufacturing Value Added Compound Annual Growth, 1985-2010 (UNSD)",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Data from the Annual Survey of Manufactures and methods developed by Thomas5 are",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "exceeds China (see Figure 2.2). However, the U.S. compound annual growth rate",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Turkey, Greece, and Mexico. Compound annual growth in manufacturing between 1985",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "other industries or imported).”29 The primary difference is that the Annual Survey of",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 4.1). Since this report uses data from the Annual Survey of Manufactures, it will",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "under NAICS 332: Industrial Machinery Manufacturing. Data from the Annual Survey of",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "a 1 kg reduction in weight saves an estimated $3000 of fuel annually45, not to mention",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "cumulative annual sales of additive manufacturing systems in the U.S. between 1988 and",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. additive manufacturing market is expected to grow at a compound annual growth rate of 21.3% from 2023 to 2030 to reach USD 16.48 billion by 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. International Traffic in Arms Regulations (ITAR) impose strict data-handling requirements on defense-related files, requiring bureaus serving this segment to maintain dedicated ITAR-compliant digital infrastructure, an investment that industry estimates suggest adds US$ 500,000 to US$ 1.5 million in annual compliance infrastructure costs. Clients without confidence in a bureau's",
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "pass": 3
+   }
+  ],
+  "最大案件・上限": [
+   {
+    "quote": "3D Systems Receives $9 Million Contract Award from U.S. Air Force for Advanced Large-Format Metal 3D Printing System | 3D Systems",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems Receives $9 Million Contract Award from U.S. Air Force for Advanced Large-Format Metal 3D Printing System",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "pass": 3
+   },
+   {
+    "quote": "– 3D Systems (NYSE: DDD) today announced it has been awarded an additional $9 million under the Air Force-funded ‘Large-Format Metal 3D Printer Advanced Technology Demonstrator’ program (GEN-II DMP-1000).",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/service-bureau-xometry-220830/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aminsightasia.com/ja/news-ja/daihen-waam-arcbuilder-3d-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC01B950R00C25A8000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/series/9763/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_488/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/am-research-releases-q3-market-data/?srsltid=AYCX9vIDSfOK3GyvUWB9URJy-xf3KZs_ks5yrh_NIOfpxXGQd_lAyylC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/report_detail/id=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebara.com/content/dam/ebara/grand-masters/entities/ja/pdf/ir/library/investors-guide/investors_guide_202608_jp.pdf.coredownload.inline.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/result/pdf/2025/25second_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/umaki11/n/n3efcf73dffdc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-ir.co.jp/ja/qnresearch/report_6378/main/00/teaserItems1/00/link/qnresearch_6378.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2023/w202346_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/market-trends/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/am-research-releases-q3-market-data/?srsltid=AYCX9vI3NAU2Nm8MXr_8zmycEBrAe3KZSDp9BIISYcjxWBylNRPQXF2m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2541579",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/metal-3d-printing-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/751726",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jeol.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/news/info/article_1009/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/45720?preview=7206697013ad958475dc6cdab68f43f2f371ddf2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/metal-3d-printing-services-bureau-revenue-to-reach-us-16-1-billion-by-2031-according-to-new-report-from-smartech-analysis-301843106.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additivemanufacturing.com/2023/03/13/how-to-start-a-3d-printing-service-bureau/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/3dprintcom/posts/according-to-its-latest-financial-update-6k-additive-generated-72-million-in-rev/1817712643728854/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://additivemanufacturingresearch.com/news/3d-printing-service-bureaus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additivemanufacturingresearch.com/news/9-4-billion-in-metal-additive-manufacturing-service-bureau-revenues-by-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mobile.imts.com/read/article-details/Metal-AM-Service-Bureau-Adds-Automation-to-Support-Serial-Production/2115/type/Read/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0925527324002056",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://additive-manufacturing-report.com/additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "海外の金属AM受託会社の売上規模 単価 万円",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://news.sharelab.jp/3dp-news/ir/service-bureau-xometry-220830/",
+    "https://aminsightasia.com/ja/news-ja/daihen-waam-arcbuilder-3d-ja/",
+    "https://www.nikkei.com/article/DGXZQOUC01B950R00C25A8000000/",
+    "https://monoist.itmedia.co.jp/mn/series/9763/",
+    "https://www.act-pr.co.jp/report/",
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022"
+   ]
+  },
+  {
+   "query": "海外の金属AM受託会社の売上規模 費用 相場",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://jampt.jp/column/column_488/",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://idarts.co.jp/3dp/am-research-releases-q3-market-data/?srsltid=AYCX9vIDSfOK3GyvUWB9URJy-xf3KZs_ks5yrh_NIOfpxXGQd_lAyylC",
+    "https://www.act-pr.co.jp/report_detail/id=",
+    "https://news.sharelab.jp/market-trends/",
+    "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "海外の金属AM受託会社の売上規模 最大 受注 億円",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://news.sharelab.jp/3dp-news/ir/service-bureau-xometry-220830/",
+    "https://www.nikkei.com/article/DGXZQOUC01B950R00C25A8000000/",
+    "https://aminsightasia.com/ja/news-ja/daihen-waam-arcbuilder-3d-ja/",
+    "https://ebara.com/content/dam/ebara/grand-masters/entities/ja/pdf/ir/library/investors-guide/investors_guide_202608_jp.pdf.coredownload.inline.pdf",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/result/pdf/2025/25second_all.pdf",
+    "https://monoist.itmedia.co.jp/mn/series/9763/",
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://www.nomura-ir.co.jp/ja/qnresearch/report_6378/main/00/teaserItems1/00/link/qnresearch_6378.pdf",
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022"
+   ]
+  },
+  {
+   "query": "海外の金属AM受託会社の売上規模 量産 受注 年間",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://news.sharelab.jp/market-trends/",
+    "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://idarts.co.jp/3dp/am-research-releases-q3-market-data/?srsltid=AYCX9vI3NAU2Nm8MXr_8zmycEBrAe3KZSDp9BIISYcjxWBylNRPQXF2m",
+    "https://www.nikkei.com/article/DGXZQOUC01B950R00C25A8000000/",
+    "https://www.atpress.ne.jp/news/2541579",
+    "https://www.mordorintelligence.com/ja/industry-reports/metal-3d-printing-market"
+   ]
+  },
+  {
+   "query": "海外の金属AM受託会社の売上規模 売上高 受託",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://news.sharelab.jp/3dp-news/ir/service-bureau-xometry-220830/",
+    "https://www.act-pr.co.jp/report/",
+    "https://www.nikkan.co.jp/articles/view/751726",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "https://www.jeol.co.jp/corporate/",
+    "https://www.nttdata-xam.com/news/info/article_1009/",
+    "https://newswitch.jp/p/45720?preview=7206697013ad958475dc6cdab68f43f2f371ddf2",
+    "https://www.agc.com/ir/library/outline/pdf/gaiyou.pdf",
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/05/08/112022"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing service bureau revenue price per part",
+   "results": [
+    "https://www.prnewswire.com/news-releases/metal-3d-printing-services-bureau-revenue-to-reach-us-16-1-billion-by-2031-according-to-new-report-from-smartech-analysis-301843106.html",
+    "https://www.meticulousresearch.com/product/additive-manufacturing-market-5838",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://additivemanufacturing.com/2023/03/13/how-to-start-a-3d-printing-service-bureau/",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.3deo.co/strategy/costs-of-traditional-vs-additive-manufacturing/",
+    "https://www.protolabs.com/resources/blog/metal-3d-printing-cost/",
+    "https://www.researchandmarkets.com/reports/5185450/the-market-for-metal-additive-manufacturing"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing service bureau revenue largest contract million",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "https://additivemanufacturing.com/2023/03/13/how-to-start-a-3d-printing-service-bureau/",
+    "https://www.facebook.com/3dprintcom/posts/according-to-its-latest-financial-update-6k-additive-generated-72-million-in-rev/1817712643728854/",
+    "https://additivemanufacturingresearch.com/news/3d-printing-service-bureaus/",
+    "https://www.youtube.com/watch?v=Lu7c74EMuZ4",
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://additivemanufacturingresearch.com/news/9-4-billion-in-metal-additive-manufacturing-service-bureau-revenues-by-2025/"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing service bureau revenue serial production long-term agreement value",
+   "results": [
+    "https://mobile.imts.com/read/article-details/Metal-AM-Service-Bureau-Adds-Automation-to-Support-Serial-Production/2115/type/Read/1",
+    "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://additivemanufacturing.com/2023/03/13/how-to-start-a-3d-printing-service-bureau/",
+    "https://www.sciencedirect.com/science/article/pii/S0925527324002056",
+    "https://www.youtube.com/watch?v=Lu7c74EMuZ4",
+    "https://additive-manufacturing-report.com/additive-manufacturing-market/",
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report",
+    "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "https://www.researchandmarkets.com/reports/5185450/the-market-for-metal-additive-manufacturing"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing service bureau revenue revenue",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S0925527324002056",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://additivemanufacturingresearch.com/news/3d-printing-service-bureaus/",
+    "https://additivemanufacturing.com/2023/03/13/how-to-start-a-3d-printing-service-bureau/",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://mobile.imts.com/read/article-details/Metal-AM-Service-Bureau-Adds-Automation-to-Support-Serial-Production/2115/type/Read/1",
+    "https://www.facebook.com/3dprintcom/posts/according-to-its-latest-financial-update-6k-additive-generated-72-million-in-rev/1817712643728854/",
+    "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US"
+   ]
+  },
+  {
+   "query": "site:note.com 海外の金属AM受託会社の売上規模",
+   "results": [
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://note.com/good_dill292/n/nf1da4a394ca1",
+    "https://note.com/bright_bee861/n/n8c9901f1e60d",
+    "https://note.com/bostonjuku/n/nc00f7b5053a7",
+    "https://note.com/kagawatomo/n/ndb06a6b0c405",
+    "https://note.com/fond_ferret685/n/n28b2866de32f",
+    "https://note.com/kabutabi2000/n/n1fa6e9a69dc0",
+    "https://note.com/naitei_support/n/n567169057af0",
+    "https://note.com/tatsuya_sabato/n/n1377f53d0ede"
+   ]
+  },
+  {
+   "query": "site:x.com 海外の金属AM受託会社の売上規模",
+   "results": [
+    "https://x.com/HayamiKei_AI/status/2087874121472569736",
+    "https://x.com/luigi_jpn/status/2113788303665426873",
+    "https://x.com/AeroEdge_IR",
+    "https://x.com/i/status/2092790514261364988",
+    "https://x.com/luigi_jpn/status/2115347987530678592",
+    "https://x.com/jioinc/status/2110643413628649929",
+    "https://x.com/luigi_jpn/status/2117205424495559062",
+    "https://x.com/luigi_jpn/status/2096029427725685078",
+    "https://x.com/M_Miho_JPN/status/2042233302330077369",
+    "https://x.com/t_ryoma1985/status/2081660273178665166"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 海外の金属AM受託会社の売上規模",
+   "results": [
+    "https://jp.linkedin.com/in/hirofumi-oyanagi-63b3b628b",
+    "https://jp.linkedin.com/in/koichi-hayashida-khid",
+    "https://jp.linkedin.com/in/reina-sato/en",
+    "https://jp.linkedin.com/in/hirotokataoka914a5272",
+    "https://jp.linkedin.com/in/ryu-tatsuki-kimbara-hakusan",
+    "https://jp.linkedin.com/in/%E9%9A%86%E5%AE%8F-%E6%9C%AC%E9%96%93-43776872",
+    "https://jp.linkedin.com/in/officeyadamari",
+    "https://jp.linkedin.com/in/%E9%87%8D%E4%BA%BA-%E4%B8%B9%E7%BE%BD-578026389",
+    "https://jp.linkedin.com/company/nsc-am-advanced-solution",
+    "https://cn.linkedin.com/posts/至明chihming-黃huang-850b00a5_1-是什麼推動了中國增材產業的指數級成長僅在過去五年內就有-15-本土-3d-activity-7370345786242449408-pmgw"
+   ]
+  },
+  {
+   "query": "site:facebook.com 海外の金属AM受託会社の売上規模",
+   "results": [
+    "https://www.facebook.com/nikkan.BusinessLine/posts/三菱重工工作機械金属ａｍの30年度売上高20倍100億円にhttpswwwnikkancojparticlesview00604839fb/4508458622519873/",
+    "https://www.facebook.com/jpShareLab/posts/金属am市場2034年に9兆円規模へvoxelmattersが最新市場レポートを公開金属積層造形分野の専門調査会社voxelmattersは2025年に向けた最/1288246973302792/",
+    "https://www.facebook.com/jpShareLab/posts/am市場は今後5年で年平均135成長へ210億ユーロ規模に拡大見通しドイツの調査会社ampowerが発表した最新レポートによりアディティブマニュファクチャリング/1591537842973702/",
+    "https://www.facebook.com/kagawa.sangi/posts/〇-かがわ次世代ものづくり研究会-令和５年度-第２回勉強会-am技術を活用した製品開発と製造プロセスの最新動向日-時令和５年９月７日木-13301530場-所香/788447156621968/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/当社金属3dプリンタ営業担当も登壇特別対談トップメーカーに聞くam3dプリンタの現状とこれから-vol5アペルザtv-特別対談シリーズトップメーカーに聞くam3/1242605148025353/",
+    "https://www.facebook.com/jpShareLab/posts/日本の製造業革新に不可欠な金属積層造形技術の未来レポート公開-みずほ銀行みずほ銀行-産業調査部は2025年1月17日に自社ウェブサイト内mizuho-short/1197910572336433/",
+    "https://www.facebook.com/DMGMORI.CO/posts/dmg-moriが加工を受託お客様の金属積層造形の活用をサポート-am-lab-fab開設積層造形は従来の切削加工では困難な形状を造形することができるため近年飛/3122305414701699/"
+   ]
+  },
+  {
+   "query": "海外の金属AM受託会社の売上規模 note 社長",
+   "results": [
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "https://note.com/good_dill292/n/nf1da4a394ca1",
+    "https://note.com/kagawatomo/n/ndb06a6b0c405",
+    "https://www.marketresearch.co.jp/insights/metal-additive-manufacturing-market-stra/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "海外の金属AM受託会社の売上規模 X 投稿",
+   "results": [
+    "https://news.sharelab.jp/market-trends/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://idarts.co.jp/3dp/am-research-releases-q3-market-data/?srsltid=AYCX9vK_XhVvCWWQncVUsWJ5rT525r-QtYHnYkpzC0zNMmCMBMG301j9",
+    "https://www.nikkei.com/article/DGXZQOUC01B950R00C25A8000000/",
+    "https://www.act-pr.co.jp/report_detail/id=",
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://monoist.itmedia.co.jp/mn/articles/2103/26/news020.html",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.marketresearch.co.jp/insights/metal-additive-manufacturing-market-stra/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing service bureau revenue site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/revenue-forecast-growth-outlook-metal-additive-manufacturing-kee2e",
+    "https://in.linkedin.com/in/varmaefesto3dmetalprinting",
+    "https://www.linkedin.com/company/deep-manufacturing",
+    "https://www.linkedin.com/in/jim-additive-manufacturing",
+    "https://www.linkedin.com/in/tim-thellin-2435597",
+    "https://www.linkedin.com/posts/ampulse-daily_salem-entrepreneur-evan-labelle-scales-autotiv-activity-7456772085265321984-H14Q",
+    "https://www.linkedin.com/in/joedcurran",
+    "https://www.linkedin.com/in/steve-vosmik-7224444",
+    "https://in.linkedin.com/in/maahirpanchal",
+    "https://www.linkedin.com/in/eric-z-cohen"
+   ]
+  }
+ ],
+ "missing": {}
+}

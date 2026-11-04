@@ -1,0 +1,3664 @@
+{
+ "name": "株式会社フジ",
+ "aliases": [
+  "フジ 金型"
+ ],
+ "context": "国内・DED金型補修受託",
+ "researched_at": "2026-11-04T10:32:58.778691+00:00",
+ "official_url": "https://www.fuji-mold.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,630万円",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "220億円",
+    "url": "https://www.the-fuji.com/company/about/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "220億円 （2024年2月29日時点） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "4,400万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "110人（令和3年現在）　※グループ全体",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "29,513名（月給制　6,681名　パート・アルバイト　22,832名）※パート・アルバイトは1日8時間換算",
+    "url": "https://www.the-fuji.com/company/about/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "連結: 8,353人 単独: 35人 （2024年2月29日時点） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "1,400名",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "110人（連結）",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "【金型事業】　　　　アルミ・鋳鉄部品の鋳造用金型の設計、製作 【部品・試作事業】　金型に関連する部品製作、試作加工 【測定・検査事業】　部品測定、試作鋳造製品の品質検査 【AM事業】             金属3Dプリンタを活用した金型補修、試作部品製作",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "総合小売業（食料品、衣料品、日用雑貨品等の小売販売）",
+    "url": "https://www.the-fuji.com/company/about/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "総合小売業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "惣菜･デリカ等の製造･加工･販売など",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "アルミ・鋳鉄部品の鋳造用金型、各種治具の設計・製作、特殊部品の積層造形など",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "どうやったら株主優待を受けられますか？",
+    "value": "基準日である2月末日の2営業日前までに100株以上の株式を購入・保有いただき、2月末日の当社株主名簿に名前が記載されますと、株主優待の対象となります。",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "label": "Aコースの株主優待券とは何ですか？",
+    "value": "お買物のたびにご利用いただける値引券です。",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "label": "株主名",
+    "value": "持株数（千株） 比率（％）",
+    "url": "https://www.fujimediahd.co.jp/ir/s_information.html",
+    "pass": 3
+   },
+   {
+    "label": "株主数",
+    "value": "42,915名",
+    "url": "https://www.fujimediahd.co.jp/ir/s_information.html",
+    "pass": 3
+   },
+   {
+    "label": "主要 株主",
+    "value": "イオン 50.6% アスティ 4.6% 日本マスタートラスト信託銀行 （信託口） 3.1% フジ共栄会 2.9% フジ親栄会 1.9% 伊予銀行 1.3% 愛媛銀行 1.3% 広島銀行 1.3% 日本カストディ銀行 （信託口4） 1.1% 日本カストディ銀行（信託口） 0.8% （2024年2月29日時点） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "label": "主要 株主",
+    "value": "フジ 100%（間接所有割合4.54%）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "1967年（昭和42年）9月12日",
+    "url": "https://www.the-fuji.com/company/about/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1950年 （ 昭和 25年） 4月21日 （山陽興業株式会社）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1980年 （昭和55年） 5月1日 （株式会社鈴川水産）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "1970年",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結: 7711億2300万円 単独: 239億1200万円 （2024年2月期） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "143億円（2015年度）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "320,867 784,967 801,022 808,928 814,260",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "386,171 398,843 401,698 408,542 398,069",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上・受託売上": [
+   {
+    "quote": "当社のAM事業の紹介や金属3Dプリンターをご覧いただきながら、日頃の取り組みについてご紹介し、また、率直な意見交換をさせていただき、大変有意義な時間となりました",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "豆知識 加工技術 金型全般 AM事業",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【AM事業】 金属3Dプリンタを活用した金型補修、試作部品製作",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社のAM事業の紹介や金属3Dプリンターをご覧いただきながら、日頃の取り組みについてご紹介し、また、率直な意見交換をさせていただき、大変有意義な時間となりました",
+    "url": "https://www.fuji-mold.co.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "AM事業 (7)",
+    "url": "https://www.fuji-mold.co.jp/media/kanagata/a24",
+    "pass": 1
+   },
+   {
+    "quote": "AM事業 (7)",
+    "url": "https://www.fuji-mold.co.jp/media/zairyou",
+    "pass": 1
+   },
+   {
+    "quote": "AM事業 (7)",
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi",
+    "pass": 1
+   },
+   {
+    "quote": "AM事業 (7)",
+    "url": "https://www.fuji-mold.co.jp/media/zairyou/a8",
+    "pass": 1
+   },
+   {
+    "quote": "AM事業 (7)",
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi/a4",
+    "pass": 1
+   },
+   {
+    "quote": "増資により資本金3億円となる",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "143億円（2015年度）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "フジnews｜高松市に555坪･目標13.5億円｢マルナカ上林店｣6/27オープン – 流通スーパーニュース",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "(単位：百万円)",
+    "url": "https://www.the-fuji.com/company/ir/highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "※金額単位は、百万円未満を切り捨てて表示しています",
+    "url": "https://www.the-fuji.com/company/ir/highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "単位：百万円",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "直近期の売上高",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "直近５期の売上高",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、エンジン関連の仕事が売上の大半を占めており、EV化の影響を免れない",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の音楽フェスの経済波及効果は約3,700億円とされている",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   },
+   {
+    "quote": "実際、フェスの売上よりも、周辺の宿泊施設や交通機関への間接的な経済効果の方が大きいというデータもある",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   }
+  ],
+  "設備台数": [
+   {
+    "quote": "新幹線台車 軸箱",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "従来の手作業によるTIG溶接の金型補修が、DED方式の金属3Dプリンターでは「除去加工」→「レーザー溶接」→「切削仕上」が1台ワンチャッキングで行うため、段取り替え不要の自動化が可能です",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジで導入しているDED方式",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "段取りしたらスタートするだけで、２４時間稼働できます",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "溶接前の「除去加工」→「レーザー溶接」→「切削仕上」が1台ワンチャッキングで行うため、段取り替え不要の無人化が可能になります",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社フジは2022年6月にDMG森精機株式会社様のLASERTEC 65 DED hybridを導入させていただいており、金型の高付加価値化と特殊部品製造に挑戦しています",
+    "url": "https://www.fuji-mold.co.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "車体系、台車系の実績があります",
+    "url": "https://www.fuji-mold.co.jp/case/industry.html",
+    "pass": 1
+   },
+   {
+    "quote": "新幹線台車 軸箱",
+    "url": "https://www.fuji-mold.co.jp/case/industry.html",
+    "pass": 1
+   },
+   {
+    "quote": "新幹線台車 軸箱",
+    "url": "https://www.fuji-mold.co.jp/case/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄道の車体を支える車輪が付いた台、すなわち台車の車軸が収まる部品です",
+    "url": "https://www.fuji-mold.co.jp/case/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "」を導入予定です",
+    "url": "https://www.fuji-mold.co.jp/media/kanagata/a24",
+    "pass": 1
+   },
+   {
+    "quote": "事業再構築補助金で金属３Ｄプリンタを導入します！",
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi",
+    "pass": 1
+   },
+   {
+    "quote": "MAKINOの最新設備V56iを導入 導入１週間で２４時間フル稼働",
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi",
+    "pass": 1
+   },
+   {
+    "quote": "MAKINOの最新設備V56iを導入 導入１週間で２４時間フル稼働",
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi/a4",
+    "pass": 1
+   },
+   {
+    "quote": "２０２０年３月 株式会社フジでは、MAKINO製 最新設備V56iを新しく導入しました",
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi/a4",
+    "pass": 1
+   },
+   {
+    "quote": "導入後、１週間経たないうちに２４時間のフル稼働しております",
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi/a4",
+    "pass": 1
+   },
+   {
+    "quote": "これ１台で、生産能力大幅アップが期待できます！",
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi/a4",
+    "pass": 1
+   },
+   {
+    "quote": "事業再構築補助金で金属３Ｄプリンタを導入します！",
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi/a4",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、株主の皆さまの長期間のご支援に対する感謝とともに、長期保有株主優待制度を通じて当社へのご理解を一層深めていただきたいとの考えから、８月末日に継続して１年以上、同一の株主番号で株主名簿に記載されている株主さまを対象として、新米を贈呈しております",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "300株以上を継続して1年以上保有されている株主さま",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "（毎年8月末日の基準日に、継続して1年以上、同一の株主番号で保有されている株主さま）",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "300株以上保有",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "500株以上保有",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "基準日である2月末日の2営業日前までに100株以上の株式を購入・保有いただき、2月末日の当社株主名簿に名前が記載されますと、株主優待の対象となります",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "長期保有株主優待制度のお米はどうやったらもらえますか？",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "長期保有株主優待制度のお米はいつ届きますか？",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "新カード・システム(エフカード)導入",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "コンピューターによる生鮮食品の発注システムを導入",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "全店にPOSシステムを導入",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "からの譲受により当社株式の一部を取得した後、同年2月28日には株式会社アスティが保有する当社株式の一部がイオン株式会社へ譲渡された",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "として保有していた4℃HDの株式全てを同社へ譲渡",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "（CI）の導入によりロゴマーク変更",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "当初はフジグラン松山を拠点に、伊台・道後・湯の山の3地区を週に2回ずつ巡回する",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "2月28日：株式会社アスティが保有していた当社株式の一部がイオン株式会社に譲渡されたことに伴い、イオン株式会社が当社の筆頭株主となる",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "所有割合で7.6%を保有する",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "6月5日：子会社の株式会社フジ・スポーツ&フィットネスの保有株式の10%を",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "を導入し、店頭決済・現金チャージを開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "」の本格導入に先立ち、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "12月22日：保有していた株式会社レデイ薬局の全株式を株式会社ツルハホールディングスへ譲渡",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "）に先行で新ロゴマークが導入された後、同年3月以降、既存店舗も改装に伴うリニューアルや店舗塔屋・サイン・立看板などの看板類の切替のタイミングで順次新ロゴマークへ変更された",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "保有者には同年12月中旬以降、イオン銀行から順次「フジ・イオンカード」が送付される（イオン銀行が行う審査によっては送付されない場合がある）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "保有株式の譲渡に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "フジ・リテイリング／直営全店で「トップバリュ」導入、PB「Style ONE」終了",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "～フジ・リテイリング直営全店～「トップバリュ」の本格導入を順次開始!",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "保有している株式、投資信託、現預金を5フォルダに分けて登録しておくことで、効率よく資産管理ができます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "自動車やオートバイ用エンジンなどの金型を手掛けるフジは、金属積層造形（AM）と5軸複合加工ができるDMG森精機の「LASERTEC65 DED hybrid」を2022年6月に導入した",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "国内で約10台しか導入されていない機械を活用し、異種材料を結合（バイメタル）した付加価値の高い金型作りや補修する金型の長寿命化に取り組む",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "導入した金属積層造形機「LASERTEC 65 DED hybrid」",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資をした背景として、市場拡大を続ける電気自動車（EV）の台頭がある",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "導入した金属AM機を活用し、耐摩耗性が求められる形状面は工具鋼、内部は熱伝導率が高い銅合金といった従来の加工法では不可能な金型を作ることができる",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "トラック架台",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "急速1台、普通3台",
+    "url": "https://www.the-fuji.com/service/public_fee/",
+    "pass": 3
+   },
+   {
+    "quote": "急速1台、普通2台",
+    "url": "https://www.the-fuji.com/service/public_fee/",
+    "pass": 3
+   },
+   {
+    "quote": "〒733-0844 広島県広島市西区井口台二丁目23番24号",
+    "url": "https://www.the-fuji.com/service/public_fee/",
+    "pass": 3
+   },
+   {
+    "quote": "また、従来通りバレーボール（セリエＡ、ＳＶリーグ）、バドミントン、バスケットボール、ダンスなど幅広いスポーツ中継を行うだけでなく、日本を代表する野外音楽フェス「FUJI ROCK FESTIVAL」ほか人気音楽フェス、オリジナル番組「しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村NEXT」を毎月生放送するほか、各種ジャンルの上質なオリジナルコンテンツをお届けしてまいります",
+    "url": "https://otn.fujitv.co.jp/next-news20260115/",
+    "pass": 3
+   },
+   {
+    "quote": "そして去年、マネジメントしているアーティストでフジロックの舞台に立たせてもらった",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   },
+   {
+    "quote": "お祭りやイベントの期間中だけ、簡易的な手続きで屋台や出店の営業ができるものだ",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   },
+   {
+    "quote": "台湾・台中最大の野外音楽フェス『ROVING NATION FESTIVAL』",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   },
+   {
+    "quote": "『The Power of Nightmares』では、「テロへの恐怖」が政治的に利用されてきた過程をたどり、『All Watched Over by Machines of Loving Grace』では、コンピューターが社会を合理化するという夢を批判的に検証する",
+    "url": "https://note.com/wallofdub/n/n51ef16c45247",
+    "pass": 3
+   },
+   {
+    "quote": "UVAは舞台空間とマルチスクリーン構成を担当している",
+    "url": "https://note.com/wallofdub/n/n51ef16c45247",
+    "pass": 3
+   }
+  ],
+  "料金・単価": [
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/equipments.html",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・ご注文",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "ヒアリングさせて頂いた内容でお見積りをご提出させていただきます",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "1,630万円",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/mitsumori.html",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼フォーム",
+    "url": "https://www.fuji-mold.co.jp/mitsumori.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術に関する見積もり依頼は以下フォームよりお願いいたします",
+    "url": "https://www.fuji-mold.co.jp/mitsumori.html",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/case/industry.html",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/case/type.html",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/case/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジンのアイドリングを安定させるためにクランクシャフトへ取付けられる、円盤状の部品です",
+    "url": "https://www.fuji-mold.co.jp/case/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車等に使用されるドラムブレーキの、ブレーキシューを覆っている円盤状の部品です",
+    "url": "https://www.fuji-mold.co.jp/case/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/media/kanagata/a24",
+    "pass": 1
+   },
+   {
+    "quote": "高卒 200,000円",
+    "url": "https://www.fuji-mold.co.jp/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "専門・大学（2年制） 210,000円",
+    "url": "https://www.fuji-mold.co.jp/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "専門・大学（4年制） 220,000円",
+    "url": "https://www.fuji-mold.co.jp/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャリア採用 200,000円～350,000円（職歴、技能に応じて）",
+    "url": "https://www.fuji-mold.co.jp/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/media/zairyou",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/media/zairyou/a8",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi/a4",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/catalog/company_dl.html",
+    "pass": 1
+   },
+   {
+    "quote": "1回のご精算が1,000円（税込）以上の場合につき",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000円毎に1枚ご利用でき、お買上金額よりお値引",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "1回のお買物のご精算1,000円(税込)につき、1,000円ごとに1枚ご利用いただける値引券です",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "チェーンストアの展開を目的として､十和株式会社 (現：株式会社ヨンドシーホールディングス)の全額出資により資本金200千円にて､愛媛県松山市湊町に株式会社フジを設立",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3,000千円をもって、兵庫県姫路市加納町9番地に本店を設立、",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "増資により資本金3億円となる",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "連結: 7711億2300万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "単独: 239億1200万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "連結: 151億1000万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "単独: 25億0600万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "連結: 173億7400万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "単独: 57億6300万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "連結: 74億5000万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "単独: 37億5700万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "連結: 2160億9700万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "単独: 1649億9100万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "連結: 4277億0200万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "単独: 2314億5500万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "：愛媛県松山市湊町に、繊維卸売業の十和（現ヨンドシーホールディングス）の全額出資により設立（資本金20万円）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント機能に関してはエフカードに準ずるが、税抜きでの購入100円ごとに1ポイントの通常ポイントとは別にエフカマネーでの税抜きでの購入200円ごとにボーナスポイントが付くようになっている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "両者ともに2年に100円の会費が必要である",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "購入額100円（税抜き）ごとに「割引ポイント」1ポイントが付与され、500ポイント毎に税込み500円の買い物ができる「割引ポイント券」が発行される",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "釣り銭が出ないので500円以上の買い物時に使用するよう推奨されている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "通常は100円で1ポイントだが、ほぼ毎週日曜日には「5倍デー」、毎月1・2日の「1・2祭」、毎月14日〜18日の「月の中市」などでポイント5倍キャンペーンを実施、食料品以外の多く、さらに食料品においても特定のジャンルでは10倍となることもある",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "4,400万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "143億円（2015年度）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "フジnews｜高松市に555坪･目標13.5億円｢マルナカ上林店｣6/27オープン – 流通スーパーニュース",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "(単位：百万円)",
+    "url": "https://www.the-fuji.com/company/ir/highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "※金額単位は、百万円未満を切り捨てて表示しています",
+    "url": "https://www.the-fuji.com/company/ir/highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "単位：百万円",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "一株利益（円）",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "一株配当（円）",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "料金プラン・お申し込みはこちら",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   }
+  ],
+  "最大案件・量産": [
+   {
+    "quote": "スロットルボディ",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニューモデルやレース用のエンジンなど、試作から量産向けまで、さまざまな金型を手掛けています",
+    "url": "https://www.fuji-mold.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年に創業し、一貫して金型設計・製作を行う当社は、熟練の金型工のノウハウを核に、大型・複雑な形状の金型から試作・量産用の金型まで、お客様のニーズに応じたさまざまな金型を提供してきました",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "スロットルボディ",
+    "url": "https://www.fuji-mold.co.jp/case/industry.html",
+    "pass": 1
+   },
+   {
+    "quote": "4.6L大型エンジンを手掛けた実績があります",
+    "url": "https://www.fuji-mold.co.jp/case/industry.html",
+    "pass": 1
+   },
+   {
+    "quote": "砂型鋳造のメリットは、大きな設備を必要としないためイニシャルコストを抑えられ、試作など量産前の検討段階における鋳物の確認や小ロット生産に向いています",
+    "url": "https://www.fuji-mold.co.jp/case/type.html",
+    "pass": 1
+   },
+   {
+    "quote": "生産数が多ければ多いほどメリットはありますが、小ロット生産には向きません",
+    "url": "https://www.fuji-mold.co.jp/case/type.html",
+    "pass": 1
+   },
+   {
+    "quote": "スロットルボディ",
+    "url": "https://www.fuji-mold.co.jp/case/type.html",
+    "pass": 1
+   },
+   {
+    "quote": "スロットルボディ",
+    "url": "https://www.fuji-mold.co.jp/case/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "ピストンが収まるシリンダーとクランクケースが一体化したようなブロック状の大型部品です",
+    "url": "https://www.fuji-mold.co.jp/case/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "年間休日123日（土・日・祝日・GW・夏期・年末年始）",
+    "url": "https://www.fuji-mold.co.jp/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社カード(フジ・ショッピングカード)を発行し、クレジット契約販売を開始",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "マックスバリュ西日本株式会社との株式交換契約締結",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "会社分割による共同持ち株会社設立へ向け、経営統合契約、吸収分割契約を締結",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "同社との株式交換契約効力発生に伴い、株式会社フジの連結子会社となる",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "隣接地に初の大型店となる「フジショッピングスクエア駅前店」（",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "- 自社カードを発行し、クレジット契約販売開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "（平成20年）4月：フジ主導による中国・四国地方で最大のSC「",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "）とFC契約で基本合意し、第1号店となる「デオデオ フジグラン三原店」を",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "との間で民事再生手続におけるスポンサー契約を締結",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "・吸収分割の各契約を締結したことを発表",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "との賃貸借契約満了及び施設の老朽化により閉店",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "愛媛県松山市のみで、農産品などを中心とした「地産市場 エフ・マルシェ 古川店」と大型の鮮魚売り場を有する「瀬戸内海響市場 エフ・マルシェ」の2店舗を展開する",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "（SuC）形式の大型店舗には「ザ・ビッグエクストラ」の呼称を与えている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "1987年（昭和62年）から26年間にわたって",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サニーTSUBAKIの民事再生手続におけるスポンサー契約締結に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニチエーの会社分割による新設会社の全株式取得（子会社化）に関する株式譲渡契約締結のお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジとマックスバリュ西日本株式会社による株式交換契約締結、株式会社フジの会社分割による共同持株会社フジの設立に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジ・カードサービスのクレジットカードに係るイシュア事業の会社分割（簡易吸収分割）による当社への承継に係る吸収分割契約の締結に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "【地域スーパー大手】中四国で最大手",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "新聞年間購読",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "50年間培ってきた金型作りの技術と相性も良く、同社の特長を活かせるのも大きいという",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造用金型の設計製作を軸として、50年間走り抜けてきた同社",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車のプレス金型を手掛ける明星金属工業は、工場のエア効率化や照明のLED化などにより16年間でCO2排出量を18・5%削減した",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "新聞の年間購読",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "【門型加工機とは？】大型・長尺ワーク加工に適した理由 - フジ産業株式会社",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "【門型加工機とは？】大型・長尺ワーク加工に適した理由",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "大型ワークや長尺部品の加工",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "門型加工機は、その独特の構造により、大型ワークでも安定した加工を可能にする工作機械です",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "門型構造の最大の特徴は、",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "大型ワークを安定して保持しながら加工できること",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "大型設備部品",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "大型・長尺加工に適した理由",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "門型加工機が大型加工や長尺加工に適している理由は、主にその",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、大型ワークでも振動が少なく、安定した加工が可能になります",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "② 大型ワークをそのまま加工できる",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "大型部品の場合、通常のマシニングセンタでは加工エリアに収まらないことがあります",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "長尺・大型ワークをそのままテーブルに設置して加工",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "大型ワークは重量があるため、段取り替えや移動に時間がかかります",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "大型加工の現場で求められる機械",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "大型部品や長尺ワークの加工では、",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "大型部品加工や長尺加工の現場で広く活用されています",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "大型加工の可能性を広げる門型加工機",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな大型加工の現場に機械を提供してきました",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "大型ワークや長尺部品の加工を効率的に行うための設備",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "門型マシニングセンタのメリットとは？｜大型ワーク加工で選ばれる理由",
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "pass": 3
+   },
+   {
+    "quote": "個体識別番号・ロット番号の検索",
+    "url": "https://www.the-fuji.com/service/public_fee/",
+    "pass": 3
+   },
+   {
+    "quote": "これによって2030年までの5年間、放送・配信すべてにおいて独占的に「FORMULA 1」をお届けできることとなりました",
+    "url": "https://otn.fujitv.co.jp/next-news20260115/",
+    "pass": 3
+   },
+   {
+    "quote": "各プラットフォームにより異なりますので、ご契約先にお問い合わせいただきますようお願いいたします",
+    "url": "https://otn.fujitv.co.jp/next-news20260115/",
+    "pass": 3
+   },
+   {
+    "quote": "＜料金等ご契約に関するお問い合わせ・お手続き＞",
+    "url": "https://otn.fujitv.co.jp/next-news20260115/",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "鋳造用金型、各種治具の設計・製作の株式会社フジ｜鋳造用金型、各種治具の設計・製作の株式会社フジ",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「金型業界一の便利屋」",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「金型業界一の便利屋」を目指します",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "熟練の金型工から始まった当社の技術は",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今回のご訪問を励みに、これからもより良い金型づくりを目指して取り組んでまいります",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "熟練の技術・一貫した生産体制・グローバルな事業展開でオーダーメイドの金型を提供します",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "フジの強みは、熟練の金型工の技とデジタル技術を融合した高度な設計技術はもちろん、海外拠点を活用した柔軟な生産体制、三次元測定機を活用した品質検査まで、トータルに対応できることです",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術を高め、ムダをなくし、お客様のニーズに応え続けることで、業界で一番便利で、質の高い金型屋を目ざします",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型業界一の便利屋を目ざします",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社フジは、鋳造用金型、各種治具の",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "熟練の金型工から始まったフジの技術は、時代の変化に応じてデジタル技術を融合",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "柔軟に応える「金型業界一の便利屋」を目ざして、私たちは生産設備・拠点・品質管理など、万全の体制を整えています",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・鋳鉄部品の鋳造用金型の",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型も鋳造品も三次元測定機で徹底検査",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の種類から探す",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の刃先のみをDED造形する技術｜リードタイム短縮・コスト削減を実現",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス型やダイカットロールなど、刃先に高い硬度が求められる金型においては、従来から加工コストやリード...",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "豆知識 加工技術 金型全般 AM事業",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "純タングステンのDED造形による金型への適用可能性",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳造用金型において、耐摩耗性の向上は品質と寿命を左右する重要な要素です",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "豆知識 金型全般",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「INTERMOLD２０２６/金型展２０２６」に出展することになりました",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型補修を模擬したサンプル、異種金属結合（バイメタル）部品、材料サンプルを展示します",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・金型設計（CAD）",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設備紹介｜鋳造用金型、各種治具の設計・製作の株式会社フジ",
+    "url": "https://www.fuji-mold.co.jp/equipments.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型の種類から探す",
+    "url": "https://www.fuji-mold.co.jp/equipments.html",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績一覧｜鋳造用金型、各種治具の設計・製作の株式会社フジ",
+    "url": "https://www.fuji-mold.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "オーダーメイドの金型づくり",
+    "url": "https://www.fuji-mold.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの取引先は主に自動車、自動二輪メーカー、関連部品メーカーなどです",
+    "url": "https://www.fuji-mold.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニューモデルやレース用のエンジンなど、試作から量産向けまで、さまざまな金型を手掛けています",
+    "url": "https://www.fuji-mold.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "一つひとつすべてがオーダーメイド、お客様のニーズに沿った「一品料理」の金型を提供します",
+    "url": "https://www.fuji-mold.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型の種類から探す",
+    "url": "https://www.fuji-mold.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジがこれまで手がけた製品を金型の種類からお探しいただけます",
+    "url": "https://www.fuji-mold.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター造形受託サービス｜鋳造用金型、各種治具の設計・製作の株式会社フジ",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまで培った金型ノウハウを活かした、",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型メンテナンス",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "（金型リペア）",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "従来の手作業によるTIG溶接の金型補修が、DED方式の金属3Dプリンターでは「除去加工」→「レーザー溶接」→「切削仕上」が1台ワンチャッキングで行うため、段取り替え不要の自動化が可能です",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙、エネルギー産業などの高温・極低温の極限環境の使用に耐えうる材料を必要な範囲に付加するなど、自由な設計に対応可能です",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型補修を模擬したサンプル品です",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "PBF造形による金型部品",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "協力会社様にて、PBF方式の金型部品製作も承っています",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型寿命向上",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外のとある研究によるとDEDで修復した金型は従来より寿命が３～８倍に向上したという論文があります",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品、金型",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "耐食部品、耐食金型",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "バイメタル金型",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブレストリミング金型",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙・エネルギー産業",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型の刃先のみをDED造形する技術｜リードタイム短縮・コスト削減を実現",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレス型やダイカットロールなど、刃先に高い硬度が求められる金型においては、従来から加工コストやリード...",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "純タングステンのDED造形による金型への適用可能性",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "鋳造用金型において、耐摩耗性の向上は品質と寿命を左右する重要な要素です",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型メーカーが伝えたい金属3Dプリンタの選び方",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型の種類から探す",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業情報｜鋳造用金型、各種治具の設計・製作の株式会社フジ",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "熟練の金型工の技術を核に",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "質の高い金型を一つひとつ仕上げます",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年に創業し、一貫して金型設計・製作を行う当社は、熟練の金型工のノウハウを核に、大型・複雑な形状の金型から試作・量産用の金型まで、お客様のニーズに応じたさまざまな金型を提供してきました",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "その独自のノウハウやきめ細かな対応が評価され、現在、当社の金型は世界中で活用いただいています",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "採用・人数": [
+   {
+    "quote": "リバースエンジニアリング",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術スタッフ 募集中！",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業拡大に向けて、技術者を募集しております！",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "リバースエンジニアリング",
+    "url": "https://www.fuji-mold.co.jp/equipments.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/equipments.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "具体的な製品名より製品をお探しいただけます",
+    "url": "https://www.fuji-mold.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "ベテラン技術者のノウハウを生かしながら、デジタル技術と融合することで、より精度の高い製品を効率よく提供できる体制を整えています",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "ホンダエンジニアリング優良感謝賞 受賞",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士理化工業株式会社と株式会社フジを統合し、株式会社フジに社名変更",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "ホンダエンジニアリング優良感謝賞 受賞 （2回目）",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報｜鋳造用金型、各種治具の設計・製作の株式会社フジ",
+    "url": "https://www.fuji-mold.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在募集している職種の募集要項を掲載しています",
+    "url": "https://www.fuji-mold.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用についてのお問い合わせは",
+    "url": "https://www.fuji-mold.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、採用に関するお問い合わせは",
+    "url": "https://www.fuji-mold.co.jp/mitsumori.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/mitsumori.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術スタッフ 募集中！",
+    "url": "https://www.fuji-mold.co.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業拡大に向けて、技術者を募集しております！",
+    "url": "https://www.fuji-mold.co.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "２０２４年１１月２２日(金)、２９日(金)の２日間にかけて、中央工学校 3DCAD設計科2年生の１２名が来られました",
+    "url": "https://www.fuji-mold.co.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "INTERMOLD名古屋出展のお知らせ",
+    "url": "https://www.fuji-mold.co.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "「INTERMOLD名古屋/金型展名古屋」に出展することになりました",
+    "url": "https://www.fuji-mold.co.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "愛知県名古屋市港区金城ふ頭２丁目２ ポートメッセなごや第１展示館",
+    "url": "https://www.fuji-mold.co.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/case/industry.html",
+    "pass": 1
+   },
+   {
+    "quote": "低圧鋳造は、その名の通り溶かしたアルミニウム合金等を低圧、低速で流し込む製法です",
+    "url": "https://www.fuji-mold.co.jp/case/type.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/case/type.html",
+    "pass": 1
+   },
+   {
+    "quote": "各製品名をクリックすると、該当の製品詳細項目にページ内リンクします",
+    "url": "https://www.fuji-mold.co.jp/case/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "車軸とタイヤを繋ぐ重要な部品がホイールですが、キャストホイールは二輪車に広く採用されているホイールです",
+    "url": "https://www.fuji-mold.co.jp/case/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質はアルミが採用されます",
+    "url": "https://www.fuji-mold.co.jp/case/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/case/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/media/kanagata/a24",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項・選考の流れ",
+    "url": "https://www.fuji-mold.co.jp/recruit/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用についてのお問い合わせは",
+    "url": "https://www.fuji-mold.co.jp/recruit/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項｜鋳造用金型、各種治具の設計・製作の株式会社フジ",
+    "url": "https://www.fuji-mold.co.jp/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "※5つのシフト制を採用しています",
+    "url": "https://www.fuji-mold.co.jp/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャリア採用 200,000円～350,000円（職歴、技能に応じて）",
+    "url": "https://www.fuji-mold.co.jp/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項・選考の流れ",
+    "url": "https://www.fuji-mold.co.jp/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用についてのお問い合わせは",
+    "url": "https://www.fuji-mold.co.jp/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/media/zairyou",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi",
+    "pass": 1
+   },
+   {
+    "quote": "各鋼材メーカーからは、SKD61同等品や改良品に商品名を付けて販売されているので、それらを購入しています",
+    "url": "https://www.fuji-mold.co.jp/media/zairyou/a8",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/media/zairyou/a8",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi/a4",
+    "pass": 1
+   },
+   {
+    "quote": "製品名から探す",
+    "url": "https://www.fuji-mold.co.jp/catalog/company_dl.html",
+    "pass": 1
+   },
+   {
+    "quote": "テナント・新規出店用地募集",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "株主権利確定日（2月末日）に当社の株主名簿に100株以上をお持ちの株主として名前が記載されている必要があります",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "フジが出店するエリア10県の名産品をご用意しております",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、株主の皆さまの長期間のご支援に対する感謝とともに、長期保有株主優待制度を通じて当社へのご理解を一層深めていただきたいとの考えから、８月末日に継続して１年以上、同一の株主番号で株主名簿に記載されている株主さまを対象として、新米を贈呈しております",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "基準日である2月末日の2営業日前までに100株以上の株式を購入・保有いただき、2月末日の当社株主名簿に名前が記載されますと、株主優待の対象となります",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "毎年8月末日に1年以上、300株以上連続して同一の株主番号で株主名簿に名前が掲載されている株主さまにお送りしています",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "新規出店用地募集",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "42,915名",
+    "url": "https://www.fujimediahd.co.jp/ir/s_information.html",
+    "pass": 3
+   },
+   {
+    "quote": "テナント・新規出店用地募集",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "(1987年3月 フジショッピングスクエア松山店に名称変更)",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "(広島県第1号店:1992年10月 フジグラン高陽に名称変更)",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "(山口県第1号店:1994年4月 フジグラン岩国に名称変更)",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "新規出店用地募集",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "1970年に創業し、一貫して金型設計・製作を行う当社は、熟練の金型工のノウハウを核に、大型・複雑な形状の金型から試作・量産用の金型まで、お客様のニーズに応じたさまざまな金型を提供してきました",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、アジアのモータリゼーションの高まりに対応すべく、2010年には世界の人口順位第4位であるインドネシアに自社工場を設立しました",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "創業 昭和45年（1970年） 8月",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "設立 昭和51年（1976年） 6月",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京都北区赤羽にて創業",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士理化工業株式会社を設立",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士理化工業株式会社 営業部を分社化し、株式会社フジを設立",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "インドネシア進出 （PT.Fuji Junya Kitagawa）設立",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "熟練の金型工達が集まったプロ集団として、1970年に創業したフジ",
+    "url": "https://www.fuji-mold.co.jp/recruit/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、培ってきた技術力",
+    "url": "https://www.fuji-mold.co.jp/recruit/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "チェーンストアの展開を目的として､十和株式会社 (現：株式会社ヨンドシーホールディングス)の全額出資により資本金200千円にて､愛媛県松山市湊町に株式会社フジを設立",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "創業50周年を迎える",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジ分割準備会社を設立",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "会社分割による共同持ち株会社設立へ向け、経営統合契約、吸収分割契約を締結",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3,000千円をもって、兵庫県姫路市加納町9番地に本店を設立、",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "中華人民共和国山東省青島市に子会社として永旺美思佰楽（青島）商業有限公司を設立",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "創業35周年を迎える",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "共同持株会社 株式会社フジ 設立",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "（4℃HD））の小売り部門として、全額出資で愛媛県松山市湊町に設立された",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "のスーパー「くらや」の支援として、フジ・十和・くらや共同出資で「ニューくらや」を設立し運営するなど、親会社の問屋と小売業に進出しようとする微妙な立場での中国地方での営業も行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "広島市は上記の通り創業時の親会社であった十和の本拠地であり、フジが運営を引き継いだイオングループのフード",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "：愛媛県松山市湊町に、繊維卸売業の十和（現ヨンドシーホールディングス）の全額出資により設立（資本金20万円）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "（昭和49年）：大東青果株式会社（後のフジ・アグリフーズ）を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "3月：株式会社フジ（旧商号 山陽興業株式会社、1950年4月21日設立）と、株式額面金額変更のため合併",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "（昭和55年）：株式会社セトスイ・フードサービスを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "10月：株式会社リブライトを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "を設立し、薬局・化粧品部門を分離独立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "（平成7年）：株式会社西南企画を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "を設立し、外食事業部門を分離独立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "11月：株式会社フジセキュリティを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "10月 - 株式会社ユーミーケアを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "との合弁でフジ・TSUTAYA・エンターテイメント株式会社を設立し、DVD・CD・書籍の小売及びレンタル部門を分離独立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "を設立し、クレジットカード事業部門を分離独立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "などと共同出資により株式会社フジファームを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "12月：株式会社フジ・スポーツ&フィットネスを設立し、総合フィットネスクラブ事業部門を分離独立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "（平成28年）1月29日：当社並びにグループ会社3社（株式会社フジデリカ・クオリティ、株式会社フジ・アクリフーズ、株式会社フジ・ハートデリカ）の共同出資により、農業との連携による福祉サービス事業を担う株式会社フジすまいるファーム飯山を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "により設立された株式会社",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "11月15日：準備会社として、当社100%出資による株式会社フジ分割準備会社を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "：株式会社鈴森水産設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーのフジ、農業生産法人を設立 作物を店舗で販売",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "「株式会社フジすまいるファーム飯山」設立のお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジとマックスバリュ西日本株式会社による株式交換契約締結、株式会社フジの会社分割による共同持株会社フジの設立に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "フジデリカ・クオリティ障がい者自立支援の子会社設立と特例子会社認定取得に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "フジは自動車やオートバイなどのエンジン部品のアルミ鋳造金型を主に手掛けており、創業50年で4000型以上の納入実績を持つ",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "創業: 1970年",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   }
+  ],
+  "発言": [
+   {
+    "quote": "代表取締役社長 北川 巡哉",
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー",
+    "url": "https://www.fuji-mold.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "先日、DMG森精機株式会社の専務執行役員であり、DMG森精機セールスアンドサービス株式会社の代表取締役社長を務める丹波様に、弊社へお越しいただきました",
+    "url": "https://www.fuji-mold.co.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "高度な装置の使いこなしは容易ではありませんが、常に変わらぬサポートをいただいており、この度の丹波社長のお話も大変勉強になりました",
+    "url": "https://www.fuji-mold.co.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー",
+    "url": "https://www.fuji-mold.co.jp/recruit/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー",
+    "url": "https://www.fuji-mold.co.jp/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 山口 普",
+    "url": "https://www.the-fuji.com/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長",
+    "url": "https://www.the-fuji.com/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役副社長",
+    "url": "https://www.the-fuji.com/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 山口普",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役副社長 辻雅信",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長 髙橋正人",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "この流れに対抗するには、付加価値の高い金型作りや成長が期待される航空・宇宙関連の特殊部品製造などに取り組む必要がある」（北川巡哉社長）",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "市場が成熟する前に機械を使いこなせれば、他社との差別化ができる」（北川社長）",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "段取り時間なども考慮すると大幅に時間短縮できる」（北川社長）",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの新しい取り組みに興味を持つ企業は多く、「設備投資前と比較し、取引先も約3倍に増えた」（北川社長）",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "それを当社のポリシーとして社会に貢献したい」（北川社長）",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "「将来の夢や希望から逆算し、目標設定している」と北川社長",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "代表者: 北川巡哉社長",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "久野金属工業 取締役副社長 久野 功雄氏 〜鳥瞰蟻瞰〜",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "明星金属工業 上田幸司社長に聞く CO2削減に取り組む理由【特集:カーボンニュートラルに向けたはじめの一歩】",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンニュートラルへの取り組みを推進する上田幸司社長は「CO2削減に取り組むことで無駄な…",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "岡本工作機械製作所 石井常路社長",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "↓このインタビュー好きです",
+    "url": "https://note.com/wallofdub/n/n51ef16c45247",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、フジロック×サマソニ社長対談で「アーティストがOKな場合はOK」という趣旨の議論がなされており、XGは普段のライブから撮影OKを貫いており、セキュリティの方も撮影を取り締まっていないことから個人的にリスクを取って撮影することにしました",
+    "url": "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "pass": 3
+   },
+   {
+    "quote": "フジロック×サマソニ社長対談 運営トップが赤裸々に語る2大フェスの「今」 | Rolling Stone Japan(ローリングストーン ジャパン）",
+    "url": "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "pass": 3
+   },
+   {
+    "quote": "本誌の人気企画、フジロック／サマーソニック両運営による対談インタビュー",
+    "url": "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "pass": 3
+   },
+   {
+    "quote": "元フジテレビ社長・村上光一社長・自叙伝インタビュー動画があった",
+    "url": "https://note.com/ezuremanagement/n/n4321b8d1a8af",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー",
+    "url": "https://note.com/ezuremanagement/n/n4321b8d1a8af",
+    "pass": 3
+   },
+   {
+    "quote": "村上光一社長",
+    "url": "https://note.com/ezuremanagement/n/n4321b8d1a8af",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー・対談",
+    "url": "https://note.com/ezuremanagement/n/n4321b8d1a8af",
+    "pass": 3
+   },
+   {
+    "quote": "その他人物インタビュー",
+    "url": "https://note.com/ezuremanagement/n/n4321b8d1a8af",
+    "pass": 3
+   },
+   {
+    "quote": "フジテレビ清水社長と堀江貴文氏の特別授業にみるフジテレビ改革の本気度",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "今週、フジテレビの清水社長と堀江貴文氏が、大学の講義に揃って参加して、大きな注目を集めました",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "フジテレビ清水社長 堀江貴文氏と大学の特別授業に参加",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "堀江貴文氏といえば、ライブドアの社長だった2005年にニッポン放送買収を通じてフジテレビ買収を実質的に目指して、大きな騒動になったことで有名です",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "2006年1月、ライブドア代表取締役社長の堀江貴文氏（当時）が、証券取引法違反の疑いで逮捕された",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "それが今回、堀江貴文氏が清水社長と共同で特別授業に参加する形となっただけでなく、今月18日からは、堀江貴文氏が経営する「REAL VALUE」のテレビCMがフジテレビに放映されています",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "「ホリエモン 吼える！」 堀江貴文氏単独インタビュー （５）｜Net-IB｜九州企業特報",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "今回の清水社長と堀江貴文氏による特別講義には、そうした過去の因縁や遺恨を超えて、新しい一歩を進むのであると言う清水社長や新経営陣のメッセージが込められているのは間違いないでしょう",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "現在、フジテレビは、中居正広さんと女性とのトラブルへの対応がきっかけで、経営陣が退陣する事態に発展し、新社長となった清水社長のもと再生・改革プランを実行する過程にあります",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "今回の清水社長と堀江貴文氏の授業は、そうしたフジテレビの改革に対する本気度への懐疑的な見方に対する一石として、大きなインパクトがあると考えられます",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "今回の授業の際には、生徒からの質問に答える形で、清水社長が堀江貴文氏の番組起用の可能性もありえると回答しているのが象徴的です",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "フジテレビ清水賢治社長、堀江貴文氏の番組出演に前向き「才能と能力は我々に必要」（マイナビニュース） - Yahoo!ニュース",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "フジテレビの清水賢治社長と実業家の堀江貴文氏が22日、iU(情報経営イノベーション専門職大学、東京・墨田区)の授業にゲスト",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "また、授業の対談の過程で、清水社長が現在のフジテレビがイノベーションのジレンマに陥っていることに言及し、従来のスタイルを変えていくことへの意思を宣言しているのも印象的でした",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "『ラヴィット!』『新しいカギ』番組Pが語る「笑い全振り」「学校企画」へのターニングポイント",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "ふたつの違和感〜フジテレビ 社長の記者会見で｜マー君",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "ふたつの違和感〜フジテレビ 社長の記者会見で",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "先日、そのフジテレビ の社長が記者会見を開いた",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "まずひとつ目は、社長の服装だ",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "動画はないので、写真から判断するするしかないが、社長のスーツの上着だ",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "ところが、写真で見る限り、フジテレビの社長の第一ボタンは、だらしなく、あえてだらしなくと書くが、開いたままだ",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "テレビ局なので、普段はスーツなどあまり着ないのかもしれないけれども、一大企業の社長となれば、それは、知りませんでしたでは済まない",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、僕はこの社長に会ったことはないので、その人となりはわからない",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "いや、社長になるだけの人なのだから、多分そうなのだろう",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "株主優待制度 | 株主・投資家の皆さまへ | 株式会社フジ 会社案内サイト",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆さまへ",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待制度",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "フジでは、株主の皆さまへの日頃のご支援に対する感謝とともに、株主優待制度を通じた当社へのご理解を一層深めていただきたいとの考えから、株主さまご優待券（値引券）を中心とした株主優待制度をご用意しております",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待をお受けいただくためには、",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "株主権利確定日（2月末日）に当社の株主名簿に100株以上をお持ちの株主として名前が記載されている必要があります",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "株主さまご優待券利用方法",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、株主の皆さまの長期間のご支援に対する感謝とともに、長期保有株主優待制度を通じて当社へのご理解を一層深めていただきたいとの考えから、８月末日に継続して１年以上、同一の株主番号で株主名簿に記載されている株主さまを対象として、新米を贈呈しております",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "300株以上を継続して1年以上保有されている株主さま",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "（毎年8月末日の基準日に、継続して1年以上、同一の株主番号で保有されている株主さま）",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "どうやったら株主優待を受けられますか？",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "基準日である2月末日の2営業日前までに100株以上の株式を購入・保有いただき、2月末日の当社株主名簿に名前が記載されますと、株主優待の対象となります",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "Aコースの株主優待券とは何ですか？",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "Aコースの株主優待券を利用できる店舗はどこですか？",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "Aコースの株主優待券はいくらの買物から利用できますか？",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "Aコースの株主優待券に有効期限はありますか？",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "長期保有株主優待制度のお米はどうやったらもらえますか？",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "毎年8月末日に1年以上、300株以上連続して同一の株主番号で株主名簿に名前が掲載されている株主さまにお送りしています",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "長期保有株主優待制度のお米はいつ届きますか？",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆さまへ",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待制度",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "チェーンストアの展開を目的として､十和株式会社 (現：株式会社ヨンドシーホールディングス)の全額出資により資本金200千円にて､愛媛県松山市湊町に株式会社フジを設立",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆さまへ",
+    "url": "https://www.the-fuji.com/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待制度",
+    "url": "https://www.the-fuji.com/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "（4℃HD））の小売り部門として、全額出資で愛媛県松山市湊町に設立された",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "の愛媛県に敢えて出店した理由は、親会社の十和が広島を中心にして中国地方に約2,000店の取引先があり、中国地方で小売業を行った場合に不安と不信を与える可能性があったこと、また、十和の商圏外で比較的輸送に有利な場所として愛媛県を選んだ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "のスーパー「くらや」の支援として、フジ・十和・くらや共同出資で「ニューくらや」を設立し運営するなど、親会社の問屋と小売業に進出しようとする微妙な立場での中国地方での営業も行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "の関係が無くなり、さらには、2019年（平成31年）2月28日の株式譲渡により株式会社アスティに替わってイオン株式会社が当社の筆頭株主となった",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "この株式交換によりイオンの出資比率が過半数を超えたため、フジはイオンの子会社となった",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "広島市は上記の通り創業時の親会社であった十和の本拠地であり、フジが運営を引き継いだイオングループのフード",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "：愛媛県松山市湊町に、繊維卸売業の十和（現ヨンドシーホールディングス）の全額出資により設立（資本金20万円）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "などと共同出資により株式会社フジファームを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "、端数株式の取得などを経て、株式会社レディ薬局の株主は株式会社ツルハホールディングスと当社のみとなった",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "（平成28年）1月29日：当社並びにグループ会社3社（株式会社フジデリカ・クオリティ、株式会社フジ・アクリフーズ、株式会社フジ・ハートデリカ）の共同出資により、農業との連携による福祉サービス事業を担う株式会社フジすまいるファーム飯山を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "1月16日：前述のイオン株式会社との資本・業務提携に基づき、株主からの譲受によりイオン株式会社が当社株式の一部を取得",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "2月28日：株式会社アスティが保有していた当社株式の一部がイオン株式会社に譲渡されたことに伴い、イオン株式会社が当社の筆頭株主となる",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "11月15日：準備会社として、当社100%出資による株式会社フジ分割準備会社を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "優待割引券の相互利用が開始され、フジの「株主優待割引券」をマックスバリュ西日本が運営する「マックスバリュ」「マルナカ」「",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "」の直営売場での利用及びマックスバリュ西日本が発行する「株主様ご優待券」の当社直営売場での利用が可能となる",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、フジの「株主優待割引券」はマックスバリュ西日本以外のイオングループ各社の店舗（",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "において、2024年3月1日にマックスバリュ西日本との統合により発足する新会社の商号を当社親会社の商号である「株式会社フジ」を承継するとともに、本社を広島県広島市",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "主要株主である筆頭株主の異動の予定に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社内の株主優待割引券の相互利用に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト | 株主・投資家の皆さまへ | 株式会社フジ 会社案内サイト",
+    "url": "https://www.the-fuji.com/company/ir/highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆さまへ",
+    "url": "https://www.the-fuji.com/company/ir/highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待制度",
+    "url": "https://www.the-fuji.com/company/ir/highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "親会社株主に帰属する当期純利益",
+    "url": "https://www.the-fuji.com/company/ir/highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "株主総会日をチェック",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待検索",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待検索を使う",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "株主総会スケジュール",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "株主ご優待制度について",
+    "url": "https://www.the-fuji.com/service/public_fee/",
+    "pass": 3
+   },
+   {
+    "quote": "6月に開催されたフジ・メディア・ホールディングスの株主総会は、事前の大荒れ予想に反して、会社側の提案通りの結果となりましたが、まだ社内外共に、フジテレビの改革が本当に進むのかは慎重な姿勢が見られる状況なのは間違いありません",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "フジHD株主総会 会社側提案の取締役候補 全員80％超える賛成率",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "また、直近では、フジテレビの株主総会で、ダルトン投資ファンド側の社外取締役候補として名前が上がっていた北谷賢司氏が、フジ・メディア・ホールディングス側が社外取締役候補からの建設的な提案も聞く意思がなかったという問題提起をしています",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "「改革提案は届かなかった」──当事者が明かすフジ・メディアHD株主総会の舞台裏 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月、“会社側の完勝”と報じられたフジ・メディア・ホールディングス（FMH）の株主総会",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株主 優待制度 | 株主 ・投資家の皆さまへ | 株式会社 フジ 会社 ... — 株主 優待制度 | 株主 ・投資家の皆さまへ | 株式会社 フジ 会社 ... フジ https://www.the-fuji.com > company > benefit",
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "フジ 【8278】の 大株主 情報 - 株探 — フジ 【8278】の 大株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=8278",
+    "pass": 3
+   },
+   {
+    "quote": "株式の状況 - フジ・メディア・ホールディングス — 株式の状況 - フジ・メディア・ホールディングス フジ・メディア・ホールディングス https://www.fujimediahd.co.jp > s_information",
+    "url": "https://www.fujimediahd.co.jp/ir/s_information.html",
+    "pass": 3
+   },
+   {
+    "quote": "フジ 【8278】の 大株主 - バフェット・コード — フジ 【8278】の 大株主 - バフェット・コード バフェット・コード https://www.buffett-code.com > mainshareholder",
+    "url": "https://www.buffett-code.com/company/8278/mainshareholder",
+    "pass": 3
+   },
+   {
+    "quote": "フジ親会社 の 大株主 に旧村上ファンド系【スーパー ... - YouTube — フジ親会社 の 大株主 に旧村上ファンド系【スーパー ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=F51ykeUKNdc",
+    "pass": 3
+   },
+   {
+    "quote": "企業沿革 | 会社情報 | 株式会社 フジ 会社案内サイト — 企業沿革 | 会社情報 | 株式会社 フジ 会社案内サイト フジ https://www.the-fuji.com > company > about > history",
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | 株式会社 フジ 会社案内サイト — 会社概要 | 会社情報 | 株式会社 フジ 会社案内サイト フジ https://www.the-fuji.com > company > about",
+    "url": "https://www.the-fuji.com/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "フジ (チェーンストア) - Wikipedia — フジ (チェーンストア) - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > フジ_(チェーンストア)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フジ | 企業情報 - 愛媛シゴト図鑑 — 株式会社 フジ | 企業情報 - 愛媛シゴト図鑑 愛媛シゴト図鑑 https://ehime-shigotozukan.com > 企業検索",
+    "url": "https://ehime-shigotozukan.com/companies/fuji/",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト | 株主・投資家の皆さまへ - フジ — 業績ハイライト | 株主・投資家の皆さまへ - フジ フジ https://www.the-fuji.com > company > highlight",
+    "url": "https://www.the-fuji.com/company/ir/highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "【 フジ 】[8278]決算発表や業務・財務情報 | 日経電子版 — 【 フジ 】[8278]決算発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "pass": 3
+   },
+   {
+    "quote": "フジ 決算／3～8月営業利益49.1％減、SKU数最適化などで粗 ... — フジ 決算／3～8月営業利益49.1％減、SKU数最適化などで粗 ... 流通ニュース https://www.ryutsuu.biz > 決算",
+    "url": "https://www.ryutsuu.biz/accounts/s199877.html",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト｜IR情報 - フジ日本株式会社 — 業績ハイライト｜IR情報 - フジ日本株式会社 フジ日本株式会社 https://www.fuji-nihon.com > highlight",
+    "url": "https://www.fuji-nihon.com/ir/highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "フジ 金属積層造形 で異種材金型を製造【金型の底力】 — フジ 金属積層造形 で異種材金型を製造【金型の底力】 金型新聞社 https://kanagata-shimbun.com > 202305_sokodikara",
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "EFujigiken - フジ技研 Fujigiken — EFujigiken - フジ技研 Fujigiken 株式会社フジ技研 PDF https://www.fujigiken.jp > slaker > upload > files",
+    "url": "https://www.fujigiken.jp/slaker/upload/files/attach_file1_20201105d33af034a7dfd3aca9ed427ca9d0636b50c06e7b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造用金型、各種治具の設計・製作の株式会社 フジ ｜鋳造用金 ... — 鋳造用金型、各種治具の設計・製作の株式会社 フジ ｜鋳造用金 ... fuji-mold.co.jp https://www.fuji-mold.co.jp",
+    "url": "https://www.fuji-mold.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "公共 料金 各種 料金 お支払い頂けます！ | 商品・サービス - フジ — 公共 料金 各種 料金 お支払い頂けます！ | 商品・サービス - フジ フジ https://www.the-fuji.com > service > public_fee",
+    "url": "https://www.the-fuji.com/service/public_fee/",
+    "pass": 3
+   },
+   {
+    "quote": "「 フジ テレビNEXT ライブ・プレミアム」視聴 料金 改定の ... — 「 フジ テレビNEXT ライブ・プレミアム」視聴 料金 改定の ... フジテレビ ONE TWO NEXT（ワンツーネクスト） https://otn.fujitv.co.jp > next-news20260115",
+    "url": "https://otn.fujitv.co.jp/next-news20260115/",
+    "pass": 3
+   },
+   {
+    "quote": "「 フジ テレビNEXT ライブ・プレミアム」月額利用 料金 改定の ... — 「 フジ テレビNEXT ライブ・プレミアム」月額利用 料金 改定の ... J:COM 公式サイト https://notices.jcom.co.jp > お知らせ",
+    "url": "https://notices.jcom.co.jp/notice/94081.html",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー ／ フジ スタッフホールディングス 社長 ・増山浩史氏 — インタビュー ／ フジ スタッフホールディングス 社長 ・増山浩史氏 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/00055129",
+    "pass": 3
+   },
+   {
+    "quote": "フジ HD清水 社長 、不動産分離「簡単に回答出せず ... — フジ HD清水 社長 、不動産分離「簡単に回答出せず ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUC221HS0S5A221C2000000/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "フジ ロックの\"宿どうする？\"問題を ― 異業種から音楽業界に来 ... フジ ロックの\"宿どうする？\"問題を ― 異業種から音楽業界に来 ... note https://note.com > 旅行・お出かけ > 宿泊施設情報",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   },
+   {
+    "quote": "【 フジ ロック26大トリ終了！】マッシブアタック―「世界の ... 【 フジ ロック26大トリ終了！】マッシブアタック―「世界の ... note https://note.com > エンタメ > ライブ・フェス",
+    "url": "https://note.com/wallofdub/n/n51ef16c45247",
+    "pass": 3
+   },
+   {
+    "quote": "藤井風 フジ ロック 2026：ライブレポ（新潟）｜北村匡平 - note 藤井風 フジ ロック 2026：ライブレポ（新潟）｜北村匡平 - note note https://note.com > エンタメ > ライブ・フェス",
+    "url": "https://note.com/kyohhei99/n/nfd97399d31bd",
+    "pass": 3
+   },
+   {
+    "quote": "人生初の フジ ロックはXGを目の前で観れて最高だった一方で 人生初の フジ ロックはXGを目の前で観れて最高だった一方で note https://note.com > 音楽 > ライブ・フェス",
+    "url": "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "pass": 3
+   },
+   {
+    "quote": "フジ テレビの人気・新着記事まとめ - note フジ テレビの人気・新着記事まとめ - note note https://note.com > tag > フジテレビ",
+    "url": "https://note.com/tag/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93",
+    "pass": 3
+   },
+   {
+    "quote": "元 フジ テレビ 社長 ・村上光一 社長 ・自叙伝インタビュー動画が ... 元 フジ テレビ 社長 ・村上光一 社長 ・自叙伝インタビュー動画が ... note https://note.com > ... > その他人物インタビュー",
+    "url": "https://note.com/ezuremanagement/n/n4321b8d1a8af",
+    "pass": 3
+   },
+   {
+    "quote": "フジ テレビ清水 社長 と堀江貴文氏の特別授業にみる フジ ... - note フジ テレビ清水 社長 と堀江貴文氏の特別授業にみる フジ ... - note note https://note.com > ... > クリエイターインタビュー",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "ふたつの違和感〜 フジ テレビ 社長 の記者会見で｜マー君 - note ふたつの違和感〜 フジ テレビ 社長 の記者会見で｜マー君 - note note https://note.com > 社会問題・時事 > 国内ニュース",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "フジロックの\"宿どうする？\"問題を ― 異業種から音楽業界に来た自分が本気で考えてみた｜Ryona Hatakeyama",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   },
+   {
+    "quote": "フジロックの\"宿どうする？\"問題を ― 異業種から音楽業界に来た自分が本気で考えてみた",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   },
+   {
+    "quote": "自分は19歳のときに初めてフジロックに行った。",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   },
+   {
+    "quote": "あの頃はお金がなかったから、名古屋から深夜バスで苗場に入って、1日だけフェスを楽しんで、また深夜バスで名古屋に帰るという弾丸だった。宿なし。往復深夜バス。体力と気合だけで乗り切るスタイルだった。",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   },
+   {
+    "quote": "初めてSigur Rósを観たのはフジロックだった。あの音の壁に包まれたとき、涙が出た。The Lemon Twigsを観たときも、「こんなに自由でいいんだ」と思った。どちらも今でも人生のベストライブに入っている。",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   },
+   {
+    "quote": "フジロックに通い続けるうちに、宿泊のスタイルは変わっていった。民泊を使った年があった。越後湯沢の旅館を押さえた年もあった。友人とキャンピングカーをレンタルして乗り込んだこともあった。毎年毎年、「今年の宿どうする？」が最大の議題で、音楽の話より先に宿の話をしている自分に気づいて笑ったこともある。",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   },
+   {
+    "quote": "そして去年、マネジメントしているアーティストでフジロックの舞台に立たせてもらった。19歳から客として通い続けた場所に、今度はアーティストを送り出す側として立ち会えた。人生で最高の夏だった。",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   },
+   {
+    "quote": "客として通った十数年、そしてアーティストを送り出す立場になった今。両方の経験を経て感じているのは、",
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "pass": 3
+   },
+   {
+    "quote": "【フジロック26大トリ終了！】マッシブアタック―「世界の見え方」を変える者―｜長谷川幸光／編集者／ 情報設計士",
+    "url": "https://note.com/wallofdub/n/n51ef16c45247",
+    "pass": 3
+   },
+   {
+    "quote": "【フジロック26大トリ終了！】マッシブアタック―「世界の見え方」を変える者―",
+    "url": "https://note.com/wallofdub/n/n51ef16c45247",
+    "pass": 3
+   },
+   {
+    "quote": "（ざっと書いたので、あとで動画なども追加していきます）",
+    "url": "https://note.com/wallofdub/n/n51ef16c45247",
+    "pass": 3
+   },
+   {
+    "quote": "マッシブアタックが編集しているのは「世界の見え方」そのもの",
+    "url": "https://note.com/wallofdub/n/n51ef16c45247",
+    "pass": 3
+   },
+   {
+    "quote": "世界を理解できなくなりそうな瞬間にも、リズムと低音だけはそこに残り続ける",
+    "url": "https://note.com/wallofdub/n/n51ef16c45247",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ彼らは、フジロックの公演を、世界初の同時配信の場に選んだのか？",
+    "url": "https://note.com/wallofdub/n/n51ef16c45247",
+    "pass": 3
+   },
+   {
+    "quote": "フジロック26が終了した。国内外180組を超えるアーティストが参加し、前夜祭から述べ4日間、123,500人が来場したという（1日券が売り切れた土曜日は38,000人とのこと）。",
+    "url": "https://note.com/wallofdub/n/n51ef16c45247",
+    "pass": 3
+   },
+   {
+    "quote": "今年は土・日と参加し、BASEMENT JAXX、XG、TOMORA、忌野清志郎PEACE SONGS、The Breaks、ANGINE DE POITRINE、MASSIVE ATTACK、インドのTAL FRYなどを見た。",
+    "url": "https://note.com/wallofdub/n/n51ef16c45247",
+    "pass": 3
+   },
+   {
+    "quote": "藤井風 フジロック 2026：ライブレポ（新潟）｜北村匡平",
+    "url": "https://note.com/kyohhei99/n/nfd97399d31bd",
+    "pass": 3
+   },
+   {
+    "quote": "藤井風 フジロック 2026：ライブレポ（新潟）",
+    "url": "https://note.com/kyohhei99/n/nfd97399d31bd",
+    "pass": 3
+   },
+   {
+    "quote": "ついに念願が叶い、家族5人で藤井風のライブに参加してきました。",
+    "url": "https://note.com/kyohhei99/n/nfd97399d31bd",
+    "pass": 3
+   },
+   {
+    "quote": "2020年以来、わが家は藤井風の音楽に満ちています。車でも家でも当たり前のように風の曲が流れているため、子供たちが鼻歌を歌えば、だいたい藤井風。本人たちが自覚しないうちに、着々と英才教育を施してきました。",
+    "url": "https://note.com/kyohhei99/n/nfd97399d31bd",
+    "pass": 3
+   },
+   {
+    "quote": "子供たちはみんな風の歌が大好きで、僕たち夫婦がライブへ行くたびに「自分も行きたい」と言っていました。しかし、親子席にはなかなか当選しません。とりわけ子供③（小学3年の娘）は、以前から「『まつり』をママと一緒に踊りたい」と願っていました。この機会を逃したら、家族全員で参加できるチャンスはもうないかもしれない。そう思い、すぐにチケットを取りました。",
+    "url": "https://note.com/kyohhei99/n/nfd97399d31bd",
+    "pass": 3
+   },
+   {
+    "quote": "参加したのは、2026年7月25日（土）の一日だけです。とはいえ、小さな子供たちをフジロックという過酷なフェスへ連れていく以上、準備は入念にしておく必要があります。",
+    "url": "https://note.com/kyohhei99/n/nfd97399d31bd",
+    "pass": 3
+   },
+   {
+    "quote": "会場内の移動や休憩を快適にする有料サービス「FUJI ROCK go round」の専用パスを購入し、前日は妻の実家がある群馬に宿泊。当日は無理をせず、土曜日だけ参加する計画を立て、それなりに早い時間に出発しました。",
+    "url": "https://note.com/kyohhei99/n/nfd97399d31bd",
+    "pass": 3
+   },
+   {
+    "quote": "妻とは音楽の好みがかなり近いため、誰を見るかで揉めることはありません。当日のお目当ては、Bialystocks、Kroi、cero、そして藤井風。まずは11時からのBialystocksを目指しました。",
+    "url": "https://note.com/kyohhei99/n/nfd97399d31bd",
+    "pass": 3
+   },
+   {
+    "quote": "人生初のフジロックはXGを目の前で観れて最高だった一方で、やっぱりフジロックは私には少し敷居が高かった件｜徳力基彦｜エンタメビジネスウォッチャー",
+    "url": "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "pass": 3
+   },
+   {
+    "quote": "人生初のフジロックはXGを目の前で観れて最高だった一方で、やっぱりフジロックは私には少し敷居が高かった件",
+    "url": "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "pass": 3
+   },
+   {
+    "quote": "はい、参加させて頂きました、人生初のフジロック。",
+    "url": "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "pass": 3
+   },
+   {
+    "quote": "3年前の私なら、フジロック行かないの？と言われたら「多分一生行かないと思います」と答えるだろうぐらい縁のないイベントだったんですが。",
+    "url": "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "pass": 3
+   },
+   {
+    "quote": "藤井風とXGのフジロック出演決定で考える、世界から注目される日本の音楽フェスの可能性（徳力基彦） - エキスパート - Yahoo!ニュース",
+    "url": "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "pass": 3
+   },
+   {
+    "quote": "7月24日から新潟・苗場スキー場で開催される音楽フェス「FUJI ROCK FESTIVAL '26」（以下、フジロック）",
+    "url": "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "pass": 3
+   },
+   {
+    "quote": "藤井風さんとXGの出演が決まってから、とりあえず勢いで土曜日のチケットだけ買ってみて、帰りのバスとかも手配はしたものの、本当に行くのかどうか、正直当日の直前まで悩んでました（汗）",
+    "url": "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "pass": 3
+   },
+   {
+    "quote": "なにしろ土曜日の苗場の朝は当日凄い雨でして。",
+    "url": "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "pass": 3
+   },
+   {
+    "quote": "フジテレビの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93",
+    "pass": 3
+   },
+   {
+    "quote": "ヒットドラマの回顧から最新の制作情報、さらにはメディア企業の経営戦略まで幅広く扱っています。",
+    "url": "https://note.com/tag/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93",
+    "pass": 3
+   },
+   {
+    "quote": "懐かしの名作への愛着や、広告基盤の刷新といった業界の動きに関する記事が集まっています。",
+    "url": "https://note.com/tag/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93",
+    "pass": 3
+   },
+   {
+    "quote": "ヒットドラマの回顧から最新の制作情報、さらにはメディア企業の経営戦略まで幅広…",
+    "url": "https://note.com/tag/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93",
+    "pass": 3
+   },
+   {
+    "quote": "元フジテレビ社長・村上光一社長・自叙伝インタビュー動画があった。｜えづれさんの「インターネットの良き未来をつくるnote テクノロジーでの未来予測」",
+    "url": "https://note.com/ezuremanagement/n/n4321b8d1a8af",
+    "pass": 3
+   },
+   {
+    "quote": "元フジテレビ社長・村上光一社長・自叙伝インタビュー動画があった。",
+    "url": "https://note.com/ezuremanagement/n/n4321b8d1a8af",
+    "pass": 3
+   },
+   {
+    "quote": "えづれさんの「インターネットの良き未来をつくるnote テクノロジーでの未来予測」",
+    "url": "https://note.com/ezuremanagement/n/n4321b8d1a8af",
+    "pass": 3
+   },
+   {
+    "quote": "えづれといいます。ネットから消えてしまいそうな記事の保存、テック界隈ニュース、国際関係、政党政治、ブロックチェーン技術の応用実践研究開発、経営戦略論・株式市場のデータ・国内のスタートアップ状況まで。",
+    "url": "https://note.com/ezuremanagement/n/n4321b8d1a8af",
+    "pass": 3
+   },
+   {
+    "quote": "次の未来を創る人のためのコンテンツをお届けしていきます。",
+    "url": "https://note.com/ezuremanagement/n/n4321b8d1a8af",
+    "pass": 3
+   },
+   {
+    "quote": "フジテレビ清水社長と堀江貴文氏の特別授業にみるフジテレビ改革の本気度。｜徳力基彦｜エンタメビジネスウォッチャー",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "フジテレビ清水社長と堀江貴文氏の特別授業にみるフジテレビ改革の本気度。",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "今週、フジテレビの清水社長と堀江貴文氏が、大学の講義に揃って参加して、大きな注目を集めました。",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "これはあくまで情報経営イノベーション専門職大学での特別授業として実施されたものですが、学生だけでなく多くのメディアも招待され、大々的に実施されたのがポイントです。",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "この授業自体は、NHKなどのメディアでも大きく取り上げられましたし、その50分ほどの授業の様子も、全てFNNプライムオンラインのYouTubeチャンネルに公開されていますから、その力の入れ具合が伝わってくると言えるでしょう。",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "フジテレビ清水社長 堀江貴文氏と大学の特別授業に参加",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "今回の授業はフジテレビの今後の改革の本気度を考える上で、象徴的な意味があると言えますので、詳細をご紹介したいと思います。",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "フジテレビ「出禁」だった堀江貴文氏との共同授業",
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "pass": 3
+   },
+   {
+    "quote": "ふたつの違和感〜フジテレビ 社長の記者会見で｜マー君",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "ふたつの違和感〜フジテレビ 社長の記者会見で",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "僕は、中居正広のファンでもないので、彼がこのままテレビから消えてしまっても一向に困ることはない。",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "また、そんなことはないと思うが、フジテレビ が潰れてしまっても、うわあ、と思う程度だ。",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "いや、心の暗い部分には、「そうなればいったいどうなるのかぜひ見てみたい」そんなダークなマー君もいる。",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "先日、そのフジテレビ の社長が記者会見を開いた。",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、こんなところで「衝撃の真実」が明らかになるとは、誰も期待はしていないだろう。",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   },
+   {
+    "quote": "だから、内容はさもありなんというものだった。",
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "フジ (@fuji_saiore) / X フジ (@fuji_saiore) / X X https://x.com > fuji_saiore",
+    "url": "https://x.com/fuji_saiore",
+    "pass": 3
+   },
+   {
+    "quote": "フジ テレビ (@fujitv) / X フジ テレビ (@fujitv) / X X https://x.com > fujitv",
+    "url": "https://x.com/fujitv",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】 フジ テレビ  モータースポーツ (@cx_motorsports) / X 【公式】 フジ テレビ  モータースポーツ (@cx_motorsports) / X X https://x.com > cx_motorsports",
+    "url": "https://x.com/cx_motorsports",
+    "pass": 3
+   },
+   {
+    "quote": "フジ コーポレーション (@fuji_tire) / X フジ コーポレーション (@fuji_tire) / X X https://x.com > fuji_tire",
+    "url": "https://x.com/fuji_tire",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "FUJI フジ (@fujicompanies) - Facebook FUJI フジ (@fujicompanies) - Facebook Facebook https://www.facebook.com > ... > Retail company",
+    "url": "https://www.facebook.com/fujicompanies/",
+    "pass": 3
+   },
+   {
+    "quote": "フジ テレビ | Minato-ku Tokyo - Facebook フジ テレビ | Minato-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > テレビ・映画 > テレビ局",
+    "url": "https://www.facebook.com/fujitelevision/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "劇団 フジ (@gekidanfuji) - Facebook 劇団 フジ (@gekidanfuji) - Facebook Facebook https://www.facebook.com > ページ > メディア > 演劇",
+    "url": "https://www.facebook.com/gekidanfuji/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fuji-mold.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/equipments.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/case.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/recruit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/mitsumori.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/case/industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/case/type.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/case/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/media/kanagata/a24",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/recruit/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/recruit/requirements.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/case/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/media/zairyou",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/media/zairyou/a8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/media/kikaisetubi/a4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/catalog/company_dl.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fuji-mold.co.jp/dcms_media/image/equipmentsimg01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/dcms_media/image/equipmentsimg02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/dcms_media/image/equipmentsimg03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/dcms_media/image/equipmentsimg04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/dcms_media/image/equipmentsimg06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/dcms_media/image/kensa_img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/dcms_media/image/case_mainimage.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/dcms_media/image/case_img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.the-fuji.com/company/ir/benefit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/stock/holder?code=8278",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fujimediahd.co.jp/ir/s_information.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.the-fuji.com/company/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.the-fuji.com/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.the-fuji.com/company/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji.co.jp/ir/achievement/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9277/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/202305_sokodikara/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=B8SGWPw4TcQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fujigiken.jp/slaker/upload/files/attach_file1_20201105d33af034a7dfd3aca9ed427ca9d0636b50c06e7b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fuji.co.jp/news/assets/pdf/fuji_SMTPlacementOfLargeHeavyComponents_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.the-fuji.com/service/public_fee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otn.fujitv.co.jp/next-news20260115/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://notices.jcom.co.jp/notice/94081.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujidie.co.jp/news/262",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/793798",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/00055129",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://growjo.com/company/Fuji_Industries_Corp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zippia.com/fuji-food-products-careers-24084/revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/fuji-television-network-inc/64605881",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wallofdub/n/n51ef16c45247",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kyohhei99/n/nfd97399d31bd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/fuji_saiore",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fujitv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cx_motorsports",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fuji_tire",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fujicompanies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fujitelevision/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gekidanfuji/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ezuremanagement/n/n4321b8d1a8af",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tokuriki/n/n533c4b434a17",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/markun1968/n/n45fafa82c080",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フジ 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.the-fuji.com/company/ir/benefit/",
+    "https://kabutan.jp/stock/holder?code=8278",
+    "https://www.fujimediahd.co.jp/ir/s_information.html",
+    "https://www.buffett-code.com/company/8278/mainshareholder",
+    "https://www.youtube.com/watch?v=F51ykeUKNdc",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "https://www.the-fuji.com/company/companies/",
+    "https://www.nikkei.com/article/DGXZQOUC091TU0Z00C26A2000000/",
+    "https://www.fuji.co.jp/ir/stock/stockinfo.html"
+   ]
+  },
+  {
+   "query": "フジ 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.the-fuji.com/company/about/history/",
+    "https://www.the-fuji.com/company/about/",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "https://www.fuji.co.jp/company/history.html",
+    "https://ehime-shigotozukan.com/companies/fuji/",
+    "https://kitaishihon.com/company/8278/story",
+    "https://www.fuji-nihon.com/about/history/",
+    "https://www.fujioil.co.jp/about/history/",
+    "https://www.fujitv.co.jp/company/info/history.html",
+    "https://www.founded.com/about/"
+   ]
+  },
+  {
+   "query": "フジ 売上高 OR 年商",
+   "results": [
+    "https://www.the-fuji.com/company/ir/highlight/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=8278",
+    "https://www.fuji.co.jp/ir/achievement/highlight.html",
+    "https://www.ryutsuu.biz/accounts/s199877.html",
+    "https://www.fuji-nihon.com/ir/highlight/",
+    "https://the-shashi.com/tse/8278/financials/sales/",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8_(%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2)",
+    "https://www.the-fuji.com/company/ir/monthly/",
+    "https://www.fujimediahd.co.jp/ir/f_highlight.html",
+    "https://www.ryutsuu.biz/strategy/q013041.html"
+   ]
+  },
+  {
+   "query": "フジ 金属3Dプリンター 受託 売上",
+   "results": [
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://metoree.com/categories/9277/",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.nttdata-xam.com/works/eos/article_6336/",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "https://www.youtube.com/watch?v=B8SGWPw4TcQ",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://tasuichi.jp/2026/04/10/国内の金属3dプリンター受託造形企業まとめ：pbf・ded/"
+   ]
+  },
+  {
+   "query": "フジ 金属積層造形 台数 導入",
+   "results": [
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://kanagata-shimbun.com/202305_sokodikara/",
+    "https://www.youtube.com/watch?v=B8SGWPw4TcQ",
+    "https://www.nttdata-xam.com/works/eos/article_6336/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/02345/020300003/",
+    "https://www.fuji-koushuha.co.jp/technology/metal-3dp",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.fuji-mold.co.jp/media/kikaisetubi/a18",
+    "https://jampt.jp/column/column_453/",
+    "https://www.jstage.jst.go.jp/article/jjspe/92/3/92_199/_pdf"
+   ]
+  },
+  {
+   "query": "フジ 受注 量産 大型",
+   "results": [
+    "https://www.fujigiken.jp/slaker/upload/files/attach_file1_20201105d33af034a7dfd3aca9ed427ca9d0636b50c06e7b.pdf",
+    "https://www.fuji.co.jp/news/assets/pdf/fuji_SMTPlacementOfLargeHeavyComponents_J.pdf",
+    "https://fuji-sangyou.com/%E3%80%90%E9%96%80%E5%9E%8B%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%91%E5%A4%A7%E5%9E%8B%E3%83%BB%E9%95%B7%E5%B0%BA%E3%83%AF%E3%83%BC%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%81%AB%E9%81%A9/",
+    "https://www.fuji-mold.co.jp/",
+    "https://www.nikkei.com/article/DGXZQOFD306120Q1A630C2000000/",
+    "https://www.fuji-gr.co.jp/company/",
+    "https://www.fujicorporation.com/shop/",
+    "https://www.daiwa-mt.co.jp/",
+    "https://www.higashiosakabrand.jp/products/599/",
+    "https://www.fuji.co.jp/news/pdf/fuji_SMTPlacementOfLargeHeavyComponents_J.pdf"
+   ]
+  },
+  {
+   "query": "フジ 料金 OR 見積 OR 単価",
+   "results": [
+    "https://www.the-fuji.com/service/public_fee/",
+    "https://otn.fujitv.co.jp/next-news20260115/",
+    "https://notices.jcom.co.jp/notice/94081.html",
+    "https://fuji-wifi.jp/plan",
+    "https://www.fsw.tv/guide/etc/charge.html",
+    "https://ctt.ne.jp/news/news/next-20264.html",
+    "https://house.home4u.jp/contents/maker-58-17588",
+    "https://sma-pochi.com/housemaker-hyouban/fuji-jutaku-tsubotanka",
+    "https://www.fujitools.com/ja-jp/legal/terms-and-conditions",
+    "https://ja.wikipedia.org/wiki/見積"
+   ]
+  },
+  {
+   "query": "フジ 社長 インタビュー 日刊工業新聞",
+   "results": [
+    "https://www.fujidie.co.jp/news/262",
+    "https://www.nikkan.co.jp/articles/view/793798",
+    "https://www.nikkan.co.jp/articles/view/00055129",
+    "https://www.nikkei.com/article/DGXZQOUC221HS0S5A221C2000000/",
+    "https://corp.nikkan.co.jp/recruit/topics/interview/03.html",
+    "https://www.nikkan.co.jp/articles/view/646626",
+    "https://www.asahi.com/articles/ASV1J1DDZV1JUCVL002M.html",
+    "https://kusakabe-kikai.jp/2019/06/24/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%B8%E7%A4%BE%E9%95%B7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C-2/",
+    "https://www.nikkan.co.jp/articles/view/794381",
+    "https://ja.wikipedia.org/wiki/山口普"
+   ]
+  },
+  {
+   "query": "フジ revenue employees",
+   "results": [
+    "https://growjo.com/company/Fuji_Industries_Corp",
+    "https://www.zippia.com/fuji-food-products-careers-24084/revenue/",
+    "https://www.zoominfo.com/c/fuji-television-network-inc/64605881",
+    "https://www.fuji.co.jp/en/ir/achievement/highlight.html",
+    "https://note.com/magic_swift2546/n/nf5f3bd57bac3?hl=en",
+    "https://stockanalysis.com/quote/tyo/8278/revenue/",
+    "https://www.fsi.co.jp/e/company/about.html",
+    "https://global.fujifilm.com/en/about/corporate/overview",
+    "https://www.reveliolabs.com/companies/fuji-soft/employees",
+    "https://corpdigest.com/company/fujitsu/financials"
+   ]
+  },
+  {
+   "query": "site:note.com フジ",
+   "results": [
+    "https://note.com/ryona_cultra/n/n4d48397462c2",
+    "https://note.com/wallofdub/n/n51ef16c45247",
+    "https://note.com/kyohhei99/n/nfd97399d31bd",
+    "https://note.com/tokuriki/n/n7713ad2b7fab",
+    "https://note.com/hibinikki1/n/n97699b4b44a4",
+    "https://note.com/ritsuki_maesaki/n/n08d90b0c5d63",
+    "https://note.com/fda_fujidream",
+    "https://note.com/warazi03/n/na10fcf55bcc0",
+    "https://note.com/liverpool_kara/n/n0610e1aaf87c",
+    "https://money.note.com/companies/2114"
+   ]
+  },
+  {
+   "query": "site:x.com フジ",
+   "results": [
+    "https://x.com/fuji_saiore",
+    "https://x.com/fujitv",
+    "https://x.com/cx_motorsports",
+    "https://x.com/fuji_tire",
+    "https://x.com/primenews_",
+    "https://x.com/livenews_it",
+    "https://x.com/fujirock_jp",
+    "https://x.com/fujitv/articles",
+    "https://marketing.x.com/ja/success-stories/fujitv"
+   ]
+  },
+  {
+   "query": "site:linkedin.com フジ",
+   "results": [
+    "https://jp.linkedin.com/company/fuji-television",
+    "https://jp.linkedin.com/company/fujicorporation",
+    "https://www.linkedin.com/company/fuji-innovation-lab",
+    "https://www.linkedin.com/company/fujicorporation/",
+    "https://www.linkedin.com/learning/topics/fuji-x-t2",
+    "https://www.linkedin.com/company/formost-fuji",
+    "https://www.linkedin.com/company/fuji-electric-corp--of-america",
+    "https://www.linkedin.com/news/story/%E9%87%8E%E5%A4%96%E3%83%95%E3%82%A7%E3%82%B9-%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%E4%B8%AD%E6%AD%A2-5206618/",
+    "https://www.linkedin.com/company/fuji-sports-co",
+    "https://www.linkedin.com/company/fujiamerica"
+   ]
+  },
+  {
+   "query": "site:facebook.com フジ",
+   "results": [
+    "https://www.facebook.com/fujicompanies/",
+    "https://www.facebook.com/fujitelevision.eng/",
+    "https://www.facebook.com/fujitelevision/?locale=ja_JP",
+    "https://www.facebook.com/gekidanfuji/?locale=ja_JP",
+    "https://www.facebook.com/FujiElectric.official/",
+    "https://www.facebook.com/fujicorporation/?locale=ja_JP",
+    "https://www.facebook.com/fujitveventguide/",
+    "https://www.facebook.com/fujitvflowernet/",
+    "https://www.facebook.com/fujitelevision/photos/",
+    "https://www.facebook.com/fujitvcs/?locale=ja_JP"
+   ]
+  },
+  {
+   "query": "フジ note 社長",
+   "results": [
+    "https://note.com/tag/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93",
+    "https://note.com/ezuremanagement/n/n4321b8d1a8af",
+    "https://note.com/tokuriki/n/n533c4b434a17",
+    "https://note.com/markun1968/n/n45fafa82c080",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.facebook.com/ShachoTalk/?locale=ja_JP",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.com/ready_eider2858/n/ncd5fd71bdccf",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "フジ X 投稿",
+   "results": [
+    "https://www.fujifilm-x.com/ja-jp/sns/",
+    "https://www.instagram.com/fujifilmjp_x/",
+    "https://x.com/FujifilmJP_PR",
+    "https://www.facebook.com/FUJIFILMXseriesJapan/?locale=ja_JP",
+    "https://xseries.tokyocameraclub.com/cw/fujinonlensgallery_fb",
+    "https://photo.yodobashi.com/fujifilm/",
+    "https://www.fujifilm.com/jp/ja/consumer/digitalcameras/x",
+    "https://note.com/bluebirdjourney/n/n441d58cefd54",
+    "https://www.youtube.com/playlist?list=PLmW2Npm3MGXy5FRYCrurrWsjDhDXBYWaF",
+    "https://x.com/fuji_saiore/status/2117171138346549327"
+   ]
+  }
+ ],
+ "missing": {
+  "保有設備": "記載なし（3回確認済み：公式20頁／PDF・画像8件／外部40頁・検索15回）",
+  "認証": "記載なし（3回確認済み：公式20頁／PDF・画像8件／外部40頁・検索15回）"
+ }
+}

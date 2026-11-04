@@ -1,0 +1,2111 @@
+{
+ "name": "Oerlikon AM",
+ "aliases": [
+  "Oerlikon Additive Manufacturing"
+ ],
+ "context": "海外・金属AM受託（事業縮小の経緯あり）",
+ "researched_at": "2026-11-04T10:37:38.017079+00:00",
+ "official_url": "https://www.oerlikon.com/am/",
+ "identified_by": "given",
+ "profile": {
+  "認証": [
+   {
+    "label": "AS9100",
+    "value": "D and ISO 9001:2015",
+    "url": "https://www.oerlikon.com/ecoma/files/AS9100_ISO9001_Troy.pdf",
+    "pass": 2
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "1906年",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "表面処理ソリューション、ポリマー加工ソリューション",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "22.6億 スイスフラン (2020年)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "label": "売上リスト",
+    "value": "公開企業と非公開企業を分けて見る",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1万692人 (2020年)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "最大案件・量産": [
+   {
+    "quote": "Elmia Subcontractor",
+    "url": "https://www.oerlikon.com/am/en/",
+    "pass": 1
+   },
+   {
+    "quote": "ArianeGroup and Oerlikon Sign Order for the Production of Additively Manufactured Parts for Ariane 6 Rocket",
+    "url": "https://www.oerlikon.com/am/en/about-us/publications/",
+    "pass": 1
+   },
+   {
+    "quote": "June 19, 2023 – Paris and Munich – Oerlikon AM and ArianeGroup signed an order worth up to €900,000 for the production of 3D-printed heat exchanger sets for the new Ariane 6 rocket launcher. The Ariane 6 launcher is a strategic vector for European space access, bringing satellites and high-tech payloads into orbit…",
+    "url": "https://www.oerlikon.com/am/en/about-us/publications/",
+    "pass": 1
+   },
+   {
+    "quote": "Airbus and Oerlikon sign €3.8 million contract for the industrial additive manufacturing of satellite components",
+    "url": "https://www.oerlikon.com/am/en/about-us/publications/",
+    "pass": 1
+   },
+   {
+    "quote": "Paris and Munich – Oerlikon AM and Airbus have successfully industrialized the additive manufacturing (AM) process for complex serial production of antenna clusters. These will be used in a series of communication satellites that will be orbiting earth soon. This marks an important milestone in the ten-year…",
+    "url": "https://www.oerlikon.com/am/en/about-us/publications/",
+    "pass": 1
+   },
+   {
+    "quote": "Elmia Subcontractor",
+    "url": "https://www.oerlikon.com/am/en/about-us/shows-conferences/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed specifically for serial production, the xBUILD 5000 represents a new generation of highly automated laser powder bed fusion (LPBF) platforms focused on maximizing productivity, machine utilization and cost efficiency. The system features a large 500 x 500 x 400 mm build volume and four powerful 1 kW lasers, enabling high manufacturing throughput while maintaining excellent part quality.",
+    "url": "https://www.oerlikon.com/am/en/about-us/media/new-atlix-xbuild-5000/",
+    "pass": 1
+   },
+   {
+    "quote": "Elmia Subcontractor",
+    "url": "https://www.oerlikon.com/am/en/about-us/shows-conferences/?categories%5B0%5D=31506",
+    "pass": 1
+   },
+   {
+    "quote": "Elmia Subcontractor",
+    "url": "https://www.oerlikon.com/am/en/about-us/shows-conferences/?categories%5B0%5D=31507",
+    "pass": 1
+   },
+   {
+    "quote": "SUMMARY:Elmia Subcontractor",
+    "url": "https://www.oerlikon.com/am/en/about-us/events/event-export-ics/?docId=117906&udtxId=24879",
+    "pass": 1
+   },
+   {
+    "quote": "Find Oerlikon’s terms and official certificates in one place. These documents define our contractual framework and confirm compliance with relevant standards.",
+    "url": "https://www.oerlikon.com/en/about-us/terms-and-certificates/?tab=terms_conditions",
+    "pass": 1
+   },
+   {
+    "quote": "Oerlikon General Terms and Conditions of Purchase (Germany, Cross-border)",
+    "url": "https://www.oerlikon.com/en/about-us/procurement/terms-and-conditions-country-specific/",
+    "pass": 1
+   },
+   {
+    "quote": "We would also be happy to send you our company news directly by e-mail. Register here in order to receive in future our regular press releases im",
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "pass": 1
+   },
+   {
+    "quote": "Elmia Subcontractor",
+    "url": "https://www.oerlikon.com/en/about-us/media-portal/",
+    "pass": 1
+   },
+   {
+    "quote": "PVD- und Thermospritztechnologien bilden den Kern des Angebots von Oerlikon im Bereich Oberflächenbeschichtung. Für spezifischere Anforderungen stehen jedoch auch weitere Anlagentypen zur Verfügung.",
+    "url": "https://www.oerlikon.com/de/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Dauerbetrieb und extreme Umgebungen stellen höchste Anforderungen an die einzelnen Teile in Windrädern und Turbinen, an die Komponenten bei der…",
+    "url": "https://www.oerlikon.com/de/industrien/energiewirtschaft/",
+    "pass": 1
+   },
+   {
+    "quote": "This certificate is granted and awarded by the authority of the Nadcap Management Council to:",
+    "url": "https://www.oerlikon.com/ecoma/files/Nadcap_MTL_Troy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "This certificate is granted and awarded by the authority of the Nadcap Management Council to:",
+    "url": "https://www.oerlikon.com/ecoma/files/Nadcap_Materials_Testing_Plymouth.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンター産業は「試作機」から「量産インフラ」へ｜香川友志",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター産業は「試作機」から「量産インフラ」へ",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "「試作は3Dプリンター、量産は金型、そして金型そのものを3Dプリンターで進化させる時代」",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "量産インフラ化",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "TDKは、米国のFabric8Labsを最大4億ドルで買収すると発表した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "NikonがSLM Solutionsを買収し、TDKがFabric8Labsを最大4億ドルで買収すると発表した流れは、まさにこの金属AMが「国家・産業インフラ」になり始めたことを示している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "TDKは2026年6月10日、Fabric8Labsを最大4億ドルで買収する契約を発表し、同社のECAM技術をデータセンター冷却、電子部品、半導体パッケージング、AIインフラ向けに活用すると説明している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、防衛、エネルギー、医療などで使われる大型金属部品向け装置に強みを持つ",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー、光学、粉末材料、熱制御、造形シミュレーション、品質検査、計測、後処理、量産管理が一体になった製造システムである",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Fabric8Labs側の発表では、ECAMによる液冷部品は、競合する熱管理ソリューションと比べて、AIアクセラレータ温度を最大7℃/kW低減できると説明されている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabsは、プロフェッショナルSLA/SLSプリンターの世界最大級サプライヤーと説明される",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Binder Jetting | 金属粉末に結合剤を噴射し、後工程で焼結する | 量産部品、比較的低コスト部品 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| DED | 金属粉末やワイヤーを溶かしながら積層する | 大型部品、補修、航空・エネルギー |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| WAAM | 金属ワイヤーをアーク溶接で積層する | 大型構造物、造船、重工業 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "量産安定性を出すのが難しい",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| HP | 米国 | Multi Jet Fusion | 産業用樹脂部品の量産志向 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Carbon | 米国 | DLS樹脂造形 | 量産部品、スポーツ用品、歯科 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "大型金属AMに強い |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| WAAM3D | 英国 | WAAM | 大型金属部品 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Sciaky | 米国 | 電子ビームDED | 大型金属部品 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Protolabs | 米国 | デジタル製造、3Dプリント、CNC | 試作・小ロット製造 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Carbon | 非上場 | 量産樹脂部品で重要 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "しかしその後、2026年5月にはStratasysがNano DimensionからMarkforgedを4,250万ドルの全額現金で買収する契約を発表した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、単独で黒字化し、量産市場を広げ、世界販売網を維持するのは簡単ではない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量産製造そのものが、まだ金型時代である",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems と Oerlikon が金属積層造形の拡大と加速を目指し協業契約を締結 | 3D Systems",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systemsの専門的なトレーニングとリソースにより、3Dプリンティングの可能性を最大限に引き出しましょう",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems と Oerlikon が金属積層造形の拡大と加速を目指し協業契約を締結",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "の 2 社は本日、金属積層造形をさらに拡大するための協業契約を締結したことを発表しました",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "この契約の一環として、Oerlikon AM は 4 台目の 3D Systems",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "含有量を最小限に抑える真空チャンバを備えた業界をリードするプラットフォームである DMP Factory 500 と、500 mm x 500 mm x 500 mm までの大型部品をシームレスに生産する 3 レーザー構成が含まれます",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "効率が向上することで、設計、材料、プリント、後処理の全工程で積層造形のメリットが最大化され、製造サプライチェーンにおけるパフォーマンス上の障壁を打破することができるのです」",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "輸送における排出量削減、ツールやコンポーネントの寿命と性能の最大化、効率性向上、インテリジェントな材料は、そのリーダーシップを象徴するものとなっています",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "Oerlikon サーフェスソリューション事業部門は、Oerlikon Balzers、Oerlikon Metco、Oerlikon AM などのテクノロジブランドを擁しており、性能、機能、設計、信頼性、持続可能性を改善し、最大化する技術とサービスに注力しています",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.oerlikon.com/am/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/about-us/our-locations/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing Solutions for Aerospace",
+    "url": "https://www.oerlikon.com/am/en/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/about-us/our-people/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/about-us/publications/",
+    "pass": 1
+   },
+   {
+    "quote": "Oerlikon Launches Two Medical Implant Materials",
+    "url": "https://www.oerlikon.com/am/en/about-us/publications/",
+    "pass": 1
+   },
+   {
+    "quote": "Advancing Aerospace Manufacturing with DED technology at the Laser Center of Competence",
+    "url": "https://www.oerlikon.com/am/en/about-us/publications/",
+    "pass": 1
+   },
+   {
+    "quote": "We are looking back at exciting days at the 54th International Paris Air Show in Le Bourget. We had vibrant discussions, fruitful conversations and great opportunities to advance sustainable aerospace.",
+    "url": "https://www.oerlikon.com/am/en/about-us/publications/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/about-us/shows-conferences/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/about-us/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/about-us/quality/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/about-us/media/new-atlix-xbuild-5000/",
+    "pass": 1
+   },
+   {
+    "quote": "Left to right: Todd Wilhite (Oerlikon Business Development Manager, Aerospace and Defense), Dan Haller (Oerlikon AM Head of Commercial), Charlie Grace (ATLIX President & Chief Revenue Officer), Matthias Himmelsbach (ATLIX CEO), Mike Tobin (Oerlikon AM General Manager), Jonas Vornholz (ATLIX Service Engineer)",
+    "url": "https://www.oerlikon.com/am/en/about-us/media/new-atlix-xbuild-5000/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/about-us/media/metcoadd-h6282/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/about-us/media/next-gen-manufacturing-congress/",
+    "pass": 1
+   },
+   {
+    "quote": "Oerlikon’s COO, Linzmeier, Dirk, shared valuable insights in a keynote presentation on how we’re transferring our Additive Manufacturing expertise from civil to defense applications.",
+    "url": "https://www.oerlikon.com/am/en/about-us/media/next-gen-manufacturing-congress/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/about-us/media/oerlikon-joins-the-finnish-additive-manufacturing-ecosystem-fame/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/about-us/shows-conferences/?categories%5B0%5D=31506",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/am/en/about-us/shows-conferences/?categories%5B0%5D=31507",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/our-policies/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/our-policies/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/en/about-us/terms-and-certificates/?tab=terms_conditions",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.oerlikon.com/en/about-us/terms-and-certificates/?tab=terms_conditions",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/en/about-us/procurement/terms-and-conditions-country-specific/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.oerlikon.com/en/about-us/procurement/terms-and-conditions-country-specific/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/en/about-us/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.oerlikon.com/en/about-us/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "At Oerlikon, we manufacture coating equipment for industrial applications. We make our customers' products better by reducing friction and wear, protecting critical components, and reducing waste.",
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to decades of experience and continuous investments in R&D, our coating equipment is among the best in the industry. Our reliable coating systems offer the highest productivity and are tailored to our customers' needs.",
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "What our customers need is included in our after-sales service, from spare parts to field service and technical support. We promote our clients' success by co-developing the right coating solution, upgrading their hardware and software, and training their staff. Our service agreements are modular and tailored to specific requirements.",
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Equipment with different batch sizes enables cost-efficient coating operations based on customers' production volumes.",
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Dundee-based ATL Turbine Services has expanded its technological capabilities by investing in the Surface Two™ thermal spray system from Oerlikon. This strategic move underlines ATL’s commitment to delivering high-performance, precision-engineered coating solutions for turbine components across the aerospace, energy and industrial sectors.",
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.oerlikon.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We help customers reduce total costs",
+    "url": "https://www.oerlikon.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Locations supporting customers with local expertise",
+    "url": "https://www.oerlikon.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how our solutions improve efficiency and durability, helping customers achieve more efficient production and longer-lasting products.",
+    "url": "https://www.oerlikon.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/en/about-us/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.oerlikon.com/en/about-us/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/en/about-us/media-portal/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.oerlikon.com/en/about-us/media-portal/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain insights into how Oerlikon makes products better for all our customers worldwide by learning more about our technologies, activities and initiatives.",
+    "url": "https://www.oerlikon.com/en/about-us/media-portal/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/en/about-us/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.oerlikon.com/en/about-us/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Extraordinary innovation is a product of ordinary workdays at Oerlikon. The results have an impact on diverse markets, including tooling, automotive, aerospace, energy, medical and luxury.",
+    "url": "https://www.oerlikon.com/en/about-us/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "In partnership with customers in these sectors, we improve efficiency in energy consumption, extend the lifespans of equipment and tools, promote increased materials recycling and support reductions in waste and CO",
+    "url": "https://www.oerlikon.com/en/about-us/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "empower our customers",
+    "url": "https://www.oerlikon.com/en/about-us/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "and their customers to optimize efficiency and productivity in any environment.",
+    "url": "https://www.oerlikon.com/en/about-us/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about how Oerlikon achieves customers’ R&D and market objectives through cutting-edge research and engineering processes.",
+    "url": "https://www.oerlikon.com/en/about-us/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "We help our customers to become more sustainable and efficient. Emissions reduction in transportation, maximized longevity and performance of tools and increased efficiency of turbines are proven hallmarks of our global leadership. Everything we invent, develop and do is guided by our passion to support our customers’ goals and foster a sustainable world.",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "Empowering customers to achieve more with less",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "we enable customers to optimize their usage of resources",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/",
+    "pass": 1
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "This leadership is backed by a highly skilled workforce, and together, they are dedicated to advancing the field of Additive Manufacturing to new heights.",
+    "url": "https://www.oerlikon.com/am/en/about-us/our-people/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/our-policies/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors & Media",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/our-policies/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.oerlikon.com/en/about-us/terms-and-certificates/?tab=terms_conditions",
+    "pass": 1
+   },
+   {
+    "quote": "Investors & Media",
+    "url": "https://www.oerlikon.com/en/about-us/terms-and-certificates/?tab=terms_conditions",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.oerlikon.com/en/about-us/procurement/terms-and-conditions-country-specific/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors & Media",
+    "url": "https://www.oerlikon.com/en/about-us/procurement/terms-and-conditions-country-specific/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.oerlikon.com/en/about-us/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors & Media",
+    "url": "https://www.oerlikon.com/en/about-us/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors & Media",
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "pass": 1
+   },
+   {
+    "quote": "The Board of Directors (Board) of Oerlikon nominated Dr. Stefan Brupbacher, Marco Musetti and Dr. Eveline Steinberger for election as new members at the upcoming Annual General Meeting (AGM) on April 1, 2025. Subject to the election by the shareholders and the decisions of the subsequent constitutional…",
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "pass": 1
+   },
+   {
+    "quote": "Investors & Media",
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.oerlikon.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors & Media",
+    "url": "https://www.oerlikon.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.oerlikon.com/en/about-us/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors & Media",
+    "url": "https://www.oerlikon.com/en/about-us/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.oerlikon.com/en/about-us/media-portal/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors & Media",
+    "url": "https://www.oerlikon.com/en/about-us/media-portal/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.oerlikon.com/en/about-us/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors & Media",
+    "url": "https://www.oerlikon.com/en/about-us/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors & Media",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.oerlikon.com/en/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Swiss Machine Tool Factory Oerlikon (SWO) is founded as the direct predecessor of Oerlikon-Bührle AG. From 1929 onwards, Emil Georg Bührle is the main shareholder of Werkzeugmaschinenfabrik Oerlikon (WO).",
+    "url": "https://www.oerlikon.com/en/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Emil Georg Bührle becomes majority shareholder of SWO.",
+    "url": "https://www.oerlikon.com/en/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors & Media",
+    "url": "https://www.oerlikon.com/en/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、TDKの投資部門であるTDK Venturesは、買収以前からFabric8Labsにシード段階で出資していた",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Velo3D | 米国 | 金属LPBF | 財務再編を経てArrayed Additiveが大株主化",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、金属LPBFで注目されたVelo3Dも、経営危機を経て2024年末から2025年にかけて大規模な財務再編を実施し、Arrayed Additive側が債務の株式化により大株主化した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 日本企業 | 買収・出資先 | 年 | 内容 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックは2024年にまず9.5％の少数出資と共同開発・販売提携から入り、2025年3月にコールオプションを行使して過半数取得を発表、2025年5月に買収を完了して、持分94.35％の子会社とした",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "その後に公表されたNikonの2026年3月期通期実績では、親会社の所有者に帰属する当期損失は860億88百万円となった",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2024年には、米国の金属3Dプリント企業3DEOへ、日本政策投資銀行と共同で出資したことも報じられている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "https://investors.stratasys.com/news-events/press-releases/detail/975/stratasys-releases-fourth-quarter-and-full-year-2025",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "https://investors.xometry.com/news-releases/news-release-details/xometry-reports-record-fourth-quarter-and-strong-full-year-2025",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "https://investors.materialise.com/news-releases/news-release-details/materialise-reports-fourth-quarter-and-full-year-2025-results",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "https://investors.nano-di.com/press-releases/news-details/2025/Nano-Dimension-Completes-Acquisition-of-Desktop-Metal/default.aspx",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "https://investors.stratasys.com/news-events/press-releases/detail/984/stratasys-to-acquire-markforged-inc-expanding-aerospace",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Epson：DBJとEpsonによる3DEO出資",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   }
+  ],
+  "売上・受託売上": [
+   {
+    "quote": "Airbus and Oerlikon sign €3.8 million contract for the industrial additive manufacturing of satellite components",
+    "url": "https://www.oerlikon.com/am/en/about-us/publications/",
+    "pass": 1
+   },
+   {
+    "quote": "Left to right: Todd Wilhite (Oerlikon Business Development Manager, Aerospace and Defense), Dan Haller (Oerlikon AM Head of Commercial), Charlie Grace (ATLIX President & Chief Revenue Officer), Matthias Himmelsbach (ATLIX CEO), Mike Tobin (Oerlikon AM General Manager), Jonas Vornholz (ATLIX Service Engineer)",
+    "url": "https://www.oerlikon.com/am/en/about-us/media/new-atlix-xbuild-5000/",
+    "pass": 1
+   },
+   {
+    "quote": "Worldwide after-sales network",
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "What our customers need is included in our after-sales service, from spare parts to field service and technical support. We promote our clients' success by co-developing the right coating solution, upgrading their hardware and software, and training their staff. Our service agreements are modular and tailored to specific requirements.",
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Oerlikon's high-performance coating systems offer a variety of state-of-the-art coating technologies for numerous industrial applications and can be adapted to customer-specific requirements. Benefit from a global after-sales network with experts at your side to provide value-added services and products for every aspect of your coating equipment.",
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Oerlikon has signed a definitive agreement for the divesture of its Barmag textile machinery business for manmade fibers to Rieter for an upfront equity purchase price of CHF 713 million.",
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "pass": 1
+   },
+   {
+    "quote": "Sales and Margins Impacted by Weak End Markets; Focusing on Cost Containment and Strong Technology Pipeline; Long-Term Demand Drivers Intact",
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "pass": 1
+   },
+   {
+    "quote": "First half with 10% organic sales growth in Surface Solutions despite challenging environment; filament market with limited activity for Polymer Processing Solutions",
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "pass": 1
+   },
+   {
+    "quote": "Oerlikon with robust +10% sales growth and +10% operational EBITDA growth in 2022. This was supported by strong operational execution and continued strategic focus on profitable growth, diversification, and sustainability progress.",
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "pass": 1
+   },
+   {
+    "quote": "Q3 Sales Growth of 7%, EBITDA +8%; Weakening Industrial Activity and Volatile Energy Markets",
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "pass": 1
+   },
+   {
+    "quote": "5% efficiency increase in jet engines through coatings is equivalent to ~26 million metric tons of CO",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "Coating extends a tool’s lifetime by 20x. For the total number of tools coated by Oerlikon annually, ~8.3 million metric tons of CO",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "A total of 29.6 million metric tons in 2022, based on the report “CO2 statistics: Emissions from thermal and motor fuels” by the Swiss Federal Office for the Environment.",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "With more than 100 member companies, the Group was consolidated under the Oerlikon-Bührle Holding (OBH) umbrella and entered the market with a capital stock of CHF 590 million.",
+    "url": "https://www.oerlikon.com/en/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "sales office,",
+    "url": "https://www.oerlikon.com/ecoma/files/MetcoAdd_Product_Portfolio.pdf?download=true",
+    "pass": 2
+   },
+   {
+    "quote": "Manufacture, sales and distribution of a full line of materials for surfacing,",
+    "url": "https://www.oerlikon.com/ecoma/files/AS9100_ISO9001_Troy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "The Design, Manufacture, Sales, and Distribution of a Full Line of Materials for Surfacing Additive",
+    "url": "https://www.oerlikon.com/ecoma/files/AS9100_ISO9001_Plymouth.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上としては、表面処理ソリューション事業が68％、ポリマー加工ソリューション事業が29％、その他が3%となっている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、世界のプラスチック・金属3Dプリンター業界の全体像、主要企業、売上規模、業界再編、日本企業の買収、Nikonの減損、そして「日本はまだ金型時代なのか」という問いまで含めて整理する",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "売上リスト：公開企業と非公開企業を分けて見る",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Wohlers Report 2026によると、世界のAM関連売上は2025年に",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "この低価格デスクトップ市場は30％超成長し、その売上規模が産業用金属・ポリマー装置販売にほぼ並ぶ水準になっているとされる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysや3D Systemsは、売上の伸び悩み、赤字、リストラ、事業再編と向き合っている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "7. 売上リスト：公開企業と非公開企業を分けて見る",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター業界の売上比較は注意が必要である",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、単純に「売上が大きい会社＝3Dプリンター本体で強い会社」とは言えない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "7-1. 公開情報で確認できる主要企業の売上",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 企業 | 直近売上 | 備考 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Xometry | 2025年売上 約6.866億ドル | 3Dプリントだけでなく、CNC、板金など製造マーケットプレイス全体 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Stratasys | 2025年売上 約5.511億ドル | 産業用ポリマーAM中心 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Protolabs | 2025年売上 約5.331億ドル | 3Dプリント、CNC、射出成形など含む |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 3D Systems | 2025年売上 約3.869億ドル | 医療・産業AM",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Materialise | 2025年売上 約2.676億ユーロ | ソフトウェア、医療、製造 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| BLT | 2025年売上 約18.52億元 | 中国金属AM",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Farsoon | 2025年売上 約7.15億元 | 中国AM装置メーカー",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Nano Dimension | 2025年1〜9月売上 約6,710万ドル | Markforged買収反映、Desktop Metalは一部非継続扱い |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Markforged | 2025年売上 約7,000万ドル | StratasysがNano Dimensionから買収合意 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Xometryは、2025年売上が約6.866億ドルとなり、製造マーケットプレイス企業として大きく成長している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysは2025年売上が約5.511億ドルで、2024年の約5.725億ドルから減少した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、2026年は5.65億〜5.75億ドルの売上を見込んでいる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabsは2025年に過去最高の約5.331億ドルの売上を記録した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、これも3Dプリントだけでなく、CNC加工、射出成形、ネットワーク製造を含むデジタル製造全体の売上である",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systemsは2025年売上が約3.869億ドルで、前年比12％減だった",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   }
+  ],
+  "発言": [
+   {
+    "quote": "Left to right: Todd Wilhite (Oerlikon Business Development Manager, Aerospace and Defense), Dan Haller (Oerlikon AM Head of Commercial), Charlie Grace (ATLIX President & Chief Revenue Officer), Matthias Himmelsbach (ATLIX CEO), Mike Tobin (Oerlikon AM General Manager), Jonas Vornholz (ATLIX Service Engineer)",
+    "url": "https://www.oerlikon.com/am/en/about-us/media/new-atlix-xbuild-5000/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Oerlikon is one of the most experienced additive component manufacturers in the world, and its continued investment in ATLIX technology is the strongest validation we could ask for,\" said Matthias Himmelsbach, CEO of ATLIX. \"Together, we are proving that metal AM can deliver at true industrial scale.\"",
+    "url": "https://www.oerlikon.com/am/en/about-us/media/new-atlix-xbuild-5000/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODID:-//eluceo/ical//2.0/EN",
+    "url": "https://www.oerlikon.com/am/en/about-us/events/event-export-ics/?docId=117906&udtxId=24879",
+    "pass": 1
+   },
+   {
+    "quote": "Roland Fischer (CEO)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月1日付で、光学エンジニア出身の大村泰弘氏が代表取締役社長兼CEOに就任した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "大村社長は決算会見で、金属3Dプリンター事業について「期待した事業拡大ができておらず、重く受け止めている」と述べた",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   }
+  ],
+  "料金・単価": [
+   {
+    "quote": "Current Share Price",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/our-policies/",
+    "pass": 1
+   },
+   {
+    "quote": "Current Share Price",
+    "url": "https://www.oerlikon.com/en/about-us/terms-and-certificates/?tab=terms_conditions",
+    "pass": 1
+   },
+   {
+    "quote": "Current Share Price",
+    "url": "https://www.oerlikon.com/en/about-us/procurement/terms-and-conditions-country-specific/",
+    "pass": 1
+   },
+   {
+    "quote": "Current Share Price",
+    "url": "https://www.oerlikon.com/en/about-us/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "Current Share Price",
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Oerlikon has signed a definitive agreement for the divesture of its Barmag textile machinery business for manmade fibers to Rieter for an upfront equity purchase price of CHF 713 million.",
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "pass": 1
+   },
+   {
+    "quote": "Current Share Price",
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "pass": 1
+   },
+   {
+    "quote": "Current Share Price",
+    "url": "https://www.oerlikon.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Current Share Price",
+    "url": "https://www.oerlikon.com/en/about-us/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "Current Share Price",
+    "url": "https://www.oerlikon.com/en/about-us/media-portal/",
+    "pass": 1
+   },
+   {
+    "quote": "Current Share Price",
+    "url": "https://www.oerlikon.com/en/about-us/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Current Share Price",
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "Current Share Price",
+    "url": "https://www.oerlikon.com/en/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "REQUEST FOR QUOTE",
+    "url": "https://www.iqsdirectory.com/profile/oerlikon-am-us-78375/",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用の低価格プラスチック3Dプリンターは、中国勢が主導権を握り始めている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "一方には、個人やクリエイター向けの低価格・高性能なプラスチック3Dプリンター市場がある",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は、低価格、高速化、多色造形、使いやすいソフトウェア、クラウド共有、コミュニティ、材料販売を組み合わせた総合力の勝負になっている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "この低価格デスクトップ市場は30％超成長し、その売上規模が産業用金属・ポリマー装置販売にほぼ並ぶ水準になっているとされる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "下では、中国メーカー主導の低価格デスクトップ機が急拡大する",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "その間にある中価格帯・産業用装置市場は、簡単ではない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXTの2025年市場データでは、低価格エントリーレベル機の出荷が大きく伸び、Bambu LabがCrealityを抜いて首位になったと報じられている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "2年続いた業界の停滞を抜け出す原動力になったのは、産業用ではなく、この低価格デスクトップ機だった",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "これは、日本企業が得意としてきた「高品質だが高価格」の製造モデルとはかなり違う",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "装置価格が高い",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Creality | 中国 | デスクトップFDM、樹脂 | 低価格機で世界展開 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Bambu Lab | 非上場、推定値のみ | 低価格デスクトップ市場で急成長 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Crealityも中国発の低価格3Dプリンターブランドとして世界展開しており、香港証券取引所の上場ヒアリングを通過したと報じられている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "報道ベースでは、2025年売上は約31.3億元と大きい一方、純損失は約1.82億元で、増収でも利益が出にくい価格競争の厳しさも示している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "報道ベースでは、Nano DimensionがMarkforgedを取得した際の価格は約1.16億ドルとされ、今回の売却額はそれを大きく下回る",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターは、初期費用が低く、形状変更に強く、少量生産に向いている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "一方、金型は初期費用が高いが、一度作ってしまえば、1個あたりのコストが圧倒的に安い",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "報道ベースでは、買収には800億円強が投じられたとされる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "906億2700万円の減損損失",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Nikon SLM Solutionsののれん | 約605億6800万円 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 識別可能無形資産の一部 | 約262億4400万円 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| その他固定資産など | 約38億円規模 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 合計 | 約906億2700万円 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "であって、いま新たに906億円の現金が外に出たという意味ではない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "その後に公表されたNikonの2026年3月期通期実績では、親会社の所有者に帰属する当期損失は860億88百万円となった",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   }
+  ],
+  "設備台数": [
+   {
+    "quote": "From watches to lifestyle equipment, from vacuum cleaners to coffee machines — consumer goods need to be reliable, durable and attractive. Most household appliances, consumer goods and sports equipment use metal or plastic parts. Coating these parts with coatings from Oerlikon enhances and improves the performance and service life of modern consumer goods and keeps your watch on point.",
+    "url": "https://www.oerlikon.com/en/about-us/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Oerlikon looks back on a long and eventful history that has always been characterized by innovative spirit, entrepreneurship, and the ability to reinvent itself. Immerse yourself in almost 150 years of high-tech and learn more about pioneering work in various branches of industry – from surface coatings and textile machines to zippers.",
+    "url": "https://www.oerlikon.com/en/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "現在のエリコンは、大きく以下の2つの事業に分かれ、傘下にグループ会社を保有している",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "のベースとして導入された",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "「いつか家庭に1台置かれる」と言われた、ものづくりの夢の箱",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEXT関連報道では、2025年のエントリーレベル機（2,500ドル未満）の出荷台数は通年で26％増、第4四半期は前年同期比47％増と急加速した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業が使えるAM導入支援を整備する",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター業界は、昔のような「家庭に1台3Dプリンターが来る」という単純な話ではない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "All Plastic Printers",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "取り組みの一環として Oerlikon は 4 台目の 3D Systems DMP Factory 500 を導入",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "この契約の一環として、Oerlikon AM は 4 台目の 3D Systems",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "「積層造形技術の連続生産体制への導入は、ますます速いペースで進んでいます",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "In September, Swiss machine tool manufacturer Oerlikon (SWO) is founded in Zurich-Oerlikon with 150 employees.",
+    "url": "https://www.oerlikon.com/en/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "が設立された",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "）が設立された",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "）が設立され、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2006年 - テキスタイル部門およびドライブシステム部門を設立した",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "、表面処理部門を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "の専門拠点となるOerlikon Finepartsを設立し、ラグジュアリー市場に対応する高級金属部品のプラットフォームを構築した",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "1906年設立の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2015年創業、米サンディエゴ拠点のスタートアップである",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   }
+  ],
+  "採用・人数": [
+   {
+    "quote": "に組み込まれ、社名は",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "）に社名変更",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2006年 - ユナクシス・ホールディングが、OCエリコンホールディングに社名変更",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "に売却されており、2009年にはラインメタル・エア・ディフェンスと改称されたものの、その後も同社は、機関砲など対空火器の商品名には「エリコン」の名を冠している",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "との提携で作られたエリコン旋盤の名称でもその名が知られている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "Morf3Dは、航空宇宙、防衛、宇宙分野向けの金属AM受託製造・エンジニアリング企業である",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Morf3D / Nikon AM Synergyで「金属AMによる部品製造・エンジニアリング」を取り込んだ",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Anycubic | 中国 | FDM、LCD樹脂 | 個人向けで高い知名度 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月1日付で、光学エンジニア出身の大村泰弘氏が代表取締役社長兼CEOに就任した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "半導体や航空宇宙などの重要産業市場における金属 AM アプリケーションの採用促進を目的とした協業",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "両社のプロセスとアプリケーションに関する深い専門知識と、3D Systems のダイレクト金属プリンティングプラットフォーム、そして Oerlikon AM のサーフェスエンジニアリング能力を組み合わせることで、半導体や航空宇宙などの重要産業においてアプリケーションの市場投入までの時間短縮が可能になります",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems のアプリケーションイノベーショングループ (AIG) は、Oerlikon AM のアプリケーションエンジニアリング部門との協業によりこのソリューションを開発しました",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "業界をリードする 3D Systems のダイレクト金属プリンティング (DMP) 技術と Oerlikon の AM 生産およびサーフェスエンジニアリング能力が組み合わされることで、Oerlikon のお客様に検証済みの認定生産プロセスを提供できるようになります",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   },
+   {
+    "quote": "当社独自のハードウェア、ソフトウェア、材料、およびサービスの製品により構成されるそれぞれの特定用途向けソリューションは、専門知識を駆使し、お客様と連携しながら製品とサービスの提供方法の変革に取り組んでいる当社のアプリケーションエンジニアにより実装されます",
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Oerlikon AM : Additive Manufacturing Services | 3D Printing ... — Oerlikon AM : Additive Manufacturing Services | 3D Printing ... Oerlikon https://www.oerlikon.com > am",
+    "url": "https://www.oerlikon.com/am/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Oerlikon AM US Inc. - IQS Directory — Oerlikon AM US Inc. - IQS Directory IQS Directory https://www.iqsdirectory.com > profile",
+    "url": "https://www.iqsdirectory.com/profile/oerlikon-am-us-78375/",
+    "pass": 3
+   },
+   {
+    "quote": "International corporation Oerlikon Additive Manufacturing ... — International corporation Oerlikon Additive Manufacturing ... William States Lee College of Engineering https://engineering.charlotte.edu > int...",
+    "url": "https://engineering.charlotte.edu/international-corporation-oerlikon-additive-manufacturing-contributes-equipment-to-w-s-lee-college-of-engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing for Space Exploration | Oerlikon AM — Additive Manufacturing for Space Exploration | Oerlikon AM Oerlikon https://www.oerlikon.com > am > space",
+    "url": "https://www.oerlikon.com/am/en/markets/space/",
+    "pass": 3
+   },
+   {
+    "quote": "Oerlikon AM Europe GmbH, Germany - EU project InShape — Oerlikon AM Europe GmbH, Germany - EU project InShape EU project InShape https://inshape-horizoneurope.eu > oe...",
+    "url": "https://inshape-horizoneurope.eu/members/oerlikon-am-europe-gmbh-germany/",
+    "pass": 3
+   },
+   {
+    "quote": "Oerlikon AM – Estimated Net Worth, Growth & Competitor Overvie… — Oerlikon AM is seeing growth with estimated revenue of $89.3M, team of around 100+ employees, based in Feldkirchen, pushing forward with smart strategies.",
+    "url": "https://compworth.com/company/oerlikon-am",
+    "pass": 3
+   },
+   {
+    "quote": "Oerlikon AM Information - RocketReach — Oerlikon AM is a Machinery Manufacturing, Machine Learning, and Artificial Intelligence company located in DE with $3.2 billion in revenue and 13 employees. Find top employees, contact details and business statistics at RocketReach.",
+    "url": "https://rocketreach.co/oerlikon-am-profile_b6b60c95c85b7759",
+    "pass": 3
+   },
+   {
+    "quote": "Oerlikon AM: Revenue, Competitors, Alternatives - Growjo — Oerlikon AM top competitors are SPECK Pumpen, FHR Anlagenbau GmbH and Dockweiler AG and they have annual revenue of $89.3M and 169 employees.",
+    "url": "https://growjo.com/company/Oerlikon_AM",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Oerlikon AM was named company of the year by Manufacturing ... Oerlikon Group (@OerlikonGroup). Oerlikon AM was named company of the year by Manufacturing Technology Insights. A big thank you to everyone who made this possible. Take a look: https://t.co/L1hUCLvyJv #AdditiveManufacturing #3Dprinting #WeAreAdditive #OerlikonAM",
+    "url": "https://x.com/OerlikonGroup/status/1003954605607260162",
+    "pass": 3
+   },
+   {
+    "quote": "The collective AM community is making great progress. The ... Oerlikon Group (@OerlikonGroup). The collective AM community is making great progress. The next crucial step: Founding the \"Bavarian AM Cluster\"! Read the full press release here: https://t.co/GVSBIbwVJ2 #amtc #AdditiveManufacturing #oerlikon",
+    "url": "https://x.com/OerlikonGroup/status/1580146978486304768",
+    "pass": 3
+   },
+   {
+    "quote": "Deadly Weapons on X: \"The Oerlikon 20mm has one of the most ... Less than a decade later, the United States built more than 88,000 Oerlikon 20mm cannons and used them extensively to defend Allied ships against Japanese kamikaze attacks across the Pacific",
+    "url": "https://x.com/deadlyweapns/status/2075222003598901414",
+    "pass": 3
+   },
+   {
+    "quote": "Oerlikon Group (@OerlikonGroup) / X Under the umbrella of “Connecting Opportunities – Driving the AM Ecosystem”, we continue to build a global AM ecosystem. The fifth annual AMTC will take place Oct. 11-12 in Munich.",
+    "url": "https://x.com/OerlikonGroup",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by Oerlikon Group (@OerlikonGroup) / X Mr Christian Heacker from @OerlikonGroup says that #AdditiveManufacturing is still in the rump-up phase and that we should consider to include #AM in existing european space or health programmes and that this will help development.",
+    "url": "https://x.com/OerlikonGroup/reposts",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Amer Latif - Head of Global Purchasing at Oerlikon Surface ...Global OPS Continuous Improvement Manager (gn) bei Oerlikon ...Alexandru Hohoi – Project Manager AM @ Oerlikon AM | Additive ...Medizinische Praxisassistenz 60-100% (a) - Zürich-OerlikonOerlikon Am Jobs in United States (52 Open Roles) | LinkedIn Head of Global Purchasing at Oerlikon Surface Solutions · Experience: Oerlikon Surface Solu",
+    "url": "https://uk.linkedin.com/in/amer-latif-b5774b2a",
+    "pass": 3
+   },
+   {
+    "quote": "Global OPS Continuous Improvement Manager (gn) bei Oerlikon ... Oct 16, 2026 · Bewerben Sie sich für die Stelle als Global OPS Continuous Improvement Manager (gn) bei Oerlikon in Bingen am Rhein. Position mit Vollzeit Direktor:in, VP etc.. Sehen Sie sich Verantwortlichkeiten, Qualifikationen und ähnliche Jobangebote auf LinkedIn an.",
+    "url": "https://de.linkedin.com/jobs/view/global-ops-continuous-improvement-manager-gn-at-oerlikon-4480559349",
+    "pass": 3
+   },
+   {
+    "quote": "Michael J Tobin - President at Oerlikon Additive ... - LinkedInGlobal 3D Metal Printing Company – Oerlikon AMOerlikon Org Chart + Executive Team - The Official Boardnote【5243】の社長・役員- キタイシホン President at Oerlikon Additive Manufacturing · Experience: Oerlikon Metco and Oerlikon Additive Manufacturers · Education: Mount St. Mary's University · Location: Huntersville · 500 ... Oerlikon AM is one of th",
+    "url": "https://www.linkedin.com/in/michael-j-tobin-2122a26",
+    "pass": 3
+   },
+   {
+    "quote": "Oerlikon AM makes urban bicycle visionary dream come true ... Our colleagues from Oerlikon AM produced an innovative frame, and Oerlikon Balzers coated it with a high-end protective rainbow coating.",
+    "url": "https://www.linkedin.com/posts/shigeo-fukui-b84582104_oerlikon-am-makes-urban-bicycle-visionary-activity-7035186433942294528-fT_X",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Oerlikon Group | Pfäffikon - FacebookOerlikon AM Medical - FacebookFacebook - log in or sign upOerlikon Americas | Plymouth MI - FacebookDid you know Oerlikon offers the... - Oerlikon Americas ...Oerlikon Group - Advanced implants begin with advanced ...Advanced implants begin with advanced materials. From implant ... Oct 26, 2026 · From implant AM powders to advanced coating materials, Oerlikon p",
+    "url": "https://www.facebook.com/GroupOerlikon/",
+    "pass": 3
+   },
+   {
+    "quote": "Oerlikon AM Medical - Facebook Oerlikon AM Medical",
+    "url": "https://www.facebook.com/Oerlikon-AM-Medical-2034512563257779/",
+    "pass": 3
+   },
+   {
+    "quote": "Oerlikon Americas | Plymouth MI - FacebookDid you know Oerlikon offers the... - Oerlikon Americas ...Oerlikon Group - Advanced implants begin with advanced ...Advanced implants begin with advanced materials. From implant ... Oct 16, 2025 · The Oerlikon team in Dayton, OH had an amazing time competing in this year’s Battle of the Businesses, an 8- day event supporting the Special Olympics of Greate",
+    "url": "https://www.facebook.com/OerlikonAmericas/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.oerlikon.com/am/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/about-us/our-locations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/about-us/our-people/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/about-us/publications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/about-us/shows-conferences/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/about-us/downloads/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/about-us/quality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/about-us/media/new-atlix-xbuild-5000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/about-us/media/metcoadd-h6282/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/about-us/media/next-gen-manufacturing-congress/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/about-us/media/oerlikon-joins-the-finnish-additive-manufacturing-ecosystem-fame/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/about-us/shows-conferences/?categories%5B0%5D=31506",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/about-us/shows-conferences/?categories%5B0%5D=31507",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/am/en/about-us/events/event-export-ics/?docId=117906&udtxId=24879",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/our-policies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/en/about-us/terms-and-certificates/?tab=terms_conditions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/en/about-us/procurement/terms-and-conditions-country-specific/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/de/ueber-uns/nachhaltigkeit/richtlinien-nachhaltiges-wirtschaften/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/en/about-us/locations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/en/portfolio/coating-equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/en/about-us/media/press-releases/?tab=adhoc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/en/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/en/about-us/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/en/about-us/media-portal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/en/about-us/innovation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/en/about-us/sustainability/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/en/about-us/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/de/portfolio/coating-equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oerlikon.com/de/industrien/energiewirtschaft/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.oerlikon.com/ecoma/files/Oerlikon_AdditiveManufacturing_Brochure_2024_EN.pdf?download=true",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oerlikon.com/ecoma/files/MetcoAdd_Product_Portfolio.pdf?download=true",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oerlikon.com/ecoma/files/OAM_Semicon_Flyer_2024_EN.pdf?download=true",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oerlikon.com/ecoma/files/ISO9001_AS9100_HV.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oerlikon.com/ecoma/files/AS9100_ISO9001_Troy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oerlikon.com/ecoma/files/Nadcap_MTL_Troy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oerlikon.com/ecoma/files/AS9100_ISO9001_Plymouth.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oerlikon.com/ecoma/files/Nadcap_Materials_Testing_Plymouth.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oerlikon.com/ecoma/files/Coating_Equipment_Composition.png?box_crop=1280%2C720",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.oerlikon.com/ecoma/files/coating_equipment_composing.jpg?box_crop=600%2C338",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://simplywall.st/ja/stocks/us/capital-goods/otc-oerl.y/oc-oerlikon/future",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fact-link.com.vn/home/oerikon-vn/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iqsdirectory.com/profile/oerlikon-am-us-78375/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://engineering.charlotte.edu/international-corporation-oerlikon-additive-manufacturing-contributes-equipment-to-w-s-lee-college-of-engineering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.tradingview.com/symbols/SIX-OERL/financials-earnings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/market-trends/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://engineering.charlotte.edu/international-corporation-oerlikon-additive-manufacturing-contributes-equipment-to-w-s-lee-college-of-engineering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%8D%98%E4%BE%A1%E8%A8%98%E5%8F%B7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%A6%8B%E7%A9%8D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://businesslife-intelligence.com/tanka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/oerlikon-am",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/OerlikonGroup/status/1003954605607260162",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OerlikonGroup/status/1580146978486304768",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/deadlyweapns/status/2075222003598901414",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OerlikonGroup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/amer-latif-b5774b2a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/jobs/view/global-ops-continuous-improvement-manager-gn-at-oerlikon-4480559349",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GroupOerlikon/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Oerlikon-AM-Medical-2034512563257779/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OerlikonAmericas/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/michael-j-tobin-2122a26",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OerlikonGroup/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/shigeo-fukui-b84582104_oerlikon-am-makes-urban-bicycle-visionary-activity-7035186433942294528-fT_X",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Oerlikon AM 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://simplywall.st/ja/stocks/us/capital-goods/otc-oerl.y/oc-oerlikon/future",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "https://www.fact-link.com.vn/home/oerikon-vn/",
+    "https://www.marklines.com/ja/top500/dana-graziano",
+    "https://www.ags.co.jp/ir/library/securities/report_20180213_3q.pdf",
+    "https://www.skymark.co.jp/ja/company/investor/120110_press.pdf",
+    "https://www.adeccogroup.com/",
+    "https://www.r-agent.com/viewjob/jk7f72ddd058bb9f88/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "Oerlikon AM 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.oerlikon.com/am/en/",
+    "https://www.iqsdirectory.com/profile/oerlikon-am-us-78375/",
+    "https://engineering.charlotte.edu/international-corporation-oerlikon-additive-manufacturing-contributes-equipment-to-w-s-lee-college-of-engineering/",
+    "https://www.oerlikon.com/am/en/markets/space/",
+    "https://www.youtube.com/watch?v=DCVRgboQuyg",
+    "https://www.thefabricator.com/additivereport/product/additive/oerlikon-am-opens-rd-and-production-facility-in-north-carolina",
+    "https://www.metal-am.com/oerlikon-announces-consolidation-and-relocation-of-its-additive-manufacturing-business-to-us/",
+    "https://inshape-horizoneurope.eu/members/oerlikon-am-europe-gmbh-germany/",
+    "https://www.aerospacemanufacturinganddesign.com/news/oerlikon-expands-us-additive-manufacturing-020917/",
+    "https://ja.wikipedia.org/wiki/エリコン"
+   ]
+  },
+  {
+   "query": "Oerlikon AM 売上高 OR 年商",
+   "results": [
+    "https://www.oerlikon.com/en/about-us/media/press-releases/2025-full-year-results/",
+    "https://jp.tradingview.com/symbols/SIX-OERL/financials-earnings/",
+    "https://www.oerlikon.com/ecoma/files/GB_17_Full_EN_online.pdf",
+    "https://simplywall.st/ja/stocks/us/capital-goods/otc-oerl.y/oc-oerlikon/future",
+    "https://www.reuters.com/jp/markets/companies/oerl.s/",
+    "https://companiesmarketcap.com/oc-oerlikon/revenue/",
+    "https://jp.investing.com/equities/oc-oerlikon-corp.-earnings",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3",
+    "https://www.eos.info/ja/press-media/press-center/press-releases/2022/signing-mou-for-founding-of-bavarian-am-cluster",
+    "https://ja.wikipedia.org/wiki/売上高"
+   ]
+  },
+  {
+   "query": "Oerlikon AM 金属3Dプリンター 受託 売上",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://news.sharelab.jp/market-trends/",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "https://optronics-media.com/monthly-post/97429/",
+    "https://idarts.co.jp/3dp/metal-3d-printing-market-expand-significantly-2024/?srsltid=AYCX9vJloZ8wGyJRbIhDZOqz13CcTvPgmZjSsPQJKmhbTf8MprOvWYmR",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.techno-producer.com/column/metal-3d-printer-maker/",
+    "https://www.act-pr.co.jp/report_detail/id=",
+    "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "https://tasuichi.jp/2026/04/10/国内の金属3dプリンター受託造形企業まとめ：pbf・ded/"
+   ]
+  },
+  {
+   "query": "Oerlikon AM 金属積層造形 台数 導入",
+   "results": [
+    "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "https://www.oerlikon.com/metco/ja/%E8%A3%BD%E5%93%81%EF%BC%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/%E6%9D%90%E6%96%99/additive-manufacturing-metal-powders/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.dmgmori.co.jp/sp/am/",
+    "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data06/179.pdf",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "https://jampt.jp/equipment/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "https://ja.3dsystems.com/sites/default/files/2023-08/07-11-2023-3d-systems-oerlikon-enter-collaboration-agreement-to-scale-accelerate-metal-additive-manufacturing_ja-jp.pdf"
+   ]
+  },
+  {
+   "query": "Oerlikon AM 受注 量産 大型",
+   "results": [
+    "https://www.oerlikon.com/am/en/",
+    "https://engineering.charlotte.edu/international-corporation-oerlikon-additive-manufacturing-contributes-equipment-to-w-s-lee-college-of-engineering/",
+    "https://www.oerlikon.com/am/en/markets/space/",
+    "https://www.metal-am.com/oerlikon-partners-with-northrop-grumman-to-boost-large-scale-additive-manufacturing-capabilities/",
+    "https://inshape-horizoneurope.eu/members/oerlikon-am-europe-gmbh-germany/",
+    "https://ja.3dsystems.com/press-releases/3d-systems-oerlikon-enter-collaboration-agreement-scale-accelerate-metal-additive",
+    "https://3dprint.com/324055/scaling-am-suppressor-production-oerlikon-am-atlix-rise-to-the-challenge/",
+    "https://www.aerospacemanufacturinganddesign.com/news/oerlikon-expands-us-additive-manufacturing-020917/",
+    "https://3dprintingindustry.com/news/3d-systems-and-oerlikon-am-announce-partnership-to-scale-metal-additive-manufacturing-223444/",
+    "https://www.metal-am.com/oerlikon-commissions-first-atlix-xbuild-5000-metal-am-machine/"
+   ]
+  },
+  {
+   "query": "Oerlikon AM 料金 OR 見積 OR 単価",
+   "results": [
+    "https://ja.wikipedia.org/wiki/単価記号",
+    "https://ja.wikipedia.org/wiki/見積",
+    "https://businesslife-intelligence.com/tanka/",
+    "https://www.microsoft.com/ja-jp/office-pipc-template/result.aspx?id=13281",
+    "https://kimini.online/blog/archives/56559",
+    "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13291008093",
+    "https://www.yayoi-kk.co.jp/seikyusho/oyakudachi/gyomuitaku-mitsumorisho/"
+   ]
+  },
+  {
+   "query": "Oerlikon AM 社長 インタビュー 日刊工業新聞",
+   "results": []
+  },
+  {
+   "query": "Oerlikon AM revenue employees",
+   "results": [
+    "https://compworth.com/company/oerlikon-am",
+    "https://www.oerlikon.com/ecoma/files/Oerlikon_Annual_Report_2025.pdf",
+    "https://www.oerlikon.com/en/about-us/media/press-releases/2025-full-year-results/",
+    "https://rocketreach.co/oerlikon-am-profile_b6b60c95c85b7759",
+    "https://growjo.com/company/Oerlikon_AM",
+    "https://www.thecompanycheck.com/company/b/oerlikon/pizu0b57oiien9xls",
+    "https://compworth.com/company/oerlikon"
+   ]
+  },
+  {
+   "query": "site:note.com Oerlikon AM",
+   "results": [
+    "https://note.com/tag/dots",
+    "https://note.com/arafune/n/n6d730f4b90f7",
+    "https://note.com/ahidasanka/n/n141b55b74f27",
+    "https://note.com/fond_clam2634/n/n06d26defb95d",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/guaran/n/ne1da1b216a7a",
+    "https://note.com/hirasawa_susumu/n/n13f1a23484be"
+   ]
+  },
+  {
+   "query": "site:x.com Oerlikon AM",
+   "results": [
+    "https://x.com/OerlikonGroup/status/1003954605607260162",
+    "https://x.com/OerlikonGroup/status/1580146978486304768",
+    "https://x.com/deadlyweapns/status/2075222003598901414",
+    "https://x.com/OerlikonGroup",
+    "https://x.com/OerlikonGroup/status/965951687071600642",
+    "https://x.com/The_HTH",
+    "https://x.com/lovergrl2002/status/2114215220327678069"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Oerlikon AM",
+   "results": [
+    "https://www.linkedin.com/company/oerlikon",
+    "https://www.linkedin.com/company/oerlikon/jobs/",
+    "https://uk.linkedin.com/in/amer-latif-b5774b2a",
+    "https://de.linkedin.com/jobs/view/global-ops-continuous-improvement-manager-gn-at-oerlikon-4480559349",
+    "https://de.linkedin.com/in/alexandru-hohoi",
+    "https://ch.linkedin.com/jobs/view/medizinische-praxisassistenz-60-100%-a-zürich-oerlikon-at-medbase-gruppe-4413012819",
+    "https://www.linkedin.com/jobs/oerlikon-am-jobs"
+   ]
+  },
+  {
+   "query": "site:facebook.com Oerlikon AM",
+   "results": [
+    "https://www.facebook.com/GroupOerlikon/",
+    "https://www.facebook.com/Oerlikon-AM-Medical-2034512563257779/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/OerlikonAmericas/",
+    "https://www.facebook.com/OerlikonAmericas/posts/did-you-know-oerlikon-offers-the-entire-metal-am-value-chain-including-best-in-c/570427058462723/",
+    "https://www.facebook.com/GroupOerlikon/posts/advanced-implants-begin-with-advanced-materialsfrom-implant-am-powders-to-advanc/2003520844324170/",
+    "https://www.facebook.com/GroupOerlikon/videos/advanced-implants-begin-with-advanced-materialsfrom-implant-am-powders-to-advanc/957732153495981/"
+   ]
+  },
+  {
+   "query": "Oerlikon AM note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.oerlikon.com/am/en/about-us/our-people/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.linkedin.com/in/michael-j-tobin-2122a26",
+    "https://www.oerlikon.com/am/en/profile/",
+    "https://www.theofficialboard.com/org-chart/oerlikon",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ]
+  },
+  {
+   "query": "Oerlikon AM X 投稿",
+   "results": [
+    "https://x.com/OerlikonGroup",
+    "https://x.com/OerlikonGroup/reposts",
+    "https://www.metal-am.com/oerlikon-commissions-first-atlix-xbuild-5000-metal-am-machine/",
+    "https://www.linkedin.com/posts/shigeo-fukui-b84582104_oerlikon-am-makes-urban-bicycle-visionary-activity-7035186433942294528-fT_X",
+    "https://www.oerlikon.com/am/en/profile/",
+    "https://www.oerlikon.com/am/en/",
+    "https://www.youtube.com/shorts/AM5x1JqE0W0"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像10件／外部28頁・検索15回）",
+  "資本金": "記載なし（3回確認済み：公式30頁／PDF・画像10件／外部28頁・検索15回）",
+  "保有設備": "記載なし（3回確認済み：公式30頁／PDF・画像10件／外部28頁・検索15回）"
+ }
+}

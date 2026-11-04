@@ -1,0 +1,2965 @@
+{
+ "name": "金属技研株式会社",
+ "aliases": [
+  "金属技研",
+  "MRT"
+ ],
+ "context": "国内・金属AM受託・HIP",
+ "researched_at": "2026-11-04T10:30:04.994357+00:00",
+ "official_url": "https://www.kinzoku.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "503名（2026年2月末現在）",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "469名（2025年2月現在）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "469名（2025年2月現在）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "288百万円",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "2億8,800万円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "288,000千円",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "2億8,800万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "14,211百万円",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "約106億円（2020年度） 約114億円（2021年度） 約121億円（2022年度） 約113億円（2023年度） 約132億円（2024年度）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "約106億円（2020年度）\n約114億円（2021年度）\n約121億円（2022年度）\n約113億円（2023年度）\n約132億円（2024年度）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "約106億円（2020年度） 約114億円（2021年度） 約121億円（2022年度） 約113億円（2023年度） 約132億円（2024年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "約106億円（2020年度）\n約114億円（2021年度）\n約121億円（2022年度）\n約113億円（2023年度）\n約132億円（2024年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   }
+  ],
+  "認証": [
+   {
+    "label": "認証番号",
+    "value": "BSKA0298 (品質)",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証範囲",
+    "value": "航空、宇宙、産業用部品の製造【熱処理、ろう付、溶接、ＨＩＰ（熱間等方加圧）、拡散接合及び機械加工】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証番号",
+    "value": "BSKA0316 (品質)",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証範囲",
+    "value": "航空、宇宙、産業用部品の製造【熱処理、ろう付、HIP（熱間等方加圧）、機械加工、溶接、溶射及び非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証番号",
+    "value": "BSKA0223 (品質)",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証範囲",
+    "value": "航空、宇宙及び産業用部品の製造 【熱処理、ろう付、溶接、拡散接合、ＨＩＰ（熱間等方加圧）、機械加工、金属積層造形および非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証番号",
+    "value": "BSKA0318 (品質)",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証範囲",
+    "value": "・航空宇宙用部品の製造【熱処理、熱間成形、ウォータージェット加工、及び機械加工】 ・産業用部品の製造【熱処理、ろう付、HIP（熱間等方加圧）、熱間成形、ウォータージェット加工、及び機械加工】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証番号",
+    "value": "BSKA0026 (品質)",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証範囲",
+    "value": "航空、宇宙、産業用部品の製造【熱処理、ろう付、HIP（熱間等方加圧）、 機械加工、溶接】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証番号",
+    "value": "BSKA0057 (品質)",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証範囲",
+    "value": "航空、宇宙及び産業用部品の製造【熱処理、ろう付、拡散接合、溶接、焼結、HIP（熱間等方加圧）、機械加工及び非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証番号",
+    "value": "CN041252 (品質)",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証範囲",
+    "value": "金属材料、金属粉末及び金属積層複合材料の熱処理、ろう付、拡散接合、粉末焼結、HIPHIP（熱間等方加圧）",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "label": "認証番号",
+    "value": "BSKE0036",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "label": "認証範囲",
+    "value": "航空、宇宙、産業用部品の製造【熱処理、ろう付、溶接、HIP（熱間等方加圧）、拡散接合及び機械加工】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "label": "認証番号",
+    "value": "BSKE0037",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "label": "認証範囲",
+    "value": "航空、宇宙、産業用部品の製造【熱処理、ろう付、HIP（熱間等方加圧）、機械加工、溶接、溶射及び非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "label": "認証番号",
+    "value": "BSKE0038",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "label": "認証範囲",
+    "value": "・医療機器、産業用部品の設計・開発及び製造【熱処理、ろう付、溶接、拡散接合、HIP（熱間等方加圧）、機械加工及び金属積層造形】 ・航空、宇宙用部品の製造【熱処理、ろう付、溶接、拡散接合、HIP（熱間等方加圧）、機械加工及び金属積層造形】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "label": "認証番号",
+    "value": "BSKE0030",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "label": "認証範囲",
+    "value": "航空、宇宙、産業用部品の製造【熱処理、ろう付、HIP（熱間等方加圧）、機械加工及び溶接】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "label": "認証番号",
+    "value": "BSKE0035",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "label": "認証範囲",
+    "value": "航空、宇宙及び産業用部品の製造【熱処理、ろう付、拡散接合、溶接、焼結、HIP（熱間等方加圧）、機械加工及び非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "弊社は「製品」ではなく「技術」を提供し、あらゆる分野のモノづくりの課題を解決しています。 【技術】 HIP／熱処理 ／ろう付／溶接／機械加工 金属3Dプリンター／検査／分析・解析 【業界分野】 エネルギー／半導体／航空／宇宙 加速器／核融合／医療／精密機械 【実績】 ・火力発電ガスタービンの燃焼器部材の接合・加工 ・半導体・液晶の製造装置部品及び材料の製作 ・人工衛星、ロケット用のエンジン部品の試作品の製造 ・オーダーメイドのインプラントの製作 ・核融合実験炉や大型加速器の装置 近年では、 コア技術の底上げ、新技術の開発、新事業の創出にも力を入れて取り組んでいます。",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "弊社は「製品」ではなく「技術」を提供し、あらゆる分野のモノづくりの課題を解決しています。 【技術】 HIP／熱処理 ／ろう付／溶接／機械加工 金属3Dプリンター／検査／分析・解析 【業界分野】 エネルギー／半導体／航空／宇宙 加速器／核融合／医療／精密機械 【実績】 ・火力発電ガスタービンの燃焼器部材の接合・加工 ・半導体・液晶の製造装置部品及び材料の製作 ・人工衛星、ロケット用のエンジン部品の試作品の製造 ・オーダーメイドのインプラントの製作 ・核融合実験炉や大型加速器の装置 近年では、 コア技術の底上げ、新技術の開発、新事業の創出にも力を入れて取り組んでいます。",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "1960年2月10日",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立年月",
+    "value": "1960年2月（昭和35年）",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1960年2月10日",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主構成",
+    "value": "株式非公開",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "株主構成",
+    "value": "株式非公開",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "設備台数": [
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大の装置を含む20台以上のHIP装置を擁し、高度な技術革新を進めています",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "J-PARCに設置された当社製「水銀ターゲット容器10号機」が順調に稼働中です",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "その後、大手電機メーカーからのエアコン部品のろう付、コンデンサー部品の熱処理等の受注に伴って、真空炉をはじめ新しい設備の導入を進め、技術の向上にも積極的にチャレンジしていきました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "従来の熱処理・接合では得られない、高い信頼性の求められる分野が拡がるなか、金属技研にとっては必須の技術だと着目し、1984年に当時の日本では先端技術であったHIP装置を滋賀工場に導入しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "HIP処理の需要が増えていくなか、顧客ニーズの多様化に伴い1993年には大型部品に対応すべく「Mega-HIP」を群馬工場に導入するなど、積極的な投資を続けていきました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "厳しい時代の流れのなか、姫路工場には大型MC（マシニングセンター）やホットプレスを、滋賀工場には超塑性成形（SPF）装置の導入を果たし、これを機に金属技研は、熱処理の受託加工からその前後工程を包括する「モノづくり」を提供する企業へと成長を重ねていきます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "今話題の3D積層造形も、2001年に金属積層造形装置をいち早く茨城工場に導入しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、2010年にはHIP技術の世界的需要増に対し、世界最大のHIP装置「Giga-HIP」を姫路工場に導入しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、海外需要先である中国からのHIP処理依頼の増加に対して、2010年には初めての海外拠点として、中国蘇州に現地法人坂上金属技研（蘇州）有限公司を設立し、2013年に稼働を開始しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "群馬工場、真空炉を導入し本格的に防衛（航空）分野の事業開始",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "HIP装置1号機を滋賀工場に導入、HIP事業を開始",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンタを姫路工場に導入、本格的に加工事業を開始",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内最大のHIP装置「Mega-HIP」を群馬工場に導入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ホットプレス装置を姫路工場に導入、焼結分野に参入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "超塑性成形（SPF）装置を滋賀工場に導入、成形分野に参入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "積層造形成形装置を茨城工場に導入、造形分野に参入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大HIP装置「Giga-HIP」を姫路工場に導入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム積層造形装置「Arcam A2X」を導入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "レーザビーム積層造形装置「EOSINT M280」を導入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム大型積層造形装置「Arcam Q20」を導入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "MTC Powder Solutions 新工場稼働開始",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "茨城工場HIP27、28号機稼働開始 さらなる設備増強に着手",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内初となる電子ビーム造形装置「Spectra L」を導入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "J-PARCに設置された当社製「水銀ターゲット容器10号機」が順調に稼働中です",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/news_release/kosen2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/news_release/New_Corporate_Value.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/news_release/j-parc.OPEN_HOUSE.2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/news_release/gunma.blood_donation_drive.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "茨城工場の太陽光発電・蓄電池システムが導入事例として掲載",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "えびなポニー広場へ馬車1台を寄贈いたしました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "国内初導入の電子ビーム造形装置「Spectra L」を導入いたします",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "安定稼働できるSTARS導体を実現しました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "土岐工場に太陽光発電の導入記事が新聞に掲載されました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "J-PARCに設置された当社製「水銀ターゲット容器10号機」が順調に稼働中です",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "台風19号の影響による営業状況のお知らせ",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "4台目３Dプリンター（金属積層造形装置）が稼動を開始",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "「水銀ターゲット容器８号機をＪ－ＰＡＲＣに納入、現在稼働中」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞記事「金属技研、岐阜・土岐工場に太陽光発電を導入 来年度稼働」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂造形機を導入した経緯と金属技研がもつ技術との相乗効果",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～ | MTC Solution",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "今回は、国内初導入となるEB-PBF最新機種「Spectra L」と、LB-PBF技術を活用した開発中のセラミックス造形について、現時点での進捗と課題を率直にお伝えします",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例 (1)",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/documents/wp-company.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研のビジョン、保有する技術、会社概要に加え、強み、各技術を細かくご紹介しています",
+    "url": "https://www.kinzoku.co.jp/documents/wp-company.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/contacts/contact-estimate.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/case/machine01.html",
+    "pass": 1
+   }
+  ],
+  "料金・単価": [
+   {
+    "quote": "お見積りのご依頼",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "（要件が固まっている、費用確認の方向け）",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "288百万円",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "14,211百万円",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞記事「金属技研、半導体需要増でＨＩＰ処理増強 新工場・装置など100億円」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "お見積りのご相談｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/contacts/contact-estimate.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積りのご相談",
+    "url": "https://www.kinzoku.co.jp/contacts/contact-estimate.html",
+    "pass": 1
+   },
+   {
+    "quote": "１社でまとめることにより、品質・納期・価格とも満足頂いた",
+    "url": "https://www.kinzoku.co.jp/case/aerospace01.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅円筒内面にフェライトをライニングすることで、均一なフェライト層ができ、未接合による冷却むらを解消し、温度上昇を抑えられた",
+    "url": "https://www.kinzoku.co.jp/case/accelerator_nuclear_fusion01.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞記事「金属技研、半導体需要増でＨＩＰ処理増強 新工場・装置など100億円」",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/tag/use_cases",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/case",
+    "pass": 1
+   },
+   {
+    "quote": "鏡面加工は研磨を行わずに鏡面仕上げを行えるので、時間と費用を削減できます",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-hot-press",
+    "pass": 1
+   },
+   {
+    "quote": "2億8,800万円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約106億円（2020年度）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約114億円（2021年度）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約121億円（2022年度）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約113億円（2023年度）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約132億円（2024年度）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外部講習・通信教育・書籍購入などに対して、勤務時間の調整や費用の補助が受けられます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：288,000千円",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "2億8,800万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約106億円（2020年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約114億円（2021年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約121億円（2022年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約113億円（2023年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約132億円（2024年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外部講習・通信教育・書籍購入などに対して、勤務時間の調整や費用の補助が受けられます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "【東大・UCバークレーが出資】元日本製鉄エンジニアが時価総額5兆円を狙う／製造スピード500倍、コスト90%削減の金属3Dプリンター／社費留学→退職で数千万円の借金【SUN METALON西岡社長 】",
+    "url": "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "pass": 3
+   },
+   {
+    "quote": "経理・人事・IT・システムなど様々な面から、会社全体の働く環境を支え、円滑な運営を行います",
+    "url": "https://www.mtc-kinzoku.co.jp/about_selection/course/",
+    "pass": 3
+   }
+  ],
+  "最大案件・量産": [
+   {
+    "quote": "世界最大の装置を含む20台以上のHIP装置を擁し、高度な技術革新を進めています",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "精密部品や積層構造体、大面積・大型部品のろう付も可能",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "リクルートTOP｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.mtc-kinzoku.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "モノづくりからの一貫製作体制（受注生産）",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研は環境保護の重要性を十分に認識し、日々の製造活動において確実に環境管理を遂行するために最大限の努力をしています",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "工場紹介｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研の歩み｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "その後、大手電機メーカーからのエアコン部品のろう付、コンデンサー部品の熱処理等の受注に伴って、真空炉をはじめ新しい設備の導入を進め、技術の向上にも積極的にチャレンジしていきました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、事業の拡大とともに関西方面からの受注も増加したため、滋賀県に2つ目の工場として滋賀工場の操業を開始しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "HIP処理の需要が増えていくなか、顧客ニーズの多様化に伴い1993年には大型部品に対応すべく「Mega-HIP」を群馬工場に導入するなど、積極的な投資を続けていきました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "厳しい時代の流れのなか、姫路工場には大型MC（マシニングセンター）やホットプレスを、滋賀工場には超塑性成形（SPF）装置の導入を果たし、これを機に金属技研は、熱処理の受託加工からその前後工程を包括する「モノづくり」を提供する企業へと成長を重ねていきます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、2010年にはHIP技術の世界的需要増に対し、世界最大のHIP装置「Giga-HIP」を姫路工場に導入しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内最大のHIP装置「Mega-HIP」を群馬工場に導入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大HIP装置「Giga-HIP」を姫路工場に導入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "米国Pratt & Whitney社からJT8D修理事業継承（DSPNetwork契約）",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム大型積層造形装置「Arcam Q20」を導入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "品質管理体制｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境マネジメント｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "「KOSEN最前線2026」に当社社員のインタビュー記事が掲載されました｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/news_release/kosen2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "『金属技研が進める新たな企業価値の創造』特集記事を公開｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/news_release/New_Corporate_Value.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形で製作したビーム窓がJ-PARC施設公開で展示されます｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/news_release/j-parc.OPEN_HOUSE.2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "献血推進活動について、厚生労働大臣感謝状を拝受しました｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/news_release/gunma.blood_donation_drive.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "当社の大型投資に関する記事が「日刊工業新聞」に掲載されました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースイッチ「GEに航空機部品を売り込む中小企業、その切り札は金属積層 -金属技研、国内の量産メーカーで初めて品質管理規格を取得-」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形量産化のための品質管理",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要資料｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/documents/wp-company.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積りのご相談｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/contacts/contact-estimate.html",
+    "pass": 1
+   },
+   {
+    "quote": "精密機器向け事例 (押出成型機用シリンダー)｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/case/machine01.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙向け事例 (ブレード)｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/case/aerospace01.html",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー向け事例 (熱交換器プレート)｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/case/power_generation01.html",
+    "pass": 1
+   },
+   {
+    "quote": "材料に負担の少ない機械加工方法の導入や、組立工程の高精度化、HP（ホットプレス）を最大限に活用した均一で歪みのない接合条件の追求をした",
+    "url": "https://www.kinzoku.co.jp/case/power_generation01.html",
+    "pass": 1
+   },
+   {
+    "quote": "液晶・半導体向け事例 (冷却プレート)｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/case/lcd_semiconductor01.html",
+    "pass": 1
+   },
+   {
+    "quote": "加速器・核融合分野向け事例 (HOMダンパー)｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/case/accelerator_nuclear_fusion01.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形量産化のための品質管理",
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "pass": 1
+   },
+   {
+    "quote": "HIP装置設備一覧｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/documents/wp-HIP-list.html",
+    "pass": 1
+   },
+   {
+    "quote": "真空ホットプレス装置一覧｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/documents/wp-hotpress-list.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の大型投資に関する記事が「日刊工業新聞」に掲載されました",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースイッチ「GEに航空機部品を売り込む中小企業、その切り札は金属積層 -金属技研、国内の量産メーカーで初めて品質管理規格を取得-」",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形量産化のための品質管理",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "適切な技術と経験に基づいた加工を行うことで、チタン本来の性能を最大限に引き出すことが可能です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "単軸型のホットプレスは比較的小さなサイズとなっているため、大型材料の加工を行う場合は多軸型ホットプレスを選定する必要があります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-hot-press",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級の設備を保有し、半導体・エネルギー・航空宇宙など、あらゆる分野のモノづくりに携わる",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・核融合実験炉や大型加速器の装置",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "姫路工場に世界最大級のHIP装置「Giga-HIP」を導入",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る金属技研｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "パート・嘱託・契約社員含む 2026年2月現在",
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "量産品はもちろん、研究開発段階の試作品まで幅広い案件を担当しています",
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、国内では最大",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "そのような設備と技術・ノウハウを有しているのが、当社の最大の強みです」（長谷川社長）",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "この度同社では、中小企業としては、ケタ外れの大型投資を決断した",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "同社では現在造れる最大の装置を4年前に海外のメーカーに発注し、2010年1月、ようやく完成・設置された",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "それが、長谷川社長が世界最大の装置を導入する理由である",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "世界最大級の設備を保有し、半導体・エネルギー・航空宇宙など、あらゆる分野のモノづくりに携わる",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属を通して地球を そして宇宙を考える",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機や発電用タービンなど、厳しい使用環境に耐えられる信頼度の高い金属部品をご提供",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高品質が要求される原子力関連や宇宙・航空関連などをはじめ、高度な熱処理をご提供いたします",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業界トップレベルの先端技術で、液晶・半導体分野から航空･宇宙分野まで、",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "液晶・半導体",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、エネルギー、航空・宇宙、精密機器、加速器・核融合炉など",
+    "url": "https://www.mtc-kinzoku.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体からエネルギー、航空宇宙まで",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "液晶・半導体",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空エンジン部品の溶体化・時効処理",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形装置（3Dプリンター／３次元積層造形技術）を用いた、整形外科領域のカスタムメイド医療機器の製造",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機や発電用タービンなど、厳しい使用環境に耐えられる信頼度の高い金属部品をご提供",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして宇宙を考える",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "時代と顧客価値に則した行動を臨機応変に実施し、供給責任を果たします",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙業界の方へ",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "『和を貴び、和を守る』という理念のもと、創業当時はフェライトの磁性焼鈍やアルミダイキャスト用金型の熱処理を手掛けていましたが、2年後には手狭になり、新たに群馬県玉村に群馬工場を開設しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代には防衛・航空機関連業界にも進出し、1977年には民間機のボーイング社品質規格（BAC）の認定を取得",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "HIP技術は、ガスタービン・航空機用精密鋳造品の内部欠陥除去や、粉末ハイスの焼結処理など、多様な製品に活用されていきます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品Ti-6Al-4Vのろう付（F15J用ボディバルブ）",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「最新技術をいち早く習得して、顧客に最適提案する」というビジネスモデルを確立した金属技研",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "HIP処理の需要が増えていくなか、顧客ニーズの多様化に伴い1993年には大型部品に対応すべく「Mega-HIP」を群馬工場に導入するなど、積極的な投資を続けていきました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客が必要とする装置や部品のニーズを実現するためには、設計段階からの参画、最適素材・加工法の開発、分析・解析が必要となることから、神奈川工場内に「テクニカルセンター」を設置",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、体制面でもうひとつの大きな変化としては、以前から加速器をはじめ科学分野には部品供給をしていましたが、顧客要望により設計・解析・製造・組立を一環で行う「エンジニアリング事業部」（現 技術開発本部）を新たに設立して、装置メーカーとしても科学分野に貢献できるようになりました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "群馬工場、真空炉を導入し本格的に防衛（航空）分野の事業開始",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川工場 医療機器製造所登録",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研は航空業界に関連する業界の要求を満たしております",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空製造業者に対する高い基準を常に満たすことで、当社工場の管理システムは改善し向上しています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "このような厳しい要求による品質管理により、他の業界に商品を提供する際も高い品質を保持することができ、他業界の顧客の満足も得ることができます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは常に品質管理システムの向上を目指し、ISO9000シリーズの認証や航空業界に関連する認証を取得しています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "JIS Q9100: 航空・宇宙及び防衛分野の組織に対する要求事項",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "公益財団法人 防衛基盤整備協会",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙、産業用部品の製造【熱処理、ろう付、溶接、ＨＩＰ（熱間等方加圧）、拡散接合及び機械加工】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "21 航空宇宙産業",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙、産業用部品の製造【熱処理、ろう付、HIP（熱間等方加圧）、機械加工、溶接、溶射及び非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙及び産業用部品の製造 【熱処理、ろう付、溶接、拡散接合、ＨＩＰ（熱間等方加圧）、機械加工、金属積層造形および非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "・航空宇宙用部品の製造【熱処理、熱間成形、ウォータージェット加工、及び機械加工】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙、産業用部品の製造【熱処理、ろう付、HIP（熱間等方加圧）、 機械加工、溶接】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙及び産業用部品の製造【熱処理、ろう付、拡散接合、溶接、焼結、HIP（熱間等方加圧）、機械加工及び非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "・U1 Honeywell Aerospace",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機のエンジンや部品製造会社であるPratt & Whitney社の管理基準を満たし、定められたスペックに基づく航空関連部品の供給者に対する品質要求であり、認証の取得が、その要求を十分に満たしていることを証明しています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機のエンジンや部品製造会社であるPratt & Whitney社の航空関連部品の供給者に対する品質要求管理の認証で、航空関連部品の指定されたスペックに基づく処理がPratt & Whitney社の求める処理基準を十分に満たしていることを示しています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器産業に特化した品質マネジメントシステムに関する国際規格です",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界各国で“医療機器のライフサイクルに関わる組織に対する規制”の品質管理のベースとして採用されています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、各工場が会社の基本理念「環境を大切にし、人を大切にする」という考えのもと、エネルギー、産業機器、航空、医療等の分野にまたがる生産活動において限りある資源を扱いながら業務を行っているという認識を常に持ち、地球環境や労働環境に対する環境負荷の低減について継続的に取り組んでいます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙、産業用部品の製造【熱処理、ろう付、溶接、HIP（熱間等方加圧）、拡散接合及び機械加工】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "21 航空宇宙産業",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙、産業用部品の製造【熱処理、ろう付、HIP（熱間等方加圧）、機械加工、溶接、溶射及び非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "・医療機器、産業用部品の設計・開発及び製造【熱処理、ろう付、溶接、拡散接合、HIP（熱間等方加圧）、機械加工及び金属積層造形】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "・航空、宇宙用部品の製造【熱処理、ろう付、溶接、拡散接合、HIP（熱間等方加圧）、機械加工及び金属積層造形】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙、産業用部品の製造【熱処理、ろう付、HIP（熱間等方加圧）、機械加工及び溶接】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙及び産業用部品の製造【熱処理、ろう付、拡散接合、溶接、焼結、HIP（熱間等方加圧）、機械加工及び非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "本製品は、Newton5月号（2010年）に写真が掲載された東京大学宇宙線研究所 神岡宇宙素粒子実験施設に納入しました当社担当のXMASS実験用PMTホルダーです",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   }
+  ],
+  "採用・人数": [
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "採用マイページ登録",
+    "url": "https://www.mtc-kinzoku.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "2027年採用向け採用コースを更新しました",
+    "url": "https://www.mtc-kinzoku.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "採用パンフレット",
+    "url": "https://www.mtc-kinzoku.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "採用活動におけるハラスメント防止の取り組み",
+    "url": "https://www.mtc-kinzoku.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事業について",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "503名（2026年2月末現在）",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "この組織は旧神奈川工場、エンジニアリング事業本部、技術",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報はこちら",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川県海老名市社家5-4-14",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、体制面でもうひとつの大きな変化としては、以前から加速器をはじめ科学分野には部品供給をしていましたが、顧客要望により設計・解析・製造・組立を一環で行う「エンジニアリング事業部」（現 技術開発本部）を新たに設立して、装置メーカーとしても科学分野に貢献できるようになりました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川工場操業開始（神奈川県海老名市）",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事業本部を設立",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界各国で“医療機器のライフサイクルに関わる組織に対する規制”の品質管理のベースとして採用されています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研では、主に技術開発本部（旧エンジニアリング事業本部）にて設計を行っています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要求内容にもとづいて、エンジニアが設計を行い、その設計の妥当性をFEM解析やモックアップ試験などによって検証し、仕様書や図面にします",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術開発本部（旧エンジニアリング事業本部）では、加速器と核融合分野の国家プロジェクトに関わる数多くの製品の設計製作を担当してきました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事業について",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研の研究開発・技術開発は、技術開発本部（旧エンジニアリング事業本部）が中心となって、いくつもの工場と連携し、それぞれ得意な製造技術と結びついて、製品が産み出されていきます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/news_release/kosen2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/news_release/kosen2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "本記事は38ページに掲載されており、ものづくりに携わる若手技術者としてのキャリアや、日々の業務への取り組みについて紹介されています",
+    "url": "https://www.kinzoku.co.jp/news_release/kosen2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/news_release/New_Corporate_Value.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/news_release/New_Corporate_Value.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/news_release/j-parc.OPEN_HOUSE.2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/news_release/j-parc.OPEN_HOUSE.2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/news_release/gunma.blood_donation_drive.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/news_release/gunma.blood_donation_drive.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "「インターモールド名古屋」に出展します",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "海老名市「小学生のためのお仕事ノート」に掲載されました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "当社はG-SHOCKの部品製作に携わり、技術者対談を行いました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "採用サイトの内容を拡充しました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "採用サイトをオープンしました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "北欧大手エンジニアリングメーカー子会社の 買収に関するお知らせ",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "金属部品製造・加工に役立つ情報を、各分野のエンジニアがご紹介します",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/documents/wp-company.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/documents/wp-company.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/contacts/contact-estimate.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/contacts/contact-estimate.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事例",
+    "url": "https://www.kinzoku.co.jp/case/machine01.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング",
+    "url": "https://www.kinzoku.co.jp/case/machine01.html",
+    "pass": 1
+   }
+  ],
+  "発言": [
+   {
+    "quote": "「KOSEN最前線2026」に当社社員のインタビュー記事が掲載されました",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー",
+    "url": "https://www.mtc-kinzoku.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "社長メッセージ",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 畑中 秀夫",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "社長も含め、社員が直接お話を伺い、意見を交わすことで、お客様に安心していただけると思っています",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "畑中秀夫が代表取締役社長に就任",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "人工流れ星のALEと金属技研が語る コロナで変わる日本企業と働き方とは？",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "「KOSEN最前線2026」に当社社員のインタビュー記事が掲載されました｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/news_release/kosen2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "「KOSEN最前線2026」に当社社員のインタビュー記事が掲載されました",
+    "url": "https://www.kinzoku.co.jp/news_release/kosen2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月1日発行の日刊工業新聞社「KOSEN最前線2026」に、金属技研社員のインタビュー記事が掲載されました",
+    "url": "https://www.kinzoku.co.jp/news_release/kosen2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "「KOSEN最前線2026」に当社社員のインタビュー記事が掲載されました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "社長交代に関するお知らせ",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "当社社長が「雪嶺賞」を受賞し、母校で記念講演を行いました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "コスモ技研五十嵐会長と当社長谷川社長が対談を行いました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "弊社社長の対談記事がULVAC社のHPで紹介されています",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞インタビュー記事「金属技研社長・長谷川数彦氏 HIP設備、内外増強」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞インタビュー記事「五十嵐宏一コスモ技研会長と長谷川数彦金属技研社長がスマート工場を語る」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞 ニュースイッチ「人工流れ星のＡＬＥと金属技研が語る コロナで変わる日本企業と働き方とは？」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "日経クロステック インタビュー「GEやロールスロイスお墨付きのHIP技術、自動車部品中心に中国で展開」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "「KOSEN最前線2026」に当社社員のインタビュー記事が掲載されました",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "社長交代に関するお知らせ",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社社長が「雪嶺賞」を受賞し、母校で記念講演を行いました",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "コスモ技研五十嵐会長と当社長谷川社長が対談を行いました",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社社長の対談記事がULVAC社のHPで紹介されています",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞インタビュー記事「金属技研社長・長谷川数彦氏 HIP設備、内外増強」",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞インタビュー記事「五十嵐宏一コスモ技研会長と長谷川数彦金属技研社長がスマート工場を語る」",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞 ニュースイッチ「人工流れ星のＡＬＥと金属技研が語る コロナで変わる日本企業と働き方とは？」",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "日経クロステック インタビュー「GEやロールスロイスお墨付きのHIP技術、自動車部品中心に中国で展開」",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー",
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "そのような基幹部品の耐久性を高めるために、HIP処理を行うことが現在のハイテク産業では不可欠なのです」と、いま、金属技研が最も力を入れているHIP事業について金属技研株式会社の長谷川社長は熱く語る",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "そのような設備と技術・ノウハウを有しているのが、当社の最大の強みです」（長谷川社長）",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "それが、長谷川社長が世界最大の装置を導入する理由である",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "長谷川 数彦社長",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "以前から大手企業の技術パートナーとして黒子的に関わってきたのですが、ようやく、中心的な役割の担える存在として認知されてきたようです」と話す長谷川社長の夢、それは、単なる金属の処理・加工から、一貫したモノづくりへと参入すること",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "ノーベル賞を受賞した小柴先生の研究の延長線なので、当社としても非常に力を入れています」（長谷川社長）",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "そういう人材がほしいですね」と、今後同社に入社して欲しい若手社員のイメージを語る",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "長谷川社長は、普通に新卒で入社したプロパー社員",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "長谷川社長が若手の頃にこういう考えがあったからこそ、「一歩踏み出す」人を熱望するのだろう",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "【東大・UCバークレーが出資】元日本製鉄エンジニアが時価総額5兆円を狙う／製造スピード500倍、コスト90%削減の金属3Dプリンター／社費留学→退職で数千万円の借金【SUN METALON西岡社長 】",
+    "url": "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "pass": 3
+   },
+   {
+    "quote": "とみちゃんTV - ものづくり社長",
+    "url": "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "pass": 3
+   },
+   {
+    "quote": "社員インタビュー",
+    "url": "https://www.mtc-kinzoku.co.jp/about_selection/course/",
+    "pass": 3
+   },
+   {
+    "quote": "社員インタビュー",
+    "url": "https://www.mtc-kinzoku.co.jp/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "1960年、若い研究者たちが研究成果を実社会で生かそうと高い志を持って創業",
+    "url": "https://www.mtc-kinzoku.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来の社訓「和を貴び、和を守る」の教えと、「環境を大切にし、人を大切にする」という経営理念のもと、時代や社会の求めに応じて臆することなく進化をしていく所存です",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "1960年の設立以来、金属加工業界のリーディングカンパニーとして成長を続けてきた金属技研",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "『和を貴び、和を守る』という理念のもと、創業当時はフェライトの磁性焼鈍やアルミダイキャスト用金型の熱処理を手掛けていましたが、2年後には手狭になり、新たに群馬県玉村に群馬工場を開設しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、体制面でもうひとつの大きな変化としては、以前から加速器をはじめ科学分野には部品供給をしていましたが、顧客要望により設計・解析・製造・組立を一環で行う「エンジニアリング事業部」（現 技術開発本部）を新たに設立して、装置メーカーとしても科学分野に貢献できるようになりました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、海外需要先である中国からのHIP処理依頼の増加に対して、2010年には初めての海外拠点として、中国蘇州に現地法人坂上金属技研（蘇州）有限公司を設立し、2013年に稼働を開始しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研株式会社創立（東京都板橋区）、熱処理事業を開始",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "テクニカルセンターを設立",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング事業本部を設立",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国現地法人・坂上金属技研（蘇州）有限公司を設立",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "成田工場（FAA Repair Station）設立",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "土岐工場操業開始 (岐阜県土岐市)設立",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "MTC Powder Solutions AB（スウェーデン）を設立",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術開発本部を設立",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "成長推進本部を設立",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「技術開発本部」の設立記事が新聞に掲載されました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研は岐阜県土岐市に新工場を設立いたします",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "「技術開発本部」の設立記事が新聞に掲載されました",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研は岐阜県土岐市に新工場を設立いたします",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研はホットプレス・HIPを合わせて国内外に30台以上保有しており、創業1960年から培ってきた技術力、厳格な品質管理と一社一貫制作によって、お客様のニーズに合致する解決策を提供しています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-hot-press",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、常に新しい技術に挑戦してきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業当初から大切にしているのが「和を貴び、和を守る」という考え方",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研(株)創立（東京都板橋区）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "理化学研究所の（旧）金属工学研究グループが研究成果を実社会で生かそうと高い志を持って設立されました",
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年2月10日おかげさまで創立50周年を迎えました",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "設立年月：1960年2月（昭和35年）",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年で創業50年を迎える同社の新たなメタルソリューションへの挑戦は、今日も続く",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来、常に新しい技術に挑戦してきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業当初から大切にしているのが「和を貴び、和を守る」という考え方",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研は、1960年に設立された会社です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研(株)創立（東京都板橋区）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1960年、若い研究者たちが研究成果を実社会で生かそうと高い志を持って創業",
+    "url": "https://www.mtc-kinzoku.co.jp/",
+    "pass": 3
+   }
+  ],
+  "売上・受託売上": [
+   {
+    "quote": "288百万円",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "14,211百万円",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "sales@mtc-suzhou.com",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞記事「金属技研、半導体需要増でＨＩＰ処理増強 新工場・装置など100億円」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞記事「金属技研、半導体需要増でＨＩＰ処理増強 新工場・装置など100億円」",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "約106億円（2020年度）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約114億円（2021年度）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約121億円（2022年度）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約113億円（2023年度）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約132億円（2024年度）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度において、過去最高の売上高を達成",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "AMOUNT OF SALES",
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "過去最高の売上高を更新中",
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "業界別売上比率",
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "SALES RATIO",
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "技術売上比率",
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "約106億円（2020年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約114億円（2021年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約121億円（2022年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約113億円（2023年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "約132億円（2024年度）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度において、過去最高の売上高を達成",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "核融合･半導体などの信頼厚い 金属技研 に新たな歴史の1ページ — 核融合･半導体などの信頼厚い 金属技研 に新たな歴史の1ページ 金属技研 https://www.kinzoku.co.jp > media > ps-opening-ceremony",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/ps-opening-ceremony",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 (株)の会社概要 | マイナビ2028 — 金属技研 (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp221386 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る 金属技研 ｜同種・異種金属の接合 - リクルートTOP — 数字で見る 金属技研 ｜同種・異種金属の接合 - リクルートTOP mtc-kinzoku.co.jp https://www.mtc-kinzoku.co.jp > number",
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 金属技研 — 会社概要 - 金属技研 金属技研 https://www.kinzoku.co.jp > about_mtc",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 の企業情報 - バフェット・コード — 金属技研 株式会社 の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/dr0bni1by9/",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形など、金属に関する受注生産｜ 金属技研 株式会社 — 積層造形など、金属に関する受注生産｜ 金属技研 株式会社 金属技研 https://www.kinzoku.co.jp > about_mtc > history",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 | 輝く技術 光る企業 - 東京カイシャハッケン伝 — 金属技研 株式会社 | 輝く技術 光る企業 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > old > kigyou",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社（東京都）の会社概要・役員 | Compalyze — 金属技研 株式会社（東京都）の会社概要・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 鉄鋼・金属",
+    "url": "https://compalyze.co.jp/company/4011201010452",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 の会社紹介 - YouTube — 金属技研 の会社紹介 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=y5ldbw6uPT0",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 (株)の新卒採用・会社概要 | マイナビ2027 — 金属技研 (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp221386 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 — 金属技研 株式会社 career-platform.com https://career-platform.com > contentsol_4263",
+    "url": "https://career-platform.com/contentsol_4263.html",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノン・ 金属技研 セラミックス積層造形 受託 生産はじまる — キヤノン・ 金属技研 セラミックス積層造形 受託 生産はじまる ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > ...",
+    "url": "https://newswitch.jp/p/45720?preview=7206697013ad958475dc6cdab68f43f2f371ddf2",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックス積層造形の 受託 生産サービスを開始しました — セラミックス積層造形の 受託 生産サービスを開始しました 金属技研 https://www.kinzoku.co.jp > news_release > CeramicAM",
+    "url": "https://www.kinzoku.co.jp/news_release/CeramicAM.html",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノン・ 金属技研 セラミックス積層造形 受託 生産はじまる ... — キヤノン・ 金属技研 セラミックス積層造形 受託 生産はじまる ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/751726",
+    "pass": 3
+   },
+   {
+    "quote": "導入 事例｜同種・異種 金属 の接合、 積層造形 など — 導入 事例｜同種・異種 金属 の接合、 積層造形 など 金属技研 https://www.kinzoku.co.jp > case",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 Metal Technology (@MetalTechJapan) / X — 金属技研 株式会社 Metal Technology (@MetalTechJapan) / X X https://x.com > MetalTechJapan",
+    "url": "https://x.com/MetalTechJapan",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 に 金属 3Dプリンター「ProX DMP 320」を納入 — 金属技研 に 金属 3Dプリンター「ProX DMP 320」を納入 キヤノン https://canon.jp > corporate > newsrelease > pr-mtc-dmp320",
+    "url": "https://canon.jp/corporate/newsrelease/2018/2018-10/pr-mtc-dmp320",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形など、金属に関する 受注 生産｜ 金属技研 株式会社 — 積層造形など、金属に関する 受注 生産｜ 金属技研 株式会社 金属技研 https://www.kinzoku.co.jp > about_mtc > history",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 | MTCは熱処理・HIP・接合などの金属加工 ... — 金属技研 株式会社 | MTCは熱処理・HIP・接合などの金属加工 ... 金属技研 https://www.kinzoku.co.jp",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社（兵庫県) 主たる技術：立体造形 — 金属技研 株式会社（兵庫県) 主たる技術：立体造形 中小企業庁 PDF https://www.chusho.meti.go.jp > keiei > portal > seika",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2952806065g.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 ×日刊工業新聞 — 金属技研 ×日刊工業新聞 日刊工業新聞 https://www.nikkan.co.jp > kinzoku",
+    "url": "https://www.nikkan.co.jp/jm/kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 × 日刊工業新聞 — 金属技研 × 日刊工業新聞 日刊工業新聞 https://www.nikkan.co.jp > kinzoku",
+    "url": "https://www.nikkan.co.jp/jm/kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー ／ 金属技研社長 ・畑中秀夫氏 DXで組織改革加速 — インタビュー ／ 金属技研社長 ・畑中秀夫氏 DXで組織改革加速 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/00681326?gnr_footer=0071943",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー ／ 金属技研社長 ・畑中秀夫氏 DXで組織改革加速 — インタビュー ／ 金属技研社長 ・畑中秀夫氏 DXで組織改革加速 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/681326",
+    "pass": 3
+   },
+   {
+    "quote": "当社の大型投資に関する記事が「 日刊工業新聞 」に掲載され ... — 当社の大型投資に関する記事が「 日刊工業新聞 」に掲載され ... 金属技研 https://www.kinzoku.co.jp > large-investment",
+    "url": "https://www.kinzoku.co.jp/news_release/large-investment.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 『挑戦と失敗から学ぶ文化』【PR】 - 日刊工業新聞 — 金属技研 『挑戦と失敗から学ぶ文化』【PR】 - 日刊工業新聞 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/786824",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 「企業分析」 OpenWork — 金属技研 「企業分析」 OpenWork OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属 > 金属技研",
+    "url": "https://www.openwork.jp/a0C100000128tSJ/analysis/",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "【東大・UCバークレーが出資】元日本製鉄エンジニアが時価総額5兆円を狙う／製造スピード500倍、コスト90%削減の金属3Dプリンター／社費留学→退職で数千万円の借金【SUN METALON西岡社長 】",
+    "url": "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "金属技研 株式会社 Metal Technology (@MetalTechJapan) / X 金属技研 株式会社 Metal Technology (@MetalTechJapan) / X X https://x.com > MetalTechJapan",
+    "url": "https://x.com/MetalTechJapan",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 Metal Technology - X 金属技研 株式会社 Metal Technology - X X https://x.com > @MetalTechJapan",
+    "url": "https://x.com/MetalTechJapan/status/2095405719990493226",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 Metal Technology - X 金属技研 株式会社 Metal Technology - X X https://x.com > @MetalTechJapan",
+    "url": "https://x.com/MetalTechJapan/status/2077589036743430410",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 Metal Technology - X 金属技研 株式会社 Metal Technology - X X https://x.com > @MetalTechJapan",
+    "url": "https://x.com/MetalTechJapan/status/2089857375595372557",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Minoru Ueda - 金属技研 株式会社 - LinkedIn Minoru Ueda - 金属技研 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/minoru-ueda-490b40151",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "IHI、 金属技研 と、最終実証装置Helix HARUKAの高温超伝導 ... IHI、 金属技研 と、最終実証装置Helix HARUKAの高温超伝導 ... Facebook https://www.facebook.com > helicalfusion > posts > ihi金...",
+    "url": "https://www.facebook.com/helicalfusion/posts/ihi%E9%87%91%E5%B1%9E%E6%8A%80%E7%A0%94%E3%81%A8%E6%9C%80%E7%B5%82%E5%AE%9F%E8%A8%BC%E8%A3%85%E7%BD%AEhelix-haruka%E3%81%AE%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E9%87%8D%E8%A6%81%E9%83%A8%E5%93%81%E3%83%90%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%82%92%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%90%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E8%81%9E%E3%81%84%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B/122274982694080682/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kinzoku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtc-kinzoku.co.jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/news_release/kosen2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/news_release/New_Corporate_Value.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/news_release/j-parc.OPEN_HOUSE.2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/news_release/gunma.blood_donation_drive.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/documents/wp-company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/contacts/contact-estimate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/case/machine01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/case/aerospace01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/case/power_generation01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/case/lcd_semiconductor01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/case/accelerator_nuclear_fusion01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/documents/wp-HIP-list.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/documents/wp-hotpress-list.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/tag/use_cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-hot-press",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/other/gunma_plant.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/other/ibaraki_plant%20.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/other/env_kanagawa.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/other/shiga_plant.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/other/himeji_plant.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/other/taiyoukouhatuden.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/other/Gikaibookestablishmentarticle.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/engineering-03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/engineering-04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/engineering-06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/banner-seminar-20261112.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/document-img06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/document-img03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/document-img03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/document-img03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/45720?preview=7206697013ad958475dc6cdab68f43f2f371ddf2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mtc-kinzoku.co.jp/about_selection/course/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtc-kinzoku.co.jp/about_selection/course/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=y5ldbw6uPT0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MetalTechJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nikkan.co.jp/jm/kinzoku",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/00681326?gnr_footer=0071943",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/681326",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mtc-kinzoku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MetalTechJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetalTechJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetalTechJapan/status/2095405719990493226",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetalTechJapan/status/2077589036743430410",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetalTechJapan/status/2089857375595372557",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/minoru-ueda-490b40151",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/helicalfusion/posts/ihi%E9%87%91%E5%B1%9E%E6%8A%80%E7%A0%94%E3%81%A8%E6%9C%80%E7%B5%82%E5%AE%9F%E8%A8%BC%E8%A3%85%E7%BD%AEhelix-haruka%E3%81%AE%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E9%87%8D%E8%A6%81%E9%83%A8%E5%93%81%E3%83%90%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%82%92%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%90%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E8%81%9E%E3%81%84%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B/122274982694080682/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetalTechJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetalTechJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属技研 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.kinzoku.co.jp/media/special-feature/ps-opening-ceremony",
+    "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "https://www.mtc-kinzoku.co.jp/number/",
+    "https://www.kinzoku.co.jp/about_mtc.html",
+    "https://www.buffett-code.com/company/dr0bni1by9/",
+    "https://www.nipponkinzoku.co.jp/investor-relations/kabunushi",
+    "https://www.mitsui-kinzoku.com/toushi/stock_info/configuration/",
+    "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "https://ja.wikipedia.org/wiki/親会社",
+    "https://ja.wikipedia.org/wiki/子会社"
+   ]
+  },
+  {
+   "query": "金属技研 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "https://www.mtc-kinzoku.co.jp/number/",
+    "https://compalyze.co.jp/company/4011201010452",
+    "https://www.youtube.com/watch?v=y5ldbw6uPT0",
+    "https://career-platform.com/contentsol_4263.html",
+    "https://www.youtube.com/channel/UCY2w1_Nj5V_8QfiMI2yvudA",
+    "https://www.kinzoku.co.jp/about_mtc.html",
+    "https://arwrk.net/recruit/z0kwoxxb16rj7qt/",
+    "https://www.founded.com/"
+   ]
+  },
+  {
+   "query": "金属技研 売上高 OR 年商",
+   "results": [
+    "https://www.kinzoku.co.jp/about_mtc.html",
+    "https://www.mtc-kinzoku.co.jp/number/",
+    "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "https://compalyze.co.jp/company/4011201010452",
+    "https://career-platform.com/contentsol_4263.html",
+    "https://syukatsu-kaigi.jp/companies/119292/word_mouths",
+    "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "https://baseconnect.in/companies/e7976825-aebb-4580-8d4f-d5e1b7f3bbb5",
+    "https://job.career-tasu.jp/corp/00028893/detail-uc/",
+    "https://ja.wikipedia.org/wiki/売上高"
+   ]
+  },
+  {
+   "query": "金属技研 金属3Dプリンター 受託 売上",
+   "results": [
+    "https://newswitch.jp/p/45720?preview=7206697013ad958475dc6cdab68f43f2f371ddf2",
+    "https://www.kinzoku.co.jp/news_release/CeramicAM.html",
+    "https://news.sharelab.jp/interviews/mtc-before-tct/",
+    "https://www.jstage.jst.go.jp/article/sisj/2022/37/2022_173/_pdf/-char/en",
+    "https://www.nikkan.co.jp/articles/view/751726",
+    "https://d3ukgu32nhw07o.cloudfront.net/space_pdf/pdf_file54928560a1494.pdf",
+    "https://www.mtc-kinzoku.co.jp/number/",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://tasuichi.jp/2026/04/10/国内の金属3dプリンター受託造形企業まとめ：pbf・ded/"
+   ]
+  },
+  {
+   "query": "金属技研 金属積層造形 台数 導入",
+   "results": [
+    "https://www.kinzoku.co.jp/case.html",
+    "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "https://www.mtc-kinzoku.co.jp/about_selection/course/",
+    "https://x.com/MetalTechJapan",
+    "https://canon.jp/corporate/newsrelease/2018/2018-10/pr-mtc-dmp320",
+    "https://www.ricoh.co.jp/3dp/case/kinzokugiken/",
+    "https://www.kinzoku.co.jp/media/seminar/webinar-2025-03",
+    "https://www.nikkan.co.jp/jm/kinzoku",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html"
+   ]
+  },
+  {
+   "query": "金属技研 受注 量産 大型",
+   "results": [
+    "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "https://www.mtc-kinzoku.co.jp/about_selection/course/",
+    "https://www.youtube.com/watch?v=y5ldbw6uPT0",
+    "https://www.kinzoku.co.jp/",
+    "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2952806065g.pdf",
+    "https://x.com/MetalTechJapan",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "https://www.nikkan.co.jp/jm/kinzoku",
+    "https://nyusatsukekka.jp/kinzoku-giken",
+    "https://www.kinzoku.co.jp/about_mtc/"
+   ]
+  },
+  {
+   "query": "金属技研 料金 OR 見積 OR 単価",
+   "results": [
+    "https://www.kinzoku.co.jp/",
+    "https://www.mtc-kinzoku.co.jp/number/",
+    "https://x.com/MetalTechJapan",
+    "https://career-platform.com/contentsol_4263.html",
+    "https://www.nikkan.co.jp/jm/kinzoku",
+    "https://biz.nuro.jp/case/kinzoku/",
+    "https://mypage.3030.i-webs.jp/kinzoku2028/applicant/entry/regulationdisp/time/1787400369",
+    "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2952806065g.pdf",
+    "https://www.buffett-code.com/company/dr0bni1by9/",
+    "https://ja.wikipedia.org/wiki/見積"
+   ]
+  },
+  {
+   "query": "金属技研 社長 インタビュー 日刊工業新聞",
+   "results": [
+    "https://www.nikkan.co.jp/jm/kinzoku",
+    "https://www.nikkan.co.jp/articles/view/00681326?gnr_footer=0071943",
+    "https://www.nikkan.co.jp/articles/view/681326",
+    "https://www.kinzoku.co.jp/news_release/large-investment.html",
+    "https://www.nikkan.co.jp/articles/view/786824",
+    "https://newswitch.jp/p/49302",
+    "https://www.nikkan.co.jp/articles/view/673809",
+    "https://www.nikkan.co.jp/articles/view/664676",
+    "https://www.mtc-kinzoku.co.jp/interview/interview09/",
+    "https://www.nikkan.co.jp/articles/view/8749d6571351a255679b79b514c3a399"
+   ]
+  },
+  {
+   "query": "金属技研 revenue employees",
+   "results": [
+    "https://www.kinzoku.co.jp/",
+    "https://www.mtc-kinzoku.co.jp/",
+    "https://x.com/MetalTechJapan",
+    "https://career-platform.com/contentsol_4263.html",
+    "https://www.openwork.jp/a0C100000128tSJ/analysis/",
+    "https://compalyze.co.jp/company/4011201010452",
+    "https://www.linkedin.com/company/metal-technology-corporation-ltd.",
+    "https://arwrk.net/recruit/z0kwoxxb16rj7qt/",
+    "https://www.mtc-kinzoku.co.jp/number/",
+    "https://catr.jp/companies/9e36c/210255"
+   ]
+  },
+  {
+   "query": "site:note.com 金属技研",
+   "results": [
+    "https://note.com/yasuhitoo/n/n60b9c4eed46e",
+    "https://note.com/izuku_idea/n/n14c7bdb9d09f",
+    "https://note.com/revoot2026",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/takumigiken/n/n4e0d69dee239",
+    "https://note.com/ourly/n/nc01b4e929d17",
+    "https://note.com/bikogiken/n/n90be99655dee",
+    "https://note.com/murata_boring/n/n9e88bf89e391",
+    "https://note.com/shinei_giken",
+    "https://note.com/word_giken/n/n5d74c82c7fcd"
+   ]
+  },
+  {
+   "query": "site:x.com 金属技研",
+   "results": [
+    "https://x.com/MetalTechJapan",
+    "https://x.com/MetalTechJapan/status/2095405719990493226",
+    "https://x.com/MetalTechJapan/status/2077589036743430410",
+    "https://x.com/MetalTechJapan/status/2089857375595372557",
+    "https://x.com/MetalTechJapan/status/2034102499255456148",
+    "https://x.com/MetalTechJapan/status/2113103058658050145",
+    "https://x.com/MetalTechJapan/status/2095744710740771046",
+    "https://x.com/MetalTechJapan/status/2105549229410398287",
+    "https://x.com/MetalTechJapan/status/1747360950079168542",
+    "https://x.com/metaltechjapan"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属技研",
+   "results": [
+    "https://jp.linkedin.com/company/metal-technology-corporation-ltd.",
+    "https://www.linkedin.com/company/metal-technology-corporation-ltd.",
+    "https://www.linkedin.com/posts/hirotaka-kawagoe-012284184_%E9%87%91%E5%B1%9E%E6%8A%80%E7%A0%94-mtc-%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-activity-7450391212177649664-t_BE",
+    "https://jp.linkedin.com/in/minoru-ueda-490b40151",
+    "https://jp.linkedin.com/posts/helical-fusion_%E9%87%91%E5%B1%9E%E6%8A%80%E7%A0%94%E3%81%A8%E6%A0%B8%E8%9E%8D%E5%90%88%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E3%83%98%E3%83%AA%E3%82%AB%E3%83%AB%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E6%8C%91%E6%88%A6-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81-by-activity-7194176655324585986-aWIB",
+    "https://jp.linkedin.com/in/%E6%98%8C%E5%BC%98-%E5%90%89%E7%94%B0-35342a190",
+    "https://www.linkedin.com/pub/dir/+/%E9%87%91%E5%B1%9E",
+    "https://www.linkedin.com/posts/metal-technology-corporation-ltd._challenges-of-mtc-and-helical-fusion-fusion-activity-7198601642303242241-3a4v",
+    "https://jp.linkedin.com/in/hiroshige-masuo-328833154"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属技研",
+   "results": [
+    "https://www.facebook.com/helicalfusion/posts/ihi%E9%87%91%E5%B1%9E%E6%8A%80%E7%A0%94%E3%81%A8%E6%9C%80%E7%B5%82%E5%AE%9F%E8%A8%BC%E8%A3%85%E7%BD%AEhelix-haruka%E3%81%AE%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E9%87%8D%E8%A6%81%E9%83%A8%E5%93%81%E3%83%90%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%82%92%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%90%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E8%81%9E%E3%81%84%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B/122274982694080682/",
+    "https://www.facebook.com/hideaki.ishii3/",
+    "https://www.facebook.com/helicalfusion/posts/715%E6%B0%B4%E6%94%BE%E6%98%A0%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E6%9D%B1%E4%BA%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88wbs%E3%81%A7helical-fusion%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%81%8C%E7%B4%B9%E4%BB%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B45%E6%9C%88%E3%81%AB%E9%AB%98%E5%B8%82%E6%94%BF%E6%A8%A9%E3%81%AE%E6%88%A6%E7%95%A517%E5%88%86%E9%87%8E%E3%81%AE%E4%B8%80%E3%81%A4%E3%81%A7%E3%81%82%E3%82%8B%E3%83%95%E3%83%A5/122283903332080682/",
+    "https://www.facebook.com/mantenproject/posts/%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AE%E4%BE%8B%E4%BC%9A%E3%81%AB%E3%81%A6%E3%81%94%E8%AC%9B%E6%BC%94%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%96%B9-%E6%A0%AA%E3%82%A2%E3%83%83%E3%83%97%E7%B7%8F%E5%90%88%E4%BC%81%E7%94%BB-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9-%E7%94%B0%E4%B8%AD-%E5%8B%87%E4%BA%BA-%E6%B0%8F%E3%83%A6%E3%82%B7%E3%83%AD%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%E6%A0%AA-%E7%A5%9E%E5%A5%88%E5%B7%9D%E3%83%86%E3%82%AF%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E7%A0%94%E7%A9%B6%E6%9C%AC%E9%83%A8-%E6%8A%80%E8%A1%93%E7%B5%B1%E6%8B%AC%E9%83%A8-%E6%8A%80%E8%A1%931%E9%83%A8/318251913637941/",
+    "https://www.facebook.com/public/%E6%B2%96%E7%94%B0%E5%B0%9A%E4%B9%9F/?locale=ja_JP",
+    "https://www.facebook.com/bikogiken/?locale=ja_JP",
+    "https://www.facebook.com/tomonari.miyahara/videos/%E6%9C%89%E5%AE%AE%E5%8E%9F%E6%8A%80%E7%A0%94-%E7%AC%AC%E4%BA%8C%E5%B7%A5%E5%A0%B4%E7%9A%86%E3%82%93%E3%81%AA%E9%A0%91%E5%BC%B5%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%EF%B8%8F%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5-%E8%A3%BD%E9%80%A0%E6%A5%AD-%E9%87%91%E5%9E%8B-%E5%88%87%E5%89%8A-%E6%BA%B6%E6%8E%A5/1071968832184252/",
+    "https://www.facebook.com/giken.toso/",
+    "https://www.facebook.com/lab.kura/",
+    "https://www.facebook.com/金属技研株式会社-222866531058575/"
+   ]
+  },
+  {
+   "query": "金属技研 note 社長",
+   "results": [
+    "https://www.kinzoku.co.jp/news_release/change-of-president.html",
+    "https://www.mtc-kinzoku.co.jp/interview/interview04/",
+    "https://x.com/MetalTechJapan",
+    "https://www.youtube.com/channel/UCY2w1_Nj5V_8QfiMI2yvudA",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "https://newswitch.jp/p/50014",
+    "https://compalyze.co.jp/company/4011201010452",
+    "https://www.nikkan.co.jp/articles/view/664676",
+    "https://www.rieti.go.jp/users/iwamoto-koichi/serial/096.html",
+    "https://www.kinzoku.co.jp/"
+   ]
+  },
+  {
+   "query": "金属技研 X 投稿",
+   "results": [
+    "https://x.com/MetalTechJapan",
+    "https://www.kinzoku.co.jp/media/special-feature/a19",
+    "https://www.youtube.com/channel/UCY2w1_Nj5V_8QfiMI2yvudA",
+    "https://www.mtc-kinzoku.co.jp/interview/interview08/",
+    "https://www.nikkan.co.jp/jm/kinzoku",
+    "https://www.youtube.com/watch?v=u7shFrH0vn8",
+    "https://syukatsu-kaigi.jp/companies/119292/experiences",
+    "https://www.kinzoku.co.jp/",
+    "https://www.chusho.meti.go.jp/keiei/sapoin/portal/seika/2017/2952806065g.pdf",
+    "https://x.com/metaltechjapan"
+   ]
+  }
+ ],
+ "missing": {
+  "保有設備": "記載なし（3回確認済み：公式30頁／PDF・画像15件／外部27頁・検索15回）"
+ }
+}

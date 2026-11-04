@@ -1,0 +1,3050 @@
+{
+ "name": "白銅株式会社",
+ "aliases": [
+  "白銅"
+ ],
+ "context": "国内・金属3Dプリント受託",
+ "researched_at": "2026-11-04T10:30:09.843703+00:00",
+ "official_url": "https://www.hakudo.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "1932年2月",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1949年11月",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1949年 （ 昭和 24年） 10月7日 （注） （株式会社国光地銅店）",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,008,020千円",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "10億円",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "812名（2026年4月1日現在）",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "単体217人（2017年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "アルミニウム、伸銅、ステンレス、特殊鋼、プラスチック等の板、棒、管等の加工・販売",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "金属製品およびプラスチック製品の加工ならびに販売",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主数",
+    "value": "6,108名",
+    "url": "https://www.hakudo.co.jp/ir/stock/procedure.html",
+    "pass": 1
+   },
+   {
+    "label": "定時株主総会",
+    "value": "毎年6月",
+    "url": "https://www.hakudo.co.jp/ir/stock/procedure.html",
+    "pass": 1
+   },
+   {
+    "label": "配当金受領株主確定日",
+    "value": "3月31日および中間配当金の支払いを行うときは9月30日",
+    "url": "https://www.hakudo.co.jp/ir/stock/procedure.html",
+    "pass": 1
+   },
+   {
+    "label": "株主名簿管理人 特別口座の口座管理機関",
+    "value": "三菱UFJ信託銀行株式会社",
+    "url": "https://www.hakudo.co.jp/ir/stock/procedure.html",
+    "pass": 1
+   },
+   {
+    "label": "株主名",
+    "value": "持株数（千株） 持株比率（%）",
+    "url": "https://www.hakudo.co.jp/ir/stock/procedure.html",
+    "pass": 1
+   },
+   {
+    "label": "株主数",
+    "value": "4,907人 4,497人 4,012人 5,497人 5,225人 5,965人 5,761人 6,108人",
+    "url": "https://www.hakudo.co.jp/ir/stock/procedure.html",
+    "pass": 1
+   },
+   {
+    "label": "主要 株主",
+    "value": "K&Pアセット・マネジメント 9.08% 山田治男 5.95% 山田智則 5.95% （2017年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結346億26百万円（ 2017年 3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "55,441 61,602 57,253 66,410 68,109",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7637",
+    "pass": 3
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "25,818 31,775 28,709 32,488 32,699",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7637",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "株主構成": [
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/management/mid_tern.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "株主となるメリット",
+    "url": "https://www.hakudo.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "株主となることで、企業に対して株主として経営参加権をもつことができます",
+    "url": "https://www.hakudo.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "会社の重要な経営方針を決める株主総会に出席し、各議案に対して議決権を行使し、賛否を表明することができます",
+    "url": "https://www.hakudo.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、株主の皆様への適切な利益配分を経営の最重要課題のひとつとして位置付け、財務体質の強化と将来の事業展開に必要な内部留保の充実も勘案したうえで、業績に裏付けられた成果の配分を実施することを基本方針としております",
+    "url": "https://www.hakudo.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、中長期的な視点にたって、持続的な成長と企業価値の向上ならびに株主価値の増大に努めてまいります",
+    "url": "https://www.hakudo.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "株主優待を受けとることができる",
+    "url": "https://www.hakudo.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社株主名簿に記載又は記録された3単元（300株）以上保有の株主様を対象に、白銅プレミアム優待倶楽部による株主優待ポイントを行っています",
+    "url": "https://www.hakudo.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "プレミアム優待倶楽部では、株主優待ポイントを共通株主優待コイン「WILLsCoin」と交換することができ、個人株主向け会員制サイト「プレミアム優待倶楽部PORTAL」にて優待商品と交換することができます",
+    "url": "https://www.hakudo.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "白銅の株主になるには…",
+    "url": "https://www.hakudo.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/individual/investor.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "第77回 定時株主総会",
+    "url": "https://www.hakudo.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "第78回 定時株主総会",
+    "url": "https://www.hakudo.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/financial/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/financial/indicator.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/financial/cashflow.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/library/presentation.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/library/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "第77期 株主通信",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "第76期 株主通信",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "第75期 株主通信",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "第74期 株主通信",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "第73期 株主通信",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "第72期 株主通信",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "第71期 株主通信",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "第70期 株主通信",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "第69期 株主通信",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主メモ(PDF/547KB)",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主メモ(PDF/244KB)",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主メモ(PDF/73KB)",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主メモ(PDF/238KB)",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主メモ(PDF/246KB)",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主メモ(PDF/69KB)",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主メモ(PDF/74KB)",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主メモ(PDF/248KB)",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主メモ(PDF/72KB)",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主メモ(PDF/16KB)",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主メモ(PDF/12KB)",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主メモ(PDF/31KB)",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/library/analyst_report.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報",
+    "url": "https://www.hakudo.co.jp/ir/stock/procedure.html",
+    "pass": 1
+   },
+   {
+    "quote": "定時株主総会",
+    "url": "https://www.hakudo.co.jp/ir/stock/procedure.html",
+    "pass": 1
+   },
+   {
+    "quote": "配当金受領株主確定日",
+    "url": "https://www.hakudo.co.jp/ir/stock/procedure.html",
+    "pass": 1
+   }
+  ],
+  "設備台数": [
+   {
+    "quote": "NC旋盤加工機を導入しました！",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都千代田区神田駿河台３－３ お茶の水伊藤ビル４Ｆ",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "コンピューターシステム導入",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "金属事業に関する不動産を保有する目的で廣成株式会社を設立",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社株主名簿に記載又は記録された3単元（300株）以上保有の株主様を対象に、白銅プレミアム優待倶楽部による株主優待ポイントを行っています",
+    "url": "https://www.hakudo.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "白銅で在庫を保有することで、お客様へ短納期かつ安定した供給を実現し、より迅速な対応が可能と",
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/20260909ALmitas%E2%81%BASMART.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た板製品に比べ CFP 値が５割以下であり、導入企業の温室効果ガス Scope3 の削減に寄与します",
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2026_06_01_LoopAL.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "白銅で在庫を保有することで、お客様へ短納期かつ安定した供給を実現し、より迅速な対応が可能と",
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2026_06_01_LoopAL.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "白銅で在庫を保有することで、お客様へ短納期かつ安定した供給を実現し、より迅速な対応が可能と",
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/20260415ALmitas%E2%81%BA%20SMART.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現行の梱包から環境負荷を半減できる、紙製の封筒型梱包材を導入しました",
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2024_02_19_SDG%EF%BD%93kompo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保有している株式、投資信託、現預金を5フォルダに分けて登録しておくことで、効率よく資産管理ができます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7637",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、中国は景気減速の影響、タイは国内自動車販売台数の減少などの要因から減収となりました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "また、Hakudo(Thailand)CO., LTD.を表すその他セグメントでは、国内での自動車販売台数の減少などが要因となり、前中間連結会計期間比で減益となりました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "海外子会社や既存代理店だけでなく、韓国、台湾、インド、フィリピンなどにも「ECパッケージ」を展開し、販売拡大を進めていきます",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、太陽光パネルの設置や営業車への電気自動車導入などを通じて、2030年度までのCO2排出量削減目標「2020年度対比42パーセント削減」を前倒しで達成しました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "粉末積層タイプの金属3Dプリンターの場合、2018年の国内普及台数は全メーカーを合わせて400～450台だ",
+    "url": "https://www.machinist.co.jp/2019/02/9944/",
+    "pass": 3
+   },
+   {
+    "quote": "日経平均、初の6万3000円台！最高値更新の今日と明日の注目銘柄を解説",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "白銅は、表舞台には出ませんが、日本のものづくりを根底から支える「縁の下の力持ち」なのです",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つの重要な変化は、成長市場の台頭です",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   }
+  ],
+  "料金・単価": [
+   {
+    "quote": "地金価格情報",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "描いて / DATAで見積り・注文",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本大学 理工学部円陣会",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「ダントツのサービス」を「納得の価格」で",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単に見積り・注文",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "地金価格情報",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "描いて / DATAで見積り・注文",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本大学 理工学部円陣会",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "地金価格情報",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "描いて / DATAで見積り・注文",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "日本大学 理工学部円陣会",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "白銅ネットサービスから図面加工の即時見積りや注文が可能になりました",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "地金価格情報",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "描いて / DATAで見積り・注文",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "日本大学 理工学部円陣会",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "地金価格情報",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "描いて / DATAで見積り・注文",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "日本大学 理工学部円陣会",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンターによる加工をはじめ、フライス・研磨加工の他、コンターマシンやウォータージェット加工機による異形切断、専用の円形加工機によるサークルフライスなどの加工に対応可能です",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "地金価格情報",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "描いて / DATAで見積り・注文",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "日本大学 理工学部円陣会",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "地金価格情報｜白銅株式会社",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "地金価格情報",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "描いて / DATAで見積り・注文",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "日本大学 理工学部円陣会",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、LMEは、銅・鉛・亜鉛・ニッケル・錫・アルミニウムなど非鉄金属取引の世界的な中心地であり、その取引価格を公表することにより、非鉄金属の国際価格をリードする役割を担っています",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "日本での銅の取引価格は、LME価格を指標に、国内産銅メーカーによって決定されます",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ地金価格（基準価格）",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "最新のアルミ地金価格（基準価格）",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月～9月のアルミ地金価格（基準価格）",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "690 円/kg",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月～12月のアルミ地金価格（基準価格）",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "670 円/kg",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ地金平均価格・アルミ地金価格（基準価格）推移表 参考値",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "（円/kg)",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "地金平均価格",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "地金価格(基準価格）",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "単位：千円/トン",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "（千円/トン）",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "ＬＭＥ価格（月末時価格）",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "描いて見積り・注文、DATAで見積り・注文｜商品・サービス｜白銅株式会社",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "地金価格情報",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "描いて / DATAで見積り・注文",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "日本大学 理工学部円陣会",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "描いて見積り・注文とは？",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "白銅ネットサービスの「描いて見積り・注文」は、",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "そのまま見積り・注文まで進めることができる",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "たった4ステップで、見積り・注文まで完了します",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "見積内容を確認する",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "価格・納期・注文内容を",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "描いて見積り・注文では、レーザー・ウォータージェット・マシニングの3つの加工方法に対応しています",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "地金価格情報",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "描いて / DATAで見積り・注文",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "日本大学 理工学部円陣会",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "地金価格情報",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "描いて / DATAで見積り・注文",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "日本大学 理工学部円陣会",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1,008,020千円",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "地金価格情報",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   }
+  ],
+  "最大案件・量産": [
+   {
+    "quote": "受注から加工、配送までのサービスを進化させ、",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "受注から加工、",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "最大(ミリ)",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "LMEは、\"London Metal Exchange\"の略で、日本語で「ロンドン金属取引所」と呼ばれる世界最大規模の非鉄金属専門の取引所です",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "✓ 試作から量産まで対応",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "「LoopAL_1100」は、リサイクル材を最大 90％使用した板製品です",
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2026_06_01_LoopAL.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "TEL：0570-01-8910 FAX：0570-05-8930 E-mail：eordertoubu@hakudo.co.jp",
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2024_02_19_SDG%EF%BD%93kompo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "TEL：0570-06-8910 FAX：0570-05-8955 E-mail：eorderseibu@hakudo.co.jp",
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2024_02_19_SDG%EF%BD%93kompo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "東日本販売促進課 TEL：0570-01-8910 E-mail：eordertoubu@hakudo.co.jp",
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2023_12_15_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "西日本販売促進課 TEL：0570-06-8910 E-mail：eorderseibu@hakudo.co.jp",
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2023_12_15_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "T el:0570-01-8910 Fax:0570-05-8930 ✉:eordertoubu＠hakudo.co.jp",
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2023_12_05_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "T el:0570-06-8910 Fax:0570-05-8955 ✉:eorderseibu＠hakudo.co.jp",
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2023_12_05_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業環境（3） 工作機械受注額と標準在庫品売上高との比較",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械受注額と白銅個別の標準在庫品売上高の比較です",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "スライドのグラフは、日本工作機械工業会が公表している工作機械の受注動向と白銅個別の標準在庫品売上高を比較したものです",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械の受注額は、前年7月から9月との比較で、内需が4.4パーセント減少し、外需が6.5パーセント増加となりました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "なお、通期配当予想は、配当方針である年間最低配当額の1株あたり80円で据え置きとしています",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "サトープレス工業株式会社「高精度深絞り及び微小孔加工製品のプレス量産技術」（2019 豊田ものづくりブランド）",
+    "url": "https://www.youtube.com/watch?v=k7iqJA35s2Y",
+    "pass": 3
+   },
+   {
+    "quote": "手前は「ProX DMP 300」（最大造形サイズ：X250×Y250×Z300㎜）でマルエージング鋼とSUS630を造形",
+    "url": "https://www.machinist.co.jp/2019/02/9944/",
+    "pass": 3
+   },
+   {
+    "quote": "破損した部品の補修や大型部品などに適している",
+    "url": "https://www.machinist.co.jp/2019/02/9944/",
+    "pass": 3
+   },
+   {
+    "quote": "※ブロック材のため、最大板厚または999.99と表示しています",
+    "url": "https://netservice.hakudo.co.jp/N1004/N1004_01",
+    "pass": 3
+   },
+   {
+    "quote": "※ブロック材のため、最大板厚または999.99と表示しています",
+    "url": "https://netservice.hakudo.co.jp/N1003/N1003_01",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカーから直接購入しようとすれば、最低ロット数の制約があり、必要以上の在庫を抱えることになります",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "また、急な受注に対応するために材料が必要になっても、メーカーからの納品には時間がかかります",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーから直接購入する場合、最低ロット数の制約があります",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "白銅は、メーカーから大ロットで仕入れ、それを小口に分けて販売することで、顧客の購入ハードルを下げています",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "この「ロット分割機能」は、特に中小企業にとって大きな価値となっています",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "航空宇宙規格材料",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "輸入特注モールドベース・金型部品",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3D・モールドベース・金型部品について",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Series",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置業界、FPD製造装置業界、航空宇宙業界、自動車業界など、",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置業界、FPD製造装置業界、",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙業界、自動車業界など、",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙規格材料",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "輸入特注モールドベース・金型部品",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "3D・モールドベース・金型部品について",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Series",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "3D・モールドベース・金型部品についてのお問い合わせ",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙規格材料",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "輸入特注モールドベース・金型部品",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "3D・モールドベース・金型部品について",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Series",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙規格材料",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "輸入特注モールドベース・金型部品",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "3D・モールドベース・金型部品について",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Series",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用フィーダ",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用混合フィーダーへの適用で、革新的なパーツを実現",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "早期の症状の改善により、医療費の削減も",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "タイヤの金型",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元冷却水管で新しい金型設計を可能にします",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "金型寿命の向上",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "個別にプレス金型を製作する必要がなくなり、イニシャルコストを削減でき、製作納期が大幅に短縮",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙規格材料",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "輸入特注モールドベース・金型部品",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "3D・モールドベース・金型部品について",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Series",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙規格材料",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "輸入特注モールドベース・金型部品",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "3D・モールドベース・金型部品について",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Series",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙規格材料",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "輸入特注モールドベース・金型部品",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "3D・モールドベース・金型部品について",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Series",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙規格材料",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "輸入特注モールドベース・金型部品",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "3D・モールドベース・金型部品について",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Series",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙規格材料",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "輸入特注モールドベース・金型部品",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "3D・モールドベース・金型部品について",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Series",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙規格材料",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "輸入特注モールドベース・金型部品",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "3D・モールドベース・金型部品について",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Series",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙規格材料",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "輸入特注モールドベース・金型部品",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "3D・モールドベース・金型部品について",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Series",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙規格材料",
+    "url": "https://www.hakudo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "輸入特注モールドベース・金型部品",
+    "url": "https://www.hakudo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "3D・モールドベース・金型部品について",
+    "url": "https://www.hakudo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Series",
+    "url": "https://www.hakudo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙規格材料",
+    "url": "https://www.hakudo.co.jp/ir/news/",
+    "pass": 1
+   }
+  ],
+  "採用・人数": [
+   {
+    "quote": "募集要項・エントリー",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（総合職・一般職）",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（高校卒業・技能職）",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用（総合職）",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報について",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項・エントリー",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（総合職・一般職）",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（高校卒業・技能職）",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用（総合職）",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報について",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報について承っております",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報についてのお問い合わせ",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項・エントリー",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（総合職・一般職）",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（高校卒業・技能職）",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用（総合職）",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報について",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項・エントリー",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（総合職・一般職）",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（高校卒業・技能職）",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用（総合職）",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報について",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項・エントリー",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（総合職・一般職）",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（高校卒業・技能職）",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用（総合職）",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報について",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項・エントリー",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（総合職・一般職）",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（高校卒業・技能職）",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用（総合職）",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報について",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項・エントリー",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（総合職・一般職）",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（高校卒業・技能職）",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用（総合職）",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報について",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項・エントリー",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（総合職・一般職）",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（高校卒業・技能職）",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用（総合職）",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報について",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項・エントリー",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（総合職・一般職）",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（高校卒業・技能職）",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用（総合職）",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報について",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項・エントリー",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（総合職・一般職）",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（高校卒業・技能職）",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用（総合職）",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報について",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "812名（2026年4月1日現在）",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項・エントリー",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（総合職・一般職）",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（高校卒業・技能職）",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用（総合職）",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報について",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項・エントリー",
+    "url": "https://www.hakudo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用（総合職・一般職）",
+    "url": "https://www.hakudo.co.jp/ir/",
+    "pass": 1
+   }
+  ],
+  "発言": [
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/management/mid_tern.html",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/individual/investor.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 角田 浩司",
+    "url": "https://www.hakudo.co.jp/ir/individual/investor.html",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/financial/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/financial/indicator.html",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/financial/cashflow.html",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/library/presentation.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 山田 哲也",
+    "url": "https://www.hakudo.co.jp/ir/library/presentation.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 角田 浩司",
+    "url": "https://www.hakudo.co.jp/ir/library/presentation.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 小田 律",
+    "url": "https://www.hakudo.co.jp/ir/library/presentation.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 井上 薫",
+    "url": "https://www.hakudo.co.jp/ir/library/presentation.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 北村 文夫",
+    "url": "https://www.hakudo.co.jp/ir/library/presentation.html",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/library/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/library/analyst_report.html",
+    "pass": 1
+   },
+   {
+    "quote": "Message From the CEO",
+    "url": "https://www.hakudo.co.jp/ir/stock/procedure.html",
+    "pass": 1
+   },
+   {
+    "quote": "山田哲也（代表取締役社長）",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "：白銅株式会社代表取締役社長の角田浩司です",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "次ページの2026年3月期業績予想以降は、社長の角田からご説明します",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "：あらためまして、代表取締役社長の角田浩司です",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー・対談",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "白銅商店として東京市京橋区(現 中央区八丁堀)にて個人創業",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "非鉄金属の販売を目的として株式会社白銅商店設立",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "金属事業に関する不動産を保有する目的で廣成株式会社を設立",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "上海白銅精密材料有限公司を設立",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "HAKUDO(THAILAND)Co.,Ltd.を設立",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Hakudo USA Inc.を設立",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "旧会社の設立日は1949年（昭和24年）",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "）八丁堀にて個人創業",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "- 非鉄金属の販売を目的として株式会社白銅商店設立",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "1949年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "さくらインターネット、GPU好調で売上高・営業利益は2Qの過去最高 通期業績予想上方修正、創業30周年記念配当",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "「必要な材料を、必要なときに、必要な量だけ」——この一見シンプルな言葉の裏に、創業90年以上にわたって日本のものづくりを支え続けてきた企業の本質が隠されています",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "🔍 2-1 創業の原点と不変の信念",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "白銅株式会社／創業1931年／従業員数約650名（連結）",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "この時期に創業した白銅は、以来90年以上にわたって非鉄金属の流通に携わり続けてきました",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "創業から現在に至るまで、白銅が一貫して守り続けてきた信念があります",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "創業90年以上という歴史は、この信念が時代を超えて有効であったことの証明です",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、「お客様第一主義」という創業以来の理念を、新しい技術を使って実現したのです",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "創業時は伸銅品が中心でしたが、時代とともにアルミニウム、ステンレス、特殊鋼、さらには樹脂へと取り扱い範囲を広げてきました",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "これは、創業以来の「お客様第一主義」という理念が、具体的な行動として表れたものです",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "この価値観は、創業から90年以上にわたって組織全体に浸透し、社員一人ひとりの行動原則として根付いています",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "銘柄基本情報｜ 白銅 株式会社 — 銘柄基本情報｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > stock > procedure",
+    "url": "https://www.hakudo.co.jp/ir/stock/procedure.html",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 【7637】の 大株主 情報 - 株探 — 白銅 【7637】の 大株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=7637",
+    "pass": 3
+   },
+   {
+    "quote": "株主 還元｜ 白銅 株式会社 — 株主 還元｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > stock > dividend",
+    "url": "https://www.hakudo.co.jp/ir/stock/dividend.html",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 （7637）の 株主 優待紹介 — 白銅 （7637）の 株主 優待紹介 楽しい株主優待＆配当 https://www.kabuyutai.com > kobetu > hakudo",
+    "url": "https://www.kabuyutai.com/kobetu/hakudo.html",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 【7637】の 大株主 - バフェット・コード — 白銅 【7637】の 大株主 - バフェット・コード バフェット・コード https://www.buffett-code.com > mainshareholder",
+    "url": "https://www.buffett-code.com/company/7637/mainshareholder",
+    "pass": 3
+   },
+   {
+    "quote": "歴史・沿革｜ 白銅 株式会社 — 歴史・沿革｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > corporate > history",
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜ 白銅 株式会社 — 会社概要｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > corporate > outline",
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 (企業) - Wikipedia — 白銅 (企業) - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 白銅_(企業)",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 【7637】のストーリー・沿革 - キタイシホン — 白銅 【7637】のストーリー・沿革 - キタイシホン キタイシホン https://kitaishihon.com > company > story",
+    "url": "https://kitaishihon.com/company/7637/story",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 (株)の会社概要 | マイナビ2028 — 白銅 (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp74127 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp74127/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト｜ 白銅 株式会社 — 業績ハイライト｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > financial > highlight",
+    "url": "https://www.hakudo.co.jp/ir/financial/highlight.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 白銅 】[7637]決算発表や業務・財務情報 | 日経電子版 — 【 白銅 】[7637]決算発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7637",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 白銅 、 売上高 は前年比＋0.7％ 航空・宇宙業界向け ... — 【QAあり】 白銅 、 売上高 は前年比＋0.7％ 航空・宇宙業界向け ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 【7637】の最新決算発表、業績修正 - 株探 — 白銅 【7637】の最新決算発表、業績修正 - 株探 株探 https://kabutan.jp > 白銅 (7637)",
+    "url": "https://kabutan.jp/stock/finance?code=7637",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター 造形サービス｜ 白銅 株式会社 — 金属3Dプリンター 造形サービス｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > product > 3d_printer",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 、 3Dプリンター を使い 金属 部品の 受託 製造を開始 — 白銅 、 3Dプリンター を使い 金属 部品の 受託 製造を開始 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=k7iqJA35s2Y",
+    "pass": 3
+   },
+   {
+    "quote": "注文から納品までの流れ｜ 白銅 株式会社 — 注文から納品までの流れ｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > product > 3d_printer > flow",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/flow/",
+    "pass": 3
+   },
+   {
+    "quote": "対応鋼種、サービス、自社造形サンプル｜ 白銅 株式会社 — 対応鋼種、サービス、自社造形サンプル｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > product > 3d_printer > service",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/service/",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンター 造形 サービス｜ 白銅 株式会社 — 金属 3Dプリンター 造形 サービス｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > product",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形 の現在地 ― 白銅 に聞く - マシニスト出版 — 金属積層造形 の現在地 ― 白銅 に聞く - マシニスト出版 マシニスト出版 https://www.machinist.co.jp > 2019/02",
+    "url": "https://www.machinist.co.jp/2019/02/9944/",
+    "pass": 3
+   },
+   {
+    "quote": "対応鋼種、サービス、自社 造形 サンプル｜ 白銅 株式会社 — 対応鋼種、サービス、自社 造形 サンプル｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > product > service",
+    "url": "https://www.hakudo.co.jp/product/3d_printer/service/",
+    "pass": 3
+   },
+   {
+    "quote": "ホーム｜ 白銅 株式会社 — ホーム｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp",
+    "url": "https://www.hakudo.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "商品（特注品）｜ 白銅 株式会社 — 商品（特注品）｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > product > custom-made",
+    "url": "https://www.hakudo.co.jp/product/custom-made/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入特注モールドベース・金型部品｜ 白銅 株式会社 — 輸入特注モールドベース・金型部品｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > custom-made > molding",
+    "url": "https://www.hakudo.co.jp/product/custom-made/molding/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース｜ 白銅 株式会社 — ニュースリリース｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > news",
+    "url": "https://www.hakudo.co.jp/news/?itemid=691&dispmid=831",
+    "pass": 3
+   },
+   {
+    "quote": "図面加工品 | 白銅 - Powered by イプロスものづくり — 図面加工品 | 白銅 - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ... > 加工バリエーション",
+    "url": "https://pr.mono.ipros.com/hakudo/product/detail/2000898191/",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 ネットサービス 見積り・注文 — 白銅 ネットサービス 見積り・注文 白銅ネットサービス ログイン https://netservice.hakudo.co.jp > ...",
+    "url": "https://netservice.hakudo.co.jp/N1004/N1004_01",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 ネットサービス 見積り・注文 — 白銅 ネットサービス 見積り・注文 白銅ネットサービス ログイン https://netservice.hakudo.co.jp > ...",
+    "url": "https://netservice.hakudo.co.jp/N1003/N1003_01",
+    "pass": 3
+   },
+   {
+    "quote": "商品（標準在庫品・お取寄せ品）｜ 白銅 株式会社 — 商品（標準在庫品・お取寄せ品）｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > product > stock",
+    "url": "https://www.hakudo.co.jp/product/stock/",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 ネットサービス｜見積もりも発注も、オンラインで完結。 — 白銅 ネットサービス｜見積もりも発注も、オンラインで完結。 白銅株式会社 https://video.hakudo.co.jp > netservice",
+    "url": "https://video.hakudo.co.jp/netservice/",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 ネットサービスは、アルミ・伸銅・ステンレスなどの材料 ... — 白銅 ネットサービスは、アルミ・伸銅・ステンレスなどの材料 ... 白銅株式会社 https://video.hakudo.co.jp > 商品紹介動画一覧",
+    "url": "https://video.hakudo.co.jp/products/page_74.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営ひと言／ 白銅 ・角田浩司 社長 「相場影響を軽減」 — 経営ひと言／ 白銅 ・角田浩司 社長 「相場影響を軽減」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/638991",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 ・角田浩司 社長 「声を取り上げて」 | 人物 ニュース — 白銅 ・角田浩司 社長 「声を取り上げて」 | 人物 ニュース 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/481104",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 、 社長 に角田浩司（つのだ・こうじ）氏 - 日刊工業新聞 — 白銅 、 社長 に角田浩司（つのだ・こうじ）氏 - 日刊工業新聞 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/194821",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 、 社長 に山田哲也氏 | 日刊工業新聞 電子版 — 白銅 、 社長 に山田哲也氏 | 日刊工業新聞 電子版 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/773636",
+    "pass": 3
+   },
+   {
+    "quote": "不変と革新 長寿経営に向けて／ 白銅 合理性を追求、人も大事に — 不変と革新 長寿経営に向けて／ 白銅 合理性を追求、人も大事に 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/00674108",
+    "pass": 3
+   },
+   {
+    "quote": "Hakudo — Hakudo 白銅株式会社 PDF https://www.hakudo.co.jp > Portals > resource > pdf",
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/en/ir/pdf/2023_07_20_01.pdf",
+    "pass": 3
+   }
+  ],
+  "売上・受託売上": [
+   {
+    "quote": "連結346億26百万円（",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "連結286億4百万円",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "単位：百万円",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7637",
+    "pass": 3
+   },
+   {
+    "quote": "直近期の売上高",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7637",
+    "pass": 3
+   },
+   {
+    "quote": "直近５期の売上高",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7637",
+    "pass": 3
+   },
+   {
+    "quote": "白銅（7637）の財務情報ならログミーFinance 【QAあり】白銅、売上高は前年比＋0.7％ 航空・宇宙業界向け、海外向け販売量の増加等が業績に寄与 - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "売上高の前中間連結会計期間比差異要因",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "品種別売上高",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "業界別売上高構成比率（国内）",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 中間期 セグメント別 品種売上高比率",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "事業環境（2） 半導体製造装置販売額と標準在庫品売上高との比較",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "事業環境（3） 工作機械受注額と標準在庫品売上高との比較",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "事業環境（4） アルミ圧延品出荷金額と出荷金額に対する当社アルミニウム製品売上割合",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】白銅、売上高は前年比＋0.7％ 航空・宇宙業界向け、海外向け販売量の増加等が業績に寄与",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は前中間連結会計期間比0.7パーセント増の326億9,900万円となりました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "海外では、北米セグメントで売上高が増加しました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益は前中間連結会計期間比8.4パーセント減益の47億6,000万円となりました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益は、売上総利益の減少に加えて、人件費や販売促進費などの販管費が増加し営業利益が減少したこと、さらに親子借入金の為替差損による営業外損失を計上したことにより、前中間連結会計期間比38.8パーセント減益の10億8,700万円となりました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、売上高および各利益の実額、ならびに売上高比率などについて示しています",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "売上高の前中間連結会計期間比差異要因を示すグラフです",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、特注品は単価の上昇に加え販売数量も増加し、売上高が増加しました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "なお、白銅個別の標準在庫品の売上高については、販売重量が前中間連結会計期間比で8.9パーセント減少し、商品単価は5パーセント上昇しました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "品種別売上高です",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "スライドには四半期ごとの売上高を記載しています",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "前中間連結会計期間比でアルミニウム、ステンレス、その他の売上高が増加しました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "国内における業界別売上高構成比率です",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "また、半導体・FPD製造装置業界の業界別売上高構成比率は、2026年3月期第1四半期と比較して増加しました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "北米セグメントでは、主に為替差損の影響により減益となりましたが、米国関税の引き上げの影響等により販売量が増加し、売上高は増加しました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "中国セグメントでは、国内景気の影響で売上高および経常利益が減少しました",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の品種売上高比率です",
+    "url": "https://finance.logmi.jp/articles/382953",
+    "pass": 3
+   },
+   {
+    "quote": "金沢の従業員３８人の町工場がAI活用で売上８０億！急成長のナゾに潜入",
+    "url": "https://www.youtube.com/watch?v=k7iqJA35s2Y",
+    "pass": 3
+   },
+   {
+    "quote": "375.05億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "【白銅 FY2027 Q1 決算説明会】四半期売上高が過去最高の219億円、経常利益3.1倍 半導体需要けん引で通期上方修正",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "50.6億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "51.9億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "616.02億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "37.77億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "39.88億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "27.37億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "572.53億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "25.23億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "28.47億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "19.16億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "664.1億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "29.83億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "32.14億円",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "白銅株式会社は、非鉄金属専門商社として国内トップクラスの地位を築きながら、売上高650億円規模、平均年収約750万円という堅実な経営を続ける、知る人ぞ知る優良企業です",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "💰 業績推移（連結売上高）",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期：約576億円",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期：約648億円",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期：約620億円",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期：約650億円（予想）",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "成長市場でのプレゼンスを高めることは、売上拡大だけでなく、顧客基盤の多様化にもつながります",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "白銅 （7637）最新株価・配当情報と今後の見通し | noteマネー 白銅 （7637）最新株価・配当情報と今後の見通し | noteマネー noteマネー https://money.note.com > companies",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 の人気・新着記事まとめ - note 白銅 の人気・新着記事まとめ - note note https://note.com > tag > 白銅",
+    "url": "https://note.com/tag/%E7%99%BD%E9%8A%85",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒】 白銅 の志望動機30例×面接質問の解答例30例 - note 【27卒】 白銅 の志望動機30例×面接質問の解答例30例 - note note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 貨幣の人気・新着記事まとめ - note 白銅 貨幣の人気・新着記事まとめ - note note https://note.com > tag > 白銅貨幣",
+    "url": "https://note.com/tag/%E7%99%BD%E9%8A%85%E8%B2%A8%E5%B9%A3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "白銅（7637）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "注釈: 26/8 第1四半期の決算発表、26/5 通期の決算発表",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "【白銅 FY2027 Q1 決算説明会】四半期売上高が過去最高の219億円、経常利益3.1倍 半導体需要けん引で通期上方修正",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "【決算速報】白銅---27年3月期1Qは増益、経常利益は210.7％増(フィスコ)",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "【決算速報】白銅、今期経常を10％上方修正・最高益予想を上乗せ、配当も15円増額(株探ニュース)",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "決算速報＞白銅、２７年３月期第１四半期決算は純利益３．５倍(ウエルスアドバイザー)",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属商社。加工、小口、短納期に強み。主顧客は半導体、FPD製造装置。",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.hakudo.co.jp/",
+    "url": "https://money.note.com/companies/7637",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒】白銅の志望動機30例×面接質問の解答例30例｜企業研究から内定獲得まで【平均年収750万】【41,285文字】｜JobVoice｜志望動機と企業研究",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒】白銅の志望動機30例×面接質問の解答例30例｜企業研究から内定獲得まで【平均年収750万】【41,285文字】",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "🎯 志望企業の分析noteを、社名を送るだけで。",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "📩 公式LINEに社名を送ると、その会社の分析noteを即返信（2,931社対応）",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "📝 未掲載の会社はリクエストで優先執筆。完成したらLINEでお知らせ",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "🎁 友だち追加で『ESと面接の準備ガイド』全104ページを無料プレゼント",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "▶ 公式LINEで社名を送る（無料・即返信）",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   },
+   {
+    "quote": "https://lin.ee/OYPfMK6",
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "暦生活 on X: \" 白銅 色（ はくどう いろ）｜にっぽんのいろ 銅を ... 暦生活 on X: \" 白銅 色（ はくどう いろ）｜にっぽんのいろ 銅を ... X https://x.com > @543life",
+    "url": "https://x.com/543life/status/1239529490910494720",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼新聞 / Japan Metal Daily on X: \" 白銅 ／6月受注から販価 ... 鉄鋼新聞 / Japan Metal Daily on X: \" 白銅 ／6月受注から販価 ... X https://x.com > @TEKKOSHIMBUN",
+    "url": "https://x.com/TEKKOSHIMBUN/status/1914452917488427340",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 presents 近兼拓史のウィークリーワールドニュース - X 白銅 presents 近兼拓史のウィークリーワールドニュース - X X https://x.com > WWN_radio",
+    "url": "https://x.com/WWN_radio",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 presents 近兼拓史のウィークリーワールドニュース - X 白銅 presents 近兼拓史のウィークリーワールドニュース - X X https://x.com > @WWN_radio",
+    "url": "https://x.com/WWN_radio/status/1490708429509480450",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "白銅 （株） - LinkedIn 白銅 （株） - LinkedIn LinkedIn https://jp.linkedin.com > company > 白銅（株）",
+    "url": "https://jp.linkedin.com/company/%E7%99%BD%E9%8A%85%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "星 宏明 - 白銅 株式会社 / 経営企画部 部長 - LinkedIn 星 宏明 - 白銅 株式会社 / 経営企画部 部長 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/hiroaki-hoshi-b6ba884/ja",
+    "pass": 3
+   },
+   {
+    "quote": "荻野 寛太 - 白銅 （株） - 営業職 - LinkedIn 荻野 寛太 - 白銅 （株） - 営業職 - LinkedIn LinkedIn https://jp.linkedin.com > 寛太-荻野-77840b218",
+    "url": "https://jp.linkedin.com/in/%E5%AF%9B%E5%A4%AA-%E8%8D%BB%E9%87%8E-77840b218",
+    "pass": 3
+   },
+   {
+    "quote": "迹田 正明 - 白銅 （株） - システム営業 - LinkedIn 迹田 正明 - 白銅 （株） - システム営業 - LinkedIn LinkedIn https://jp.linkedin.com > hakudo-system-atoda",
+    "url": "https://jp.linkedin.com/in/hakudo-system-atoda",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "白銅 株式会社 - Facebook 白銅 株式会社 - Facebook Facebook https://www.facebook.com > ... > Metal Supplier",
+    "url": "https://www.facebook.com/p/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100077641527532/",
+    "pass": 3
+   },
+   {
+    "quote": "【第6話】材料、副資材、加工部品の調達なら 白銅 ネット ... 【第6話】材料、副資材、加工部品の調達なら 白銅 ネット ... Facebook https://www.facebook.com > ... > 白銅株式会社 > Videos",
+    "url": "https://www.facebook.com/100077641527532/videos/%E7%AC%AC%EF%BC%96%E8%A9%B1%E6%9D%90%E6%96%99%E5%89%AF%E8%B3%87%E6%9D%90%E5%8A%A0%E5%B7%A5%E9%83%A8%E5%93%81%E3%81%AE%E8%AA%BF%E9%81%94%E3%81%AA%E3%82%89%E7%99%BD%E9%8A%85%E3%83%8D%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%8A%E4%BB%BB%E3%81%9B%E5%90%8C%E3%81%98%E6%9D%90%E6%96%99%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%BA%E9%81%95%E3%81%84%E4%B8%80%E4%BB%B6%E3%81%9A%E3%81%A4%E3%81%AF%E6%99%82%E9%96%93%E3%81%8B%E3%81%8B%E3%82%8B%E5%89%8D%E3%81%AB%E8%A6%8B%E7%A9%8D%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%81%82%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E3%81%9D%E3%82%93%E3%81%AA%E6%99%82%E3%81%AF%E7%99%BD%E9%8A%85%E3%83%8D%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BE%BF%E5%88%A9%E3%81%AA/2822672874752281/",
+    "pass": 3
+   },
+   {
+    "quote": "白銅 株式会社 - 夏季休業のお知らせ   8/11（火）〜8/16（日 ... 白銅 株式会社 - 夏季休業のお知らせ   8/11（火）〜8/16（日 ... Facebook https://www.facebook.com > photos > 夏季休業のお知ら...",
+    "url": "https://www.facebook.com/100077641527532/photos/%E5%A4%8F%E5%AD%A3%E4%BC%91%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B811%E7%81%AB816%E6%97%A5%E3%81%AE%E9%96%93%E5%A4%8F%E5%AD%A3%E4%BC%91%E6%A5%AD%E3%81%A8%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99%E4%BD%95%E3%81%8B%E3%81%A8%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8A%E6%8E%9B%E3%81%91%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A8%E5%AD%98%E3%81%98%E3%81%BE%E3%81%99%E3%81%8C%E4%BD%95%E5%8D%92%E3%81%94%E4%BA%86%E6%89%BF%E4%B8%8B%E3%81%95%E3%81%84%E3%81%BE%E3%81%99%E3%82%88%E3%81%86%E3%81%8A%E9%A1%98%E3%81%84%E7%94%B3%E3%81%97%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%99%EF%B8%8F%E4%BC%91%E6%A5%AD%E4%B8%AD%E3%81%AE%E9%85%8D/1075807578350616/",
+    "pass": 3
+   },
+   {
+    "quote": "A6061編〜 非鉄金属を中心に取り扱う専門商社の 白銅 が世界 ... A6061編〜 非鉄金属を中心に取り扱う専門商社の 白銅 が世界 ... Facebook https://www.facebook.com > ... > 白銅株式会社 > Videos",
+    "url": "https://www.facebook.com/100077641527532/videos/%E7%9F%A5%E3%81%A3%E3%81%A6%E6%AC%B2%E3%81%97%E3%81%84%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%EF%B8%8Fa6061%E7%B7%A8%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E3%82%92%E4%B8%AD%E5%BF%83%E3%81%AB%E5%8F%96%E3%82%8A%E6%89%B1%E3%81%86%E5%B0%82%E9%96%80%E5%95%86%E7%A4%BE%E3%81%AE%E7%99%BD%E9%8A%85%E3%81%8C%E4%B8%96%E7%95%8C%E3%81%AB%E7%9F%A5%E3%81%A3%E3%81%A6%E6%AC%B2%E3%81%97%E3%81%84%E3%81%82%E3%82%8C%E3%81%93%E3%82%8C%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%EF%B8%8F%E4%BB%8A%E5%9B%9E%E3%81%AF%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E3%81%AEa6061%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97/3885414191736484/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hakudo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/inquiry/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/product/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/product/3d_printer/modelling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/product/service/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/product/service/about/e-catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/product/metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/product/optimize/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/corporate/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/management/mid_tern.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/individual/investor.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/financial/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/financial/indicator.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/financial/cashflow.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/library/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/library/presentation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/library/securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/library/tool.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/library/analyst_report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/ir/stock/procedure.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/20260909ALmitas%E2%81%BASMART.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2026_06_05_info.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2026_06_01_LoopAL.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/20260415ALmitas%E2%81%BA%20SMART.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2024_02_19_SDG%EF%BD%93kompo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2023_12_21_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2023_12_15_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/Portals/0/resource/information/pdf/2023_12_05_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kabutan.jp/stock/holder?code=7637",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7637",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/382953",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9277/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=k7iqJA35s2Y",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.machinist.co.jp/2019/02/9944/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netservice.hakudo.co.jp/N1004/N1004_01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netservice.hakudo.co.jp/N1003/N1003_01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/638991",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/481104",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/194821",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://money.note.com/companies/7637",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tag/%E7%99%BD%E9%8A%85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E7%99%BD%E9%8A%85%E8%B2%A8%E5%B9%A3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/543life/status/1239529490910494720",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TEKKOSHIMBUN/status/1914452917488427340",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/WWN_radio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/WWN_radio/status/1490708429509480450",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E7%99%BD%E9%8A%85%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/hiroaki-hoshi-b6ba884/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%AF%9B%E5%A4%AA-%E8%8D%BB%E9%87%8E-77840b218",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/hakudo-system-atoda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100077641527532/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100077641527532/videos/%E7%AC%AC%EF%BC%96%E8%A9%B1%E6%9D%90%E6%96%99%E5%89%AF%E8%B3%87%E6%9D%90%E5%8A%A0%E5%B7%A5%E9%83%A8%E5%93%81%E3%81%AE%E8%AA%BF%E9%81%94%E3%81%AA%E3%82%89%E7%99%BD%E9%8A%85%E3%83%8D%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%8A%E4%BB%BB%E3%81%9B%E5%90%8C%E3%81%98%E6%9D%90%E6%96%99%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%BA%E9%81%95%E3%81%84%E4%B8%80%E4%BB%B6%E3%81%9A%E3%81%A4%E3%81%AF%E6%99%82%E9%96%93%E3%81%8B%E3%81%8B%E3%82%8B%E5%89%8D%E3%81%AB%E8%A6%8B%E7%A9%8D%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%81%82%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E3%81%9D%E3%82%93%E3%81%AA%E6%99%82%E3%81%AF%E7%99%BD%E9%8A%85%E3%83%8D%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BE%BF%E5%88%A9%E3%81%AA/2822672874752281/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100077641527532/photos/%E5%A4%8F%E5%AD%A3%E4%BC%91%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B811%E7%81%AB816%E6%97%A5%E3%81%AE%E9%96%93%E5%A4%8F%E5%AD%A3%E4%BC%91%E6%A5%AD%E3%81%A8%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99%E4%BD%95%E3%81%8B%E3%81%A8%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8A%E6%8E%9B%E3%81%91%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A8%E5%AD%98%E3%81%98%E3%81%BE%E3%81%99%E3%81%8C%E4%BD%95%E5%8D%92%E3%81%94%E4%BA%86%E6%89%BF%E4%B8%8B%E3%81%95%E3%81%84%E3%81%BE%E3%81%99%E3%82%88%E3%81%86%E3%81%8A%E9%A1%98%E3%81%84%E7%94%B3%E3%81%97%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%99%EF%B8%8F%E4%BC%91%E6%A5%AD%E4%B8%AD%E3%81%AE%E9%85%8D/1075807578350616/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100077641527532/videos/%E7%9F%A5%E3%81%A3%E3%81%A6%E6%AC%B2%E3%81%97%E3%81%84%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%EF%B8%8Fa6061%E7%B7%A8%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E3%82%92%E4%B8%AD%E5%BF%83%E3%81%AB%E5%8F%96%E3%82%8A%E6%89%B1%E3%81%86%E5%B0%82%E9%96%80%E5%95%86%E7%A4%BE%E3%81%AE%E7%99%BD%E9%8A%85%E3%81%8C%E4%B8%96%E7%95%8C%E3%81%AB%E7%9F%A5%E3%81%A3%E3%81%A6%E6%AC%B2%E3%81%97%E3%81%84%E3%81%82%E3%82%8C%E3%81%93%E3%82%8C%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%EF%B8%8F%E4%BB%8A%E5%9B%9E%E3%81%AF%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E3%81%AEa6061%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97/3885414191736484/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "白銅 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.hakudo.co.jp/ir/stock/procedure.html",
+    "https://kabutan.jp/stock/holder?code=7637",
+    "https://www.hakudo.co.jp/ir/stock/dividend.html",
+    "https://www.kabuyutai.com/kobetu/hakudo.html",
+    "https://www.buffett-code.com/company/7637/mainshareholder",
+    "https://shikiho.toyokeizai.net/stocks/7637/benefits",
+    "https://www.hakudo.co.jp/ir/",
+    "https://www.hakudo.co.jp/corporate/history/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7637",
+    "https://www.kabutore.biz/genzaikabuka/okabunushi7637.html"
+   ]
+  },
+  {
+   "query": "白銅 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.hakudo.co.jp/corporate/history/",
+    "https://www.hakudo.co.jp/corporate/outline/",
+    "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%8A%85_(%E4%BC%81%E6%A5%AD)",
+    "https://kitaishihon.com/company/7637/story",
+    "https://job.mynavi.jp/28/pc/search/corp74127/outline.html",
+    "https://www.hakudo.co.jp/faq/?dcatid=5",
+    "https://www.youtube.com/watch?v=haLkAaeJPBc",
+    "https://www.hakudo.co.jp/corporate/",
+    "https://pr.mono.ipros.com/hakudo/information/"
+   ]
+  },
+  {
+   "query": "白銅 売上高 OR 年商",
+   "results": [
+    "https://www.hakudo.co.jp/ir/financial/highlight.html",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=7637",
+    "https://finance.logmi.jp/articles/382953",
+    "https://www.hakudo.co.jp/corporate/outline/",
+    "https://kabutan.jp/stock/finance?code=7637",
+    "https://job.mynavi.jp/28/pc/search/corp74127/outline.html",
+    "https://www.youtube.com/watch?v=Yi1PvQyXNoo",
+    "https://finance.biggo.jp/news/JP_7637.T_2026-08-21"
+   ]
+  },
+  {
+   "query": "白銅 金属3Dプリンター 受託 売上",
+   "results": [
+    "https://www.hakudo.co.jp/product/3d_printer/",
+    "https://metoree.com/categories/9277/",
+    "https://www.youtube.com/watch?v=k7iqJA35s2Y",
+    "https://www.hakudo.co.jp/product/3d_printer/flow/",
+    "https://www.hakudo.co.jp/product/3d_printer/service/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://fujino-kinzoku.co.jp/product/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://pr.mono.ipros.com/hakudo/product/detail/2001034200/",
+    "https://ja.nc-net.or.jp/company/86018/product/detail/79132/"
+   ]
+  },
+  {
+   "query": "白銅 金属積層造形 台数 導入",
+   "results": [
+    "https://www.hakudo.co.jp/product/3d_printer/",
+    "https://www.machinist.co.jp/2019/02/9944/",
+    "https://www.hakudo.co.jp/product/3d_printer/service/",
+    "https://jampt.jp/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.tenjikai.biz/25823",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/pdf/msif_239.pdf",
+    "https://www.jstage.jst.go.jp/article/jtss/58/3/58_115/_pdf",
+    "https://www.imarcgroup.com/report/ja/japan-metal-additive-manufacturing-market"
+   ]
+  },
+  {
+   "query": "白銅 受注 量産 大型",
+   "results": [
+    "https://www.hakudo.co.jp/",
+    "https://www.hakudo.co.jp/product/custom-made/",
+    "https://www.hakudo.co.jp/product/custom-made/molding/",
+    "https://www.hakudo.co.jp/news/?itemid=691&dispmid=831",
+    "https://pr.mono.ipros.com/hakudo/product/detail/2000898191/",
+    "https://www.youtube.com/watch?v=cipbG2T0Jr4",
+    "https://www.hakudo.co.jp/product/service/about/",
+    "https://ja.nc-net.or.jp/company/86018/",
+    "https://www.hakudo.co.jp/product/stock/",
+    "https://ja.nc-net.or.jp/company/86018/product/detail/83233/"
+   ]
+  },
+  {
+   "query": "白銅 料金 OR 見積 OR 単価",
+   "results": [
+    "https://netservice.hakudo.co.jp/N1004/N1004_01",
+    "https://netservice.hakudo.co.jp/N1003/N1003_01",
+    "https://www.hakudo.co.jp/product/stock/",
+    "https://video.hakudo.co.jp/netservice/",
+    "https://video.hakudo.co.jp/products/page_74.html",
+    "http://uchidametal.com/kakaku/ni/hakudo.php",
+    "https://pr.mono.ipros.com/hakudo/product/detail/2001532515/",
+    "https://www.hakudo.co.jp/product/netservice/",
+    "https://www.monotaro.com/s/q-%E7%99%BD%E9%8A%85/?srsltid=AYCX9vIvvxMoX89hK7zcG4jR6zocc2r-_H7bX9koHA9PK3Hyhaclrb5V",
+    "https://ja.wikipedia.org/wiki/単価記号"
+   ]
+  },
+  {
+   "query": "白銅 社長 インタビュー 日刊工業新聞",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/638991",
+    "https://www.nikkan.co.jp/articles/view/481104",
+    "https://www.nikkan.co.jp/articles/view/194821",
+    "https://www.nikkan.co.jp/articles/view/773636",
+    "https://www.nikkan.co.jp/articles/view/00674108",
+    "https://www.monoasu.jp/category/interview",
+    "https://www.hakudo.co.jp/news/?itemid=675&dispmid=831",
+    "https://www.japanmetaldaily.com/articles/-/257242",
+    "https://www.nikkan.co.jp/articles/search?q=%E9%8A%85",
+    "https://www.nikkan.co.jp/"
+   ]
+  },
+  {
+   "query": "白銅 revenue employees",
+   "results": [
+    "https://www.hakudo.co.jp/Portals/0/resource/en/ir/pdf/2023_07_20_01.pdf",
+    "https://www.hakudo.co.jp/",
+    "https://www.hakudo.co.jp/corporate/outline/",
+    "https://www.statista.com/statistics/1565525/hakudo-co-ltd-revenue/?srsltid=AYCX9vIWARjTPAgT05bLu03U-BEMZBiLcPkG6CBcyEDcYviw6LJigXl3",
+    "https://job.mynavi.jp/28/pc/search/corp74127/outline.html",
+    "https://www.hakudo.co.jp/corporate/overseas/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7637",
+    "https://www.instagram.com/hakudo.corporation/",
+    "https://www.zoominfo.com/pic/hakudo-co-ltd/343780919"
+   ]
+  },
+  {
+   "query": "site:note.com 白銅",
+   "results": [
+    "https://money.note.com/companies/7637",
+    "https://note.com/tag/%E7%99%BD%E9%8A%85",
+    "https://note.com/jobhuntkeyence/n/n18728f8ede14",
+    "https://note.com/tag/%E7%99%BD%E9%8A%85%E8%B2%A8%E5%B9%A3",
+    "https://note.com/hinaironote/n/n1f7f00ab193e",
+    "https://note.com/pocoa_420/n/na4acd644b85c",
+    "https://note.com/lucid_lotus6287/n/nde59afb9beae",
+    "https://note.com/asahikigyou/n/n04781518cbfc",
+    "https://note.com/tatsuya_sabato/n/n592ac93f1ff5",
+    "https://note.com/tag/vm/investment_money/company-7637"
+   ]
+  },
+  {
+   "query": "site:x.com 白銅",
+   "results": [
+    "https://x.com/543life/status/1239529490910494720",
+    "https://x.com/TEKKOSHIMBUN/status/1914452917488427340",
+    "https://x.com/WWN_radio",
+    "https://x.com/WWN_radio/status/1490708429509480450",
+    "https://x.com/TEKKOSHIMBUN/status/1914454691913875519",
+    "https://x.com/SRIncJpns/status/2100374212263493998",
+    "https://x.com/QUOcardPay/status/1597047637487669248",
+    "https://x.com/hbst_kokura/status/2115721899674370059",
+    "https://x.com/kitaishihon/status/2092446939556315335",
+    "https://x.com/sendenkaigi/status/1914861783908540866"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 白銅",
+   "results": [
+    "https://jp.linkedin.com/company/%E7%99%BD%E9%8A%85%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/hiroaki-hoshi-b6ba884/ja",
+    "https://jp.linkedin.com/in/%E5%AF%9B%E5%A4%AA-%E8%8D%BB%E9%87%8E-77840b218",
+    "https://jp.linkedin.com/in/hakudo-system-atoda",
+    "https://www.linkedin.com/posts/yamatogokin_%E3%81%AB%E3%81%93%E3%81%AB%E3%81%93%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97-%E3%82%B3%E3%83%AD%E3%83%8A%E4%BA%88%E9%98%B2-%E8%B6%85%E6%8A%97%E8%8F%8C-activity-6721585341813276672-6Z8Z",
+    "https://jp.linkedin.com/in/eriko-yamaki-74a1b911a",
+    "https://jp.linkedin.com/in/tianango/ja",
+    "https://sv.linkedin.com/company/%E5%85%B1%E5%90%8C%E3%83%94%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%AB%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/pub/dir/Hiroaki/Hoshi?trk=prof-samename-searchmore",
+    "https://www.linkedin.com/in/dannah-campbell294/ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 白銅",
+   "results": [
+    "https://www.facebook.com/p/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100077641527532/",
+    "https://www.facebook.com/100077641527532/videos/%E7%AC%AC%EF%BC%96%E8%A9%B1%E6%9D%90%E6%96%99%E5%89%AF%E8%B3%87%E6%9D%90%E5%8A%A0%E5%B7%A5%E9%83%A8%E5%93%81%E3%81%AE%E8%AA%BF%E9%81%94%E3%81%AA%E3%82%89%E7%99%BD%E9%8A%85%E3%83%8D%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%8A%E4%BB%BB%E3%81%9B%E5%90%8C%E3%81%98%E6%9D%90%E6%96%99%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%BA%E9%81%95%E3%81%84%E4%B8%80%E4%BB%B6%E3%81%9A%E3%81%A4%E3%81%AF%E6%99%82%E9%96%93%E3%81%8B%E3%81%8B%E3%82%8B%E5%89%8D%E3%81%AB%E8%A6%8B%E7%A9%8D%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%81%82%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E3%81%9D%E3%82%93%E3%81%AA%E6%99%82%E3%81%AF%E7%99%BD%E9%8A%85%E3%83%8D%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BE%BF%E5%88%A9%E3%81%AA/2822672874752281/",
+    "https://www.facebook.com/100077641527532/photos/%E5%A4%8F%E5%AD%A3%E4%BC%91%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B811%E7%81%AB816%E6%97%A5%E3%81%AE%E9%96%93%E5%A4%8F%E5%AD%A3%E4%BC%91%E6%A5%AD%E3%81%A8%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99%E4%BD%95%E3%81%8B%E3%81%A8%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8A%E6%8E%9B%E3%81%91%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A8%E5%AD%98%E3%81%98%E3%81%BE%E3%81%99%E3%81%8C%E4%BD%95%E5%8D%92%E3%81%94%E4%BA%86%E6%89%BF%E4%B8%8B%E3%81%95%E3%81%84%E3%81%BE%E3%81%99%E3%82%88%E3%81%86%E3%81%8A%E9%A1%98%E3%81%84%E7%94%B3%E3%81%97%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%99%EF%B8%8F%E4%BC%91%E6%A5%AD%E4%B8%AD%E3%81%AE%E9%85%8D/1075807578350616/",
+    "https://www.facebook.com/100077641527532/videos/%E7%9F%A5%E3%81%A3%E3%81%A6%E6%AC%B2%E3%81%97%E3%81%84%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%EF%B8%8Fa6061%E7%B7%A8%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E3%82%92%E4%B8%AD%E5%BF%83%E3%81%AB%E5%8F%96%E3%82%8A%E6%89%B1%E3%81%86%E5%B0%82%E9%96%80%E5%95%86%E7%A4%BE%E3%81%AE%E7%99%BD%E9%8A%85%E3%81%8C%E4%B8%96%E7%95%8C%E3%81%AB%E7%9F%A5%E3%81%A3%E3%81%A6%E6%AC%B2%E3%81%97%E3%81%84%E3%81%82%E3%82%8C%E3%81%93%E3%82%8C%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%EF%B8%8F%E4%BB%8A%E5%9B%9E%E3%81%AF%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E3%81%AEa6061%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97/3885414191736484/",
+    "https://www.facebook.com/lmanagement.office/videos/works%E5%B1%B1%E6%9C%AC%E3%83%A8%E3%82%B7%E3%83%92%E3%82%B3%E7%9B%A3%E7%9D%A3%E7%99%BD%E9%8A%85-%E4%BC%81%E6%A5%ADcm-%E7%99%BD%E9%8A%85%E6%AD%8C%E3%81%86%E5%B7%A5%E5%A0%B4%E7%AF%8730%E7%A7%92ver%E5%89%8D%E4%BD%9C%E3%81%AB%E5%BC%95%E3%81%8D%E7%B6%9A%E3%81%8D%E6%96%B0cm%E3%82%82%E6%BC%94%E5%87%BA%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8A%E7%AC%91%E3%81%84%E3%82%B3%E3%83%B3%E3%83%93-%E3%81%A9%E3%81%B6%E3%82%8D%E3%81%A3%E3%81%8F%E6%A3%AE-%E6%85%8E%E5%A4%AA%E9%83%8E%E3%81%95%E3%82%93%E6%B1%9F%E5%8F%A3-%E7%9B%B4/1351498447089096/",
+    "https://www.facebook.com/100077641527532/posts/-%E7%99%BD%E9%8A%85%E7%A4%BE%E5%93%A1%E3%81%AE%E3%83%90%E3%83%83%E3%82%B0%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E4%BB%8A%E5%9B%9E%E3%81%AF%E4%B8%B8%E3%81%AE%E5%86%85%E3%81%A7%E5%83%8D%E3%81%8F%E7%99%BD%E9%8A%85%E7%A4%BE%E5%93%A1%E3%81%AE%E3%83%90%E3%83%83%E3%82%B0%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99-%E6%99%AE%E6%AE%B5%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A7%E6%AC%A0%E3%81%8B%E3%81%9B%E3%81%AA%E3%81%84%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%82%84%E6%84%9B%E7%94%A8%E5%93%81%E3%81%8C%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93-%E3%81%94%E5%8F%82%E8%80%83%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%B0%E3%81%86%E3%82%8C%E3%81%97%E3%81%84/1143389801592393/",
+    "https://www.facebook.com/100077641527532/videos/%E7%99%BD%E9%8A%85%E6%96%B0cm%E5%85%AC%E9%96%8B%E6%9C%AC%E6%97%A5%E3%82%88%E3%82%8A%E6%96%B0cm%E7%99%BD%E9%8A%85%E6%AD%8C%E3%81%86%E5%B7%A5%E5%A0%B4%E7%AF%87%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%9B%9E%E3%82%82%E3%81%8A%E7%AC%91%E3%81%84%E3%82%B3%E3%83%B3%E3%83%93-%E3%81%A9%E3%81%B6%E3%82%8D%E3%81%A3%E3%81%8F%E6%A3%AE%E6%85%8E%E5%A4%AA%E9%83%8E%E3%81%95%E3%82%93%E6%B1%9F%E5%8F%A3%E7%9B%B4%E4%BA%BA%E3%81%95%E3%82%93%E3%81%AB%E3%81%94%E5%87%BA%E6%BC%94%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E4%BB%A3%E8%A1%A8%E4%BD%9C%E3%81%A8%E3%81%97%E3%81%A6%E5%BA%83%E3%81%8F%E7%9F%A5%E3%82%89%E3%82%8C%E3%82%8B%E6%A5%BD%E6%9B%B2%E3%81%AE%E6%9B%BF%E3%81%88/1023034260200591/",
+    "https://www.facebook.com/100077641527532/posts/2026%E5%B9%B44%E6%9C%8811%E6%97%A5%E3%81%AB%E8%A7%92%E7%94%B0%E4%BC%9A%E9%95%B7%E3%81%AE%E6%85%B0%E5%8A%B4%E4%BC%9A%E3%82%92%E5%9F%B7%E3%82%8A%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E8%A7%92%E7%94%B0%E4%BC%9A%E9%95%B7%E3%81%AB%E3%81%AF14%E5%B9%B4%E9%96%93%E3%81%AB%E3%82%8F%E3%81%9F%E3%82%8A%E7%A4%BE%E9%95%B7%E3%81%A8%E3%81%97%E3%81%A6%E5%BD%93%E7%A4%BE%E3%82%92%E5%8A%9B%E5%BC%B7%E3%81%8F%E7%89%BD%E5%BC%95%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E5%A4%9A%E5%A4%A7%E3%81%AA%E3%82%8B%E3%81%94%E5%B0%BD%E5%8A%9B%E3%82%92%E8%B3%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E5%BD%93%E6%97%A5%E3%81%AF%E5%B1%B1%E7%94%B0%E6%96%B0%E7%A4%BE/993523856578989/",
+    "https://www.facebook.com/100077641527532/posts/-%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E9%81%B8%E6%89%8B%E7%B4%B9%E4%BB%8B-%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF%E3%83%97%E3%83%AD%E3%82%B4%E3%83%AB%E3%83%95%E3%82%A1%E3%83%BC-%E6%B2%B3%E5%90%88%E6%85%88%E8%8B%B1%E9%81%B8%E6%89%8Bjaykawai63-%E3%82%92%E5%8D%94%E8%B3%9B%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F-%E6%B2%B3%E5%90%88%E9%81%B8%E6%89%8B%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB-%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%87%BA%E8%BA%AB20/942083361723039/",
+    "https://www.facebook.com/100077641527532/posts/%E3%81%93%E3%81%AE%E5%BA%A6%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%95%E3%82%A7%E3%82%A2-2026%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E4%BC%9A%E5%A0%B4%E3%81%A7%E3%81%AF2027%E5%B9%B41%E6%9C%88%E5%B0%8E%E5%85%A5%E4%BA%88%E5%AE%9A%E3%81%AE%E6%9C%80%E6%96%B0%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6pr%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E3%81%BE%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%9F%E4%BC%B8%E9%8A%85%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E3%81%AE%E8%96%84%E6%9D%BF%E9%96%A2%E9%80%A3%E3%82%B5%E3%83%BC%E3%83%93/1145208248077215/"
+   ]
+  },
+  {
+   "query": "白銅 note 社長",
+   "results": [
+    "https://www.hakudo.co.jp/corporate/message/",
+    "https://www.hakudo.co.jp/corporate/outline/",
+    "https://podcasts.apple.com/us/podcast/%E7%99%BD%E9%8A%85ir%E7%89%B9%E9%9B%86/id1612608554",
+    "https://www.kabutecho.com/interview/%E3%80%8C%E7%88%AA%E3%82%92%E7%A0%94%E3%81%90%E3%80%8D%E7%B5%8C%E5%96%B6%E3%81%A7%E5%88%87%E3%81%A3%E3%81%A6%E5%A3%B2%E3%82%8B%E5%BC%B7%E3%81%BF%E3%82%92%E7%A3%A8%E3%81%8F-%E5%8D%8A/",
+    "https://www.nikkei.com/article/DGXZQODZ00005_Q6A210C2000000/",
+    "https://special.nikkeibp.co.jp/atclh/ONB/21/hakudo0823/",
+    "https://note.com/tag/%E7%99%BD%E9%8A%85",
+    "https://www.hakudo.co.jp/news/?itemid=675&dispmid=831",
+    "https://www.youtube.com/watch?v=o8ojwXdeRPY",
+    "https://ja.wikipedia.org/wiki/角田浩司"
+   ]
+  },
+  {
+   "query": "白銅 X 投稿",
+   "results": [
+    "https://video.hakudo.co.jp/howto_use/page_71.html",
+    "https://video.hakudo.co.jp/products/page_74.html",
+    "https://video.hakudo.co.jp/howto_use/page_55.html",
+    "https://video.hakudo.co.jp/products/page_58.html",
+    "https://www.instagram.com/reel/DEB97gJT1qZ/",
+    "https://video.hakudo.co.jp/products/page_77.html",
+    "https://kabutan.jp/stock/kabuka?code=7637",
+    "https://video.hakudo.co.jp/products/page_124.html",
+    "https://metoree.com/companies/14917/",
+    "https://x.com/Metalmoon093"
+   ]
+  }
+ ],
+ "missing": {
+  "保有設備": "記載なし（3回確認済み：公式26頁／PDF・画像8件／外部28頁・検索15回）",
+  "認証": "記載なし（3回確認済み：公式26頁／PDF・画像8件／外部28頁・検索15回）"
+ }
+}

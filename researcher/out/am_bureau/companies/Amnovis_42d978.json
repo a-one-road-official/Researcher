@@ -1,0 +1,1034 @@
+{
+ "name": "Amnovis",
+ "aliases": [
+  "Amnovis"
+ ],
+ "context": "海外・医療と産業の金属AM受託",
+ "researched_at": "2026-11-04T10:36:59.529978+00:00",
+ "official_url": "https://www.amnovis.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "最大案件・量産": [
+   {
+    "quote": "Amnovis | Additive Manufacturing & Contract Manufacturing Services",
+    "url": "https://www.amnovis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "100% paperless processes enable us to flexibly and efficiently scale up AM innovations and raise the bar in AM contract manufacturing.",
+    "url": "https://www.amnovis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Amnovis is the only contract manufacturer to offer 3D-printed pure titanium that meets ASTM standards without requiring heat treatment. This validated material is now a workhorse in spine, CMF, and orthopedic applications.",
+    "url": "https://www.amnovis.com/news/pr-251014",
+    "pass": 1
+   },
+   {
+    "quote": "Amnovis is the only contract manufacturer to offer 3D-printed pure titanium that meets ASTM standards without requiring heat treatment. This validated material is now a workhorse in spine, CMF, and orthopedic applications.",
+    "url": "https://thespinemarketgroup.com/amnovis-celebrates-5-years-of-innovation-with-100000-3d-printed-implants-shipped/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systemsの専門的なトレーニングとリソースにより、3Dプリンティングの可能性を最大限に引き出しましょう",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis 社とのコラボレーションは、3D Systems が自分たちのアプリケーション開発の専門知識と幅広い統合型積層造形ソリューションを活かして、生産性、信頼性、稼働時間、歩留まりを最大化できることをさらに示すものです",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Medical",
+    "url": "https://www.amnovis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - Spine",
+    "url": "https://www.amnovis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - SI Fixation",
+    "url": "https://www.amnovis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have an open perspective on resolving technical challenges in any regulated, high-tech industry, including medical and industrial markets.",
+    "url": "https://www.amnovis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We chose Amnovis as our operations partner because we recognized that their expertise in medical device 3D printing and their strong focus on quality systems was the right combination for us.",
+    "url": "https://www.amnovis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.amnovis.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - Spine",
+    "url": "https://www.amnovis.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - SI Fixation",
+    "url": "https://www.amnovis.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Amnovis was founded in June 2020, backed with a combined experience and track record of 35 years in Additive Manufacturing of the founding team. As an independent and privately owned company, we set up long-term partnerships by actively engaging with employees, customers and partners that each have a unique expertise complementary to our own.",
+    "url": "https://www.amnovis.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.amnovis.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - Spine",
+    "url": "https://www.amnovis.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - SI Fixation",
+    "url": "https://www.amnovis.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "MAY 24, 2023 - Amnovis simplifies regulatory submission for 3D printed titanium implants. This allows medical device OEMs worldwide to benefit from faster time-to-market in the US through Amnovis’ FDA Master File.",
+    "url": "https://www.amnovis.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "This means lower cost and shorter lead times for medical device OEMs. Visit the Amnovis booth (#2627) at NASS Annual Meeting in Chicago.",
+    "url": "https://www.amnovis.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Ruben Wauthle talked about the 'Revival of Pure Titanium for Medical Device Manufacturing Thanks to Additive Manufacturing (AM).\" Picture OMTEC®",
+    "url": "https://www.amnovis.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "JUNE 14, 2022 - Amnovis and BAAT Medical collaborate to innovate the development and manufacturing of 3D printed medical devices",
+    "url": "https://www.amnovis.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.amnovis.com/news/pr-260429",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - Spine",
+    "url": "https://www.amnovis.com/news/pr-260429",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - SI Fixation",
+    "url": "https://www.amnovis.com/news/pr-260429",
+    "pass": 1
+   },
+   {
+    "quote": "Customers will benefit from globally deployable manufacturing capacity enabled by mirrored US and European operations, significantly simplifying supplier qualification requirements",
+    "url": "https://www.amnovis.com/news/pr-260429",
+    "pass": 1
+   },
+   {
+    "quote": "To lead the US operations, Amnovis has appointed Chris Cook as General Manager, US Operations. Cook brings extensive leadership experience across scale ups and large international medical device organizations, and will oversee the ramp up and operational execution of Amnovis’ US manufacturing activities.",
+    "url": "https://www.amnovis.com/news/pr-260429",
+    "pass": 1
+   },
+   {
+    "quote": "By establishing mirrored production sites in Europe and the United States under a single global quality management system, Amnovis enables customers to deploy manufacturing capacity across regions while maintaining consistent processes, equipment and validation approaches. This operating model is designed to support flexible and scalable manufacturing in regulated environments.",
+    "url": "https://www.amnovis.com/news/pr-260429",
+    "pass": 1
+   },
+   {
+    "quote": "Marasco adds, “Westconn’s additive manufacturing work has been built around helping customers move complex programs from development into reliable production. Joining Amnovis creates a strong path to continue supporting those customers with deeper additive manufacturing expertise, a broader global platform, and a clear commitment to building U.S.-based capacity.”",
+    "url": "https://www.amnovis.com/news/pr-260429",
+    "pass": 1
+   },
+   {
+    "quote": "Amnovis PR-260429 Figure 3-4: Additive manufacturing of medical devices in action:",
+    "url": "https://www.amnovis.com/news/pr-260429",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.amnovis.com/news/pr-251014",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - Spine",
+    "url": "https://www.amnovis.com/news/pr-251014",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - SI Fixation",
+    "url": "https://www.amnovis.com/news/pr-251014",
+    "pass": 1
+   },
+   {
+    "quote": "With a customer acceptance rate exceeding 99.9% and an on-time delivery rate above 90% for three consecutive years, Amnovis has become a trusted partner in the medical device industry. The milestone 100,000th implant was Promethean Restorative’s FDA-approved SI fixation device, manufactured and delivered by Amnovis to support their product launch.",
+    "url": "https://www.amnovis.com/news/pr-251014",
+    "pass": 1
+   },
+   {
+    "quote": "A patented concept enabling patient-specific implants by deforming highly porous regions of standardized components. This innovation offers customization at the cost of standard manufacturing and is being co-developed with customers for market entry.",
+    "url": "https://www.amnovis.com/news/pr-251014",
+    "pass": 1
+   },
+   {
+    "quote": "\"As we look ahead, we’re excited about the opportunities to scale our impact even further,\" Wauthle concluded. \"We’re building on a solid foundation of quality and reliability, and we’re committed to turning cutting-edge ideas into real-world solutions for our customers.\"",
+    "url": "https://www.amnovis.com/news/pr-251014",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.amnovis.com/news/bonezone-article-on-amnovis-multi-metal-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - Spine",
+    "url": "https://www.amnovis.com/news/bonezone-article-on-amnovis-multi-metal-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - SI Fixation",
+    "url": "https://www.amnovis.com/news/bonezone-article-on-amnovis-multi-metal-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Apart from huge efforts already put in developing multi-metal printing, the technology remains expensive and requires further optimization. Amnovis focuses on optimal metal combinations for next-level medical devices by understanding and controlling the complex chemical and metallurgical reactions at metals interface regions.",
+    "url": "https://www.amnovis.com/news/bonezone-article-on-amnovis-multi-metal-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.amnovis.com/news/pr-240919",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - Spine",
+    "url": "https://www.amnovis.com/news/pr-240919",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - SI Fixation",
+    "url": "https://www.amnovis.com/news/pr-240919",
+    "pass": 1
+   },
+   {
+    "quote": "Over 50,000 implants delivered since 2021 using Amnovis' unique, heat treatment-free titanium 3D printing process to customers worldwide in spine, orthopedics, and CMF, accelerating time to market.",
+    "url": "https://www.amnovis.com/news/pr-240919",
+    "pass": 1
+   },
+   {
+    "quote": "He further added, \"Amnovis' heat treatment-free titanium process has significantly streamlined our production, reducing time and costs. Their production capacity and reliability have made a substantial contribution to our collaboration with large customers, helping us bring products to market faster.\"",
+    "url": "https://www.amnovis.com/news/pr-240919",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.amnovis.com/news/simplified-regulatory-submissions",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - Spine",
+    "url": "https://www.amnovis.com/news/simplified-regulatory-submissions",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - SI Fixation",
+    "url": "https://www.amnovis.com/news/simplified-regulatory-submissions",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device OEMs worldwide benefit from faster time-to-market in the US through Amnovis’ FDA Master File",
+    "url": "https://www.amnovis.com/news/simplified-regulatory-submissions",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.amnovis.com/news/webinar-recording-by-diabatix-amnovis",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - Spine",
+    "url": "https://www.amnovis.com/news/webinar-recording-by-diabatix-amnovis",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - SI Fixation",
+    "url": "https://www.amnovis.com/news/webinar-recording-by-diabatix-amnovis",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.amnovis.com/news/press-release-copper-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - Spine",
+    "url": "https://www.amnovis.com/news/press-release-copper-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - SI Fixation",
+    "url": "https://www.amnovis.com/news/press-release-copper-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "The close collaboration between Amnovis and KU Leuven, more specifically its SeMPeR and Additive Manufacturing research groups, involves an IP license agreement with regard to a unique copper 3D printing approach. The accumulated know-how pushes copper 3D printing to the next level and enables Amnovis’ customers to benefit from the advantages of this breakthrough technology.",
+    "url": "https://www.amnovis.com/news/press-release-copper-3d-printing",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.amnovis.com/news/press-release-nass-spinal-cages",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - Spine",
+    "url": "https://www.amnovis.com/news/press-release-nass-spinal-cages",
+    "pass": 1
+   },
+   {
+    "quote": "Medical - SI Fixation",
+    "url": "https://www.amnovis.com/news/press-release-nass-spinal-cages",
+    "pass": 1
+   },
+   {
+    "quote": "Ruben Wauthle, Amnovis CEO and Co-Founder: \"For us, innovation benefits from material and process enhancements as well as the ability to increase AM productivity. By scaling our manufacturing capabilities for quality-critical applications, such as medical devices, we ensure faster delivery at lower cost, while maintaining our quality standards.”",
+    "url": "https://www.amnovis.com/news/press-release-nass-spinal-cages",
+    "pass": 1
+   },
+   {
+    "quote": "With a customer acceptance rate exceeding 99.9% and an on-time delivery rate above 90% for three consecutive years, Amnovis has become a trusted partner in the medical device industry. The milestone 100,000th implant was Promethean Restorative’s FDA-approved SI fixation device, manufactured and delivered by Amnovis to support their product launch.",
+    "url": "https://thespinemarketgroup.com/amnovis-celebrates-5-years-of-innovation-with-100000-3d-printed-implants-shipped/",
+    "pass": 3
+   },
+   {
+    "quote": "A patented concept enabling patient-specific implants by deforming highly porous regions of standardized components. This innovation offers customization at the cost of standard manufacturing and is being co-developed with customers for market entry.",
+    "url": "https://thespinemarketgroup.com/amnovis-celebrates-5-years-of-innovation-with-100000-3d-printed-implants-shipped/",
+    "pass": 3
+   },
+   {
+    "quote": "“As we look ahead, we’re excited about the opportunities to scale our impact even further,” Wauthle concluded. “We’re building on a solid foundation of quality and reliability, and we’re committed to turning cutting-edge ideas into real-world solutions for our customers.”",
+    "url": "https://thespinemarketgroup.com/amnovis-celebrates-5-years-of-innovation-with-100000-3d-printed-implants-shipped/",
+    "pass": 3
+   },
+   {
+    "quote": "NGMedical Celebrates One-Year Anniversary of the New…",
+    "url": "https://thespinemarketgroup.com/amnovis-celebrates-5-years-of-innovation-with-100000-3d-printed-implants-shipped/",
+    "pass": 3
+   },
+   {
+    "quote": "Globus Medical and Synaptive: Why the Rumors Deserve…",
+    "url": "https://thespinemarketgroup.com/amnovis-celebrates-5-years-of-innovation-with-100000-3d-printed-implants-shipped/",
+    "pass": 3
+   },
+   {
+    "quote": "What Globus Medical Really Bought With Higgs Boson Health",
+    "url": "https://thespinemarketgroup.com/amnovis-celebrates-5-years-of-innovation-with-100000-3d-printed-implants-shipped/",
+    "pass": 3
+   }
+  ],
+  "発言": [
+   {
+    "quote": "• CEO of CairnSurgical",
+    "url": "https://www.amnovis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Amnovis successfully exhibited and presented at OMTEC 2022 in Chicago. CEO and Co-Founder",
+    "url": "https://www.amnovis.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Ruben Wauthle, CEO & Co-founder -",
+    "url": "https://www.amnovis.com/news/pr-260429",
+    "pass": 1
+   },
+   {
+    "quote": "\"From day one, we wanted Amnovis to be more than just another supplier,\" said Ruben Wauthle, CEO and Co-founder of Amnovis. \"We set out to build a company that consistently delivers high-quality parts, communicates transparently, and meets deadlines. Five years later, we’re proud to say we’re doing exactly that.\"",
+    "url": "https://www.amnovis.com/news/pr-251014",
+    "pass": 1
+   },
+   {
+    "quote": "Ruben Wauthle, CEO & Co-founder -",
+    "url": "https://www.amnovis.com/news/pr-251014",
+    "pass": 1
+   },
+   {
+    "quote": "Bert Engelen (left), Operations Manager, and Ruben Wauthle (right), CEO & Co-founder of Amnovis",
+    "url": "https://www.amnovis.com/news/simplified-regulatory-submissions",
+    "pass": 1
+   },
+   {
+    "quote": "Ruben Wauthle, Amnovis CEO and Co-Founder: \"For us, innovation benefits from material and process enhancements as well as the ability to increase AM productivity. By scaling our manufacturing capabilities for quality-critical applications, such as medical devices, we ensure faster delivery at lower cost, while maintaining our quality standards.”",
+    "url": "https://www.amnovis.com/news/press-release-nass-spinal-cages",
+    "pass": 1
+   },
+   {
+    "quote": "“From day one, we wanted Amnovis to be more than just another supplier,” said Ruben Wauthle, CEO and Co-founder of Amnovis. “We set out to build a company that consistently delivers high-quality parts, communicates transparently, and meets deadlines. Five years later, we’re proud to say we’re doing exactly that.”",
+    "url": "https://thespinemarketgroup.com/amnovis-celebrates-5-years-of-innovation-with-100000-3d-printed-implants-shipped/",
+    "pass": 3
+   },
+   {
+    "quote": "Who Runs DePuy Synthes? The CEO Fight That Killed…",
+    "url": "https://thespinemarketgroup.com/amnovis-celebrates-5-years-of-innovation-with-100000-3d-printed-implants-shipped/",
+    "pass": 3
+   },
+   {
+    "quote": "Highridge Medical CEO Departure: Spine’s…",
+    "url": "https://thespinemarketgroup.com/amnovis-celebrates-5-years-of-innovation-with-100000-3d-printed-implants-shipped/",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis 社 CEO 兼共同創業者の Ruben Wauthle 氏は次のとおりコメントしています",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems 副社長兼セグメントリーダーの Scott Anderson は次のとおりコメントしています",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Amnovis was founded in June 2020, backed with a combined experience and track record of 35 years in Additive Manufacturing of the founding team. As an independent and privately owned company, we set up long-term partnerships by actively engaging with employees, customers and partners that each have a unique expertise complementary to our own.",
+    "url": "https://www.amnovis.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Over 50,000 implants delivered since 2021 using Amnovis' unique, heat treatment-free titanium 3D printing process to customers worldwide in spine, orthopedics, and CMF, accelerating time to market.",
+    "url": "https://www.amnovis.com/news/pr-240919",
+    "pass": 1
+   },
+   {
+    "quote": "Amnovis 社の創業者は、粉末床溶融結合法 (LPBF) テクノロジを採用して、整形外科用インプラントや脊椎インプラントなどのチタン製医療機器を積層造形によって製造した最初の企業のうちの 1 社でした",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis 社 CEO 兼共同創業者の Ruben Wauthle 氏は次のとおりコメントしています",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   }
+  ],
+  "売上・受託売上": [
+   {
+    "quote": "Sales Manager",
+    "url": "https://www.amnovis.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "promising future of 3D printing in orthopedics. Editor Dan Cook spoke with our technical sales engineer Maxime Salingros, after he drew a crowd at the Amnovis booth at OMTEC.",
+    "url": "https://www.amnovis.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Maxime Salingros, Amnovis technical sales engineer: \"Engineers who design and develop new implants need a mentality shift and an awareness of the kind of design freedom multi-metal printing offers. They need to consider the possibility of making implants with various 3D printed metals. If they don't know about it, they can't make it.\"",
+    "url": "https://www.amnovis.com/news/bonezone-article-on-amnovis-multi-metal-3d-printing",
+    "pass": 1
+   }
+  ],
+  "設備台数": [
+   {
+    "quote": "Amnovis PR-260429 Figure 2: Selected L-PBF metal 3D printers installed at Amnovis:",
+    "url": "https://www.amnovis.com/news/pr-260429",
+    "pass": 1
+   },
+   {
+    "quote": "L-PBF metal 3D printers installed at Amnovis:",
+    "url": "https://www.amnovis.com/news/pr-251014",
+    "pass": 1
+   },
+   {
+    "quote": "All Plastic Printers",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis 社とのコラボレーションは、3D Systems が自分たちのアプリケーション開発の専門知識と幅広い統合型積層造形ソリューションを活かして、生産性、信頼性、稼働時間、歩留まりを最大化できることをさらに示すものです",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Amnovis 社とBAAT Medical社、3Dプリント医療機器の高速 ... — Amnovis 社とBAAT Medical社、3Dプリント医療機器の高速 ... 3Druck.com https://3druck.com > ホーム > 産業",
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%82%A2%E3%83%B3%E3%83%8E%E3%83%93%E3%82%B9%E3%81%A8%E3%83%90%E3%83%BC%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB%E3%80%813d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8C%BB%E7%99%82%E6%A9%9F-2/",
+    "pass": 3
+   },
+   {
+    "quote": "About Amnovis | Additive Manufacturing Experts — About Amnovis | Additive Manufacturing Experts Amnovis https://www.amnovis.com > about-us",
+    "url": "https://www.amnovis.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis - LinkedIn — Amnovis - LinkedIn LinkedIn Belgium https://be.linkedin.com > amnovis",
+    "url": "https://be.linkedin.com/company/amnovis",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis Celebrates 5 Years of Innovation with 100,000 3D ... — Amnovis Celebrates 5 Years of Innovation with 100,000 3D ... SPINEMarketGroup https://thespinemarketgroup.com > a...",
+    "url": "https://thespinemarketgroup.com/amnovis-celebrates-5-years-of-innovation-with-100000-3d-printed-implants-shipped/",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis - Source from Flanders — Amnovis - Source from Flanders Flanders Investment and Trade https://source.flandersinvestmentandtrade.com > ...",
+    "url": "https://source.flandersinvestmentandtrade.com/2b4ab31d-6a90-4b12-8771-80a1cbf61c91/Belgium--Farnborough-International-Airshow/624d86d5-a3e0-f011-8544-000d3a66e1f6/Amnovis",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis - Facebook — Amnovis - Facebook Facebook https://www.facebook.com > Amnovis-100083007144956",
+    "url": "https://www.facebook.com/p/Amnovis-100083007144956/",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis | Additive Manufacturing & Contract Manufacturing ... — Amnovis | Additive Manufacturing & Contract Manufacturing ... Amnovis https://www.amnovis.com",
+    "url": "https://www.amnovis.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing Services, Engineering & R&D - Amnovis — Additive Manufacturing Services, Engineering & R&D - Amnovis Amnovis https://www.amnovis.com > services",
+    "url": "https://www.amnovis.com/services",
+    "pass": 3
+   },
+   {
+    "quote": "Quality - Amnovis — Quality - Amnovis Amnovis https://www.amnovis.com > quality",
+    "url": "https://www.amnovis.com/quality",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis 社が信頼性の高いアプリケーションを促進するために — Amnovis 社が信頼性の高いアプリケーションを促進するために 3D Systems https://ja.3dsystems.com > プレスリリース",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis Expands to the US - 3DPrint.com — Amnovis Expands to the US - 3DPrint.com 3DPrint.com https://3dprint.com > amnovis-expan...",
+    "url": "https://3dprint.com/325721/amnovis-expands-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis - Aarschot - Instagram — Amnovis - Aarschot - Instagram Instagram https://www.instagram.com > amnovis",
+    "url": "https://www.instagram.com/amnovis/",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis | Additive Manufacturing & Contract Manufacturing ... — Amnovis combines additive manufacturing expertise, titanium 3D printing technology and contract manufacturing services to deliver high-end products for demanding medical and industrial applications.",
+    "url": "https://www.amnovis.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About Amnovis | Additive Manufacturing Experts — Learn about Amnovis, a leading additive manufacturing company founded by industry experts with decades of experience in engineering, medical devices and industrial manufacturing.",
+    "url": "https://www.amnovis.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis - Overview, News & Similar companies | ZoomInfo.com — View Amnovis (www.amnovis.com) location in Flanders, Belgium , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/amnovis-bv/556107539",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis - Employees, Contact info, Overview - Wiza — Mar 19, 2025 · Find employees, official website, emails, phone numbers, revenue, employee headcount, social accounts, and anything related to Amnovis.",
+    "url": "https://wiza.co/d/amnovis/79a5",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis Company Profile - Office Locations, Competitors ...Amnovis - Company Profile & Staff Directory | ContactOutAmnovis Information - RocketReach — See insights on Amnovis including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft. What is Amnovis's annual revenue? Amnovis generates an estimated $1M–$10M annually, based on industry analysis and publ",
+    "url": "https://craft.co/amnovis",
+    "pass": 3
+   }
+  ],
+  "採用・人数": [
+   {
+    "quote": "(ベルギーのアールスホットに拠点を置く積層造形および製造エンジニアリング企業) が 3D Systems の",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   },
+   {
+    "quote": "DMP Flex 350 Dual ソリューションを採用した結果、Amnovis 社は、シングルレーザ DMP Flex 350 と比較して、少なくとも 50% の生産性向上と低コスト化を実現しています",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis 社の創業者は、粉末床溶融結合法 (LPBF) テクノロジを採用して、整形外科用インプラントや脊椎インプラントなどのチタン製医療機器を積層造形によって製造した最初の企業のうちの 1 社でした",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   },
+   {
+    "quote": "当社独自のハードウェア、ソフトウェア、材料、およびサービスの製品により構成されるそれぞれの特定用途向けソリューションは、専門知識を駆使し、お客様と連携しながら製品とサービスの提供方法の変革に取り組んでいる当社のアプリケーションエンジニアにより実装されます",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   },
+   {
+    "quote": "ベルギーのアールスホットに拠点を置く Amnovis 社は、医療機器などのハイエンド用途向けに革新的な積層造形 (AM) テクノロジと材料を使用する製造エンジニアリング企業です",
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "AMNovis (@AMNOVIS) / X 0 followers · 0 following. Joined Aug 2013. See the latest conversations with @AMNOVIS",
+    "url": "https://x.com/amnovis",
+    "pass": 3
+   },
+   {
+    "quote": "AmnovisOfficial (@AmnovisOfficial) / X Driving innovation for AM contract manufacturing of high-end products.",
+    "url": "https://x.com/AmnovisOfficial",
+    "pass": 3
+   },
+   {
+    "quote": "AmnovisOfficial (@AmnovisOfficial) / X Are you a talented engineering student who is passionate about #additivemanufacturing? Challenge our unique #3dprinting capabilities by doing your bachelor or #masterthesis, #internship or #studentjob at @ AmnovisOfficial amnovis.com/jobs Get in touch: jobs@amnovis.com",
+    "url": "https://x.com/AmnovisOfficial",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Amnovis - LinkedIn Amnovis is an additive manufacturing production and engineering company that's built on no-nonsense entrepreneurship. At Amnovis, we believe the full potential of additive manufacturing can be ...",
+    "url": "https://www.linkedin.com/company/amnovis",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis on LinkedIn: Titanium 3D printing of medical devices ... We have exciting news: Amnovis is now FDA registered! From our ISO 13485 certified facility in Aarschot, Belgium, we are now making high quality titanium…",
+    "url": "https://www.linkedin.com/posts/amnovis_titanium-3d-printing-of-medical-devices-activity-7054058600419192832-OCTb",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Amnovis - Facebook May 17, 2022 · Amnovis. 3 followers · 1 talking about this. Science, Technology & Engineering",
+    "url": "https://www.facebook.com/p/Amnovis-100083007144956/",
+    "pass": 3
+   },
+   {
+    "quote": "Amnovis - Facebook May 17, 2022 · Amnovis. 2 likes. Science, Technology & Engineering ️ How does the regulatory framework relate to#AdditiveManufacturing when making high-end products for quality-critical applications such as",
+    "url": "https://www.facebook.com/100083007144956/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.amnovis.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amnovis.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amnovis.com/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amnovis.com/news/pr-260429",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amnovis.com/news/pr-251014",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amnovis.com/news/bonezone-article-on-amnovis-multi-metal-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amnovis.com/news/pr-240919",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amnovis.com/news/simplified-regulatory-submissions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amnovis.com/news/webinar-recording-by-diabatix-amnovis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amnovis.com/news/press-release-copper-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amnovis.com/news/press-release-nass-spinal-cages",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%82%A2%E3%83%B3%E3%83%8E%E3%83%93%E3%82%B9%E3%81%A8%E3%83%90%E3%83%BC%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB%E3%80%813d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8C%BB%E7%99%82%E6%A9%9F-2/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmp.co.jp/library/pdf/finance/2017-ren-2q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ags.co.jp/ir/library/securities/report_20210811_1q.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://be.linkedin.com/company/amnovis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://thespinemarketgroup.com/amnovis-celebrates-5-years-of-innovation-with-100000-3d-printed-implants-shipped/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quote.eastmoney.com/newstatic/html/profitchart_new.html?code=920268.BJ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jampt.jp/column/column_488/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data06/179.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%A6%8B%E7%A9%8D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/ja-jp/office-pipc-template/result.aspx?id=13281",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://at-workdocs.com/mitsumorisho/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/brand/interview/executive/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monoasu.jp/category/interview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/amnovis-bv/556107539",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://stockanalysis.com/stocks/anvs/employees/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wiza.co/d/amnovis/79a5",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/amnovis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AmnovisOfficial",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/amnovis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/amnovis_titanium-3d-printing-of-medical-devices-activity-7054058600419192832-OCTb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Amnovis-100083007144956/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100083007144956/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/amnovis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AmnovisOfficial",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Amnovis 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%82%A2%E3%83%B3%E3%83%8E%E3%83%93%E3%82%B9%E3%81%A8%E3%83%90%E3%83%BC%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB%E3%80%813d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8C%BB%E7%99%82%E6%A9%9F-2/",
+    "https://www.cmp.co.jp/ir/news/ir_news/20161028.html",
+    "https://www.ags.co.jp/ir/library/securities/report_20210811_1q.pdf",
+    "https://member.c.sbisec.co.jp/foreign/invest/us/stock/AMZN",
+    "https://takeuchi-global.prodsr.com/it/investor-relations/stock-bond-information/analyst-coverage",
+    "https://www.wealthadvisor.co.jp/FundData/SnapShot.do?fnc=2018021301",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250409_archive/f9f10x/140120250407510353.pdf",
+    "https://www.coinex.com/ja/information/news/6a979c25faeac230b7977b45",
+    "https://www.nomuraholdings.com/jp/services/global_research/zaikai/news2016102826/main/013/teaserItems1/0119/",
+    "https://ja.wikipedia.org/wiki/アンビスホールディングス"
+   ]
+  },
+  {
+   "query": "Amnovis 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.amnovis.com/about-us",
+    "https://be.linkedin.com/company/amnovis",
+    "https://thespinemarketgroup.com/amnovis-celebrates-5-years-of-innovation-with-100000-3d-printed-implants-shipped/",
+    "https://source.flandersinvestmentandtrade.com/2b4ab31d-6a90-4b12-8771-80a1cbf61c91/Belgium--Farnborough-International-Airshow/624d86d5-a3e0-f011-8544-000d3a66e1f6/Amnovis",
+    "https://www.facebook.com/p/Amnovis-100083007144956/",
+    "https://www.amnovis.com/news/press-release-iso13485",
+    "https://www.instagram.com/amnovis/",
+    "https://3dprint.com/325721/amnovis-expands-to-the-us/",
+    "https://www.linkedin.com/posts/orthoworx_innovation-has-no-border-and-amnovis-is-activity-7500259515456618496-JTyr",
+    "https://www.founded.com/"
+   ]
+  },
+  {
+   "query": "Amnovis 売上高 OR 年商",
+   "results": [
+    "https://www.amnovis.com/about-us",
+    "https://www.amnovis.com/",
+    "https://quote.eastmoney.com/newstatic/html/profitchart_new.html?code=920268.BJ",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-106740&report_id=106740&locale=de",
+    "https://www.spglobal.com/ratings/jp/regulatory/jpcr/-/pcr-details/pcrId/3569025/titleNum/51806",
+    "https://www.otcmarkets.com/financialReportViewer?symbol=EDWY&id=121731",
+    "https://the-shashi.com/tse/6436/financials/sales/",
+    "https://www.an.vc/jp/news/8xxvpj1oem",
+    "https://irbank.net/E01590/NetSales?t=Q3",
+    "https://ja.wikipedia.org/wiki/売上高"
+   ]
+  },
+  {
+   "query": "Amnovis 金属3Dプリンター 受託 売上",
+   "results": [
+    "https://jampt.jp/column/column_488/",
+    "https://news.sharelab.jp/category/3dp-news/report/",
+    "https://www.amnovis.com/services",
+    "https://idarts.co.jp/3dp/am-research-releases-q3-market-data/?srsltid=AYCX9vJMLZaz7ydcPTM324FEtOQK4zU4TGod82I0U1CrbAAUgWwuYNMK",
+    "http://3d.kinzoku-kakou-odec.com/column/column-702/",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%82%A2%E3%83%B3%E3%83%8E%E3%83%93%E3%82%B9%E3%81%A8%E3%83%90%E3%83%BC%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB%E3%80%813d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8C%BB%E7%99%82%E6%A9%9F-2/",
+    "https://optronics-media.com/monthly-post/97429/",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://straitsresearch.com/jp/report/metal-3d-printing-market",
+    "https://www.amnovis.com/"
+   ]
+  },
+  {
+   "query": "Amnovis 金属積層造形 台数 導入",
+   "results": [
+    "https://www.amnovis.com/quality",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data06/179.pdf",
+    "https://www.dmgmori.co.jp/sp/am/",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "https://jampt.jp/column/additive-manufacturing/",
+    "https://www.youtube.com/watch?v=VRRNEQb9oFA",
+    "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "https://taniobis.com/ja/industries/additive-manufacturing/"
+   ]
+  },
+  {
+   "query": "Amnovis 受注 量産 大型",
+   "results": [
+    "https://www.amnovis.com/quality",
+    "https://ja.3dsystems.com/press-releases/amnovis-selects-3d-systems-dual-laser-direct-metal-printing-solution-advance-high",
+    "https://www.amnovis.com/",
+    "https://3dprint.com/325721/amnovis-expands-to-the-us/",
+    "https://www.instagram.com/amnovis/",
+    "https://www.facebook.com/p/Amnovis-100083007144956/",
+    "https://www.voxelmatters.com/amnovis-establishes-us-operations-and-acquires-westconn-precision-technologies-am-activities/",
+    "https://www.tctmagazine.com/amnovis-acquires-westconn-precision-technologies-sets-up-north-american-operation/",
+    "https://dailycadcam.com/amnovis-acquires-westconns-am-activities-launches-us-operations/",
+    "https://www.amnovis.com/services/manufacturing"
+   ]
+  },
+  {
+   "query": "Amnovis 料金 OR 見積 OR 単価",
+   "results": [
+    "https://ja.wikipedia.org/wiki/見積",
+    "https://www.microsoft.com/ja-jp/office-pipc-template/result.aspx?id=13281",
+    "https://at-workdocs.com/mitsumorisho/",
+    "https://template-free.biz/見積書の文例テンプレート01（word・ワード）/",
+    "https://www.stock-app.info/media/estimate-sheet-template/",
+    "https://www.canva.com/ja_jp/create/mitsumorisho/",
+    "https://www.canva.com/ja_jp/templates/s/mitsumorisyo/",
+    "https://www.sigure.tw/dict/jp/見積",
+    "https://dict.asia/jc/見積もり"
+   ]
+  },
+  {
+   "query": "Amnovis 社長 インタビュー 日刊工業新聞",
+   "results": [
+    "https://www.nikkan.co.jp/brand/interview/executive/",
+    "https://www.amnovis.com/",
+    "https://www.monoasu.jp/category/interview",
+    "https://www.amnovis.com/about-us",
+    "https://www.monoasu.jp/shimen",
+    "https://www.dexerials.jp/news/2024/news24031.html",
+    "https://www.mki.co.jp/news/corporate/20260717-005973.html"
+   ]
+  },
+  {
+   "query": "Amnovis revenue employees",
+   "results": [
+    "https://www.zoominfo.com/c/amnovis-bv/556107539",
+    "https://stockanalysis.com/stocks/anvs/employees/",
+    "https://wiza.co/d/amnovis/79a5",
+    "https://compworth.com/company/annovis-bio",
+    "https://craft.co/amnovis",
+    "https://contactout.com/company/Amnovis-96242",
+    "https://rocketreach.co/amnovis-profile_b43782d1c1f31210"
+   ]
+  },
+  {
+   "query": "site:note.com Amnovis",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/dots",
+    "https://note.com/wise_turtle184",
+    "https://note.com/tag/工藤公康",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/pocoa_420/n/nd821ea2e3c62",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ]
+  },
+  {
+   "query": "site:x.com Amnovis",
+   "results": [
+    "https://x.com/amnovis",
+    "https://x.com/USCorpFilings/status/2116281699369955758",
+    "https://x.com/AmnovisOfficial",
+    "https://x.com/fastmoneysource/status/2116611164238946595",
+    "https://x.com/sales_js/status/2116868294732808205",
+    "https://x.com/Ro01665211Angel",
+    "https://x.com/lovergrl2002/status/2114215220327678069"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Amnovis",
+   "results": [
+    "https://www.linkedin.com/company/amnovis",
+    "https://www.linkedin.com/company/annovis-bio-inc/",
+    "https://www.linkedin.com/in/alexander-morin-phd-134b0918a",
+    "https://www.linkedin.com/posts/amnovis_titanium-3d-printing-of-medical-devices-activity-7054058600419192832-OCTb",
+    "https://www.linkedin.com/in/maria-l-maccecchini",
+    "https://www.linkedin.com/in/cheng-fang-annovisbio",
+    "https://www.linkedin.com/check/en"
+   ]
+  },
+  {
+   "query": "site:facebook.com Amnovis",
+   "results": [
+    "https://www.facebook.com/p/Amnovis-100083007144956/",
+    "https://www.facebook.com/100083007144956/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/anovis/",
+    "https://www.facebook.com/p/Annovis-Bio-Inc-61578167623085/",
+    "https://www.facebook.com/AnnovisBioInc/"
+   ]
+  },
+  {
+   "query": "Amnovis note 社長",
+   "results": [
+    "https://www.amnovis.com/about-us",
+    "https://www.amnovis.com/",
+    "https://3dheals.com/interview-with-ruben-wauthle-ceo-amnovis/",
+    "https://www.tctmagazine.com/podcasts/241-amnovis-ceo-ruben-wauthle-we-want-to-redefine-the-state-of-the-art-in-additive-manufacturing/",
+    "https://thespinemarketgroup.com/amnovis-expands-to-the-united-states-and-acquires-westconn-precision-technologies-additive-manufacturing-activities/",
+    "https://www.tctmagazine.com/amnovis-acquires-westconn-precision-technologies-sets-up-north-american-operation/",
+    "https://theorg.com/org/amnovis/org-chart/ruben-wauthle"
+   ]
+  },
+  {
+   "query": "Amnovis X 投稿",
+   "results": [
+    "https://x.com/amnovis",
+    "https://x.com/AmnovisOfficial",
+    "https://www.amnovis.com/",
+    "https://jp.xhamster.com/videos/jpn-amateur-filmed-by-non-professionals-3858358",
+    "https://www.xvideos.com/tags/夫婦",
+    "https://jp.xhamster.com/search/japanese+素人+投稿",
+    "https://www.xvideos.com/?k=素人投稿無修正"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部27頁・検索15回）",
+  "資本金": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部27頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部27頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部27頁・検索15回）",
+  "事業内容": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部27頁・検索15回）",
+  "保有設備": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部27頁・検索15回）",
+  "認証": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部27頁・検索15回）",
+  "株主構成": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部27頁・検索15回）",
+  "料金・単価": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部27頁・検索15回）"
+ }
+}

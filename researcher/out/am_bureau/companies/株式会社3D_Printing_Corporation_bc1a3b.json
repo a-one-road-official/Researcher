@@ -1,0 +1,1424 @@
+{
+ "name": "株式会社3D Printing Corporation",
+ "aliases": [
+  "3DPC",
+  "DDD JAPAN"
+ ],
+ "context": "国内・受託製造",
+ "researched_at": "2026-11-04T10:33:27.715927+00:00",
+ "official_url": "https://dddjapan.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "株主構成": [
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   },
+   {
+    "quote": "株主総会日をチェック",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待検索",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待検索を使う",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   },
+   {
+    "quote": "株主総会スケジュール",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   },
+   {
+    "quote": "Late in the quarter, the company made major changes to its finances. It paid off $88 million in debt, pushed most of its remaining debt payments out to 2030, and bought back 8 million shares to give existing shareholders a larger stake in the company. CEO",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   }
+  ],
+  "設備台数": [
+   {
+    "quote": "保有している株式、投資信託、現預金を5フォルダに分けて登録しておくことで、効率よく資産管理ができます",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   },
+   {
+    "quote": "has been associated with machines low in price or capability.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "The technology used by most 3D printers to date—especially hobbyist and consumer-oriented models—is",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "In 2005 users began to design and distribute plans for 3D printers that could print around 70% of their own parts, the original plans of which were designed by",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "As the price of printers started to drop people interested in this technology had more access and freedom to make what they wanted. As of 2014, the price for commercial printers was still high with the cost being over $2,000.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2020, 3D printers have reached the level of quality and price that allows most people to enter the world of 3D printing. In 2020 decent quality printers can be found for less than US$200 for entry-level machines. These more affordable printers are usually",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "(FDM) printers.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "FDM printers",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": ", although some machines can print layers as thin as",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "laser printers",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "Some commercial metal 3D printers involve cutting the metal component off the metal substrate after deposition. A new process for the",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "The most common polymers for personal 3D printers are",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "uses high-end 3D printers to build parts for",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "has begun to work with 3D printers, and the",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "In the not-so-distant future, 3D printers are expected to reach hospitals and pharmacies in order to provide on-demand production of personalized formulations according to the patients' needs.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "3D printers were used to supplement the strained supply of",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "through volunteers using their personally owned printers to produce various pieces of personal protective equipment (i.e. frames for face shields).",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing, and open source 3D printers, in particular, are the latest technologies making inroads into the classroom.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "Higher education has proven to be a major buyer of desktop and professional 3D printers which industry experts generally view as a positive indicator.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "Some authors have claimed that 3D printers offer an unprecedented \"revolution\" in",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, libraries around the world have also become locations to house smaller 3D printers for educational and community access.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "Many Europeans and North American Museums have purchased 3D printers and actively recreate missing pieces of their relics",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "have started using their 3D printers to create museum souvenirs that are available in the museum shops.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "Off-the-shelf machines were increasingly capable of producing practical household applications, for example, ornamental objects. Some practical examples include a working clock",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "printed for home woodworking machines among other purposes.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2017, domestic 3D printing was reaching a consumer audience beyond hobbyists and enthusiasts. Several projects and companies are making efforts to develop affordable 3D printers for home desktop use. Much of this work has been driven by and targeted at",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "3D printers",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore all 3D printers",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "S series 3D printers",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "All S series printers",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "The first 3D printers",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Since the rise of commercial 3D printers, the landscape of the industry has changed quite drastically. Now, 3D printers – both desktop and otherwise – are used in industries and sections such as aerospace, architecture, manufacturing, automotive, healthcare, construction – and, of course, many more.",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimaker grew out of the Protospace FabLab in Utrecht, the Netherlands, in 2011. It started as a project between a few friends trying to make a 3D printer that would deliver accurate, useful parts without the costs and hassle that comes with larger industrial additive machines.",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover UltiMaker 3D Printers",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "An ecosystem of 3D printers. From desktop to industrial, find a platform that will work for you. UltiMaker 3D printers offer the widest range of materials and applications across a multitude of segments. Find yours today.",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore 3D printers",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Factor series printers",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "S series printers",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "For Factor series printers",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "For S series printers",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "For Method series printers",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printers",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Upgrade your classroom with reliable 3D printers used across 10,000+ schools.",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Sketch series 3D printers",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced 3D printers",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Efficiently manage your 3D printers, queue up student projects, and even monitor ongoing prints remotely.",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "For advanced users looking to get the most custom control over their 3D printers.",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Factory is an all-in-one 3D printing platform for managing student submissions, printers, and projects from any device",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Carl Deckard at the University of Texas, pioneered an alternative method of 3D printing called the Selective Laser Sintering (SLS) RP process. It used a laser to turn loose powder into a solid. It was not until 2006 that SLS machines became commercially viable, which created new opportunities in manufacturing.",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "The idea behind it was to democratize 3D printing by making the technology available to people around the world – friends could print 3D printers for their friends.",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": ", bringing 3D printing to a wider audience. Instead of giving people their own 3D printers, Shapeways had users submit their own files which the company printed and shipped back.",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Kickstarter launched. The crowdfunding site quickly became a huge money-raising platform for a large number of 3D printers. Some crashed and burned, others became major players in the printing industry. The most funded Kickstarter 3D printer project was",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "launched and helped bring 3D printing technology into the mainstream. Building on the success of RepRap, MakerBot made open-source DIY kits for people wanting to build their own 3D printers or 3D printed products. The company also created the online file library,",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "From 3D printed houses to and printing in space, to 3D printed living tissue, breakthroughs in 3D printers and 3D printing are happening faster than ever before. 3D printing is quickly expanding into diverse facets of our society such as manufacturing, medicine, education, aerospace, fine jewelry, and more.",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printers",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Printers",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "To ensure everyone can use the garage printers comfortably, there are a few simple rules.",
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I'm interested in 3D printers, but CAD seems difficult, so I can't get started. Or, I bought one, but I end up only printing downloaded models. I think there are really many people like that.",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Output formats include STL, OBJ, FBX, GLB, and 3MF. All the formats used in 3D printers are covered. And personally, what I recommend most is the existence of a free quota. There is a free quota of 300 credits per month, which is enough to try it out lightly.",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On this channel, I provide daily updates on technologies centered around 3D printers like the Bambu Lab A1 mini. See you next time, this was Ma-.",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "医薬品・医療介護",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace regulation",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": ", created at the newly opened Bristol 3D Medical Center at North Bristol NHS Trust. Led by senior reconstructive scientist Amy Davey, the process used advanced scanning and medical-grade resins to replicate his facial features after severe burns. It marked a milestone in integrated medical 3D-printing facilities in the UK.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "Nonetheless, in the medical industry, a concept of 3D-printed pills and vaccines has been presented.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing or additive manufacturing has been used in manufacturing, medical, industry and sociocultural sectors (e.g. cultural heritage) to create successful commercial technology.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "More recently, 3D printing has also been used in the humanitarian and development sector to produce a range of medical items, prosthetics, spares and repairs.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Distributed",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "After Defense Distributed released their plans, questions were raised regarding the effects that 3D printing and widespread consumer-level",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing is not just limited to inorganic materials; there have been a number of biomedical advancements made possible by 3D printing.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing has also been used for medical equipment. During the",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "After the US government had Defense Distributed take down the plans, they were still widely available via the",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "aerospace",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "\"Aviation and Aerospace Industry\"",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "\"North Bristol NHS Trust opens a new Bristol 3D Medical Centre\"",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "The International Journal of Medical Robotics and Computer Assisted Surgery",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": ". fiercemedicaldevices.com.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "\"RFA-HD-15-023: Use of 3-D Printers for the Production of Medical Devices (R43/R44)\"",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "\"Wishful Thinking Is Control Freaks' Last Defense Against 3D-Printed Guns\"",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "\"How Defense Distributed Already Upended the World\"",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "\"Gun factory fears as 3D blueprints put online by Defense Distributed\"",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "\"FAA prepares guidance for wave of 3D-printed aerospace parts\"",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "\"Review: The Impact of Metal Additive Manufacturing on the Aerospace Industry\"",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "al. (2015). \"Strict Liability and 3D-Printed Medical Devices\".",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "Defense",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Keeping defense assets operational",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense applications",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Since the rise of commercial 3D printers, the landscape of the industry has changed quite drastically. Now, 3D printers – both desktop and otherwise – are used in industries and sections such as aerospace, architecture, manufacturing, automotive, healthcare, construction – and, of course, many more.",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing technology also enables organizations like Gerhard Schubert GmbH to transform the ways in which they operate, creating \"digital warehouses\" of parts and tools that can be printed on-demand by both manufacturing organizations themselves, as well as their customers.",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "From 3D printed houses to and printing in space, to 3D printed living tissue, breakthroughs in 3D printers and 3D printing are happening faster than ever before. 3D printing is quickly expanding into diverse facets of our society such as manufacturing, medicine, education, aerospace, fine jewelry, and more.",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Bioprinting, Medical and Dental",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "Meanwhile, its Industrial Solutions segment — covering 3D printing systems, materials, and services for aerospace, defense, automotive, and other manufacturing sectors — dropped 23% to $49.8 million, pointing to reduced capital spending in markets that sell directly to consumers.",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "So, while overall revenue was down, some areas showed strong growth. Medical Technology sales, especially in orthopedic procedures and trauma-related surgeries, rose 13% year-over-year and 16% from the previous quarter. Aerospace and Defense sales jumped 84% compared to Q2 2024 and 53% from Q1 2025, now generating over $30 million annually.",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems creates implantable medical devices. Image courtesy of 3D Systems.",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "aerospace 3d printing",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "medical 3d printing",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace 3D Printing",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   }
+  ],
+  "採用・人数": [
+   {
+    "quote": "日経平均採用銘柄一覧",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   },
+   {
+    "quote": "日経平均株価に採用されている銘柄の株価を業種ごとに一覧で確認できます",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   },
+   {
+    "quote": "日経平均採用銘柄一覧を見る",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名や証券コード以外にも優待の種類やキーワードで検索できます",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   },
+   {
+    "quote": "日経平均採用の株価",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   },
+   {
+    "quote": "本社採用案内",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3D Printing ETF, The 株価[PRNT/3D PrintingETF]最新ニュース ... — 3D Printing ETF, The 株価[PRNT/3D PrintingETF]最新ニュース ... 日本経済新聞 https://www.nikkei.com > nkd > company > PRNT",
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing - Wikipedia — 3D printing - Wikipedia Wikipedia https://en.wikipedia.org > 3D_printing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "The complete history of 3D printing - UltiMaker — The complete history of 3D printing - UltiMaker UltiMaker https://ultimaker.com > learn > the-co...",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "The History of 3D Printing | MakerBot — The History of 3D Printing | MakerBot MakerBot https://www.makerbot.com > stories",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "History of 3D Printing | Makerspace — History of 3D Printing | Makerspace Lawrence University https://blogs.lawrence.edu > history",
+    "url": "https://blogs.lawrence.edu/makerspace/history/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing : Fabricating the Future - NSF Impacts — 3D Printing : Fabricating the Future - NSF Impacts U.S. National Science Foundation (.gov) https://www.nsf.gov > 3d-printing",
+    "url": "https://www.nsf.gov/impacts/3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター のビジネスで、どれくらいのマージンを絞り ... — 3Dプリンター のビジネスで、どれくらいのマージンを絞り ... Reddit https://www.reddit.com > 3Dprinting > comments > what_...",
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1eff10w/what_margin_have_you_been_able_to_squeeze_out_of/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント サービスの 料金 って、どれくらいが妥当？ - Reddit — 3Dプリント サービスの 料金 って、どれくらいが妥当？ - Reddit Reddit https://www.reddit.com > 3Dprinting > comments > whats...",
+    "url": "https://www.reddit.com/r/3Dprinting/comments/15jd88l/whats_a_fair_cost_for_3d_printing_services/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Most money made from a 3D printing business - Reddit — Most money made from a 3D printing business - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/3DprintEntrepreneurs/comments/1m4ik9b/what_is_the_most_money_you_have_made_from_your_3d/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Market Size, Share, Industry Trends Report, 2034 — 3D Printing Market Size, Share, Industry Trends Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/3d-printing-market-101902",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Business Income Revealed 2024 - YouTube — 3D Printing Business Income Revealed 2024 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Gqkes5ERCTk",
+    "pass": 3
+   }
+  ],
+  "売上・受託売上": [
+   {
+    "quote": "an estimated 2 million people worldwide have purchased a 3D printer for hobby use.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "Contact sales",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Financials: 3D Systems Turns Profit Amid Revenue Decline - 3DPrint.com | Additive Manufacturing Business",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Financials: 3D Systems Turns Profit Amid Revenue Decline",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": ") has reported its financial results for the second quarter of 2025, showing a drop in revenue but a sharp improvement in profitability, driven by cost reductions, efficiency gains, and strong performance in key markets.",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Down, But Margins Improve",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "Meanwhile, its Industrial Solutions segment — covering 3D printing systems, materials, and services for aerospace, defense, automotive, and other manufacturing sectors — dropped 23% to $49.8 million, pointing to reduced capital spending in markets that sell directly to consumers.",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to the sales decline, gross profit margin was 38.1%, down slightly from 41.6% a year earlier. On an adjusted basis, it was 39.2%. The company said the decline was partly due to a less favorable product mix following the",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems reported net income of $104.4 million, a major turnaround from a $27.3 million loss in Q2 2024. This change was the result of stronger operations, a $125.7 million pre‑tax gain from selling the Geomagic business, and an $8.2 million gain from repurchasing debt at a discount.",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "Late in the quarter, the company made major changes to its finances. It paid off $88 million in debt, pushed most of its remaining debt payments out to 2030, and bought back 8 million shares to give existing shareholders a larger stake in the company. CEO",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "Operating expenses fell to $51.5 million from $73.5 million last year, thanks to restructuring moves announced in March. These included consolidating operations, cutting workforce costs, and other efficiency programs. The company said it saved over $20 million in operating expenses during the quarter and expects the cost-cutting plan to continue into mid-2026.",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "So, while overall revenue was down, some areas showed strong growth. Medical Technology sales, especially in orthopedic procedures and trauma-related surgeries, rose 13% year-over-year and 16% from the previous quarter. Aerospace and Defense sales jumped 84% compared to Q2 2024 and 53% from Q1 2025, now generating over $30 million annually.",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": ". Consumer-related industrial sales also suffered from weaker customer capital spending, which 3D Systems attributed to uncertainty around tariffs.",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": ", which aims to develop 3D printed human lungs for transplant. The project, part of United Therapeutics’ broader regenerative medicine program, reached a new printing benchmark for human lung scaffolds in the quarter, resulting in a $2 million award for 3D Systems.",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "At the end of June, the company had $116.4 million in cash and cash equivalents, down from $171.3 million at the end of 2024. The drop was mainly due to $59.6 million used in operations and $97.3 million used in financing activities, partially offset by $112.9 million from investing activities.",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Financials: 6K Additive’s Orders Surge as Revenue Climbs 61%",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive (ASX: 6KA) reported higher revenue and a record order backlog in its latest quarterly results, as growing demand for metal powders continues to push the company to expand...",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "With the 3.0 update, the quality has improved significantly, with sharper edges and a cleaner surface. The fidelity of PBR textures has also improved. It is used by over 3 million people worldwide and is a very robust tool.",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   }
+  ],
+  "料金・単価": [
+   {
+    "quote": "has been associated with machines low in price or capability.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "As the price of printers started to drop people interested in this technology had more access and freedom to make what they wanted. As of 2014, the price for commercial printers was still high with the cost being over $2,000.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2020, 3D printers have reached the level of quality and price that allows most people to enter the world of 3D printing. In 2020 decent quality printers can be found for less than US$200 for entry-level machines. These more affordable printers are usually",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "Sped on by decreases in price and increases in quality,",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "\"3D Printer Price: How Much Does a 3D Printer Cost?\"",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "Request a quote",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Request A Quote",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Request a quote",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Instant 3D Printing Quote",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "If you join a paid plan, the number of generations increases and the resolution improves. Each company charges from around 1,000 yen per month. Considering it's the price of 3 or 4 cups of coffee at a convenience store, I think it's a very realistic price for an AI generation tool.",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   }
+  ],
+  "最大案件・量産": [
+   {
+    "quote": "On 27 July 1971, Johannes F Gottwald received U.S. patent 3596285A for the \"Liquid Metal Recorder\", after applying on 11 July 1969",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "is looking into the technology in order to create 3D-printed food to limit",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "In the not-so-distant future, 3D printers are expected to reach hospitals and pharmacies in order to provide on-demand production of personalized formulations according to the patients' needs.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "\"US3596285A - Liquid metal recorder\"",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "To understand user behavior in order to provide you with a more relevant browsing experience or",
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "To understand user behavior in order to provide you with a more relevant browsing experience or",
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": ", which aims to develop 3D printed human lungs for transplant. The project, part of United Therapeutics’ broader regenerative medicine program, reached a new printing benchmark for human lung scaffolds in the quarter, resulting in a $2 million award for 3D Systems.",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Financials: 6K Additive’s Orders Surge as Revenue Climbs 61%",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive (ASX: 6KA) reported higher revenue and a record order backlog in its latest quarterly results, as growing demand for metal powders continues to push the company to expand...",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": ", you convert it into instructions the printer can understand (where and in what order to place the plastic).This task is called \"",
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article will also proceed in the order of these three steps.",
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There are three main methods. For beginners, it is recommended to try them in order from the top.",
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "pass": 3
+   }
+  ],
+  "発言": [
+   {
+    "quote": "Late in the quarter, the company made major changes to its finances. It paid off $88 million in debt, pushed most of its remaining debt payments out to 2030, and bought back 8 million shares to give existing shareholders a larger stake in the company. CEO",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   },
+   {
+    "quote": ", which had focused on production-scale bioprinted tissue models. Taci Pereira, who led Systemic Bio, has since left the company and is now CEO of",
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The ABCs of 3D Printing : A Beginner's Guide to Bambu Lab The ABCs of 3D Printing : A Beginner's Guide to Bambu Lab note https://note.com > DIY > 電子工作",
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing from Photos on MakerWorld! A Thorough Guide to ... 3D Printing from Photos on MakerWorld! A Thorough Guide to ... note https://note.com > ... > AI・機械学習",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "The ABCs of 3D Printing: A Beginner's Guide to Bambu Lab｜ガレメン（Garage members）",
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The ABCs of 3D Printing: A Beginner's Guide to Bambu Lab",
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"3D printing seems kind of difficult...\"",
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Are you thinking that and walking right past the printer in the garage?",
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing allows you to create three-dimensional objects by stacking materials like resin or metal layer by layer.",
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Once you learn how to use it, it's a plus-one item that makes your daily life a little more fun through making things✨",
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Actually, the 3D printing process is just",
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Once you grasp the basics, even a beginner can experience \"seeing their own data take shape\" on the very same day.",
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing from Photos on MakerWorld! A Thorough Guide to AI Features You Can Start Without CAD: Meshy, Tripo, and Hunyuan Usage Guide｜まー＠健康・3Dプリンタ・生成AI",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing from Photos on MakerWorld! A Thorough Guide to AI Features You Can Start Without CAD: Meshy, Tripo, and Hunyuan Usage Guide",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Just upload a photo taken with your smartphone to complete a 3D model, and multi-color separation is now quite easy. We have summarized everything about the AI generation features added to Bambu Lab's MakerWorld, including how to choose between them, pricing, and commercial use.",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "👇 Also explained in audio",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://open.spotify.com/show/7FvjC906Pe3lP1qWgKlpKO?si=ABnNL5IJTO2XQlZFIE_hxg",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "👇 Click here for the YouTube video version",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.youtube.com/@3dbox203",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I'm interested in 3D printers, but CAD seems difficult, so I can't get started. Or, I bought one, but I end up only printing downloaded models. I think there are really many people like that.",
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "3D Printing Nerd™ (@3dprintingnerd) / X 3D Printing Nerd™ (@3dprintingnerd) / X X https://x.com > 3dprintingnerd",
+    "url": "https://x.com/3dprintingnerd",
+    "pass": 3
+   },
+   {
+    "quote": "Joel Telling - 3D Printing Nerd (@joeltelling) / X Joel Telling - 3D Printing Nerd (@joeltelling) / X X https://x.com > joeltelling",
+    "url": "https://x.com/joeltelling",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Understanding 3D Printing : Applications, Benefits, and Future ... Understanding 3D Printing : Applications, Benefits, and Future ... LinkedIn https://www.linkedin.com > pulse > u...",
+    "url": "https://www.linkedin.com/pulse/understanding-3d-printing-applications-benefits-future-impact-v7rzc",
+    "pass": 3
+   },
+   {
+    "quote": "The 3D printing process - Additive Manufacturing - LinkedIn The 3D printing process - Additive Manufacturing - LinkedIn LinkedIn https://www.linkedin.com > the-3d-printing-process",
+    "url": "https://www.linkedin.com/learning/additive-manufacturing-optimizing-3d-prints-23311157/the-3d-printing-process",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Online Training Courses | LinkedIn Learning ... 3D Printing Online Training Courses | LinkedIn Learning ... LinkedIn https://www.linkedin.com > 3d-printing",
+    "url": "https://www.linkedin.com/learning/topics/3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing - LinkedIn 3D Printing - LinkedIn LinkedIn https://www.linkedin.com > 3d-printing",
+    "url": "https://www.linkedin.com/company/3d-printing",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "3D Printing Community ⚙️ - Facebook 3D Printing Community ⚙️ - Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/482533505156388/",
+    "pass": 3
+   },
+   {
+    "quote": "3d Printing for Beginners and Pros | Facebook 3d Printing for Beginners and Pros | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/3dprintingforbeginnersandpros/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://dddjapan.com/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://kabutan.jp/themes/?theme=3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/ir_management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/settlement-2021-220322/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/22389/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-101902",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9277/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifukuseimitsu.com/3d-top/knowledge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ge.com/news/press-releases/ge-additive-accepts-the-worlds-largest-metal-3d-printers/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/divergent-technologies-monolith-one/?srsltid=AYCX9vIsLrXQ6GvN5MttR2g8dveFuW3pWMt1irywDvfbFpiF-vOpNsXD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://make.dmm.com/print/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/jp/3d-printing-quote",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.digimode.jp/user_data/price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://make.dmm.com/print/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/761164",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/755011",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/752828",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/3DprintEntrepreneurs/comments/1m4ik9b/what_is_the_most_money_you_have_made_from_your_3d/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ibisworld.com/united-states/employment/3d-printer-manufacturing/4428/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/3dprintingnerd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/joeltelling",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/understanding-3d-printing-applications-benefits-future-impact-v7rzc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/learning/additive-manufacturing-optimizing-3d-prints-23311157/the-3d-printing-process",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/learning/topics/3d-printing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/3d-printing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/482533505156388/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/3dprintingforbeginnersandpros/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/3dprintingnerd",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "3D Printing 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://kabutan.jp/themes/?theme=3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://www.nikkei.com/nkd/company/us/PRNT/",
+    "https://www.jmc-rp.co.jp/ir_management/",
+    "https://news.sharelab.jp/3dp-news/ir/extrabold-mitsuichemicals-231101/",
+    "https://sekapri.com/business/20221207-15313/",
+    "https://www.rakuten-sec.co.jp/web/special/3d_printer/",
+    "https://www.toyoda-gosei.co.jp/news/details.php?id=1375",
+    "https://tomoruba.eiicon.net/articles/2606",
+    "https://minkabu.jp/theme/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "3D Printing 設立 OR 創業 OR founded",
+   "results": [
+    "https://en.wikipedia.org/wiki/3D_printing",
+    "https://ultimaker.com/learn/the-complete-history-of-3d-printing/",
+    "https://www.makerbot.com/stories/history-of-3d-printing/",
+    "https://blogs.lawrence.edu/makerspace/history/",
+    "https://www.nsf.gov/impacts/3d-printing",
+    "https://bcn3d.com/the-history-of-3d-printing-when-was-3d-printing-invented/",
+    "https://www.linkedin.com/posts/pawel-m-slusarczyk_11-years-ago-creality-3d-was-founded-activity-7315684037002416131-S31a",
+    "https://www.founded.com/",
+    "https://www.founded.com/about/",
+    "https://foundedoutdoors.com/"
+   ]
+  },
+  {
+   "query": "3D Printing 売上高 OR 年商",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/ir/settlement-2021-220322/",
+    "https://36kr.jp/22389/",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-101902",
+    "https://www.tctmagazine.com/context-global-3d-printer-revenues-rise-31-year-on-year/",
+    "https://www.reddit.com/r/3Dprinting/comments/1eff10w/what_margin_have_you_been_able_to_squeeze_out_of/?tl=ja",
+    "https://www.sbbit.jp/article/st/137169",
+    "https://www.mordorintelligence.com/ja/industry-reports/3d-printing-market",
+    "https://finance.yahoo.com/news/3d-printing-market-size-exceed-150000314.html",
+    "https://www.investopedia.com/articles/investing/081515/three-biggest-3d-printing-companies.asp",
+    "https://ja.wikipedia.org/wiki/売上高"
+   ]
+  },
+  {
+   "query": "3D Printing 金属3Dプリンター 受託 売上",
+   "results": [
+    "https://metoree.com/categories/9277/",
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://rightmfg.co.jp/lp/m3dp.html",
+    "https://jampt.jp/column/metal-3d-printing-service/",
+    "https://j3d.co.jp/3dprinter/",
+    "https://www.reddit.com/r/3Dprinting/comments/1eff10w/what_margin_have_you_been_able_to_squeeze_out_of/?tl=ja",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing"
+   ]
+  },
+  {
+   "query": "3D Printing 金属積層造形 台数 導入",
+   "results": [
+    "https://jampt.jp/equipment/",
+    "https://www.ifukuseimitsu.com/3d-top/knowledge/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.nttdata-xam.com/eos-m/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.businessresearchinsights.com/jp/market-reports/metal-3d-printer-market-127547",
+    "https://www.youtube.com/watch?v=snJAXXU1cSk",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html"
+   ]
+  },
+  {
+   "query": "3D Printing 受注 量産 大型",
+   "results": [
+    "https://www.ge.com/news/press-releases/ge-additive-accepts-the-worlds-largest-metal-3d-printers/jp",
+    "https://idarts.co.jp/3dp/divergent-technologies-monolith-one/?srsltid=AYCX9vIsLrXQ6GvN5MttR2g8dveFuW3pWMt1irywDvfbFpiF-vOpNsXD",
+    "https://make.dmm.com/print/",
+    "https://www.youtube.com/watch?v=euqt_u0oi0w",
+    "https://mono.ipros.com/cg2/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/%E9%87%8F%E7%94%A3/",
+    "https://www.reddit.com/r/3Dprinting/comments/1evha85/is_3d_printing_good_for_mass_production/?tl=ja",
+    "https://kikaicatalog.com/matome/3d-printer-mass-production/",
+    "https://formlabs.com/jp/blog/low-volume-additive-manufacturing-with-fuse-series/",
+    "https://jlc3dp.com/jp/blog/large-scale-3d-printing-service-guide",
+    "https://3d-with.com/business/large-format-printing"
+   ]
+  },
+  {
+   "query": "3D Printing 料金 OR 見積 OR 単価",
+   "results": [
+    "https://jlc3dp.com/jp/3d-printing-quote",
+    "https://store.digimode.jp/user_data/price",
+    "https://make.dmm.com/print/",
+    "https://oa-kanji.com/posts/3d-print-service-price",
+    "https://www.reddit.com/r/3Dprinting/comments/15jd88l/whats_a_fair_cost_for_3d_printing_services/?tl=ja",
+    "https://3dpst.com/guide/prices",
+    "https://3d-modely.com/blog/3d-printer/3d-printer-ordering/",
+    "https://www.kakounet.com/3d/print/price.html",
+    "https://jlcpcb.com/jp/3d-printing",
+    "https://skhonpo.com/blogs/3dprinter-practice/service7"
+   ]
+  },
+  {
+   "query": "3D Printing 社長 インタビュー 日刊工業新聞",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/761164",
+    "https://www.nikkan.co.jp/articles/view/755011",
+    "https://www.nikkan.co.jp/articles/view/752828",
+    "http://sp.nikkan.co.jp/3d/",
+    "https://kusakabe-kikai.jp/2019/06/24/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%B8%E7%A4%BE%E9%95%B7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C-2/",
+    "https://newswitch.jp/keyword/detail/38372",
+    "https://www.youtube.com/watch?v=URUyqAg0jdY",
+    "https://www.nikkei.com/article/DGXZQOUC10C1G0Q6A610C2000000/",
+    "https://yamaichi-hagane.jp/news/detail/133/",
+    "https://www.nikkan.co.jp/"
+   ]
+  },
+  {
+   "query": "3D Printing revenue employees",
+   "results": [
+    "https://www.reddit.com/r/3DprintEntrepreneurs/comments/1m4ik9b/what_is_the_most_money_you_have_made_from_your_3d/",
+    "https://www.ibisworld.com/united-states/employment/3d-printer-manufacturing/4428/",
+    "https://3dprint.com/319928/3d-printing-financials-3d-systems-turns-profit-amid-revenue-decline/",
+    "https://www.fortunebusinessinsights.com/industry-reports/3d-printing-market-101902",
+    "https://www.youtube.com/watch?v=Gqkes5ERCTk",
+    "https://www.quora.com/How-much-can-we-earn-by-starting-3D-printing-services",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-market-report",
+    "https://www.finnegan.com/en/insights/articles/3d-printing-new-jobs.html",
+    "https://www.smarthelping.com/2023/04/how-much-money-can-you-make-from-3d.html"
+   ]
+  },
+  {
+   "query": "site:note.com 3D Printing",
+   "results": [
+    "https://note.com/p_modellabo/n/nbfd87c8ae69d?hl=en",
+    "https://note.com/mar810/n/ndb9f818dcb45?hl=en",
+    "https://note.com/aobayama_garege/n/n5100557e43f9?hl=en",
+    "https://note.com/mar810/n/n49b9690d4b8b?hl=en",
+    "https://note.com/kagawatomo/n/nf65a446ed216?hl=en",
+    "https://note.com/teruemon/n/n6caa15166291?hl=en",
+    "https://note.com/p_modellabo/n/n0de3574efeaf?hl=en",
+    "https://note.com/triplebottomline/n/nf7e2daffacd8?hl=en",
+    "https://note.com/polyuse3dp/n/n75e69f1793dc?hl=en",
+    "https://note.com/p_modellabo/n/nd475240798e3?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com 3D Printing",
+   "results": [
+    "https://x.com/3dprintingnerd",
+    "https://x.com/Ultimaker",
+    "https://x.com/josefprusa/status/1988548076500295830",
+    "https://x.com/joeltelling",
+    "https://x.com/3dpdoctor",
+    "https://x.com/3DPrintGeneral",
+    "https://x.com/3dprintindustry",
+    "https://x.com/elonmusk/status/2096295397744382322",
+    "https://x.com/josefprusa/status/2054602357888127368",
+    "https://x.com/oprydai/status/2110669840222687429"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 3D Printing",
+   "results": [
+    "https://www.linkedin.com/pulse/understanding-3d-printing-applications-benefits-future-impact-v7rzc",
+    "https://www.linkedin.com/learning/additive-manufacturing-optimizing-3d-prints-23311157/the-3d-printing-process",
+    "https://www.linkedin.com/learning/topics/3d-printing",
+    "https://www.linkedin.com/company/3d-printing",
+    "https://www.linkedin.com/products/categories/3d-printing-software",
+    "https://www.linkedin.com/pulse/how-use-blender-3d-printing-practical-guide-2025-vagon-0vaoc",
+    "https://ca.linkedin.com/in/nickparkerprint",
+    "https://www.linkedin.com/posts/grishinrobotics_3d-printing-may-have-just-crossed-an-important-activity-7475157413445427200-EjqH",
+    "https://www.linkedin.com/pulse/7-amazing-real-world-examples-3d-printing-2018-bernard-marr",
+    "https://www.linkedin.com/learning/learning-3d-printing-8992447/how-3d-printing-works"
+   ]
+  },
+  {
+   "query": "site:facebook.com 3D Printing",
+   "results": [
+    "https://www.facebook.com/groups/482533505156388/",
+    "https://www.facebook.com/groups/3dprintingforbeginnersandpros/",
+    "https://www.facebook.com/PrusaResearch/posts/3d-printers-printing-3d-printers-that-idea-goes-all-the-way-back-to-the-roots-of/1078816637993732/",
+    "https://www.facebook.com/t-pain/videos/the-3d-print-lab-twitch-twitchstreamer-streaming/2332841377532275/",
+    "https://www.facebook.com/groups/pdx3dplab/",
+    "https://www.facebook.com/groups/573138351904168/",
+    "https://www.facebook.com/groups/iloveto3dprint/",
+    "https://www.facebook.com/groups/3041147622853548/",
+    "https://www.facebook.com/cesarsminifactory/",
+    "https://www.facebook.com/print3ddesigntx/"
+   ]
+  },
+  {
+   "query": "3D Printing note 社長",
+   "results": [
+    "https://note.com/tag/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF",
+    "https://note.com/tag/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://note.com/takapon/n/n1a2b6d16eefb?hl=en",
+    "https://www.youtube.com/watch?v=pgKUHatnNtk",
+    "https://note.com/p_modellabo/n/n63cb52254c3b",
+    "https://www.linkedin.com/in/ron-robinson-18a5378",
+    "https://www.youtube.com/watch?v=8IpbvaiF4HY",
+    "https://note.com/focalform/n/n5db0ec590496?hl=en",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ]
+  },
+  {
+   "query": "3D Printing X 投稿",
+   "results": [
+    "https://x.com/3dprintingnerd",
+    "https://www.reddit.com/r/XWingTMG/comments/1qe2njf/3d_printing_for_xwing/",
+    "https://markforged.com/3d-printers/metal-x",
+    "https://additive-x.com/blog/category/news",
+    "https://www.youtube.com/watch?v=h7c-WJHsIkA",
+    "https://www.3dnatives.com/en/",
+    "https://www.thingiverse.com/groups/3d-printing-forum",
+    "https://www.sculpteo.com/blog/2020/05/11/top-10-3d-printing-twitter-accounts-to-follow/",
+    "https://x.com/3dprinting",
+    "https://makerworld.com/ja/@3D_PRINTING_X/crowdfunding"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "資本金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "保有設備": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "認証": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

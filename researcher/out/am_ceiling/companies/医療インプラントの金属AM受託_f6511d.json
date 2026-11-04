@@ -1,0 +1,1470 @@
+{
+ "name": "医療インプラントの金属AM受託",
+ "en": "medical implant metal 3D printing contract manufacturing",
+ "aliases": [
+  "医療 金属3Dプリント 受託",
+  "インプラント 積層造形 受託",
+  "チタン インプラント 3Dプリント 製造受託"
+ ],
+ "context": "用途・医療",
+ "kind": "market",
+ "researched_at": "2026-11-04T10:34:17.370141+00:00",
+ "evidence": {
+  "最大案件・上限": [
+   {
+    "quote": "Enterprise 3D Printer of the Year (Metals) Award",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円*1",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、初期投資ゼロ、試作・小ロット対応、複雑形状の実現、リードタイム短縮という4点が受託造形の最大の価値であり、これらは自社導入では得にくい優位性です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円の装置投資、粉末材料の在庫リスク、専用オペレーターの人件費が一切かからず、必要な時に必要な分だけ発注できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "造形サイズは最大500mm角程度が一般的で、それを超える大型部品は後述するDED方式が選択肢になります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "この柔軟性が、金属3Dプリントのオーダーメイドが注目される最大の理由です",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの最大の魅力は、ラティス構造（格子状の内部構造）や中空構造、有機的な曲面形状など、切削や鋳造では作れない形状を実現できる点です",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの最大の特徴は「1個からの製作が可能」なことです",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "2025年現在、北米は医療分野の3Dプリンティング市場で最大のシェアを占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社は3層の検証プロセスを通じて、データの信頼性を最大限に高めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems Receives $9 Million Contract Award from U.S. Air Force for Advanced Large-Format Metal 3D Printing System | 3D Systems",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems Receives $9 Million Contract Award from U.S. Air Force for Advanced Large-Format Metal 3D Printing System",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "pass": 3
+   },
+   {
+    "quote": "– 3D Systems (NYSE: DDD) today announced it has been awarded an additional $9 million under the Air Force-funded ‘Large-Format Metal 3D Printer Advanced Technology Demonstrator’ program (GEN-II DMP-1000).",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "pass": 3
+   }
+  ],
+  "用途別": [
+   {
+    "quote": "カスタムメイドの骨膜下インプラントを金属3Dプリンターで製造 | 株式会社NTTデータ ザムテクノロジーズ",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイカスト金型業界の方へ",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体業界の方へ",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "2025.02.17 カスタムメイドの骨膜下インプラントを金属3Dプリンターで製造",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタムメイドの骨膜下インプラントを金属3Dプリンターで製造",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "患者一人ひとりに合わせたカスタムメイドのインプラントを従来の製法で製造すると、材料廃棄量が非常に多く、大規模でコストのかかる後処理が必要となり、製造リードタイムが長い",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS M 290を使用し、Ti64材でカスタムメイドの骨膜下インプラントを製造",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.eos.info/industries/customer-success-stories/3d-printer-implants-craniomaxillofacial-surgery",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "AM技術で医療業界に革新をもたらす",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "頭蓋顎顔面外科に特化したカスタムメイドのインプラントを設計・製造するMAXONIQ社は、OsseoFrameと呼ばれる患者1人ひとりにフィットする骨膜下インプラントで、医療業界に革新をもたらしています",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "OsseoFrameは、汎用性が高く装着が容易な歯科補綴リハビリテーション用ソリューションであり、優れた精度と信頼性を兼ね備えた医療機器です",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "歯科インプラントを支えるのに十分な歯槽骨がない患者にも、痛みを伴わない歯本来の「機能」と「審美性」を回復させることができ、最終的には患者の生活の質を向上させることもできます",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "患者1人ひとりに最適化した医療機器は、機械加工や鋳造でも製造できますが、材料廃棄量がかなり多くなります",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "インプラント治療における複雑な適応症に対応するため、AM技術の活用を通じてユニークで唯一無二の医療機器の提供を目指しました",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "MAXONIQ社は製造パートナーであるBresMedical社の協力のもと、EOS M 290の活用を開始",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで医療が変わる！金属技研が挑む革新的インプラント | MTC Solution",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで医療が変わる！金属技研が挑む革新的インプラント",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "熱処理技術を中核に、ろう付や溶接、成形、機械加工までの技術を総合して持つ金属加工のエキスパート集団、金属技研（東京都中野区、長谷川数彦社長）は、こうした課題に対して、得意とする金属3Dプリンター技術を駆使し、患者一人ひとりに合わせたテーラーメイド医療に貢献しようとしている",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "今回、金属技研が取り組むのは患者個人のCTスキャンからのデータを基に個体毎に精緻で複雑な形状のインプラントを金属3Dプリンターで製作することだ",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研技術本部テクニカルセンター主事の増尾大慈さんは、4つのパーツに分かれたインプラントを手に取り、「造形そのものは1日でできます",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "航空機部品などで納入実績があるとはいえ、金属技研にとって医療関係はまったくの異業種となる",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "参入は、医療機器の製造販売を手がけるアムテック（東京都杉並区）の綾香悦子社長に声をかけられたことがきっかけになる",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "アムテックは脊椎のスクリューのインプラントなどで20年以の製造販売の実績を持つ",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、今回企画した金属3Dプリンターによるインプラントの積層はパートナー探しが難航していた",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで積層したインプラントは、患者一人ひとりに合わせて製作しており、複雑な形状は3Dプリンターがまさに得意とするところ",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野の参入にあたって増尾は、「品質管理が強く求められている業界だと認識しています",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "航空機関連に納入、医療分野でも推定展開",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "もともと金属技研は、高度な品質管理を要求される顧客を通して航空機関連の部品を民間航空機メーカーに納入しており、品質管理には絶対の自信を持つ",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "増尾は「品質に問題があれば、航空機の場合は飛行機の安定航行に大きな影響がおよび、人命にも影響しかねる重大な問題に発展する可能性もあります",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "今回は医療分野ですが、人体に使用される製品であり、高度な品質管理が必要とされるのは同じです",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "DED（指向性エネルギー堆積）方式の特徴と適用領域",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野での受託造形",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "医療・歯科分野での受託造形",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型分野でのコンフォーマルクーリング活用事例",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "市場動向としては、航空宇宙・医療・金型・自動車分野を中心に採用が急速に広がっています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型を作らず1個から製造できるため、金型製作費（一般的に数十万〜数百万円）が不要になります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "第三に、コンフォーマルクーリング金型や中空構造、ラティス構造など従来工法では作れない複雑形状を実現できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタは金型不要のため、1個からでも経済的に製造できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "多品種少量の産業機械部品、医療機器の患者ごとにカスタマイズされたインプラント、モータースポーツ用の特殊部品など、少量高付加価値の分野と特に相性が良いのが特徴です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタは粉末や金属ワイヤーを一層ずつ積み上げていく方式のため、金型内部を自由な曲線で走る冷却水路（コンフォーマルクーリング）や、内部に空洞を持つ軽量化部品、格子状のラティス構造などを一体成形できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型のコンフォーマルクーリングを採用すると、樹脂成形の冷却時間を20〜40%短縮できる事例も報告されており、量産金型分野でも活用が広がっています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "一般産業、医療",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "軽量化部品、自動車",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空、医療インプラント",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空エンジン、高温部品",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "医療・歯科・宝飾分野での一点物製作",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・航空宇宙分野の高機能部品",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造との違い（金型不要・短納期）",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "「一点物の金属部品を作りたいけれど、金型を作るほどの数量ではない」「複雑な形状の試作を短納期で用意したい」——そんな悩みを抱えていませんか？金属3Dプリントのオーダーメイド製作なら、1個から完全一点物の造形が可能で、従来の切削や鋳造では実現できなかった複雑形状も自在に作れます",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "従来の量産型製造と異なり、金型が不要なため少量多品種に強く、複雑な形状でも自由に造形できる点が最大の特徴です",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "金型を作らずに直接造形できるため、初期投資が抑えられ、設計変更にも柔軟に対応できるのが強みです",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "DED（Directed Energy Deposition：指向性エネルギー堆積）は、金属粉末やワイヤーを供給しながら溶融させる方式で、大型部品や補修に強みがあります",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野で採用が進む理由の一つが、この形状自由度の高さです",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "金型が不要なため、1個から完全一点物の製作が可能です",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "医療インプラントのように患者ごとに形状が異なる部品や、宝飾品のように一点物としての価値が求められる製品に最適です",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "航空機のブラケット部品では、部品点数を10分の1に減らした事例も報告されています",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "医療器具・機械部品",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "高強度部品・金型",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "医療インプラント・航空機",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品・軽量構造物",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   }
+  ],
+  "価格を決める要因": [
+   {
+    "quote": "患者一人ひとりに合わせたカスタムメイドのインプラントを従来の製法で製造すると、材料廃棄量が非常に多く、大規模でコストのかかる後処理が必要となり、製造リードタイムが長い",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "また、大規模でコストのかかる後処理が必要となり、製造リードタイムも長くなってしまうことが課題となっていました",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "BresMedical社は、ISO 13485への準拠という点でMAXONIQ社の求める品質基準を満たしていました",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年にはISO13485の認証を取得",
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "pass": 3
+   },
+   {
+    "quote": "検査／解析・分析",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "熱処理、HIP処理、焼結など、あらゆる分野においてトップレベルの金属加工技術および各種構造物の設計・製作技術を提供しています",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "HIP処理加工例",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "pass": 3
+   },
+   {
+    "quote": "マルチレーザー機は従来の1台のレーザーではなく、複数のレーザーを同時稼働させることで造形時間を大幅に短縮できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "造形物の体積（cm³）に素材ごとの単価を掛けて算出され、これに造形時間、後加工費、検査費、装置セットアップ費が加算される構造です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "サイズは体積課金の基本要素で、造形時間にも直結します",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "特殊な後加工、厳しい公差要求、認証書類の発行などは自動見積もりに含まれないため、実務では専門事業者への直接問い合わせと併用するのが現実的です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、大手専門事業者（東レ・プレシジョン、J・3D、JAMPT、SOLIZE）は認証取得や特殊素材対応に強く、オンライン特化型（DMM.make、Kabuku Connect）は即時見積もりとスピードに強みがあり、用途と要件によって最適な選択が異なります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "※各社の対応素材、造形サイズ、認証状況、標準納期の詳細は公開情報が限られるため「要確認」としています",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "医療・歯科分野ではTi64（生体適合）とCoCr合金（歯科クラウン）が中心で、生体適合性認証を持つ事業者への発注が必須です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "認証（JIS Q 9100等）を持つ事業者は航空宇宙用途で信頼性が高く、量産採用を目指すなら認証取得事業者を選ぶべきです",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、業種ごとに求められる認証、精度、素材、後加工が異なるため、業種特化の実績を持つ事業者を選ぶことが成功の鍵です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野ではJIS Q 9100やAS9100といった品質マネジメントシステム認証の取得が発注要件になるケースが多く、認証を持つ事業者を選ぶことが第一条件です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 13485の認証状況や医療機器製造業の登録状況、材料・工程の管理体制などを確認し、用途に必要な要件を満たす事業者を選定することが重要です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "発注前に整理すべき情報は、素材の指定（またはグレード要求）、要求寸法精度と表面粗さ、必要数量、希望納期、後加工の範囲、検査要件、そして用途と使用環境の7点です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証書、材料証明書、検査成績書などの書類が必要な場合も、事前に伝えておく必要があります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "航空・医療分野では認証書類が必須になるため、認証取得事業者を選ぶ前提で相談を進めましょう",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、金属3Dプリンタ受託造形は「問い合わせ→見積→データ入稿→造形→後加工→検査→納品」の7ステップで進み、標準的な納期は2〜4週間、短納期対応可能な事業者では最短3〜5営業日で納品されます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ④造形・ステップ⑤後処理・ステップ⑥納品までの実務",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントの価格は、造形物の体積、素材の種類、造形時間、後加工の有無、精度要求、納期の6つの要因で決まります",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "体積が大きいほど粉末使用量と造形時間が増え、コストが上がります",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "5つ目は後処理で、サポート材の除去、熱処理、表面仕上げなどを実施します",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "最後の6つ目のステップが検査・納品です",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "寸法検査や外観検査を経て、指定場所へ納品されます",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証書や検査データを添付する業者もあり、後工程でのトラブル防止に役立ちます",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "特に医療・航空宇宙分野では、造形パラメータの管理や検査体制が問われます",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証書や検査データを提供できる業者は信頼度が高いと言えます",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "市場の対象には、印刷機器、後処理システム、生体適合性材料、設計・臨床ワークフロー管理ソフトウェア、医療・歯科用デバイスの受託生産が含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用した解剖学的セグメンテーションおよびシミュレーションと、ISO 13485-certified準拠のポイントオブケア印刷プラットフォームの統合により、頭蓋、脊椎、顎顔面の再建が可能に",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "プリンターの購入費用は投資判断の一部にすぎず、検証済みの材料ライブラリ、後処理装置、ソフトウェア統合、スタッフ研修、品質管理、ワークフロー文書の整備によって、臨床的に信頼できる導入に必要な水準は大幅に高まる可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "品質認証取得",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 9001:2015認証取得企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ISO認証取得",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hip cups",
+    "url": "https://www.3dsystems.com/medical-device-manufacturing/implants-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "Together we’ll identify your needs, work with you to optimize your designs, and define manufacturing flow to achieve your application's requirements. Then, we’ll move you toward certification and validation while assisting with obtaining regulatory clearances, completing technology transfer, and implementing AM production on-site or within one of our facilities.",
+    "url": "https://www.3dsystems.com/medical-device-manufacturing/implants-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "With experience manufacturing over two million medical devices, beginning with the very first FDA-cleared 3D printed titanium implant, 3D Systems has world-class, FDA-registered, ISO 13485-certified facilities. These advanced, highly-productive facilities—located in both North America and Europe—have become a preferred choice among medical device manufacturers.",
+    "url": "https://www.3dsystems.com/medical-device-manufacturing/implants-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "Custom projects, prototyping, post-processing, testing and quality assurance",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "Custom materials testing and development, prototyping, design and application engineering, industry expertise, post-processing",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "3D modeling, white labeling, manufacturing partnerships, design consultation",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "3D modeling, design for AM, concepting, prototyping, iterative design, post-processing, CNC, assembly",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "Design for AM, post-processing, CNC, learning materials, 3D laser scanning",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "Custom materials, advanced post-processing, testing, design for AM, 3D modeling, non-destructive testing, tomography and X-Ray dimensional controls",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "The on-site material production allows them to even create customized materials for their customers. They’re also able to provide in-depth engineering and design consulting from concepts to production, in addition to post-processing and testing services.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "When it comes to metals, FIT offers a wide range of materials and technologies and several conventional production technologies as well. Together with their development expertise for 3D printed components and their extensive post-processing possibilities, they offer metal additive manufacturing for everything from medical implants and aerospace parts to spare auto parts and sculpture.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "The company provides several finishing and post-processing options for part orders. They also provide extensive engineering and design support, from concepting and 3D modeling to prototyping, topography optimization, and more. As a cherry on top, they have CNC machining and metal cutting capabilities.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "Sculpteo (now a part of the BASF group) originated in France and has an additional manufacturing plant in San Francisco, US. They also have various offices in other European countries. Although they primarily focus on Europe and the U.S., Sculpteo does provide worldwide shipping.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "With more than a century and a half of experience, you’d expect Sandvik to be able to provide in-depth consulting and advice – and they do. The company offers design services, in addition to extensive advanced post-processing and testing options, thanks to their knowledge of all things metal. In 2019, Sandvik acquired a significant stake in",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "What is especially significant at Sandvik and BeamIT, is that they hold several quality certifications including for automotive components. When you need the kind of sureness only years and years of experience can bring, you should definitely contact Sandvik AM.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "operations in a single location, this new partnership provides our customers",
+    "url": "https://www.cretexmedical.com/wp-content/uploads/2020/08/rms-Company-DMP-Brochure-eCopy-8-2017.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Hot Isostatic Pressing (HIP)",
+    "url": "https://www.cretexmedical.com/wp-content/uploads/2020/08/rms-Company-DMP-Brochure-eCopy-8-2017.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Post processing needs (HIP’ing, machining, blasting,",
+    "url": "https://www.cretexmedical.com/wp-content/uploads/2020/08/rms-Company-DMP-Brochure-eCopy-8-2017.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• ISO 13485",
+    "url": "https://www.cretexmedical.com/wp-content/uploads/2020/08/rms-Company-DMP-Brochure-eCopy-8-2017.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://arch-medical.com/capabilities/additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications",
+    "url": "https://arch-medical.com/capabilities/additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Third-party testing and post-processing",
+    "url": "https://arch-medical.com/capabilities/additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "News | 5 Years of Innovation & 100k Implants Shipped",
+    "url": "https://www.amnovis.com/news/pr-251014",
+    "pass": 3
+   }
+  ],
+  "1件の単価": [
+   {
+    "quote": "【2026年版】金属3Dプリンタ受託造形の完全ガイド：費用相場・事業者比較・選び方コラム",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンタ受託造形の完全ガイド：費用相場・事業者比較・選び方",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ受託造形の費用相場はいくら?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり金額を左右する4要素とは?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. 金属3Dプリンタの受託造形は1個からでも依頼できますか?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "Q2. 金属3Dプリンタ受託造形の見積もりにはどのようなデータが必要ですか?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "「金属3Dプリンタで試作品を作りたいけれど、装置導入には数千万円もかかる」「小ロットだけ外注したいが、どの業者に頼めばいいのか分からない」——こうした悩みを抱える製造業の担当者は少なくありません",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、費用相場から主要9社の比較、素材選定、発注前チェックリストまでを2026年最新情報で網羅的に解説します",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円*1",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜3億円の装置投資、粉末材料の在庫リスク、専用オペレーターの人件費が一切かからず、必要な時に必要な分だけ発注できます",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "金型を作らず1個から製造できるため、金型製作費（一般的に数十万〜数百万円）が不要になります",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】金属3Dプリントでオーダーメイド製作｜素材・費用・発注フロー完全ガイドコラム",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】金属3Dプリントでオーダーメイド製作｜素材・費用・発注フロー完全ガイド",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "1個からの完全一点物・少量多品種製作",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントのオーダーメイド費用はいくら？料金相場と価格を決める要因",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "「一点物の金属部品を作りたいけれど、金型を作るほどの数量ではない」「複雑な形状の試作を短納期で用意したい」——そんな悩みを抱えていませんか？金属3Dプリントのオーダーメイド製作なら、1個から完全一点物の造形が可能で、従来の切削や鋳造では実現できなかった複雑形状も自在に作れます",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、金属3Dプリントでオーダーメイド製作を検討している設計者・購買担当者・個人クリエイターの方に向けて、技術原理から対応素材、費用相場、発注フロー、業者選定のポイントまでを網羅的に解説します",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "このセクションでは、金属3Dプリントのオーダーメイドとは「金属粉末を層状に積み重ねて造形する技術を用いて、1個から完全一点物の部品を製作するサービス」であることを解説します",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイド製作とは、顧客が用意した3Dデータをもとに、1個から完全一点物の部品を造形するサービスを指します",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "個人クリエイターがアクセサリーを1点だけ作りたい場合も、企業が試作品を5個だけ欲しい場合も、同じフローで発注できます",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "金型が不要なため、1個から完全一点物の製作が可能です",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "With experience manufacturing over two million medical devices, beginning with the very first FDA-cleared 3D printed titanium implant, 3D Systems has world-class, FDA-registered, ISO 13485-certified facilities. These advanced, highly-productive facilities—located in both North America and Europe—have become a preferred choice among medical device manufacturers.",
+    "url": "https://www.3dsystems.com/medical-device-manufacturing/implants-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems is proud to take part in the European Union funded research project in \"smart\" 3D printed implants for repair of large bone defects.",
+    "url": "https://www.3dsystems.com/medical-device-manufacturing/implants-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "5. Obtaining a Quote",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": ", where you simply upload your 3D model and receive multiple quotes from suppliers from which you choose the best fit.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "Instant quote. Product from 2 days.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "Instant quote. Product from 5 days.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "Instant quote. Product from 11 days.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "Instant to same day quote. Product from 5 days.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "Instant quote. Product from 1 day.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "Instant quote. Product from 3 days.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "The current version of ISO 14971 was released in December 2019. This version replaced the previous two versions of the standard utilized by many of you worldwide: ISO 14971:2007 and EN ISO 14971:2012. The EN version was applicable if you were selling medical devices in Europe.",
+    "url": "https://www.greenlight.guru/blog/medical-device-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "While there is still an EN version of ISO 14971:2019, it is now identical to the regular version of ISO 14971:2019. When selling in Europe, it is essential to know that additional risk requirements apply, outlined in the EU MDR (more on the MDR later in this guide).",
+    "url": "https://www.greenlight.guru/blog/medical-device-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "The European Medical Devices Regulation (EU MDR) is a legal document that establishes quality regulations with which medical device manufacturers must comply to sell their devices in Europe. On May 25th, 2016, the EU MDR was enacted to govern the quality requirements of medical devices for sale in the European Economic Area (EEA).",
+    "url": "https://www.greenlight.guru/blog/medical-device-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Guidance on the relationship between EN ISO 13485: 2016 (Medical devices - Quality management systems - Requirements for regulatory purposes) and European Medical Devices Regulation and In Vitro Diagnostic Medical Devices Regulation",
+    "url": "https://www.greenlight.guru/blog/medical-device-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "The FDA defines the rules in 21 CFR Part 820. And if you plan to go to market in the U.S., these regulations are required. Outside the U.S., Europe requires a quality system to be established to meet the medical device regulations (and/or IVD regulations). Many medical device companies implement a quality system certified to ISO 13485:2016 to satisfy EU needs.",
+    "url": "https://www.greenlight.guru/blog/medical-device-3d-printing",
+    "pass": 3
+   }
+  ],
+  "顧客1社の年間": [
+   {
+    "quote": "Q6. 金属3Dプリンタ受託造形は量産にも向いていますか?",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "「金属3Dプリンタで試作品を作りたいけれど、装置導入には数千万円もかかる」「小ロットだけ外注したいが、どの業者に頼めばいいのか分からない」——こうした悩みを抱える製造業の担当者は少なくありません",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "特に2024年以降はバインダージェット（BJT）方式の普及によって、これまで試作中心だった金属AMが量産領域にも進出し始めました",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "目安として、年間造形量が500cm³以下、かつ多品種少量の試作が中心であれば受託造形が圧倒的に優位です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、初期投資ゼロ、試作・小ロット対応、複雑形状の実現、リードタイム短縮という4点が受託造形の最大の価値であり、これらは自社導入では得にくい優位性です",
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "pass": 3
+   },
+   {
+    "quote": "Q2. 最小ロットは何個から発注できますか？",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の3Dプリンター市場は世界242億ドル規模に成長すると予測されており、金属AMの量産シフトも進んでいます（",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "同じ形状でも数量が増えるほど1個あたりの単価は下がりますが、量産型製造ほどのスケールメリットは出にくいのが特徴です",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "最小ロット1個から対応可能か、短納期（1週間以内）対応の実績があるかも、業者選びの重要な指標です（",
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "pass": 3
+   },
+   {
+    "quote": "資本投下の継続により、2035年まで専門的な整形外科向け3Dプリンティング事業者の市場参入が拡大",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "5年間の顧客関係の価値",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Design consultation, custom projects, 3D modeling",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "3D modeling, white labeling, manufacturing partnerships, design consultation",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "Laser engraving and cutting, learning materials, 3D modeling, design and production consultation",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "On top of metal 3D printing, FacFox offers a slew of additional services, including design consultation, testing and quality assurance. FacFox is even able to provide its customers with customized process parameters and software solutions that are tailored to the customer’s specific needs.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "Only an expert additive manufacturing engineer can make the call on what would be the best material. This is why partnering with a 3D printing company that provides in-house design and engineering consultation is so valuable. They will be able to tell what the most suitable material for your application is.",
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "pass": 3
+   },
+   {
+    "quote": "The high-fidelity resolution of the DMLS process enables fine part details and tight tolerances, achieved through the combination of atomized powder particles and a precise laser. The DMP Flex 350 provides us the flexibility to meet the demands of R&D projects, customized devices or serial production, and is scalable for volume part production.",
+    "url": "https://arch-medical.com/capabilities/additive-manufacturing.html",
+    "pass": 3
+   }
+  ],
+  "受託会社の売上": [
+   {
+    "quote": "3D Systemsのヘルスケアソリューション部門は、2024会計年度に1億8,970万米ドルの売上高を計上した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダは2025年に北米の売上高の10.5%を占め、2026〜2035年の年平均成長率（CAGR）は23.7%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの市場規模は2025年に2億7,000万米ドルとなり、2035年までに欧州の売上高の22.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "韓国は2025年にアジア太平洋地域の売上高の14.8%を占め、2035年には市場規模が14億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療用3Dプリンティング市場の競争構造は中程度に分散しており、2025年には上位5社が世界売上高の約23.4%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The top 10 metal AM companies by revenue | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue.md",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "The top 10 metal AM companies by revenue",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "If we combine revenues from all core AM segments (hardware, materials, and services), all of the top 10 metal AM companies by revenue in 2023 are hardware manufacturers. This is one of the key findings from",
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-medical-in-2026-certified-devices-and-implants/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/content/blog/know-how/am-disappearing-cost-premium",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secotools.com/article/how_3d_printing_is_making_its_mark_in_medical?language=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nakaidental.com/2026/02/10/1340/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinyurigaoka-dc.com/blog/implant-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-perio-yoshida-dc.com/column/gcolumn0001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsujioka-shika.com/blog/1091/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_488/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/column/a102",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/content/blog/industries/am-as-a-growth-driver-in-medical-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/special/3dsolution/sample_medical.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/grvi2132258-dental-implants-prosthetics-contract-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E3%82%A4%E3%83%B3%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88%E3%81%8A%E3%82%88%E3%81%B3%E5%8C%BB%E7%99%82%E7%94%A8%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-115609",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/vmr1977775-global-dental-implants-prosthetics-contract.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zionmarketresearch.com/ja/news/global-3d-printed-medical-implant-market",
+    "status": "http_500",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/works/eos/article_8191/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/technique/sol_additive_manufact/AM_ContractService.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreport.jp/dental-implants-and-prosthetics-contract-manufacturing-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fundamentalbusinessinsights.com/ja/industry-report/metal-implants-and-medical-alloys-market-22937",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/release/30728134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/medical-device-manufacturing/implants-instruments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eplus3d.com/eplus3d-empowers-medical-innovation-advancing-metal-3d-printing-for-implant-solutions.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://advancedpowderproducts.com/blog/post/metal-3d-printing-medical-device-industry-medtech-makers-q",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cretexmedical.com/wp-content/uploads/2020/08/rms-Company-DMP-Brochure-eCopy-8-2017.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.acsmaterial.com/metal-3d-printing-service.html?srsltid=AYCX9vLjLzwQ-RSQuLOetxn5gQZqddCx9StFKlVi9c3xd3tSRkz3_2JT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arch-medical.com/capabilities/additive-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tangiblesolutions3d.com/capabilities/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amnovis.com/news/pr-251014",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eplus3d.com/metal-3d-printing-materials-in-the-medical-industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/blog/3d-printing-medical-device-oem-trends/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emetal3d.com.au/Industries/medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10344715/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenlight.guru/blog/medical-device-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/biocompatible-3d-printing-materials-market-report",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "医療インプラントの金属AM受託 単価 万円",
+   "results": [
+    "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-medical-in-2026-certified-devices-and-implants/",
+    "https://www.eos.info/ja/content/blog/know-how/am-disappearing-cost-premium",
+    "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "https://www.secotools.com/article/how_3d_printing_is_making_its_mark_in_medical?language=ja",
+    "https://www.youtube.com/watch?v=SEbenvTNzcg",
+    "https://www.nakaidental.com/2026/02/10/1340/",
+    "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "https://meikeikai-dental.com/cost/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://sakurashika-g.jp/column/implant/cost.php"
+   ]
+  },
+  {
+   "query": "医療インプラントの金属AM受託 費用 相場",
+   "results": [
+    "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-medical-in-2026-certified-devices-and-implants/",
+    "https://www.nakaidental.com/2026/02/10/1340/",
+    "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "https://www.eos.info/ja/content/blog/know-how/am-disappearing-cost-premium",
+    "https://www.secotools.com/article/how_3d_printing_is_making_its_mark_in_medical?language=ja",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://shinyurigaoka-dc.com/blog/implant-cost/",
+    "https://tokyo-perio-yoshida-dc.com/column/gcolumn0001/",
+    "https://www.tsujioka-shika.com/blog/1091/",
+    "https://jampt.jp/column/column_488/"
+   ]
+  },
+  {
+   "query": "医療インプラントの金属AM受託 最大 受注 億円",
+   "results": [
+    "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-medical-in-2026-certified-devices-and-implants/",
+    "https://www.eos.info/ja/content/blog/industries/am-as-a-growth-driver-in-medical-technology",
+    "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "https://www.secotools.com/article/how_3d_printing_is_making_its_mark_in_medical?language=ja",
+    "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.youtube.com/watch?v=wiDEI3TDTuQ",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.sodick.co.jp/special/3dsolution/sample_medical.html",
+    "https://www.gii.co.jp/report/grvi2132258-dental-implants-prosthetics-contract-manufacturing.html"
+   ]
+  },
+  {
+   "query": "医療インプラントの金属AM受託 量産 受注 年間",
+   "results": [
+    "https://www.eos.info/ja/content/blog/industries/am-as-a-growth-driver-in-medical-technology",
+    "https://www.secotools.com/article/how_3d_printing_is_making_its_mark_in_medical?language=ja",
+    "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-medical-in-2026-certified-devices-and-implants/",
+    "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "https://www.youtube.com/watch?v=wiDEI3TDTuQ",
+    "https://www.sodick.co.jp/special/3dsolution/sample_medical.html",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.zionmarketresearch.com/ja/news/global-3d-printed-medical-implant-market",
+    "https://jampt.jp/"
+   ]
+  },
+  {
+   "query": "医療インプラントの金属AM受託 売上高 受託",
+   "results": [
+    "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-medical-in-2026-certified-devices-and-implants/",
+    "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "https://www.eos.info/ja/content/blog/industries/am-as-a-growth-driver-in-medical-technology",
+    "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.secotools.com/article/how_3d_printing_is_making_its_mark_in_medical?language=ja",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.youtube.com/watch?v=SEbenvTNzcg",
+    "https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market",
+    "https://www.marketreport.jp/dental-implants-and-prosthetics-contract-manufacturing-market"
+   ]
+  },
+  {
+   "query": "medical implant metal 3D printing contract manufacturing price per part",
+   "results": [
+    "https://www.3dsystems.com/medical-device-manufacturing/implants-instruments",
+    "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "https://www.eplus3d.com/eplus3d-empowers-medical-innovation-advancing-metal-3d-printing-for-implant-solutions.html",
+    "https://www.youtube.com/watch?v=8_3EOztS_iA",
+    "https://advancedpowderproducts.com/blog/post/metal-3d-printing-medical-device-industry-medtech-makers-q",
+    "https://www.cretexmedical.com/wp-content/uploads/2020/08/rms-Company-DMP-Brochure-eCopy-8-2017.pdf",
+    "https://www.acsmaterial.com/metal-3d-printing-service.html?srsltid=AYCX9vLjLzwQ-RSQuLOetxn5gQZqddCx9StFKlVi9c3xd3tSRkz3_2JT",
+    "https://www.3deo.co/metal-3d-printing/3d-printing-in-the-medical-technology-industry-an-economic-case/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10344715/",
+    "https://blog.met3dp.com/blog/how-to-calculate-metal-3d-printing-part-cost-in-2026-pricing-models/"
+   ]
+  },
+  {
+   "query": "medical implant metal 3D printing contract manufacturing largest contract million",
+   "results": [
+    "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "https://arch-medical.com/capabilities/additive-manufacturing.html",
+    "https://tangiblesolutions3d.com/capabilities/additive-manufacturing/",
+    "https://www.amnovis.com/news/pr-251014",
+    "https://www.youtube.com/watch?v=qkPeK_Vnp3Q",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.eplus3d.com/metal-3d-printing-materials-in-the-medical-industry.html",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10344715/",
+    "https://blog.met3dp.com/blog/metal-additive-manufacturing-for-medical-in-2026-certified-devices-and-implants/"
+   ]
+  },
+  {
+   "query": "medical implant metal 3D printing contract manufacturing serial production long-term agreement value",
+   "results": [
+    "https://www.stratasys.com/en/resources/blog/3d-printing-medical-device-oem-trends/",
+    "https://emetal3d.com.au/Industries/medical/",
+    "https://www.eplus3d.com/metal-3d-printing-materials-in-the-medical-industry.html",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10344715/",
+    "https://www.youtube.com/watch?v=qkPeK_Vnp3Q",
+    "https://www.greenlight.guru/blog/medical-device-3d-printing",
+    "https://www.grandviewresearch.com/industry-analysis/biocompatible-3d-printing-materials-market-report",
+    "https://www.explorationpub.com/Journals/ebmx/Article/101338",
+    "https://blog.met3dp.com/blog/metal-3d-printing-contract-manufacturing-in-2026-outsourced-production-strategies/"
+   ]
+  },
+  {
+   "query": "medical implant metal 3D printing contract manufacturing revenue",
+   "results": [
+    "https://www.towardshealthcare.com/insights/3d-printed-medical-devices-market",
+    "https://www.precedenceresearch.com/healthcare-additive-manufacturing-market",
+    "https://www.grandviewresearch.com/industry-analysis/healthcare-3d-printing-market",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.mordorintelligence.com/industry-reports/global-3d-printing-market-in-healthcare-industry-industry",
+    "https://www.youtube.com/watch?v=qkPeK_Vnp3Q",
+    "https://www.prnewswire.com/news-releases/revenues-from-3d-printed-medical-devices-to-reach-16-5-billion-by-2034-according-to-study-by-additive-manufacturing-research-302155485.html",
+    "https://market.us/report/3d-medical-implants-market/",
+    "https://formlabs.com/white-papers/5-opportunities-for-3d-printing-in-manufacturing/",
+    "https://www.mordorintelligence.com/industry-reports/3d-printed-implants-market"
+   ]
+  },
+  {
+   "query": "site:note.com 医療インプラントの金属AM受託",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/qy_research/n/neb3c21650b2e",
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://note.com/jrs1188/n/n1a6f5e9569ff",
+    "https://note.com/zumano/n/n714cc2e88ba9",
+    "https://note.com/izuku_idea/n/nbde4b02afc8e",
+    "https://note.com/rich_sage853/n/n20821603d2fd",
+    "https://note.com/otoeri/n/ne40c14acb763",
+    "https://note.com/kinzoku2/n/nd9351728b704",
+    "https://note.com/pharman_academit/n/n436ec2ad78a3"
+   ]
+  },
+  {
+   "query": "site:x.com 医療インプラントの金属AM受託",
+   "results": [
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/OO7a0JfXQb0dTiA",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/metaltechjapan",
+    "https://x.com/MetalTechJapan/status/2044612456312615266",
+    "https://x.com/TechnoHorizonGR/status/1879689146144526664",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/jpShareLab/status/1589834978132721665",
+    "https://x.com/MTStokyoCEC"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 医療インプラントの金属AM受託",
+   "results": [
+    "https://jp.linkedin.com/in/thomas-h-pang-ph-d-%EF%BC%88%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%91%E3%83%B3%EF%BC%89ceo-additivejapancorp-and-adjprof-nagaokauoftech",
+    "https://jp.linkedin.com/pulse/%E6%B7%BB%E5%8A%A0%E5%89%A4%E3%81%AE%E3%82%A2%E3%83%AD%E3%82%A4%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E7%86%9F%E5%BA%A6%E5%88%86%E6%9E%90%E5%9C%B0%E5%9F%9F%E9%96%93%E6%A0%BC%E5%B7%AE%E3%81%A8%E6%88%90%E9%95%B7%E3%83%9B%E3%83%83%E3%83%88%E3%82%B9%E3%83%9D%E3%83%83%E3%83%882026%E5%B9%B42033%E5%B9%B4-truenorth-analyticsz-2mome",
+    "https://jp.linkedin.com/pulse/robotics-additive-manufacturing-automating-next-hafsa-naveed-iqbal-1eixf?tl=ja",
+    "https://jp.linkedin.com/pulse/%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E3%82%A2%E3%83%88%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E6%8C%81%E7%B6%9A%E7%9A%84%E3%81%AA%E6%88%90%E9%95%B72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6cagr-64%E3%81%A8%E4%BA%88%E6%B8%AC%E5%B8%82%E5%A0%B4%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E5%88%86%E6%9E%90-wwake",
+    "https://za.linkedin.com/in/charlotte-tibana-32626527a",
+    "https://jp.linkedin.com/pulse/金属含有インプラント市場の規模と収益成長の分析2026年から2033年まで年平均成長率cagr1-7504208120034779136-kaepf",
+    "https://jp.linkedin.com/pulse/市場拡大の洞察-医療用金属インプラントは2026年から2033年までの間に年平均成長率13で成長することが予測されています-jgroe",
+    "https://www.linkedin.com/posts/憲一（kenichi）-水沼（mizunuma）-684004379_金属am技術を用いた脊椎治療向けインプラントの開発で患者の負担削減を期待株式会社-activity-7416045345094262784-2D4G",
+    "https://www.linkedin.com/posts/三菱商事テクノス　東京カスタマー・エクスペリエンス・センター_additivemanufacturing-am-金属積層造形-activity-7444625820213534720-YkQ4",
+    "https://de.linkedin.com/in/dr-armin-frommer-80107a364"
+   ]
+  },
+  {
+   "query": "site:facebook.com 医療インプラントの金属AM受託",
+   "results": [
+    "https://www.facebook.com/AmanoShika/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/victoriajustice/photos/",
+    "https://www.facebook.com/DMGMORI.CO/posts/dmg-moriが加工を受託お客様の金属積層造形の活用をサポート-am-lab-fab開設積層造形は従来の切削加工では困難な形状を造形することができるため近年飛/3122305414701699/",
+    "https://www.facebook.com/100087741584855/posts/取り扱い開始インプラント印象の精度を安定させるamラダー登場️治療工程が長い精度が不安定そんなお悩みを解決する新しいベリフィケーションジグのご案内です-特徴安定/871673312434047/",
+    "https://www.facebook.com/NikonGroupjp/posts/nikon-am-technology-center-japanを埼玉県行田市に開設最先端の金属アディティブマニュファクチャリング付加加工以下am技術の開発およ/936680661888050/",
+    "https://www.facebook.com/GunmaAMPF/photos/先ほどのポストの通りgamは群馬県が実施する３d金属積層造形実用化支援事業を受託しam実用化の無料コンサルと試作造形群馬県から最大50万円の補助を行なってってお/484446654138917/",
+    "https://www.facebook.com/mazak.jp/posts/金属積層造形am技術をご存知ですか削る型に流す工法とは異なり必要な箇所に必要な量だけ材料を積層従来工法では困難だった3d形状加工を可能にします部品の一体化や摩耗/1608705891258807/"
+   ]
+  },
+  {
+   "query": "医療インプラントの金属AM受託 note 社長",
+   "results": [
+    "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "https://www.youtube.com/watch?v=SEbenvTNzcg",
+    "https://www.eos.info/ja/content/blog/industries/am-as-a-growth-driver-in-medical-technology",
+    "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-medical-in-2026-certified-devices-and-implants/",
+    "https://www.secotools.com/article/how_3d_printing_is_making_its_mark_in_medical?language=ja",
+    "https://note.com/pharman_academit/n/n436ec2ad78a3",
+    "https://www.youtube.com/watch?v=wiDEI3TDTuQ",
+    "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "https://note.com/bigdreamnet/n/n68531fa2c75c"
+   ]
+  },
+  {
+   "query": "医療インプラントの金属AM受託 X 投稿",
+   "results": [
+    "https://www.nttdata-xam.com/works/eos/article_6570/",
+    "https://www.secotools.com/article/how_3d_printing_is_making_its_mark_in_medical?language=ja",
+    "https://blog.met3dp.com/ja/blog/metal-additive-manufacturing-for-medical-in-2026-certified-devices-and-implants/",
+    "https://www.youtube.com/watch?v=SEbenvTNzcg",
+    "https://www.kinzoku.co.jp/media/special-feature/a47",
+    "https://www.eos.info/ja/content/blog/industries/am-as-a-growth-driver-in-medical-technology",
+    "https://www.sodick.co.jp/special/3dsolution/sample_medical.html",
+    "https://www.youtube.com/watch?v=wiDEI3TDTuQ",
+    "https://x.com/jpShareLab/status/2117138055500849610",
+    "https://www.nttdata-xam.com/works/eos/article_8191/"
+   ]
+  },
+  {
+   "query": "medical implant metal 3D printing contract manufacturing site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/marle-tangible-additive-manufacturing",
+    "https://www.linkedin.com/company/armadillo-additive",
+    "https://www.linkedin.com/posts/michael-pecota_how-micro-3d-printing-is-powering-the-next-activity-7519347487023964161-RKML",
+    "https://www.linkedin.com/pulse/your-jurisdiction-ready-industrial-3d-printing-ulsolutions-nmdme",
+    "https://www.linkedin.com/pulse/3d-printed-medical-device-market-huge-growth-future-fzqyf",
+    "https://www.linkedin.com/posts/stevemaxson1_had-an-exciting-chat-with-adam-tc-steege-activity-7387865568823119872-SC-e",
+    "https://www.linkedin.com/posts/urs-wigger-0b09642a_medtech-orthopedics-3dprinting-activity-7404871196585902080-nvVO",
+    "https://www.linkedin.com/posts/dylanhushka_very-exciting-news-our-customers-have-asked-activity-7503859053731774464-0h20",
+    "https://www.linkedin.com/company/additiveplus",
+    "https://www.linkedin.com/pulse/role-customization-3d-printing-metal-implants-market-vgdff"
+   ]
+  }
+ ],
+ "missing": {}
+}

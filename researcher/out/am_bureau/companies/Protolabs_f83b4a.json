@@ -1,0 +1,1687 @@
+{
+ "name": "Protolabs",
+ "aliases": [
+  "Proto Labs Inc"
+ ],
+ "context": "海外・上場オンライン製造（3Dプリント売上公開）",
+ "researched_at": "2026-11-04T10:42:40.985017+00:00",
+ "official_url": "https://www.protolabs.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "1999 ; 27 years ago ( 1999 )",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "$501 million (2024)",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "株主構成": [
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/about-us/charitable-giving-and-community-impact/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/about-us/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We Take Ownership",
+    "url": "https://www.protolabs.com/about-us/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/about-us/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/about-us/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/about-us/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.protolabs.com/services/production/",
+    "pass": 1
+   },
+   {
+    "quote": "On-demand manufacturing backed by customizable solutions reduce many of the common complexities of production.",
+    "url": "https://www.protolabs.com/services/production/",
+    "pass": 1
+   },
+   {
+    "quote": "when you factor in the total cost of ownership all along the supply",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "of ownership all along the supply chain, from",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "of piece-part price remains intact when total cost of ownership is considered. And guess what? No",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "manufacturing option in injection molding have ownership of their molds; Protolabs retains",
+    "url": "https://www.protolabs.com/media/upxpxdpz/pl_quality-compliance-doc.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ownership of customer molds for those using prototype tooling. Whenever customer-specified",
+    "url": "https://www.protolabs.com/media/upxpxdpz/pl_quality-compliance-doc.pdf",
+    "pass": 2
+   }
+  ],
+  "料金・単価": [
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are the fastest and most comprehensive manufacturer in the world. Get an online quote for parts within days or talk with a production expert for solutions across your entire product life cycle",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start Production Quote",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant quotes with interactive manufacturability feedback",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our critical-to-quality inspections are now easily configured within your injection molding quote. We also provide a range of additional quality documentation.",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Design for Manufacturing Analysis Available for Sheet Metal Quotes",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Quote with DFM",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Once you review your quote and place your order, we'll start the manufacturing process. We also offer finishing options.",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer both automated and live manufacturing support. With every quote, you get free interactive manufacturability analysis to quickly improve part design, but if you have additional questions, applications engineers are always available to talk through your project at 877-479-3680 or",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Take advantage of DFM feedback in our instant quotes to make adjustments to part design before any actual manufacturing begins, then navigate quickly through prototyping with ease.",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample Quote",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Get quality metal 3D-printed prototypes and production parts. Request an online quote today.",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant quotes on 3D-printed parts",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a Quote",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample Quote",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Start Production Quote",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant quotes with interactive manufacturability feedback",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample Quote",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample Quote",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with our support team to gain improved cost-efficiencies with lower piece-part prices as volumes increase, benefit from quality certifications like ISO 9001, ISO 13485, and AS9100D, and access advanced capabilities for tighter tolerances, larger part sizes, enhanced finishes, and more.",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample Quote",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated, interactive design analysis within quotes",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant market-based pricing within quotes",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "High-volume molding with price breaks available",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Quotes for 100,000+ parts",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant quotes for up to 1,000 parts",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant quotes for parts in as fast as 1 business day",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Fast and simple interactive quotes within hours",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant sheet metal quotes with design feedback",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "You can unlock Protolabs Network in two quick ways. When you have a quote from Protolabs, look for the network option inside your quote (currently, machining quotes only), which transfers you directly to our network of manufacturing partners at Hubs. You can also just head to",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "to quote and order directly through Protolabs Network.",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a Quote",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Get an online quote with design analysis today.",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample Quote",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Once manufacturers meet our standards, we give them access to the quote-building platform.",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample Quote",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample Quote",
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/about-us/charitable-giving-and-community-impact/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample Quote",
+    "url": "https://www.protolabs.com/about-us/charitable-giving-and-community-impact/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/about-us/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample Quote",
+    "url": "https://www.protolabs.com/about-us/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/about-us/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample Quote",
+    "url": "https://www.protolabs.com/about-us/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/about-us/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample Quote",
+    "url": "https://www.protolabs.com/about-us/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/about-us/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "Even with exceptional speed and on-time delivery, we can provide competitive pricing for as many parts as you need up to 10,000+. For injection molding, we use high-quality aluminum for tooling that significantly reduces the cost and time for cutting a new tool so you can get your parts faster and at a better price.",
+    "url": "https://www.protolabs.com/about-us/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "Get started by requesting a quote today",
+    "url": "https://www.protolabs.com/about-us/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "Get A Quote",
+    "url": "https://www.protolabs.com/about-us/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "Sample Quote",
+    "url": "https://www.protolabs.com/about-us/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Instant Quote",
+    "url": "https://www.protolabs.com/services/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Start Production Quote",
+    "url": "https://www.protolabs.com/services/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Intuitive, purpose-built technology helps to lighten the load. You need a responsive interface that quotes detailed BOMs fast, a system that simplifies collaboration between your engineering and procurement teams, and an easy way to make those inevitable changes to your order.",
+    "url": "https://www.protolabs.com/services/production/",
+    "pass": 1
+   }
+  ],
+  "最大案件・量産": [
+   {
+    "quote": "Our enhanced digital platform for quoting, ordering, and managing custom parts. Get real-time pricing and AI-enabled DFM feedback, with easy options to configure materials and lead times. ProDesk helps your team stay aligned and move faster from prototype to production.",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Once you review your quote and place your order, we'll start the manufacturing process. We also offer finishing options.",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Create agility in your supply chain by ordering quick-turn industrial components when needed.",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Order custom production parts on demand for MRO applications to keep equipment running without delay.",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "We have a team of manufacturing experts working behind the scenes to fulfill your production order—we manage the entire process and keep you updated along the way.",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "FOAM-iT needed to update two of its flagship products quickly to make them less prone to damage in order to aid in the fight against COVID-19. By using our on-demand molding service, FOAM-iT took advantage of our design analysis and easy online ordering, along with a helping hand from in-house manufacturing experts to avoid delays.",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Protolabs awarded a grant to create a prototype of the vital tool, helping kids read for the first time.",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Direct metal laser sintering accelerates development of tool for new geothermal technologies and lands national energy award",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Volume pricing on production orders",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "How do I order parts through Protolabs Network?",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "to quote and order directly through Protolabs Network.",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "To ensure the process runs smoothly from ordering to delivery, we train every manufacturer on the technical standards, logistics and communication requirements behind the platform.",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "7. First 10 Orders",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain managers monitor the first 10 orders of every new manufacturer. We perform onsite quality control for pre- and post-production.",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Requirement level for suppliers/subcontractors",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Identification of batches of ongoing orders",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": ": All parts (except for 3D-printed orders) being shipped to the UK, U.S., and EU will be inspected at one of our cross docks in Amsterdam or Chicago.",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": ": Customers in the U.S. and EU can choose to onshore production by having their orders sourced through manufacturers within their custom-clearance borders. Those manufacturers then send parts directly to you, resulting in fewer logistical hurdles and much faster delivery times.",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Our network team at Protolabs has developed a set of processes to ensure the highest manufacturing standards are applied to every custom part you order. We inspect each order dimensionally and visually, both during and after production, so that your custom components are delivered on time and to your exact specifications—we set the bar high.",
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "pass": 1
+   },
+   {
+    "quote": "We track the performance of manufacturers in our network to ensure orders meet our quality standards and provide certifications and reports upon request.",
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Tracking Orders After Shipment",
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "pass": 1
+   },
+   {
+    "quote": "There are several ways to track your order. Depending on the region and manufacturing process, you may receive your parts directly from manufacturing partners or from our quality control cross-dock.",
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Orders are cross-docked and QC’d at a Hubs facility",
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Orders are not cross-docked and are shipped directly to you",
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Tracking becomes available as soon as the manufacturing partner ships the order",
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "pass": 1
+   },
+   {
+    "quote": "We handle customs for orders to/from the UK, US, and countries within the EU. We ship Delivered Duty Paid (DDP), meaning that we handle customs before your part arrives at one of Hubs’ cross-docking locations in Amsterdam or Chicago before shipping it to you.",
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Unfortunately, we can’t handle customs for every country and region. If your order originates from or is being shipped to a country outside the UK, US, and EU, we won’t be able to handle customs directly. We can assist you with documentation and other types of support if need be.",
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Leadership Award",
+    "url": "https://www.protolabs.com/about-us/charitable-giving-and-community-impact/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/about-us/charitable-giving-and-community-impact/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate Across Borders",
+    "url": "https://www.protolabs.com/about-us/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/about-us/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We have manufacturing facilities and offices in the United States and throughout Europe. Our sales and customer service teams are available from 8 a.m. to 5 p.m. CST, Monday through Friday, to assist with orders and answer any questions about our services. You can also contact us online at any time.",
+    "url": "https://www.protolabs.com/about-us/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/about-us/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/about-us/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Our on-demand manufacturing service for injection molding meets your production needs with no minimum order quantities, and offers supply chain flexibility, consistency, and quality. We use scientific molding techniques, critical-to-quality (CTQ) inspection with automated inline CMM technology, and more, to ensure consistent dimensional accuracy.",
+    "url": "https://www.protolabs.com/about-us/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "With no minimum order quantities and parts in as fast as one day, we offer you with supply chain flexibility to respond to a line-down emergency, accelerate time to market with bridge production, and manage demand volatility.",
+    "url": "https://www.protolabs.com/about-us/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/about-us/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "No minimum order quantity and flexible warehousing options",
+    "url": "https://www.protolabs.com/services/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Large orders up to 1 million+ parts",
+    "url": "https://www.protolabs.com/services/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Intuitive Quoting & Ordering Experience",
+    "url": "https://www.protolabs.com/services/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Intuitive, purpose-built technology helps to lighten the load. You need a responsive interface that quotes detailed BOMs fast, a system that simplifies collaboration between your engineering and procurement teams, and an easy way to make those inevitable changes to your order.",
+    "url": "https://www.protolabs.com/services/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Place subsequent batch production orders for the project at any time with our virtual warehouse.",
+    "url": "https://www.protolabs.com/services/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Conditions and Use",
+    "url": "https://www.protolabs.com/services/production/",
+    "pass": 1
+   },
+   {
+    "quote": "must be carefully calibrated in order to melt powder particles of each layer",
+    "url": "https://www.protolabs.com/media/1020535/protolabs_dmls_design_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "and customer base in order to set priorities",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "advantage of contract manufacturers that",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "high minimum order quantities (MOQs). Instead,",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "in order to drive long-term benefits for the",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "adaptability in order to succeed.",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "require adaptability in order to succeed.",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "virus. It resulted in the fastest contraction on",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "taking advantage of contract manufacturers that",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   }
+  ],
+  "顧客・用途": [
+   {
+    "quote": "Medical",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerated development of medical devices and health care products",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Injection Molding",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Materials",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing Guide",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Machining",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical: ISO 13485",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace: AS9100",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense: ITAR",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerated development of medical devices and health care products",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Injection Molding",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Materials",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing Guide",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Machining",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical: ISO 13485",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace: AS9100",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense: ITAR",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Cobalt Chrome (Co28Cr6Mo) is a superalloy comprised primarily of cobalt and chromium. It's high tensile strength and resistance to creep and corrosion makes it a good material choice for aerospace components and medical instrumentation.",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Our large format metal 3D printers can build metal parts as large as 31.5 in. x 15.7 in. x 19.7 in. in Aluminum and Inconel. Large, 3D-printed parts are often used in industrial settings, aerospace applications, automotive, and energy.",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerated development of medical devices and health care products",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Injection Molding",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Materials",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing Guide",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Machining",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical: ISO 13485",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace: AS9100",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense: ITAR",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers Served",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerated development of medical devices and health care products",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Injection Molding",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Materials",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing Guide",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Machining",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical: ISO 13485",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace: AS9100",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense: ITAR",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical and Health Care",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Invoy Technologies uses rapid injection molding for reusable and disposable parts in its next-gen medical device",
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerated development of medical devices and health care products",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Injection Molding",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Materials",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing Guide",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Machining",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical: ISO 13485",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace: AS9100",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense: ITAR",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": ", our global network of manufacturing partners. Our 25+ years of growth and expanding capabilities provide customers with the best digital manufacturing experience in the industry.",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers Served",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerated development of medical devices and health care products",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   }
+  ],
+  "設備台数": [
+   {
+    "quote": "Our large format metal 3D printers can build metal parts as large as 31.5 in. x 15.7 in. x 19.7 in. in Aluminum and Inconel. Large, 3D-printed parts are often used in industrial settings, aerospace applications, automotive, and energy.",
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "With hundreds of in-house CNC machines, our digital factories have infinite capacity to ensure parts are shipped on-time, every single time.",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "More than 200 machines all under one roof for reliable part delivery within 5 days",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Machines and manufacturing equipment",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "MANUFACTURING MACHINES",
+    "url": "https://www.protolabs.com/media/fu5bziep/factory-x-network-infographic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "machines to our manufacturing floors, they",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "system. Automated software and hardware breeds speed and consistency. Sorry humans, the machines",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "machines that are best suited for the production",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "500 Haas CNC machines, 400 presses, and a",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "houses more than 150 3D printers whose maker",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Each of our 500 Haas CNC machines are specifically configured for",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "company to answer questions that machines",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "and equipment, including Coordinated Measurement Machines (CMM) with proprietary",
+    "url": "https://www.protolabs.com/media/upxpxdpz/pl_quality-compliance-doc.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "He previously ran ColorSpan, an original equipment manufacturer that produces printers and desktop publishing systems.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   }
+  ],
+  "売上・受託売上": [
+   {
+    "quote": "700 Million",
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "700 Million",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Sales & Customer Service, Americas",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Sales & Customer Service, Europe",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "2.1 million sheets",
+    "url": "https://www.protolabs.com/about-us/charitable-giving-and-community-impact/",
+    "pass": 1
+   },
+   {
+    "quote": "We have manufacturing facilities and offices in the United States and throughout Europe. Our sales and customer service teams are available from 8 a.m. to 5 p.m. CST, Monday through Friday, to assist with orders and answer any questions about our services. You can also contact us online at any time.",
+    "url": "https://www.protolabs.com/about-us/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "700 Million",
+    "url": "https://www.protolabs.com/about-us/press/",
+    "pass": 1
+   },
+   {
+    "quote": "How to convert the economics of digital manufacturing into efficiencies, revenue, and profit to enable Product 4.0",
+    "url": "https://www.protolabs.com/about-us/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "Large orders up to 1 million+ parts",
+    "url": "https://www.protolabs.com/services/production/",
+    "pass": 1
+   },
+   {
+    "quote": "2 million",
+    "url": "https://www.protolabs.com/media/fu5bziep/factory-x-network-infographic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "48.6 million",
+    "url": "https://www.protolabs.com/media/fu5bziep/factory-x-network-infographic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "risk of lost sales opportunities because of stock",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "over 1 million 3D-printed part geometries",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "manufacturer has most likely produced millions",
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "$501 million (2024)",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "In 2013, Protolabs reached $150 million in revenue.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "for an aggregate purchase price of $120 million to expand into",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "for $280 million in cash and stock plus incentives.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "\"Proto Labs acquires New Hampshire sheet metal manufacturer for $120 million\"",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "(by revenue)",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Founded in 1999, we radically reduced the time needed to produce molded prototypes through complex software that automated the manufacturing process. Over the next two decades, we added CNC machining, 3D printing, and sheet metal fabrication, and later launched",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing companies established in 1999",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "American companies established in 1999",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   }
+  ],
+  "発言": [
+   {
+    "quote": "President & CEO",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Later, in 2001, Brad Cleveland joined Protomold as CEO and president.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2014, Vicki Holt was named CEO.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2021, Holt retired and was succeeded as CEO by VP and GM of Americas, Robert Bodor, according to a company announcement.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "Bodor led Protolabs through May, 2025, when the company appointed Suresh Krishna as its new president and CEO. Prior to joining Protolabs, Krishna served as president and chief executive officer at",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "\"Protolabs' VP and GM of Americas Named Successor to Company's President and CEO\"",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Protolabs - Wikipedia — Protolabs is a company that provides rapid manufacturing of 3D printed, CNC-machined, sheet metal, and injection-molded custom parts for prototyping and production. [1][2][3][4][5][6] Markets like medical devices, aerospace, electronics, appliances, automotive and consumer products use these parts. [5][6][7] Protolabs' headquarters are located ...",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs | Rapid Prototyping & On-demand Production Services — Protolabs is your custom manufacturing resource from rapid prototyping to end-use production. Get an interactive quote with free design analysis within hours for parts in days.",
+    "url": "https://www.protolabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs | Rapid Prototyping & On-demand Production Services — Protolabs is your custom manufacturing resource from rapid prototyping to end-use production. Choose from injection moulding, CNC machining, and 3D printing for quality parts within days.",
+    "url": "https://www.protolabs.com/en-gb/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs Network (formerly Hubs) | On-demand manufacturing for... — Hubs is now Protolabs Network. Manufacturing capabilities for complex custom parts–from prototypes to production. 3D printing | CNC machining | injection molding.",
+    "url": "https://www.hubs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs · undefined — Protolabs offers rapid manufacturing solutions including 3D printing, CNC machining, and injection molding for custom parts and prototypes.",
+    "url": "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.protolabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/industries/industrial-equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/quality-assurance-at-network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/charitable-giving-and-community-impact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/locations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/procurement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/production/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.protolabs.com/media/2znnuoyk/2026-035-periodic-table-of-manufacturing-materials.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.protolabs.com/media/1020535/protolabs_dmls_design_guide.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.protolabs.com/media/fu5bziep/factory-x-network-infographic.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.protolabs.com/media/1021265/supply_chain_guide.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.protolabs.com/media/upxpxdpz/pl_quality-compliance-doc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Protolabs 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "Protolabs 設立 OR 創業 OR founded",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "Protolabs 売上高 OR 年商",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "Protolabs 金属3Dプリンター 受託 売上",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "Protolabs 金属積層造形 台数 導入",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "Protolabs 受注 量産 大型",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "Protolabs 料金 OR 見積 OR 単価",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "Protolabs 社長 インタビュー 日刊工業新聞",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "Protolabs revenue employees",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "site:note.com Protolabs",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "site:x.com Protolabs",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Protolabs",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "site:facebook.com Protolabs",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "Protolabs note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  },
+  {
+   "query": "Protolabs X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://www.protolabs.com/",
+    "https://www.protolabs.com/en-gb/",
+    "https://www.hubs.com/",
+    "https://buildit.protolabs.com/?lang=en-US&getaquote=true",
+    "https://buildit.protolabs.com/?lang=en-GB",
+    "https://www.protolabs.com/about-us/",
+    "https://identity.protolabs.com/signin",
+    "https://www.protolabs.com/about-us/careers/",
+    "https://www.protolabs.com/Services/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像5件／外部9頁・検索15回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像5件／外部9頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像5件／外部9頁・検索15回）",
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像5件／外部9頁・検索15回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像5件／外部9頁・検索15回）",
+  "認証": "記載なし（3回確認済み：公式14頁／PDF・画像5件／外部9頁・検索15回）",
+  "採用・人数": "記載なし（3回確認済み：公式14頁／PDF・画像5件／外部9頁・検索15回）"
+ }
+}

@@ -1,0 +1,1852 @@
+{
+ "name": "防衛向け金属AM部品の契約額",
+ "en": "defense metal additive manufacturing contract award",
+ "aliases": [
+  "防衛 金属3Dプリンター",
+  "防衛装備 積層造形",
+  "Navy metal 3D printing contract"
+ ],
+ "context": "用途・防衛",
+ "kind": "market",
+ "researched_at": "2026-11-04T10:30:05.734397+00:00",
+ "evidence": {
+  "1件の単価": [
+   {
+    "quote": "6000万円が",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1件でも多くの",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "計１５７件、約332億円分の装備品安定製造等確保計画が認定されています",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１億円 防需100％",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターは、初期費用が低く、形状変更に強く、少量生産に向いている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "一方、金型は初期費用が高いが、一度作ってしまえば、1個あたりのコストが圧倒的に安い",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "報道ベースでは、買収には800億円強が投じられたとされる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "906億2700万円の減損損失",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Nikon SLM Solutionsののれん | 約605億6800万円 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 識別可能無形資産の一部 | 約262億4400万円 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| その他固定資産など | 約38億円規模 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 合計 | 約906億2700万円 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "であって、いま新たに906億円の現金が外に出たという意味ではない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "その後に公表されたNikonの2026年3月期通期実績では、親会社の所有者に帰属する当期損失は860億88百万円となった",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益は6,771億63百万円で前期比5.3％減、営業損益は1,124億48百万円の損失である",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "なお、会社側は2027年3月期について、減損の影響が一巡することなどから、売上収益7,400億円（前期比9.3％増）、最終損益100億円の黒字化を見込むと発表している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Seuratは、200万画素規模のレーザーパターンを「面」として一括照射するArea Printing技術を開発している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "量産1個あたりの単価",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ海軍が3DプリントメーカーのStratasys社と2,000万ドル（約22億円）の契約を締結した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の3DプリンターメーカーImpossible Objectsは2026年9月11日、シリーズBラウンドで4,000万ドル（1ドル約149円換算で約59億6,…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/cases/other-fields/aml3daustralia-221130/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/cases/other-fields/aml3daustralia-221130/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/cases/other-fields/aml3daustralia-221130/",
+    "pass": 3
+   },
+   {
+    "quote": "この１０年で日本の防衛費は、約２倍（４兆円台より８兆円台へ）になっており、防衛産業は活況の状況だ",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3
+   },
+   {
+    "quote": "23年度以降の新セグメントでは、22年度の実績は売上420億円、営業利益は▲101億円",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*2)リブレットに関する費用は次世代プロジェクト本部に帰属し、全社費用に含まれる成⻑投資関連費用として計上",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 装置販売 ＞ 20億円",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益 > 200億円",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益約400億円",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 今年度の売上は、期首計画より数十億円を下回りますが、200億円以上を見込ん",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FY2025ではそれを倍増の400億円以上まで成⻑させる計画です",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ Nikon Organicでは、FY2025までの売上20億円の達成を目指します",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "計期間中に装置販売を20億円以上に伸ばす計画です",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算で39億円の減損損失を計上しましたが、今年度も構造改革費用がかさみ、",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Instant 3D Printing Quote",
+    "url": "https://3dprint.com/322927/velo3ds-32-6m-defense-contract-highlights-why-u-s-made-3d-printing-is-suddenly-critical/",
+    "pass": 3
+   },
+   {
+    "quote": "BioSummer Dental Expands Partnership with 3D Systems, Adds NextDent 300 MultiJet 3D Printer to its Distribution Portfolio for Europe",
+    "url": "https://dailycadcam.com/velo3d-awarded-us-dows-9-8-million-multi-year-contract-supporting-additive-manufacturing-program/",
+    "pass": 3
+   }
+  ],
+  "最大案件・上限": [
+   {
+    "quote": "計１５７件、約332億円分の装備品安定製造等確保計画が認定されています",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１億円 防需100％",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "TDKは、米国のFabric8Labsを最大4億ドルで買収すると発表した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "NikonがSLM Solutionsを買収し、TDKがFabric8Labsを最大4億ドルで買収すると発表した流れは、まさにこの金属AMが「国家・産業インフラ」になり始めたことを示している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "TDKは2026年6月10日、Fabric8Labsを最大4億ドルで買収する契約を発表し、同社のECAM技術をデータセンター冷却、電子部品、半導体パッケージング、AIインフラ向けに活用すると説明している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Fabric8Labs側の発表では、ECAMによる液冷部品は、競合する熱管理ソリューションと比べて、AIアクセラレータ温度を最大7℃/kW低減できると説明されている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabsは2025年に過去最高の約5.331億ドルの売上を記録した",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| TDK | Fabric8Labs | 2026発表 | 米国のECAM金属3Dプリント企業を最大4億ドルで買収予定 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "報道ベースでは、買収には800億円強が投じられたとされる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| その他固定資産など | 約38億円規模 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "であって、いま新たに906億円の現金が外に出たという意味ではない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "なお、会社側は2027年3月期について、減損の影響が一巡することなどから、売上収益7,400億円（前期比9.3％増）、最終損益100億円の黒字化を見込むと発表している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、その後に約906億円の減損を計上し、2026年3月期は過去最大の最終赤字に転落したことで、金属AM市場の普及速度が想定より遅く、競争も厳しい現実が見えた",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "従来のパウダーベッド溶融結合（Powder Bed Fusion：PBF）技術は、小型の造形チャンバーに制約されるため、一般的に最大造形サイズは約300mm以下に限られます",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、標準サイズを超える大型部品にも対応できるようカスタマイズ構成が可能で、最大750kgの大型部品を取り扱える積載能力（Payload Capacity）へ拡張することができます",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊なアトマイズ金属粉末（Atomized Powder）は、場合によっては1kgあたり最大20倍ものコストがかかることがあります",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリントで製造できる最大の金属部品はどのくらいの大きさですか？",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "世界最大の3Dプリンターは何ですか？",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3Dは、アムステルダムの受託製造施設に15台以上の自動化ロボットシステムを導入しており、最大20トンの構造部品まで製造可能な制約のない（Unconstrained）高い拡張性を備えた生産環境を提供しています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "高生産性ロボットセルは毎時最大8kgの積層速度を維持できるため、実際の造形（プリント）工程は非常に短時間で完了します",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ海軍が3DプリントメーカーのStratasys社と2,000万ドル（約22億円）の契約を締結した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "契約内容の主要部分は、Stratasys社の主力3Dプリンター「F900」を最大25台アメリカ海軍に供給することだ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "またStratasys社において最大の政府プロジェクトとなるこの契約は、Stratasys社からの産業用3Dプリンターの存在感を米国政府全体に拡大することになるでしょう",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys社は2020年にラトビアの3Dプリントサービスプロバイダ AM Craft社から、過去最大となる航空宇宙産業関連プロジェクトを受注した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は過去最高となる5,630万ドル …",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/cases/other-fields/aml3daustralia-221130/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/cases/other-fields/aml3daustralia-221130/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3
+   },
+   {
+    "quote": "23年度以降の新セグメントでは、22年度の実績は売上420億円、営業利益は▲101億円",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 装置販売 ＞ 20億円",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益 > 200億円",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益約400億円",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 今年度の売上は、期首計画より数十億円を下回りますが、200億円以上を見込ん",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FY2025ではそれを倍増の400億円以上まで成⻑させる計画です",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ Nikon Organicでは、FY2025までの売上20億円の達成を目指します",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "計期間中に装置販売を20億円以上に伸ばす計画です",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算で39億円の減損損失を計上しましたが、今年度も構造改革費用がかさみ、",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems Receives $10.8 Million Contract Award from U.S. Air Force for Advanced Metal Printing System | 3D Systems",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-108-million-contract-award-us-air-force-advanced-metal-printing",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems Receives $10.8 Million Contract Award from U.S. Air Force for Advanced Metal Printing System",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-108-million-contract-award-us-air-force-advanced-metal-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Two-year contract award for Large-format Metal 3D Printer Advanced Technology Demonstrator",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-108-million-contract-award-us-air-force-advanced-metal-printing",
+    "pass": 3
+   },
+   {
+    "quote": "“We’re pleased to have been awarded this contract and are confident that it will extend the state of the art in metal additive manufacturing within the United States,” said Dr. Jeffrey Graves, president & CEO, 3D Systems. “We look forward to working with the United States Air Force to meet the objectives of this project.”",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-108-million-contract-award-us-air-force-advanced-metal-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Fringe Friday: Pentagon Awards Additive Manufacturing Contracts to 24 Manufacturers",
+    "url": "https://www.heattreattoday.com/fringe-friday-pentagon-awards-additive-manufacturing-contracts-to-24-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "The awards are structured as a firm-fixed-price, indefinite-delivery/indefinite-quantity (IDIQ) contracts with a maximum value of approximately $9.8 million. The contract includes a one-year base period running through February 24, 2027, with four one-year option periods.",
+    "url": "https://www.heattreattoday.com/fringe-friday-pentagon-awards-additive-manufacturing-contracts-to-24-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Profs. Raeymaekers and Spear receive $3.0M Department of Defense award for metal additive manufacturing project - Mechanical Engineering | University of Utah",
+    "url": "https://www.mech.utah.edu/profs-raeymaekers-and-spear-receive-3-0m-department-of-defense-award-for-metal-additive-manufacturing-project/",
+    "pass": 3
+   },
+   {
+    "quote": "Profs. Raeymaekers and Spear receive $3.0M Department of Defense award for metal additive manufacturing project",
+    "url": "https://www.mech.utah.edu/profs-raeymaekers-and-spear-receive-3-0m-department-of-defense-award-for-metal-additive-manufacturing-project/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Awarded US$1.95M by Defense Logistics Agency (DLA) - AeroMorning.com",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive Awarded US$1.95M by Defense Logistics Agency (DLA)",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "Award includes collaboration to convert Nickel, Titanium, Tungsten, and C103 (Niobium alloy) end of life parts into high value powder.",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "Burgettstown, PA, April 2, 2026 – 6K Additive, Inc. (ASX: 6KA) (6K Additive) is pleased to announce that it has been awarded a Phase II contract with a total value of US$1.95 million over an 18-month term and is subject to standard U.S. government contract terms, including performance milestones and termination rights (Award).",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "The Award has an 18-month timeline, and the program aims to prove the concept of an automated sorting prototype and deliver certified batches of tungsten, titanium, and niobium powders. By converting domestic waste into high-performance feedstock, 6K Additive is ensuring that American innovation is powered by American materials.",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "on \"6K Additive Awarded US$1.95M by Defense Logistics Agency (DLA)\"",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems Receives $7.65 Million Contract Award from U.S. Air Force for Advanced Metal Printing System | 3D Systems",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-765-million-contract-award-us-air-force-advanced-metal-printing",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems Receives $7.65 Million Contract Award from U.S. Air Force for Advanced Metal Printing System",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-765-million-contract-award-us-air-force-advanced-metal-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Two-year contract award for Large-format Metal 3D Printer Advanced Technology Demonstrator",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-765-million-contract-award-us-air-force-advanced-metal-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Award is an extension of an existing program to demonstrate key technologies needed for 3D printing large, high-temperature metal structures associated with high-speed flight operating environments",
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-765-million-contract-award-us-air-force-advanced-metal-printing",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems receives $7.65 million contract from U.S. Air Force for advanced metal printing system - Defense and Munitions",
+    "url": "https://www.defenseandmunitions.com/news/3d-systems-receives-7-million-dollar-plus-contract-from-us-air-force-for-advanced-metal-printing-system/",
+    "pass": 3
+   }
+  ],
+  "顧客1社の年間": [
+   {
+    "quote": "定取組として、今後５年間の",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A８-1 装備品等の安定的な製造等を継続していくためには、A社さまからの事業承継後も、事業承継",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター産業は「試作機」から「量産インフラ」へ｜香川友志",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター産業は「試作機」から「量産インフラ」へ",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "「試作は3Dプリンター、量産は金型、そして金型そのものを3Dプリンターで進化させる時代」",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Protolabs | 米国 | デジタル製造、3Dプリント、CNC | 試作・小ロット製造 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Nano Dimension | 2025年1〜9月売上 約6,710万ドル | Markforged買収反映、Desktop Metalは一部非継続扱い |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": ". この統合生産インフラは、24時間365日（24/7）の自動化生産体制で稼働しており、重工業向けに年間数千kg規模の金属部品を生産できる、高い拡張性を備えた受託製造（Contract Manufacturing）体制を提供しています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "超大型の3Dプリンターで強度に優れた多彩な材料を使用することができ、大型パーツ製作や小ロット生産などへの対応を可能にする",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "Impossible Objects、シリーズBで4,000万ドル調達―高速複合材3Dプリンター「CBAM 25」の量産展開を加速",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/cases/other-fields/aml3daustralia-221130/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ SLM社は去る2021年にVISION 2025という独自の中計を発表し、業界の年間平",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "密な協業を継続し、大型部品が製造でき、利益率も高い３Dプリンター機種であ",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 最低でも10 - 15年間",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "のペースを踏まえると、普及率は今後5年間で3倍近くになると予想されます",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新型コロナウイルス感染症収束後は、成⻑速度は回復し、今後５年間の",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A new traveling-grate sinter plant with an annual production capacity of approximately 5.75 million…",
+    "url": "https://www.heattreattoday.com/fringe-friday-pentagon-awards-additive-manufacturing-contracts-to-24-manufacturers/",
+    "pass": 3
+   }
+  ],
+  "用途別": [
+   {
+    "quote": "装備政策課 防衛生産基盤強化法室",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～ 防衛生産基盤強化法に基づく基盤強化措置を、",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 防衛生産・技術基盤の維持・強化がますます重要になっています",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（H29 日本航空宇宙工業会調べ）",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（H28 防衛装備庁調べ）",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防衛生産・技術基盤は、いわば防衛力そのもの",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 基盤の強化に関する基本方針を防衛大臣が定め、公表",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防衛生産基盤強化法が令和5年10月１日に施行されました",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を防衛大臣から受けることで、必要な経費が国から支払われる制度が開始されました",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防衛大臣の求め",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 令和5年10月１日に新たに施行された防衛生産基盤強化法に基づき",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ その事業計画（装備品安定製造等確保計画）を防衛大臣が認定した場合",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "† 防衛装備庁と事業者さまの間で別途契約を締結する必要があります",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サプライチェーンリスクが顕在化している我が国の防衛生産・技術基盤",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「防衛生産基盤強化法」とか",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【News】防衛装備庁より「三次元積層造形技術の使用による装備品の部品」の製造役務を受託、陸上自衛隊車両向け部品の納品を完了 ｜株式会社3D Printing Corporation",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Defense",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備庁より「三次元積層造形技術の使用による装備品の部品」の製造役務を受託、陸上自衛隊車両向け部品の納品を完了",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 3
+   },
+   {
+    "quote": "この度株式会社MadeHereは、防衛装備庁より「三次元積層造形技術の使用による装備品の部品」の製造役務を受託し、対象部品の製造および納品を完了したことをお知らせいたします",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 3
+   },
+   {
+    "quote": "本件は、防衛装備庁による三次元積層造形技術の適用可能性についての検討において、当社の持つ高度な三次元積層造形（3Dプリント）技術を活用して、当社が想定する規程の品質・性能* を満たす部品を製造したものです",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 3
+   },
+   {
+    "quote": "* 今後、防衛省側において評価を実施する予定です",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 3
+   },
+   {
+    "quote": "近年、防衛装備品においては、製造サプライチェーンの途絶リスク対応、長期化する調達期間の短縮が重要な課題となっています",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品に求められる当社が想定した極めて厳しい精度などの要求仕様をクリアする、積層造形プロセスを適用",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 3
+   },
+   {
+    "quote": "当社が想定した強度や物性評価をはじめとした防衛分野の厳しい品質基準に準拠した検査・評価体制を敷き、高い信頼性を担保した製造ラインを構築",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 3
+   },
+   {
+    "quote": "MadeHereが提供するソリューションの本質は、防衛と民間産業の双方で共通して発生している「廃番・調達難に伴う部品課題」を解決することにあります",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 3
+   },
+   {
+    "quote": "MadeHereは今後も、防衛装備品における調達の柔軟性・効率化へ貢献し続けると同時に、エネルギー・化学・医薬・食品プラントといった重要インフラの保全領域においても、廃番部品の調達リスクを解消するデュアルユース企業として、双方の領域で課題解決をより一層力強く牽引してまいります",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 3
+   },
+   {
+    "quote": "一方、金属AMは、航空宇宙、防衛、医療、半導体、AIデータセンター、ロボット、金型へ広がっている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、金型、工作機械、電子部品、材料、精密加工、品質保証では、まだ強い",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "「3Dプリンターが金型を消す時代」ではない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "「試作は3Dプリンター、量産は金型、そして金型そのものを3Dプリンターで進化させる時代」",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "もう一方には、航空宇宙、防衛、医療、半導体、AIデータセンター、電子部品、金型、ロボット部品に向かう、産業用・金属AM市場がある",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、世界のプラスチック・金属3Dプリンター業界の全体像、主要企業、売上規模、業界再編、日本企業の買収、Nikonの減損、そして「日本はまだ金型時代なのか」という問いまで含めて整理する",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター市場：航空宇宙、防衛、医療、AIインフラへ",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "日本はまだ金型時代なのか",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "本当に大事なのは「金型を3Dプリンターで進化させる」こと",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "用途は、試作、治具、検査具、歯科、医療、少量生産、カスタム部品などである",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、防衛、医療インプラント、半導体、データセンター冷却部品、精密電子部品、金型、ロボット部品などに広がっている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "TDKは2026年6月10日、Fabric8Labsを最大4億ドルで買収する契約を発表し、同社のECAM技術をデータセンター冷却、電子部品、半導体パッケージング、AIインフラ向けに活用すると説明している",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "TDKが欲しいのは、AIデータセンター時代に必要となる、冷却部品、熱管理部品、電源周辺部品、半導体周辺部品を作るための製造技術である",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "上では、航空宇宙、防衛、医療、AIデータセンター向けの高付加価値な金属AMが進む",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、防衛、エネルギー、医療などで使われる大型金属部品向け装置に強みを持つ",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作コストを削減： デジタルCADデータからロボットの造形パスを直接生成することで、金型製作工程を完全に省略します",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "実績と認証に裏付けられた導入事例： 安全性が重要なパイプラインクランプ、エネルギー分野向け大型インペラ、さらに世界初の実用3Dプリント鋼製歩道橋など、数々の実績により、その技術力と信頼性が実証されています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "また、**鋳造（Casting）**では高価な専用金型や鋳型の製作に数か月を要し、自由鍛造（Open-Die Forging）では長い調達リードタイムが発生するため、重要なインフラプロジェクトが最長で1年程度停滞することもあります",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "また、レーザー指向エネルギー堆積（Laser Directed Energy Deposition：DED）システムも、高精度な多軸ガントリー構造や大型のシールドガスチャンバーに依存するため、作業範囲や可動性が制限されます",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "また、レーザー指向エネルギー堆積（Laser Directed Energy Deposition：DED）はパウダーベッド方式より高速に造形できますが、高額な設備コストと金属粉末の利用効率の限界により、大型部品の製造には依然として制約があります",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "金型不要・金型製作リードタイムゼロ",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "従来の重工業製造は、大量生産を前提とした金型（Tooling）に大きく依存しています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、これらの専用金型の初期製作費は数千ユーロを大きく超えることが多く、少量生産や一品製作（One-off）の経済性を大きく損ないます",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "公共インフラ分野にとどまらず、MX3Dはエネルギー分野の厳しい使用環境向けに設計された350kgのニッケルアルミニウム青銅（Nickel-Aluminum Bronze）製インペラを成功裏に製造しました",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー分野向け部品および産業用圧力容器",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー産業",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー産業では、石油・ガスの上流工程（探鉱・生産）、下流工程（精製）、そして発電設備に使用される機器が、高圧、急激な温度変化、腐食性流体に耐える必要があります",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "**Wire Arc Additive Manufacturing（WAAM）**は、このリードタイムを大幅に短縮し、原材料の無駄を最小限に抑えながらニアネットシェイプ（Near-Net-Shape）のエネルギー部品を製造するとともに、国際的な圧力容器設計基準に適合した高品質な部品を提供します",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛・航空宇宙産業では、サプライチェーンの独立性と迅速な装備近代化能力が極めて重要です",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "大型構造ブラケット、輸送フレーム、または旧式防衛プラットフォーム向け交換部品を脆弱なグローバルサプライチェーンに依存することは、大きな戦略的リスクとなります",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "医療（168）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙における「F900」",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   }
+  ],
+  "価格を決める要因": [
+   {
+    "quote": "▸ 人工知能（AI）による検査工程自動化",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 情報システム上の強化（多要素認証等）",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業における事例② 航空機部品製造工程の検査業務への3D画像測定機導入",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 航空機部品の検査工程に、最新の",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品を検査する様子（現行の",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・脆弱性調査の結果に基づく、入退室管理装置・監視カメラ・静脈認証装置の導入",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組には、検査工程の効率化も含",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "入による測定結果のデジタル化など、検査工程を効率化する計画につい",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社が想定した強度や物性評価をはじめとした防衛分野の厳しい品質基準に準拠した検査・評価体制を敷き、高い信頼性を担保した製造ラインを構築",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 3
+   },
+   {
+    "quote": "用途は、試作、治具、検査具、歯科、医療、少量生産、カスタム部品などである",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、単に安く作ることよりも、材料特性、再現性、精度、後処理、ワークフロー、ソフトウェア、品質保証が重要になる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー、光学、粉末材料、熱制御、造形シミュレーション、品質検査、計測、後処理、量産管理が一体になった製造システムである",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabsの強さは、デスクトップサイズでありながら、業務用途に使える品質、材料、ソフトウェア、後処理装置、歯科・医療向けワークフローを持っている点にある",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "後処理が必要になる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "品質検査が必要になる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙や医療では認証が必要になる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 治具・検査具 | 3Dプリンター |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙や医療では、造形後にCT検査などの全数検査が必要になることも多く、これがコストを押し上げている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "これが成熟すれば、「造形してから検査する」から「造形しながら保証する」へ変わる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "認証コストが下がれば、金属AMの適用範囲は一気に広がる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "材料、設計、シミュレーション、造形条件、品質保証、後処理、検査、納品まで含めて提供できる会社が強くなる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMでは、造形失敗、熱歪み、空孔、割れ、表面粗さ、後処理、認証が大きな問題になる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、設計ソフト、シミュレーション、AIによる造形条件最適化、インライン検査、品質データ管理が重要になる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "設計、解析、材料、プロセス、検査、認証まで含めたシステムである",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "実績と認証に裏付けられた導入事例： 安全性が重要なパイプラインクランプ、エネルギー分野向け大型インペラ、さらに世界初の実用3Dプリント鋼製歩道橋など、数々の実績により、その技術力と信頼性が実証されています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ヨーロッパ有数の認証・実績を備えた生産施設であるMX3Dは、この技術の産業規模での実用性を実証しており、世界的に有名な…をはじめとする重要な構造物の製造を先駆的に手がけています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "大型金属部品の受託製造（Contract Manufacturing）には、大容量ロボット生産システムと厳格な品質認証基準を同時に管理できる統合生産施設が求められます",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "3つ目の代表的な事例として、MX3Dは高圧の石油・ガス環境向けに設計された認証取得済みの構造用パイプラインクランプを製造しました",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "この安全性が極めて重要な（Safety-Critical）部品は、第三者機関による**厳格な非破壊検査（NDT）**を実施しており、Wire Arc Additive Manufacturing（WAAM）で製造された部品が、高い密度、優れた機械的特性、そして厳格な規制・認証要件を満たし、高リスク環境において従来の大型鍛造継手（Heavy Forged Fittings）に代わる実用的な選択肢となることを実証しました",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "このような**オープンな材料エコシステム（Open Material Ecosystem）により、エンジニアは使い慣れた認証済みの冶金材料（Metallurgy）**をそのまま活用し、積層造形へスムーズに移行することが可能です",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、エンジニアリングチームは**後処理（Post-Processing）や品質認証・検証（Qualification）**により多くの時間を充てることができます",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3Dは、ヨーロッパを代表するロボットWAAM（Wire Arc Additive Manufacturing）生産施設を運営しており、24時間365日（24/7）稼働する15基以上の自動化生産セルを活用して、世界で最も要求水準の高い産業向けに認証取得済みのニアネットシェイプ（Near-Net-Shape）部品を提供しています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "緊急の一点物（One-off）の交換部品の製造から、自社（In-house）向け大型WAAM生産システムの導入検討まで、MX3Dはアムステルダムの主要生産拠点から、専門的な技術サポート、認証済みの品質保証、そして迅速な納期対応を提供します",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットWAAM部品の非破壊検査手法：完全な産業認証ガイド | MX3D",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "米ボーイング、ストラタシス社Antero 800NA材料を認証",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "AML3Dの金属3Dプリンターは、ロボットアームの先端に肉盛り溶接の機能を取り付けたような外観をしており、すでに取得している業界認定や標準に加え、航空・宇宙・防衛産業の追加要件を規定するAS9100D認定の取得にも注力してきた",
+    "url": "https://news.sharelab.jp/cases/other-fields/aml3daustralia-221130/",
+    "pass": 3
+   },
+   {
+    "quote": "AS9100D認定の取得などへの取り組みもあって、自信を見せるAML3D",
+    "url": "https://news.sharelab.jp/cases/other-fields/aml3daustralia-221130/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/cases/other-fields/aml3daustralia-221130/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3
+   },
+   {
+    "quote": "■レーザーレーダ・X線/CT検査装置",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エアライン・OEMとの協業による認証獲得",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在進行中のAM製造部品の認証プロセスの完了",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership Opportunities",
+    "url": "https://www.mech.utah.edu/profs-raeymaekers-and-spear-receive-3-0m-department-of-defense-award-for-metal-additive-manufacturing-project/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Extension Partnership (MEP) Center",
+    "url": "https://www.mech.utah.edu/profs-raeymaekers-and-spear-receive-3-0m-department-of-defense-award-for-metal-additive-manufacturing-project/",
+    "pass": 3
+   },
+   {
+    "quote": "Research Fellowships",
+    "url": "https://www.mech.utah.edu/profs-raeymaekers-and-spear-receive-3-0m-department-of-defense-award-for-metal-additive-manufacturing-project/",
+    "pass": 3
+   },
+   {
+    "quote": "Financial Aid & Scholarships",
+    "url": "https://www.mech.utah.edu/profs-raeymaekers-and-spear-receive-3-0m-department-of-defense-award-for-metal-additive-manufacturing-project/",
+    "pass": 3
+   },
+   {
+    "quote": "This project is a collaboration between the University of Utah and the Colorado School of Mines, as well as the Utah and Colorado Manufacturing Extension Partnership Centers.",
+    "url": "https://www.mech.utah.edu/profs-raeymaekers-and-spear-receive-3-0m-department-of-defense-award-for-metal-additive-manufacturing-project/",
+    "pass": 3
+   },
+   {
+    "quote": "Certification",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Partnership with the US DoD",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "· In-house post-processing capabilities that enable transformation of scrap, such as machine turnings and end-of-life parts, into premium spherical powders.",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "certification",
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "pass": 3
+   },
+   {
+    "quote": "Post-processing",
+    "url": "https://3dprint.com/322927/velo3ds-32-6m-defense-contract-highlights-why-u-s-made-3d-printing-is-suddenly-critical/",
+    "pass": 3
+   },
+   {
+    "quote": "Formnext 2026 Preview: Ceramics 3D Printing, Post-Processing, & More",
+    "url": "https://3dprint.com/322927/velo3ds-32-6m-defense-contract-highlights-why-u-s-made-3d-printing-is-suddenly-critical/",
+    "pass": 3
+   },
+   {
+    "quote": "3.1 Develop and share new approaches to certification and qualification. ........................... 12",
+    "url": "https://www.cto.mil/wp-content/uploads/2021/01/dod-additive-manufacturing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "certification of AM parts , (2) new business",
+    "url": "https://www.cto.mil/wp-content/uploads/2021/01/dod-additive-manufacturing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "including qualification and certification",
+    "url": "https://www.cto.mil/wp-content/uploads/2021/01/dod-additive-manufacturing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "qualification and certification guides to",
+    "url": "https://www.cto.mil/wp-content/uploads/2021/01/dod-additive-manufacturing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "qualification and certification process to improve",
+    "url": "https://www.cto.mil/wp-content/uploads/2021/01/dod-additive-manufacturing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainment, in partnership with the Navy",
+    "url": "https://www.cto.mil/wp-content/uploads/2021/01/dod-additive-manufacturing-strategy.pdf",
+    "pass": 3
+   }
+  ],
+  "受託会社の売上": [
+   {
+    "quote": "この記事では、世界のプラスチック・金属3Dプリンター業界の全体像、主要企業、売上規模、業界再編、日本企業の買収、Nikonの減損、そして「日本はまだ金型時代なのか」という問いまで含めて整理する",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Wohlers Report 2026によると、世界のAM関連売上は2025年に",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "この低価格デスクトップ市場は30％超成長し、その売上規模が産業用金属・ポリマー装置販売にほぼ並ぶ水準になっているとされる",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysや3D Systemsは、売上の伸び悩み、赤字、リストラ、事業再編と向き合っている",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "7. 売上リスト：公開企業と非公開企業を分けて見る",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター業界の売上比較は注意が必要である",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、単純に「売上が大きい会社＝3Dプリンター本体で強い会社」とは言えない",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "7-1. 公開情報で確認できる主要企業の売上",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Xometry | 2025年売上 約6.866億ドル | 3Dプリントだけでなく、CNC、板金など製造マーケットプレイス全体 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Stratasys | 2025年売上 約5.511億ドル | 産業用ポリマーAM中心 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Protolabs | 2025年売上 約5.331億ドル | 3Dプリント、CNC、射出成形など含む |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| 3D Systems | 2025年売上 約3.869億ドル | 医療・産業AM",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "| Materialise | 2025年売上 約2.676億ユーロ | ソフトウェア、医療、製造 |",
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "pass": 3
+   },
+   {
+    "quote": "SALES@HDC3D.COM",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "sales@hdc3d.com",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は過去最高となる5,630万ドル …",
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "pass": 3
+   },
+   {
+    "quote": "23年度以降の新セグメントでは、22年度の実績は売上420億円、営業利益は▲101億円",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ SLM社は、売上規模で世界第3位の金属3Dプリンターメーカーであり、業界の",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 対事業部売上収益 ＞ 20%",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益 > 200億円",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益約400億円",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FY2030に向けては、SLM社以外の売上比率を20%程度まで",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 今年度の売上は、期首計画より数十億円を下回りますが、200億円以上を見込ん",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ Nikon Organicでは、FY2025までの売上20億円の達成を目指します",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 2021-2025で5倍の売上に成⻑",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "均成⻑率予測26%を大きく上回る、5年で5倍の売上高、マーケットシェアNo.1",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 売上高は、2021年に75百万ユーロ、2022年に105百万ユーロと拡大を続け、",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Financials: 6K Additive’s Orders Surge as Revenue Climbs 61%",
+    "url": "https://3dprint.com/322927/velo3ds-32-6m-defense-contract-highlights-why-u-s-made-3d-printing-is-suddenly-critical/",
+    "pass": 3
+   },
+   {
+    "quote": "6K Additive (ASX: 6KA) reported higher revenue and a record order backlog in its latest quarterly results, as growing demand for metal powders continues to push the company to expand...",
+    "url": "https://3dprint.com/322927/velo3ds-32-6m-defense-contract-highlights-why-u-s-made-3d-printing-is-suddenly-critical/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1335/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/nf65a446ed216",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/57970/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/3d-printing-in-aerospace-and-defense-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/article/world/japan/2-idUSTYE9AJ074/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/news/0/901019",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r06_chotatsu_jisseki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sattu-ai-agent.com/2026/09/17/defence-2027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E3%81%8A%E3%82%88%E3%81%B3%E9%98%B2%E8%A1%9B%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%B8%82%E5%A0%B4-106550",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/3d%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%E3%80%81%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E3%83%BB%E9%98%B2%E8%A1%9B%E5%90%91%E3%81%91%E3%81%AB%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3-2/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/other-fields/aml3daustralia-221130/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.postation.jp/military/procurement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/ab1/20241028/sankou1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kobonavi.co.jp/defense-equipment-contracts-ranking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dla.mil/About-DLA/News/News-Article-View/Article/3967178/dla-awards-first-competitive-contract-for-additive-manufacturing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-108-million-contract-award-us-air-force-advanced-metal-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heattreattoday.com/fringe-friday-pentagon-awards-additive-manufacturing-contracts-to-24-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mech.utah.edu/profs-raeymaekers-and-spear-receive-3-0m-department-of-defense-award-for-metal-additive-manufacturing-project/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dprintedparts.com/2021/07/19/additive-excellence-defense-contracting-with-confidence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-765-million-contract-award-us-air-force-advanced-metal-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defenseandmunitions.com/news/3d-systems-receives-7-million-dollar-plus-contract-from-us-air-force-for-advanced-metal-printing-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/201/velo3d-awarded-9-8-million-multi-year-department-of-war",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/metalammagazine_defense-additivemanufacturing-3dprinting-activity-7366907556184723456-Opja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/elmet-technologies-received-4-3-million-us-defense-contract-for-molybdenum-components/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://3dprint.com/322927/velo3ds-32-6m-defense-contract-highlights-why-u-s-made-3d-printing-is-suddenly-critical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cto.mil/wp-content/uploads/2021/01/dod-additive-manufacturing-strategy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dailycadcam.com/velo3d-awarded-us-dows-9-8-million-multi-year-contract-supporting-additive-manufacturing-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/191/velo3d-secures-department-of-war-contract-valued-at-32-6m",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "防衛向け金属AM部品の契約額 単価 万円",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "http://3d.kinzoku-kakou-odec.com/column/column-1335/",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://aminsightasia.com/ja/market-insights-ja/japan-defense-industry-additive-manufacturing-ja/",
+    "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/ab1/20241028/sankou1.pdf",
+    "https://sattu-ai-agent.com/2026/09/17/defence-2027/",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html"
+   ]
+  },
+  {
+   "query": "防衛向け金属AM部品の契約額 費用 相場",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://hdc3d.com/ja/portfolio-item/%E5%A4%A7%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%A4%A7%E5%9E%8B%E7%94%A3%E6%A5%AD%E9%83%A8%E5%93%81%E5%90%91%E3%81%91waam%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/",
+    "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-1335/",
+    "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/57970/",
+    "https://straitsresearch.com/jp/report/3d-printing-in-aerospace-and-defense-market",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://blog.met3dp.com/ja/blog/how-to-compare-metal-am-suppliers-by-total-cost-in-2026-sourcing/"
+   ]
+  },
+  {
+   "query": "防衛向け金属AM部品の契約額 最大 受注 億円",
+   "results": [
+    "https://www.reuters.com/jp/article/world/japan/2-idUSTYE9AJ074/",
+    "https://shikiho.toyokeizai.net/news/0/901019",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://news.sharelab.jp/3dp-news/ir/us-navy-210921/",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r06_chotatsu_jisseki.pdf",
+    "https://sattu-ai-agent.com/2026/09/17/defence-2027/",
+    "https://www.youtube.com/watch?v=z0gXYQvaHxw",
+    "https://aminsightasia.com/ja/market-insights-ja/japan-defense-industry-additive-manufacturing-ja/",
+    "https://www.jcp.or.jp/akahata/aik26/2026-07-05/2026070501_01_0.php",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html"
+   ]
+  },
+  {
+   "query": "防衛向け金属AM部品の契約額 量産 受注 年間",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E3%81%8A%E3%82%88%E3%81%B3%E9%98%B2%E8%A1%9B%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%B8%82%E5%A0%B4-106550",
+    "https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/57970/",
+    "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "https://straitsresearch.com/jp/report/3d-printing-in-aerospace-and-defense-market",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/3d%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%E3%80%81%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E3%83%BB%E9%98%B2%E8%A1%9B%E5%90%91%E3%81%91%E3%81%AB%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3-2/",
+    "https://news.sharelab.jp/cases/other-fields/aml3daustralia-221130/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-1335/",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html"
+   ]
+  },
+  {
+   "query": "防衛向け金属AM部品の契約額 売上高 受託",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/57970/",
+    "https://shikiho.toyokeizai.net/news/0/901019",
+    "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/event/pdf/2024/24_irday_adm_1.pdf",
+    "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/ab1/20241028/sankou1.pdf",
+    "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html"
+   ]
+  },
+  {
+   "query": "defense metal additive manufacturing contract award price per part",
+   "results": [
+    "https://www.dla.mil/About-DLA/News/News-Article-View/Article/3967178/dla-awards-first-competitive-contract-for-additive-manufacturing/",
+    "https://www.3dsystems.com/press-releases/3d-systems-receives-108-million-contract-award-us-air-force-advanced-metal-printing",
+    "https://www.heattreattoday.com/fringe-friday-pentagon-awards-additive-manufacturing-contracts-to-24-manufacturers/",
+    "https://www.mech.utah.edu/profs-raeymaekers-and-spear-receive-3-0m-department-of-defense-award-for-metal-additive-manufacturing-project/",
+    "https://www.3dprintedparts.com/2021/07/19/additive-excellence-defense-contracting-with-confidence/",
+    "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "https://govtribe.com/award/federal-contract-award/purchase-order-fa864925p0293",
+    "https://www.voxelmatters.com/elmet-technologies-received-4-3-million-us-defense-contract-for-molybdenum-components/",
+    "https://blog.met3dp.com/blog/how-to-estimate-cost-for-metal-additive-manufacturing-in-2026-framework/",
+    "https://www.icmrl.net/dla-award"
+   ]
+  },
+  {
+   "query": "defense metal additive manufacturing contract award largest contract million",
+   "results": [
+    "https://www.3dsystems.com/press-releases/3d-systems-receives-765-million-contract-award-us-air-force-advanced-metal-printing",
+    "https://www.defenseandmunitions.com/news/3d-systems-receives-7-million-dollar-plus-contract-from-us-air-force-for-advanced-metal-printing-system/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/201/velo3d-awarded-9-8-million-multi-year-department-of-war",
+    "https://www.linkedin.com/posts/metalammagazine_defense-additivemanufacturing-3dprinting-activity-7366907556184723456-Opja",
+    "https://www.voxelmatters.com/elmet-technologies-received-4-3-million-us-defense-contract-for-molybdenum-components/",
+    "https://3dprint.com/322927/velo3ds-32-6m-defense-contract-highlights-why-u-s-made-3d-printing-is-suddenly-critical/",
+    "https://www.3dnatives.com/en/map-additive-manufacturing-defense-united-states-05052026/",
+    "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "https://thedefensepost.com/2026/08/18/stratasys-3d-printing-us-funding/",
+    "https://www.metal-am.com/3d-systems-awarded-7-65m-us-air-force-contract-for-large-format-metal-am/"
+   ]
+  },
+  {
+   "query": "defense metal additive manufacturing contract award serial production long-term agreement value",
+   "results": [
+    "https://www.dla.mil/About-DLA/News/News-Article-View/Article/3967178/dla-awards-first-competitive-contract-for-additive-manufacturing/",
+    "https://www.3dsystems.com/press-releases/3d-systems-receives-108-million-contract-award-us-air-force-advanced-metal-printing",
+    "https://www.voxelmatters.com/elmet-technologies-received-4-3-million-us-defense-contract-for-molybdenum-components/",
+    "https://www.youtube.com/watch?v=Pac5A8_6dhc",
+    "https://www.3dprintedparts.com/2021/07/19/additive-excellence-defense-contracting-with-confidence/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/201/velo3d-awarded-9-8-million-multi-year-department-of-war",
+    "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "https://www.cto.mil/wp-content/uploads/2021/01/dod-additive-manufacturing-strategy.pdf",
+    "https://www.linkedin.com/posts/metalammagazine_defense-additivemanufacturing-3dprinting-activity-7366907556184723456-Opja",
+    "https://dailycadcam.com/velo3d-awarded-us-dows-9-8-million-multi-year-contract-supporting-additive-manufacturing-program/"
+   ]
+  },
+  {
+   "query": "defense metal additive manufacturing contract award revenue",
+   "results": [
+    "https://investor.3dsystems.com/news/news-details/2025/3D-Systems-Receives-7-65-Million-Contract-Award-from-U-S--Air-Force-for-Advanced-Metal-Printing-System/default.aspx",
+    "https://www.defenseandmunitions.com/news/3d-systems-receives-7-million-dollar-plus-contract-from-us-air-force-for-advanced-metal-printing-system/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/201/velo3d-awarded-9-8-million-multi-year-department-of-war",
+    "https://www.linkedin.com/posts/metalammagazine_defense-additivemanufacturing-3dprinting-activity-7366907556184723456-Opja",
+    "https://www.voxelmatters.com/elmet-technologies-received-4-3-million-us-defense-contract-for-molybdenum-components/",
+    "https://www.dla.mil/About-DLA/News/News-Article-View/Article/3967178/dla-awards-first-competitive-contract-for-additive-manufacturing/",
+    "https://www.3dnatives.com/en/map-additive-manufacturing-defense-united-states-05052026/",
+    "https://www.3dprintedparts.com/2021/07/19/additive-excellence-defense-contracting-with-confidence/",
+    "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/191/velo3d-secures-department-of-war-contract-valued-at-32-6m"
+   ]
+  },
+  {
+   "query": "site:note.com 防衛向け金属AM部品の契約額",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/good_dill292/n/nea281867c3a3",
+    "https://note.com/ryusun_ryusun/n/n71ed3580ec07",
+    "https://note.com/kagawatomo/n/ndb06a6b0c405",
+    "https://note.com/good_dill292/n/nee8a8fb8e7b9",
+    "https://note.com/_takumi_inoue_/n/n1d3a5511ec86",
+    "https://note.com/loyal_bonobo9275/n/n0cd704738be9",
+    "https://note.com/cozyiwasaki/n/n11412bc6244f",
+    "https://note.com/ichi_twnovel/n/n53b5aa039a0c",
+    "https://note.com/aibusinesshunter/n/n91749f7a4dc7"
+   ]
+  },
+  {
+   "query": "site:x.com 防衛向け金属AM部品の契約額",
+   "results": [
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/t_ryoma1985/status/1964195480763846722",
+    "https://x.com/t_ryoma1985/status/2007731224287293451",
+    "https://x.com/t_ryoma1985/status/2025027897640304991",
+    "https://x.com/t_ryoma1985/status/2066849439193632862",
+    "https://x.com/KagawaTomo/status/2114252240265605568",
+    "https://x.com/t_ryoma1985/status/2042881986482888738",
+    "https://x.com/luigi_jpn/status/2115347987530678592",
+    "https://x.com/t_ryoma1985/status/2027933655851741234",
+    "https://x.com/HayamiKei_AI/status/2089050845006778545"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 防衛向け金属AM部品の契約額",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "https://jp.linkedin.com/pulse/industry-ready-power-multimaterial-additive-manufacturing-cm0tf?tl=ja",
+    "https://jp.linkedin.com/pulse/%E6%B7%BB%E5%8A%A0%E5%89%A4%E3%81%AE%E3%82%A2%E3%83%AD%E3%82%A4%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E7%86%9F%E5%BA%A6%E5%88%86%E6%9E%90%E5%9C%B0%E5%9F%9F%E9%96%93%E6%A0%BC%E5%B7%AE%E3%81%A8%E6%88%90%E9%95%B7%E3%83%9B%E3%83%83%E3%83%88%E3%82%B9%E3%83%9D%E3%83%83%E3%83%882026%E5%B9%B42033%E5%B9%B4-truenorth-analyticsz-2mome",
+    "https://jp.linkedin.com/pulse/3d%E5%8D%B0%E5%88%B7%E7%94%A8%E7%90%83%E7%8A%B6%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E3%81%AE%E6%B4%9E%E5%AF%9F2026%E5%B9%B42033%E5%B9%B4%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8796%E3%81%A7%E6%88%90%E9%95%B7-insightflow-researchx-lubee",
+    "https://jp.linkedin.com/pulse/%E6%B4%9E%E5%AF%9F%E3%81%AB%E6%BA%80%E3%81%A1%E3%81%9F%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90%E7%9B%B4%E8%BF%91%E3%81%AE%E5%AE%9F%E7%B8%BE%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8744%E3%81%A7%E3%81%AE-7518038645388263425-sjbne",
+    "https://jp.linkedin.com/pulse/%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%95%E3%82%A1%E3%82%AF%E3%83%81%E3%83%A3%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B7%E3%83%B3-market%E3%81%AE%E5%8F%8E%E7%9B%8A%E3%81%A8%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AEcagr%E3%81%AF115-euvne",
+    "https://jp.linkedin.com/in/weichen-joe-chang-07346488",
+    "https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E9%9B%BB%E6%B0%97%E5%85%89%E5%AD%A6%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A9%B3%E7%B4%B0%E5%88%86%E6%9E%90%E3%81%9D%E3%81%AE%E6%80%A5%E9%80%9F%E3%81%AB%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B94%E3%81%AEcagr%E3%81%8C2026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE%E6%9C%9F%E9%96%93%E3%81%AB%E4%BA%88%E6%B8%AC-deco-drive-zdc2e",
+    "https://jp.linkedin.com/pulse/%E8%BF%BD%E5%8A%A0%E3%81%AE%E8%A3%BD%E9%80%A0%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2-market-report-2026-2033-%E5%B8%82%E5%A0%B4%E3%81%AE%E8%AA%B2%E9%A1%8C%E8%B2%A9%E5%A3%B2%E6%95%B0%E9%87%8F%E5%8F%8E%E7%9B%8A%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%8A%E3%82%88%E3%81%B357%E3%81%AE%E9%A1%95%E8%91%97%E3%81%AAcagr%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%AC-ehdoe",
+    "https://www.linkedin.com/posts/kogusu_amca3億ドル調達し評価額10億ドル超-防衛航空部品を国内製造-activity-7468619706652884992-uC3d"
+   ]
+  },
+  {
+   "query": "site:facebook.com 防衛向け金属AM部品の契約額",
+   "results": [
+    "https://www.facebook.com/GEJapan/",
+    "https://www.facebook.com/shigeru.handa.5/posts/防衛産業が空前の売り上げに沸いています最大手三菱重工の契約額は初の1兆円超え敵基地攻撃ミサイルが利益を押し上げています見返りに防衛省自衛隊から5年間で19人が天/3020930801378124/",
+    "https://www.facebook.com/jpShareLab/posts/金属am市場2034年に9兆円規模へvoxelmattersが最新市場レポートを公開金属積層造形分野の専門調査会社voxelmattersは2025年に向けた最/1288246973302792/",
+    "https://www.facebook.com/INTERMOLD/photos/1536547798265309/",
+    "https://www.facebook.com/damko.lukac/videos/もう一度真剣に言います注目銘柄製造業国策関連三菱重工業-防衛航空宇宙分野の中核企業-国防需要や宇宙関連投資の拡大とともに-中長期で存在感が高まる可能性jx金属-/1427919799354394/",
+    "https://www.facebook.com/thebridgejp/photos/️-22歳創業の米防衛テックmach-industries3億ドル調達で評価額18億ドルに-シリーズcで3億ドル調達-infinite-capitalとribb/1740695497699048/",
+    "https://www.facebook.com/373news/posts/契約額の累計1兆円超へ防衛省25年度馬毛島整備予算案に473億円-基地の完成時期は計画の3年遅れ30年3月末-防衛省は２７日閣議決定された２０２５年度予算案に鹿/1160209452776804/",
+    "https://www.facebook.com/AbeShinzoBronzeStatue/videos/広島県呉市の日鉄跡地新たな防衛拠点へ小泉進次郎防衛大臣のさらなる覚醒か防衛省が広島県呉市にある日本製鉄跡地の取得に向け売買契約を正式に締結したかつて日本の鉄鋼業/1072278465418513/"
+   ]
+  },
+  {
+   "query": "防衛向け金属AM部品の契約額 note 社長",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/sakak01/n/n69e22a9bf352",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://sumitomoelectric.com/jp/press/2023/07/prs094",
+    "https://note.com/lucky_whale741/n/n0138150d4758",
+    "https://aminsightasia.com/ja/market-insights-ja/japan-defense-industry-additive-manufacturing-ja/",
+    "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "https://prtimes.jp/main/html/rd/p/000000058.000032276.html",
+    "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "https://note.com/fiscast/n/n1020fc8818ac"
+   ]
+  },
+  {
+   "query": "防衛向け金属AM部品の契約額 X 投稿",
+   "results": [
+    "https://x.com/JGSDF_pr/status/1821856536773456365",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/meltio-250331/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://www.spee3d.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%87%E3%82%A3%E3%83%95%E3%82%A7%E3%83%B3%E3%82%B9/",
+    "https://www.arpc.afrc.af.mil/News/Article-Display/Tag/70434/additive-manufacturing/",
+    "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf",
+    "https://aminsightasia.com/ja/market-insights-ja/japan-defense-industry-additive-manufacturing-ja/",
+    "https://markforged.com/jp/icp/federal-and-defense",
+    "https://news.sharelab.jp/cases/other-fields/nikon-am-synergy-diu-forge-contract-aerospace-am-260327/"
+   ]
+  },
+  {
+   "query": "defense metal additive manufacturing contract award site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/precisionadditivesolutions_were-honored-to-share-that-precision-additive-activity-7449833997406298114-Qric",
+    "https://www.linkedin.com/company/precisionadditivesolutions",
+    "https://www.linkedin.com/in/alexandra-vest-91bab216b",
+    "https://www.linkedin.com/posts/mhub-chicago_mhub-mhubmembermilestones-grant-activity-7508193402249887744-T1bM",
+    "https://www.linkedin.com/posts/ouswre_dodresearch-additivemanufacturing-defenseinnovation-activity-7338576445817978880-YPQQ",
+    "https://www.linkedin.com/posts/ampulse-daily_stratasys-wins-78m-america-makesdod-award-activity-7495775299326889984-GGCF",
+    "https://www.linkedin.com/in/jeremiah-bunting-61546019",
+    "https://www.linkedin.com/in/bryceallen1",
+    "https://www.linkedin.com/in/pedrumsodouri",
+    "https://www.linkedin.com/in/dan-haller-0700a321"
+   ]
+  }
+ ],
+ "missing": {}
+}
