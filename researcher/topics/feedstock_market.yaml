@@ -1,5 +1,5 @@
 # 本人の指示（2026-11-04）：対象3分野（航空・宇宙／AI・半導体のパワー半導体／マテリアル）に絞り、金属AMの原料（粉・ワイヤ・金属フィラメント）特化の市場を客観数値で決める。
-# 取る数字：市場規模・成長率、どう売られているか（直販・商社・装置メーカーの純正縛り）、繰り返し買われる度合い（1台あたりの年間消費量・認定で原料が固定されるか・買い替え頻度）、価格（1kgあたり）、上位シェア、日本の買い手と供給元。
+# 取る数字：ニッチ度（供給元の数・寡占）、CAGR、主要プレイヤー複数社、市場規模・成長率、どう売られているか（直販・商社・装置メーカーの純正縛り）、繰り返し買われる度合い（1台あたりの年間消費量・認定で原料が固定されるか・買い替え頻度）、価格（1kgあたり）、上位シェア、日本の買い手と供給元。
 # 引用のまま取る。要約・解釈・順位づけはしない。日本と世界の両方。
 kind: market
 title: 金属AM原料（粉・ワイヤ・フィラメント）— 市場規模・売り方・繰り返し性・価格・シェア（3分野向け）
@@ -12,20 +12,30 @@ evidence:
   売り方・商流: [直販, 代理店, 商社, 販売店, 純正, 指定材料, 装置メーカー, OEM, 認定材料, open material, closed system, locked, distributor, direct sales, approved materials, qualified powder]
   繰り返し性: [消費量, 使用量, 年間, 毎月, 定期, 補充, リピート, 長期契約, 供給契約, 認定, 変更できない, 再認定, consumption, per year, per machine, recurring, long-term supply agreement, LTA, requalification, qualification, switching cost]
   価格: [円/kg, 万円, 1kg, kg当たり, 1キロ, per kg, /kg, USD/kg, price per kilogram, 価格]
-  上位シェア・主要企業: [シェア, 首位, 主要企業, 大手, market share, key players, leading, top]
+  上位シェア・主要企業: [シェア, 首位, 主要企業, 大手, 主要メーカー, メーカー一覧, 主なメーカー, market share, key players, major players, leading players, key companies, companies profiled, prominent players, manufacturers include, suppliers include, top]
+  ニッチ度（供給元の数・寡占）: [社のみ, 数社, 限られ, 寡占, 独占, 供給元, 参入企業, 社が参入, メーカー数, 新規参入, 参入障壁, few suppliers, only a handful, limited number of suppliers, number of suppliers, concentrated, consolidated, fragmented, niche, barrier to entry, HHI]
   日本の買い手と供給元: [日本, 国内, 日本企業, Japan, Japanese]
   再生・循環: [リサイクル, 再生, 買い戻し, 使用済み粉, recycl, reuse, buyback, circular]
 
 numeric: [市場規模, 成長率, 価格]
 
+# 引用行から数字だけ抜いて品目ごとに並べる（区分|正規表現。最初のグループが値）
+figure_patterns:
+  CAGR: '成長率|(?:CAGR|年平均成長率|compound annual growth rate)[^0-9]{0,40}?(\d{1,3}(?:\.\d{1,2})?)\s*[%％]'
+  上位シェア%: '上位シェア・主要企業|(\d{1,3}(?:\.\d{1,2})?)\s*[%％]'
+
 external_queries:
   - "{name} 市場規模 CAGR"
   - "{name} 価格 kg"
   - "{name} シェア 主要企業"
+  - "{name} 主要メーカー 一覧"
+  - "{name} 参入企業 数"
   - "{name} 日本 需要"
   - "{name} 供給契約 長期"
   - "{en} market size CAGR 2030"
   - "{en} price per kg"
+  - "{en} key players market share percent"
+  - "{en} number of suppliers concentrated OR fragmented"
   - "{en} consumption per machine per year"
   - "{en} qualification long-term supply agreement"
   - "{en} distributor direct sales OEM approved materials"
