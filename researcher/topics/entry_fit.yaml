@@ -1,0 +1,32 @@
+# 本人の指示（2026-11-04）：予知保全・生産管理・AI・中堅セキュリティ・大手コンサルの5つを細かく分け、A1が「入れるか」「回せるか」を軸に調べる。
+# 前提：A1は製品の精度・品質に責任を持てない（事故の責任を負えない）。キーエンス・NSKなど大手が強い所は避けたい。
+# 手本：AIVALIX（配管の破損予測を、精度ではなく「割れたらいくらかかるか」を先に示す経営の予実・修繕費の判断支援として売る）。
+# 引用のまま取る。要約・解釈・順位づけはしない。
+kind: market
+title: 5品目の細分化 — A1が入れるか・回せるか（精度に責任を持たない経営判断支援の層）
+input: researcher/inputs/entry_fit.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  前例・提供企業: [提供, 支援, サービス, 導入事例, 事例, 実績, 株式会社, 合同会社, provider, case study, startup]
+  価格・単価: [万円, 億円, 円, 月額, 年額, 初期費用, 料金, 費用, 相場, price, per month, USD]
+  責任の範囲: [責任, 免責, 保証しない, 保証, 賠償, 精度, 損害, 契約上, 瑕疵, liability, warranty, disclaimer, accuracy, indemn]
+  経営判断への置き方: [経営, 予実, 予算, 投資判断, 損失額, 被害額, 修繕費, 更新計画, 費用対効果, ROI, 意思決定, 経営層, 定量化, financial impact, quantif, budget, CFO, risk quantification]
+  大手・競合: [キーエンス, NSK, 日本精工, 日立, 三菱電機, NTT, NEC, 富士通, 野村総合研究所, アクセンチュア, デロイト, PwC, 大手, シェア, 競合, competitor, market leader]
+  参入障壁: [資格, 許認可, 認定, 登録, 実績が必要, 専門人材, 技術者, 経験, certification, license, accredit]
+  回す体制: [人数, 名体制, 1名, 少人数, 工数, 導入期間, ヶ月, か月, 伴走, 運用, 人月, FTE]
+  買い手の規模: [中小企業, 中堅企業, 大企業, 従業員, 年商, 売上, 規模]
+
+numeric: [価格・単価]
+
+external_queries:
+  - "{name}"
+  - "{name} 費用 相場"
+  - "{name} 事例 中堅企業"
+  - "{name} 責任 範囲 免責"
+  - "{name} 経営判断 損失額"
+  - "{name} スタートアップ"
+  - "{en}"
+  - "{en} startup pricing"
+
+limits: {pages: 45, external_per_query: 6, per_cat: 15}

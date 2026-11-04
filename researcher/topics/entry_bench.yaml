@@ -1,0 +1,38 @@
+# 本人の指示（2026-11-04）：手本の会社を1社ずつ。精度に責任を持たず、経営判断の支援で稼ぐ売り方の事実（料金・契約・責任範囲・顧客・売上・創業年度・株主構成）。
+title: 手本の会社 — 精度でなく経営判断支援で稼ぐ売り方
+input: researcher/inputs/entry_bench.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  創業年度: [設立, 創業, 創立, Founded, Established]
+  株主: [株主, 主要株主, 大株主, 株主構成, 出資者, 親会社, Shareholders, Investors]
+  資本金: [資本金]
+  従業員数: [従業員, 社員数, Employees]
+  売上高: [売上高, 売上, 年商, Revenue]
+  代表者: [代表者, 代表取締役, CEO]
+  事業内容: [事業内容, 事業概要]
+
+evidence:
+  株主構成: [株主, 大株主, 出資, 資本提携, 資本業務提携, 第三者割当, 資金調達, 親会社, shareholder, investors, funding]
+  創業年度: [設立, 創業, 創立, founded, established]
+  売り方: [経営, 予実, 予算, 修繕費, 更新計画, 損失, 費用対効果, 投資判断, 意思決定, アセットマネジメント, 経営層]
+  責任の範囲: [責任, 免責, 保証, 精度, 賠償, liability, accuracy]
+  料金・契約: [料金, 価格, 月額, 年額, 万円, 契約, 導入費, 初期費用]
+  顧客: [導入, 採用, 顧客, 自治体, 事業者, 取引先, 提携, 実証]
+  売上・規模: [売上, 億円, 社員, 名, 拠点]
+  発言: [代表, CEO, インタビュー, 語る]
+
+subpage_keywords: [会社概要, 会社情報, about, company, サービス, service, 事例, case, ニュース, news, press, 採用, recruit, 料金, pricing]
+image_keywords: [サービス, 概要, service]
+
+external_queries:
+  - "{name} 株主 OR 出資 OR 資本業務提携"
+  - "{name} 設立 OR 創業"
+  - "{name} 資金調達"
+  - "{name} 売上"
+  - "{name} 経営 予算 修繕費"
+  - "{name} 料金 OR 価格"
+  - "{name} 代表 インタビュー"
+  - "{name} 導入事例"
+
+limits: {pages: 30, subpages: 25, pdfs: 8, images: 6, external_per_query: 4}
