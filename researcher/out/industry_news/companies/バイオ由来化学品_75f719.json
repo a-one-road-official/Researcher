@@ -1,0 +1,3978 @@
+{
+ "name": "バイオ由来化学品",
+ "en": "bio-based chemicals",
+ "aliases": [
+  "GXケミカル",
+  "グリーンケミカル",
+  "バイオプラスチック"
+ ],
+ "context": "12 GX ⑦GXケミカル",
+ "kind": "market",
+ "researched_at": "2026-11-04T01:15:21.948607+00:00",
+ "evidence": {
+  "政治（法・予算・規制）": [
+   {
+    "quote": "本講演では、糖資源を用いた発酵法による芳香族化学品生産を紹介し、脱炭素と経済安全保障を両立する国産バイオものづくりの方向性を議論する",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を成立させ、経済安全保障の確保を図っている",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を連邦政府が指定し、連邦政府の調達や補助",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 投資拡大のため、規制当局と民間企",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "業の対話フォーラム設置、規制簡素",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国政府の投資、政策、規制改革の方向",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "術分野において規制の更新や承認の迅",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "速化を図る「規制イノベーション局」を新",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経済安全保障の重視 バイオ覇権の動き バイオ市場形成の推進 EUに負けない市場形成の動き",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "２つのバイオ基金における取組について",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• CO2を原料とするバイオものづくりの技術開発・実証を行う「GI基金（バイオPJ：1,775億円）」、食",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "原料「バイオものづくり」／石化代替技術 社会実装へ／政府支援、脱炭素加速」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セキュリティの確保された政府・地方公共団体のAX/…",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオ産業がもたらす経済効果は約165兆円（2030〜2040年）と見込まれ、国内資源を生かして経済安全保障と脱炭素を両立できる分野です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "課題は、人材不足、大規模設備への投資の難しさ、需要不十分・高コスト、規制や価格差、資金調達難などです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（政府の文章そのまま）」→「",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・併せて、経済安全保障や脱炭素の観点から国内生産基盤の構築が求められる領域（バイオエタノール等）については、需要創出策と供給能力拡充を着実に進め、中長期的な外部依存リスクの低減と経済の自律性の確保を図る",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに、国内のバイオマス資源や未利用資源を有効活用して国内で生産できるため、輸入資源依存・製造業の空洞化・地球温暖化の課題を乗り越えながら経済安全保障を実現する鍵になります",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、新技術に合わせた規制の更新や承認の迅速化に向けた新組織の設置及び大胆な制度改正も並行して実施されている",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "輸入資源依存、製造業の空洞化、地球温暖化といった課題を乗り越えながら経済安全保障を実現するとともにグローバルの成長を取り込む鍵となる",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "規制の更新・承認の迅速化",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内のバイオマス資源や未利用資源を活用し、輸入資源依存・製造業の空洞化・地球温暖化を乗り越えて経済安全保障を実現する鍵とされています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "３．経済安全保障にかかる施策動向",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "③実行に向けた課題を整理し、これを解消するために必要な複数年度の予算措置コミットメ",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "３．経済安全保障の観点から、我が国の自律性・不可欠性確保を実現する",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " これまでNEDOを通じた開発や経済安保基金を活用した生産基盤強化への支援等を実施",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "→PFOS等の規制物資の代",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "３．経済安全保障にかかる政策動向",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 26年度からの本格稼働に向け、必要な制度整備を盛り込んだGX推進法改正案を閣議決定",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "規制・制度の見通し、GX経済移行債を活用した投資促進策を提示（国の長期・複数",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年度コミットメントによる補助金、生産・販売量に応じた税額控除等）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 特に優れた環境配慮設計（解体・分解しやすい設計等）の認定制度の創設",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Japan is turning its strengths in biotechnology, regenerative medicine, biomanufacturing, and life sciences into high-growth businesses. By 2026, government initiatives, startups, and private-sector research are creating opportunities across healthcare, food, advanced materials, and sustainable manufacturing.",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "into high-growth businesses. By 2026, government initiatives, startups, and private-sector research are creating opportunities across",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1. The Government Turns Synthetic Biology and Biotechnology Into a Key Growth Area",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Bio-based materials and microbial technologies can support carbon recycling, resource efficiency, and circular production models. Japan’s government has identified bioeconomy development as connected with GX and the circular economy.",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政策・規制・市場動向 ― アジア太平洋地域のバイオ燃料義務化、国際規格、およびインセンティブ",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオ燃料、バイオマス、カーボン規格を策定する政策立案者および規制当局",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "本講演では、糖資源を用いた発酵法による芳香族化学品生産を紹介し、脱炭素と経済安全保障を両立する国産バイオものづくりの方向性を議論する",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今後は製造効率向上と用途開発を加速させ、脱炭素社会に向けた木質資源の社会実装を目指す",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ス製品の認証・標準化を推進",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 燃料や素材等の 汎用領域では、脱炭素や経済安保の観点からの 政策的な市場創出 ・需要促進",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 併せて、経済安全保障や脱炭素の観点から国内生産基盤の構築が求められる領域（バイオエタノール等）については、需要創",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "原料「バイオものづくり」／石化代替技術 社会実装へ／政府支援、脱炭素加速」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「ゲノム編集で高機能素材、住友化学、スマホ用フィルム、米新興と、ＡＩ駆使し微生物から、脱炭素・省エネ性能実現」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「東京五輪までのサプライC整備に課題 バイオジェット検討会、認証の取得も」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオ産業がもたらす経済効果は約165兆円（2030〜2040年）と見込まれ、国内資源を生かして経済安全保障と脱炭素を両立できる分野です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・併せて、経済安全保障や脱炭素の観点から国内生産基盤の構築が求められる領域（バイオエタノール等）については、需要創出策と供給能力拡充を着実に進め、中長期的な外部依存リスクの低減と経済の自律性の確保を図る",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基盤となるバイオ製造技術の優位性を確保し、高機能成分・素材等の高付加価値領域を中心に世界市場を獲得するとともに、経済安全保障や脱炭素の観点から国内生産が肝要な製品領域で、輸入品に代わる国内生産品の市場拡大を目指します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・併せて、経済安全保障確保、脱炭素等の観点から国内生産が肝要となる製品領域について、輸入製品に代わりバイオものづくりによる国内生産品の市場拡大を目指す",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経済安全保障・脱炭素の観点で大切な製品を、",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・経済安全保障や脱炭素の観点から国内生産基盤の構築が肝要となる領域（バイオエタノール等）における需要創出及び供給能力拡充を進め、中長期的な外部依存リスクの低減と経済の自律性確保を図る",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "不確実性としては、需要不十分・コスト増・生産効率の低さ、規制・ルールや既存製品との価格差・消費者受容性の不安定さ、資金調達難、脱炭素トランジションの遅滞が挙げられています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・国際環境・政策：脱炭素トランジションの遅滞",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素への移行（トランジション）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "需要不十分・コスト増・生産効率の低さ、規制・価格差・消費者受容性の不安定さ、資金調達難、脱炭素トランジションの遅滞が不確実性の要因です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ど）の高い要求に応じた高品質な素材を開発・供給することで、日本の製造業の競争力強化、社",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 脱炭素電源の整備 等",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "と世界の脱炭素化への貢献",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・脱炭素効果の高い革新的技術開発を支援する「グリーンイノベーション基金」による代表例",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素化と国内社会インフラの維持の両立を目的とし",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【適切な産業集積の再構成と脱炭素を進める設備投資】",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "地域に偏在する脱炭素電源等を核に、",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "④類型では、脱炭素電源を活用する事業者支援を行う",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "②データセンター集積型 ③脱炭素電源活用型（GX産業団地）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "④脱炭素電源地域貢献型",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Public procurement",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Practical understanding of biocarbon distinction vs fossil-fuel & coal, industrial applications and deployment case studies, standards, logistics and procurement",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "BIOINNOVASIA 2026 – バイオエネルギー、バイオカーボンおよび循環型ソリューションを通じた脱炭素化の加速",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高温熱産業における燃料転換および脱炭素化リスクの管理",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオ燃料や持続可能な航空燃料（SAF）から、バイオカーボン、木質ペレット、PKS、バイオチャー、BECCSに至るまで、BIOINNOVASIA 2026は、エネルギー、輸送、産業分野における脱炭素化を加速させると同時に、ステークホルダーにとって実践的な示唆と現実的な戦略を提供します",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオカーボンの全て：高温熱産業における燃料転換と脱炭素化リスクの管理",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アジアのバイオ燃料市場と世界的な政策の影響；SAF市場、供給課題、原料と経路の確立；持続可能な船舶燃料と輸送の脱炭素化",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産業ユーザー向けワークショップ バイオカーボンの全て：高温熱産業における燃料転換と脱炭素化リスクの管理",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオエネルギーおよび脱炭素化ソリューション ― BECCS、バイオマス／バイオガス発電、カーボン除去の統合",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオカーボン＆バイオチャーの技術革新 ― 規格、認証、用途、およびカーボン市場",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Bio - based Chemicals : Paving the Way for a Sustainable ... Bio - based Chemicals : Paving the Way for a Sustainable ... LinkedIn https://www.linkedin.com > pulse > bi...",
+    "url": "https://www.linkedin.com/pulse/bio-based-chemicals-paving-way-sustainable-1xghe",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "東南アジア、カナダ、米国の木質ペレットの商社および生産者",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "演者はこれまでにインドネシア研究者らとの連携によって、実バイオマスを用いたバイオものづくりに焦点をあてた研究を進めてきている",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "講演要旨：演者はこれまでにインドネシア研究者らとの連携によって、実バイオマスを用いたバイオものづくりに焦点をあてた研究を進めてきている",
+    "url": "https://biock.jp/event/8807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年12月には中国バイオも",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 米国防総省は、優先して研究開発に取り組む重",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国研究機関はCRISPR-Cas9（高効",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• また、米国は2025年12月、Biosecure Act",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・既存製品との厳しい価格競争",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国新聞セレクト 2021年1月30日",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「沸き立つバイオ燃料～環境とエネルギーのはざまで～8.本命のセルロース 米国、5年後に本格生産」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「安価に有機酸取り出し 有機塩を電気透析 プロセス工業化に道 アストムとRITE」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「食糧と競合しないバイオエタノール」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「思惑ずれるバイオエタノール騒動 またも米国の掌の上か」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「食料生産と競合しないセルロース原料の活用始まる」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民投資ロードマップは、日本の発酵産業の蓄積やエンジニアリングの強みを生かし、AI・データと融合させて、2040年に日本企業の売上11.9兆円（グローバルシェア10%）を目指すとしています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年売上11.9兆円・シェア10%",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目標は、2040年の日本企業の売上（合計）11.9兆円（グローバルシェア10%）です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目標 ― バイオものづくりで2040年に売上11.9兆円・世界シェア10%",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・既存製品との厳しい価格競争にさらされる中、安定した需要の見通しが不十分",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・安価な糖原料と労働力にアクセス可能な地域において、一部商用化が先行（米：トウモロコシ、南米：サトウキビ、中：大規模生産能力）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、バイオ製造技術の高度化により、更なる高付加価値領域も含め、広い市場ポテンシャルが示されており、米国や中国では技術開発を一元的に担うプラットフォームが台頭し、競争が熾烈化している",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（安価な糖原料）で一部商用化が先行",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年の日本企業の売上（合計）11.9兆円（グローバルシェア10%）が目標です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・2040年の我が国企業の売上（合計）目標は、11.9兆円（グローバルシェア10%）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国 韓国 日本 その他アジア 世界その他地域",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 我が国のマテリアル産業は、高機能部素材を中心に、国際的なシェアが高い製品を多く産み出",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 日本のシェアが高く、高い技術力を有する高機能部素材（①高機能繊維、②高機能ポリマー、③高機能フィルム、",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場シェア・順位等次第で独占禁止法上",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "激化する開発競争の中、日系SDVグローバルシェア",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 国際的な動向 米国、ＥＵ、英国等で新しいガイドライン制定等の動き",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "シェアの高い製品を多く有し、利益を確保",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 3割程度を輸出しており、主な輸出先は中国",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国は、新型コロナ感染症の影響もあり、需要の伸びが鈍化",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "他方で、中国は今後、100万トン超の大規模なエチレン生産設備の新設・稼働が予定されており 、我が国か",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "東南アジア、カナダ、米国の木質ペレットの商社および生産者",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "本発表会は、バイオものづくり分野に取り組む大学・研究機関や企業、自治体等に毎月ご登壇いただき、取組内容の紹介と意見交換を行うことで、バイオものづくり分野への理解を深めていただき、産学連携・産産連携の促進を図ることを目的としています",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "随時募集中となっておりますので、バイオものづくり分野に取り組まれている研究者、企業、自治体の皆様は是非エントリーください",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "14:10～14:30 「『【企業向け】事例から考える！バイオものづくり製品導入に向けたガイドブック』のご紹介」",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオものづくりは、環境対応だけでなく調達戦略や新たな価値創出にもつながる、現在注目の生産技術です",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "導入の考え方から成功のポイントまで、実践的に学べる機会をぜひご活用ください",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本発表では、合成生物学により多数の植物由来酵素遺伝子を大腸菌へ導入し、グルコースから希少天然物を発酵生産する「微生物工場」の構築技術を紹介する",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "技術改良による低コスト・高品質化を実現し、2024年には米子工場に国内最大級のパイロットプラントを設置し、糖液年間3,000トン、エタノール1,000kLの生産体制を整備した",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "0.25L～30Lまでの比較的小規模の培養槽を設置しており、バイオものづくり分野の新規参入企業をターゲットに、これまで30社以上の培養条件の最適化・小規模試作支援、150社400名以上の人材育成など、多くの実績を積み重ねてきました",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(一財)バイオインダストリー協会では、2024年度にバイオものづくりフォーラム内に社会実装ワーキンググループを新たに設置し、国内外の関係企業・機関との水平分業・オープンイノベーションを推進する取り組みを開始している",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "13:30～14:00 「大阪産業技術研究所のバイオものづくり関連技術と企業支援事例」",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本発表会は、バイオものづくり分野に取り組む大学・研究機関や企業、自治体等に毎月ご登壇いただき、取組内容の紹介と意見交換を行うことで、バイオものづくり分野への理解を深めていただき、産学連携・産産連携の促進を図ります",
+    "url": "https://biock.jp/event/8807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "受注を重ね、ノウハウやデータを蓄積",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同法は、安全保障上懸念される外国バイオ企業",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を連邦政府が指定し、連邦政府の調達や補助",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "金を用いる事業において、指定された企業の機",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "創出のため、公共調達指令改正で需",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "及びバイオ由来製品を量産する事業者の取組みを戦略的に支援",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "素材・化学企業",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エネルギー企業",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "食品企業 等",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "香料メーカー",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「リコピンの量産法確立／ハリマ化成G, RITE／食品・医薬向け応用」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「繊維メーカー、リサイクルで連携／東レなどがコンソーシアム」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「繊維 to 繊維で素材メーカー5社が連携 選別・分離技術確立へ／40年に衣料廃棄ゼロ目指す」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「ごみからエポキシ原料／高機能接着剤に採用／1/4を非石化に置き換え／積水化学」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「積水化学から基本設計受注／CO変換設備／千代田化工」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バイオコハク酸量産／エア・ウォーター RITE発VBと研究」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「メタンからメタノール製造／大腸菌活用の新技術開発／米新興企業 アクリル酸に照準」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バイオマス技術 開発企業に出資 農林中金」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「新興バイオ企業に出資／Jパワー事業領域を拡大へ」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「RITE発VB GEI／アミノ酸量産へ連携加速／2年内めど メチオニン事業化」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民投資ロードマップは、日本の発酵産業の蓄積やエンジニアリングの強みを生かし、AI・データと融合させて、2040年に日本企業の売上11.9兆円（グローバルシェア10%）を目指すとしています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目標は、2040年の日本企業の売上（合計）11.9兆円（グローバルシェア10%）です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "課題は、人材不足、大規模設備への投資の難しさ、需要不十分・高コスト、規制や価格差、資金調達難などです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自治体は、バイオマスや廃棄物などの未利用資源の供給、産学官の産業クラスター、国産SAF等の官公需調達、人材育成で直接関われます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年の日本企業の売上11.9兆円を目指し、バイオエタノール等の国内生産基盤も整えて外部依存リスクを下げます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・公共調達等による初期需要創出",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・原料調達や製造設備などのサプライチェーン構築促進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・2040年の我が国企業の売上目標は、11.9兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "公共調達による初期需要",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年に日本企業の売上",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 国内でのナフサの精製を継続していることに加え、代替調達で、従来の85％の水準まで回復",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "④川中の製品調達",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "②代替調達の加速",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "１．大胆な政策パッケージによって民間投資を引き出すことで、企業による自律的・継続的な成長を実現する",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " チョークポイントとなる資源・部素材等の調達先の多様化、資源循環等の政策的工夫をビルトインする",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "メーカーが強みを持ち寄って共同開発することが有効",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業間で機密データを開示することなく共同開発を可能にす",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• これまでに段階的なカーボンプライシングの導入を進めてきた",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 省エネ投資支援を中心に中堅・中小企業のGXを後押し",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "発から設備投資等を支援（例：製造、運輸、エネルギー）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Extensive networking opportunities with potential customers, suppliers, business partners and other relevant stakeholders",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Targeted networking opportunities with potential customers, suppliers, business partners, investors, innovators, and other relevant stakeholders",
+    "url": "https://www.b2match.com/e/future-of-biochemicals?utm_source=b2match&utm_medium=website&utm_campaign=future-of-biochemicals&utm_content=view",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Our market reports offer reliable data, forecasts, and competitive analyses on market size, demand, revenues, applications, regions, manufacturers, and key trends. They support strategic planning, market entry, sales development, product management, and investment decisions.",
+    "url": "https://www.b2match.com/e/future-of-biochemicals?utm_source=b2match&utm_medium=website&utm_campaign=future-of-biochemicals&utm_content=view",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "化石燃料・石炭とバイオカーボンの違いに関する実践的理解、産業用途および導入事例、規格、物流・調達",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "原料調達とサプライチェーン最適化 ― 使用済み食用油（UCO）、パーム油工場廃液（POME）、パーム残渣、林業バイオマス、物流",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "投資・資金調達の見通し ― スタートアップ、スケールアップ、大規模プロジェクトの資金調達の道筋",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "持続可能な船舶燃料ソリューションを導入している海運業、バンカー油会社、および物流企業",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "協賛および出展企業を募集中",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "利用可能なスポンサーシップ パッケージは、企業スポンサー、限定カクテルからコーヒー スポンサー、ストラップ スポンサーまで多岐にわたります",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "近年、バイオテクノロジーとデジタル技術の進展により、微生物等の生物機能を最大限に活用した「バイオものづくり」が新たに生まれ、次世代を担う産業として国内外で大きな注目を集めています",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "13:30～14:00 「高品質L-PGAの低価格化に向けた枯草菌生産技術の開発」",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "我々は世界初の枯草菌L-PGA生産技術を確立し、低価格化に向けて高効率・安定生産法と連続好気生産系を開発している",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "13:30～14:00 「循環型社会の実現を目指したバイオものづくり技術の開発」",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本講演では、当機構における未利用バイオマスやCO2など多様な炭素源の有効利用を目指した微生物変換およびバイオプロセス開発の取組を紹介する",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "植物抽出に伴う供給不安定性、高コスト、環境負荷を克服し、栽培地域に依存しない次世代型サプライチェーンを実現する取り組みを概説する",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "13:30～14:00 「分解制御技術と評価法の標準化による次世代生分解性プラスチックの展開」",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "登壇者：国立研究開発法人産業技術総合研究所 関西センター モレキュラーバイオシステム研究部門 バイオ分子評価研究グループ 主任研究員 日野 彰大氏",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "あわせて，評価期間短縮と再現性向上を実現する海洋生分解性試験法およびISO標準化の最新動向を示し，製品開発および事業化に資する技術的視点を提供する",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高まるバイオマス利活用の期待に対して、王子グループは森林資源と紙パルプ技術を活かし、木質由来の糖液、エタノール、ポリ乳酸の製造開発を推進してきた",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "bzl-kin-biomail@meti.go.jp",
+    "url": "https://biock.jp/event/8807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "©Biocommunity Kansai",
+    "url": "https://biock.jp/event/8807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 「次世代の産業の柱」として世界各国が積極的な投資を推進",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "保障の強化やGX・循環型経済 を実現しつつ 、経済成長の達成 が可能な「二兎を追える 」次世代の成長",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "付けを明確にし、兆円単位の投資によって新たな製品の開発や展開が推進されるように",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "するため、バイオ分野の研究開発に",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 米国防総省は、優先して研究開発に取り組む重",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "率・高精度なゲノム編集技術）等の特許を押さ",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI等を用いたバイ",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• CO2を原料とするバイオものづくりの技術開発・実証を行う「GI基金（バイオPJ：1,775億円）」、食",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "品残渣や廃木材等の未利用資源を原料とするバイオものづくりの社会実証を目指す 「バイオものづくり",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 物質生産を高度化する微生物（スマートセル）を開発・設計する国内のプラットフォーム（PF）事業者",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最先端基盤技術開発",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「グリーンフォーラム 第4回事例研究会／バイオエコノミー社会の実現を目指したバイオものづくり技術の開発／独自技術生かし強力に推進」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バイオものづくり参入支援／京都に新研究開発拠点／RITE」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「環境配慮の化学品合成 開発進む新興の動き／バイオマス原料に転換 CO",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「高砂香料、技術開発に力／天然・バイオ製品拡充／国内未利用資源から香料」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バイオものづくり開発／島津・凸版など6テーマ」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "資源化 開発に着手／水素細菌活用など6テーマ」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バイオものづくりシステム実証／出光興産など6件採択 NEDO」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「メタンからメタノール製造／大腸菌活用の新技術開発／米新興企業 アクリル酸に照準」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バイオマス技術 開発企業に出資 農林中金」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(1) AI・半導体",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカルAI（特にAIロボット）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI（領域特化型AI）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI時代に対応した先進的サイバーセキュリティ製品・…",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代ワイヤレス（非地上系ネットワーク、5G/Be…",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "民間航空機（次期単通路機・次世代航空機）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "革新的海底開発技術・システム",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI等を活用した複合新素材",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "革新的デバイス（AI、ロボティクス等）を活用した先…",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代型太陽電池（ペロブスカイト太陽電池等）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ど）の高い要求に応じた高品質な素材を開発・供給することで、日本の製造業の競争力強化、社",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " これまでNEDOを通じた開発や経済安保基金を活用した生産基盤強化への支援等を実施",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 特殊な鋳造設備を開発し、高品質な鋼材",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 特殊な鋳造設備を開発し、高品質な非",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "が国素材産業が蓄積してきたデータやノウハウと最先端AI技術等を掛け合わせ、新材料組成や製造方",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "材料開発の時間・コストを削減し、新素材開発の速度を従来比10倍に加速させるエコシステムを構築",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "メーカーが強みを持ち寄って共同開発することが有効",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業間で機密データを開示することなく共同開発を可能にす",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "る秘匿計算プラットフォームを活用したＡＩ駆動による素材開発プロジェクトを推進",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高機能部素材の競争力向上（AI等を活用した複合新素材）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Future of BioChemicals | Green Chemistry for sustainability",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Skip to main content",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Sustainable Development Goals",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "will bring together key stakeholders from across the bio-based chemicals value chain. The event will focus on bio-based chemicals, specialty chemicals and functional materials, and on how sustainable chemical solutions can be successfully scaled, commercialised and brought to market.",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The programme will address the topics currently shaping the market, including bio-based surfactants, solvents, binders, lubricants, additives and functional ingredients, as well as innovative feedstocks and formulations, performance and cost, regulatory requirements, sustainability, scalability and market-ready applications across a wide range of industries.",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Inspiring keynotes from industry, research and technology",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Copyright © 2024, Green Chemistry for Sustainability. All rights reserved.",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Skip to main content",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "13:30～14:00 「高品質L-PGAの低価格化に向けた枯草菌生産技術の開発」",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産業として、これまで10年間で約1兆円の経済産業省支援を実施",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年におけるバイオ医薬品の輸出入は、1.7兆円の輸入超過",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1000億ドル（約11兆円）以上の",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "のづくり産業が約24兆円規模に達し",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• CO2を原料とするバイオものづくりの技術開発・実証を行う「GI基金（バイオPJ：1,775億円）」、食",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "革命推進基金（2,700億円）」を実施中",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "①GI基金 （1,775億円）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "②バイオものづくり革命推進事業（2,700億円、基金）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 現在、予算額1,774.7億円に対して、計5件の案件を実施中（令和６年４月）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「非食料バイオ燃料量産 出光・三菱商事 稲わら・雑草活用 100億円投じ工場」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオものづくりとは｜官民投資ロードマップの目標11.9兆円・投資額12.8兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオものづくりとは｜「ウェット」の強みとAIで2040年に売上11.9兆円へ",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民投資ロードマップは、日本の発酵産業の蓄積やエンジニアリングの強みを生かし、AI・データと融合させて、2040年に日本企業の売上11.9兆円（グローバルシェア10%）を目指すとしています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年売上11.9兆円・シェア10%",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年度までに12.8兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年度までに66.7兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオ産業がもたらす経済効果は約165兆円（2030〜2040年）と見込まれ、国内資源を生かして経済安全保障と脱炭素を両立できる分野です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目標は、2040年の日本企業の売上（合計）11.9兆円（グローバルシェア10%）です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民投資額は2040年度までに12.8兆円、経済波及効果は66.7兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約314兆円",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約382兆円",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約117兆円",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 半導体（機能性化学品）；2030年には市場規模100兆円に達する見込み",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 10年間に20兆円規模の大胆なGX投資促進の実行",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10年間に150兆円超の官民ＧＸ投資を実現・実行",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・中小企業等の省エネ支援（３年間で7,000億円規模を措置）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・GXスタートアップ支援（５年間で2,000億円規模を措置） 等",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €20 million, 1 proposal submitted requesting €19.6 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €20 million, 7 proposals submitted requesting €124.5 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €20 million, 4 proposals submitted requesting €76.9 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €20 million, 21 proposals submitted requesting €384.5 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €14 million, 34 proposals submitted requesting €214.6 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €14 million, 9 proposals submitted requesting €56.2 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €14 million, 21 proposals submitted requesting €132.5 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €14 million, 14 proposals submitted requesting €89.6 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €14 million, 25 proposals submitted requesting €149 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €6.5 million, 32 proposals submitted requesting €100.5 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Japan’s Bioeconomy 2026: How World-Class Science Is Driving Global Business Growth: Expert View by Spherical Insights",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Japan is turning its strengths in biotechnology, regenerative medicine, biomanufacturing, and life sciences into high-growth businesses. By 2026, government initiatives, startups, and private-sector research are creating opportunities across healthcare, food, advanced materials, and sustainable manufacturing.",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "into high-growth businesses. By 2026, government initiatives, startups, and private-sector research are creating opportunities across",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "In 2026, this policy direction is becoming more closely connected with industrial strategy. Japan’s Growth Strategy identifies",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "US$32.1 billion in 2025",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "US$60.23 billion by 2035",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CAGR of 6.5% from 2026 to 2035",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "0.25L～30Lまでの比較的小規模の培養槽を設置しており、バイオものづくり分野の新規参入企業をターゲットに、これまで30社以上の培養条件の最適化・小規模試作支援、150社400名以上の人材育成など、多くの実績を積み重ねてきました",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人材育成など自立的な産業エコシステムの構築",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を通じて、目的物質を安定的・大量に生産するための知見や技能を含む",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「学会発表が投資契機／技術に合う経営人材紹介」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "課題は、人材不足、大規模設備への投資の難しさ、需要不十分・高コスト、規制や価格差、資金調達難などです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自治体は、バイオマスや廃棄物などの未利用資源の供給、産学官の産業クラスター、国産SAF等の官公需調達、人材育成で直接関われます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "微生物や細胞を培養・発酵させ、条件調整や装置運転を通じて、目的物質を安定的・大量に生産するための知見や技能を含む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人材育成など自立的な産業エコシステムの構築",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "、サプライチェーン、人材",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "発酵・醸造の地場産業がある地域：酒蔵、みそ・しょうゆ蔵の技術と人材",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・技術開発基盤の拡充と生産インフラの整備及び人材・ノウハウ・データの結集・高度化による、バイオ製造技術の高効率化",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人材・知見が循環し適材適所で活用されるエコシステム、地域未来戦略を踏まえた産学官の連携による産業クラスター",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：ウェットの技と人材を、新しいバイオ製造に生かす産学官の連携",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：人材・知見が循環するエコシステムの拠点",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 2025年3月、GX企業の人材確保に関する事例集を公表",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 移行に伴う雇用・人材へ",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・革新的GX技術創出事業(GteX)により大学等における基盤研究と人材育成を支援",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "② 経営者等による事業への関与（例：経営者等による具体的活動方針（人材・設備・資",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Skilled Talent:",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.sumitomo-chem.co.jp/news/category-yearly/newsreleases/2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pilotchemical.com/ja/category/news/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mgc.co.jp/corporate/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itochu.co.jp/ja/news/chemical/2026/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00007/100800292/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biock.jp/event/8807/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://axetimes.com/report/research-about-biomanufacturing-technology-and-market-global-2026-2027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/activities/ZZJP_100246.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/773184",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tomoruba.eiicon.net/articles/5761",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/1713035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemicaldaily.com/tag/%E3%83%90%E3%82%A4%E3%82%AA%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00007/100800292/?P=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/specialty-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/6825570",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minpo.jp/ud/prtimes/6ad1a5597079c8f113000003",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www8.cao.go.jp/iryou/ss_wg/agenda0226/siryo-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hta2026.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/jm/asahi-kasei",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/792705",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/792724",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cen.acs.org/business/biobased-chemicals/Biobased-chemicals-face-fraught-year/104/web/2026/01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.b2match.com/e/future-of-biochemicals?utm_source=b2match&utm_medium=website&utm_campaign=future-of-biochemicals&utm_content=view",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cen.acs.org/business/biobased-chemicals/Kaneka-expands-biopolymer-capacity-Japan/98/i20",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemicals.economictimes.indiatimes.com/news/industry-and-market/japan-introduces-unified-chemical-logistics-data-standards-to-ease-transport-bottlenecks/132305805",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/bio-based-chemicals-paving-way-sustainable-1xghe",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "バイオ由来化学品 ニュース 2026年11月",
+   "results": [
+    "https://www.sumitomo-chem.co.jp/news/category-yearly/newsreleases/2026/",
+    "https://pilotchemical.com/ja/category/news/",
+    "https://www.mgc.co.jp/corporate/news/",
+    "https://www.itochu.co.jp/ja/news/chemical/2026/index.html",
+    "https://www.atpress.ne.jp/news/1713035",
+    "https://www.nippon-chem.co.jp/news/",
+    "https://newscast.jp/smart/news/6983102",
+    "https://tomoruba.eiicon.net/articles/5761",
+    "https://www.seikagaku.co.jp/ja/index.html",
+    "https://note.com/gbmw/n/n570a535d378c"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 発表 2026年11月",
+   "results": [
+    "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00007/100800292/",
+    "https://biock.jp/event/8807/",
+    "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "https://www.nedo.go.jp/activities/ZZJP_100246.html",
+    "https://www.rite.or.jp/bio/works/media/",
+    "https://newscast.jp/smart/news/6983102",
+    "https://www.atpress.ne.jp/news/1713035",
+    "https://www.seikagaku.co.jp/ja/index.html",
+    "https://www.gii.co.jp/report/tbrc1987599-bio-based-chemicals-global-market-report.html"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 受注 2026年11月",
+   "results": [
+    "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "https://axetimes.com/report/research-about-biomanufacturing-technology-and-market-global-2026-2027/",
+    "https://www.nedo.go.jp/activities/ZZJP_100246.html",
+    "https://www.rite.or.jp/bio/works/media/",
+    "https://www.atpress.ne.jp/news/4058141",
+    "https://www.nikkan.co.jp/articles/view/773184",
+    "https://www.itochu.co.jp/ja/news/chemical/2026/index.html",
+    "https://www.mmij.or.jp/events/26763.html",
+    "https://www.gii.co.jp/report/tbrc1987599-bio-based-chemicals-global-market-report.html"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 提携 2026年11月",
+   "results": [
+    "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "https://www.nedo.go.jp/activities/ZZJP_100246.html",
+    "https://www.nikkan.co.jp/articles/view/773184",
+    "https://tomoruba.eiicon.net/articles/5761",
+    "https://www.atpress.ne.jp/news/1713035",
+    "https://chemicaldaily.com/tag/%E3%83%90%E3%82%A4%E3%82%AA%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A",
+    "https://www.sumitomo-chem.co.jp/news/category-yearly/newsreleases/2026/",
+    "https://green-chem.jp/%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "https://www.gii.co.jp/report/tbrc1987599-bio-based-chemicals-global-market-report.html"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 設備投資 2026年11月",
+   "results": [
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00007/100800292/?P=2",
+    "https://www.gminsights.com/ja/industry-analysis/specialty-chemicals-market",
+    "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "https://www.atpress.ne.jp/news/6825570",
+    "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "https://newscast.jp/news/4058141",
+    "https://note.com/gbmw/n/nd491871ced47",
+    "https://www.ooc.co.jp/csr/report/pdf/Integrated_report2026.pdf",
+    "https://www.gii.co.jp/report/tbrc1987599-bio-based-chemicals-global-market-report.html"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 補助金 採択 2026年11月",
+   "results": [
+    "https://www.minpo.jp/ud/prtimes/6ad1a5597079c8f113000003",
+    "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "https://www8.cao.go.jp/iryou/ss_wg/agenda0226/siryo-3.pdf",
+    "https://hta2026.jp/",
+    "https://gec.jp/jcm/jp/event/sympo2025/%E3%80%90%E5%85%AC%E9%96%8B%E3%80%912_METI.pdf",
+    "https://www.jetoc.or.jp/abroad/",
+    "https://www.jetro.go.jp/biznews/2026/06/ca2fb2e513faab12.html",
+    "https://news.infoseek.co.jp/article/prtimes_000000007_000134033/",
+    "https://www.mmij.or.jp/events/26763.html",
+    "https://www.nedo.go.jp/koubo/EF2_100241.html"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 日刊工業新聞 2026年11月",
+   "results": [
+    "https://www.nikkan.co.jp/",
+    "https://www.nikkan.co.jp/articles/view/773184",
+    "https://www.nikkan.co.jp/jm/asahi-kasei",
+    "https://www.rite.or.jp/bio/works/media/",
+    "https://www.nikkan.co.jp/articles/view/792705",
+    "https://www.nikkan.co.jp/articles/view/792724",
+    "https://www.chemicaldaily.co.jp/",
+    "https://chemical-news.com/",
+    "https://www8.cao.go.jp/cstp////bio/10kai/shiryo4.pdf",
+    "https://www.nikkan.co.jp/spaces/view/89206"
+   ]
+  },
+  {
+   "query": "bio-based chemicals news 2026年11月",
+   "results": [
+    "https://cen.acs.org/business/biobased-chemicals/Biobased-chemicals-face-fraught-year/104/web/2026/01",
+    "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "https://www.b2match.com/explore/future-of-biochemicals",
+    "https://techtour.com/bio26/",
+    "https://www.lawbc.com/brand/bioblog/",
+    "https://fischbach.house.gov/2026/4/rep-fischbach-introduces-legislation-meant-to-create-new-biofuel-markets-for-american-farmers",
+    "https://www.americanchemistry.com/chemistry-in-america-industry-innovation-impact/news-trends",
+    "https://task42.ieabioenergy.com/publications/bio-based-chemicals-a-2020-update/",
+    "https://www.24chemicalresearch.com/reports/315803/biobased-chemicals-market"
+   ]
+  },
+  {
+   "query": "bio-based chemicals Japan 2026年11月",
+   "results": [
+    "https://cen.acs.org/business/biobased-chemicals/Kaneka-expands-biopolymer-capacity-Japan/98/i20",
+    "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "http://chemicals.economictimes.indiatimes.com/news/industry-and-market/japan-introduces-unified-chemical-logistics-data-standards-to-ease-transport-bottlenecks/132305805",
+    "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "https://www.idemitsu.com/en/business/basic_chemicals/news/index.html",
+    "https://www.linkedin.com/pulse/japan-bio-ethanol-market-us-korea-europe-analysis-future-edaff",
+    "https://www.eu-japan.eu/news/japan-bioeconomy-strategy",
+    "https://www.cirs-group.com/en/chemicals/japan-releases-schedule-for-2026-low-volume-new-chemical-substance-notifications-to-be-conducted-in-ten-batches"
+   ]
+  },
+  {
+   "query": "site:note.com バイオ由来化学品 2026",
+   "results": [
+    "https://note.com/gbmw/n/nd78cdcb168fe",
+    "https://note.com/iceman_23/n/n4c99a6f861e4",
+    "https://note.com/scivanai/n/n4c07e4c245c9",
+    "https://note.com/hirokimiyano/n/nd73a5dace320",
+    "https://note.com/gbmw/n/na6fc761683fc",
+    "https://note.com/shoji_orihara/n/ned6c1e681dd3",
+    "https://note.com/biophenolics_555/n/ncf2415cfff65",
+    "https://note.com/iceman_23/n/n6abae8f89836",
+    "https://note.com/biogastech/n/n5703fec6b85a",
+    "https://note.com/julian_bashore/n/nf2a0f5d3df31"
+   ]
+  },
+  {
+   "query": "site:x.com バイオ由来化学品",
+   "results": [
+    "https://x.com/chemicaldailyad/status/2100007493963485519",
+    "https://x.com/chemicaldailyad/status/2106895298631201037",
+    "https://x.com/cbs_chemical/status/2116006097131892905",
+    "https://x.com/sow_LIBRA11/status/2112092753916256294",
+    "https://x.com/901228Mitsuki/status/2112305659656208794",
+    "https://x.com/i/trending/2058422219412475963",
+    "https://x.com/cbs_chemical/status/2115449119112388991",
+    "https://x.com/AIST_JP/status/1881303189745500659",
+    "https://x.com/chemicaldailyad",
+    "https://x.com/bioeconomy_jp/status/2106924278411411570"
+   ]
+  },
+  {
+   "query": "site:linkedin.com bio-based chemicals",
+   "results": [
+    "https://www.linkedin.com/pulse/bio-based-chemicals-paving-way-sustainable-1xghe",
+    "https://www.linkedin.com/posts/dirk-van-der-kley-304852100_bio-based-chemicals-china-is-in-the-lead-activity-7350300001064935425-ALzm",
+    "https://www.linkedin.com/pulse/largest-north-america-bio-based-platform-chemicals-market-y5hyf/",
+    "https://www.linkedin.com/posts/agata-kotkowska_upscaling-bio-based-chemicals-and-plastics-activity-7515795735158755328-nMtR",
+    "https://www.linkedin.com/posts/omni-tech-international_biobasedchemicals-sustainablechemistry-activity-7514760184620064768-wai6",
+    "https://uk.linkedin.com/in/mladencrnomarkovic",
+    "https://www.linkedin.com/company/i-m-green-bio-based",
+    "https://www.linkedin.com/posts/mark-corbett-a3b75945_regulations-activity-7393948288942702592-bz-T",
+    "https://www.linkedin.com/posts/stephan-schnabel_bio-chemicals-bioeconomy-activity-7513256360482934784-lF9y",
+    "https://www.linkedin.com/pulse/europe-bio-based-platform-chemicals-market-2035-poland-3tare"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "政治（法・予算・規制）": [
+   {
+    "quote": "本講演では、糖資源を用いた発酵法による芳香族化学品生産を紹介し、脱炭素と経済安全保障を両立する国産バイオものづくりの方向性を議論する",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を成立させ、経済安全保障の確保を図っている",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を連邦政府が指定し、連邦政府の調達や補助",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 投資拡大のため、規制当局と民間企",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "業の対話フォーラム設置、規制簡素",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国政府の投資、政策、規制改革の方向",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "術分野において規制の更新や承認の迅",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "速化を図る「規制イノベーション局」を新",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経済安全保障の重視 バイオ覇権の動き バイオ市場形成の推進 EUに負けない市場形成の動き",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "２つのバイオ基金における取組について",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• CO2を原料とするバイオものづくりの技術開発・実証を行う「GI基金（バイオPJ：1,775億円）」、食",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "原料「バイオものづくり」／石化代替技術 社会実装へ／政府支援、脱炭素加速」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セキュリティの確保された政府・地方公共団体のAX/…",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオ産業がもたらす経済効果は約165兆円（2030〜2040年）と見込まれ、国内資源を生かして経済安全保障と脱炭素を両立できる分野です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "課題は、人材不足、大規模設備への投資の難しさ、需要不十分・高コスト、規制や価格差、資金調達難などです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（政府の文章そのまま）」→「",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・併せて、経済安全保障や脱炭素の観点から国内生産基盤の構築が求められる領域（バイオエタノール等）については、需要創出策と供給能力拡充を着実に進め、中長期的な外部依存リスクの低減と経済の自律性の確保を図る",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに、国内のバイオマス資源や未利用資源を有効活用して国内で生産できるため、輸入資源依存・製造業の空洞化・地球温暖化の課題を乗り越えながら経済安全保障を実現する鍵になります",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、新技術に合わせた規制の更新や承認の迅速化に向けた新組織の設置及び大胆な制度改正も並行して実施されている",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "輸入資源依存、製造業の空洞化、地球温暖化といった課題を乗り越えながら経済安全保障を実現するとともにグローバルの成長を取り込む鍵となる",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "規制の更新・承認の迅速化",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内のバイオマス資源や未利用資源を活用し、輸入資源依存・製造業の空洞化・地球温暖化を乗り越えて経済安全保障を実現する鍵とされています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "３．経済安全保障にかかる施策動向",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "③実行に向けた課題を整理し、これを解消するために必要な複数年度の予算措置コミットメ",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "３．経済安全保障の観点から、我が国の自律性・不可欠性確保を実現する",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " これまでNEDOを通じた開発や経済安保基金を活用した生産基盤強化への支援等を実施",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "→PFOS等の規制物資の代",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "３．経済安全保障にかかる政策動向",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 26年度からの本格稼働に向け、必要な制度整備を盛り込んだGX推進法改正案を閣議決定",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "規制・制度の見通し、GX経済移行債を活用した投資促進策を提示（国の長期・複数",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年度コミットメントによる補助金、生産・販売量に応じた税額控除等）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 特に優れた環境配慮設計（解体・分解しやすい設計等）の認定制度の創設",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Japan is turning its strengths in biotechnology, regenerative medicine, biomanufacturing, and life sciences into high-growth businesses. By 2026, government initiatives, startups, and private-sector research are creating opportunities across healthcare, food, advanced materials, and sustainable manufacturing.",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "into high-growth businesses. By 2026, government initiatives, startups, and private-sector research are creating opportunities across",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1. The Government Turns Synthetic Biology and Biotechnology Into a Key Growth Area",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Bio-based materials and microbial technologies can support carbon recycling, resource efficiency, and circular production models. Japan’s government has identified bioeconomy development as connected with GX and the circular economy.",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政策・規制・市場動向 ― アジア太平洋地域のバイオ燃料義務化、国際規格、およびインセンティブ",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオ燃料、バイオマス、カーボン規格を策定する政策立案者および規制当局",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "本講演では、糖資源を用いた発酵法による芳香族化学品生産を紹介し、脱炭素と経済安全保障を両立する国産バイオものづくりの方向性を議論する",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今後は製造効率向上と用途開発を加速させ、脱炭素社会に向けた木質資源の社会実装を目指す",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ス製品の認証・標準化を推進",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 燃料や素材等の 汎用領域では、脱炭素や経済安保の観点からの 政策的な市場創出 ・需要促進",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 併せて、経済安全保障や脱炭素の観点から国内生産基盤の構築が求められる領域（バイオエタノール等）については、需要創",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "原料「バイオものづくり」／石化代替技術 社会実装へ／政府支援、脱炭素加速」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「ゲノム編集で高機能素材、住友化学、スマホ用フィルム、米新興と、ＡＩ駆使し微生物から、脱炭素・省エネ性能実現」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「東京五輪までのサプライC整備に課題 バイオジェット検討会、認証の取得も」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオ産業がもたらす経済効果は約165兆円（2030〜2040年）と見込まれ、国内資源を生かして経済安全保障と脱炭素を両立できる分野です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・併せて、経済安全保障や脱炭素の観点から国内生産基盤の構築が求められる領域（バイオエタノール等）については、需要創出策と供給能力拡充を着実に進め、中長期的な外部依存リスクの低減と経済の自律性の確保を図る",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基盤となるバイオ製造技術の優位性を確保し、高機能成分・素材等の高付加価値領域を中心に世界市場を獲得するとともに、経済安全保障や脱炭素の観点から国内生産が肝要な製品領域で、輸入品に代わる国内生産品の市場拡大を目指します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・併せて、経済安全保障確保、脱炭素等の観点から国内生産が肝要となる製品領域について、輸入製品に代わりバイオものづくりによる国内生産品の市場拡大を目指す",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経済安全保障・脱炭素の観点で大切な製品を、",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・経済安全保障や脱炭素の観点から国内生産基盤の構築が肝要となる領域（バイオエタノール等）における需要創出及び供給能力拡充を進め、中長期的な外部依存リスクの低減と経済の自律性確保を図る",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "不確実性としては、需要不十分・コスト増・生産効率の低さ、規制・ルールや既存製品との価格差・消費者受容性の不安定さ、資金調達難、脱炭素トランジションの遅滞が挙げられています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・国際環境・政策：脱炭素トランジションの遅滞",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素への移行（トランジション）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "需要不十分・コスト増・生産効率の低さ、規制・価格差・消費者受容性の不安定さ、資金調達難、脱炭素トランジションの遅滞が不確実性の要因です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ど）の高い要求に応じた高品質な素材を開発・供給することで、日本の製造業の競争力強化、社",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 脱炭素電源の整備 等",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "と世界の脱炭素化への貢献",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・脱炭素効果の高い革新的技術開発を支援する「グリーンイノベーション基金」による代表例",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素化と国内社会インフラの維持の両立を目的とし",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【適切な産業集積の再構成と脱炭素を進める設備投資】",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "地域に偏在する脱炭素電源等を核に、",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "④類型では、脱炭素電源を活用する事業者支援を行う",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "②データセンター集積型 ③脱炭素電源活用型（GX産業団地）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "④脱炭素電源地域貢献型",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Public procurement",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Practical understanding of biocarbon distinction vs fossil-fuel & coal, industrial applications and deployment case studies, standards, logistics and procurement",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "BIOINNOVASIA 2026 – バイオエネルギー、バイオカーボンおよび循環型ソリューションを通じた脱炭素化の加速",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高温熱産業における燃料転換および脱炭素化リスクの管理",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオ燃料や持続可能な航空燃料（SAF）から、バイオカーボン、木質ペレット、PKS、バイオチャー、BECCSに至るまで、BIOINNOVASIA 2026は、エネルギー、輸送、産業分野における脱炭素化を加速させると同時に、ステークホルダーにとって実践的な示唆と現実的な戦略を提供します",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオカーボンの全て：高温熱産業における燃料転換と脱炭素化リスクの管理",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アジアのバイオ燃料市場と世界的な政策の影響；SAF市場、供給課題、原料と経路の確立；持続可能な船舶燃料と輸送の脱炭素化",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産業ユーザー向けワークショップ バイオカーボンの全て：高温熱産業における燃料転換と脱炭素化リスクの管理",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオエネルギーおよび脱炭素化ソリューション ― BECCS、バイオマス／バイオガス発電、カーボン除去の統合",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオカーボン＆バイオチャーの技術革新 ― 規格、認証、用途、およびカーボン市場",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Bio - based Chemicals : Paving the Way for a Sustainable ... Bio - based Chemicals : Paving the Way for a Sustainable ... LinkedIn https://www.linkedin.com > pulse > bi...",
+    "url": "https://www.linkedin.com/pulse/bio-based-chemicals-paving-way-sustainable-1xghe",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "東南アジア、カナダ、米国の木質ペレットの商社および生産者",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "演者はこれまでにインドネシア研究者らとの連携によって、実バイオマスを用いたバイオものづくりに焦点をあてた研究を進めてきている",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "講演要旨：演者はこれまでにインドネシア研究者らとの連携によって、実バイオマスを用いたバイオものづくりに焦点をあてた研究を進めてきている",
+    "url": "https://biock.jp/event/8807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年12月には中国バイオも",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 米国防総省は、優先して研究開発に取り組む重",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国研究機関はCRISPR-Cas9（高効",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• また、米国は2025年12月、Biosecure Act",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・既存製品との厳しい価格競争",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国新聞セレクト 2021年1月30日",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「沸き立つバイオ燃料～環境とエネルギーのはざまで～8.本命のセルロース 米国、5年後に本格生産」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「安価に有機酸取り出し 有機塩を電気透析 プロセス工業化に道 アストムとRITE」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「食糧と競合しないバイオエタノール」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「思惑ずれるバイオエタノール騒動 またも米国の掌の上か」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「食料生産と競合しないセルロース原料の活用始まる」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民投資ロードマップは、日本の発酵産業の蓄積やエンジニアリングの強みを生かし、AI・データと融合させて、2040年に日本企業の売上11.9兆円（グローバルシェア10%）を目指すとしています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年売上11.9兆円・シェア10%",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目標は、2040年の日本企業の売上（合計）11.9兆円（グローバルシェア10%）です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目標 ― バイオものづくりで2040年に売上11.9兆円・世界シェア10%",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・既存製品との厳しい価格競争にさらされる中、安定した需要の見通しが不十分",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・安価な糖原料と労働力にアクセス可能な地域において、一部商用化が先行（米：トウモロコシ、南米：サトウキビ、中：大規模生産能力）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、バイオ製造技術の高度化により、更なる高付加価値領域も含め、広い市場ポテンシャルが示されており、米国や中国では技術開発を一元的に担うプラットフォームが台頭し、競争が熾烈化している",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（安価な糖原料）で一部商用化が先行",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年の日本企業の売上（合計）11.9兆円（グローバルシェア10%）が目標です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・2040年の我が国企業の売上（合計）目標は、11.9兆円（グローバルシェア10%）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国 韓国 日本 その他アジア 世界その他地域",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 我が国のマテリアル産業は、高機能部素材を中心に、国際的なシェアが高い製品を多く産み出",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 日本のシェアが高く、高い技術力を有する高機能部素材（①高機能繊維、②高機能ポリマー、③高機能フィルム、",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場シェア・順位等次第で独占禁止法上",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "激化する開発競争の中、日系SDVグローバルシェア",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 国際的な動向 米国、ＥＵ、英国等で新しいガイドライン制定等の動き",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "シェアの高い製品を多く有し、利益を確保",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 3割程度を輸出しており、主な輸出先は中国",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国は、新型コロナ感染症の影響もあり、需要の伸びが鈍化",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "他方で、中国は今後、100万トン超の大規模なエチレン生産設備の新設・稼働が予定されており 、我が国か",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "東南アジア、カナダ、米国の木質ペレットの商社および生産者",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "本発表会は、バイオものづくり分野に取り組む大学・研究機関や企業、自治体等に毎月ご登壇いただき、取組内容の紹介と意見交換を行うことで、バイオものづくり分野への理解を深めていただき、産学連携・産産連携の促進を図ることを目的としています",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "随時募集中となっておりますので、バイオものづくり分野に取り組まれている研究者、企業、自治体の皆様は是非エントリーください",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "14:10～14:30 「『【企業向け】事例から考える！バイオものづくり製品導入に向けたガイドブック』のご紹介」",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオものづくりは、環境対応だけでなく調達戦略や新たな価値創出にもつながる、現在注目の生産技術です",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "導入の考え方から成功のポイントまで、実践的に学べる機会をぜひご活用ください",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本発表では、合成生物学により多数の植物由来酵素遺伝子を大腸菌へ導入し、グルコースから希少天然物を発酵生産する「微生物工場」の構築技術を紹介する",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "技術改良による低コスト・高品質化を実現し、2024年には米子工場に国内最大級のパイロットプラントを設置し、糖液年間3,000トン、エタノール1,000kLの生産体制を整備した",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "0.25L～30Lまでの比較的小規模の培養槽を設置しており、バイオものづくり分野の新規参入企業をターゲットに、これまで30社以上の培養条件の最適化・小規模試作支援、150社400名以上の人材育成など、多くの実績を積み重ねてきました",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(一財)バイオインダストリー協会では、2024年度にバイオものづくりフォーラム内に社会実装ワーキンググループを新たに設置し、国内外の関係企業・機関との水平分業・オープンイノベーションを推進する取り組みを開始している",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "13:30～14:00 「大阪産業技術研究所のバイオものづくり関連技術と企業支援事例」",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本発表会は、バイオものづくり分野に取り組む大学・研究機関や企業、自治体等に毎月ご登壇いただき、取組内容の紹介と意見交換を行うことで、バイオものづくり分野への理解を深めていただき、産学連携・産産連携の促進を図ります",
+    "url": "https://biock.jp/event/8807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "受注を重ね、ノウハウやデータを蓄積",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同法は、安全保障上懸念される外国バイオ企業",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を連邦政府が指定し、連邦政府の調達や補助",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "金を用いる事業において、指定された企業の機",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "創出のため、公共調達指令改正で需",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "及びバイオ由来製品を量産する事業者の取組みを戦略的に支援",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "素材・化学企業",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エネルギー企業",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "食品企業 等",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "香料メーカー",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「リコピンの量産法確立／ハリマ化成G, RITE／食品・医薬向け応用」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「繊維メーカー、リサイクルで連携／東レなどがコンソーシアム」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「繊維 to 繊維で素材メーカー5社が連携 選別・分離技術確立へ／40年に衣料廃棄ゼロ目指す」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「ごみからエポキシ原料／高機能接着剤に採用／1/4を非石化に置き換え／積水化学」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「積水化学から基本設計受注／CO変換設備／千代田化工」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バイオコハク酸量産／エア・ウォーター RITE発VBと研究」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「メタンからメタノール製造／大腸菌活用の新技術開発／米新興企業 アクリル酸に照準」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バイオマス技術 開発企業に出資 農林中金」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「新興バイオ企業に出資／Jパワー事業領域を拡大へ」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「RITE発VB GEI／アミノ酸量産へ連携加速／2年内めど メチオニン事業化」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民投資ロードマップは、日本の発酵産業の蓄積やエンジニアリングの強みを生かし、AI・データと融合させて、2040年に日本企業の売上11.9兆円（グローバルシェア10%）を目指すとしています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目標は、2040年の日本企業の売上（合計）11.9兆円（グローバルシェア10%）です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "課題は、人材不足、大規模設備への投資の難しさ、需要不十分・高コスト、規制や価格差、資金調達難などです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自治体は、バイオマスや廃棄物などの未利用資源の供給、産学官の産業クラスター、国産SAF等の官公需調達、人材育成で直接関われます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年の日本企業の売上11.9兆円を目指し、バイオエタノール等の国内生産基盤も整えて外部依存リスクを下げます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・公共調達等による初期需要創出",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・原料調達や製造設備などのサプライチェーン構築促進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・2040年の我が国企業の売上目標は、11.9兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "公共調達による初期需要",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年に日本企業の売上",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 国内でのナフサの精製を継続していることに加え、代替調達で、従来の85％の水準まで回復",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "④川中の製品調達",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "②代替調達の加速",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "１．大胆な政策パッケージによって民間投資を引き出すことで、企業による自律的・継続的な成長を実現する",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " チョークポイントとなる資源・部素材等の調達先の多様化、資源循環等の政策的工夫をビルトインする",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "メーカーが強みを持ち寄って共同開発することが有効",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業間で機密データを開示することなく共同開発を可能にす",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• これまでに段階的なカーボンプライシングの導入を進めてきた",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 省エネ投資支援を中心に中堅・中小企業のGXを後押し",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "発から設備投資等を支援（例：製造、運輸、エネルギー）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Extensive networking opportunities with potential customers, suppliers, business partners and other relevant stakeholders",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Targeted networking opportunities with potential customers, suppliers, business partners, investors, innovators, and other relevant stakeholders",
+    "url": "https://www.b2match.com/e/future-of-biochemicals?utm_source=b2match&utm_medium=website&utm_campaign=future-of-biochemicals&utm_content=view",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Our market reports offer reliable data, forecasts, and competitive analyses on market size, demand, revenues, applications, regions, manufacturers, and key trends. They support strategic planning, market entry, sales development, product management, and investment decisions.",
+    "url": "https://www.b2match.com/e/future-of-biochemicals?utm_source=b2match&utm_medium=website&utm_campaign=future-of-biochemicals&utm_content=view",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "化石燃料・石炭とバイオカーボンの違いに関する実践的理解、産業用途および導入事例、規格、物流・調達",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "原料調達とサプライチェーン最適化 ― 使用済み食用油（UCO）、パーム油工場廃液（POME）、パーム残渣、林業バイオマス、物流",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "投資・資金調達の見通し ― スタートアップ、スケールアップ、大規模プロジェクトの資金調達の道筋",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "持続可能な船舶燃料ソリューションを導入している海運業、バンカー油会社、および物流企業",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "協賛および出展企業を募集中",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "利用可能なスポンサーシップ パッケージは、企業スポンサー、限定カクテルからコーヒー スポンサー、ストラップ スポンサーまで多岐にわたります",
+    "url": "https://www.cmtevents.com/aboutevent.aspx?ev=260501&",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "近年、バイオテクノロジーとデジタル技術の進展により、微生物等の生物機能を最大限に活用した「バイオものづくり」が新たに生まれ、次世代を担う産業として国内外で大きな注目を集めています",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "13:30～14:00 「高品質L-PGAの低価格化に向けた枯草菌生産技術の開発」",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "我々は世界初の枯草菌L-PGA生産技術を確立し、低価格化に向けて高効率・安定生産法と連続好気生産系を開発している",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "13:30～14:00 「循環型社会の実現を目指したバイオものづくり技術の開発」",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本講演では、当機構における未利用バイオマスやCO2など多様な炭素源の有効利用を目指した微生物変換およびバイオプロセス開発の取組を紹介する",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "植物抽出に伴う供給不安定性、高コスト、環境負荷を克服し、栽培地域に依存しない次世代型サプライチェーンを実現する取り組みを概説する",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "13:30～14:00 「分解制御技術と評価法の標準化による次世代生分解性プラスチックの展開」",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "登壇者：国立研究開発法人産業技術総合研究所 関西センター モレキュラーバイオシステム研究部門 バイオ分子評価研究グループ 主任研究員 日野 彰大氏",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "あわせて，評価期間短縮と再現性向上を実現する海洋生分解性試験法およびISO標準化の最新動向を示し，製品開発および事業化に資する技術的視点を提供する",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高まるバイオマス利活用の期待に対して、王子グループは森林資源と紙パルプ技術を活かし、木質由来の糖液、エタノール、ポリ乳酸の製造開発を推進してきた",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "bzl-kin-biomail@meti.go.jp",
+    "url": "https://biock.jp/event/8807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "©Biocommunity Kansai",
+    "url": "https://biock.jp/event/8807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 「次世代の産業の柱」として世界各国が積極的な投資を推進",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "保障の強化やGX・循環型経済 を実現しつつ 、経済成長の達成 が可能な「二兎を追える 」次世代の成長",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "付けを明確にし、兆円単位の投資によって新たな製品の開発や展開が推進されるように",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "するため、バイオ分野の研究開発に",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 米国防総省は、優先して研究開発に取り組む重",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "率・高精度なゲノム編集技術）等の特許を押さ",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI等を用いたバイ",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• CO2を原料とするバイオものづくりの技術開発・実証を行う「GI基金（バイオPJ：1,775億円）」、食",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "品残渣や廃木材等の未利用資源を原料とするバイオものづくりの社会実証を目指す 「バイオものづくり",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 物質生産を高度化する微生物（スマートセル）を開発・設計する国内のプラットフォーム（PF）事業者",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最先端基盤技術開発",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「グリーンフォーラム 第4回事例研究会／バイオエコノミー社会の実現を目指したバイオものづくり技術の開発／独自技術生かし強力に推進」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バイオものづくり参入支援／京都に新研究開発拠点／RITE」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「環境配慮の化学品合成 開発進む新興の動き／バイオマス原料に転換 CO",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「高砂香料、技術開発に力／天然・バイオ製品拡充／国内未利用資源から香料」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バイオものづくり開発／島津・凸版など6テーマ」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "資源化 開発に着手／水素細菌活用など6テーマ」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バイオものづくりシステム実証／出光興産など6件採択 NEDO」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「メタンからメタノール製造／大腸菌活用の新技術開発／米新興企業 アクリル酸に照準」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バイオマス技術 開発企業に出資 農林中金」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(1) AI・半導体",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカルAI（特にAIロボット）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI（領域特化型AI）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI時代に対応した先進的サイバーセキュリティ製品・…",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代ワイヤレス（非地上系ネットワーク、5G/Be…",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "民間航空機（次期単通路機・次世代航空機）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "革新的海底開発技術・システム",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI等を活用した複合新素材",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "革新的デバイス（AI、ロボティクス等）を活用した先…",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代型太陽電池（ペロブスカイト太陽電池等）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ど）の高い要求に応じた高品質な素材を開発・供給することで、日本の製造業の競争力強化、社",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " これまでNEDOを通じた開発や経済安保基金を活用した生産基盤強化への支援等を実施",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 特殊な鋳造設備を開発し、高品質な鋼材",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 特殊な鋳造設備を開発し、高品質な非",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "が国素材産業が蓄積してきたデータやノウハウと最先端AI技術等を掛け合わせ、新材料組成や製造方",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "材料開発の時間・コストを削減し、新素材開発の速度を従来比10倍に加速させるエコシステムを構築",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "メーカーが強みを持ち寄って共同開発することが有効",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業間で機密データを開示することなく共同開発を可能にす",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "る秘匿計算プラットフォームを活用したＡＩ駆動による素材開発プロジェクトを推進",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高機能部素材の競争力向上（AI等を活用した複合新素材）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Future of BioChemicals | Green Chemistry for sustainability",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Skip to main content",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Sustainable Development Goals",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "will bring together key stakeholders from across the bio-based chemicals value chain. The event will focus on bio-based chemicals, specialty chemicals and functional materials, and on how sustainable chemical solutions can be successfully scaled, commercialised and brought to market.",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The programme will address the topics currently shaping the market, including bio-based surfactants, solvents, binders, lubricants, additives and functional ingredients, as well as innovative feedstocks and formulations, performance and cost, regulatory requirements, sustainability, scalability and market-ready applications across a wide range of industries.",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Inspiring keynotes from industry, research and technology",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Copyright © 2024, Green Chemistry for Sustainability. All rights reserved.",
+    "url": "https://chemistryforsustainability.org/events-calendar/future-biochemicals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Skip to main content",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "13:30～14:00 「高品質L-PGAの低価格化に向けた枯草菌生産技術の開発」",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産業として、これまで10年間で約1兆円の経済産業省支援を実施",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年におけるバイオ医薬品の輸出入は、1.7兆円の輸入超過",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1000億ドル（約11兆円）以上の",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "のづくり産業が約24兆円規模に達し",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• CO2を原料とするバイオものづくりの技術開発・実証を行う「GI基金（バイオPJ：1,775億円）」、食",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "革命推進基金（2,700億円）」を実施中",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "①GI基金 （1,775億円）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "②バイオものづくり革命推進事業（2,700億円、基金）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 現在、予算額1,774.7億円に対して、計5件の案件を実施中（令和６年４月）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「非食料バイオ燃料量産 出光・三菱商事 稲わら・雑草活用 100億円投じ工場」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオものづくりとは｜官民投資ロードマップの目標11.9兆円・投資額12.8兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオものづくりとは｜「ウェット」の強みとAIで2040年に売上11.9兆円へ",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民投資ロードマップは、日本の発酵産業の蓄積やエンジニアリングの強みを生かし、AI・データと融合させて、2040年に日本企業の売上11.9兆円（グローバルシェア10%）を目指すとしています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年売上11.9兆円・シェア10%",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年度までに12.8兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年度までに66.7兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオ産業がもたらす経済効果は約165兆円（2030〜2040年）と見込まれ、国内資源を生かして経済安全保障と脱炭素を両立できる分野です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目標は、2040年の日本企業の売上（合計）11.9兆円（グローバルシェア10%）です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民投資額は2040年度までに12.8兆円、経済波及効果は66.7兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約314兆円",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約382兆円",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約117兆円",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 半導体（機能性化学品）；2030年には市場規模100兆円に達する見込み",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 10年間に20兆円規模の大胆なGX投資促進の実行",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10年間に150兆円超の官民ＧＸ投資を実現・実行",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・中小企業等の省エネ支援（３年間で7,000億円規模を措置）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・GXスタートアップ支援（５年間で2,000億円規模を措置） 等",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €20 million, 1 proposal submitted requesting €19.6 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €20 million, 7 proposals submitted requesting €124.5 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €20 million, 4 proposals submitted requesting €76.9 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €20 million, 21 proposals submitted requesting €384.5 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €14 million, 34 proposals submitted requesting €214.6 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €14 million, 9 proposals submitted requesting €56.2 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €14 million, 21 proposals submitted requesting €132.5 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €14 million, 14 proposals submitted requesting €89.6 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €14 million, 25 proposals submitted requesting €149 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "– topic budget €6.5 million, 32 proposals submitted requesting €100.5 million in funding",
+    "url": "https://www.cbe.europa.eu/news/2026-cbe-ju-call-attracts-272-project-proposals",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Japan’s Bioeconomy 2026: How World-Class Science Is Driving Global Business Growth: Expert View by Spherical Insights",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Japan is turning its strengths in biotechnology, regenerative medicine, biomanufacturing, and life sciences into high-growth businesses. By 2026, government initiatives, startups, and private-sector research are creating opportunities across healthcare, food, advanced materials, and sustainable manufacturing.",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "into high-growth businesses. By 2026, government initiatives, startups, and private-sector research are creating opportunities across",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "In 2026, this policy direction is becoming more closely connected with industrial strategy. Japan’s Growth Strategy identifies",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "US$32.1 billion in 2025",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "US$60.23 billion by 2035",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CAGR of 6.5% from 2026 to 2035",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "0.25L～30Lまでの比較的小規模の培養槽を設置しており、バイオものづくり分野の新規参入企業をターゲットに、これまで30社以上の培養条件の最適化・小規模試作支援、150社400名以上の人材育成など、多くの実績を積み重ねてきました",
+    "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人材育成など自立的な産業エコシステムの構築",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を通じて、目的物質を安定的・大量に生産するための知見や技能を含む",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「学会発表が投資契機／技術に合う経営人材紹介」",
+    "url": "https://www.rite.or.jp/bio/works/media/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "課題は、人材不足、大規模設備への投資の難しさ、需要不十分・高コスト、規制や価格差、資金調達難などです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自治体は、バイオマスや廃棄物などの未利用資源の供給、産学官の産業クラスター、国産SAF等の官公需調達、人材育成で直接関われます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "微生物や細胞を培養・発酵させ、条件調整や装置運転を通じて、目的物質を安定的・大量に生産するための知見や技能を含む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人材育成など自立的な産業エコシステムの構築",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "、サプライチェーン、人材",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "発酵・醸造の地場産業がある地域：酒蔵、みそ・しょうゆ蔵の技術と人材",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・技術開発基盤の拡充と生産インフラの整備及び人材・ノウハウ・データの結集・高度化による、バイオ製造技術の高効率化",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人材・知見が循環し適材適所で活用されるエコシステム、地域未来戦略を踏まえた産学官の連携による産業クラスター",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：ウェットの技と人材を、新しいバイオ製造に生かす産学官の連携",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：人材・知見が循環するエコシステムの拠点",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 2025年3月、GX企業の人材確保に関する事例集を公表",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 移行に伴う雇用・人材へ",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・革新的GX技術創出事業(GteX)により大学等における基盤研究と人材育成を支援",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "② 経営者等による事業への関与（例：経営者等による具体的活動方針（人材・設備・資",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Skilled Talent:",
+    "url": "https://www.sphericalinsights.com/blogs/japan-s-bioeconomy-2026-how-world-class-science-is-driving-global-business-growth",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-04T01:15:21.948607+00:00"
+}

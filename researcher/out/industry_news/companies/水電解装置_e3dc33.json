@@ -1,0 +1,5027 @@
+{
+ "name": "水電解装置",
+ "en": "water electrolyzer",
+ "aliases": [
+  "水素製造装置",
+  "電解槽",
+  "グリーン水素"
+ ],
+ "context": "12 GX ②水素等",
+ "kind": "market",
+ "researched_at": "2026-11-04T01:09:51.508420+00:00",
+ "evidence": {
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AEM 水電解装置 の世界市場調査：需給動向と企業ランキング ... AEM 水電解装置 の世界市場調査：需給動向と企業ランキング ... note https://note.com > 科学・テクノロジー > エネルギー",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "政治（法・予算・規制）": [
+   {
+    "quote": "「水電解評価事業（GI基金）の成果及び常温水電解評価解析プラットフォームの取り組み」",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、米国では地球温暖化対策に懐疑的な動きが顕著になり予算が削減される中、日本では2026年7月に策定された「日本成長戦略」で、戦略17分野の一つである「資源・エネルギー安全保障・ＧＸ」に水素等が位置づけられ、官民連携した大規模な成長投資が期待されています",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・環境政策やエネルギー政策に関わる政府・自治体関係者",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内外の化学物質規制・最新動向 (72)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "PFAS規制動向と企業対応の実務 (10)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "RoHS / ELV 等製品規制の動向 (11)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国・ASEANなどアジア諸国の化学品規制 (10)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今後の規制動向予測と戦略的対応策 (2)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "化学物質規制の基礎とリスク管理 (2)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "各国規制の比較と遵守ポイント (3)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内化学物質規制（化審法・有機則・特化則）概要とポイント (10)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（図）水素に係る国家戦略・方針・法律の策定状況",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（表）水素社会推進法の計画認定状況",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本ではGI基金事業でPFASフリー電解質膜を用いた10MWモデルの開発を推進",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年2月にNEDOのGI基金事業に採択",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SBT認定取得支援",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政策立案者も今こそ同じことをしなければなりません」との記述もあり、欧州の生産容量は10GWを超えるものの、EUにおける2024年までの目標である6GWに対して、現実はわずか１GW未満であることから、中国の国を挙げての展開に危惧し、政府の対応を促している状況だ",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同マニフェストでは、戦略的要請として、①市場創出と需要刺激の加速、②水素の規制定義の整備、③資金調達メカニズムの簡素化と強化を挙げており、欧州がクリーンエネルギー技術のリーダーシップを維持するためには、政策立案者が電解槽の市場需要を加速し、規制を簡素化し、長期的な投資の確実性を提供する必要があり、欧州の競争力、主権、回復力を強化することができると結論づけている",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "7 市場秩序を規制するための業界標準を確立する",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "8 政策支援を合理的に捉え、生き残りのための補助金への依存を避ける",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10 海外市場への進出を規制し、中国ブランドのイメージを維持する",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "前述したとおり、欧州では大手6社が結束し、迫りくる中国企業への対策を早く打つよう政府に促しており、このままだと競争に負けるかもしれないという焦りが見て取れるが、後述の中国は欧州市場に乗り込む自信を感じる",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "EUはEU気候法改正案を発表 ～ 2040年までに1990年比90％のGHG排出量削減を目指す ～",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1991年にノルトライン・ヴェストファーレン（NRW）州政府により、エコロジー建築の先駆者として建築業界を支援する目的で設立され、2000年初めに完全民営化",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この急成長は、再生可能エネルギーの導入拡大、政府による脱炭素化政策、そして持続可能な燃料技術への世界的な企業投資の増加によって牽引されています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の政策が市場導入を加速",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置の導入に対するインセンティブ、補助金、規制面での支援は、産業界、電力・エネルギー事業者、輸送事業者にグリーン水素の導入加速を促し、市場の成長をさらに後押ししています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本、韓国、中国を中心とするアジア太平洋地域は、産業界からの需要や政府主導の水素プロジェクトを背景に、最も急速な成長を遂げると見込まれています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「健康経営優良法人2026（大規模法人部門）」認定のお知らせ",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「健康経営優良法人2025（大規模法人部門）」認定のお知らせ",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「健康経営優良法人2024（大規模法人部門）」初認定のお知らせ",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ベトナム国への政府開発援助（ODA）の無償資金協力案件",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "カンボジアへの政府開発援助（ODA）の円借款資金協力案件",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "～環境省「二酸化炭素排出抑制対策事業費等補助金 脱炭素社会を支えるプラスチック等資源循環システム構築実証事業」に採択～",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "“子育てサポート企業”として「プラチナくるみん」認定を取得",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 特に市場が黎明期の水素等の新技術は価格転嫁の壁が高く、また、規制等の",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "相次ぐオイルメジャーの戦略転換 規制枠組み構築の遅れ",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（略）しかし、強力な規制インセン",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "減を目的として提案された国際規制について、2025年10月に開",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 欧州では、経済の強靱性やエネルギー安全保障の観点から、水素に対する長期間の政府支",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "援や規制を実施",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 9億ユーロ(約1,650億円)の予算を確保し、H2Globalによるダブルオークションのうち、第1回固定価格買取入",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 第2回固定価格買取入札を開始 (25年2月)し、ドイツ連邦政府・オランダ政府から29億ユーロ(約5,330億",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（出所）Hydrogen Europe、欧州委員会、各国政府HPより",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（事例）EUの域内海運規制 ～FuelEU Maritime～",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置市場の成長を支える最大要因は、各国政府による水素戦略の強化である",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州連合（EU）を中心にグリーン水素導入目標が設定され、補助金制度や炭素価格制度を通じて導入インセンティブが拡大している",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ネット・ゼロをリードすることで、政府が掲げる「2050年カーボンニュートラル、脱炭素社会の実現」に貢献するとしている",
+    "url": "https://igaspedia.com/2023/07/13/tokyo-gas-senju-h2-station-aem-electrolyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、米国では地球温暖化対策に懐疑的な動きが顕著になり予算が削減される中、日本では2026年7月に策定された「日本成長戦略」で、戦略17分野の一つである「資源・エネルギー安全保障・ＧＸ」に水素等が位置づけられ、官民連携した大規模な成長投資が期待されています",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "環境政策やエネルギー政策に関わる政府・自治体関係者",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "医療機器・ヘルスケア業界参入で「後戻り」を防ぐ事業化・規制対応戦略《無料セミナー》",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "はじめての化学物質法規制・基礎講座（セミナー）",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "助成金・補助金の活用について",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 2025年2月に第7次エネルギー基本計画が閣議決定",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "に向けた支援を行い、国内外を含めた更なる低炭素水素等の大規模な供給と利用に向けて、規制・支援一体的な政策",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 具体的には、水素社会推進法に基づく、既存原燃料との価格差に着目した支援制度や拠点整備支援制度の計画認定、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金事業等で世界に先行した技術開発により競争力を磨くとともに、世界の市場拡大を見据えて先行的な企業の設",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 一方、欧州を中心に長期間の政府支援は着々と継続",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 9億ユーロ(約1,500億円)の予算を確保し、H2Globalによるダブルオークションのうち、第1回固定価格買取入",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 第2回固定価格買取入札を開始 (25年2月)し、ドイツ連邦政府・オランダ政府から25億ユーロ(約4,100億",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "脱炭素時代の水素製造を基礎から学ぶオンライン技術セミナーを開催",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・脱炭素に向けた国内外の水素の取り組み概要",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "２）水電解装置に要求される課題と対応",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ISO9001：2026/ISO14001：2026内部監査員育成講座～改正後の要求事項を盛り込んだ、最…",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "顧客要求・法規制への対応フロー (1)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素 (99)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ハラール認証取得支援サービス",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官公庁受託実績",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素需要は従来、石油精製や化学分野に依存してきたが、脱炭素化の進展により鉄鋼、モビリティ、発電分野などへの拡張が期待されている",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・脱炭素化を目的にグリーン水素の利活用を検討している事業者、自治体関係者",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解技術は脱炭素化を目指した野心的なシナリオから",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "システム導入～運用を支えるワンストップソリューションのサプライヤーとして",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "福島県田村市のグリーン水素プロジェクトで半導体産業の脱炭素化に貢献",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "排熱のあるプラントとSOECを組み合わせた大規模脱炭素化実証をスタートさせる",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年版 カーボンニュートラル燃料（脱炭素燃料）マーケット ～足元で拡大するモビリティ用途のバイオ燃料の現状と中長期展望～",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "C68105500 2026年版 カーボンニュートラル燃料（脱炭素燃料）マーケット ～足元で拡大するモビリティ用途のバイオ燃料の現状と中長期展望～",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素化推進コンサルティング",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ダイバータの役割と主要な国内サプライヤー",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アイルランドが目指す「環境を守る農業」 ～カーボンファーミングを制度化し、脱炭素効果と経済合理性を担保～",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この急成長は、再生可能エネルギーの導入拡大、政府による脱炭素化政策、そして持続可能な燃料技術への世界的な企業投資の増加によって牽引されています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "私たちは、様々な業種にわたる非常に要求の厳しいクライアントのために、比類のない、詳細かつ驚くほど正確な見積りと予測を提供することに誇りを持っています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの地域の海外バイヤーは価格だけでなく、電気効率、カーボンフットプリント、第三者認証も評価しており、サプライチェーン全体に真の技術的価値の提供を迫っている",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これには、原材料とそのサプライヤー、製造コストの構成要素、製造プロセスの分析、および産業チェーン構造に関する情報が含まれています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素社会・脱炭素社会の実現に貢献いたします",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ごみ焼却施設の脱炭素化に向けて",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「湿式炭化による下水汚泥利活用技術」が日本下水道事業団の新技術Ⅰ類に選定 ～エネルギー自立型燃料化プロセスで処理場の脱炭素化に貢献～",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素・CCUS技術を普及促進するためのオープンイノベーション",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当社ISO認証の復帰について",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当社ISO認証の一時停止の解除について",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当社ならびに当社子会社のISO認証の一時停止ならびに取消しについて",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "～環境省「二酸化炭素排出抑制対策事業費等補助金 脱炭素社会を支えるプラスチック等資源循環システム構築実証事業」に採択～",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素化にコストのかかるプロセ",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "要求されるGHG強度",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 国際持続可能性カーボン認証（ISCC EU）の審査を通過し、「非生物起源の再生可能",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "燃料（RFNBO）」認証証書を取得※2",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "おいて、産業革新と脱炭素化の重要な手段であ",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 2025年の政権交代・省庁再編を経て、脱炭素・グリーン転換の方針を強化",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 電力分野では、長期脱炭素電源オークションの第３回入札（2026年1月実施）において、既存燃料との燃",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "核となる自治体や荷主・運送企業、車両OEM、ステーション事業者と連携しつつ、制度整備を進展",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（参考）長期脱炭素電源オークション（LTDA）の概要",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素電源への新規投資を対象とした入札を実施し",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの装置は、製造業、輸送、電力貯蔵、化学品製造など幅広い産業領域における脱炭素化を支援する装置として、今後の社会インフラに不可欠な技術基盤となることが見込まれている",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "■政策支援と脱炭素化が牽引する水電解装置の成長展望",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに、鉄鋼・化学・海運といった脱炭素困難領域において水素利用が進展することで、水電解装置の産業横断的な需要拡大が見込まれる",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ネット・ゼロへの挑戦」に向け、脱炭素化に向けた技術開発の早期実現を図り、CO",
+    "url": "https://igaspedia.com/2023/07/13/tokyo-gas-senju-h2-station-aem-electrolyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ネット・ゼロをリードすることで、政府が掲げる「2050年カーボンニュートラル、脱炭素社会の実現」に貢献するとしている",
+    "url": "https://igaspedia.com/2023/07/13/tokyo-gas-senju-h2-station-aem-electrolyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "玉造が日本酸素製造の第三者認証付きCO₂フリー液化酸素を採用",
+    "url": "https://igaspedia.com/2023/07/13/tokyo-gas-senju-h2-station-aem-electrolyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素技術開発",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241053.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素ソリューション",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241053.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素ソリューショントップ",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241053.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素に向けた国内外の水素の取り組み概要",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "２）水電解装置に要求される課題と対応",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "テーションの普及拡大に向けた支援、長期脱炭素電源オークションにおける更なる制度対応の検討等に取組中",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "炭素集約度・認証 作業部会",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 海外規制・認証に関する",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4. 現実的なトランジションの重要性と世界の脱炭素化への貢献",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セットのサプライチェーンが、脱炭素エネルギーの利用やDXに",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 今後は、脱炭素電力等のクリーンエネルギーを利用した製品・",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「新たな産業用地の整備」と「脱炭素電源の整備」を進め、地",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " AZEC等の取組を通じ、世界各国の脱炭素化に貢献",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "dragonbird on X: \" 水電解装置 とは？目的・研究・製造の動向 dragonbird on X: \" 水電解装置 とは？目的・研究・製造の動向 X https://x.com > @dragonb63254274",
+    "url": "https://x.com/dragonb63254274/status/2115273313970950545",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "当出版物によって、出版者はそれが明示されているか示唆されているかにかかわらず、有価証券あるいは商品取引の注文を発注、手配、助言、仲介、奨励する意図はない",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "半導体商社の日本株5選：事業構造に強み、今期増益予想",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The electrolyzer commissioning was first suspended in the fourth quarter of 2024. Following a comprehensive review of the incremental investment and ongoing operating costs required to complete and operate the facility, management decided in December 2025 to permanently halt the project and redirect capital toward carbon capture and sequestration (CCS) technologies instead.",
+    "url": "https://decarbonfuse.com/posts/cf-industries-cancels-electrolyzer-project-pivots-to-carbon-capture-strategy",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "「中国の水素・水電解・燃料電池産業の最新動向」",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【半導体】東京応化工業、韓国子会社の平澤工場竣工",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "東京大学工学部卒、米国ＵＣＬＡ理工学大学院修士課程修了",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、米国では地球温暖化対策に懐疑的な動きが顕著になり予算が削減される中、日本では2026年7月に策定された「日本成長戦略」で、戦略17分野の一つである「資源・エネルギー安全保障・ＧＸ」に水素等が位置づけられ、官民連携した大規模な成長投資が期待されています",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "２）代表的メーカーの製品例と取組状況（日本、欧州、北米、中国）",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "REACH規則（欧州）への対応ポイント (9)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国・ASEANなどアジア諸国の化学品規制 (10)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国TSCA・Proposition 65 の規制ポイント (4)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "マーケットシェア事典オンライン",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置の方式別導入量推移、エリア別・用途別シェア",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、エリア別と用途別では2025年実績、および2030年予測のシェア（容量ベース）を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ａ：北米、欧州、中国、中東、インド、その他の区分で水電槽装置の導入量シェアを確認いただけます",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、日本、EU、ドイツ、米国、中国、韓国の水素関連政策を整理しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ｑ：競合メーカーの情報はどの程度詳しく掲載されていますか？",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ａ：日本、米国、欧州を中心にとした主要メーカーの生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「第2章 主要国の水素関連政策」では、日本、EU、ドイツ、米国、中国、韓国の水素政策の流れ、具体的な数位目標等の必要な情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「第4章 水電解装置・部材メーカーの動向」では、水電解装置および部材メーカーの事業概要、製品ポートフォリオや研究開発動向等の詳細を確認でき、競合比較や自社の戦略立案に役立ちます",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2-4.米国の水素関連政策",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州の水電解装置6社が新たな連合E4Eを組成",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国企業を警戒か",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本稿では、EUと中国における水電解槽のリーダーシップを巡る動向を紹介し、今後の市場の主導がどのように移行していくのかを推察したい",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年2月1日、欧州の大手電解装置メーカー6社は、欧州でのグリーン水素生産の拡大にむけた新たな連合「Electrolysers for Europe (E4E)",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、今後5年間で、欧州が電解装置におけるリーダーシップを築くか、あるいは失うかが決まるだろうと、非常に断定的且つ欧州の政治に対し、危機を煽る表現を示している",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この6社は欧州の電解大手であり、欧州における水電解装置のポジションを守るために共同戦線を張った形となる",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政策立案者も今こそ同じことをしなければなりません」との記述もあり、欧州の生産容量は10GWを超えるものの、EUにおける2024年までの目標である6GWに対して、現実はわずか１GW未満であることから、中国の国を挙げての展開に危惧し、政府の対応を促している状況だ",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "E4Eは、欧州委員会に対し、EUの資金メカニズムにおける明確な「Made in Europe」基準の適用、需要側インセンティブの拡大、そして水素インフラプロジェクトの迅速化を強く求めている",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "電解装置は単なるエネルギー技術ではなく、戦略的な産業資産であると強調し、早急な政治的連携がなければ、欧州はより積極的で支援の厚い世界の競合相手に、初期の優位性を失うリスクがあると主張している",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この危機感を醸成している競争相手はマニフェストでは名言していないが、明らかに中国である",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アナリストは、再生可能エネルギーのコスト低下に伴い、大規模な水素生産の経済性が向上しており、それが欧州、アジア太平洋、北米での投資を促進していると指摘しています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "地域別の動向：欧州、アジア太平洋、北米",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州は、EUの強力な水素政策と再生可能エネルギーの導入拡大に牽引され、引き続き最大の地域市場となっています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本、韓国、中国を中心とするアジア太平洋地域は、産業界からの需要や政府主導の水素プロジェクトを背景に、最も急速な成長を遂げると見込まれています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "北米では水素インフラの整備が急速に進んでおり、米国およびカナダ全域における再生可能エネルギー発電を補完する役割を果たしています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、国内の主要メーカーは現在、欧州や中東へシステムを大量に出荷している",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本インサイトレポートは、世界のALK電解水水素製造システムの全体像を包括的に分析し、製品セグメンテーション、企業設立、収益、市場シェア、最新動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、ALK電解水水素製造システム市場の包括的な概要、市場シェア、成長機会を提示します",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、水素生産能力（5-100 Nm³/h、101-500 Nm³/h、500 Nm³/h超）、運転圧力（大気圧アルカリ電解槽、加圧アルカリ電解槽）、システム構成（シングルスタック、マルチスタック）、および用途（化学・冶金、エネルギー・輸送、その他）ごとのセグメント分析が詳細に示されており、それぞれのセグメントにおける世界販売量、収益、市場シェア、および販売価格（2021-2026年）が網羅されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業ごとの年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格が比較されます",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2021年から2026年までの国別（米国、カナダ、メキシコ、ブラジルなど）の販売量と収益、および水素生産能力別、用途別の販売動向が詳述されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売量と収益、および水素生産能力別、用途別の販売動向が詳しく分析されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国は、海運",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国消費者への価格転嫁も、あるいは「グリーン・ニュー・",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 欧州では、経済の強靱性やエネルギー安全保障の観点から、水素に対する長期間の政府支",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 欧州水素銀行による第１回入札を実施",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 第２回入札では、新たに水電解槽の総容量に対して中国からの調達を制限する要件を追加",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（出所）Hydrogen Europe、欧州委員会、各国政府HPより",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ EU/EEA(欧州経済領域)海域を航行する船舶が使用する燃料のGHG強度に上限を設定し、",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "成施策の観点や、ロシアや米国といった天然ガス供給国への地政学リスクが高まる中、エネルギー安全保障の",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫最初の出荷はインドのアンドラ・プラデシュ州",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ トランプ大統領就任後、米国内のエネルギーを解放し、世界中にシェールガスを輸出する",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバル水電解装置のトップ会社の市場シェアおよびランキング 2026」によると、世界の水電解装置市場は2025年に2441百万米ドル規模に達すると予測され、2026年には3568百万米ドルに拡大する見込みです",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上記の図表／データは、YHResearchの最新レポート「グローバル水電解装置のトップ会社の市場シェアおよびランキング 2026」から引用されています",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "直近6カ月の業界動向では、欧州および中東地域において数百MW級のグリーン水素プロジェクトが複数進行しており、PEM型水電解装置の採用比率が上昇している",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "またアジア市場でも中国・日本・韓国を中心に水素産業政策が強化され、産業用途（製鉄・アンモニア・石油精製）向けの大規模導入が加速している",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置市場は、技術集約型かつ資本集約型産業であり、欧州・北米・中国の大手企業による寡占構造が形成されている",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州連合（EU）を中心にグリーン水素導入目標が設定され、補助金制度や炭素価格制度を通じて導入インセンティブが拡大している",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本記事は、YH Researchが発行したレポート「グローバル水電解装置のトップ会社の市場シェアおよびランキング 2026」 を紹介しています",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界5カ国にオフィスを構え、100カ国以上の企業に正確で有益なデータを提供し、業界動向や競合分析、消費者行動分析などを通じて、企業が市場の変化に迅速に対応できるようサポートしています",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レーザー弱化機業界動向2026：市場シェア、価格変動、投資機会を分析",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "企業登録申請",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業・事業主のお客様",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業・事業主ユーザーとして登録すると、プレスリリースの配信・掲載をおこなうことができます",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業・事業主ユーザーで",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業様からのお問い合わせ",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【半導体】東京応化工業、韓国子会社の平澤工場竣工",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "登録企業一覧",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内外メーカーの取り組みと技術開発状況",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解の方式やメーカーの選定を検討されている方",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・国内外メーカーの取り組み状況",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらのポイントについて、ＦＨ２Ｒをはじめ大規模水電解プロジェクトや国内外メーカーとの技術開発を長年リードしてきた講師により、技術開発の現場で得られた知見を交え、実務に役立つ視点で水電解技術と市場の全体像を分かりやすく解説します",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解技術の基礎から世界の最新動向、主要メーカーの開発状況、技術課題、市場の将来展望までを体系的に学べる実践的なセミナーで、実務に直結する知識をご提供します",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・水素・エネルギー関連事業の新規事業、技術開発、設備導入を担当する経営者・技術者・ビジネスパーソン",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・水電解の方式やメーカーの選定を検討されている方",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・主要メーカーの取組みや市場動向、技術開発の現状が把握でき、業界全体のトレンドを理解できる",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・水電解装置の性能や効率、コストなどの実力値を理解し、自社の技術開発や導入計画に役立てられる",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "業界別企業業績データ",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TSR企業情報・TSR REPORT",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、再生可能エネルギーの導入拡大に伴う電力の余剰問題を解決するため、P2G（Power-to-Gas）用途での水素需要が顕在化している",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本調査レポートでは、水電解技術に係る研究成果や研究開発のトレンド、装置・部材メーカーの事業戦略を徹底調査するとともに、2035年までの水電解装置・部材市場の成長性を予測する",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置の方式別導入量推移、エリア別・用途別シェア",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置・部材メーカーの動向（生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等）",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ｑ：水電解装置について、本資料ではどの期間の導入量の予測が掲載されていますか？",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ａ：方式別では2025年実績、2026～2030年予測、2035年予測の導入量（容量ベース）を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ａ：北米、欧州、中国、中東、インド、その他の区分で水電槽装置の導入量シェアを確認いただけます",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国企業を警戒か",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年2月1日、欧州の大手電解装置メーカー6社は、欧州でのグリーン水素生産の拡大にむけた新たな連合「Electrolysers for Europe (E4E)",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "表１ Electrolysers for Europe参加企業6社一覧",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "納入及び生産済み容量",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "は2需要側インセンティブとヨーロッパ産基準の導入を訴えるマニフェストを2026年2月4日に発表した",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "後述するが中国は昨年から欧州での展開を見越し、水素業界でグローバル取引への企業品格の形成とEUの炭素国境調整メカニズム（CBAM）への対応を推進している",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同マニフェストでは、戦略的要請として、①市場創出と需要刺激の加速、②水素の規制定義の整備、③資金調達メカニズムの簡素化と強化を挙げており、欧州がクリーンエネルギー技術のリーダーシップを維持するためには、政策立案者が電解槽の市場需要を加速し、規制を簡素化し、長期的な投資の確実性を提供する必要があり、欧州の競争力、主権、回復力を強化することができると結論づけている",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素に限らず、すべての産業セクターで同様な傾向にあると思うが、中国的気質から脱却し、グローバル基準で認められる企業気質と品位を身に着けようとする姿勢が見受けられ、非常に興味深い",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産業の確実性を継続的に高めるために、二重炭素排出制御システムを導入する",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素エネルギー促進協会は、2026年においては、企業は国内市場でのプレゼンスを高めつつ、海外市場への進出を強化すると予測しており、業界の競争環境は「国内競争」から「グローバル競争」へと移行すると断言している",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この急成長は、再生可能エネルギーの導入拡大、政府による脱炭素化政策、そして持続可能な燃料技術への世界的な企業投資の増加によって牽引されています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の政策が市場導入を加速",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置の導入に対するインセンティブ、補助金、規制面での支援は、産業界、電力・エネルギー事業者、輸送事業者にグリーン水素の導入加速を促し、市場の成長をさらに後押ししています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業は、産業拠点、再生可能エネルギー発電所、水素ステーションなど、様々な場所で導入可能な、拡張性の高いモジュール式水電解装置の開発に注力しています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鉄鋼、化学、アンモニア生産など、エネルギー消費量の多い産業において、製造プロセスへのグリーン水素の導入が進んでいます",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "専門家は、2035年までに市場規模が10倍に拡大するという予測を達成する上で、業界横断的な導入が重要な役割を果たすと予測しています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州は、EUの強力な水素政策と再生可能エネルギーの導入拡大に牽引され、引き続き最大の地域市場となっています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーン水素用水電解装置市場の主要企業",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• その他主要企業",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "主要企業と市場戦略",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本資料には、ALK電解水水素製造システムの世界市場規模、市場動向、セグメント別予測（5～100 Nm³/h、101～500 Nm³/h、500 Nm³/h超）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "かつて購入者が設置容量を優先していたのに対し、現在では大規模な化学業界の顧客は、年間稼働時間、出力上昇率、およびオフグリッド対応能力に焦点を当てている",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、国内の主要メーカーは現在、欧州や中東へシステムを大量に出荷している",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本質的に、アルカリ電解分野における現在の競争は、もはや誰が最低価格を提供できるかという点ではなく、変動性によって定義される「ニューノーマル」の中で、より少ない貴金属、より薄い隔膜、そしてより堅牢なスタックを使用し、化学業界の顧客に10年間のオフテイク契約を締結させるのに十分な、トン当たりコストの低いグリーン水素を生産できるかという点に焦点が移っている",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本インサイトレポートは、世界のALK電解水水素製造システムの全体像を包括的に分析し、製品セグメンテーション、企業設立、収益、市場シェア、最新動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、本レポートでは、世界的な主要企業の戦略を分析し、ALK電解水水素製造システムのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当てることで、加速する世界のALK電解水水素製造システム市場におけるこれらの企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、ALK電解水水素製造システム市場の包括的な概要、市場シェア、成長機会を提示します",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "以下に紹介する企業は、主要な専門家からの情報および各社の事業範囲、製品ポートフォリオ、市場浸透度を分析した上で選定されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第1章には、ALK電解水水素製造システム市場の導入、調査対象期間、調査目的、市場調査の方法論、調査プロセスとデータソース、経済指標、考慮される通貨、および市場推定における注意点などの情報が記載されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第3章には、ALK電解水水素製造システムの世界市場における企業別の詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（新しいタブで水素発生装置HHOG納入実績PDFを開きます）",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（新しいタブで水電解式水素発生装置HHOG納入実績PDFを開きます）",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "豊富な納入実績",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1990年代前半に開発・初号機納入し、水素発生量5Nm",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "JFEテクノリサーチ、グリーン水素製造技術開発を加速する水電解評価試験装置を販売開始",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AndTech新刊「環境配慮型材料Vol.15 ～環境イノベーション戦略と次世代エネルギー～」を刊行",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIエージェント",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【水素・水電解・燃料電池】水素・燃料電池開発情報センター、2026年11月11日に第42回セミナー開催 - CTIWEB 株式会社加工技術研究会",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CONVERTING Technology Seminar",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【水素・水電解・燃料電池】水素・燃料電池開発情報センター、2026年11月11日に第42回セミナー開催",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素・燃料電池開発情報センター",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（FCDIC、旧・燃料電池開発情報センター）は2026年11月11日午前10時～午後7時15分（午後5時15分～7時15分までは交流会）まで、",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「カーボンニュートラルに向けた東京ガスの取り組みとPEM形水電解CCMの開発状況」",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「カナデビアのPEM型水電解システムにおける大規模実証と今後の展望」",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「関西電力における水素事業の取り組みと技術開発」",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【フィルム型ペロブスカイト太陽電池】積水化学工業・積水ソーラーフィルム・鹿児島銀行・南国殖産、志布志市で台風や塩害などの耐候性実証実験開始",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内外メーカーの取り組みと技術開発状況",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素・エネルギー関連事業の新規事業や技術開発を担当する方",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1982年に株式会社東芝に入社し、燃料電池、超電導、核融合、熱分解ガス化炉など新エネルギー関連の技術開発に従事",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2012年から燃料電池事業開発室長として家庭用燃料電池エネファームの開発、2014年から全社プロジェクトの技術責任者として、水素エネルギーシステムや水電解装置に関する技術開発、実証事業、事業化推進を統括",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本技術士会、燃料電池開発情報センター（FCDIC）、水素エネルギー協会（HESS）、日本機械学会、各会員",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素エネルギーシステム、燃料電池、水電解装置等の新エネルギー関連の新技術開発及び事業開発",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本では2020年に福島県浪江町で実証運転を開始したＦＨ２Ｒ（福島水素エネルギー研究フィールド）が、当時世界最大の10ＭＷのアルカリ水電解装置でした",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらのポイントについて、ＦＨ２Ｒをはじめ大規模水電解プロジェクトや国内外メーカーとの技術開発を長年リードしてきた講師により、技術開発の現場で得られた知見を交え、実務に役立つ視点で水電解技術と市場の全体像を分かりやすく解説します",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解技術の基礎から世界の最新動向、主要メーカーの開発状況、技術課題、市場の将来展望までを体系的に学べる実践的なセミナーで、実務に直結する知識をご提供します",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これから水素ビジネスへの参入を検討される方はもちろん、既に事業や研究開発に携わっている方にも、最新動向を踏まえて技術と市場を俯瞰できる内容です",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このうち、アルカリとPEMは商用化フェーズ、SOECとAEMは実証から商用化に移行しつつある",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本調査レポートでは、水電解技術に係る研究成果や研究開発のトレンド、装置・部材メーカーの事業戦略を徹底調査するとともに、2035年までの水電解装置・部材市場の成長性を予測する",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置・部材メーカーの動向（生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等）",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ａ：日本、米国、欧州を中心にとした主要メーカーの生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「第3章 水電解技術・部材市場の動向」では、水電解技術および部材に係る研究開発・市場動向を理解でき、かつ欧米の主要水電解装置メーカーの事業概要や採用プロジェクト等の情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「第4章 水電解装置・部材メーカーの動向」では、水電解装置および部材メーカーの事業概要、製品ポートフォリオや研究開発動向等の詳細を確認でき、競合比較や自社の戦略立案に役立ちます",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（表）水素エネルギー総合利用に関する実証事業の枠組み",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本ではGI基金事業でPFASフリー電解質膜を用いた10MWモデルの開発を推進",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "16MW級水電解装置を導入した大規模P2Gシステムの実証が順調に進む",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ccs&S：Climate change solutions ＆Sustainable Report",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国のグリーン水素・アンモニア・メタノールエネルギー産業が実証・探査段階から大規模開発段階へと移行する出発点となる",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "、政策主導の実証・探査段階から市場主導の商業化へと移行する",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州は、過去には太陽光発電ではメーカーの開発競争と市場獲得競争に負け、現時点では、陸上・洋上風力発電市場でも中国がトップを占めている状況だ",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "核融合発電のエネルギー変換に係る技術開発の動向",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ける最新の技術開発動向をご紹介します",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「高温固体酸化物電気化学デバイスの研究開発動向」",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「レドックスフロー電池の実証例と技術動向、今後の展望」",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「硫化物系固体電解質を用いた全固体電池の開発」",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「中温作動電気化学デバイス実現に向けた研究開発」",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "https://unit.aist.go.jp/rieet/event/20261116/",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「アニオン交換膜水電解用アノード触媒の開発」",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1. テープキャスト法による酸化物系全固体電池用緻密電解質シート製造プロセス開発",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2. 溶融法によるガーネット型固体電解質単結晶育成と固体電池開発",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "5. 次世代二次電池に関する研究開発",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業は、産業拠点、再生可能エネルギー発電所、水素ステーションなど、様々な場所で導入可能な、拡張性の高いモジュール式水電解装置の開発に注力しています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "電解装置の耐久性、効率性、拡張性を向上させるためには、研究開発への投資が不可欠です",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現在の需要は、グリーン水素実証プロジェクトの大規模な展開と、既存の石炭化学および精製施設における炭素削減のための改修の両方によって牽引されている",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "チベット、内モンゴル、その他の地域における複数の実証プロジェクトでは、オフグリッドの風力・太陽光発電、電解槽への直接供給、およびグリーンアンモニア合成を組み合わせた緊密に連携したモデルがすでに実証されている",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CIMCグリーン水素（広東）技術開発",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "各企業について、会社情報、製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主要事業概要、および最新の開発状況が個別に詳述されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "関連技術としては、電気化学的な触媒と電解質の開発があります",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、新しい材料の開発も進んでおり、耐久性や作動温度の向上が期待されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "マクニカ、Sera Networkと連携し次世代オープンネットワークソリューションを提供開始",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「SCM経営診断」と「CLOダッシュボード」の開発に着手",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAとの共同開発から世界へ！",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカル AI社会を支えるモータづくりに挑む",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1990年代前半に開発・初号機納入し、水素発生量5Nm",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ａ：2025年の実績、2026～2030年、2035年の市場規模（面積ベース、あるいは重量ベース）予測を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "」と名付けられた業界協定を公表し、「原価割れの価格設定」と「虚偽の主張」を終わらせ、市場を安定させるための以下の10の基本的措置を講じることを約束した",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4 原価割れの低価格競争を避ける",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模は2025年の30億米ドルから2035年には301億米ドルへと拡大し、2026年から2035年の予測期間において25.9%という高い年平均成長率（CAGR）を記録すると見込まれています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "専門家は、2035年までに市場規模が10倍に拡大するという予測を達成する上で、業界横断的な導入が重要な役割を果たすと予測しています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ALK電解水水素製造システムの世界市場（2026年～2032年）、市場規模（5～100 Nm³/h、101～500 Nm³/h、500 Nm³/h超）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ALK電解水水素製造システムの世界市場（2026年～2032年）、市場規模（5～100 Nm³/h、101～500 Nm³/h、500 Nm³/h超）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本資料には、ALK電解水水素製造システムの世界市場規模、市場動向、セグメント別予測（5～100 Nm³/h、101～500 Nm³/h、500 Nm³/h超）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界のALK電解水水素製造システムの市場規模は、2025年の12億7,200万米ドルから2032年には26億6,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）11.2%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年、世界のALK電解水水素製造システムの生産台数は約1,083台に達し、世界平均市場価格は1台あたり約1,200米ドルでした",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "近年、業界は100メガワット規模のプロジェクトや、単価を1ワットあたり500元以下に引き下げることに注力してきましたが、現在では、容量拡大のみによるコスト削減の余地はほぼ尽きつつあることが広く認識されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本質的に、アルカリ電解分野における現在の競争は、もはや誰が最低価格を提供できるかという点ではなく、変動性によって定義される「ニューノーマル」の中で、より少ない貴金属、より薄い隔膜、そしてより堅牢なスタックを使用し、化学業界の顧客に10年間のオフテイク契約を締結させるのに十分な、トン当たりコストの低いグリーン水素を生産できるかという点に焦点が移っている",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 水素と既存原燃料との価格差支援(CfD支援)のラウンド１を実施",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(約4,450億円)を見込む",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10年間で総額7.2億ユーロ(約1,320億円)の支援を見込む",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "15件(総額9.92億ユーロ(約1,820億円))の落札を発表",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 第3回入札について総額10億ユーロ(約1,840億円)にて2026年2月19日まで申請受付中",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 9億ユーロ(約1,650億円)の予算を確保し、H2Globalによるダブルオークションのうち、第1回固定価格買取入",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界水電解装置市場レポート：企業調査、価格推移、販売動向の徹底分析2026 | YH Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界水電解装置市場レポート：企業調査、価格推移、販売動向の徹底分析2026",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2032年までに37730百万ドルに達すると予測されており、2026年から2032年までの期間における年平均成長率（CAGR）は48.2%と予想されています",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レーザー弱化機業界動向2026：市場シェア、価格変動、投資機会を分析",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "タラ肝油の世界市場（2026年～2032年）、市場規模（小児、成人）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ローリングシャッターCMOSイメージセンサーの世界市場（2026年～2032年）、市場規模（前面発光型、背面発光型）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "な事業者が、2030年よりも早い商業運転開始を目指しており、数百～千数百億円規模の案件組成が進められている",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 水素と既存原燃料との価格差支援(CfD支援)のラウンド１を実施",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4,485億円)を見込む",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10年間で総額7.2億ユーロ(約1,200億円)の支援を見込む",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 9億ユーロ(約1,500億円)の予算を確保し、H2Globalによるダブルオークションのうち、第1回固定価格買取入",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最大3.97億ユーロ(約660億円)の支援で2027年からの",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 第2回固定価格買取入札を開始 (25年2月)し、ドイツ連邦政府・オランダ政府から25億ユーロ(約4,100億",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "図3：プロジェクト総数は前年比プラス9%",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "図4：IEAデータベースによると電解能力は前年比プラス8%",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "WPICの建設確率係数*を考慮すると前年比プラス6%",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「こどもNISA」と「ジュニアNISA」はなにが違う？今日から口座開設の受付スタート「こどもNISA」のメリット・デメリット【年110万円・贈与税基礎控除との併用は要注意】",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "35歳で資産5,000万円、サイドFIREに踏み切ったワケ：米国増配銘柄投資家・IKさんインタビュー前編",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NISA1,200万円＋退職金2,000万円の60歳男性、定年直後に熟年離婚→財産分与で大揉め…58歳妻の主張「NISAも折半」は通用する？【弁護士が解説】",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1/3〜2/3以内・上限10〜40億円",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2/3以内（EVバッテリーのリユースは3/4以内）・上限20億円",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "たとえば最大受電電力1,500kWのリチウムイオン電池の案件は1/3以内・上限10億円の区分に入り、補助対象経費が4億5,000万円なら、",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国から受けられる額は最大1億5,000万円",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約363億円",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約346億円",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件あたりの交付決定額は令和7年度が約9.8億円、令和6年度が約12.8億円",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ただし、1件ごとの額は令和7年度で約1.2億円から40億円まで幅があり、平均は大型案件に引き上げられています",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の令和7年度補正の予算は、3つの事業区分あわせて616億円の内数で、初年度分は約80億円の内数と示されています",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The Technology Pioneers community is part of the Innovator Communities at the World Economic Forum, which convene the world’s leading global start-ups across different growth stages from early-stage Technology Pioneers to growth-stage Global Innovators and unicorn companies valued at more than $1 billion.",
+    "url": "https://www.power-h2.com/news/world-economic-forum-technology-pioneer",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Documentary shines a powerful light on a painful disease that affects 265 million women, highlights efforts at MIT’s Center for Gynepathology Research to study the disease and find treatments.",
+    "url": "https://news.mit.edu/2026/toward-cheaper-cleaner-hydrogen-production-0403",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "has officially terminated its 20-megawatt alkaline water electrolysis project at its Donaldsonville, Louisiana, Complex, concluding a two-year effort to produce green hydrogen for low-carbon ammonia production. The company recorded a $51 million asset impairment in December 2025 after determining the project's economics could not deliver acceptable returns.",
+    "url": "https://decarbonfuse.com/posts/cf-industries-cancels-electrolyzer-project-pivots-to-carbon-capture-strategy",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": ", formed in April 2025, for the construction and production of low-carbon ammonia using CCS technology. CF Industries holds 40% ownership, JERA holds 35%, and Mitsui holds 25% in the venture. The joint venture has already invested $307 million in capital expenditures through 2025.",
+    "url": "https://decarbonfuse.com/posts/cf-industries-cancels-electrolyzer-project-pivots-to-carbon-capture-strategy",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "🏗️ Emvolon Raises $22 Million Funding Round to Launch Its Modular, Waste-to-fuel Chemical Plants",
+    "url": "https://decarbonfuse.com/posts/cf-industries-cancels-electrolyzer-project-pivots-to-carbon-capture-strategy",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AEM水電解装置世界総市場規模",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AEM水電解装置―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "」によると、2026年から2032年の予測期間中のCAGRが84.3%で、2032年までにグローバルAEM水電解装置市場規模は9692百万米ドルに達すると予測されている",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AEMは非貴金属活用によるコスト構造の改善余地と、変動再エネへの追従性という運用価値が語りやすい一方、耐久・安定の証明が価格と採用を決める",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年、世界のトップ3企業は売上の観点から約72.0%の市場シェアを持っていた",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "C68106700 2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年までに電解装置の生産規模を拡大し、100万人の雇用を創出し、最大2,000億ユーロ（2,160億ドル）の輸出額を生み出すというビジョンを掲げる",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人材育成理念",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デジタル人材充実の長崎に事務所新設",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "万の新しい雇用を生み出し、健康コストを数十",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "給与激減も責任は同じ「再雇用」嫌がる人は多いが…60歳定年後「年収360万円で5年間働いた人」と「リタイアした人」に生じる衝撃の老後格差【シミュレーション】",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グリーン水素製造向け 水電解装置 の技術と市場の動向【 2026 】 — グリーン水素製造向け 水電解装置 の技術と市場の動向【 2026 】 セミナーゲート https://seminar.atengineer.com > Home > 脱炭素",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州の 水電解装置 6社が新たな連合E4Eを組成。中国企業を ... — 欧州の 水電解装置 6社が新たな連合E4Eを組成。中国企業を ... BAUM Consult Japan - https://baumconsult.co.jp > 水素",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーン水素用水 電解装置 市場、2035年までに30億ドルから ... — グリーン水素用水 電解装置 市場、2035年までに30億ドルから ... Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経産省、 水電解装置 開発に349億円 SOECコスト抑制 — 経産省、 水電解装置 開発に349億円 SOECコスト抑制 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/761647",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "AEM水電解装置の世界市場調査：需給動向と企業ランキング2026-2032｜QYResearch",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AEM水電解装置の世界市場調査：需給動向と企業ランキング2026-2032",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AEM水電解装置とは、アニオン交換膜（AEM）を電解質として用い、水から水素を製造する電解システムである。アルカリ水電解（AE）の量産性と、PEM水電解の高電流密度・応答性の利点を、非貴金属触媒や比較的穏やかな運転条件で接続しようとする設計思想が中核にある。膜が水酸化物イオンを輸送することで、電極材料の自由度が高まり、貴金属依存の低減余地が生まれる一方、膜の耐久性、ガス透過、炭酸塩化、触媒活性、スタックの封止・圧損管理など、商用化で支配的となる課題が複合的に現れる。したがってAEM水電解装置は、単体機器ではなく、膜・触媒・MEA・スタック・BOP（周辺機器）を一体最適化し、再エネ変動電源と同期して運用することを前提とした次世代の水素製造インフラ要素である。",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上記の図表／データは、QYResearchの最新レポート「2026～2032年のグローバルAEM水電解装置市場調査レポート」から引用されている。",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "QYResearch調査チームの最新レポートである「",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AEM水電解装置―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "」によると、2026年から2032年の予測期間中のCAGRが84.3%で、2032年までにグローバルAEM水電解装置市場規模は9692百万米ドルに達すると予測されている。この伸びの質は、単なる需要増ではなく、電解装置の調達ロジックが「実証の採否」から「供給能力とLCOH（氷山の下の運転費・保守費まで含む）の比較」へ切り替わる過程にある点にある。AEMは非貴金属活用によるコスト構造の改善余地と、変動再エネへの追従性という運用価値が語りやすい一方、耐久・安定の証明が価格と採用を決める。結果として、市場拡大は技術優位だけでなく、検証データの蓄積速度と量産品質の再現性に引き寄せられる。",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界のAEM水電解装置市場におけるトップ10企業のランキングと市場シェア（2025年の調査データに基づく；最新のデータは、当社の最新調査データに基づいている）",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newscast.jp/news/6864047",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E8%A7%A3%E6%A7%BD%E5%B8%82%E5%A0%B4-103919",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://igaspedia.com/2023/07/13/tokyo-gas-senju-h2-station-aem-electrolyzer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241053.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B0%B4%E7%B4%A0%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-103508",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/800021684.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sii.or.jp/chikudenchi07r/public.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.tanso-man.com/subsidy-blog/grid-bess-subsidy-sii/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baie-amalfi.com/%E7%B3%BB%E7%B5%B1%E7%94%A8%E8%93%84%E9%9B%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%AD%89%E5%B0%8E%E5%85%A5%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD2026%EF%BD%9C%E6%9C%80%E5%A4%A740%E5%84%84%E5%86%86/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/782810",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/705327",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/761647",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.power-h2.com/news/world-economic-forum-technology-pioneer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuelcellsworks.com/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://news.mit.edu/2026/toward-cheaper-cleaner-hydrogen-production-0403",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://decarbonfuse.com/posts/cf-industries-cancels-electrolyzer-project-pivots-to-carbon-capture-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi-kasei.com/news/2026/e260319",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://green-innovation.nedo.go.jp/en/article/greenhydrogen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/849994733672039/posts/1499264485411724/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cen.acs.org/energy/hydrogen-power/Japan-strives-make-green-hydrogen/103/i3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/dragonb63254274/status/2115273313970950545",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "水電解装置 ニュース 2026年11月",
+   "results": [
+    "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "https://www.youtube.com/watch?v=gomL9DGg9Tk",
+    "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "https://newscast.jp/news/4799318",
+    "https://www.nedo.go.jp/koubo/SE2_100001_00126.html",
+    "https://metoree.com/categories/9195/",
+    "https://www.chiyodacorp.com/jp/purposestory/co-creation/water_electrolysis_system/",
+    "https://prtimes.jp/topics/keywords/水電解"
+   ]
+  },
+  {
+   "query": "水電解装置 発表 2026年11月",
+   "results": [
+    "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "https://newscast.jp/news/6864047",
+    "https://www.atpress.ne.jp/news/2507988",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf",
+    "https://green-innovation.nedo.go.jp/article/greenhydrogen/",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B0%B4%E7%B4%A0%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-103508",
+    "https://baike.baidu.com/ja/item/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%B0%B4%E9%9B%BB%E8%A7%A3%E6%B0%B4%E7%B4%A0%E8%A3%BD%E9%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E6%8A%80%E8%A1%93%E8%A6%81%E6%B1%82/6894453",
+    "https://www.chiyodacorp.com/jp/media/2026/post_20241053.html"
+   ]
+  },
+  {
+   "query": "水電解装置 受注 2026年11月",
+   "results": [
+    "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "https://www.kobelco-eco.co.jp/product/hhog/",
+    "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "https://www.atpress.ne.jp/news/2710991",
+    "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E8%A7%A3%E6%A7%BD%E5%B8%82%E5%A0%B4-103919",
+    "https://newscast.jp/news/4799318",
+    "https://note.com/yhresearch_news/n/n1a4a02c402ee"
+   ]
+  },
+  {
+   "query": "水電解装置 提携 2026年11月",
+   "results": [
+    "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "https://igaspedia.com/2023/07/13/tokyo-gas-senju-h2-station-aem-electrolyzer/",
+    "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "https://www.youtube.com/watch?v=gomL9DGg9Tk",
+    "https://www.kobelco-eco.co.jp/product/hhog/",
+    "https://newscast.jp/news/6864047",
+    "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E8%A7%A3%E6%A7%BD%E5%B8%82%E5%A0%B4-103919",
+    "https://www.chiyodacorp.com/jp/media/2026/post_20241053.html"
+   ]
+  },
+  {
+   "query": "水電解装置 設備投資 2026年11月",
+   "results": [
+    "https://newscast.jp/news/6864047",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B0%B4%E7%B4%A0%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-103508",
+    "https://www.nedo.go.jp/content/800021684.pdf",
+    "https://www.atpress.ne.jp/news/2710991",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "https://media.rakuten-sec.net/articles/-/51220",
+    "https://www.jetro.go.jp/biznews/2022/05/f4c62b69022459ae.html",
+    "https://www.bddelectrode.com/ja/blog/2026-outlook-for-water-electrolysis-hydrogen-projects/",
+    "https://journal.jogmec.go.jp/content/300515399.pdf",
+    "https://johokiko.co.jp/seminar_chemical/AD2611M2.php"
+   ]
+  },
+  {
+   "query": "水電解装置 補助金 採択 2026年11月",
+   "results": [
+    "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "https://sii.or.jp/chikudenchi07r/public.html",
+    "https://corp.tanso-man.com/subsidy-blog/grid-bess-subsidy-sii/",
+    "https://baie-amalfi.com/%E7%B3%BB%E7%B5%B1%E7%94%A8%E8%93%84%E9%9B%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%AD%89%E5%B0%8E%E5%85%A5%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD2026%EF%BD%9C%E6%9C%80%E5%A4%A740%E5%84%84%E5%86%86/",
+    "https://www.k-chikudenchi.com/grid-battery-meti-subsidy/",
+    "https://hojyokin-portal.jp/columns/shoene_sii_summary",
+    "https://www.eqptmainte-base.com/knowledge/subsidies-for-2026.html",
+    "https://contents.shirokumapower.com/blog/pps-80",
+    "https://uchida.or.jp/8990/"
+   ]
+  },
+  {
+   "query": "水電解装置 日刊工業新聞 2026年11月",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/782810",
+    "https://www.nikkan.co.jp/articles/view/705327",
+    "https://www.nikkan.co.jp/",
+    "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "https://www.nikkan.co.jp/articles/view/761647",
+    "https://newscast.jp/news/4799318",
+    "https://www.youtube.com/watch?v=e0MfmOs0ST8",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000064.pdf",
+    "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "https://www.nikkan.co.jp/articles/search?q=水電解装置"
+   ]
+  },
+  {
+   "query": "water electrolyzer news 2026年11月",
+   "results": [
+    "https://www.power-h2.com/news/world-economic-forum-technology-pioneer",
+    "https://fuelcellsworks.com/",
+    "https://news.mit.edu/2026/toward-cheaper-cleaner-hydrogen-production-0403",
+    "https://decarbonfuse.com/posts/cf-industries-cancels-electrolyzer-project-pivots-to-carbon-capture-strategy",
+    "https://www.energy.gov/cmei/fuels/technical-targets-proton-exchange-membrane-electrolysis",
+    "https://www.azocleantech.com/news.aspx?newsID=36442",
+    "https://www.futuremarketinsights.com/reports/hydrogen-electrolyzer-market",
+    "https://www.nature.com/articles/s44286-026-00451-7",
+    "https://hydroxpand.com/en/blog/2026-09-03-who-makes-electrolysers/",
+    "https://onlinelibrary.wiley.com/doi/full/10.1155/er/7663279"
+   ]
+  },
+  {
+   "query": "water electrolyzer Japan 2026年11月",
+   "results": [
+    "https://www.asahi-kasei.com/news/2026/e260319",
+    "https://green-innovation.nedo.go.jp/en/article/greenhydrogen/",
+    "https://www.facebook.com/groups/849994733672039/posts/1499264485411724/",
+    "https://cen.acs.org/energy/hydrogen-power/Japan-strives-make-green-hydrogen/103/i3",
+    "https://oceannews.com/news/energy/asahi-kasei-starts-construction-of-alkaline-water-electrolysis-pilot-test/",
+    "https://www.powermag.com/multi-module-hydrogen-pilot-plant-opens-in-japan/",
+    "https://www.siemens-energy.com/global/en/home/press-releases/siemens-energy-s-electrolyzer-awarded-to-decarbonize-semiconduct.html",
+    "https://www.h2-international.com/h2-production/h2-production-asahi-kasei-expands-capacity-alkaline-water-electrolysis-japan-more-3",
+    "https://asahi-kasei.eu/electrolyzer-for-finnish-hydrogen-project/",
+    "https://www.futuremarketinsights.com/reports/japan-water-electrolysis-machine-market"
+   ]
+  },
+  {
+   "query": "site:note.com 水電解装置 2026",
+   "results": [
+    "https://note.com/qy_research/n/n8c5c67273525",
+    "https://note.com/qy_research/n/nee4939b069c4",
+    "https://note.com/qy_research/n/n6c2a9d899468",
+    "https://note.com/qy_research/n/n2efb7fec9ae8",
+    "https://note.com/bertisnanu/n/n5cf0f7b36b0d",
+    "https://note.com/qy_research/n/n8a31c204ba80",
+    "https://note.com/eartis_lab/n/nf127a72d1875",
+    "https://note.com/qy_research/n/n352185205912",
+    "https://note.com/tatsuya_sabato/n/nfd1d3ca5a715",
+    "https://note.com/yhresearch_news/n/n1a4a02c402ee"
+   ]
+  },
+  {
+   "query": "site:x.com 水電解装置",
+   "results": [
+    "https://x.com/dragonb63254274/status/2115273313970950545",
+    "https://x.com/TOYOTA_PR/status/1633686818255425537",
+    "https://x.com/nikkeibusiness/status/1932203706369691965",
+    "https://x.com/corporateWeb_fa/status/1859899624498069697",
+    "https://x.com/asahikasei_dx/status/1798220103437504542",
+    "https://x.com/ispace_JP/status/1930615112815313020",
+    "https://x.com/munro1920scout/status/1893466410615218481",
+    "https://x.com/meti_NIPPON/status/1978049359788040435",
+    "https://x.com/KyushuUniv_JP/status/2053716736105472021",
+    "https://x.com/chemicaldailyad/status/2071393813055275008"
+   ]
+  },
+  {
+   "query": "site:linkedin.com water electrolyzer",
+   "results": [
+    "https://www.linkedin.com/pulse/debunking-alkaline-water-electrolysis-myths-thijs-de-groot-gwlae",
+    "https://www.linkedin.com/posts/thijs-de-groot-a6968616_debunking-alkaline-water-electrolysis-myths-activity-7366831961866141696-xWzW",
+    "https://www.linkedin.com/posts/thijs-de-groot-a6968616_debunking-alkaline-water-electrolysis-myths-activity-7354040343320739841-Kvsn",
+    "https://www.linkedin.com/pulse/water-electrolysis-different-methods-",
+    "https://www.linkedin.com/pulse/how-improve-efficiency-alkaline-water-electrolysis-zhongpeng-guo-turxe",
+    "https://www.linkedin.com/posts/jasonamiri_how-to-calculate-a-water-electrolyzer-efficiency-activity-7287778544674357249-eFzV",
+    "https://www.linkedin.com/posts/thijs-de-groot-a6968616_gas-crossover-is-a-critical-aspect-for-alkaline-activity-7201507531964211201-tHbc",
+    "https://www.linkedin.com/posts/thijs-de-groot-a6968616_debunking-alkaline-water-electrolysis-myths-activity-7396192926038556672-338Z",
+    "https://www.linkedin.com/posts/thijs-de-groot-a6968616_debunking-alkaline-water-electrolysis-myths-activity-7351583573901996033-U4bW",
+    "https://www.linkedin.com/pulse/pem-proton-exchange-membrane-water-electrolysis-technology-guo-3ifhe"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AEM 水電解装置 の世界市場調査：需給動向と企業ランキング ... AEM 水電解装置 の世界市場調査：需給動向と企業ランキング ... note https://note.com > 科学・テクノロジー > エネルギー",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "政治（法・予算・規制）": [
+   {
+    "quote": "「水電解評価事業（GI基金）の成果及び常温水電解評価解析プラットフォームの取り組み」",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、米国では地球温暖化対策に懐疑的な動きが顕著になり予算が削減される中、日本では2026年7月に策定された「日本成長戦略」で、戦略17分野の一つである「資源・エネルギー安全保障・ＧＸ」に水素等が位置づけられ、官民連携した大規模な成長投資が期待されています",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・環境政策やエネルギー政策に関わる政府・自治体関係者",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内外の化学物質規制・最新動向 (72)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "PFAS規制動向と企業対応の実務 (10)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "RoHS / ELV 等製品規制の動向 (11)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国・ASEANなどアジア諸国の化学品規制 (10)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今後の規制動向予測と戦略的対応策 (2)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "化学物質規制の基礎とリスク管理 (2)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "各国規制の比較と遵守ポイント (3)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内化学物質規制（化審法・有機則・特化則）概要とポイント (10)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（図）水素に係る国家戦略・方針・法律の策定状況",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（表）水素社会推進法の計画認定状況",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本ではGI基金事業でPFASフリー電解質膜を用いた10MWモデルの開発を推進",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年2月にNEDOのGI基金事業に採択",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SBT認定取得支援",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政策立案者も今こそ同じことをしなければなりません」との記述もあり、欧州の生産容量は10GWを超えるものの、EUにおける2024年までの目標である6GWに対して、現実はわずか１GW未満であることから、中国の国を挙げての展開に危惧し、政府の対応を促している状況だ",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同マニフェストでは、戦略的要請として、①市場創出と需要刺激の加速、②水素の規制定義の整備、③資金調達メカニズムの簡素化と強化を挙げており、欧州がクリーンエネルギー技術のリーダーシップを維持するためには、政策立案者が電解槽の市場需要を加速し、規制を簡素化し、長期的な投資の確実性を提供する必要があり、欧州の競争力、主権、回復力を強化することができると結論づけている",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "7 市場秩序を規制するための業界標準を確立する",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "8 政策支援を合理的に捉え、生き残りのための補助金への依存を避ける",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10 海外市場への進出を規制し、中国ブランドのイメージを維持する",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "前述したとおり、欧州では大手6社が結束し、迫りくる中国企業への対策を早く打つよう政府に促しており、このままだと競争に負けるかもしれないという焦りが見て取れるが、後述の中国は欧州市場に乗り込む自信を感じる",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "EUはEU気候法改正案を発表 ～ 2040年までに1990年比90％のGHG排出量削減を目指す ～",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1991年にノルトライン・ヴェストファーレン（NRW）州政府により、エコロジー建築の先駆者として建築業界を支援する目的で設立され、2000年初めに完全民営化",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この急成長は、再生可能エネルギーの導入拡大、政府による脱炭素化政策、そして持続可能な燃料技術への世界的な企業投資の増加によって牽引されています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の政策が市場導入を加速",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置の導入に対するインセンティブ、補助金、規制面での支援は、産業界、電力・エネルギー事業者、輸送事業者にグリーン水素の導入加速を促し、市場の成長をさらに後押ししています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本、韓国、中国を中心とするアジア太平洋地域は、産業界からの需要や政府主導の水素プロジェクトを背景に、最も急速な成長を遂げると見込まれています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「健康経営優良法人2026（大規模法人部門）」認定のお知らせ",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「健康経営優良法人2025（大規模法人部門）」認定のお知らせ",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「健康経営優良法人2024（大規模法人部門）」初認定のお知らせ",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ベトナム国への政府開発援助（ODA）の無償資金協力案件",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "カンボジアへの政府開発援助（ODA）の円借款資金協力案件",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "～環境省「二酸化炭素排出抑制対策事業費等補助金 脱炭素社会を支えるプラスチック等資源循環システム構築実証事業」に採択～",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "“子育てサポート企業”として「プラチナくるみん」認定を取得",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 特に市場が黎明期の水素等の新技術は価格転嫁の壁が高く、また、規制等の",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "相次ぐオイルメジャーの戦略転換 規制枠組み構築の遅れ",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（略）しかし、強力な規制インセン",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "減を目的として提案された国際規制について、2025年10月に開",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 欧州では、経済の強靱性やエネルギー安全保障の観点から、水素に対する長期間の政府支",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "援や規制を実施",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 9億ユーロ(約1,650億円)の予算を確保し、H2Globalによるダブルオークションのうち、第1回固定価格買取入",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 第2回固定価格買取入札を開始 (25年2月)し、ドイツ連邦政府・オランダ政府から29億ユーロ(約5,330億",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（出所）Hydrogen Europe、欧州委員会、各国政府HPより",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（事例）EUの域内海運規制 ～FuelEU Maritime～",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置市場の成長を支える最大要因は、各国政府による水素戦略の強化である",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州連合（EU）を中心にグリーン水素導入目標が設定され、補助金制度や炭素価格制度を通じて導入インセンティブが拡大している",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ネット・ゼロをリードすることで、政府が掲げる「2050年カーボンニュートラル、脱炭素社会の実現」に貢献するとしている",
+    "url": "https://igaspedia.com/2023/07/13/tokyo-gas-senju-h2-station-aem-electrolyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、米国では地球温暖化対策に懐疑的な動きが顕著になり予算が削減される中、日本では2026年7月に策定された「日本成長戦略」で、戦略17分野の一つである「資源・エネルギー安全保障・ＧＸ」に水素等が位置づけられ、官民連携した大規模な成長投資が期待されています",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "環境政策やエネルギー政策に関わる政府・自治体関係者",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "医療機器・ヘルスケア業界参入で「後戻り」を防ぐ事業化・規制対応戦略《無料セミナー》",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "はじめての化学物質法規制・基礎講座（セミナー）",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "助成金・補助金の活用について",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 2025年2月に第7次エネルギー基本計画が閣議決定",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "に向けた支援を行い、国内外を含めた更なる低炭素水素等の大規模な供給と利用に向けて、規制・支援一体的な政策",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 具体的には、水素社会推進法に基づく、既存原燃料との価格差に着目した支援制度や拠点整備支援制度の計画認定、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金事業等で世界に先行した技術開発により競争力を磨くとともに、世界の市場拡大を見据えて先行的な企業の設",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 一方、欧州を中心に長期間の政府支援は着々と継続",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 9億ユーロ(約1,500億円)の予算を確保し、H2Globalによるダブルオークションのうち、第1回固定価格買取入",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 第2回固定価格買取入札を開始 (25年2月)し、ドイツ連邦政府・オランダ政府から25億ユーロ(約4,100億",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "脱炭素時代の水素製造を基礎から学ぶオンライン技術セミナーを開催",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・脱炭素に向けた国内外の水素の取り組み概要",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "２）水電解装置に要求される課題と対応",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ISO9001：2026/ISO14001：2026内部監査員育成講座～改正後の要求事項を盛り込んだ、最…",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "顧客要求・法規制への対応フロー (1)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素 (99)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ハラール認証取得支援サービス",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官公庁受託実績",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素需要は従来、石油精製や化学分野に依存してきたが、脱炭素化の進展により鉄鋼、モビリティ、発電分野などへの拡張が期待されている",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・脱炭素化を目的にグリーン水素の利活用を検討している事業者、自治体関係者",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解技術は脱炭素化を目指した野心的なシナリオから",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "システム導入～運用を支えるワンストップソリューションのサプライヤーとして",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "福島県田村市のグリーン水素プロジェクトで半導体産業の脱炭素化に貢献",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "排熱のあるプラントとSOECを組み合わせた大規模脱炭素化実証をスタートさせる",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年版 カーボンニュートラル燃料（脱炭素燃料）マーケット ～足元で拡大するモビリティ用途のバイオ燃料の現状と中長期展望～",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "C68105500 2026年版 カーボンニュートラル燃料（脱炭素燃料）マーケット ～足元で拡大するモビリティ用途のバイオ燃料の現状と中長期展望～",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素化推進コンサルティング",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ダイバータの役割と主要な国内サプライヤー",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アイルランドが目指す「環境を守る農業」 ～カーボンファーミングを制度化し、脱炭素効果と経済合理性を担保～",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この急成長は、再生可能エネルギーの導入拡大、政府による脱炭素化政策、そして持続可能な燃料技術への世界的な企業投資の増加によって牽引されています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "私たちは、様々な業種にわたる非常に要求の厳しいクライアントのために、比類のない、詳細かつ驚くほど正確な見積りと予測を提供することに誇りを持っています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの地域の海外バイヤーは価格だけでなく、電気効率、カーボンフットプリント、第三者認証も評価しており、サプライチェーン全体に真の技術的価値の提供を迫っている",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これには、原材料とそのサプライヤー、製造コストの構成要素、製造プロセスの分析、および産業チェーン構造に関する情報が含まれています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素社会・脱炭素社会の実現に貢献いたします",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ごみ焼却施設の脱炭素化に向けて",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「湿式炭化による下水汚泥利活用技術」が日本下水道事業団の新技術Ⅰ類に選定 ～エネルギー自立型燃料化プロセスで処理場の脱炭素化に貢献～",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素・CCUS技術を普及促進するためのオープンイノベーション",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当社ISO認証の復帰について",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当社ISO認証の一時停止の解除について",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当社ならびに当社子会社のISO認証の一時停止ならびに取消しについて",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "～環境省「二酸化炭素排出抑制対策事業費等補助金 脱炭素社会を支えるプラスチック等資源循環システム構築実証事業」に採択～",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素化にコストのかかるプロセ",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "要求されるGHG強度",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 国際持続可能性カーボン認証（ISCC EU）の審査を通過し、「非生物起源の再生可能",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "燃料（RFNBO）」認証証書を取得※2",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "おいて、産業革新と脱炭素化の重要な手段であ",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 2025年の政権交代・省庁再編を経て、脱炭素・グリーン転換の方針を強化",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 電力分野では、長期脱炭素電源オークションの第３回入札（2026年1月実施）において、既存燃料との燃",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "核となる自治体や荷主・運送企業、車両OEM、ステーション事業者と連携しつつ、制度整備を進展",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（参考）長期脱炭素電源オークション（LTDA）の概要",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素電源への新規投資を対象とした入札を実施し",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの装置は、製造業、輸送、電力貯蔵、化学品製造など幅広い産業領域における脱炭素化を支援する装置として、今後の社会インフラに不可欠な技術基盤となることが見込まれている",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "■政策支援と脱炭素化が牽引する水電解装置の成長展望",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに、鉄鋼・化学・海運といった脱炭素困難領域において水素利用が進展することで、水電解装置の産業横断的な需要拡大が見込まれる",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ネット・ゼロへの挑戦」に向け、脱炭素化に向けた技術開発の早期実現を図り、CO",
+    "url": "https://igaspedia.com/2023/07/13/tokyo-gas-senju-h2-station-aem-electrolyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ネット・ゼロをリードすることで、政府が掲げる「2050年カーボンニュートラル、脱炭素社会の実現」に貢献するとしている",
+    "url": "https://igaspedia.com/2023/07/13/tokyo-gas-senju-h2-station-aem-electrolyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "玉造が日本酸素製造の第三者認証付きCO₂フリー液化酸素を採用",
+    "url": "https://igaspedia.com/2023/07/13/tokyo-gas-senju-h2-station-aem-electrolyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素技術開発",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241053.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素ソリューション",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241053.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素ソリューショントップ",
+    "url": "https://www.chiyodacorp.com/jp/media/2026/post_20241053.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素に向けた国内外の水素の取り組み概要",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "２）水電解装置に要求される課題と対応",
+    "url": "https://engineer-education.com/seminar/green-hydrogen-production_water-electrolysis-equipment_development_utilization/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "テーションの普及拡大に向けた支援、長期脱炭素電源オークションにおける更なる制度対応の検討等に取組中",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "炭素集約度・認証 作業部会",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 海外規制・認証に関する",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4. 現実的なトランジションの重要性と世界の脱炭素化への貢献",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セットのサプライチェーンが、脱炭素エネルギーの利用やDXに",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 今後は、脱炭素電力等のクリーンエネルギーを利用した製品・",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「新たな産業用地の整備」と「脱炭素電源の整備」を進め、地",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " AZEC等の取組を通じ、世界各国の脱炭素化に貢献",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "dragonbird on X: \" 水電解装置 とは？目的・研究・製造の動向 dragonbird on X: \" 水電解装置 とは？目的・研究・製造の動向 X https://x.com > @dragonb63254274",
+    "url": "https://x.com/dragonb63254274/status/2115273313970950545",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "当出版物によって、出版者はそれが明示されているか示唆されているかにかかわらず、有価証券あるいは商品取引の注文を発注、手配、助言、仲介、奨励する意図はない",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "半導体商社の日本株5選：事業構造に強み、今期増益予想",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The electrolyzer commissioning was first suspended in the fourth quarter of 2024. Following a comprehensive review of the incremental investment and ongoing operating costs required to complete and operate the facility, management decided in December 2025 to permanently halt the project and redirect capital toward carbon capture and sequestration (CCS) technologies instead.",
+    "url": "https://decarbonfuse.com/posts/cf-industries-cancels-electrolyzer-project-pivots-to-carbon-capture-strategy",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "「中国の水素・水電解・燃料電池産業の最新動向」",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【半導体】東京応化工業、韓国子会社の平澤工場竣工",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "東京大学工学部卒、米国ＵＣＬＡ理工学大学院修士課程修了",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、米国では地球温暖化対策に懐疑的な動きが顕著になり予算が削減される中、日本では2026年7月に策定された「日本成長戦略」で、戦略17分野の一つである「資源・エネルギー安全保障・ＧＸ」に水素等が位置づけられ、官民連携した大規模な成長投資が期待されています",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "２）代表的メーカーの製品例と取組状況（日本、欧州、北米、中国）",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "REACH規則（欧州）への対応ポイント (9)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国・ASEANなどアジア諸国の化学品規制 (10)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国TSCA・Proposition 65 の規制ポイント (4)",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "マーケットシェア事典オンライン",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置の方式別導入量推移、エリア別・用途別シェア",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、エリア別と用途別では2025年実績、および2030年予測のシェア（容量ベース）を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ａ：北米、欧州、中国、中東、インド、その他の区分で水電槽装置の導入量シェアを確認いただけます",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、日本、EU、ドイツ、米国、中国、韓国の水素関連政策を整理しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ｑ：競合メーカーの情報はどの程度詳しく掲載されていますか？",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ａ：日本、米国、欧州を中心にとした主要メーカーの生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「第2章 主要国の水素関連政策」では、日本、EU、ドイツ、米国、中国、韓国の水素政策の流れ、具体的な数位目標等の必要な情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「第4章 水電解装置・部材メーカーの動向」では、水電解装置および部材メーカーの事業概要、製品ポートフォリオや研究開発動向等の詳細を確認でき、競合比較や自社の戦略立案に役立ちます",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2-4.米国の水素関連政策",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州の水電解装置6社が新たな連合E4Eを組成",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国企業を警戒か",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本稿では、EUと中国における水電解槽のリーダーシップを巡る動向を紹介し、今後の市場の主導がどのように移行していくのかを推察したい",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年2月1日、欧州の大手電解装置メーカー6社は、欧州でのグリーン水素生産の拡大にむけた新たな連合「Electrolysers for Europe (E4E)",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、今後5年間で、欧州が電解装置におけるリーダーシップを築くか、あるいは失うかが決まるだろうと、非常に断定的且つ欧州の政治に対し、危機を煽る表現を示している",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この6社は欧州の電解大手であり、欧州における水電解装置のポジションを守るために共同戦線を張った形となる",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政策立案者も今こそ同じことをしなければなりません」との記述もあり、欧州の生産容量は10GWを超えるものの、EUにおける2024年までの目標である6GWに対して、現実はわずか１GW未満であることから、中国の国を挙げての展開に危惧し、政府の対応を促している状況だ",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "E4Eは、欧州委員会に対し、EUの資金メカニズムにおける明確な「Made in Europe」基準の適用、需要側インセンティブの拡大、そして水素インフラプロジェクトの迅速化を強く求めている",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "電解装置は単なるエネルギー技術ではなく、戦略的な産業資産であると強調し、早急な政治的連携がなければ、欧州はより積極的で支援の厚い世界の競合相手に、初期の優位性を失うリスクがあると主張している",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この危機感を醸成している競争相手はマニフェストでは名言していないが、明らかに中国である",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アナリストは、再生可能エネルギーのコスト低下に伴い、大規模な水素生産の経済性が向上しており、それが欧州、アジア太平洋、北米での投資を促進していると指摘しています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "地域別の動向：欧州、アジア太平洋、北米",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州は、EUの強力な水素政策と再生可能エネルギーの導入拡大に牽引され、引き続き最大の地域市場となっています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本、韓国、中国を中心とするアジア太平洋地域は、産業界からの需要や政府主導の水素プロジェクトを背景に、最も急速な成長を遂げると見込まれています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "北米では水素インフラの整備が急速に進んでおり、米国およびカナダ全域における再生可能エネルギー発電を補完する役割を果たしています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ニュースのシェア",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、国内の主要メーカーは現在、欧州や中東へシステムを大量に出荷している",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本インサイトレポートは、世界のALK電解水水素製造システムの全体像を包括的に分析し、製品セグメンテーション、企業設立、収益、市場シェア、最新動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、ALK電解水水素製造システム市場の包括的な概要、市場シェア、成長機会を提示します",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、水素生産能力（5-100 Nm³/h、101-500 Nm³/h、500 Nm³/h超）、運転圧力（大気圧アルカリ電解槽、加圧アルカリ電解槽）、システム構成（シングルスタック、マルチスタック）、および用途（化学・冶金、エネルギー・輸送、その他）ごとのセグメント分析が詳細に示されており、それぞれのセグメントにおける世界販売量、収益、市場シェア、および販売価格（2021-2026年）が網羅されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業ごとの年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格が比較されます",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2021年から2026年までの国別（米国、カナダ、メキシコ、ブラジルなど）の販売量と収益、および水素生産能力別、用途別の販売動向が詳述されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売量と収益、および水素生産能力別、用途別の販売動向が詳しく分析されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国は、海運",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国消費者への価格転嫁も、あるいは「グリーン・ニュー・",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 欧州では、経済の強靱性やエネルギー安全保障の観点から、水素に対する長期間の政府支",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 欧州水素銀行による第１回入札を実施",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 第２回入札では、新たに水電解槽の総容量に対して中国からの調達を制限する要件を追加",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（出所）Hydrogen Europe、欧州委員会、各国政府HPより",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ EU/EEA(欧州経済領域)海域を航行する船舶が使用する燃料のGHG強度に上限を設定し、",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "成施策の観点や、ロシアや米国といった天然ガス供給国への地政学リスクが高まる中、エネルギー安全保障の",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫最初の出荷はインドのアンドラ・プラデシュ州",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ トランプ大統領就任後、米国内のエネルギーを解放し、世界中にシェールガスを輸出する",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバル水電解装置のトップ会社の市場シェアおよびランキング 2026」によると、世界の水電解装置市場は2025年に2441百万米ドル規模に達すると予測され、2026年には3568百万米ドルに拡大する見込みです",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上記の図表／データは、YHResearchの最新レポート「グローバル水電解装置のトップ会社の市場シェアおよびランキング 2026」から引用されています",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "直近6カ月の業界動向では、欧州および中東地域において数百MW級のグリーン水素プロジェクトが複数進行しており、PEM型水電解装置の採用比率が上昇している",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "またアジア市場でも中国・日本・韓国を中心に水素産業政策が強化され、産業用途（製鉄・アンモニア・石油精製）向けの大規模導入が加速している",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置市場は、技術集約型かつ資本集約型産業であり、欧州・北米・中国の大手企業による寡占構造が形成されている",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州連合（EU）を中心にグリーン水素導入目標が設定され、補助金制度や炭素価格制度を通じて導入インセンティブが拡大している",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本記事は、YH Researchが発行したレポート「グローバル水電解装置のトップ会社の市場シェアおよびランキング 2026」 を紹介しています",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界5カ国にオフィスを構え、100カ国以上の企業に正確で有益なデータを提供し、業界動向や競合分析、消費者行動分析などを通じて、企業が市場の変化に迅速に対応できるようサポートしています",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レーザー弱化機業界動向2026：市場シェア、価格変動、投資機会を分析",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "企業登録申請",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業・事業主のお客様",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業・事業主ユーザーとして登録すると、プレスリリースの配信・掲載をおこなうことができます",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業・事業主ユーザーで",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業様からのお問い合わせ",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【半導体】東京応化工業、韓国子会社の平澤工場竣工",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "登録企業一覧",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内外メーカーの取り組みと技術開発状況",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解の方式やメーカーの選定を検討されている方",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・国内外メーカーの取り組み状況",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらのポイントについて、ＦＨ２Ｒをはじめ大規模水電解プロジェクトや国内外メーカーとの技術開発を長年リードしてきた講師により、技術開発の現場で得られた知見を交え、実務に役立つ視点で水電解技術と市場の全体像を分かりやすく解説します",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解技術の基礎から世界の最新動向、主要メーカーの開発状況、技術課題、市場の将来展望までを体系的に学べる実践的なセミナーで、実務に直結する知識をご提供します",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・水素・エネルギー関連事業の新規事業、技術開発、設備導入を担当する経営者・技術者・ビジネスパーソン",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・水電解の方式やメーカーの選定を検討されている方",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・主要メーカーの取組みや市場動向、技術開発の現状が把握でき、業界全体のトレンドを理解できる",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・水電解装置の性能や効率、コストなどの実力値を理解し、自社の技術開発や導入計画に役立てられる",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "業界別企業業績データ",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TSR企業情報・TSR REPORT",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、再生可能エネルギーの導入拡大に伴う電力の余剰問題を解決するため、P2G（Power-to-Gas）用途での水素需要が顕在化している",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本調査レポートでは、水電解技術に係る研究成果や研究開発のトレンド、装置・部材メーカーの事業戦略を徹底調査するとともに、2035年までの水電解装置・部材市場の成長性を予測する",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置の方式別導入量推移、エリア別・用途別シェア",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置・部材メーカーの動向（生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等）",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ｑ：水電解装置について、本資料ではどの期間の導入量の予測が掲載されていますか？",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ａ：方式別では2025年実績、2026～2030年予測、2035年予測の導入量（容量ベース）を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ａ：北米、欧州、中国、中東、インド、その他の区分で水電槽装置の導入量シェアを確認いただけます",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国企業を警戒か",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年2月1日、欧州の大手電解装置メーカー6社は、欧州でのグリーン水素生産の拡大にむけた新たな連合「Electrolysers for Europe (E4E)",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "表１ Electrolysers for Europe参加企業6社一覧",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "納入及び生産済み容量",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "は2需要側インセンティブとヨーロッパ産基準の導入を訴えるマニフェストを2026年2月4日に発表した",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "後述するが中国は昨年から欧州での展開を見越し、水素業界でグローバル取引への企業品格の形成とEUの炭素国境調整メカニズム（CBAM）への対応を推進している",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同マニフェストでは、戦略的要請として、①市場創出と需要刺激の加速、②水素の規制定義の整備、③資金調達メカニズムの簡素化と強化を挙げており、欧州がクリーンエネルギー技術のリーダーシップを維持するためには、政策立案者が電解槽の市場需要を加速し、規制を簡素化し、長期的な投資の確実性を提供する必要があり、欧州の競争力、主権、回復力を強化することができると結論づけている",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素に限らず、すべての産業セクターで同様な傾向にあると思うが、中国的気質から脱却し、グローバル基準で認められる企業気質と品位を身に着けようとする姿勢が見受けられ、非常に興味深い",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産業の確実性を継続的に高めるために、二重炭素排出制御システムを導入する",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素エネルギー促進協会は、2026年においては、企業は国内市場でのプレゼンスを高めつつ、海外市場への進出を強化すると予測しており、業界の競争環境は「国内競争」から「グローバル競争」へと移行すると断言している",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この急成長は、再生可能エネルギーの導入拡大、政府による脱炭素化政策、そして持続可能な燃料技術への世界的な企業投資の増加によって牽引されています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の政策が市場導入を加速",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置の導入に対するインセンティブ、補助金、規制面での支援は、産業界、電力・エネルギー事業者、輸送事業者にグリーン水素の導入加速を促し、市場の成長をさらに後押ししています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業は、産業拠点、再生可能エネルギー発電所、水素ステーションなど、様々な場所で導入可能な、拡張性の高いモジュール式水電解装置の開発に注力しています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鉄鋼、化学、アンモニア生産など、エネルギー消費量の多い産業において、製造プロセスへのグリーン水素の導入が進んでいます",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "専門家は、2035年までに市場規模が10倍に拡大するという予測を達成する上で、業界横断的な導入が重要な役割を果たすと予測しています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州は、EUの強力な水素政策と再生可能エネルギーの導入拡大に牽引され、引き続き最大の地域市場となっています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーン水素用水電解装置市場の主要企業",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• その他主要企業",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "主要企業と市場戦略",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本資料には、ALK電解水水素製造システムの世界市場規模、市場動向、セグメント別予測（5～100 Nm³/h、101～500 Nm³/h、500 Nm³/h超）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "かつて購入者が設置容量を優先していたのに対し、現在では大規模な化学業界の顧客は、年間稼働時間、出力上昇率、およびオフグリッド対応能力に焦点を当てている",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、国内の主要メーカーは現在、欧州や中東へシステムを大量に出荷している",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本質的に、アルカリ電解分野における現在の競争は、もはや誰が最低価格を提供できるかという点ではなく、変動性によって定義される「ニューノーマル」の中で、より少ない貴金属、より薄い隔膜、そしてより堅牢なスタックを使用し、化学業界の顧客に10年間のオフテイク契約を締結させるのに十分な、トン当たりコストの低いグリーン水素を生産できるかという点に焦点が移っている",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本インサイトレポートは、世界のALK電解水水素製造システムの全体像を包括的に分析し、製品セグメンテーション、企業設立、収益、市場シェア、最新動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、本レポートでは、世界的な主要企業の戦略を分析し、ALK電解水水素製造システムのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当てることで、加速する世界のALK電解水水素製造システム市場におけるこれらの企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、ALK電解水水素製造システム市場の包括的な概要、市場シェア、成長機会を提示します",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "以下に紹介する企業は、主要な専門家からの情報および各社の事業範囲、製品ポートフォリオ、市場浸透度を分析した上で選定されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第1章には、ALK電解水水素製造システム市場の導入、調査対象期間、調査目的、市場調査の方法論、調査プロセスとデータソース、経済指標、考慮される通貨、および市場推定における注意点などの情報が記載されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第3章には、ALK電解水水素製造システムの世界市場における企業別の詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（新しいタブで水素発生装置HHOG納入実績PDFを開きます）",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（新しいタブで水電解式水素発生装置HHOG納入実績PDFを開きます）",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "豊富な納入実績",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1990年代前半に開発・初号機納入し、水素発生量5Nm",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "JFEテクノリサーチ、グリーン水素製造技術開発を加速する水電解評価試験装置を販売開始",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AndTech新刊「環境配慮型材料Vol.15 ～環境イノベーション戦略と次世代エネルギー～」を刊行",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIエージェント",
+    "url": "https://prtimes.jp/topics/keywords/%E6%B0%B4%E9%9B%BB%E8%A7%A3",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【水素・水電解・燃料電池】水素・燃料電池開発情報センター、2026年11月11日に第42回セミナー開催 - CTIWEB 株式会社加工技術研究会",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CONVERTING Technology Seminar",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【水素・水電解・燃料電池】水素・燃料電池開発情報センター、2026年11月11日に第42回セミナー開催",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素・燃料電池開発情報センター",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（FCDIC、旧・燃料電池開発情報センター）は2026年11月11日午前10時～午後7時15分（午後5時15分～7時15分までは交流会）まで、",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「カーボンニュートラルに向けた東京ガスの取り組みとPEM形水電解CCMの開発状況」",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「カナデビアのPEM型水電解システムにおける大規模実証と今後の展望」",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「関西電力における水素事業の取り組みと技術開発」",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【フィルム型ペロブスカイト太陽電池】積水化学工業・積水ソーラーフィルム・鹿児島銀行・南国殖産、志布志市で台風や塩害などの耐候性実証実験開始",
+    "url": "https://www.ctiweb.co.jp/2026/09/15/%E3%80%90%E6%B0%B4%E7%B4%A0%E3%83%BB%E6%B0%B4%E9%9B%BB%E8%A7%A3%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E3%80%91%E6%B0%B4%E7%B4%A0%E3%83%BB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E9%96%8B%E7%99%BA/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内外メーカーの取り組みと技術開発状況",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素・エネルギー関連事業の新規事業や技術開発を担当する方",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1982年に株式会社東芝に入社し、燃料電池、超電導、核融合、熱分解ガス化炉など新エネルギー関連の技術開発に従事",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2012年から燃料電池事業開発室長として家庭用燃料電池エネファームの開発、2014年から全社プロジェクトの技術責任者として、水素エネルギーシステムや水電解装置に関する技術開発、実証事業、事業化推進を統括",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本技術士会、燃料電池開発情報センター（FCDIC）、水素エネルギー協会（HESS）、日本機械学会、各会員",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素エネルギーシステム、燃料電池、水電解装置等の新エネルギー関連の新技術開発及び事業開発",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本では2020年に福島県浪江町で実証運転を開始したＦＨ２Ｒ（福島水素エネルギー研究フィールド）が、当時世界最大の10ＭＷのアルカリ水電解装置でした",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらのポイントについて、ＦＨ２Ｒをはじめ大規模水電解プロジェクトや国内外メーカーとの技術開発を長年リードしてきた講師により、技術開発の現場で得られた知見を交え、実務に役立つ視点で水電解技術と市場の全体像を分かりやすく解説します",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解技術の基礎から世界の最新動向、主要メーカーの開発状況、技術課題、市場の将来展望までを体系的に学べる実践的なセミナーで、実務に直結する知識をご提供します",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これから水素ビジネスへの参入を検討される方はもちろん、既に事業や研究開発に携わっている方にも、最新動向を踏まえて技術と市場を俯瞰できる内容です",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このうち、アルカリとPEMは商用化フェーズ、SOECとAEMは実証から商用化に移行しつつある",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本調査レポートでは、水電解技術に係る研究成果や研究開発のトレンド、装置・部材メーカーの事業戦略を徹底調査するとともに、2035年までの水電解装置・部材市場の成長性を予測する",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水電解装置・部材メーカーの動向（生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等）",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ａ：日本、米国、欧州を中心にとした主要メーカーの生産体制、製品ポートフォリオ、研究開発動向、採用プロジェクト等を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「第3章 水電解技術・部材市場の動向」では、水電解技術および部材に係る研究開発・市場動向を理解でき、かつ欧米の主要水電解装置メーカーの事業概要や採用プロジェクト等の情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「第4章 水電解装置・部材メーカーの動向」では、水電解装置および部材メーカーの事業概要、製品ポートフォリオや研究開発動向等の詳細を確認でき、競合比較や自社の戦略立案に役立ちます",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（表）水素エネルギー総合利用に関する実証事業の枠組み",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本ではGI基金事業でPFASフリー電解質膜を用いた10MWモデルの開発を推進",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "16MW級水電解装置を導入した大規模P2Gシステムの実証が順調に進む",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ccs&S：Climate change solutions ＆Sustainable Report",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国のグリーン水素・アンモニア・メタノールエネルギー産業が実証・探査段階から大規模開発段階へと移行する出発点となる",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "、政策主導の実証・探査段階から市場主導の商業化へと移行する",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州は、過去には太陽光発電ではメーカーの開発競争と市場獲得競争に負け、現時点では、陸上・洋上風力発電市場でも中国がトップを占めている状況だ",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "核融合発電のエネルギー変換に係る技術開発の動向",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ける最新の技術開発動向をご紹介します",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「高温固体酸化物電気化学デバイスの研究開発動向」",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「レドックスフロー電池の実証例と技術動向、今後の展望」",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「硫化物系固体電解質を用いた全固体電池の開発」",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「中温作動電気化学デバイス実現に向けた研究開発」",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "https://unit.aist.go.jp/rieet/event/20261116/",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「アニオン交換膜水電解用アノード触媒の開発」",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1. テープキャスト法による酸化物系全固体電池用緻密電解質シート製造プロセス開発",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2. 溶融法によるガーネット型固体電解質単結晶育成と固体電池開発",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "5. 次世代二次電池に関する研究開発",
+    "url": "https://unit.aist.go.jp/rieet/event/20261116/program.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "企業は、産業拠点、再生可能エネルギー発電所、水素ステーションなど、様々な場所で導入可能な、拡張性の高いモジュール式水電解装置の開発に注力しています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "電解装置の耐久性、効率性、拡張性を向上させるためには、研究開発への投資が不可欠です",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現在の需要は、グリーン水素実証プロジェクトの大規模な展開と、既存の石炭化学および精製施設における炭素削減のための改修の両方によって牽引されている",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "チベット、内モンゴル、その他の地域における複数の実証プロジェクトでは、オフグリッドの風力・太陽光発電、電解槽への直接供給、およびグリーンアンモニア合成を組み合わせた緊密に連携したモデルがすでに実証されている",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CIMCグリーン水素（広東）技術開発",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "各企業について、会社情報、製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主要事業概要、および最新の開発状況が個別に詳述されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "関連技術としては、電気化学的な触媒と電解質の開発があります",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、新しい材料の開発も進んでおり、耐久性や作動温度の向上が期待されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "マクニカ、Sera Networkと連携し次世代オープンネットワークソリューションを提供開始",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「SCM経営診断」と「CLOダッシュボード」の開発に着手",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JAXAとの共同開発から世界へ！",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカル AI社会を支えるモータづくりに挑む",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1990年代前半に開発・初号機納入し、水素発生量5Nm",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Ａ：2025年の実績、2026～2030年、2035年の市場規模（面積ベース、あるいは重量ベース）予測を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "」と名付けられた業界協定を公表し、「原価割れの価格設定」と「虚偽の主張」を終わらせ、市場を安定させるための以下の10の基本的措置を講じることを約束した",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4 原価割れの低価格競争を避ける",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模は2025年の30億米ドルから2035年には301億米ドルへと拡大し、2026年から2035年の予測期間において25.9%という高い年平均成長率（CAGR）を記録すると見込まれています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "専門家は、2035年までに市場規模が10倍に拡大するという予測を達成する上で、業界横断的な導入が重要な役割を果たすと予測しています",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ALK電解水水素製造システムの世界市場（2026年～2032年）、市場規模（5～100 Nm³/h、101～500 Nm³/h、500 Nm³/h超）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ALK電解水水素製造システムの世界市場（2026年～2032年）、市場規模（5～100 Nm³/h、101～500 Nm³/h、500 Nm³/h超）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本資料には、ALK電解水水素製造システムの世界市場規模、市場動向、セグメント別予測（5～100 Nm³/h、101～500 Nm³/h、500 Nm³/h超）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界のALK電解水水素製造システムの市場規模は、2025年の12億7,200万米ドルから2032年には26億6,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）11.2%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年、世界のALK電解水水素製造システムの生産台数は約1,083台に達し、世界平均市場価格は1台あたり約1,200米ドルでした",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "近年、業界は100メガワット規模のプロジェクトや、単価を1ワットあたり500元以下に引き下げることに注力してきましたが、現在では、容量拡大のみによるコスト削減の余地はほぼ尽きつつあることが広く認識されています",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本質的に、アルカリ電解分野における現在の競争は、もはや誰が最低価格を提供できるかという点ではなく、変動性によって定義される「ニューノーマル」の中で、より少ない貴金属、より薄い隔膜、そしてより堅牢なスタックを使用し、化学業界の顧客に10年間のオフテイク契約を締結させるのに十分な、トン当たりコストの低いグリーン水素を生産できるかという点に焦点が移っている",
+    "url": "https://www.atpress.ne.jp/news/2507988",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 水素と既存原燃料との価格差支援(CfD支援)のラウンド１を実施",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(約4,450億円)を見込む",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10年間で総額7.2億ユーロ(約1,320億円)の支援を見込む",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "15件(総額9.92億ユーロ(約1,820億円))の落札を発表",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 第3回入札について総額10億ユーロ(約1,840億円)にて2026年2月19日まで申請受付中",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 9億ユーロ(約1,650億円)の予算を確保し、H2Globalによるダブルオークションのうち、第1回固定価格買取入",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界水電解装置市場レポート：企業調査、価格推移、販売動向の徹底分析2026 | YH Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界水電解装置市場レポート：企業調査、価格推移、販売動向の徹底分析2026",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2032年までに37730百万ドルに達すると予測されており、2026年から2032年までの期間における年平均成長率（CAGR）は48.2%と予想されています",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レーザー弱化機業界動向2026：市場シェア、価格変動、投資機会を分析",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "タラ肝油の世界市場（2026年～2032年）、市場規模（小児、成人）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ローリングシャッターCMOSイメージセンサーの世界市場（2026年～2032年）、市場規模（前面発光型、背面発光型）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2710991",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "な事業者が、2030年よりも早い商業運転開始を目指しており、数百～千数百億円規模の案件組成が進められている",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 水素と既存原燃料との価格差支援(CfD支援)のラウンド１を実施",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4,485億円)を見込む",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10年間で総額7.2億ユーロ(約1,200億円)の支援を見込む",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 9億ユーロ(約1,500億円)の予算を確保し、H2Globalによるダブルオークションのうち、第1回固定価格買取入",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "最大3.97億ユーロ(約660億円)の支援で2027年からの",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 第2回固定価格買取入札を開始 (25年2月)し、ドイツ連邦政府・オランダ政府から25億ユーロ(約4,100億",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "図3：プロジェクト総数は前年比プラス9%",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "図4：IEAデータベースによると電解能力は前年比プラス8%",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "WPICの建設確率係数*を考慮すると前年比プラス6%",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「こどもNISA」と「ジュニアNISA」はなにが違う？今日から口座開設の受付スタート「こどもNISA」のメリット・デメリット【年110万円・贈与税基礎控除との併用は要注意】",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "35歳で資産5,000万円、サイドFIREに踏み切ったワケ：米国増配銘柄投資家・IKさんインタビュー前編",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NISA1,200万円＋退職金2,000万円の60歳男性、定年直後に熟年離婚→財産分与で大揉め…58歳妻の主張「NISAも折半」は通用する？【弁護士が解説】",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1/3〜2/3以内・上限10〜40億円",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2/3以内（EVバッテリーのリユースは3/4以内）・上限20億円",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "たとえば最大受電電力1,500kWのリチウムイオン電池の案件は1/3以内・上限10億円の区分に入り、補助対象経費が4億5,000万円なら、",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国から受けられる額は最大1億5,000万円",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約363億円",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約346億円",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1件あたりの交付決定額は令和7年度が約9.8億円、令和6年度が約12.8億円",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ただし、1件ごとの額は令和7年度で約1.2億円から40億円まで幅があり、平均は大型案件に引き上げられています",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の令和7年度補正の予算は、3つの事業区分あわせて616億円の内数で、初年度分は約80億円の内数と示されています",
+    "url": "https://battery-navi.jp/content-chikudenchi-subsidy/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The Technology Pioneers community is part of the Innovator Communities at the World Economic Forum, which convene the world’s leading global start-ups across different growth stages from early-stage Technology Pioneers to growth-stage Global Innovators and unicorn companies valued at more than $1 billion.",
+    "url": "https://www.power-h2.com/news/world-economic-forum-technology-pioneer",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Documentary shines a powerful light on a painful disease that affects 265 million women, highlights efforts at MIT’s Center for Gynepathology Research to study the disease and find treatments.",
+    "url": "https://news.mit.edu/2026/toward-cheaper-cleaner-hydrogen-production-0403",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "has officially terminated its 20-megawatt alkaline water electrolysis project at its Donaldsonville, Louisiana, Complex, concluding a two-year effort to produce green hydrogen for low-carbon ammonia production. The company recorded a $51 million asset impairment in December 2025 after determining the project's economics could not deliver acceptable returns.",
+    "url": "https://decarbonfuse.com/posts/cf-industries-cancels-electrolyzer-project-pivots-to-carbon-capture-strategy",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": ", formed in April 2025, for the construction and production of low-carbon ammonia using CCS technology. CF Industries holds 40% ownership, JERA holds 35%, and Mitsui holds 25% in the venture. The joint venture has already invested $307 million in capital expenditures through 2025.",
+    "url": "https://decarbonfuse.com/posts/cf-industries-cancels-electrolyzer-project-pivots-to-carbon-capture-strategy",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "🏗️ Emvolon Raises $22 Million Funding Round to Launch Its Modular, Waste-to-fuel Chemical Plants",
+    "url": "https://decarbonfuse.com/posts/cf-industries-cancels-electrolyzer-project-pivots-to-carbon-capture-strategy",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AEM水電解装置世界総市場規模",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AEM水電解装置―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "」によると、2026年から2032年の予測期間中のCAGRが84.3%で、2032年までにグローバルAEM水電解装置市場規模は9692百万米ドルに達すると予測されている",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AEMは非貴金属活用によるコスト構造の改善余地と、変動再エネへの追従性という運用価値が語りやすい一方、耐久・安定の証明が価格と採用を決める",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年、世界のトップ3企業は売上の観点から約72.0%の市場シェアを持っていた",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "C68106700 2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vK2BeMvotABw0ZdtbWy_tuyiYf6xhHRvlwDBlQCXdVOh1eqGyKD",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年までに電解装置の生産規模を拡大し、100万人の雇用を創出し、最大2,000億ユーロ（2,160億ドル）の輸出額を生み出すというビジョンを掲げる",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人材育成理念",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デジタル人材充実の長崎に事務所新設",
+    "url": "https://www.kobelco-eco.co.jp/product/hhog/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "万の新しい雇用を生み出し、健康コストを数十",
+    "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "給与激減も責任は同じ「再雇用」嫌がる人は多いが…60歳定年後「年収360万円で5年間働いた人」と「リタイアした人」に生じる衝撃の老後格差【シミュレーション】",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グリーン水素製造向け 水電解装置 の技術と市場の動向【 2026 】 — グリーン水素製造向け 水電解装置 の技術と市場の動向【 2026 】 セミナーゲート https://seminar.atengineer.com > Home > 脱炭素",
+    "url": "https://seminar.atengineer.com/chemical/zkad2611m2/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州の 水電解装置 6社が新たな連合E4Eを組成。中国企業を ... — 欧州の 水電解装置 6社が新たな連合E4Eを組成。中国企業を ... BAUM Consult Japan - https://baumconsult.co.jp > 水素",
+    "url": "https://baumconsult.co.jp/2026/02/09/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE6%E7%A4%BE%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AA%E9%80%A3%E5%90%88e4e%E3%82%92%E7%B5%84%E6%88%90%E3%80%82%E4%B8%AD%E5%9B%BD/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーン水素用水 電解装置 市場、2035年までに30億ドルから ... — グリーン水素用水 電解装置 市場、2035年までに30億ドルから ... Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/6864047",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経産省、 水電解装置 開発に349億円 SOECコスト抑制 — 経産省、 水電解装置 開発に349億円 SOECコスト抑制 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/761647",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "AEM水電解装置の世界市場調査：需給動向と企業ランキング2026-2032｜QYResearch",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AEM水電解装置の世界市場調査：需給動向と企業ランキング2026-2032",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AEM水電解装置とは、アニオン交換膜（AEM）を電解質として用い、水から水素を製造する電解システムである。アルカリ水電解（AE）の量産性と、PEM水電解の高電流密度・応答性の利点を、非貴金属触媒や比較的穏やかな運転条件で接続しようとする設計思想が中核にある。膜が水酸化物イオンを輸送することで、電極材料の自由度が高まり、貴金属依存の低減余地が生まれる一方、膜の耐久性、ガス透過、炭酸塩化、触媒活性、スタックの封止・圧損管理など、商用化で支配的となる課題が複合的に現れる。したがってAEM水電解装置は、単体機器ではなく、膜・触媒・MEA・スタック・BOP（周辺機器）を一体最適化し、再エネ変動電源と同期して運用することを前提とした次世代の水素製造インフラ要素である。",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上記の図表／データは、QYResearchの最新レポート「2026～2032年のグローバルAEM水電解装置市場調査レポート」から引用されている。",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "QYResearch調査チームの最新レポートである「",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AEM水電解装置―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "」によると、2026年から2032年の予測期間中のCAGRが84.3%で、2032年までにグローバルAEM水電解装置市場規模は9692百万米ドルに達すると予測されている。この伸びの質は、単なる需要増ではなく、電解装置の調達ロジックが「実証の採否」から「供給能力とLCOH（氷山の下の運転費・保守費まで含む）の比較」へ切り替わる過程にある点にある。AEMは非貴金属活用によるコスト構造の改善余地と、変動再エネへの追従性という運用価値が語りやすい一方、耐久・安定の証明が価格と採用を決める。結果として、市場拡大は技術優位だけでなく、検証データの蓄積速度と量産品質の再現性に引き寄せられる。",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界のAEM水電解装置市場におけるトップ10企業のランキングと市場シェア（2025年の調査データに基づく；最新のデータは、当社の最新調査データに基づいている）",
+    "url": "https://note.com/qy_research/n/n8c5c67273525",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-04T01:09:51.508420+00:00"
+}

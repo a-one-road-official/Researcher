@@ -1,0 +1,5857 @@
+{
+ "name": "バーティカルAI",
+ "en": "vertical AI",
+ "aliases": [
+  "業界特化AI",
+  "特化型AI"
+ ],
+ "context": "1 AI・半導体 ③バーティカルAI",
+ "kind": "market",
+ "researched_at": "2026-11-04T01:10:52.394921+00:00",
+ "evidence": {
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "2026 年、 バーティカルAI の達成点・限界点・突破点 - note 2026 年、 バーティカルAI の達成点・限界点・突破点 - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【解説】政府、「 バーティカルAI 」推進｜Yoshi_it - note 【解説】政府、「 バーティカルAI 」推進｜Yoshi_it - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "Lazuli、「PDP Chat Agent」のライブデモを交えた無料ウェビナーを11月12日（木）に開催",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GoogleがGoogle Agent Skillsの品質ゲートを紹介、6つの自動ゲートで検証を実現",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Stella AI for Biz、「Word Agent」「Excel Agent」を提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ケイデンスのAI Super Agent、NokiaにおけるMillennium M2000 Supercomputerを 活用した電子システム設計の高速化を実現",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Forcesteed Robotics、AIエージェントがロボットの作業プログラムを組む「Agentic Robotics」を開発 ー Physical AI OS「FOS」の新機能",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「Workato Agentic AI Hackathon 2026」のファイナリスト11チームを発表",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【circusAGENT】履歴書をアップロードするだけで求職者情報をAIがシステムに自動入力",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Workday、人事・財務・IT 向け AI エージェントの構築・実行するためのプラットフォーム「Trusted Agent Platform」が人事・財務へのヘッドレスアクセスに対応",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "PLAINER、顧客のプロダクト利用の「わからない」を先回りして解消するAI Agent「PLAINER Live」を 提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「LINE」に食事写真を送るだけでAIがカロリーや栄養素を分析「Agent i」の新領域、「食事管理」エージェントを提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI Agent Standards Initiative",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "European Commission,",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "改めて注目される背景にあるのが「エージェント型AI（Agentic AI）」の進展だ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米ビッグテックが集結する「Agentic AI Foundation」、ルールづくり推進",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI Agent Camp",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されている",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・近年、エージェント型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の機運が高まり、 AI投資で出遅れている我が国でもようやく市場の急成長が期待されている",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エージェント型AI（Agentic AI）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・近年、エージェント型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されて",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI Agent Standards Initiative",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "European Commission,",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI Agents & MCP Development",
+    "url": "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Phase 3 - Multi-agent coordination (2026):",
+    "url": "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "- IDC forecasts 70% of software vendors will refactor away from per-seat pricing by 2028. As AI agents replace human operators of SaaS tools, seat-based revenue declines structurally. Investors are pricing this risk.",
+    "url": "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GeekWire, \"The Rise of Vertical AI Agents — and the Startups Racing to Build Them\" (March 2026):",
+    "url": "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Put the Ava Claims Agent to work on your own deductions and see what it recovers.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Distributor Management",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Get full distributor visibility by connecting their systems to Aforza and Ava.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Across Retail Execution, Trade Promotion Management (TPM) and Distributor Management Systems (DMS), organisations are using Vertical AI to drive step‑change improvements in execution quality, commercial effectiveness and business outcomes. The difference between companies that adopt Vertical AI at scale and those that do not will determine winners and losers in the next decade.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Distributor Management Systems",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Autonomous (Agentic) AI manages complex workflows",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Agentic AI (systems that can autonomously execute multi‑step tasks) will gain traction. These solutions will manage entire workflows with minimal human oversight, from monitoring execution compliance to initiating corrective actions.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Agentic AI can automate planning, execution oversight and post‑promotion analysis, significantly reducing manual work and increasing accuracy. Deloitte highlights that agentic AI in TPM can enhance ROI, strengthen retailer collaboration and reduce time spent on routine tasks.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Vertical AI cannot be an afterthought. Invest in AI strategy with clear KPIs tied to trade promotion outcomes, Retail Execution quality and distributor performance.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Distributor Management overview",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Agents, robotics, and the companion app",
+    "url": "https://techfundingnews.com/why-2026-ends-ai-experimentation-vertical-scale-human-hurdles/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Crux Labs raises $6M+ to audit AI agents against human judgement",
+    "url": "https://techfundingnews.com/why-2026-ends-ai-experimentation-vertical-scale-human-hurdles/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NIST, AI Agent Standards Initiative, 2026.",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NIST NCCoE, Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization, 2026.",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "European Commission, AI Act — Shaping Europe's digital future, 2026.",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の基本計画改定案で、バーティカルAIと並んで重視されているのが「エージェント型AI（Agentic AI）」です",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "OWASPは2026年、権限の乗っ取りやツールの誤用を主要リスクとする「OWASP Top 10 for Agentic Applications」を公開し、警鐘を鳴らしています",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "政治（法・予算・規制）": [
+   {
+    "quote": "補助金を使える「生成AI」研修",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デジタル化・AI導入補助金2026の登録ITツール",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ワークスアイディ、法人向け生成AIプラットフォーム「neoAI Chat/Work」を「デジタル化・AI導入支援事業費補助金」の対象ツールに新たに採択",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AIが選ぶ「弁護士事務所」、1位はベリーベスト法律事務所（言及率44.4%）【2026年9月調査】",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Global Government AI CITY Innovation Summitが成功裏に開催",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AIで海外法規制対応を高度化！ISTソフトウェアが3社共同企画・開発した「事 業影響分析支援サービス」を提供開始 ～独自の分析プロセスは特許出願中～",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "相続のこと、生成AIにどこまで相談していい？弁護士が玉川徹さんと考える「生成AI時代の相続相談」｜Authense法律事務所",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Innovature Technologies 株式会社、OpenAI Select Partnerに認定",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Google WorkspaceでのGemini活用スキルを身につける Google Cloud 認定コースを提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは何か｜「IT予算ではなく人件費」を狙う領域特化型AIの正体",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スタンフォード大発見：法律AIツール、誤情報「幻覚」のリスク高く",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法律AI企業Luminance、4000万ドル調達で業界変革へ",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本政府の第Ⅱ期人工知能基本計画でも、AIが「業務を支援するツール」から「意思決定・実行を担う主体」へ進化していることを前提に、Vertical AIやPhysical AIを重点領域として位置づけています",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本政府の第Ⅱ期人工知能基本計画は、バーティカルAIとフィジカルAIを日本の重点領域に位置づける一方、「信頼できるAI」を柱に据え、AIと協働する社会において",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "もちろん、これらの政府・標準化機関が「Responsibility Layer」や「責任OS」という方式を提唱しているわけではありません",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "規制対象業務における正式な処置",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして何より、責任OSは法律上・経営上の責任をAIやソフトウェアへ移転する仕組みではありません",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：Responsibility Layerおよび責任OSは、上記の政府機関・標準化団体・研究機関が提唱または認定している名称ではありません",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府はバーティカルAIを「データ、AIモデル、アプリを垂直統合した領域特化型システム」と定義する",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "齊藤企画官は金融を例に、規制や社内ルール、過去の業務データ、熟練者の経験などを取り込み、稟議（りんぎ）書の作成や融資判断につなげる仕組みを挙げる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年7月の「第Ⅱ期人工知能基本計画」で、政府はバーティカルAIやフィジカルAIなどを「日本の勝ち筋」と位置付けた",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同月21日に政府の日本成長戦略本部が決定した官民投資ロードマップでは、2040年度までのバーティカルAIへの官民投資額を23.1兆円と想定し、経済波及効果は同年度までで222兆円を見込む",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府がバーティカルAIを推す狙いは、日本の産業現場に蓄積した知見をAIに取り込み、競争力につなげることだ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府は官が先行して支援や活用事例をつくり、民間の投資や利用を呼び込む考えだ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国車がフラッグシップ戦略で欧州攻略、現地生産で関税回避へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "マンション工事停止の仮命令を取り消し 高裁決定、盛土規制法違反は認定",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "下水道法改正に伴う政省令・告示案出そろう、陥没事故の再発防止策を具体化",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは何か｜「IT予算ではなく人件費」を狙う領域特化型AIの正体",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府は19の領域を重点支援領域に位置づけ、官民投資を集中する方針を示しました",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "答えを探して、政府の資料と、米国のベンチャーキャピタルが出した2本のレポートを読み比べました",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バーティカルAIは、IT予算ではなく、人件費予算を取りに行く」",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして政府の定義は、そこに「技術スタックの垂直統合」という意味も重ねています",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この言葉、日本政府が考えたわけではない",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "核心——IT予算ではなく、人件費予算を取りに行く",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来の垂直SaaSは、企業のIT予算という限られた財布の中で戦っていました",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして、人件費予算を取りに行くという構造を、最も直接的に体現しています",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の答えは明快です",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の政府の資料では「領域特化型AI」とも書かれる（※3）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の人工知能戦略本部が2026年7月10日の会合で示した「",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年7月14日に閣議決定された",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の計画は、フィジカルAIとの役割の分担を示している（※1、※5）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の政府の計画では、2025年12月23日に閣議決定された最初の人工知能基本計画に、バーティカルAIの語は出てこない（※7）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府「人工知能戦略本部（第5回）」を開催",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府「人工知能基本計画」（第Ⅱ期）を閣議決定",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：政府は、バーティカルAIとフィジカルAIに重点を置く第Ⅱ期の人工知能基本計画を閣議決定した",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府「日本成長戦略」を閣議決定",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：政府は、日本成長戦略を閣議決定した",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セキュリティの確保された政府・地方公共団体のAX/…",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政策パッケージには、中小企業を含めたバーティカルAIの導入支援と「地域AX」の推進、政府による率先導入、AISIの機能強化などが入っています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（政府の文章そのまま）」→「",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・政府による率先導入と制度改革による初期需要創出",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場性・公共性・戦略性の観点から重点領域を定めて領域別戦略を策定し、官民で集中投資すること、政府調達や制度改革で初期需要を喚起すること、そして領域別の取組を横連携で高度化・大規模化することです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・政府調達や制度改革により初期需要を積極的に喚起し、開発投資支援で事業拡大を加速",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・規制緩和、中小企業補助金、AI実装人材創出等による導入促進の円滑化",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・エージェント型AIを含めた、政府によるバーティカルAIの率先導入、所要の制度改革や技術標準・認証の整備を一体的に推進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府調達や制度改革で",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "構築すべき機能には、規制緩和・",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "②セキュリティの確保された政府・地方公共団体のAX/DX基盤 ・・・p.24",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "その上で官民投資ロードマップ案を前提として、原則、政府担当部局が主要企業や団",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当該官民投資額は、官民投資ロードマップ策定後も、１）予算編成の過程を通じて、新たな発想や視点に基づく真に効果",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "CAIO＠StudyPocket on X: \"教育領域の バーティカルAI 。7月10 ... CAIO＠StudyPocket on X: \"教育領域の バーティカルAI 。7月10 ... X https://x.com > @mocchicc",
+    "url": "https://x.com/mocchicc/status/2076643504722502136",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Aki(本物)＠めもおきば   on X: \"「 バーティカルAI 領域別戦略 ... Aki(本物)＠めもおきば   on X: \"「 バーティカルAI 領域別戦略 ... X https://x.com > @nekoruri",
+    "url": "https://x.com/nekoruri/status/2110618137544859862",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "What Is Vertical AI (and Why It Actually Matters) | Trace Cohen What Is Vertical AI (and Why It Actually Matters) | Trace Cohen LinkedIn https://www.linkedin.com > posts > tr...",
+    "url": "https://www.linkedin.com/posts/tracecohen_what-is-vertical-ai-and-why-it-actually-activity-7386424121263353856-Kam1",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Vertical AI surpasses SaaS in industries like healthcare, legal ... Vertical AI surpasses SaaS in industries like healthcare, legal ... LinkedIn https://www.linkedin.com > posts > b...",
+    "url": "https://www.linkedin.com/posts/bessemer-venture-partners_the-state-of-vertical-ai-activity-7367260176954920961-7Jdy",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The rise of vertical AI agents — and the big opportunity for ... The rise of vertical AI agents — and the big opportunity for ... LinkedIn https://www.linkedin.com > pulse > ri...",
+    "url": "https://www.linkedin.com/pulse/rise-vertical-ai-agents-big-opportunity-startups-geekwire-ibwsc",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "モニター価格 月5万円（税別）「社長のためのAI家庭教師」",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI関連事業へ約920億円を投資、成長を加速",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ovice、人数無制限・チャージ式のAI機能「My AI」を公開 リリース記念でGPT-6.1 Solを1組織あたり1万円分（税抜）まで無料に",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "小売本部の売上分析に関わる社員の5割弱は、売上分析で生成AIを組織的に使って いない職場で働いている！",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "月額5万円の「AI代行堂」の本格提供を開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "IDOM、商談領域のAIエージェント開発基盤にAgentforceを全面採用「自動 追客AIエージェント」で年間60億円の売上創出を目指す",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同月21日に政府の日本成長戦略本部が決定した官民投資ロードマップでは、2040年度までのバーティカルAIへの官民投資額を23.1兆円と想定し、経済波及効果は同年度までで222兆円を見込む",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして日本には、バーティカルAIを展開し、ARR100億円を公表した企業が2社あります",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年に約1兆円",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2030年には約3兆円超になる見通し",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界市場は2030年に33兆円と見積もり、そのうち",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "内外で少なくとも5兆円の獲得を目指す",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ホリゾンタルAI（全機能横断）が84億ドルで、前年比5.3倍",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "部門特化型AI（職種別）が73億ドルで、前年比4.1倍",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI（業界別）は35億ドル、前年比およそ2.9倍",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本成長戦略は、バーティカルAIの国内の市場が2030年に約3兆円になるという予測もあるとしたうえで、世界のバーティカルAIの市場のうち、5兆円以上を2030年に獲得する目標を掲げた（※3）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人工知能基本計画の注は、2040年度までのバーティカルAIへの官民の投資額を23.1兆円と想定している（※1）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和9年度（2027年度）の概算要求では、AXを実現するためにバーティカルAIの導入と開発・利用を進める新しい事業に、内閣府が約1,009億円を求めた（※11）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは｜官民投資ロードマップの目標5兆円・投資額23.1兆円・領域特化型AIの政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは｜領域特化型AIで2030年に内外5兆円の市場獲得とAXを目指す",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民投資ロードマップは、2030年に世界のバーティカルAI市場33兆円のうち内外で少なくとも5兆円を獲得し、産業や行政の現場でAIを軸とした経営改革（AX）を進めるとしました",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2030年に内外で少なくとも5兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年度までに23.1兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年度までに222.0兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内のバーティカルAI市場は2024年に約1兆円で、2030年には約3兆円になる見通しです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目標は、2030年に世界のバーティカルAI市場33兆円のうち、内外で少なくとも5兆円を獲得することです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民投資額は2040年度までに23.1兆円、経済波及効果は222.0兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目標 ― バーティカルAIで2030年に内外で少なくとも5兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（２）官民投資の具体像 ①投資内容、②投資額（注１）、③定量的インパクト：投資による経済波及効果（注２）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（注１）官民投資額については、当該分野に見識のある学者、シンクタンク、企業関係者などにより構成される戦略17分野の各WGでの議論を踏まえ、「主要な製品・技",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当該官民投資額は、官民投資ロードマップ策定後も、１）予算編成の過程を通じて、新たな発想や視点に基づく真に効果",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（注２）経済波及効果については、各「主要な製品・技術等」の官民投資額及び当該官民投資による生産増加額をインプットとして、産業連関分析を実施して算出",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "的には、産業連関表を用いて、（１）当該製品・技術等に係る最終需要額（投資額・生産額）の増加が、生産工程の川上産業（部品、部素材、原料といった関連",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "20兆円の市場獲得を目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模として50兆ドルが見込まれるとの見方（NVIDIA社）もある",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "し、2040年に約60兆円規模へ成長すると見込まれる",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・現状、我が国は、ロボット分野のうち、産業用ロボット市場（約0.8兆円）で世界",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、サービスロボット市場（約2.8兆円）での世界シェアは１割強にとどまる",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2030年めど、市場規模15兆円達成へ スポーツビジネスの新展開",
+    "url": "https://www.projectdesign.jp/articles/3d5669ee-411f-4030-9630-b16308df150c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海外売上高20兆円時代へ、加速する成長戦略",
+    "url": "https://www.projectdesign.jp/articles/3d5669ee-411f-4030-9630-b16308df150c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The a16z Big Ideas 2026 report documented the progression across specific categories: healthcare, legal, and housing companies have already reached $100 million in annual recurring revenue within a few years, faster than any comparable cohort of vertical SaaS companies. The pattern of evolution has been consistent:",
+    "url": "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Industry research shows that 71% of CPG leaders had adopted AI in at least one business function in 2025, with measurable benefits including revenue growth and cost reduction.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Northwood hits $2B valuation: Ex-Disney star’s ground station startup raises $375M from a16z and DFJ Growth",
+    "url": "https://techfundingnews.com/why-2026-ends-ai-experimentation-vertical-scale-human-hurdles/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The push toward AI sovereignty and homegrown innovation will continue, as reliance on a small number of global providers is considered untenable. Europe’s tech ecosystem is set to enter a growth moment in 2026, with its own set of tech champions fueling innovation pipelines.",
+    "url": "https://techfundingnews.com/why-2026-ends-ai-experimentation-vertical-scale-human-hurdles/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1.見本市によって、出展企業の売上げ拡大に貢献します",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GROWTH INDUSTRY CONFERENCE 2026",
+    "url": "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Growth就活DXPO’26【秋】",
+    "url": "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIが発注APIを呼べることと、その数量・価格・取引先で発注してよいことは違う",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "価格が変わるかもしれない",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIの国内市場規模は、2030年には約3兆円に達すると予測されており、官民の限られたリソースを集中的に投下することで、この成長市場での主導権を握る構えです",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "株式会社カナリーが不動産特化型AIへの進化を目指して2025年12月に約40億円を調達した事例のように、民間でも垂直統合型のビジネスモデルへの移行が加速しています",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIの国内市場は約3兆円規模への成長が見込まれていますが、この成長を支えるのは、日本の強みである現場データと、それを処理する国内のAIインフラ（データセンター、計算基盤、半導体）の強化です",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIロボティクス等の多用途ロボット市場は2040年には約60兆円に達すると予測されており、バーティカルAIで蓄積された現場の知見は、そのままロボットの知能として活用されます",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "中途社員（中途採用）",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Cognizant、企業が最先端AIを実運用に移行する中、OpenAI導入支援に2万5,000人超の専門家を投入",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "求人8.9万件の「JobLinks」、企業は求人票づくりをAIで、求職者は応募から面談予約・書類作成 まで最短で 採用する側と探す側の両方の手間を減らす仕組みを公開",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "複数ツールに分散した採用業務を一つに",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Zoth Consulting、応募から面接着座までを最速 化する採用AI「ゾスAI」を提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIエンジニアリング&セキュリティ企業「おもしろテクノロジー」がLIGHTzにグループイン",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "メーカー・卸売業向けAIエージェント（Intentia AI）を提供するIntentia、業務課題の無料相談とデータの簡易診断を開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "受発注や営業の「どこからAIを使えるか」を整理",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ハイクラスの約8割が「AIスキルは市場価値に影響する」と回答、一方で企業が求めるレベルとのギャップが明らかに",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "プリペアード 評判が高いAI通話録音・自動要約サービス「RecACE plus」、カスハラ対 応にも活用できるモデルケース企業を群馬県で初募集",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スマート工場",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "老舗園芸企業ScottsMiracle-GroのAI変革——土と肥料がデータで進化、コスト削減1.5億ドル達成",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法律AI企業Luminance、4000万ドル調達で業界変革へ",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「神はミクロンに宿る」─宇宙開発を支える姫路の町工場、佐藤精機の技術力",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIがある操作を実行できることと、その操作を企業として実行してよいことは同じではない",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％でした",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに、AI利用企業の57％は利用範囲が3つ以下の業務機能にとどまり、66％はAIをタスクそのものの代替ではなく、既存業務の補助として利用していました",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "EUでも2025年の企業AI利用率は19.95％、大企業では55.03％まで上昇しています",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、AI利用企業のうち物流用途で利用していた企業は6.08％でした",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIは企業システムへ着実に入り始めているが、企業業務全体がAIによって自律運転されているわけではない",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIが文章を生成するだけなら、最終的に人間が読んで採用しなければ状態は変わりません",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "配送計画を正式採用する",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "、より広く言えば「そのActionを企業行為として成立させてよいか」という問題になります",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIが発注APIを呼べることと、その数量・価格・取引先で発注してよいことは違います",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "齊藤企画官は、「品質管理（QC）活動などを通じて日本企業の現場には細かな知見が蓄積されており、これをAIに取り込めば質の高いサービスをつくれる」という",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JPモルガンやロッキードにみるAI導入「4原則」、日本企業への示唆",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大手ITの下請けで働くエンジニア、顧客先で「社員」と紹介されて違和感",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NVIDIAの直流800V給電構想 参画企業2倍、電力インフラ大手も加勢",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レノボとニデックが水冷サーバー販売で連携、狙うは企業内AIサーバー需要",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカルAI半導体、鍵は「低遅延と拡張性」 川崎重工が採用決めた国内新興",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "テスラ最大の競合、NVIDIAに車メーカーが殺到 E2E自動運転の基盤争い",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日建連と不動協の協議 育成費の発注者負担に前向き意見、現場閉所で平行線",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国勢のチェコ原発受注に亀裂…工事費とリスク負担で施工交渉決裂",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スマート工場",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして日本には、バーティカルAIを展開し、ARR100億円を公表した企業が2社あります",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Shopify、Toast、Procore、ServiceTitanといった垂直SaaS企業を早くから支援してきた米国のベンチャーキャピタル、",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来の垂直SaaSは、企業のIT予算という限られた財布の中で戦っていました",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人間とAIの役割の違い、そして顧客への提供形態の違いとして見ていきます",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "比較的、導入しやすい型です",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中身にAIを使っているかどうかは、顧客にとっては本質ではありません",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "単純な転記ミスのチェックから、企業固有の規程に基づく費用の妥当性確認まで、ワンストップで完結させる",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "顧客に何を売るのか——ソフトか、結果か",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "まず、バーティカルAIが各現場に導入される",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CRMは一般に、顧客の情報や取引の記録を管理する仕組みを指す",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人工知能基本計画は、先に導入が進むバーティカルAIが現場の経験や知識をデータにしてため、続くフィジカルAIがそうしたデータやAIの判断を、機械や装置を使って現実の世界での動きに移すとしている",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国の投資会社ベッセマーは、2024年6月20日の報告「State of the Cloud 2024」で、英語の「Vertical AI」の語を使い、バーティカルAIの企業の時価総額がこれまでの業界向けのソフトの企業の少なくとも10倍になると予測した（※6）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和9年度（2027年度）の概算要求では、AXを実現するためにバーティカルAIの導入と開発・利用を進める新しい事業に、内閣府が約1,009億円を求めた（※11）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIの語が指す範囲と導入の課題",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "課題は、AI実装人材や中小企業への伴走支援の不足、現場固有データの活用不足、計算資源の不足、AXへの理解不足とAIリスクへの懸念です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政策パッケージには、中小企業を含めたバーティカルAIの導入支援と「地域AX」の推進、政府による率先導入、AISIの機能強化などが入っています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自治体は、行政の現場でのバーティカルAIの導入と、地域の中小企業のAXの支援で、この流れに直接参加できます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "データ・モデル・アプリを垂直統合した「現場で使えるAI」であるバーティカルAIを、重点領域ごとの戦略で産業や行政に広げ、AIの導入で人手不足を解消し日本社会全体のAXを実現する計画です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・AI研究開発人材、現場とAIの双方を理解して、AXを推進できる実装人材や中小企業伴走支援の不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・中小企業を含めた産業や行政でのAXの促進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・政府による率先導入と制度改革による初期需要創出",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・AIの導入で人手不足を解消",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中小企業を含めた産業や行政でのAXの促進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "つまり、自治体の業務そのものが、バーティカルAIの導入先として国の戦略に位置づけられているのです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "①植物工場 ・・・p.279",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（注１）官民投資額については、当該分野に見識のある学者、シンクタンク、企業関係者などにより構成される戦略17分野の各WGでの議論を踏まえ、「主要な製品・技",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "アドバンスト・メディア、コンタクトセンター向け「業務支援AI」市場で シェアNo.1（※1）を獲得",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ヒューマネージが提供する業界シェアNo.1の採用管理システム『i-web』、次世代版対話型AI面接サービス『SHaiN』との連携を開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Tin Men Capitalが主導し、ビジョンAIスタートアップのAilyticsがアジア太平洋、米国、湾岸地域への事業拡大を目指し、740万米ドルのシリーズA資金調達を実施",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国発・海洋AIoTスタートアップ「ODN（オーデン）」が日本参入",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NVIDIA と半導体業界のリーダー、AI デファインド ファブに向けてチップ設計と製造全体で AI の活用を推進",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカルAI監視装置の基本特許を日本・米国・中国で取得 自動運転車・警備ロボット ・ドローン・スマートシティ向けにライセンス提供を開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ｕｇｏ、「AI×サービスロボット」領域の製造業(4分野)・点検保守用途市場で売上シェアNo.1 を獲得",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "VUSSENS、米ニュージャージー州に米国本社を設立 AIを活用したグローバル美容市場分析プラットフォームを正式ローンチ",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "普段使いのAIに話しかけるだけでテレビの“今”を即リサーチ！インフィニマインド、テレビ解析AI「TVPulse」のMCP連携を開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国の金融AIスタートアップNeurofusion、CEATEC 2026に出展",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Microsoft、Dragon Copilot拡張を一般提供｜米国の医師向けから",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "X（Twitter）でシェアする",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Facebookでシェアする",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％でした",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Responsibility Layerは、これらの既存技術と競合するものではありません",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国NISTは、AIエージェントへデータ、ツール、アプリケーションへのアクセスを与えることを前提に、識別、認可、監査、否認防止などを検討対象にしています",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Facebookでシェア",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LinkedInでシェア",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この記事をシェア",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次の半導体大国、インド",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国車がフラッグシップ戦略で欧州攻略、現地生産で関税回避へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "岐路に立つデンソー、新たな競合はテックジャイアント トヨタの将来左右",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "テスラ最大の競合、NVIDIAに車メーカーが殺到 E2E自動運転の基盤争い",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "モメンタ日本へ急接近、テスラに迫れるか 中国E2E自動運転トップの技術力",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国で相次ぐ「499戸・999戸」マンション…1戸の差で認証義務の対象外に",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国勢のチェコ原発受注に亀裂…工事費とリスク負担で施工交渉決裂",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "答えを探して、政府の資料と、米国のベンチャーキャピタルが出した2本のレポートを読み比べました",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Shopify、Toast、Procore、ServiceTitanといった垂直SaaS企業を早くから支援してきた米国のベンチャーキャピタル、",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Bessemerの概算では、ビジネス・専門サービス業は米国GDPの13%を占め、これはソフトウェア市場の、およそ10倍にあたります",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Menlo Venturesという米国のベンチャーキャピタルが、2025年12月に「2025: The State of Generative AI in the Enterprise」という調査レポートを出しています",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国企業の意思決定者495人",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この調査のサンプルは米国企業に限定されています",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年、米国企業の生成AI支出は",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Menloの米国調査で見る限り、2025年時点では、その逆方向に動いています",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国企業の調査であって、日本の実態とも違う",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Menloの35億ドルも、米国企業に限った推計であり、集計の範囲は狭い",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国の投資会社のベッセマー・ベンチャー・パートナーズは、これまでの業界向けのソフトや業界を問わない汎用のツールと比べて、バーティカルAIを説明している",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国の投資会社ベッセマーは、2024年6月20日の報告「State of the Cloud 2024」で、英語の「Vertical AI」の語を使い、バーティカルAIの企業の時価総額がこれまでの業界向けのソフトの企業の少なくとも10倍になると予測した（※6）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "並ぶ第三極として世界シェア3割超の獲得を通じて、2040年に",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "シェア約7割を有し、モーター、減速機等の主要コンポーネントでも高い競争力を持",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、サービスロボット市場（約2.8兆円）での世界シェアは１割強にとどまる",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 現状、我が国は、産業用ロボット市場で世界シェア約7割を有し、モーター、減速機、センサー、蓄電池等の主要部品でも高い",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "して、世界シェア3割超の獲得",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・かつて我が国半導体産業は世界シェアの約50％を誇ったが、日米貿易摩擦、日の丸",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・半導体設計は米国、製造は台湾、製造装置は日本・米国・欧州、部素材は日本に強",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・市場：中国企業の競争力向",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上に伴う中国向け市場の縮",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " かつて我が国半導体産業は世界シェア約50％を誇ったが、日米貿易摩擦や国内のデジタル化低迷等を背景に凋落し、現在は10％",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％だった",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上の六つは、Responsibility Layerと競合するものではない",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国NISTは、AIエージェントへデータ、ツール、アプリケーションへのアクセスを与えるリスクを取り上げ、識別、認可、監査、否認防止を検討対象として明示している",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【米国】（7月1日～7月31日）",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（2026/07/17）米国CAISI、ZAIのGLM-5.2に対する評価を実施",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（2026/07/22）米国トランプ政権、AI for Scienceに関する国家ミッション「Genesis Mission」に50億ドル以上を投資すると発表",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年7月22日、 米国トランプ政権は、AI for Scienceに関する国家ミッション「Genesis Mission」に50億ドル以上を投資すると発表した",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【欧州】（7月1日～7月31日）",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（2026/07/23）英国AISI、米国CAISI、Kimi K3サイバー能力の予備評価を実施",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年7月23日、英国AISI、米国CAISIは、Kimi K3サイバー能力の予備評価を実施した",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "共同評価の結果、Kimi K3のサイバー能力は、米国の最先端クラスのクローズドウェイトモデルには及ばない結果となった",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【アジア（中国、韓国、インド、シンガポール）】（7月1日～7月31日）",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "AIマネジメントシステムの国際規格「ISO/IEC 42001」認証を取得",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自治体における脱炭素化推進に向け、生成AIを活用した新たなコンサルティング手法（地 方公共団体実行計画区域施策編）を確立",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic 社「Claude」の「認証済み」コネクタとして掲載",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「閉域網×生成AI」の官公庁向け大型プロジェクトを正式受注 ～NHN テコラスとRagateが共同提 案から開発まで伴走～",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "歩くだけで0.03秒の出席確認！共創未来の「顔認証出席管理システム」がトライアルキャ ンペーン実施中！お問い合わせも増加中！",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "在庫・納期・売上を自然な言葉で検 索・集計",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アスエネ、「ASUENE」「ASUENE SUPPLY CHAIN」のAIマネジメントシステムで国際規格「ISO/IEC 42001 」認証を取得",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国税庁のシステム「KSK2」で手続き遅延が1カ月継続、国税労組は解決を要求",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIで激化するサイバー攻撃、矛先は製造業へ 防御対象選定とBCPが急務",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国で相次ぐ「499戸・999戸」マンション…1戸の差で認証義務の対象外に",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和9年度（2027年度）の概算要求では、AXを実現するためにバーティカルAIの導入と開発・利用を進める新しい事業に、内閣府が約1,009億円を求めた（※11）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和9年度AI関連予算要求について",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・エージェント型AIを含めた、政府によるバーティカルAIの率先導入、所要の制度改革や技術標準・認証の整備を一体的に推進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・AIのリスクへの包括的対応（AISI※の機能強化、サイバー攻撃対応を含めたAI安全性・セキュリティや信頼性に係る評価手法・基盤の開発・提供、サイバー関連データの集約、セキュアなAI利用環境の検討・具体化、偽・誤情報対策、AIガバナンスや安全性認証制度の整備、意思決定に係るAIのルール形成）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "し、重要なコンポーネントの開発・製造能力やOEM機能を強化",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・AIロボットのOEMや重要コンポーネントの開発・製造機能",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スタートアップからの発展を念頭に、多用途ロボットOEMの育成を推進",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・ティーチングカスタマーやOEM等と協働し、工場、物流、小売、防災、介護、家庭、廃炉等への導入を念頭にモックアップ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "性認証制度や安全規制の在り方をAISIと連携しながら検討",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グカスタマー、OEM、ユー",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ロボットOEMの育成や、",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "や技術標準・認証の整備を一体的に推進",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "対策、AIガバナンスや安全性認証制度の整備、意思決定に係るAIのルール形成）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 国内のデータ連携のためのトラストサービスを体系化するとともに、国が整備する法人トラスト認証の仕組",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "EU AI Actでも高リスクAIに対し、活動ログ、人による監督、堅牢性、サイバーセキュリティ、精度などを要求する方向が明示されている",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "EU AI Actでも高リスクAIに対し、活動ログ、人による監督、堅牢性、サイバーセキュリティ、精度などを要求する方向が明示されている",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "2026年 のVertical AI を3層で整理する - Qiita — 2026年 のVertical AI を3層で整理する - Qiita Qiita https://qiita.com > AIガバナンス",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... — 領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... 日経クロステック https://xtech.nikkei.com > 3分でわかる必修ワード IT",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高市政権が「 バーティカルAI 」推進、戦略19分野に官民集中投資 — 高市政権が「 バーティカルAI 」推進、戦略19分野に官民集中投資 ビジネス+IT https://www.sbbit.jp > IT戦略 > AI・生成AI",
+    "url": "https://www.sbbit.jp/article/cont1/186078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... — バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (1) AI・半導体",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年 、 バーティカルAI の達成点・限界点・突破点 - Zenn — 2026年 、 バーティカルAI の達成点・限界点・突破点 - Zenn Zenn https://zenn.dev > ghostdrift > articles",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "社会実装から見る バーティカル AI の可能性 - 大和総研 — 社会実装から見る バーティカル AI の可能性 - 大和総研 大和総研 PDF https://www.dir.co.jp > japan > 20260930_026094",
+    "url": "https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカルAI ・ バーティカルAI とは（日本成長戦略 全文と解説） — フィジカルAI ・ バーティカルAI とは（日本成長戦略 全文と解説） 日本DX地域創生応援団 https://digital-supporter.net > seichou17 > ai-handoutai",
+    "url": "https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Vertical AI in 2026 : What Makes a Defensible AI Company and ... — Vertical AI in 2026 : What Makes a Defensible AI Company and ... advisable.com https://www.advisable.com > insights",
+    "url": "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "What to expect from Vertical AI in 2026 - Aforza — What to expect from Vertical AI in 2026 - Aforza Aforza https://aforza.com > what-to-expect-fr...",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年 の Vertical AI を3層で整理する - Qiita — 2026年 の Vertical AI を3層で整理する - Qiita Qiita https://qiita.com > AIガバナンス",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Why 2026 ends AI experimentation? Experts bet on vertical ... — Why 2026 ends AI experimentation? Experts bet on vertical ... Tech Funding News https://techfundingnews.com > why-2...",
+    "url": "https://techfundingnews.com/why-2026-ends-ai-experimentation-vertical-scale-human-hurdles/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "人材育成・研修・経営",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法人研修・人材育成",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エディフィストラーニングとDASA Japan、AI時代の変革人材を育成する「FDE人材育成研修」を提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "OBC、根拠に基づいた人材活用をサポートする“実践型”『奉行AIエージェント 人材活用クラウド』を発売",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "World Edu Bridge、外国人材向けAI日本語学習サービス「Tomodachi」を提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【那覇商工会議所】人手不足を乗り越える！生成AIと多様な人材活用セミナーを12/17(初級編)・1/19(中級編)に開催",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ポーターズ、人材紹介スタートアップの成長を支援",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "松尾研究所、障がい者雇用の現場にフィジカルAI活用へ エスプールと共同プロジェク トを開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "障がい者雇用の現場にフィジカルAI活用へ、エスプールと松尾研究所が共同プロジェク トを開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スマートスケープ、生成AI人材育成に向けた225時間の実践型インターンシップを実施",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現場とAIの技術の両方の知識を持つ人材が足りないことにも、中間とりまとめは触れている",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "製造の領域の節でも、中間とりまとめは、現場の工程や品質の保証を理解したうえでAIで解く課題を決め、実装して運用まで受け持つ人材が足りないと指摘している（※2）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI実装人材",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI Academy（アガルート） AI人材コース",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "課題は、AI実装人材や中小企業への伴走支援の不足、現場固有データの活用不足、計算資源の不足、AXへの理解不足とAIリスクへの懸念です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "投資促進に向けた課題 ― AI実装人材・データ・計算資源とAIリスク",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "データ・モデル・アプリを垂直統合した「現場で使えるAI」であるバーティカルAIを、重点領域ごとの戦略で産業や行政に広げ、AIの導入で人手不足を解消し日本社会全体のAXを実現する計画です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・AI研究開発人材、現場とAIの双方を理解して、AXを推進できる実装人材や中小企業伴走支援の不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人材、データを含めたAI基盤への官民投資を促進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・研究開発の担い手の育成・確保、世界から優秀な「知」が集まる機能の創設",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・AIの導入で人手不足を解消",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・経済的重要性：バーティカルAIそのものへの直接投資に加え、計算基盤やネットワーク、人材等への誘発効果、更にユーザー産業において、省人化のみならず、生産性の向上や新事業創出、GDPの押上げに寄与",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人手不足に直面する我が国の供給力を維持し、力強い成長につなげるために、中小企業を含めて、あらゆる産業や行政の現場でのバーティカルAIの導入を促進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・産業や行政の現場とAIの双方を理解してAXを推進できるAI実装人材を大規模に育成",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・構造的な人手不足を背景とする潜在的な導入需要を顕在化させ、",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人手不足の解消・生産性向上により、産業競争力の強化",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・戦略的重要性：フィジカルAI導入による省力化を通じ構造的人手不足の解決に貢献",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "検証・試験設備を活用しながら、ロボットを導入してデータ収集、検証、標準化、人材育成を同時に進める社会実装のハブ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "となる環境を構築することで、世界から優秀な人材が集まるAIロボティクスのCenter of Excellenceやテストベットを創設",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・産学官が連携したハッカソンやコンペティション等の人材育成の取組を検討",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人材：AIとロボット双方の",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・加えて、規模拡大や産業集積に向けて必要となるインフラや人材育",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人材：研究開発人材・現場",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "に関する人材の不足は喫緊",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI時代の人材・組織改革EXPO",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "L AIなどを活用して業務・人材・組織を変える",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIの活用・人材育成",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIなどを活用して 業務・人材・組織を変える",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜AI＞＜ブロックチェーン＞＜量子コンピュータ＞＜ヒューマノイドロボット＞＜フィジカルAI＞＜XR産業活用＞の最新テクノロジーと、＜AI時代の人材育成・組織改革＞に必要とされるサービスが出展する、７つの展示会で構成",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI時代の人材戦略・組織改革を本気で進める企業のための専門展",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デジタル人材育成支援EXPO」は2026年より『AI時代の人材・組織改革 EXPO』として開催いたします",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年展は「AI業務改革EXPO」「AI開発技術展」「AI人材育成EXPO」「AIセキュリティ・ガバナンスEXPO」の4展で構成される",
+    "url": "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年夏の東京開催では、AIと対話しながら専門的なプログラミングなしでAIエージェントやWebアプリを作れるサービスや、業務特化型AIエージェント、完全閉域型AI基盤からAIガバナンス・人材育成までを一列につなげたデモ展示など、「AIを導入する」段階から「安全に会社全体へ広げる」段階への進化がうかがえた",
+    "url": "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "構成展：AI業務改革EXPO、AI開発技術展、AI人材育成EXPO、AIセキュリティ・ガバナンスEXPO",
+    "url": "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第5回 AI時代の人材・組織改革EXPO【秋】",
+    "url": "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "医療・介護領域では、人手不足が深刻な現場を支えるため、医師の記録業務の自動化や電子カルテとAIエージェントの連携を可能にする標準規格の策定が進められています",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI時代を支える人材育成と人間力の向上",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIを安全かつ効果的に運用するためには、AIの仕組みと各産業のドメイン知識を兼ね備えた「AI実装人材」の確保が不可欠ですが、現状では質・量ともに不足しています",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "2026年、バーティカルAIの達成点・限界点・突破点｜株式会社AIアシュアランス",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年、バーティカルAIの達成点・限界点・突破点",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "IntelligenceからActionへ。その次に必要になる「Responsibility Layer」と責任OS",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年、バーティカルAIはどこまで来たのか。",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「業界特化型のAIが普及した」とだけ捉えると、現在起きている変化を過小評価する。一方で、「AIが企業業務を自律的に遂行できるようになった」と言い切れば、実態を過大評価する。",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％だった。しかもAI利用企業の57％は三つ以下の業務機能での利用にとどまり、66％はAIをタスクの代替ではなく補助だけに使っていた。EUでも2025年の企業AI利用率は19.95％で、大企業では55.03％まで上昇している一方、AI利用企業のうち物流用途で使っていた企業は6.08％だった。調査方法は異なるため単純比較はできないが、AIは企業活動へ着実に入りながらも、全面的な業務自律化にはまだ距離がある。",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NISTは2026年、AIエージェントを「自律的な行為が可能な次世代AI」と位置づけ、その相互運用性とセキュリティのための標準化イニシアティブを開始した。日本政府も第Ⅱ期人工知能基本計画で、AIが「業務を支援するツール」から「意思決定・実行を担う主体」へ進化していると整理し、バーティカルAIとフィジカルAIを日本の重点領域に据えている。",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIが業界を理解する段階から、業務の中で行為する段階へ進んだ年",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【解説】政府、「バーティカルAI」推進｜Yoshi_it",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1. 政府による「バーティカルAI」推進の全容",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2. 次世代AIの核心「バーティカル」と「エージェント」",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIがもたらす現場で使える価値",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自律的にタスクを遂行するエージェント型AIの台頭",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "3. 19分野における重点支援領域と具体的施策",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4. 社会実装を阻む課題と信頼構築の枠組み",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "AI・生成AIに関連するニュース一覧（2026年10月）",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "IT・DX・AI最新トレンドメディア",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AI研修",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIエンジニア向け法人研修",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法人向けAI開発研修",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "補助金を使える「生成AI」研修",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法人向け自動化研修",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI・生成AI",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "開発ツール・OS・インフラ",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AI時代の学びとキャリア",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI – innovaTopia",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI（人工知能）",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AIガイド",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ソブリンAI（AI主権）",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "XAI（説明可能AI）",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "RAI（責任あるAI）",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカルAI",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "OpenAI",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIが「実行できる」と「実行してよい」は違う――2026年のVertical AIを3層で整理する #AIガバナンス - Qiita",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI x Dev x Team",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIが「実行できる」と「実行してよい」は違う――2026年のVertical AIを3層で整理する",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIアシュアランス",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIガバナンス",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Intelligence / Action / Responsibility から見る、バーティカルAIの達成点・限界点・次の設計領域",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年、Vertical AI（バーティカルAI）はどこまで来たのでしょうか",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この記事では、現在のVertical AIを単なる「業界特化型LLM」としてではなく、",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "結論を先に書くと、2026年の大きな変化は、AIが",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIエフェクト",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI・データラボ／日経クロステック記者",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI（Vertical AI）とは、金融や製造、医療など特定の産業・業務領域に特化し、その現場ごとの課題を解くAI（人工知能）システムを指す",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIは、領域固有のデータやルールをつないで業務を動かす点が重要になる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府はバーティカルAIを「データ、AIモデル、アプリを垂直統合した領域特化型システム」と定義する",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "関連施策は内閣府が旗振り役となって進めており、同府の齊藤大地科学技術・イノベーション推進事務局人工知能政策推進室企画官は「特定の業務を便利にするAIではなく、AIを前提に業務そのものを置き換えていくものだ」と説明する",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "領域固有の課題に対し、業界独自のデータやルールを使って業務を進める点がバーティカルAIの特徴だ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、メールの作成や会議の要約のように業種を横断して使える用途は「ホリゾンタルAI（Horizontal AI）」に近い",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは何か｜「IT予算ではなく人件費」を狙う領域特化型AIの正体",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI（人工知能）",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AIガイド",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ソブリンAI（AI主権）",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "XAI（説明可能AI）",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "RAI（責任あるAI）",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカルAI",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "OpenAI",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI（人工知能）ニュース",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI（Vertical AI）とは・意味、ほかのAIとの違い・領域別戦略 - Harch AI Lab",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Harch AI Lab",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI Learning & Research Media",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI（Vertical AI）とは・意味、ほかのAIとの違い・領域別戦略",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは？",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは、製造、医療、金融、行政など特定の業界や業務に絞り、その現場のデータや知識を生かして作るAIのこと",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "英語の表記は「Vertical AI」",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の政府の資料では「領域特化型AI」とも書かれる（※3）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI領域別戦略 中間とりまとめ",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "」は、バーティカルAIを、特定の領域に特化してデータとAIのモデルとアプリを垂直に統合したシステムと説明している",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbbit.jp/article/cont1/186078",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://japan.plugandplaytechcenter.com/all-insights/blog/2026/05-21-ai-coe-launch-interview",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.projectdesign.jp/articles/3d5669ee-411f-4030-9630-b16308df150c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bloomberg.com/jp/news/articles/2026-02-06/TA0K20T96OSG00",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/gtir/2026/ch2/sec2/sub2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/japan/UFIQ3AEMAVP33ELB4AFTKC3Y24-2026-07-21/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.alliancebernstein.co.jp/knowledge/36555.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-shien.smrj.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.broadleaf.co.jp/products/merit/subsidy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/spaces/view/0087152",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/780340",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tron.tokyo/news/nikkan-kogyo-physical-ai-data-foundry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.plugandplaytechcenter.com/all-insights/blog/2026/05-21-ai-coe-ventures-interview",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techfundingnews.com/why-2026-ends-ai-experimentation-vertical-scale-human-hurdles/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amd-advancing-ai.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000019.000180050.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mocchicc/status/2076643504722502136",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nekoruri/status/2110618137544859862",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tracecohen_what-is-vertical-ai-and-why-it-actually-activity-7386424121263353856-Kam1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/bessemer-venture-partners_the-state-of-vertical-ai-activity-7367260176954920961-7Jdy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/rise-vertical-ai-agents-big-opportunity-startups-geekwire-ibwsc",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "バーティカルAI ニュース 2026年11月",
+   "results": [
+    "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "https://innovatopia.jp/tag/vertical-ai/",
+    "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "https://www.campaignjapan.com/article/%E4%BC%81%E6%A5%AD%E3%81%AE%E7%94%9F%E6%88%90ai%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AF-2026%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AB30%EF%BC%85%E3%81%8C%E6%94%BE%E6%A3%84%E3%81%95%E3%82%8C%E3%82%8B%E3%81%A0%E3%82%8D%E3%81%86/497657",
+    "https://bizfreak.co.jp/blog/rwsiu02uafe",
+    "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "https://blogs.itmedia.co.jp/serial/2026/11/"
+   ]
+  },
+  {
+   "query": "バーティカルAI 発表 2026年11月",
+   "results": [
+    "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "https://innovatopia.jp/ai/ai-news/113176/",
+    "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "https://www.sbbit.jp/article/cont1/186078",
+    "https://harch.jp/ai/glossary/vertical-ai",
+    "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "https://www.projectdesign.jp/articles/3d5669ee-411f-4030-9630-b16308df150c",
+    "https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf",
+    "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf"
+   ]
+  },
+  {
+   "query": "バーティカルAI 受注 2026年11月",
+   "results": [
+    "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "https://innovatopia.jp/ai/ai-news/113176/",
+    "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "https://www.sbbit.jp/article/cont1/186078",
+    "https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf",
+    "https://japan.plugandplaytechcenter.com/all-insights/blog/2026/05-21-ai-coe-launch-interview",
+    "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf"
+   ]
+  },
+  {
+   "query": "バーティカルAI 提携 2026年11月",
+   "results": [
+    "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "https://innovatopia.jp/ai/ai-news/113176/",
+    "https://www.sbbit.jp/article/cont1/186078",
+    "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf",
+    "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "https://aisi.go.jp/activity/activity_information/260807/",
+    "https://www.projectdesign.jp/articles/3d5669ee-411f-4030-9630-b16308df150c",
+    "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf"
+   ]
+  },
+  {
+   "query": "バーティカルAI 設備投資 2026年11月",
+   "results": [
+    "https://www.bloomberg.com/jp/news/articles/2026-02-06/TA0K20T96OSG00",
+    "https://www.jetro.go.jp/world/gtir/2026/ch2/sec2/sub2.html",
+    "https://www.reuters.com/jp/markets/japan/UFIQ3AEMAVP33ELB4AFTKC3Y24-2026-07-21/",
+    "https://www.alliancebernstein.co.jp/knowledge/36555.html",
+    "https://online.nikkei-cnbc.co.jp/vod/62484",
+    "https://wisdom.nec.com/ja/series/orita/2026091801/index.html",
+    "https://blogs.itmedia.co.jp/business20/2026/10/4ai.html",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "https://www.nikkei.com/article/DGXZQOGN05D6G0V00C26A2000000/"
+   ]
+  },
+  {
+   "query": "バーティカルAI 補助金 採択 2026年11月",
+   "results": [
+    "https://it-shien.smrj.go.jp/",
+    "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
+    "https://www.otsuka-shokai.co.jp/erpnavi/topics/law-amendment/it-hojo/",
+    "https://www.broadleaf.co.jp/products/merit/subsidy.html",
+    "https://hojyokin-portal.jp/columns/itdonyu_2nd_shinsei",
+    "https://smbiz.asahi.com/article/16252898",
+    "https://site.solamichi.com/hojo/it/2025",
+    "https://it-shien.smrj.go.jp/schedule/",
+    "https://www.smartmat.io/column/subsidy/8137"
+   ]
+  },
+  {
+   "query": "バーティカルAI 日刊工業新聞 2026年11月",
+   "results": [
+    "https://www.nikkan.co.jp/",
+    "https://www.nikkan.co.jp/spaces/view/0087152",
+    "https://www.nikkan.co.jp/articles/view/780340",
+    "https://tron.tokyo/news/nikkan-kogyo-physical-ai-data-foundry/",
+    "https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html",
+    "https://blogs.itmedia.co.jp/serial/2026/11/",
+    "https://pub.nikkan.co.jp/book/b10195038.html",
+    "https://www.youtube.com/watch?v=3OcMHg1_Okw",
+    "https://note.com/iceman_23/n/nefb312a157e3"
+   ]
+  },
+  {
+   "query": "vertical AI news 2026年11月",
+   "results": [
+    "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "https://japan.plugandplaytechcenter.com/all-insights/blog/2026/05-21-ai-coe-ventures-interview",
+    "https://techfundingnews.com/why-2026-ends-ai-experimentation-vertical-scale-human-hurdles/",
+    "https://jvpvc.com/newsroom/2026-going-deep-ai-vertical-ai-key-industries/",
+    "https://harch.jp/ai/glossary/vertical-ai",
+    "https://www.youtube.com/watch?v=lDYvSlkRrJk"
+   ]
+  },
+  {
+   "query": "vertical AI Japan 2026年11月",
+   "results": [
+    "https://amd-advancing-ai.jp/",
+    "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "https://prtimes.jp/main/html/rd/p/000000019.000180050.html",
+    "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "https://japan.plugandplaytechcenter.com/all-insights/blog/2026/05-21-ai-coe-ventures-interview",
+    "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "https://www.amd.com/ja/newsroom/press-releases/2026-04-28-amd-advancing-ai-2026.html",
+    "https://monosashi-media.com/events/topic/ai-it/2026-11/",
+    "https://www.sbbit.jp/eventinfo/generative-ai"
+   ]
+  },
+  {
+   "query": "site:note.com バーティカルAI 2026",
+   "results": [
+    "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "https://note.com/masayamori/n/ne4fcf7a42b6d",
+    "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "https://note.com/kagawatomo/n/n83a03e1e1e22",
+    "https://note.com/41machida_ai/n/n75b5238ef0ea",
+    "https://note.com/zakiryo1533/n/nff0f225d4a36",
+    "https://note.com/shotar/n/n7f1ba9ef7868",
+    "https://note.com/144292/n/nb9690ab333a5",
+    "https://note.com/use/n/nbe818f25881f",
+    "https://note.com/it_navi/n/nfcabd850fa4e"
+   ]
+  },
+  {
+   "query": "site:x.com バーティカルAI",
+   "results": [
+    "https://x.com/mocchicc/status/2076643504722502136",
+    "https://x.com/nekoruri/status/2110618137544859862",
+    "https://x.com/productai_/article/2082968278016905272",
+    "https://x.com/srt_taka/status/2116845607209857294",
+    "https://x.com/cloudpack_jp/article/2069307108848451985",
+    "https://x.com/productai_/status/2099995737052602385?lang=ar-x-fm",
+    "https://x.com/kantei/status/2075475200460664837",
+    "https://x.com/PressSec_JP/status/2075407419359064397",
+    "https://x.com/Oka_Tomoki/status/1864123795164024948",
+    "https://x.com/jpx_manebulab/status/2097101356272111693"
+   ]
+  },
+  {
+   "query": "site:linkedin.com vertical AI",
+   "results": [
+    "https://www.linkedin.com/posts/tracecohen_what-is-vertical-ai-and-why-it-actually-activity-7386424121263353856-Kam1",
+    "https://www.linkedin.com/posts/bessemer-venture-partners_the-state-of-vertical-ai-activity-7367260176954920961-7Jdy",
+    "https://www.linkedin.com/pulse/rise-vertical-ai-agents-big-opportunity-startups-geekwire-ibwsc",
+    "https://www.linkedin.com/pulse/vertical-saas-vs-ai-distinction-key-difference-andrew-oved-zb9wc",
+    "https://www.linkedin.com/company/verticalstudio-ai",
+    "https://www.linkedin.com/posts/arushi-gandhi_an-interesting-albeit-somewhat-obvious-activity-7422089659289214976-5LtO",
+    "https://www.linkedin.com/posts/sytaylor_yc-on-why-vertical-ai-will-be-bigger-than-activity-7292195196568518657-dQKd",
+    "https://www.linkedin.com/pulse/last-mile-moat-why-vertical-ai-gets-valued-billions-aditya-singh-t6wdc",
+    "https://www.linkedin.com/posts/guillermoflor_the-200-vertical-ai-startup-list-vertical-activity-7406256906312413184-M8UO",
+    "https://www.linkedin.com/top-content/innovation/ai-trends-and-innovations/the-future-of-vertical-ai/"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "2026 年、 バーティカルAI の達成点・限界点・突破点 - note 2026 年、 バーティカルAI の達成点・限界点・突破点 - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【解説】政府、「 バーティカルAI 」推進｜Yoshi_it - note 【解説】政府、「 バーティカルAI 」推進｜Yoshi_it - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "Lazuli、「PDP Chat Agent」のライブデモを交えた無料ウェビナーを11月12日（木）に開催",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GoogleがGoogle Agent Skillsの品質ゲートを紹介、6つの自動ゲートで検証を実現",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Stella AI for Biz、「Word Agent」「Excel Agent」を提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ケイデンスのAI Super Agent、NokiaにおけるMillennium M2000 Supercomputerを 活用した電子システム設計の高速化を実現",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Forcesteed Robotics、AIエージェントがロボットの作業プログラムを組む「Agentic Robotics」を開発 ー Physical AI OS「FOS」の新機能",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「Workato Agentic AI Hackathon 2026」のファイナリスト11チームを発表",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【circusAGENT】履歴書をアップロードするだけで求職者情報をAIがシステムに自動入力",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Workday、人事・財務・IT 向け AI エージェントの構築・実行するためのプラットフォーム「Trusted Agent Platform」が人事・財務へのヘッドレスアクセスに対応",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "PLAINER、顧客のプロダクト利用の「わからない」を先回りして解消するAI Agent「PLAINER Live」を 提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「LINE」に食事写真を送るだけでAIがカロリーや栄養素を分析「Agent i」の新領域、「食事管理」エージェントを提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI Agent Standards Initiative",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "European Commission,",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "改めて注目される背景にあるのが「エージェント型AI（Agentic AI）」の進展だ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米ビッグテックが集結する「Agentic AI Foundation」、ルールづくり推進",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI Agent Camp",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されている",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・近年、エージェント型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の機運が高まり、 AI投資で出遅れている我が国でもようやく市場の急成長が期待されている",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エージェント型AI（Agentic AI）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・近年、エージェント型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されて",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI Agent Standards Initiative",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "European Commission,",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI Agents & MCP Development",
+    "url": "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Phase 3 - Multi-agent coordination (2026):",
+    "url": "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "- IDC forecasts 70% of software vendors will refactor away from per-seat pricing by 2028. As AI agents replace human operators of SaaS tools, seat-based revenue declines structurally. Investors are pricing this risk.",
+    "url": "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GeekWire, \"The Rise of Vertical AI Agents — and the Startups Racing to Build Them\" (March 2026):",
+    "url": "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Put the Ava Claims Agent to work on your own deductions and see what it recovers.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Distributor Management",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Get full distributor visibility by connecting their systems to Aforza and Ava.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Across Retail Execution, Trade Promotion Management (TPM) and Distributor Management Systems (DMS), organisations are using Vertical AI to drive step‑change improvements in execution quality, commercial effectiveness and business outcomes. The difference between companies that adopt Vertical AI at scale and those that do not will determine winners and losers in the next decade.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Distributor Management Systems",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Autonomous (Agentic) AI manages complex workflows",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Agentic AI (systems that can autonomously execute multi‑step tasks) will gain traction. These solutions will manage entire workflows with minimal human oversight, from monitoring execution compliance to initiating corrective actions.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Agentic AI can automate planning, execution oversight and post‑promotion analysis, significantly reducing manual work and increasing accuracy. Deloitte highlights that agentic AI in TPM can enhance ROI, strengthen retailer collaboration and reduce time spent on routine tasks.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Vertical AI cannot be an afterthought. Invest in AI strategy with clear KPIs tied to trade promotion outcomes, Retail Execution quality and distributor performance.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Distributor Management overview",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Agents, robotics, and the companion app",
+    "url": "https://techfundingnews.com/why-2026-ends-ai-experimentation-vertical-scale-human-hurdles/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Crux Labs raises $6M+ to audit AI agents against human judgement",
+    "url": "https://techfundingnews.com/why-2026-ends-ai-experimentation-vertical-scale-human-hurdles/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NIST, AI Agent Standards Initiative, 2026.",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NIST NCCoE, Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization, 2026.",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "European Commission, AI Act — Shaping Europe's digital future, 2026.",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の基本計画改定案で、バーティカルAIと並んで重視されているのが「エージェント型AI（Agentic AI）」です",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "OWASPは2026年、権限の乗っ取りやツールの誤用を主要リスクとする「OWASP Top 10 for Agentic Applications」を公開し、警鐘を鳴らしています",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "政治（法・予算・規制）": [
+   {
+    "quote": "補助金を使える「生成AI」研修",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デジタル化・AI導入補助金2026の登録ITツール",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ワークスアイディ、法人向け生成AIプラットフォーム「neoAI Chat/Work」を「デジタル化・AI導入支援事業費補助金」の対象ツールに新たに採択",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AIが選ぶ「弁護士事務所」、1位はベリーベスト法律事務所（言及率44.4%）【2026年9月調査】",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Global Government AI CITY Innovation Summitが成功裏に開催",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AIで海外法規制対応を高度化！ISTソフトウェアが3社共同企画・開発した「事 業影響分析支援サービス」を提供開始 ～独自の分析プロセスは特許出願中～",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "相続のこと、生成AIにどこまで相談していい？弁護士が玉川徹さんと考える「生成AI時代の相続相談」｜Authense法律事務所",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Innovature Technologies 株式会社、OpenAI Select Partnerに認定",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Google WorkspaceでのGemini活用スキルを身につける Google Cloud 認定コースを提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは何か｜「IT予算ではなく人件費」を狙う領域特化型AIの正体",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スタンフォード大発見：法律AIツール、誤情報「幻覚」のリスク高く",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法律AI企業Luminance、4000万ドル調達で業界変革へ",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本政府の第Ⅱ期人工知能基本計画でも、AIが「業務を支援するツール」から「意思決定・実行を担う主体」へ進化していることを前提に、Vertical AIやPhysical AIを重点領域として位置づけています",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本政府の第Ⅱ期人工知能基本計画は、バーティカルAIとフィジカルAIを日本の重点領域に位置づける一方、「信頼できるAI」を柱に据え、AIと協働する社会において",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "もちろん、これらの政府・標準化機関が「Responsibility Layer」や「責任OS」という方式を提唱しているわけではありません",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "規制対象業務における正式な処置",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして何より、責任OSは法律上・経営上の責任をAIやソフトウェアへ移転する仕組みではありません",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：Responsibility Layerおよび責任OSは、上記の政府機関・標準化団体・研究機関が提唱または認定している名称ではありません",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府はバーティカルAIを「データ、AIモデル、アプリを垂直統合した領域特化型システム」と定義する",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "齊藤企画官は金融を例に、規制や社内ルール、過去の業務データ、熟練者の経験などを取り込み、稟議（りんぎ）書の作成や融資判断につなげる仕組みを挙げる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年7月の「第Ⅱ期人工知能基本計画」で、政府はバーティカルAIやフィジカルAIなどを「日本の勝ち筋」と位置付けた",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同月21日に政府の日本成長戦略本部が決定した官民投資ロードマップでは、2040年度までのバーティカルAIへの官民投資額を23.1兆円と想定し、経済波及効果は同年度までで222兆円を見込む",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府がバーティカルAIを推す狙いは、日本の産業現場に蓄積した知見をAIに取り込み、競争力につなげることだ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府は官が先行して支援や活用事例をつくり、民間の投資や利用を呼び込む考えだ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国車がフラッグシップ戦略で欧州攻略、現地生産で関税回避へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "マンション工事停止の仮命令を取り消し 高裁決定、盛土規制法違反は認定",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "下水道法改正に伴う政省令・告示案出そろう、陥没事故の再発防止策を具体化",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは何か｜「IT予算ではなく人件費」を狙う領域特化型AIの正体",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府は19の領域を重点支援領域に位置づけ、官民投資を集中する方針を示しました",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "答えを探して、政府の資料と、米国のベンチャーキャピタルが出した2本のレポートを読み比べました",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「バーティカルAIは、IT予算ではなく、人件費予算を取りに行く」",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして政府の定義は、そこに「技術スタックの垂直統合」という意味も重ねています",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この言葉、日本政府が考えたわけではない",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "核心——IT予算ではなく、人件費予算を取りに行く",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来の垂直SaaSは、企業のIT予算という限られた財布の中で戦っていました",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして、人件費予算を取りに行くという構造を、最も直接的に体現しています",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の答えは明快です",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の政府の資料では「領域特化型AI」とも書かれる（※3）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の人工知能戦略本部が2026年7月10日の会合で示した「",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年7月14日に閣議決定された",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府の計画は、フィジカルAIとの役割の分担を示している（※1、※5）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の政府の計画では、2025年12月23日に閣議決定された最初の人工知能基本計画に、バーティカルAIの語は出てこない（※7）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府「人工知能戦略本部（第5回）」を開催",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府「人工知能基本計画」（第Ⅱ期）を閣議決定",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：政府は、バーティカルAIとフィジカルAIに重点を置く第Ⅱ期の人工知能基本計画を閣議決定した",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府「日本成長戦略」を閣議決定",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：政府は、日本成長戦略を閣議決定した",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "セキュリティの確保された政府・地方公共団体のAX/…",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政策パッケージには、中小企業を含めたバーティカルAIの導入支援と「地域AX」の推進、政府による率先導入、AISIの機能強化などが入っています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（政府の文章そのまま）」→「",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・政府による率先導入と制度改革による初期需要創出",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場性・公共性・戦略性の観点から重点領域を定めて領域別戦略を策定し、官民で集中投資すること、政府調達や制度改革で初期需要を喚起すること、そして領域別の取組を横連携で高度化・大規模化することです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・政府調達や制度改革により初期需要を積極的に喚起し、開発投資支援で事業拡大を加速",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・規制緩和、中小企業補助金、AI実装人材創出等による導入促進の円滑化",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・エージェント型AIを含めた、政府によるバーティカルAIの率先導入、所要の制度改革や技術標準・認証の整備を一体的に推進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府調達や制度改革で",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "構築すべき機能には、規制緩和・",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "②セキュリティの確保された政府・地方公共団体のAX/DX基盤 ・・・p.24",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "その上で官民投資ロードマップ案を前提として、原則、政府担当部局が主要企業や団",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当該官民投資額は、官民投資ロードマップ策定後も、１）予算編成の過程を通じて、新たな発想や視点に基づく真に効果",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "CAIO＠StudyPocket on X: \"教育領域の バーティカルAI 。7月10 ... CAIO＠StudyPocket on X: \"教育領域の バーティカルAI 。7月10 ... X https://x.com > @mocchicc",
+    "url": "https://x.com/mocchicc/status/2076643504722502136",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Aki(本物)＠めもおきば   on X: \"「 バーティカルAI 領域別戦略 ... Aki(本物)＠めもおきば   on X: \"「 バーティカルAI 領域別戦略 ... X https://x.com > @nekoruri",
+    "url": "https://x.com/nekoruri/status/2110618137544859862",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "What Is Vertical AI (and Why It Actually Matters) | Trace Cohen What Is Vertical AI (and Why It Actually Matters) | Trace Cohen LinkedIn https://www.linkedin.com > posts > tr...",
+    "url": "https://www.linkedin.com/posts/tracecohen_what-is-vertical-ai-and-why-it-actually-activity-7386424121263353856-Kam1",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Vertical AI surpasses SaaS in industries like healthcare, legal ... Vertical AI surpasses SaaS in industries like healthcare, legal ... LinkedIn https://www.linkedin.com > posts > b...",
+    "url": "https://www.linkedin.com/posts/bessemer-venture-partners_the-state-of-vertical-ai-activity-7367260176954920961-7Jdy",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The rise of vertical AI agents — and the big opportunity for ... The rise of vertical AI agents — and the big opportunity for ... LinkedIn https://www.linkedin.com > pulse > ri...",
+    "url": "https://www.linkedin.com/pulse/rise-vertical-ai-agents-big-opportunity-startups-geekwire-ibwsc",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "モニター価格 月5万円（税別）「社長のためのAI家庭教師」",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI関連事業へ約920億円を投資、成長を加速",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ovice、人数無制限・チャージ式のAI機能「My AI」を公開 リリース記念でGPT-6.1 Solを1組織あたり1万円分（税抜）まで無料に",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "小売本部の売上分析に関わる社員の5割弱は、売上分析で生成AIを組織的に使って いない職場で働いている！",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "月額5万円の「AI代行堂」の本格提供を開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "IDOM、商談領域のAIエージェント開発基盤にAgentforceを全面採用「自動 追客AIエージェント」で年間60億円の売上創出を目指す",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同月21日に政府の日本成長戦略本部が決定した官民投資ロードマップでは、2040年度までのバーティカルAIへの官民投資額を23.1兆円と想定し、経済波及効果は同年度までで222兆円を見込む",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして日本には、バーティカルAIを展開し、ARR100億円を公表した企業が2社あります",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年に約1兆円",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2030年には約3兆円超になる見通し",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界市場は2030年に33兆円と見積もり、そのうち",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "内外で少なくとも5兆円の獲得を目指す",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ホリゾンタルAI（全機能横断）が84億ドルで、前年比5.3倍",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "部門特化型AI（職種別）が73億ドルで、前年比4.1倍",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI（業界別）は35億ドル、前年比およそ2.9倍",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本成長戦略は、バーティカルAIの国内の市場が2030年に約3兆円になるという予測もあるとしたうえで、世界のバーティカルAIの市場のうち、5兆円以上を2030年に獲得する目標を掲げた（※3）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人工知能基本計画の注は、2040年度までのバーティカルAIへの官民の投資額を23.1兆円と想定している（※1）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和9年度（2027年度）の概算要求では、AXを実現するためにバーティカルAIの導入と開発・利用を進める新しい事業に、内閣府が約1,009億円を求めた（※11）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは｜官民投資ロードマップの目標5兆円・投資額23.1兆円・領域特化型AIの政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは｜領域特化型AIで2030年に内外5兆円の市場獲得とAXを目指す",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民投資ロードマップは、2030年に世界のバーティカルAI市場33兆円のうち内外で少なくとも5兆円を獲得し、産業や行政の現場でAIを軸とした経営改革（AX）を進めるとしました",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2030年に内外で少なくとも5兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年度までに23.1兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2040年度までに222.0兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内のバーティカルAI市場は2024年に約1兆円で、2030年には約3兆円になる見通しです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目標は、2030年に世界のバーティカルAI市場33兆円のうち、内外で少なくとも5兆円を獲得することです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民投資額は2040年度までに23.1兆円、経済波及効果は222.0兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "目標 ― バーティカルAIで2030年に内外で少なくとも5兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（２）官民投資の具体像 ①投資内容、②投資額（注１）、③定量的インパクト：投資による経済波及効果（注２）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（注１）官民投資額については、当該分野に見識のある学者、シンクタンク、企業関係者などにより構成される戦略17分野の各WGでの議論を踏まえ、「主要な製品・技",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当該官民投資額は、官民投資ロードマップ策定後も、１）予算編成の過程を通じて、新たな発想や視点に基づく真に効果",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（注２）経済波及効果については、各「主要な製品・技術等」の官民投資額及び当該官民投資による生産増加額をインプットとして、産業連関分析を実施して算出",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "的には、産業連関表を用いて、（１）当該製品・技術等に係る最終需要額（投資額・生産額）の増加が、生産工程の川上産業（部品、部素材、原料といった関連",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "20兆円の市場獲得を目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模として50兆ドルが見込まれるとの見方（NVIDIA社）もある",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "し、2040年に約60兆円規模へ成長すると見込まれる",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・現状、我が国は、ロボット分野のうち、産業用ロボット市場（約0.8兆円）で世界",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、サービスロボット市場（約2.8兆円）での世界シェアは１割強にとどまる",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2030年めど、市場規模15兆円達成へ スポーツビジネスの新展開",
+    "url": "https://www.projectdesign.jp/articles/3d5669ee-411f-4030-9630-b16308df150c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海外売上高20兆円時代へ、加速する成長戦略",
+    "url": "https://www.projectdesign.jp/articles/3d5669ee-411f-4030-9630-b16308df150c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The a16z Big Ideas 2026 report documented the progression across specific categories: healthcare, legal, and housing companies have already reached $100 million in annual recurring revenue within a few years, faster than any comparable cohort of vertical SaaS companies. The pattern of evolution has been consistent:",
+    "url": "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Industry research shows that 71% of CPG leaders had adopted AI in at least one business function in 2025, with measurable benefits including revenue growth and cost reduction.",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Northwood hits $2B valuation: Ex-Disney star’s ground station startup raises $375M from a16z and DFJ Growth",
+    "url": "https://techfundingnews.com/why-2026-ends-ai-experimentation-vertical-scale-human-hurdles/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The push toward AI sovereignty and homegrown innovation will continue, as reliance on a small number of global providers is considered untenable. Europe’s tech ecosystem is set to enter a growth moment in 2026, with its own set of tech champions fueling innovation pipelines.",
+    "url": "https://techfundingnews.com/why-2026-ends-ai-experimentation-vertical-scale-human-hurdles/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1.見本市によって、出展企業の売上げ拡大に貢献します",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GROWTH INDUSTRY CONFERENCE 2026",
+    "url": "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Growth就活DXPO’26【秋】",
+    "url": "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIが発注APIを呼べることと、その数量・価格・取引先で発注してよいことは違う",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "価格が変わるかもしれない",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIの国内市場規模は、2030年には約3兆円に達すると予測されており、官民の限られたリソースを集中的に投下することで、この成長市場での主導権を握る構えです",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "株式会社カナリーが不動産特化型AIへの進化を目指して2025年12月に約40億円を調達した事例のように、民間でも垂直統合型のビジネスモデルへの移行が加速しています",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIの国内市場は約3兆円規模への成長が見込まれていますが、この成長を支えるのは、日本の強みである現場データと、それを処理する国内のAIインフラ（データセンター、計算基盤、半導体）の強化です",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIロボティクス等の多用途ロボット市場は2040年には約60兆円に達すると予測されており、バーティカルAIで蓄積された現場の知見は、そのままロボットの知能として活用されます",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "中途社員（中途採用）",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Cognizant、企業が最先端AIを実運用に移行する中、OpenAI導入支援に2万5,000人超の専門家を投入",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "求人8.9万件の「JobLinks」、企業は求人票づくりをAIで、求職者は応募から面談予約・書類作成 まで最短で 採用する側と探す側の両方の手間を減らす仕組みを公開",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "複数ツールに分散した採用業務を一つに",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Zoth Consulting、応募から面接着座までを最速 化する採用AI「ゾスAI」を提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIエンジニアリング&セキュリティ企業「おもしろテクノロジー」がLIGHTzにグループイン",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "メーカー・卸売業向けAIエージェント（Intentia AI）を提供するIntentia、業務課題の無料相談とデータの簡易診断を開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "受発注や営業の「どこからAIを使えるか」を整理",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ハイクラスの約8割が「AIスキルは市場価値に影響する」と回答、一方で企業が求めるレベルとのギャップが明らかに",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "プリペアード 評判が高いAI通話録音・自動要約サービス「RecACE plus」、カスハラ対 応にも活用できるモデルケース企業を群馬県で初募集",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スマート工場",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "老舗園芸企業ScottsMiracle-GroのAI変革——土と肥料がデータで進化、コスト削減1.5億ドル達成",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法律AI企業Luminance、4000万ドル調達で業界変革へ",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「神はミクロンに宿る」─宇宙開発を支える姫路の町工場、佐藤精機の技術力",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIがある操作を実行できることと、その操作を企業として実行してよいことは同じではない",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％でした",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに、AI利用企業の57％は利用範囲が3つ以下の業務機能にとどまり、66％はAIをタスクそのものの代替ではなく、既存業務の補助として利用していました",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "EUでも2025年の企業AI利用率は19.95％、大企業では55.03％まで上昇しています",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、AI利用企業のうち物流用途で利用していた企業は6.08％でした",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIは企業システムへ着実に入り始めているが、企業業務全体がAIによって自律運転されているわけではない",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIが文章を生成するだけなら、最終的に人間が読んで採用しなければ状態は変わりません",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "配送計画を正式採用する",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "、より広く言えば「そのActionを企業行為として成立させてよいか」という問題になります",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIが発注APIを呼べることと、その数量・価格・取引先で発注してよいことは違います",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "齊藤企画官は、「品質管理（QC）活動などを通じて日本企業の現場には細かな知見が蓄積されており、これをAIに取り込めば質の高いサービスをつくれる」という",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "JPモルガンやロッキードにみるAI導入「4原則」、日本企業への示唆",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大手ITの下請けで働くエンジニア、顧客先で「社員」と紹介されて違和感",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NVIDIAの直流800V給電構想 参画企業2倍、電力インフラ大手も加勢",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レノボとニデックが水冷サーバー販売で連携、狙うは企業内AIサーバー需要",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカルAI半導体、鍵は「低遅延と拡張性」 川崎重工が採用決めた国内新興",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "テスラ最大の競合、NVIDIAに車メーカーが殺到 E2E自動運転の基盤争い",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日建連と不動協の協議 育成費の発注者負担に前向き意見、現場閉所で平行線",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国勢のチェコ原発受注に亀裂…工事費とリスク負担で施工交渉決裂",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スマート工場",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そして日本には、バーティカルAIを展開し、ARR100億円を公表した企業が2社あります",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Shopify、Toast、Procore、ServiceTitanといった垂直SaaS企業を早くから支援してきた米国のベンチャーキャピタル、",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "従来の垂直SaaSは、企業のIT予算という限られた財布の中で戦っていました",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人間とAIの役割の違い、そして顧客への提供形態の違いとして見ていきます",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "比較的、導入しやすい型です",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中身にAIを使っているかどうかは、顧客にとっては本質ではありません",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "単純な転記ミスのチェックから、企業固有の規程に基づく費用の妥当性確認まで、ワンストップで完結させる",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "顧客に何を売るのか——ソフトか、結果か",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "まず、バーティカルAIが各現場に導入される",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CRMは一般に、顧客の情報や取引の記録を管理する仕組みを指す",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人工知能基本計画は、先に導入が進むバーティカルAIが現場の経験や知識をデータにしてため、続くフィジカルAIがそうしたデータやAIの判断を、機械や装置を使って現実の世界での動きに移すとしている",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国の投資会社ベッセマーは、2024年6月20日の報告「State of the Cloud 2024」で、英語の「Vertical AI」の語を使い、バーティカルAIの企業の時価総額がこれまでの業界向けのソフトの企業の少なくとも10倍になると予測した（※6）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和9年度（2027年度）の概算要求では、AXを実現するためにバーティカルAIの導入と開発・利用を進める新しい事業に、内閣府が約1,009億円を求めた（※11）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIの語が指す範囲と導入の課題",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "課題は、AI実装人材や中小企業への伴走支援の不足、現場固有データの活用不足、計算資源の不足、AXへの理解不足とAIリスクへの懸念です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政策パッケージには、中小企業を含めたバーティカルAIの導入支援と「地域AX」の推進、政府による率先導入、AISIの機能強化などが入っています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自治体は、行政の現場でのバーティカルAIの導入と、地域の中小企業のAXの支援で、この流れに直接参加できます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "データ・モデル・アプリを垂直統合した「現場で使えるAI」であるバーティカルAIを、重点領域ごとの戦略で産業や行政に広げ、AIの導入で人手不足を解消し日本社会全体のAXを実現する計画です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・AI研究開発人材、現場とAIの双方を理解して、AXを推進できる実装人材や中小企業伴走支援の不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・中小企業を含めた産業や行政でのAXの促進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・政府による率先導入と制度改革による初期需要創出",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・AIの導入で人手不足を解消",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中小企業を含めた産業や行政でのAXの促進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "つまり、自治体の業務そのものが、バーティカルAIの導入先として国の戦略に位置づけられているのです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "①植物工場 ・・・p.279",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（注１）官民投資額については、当該分野に見識のある学者、シンクタンク、企業関係者などにより構成される戦略17分野の各WGでの議論を踏まえ、「主要な製品・技",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "アドバンスト・メディア、コンタクトセンター向け「業務支援AI」市場で シェアNo.1（※1）を獲得",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ヒューマネージが提供する業界シェアNo.1の採用管理システム『i-web』、次世代版対話型AI面接サービス『SHaiN』との連携を開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Tin Men Capitalが主導し、ビジョンAIスタートアップのAilyticsがアジア太平洋、米国、湾岸地域への事業拡大を目指し、740万米ドルのシリーズA資金調達を実施",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国発・海洋AIoTスタートアップ「ODN（オーデン）」が日本参入",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NVIDIA と半導体業界のリーダー、AI デファインド ファブに向けてチップ設計と製造全体で AI の活用を推進",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカルAI監視装置の基本特許を日本・米国・中国で取得 自動運転車・警備ロボット ・ドローン・スマートシティ向けにライセンス提供を開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ｕｇｏ、「AI×サービスロボット」領域の製造業(4分野)・点検保守用途市場で売上シェアNo.1 を獲得",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "VUSSENS、米ニュージャージー州に米国本社を設立 AIを活用したグローバル美容市場分析プラットフォームを正式ローンチ",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "普段使いのAIに話しかけるだけでテレビの“今”を即リサーチ！インフィニマインド、テレビ解析AI「TVPulse」のMCP連携を開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国の金融AIスタートアップNeurofusion、CEATEC 2026に出展",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Microsoft、Dragon Copilot拡張を一般提供｜米国の医師向けから",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "X（Twitter）でシェアする",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Facebookでシェアする",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％でした",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Responsibility Layerは、これらの既存技術と競合するものではありません",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国NISTは、AIエージェントへデータ、ツール、アプリケーションへのアクセスを与えることを前提に、識別、認可、監査、否認防止などを検討対象にしています",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Facebookでシェア",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "LinkedInでシェア",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この記事をシェア",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次の半導体大国、インド",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国車がフラッグシップ戦略で欧州攻略、現地生産で関税回避へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "岐路に立つデンソー、新たな競合はテックジャイアント トヨタの将来左右",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "テスラ最大の競合、NVIDIAに車メーカーが殺到 E2E自動運転の基盤争い",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "モメンタ日本へ急接近、テスラに迫れるか 中国E2E自動運転トップの技術力",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国で相次ぐ「499戸・999戸」マンション…1戸の差で認証義務の対象外に",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国勢のチェコ原発受注に亀裂…工事費とリスク負担で施工交渉決裂",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "答えを探して、政府の資料と、米国のベンチャーキャピタルが出した2本のレポートを読み比べました",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Shopify、Toast、Procore、ServiceTitanといった垂直SaaS企業を早くから支援してきた米国のベンチャーキャピタル、",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Bessemerの概算では、ビジネス・専門サービス業は米国GDPの13%を占め、これはソフトウェア市場の、およそ10倍にあたります",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Menlo Venturesという米国のベンチャーキャピタルが、2025年12月に「2025: The State of Generative AI in the Enterprise」という調査レポートを出しています",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国企業の意思決定者495人",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この調査のサンプルは米国企業に限定されています",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年、米国企業の生成AI支出は",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Menloの米国調査で見る限り、2025年時点では、その逆方向に動いています",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国企業の調査であって、日本の実態とも違う",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Menloの35億ドルも、米国企業に限った推計であり、集計の範囲は狭い",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国の投資会社のベッセマー・ベンチャー・パートナーズは、これまでの業界向けのソフトや業界を問わない汎用のツールと比べて、バーティカルAIを説明している",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国の投資会社ベッセマーは、2024年6月20日の報告「State of the Cloud 2024」で、英語の「Vertical AI」の語を使い、バーティカルAIの企業の時価総額がこれまでの業界向けのソフトの企業の少なくとも10倍になると予測した（※6）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "並ぶ第三極として世界シェア3割超の獲得を通じて、2040年に",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "シェア約7割を有し、モーター、減速機等の主要コンポーネントでも高い競争力を持",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、サービスロボット市場（約2.8兆円）での世界シェアは１割強にとどまる",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " 現状、我が国は、産業用ロボット市場で世界シェア約7割を有し、モーター、減速機、センサー、蓄電池等の主要部品でも高い",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "して、世界シェア3割超の獲得",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・かつて我が国半導体産業は世界シェアの約50％を誇ったが、日米貿易摩擦、日の丸",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・半導体設計は米国、製造は台湾、製造装置は日本・米国・欧州、部素材は日本に強",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・市場：中国企業の競争力向",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上に伴う中国向け市場の縮",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": " かつて我が国半導体産業は世界シェア約50％を誇ったが、日米貿易摩擦や国内のデジタル化低迷等を背景に凋落し、現在は10％",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％だった",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上の六つは、Responsibility Layerと競合するものではない",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国NISTは、AIエージェントへデータ、ツール、アプリケーションへのアクセスを与えるリスクを取り上げ、識別、認可、監査、否認防止を検討対象として明示している",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【米国】（7月1日～7月31日）",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（2026/07/17）米国CAISI、ZAIのGLM-5.2に対する評価を実施",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（2026/07/22）米国トランプ政権、AI for Scienceに関する国家ミッション「Genesis Mission」に50億ドル以上を投資すると発表",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年7月22日、 米国トランプ政権は、AI for Scienceに関する国家ミッション「Genesis Mission」に50億ドル以上を投資すると発表した",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【欧州】（7月1日～7月31日）",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（2026/07/23）英国AISI、米国CAISI、Kimi K3サイバー能力の予備評価を実施",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年7月23日、英国AISI、米国CAISIは、Kimi K3サイバー能力の予備評価を実施した",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "共同評価の結果、Kimi K3のサイバー能力は、米国の最先端クラスのクローズドウェイトモデルには及ばない結果となった",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【アジア（中国、韓国、インド、シンガポール）】（7月1日～7月31日）",
+    "url": "https://aisi.go.jp/activity/activity_information/260807/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "AIマネジメントシステムの国際規格「ISO/IEC 42001」認証を取得",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自治体における脱炭素化推進に向け、生成AIを活用した新たなコンサルティング手法（地 方公共団体実行計画区域施策編）を確立",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic 社「Claude」の「認証済み」コネクタとして掲載",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「閉域網×生成AI」の官公庁向け大型プロジェクトを正式受注 ～NHN テコラスとRagateが共同提 案から開発まで伴走～",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "歩くだけで0.03秒の出席確認！共創未来の「顔認証出席管理システム」がトライアルキャ ンペーン実施中！お問い合わせも増加中！",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "在庫・納期・売上を自然な言葉で検 索・集計",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アスエネ、「ASUENE」「ASUENE SUPPLY CHAIN」のAIマネジメントシステムで国際規格「ISO/IEC 42001 」認証を取得",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国税庁のシステム「KSK2」で手続き遅延が1カ月継続、国税労組は解決を要求",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIで激化するサイバー攻撃、矛先は製造業へ 防御対象選定とBCPが急務",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "韓国で相次ぐ「499戸・999戸」マンション…1戸の差で認証義務の対象外に",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和9年度（2027年度）の概算要求では、AXを実現するためにバーティカルAIの導入と開発・利用を進める新しい事業に、内閣府が約1,009億円を求めた（※11）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "令和9年度AI関連予算要求について",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・エージェント型AIを含めた、政府によるバーティカルAIの率先導入、所要の制度改革や技術標準・認証の整備を一体的に推進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・AIのリスクへの包括的対応（AISI※の機能強化、サイバー攻撃対応を含めたAI安全性・セキュリティや信頼性に係る評価手法・基盤の開発・提供、サイバー関連データの集約、セキュアなAI利用環境の検討・具体化、偽・誤情報対策、AIガバナンスや安全性認証制度の整備、意思決定に係るAIのルール形成）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "し、重要なコンポーネントの開発・製造能力やOEM機能を強化",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・AIロボットのOEMや重要コンポーネントの開発・製造機能",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スタートアップからの発展を念頭に、多用途ロボットOEMの育成を推進",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・ティーチングカスタマーやOEM等と協働し、工場、物流、小売、防災、介護、家庭、廃炉等への導入を念頭にモックアップ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "性認証制度や安全規制の在り方をAISIと連携しながら検討",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グカスタマー、OEM、ユー",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ロボットOEMの育成や、",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "や技術標準・認証の整備を一体的に推進",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "対策、AIガバナンスや安全性認証制度の整備、意思決定に係るAIのルール形成）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 国内のデータ連携のためのトラストサービスを体系化するとともに、国が整備する法人トラスト認証の仕組",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "EU AI Actでも高リスクAIに対し、活動ログ、人による監督、堅牢性、サイバーセキュリティ、精度などを要求する方向が明示されている",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "EU AI Actでも高リスクAIに対し、活動ログ、人による監督、堅牢性、サイバーセキュリティ、精度などを要求する方向が明示されている",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "2026年 のVertical AI を3層で整理する - Qiita — 2026年 のVertical AI を3層で整理する - Qiita Qiita https://qiita.com > AIガバナンス",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... — 領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... 日経クロステック https://xtech.nikkei.com > 3分でわかる必修ワード IT",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高市政権が「 バーティカルAI 」推進、戦略19分野に官民集中投資 — 高市政権が「 バーティカルAI 」推進、戦略19分野に官民集中投資 ビジネス+IT https://www.sbbit.jp > IT戦略 > AI・生成AI",
+    "url": "https://www.sbbit.jp/article/cont1/186078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... — バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (1) AI・半導体",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年 、 バーティカルAI の達成点・限界点・突破点 - Zenn — 2026年 、 バーティカルAI の達成点・限界点・突破点 - Zenn Zenn https://zenn.dev > ghostdrift > articles",
+    "url": "https://zenn.dev/ghostdrift/articles/47218bcbc0749e",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "社会実装から見る バーティカル AI の可能性 - 大和総研 — 社会実装から見る バーティカル AI の可能性 - 大和総研 大和総研 PDF https://www.dir.co.jp > japan > 20260930_026094",
+    "url": "https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカルAI ・ バーティカルAI とは（日本成長戦略 全文と解説） — フィジカルAI ・ バーティカルAI とは（日本成長戦略 全文と解説） 日本DX地域創生応援団 https://digital-supporter.net > seichou17 > ai-handoutai",
+    "url": "https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Vertical AI in 2026 : What Makes a Defensible AI Company and ... — Vertical AI in 2026 : What Makes a Defensible AI Company and ... advisable.com https://www.advisable.com > insights",
+    "url": "https://www.advisable.com/insights/vertical-ai-2026-defensible-ai-company-investors-will-no-longer-fund",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "What to expect from Vertical AI in 2026 - Aforza — What to expect from Vertical AI in 2026 - Aforza Aforza https://aforza.com > what-to-expect-fr...",
+    "url": "https://aforza.com/what-to-expect-from-vertical-ai-in-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年 の Vertical AI を3層で整理する - Qiita — 2026年 の Vertical AI を3層で整理する - Qiita Qiita https://qiita.com > AIガバナンス",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Why 2026 ends AI experimentation? Experts bet on vertical ... — Why 2026 ends AI experimentation? Experts bet on vertical ... Tech Funding News https://techfundingnews.com > why-2...",
+    "url": "https://techfundingnews.com/why-2026-ends-ai-experimentation-vertical-scale-human-hurdles/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "人材育成・研修・経営",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法人研修・人材育成",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エディフィストラーニングとDASA Japan、AI時代の変革人材を育成する「FDE人材育成研修」を提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "OBC、根拠に基づいた人材活用をサポートする“実践型”『奉行AIエージェント 人材活用クラウド』を発売",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "World Edu Bridge、外国人材向けAI日本語学習サービス「Tomodachi」を提供開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【那覇商工会議所】人手不足を乗り越える！生成AIと多様な人材活用セミナーを12/17(初級編)・1/19(中級編)に開催",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ポーターズ、人材紹介スタートアップの成長を支援",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "松尾研究所、障がい者雇用の現場にフィジカルAI活用へ エスプールと共同プロジェク トを開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "障がい者雇用の現場にフィジカルAI活用へ、エスプールと松尾研究所が共同プロジェク トを開始",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "スマートスケープ、生成AI人材育成に向けた225時間の実践型インターンシップを実施",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現場とAIの技術の両方の知識を持つ人材が足りないことにも、中間とりまとめは触れている",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "製造の領域の節でも、中間とりまとめは、現場の工程や品質の保証を理解したうえでAIで解く課題を決め、実装して運用まで受け持つ人材が足りないと指摘している（※2）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI実装人材",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI Academy（アガルート） AI人材コース",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "課題は、AI実装人材や中小企業への伴走支援の不足、現場固有データの活用不足、計算資源の不足、AXへの理解不足とAIリスクへの懸念です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "投資促進に向けた課題 ― AI実装人材・データ・計算資源とAIリスク",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "データ・モデル・アプリを垂直統合した「現場で使えるAI」であるバーティカルAIを、重点領域ごとの戦略で産業や行政に広げ、AIの導入で人手不足を解消し日本社会全体のAXを実現する計画です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・AI研究開発人材、現場とAIの双方を理解して、AXを推進できる実装人材や中小企業伴走支援の不足",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人材、データを含めたAI基盤への官民投資を促進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・研究開発の担い手の育成・確保、世界から優秀な「知」が集まる機能の創設",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・AIの導入で人手不足を解消",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・経済的重要性：バーティカルAIそのものへの直接投資に加え、計算基盤やネットワーク、人材等への誘発効果、更にユーザー産業において、省人化のみならず、生産性の向上や新事業創出、GDPの押上げに寄与",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人手不足に直面する我が国の供給力を維持し、力強い成長につなげるために、中小企業を含めて、あらゆる産業や行政の現場でのバーティカルAIの導入を促進",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・産業や行政の現場とAIの双方を理解してAXを推進できるAI実装人材を大規模に育成",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・構造的な人手不足を背景とする潜在的な導入需要を顕在化させ、",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人手不足の解消・生産性向上により、産業競争力の強化",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・戦略的重要性：フィジカルAI導入による省力化を通じ構造的人手不足の解決に貢献",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "検証・試験設備を活用しながら、ロボットを導入してデータ収集、検証、標準化、人材育成を同時に進める社会実装のハブ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "となる環境を構築することで、世界から優秀な人材が集まるAIロボティクスのCenter of Excellenceやテストベットを創設",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・産学官が連携したハッカソンやコンペティション等の人材育成の取組を検討",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人材：AIとロボット双方の",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・加えて、規模拡大や産業集積に向けて必要となるインフラや人材育",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人材：研究開発人材・現場",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "に関する人材の不足は喫緊",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI時代の人材・組織改革EXPO",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "L AIなどを活用して業務・人材・組織を変える",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIの活用・人材育成",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIなどを活用して 業務・人材・組織を変える",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜AI＞＜ブロックチェーン＞＜量子コンピュータ＞＜ヒューマノイドロボット＞＜フィジカルAI＞＜XR産業活用＞の最新テクノロジーと、＜AI時代の人材育成・組織改革＞に必要とされるサービスが出展する、７つの展示会で構成",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI時代の人材戦略・組織改革を本気で進める企業のための専門展",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "デジタル人材育成支援EXPO」は2026年より『AI時代の人材・組織改革 EXPO』として開催いたします",
+    "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年展は「AI業務改革EXPO」「AI開発技術展」「AI人材育成EXPO」「AIセキュリティ・ガバナンスEXPO」の4展で構成される",
+    "url": "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年夏の東京開催では、AIと対話しながら専門的なプログラミングなしでAIエージェントやWebアプリを作れるサービスや、業務特化型AIエージェント、完全閉域型AI基盤からAIガバナンス・人材育成までを一列につなげたデモ展示など、「AIを導入する」段階から「安全に会社全体へ広げる」段階への進化がうかがえた",
+    "url": "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "構成展：AI業務改革EXPO、AI開発技術展、AI人材育成EXPO、AIセキュリティ・ガバナンスEXPO",
+    "url": "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第5回 AI時代の人材・組織改革EXPO【秋】",
+    "url": "https://www.event-marketing.co.jp/schedule/ai-world-2026-autumn-tokyo/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "医療・介護領域では、人手不足が深刻な現場を支えるため、医師の記録業務の自動化や電子カルテとAIエージェントの連携を可能にする標準規格の策定が進められています",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI時代を支える人材育成と人間力の向上",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIを安全かつ効果的に運用するためには、AIの仕組みと各産業のドメイン知識を兼ね備えた「AI実装人材」の確保が不可欠ですが、現状では質・量ともに不足しています",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "2026年、バーティカルAIの達成点・限界点・突破点｜株式会社AIアシュアランス",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年、バーティカルAIの達成点・限界点・突破点",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "IntelligenceからActionへ。その次に必要になる「Responsibility Layer」と責任OS",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年、バーティカルAIはどこまで来たのか。",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「業界特化型のAIが普及した」とだけ捉えると、現在起きている変化を過小評価する。一方で、「AIが企業業務を自律的に遂行できるようになった」と言い切れば、実態を過大評価する。",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％だった。しかもAI利用企業の57％は三つ以下の業務機能での利用にとどまり、66％はAIをタスクの代替ではなく補助だけに使っていた。EUでも2025年の企業AI利用率は19.95％で、大企業では55.03％まで上昇している一方、AI利用企業のうち物流用途で使っていた企業は6.08％だった。調査方法は異なるため単純比較はできないが、AIは企業活動へ着実に入りながらも、全面的な業務自律化にはまだ距離がある。",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "NISTは2026年、AIエージェントを「自律的な行為が可能な次世代AI」と位置づけ、その相互運用性とセキュリティのための標準化イニシアティブを開始した。日本政府も第Ⅱ期人工知能基本計画で、AIが「業務を支援するツール」から「意思決定・実行を担う主体」へ進化していると整理し、バーティカルAIとフィジカルAIを日本の重点領域に据えている。",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIが業界を理解する段階から、業務の中で行為する段階へ進んだ年",
+    "url": "https://note.com/legit_cobra5046/n/nc63e9514cd5c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【解説】政府、「バーティカルAI」推進｜Yoshi_it",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1. 政府による「バーティカルAI」推進の全容",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2. 次世代AIの核心「バーティカル」と「エージェント」",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIがもたらす現場で使える価値",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自律的にタスクを遂行するエージェント型AIの台頭",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "3. 19分野における重点支援領域と具体的施策",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4. 社会実装を阻む課題と信頼構築の枠組み",
+    "url": "https://note.com/natty_toucan386/n/n71569e37eb2b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "AI・生成AIに関連するニュース一覧（2026年10月）",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "IT・DX・AI最新トレンドメディア",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AI研修",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIエンジニア向け法人研修",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法人向けAI開発研修",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "補助金を使える「生成AI」研修",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "法人向け自動化研修",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI・生成AI",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "開発ツール・OS・インフラ",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AI時代の学びとキャリア",
+    "url": "https://trends.codecamp.jp/blogs/media/it-news-ai-2026-10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI – innovaTopia",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI（人工知能）",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AIガイド",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ソブリンAI（AI主権）",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "XAI（説明可能AI）",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "RAI（責任あるAI）",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカルAI",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "OpenAI",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI",
+    "url": "https://innovatopia.jp/tag/vertical-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIが「実行できる」と「実行してよい」は違う――2026年のVertical AIを3層で整理する #AIガバナンス - Qiita",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI x Dev x Team",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIが「実行できる」と「実行してよい」は違う――2026年のVertical AIを3層で整理する",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIアシュアランス",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIガバナンス",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Intelligence / Action / Responsibility から見る、バーティカルAIの達成点・限界点・次の設計領域",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年、Vertical AI（バーティカルAI）はどこまで来たのでしょうか",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この記事では、現在のVertical AIを単なる「業界特化型LLM」としてではなく、",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "結論を先に書くと、2026年の大きな変化は、AIが",
+    "url": "https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIエフェクト",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI・データラボ／日経クロステック記者",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI（Vertical AI）とは、金融や製造、医療など特定の産業・業務領域に特化し、その現場ごとの課題を解くAI（人工知能）システムを指す",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIは、領域固有のデータやルールをつないで業務を動かす点が重要になる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府はバーティカルAIを「データ、AIモデル、アプリを垂直統合した領域特化型システム」と定義する",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "関連施策は内閣府が旗振り役となって進めており、同府の齊藤大地科学技術・イノベーション推進事務局人工知能政策推進室企画官は「特定の業務を便利にするAIではなく、AIを前提に業務そのものを置き換えていくものだ」と説明する",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "領域固有の課題に対し、業界独自のデータやルールを使って業務を進める点がバーティカルAIの特徴だ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方、メールの作成や会議の要約のように業種を横断して使える用途は「ホリゾンタルAI（Horizontal AI）」に近い",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは何か｜「IT予算ではなく人件費」を狙う領域特化型AIの正体",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI（人工知能）",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "生成AIガイド",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ソブリンAI（AI主権）",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "XAI（説明可能AI）",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "RAI（責任あるAI）",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "フィジカルAI",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "OpenAI",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI（人工知能）ニュース",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI（Vertical AI）とは・意味、ほかのAIとの違い・領域別戦略 - Harch AI Lab",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Harch AI Lab",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AI Learning & Research Media",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI（Vertical AI）とは・意味、ほかのAIとの違い・領域別戦略",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは？",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAIとは、製造、医療、金融、行政など特定の業界や業務に絞り、その現場のデータや知識を生かして作るAIのこと",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "英語の表記は「Vertical AI」",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の政府の資料では「領域特化型AI」とも書かれる（※3）",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バーティカルAI領域別戦略 中間とりまとめ",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "」は、バーティカルAIを、特定の領域に特化してデータとAIのモデルとアプリを垂直に統合したシステムと説明している",
+    "url": "https://harch.jp/ai/glossary/vertical-ai",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-04T01:10:52.394921+00:00"
+}

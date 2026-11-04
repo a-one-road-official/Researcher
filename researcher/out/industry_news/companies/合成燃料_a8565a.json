@@ -1,0 +1,5633 @@
+{
+ "name": "合成燃料",
+ "en": "e-fuels",
+ "aliases": [
+  "e-fuel",
+  "SAF",
+  "合成メタン"
+ ],
+ "context": "12 GX ②水素等",
+ "kind": "market",
+ "researched_at": "2026-11-04T01:13:52.122263+00:00",
+ "evidence": {
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "2024年5月には、米国やチリ、ウルグアイに工場建設を計画する米国HIFグローバル社に約180億円を出資すると表明",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "まで水素価格が下がると、e-fuelのコストは約200円/Lとガソリン価格に近くなる",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（0℃、1気圧）と試算され、現在のLNG価格の5倍と高価で商用化には低コスト化が必須である",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "で、ルイジアナ州のLNG基地周辺に2029年の操業をめざし数百億円を投じて東邦ガスの製造プラントを設置し、液化して愛知県に海上輸送する",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ｅ-メタンは価格がLNGの約5倍と割高なため、愛知県知多市の主力拠点でLNGが気化する際の膨張力で電気を生み出してグリーン水素を製造する実証実験を実施している",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現時点では水素の調達コストが課題で、メタンの価格は既存品と約10倍の差がある",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素発電 ➢ 水素専焼火力の技術開発、水素インフラの整備が課題 水素価格約13円/Nm3",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "*水素発電のパリティはLNG価格が10MMBtuの場合、水素還元製鉄は第11回CO2フリー水素WGの資料",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "FCV 水素価格約90円/Nm3",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ガソリン価格が142.8円/Lの時を想定（詳細は第11回CO2フリー水素WGの資料を参照）",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素価格に大きく依存するが、現時点の試算では約300円～700円／ℓと高額",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金事業：CO2等を用いた燃料製造技術開発（予算額：上限1152.8億円）",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "575.6億円",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "299.5億円",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "242.2億円",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "35.5億円",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料市場は2025年に518億7,000万米ドルと評価され、2026年には548億米ドルに成長し、CAGR6.03％で推移し、2032年までに781億9,000万米ドルに達すると予測されています",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CAGR（%） 6.03%",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CAGRは6.03%です",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "英国、CCUS補助金を約420億円削減 Acornは融資・出資での支援検討へ",
+    "url": "https://carboncredits.jp/global/skytree-galetech-mwahera-dac-efuel-kenya/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "円高・円安水準 49.43 円（円安傾向）",
+    "url": "https://pps-net.org/press/124571",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GDP 598.95 兆円(2026Q2)",
+    "url": "https://pps-net.org/press/124571",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "低圧系統用蓄電所の最新動向【第3回】上限価格10円へ 低圧系統用蓄電所の収益とリスク",
+    "url": "https://pps-net.org/press/124571",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "HIF Global社の一部株式取得を出資対象事業として採択し、出光興産と合わせて約225億円を出資",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "150百万米ドル（日本円で約225億円（1ドル150円換算））",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約７兆円～の投資を実施",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大規模かつ強靭なサプライチェーン構築 約5兆円～",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インフラ整備・既存設備改修 約1兆円～",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の技術的優位性確保に向けた研究開発、国内先進研究拠点の整備 約1兆円～",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "蓄電池・材料の製造工場投資 約4兆円～",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発（次世代蓄電池・材料・リサイクル技術） 約3兆円～",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "9 https://cinea.ec.europa.eu/news-events/news/cef-transport-over-eu1-billion-requested-alternative-fuel-",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/03/JPEC_report_No.260301.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "scale SAF production facilities (approx. 300 billion",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/05/JPECForum_2026_program_001.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "USD 8.75 billion in 2024",
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "11.74 billion in 2025",
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "USD 87.92 billion by 2032",
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(E-Fuel Market Size, Share & Industry Analysis 2024-2032, Fortune Business Insights, 2024)",
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "$49.4 billion by 2030",
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "E-fuel Market Size, Share & Industry Analysis Report, 2032",
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(up to USD 0.85 billion)",
+    "url": "https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Green Growth Strategy (2021.6)",
+    "url": "https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "strengthening industrial competitiveness and realizing economic growth, aiming for more than 150 trillion yen of public",
+    "url": "https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年間26兆円の「出血」を止められるか ── 原子力＋合成燃料＋フィジカルAIで描く、日本再設計の未来予想図｜こまさか とも",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年間26兆円の「出血」を止められるか ── 原子力＋合成燃料＋フィジカルAIで描く、日本再設計の未来予想図",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ガソリンの小売価格が（だいたい、高くても）170〜180円/リットルの世界で、約4倍です",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "全体の約90%が水素の調達コストであり、水素製造（水電解）のコストの大部分は、投入する電力の価格そのものです",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ただし、水素コストの低減だけで合成燃料が化石燃料と価格で並ぶかどうかは、FT合成プロセス自体の効率改善や設備コストの低下にも依存します",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "それでも政府目標の合成粗油200円/Lに近づく方向性は見えており、カーボンプライシングとの組み合わせで化石燃料との実質的な価格差が縮小していく可能性はあります",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "片山さつき財務相が2026年3月の閣議後会見で、イラン情勢の悪化に伴う原油高を受けて「断固たる措置も含めしっかり対応する」と為替介入を辞さない姿勢を示したのも、この構造的なエネルギー脆弱性の中でのことです",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第5章 日本の二重苦 ── 年間26兆円の「出血」と260万人の「欠落」",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "26兆円の出血",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本は2023年、化石燃料の輸入で約26兆円を海外に支払いました",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "実際、近年の国際情勢では、原油価格の急騰や供給不安が頻繁に発生しており、日本経済にとって深刻なリスクとなっている",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現時点では、製造コストは1リットルあたり約700円とされており、現在のガソリン価格（約170円）の4倍以上に達している",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため、水素の価格も海外と比較して割高になりやすい",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、「2050年にはガソリンと同等価格になる」という予測も存在するが、これはあくまで技術革新と量産効果が計画通りに進んだ場合の前提に過ぎない",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "あなたは今、ガソリン価格の高騰やホルムズ海峡の緊張ニュースを見て、「日本は本当に石油に依存し続けるのか？」と胸騒ぎを覚えていないだろうか",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "理由は建設コスト・グリーン水素価格の高騰",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模予測は成長（2024年約4.5億USD、2034年33億超、CAGR23.6%）だが、主に航空・海運向け",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "再エネ電力価格が十分低下し、水素コストが20円/Nm³前後になれば商用化加速（政府目標2050年200円/L前後）",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "年間26兆円の「出血」を止められるか ── 原子力＋合成燃料＋フィジカルAIで描く、日本再設計の未来予想図｜こまさか とも",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年間26兆円の「出血」を止められるか ── 原子力＋合成燃料＋フィジカルAIで描く、日本再設計の未来予想図",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは政策提言でもポジショントークでもありません。ひとりの人間が、公開されているデータと技術動向を組み合わせて描いた「個人的な未来予想図」です。",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年3月末、片山さつき財務相がX（旧Twitter）上で合成燃料（e-fuel）について言及し、「勝ち筋を見極めて重点投資」と述べたことが話題になりました。ENEOSが横浜の中央技術研究所で日量1バレル（約159リットル）規模の合成燃料を実証製造しているニュースとも重なり、「日本の反撃」という言葉がSNSで飛び交いました。",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし同時に、ENEOSは2025年10月、日量300バレル規模のパイロットプラント建設計画を中止し、バイオ系合成燃料への方針転換を発表しています。「期待」と「現実の壁」が同時に見えるこの状況の背景には何があるのか。",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "私がこの話題に惹かれたのは、合成燃料という一つの技術トピックの背後に、エネルギー安全保障、原子力政策、人口減少、AI・ロボティクスという日本が抱える複数の構造的課題が全部つながって見えたからです。",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "それぞれの要素は既に多くの人が論じています。しかし、これらを一本の線で結んだとき、意外なほど整合的な",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "楽観に偏るつもりはありません。この技術が抱える本質的な弱点やリスクも率直に書きます。その上で、この未来予想図を共有する価値はあると考えました。",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【エネルギー】合成燃料（e-fuel）の可能性と現実（2026.4.8）｜岡本編集部",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【エネルギー】合成燃料（e-fuel）の可能性と現実（2026.4.8）",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "e-fuelの強み：既存インフラを活かせる",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "近年、次世代エネルギーとして「合成燃料（e-fuel）」が世界的に注目を集めている。",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは一言でいえば、「大気中のCO₂と水から合成される液体燃料」であり、従来のガソリンや軽油と同様に既存のエンジンでそのまま使用できるという特徴を持つ。",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "つまり、ガソリンスタンドや自動車のエンジンを大きく改修することなく導入できる点が最大の利点であり、「インフラそのまま」で脱炭素化に貢献できる技術として期待されている。",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "背景には、日本特有のエネルギー事情がある。",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本のエネルギー自給率は長年にわたり約10％前後と低水準にとどまり、エネルギーの大半を海外輸入に依存している。",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の人工石油（合成燃料・e-fuel）2026年現在地：夢の産油国への岐路、非線形エネルギー革命の全景｜TWLV32",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の人工石油（合成燃料・e-fuel）2026年現在地：夢の産油国への岐路、非線形エネルギー革命の全景",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年の「現在地」スナップショット：実証から戦略的再調整へ",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "タイムラインとターニングポイント（非線形キーイベント）",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ユースケース・ビジネスハック・ライフハック",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "あなたは今、ガソリン価格の高騰やホルムズ海峡の緊張ニュースを見て、「日本は本当に石油に依存し続けるのか？」と胸騒ぎを覚えていないだろうか。2026年、日本は「人工石油」の実証段階を越え、商用化への複雑な分岐点に立っている。これは単なる技術ニュースではない。エネルギー安全保障、気候変動、経済構造、日常の移動・物流までを巻き込むシステムレベルの転換だ。",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この記事は直線的時系列ではなく、多角的に深掘りする。タイムラインを散りばめ、ビジネス/ライフハックを挿入し、脆弱性とモートを描き、最後に「納得のループ」で締めくくる。Note読者のあなたが、読み終えた瞬間に「行動したくなる」ように設計した。",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "また、E20の認証制度にかかる議論を速やかに開始し、車両開発等のリードタイムを十分に確保した上で、2030年代のできるだけ早期に、乗用車の新車販売におけるE20対応車の比率を100%とすることを目指します",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上記方針を踏まえ、2025年6月10日に、総合エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会において、ガソリンへのバイオエタノール導入拡大に向けたアクションプランを策定しました",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "総合エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エンジン車でも脱炭素？グリーンな液体燃料「合成燃料」とは（2021年7月8日）",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社グループのカーボンニュートラル基本計画において、合成燃料は重要な脱炭素施策の一つに位置付けられている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "輸送分野の脱炭素化が求められる中、合成燃料は電動化が難しい分野を中心に、ネットCO₂排出量の少ない実用的な解決策として注目を集めている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同協業は、国境を越えたパートナーシップが新しい技術の普及を加速させ、既存の車両フリートおよびインフラの脱炭素化を支える具体的な実例となる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基準・認証、ルール形成戦略",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基準・認証、規制",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "循環経済、脱炭素化",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "こうした低炭素メタノールは一般に、大型船舶燃料を脱炭素化する上での活用期待が高い",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この観点からは、国際海事機関（IMO／国連の専門機関）が進める海運分野の脱炭素化の枠組み「Net Zero Framework（NZF）」の採択に注目が集まっていた",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "単著『メキシコ経済の基礎知識』、共著『グローバルサプライチェーン再考: 経済安保、ビジネスと人権、脱炭素が迫る変革』、『NAFTAからUSMCAへ－USMCAガイドブック』など",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料導入の現状（1）運輸脱炭素化にバイオ燃料の選択肢",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SAF導入へ、シンガポールの航空脱炭素化の取り組み",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "期待の高まる合成燃料（e-fuel）の現状 | 脱炭素技術センター",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素技術センター",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ポスト脱炭素政策について",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "進む船舶の脱炭素化",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鉄道分野の脱炭素化",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "重機分野の脱炭素化",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中でも長距離用のバスや自家用貨物車、EV化やFCEV化が困難な航空機については、液体燃料の脱炭素化（バイオ燃料、合成燃料）が選択肢の一つと考えられる",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "では、液体燃料の脱炭素化が一つの選択肢として重要視されている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため液体燃料の脱炭素化としてバイオ燃料が推進されているが、",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "であるため脱炭素燃料とみなせる",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社グループのカーボンニュートラル基本計画において、合成燃料は重要な脱炭素施策の一つに位置付けられている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "輸送分野の脱炭素化が求められる中、合成燃料は電動化が難しい分野を中心に、ネットCO₂排出量の少ない実用的な解決策として注目を集めている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同協業は、国境を越えたパートナーシップが新しい技術の普及を加速させ、既存の車両フリートおよびインフラの脱炭素化を支える具体的な実例となる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 世界的な脱炭素に向けた動きの中で、国際的なルール形成を主導することや、これまで培っ",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "てきた脱炭素技術、新たな脱炭素に資するイノベーションにより国際的な競争力を高めるこ",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素技術 コストパリティ",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素技術 コストパリティ克服すべき主な課題※薄赤色のエリアは技術的なイノベーションが必要なもの",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 脱炭素化の中での安定供給",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "強靱化を図るとともに 、脱炭素",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 脱炭素化された電力による電",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 最終的に脱炭素化が困難な",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "れたCO2を原料として再利用することから、脱炭素燃料とみなすことができる",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 脱炭素社会の実現に向けた多様な選択肢の一つとして、カーボンニュートラルに貢献する燃料の技術開発を促進す",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "燃料は、脱炭素化と資源制約対応の両面から注目を集め",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "て、基盤要素技術の高度化に加え、一貫製造プロセスの構築・最適化、品質・規格・認証に",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一定の揺り戻しの潮流は受けつつも世界的に脱炭素化が進展する中、輸送分野における",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の脱炭素化や、HEV・PHEV を含む内燃機関系車両の継続利用も含めて支えられている",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは、陸運の脱炭素化が「すべてを電気に置き換",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "fuelは、将来の脱炭素化の中で“余った領域に使う燃料”というより、どうしても残る用途を",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "なく、導入目標、認証、オフテイク、価格差支援など、需要側を後押しする制度設計をどの",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "制度、既存インフラ、用途特性、認証、オフテイク、価格差支援等を含めて総合的に捉える",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "もちろん、これは他の脱炭素オプションを一律に否定する議論ではない",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今後も関係機関と密接に連携しながら、研究開発、実証、規格・認証面の",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社グループのカーボンニュートラル基本計画において、合成燃料は重要な脱炭素施策の一つに位置付けられている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "輸送分野の脱炭素化が求められる中、合成燃料は電動化が難しい分野を中心に、ネットCO₂排出量の少ない実用的な解決策として注目を集めている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同協業は、国境を越えたパートナーシップが新しい技術の普及を加速させ、既存の車両フリートおよびインフラの脱炭素化を支える具体的な実例となる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ DNV（ノルウェー・オスロに本部を置く国際的な認証機関・船級協会）によると、",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "活用して設備コストを抑えながら脱炭素化を図ることができる",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ エネルギー基本計画等において、ガス体エネルギーの脱炭素化に向けて合成メタン中心に水素直接利用、バ",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素に向けた動きが進むなか、合成燃料の普及は",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "横浜マラソンも元々、脱炭素など持続可能な取り組みへの意識がとても高い大会ですので、私たちの思いとマッチしたというところも大きいです",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料は、将来の脱炭素化に貢献できる有望な選択肢です",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界的に脱炭素化への取り組みが進むなか、合成燃料は",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "」への協賛と燃料の提供を通して、来場される皆さまにも、まずは「合成燃料という脱炭素の選択肢があるんだ」と知っていただけたらと思っています",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料の動向は、脱炭素化政策、産業能力、そして進化するエネルギー経済の交差点に位置しています",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "GEF1およびeFuel GmbHにとっても欧州域外への初の輸出案件であり、国際的な合成燃料バリューチェーンの構築に貢献するとともに、両国のエネルギー協力を強化するものとなる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーン水素と回収されたCO₂を組み合わせることにより、同プロジェクトはモビリティ及び産業分野における化石燃料からの転換を後押しし、ドイツ、欧州諸国、日本の気候変動対策目標の達成に貢献するとともに、持続可能な燃料の生産・輸出拠点としてのドイツの競争力強化にも繋がるとしている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "両社の連携により欧州の生産能力を日本の需要と連動させ、グローバル合成燃料市場の発展に貢献することを目指している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鳥善とスズキ、インドベジタリアンレトルトカレーに6種類目の新味「ココナッツ野菜」を追加発売",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国関税措置への対応",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インドネシア",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産学連携で高度インド人材との接点創出を目指す東京理科大学",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国の両用品目輸出管理強化",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし、a)インドから輸入した種子が適切に発芽しなかった、b)栽培のための十分な情報提供や教育・訓練がなかった、c)市場規模が小さく収益性が乏しかった、ことなどにより失敗に終わった",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "その結果として、石油精製品と競合するバイオ燃料の促進を大胆に進めることはなかった",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2022年には、ボーイング（米国の航空機製造業者）と国際航空運送協会（IATA）のイニシアティブにも加わった〔その機を捉え、ロサンゼルス－メキシコ間で、ボーイング787ドリームライナー（中型機）に初めてSAF使用したフライトを実現している〕",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2023年下半期以降は、米国ロサンゼルスとメキシコシティー、グアダラハラ、モンテレイをつなぐフライトにSAFを35％混入したジェット燃料を使用している",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社は2025年6月、エアバス（欧州の航空機製造業者）とともに、国際民間航空機関（ICAO）のボランタリー環境基金に拠出する意向表明書に署名した",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このほか、米国からパイプラインを通じて、安価なシェールガスの供給を受けることができる",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州連合（EU）の新方針",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州における合成燃料の開発動向",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国・南米における合成燃料の開発動向",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国キャメロンプロジェクト",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国トールグラスFSプロジェクト",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年5月には、米国やチリ、ウルグアイに工場建設を計画する米国HIFグローバル社に約180億円を出資すると表明",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2023年9月、ENEOSは、HIFグローバルと協業の覚書を締結し、チリ・米国などの拠点から",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは『2023年3月、欧州連合（",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2023年3月、欧州連合（EU）は温暖化ガス排出量をゼロとみなす",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ENEOSと三菱商事は2022年にSAFでも連携し、ENEOSがSAFの生産、三菱商事が原料調達や販売を手がけ、欧州並みにコストを下げることを目指している",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1およびeFuel GmbHにとっても欧州域外への初の輸出案件であり、国際的な合成燃料バリューチェーンの構築に貢献するとともに、両国のエネルギー協力を強化するものとなる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーン水素と回収されたCO₂を組み合わせることにより、同プロジェクトはモビリティ及び産業分野における化石燃料からの転換を後押しし、ドイツ、欧州諸国、日本の気候変動対策目標の達成に貢献するとともに、持続可能な燃料の生産・輸出拠点としてのドイツの競争力強化にも繋がるとしている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "両社の連携により欧州の生産能力を日本の需要と連動させ、グローバル合成燃料市場の発展に貢献することを目指している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鳥善とスズキ、インドベジタリアンレトルトカレーに6種類目の新味「ココナッツ野菜」を追加発売",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 水素による還元を実現するために、水素による吸熱反応の克服、安価・大量の水素供",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 安価で安定したエネルギー供給によって国際競争力の維持や国民負担の抑制を図りつつ2050年カーボン",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ため、海外からの安価な水素",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "おり、中東、豪州、北アフリカ、中国、一部南米等が再エネ水素製造に適していると分析",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 再エネ水素製造に適した地域は限られており、今後、安価な水素の争奪戦となることが見込まれ",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 安価な水素調達が見込まれる地域を実証フィールドに選定ているプロジェクトが存在する",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 米国三菱重工も出資",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 今後大量に必要となる水素・アンモニアを安定・安価に供給するには、大規模な需要創出と効率的なサプライ",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 米国（水素ハブ）、英国（低炭素・CCUSクラスター）、欧州（水素バレー）など海外でも、拠点形成に着目した脱炭素化への",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州では2035年以降の新車CO2排出基準強化が基本方針とされる一方、",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "素直に言えば、陸運では今後も「電動化」と「液体カーボンニュートラル燃料」が競合する",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1およびeFuel GmbHにとっても欧州域外への初の輸出案件であり、国際的な合成燃料バリューチェーンの構築に貢献するとともに、両国のエネルギー協力を強化するものとなる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーン水素と回収されたCO₂を組み合わせることにより、同プロジェクトはモビリティ及び産業分野における化石燃料からの転換を後押しし、ドイツ、欧州諸国、日本の気候変動対策目標の達成に貢献するとともに、持続可能な燃料の生産・輸出拠点としてのドイツの競争力強化にも繋がるとしている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "両社の連携により欧州の生産能力を日本の需要と連動させ、グローバル合成燃料市場の発展に貢献することを目指している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鳥善とスズキ、インドベジタリアンレトルトカレーに6種類目の新味「ココナッツ野菜」を追加発売",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 中国、ロシア等の一部大国も義務化の対",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 三菱重工 （米国法人 ）は、同社に出",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ Haru Oniで得た知見 ・経験を基に 、米国テキ",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ デンマークや英国等の 欧州エアラインに供給",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国合成燃料产业深度趋势专项报告（2026 GEP10RUKOS）_全球环保研究网 ♻",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国区域市场",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "产业信息(中国)",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国合成燃料产业深度趋势专项报告（2026 GEP10RUKOS）",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国合成燃料产业在二零二六年正处于从技术验证向规模化商业应用过渡的关键阶段",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本报告基于二零二六年的市场预测数据，深入剖析了中国合成燃料产业链的供需格局、竞争态势及技术演进路径，旨在为行业参与者提供全景式洞察",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "需求侧分析显示，二零二六年中国合成燃料的整体需求规模预计达到特定量级，增速高于传统化石燃料",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "专利及技术发展分析指出，中国在电解水制氢、费托合成等关键环节拥有自主知识产权，但在核心材料依赖进口方面仍存在短板",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国合成燃料产业在二零二六年展现出强劲的发展韧性",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2.1 中国合成燃料整体市场规模与预测",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "期待の高まる 合成燃料 （e-fuel）の現状 | 脱炭素技術センター — 期待の高まる 合成燃料 （e-fuel）の現状 | 脱炭素技術センター 脱炭素技術センター https://www.decarbonation-tech.com > intro_5010",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "液体 合成燃料 一貫製造プロセスの製造効率改善への取組み — 液体 合成燃料 一貫製造プロセスの製造効率改善への取組み 一般財団法人 カーボンニュートラル燃料技術センター PDF https://www.pecj.or.jp > JPEC_Journal_260702",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "横浜マラソンを支える未来のエネルギー。 合成燃料 の社会実装 ... — 横浜マラソンを支える未来のエネルギー。 合成燃料 の社会実装 ... ENEOS株式会社 https://www.hd.eneos.co.jp > articles > 20261016_02_cc09",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料 の事業会社 米国Infinium社への出資参画 | 2025年 — 合成燃料 の事業会社 米国Infinium社への出資参画 | 2025年 MITSUI & CO., LTD. https://www.mitsui.com > ホーム > トピックス",
+    "url": "https://www.mitsui.com/jp/ja/topics/2025/1251208_14877.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府、 合成燃料 の 設備 に600万ユーロを出資、生産拡大を目指す — 政府、 合成燃料 の 設備 に600万ユーロを出資、生産拡大を目指す ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2023/01",
+    "url": "https://www.jetro.go.jp/biznews/2023/01/14d1376da268c0c1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素への処方箋 液体 合成燃料 （3）普及価格、水素調達カギ — 脱炭素への処方箋 液体 合成燃料 （3）普及価格、水素調達カギ 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/608131",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "E - Fuels Conference 2026 , Berlin - ESWET — E - Fuels Conference 2026 , Berlin - ESWET ESWET - European Suppliers of Waste to Energy Technology https://eswet.eu > event > e-fuels-conf...",
+    "url": "https://eswet.eu/event/e-fuels-conference-2026-berlin/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "7th European E - Fuels Conference — 7th European E - Fuels Conference Global e-Fuels https://global-efuels.com > event > 7t...",
+    "url": "https://global-efuels.com/event/7th-european-e-fuels-conference/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The European E - Fuels Conference 2026 - ASDEvents — The European E - Fuels Conference 2026 - ASDEvents ASDEvents https://www.asdevents.com > event",
+    "url": "https://www.asdevents.com/event.asp?id=26166",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The European E - Fuels Conference 2026 - ACI - Whitmore Group — The European E - Fuels Conference 2026 - ACI - Whitmore Group Whitmore Group https://www.wplgroup.com > event",
+    "url": "https://www.wplgroup.com/aci/event/the-european-e-fuels-conference/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "高度外国人材活躍支援",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高度外国人材を輩出する大学、その最前線に迫る",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産学連携で高度インド人材との接点創出を目指す東京理科大学",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 産業の新陳代謝の促進や、新産業や新規雇用など地域経済にとっての新たな価値創出の核となる戦略拠点を目指していくべき",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 拠点の担い手は、供給から利用にいたるまで幅広いステークホルダーを巻き込み、かつ長期的なコミットメントを有",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※WELL-BEING：個人の権利や自己実現が保障され、身体的、精神的、社会的に良好な状態にあることを意味する概念（出典：厚生労働省 雇用政策研究会 雇用政策研究会報告書）",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "三井物産の人材マネジメント",
+    "url": "https://www.mitsui.com/jp/ja/topics/2025/1251208_14877.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高度外国人材活躍支援",
+    "url": "https://www.jetro.go.jp/biznews/2023/01/14d1376da268c0c1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 本プロジェクトからの燃料の持ち込みや人材派遣を通して得られるノウハウにより、本邦内外における",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AZEC閣僚会合を継続（技術面、資金面、人材面等での手厚い支援と政策協調で、市場拡大による新技術拡大・コスト低減を図る）",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人材・投資を呼び込み、市場に製品・サービスを供給するためのバイオコミュニティ形成",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "受発注者のICT施工人材育成の推進、建設現場のデータの見える化による効率化の推進等",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に深刻なのが現場人材の不足です",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産経新聞の報道（2026年2月）によれば、政府の試算で2040年に現場人材が260万人不足し、産業別では製造業で256万人、農林水産業で110万人が足りなくなるとされています",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の自動車産業は完成車メーカーだけでなく部品・素材・加工を含めて約550万人の雇用を抱えており、この時間的余裕の中で緩やかに産業構造をシフトさせていける意味は非常に大きい",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "5. 産経新聞「日本の現場人材、2040年に260万人不足の試算」（2026年2月14日）",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ENEOSが日本初の 合成燃料 実証プラントを完成 - X ENEOSが日本初の 合成燃料 実証プラントを完成 - X X https://x.com > Trending",
+    "url": "https://x.com/i/trending/2038278045203919024",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "WECARSが自賠責保険の取り扱いを開始へ、保険代理店登録を完了",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成メタン導入に関する商社の動き",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この①②③の観点から、大手商社が様々な活動を進めている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方で、大手商社では合成メタンだけでなく、",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため、東京ガス、大阪ガス、東邦ガスなどを中心に商社が加わり、合成メタン（e-メタン）のサプライチェーン構築に向けたプロジェクトが国内外で進み始められている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "WECARSが自賠責保険の取り扱いを開始へ、保険代理店登録を完了",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "25) Centers for Disease Control and Prevention (CDC), \"Methanol: Systemic Agent | NIOSH |",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "WECARSが自賠責保険の取り扱いを開始へ、保険代理店登録を完了",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜アジア最大の市場調査レポート販売代理店＞",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "り、欧 州 委 員 会 （European Commission） の 下 に 置 か れ 、 脱 炭 素 化 と 持 続 可 能 な 成 長 を 推 進 す る た め の",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/03/JPEC_report_No.260301.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "European Commission Launches T-MED Investment Platform for Renewable Energy Technologies",
+    "url": "https://global-efuels.com/event/7th-european-e-fuels-conference/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Co. (JAPEX), commissioned to conduct a study on the implementation of an advanced CCS",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/05/JPECForum_2026_program_001.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• Nuclear power : Replacement of reactors decided to be decommissioned with next generation innovative reactors.",
+    "url": "https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "政治（法・予算・規制）": [
+   {
+    "quote": "これらの燃料は、厳格な持続可能性基準及び規制要件に適合して製造された場合、既存のインフラ、エンジン、流通システムとの高い互換性を維持しながら、ライフサイクル全体にわたるCO₂排出量を大幅に削減できる可能性がある",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1の製造コンセプトは、これらの持続可能性基準及び規制要件を満たすよう設計されている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鈑金塗装工場は地域の「最後の砦」か？経済産業省が工場を「エッセンシャルサービス」に認定する意味",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界各国の関税率",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府公共調達データベース",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国関税措置への対応",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国の両用品目輸出管理強化",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基準・認証、規制",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "明確な国家戦略の不備や政府の石油公社への過度な保護があだになった結果だ",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府による支援や計画の欠如",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府が石油公社（PEMEX）を支援している",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1について、メキシコにはエタノールやバイオディーゼルの混合を義務づける規制が連邦レベルでも州レベルでも存在しない",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4に関連し、政府は2024年まで、バイオ燃料促進に向けた明確な政策や目標、計画を持たなかった",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "排出削減に向けた規制等を背景に、",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション（GI）基金とMEDO事業により、大規模かつ高効率な製造プロセスの開発を進め、2030年までの合成燃料の大規模製造プロセスの実証をめざすとし、大枠のロードマップを示した",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "①グリーンイノベーション（GI）基金による",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金事業の「高効率な大規模FT合成プロセス」",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "図５ GI基金事業で進められている「高効率な大規模FT合成プロセス」の開発",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料の最大の課題は化石燃料並みの低コストの実現であり、政府支援が必須である",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "、2030年に一層厳しくなる環境規制に備えると発表",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "内燃機関搭載車の正確な終了時期を決めるのは、最終的には顧客と環境規制",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今後、経済安全保障の観点からも、",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エネルギー自給率向上の観点から、政府はプレミアを付けてでも",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの燃料は、厳格な持続可能性基準及び規制要件に適合して製造された場合、既存のインフラ、エンジン、流通システムとの高い互換性を維持しながら、ライフサイクル全体にわたるCO₂排出量を大幅に削減できる可能性がある",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1の製造コンセプトは、これらの持続可能性基準及び規制要件を満たすよう設計されている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鈑金塗装工場は地域の「最後の砦」か？経済産業省が工場を「エッセンシャルサービス」に認定する意味",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1. CNに向けた政府の取組",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第6次エネルギー基本計画の全体像（2021年10月22日閣議決定）",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 規制的措置と支援的措置の",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金事業：CO2等を用いた燃料製造技術開発（予算額：上限1152.8億円）",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金事業",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算額：約576億円",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜GI基金プロジェクトにおける研究開発内容＞",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ GI基金などにより、大規模かつ高効率な製造プロセスの開発を支援",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ ENEOSは、 GI基金事業を用いて、最も商用化に近い「逆シフト反応＋FT反応」の高効率化・大規模化を目",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ ドイツ政府から800万€の支援を獲得",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海運では EUの規制と IMOの国際目標が低 GHG燃料への転換を後押ししている",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "8) Regulation (EU) 2023/2405 of the European Parliament and of the Council of 18 October 2023 on",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "11) Regulation (EU) 2023/1805 of the European Parliament and of the Council of 13 September 2023",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "だけで自然に立ち上がるというより、 ある意味規制や政策ドリブンであって、 政策によって",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "注記：航空・陸運は需要量または現行市場規模、海運は導入目標・ GHG強度規制を示す",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "18) European Parliament and the Council, Regulation (EU) 2019/631, as amended by Regulation",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの燃料は、厳格な持続可能性基準及び規制要件に適合して製造された場合、既存のインフラ、エンジン、流通システムとの高い互換性を維持しながら、ライフサイクル全体にわたるCO₂排出量を大幅に削減できる可能性がある",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1の製造コンセプトは、これらの持続可能性基準及び規制要件を満たすよう設計されている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鈑金塗装工場は地域の「最後の砦」か？経済産業省が工場を「エッセンシャルサービス」に認定する意味",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "近年、航空分野の国際的なCO2排出削減に向けた規制等を背景に非可食原料の重要性が高まる",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（参考）SAFが必要となる背景：ICAOによる国際航空輸送分野でのCO2排出規制",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 政府関係機関等への報告・提言",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金プロジェクト",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金事業を通じた早期商用化",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金プロジェクト",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 現行のGI基金事業（高効率な大規模FT合成プロセス）についての支援の拡充等を検討",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高効率な大規模FT合成プロセス（グリーンイノベーション基金事業）高効率な大規模FT合成プロセス（グリーンイノベーション基金事業）",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ GI基金事業において、 FT合成プロセスによる高効率かつ大規模な合成燃料製造技術を開発中で、当該事業",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ GI基金事業についての支援の拡充を通じて、商用化時期の前倒し（2040年→2030年代前半）を検討",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（国立研究開発法人新エネルギー・産業技術総合開発機構）の「グリーンイノベーション基金事業」を活用した製造技術開発に加え、供給体制の構築や市場づくりにも取り組んでいます",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの技術的進歩は、ライフサイクル排出量に対する規制当局の注目が高まっている状況と重なり、既存の燃料生産者、新規参入者、および下流の消費者に対し、燃料戦略と資本配分を再評価するよう、圧力とインセンティブの両方をもたらしています",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "ガソリンへのバイオエタノール導入拡大について",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "我が国では、ガソリンにおいては、2030年度までに、一部地域における直接混合も含めたバイオエタノールの導入拡大を通じて、最大濃度10％の低炭素ガソリンの供給開始を目指しています",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上記方針を踏まえ、2025年6月10日に、総合エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会において、ガソリンへのバイオエタノール導入拡大に向けたアクションプランを策定しました",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本アクションプランに基づいて、官民で導入拡大の取組を推進していくとともに、進捗に応じて随時見直しを行っていきます",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※2025年11月に2028年度を目途に沖縄県でE10を先行導入することを決定しました",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ガソリンへのバイオエタノール導入拡大に向けたアクションプラン（PDF形式）",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料の導入促進に向けた官民協議会 （METI/経済産業省）",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオエタノールの導入拡大をめざして、課題解決のアクションプラン策定（2025年7月25日）",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CO2は発電所や工場から排出されたCO2、将来的には大気中から直接回収したCO2を利用、H2は再生可能エネルギー由来の電力による水の電気分解やバイオマスをガス化することなどで調達することを想定したカーボンニュートラル実現の切り札となる燃料です",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ENEOSとドイツのGerman eFuel One GmbH（以下、GEF1）は、合成燃料の日本導入支援及び低炭素燃料の国際的な合成燃料バリューチェーンの構築を目的とした戦略的協業を開始した",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同協業は、ENEOSにとって日本への合成燃料初輸入案件となり、日本市場における合成燃料の導入拡大に向けた一歩となる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、顧客に低炭素燃料の選択肢を提供することで、カーボンニュートラル社会の実現に向けた取り組みを強化する方針である",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【車業界版・今日は何の日】11月4日は「ユネスコ憲章記念日」！現場で使える顧客トークネタ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "冬タイヤ交換シーズンに工場が備えるべきこと",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【車業界版・今日は何の日】11月3日は「文具の日」！現場で使える顧客トークネタ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "全固体電池の実用化はいつ？各メーカーの動向とEVの買い時を解説",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自動車部品の値上げはなぜ続く？整備工場が利益を守る対策を解説",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新法でバイオ燃料導入加速を、合成燃料にもポテンシャル（メキシコ） | 世界の次世代燃料の生産・消費動向を追う - 特集 - 地域・分析レポート - 海外ビジネス情報 - ジェトロ",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府公共調達データベース",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新法でバイオ燃料導入加速を、合成燃料にもポテンシャル（メキシコ）",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "持続可能な包装と企業の対応事例",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "輸出経験ゼロの町工場がタイ市場を開拓",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "メキシコでは、他国と比べてバイオ燃料の導入が遅れている",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため今後、導入が加速するとみられる",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "メキシコは2000年代半ばから、有機廃棄物の埋め立て地（ランドフィル）からバイオガスを抽出して発電するバイオガス発電を導入している",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "によると、2025年末時点でメキシコ国内にバイオガス製造工場が23カ所ある",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "多様な要因で、輸送部門へのバイオ燃料導入に進展なし",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "液体合成燃料の製造で、再生可能エネルギー由来の水素を使い、発電所や工場などから排出されたCO",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "導入促進に向けた官民協議会の設置",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成メタン導入に関する商社の動き",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際企業連合「e-NG Coalition」の発足",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "発電所や工場などから排出されたCO",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "導入コストを抑えられて、市場導入が容易な点である",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "既存のエンジンでの使用や燃料インフラ・システムの活用が可能な合成燃料（e-fuel）は、導入コストを抑えられるため産業界には大きなメリットである",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年5月には、米国やチリ、ウルグアイに工場建設を計画する米国HIFグローバル社に約180億円を出資すると表明",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料（e-メタノール）の調達",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2030年頃までに、約1万トン／年以上のグリーン水素を製造できる水電解プラント（100MW以上）を建設し、出光興産、ENEOS、および地域の工場にパイプライン供給するサプライチェーンの構築をめざす",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ENEOSとドイツのGerman eFuel One GmbH（以下、GEF1）は、合成燃料の日本導入支援及び低炭素燃料の国際的な合成燃料バリューチェーンの構築を目的とした戦略的協業を開始した",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同協業は、ENEOSにとって日本への合成燃料初輸入案件となり、日本市場における合成燃料の導入拡大に向けた一歩となる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、顧客に低炭素燃料の選択肢を提供することで、カーボンニュートラル社会の実現に向けた取り組みを強化する方針である",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【車業界版・今日は何の日】11月4日は「ユネスコ憲章記念日」！現場で使える顧客トークネタ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "冬タイヤ交換シーズンに工場が備えるべきこと",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【車業界版・今日は何の日】11月3日は「文具の日」！現場で使える顧客トークネタ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "全固体電池の実用化はいつ？各メーカーの動向とEVの買い時を解説",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自動車部品の値上げはなぜ続く？整備工場が利益を守る対策を解説",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 導入拡大に向け、系統制約の克服、コスト低減、周辺環境との調和が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 水素燃料電池の導入拡大に向けて、設備コスト低減、水素インフラの整備が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 導入拡大に向け、車種の拡充、設備コストの低減、充電インフラの整備、充電時間",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 導入拡大に向け、車種の拡充、設備コストの低減、水素インフラの整備が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大限の導入を促す",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 再エネの最大限導入",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 合成燃料は、発電所や工場等から排出されたCO2や、将来的には大気中からDAC技術により回収さ",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "DAC 発電所・工場等",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "原料調達から製造まで",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "既存インフラを活用することで導入コストを抑えられるメリットが大きく、製造技術",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "おり、合成燃料を巡る議論は、単なる技術論ではなく、制度設計を含めた現実的な導入条件",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "年間26兆円の「出血」を止められるか 原子力＋ 合成燃料 ＋ ... 年間26兆円の「出血」を止められるか 原子力＋ 合成燃料 ＋ ... note https://note.com > 科学・テクノロジー > エネルギー",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【エネルギー】 合成燃料 （e-fuel）の可能性と現実（2026.4.8） 【エネルギー】 合成燃料 （e-fuel）の可能性と現実（2026.4.8） note https://note.com > 科学・テクノロジー > エネルギー",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の人工石油（ 合成燃料 ・e-fuel） 2026 年現在地 - note 日本の人工石油（ 合成燃料 ・e-fuel） 2026 年現在地 - note note https://note.com > 科学・テクノロジー > エネルギー",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "e - Fuels – The Fuel of the Future? - LinkedIn e - Fuels – The Fuel of the Future? - LinkedIn LinkedIn https://www.linkedin.com > pulse > e-...",
+    "url": "https://www.linkedin.com/pulse/e-fuels-fuel-future-marketsandmarkets-hn1lc",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Spark e - Fuels | LinkedIn Spark e - Fuels | LinkedIn LinkedIn https://de.linkedin.com > sparkefuels",
+    "url": "https://de.linkedin.com/company/sparkefuels",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "E - fuels and their potential role in decarbonizing transport in ... E - fuels and their potential role in decarbonizing transport in ... LinkedIn https://www.linkedin.com > pulse > e-...",
+    "url": "https://www.linkedin.com/pulse/e-fuels-potential-role-decarbonizing-transport-eu-jaroslav-kme%C5%A5",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "次世代燃料（バイオ燃料、合成燃料）政策について｜資源エネルギー庁",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料政策について",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料（バイオ燃料、合成燃料）政策について",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本ページは、2050年カーボンニュートラルに向けて、期待が高まっている次世代燃料（バイオ燃料、合成燃料政策について掲載しています",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、E20の認証制度にかかる議論を速やかに開始し、車両開発等のリードタイムを十分に確保した上で、2030年代のできるだけ早期に、乗用車の新車販売におけるE20対応車の比率を100%とすることを目指します",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料の導入促進に向けた官民協議会 （METI/経済産業省）",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TRAINING PROGRAMS",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "eFuel GmbHはGEF1の株主かつ戦略的パートナーであり、GEF1はドイツにおいて大規模なe-ガソリン生産設備の開発を進めている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新法でバイオ燃料導入加速を、合成燃料にもポテンシャル（メキシコ） | 世界の次世代燃料の生産・消費動向を追う - 特集 - 地域・分析レポート - 海外ビジネス情報 - ジェトロ",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界の次世代燃料の生産・消費動向を追う",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "確かに2008年、バイオエネルギー促進開発法を施行してはいた",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "なお、バイオエネルギー促進開発法自体に意味がなかったわけではない",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオエネルギー促進開発法（2008年）",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エネルギー省（SENER）、環境天然資源省（SEMARNAT）、農業地方開発省（SADER）で役割分担（注）",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "農村開発、食料安全保障",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発と調整",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "出所：バイオエネルギー促進開発法（2008年2月1日付官報）およびバイオ燃料法（2025年3月18日付官報）からジェトロ作成",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオ燃料用のバイオマスを生産するには、農業地方開発省（SADER）の許認可が必要になる",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代火力発電システムとは",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軽水炉用炉心材料の開発",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代原子力（新型炉）の開発現状",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代自動車：2010年代の開発",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "激化するEV用蓄電池の開発",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代航空機への挑戦！",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "電動/水素航空機の開発は？",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代ゼロエミッション船",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を契機に、自動車での合成燃料の需要拡大を見込んだ開発競争が始まっている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "液体合成燃料の開発ロードマップ",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TRAINING PROGRAMS",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "eFuel GmbHはGEF1の株主かつ戦略的パートナーであり、GEF1はドイツにおいて大規模なe-ガソリン生産設備の開発を進めている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料のあり方について",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "カーボンリサイクル ➢ CO2回収技術の確立、回収CO2の用途拡大、CCSの適地開発、コスト低減が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素発電 ➢ 水素専焼火力の技術開発、水素インフラの整備が課題 水素価格約13円/Nm3",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ メタネーション設備の大型化のための技術開発が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 製造工程で生じるCO2のセメント原料活用（石灰石代替）の要素技術開発が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 防錆性能を持つCO2吸収型コンクリート（骨材としてCO2を利用）の開発・用途拡",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 変換効率を高める光触媒等の研究開発、大規模化によるコスト低減が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンモニア発電 ➢ アンモニア混焼率の向上、アンモニア専焼火力の技術開発が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンモニア化 ➢ 火炎温度の高温化のためのアンモニアバーナー等の技術開発が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "メタネーション ➢ メタネーション設備の大型化のための技術開発が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料技術開発本部",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧米では技術開発・実証事業が進展するとともに、制度面でもその位置付けの整理",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の整理に加え、実証・実装フェーズを支える投資支援の必要性が示されている",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "◇JPECでは、2020年度から 2024年度に新エネルギー・産業技術総合開発機構 （NEDO）",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "委託事業の一環として CO2 を原料とした液体合成燃料一貫製造プロセスの研究開発を",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "な合成燃料製造技術の開発に取り組んでいる",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4) NEDO「CO2 からの液体合成燃料一貫製造プロセス技術の研究開発に着手―ガソリン・軽油・ジェッ",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "5) NEDO「先進的な合成燃料製造技術の実用化に向けた研究開発」 に係る実施体制の決定について 2025",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ensuring a level playing field for sustainable air transport (ReFuelEU Aviation)",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民協議会といった枠組みはすでに立ち上がっており、今後は技術開発や供給拡大だけで",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TRAINING PROGRAMS",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "eFuel GmbHはGEF1の株主かつ戦略的パートナーであり、GEF1はドイツにおいて大規模なe-ガソリン生産設備の開発を進めている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料（バイオ燃料・合成燃料）について",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "①新技術：21％",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "段として、SAF（Sustainable Aviation Fuel，持続可能な航空燃料）の導入が必要とされている",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "○CO2と水素を原料とする合成燃料について、2040年までの自立商用化を目指し、製造技術開発",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "る技術開発・実証を実施",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "化に向けたロードマップの策定、サプライチェーン構築の検討・実証",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "e-fuel利活用の社会実証③利活用の推進③利活用の推進",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ベンチプラントによる実証",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000374794.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reuters.com/jp/world/environment/6PK2QTEBP5P3JM72H56CJ4HZOI-2023-10-04/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/3178078",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carboncredits.jp/global/skytree-galetech-mwahera-dac-efuel-kenya/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pps-net.org/press/124571",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui.com/jp/ja/topics/2025/1251208_14877.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biznews/2023/01/14d1376da268c0c1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nenryo-teigakuhikisage.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/03/JPEC_report_No.260301.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hojyokin-portal.jp/columns/panflet_gaiyou2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.yuasa.co.jp/yes/news/article_19270/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/794666",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/pages/menseki",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/608131",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eswet.eu/event/e-fuels-conference-2026-berlin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global-efuels.com/event/7th-european-e-fuels-conference/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asdevents.com/event.asp?id=26166",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wplgroup.com/aci/event/the-european-e-fuels-conference/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/unboxfactory/posts/japan-is-developing-synthetic-fuels-often-called-e-fuels-by-combining-captured-c/1149976644020051/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/05/JPECForum_2026_program_001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/i/trending/2038278045203919024",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/e-fuels-fuel-future-marketsandmarkets-hn1lc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/sparkefuels",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/e-fuels-potential-role-decarbonizing-transport-eu-jaroslav-kme%C5%A5",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "合成燃料 ニュース 2026年11月",
+   "results": [
+    "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "https://news.tv-asahi.co.jp/news_economy/articles/000374794.html",
+    "https://www.reuters.com/jp/world/environment/6PK2QTEBP5P3JM72H56CJ4HZOI-2023-10-04/",
+    "https://www.asahi.com/articles/DA3S16120847.html",
+    "https://www.decarbonation-tech.com/intro_5010/",
+    "https://www.youtube.com/watch?v=gJvOAF8ieR4",
+    "https://prtimes.jp/topics/keywords/%E5%90%88%E6%88%90%E7%87%83%E6%96%99",
+    "https://www.nikkei.com/article/DGXZQOUC177SL0X10C26A7000000/",
+    "https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html"
+   ]
+  },
+  {
+   "query": "合成燃料 発表 2026年11月",
+   "results": [
+    "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "https://www.decarbonation-tech.com/intro_5010/",
+    "https://news.tv-asahi.co.jp/news_economy/articles/000374794.html",
+    "https://www.reuters.com/jp/world/environment/6PK2QTEBP5P3JM72H56CJ4HZOI-2023-10-04/",
+    "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html",
+    "https://prtimes.jp/main/html/rd/p/000000135.000039980.html"
+   ]
+  },
+  {
+   "query": "合成燃料 受注 2026年11月",
+   "results": [
+    "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "https://www.decarbonation-tech.com/intro_5010/",
+    "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "https://news.tv-asahi.co.jp/news_economy/articles/000374794.html",
+    "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "https://www.reuters.com/jp/world/environment/6PK2QTEBP5P3JM72H56CJ4HZOI-2023-10-04/",
+    "https://www.gepresearch.com/86/view-1305868-1.html"
+   ]
+  },
+  {
+   "query": "合成燃料 提携 2026年11月",
+   "results": [
+    "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "https://www.decarbonation-tech.com/intro_5010/",
+    "https://www.reuters.com/jp/world/environment/6PK2QTEBP5P3JM72H56CJ4HZOI-2023-10-04/",
+    "https://newscast.jp/smart/news/3178078",
+    "https://news.tv-asahi.co.jp/news_economy/articles/000374794.html",
+    "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "https://carboncredits.jp/global/skytree-galetech-mwahera-dac-efuel-kenya/",
+    "https://pps-net.org/press/124571",
+    "https://www.eneos.co.jp/newsrelease/2026/20260717_01_01_mr07.html"
+   ]
+  },
+  {
+   "query": "合成燃料 設備投資 2026年11月",
+   "results": [
+    "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "https://www.mitsui.com/jp/ja/topics/2025/1251208_14877.html",
+    "https://www.decarbonation-tech.com/intro_5010/",
+    "https://www.jetro.go.jp/biznews/2023/01/14d1376da268c0c1.html",
+    "https://news.tv-asahi.co.jp/news_economy/articles/000374794.html",
+    "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf"
+   ]
+  },
+  {
+   "query": "合成燃料 補助金 採択 2026年11月",
+   "results": [
+    "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "https://nenryo-teigakuhikisage.go.jp/",
+    "https://www.pecj.or.jp/wp-content/uploads/2026/03/JPEC_report_No.260301.pdf",
+    "https://hojyokin-portal.jp/columns/panflet_gaiyou2",
+    "https://www.yuasa.co.jp/yes/news/article_19270/",
+    "https://hta2026.jp/",
+    "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "https://fmltd.zendesk.com/hc/ja/articles/56176191803417-%E7%9C%81%E3%82%A8%E3%83%8D-%E9%9D%9E%E5%8C%96%E7%9F%B3%E8%BB%A2%E6%8F%9B%E8%A3%9C%E5%8A%A9%E9%87%91-2026%E5%B9%B4%E7%89%88",
+    "https://www.metro.tokyo.lg.jp/information/press/2025/09/2025090807",
+    "https://www.chusho.meti.go.jp/koukai/hojyokin/index.html"
+   ]
+  },
+  {
+   "query": "合成燃料 日刊工業新聞 2026年11月",
+   "results": [
+    "https://www.nikkan.co.jp/",
+    "https://www.nikkan.co.jp/articles/view/794666",
+    "https://www.nikkan.co.jp/pages/menseki",
+    "https://www.nikkan.co.jp/articles/view/608131",
+    "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "https://www.nikkan.co.jp/spaces/view/89537",
+    "https://www.youtube.com/watch?v=YWBEMWaXEtk",
+    "https://www.nikkan.co.jp/articles/view/792722",
+    "https://www.nikkan.co.jp/spaces/view/89528",
+    "https://ndlsearch.ndl.go.jp/books/R100000002-I000000058185-i34805396"
+   ]
+  },
+  {
+   "query": "e-fuels news 2026年11月",
+   "results": [
+    "https://eswet.eu/event/e-fuels-conference-2026-berlin/",
+    "https://global-efuels.com/event/7th-european-e-fuels-conference/",
+    "https://www.asdevents.com/event.asp?id=26166",
+    "https://www.wplgroup.com/aci/event/the-european-e-fuels-conference/",
+    "https://www.inprord.com/futuro-con-e-fuels/",
+    "https://www.michigan.gov/whitmer/news/state-orders-and-directives/2026/10/12/executive-order-no-2026-15-declaration-of-state-of-energy-emergency",
+    "https://netzerocompare.com/events/the-european-e-fuels-conference-2026",
+    "https://www.youtube.com/watch?v=fvPubZUSP0k",
+    "https://www.eia.gov/outlooks/steo/",
+    "https://efuel-today.com/en/news-en/"
+   ]
+  },
+  {
+   "query": "e-fuels Japan 2026年11月",
+   "results": [
+    "https://www.facebook.com/unboxfactory/posts/japan-is-developing-synthetic-fuels-often-called-e-fuels-by-combining-captured-c/1149976644020051/",
+    "https://www.pecj.or.jp/wp-content/uploads/2026/05/JPECForum_2026_program_001.pdf",
+    "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf",
+    "https://www.instagram.com/p/DeV24ycm7IQ/",
+    "https://www.asahi.com/ajw/articles/14872848",
+    "https://www.energyconnects.com/news/renewables/2026/november/japan-extends-transition-bond-push-despite-fossil-fuel-reliance/",
+    "https://news.delta.com/fuel-surcharge-japan-update-nov2026-JP",
+    "https://marqstats.com/reports/japan-synthetic-fuel-efuel/",
+    "https://www.hepco.co.jp/info/2026/1253198_2073.html"
+   ]
+  },
+  {
+   "query": "site:note.com 合成燃料 2026",
+   "results": [
+    "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "https://note.com/takeokmt/n/n33871389a8c9",
+    "https://note.com/clean_broom590/n/n64042fc3e429",
+    "https://note.com/scivanai/n/n197ffa7731d7",
+    "https://note.com/vivid_macaw3853/n/n7dffd24aada2",
+    "https://note.com/aominant/n/n12bd1a3ca008",
+    "https://note.com/interestingtopic/n/n6da141dadea4",
+    "https://note.com/joshuajosh/n/n04ce58ef058a",
+    "https://note.com/tag/%E5%90%88%E6%88%90%E7%87%83%E6%96%99",
+    "https://note.com/umaki11/n/nda9cd38837f9"
+   ]
+  },
+  {
+   "query": "site:x.com 合成燃料",
+   "results": [
+    "https://x.com/i/trending/2038278045203919024",
+    "https://x.com/MHI_GroupJP/status/2023668747865911611",
+    "https://x.com/iw_toshiki/status/2038345455906722107",
+    "https://x.com/imaeda_soichiro/status/2018133342705877126",
+    "https://x.com/satsukikatayama/status/2038147921510908302",
+    "https://x.com/russianblue2009/status/2038154253995483246",
+    "https://x.com/mightys3xycars/status/2038381152562520220",
+    "https://x.com/JAEA_japan/status/1945071298633253163",
+    "https://x.com/fdzaraf/status/2038421466149204131",
+    "https://x.com/i/trending/2042754582598893936"
+   ]
+  },
+  {
+   "query": "site:linkedin.com e-fuels",
+   "results": [
+    "https://www.linkedin.com/pulse/e-fuels-fuel-future-marketsandmarkets-hn1lc",
+    "https://de.linkedin.com/company/sparkefuels",
+    "https://www.linkedin.com/pulse/e-fuels-potential-role-decarbonizing-transport-eu-jaroslav-kme%C5%A5",
+    "https://www.linkedin.com/posts/will-rowe-55ab9816_making-e-fuels-is-like-cooking-dinner-from-activity-7382269962398179328-b6_7",
+    "https://www.linkedin.com/posts/dirktherabbit_is-aviation-making-the-best-use-of-scarce-activity-7517266778029236224-PBNA",
+    "https://www.linkedin.com/posts/paul-martin-195763b_a-few-clarifications-and-additions-to-my-activity-7249838600668782592-SbyI",
+    "https://www.linkedin.com/pulse/e-fuels-e-crude-history-development-global-cost-analysis-paracha-tfgyf",
+    "https://www.linkedin.com/posts/efuel-alliance_study-the-market-potential-of-efuels-activity-7439673883265417217-IcJ0",
+    "https://www.linkedin.com/pulse/bio-e-fuels-can-biomass-make-e-fuels-more-practical-abhi-desai-yltac",
+    "https://www.linkedin.com/posts/vpcommercialisation_saf-renewablefuels-energyindustry-activity-7206184814998077441-zGHr"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "2024年5月には、米国やチリ、ウルグアイに工場建設を計画する米国HIFグローバル社に約180億円を出資すると表明",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "まで水素価格が下がると、e-fuelのコストは約200円/Lとガソリン価格に近くなる",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（0℃、1気圧）と試算され、現在のLNG価格の5倍と高価で商用化には低コスト化が必須である",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "で、ルイジアナ州のLNG基地周辺に2029年の操業をめざし数百億円を投じて東邦ガスの製造プラントを設置し、液化して愛知県に海上輸送する",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ｅ-メタンは価格がLNGの約5倍と割高なため、愛知県知多市の主力拠点でLNGが気化する際の膨張力で電気を生み出してグリーン水素を製造する実証実験を実施している",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現時点では水素の調達コストが課題で、メタンの価格は既存品と約10倍の差がある",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素発電 ➢ 水素専焼火力の技術開発、水素インフラの整備が課題 水素価格約13円/Nm3",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "*水素発電のパリティはLNG価格が10MMBtuの場合、水素還元製鉄は第11回CO2フリー水素WGの資料",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "FCV 水素価格約90円/Nm3",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ガソリン価格が142.8円/Lの時を想定（詳細は第11回CO2フリー水素WGの資料を参照）",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素価格に大きく依存するが、現時点の試算では約300円～700円／ℓと高額",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金事業：CO2等を用いた燃料製造技術開発（予算額：上限1152.8億円）",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "575.6億円",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "299.5億円",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "242.2億円",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "35.5億円",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料市場は2025年に518億7,000万米ドルと評価され、2026年には548億米ドルに成長し、CAGR6.03％で推移し、2032年までに781億9,000万米ドルに達すると予測されています",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CAGR（%） 6.03%",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CAGRは6.03%です",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "英国、CCUS補助金を約420億円削減 Acornは融資・出資での支援検討へ",
+    "url": "https://carboncredits.jp/global/skytree-galetech-mwahera-dac-efuel-kenya/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "円高・円安水準 49.43 円（円安傾向）",
+    "url": "https://pps-net.org/press/124571",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GDP 598.95 兆円(2026Q2)",
+    "url": "https://pps-net.org/press/124571",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "低圧系統用蓄電所の最新動向【第3回】上限価格10円へ 低圧系統用蓄電所の収益とリスク",
+    "url": "https://pps-net.org/press/124571",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "HIF Global社の一部株式取得を出資対象事業として採択し、出光興産と合わせて約225億円を出資",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "150百万米ドル（日本円で約225億円（1ドル150円換算））",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "約７兆円～の投資を実施",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大規模かつ強靭なサプライチェーン構築 約5兆円～",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インフラ整備・既存設備改修 約1兆円～",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の技術的優位性確保に向けた研究開発、国内先進研究拠点の整備 約1兆円～",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "蓄電池・材料の製造工場投資 約4兆円～",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発（次世代蓄電池・材料・リサイクル技術） 約3兆円～",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "9 https://cinea.ec.europa.eu/news-events/news/cef-transport-over-eu1-billion-requested-alternative-fuel-",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/03/JPEC_report_No.260301.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "scale SAF production facilities (approx. 300 billion",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/05/JPECForum_2026_program_001.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "USD 8.75 billion in 2024",
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "11.74 billion in 2025",
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "USD 87.92 billion by 2032",
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(E-Fuel Market Size, Share & Industry Analysis 2024-2032, Fortune Business Insights, 2024)",
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "$49.4 billion by 2030",
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "E-fuel Market Size, Share & Industry Analysis Report, 2032",
+    "url": "https://ecadin.org/the-e-fuel-revolution-reshaping-energy-transport-and-industry/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "(up to USD 0.85 billion)",
+    "url": "https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Green Growth Strategy (2021.6)",
+    "url": "https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "strengthening industrial competitiveness and realizing economic growth, aiming for more than 150 trillion yen of public",
+    "url": "https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年間26兆円の「出血」を止められるか ── 原子力＋合成燃料＋フィジカルAIで描く、日本再設計の未来予想図｜こまさか とも",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年間26兆円の「出血」を止められるか ── 原子力＋合成燃料＋フィジカルAIで描く、日本再設計の未来予想図",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ガソリンの小売価格が（だいたい、高くても）170〜180円/リットルの世界で、約4倍です",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "全体の約90%が水素の調達コストであり、水素製造（水電解）のコストの大部分は、投入する電力の価格そのものです",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ただし、水素コストの低減だけで合成燃料が化石燃料と価格で並ぶかどうかは、FT合成プロセス自体の効率改善や設備コストの低下にも依存します",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "それでも政府目標の合成粗油200円/Lに近づく方向性は見えており、カーボンプライシングとの組み合わせで化石燃料との実質的な価格差が縮小していく可能性はあります",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "片山さつき財務相が2026年3月の閣議後会見で、イラン情勢の悪化に伴う原油高を受けて「断固たる措置も含めしっかり対応する」と為替介入を辞さない姿勢を示したのも、この構造的なエネルギー脆弱性の中でのことです",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第5章 日本の二重苦 ── 年間26兆円の「出血」と260万人の「欠落」",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "26兆円の出血",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本は2023年、化石燃料の輸入で約26兆円を海外に支払いました",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "実際、近年の国際情勢では、原油価格の急騰や供給不安が頻繁に発生しており、日本経済にとって深刻なリスクとなっている",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現時点では、製造コストは1リットルあたり約700円とされており、現在のガソリン価格（約170円）の4倍以上に達している",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため、水素の価格も海外と比較して割高になりやすい",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、「2050年にはガソリンと同等価格になる」という予測も存在するが、これはあくまで技術革新と量産効果が計画通りに進んだ場合の前提に過ぎない",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "あなたは今、ガソリン価格の高騰やホルムズ海峡の緊張ニュースを見て、「日本は本当に石油に依存し続けるのか？」と胸騒ぎを覚えていないだろうか",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "理由は建設コスト・グリーン水素価格の高騰",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模予測は成長（2024年約4.5億USD、2034年33億超、CAGR23.6%）だが、主に航空・海運向け",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "再エネ電力価格が十分低下し、水素コストが20円/Nm³前後になれば商用化加速（政府目標2050年200円/L前後）",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "年間26兆円の「出血」を止められるか ── 原子力＋合成燃料＋フィジカルAIで描く、日本再設計の未来予想図｜こまさか とも",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年間26兆円の「出血」を止められるか ── 原子力＋合成燃料＋フィジカルAIで描く、日本再設計の未来予想図",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは政策提言でもポジショントークでもありません。ひとりの人間が、公開されているデータと技術動向を組み合わせて描いた「個人的な未来予想図」です。",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年3月末、片山さつき財務相がX（旧Twitter）上で合成燃料（e-fuel）について言及し、「勝ち筋を見極めて重点投資」と述べたことが話題になりました。ENEOSが横浜の中央技術研究所で日量1バレル（約159リットル）規模の合成燃料を実証製造しているニュースとも重なり、「日本の反撃」という言葉がSNSで飛び交いました。",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし同時に、ENEOSは2025年10月、日量300バレル規模のパイロットプラント建設計画を中止し、バイオ系合成燃料への方針転換を発表しています。「期待」と「現実の壁」が同時に見えるこの状況の背景には何があるのか。",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "私がこの話題に惹かれたのは、合成燃料という一つの技術トピックの背後に、エネルギー安全保障、原子力政策、人口減少、AI・ロボティクスという日本が抱える複数の構造的課題が全部つながって見えたからです。",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "それぞれの要素は既に多くの人が論じています。しかし、これらを一本の線で結んだとき、意外なほど整合的な",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "楽観に偏るつもりはありません。この技術が抱える本質的な弱点やリスクも率直に書きます。その上で、この未来予想図を共有する価値はあると考えました。",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【エネルギー】合成燃料（e-fuel）の可能性と現実（2026.4.8）｜岡本編集部",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【エネルギー】合成燃料（e-fuel）の可能性と現実（2026.4.8）",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "e-fuelの強み：既存インフラを活かせる",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "近年、次世代エネルギーとして「合成燃料（e-fuel）」が世界的に注目を集めている。",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは一言でいえば、「大気中のCO₂と水から合成される液体燃料」であり、従来のガソリンや軽油と同様に既存のエンジンでそのまま使用できるという特徴を持つ。",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "つまり、ガソリンスタンドや自動車のエンジンを大きく改修することなく導入できる点が最大の利点であり、「インフラそのまま」で脱炭素化に貢献できる技術として期待されている。",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "背景には、日本特有のエネルギー事情がある。",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本のエネルギー自給率は長年にわたり約10％前後と低水準にとどまり、エネルギーの大半を海外輸入に依存している。",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の人工石油（合成燃料・e-fuel）2026年現在地：夢の産油国への岐路、非線形エネルギー革命の全景｜TWLV32",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の人工石油（合成燃料・e-fuel）2026年現在地：夢の産油国への岐路、非線形エネルギー革命の全景",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年の「現在地」スナップショット：実証から戦略的再調整へ",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "タイムラインとターニングポイント（非線形キーイベント）",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ユースケース・ビジネスハック・ライフハック",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "あなたは今、ガソリン価格の高騰やホルムズ海峡の緊張ニュースを見て、「日本は本当に石油に依存し続けるのか？」と胸騒ぎを覚えていないだろうか。2026年、日本は「人工石油」の実証段階を越え、商用化への複雑な分岐点に立っている。これは単なる技術ニュースではない。エネルギー安全保障、気候変動、経済構造、日常の移動・物流までを巻き込むシステムレベルの転換だ。",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この記事は直線的時系列ではなく、多角的に深掘りする。タイムラインを散りばめ、ビジネス/ライフハックを挿入し、脆弱性とモートを描き、最後に「納得のループ」で締めくくる。Note読者のあなたが、読み終えた瞬間に「行動したくなる」ように設計した。",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "また、E20の認証制度にかかる議論を速やかに開始し、車両開発等のリードタイムを十分に確保した上で、2030年代のできるだけ早期に、乗用車の新車販売におけるE20対応車の比率を100%とすることを目指します",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上記方針を踏まえ、2025年6月10日に、総合エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会において、ガソリンへのバイオエタノール導入拡大に向けたアクションプランを策定しました",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "総合エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エンジン車でも脱炭素？グリーンな液体燃料「合成燃料」とは（2021年7月8日）",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社グループのカーボンニュートラル基本計画において、合成燃料は重要な脱炭素施策の一つに位置付けられている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "輸送分野の脱炭素化が求められる中、合成燃料は電動化が難しい分野を中心に、ネットCO₂排出量の少ない実用的な解決策として注目を集めている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同協業は、国境を越えたパートナーシップが新しい技術の普及を加速させ、既存の車両フリートおよびインフラの脱炭素化を支える具体的な実例となる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基準・認証、ルール形成戦略",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基準・認証、規制",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "循環経済、脱炭素化",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "こうした低炭素メタノールは一般に、大型船舶燃料を脱炭素化する上での活用期待が高い",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この観点からは、国際海事機関（IMO／国連の専門機関）が進める海運分野の脱炭素化の枠組み「Net Zero Framework（NZF）」の採択に注目が集まっていた",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "単著『メキシコ経済の基礎知識』、共著『グローバルサプライチェーン再考: 経済安保、ビジネスと人権、脱炭素が迫る変革』、『NAFTAからUSMCAへ－USMCAガイドブック』など",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料導入の現状（1）運輸脱炭素化にバイオ燃料の選択肢",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SAF導入へ、シンガポールの航空脱炭素化の取り組み",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "期待の高まる合成燃料（e-fuel）の現状 | 脱炭素技術センター",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素技術センター",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ポスト脱炭素政策について",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "進む船舶の脱炭素化",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鉄道分野の脱炭素化",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "重機分野の脱炭素化",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中でも長距離用のバスや自家用貨物車、EV化やFCEV化が困難な航空機については、液体燃料の脱炭素化（バイオ燃料、合成燃料）が選択肢の一つと考えられる",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "では、液体燃料の脱炭素化が一つの選択肢として重要視されている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため液体燃料の脱炭素化としてバイオ燃料が推進されているが、",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "であるため脱炭素燃料とみなせる",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社グループのカーボンニュートラル基本計画において、合成燃料は重要な脱炭素施策の一つに位置付けられている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "輸送分野の脱炭素化が求められる中、合成燃料は電動化が難しい分野を中心に、ネットCO₂排出量の少ない実用的な解決策として注目を集めている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同協業は、国境を越えたパートナーシップが新しい技術の普及を加速させ、既存の車両フリートおよびインフラの脱炭素化を支える具体的な実例となる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 世界的な脱炭素に向けた動きの中で、国際的なルール形成を主導することや、これまで培っ",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "てきた脱炭素技術、新たな脱炭素に資するイノベーションにより国際的な競争力を高めるこ",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素技術 コストパリティ",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素技術 コストパリティ克服すべき主な課題※薄赤色のエリアは技術的なイノベーションが必要なもの",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 脱炭素化の中での安定供給",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "強靱化を図るとともに 、脱炭素",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 脱炭素化された電力による電",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 最終的に脱炭素化が困難な",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "れたCO2を原料として再利用することから、脱炭素燃料とみなすことができる",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 脱炭素社会の実現に向けた多様な選択肢の一つとして、カーボンニュートラルに貢献する燃料の技術開発を促進す",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "燃料は、脱炭素化と資源制約対応の両面から注目を集め",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "て、基盤要素技術の高度化に加え、一貫製造プロセスの構築・最適化、品質・規格・認証に",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一定の揺り戻しの潮流は受けつつも世界的に脱炭素化が進展する中、輸送分野における",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の脱炭素化や、HEV・PHEV を含む内燃機関系車両の継続利用も含めて支えられている",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは、陸運の脱炭素化が「すべてを電気に置き換",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "fuelは、将来の脱炭素化の中で“余った領域に使う燃料”というより、どうしても残る用途を",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "なく、導入目標、認証、オフテイク、価格差支援など、需要側を後押しする制度設計をどの",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "制度、既存インフラ、用途特性、認証、オフテイク、価格差支援等を含めて総合的に捉える",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "もちろん、これは他の脱炭素オプションを一律に否定する議論ではない",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今後も関係機関と密接に連携しながら、研究開発、実証、規格・認証面の",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社グループのカーボンニュートラル基本計画において、合成燃料は重要な脱炭素施策の一つに位置付けられている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "輸送分野の脱炭素化が求められる中、合成燃料は電動化が難しい分野を中心に、ネットCO₂排出量の少ない実用的な解決策として注目を集めている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同協業は、国境を越えたパートナーシップが新しい技術の普及を加速させ、既存の車両フリートおよびインフラの脱炭素化を支える具体的な実例となる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ DNV（ノルウェー・オスロに本部を置く国際的な認証機関・船級協会）によると、",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "活用して設備コストを抑えながら脱炭素化を図ることができる",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ エネルギー基本計画等において、ガス体エネルギーの脱炭素化に向けて合成メタン中心に水素直接利用、バ",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素に向けた動きが進むなか、合成燃料の普及は",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "横浜マラソンも元々、脱炭素など持続可能な取り組みへの意識がとても高い大会ですので、私たちの思いとマッチしたというところも大きいです",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料は、将来の脱炭素化に貢献できる有望な選択肢です",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界的に脱炭素化への取り組みが進むなか、合成燃料は",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "」への協賛と燃料の提供を通して、来場される皆さまにも、まずは「合成燃料という脱炭素の選択肢があるんだ」と知っていただけたらと思っています",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料の動向は、脱炭素化政策、産業能力、そして進化するエネルギー経済の交差点に位置しています",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "GEF1およびeFuel GmbHにとっても欧州域外への初の輸出案件であり、国際的な合成燃料バリューチェーンの構築に貢献するとともに、両国のエネルギー協力を強化するものとなる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーン水素と回収されたCO₂を組み合わせることにより、同プロジェクトはモビリティ及び産業分野における化石燃料からの転換を後押しし、ドイツ、欧州諸国、日本の気候変動対策目標の達成に貢献するとともに、持続可能な燃料の生産・輸出拠点としてのドイツの競争力強化にも繋がるとしている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "両社の連携により欧州の生産能力を日本の需要と連動させ、グローバル合成燃料市場の発展に貢献することを目指している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鳥善とスズキ、インドベジタリアンレトルトカレーに6種類目の新味「ココナッツ野菜」を追加発売",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国関税措置への対応",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インドネシア",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産学連携で高度インド人材との接点創出を目指す東京理科大学",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国の両用品目輸出管理強化",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし、a)インドから輸入した種子が適切に発芽しなかった、b)栽培のための十分な情報提供や教育・訓練がなかった、c)市場規模が小さく収益性が乏しかった、ことなどにより失敗に終わった",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "その結果として、石油精製品と競合するバイオ燃料の促進を大胆に進めることはなかった",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2022年には、ボーイング（米国の航空機製造業者）と国際航空運送協会（IATA）のイニシアティブにも加わった〔その機を捉え、ロサンゼルス－メキシコ間で、ボーイング787ドリームライナー（中型機）に初めてSAF使用したフライトを実現している〕",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2023年下半期以降は、米国ロサンゼルスとメキシコシティー、グアダラハラ、モンテレイをつなぐフライトにSAFを35％混入したジェット燃料を使用している",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社は2025年6月、エアバス（欧州の航空機製造業者）とともに、国際民間航空機関（ICAO）のボランタリー環境基金に拠出する意向表明書に署名した",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このほか、米国からパイプラインを通じて、安価なシェールガスの供給を受けることができる",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州連合（EU）の新方針",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州における合成燃料の開発動向",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国・南米における合成燃料の開発動向",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国キャメロンプロジェクト",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国トールグラスFSプロジェクト",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年5月には、米国やチリ、ウルグアイに工場建設を計画する米国HIFグローバル社に約180億円を出資すると表明",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2023年9月、ENEOSは、HIFグローバルと協業の覚書を締結し、チリ・米国などの拠点から",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これは『2023年3月、欧州連合（",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2023年3月、欧州連合（EU）は温暖化ガス排出量をゼロとみなす",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ENEOSと三菱商事は2022年にSAFでも連携し、ENEOSがSAFの生産、三菱商事が原料調達や販売を手がけ、欧州並みにコストを下げることを目指している",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1およびeFuel GmbHにとっても欧州域外への初の輸出案件であり、国際的な合成燃料バリューチェーンの構築に貢献するとともに、両国のエネルギー協力を強化するものとなる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーン水素と回収されたCO₂を組み合わせることにより、同プロジェクトはモビリティ及び産業分野における化石燃料からの転換を後押しし、ドイツ、欧州諸国、日本の気候変動対策目標の達成に貢献するとともに、持続可能な燃料の生産・輸出拠点としてのドイツの競争力強化にも繋がるとしている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "両社の連携により欧州の生産能力を日本の需要と連動させ、グローバル合成燃料市場の発展に貢献することを目指している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鳥善とスズキ、インドベジタリアンレトルトカレーに6種類目の新味「ココナッツ野菜」を追加発売",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 水素による還元を実現するために、水素による吸熱反応の克服、安価・大量の水素供",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 安価で安定したエネルギー供給によって国際競争力の維持や国民負担の抑制を図りつつ2050年カーボン",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ため、海外からの安価な水素",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "おり、中東、豪州、北アフリカ、中国、一部南米等が再エネ水素製造に適していると分析",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 再エネ水素製造に適した地域は限られており、今後、安価な水素の争奪戦となることが見込まれ",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 安価な水素調達が見込まれる地域を実証フィールドに選定ているプロジェクトが存在する",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 米国三菱重工も出資",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 今後大量に必要となる水素・アンモニアを安定・安価に供給するには、大規模な需要創出と効率的なサプライ",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 米国（水素ハブ）、英国（低炭素・CCUSクラスター）、欧州（水素バレー）など海外でも、拠点形成に着目した脱炭素化への",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州では2035年以降の新車CO2排出基準強化が基本方針とされる一方、",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "素直に言えば、陸運では今後も「電動化」と「液体カーボンニュートラル燃料」が競合する",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1およびeFuel GmbHにとっても欧州域外への初の輸出案件であり、国際的な合成燃料バリューチェーンの構築に貢献するとともに、両国のエネルギー協力を強化するものとなる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーン水素と回収されたCO₂を組み合わせることにより、同プロジェクトはモビリティ及び産業分野における化石燃料からの転換を後押しし、ドイツ、欧州諸国、日本の気候変動対策目標の達成に貢献するとともに、持続可能な燃料の生産・輸出拠点としてのドイツの競争力強化にも繋がるとしている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "両社の連携により欧州の生産能力を日本の需要と連動させ、グローバル合成燃料市場の発展に貢献することを目指している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鳥善とスズキ、インドベジタリアンレトルトカレーに6種類目の新味「ココナッツ野菜」を追加発売",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 中国、ロシア等の一部大国も義務化の対",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 三菱重工 （米国法人 ）は、同社に出",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ Haru Oniで得た知見 ・経験を基に 、米国テキ",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ デンマークや英国等の 欧州エアラインに供給",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国合成燃料产业深度趋势专项报告（2026 GEP10RUKOS）_全球环保研究网 ♻",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国区域市场",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "产业信息(中国)",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国合成燃料产业深度趋势专项报告（2026 GEP10RUKOS）",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国合成燃料产业在二零二六年正处于从技术验证向规模化商业应用过渡的关键阶段",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本报告基于二零二六年的市场预测数据，深入剖析了中国合成燃料产业链的供需格局、竞争态势及技术演进路径，旨在为行业参与者提供全景式洞察",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "需求侧分析显示，二零二六年中国合成燃料的整体需求规模预计达到特定量级，增速高于传统化石燃料",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "专利及技术发展分析指出，中国在电解水制氢、费托合成等关键环节拥有自主知识产权，但在核心材料依赖进口方面仍存在短板",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国合成燃料产业在二零二六年展现出强劲的发展韧性",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2.1 中国合成燃料整体市场规模与预测",
+    "url": "https://www.gepresearch.com/86/view-1305868-1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "期待の高まる 合成燃料 （e-fuel）の現状 | 脱炭素技術センター — 期待の高まる 合成燃料 （e-fuel）の現状 | 脱炭素技術センター 脱炭素技術センター https://www.decarbonation-tech.com > intro_5010",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "液体 合成燃料 一貫製造プロセスの製造効率改善への取組み — 液体 合成燃料 一貫製造プロセスの製造効率改善への取組み 一般財団法人 カーボンニュートラル燃料技術センター PDF https://www.pecj.or.jp > JPEC_Journal_260702",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "横浜マラソンを支える未来のエネルギー。 合成燃料 の社会実装 ... — 横浜マラソンを支える未来のエネルギー。 合成燃料 の社会実装 ... ENEOS株式会社 https://www.hd.eneos.co.jp > articles > 20261016_02_cc09",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料 の事業会社 米国Infinium社への出資参画 | 2025年 — 合成燃料 の事業会社 米国Infinium社への出資参画 | 2025年 MITSUI & CO., LTD. https://www.mitsui.com > ホーム > トピックス",
+    "url": "https://www.mitsui.com/jp/ja/topics/2025/1251208_14877.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府、 合成燃料 の 設備 に600万ユーロを出資、生産拡大を目指す — 政府、 合成燃料 の 設備 に600万ユーロを出資、生産拡大を目指す ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2023/01",
+    "url": "https://www.jetro.go.jp/biznews/2023/01/14d1376da268c0c1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "脱炭素への処方箋 液体 合成燃料 （3）普及価格、水素調達カギ — 脱炭素への処方箋 液体 合成燃料 （3）普及価格、水素調達カギ 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/608131",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "E - Fuels Conference 2026 , Berlin - ESWET — E - Fuels Conference 2026 , Berlin - ESWET ESWET - European Suppliers of Waste to Energy Technology https://eswet.eu > event > e-fuels-conf...",
+    "url": "https://eswet.eu/event/e-fuels-conference-2026-berlin/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "7th European E - Fuels Conference — 7th European E - Fuels Conference Global e-Fuels https://global-efuels.com > event > 7t...",
+    "url": "https://global-efuels.com/event/7th-european-e-fuels-conference/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The European E - Fuels Conference 2026 - ASDEvents — The European E - Fuels Conference 2026 - ASDEvents ASDEvents https://www.asdevents.com > event",
+    "url": "https://www.asdevents.com/event.asp?id=26166",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "The European E - Fuels Conference 2026 - ACI - Whitmore Group — The European E - Fuels Conference 2026 - ACI - Whitmore Group Whitmore Group https://www.wplgroup.com > event",
+    "url": "https://www.wplgroup.com/aci/event/the-european-e-fuels-conference/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "社会（人・担い手）": [
+   {
+    "quote": "高度外国人材活躍支援",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高度外国人材を輩出する大学、その最前線に迫る",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産学連携で高度インド人材との接点創出を目指す東京理科大学",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 産業の新陳代謝の促進や、新産業や新規雇用など地域経済にとっての新たな価値創出の核となる戦略拠点を目指していくべき",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 拠点の担い手は、供給から利用にいたるまで幅広いステークホルダーを巻き込み、かつ長期的なコミットメントを有",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※WELL-BEING：個人の権利や自己実現が保障され、身体的、精神的、社会的に良好な状態にあることを意味する概念（出典：厚生労働省 雇用政策研究会 雇用政策研究会報告書）",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "三井物産の人材マネジメント",
+    "url": "https://www.mitsui.com/jp/ja/topics/2025/1251208_14877.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高度外国人材活躍支援",
+    "url": "https://www.jetro.go.jp/biznews/2023/01/14d1376da268c0c1.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 本プロジェクトからの燃料の持ち込みや人材派遣を通して得られるノウハウにより、本邦内外における",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AZEC閣僚会合を継続（技術面、資金面、人材面等での手厚い支援と政策協調で、市場拡大による新技術拡大・コスト低減を図る）",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・人材・投資を呼び込み、市場に製品・サービスを供給するためのバイオコミュニティ形成",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "受発注者のICT施工人材育成の推進、建設現場のデータの見える化による効率化の推進等",
+    "url": "https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon_sankou.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に深刻なのが現場人材の不足です",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産経新聞の報道（2026年2月）によれば、政府の試算で2040年に現場人材が260万人不足し、産業別では製造業で256万人、農林水産業で110万人が足りなくなるとされています",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の自動車産業は完成車メーカーだけでなく部品・素材・加工を含めて約550万人の雇用を抱えており、この時間的余裕の中で緩やかに産業構造をシフトさせていける意味は非常に大きい",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "5. 産経新聞「日本の現場人材、2040年に260万人不足の試算」（2026年2月14日）",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ENEOSが日本初の 合成燃料 実証プラントを完成 - X ENEOSが日本初の 合成燃料 実証プラントを完成 - X X https://x.com > Trending",
+    "url": "https://x.com/i/trending/2038278045203919024",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "WECARSが自賠責保険の取り扱いを開始へ、保険代理店登録を完了",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成メタン導入に関する商社の動き",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この①②③の観点から、大手商社が様々な活動を進めている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一方で、大手商社では合成メタンだけでなく、",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため、東京ガス、大阪ガス、東邦ガスなどを中心に商社が加わり、合成メタン（e-メタン）のサプライチェーン構築に向けたプロジェクトが国内外で進み始められている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "WECARSが自賠責保険の取り扱いを開始へ、保険代理店登録を完了",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "25) Centers for Disease Control and Prevention (CDC), \"Methanol: Systemic Agent | NIOSH |",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "WECARSが自賠責保険の取り扱いを開始へ、保険代理店登録を完了",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜アジア最大の市場調査レポート販売代理店＞",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "り、欧 州 委 員 会 （European Commission） の 下 に 置 か れ 、 脱 炭 素 化 と 持 続 可 能 な 成 長 を 推 進 す る た め の",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/03/JPEC_report_No.260301.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "European Commission Launches T-MED Investment Platform for Renewable Energy Technologies",
+    "url": "https://global-efuels.com/event/7th-european-e-fuels-conference/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Co. (JAPEX), commissioned to conduct a study on the implementation of an advanced CCS",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/05/JPECForum_2026_program_001.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• Nuclear power : Replacement of reactors decided to be decommissioned with next generation innovative reactors.",
+    "url": "https://www.egeda.ewg.apec.org/egeda/meeting/21WSpresentations/S2-7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "政治（法・予算・規制）": [
+   {
+    "quote": "これらの燃料は、厳格な持続可能性基準及び規制要件に適合して製造された場合、既存のインフラ、エンジン、流通システムとの高い互換性を維持しながら、ライフサイクル全体にわたるCO₂排出量を大幅に削減できる可能性がある",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1の製造コンセプトは、これらの持続可能性基準及び規制要件を満たすよう設計されている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鈑金塗装工場は地域の「最後の砦」か？経済産業省が工場を「エッセンシャルサービス」に認定する意味",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界各国の関税率",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府公共調達データベース",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国関税措置への対応",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国の両用品目輸出管理強化",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "基準・認証、規制",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "明確な国家戦略の不備や政府の石油公社への過度な保護があだになった結果だ",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府による支援や計画の欠如",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府が石油公社（PEMEX）を支援している",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1について、メキシコにはエタノールやバイオディーゼルの混合を義務づける規制が連邦レベルでも州レベルでも存在しない",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4に関連し、政府は2024年まで、バイオ燃料促進に向けた明確な政策や目標、計画を持たなかった",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "排出削減に向けた規制等を背景に、",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション（GI）基金とMEDO事業により、大規模かつ高効率な製造プロセスの開発を進め、2030年までの合成燃料の大規模製造プロセスの実証をめざすとし、大枠のロードマップを示した",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "①グリーンイノベーション（GI）基金による",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金事業の「高効率な大規模FT合成プロセス」",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "図５ GI基金事業で進められている「高効率な大規模FT合成プロセス」の開発",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料の最大の課題は化石燃料並みの低コストの実現であり、政府支援が必須である",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "、2030年に一層厳しくなる環境規制に備えると発表",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "内燃機関搭載車の正確な終了時期を決めるのは、最終的には顧客と環境規制",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今後、経済安全保障の観点からも、",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エネルギー自給率向上の観点から、政府はプレミアを付けてでも",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの燃料は、厳格な持続可能性基準及び規制要件に適合して製造された場合、既存のインフラ、エンジン、流通システムとの高い互換性を維持しながら、ライフサイクル全体にわたるCO₂排出量を大幅に削減できる可能性がある",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1の製造コンセプトは、これらの持続可能性基準及び規制要件を満たすよう設計されている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鈑金塗装工場は地域の「最後の砦」か？経済産業省が工場を「エッセンシャルサービス」に認定する意味",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1. CNに向けた政府の取組",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第6次エネルギー基本計画の全体像（2021年10月22日閣議決定）",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 規制的措置と支援的措置の",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金事業：CO2等を用いた燃料製造技術開発（予算額：上限1152.8億円）",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金事業",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "予算額：約576億円",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜GI基金プロジェクトにおける研究開発内容＞",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ GI基金などにより、大規模かつ高効率な製造プロセスの開発を支援",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ ENEOSは、 GI基金事業を用いて、最も商用化に近い「逆シフト反応＋FT反応」の高効率化・大規模化を目",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ ドイツ政府から800万€の支援を獲得",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "海運では EUの規制と IMOの国際目標が低 GHG燃料への転換を後押ししている",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "8) Regulation (EU) 2023/2405 of the European Parliament and of the Council of 18 October 2023 on",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "11) Regulation (EU) 2023/1805 of the European Parliament and of the Council of 13 September 2023",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "だけで自然に立ち上がるというより、 ある意味規制や政策ドリブンであって、 政策によって",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "注記：航空・陸運は需要量または現行市場規模、海運は導入目標・ GHG強度規制を示す",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "18) European Parliament and the Council, Regulation (EU) 2019/631, as amended by Regulation",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの燃料は、厳格な持続可能性基準及び規制要件に適合して製造された場合、既存のインフラ、エンジン、流通システムとの高い互換性を維持しながら、ライフサイクル全体にわたるCO₂排出量を大幅に削減できる可能性がある",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1の製造コンセプトは、これらの持続可能性基準及び規制要件を満たすよう設計されている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鈑金塗装工場は地域の「最後の砦」か？経済産業省が工場を「エッセンシャルサービス」に認定する意味",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "近年、航空分野の国際的なCO2排出削減に向けた規制等を背景に非可食原料の重要性が高まる",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（参考）SAFが必要となる背景：ICAOによる国際航空輸送分野でのCO2排出規制",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 政府関係機関等への報告・提言",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金プロジェクト",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GI基金事業を通じた早期商用化",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "グリーンイノベーション基金プロジェクト",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 現行のGI基金事業（高効率な大規模FT合成プロセス）についての支援の拡充等を検討",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高効率な大規模FT合成プロセス（グリーンイノベーション基金事業）高効率な大規模FT合成プロセス（グリーンイノベーション基金事業）",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ GI基金事業において、 FT合成プロセスによる高効率かつ大規模な合成燃料製造技術を開発中で、当該事業",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ GI基金事業についての支援の拡充を通じて、商用化時期の前倒し（2040年→2030年代前半）を検討",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（国立研究開発法人新エネルギー・産業技術総合開発機構）の「グリーンイノベーション基金事業」を活用した製造技術開発に加え、供給体制の構築や市場づくりにも取り組んでいます",
+    "url": "https://www.hd.eneos.co.jp/news/eneosways/articles/20261016_02_cc09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これらの技術的進歩は、ライフサイクル排出量に対する規制当局の注目が高まっている状況と重なり、既存の燃料生産者、新規参入者、および下流の消費者に対し、燃料戦略と資本配分を再評価するよう、圧力とインセンティブの両方をもたらしています",
+    "url": "https://newscast.jp/smart/news/3178078",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客（金を払う側）": [
+   {
+    "quote": "ガソリンへのバイオエタノール導入拡大について",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "我が国では、ガソリンにおいては、2030年度までに、一部地域における直接混合も含めたバイオエタノールの導入拡大を通じて、最大濃度10％の低炭素ガソリンの供給開始を目指しています",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "上記方針を踏まえ、2025年6月10日に、総合エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会において、ガソリンへのバイオエタノール導入拡大に向けたアクションプランを策定しました",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本アクションプランに基づいて、官民で導入拡大の取組を推進していくとともに、進捗に応じて随時見直しを行っていきます",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※2025年11月に2028年度を目途に沖縄県でE10を先行導入することを決定しました",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ガソリンへのバイオエタノール導入拡大に向けたアクションプラン（PDF形式）",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料の導入促進に向けた官民協議会 （METI/経済産業省）",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオエタノールの導入拡大をめざして、課題解決のアクションプラン策定（2025年7月25日）",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CO2は発電所や工場から排出されたCO2、将来的には大気中から直接回収したCO2を利用、H2は再生可能エネルギー由来の電力による水の電気分解やバイオマスをガス化することなどで調達することを想定したカーボンニュートラル実現の切り札となる燃料です",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ENEOSとドイツのGerman eFuel One GmbH（以下、GEF1）は、合成燃料の日本導入支援及び低炭素燃料の国際的な合成燃料バリューチェーンの構築を目的とした戦略的協業を開始した",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同協業は、ENEOSにとって日本への合成燃料初輸入案件となり、日本市場における合成燃料の導入拡大に向けた一歩となる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、顧客に低炭素燃料の選択肢を提供することで、カーボンニュートラル社会の実現に向けた取り組みを強化する方針である",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【車業界版・今日は何の日】11月4日は「ユネスコ憲章記念日」！現場で使える顧客トークネタ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "冬タイヤ交換シーズンに工場が備えるべきこと",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【車業界版・今日は何の日】11月3日は「文具の日」！現場で使える顧客トークネタ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "全固体電池の実用化はいつ？各メーカーの動向とEVの買い時を解説",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自動車部品の値上げはなぜ続く？整備工場が利益を守る対策を解説",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新法でバイオ燃料導入加速を、合成燃料にもポテンシャル（メキシコ） | 世界の次世代燃料の生産・消費動向を追う - 特集 - 地域・分析レポート - 海外ビジネス情報 - ジェトロ",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府公共調達データベース",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新法でバイオ燃料導入加速を、合成燃料にもポテンシャル（メキシコ）",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "持続可能な包装と企業の対応事例",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "輸出経験ゼロの町工場がタイ市場を開拓",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "メキシコでは、他国と比べてバイオ燃料の導入が遅れている",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そのため今後、導入が加速するとみられる",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "メキシコは2000年代半ばから、有機廃棄物の埋め立て地（ランドフィル）からバイオガスを抽出して発電するバイオガス発電を導入している",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "によると、2025年末時点でメキシコ国内にバイオガス製造工場が23カ所ある",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "多様な要因で、輸送部門へのバイオ燃料導入に進展なし",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "液体合成燃料の製造で、再生可能エネルギー由来の水素を使い、発電所や工場などから排出されたCO",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "導入促進に向けた官民協議会の設置",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成メタン導入に関する商社の動き",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国際企業連合「e-NG Coalition」の発足",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "発電所や工場などから排出されたCO",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "導入コストを抑えられて、市場導入が容易な点である",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "既存のエンジンでの使用や燃料インフラ・システムの活用が可能な合成燃料（e-fuel）は、導入コストを抑えられるため産業界には大きなメリットである",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年5月には、米国やチリ、ウルグアイに工場建設を計画する米国HIFグローバル社に約180億円を出資すると表明",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料（e-メタノール）の調達",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2030年頃までに、約1万トン／年以上のグリーン水素を製造できる水電解プラント（100MW以上）を建設し、出光興産、ENEOS、および地域の工場にパイプライン供給するサプライチェーンの構築をめざす",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ENEOSとドイツのGerman eFuel One GmbH（以下、GEF1）は、合成燃料の日本導入支援及び低炭素燃料の国際的な合成燃料バリューチェーンの構築を目的とした戦略的協業を開始した",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同協業は、ENEOSにとって日本への合成燃料初輸入案件となり、日本市場における合成燃料の導入拡大に向けた一歩となる",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "GEF1から合成燃料を輸入することによって、日本における合成燃料の導入、流通、利用に関する実践的な知見を早期に蓄積し、需要や規制が変化する中でも将来の供給拡大に向けた体制の整備を進める考えだ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、顧客に低炭素燃料の選択肢を提供することで、カーボンニュートラル社会の実現に向けた取り組みを強化する方針である",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧州では、再生可能エネルギー指令（RED III）枠組みの導入により、先進バイオ燃料や非バイオ由来再生可能燃料（RFNBO）の重要性が増している",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【車業界版・今日は何の日】11月4日は「ユネスコ憲章記念日」！現場で使える顧客トークネタ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "冬タイヤ交換シーズンに工場が備えるべきこと",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【車業界版・今日は何の日】11月3日は「文具の日」！現場で使える顧客トークネタ",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "全固体電池の実用化はいつ？各メーカーの動向とEVの買い時を解説",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自動車部品の値上げはなぜ続く？整備工場が利益を守る対策を解説",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 導入拡大に向け、系統制約の克服、コスト低減、周辺環境との調和が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 水素燃料電池の導入拡大に向けて、設備コスト低減、水素インフラの整備が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 導入拡大に向け、車種の拡充、設備コストの低減、充電インフラの整備、充電時間",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 導入拡大に向け、車種の拡充、設備コストの低減、水素インフラの整備が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "大限の導入を促す",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 再エネの最大限導入",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⚫ 合成燃料は、発電所や工場等から排出されたCO2や、将来的には大気中からDAC技術により回収さ",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "DAC 発電所・工場等",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "原料調達から製造まで",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "既存インフラを活用することで導入コストを抑えられるメリットが大きく、製造技術",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "おり、合成燃料を巡る議論は、単なる技術論ではなく、制度設計を含めた現実的な導入条件",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "年間26兆円の「出血」を止められるか 原子力＋ 合成燃料 ＋ ... 年間26兆円の「出血」を止められるか 原子力＋ 合成燃料 ＋ ... note https://note.com > 科学・テクノロジー > エネルギー",
+    "url": "https://note.com/tomos_ai_lab/n/n9fe20f721002",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【エネルギー】 合成燃料 （e-fuel）の可能性と現実（2026.4.8） 【エネルギー】 合成燃料 （e-fuel）の可能性と現実（2026.4.8） note https://note.com > 科学・テクノロジー > エネルギー",
+    "url": "https://note.com/takeokmt/n/n33871389a8c9",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の人工石油（ 合成燃料 ・e-fuel） 2026 年現在地 - note 日本の人工石油（ 合成燃料 ・e-fuel） 2026 年現在地 - note note https://note.com > 科学・テクノロジー > エネルギー",
+    "url": "https://note.com/clean_broom590/n/n64042fc3e429",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "e - Fuels – The Fuel of the Future? - LinkedIn e - Fuels – The Fuel of the Future? - LinkedIn LinkedIn https://www.linkedin.com > pulse > e-...",
+    "url": "https://www.linkedin.com/pulse/e-fuels-fuel-future-marketsandmarkets-hn1lc",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Spark e - Fuels | LinkedIn Spark e - Fuels | LinkedIn LinkedIn https://de.linkedin.com > sparkefuels",
+    "url": "https://de.linkedin.com/company/sparkefuels",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "E - fuels and their potential role in decarbonizing transport in ... E - fuels and their potential role in decarbonizing transport in ... LinkedIn https://www.linkedin.com > pulse > e-...",
+    "url": "https://www.linkedin.com/pulse/e-fuels-potential-role-decarbonizing-transport-eu-jaroslav-kme%C5%A5",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "技術（新しい技術・実証）": [
+   {
+    "quote": "次世代燃料（バイオ燃料、合成燃料）政策について｜資源エネルギー庁",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料政策について",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料（バイオ燃料、合成燃料）政策について",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "本ページは、2050年カーボンニュートラルに向けて、期待が高まっている次世代燃料（バイオ燃料、合成燃料政策について掲載しています",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、E20の認証制度にかかる議論を速やかに開始し、車両開発等のリードタイムを十分に確保した上で、2030年代のできるだけ早期に、乗用車の新車販売におけるE20対応車の比率を100%とすることを目指します",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料の導入促進に向けた官民協議会 （METI/経済産業省）",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TRAINING PROGRAMS",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "eFuel GmbHはGEF1の株主かつ戦略的パートナーであり、GEF1はドイツにおいて大規模なe-ガソリン生産設備の開発を進めている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vLrHqAxQ6p7pYP2wUEbEKAWLQh2xlwwQq8wPgYflCdeLDIQ3ffX",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新法でバイオ燃料導入加速を、合成燃料にもポテンシャル（メキシコ） | 世界の次世代燃料の生産・消費動向を追う - 特集 - 地域・分析レポート - 海外ビジネス情報 - ジェトロ",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界の次世代燃料の生産・消費動向を追う",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "確かに2008年、バイオエネルギー促進開発法を施行してはいた",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "なお、バイオエネルギー促進開発法自体に意味がなかったわけではない",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオエネルギー促進開発法（2008年）",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "エネルギー省（SENER）、環境天然資源省（SEMARNAT）、農業地方開発省（SADER）で役割分担（注）",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "農村開発、食料安全保障",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "研究開発と調整",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "出所：バイオエネルギー促進開発法（2008年2月1日付官報）およびバイオ燃料法（2025年3月18日付官報）からジェトロ作成",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイオ燃料用のバイオマスを生産するには、農業地方開発省（SADER）の許認可が必要になる",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/794d19ad611d4712.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代火力発電システムとは",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軽水炉用炉心材料の開発",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代原子力（新型炉）の開発現状",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代自動車：2010年代の開発",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "激化するEV用蓄電池の開発",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代航空機への挑戦！",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "電動/水素航空機の開発は？",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代ゼロエミッション船",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "を契機に、自動車での合成燃料の需要拡大を見込んだ開発競争が始まっている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "液体合成燃料の開発ロードマップ",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TRAINING PROGRAMS",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "eFuel GmbHはGEF1の株主かつ戦略的パートナーであり、GEF1はドイツにおいて大規模なe-ガソリン生産設備の開発を進めている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vI-mdpD1HAppBcdCL_jzWO3taBY37fWufzxfDE3mGWecjpq4euz",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料のあり方について",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "カーボンリサイクル ➢ CO2回収技術の確立、回収CO2の用途拡大、CCSの適地開発、コスト低減が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "水素発電 ➢ 水素専焼火力の技術開発、水素インフラの整備が課題 水素価格約13円/Nm3",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ メタネーション設備の大型化のための技術開発が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 製造工程で生じるCO2のセメント原料活用（石灰石代替）の要素技術開発が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 防錆性能を持つCO2吸収型コンクリート（骨材としてCO2を利用）の開発・用途拡",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "➢ 変換効率を高める光触媒等の研究開発、大規模化によるコスト低減が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンモニア発電 ➢ アンモニア混焼率の向上、アンモニア専焼火力の技術開発が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アンモニア化 ➢ 火炎温度の高温化のためのアンモニアバーナー等の技術開発が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "メタネーション ➢ メタネーション設備の大型化のための技術開発が課題",
+    "url": "https://lfb.mof.go.jp/chugoku/syoutori/20230214siryou2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "合成燃料技術開発本部",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "欧米では技術開発・実証事業が進展するとともに、制度面でもその位置付けの整理",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の整理に加え、実証・実装フェーズを支える投資支援の必要性が示されている",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "◇JPECでは、2020年度から 2024年度に新エネルギー・産業技術総合開発機構 （NEDO）",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "委託事業の一環として CO2 を原料とした液体合成燃料一貫製造プロセスの研究開発を",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "な合成燃料製造技術の開発に取り組んでいる",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "4) NEDO「CO2 からの液体合成燃料一貫製造プロセス技術の研究開発に着手―ガソリン・軽油・ジェッ",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "5) NEDO「先進的な合成燃料製造技術の実用化に向けた研究開発」 に係る実施体制の決定について 2025",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ensuring a level playing field for sustainable air transport (ReFuelEU Aviation)",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官民協議会といった枠組みはすでに立ち上がっており、今後は技術開発や供給拡大だけで",
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "TRAINING PROGRAMS",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "eFuel GmbHはGEF1の株主かつ戦略的パートナーであり、GEF1はドイツにおいて大規模なe-ガソリン生産設備の開発を進めている",
+    "url": "https://bsrweb.jp/article/870236?srsltid=AYCX9vKQHokFBufWsSPoFyta9j9wif9U-8QNwVYDr7iJlT19-_GBuSDm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "次世代燃料（バイオ燃料・合成燃料）について",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "①新技術：21％",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "段として、SAF（Sustainable Aviation Fuel，持続可能な航空燃料）の導入が必要とされている",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "○CO2と水素を原料とする合成燃料について、2040年までの自立商用化を目指し、製造技術開発",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "る技術開発・実証を実施",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "化に向けたロードマップの策定、サプライチェーン構築の検討・実証",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "e-fuel利活用の社会実証③利活用の推進③利活用の推進",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ベンチプラントによる実証",
+    "url": "https://www.mlit.go.jp/maritime/content/001735441.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-04T01:13:52.122263+00:00"
+}
