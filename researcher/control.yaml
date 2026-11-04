@@ -37,5 +37,5 @@ topics:
   frame_import: {run: true, shards: 8, per_run: 2}  # 2026-11-04 業界の3C＋PEST（海外→日本）33小区分。同上
   industry_news: {run: true, shards: 6, per_run: 3}  # 2026-11-04 業界ニュース（毎日）33小区分
   customer_3c: {run: true, shards: 3, per_run: 1}  # 2026-11-04 顧客1社ごとの3C＋PEST（一次情報）。inputs/customer_3c.csv に足せば回る
-  am_ceiling: {run: true, shards: 6, per_run: 2}  # 2026-11-04 金属AM受託の頭打ち金額：1件・1社年間・用途ごとの上限（12品目）
-  am_bureau: {run: true, shards: 7, per_run: 4}  # 2026-11-04 金属AM受託会社26社の売上・受託売上・設備台数・最大案件・料金・創業年度・株主構成
+  am_ceiling: {run: false, shards: 6, per_run: 2}  # 2026-11-04 金属AM受託の頭打ち金額：1件・1社年間・用途ごとの上限（12品目）
+  am_bureau: {run: false, shards: 7, per_run: 4}  # 2026-11-04 金属AM受託会社26社の売上・受託売上・設備台数・最大案件・料金・創業年度・株主構成
